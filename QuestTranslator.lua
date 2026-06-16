@@ -26,8 +26,21 @@ local QuestTranslator_MessOrig = {
       avaiquests = "Available Quests", };
 local Original_Font1 = "Fonts\\MORPHEUS.ttf";
 local Original_Font2 = "Fonts\\FRIZQT__.ttf";
+
+-- [DÜZELTME] Türkçe font yolunu eklenti klasörünüzü hedefleyecek şekilde buraya tanımlıyoruz.
+local QTR_Font = "Interface\\AddOns\\QuestTranslator-Vanilla-Turkish\\Fonts\\ipagui.ttf";
+
 if not QuestTranslator then
    QuestTranslator = { };
+end
+
+-- [DÜZELTME] Eklenti pencerelerindeki yazı elemanlarına fontu güvenli bir şekilde basan yardımcı fonksiyon.
+local function ApplyTurkishFont()
+    if (QuestTranslator_QuestTitle) then QuestTranslator_QuestTitle:SetFont(QTR_Font, 17) end
+    if (QuestTranslator_QuestDetail) then QuestTranslator_QuestDetail:SetFont(QTR_Font, 14) end
+    if (QuestTranslator_QuestTitle2) then QuestTranslator_QuestTitle2:SetFont(QTR_Font, 17) end
+    if (QuestTranslator_QuestDetail2) then QuestTranslator_QuestDetail2:SetFont(QTR_Font, 14) end
+    if (QuestTranslator_QuestWarning2) then QuestTranslator_QuestWarning2:SetFont(QTR_Font, 12) end
 end
 
 -- İç metinlerdeki tırnak ve ters slaşları korur, satır sonlarını doğrudan tek tırnak içinde NEW_LINE yapar
@@ -162,7 +175,7 @@ function QuestTranslator_CheckVars()
   if (QTR_PS["size"] == "1") then
      QuestTranslator_SizeH = 1;
   else 
-     QuestTranslator_SizeH = 2;     
+     QuestTranslator_SizeH = 2;    
      QuestTranslatorFrame1:SetHeight(525);
      QuestTranslator_QuestDetail:SetHeight(430);
      QTR_ToggleButton2:SetText("^");
@@ -170,7 +183,7 @@ function QuestTranslator_CheckVars()
   if (QTR_PS["width"] == "1") then
      QuestTranslator_SizeW = 1;
   else 
-     QuestTranslator_SizeW = 2;     
+     QuestTranslator_SizeW = 2;    
      QuestTranslatorFrame1:SetWidth(525);
      QuestTranslator_QuestDetail:SetWidth(495);
      QuestTranslator_QuestTitle:SetWidth(495);
@@ -202,8 +215,7 @@ function QuestTranslator_OnLoad1()
   QuestLogDetailScrollFrame:SetScript("OnShow", QuestTranslator_ShowAndUpdateQuestInfo);
   QuestLogDetailScrollFrame:SetScript("OnHide", QuestTranslator_HideQuestInfo);
 
-  QuestTranslator_QuestTitle:SetFont(QTR_Font, 17);
-  QuestTranslator_QuestDetail:SetFont(QTR_Font, 14);
+  ApplyTurkishFont(); -- [DÜZELTME] Boş değişken hatası engellendi ve güvenli fonksiyon çağrıldı.
   QuestTranslatorFrame1:ClearAllPoints();
   QuestTranslatorFrame1:SetPoint("TOPLEFT", QuestLogFrame, "TOPRIGHT", -3, -12);
 
@@ -245,13 +257,13 @@ function QuestTranslator_OnLoad1()
   QTR_CopyButton:Hide();
 
   if hooksecurefunc then
-      hooksecurefunc("QuestLogTitleButton_OnClick", function() QuestTranslator_UpdateQuestInfo() end);
+       hooksecurefunc("QuestLogTitleButton_OnClick", function() QuestTranslator_UpdateQuestInfo() end);
   else
-      local QTR_QuestLogTitleButton_OnClik = QuestLogTitleButton_OnClick;
-      function QuestLogTitleButton_OnClick(button)
-         QuestTranslator_UpdateQuestInfo();
-         QTR_QuestLogTitleButton_OnClik(button);
-      end
+       local QTR_QuestLogTitleButton_OnClik = QuestLogTitleButton_OnClick;
+       function QuestLogTitleButton_OnClick(button)
+          QuestTranslator_UpdateQuestInfo();
+          QTR_QuestLogTitleButton_OnClik(button);
+       end
   end
 end
 
@@ -285,9 +297,9 @@ function QuestTranslator_OnLoad2()
   QuestTranslator.frame2:RegisterEvent("QUEST_PROGRESS");
   QuestTranslator.frame2:RegisterEvent("QUEST_COMPLETE");
   QuestTranslator.frame2:SetScript("OnEvent", QuestTranslator_OnEvent3);
-  QuestTranslator_QuestTitle2:SetFont(QTR_Font, 17);
-  QuestTranslator_QuestDetail2:SetFont(QTR_Font, 14);
-  QuestTranslator_QuestWarning2:SetFont(QTR_Font, 12);
+  
+  ApplyTurkishFont(); -- [DÜZELTME] Boş değişken hatası engellendi ve güvenli fonksiyon çağrıldı.
+  
   QuestTranslatorFrame2:ClearAllPoints();
   QuestTranslatorFrame2:SetPoint("TOPLEFT", QuestFrame, "TOPRIGHT", -31, -19);
   QuestFrame:SetScript("OnHide", QuestTranslator_Frame2Close);
@@ -318,16 +330,19 @@ function QuestTranslator_OnEvent3()
   if (event == "QUEST_DETAIL") then
      QTR_event = "QUEST_DETAIL";
      QuestTranslator_OnEvent2();
+     ApplyTurkishFont(); -- [DÜZELTME] Metinler değiştikçe fontu tazelemek için çağrıldı.
   end
 
   if (event == "QUEST_PROGRESS") then
      QTR_event = "QUEST_PROGRESS";
      QuestTranslator_OnEvent2();
+     ApplyTurkishFont(); -- [DÜZELTME] Metinler değiştikçe fontu tazelemek için çağrıldı.
   end
 
   if (event == "QUEST_COMPLETE") then
      QTR_event = "QUEST_COMPLETE";
      QuestTranslator_OnEvent2();
+     ApplyTurkishFont(); -- [DÜZELTME] Metinler değiştikçe fontu tazelemek için çağrıldı.
   end
 end
 
@@ -607,7 +622,7 @@ function QuestTranslator_UpdateQuestInfo()
      QTR_translator = "";
      if (QuestTranslator_QuestData[str_id]["Translator"]) then
         if (QuestTranslator_QuestData[str_id]["Translator"]>"") then
-            QTR_translator = "\n\n" .. QuestTranslator_Messages.translator .. " " .. QuestTranslator_ExpandUnitInfo(QuestTranslator_QuestData[str_id]["Translator"]);
+             QTR_translator = "\n\n" .. QuestTranslator_Messages.translator .. " " .. QuestTranslator_ExpandUnitInfo(QuestTranslator_QuestData[str_id]["Translator"]);
         end
      end
      QuestTranslator_QuestTitle:SetText(QuestTranslator_ExpandUnitInfo(QuestTranslator_QuestData[str_id]["Title"]));
@@ -617,10 +632,12 @@ function QuestTranslator_UpdateQuestInfo()
      QuestTranslator_QuestDetail:SetText("|cffff0000" .. QuestTranslator_Messages.missing .. "|r\n\nBu görevin temiz Lua şablonunu panoya kopyalamak için sağ alttaki butona tıklayın.");
      if QTR_CopyButton then QTR_CopyButton:Show() end
   end 
+  ApplyTurkishFont(); -- [DÜZELTME] Log güncellendikçe fontu yeniler.
 end
 
 
 function QuestTranslator_ExpandUnitInfo(msg)
+  if (not msg) then return ""; end -- [DÜZELTME] Çökme ihtimaline karşı nil koruması.
   msg = string.gsub(msg, "NEW_LINE", "\n");
   msg = string.gsub(msg, "YOUR_NAME", QTR_name);
   msg = string.gsub(msg, "YOUR_CLASS", QTR_class);
