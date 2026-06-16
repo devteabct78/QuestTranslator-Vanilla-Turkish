@@ -6689,6 +6689,8 @@ QuestTranslator_QuestList = {
 ["Lucky Coin"]="100001",
 ["Refugees no More"]="100002",
 ["Provisions for Refugees"]="41188",
+["Garbage Man"]="80120",
+
 
 
 } 

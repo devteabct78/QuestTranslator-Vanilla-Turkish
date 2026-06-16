@@ -22139,11 +22139,22 @@ QuestTranslator_QuestData = {
     -- Provisions for Refugees
     ["41188"] = {
     ["Title"]="Mülteciler İçin Erzak",
-    ["Description"]="Nafaka Konseyi, bu topraklara sığınan herkes için yiyecek ve barınak sağlama sorumluluğunu bana verdi. Niyet açısından asil bir görev, ancak ciddi kaynak eksikliği nedeniyle omuzlarımızda büyük bir yük.NEW_LINENEW_LINEBölgedeki yaban domuzu nüfusu oldukça fazla, halkımız için potansiyel bir besin kaynağı. Ancak acı gerçek şu ki—buradaki pek çok insan onları avlamak için gerekli ekipmandan veya beceriden yoksun. Bu açığı kapatmak, istekli ve yetenekli omuzlara düşüyor.NEW_LINENEW_LİNEEğer imkanınız ve beceriniz varsa, davamız için en az on adet genç yaban domuzu eti toplayabilir misiniz? Burada güvenli bir yer arayanların ruhunu kemiren açlığı dindirmek adına bu muazzam bir yardım olurdu.",
+    ["Description"]="Nafaka Konseyi, bu topraklara sığınan herkes için yiyecek ve barınak sağlama sorumluluğunu bana verdi. Niyet açısından asil bir görev, ancak ciddi kaynak eksikliği nedeniyle omuzlarımızda büyük bir yük.NEW_LINENEW_LINEBölgedeki yaban domuzu nüfusu oldukça fazla, halkımız için potansiyel bir besin kaynağı. Ancak acı gerçek şu ki—buradaki pek çok insan onları avlamak için gerekli ekipmandan veya beceriden yoksun. Bu açığı kapatmak, istekli ve yetenekli omuzlara düşüyor.NEW_LINENEW_LINEEğer imkanınız ve beceriniz varsa, davamız için en az on adet genç yaban domuzu eti toplayabilir misiniz? Burada güvenli bir yer arayanların ruhunu kemiren açlığı dindirmek adına bu muazzam bir yardım olurdu.",
     ["Objectives"]="Brinthilien'deki Komutan Anarileth'e 10 adet Young Thalassian Boar Flank getirin.",
     ["Progress"]="Yaban domuzlarını bu vadinin her yerinde bulabilirsiniz.",
     ["Completion"]="Teşekkür ederim, YOUR_CLASS. Katkıda bulunma arzun, muazzam ihtiyaç denizimizdeki küçük bir umut ışığı gibi. Karşılaştığımız zorluklar okyanusunun ortasında sadece bir damla gibi görünebilir, ancak her nazik jestle eski görkemimizin restorasyonuna bir adım daha yaklaşıyoruz.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Provisions for Refugees
+
+    -- Garbage Man
+    ["80120"] = {
+    ["Title"]="Çöpçü",
+    ["Description"]="Hey, sen! Evet, sana diyorum dostum!NEW_LINENEW_LINEBütün gün bizim ekibin çöplerini toplayıp durdum, gerçekten bir molaya ihtiyacım var.NEW_LINENEW_LINEBak ne diyeceğim, biraz da ortalığı sen temizlesen nasıl olur?NEW_LINENEW_LINEBen şurada gölgede uzanıp azıcık kestiriyor olacağım. Uyandığımda burayı tertemiz görmek istiyorum.NEW_LINENEW_LINEHadi bakalım, iş başına!",
+    ["Objectives"]="Kazznik, çalışma alanının dört bir yanına saçılmış olan 8 adet Çöpü (Trash) toplamanızı istiyor.",
+    ["Progress"]="Oho, şimdiden döndün mü?",
+    ["Completion"]="Güzel iş!NEW_LINENEW_LINEMola verdiğimi patrona söyleme sakın.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Garbage Man
 };
