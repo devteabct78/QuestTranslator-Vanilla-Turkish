@@ -22115,15 +22115,16 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end Savaş Lordu Krellian
 
-    -- Фрагменти магії
-    ["9364"] = {
-    ["Title"]="Фрагменти магії",
-    ["Description"]="Мої дослідження виявили унікальне призначення призматичної оболонки.NEW_LINENEW_LINEВізьми мушлю та наклади заклинання поліморфії на Огидохльостів в Азшарі. Якщо почекати декілька секунд, хаотична аура мушлі змусить їх розділитися на кількох менших клонів на кілька секунд. Вбий цих клонів якомога швидше, і мушля збере їхню сутність.NEW_LINENEW_LINEКоли мушля наповниться, поверни її мені.",
-    ["Objectives"]="Накладіть поліморфію на Огидохльостів в Азшарі та вбийте клонів, що з'являться через кілька секунд. Коли знищите 50 поліморфних клонів, поверніться до архімага Зілема в Азшару.",
-    ["Progress"]="Ти вже {стать:зібрав:зібрала} їхню сутність?",
-    ["Completion"]="Чудово! Чудово!NEW_LINENEW_LINEТепер ми можемо використати зібрану магічну силу для створення нового закляття!",
+  --Custom Quests for OctoWOW
+  -- Lucky Coin
+    ["100001"] = {
+    ["Title"]="Şans Parası",
+    ["Description"]="Şey... afedersiniz! Sizden bir ricam olacaktı!NEW_LINENEW_LINEHah, sonunda söyleyebildim! Manastırdan ayrılan insanlara yaklaşmak beni çok gerginleştiriyor ama dileğimin gerçekleşmesini sağlamanın tek yolu bu.NEW_LINENEW_LINEOh! Rica, tabii ki! Görüyorsunuz ya, Stormwind City'yi ziyaret etmeyi ve Gallina Winery'deki arkadaşım Suzetta'yı görmeyi çok seviyorum ve her zaman Trade District'teki çeşmenin yanından geçiyorum. Bilirsiniz, bankanın yanındakini!NEW_LINENEW_LINEEğer şehre doğru gidiyorsanız, iyi şans getirmesi için bu parayı çeşmeye fırlatabilir misiniz? Duydum ki içine bir bozuk para fırlatırsanız, dileğiniz gerçekleşirmiş. Benim dileğim en kısa sürede tekrar Stormwind'i ziyaret edebilmek!NEW_LINENEW_LINEOh! Bir de yapabilirseniz, lütfen Suzetta Gallina'ya selamlarımı iletin!",
+    ["Objectives"]="Teresa için Stormwind City'deki Trade District Fountain'a bir bozuk para fırlatın, ardından Gallina Winery'deki Suzetta Gallina ile konuşun.",
+    ["Progress"]="",
+    ["Completion"]="",
     ["minlevel"]="0",
     ["questlevel"]="0",
-    }, -- end Фрагменти магії
+    }, -- end Lucky Coin
 
 };

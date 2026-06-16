@@ -6684,5 +6684,8 @@ QuestTranslator_QuestList = {
 ["Zuluhed the Whacked"]="10866",
 ["zzOLD The Fate of the Ruby Dragonshrine"]="12452",
 ["ZZOLDLost: Widget"]="13150",
-["ZZOLDWisp Cloak"]="13299"
+["ZZOLDWisp Cloak"]="13299",
+--Custom Quests for OctoWOW
+["Lucky Coin"]="100001",
+
 } 
