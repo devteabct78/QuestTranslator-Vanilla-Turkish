@@ -22126,5 +22126,24 @@ QuestTranslator_QuestData = {
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Lucky Coin
-
+    -- Refugees no More
+    ["100002"] = {
+    ["Title"]="Artık Mülteci Değiller",
+    ["Description"]="Oh, by the Sunwell, another caravan? It feels like the very ground beneath us is groaning from the weight of weary travelers. There's scarcely enough space to catch one's breath, let alone find a place to rest.NEW_LINENEW_LINEPlease, find a small patch of ground, any corner will do, and try to make it yours, at least for now. Unpack your belongings, as meager as they may be. It seems as if we're all carrying the weight of shattered lives in our hands.NEW_LINENEW_LINETake a moment to collect yourself amidst the chaos. And look, there's Commander Anarileth, over there, orchestrating what little order we have left. She seems to be in need of capable souls, and by the look of you, resilience marks your spirit.NEW_LINENEW_LINEApproach her when you can, offer your aid. May the Light guide us through these dark times.",
+    ["Objectives"]="Report to Commander Anarileth in Brinthilien.",
+    ["Progress"]="",
+    ["Completion"]="Aerthand'ın kararı, seni bana göndermekle ne kadar doğru olduğunu kanıtladı. Savaşçı, varlığında yeteneğin işaretini taşıyorsun, bu çok açık. Bu çalkantılı zamanda senin yeteneklerinden yararlanabileceğimize hiç şüphe yok.NEW_LINENEW_LINEYapılacak çok şey var ve gelen her kervanla birlikte ihtiyaçlarımız da büyüyor. Davamıza el atmaya hazır mısın?",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Refugees no More
+    -- Provisions for Refugees
+    ["41188"] = {
+    ["Title"]="Mülteciler İçin Erzak",
+    ["Description"]="Nafaka Konseyi, bu topraklara sığınan herkes için yiyecek ve barınak sağlama sorumluluğunu bana verdi. Niyet açısından asil bir görev, ancak ciddi kaynak eksikliği nedeniyle omuzlarımızda büyük bir yük.NEW_LINENEW_LINEBölgedeki yaban domuzu nüfusu oldukça fazla, halkımız için potansiyel bir besin kaynağı. Ancak acı gerçek şu ki—buradaki pek çok insan onları avlamak için gerekli ekipmandan veya beceriden yoksun. Bu açığı kapatmak, istekli ve yetenekli omuzlara düşüyor.NEW_LINENEW_LİNEEğer imkanınız ve beceriniz varsa, davamız için en az on adet genç yaban domuzu eti toplayabilir misiniz? Burada güvenli bir yer arayanların ruhunu kemiren açlığı dindirmek adına bu muazzam bir yardım olurdu.",
+    ["Objectives"]="Brinthilien'deki Komutan Anarileth'e 10 adet Young Thalassian Boar Flank getirin.",
+    ["Progress"]="Yaban domuzlarını bu vadinin her yerinde bulabilirsiniz.",
+    ["Completion"]="Teşekkür ederim, YOUR_CLASS. Katkıda bulunma arzun, muazzam ihtiyaç denizimizdeki küçük bir umut ışığı gibi. Karşılaştığımız zorluklar okyanusunun ortasında sadece bir damla gibi görünebilir, ancak her nazik jestle eski görkemimizin restorasyonuna bir adım daha yaklaşıyoruz.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Provisions for Refugees
 };

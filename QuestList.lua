@@ -6687,5 +6687,8 @@ QuestTranslator_QuestList = {
 ["ZZOLDWisp Cloak"]="13299",
 --Custom Quests for OctoWOW
 ["Lucky Coin"]="100001",
+["Refugees no More"]="100002",
+["Provisions for Refugees"]="41188",
+
 
 } 
