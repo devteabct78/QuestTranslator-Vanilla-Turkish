@@ -30,34 +30,34 @@ if not QuestTranslator then
    QuestTranslator = { };
 end
 
--- Yeni Eklenen Fonksiyon: İç metinlerdeki tırnak ve ters slaşları Lua syntax'ına uygun hale getirir
+-- İç metinlerdeki tırnak ve ters slaşları Lua syntax'ına uygun hale getirir
 local function QTR_CleanLuaText(txt)
     if (not txt) then return ""; end
-    -- Ters slaşları çiftler
     txt = string.gsub(txt, "\\", "\\\\");
-    -- Çift tırnakları escape eder
     txt = string.gsub(txt, '"', '\\"');
-    -- Satır sonlarını NEW_LINE belirtecine çevirir
     txt = string.gsub(txt, "\r\n", "NEW_LINE");
     txt = string.gsub(txt, "\n", "NEW_LINE");
-    -- Eğer metin içinde oyuncu adı vb varsa şablona geri çevirir
     txt = string.gsub(txt, QTR_name, "YOUR_NAME");
     txt = string.gsub(txt, QTR_class, "YOUR_CLASS");
     txt = string.gsub(txt, QTR_race, "YOUR_RACE");
     return txt;
 end
 
--- Yeni Eklenen Fonksiyon: Butona basıldığında eksik görevin şablonunu panoya kopyalar
-function QuestTranslator_CopyMissingToClipboard(qid)
-    local q_title = GetTitleText() or "Bilinmeyen Gorev";
-    local desc = QTR_CleanLuaText(GetQuestText());
-    local obj = QTR_CleanLuaText(GetObjectiveText());
-    local prog = QTR_CleanLuaText(GetProgressText());
-    local comp = QTR_CleanLuaText(GetRewardText());
+-- DÜZELTME: 1.12 API'sine uygun dinamik EditBox penceresi
+function QuestTranslator_CopyMissingToClipboard()
+    local questSelected = GetQuestLogSelection();
+    local q_title = GetQuestLogTitle(questSelected) or "Bilinmeyen Gorev";
+    
+    local desc = QTR_CleanLuaText(GetQuestLogQuestText());
+    local obj = QTR_CleanLuaText(GetQuestLogRequiredMoney() > 0 and "" or GetObjectiveText()); 
+    local prog = "";
+    local comp = "";
 
-    -- Kullanıcının talep ettiği tam format şablonu
+    local qid = QuestTranslator_SearchIDforName(q_title);
+    local str_id = tostring(qid);
+
     local template = "-- " .. q_title .. "\n" ..
-                     '    ["' .. qid .. '"] = {\n' ..
+                     '    ["' .. str_id .. '"] = {\n' ..
                      '    ["Title"]="' .. q_title .. '",\n' ..
                      '    ["Description"]="' .. desc .. '",\n' ..
                      '    ["Objectives"]="' .. obj .. '",\n' ..
@@ -67,16 +67,56 @@ function QuestTranslator_CopyMissingToClipboard(qid)
                      '    ["questlevel"]="0",\n' ..
                      '    }, -- end ' .. q_title;
 
-    -- EditBox yardımıyla metni WoW clipboardsuna (Masaüstü panosuna) kopyalama hilesi
-    local editBox = ChatFrameEditBox;
-    if (not editBox) then
-        editBox = CreateFrame("EditBox", nil, UIParent);
+    -- Eğer kopyalama penceresi daha önce oluşturulmadıysa oluşturuyoruz
+    if (not QTR_CopyFrame) then
+        QTR_CopyFrame = CreateFrame("Frame", "QTR_CopyFrame", UIParent);
+        QTR_CopyFrame:SetWidth(400);
+        QTR_CopyFrame:SetHeight(80);
+        QTR_CopyFrame:SetPoint("CENTER", UIParent, "CENTER", 0, 100);
+        QTR_CopyFrame:SetBackdrop({
+            bgFile = "Interface\\Buttons\\WHITE8X8",
+            edgeFile = "Interface\\DialogFrame\\UI-DialogBox-Border",
+            tile = true, tileSize = 16, edgeSize = 16,
+            insets = { left = 4, right = 4, top = 4, bottom = 4 }
+        });
+        QTR_CopyFrame:SetBackdropColor(0, 0, 0, 0.9);
+        QTR_CopyFrame:SetFrameStrata("TOOLTIP");
+        
+        -- Bilgilendirme Metni
+        local lbl = QTR_CopyFrame:CreateFontString(nil, "ARTWORK", "GameFontNormalSmall");
+        lbl:SetPoint("TOPLEFT", QTR_CopyFrame, "TOPLEFT", 15, -12);
+        lbl:SetText("|cffffff00Şablon Hazır! Kopyalamak için CTRL + C tuşlarına basın:|r");
+
+        -- Metin Giriş Kutusu (EditBox)
+        QTR_CopyEditBox = CreateFrame("EditBox", "QTR_CopyEditBox", QTR_CopyFrame);
+        QTR_CopyEditBox:SetWidth(370);
+        QTR_CopyEditBox:SetHeight(20);
+        QTR_CopyEditBox:SetPoint("TOPLEFT", QTR_CopyFrame, "TOPLEFT", 15, -30);
+        QTR_CopyEditBox:SetFontObject(GameFontHighlightSmall);
+        QTR_CopyEditBox:SetAutoFocus(true);
+        
+        -- Kapatma veya ESC basıldığında gizleme
+        QTR_CopyEditBox:SetScript("OnEscapePressed", function() QTR_CopyFrame:Hide() end);
+        
+        -- Arka plan kutusu grafiği
+        local ebBg = QTR_CopyEditBox:CreateTexture(nil, "BACKGROUND");
+        ebBg:SetTexture(0, 0, 0, 0.6);
+        ebBg:SetAllPoints(QTR_CopyEditBox);
+
+        -- Kapat butonu
+        local closeBtn = CreateFrame("Button", nil, QTR_CopyFrame, "UIPanelButtonTemplate");
+        closeBtn:SetWidth(60);
+        closeBtn:SetHeight(18);
+        closeBtn:SetText("Kapat");
+        closeBtn:SetPoint("BOTTOMRIGHT", QTR_CopyFrame, "BOTTOMRIGHT", -15, 10);
+        closeBtn:SetScript("OnClick", function() QTR_CopyFrame:Hide() end);
     end
-    editBox:SetText(template);
-    editBox:HighlightText();
-    editBox:CopyText();
-    
-    DEFAULT_CHAT_FRAME:AddMessage("|cff00ff00[QTR] " .. q_title .. " (ID: " .. qid .. ") eklenti şablonu panoya kopyalandı! Doğrudan Lua dosyanıza yapıştırabilirsiniz.|r");
+
+    -- İçeriği yerleştir ve otomatik olarak seçili (mavi) yap
+    QTR_CopyFrame:Show();
+    QTR_CopyEditBox:SetText(template);
+    QTR_CopyEditBox:HighlightText();
+    QTR_CopyEditBox:SetFocus();
 end
 
 
@@ -186,12 +226,15 @@ function QuestTranslator_OnLoad1()
   QTR_ToggleButton3:SetPoint("BOTTOMLEFT", QuestTranslatorFrame1, "BOTTOMRIGHT", -25, 9);
   QTR_ToggleButton3:SetScript("OnClick", QuestTranslator_ChangeFrameWidth);
 
-  -- Kopyalama İşlemini Tetikleyecek Dinamik UI Butonu (Eksik Görevlerde Pencerede Görünür)
-  QTR_CopyButton = CreateFrame("Button", "QTR_CopyButton", QuestTranslatorFrame2, "UIPanelButtonTemplate");
-  QTR_CopyButton:SetWidth(140);
-  QTR_CopyButton:SetHeight(24);
-  QTR_CopyButton:SetText("Şablonu Kopyala");
-  QTR_CopyButton:Hide(); -- Varsayılan olarak gizli
+  -- Kopyala Butonu
+  QTR_CopyButton = CreateFrame("Button", "QTR_CopyButton", QuestTranslatorFrame1, "UIPanelButtonTemplate");
+  QTR_CopyButton:SetWidth(110);
+  QTR_CopyButton:SetHeight(22);
+  QTR_CopyButton:SetText("Kopyala");
+  QTR_CopyButton:SetFrameStrata("HIGH"); 
+  QTR_CopyButton:SetPoint("BOTTOMLEFT", QuestTranslatorFrame1, "BOTTOMRIGHT", -155, 9);
+  QTR_CopyButton:SetScript("OnClick", QuestTranslator_CopyMissingToClipboard);
+  QTR_CopyButton:Hide();
 
   if hooksecurefunc then
       hooksecurefunc("QuestLogTitleButton_OnClick", function() QuestTranslator_UpdateQuestInfo() end);
@@ -209,7 +252,6 @@ function QuestTranslator_OnEvent1()
 
   if (event == "ADDON_LOADED") then
      QuestTranslator_CheckVars();
-     --QuestTranslator_BlizzardOptions();
      if (DEFAULT_CHAT_FRAME) then
          DEFAULT_CHAT_FRAME:AddMessage("|cffffff00QuestTranslator ver. "..QTR_version.." "..QTR_lang.." - " .. QuestTranslator_Messages.loaded);
      else
@@ -328,7 +370,6 @@ function QuestTranslator_OnEvent2()
      QuestTranslator_QuestTitle2:SetText(q_title);
      QuestTranslator_QuestDetail2:SetText(QuestTranslator_Messages.missing);
      QuestTranslator_QuestWarning2:SetText("");
-     QTR_CopyButton:Hide(); -- Her yeni kontrolde butonu sıfırla
      
      if ( q_ID == 0 ) then
         if ( isGetQuestID=="1" ) then
@@ -342,14 +383,11 @@ function QuestTranslator_OnEvent2()
         local str_id = tostring(q_ID);
         QuestTranslator_QuestID2:SetText("QuestID: " .. str_id);
         QuestTranslator_QuestTitle2:SetText(q_title);
-        
         if (QuestTranslator_QuestData[str_id]) then
-           -- Eğer çeviri varsa normal pencereyi göster, butona gerek yok
            if (QTR_PS["mode"]=="2") then
               QuestTranslator_ShowFrame2(QTR_event, str_id);
            end
         else
-           -- ÇEVİRİ EKSİK DURUMU: Kayıt işlemlerini yap ve kopyalama butonunu pencereye yerleştir
            QTR_SAVED[str_id.." TITLE"]=GetTitleText();
            if (QTR_event=="QUEST_DETAIL") then
               QTR_SAVED[str_id.." DESCRIPTION"]=GetQuestText();
@@ -361,18 +399,7 @@ function QuestTranslator_OnEvent2()
            if (QTR_event=="QUEST_COMPLETE") then
               QTR_SAVED[str_id.." COMPLETE"]=GetRewardText();
            end
-           
-           -- Buton konumlandırma ve gösterme ayarları
-           QTR_CopyButton:ClearAllPoints();
-           QTR_CopyButton:SetPoint("BOTTOMRIGHT", QuestTranslatorFrame2, "BOTTOMRIGHT", -15, 12);
-           QTR_CopyButton:SetScript("OnClick", function() QuestTranslator_CopyMissingToClipboard(str_id) end);
-           QTR_CopyButton:Show();
-           
-           -- Çeviri olmasa bile eksik uyarısıyla beraber boş pencereyi aç ki buton tıklanabilir olsun
-           QuestTranslator_QuestDetail2:SetText("|cffff0000" .. QuestTranslator_Messages.missing .. "|r\n\nBu görevin kod şablonunu oluşturup panoya kopyalamak için sağ alttaki butona tıklayın.");
-           QuestTranslatorFrame2:ClearAllPoints();
-           QuestTranslatorFrame2:SetPoint("TOPLEFT", QuestFrame, "TOPRIGHT", -31, -19);
-           QuestTranslatorFrame2:Show();
+           QuestTranslatorFrame2:Hide();
         end
      end
   end
@@ -388,8 +415,6 @@ end
 function QuestTranslator_ShowFrame2(eventStr, qid)
   QuestTranslator_QuestID2:SetText("QuestID: " .. qid);
   QuestTranslator_QuestDetail2:SetText(QuestTranslator_Messages.missing);
-  QTR_CopyButton:Hide(); -- Çevirisi tam olan görevlerde butonu gizle
-
   if (QuestTranslator_QuestData[qid]) then
      QuestTranslator_QuestTitle2:SetText(QuestTranslator_ExpandUnitInfo(QuestTranslator_QuestData[qid]["Title"]));
      local QTR_text = "";
@@ -426,8 +451,13 @@ function QuestTranslator_ShowFrame2(eventStr, qid)
 end
 
 
+function QuestTranslator_QuestLog_OnHide()
+  if QTR_CopyButton then QTR_CopyButton:Hide() end
+  if QTR_CopyFrame then QTR_CopyFrame:Hide() end
+end
+
+
 function QuestTranslator_Frame2Close()
-  QTR_CopyButton:Hide();
   QuestTranslatorFrame2:Hide();
   QuestFrame_OnHide();
 end
@@ -543,6 +573,8 @@ end
 
 
 function QuestTranslator_HideQuestInfo()
+  if QTR_CopyButton then QTR_CopyButton:Hide() end
+  if QTR_CopyFrame then QTR_CopyFrame:Hide() end
   QuestTranslatorFrame1:Hide();
 end
 
@@ -565,6 +597,7 @@ function QuestTranslator_UpdateQuestInfo()
   QuestTranslator_QuestID:SetText("QuestID: " .. str_id);
 
   if (QuestTranslator_QuestData[str_id]) then
+     if QTR_CopyButton then QTR_CopyButton:Hide() end
      QTR_objectives  = QuestTranslator_ExpandUnitInfo(QuestTranslator_QuestData[str_id]["Objectives"]);
      QTR_description = QuestTranslator_ExpandUnitInfo(QuestTranslator_QuestData[str_id]["Description"]);
      QTR_descripFull = QuestTranslator_Messages.details .. "\n" .. QTR_description;
@@ -578,7 +611,8 @@ function QuestTranslator_UpdateQuestInfo()
      QuestTranslator_QuestDetail:SetText(QTR_objectives .. "\n\n" .. QTR_descripFull .. QTR_translator);
   else
      QuestTranslator_QuestTitle:SetText(questTitle);
-     QuestTranslator_QuestDetail:SetText(QuestTranslator_Messages.missing);
+     QuestTranslator_QuestDetail:SetText("|cffff0000" .. QuestTranslator_Messages.missing .. "|r\n\nBu görevin temiz Lua şablonunu panoya kopyalamak için sağ alttaki butona tıklayın.");
+     if QTR_CopyButton then QTR_CopyButton:Show() end
   end 
 end
 
