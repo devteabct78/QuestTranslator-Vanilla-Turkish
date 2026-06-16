@@ -1,11 +1,9 @@
 ﻿## Interface: 11200
-## Title: QuestTranslator for Vanilla Wow
-## Version: 4.01
-## Notes: AddOn displays the translated quest informations.
-## Notes_PL: Dodatek wyswietla przetlumaczone questy.
-## Notes_JP: アドオンは、別のウィンドウで翻訳クエストが表示されます。
-## Author: Platine
-## eMail: platine.wow@gmail.com
+## Title: QuestTranslator-Vanilla-Turkish for Vanilla Wow
+## Version: 1.00
+## Notes: Görevleri türkçeleştiren addon
+## Author: Fuat
+## eMail: fuat.tatar@hotmail.com
 ## DefaultState: Enabled
 ## LoadOnDemand: 0
 ## SavedVariables: QTR_PS, QTR_SAVED

@@ -1,11 +1,11 @@
-﻿-- Addon: QuestTranslator (version: 4.01) for Vanilla Wow (classic 1.12.1) 2015.02.12
--- Description: AddOn displays translated quest information in original or separete window.
--- Autor: Platine  (e-mail: platine.wow@gmail.com)
--- Based on addon "QuestJapanizer" v.0.5.8 by lalha
+﻿-- Addon: QuestTranslator-Vanilla-Turkish for Vanilla Wow (classic 1.12.1) 2015.02.12
+-- Description: Türkçe çeviri addonu.
+-- Autor: Platine  (e-mail: fuat.tatar@hotmail.com)
+-- Based on addon "QuestJapanizer" v.0.5.8 by lalha and QuestTranslator from Platine  (e-mail: platine.wow@gmail.com)
 
 
 -- Global Variables
-local QTR_version = "4.01";
+local QTR_version = "1.00";
 local QTR_name = UnitName("player");
 local QTR_class= UnitClass("player");
 local QTR_race = UnitRace("player");
