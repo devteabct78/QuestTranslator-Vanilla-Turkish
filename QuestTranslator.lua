@@ -1,4 +1,4 @@
-﻿-- Addon: QuestTranslator-Vanilla-Turkish for Vanilla Wow (classic 1.12.1) 2015.02.12
+-- Addon: QuestTranslator-Vanilla-Turkish for Vanilla Wow (classic 1.12.1) 2015.02.12
 -- Description: Türkçe çeviri addonu.
 -- Autor: Platine  (e-mail: fuat.tatar@hotmail.com)
 -- Based on addon "QuestJapanizer" v.0.5.8 by lalha and QuestTranslator from Platine  (e-mail: platine.wow@gmail.com)
