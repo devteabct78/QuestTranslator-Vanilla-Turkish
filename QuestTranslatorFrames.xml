@@ -137,22 +137,7 @@
 					</Size>
 					<Color r="0.5" g="0.5" b="1" a="1" />
 				</FontString>
-				<FontString name="QuestTranslator_MainTitle2" font="GameFontNormal" text="QuestTranslator v. 4.01">
-					<Anchors>
-						<Anchor point="TOPRIGHT">
-							<Offset>
-								<AbsDimension x="-5" y="-6" />
-							</Offset>
-						</Anchor>
-					</Anchors>
-					<Size>
-						<AbsDimension x="170" y="30" />
-					</Size>
-					<FontHeight>
-						<AbsValue val="12" />
-					</FontHeight>
-					<Color r="1" g="0" b="0" a="1" />
-				</FontString>
+				
 				<FontString name="QuestTranslator_QuestTitle2" inherits="GameFontNormal" justifyH="LEFT" justifyV="TOP" nonspacewrap="true">
 					<Anchors>
 						<Anchor point="TOPLEFT">
