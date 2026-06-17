@@ -347,14 +347,45 @@ function QuestTranslator_OnEvent3()
 end
 
 
+-- [YENİ DÜZENLEME] İstediğin Dizi ve 25 Karakterli Kontrol Mekanizması
 function QuestTranslator_SearchIDforName(qqq_title)
     local qqq_ID = 0;
-    if (QuestTranslator_QuestList[qqq_title]) then
-        local qqq_lists=QuestTranslator_QuestList[qqq_title];
-        if ( string.find(qqq_lists, ",")==nil ) then
+    local qqq_lists = nil;
+    local found_match = false;
+    
+    -- Oyundaki mevcut penceredeki görev metnini al (Quest log veya NPC ekranı fark etmeksizin)
+    local currentText = GetQuestText() or "";
+    if (currentText == "" and GetQuestLogQuestText) then
+        currentText = GetQuestLogQuestText() or "";
+    end
+    
+    -- Oyun metninin ilk 25 karakterini kesiyoruz
+    local current25Chars = string.sub(currentText, 1, 25);
+
+    -- 1. ADIM: Dizi/Metin kontrolü formatında arama yapıyoruz (Mükerrer görevler için)
+    for questKey, questData in pairs(QuestTranslator_QuestList) do
+        -- Anahtarın aradığımız görev ismiyle başlayıp başlamadığına bakar (Örn: "Missing in Action")
+        if type(questData) == "table" and string.find(questKey, qqq_title, 1, true) == 1 then
+            -- questData[1] -> ID, questData[2] -> 25 Karakterlik veri
+            if questData[2] and current25Chars == questData[2] then
+                qqq_lists = questData[1];
+                found_match = true;
+                break;
+            end
+        end
+    end
+
+    -- 2. ADIM: Eğer yukarıdaki döngüde bir metin eşleşmesi bulamadıysak, standart tekil göreve bakıyoruz
+    if not found_match then
+        qqq_lists = QuestTranslator_QuestList[qqq_title];
+    end
+
+    -- 3. ADIM: Orijinal ID ayıklama ve virgüllü çoklu ID yönetimi mantığı
+    if (qqq_lists) then
+        if ( type(qqq_lists) == "string" and string.find(qqq_lists, ",")==nil ) then
             qqq_ID=tonumber(qqq_lists);
         else
-            local QTR_table=QTR_split(qqq_lists, ",");
+            local QTR_table=QTR_split(tostring(qqq_lists), ",");
             local QTR_multiple = "";
             local QTR_Center="";
             for ii,vv in ipairs(QTR_table) do
@@ -375,7 +406,7 @@ function QuestTranslator_SearchIDforName(qqq_title)
             end
         end
     end
-return qqq_ID;
+    return qqq_ID;
 end
 
 
