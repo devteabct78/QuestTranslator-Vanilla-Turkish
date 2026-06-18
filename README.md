@@ -7,6 +7,8 @@ NOT: Aynı isme sahip zincir görevlerde eğer NPC ye tıkladığınızda görev
 <img width="1247" height="562" alt="resim" src="https://github.com/user-attachments/assets/61d05c27-1e79-48f7-8fea-5ede95f395ba" />
 <img width="1243" height="557" alt="resim" src="https://github.com/user-attachments/assets/22f7f0db-dd0d-419f-bf96-071f4064b3de" />
 <img width="1247" height="551" alt="resim" src="https://github.com/user-attachments/assets/ef08a103-0349-4c40-9c3c-a69d8bde53ab" />
+<img width="1261" height="652" alt="resim" src="https://github.com/user-attachments/assets/c42dd72c-191d-40f9-805a-dea6382f1fd3" />
+
 
 
 
