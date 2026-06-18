@@ -5,7 +5,6 @@ on:
     branches:
       - main  # Change this to your default branch name if it is 'master' or something else
 
-# ADDED: Grant write permissions to GITHUB_TOKEN specifically for this workflow
 permissions:
   contents: write
 
@@ -17,14 +16,45 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
+        with:
+          # Fetch all history so Git push works properly
+          fetch-depth: 0
 
       - name: Generate Unique Version Tag (Timestamped)
         id: versioning
         run: |
-          # Generates a unique tag like v1.0.20260618-1134 based on the current date and time
+          # Generates a standard tag like v1.0.20260618-1357
           TAG_NAME="v1.0.$(date +'%Y%m%d-%H%M')"
+          # Generates a dot-notation version specifically for Lua and TOC strings like 1.0.20260618.1357
+          LUA_VERSION="1.0.$(date +'%Y%m%d.%H%M')"
+          
           echo "TAG_NAME=$TAG_NAME" >> $GITHUB_OUTPUT
+          echo "LUA_VERSION=$LUA_VERSION" >> $GITHUB_OUTPUT
           echo "Generated Version Tag: $TAG_NAME"
+
+      - name: Update Version inside Addon Files Dynamically
+        run: |
+          # 1. Update the local QTR_version line in QuestTranslator.lua
+          sed -i 's/local QTR_version = "[^"]*";/local QTR_version = "${{ steps.versioning.outputs.LUA_VERSION }}";/g' QuestTranslator.lua
+          
+          # 2. Update the QuestTranslator v. ... title string in QuestTranslatorFrames.xml
+          sed -i 's/text="QuestTranslator v. [^"]*"/text="QuestTranslator v. ${{ steps.versioning.outputs.LUA_VERSION }}"/g' QuestTranslatorFrames.xml
+          
+          # 3. Update the ## Version tag inside the .toc file
+          sed -i 's/^## Version: .*/## Version: ${{ steps.versioning.outputs.LUA_VERSION }}/g' QuestTranslator-Vanilla-Turkish.toc
+
+      - name: Commit and Push Updated Files back to Repository
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          git add QuestTranslator.lua QuestTranslatorFrames.xml QuestTranslator-Vanilla-Turkish.toc
+          
+          # Only commit if changes actually exist to prevent workflow failure
+          if ! git diff-index --quiet HEAD; then
+            git commit -m "chore(version): bump addon version to ${{ steps.versioning.outputs.LUA_VERSION }} [skip ci]"
+            git push origin main
+          fi
 
       - name: Package Addon Folder (Zip)
         run: |
@@ -44,6 +74,8 @@ jobs:
           name: Release ${{ steps.versioning.outputs.TAG_NAME }}
           body: |
             Automated package release for QuestTranslator-Vanilla-Turkish.
+            
+            **Version Injected:** ${{ steps.versioning.outputs.LUA_VERSION }}
             
             **Installation:**
             1. Download the `QuestTranslator-Vanilla-Turkish.zip` file below.
