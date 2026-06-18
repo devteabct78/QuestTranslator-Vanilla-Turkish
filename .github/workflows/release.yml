@@ -5,6 +5,10 @@ on:
     branches:
       - main  # Change this to your default branch name if it is 'master' or something else
 
+# ADDED: Grant write permissions to GITHUB_TOKEN specifically for this workflow
+permissions:
+  contents: write
+
 jobs:
   build_release:
     name: Create New Version and Upload
