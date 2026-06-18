@@ -1,9 +1,8 @@
 name: Automatic Addon Versioning and Release
 
 on:
-  push:
-    branches:
-      - main  # Change this to your default branch name if it is 'master' or something else
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -17,7 +16,6 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
         with:
-          # Fetch all history so Git push works properly
           fetch-depth: 0
 
       - name: Generate Unique Version Tag (Timestamped)
@@ -50,7 +48,6 @@ jobs:
           
           git add QuestTranslator.lua QuestTranslatorFrames.xml QuestTranslator-Vanilla-Turkish.toc
           
-          # Only commit if changes actually exist to prevent workflow failure
           if ! git diff-index --quiet HEAD; then
             git commit -m "chore(version): bump addon version to ${{ steps.versioning.outputs.LUA_VERSION }} [skip ci]"
             git push origin main
