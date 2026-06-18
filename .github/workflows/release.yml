@@ -1,0 +1,51 @@
+name: Automatic Addon Versioning and Release
+
+on:
+  push:
+    branches:
+      - main  # Change this to your default branch name if it is 'master' or something else
+
+jobs:
+  build_release:
+    name: Create New Version and Upload
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate Unique Version Tag (Timestamped)
+        id: versioning
+        run: |
+          # Generates a unique tag like v1.0.20260618-1134 based on the current date and time
+          TAG_NAME="v1.0.$(date +'%Y%m%d-%H%M')"
+          echo "TAG_NAME=$TAG_NAME" >> $GITHUB_OUTPUT
+          echo "Generated Version Tag: $TAG_NAME"
+
+      - name: Package Addon Folder (Zip)
+        run: |
+          # Create a folder with the correct name that WoW client recognizes
+          mkdir -p "QuestTranslator-Vanilla-Turkish"
+          
+          # Copy all files to the target folder, excluding git-related files
+          rsync -av --exclude='.git' --exclude='.github' ./ ./QuestTranslator-Vanilla-Turkish/
+          
+          # Create the zip archive
+          zip -r QuestTranslator-Vanilla-Turkish.zip QuestTranslator-Vanilla-Turkish/
+
+      - name: Create GitHub Release and Upload Zip Asset
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ steps.versioning.outputs.TAG_NAME }}
+          name: Release ${{ steps.versioning.outputs.TAG_NAME }}
+          body: |
+            Automated package release for QuestTranslator-Vanilla-Turkish.
+            
+            **Installation:**
+            1. Download the `QuestTranslator-Vanilla-Turkish.zip` file below.
+            2. Extract it directly into your `World of Warcraft/Interface/AddOns/` directory.
+          draft: false
+          prerelease: false
+          files: QuestTranslator-Vanilla-Turkish.zip
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
