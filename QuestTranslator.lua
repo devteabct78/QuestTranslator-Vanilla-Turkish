@@ -317,7 +317,7 @@ function QuestTranslator_OnEvent3()
     else
        CurrentQuestsText:SetText(QuestTranslator_MessOrig.currquests);
        CurrentQuestsText:SetFont(Original_Font1, 18);
-       AvailableQuestsText:SetText(QuestTranslator_MessOrig.avaiquests);
+       AvailableQuestsText:SetText(QuestTranslator_Messages.avaiquests);
        AvailableQuestsText:SetFont(Original_Font1, 18);
     end
   end
@@ -520,42 +520,142 @@ function QuestTranslator_ShowFrame2(eventStr, qid)
 end
 
 
--- Kitap ve Mektup Metin Kontrolü İşleyicisi (Buton Bağımlılığı Kaldırıldı)
+-- Dahili Kitap Sayfalama Değişkenleri
+local QTR_BookPagesData = {}; -- Otomatik bölünen sayfa metinlerini tutacak tablo
+local QTR_BookPage = 1;
+local QTR_MaxBookPages = 1;
+
+-- [AKILLI METİN BÖLÜCÜ] Düz metni kelimeleri bölmeden sayfalara ayıran fonksiyon
+local function QTR_AutoWrapText(text, maxCharsPerPage)
+    local pages = {};
+    local currentPageText = "";
+    
+    text = string.gsub(text, "NEW_LINE", " ");
+    text = string.gsub(text, "\n", " ");
+    
+    local words = QTR_split(text, " ");
+    
+    for _, word in ipairs(words) do
+        if word ~= "" then
+            if string.len(currentPageText) + string.len(word) + 1 > maxCharsPerPage then
+                table.insert(pages, currentPageText);
+                currentPageText = word;
+            else
+                if currentPageText == "" then
+                    currentPageText = word;
+                else
+                    currentPageText = currentPageText .. " " .. word;
+                end
+            end
+        end
+    end
+    
+    if currentPageText ~= "" then
+        table.insert(pages, currentPageText);
+    end
+    
+    return pages;
+end
+
+-- [HEM GECİKMELİ HEM GARANTİLİ TARAYICILI] Dahili Sayfalamalı Kitap İşleyicisi
 function QuestTranslator_ProcessBookText()
     if (QTR_PS["active"] == "0") then return; end
     
-    local book_title = nil;
+    local delayFrame = CreateFrame("Frame")
+    delayFrame.timeSinceUpdate = 0
+    delayFrame:SetScript("OnUpdate", function()
+        this.timeSinceUpdate = this.timeSinceUpdate + arg1
+        if this.timeSinceUpdate >= 0.05 then
+            this:SetScript("OnUpdate", nil) -- Zamanlayıcıyı kapat
+            
+            local book_title = nil;
+            
+            -- [RESİM_6'DAKİ BAŞARIYLA YAKALAYAN KESİN ALGORİTMA]
+            if ItemTextFrameTitleText and ItemTextFrameTitleText.GetText then
+                book_title = ItemTextFrameTitleText:GetText();
+            end
+            
+            if (not book_title or book_title == "") and ItemTextFrame then
+                local regions = { ItemTextFrame:GetRegions() };
+                for _, region in ipairs(regions) do
+                    if region and region.GetText then
+                        local text = region:GetText() or "";
+                        if text ~= "" and string.find(text, "%c") == nil and string.len(text) < 50 then
+                            if text ~= "Next" and text ~= "Previous" and text ~= NEXT and text ~= PREVIOUSTEXT then
+                                book_title = text;
+                                break;
+                            end
+                        end
+                    end
+                end
+            end
+            
+            if (not book_title or book_title == "") and ItemTextGetTitle then
+                book_title = ItemTextGetTitle();
+            end
+
+            book_title = book_title or "Bilinmeyen Kitap";
+            
+            -- Veritabanında doğrudan isimle düz arama
+            if QuestTranslator_BookData and QuestTranslator_BookData[book_title] then
+                QuestTranslator_BookTitle:SetText(QuestTranslator_ExpandUnitInfo(QuestTranslator_BookData[book_title]["Title"] or book_title));
+                
+                -- Ham düz metni çek ve oyuncu değişkenlerini genişlet
+                local full_text = QuestTranslator_BookData[book_title]["Text"] or "";
+                full_text = QuestTranslator_ExpandUnitInfo(full_text);
+                
+                -- Metni kelimeleri bozmadan ~380 karakterlik sayfalara bölüyoruz
+                QTR_BookPagesData = QTR_AutoWrapText(full_text,650);
+                
+                QTR_MaxBookPages = table.getn(QTR_BookPagesData);
+                if QTR_MaxBookPages < 1 then QTR_MaxBookPages = 1; end
+                
+                QTR_BookPage = 1;
+                QuestTranslator_UpdateBookPageDisplay();
+            else
+                if QTR_BookPrevBtn then QTR_BookPrevBtn:Hide() end
+                if QTR_BookNextBtn then QTR_BookNextBtn:Hide() end
+                QuestTranslator_BookTitle:SetText(book_title);
+                QuestTranslator_BookDetail:SetText("|cffff0000Metin çevirisi eksik!|r\n\nBu mektubun ismini direkt anahtar kabul edecek şekilde veritabanına ekleyin.");
+            end
+            
+            QuestTranslatorFrame3:ClearAllPoints();
+            QuestTranslatorFrame3:SetPoint("TOPLEFT", ItemTextFrame, "TOPRIGHT", -31, -19);
+            QuestTranslatorFrame3:Show();
+            
+            ApplyTurkishFont();
+        end
+    end)
+end
+
+-- Sayfa Gösterim Güncelleyici
+function QuestTranslator_UpdateBookPageDisplay()
+    local page_text = QTR_BookPagesData[QTR_BookPage] or "";
     
-    if (ItemTextGetTitle) then
-        book_title = ItemTextGetTitle();
+    -- Sayfa numarasını en alta şık bir şekilde iliştir
+    page_text = page_text .. "\n\n|cffffff00Sayfa: " .. QTR_BookPage .. " / " .. QTR_MaxBookPages .. "|r";
+    QuestTranslator_BookDetail:SetText(page_text);
+    
+    -- Butonların görünürlük durumları
+    if QTR_BookPrevBtn and QTR_BookNextBtn then
+        if QTR_BookPage > 1 then QTR_BookPrevBtn:Show() else QTR_BookPrevBtn:Hide() end
+        if QTR_BookPage < QTR_MaxBookPages then QTR_BookNextBtn:Show() else QTR_BookNextBtn:Hide() end
     end
-    
-    if (not book_title or book_title == "") and ItemTextFrameTitleText and ItemTextFrameTitleText.GetText then
-        book_title = ItemTextFrameTitleText:GetText();
+end
+
+-- Buton Tıklama Aksiyonları
+function QuestTranslator_BookPageNext()
+    if QTR_BookPage < QTR_MaxBookPages then
+        QTR_BookPage = QTR_BookPage + 1;
+        QuestTranslator_UpdateBookPageDisplay();
     end
-    
-    book_title = book_title or "Bilinmeyen Kitap";
-    
-    local page_num = 1;
-    if (ItemTextGetPage) then
-        page_num = ItemTextGetPage() or 1;
+end
+
+function QuestTranslator_BookPagePrev()
+    if QTR_BookPage > 1 then
+        QTR_BookPage = QTR_BookPage - 1;
+        QuestTranslator_UpdateBookPageDisplay();
     end
-    
-    local db_key = book_title .. "_Page_" .. tostring(page_num);
-    
-    if QuestTranslator_BookData and QuestTranslator_BookData[db_key] then
-        QuestTranslator_BookTitle:SetText(QuestTranslator_ExpandUnitInfo(QuestTranslator_BookData[db_key]["Title"] or book_title));
-        QuestTranslator_BookDetail:SetText(QuestTranslator_ExpandUnitInfo(QuestTranslator_BookData[db_key]["Text"] or ""));
-    else
-        QuestTranslator_BookTitle:SetText(book_title);
-        QuestTranslator_BookDetail:SetText("|cffff0000Metin çevirisi eksik!|r\n\nSayfa: " .. tostring(page_num) .. "\n\nBu sayfanın Türkçe metnini QuestTranslator_BookData veritabanına ekleyin.");
-    end
-    
-    QuestTranslatorFrame3:ClearAllPoints();
-    QuestTranslatorFrame3:SetPoint("TOPLEFT", ItemTextFrame, "TOPRIGHT", -31, -19);
-    QuestTranslatorFrame3:Show();
-    
-    ApplyTurkishFont();
 end
 
 

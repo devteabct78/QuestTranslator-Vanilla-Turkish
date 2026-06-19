@@ -2,6 +2,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.blizzard.com/wow/ui/ ..\..\FrameXML\UI.xsd">
     
+    <!-- FRAME 1: GÖREV LOGU PENCERESİ -->
     <Frame name="QuestTranslatorFrame1" parent="QuestLogDetailScrollFrame" hidden="true" movable="true" enableMouse="true">
         <Size>
             <AbsDimension x="350" y="450"/>
@@ -98,6 +99,7 @@
         </Scripts>
     </Frame>
 
+    <!-- FRAME 2: NPC GÖREV DİYALOG PENCERESİ -->
     <Frame name="QuestTranslatorFrame2" parent="QuestFrame" hidden="true" movable="true" enableMouse="true">
         <Size>
             <AbsDimension x="350" y="425"/>
@@ -192,6 +194,7 @@
         </Scripts>
     </Frame>
 
+    <!-- FRAME 3: KİTAP, MEKTUP VE PARŞÖMEN PENCERESİ -->
     <Frame name="QuestTranslatorFrame3" parent="ItemTextFrame" hidden="true" movable="true" enableMouse="true">
         <Size>
             <AbsDimension x="350" y="450"/>
@@ -219,6 +222,7 @@
                 <Texture name="$parent_Background" setAllPoints="true">
                     <Color r="0" g="0" b="0" a="0.85" />
                 </Texture>
+                <!-- Kitap/Mektup Başlığı -->
                 <FontString name="QuestTranslator_BookTitle" inherits="GameFontNormal" justifyH="LEFT" justifyV="TOP" nonspacewrap="true">
                     <Anchors>
                         <Anchor point="TOPLEFT">
@@ -232,6 +236,7 @@
                     </Size>
                     <Color r="1" g="0.82" b="0" a="1" />
                 </FontString>
+                <!-- Kitap/Mektup Sayfa İçeriği -->
                 <FontString name="QuestTranslator_BookDetail" inherits="GameFontNormal" justifyH="LEFT" justifyV="TOP" nonspacewrap="true">
                     <Anchors>
                         <Anchor point="TOPLEFT">
@@ -241,12 +246,50 @@
                         </Anchor>
                     </Anchors>
                     <Size>
-                        <AbsDimension x="320" y="370"/>
+                        <AbsDimension x="320" y="340"/>
                     </Size>
                     <Color r="1" g="1" b="1" a="1" />
                 </FontString>
             </Layer>
         </Layers>
+        <Frames>
+            <!-- Dahili Geri Butonu -->
+            <Button name="QTR_BookPrevBtn" inherits="UIPanelButtonTemplate" text="[ Geri ]" hidden="true">
+                <Size>
+                    <AbsDimension x="80" y="22"/>
+                </Size>
+                <Anchors>
+                    <Anchor point="BOTTOMLEFT">
+                        <Offset>
+                            <AbsDimension x="20" y="20"/>
+                        </Offset>
+                    </Anchor>
+                </Anchors>
+                <Scripts>
+                    <OnClick>
+                        QuestTranslator_BookPagePrev();
+                    </OnClick>
+                </Scripts>
+            </Button>
+            <!-- Dahili İleri Butonu -->
+            <Button name="QTR_BookNextBtn" inherits="UIPanelButtonTemplate" text="[ Ileri ]" hidden="true">
+                <Size>
+                    <AbsDimension x="80" y="22"/>
+                </Size>
+                <Anchors>
+                    <Anchor point="BOTTOMRIGHT">
+                        <Offset>
+                            <AbsDimension x="-20" y="20"/>
+                        </Offset>
+                    </Anchor>
+                </Anchors>
+                <Scripts>
+                    <OnClick>
+                        QuestTranslator_BookPageNext();
+                    </OnClick>
+                </Scripts>
+            </Button>
+        </Frames>
         <Scripts>
             <OnMouseDown>
                 QuestTranslator_OnMouseDown3();
