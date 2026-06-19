@@ -347,27 +347,51 @@ function QuestTranslator_OnEvent3()
 end
 
 
--- [YENİ DÜZENLEME] İstediğin Dizi ve 25 Karakterli Kontrol Mekanizması
+-- [YENİ SİSTEM] Tamamen Objectives (Hedef) Odaklı Dinamik Filtrelemeli Arama Fonksiyonu
 function QuestTranslator_SearchIDforName(qqq_title)
     local qqq_ID = 0;
     local qqq_lists = nil;
     local found_match = false;
+    local first_fallback_id = nil;
     
-    -- Oyundaki mevcut penceredeki görev metnini al (Quest log veya NPC ekranı fark etmeksizin)
-    local currentText = GetQuestText() or "";
+    -- Oyundaki mevcut penceredeki Objectives (Görevin Amacı) metnini çekiyoruz
+    local currentText = GetObjectiveText() or "";
+    
+    -- [GÜVENLİK KORUMASI] Eğer Objectives alanı boş geldiyse (İlerleme/Teslimat ekranı veya asenkron gecikme)
+    -- ve Quest Log API'si mevcutsa yedek kaynak olarak logdaki metni taramayı dene
     if (currentText == "" and GetQuestLogQuestText) then
-        currentText = GetQuestLogQuestText() or "";
+        _, currentText = GetQuestLogQuestText();
+        currentText = currentText or "";
+    end
+    
+    -- [DİNAMİK REVERSE-TEMPLATE] Oyundan dönen Objectives içinde nadir de olsa isim/sınıf parametresi
+    -- bulunma ihtimaline karşı string temizliği ve normalizasyon yapıyoruz
+    if currentText ~= "" then
+        currentText = string.gsub(currentText, QTR_name, "YOUR_NAME");
+        currentText = string.gsub(currentText, QTR_class, "YOUR_CLASS");
+        currentText = string.gsub(currentText, QTR_race, "YOUR_RACE");
     end
     
     -- Oyun metninin ilk 25 karakterini kesiyoruz
     local current25Chars = string.sub(currentText, 1, 25);
 
-    -- 1. ADIM: Dizi/Metin kontrolü formatında arama yapıyoruz (Mükerrer görevler için)
+    -- 1. ADIM: Dizi/Metin kontrolü formatında arama yapıyoruz (Mükerrer zincir görevler için)
     for questKey, questData in pairs(QuestTranslator_QuestList) do
         -- Anahtarın aradığımız görev ismiyle başlayıp başlamadığına bakar (Örn: "Missing in Action")
         if type(questData) == "table" and string.find(questKey, qqq_title, 1, true) == 1 then
-            -- questData[1] -> ID, questData[2] -> 25 Karakterlik veri
-            if questData[2] and current25Chars == questData[2] then
+            -- Zamanlama ve asenkron veri boşluklarına karşı bulduğumuz İLK geçerli id'yi acil durum fallback'i olarak sakla
+            if not first_fallback_id then
+                first_fallback_id = questData[1];
+            end
+            
+            -- Veritabanındaki eşleşecek 25 karakterlik veriyi oku ve normalize et
+            local targetMatchText = questData[2] or "";
+            targetMatchText = string.gsub(targetMatchText, "<name>", "YOUR_NAME");
+            targetMatchText = string.gsub(targetMatchText, "<class>", "YOUR_CLASS");
+            targetMatchText = string.gsub(targetMatchText, "<race>", "YOUR_RACE");
+
+            -- 25 karakter tam oturuyorsa aradığımız doğru aşamanın ID'sini alıyoruz
+            if targetMatchText ~= "" and current25Chars ~= "" and current25Chars == targetMatchText then
                 qqq_lists = questData[1];
                 found_match = true;
                 break;
@@ -375,12 +399,20 @@ function QuestTranslator_SearchIDforName(qqq_title)
         end
     end
 
-    -- 2. ADIM: Eğer yukarıdaki döngüde bir metin eşleşmesi bulamadıysak, standart tekil göreve bakıyoruz
+    -- 2. ADIM: [ASENKRON KİLİTLENME KORUMASI]
+    -- Eğer metin oyundan tamamen boş geldiyse ve eşleşme çıkmadıysa arayüzün çökmesini veya 
+    -- pencerenin hiç açılmamasını engellemek için hafızadaki ilk geçerli ID'yi otomatik devreye sok
+    if not found_match and current25Chars == "" and first_fallback_id then
+        qqq_lists = first_fallback_id;
+        found_match = true;
+    end
+
+    -- 3. ADIM: Eğer yukarıdaki döngüde bir dizi metni eşleşmesi bulamadıysak, standart tekil düz göreve bakıyoruz
     if not found_match then
         qqq_lists = QuestTranslator_QuestList[qqq_title];
     end
 
-    -- 3. ADIM: Orijinal ID ayıklama ve virgüllü çoklu ID yönetimi mantığı
+    -- 4. ADIM: Orijinal ID ayıklama ve virgüllü çoklu ID yönetimi mantığı
     if (qqq_lists) then
         if ( type(qqq_lists) == "string" and string.find(qqq_lists, ",")==nil ) then
             qqq_ID=tonumber(qqq_lists);
@@ -573,6 +605,7 @@ function QuestTranslator_ChangeFrameWidth()
      QuestTranslator_QuestDetail:SetWidth(320);
      QuestTranslator_QuestTitle:SetWidth(320);
      QTR_ToggleButton3:SetText(">");
+     QuestTranslator_SizeW = 1;
      QuestTranslator_SizeW = 1;
      QTR_PS["width"] = "1";
   end
