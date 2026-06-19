@@ -1,6 +1,7 @@
 <Ui xmlns="http://www.blizzard.com/wow/ui/" 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.blizzard.com/wow/ui/ ..\..\FrameXML\UI.xsd">
+    
     <Frame name="QuestTranslatorFrame1" parent="QuestLogDetailScrollFrame" hidden="true" movable="true" enableMouse="true">
         <Size>
             <AbsDimension x="350" y="450"/>
@@ -96,6 +97,7 @@
             </OnMouseUp>
         </Scripts>
     </Frame>
+
     <Frame name="QuestTranslatorFrame2" parent="QuestFrame" hidden="true" movable="true" enableMouse="true">
         <Size>
             <AbsDimension x="350" y="425"/>
@@ -186,6 +188,71 @@
             </OnMouseDown>
             <OnMouseUp>
                 QuestTranslator_OnMouseUp2();
+            </OnMouseUp>
+        </Scripts>
+    </Frame>
+
+    <Frame name="QuestTranslatorFrame3" parent="ItemTextFrame" hidden="true" movable="true" enableMouse="true">
+        <Size>
+            <AbsDimension x="350" y="450"/>
+        </Size>
+        <Anchors>
+            <Anchor point="TOPLEFT" relativeTo="ItemTextFrame" relativePoint="TOPRIGHT">
+                <Offset>
+                    <AbsDimension x="-31" y="-19"/>
+                </Offset>
+            </Anchor>
+        </Anchors>
+        <Backdrop bgFile="Interface\DialogFrame\UI-DialogBox-Background" edgeFile="Interface\DialogFrame\UI-DialogBox-Border" tile="true">
+            <TileSize>
+                <AbsValue val="32"/>
+            </TileSize>
+            <EdgeSize>
+                <AbsValue val="32"/>
+            </EdgeSize>
+            <BackgroundInsets>
+                <AbsInset left="11" right="12" top="12" bottom="11"/>
+            </BackgroundInsets>
+        </Backdrop>
+        <Layers>
+            <Layer level="BACKGROUND">
+                <Texture name="$parent_Background" setAllPoints="true">
+                    <Color r="0" g="0" b="0" a="0.85" />
+                </Texture>
+                <FontString name="QuestTranslator_BookTitle" inherits="GameFontNormal" justifyH="LEFT" justifyV="TOP" nonspacewrap="true">
+                    <Anchors>
+                        <Anchor point="TOPLEFT">
+                            <Offset>
+                                <AbsDimension x="15" y="-20"/>
+                            </Offset>
+                        </Anchor>
+                    </Anchors>
+                    <Size>
+                        <AbsDimension x="320" y="24"/>
+                    </Size>
+                    <Color r="1" g="0.82" b="0" a="1" />
+                </FontString>
+                <FontString name="QuestTranslator_BookDetail" inherits="GameFontNormal" justifyH="LEFT" justifyV="TOP" nonspacewrap="true">
+                    <Anchors>
+                        <Anchor point="TOPLEFT">
+                            <Offset>
+                                <AbsDimension x="15" y="-55"/>
+                            </Offset>
+                        </Anchor>
+                    </Anchors>
+                    <Size>
+                        <AbsDimension x="320" y="370"/>
+                    </Size>
+                    <Color r="1" g="1" b="1" a="1" />
+                </FontString>
+            </Layer>
+        </Layers>
+        <Scripts>
+            <OnMouseDown>
+                QuestTranslator_OnMouseDown3();
+            </OnMouseDown>
+            <OnMouseUp>
+                QuestTranslator_OnMouseUp3();
             </OnMouseUp>
         </Scripts>
     </Frame>
