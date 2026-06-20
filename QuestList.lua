@@ -3145,7 +3145,9 @@ QuestTranslator_QuestList = {
 ["Message to the Daggerfen"]="10118",
 ["Message to the Wildhammer"]="7841",
 ["Messenger to Darkshire"]="145,146",
-["Messenger to Stormwind"]="120,121",
+["Messenger to Stormwind_QTR_DUP_1"]={"120","Magistrate Solomon has g"},
+["Messenger to Stormwind_QTR_DUP_2"]={"121","Take General Marcus Jona"},
+
 ["Messenger to the Feralfen"]="9803",
 ["Messenger to Thrall"]="9438",
 ["Messenger to Westfall"]="143,144",

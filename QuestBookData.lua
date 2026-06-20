@@ -492,4 +492,8 @@ QuestTranslator_BookData = {
         ["Title"] = "Wiley'nin Notu",
         ["Text"] = "Stoutmantle --NEW_LINENEW_LINEDefias çetesini tartışmak için tamamen yabancı birini göndermek de iyi cesaret. Bir zamanlar hayatımı kurtarmıştın, şimdiyse onu büyük bir tehlikeye atıyorsun.NEW_LINENEW_LINEAma sana borçluyum. Defias Kardeşliği sandığından daha büyük. Westfall'dan Elwynn Ormanı'na kadar her maden onların kontrolü altında. Pis işlerini yapmaları için Koboldları ve Gnolları saflarına kattılar. Westfall tarlalarında, yerel halkın batıl inançlarını avlamak için metal canavarlar üreten Goblinleri var.NEW_LINENEW_LINEYeraltında devasa bir ağ kurmuşlar. Sandığından daha büyük, Stoutmantle. Booty Bay'den tut da Stormwind Kalesi'ne kadar uzanıyor. Cesur bir Paladin olabilirsin ama onları durdurabileceğini düşünüyorsan bir aptalsın. Kitle imha silahı üzerinde çalışıyorlar. Ne de olsa, Taş Ustalarının (Stonemasons) bildiyi bir şey varsa, o da nasıl büyük inşaat yapılacağıdır. Bunun kabak tarlaları ve üzüm bağlarıyla ilgili olduğunu düşünmemiştin, değil mi? İyiliğinin karşılığını ödedim. Şimdi beni yalnız bırak!NEW_LINENEW_LINE--W"
     },
+    ["The General's Response"] = {
+        ["Title"] = "General'ın Cevabı",
+        ["Text"] = "Saygıdeğer Sulh Hakimi Süleyman:NEW_LINEIşığa kavuşan ölüler için ben de sizinle birlikte yas tutuyorum. Kralımızın durumdan haberdar edilmesini bizzat sağlayacağım ve en büyük umudum Gölhisar'a (Lakeshire) takviye birlikler getirebilmektir. Kral hazretleri son zamanlarda pek ortalarda görünmüyor ve oldukça tuhaf davranıyor. Bunu sizinle güvene dayalı olarak paylaşıyorum.NEW_LINEO zamana kadar,NEW_LINEGeneral Marcus JonathanNEW_LINEFırtınayeli (Stormwind) Krallığı"
+    },
 }

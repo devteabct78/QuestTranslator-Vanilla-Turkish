@@ -351,7 +351,7 @@ function QuestTranslator_OnEvent3()
 end
 
 
--- Tamamen Objectives (Hedef) Odaklı Dinamik Filtrelemeli Arama Fonksiyonu
+-- [GÜNCELLENDİ] Kısmi Hedef Arama Destekli Gelişmiş Duplicate Arama Fonksiyonu
 function QuestTranslator_SearchIDforName(qqq_title)
     local qqq_ID = 0;
     local qqq_lists = nil;
@@ -359,7 +359,6 @@ function QuestTranslator_SearchIDforName(qqq_title)
     local first_fallback_id = nil;
     
     local currentText = GetObjectiveText() or "";
-    
     if (currentText == "" and GetQuestLogQuestText) then
         _, currentText = GetQuestLogQuestText();
         currentText = currentText or "";
@@ -373,6 +372,7 @@ function QuestTranslator_SearchIDforName(qqq_title)
     
     local current25Chars = string.sub(currentText, 1, 25);
 
+    -- 1. Aşama: Tam 25 karakter veya Kısmi İçerik kontrolüyle tarama yapıyoruz
     for questKey, questData in pairs(QuestTranslator_QuestList) do
         if type(questData) == "table" and string.find(questKey, qqq_title, 1, true) == 1 then
             if not first_fallback_id then
@@ -384,7 +384,13 @@ function QuestTranslator_SearchIDforName(qqq_title)
             targetMatchText = string.gsub(targetMatchText, "<class>", "YOUR_CLASS");
             targetMatchText = string.gsub(targetMatchText, "<race>", "YOUR_RACE");
 
+            -- Tam 25 karakter eşitliği kontrolü
             if targetMatchText ~= "" and current25Chars ~= "" and current25Chars == targetMatchText then
+                qqq_lists = questData[1];
+                found_match = true;
+                break;
+            -- Kısmi İçerik Kontrolü: Listedeki "Magistrate..." kelimesi oyun metninin İÇİNDE geçiyor mu?
+            elseif targetMatchText ~= "" and currentText ~= "" and string.find(currentText, targetMatchText, 1, true) then
                 qqq_lists = questData[1];
                 found_match = true;
                 break;
@@ -392,7 +398,8 @@ function QuestTranslator_SearchIDforName(qqq_title)
         end
     end
 
-    if not found_match and current25Chars == "" and first_fallback_id then
+    -- 2. Aşama: Eğer hedef metinler boşsa veya bulunamadıysa ilk alternatife güvenli düşüş yap
+    if not found_match and first_fallback_id then
         qqq_lists = first_fallback_id;
         found_match = true;
     end
@@ -604,8 +611,8 @@ function QuestTranslator_ProcessBookText()
                 local full_text = QuestTranslator_BookData[book_title]["Text"] or "";
                 full_text = QuestTranslator_ExpandUnitInfo(full_text);
                 
-                -- Metni kelimeleri bozmadan ~380 karakterlik sayfalara bölüyoruz
-                QTR_BookPagesData = QTR_AutoWrapText(full_text,650);
+                -- Metni kelimeleri bozmadan ~650 karakterlik sayfalara bölüyoruz
+                QTR_BookPagesData = QTR_AutoWrapText(full_text, 650);
                 
                 QTR_MaxBookPages = table.getn(QTR_BookPagesData);
                 if QTR_MaxBookPages < 1 then QTR_MaxBookPages = 1; end
