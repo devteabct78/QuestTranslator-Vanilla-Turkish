@@ -496,4 +496,24 @@ QuestTranslator_BookData = {
         ["Title"] = "General'ın Cevabı",
         ["Text"] = "Saygıdeğer Sulh Hakimi Süleyman:NEW_LINEIşığa kavuşan ölüler için ben de sizinle birlikte yas tutuyorum. Kralımızın durumdan haberdar edilmesini bizzat sağlayacağım ve en büyük umudum Gölhisar'a (Lakeshire) takviye birlikler getirebilmektir. Kral hazretleri son zamanlarda pek ortalarda görünmüyor ve oldukça tuhaf davranıyor. Bunu sizinle güvene dayalı olarak paylaşıyorum.NEW_LINEO zamana kadar,NEW_LINEGeneral Marcus JonathanNEW_LINEFırtınayeli (Stormwind) Krallığı"
     },
+    ["Shaw's Report"] = {
+        ["Title"] = "Shaw'un Raporu",
+        ["Text"] = "Lord Gürpelerin--NEW_LINE Edwin VanCleef önderliğindeki Taşustaları Loncası, insanlar arasındaki en yetenekli inşaatçılardan oluşuyordu. Taşustaları, Birinci Savaş sırasında orklar tarafından yerle bir edilen yıkık Fırtınayeli(Stormwind) şehrinin yeniden inşa edilmesine yardımcı oldular. VanCleef ve zanaatkarları eşsiz inşaatçılardı; işçilikleri ve sanatları, Işık Katedrali ve Fırtınayeli(Stormwind) Kalesi'nin kendi binalarında açıkça görülüyordu.NEW_LINEAncak, Fırtınayeli(Stormwind) soyluları, krallığın askeri varlığını Elwynn boyunca ve Stranglethorn'un içine doğru genişleterek muazzam bir borç altına girdiler. Bu devasa borç krallığın ekonomisini çökertti; VanCleef ve Taşustalarını vaat edilen ödüllerinden mahrum bıraktı. Şanlı şehri yeniden inşa etmek için yıllarca didindikten sonra, Taşustaları şehrin yozlaşmış yetkilileri tarafından beş parasız bırakıldı.NEW_LINEEdwin VanCleef'i tüm hayatım boyunca şahsen tanımış biri olarak, onunla bir düşman olarak yüzleşmenin oldukça ürkütücü bir görev olduğunu söyleyebilirim. Görüyorsunuz ya, kendisi benim çocukluk arkadaşımdı ve bir gün yanımda bir kariyer düşünebileceğini umarak onu gölgelerin yollarında bizzat eğittim. Eğer VanCleef, Defias Kardeşliği'nin başına geçiyorsa, Işık ruhlarımıza merhamet etsin.NEW_LINEMaster Mathias ShawNEW_LINEFırtınayeli(Stormwind) Suikastçılar Loncası"
+    },
+    ["Stoutmantle's Response to Solomon"] = {
+        ["Title"] = "Stoutmantle'ın Süleyman'a Cevabı",
+        ["Text"] = "Saygıdeğer Hakimim--NEW_LINEBütün Batıdüşüşü (Westfall) kaybınız için yas tutuyor, ancak biz de Batıdüşüşü'nde (Westfall) kendi savaşımızla boğuşuyoruz. Çiftçiler hırsızlar ve mekanik golemler tarafından sürüldü. Fırtınayeli (Stormwind) birliklerini geri çekerek halkı savunmasız bıraktı. Fırtınayeli'nin (Stormwind) bizi terk edişinin ardından, bu topraklardan geriye kalanları kurtarmak için Halk Milislerini topladım. Milisleri Kızıltepe'ye (Redridge) götürmek, Batıdüşüşü (Westfall) için kesin bir yıkım anlamına gelecektir.NEW_LINESaygılarımla, Gryan Gürpelerin"
+    },
+    ["Letter to Brother Neals"] = {
+        ["Title"] = "Neals Birader'e Mektup",
+        ["Text"] = "Neals Birader'eNEW_LINESağladığın bilgilerin, Carver Molsen olarak bilinen suçlunun bulunmasında ve adalete teslim edilmesinde hayati öneme sahip olduğu kanıtlandı. Sonunda Easton ailesinin cinayetlerinin öcü Işık adına alınmış oldu. Senin eylemlerin sayesinde Batıdüşüşü (Westfall) az da olsa umut buluyor.NEW_LINEBu mektubu taşıyan kişi, Eski Batıdüşüşü (Westfall) Kilisesi'nin anahtarını da bulmayı başardı. Bu kargaşa temizlendiğinde ve topraklar eski haline döndüğünde, geri döneceğini umuyorum.NEW_LINEİmza, Gryan Stoutmantle"
+    },
+    ["A Mysterious Message"] = {
+        ["Title"] = "Gizemli Bir Mesaj",
+        ["Text"] = "Karadizler(Blacknails)--NEW_LINEDeniz bizi bekler. Kuzeyden gelecek malzemelerine ihtiyacımız var. Ne varsa söküp alın: her demiryolu çivisini, her su kovasını. Metale ihtiyacımız var. BB'den gelmesi gereken bir sevkiyat var ama çok gecikti. Benim için bunu hallet, Karadizler(Blacknails). Malzemelerini bu kez doğrudan \"Samanlık\"a gönder. Boşa harcayacak vakit yok.NEW_LINE--VanCleef"
+    },
+    ["Solomon's Plea to Darkshire"] = {
+        ["Title"] = "Süleyman'ın Karanlıkdiyar'a (Darkshire) Yalvarışı",
+        ["Text"] = "Lord Abanozkilit(Ebonlocke)---NEW_LINEGölhisar (Lakeshire) kasabası, Gece Nöbetçileri'nin (Night Watch) yardımını acizane talep etmektedir. Hem Karakaya (Blackrock) Orkları hem de Morganth'ın Gölgederi Gnolları tarafından kuşatma altındayız. Durumumuz vahim olmasaydı bu çağrıyı göndermezdim. Fırtınayeli'nden (Stormwind) yardım bekliyoruz ancak bu yardım gelene kadar, destek vermeniz için size yalvarıyorum. Krallık bir kez yarıldığında, tüm insanlık tehlikeye girecektir.-NEW_LINESulh Hakimi Süleyman"
+    },
 }

@@ -177,7 +177,7 @@ function QuestTranslator_CheckVars()
      QuestTranslator_QuestTitle:SetWidth(495);
      QTR_ToggleButton3:SetText("<");
   end
-  if ( QTR_PS["isGetQuestID"] ) then isGetQuestID=QTR_PS["isGetQuestID"]; end;
+  if (QTR_PS["isGetQuestID"]) then isGetQuestID=QTR_PS["isGetQuestID"]; end;
 end
 
 
@@ -532,26 +532,39 @@ local QTR_BookPagesData = {}; -- Otomatik bölünen sayfa metinlerini tutacak ta
 local QTR_BookPage = 1;
 local QTR_MaxBookPages = 1;
 
--- [AKILLI METİN BÖLÜCÜ] Düz metni kelimeleri bölmeden sayfalara ayıran fonksiyon
+-- [DÜZELTİLDİ] NEW_LINE Etiketlerini ve Gerçek Alt Satırları Korumalı Şekilde Sayfalayan Akıllı Bölücü
 local function QTR_AutoWrapText(text, maxCharsPerPage)
     local pages = {};
     local currentPageText = "";
     
-    text = string.gsub(text, "NEW_LINE", " ");
-    text = string.gsub(text, "\n", " ");
+    -- Önce gerçek alt satır komutlarını eklentinin kendi standart etiketi olan NEW_LINE ifadesine çevirelim
+    text = string.gsub(text, "\r\n", " NEW_LINE ");
+    text = string.gsub(text, "\n", " NEW_LINE ");
     
     local words = QTR_split(text, " ");
     
     for _, word in ipairs(words) do
         if word ~= "" then
-            if string.len(currentPageText) + string.len(word) + 1 > maxCharsPerPage then
-                table.insert(pages, currentPageText);
-                currentPageText = word;
-            else
+            -- Eğer kelime doğrudan bir alt satır emriyse (NEW_LINE)
+            if word == "NEW_LINE" then
+                -- Mevcut sayfada metin varsa sonuna iliştiriyoruz, sayfa kesmiyoruz
                 if currentPageText == "" then
+                    currentPageText = "NEW_LINE";
+                else
+                    currentPageText = currentPageText .. " NEW_LINE";
+                end
+            else
+                -- Normal kelimeler için sınır hesabı yap (NEW_LINE kelimelerini temiz görüntü boyutuna dahil etmiyoruz)
+                local cleanLength = string.len(string.gsub(currentPageText, "NEW_LINE", ""));
+                if cleanLength + string.len(word) + 1 > maxCharsPerPage then
+                    table.insert(pages, currentPageText);
                     currentPageText = word;
                 else
-                    currentPageText = currentPageText .. " " .. word;
+                    if currentPageText == "" then
+                        currentPageText = word;
+                    else
+                        currentPageText = currentPageText .. " " .. word;
+                    end
                 end
             end
         end
@@ -611,7 +624,7 @@ function QuestTranslator_ProcessBookText()
                 local full_text = QuestTranslator_BookData[book_title]["Text"] or "";
                 full_text = QuestTranslator_ExpandUnitInfo(full_text);
                 
-                -- Metni kelimeleri bozmadan ~650 karakterlik sayfalara bölüyoruz
+                -- Metni kelimeleri bozmadan ve NEW_LINE emrini ezmeden ~650 karakterlik sayfalara bölüyoruz
                 QTR_BookPagesData = QTR_AutoWrapText(full_text, 650);
                 
                 QTR_MaxBookPages = table.getn(QTR_BookPagesData);
@@ -638,6 +651,9 @@ end
 -- Sayfa Gösterim Güncelleyici
 function QuestTranslator_UpdateBookPageDisplay()
     local page_text = QTR_BookPagesData[QTR_BookPage] or "";
+    
+    -- [KRİTİK] Sayfadaki metni ekrana basmadan önce tüm NEW_LINE etiketlerini gerçek alt satıra (\n) çeviriyoruz
+    page_text = QuestTranslator_ExpandUnitInfo(page_text);
     
     -- Sayfa numarasını en alta şık bir şekilde iliştir
     page_text = page_text .. "\n\n|cffffff00Sayfa: " .. QTR_BookPage .. " / " .. QTR_MaxBookPages .. "|r";
