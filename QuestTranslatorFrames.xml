@@ -43,7 +43,7 @@
                     </Size>
                     <Color r="0.5" g="0.5" b="1" a="1" />
                 </FontString>
-                <FontString name="QuestTranslator_MainTitle" font="GameFontNormal" text="QuestTranslator v. 1.0.20260620.1355">
+                <FontString name="QuestTranslator_MainTitle" font="GameFontNormal" text="QuestTranslator v. 1.0.20260621.1403">
                     <Anchors>
                         <Anchor point="TOPRIGHT">
                             <Offset>
