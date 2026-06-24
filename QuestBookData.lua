@@ -520,5 +520,9 @@ QuestTranslator_BookData = {
         ["Title"] = "Furen'ın Talimatları",
         ["Text"] = "Takip eden sayfalarda, ateşle sertleştirilmiş zırh yapmak için gerekli malzemelerin bir listesini bulacaksınız. İyi şanslar savaşçı.NEW_LINE-Furen UzunsakalNEW_LINEYanık Örümcek Dişleri:NEW_LINEThelgen Kayalığı yakınlarındaki bir mağarada bulunan incendicite cevheri, orada yaşayan örümcekleri yakmıştır.NEW_LINEDişlerindeki zehir kaynar ve dişlerin kendisiyle reaksiyona girerek çok dayanıklı bir madde oluşturur.NEW_LINECavlamış Boynuzlar:NEW_LINEYanık örümcek dişlerine çok benzer şekilde, Kalimdor'daki Stonetalon Dağları'nda, Charred Vale'de yaşayan kimera yaratıklarının kavlamış boynuzları çok değerli bir özelliğe sahiptir.NEW_LINEDüzleştirilip düzgün bir şekilde işlendiklerinde, fiziksel baskıya karşı son derece dirençli hale gelirler.NEW_LINEGalvanizli Boynuz:NEW_LINENadir bulunan galvanizli boynuzun dayanıklılığı, yaratacağım zırh parçasının temel taşıdır, bu yüzden onun da temin edilmesi gerekir.NEW_LINECharred Vale'deki nadir kimera reisine ait bu boynuz oradan elde edilebilir.NEW_LINEFilojiston Şişesi:NEW_LINEZırhı oluşturmanın son aşaması son derece sıcak bir ocak gerektirecektir. Gerekli ısı seviyesini üretmek için bir şişe filojistona sahip olmalıyım.NEW_LINEBu maddenin bilinen tek üreticisi efsanevi Quilboar olan Roogug'dur ve onunla savaşmadan bunu teslim etmeyecektir. Roogug, güney Barrens'taki Razorfen Kraul'un derinliklerinde yaşamaktadır."
     },
+    ["Eliza's Tombstone"] = {
+        ["Title"] = "Eliza'nın Mezar Taşı",
+        ["Text"] = "ELIZANEW_LINESEVGILI KARIM, TOPRAK AÇLIĞINI DOYURSUN"
+    },
 
 }
