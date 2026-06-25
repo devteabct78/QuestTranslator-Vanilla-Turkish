@@ -351,13 +351,13 @@ function QuestTranslator_OnEvent3()
 end
 
 
--- [GÜNCELLENDİ] Kısmi Hedef Arama Destekli Gelişmiş Duplicate Arama Fonksiyonu
+-- [KESİN ÇÖZÜM] Zincir Görevler ve Kısa Metinler İçin Optimize Edilmiş Arama Motoru
 function QuestTranslator_SearchIDforName(qqq_title)
     local qqq_ID = 0;
     local qqq_lists = nil;
     local found_match = false;
-    local first_fallback_id = nil;
     
+    -- Oyundaki metni al ve temizle
     local currentText = GetObjectiveText() or "";
     if (currentText == "" and GetQuestLogQuestText) then
         _, currentText = GetQuestLogQuestText();
@@ -368,46 +368,52 @@ function QuestTranslator_SearchIDforName(qqq_title)
         currentText = string.gsub(currentText, QTR_name, "YOUR_NAME");
         currentText = string.gsub(currentText, QTR_class, "YOUR_CLASS");
         currentText = string.gsub(currentText, QTR_race, "YOUR_RACE");
+        -- Başındaki ve sonundaki boşlukları temizle (Garantili eşleşme için)
+        currentText = string.gsub(currentText, "^%s*(.-)%s*$", "%1");
     end
-    
-    local current25Chars = string.sub(currentText, 1, 25);
 
-    -- 1. Aşama: Tam 25 karakter veya Kısmi İçerik kontrolüyle tarama yapıyoruz
+    -- 1. Aşama: Birebir Metin Eşleşmesi Arama
     for questKey, questData in pairs(QuestTranslator_QuestList) do
         if type(questData) == "table" and string.find(questKey, qqq_title, 1, true) == 1 then
-            if not first_fallback_id then
-                first_fallback_id = questData[1];
-            end
             
             local targetMatchText = questData[2] or "";
             targetMatchText = string.gsub(targetMatchText, "<name>", "YOUR_NAME");
             targetMatchText = string.gsub(targetMatchText, "<class>", "YOUR_CLASS");
             targetMatchText = string.gsub(targetMatchText, "<race>", "YOUR_RACE");
+            targetMatchText = string.gsub(targetMatchText, "^%s*(.-)%s*$", "%1"); -- Trim
 
-            -- Tam 25 karakter eşitliği kontrolü
-            if targetMatchText ~= "" and current25Chars ~= "" and current25Chars == targetMatchText then
-                qqq_lists = questData[1];
-                found_match = true;
-                break;
-            -- Kısmi İçerik Kontrolü: Listedeki "Magistrate..." kelimesi oyun metninin İÇİNDE geçiyor mu?
-            elseif targetMatchText ~= "" and currentText ~= "" and string.find(currentText, targetMatchText, 1, true) then
-                qqq_lists = questData[1];
-                found_match = true;
-                break;
+            if targetMatchText ~= "" and currentText ~= "" then
+                local matchLength = string.len(targetMatchText);
+                local currentCutText = string.sub(currentText, 1, matchLength);
+
+                -- Hem dinamik kırpılmış metni hem de kısmi aramayı aynı anda doğrula
+                if currentCutText == targetMatchText or string.find(currentText, targetMatchText, 1, true) then
+                    qqq_lists = questData[1];
+                    found_match = true;
+                    break; -- Tam eşleşme bulundu, döngüden çık!
+                end
             end
         end
     end
 
-    -- 2. Aşama: Eğer hedef metinler boşsa veya bulunamadıysa ilk alternatife güvenli düşüş yap
-    if not found_match and first_fallback_id then
-        qqq_lists = first_fallback_id;
-        found_match = true;
-    end
-
+    -- 2. Aşama: Eğer oyundan metin BOŞ geldiyse veya hiçbir metin eşleşmediyse, 
+    -- Yanlış görevi göstermek yerine DUP_1 olan ilk ana göreve düşür (Güvenli Fallback)
     if not found_match then
-        qqq_lists = QuestTranslator_QuestList[qqq_title];
+        -- Rastgele bir DUP yerine, isme en yakın düz anahtarı kontrol et
+        if QuestTranslator_QuestList[qqq_title] then
+            qqq_lists = QuestTranslator_QuestList[qqq_title];
+            found_match = true;
+        else
+            -- Eğer o da yoksa listenin ilk elemanını (DUP_1) bulmaya çalış
+            local fallbackKey = qqq_title .. "_QTR_DUP_1";
+            if QuestTranslator_QuestList[fallbackKey] then
+                qqq_lists = QuestTranslator_QuestList[fallbackKey][1];
+                found_match = true;
+            end
+        end
     end
 
+    -- ID Çözümleme Alanı
     if (qqq_lists) then
         if ( type(qqq_lists) == "string" and string.find(qqq_lists, ",")==nil ) then
             qqq_ID=tonumber(qqq_lists);
