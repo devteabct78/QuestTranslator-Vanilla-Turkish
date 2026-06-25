@@ -524,5 +524,9 @@ QuestTranslator_BookData = {
         ["Title"] = "Eliza'nın Mezar Taşı",
         ["Text"] = "ELIZANEW_LINESEVGILI KARIM, TOPRAK AÇLIĞINI DOYURSUN"
     },
+    ["Ebonlocke's Response to Solomon"] = {
+        ["Title"] = "Ebonlocke'un Süleyman'a Cevabı",
+        ["Text"] = "Saygıdeğer Hakimim--NEW_LINEGece Nöbetçileri'nin (Night Watch) bu dönemde Karanlıkdiyar'daki (Darkshire) karakolundan ayrılamayacağını size üzülerek bildirmek isterim. Muhtemelen Fırtınayeli'nin (Stormwind) artık bu bölgede askeri destek sağlamadığından haberdar değildiniz. Gece Nöbetçileri, Fırtınayeli'nin (Stormwind) yokluğunda Karanlıkdiyar'ı (Darkshire) savunmak amacıyla tamamen orman halkı tarafından kurulmuş ve eğitilmiştir. Nöbetçiler olmadan kasaba düşerdi. Zor durumunuzda size şans dilerim.NEW_LINE--Lord Ello Ebonlocke"
+    },
 
 }
