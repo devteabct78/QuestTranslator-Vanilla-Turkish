@@ -8632,4 +8632,6 @@ QuestTranslator_QuestList = {
 ["[DEPRECATED] Welcome to Alah'Thalas"]="80256",
 ["[DEPRECATED] Wool Would Work"]="60008",
 
+["A Dear Friend"]="41797",
+
 } 
