@@ -1,6 +1,6 @@
 ﻿## Interface: 11200
 ## Title: QuestTranslator-Vanilla-Turkish for Vanilla Wow
-## Version: 1.0.20260626.1929
+## Version: 1.0.20260629.0902
 ## Notes: Görevleri türkçeleştiren addon
 ## Author: Fuat
 ## eMail: fuat.tatar@hotmail.com
