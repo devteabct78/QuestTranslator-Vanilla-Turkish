@@ -5255,7 +5255,8 @@ QuestTranslator_QuestList = {
 ["The Favor of Zangus"]="12168",
 ["The Feast of Winter Veil"]="7061,7063",
 ["The Fel and the Furious"]="10612,10613",
-["The Festival of Fire"]="9367,9368",
+["The Festival of Fire_QTR_DUP_1"]={"9367","Touch the bonfires within"},
+["The Festival of Fire_QTR_DUP_2"]={"9368","Touch the bonfires within"},
 ["The Fight Continues"]="26208",
 ["The Final Code"]="10446,10447",
 ["The Final Message to the Wildhammer"]="7843",
@@ -8645,5 +8646,6 @@ QuestTranslator_QuestList = {
 ["[DEPRECATED] Wool Would Work"]="60008",
 
 ["A Dear Friend"]="41797",
+
 
 } 
