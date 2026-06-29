@@ -538,6 +538,10 @@ QuestTranslator_BookData = {
     },
     ["An Undelivered Letter"] = {
         ["Title"] = "Teslim Edilmemiş Bir Mektup",
-        ["Text"] = "Aramızdaki Soylu Efendiye,NEW_LİNEÇocuklarınız için bir öğretmene ihtiyacınız olduğu haberi, Lion's Pride Inn'de (Aslanın Gururu Hanı) geçici olarak kaldığım Altınşiar (Goldshire) kasabasına kadar ulaştı. Bölgedeki talihsiz olaylar nedeniyle Ayderesi (Moonbrook) Okul Binası'ndaki Başmühendislik görevimi bırakmak zorunda kaldım. Lütfen çocuklarınıza öğretmenlik yapmak için yaptığım başvuruyu kabul edin. Akademi'den Başmühendis Crillian, gerekirse yeteneklerim hakkında sizinle konuşabilir.NEW_LİNEKış yağmurları dindiğinde ve yollar yeniden seyahate uygun hale geldiğinde sizinle bizzat görüşmek üzere geleceğim.NEW_LİNEO zamana kadar,NEW_LINEGümüşçam'dan (Silverpine) Stalvan Sisbürüye (Mistmantle)"
+        ["Text"] = "Aramızdaki Soylu Efendiye,NEW_LINEÇocuklarınız için bir öğretmene ihtiyacınız olduğu haberi, Lion's Pride Inn'de (Aslanın Gururu Hanı) geçici olarak kaldığım Altınbucak (Goldshire) kasabasına kadar ulaştı. Bölgedeki talihsiz olaylar nedeniyle Ayderesi (Moonbrook) Okul Binası'ndaki Başmühendislik görevimi bırakmak zorunda kaldım. Lütfen çocuklarınıza öğretmenlik yapmak için yaptığım başvuruyu kabul edin. Akademi'den Başmühendis Crillian, gerekirse yeteneklerim hakkında sizinle konuşabilir.NEW_LINEKış yağmurları dindiğinde ve yollar yeniden seyahate uygun hale geldiğinde sizinle bizzat görüşmek üzere geleceğim.NEW_LINEO zamana kadar,NEW_LINEGümüşçam'dan (Silverpine) Stalvan Sisbürüye (Mistmantle)"
+    },
+    ["A Torn Journal Page"] = {
+        ["Title"] = "Yırtık Bir Günlük Sayfası",
+        ["Text"] = "...Oğlan Giles biraz hırçın görünüyor ve onu eğitmek oldukça zor olacak. Ancak büyük kız Tilloa olağanüstü derecede zeki görünüyor. Onun büyüleyici güzelliğini de fark etmeden edemedim. Artık kadınlığın eşiğinde. Söylentiye göre Lord onun evliliğini gelecek yıl için ayarlamış. Ama konuyu dağıtıyorum. Bu hafta aileye, Elwynn'deki Doğuvalisi Kereste Kampı (Eastvale Logging Camp) yakınlarında, Kızıltepe Dağları'na (Redridge Mountains) yakın olan yazlık kulübelerinde eşlik edeceğim. Oradayken daha çok şey yazmayı umuyorum."
     },
 }
