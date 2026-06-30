@@ -8646,6 +8646,7 @@ QuestTranslator_QuestList = {
 ["[DEPRECATED] Wool Would Work"]="60008",
 
 ["A Dear Friend"]="41797",
-
+["Infiltrating the Castle"]="2745",
+["Items of Some Consequence"]="2746",
 
 } 
