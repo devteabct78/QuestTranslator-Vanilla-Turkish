@@ -8650,6 +8650,6 @@ QuestTranslator_QuestList = {
 ["Items of Some Consequence"]="2746",
 ["Among the Jousters"]="41663",
 ["Leaf's Bounty"]="41662",
-["Amberpaw Bounty"]="41661"
-
+["Amberpaw Bounty"]="41661",
+["Empty Houses"]="41643",
 } 
