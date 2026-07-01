@@ -8652,4 +8652,11 @@ QuestTranslator_QuestList = {
 ["Leaf's Bounty"]="41662",
 ["Amberpaw Bounty"]="41661",
 ["Empty Houses"]="41643",
+["Who Will Think Of The Children?"]="41636",
+["Goody Bag"]="41668",
+["Misery At Sherwood Quarry"]="41687",
+["A Dark Knight Rises"]="41664",
+["Amberglaze Donuts"]="41666",
+["In Need of Shoes"]="41667",
+["In Amber Disgust"]="41665"
 } 
