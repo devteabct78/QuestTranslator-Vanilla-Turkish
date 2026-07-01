@@ -8648,5 +8648,8 @@ QuestTranslator_QuestList = {
 ["A Dear Friend"]="41797",
 ["Infiltrating the Castle"]="2745",
 ["Items of Some Consequence"]="2746",
+["Among the Jousters"]="41663",
+["Leaf's Bounty"]="41662",
+["Amberpaw Bounty"]="41661"
 
 } 
