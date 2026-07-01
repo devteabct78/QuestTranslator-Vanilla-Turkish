@@ -8658,5 +8658,11 @@ QuestTranslator_QuestList = {
 ["A Dark Knight Rises"]="41664",
 ["Amberglaze Donuts"]="41666",
 ["In Need of Shoes"]="41667",
-["In Amber Disgust"]="41665"
+["In Amber Disgust"]="41665",
+["The Messenger Of Northwind"]="41768",
+["To Look A Gift Horse In The Mouth"]="41688",
+["Darker than Iron"]="41677",
+["Amberfin Bounty"]="41672",
+["Northwind Amber"]="41675",
+["An Amber Light"]="41678"
 } 
