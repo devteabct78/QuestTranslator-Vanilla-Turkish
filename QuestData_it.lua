@@ -2217,14 +2217,23 @@ QuestTranslator_QuestData = {
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Daha İleriye Bakmak
-
-    -- Morganth
-    ["249"] = {
+-- Morganth
+    -- Morganth -> Morganth kalmıştır (NPC/Boss ismi).
+    -- Pendant of Shadow -> Gölge Kolyesi (Pendant + of + Shadow).
+    -- Theocritus -> Theocritus kalmıştır.
+    -- Tower of Azora -> Azora Kulesi (Tower + of + Azora).
+    -- Elwynn Forest = Elwynn Ormanı.
+    -- Scythe of Elune -> Elune'un Tırpanı (Scythe + of + Elune).
+    -- Redridge Mountains = Kızılbel Dağları.
+    -- Stormwind = Fırtınayeli.
+    -- Tower of Ilgalar -> Ilgalar Kulesi (Tower + of + Ilgalar).
+    -- Rose Mantle -> Gül Pelerini (Rose + Mantle).
+    ["249"] = { 
     ["Title"]="Morganth",
-    ["Description"]="Uzun gözlemlerden sonra, Morganth'ın planlarını keşfettim.NEW_LINENEW_LINEElune'nin Tırpanını arıyor... ve bulmuş olabilir!  Eğer bulduysa, Kızılkaya Dağları ve Stormwind Krallığı yakında onun karanlık gücünü hissedecek.NEW_LINENEW_LINEKendimi Morganth'la karşı karşıya getirmeye hazır değilim ama korkarım ki onunla şimdi başa çıkılmalı. Bu yüzden Ilgalar Kulesi'ne girmeli ve Morganth'la yüzleşmelisin.NEW_LINENEW_LINEOnu yen ve Gölge Kolyesi'ni bana getir. Bunu yaparsan krallık sana çok şey borçlu olacak.",
-    ["Objectives"]="Morganth'ı yen.NEW_LINENEW_LINEGölge Kolyesini Elwynn Ormanı'ndaki Azora Kulesi'nde bulunan Theocritus'a getirin.",
-    ["Progress"]="",
-    ["Completion"]="",
+    ["Description"]="Uzun süren gözlemlerimin ardından Morganth'ın planlarını açığa çıkardım.\n\nKendisi Elune'un Tırpanı'nı (Scythe of Elune) arıyor... ve onu bulmuş olabilir! Eğer bulduysa, Kızılbel Dağları (Redridge Mountains) ve Fırtınayeli (Stormwind) krallığı yakında onun karanlık gücünü iliklerine kadar hissedecektir.\n\nMorganth'a karşı bizzat çıkmaya hazır değilim, fakat artık onunla ilgilenilmesi gerektiğinden korkuyorum. Bu yüzden Ilgalar Kulesi'ne (Tower of Ilgalar) girmeli ve Morganth ile yüzleşmelisiniz.\n\nOnu alt edin ve bana Gölge Kolyesi'ni (Pendant of Shadow) getirin. Bunu yaparsanız, krallık size çok şey borçlu kalacaktır.",
+    ["Objectives"]="Morganth'ı alt et. Onun Gölge Kolyesi'ni (Pendant of Shadow) Elwynn Ormanı'ndaki (Elwynn Forest) Azora Kulesi'nde (Tower of Azora) bulunan Theocritus'a ulaştır.",
+    ["Progress"]="Acele et YOUR_NAME, Morganth'ın gücünü yayacağına dair korkularım gerçeğe dönüşmeden önce!",
+    ["Completion"]="Harika bir iş çıkardın YOUR_NAME. Kara büyücü (warlock) Morganth'ı alt ederek Fırtınayeli'ni (Stormwind) büyük bir tehlikeden kurtardın.\n\nSana bu ödülü büyük bir mütevazılıkla sunuyorum. Eğer huzurlu zamanlarda olsaydık sana huzur dilerdim.\n\nFakat bunun yerine, imtihanlarında sana şans ve önündeki çatışmalarda zafer diliyorum.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Morganth
@@ -47195,15 +47204,93 @@ QuestTranslator_QuestData = {
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end An Amber Light
+    -- Wine Avenger
+    -- Wine Avenger -> Şarap İntikamcısı (Wine + Avenger).
+    -- Blackrock Invaders -> Karakaya İstilacıları (MobNpcData.lua kaynaklı)[cite: 1].
+    -- Northwind Winery -> Kuzeyrüzgârı Şaraphanesi (Northwind + Winery).
+    -- Old Man Crawford -> Yaşlı Crawford.
+    -- Hood of the Pyremaster -> Ateşustası Kukuletası (Pyre + master + Hood).
+    -- Crawford Hauberk -> Crawford Örme Zırhı (Hauberk).
+    -- Stormwind = Fırtınayeli.
+    ["41674"] = {
+    ["Title"]="Şarap İntikamcısı",
+    ["Description"]="Şaraphanem o vahşi, gri budalaların eline geçti. Bah! Lanet olsun hepsine! Tekrar, tekrar ve bir kez daha orklarla yüzleşmek zorunda olduğumuzu düşünmek... Onların domuza benzeyen suratlarından kesinlikle bıktım ve usandım. Keşke bu lanet olası yaşta olmasaydım, yaba tırmığımı kapar ve hiçbirini ayakta bırakmazdım!\n\nKeşke oğullarım da bu duyguyu paylaşsaydı. Hâlâ çocuklar gibi somurtup duruyorlar orada. Onlara karşı çok yumuşak davrandım; savaş nedir bilmiyorlar ve durumun buraya gelmesinin sebebi de bu. Ailemizin sahip olduğu her şey o lanet olası orkların elinde. Onları gözetlemeye çalıştım ve gördüklerim beni çok ama çok öfkelendirdi. Sadece üzümlerimle ziyafet çekip tüm şarabımı içmekle kalmıyorlar, aynı zamanda evimi de kirletiyorlar!\n\nOnların işi bitirilmeli. Bana yardım et maceracı, ailemin yadigarı senin olsun. Yalvarırım sana, benim ve o pısırık oğullarımın yapamadığını yap!",
+    ["Objectives"]="Kuzeyrüzgârı Şaraphanesi'nin (Northwind Winery) dış tarlalarındaki 20 Karakaya İstilacısını (Blackrock Invaders) katlet. İşin bittiğinde Yaşlı Crawford'a (Old Man Crawford) geri dön.",
+    ["Progress"]="Keşke bir gün bile huzur yüzü görmeseler.",
+    ["Completion"]="O kadarını katlettin mi? Güzel! Onların kanı toprağı besleyecek ve orada yetişen üzümler zaferin tatlı lezzetini taşıyacak.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Wine Avenger
+    -- The Amber Pearl
+    -- The Amber Pearl -> Kehribar İnci (Amber + Pearl).
+    -- Grimmen Lake -> Grimmen Gölü (Grimmen + Lake).
+    -- Henry -> Henry kalmıştır, Theresa -> Theresa kalmıştır.
+    -- Grrblga -> Grrblga kalmıştır (Murloc ismi).
+    -- Stormwind = Fırtınayeli.
+    ["41673"] = { 
+    ["Title"]="Kehribar İnci",
+    ["Description"]="Birkaç murloc katletmeye mi çıktın, maceracı? Theresa ve ben birkaç saniye öncesine kadar sadece sohbet ediyorduk, ta ki Grimmen Gölü'nün (Grimmen Lake) karşı tarafından sesler geldiğini duyana dek. Göl kıyısındaki diğerlerine doğru havlayan devasa bir murloc vardı! \"Havlamak\" diyorum çünkü ne dediğini pek anlamadık. Sanırım onların alfası falan olmalı — murloclar hakkında pek bir şey bilmiyorum.\n\nHer neyse, Theresa onun kocaman bir kehribar inci taşıdığını fark etti — kendi kafası büyüklüğünde olduğunu iddia ediyor! Eğer o mağaraya girip onu alt edersen, inciyi bana geri getirebilir misin? Bunu ona bir hediye olarak sunmak istiyorum. Kendisi benim için harika bir dost... ve daha fazlası oldu, ona bunu layıkıyla göstermek istiyorum.",
+    ["Objectives"]="Sahildeki mağaraya gir ve Grrblga'yı katlet, ardından incisini iskeledeki Henry'ye geri götür.",
+    ["Progress"]="İnciyi gördüğünde çok heyecanlanmış gibi görünüyordu.",
+    ["Completion"]="Vay canına, gerçekten de kafası büyüklüğündeymiş! Buna bayılacak. Teşekkür ederim; bu iyiliğini unutmayacağım.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end The Amber Pearl
+    -- The Tower of Azora
+    -- Tower of Azora -> Azora Kulesi (Tower + of + Azora).
+    -- Antonas Riftgaze -> Antonas Yarıkbakış (Rift + gaze).
+    -- Elwynn Forest = Elwynn Ormanı.
+    -- Zaldimar -> Zaldimar kalmıştır.
+    -- Goldshire = Altınköy (Gold + shire).
+    -- Crystal Lake -> Kristal Göl (Crystal + Lake).
+    -- Shipment of Scrolls -> Parşömen Sevkiyatı (Shipment + of + Scrolls).
+    -- Scroll of Stamina -> Dayanıklılık Parşömeni, Scroll of Spirit -> Ruh Parşömeni.
+    ["41747"] = { -- Quest ID varsayılan olarak yerleştirilmiştir.
+    ["Title"]="Azora Kulesi",
+    ["Description"]="Bir zamanlar Azora Kulesi'ndeki (Tower of Azora) büyücülerin bir öğrencisiydim. Yeteneklerimin çoğunu orada öğrendim ve gizemli ilimler (arcane) üzerindeki uzmanlığımı orada pekiştirdim. Yıllar boyunca onlarla ilişkimi sürdürdüm ve kuleye sık sık parşömen sevkiyatları yaptım. Pratik ettikleri tüm o büyüler ve tılsımlar yüzünden bunlardan epey tüketiyorlar gibi görünüyor!\n\n<Zaldimar hafifçe güler.>\n\nŞu anki çalışmalarım beni burada, Altınköy'de (Goldshire) kalmaya mecbur bıraktığı için, benim adıma bu parşömen teslimatını gerçekleştirecek birine ihtiyacım var. Azora Kulesi'ni (Tower of Azora) doğuda, Kristal Göl'ün (Crystal Lake) hemen ilerisinde bulabilirsin. O büyük kuleyi gözden kaçırmak pek mümkün olmasa gerek.",
+    ["Objectives"]="Parşömen Sevkiyatını (Shipment of Scrolls) Elwynn Ormanı'ndaki (Elwynn Forest) Azora Kulesi'nde (Tower of Azora) bulunan Antonas Yarıkbakış'a (Antonas Riftgaze) ulaştır.",
+    ["Progress"]="Evet, size yardımcı olabilir miyim?",
+    ["Completion"]="Parşömen teslimatı mı? Seni Zaldimar göndermiş olmalı. İtiraf etmeliyim ki onun kuledeki varlığını özlüyorum, her zaman çok yetenekli bir öğrenciydi.\n\nBu parşömenlerin iyi bir amaç uğruna kullanılacağından emin olabilirsin. Lütfen bunu, Azora Kulesi'ndekiler (Tower of Azora) adına bir teşekkür olarak kabul et.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end The Tower of Azora
+    -- Arcane Emanations
+    -- Arcane Emanations -> Gizemli Işımalar (Arcane + Emanations).
+    -- Elwynn Forest = Elwynn Ormanı, Tower of Azora -> Azora Kulesi (Tower + of + Azora).
+    -- Antonas Riftgaze -> Antonas Yarıkbakış (Rift + gaze).
+    -- Lesser Arcane Residue -> Küçük Gizemli Kalıntı (Lesser + Arcane + Residue).
+    -- Kirin Tor -> Kirin Tor kalmıştır.
+    -- Minor Mana Potion -> Küçük Mana İksiri.
+    ["41746"] = { -- Quest ID varsayılan olarak yerleştirilmiştir.
+    ["Title"]="Gizemli Işımalar",
+    ["Description"]="Birkaç hafta önce Azora Kulesi (Tower of Azora), Kirin Tor büyücüleri adına gizemli (arcane) özellikler üzerine bir araştırma yürütüyordu. Ne yazık ki bu deney, şu anda yakındaki ormanda vücut bulmuş olan gizemli enerjilerin aşırı yüklenmesiyle sonuçlandı.\n\nBu kulenin etrafındaki ormanın bazı kısımlarını mesken tutan gezgin elementalleri fark ettin mi? Eğer yardımcı olabilirsen, onların yok edilmesini talep ediyoruz. Bu durum tamamen kontrolden çıkmadan önce kalıntılarını bize getir.",
+    ["Objectives"]="Elwynn Ormanı'ndaki (Elwynn Forest) Azora Kulesi'nde (Tower of Azora) bulunan Antonas Yarıkbakış (Antonas Riftgaze) için yakındaki gizemli elementallerden 8 Küçük Gizemli Kalıntı (Lesser Arcane Residue) topla.",
+    ["Progress"]="Böyle bir durumun bir daha baş göstermemesi için çalışıyoruz. Kalıntıları geri getirdiğinde, ortalıkta kalan enerjiyi tekrar kulenin kendisine yönlendirmeye başlayabiliriz.",
+    ["Completion"]="Kalıntıları toplamışsın, güzel iş. Bizim açtığımız pisliği temizlemesi için bir yolcuyu göndermenin ne kadar doğru olduğundan pek emin değildim, dürüst olmak gerekirse; fakat sonunda her şey yolunda gitmiş gibi görünüyor.\n\nLütfen buradakiler adına bu iksirleri kabul et, yolculuğunda işine yarayabilirler.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Arcane Emanations
+    -- The Master and the Student
+    -- The Master and the Student -> Usta ve Öğrenci (The Master + and + the + Student).
+    -- Ralthas -> Ralthas kalmıştır (NPC/Mob ismi).
+    -- Necklace of Azora -> Azora Kolyesi (Necklace + of + Azora).
+    -- Theocritus -> Theocritus kalmıştır.
+    -- Tower of Azora -> Azora Kulesi (Tower + of + Azora).
+    -- Elwynn Forest = Elwynn Ormanı.
+    -- Stone Cairn Lake -> Taş Tümsek Gölü (Stone + Cairn + Lake).
+    -- Defias Brotherhood = Defias Kardeşliği (Defias + Brotherhood).
+    -- Ring of Theocritus -> Theocritus'un Yüzüğü (Ring + of + Theocritus).
+    -- Azeroth = Azeroth.
+    ["41748"] = { -- Quest ID varsayılan olarak yerleştirilmiştir.
+    ["Title"]="Usta ve Öğrenci",
+    ["Description"]="Uzun yıllar önce kanatlarımın altına bir öğrenci aldım. Ona gizemli ilimlerin (arcane) sırlarını öğretmek ve zihnini daha büyük şeyler için dizginlemek adına... Ralthas, parlak bir geleceğe sahip olacak dahi bir öğrenciydi. Gizemli sanatlar konusunda uzmanlaşabilir ve potansiyel olarak günün birinde Azora Kulesi'ni (Tower of Azora) yönetebilirdi.\n\nSiyasetin ve öfkenin faydasız çılgınlığı yüzünden zihninin zehirlendiğini düşünmek beni derinden yaralıyor. Şimdi ise zayıfları avlamak ve Elwynn'in huzurunu bozmak adına önüne gelen her hayduda ve düzenbaza sırlarımızı öğreterek ortalıkta çılgınca koşturuyor.\n\nRalthas durdurulmalı ve onunla yüzleşmek zorunda kalırsam bu benim kalbimi kırar. Onu alt etmeni senden rica ediyorum. Buranın kuzeydoğusundaki Taş Tümsek Gölü (Stone Cairn Lake) civarında sık sık pusuya yattığını duydum. Elwynn Ormanı (Elwynn Forest) üzerindeki dehşetinin tamamen son bulduğunu bilmem için boynuna taktığı kolyeyi bana getir.",
+    ["Objectives"]="Hain büyücü Ralthas'ı bul ve estirdiği teröre bir son ver. Azora Kolyesi'ni (Necklace of Azora) Elwynn Ormanı'ndaki (Elwynn Forest) Azora Kulesi'nde (Tower of Azora) bulunan Theocritus'a ulaştır.",
+    ["Progress"]="Ralthas, Azora Kulesi (Tower of Azora) için çok kıymetli olan pek çok sırrı yaydı ve Defias Kardeşliği'ne (Defias Brotherhood) yardım etti... Bu tür suçlar cevapsız bırakılamaz.",
+    ["Completion"]="Bugün parlak bir zihin yitip gitti. Başka bir dünyada belki de gerçekten Azeroth'un büyük büyücülerinden biri olabilirdi.\n\n<Theocritus derin ve uzun bir iç çeker.>\n\nOnun gibisini bir daha bulabileceğimi sanmıyorum; yine de yapılması gerekeni yaptığın için sana teşekkür etmeliyim. Bunu benden sana şahsi bir teşekkür olarak kabul et.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end The Master and the Student
     --123456789
-
-
-
-
-
-
-
-
 
 
 
