@@ -595,5 +595,9 @@ QuestTranslator_BookData = {
     ["Letter to Ello"] = {
         ["Title"] = "Ello'ya Mektup",
         ["Text"] = "Bu nottaki harfler yüzeyinde titriyor ve dans ediyor gibi görünüyor. Onlardan bir anlam çıkarmak imkansız..."
+    },
+    ["Letter to Jorgen"] = {
+        ["Title"] = "Jorgen'a Mektup",
+        ["Text"] = "Jorgen,NEW_LINE Korkularım gerçek oldu ve asla yapabileceklerini düşünmediğim şekillerde harekete geçtiler. Bu kadar yaklaşabileceklerini hiç düşünmemiştim ama yaklaştılar.NEW_LINE Lütfen bu notu taşıyan kişiye yardım et ve onu ONA gönder. Tüm dürüstlüğümle söylüyorum, bu meselenin ciddiyeti yüzünden bize yardım edeceğini düşünüyorum. Eğer başka bir tehdit olsaydı, muhtemelen bizi ve güzel şehrimizin sorunlarını görmezden gelmeye devam ederdi.NEW_LINE Teşekkür ederim, seni gidi eski balıkçı. Her zamanki gibi sana borçluyum.NEW_LINE Dostun,NEW_LINE DeLavey"
     }
 }
