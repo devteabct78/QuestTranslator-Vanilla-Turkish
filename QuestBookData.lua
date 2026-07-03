@@ -607,5 +607,9 @@ QuestTranslator_BookData = {
     ["Defias Docket"] = {
         ["Title"] = "Defias Dosyası",
         ["Text"] = "İlk planımız zaten başarısız oldu! Yumruk, o akşamki tünel vardiyaları için muhafız listesini değiştirmede başarılı olmuştu; ancak Fırtınayeli(Stormwind) vatandaşlarından bazılarının öngörülemeyen çabaları nedeniyle, hedefimiz biz onu ele geçiremeden olay yerinden kaçmayı başardı. Ama biz bu tür acil durumlar için plan yapmıştık. Plan 2 harekete geçirildi ve Fırtınayelindeki pusumuz başlamadan önce zaten iyi bir şekilde ilerliyordu.NEW_LINE Plan 2 de en az ilki kadar basit, ancak bizim açımızdan daha fazla sabır gerektirecek. Menethil'deki içerideki adamımıza çabalarının karşılığı zaten ödendi ve kendisi fevkalade bir başarı gösterdi. Yelken açtıktan sonra hedefimizi ele geçirmekte ve onu tutsak etmekte hiçbir sorun yaşamamalıyız.NEW_LINE Saldırının, varış noktalarından birkaç mil uzakta gerçekleşmesini bekleyin. İşte o zaman??? müttefiklerimiz??? pusuda bekliyor olacak. Bu yaratıklarla neden bir ittifak kurmaya zorlandığımızdan emin değilim ama kendimizin de buna mecbur bırakıldığını hissetmekten alıkoyamıyorum. Nihayetinde bunun bir önemi olmayacak. Hedef gözaltımızdayken, Fırtınayelini onu bizden çalanlardan geri alma yolunda emin adımlarla ilerliyor olacağız!"
+    },
+    ["Calor's Note"] = {
+        ["Title"] = "Calor'un Notu",
+        ["Text"] = "Usta Carevin,NEW_LINE Bu notu taşıyan kişi rüştünü ispat etmiştir.NEW_LINE Dolayısıyla bu Işığın Savaşçısı'na yeni görevler vermenizi öneririm; belki de kasaba halkından, Işığın düşmanlarına yardım ve yataklık ettiğinden şüphelenilen bazı kişilerin araştırılması gibi.NEW_LINE Saygılarımla,NEW_LINE Calor"
     }
 }

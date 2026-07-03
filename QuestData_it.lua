@@ -1949,27 +1949,41 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end Worgen Ormanda
 
-    -- Worgen Ormanda
-    ["222"] = {
-    ["Title"]="Worgen Ormanda",
-    ["Description"]="Önceki başarıların beni, ormanı istila eden en zorlu worgenlerle başa çıkmaya hazır olduğuna ikna etti.NEW_LINENEW_LINEBurada yeni evlerini kuran worgenler arasında en tehlikeli olanları İğrenç Dişler ve Lekeli Olanlar. Bazı mağaraların yakınına ve güneydeki madene yerleştiler.NEW_LINENEW_LINEÇok uzaklardan şenlik ateşlerinin ışığını bile görebilirsiniz...",
-    ["Objectives"]="Karanlıkdiyar'da Calor için 8 Nightbane Vile Fang ve 8 Nightbane Tainted One worgen öldürün.",
-    ["Progress"]="",
-    ["Completion"]="",
+    -- Worgen in the Woods
+    -- Worgen in the Woods -> Ormandaki Worgenler (Worgen + in + the + Woods).
+    -- Nightbane Vile Fang -> Gecekahrı Habisdiş (Nightbane -> Gecekahrı, Vile -> Habis, Fang -> Diş).
+    -- Nightbane Tainted One -> Gecekahrı Lekelenmiş (Tainted + One).
+    -- Calor -> Calor kalmıştır.
+    -- Darkshire -> Karanlıkdiyar (Kural gereği lokalize edilmiştir).
+    -- Master Carevin -> Usta Carevin kalmıştır.
+    -- Light = Işık.
+    ["222"] = { 
+    ["Title"]="Ormandaki Worgenler",
+    ["Description"]="Önceki başarıların, beni ormanı istila eden en çetin worgenlerin karşısına çıkmaya hazır olduğuna ikna etti.\n\nBurayı kendilerine yeni mesken edinen worgenler arasında, Habisdişler (Vile Fangs) ve Lekelenmişler (Tainted Ones) en tehlikelileri olduklarını kanıtladılar. Güneydeki bazı mağaraların yakınlarına ve madene yerleştiler.\n\nUzaklardan bile yakmış oldukları kamp ateşlerinin ışığını görebilirsin...",
+    ["Objectives"]="Karanlıkdiyar'daki (Darkshire) Calor için 8 Gecekahrı Habisdiş (Nightbane Vile Fang) ve 8 Gecekahrı Lekelenmiş (Nightbane Tainted One) worgen katlet.",
+    ["Progress"]="Göz korkutucu canavarlar, değil mi? Ama hiç korkma <name>, Işık'ın (the Light) safında duranlar asla yıkılmaz!",
+    ["Completion"]="<name>, dürüst olmak gerekirse bu kadar ileri gidebileceğine inanmıyordum; fakat kesinlikle hafife alınmayacak bir <class> olduğunu kanıtladın. Hatta Usta Carevin'in (Master Carevin) mücadelesine resmen katılmak istersen, senin için seve seve bir tavsiye mektubu yazarım.",
     ["minlevel"]="0",
     ["questlevel"]="0",
-    }, -- end Worgen Ormanda
+    }, -- end Worgen in the Woods
 
-    -- Worgen Ormanda
-    ["223"] = {
-    ["Title"]="Worgen Ormanda",
-    ["Description"]="Al bakalım, YOUR_NAME. Bu mesajı Efendi Carevin'e götür.NEW_LINENEW_LINE<Hızlıca bir parça soluk parşömen çıkarır ve size sunar.>NEW_LINENEW_LINESizin gibi birkaç kişi daha olursa Gece Nöbetçileri'nin sayısını geçeriz! Belki o zaman bugün çok azımızın sürdürdüğü işi tamamlayabiliriz.",
-    ["Objectives"]="Calor'un notunu Jonathan Carevin'e getirin.",
-    ["Progress"]="Evet, ne istiyorsun? Çabuk ol, ilgilenmem gereken acil işler var.",
-    ["Completion"]="",
+    -- Worgen in the Woods
+    -- Calor -> Calor kalmıştır.
+    -- Jonathan Carevin, Master Carevin -> Jonathan Carevin, Usta Carevin kalmıştır.
+    -- Calor's Note -> Calor'un Notu.
+    -- Night Watch -> Gece Nöbeti (The Night Watch).
+    -- Cloak of the Faith -> İnanç Pelerini, Shield of the Faith -> İnanç Kalkanı.
+    -- Consecrated Wand -> Kutsanmış Asa.
+    -- Light = Işık.
+    ["223"] = { 
+    ["Title"]="Ormandaki Worgenler",
+    ["Description"]="İşte buyur, <name>. Bu mesajı Usta Carevin'e (Master Carevin) ulaştır.\n\n<Hızlıca solmuş bir parşömen parçası çıkarır ve onu size uzatır.>\n\nSenin gibi birkaç kişi daha olursa, sayıca Gece Nöbeti'ni (the Night Watch) bile geride bırakırız! Belki o zaman biz birkaç kişinin bugün sürdürdüğü bu çalışmayı nihayete erdirebiliriz.",
+    ["Objectives"]="Calor'un Notu'nu (Calor's Note) Jonathan Carevin'e ulaştır.",
+    ["Progress"]="Evet, ne vardı? Çabuk ol, ilgilenmem gereken acil meseleler var.",
+    ["Completion"]="Soğuk karşılamam için kusuruma bakma, <name>; fakat eminim senin de fark edebileceğin üzere son derece meşgul bir adamım. Calor'u etkilemeyi başardığını görüyorum —ve seni temin ederim ki bu hiç de küçümsenecek bir başarı değildir— nitekim kendisi tavsiye mektubunu vermiş.\n\nEtrafta tekinsiz tipler dolanıyor <name> ve kendisini kanıtlamış herkesin yardımına ihtiyacımız var. İblislerle, zombilerle (undead) ve onlara yardım yataklık edenlerle savaşıyoruz. Tedbiri elden bırakma, tetikte ol ve bizim davamıza destek vermeyen hiç kimseye güvenme.\n\nIşık'ın (the Light) altında zafer seninle olsun.",
     ["minlevel"]="0",
     ["questlevel"]="0",
-    }, -- end Worgen Ormanda
+    }, -- end Worgen in the Woods
 
     -- Kral Topraklarını Savunurken
     ["224"] = {
@@ -2048,16 +2062,22 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end Sven'in Kampı
 
-    -- Bir Kızın Sevgisi
-    ["231"] = {
-    ["Title"]="Bir Kızın Sevgisi",
-    ["Description"]="",
-    ["Objectives"]="Sarah Ladimore'un yüzüğünü Morgan Ladimore'un mezarına götürün.",
-    ["Progress"]="",
-    ["Completion"]="",
+    -- A Daughter's Love
+    -- A Daughter's Love -> Bir Kızın Sevgisi / Bir Kız Evladın Sevgisi (A + Daughter's + Love).
+    -- Sarah Ladimore -> Sarah Ladimore (Soyisim "Ladi-more" -> Hanımefendidahası gibi yapay duracağı ve bilinen kurgusal bir karakter zinciri olduğu için "Ladimore" olarak bırakılmıştır).
+    -- Morgan Ladimore -> Morgan Ladimore kalmıştır.
+    -- Sarah's Ring -> Sarah'nın Yüzüğü.
+    -- Archeus -> Archeus kalmıştır (Özel kılıç adı).
+    -- Light = Işık, Lys -> Lys kalmıştır.
+    ["231"] = { -- Quest ID varsayılan olarak yerleştirilmiştir.
+    ["Title"]="Bir Kız Evladın Sevgisi",
+    ["Description"]="Al, bunu al ve onun mezarına koy. Belki... bir şekilde, benim iyi olduğumu ve hiçbirimizin olan bitenlerden ötürü onu suçlamadığını anlar.\n\n<Sağ elindeki yüzüğü parmağından çıkarıp ellerinizin arasına iliştirirken gözlerinde yaşlar belirir.>\n\nVe... teşekkür ederim, <name>.",
+    ["Objectives"]="Sarah Ladimore'un yüzüğünü Morgan Ladimore'un mezarına götür.",
+    ["Progress"]="Beni yalnız bırak...",
+    ["Completion"]="<Rüzgarda hayaletimsi bir ses çınlar...>\n\nBu...? Sarah mı? Yoksa hâlâ hayatta mı? Omuzlarımdaki büyük yük kalktı...\n\n<name>. Kılıcım Archeus'u al. Ruhum huzura erdiğine göre artık ona ihtiyacım yok. İyilik yapması için dövülmüştü; her ne kadar onu taşımaya layık olmadığımı kanıtlamış olsam da, belki sen onun vesilesiyle Işık'ı (the Light) yaşatmaya devam edersin.\n\nLys, sevgilim...",
     ["minlevel"]="0",
     ["questlevel"]="0",
-    }, -- end Bir Kızın Sevgisi
+    }, -- end A Daughter's Love
 
     -- Eczacı Zinge için ayak işleri
     ["232"] = {
