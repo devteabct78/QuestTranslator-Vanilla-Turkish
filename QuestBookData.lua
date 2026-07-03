@@ -599,5 +599,13 @@ QuestTranslator_BookData = {
     ["Letter to Jorgen"] = {
         ["Title"] = "Jorgen'a Mektup",
         ["Text"] = "Jorgen,NEW_LINE Korkularım gerçek oldu ve asla yapabileceklerini düşünmediğim şekillerde harekete geçtiler. Bu kadar yaklaşabileceklerini hiç düşünmemiştim ama yaklaştılar.NEW_LINE Lütfen bu notu taşıyan kişiye yardım et ve onu ONA gönder. Tüm dürüstlüğümle söylüyorum, bu meselenin ciddiyeti yüzünden bize yardım edeceğini düşünüyorum. Eğer başka bir tehdit olsaydı, muhtemelen bizi ve güzel şehrimizin sorunlarını görmezden gelmeye devam ederdi.NEW_LINE Teşekkür ederim, seni gidi eski balıkçı. Her zamanki gibi sana borçluyum.NEW_LINE Dostun,NEW_LINE DeLavey"
+    },
+    ["Translated Letter"] = {
+        ["Title"] = "Çevrilmiş Mektup",
+        ["Text"] = "Selamlar Ello Karalüle, Karanlıkdiyar'ın Belediye Başkanı. Korkarım kasabanız için haberlerim var. Kara haberler.NEW_LINE Görüyorsunuz ya, ben bir YARATICIYIM. Bu notu taşıyan kişiyi kandırarak en son, en dehşet verici yaratımıma yardım etmesini sağladım - etten, kemikten ve bükülmüş metalden bir iblis! Siz bunu okurken, muhtemelen benim mütevazı meskenimin dışında, dişlerini gıcırdatıyor ve ileri atılıp katliam yapmak için benden çıkacak bir kelimeyi bekliyordur.NEW_LINE Ama yakında yeterince öğrenmiş olacaksınız.NEW_LINE -Tahnitçi"
+    },
+    ["Defias Docket"] = {
+        ["Title"] = "Defias Dosyası",
+        ["Text"] = "İlk planımız zaten başarısız oldu! Yumruk, o akşamki tünel vardiyaları için muhafız listesini değiştirmede başarılı olmuştu; ancak Fırtınayeli(Stormwind) vatandaşlarından bazılarının öngörülemeyen çabaları nedeniyle, hedefimiz biz onu ele geçiremeden olay yerinden kaçmayı başardı. Ama biz bu tür acil durumlar için plan yapmıştık. Plan 2 harekete geçirildi ve Fırtınayelindeki pusumuz başlamadan önce zaten iyi bir şekilde ilerliyordu.NEW_LINE Plan 2 de en az ilki kadar basit, ancak bizim açımızdan daha fazla sabır gerektirecek. Menethil'deki içerideki adamımıza çabalarının karşılığı zaten ödendi ve kendisi fevkalade bir başarı gösterdi. Yelken açtıktan sonra hedefimizi ele geçirmekte ve onu tutsak etmekte hiçbir sorun yaşamamalıyız.NEW_LINE Saldırının, varış noktalarından birkaç mil uzakta gerçekleşmesini bekleyin. İşte o zaman??? müttefiklerimiz??? pusuda bekliyor olacak. Bu yaratıklarla neden bir ittifak kurmaya zorlandığımızdan emin değilim ama kendimizin de buna mecbur bırakıldığını hissetmekten alıkoyamıyorum. Nihayetinde bunun bir önemi olmayacak. Hedef gözaltımızdayken, Fırtınayelini onu bizden çalanlardan geri alma yolunda emin adımlarla ilerliyor olacağız!"
     }
 }

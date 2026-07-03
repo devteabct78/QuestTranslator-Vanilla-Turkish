@@ -2271,16 +2271,23 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end Ello'ya Çeviri
 
-    -- Mumyalayıcının Gelini
-    ["253"] = {
-    ["Title"]="Mumyalayıcının Gelini",
-    ["Description"]="Mumyalayıcı, çocuk hikâyelerimizden birinde anlatılan bir isimdir. Karısı Eliza'nın ölümüyle çılgına dönen iyi kalpli bir simyacıydı. Onu eski haline getirmek için kara büyü kullanarak kendi kalbini ölü eşinin göğsüne yerleştirdi.NEW_LINENEW_LINEBu Eliza'yı canlandırdı... ama onu insan etine duyduğu açlıkla lanetledi ve Mumyalayıcıyı onu gömülü tutmaya zorladı.NEW_LINENEW_LINEKalbi onun gücü. Karısının mezarını bul, kalbini çıkar ve hala atarken bana getir. Bunu yaparsan gücü kırılacak.",
-    ["Objectives"]="Eliza'nın mezarını bulun. Mumyalayıcının Kalbini ondan alın ve sonra Ello Ebonlocke'a geri dönün.",
-    ["Progress"]="Eliza'nın mezarını bulabildin mi? Mumyalayıcının kalbi sende mi?",
-    ["Completion"]="Başardın! Kalbindeki büyü, Mumyalayıcı'nın kötülüğüne karşı bir kanıt ve Karanlıkdiyar kasabası üzerinde güçlü bir kale olacak.NEW_LINENEW_LINEHalkımız için büyük bir şey yaptın, YOUR_NAME. Adın sonsuza dek tarihimizde kalacak.",
+    -- Bride of the Embalmer
+    -- Bride of the Embalmer -> Tahnitçinin Gelini (Bride + of + the + Embalmer).
+    -- Eliza -> Eliza kalmıştır.
+    -- Embalmer's Heart -> Tahnitçinin Kalbi (The Embalmer's Heart).
+    -- Ello Ebonlocke -> Ello Karalüle / Ello Siyahbukle (Ebon + locke).
+    -- Darkshire -> Karanlıkdiyar (İstisnasız lokalizasyon kuralı).
+    -- Mantle of Honor -> Onur Pelerini, Crest of Darkshire -> Karanlıkdiyar Arması.
+    -- Alliance = İttifak.
+    ["253"] = { 
+    ["Title"]="Tahnitçinin Gelini",
+    ["Description"]="Tahnitçi (The Embalmer), çocuklarımıza anlatılan masallardan birinde geçen bir isimdir. Kendisi, karısı Eliza'nın ölümüyle aklını yitirmiş nazik bir simyacıydı. Onu hayata döndürmek için karanlık büyülere başvurdu ve kendi kalbini ölü eşinin göğsüne yerleştirdi.\n\nBu durum Eliza'yı canlandırdı... fakat onu insan etine karşı bir açlıkla lanetledi ve Tahnitçi'yi onu gömülü tutmak zorunda bıraktı.\n\nOnun kalbi, onun gücüdür. Karısının mezarını bul, kalbini geri al ve hâlâ atıyorken bana getir. Bunu yaparsan onun gücü tamamen kırılacaktır.",
+    ["Objectives"]="Eliza'nın mezarını bul. Tahnitçinin Kalbi'ni (The Embalmer's Heart) ondan geri al, ardından Ello Karalüle'ye (Ello Ebonlocke) geri dön.",
+    ["Progress"]="Eliza'nın mezarını henüz bulamadın mı? Tahnitçinin kalbi sende mi?",
+    ["Completion"]="Başardın! Kalbinin içindeki büyü, Tahnitçi'yi kötülüğe karşı koruyacak ve Karanlıkdiyar (Darkshire) kasabası üzerinde güçlü bir kalkan (aegis) görevi görecek.\n\nHalkımız için harika bir şey yaptın, <name>. Adın tarihimizde sonsuza dek yaşayacak.",
     ["minlevel"]="0",
     ["questlevel"]="0",
-    }, -- end Mumyalayıcının Gelini
+    }, -- end Bride of the Embalmer
 
     -- Toprakta Kazı Yapmak
     ["254"] = {
