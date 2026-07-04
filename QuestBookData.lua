@@ -611,5 +611,13 @@ QuestTranslator_BookData = {
     ["Calor's Note"] = {
         ["Title"] = "Calor'un Notu",
         ["Text"] = "Usta Carevin,NEW_LINE Bu notu taşıyan kişi rüştünü ispat etmiştir.NEW_LINE Dolayısıyla bu Işığın Savaşçısı'na yeni görevler vermenizi öneririm; belki de kasaba halkından, Işığın düşmanlarına yardım ve yataklık ettiğinden şüphelenilen bazı kişilerin araştırılması gibi.NEW_LINE Saygılarımla,NEW_LINE Calor"
+    },
+    ["Translated Letter from The Embalmer"] = {
+        ["Title"] = "Tahnitçi'den Çevrilmiş Mektup",
+        ["Text"] = "Selamlar Ello Karalüle, Karanlıkdiyar'ın Belediye Başkanı. Korkarım kasabanız için haberlerim var. Kara haberler.NEW_LINE Görüyorsunuz ya, ben bir YARATICIYIM. Bu notu taşıyan kişiyi kandırarak en son, en dehşet verici yaratımıma yardım etmesini sağladım - etten, kemikten ve bükülmüş metalden bir iblis! Siz bunu okurken, muhtemelen benim mütevazı meskenimin dışında, dişlerini gıcırdatıyor ve ileri atılıp katliam yapmak için benden çıkacak bir kelimeyi bekliyordur.NEW_LINE Ama yakında yeterince öğrenmiş olacaksınız.NEW_LINE -Tahnitçi"
+    },
+    ["Stoutfist's Report"] = {
+        ["Title"] = "Gürbüzyumruk'un Raporu",
+        ["Text"] = "Kaptan Karlısakal'a.NEW_LINE Demirörs ile Menethil Limanı arasındaki ikmal hatları her geçen gün daha da zorlanıyor. Kervanlar Ejderhaağzı Orkları'nın saldırısına uğruyor ve size ulaşmak bile tehlikeli bir zorluk haline geldi.NEW_LINE Topraklarımızı tehdit eden Ejderhaağzı tehdidiyle başa çıkmak için daha fazla yardım gerekiyor ve buna ihtiyaç var. Eğer boşta askeriniz varsa, onları ödünç vermenin tam zamanıdır.NEW_LINE Kaptan Gürbüzyumruk."
     }
 }
