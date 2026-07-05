@@ -44664,14 +44664,18 @@ QuestTranslator_QuestData = {
     }, -- end The Redbrand Lie
 
 -- The Redbrand Lie
-    -- Redbrand Estate -> Kızılmarka Malikanesi, Mystic Ward -> Gizem Bölgesi, yonder -> hemen şurada.
-    -- lens -> mercek, red and sweaty -> kızarmış ve terlemiş, shaking -> titriyor. accursed tablet -> lanetli tablet, lips remain sealed -> dudakların mühürlü kalacak.
-    ["41755"] = {
+    -- The Redbrand Lie -> Kızılmarka Yalanı (Redbrand -> Kızılmarka).
+    -- Curator Thorius -> Küratör Thorius kalmıştır.
+    -- Torwyn Redbrand -> Torwyn Kızılmarka.
+    -- War of the Three Hammers -> Üç Çekiç Savaşı.
+    -- Bronzebeard clan -> Tunçsakal klanı (Bronze + beard).
+    -- Wildhammer clan -> Yabançekici klanı (Wild + hammer).
+    ["41755"] = { 
     ["Title"]="Kızılmarka Yalanı",
-    ["Description"]="YOUR_NAME, merakım beni bunu meslektaşlarımla bizzat paylaşmaya zorlasa da, Kızılmarkaların bu konuyu kendi içlerinde halletmesi en doğrusudur. Al bakalım, tableti tekrar mülkiyetine al ve onu hemen şuradaki Gizem Bölgesi'nde (Mystic Ward) bulunan Kızılmarka Malikanesi'ne (Redbrand Estate) ulaştır. Ailesinin soyunu tamamlamayı hayatının amacı haline getirmişti, cüce tarihinin bu kısmını bilmek bizzat onun yararınadır.",
-    ["Objectives"]="Kızılmarka Tableti'ni (Redbrand Tablet) Demirörs'ün Gizem Bölgesi'ndeki Torwyn Redbrand'e ulaştır.",
-    ["Progress"]="Selamlar, sizi o saygın Kızılmarka Malikanesi'ne (Redbrand Estate) getiren nedir?",
-    ["Completion"]="Kızılmarka'nın geçmişine dair bir tablet mi?! İnanılmaz; çabuk, onu incelememe bizzat izin ver! <Torwyn merceğini (lens) ayarlar ve bakışlarını tabletin taşlı yüzeyinde gezdirmeye başlar. Çözdüğü ve okuduğu her satırla birlikte, eli gözle görülür şekilde titreyene kadar giderek daha fazla kızarır ve terler.> S-Sen…! BUNU NEREDE BULDUN?! Bundan ASLA bahsetmeyeceksin; asla! Bu lanetli tablet (accursed tablet) hakkında hiç kimse bir şey bilmeyecek! Kesinlikle hiç kimse! Al bakalım bunu, dudakların mühürlü kalacak (lips will remain sealed), anlaşıldı mı?! Şimdi defol git!",
+    ["Description"]="İşaretler şüphe götürmez bir şekilde cücelere ait, hatta Üç Çekiç Savaşı'ndan (War of the Three Hammers) önceki zamanları andırıyor! Bana sadece bir dakikanı verirsen, bu tabletin üzerine yazılmış olan mesajı çevirebilirim...\n\n<Küratör Thorius parmaklarını tabletin pürüzlü yüzeyinde gezdirirken kısa bir süre nefesi kesilir; çeviri çalışması sırasında ter dökerken yüzünü büyük bir şaşkınlık kaplar.>\n\nBarbar, bu taş levha üzerine ne yazıldığını kavrayabiliyor musun? Kızılmarka (Redbrand) ailesi, cücelerin hatırlayabildiği kadar uzun zamandır Tunçsakal (Bronzebeard) klanının nüfuzlu bir parçası olmuştur. Fakat az önce edindiğim bilgilere göre... Eğer bu tablete güvenilecek olursa, Kızılmarkaların soyu Yabançekici (Wildhammer) klanının derinliklerine uzanıyor! Bu keşif, tüm geleceklerini değiştirmese bile soylarına dair anlayışı tamamen yerle bir edebilir.",
+    ["Objectives"]="Kızılmarka Tableti'ni (Redbrand Tablet) Demirdöveç'teki (Ironforge) Gizem Bölgesi'nde (Mystic Ward) bulunan Torwyn Kızılmarka'ya (Torwyn Redbrand) ulaştır.[cite: 1, 2]",
+    ["Progress"]="Selamlar, sizi saygın Kızılmarka Malikanesi'ne (Redbrand Estate) getiren nedir?",
+    ["Completion"]="Kızılmarkaların geçmişine dair bir tablet mi?! İnanılmaz; çabuk, onu incelememe izin ver!\n\n<Torwyn merceğini ayarlar ve bakışlarını tabletin taşlı yüzeyinde gezdirmeye başlar. Çözdüğü ve okuduğu her satırla birlikte, eli gözle görülür şekilde titreyene kadar giderek daha fazla kızarır ve terler.>\n\nS-Sen...! BUNU NEREDE BULDUN?! Bundan ASLA bahsetmeyeceksin; asla! Kimse bu lanetli tableti bilmeyecek! Kesinlikle hiç kimse! Al bunu, dudakların mühürlü kalacak, anlaşıldı mı?! Şimdi yıkıl karşımdan!",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end The Redbrand Lie

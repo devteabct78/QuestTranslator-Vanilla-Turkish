@@ -623,5 +623,9 @@ QuestTranslator_BookData = {
     ["Snowbeard's Report"] = {
         ["Title"] = "Karlısakal'ın Raporu",
         ["Text"] = "Kaptan Gürbüzyumruk, yardımcı olamayacağımı söylediğim için üzgünüm. Ejderhaağzı ikimiz için de bir tehdit olsa da, taarruza geçebilmek için dağlarda ciddi şekilde asker sıkıntısı çekiyorum ve bazı dağcılarımı sizin yardımınıza ödünç vermeyi göze alamam.NEW_LINE Bu konuda size en iyisini diliyorum ve Magni'nin sakalı adına Ironforge'un ikimizin de yardımına yetişmesi için dua ediyorum.NEW_LINE Ironforge Ordusu'ndan Kaptan Karlısakal"
+    },
+    ["Deepfury's Orders"] = {
+        ["Title"] = "Derinöfke'nin Emirleri",
+        ["Text"] = "Beceriksiz aptallar!NEW_LINE Planlarım, her iki köprünün de aynı anda havaya uçurulmasını gerektiriyordu. Peki siz dar kafalı haydutlar ne yaptınız? İşin sadece yarısını tamamladınız ve tüm İttifak'ı niyetlerimiz konusunda alarma geçirdiniz. Aptallar diyorum size!NEW_LINE Yaptıklarınızı telafi etmek için tek bir şansınız var. Arathi Yaylaları'nda, köprüden çok da uzak olmayan bir yerde yedek bir patlayıcı zulamız var.NEW_LINE Eğer o değersiz hayatlarınıza değer veriyorsanız işi bitirin!"
     }
 }
