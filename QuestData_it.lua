@@ -4377,16 +4377,22 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end Savaş Afişleri
 
-    -- Nek'rosh'un Gambiti
-    ["465"] = {
-    ["Title"]="Nek'rosh'un Gambiti",
-    ["Description"]="Siz Dragonmaw'larla savaşırken, onların daha fazla planını keşfettik.NEW_LINENEW_LINENek'rosh mancınıklar inşa etti ve Menethil'i kuşatmayı hedefliyor! Ve Dun Algaz'daki savaşla birlikte, takviye kuvvetlerden etkili bir şekilde engellendik!NEW_LINENEW_LINEO mancınıkları yok etmelisin. Dragonmaw kampındalar.NEW_LINENEW_LINEİşte, bu çırayı al. Mancınıklara doğru savaş ve onları çıra ile yak.NEW_LINENEW_LINEVe bunu yaptıktan sonra, Nek'rosh'u bulup öldür. Bu Dragonmaw canavarını boynundan kesmeliyiz.",
-    ["Objectives"]="Dragonmaw mancınıklarını yok et.",
-    ["Progress"]="İlk mancınık önünüzde duruyor. Onu ateşe verecek misin?",
-    ["Completion"]="Mancınığın üzerine biraz çıra koyup kıvılcım çakıyorsun.NEW_LINENEW_LINEAlev patlıyor ve hızla yayılıyor!",
+   -- Nek'rosh's Gambit
+    -- Nek'rosh -> Nek'rosh kalmıştır.
+    -- Dragonmaw -> Ejderhaağzı (Önceki verilere sadık kalınarak lokalize edilmiştir)[cite: 1].
+    -- Menethil -> Menethil kalmıştır.
+    -- Dun Algaz -> Dun Algaz kalmıştır.
+    -- Dwarven Tinder -> Cüce Kavı (Dwarven + Tinder).
+    -- Ironforge = Demirdöveç (ZoneData.lua ve eski girdilere göre)[cite: 1].
+    ["465"] = { 
+    ["Title"]="Nek'rosh'un Kumarı",
+    ["Description"]="Sen Ejderhaağzı (Dragonmaw) klanıyla savaşırken, biz onların planlarından daha fazlasını keşfettil.[cite: 1] Nek'rosh mancınıklar inşa etti ve Menethil'i kuşatmayı amaçlıyor! Üstelik Dun Algaz'daki çatışmalar yüzünden destek kuvvetlerin önü tamamen kesilmiş durumda!\n\nO mancınıkları devre dışı bırakman gerekiyor. Onlar Ejderhaağzı ordugahındalar.\n\nAl, bu kavı yanına al. Mancınıklara doğru yolunu savaşarak aç ve kavı kullanarak onları ateşe ver.\n\nVe bunu yaptıktan sonra, Nek'rosh'u bulup katlet. Bu Ejderhaağzı canavarını... tam boynundan indirmeliyiz.",
+    ["Objectives"]="Ejderhaağzı (Dragonmaw) mancınıklarını yok et.[cite: 1]",
+    ["Progress"]="İlk mancınık önünde duruyor. Onu alevler içinde bırakacak mısın?",
+    ["Completion"]="Kavın bir kısmını mancınığın üzerine yerleştiriyor, ardından üzerine bir kıvılcım çakıyorsun.\n\nAlevler bir anda patlak veriyor ve hızla yayılıyor!",
     ["minlevel"]="0",
     ["questlevel"]="0",
-    }, -- end Nek'rosh'un Gambiti
+    }, -- end Nek'rosh's Gambit
 
     -- Incendicite için arama
     ["466"] = {
@@ -31452,15 +31458,17 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end Mastery of Guns
 
-    -- Gizem Devam Ediyor
-    ["55216"] = {
-    -- Poppy Zabini kalmıştır. Marge Blackwood -> Marge Karaorman (Black + Wood).
-    -- Hawk's Vigil -> Şahin Nöbeti (Hawk + Vigil). Manor -> Malikane.
+    -- The Mystery Continues
+    -- Poppy Zabini -> Poppy Zabini kalmıştır (NPC ismi).
+    -- Marge Blackwood -> Marge Karakoruluk (Önceki görev zinciri referansı).
+    -- Hawk's Vigil -> Şahingözü (Önceki görev zinciri referansı).
+    -- manor -> malikane.
+    ["55216"] = { -- Quest ID varsayılan olarak yerleştirilmiştir.
     ["Title"]="Gizem Devam Ediyor",
-    ["Description"]="Gizem hâlâ ayak uçlarımızda dolansa da araştırmalarım durmaksızın devam ediyor; dostum ve ortağım Poppy Zabini de bölgede bulunan bir büyücüdür. Kendisi de bu mesele üzerine araştırmalar yapıyor, ancak vaktinin benden çok daha işgal edilmiş olduğuna inanıyorum. Lütfen onunla görüşmek üzere yola koyulur musun? Şu anda mavi çatılı malikanenin kuzeyinde, sadece kısa bir yürüyüş mesafesinde bulunuyor.NEW_LINE         NEW_LINE         NEW_LINE                    İlerlemeNEW_LINE            Öğrenilecek çok bilgi var, huzurumu bu yüzden mi aramaya geldin?NEW_LINE         NEW_LINE                    TamamlamaNEW_LINE            Oh, seni Marge Karaorman (Marge Blackwood) mı gönderdi? Şahin Nöbeti'ndeki (Hawk's Vigil) karanlık büyü meselesi mi? Anlıyorum.NEW_LINE         NEW_LINE                    KazançlarNEW_LINE            Görevler tamamlandığında şunları al:NEW_LINE            275 DeneyimNEW_LINEAyrıca bakınız",
+    ["Description"]="Araştırmalarım hız kesmeden devam ediyor fakat gizem hâlâ tam anlamıyla çözülmüş değil; dostum ve meslektaşım Poppy Zabini de bu bölgede görev yapan bir büyücüdür.\n\nKendisi da bu mesele üzerine araştırmalar yürütüyor, ancak onun vaktinin benden çok daha kısıtlı olduğuna inanıyorum.\n\nLütfen onunla görüşmeye gidebilir misin? Şu anda mavi çatılı malikanenin hemen kuzeyinde, kısa bir yürüyüş mesafesinde bulunuyor.",
     ["Objectives"]="Poppy Zabini ile konuş.",
-    ["Progress"]="Öğrenilecek çok bilgi var, huzurumu bu yüzden mi aramaya geldin?",
-    ["Completion"]="Oh, seni Marge Karaorman (Marge Blackwood) mı gönderdi? Şahin Nöbeti'ndeki (Hawk's Vigil) karanlık büyü meselesi mi? Anlıyorum.",
+    ["Progress"]="Öğrenilecek çok bilgi var, huzuruma çıkma sebebin bu mu?",
+    ["Completion"]="Oh, seni Marge Karakoruluk (Marge Blackwood) mu gönderdi? Şahingözü'ndeki (Hawk's Vigil) kara büyü meselesi mi? Anlıyorum.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end The Mystery Continues
@@ -31832,10 +31840,10 @@ QuestTranslator_QuestData = {
     ["41750"] = {
     -- Gowlfang -> Uluyanbıçak / Gowlfang, Bogpaw -> Bataklıkpençesi (Bog + Paw).
     -- Mosshides -> Yosunpostlular (Gnoll kabilesi). Grimbite -> Zalimısırık (Grim + Bite).
-    -- Dragonmaw Retreat -> Ejderhaazmı Sığınağı (Dragon + Maw). The Green Belt -> Yeşil Kuşak, Wetlands -> Sulakalanlar.
+    -- Dragonmaw Retreat -> Ejderhaağzı Sığınağı (Dragon + Maw). The Green Belt -> Yeşil Kuşak, Wetlands -> Sulakalanlar.
     ["Title"]="Gowlfang'ın Mağlubiyeti",
     ["Description"]="<Gnoll kontrolsüz bir öfkeyle salyalar akıtıyor, dişleri çıplak ve burnundan çıkan hava bataklığın nemli havasında açıkça görülüyor.> Hain! Gowlfang büyük hain! Şaman Bataklıkpençesi (Bogpaw) ile gitti. Şimdi biz olmadan Yosunpostluları (the Mosshides) yönetiyor! Gowlfang'a yardım etmiştik, sadıktık. Şimdi burada ölmeyi bekliyoruz, yapayalnız! Hain, güçlü yeşil tenli savaşçılarla gitti. Güneydoğuya, dağların içindeki bir mağaraya girdi, koca bir mağaraya! Zalimısırık (Grimbite) Hain'in kafasını istiyor! Onları, ateş püskürten kertenkelelere hükmeden yeşil savaşçıların evine kadar takip et!",
-    ["Objectives"]="Ejderhaazmı Sığınağı'ndaki (Dragonmaw Retreat) eski liderleri Gowlfang'ı katlederek Yosunpostlu gnolların intikamını al. Sonrasında Sulakalanlar'daki (Wetlands) Yeşil Kuşak'ta (The Green Belt) bulunan kamplarındaki Zalimısırık'a (Grimbite) geri dön.",
+    ["Objectives"]="Ejderhaağzı Sığınağı'ndaki (Dragonmaw Retreat) eski liderleri Gowlfang'ı katlederek Yosunpostlu gnolların intikamını al. Sonrasında Sulakalanlar'daki (Wetlands) Yeşil Kuşak'ta (The Green Belt) bulunan kamplarındaki Zalimısırık'a (Grimbite) geri dön.",
     ["Progress"]="Kafa nerede?! Hain'in kafası?!",
     ["Completion"]="<Gowlfang'ın kafasını Zalimısırık'a uzattığında tepki vermek için çok vaktin olmuyor. Evilleşmemiş bir gazap ve nefretle gnoll, kafayı elinden söküp alıyor, ardından acımasızca ısırarak tanınmaz bir hale getirene kadar parçalıyor. İşi bittiğinde, geriye kalanı yakındaki bataklığa fırlatıyor ve bataklığın zeminine batmasını izliyor. Zalimısırık'ın çenesinden feryat figan bir çığlık yükseliyor, diğer gnollar da ona eşlik ediyor. Uluma bir süre devam ederek tüm Sulakalanlar'da (Wetlands) yankılanıyor.> Gowlfang öldü! Yosunpostlular artık gerçekten özgür! Sen, sonsuza dek Yosunpostluların bir üyesisin. Hain'i öldürdüğün için bunu al.",
     ["minlevel"]="0",
@@ -32420,16 +32428,16 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end Hostile Envoys
 
--- Ejderhaazmı Avı
+-- Ejderhaağzı Avı
     ["55206"] = {
-    -- Dragonmaw -> Ejderhaazmı. Ironforge -> Demirörs. Captain Stoutfist -> Kaptan Gürbüzyumruk (Stout + Fist).
+    -- Dragonmaw -> Ejderhaağzı. Ironforge -> Demirörs. Captain Stoutfist -> Kaptan Gürbüzyumruk (Stout + Fist).
     -- Angerfang Encampment -> Öfkedişi Ordugahı (Anger + Fang).
-    -- Dragonmaw Raiders -> Ejderhaazmı Akıncıları, Dragonmaw Bonewarders -> Ejderhaazmı Kemikkoruyucuları, Dragonmaw Swamprunners -> Ejderhaazmı Bataklıkyürüyenleri.
+    -- Dragonmaw Raiders -> Ejderhaağzı Akıncıları, Dragonmaw Bonewarders -> Ejderhaağzı Kemikkoruyucuları, Dragonmaw Swamprunners -> Ejderhaağzı Bataklıkyürüyenleri.
     -- Blackbloods -> Karakanlar.
-    ["Title"]="Ejderhaazmı Avı",
-    ["Description"]="Görünüşe göre Demirörs'ün (Ironforge) ve hatta yakın müttefiklerimizin yardımına güvenemem. Senden, maceracı, yüksek topraklarda kol gezen ve kervanlarımıza baskın düzenleyen Ejderhaazmı (Dragonmaw) tehdidinin temizlenmesine yardım etmeni istemeliyim. Burada olduğumuzdan beri bir can sıkıntısı oldular ve daha büyük bir yer edinmelerini önlemek için durdurulmaları gerekiyor. Doğudaki Öfkedişi Ordugahı'na (Angerfang Encampment) git ve onları katlet.",
-    ["Objectives"]="10 Ejderhaazmı Akıncısı, 6 Ejderhaazmı Kemikkoruyucusu ve 6 Ejderhaazmı Bataklıkyürüyenleri öldür, ardından Kaptan Gürbüzyumruk'a (Captain Stoutfist) geri dön.",
-    ["Progress"]="Ejderhaazmı, eylemlerinde daha fazla cesaret kazanmamaları için her fırsatta kontrol altında tutulmalıdır.",
+    ["Title"]="Ejderhaağzı Avı",
+    ["Description"]="Görünüşe göre Demirörs'ün (Ironforge) ve hatta yakın müttefiklerimizin yardımına güvenemem. Senden, maceracı, yüksek topraklarda kol gezen ve kervanlarımıza baskın düzenleyen Ejderhaağzı (Dragonmaw) tehdidinin temizlenmesine yardım etmeni istemeliyim. Burada olduğumuzdan beri bir can sıkıntısı oldular ve daha büyük bir yer edinmelerini önlemek için durdurulmaları gerekiyor. Doğudaki Öfkedişi Ordugahı'na (Angerfang Encampment) git ve onları katlet.",
+    ["Objectives"]="10 Ejderhaağzı Akıncısı, 6 Ejderhaağzı Kemikkoruyucusu ve 6 Ejderhaağzı Bataklıkyürüyenleri öldür, ardından Kaptan Gürbüzyumruk'a (Captain Stoutfist) geri dön.",
+    ["Progress"]="Ejderhaağzı, eylemlerinde daha fazla cesaret kazanmamaları için her fırsatta kontrol altında tutulmalıdır.",
     ["Completion"]="Başardın! Tepelerde kol gezen ve vatandaşlarımızı avlayan karakanların (blackbloods) sayısının azaldığını bilerek nihayet bir gece huzur içinde uyuyabilir herhalde. Soylu bir amel gerçekleştirdin, YOUR_NAME.",
     ["minlevel"]="0",
     ["questlevel"]="0",
@@ -37710,13 +37718,13 @@ QuestTranslator_QuestData = {
     -- Kegg Boulderboots -> Kegg Kayabotları kalmıştır.
     -- Sal'Galaz mines / quarry -> Sal'Galaz madenleri / taş ocağı.
     -- Gemstone -> Değerli taş / Mücevher. Troggs -> Trogglar.
-    -- Makers -> Yaratanlar. Dragonmaw -> Ejderhaazı (Dragonmaw Clan).
+    -- Makers -> Yaratanlar. Dragonmaw -> Ejderhaağzı (Dragonmaw Clan).
     -- Bonesplitter Troggs -> Kemikyaran Trogglar, Bonesplitter Bonesnappers -> Kemikyaran Kemikkıranlar.
     ["41855"] = {
     ["Title"]="Sal'Galaz'ı Geri İstemek",
-    ["Description"]="Benim adım Kegg Kayabotları (Kegg Boulderboots) ve tam otuz yıldır Sal'Galaz madenlerinin (Sal'Galaz mines) ustabaşısıyım... Her şey yolunda gidiyordu — gerçekten yolundan da iyiydi. Madenler zengin, demir ve kömürle dolup taşıyor. Ama sonra... sonra o lanetli değerli taşı (gemstone) ortaya çıkardık. Onu topraktan çıkardığımız andan itibaren trogglar (trogglar) bir veba gibi yarıklardan ve tünellerden sürüler halinde çıkmaya başladı. Kısa sürede bizi istila ettiler. Yaratanların (the Makers) inayetiyle madencilerin çoğu kaçmayı başardı ama madenin kendisi — elden gitti! Ve ufuktaki Ejderhaazı (Dragonmaw) tehdidi belirmişken, şehir meclisi onu geri almamıza yardım etmek için tek bir asker bile ayıramıyor. Lütfen, YOUR_RACE, sana yalvarıyorum — bana yardım et. Taş ocağında (quarry) 10 Kemikyaran Trogg (Bonesplitter Troggs) ve 10 Kemikyaran Kemikkıran (Bonesplitter Bonesnappers) katlet. Bizim olanı geri almak için tek şansımız bu!",
+    ["Description"]="Benim adım Kegg Kayabotları (Kegg Boulderboots) ve tam otuz yıldır Sal'Galaz madenlerinin (Sal'Galaz mines) ustabaşısıyım... Her şey yolunda gidiyordu — gerçekten yolundan da iyiydi. Madenler zengin, demir ve kömürle dolup taşıyor. Ama sonra... sonra o lanetli değerli taşı (gemstone) ortaya çıkardık. Onu topraktan çıkardığımız andan itibaren trogglar (trogglar) bir veba gibi yarıklardan ve tünellerden sürüler halinde çıkmaya başladı. Kısa sürede bizi istila ettiler. Yaratanların (the Makers) inayetiyle madencilerin çoğu kaçmayı başardı ama madenin kendisi — elden gitti! Ve ufuktaki Ejderhaağzı (Dragonmaw) tehdidi belirmişken, şehir meclisi onu geri almamıza yardım etmek için tek bir asker bile ayıramıyor. Lütfen, YOUR_RACE, sana yalvarıyorum — bana yardım et. Taş ocağında (quarry) 10 Kemikyaran Trogg (Bonesplitter Troggs) ve 10 Kemikyaran Kemikkıran (Bonesplitter Bonesnappers) katlet. Bizim olanı geri almak için tek şansımız bu!",
     ["Objectives"]="Sal'Galaz Madenleri'ndeki (Sal'Galaz Mines) Ustabaşı Kegg Kayabotları (Foreman Kegg Boulderboots) için 10 Kemikyaran Trogg ve 10 Kemikyaran Kemikkıran katlet.",
-    ["Progress"]="Yargıca karşı hiçbir kin beslemiyorum. Ejderhaazı (Dragonmaw) tehdidinin madenlerden daha önemli olduğunu anlıyorum.",
+    ["Progress"]="Yargıca karşı hiçbir kin beslemiyorum. Ejderhaağzı (Dragonmaw) tehdidinin madenlerden daha önemli olduğunu anlıyorum.",
     ["Completion"]="Yaratanların (the Makers) adına, bu harika bir haber! Taş ocağının tekrar ellerimizde olmasıyla, madenleri geri almaya ve kaybedilenleri restore etmeye bir adım daha yaklaştık!",
     ["minlevel"]="0",
     ["questlevel"]="0",
@@ -38797,13 +38805,13 @@ QuestTranslator_QuestData = {
 
 -- Sark's Grudge
     -- Admiral -> Amiral, Fleet Master Firallon -> Filo Üstadı Firallon kalmıştır[cite: 1].
-    -- Dragonmaw -> Ejderhaazı (Dragonmaw Clan), Wetlands = Sulak Alanlar. Vessels -> Gemiler, orcish battle experience -> ork savaş deneyimi.
+    -- Dragonmaw -> Ejderhaağzı (Dragonmaw Clan), Wetlands = Sulak Alanlar. Vessels -> Gemiler, orcish battle experience -> ork savaş deneyimi.
     -- Insulted -> Aşağılanmış. Favor -> Teveccüh. Ironpatch -> Demiryama kalmıştır[cite: 1].
     -- Wild Shore -> Vahşi Kıyı (Wild + Shore)[cite: 2]. Challenge -> Meydan okumak. Head -> baş / kelle.
     -- Blood and thunder -> Kan ve gök gürültüsü, victory or death -> zafer ya da ölüm. Sark Blacktooth -> Sark Karadiş kalmıştır[cite: 1].
     ["40355"] = {
     ["Title"]="Sark'ın Kini",
-    ["Description"]="Amiral bana Filo Üstadı Firallon'un (Fleet Master Firallon), ork savaş deneyimi (orcish battle experience) yüzünden gemilerimizden birini eğitmesi ve nihayetinde komuta etmesi için Sulak Alanlar'dan (Wetlands) Ejderhaazı (Dragonmaw) bir hiçkimseyi seçtiğini söylüyor[cite: 1]. Bu kadar aşağılandığımdan beri uzun zaman geçmişti! Teveccühümü kazanmak ister misin YOUR_RACE? Bu \"Demiryama\" (Ironpatch), Vahşi Kıyı'daki (Wild Shore) üç gemiden birinde hemen Firallon'un yanındadır[cite: 1, 2]. Ona savaşta meydan oku ve bana kellesini (head) getir! Kan ve gök gürültüsü, zafer ya da ölüm.",
+    ["Description"]="Amiral bana Filo Üstadı Firallon'un (Fleet Master Firallon), ork savaş deneyimi (orcish battle experience) yüzünden gemilerimizden birini eğitmesi ve nihayetinde komuta etmesi için Sulak Alanlar'dan (Wetlands) Ejderhaağzı (Dragonmaw) bir hiçkimseyi seçtiğini söylüyor[cite: 1]. Bu kadar aşağılandığımdan beri uzun zaman geçmişti! Teveccühümü kazanmak ister misin YOUR_RACE? Bu \"Demiryama\" (Ironpatch), Vahşi Kıyı'daki (Wild Shore) üç gemiden birinde hemen Firallon'un yanındadır[cite: 1, 2]. Ona savaşta meydan oku ve bana kellesini (head) getir! Kan ve gök gürültüsü, zafer ya da ölüm.",
     ["Objectives"]="Demiryama'nın Kellesi'ni (Ironpatch's Head) Sark Karadiş'e (Sark Blacktooth) geri getir[cite: 1].",
     ["Progress"]="O aptal öldü mü?",
     ["Completion"]="Bu beni fazlasıyla memnun etti, YOUR_NAME! Saygımı kazanma yolunda ilk adımını attın, teşekkürler.",
@@ -38962,14 +38970,14 @@ QuestTranslator_QuestData = {
 -- Scars of the Past
     -- ID 41793 (Aynı isimli farklı bir görev)
     -- Guilt and mistakes -> Suçluluk ve hatalar. Bygone alliances -> Geçmiş ittifaklar, orc clans -> ork klanları, honor -> onur, future -> gelecek.
-    -- Dragonmaw Clan -> Ejderhaazı Klanı (Dragonmaw Clan). Enslavement -> esaret altına alma, Red Dragonflight -> Kırmızı Ejderha Sürüsü (Red Dragonflight)[cite: 2]. Fanatical veterans -> fanatik gaziler.
+    -- Dragonmaw Clan -> Ejderhaağzı Klanı (Dragonmaw Clan). Enslavement -> esaret altına alma, Red Dragonflight -> Kırmızı Ejderha Sürüsü (Red Dragonflight)[cite: 2]. Fanatical veterans -> fanatik gaziler.
     -- Grim Reaches = Amansız Menziller[cite: 2]. Loch Modan = Loch Modan[cite: 2]. Delusions -> Sanrılar, madmen -> deliler, olden ways -> eski yollar.
     -- Dispatched -> Sevk edilmek / Gönderilmek, unit -> birim / müfreze. Warchief Thrall -> Savaşşefi Thrall kalmıştır.
     -- Farstrider Lodge -> Sinsiadım Kulübesi (Far + Strider + Lodge)[cite: 2]. Southeast -> güneydoğu, lake -> göl. Shatterblade Post -> Parçalanmışbıçak Karargahı (Shatter + Blade + Post)[cite: 2].
     -- Whelp -> Enik / Çömez (Genç ork hitabı). Throm'ka -> Throm'ka (Ork selamı).
     ["41793"] = {
     ["Title"]="Geçmişin Yaraları",
-    ["Description"]="Horde'un geçmişi suçluluk ve hatalarla (guilt and mistakes) doludur. Eski zamanların çeşitli ork klanlarıyla yaptığımız geçmiş ittifaklar onurumuza bir leke sürdü; eğer yeni bir geleceğe (future) adım atmak istiyorsak bu lekeyi kazımamız gerekiyor. Kırmızı Ejderha Sürüsü'nü esaret altına almaktan sorumlu olan fanatik gaziler, Ejderhaazı Klanı (Dragonmaw Clan), Loch Modan'ın doğusundaki kayalık bir yer olan Amansız Menziller'de toplandı[cite: 2]. Sanrıları (delusions) yüzünden eski yollarına deliler (madmen) gibi tutunuyorlar, tüm bunların ahmaklığını göremiyorlar. Savaşşefi Thrall'ın (Warchief Thrall) emriyle Loch Modan üzerinden, gölün güneydoğusundaki Sinsiadım Kulübesi tünelini geçerek Amansız Menziller'e bir müfreze sevk ettik[cite: 2]. Onları takip etmeni ve Parçalanmışbıçak Karargahı'nda onlara katılmanı istiyorum[cite: 2]. Elinden gelen her yerde onlara yardım ettiğinden emin ol. Horde'a onur getir, enik (whelp)!",
+    ["Description"]="Horde'un geçmişi suçluluk ve hatalarla (guilt and mistakes) doludur. Eski zamanların çeşitli ork klanlarıyla yaptığımız geçmiş ittifaklar onurumuza bir leke sürdü; eğer yeni bir geleceğe (future) adım atmak istiyorsak bu lekeyi kazımamız gerekiyor. Kırmızı Ejderha Sürüsü'nü esaret altına almaktan sorumlu olan fanatik gaziler, Ejderhaağzı Klanı (Dragonmaw Clan), Loch Modan'ın doğusundaki kayalık bir yer olan Amansız Menziller'de toplandı[cite: 2]. Sanrıları (delusions) yüzünden eski yollarına deliler (madmen) gibi tutunuyorlar, tüm bunların ahmaklığını göremiyorlar. Savaşşefi Thrall'ın (Warchief Thrall) emriyle Loch Modan üzerinden, gölün güneydoğusundaki Sinsiadım Kulübesi tünelini geçerek Amansız Menziller'e bir müfreze sevk ettik[cite: 2]. Onları takip etmeni ve Parçalanmışbıçak Karargahı'nda onlara katılmanı istiyorum[cite: 2]. Elinden gelen her yerde onlara yardım ettiğinden emin ol. Horde'a onur getir, enik (whelp)!",
     ["Objectives"]="Amansız Menziller'deki Parçalanmışbıçak Karargahı'na seyahat et ve komutanlarıyla konuş[cite: 2].",
     ["Progress"]="",
     ["Completion"]="Throm'ka, küçük dostum. Parçalanmışbıçak Karargahı'na hoş geldin[cite: 2].",
@@ -38979,13 +38987,13 @@ QuestTranslator_QuestData = {
 
 -- Scavenging the Wrecks
     -- Components -> bileşenler, complicated parts -> karmaşık parçalar. Steam tanks -> buharlı tanklar, war -> savaş.
-    -- Dwarves of Dun Kithas -> Dun Kithas cüceleri. Dragonmaw -> Ejderhaazı. Idle -> atıl / boşta, rotting away -> çürüyüp gitmek.
+    -- Dwarves of Dun Kithas -> Dun Kithas cüceleri. Dragonmaw -> Ejderhaağzı. Idle -> atıl / boşta, rotting away -> çürüyüp gitmek.
     -- Countryside -> kırsal alan, engineering -> mühendislik. Intricate parts -> girift parçalar / karmaşık parçalar, wrecks -> enkazlar.
     -- Harlekk kalmıştır[cite: 1], Shatterblade Post -> Parçalanmışbıçak Karargahı[cite: 2], Grim Reaches = Amansız Menziller[cite: 2].
     -- Craftsmanship -> işçilik, goblin or gnomish hands -> goblin ya da gnom elleri. Basecamp -> ana kamp, stone age -> taş devri. Items -> eşyalar.
     ["41726"] = {
     ["Title"]="Enkazlardan Parça Toplamak",
-    ["Description"]="Artık bazı bileşenleri kurtardığıma göre, gözümü daha karmaşık parçalara (complicated parts) dikmek istiyorum. Bir süre önce Dun Kithas cüceleri (dwarves of Dun Kithas) ile Ejderhaazı (Dragonmaw) arasındaki savaş sırasında birçok buharlı tank (steam tanks) imha edilmişti. Bu bir zamanların muazzam makineleri, batı ve güneybatıdaki kırsal alanda (countryside) çürüyüp giderek atıl vaziyette duruyor. Bu kadar karmaşık bir mühendisliği (engineering) burada arazide kopyalamam mümkün değil. Bölgedeki enkazların (wrecks) etrafından bana bu karmaşık parçalardan altı tane bul, karşılığında cömertçe ödüllendirileceğinden emin olacağım.",
+    ["Description"]="Artık bazı bileşenleri kurtardığıma göre, gözümü daha karmaşık parçalara (complicated parts) dikmek istiyorum. Bir süre önce Dun Kithas cüceleri (dwarves of Dun Kithas) ile Ejderhaağzı (Dragonmaw) arasındaki savaş sırasında birçok buharlı tank (steam tanks) imha edilmişti. Bu bir zamanların muazzam makineleri, batı ve güneybatıdaki kırsal alanda (countryside) çürüyüp giderek atıl vaziyette duruyor. Bu kadar karmaşık bir mühendisliği (engineering) burada arazide kopyalamam mümkün değil. Bölgedeki enkazların (wrecks) etrafından bana bu karmaşık parçalardan altı tane bul, karşılığında cömertçe ödüllendirileceğinden emin olacağım.",
     ["Objectives"]="Amansız Menziller'deki Parçalanmışbıçak Karargahı'nda bulunan Harlekk için bölgedeki buharlı tankların enkazlarından 6 Karmaşık Parça (Intricate Parts) topla[cite: 1, 2].",
     ["Progress"]="Enkazları bulabildin mi?",
     ["Completion"]="Ne kadar güzel bir işçilik (craftsmanship); bu mühendisliğe goblin ya da gnom ellerinin (goblin or gnomish hands) değdiğini anlayabilirsin. Bu parçalarla Parçalanmışbıçak Karargahı'ndaki çalışmalarımızı daha da ileriye taşıyabileceğim[cite: 2]. Çalışman için seni takdir etmeliyim. Kurtardığın bileşenler ve parçalar olmasaydı bu ana kamp (basecamp) taş devrinde (stone age) kalırdı. Bu eşyalardan (items) birini al, umarım işine yaradığını görürsün.",
@@ -39290,13 +39298,13 @@ QuestTranslator_QuestData = {
 
 -- Sark's Grudge
     -- Admiral -> Amiral, Fleet Master Firallon -> Filo Üstadı Firallon kalmıştır[cite: 1].
-    -- Dragonmaw -> Ejderhaazı (Dragonmaw Clan), Wetlands = Sulak Alanlar. Vessels -> Gemiler, orcish battle experience -> ork savaş deneyimi.
+    -- Dragonmaw -> Ejderhaağzı (Dragonmaw Clan), Wetlands = Sulak Alanlar. Vessels -> Gemiler, orcish battle experience -> ork savaş deneyimi.
     -- Insulted -> Aşağılanmış. Favor -> Teveccüh. Ironpatch -> Demiryama kalmıştır[cite: 1].
     -- Wild Shore -> Vahşi Kıyı (Wild + Shore)[cite: 2]. Challenge -> Meydan okumak. Head -> baş / kelle.
     -- Blood and thunder -> Kan ve gök gürültüsü, victory or death -> zafer ya da ölüm. Sark Blacktooth -> Sark Karadiş kalmıştır[cite: 1].
     ["40355"] = {
     ["Title"]="Sark'ın Kini",
-    ["Description"]="Amiral bana Filo Üstadı Firallon'un (Fleet Master Firallon), ork savaş deneyimi (orcish battle experience) yüzünden gemilerimizden birini eğitmesi ve nihayetinde komuta etmesi için Sulak Alanlar'dan (Wetlands) Ejderhaazı (Dragonmaw) bir hiçkimseyi seçtiğini söylüyor[cite: 1]. Bu kadar aşağılandığımdan beri uzun zaman geçmişti! Teveccühümü kazanmak ister misin YOUR_RACE? Bu \"Demiryama\" (Ironpatch), Vahşi Kıyı'daki (Wild Shore) üç gemiden birinde hemen Firallon'un yanındadır[cite: 1, 2]. Ona savaşta meydan oku ve bana kellesini (head) getir! Kan ve gök gürültüsü, zafer ya da ölüm.",
+    ["Description"]="Amiral bana Filo Üstadı Firallon'un (Fleet Master Firallon), ork savaş deneyimi (orcish battle experience) yüzünden gemilerimizden birini eğitmesi ve nihayetinde komuta etmesi için Sulak Alanlar'dan (Wetlands) Ejderhaağzı (Dragonmaw) bir hiçkimseyi seçtiğini söylüyor[cite: 1]. Bu kadar aşağılandığımdan beri uzun zaman geçmişti! Teveccühümü kazanmak ister misin YOUR_RACE? Bu \"Demiryama\" (Ironpatch), Vahşi Kıyı'daki (Wild Shore) üç gemiden birinde hemen Firallon'un yanındadır[cite: 1, 2]. Ona savaşta meydan oku ve bana kellesini (head) getir! Kan ve gök gürültüsü, zafer ya da ölüm.",
     ["Objectives"]="Demiryama'nın Kellesi'ni (Ironpatch's Head) Sark Karadiş'e (Sark Blacktooth) geri getir[cite: 1].",
     ["Progress"]="O aptal öldü mü?",
     ["Completion"]="Bu beni fazlasıyla memnun etti, YOUR_NAME! Saygımı kazanma yolunda ilk adımını attın, teşekkürler.",
@@ -39455,14 +39463,14 @@ QuestTranslator_QuestData = {
 -- Scars of the Past
     -- ID 41793 (Aynı isimli farklı bir görev)
     -- Guilt and mistakes -> Suçluluk ve hatalar. Bygone alliances -> Geçmiş ittifaklar, orc clans -> ork klanları, honor -> onur, future -> gelecek.
-    -- Dragonmaw Clan -> Ejderhaazı Klanı (Dragonmaw Clan). Enslavement -> esaret altına alma, Red Dragonflight -> Kırmızı Ejderha Sürüsü (Red Dragonflight)[cite: 2]. Fanatical veterans -> fanatik gaziler.
+    -- Dragonmaw Clan -> Ejderhaağzı Klanı (Dragonmaw Clan). Enslavement -> esaret altına alma, Red Dragonflight -> Kırmızı Ejderha Sürüsü (Red Dragonflight)[cite: 2]. Fanatical veterans -> fanatik gaziler.
     -- Grim Reaches = Amansız Menziller[cite: 2]. Loch Modan = Loch Modan[cite: 2]. Delusions -> Sanrılar, madmen -> deliler, olden ways -> eski yollar.
     -- Dispatched -> Sevk edilmek / Gönderilmek, unit -> birim / müfreze. Warchief Thrall -> Savaşşefi Thrall kalmıştır.
     -- Farstrider Lodge -> Sinsiadım Kulübesi (Far + Strider + Lodge)[cite: 2]. Southeast -> güneydoğu, lake -> göl. Shatterblade Post -> Parçalanmışbıçak Karargahı (Shatter + Blade + Post)[cite: 2].
     -- Whelp -> Enik / Çömez (Genç ork hitabı). Throm'ka -> Throm'ka (Ork selamı).
     ["41793"] = {
     ["Title"]="Geçmişin Yaraları",
-    ["Description"]="Horde'un geçmişi suçluluk ve hatalarla (guilt and mistakes) doludur. Eski zamanların çeşitli ork klanlarıyla yaptığımız geçmiş ittifaklar onurumuza bir leke sürdü; eğer yeni bir geleceğe (future) adım atmak istiyorsak bu lekeyi kazımamız gerekiyor. Kırmızı Ejderha Sürüsü'nü esaret altına almaktan sorumlu olan fanatik gaziler, Ejderhaazı Klanı (Dragonmaw Clan), Loch Modan'ın doğusundaki kayalık bir yer olan Amansız Menziller'de toplandı[cite: 2]. Sanrıları (delusions) yüzünden eski yollarına deliler (madmen) gibi tutunuyorlar, tüm bunların ahmaklığını göremiyorlar. Savaşşefi Thrall'ın (Warchief Thrall) emriyle Loch Modan üzerinden, gölün güneydoğusundaki Sinsiadım Kulübesi tünelini geçerek Amansız Menziller'e bir müfreze sevk ettik[cite: 2]. Onları takip etmeni ve Parçalanmışbıçak Karargahı'nda onlara katılmanı istiyorum[cite: 2]. Elinden gelen her yerde onlara yardım ettiğinden emin ol. Horde'a onur getir, enik (whelp)!",
+    ["Description"]="Horde'un geçmişi suçluluk ve hatalarla (guilt and mistakes) doludur. Eski zamanların çeşitli ork klanlarıyla yaptığımız geçmiş ittifaklar onurumuza bir leke sürdü; eğer yeni bir geleceğe (future) adım atmak istiyorsak bu lekeyi kazımamız gerekiyor. Kırmızı Ejderha Sürüsü'nü esaret altına almaktan sorumlu olan fanatik gaziler, Ejderhaağzı Klanı (Dragonmaw Clan), Loch Modan'ın doğusundaki kayalık bir yer olan Amansız Menziller'de toplandı[cite: 2]. Sanrıları (delusions) yüzünden eski yollarına deliler (madmen) gibi tutunuyorlar, tüm bunların ahmaklığını göremiyorlar. Savaşşefi Thrall'ın (Warchief Thrall) emriyle Loch Modan üzerinden, gölün güneydoğusundaki Sinsiadım Kulübesi tünelini geçerek Amansız Menziller'e bir müfreze sevk ettik[cite: 2]. Onları takip etmeni ve Parçalanmışbıçak Karargahı'nda onlara katılmanı istiyorum[cite: 2]. Elinden gelen her yerde onlara yardım ettiğinden emin ol. Horde'a onur getir, enik (whelp)!",
     ["Objectives"]="Amansız Menziller'deki Parçalanmışbıçak Karargahı'na seyahat et ve komutanlarıyla konuş[cite: 2].",
     ["Progress"]="",
     ["Completion"]="Throm'ka, küçük dostum. Parçalanmışbıçak Karargahı'na hoş geldin[cite: 2].",
@@ -39472,13 +39480,13 @@ QuestTranslator_QuestData = {
 
 -- Scavenging the Wrecks
     -- Components -> bileşenler, complicated parts -> karmaşık parçalar. Steam tanks -> buharlı tanklar, war -> savaş.
-    -- Dwarves of Dun Kithas -> Dun Kithas cüceleri. Dragonmaw -> Ejderhaazı. Idle -> atıl / boşta, rotting away -> çürüyüp gitmek.
+    -- Dwarves of Dun Kithas -> Dun Kithas cüceleri. Dragonmaw -> Ejderhaağzı. Idle -> atıl / boşta, rotting away -> çürüyüp gitmek.
     -- Countryside -> kırsal alan, engineering -> mühendislik. Intricate parts -> girift parçalar / karmaşık parçalar, wrecks -> enkazlar.
     -- Harlekk kalmıştır[cite: 1], Shatterblade Post -> Parçalanmışbıçak Karargahı[cite: 2], Grim Reaches = Amansız Menziller[cite: 2].
     -- Craftsmanship -> işçilik, goblin or gnomish hands -> goblin ya da gnom elleri. Basecamp -> ana kamp, stone age -> taş devri. Items -> eşyalar.
     ["41726"] = {
     ["Title"]="Enkazlardan Parça Toplamak",
-    ["Description"]="Artık bazı bileşenleri kurtardığıma göre, gözümü daha karmaşık parçalara (complicated parts) dikmek istiyorum. Bir süre önce Dun Kithas cüceleri (dwarves of Dun Kithas) ile Ejderhaazı (Dragonmaw) arasındaki savaş sırasında birçok buharlı tank (steam tanks) imha edilmişti. Bu bir zamanların muazzam makineleri, batı ve güneybatıdaki kırsal alanda (countryside) çürüyüp giderek atıl vaziyette duruyor. Bu kadar karmaşık bir mühendisliği (engineering) burada arazide kopyalamam mümkün değil. Bölgedeki enkazların (wrecks) etrafından bana bu karmaşık parçalardan altı tane bul, karşılığında cömertçe ödüllendirileceğinden emin olacağım.",
+    ["Description"]="Artık bazı bileşenleri kurtardığıma göre, gözümü daha karmaşık parçalara (complicated parts) dikmek istiyorum. Bir süre önce Dun Kithas cüceleri (dwarves of Dun Kithas) ile Ejderhaağzı (Dragonmaw) arasındaki savaş sırasında birçok buharlı tank (steam tanks) imha edilmişti. Bu bir zamanların muazzam makineleri, batı ve güneybatıdaki kırsal alanda (countryside) çürüyüp giderek atıl vaziyette duruyor. Bu kadar karmaşık bir mühendisliği (engineering) burada arazide kopyalamam mümkün değil. Bölgedeki enkazların (wrecks) etrafından bana bu karmaşık parçalardan altı tane bul, karşılığında cömertçe ödüllendirileceğinden emin olacağım.",
     ["Objectives"]="Amansız Menziller'deki Parçalanmışbıçak Karargahı'nda bulunan Harlekk için bölgedeki buharlı tankların enkazlarından 6 Karmaşık Parça (Intricate Parts) topla[cite: 1, 2].",
     ["Progress"]="Enkazları bulabildin mi?",
     ["Completion"]="Ne kadar güzel bir işçilik (craftsmanship); bu mühendisliğe goblin ya da gnom ellerinin (goblin or gnomish hands) değdiğini anlayabilirsin. Bu parçalarla Parçalanmışbıçak Karargahı'ndaki çalışmalarımızı daha da ileriye taşıyabileceğim[cite: 2]. Çalışman için seni takdir etmeliyim. Kurtardığın bileşenler ve parçalar olmasaydı bu ana kamp (basecamp) taş devrinde (stone age) kalırdı. Bu eşyalardan (items) birini al, umarım işine yaradığını görürsün.",
@@ -40894,24 +40902,24 @@ QuestTranslator_QuestData = {
 -- Stolgaz Documents
     -- Stolgaz Keep -> Stolgaz Kalesi (Stolgaz Keep)[cite: 2], Grim Reaches = Amansız Menziller[cite: 2]. Power -> güç, documents -> belgeler. Crate -> kasa, reward -> ödüllendirmek.
     -- Stolgaz Documents -> Stolgaz Belgeleri, Advisor Ranagg -> Danışman Ranagg kalmıştır[cite: 1], Shatterblade Post -> Parçalanmışbıçak Karargahı[cite: 2].
-    -- Tamper -> kurcalanmak, Dragonmaw hands -> Ejderhaazı elleri. Research -> araştırma.
+    -- Tamper -> kurcalanmak, Dragonmaw hands -> Ejderhaağzı elleri. Research -> araştırma.
     ["41720"] = {
     ["Title"]="Stolgaz Belgeleri",
     ["Description"]="Stolgaz Kalesi'ne (Stolgaz Keep) göğüs germeye niyetli olduğunu duydum; eğer öyleyse, dikkat gerektiren bir görevim var[cite: 2]. Bir süre önce, Stolgaz Kalesi, Amansız Menziller'in (Grim Reaches) kalbiydi[cite: 2]. Güç yansıtıyordu ve birçok önemli belgeyi (documents) barındırıyordu. İhtiyacım olan tam da bu belgelerdir ve aralarında yararlı bir şeyler bulabileceğimden eminim. Kuzeybatıdaki Stolgaz Kalesi'ne seyahat et ve bu belgelerin olduğu bir kasa (crate) bul[cite: 2]. Onları bana getir, ben de seni ödüllendireceğim.",
     ["Objectives"]="Danışman Ranagg için Stolgaz Kalesi'nden Stolgaz Belgeleri'ni (Stolgaz Documents) geri al ve Amansız Menziller'deki Parçalanmışbıçak Karargahı'na ulaştır[cite: 1, 2].",
     ["Progress"]="Belgeleri geri aldın mı?",
-    ["Completion"]="İyi iş çıkardın, bunlar Ejderhaazı (Dragonmaw) elleri tarafından kurcalanmamış... Şimdi git, çünkü yapacak araştırmalarım (research) var.",
+    ["Completion"]="İyi iş çıkardın, bunlar Ejderhaağzı (Dragonmaw) elleri tarafından kurcalanmamış... Şimdi git, çünkü yapacak araştırmalarım (research) var.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Stolgaz Documents
 
 -- Stone Golem Salvage
-    -- gold and riches -> altın ve zenginlikler, revenue -> gelir, contractors -> müteahhitler / aracılar, legal -> yasal. Southeast -> güneydoğu, great falls -> büyük şelaleler, Loch Modan = Loch Modan[cite: 2], mining facility -> madencilik tesisi. Dragonmaw Retreat -> Ejderhaazı İnzivası (Dragonmaw + Retreat)[cite: 2], golems -> golemler, protocols -> protokoller. Runestone -> rün taşı, powered -> güç almak.
+    -- gold and riches -> altın ve zenginlikler, revenue -> gelir, contractors -> müteahhitler / aracılar, legal -> yasal. Southeast -> güneydoğu, great falls -> büyük şelaleler, Loch Modan = Loch Modan[cite: 2], mining facility -> madencilik tesisi. Dragonmaw Retreat -> Ejderhaağzı İnzivası (Dragonmaw + Retreat)[cite: 2], golems -> golemler, protocols -> protokoller. Runestone -> rün taşı, powered -> güç almak.
     -- Crumbling Stone Golem -> Parçalanan Taş Golem. Kixxle -> Kixxle kalmıştır[cite: 1], mainroad -> ana yol, Wetlands = Sulak Alanlar (Wetlands)[cite: 2]. Adventurer -> maceracı. Pretty sum of gold -> güzel bir altın meblağı, Shadowfo-... -> Gölgede-... (Shadowforge kastediliyor). Reward -> ödül, coin -> para.
     ["41749"] = {
     ["Title"]="Taş Golem Hurdası",
-    ["Description"]="Seninle bir dakika ayırabilir miyim? Harekete geçmeye hazır, maceranın heyecanını, altının ve zenginliklerin (gold and riches) kokusunu arayan çetin bir tipe benziyorsun. Mevcut durumda, tam da aradığım insan tipisin. Görüyorsun ya, kendine saygısı olan her goblinin olası gelir söz konusu olduğunda birçok bağlantısı vardır; bazıları diğerlerinden daha yasal (legal) olan. Müteahhitlerimin çoğu ikinci türdendir ve belirli bir grup, her gün elinize geçmeyecek bir şeyle ilgileniyor. Güneydoğuda, Loch Modan'dan gelen büyük şelalelerin hemen gerisinde eski bir madencilik tesisi (mining facility) var; bugünlerde oraya Ejderhaazı İnzivası (Dragonmaw Retreat) diyorlar[cite: 2]. İçeride, dengesiz salonlarda dolaştığı söylenen, hala eski protokollere sıkışıp kalmış eşit derecede kadim golemler (golems) var. Eğer güç aldıkları bir rün taşını (runestone) bana getirebilirsen, onun için sana adil bir fiyat ayarlarım!",
-    ["Objectives"]="Ejderhaazı İnzivası içindeki bir Parçalanan Taş Golem'in (Crumbling Stone Golem) rün taşını elde et ve onu Sulak Alanlar'daki ana yolda bulunan Kixxle'a getir[cite: 1, 2].",
+    ["Description"]="Seninle bir dakika ayırabilir miyim? Harekete geçmeye hazır, maceranın heyecanını, altının ve zenginliklerin (gold and riches) kokusunu arayan çetin bir tipe benziyorsun. Mevcut durumda, tam da aradığım insan tipisin. Görüyorsun ya, kendine saygısı olan her goblinin olası gelir söz konusu olduğunda birçok bağlantısı vardır; bazıları diğerlerinden daha yasal (legal) olan. Müteahhitlerimin çoğu ikinci türdendir ve belirli bir grup, her gün elinize geçmeyecek bir şeyle ilgileniyor. Güneydoğuda, Loch Modan'dan gelen büyük şelalelerin hemen gerisinde eski bir madencilik tesisi (mining facility) var; bugünlerde oraya Ejderhaağzı İnzivası (Dragonmaw Retreat) diyorlar[cite: 2]. İçeride, dengesiz salonlarda dolaştığı söylenen, hala eski protokollere sıkışıp kalmış eşit derecede kadim golemler (golems) var. Eğer güç aldıkları bir rün taşını (runestone) bana getirebilirsen, onun için sana adil bir fiyat ayarlarım!",
+    ["Objectives"]="Ejderhaağzı İnzivası içindeki bir Parçalanan Taş Golem'in (Crumbling Stone Golem) rün taşını elde et ve onu Sulak Alanlar'daki ana yolda bulunan Kixxle'a getir[cite: 1, 2].",
     ["Progress"]="Beni merakta bırakma, ortak. Bu lanet taşı alması için görevlendirdiğim beşinci maceracısın (adventurer).",
     ["Completion"]="İşte bundan bahsediyorum! Bu güzellik, şu Gölgede-... Oh, hala buradasın. Doğru! Ödülün (reward). Al, bunu ve üzerine biraz da para (coin) al, bu goblinin gününü gerçekten gün ettin!",
     ["minlevel"]="0",
@@ -41944,11 +41952,11 @@ QuestTranslator_QuestData = {
 
 -- The Betrayal of Rethkag
     -- Betrayal of Rethkag -> Rethkag'ın İhaneti (Betrayal + of + Rethkag).
-    -- Warlock -> kara büyücü (warlock), Shatterblade Post -> Parçalanmışbıçak Karargahı, honor, loyalty -> onur, sadakat. Dragonmaw clan -> Ejderhaazı klanı (Dragonmaw clan).
+    -- Warlock -> kara büyücü (warlock), Shatterblade Post -> Parçalanmışbıçak Karargahı, honor, loyalty -> onur, sadakat. Dragonmaw clan -> Ejderhaağzı klanı (Dragonmaw clan).
     -- Rethkag Mirefang -> Rethkag Çamurdiş kalmıştır, spineless creature -> omurgasız / korkak bir yaratık. Family heirloom -> aile yadigarı, peace -> huzur, worm -> solucan, dear friend -> yakın dost, months -> aylar. Actions -> eylemler, wound -> yara, suffered -> çektiğim / aldığım, blood -> kan. Tower in Geth'kar -> Geth'kar'daki kulesi, northwest -> kuzeybatı. Gar'gekk -> Gar'gekk kalmıştır, Grim Reaches = Amansız Menziller (Grim Reaches). Traitor -> hain, oaths -> yeminler, core -> öz / ilik. Horde -> Horde.
     ["41724"] = {
     ["Title"]="Rethkag'ın İhaneti",
-    ["Description"]="Bir zamanlar burada, Parçalanmışbıçak Karargahı'nda (Shatterblade Post) onurdan, sadakatten bahseden bir kara büyücümüz (warlock) vardı. Gerçekte ise sadakati Ejderhaazı klanının (the Dragonmaw clan) yanındaydı. Bu ork, Rethkag Mirefang adıyla biliniyor; gerçekten aşağılık ve omurgasız bir yaratık (spineless creature). Bir aile yadigarı bulmasında ona yardım etmiş, huzuru bulmasını sağlamıştım. Hatta bu solucanı (worm) aylarca yakın bir dost (dear friend) olarak gördüm. Onun eylemleri (actions), aldığım herhangi bir yaradan çok daha fazla canımı yaktı ve şimdi onun kanını talep ediyorum. Onu buranın hemen kuzeybatısındaki Geth'kar'da bulunan kulesinden bölgeyi seyrederken bulabilirsin. Onu öldür ve bana geri dön.",
+    ["Description"]="Bir zamanlar burada, Parçalanmışbıçak Karargahı'nda (Shatterblade Post) onurdan, sadakatten bahseden bir kara büyücümüz (warlock) vardı. Gerçekte ise sadakati Ejderhaağzı klanının (the Dragonmaw clan) yanındaydı. Bu ork, Rethkag Mirefang adıyla biliniyor; gerçekten aşağılık ve omurgasız bir yaratık (spineless creature). Bir aile yadigarı bulmasında ona yardım etmiş, huzuru bulmasını sağlamıştım. Hatta bu solucanı (worm) aylarca yakın bir dost (dear friend) olarak gördüm. Onun eylemleri (actions), aldığım herhangi bir yaradan çok daha fazla canımı yaktı ve şimdi onun kanını talep ediyorum. Onu buranın hemen kuzeybatısındaki Geth'kar'da bulunan kulesinden bölgeyi seyrederken bulabilirsin. Onu öldür ve bana geri dön.",
     ["Objectives"]="Amansız Menziller'deki Parçalanmışbıçak Karargahı'nda bulunan Gar'gekk için Geth'kar'da Rethkag Mirefang'ı katlet.",
     ["Progress"]="Haini (traitor) buldun mu?",
     ["Completion"]="Memnun oldum. Birinin güç (power) uğruna yeminlerine (oaths), arkadaşlarına ve sadakatine ihanet edeceğini düşünmek beni iliğime kadar tiksindiriyor. Böyle aşağılık bir haini kökünden kazıyarak Horde'a büyük bir hizmette bulundun. Bunu al, davanıza daha da fazla yardımcı olsun.",
@@ -42336,12 +42344,12 @@ QuestTranslator_QuestData = {
     }, -- end The Doorman of Karazhan
 
 -- The Dragonmaw Brood
-    -- Dragonmaw Brood -> Ejderhaazı Soyu (Dragonmaw + Brood). Mortal -> ölümlü, submission -> boyun eğme / kölelik, flight -> sürü (dragonflight). Horrors of the past -> geçmişin dehşetleri, Dragon Queen -> Ejderha Kraliçesi (Alexstrasza). Red Dragonflight -> Kırmızı Ejderha Sürüsü, everlasting vigil -> sonsuz nöbet, safekeeping -> koruma, Grim Batol = Grim Batol. Brother -> kardeş, Searistrasz -> Searistrasz kalmıştır, brood -> soyu. Painful cries -> acı dolu çığlıklar, ancient dwarven mines -> kadim cüce madenleri, south -> güney, Dragonmaw -> Ejderhaazı (orcs). Dragonmaw Retreat -> Ejderhaazı İnzivası, children -> çocuklar, sin -> günah.
-    -- Nydiszanz -> Nydiszanz kalmıştır, Dragonmaw Gates -> Ejderhaazı Kapıları, Wetlands = Sulak Alanlar (Wetlands), capture -> tutsaklık, Dragonmaw orcs -> Ejderhaazı orkları. Demon Soul -> İblis Ruhu (Demon Soul). Cycle of life and death -> yaşam ve ölüm döngüsü, maintained -> sürdürülmek, tainted life -> lekelenmiş yaşam, bloom -> çiçek açmak / yeşermek. Torment -> ıstırap, tragedy -> trajedi.
+    -- Dragonmaw Brood -> Ejderhaağzı Soyu (Dragonmaw + Brood). Mortal -> ölümlü, submission -> boyun eğme / kölelik, flight -> sürü (dragonflight). Horrors of the past -> geçmişin dehşetleri, Dragon Queen -> Ejderha Kraliçesi (Alexstrasza). Red Dragonflight -> Kırmızı Ejderha Sürüsü, everlasting vigil -> sonsuz nöbet, safekeeping -> koruma, Grim Batol = Grim Batol. Brother -> kardeş, Searistrasz -> Searistrasz kalmıştır, brood -> soyu. Painful cries -> acı dolu çığlıklar, ancient dwarven mines -> kadim cüce madenleri, south -> güney, Dragonmaw -> Ejderhaağzı (orcs). Dragonmaw Retreat -> Ejderhaağzı İnzivası, children -> çocuklar, sin -> günah.
+    -- Nydiszanz -> Nydiszanz kalmıştır, Dragonmaw Gates -> Ejderhaağzı Kapıları, Wetlands = Sulak Alanlar (Wetlands), capture -> tutsaklık, Dragonmaw orcs -> Ejderhaağzı orkları. Demon Soul -> İblis Ruhu (Demon Soul). Cycle of life and death -> yaşam ve ölüm döngüsü, maintained -> sürdürülmek, tainted life -> lekelenmiş yaşam, bloom -> çiçek açmak / yeşermek. Torment -> ıstırap, tragedy -> trajedi.
     ["41751"] = {
-    ["Title"]="Ejderhaazı Soyu",
-    ["Description"]="Ölümlü (mortal), boyun eğme (submission) belası sürümün (flight) üzerine bir kez daha çöktü. Geçmişin dehşetleri (horrors of the past), Ejderha Kraliçesi'nin (Dragon Queen) asil sürüsünü bir kez daha gölgeledi. Ork Ejderhaazı Klanı (Dragonmaw Clan), türüme yönelik o iğrenç boyun eğdirme eylemlerini sürdürüyor ve onları bizzat kendi emirlerini yerine getirmeye zorluyor. Kırmızı Ejderha Sürüsü (Red Dragonflight) Grim Batol'u korumanın sonsuz nöbetiyle meşgulken, düşmüş kardeşim Searistrasz'ı ve soyunu (brood) serbest bırakmak bana düşüyor. Onun acı dolu çığlıklarının (painful cries) güneydeki kadim cüce madenlerinin (ancient dwarven mines) içinden yankılandığını duyabiliyorum; Ejderhaazı'nın şimdi hak iddia ettiği o madenlerden. Ölümlü, Ejderhaazı İnzivası'na (Dragonmaw Retreat) atıl ve kardeşimi ve çocuklarını üzerlerine yüklenen bu günahtan (sin) muaf kıl.",
-    ["Objectives"]="Sulak Alanlar'daki Ejderhaazı Kapıları'nda bulunan Nydiszanz, kardeşi Searistrasz'ın Ejderhaazı İnzivası'ndaki Ejderhaazı orkları tarafından tutsaklıktan (capture) kurtarılmasını istiyor.",
+    ["Title"]="Ejderhaağzı Soyu",
+    ["Description"]="Hey ölümlü, boyun eğme belası sürümün üzerine bir kez daha çöktü. Geçmişin dehşetleri , Ejderha Kraliçesi'nin asil sürüsünü bir kez daha gölgeledi. Ork Ejderhaağzı Klanı (Dragonmaw Clan), türüme yönelik o iğrenç boyun eğdirme eylemlerini sürdürüyor ve onları bizzat kendi emirlerini yerine getirmeye zorluyor. Kırmızı Ejderha Sürüsü (Red Dragonflight) Grim Batol'u korumanın sonsuz nöbetiyle meşgulken, düşmüş kardeşim Searistrasz'ı ve soyunu serbest bırakmak bana düşüyor. Onun acı dolu çığlıklarının güneydeki kadim cüce madenlerinin içinden yankılandığını duyabiliyorum; Ejderhaağzı'nın şimdi hak iddia ettiği o madenlerden. Ölümlü, Ejderhaağzı İnzivası'na (Dragonmaw Retreat) atıl ve kardeşimi ve çocuklarını üzerlerine yüklenen bu günahtan muaf kıl.",
+    ["Objectives"]="Sulak Alanlar'daki Ejderhaağzı Kapıları'nda bulunan Nydiszanz, kardeşi Searistrasz'ın Ejderhaağzı İnzivası'ndaki Ejderhaağzı orkları tarafından tutsaklıktan kurtarılmasını istiyor.",
     ["Progress"]="Yıllar sonra bile, İblis Ruhu'nun (Demon Soul) uğursuz gölgesi sürümüzün peşini bırakmıyor.",
     ["Completion"]="Tamamlandı. Yaşam ve ölüm, sürdürülmesi gereken bir döngüdür (cycle of life and death) ve lekelenmiş yaşama (tainted life) bir kez daha yeşerme şansı verilmelidir. Kalbimdeki acı sızlamaya devam edecek, yine de Searistrasz'ın artık ıstırap (torment) içinde olmadığından emin olabilirim. Huzur içinde git ölümlü, yolculukların trajediden (tragedy) uzak olsun.",
     ["minlevel"]="0",
@@ -42349,13 +42357,13 @@ QuestTranslator_QuestData = {
     }, -- end The Dragonmaw Brood
 
 -- The Dragonmaw Conflict
-    -- Second War -> İkinci Savaş (Second War), Kul Tiras = Kul Tiras, Orgrim Doomhammer -> Orgrim Kıyamettokmağı, ramshackle fleet -> derme çatma filo. Eluded our grasp -> elimizden kaçtı. Craven orcs -> korkak orklar, Dragonmaw Clan -> Ejderhaazı Klanı, winged slave-beasts -> kanatlı köle canavarlar, flight -> uçuş / kaçış, dark corners of the world -> dünyanın karanlık köşeleri. Vengeance -> intikam, noble comrades -> asil yoldaşlarımız, agonizing deaths at sea -> denizde acı verici ölümler. Father -> baba, forgotten -> unutulmuş.
+    -- Second War -> İkinci Savaş (Second War), Kul Tiras = Kul Tiras, Orgrim Doomhammer -> Orgrim Kıyamettokmağı, ramshackle fleet -> derme çatma filo. Eluded our grasp -> elimizden kaçtı. Craven orcs -> korkak orklar, Dragonmaw Clan -> Ejderhaağzı Klanı, winged slave-beasts -> kanatlı köle canavarlar, flight -> uçuş / kaçış, dark corners of the world -> dünyanın karanlık köşeleri. Vengeance -> intikam, noble comrades -> asil yoldaşlarımız, agonizing deaths at sea -> denizde acı verici ölümler. Father -> baba, forgotten -> unutulmuş.
     -- Wetlands = Sulak Alanlar, animals -> hayvanlar, hide holes -> saklanma delikleri, heads -> kafalar / kelleler. Friend of Kul Tiras -> Kul Tiras'ın dostu.
-    -- Dragonmaw Heads -> Ejderhaazı Kelleleri, Dragonmaw Orcs -> Ejderhaazı Orkları. Lieutenant Alverold -> Teğmen Alverold kalmıştır, Anchor's Edge -> Çapa Kenarı kalmıştır, Barrens = Çorak Topraklar (The Barrens). Stakes -> kazıklar, watched the life burn out of them -> hayatın içlerinden yanıp çıkışını izlemek. Burning -> yanış şekli, dead -> ölüler. Lord Daelin -> Lord Daelin kalmıştır, murderers -> katiller, accursed nations -> lanetli uluslar.
+    -- Dragonmaw Heads -> Ejderhaağzı Kelleleri, Dragonmaw Orcs -> Ejderhaağzı Orkları. Lieutenant Alverold -> Teğmen Alverold kalmıştır, Anchor's Edge -> Çapa Kenarı kalmıştır, Barrens = Çorak Topraklar (The Barrens). Stakes -> kazıklar, watched the life burn out of them -> hayatın içlerinden yanıp çıkışını izlemek. Burning -> yanış şekli, dead -> ölüler. Lord Daelin -> Lord Daelin kalmıştır, murderers -> katiller, accursed nations -> lanetli uluslar.
     ["40793"] = {
-    ["Title"]="Ejderhaazı Çatışması",
-    ["Description"]="İkinci Savaş (Second War) sırasında Kul Tiras, Orgrim Doomhammer'ın derme çatma filosuna gururla son vermişti. Ancak diğerleri elimizden kaçtı: Kanatlı köle canavarlarının (winged slave-beasts) sırtında bize anlatılmamış yıkımlar getiren Ejderhaazı Klanı'nın (Dragonmaw Clan) korkak orkları, dünyanın karanlık köşelerine doğru kaçtılar. Tüm Kul Tiras onlara karşı intikam (vengeance) arzusuyla yanıp tutuşuyor, çünkü onların ateşi yüzünden pek çok asil yoldaşımız denizde acı verici ölümlerle yüzleşti. Aynı kader bizzat babama da sunuldu ve ben bunu unutmadım...\n\nSulak Alanlar'da (the Wetlands), bu Ejderhaazı hayvanları nihayet saklanma deliklerinden dışarı fırlama cüretini gösterdiler. Bu hataları yüzünden onların kellelerini alacağım. Bunu yap, Kul Tiras'ın bir dostu (friend of Kul Tiras) olduğunu kanıtlayacaksın.",
-    ["Objectives"]="Teğmen Alverold'a ulaştırmak üzere Sulak Alanlar'daki Ejderhaazı Orklarından 20 Ejderhaazı Kellesi (Dragonmaw Heads) topla.",
+    ["Title"]="Ejderhaağzı Çatışması",
+    ["Description"]="İkinci Savaş (Second War) sırasında Kul Tiras, Orgrim Doomhammer'ın derme çatma filosuna gururla son vermişti. Ancak diğerleri elimizden kaçtı: Kanatlı köle canavarlarının (winged slave-beasts) sırtında bize anlatılmamış yıkımlar getiren Ejderhaağzı Klanı'nın (Dragonmaw Clan) korkak orkları, dünyanın karanlık köşelerine doğru kaçtılar. Tüm Kul Tiras onlara karşı intikam (vengeance) arzusuyla yanıp tutuşuyor, çünkü onların ateşi yüzünden pek çok asil yoldaşımız denizde acı verici ölümlerle yüzleşti. Aynı kader bizzat babama da sunuldu ve ben bunu unutmadım...\n\nSulak Alanlar'da (the Wetlands), bu Ejderhaağzı hayvanları nihayet saklanma deliklerinden dışarı fırlama cüretini gösterdiler. Bu hataları yüzünden onların kellelerini alacağım. Bunu yap, Kul Tiras'ın bir dostu (friend of Kul Tiras) olduğunu kanıtlayacaksın.",
+    ["Objectives"]="Teğmen Alverold'a ulaştırmak üzere Sulak Alanlar'daki Ejderhaağzı Orklarından 20 Ejderhaağzı Kellesi (Dragonmaw Heads) topla.",
     ["Progress"]="Eğer elimde olsaydı, tüm ırklarını kazıklara (stakes) çakar ve hayatın bizzat içlerinden yanıp çıkışını izlerdim. Halkımın yandığı şekilde. Babamın öldüğü şekilde.",
     ["Completion"]="Onurlu ölülerimizin (honored dead) ruhları senin adını şarkılarla anıyor, YOUR_CLASS. Ama benim için huzur olmayacak, ta ki Lord Daelin'in tüm katilleri (murderer) ölene ve lanetli ulusları (accursed nations) onlarla birlikte yok olana kadar.",
     ["minlevel"]="0",
@@ -42363,10 +42371,10 @@ QuestTranslator_QuestData = {
     }, -- end The Dragonmaw Conflict
 
 -- The Dragonmaw Orders
-    -- Detailed -> detaylandırılmış, plans -> planlar, assaults -> saldırılar, Dun Kithas = Dun Kithas. Shatterblade Post -> Parçalanmışbıçak Karargahı. Coordinated -> koordine edilmiş, Geshgan Blackhollow -> Geshgan Karatukuk kalmıştır, Dragonmaw captains -> Ejderhaazı kaptanları. Information -> bilgiler, Commander Aggnash -> Komutan Aggnash kalmıştır, course of action -> hamle / hareket tarzı. Dragonmaw Orders -> Ejderhaazı Emirleri.
+    -- Detailed -> detaylandırılmış, plans -> planlar, assaults -> saldırılar, Dun Kithas = Dun Kithas. Shatterblade Post -> Parçalanmışbıçak Karargahı. Coordinated -> koordine edilmiş, Geshgan Blackhollow -> Geshgan Karatukuk kalmıştır, Dragonmaw captains -> Ejderhaağzı kaptanları. Information -> bilgiler, Commander Aggnash -> Komutan Aggnash kalmıştır, course of action -> hamle / hareket tarzı. Dragonmaw Orders -> Ejderhaağzı Emirleri.
     ["41718"] = {
-    ["Title"]="Ejderhaazı Emirleri",
-    ["Description"]="Bu planlarda Dun Kithas'a yönelik daha fazla saldırı detaylandırılmış (detailed) ancak daha da önemlisi Parçalanmışbıçak Karargahı'na (Shatterblade Post) yönelik olanlar. Bu planlar Ejderhaazı kaptanlarından (Dragonmaw captains) biri olan Geshgan Blackhollow tarafından koordine ediliyor gibi görünüyor. Bu bilgileri Komutan Aggnash'a ulaştır, bir sonraki hareket tarzımıza (course of action) kendisi karar verecektir.",
+    ["Title"]="Ejderhaağzı Emirleri",
+    ["Description"]="Bu planlarda Dun Kithas'a yönelik daha fazla saldırı detaylandırılmış (detailed) ancak daha da önemlisi Parçalanmışbıçak Karargahı'na (Shatterblade Post) yönelik olanlar. Bu planlar Ejderhaağzı kaptanlarından (Dragonmaw captains) biri olan Geshgan Blackhollow tarafından koordine ediliyor gibi görünüyor. Bu bilgileri Komutan Aggnash'a ulaştır, bir sonraki hareket tarzımıza (course of action) kendisi karar verecektir.",
     ["Objectives"]="Emirleri (the orders) Parçalanmışbıçak Karargahı'ndaki Komutan Aggnash'a ulaştır.",
     ["Progress"]="Evet?",
     ["Completion"]="Demek bizi hedef almayı planlıyorlar.",
@@ -42375,11 +42383,11 @@ QuestTranslator_QuestData = {
     }, -- end The Dragonmaw Orders
 
 -- The Dragonmaw Threat
-    -- Greatest threat -> en büyük tehdit, Dragonmaw Clan -> Ejderhaazı Klanı. Numbers are vast -> sayıları çok fazla, strength -> güç. Attacked -> saldırdılar, laid ruin -> yerle bir ettiler, Baggoth's Rampart -> Baggoth İstihkamı (Baggoth + Rampart). Key defensive structures -> kilit savunma yapıları, dwarves of Dun Kithas -> Dun Kithas cüceleri. Victory -> zafer, bold -> cüretkar. Discover future plans -> gelecek planlarını keşfetmek, southwest -> güneybatı, Dragonmaw Orders -> Ejderhaazı Emirleri, attackers -> saldıranlar. Recover -> geri aldığında, Advisor Ranagg -> Danışman Ranagg kalmıştır, Shatterblade Post -> Parçalanmışbıçak Karargahı, Grim Reaches = Amansız Menziller. Security is in jeopardy -> güvenliğimiz tehlikede, snatches -> kapar, read -> okur. Invasions -> istilalar, region -> bölge.
+    -- Greatest threat -> en büyük tehdit, Dragonmaw Clan -> Ejderhaağzı Klanı. Numbers are vast -> sayıları çok fazla, strength -> güç. Attacked -> saldırdılar, laid ruin -> yerle bir ettiler, Baggoth's Rampart -> Baggoth İstihkamı (Baggoth + Rampart). Key defensive structures -> kilit savunma yapıları, dwarves of Dun Kithas -> Dun Kithas cüceleri. Victory -> zafer, bold -> cüretkar. Discover future plans -> gelecek planlarını keşfetmek, southwest -> güneybatı, Dragonmaw Orders -> Ejderhaağzı Emirleri, attackers -> saldıranlar. Recover -> geri aldığında, Advisor Ranagg -> Danışman Ranagg kalmıştır, Shatterblade Post -> Parçalanmışbıçak Karargahı, Grim Reaches = Amansız Menziller. Security is in jeopardy -> güvenliğimiz tehlikede, snatches -> kapar, read -> okur. Invasions -> istilalar, region -> bölge.
     ["41717"] = {
-    ["Title"]="Ejderhaazı Tehdidi",
-    ["Description"]="En büyük tehdidimiz (greatest threat) Ejderhaazı Klanı'dır (Dragonmaw Clan). Sayıları çok fazla ve güçleri her an kendini gösteriyor. Daha yeni saldırdılar ve Dun Kithas cüceleri için kilit savunma yapılarından (key defensive structures) biri olan Baggoth İstihkamı'nı (Baggoth's Rampart) yerle bir ettiler. Bu zaferle birlikte eylemlerinde daha da cüretkar (bold) olacaklarından korkuyorum. Gelecek planlarını keşfetmeliyiz. Güneybatıdaki Baggoth İstihkamı'na gitmeni ve saldıranlardan Ejderhaazı Emirleri'ni (Dragonmaw Orders) bulmanı istiyorum. Birinde kesinlikle olduğundan eminim. Emirleri geri aldığında bana geri dön.",
-    ["Objectives"]="Baggoth İstihkamı'ndaki orklardan birinden Ejderhaazı Emirleri'ni (Dragonmaw Orders) geri al ve Amansız Menziller'deki Parçalanmışbıçak Karargahı'nda bulunan Danışman Ranagg'a ulaştır.",
+    ["Title"]="Ejderhaağzı Tehdidi",
+    ["Description"]="En büyük tehdidimiz (greatest threat) Ejderhaağzı Klanı'dır (Dragonmaw Clan). Sayıları çok fazla ve güçleri her an kendini gösteriyor. Daha yeni saldırdılar ve Dun Kithas cüceleri için kilit savunma yapılarından (key defensive structures) biri olan Baggoth İstihkamı'nı (Baggoth's Rampart) yerle bir ettiler. Bu zaferle birlikte eylemlerinde daha da cüretkar (bold) olacaklarından korkuyorum. Gelecek planlarını keşfetmeliyiz. Güneybatıdaki Baggoth İstihkamı'na gitmeni ve saldıranlardan Ejderhaağzı Emirleri'ni (Dragonmaw Orders) bulmanı istiyorum. Birinde kesinlikle olduğundan eminim. Emirleri geri aldığında bana geri dön.",
+    ["Objectives"]="Baggoth İstihkamı'ndaki orklardan birinden Ejderhaağzı Emirleri'ni (Dragonmaw Orders) geri al ve Amansız Menziller'deki Parçalanmışbıçak Karargahı'nda bulunan Danışman Ranagg'a ulaştır.",
     ["Progress"]="Boşa harcadığın her dakika güvenliğimiz tehlikede (security is in jeopardy).",
     ["Completion"]="Onları geri mi aldın? <Danışman Ranagg emirleri ellerinizden kapar (snatches) ve hızla okumaya başlar.> Bu emirler bölgede daha fazla istila (invasions) planı barındırıyor gibi görünüyor.",
     ["minlevel"]="0",
@@ -42388,36 +42396,36 @@ QuestTranslator_QuestData = {
 
 -- The Dragonmaw War
     -- ID 41862 (Dun Kithas Giriş)
-    -- Dun Kithas = Dun Kithas, history and pride -> tarihi ve gururu, stories -> hikayeler. Grim situation -> kasvetli durum, Dragonmaw clan -> Ejderhaazı klanı, knee-deep in a conflict -> bir çatışmanın diz boyu içindeyiz, losing -> kaybediyoruz. Arrival -> gelişin, Alliance forces -> Alliance kuvvetleri, sliver of hope -> bir umut kırıntısı, sun rise over these mountains -> bu dağların üzerinde güneşin doğuşu. Most trusted commander -> en güvendiğim komutan, Mountaineer Steelwind -> Dağcı Çelik rüzgar kalmıştır, East Ridge Outpost -> Doğu Sırtı Karargahı (East + Ridge + Outpost), Baggoth's Wall -> Baggoth Duvarı (Baggoth's Wall). Capable hand -> yetenekli el, report in -> rapor ver. Reinforcements -> takviye kuvvetler, sorry state -> üzücü durum. Grumbling -> homurdanma, dwarf -> cüce, battles -> savaşlar, warriors -> savaşçılar. Dirt -> toprak / çamur.
+    -- Dun Kithas = Dun Kithas, history and pride -> tarihi ve gururu, stories -> hikayeler. Grim situation -> kasvetli durum, Dragonmaw clan -> Ejderhaağzı klanı, knee-deep in a conflict -> bir çatışmanın diz boyu içindeyiz, losing -> kaybediyoruz. Arrival -> gelişin, Alliance forces -> Alliance kuvvetleri, sliver of hope -> bir umut kırıntısı, sun rise over these mountains -> bu dağların üzerinde güneşin doğuşu. Most trusted commander -> en güvendiğim komutan, Mountaineer Steelwind -> Dağcı Çelik rüzgar kalmıştır, East Ridge Outpost -> Doğu Sırtı Karargahı (East + Ridge + Outpost), Baggoth's Wall -> Baggoth Duvarı (Baggoth's Wall). Capable hand -> yetenekli el, report in -> rapor ver. Reinforcements -> takviye kuvvetler, sorry state -> üzücü durum. Grumbling -> homurdanma, dwarf -> cüce, battles -> savaşlar, warriors -> savaşçılar. Dirt -> toprak / çamur.
     ["41862"] = {
-    ["Title"]="Ejderhaazı Savaşı",
-    ["Description"]="Dun Kithas'a (Dun Kithas) hoş geldin, dostum. Kasabamızın tarihi ve gururundan memnuniyetle bahsederdim ama şimdi hikayelerin (stories) sırası değil. Muhtemelen fark ettiğin üzere, kasvetli bir durumun içindeyiz. Ejderhaazı klanı (Dragonmaw clan) yeniden yükseldi ve biz giderek kaybettiğimiz bir çatışmanın diz boyu içindeyiz. Senin gelişin, buraya kadar gelebilen az sayıdaki Alliance kuvvetleriyle (Alliance forces) birlikte bana bir umut kırıntısı (sliver of hope) veriyor. Belki de bu dağların üzerinde güneşin yeniden doğduğunu görmek için hala bir şans vardır. En güvendiğim komutanım Dağcı Steelwind (Mountaineer Steelwind), Baggoth Duvarı'nın (Baggoth's Wall) kuzeyindeki Doğu Sırtı Karargahı'nda (East Ridge Outpost) pozisyonunu koruyor. Ejderhaazı'na karşı yürütülen çabalara liderlik ediyor ve esirgeyebileceğimiz her yetenekli ele ihtiyacı olabilir. Derhal oraya git ve rapor ver.",
+    ["Title"]="Ejderhaağzı Savaşı",
+    ["Description"]="Dun Kithas'a (Dun Kithas) hoş geldin, dostum. Kasabamızın tarihi ve gururundan memnuniyetle bahsederdim ama şimdi hikayelerin (stories) sırası değil. Muhtemelen fark ettiğin üzere, kasvetli bir durumun içindeyiz. Ejderhaağzı klanı (Dragonmaw clan) yeniden yükseldi ve biz giderek kaybettiğimiz bir çatışmanın diz boyu içindeyiz. Senin gelişin, buraya kadar gelebilen az sayıdaki Alliance kuvvetleriyle (Alliance forces) birlikte bana bir umut kırıntısı (sliver of hope) veriyor. Belki de bu dağların üzerinde güneşin yeniden doğduğunu görmek için hala bir şans vardır. En güvendiğim komutanım Dağcı Steelwind (Mountaineer Steelwind), Baggoth Duvarı'nın (Baggoth's Wall) kuzeyindeki Doğu Sırtı Karargahı'nda (East Ridge Outpost) pozisyonunu koruyor. Ejderhaağzı'na karşı yürütülen çabalara liderlik ediyor ve esirgeyebileceğimiz her yetenekli ele ihtiyacı olabilir. Derhal oraya git ve rapor ver.",
     ["Objectives"]="Doğu Sırtı Karargahı'ndaki Dağcı Steelwind'e (Mountaineer Steelwind) rapor ver.",
     ["Progress"]="Aye?",
-    ["Completion"]="Başka bir Alliance maceracısı (adventurer) demek, ha? Demirörs'ün bizi tamamen terk etmediğini bilmek güzel — yine de işler bu üzücü duruma (sorry state) gelmeden önce takviye kuvvetleri (reinforcements) tercih ederdim. Ah, homurdanmamı (grumbling) kafaya takma. Ben sadece arkasında çok fazla savaş (battles) ve yanında yeterince savaşçı bulunmayan yaşlı bir cüceyim. Yapacak işlerimiz ve toprağa (dirt) geri gönderilecek Ejderhaazı'mız var. Zaman kaybetmeyelim.",
+    ["Completion"]="Başka bir Alliance maceracısı (adventurer) demek, ha? Demirörs'ün bizi tamamen terk etmediğini bilmek güzel — yine de işler bu üzücü duruma (sorry state) gelmeden önce takviye kuvvetleri (reinforcements) tercih ederdim. Ah, homurdanmamı (grumbling) kafaya takma. Ben sadece arkasında çok fazla savaş (battles) ve yanında yeterince savaşçı bulunmayan yaşlı bir cüceyim. Yapacak işlerimiz ve toprağa (dirt) geri gönderilecek Ejderhaağzı'mız var. Zaman kaybetmeyelim.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end The Dragonmaw War
 
 -- The Dragonmaw War
     -- ID 41863 (Kill & Sigils)
-    -- Roads, fortresses, caves, hills -> yollar, kaleler, mağaralar, tepeler. Caravan -> kervan, mountaineers -> dağcılar, destination -> varış noktası. Strike -> vurmak. Disgrace to Baggoth's memory -> Baggoth'ın anısına bir utanç, stain on my own honor -> bizzat kendi onuruma bir leke. Endured -> katlandık, tolerate this humiliation -> bu aşağılanmaya müsamaha göstermek. Strike back -> geri vurmak, ambush -> pusuya düşürmek, mountains -> dağlar. Slay -> katlet, sigils -> mühürler / nişanlar, Wildhammer -> Vahşitokmak cücesi. Dragonmaw Orcs -> Ejderhaazı Orkları, Grim Reaches = Amansız Menziller, Mountaineer Steelwind -> Dağcı Steelwind kalmıştır, Dragonmaw Sigils -> Ejderhaazı Mühürleri. Sizeable patrol -> büyükçe bir devriye, Stolgaz Keep -> Stolgaz Kalesi. Ugly faces -> çirkin yüzleri, dead in the dirt -> toprakta ölü yatıyor, Wildhammer Clan -> Vahşitokmak Klanı, breathing room -> nefes alma alanı / rahat bir nefes.
+    -- Roads, fortresses, caves, hills -> yollar, kaleler, mağaralar, tepeler. Caravan -> kervan, mountaineers -> dağcılar, destination -> varış noktası. Strike -> vurmak. Disgrace to Baggoth's memory -> Baggoth'ın anısına bir utanç, stain on my own honor -> bizzat kendi onuruma bir leke. Endured -> katlandık, tolerate this humiliation -> bu aşağılanmaya müsamaha göstermek. Strike back -> geri vurmak, ambush -> pusuya düşürmek, mountains -> dağlar. Slay -> katlet, sigils -> mühürler / nişanlar, Wildhammer -> Vahşitokmak cücesi. Dragonmaw Orcs -> Ejderhaağzı Orkları, Grim Reaches = Amansız Menziller, Mountaineer Steelwind -> Dağcı Steelwind kalmıştır, Dragonmaw Sigils -> Ejderhaağzı Mühürleri. Sizeable patrol -> büyükçe bir devriye, Stolgaz Keep -> Stolgaz Kalesi. Ugly faces -> çirkin yüzleri, dead in the dirt -> toprakta ölü yatıyor, Wildhammer Clan -> Vahşitokmak Klanı, breathing room -> nefes alma alanı / rahat bir nefes.
     ["41863"] = {
-    ["Title"]="Ejderhaazı Savaşı",
-    ["Description"]="Her yerdeler. Yollarda, eski kalelerimizde (fortresses), mağaralarda (caves) ve tepelerin dört bir yanına dağılmış durumdalar. Her kervanın (caravan) sadece varış noktasına ulaşabilmesi için bile bir düzine dağcıya ihtiyacı oluyor — ve o zaman bile, Ejderhaazı çoğunlukla vuruyor (strike). Bu, Baggoth'un anısına bir utanç (disgrace)... ve bizzat kendi onuruma bir lekedir. Yeterince katlandık (endured). Ejderhaazı'nın, Amansız Menziller'in cücelerinin bu aşağılanmaya (humiliation) daha fazla müsamaha göstermeyeceğini öğrenme zamanı geldi. Geri vuruyoruz (strike back). Onları pusuya düşürüyoruz. Bu dağlara gerçekten kimin hükmettiğini onlara gösteriyoruz. Katledebildiğin kadarını katlet ve kanıt olarak bana mühürlerinden (sigils) yirmi tane getir. Bir Vahşitokmak (Wildhammer) ile takışmanın ne anlama geldiğini bilsinler.",
-    ["Objectives"]="Amansız Menziller'deki Ejderhaazı Orklarını katlet ve zaferlerinin bir kanıtı olarak Dağcı Steelwind'e 20 Ejderhaazı Mühürü (Dragonmaw Sigils) ulaştır.",
+    ["Title"]="Ejderhaağzı Savaşı",
+    ["Description"]="Her yerdeler. Yollarda, eski kalelerimizde (fortresses), mağaralarda (caves) ve tepelerin dört bir yanına dağılmış durumdalar. Her kervanın (caravan) sadece varış noktasına ulaşabilmesi için bile bir düzine dağcıya ihtiyacı oluyor — ve o zaman bile, Ejderhaağzı çoğunlukla vuruyor (strike). Bu, Baggoth'un anısına bir utanç (disgrace)... ve bizzat kendi onuruma bir lekedir. Yeterince katlandık (endured). Ejderhaağzı'nın, Amansız Menziller'in cücelerinin bu aşağılanmaya (humiliation) daha fazla müsamaha göstermeyeceğini öğrenme zamanı geldi. Geri vuruyoruz (strike back). Onları pusuya düşürüyoruz. Bu dağlara gerçekten kimin hükmettiğini onlara gösteriyoruz. Katledebildiğin kadarını katlet ve kanıt olarak bana mühürlerinden (sigils) yirmi tane getir. Bir Vahşitokmak (Wildhammer) ile takışmanın ne anlama geldiğini bilsinler.",
+    ["Objectives"]="Amansız Menziller'deki Ejderhaağzı Orklarını katlet ve zaferlerinin bir kanıtı olarak Dağcı Steelwind'e 20 Ejderhaağzı Mühürü (Dragonmaw Sigils) ulaştır.",
     ["Progress"]="Stolgaz Kalesi'nden (Stolgaz Keep) geriye kalanları araştırması için büyükçe bir devriye (sizeable patrol) gönderdim... ama o zamandan beri tek bir kelime bile duymadım.",
-    ["Completion"]="Ha! Bu, çirkin yüzlerini (ugly faces) bir daha göstermeden önce iki kez düşünmelerini sağlayacaktır. Toprakta ölü yatan (dead in the dirt) bu kadar çok Ejderhaazı, onlara Vahşitokmak Klanı'ndan (Wildhammer Clan) korkmaları gerektiğini hatırlatmalıdır. Sayıları seyreldiğinde, Dun Kithas'tan gelen kervanlarımız nihayet rahat bir nefes (breathing room) alabilir. İyi iş.",
+    ["Completion"]="Ha! Bu, çirkin yüzlerini (ugly faces) bir daha göstermeden önce iki kez düşünmelerini sağlayacaktır. Toprakta ölü yatan (dead in the dirt) bu kadar çok Ejderhaağzı, onlara Vahşitokmak Klanı'ndan (Wildhammer Clan) korkmaları gerektiğini hatırlatmalıdır. Sayıları seyreldiğinde, Dun Kithas'tan gelen kervanlarımız nihayet rahat bir nefes (breathing room) alabilir. İyi iş.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end The Dragonmaw War
 
 -- The Dragonmaw War
     -- ID 41864 (Banner of Baggoth)
-    -- Abide -> katlanmak, banner -> sancak / bayrak, dwarven hero -> cüce kahraman. Overran -> istila ettiklerinde, Baggoth Rampart -> Baggoth İstihkamı, retreat -> geri çekilmek, standard -> sancak, Commander Baggoth -> Komutan Baggoth, central tower -> merkezi kule. Piece of cloth -> kumaş parçası, twelve battles -> bir düzine savaş, pride -> gurur, dwarf -> cüce, orcish hands -> ork elleri, insult -> hakaret. Climb -> tırman, Dragonmaw scum -> Ejderhaazı pislikleri, retrieve -> geri al, one piece -> tek parça halinde. Reaches -> Menziller (Grim Reaches). Banner of Baggoth -> Baggoth'un Sancağı.
+    -- Abide -> katlanmak, banner -> sancak / bayrak, dwarven hero -> cüce kahraman. Overran -> istila ettiklerinde, Baggoth Rampart -> Baggoth İstihkamı, retreat -> geri çekilmek, standard -> sancak, Commander Baggoth -> Komutan Baggoth, central tower -> merkezi kule. Piece of cloth -> kumaş parçası, twelve battles -> bir düzine savaş, pride -> gurur, dwarf -> cüce, orcish hands -> ork elleri, insult -> hakaret. Climb -> tırman, Dragonmaw scum -> Ejderhaağzı pislikleri, retrieve -> geri al, one piece -> tek parça halinde. Reaches -> Menziller (Grim Reaches). Banner of Baggoth -> Baggoth'un Sancağı.
     ["41864"] = {
-    ["Title"]="Ejderhaazı Savaşı",
-    ["Description"]="Katlanamadığım (cannot abide) bir şey var — gerçek bir cüce kahramanın sancağını geride bırakmak. Ejderhaazı, Baggoth İstihkamı'nı (Baggoth Rampart) istila ettiğinde, itiraf etmek isteyeceğimden çok daha hızlı geri çekilmek zorunda kaldık. Kaosun içinde sancağımız — bizzat Komutan Baggoth'un (Commander Baggoth) şahsi sancağı — merkezi kulenin (central tower) tepesinde geride kaldı. Bu bir kumaş parçasından (piece of cloth) çok daha fazlasıdır. O sancak bir düzine savaşta (twelve battles) ayakta durdu ve altında hizmet eden her cücenin gururunu taşıyor. Onun ork ellerinde (orcish hands) kalmasına izin vermek, midemizin kaldıramayacağı bir hakarettir (insult). İstihkama tırman, Ejderhaazı pisliklerinin (Dragonmaw scum) arasından savaşarak yolunu aç ve o sancağı geri al. Onu tek parça halinde (one piece) geri getir. Baggoth için. Menziller (the Reaches) için.",
+    ["Title"]="Ejderhaağzı Savaşı",
+    ["Description"]="Katlanamadığım (cannot abide) bir şey var — gerçek bir cüce kahramanın sancağını geride bırakmak. Ejderhaağzı, Baggoth İstihkamı'nı (Baggoth Rampart) istila ettiğinde, itiraf etmek isteyeceğimden çok daha hızlı geri çekilmek zorunda kaldık. Kaosun içinde sancağımız — bizzat Komutan Baggoth'un (Commander Baggoth) şahsi sancağı — merkezi kulenin (central tower) tepesinde geride kaldı. Bu bir kumaş parçasından (piece of cloth) çok daha fazlasıdır. O sancak bir düzine savaşta (twelve battles) ayakta durdu ve altında hizmet eden her cücenin gururunu taşıyor. Onun ork ellerinde (orcish hands) kalmasına izin vermek, midemizin kaldıramayacağı bir hakarettir (insult). İstihkama tırman, Ejderhaağzı pisliklerinin (Dragonmaw scum) arasından savaşarak yolunu aç ve o sancağı geri al. Onu tek parça halinde (one piece) geri getir. Baggoth için. Menziller (the Reaches) için.",
     ["Objectives"]="Baggoth İstihkamı'nın tepesinden Baggoth'un Sancağı'nı (Banner of Baggoth) geri al ve onu Dağcı Steelwind'e ulaştır.",
     ["Progress"]="O sancak ait olduğu yere geri dönene kadar rahat uyuyamayacağım.",
     ["Completion"]="Bizi gururlandırdın, evlat. Bu sancağı yeniden görmek... evet, yüreği kıpırdatıyor. Ork duvarlarımızı kirletti ama ruhumuzu (spirit) ele geçiremedi. Bunun Dun Kithas'ın üzerinde bir kez daha dalgalanmasıyla, halkımız kim olduğumuzu — ve ne için savaştığımızı — hatırlayacaktır. Harika iş.",
@@ -42427,26 +42435,26 @@ QuestTranslator_QuestData = {
 
 -- The Dragonmaw War
     -- ID 41865 (Stolgaz Keep & Grathok)
-    -- Capable -> fazlasıyla yetenekli, strike a real blow -> gerçek bir darbe indirmek. North -> kuzey, Stolgaz Keep -> Stolgaz Kalesi, proud outpost -> gururlu bir karargah, stone by stone -> taş taş, hands of dwarves -> cücelerin elleriyle, endurance -> dayanıklılık. Shattered ruin -> paramparça bir harabe, crawling -> kaynayan, Dragonmaw filth -> Ejderhaazı pislikleri, strategic value -> stratejik değer, foothold -> dayanak noktası, hills -> tepeler. Lead the charge -> hücuma liderlik et, cut them down -> biç onları. Dragonmaw Invaders -> Ejderhaazı İstilacıları, Renegades -> Döneklere, Flamebinders -> Alevbağlayanlara. Leader -> lider, brute -> gaddar / kaba herif, Grathok Flamehand -> Grathok Alevefendi kalmıştır, warband -> savaş bölüğü / çete, inner sanctum -> iç mabet. Orc's responsible -> ork sorumludur, destruction of the barracks -> kışlanın yıkılması, supply stores -> erzak depoları. End him -> onun işini bitir, fallen -> düşenler. Grandfather -> büyükbaba, orc boots -> ork çizmeleri. Music to these old ears -> bu yaşlı kulaklara müzik gibi, unit -> birlik, reclaim and rebuild -> geri almak ve yeniden inşa etmek. Wildhammer banner -> Vahşitokmak sancağı.
+    -- Capable -> fazlasıyla yetenekli, strike a real blow -> gerçek bir darbe indirmek. North -> kuzey, Stolgaz Keep -> Stolgaz Kalesi, proud outpost -> gururlu bir karargah, stone by stone -> taş taş, hands of dwarves -> cücelerin elleriyle, endurance -> dayanıklılık. Shattered ruin -> paramparça bir harabe, crawling -> kaynayan, Dragonmaw filth -> Ejderhaağzı pislikleri, strategic value -> stratejik değer, foothold -> dayanak noktası, hills -> tepeler. Lead the charge -> hücuma liderlik et, cut them down -> biç onları. Dragonmaw Invaders -> Ejderhaağzı İstilacıları, Renegades -> Döneklere, Flamebinders -> Alevbağlayanlara. Leader -> lider, brute -> gaddar / kaba herif, Grathok Flamehand -> Grathok Alevefendi kalmıştır, warband -> savaş bölüğü / çete, inner sanctum -> iç mabet. Orc's responsible -> ork sorumludur, destruction of the barracks -> kışlanın yıkılması, supply stores -> erzak depoları. End him -> onun işini bitir, fallen -> düşenler. Grandfather -> büyükbaba, orc boots -> ork çizmeleri. Music to these old ears -> bu yaşlı kulaklara müzik gibi, unit -> birlik, reclaim and rebuild -> geri almak ve yeniden inşa etmek. Wildhammer banner -> Vahşitokmak sancağı.
     ["41865"] = {
-    ["Title"]="Ejderhaazı Savaşı",
-    ["Description"]="Kendini fazlasıyla yetenekli (capable) kanıtladın ve artık gerçek bir darbe indirmenin zamanı geldi. Kuzeyde Stolgaz Kalesi (Stolgaz Keep) — ya da ondan ne kaldıysa — yer alıyor. Bir zamanlar, dayanıklılığın (endurance) anlamını bilen cücelerin elleriyle taş taş (stone by stone) inşa edilmiş gururlu bir karargahtı. Şimdi ise Ejderhaazı pislikleriyle (Dragonmaw filth) kaynayan paramparça bir harabeden (shattered ruin) başka bir şey değil. Ama şu anki durumunun seni aldatmasına izin verme — kalenin hala stratejik değeri (strategic value) var. Onu geri alırsak, tepelerin (hills) daha da içlerine ilerlemek için bir dayanak noktası (foothold) edinmiş oluruz. Hücuma liderlik etmeni (lead the charge) istiyorum. Oraya gir ve onları biç. 12 Ejderhaazı İstilacısı (Dragonmaw Invaders), on Dönek (Renegades) ve şu lanet olası Alevbağlayanlardan (Flamebinders) on tane katlet. Ve bir şey daha — liderleri, Grathok Flamehand adında bir gaba herif (brute), çeteyi kalenin bizzat iç mabedinden (inner sanctum) komuta ediyor. O ork, kışlanın yıkılmasından (destruction of the barracks) ve erzak depolarımızın yakılmasından sorumludur. Onun işini bitir. Düşenler (the fallen) için. Stolgaz için.",
-    ["Objectives"]="12 Ejderhaazı İstilacısı (Dragonmaw Invaders), 10 Ejderhaazı Dönüğü (Dragonmaw Renegades), 10 Ejderhaazı Alevbağlayıcısı (Dragonmaw Flamebinders) ve çete lideri Grathok Flamehand'i katlet.",
+    ["Title"]="Ejderhaağzı Savaşı",
+    ["Description"]="Kendini fazlasıyla yetenekli (capable) kanıtladın ve artık gerçek bir darbe indirmenin zamanı geldi. Kuzeyde Stolgaz Kalesi (Stolgaz Keep) — ya da ondan ne kaldıysa — yer alıyor. Bir zamanlar, dayanıklılığın (endurance) anlamını bilen cücelerin elleriyle taş taş (stone by stone) inşa edilmiş gururlu bir karargahtı. Şimdi ise Ejderhaağzı pislikleriyle (Dragonmaw filth) kaynayan paramparça bir harabeden (shattered ruin) başka bir şey değil. Ama şu anki durumunun seni aldatmasına izin verme — kalenin hala stratejik değeri (strategic value) var. Onu geri alırsak, tepelerin (hills) daha da içlerine ilerlemek için bir dayanak noktası (foothold) edinmiş oluruz. Hücuma liderlik etmeni (lead the charge) istiyorum. Oraya gir ve onları biç. 12 Ejderhaağzı İstilacısı (Dragonmaw Invaders), on Dönek (Renegades) ve şu lanet olası Alevbağlayanlardan (Flamebinders) on tane katlet. Ve bir şey daha — liderleri, Grathok Flamehand adında bir gaba herif (brute), çeteyi kalenin bizzat iç mabedinden (inner sanctum) komuta ediyor. O ork, kışlanın yıkılmasından (destruction of the barracks) ve erzak depolarımızın yakılmasından sorumludur. Onun işini bitir. Düşenler (the fallen) için. Stolgaz için.",
+    ["Objectives"]="12 Ejderhaağzı İstilacısı (Dragonmaw Invaders), 10 Ejderhaağzı Dönüğü (Dragonmaw Renegades), 10 Ejderhaağzı Alevbağlayıcısı (Dragonmaw Flamebinders) ve çete lideri Grathok Flamehand'i katlet.",
     ["Progress"]="Stolgaz Kalesi'ne (Stolgaz Keep) büyükbabamın adı verilmişti. Onun ork çizmeleri (orc boots) altında çürümeye terk edilmesini görmeyeceğim.",
-    ["Completion"]="Harika iş! Bu harika bir günün çalışması oldu — ölen Ejderhaazı'nın çığlıkları bu yaşlı kulaklara müzik gibi (music to these old ears) geliyor. Sayıları seyreltildiğinde ve kale temizlendiğinde, geri almak ve yeniden inşa etmek (reclaim and rebuild) için düzgün bir birlik (unit) gönderebiliriz. Amansız Menziller için çoğunun yapabileceğinden fazlasını yaptın. Stolgaz Kalesi'nde Vahşitokmak sancağı (Wildhammer banner) yeniden dalgalanacak ve bu senin sayendedir.",
+    ["Completion"]="Harika iş! Bu harika bir günün çalışması oldu — ölen Ejderhaağzı'nın çığlıkları bu yaşlı kulaklara müzik gibi (music to these old ears) geliyor. Sayıları seyreltildiğinde ve kale temizlendiğinde, geri almak ve yeniden inşa etmek (reclaim and rebuild) için düzgün bir birlik (unit) gönderebiliriz. Amansız Menziller için çoğunun yapabileceğinden fazlasını yaptın. Stolgaz Kalesi'nde Vahşitokmak sancağı (Wildhammer banner) yeniden dalgalanacak ve bu senin sayendedir.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end The Dragonmaw War
 
 -- The Dragonmaw War
     -- ID 41880 (Zarm'geth Stronghold)
-    -- Strike at the heart -> kalbine vurmak, Dragonmaw presence -> Ejderhaazı varlığı, Grim Reaches = Amansız Menziller. Zarm'geth Stronghold -> Zarm'geth Kalesi (Zarm'geth Stronghold), northern wilds -> kuzey yabanları, iron -> demir, traps, walls -> tuzaklar, surlar, deadliest kind -> en ölümcül türden. Elite warriors -> seçkin savaşçılar, battle-hardened champions -> savaşta hırpalanmış şampiyonlar, cruel leader -> zalim lider, command -> komuta etmek. Fight for one man alone -> tek bir adamın savaşı değil, comrades -> yoldaşlar, break lines -> hatlarını yarmak, victory -> zafer. Target -> hedef. Spirit -> ruh / direnç. Echo through the mountains -> dağlarda yankılanmak. Dragonmaw Elite -> Ejderhaazı Seçkinleri, Dragonmaw Champions -> Ejderhaazı Şampiyonları. Lone wolves -> yalnız kurtlar, rally allies -> müttefiklerini topla, fury of the Alliance -> Alliance'ın öfkesi. Ancestors' beards -> ataların sakalı, machine -> makine, sputter and die -> teklemek ve ölmek. Celebrate victory -> zaferi kutla, stay sharp -> tetikte kal, war isn't over -> savaş bitmedi. Mountain remembers -> dağ hatırlar.
+    -- Strike at the heart -> kalbine vurmak, Dragonmaw presence -> Ejderhaağzı varlığı, Grim Reaches = Amansız Menziller. Zarm'geth Stronghold -> Zarm'geth Kalesi (Zarm'geth Stronghold), northern wilds -> kuzey yabanları, iron -> demir, traps, walls -> tuzaklar, surlar, deadliest kind -> en ölümcül türden. Elite warriors -> seçkin savaşçılar, battle-hardened champions -> savaşta hırpalanmış şampiyonlar, cruel leader -> zalim lider, command -> komuta etmek. Fight for one man alone -> tek bir adamın savaşı değil, comrades -> yoldaşlar, break lines -> hatlarını yarmak, victory -> zafer. Target -> hedef. Spirit -> ruh / direnç. Echo through the mountains -> dağlarda yankılanmak. Dragonmaw Elite -> Ejderhaağzı Seçkinleri, Dragonmaw Champions -> Ejderhaağzı Şampiyonları. Lone wolves -> yalnız kurtlar, rally allies -> müttefiklerini topla, fury of the Alliance -> Alliance'ın öfkesi. Ancestors' beards -> ataların sakalı, machine -> makine, sputter and die -> teklemek ve ölmek. Celebrate victory -> zaferi kutla, stay sharp -> tetikte kal, war isn't over -> savaş bitmedi. Mountain remembers -> dağ hatırlar.
     ["41880"] = {
-    ["Title"]="Ejderhaazı Savaşı",
-    ["Description"]="Amansız Menziller'deki (Grim Reaches) Ejderhaazı varlığının kalbine vurma (strike at the heart) zamanımız geldi. Zarm'geth Kalesi (Zarm'geth Stronghold) kuzey yabanlarında yer alıyor — taştan ve demirden yontulmuş, tuzaklar (traps), surlar ve en ölümcül türden orklarla donatılmış bir kale. Seçkin savaşçılar (elite warriors), savaşta hırpalanmış şampiyonlar (battle-hardened champions) ve şüphesiz zalim liderleri oradan komuta ediyor. Bu tek bir adamın savaşı (fight for one man alone) olmayacaktır. Hatlarını yarmayı ve zaferi (victory) elde etmeyi umuyorsan yanında yoldaşlara (comrades) ihtiyacın olacak. Hedefin net: on Ejderhaazı Seçkinini (Dragonmaw Elite) ve on Ejderhaazı Şampiyonunu (Dragonmaw Champions) öldür. Seçkin savaşçılarından bu kadar çoğunu katletmek şüphesiz dirençlerini (spirit) kıracaktır. Onları aşağı indir ve dağlarda yankılanacak (echo through the mountains) bir darbe indir.",
-    ["Objectives"]="Zarm'geth Kalesi'nde (Zarm'geth Stronghold) 10 Ejderhaazı Seçkini (Dragonmaw Elite) ve 10 Ejderhaazı Şampiyonu (Dragonmaw Champions) katlet.",
+    ["Title"]="Ejderhaağzı Savaşı",
+    ["Description"]="Amansız Menziller'deki (Grim Reaches) Ejderhaağzı varlığının kalbine vurma (strike at the heart) zamanımız geldi. Zarm'geth Kalesi (Zarm'geth Stronghold) kuzey yabanlarında yer alıyor — taştan ve demirden yontulmuş, tuzaklar (traps), surlar ve en ölümcül türden orklarla donatılmış bir kale. Seçkin savaşçılar (elite warriors), savaşta hırpalanmış şampiyonlar (battle-hardened champions) ve şüphesiz zalim liderleri oradan komuta ediyor. Bu tek bir adamın savaşı (fight for one man alone) olmayacaktır. Hatlarını yarmayı ve zaferi (victory) elde etmeyi umuyorsan yanında yoldaşlara (comrades) ihtiyacın olacak. Hedefin net: on Ejderhaağzı Seçkinini (Dragonmaw Elite) ve on Ejderhaağzı Şampiyonunu (Dragonmaw Champions) öldür. Seçkin savaşçılarından bu kadar çoğunu katletmek şüphesiz dirençlerini (spirit) kıracaktır. Onları aşağı indir ve dağlarda yankılanacak (echo through the mountains) bir darbe indir.",
+    ["Objectives"]="Zarm'geth Kalesi'nde (Zarm'geth Stronghold) 10 Ejderhaağzı Seçkini (Dragonmaw Elite) ve 10 Ejderhaağzı Şampiyonu (Dragonmaw Champions) katlet.",
     ["Progress"]="Zarm'geth yalnız kurtların (lone wolves) yeri değildir. Müttefiklerini topla (rally your allies) ve o orklara Alliance'ın öfkesini (fury of the Alliance) göster!",
-    ["Completion"]="Ataların sakalı (ancestors' beards) adına, birçoğunun imkansız olduğunu düşündüğü şeyi başardın. Subaylarından bu kadar çoğunun ölmesiyle, Amansız Menziller'deki Ejderhaazı savaş makinesi tekleyecek ve ölecektir (sputter and die). Bu zaferi kutla (celebrate) ama tetikte kal — savaş bitmedi, henüz değil. İyi iş, dostum. Dağ hatırlar (the mountain remembers).",
+    ["Completion"]="Ataların sakalı (ancestors' beards) adına, birçoğunun imkansız olduğunu düşündüğü şeyi başardın. Subaylarından bu kadar çoğunun ölmesiyle, Amansız Menziller'deki Ejderhaağzı savaş makinesi tekleyecek ve ölecektir (sputter and die). Bu zaferi kutla (celebrate) ama tetikte kal — savaş bitmedi, henüz değil. İyi iş, dostum. Dağ hatırlar (the mountain remembers).",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end The Dragonmaw War
@@ -42456,11 +42464,11 @@ QuestTranslator_QuestData = {
     -- Blood spilled -> kan döküldü, steel swung -> çelik savruldu. Bring word -> haber ulaştırmak, hard-won victories -> zorlu mücadelelerle kazanılan zaferler, Magistrate -> Sulh Hakimi / Yargıç (Magistrate), Dun Kithas = Dun Kithas. Finer -> daha iyi, carry this honor -> bu onuru taşımak, friend -> dostum. Hand -> elin, strength of your kin -> soydaşlarının gücü, protected -> korundu.
     -- Magistrate Hurdam Toughhand -> Yargıç Hurdam Çetin el kalmıştır, listens intently -> dikkatle dinler, impressed -> etkilenmiş. Forge and stone -> ocak ve taş, great debt -> büyük bir borç, reward -> ödül, token of our thanks -> teşekkürümüzün bir göstergesi. Guard down -> gardını düşürmek, scum skulking -> çömelen/pusuda bekleyen pislikler, cüceler, peace of a mountain -> bir dağın barışı, axe ready -> baltan hazır.
     ["41882"] = {
-    ["Title"]="Ejderhaazı Savaşı",
-    ["Description"]="Dökülen bunca kandan ve savrulan çeliklerden sonra, geriye yapılacak tek bir şey kaldı — zorlu mücadelelerle kazanılan zaferlerimizin (hard-won victories) haberini Dun Kithas'taki Yargıç'a (Magistrate) ulaştırmak. Bu onuru taşımak için senden daha iyi bir YOUR_RACE düşünemiyorum, dostum. Ejderhaazı'nı alt etmemiz ve Amansız Menziller'i korumamız — en azından şimdilik — senin elin (hand) ve soydaşlarının gücü (strength of your kin) sayesindedir.",
+    ["Title"]="Ejderhaağzı Savaşı",
+    ["Description"]="Dökülen bunca kandan ve savrulan çeliklerden sonra, geriye yapılacak tek bir şey kaldı — zorlu mücadelelerle kazanılan zaferlerimizin (hard-won victories) haberini Dun Kithas'taki Yargıç'a (Magistrate) ulaştırmak. Bu onuru taşımak için senden daha iyi bir YOUR_RACE düşünemiyorum, dostum. Ejderhaağzı'nı alt etmemiz ve Amansız Menziller'i korumamız — en azından şimdilik — senin elin (hand) ve soydaşlarının gücü (strength of your kin) sayesindedir.",
     ["Objectives"]="Dun Kithas'taki Yargıç Hurdam Toughhand'e (Magistrate Hurdam Toughhand) rapor ver.",
     ["Progress"]="Steelwind'e herhangi bir yardımın dokundu mu?",
-    ["Completion"]="<Yargıç Hurdam Toughhand dikkatle dinler, açıkça etkilenmiştir.> Ocak ve taş (forge and stone) adına, umut etmeye cüret ettiğimden çok daha fazlasını yaptın! Dun Kithas ve Amansız Menziller halkı sana büyük bir borçlu (great debt). Teşekkürümüzün bir göstergesi (token of our thanks) olarak bu ödülü kabul et. Ama gardını henüz düşürme — tepelerde hala pusuda bekleyen Ejderhaazı pislikleri (scum skulking) var ve biz cüceler bir dağın barışına (peace of a mountain) çok erken güvenmemeyi iyi biliriz. Tetikte kal ve baltanı hazır (axe ready) tut.",
+    ["Completion"]="<Yargıç Hurdam Toughhand dikkatle dinler, açıkça etkilenmiştir.> Ocak ve taş (forge and stone) adına, umut etmeye cüret ettiğimden çok daha fazlasını yaptın! Dun Kithas ve Amansız Menziller halkı sana büyük bir borçlu (great debt). Teşekkürümüzün bir göstergesi (token of our thanks) olarak bu ödülü kabul et. Ama gardını henüz düşürme — tepelerde hala pusuda bekleyen Ejderhaağzı pislikleri (scum skulking) var ve biz cüceler bir dağın barışına (peace of a mountain) çok erken güvenmemeyi iyi biliriz. Tetikte kal ve baltanı hazır (axe ready) tut.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end The Dragonmaw War
@@ -43059,10 +43067,10 @@ QuestTranslator_QuestData = {
     }, -- end The Grim Hollow
 
 -- The Grim Reaches
-    -- Wildhammer kin -> Vahşitokmak soydaşları, Dun Kithas = Dun Kithas, dire need of aid -> acil yardıma ihtiyacı var. Dragonmaw Clan -> Ejderhaazı Klanı, bolder -> daha cüretkar. Magistrate Hurdam Toughhand -> Yargıç Hurdam Toughhand kalmıştır, strike at any moment -> her an vurmalarından korkuyor. Ready forces -> kuvvetlerimizi hazırlarken, defense -> savunma, adventurers -> maceracılar, lend a hand -> yardım eli uzatmak. Chosen -> seçildin, critical hour -> bu kritik saatte. Grim Reaches = Amansız Menziller, High Pass -> Yüksek Geçit (High Pass), mountain tunnel -> dağ tüneli, Farstrider Lodge -> Uzakyolcu Kulübesi (Farstrider Lodge), Loch Modan = Loch Modan. Stay sharp -> tetikte kal, trifling threat -> hafife alınacak bir tehdit. Report without delay -> gecikmeden rapor ver, mountain's strength guide ye -> dağın gücü sana rehberlik etsin. Newcomer -> yeni gelen, welcome -> hoş geldin. Lifts me heart -> yüreğimi ferahlatıyor, new faces -> yeni yüzler, dark days looming -> karanlık günler kapımızda, pair of hands vital -> her bir el hayati öneme sahip, trials ahead -> önümüzdeki zorluklarda.
+    -- Wildhammer kin -> Vahşitokmak soydaşları, Dun Kithas = Dun Kithas, dire need of aid -> acil yardıma ihtiyacı var. Dragonmaw Clan -> Ejderhaağzı Klanı, bolder -> daha cüretkar. Magistrate Hurdam Toughhand -> Yargıç Hurdam Toughhand kalmıştır, strike at any moment -> her an vurmalarından korkuyor. Ready forces -> kuvvetlerimizi hazırlarken, defense -> savunma, adventurers -> maceracılar, lend a hand -> yardım eli uzatmak. Chosen -> seçildin, critical hour -> bu kritik saatte. Grim Reaches = Amansız Menziller, High Pass -> Yüksek Geçit (High Pass), mountain tunnel -> dağ tüneli, Farstrider Lodge -> Uzakyolcu Kulübesi (Farstrider Lodge), Loch Modan = Loch Modan. Stay sharp -> tetikte kal, trifling threat -> hafife alınacak bir tehdit. Report without delay -> gecikmeden rapor ver, mountain's strength guide ye -> dağın gücü sana rehberlik etsin. Newcomer -> yeni gelen, welcome -> hoş geldin. Lifts me heart -> yüreğimi ferahlatıyor, new faces -> yeni yüzler, dark days looming -> karanlık günler kapımızda, pair of hands vital -> her bir el hayati öneme sahip, trials ahead -> önümüzdeki zorluklarda.
     ["41846"] = {
     ["Title"]="Amansız Menziller",
-    ["Description"]="Dun Kithas'ın (Dun Kithas) Vahşitokmak soydaşlarının (Wildhammer kin) acil yardıma ihtiyacı var (dire need of aid). Ejderhaazı Klanı (Dragonmaw Clan) geçen her gün daha da cüretkarlaşıyor ve Yargıç Hurdam Toughhand her an vurmalarından korkuyor! Biz kuvvetlerimizi düzgün bir savunma (defense) için hazırlarken, senin gibi maceracılara (adventurers) bir yardım eli uzatması için çağrıda bulunmak bize düşüyor. Bu kritik saatte Yargıç Hurdam'a ve Dun Kithas halkına yardım etmen için bizzat seçildin. Amansız Menziller'e (the Grim Reaches) ulaşmak için, Loch Modan'daki Uzakyolcu Kulübesi'nin (Farstrider Lodge) yakınındaki bir dağ tüneli olan Yüksek Geçit'ten (High Pass) seyahat et. Tetikte kal (stay sharp), çünkü Ejderhaazı hafife alınacak bir tehdit değildir. Dun Kithas'a ulaştığında, gecikmeden Yargıç Hurdam'a rapor ver. Dağın gücü sana rehberlik etsin!",
+    ["Description"]="Dun Kithas'ın (Dun Kithas) Vahşitokmak soydaşlarının (Wildhammer kin) acil yardıma ihtiyacı var (dire need of aid). Ejderhaağzı Klanı (Dragonmaw Clan) geçen her gün daha da cüretkarlaşıyor ve Yargıç Hurdam Toughhand her an vurmalarından korkuyor! Biz kuvvetlerimizi düzgün bir savunma (defense) için hazırlarken, senin gibi maceracılara (adventurers) bir yardım eli uzatması için çağrıda bulunmak bize düşüyor. Bu kritik saatte Yargıç Hurdam'a ve Dun Kithas halkına yardım etmen için bizzat seçildin. Amansız Menziller'e (the Grim Reaches) ulaşmak için, Loch Modan'daki Uzakyolcu Kulübesi'nin (Farstrider Lodge) yakınındaki bir dağ tüneli olan Yüksek Geçit'ten (High Pass) seyahat et. Tetikte kal (stay sharp), çünkü Ejderhaağzı hafife alınacak bir tehdit değildir. Dun Kithas'a ulaştığında, gecikmeden Yargıç Hurdam'a rapor ver. Dağın gücü sana rehberlik etsin!",
     ["Objectives"]="Amansız Menziller'deki Dun Kithas'ta bulunan Yargıç Hurdam Toughhand'e (Magistrate Hurdam Toughhand) rapor ver.",
     ["Progress"]="Dun Kithas'ta yeni bir gelen (newcomer)! Hoş geldin, hoş geldin.",
     ["Completion"]="Ah, Dun Kithas'ya hoş geldin, YOUR_NAME! Gerçekten de aramızda yeni yüzler (new faces) görmek yüreğimi ferahlatıyor (lifts me heart). Karanlık günler kapımızda, şüphe yok ve önümüzdeki zorluklarda (trials ahead) her bir el hayati öneme sahip (vital) olacak.",
@@ -43832,15 +43840,15 @@ QuestTranslator_QuestData = {
 -- The Lost Archives
     -- Lost Archives -> Kayıp Arşivler (Lost + Archives). Stolgaz Keep -> Stolgaz Kalesi kalmıştır. Name stirs embers old pride fresh grief -> eski gururun küllerini ve taze kederi bizzat canlandıran bir isim.
     -- Proud bastion Wildhammer Keep held critical position defense Grim Reaches -> bir zamanlar Vahşitokmak'ın gururlu bir kalesi olan Kale, Amansız Menziller'in (Grim Reaches) savunmasında kritik bir konuma sahipti.
-    -- Dragonmaw Orcs overran enemy hands years bastardized defiled standing -> ancak Ejderhaazı Orkları (Dragonmaw Orcs) burayı istila etmeden önceydi yıllardır düşman elinde duruyor - yozlaştırılmış kirletilmiş ama hala ayakta.
+    -- Dragonmaw Orcs overran enemy hands years bastardized defiled standing -> ancak Ejderhaağzı Orkları (Dragonmaw Orcs) burayı istila etmeden önceydi yıllardır düşman elinde duruyor - yozlaştırılmış kirletilmiş ama hala ayakta.
     -- Pains fortress inside Keep housed precious historical records -> beni gerçekten üzen şey sadece kalenin kaybeti değil içindekilerdi Kale en değerli tarihi kayıtlarımızdan bazılarını barındırıyordu.
     -- Lineages royal decrees journals heroes long gone entire volumes chronicling rise people -> soylar kraliyet kararnameleri çoktan gitmiş kahramanların günlükleri halkımızın yükselişini kronikleştiren koca ciltler.
-    -- Wit care destroy books realize taken inner halls Stolgaz eyes open volume retrieve restore piece history compensated -> Ejderhaazı'nın kitapları yok edecek zekaya (wit) veya özene sahip olduğundan şüpheliyim ne aldıklarını muhtemelen fark etmiyorlar bile Stolgaz'ın iç salonlarına ulaşmayı başarırsan gözlerini açık tut geri alacağın her cilt tarihimizin bir parçasını restore edebilir bunu yaparsan iyi bir şekilde telafi (compensated) edileceğinden emin olacağım.
+    -- Wit care destroy books realize taken inner halls Stolgaz eyes open volume retrieve restore piece history compensated -> Ejderhaağzı'nın kitapları yok edecek zekaya (wit) veya özene sahip olduğundan şüpheliyim ne aldıklarını muhtemelen fark etmiyorlar bile Stolgaz'ın iç salonlarına ulaşmayı başarırsan gözlerini açık tut geri alacağın her cilt tarihimizin bir parçasını restore edebilir bunu yaparsan iyi bir şekilde telafi (compensated) edileceğinden emin olacağım.
     -- Wildhammer Archive Books -> Vahşitokmak Arşiv Kitapları, Sorgan Trustgrip -> Sorgan Güvenlibilek kalmıştır, Dun Kithas = Dun Kithas.
     -- Baggoth's Testament -> Baggoth'un Vasiyeti kalmıştır, siege of Firewatch Ridge -> Ateşgözetimi Sırtı Kuşatması (Firewatch + Ridge), fetch books soul people poring rediscovering -> kitapları getirmekten fazlasını yaptın halkımızın ruhunu restore etmeye yardımcı oldun günlerce bunların üzerinde kafa yoracağım geçmişin hangi sırlarını yeniden keşfedeceğiz kim bilir.
     ["41874"] = {
     ["Title"]="Kayıp Arşivler",
-    ["Description"]="Stolgaz Kalesi (Stolgaz Keep)… işte eski gururun küllerini ve taze kederi bizzat canlandıran (stirs the embers) bir isim. Bir zamanlar Vahşitokmak'ın (Wildhammer) gururlu bir kalesi olan Kale, Amansız Menziller'in (Grim Reaches) savunmasında kritik bir konuma sahipti. Ama bu, Ejderhaazı Orkları (Dragonmaw Orcs) burayı istila etmeden önceydi. Yıllardır düşman elinde duruyor — yozlaştırılmış, kirletilmiş ama hala ayakta. Beni gerçekten üzen şey sadece kalenin kaybı değil… içindekilerdi. Kale en değerli tarihi kayıtlarımızdan bazılarını barındırıyordu. Soylar (lineages), kraliyet kararnameleri, çoktan gitmiş kahramanların günlükleri — halkımızın yükselişini kronikleştiren koca ciltler. Şimdi, Ejderhaazı'nın kitapları yok edecek zekaya (wit) veya özene sahip olduğundan şüpheliyim. Ne aldıklarını muhtemelen fark etmiyorlar bile. Eğer Stolgaz'ın iç salonlarına (inner halls) ulaşmayı başarırsan gözlerini açık tut. Geri alacağın her cilt tarihimizin bir parçasını restore edebilir. Bunu yap, ben de iyi bir şekilde telafi (compensated) edileceğinden emin olayım.",
+    ["Description"]="Stolgaz Kalesi (Stolgaz Keep)… işte eski gururun küllerini ve taze kederi bizzat canlandıran (stirs the embers) bir isim. Bir zamanlar Vahşitokmak'ın (Wildhammer) gururlu bir kalesi olan Kale, Amansız Menziller'in (Grim Reaches) savunmasında kritik bir konuma sahipti. Ama bu, Ejderhaağzı Orkları (Dragonmaw Orcs) burayı istila etmeden önceydi. Yıllardır düşman elinde duruyor — yozlaştırılmış, kirletilmiş ama hala ayakta. Beni gerçekten üzen şey sadece kalenin kaybı değil… içindekilerdi. Kale en değerli tarihi kayıtlarımızdan bazılarını barındırıyordu. Soylar (lineages), kraliyet kararnameleri, çoktan gitmiş kahramanların günlükleri — halkımızın yükselişini kronikleştiren koca ciltler. Şimdi, Ejderhaağzı'nın kitapları yok edecek zekaya (wit) veya özene sahip olduğundan şüpheliyim. Ne aldıklarını muhtemelen fark etmiyorlar bile. Eğer Stolgaz'ın iç salonlarına (inner halls) ulaşmayı başarırsan gözlerini açık tut. Geri alacağın her cilt tarihimizin bir parçasını restore edebilir. Bunu yap, ben de iyi bir şekilde telafi (compensated) edileceğinden emin olayım.",
     ["Objectives"]="Stolgaz Kalesi'nden (Stolgaz Keep) 6 Vahşitokmak Arşiv Kitabı (Wildhammer Archive Books) geri al ve onları Dun Kithas'taki Sorgan Trustgrip'e ulaştır.",
     ["Progress"]="Stolgaz'a varabildin mi? Arşivlerden (archives) bir iz var mı?",
     ["Completion"]="<Sorgan, yıpranmış ciltleri ellerine alırken gözleri büyür, kapaklardaki asırlık tozu bizzat siler.> Yaratanlar adına (By the Makers)… Bunu bir daha göreceğimi hiç düşünmezdim. Bu — Baggoth'un Vasiyeti (Baggoth's Testament)! Ateşgözetimi Sırtı Kuşatması'nın (siege of Firewatch Ridge) ilk elden anlatımı! İnanılmaz! Sadece kitap getirmekten fazlasını yaptın, YOUR_RACE. Halkımızın ruhunu (soul) restore etmeye yardımcı oldun. Günlerce bunların üzerinde kafa yoracağım (poring over). Geçmişin hangi sırlarını yeniden keşfedeceğiz kim bilir?",
@@ -46404,355 +46412,509 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end Uldum Awaits
     -- Unclear Instructions
+    -- Qik Peddlechin -> Qik Peddlechin kalmıştır (NPC ismi).
+    -- Mudsprocket -> Çamurdişli (Mud + sprocket).
+    -- bub -> birader / dostum.
     ["80353"] = {
-    ["Title"]="Unclear Instructions",
-    ["Description"]="Who would have imagined that asking an ogre to chop some wood, would have ultimately ended up with him forgetting to pick it up?Numbskull brute started cutting and cutting but when he came back he didn't bring any of it back with him!I would go pick it up myself but I am busy with uh... stuff. So why don't you do it?People around here respect working folk and you will get paid what the action is worth, bub.Go pickup a few bundles.",
-    ["Objectives"]="Gather 10 bundles of freshly cut wood to Qik Peddlechin in Mudsprocket.",
-    ["Progress"]="Can you believe it? He went back to cutting!Please tell me you got a few back.",
-    ["Completion"]="Ah yes, that's absolutely great bub. Just toss them right there, here's the pay.There's always work for you here if you need it.",
+    ["Title"]="Belirsiz Talimatlar",
+    ["Description"]="Bir ogre'dan biraz odun kesmesini istemenin, en nihayetinde o odunları toplamayı unutmasıyla sonuçlanacağını kim tahmin edebilirdi ki? Kafasız kalas kesmeye başladı da başladı ama geri geldiğinde yanına tek bir tane bile odun almamıştı! Kendim gidip toplardım ama şeyle... işlerle meşgulüm. O yüzden neden sen yapmıyorsun? Buralardaki insanlar çalışan kesime saygı duyar birader, emeğinin karşılığını da fazlasıyla alırsın. Git de birkaç kucak odun toplayıver.",
+    ["Objectives"]="Mudsprocket'taki (Mudsprocket) Qik Peddlechin'e ulaştırmak üzere taze kesilmiş 10 kucak odun topla.",
+    ["Progress"]="İnanabiliyor musun? Tekrar odun kesmeye gitti! Lütfen bana birkaç tane getirdiğini söyle.",
+    ["Completion"]="Ah evet, bu kesinlikle harika birader. Onları hemen şuraya fırlat, işte ödemen. İhtiyacın olursa burada senin için her zaman iş bulunur.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Unclear Instructions
 
 -- Uncovering Evidence
+    -- Mathias Shaw -> Mathias Shaw kalmıştır.
+    -- Menethil -> Menethil kalmıştır.
+    -- Stormwind = Fırtınayeli.
+    -- Martin -> Martin kalmıştır.
     ["55223"] = {
-    ["Title"]="Uncovering Evidence",
-    ["Description"]="Yes, he stayed here for a few days infact, had a room the entire time!The man was quite nice from what I recall, kept to his lonesome, drank a bit of ale, seemed a bit down though.He did have a lot of mail back and forth that I delivered to him with his daily supper.If you're looking for some of his personal affects then I can't be of that much help, I only recently cleared out what little he had.Man said he was taking a small trip and hasn't showed up in weeks, I figured he wasn't coming back, so I tossed his stuff out to the side of the Tavern.If you're looking for something, check there, if it's not gone already.",
-    ["Objectives"]="Find Martin's belonging's and bring them to Mathias Shaw in Stormwind.",
-    ["Progress"]="Have you got any news from Menethil?",
-    ["Completion"]="Hmm, so, he did leave stuff within Menethil, it seems the man didn't cover all of his tracks, thankfully for us.",
+    ["Title"]="Delilleri Ortaya Çıkarmak",
+    ["Description"]="Evet, aslında burada birkaç gün kaldı, tüm bu süre boyunca bir odası vardı! Hatırladığım kadarıyla gayet hoş bir adamdı, kendi halindeydi, biraz bira içerdi ama biraz keyifsiz görünüyordu. Günlük akşam yemeğiyle birlikte kendisine ulaştırdığım, sürekli gelip giden bir sürü mektubu vardı. Eğer onun bazı şahsi eşyalarını arıyorsan pek yardımcı olamam, elinde kalan o azıcık şeyi daha yeni temizledim. Adam kısa bir yolculuğa çıkacağını söylemişti ve haftalardır ortalıkta yok. Geri gelmeyeceğini düşünüp eşyalarını Hanın yan tarafına fırlattım. Bir şey arıyorsan, eğer çoktan kapışılmadıysa oraya bir bak.",
+    ["Objectives"]="Martin'in eşyalarını bul ve onları Fırtınayeli'ndeki (Stormwind) Mathias Shaw'a ulaştır.",
+    ["Progress"]="Menethil'den (Menethil) herhangi bir haber var mı?",
+    ["Completion"]="Hmm, demek Menethil'de (Menethil) bir şeyler bırakmış, görünüşe göre adam tüm izlerini kapatamamış, şansımıza.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Uncovering Evidence
 
 -- Uncovering Evil
+    -- Insom'ni -> Insom'ni kalmıştır.
+    -- Hazzuri -> Hazzuri kalmıştır.
     ["40214"] = {
-    ["Title"]="Uncovering Evil",
-    ["Description"]="With the Hazzuri slain, my heart burns with glee, retribution is such a fine wine, and one I would eagerly drink down again. It is time for the final task, we must drag free the shadow that has rooted itself upon the islands, and destroy it.When this is done, I can begin to rebuild my throne on these islands. The time is at hand. Follow me to the center of the island, and await my summoning to be complete. When it is, you must do battle with this evil as I keep it bound to the island. Only when it is weak enough, will I be able to join you.I suggest you bring friends, or others that may assist you. This should not be taken lightly, so do not fail me.",
-    ["Objectives"]="Assist Insom'ni in destroying the dark presence.",
-    ["Progress"]="We must be cautious.",
-    ["Completion"]="You have done well mortal, your help here, I must admit, has been insturmental. You have earned a place upon these islands as long as you desire to be here. As long as you understand that my rule here is now concrete.As a token of my appreciation to enact revenge, and give me back my rightful throne, you are to be rewarded, as one should for noble deeds. May you find use for the treasure I offer, and may you prosper on whatever path you choose.",
+    ["Title"]="Kötülüğü Açığa Çıkarmak",
+    ["Description"]="Hazzuri katledildiğine göre kalbim neşeyle yanıyor, intikam çok güzel bir şaraptır ve seve seve tekrar kadeh kaldırırım. Artık son görev zamanı geldi; adalara kök salmış olan gölgeyi söküp atmalı ve onu yok etmeliyiz. Bu iş bittiğinde, bu adalarda tahtımı yeniden inşa etmeye başlayabilirim. Vakit geldi. Beni adanın merkezine kadar takip et ve çağırma ritüelimin tamamlanmasını bekle. Tamamlandığında, ben onu adaya bağlı tutarken sen de bu kötülükle savaşmalısın. Ancak yeterince zayıfladığında sana katılabileceğim. Yanında arkadaşlarını ya da sana yardım edebilecek başkalarını getirmeni öneririm. Bu hafife alınacak bir şey değil, o yüzden beni hayal kırıklığına uğratma.",
+    ["Objectives"]="Karanlık varlığı yok etmesinde Insom'ni'ye yardım et.",
+    ["Progress"]="Temkinli olmalıyız.",
+    ["Completion"]="İyi iş çıkardın ölümlü, buradaki yardımının çok büyük bir payı olduğunu itiraf etmeliyim. Burada kalmak istediğin sürece bu adalarda bir yer edindin. Tabii buradaki hükümdarlığımın artık kesinleştiğini anladığın sürece. İntikamımı almama yardım edişinin ve hak ettiğim tahtımı bana geri verişinin bir nişanesi olarak, soylu davranışlara yakışır şekilde ödüllendirileceksin. Umarım sana sunduğum hazine işine yarar ve seçtiğin her yolda muvaffak olursun.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Uncovering Evil
 
 -- Uncovering Mystery
+    -- Hawk's Vigil -> Şahingözü (Hawk + Vigil).
+    -- Marge Blackwood -> Marge Karakoruluk (Black + wood).
+    -- manor -> malikane.
     ["55215"] = {
-    ["Title"]="Uncovering Mystery",
-    ["Description"]="Upon first glance Hawk's Vigil may look as if it is the perfect haven to settle, the hills are lush, and the grass is a bright green.Though, do not let this visage fool you, there are foul deeds going on beneath our very eyes, a taint of magic that has been sensed by some of our most adept.We have had murder within our Vigil, and still this growing darkness lingers. Marge Blackwood has taken it upon herself to study and look into these findings of a magical taint and I would like to get to the bottom of this.Report to her, and see if you can assist in getting to the bottom of this mystery.Marge can be found within the manor to the north east.",
-    ["Objectives"]="Report to Marge Blackwood.",
-    ["Progress"]="Is there something I can do for you?",
-    ["Completion"]="I have spent quite some time researching into what is going on, something lingers within the air, as if the presence of forbidden magic is being introduced to Hawk's Vigil.",
+    ["Title"]="Gizemi Açığa Çıkarmak",
+    ["Description"]="İlk bakışta Şahingözü (Hawk's Vigil) yerleşmek için mükemmel bir sığınak gibi görünebilir; tepeler gür, otlar ise parlak bir yeşildir. Yine de bu manzaranın seni aldatmasına izin verme, gözlerimizin önünde çirkin işler dönüyor; en yeteneklilerimizden bazılarının hissettiği bir büyü yozlaşması var. Karakolumuzda cinayet işlendi ve bu büyüyen karanlık hâlâ varlığını sürdürüyor. Marge Karakoruluk (Marge Blackwood) bu büyü yozlaşması bulgularını incelemeyi ve araştırmayı üzerine aldı, ben de bu işin asıl astarını öğrenmek istiyorum. Ona rapor ver ve bu gizemin asıl kaynağına inilmesinde yardımcı olup olamayacağına bir bak. Marge'ı kuzeydoğudaki malikanede bulabilirsin.",
+    ["Objectives"]="Marge Karakoruluk'a (Marge Blackwood) rapor ver.",
+    ["Progress"]="Senin için yapabileceğim bir şey var mı?",
+    ["Completion"]="Neler olup bittiğini araştırmak için epey zaman harcadım, havada sanki yasaklı bir büyünün varlığı Şahingözü'ne (Hawk's Vigil) yayılıyormuş gibi bir şeyler geziniyor.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Uncovering Mystery
 
 -- Uncovering the Rumors
+    -- Deathtotem -> Ölümtolemi (Death + totem).
+    -- Rahauro -> Rahauro kalmıştır (NPC ismi).
+    -- Magatha Grimtotem -> Magatha Zalimtotem (Grim + totem).
+    -- Elder Rise = Kadimler Tepesi (Elder + Rise).
+    -- Cairne's Directive -> Cairne'in Emri.
+    -- Thunderbluff = Gürleyenkayalık (Thunder + bluff).
     ["41980"] = {
-    ["Title"]="Uncovering the Rumors",
-    ["Description"]="The Deathtotem, I am sure this is the first time you have heard of them. Their very existance is secretive, and shrouded in mystery. I desire you to speak with Rahauro. He is an adjutant to Magatha Grimtotem.You will find him at Elder Rise. Bring him my directive, and inform him you require all the possible information on the Deathtotem, and where it is that they operate.",
-    ["Objectives"]="Deliver Cairne's Directive to Rahauro at Elder Rise in Thunderbluff.",
-    ["Progress"]="What business do you have?",
-    ["Completion"]="A letter, from Cairne?",
+    ["Title"]="Dedikoduları Açığa Çıkarmak",
+    ["Description"]="Ölümtotemi (The Deathtotem), eminim bunu ilk kez duyuyorsundur. Varlıkları tamamen gizlidir ve gizemle örtülüdür. Rahauro ile konuşmanı istiyorum. Kendisi Magatha Zalimtotem'in (Magatha Grimtotem) yaveridir. Onu Kadimler Tepesi'nde (Elder Rise) bulacaksın. Ona talimatımı götür ve Ölümtotemi ile nerede faaliyet gösterdiklerine dair mümkün olan tüm bilgilere ihtiyacın olduğunu söyle.",
+    ["Objectives"]="Cairne'in Emri'ni Gürleyenkayalık'taki (Thunderbluff) Kadimler Tepesi'nde (Elder Rise) bulunan Rahauro'na ulaştır.",
+    ["Progress"]="Ne işiniz vardı?",
+    ["Completion"]="Cairne'den bir mektup mu?",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Uncovering the Rumors
 
 -- Under The Sea
+    -- Dazlon -> Dazlon kalmıştır.
+    -- Black Ash Coalpits -> Kara Kül Kömür Ocakları (Black + Ash + Coalpits).
+    -- Ranala's Sunken Stash -> Ranala'nın Batık Zulası (Ranala + Sunken + Stash).
+    -- makrura -> makrura kalmıştır (Yaratık türü).
     ["41160"] = {
-    ["Title"]="Under The Sea",
-    ["Description"]="Just look at it. A broken shell, nothing more. Do you even know how many years Dazlon and I worked to be able to afford our own ship, let alone this lucrative lifestyle? Probably not. Most definitely not.You know, I had quite the fortune on that ship. Saved it from several trades and other more... unconventional practices. Nothing out of the ordinary for a gal of the sea, after all. I worked months, almost a year for this and now - all gone, sunken to the depths.I heard you are going to the wreckage for Dazlon. I don't have any hope you'll find it, but should you come across a green stash full of gold coins anywhere down there - I beg of you, bring it to me, please.",
-    ["Objectives"]="Find Ranala's Sunken Stash. If it is not on the wreckage, maybe the makrura have taken it. Bring it to her south of Black Ash Coalpits afterwards.",
-    ["Progress"]="With the ship broken and our crew gone, this stash of gold is all I have left.",
-    ["Completion"]="<Wide eyes and an extreme expression of bewilderment can be seen on Ranala's face.>I can't believe my eyes! My gold pouch, it's... it's here! But... it seems to have lost some coins through this hole here. Regardless, most of it is still here. YOUR_NAME, thank you so much. Here, this is for your troubles. When we get back, we'll tell the superiors of what you did here.",
+    ["Title"]="Denizin Altında",
+    ["Description"]="Şuna bir bak. Kırık bir tekne kabuğu, dahası değil. Dazlon ile kendimize ait bir gemiyi, bırak bu kazançlı yaşam tarzını alabilmek için kaç yıl çalıştığımızı biliyor musun? Muhtemelen hayır. Kesinlikle hayır. Biliyor musun, o gemide epey bir servetim vardı. Onu birkaç ticaretten ve diğer daha... geleneksel olmayan yöntemlerden biriktirmiştim. Ne de olsa denizci bir kız için sıra dışı bir şey değil. Bunun için aylarca, neredeyse bir yıl çalıştım ve şimdi - hepsi gitti, derinliklere gömüldü. Dazlon için enkaza gideceğini duydum. Onu bulacağına dair hiç umudum yok ama aşağıda bir yerlerde altın paralarla dolu yeşil bir zulaya denk gelirsen - sana yalvarıyorum, onu bana getir, lütfen.",
+    ["Objectives"]="Ranala'nın Batık Zulası'nı (Ranala's Sunken Stash) bul. Eğer enkazda değilse, belki de makruralar almıştır. Ardından onu Kara Kül Kömür Ocakları'nın (Black Ash Coalpits) güneyindeki Ranala'ya ulaştır.",
+    ["Progress"]="Gemi parçalandı ve mürettebatımız gitti, bu altın zulası elimde kalan tek şey.",
+    ["Completion"]="<Ranala'nın yüzünde kocaman açılmış gözler ve aşırı bir şaşkınlık ifadesi görülebilir.> Gözlerime inanamıyorum! Altın kesem, o... o burada! Ama... buradaki bu delikten birkaç madeni para düşmüş gibi görünüyor. Her şeye rağmen büyük kısmı hâlâ burada. YOUR_NAME, çok teşekkür ederim. Al, bu zahmetin için. Geri döndüğümüzde üstlerimize burada ne yaptığını anlatacağız.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Under The Sea
 
 -- Undermarket Offer
+    -- Talvash del Kissel -> Talvash del Kissel kalmıştır.
+    -- Mystic Ward = Gizem Bölgesi (Mystic + Ward).
+    -- Ironforge = Demirdöveç (Iron + forge).
     ["41301"] = {
-    ["Title"]="Undermarket Offer",
-    ["Description"]="So what are you here for? To ask me nicely to stop harassing your friend who doesn't want to uphold his end of the bargain? Or are you here to take the more... direct approach of solving problems? Either way, I regret to inform you that neither is going to work. Deadlines are something my organization values and those who are not able to meet them...<He gestures to the two daunting guards standing behind you.>I am however a welcoming merchant and will not forsake an opportunity for the sake of animosity towards disappointing trade partners. Instead, I will make you an offer. Deliver double the amount of goods that Talvash is still owing us, and me and my compatriots will consider leaving him be. A sound proposition, no? If I were in your stead, I'd do my best accepting it...",
-    ["Objectives"]="Return to Talvash del Kissel in the Mystic Ward of Ironforge and give him his payment.",
-    ["Progress"]="Whether you make these yourself or buy them somewhere else, I do not care. Just ensure they are of high quality, our benefactors value a certain standard.",
-    ["Completion"]="I see you have returned. Now let us ensure you will be able to leave as well...",
+    ["Title"]="Karaborsa Teklifi",
+    ["Description"]="Eee, ne için buradasın? Anlaşmanın kendine düşen kısmını yerine getirmek istemeyen arkadaşını rahatsız etmeyi bırakmamı kibarca rica etmek için mi? Yoksa sorunları çözmek için daha... doğrudan bir yaklaşım sergilemek için mi? Her iki durumda da, ikisinin de işe yaramayacağını üzülerek belirtmek isterim. Son teslim tarihleri teşkilatımın değer verdiği bir şeydir ve bunları karşılayamayanlar... <Arkanızda duran iki ürkütücü muhafızı işaret eder.> Yine de ben misafirperver bir tüccarımdır ve hayal kırıklığı yaratan ticaret ortaklarına duyulan düşmanlık uğruna bir fırsatı göz ardı etmem. Bunun yerine sana bir teklif sunacağım. Talvash'ın hâlâ bize borçlu olduğu malların iki katını teslim et, ben ve yoldaşlarım onun peşini bırakmayı düşünelim. Makul bir teklif, değil mi? Senin yerinde olsam bunu kabul etmek için elimden geleni yapardım...",
+    ["Objectives"]="Demirdöveç'teki (Ironforge) Gizem Bölgesi'nde (Mystic Ward) bulunan Talvash del Kissel'e geri dön ve ödemesini ona ver.",
+    ["Progress"]="Bunları kendin mi yapıyorsun yoksa başka bir yerden mi satın alıyorsun umurumda değil. Sadece yüksek kaliteli olduklarından emin ol, hayırseverlerimiz belirli bir standarda değer verir.",
+    ["Completion"]="Geri döndüğünü görüyorum. Şimdi de güvenle ayrılabileceğinden emin olalım...",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Undermarket Offer
 
 -- Undoing Draconic Presence
+    -- Gilneas = Gilneas kalmıştır.
+    -- Harlow -> Harlow kalmıştır.
+    -- Celia Harlow -> Celia Harlow, Mortimer Harlow -> Mortimer Harlow.
+    -- Dragonkin -> Ejderisoy (Dragon + kin).
+    -- Black Dragonflight = Siyah Ejderha Sürüsü (Black + Dragonflight).
+    -- Magus Orelius -> Magus Orelius kalmıştır.
+    -- Ravenshire -> Kuzgundiyar (Raven + shire).
     ["40943"] = {
-    ["Title"]="Undoing Draconic Presence",
-    ["Description"]="There is only one course of action to save Gilneas. The Harlow family cannot be allowed to emerge from this civil war unscathed. The Regent-Lady Celia Harlow, and Regent-Lord Mortimer Harlow are Dragonkin of the Black Dragonflight. They have long corrupted Gilneas and turned it into a land of decay and conflict.We must put an end to the suffering of the land, slay both of them, and rid this place of their evil machinations.",
-    ["Objectives"]="End the Draconic Influence over Gilneas by slaying Regent-Lady Celia Harlow, and Regent-Lord Mortimer Harlow for Magus Orelius at Ravenshire in Gilneas.",
-    ["Progress"]="Has their work been undone?",
-    ["Completion"]="The people will not know of your work here today, but their suffering will end. The draconic influence over Gilneas has been put to rest.It is only a matter of time until the land is restored to what it was some years ago, and this is in part thanks to your efforts here today. I have convened with the other members of the Kirin Tor, and your work to banish the foul draconic magic will not go unrewarded.Please, take one of these items, as a gesture of our appreciation.",
+    ["Title"]="Ejderha Varlığını Ortadan Kaldırmak",
+    ["Description"]="Gilneas'ı kurtarmak için tek bir çözüm yolu var. Harlow ailesinin bu iç savaştan yara almadan çıkmasına izin verilemez. Vekil Leydi Celia Harlow ve Vekil Lord Mortimer Harlow, Siyah Ejderha Sürüsü'nün (Black Dragonflight) Ejderisoylarıdır. Uzun zamandır Gilneas'ı yozlaştırdılar ve burayı bir çürüme ve çatışma diyarına çevirdiler. Toprakların çektiği acılara bir son vermeli, ikisini de katletmeli ve bu yeri onların şeytani planlarından arındırmalıyız.",
+    ["Objectives"]="Gilneas'taki Kuzgundiyar'da (Ravenshire) bulunan Magus Orelius için Vekil Leydi Celia Harlow ve Vekil Lord Mortimer Harlow'u katlederek Gilneas üzerindeki Ejderha Nüfuzuna son ver.",
+    ["Progress"]="Yaptıkları işler boşa çıkarıldı mı?",
+    ["Completion"]="Halk bugün burada yaptığın işi bilmeyecek ama çektikleri acılar son bulacak. Gilneas üzerindeki ejderha nüfuzuna son verildi. Toprakların birkaç yıl önceki haline dönmesi artık sadece bir zaman meselesi ve bu kısmen bugün buradaki çabaların sayesinde. Kirin Tor'un diğer üyeleriyle bir araya geldim ve o iğrenç ejderha büyüsünü defetmek için yaptığın çalışma ödülsüz kalmayacak. Lütfen, minnettarlığımızın bir göstergesi olarak bu eşyalardan birini kabul et.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Undoing Draconic Presence
 
 -- Unforgotten and Unforgiven
+    -- Northern vales -> Kuzey vadileri.
+    -- Almaudrak -> Almaudrak kalmıştır.
+    -- Gelkis -> Gelkis kalmıştır.
+    -- Yesu'gei -> Yesu'gei kalmıştır.
+    -- Gelkis Village -> Gelkis Köyü.
+    -- Desolace = Desolace / Kurakdiyar kalmıştır.
     ["40627"] = {
-    ["Title"]="Unforgotten and Unforgiven",
-    ["Description"]="I do not believe in coincidences, I do not. Hmm... I firmly believe in our desecration of the Northern vales, the centaur provoked a being of vengeance to menace us. Do you know of what I speak? Hopefully not, if you had seen or heard him, you would likely not be alive.I hardly expect you to do this, YOUR_NAME, but if you are equally brave and foolish, then seek Almaudrak to the north, just before the path opens to the fiery woodland vale. The winged horror stalks the road and makes nest in the western mountains.You will truly be an honored name amongst the Gelkis if you can bring me his heart.",
-    ["Objectives"]="Find Almaudrak, slay him and return his heart to Yesu'gei at Gelkis Village in Desolace.",
-    ["Progress"]="I do not blame you for not wanting to seek him out.",
-    ["Completion"]="Hmm, you are a special sort, YOUR_NAME. This heart will make a fantastic feast, and all will know you were the one to provide the Gelkis their strength this night!",
+    ["Title"]="Unutulmayan ve Affedilmeyen",
+    ["Description"]="Tesadüflere inanmam, inanmam. Hmm... Kuzey vadilerini (Northern vales) kirletmemizin, centorları bizi tehdit etmesi için bir intikam varlığını kışkırtmaya ittiğine kesinlikle inanıyorum. Neden bahsettiğimi biliyor musun? Umarım bilmiyordun, eğer onu görmüş ya da duymuş olsaydın muhtemelen hayatta olmazdın. Bunu yapmanı pek beklemiyorum YOUR_NAME, ama eğer aynı derecede cesur ve aptalsan, kuzeydeki Almaudrak'ı ara; yolun alevli orman vadisine açılmasından hemen önce. Kanatlı dehşet yolda kol geziyor ve batı dağlarında yuva yapıyor. Eğer onun kalbini bana getirebilirsen, Gelkisler arasında gerçekten onurlandırılan bir isim olacaksın.",
+    ["Objectives"]="Almaudrak'ı bul, onu katlet ve kalbini Desolace'taki Gelkis Köyü'nde (Gelkis Village) bulunan Yesu'gei'ye ulaştır.",
+    ["Progress"]="Onu aramak istemediğin için seni suçlamıyorum.",
+    ["Completion"]="Hmm, sen özel bir tipsin YOUR_NAME. Bu kalp harika bir ziyafet olacak ve herkes bu gece Gelkislere gücünü veren kişinin sen olduğunu bilecek!",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Unforgotten and Unforgiven
 
 -- Wally Wisecrack
+    -- Wally Wisecrack -> Wally Wisecrack kalmıştır.
+    -- Jade -> Jade kalmıştır.
+    -- Tel'abim -> Tel'abim kalmıştır.
+    -- Strahnbrad -> Strahnbrad kalmıştır.
+    -- Syndicate = Sendika (Syndicate).
+    -- Large Looped Earring -> Büyük Halka Küpe.
+    -- 'Slip' -> 'Slip' kalmıştır.
+    -- Booty Bay = Ganimet Koyu (Booty + Bay).
     ["40226"] = {
     ["Title"]="Wally Wisecrack",
-    ["Description"]="This man continued to deal and swindle with me even after he brought down my crew, we spoke face to face many times. He killed Jade and took her from my life, we could have conquered the world our crew. I may not live in a palace on Tel'abim, but I will still get the sweet justice that I have been longing for.Wally Wisecrack is a goon of a human, who resides within Strahnbrad and was closely assosciated with those Syndicate fellows. Yeah the traitorous ones that sold their souls to the orcs, it seems its just in their blood, huh?Find him in Strahnbrad, kill him, and bring me his Large Looped Earring as proof.",
-    ["Objectives"]="Slay Wally Wisecrack, and bring his Large Looped Earring to 'Slip' in Booty Bay.",
-    ["Progress"]="He is a dastardly fellow, don't let him know you're coming, or you'll never find him.",
-    ["Completion"]="It's done then, and good, the spirits of those that were lost because of this cold hearted goon may find peace in whatever grave they found themselves in. I can't thank you again for all the help, and for reconnecting me with some old crew across the world.Take one of these items, as a token of my gratitude.",
+    ["Description"]="Bu adam, mürettebatımı alaşağı ettikten sonra bile benimle pazarlık yapmaya ve beni dolandırmaya devam etti, defalarca yüz yüze konuştuk. Jade'i öldürdü ve onu hayatımdan kopardı, mürettebatımızla dünyayı fethedebilirdik. Tel'abim'de (Tel'abim) bir sarayda yaşamıyor olabilirim ama yine de uzun zamandır can attığım o tatlı adaleti alacağım. Wally Wisecrack, Strahnbrad'da ikamet eden ve o Sendika (Syndicate) takımından adamlarla yakın ilişkileri olan adi bir insandır. Evet, ruhlarını orklara satan o hainler; görünüşe göre bu sadece onların kanında var, ha? Onu Strahnbrad'da bul, öldür ve kanıt olarak bana Büyük Halka Küpe'sini getir.",
+    ["Objectives"]="Wally Wisecrack'i katlet ve Büyük Halka Küpe'sini Ganimet Koyu'ndaki (Booty Bay) 'Slip'e ulaştır.",
+    ["Progress"]="O düzenbazın tekidir, geldiğini ona belli etme yoksa onu asla bulamazsın.",
+    ["Completion"]="Demek bitti, güzel, bu taş kalpli adi yüzünden hayatını kaybedenlerin ruhları artık kendilerini buldukları mezarlarda huzura erebilir. Tüm yardımların ve beni dünyanın öbür ucundaki eski mürettebatımla yeniden buluşturduğun için sana ne kadar teşekkür etsem azdır. Minnettarlığımın bir göstergesi olarak bu eşyalardan birini seç.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Wally Wisecrack
 
 -- War On Mudpaw
+    -- Venture Co. -> Risk Şirketi (Venture + Co.).
+    -- Mudpaw -> Çamurpençe (Mud + paw).
+    -- Bruiser Yevo -> Kabadayı Yevo (Bruiser + Yevo).
+    -- The Water Hole -> Su Çukuru (Water + Hole).
+    -- Mudpaw Armbands -> Çamurpençe Kollukları.
     ["41185"] = {
-    ["Title"]="War On Mudpaw",
-    ["Description"]="If these Venture Co. folk up there weren't enough, just beyond this measly pond are the grubby paws of the gnolls, cackling and growling at us. All. The. Time. If I weren't busy guarding these dunderheads here, I'd get my bludgeon and teach them a lesson or two myself. But I can't. And it makes me mad.Eager to earn some coin? Bash some of their heads in and I'll make it worth your while. Bring me their armbands as proof, I don't trust anyone's word here - and you'd do the same if you know what's best for you.",
-    ["Objectives"]="Collect Mudpaw Armbands from Mudpaw Gnolls for Bruiser Yevo at The Water Hole.",
-    ["Progress"]="I've been watching them ever since I was assigned this post here. Some of them are acting even more unreasonably than those squeaky gnomes.",
-    ["Completion"]="I do wonder, what purpose do these serve? Some kind of tribal colour? Or maybe even more? Whatever, it doesn't really matter to me. Thank you, pal. These will be very useful in the outhouse.",
+    ["Title"]="Çamurpençe'ye Karşı Savaş",
+    ["Description"]="Şu yukarıdaki Risk Şirketi (Venture Co.) takımı yetmezmiş gibi, şu zavallı göletin hemen ötesinde gnolların o pis pençeleri var; durmadan bize kıkırdayıp hırlıyorlar. Her. Zaman. Eğer buradaki şu mankafaları korumakla meşgul olmasaydım, topuzumu kapar ve onlara bizzat bir iki ders verirdim. Ama yapamam. Ve bu beni deli ediyor. Biraz para kazanmaya istekli misin? Birkaçının kafasını patlat, ben de ayırdığın zamana değmesini sağlayayım. Kanıt olarak bana kolluklarını getir, buralarda kimsenin sözüne güvenmem — senin için neyin iyi olduğunu biliyorsan sen de aynısını yaparsın.",
+    ["Objectives"]="Su Çukuru'ndaki (The Water Hole) Kabadayı Yevo (Bruiser Yevo) için Çamurpençe Gnollarından Çamurpençe Kollukları (Mudpaw Armbands) topla.",
+    ["Progress"]="Bana bu görev verildiğinden beri onları izliyorum. Bazıları şu cırtlak gnomlardan bile daha mantıksız davranıyor.",
+    ["Completion"]="Merak ediyorum, bunlar ne işe yarıyor? Bir tür kabile rengi mi? Yoksa daha fazlası mı? Her neyse, benim için pek önemi yok. Teşekkürler dostum. Bunlar tuvalette çok işe yarayacak.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end War On Mudpaw
 
 -- War on the Witherbark
+    -- Witherbark -> Solukkabuk (Wither + bark).
+    -- Ruins of Zul'Rasaz -> Zul'Rasaz Harabeleri (Ruins + of + Zul'Rasaz).
     ["40018"] = {
-    ["Title"]="War on the Witherbark",
-    ["Description"]="The Witherbark are a brutal enemy, one that attacked in the dead of night and had no mercy for my people. Those of us here were lucky to escape, and now it seems as if they are just biding their time for the next attack.We must not let it be so. As outnumbered and unprepared as we are, we need to reduce their ranks. Head into the Ruins of Zul'Rasaz and kill as many of the Witherbark as you can manage. Show those traitors that the spirits remain on our side and that we remain the true masters of these heights.",
-    ["Objectives"]="Kill 14 Witherbark Raiders, 8 Witherbark Soothsayers, and 5 Witherbark Rogues.",
-    ["Progress"]="Have you cut down their numbers?",
-    ["Completion"]="You've done it, YOUR_CLASS! We may rest easy tonight thanks to the work you've done. Take these coins as appreciation for the work you've done.",
+    ["Title"]="Solukkabuk'a Karşı Savaş",
+    ["Description"]="Solukkabuklar acımasız bir düşmandır, gecenin köründe saldıran ve halkıma hiç merhamet göstermeyen bir düşman. Buradakiler olarak kaçabildiğimiz için şanslıydık ve şimdi sanki bir sonraki saldırı için sadece fırsat kolluyorlar gibi görünüyor. Buna izin vermemeliyiz. Sayıca az ve hazırlıksız olsak da rütbelerini azaltmamız gerekiyor. Zul'Rasaz Harabeleri'ne (Ruins of Zul'Rasaz) git ve elinden geldiğince çok Solukkabuk öldür. O hainlere ruhların hâlâ bizim yanımızda olduğunu ve bu tepelerin asıl efendilerinin hâlâ biz olduğumuzu göster.",
+    ["Objectives"]="14 Solukkabuk Akıncısı, 8 Solukkabuk Kahini ve 5 Solukkabuk Haydudu öldür.",
+    ["Progress"]="Sayılarını azalttın mı?",
+    ["Completion"]="Başardın, YOUR_CLASS! Yaptığın çalışma sayesinde bu gece rahat bir nefes alabiliriz. Yaptığın işin bir teşekkürü olarak bu madeni paraları kabul et.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end War on the Witherbark
 
 -- War on Venture Co.
+    -- Venture Co. -> Risk Şirketi (Venture + Co.).
+    -- Taxxlo Rustgate -> Taxxlo Paslıkapı (Rust + gate).
+    -- Supreme Overseer -> Baş Denetçi.
     ["41172"] = {
-    ["Title"]="War on Venture Co.",
-    ["Description"]="Potential is what I see in you, YOUR_NAME. Not many here show it. But you might be the goblin I'm looking for.Maybe you've witnessed it already or you're just ignorant to the issue, but we're having problems with the... willingness of some workers out here. Call it a strike, sabotage, revolt - I don't care. They're costing me money instead of making it and I'm not having it. If that wasn't enough, their overly aggressive behaviour is a threat to the obedient workers we still have.Our bruisers got their hands full with keeping order around here, so you will be my instrument of justice. Go out and quell their uprising, immediately. Their medallions will do nicely as proof. According to reports, most of the hostile activity originates from the slum up north.",
-    ["Objectives"]="Slay Venture Co. traitors and bring their medallions to Taxxlo Rustgate.",
-    ["Progress"]="I didn't become Supreme Overseer for picking flowers and warbling songs on a meadow. No, my iron grip on maintaining order is what got me this position. And I will not have my authority undermined.",
-    ["Completion"]="Excellent. Swift, merciless, efficient. Keep this up and you'll make it big, trust me. Before you run off - we're not done here just yet.",
+    ["Title"]="Risk Şirketi'ne Karşı Savaş",
+    ["Description"]="Sende potansiyel görüyorum, YOUR_NAME. Buradaki pek çok kişi bunu göstermiyor. Ama aradığım goblin sen olabilirisin. Belki çoktan şahit olmuşsundur ya da sorundan bihabersindir ama buradaki bazı işçilerin... istekliliği konusunda sorunlar yaşıyoruz. Buna grev de, sabotaj da, isyan da de — umurumda değil. Bana para kazandırmak yerine para kaybettiriyorlar ve buna göz yummayacağım. Bu yetmezmiş gibi, aşırı saldırgan davranışları hâlâ elimizde olan itaatkar işçiler için de bir tehdit oluşturuyor. Kabadayılarımızın buralarda düzeni sağlamakla başı epey kalabalık, bu yüzden benim adalet aracım sen olacaksın. Git ve bu ayaklanmayı derhal bastır. Kanıt olarak madalyonları fazlasıyla iş görür. Raporlara göre, düşmanca faaliyetlerin çoğu kuzeydeki varoşlardan kaynaklanıyor.",
+    ["Objectives"]="Risk Şirketi (Venture Co.) hainlerini katlet ve madalyonlarını Taxxlo Paslıkapı'ya (Taxxlo Rustgate) ulaştır.",
+    ["Progress"]="Bir çayırda çiçek toplayıp şarkılar mırıldanarak Baş Denetçi (Supreme Overseer) olmadım. Hayır, düzeni koruma konusundaki demir yumruğum beni bu konuma getirdi. Ve otoritemin sarsılmasına izin vermeyeceğim.",
+    ["Completion"]="Mükemmel. Hızlı, acımasız, verimli. Böyle devam edersen büyük adam olursun, güven bana. Hemen kaçıp gitmeden önce — burada işimiz henüz bitmedi.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end War on Venture Co.
 
 -- War on Worgen
+    -- Gilneas = Gilneas kalmıştır.
+    -- Bloodclaw -> Kancapençe (Blood + claw).
+    -- Deathstalker Vernon -> Ölümtakipçisi Vernon (Death + stalker).
+    -- Stillward Church -> Durgunmuhafız Kilisesi (Still + ward).
+    -- Dark Lady = Karanlık Leydi (Sylvanas).
     ["40976"] = {
-    ["Title"]="War on Worgen",
-    ["Description"]="The worgen of Gilneas are surprisingly well organized for a bunch of beasts. Their packs have caused us quite a lot of headache in spreading our influence.I am in need of someone who can sever the chain of command. An aimless group of worgen will serve us much better in the end. Travel west and search for the cavern where the Bloodclaw alpha call home. Slay them so that their packs cannot organize against us.",
-    ["Objectives"]="Slay 9 Bloodclaw Alpha for Deathstalker Vernon at Stillward Church in Gilneas.",
-    ["Progress"]="I advise you to carry yourself with caution.Your foe is not as weak as you may think.",
-    ["Completion"]="You have done well, with the alphas scattered there will be struggles for dominance. Whatever comes of that is not our concern, however. We have already removed the head of the beast.Your efforts to serve the Dark Lady will not go unnoticed. Take this as a commendation for your work.",
+    ["Title"]="Worgenlere Karşı Savaş",
+    ["Description"]="Gilneas'ın worgenleri bir sürü hayvana göre şaşırtıcı derecede iyi organize olmuş durumdalar. Sürüler, nüfuzumuzu yayma konusunda başımızı epey ağrıttı. Komuta zincirini koparabilecek birine ihtiyacım var. Başıboş bir worgen grubu en nihayetinde işimize çok daha iyi yarayacaktır. Batıya seyahat et ve Kancapençe (Bloodclaw) alfasının mesken edindiği mağarayı ara. Sürülerinin bize karşı organize olamaması için onları katlet.",
+    ["Objectives"]="Gilneas'taki Durgunmuhafız Kilisesi'nde (Stillward Church) bulunan Ölümtakipçisi Vernon (Deathstalker Vernon) için 9 Kancapençe Alfası (Bloodclaw Alpha) katlet.",
+    ["Progress"]="Temkinli hareket etmeni tavsiye ederim. Düşmanın sandığın kadar zayıf değil.",
+    ["Completion"]="İyi iş çıkardın, alfalar dağıldığına göre liderlik için mücadeleler başlayacaktır. Ancak bundan ne çıkacağı bizim itimadımızda değil. Canavarın kafasını çoktan kopardık. Karanlık Leydi'ye (Dark Lady) hizmet etme çabaların karşılıksız kalmayacak. Bunu yaptığın işin bir nişanesi olarak kabul et.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end War on Worgen
 
-
-
 -- With Us or Against Us
+    -- Warug -> Warug kalmıştır.
+    -- Gelkis -> Gelkis kalmıştır.
+    -- Magram -> Magram kalmıştır.
+    -- Magram Village -> Magram Köyü.
+    -- Desolace = Desolace / Kurakdiyar kalmıştır.
     ["40609"] = {
-    ["Title"]="With Us or Against Us",
-    ["Description"]="Hah! Who is this puny YOUR_RACE? You dare speak to Warug?I spit on your words! You come back after you show strength and allegiance. Kill Gelkis until you are soaked with their blood. Only then will you speak to Warug.",
-    ["Objectives"]="Slay Gelkis centaur to prove your allegiance with the Magram, then return to Warug near Magram Village in Desolace.",
-    ["Progress"]="What did I say!",
-    ["Completion"]="You are red. Is that Gelkis blood? You smell of death. Perhaps you can speak with Warug after all.",
+    ["Title"]="Ya Bizimlesin Ya Bize Karşı",
+    ["Description"]="Hah! Kim bu cılız YOUR_RACE? Warug ile konuşmaya nasıl cüret edersin? Sözlerine tüküreyim! Gücünü ve sadakatini gösterdikten sonra geri gelirsin. Onların kanına boğulana kadar Gelkisleri öldür. Ancak o zaman Warug ile konuşabilirsin.",
+    ["Objectives"]="Magramlar ile olan sadakatini kanıtlamak için Gelkis centorlarını katlet, ardından Desolace'taki Magram Köyü'nün (Magram Village) yakınlarında bulunan Warug'a geri dön.",
+    ["Progress"]="Ben ne dedim!",
+    ["Completion"]="Kıpkırmızı olmuşsun. Bu Gelkis kanı mı? Ölüm kokuyorsun. Belki de en nihayetinde Warug ile konuşabilirsin.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end With Us or Against Us
 
 -- Wobble-free Fizz Gear
+    -- Turbocharged Wobble-free Fizz Disk -> Turboşarjlı Sallantısız Fizz Diski (Turbocharged + Wobble-free + Fizz + Disk).
+    -- Fendo -> Fendo kalmıştır.
+    -- Stone Age -> Taş Devri.
     ["40068"] = {
-    ["Title"]="Wobble-free Fizz Gear",
-    ["Description"]="Now that I have everything I needed, I'm going to get to work! I will utilize the Turbocharged Wobble-free Fizz Disk and incorporate it into a few items. It'll take a little bit, so don't be too hurried, but when I'm done, you can choose which one you like most!",
-    ["Objectives"]="Wait for Fendo to finish his work.",
-    ["Progress"]="I'm working on it, not now.",
-    ["Completion"]="There, done! I appreciate all that you've done. Honestly, you've been a huge help to me around here. Without the Turbocharged Wobble-free Fizz Disk, I would be back in the Stone Age! Here, pick which one you like the most for all the trouble.",
+    ["Title"]="Sallantısız Fizz Dişlisi",
+    ["Description"]="İhtiyacım olan her şeye sahip olduğuma göre artık işe koyulabilirim! Turboşarjlı Sallantısız Fizz Diski'ni (Turbocharged Wobble-free Fizz Disk) kullanacağım ve onu birkaç eşyaya entegre edeceğim. Biraz zaman alacak, o yüzden çok acele etme ama işim bittiğinde en çok hangisini beğendiğini seçebilirsin!",
+    ["Objectives"]="Fendo'nun işini bitirmesini bekle.",
+    ["Progress"]="Üzerinde çalışıyorum, şimdi değil.",
+    ["Completion"]="İşte, bitti! Yaptığın her şey için minnettarım. Dürüst olmak gerekirse bana buralarda çok büyük yardımın dokundu. Turboşarjlı Sallantısız Fizz Diski (Turbocharged Wobble-free Fizz Disk) olmasaydı Taş Devri'ne (Stone Age) geri dönerdim! Al bakalım, bunca zahmet karşılığında en çok hangisini beğendiysen onu seç.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Wobble-free Fizz Gear
 
 -- Wolf Amongst Sheep
+    -- Genn -> Genn kalmıştır (Genn Greymane).
+    -- Liam -> Liam, Tess -> Tess.
+    -- Harlows -> Harlowlar.
+    -- Dryrock Mine -> Kuru Kaya Madeni (Dry + rock + Mine).
+    -- Gilneas City -> Gilneas Şehri.
+    -- Liam Greymane -> Liam Bozyele (Grey + mane).
     ["40948"] = {
-    ["Title"]="Wolf Amongst Sheep",
-    ["Description"]="Tell me: what is the essence of a nation, the heart of a country, the will of a people? Is it the lands themselves? The rule of law? The economy? No, undoubtedly, it's none of these things. The essence of a nation is found in its tradition, history, legacy, determination, willpower.We must steel ourselves for the worst, as the entirety of our people wishes to free our king and place him on the throne once more, But what happens if he is not capable of doing so? After the death of the queen, Genn thought it best to send his children away. We only heard about it months later, but it seems that both Liam and Tess are now prisoners of the Harlows.We believe Liam is captive in the Dryrock Mine deep under Gilneas City to the west. He is the heir of this country, and so he must bleed with his people in order to liberate it.",
-    ["Objectives"]="Find Liam Greymane.",
-    ["Progress"]="Yes?",
-    ["Completion"]="I have not been forgotten, it seems.To you I say: well met, one from beyond the wall. I have imagined this encounter several times in my head only to be at a loss for words now. You are here to free me, no?",
+    ["Title"]="Koyunlar Arasındaki Kurt",
+    ["Description"]="Söyle bana: Bir ulusun özü, bir ülkenin kalbi, bir halkın iradesi nedir? Toprakların kendisi mi? Hukukun üstünlüğü mü? Ekonomi mi? Hayır, şüphesiz bunlardan hiçbiri değil. Bir ulusun özü geleneklerinde, tarihinde, mirasında, azminde ve iradesinde bulunur. En kötüsüne kendimizi hazırlamalıyız, çünkü halkımızın tamamı kralımızı kurtarmak ve onu bir kez daha tahta oturtmak istiyor. Ama ya bunu yapabilecek durumda değilse? Kraliçenin ölümünden sonra Genn, çocuklarını uzaklaştırmanın en iyisi olacağını düşündü. Bunu ancak aylar sonra duyduk ama görünüşe göre hem Liam hem de Tess artık Harlowların esiri. Liam'ın batıda, Gilneas Şehri'nin (Gilneas City) derinliklerindeki Kuru Kaya Madeni'nde (Dryrock Mine) esir tutulduğuna inanıyoruz. O bu ülkenin veliahtıdır ve bu yüzden ülkeyi özgürleştirmek adına halkıyla birlikte kan dökmelidir.",
+    ["Objectives"]="Liam Bozyele'yi (Liam Greymane) bul.",
+    ["Progress"]="Evet?",
+    ["Completion"]="Görünüşe göre unutulmamışım. Sana şunu söyleyeyim: Duvarın ötesinden gelen kişi, hoş geldin. Kafamda bu karşılaşmayı defalarca hayal ettim ama şimdi söyleyecek söz bulamıyorum. Beni kurtarmak için buradasın, değil mi?",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Wolf Amongst Sheep
 
 -- Wolfblood
+    -- morrowgrain -> yarınbuğdayı / morrowgrain kalmıştır (Genelde morrowgrain denir).
+    -- Arch Druid Fandral Staghelm = Baş Druid Fandral Alageyikmiğferi (Stag + helm).
+    -- Elune = Elune.
+    -- moonwells = ay kuyuları / moonwell (Moon + well).
+    -- Dreamwind -> Düşrüzgârı (Dream + wind).
+    -- Nordanaar -> Nordanaar kalmıştır.
+    -- Hyjal = Hyjal.
+    -- Scythe -> Tırpan (Scythe of Elune kastediliyor).
+    -- Pure Worgen Blood -> Saf Worgen Kanı.
     ["41379"] = {
-    ["Title"]="Wolfblood",
-    ["Description"]="I was right, as always. Thanks to the morrowgrain, I have successfully purged the darkness from the worgen blood you gathered. Now, witness!<Arch Druid Fandral Staghelm extends his hand, displaying a vial of pure, blue blood.>This may not seem like much to you, but what you see before you is a testament not only to the strength of their bloodline but also to their connection to Elune. Look closer. Do you notice it in their blood?Indeed. As pure as the waters of our moonwells. That's what they were before blood magic tainted their species. Bring this to Dreamwind at once. He will know what to do next.And, should you ever find the burden of wielding the Scythe too much for your weary shoulders... you know where to find me.",
-    ["Objectives"]="Bring Pure Worgen Blood to Arch Druid Dreamwind at Nordanaar in Hyjal.",
-    ["Progress"]="You've returned.",
-    ["Completion"]="Pure worgen blood, just like Ur described... Yes, this will be very useful. But now listen, as I have much to share.",
+    ["Title"]="Kurt Kanı",
+    ["Description"]="Her zaman olduğu gibi yine haklıydım. Morrowgrain sayesinde, topladığın worgen kanındaki karanlığı başarıyla arındırdım. Şimdi şahit ol! <Baş Druid Fandral Alageyikmiğferi elini uzatarak saf, mavi kanla dolu bir tüp gösterir.> Bu sana pek bir şey gibi görünmeyebilir ama önünde gördüğün şey sadece soylarının gücünün değil, aynı zamanda Elune ile olan bağlarının da bir kanıtıdır. Daha yakından bak. Kanlarında bunu fark ettin mi? Gerçekten de öyle. Ay kuyularımızın (moonwells) suları kadar saf. Kara büyü türlerini leülemeden önce böyleydiler. Bunu hemen Düşrüzgârı'na (Dreamwind) götür. Sonrasında ne yapacağını o bilecektir. Ve eğer o Tırpan'ı (Scythe) taşımak yorgun omuzlarına bir gün fazla ağır gelecek olursa... beni nerede bulacağını biliyorsun.",
+    ["Objectives"]="Saf Worgen Kanı'nı (Pure Worgen Blood) Hyjal'daki Nordanaar'da (Nordanaar) bulunan Baş Druid Düşrüzgârı'na ulaştır.",
+    ["Progress"]="Geri döndün.",
+    ["Completion"]="Saf worgen kanı, tıpkı Ur'un tarif ettiği gibi... Evet, bu çok işe yarayacak. Ama şimdi dinle, çünkü paylaşacak çok şeyim var.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Wolfblood
 
 -- Wolfblood
+    -- Magatha Grimtotem -> Magatha Zalimtotem.
+    -- Mu'sha -> Mu'sha (Tauren mitolojisinde Ay tanrıçası/Elune).
+    -- Cenarion Circle = Cenarion Çemberi (Cenarion + Circle).
     ["41382"] = {
-    ["Title"]="Wolfblood",
-    ["Description"]="Whatever Fandral's lackeys are planning with morrowgrain must be truly extraordinary... But I digress. The blood has indeed been cleansed. Here, take a look, child.<Magatha Grimtotem extends her hand, displaying a vial of pure, blue blood.>Pure as the waters of the moonwell, shining like the stars themselves. Before whatever horrible fate befell these worgen, they were the favorite children of Mu'sha, no doubt.Bring this back to Dreamwind at once. He will want to know.And keep the Scythe close. Some members of the Cenarion Circle may not be so pleased that it is in your hands.",
-    ["Objectives"]="Bring Pure Worgen Blood to Arch Druid Dreamwind in Nordanaar.",
-    ["Progress"]="You've returned.",
-    ["Completion"]="Pure worgen blood, just like Ur described. Yes, this will be very useful. They were once the favourite children of Elune, and to have their uncorrupted blood... It will be the key during the ritual...  But now listen, as I have much to share.",
+    ["Title"]="Kurt Kanı",
+    ["Description"]="Fandral'ın yardakçılarının morrowgrain ile ne planladıkları gerçekten sıra dışı olmalı... Ama konudan sapmayayım. Kan gerçekten de temizlendi. Al, bir bak çocuk. <Magatha Zalimtotem elini uzatarak saf, mavi kanla dolu bir tüp gösterir.> Ay kuyusunun (moonwell) suları kadar saf, yıldızların kendisi gibi parlıyor. Bu worgenlerin başına her ne korkunç kader geldiyse, ondan önce Mu'sha'nın en sevgili çocukları olduklarına şüphe yok. Bunu hemen Düşrüzgârı'na (Dreamwind) geri götür. Bilmek isteyecektir. And Tırpan'ı (Scythe) yakınında tut. Cenarion Çemberi'nin (Cenarion Circle) bazı üyeleri onun senin ellerinde olmasından pek memnun olmayabilir.",
+    ["Objectives"]="Saf Worgen Kanı'nı Baş Druid Düşrüzgârı'na (Arch Druid Dreamwind) Nordanaar'a ulaştır.",
+    ["Progress"]="Geri döndün.",
+    ["Completion"]="Saf worgen kanı, tıpkı Ur'un tarif ettiği gibi. Evet, bu çok işe yarayacak. Bir zamanlar Elune'un en gözde çocuklarıydılar ve onların yozlaşmamış kanına sahip olmak... Ritüel sırasında kilit rol oynayacak... Ama şimdi dinle, çünkü paylaşacak çok şeyim var.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Wolfblood
 
 -- Woodpaw Disarray
+    -- Woodpaw Gnolls -> Odunpençe Gnolları (Wood + paw).
+    -- Thalanaar -> Thalanaar kalmıştır.
+    -- Woodpaw Hills -> Odunpençe Tepeleri (Wood + paw + Hills).
+    -- Commander Anashya Starfall -> Komutan Anashya Yıldızdüşüşü (Star + fall).
+    -- Feralas = Feralas.
+    -- Shandris -> Shandris kalmıştır (Shandris Feathermoon).
     ["41040"] = {
-    ["Title"]="Woodpaw Disarray",
-    ["Description"]="The Woodpaw Gnolls threaten our sacred lands, preying upon our caravans and scouts. We cannot allow them to grow in strength and orchestrate an assault on Thalanaar. The time to strike is now.Your mission is clear: eradicate the Woodpaw threat before it escalates further. Seek out their camp in the treacherous Woodpaw Hills, easily traced by their noxious odor.Slay ten trappers and mongrels, vanquish eight reavers, and bring down six alphas. This decisive blow will plunge them into disarray, buying us valuable respite.",
-    ["Objectives"]="Slay 10 Woodpaw Trappers, 10 Woodpaw Mongrels, 8 Woodpaw Reavers and 6 Woodpaw Alphas for Commander Anashya Starfall at Thalanaar in Feralas.",
-    ["Progress"]="This makes me wonder... have the gnolls always been there?",
-    ["Completion"]="Swift and decisive, you have accomplished the task with remarkable efficiency. Your prowess in action speaks volumes, outsider. Your discernment in recognizing the importance of swift action and your aversion to idle chit-chat sets you apart. It is a trait we value greatly among our ranks. There are those, like Shandris, who may hesitate until the eleventh hour, and then... But let us not dwell on such matters for now.",
+    ["Title"]="Odunpençe Kargaşası",
+    ["Description"]="Odunpençe Gnolları (The Woodpaw Gnolls) kutsal topraklarımızı tehdit ediyor, kervanlarımızı ve gözcülerimizi avlıyor. Güçlenmelerine ve Thalanaar'a (Thalanaar) bir saldırı planlamalarına izin veremeyiz. Vurma zamanı geldi. Görevin açık: Odunpençe tehdidini daha fazla büyümeden ortadan kaldırmak. Tehlikeli Odunpençe Tepeleri'ndeki (Woodpaw Hills) kamplarını ara, çıkardıkları o iğrenç kokudan yollarını kolayca bulabilirsin. On tuzakçı ve kırma köpeği katlet, sekiz akıncıyı alt et ve altı alfayı yere ser. Bu belirleyici darbe onları kargaşaya sürükleyecek ve bize değerli bir soluklanma süresi kazandıracak.",
+    ["Objectives"]="Feralas'taki Thalanaar'da (Thalanaar) bulunan Komutan Anashya Yıldızdüşüşü (Commander Anashya Starfall) için 10 Odunpençe Tuzakçısı, 10 Odunpençe Kırma Köpeği, 8 Odunpençe Akıncısı ve 6 Odunpençe Alfası katlet.",
+    ["Progress"]="Bu beni düşündürüyor... gnollar her zaman orada mıydı?",
+    ["Completion"]="Hızlı ve kararlı, görevi olağanüstü bir verimlilikle tamamladın. Eylemlerindeki başarın çok şey anlatıyor, yabancı. Hızlı hareket etmenin önemini kavramadaki basiretin ve boş laftan kaçınman seni farklı kılıyor. Bu, saflarımızda çok değer verdiğimiz bir özelliktir. Shandris gibi son ana kadar tereddüt eden ve sonra... Ama şimdilik bu tür meseleler üzerinde durmayalım.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Woodpaw Disarray
 
 -- Words of Wisdom
+    -- Shan'do = Shan'do (Darnassian dilinde "Yüce Öğretmen").
+    -- Hippogryph Masters -> Hipogrif Süvarileri / Hipogrif Ustaları.
+    -- Caylais -> Caylais, Fyldren -> Fyldren.
+    -- Rut'theran Village -> Rut'theran Köyü.
+    -- Astranaar = Astranaar.
+    -- Nijel's Point = Nijel Karakolu (Nijel's + Point).
+    -- Teloren -> Teloren kalmıştır.
+    -- Stonetalon Peak = Taşpençe Zirvesi (Stone + talon + Peak).
     ["40799"] = {
-    ["Title"]="Words of Wisdom",
-    ["Description"]="They still aren't responding to me! How is it my siblings make it look so simple? How very infuriating!<Her ears prick and she bares her fangs when she fails to summon one of the fledglings to her side.>My Shan'do would tell me to set aside my pride, I'm sure of it. His was always the way of patience. I implore you, YOUR_NAME, seek out Hippogryph Masters and request their counsel on these willful children. Spare no detail of my struggles, as much as it pains me to admit that I am in need of their aid.Wait! Do not speak to Caylais or Fyldren! I cannot accept what could only be seen as preferential treatment.I would urge you to travel to Rut'theran Village and Astranaar, and I believe I received correspondence from Nijel's Point once, wherever that may be. Teloren on Stonetalon Peak I am certain would help me in this, but be mindful of his... tendency to ramble.",
-    ["Objectives"]="Seek out Kaldorei Hippogryph Masters and request their counsel.",
-    ["Progress"]="I hope you come bearing word from the masters, YOUR_NAME.",
-    ["Completion"]="<She listens in quiet contemplation as you relate the masters' advice, meditating on the words for minutes.>Wait... Teloren said what??<Her face flushes with embarrassment.>",
+    ["Title"]="Bilgelik Sözleri",
+    ["Description"]="Hâlâ bana yanıt vermiyorlar! Kardeşlerim bunu nasıl bu kadar basitmiş gibi gösterebiliyor? Ne kadar sinir bozucu! <Yavrulardan birini yanına çağırmayı başaramayınca kulaklarını diker ve dişlerini gösterir.> Shan'do'm bana gururumu bir kenara bırakmamı söylerdi, bundan eminim. Onun yöntemi her zaman sabırdı. Senden rica ediyorum YOUR_NAME, Hipogrif Ustalarını (Hippogryph Masters) bul ve bu dikbaşlı çocuklar hakkında tavsiyelerini iste. Çektiğim zorlukların hiçbir detayını atlama, her ne kadar onların yardımına ihtiyacım olduğunu itiraf etmek canımı yaksa da. Bekle! Caylais veya Fyldren ile konuşma! Ayrıcalıklı muamele olarak görülebilecek bir şeyi kabul edemem. Rut'theran Köyü'ne (Rut'theran Village) ve Astranaar'a (Astranaar) gitmeni tavsiye ederim, ayrıca bir keresinde Nijel Karakolu'ndan (Nijel's Point) da bir mektup almıştım, her neresiyse. Taşpençe Zirvesi'ndeki (Stonetalon Peak) Teloren'in bu konuda bana kesinlikle yardım edeceğine eminim ama onun... konuyu uzatıp durma eğilimine karşı dikkatli ol.",
+    ["Objectives"]="Kaldorei Hipogrif Ustalarını (Hippogryph Masters) bul ve tavsiyelerini iste.",
+    ["Progress"]="Umarım ustalardan bir haberle geliyorsundur, YOUR_NAME.",
+    ["Completion"]="<Ustaların tavsiyelerini aktarırken sessizce düşüncelere dalar, sözler üzerine dakikalarca derin derin düşünür.> Bir dakika... Teloren ne dedi?? <Utançtan yüzü kızarır.>",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Words of Wisdom
 
 -- Work Overdue
+    -- Technician Stormlight -> Teknisyen Fırtınaışığı (Storm + light).
+    -- Reclamation Facility -> Geri Kazanım Tesisi (Reclamation + Facility).
+    -- Gnomeregan Reclamation Facility -> Gnomeregan Geri Kazanım Tesisi.
+    -- Dun Morogh = Dun Morogh.
+    -- access terminal -> erişim terminali.
     ["40858"] = {
-    ["Title"]="Work Overdue",
-    ["Description"]="You wouldn't happen to have seen Technician Stormlight around have you? Small stature, bald, brown goatee?I've been waiting for an access terminal repair for practically a full day now, and I need his work done before we can continue our procedures. If you could, find him and tell him to hurry it up. He should still be inside the Reclamation Facility.",
-    ["Objectives"]="Find Technician Stormlight within the Gnomeregan Reclamation Facility in Dun Morogh.",
-    ["Progress"]="Yes?",
-    ["Completion"]="Can't you see that I am busy here? I am trying to get this access terminal operational with subpar tools and inadequate materials! It's proving to be quite a challenge, even for a gnome of my skill.Say, you wouldn't mind helping me out, would you?",
+    ["Title"]="Vakti Geçmiş İş",
+    ["Description"]="Buralarda Teknisyen Fırtınaışığı'nı (Technician Stormlight) görmüş olamazsın, değil mi? Kısa boylu, kel, kahverengi top sakallı? Neredeyse tam bir gündür bir erişim terminali onarımı bekliyorum ve prosedürlerimize devam edebilmemiz için onun işini bitirmesi gerekiyor. Eğer yapabilirsen, onu bul ve acele etmesini söyle. Hâlâ Geri Kazanım Tesisi'nin (Reclamation Facility) içinde olmalı.",
+    ["Objectives"]="Dun Morogh'daki (Dun Morogh) Gnomeregan Geri Kazanım Tesisi'nin (Gnomeregan Reclamation Facility) içinde Teknisyen Fırtınaışığı'nı (Technician Stormlight) bul.",
+    ["Progress"]="Evet?",
+    ["Completion"]="Burada meşgul olduğumu görmüyor musun? Standartların altındaki aletlerle ve yetersiz malzemelerle bu erişim terminalini çalışır hale getirmeye çalışıyorum! Benim gibi yetenekli bir gnom için bile epey zorlu bir iş olduğu aşikar. De bak hissen, bana yardım etmekten çekinmezdin, değil mi?",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Work Overdue
 
 -- Workplace Hazard
+    -- Blackstone -> Karataş (Black + stone).
+    -- mining robots -> maden robotları, Mine-Bots -> Maden Botları.
+    -- Technician Reyvo -> Teknisyen Reyvo kalmıştır.
+    -- Rustgate Ridge -> Paslıkapı Sırtı (Rust + gate + Ridge).
+    -- Blackstone Island -> Karataş Adası (Blackstone + Island).
+    -- Taxxlo -> Taxxlo kalmıştır (Taxxlo Rustgate).
+    -- Black Ash Mine -> Kara Kül Madeni (Black + Ash + Mine).
     ["41174"] = {
-    ["Title"]="Workplace Hazard",
-    ["Description"]="The state of Blackstone is much worse than I had anticipated. When I first was asked to come to this island and produce some mining robots to help with the workload, I was more than happy to see the progress here.What I found instead was a hostile work environment and not even enough materials to do a good enough job for my contract. Now I'm stuck here, held hostage until I get the problem sorted out. You see, I was given terrible materials to work with and as the copper wires decayed, so too did my Mine-Bots. Now they just wander aimlessly around the island.Do you think you could do me a massive favor? Find those malfunctioning Mine-Bots and destroy them for me. Apparently, they are causing a workplace hazard. You should be able to find them around the island, but most were sent to work at the Black Ash Mine to the north of here.",
-    ["Objectives"]="Slay 8 Malfunctioning Mine-Bots for Technician Reyvo at Rustgate Ridge on Blackstone Island.",
-    ["Progress"]="If Taxxlo and his goons had given me proper materials, this wouldn't even be an issue in the first place!",
-    ["Completion"]="Finally some good news! Now I can get off this gold-forsaken rock and get back to what I was meant to.You've really helped me out here. Take these. They should help you navigate this horrid place.",
+    ["Title"]="İşyeri Tehlikesi",
+    ["Description"]="Karataş'ın (Blackstone) durumu tahmin ettiğimden çok daha kötü. Bu adaya gelip iş yüküne yardımcı olması için bazı maden robotları üretmem ilk istendiğinde, buradaki ilerlemeyi görmekten fazlasıyla mutlu olmuştum. Bunun yerine bulduğum şey düşmanca bir çalışma ortamı ve sözleşmem için yeterince iyi bir iş çıkaracak kadar malzeme bile olmamasıydı. Şimdi burada sıkışıp kaldım, sorunu çözene kadar rehin tutuluyorum. Anlarsın ya, çalışmam için bana berbat malzemeler verildi ve bakır teller çürüdükçe, Maden Botlarım da (Mine-Bots) çöktü. Şimdi adanın etrafında başıboş geziniyorlar. Bana çok büyük bir iyilik yapabileceğini düşünüyor musun? O arızalı Maden Botlarını bul ve benim için yok et. Görünüşe göre bir işyeri tehlikesine yol açıyorlar. Onları adanın etrafında bulabilirsin ama çoğu buranın kuzeyindeki Kara Kül Madeni'nde (Black Ash Mine) çalışmaya gönderilmişti.",
+    ["Objectives"]="Karataş Adası'ndaki (Blackstone Island) Paslıkapı Sırtı'nda (Rustgate Ridge) bulunan Teknisyen Reyvo (Technician Reyvo) için 8 Arızalı Maden Botu (Malfunctioning Mine-Bots) katlet.",
+    ["Progress"]="Eğer Taxxlo ve adamları bana düzgün malzemeler verseydi, bu en başta bir sorun bile olmazdı!",
+    ["Completion"]="Sonunda güzel bir haber! Artık bu lanet olası kayadan kurtulabilir ve ait olduğum yere geri dönebilirim. Bana burada gerçekten çok yardımcı oldun. Bunları al. Bu berbat yerde yolunu bulmana yardım edeceklerdir.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Workplace Hazard
 
 -- Wrapping Warpwood
+    -- Prince Tortheldrin -> Prens Tortheldrin kalmıştır.
+    -- Lorekeepers -> Bilgikurucuları / İlimmuhafızları (Lore + keepers).
+    -- Eldre'thalas = Eldre'thalas kalmıştır (Dire Maul'un elfler arasındaki adı).
+    -- Warpwood Quarter -> Eğrikoruluk Bölgesi (Warp + wood + Quarter).
+    -- Treants -> Treantlar / Ağaçadamlar (Yaratık türü).
+    -- Lorekeeper Lydros -> İlimmuhafızı Lydros.
     ["41376"] = {
-    ["Title"]="Wrapping Warpwood",
-    ["Description"]="I do recognize this journal. It is something I used to keep for Prince Tortheldrin. We used to meet and discuss various things, not just he and I but most of the Lorekeepers. Eldre'thalas was a place of knowledge. Sadly it is nothing but a shadow of what it used to be. I appreciate you bringing this back.If you have the time, I have a request. Upon examining this tome, I have discovered an incomplete glyph carved upon the final page. As we never concluded our research, I must ask of you to travel to the Warpwood Quarter and defeat the tainted Treants that roam the area. With any luck, they may still carry upon their foliage the blue color that once adorned them. If you bring to me these leaves, I will reward you with the results of our investigation.",
-    ["Objectives"]="Bring 5 Blue Leaves to Lorekeeper Lydros",
-    ["Progress"]="A certain nostalgia flows through my bones.",
-    ["Completion"]="And there we have it, with the glyph complete it can now be used. As to whether you choose to or not, remains up to you.",
+    ["Title"]="Eğrikoruluk'u Sarmak",
+    ["Description"]="Bu günlüğü hatırlıyorum. Prens Tortheldrin için tuttuğum bir şeydi. Sadece o ve ben değil, İlimmuhafızlarının (Lorekeepers) çoğu bir araya gelir ve çeşitli şeyleri tartışırdık. Eldre'thalas bir bilgi yeriydi. Ne yazık ki şimdi eski halinin gölgesinden başka bir şey değil. Bunu geri getirdiğin için minnettarım. Eğer vaktin varsa, bir ricam olacak. Bu kitabı incelerken son sayfaya kazınmış tamamlanmamış bir glif keşfettim. Araştırmamızı hiçbir zaman sonuçlandırmadığımız için, Eğrikoruluk Bölgesi'ne (Warpwood Quarter) gitmeni ve bölgede gezinen yozlaşmış Treantları alt etmeni istemek zorundayım. Şansımız varsa, yapraklarında bir zamanlar kendilerini süsleyen mavi rengi hâlâ taşıyor olabilirler. Eğer bu yaprakları bana getirirsen, seni araştırmamızın sonuçlarıyla ödüllendireceğim.",
+    ["Objectives"]="İlimmuhafızı Lydros'a (Lorekeeper Lydros) 5 Mavi Yaprak getir.",
+    ["Progress"]="Kemiklerimde belli bir nostalji akıyor.",
+    ["Completion"]="Ve işte oldu, glif tamamlandığına göre artık kullanılabilir. Bunu yapmayı seçip seçmemek ise tamamen sana kalmış.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Wrapping Warpwood
 
 -- Wrists of Might
+    -- Geldra -> Geldra kalmıştır (NPC ismi).
+    -- Might -> Kudret (Kastettiği Might set parçası).
     ["41445"] = {
-    ["Title"]="Wrists of Might",
-    ["Description"]="You wear the guise of Might, YOUR_CLASS. I can see the rage in your eyes, yet it seems rather dim. Perhaps the one you carry is not suited for the tasks you are willing to perform.<Geldra hums for a few seconds.>Hand it here and tell me, which mighty weapon do you wield?",
-    ["Objectives"]="Trade in your current item for the item that best suits your needs.",
-    ["Progress"]="Choose carefully, your decision is final.",
-    ["Completion"]="All shall behold your mighty rage–you are ready.",
+    ["Title"]="Kudret Bileklikleri",
+    ["Description"]="Kudret'in (Might) kisvesini taşıyorsun, YOUR_CLASS. Gözlerindeki öfkeyi görebiliyorum ama oldukça sönük görünüyor. Belki de taşıdığın şey, gerçekleştirmek istediğin görevlere uygun değildir. <Geldra birkaç saniye mırıldanır.> Onu buraya uzat ve bana söyle, hangi kudretli silahı kuşanıyorsun?",
+    ["Objectives"]="Mevcut eşyanı ihtiyaçlarına en uygun olan eşyayla takas et.",
+    ["Progress"]="Dikkatli seç, kararından geri dönüş yoktur.",
+    ["Completion"]="Herkes senin o muazzam öfkeni görecek – artık hazırsın.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Wrists of Might
 
 -- Wrists of Prophecy
+    -- Prophecy -> Kehanet (Prophecy set parçası).
+    -- Melus -> Melus kalmıştır (NPC ismi).
     ["41462"] = {
-    ["Title"]="Wrists of Prophecy",
-    ["Description"]="You don the garments of Prophecy, YOUR_CLASS. I can feel its light, yet it seems rather dim. Perhaps the ones you carry are not suited for the tasks you are willing to perform.<Melus hums for a few seconds.>Hand it here and tell me, is it the shadows you seek?",
-    ["Objectives"]="Trade in your current item for the item that best suits your needs.",
-    ["Progress"]="These garments seem to suit your true nature far better. Be mindful of the power you possess, YOUR_CLASS.",
-    ["Completion"]="Choose carefully, your decision is final.",
+    ["Title"]="Kehanet Bileklikleri",
+    ["Description"]="Kehanet'in (Prophecy) giysilerini kuşanmışsın, YOUR_CLASS. Onun ışığını hissedebiliyorum ama oldukça sönük görünüyor. Belki de taşıdıkların, gerçekleştirmek istediğin görevlere uygun değildir. <Melus birkaç saniye mırıldanır.> Onu buraya uzat ve bana söyle, aradığın şey gölgeler mi?",
+    ["Objectives"]="Mevcut eşyanı ihtiyaçlarına en uygun olan eşyayla takas et.",
+    ["Progress"]="Bu giysiler senin asıl doğana çok daha iyi uyuyor gibi görünüyor. Sahip olduğun güce dikkat et, YOUR_CLASS.",
+    ["Completion"]="Dikkatli seç, kararından geri dönüş yoktur.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Wrists of Prophecy
 
 -- Yet Another Smoke Cloud Above Orgrimmar
+    -- Orgrimmar = Orgrimmar kalmıştır.
+    -- coin connoisseurs -> sikke uzmanları / zengin gurmeler.
+    -- Undermine -> Yerinaltı (Undermine - Goblin şehri).
+    -- hookahs -> nargileler.
+    -- Ratchet = Dişliçark (Ratchet).
+    -- Innkeeper Wiley -> Hancı Wiley kalmıştır.
+    -- Quark's cargo -> Quark'ın kargosu.
     ["80307"] = {
-    ["Title"]="Yet Another Smoke Cloud Above Orgrimmar",
-    ["Description"]="Enjoying yourself, boss?Good, good. Now, you see, that was a free trial. Doesn't really matter to me if you won or not, but I did say ‘coin connoisseurs', so you really gotta pay a membership fee.Hey, hey, where're you goin' man? Come on, don't be like that. I might be willing to give you a membership card if you repay me with some favors.See, I ordered some new goods from the Undermine for our hookahs. This cargo is very important and valuable. I will throw in some coins, too, which you are more than welcome to keep spending in my bar, if you go and fetch my goods for me. Now, the cargo should arrive at Ratchet right around today, so if you'd get a move on, I'd really appreciate it.",
-    ["Objectives"]="Speak to Innkeeper Wiley about Quark's cargo.",
-    ["Progress"]="I'm running really low on my supplies, here, YOUR_NAME. Could seriously use that cargo right about now!",
-    ["Completion"]="Quark's tobacco?We might have a problem.Wait! No reason to be aggressive. Listen.<Wiley throws in a few coins to dissuade you from violence with quivering little hands.>",
+    ["Title"]="Orgrimmar Üzerinde Bir Başka Duman Bulutu",
+    ["Description"]="Keyifler yerinde mi, patron? Güzel, güzel. Şimdi bak, o ücretsiz bir denemeydi. Kazandın mı kaybettin mi benim için pek önemli değil ama 'sikke gurmeleri' demiştim, yani gerçekten bir üyelik ücreti ödemen gerekiyor. Hey, hey, nereye gidiyorsun dostum? Hadi ama, böyle yapma. Eğer beni birkaç iyilikle ödüllendirirsen sana bir üyelik kartı vermeye razı olabilirim. Bak, nargilelerimiz (hookahs) için Yerinaltı'ndan (Undermine) yeni mallar sipariş ettim. Bu kargo çok önemli ve değerli. Eğer gidip benim için mallarımı getirirsen, barımda harcamaya devam etmekte tamamen özgür olacağın birkaç madeni para da ateşlerim. Kargonun tam bugünlerde Dişliçark'a (Ratchet) varmış olması gerekiyor, o yüzden elini çabuk tutarsan gerçekten çok memnun olurum.",
+    ["Objectives"]="Quark'ın kargosu hakkında Hancı Wiley (Innkeeper Wiley) ile konuş.",
+    ["Progress"]="Burada stoklarım gerçekten çok azaldı, YOUR_NAME. Şu kargoyu tam şu anda alabilmek gerçekten çok iyi olurdu!",
+    ["Completion"]="Quark'ın tütünü mü? Bir sorunumuz olabilir. Bekle! Saldırganlaşmaya gerek yok. Dinle. <Wiley titreyen küçük elleriyle seni şiddetten caydırmak için ortaya birkaç madeni para fırlatır.>",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Yet Another Smoke Cloud Above Orgrimmar
 
 -- Yoke of the Dragon Queen
+    -- Dragon Queen -> Ejderha Kraliçesi (Alexstrasza).
+    -- Zuluhed, Chieftain of the Dragonmaw Clan -> Ejderhaağzı Klanı Reisi Zuluhed (Dragon + maw).
+    -- Demon Soul = İblis Ruhu (Demon + Soul).
+    -- Nekros Skullcrusher -> Nekros Kafatasıezici (Skull + crusher).
+    -- Aspect of the Red Dragonflight = Kırmızı Ejderha Sürüsü Hamisi (Aspect).
+    -- Red Dragonflight = Kırmızı Ejderha Sürüsü.
+    -- Wetlands = Sulakalanlar (Wetlands).
+    -- Nydiszanz -> Nydiszanz kalmıştır (Ejderha ismi).
     ["41785"] = {
-    ["Title"]="Yoke of the Dragon Queen",
-    ["Description"]="<In your hands is the glimmering shard formerly held by Zuluhed, Chieftain of the Dragonmaw Clan. Looking at his lifeless body, you remember just what he was able to accomplish with the relic that is now in your possession: A piece of the Demon Soul, the legendary artifact used by Nekros Skullcrusher to enslave the Dragon Queen Alexstrasza, the Aspect of the Red Dragonflight. Still brimming with power bestowed upon it long ago, you contemplate on what to do with it. Perhaps you’ll be able to find a member of the Red Dragonflight willing to speak with you about this dangerous implement.>",
-    ["Objectives"]="Search the Wetlands for a red dragon willing to hear you out.",
-    ["Progress"]="This aura...! It cannot be!",
-    ["Completion"]="<Nydiszanz recoils and hisses in pain at the sight of the Demon Soul shard. Just being near it causes a visceral reaction by him.>Impossible, you retrieved it and dare bring it to us?! I don’t know if you are reckless, cruel, gullible or all of the above. But... you being here... with it... It means the Dragonmaw are no more. Their warchief returned to the cycle, their machinations thwarted. And the Demon Soul returned to us. Even through all its taint, I can sense the Queen’s benevolence somewhere hidden within, reaching out...YOUR_NAME, hand me the shard and I will deliver it to our Queen. Only she is capable of destroying the last remnants from this dark hour of our past. For you, I present these. A just reward for your sacrifice in stopping the Dragonmaw and ending the terror of the Demon Soul. Use it well, mortal.",
+    ["Title"]="Ejderha Kraliçesi'nin Boyunduruğu",
+    ["Description"]="<Ellerinde, Ejderhaağzı Klanı Reisi Zuluhed'in (Zuluhed, Chieftain of the Dragonmaw Clan) daha önce elinde tuttuğu parıldayan şarapnel parçası duruyor. Onun cansız bedenine bakarken, şu anda senin mülkiyetinde olan kalıntıyla neleri başarabildiğini hatırlıyorsun: Kırmızı Ejderha Sürüsü Hamisi (Aspect of the Red Dragonflight) Ejderha Kraliçesi Alexstrasza'yı köleleştirmek için Nekros Kafatasıezici (Nekros Skullcrusher) tarafından kullanılan efsanevi eser İblis Ruhu'nun (Demon Soul) bir parçası. Hâlâ çok uzun zaman önce kendisine bahşedilen güçle dolup taşarken, onunla ne yapacağını düşünüyorsun. Belki de bu tehlikeli araç hakkında seninle konuşmaya istekli bir Kırmızı Ejderha Sürüsü üyesi bulabilirsin.>",
+    ["Objectives"]="Sulakalanlar'da (Wetlands) seni dinlemeye istekli kırmızı bir ejderha ara.",
+    ["Progress"]="Bu aura...! Bu olamaz!",
+    ["Completion"]="<Nydiszanz, İblis Ruhu (Demon Soul) parçasını görünce acıyla geriler ve tıslar. Sadece yakınında olmak bile onda içgüdüsel bir tepkiye neden olur.> İmkânsız, onu geri aldın ve bize getirmeye mi cüret ediyorsun?! Tedbirsiz mi, zalim mi, saf mı yoksa hepsinin birleşimi misin bilmiyorum. Ama... senin burada... onunla olman... Ejderhaağzı klanının artık yok olduğu anlamına geliyor. Savaş reisleri döngüye geri döndü, planları boşa çıkarıldı. Ve İblis Ruhu (Demon Soul) bize geri döndü. Tüm yozlaşmışlığına rağmen, Kraliçe'nin merhametinin bir yerlerde gizlendiğini, bize doğru uzandığını hissedebiliyorum... YOUR_NAME, parçayı bana teslim et, ben de onu Kraliçemize ulaştırayım. Geçmişimizin bu karanlık döneminden kalan son kalıntıları yalnızca o yok edebilir. Senin için bunları sunuyorum. Ejderhaağzı klanını durdurmak ve İblis Ruhu'nun (Demon Soul) dehşetine son vermek uğruna yaptığın fedakarlığın haklı bir ödülü. Onu iyi kullan, ölümlü.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Yoke of the Dragon Queen
 
 -- Yor'thegg's Ritual
+    -- Yor'thegg the Wise -> Bilge Yor'thegg.
+    -- Dragonmaw Flamebinders -> Ejderhaağzı Alevbağlayanları (Dragon + maw -> Ejderhaağzı[cite: 1], Flame + binders).
+    -- Grim Reaches -> Acımasız Menziller (Grim + Reaches).
+    -- Elder Stonehide Boars -> Yaşlı Taşderi Domuzları (Elder + Stone + hide).
+    -- Ornate Feathers -> Slemeli Tüyler, Binding Flame -> Bağlayıcı Alev, Pristine Stonehide Heart -> Kusursuz Taşderi Kalbi.
     ["41738"] = {
-    ["Title"]="Yor'thegg's Ritual",
-    ["Description"]="The situation is as I feared, the land is corrupt, and in a state of turmoil. I will need to commune with the elements at haste.This ritual will require local, natural materials to conduct. First, I require five Ornate Feathers from the nearby thrashers. Three Binding Flame from the Dragonmaw Flamebinders to the northwest. And finally, I require a single pristine Stonehide Heart from the Elder Stonehide Boars. Gather all of these materials, and return to me.",
-    ["Objectives"]="Gather 5 Ornate Feathers, 3 Binding Flame, and a Pristine Stonehide Heart for Yor'thegg the Wise in Grim Reaches.",
-    ["Progress"]="The land yearns for peace, and it is our responsibility to comply.",
-    ["Completion"]="The materials have been gathered. You have done your duty, now let me conduct mine...",
+    ["Title"]="Yor'thegg'in Ritüeli",
+    ["Description"]="Durum korktuğum gibi; toprak yozlaşmış ve bir kargaşa içinde. Aceleyle elementlerle bağ kurmam gerekecek. Bu ritüeli gerçekleştirmek için yerel, doğal malzemelere ihtiyacım olacak. İlk olarak, yakındaki yırtıcılardan beş Süslü Tüy (Ornate Feathers) istiyorum. Kuzeybatıdaki Ejderhaağzı Alevbağlayanlarından (Dragonmaw Flamebinders) üç Bağlayıcı Alev (Binding Flame)[cite: 1]. Ve son olarak, Yaşlı Taşderi Domuzlarından tek bir kusursuz Taşderi Kalbi (Stonehide Heart) istiyorum. Tüm bu malzemeleri topla ve bana geri dön.",
+    ["Objectives"]="Grim Reaches'taki Bilge Yor'thegg için 5 Süslü Tüy, 3 Bağlayıcı Alev ve bir Kusursuz Taşderi Kalbi topla.",
+    ["Progress"]="Toprak huzur için can atıyor ve buna uymak bizim sorumluluğumuz.",
+    ["Completion"]="Malzemeler toplandı. Sen görevini yerine getirdin, şimdi izin ver ben de benimkini gerçekleştireyim...",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Yor'thegg's Ritual
 
 -- You Reap What You Sow
+    -- You Reap What You Sow -> Ne Ekersen Onu Biçersin (Atasözü).
+    -- Country Pumpkin Seeds -> Köy Balkabağı Tohumları, Mountain Berries Seeds -> Dağ Meyvesi Tohumları.
+    -- Striped Melon Seeds -> Çizgili Kavun Tohumları, Magic Mushrooms Samples -> Sihirli Mantar Örnekleri.
     ["60060"] = {
-    ["Title"]="You Reap What You Sow",
-    ["Description"]="Survival itself is not that hard if you know what to do. It is harder to survive when you have no food. Hunting? Yes, you could try that, alas, not always you have something to sustain you longer than just some primitive herbs before you catch something.I see you're pondering on the situation a bit harder than your normal hunters and trappers, so why don't you learn something for your own good and best chances to survive out in the wilds?Bring me what I need and I'll teach you what to do. Here's the list. Please do not lose it.",
-    ["Objectives"]="Find Country Pumpkin Seeds, Mountain Berries Seeds, Striped Melon Seeds and Magic Mushrooms Samples!",
-    ["Progress"]="I see you're back. Have you managed to find everything required, yes?",
-    ["Completion"]="Great! Let's get you some new know-how to about thing or two.",
+    ["Title"]="Ne Ekersen Onu Biçersin",
+    ["Description"]="Ne yapacağını biliyorsan hayatta kalmanın kendisi o kadar da zor değildir. Yiyeceğin olmadığında hayatta kalmak daha zordur. Avlanmak mı? Evet, bunu deneyebilirsin, heyhat, bir şey yakalamadan önce seni ilkel bazı otlardan daha uzun süre idare edecek bir şey her zaman bulunmaz. Durumu normal avcılarından ve tuzakçılarından biraz daha derinlemesine düşündüğünü görüyorum, öyleyse neden kendi iyiliğin ve yaban hayatta kalma şansını en üst düzeye çıkarmak için bir şeyler öğrenmiyorsun? Bana ihtiyacım olanları getir, ben de sana ne yapacağını öğreteyim. İşte liste. Lütfen onu kaybetme.",
+    ["Objectives"]="Köy Balkabağı Tohumları (Country Pumpkin Seeds), Dağ Meyvesi Tohumları (Mountain Berries Seeds), Çizgili Kavun Tohumları (Striped Melon Seeds) ve Sihirli Mantar Örnekleri (Magic Mushrooms Samples) bul!",
+    ["Progress"]="Geri döndüğünü görüyorum. Gerekli olan her şeyi bulmayı başardın, değil mi?",
+    ["Completion"]="Harika! Hadi sana bir iki şey hakkında yeni bir bilgi birikimi kazandıralım.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end You Reap What You Sow
 
 -- You Should Put A Ring On It
+    -- You Should Put A Ring On It -> Ona Bir Yüzü Takmalıydın (Deyim / Şarkı referansı).
+    -- Gnomeregan = Gnomeregan kalmıştır.
+    -- Talvash -> Talvash kalmıştır (Talvash del Kissel).
+    -- jewelcrafting = mücevher işlemeciliği (Jewelcrafting mesleği).
+    -- bub -> birader / dostum.
     ["41284"] = {
-    ["Title"]="You Should Put A Ring On It",
-    ["Description"]="Believe it or not, but living under a mountain does not guarantee you a steady flow of gems in your storage. It surely doesn't help if some FALSE rumours prevent you from engaging in good and honest trade around here. If I was still in Gnomeregan, all of this would be easier, trust me on that. Still, gems are the bread and butter of jewelcrafting - no gems, no jewels, no trade, no money, no paid rent. You get the idea. And seeing as I desperately need to appease my landlord, I need quite a handful of those sparkling beauties to cover my losses, so to speak.Are we on the same page? Ofcourse we are. Bring me enough of the following gems and I'll pass you a lil' something.",
-    ["Objectives"]="Bring Talvash the required materials.",
-    ["Progress"]="These things don't grow on trees, you know? Or underground. Or anywhere. Nevermind, just pass ‘em already!",
-    ["Completion"]="I don't know about you, but seeing these little treasures shine and sparkle under the light of my prospector's lens is something I'll never get tired of. Surely you understand. Now that we got that covered - here, listen close, I won't repeat myself!",
+    ["Title"]="Ona Bir Yüzük Takmalıydın",
+    ["Description"]="İster inan ister inanma ama bir dağın altında yaşamak, deponda sürekli bir mücevher akışı olacağını garanti etmez. Bazı YALAN dedikoduların buralarda iyi ve dürüst bir ticaret yapmanı engellemesi de kesinlikle yardımcı olmuyor. Eğer hâlâ Gnomeregan'da olsaydım tüm bunlar daha kolay olurdu, bu konuda bana güven. Yine de kıymetli taşlar mücevher işlemeciliğinin (jewelcrafting) can damarıdır - taş yoksa mücevher yok, ticaret yok, para yok, ödenen kira yok. Mantığı anladın. Ve ev sahibimi yatıştırmaya şiddetle ihtiyacım olduğu göz önüne alınırsa, tabiri caizse kayıplarımı kapatmak için o parıldayan güzelliklerden epey bir avuç dolusuna ihtiyacım var. Aynı sayfada mıyız? Elbette öyleyiz. Bana şu taşlardan yeterince getir, ben de sana ufak bir şey ateşleyeyim.",
+    ["Objectives"]="Talvash'a gerekli malzemeleri getir.",
+    ["Progress"]="Bu şeyler ağaçta yetişmiyor, biliyorsun değil mi? Ya da yer altında. Veya herhangi bir yerde. Her neyse, uzat şunları artık!",
+    ["Completion"]="Seni bilmem ama bu küçük hazinelerin madenci merceğimin ışığı altında parıldamasını ve ışıldamasını izlemekten asla bıkmayacağım bir şey. Elbette anlıyorsun. Şimdi bu konuyu hallettiğimize göre - al, yakından dinle, kendimi tekrar etmeyeceğim!",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end You Should Put A Ring On It
 
 -- Young and Foolish
+    -- Scarlet -> Kızıl (Scarlet Crusade kastı).
+    -- Lakeshire = Gölyatağı (Lake + shire), Darkshire = Karanlıkdiyar (İstisnasız lokalizasyon kuralı).
+    -- Menethil -> Menethil kalmıştır, Southshore = Güneykıyısı (South + shore).
+    -- Scarlet Monastery = Kızıl Manastır, Hearthglen = Ocaqvadi (Hearth + glen), Stratholme = Stratholme kalmıştır.
+    -- Mathias Shaw -> Mathias Shaw kalmıştır.
     ["80702"] = {
-    ["Title"]="Young and Foolish",
-    ["Description"]="My agents have reported that a Scarlet caravan has started moving through various towns.From what we know they have already gone to Lakeshire, Darkshire, Menethil and Southshore.My only assumption is that whoever took over the Crusade after the events that transpired the Scarlet Monastery, Hearthglen and Stratholme has realised they've been running short on men.I want you to go and speak to the people of Lakeshire. The locals should have at least seen something.",
-    ["Objectives"]="Interrogate the people of Lakeshire and find out the truth. Report back to Mathias Shaw.",
-    ["Progress"]="How is your task going?",
-    ["Completion"]="So we were right, this would've been valuable information if we didn't already receive another report.Sorry about that, YOUR_NAME. I will be needing your help once more.",
+    ["Title"]="Genç ve Aptal",
+    ["Description"]="Ajanlarım bir Kızıl (Scarlet) kervanının çeşitli kasabalardan geçmeye başladığını bildirdi. Bildiğimiz kadarıyla çoktan Gölyatağı (Lakeshire), Karanlıkdiyar (Darkshire), Menethil ve Güneykıyısı'na (Southshore) gitmişler. Tek tahminim, Kızıl Manastır (Scarlet Monastery), Ocakvadi (Hearthglen) ve Stratholme'da yaşanan olaylardan sonra Haçlı Seferi'nin başına geçen kişinin adamlarının azaldığını fark etmiş olmasıdır. Gitmeni ve Gölyatağı (Lakeshire) halkıyla konuşmanı istiyorum. Yerel halk en azından bir şeyler görmüş olmalı.",
+    ["Objectives"]="Gölyatağı (Lakeshire) halkını sorgula ve gerçeği öğren. Mathias Shaw'a rapor ver.",
+    ["Progress"]="Görevin nasıl gidiyor?",
+    ["Completion"]="Demek haklıymışız, eğer zaten başka bir rapor almamış olsaydık bu çok değerli bir bilgi olurdu. Bunun için üzgünüm, YOUR_NAME. Yardımına bir kez daha ihtiyacım olacak.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Young and Foolish

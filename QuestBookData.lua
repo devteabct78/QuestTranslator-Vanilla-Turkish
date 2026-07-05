@@ -619,5 +619,9 @@ QuestTranslator_BookData = {
     ["Stoutfist's Report"] = {
         ["Title"] = "Gürbüzyumruk'un Raporu",
         ["Text"] = "Kaptan Karlısakal'a.NEW_LINE Demirörs ile Menethil Limanı arasındaki ikmal hatları her geçen gün daha da zorlanıyor. Kervanlar Ejderhaağzı Orkları'nın saldırısına uğruyor ve size ulaşmak bile tehlikeli bir zorluk haline geldi.NEW_LINE Topraklarımızı tehdit eden Ejderhaağzı tehdidiyle başa çıkmak için daha fazla yardım gerekiyor ve buna ihtiyaç var. Eğer boşta askeriniz varsa, onları ödünç vermenin tam zamanıdır.NEW_LINE Kaptan Gürbüzyumruk."
+    },
+    ["Snowbeard's Report"] = {
+        ["Title"] = "Karlısakal'ın Raporu",
+        ["Text"] = "Kaptan Gürbüzyumruk, yardımcı olamayacağımı söylediğim için üzgünüm. Ejderhaağzı ikimiz için de bir tehdit olsa da, taarruza geçebilmek için dağlarda ciddi şekilde asker sıkıntısı çekiyorum ve bazı dağcılarımı sizin yardımınıza ödünç vermeyi göze alamam.NEW_LINE Bu konuda size en iyisini diliyorum ve Magni'nin sakalı adına Ironforge'un ikimizin de yardımına yetişmesi için dua ediyorum.NEW_LINE Ironforge Ordusu'ndan Kaptan Karlısakal"
     }
 }
