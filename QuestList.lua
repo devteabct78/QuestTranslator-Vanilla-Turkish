@@ -5317,6 +5317,7 @@ QuestTranslator_QuestList = {
 ["The Grand Invoker"]="8761",
 ["The Grand Melee"]="13665,13745,13750,13756,13761,13767,13772,13777,13782,13787",
 ["The Grateful Dead"]="14166,14167,14168,14169,14170,14171,14172,14173,14174,14175,14176,14177,13952",
+["The Grateful Dead_QTR_DUP_1"]={"41638","Find the urn of Brother"},
 ["The Graveyards of Alterac"]="7082",
 ["The Great Egg Hunt"]="13479,13480",
 ["The Great Fissure"]="9340",
@@ -8689,5 +8690,9 @@ QuestTranslator_QuestList = {
 ["The Tower of Azora"]="41747",
 ["Arcane Emanations"]="41746",
 ["The Master and the Student"]="41748",
-["Orcs by Our Borders"]="41676"
+["Orcs by Our Borders"]="41676",
+["To Light the Afterlife"]="41670",
+["Remember the Dead"]="41671",
+["School Assistance"]="41637",
+
 } 

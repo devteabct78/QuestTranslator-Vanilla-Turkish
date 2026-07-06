@@ -47501,6 +47501,78 @@ QuestTranslator_QuestData = {
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Orcs by Our Borders
+    -- To Light the Afterlife
+    -- To Light the Afterlife -> Ahireti Aydınlatmak (Afterlife -> Ahiret/Ölümden Sonraki Hayat).
+    -- Groundskeeper Clive -> Mezarlık Görevlisi Clive / Bahçıvan Clive (Graveyard bağlamında "Mezarlık Görevlisi").
+    -- Bristlewhisker Cavern -> Sertbıyık Mağarası (Bristle + whisker).
+    -- Ambershire -> Kehribardiyar (Amber -> Kehribar, Shire -> Diyar/Bölge).
+    -- Amber Candle -> Kehribar Mum.
+    -- Lion's Watch -> Aslan Gözcüsü / Aslan Karakolu (Lion's + Watch).
+    -- Plump Pumpkin Inn -> Tombul Balkabağı Hanı (Plump + Pumpkin + Inn).
+    -- Grimmen Lake -> Grimmen Gölü (Özel isim kökenli göründüğü için göl kısmı lokalize edilmiştir).
+    -- Light = Işık.
+    ["41670"] = { 
+    ["Title"]="Ahireti Aydınlatmak",
+    ["Description"]="Sevdiklerimizin son istirahatgahına göz kulak olmak benim görevim. Ne kadar kasvetli bir vazife gibi görünse de, bu iki elimle mezarlıkla ilgilenmek kalbime ve ruhuma gurur veriyor. Zira artık aramızda olmayanlara değer vermekten daha hayırlı ne gibi bir görev olabilir ki? Kehribardiyar (Ambershire) sakinlerinin çoğu ellerinde çiçeklerle her gün buraya gelir. Ölüleri anmak bir rutin haline geldi.\n\nYine de zamanlar karardı — hatta zifiri karanlık oldu. Sevdiklerimizin mezar taşına bırakılan çiçeklerin yanına bir mum yakmak adetimizdir. Bu sayede mumun titreyen alevi, ruha dünyamıza geri dönerken rehberlik edebilir ve böylece sunulan adakları kabul edebilir. Mesleklerinin adını taşıyan o yolda artık çok az tüccar yürüyor, bu yüzden kilisenin mumları tükendi.\n\nSızlanıp duran koboldlar bir gece elimizde kalan son birkaç mumu da çaldılar ve mağaralarına çekilip sindiler. Bu mağaraya ulaşmak için yolu takip etmelisin. Aslan Gözcüsü'ne (Lion's Watch) geri dön, Tombul Balkabağı Hanı'na (Plump Pumpkin Inn) doğru yürü ve Grimmen Gölü'nü (Grimmen Lake) geçtikten sonra mağarayı hemen yakınlarda bulacaksın. Mumları bana geri getir.",
+    ["Objectives"]="Sertbıyık Mağarası'ndan (Bristlewhisker Cavern) 20 Kehribar Mum (Amber Candle) topla ve onları Mezarlık Görevlisi Clive'a (Groundskeeper Clive) ulaştır.",
+    ["Progress"]="Kolay bir görev değil, ama ne olursa olsun yerine getirilmesi gereken bir görev. Işık (the Light) seninle olsun.",
+    ["Completion"]="Bazıları sana her gün ölülere, geçmişe tutunmanın hiçbir anlamı olmadığını söyleyecektir. Yine de ölüler unutulursa, bu mezar taşları sadece birer süsten ibaret kalır. Ölümün kendisinden bile daha beter, acımasız bir kader.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end To Light the Afterlife
+    -- Remember the Dead
+    -- Remember the Dead -> Ölüleri Anmak (Remember + the + Dead).
+    -- The Wailing Nun -> Feryat Eden Rahibe / Feryatçı Rahibe (Wailing -> Feryat eden, Nun -> Rahibe).
+    -- Northwind Necrology -> Kuzeyyeli Ölüm Kaydı / Kuzeyyeli Nekrolojisi (Northwind -> Kuzeyyeli, Necrology -> Ölüm Kaydı).
+    -- Groundskeeper Clive -> Mezarlık Görevlisi Clive (Önceki görevle tutarlı).
+    -- Ambershire -> Kehribardiyar (Önceki görevle tutarlı).
+    -- Robes of the Wailing Nun -> Feryat Eden Rahibe Cüppesi.
+    -- abbey -> manastır.
+    -- Light = Işık.
+    ["41671"] = { 
+    ["Title"]="Ölüleri Anmak",
+    ["Description"]="Işık, krallığımızın topraklarını defalarca sınadı. Bir avuç insan için bu durum, inançlarının körelmesine yetti. Manastırımızda her yıl, ne kadar sürerse sürsün bu toprakların tüm ölülerini andığımız yıllık bir vaaz düzenlenirdi. Başrahip, her bir ismi tek tek zikretmeyi kendine görev edinmişti.\n\nManastırın kasvetli ve hüzünlü müziği, alevler içindeki bir kadının feryatlarıyla bölündü. Manastır duvarlarında sesi yankılanırken 'Yangın — yangın!' diye çığlık atıyordu. Alevler içinde yere yığıldı; gözyaşları sıcaktan kurumuş, teni alevlerden kavrulmuştu. Feryatları birçok kişinin hayatını kurtardı, her ne kadar birkaç can yitirilmiş olsa da.\n\nBazı fısıltılar manastırı gnolların ateşe verdiğini söylüyor; diğerleri ise bunun Işık'ın gazabı olduğuna inanıyor. Hatta birkaçı, zavallı rahibenin yangını kazara kendisinin başlattığını düşünüyor. Kim doğruyu söylüyor? Doğuya, manastırın kalıntılarına git. Taş duvarlar hâlâ ayakta ve belki onlarla birlikte ölüm kaydımız da oradadır. Bu yıl ölüleri bir kez daha onurlandırabilmemiz için onun bana geri getirilmesini sağla.",
+    ["Objectives"]="Eski manastırdaki Feryat Eden Rahibe'yi (The Wailing Nun) katlet, Kuzeyyeli Ölüm Kaydı'nı (Northwind Necrology) ele geçir ve Mezarlık Görevlisi Clive'a (Groundskeeper Clive) geri dön.",
+    ["Progress"]="Yangın, inancın bir başka sınavıydı.",
+    ["Completion"]="Bunun geri dönmesiyle birlikte umut da geri dönüyor. Bu yılki vaaz sırasında, inancı körelmiş olanlarla yeniden bağ kuracağız; çünkü bu toprakları saran kaosun ortasında tam olarak ihtiyaç duydukları şey bu.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Remember the Dead
+    -- School Assistance
+    -- Ambershire Church -> Kehribardiyar Kilisesi (Ambershire önceki görevlerle tutarlı olarak Kehribardiyar yapılmıştır).
+    -- Balor -> Balor kalmıştır (Ada ismi).
+    -- Lloyd, Ellie, Randolph, Tio -> Çocuk isimleri aynen kalmıştır.
+    -- Scolding Rod -> Azarlama Değneği / Nasihat Değneği (Scolding + Rod).
+    -- Alliance = İttifak.
+    ["41637"] = { 
+    ["Title"]="Okul Yardımı",
+    ["Description"]="Bu kitapları bize geri getirdiğin için tekrar çok teşekkür ederim. Bugün okulu iptal etmek zorunda kalmadığımızı duyunca çocuklar çok sevinecekler. Okula gitmek zorunda kaldıkları için canlarının sıkılacağını düşünebilirsin ama aslında buraya gelmekten ve dünya hakkında hep birlikte daha fazla şey öğrenmekten gerçekten keyif alıyorlar. Bu iç ısıtan bir manzara ve bana gelecek vaat eden bir yola gireceklerine dair umut veriyor.\n\nSoygun nedeniyle zamandan biraz geri kaldık ve bugünkü derse hazırlanmak için biraz zamana ihtiyacım var. Bize yardım etmek ister misin? Çocuklar, kitaplarını o hayduttan cesurca kurtaran kişiyle konuşmaya kesinlikle can atacaklardır! Geçen hafta onlara buranın batısındaki bir ada olan Balor'un tarihini öğretmiştik. Belki onlara bunu hatırlatarak bilgilerini pekiştirmelerine yardımcı olabilirsin. Kullandığımız kitabı burada, kilisede bulabilirsin.",
+    ["Objectives"]="Kehribardiyar Kilisesi'ndeki (Ambershire Church) çocuklarla konuş ve Balor hakkındaki bilgilerini gözden geçir.",
+    ["Progress"]="Nasıl gidiyor? Umarım küçük yaramazlarla baş etmek çok zor olmuyordur.",
+    ["Completion"]="Harika, onları ne zaman görsem o neşeli yüz ifadeleri benim de yüzümü güldürüyor. Bu çocuklar İttifak'ın (the Alliance) geleceğidir ve onları kendi kararlarına elimizden gelen en iyi şekilde hazırlamak bizim sorumluluğumuzdur. Bugün yaptığın katkıları Kilise'nin bildiğinden emin olacağım, iyi davranışlar karşılıksız kalmaz. Bu arada, sen de kendin bir şeyler öğrendin mi? Balor adası krallık içinde tartışmalı bir konudur; batıl inançları olanların birçoğu hâlâ adını anmaya bile cesaret edemez. Ne olursa olsun, geçmişimizin bir parçasıdır ve bu yüzden hatırlanmalıdır.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end School Assistance
+
+    -- The Grateful Dead
+    -- Brother Graham -> Rahip Graham / Graham Birader (Dini unvan, "Brother" genellikle "Birader" veya "Rahip" olarak çevrilir; "Graham Birader" tercih edilmiştir).
+    -- Ambershire Church -> Kehribardiyar Kilisesi (Önceki görevlerdeki yerleşik çeviriye sadık kalınarak)[cite: 1, 2].
+    -- Northwind -> Kuzeyyeli (Zone/bölge adı, kelime anlamıyla Kuzey + yeli).
+    -- Archbishop Benedictus -> Başpiskopos Benedictus.
+    -- Sister Argent -> Rahibe Argent (Argent kalmıştır).
+    -- Saint Mara Abbey -> Azize Mara Manastırı (Saint Mara -> Azize Mara, Abbey -> Manastır).
+    -- Dusty Urn -> Tozlu Urna / Tozlu Kül Vazosu (Dusty + Urn).
+    -- Stormwind = Fırtınayeli (Lokalizasyon kuralına göre)[cite: 1, 2].
+    -- Light = Işık.
+    ["41638"] = { 
+    ["Title"]="Minnettar Ölüler",
+    ["Description"]="Kuzeyrüzgarı'ne (Northwind) ne olduğunu görmek utanç verici. Rahibe Argent'a yardım etmek için Başpiskopos Benedictus'un tavsiyesi üzerine buraya döndüğümde, bulacağım şeyin bu olacağını asla hayal edemezdim. Halk doğu topraklarından gelen istilalardan dehşete düşmüş durumda ve suçlular tepelerimize ayak basmış vaziyette. Eski manastır bile...\n\nKusura bakma, sıram gelmeden konuştum, beni bağışla. Anlarsın ya, Kuzeyrüzgarı benim doğduğum yer; buranın o yumuşak doğasını ve insanın burada geçirebileceği tasasız günleri çok iyi hatırlıyorum. Ama sanırım o günler geride kaldı. Eğer bilseydim, Annemi de yanıma alırdım. İstirahatgahının geçmişin dehşeti tarafından istila edilmesi kalbimi kırıyor. Ben henüz gençken ölmüştü, urnası Azize Mara Manastırı'nın (Saint Mara Abbey) mahzenine yerleştirilmişti.\n\n<class>, senden istediğim şey belki de çok fazla ama annemin urnasını toplamaya istekli olur musun? Bu benim için dünyalara bedel olur ve senin de aleyhine olmaz, Işık'ın (the Light) üzerine yemin ederim.",
+    ["Objectives"]="Kuzeyrüzgarı'ndeki (Northwind) Kehribardiyar Kilisesi'nde (Ambershire Church) bulunan Graham Birader'e (Brother Graham) ulaştırmak üzere annesinin urnasını bul.[cite: 1, 2]",
+    ["Progress"]="Savaşlar bittiğinde, Kuzeyrüzgarı'nın (Northwind) nihayet barışçıl köklerine dönebileceğini düşünmüştüm. Belki de böyle düşünmekle fazla saf davrandım.",
+    ["Completion"]="Oh, anneciğim... Seni o ışık yoksunu yerde bıraktığım için çok üzgünüm. İçin rahat olsun, yeni evim olan Fırtınayeli'nde (Stormwind) yeni bir istirahatgah bulacaksın. Teşekkür ederim — adın <name> miydi? Annemin külleri geri döndüğüne göre, Rahibe Argent ile buradaki görevlerime devam etmeden önce onları Kiliseye teslim edeceğim. Elveda, nazik ruh. Işık'ın (the Light) kutsaması yolunu aydınlatsın.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end The Grateful Dead
     --123456789
 
 
