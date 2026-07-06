@@ -47483,6 +47483,24 @@ QuestTranslator_QuestData = {
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end The Master and the Student
+    -- Orcs by Our Borders
+    -- Orcs by Our Borders -> Sınırlarımızdaki Orkların (Orcs + by + Our + Borders).
+    -- Colonel Driscol -> Albay Driscol kalmıştır.
+    -- Overlord Throkk -> Derebeyi Throkk (Overlord -> Derebeyi).
+    -- Ozuk Doomspike -> Ozuk Kadersivrisi (Doom + spike).
+    -- Shuni Steeltooth -> Shuni Çelikdiş (Steel + tooth).
+    -- Blackrock Breach -> Karatuzak Gediği / Karakaya Gediği (Blackrock genelde Karatuzak veya Karakaş olarak lokalize edilir, "Karatuzak Gediği" tercih edilmiştir).
+    -- Altar of Heroes = Kahramanlar Sunağı (Altar + of + Heroes).
+    -- Ozuk's Piercer -> Ozuk'un Delicisi, Blade of the Overlord -> Derebeyinin Kılıcı, Steeltooth -> Çelikdiş.
+    ["41676"] = { -- Quest ID varsayılan olarak yerleştirilmiştir.
+    ["Title"]="Sınırlarımızdaki Orklar",
+    ["Description"]="Bu kül rengi orklar her ne kadar akılsız görünseler de gerçek tamamen farklı. Birkaç kişinin —hm, nasıl desem? Çok yetenekli, sinsi bazı kişilerin— benim için istihbarat toplamasını sağladım. Bilgiler meyvesini verdi ama yapabileceğimiz pek bir şey yok. Bahsettiğim o kişiler istihbarat toplama konusunda her ne kadar çok yetenekli olsalar da, bir savaşta pek bir varlık gösteremezler.\n\nİşte bu yüzden, senin gibi deneyimli birinin önderlik edeceği bir maceracı grubunun bu ork tehdidine bir son verebileceğine inanıyorum. Onlardan üç kişiler. Derebeyi Throkk'u (Overlord Throkk) Karatuzak Gediği (Blackrock Breach) adını verdiğimiz bir mağarada bulacaksın; Ozuk Kadersivrisi (Ozuk Doomspike) dışarıda, yıkık bir evden emirler yağdırıyor; Shuni Çelikdiş (Shuni Steeltooth) ise topraklarımıza o kadar derinlemesine sızdı ki gözcü kulelerimizden birini ele geçirdi. Kuleyi, bir zamanlar Kahramanlar Sunağımızı (Altar of Heroes) gözetlemek için kullanılan tepenin üzerinde bulacaksın.\n\nOnların işini bitir.",
+    ["Objectives"]="Albay Driscol (Colonel Driscol) için Derebeyi Throkk, Ozuk Kadersivrisi ve Shuni Çelikdiş'i katlet ve onun yanına geri dön.",
+    ["Progress"]="Bitti mi?",
+    ["Completion"]="Liderleri olmadan, geriye kalan orklar o pis topraklarına geri dönecektir.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Orcs by Our Borders
     --123456789
 
 

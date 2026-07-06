@@ -8688,5 +8688,6 @@ QuestTranslator_QuestList = {
 ["The Amber Pearl"]="41673",
 ["The Tower of Azora"]="41747",
 ["Arcane Emanations"]="41746",
-["The Master and the Student"]="41748"
+["The Master and the Student"]="41748",
+["Orcs by Our Borders"]="41676"
 } 
