@@ -8698,4 +8698,5 @@ QuestTranslator_QuestList = {
 ["Chopping Defias"]="41635",
 ["Magilou's Magical Mishap"]="41634",
 
+
 } 

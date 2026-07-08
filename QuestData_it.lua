@@ -47631,6 +47631,23 @@ QuestTranslator_QuestData = {
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Magilou's Magical Mishap
+    -- High Energy Regulator
+    -- Schematic: High Energy Regulator -> Şema: Yüksek Enerji Düzenleyicisi (Schematic -> Şema, High Energy Regulator -> Yüksek Enerji Düzenleyicisi).
+    -- Gnomeregan = Gnomeregan kalmıştır (ZoneData.lua)[cite: 2].
+    -- Weezan Littlegear -> Weezan Küçükçark (Soyisim çevirisi: Little + gear -> Küçükçark).
+    -- Gnomeregan Reclamation Facility -> Gnomeregan Geri Kazanım Tesisi (Reclamation -> Geri Kazanım, Facility -> Tesis).
+    -- Dun Morogh = Dun Morogh kalmıştır (ZoneData.lua)[cite: 2].
+    -- Low Energy Regulator -> Düşük Enerji Düzenleyicisi.
+    -- gnomish engineering = gnom mühendisliği.
+    ["40861"] = { 
+    ["Title"]="Yüksek Enerji Düzenleyicisi",
+    ["Description"]="Gnomeregan'ın yıkılması, teknolojimizi pek çok yönden geriye götürdü. Çalışmalarımızın büyük bir kısmı göz açıp kapayıncaya kadar yok oldu.\n\nEsasen önümüzü görmeden çalışıyoruz. Eğer bu tesiste bir gün gerçekten ilerleme kaydetmek istiyorsak, büyük öneme sahip çok nadir bir eşyaya ihtiyacımız var.\n\nYüksek Enerji Düzenleyicisi (High Energy Regulator), yoğun enerji dalgalanmalarını yönetmek için yaratılmış bir şeydir. O olmadan, aşırı miktardaki gücü ihtiyacımız olan yere yönlendirmek imkansızdır; ki burada yapmaya çalıştığımız şey de tam olarak budur!\n\nŞu anda bu tesis, sistemlerimizin aşırı yüklenmesini veya aşırı dalgalanma yaşamasını önlemek için düşük güçte çalışıyor. Ancak daha hızlı çalışabiliriz, ÇOK daha hızlı. Gnomeregan'da kaybolan Yüksek Enerji Düzenleyicisi'nin şemasını bulmanı istiyorum. Eğer onu ele geçirebilirsek, bu tesisi gerçekten çalışması gerektiği gibi kullanabiliriz.",
+    ["Objectives"]="Gnomeregan içindeki Şema: Yüksek Enerji Düzenleyicisi'ni (Schematic: High Energy Regulator) bul ve onu Dun Morogh'daki Gnomeregan Geri Kazanım Tesisi'nde (Gnomeregan Reclamation Facility) bulunan Weezan Küçükçark'a (Weezan Littlegear) ulaştır.[cite: 2]",
+    ["Progress"]="Lanet İngiliz anahtarı, her zaman...\n\nOh, beni ürküttün; şemayı kurtarmayı başarmış olamazsın, değil mi?",
+    ["Completion"]="Hmm, bu hatırladığımdan çok daha karmaşık; ancak biraz bilek gücü ve gnom mühendisliğinin (gnomish engineering) dikkatli uygulamalarıyla düzgün bir kopyasını oluşturmak çok zor olmayacaktır. Uygulamaya koymadan önce verimliliğini test etmek biraz zaman alacak, ancak bu bizi yeni bir prototip tasarlarken büyük bir zaman kaybından kurtardı.\n\nYardımların için tekrar teşekkürler <class>. Al, yardımına bir teşekkür olarak bu Düşük Enerji Düzenleyicisi'ni (Low Energy Regulator) kabul et.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end High Energy Regulator
     --123456789
 
 
