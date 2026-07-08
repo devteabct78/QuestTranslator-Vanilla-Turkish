@@ -8694,5 +8694,8 @@ QuestTranslator_QuestList = {
 ["To Light the Afterlife"]="41670",
 ["Remember the Dead"]="41671",
 ["School Assistance"]="41637",
+["Lonesome Arnold"]="41642",
+["Chopping Defias"]="41635",
+["Magilou's Magical Mishap"]="41634",
 
 } 

@@ -1961,8 +1961,8 @@ QuestTranslator_QuestData = {
     ["Title"]="Ormandaki Worgenler",
     ["Description"]="Önceki başarıların, beni ormanı istila eden en çetin worgenlerin karşısına çıkmaya hazır olduğuna ikna etti.\n\nBurayı kendilerine yeni mesken edinen worgenler arasında, Habisdişler (Vile Fangs) ve Lekelenmişler (Tainted Ones) en tehlikelileri olduklarını kanıtladılar. Güneydeki bazı mağaraların yakınlarına ve madene yerleştiler.\n\nUzaklardan bile yakmış oldukları kamp ateşlerinin ışığını görebilirsin...",
     ["Objectives"]="Karanlıkdiyar'daki (Darkshire) Calor için 8 Gecekahrı Habisdiş (Nightbane Vile Fang) ve 8 Gecekahrı Lekelenmiş (Nightbane Tainted One) worgen katlet.",
-    ["Progress"]="Göz korkutucu canavarlar, değil mi? Ama hiç korkma <name>, Işık'ın (the Light) safında duranlar asla yıkılmaz!",
-    ["Completion"]="<name>, dürüst olmak gerekirse bu kadar ileri gidebileceğine inanmıyordum; fakat kesinlikle hafife alınmayacak bir <class> olduğunu kanıtladın. Hatta Usta Carevin'in (Master Carevin) mücadelesine resmen katılmak istersen, senin için seve seve bir tavsiye mektubu yazarım.",
+    ["Progress"]="Göz korkutucu canavarlar, değil mi? Ama hiç korkma YOUR_NAME, Işık'ın (the Light) safında duranlar asla yıkılmaz!",
+    ["Completion"]="YOUR_NAME, dürüst olmak gerekirse bu kadar ileri gidebileceğine inanmıyordum; fakat kesinlikle hafife alınmayacak bir YOUR_CLASS olduğunu kanıtladın. Hatta Usta Carevin'in (Master Carevin) mücadelesine resmen katılmak istersen, senin için seve seve bir tavsiye mektubu yazarım.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Worgen in the Woods
@@ -1977,10 +1977,10 @@ QuestTranslator_QuestData = {
     -- Light = Işık.
     ["223"] = { 
     ["Title"]="Ormandaki Worgenler",
-    ["Description"]="İşte buyur, <name>. Bu mesajı Usta Carevin'e (Master Carevin) ulaştır.\n\n<Hızlıca solmuş bir parşömen parçası çıkarır ve onu size uzatır.>\n\nSenin gibi birkaç kişi daha olursa, sayıca Gece Nöbeti'ni (the Night Watch) bile geride bırakırız! Belki o zaman biz birkaç kişinin bugün sürdürdüğü bu çalışmayı nihayete erdirebiliriz.",
+    ["Description"]="İşte buyur, YOUR_NAME. Bu mesajı Usta Carevin'e (Master Carevin) ulaştır.\n\n<Hızlıca solmuş bir parşömen parçası çıkarır ve onu size uzatır.>\n\nSenin gibi birkaç kişi daha olursa, sayıca Gece Nöbeti'ni (the Night Watch) bile geride bırakırız! Belki o zaman biz birkaç kişinin bugün sürdürdüğü bu çalışmayı nihayete erdirebiliriz.",
     ["Objectives"]="Calor'un Notu'nu (Calor's Note) Jonathan Carevin'e ulaştır.",
     ["Progress"]="Evet, ne vardı? Çabuk ol, ilgilenmem gereken acil meseleler var.",
-    ["Completion"]="Soğuk karşılamam için kusuruma bakma, <name>; fakat eminim senin de fark edebileceğin üzere son derece meşgul bir adamım. Calor'u etkilemeyi başardığını görüyorum —ve seni temin ederim ki bu hiç de küçümsenecek bir başarı değildir— nitekim kendisi tavsiye mektubunu vermiş.\n\nEtrafta tekinsiz tipler dolanıyor <name> ve kendisini kanıtlamış herkesin yardımına ihtiyacımız var. İblislerle, zombilerle (undead) ve onlara yardım yataklık edenlerle savaşıyoruz. Tedbiri elden bırakma, tetikte ol ve bizim davamıza destek vermeyen hiç kimseye güvenme.\n\nIşık'ın (the Light) altında zafer seninle olsun.",
+    ["Completion"]="Soğuk karşılamam için kusuruma bakma, YOUR_NAME; fakat eminim senin de fark edebileceğin üzere son derece meşgul bir adamım. Calor'u etkilemeyi başardığını görüyorum —ve seni temin ederim ki bu hiç de küçümsenecek bir başarı değildir— nitekim kendisi tavsiye mektubunu vermiş.\n\nEtrafta tekinsiz tipler dolanıyor YOUR_NAME ve kendisini kanıtlamış herkesin yardımına ihtiyacımız var. İblislerle, zombilerle (undead) ve onlara yardım yataklık edenlerle savaşıyoruz. Tedbiri elden bırakma, tetikte ol ve bizim davamıza destek vermeyen hiç kimseye güvenme.\n\nIşık'ın (the Light) altında zafer seninle olsun.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Worgen in the Woods
@@ -2071,10 +2071,10 @@ QuestTranslator_QuestData = {
     -- Light = Işık, Lys -> Lys kalmıştır.
     ["231"] = { -- Quest ID varsayılan olarak yerleştirilmiştir.
     ["Title"]="Bir Kız Evladın Sevgisi",
-    ["Description"]="Al, bunu al ve onun mezarına koy. Belki... bir şekilde, benim iyi olduğumu ve hiçbirimizin olan bitenlerden ötürü onu suçlamadığını anlar.\n\n<Sağ elindeki yüzüğü parmağından çıkarıp ellerinizin arasına iliştirirken gözlerinde yaşlar belirir.>\n\nVe... teşekkür ederim, <name>.",
+    ["Description"]="Al, bunu al ve onun mezarına koy. Belki... bir şekilde, benim iyi olduğumu ve hiçbirimizin olan bitenlerden ötürü onu suçlamadığını anlar.\n\n<Sağ elindeki yüzüğü parmağından çıkarıp ellerinizin arasına iliştirirken gözlerinde yaşlar belirir.>\n\nVe... teşekkür ederim, YOUR_NAME.",
     ["Objectives"]="Sarah Ladimore'un yüzüğünü Morgan Ladimore'un mezarına götür.",
     ["Progress"]="Beni yalnız bırak...",
-    ["Completion"]="<Rüzgarda hayaletimsi bir ses çınlar...>\n\nBu...? Sarah mı? Yoksa hâlâ hayatta mı? Omuzlarımdaki büyük yük kalktı...\n\n<name>. Kılıcım Archeus'u al. Ruhum huzura erdiğine göre artık ona ihtiyacım yok. İyilik yapması için dövülmüştü; her ne kadar onu taşımaya layık olmadığımı kanıtlamış olsam da, belki sen onun vesilesiyle Işık'ı (the Light) yaşatmaya devam edersin.\n\nLys, sevgilim...",
+    ["Completion"]="<Rüzgarda hayaletimsi bir ses çınlar...>\n\nBu...? Sarah mı? Yoksa hâlâ hayatta mı? Omuzlarımdaki büyük yük kalktı...\n\nYOUR_NAME. Kılıcım Archeus'u al. Ruhum huzura erdiğine göre artık ona ihtiyacım yok. İyilik yapması için dövülmüştü; her ne kadar onu taşımaya layık olmadığımı kanıtlamış olsam da, belki sen onun vesilesiyle Işık'ı (the Light) yaşatmaya devam edersin.\n\nLys, sevgilim...",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end A Daughter's Love
@@ -2304,7 +2304,7 @@ QuestTranslator_QuestData = {
     ["Description"]="Tahnitçi (The Embalmer), çocuklarımıza anlatılan masallardan birinde geçen bir isimdir. Kendisi, karısı Eliza'nın ölümüyle aklını yitirmiş nazik bir simyacıydı. Onu hayata döndürmek için karanlık büyülere başvurdu ve kendi kalbini ölü eşinin göğsüne yerleştirdi.\n\nBu durum Eliza'yı canlandırdı... fakat onu insan etine karşı bir açlıkla lanetledi ve Tahnitçi'yi onu gömülü tutmak zorunda bıraktı.\n\nOnun kalbi, onun gücüdür. Karısının mezarını bul, kalbini geri al ve hâlâ atıyorken bana getir. Bunu yaparsan onun gücü tamamen kırılacaktır.",
     ["Objectives"]="Eliza'nın mezarını bul. Tahnitçinin Kalbi'ni (The Embalmer's Heart) ondan geri al, ardından Ello Karalüle'ye (Ello Ebonlocke) geri dön.",
     ["Progress"]="Eliza'nın mezarını henüz bulamadın mı? Tahnitçinin kalbi sende mi?",
-    ["Completion"]="Başardın! Kalbinin içindeki büyü, Tahnitçi'yi kötülüğe karşı koruyacak ve Karanlıkdiyar (Darkshire) kasabası üzerinde güçlü bir kalkan (aegis) görevi görecek.\n\nHalkımız için harika bir şey yaptın, <name>. Adın tarihimizde sonsuza dek yaşayacak.",
+    ["Completion"]="Başardın! Kalbinin içindeki büyü, Tahnitçi'yi kötülüğe karşı koruyacak ve Karanlıkdiyar (Darkshire) kasabası üzerinde güçlü bir kalkan (aegis) görevi görecek.\n\nHalkımız için harika bir şey yaptın, YOUR_NAME. Adın tarihimizde sonsuza dek yaşayacak.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Bride of the Embalmer
@@ -47566,13 +47566,71 @@ QuestTranslator_QuestData = {
     -- Light = Işık.
     ["41638"] = { 
     ["Title"]="Minnettar Ölüler",
-    ["Description"]="Kuzeyrüzgarı'ne (Northwind) ne olduğunu görmek utanç verici. Rahibe Argent'a yardım etmek için Başpiskopos Benedictus'un tavsiyesi üzerine buraya döndüğümde, bulacağım şeyin bu olacağını asla hayal edemezdim. Halk doğu topraklarından gelen istilalardan dehşete düşmüş durumda ve suçlular tepelerimize ayak basmış vaziyette. Eski manastır bile...\n\nKusura bakma, sıram gelmeden konuştum, beni bağışla. Anlarsın ya, Kuzeyrüzgarı benim doğduğum yer; buranın o yumuşak doğasını ve insanın burada geçirebileceği tasasız günleri çok iyi hatırlıyorum. Ama sanırım o günler geride kaldı. Eğer bilseydim, Annemi de yanıma alırdım. İstirahatgahının geçmişin dehşeti tarafından istila edilmesi kalbimi kırıyor. Ben henüz gençken ölmüştü, urnası Azize Mara Manastırı'nın (Saint Mara Abbey) mahzenine yerleştirilmişti.\n\n<class>, senden istediğim şey belki de çok fazla ama annemin urnasını toplamaya istekli olur musun? Bu benim için dünyalara bedel olur ve senin de aleyhine olmaz, Işık'ın (the Light) üzerine yemin ederim.",
+    ["Description"]="Kuzeyrüzgarı'ne (Northwind) ne olduğunu görmek utanç verici. Rahibe Argent'a yardım etmek için Başpiskopos Benedictus'un tavsiyesi üzerine buraya döndüğümde, bulacağım şeyin bu olacağını asla hayal edemezdim. Halk doğu topraklarından gelen istilalardan dehşete düşmüş durumda ve suçlular tepelerimize ayak basmış vaziyette. Eski manastır bile...\n\nKusura bakma, sıram gelmeden konuştum, beni bağışla. Anlarsın ya, Kuzeyrüzgarı benim doğduğum yer; buranın o yumuşak doğasını ve insanın burada geçirebileceği tasasız günleri çok iyi hatırlıyorum. Ama sanırım o günler geride kaldı. Eğer bilseydim, Annemi de yanıma alırdım. İstirahatgahının geçmişin dehşeti tarafından istila edilmesi kalbimi kırıyor. Ben henüz gençken ölmüştü, urnası Azize Mara Manastırı'nın (Saint Mara Abbey) mahzenine yerleştirilmişti.\n\nYOUR_CLASS, senden istediğim şey belki de çok fazla ama annemin urnasını toplamaya istekli olur musun? Bu benim için dünyalara bedel olur ve senin de aleyhine olmaz, Işık'ın (the Light) üzerine yemin ederim.",
     ["Objectives"]="Kuzeyrüzgarı'ndeki (Northwind) Kehribardiyar Kilisesi'nde (Ambershire Church) bulunan Graham Birader'e (Brother Graham) ulaştırmak üzere annesinin urnasını bul.[cite: 1, 2]",
     ["Progress"]="Savaşlar bittiğinde, Kuzeyrüzgarı'nın (Northwind) nihayet barışçıl köklerine dönebileceğini düşünmüştüm. Belki de böyle düşünmekle fazla saf davrandım.",
-    ["Completion"]="Oh, anneciğim... Seni o ışık yoksunu yerde bıraktığım için çok üzgünüm. İçin rahat olsun, yeni evim olan Fırtınayeli'nde (Stormwind) yeni bir istirahatgah bulacaksın. Teşekkür ederim — adın <name> miydi? Annemin külleri geri döndüğüne göre, Rahibe Argent ile buradaki görevlerime devam etmeden önce onları Kiliseye teslim edeceğim. Elveda, nazik ruh. Işık'ın (the Light) kutsaması yolunu aydınlatsın.",
+    ["Completion"]="Oh, anneciğim... Seni o ışık yoksunu yerde bıraktığım için çok üzgünüm. İçin rahat olsun, yeni evim olan Fırtınayeli'nde (Stormwind) yeni bir istirahatgah bulacaksın. Teşekkür ederim — adın YOUR_NAME miydi? Annemin külleri geri döndüğüne göre, Rahibe Argent ile buradaki görevlerime devam etmeden önce onları Kiliseye teslim edeceğim. Elveda, nazik ruh. Işık'ın (the Light) kutsaması yolunu aydınlatsın.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end The Grateful Dead
+
+    -- Lonesome Arnold (Güncelleme)
+    -- Kullanıcı talebi üzerine: Northwind = Kuzeyrüzgarı olarak güncellenmiştir.
+    -- Christoph -> Christoph kalmıştır.
+    -- Northwind Logging Camp -> Kuzeyrüzgarı Kereste Kampı (Northwind -> Kuzeyrüzgarı, Logging Camp -> Kereste Kampı).
+    -- Broken Locket -> Kırık Madalyon (Broken + Locket).
+    -- Defias -> Defias kalmıştır (Özel fraksiyon ismi).
+    -- Ambershire -> Kehribardiyar (Önceki görevlerdeki yerleşik çeviriye sadık kalınarak)[cite: 1, 2].
+    -- Mirabelle -> Mirabelle kalmıştır (NPC ismi).
+    -- Light = Işık.
+    ["41642"] = { 
+    ["Title"]="Yalnız Arnold",
+    ["Description"]="Buranın kuzeydoğusundaki kereste kampı o aşağılık Defias tarafından baskına uğradığında, oduncular çoğunlukla zarar görmeden kaçacak kadar hızlı davrandılar. Şimdilik kalacak başka yerleri olmadığı için babamla ben buradaki deposunda yaralılarla ilgileniyoruz. Yine de aralarında pek çok tanıdık yüz olsa da, kampta çalışan iyi dostlarından Christoph henüz ne burada ne de Kehribardiyar'da (Ambershire) ortaya çıkmadı.[cite: 1, 2]\n\nChristoph'un küçük bir oğlu var ve korkarım ki en kötüsü başlarına geldi. Lütfen bana bu iyiliği yap ve onu ara. Belki kampın yakınlarında bir yere saklanmıştır...",
+    ["Objectives"]="Kuzeyrüzgarı Kereste Kampı'nın (Northwind Logging Camp) yakınlarında Christoph'u ara.",
+    ["Progress"]="<Mirabelle derin bir duaya dalmış durumda.>\n\nEy Mübarek Işık , bu kaybolmuş kuzuyu yeniden sürüne ulaştır. Oğlu yalnızlığın acısını çekmesin, soydaşları ve yurttaşlarıyla yeniden bir araya gelsin.",
+    ["Completion"]="Ne büyük bir trajedi; Christoph gerçekten iyi kalpli bir adam ve babaydı. Onun böylesine anlamsız bir ölüme kurban gittiğini görmek kalbimi kırıyor. Peki ya zavallı, bahtsız Arnold? Artık yetim kaldığı için onun adına endişeleniyorum. Lütfen babasının kaderini ona nasıl söyleyeceğimi bana bırak. Kehribardiyar (Ambershire) kilisesindeki saygideğer rahibe ne diyeceğini bilecektir.[cite: 1, 2]\n\nTeşekkür ederim, nazik ruh. Bugün iyi bir iş çıkardın. Işık'ın (the Light) kutsaması yolunu aydınlatsın.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Lonesome Arnold
+
+    -- Chopping Defias
+    -- Northwind -> Kuzeyrüzgarı (Kullanıcı talebi doğrultusunda güncellenen bölge adı).
+    -- Northwind Logging Camp -> Kuzeyrüzgarı Kereste Kampı.
+    -- Defias Rober -> Defias Soyguncusu (Robber -> Soyguncu).
+    -- Defias Cutthroat -> Defias Boğazkeseni (Cutthroat -> Boğazkesen).
+    -- Defias Arcanist -> Defias Arkanisti (Arcanist -> Arkanist).
+    -- Head of Red Jenny -> Kızıl Jenny'nin Kafası (Red -> Kızıl, Jenny kalmıştır).
+    -- First War -> Birinci Savaş.
+    -- Dark Iron = Karademir (Lokalizasyon kuralına göre).
+    -- Ambershire -> Kehribardiyar (Önceki görevlerdeki yerleşik çeviriye sadık kalınarak)[cite: 1, 2].
+    -- Amberwood -> Kehribarormanı (Amber + wood).
+    -- Lumberjack Vest -> Oduncu Yeleği (Lumberjack + Vest).
+    ["41635"] = { 
+    ["Title"]="Defias Baltalaması",
+    ["Description"]="Tüm hayatımı burada, Kuzeyrüzgarı'nda (Northwind) geçirdim ve Birinci Savaş'tan beri burası hiç bu kadar kargaşa içinde olmamıştı. Gnollar, Orklar ve Karademir (Dark Iron) cüceleri o huzurlu tepelerimizde geziniyor ve gittikleri her yere kaos ekiyorlar. Haydut ruhlu Defias bile tüm bunlardan yararlanmaya çalışıyor. Bu küstah haydutlar, buradan çok uzak olmayan, Kehribardiyar'ın (Ambershire) kuzeydoğusundaki kereste kampımıza saldırmaya cüret ettiler.[cite: 1, 2] Tabii ki tüm işçiler kaçtı, ancak kasabada onları barındıracak yeterli alan yok, bu yüzden şimdilik burada, benim depomda dinleniyorlar. Keşke Kehribarormanı'nın (Amberwood) muhafızları, Kuzeyrüzgarı'nın (Northwind) iyi vatandaşlarına yardım etme konusunda yeterince hevesli olsaydı!\n\nGörünüşe göre iş yine halkın ellerine kalıyor. Maceracı, sağlıklı ve aklı başında görünüyorsun, bize yardım eder misin? Defias'ı kereste kampından defet; güzel yuvamıza bir nebze de olsa barışı yeniden getirmemize yardım et!",
+    ["Objectives"]="Kuzeyrüzgarı Kereste Kampı'nı (Northwind Logging Camp) istila eden Defias'tan temizle.",
+    ["Progress"]="Güvende kal, maceracı. Kuzeyrüzgarı'nın (Northwind) tepeleri masumların kanıyla sulanmak için yaratılmadı.",
+    ["Completion"]="Bitti mi? Bu, onların kırma liderlerinin kafası mı? Onlardan kurtulduğumuz iyi oldu, güruhları hangi yoldan yürüyeceklerini kendileri seçti — vaktinde gelen ölümlerine çıkan bir yol. Cesaretini takdir ediyorum, maceracı. Al, bunu iyi davranışının bir ödülü olarak kabul et. Senin eylemlerin sayesinde yakında yeniden o sakin hayatlarımızı yaşayabiliriz.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Chopping Defias
+    -- Magilou's Magical Mishap
+    -- Enchantress Magilou -> Efsunkar Magilou (Enchantress -> Efsunkar).
+    -- Thronda -> Thronda kalmıştır.
+    -- Northwind -> Kuzeyrüzgarı (Önceki görevlerde sabitlediğimiz alan adı).
+    -- Sparkling Residue -> Parıldayan Kalıntı (Sparkling + Residue).
+    -- Magilou's Almanac -> Magilou'nun Almanağı.
+    -- Magilou's Tarot Compendium -> Magilou'nun Tarot El Kitabı.
+    -- Academy Dropout Slippers -> Akademi Terki Terlikleri (Academy + Dropout + Slippers).
+    ["41634"] = { -- Quest ID varsayılan olarak yerleştirilmiştir.
+    ["Title"]="Magilou'nun Sihirli Aksiliği",
+    ["Description"]="Ne kadar küstah bir çocuk! Kendisini gizemli büyünün tehlikeleri hakkında kaç kez uyardığımın hesabını unuttum. Onun bu umursamaz merakı bir gün hepimizin sonu olacak.\n\nBu mütevazı meskenin yukarısındaki tepe kulesini kesinlikle fark etmişsindir? Normalde Kuzeyrüzgarı (Northwind) ve diğer yerlerden gelen büyüye meraklı herkesle birlikte orada ikamet ederdim; ancak 'sevgili' çırağım Thronda, ev işlerine yardımcı olmaları için kendi gizemli elementallerini çağırmasının harika bir fikir olacağını düşünmüş. Ne yazık ki kontrolden çıktılar ve şimdi kuleme dehşet saçıyorlar!\n\nYOUR_NAME, kuleye tırman ve benim almanağımı (almanac) almanın yanı sıra onların yok oluşundan geriye kalan kalıntıları topla. Onların enerjisine uyum sağladığımda, yeniden maddeleşmelerini önleyecek bir büyü yapabilirim.",
+    ["Objectives"]="Efsunkar Magilou (Enchantress Magilou), Kuzeyrüzgarı'nın batısındaki kulesini istila eden elementallerden 8 Parıldayan Kalıntı (Sparkling Residue) ve almanağını getirmeni istiyor.",
+    ["Progress"]="Kulemdeki meseleleri halletme işin nasıl gidiyor?",
+    ["Completion"]="Sadece harika. İyi iş çıkardın. Thronda seni iyi dinlemeli ve senin örneğini takip etmeli. Büyük bir potansiyeli var, ancak disiplin eksikliği benim için —ve kendisi için de— ciddi bir baş belası. Yine de onu sadece kısmen suçlayabilirim; çünkü bir insan olarak gelişmesinin yanı sıra büyü yeteneğini beslemek konusunda ailesine karşı edilmiş bir yeminim var.\n\nSana en derin şükranlarımı sunarım, nazik yolcu. Gitmeden önce, çektiğin zahmetlerin karşılığı olarak bunlardan birini kabul et. Bu zorlu zamanlarda adımlarına dikkat ettiğinden emin ol.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Magilou's Magical Mishap
     --123456789
 
 
