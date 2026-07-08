@@ -47648,6 +47648,101 @@ QuestTranslator_QuestData = {
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end High Energy Regulator
+    -- My Darling Wife
+    -- Ronald Gillian -> Ronald Gillian kalmıştır (Özel isim, soyisim çevrilmeye uygun fonetiğe sahip değildir).
+    -- Verona Gillian / Operative Verona Gillian -> Verona Gillian / Ajan Verona Gillian (Operative -> Ajan/Operasyon Sorumlusu).
+    -- Balor -> Balor kalmıştır (Ada ismi).
+    -- Simmons -> Simmons kalmıştır.
+    -- Azeroth -> Azeroth kalmıştır.
+    ["41798"] = { -- Quest ID varsayılan olarak yerleştirilmiştir.
+    ["Title"]="Sevgili Karım",
+    ["Description"]="Sana da iyi günler, <class>. Gözüme macera düşkünü biri gibi göründün. Bugünlerde her yerde kol gezen tehlikelerin birçoğuna göğüs gerdin mi? Nereye gidersen git, krizler pek uzakta değil gibi görünüyor. Kesinlikle çocuklarımızın büyümesini isteyeceğimiz bir dünya değil. Karım, Azeroth'u daha iyi bir yer haline getirmek için elinden geleni yapıyor, ancak içinde bulunduğu organizasyonda bile bunu başarmak onun için neredeyse imkansız bir görev. Söylesene, bir paralı asker olarak ona yardım etmek ister misin? Bu kez görevlendirildiği operasyon... oldukça hassas, ya da bana öyle söyledi. Doğruyu söylemek gerekirse, onun sağlığı için endişeleniyorum; bu durum onun için bile çok fazla olabilir. Ona yardım edebilirsen sana sonsuza kadar borçlu kalırım.\n\nEğer kabul ediyorsan, buranın hemen batısındaki limana git. Güneydeki iskelelerden birinde onun bir meslektaşını bulmalısın — adı Simmons'tı sanırım. Ona Ajan Gillian'ın (Operative Gillian) dışarıdan daha fazla yardım talep ettiğini söyle, o da seni karımın yanına, Balor adasına götürecektir.",
+    ["Objectives"]="Ronald Gillian, işine yardımcı olman için Balor adasındaki karısına katılmanı istedi.",
+    ["Progress"]="Ronald Gillian, işine yardımcı olman için Balor adasındaki karısına katılmanı istedi.",
+    ["Completion"]="Ah Ronald, kalbin temiz ama bu saf niyetin bazen gerçekten çok zahmetli olabiliyor. Her neyse, madem buradasın, bize yardım etsen iyi olur. Benim adım Ajan Verona Gillian (Operative Verona Gillian) ve Balor denen bu cehenneme hoş geldin.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end My Darling Wife
+    -- Suspicions From Sea
+    -- Suspicions From Sea -> Denizden Gelen Şüpheler (Suspicions + From + Sea).
+    -- Balor -> Balor kalmıştır (Ada ismi).
+    ["41786"] = { 
+    ["Title"]="Denizden Gelen Şüpheler",
+    ["Description"]="Bu ada benimle oyun oynuyor. Gün boyu yoğun bir sisle kaplanıyor ve birkaç dakikalığına da olsa sis dağıldığında, okyanusun ortasından yükselen duman bulutları görüyorum. Evet, okyanustan! Görünürde hiç kara parçası yok, ama duman sanki dünyanın en mantıklı şeyiymiş gibi gökyüzüne doğru yükseliyor. Operasyonumuzda bize yardım ediyorsun, değil mi? Eğer vaktin varsa, buradan kuzeybatıya doğru uzanan açık denizi kontrol edip bana o çaresizce ihtiyaç duyduğum iç huzurunu verebilir misin?",
+    ["Objectives"]="Balor yakınlarındaki açık denizden gelen şüpheli dumanı araştır.",
+    ["Progress"]="", -- Mevcut veride aşama metni bulunmamaktadır.
+    ["Completion"]="Birinin buraya gelmeye cüret etmesi an meselesiydi zaten. Silahlarını indir, sana bir zararım dokunmaz.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Suspicions From Sea
+    -- Assessing The Situation
+    -- Assessing The Situation -> Durumu Değerlendirmek (Assessing + The + Situation).
+    -- SI:7 -> SI:7 kalmıştır (Özel organizasyon adı).
+    -- Ruins of Breezehaven -> Meltemlimanı Kalıntıları (Breeze -> Meltem, Haven -> Liman/Sığınak).
+    -- Balor -> Balor kalmıştır (Ada ismi).
+    -- Shaw -> Shaw kalmıştır (Master Mathias Shaw).
+    -- Stormreaver -> Fırtınayağmalamacısı / Fırtınayağmacıları (Storm + reaver).
+    ["41692"] = { 
+    ["Title"]="Durumu Değerlendirmek",
+    ["Description"]="Grupta daha fazla elin olması güzel. Shaw bu lanetli adaya tam olarak koca bir alay göndermedi, bu da elimizdekilerle yetinmek zorunda olduğumuz anlamına geliyor. Şu anki ana hedefimiz bölgeyi keşfetmek ve Fırtınayağmacılarının (Stormreaver) ne yaptığını ve ne amaçla burada olduklarını öğrenmek. Bölgede henüz hiç orkla karşılaşmadık, bu da ipuçları konusunda biraz kısır kaldığımız anlamına geliyor. Şimdi bizimle olman iyi oldu.\n\nBuraya vardıktan kısa bir süre sonra, liman kalıntılarında şüpheli bir hareketlilik olup olmadığını gözetlemesi için ana adaya bir keşif birimi gönderdik. Gerçi ne kadar şüpheli olabilirse, o kadar işte. Birkaç saattir onlardan haber alamadık, bu da pek hayra alamet değil. Meltemlimanı Kalıntıları'na (Ruins of Breezehaven) tepeden bakan platodaki durumlarını kontrol etmeni istiyorum. Eğer hâlâ yaşıyorlarsa onlara yardım et. Yaşamıyorlarsa... Ne olduğunu öğren.",
+    ["Objectives"]="Balor adasındaki Meltemlimanı Kalıntıları'nın (Ruins of Breezehaven) yakınındaki platoda bulunan SI:7 birliğiyle bir araya gel.",
+    ["Progress"]="<Etrafınızdaki ortam burada şiddetli bir savaşın gerçekleştiğini gösteriyor; harap olmuş kampın etrafında pusuya yatmış leşçil kuşlar kasvetli bir tablo çiziyor. Etrafa saçılmış erzakların arasında bulduğun günlük, burada ne olduğuna dair bir ipucu barındırıyor olabilir.>",
+    ["Completion"]="<Etrafınızdaki ortam burada şiddetli bir savaşın gerçekleştiğini gösteriyor; harap olmuş kampın etrafında pusuya yatmış leşçil kuşlar kasvetli bir tablo çiziyor. Etrafa saçılmış erzakların arasında bulduğun günlük, burada ne olduğuna dair bir ipucu barındırıyor olabilir.>",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Assessing The Situation
+    -- Ceaseless Storms
+    -- Hydromancer Finnigan -> Su Büyücüsü Finnigan (Hydromancer -> Su Büyücüsü).
+    -- Pearlescent Shard -> Sedefsi Parça / İncimsi Parça (Pearlescent -> Sedefsi/İncimsi, Shard -> Parça).
+    -- Balor -> Balor kalmıştır (Ada ismi).
+    -- Davenburg -> Davenburg kalmıştır (Yerleşim yeri ismi).
+    -- SI:7 -> SI:7 kalmıştır (Özel organizasyon adı).
+    -- Kul Tiras -> Kul Tiras kalmıştır (Bölge/Ulus ismi).
+    -- murloc tidecaller -> murlok dalgaçağıranı (murloc -> murlok, tidecaller -> dalgaçağıran).
+    ["41709"] = { 
+    ["Title"]="Dinmeyen Fırtınalar",
+    ["Description"]="Balor'un fırtınaları beni büyülüyor. Davenburg'da kaldığım süre boyunca ara sıra uzaklara bakıp adanın üzerinde bir sefalet ve kasvet pelerini gibi beliren ağır bulutları görebiliyordum. Diğer su büyücüsü (hydromancer) arkadaşlarımla bir araya geldim ve bu doğal olmayan fenomenin nedeninin ne olabileceğine dair birkaç teori ürettim. Daha önce bu adayı güvenli bir şekilde keşfetmemiz için hiçbir zaman gerçek bir fırsat olmamıştı, ancak SI:7 birliğinin buraya düzenlediği seferle birlikte böyle bir fırsat doğdu ve ben de doğal olarak onlara yardım etmek için gönüllü oldum.\n\nFırtınayı yakından hissetmek, bunun Kul Tiras'ta açık denizde karşılaştığımız rüzgarlardan kesinlikle farklı olduğunu anlamamı sağladı. Dahası, biz su büyücülerine pek de yabancı olmayan bir tür gelgit büyüsü yapıyor gibi görünen yerel murlokları gözlemlemeye başladım. <name>, murlok dalgaçağıranını (murloc tidecaller) bul ve sıra dışı bir şeye sahip olup olmadıklarını gör. Son raporlarımız onların kuzeybatı adalarında toplandıklarını söylüyor.",
+    ["Objectives"]="Balor adasındaki büyüye meylli murlokları takip et ve üzerlerinde şüpheli bir şey olup olmadığını araştır. Ardından Balor'daki Su Büyücüsü Finnigan'a (Hydromancer Finnigan) geri dön.",
+    ["Progress"]="Kul Tiras ve Balor ortak bir geçmişi paylaşıyor; onlarca yıl önce toy ulusumuzla ticaret yapanlar onların gemileri olmasaydı. Bu yüzden, ne kadar zayıf olursa olsun, bu yerle aramda uzak bir bağ ve aşinalık hissediyorum.",
+    ["Completion"]="Bu parlaklık ve doku...! Küçük bir parçasında bile gelgitlerin içinde yankılandığını hissedebiliyorum. Ve bunu bir altarın üzerindeki, enerjiyle çatırdayan devasa bir inciden mi aldın? Sana karşı dürüst olacağım, bu kulağa son derece endişe verici geliyor.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Ceaseless Storms
+    -- Fungal Fever
+    -- Kinrial -> Kinrial kalmıştır (Özel isim, fonetiği çeviriye uygun değildir).
+    -- SI:7 Outpost -> SI:7 İleri Karakolu (Outpost -> İleri Karakol).
+    -- Balor -> Balor kalmıştır (Ada ismi / ZoneData.lua)[cite: 2].
+    -- Enriched Spore -> Zenginleştirilmiş Spor (Enriched + Spore).
+    -- Writhing Mushroom Mycelia -> Kıvranan Mantar Miselyumu (Writhing + Mushroom + Mycelia).
+    ["41707"] = { 
+    ["Title"]="Mantar Humması",
+    ["Description"]="Bu adada hastalıklar ve illetler kol geziyor. Hastalıkların erime potası, marazi topraktan yükselen doğal olmayan bir karanlık sisiyle birleşmiş durumda. Operatiflerimiz bu fenomenlerin neden olduğu bir rahatsızlıktan etkilenmeye başladı. Yüksek ateş, tahriş edici döküntüler ve hem organlarda hem de kaslarda dayanılmaz kramplar. Seferin sıhhiyecisi olarak görevim, onların semptomlarını ortadan kaldırmaktır; ve bana yardım etmeni istiyorum.\n\nBu illetin kökeninin adanın atmosferine nüfuz eden küçük mantar sporlarından kaynaklandığına dair bir teori geliştirdim. Yıllar geçtikçe, yerin altında zehirli mantarlardan oluşan büyük bir kültürün geliştiğini ve şimdi üremek için filizlerini dışarı saldığını tahmin ediyorum. Hatta gözcülerimizin bildirdiğine göre, ıssız savaş alanının ilerisindeki terk edilmiş bir madende bunlardan bazıları korkunç spor canavarları şeklinde canlanmış; semptomlara karşı koymak için en güçlü sporlara ihtiyacım var, bunların da o canavarların üzerinde bulunabileceğine inanıyorum.",
+    ["Objectives"]="Kinrial, serumu için güçlü sporlara ihtiyaç duyuyor. Balor adasındaki SI:7 İleri Karakolu'nda (SI:7 Outpost) beklemektedir.[cite: 2]",
+    ["Progress"]="<Kinrial sana pek dikkat etmiyor.>",
+    ["Completion"]="<Monoklunun altında miselyumu inceleyen Kinrial'ın yüzünde sert bir ifade maskeleniyor; hem endişe hem de eleştirel bir merak olduğunu tahmin ediyorsun.>\n\nİlginç, mantar türleri üremek için verimli topraklar aramaya devam ediyor. Normal şartlar altında, uygun toprağa yerleşmezlerse hızla ölürlerdi, ama bunlar öyle değil. Besin arayışıyla aktif bir şekilde kıvranıyor ve sertleşiyorlar. Dehşet verici bir manzara. Operatiflerimizin iyiliği için bu hoş olmayan detayı gizli tutacağım.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Fungal Fever
+    -- Stinging Lullaby
+    -- Kinrial -> Kinrial kalmıştır (Özel isim).
+    -- SI:7 Outpost -> SI:7 İleri Karakolu (Outpost -> İleri Karakol).
+    -- Balor -> Balor kalmıştır (Ada ismi / ZoneData.lua)[cite: 2].
+    -- Mistbark -> Siskabuğu (Mist -> Sis, Bark -> Ağaç kabuğu/Kabuk).
+    -- Mistbark Venom Sac -> Siskabuğu Zehir Kesesi (Venom Sac -> Zehir Kesesi).
+    -- Enormous Venom Sac -> Devasa Zehir Kesesi (Enormous + Venom Sac).
+    -- Agent Gillian -> Ajan Gillian (Agent -> Ajan).
+    -- Kalimdor -> Kalimdor kalmıştır (Kıta ismi).
+    -- Lightfooted Mokassins -> Hafifadımlı Makosenler (Lightfooted -> Hafifadımlı, Mokassins -> Makosenler).
+    -- Grips of Mending -> İyileştirme Kavrayışları / İyileştirici Eldiven (Mending -> İyileştirme/Yama, Grips -> Kavrayış/Eldiven).
+    ["41708"] = { 
+    ["Title"]="Sokucu Ninni",
+    ["Description"]="Bu ileri karakoldaki herkes gibi ben de Ajan Gillian'a liderimiz olarak saygı duyuyorum. İzlediği yöntemler sistemlidir; görev gücünün güvenliği ile görevin başarısı arasında adil bir denge kurar. Kendi sorumluluğunu eline almaktan korkmuyor; bu korku, Kalimdor'daki halkımı anımsatan bir korku. Bize Balor'un benzersiz ortamından ve koşullarından yararlanmamızı tavsiye etti, bu emir memnuniyetle yerine getireceğim bir şey. Daha önce adayı taradığımda büyüleyici bir manzaraya tanıklık ettim. O hain orklardan biri, kuzeydeki yerel örümcek popülasyonuyla çatışmaya girdi. Bir ısırığa kurban gitti ve ardından kolay bir av haline gelene kadar hızla ani bir uyuşukluk yaşadı. Bu örümcekler, uyuşturucu ve felç edici özelliklere sahip çok güçlü bir zehre sahip olmalı. Eğer bu zehri çıkarabilirsek, Balor'daki seferimiz için pek çok kullanım alanı sağlayabilir. Bana onların zehir keselerini getir ve bunu yaparken sayılarını da azalt. Bizim için yararlı olabilirler, ama yine de bir tehlike arz etmeye devam ediyorlar.",
+    ["Objectives"]="Zehir kaynaklarını desteklemek için Balor adasındaki SI:7 İleri Karakolu'nda (SI:7 Outpost) bulunan Kinrial, Siskabuğu (Mistbark) örümceklerinin zehir keselerine ihtiyaç duyuyor.[cite: 2]",
+    ["Progress"]="Bir sıhhiyecinin zehir damıtımıyla uğraşmasının alışılmadık olduğunu düşünebilirsin, ancak unvanı ne olursa olsun bu, SI:7'da zorunlu bir uzmanlık alanıdır. Özellikle beden ve anatomi üzerindeki bilgim, bana başkalarının mahrum kalabileceği belirli içgörüler kazandırıyor.",
+    ["Completion"]="Sıra dışı derecede keskin bir koku. Bunlardan işlevsel bir zehir çıkarmak biraz zaman alabilir, ancak sonuç bu çabaya fazlasıyla değecektir. Sana teşekkür etmeliyim, yardımın bu görevin başarısını tahmin ettiğinden çok daha fazla hızlandırıyor.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Stinging Lullaby
     --123456789
 
 

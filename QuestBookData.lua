@@ -635,5 +635,9 @@ QuestTranslator_BookData = {
     ["Saint Mara Fordragon"] = {
         ["Title"] = "Azize Mara Ejderhabend",
         ["Text"] = "Fırtınarüzgarı'ın koruyucu annesi.NEW_LINE Işığı, yuvasının yeniden doğması için yolu açtı.NEW_LINE Nazik ve şefkatli doğası, tehlike anlarında teselli verdi.NEW_LINE Işığın kucağında ebedi huzuru bulsun.NEW_LINE - Başpiskopos Benedictus"
+    },
+    ["Prismatic Punch Card"] = {
+        ["Title"] = "Prizmatik Delikli Kart",
+        ["Text"] = "Bu verinin güvenlik derecesi o kadar yüksek ki, onu tanımlamak için yeni bir sayının icat edilmesi bekleniyor!"
     }
 }

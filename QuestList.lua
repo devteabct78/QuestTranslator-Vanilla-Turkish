@@ -8697,6 +8697,11 @@ QuestTranslator_QuestList = {
 ["Lonesome Arnold"]="41642",
 ["Chopping Defias"]="41635",
 ["Magilou's Magical Mishap"]="41634",
-
+["My Darling Wife"]="41798",
+["Suspicions From Sea"]="41786",
+["Assessing The Situation"]="41692",
+["Ceaseless Storms"]="41709",
+["Fungal Fever"]="41707",
+["Stinging Lullaby"]="41708"
 
 } 
