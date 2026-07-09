@@ -47644,7 +47644,7 @@ QuestTranslator_QuestData = {
     ["Description"]="Gnomeregan'ın yıkılması, teknolojimizi pek çok yönden geriye götürdü. Çalışmalarımızın büyük bir kısmı göz açıp kapayıncaya kadar yok oldu.\n\nEsasen önümüzü görmeden çalışıyoruz. Eğer bu tesiste bir gün gerçekten ilerleme kaydetmek istiyorsak, büyük öneme sahip çok nadir bir eşyaya ihtiyacımız var.\n\nYüksek Enerji Düzenleyicisi (High Energy Regulator), yoğun enerji dalgalanmalarını yönetmek için yaratılmış bir şeydir. O olmadan, aşırı miktardaki gücü ihtiyacımız olan yere yönlendirmek imkansızdır; ki burada yapmaya çalıştığımız şey de tam olarak budur!\n\nŞu anda bu tesis, sistemlerimizin aşırı yüklenmesini veya aşırı dalgalanma yaşamasını önlemek için düşük güçte çalışıyor. Ancak daha hızlı çalışabiliriz, ÇOK daha hızlı. Gnomeregan'da kaybolan Yüksek Enerji Düzenleyicisi'nin şemasını bulmanı istiyorum. Eğer onu ele geçirebilirsek, bu tesisi gerçekten çalışması gerektiği gibi kullanabiliriz.",
     ["Objectives"]="Gnomeregan içindeki Şema: Yüksek Enerji Düzenleyicisi'ni (Schematic: High Energy Regulator) bul ve onu Dun Morogh'daki Gnomeregan Geri Kazanım Tesisi'nde (Gnomeregan Reclamation Facility) bulunan Weezan Küçükçark'a (Weezan Littlegear) ulaştır.[cite: 2]",
     ["Progress"]="Lanet İngiliz anahtarı, her zaman...\n\nOh, beni ürküttün; şemayı kurtarmayı başarmış olamazsın, değil mi?",
-    ["Completion"]="Hmm, bu hatırladığımdan çok daha karmaşık; ancak biraz bilek gücü ve gnom mühendisliğinin (gnomish engineering) dikkatli uygulamalarıyla düzgün bir kopyasını oluşturmak çok zor olmayacaktır. Uygulamaya koymadan önce verimliliğini test etmek biraz zaman alacak, ancak bu bizi yeni bir prototip tasarlarken büyük bir zaman kaybından kurtardı.\n\nYardımların için tekrar teşekkürler <class>. Al, yardımına bir teşekkür olarak bu Düşük Enerji Düzenleyicisi'ni (Low Energy Regulator) kabul et.",
+    ["Completion"]="Hmm, bu hatırladığımdan çok daha karmaşık; ancak biraz bilek gücü ve gnom mühendisliğinin (gnomish engineering) dikkatli uygulamalarıyla düzgün bir kopyasını oluşturmak çok zor olmayacaktır. Uygulamaya koymadan önce verimliliğini test etmek biraz zaman alacak, ancak bu bizi yeni bir prototip tasarlarken büyük bir zaman kaybından kurtardı.\n\nYardımların için tekrar teşekkürler YOUR_CLASS. Al, yardımına bir teşekkür olarak bu Düşük Enerji Düzenleyicisi'ni (Low Energy Regulator) kabul et.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end High Energy Regulator
@@ -47656,7 +47656,7 @@ QuestTranslator_QuestData = {
     -- Azeroth -> Azeroth kalmıştır.
     ["41798"] = { -- Quest ID varsayılan olarak yerleştirilmiştir.
     ["Title"]="Sevgili Karım",
-    ["Description"]="Sana da iyi günler, <class>. Gözüme macera düşkünü biri gibi göründün. Bugünlerde her yerde kol gezen tehlikelerin birçoğuna göğüs gerdin mi? Nereye gidersen git, krizler pek uzakta değil gibi görünüyor. Kesinlikle çocuklarımızın büyümesini isteyeceğimiz bir dünya değil. Karım, Azeroth'u daha iyi bir yer haline getirmek için elinden geleni yapıyor, ancak içinde bulunduğu organizasyonda bile bunu başarmak onun için neredeyse imkansız bir görev. Söylesene, bir paralı asker olarak ona yardım etmek ister misin? Bu kez görevlendirildiği operasyon... oldukça hassas, ya da bana öyle söyledi. Doğruyu söylemek gerekirse, onun sağlığı için endişeleniyorum; bu durum onun için bile çok fazla olabilir. Ona yardım edebilirsen sana sonsuza kadar borçlu kalırım.\n\nEğer kabul ediyorsan, buranın hemen batısındaki limana git. Güneydeki iskelelerden birinde onun bir meslektaşını bulmalısın — adı Simmons'tı sanırım. Ona Ajan Gillian'ın (Operative Gillian) dışarıdan daha fazla yardım talep ettiğini söyle, o da seni karımın yanına, Balor adasına götürecektir.",
+    ["Description"]="Sana da iyi günler, YOUR_CLASS. Gözüme macera düşkünü biri gibi göründün. Bugünlerde her yerde kol gezen tehlikelerin birçoğuna göğüs gerdin mi? Nereye gidersen git, krizler pek uzakta değil gibi görünüyor. Kesinlikle çocuklarımızın büyümesini isteyeceğimiz bir dünya değil. Karım, Azeroth'u daha iyi bir yer haline getirmek için elinden geleni yapıyor, ancak içinde bulunduğu organizasyonda bile bunu başarmak onun için neredeyse imkansız bir görev. Söylesene, bir paralı asker olarak ona yardım etmek ister misin? Bu kez görevlendirildiği operasyon... oldukça hassas, ya da bana öyle söyledi. Doğruyu söylemek gerekirse, onun sağlığı için endişeleniyorum; bu durum onun için bile çok fazla olabilir. Ona yardım edebilirsen sana sonsuza kadar borçlu kalırım.\n\nEğer kabul ediyorsan, buranın hemen batısındaki limana git. Güneydeki iskelelerden birinde onun bir meslektaşını bulmalısın — adı Simmons'tı sanırım. Ona Ajan Gillian'ın (Operative Gillian) dışarıdan daha fazla yardım talep ettiğini söyle, o da seni karımın yanına, Balor adasına götürecektir.",
     ["Objectives"]="Ronald Gillian, işine yardımcı olman için Balor adasındaki karısına katılmanı istedi.",
     ["Progress"]="Ronald Gillian, işine yardımcı olman için Balor adasındaki karısına katılmanı istedi.",
     ["Completion"]="Ah Ronald, kalbin temiz ama bu saf niyetin bazen gerçekten çok zahmetli olabiliyor. Her neyse, madem buradasın, bize yardım etsen iyi olur. Benim adım Ajan Verona Gillian (Operative Verona Gillian) ve Balor denen bu cehenneme hoş geldin.",
@@ -47701,7 +47701,7 @@ QuestTranslator_QuestData = {
     -- murloc tidecaller -> murlok dalgaçağıranı (murloc -> murlok, tidecaller -> dalgaçağıran).
     ["41709"] = { 
     ["Title"]="Dinmeyen Fırtınalar",
-    ["Description"]="Balor'un fırtınaları beni büyülüyor. Davenburg'da kaldığım süre boyunca ara sıra uzaklara bakıp adanın üzerinde bir sefalet ve kasvet pelerini gibi beliren ağır bulutları görebiliyordum. Diğer su büyücüsü (hydromancer) arkadaşlarımla bir araya geldim ve bu doğal olmayan fenomenin nedeninin ne olabileceğine dair birkaç teori ürettim. Daha önce bu adayı güvenli bir şekilde keşfetmemiz için hiçbir zaman gerçek bir fırsat olmamıştı, ancak SI:7 birliğinin buraya düzenlediği seferle birlikte böyle bir fırsat doğdu ve ben de doğal olarak onlara yardım etmek için gönüllü oldum.\n\nFırtınayı yakından hissetmek, bunun Kul Tiras'ta açık denizde karşılaştığımız rüzgarlardan kesinlikle farklı olduğunu anlamamı sağladı. Dahası, biz su büyücülerine pek de yabancı olmayan bir tür gelgit büyüsü yapıyor gibi görünen yerel murlokları gözlemlemeye başladım. <name>, murlok dalgaçağıranını (murloc tidecaller) bul ve sıra dışı bir şeye sahip olup olmadıklarını gör. Son raporlarımız onların kuzeybatı adalarında toplandıklarını söylüyor.",
+    ["Description"]="Balor'un fırtınaları beni büyülüyor. Davenburg'da kaldığım süre boyunca ara sıra uzaklara bakıp adanın üzerinde bir sefalet ve kasvet pelerini gibi beliren ağır bulutları görebiliyordum. Diğer su büyücüsü (hydromancer) arkadaşlarımla bir araya geldim ve bu doğal olmayan fenomenin nedeninin ne olabileceğine dair birkaç teori ürettim. Daha önce bu adayı güvenli bir şekilde keşfetmemiz için hiçbir zaman gerçek bir fırsat olmamıştı, ancak SI:7 birliğinin buraya düzenlediği seferle birlikte böyle bir fırsat doğdu ve ben de doğal olarak onlara yardım etmek için gönüllü oldum.\n\nFırtınayı yakından hissetmek, bunun Kul Tiras'ta açık denizde karşılaştığımız rüzgarlardan kesinlikle farklı olduğunu anlamamı sağladı. Dahası, biz su büyücülerine pek de yabancı olmayan bir tür gelgit büyüsü yapıyor gibi görünen yerel murlokları gözlemlemeye başladım. YOUR_NAME, murlok dalgaçağıranını (murloc tidecaller) bul ve sıra dışı bir şeye sahip olup olmadıklarını gör. Son raporlarımız onların kuzeybatı adalarında toplandıklarını söylüyor.",
     ["Objectives"]="Balor adasındaki büyüye meylli murlokları takip et ve üzerlerinde şüpheli bir şey olup olmadığını araştır. Ardından Balor'daki Su Büyücüsü Finnigan'a (Hydromancer Finnigan) geri dön.",
     ["Progress"]="Kul Tiras ve Balor ortak bir geçmişi paylaşıyor; onlarca yıl önce toy ulusumuzla ticaret yapanlar onların gemileri olmasaydı. Bu yüzden, ne kadar zayıf olursa olsun, bu yerle aramda uzak bir bağ ve aşinalık hissediyorum.",
     ["Completion"]="Bu parlaklık ve doku...! Küçük bir parçasında bile gelgitlerin içinde yankılandığını hissedebiliyorum. Ve bunu bir altarın üzerindeki, enerjiyle çatırdayan devasa bir inciden mi aldın? Sana karşı dürüst olacağım, bu kulağa son derece endişe verici geliyor.",
@@ -47790,11 +47790,75 @@ QuestTranslator_QuestData = {
     ["Title"]="En Karanlık Yerlere",
     ["Description"]="Birliğim, Vraklayan Plato'nun (Croaking Plateau) etrafındaki çevreyi gözetleyen on operatiften oluşuyordu. Hayatta kalan birkaç kişiden bu hana kilitlenen tek kişi bendim. Ne sebeple olduğunu bilmiyorum. Ancak görebildiğim kadarıyla üç yoldaşım —Flynn, Elroy ve Cherys— buranın güneyindeki savaş alanının ötesine doğru sürükleniyordu. Şans eseri konuştukları Orkça (orcish) kelimelerden birkaçını anladım. Konuşmalarından deşifre edebildiklerim 'mağara', 'tepe' ve 'efendi' oldu. Çok fazla şey olmayabilir ama hiç yoktan iyidir sanırım. Kusura bakma ama bu yaralarla sana pek yardımım dokunmayacak; Ajan Gillian'a (Operative Gillian) geri dönüp olanları anlatacağım, bu kadarını herhalde becerebilirim. Dua ediyorum ki daha fazlasını açığa çıkarasın ve ileri karakola güvenle geri dönesin.",
     ["Objectives"]="Ajan Deryl'in (Agent Deryl) sana verdiği ipuçlarını kullanarak yoldaşlarını ve düşmanların hakkında olası bilgileri bul. Ardından Balor adasındaki SI:7 İleri Karakolu'nda (SI:7 Outpost) bulunan Verona Gillian'a geri dön.[cite: 2]",
-    ["Progress"]="<name>, geri mi döndün? Ajan Deryl senden çok kısa bir süre önce buraya vardı, vücudu ağır yaralarla doluydu. İyileşmesi için onu Fırtınarüzgarı'na (Stormwind) geri gönderdik. Ama söyle bana, bulabildiğin bir şey var mı?",
+    ["Progress"]="YOUR_NAME, geri mi döndün? Ajan Deryl senden çok kısa bir süre önce buraya vardı, vücudu ağır yaralarla doluydu. İyileşmesi için onu Fırtınarüzgarı'na (Stormwind) geri gönderdik. Ama söyle bana, bulabildiğin bir şey var mı?",
     ["Completion"]="Ne yazık ki bugün kaybettiğimiz ajanlar çok değerliydi. Ailelerine resmi yazılar göndereceğim, Krallığa (Kingdom) olan hizmetleri unutulmayacak. Şimdi, bu parşömene gelecek olursak...",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end To The Darkest Places
+    -- The Second Rebellion
+    -- Colonel Kurzen -> Albay Kurzen (Colonel -> Albay).
+    -- Kurzen Jungle Fighter -> Kurzen Orman Savaşçısı (Jungle -> Orman, Fighter -> Savaşçı).
+    -- Sergeant Yohwa -> Çavuş Yohwa (Sergeant -> Çavuş).
+    -- Rebel Camp -> Asi Kampı (Rebel -> Asi, Camp -> Kamp).
+    ["203"] = { 
+    ["Title"]="İkinci İsyan",
+    ["Description"]="Albay Kurzen'e (Colonel Kurzen) karşı kaybedeceğimiz bir savaş veriyoruz. Kendisi sadece parlak bir taktikçi olmakla kalmıyor, sayıca da bizden en az 10'a 1 üstün! Hayatta kalmak için onun kendi gizli taktiklerini ona karşı kullanmalıyız.\n\nDoğudaki kampına gir ve adamlarını öldür. Hem de çok sayıda. Ve destek kuvvetleri etrafını sarmadan önce oradan uzaklaş.",
+    ["Objectives"]="15 Kurzen Orman Savaşçısı (Kurzen Jungle Fighter) öldür.\n\nAsi Kampı'ndaki (Rebel Camp) Çavuş Yohwa'ya (Sergeant Yohwa) geri dön.",
+    ["Progress"]="Avında başarılı olduğunu umuyorum, YOUR_NAME. Senin yardımın olmadan ona karşı çok fazla dayanamayız.",
+    ["Completion"]="Aferin. O Orman Savaşçılarının (Jungle Fighters) kaybı, kampımız üzerindeki baskıyı biraz olsun hafifletecektir.\n\nAma artık karşı karşıya olduğumuz güçlerin tadına baktığına göre, hâlâ kaderini bizimle birleştirmek istiyor musun?",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end The Second Rebellion
+    -- Bad Medicine
+    -- Jungle Remedy -> Orman Şifası / Orman İlacı (Jungle -> Orman, Remedy -> Şifa/İlaç).
+    -- Venom Fern Extract -> Zehir Eğreltiotu Özütü (Venom -> Zehir, Fern -> Eğreltiotu, Extract -> Özüt).
+    -- Sergeant Yohwa -> Çavuş Yohwa (Sergeant -> Çavuş).
+    -- Rebel Camp -> Asi Kampı (Rebel -> Asi, Camp -> Kamp).
+    -- Kurzen / Colonel Kurzen -> Albay Kurzen kalmıştır.
+    -- Medicine Men -> Şamanlar / Otacılar (Medicine Man -> Otacı/Şifacı).
+    -- Kurzen Compound -> Kurzen Yerleşkesi (Compound -> Yerleşke/Kamp).
+    -- Palm Frond Mantle -> Palmiye Yaprağı Pelerini (Palm Frond -> Palmiye Yaprağı, Mantle -> Pelerin).
+    -- Guerrilla Cleaver -> Gerilla Satırı (Guerrilla -> Gerilla, Cleaver -> Satır).
+    ["204"] = { 
+    ["Title"]="Kötü İlaç",
+    ["Description"]="Kurzen'e karşı bir şansımız olması için onun şifa desteğini etkisiz hale getirmemiz gerekiyor. Etrafında, kuvvetlerini Orman Şifaları (Jungle Remedies) ile iyileştiren ve savaşçılarımızı Zehir Eğreltiotu Özütleri (Venom Fern Extracts) ile zehirleyen çok sayıda Otacı (Medicine Men) topladı.\n\nKendi halkımızı tedavi etmek için o şifalara ihtiyacımız var ve kendi ilaçlarımızı üretebilmek amacıyla incelemek üzere o özütlerden bir örneğe ihtiyacımız var. Her ikisi için de Kurzen Yerleşkesi'ni (Kurzen Compound) ara; otacılarında şifalar bulunacaktır, özütler ise muhtemelen kampın erzak kutularından bazılarında istiflenmiştir.",
+    ["Objectives"]="7 Orman Şifası (Jungle Remedy) ve 1 Zehir Eğreltiotu Özütü'nü (Venom Fern Extract) Asi Kampı'ndaki (Rebel Camp) Çavuş Yohwa'ya (Sergeant Yohwa) ulaştır.",
+    ["Progress"]="O şifaları ve özütü bekliyorum, YOUR_NAME.",
+    ["Completion"]="Aferin, YOUR_NAME. Bu şifalar daha fazlamızı hayatta ve savaşacak durumda tutacaktır. Özütler ise kendi ilaçlarımızı yaratmamıza yardımcı olacak.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Bad Medicine
+    -- Krazek's Cookery
+    -- Krazek's Cookery -> Krazek's Cookery -> Krazek'in Aşçılığı / Krazek'in Tenceresi.
+    -- Krazek's Crock Pot -> Krazek'in Güveç Tenceresi (Crock Pot -> Güveç Tenceresi / Elektrikli Yavaş Pişirici).
+    -- Krazek -> Krazek kalmıştır (Goblin ismi).
+    -- Booty Bay -> Yağma Koyu (Booty -> Yağma/Ganimet, Bay -> Koy)[cite: 1].
+    ["210"] = { 
+    ["Title"]="Krazek'in Aşçılığı",
+    ["Description"]="Kamptaki yemeklerin çoğunu ben yapıyorum. Ve Yağma Koyu'ndaki (Booty Bay) bir goblin tüccardan mekanik bir pişirme tenceresi satın alana kadar bu iş gerçekten çok zahmetliydi. Bu tencere bir mucize! Bana sayısız saat kazandırdı... Ta ki bozulana kadar![cite: 1]\n\nTencereyi tamir etmesi için benim adıma o gobline geri götürebilir misin? Adı Krazek.",
+    ["Objectives"]="Krazek'in Güveç Tenceresi'ni (Krazek's Crock Pot) goblin Krazek'e ulaştır.",
+    ["Progress"]="Merhaba! Bana bir şey mi getirdin?",
+    ["Completion"]="Ah anlıyorum, bu bir Krazek'in Güveç Tenceresi (Krazek's Crock Pot)! Ustaca yapılmış bir parça, ama ara sıra yayı kırılabilir ya da dişli fırlatabilir. Bakalım bunun nesi varmış...\n\nAha! Buhar şarj cihazı paslanmış, mafsal contası çatlamış ve fobülatörünün dişleri eksilmiş. Tencerenin bu halde bir şalgamı bile kaynatabilmiş olmasına şaşırdım!\n\nTamir edebilir miyim? Elbette tamir edebilir miyim!\n\nAma bir bedeli var. Oh evet, her zaman bir bedeli vardır...",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Krazek's Cookery
+    -- Kurzen's Mystery
+    -- Brother Nimetz -> Peder Nimetz / Nimetz Birader (Brother -> Dini unvan olarak Peder/Birader).
+    -- Colonel Kurzen -> Albay Kurzen (Colonel -> Albay).
+    -- Troll Legend -> Trol Efsanesi (Troll -> Trol).
+    -- Stranglethorn -> Boğandiken (Strangle -> Boğan, Thorn -> Diken).
+    -- Bal'lal Ruins -> Bal'lal Kalıntıları (Ruins -> Kalıntılar).
+    -- Vile Reef -> Habis Resif / Lanetli Resif (Vile -> Habis/Aşağılık, Reef -> Resif).
+    -- Ruins of Zul'Kunda -> Zul'Kunda Kalıntıları.
+    ["207"] = { 
+    ["Title"]="Kurzen'in Gizemi",
+    ["Description"]="Albay Kurzen (Colonel Kurzen) bir zamanlar harika, soylu bir adamdı; onun bu ahlaksızlığa düşmesine neyin sebep olduğunu bulmalıyım! Bir trol büyüsünün etkisi altında olabilir. Bunu doğrulamak için onların bazı efsanelerini incelemeliyim.\n\nBoğandiken'deki (Stranglethorn) trol kalıntılarının içine gizlenmiş 4 tablet var. Bu tabletlerde ne yazdığını görmeliyim! Üzerindeki işaretleri yazıya dök ve bu kopyaları bana getir.\n\nİlk tablet Bal'lal Kalıntıları'nda (Bal'lal Ruins), ikincisi Habis Resif'te (Vile Reef), üçüncüsü ve dördüncüsü ise Zul'Kunda Kalıntıları'ndadır (Ruins of Zul'Kunda).",
+    ["Objectives"]="4 tableti bul ve efsanelerini Peder Nimetz'e (Brother Nimetz) geri getir.",
+    ["Progress"]="YOUR_NAME! Trol efsaneleri yanında mı? Onların sırlarını öğrenmeliyim!",
+    ["Completion"]="Teşekkür ederim, YOUR_NAME. Troller ile Albay Kurzen'i ele geçiren kötülük arasında bir bağ olup olmadığını görmek için bu efsaneleri inceleyeceğim.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Kurzen's Mystery
     --123456789
 
 
