@@ -48682,6 +48682,24 @@ QuestTranslator_QuestData = {
     ["Completion"]="It brings back good memories to work with the same tools she passed down to me.I get to weave the same stitches as the ones she taught me before she passed, and that warms my heart.You've been a real help to this little ol' farm family, YOUR_NAME. Bless you.",
     ["minlevel"]="0",
     ["questlevel"]="0",
+    -- Special Forces
+    -- Kurzen Commando -> Kurzen Komandosu (Commando -> Komando).
+    -- Kurzen Headshrinker -> Kurzen Kelleküçülteni (Headshrinker -> Vudu kültüründe kelle küçülten büyücü / mecazi olarak psikiyatrist, troller için Kelleküçülten mantıklıdır).
+    -- Lieutenant Doren -> Teğmen Doren (Lieutenant -> Teğmen).
+    -- Rebel Camp -> Asi Kampı (Rebel -> Asi, Camp -> Kamp).
+    -- Kurzen Compound -> Kurzen Yerleşkesi (Compound -> Yerleşke/Kamp).
+    -- Stockpile -> Cephanelik / Erzak Deposu (Stockpile -> Depo/Stok alanı, kamp temasına göre Cephanelik uygundur).
+    -- Sergeant Yohwa -> Çavuş Yohwa (Sergeant -> Çavuş).
+    -- Colonel -> Albay.
+    ["574"] = { 
+    ["Title"]="Özel Kuvvetler",
+    ["Description"]="Artık düzenli birliklerinin birçoğu azaltıldığına göre, onun yüksek eğitimli kuvvetleriyle yüzleşmelisiniz. Yaban hayatta asi askerlerimizi katletmedikleri zamanlarda, Kurzen Yerleşkesi'nin (Kurzen Compound) derinliklerinde, Cephanelik (Stockpile) dedikleri bir mağarada bulunurlar.\n\nKurzen'in askerlerinin birçoğunu şahsen tanıyorum ve onların yetenekli, sadık ve zalim olduklarını biliyorum. Önünüze koyduğum bu görev hiç de kolay değil, <name>.\n\nOnları yendikten sonra komutanım Teğmen Doren'e (Lieutenant Doren) rapor verin. Raporunuzu ilk elden duymak isteyecektir.",
+    ["Objectives"]="10 Kurzen Komandosu (Kurzen Commando) ve 6 Kurzen Kelleküçülteni (Kurzen Headshrinker) öldür.\n\nAsi Kampı'ndaki (Rebel Camp) Teğmen Doren'e rapor ver.",
+    ["Progress"]="Çavuş Yohwa (Sergeant Yohwa) bana yetenekli ve cesur olduğunu söyledi, <class>. Rapor edecek bir şeyin var mı?",
+    ["Completion"]="YOUR_NAME. Çavuş Yohwa senin yeteneklerine güvendi, ben de ona güveniyorum. Kurzen'in kuvvetlerine tattırdığın yenilgi neredeyse umut edilemeyecek kadar büyük. Biz asilerin yapayalnız kaldığımızdan ve tek başımıza Albay'ın (Colonel) dehasına asla karşı koyamayacağımızdan korkuyordum.\n\nBelki de hayatta kalma umudumuz hâlâ tükenmemiştir.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Special Forces
     }, -- end [DEPRECATED] Wool Would Work
 
 };
