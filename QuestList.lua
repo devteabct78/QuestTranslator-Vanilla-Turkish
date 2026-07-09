@@ -8702,6 +8702,9 @@ QuestTranslator_QuestList = {
 ["Assessing The Situation"]="41692",
 ["Ceaseless Storms"]="41709",
 ["Fungal Fever"]="41707",
-["Stinging Lullaby"]="41708"
+["Stinging Lullaby"]="41708",
+["Poor Porcelain Doll"]="41705",
+["The Last Lines"]="41693",
+["To The Darkest Places"]="41694"
 
 } 

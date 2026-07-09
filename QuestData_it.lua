@@ -47743,6 +47743,58 @@ QuestTranslator_QuestData = {
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Stinging Lullaby
+    -- Poor Porcelain Doll
+    -- Poor Porcelain Doll -> Zavallı Porselen Bebek (Poor -> Zavallı, Porcelain Doll -> Porselen Bebek).
+    -- Balor -> Balor kalmıştır (Ada ismi / ZoneData.lua)[cite: 2].
+    -- Etched Porcelain Doll -> Oyulmuş Porselen Bebek / İşlemeli Porselen Bebek (Etched + Porcelain Doll).
+    -- Balor church -> Balor kilisesi.
+    ["41705"] = { 
+    ["Title"]="Zavallı Porselen Bebek",
+    ["Description"]="<Kadın önünüzde neredeyse hareketsiz bir şekilde yatıyor. Bir deri bir kemik kalmış bedeni, hırıltılı ve düzensiz nefes alış verişiyle birlikte korkunç bir manzara sunuyor. Kemikli elinde, kabaca insan şekli verilmiş bir kil toprağı parçasını sıkıca kavramış durumda. Hemen yanında ise kilise zemindeki kalın toz tabakasının üzerine ilkel semboller çizilmiş. Deşifre edebildiğiniz kadarıyla, biri diğerinden daha büyük iki insansı figürü tasvir ediyorlar. Bir çizgi, bu figürleri bir eğri üzerindeki düzensiz bir çember olan başka bir çizime bağlıyor; altında ise tozun içine çılgınca saçılmış pek çok haç işareti var. Issız savaş alanına tepeden bakan tepede, zar zor seçilebilen bir mağarayı hatırlıyorsunuz.>\n\n<Onun çok fazla hayatta kalamayacağı sizin için aşikar. Belki de o mağarada son anlarını yatıştıracak bir şeyler bulabilirsiniz.>",
+    ["Objectives"]="Balor adasındaki savaş alanının tepesinde bulunan mağarayı araştır ve Balor kilisesindeki (Balor church) kadına bir hatıra ile geri dön.[cite: 2]",
+    ["Progress"]="<Ağzından zayıf bir inleme kaçıyor.>",
+    ["Completion"]="<Parçalanmış bebeği kadının yüzünün önüne yerleştiriyorsunuz ve beklenmedik bir esrime patlamasıyla, gözleri kırılgan bedeninin izin verdiği ölçüde açılıyor. Son gücüyle bebeği kavrıyor, bebeğin kenarları eline derinlemesine batsa da hiç kan akmıyor. Tamamen hareketsiz kalmadan önce son bir acıklı feryat dökülüyor dudaklarından.>\n\n<Yaptığınız bu son eylemin ölümünü daha az acılı hale getirip getirmediğini sadece tahmin edebilirsiniz. En azından artık ıstırap çekmediğinden emin olabilirsiniz.>",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Poor Porcelain Doll
+    -- The Last Lines
+    -- Sorrowmore Lake -> Kederli Göl / Hüzünbatan Gölü (Sorrow + more + Lake -> Kederligöl / Hüznünbatan Gölü).
+    -- Balor -> Balor kalmıştır (Ada ismi / ZoneData.lua)[cite: 2].
+    -- Stormreaver Cell Key -> Fırtınayağmacısı Hücre Anahtarı (Stormreaver -> Fırtınayağmacısı, Cell Key -> Hücre Anahtarı).
+    -- Northwind -> Kuzeyrüzgarı (Önceki görevlerde sabitlediğimiz alan adı).
+    -- Thrall's Horde -> Thrall'ın Ordu'su / Thrall'ın Güruhu (Horde -> Orda/Güruh).
+    -- The Light -> Işık.
+    ["41693"] = { 
+    ["Title"]="Son Satırlar",
+    ["Description"]="<Günlükte; birliğin platoda görev yaptığı birkaç saat boyunca karşılaştığı şüphelenilen durumların, gözlemlerin, nöbet çizelgelerinin ve tuhaflıkların ayrıntılı listeleri yer alıyor. Geçmiş sakinlerin birkaç hayaletini görmüş olmalarına rağmen, hiçbir şey Kuzeyrüzgarı'ndaki (Northwind) kayıplarla ilgili bir ipucu sunmamış. Yarıkların karşı tarafındaki kale kalıntılarından duman yükseldiği görülse de henüz bir keşif girişiminde bulunulmamış. Ayrıca, Thrall'ın Horde'una ait küçük bir gücün daha küçük adalardan birine yerleştiği görülüyor. Bu adada ne planladıkları şimdilik bir muamma olarak kalmaya devam ediyor.>\n\n<Bu kitabın son sayfası, hemen bu platonun eteğindeki Kederli Göl'de (Sorrowmore Lake) bulunan terk edilmiş hanı araştırma hazırlıklarını anlatıyor. Belki orada hayatta kalan birilerini bulabilirsin.>",
+    ["Objectives"]="Balor adasındaki Kederli Göl'de (Sorrowmore Lake) daha fazla ipucu ara.[cite: 2]",
+    ["Progress"]="Oh, başka bir <race> görmek ne büyük bir rahatlama! Lütfen, beni buradan çıkarmanız gerekiyor! Liderleri üst katlarda, demir yumruklu, iri yarı biri! Anahtar onda; çabuk olun, fazla zamanımız yok!",
+    ["Completion"]="Kurtarılışın için Işık'a (The Light) şükürler olsun. Birliğin geri kalanı gibi son bulacağımı düşünmüştüm. Tekrar teşekkür ederim, bu sefil yerden çıkmadan önce bildiğim her şeyi sana anlatacağım.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end The Last Lines
+    -- To The Darkest Places
+    -- To The Darkest Places -> En Karanlık Yerlere (To + The + Darkest + Places).
+    -- Agent Deryl -> Ajan Deryl (Agent -> Ajan).
+    -- Verona Gillian / Operative Gillian -> Verona Gillian / Ajan Gillian.
+    -- SI:7 Outpost -> SI:7 İleri Karakolu (Outpost -> İleri Karakol).
+    -- Balor -> Balor kalmıştır (Ada ismi / ZoneData.lua)[cite: 2].
+    -- Agent Flynn / Agent Cherys / Agent Elroy -> Ajan Flynn / Ajan Cherys / Ajan Elroy.
+    -- Stormreaver Scroll -> Fırtınayağmacısı Parşömeni (Stormreaver -> Fırtınayağmacısı, Scroll -> Parşömen).
+    -- Croaking Plateau -> Vraklayan Plato (Croaking -> Vraklayan/Kurbağa gibi ses çıkaran, Plateau -> Plato).
+    -- Stormwind -> Fırtınarüzgarı (Yer adı lokalizasyon kuralına göre: Storm + wind -> Fırtınarüzgarı).
+    -- Half-dissolved Wedding Ring -> Yarı Erimiş Alyans (Half-dissolved + Wedding Ring).
+    -- Pantaloons of Torture -> İşkence Şalvarı / İşkence Pantolonu (Torture -> İşkence, Pantaloons -> Şalvar/Geniş Pantolon).
+    -- Kingdom -> Krallık.
+    ["41694"] = { 
+    ["Title"]="En Karanlık Yerlere",
+    ["Description"]="Birliğim, Vraklayan Plato'nun (Croaking Plateau) etrafındaki çevreyi gözetleyen on operatiften oluşuyordu. Hayatta kalan birkaç kişiden bu hana kilitlenen tek kişi bendim. Ne sebeple olduğunu bilmiyorum. Ancak görebildiğim kadarıyla üç yoldaşım —Flynn, Elroy ve Cherys— buranın güneyindeki savaş alanının ötesine doğru sürükleniyordu. Şans eseri konuştukları Orkça (orcish) kelimelerden birkaçını anladım. Konuşmalarından deşifre edebildiklerim 'mağara', 'tepe' ve 'efendi' oldu. Çok fazla şey olmayabilir ama hiç yoktan iyidir sanırım. Kusura bakma ama bu yaralarla sana pek yardımım dokunmayacak; Ajan Gillian'a (Operative Gillian) geri dönüp olanları anlatacağım, bu kadarını herhalde becerebilirim. Dua ediyorum ki daha fazlasını açığa çıkarasın ve ileri karakola güvenle geri dönesin.",
+    ["Objectives"]="Ajan Deryl'in (Agent Deryl) sana verdiği ipuçlarını kullanarak yoldaşlarını ve düşmanların hakkında olası bilgileri bul. Ardından Balor adasındaki SI:7 İleri Karakolu'nda (SI:7 Outpost) bulunan Verona Gillian'a geri dön.[cite: 2]",
+    ["Progress"]="<name>, geri mi döndün? Ajan Deryl senden çok kısa bir süre önce buraya vardı, vücudu ağır yaralarla doluydu. İyileşmesi için onu Fırtınarüzgarı'na (Stormwind) geri gönderdik. Ama söyle bana, bulabildiğin bir şey var mı?",
+    ["Completion"]="Ne yazık ki bugün kaybettiğimiz ajanlar çok değerliydi. Ailelerine resmi yazılar göndereceğim, Krallığa (Kingdom) olan hizmetleri unutulmayacak. Şimdi, bu parşömene gelecek olursak...",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end To The Darkest Places
     --123456789
 
 
