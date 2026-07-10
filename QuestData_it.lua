@@ -47870,9 +47870,9 @@ QuestTranslator_QuestData = {
     -- Colonel -> Albay.
     ["574"] = { 
     ["Title"]="Özel Kuvvetler",
-    ["Description"]="Artık düzenli birliklerinin birçoğu azaltıldığına göre, onun yüksek eğitimli kuvvetleriyle yüzleşmelisiniz. Yaban hayatta asi askerlerimizi katletmedikleri zamanlarda, Kurzen Yerleşkesi'nin (Kurzen Compound) derinliklerinde, Cephanelik (Stockpile) dedikleri bir mağarada bulunurlar.\n\nKurzen'in askerlerinin birçoğunu şahsen tanıyorum ve onların yetenekli, sadık ve zalim olduklarını biliyorum. Önünüze koyduğum bu görev hiç de kolay değil, <name>.\n\nOnları yendikten sonra komutanım Teğmen Doren'e (Lieutenant Doren) rapor verin. Raporunuzu ilk elden duymak isteyecektir.",
+    ["Description"]="Artık düzenli birliklerinin birçoğu azaltıldığına göre, onun yüksek eğitimli kuvvetleriyle yüzleşmelisiniz. Yaban hayatta asi askerlerimizi katletmedikleri zamanlarda, Kurzen Yerleşkesi'nin (Kurzen Compound) derinliklerinde, Cephanelik (Stockpile) dedikleri bir mağarada bulunurlar.\n\nKurzen'in askerlerinin birçoğunu şahsen tanıyorum ve onların yetenekli, sadık ve zalim olduklarını biliyorum. Önünüze koyduğum bu görev hiç de kolay değil, YOUR_NAME.\n\nOnları yendikten sonra komutanım Teğmen Doren'e (Lieutenant Doren) rapor verin. Raporunuzu ilk elden duymak isteyecektir.",
     ["Objectives"]="10 Kurzen Komandosu (Kurzen Commando) ve 6 Kurzen Kelleküçülteni (Kurzen Headshrinker) öldür.\n\nAsi Kampı'ndaki (Rebel Camp) Teğmen Doren'e rapor ver.",
-    ["Progress"]="Çavuş Yohwa (Sergeant Yohwa) bana yetenekli ve cesur olduğunu söyledi, <class>. Rapor edecek bir şeyin var mı?",
+    ["Progress"]="Çavuş Yohwa (Sergeant Yohwa) bana yetenekli ve cesur olduğunu söyledi, YOUR_CLASS. Rapor edecek bir şeyin var mı?",
     ["Completion"]="YOUR_NAME. Çavuş Yohwa senin yeteneklerine güvendi, ben de ona güveniyorum. Kurzen'in kuvvetlerine tattırdığın yenilgi neredeyse umut edilemeyecek kadar büyük. Biz asilerin yapayalnız kaldığımızdan ve tek başımıza Albay'ın (Colonel) dehasına asla karşı koyamayacağımızdan korkuyordum.\n\nBelki de hayatta kalma umudumuz hâlâ tükenmemiştir.",
     ["minlevel"]="0",
     ["questlevel"]="0",
@@ -47888,9 +47888,9 @@ QuestTranslator_QuestData = {
     -- Shrapnel Blaster -> Şarapnel Patlatıcısı (Shrapnel -> Şarapnel, Blaster -> Patlatıcı).
     ["202"] = {  
     ["Title"]="Albay Kurzen",
-    ["Description"]="Kendini defalarca kanıtladın ve becerikliliğin Kurzen'in kendi dehasıyla bile boy ölçüşebilecek gibi görünüyor. Kurzen'e karşı koyup galip gelebilirsen, asi grubumuzun kurtuluşu olabilirsin!\n\nAdamlarına Cephanelik'in (Stockpile) derinliklerinden komuta ediyor. O mağaraya girmeli, onu savunanlara karşı cesurca direnmeli; Kurzen ve liderleriyle yüzleşmelisin.\n\nElveda, <name>. Umudum ve adamlarımın kaderi seninle gidiyor.",
+    ["Description"]="Kendini defalarca kanıtladın ve becerikliliğin Kurzen'in kendi dehasıyla bile boy ölçüşebilecek gibi görünüyor. Kurzen'e karşı koyup galip gelebilirsen, asi grubumuzun kurtuluşu olabilirsin!\n\nAdamlarına Cephanelik'in (Stockpile) derinliklerinden komuta ediyor. O mağaraya girmeli, onu savunanlara karşı cesurca direnmeli; Kurzen ve liderleriyle yüzleşmelisin.\n\nElveda, YOUR_NAME. Umudum ve adamlarımın kaderi seninle gidiyor.",
     ["Objectives"]="6 Kurzen Eliti (Kurzen Elite) ile 4 Kurzen Şef Yardımcısı (Kurzen Subchief) öldür ve Kurzen'in Kafası'nı (Kurzen's Head) Asi Kampı'ndaki (Rebel Camp) Teğmen Doren'e getir.",
-    ["Progress"]="Kurzen ve onu savunanların öldüğünü ummaya cürret edebilir miyim, <name>?",
+    ["Progress"]="Kurzen ve onu savunanların öldüğünü ummaya cürret edebilir miyim, YOUR_NAME?",
     ["Completion"]="Raporlara inanmaya cürret edememiştim ama bize... Kurzen ve liderlerinin yenildiğine dair kanıt getirdin. Bizi kurtardın!\n\nBu ormanlar her türden tehlikeyle dolu, ancak hiçbirinin Kurzen'in zalim zekasına sahip değildi. O gittiğine göre artık hepimiz daha rahat bir nefes alabiliriz.",
     ["minlevel"]="0",
     ["questlevel"]="0",
@@ -47904,10 +47904,10 @@ QuestTranslator_QuestData = {
     -- Alliance -> İttifak (Oyun terimi).
     ["583"] = { 
     ["Title"]="Ormana Hoş Geldin",
-    ["Description"]="Stranglethorn'e hoş geldin!\n\nBelki farkında değilsin ama şuradaki cüce, İttifak'ın ünlü savaş kahramanı ve usta büyük av avcısı olan biricik Hemet Nesingwary'dir.Kampına yabancıları kabul etmeyi pek sevmez ama sen de zamanında epey aksiyon görmüş gibi duruyorsun, <class>.\n\nKendisi de pek çok savaşın gazisi olduğundan, Üstat Nesingwary'nin kahraman yoldaşlarına karşı zaafı vardır.\n\nGit ve onunla konuş. Belki sana bazı avcılık ipuçları verebilir.",
+    ["Description"]="Stranglethorn'e hoş geldin!\n\nBelki farkında değilsin ama şuradaki cüce, İttifak'ın ünlü savaş kahramanı ve usta büyük av avcısı olan biricik Hemet Nesingwary'dir.Kampına yabancıları kabul etmeyi pek sevmez ama sen de zamanında epey aksiyon görmüş gibi duruyorsun, YOUR_CLASS.\n\nKendisi de pek çok savaşın gazisi olduğundan, Üstat Nesingwary'nin kahraman yoldaşlarına karşı zaafı vardır.\n\nGit ve onunla konuş. Belki sana bazı avcılık ipuçları verebilir.",
     ["Objectives"]="Hemet Nesingwary ile konuş.[cite: 1]",
     ["Progress"]="", -- Bu aşamada bir ilerleme metni bulunmuyor.
-    ["Completion"]="Seninle tanıştığıma son derece memnun oldum, <name>. Buralarda bir süredir <class> görmemiştim.\n\nBu sefere kendimi tek bir amaç için dahil ettim: muazzam ve yakalanması zor bir canavarı avlamak. Kendine has bir kahraman olduğunu gördüğüm için bu ava katılamana izin vermeye niyetliyim, fakat önce kendini kanıtlamalısın.\n\nSana raptor öldürmenin yollarını öğreteceğim. Ajeck seni kaplan avcılığı konusunda eğitecek.[cite: 1] Ve Sir Erlgadin de panter takibi konusunda bir ustadır.[cite: 1]\n\nYeteneklerini kanıtla, ben de seni büyük ava dahil edeyim.",
+    ["Completion"]="Seninle tanıştığıma son derece memnun oldum, YOUR_NAME. Buralarda bir süredir YOUR_CLASS görmemiştim.\n\nBu sefere kendimi tek bir amaç için dahil ettim: muazzam ve yakalanması zor bir canavarı avlamak. Kendine has bir kahraman olduğunu gördüğüm için bu ava katılamana izin vermeye niyetliyim, fakat önce kendini kanıtlamalısın.\n\nSana raptor öldürmenin yollarını öğreteceğim. Ajeck seni kaplan avcılığı konusunda eğitecek.[cite: 1] Ve Sir Erlgadin de panter takibi konusunda bir ustadır.[cite: 1]\n\nYeteneklerini kanıtla, ben de seni büyük ava dahil edeyim.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Welcome to the Jungle
@@ -47933,7 +47933,7 @@ QuestTranslator_QuestData = {
     ["Description"]="Şimdi mücadeleyi biraz daha büyütelim ve buna hazır mısın görelim. Ormanın derinliklerine adım at ve o lanet Kırbaçkuyruk Raptorlarından (Lashtail Raptors) 10 tanesini avla. Bakalım elinden ne geliyor!",
     ["Objectives"]="Hemet Nesingwary, 10 Kırbaçkuyruk Raptoru (Lashtail Raptor) öldürmeni istiyor.[cite: 1]",
     ["Progress"]="Gerçek bir avcı odağını avına verir. Sen ise dostum, kamp ateşinin etrafında laklak etmekle daha çok ilgileniyor gibi görünüyorsun. Şimdi git ve ben tek bir avda tüm o lanet ormanı onlardan temizlemeden önce 10 Kırbaçkuyruk (Lashtails) öldür.",
-    ["Completion"]="İşte o eski ocağın üzerine bir iki trofe böyle asılır! Güzel avdı, <name>!",
+    ["Completion"]="İşte o eski ocağın üzerine bir iki trofe böyle asılır! Güzel avdı, YOUR_NAME!",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Raptor Mastery
@@ -47945,7 +47945,7 @@ QuestTranslator_QuestData = {
     ["Title"]="Raptor Ustalığı",
     ["Description"]="Bakalım bu sonraki mücadelenin üstesinden nasıl geleceksin. Dışarıda çok kurnaz bir raptor soyu var. Biz onlara Orman Sinsileri (Jungle Stalkers) diyoruz. Onların izini sürüp öldürmek, şimdiye kadar şansını denediğin diğer soylardan çok daha zordur. 10 Orman Sinsisi öldür, ben de sana şu ana kadarki en iyi avın ipucunu vereyim.",
     ["Objectives"]="Hemet Nesingwary, 10 Orman Sinsisi (Jungle Stalker) öldürmeni istiyor.[cite: 1]",
-    ["Progress"]="Bah! Ayakta dikilip ne yapıyorsun öyle, <name>! Gerçek bir büyük av avcısı, avı bir kez görüş alanına girdiğinde asla pes etmez. O Orman Sinsileri bu kamp ateşine doğru koşup kendilerini içine atmayacaklar. Kaçık herif.",
+    ["Progress"]="Bah! Ayakta dikilip ne yapıyorsun öyle, YOUR_NAME! Gerçek bir büyük av avcısı, avı bir kez görüş alanına girdiğinde asla pes etmez. O Orman Sinsileri bu kamp ateşine doğru koşup kendilerini içine atmayacaklar. Kaçık herif.",
     ["Completion"]="Ho ho!! Karşımızda gerçek bir raptor katili var! Güzel iş, dostum!",
     ["minlevel"]="0",
     ["questlevel"]="0",
@@ -47962,7 +47962,7 @@ QuestTranslator_QuestData = {
     ["Description"]="Ormanda çok hırslı ve azimli biri olduğunu kanıtladığın için, sana benim bile öldürmeyi başaramadığım gaddar bir raptordan bahsedeyim. Şuradaki Ajeck bu kurnaz raptora Tethis adını veriyor.[cite: 1]\n\nKendini gerçek bir usta olarak kanıtlamak istiyorsan, Tethis'i öldür ve bana onun pençesini getir. Bu, başka hiçbir büyük av avcısının başaramadığı bir başarı olurdu.",
     ["Objectives"]="Hemet Nesingwary, Stranglethorn'daki yakalanması zor ve tehlikeli bir raptor olan Tethis'i öldürmeni istiyor.[cite: 1]",
     ["Progress"]="Tethis avı nasıl gidiyor? İzini kampa kadar sürdün, değil mi?",
-    ["Completion"]="Üstat <name>, raptor katili!\n\nKulağa hoş geliyor, değil mi?",
+    ["Completion"]="Üstat YOUR_NAME, raptor katili!\n\nKulağa hoş geliyor, değil mi?",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Raptor Mastery
@@ -47978,11 +47978,95 @@ QuestTranslator_QuestData = {
     ["Title"]="Stranglethorn'un Yeşil Tepeleri",
     ["Description"]="Üstat Nesingwary (Master Nesingwary) bunu öğrenirse çok üzülecek!\n\nRomanı 'Stranglethorn'un Yeşil Tepeleri'nin (The Green Hills of Stranglethorn) taslağını gözden geçirmem için bana güvenmişti. Her şey yolunda gidiyordu ama kamptan geçen büyük bir rüzgar dalgası sayfaları her yere savurdu!\n\nSayfaların çoğunu toplamayı başardım ama birçoğu hâlâ ormanda darmadağınık durumda. Dört bölümün her birini tamamlamak için sayfaları topla.\n\nOnları düzenlemene yardım edeceğim. Dördü de eline geçtiğinde bölümleri bana geri getir.",
     ["Objectives"]="Stranglethorn'un Yeşil Tepeleri (The Green Hills of Stranglethorn) taslağının eksik sayfalarını topla. Dört bölümün tümü tamamlandığında onları Barnil'e geri getir.[cite: 1]",
-    ["Progress"]="Bölümleri henüz bir araya getirebildin mi, <name>?",
-    ["Completion"]="Beni kesinlikle büyük bir dertten kurtardın, <name>! Sana ne kadar teşekkür etsem azdır. Üstat Nesingwary'nin kitabını dünyanın dört bir yanındaki kütüphanelerde görmemiz artık çok uzun sürmeyecektir!",
+    ["Progress"]="Bölümleri henüz bir araya getirebildin mi, YOUR_NAME?",
+    ["Completion"]="Beni kesinlikle büyük bir dertten kurtardın, YOUR_NAME! Sana ne kadar teşekkür etsem azdır. Üstat Nesingwary'nin kitabını dünyanın dört bir yanındaki kütüphanelerde görmemiz artık çok uzun sürmeyecektir!",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end The Green Hills of Stranglethorn
+    -- Troll Witchery
+    -- Brother Nimetz -> Peder Nimetz / Nimetz Birader (İlk görevde sabitlediğimiz dini unvan).
+    -- Rebel Camp -> Asi Kampı (ZoneData.lua)[cite: 2].
+    -- Skullsplitter Fetish -> Kafatasıyaran Muskası (Skull -> Kafatası, Splitter -> Yaran, Fetish -> Vudu/Büyü kültüründe muska/totem).
+    -- Skullsplitter -> Kafatasıyaran.
+    -- Witchdoctor -> Cadı Doktoru (Oyun terimi).
+    -- Mystic -> Mistik (Oyun terimi).
+    -- Kurzen -> Kurzen kalmıştır (Özel isim / MobNpcData.lua)[cite: 1].
+    ["205"] = { 
+    ["Title"]="Trol Büyücülüğü",
+    ["Description"]="Senin getirdiğin o efsaneleri incelerken, sen de bana kötü trol büyülerinin araç gereçlerini topla. Uzak güneydeki ikinci bir kabile olan Kafatasıyaran (Skullsplitter) trollerinin bölgesine gir; onların Cadı Doktorları (Witchdoctors) ile Mistiklerinden (Mystics) Kafatasıyaran Muskaları (Skullsplitter Fetishes) ele geçir.",
+    ["Objectives"]="Asi Kampı'ndaki (Rebel Camp) Peder Nimetz'e (Brother Nimetz) 4 Kafatasıyaran Muskası (Skullsplitter Fetish) getir.[cite: 1, 2]",
+    ["Progress"]="O muskalar yanında mı, YOUR_NAME? Kurzen'in bu ahlaksızlığa düşmesinin sırrını barındırıyor olabilirler... Bunu mutlaka öğrenmeliyim!",
+    ["Completion"]="Teşekkür ederim. Bu muskaları inceleyeceğim ve Kurzen'in kötülüğe teslim olmasının sırrını taşıyıp taşımadıklarını göreceğim.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Troll Witchery
+    -- Supplies to Private Thorsen
+    -- Miscellaneous Goblin Supplies -> Çeşitli Goblin Erzağı (Miscellaneous -> Çeşitli, Supplies -> Erzak/Malzeme).
+    -- Private Thorsen -> Er Thorsen (Private -> Er unvanı / MobNpcData.lua)[cite: 1].
+    -- Lieutenant Doren -> Teğmen Doren (Lieutenant -> Teğmen / MobNpcData.lua)[cite: 1].
+    -- Stranglethorn -> İstisna uyarınca çevrilmeden aynen bırakılmıştır.
+    -- Duskwood -> Alacakaranlık Ormanı (Dusk -> Alacakaranlık, Wood -> Orman / ZoneData.lua)[cite: 2].
+    -- Kurzen -> Kurzen kalmıştır (MobNpcData.lua)[cite: 1].
+    ["198"] = { 
+    ["Title"]="Er Thorsen'e Erzak",
+    ["Description"]="Hmm. Evet, aslına bakarsan yapabileceğin bir şey var. Kuzeydeki Teğmen Doren ve takipçilerinin bizden düzenli erzak alması gerekiyor.\n\nTrollerin saldırıları yüzünden bunlar henüz teslim edilemedi ve bunu yapacak birine ihtiyacım var. Doren'in kampı, Alacakaranlık Ormanı'ndan (Duskwood) Stranglethorn'a giriş yolunun kuzeybatısında yer alıyor. Erzağı Er Thorsen'e (Private Thorsen) teslim et; eğer kampta değilse, kampın güneyinde devriye geziyordur. O icabına bakacaktır.\n\nUnutma, başarısız olursan bana tazminat borçlanırsın.",
+    ["Objectives"]="Çeşitli Goblin Erzağı'nı (Miscellaneous Goblin Supplies) Er Thorsen'e (Private Thorsen) teslim et.[cite: 1]",
+    ["Progress"]="Evet? Ne istiyorsun? Ah, goblinlerden gelen erzaklar. Bunları bir <race> ırkının teslim ettiğini görmek tuhaf, genellikle kendilerininkini gönderirler. Neyse... Onlara dokunmadın, değil mi? Güzel, güzel... Mayınlarımıza bir şey gelmesini istemeyiz, kesinlikle hayır.",
+    ["Completion"]="Bu kara mayınları, kendimizi o hayvan Kurzen ve adamlarına karşı savunmamıza yardımcı olacak. Onları getirdiğin için teşekkürler. Eğer daha fazla işe ihtiyacın varsa, muhtemelen senin için yapacak bir şeyler bulabilirim. Hem o goblinlerle de uğraşmak zorunda kalmazsın, ha?",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Supplies to Private Thorsen
+    -- Investigate the Camp
+    -- Booty Bay -> Ganimet Koyu (ZoneData.lua)[cite: 2].
+    -- Krazek -> Krazek kalmıştır (MobNpcData.lua)[cite: 1].
+    -- Venture Company -> Macera Şirketi (Venture -> Macera, Company -> Şirket).
+    -- Lake Nazferiti -> Nazferiti Gölü (Lake -> Gölü).
+    -- Hemet Nesingwary -> Hemet Nesingwary kalmıştır (MobNpcData.lua)[cite: 1].
+    ["201"] = { 
+    ["Title"]="Kampı Araştır",
+    ["Description"]="Nazferiti Gölü'ndeki (Lake Nazferiti) Venture Company maden kampının yukarısında nehir kıyısına kamp kurmuş bir grup avcıya dair raporlar aldım. Normalde umursamazdım ama inanması güç olsa da Hemet Nesingwary'nin de oradaki avcılardan biri olduğunu duydum.Ne demek istediğimi anlıyorsan, kendisinin bağlantıları kesinlikle çok güçlüdür ve hiçbir zaman işi şansa bırakmamak gerekir.\n\nNeden gidip şu kampa bir göz atmıyorsun, <name>? Ne işler çevirdiklerini öğren bakalım.",
+    ["Objectives"]="Avcıların kampını bul ve konumunu Ganimet Koyu'ndaki (Booty Bay) Krazek'e bildir.[cite: 1, 2]",
+    ["Progress"]="Eeee? Kampın yerini tespit etme konusunda bir şansın yaver gitti mi?",
+    ["Completion"]="Hmmm, demek ki bilgilerim her zamanki gibi doğruydu. İlginç. Pekala, bizim operasyonumuza müdahale edecek bir tehdit oluşturduklarını sanmıyorum ama belki de ürettiğimiz o mükemmel ürünlerden bazılarına ihtiyaçları olabilir. Hmmm...",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Investigate the Camp
+    -- Bloodscalp Ears
+    -- Bloodscalp -> Kanlıkafa (Blood -> Kan, Scalp -> Saç derisi/Kafa derisi).
+    -- Bloodscalp Ear -> Kanlıkafa Kulağı (Ear -> Kulak).
+    -- Kebok -> Kebok kalmıştır (Özel isim / MobNpcData.lua)[cite: 1].
+    -- Booty Bay -> Ganimet Koyu (ZoneData.lua)[cite: 2].
+    -- Baron Revilgaz -> Baron Revilgaz kalmıştır (Özel isim / MobNpcData.lua)[cite: 1].
+    -- Goblin Fishing Pole -> Goblin Oltası (Fishing Pole -> Olta).
+    ["189"] = {
+    ["Title"]="Bloodscalp Kulakları",
+    ["Description"]="Lanet troller! Ormandaki ajanlarımızı teker teker öldürüyorlar! Onlarla girilen çatışmalarda şimdiden en iyi muhafızlarımdan birçoğunu kaybettim. Masraflar giderek katlanıyor! Bunu Baron Revilgaz'a nasıl açıklayacağım?\n\nKararlı bir eylem... Düşün, Kebok... Bugün bulunduğun bu makama boş boş oturmak için atanmadın... Buldum! Sen... <name>, deyil mi? Bana yardım edeceksin, değil mi? İşin ucunda para var!\n\nAnlaşma şu... Bana on beş Bloodscalp Trolünün (Bloodscalp Trolls) kulağını getir, ben de seni fazlasıyla ödüllendireyim.",
+    ["Objectives"]="15 Bloodscalp Kulağı (Bloodscalp Ear) elde et ve onları Ganimet Koyu'ndaki (Booty Bay) Kebok'e geri getir.",
+    ["Progress"]="Başarılı olduğunu umuyorum? Her yerdeler, o troller. Pis pis iblisler.\n\nAh evet, bu bana hatırlattı! Arkadaşlarına da söylemeyi unutma, tamam mı? Çokça yardıma ihtiyacımız olabilir!",
+    ["Completion"]="Oh mükemmel, mükemmel. Bu şimdilik biraz olsun yardımcı olacaktır...\n\n<Kâr marjları ve maliyetler hakkında mırıldanarak uzaklaşır...>\n\nNe? Hâlâ burada mısın? Ödül mü? Ah, doğru... Tabii ki, al bakalım şunu... Fazlasıyla yeterli olacaktır.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Bloodscalp Ears
+    -- Hostile Takeover
+    -- Kebok -> Kebok kalmıştır (MobNpcData.lua)[cite: 1].
+    -- Booty Bay -> Ganimet Koyu (ZoneData.lua)[cite: 2].
+    -- Tumbled Crystal -> İşlenmiş Kristal / Yontulmuş Kristal (Tumbled -> Tamburlanmış, aşındırılarak pürüzsüzleştirilmiş / Yontulmuş).
+    -- Gelriz -> Gelriz kalmıştır (MobNpcData.lua)[cite: 1].
+    -- Revilgaz -> Revilgaz kalmıştır (MobNpcData.lua)[cite: 1].
+    -- Venture Co. -> Macera Şti. (Venture Co. / Venture Company -> Macera Şirketi).
+    -- Lake Nazferiti -> Nazferiti Gölü.
+    -- Gigglefont -> Kıkırdayanyazı (Giggle -> Kıkırdama, Font -> Yazı tipi/kaynak).
+    -- Head Chemist Gigglefont -> Baş Kimyager Kıkırdayanyazı (Head Chemist -> Baş Kimyager).
+    -- Gemmed Gloves -> Mücevherli Eldiven (Gemmed -> Mücevherli, Gloves -> Eldiven).
+    ["213"] = { 
+    ["Title"]="Düşmanca Ele Geçirme",
+    ["Description"]="Bu sefer gerçekten ileri gitti! Gelriz'in, ticaret prensleri tarafından atanan nüfuzlu tüccarları zorbalıkla saf dışı bırakması yetmezmiş gibi, şimdi de en azılı korsanın işine çomak sokmaya çalışıyor![cite: 1]\n\nRevilgaz buna müsaade etmeyecek ve bu sorunu kendi yöntemlerimle çözmemi söyledi.[cite: 1]\n\nBenim yöntemim mi? Hırsızlık. Nazferiti Gölü (Lake Nazferiti) yakınlarındaki Macera Şti. (Venture Co.) jeologları, madenlerde buldukları o tuhaf mavi kristallere derinden ilgi duyuyorlar. Bana onların jeologlarından bu taşın örneklerini getir, onları almak için ne yapman gerektiği umurumda bile değil.",
+    ["Objectives"]="8 İşlenmiş Kristal (Tumbled Crystal) ele geçir ve onları Ganimet Koyu'ndaki (Booty Bay) Kebok'e geri getir.[cite: 1, 2]",
+    ["Progress"]="O taşlara ihtiyacım var, <name>. Hangi yolla olursa olsun! Sadece yap, bana ayrıntıları anlatma!\n\nHer şey sonuçtan ibaret, <name>, ne fazlası ne azı.",
+    ["Completion"]="Büyüleyici. Kristallerin bu süreç kullanılarak yontulmuş olması, onları bir tür yakıt ya da başka bir katalizör olarak kullanmayı planladıklarını gösteriyor. Bundan daha fazlasını bilmiyorum. Örneklerin Baş Kimyager Kıkırdayanyazı'ya (Head Chemist Gigglefont) gönderilmesi gerekecek.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Hostile Takeover
     --123456789
 
 
