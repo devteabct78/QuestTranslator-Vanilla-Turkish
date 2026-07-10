@@ -47859,6 +47859,130 @@ QuestTranslator_QuestData = {
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Kurzen's Mystery
+    -- Special Forces
+    -- Kurzen Commando -> Kurzen Komandosu (Commando -> Komando).
+    -- Kurzen Headshrinker -> Kurzen Kelleküçülteni (Headshrinker -> Vudu kültüründe kelle küçülten büyücü / mecazi olarak psikiyatrist, troller için Kelleküçülten mantıklıdır).
+    -- Lieutenant Doren -> Teğmen Doren (Lieutenant -> Teğmen).
+    -- Rebel Camp -> Asi Kampı (Rebel -> Asi, Camp -> Kamp).
+    -- Kurzen Compound -> Kurzen Yerleşkesi (Compound -> Yerleşke/Kamp).
+    -- Stockpile -> Cephanelik / Erzak Deposu (Stockpile -> Depo/Stok alanı, kamp temasına göre Cephanelik uygundur).
+    -- Sergeant Yohwa -> Çavuş Yohwa (Sergeant -> Çavuş).
+    -- Colonel -> Albay.
+    ["574"] = { 
+    ["Title"]="Özel Kuvvetler",
+    ["Description"]="Artık düzenli birliklerinin birçoğu azaltıldığına göre, onun yüksek eğitimli kuvvetleriyle yüzleşmelisiniz. Yaban hayatta asi askerlerimizi katletmedikleri zamanlarda, Kurzen Yerleşkesi'nin (Kurzen Compound) derinliklerinde, Cephanelik (Stockpile) dedikleri bir mağarada bulunurlar.\n\nKurzen'in askerlerinin birçoğunu şahsen tanıyorum ve onların yetenekli, sadık ve zalim olduklarını biliyorum. Önünüze koyduğum bu görev hiç de kolay değil, <name>.\n\nOnları yendikten sonra komutanım Teğmen Doren'e (Lieutenant Doren) rapor verin. Raporunuzu ilk elden duymak isteyecektir.",
+    ["Objectives"]="10 Kurzen Komandosu (Kurzen Commando) ve 6 Kurzen Kelleküçülteni (Kurzen Headshrinker) öldür.\n\nAsi Kampı'ndaki (Rebel Camp) Teğmen Doren'e rapor ver.",
+    ["Progress"]="Çavuş Yohwa (Sergeant Yohwa) bana yetenekli ve cesur olduğunu söyledi, <class>. Rapor edecek bir şeyin var mı?",
+    ["Completion"]="YOUR_NAME. Çavuş Yohwa senin yeteneklerine güvendi, ben de ona güveniyorum. Kurzen'in kuvvetlerine tattırdığın yenilgi neredeyse umut edilemeyecek kadar büyük. Biz asilerin yapayalnız kaldığımızdan ve tek başımıza Albay'ın (Colonel) dehasına asla karşı koyamayacağımızdan korkuyordum.\n\nBelki de hayatta kalma umudumuz hâlâ tükenmemiştir.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Special Forces
+    -- Colonel Kurzen
+    -- Colonel Kurzen -> Albay Kurzen (Colonel -> Albay).
+    -- Kurzen Elite -> Kurzen Eliti (Elite -> Elit/Seçkin).
+    -- Kurzen Subchief -> Kurzen Şef Yardımcısı (Subchief -> Şef Yardımcısı).
+    -- Kurzen's Head -> Kurzen'in Kafası.
+    -- Lieutenant Doren -> Teğmen Doren (Lieutenant -> Teğmen).
+    -- Rebel Camp -> Asi Kampı (Rebel -> Asi, Camp -> Kamp).
+    -- Stockpile -> Cephanelik (Önceki görevde sabitlediğimiz alan adı).
+    -- Shrapnel Blaster -> Şarapnel Patlatıcısı (Shrapnel -> Şarapnel, Blaster -> Patlatıcı).
+    ["202"] = {  
+    ["Title"]="Albay Kurzen",
+    ["Description"]="Kendini defalarca kanıtladın ve becerikliliğin Kurzen'in kendi dehasıyla bile boy ölçüşebilecek gibi görünüyor. Kurzen'e karşı koyup galip gelebilirsen, asi grubumuzun kurtuluşu olabilirsin!\n\nAdamlarına Cephanelik'in (Stockpile) derinliklerinden komuta ediyor. O mağaraya girmeli, onu savunanlara karşı cesurca direnmeli; Kurzen ve liderleriyle yüzleşmelisin.\n\nElveda, <name>. Umudum ve adamlarımın kaderi seninle gidiyor.",
+    ["Objectives"]="6 Kurzen Eliti (Kurzen Elite) ile 4 Kurzen Şef Yardımcısı (Kurzen Subchief) öldür ve Kurzen'in Kafası'nı (Kurzen's Head) Asi Kampı'ndaki (Rebel Camp) Teğmen Doren'e getir.",
+    ["Progress"]="Kurzen ve onu savunanların öldüğünü ummaya cürret edebilir miyim, <name>?",
+    ["Completion"]="Raporlara inanmaya cürret edememiştim ama bize... Kurzen ve liderlerinin yenildiğine dair kanıt getirdin. Bizi kurtardın!\n\nBu ormanlar her türden tehlikeyle dolu, ancak hiçbirinin Kurzen'in zalim zekasına sahip değildi. O gittiğine göre artık hepimiz daha rahat bir nefes alabiliriz.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Colonel Kurzen
+    -- Welcome to the Jungle
+    -- Stranglethorn -> Boğandiken (Strangle -> Boğan, Thorn -> Diken).
+    -- Hemet Nesingwary -> Hemet Nesingwary kalmıştır (Özel isim / MobNpcData.lua)[cite: 1].
+    -- Master Nesingwary -> Üstat Nesingwary (Master -> Üstat).
+    -- Ajeck -> Ajeck kalmıştır (Özel isim / MobNpcData.lua)[cite: 1].
+    -- Sir Erlgadin -> Sir Erlgadin kalmıştır (Özel isim / MobNpcData.lua)[cite: 1].
+    -- Alliance -> İttifak (Oyun terimi).
+    ["583"] = { 
+    ["Title"]="Ormana Hoş Geldin",
+    ["Description"]="Stranglethorn'e hoş geldin!\n\nBelki farkında değilsin ama şuradaki cüce, İttifak'ın ünlü savaş kahramanı ve usta büyük av avcısı olan biricik Hemet Nesingwary'dir.Kampına yabancıları kabul etmeyi pek sevmez ama sen de zamanında epey aksiyon görmüş gibi duruyorsun, <class>.\n\nKendisi de pek çok savaşın gazisi olduğundan, Üstat Nesingwary'nin kahraman yoldaşlarına karşı zaafı vardır.\n\nGit ve onunla konuş. Belki sana bazı avcılık ipuçları verebilir.",
+    ["Objectives"]="Hemet Nesingwary ile konuş.[cite: 1]",
+    ["Progress"]="", -- Bu aşamada bir ilerleme metni bulunmuyor.
+    ["Completion"]="Seninle tanıştığıma son derece memnun oldum, <name>. Buralarda bir süredir <class> görmemiştim.\n\nBu sefere kendimi tek bir amaç için dahil ettim: muazzam ve yakalanması zor bir canavarı avlamak. Kendine has bir kahraman olduğunu gördüğüm için bu ava katılamana izin vermeye niyetliyim, fakat önce kendini kanıtlamalısın.\n\nSana raptor öldürmenin yollarını öğreteceğim. Ajeck seni kaplan avcılığı konusunda eğitecek.[cite: 1] Ve Sir Erlgadin de panter takibi konusunda bir ustadır.[cite: 1]\n\nYeteneklerini kanıtla, ben de seni büyük ava dahil edeyim.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Welcome to the Jungle
+    -- Raptor Mastery
+    -- Stranglethorn -> Stranglethorn kalmıştır (Önceki istek uyarınca kesinlikle çevrilmeyecektir).
+    -- Hemet Nesingwary -> Hemet Nesingwary kalmıştır (MobNpcData.lua)[cite: 1].
+    -- Stranglethorn Raptor -> Stranglethorn Raptoru (Raptor -> Raptor).
+    ["194"] = { 
+    ["Title"]="Raptor Ustalığı",
+    ["Description"]="Demek avcılık yeteneklerinin son derece kusursuz olduğunu düşünüyorsun? Onları göz açıp kapayıncaya kadar test edebilirim. Şu ormana dal ve 10 Stranglethorn Raptoru öldür. Bakalım ne kadar büyük bir avcısın.\n\nVe hayır, onları nerede bulabileceğini sana söylemeyeceğim! Canavarların yerini tespit etmek, mücadelenin yarısıdır.",
+    ["Objectives"]="Hemet Nesingwary, 10 Stranglethorn Raptoru (Stranglethorn Raptor) öldürmeni istiyor.[cite: 1]",
+    ["Progress"]="Kamp ateşinin başında dikilerek avlanabilen hiçbir avcı görmedim. O Stranglethorn Raptorlarını öldürmeyi planlıyor musun yoksa yaşlılıktan ölmelerini mi umuyorsun?",
+    ["Completion"]="Güzel iş, dostum!",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Raptor Mastery
+    -- Raptor Mastery
+    -- Hemet Nesingwary -> Hemet Nesingwary kalmıştır (MobNpcData.lua)[cite: 1].
+    -- Lashtail Raptor / Lashtails -> Kırbaçkuyruk Raptoru / Kırbaçkuyruklar (Lash -> Kırbaç, Tail -> Kuyruk).
+    -- Stranglethorn -> Stranglethorn kalmıştır (Önceki kural uyarınca çevrilmeyecektir).
+    ["195"] = { 
+    ["Title"]="Raptor Ustalığı",
+    ["Description"]="Şimdi mücadeleyi biraz daha büyütelim ve buna hazır mısın görelim. Ormanın derinliklerine adım at ve o lanet Kırbaçkuyruk Raptorlarından (Lashtail Raptors) 10 tanesini avla. Bakalım elinden ne geliyor!",
+    ["Objectives"]="Hemet Nesingwary, 10 Kırbaçkuyruk Raptoru (Lashtail Raptor) öldürmeni istiyor.[cite: 1]",
+    ["Progress"]="Gerçek bir avcı odağını avına verir. Sen ise dostum, kamp ateşinin etrafında laklak etmekle daha çok ilgileniyor gibi görünüyorsun. Şimdi git ve ben tek bir avda tüm o lanet ormanı onlardan temizlemeden önce 10 Kırbaçkuyruk (Lashtails) öldür.",
+    ["Completion"]="İşte o eski ocağın üzerine bir iki trofe böyle asılır! Güzel avdı, <name>!",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Raptor Mastery
+    -- Raptor Mastery
+    -- Hemet Nesingwary -> Hemet Nesingwary kalmıştır (MobNpcData.lua)[cite: 1].
+    -- Jungle Stalker -> Orman Sinsisi (Jungle -> Orman, Stalker -> Sinsi / İz sürücü / Avını sessizce takip eden).
+    -- Stranglethorn -> Stranglethorn kalmıştır (Önceki kural istisnası uyarınca).
+    ["196"] = { 
+    ["Title"]="Raptor Ustalığı",
+    ["Description"]="Bakalım bu sonraki mücadelenin üstesinden nasıl geleceksin. Dışarıda çok kurnaz bir raptor soyu var. Biz onlara Orman Sinsileri (Jungle Stalkers) diyoruz. Onların izini sürüp öldürmek, şimdiye kadar şansını denediğin diğer soylardan çok daha zordur. 10 Orman Sinsisi öldür, ben de sana şu ana kadarki en iyi avın ipucunu vereyim.",
+    ["Objectives"]="Hemet Nesingwary, 10 Orman Sinsisi (Jungle Stalker) öldürmeni istiyor.[cite: 1]",
+    ["Progress"]="Bah! Ayakta dikilip ne yapıyorsun öyle, <name>! Gerçek bir büyük av avcısı, avı bir kez görüş alanına girdiğinde asla pes etmez. O Orman Sinsileri bu kamp ateşine doğru koşup kendilerini içine atmayacaklar. Kaçık herif.",
+    ["Completion"]="Ho ho!! Karşımızda gerçek bir raptor katili var! Güzel iş, dostum!",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Raptor Mastery
+    -- Raptor Mastery
+    -- Hemet Nesingwary -> Hemet Nesingwary kalmıştır (MobNpcData.lua)[cite: 1].
+    -- Tethis -> Tethis kalmıştır (Özel yaratık ismi / MobNpcData.lua)[cite: 1].
+    -- Stranglethorn -> Stranglethorn kalmıştır (Önceki kural istisnası uyarınca kesinlikle çevrilmeyecektir).
+    -- Talon of Tethis -> Tethis'in Pençesi (Talon -> Pençe).
+    -- Ajeck -> Ajeck kalmıştır (MobNpcData.lua)[cite: 1].
+    -- Raptor Hunter Tunic -> Raptor Avcısı嶄 Yeleği (Tunic -> Yelek/Tunik).
+    ["197"] = { 
+    ["Title"]="Raptor Ustalığı",
+    ["Description"]="Ormanda çok hırslı ve azimli biri olduğunu kanıtladığın için, sana benim bile öldürmeyi başaramadığım gaddar bir raptordan bahsedeyim. Şuradaki Ajeck bu kurnaz raptora Tethis adını veriyor.[cite: 1]\n\nKendini gerçek bir usta olarak kanıtlamak istiyorsan, Tethis'i öldür ve bana onun pençesini getir. Bu, başka hiçbir büyük av avcısının başaramadığı bir başarı olurdu.",
+    ["Objectives"]="Hemet Nesingwary, Stranglethorn'daki yakalanması zor ve tehlikeli bir raptor olan Tethis'i öldürmeni istiyor.[cite: 1]",
+    ["Progress"]="Tethis avı nasıl gidiyor? İzini kampa kadar sürdün, değil mi?",
+    ["Completion"]="Üstat <name>, raptor katili!\n\nKulağa hoş geliyor, değil mi?",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Raptor Mastery
+    -- The Green Hills of Stranglethorn
+    -- Stranglethorn -> İstisna kuralı uyarınca kesinlikle çevrilmeyecektir, aynen bırakılmıştır.
+    -- The Green Hills of Stranglethorn -> Stranglethorn'un Yeşil Tepeleri.
+    -- Barnil -> Barnil kalmıştır (Özel isim / MobNpcData.lua)[cite: 1].
+    -- Master Nesingwary -> Üstat Nesingwary.
+    -- Jungle Boots -> Orman Çizmeleri (Jungle -> Orman, Boots -> Çizmeler).
+    -- Thick Armor Kit -> Kalın Zırh Kiti (Thick -> Kalın, Armor Kit -> Zırh Kiti).
+    -- Superior Healing Potion -> Üstün İyileşme İksiri (Superior -> Üstün, Healing Potion -> İyileşme İksiri).
+    ["338"] = { 
+    ["Title"]="Stranglethorn'un Yeşil Tepeleri",
+    ["Description"]="Üstat Nesingwary (Master Nesingwary) bunu öğrenirse çok üzülecek!\n\nRomanı 'Stranglethorn'un Yeşil Tepeleri'nin (The Green Hills of Stranglethorn) taslağını gözden geçirmem için bana güvenmişti. Her şey yolunda gidiyordu ama kamptan geçen büyük bir rüzgar dalgası sayfaları her yere savurdu!\n\nSayfaların çoğunu toplamayı başardım ama birçoğu hâlâ ormanda darmadağınık durumda. Dört bölümün her birini tamamlamak için sayfaları topla.\n\nOnları düzenlemene yardım edeceğim. Dördü de eline geçtiğinde bölümleri bana geri getir.",
+    ["Objectives"]="Stranglethorn'un Yeşil Tepeleri (The Green Hills of Stranglethorn) taslağının eksik sayfalarını topla. Dört bölümün tümü tamamlandığında onları Barnil'e geri getir.[cite: 1]",
+    ["Progress"]="Bölümleri henüz bir araya getirebildin mi, <name>?",
+    ["Completion"]="Beni kesinlikle büyük bir dertten kurtardın, <name>! Sana ne kadar teşekkür etsem azdır. Üstat Nesingwary'nin kitabını dünyanın dört bir yanındaki kütüphanelerde görmemiz artık çok uzun sürmeyecektir!",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end The Green Hills of Stranglethorn
     --123456789
 
 
@@ -48682,24 +48806,6 @@ QuestTranslator_QuestData = {
     ["Completion"]="It brings back good memories to work with the same tools she passed down to me.I get to weave the same stitches as the ones she taught me before she passed, and that warms my heart.You've been a real help to this little ol' farm family, YOUR_NAME. Bless you.",
     ["minlevel"]="0",
     ["questlevel"]="0",
-    -- Special Forces
-    -- Kurzen Commando -> Kurzen Komandosu (Commando -> Komando).
-    -- Kurzen Headshrinker -> Kurzen Kelleküçülteni (Headshrinker -> Vudu kültüründe kelle küçülten büyücü / mecazi olarak psikiyatrist, troller için Kelleküçülten mantıklıdır).
-    -- Lieutenant Doren -> Teğmen Doren (Lieutenant -> Teğmen).
-    -- Rebel Camp -> Asi Kampı (Rebel -> Asi, Camp -> Kamp).
-    -- Kurzen Compound -> Kurzen Yerleşkesi (Compound -> Yerleşke/Kamp).
-    -- Stockpile -> Cephanelik / Erzak Deposu (Stockpile -> Depo/Stok alanı, kamp temasına göre Cephanelik uygundur).
-    -- Sergeant Yohwa -> Çavuş Yohwa (Sergeant -> Çavuş).
-    -- Colonel -> Albay.
-    ["574"] = { 
-    ["Title"]="Özel Kuvvetler",
-    ["Description"]="Artık düzenli birliklerinin birçoğu azaltıldığına göre, onun yüksek eğitimli kuvvetleriyle yüzleşmelisiniz. Yaban hayatta asi askerlerimizi katletmedikleri zamanlarda, Kurzen Yerleşkesi'nin (Kurzen Compound) derinliklerinde, Cephanelik (Stockpile) dedikleri bir mağarada bulunurlar.\n\nKurzen'in askerlerinin birçoğunu şahsen tanıyorum ve onların yetenekli, sadık ve zalim olduklarını biliyorum. Önünüze koyduğum bu görev hiç de kolay değil, <name>.\n\nOnları yendikten sonra komutanım Teğmen Doren'e (Lieutenant Doren) rapor verin. Raporunuzu ilk elden duymak isteyecektir.",
-    ["Objectives"]="10 Kurzen Komandosu (Kurzen Commando) ve 6 Kurzen Kelleküçülteni (Kurzen Headshrinker) öldür.\n\nAsi Kampı'ndaki (Rebel Camp) Teğmen Doren'e rapor ver.",
-    ["Progress"]="Çavuş Yohwa (Sergeant Yohwa) bana yetenekli ve cesur olduğunu söyledi, <class>. Rapor edecek bir şeyin var mı?",
-    ["Completion"]="YOUR_NAME. Çavuş Yohwa senin yeteneklerine güvendi, ben de ona güveniyorum. Kurzen'in kuvvetlerine tattırdığın yenilgi neredeyse umut edilemeyecek kadar büyük. Biz asilerin yapayalnız kaldığımızdan ve tek başımıza Albay'ın (Colonel) dehasına asla karşı koyamayacağımızdan korkuyordum.\n\nBelki de hayatta kalma umudumuz hâlâ tükenmemiştir.",
-    ["minlevel"]="0",
-    ["questlevel"]="0",
-    }, -- end Special Forces
     }, -- end [DEPRECATED] Wool Would Work
 
 };
