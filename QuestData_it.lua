@@ -48067,6 +48067,24 @@ QuestTranslator_QuestData = {
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Hostile Takeover
+    -- Supply and Demand
+    -- Drizzlik -> Drizzlik kalmıştır (MobNpcData.lua)[cite: 1].
+    -- Booty Bay -> Ganimet Koyu (ZoneData.lua)[cite: 2].
+    -- Large River Crocolisk Skin -> Büyük Nehir Timsahı Derisi (Large -> Büyük, River -> Nehir, Crocolisk -> Timsah/Krokolisk, Skin -> Deri).
+    -- Stranglethorn -> İstisna uyarınca çevrilmeden aynen bırakılmıştır.
+    -- Riddlevox -> Bilmecekutusu (Riddle -> Bilmece, Vox/Box -> Kutu / Kelime oyunu anlamca çevrilmiştir).
+    -- Director Riddlevox -> Müdür Bilmecekutusu (Director -> Müdür).
+    -- Tinkers' Union -> Mucitler Birliği (Tinker -> Mucit/Zanaatkar, Union -> Birlik).
+    -- Excelsior-line boots -> Kusursuz Serisi Çizmeler (Excelsior -> Kusursuz/Daha yüksek, Line -> Seri/Hat).
+    ["575"] = { 
+    ["Title"]="Arz ve Talep",
+    ["Description"]="\"Güney Denizleri'nin ve eski ile yeni dünyaların en iyi deri işleyicisi.\" Bana böyle derler. Bana! Drizzlik'e! En iyi de... Öhöm. Pekala.\n\nDeri eşyalarım en seçkin, bir uzmanın tercihi olarak uzak ve yakın her yerde bilinir!\n\nMucitler Birliği'nden (Tinkers' Union) Müdür Bilmecekutusu'ndan (Director Riddlevox) en sevdiği Kusursuz serisi çizmelerden bir düzine üretmem için bir sipariş aldım. Aslına bakarsan en çok satan ürünümüzdür.\n\nTemel kalıba başlamak için, kuzey Stranglethorn'daki nehir boyunca yaşayan timsahlardan timsah derisi toplaman gerekecek.",
+    ["Objectives"]="Ganimet Koyu'ndaki (Booty Bay) Drizzlik'e 2 Büyük Nehir Timsahı Derisi (Large River Crocolisk Skin) getir.[cite: 1, 2]",
+    ["Progress"]="Ekipmanlarımın hepsi çalışmaya hazır, <name>, sadece o derilere ihtiyacım var. Bilmecekutusu'nu bekletmek istemeyiz, orası kesin.\n\nMucitler Birliği'nin baş mucidini memnuniyetsiz bırakmak hiç kimse için iyi bir fikir değildir.",
+    ["Completion"]="Bu deriler iş görür. Çizmelerin iç astarını oluşturacakları için kaliteleri o kadar da mühim değil ama yine de rahat olmaları önemli.\n\nEğer biraz fazla sert olurlarsa, yumuşatmak için biraz kaplan kanı kullanırım. Meslek sırrı, bilirsin ya?",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Supply and Demand
     --123456789
 
 
