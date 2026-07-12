@@ -33064,7 +33064,7 @@ QuestTranslator_QuestData = {
     ["40025"] = {
     -- Mon -> Ahbap (Troll şivesi). Speaker -> Konuşmacı.
     ["Title"]="İç Bağ Temizliği",
-    ["Description"]="Ganz'ih'in belirttiğine bakılırsa, bu bileklikler (bracers) yozlaşmış durumda. Birileri zayıflamış durumumuzdan faydalanıyor ve soyumu habis emellere alet ediyor. Bu bileklikleri lekelerinden (taint) arındırmalıyız ve bunu yapmak için doğal malzemelere ihtiyacım var. Onları bu dünyada bulabilirsin ve lekiyi temizlemede epey işe yarayacaklardır. Konuşmacı (Speaker) Ganz'ih'e beş Yaşam Kökü (Life Roots), on Sağlam Taş (Solid Stones) ve üç Yaban Çelikçiçeği (Wild Steelblooms) getir. Malzemeleri benim için hazırlıyor olacak.",
+    ["Description"]="Ganz'ih'in belirttiğine bakılırsa, bu bileklikler yozlaşmış durumda. Birileri zayıflamış durumumuzdan faydalanıyor ve soyumu habis emellere alet ediyor. Bu bileklikleri lekelerinden (taint) arındırmalıyız ve bunu yapmak için doğal malzemelere ihtiyacım var. Onları bu dünyada bulabilirsin ve lekiyi temizlemede epey işe yarayacaklardır. Konuşmacı (Speaker) Ganz'ih'e beş Yaşam Kökü (Life Roots), on Sağlam Taş (Solid Stones) ve üç Yaban Çelikçiçeği (Wild Steelblooms) getir. Malzemeleri benim için hazırlıyor olacak.",
     ["Objectives"]="5 Yaşam Kökü, 10 Sağlam Taş ve 3 Yaban Çelikçiçeği topla ve bunları Konuşmacı Ganz'ih'e getir.",
     ["Progress"]="Eldeki görev önemli bir görevdir, ahbap (mon). Elementallere yardım etmek için elimizden gelenin en iyisini yapmalıyız.",
     ["Completion"]="Her şey tamam. Bileklikleri temizleyebilmesi için Lord Rog'un talimat verdiği gibi yapacağım.",
@@ -33119,7 +33119,7 @@ QuestTranslator_QuestData = {
     -- Sirens -> Sirenler. Crude and foul magic -> Kaba ve habis büyü.
     ["40124"] = {
     ["Title"]="Araya Giren Naga",
-    ["Description"]="Eldarath şehrinin ley parçalarının (ley-shards) enerjileri bile tehlikeye atılmış durumda. Bu, okyanus derinliklerinden sokulup istila eden Nagaların (Naga) işi olabilir. Ne kadar vahşi olsalar da, buralarda hakimiyet iddia etmeye çalışan o yaratıklara bunu yakıştırmazlık edemem. Bunu çözdüğümüzü iddia etmeden önce bu meseleye daha derinlemesine bakmalıyız. Bir dağıtma parşömeni (scroll of dispelling) hazırladım. Onu pençelerinde tuttukları Spitelash Sunağı (Spitelash Shrine) üzerinde kullan. Eğer bu sönümlemenin arkasında onlar varsa, bu sorunu çözecektir. Orayayken sirenlerini (sirens) de katlet, kaba ve habis büyüyü kuşanıp kullananlar onlardır.",
+    ["Description"]="Eldarath şehrinin ley parçalarının enerjileri bile tehlikeye atılmış durumda. Bu, okyanus derinliklerinden sokulup istila eden Nagaların (Naga) işi olabilir. Ne kadar vahşi olsalar da, buralarda hakimiyet iddia etmeye çalışan o yaratıklara bunu yakıştırmazlık edemem. Bunu çözdüğümüzü iddia etmeden önce bu meseleye daha derinlemesine bakmalıyız. Bir dağıtma parşömeni (scroll of dispelling) hazırladım. Onu pençelerinde tuttukları Spitelash Sunağı (Spitelash Shrine) üzerinde kullan. Eğer bu sönümlemenin arkasında onlar varsa, bu sorunu çözecektir. Orayayken sirenlerini (sirens) de katlet, kaba ve habis büyüyü kuşanıp kullananlar onlardır.",
     ["Objectives"]="15 Spitelash Sireni katlet ve Spitelash Sunağı'ndaki (Spitelash Shrine) büyüyü dağıt.",
     ["Progress"]="Nagaların icabına bakıldı mı?",
     ["Completion"]="Tamamlandı mı? Sunağı dağıttın mı? Bunun büyülerimiz üzerinde ne kadar etkisi olduğunu görelim bakalım. Bunun bir kez ve tamamen bittiğini umalım.",
@@ -33132,7 +33132,7 @@ QuestTranslator_QuestData = {
     -- Solnius the Awakener -> Uyandırıcı Solnius (The Awakener). Nightmare -> Kabus.
     -- The Awakening -> Uyanış, Emerald Dream -> Zümrüt Rüya.
     ["Title"]="Rüya'nın İçine I",
-    ["Description"]="Ben Yeşil Ejderha Sürüsü'nün (Green Dragonflight) bir hizmetkarı olan Ralathius. Beni Rüya'nın dışında bulmak alışılmadık bir durumdur, ancak burada bulunmamın acil bir sebebi var. Kutsal diyarımız bilinmeyen bir karanlık tarafından lekelendi. Bu yozlaşma ani ve uyarı yapmaksızın ortaya çıktı, habis dokunuşunu tüm Rüya'ya yaydı. Druidler, ejderhalar ve Rüya'nın tüm sakinleri bu sinsi güce karşı cesur bir mücadele veriyor, ancak büyük kayıplarla karşı karşıyayız. Kaybedilenler arasında soylu bir ruh ve Ysera'nın en sevilen çocuklarından biri olan Uyandırıcı Solnius (Solnius the Awakener) da var. Solnius, Uyanış (the Awakening) olarak bilinen en kutsal ritüelimizi koruma sorumluluğunu taşıyordu. Heyhat, Kabus'un (the Nightmare) cazibeli fısıltılarına yenik düştü ve şimdi bu kutsal güç karanlığın ellerinde yatıyor. Lütfen hikayemi dinle. Ne pahasına olursa olsun durdurulmalı.",
+    ["Description"]="Ben Yeşil Ejderha Sürüsü'nün bir hizmetkarı olan Ralathius. Beni Rüya'nın dışında bulmak alışılmadık bir durumdur, ancak burada bulunmamın acil bir sebebi var. Kutsal diyarımız bilinmeyen bir karanlık tarafından lekelendi. Bu yozlaşma ani ve uyarı yapmaksızın ortaya çıktı, habis dokunuşunu tüm Rüya'ya yaydı. Druidler, ejderhalar ve Rüya'nın tüm sakinleri bu sinsi güce karşı cesur bir mücadele veriyor, ancak büyük kayıplarla karşı karşıyayız. Kaybedilenler arasında soylu bir ruh ve Ysera'nın en sevilen çocuklarından biri olan Uyandırıcı Solnius (Solnius the Awakener) da var. Solnius, Uyanış (the Awakening) olarak bilinen en kutsal ritüelimizi koruma sorumluluğunu taşıyordu. Heyhat, Kabus'un (the Nightmare) cazibeli fısıltılarına yenik düştü ve şimdi bu kutsal güç karanlığın ellerinde yatıyor. Lütfen hikayemi dinle. Ne pahasına olursa olsun durdurulmalı.",
     ["Objectives"]="Ralathius'un hikayesini dinle.",
     ["Progress"]="Zümrüt Rüya (The Emerald Dream) tehlikede.",
     ["Completion"]="İşte artık biliyorsun. Solnius durdurulmalı.",
@@ -33145,7 +33145,7 @@ QuestTranslator_QuestData = {
     -- Ralathius, Nordanaar kalmıştır. Conduit -> Kanal / İletken.
     ["40958"] = {
     ["Title"]="Rüya'nın İçine II",
-    ["Description"]="Kabus (The Nightmare) her yerde olabilir. Soylu kahramanlar gibi görünenler bile bu habis güce gizli bir sadakat besliyor olabilir. Körü körüne güvenmeyi göze alamam. Bu yüzden, sadakatinizin somut bir kanıtına ihtiyacım var. Bu büyülü ormanların derinliklerinde, karanlığı kucaklamış habis yaratıklar olan zavallı satirler (satyrs) yaşıyor. Bu canavarlar, yozlaştırıcı güçle aşılanmış yadigarlar olan Kabus Suretlerine (Nightmare Effigies) sahipler. Bu suretler Kabus'un tüm gücünü dünyamıza salacak güçten yoksun olsalar da, düşman tarafından kuşanıldıklarında hâlâ önemli bir tehdit oluşturuyorlar. Yine de, önemleri taşıdıkları yakın tehlikenin de ötesine geçiyor. Bu şer odaklı suretler, Rüya ve ölümlü dünyasının diyarlarını birbirine bağlayan kanallar (conduits) olarak hizmet eder. Bu canavarca yadigarları bana getirerek, onları kuşanmaya cüret eden her türlü Kabus ajanını ifşa etmek için kendilerine has özelliklerinden yararlanabiliriz. Üç tanesi yeterli olacaktır.",
+    ["Description"]="Kabus her yerde olabilir. Soylu kahramanlar gibi görünenler bile bu habis güce gizli bir sadakat besliyor olabilir. Körü körüne güvenmeyi göze alamam. Bu yüzden, sadakatinizin somut bir kanıtına ihtiyacım var. Bu büyülü ormanların derinliklerinde, karanlığı kucaklamış habis yaratıklar olan zavallı satirler (satyrs) yaşıyor. Bu canavarlar, yozlaştırıcı güçle aşılanmış yadigarlar olan Kabus Suretlerine (Nightmare Effigies) sahipler. Bu suretler Kabus'un tüm gücünü dünyamıza salacak güçten yoksun olsalar da, düşman tarafından kuşanıldıklarında hâlâ önemli bir tehdit oluşturuyorlar. Yine de, önemleri taşıdıkları yakın tehlikenin de ötesine geçiyor. Bu şer odaklı suretler, Rüya ve ölümlü dünyasının diyarlarını birbirine bağlayan kanallar (conduits) olarak hizmet eder. Bu canavarca yadigarları bana getirerek, onları kuşanmaya cüret eden her türlü Kabus ajanını ifşa etmek için kendilerine has özelliklerinden yararlanabiliriz. Üç tanesi yeterli olacaktır.",
     ["Objectives"]="Nordanaar'daki Ralathius'a üç Kabus Sureti (Nightmare Effigies) getir.",
     ["Progress"]="Bu temkinlilik ve güvensizlik yükünü ağır bir yürekle taşıyor olsam da, düşmanın tehdidi her gölgede pusuya yatmış, her türlü zayıflığı veya savunmasızlığı suiistimal etmeye hazır bekliyor.",
     ["Completion"]="Suretleri ellerinde taşıyorsun, yine de içinde yozlaşmaya dair hiçbir işaret görmüyorum. <Ralathius rahatlayarak iç çeker.> Her gölgede düşmanı görüyorum ve bu beni yıpratıyor. Başlangıçtaki güvensizliğim için özür dilerim, ancak bu adımları atmak zorundayım. Şimdi lütfen o suretleri bana uzat.",
@@ -33283,7 +33283,7 @@ QuestTranslator_QuestData = {
     -- Heirophant Nerseus -> Başrahip Nerseus, Karazhan.
     ["41081"] = {
     ["Title"]="Geniş Zihin Duası",
-    ["Description"]="Geçmişte pek çok büyük, güçlü rahip, Işığı (the Light) muazzam büyüler içinde var etme ve aşılamadaki yetenekleri nedeniyle 'Başrahip' (Hierophant) unvanını kazandı. Bu beceri son derece zordur ve sadece bir ustadan büyük bir konuma sahip bir öğrenciye aktarılır. Zamanla Başrahiplerin sayısı azaldı ve bununla birlikte geçmişimizin duaları (invocations) tarihin sayfalarında kaybolarak belirsizliğe gömüldü. Fedakarlığın için sana böyle bir dua sunabilirim ama nadir bir malzemeye ihtiyacım var. Güçlerim azaldı ve bana tek bir Aşırı Yüklü Ley Enerjisi (Overcharged Ley Energy) gerekiyor. Bu enerji Karazhan kulesinin içinde bulunabilir. Bana bir tane getir, ben de sana seçtiğin duayı sunayım.",
+    ["Description"]="Geçmişte pek çok büyük, güçlü rahip, Işığı muazzam büyüler içinde var etme ve aşılamadaki yetenekleri nedeniyle 'Başrahip' (Hierophant) unvanını kazandı. Bu beceri son derece zordur ve sadece bir ustadan büyük bir konuma sahip bir öğrenciye aktarılır. Zamanla Başrahiplerin sayısı azaldı ve bununla birlikte geçmişimizin duaları (invocations) tarihin sayfalarında kaybolarak belirsizliğe gömüldü. Fedakarlığın için sana böyle bir dua sunabilirim ama nadir bir malzemeye ihtiyacım var. Güçlerim azaldı ve bana tek bir Aşırı Yüklü Ley Enerjisi (Overcharged Ley Energy) gerekiyor. Bu enerji Karazhan kulesinin içinde bulunabilir. Bana bir tane getir, ben de sana seçtiğin duayı sunayım.",
     ["Objectives"]="Karazhan dışındaki kilisede bulunan Başrahip Nerseus (Heirophant Nerseus) için bir Aşırı Yüklü Ley Enerjisi (Overcharged Ley Energy) ve 6 Arkan Özü (Arcane Essence) topla.",
     ["Progress"]="Ley enerjisini topladın mı?",
     ["Completion"]="Bu dua, kötülüğü yenmek için sana gerekli olan gücü bahşetsin.",
@@ -33297,7 +33297,7 @@ QuestTranslator_QuestData = {
     -- Invocation of Greater Arcane Fortitude -> Yüce Arkan Metanet Duası (Arcane + Fortitude).
     ["41082"] = {
     ["Title"]="Yüce Arkan Metanet Duası",
-    ["Description"]="Geçmişte pek çok büyük, güçlü rahip, Işığı (the Light) muazzam büyüler içinde var etme ve aşılamadaki yetenekleri nedeniyle 'Başrahip' (Hierophant) unvanını kazandı. Bu beceri son derece zordur ve sadece bir ustadan büyük bir konuma sahip bir öğrenciye aktarılır. Zamanla Başrahiplerin sayısı azaldı ve bununla birlikte geçmişimizin duaları (invocations) tarihin sayfalarında kaybolarak belirsizliğe gömüldü. Fedakarlığın için sana böyle bir dua sunabilirim ama nadir bir malzemeye ihtiyacım var. Güçlerim azaldı ve bana tek bir Aşırı Yüklü Ley Enerjisi (Overcharged Ley Energy) gerekiyor. Bu enerji Karazhan kulesinin içinde bulunabilir. Bana bir tane getir, ben de sana seçtiğin duayı sunayım.",
+    ["Description"]="Geçmişte pek çok büyük, güçlü rahip, Işığı muazzam büyüler içinde var etme ve aşılamadaki yetenekleri nedeniyle 'Başrahip' (Hierophant) unvanını kazandı. Bu beceri son derece zordur ve sadece bir ustadan büyük bir konuma sahip bir öğrenciye aktarılır. Zamanla Başrahiplerin sayısı azaldı ve bununla birlikte geçmişimizin duaları (invocations) tarihin sayfalarında kaybolarak belirsizliğe gömüldü. Fedakarlığın için sana böyle bir dua sunabilirim ama nadir bir malzemeye ihtiyacım var. Güçlerim azaldı ve bana tek bir Aşırı Yüklü Ley Enerjisi (Overcharged Ley Energy) gerekiyor. Bu enerji Karazhan kulesinin içinde bulunabilir. Bana bir tane getir, ben de sana seçtiğin duayı sunayım.",
     ["Objectives"]="Karazhan dışındaki kilisede bulunan Başrahip Nerseus (Heirophant Nerseus) için bir Aşırı Yüklü Ley Enerjisi (Overcharged Ley Energy) ve 6 Arkan Özü (Arcane Essence) topla.",
     ["Progress"]="Ley enerjisini topladın mı?",
     ["Completion"]="Bu dua, kötülüğü yenmek için sana gerekli olan gücü bahşetsin.",
@@ -33310,7 +33310,7 @@ QuestTranslator_QuestData = {
     -- Overcharged Ley Energy -> Aşırı Yüklü Ley Enerjisi. Karazhan, Arcane Essence -> Arkan Özü.
     -- Heirophant Nerseus -> Başrahip Nerseus.
     ["Title"]="Yüce Koruma Duası",
-    ["Description"]="Geçmişte pek çok büyük, güçlü rahip, Işığı (the Light) muazzam büyüler içinde var etme ve aşılamadaki yetenekleri nedeniyle 'Başrahip' (Hierophant) unvanını kazandı. Bu beceri son derece zordur ve sadece bir ustadan büyük bir konuma sahip bir öğrenciye aktarılır. Zamanla Başrahiplerin sayısı azaldı ve bununla birlikte geçmişimizin duaları (invocations) tarihin sayfalarında kaybolarak belirsizliğe gömüldü. Fedakarlığın için sana böyle bir dua sunabilirim ama nadir bir malzemeye ihtiyacım var. Güçlerim azaldı ve bana tek bir Aşırı Yüklü Ley Enerjisi (Overcharged Ley Energy) gerekiyor. Bu enerji Karazhan kulesinin içinde bulunabilir. Bana bir tane getir, ben de sana seçtiğin duayı sunayım.",
+    ["Description"]="Geçmişte pek çok büyük, güçlü rahip, Işığı muazzam büyüler içinde var etme ve aşılamadaki yetenekleri nedeniyle 'Başrahip' (Hierophant) unvanını kazandı. Bu beceri son derece zordur ve sadece bir ustadan büyük bir konuma sahip bir öğrenciye aktarılır. Zamanla Başrahiplerin sayısı azaldı ve bununla birlikte geçmişimizin duaları (invocations) tarihin sayfalarında kaybolarak belirsizliğe gömüldü. Fedakarlığın için sana böyle bir dua sunabilirim ama nadir bir malzemeye ihtiyacım var. Güçlerim azaldı ve bana tek bir Aşırı Yüklü Ley Enerjisi (Overcharged Ley Energy) gerekiyor. Bu enerji Karazhan kulesinin içinde bulunabilir. Bana bir tane getir, ben de sana seçtiğin duayı sunayım.",
     ["Objectives"]="Karazhan dışındaki kilisede bulunan Başrahip Nerseus (Heirophant Nerseus) için bir Aşırı Yüklü Ley Enerjisi (Overcharged Ley Energy) ve 6 Arkan Özü (Arcane Essence) topla.",
     ["Progress"]="Ley enerjisini topladın mı?",
     ["Completion"]="Bu dua, kötülüğü yenmek için sana gerekli olan gücü bahşetsin.",
@@ -48085,6 +48085,21 @@ QuestTranslator_QuestData = {
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Supply and Demand
+    -- Some Assembly Required
+    -- Drizzlik -> Drizzlik kalmıştır (MobNpcData.lua)[cite: 1].
+    -- Booty Bay -> Ganimet Koyu (ZoneData.lua)[cite: 2].
+    -- Snapjaw Crocolisk Skin -> Kapançene Timsahı Derisi (Snapjaw -> Kapançene / Kapan çeneli, Crocolisk -> Timsah, Skin -> Deri).
+    -- Lake Nazferiti -> Nazferiti Gölü.
+    -- Excelsior leather boots -> Kusursuz Deri Çizmeler (Excelsior -> Kusursuz).
+    ["577"] = { 
+    ["Title"]="Biraz Montaj Gerekiyor",
+    ["Description"]="Pekala, çizmelerin temel kalıbını çıkardım ve gayet iyi gidiyorlar; ancak getirdiğin deriler iç katmanlar için pek yeterli olmayacak.\n\n\"Şimdi ne yapacağız, Drizzlik?\" Dudaklarındaki sorunun bu olduğuna şüphe yok ve pekala, Drizzlik ile konuştuğun için şanslı sayılmaz mısın? Çünkü şimdi sana ne yapacağımızı söyleyecek!\n\nİç katmanlar asla gerçekten görünmeyecek, bu yüzden çizmeleri doldurmak için Nazferiti Gölü (Lake Nazferiti) civarındaki timsahlardan daha kalın ve daha ucuz olan derilerden toplayacağız.",
+    ["Objectives"]="Ganimet Koyu'ndaki (Booty Bay) Drizzlik'e 5 Kapançene Timsahı Derisi (Snapjaw Crocolisk Skin) getir.[cite: 1, 2]",
+    ["Progress"]="Drizzlik'in Kusursuz deri çizmeleri; en ince işçilik, yüzde yüz yüksek kalite tuzlu su timsahı derisinden çizmeler. Daha iyisi yok!\n\nBöyle parıltılı bir tarifi geride bırakamazsın, değil mi?\n\nTabii, belki o deriler yanındaysa durum değişebilir?",
+    ["Completion"]="Çizmelerim... Tıpkı sosisler gibidir, <name>. Harika görünürler, tadı harikadır. Sana içlerinin en kaliteli malzemelerle ve etlerle dolu olduğunu söylerim, sen de onu yer ve bayılırsın.\n\nSadece bana güvenmen ve içinde gerçekten ne olduğunu çok da detaylı sormaman senin için daha güvenli ve daha keyiflidir.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Some Assembly Required
     --123456789
 
 
