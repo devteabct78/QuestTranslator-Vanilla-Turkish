@@ -48202,6 +48202,39 @@ QuestTranslator_QuestData = {
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Water Elementals
+    -- Zanzil's Secret
+    -- Zanzil the Outcast -> Dışlanmış Zanzil (Outcast -> Dışlanmış/Sürgün edilmiş).
+    -- Zanzil -> Zanzil kalmıştır (MobNpcData.lua)[cite: 1].
+    -- Crank Fizzlebub -> Çark Cızırtılıbalon (Önceki görevlerde sabitlediğimiz goblin ismi).
+    -- Booty Bay -> Ganimet Koyu (ZoneData.lua)[cite: 2].
+    -- Zanzil's Mixture -> Zanzil'in Karışımı (Mixture -> Karışım/İksir).
+    -- Jubuwai Ruins -> Jubuwai Harabeleri (Trol yerleşkesi / Özel isim).
+    -- Aboraz Ruins -> Aboraz Harabeleri (Trol yerleşkesi / Özel isim).
+    -- Belt of Corruption -> Yozlaşma Kemeri (Belt -> Kemer, Corruption -> Yozlaşma).
+    ["621"] = { 
+    ["Title"]="Zanzil'in Sırrı",
+    ["Description"]="Dışlanmış Zanzil, Ganimet Koyu'nun (Booty Bay) kuzeydoğusundaki Jubuwai ve Aboraz Harabeleri'nde (Jubuwai and Aboraz Ruins) takipçileriyle birlikte yaşıyor. Kabilesinden sürgün edilmiş durumda. Neden mi? Şey...\n\nZanzil'in başkalarının zihnini bükme yöntemleri var ve liderleri ondan korkuyor. Takipçilerinin iradesini bastırmak ve vücutlarını güçlendirmek için onların üzerinde orman bitkilerinden oluşan bir karışım kullanıyor.\n\nOnun bu karışımı, başkalarını kontrol etmek isteyenler için çok değerli olacaktır.\n\nBana bu karışımdan örnekler getir, ben de onlar için bir kullanım alanı bulayım.",
+    ["Objectives"]="Ganimet Koyu'ndaki (Booty Bay) Çark Cızırtılıbalon'a 12 adet Zanzil'in Karışımı (Zanzil's Mixture) örneği getir.[cite: 2]",
+    ["Progress"]="Zanzil'in Karışımı örnekleri yanında mı??",
+    ["Completion"]="Ah, çok güzel! İşte ödemen.\n\nVe bu da küçük bir ekstra... Gösterdiğin sağduyu ve gizlilik için.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Zanzil's Secret
+    -- Favor for Krazek
+    -- Krazek -> Krazek kalmıştır (MobNpcData.lua)[cite: 1].
+    -- Booty Bay -> Ganimet Koyu (ZoneData.lua)[cite: 2].
+    -- Lesser Bloodstone Ore -> Küçük Kanşıt Cevheri (Lesser -> Küçük/Düşük, Bloodstone -> Kan taşı / Kanşıt, Ore -> Cevher).
+    -- Drywhisker Gorge -> Kuruvelet Kanyonu (Dry -> Kuru, Whisker -> Bıyık/Velet kelime oyunu, Gorge -> Kanyon/Geçit).
+    -- Arathi Highlands -> Arathi Tepeleri (Arathi -> Aynen kalmıştır, Highlands -> Tepeleri/Yüksek Toprakları).
+    ["627"] = { 
+    ["Title"]="Krazek için Bir Lütuf",
+    ["Description"]="Uzak kuzeydeki Arathi Tepeleri'nde (Arathi Highlands), Kuruvelet Kanyonu'nda (Drywhisker Gorge) bir dağ mağarası var. O mağarada nadir bir cevher bulunur: Kan taşı. Bu mağaradaki kan taşı en yüksek kalitede değildir, ancak düşük kaliteli kan taşı bile değerlidir... Tabii onu nasıl kullanacağını bilenler için.\n\nBen de biraz istiyorum.\n\nSenin şu güveç tencereni tamir edeceğim, ama ben onun üzerinde çalışırken... bana kan taşı örnekleri getir. Yeterince getirirsen sana bir bonus bile veririm.\n\nOh, ve eğer onu çıkaracak madencilik yeteneğin yoksa... O yeteneğe sahip birini bul!",
+    ["Objectives"]="Ganimet Koyu'ndaki (Booty Bay) Krazek'e 4 yığın Küçük Kanşıt Cevheri (Lesser Bloodstone Ore) getir.[cite: 1, 2]",
+    ["Progress"]="Merhaba, <name>. Kan taşını getirme konusunda şansın yaver gitti mi?",
+    ["Completion"]="Ah, şahane! Benim için büyük bir lütufta bulundun.\n\nİşte ödemen...",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Favor for Krazek
     --123456789
 
 
