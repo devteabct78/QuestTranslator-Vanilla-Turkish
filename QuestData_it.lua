@@ -48024,7 +48024,7 @@ QuestTranslator_QuestData = {
     -- Hemet Nesingwary -> Hemet Nesingwary kalmıştır (MobNpcData.lua)[cite: 1].
     ["201"] = { 
     ["Title"]="Kampı Araştır",
-    ["Description"]="Nazferiti Gölü'ndeki (Lake Nazferiti) Venture Company maden kampının yukarısında nehir kıyısına kamp kurmuş bir grup avcıya dair raporlar aldım. Normalde umursamazdım ama inanması güç olsa da Hemet Nesingwary'nin de oradaki avcılardan biri olduğunu duydum.Ne demek istediğimi anlıyorsan, kendisinin bağlantıları kesinlikle çok güçlüdür ve hiçbir zaman işi şansa bırakmamak gerekir.\n\nNeden gidip şu kampa bir göz atmıyorsun, <name>? Ne işler çevirdiklerini öğren bakalım.",
+    ["Description"]="Nazferiti Gölü'ndeki (Lake Nazferiti) Venture Company maden kampının yukarısında nehir kıyısına kamp kurmuş bir grup avcıya dair raporlar aldım. Normalde umursamazdım ama inanması güç olsa da Hemet Nesingwary'nin de oradaki avcılardan biri olduğunu duydum.Ne demek istediğimi anlıyorsan, kendisinin bağlantıları kesinlikle çok güçlüdür ve hiçbir zaman işi şansa bırakmamak gerekir.\n\nNeden gidip şu kampa bir göz atmıyorsun, YOUR_NAME? Ne işler çevirdiklerini öğren bakalım.",
     ["Objectives"]="Avcıların kampını bul ve konumunu Ganimet Koyu'ndaki (Booty Bay) Krazek'e bildir.[cite: 1, 2]",
     ["Progress"]="Eeee? Kampın yerini tespit etme konusunda bir şansın yaver gitti mi?",
     ["Completion"]="Hmmm, demek ki bilgilerim her zamanki gibi doğruydu. İlginç. Pekala, bizim operasyonumuza müdahale edecek bir tehdit oluşturduklarını sanmıyorum ama belki de ürettiğimiz o mükemmel ürünlerden bazılarına ihtiyaçları olabilir. Hmmm...",
@@ -48040,7 +48040,7 @@ QuestTranslator_QuestData = {
     -- Goblin Fishing Pole -> Goblin Oltası (Fishing Pole -> Olta).
     ["189"] = {
     ["Title"]="Bloodscalp Kulakları",
-    ["Description"]="Lanet troller! Ormandaki ajanlarımızı teker teker öldürüyorlar! Onlarla girilen çatışmalarda şimdiden en iyi muhafızlarımdan birçoğunu kaybettim. Masraflar giderek katlanıyor! Bunu Baron Revilgaz'a nasıl açıklayacağım?\n\nKararlı bir eylem... Düşün, Kebok... Bugün bulunduğun bu makama boş boş oturmak için atanmadın... Buldum! Sen... <name>, deyil mi? Bana yardım edeceksin, değil mi? İşin ucunda para var!\n\nAnlaşma şu... Bana on beş Bloodscalp Trolünün (Bloodscalp Trolls) kulağını getir, ben de seni fazlasıyla ödüllendireyim.",
+    ["Description"]="Lanet troller! Ormandaki ajanlarımızı teker teker öldürüyorlar! Onlarla girilen çatışmalarda şimdiden en iyi muhafızlarımdan birçoğunu kaybettim. Masraflar giderek katlanıyor! Bunu Baron Revilgaz'a nasıl açıklayacağım?\n\nKararlı bir eylem... Düşün, Kebok... Bugün bulunduğun bu makama boş boş oturmak için atanmadın... Buldum! Sen... YOUR_NAME, deyil mi? Bana yardım edeceksin, değil mi? İşin ucunda para var!\n\nAnlaşma şu... Bana on beş Bloodscalp Trolünün (Bloodscalp Trolls) kulağını getir, ben de seni fazlasıyla ödüllendireyim.",
     ["Objectives"]="15 Bloodscalp Kulağı (Bloodscalp Ear) elde et ve onları Ganimet Koyu'ndaki (Booty Bay) Kebok'e geri getir.",
     ["Progress"]="Başarılı olduğunu umuyorum? Her yerdeler, o troller. Pis pis iblisler.\n\nAh evet, bu bana hatırlattı! Arkadaşlarına da söylemeyi unutma, tamam mı? Çokça yardıma ihtiyacımız olabilir!",
     ["Completion"]="Oh mükemmel, mükemmel. Bu şimdilik biraz olsun yardımcı olacaktır...\n\n<Kâr marjları ve maliyetler hakkında mırıldanarak uzaklaşır...>\n\nNe? Hâlâ burada mısın? Ödül mü? Ah, doğru... Tabii ki, al bakalım şunu... Fazlasıyla yeterli olacaktır.",
@@ -48062,7 +48062,7 @@ QuestTranslator_QuestData = {
     ["Title"]="Düşmanca Ele Geçirme",
     ["Description"]="Bu sefer gerçekten ileri gitti! Gelriz'in, ticaret prensleri tarafından atanan nüfuzlu tüccarları zorbalıkla saf dışı bırakması yetmezmiş gibi, şimdi de en azılı korsanın işine çomak sokmaya çalışıyor![cite: 1]\n\nRevilgaz buna müsaade etmeyecek ve bu sorunu kendi yöntemlerimle çözmemi söyledi.[cite: 1]\n\nBenim yöntemim mi? Hırsızlık. Nazferiti Gölü (Lake Nazferiti) yakınlarındaki Macera Şti. (Venture Co.) jeologları, madenlerde buldukları o tuhaf mavi kristallere derinden ilgi duyuyorlar. Bana onların jeologlarından bu taşın örneklerini getir, onları almak için ne yapman gerektiği umurumda bile değil.",
     ["Objectives"]="8 İşlenmiş Kristal (Tumbled Crystal) ele geçir ve onları Ganimet Koyu'ndaki (Booty Bay) Kebok'e geri getir.[cite: 1, 2]",
-    ["Progress"]="O taşlara ihtiyacım var, <name>. Hangi yolla olursa olsun! Sadece yap, bana ayrıntıları anlatma!\n\nHer şey sonuçtan ibaret, <name>, ne fazlası ne azı.",
+    ["Progress"]="O taşlara ihtiyacım var, YOUR_NAME. Hangi yolla olursa olsun! Sadece yap, bana ayrıntıları anlatma!\n\nHer şey sonuçtan ibaret, YOUR_NAME, ne fazlası ne azı.",
     ["Completion"]="Büyüleyici. Kristallerin bu süreç kullanılarak yontulmuş olması, onları bir tür yakıt ya da başka bir katalizör olarak kullanmayı planladıklarını gösteriyor. Bundan daha fazlasını bilmiyorum. Örneklerin Baş Kimyager Kıkırdayanyazı'ya (Head Chemist Gigglefont) gönderilmesi gerekecek.",
     ["minlevel"]="0",
     ["questlevel"]="0",
@@ -48080,7 +48080,7 @@ QuestTranslator_QuestData = {
     ["Title"]="Arz ve Talep",
     ["Description"]="\"Güney Denizleri'nin ve eski ile yeni dünyaların en iyi deri işleyicisi.\" Bana böyle derler. Bana! Drizzlik'e! En iyi de... Öhöm. Pekala.\n\nDeri eşyalarım en seçkin, bir uzmanın tercihi olarak uzak ve yakın her yerde bilinir!\n\nMucitler Birliği'nden (Tinkers' Union) Müdür Bilmecekutusu'ndan (Director Riddlevox) en sevdiği Kusursuz serisi çizmelerden bir düzine üretmem için bir sipariş aldım. Aslına bakarsan en çok satan ürünümüzdür.\n\nTemel kalıba başlamak için, kuzey Stranglethorn'daki nehir boyunca yaşayan timsahlardan timsah derisi toplaman gerekecek.",
     ["Objectives"]="Ganimet Koyu'ndaki (Booty Bay) Drizzlik'e 2 Büyük Nehir Timsahı Derisi (Large River Crocolisk Skin) getir.[cite: 1, 2]",
-    ["Progress"]="Ekipmanlarımın hepsi çalışmaya hazır, <name>, sadece o derilere ihtiyacım var. Bilmecekutusu'nu bekletmek istemeyiz, orası kesin.\n\nMucitler Birliği'nin baş mucidini memnuniyetsiz bırakmak hiç kimse için iyi bir fikir değildir.",
+    ["Progress"]="Ekipmanlarımın hepsi çalışmaya hazır, YOUR_NAME, sadece o derilere ihtiyacım var. Bilmecekutusu'nu bekletmek istemeyiz, orası kesin.\n\nMucitler Birliği'nin baş mucidini memnuniyetsiz bırakmak hiç kimse için iyi bir fikir değildir.",
     ["Completion"]="Bu deriler iş görür. Çizmelerin iç astarını oluşturacakları için kaliteleri o kadar da mühim değil ama yine de rahat olmaları önemli.\n\nEğer biraz fazla sert olurlarsa, yumuşatmak için biraz kaplan kanı kullanırım. Meslek sırrı, bilirsin ya?",
     ["minlevel"]="0",
     ["questlevel"]="0",
@@ -48096,10 +48096,112 @@ QuestTranslator_QuestData = {
     ["Description"]="Pekala, çizmelerin temel kalıbını çıkardım ve gayet iyi gidiyorlar; ancak getirdiğin deriler iç katmanlar için pek yeterli olmayacak.\n\n\"Şimdi ne yapacağız, Drizzlik?\" Dudaklarındaki sorunun bu olduğuna şüphe yok ve pekala, Drizzlik ile konuştuğun için şanslı sayılmaz mısın? Çünkü şimdi sana ne yapacağımızı söyleyecek!\n\nİç katmanlar asla gerçekten görünmeyecek, bu yüzden çizmeleri doldurmak için Nazferiti Gölü (Lake Nazferiti) civarındaki timsahlardan daha kalın ve daha ucuz olan derilerden toplayacağız.",
     ["Objectives"]="Ganimet Koyu'ndaki (Booty Bay) Drizzlik'e 5 Kapançene Timsahı Derisi (Snapjaw Crocolisk Skin) getir.[cite: 1, 2]",
     ["Progress"]="Drizzlik'in Kusursuz deri çizmeleri; en ince işçilik, yüzde yüz yüksek kalite tuzlu su timsahı derisinden çizmeler. Daha iyisi yok!\n\nBöyle parıltılı bir tarifi geride bırakamazsın, değil mi?\n\nTabii, belki o deriler yanındaysa durum değişebilir?",
-    ["Completion"]="Çizmelerim... Tıpkı sosisler gibidir, <name>. Harika görünürler, tadı harikadır. Sana içlerinin en kaliteli malzemelerle ve etlerle dolu olduğunu söylerim, sen de onu yer ve bayılırsın.\n\nSadece bana güvenmen ve içinde gerçekten ne olduğunu çok da detaylı sormaman senin için daha güvenli ve daha keyiflidir.",
+    ["Completion"]="Çizmelerim... Tıpkı sosisler gibidir, YOUR_NAME. Harika görünürler, tadı harikadır. Sana içlerinin en kaliteli malzemelerle ve etlerle dolu olduğunu söylerim, sen de onu yer ve bayılırsın.\n\nSadece bana güvenmen ve içinde gerçekten ne olduğunu çok da detaylı sormaman senin için daha güvenli ve daha keyiflidir.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Some Assembly Required
+    -- Singing Blue Shards
+    -- Crank Fizzlebub -> Çark Cızırtılıbalon (Crank -> Çark, Fizzle -> Cızırtı/Sönme, Bub -> Bubble/Balon kelime oyunu).
+    -- Singing Crystal Shard -> Şarkı Söyleyen Kristal Parçası (Singing -> Şarkı Söyleyen, Crystal -> Kristal, Shard -> Parça).
+    -- Singing Crystals -> Şarkı Söyleyen Kristaller.
+    -- Stranglethorn -> İstisna kuralı uyarınca kesinlikle çevrilmeyecektir, aynen bırakılmıştır.
+    -- Venture Company -> Macera Şirketi.
+    -- Zul'Kunda -> Zul'Kunda kalmıştır (Trol yerleşkesi / Özel isim).
+    ["605"] = { 
+    ["Title"]="Şarkı Söyleyen Mavi Parçalar",
+    ["Description"]="Şarkı Söyleyen Kristaller (Singing Crystals) Stranglethorn'a özgüdür ve belirli kesimler için çok değerlidir. Bu kristalleri satabilirim ama lanet olası Macera Şirketi (Venture Company) benim gibi dürüst bir girişimcinin kristal toplamasını zorlaştırıyor!\n\nSeni işe almak istiyorum.\n\nStranglethorn'daki baziliskler bu kristali yiyorlar. Bu onlara sertleşmiş bir deri kazandırıyor ve bazen bu deriden iyi kalitede kristal hasat edilebiliyor.\n\nKristali herhangi bir baziliskten elde edebilirsin ancak daha az tehlikeli olanlar kuzeydeki Zul'Kunda'nın güney kıyılarında bulunurlar.",
+    ["Objectives"]="Çark Cızırtılıbalon'a (Crank Fizzlebub) 10 Şarkı Söyleyen Kristal Parçası (Singing Crystal Shard) getir.",
+    ["Progress"]="O parçaları henüz toplayabildin mi? Kârdan sana da iyi bir pay vereceğim!",
+    ["Completion"]="Aha! Bunlar gayet iş görür, YOUR_NAME. Evet, hem de çok iyi!\n\nİşte senin payın ve... Seninle iş yapmak bir zevkti.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Singing Blue Shards
+    -- Venture Company Mining
+    -- Crank Fizzlebub -> Çark Cızırtılıbalon (Önceki görevde sabitlediğimiz isim).
+    -- Booty Bay -> Ganimet Koyu (ZoneData.lua)[cite: 2].
+    -- Venture Company -> Macera Şirketi (Venture -> Macera, Company -> Şirket).
+    -- Singing Blue Crystal -> Şarkı Söyleyen Mavi Kristal (Singing -> Şarkı Söyleyen, Blue -> Mavi, Crystal -> Kristal).
+    -- Crystalvein Mine -> Kristaldamarı Madeni (Crystal -> Kristal, Vein -> Damar, Mine -> Maden).
+    -- Goblin Igniter -> Goblin Ateşleyicisi (Igniter -> Ateşleyici/Tutuşturucu).
+    -- Silver Spade -> Gümüş Bel (Silver -> Gümüş, Spade -> Bel/Kürek).
+    -- Stranglethorn -> İstisna uyarınca çevrilmeden aynen bırakılmıştır.
+    ["600"] = { 
+    ["Title"]="Venture Company (Macera Şirketi) Madenciliği",
+    ["Description"]="Macera Şirketi'nin (Venture Company) Stranglethorn boyunca uzanan bir dizi operasyonu var ve bu durum benim gibi çalışkan goblinlerin dürüst yoldan altın kazanmasını engelliyor! Lütfen, bana yardım etmelisin!\n\nMacera Şirketi, kuzeydeki Kristaldamarı Madeni'nin (Crystalvein Mine) yakınlarında maden çıkarıyor. Bazilisklerin çokluğu yüzünden madenin içine giremiyorlar ama yine de çevre tepelerden Şarkı Söyleyen Kristalleri (Singing Crystals) kazıp çıkarmayı başarıyorlar.\n\nKristallerini ellerinden al ve onlara ormanın hakimi olmadıklarını göster.\n\nVe... şey... kanıt olarak o kristalleri bana getir!",
+    ["Objectives"]="Ganimet Koyu'ndaki (Booty Bay) Çark Cızırtılıbalon'a (Crank Fizzlebub) 10 Şarkı Söyleyen Mavi Kristal (Singing Blue Crystal) getir.[cite: 1, 2]",
+    ["Progress"]="O kristalleri topladın mı?? Onlara ihtiyacım var!!\n\nYani... Demek istediğim, şu kötü Macera Şirketi'nin Stranglethorn'da zemin kaybettiğini bilmeye ihtiyacım var. Çünkü bilirsin ya, biz dürüst halkın da geçimini sağlaması gerekiyor!",
+    ["Completion"]="Harika! Muhteşem! Bunlar karşılığında koca bir servet koparabilirim!!\n\nŞu Macera Şirketi maden kazmak için kesinlikle yanlış ormanı seçti, değil mi? Buradan çekip gitselerdi hepimiz çok daha iyi durumda olurduk.\n\nTeşekkür ederim, <name>. Bugün gerçekten çok iyi bir iş çıkardın.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Venture Company Mining
+
+    -- The Haunted Isle
+    -- Krazek -> Krazek kalmıştır (MobNpcData.lua)[cite: 1].
+    -- Baron Revilgaz -> Baron Revilgaz kalmıştır (MobNpcData.lua)[cite: 1].
+    -- Booty Bay -> Ganimet Koyu (ZoneData.lua)[cite: 2].
+    -- Stranglethorn -> İstisna uyarınca çevrilmeden aynen bırakılmıştır.
+    -- Haunted Isle -> Lanetli Ada (Haunted -> Lanetli/Hayaletli, Isle -> Ada).
+    -- Water elementals -> Su elementalleri.
+    -- Stone of the Tides -> Gelgitlerin Taşı (Stone -> Taş, Tides -> Gelgitler).
+    ["616"] = { 
+    ["Title"]="Lanetli Ada",
+    ["Description"]="Baron Revilgaz, Ganimet Koyu (Booty Bay) ve Stranglethorn'daki tuhaf ve sıra dışı söylentilere kulak kabartmamı istemişti. Genelde hayalet hikayelerine pek prim vermem ama tavernadaki bazı denizcilerin kıyının açıklarında lanetli bir adadan bahsettiklerini duydum. Söylediklerine göre orada su elementalleri ve çılgın bir goblin hayaleti varmış.\n\nEğer gidip Revilgaz ile konuşacaksan, bu hikayeyi ona aktarabilir misin?",
+    ["Objectives"]="Ganimet Koyu'ndaki (Booty Bay) Baron Revilgaz ile konuş.[cite: 1, 2]",
+    ["Progress"]="", -- Görev metninde Progress (İlerleme) bölümü bulunmamaktadır.
+    ["Completion"]="İlginç. Bir süre önce, bir zamanlar okuduğum ve şunu öne süren bir kitabı hatırlar gibiyim...\n\nAh, elbette, bir trol efsanesiydi. Eğer Krazek'in bildirdikleri doğruysa, belki de yakında Gelgitlerin Taşı'nı (Stone of the Tides) kadim eser ve yadigar koleksiyonuma ekleyebilirim.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end The Haunted Isle
+
+    -- The Stone of the Tides
+    -- Baron Revilgaz -> Baron Revilgaz kalmıştır (MobNpcData.lua)[cite: 1].
+    -- Booty Bay -> Ganimet Koyu (ZoneData.lua)[cite: 2].
+    -- Stone of the Tides -> Gelgitlerin Taşı (Stone -> Taş, Tides -> Gelgitler).
+    -- Stormwind Library -> Fırtınarüzgarı Kütüphanesi (Stormwind -> Fırtınarüzgarı, Library -> Kütüphane).
+    -- Gazban -> Gazban kalmıştır (Özel isim / MobNpcData.lua)[cite: 1].
+    ["578"] = { 
+    ["Title"]="Gelgitlerin Taşı",
+    ["Description"]="Eğer adada gerçekten de mesken tutmuş bir goblin büyücüsü ve su elementalleri varsa, bu durum Gelgitlerin Taşı'nın (Stone of the Tides) benim olabileceği anlamına gelebilir!\n\nBu lanetli adanın yerini tespit etmeni... orada neler döndüğünü öğrenmeni istiyorum. Oh, ve eğer Gelgitlerin Taşı hakkında daha fazla şey öğrenmek istersen, bu belgeyi Fırtınarüzgarı Kütüphanesi'ne (Stormwind Library) götür; efsaneye ilk rastladığım kitabın bir kopyasını sana bulabilmeleri gerekir.\n\nGazban gerçekten de Taşı keşfetmiş olabilir mi...?",
+    ["Objectives"]="Ganimet Koyu'ndaki (Booty Bay) Baron Revilgaz için lanetli adayı bul.",
+    ["Progress"]="Troller gerçekten de inanılmaz büyülü nesnelere sahiptiler, <name>. Ve şimdi, belki de geniş koleksiyonuma bir yenisini ekleme fırsatına sahibim. Söylentinin kaynağını bulma konusunda bir şansın yaver gitti mi?",
+    ["Completion"]="Demek hikayeler doğruymuş! İnanılmaz!\n\nAncak, eğer onu geri getireceksek Gelgitlerin Taşı'nın lanetini yenmenin bir yolunu bulmamız gerekecek. Lanet meselesi büyü işidir, bize yardım etmesi için şu sihirbazlardan birine ihtiyacımız olacak.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end The Stone of the Tides
+    -- Excelsior
+    -- Drizzlik -> Drizzlik kalmıştır (MobNpcData.lua)[cite: 1].
+    -- Booty Bay -> Ganimet Koyu (ZoneData.lua)[cite: 2].
+    -- Elder Crocolisk Skin -> Yaşlı Timsah Derisi (Elder -> Yaşlı/Kadim, Crocolisk -> Timsah, Skin -> Deri).
+    -- elder saltwater crocolisk -> yaşlı tuzlu su timsahı (Saltwater -> Tuzlu su).
+    -- Excelsior line -> Kusursuz Serisi (Excelsior -> Kusursuz).
+    -- Excelsior Boots -> Kusursuz Çizmeler.
+    -- Director Riddlevox -> Müdür Bilmecekutusu (Önceki görevlerde sabitlediğimiz anlamca çeviri).
+    -- Undermine -> Yeraltı (Goblinlerin başkenti / Anlamca çevrilmiştir).
+    ["628"] = { 
+    ["Title"]="Kusursuz",
+    ["Description"]="İç kısım bittiğine göre, geriye kalan tek şey dış katmanı eklemek. Bunun için sadece en iyi yaşlı timsah derilerini kullanırım. Bunlar daha dayanıklıdır ve Drizzlik'in Kusursuz serisini oluşturan tasarımları ve işlemeleri eklemek için tabiri caizse daha iyi bir tuval sunarlar.\n\nYine de o mükemmel deriyi bulmak zordur; planıma uyan tek deri yaşlı bir tuzlu su timsahının derisidir. Yaşlılar sadece diğer tuzlu su timsahlarını korumak için ortaya çıkarlar, bu yüzden birini dışarı çekmek için birkaç tanesini öldürmen gerekebilir.",
+    ["Objectives"]="Ganimet Koyu'ndaki (Booty Bay) Drizzlik'e bir Yaşlı Timsah Derisi (Elder Crocolisk Skin) getir.",
+    ["Progress"]="Bir yerde tuzlu su timsahlarının neslinin yavaş yavaş tükendiğini okumuştum... İşim için kötü haber, değil mi?\n\nHepsi bir yana, umarım benim için o yaşlı tuzlu su timsahı derisini getirmişsindir!",
+    ["Completion"]="Harika! Yardımın sayesinde bu siparişi tamamlayıp Yeraltı'na (Undermine) gidecek ilk tekneyle Müdür Bilmecekutusu'na göndereceğim. Hem de programın ilerisinde!\n\nTüm bu sıkı çalışman için al bakalım, fazladan birkaç tane üretmiştim, o yüzden bir çift al. Drizzlik'in ikramı olsun.\n\nVe unutma, Drizzlik'in Kusursuz serisinden daha iyi hiçbir çizme yoktur!",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Excelsior
+    -- Water Elementals
+    -- Baron Revilgaz -> Baron Revilgaz kalmıştır (MobNpcData.lua)[cite: 1].
+    -- Booty Bay -> Ganimet Koyu (ZoneData.lua)[cite: 2].
+    -- Gazban -> Gazban kalmıştır (MobNpcData.lua)[cite: 1].
+    -- Water Elemental Bracers -> Su Elementali Kollukları (Water Elemental -> Su Elementali, Bracers -> Kolluklar/Bileklikler).
+    -- Stone of the Tides -> Gelgitlerin Taşı (Stone -> Taş, Tides -> Gelgitler).
+    -- Dalaran -> Dalaran kalmıştır (Özel bölge/birlik ismi).
+    ["601"] = { -- Quest ID varsayılan olarak yerleştirilmiştir.
+    ["Title"]="Su Elementalleri",
+    ["Description"]="Su elementalleri hiç şüphesiz, Gelgitlerin Taşı'nı (Stone of the Tides) keşfettiği söylenen goblin büyücü Gazban tarafından çağrılmıştı.[cite: 1]\n\nBileceğin üzere, Gelgitlerin Taşı taşıyıcısını lanetler ve onun varoluş sınırlarında bir görünüp bir kaybolmasına neden olur...\n\nBelki de bu lanete karşı koymanın bir yolunu bulabiliriz. Dalaran'daki bir büyücüye, su elementallerinin kolluklarından birindeki büyülü kalıntıyı analiz ettirebiliriz. Adaya geri dönüp birkaç örnek ele geçirmene ihtiyacım var.",
+    ["Objectives"]="Ganimet Koyu'ndaki (Booty Bay) Baron Revilgaz için 6 Su Elementali Kolluğu (Water Elemental Bracers) elde et.[cite: 1, 2]",
+    ["Progress"]="Şansın yaver gitti mi, <name>?",
+    ["Completion"]="Hm, bu kollukları inceleyip herhangi birinin işe yarayıp yaramayacağını anlayacak göz bende yok; ama eminim en az bir tanesi yardımcı olacaktır. Onları Dalaran'a götür ve bir büyücünün onlara bakmasını sağla.\n\nNe de olsa, sırf o usandırıcı yaşlı büyücülerle laflamak için Ganimet Koyu'ndan öylece ayrılamam.[cite: 2]\n\nYeni baron olmak için birilerinin aradan sıyrılmaya çalışacağından endişelendiğimden de değil. Kimse Revilgaz'a karşı gelip de bunu anlatacak kadar hayatta kalamaz.[cite: 1]",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Water Elementals
     --123456789
 
 
