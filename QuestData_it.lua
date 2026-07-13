@@ -48387,6 +48387,40 @@ QuestTranslator_QuestData = {
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end The Princess Trapped
+    -- Stones of Binding
+    -- Stones of Binding -> Bağlama Taşları / Mühür Taşları (Stone -> Taş, Binding -> Bağlama/Mühürleme).
+    -- Burning Key -> Yanan Anahtar (Burning -> Yanan, Key -> Anahtar).
+    -- Cresting Key -> Dalgalanan Anahtar (Cresting -> Dalgalanan/Zirve Yapan, su elementi temalı anahtar).
+    -- Thundering Key -> Gürleyen Anahtar (Thundering -> Gürleyen).
+    -- Stone of West Binding -> Batı Bağlama Taşı (West -> Batı).
+    -- Stone of East Binding -> Doğu Bağlama Taşı (East -> Doğu).
+    -- Stone of Outer Binding -> Dış Bağlama Taşı (Outer -> Dış).
+    -- Stone of Inner Binding -> İç Bağlama Taşı (Inner -> İç).
+    -- Arathi -> Arathi Highlands bölgesi kastedilmektedir, özel bölge ismi kuralı uyarınca "Arathi" olarak korunmuştur.
+    -- Myzrael -> Myzrael kalmıştır (Önceki görevde sabitlediğimiz özel karakter ismi).
+    ["651"] = { 
+    ["Title"]="Bağlama Taşları",
+    ["Description"]="Dört adet Bağlama Taşı Arathi'nin dört bir yanına dağılmıştır. Bu taşlar beni toprağın altında çakılı tutuyor.\n\nOnların kilidini açmak için en güçlü olanın kilidini açmalısın: İç Bağlama Taşı (Stone of Inner Binding). Ve bunu yapmak için, diğer üçünden anahtarları toplamalısın.\n\nBu taşlar muhafızlar tarafından gözetleniyor, ancak eğer zeki ya da şanslıysan, onları defetmenin yollarını bulabilirsin.",
+    ["Objectives"]="Batı Bağlama Taşı (Stone of West Binding), Doğu Bağlama Taşı (Stone of East Binding) ve Dış Bağlama Taşı'ndan (Stone of Outer Binding) Yanan Anahtar'ı (Burning Key), Dalgalanan Anahtar'ı (Cresting Key) ve Gürleyen Anahtar'ı (Thundering Key) topla.\n\nBunları İç Bağlama Taşı'na (Stone of Inner Binding) getir.",
+    ["Progress"]="Bu, İç Bağlama Taşı'dır (Stone of Inner Binding). Bağlama taşlarının en güçlüsüdür ve diğerlerinin açılması için önce bunun kilidinin açılması gerekir.",
+    ["Completion"]="", -- Orijinal metinde bu kısım boş bırakılmıştır.
+    }, -- end Stones of Binding
+    -- Breaking the Keystone
+    -- Fozruk -> Fozruk kalmıştır (Özel dev ismi).
+    -- Rod of Order -> Düzen Değneği (Rod -> Değnek/Asa, Order -> Düzen/Yasa).
+    -- Keystone -> Kilit Taşı (Keystone -> Kilit Taşı / Anahtar Taşı).
+    -- Arathi Highlands -> Arathi Tepeleri (ZoneData.lua)[cite: 2].
+    -- Stones of Binding -> Bağlama Taşları.
+    -- Fozruk -> Fozruk kalmıştır (Özel isim).
+    ["652"] = { 
+    ["Title"]="Kilit Taşını Kırmak",
+    ["Description"]="Bağlama Taşları'nı (Stones of Binding) açmak tutsaklığımı büyük ölçüde hafifletti, ancak bir kilit beni hala zincirlenmiş tutuyor. Bu taş çemberinin ortasında gördüğün şey Kilit Taşı'dır (Keystone). Ve anahtar, beni esir alanlardan birinin, taş muhafızı Fozruk'un elinde.\n\nTaş muhafızlarının Düzen Değneği (Rod of Order) adını verdiği o anahtarı Fozruk'tan ele geçirmeli ve onu Kilit Taşı'nı açmak için kullanmalısın.\n\n<name>, bana yardım etmek için çok şey yaptın. Sadece birazcık daha... ve minnettarlığım toprağın temellerini sarsacak!",
+    ["Objectives"]="Fozruk'u bul ve öldür. Düzen Değneği'ni (Rod of Order) Arathi Tepeleri'ndeki (Arathi Highlands) Kilit Taşı'na (Keystone) getir.[cite: 2]",
+    ["Progress"]="Kilit Taşı muazzam bir jeomantik enerjiyle yüklü.",
+    ["Completion"]="Değneği kilit taşına yerleştiriyorsun. Ve altınızda bir sarsıntı hissediliyor...",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Breaking the Keystone
     --123456789
 
 
