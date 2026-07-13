@@ -47768,7 +47768,7 @@ QuestTranslator_QuestData = {
     ["Title"]="Son Satırlar",
     ["Description"]="<Günlükte; birliğin platoda görev yaptığı birkaç saat boyunca karşılaştığı şüphelenilen durumların, gözlemlerin, nöbet çizelgelerinin ve tuhaflıkların ayrıntılı listeleri yer alıyor. Geçmiş sakinlerin birkaç hayaletini görmüş olmalarına rağmen, hiçbir şey Kuzeyrüzgarı'ndaki (Northwind) kayıplarla ilgili bir ipucu sunmamış. Yarıkların karşı tarafındaki kale kalıntılarından duman yükseldiği görülse de henüz bir keşif girişiminde bulunulmamış. Ayrıca, Thrall'ın Horde'una ait küçük bir gücün daha küçük adalardan birine yerleştiği görülüyor. Bu adada ne planladıkları şimdilik bir muamma olarak kalmaya devam ediyor.>\n\n<Bu kitabın son sayfası, hemen bu platonun eteğindeki Kederli Göl'de (Sorrowmore Lake) bulunan terk edilmiş hanı araştırma hazırlıklarını anlatıyor. Belki orada hayatta kalan birilerini bulabilirsin.>",
     ["Objectives"]="Balor adasındaki Kederli Göl'de (Sorrowmore Lake) daha fazla ipucu ara.[cite: 2]",
-    ["Progress"]="Oh, başka bir <race> görmek ne büyük bir rahatlama! Lütfen, beni buradan çıkarmanız gerekiyor! Liderleri üst katlarda, demir yumruklu, iri yarı biri! Anahtar onda; çabuk olun, fazla zamanımız yok!",
+    ["Progress"]="Oh, başka bir YOUR_RACE görmek ne büyük bir rahatlama! Lütfen, beni buradan çıkarmanız gerekiyor! Liderleri üst katlarda, demir yumruklu, iri yarı biri! Anahtar onda; çabuk olun, fazla zamanımız yok!",
     ["Completion"]="Kurtarılışın için Işık'a (The Light) şükürler olsun. Birliğin geri kalanı gibi son bulacağımı düşünmüştüm. Tekrar teşekkür ederim, bu sefil yerden çıkmadan önce bildiğim her şeyi sana anlatacağım.",
     ["minlevel"]="0",
     ["questlevel"]="0",
@@ -48011,7 +48011,7 @@ QuestTranslator_QuestData = {
     ["Title"]="Er Thorsen'e Erzak",
     ["Description"]="Hmm. Evet, aslına bakarsan yapabileceğin bir şey var. Kuzeydeki Teğmen Doren ve takipçilerinin bizden düzenli erzak alması gerekiyor.\n\nTrollerin saldırıları yüzünden bunlar henüz teslim edilemedi ve bunu yapacak birine ihtiyacım var. Doren'in kampı, Alacakaranlık Ormanı'ndan (Duskwood) Stranglethorn'a giriş yolunun kuzeybatısında yer alıyor. Erzağı Er Thorsen'e (Private Thorsen) teslim et; eğer kampta değilse, kampın güneyinde devriye geziyordur. O icabına bakacaktır.\n\nUnutma, başarısız olursan bana tazminat borçlanırsın.",
     ["Objectives"]="Çeşitli Goblin Erzağı'nı (Miscellaneous Goblin Supplies) Er Thorsen'e (Private Thorsen) teslim et.[cite: 1]",
-    ["Progress"]="Evet? Ne istiyorsun? Ah, goblinlerden gelen erzaklar. Bunları bir <race> ırkının teslim ettiğini görmek tuhaf, genellikle kendilerininkini gönderirler. Neyse... Onlara dokunmadın, değil mi? Güzel, güzel... Mayınlarımıza bir şey gelmesini istemeyiz, kesinlikle hayır.",
+    ["Progress"]="Evet? Ne istiyorsun? Ah, goblinlerden gelen erzaklar. Bunları bir YOUR_RACE ırkının teslim ettiğini görmek tuhaf, genellikle kendilerininkini gönderirler. Neyse... Onlara dokunmadın, değil mi? Güzel, güzel... Mayınlarımıza bir şey gelmesini istemeyiz, kesinlikle hayır.",
     ["Completion"]="Bu kara mayınları, kendimizi o hayvan Kurzen ve adamlarına karşı savunmamıza yardımcı olacak. Onları getirdiğin için teşekkürler. Eğer daha fazla işe ihtiyacın varsa, muhtemelen senin için yapacak bir şeyler bulabilirim. Hem o goblinlerle de uğraşmak zorunda kalmazsın, ha?",
     ["minlevel"]="0",
     ["questlevel"]="0",
@@ -48130,7 +48130,7 @@ QuestTranslator_QuestData = {
     ["Description"]="Macera Şirketi'nin (Venture Company) Stranglethorn boyunca uzanan bir dizi operasyonu var ve bu durum benim gibi çalışkan goblinlerin dürüst yoldan altın kazanmasını engelliyor! Lütfen, bana yardım etmelisin!\n\nMacera Şirketi, kuzeydeki Kristaldamarı Madeni'nin (Crystalvein Mine) yakınlarında maden çıkarıyor. Bazilisklerin çokluğu yüzünden madenin içine giremiyorlar ama yine de çevre tepelerden Şarkı Söyleyen Kristalleri (Singing Crystals) kazıp çıkarmayı başarıyorlar.\n\nKristallerini ellerinden al ve onlara ormanın hakimi olmadıklarını göster.\n\nVe... şey... kanıt olarak o kristalleri bana getir!",
     ["Objectives"]="Ganimet Koyu'ndaki (Booty Bay) Çark Cızırtılıbalon'a (Crank Fizzlebub) 10 Şarkı Söyleyen Mavi Kristal (Singing Blue Crystal) getir.[cite: 1, 2]",
     ["Progress"]="O kristalleri topladın mı?? Onlara ihtiyacım var!!\n\nYani... Demek istediğim, şu kötü Macera Şirketi'nin Stranglethorn'da zemin kaybettiğini bilmeye ihtiyacım var. Çünkü bilirsin ya, biz dürüst halkın da geçimini sağlaması gerekiyor!",
-    ["Completion"]="Harika! Muhteşem! Bunlar karşılığında koca bir servet koparabilirim!!\n\nŞu Macera Şirketi maden kazmak için kesinlikle yanlış ormanı seçti, değil mi? Buradan çekip gitselerdi hepimiz çok daha iyi durumda olurduk.\n\nTeşekkür ederim, <name>. Bugün gerçekten çok iyi bir iş çıkardın.",
+    ["Completion"]="Harika! Muhteşem! Bunlar karşılığında koca bir servet koparabilirim!!\n\nŞu Macera Şirketi maden kazmak için kesinlikle yanlış ormanı seçti, değil mi? Buradan çekip gitselerdi hepimiz çok daha iyi durumda olurduk.\n\nTeşekkür ederim, YOUR_NAME. Bugün gerçekten çok iyi bir iş çıkardın.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Venture Company Mining
@@ -48163,7 +48163,7 @@ QuestTranslator_QuestData = {
     ["Title"]="Gelgitlerin Taşı",
     ["Description"]="Eğer adada gerçekten de mesken tutmuş bir goblin büyücüsü ve su elementalleri varsa, bu durum Gelgitlerin Taşı'nın (Stone of the Tides) benim olabileceği anlamına gelebilir!\n\nBu lanetli adanın yerini tespit etmeni... orada neler döndüğünü öğrenmeni istiyorum. Oh, ve eğer Gelgitlerin Taşı hakkında daha fazla şey öğrenmek istersen, bu belgeyi Fırtınarüzgarı Kütüphanesi'ne (Stormwind Library) götür; efsaneye ilk rastladığım kitabın bir kopyasını sana bulabilmeleri gerekir.\n\nGazban gerçekten de Taşı keşfetmiş olabilir mi...?",
     ["Objectives"]="Ganimet Koyu'ndaki (Booty Bay) Baron Revilgaz için lanetli adayı bul.",
-    ["Progress"]="Troller gerçekten de inanılmaz büyülü nesnelere sahiptiler, <name>. Ve şimdi, belki de geniş koleksiyonuma bir yenisini ekleme fırsatına sahibim. Söylentinin kaynağını bulma konusunda bir şansın yaver gitti mi?",
+    ["Progress"]="Troller gerçekten de inanılmaz büyülü nesnelere sahiptiler, YOUR_NAME. Ve şimdi, belki de geniş koleksiyonuma bir yenisini ekleme fırsatına sahibim. Söylentinin kaynağını bulma konusunda bir şansın yaver gitti mi?",
     ["Completion"]="Demek hikayeler doğruymuş! İnanılmaz!\n\nAncak, eğer onu geri getireceksek Gelgitlerin Taşı'nın lanetini yenmenin bir yolunu bulmamız gerekecek. Lanet meselesi büyü işidir, bize yardım etmesi için şu sihirbazlardan birine ihtiyacımız olacak.",
     ["minlevel"]="0",
     ["questlevel"]="0",
@@ -48197,7 +48197,7 @@ QuestTranslator_QuestData = {
     ["Title"]="Su Elementalleri",
     ["Description"]="Su elementalleri hiç şüphesiz, Gelgitlerin Taşı'nı (Stone of the Tides) keşfettiği söylenen goblin büyücü Gazban tarafından çağrılmıştı.[cite: 1]\n\nBileceğin üzere, Gelgitlerin Taşı taşıyıcısını lanetler ve onun varoluş sınırlarında bir görünüp bir kaybolmasına neden olur...\n\nBelki de bu lanete karşı koymanın bir yolunu bulabiliriz. Dalaran'daki bir büyücüye, su elementallerinin kolluklarından birindeki büyülü kalıntıyı analiz ettirebiliriz. Adaya geri dönüp birkaç örnek ele geçirmene ihtiyacım var.",
     ["Objectives"]="Ganimet Koyu'ndaki (Booty Bay) Baron Revilgaz için 6 Su Elementali Kolluğu (Water Elemental Bracers) elde et.[cite: 1, 2]",
-    ["Progress"]="Şansın yaver gitti mi, <name>?",
+    ["Progress"]="Şansın yaver gitti mi, YOUR_NAME?",
     ["Completion"]="Hm, bu kollukları inceleyip herhangi birinin işe yarayıp yaramayacağını anlayacak göz bende yok; ama eminim en az bir tanesi yardımcı olacaktır. Onları Dalaran'a götür ve bir büyücünün onlara bakmasını sağla.\n\nNe de olsa, sırf o usandırıcı yaşlı büyücülerle laflamak için Ganimet Koyu'ndan öylece ayrılamam.[cite: 2]\n\nYeni baron olmak için birilerinin aradan sıyrılmaya çalışacağından endişelendiğimden de değil. Kimse Revilgaz'a karşı gelip de bunu anlatacak kadar hayatta kalamaz.[cite: 1]",
     ["minlevel"]="0",
     ["questlevel"]="0",
@@ -48230,11 +48230,145 @@ QuestTranslator_QuestData = {
     ["Title"]="Krazek için Bir Lütuf",
     ["Description"]="Uzak kuzeydeki Arathi Tepeleri'nde (Arathi Highlands), Kuruvelet Kanyonu'nda (Drywhisker Gorge) bir dağ mağarası var. O mağarada nadir bir cevher bulunur: Kan taşı. Bu mağaradaki kan taşı en yüksek kalitede değildir, ancak düşük kaliteli kan taşı bile değerlidir... Tabii onu nasıl kullanacağını bilenler için.\n\nBen de biraz istiyorum.\n\nSenin şu güveç tencereni tamir edeceğim, ama ben onun üzerinde çalışırken... bana kan taşı örnekleri getir. Yeterince getirirsen sana bir bonus bile veririm.\n\nOh, ve eğer onu çıkaracak madencilik yeteneğin yoksa... O yeteneğe sahip birini bul!",
     ["Objectives"]="Ganimet Koyu'ndaki (Booty Bay) Krazek'e 4 yığın Küçük Kanşıt Cevheri (Lesser Bloodstone Ore) getir.[cite: 1, 2]",
-    ["Progress"]="Merhaba, <name>. Kan taşını getirme konusunda şansın yaver gitti mi?",
+    ["Progress"]="Merhaba, YOUR_NAME. Kan taşını getirme konusunda şansın yaver gitti mi?",
     ["Completion"]="Ah, şahane! Benim için büyük bir lütufta bulundun.\n\nİşte ödemen...",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Favor for Krazek
+    -- The Bloodsail Buccaneers
+    -- First Mate Crazz -> İkinci Kaptan Crazz (First Mate -> Gemi ikinci kaptanı / süvari muavini, Crazz -> MobNpcData.lua)[cite: 1].
+    -- Booty Bay -> Ganimet Koyu (ZoneData.lua)[cite: 2].
+    -- Bloodsail Buccaneers -> Kanlıyel Korsanları (Bloodsail -> Kanlıyel, Buccaneers -> Korsanlar/Yağmacılar).
+    -- Blackwater Raiders -> Karasu Akıncıları (Blackwater -> Karasu, Raiders -> Akıncılar/Yağmacılar).
+    -- Savage Coast -> Vahşi Kıyı (Savage -> Vahşi, Coast -> Kıyı).
+    -- Stranglethorn -> İstisna uyarınca çevrilmeden aynen bırakılmıştır.
+    ["595"] = { 
+    ["Title"]="Kanlıyel Korsanları 1",
+    ["Description"]="Çalışmaya gerçekten çok hevesli görünüyorsun, ahbap. Karayı seven bir YOUR_RACE YOUR_CLASS olarak neden Karasu Akıncıları'na (Blackwater Raiders) yardım teklif ettiğini pek anlamadım ama seni geri çevirecek de değilim.\n\nGemi daha yeni Ganimet Koyu'na (Booty Bay) yanaştı ve söylentilere göre rakiplerimiz olan şu lanet olası, pis Kanlıyel Korsanları (Bloodsail Buccaneers) güney Stranglethorn'un dört bir yanında görülmüş.[cite: 2]\n\nBizim çocukların hepsi içki alemi yapmakla ve kız peşinde koşmakla meşgul! Bana lazım olan şey ise bir gözcü.\n\nVahşi Kıyı (Savage Coast) boyunca, Ganimet Koyu'nun hemen kuzeyindeki koyu kontrol et ve ne bulacağına bir bak.[cite: 2]",
+    ["Objectives"]="İkinci Kaptan Crazz, Ganimet Koyu'nun kuzeyindeki koyu kontrol etmeni istiyor.[cite: 1, 2]",
+    ["Progress"]="", -- Görev metninde Progress (İlerleme) bölümü bulunmamaktadır.
+    ["Completion"]="Küçük teknenin içinde, aceleyle yazılmış bazı metinlerin bulunduğu bir harita ve birkaç madeni para keşfediyorsun.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end The Bloodsail Buccaneers
+    -- The Bloodsail Buccaneers
+    -- First Mate Crazz -> İkinci Kaptan Crazz (First Mate -> Gemi ikinci kaptanı / süvari muavini, Crazz -> MobNpcData.lua)[cite: 1].
+    -- Booty Bay -> Ganimet Koyu (ZoneData.lua)[cite: 2].
+    -- Bloodsail Buccaneers -> Kanlıyel Korsanları (Bloodsail -> Kanlıyel, Buccaneers -> Korsanlar/Yağmacılar).
+    ["597"] = { 
+    ["Title"]="Kanlıyel Korsanları 2",
+    ["Description"]="Harita, tam olarak durduğun noktaya kırmızı bir \"X\" işareti çizilmiş haldeki Ganimet Koyu'nu (Booty Bay) gösteriyor.[cite: 2]\n\nKaralanmış metinde şunlar okunuyor:\n\n\"Sizler bu konumda bir kamp kurup sessiz kalacaksınız. Saldırıya geçmeden önce güneydeki komuta merkezinden gelecek işareti bekleyin. Eğer birisi size yaklaşırsa, onu öldürün.\"",
+    ["Objectives"]="Bulgularını Ganimet Koyu'ndaki (Booty Bay) İkinci Kaptan Crazz'a bildir.[cite: 1, 2]",
+    ["Progress"]="", -- Görev metninde Progress (İlerleme) bölümü bulunmamaktadır.
+    ["Completion"]="Elbette, seni hatırlıyorum, YOUR_CLASS. Gözcülükten döndün demek...",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end The Bloodsail Buccaneers
+    -- The Bloodsail Buccaneers
+    -- Fleet Master Seahorn -> Filo Komutanı Denizboynuzu (Fleet Master -> Filo Komutanı, Seahorn -> Denizboynuzu).
+    -- Fleet Master Seahorn -> MobNpcData.lua dosyasında "Seahorn" olarak geçmekte, ünvan ve soyadı birleştirilmiştir.
+    -- Bloodsail Buccaneers -> Kanlıyel Korsanları (Bloodsail -> Kanlıyel, Buccaneers -> Korsanlar).
+    -- Booty Bay -> Ganimet Koyu (ZoneData.lua)[cite: 2].
+    -- Blackwater Raiders -> Karasu Akıncıları (Blackwater -> Karasu, Raiders -> Akıncılar/Yağmacılar).
+    -- Overlook Cliffs -> Manzara Kayalıkları (Overlook -> Manzara/Gözetleme, Cliffs -> Kayalıklar).
+    ["599"] = { 
+    ["Title"]="Kanlıyel Korsanları 3",
+    ["Description"]="Vay canına! Demek Kanlıyel Korsanları (Bloodsail Buccaneers) Ganimet Koyu'na (Booty Bay) bir tür saldırı planlıyor ha?[cite: 2] Bak sen şu alçakların küstahlığına! Ganimet Koyu her zaman Karasu Akıncıları (Blackwater Raiders) tarafından yönetilecek![cite: 2]\n\nBu iş düşündüğümden de büyük. Öğrendiklerini derhal Filo Komutanı Denizboynuzu'na (Fleet Master Seahorn) bildir! O ihtiyar deniz kurdu buralarda bir yerlerdedir...",
+    ["Objectives"]="Planlanan Kanlıyel saldırısını Ganimet Koyu'ndaki Filo Komutanı Denizboynuzu'na bildir.[cite: 2]",
+    ["Progress"]="", -- Görev metninde Progress (İlerleme) bölümü bulunmamaktadır.
+    ["Completion"]="Kanlıyel Korsanları Ganimet Koyu'na mı saldırıyor?[cite: 2] Gidip kendilerini Manzara Kayalıkları'ndan (Overlook Cliffs) aşağı atsalar daha iyi ederler. Yine de bu bilgiyi bana getirerek fedai filoma büyük bir hizmette bulundun. Karasu Akıncıları sana teşekkür eder.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end The Bloodsail Buccaneers
+    -- The Bloodsail Buccaneers
+    -- Fleet Master Seahorn -> Filo Komutanı Denizboynuzu (Fleet Master -> Filo Komutanı, Seahorn -> Denizboynuzu)[cite: 1].
+    -- Booty Bay -> Ganimet Koyu (ZoneData.lua)[cite: 2].
+    -- Bloodsail Buccaneers -> Kanlıyel Korsanları (Bloodsail -> Kanlıyel, Buccaneers -> Korsanlar).
+    -- Bloodsail Swashbuckler -> Kanlıyel Fedaisi (Swashbuckler -> Fedai/Kabadayı).
+    -- Bloodsail Charts -> Kanlıyel Haritaları (Charts -> Seyir Haritaları).
+    -- Bloodsail Orders -> Kanlıyel Emirleri (Orders -> Emirler/Talimatlar).
+    -- Blackwater Raiders -> Karasu Akıncıları (Blackwater -> Karasu, Raiders -> Akıncılar).
+    -- Wild Shore -> Vahşi Kıyı (Wild -> Vahşi, Shore -> Kıyı/Sahil).
+    -- Crazz -> Crazz kalmıştır (MobNpcData.lua)[cite: 1].
+    ["604"] = { 
+    ["Title"]="Kanlıyel Korsanları 4",
+    ["Description"]="Crazz, Karasu Akıncıları'na (Blackwater Raiders) olan bağlılığından övgüyle bahsediyor.[cite: 1] Filo için son derece büyük önem taşıyan bir görevde sana güveneceğim.\n\nKanlıyel Korsanları'nın (Bloodsail Buccaneers) Vahşi Kıyı'da (Wild Shore) kurduğu sözde güney komuta merkezine sız. Kampı yağmala. Bana yazılı emirleriyle birlikte haritalarını da getir. O pisliklerin tam olarak ne peşinde olduklarını göreceğiz.",
+    ["Objectives"]="Ganimet Koyu'ndaki (Booty Bay) Filo Komutanı Denizboynuzu, 10 Kanlıyel Fedaisi (Bloodsail Swashbuckler) öldürmeni, Kanlıyel Haritaları'nı (Bloodsail Charts) ve Kanlıyel Emirleri'ni (Bloodsail Orders) geri getirmeni istiyor.[cite: 1, 2]",
+    ["Progress"]="Ahoy, YOUR_NAME. Güneydeki Kanlıyel kampından ne haberler getiriyorsun?",
+    ["Completion"]="Mükemmel, YOUR_NAME. Artık planlarını bildiğimize göre gerisi sadece an meselesi.\n\nBir de şu aptalların tam burnun açığına demir attıklarını düşününce....",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end The Bloodsail Buccaneers
+    -- The Bloodsail Buccaneers
+    -- Fleet-Master Seahorn / Fleet Master Seahorn -> Filo Komutanı Denizboynuzu (Fleet Master -> Filo Komutanı, Seahorn -> Denizboynuzu)[cite: 1].
+    -- Booty Bay -> Ganimet Koyu (ZoneData.lua)[cite: 2].
+    -- Bloodsail Buccaneers -> Kanlıyel Korsanları (Bloodsail -> Kanlıyel, Buccaneers -> Korsanlar).
+    -- Captain Stillwater -> Kaptan Durgunsu (Captain -> Kaptan, Stillwater -> Durgunsu).
+    -- Captain Keelhaul -> Kaptan Omurgaçeken (Keelhaul -> Omurga altından çekmek, gemi cezası / anlamca çevrilmiştir).
+    -- Fleet Master Firallon -> Filo Komutanı Firallon (Firallon özel isim olarak bırakılmıştır).
+    -- Crystal Lake -> Kristal Göl (Crystal -> Kristal, Lake -> Göl).
+    -- Blackwater Raiders -> Karasu Akıncıları (Blackwater -> Karasu, Raiders -> Akıncılar).
+    -- Blackwater Tunic -> Karasu Üstlüğü (Tunic -> Üstlük/Tunik).
+    ["608"] = { 
+    ["Title"]="Kanlıyel Korsanları 5",
+    ["Description"]="Firallon'un küstahlığına lanet olsun! Bırakın bize karşı koca bir filoya liderlik etmeyi, Kristal Göl'de (Crystal Lake) küçük bir tekneyi bile yüzdüremez.\n\nKanlıyel Korsanları (Bloodsail Buccaneers) bu dikkatsizliklerinin bedelini ödeyecekler. Artık onların saldırı planını bildiğimize göre, kendilerine neyin çarptığını bile anlamadan karşı saldırıya geçebiliriz.\n\nAma bir tek cesur macera grubunun yapabileceği bir iş için neden tüm filoyu gönderelim ki? YOUR_NAME, en yetenekli yoldaşlarından bazılarını yanına alarak Firallon'un çıkarma yaptığı yere git ve Kanlıyel lider kadrosuna suikast düzenle. Onların filosu çok geçmeden batacaktır...",
+    ["Objectives"]="Ganimet Koyu'ndaki (Booty Bay) Filo Komutanı Denizboynuzu; Kaptan Durgunsu (Captain Stillwater), Kaptan Omurgaçeken (Captain Keelhaul) ve Filo Komutanı Firallon'u (Fleet Master Firallon) öldürmeni istiyor.[cite: 1, 2]",
+    ["Progress"]="Sorun nedir, YOUR_NAME? Kanlıyel Korsanları harekete geçmeden önce bizim saldırmamız gerekiyor!",
+    ["Completion"]="Ah, Karasu Akıncıları (Blackwater Raiders) için ne harika bir gün! Senin şerefine üç kroşa, YOUR_NAME!",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end The Bloodsail Buccaneers
+    -- Northfold Manor
+    -- Syndicate Highwayman -> Sendika Eşkıyası (Syndicate -> Sendika, Highwayman -> Eşkıya/Yolkesen).
+    -- Syndicate Mercenary -> Sendika Paralı Askeri (Mercenary -> Paralı Asker).
+    -- Captain Nials -> Kaptan Nials (Özel isim).
+    -- Refuge Pointe -> Sığınak Noktası (Refuge -> Sığınak, Pointe -> Nokta/Uç).
+    -- Northfold Manor -> Kuzeykat Malikanesi (North -> Kuzey, Fold -> Kat/Ağıl, Manor -> Malikanesi).
+    -- Stromgarde -> İstisna uyarınca çevrilmeden aynen bırakılmıştır.
+    -- Southshore -> Güneykıyısı (South -> Güney, Shore -> Kıyı/Sahil).
+    ["681"] = { 
+    ["Title"]="Kuzeykat Malikanesi",
+    ["Description"]="Stromgarde için bir savaş veriyoruz ve kaybediyoruz. Ogreler, Sendika ve biz, bir zamanların bu muazzam şehrini kendi aramızda böldük ve her bir grup diğeriyle kanlı bir çıkmaza giren çatışmalar yaşıyor.\n\nDüşmanlarımız büyürken bizim kuvvetlerimiz ise azalıyor.\n\nGüneykıyısı (Southshore) kasabasından yardıma ihtiyacımız var, ancak Sendika aramızdaki toprakları elinde tuttuğu sürece erzak ulaştırmak oldukça zor.\n\nKuzeykat Malikanesi'ndeki (Northfold Manor) Sendika üssüne git ve onları katlet. O zaman, belki de erzak konvoylarımız üzerindeki baskı azalır ve daha fazlası sağ salim ulaşabilir.",
+    ["Objectives"]="10 Sendika Eşkıyası (Syndicate Highwayman) ve 6 Sendika Paralı Askeri (Syndicate Mercenary) öldür.\n\nSığınak Noktası'ndaki (Refuge Pointe) Kaptan Nials'a geri dön.",
+    ["Progress"]="<name>, geçen her saatle birlikte Stromgarde üzerindeki hakimiyetimiz daha da zayıflıyor. Acele etmelisin, aksi takdirde şehrimiz kesinlikle düşecek.",
+    ["Completion"]="Çok iyi, <name>. O Sendika üyelerinin ölümüyle birlikte Güneykıyısı'ndan (Southshore) erzak almakta artık daha rahat olmalıyız.\n\nBelki de davamız için hala bir umut vardır.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Northfold Manor
+    -- Wanted! Marez Cowl
+    -- Captain Nials -> Kaptan Nials kalmıştır (MobNpcData.lua)[cite: 1].
+    -- Refuge Pointe -> Sığınak Noktası (Refuge -> Sığınak, Pointe -> Nokta/Uç).
+    -- Marez Cowl -> Marez Başlıklı (Cowl -> Başlık/Kukuleta, isim/soyisim anlamca çevrilmiştir).
+    -- Stromgarde -> İstisna uyarınca çevrilmeden aynen bırakılmıştır.
+    -- Arcane Runed Bracers -> Gizemli Rünlü Kolluklar (Arcane -> Gizemli, Runed -> Rünlü, Bracers -> Kolluklar).
+    ["684"] = { 
+    ["Title"]="Aranıyor! Marez Cowl",
+    ["Description"]="Sendika'nın üst düzey bir danışmanı ve ajanı olan Marez Cowl'nın başına ödül konulmuştur. Kendisi en son Stromgarde'ın Sendika kontrollü topraklarında görülmüştür.\n\nÖdül, Kaptan Nials'tan tahsil edilebilir.[cite: 1]\n\nUyarılmak gerekirse: Marez, iblislerle olan iş birlikleriyle tanınan, yetenekli ve kurnaz bir Kara Büyücüdür. Onu avlarken son derece dikkatli olunması tavsiye edilir.",
+    ["Objectives"]="Marez'in Başını Sığınak Noktası'ndaki Kaptan Nials'a getir.",
+    ["Progress"]="Selamlar, <class>. Sunacağın bir raporun var mı?",
+    ["Completion"]="Marez Cowl'yı indirdin mi? Tebrikler, <name>. Gerçekten çok iyi bir iş çıkardın!\n\nMarez, Stromgarde savunucularımızı tehdit ediyordu ve söylentilere göre Sendika ile başka, daha karanlık bir güç arasında elçilik yapıyordu. Güçlerini artık bize karşı kullanamayacağını görmekten mutluluk duyuyoruz.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Wanted! Marez Cowl
+    -- Wanted! Otto and Falconcrest
+    -- Captain Nials -> Kaptan Nials kalmıştır (MobNpcData.lua)[cite: 1].
+    -- Refuge Pointe -> Sığınak Noktası (Refuge -> Sığınak, Pointe -> Nokta/Uç).
+    -- Lord Falconcrest -> Lord Şahinarması (Falcon -> Şahin, Crest -> Arma/Tuğ, soyisim anlamca çevrilmiştir).
+    -- Otto -> Otto kalmıştır (Özel isim).
+    -- Stromgarde Militia -> Stromgarde Milisleri (Stromgarde istisna uyarınca aynen bırakılmış, Militia -> Milisleri).
+    -- Arathi Highlands -> Arathi Tepeleri (ZoneData.lua)[cite: 2].
+    -- Syndicate -> Sendika (Önceki görevlerde sabitlediğimiz organizasyon ismi).
+    -- Rod of Sorrow -> Keder Değneği (Rod -> Değnek/Asa, Sorrow -> Keder/Izdırap).
+    -- War Rider Bracers -> Savaş Süvarisi Kollukları (War -> Savaş, Rider -> Süvari/Binici, Bracers -> Kolluklar).
+    ["685"] = { 
+    ["Title"]="Aranıyor! Otto ve Falconcrest",
+    ["Description"]="Stromgarde Milisleri, Lord Şahinarması (Lord Falconcrest) ve koruması Otto'nun başına ödül koymuştur. Falconcrest, Sendika'nın Arathi Tepeleri'ndeki faaliyetlerini yönetmektedir ve onun ölümü bu faaliyetlerde büyük bir aksamaya yol açacaktır.\n\nKoruması Otto stratejik bir hedef olmasa da çetin bir rakiptir ve düzinelerce savunucumuzu öldürmüştür.\n\nOnların ödülleri Kaptan Nials'tan tahsil edilebilir.",
+    ["Objectives"]="Otto'nun Başını ve Şahinarması'nın Başını Sığınak Noktası'ndaki Kaptan Nials'a getir.[cite: 1]",
+    ["Progress"]="Merhaba. Sunacağın bir raporun var mı?",
+    ["Completion"]="Şahinarması ve Otto mu? Harika!\n\nİşte ödülün, <name>. Bunu ödemekten mutluluk duyuyorum.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Wanted! Otto and Falconcrest
     --123456789
 
 
