@@ -48369,6 +48369,24 @@ QuestTranslator_QuestData = {
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Wanted! Otto and Falconcrest
+
+    -- The Princess Trapped
+    -- Myzrael -> Myzrael kalmıştır (Özel karakter ismi).
+    -- Mote of Myzrael -> Myzrael'in Zerreleri (Mote -> Zerre/Parçacık).
+    -- Iridescent Shards -> Gökkuşağı Parçaları (Iridescent -> Yanardöner/Gökkuşağı renklerinde, Shards -> Parçalar/Kristaller).
+    -- Drywhisker Gorge -> Kuruvelet Kanyonu (Önceki görevlerde sabitlediğimiz alan adı; Dry -> Kuru, Whisker -> Velet/Bıyık).
+    -- Arathi Highlands -> Arathi Tepeleri (ZoneData.lua)[cite: 2].
+    -- Drywhisker Kobolds -> Kuruvelet Koboldları.
+    -- Shards of Myzrael -> Myzrael'in Parçaları.
+    ["642"] = { 
+    ["Title"]="Tutsak Prenses",
+    ["Description"]="Benim adım Myzrael. Ben toprağın prensesiyim ve beni esir alanlar, yani devler, beni Arathi Tepeleri'nin (Arathi Highlands) derinliklerine hapsetti.Bu kristal parçaları, yüzey dünyasıyla konuşabilmemin tek yolu.\n\nLütfen bana yardım et. Devlerin müttefikleri olan Kuruvelet Koboldları (Drywhisker Kobolds), doğudaki Kuruvelet Kanyonu'nda (Drywhisker Gorge) tıpkı bunun gibi bir parçaya sahipler. Bu kristal kümesini etkinleştirmek için koboldlardan Myzrael'in Zerreleri'ni (Motes of Myzrael) toplamalı ve zerreleri parçanın üzerinde kullanmalısın.\n\nYalvarırım sana, <name>, bana yardım et!",
+    ["Objectives"]="12 Myzrael'in Zerresi (Mote of Myzrael) topla, ardından bunları Kuruvelet Kanyonu'ndaki (Drywhisker Gorge) Gökkuşağı Parçaları'na (Iridescent Shards) götür.",
+    ["Progress"]="Bu parça kümesi, Myzrael'in Parçaları'na (Shards of Myzrael) çok benziyor. Ancak aynı güven hissi bunların içinden fışkırmıyor.",
+    ["Completion"]="Ah! Bu parçaları etkinleştirdin. Şimdiden kendimi daha çok kendim gibi hissediyorum!\n\nAma ne yazık ki, özgür kalmaktan hala çok uzağım...",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end The Princess Trapped
     --123456789
 
 
