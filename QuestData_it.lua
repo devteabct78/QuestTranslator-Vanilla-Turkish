@@ -48421,6 +48421,39 @@ QuestTranslator_QuestData = {
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Breaking the Keystone
+    -- Scaring Shaky
+    -- "Shaky" Phillipe -> "Korkak" Phillipe ("Shaky" -> Korkak/Tir tir titreyen anlamında Phillipe'in lakabı olarak çevrilmiştir).
+    -- Booty Bay -> Ganimet Koyu (ZoneData.lua)[cite: 2].
+    -- Mistvale Giblets -> Sislivadi Sakatatı (Mistvale -> Sislivadi, Giblets -> Sakatat/Sakatatlar).
+    -- Elder Mistvale Gorilla -> Yaşlı Sislivadi Gorili (Elder -> Yaşlı, Mistvale -> Sislivadi, Gorilla -> Goril).
+    -- Sea Wolf / "Sea Wolf" MacKinley -> "Deniz Kurdu" MacKinley (Sea Wolf -> Deniz Kurdu).
+    ["606"] = { 
+    ["Title"]="Korkak'ı Korkutmak",
+    ["Description"]="Katlanamadığım bir şey varsa, o da kumar borçlarını ödemeyen insanlardır! Ve bana borcu olan bir sürü insan var. Bunları tahsil etmeme yardım edebileceğini düşünüyor musun?\n\nİlk olarak, rıhtımın orada duran \"Korkak\" (Shaky) Phillipe var. Geçen haftaki oyundan sonra bana epey borçlandı ve ben hakkımı istiyorum! Ama onu almak için önce onu korkutmamız gerekecek.\n\nKasabanın dışına çık ve Yaşlı Sislivadi Gorilleri (Elder Mistvale Gorilla) avla. Şöyle güzelinden bir sakatat seçkisi bul, sonra onları Korkak'a götür. Bunların bir hayvana ait olduğunu çaktırma; bırak en kötüsünü düşünsün.",
+    ["Objectives"]="5 Sislivadi Sakatatı'nı (Mistvale Giblets) Ganimet Koyu'ndaki (Booty Bay) \"Korkak\" (Shaky) Phillipe'e götür.[cite: 2]",
+    ["Progress"]="Hey! Bana attığın o bakış hiç hoşuma gitmedi, bayım.",
+    ["Completion"]="Ayy! Bunları nereden buldun? Hayır, söyleme bana. Bilmek istemiyorum!\n\nSeni kim gönderdi? Deniz Kurdu (Sea Wolf) mu?",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Scaring Shaky
+
+    -- Stoley's Debt
+    -- Steamwheedle Port -> Buharçark Limanı (Steamwheedle -> Buharçark, Port -> Liman) (ZoneData.lua)[cite: 2].
+    -- Booty Bay -> Ganimet Koyu (ZoneData.lua)[cite: 2].
+    -- Steamwheedle Bilge Rum -> Buharçark Sintine Romu (Bilge -> Sintine, Rum -> Rom).
+    -- Tanaris -> Tanaris kalmıştır (ZoneData.lua)[cite: 2].
+    -- Kalimdor -> Kalimdor kalmıştır.
+    -- MacKinley -> MacKinley kalmıştır (MobNpcData.lua)[cite: 1].
+    -- Stoley -> Stoley kalmıştır (MobNpcData.lua)[cite: 1].
+    ["2872"] = { 
+    ["Title"]="Stoley'nin Borcu",
+    ["Description"]="Eski dostum Stoley bana çok özel bir şişe rom borçlu. Kalimdor'daki Tanaris'te, Buharçark Limanı'nda (Steamwheedle Port) barmenlik yapıyor ve bana oradaki romun Ganimet Koyu'nda (Booty Bay) bulabileceğimiz her şeyden daha sert olduğuna söz vermişti.[cite: 2] Kendine o kadar güveniyor ki, eğer o romu dener de onunla aynı fikirde olmazsam bana olan borcunu ikiye katlayacağını söylüyor!\n\nPekala, bence son konuşmamızdaki kadar kendine güvenmiyor ve şimdi bana o romu vermeye korkuyor. Ama ben iddialardan asla geri adım atmam, bu yüzden neden benim yerime onunla konuşmuyorsun...",
+    ["Objectives"]="Buharçark Limanı'ndaki (Steamwheedle Port) Stoley ile konuş.[cite: 2]",
+    ["Progress"]="", -- Görev metninde Progress (İlerleme) bölümü bulunmamaktadır.
+    ["Completion"]="Ah, demek MacKinley ile konuşuyordun, öyle mi?[cite: 1]\n\nHiç de düşündüğü gibi değil! Ona biraz Buharçark Sintine Romu (Steamwheedle Bilge Rum) vermekten korkmuyorum...\n\nSadece ona verecek hiç romum yok!",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Stoley's Debt
     --123456789
 
 

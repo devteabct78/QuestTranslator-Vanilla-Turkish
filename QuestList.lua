@@ -8712,6 +8712,7 @@ QuestTranslator_QuestList = {
 ["Stinging Lullaby"]="41708",
 ["Poor Porcelain Doll"]="41705",
 ["The Last Lines"]="41693",
-["To The Darkest Places"]="41694"
+["To The Darkest Places"]="41694",
+["Stoley's Debt"]="2872"
 
 } 
