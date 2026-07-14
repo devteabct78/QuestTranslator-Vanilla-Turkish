@@ -48499,6 +48499,21 @@ QuestTranslator_QuestData = {
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Up to Snuff
+    -- Magical Analysis
+    -- Archmage Ansirem Runeweaver -> Başbüyücü Ansirem Ründokuyan (Archmage -> Başbüyücü, Runeweaver -> Ründokuyan / Rün Ören, soyisim anlamca çevrilmiştir).
+    -- Dalaran -> Dalaran kalmıştır (Özel bölge/şehir ismi).
+    -- Bag of Water Elemental Bracers -> Su Elementali Kollukları Torbası (Bag -> Torba/Çanta, Water Elemental -> Su Elementali, Bracers -> Kolluklar).
+    -- Stone of the Tides -> Gelgitlerin Taşı (Stone -> Taş, Tides -> Gelgitler).
+    -- Gurubashi Empire -> Gurubashi İmparatorluğu.
+    ["602"] = { 
+    ["Title"]="Sihirli Analiz",
+    ["Description"]="Duyduğuma göre Dalaran büyücüleri yıkılan şehirlerini yeniden inşa etmekle meşgullermiş; eminim aralarından bu kolluklara bakmak için vakit ayıracak birini bulabilirsin. Büyücüler hakkında bildiğim bir şey varsa, o da sihirli bir bulmacaya asla karşı koyamadıklarıdır.\n\nSu elementali kollukları torbasını (Bag of Water Elemental Bracers) al ve Taş'ın lanetine ışık tutup tutamayacaklarını gör. Özellikle Başbüyücü Ansirem Ründokuyan'ı (Archmage Ansirem Runeweaver) ara. Kendisiyle daha önce de iş yapmıştım, bilgisi muazzamdır.",
+    ["Objectives"]="Su elementali kolluklarını Dalaran'daki Başbüyücü Ansirem Ründokuyan'a götür.",
+    ["Progress"]="Mahsuru yoksa, şu anda oldukça meşgulüm.",
+    ["Completion"]="Gelgitlerin Taşı (Stone of the Tides) mı? Çok ilginç. Birkaç yıl önce Gurubashi İmparatorluğu'nun (Gurubashi Empire) efsanelerine dair bir kitap yazdığımı öğrenmek seni şaşırtabilir. Taş hakkında epey bir şey biliyorum.\n\nEn azından bu kolluklardan birinde analiz edebileceğim bir büyü kalıntısı var gibi görünüyor.\n\nBakalım neler görebileceğim...",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Magical Analysis
     --123456789
 
 
