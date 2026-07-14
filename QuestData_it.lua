@@ -31975,7 +31975,7 @@ QuestTranslator_QuestData = {
     -- Ravenwood rebellion -> Kuzgunorman İsyanı (Raven + Wood). Greymane -> Bozyele.
     -- Ravenshire -> Kuzgunköy, Dryrock Valley -> Kurukaya Vadisi (Dry + Rock).
     ["Title"]="Bozyele Nefreti",
-    ["Description"]="Kardeşim Franklin Karayürek (Franklin Blackheart) fani bir hayat sürmüş olabilir ama o benim kardeşimdi. Kuzgunorman isyanıyla (Ravenwood rebellion) birlikte savaşma davasını üstlenmişti. Bozyeleler (the Greymane) tarafından tuzağa düşürülerek kaderiyle burada karşılaştı. Tek bir kişi bile esirgeyip bağışlanmadı ve tüm kamp tamamen yakılıp yıkıldı.\n\ onun çarpık kalıntılarını görmek beni başka hiçbir şeyin acıtmadığı kadar yaraladı. Bunu derinlerimde hissedebiliyorum, vefatının hüznü hâlâ üzerimde dolanıyor. Bunu yapanlardan intikam almak, Gilneas'ı mesken tutmuş Bozyeleleri katletmek istiyorum. Doğuda, Kuzgunköy'ün (Ravenshire) hemen kuzeyinde ya da buranın batısında, Kurukaya Vadisi (Dryrock Valley) denilen bir yerde bulunabilirler. Onların davasına sadakat yemini eden herkesten bana kırk adet Bozyele Mührü (Greymane Signets) getir.",
+    ["Description"]="Kardeşim Franklin Karayürek (Franklin Blackheart) fani bir hayat sürmüş olabilir ama o benim kardeşimdi. Kuzgunorman isyanıyla (Ravenwood rebellion) birlikte savaşma davasını üstlenmişti. Bozyeleler (the Greymane) tarafından tuzağa düşürülerek kaderiyle burada karşılaştı. Tek bir kişi bile esirgeyip bağışlanmadı ve tüm kamp tamamen yakılıp yıkıldı. Onun çarpık kalıntılarını görmek beni başka hiçbir şeyin acıtmadığı kadar yaraladı. Bunu derinlerimde hissedebiliyorum, vefatının hüznü hâlâ üzerimde dolanıyor. Bunu yapanlardan intikam almak, Gilneas'ı mesken tutmuş Bozyeleleri katletmek istiyorum. Doğuda, Kuzgunköy'ün (Ravenshire) hemen kuzeyinde ya da buranın batısında, Kurukaya Vadisi (Dryrock Valley) denilen bir yerde bulunabilirler. Onların davasına sadakat yemini eden herkesten bana kırk adet Bozyele Mührü (Greymane Signets) getir.",
     ["Objectives"]="Harrison Karayürek (Harrison Blackheart) için Gilneas'taki Bozyele davasına sadık olanları katlet ve onlardan 40 Bozyele Mührü (Greymane Signets) topla.",
     ["Progress"]="Demek geri döndün, kardeşimi katledenlerin cezasını kestin mi?",
     ["Completion"]="Ahh, intikam böyle mi hissettiriyormuş? İtiraf etmeliyim ki sadece büyük bir boşluk hissediyorum. Gerçek katil hâlâ dışarıda bir yerde ve bulunması gerekiyor.",
@@ -48330,8 +48330,8 @@ QuestTranslator_QuestData = {
     ["Title"]="Kuzeykat Malikanesi",
     ["Description"]="Stromgarde için bir savaş veriyoruz ve kaybediyoruz. Ogreler, Sendika ve biz, bir zamanların bu muazzam şehrini kendi aramızda böldük ve her bir grup diğeriyle kanlı bir çıkmaza giren çatışmalar yaşıyor.\n\nDüşmanlarımız büyürken bizim kuvvetlerimiz ise azalıyor.\n\nGüneykıyısı (Southshore) kasabasından yardıma ihtiyacımız var, ancak Sendika aramızdaki toprakları elinde tuttuğu sürece erzak ulaştırmak oldukça zor.\n\nKuzeykat Malikanesi'ndeki (Northfold Manor) Sendika üssüne git ve onları katlet. O zaman, belki de erzak konvoylarımız üzerindeki baskı azalır ve daha fazlası sağ salim ulaşabilir.",
     ["Objectives"]="10 Sendika Eşkıyası (Syndicate Highwayman) ve 6 Sendika Paralı Askeri (Syndicate Mercenary) öldür.\n\nSığınak Noktası'ndaki (Refuge Pointe) Kaptan Nials'a geri dön.",
-    ["Progress"]="<name>, geçen her saatle birlikte Stromgarde üzerindeki hakimiyetimiz daha da zayıflıyor. Acele etmelisin, aksi takdirde şehrimiz kesinlikle düşecek.",
-    ["Completion"]="Çok iyi, <name>. O Sendika üyelerinin ölümüyle birlikte Güneykıyısı'ndan (Southshore) erzak almakta artık daha rahat olmalıyız.\n\nBelki de davamız için hala bir umut vardır.",
+    ["Progress"]="YOUR_NAME, geçen her saatle birlikte Stromgarde üzerindeki hakimiyetimiz daha da zayıflıyor. Acele etmelisin, aksi takdirde şehrimiz kesinlikle düşecek.",
+    ["Completion"]="Çok iyi, YOUR_NAME. O Sendika üyelerinin ölümüyle birlikte Güneykıyısı'ndan (Southshore) erzak almakta artık daha rahat olmalıyız.\n\nBelki de davamız için hala bir umut vardır.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Northfold Manor
@@ -48345,8 +48345,8 @@ QuestTranslator_QuestData = {
     ["Title"]="Aranıyor! Marez Cowl",
     ["Description"]="Sendika'nın üst düzey bir danışmanı ve ajanı olan Marez Cowl'nın başına ödül konulmuştur. Kendisi en son Stromgarde'ın Sendika kontrollü topraklarında görülmüştür.\n\nÖdül, Kaptan Nials'tan tahsil edilebilir.[cite: 1]\n\nUyarılmak gerekirse: Marez, iblislerle olan iş birlikleriyle tanınan, yetenekli ve kurnaz bir Kara Büyücüdür. Onu avlarken son derece dikkatli olunması tavsiye edilir.",
     ["Objectives"]="Marez'in Başını Sığınak Noktası'ndaki Kaptan Nials'a getir.",
-    ["Progress"]="Selamlar, <class>. Sunacağın bir raporun var mı?",
-    ["Completion"]="Marez Cowl'yı indirdin mi? Tebrikler, <name>. Gerçekten çok iyi bir iş çıkardın!\n\nMarez, Stromgarde savunucularımızı tehdit ediyordu ve söylentilere göre Sendika ile başka, daha karanlık bir güç arasında elçilik yapıyordu. Güçlerini artık bize karşı kullanamayacağını görmekten mutluluk duyuyoruz.",
+    ["Progress"]="Selamlar, YOUR_CLASS. Sunacağın bir raporun var mı?",
+    ["Completion"]="Marez Cowl'yı indirdin mi? Tebrikler, YOUR_NAME. Gerçekten çok iyi bir iş çıkardın!\n\nMarez, Stromgarde savunucularımızı tehdit ediyordu ve söylentilere göre Sendika ile başka, daha karanlık bir güç arasında elçilik yapıyordu. Güçlerini artık bize karşı kullanamayacağını görmekten mutluluk duyuyoruz.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Wanted! Marez Cowl
@@ -48365,7 +48365,7 @@ QuestTranslator_QuestData = {
     ["Description"]="Stromgarde Milisleri, Lord Şahinarması (Lord Falconcrest) ve koruması Otto'nun başına ödül koymuştur. Falconcrest, Sendika'nın Arathi Tepeleri'ndeki faaliyetlerini yönetmektedir ve onun ölümü bu faaliyetlerde büyük bir aksamaya yol açacaktır.\n\nKoruması Otto stratejik bir hedef olmasa da çetin bir rakiptir ve düzinelerce savunucumuzu öldürmüştür.\n\nOnların ödülleri Kaptan Nials'tan tahsil edilebilir.",
     ["Objectives"]="Otto'nun Başını ve Şahinarması'nın Başını Sığınak Noktası'ndaki Kaptan Nials'a getir.[cite: 1]",
     ["Progress"]="Merhaba. Sunacağın bir raporun var mı?",
-    ["Completion"]="Şahinarması ve Otto mu? Harika!\n\nİşte ödülün, <name>. Bunu ödemekten mutluluk duyuyorum.",
+    ["Completion"]="Şahinarması ve Otto mu? Harika!\n\nİşte ödülün, YOUR_NAME. Bunu ödemekten mutluluk duyuyorum.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Wanted! Otto and Falconcrest
@@ -48380,7 +48380,7 @@ QuestTranslator_QuestData = {
     -- Shards of Myzrael -> Myzrael'in Parçaları.
     ["642"] = { 
     ["Title"]="Tutsak Prenses",
-    ["Description"]="Benim adım Myzrael. Ben toprağın prensesiyim ve beni esir alanlar, yani devler, beni Arathi Tepeleri'nin (Arathi Highlands) derinliklerine hapsetti.Bu kristal parçaları, yüzey dünyasıyla konuşabilmemin tek yolu.\n\nLütfen bana yardım et. Devlerin müttefikleri olan Kuruvelet Koboldları (Drywhisker Kobolds), doğudaki Kuruvelet Kanyonu'nda (Drywhisker Gorge) tıpkı bunun gibi bir parçaya sahipler. Bu kristal kümesini etkinleştirmek için koboldlardan Myzrael'in Zerreleri'ni (Motes of Myzrael) toplamalı ve zerreleri parçanın üzerinde kullanmalısın.\n\nYalvarırım sana, <name>, bana yardım et!",
+    ["Description"]="Benim adım Myzrael. Ben toprağın prensesiyim ve beni esir alanlar, yani devler, beni Arathi Tepeleri'nin (Arathi Highlands) derinliklerine hapsetti.Bu kristal parçaları, yüzey dünyasıyla konuşabilmemin tek yolu.\n\nLütfen bana yardım et. Devlerin müttefikleri olan Kuruvelet Koboldları (Drywhisker Kobolds), doğudaki Kuruvelet Kanyonu'nda (Drywhisker Gorge) tıpkı bunun gibi bir parçaya sahipler. Bu kristal kümesini etkinleştirmek için koboldlardan Myzrael'in Zerreleri'ni (Motes of Myzrael) toplamalı ve zerreleri parçanın üzerinde kullanmalısın.\n\nYalvarırım sana, YOUR_NAME, bana yardım et!",
     ["Objectives"]="12 Myzrael'in Zerresi (Mote of Myzrael) topla, ardından bunları Kuruvelet Kanyonu'ndaki (Drywhisker Gorge) Gökkuşağı Parçaları'na (Iridescent Shards) götür.",
     ["Progress"]="Bu parça kümesi, Myzrael'in Parçaları'na (Shards of Myzrael) çok benziyor. Ancak aynı güven hissi bunların içinden fışkırmıyor.",
     ["Completion"]="Ah! Bu parçaları etkinleştirdin. Şimdiden kendimi daha çok kendim gibi hissediyorum!\n\nAma ne yazık ki, özgür kalmaktan hala çok uzağım...",
@@ -48414,7 +48414,7 @@ QuestTranslator_QuestData = {
     -- Fozruk -> Fozruk kalmıştır (Özel isim).
     ["652"] = { 
     ["Title"]="Kilit Taşını Kırmak",
-    ["Description"]="Bağlama Taşları'nı (Stones of Binding) açmak tutsaklığımı büyük ölçüde hafifletti, ancak bir kilit beni hala zincirlenmiş tutuyor. Bu taş çemberinin ortasında gördüğün şey Kilit Taşı'dır (Keystone). Ve anahtar, beni esir alanlardan birinin, taş muhafızı Fozruk'un elinde.\n\nTaş muhafızlarının Düzen Değneği (Rod of Order) adını verdiği o anahtarı Fozruk'tan ele geçirmeli ve onu Kilit Taşı'nı açmak için kullanmalısın.\n\n<name>, bana yardım etmek için çok şey yaptın. Sadece birazcık daha... ve minnettarlığım toprağın temellerini sarsacak!",
+    ["Description"]="Bağlama Taşları'nı (Stones of Binding) açmak tutsaklığımı büyük ölçüde hafifletti, ancak bir kilit beni hala zincirlenmiş tutuyor. Bu taş çemberinin ortasında gördüğün şey Kilit Taşı'dır (Keystone). Ve anahtar, beni esir alanlardan birinin, taş muhafızı Fozruk'un elinde.\n\nTaş muhafızlarının Düzen Değneği (Rod of Order) adını verdiği o anahtarı Fozruk'tan ele geçirmeli ve onu Kilit Taşı'nı açmak için kullanmalısın.\n\nYOUR_NAME, bana yardım etmek için çok şey yaptın. Sadece birazcık daha... ve minnettarlığım toprağın temellerini sarsacak!",
     ["Objectives"]="Fozruk'u bul ve öldür. Düzen Değneği'ni (Rod of Order) Arathi Tepeleri'ndeki (Arathi Highlands) Kilit Taşı'na (Keystone) getir.[cite: 2]",
     ["Progress"]="Kilit Taşı muazzam bir jeomantik enerjiyle yüklü.",
     ["Completion"]="Değneği kilit taşına yerleştiriyorsun. Ve altınızda bir sarsıntı hissediliyor...",
@@ -48454,6 +48454,51 @@ QuestTranslator_QuestData = {
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Stoley's Debt
+    -- Skullsplitter Tusks
+    -- Skullsplitter -> Kafatasıyaran (Skull -> Kafatası, Splitter -> Yaran/Bölen; Trollerin klan adıdır).
+    -- Skullsplitter Tusk -> Kafatasıyaran Dişi (Tusk -> Yaban domuzu veya fil dişi gibi büyük, dışarı uzanan dişleri ifade eder).
+    -- Kebok -> Kebok kalmıştır (MobNpcData.lua dosyasında özel Goblin NPC ismi)[cite: 1].
+    -- South Seas -> Güney Denizleri (South -> Güney, Seas -> Denizler).
+    ["209"] = { 
+    ["Title"]="Kafatasıyaran Dişleri",
+    ["Description"]="Güney Denizleri'ndeki adalara kaplan dişi ihracatını desteklemek için yeterince kaplan öldürmek hem pahalı hem de zor. Şanslıyız ki, sıradan boynuz benzeri nesneleri alıp onları gerçeğinden ayırt edilemeyen sahtelerine dönüştürmemizi sağlayan bir teknik geliştirdik.\n\nŞaşırtıcı bir şekilde, bulduğumuz en yakın eşleşme Kafatasıyaran (Skullsplitter) trollerinin dişleri oldu.\n\nHey, bir şey söylemeden önce şunu düşün; alıcının bilmediği şey ona zarar vermez, haksız mıyım? Bana onlardan çok sayıda getir ki aylık sevkiyat üzerinde çalışmaya başlayabilelim!",
+    ["Objectives"]="18 Kafatasıyaran Dişi (Skullsplitter Tusk) elde et ve onları Kebok'a geri götür.[cite: 1]",
+    ["Progress"]="Zorlu keratalar, değil mi? Eee, şansın yaver gitti mi? Sabırsız görünmek istemem ama bu iş başıma büyük bela oldu! Eee?",
+    ["Completion"]="Ah, iyi iş, iyi iş! Öf, yine de şunları temizleme konusunda daha iyi bir iş çıkarabilirdin-- Neyse, önemi yok, önemi yok! Sana teşekkür ederim, YOUR_NAME, yardımın sayesinde operasyonumuzun üretiminin ve verimliliğinin artacağına hiç şüphe yok! Güzel güzel, şimdi diğer konulara geçelim...",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Skullsplitter Tusks
+    -- Return to Corporal Kaleb
+    -- Corporal Kaleb -> Onbaşı Kaleb (Corporal -> Onbaşı, Kaleb kalmıştır) (MobNpcData.lua)[cite: 1].
+    -- Rebel Camp -> Asi Kampı (Rebel -> Asi, Camp -> Kamp).
+    -- Krazek's Fixed Pot -> Krazek'in Onarılmış Tenceresi (Fixed -> Onarılmış/Tamir edilmiş, Pot -> Tencere/Çömlek).
+    -- Krazek's Crock Pot -> Krazek'in Güveç Tenceresi (Crock Pot -> Güveç Tenceresi).
+    -- Cap of Harmony -> Uyum Başlığı (Cap -> Başlık, Harmony -> Uyum/Ahenk).
+    -- Booty Bay -> Ganimet Koyu (ZoneData.lua)[cite: 2].
+    -- Krazek -> Krazek kalmıştır (MobNpcData.lua)[cite: 1].
+    ["622"] = { 
+    ["Title"]="Onbaşı Kaleb'e Geri Dön",
+    ["Description"]="Sen yokken bana getirdiğin tencereyi tamir ettim. Hatta fazladan bir buhar düdüğü bile ekledim, bak hele! Alt kısmında bacak kemiklerini bile kesecek yeni bir doğrayıcı var!\n\nEvet evet, Krazek'in Güveç Tenceresi (Krazek's Crock Pot) aşçıları yüzde yüz memnun edecek cinsten! Sahibinin memnun kalacağından eminim.",
+    ["Objectives"]="Krazek'in Onarılmış Tenceresi'ni (Krazek's Fixed Pot) Asi Kampı'ndaki (Rebel Camp) Onbaşı Kaleb'e getir.[cite: 1]",
+    ["Progress"]="Merhaba, YOUR_NAME. Ganimet Koyu'na (Booty Bay) ulaşabildin mi? Goblin Krazek tenceremi tamir etti mi??[cite: 1, 2]",
+    ["Completion"]="Tamir edilmiş! Bu harika, artık akşam yemeğine başlayabilirim! Çok teşekkürler, YOUR_NAME.\n\nGanimet Koyu'nda (Booty Bay) iyi olduğunu umuyorum. Orası epey tekinsiz bir yer olabiliyor ve... goblinlerin bazen sarhoş denizcileri köle gemilerine sürükleyip kim bilir nereye... kim bilir ne yapmaya götürdüklerine dair söylentiler duydum...[cite: 2]",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Return to Corporal Kaleb
+    -- Up to Snuff
+    -- Deeg -> Deeg kalmıştır (Özel goblin ismi).
+    -- Booty Bay -> Ganimet Koyu (ZoneData.lua)[cite: 2].
+    -- Snuff -> Enfiye (Tütün tozu/enfiyesi).
+    -- Bloodsail Raiders -> Kanlıyel Yağmacıları (Bloodsail -> Kanlıyel/Kanyel, Raiders -> Yağmacılar).
+    ["587"] = { 
+    ["Title"]="Enfiye Kıvamında",
+    ["Description"]="Ah, deniz hayatı. Güzel bir hayat olduğunu söylemeyeceğim ama benim hayatım işte.\n\nLimana yanaştığımda kendime güzel bir şişe sert içki ve kaliteli bir enfiye (snuff) bulmayı severim. Pis alışkanlıklar tabii, ama kötü huyları olmayan bir korsanın ne anlamı kalır ki, değil mi?\n\nPekala, kasabadaki aktarın elindeki tüm enfiyeyi sattığını öğrendiğimde ne kadar kahrolduğumu tahmin edebilirsin. Sevkiyatının o lanet Kanlıyel Yağmacıları (Bloodsail Raiders) tarafından kaçırıldığını söylüyor.\n\nSenin gibi korkusuz bir YOUR_CLASS'in onları bu malları paylaşmaya ikna edebileceğine bahse girerim, ha?",
+    ["Objectives"]="Ganimet Koyu'ndaki (Booty Bay) Deeg, ona 15 adet Enfiye (Snuff) getirmeni istiyor.[cite: 2]",
+    ["Progress"]="Malları bulma konusunda bir gelişme var mı, dostum?",
+    ["Completion"]="Harika iş, YOUR_NAME! Tam da denize açılmam gereken zamandan hemen önce yetiştin! Sana ne kadar teşekkür etsem azdır, eski dostum.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Up to Snuff
     --123456789
 
 

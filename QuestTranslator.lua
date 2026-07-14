@@ -849,14 +849,6 @@ function QuestTranslator_ExpandUnitInfo(msg)
   return msg;
 end
 
--- Konfigürasyon ve Kayıtlı Değişkenler (SavedVariables) için varsayılan değerler
-if not QuestTranslator_Config then
-    QuestTranslator_Config = {
-        enabled = true,        -- Addon varsayılan olarak açık
-        minimapPos = 45        -- Minimap üzerindeki varsayılan açı derecesi
-    end
-end
-
 -- Eklenti durumunu kontrol eden ve arayüzü güncelleyen Toggle fonksiyonu
 function QuestTranslator_Toggle()
     QuestTranslator_Config.enabled = not QuestTranslator_Config.enabled
@@ -866,106 +858,7 @@ function QuestTranslator_Toggle()
     else
         DEFAULT_CHAT_FRAME:AddMessage("|cffff0000QuestTranslator pasif edildi. (Orijinal metinler gösterilecek)|r")
     end
-    -- Butonun görsel durumunu güncelle (Pasifken soluk, aktifken parlak yapmak istersen)
-    QuestTranslator_MinimapButton_UpdateIcon()
+
 end
 
--- Buton görsel durumunu güncelleyen fonksiyon
-function QuestTranslator_MinimapButton_UpdateIcon()
-    local button = QuestTranslatorMinimapButton
-    if not button then return end
-    
-    if QuestTranslator_Config.enabled then
-        button:GetNormalTexture():SetVertexColor(1, 1, 1) -- Normal Parlaklık
-    else
-        button:GetNormalTexture():SetVertexColor(0.4, 0.4, 0.4) -- Soluk Renk (Pasif olduğunu belirtir)
-    end
-end
 
--- Minimap Butonunun Pozisyonunu Ayarlayan Fonksiyon
-function QuestTranslator_MinimapButton_Move()
-    local angle = QuestTranslator_Config.minimapPos or 45
-    -- Minimap dairesel konum hesabı
-    local x = math.cos(math.rad(angle)) * 80
-    local y = math.sin(math.rad(angle)) * 80
-    QuestTranslatorMinimapButton:SetPoint("CENTER", Minimap, "CENTER", x, y)
-end
-
--- Minimap Frame Oluşturma
-local f = CreateFrame("Button", "QuestTranslatorMinimapButton", Minimap)
-f:SetWidth(31)
-f:SetHeight(31)
-f:SetFrameStrata("LOW")
-f:SetToplevel(true)
-f:SetHighlightTexture("Interface\\Minimap\\UI-Minimap-ZoomButton-Highlight")
-
--- Butonun Arka Plan Görseli (Kitap İkonu - Quest Kitaplarına Uyumlu)
-local icon = f:CreateTexture(nil, "BACKGROUND")
-icon:SetTexture("Interface\\Icons\\INV_Misc_Book_09")
-icon:SetWidth(20)
-icon:SetHeight(20)
-icon:SetPoint("CENTER", 0, 0)
-f:SetNormalTexture(icon)
-
--- Klasik Minimap Buton Çerçevesi (Border)
-local border = f:CreateTexture(nil, "OVERLAY")
-border:SetTexture("Interface\\Minimap\\MiniMap-TrackingBorder")
-border:SetWidth(53)
-border:SetHeight(53)
-border:SetPoint("TOPLEFT", 0, 0)
-
--- Sürükleme (Drag) Desteği
-f:RegisterForDrag("LeftButton")
-f:SetMovable(true)
-
-f:SetScript("OnDragStart", function()
-    this:LockHighlight()
-    this:SetScript("OnUpdate", function()
-        local xpos, ypos = GetCursorPosition()
-        local xmin, ymin = Minimap:GetLeft(), Minimap:GetBottom()
-        xpos = xmin - xpos / Minimap:GetEffectiveScale() + 70
-        ypos = ypos / Minimap:GetEffectiveScale() - ymin - 70
-        local angle = math.deg(math.atan2(ypos, xpos))
-        QuestTranslator_Config.minimapPos = angle
-        QuestTranslator_MinimapButton_Move()
-    end)
-end)
-
-f:SetScript("OnDragStop", function()
-    this:SetScript("OnUpdate", nil)
-    this:UnlockHighlight()
-end)
-
--- Tıklama İşlemleri
-f:SetScript("OnClick", function()
-    QuestTranslator_Toggle()
-end)
-
--- Tooltip (Açıklama Kutusu) Gösterimi
-f:SetScript("OnEnter", function()
-    GameTooltip:SetOwner(this, "ANCHOR_LEFT")
-    GameTooltip:AddLine("QuestTranslator", 1, 1, 1)
-    if QuestTranslator_Config.enabled then
-        GameTooltip:AddLine("Durum: |cff00ff00Aktif|r")
-    else
-        GameTooltip:AddLine("Durum: |cffff0000Pasif|r")
-    end
-    GameTooltip:AddLine("|cff00ffccTıklayarak aktif/pasif yapabilirsin.|r")
-    GameTooltip:AddLine("|cff00ffccSürükleyerek yerini değiştirebilirsin.|r")
-    GameTooltip:Show()
-end)
-
-f:SetScript("OnLeave", function()
-    GameTooltip:Hide()
-end)
-
--- Addon yüklendiğinde buton pozisyonunu ve ikonunu başlatmak için event dinleyicisi
-local eventFrame = CreateFrame("Frame")
-eventFrame:RegisterEvent("ADDON_LOADED")
-eventFrame:SetScript("OnEvent", function()
-    if event == "ADDON_LOADED" and arg1 == "QuestTranslator" then
-        -- Kayıtlı değişkenlerin yüklenmesi tamamlandığında çalıştır
-        QuestTranslator_MinimapButton_Move()
-        QuestTranslator_MinimapButton_UpdateIcon()
-    end
-end)
