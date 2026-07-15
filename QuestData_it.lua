@@ -48514,6 +48514,19 @@ QuestTranslator_QuestData = {
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Magical Analysis
+    -- Return to MacKinley
+    -- "Sea Wolf" MacKinley -> "Deniz Kurdu" MacKinley (Sea Wolf -> Deniz Kurdu)[cite: 1].
+    -- Shaky's Payment -> Korkak'ın Ödemesi ("Shaky" -> Korkak/Tir Tir Titreyen lakabıdır).
+    -- Shaky -> Korkak.
+    ["607"] = { 
+    ["Title"]="MacKinley'ye Geri Dön",
+    ["Description"]="Al, bu keseyi al ve Deniz Kurdu'na (Sea Wolf) götür. Ve ona borcumu geri ödemeyi gerçekten istediğimi söyle! Yemin ederim!!\n\nSadece biraz fazla sarhoş oldum ve yolumu kaybettim, bilirsin işte... O halden anlar; sertleşmene hiç gerek yok!",
+    ["Objectives"]="Korkak'ın Ödemesi'ni (Shaky's Payment) \"Deniz Kurdu\" MacKinley'ye getir.",
+    ["Progress"]="Hele bak hele, <name>. Korkak'ın ödemesini alabildin mi?",
+    ["Completion"]="Heh heh, harika iş! Peki Korkak'a o sakatatları gösterdiğinde nasıl da titredi ama?\n\nHah! Onu okumak o kadar kolay ki, onunla her kart oynadığımda kazanmaktan kendimi alamıyorum!\n\nYardımın için teşekkürler, <name>. Şimdi ödeme alma sırası sende...",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Return to MacKinley
     --123456789
 
 
