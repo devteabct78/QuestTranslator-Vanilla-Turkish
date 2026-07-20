@@ -8713,6 +8713,9 @@ QuestTranslator_QuestList = {
 ["Poor Porcelain Doll"]="41705",
 ["The Last Lines"]="41693",
 ["To The Darkest Places"]="41694",
-["Stoley's Debt"]="2872"
+["Stoley's Debt"]="2872",
+["To Survive in the Jungle"]="42041",
+["\"Pretty Boy\" Duncan"]="610",
+["All That Is Left"]="41840"
 
 } 

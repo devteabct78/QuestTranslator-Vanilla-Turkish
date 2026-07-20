@@ -48527,16 +48527,6 @@ QuestTranslator_QuestData = {
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Return to MacKinley
-    --123456789
-
-
-
-
-
-
-
-
-
 
 -- [CANCELLED] Piercing Light
     ["60011"] = {
@@ -49351,6 +49341,842 @@ QuestTranslator_QuestData = {
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end [DEPRECATED] Wool Would Work
+    -- Avast Ye, Admiral!
+    ["4621"] = {
+    ["Title"]="Kahrol, Amiral!",
+    ["Description"]="İyi dinle, deniz kurdu... Ganimet Koyu'nun (Booty Bay) gücü, biz Kanlıyel'lerin (Bloodsail) istediğimiz yere yelken açmamızı ve yağma hakkımız olan şeyleri almamızı engelleyen şeydir. Filo Komutanı Denizboynuzu'nun (Fleet Master Seahorn) boğazına bir bıçak dayasaydın, Ganimet Koyu'nun bir gemisiyle asla karşı karşıya gelmezdik. Baron Revilgaz'ın boğazına bir bıçak dayasaydın, yasalarla asla onların şartlarında yüzleşmezdik.\n\nEğer aramızda fahri bir amiral olacaksan - evet, AMİRAL, söylediğim gibi ikisinin de boğazına bıçağı dayayacaksın. Şimdi git evlat ve bu işleri hallettiğinde bana geri dön.",
+    ["Objectives"]="Ganimet Koyu'ndan Filo Komutanı Denizboynuzu ve Baron Revilgaz'ı öldür ve ardından Stranglethorn Vadisi kıyısındaki Crimson Veil gemisinde bulunan Filo Komutanı Firallon'a geri dön.",
+    ["Progress"]="Döndün mü lanet olası denizci! Emrettiğimi yaptın mı? Bizi hayal kırıklığına uğratırsan, o tahtadan yürürsün.\n\nArrrrr...",
+    ["Completion"]="Kahrol... Amiral <name>! Sen korsanların korsanısın, evlat!\n\nBu şapkayı sana vermek kalbimin derinliklerini ısıtıyor. Dünyanın hiçbir yerinde bir benzerini bulamazsın ve sana bakan herkes senin Kanlıyel Donanması'nın (Bloodsail Navy) bir Amiral'i olduğunu görecek!",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Avast Ye, Admiral!
+
+-- The Singing Crystals
+    ["589"] = {
+    ["Title"]="Şarkı Söyleyen Kristaller",
+    ["Description"]="Efsaneler, Stranglethorn'un kalbinde derinlerde gizlenmiş bir mücevherden bahseder. Biz ona Zihin Gözü (Mind's Eye) diyoruz ve büyük güçleri var. Eğer bu Göz'ü ele geçirirsen, belki de onu kayıp Yenniku'yu karanlıktan geri getirmek için kullanabiliriz.\n\nZihin Gözü'nü bulmak için ormanın ruhlarına danışacağım. Ben bunu yaparken, sen buradan güneydoğudaki Kristaldamar Madeni'ne (Crystalvein Mine) gir ve Demirçene Baziliskleri'nden (Ironjaw Basilisks) Nabız Atan Mavi Parçaları (Pulsing Blue Shards) topla. Parçalar nadirdir, ancak Zihin Gözü'nü irademize boyun eğdirmek için sihirlerine ihtiyacımız olacak.",
+    ["Objectives"]="3 Nabız Atan Mavi Parça'yı Grom'gol Üs Kampı'ndaki Kin'weelay'e getir.",
+    ["Progress"]="Parçalar yanında mı, <name>? Zihin Gözü'nü ele geçirdikten sonra, son ritüelim için onlara ihtiyacım var.",
+    ["Completion"]="İyi iş çıkardın, <name>. Bu parçalar gayet iyi biçimlendirilmiş. Şimdiden bana şarkı söylediklerini duyabiliyorum.\n\nVe sen yokken, ormanın ruhlarıyla konuştum. Zihin Gözü'nün nerede durduğunu biliyorum...\n\n...Ve onu kimin koruduğunu.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end The Singing Crystals
+
+-- Return to the Blasted Lands
+    ["3626"] = {
+    ["Title"]="Lanetli Topraklar'a Dönüş",
+    ["Description"]="Kurtuluş vakti yaklaştı, <name>. Yeni bulduğun silahlarla Lanetli Topraklar'a (Blasted Lands) dönmeli ve nihai görevini almak için Horde'un Düşmüş Kahramanı (Fallen Hero of the Horde) ile konuşmalısın.",
+    ["Objectives"]="Horde'un Düşmüş Kahramanı'na geri dön.",
+    ["Progress"]="",
+    ["Completion"]="Savaşta pişmiş görünüyorsun, <name>. Razelikh ve uşaklarıyla yüzleşmeye hazır mısın?",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Return to the Blasted Lands
+
+-- Stranglethorn Fever
+    ["348"] = {
+    ["Title"]="Stranglethorn Ateşi",
+    ["Description"]="Hasta... çok... çok h-h-hastayım....\n\n...Stranglethorn Ateşi kaptım... ölümcül v-v-virüs...\n\n...tek çare... çare... Vahşi Mokk'un (Mokk the Savage) kalbini yemek... kaçak beyaz canavar...\n\n...Cadı doktor Unbagwa... çağırabilen tek kişi....\n\n...güney burnundaki gizli mağarada Unbagwa'yı ara...\n\n...acele et... ölüyorum... ölüyorum....",
+    ["Objectives"]="Cadı Doktor Unbagwa'yı bul ve Vahşi Mokk'u çağırmasını sağla. Mokk'un Kalbi'ni Fin Fizracket'a getir.",
+    ["Progress"]="....anne?\n\n...çok soğuk...\n\n...Çarpık Nether'a doğru gidiyorum... t-t-t-tut beni anne....",
+    ["Completion"]="...gücümün geri geldiğini hissediyorum....\n\nNeredeyim? Ganimet Koyu? Aman tanrım! En tuhaf rüyayı gördüm...\n\n...halsizlik tam olarak üzerimden gitmedi....",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Stranglethorn Fever
+
+-- The Hidden Key
+    ["328"] = {
+    ["Title"]="Gizli Anahtar",
+    ["Description"]="Bu kayıtlarda Er Thorsen'den (Private Thorsen) bahsedilmese de, Herod'un defterlerinden birinin cildinin içine gizlenmiş küçük, pirinç bir anahtar var.\n\nNotları üzerinde yapılan daha detaylı bir incelemeden sonra, çeşitli kağıtların arasında \"güvenli bir çelik kasa\"ya dair birkaç referans olduğu görüldü. Kasa, Kurzen'in Yerleşkesi'nin arkasındaki mağara kompleksi olan Stok'un (Stockpile) içinde bir yerde.\n\nEğer bu güvenli çelik kasa bulunursa ve küçük pirinç anahtar onu açabilirse, Thorsen'in deşifre edilmesinin arkasındaki gizem açığa çıkabilir.",
+    ["Objectives"]="Küçük Pirinç Anahtar'ı kullanarak Defterci Herod'un (Bookie Herod) Çelik Kasası'nı aç.",
+    ["Progress"]="Çelik kasa bronzla kaplı, çok sağlam ve çok ağır.",
+    ["Completion"]="Çelik kasayı açınca, Herod'un daha değerli paralarını ve eşyalarını burada sakladığı netleşiyor.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end The Hidden Key
+
+-- Enticing Negolash
+    ["619"] = {
+    ["Title"]="Negolash'ı Kandırmak",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Bu terk edilmiş bir cankurtaran filikası. Yan tarafında kazınmış, solmuş boyayla şu sözler yazılı:\n\n\"Smotts'un İntikamı\"",
+    ["Completion"]="Salın üzerine yiyecek ve içecek yığıyorsun...",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Enticing Negolash
+
+-- Akiris by the Bundle
+    ["623"] = {
+    ["Title"]="Akiris Desteleri",
+    ["Description"]="<name>, madem buradasın, sen yokken Groy'dan bir mesaj aldım. En son gelen sevkiyattan memnun kaldığını ve bu şeyden hemen daha fazla isteyen bir müşterisi olduğunu belirtti.\n\nBir hafta boyunca Theramore'a gitmeyeceğim, ama bu yolculuğu yapmaya istekliysen, benim yerime bu eşyaları götürmen için hiçbir engel yok.\n\nMaceracı mı hissediyorsun? Dustwallow Bataklığı'nın nerede olduğunu biliyorsun, değil mi? Yine de dikkatli ol, eğer yanlış gruptansan Theramore tehlikeli olabilir.",
+    ["Objectives"]="Bir Deste Akiris Kamışı'nı (Akiris Reeds) Theramore'daki Özel Korsan Groy'a (Privateer Groy) getir.",
+    ["Progress"]="Evet?",
+    ["Completion"]="Ne?! Senin gibilerle konuşmaktan çok daha iyi işlerim var, <class>. Değerli bir şeyle gel ya da gözümün önünden kaybol.\n\nHah? Bloads mı gönderdi seni? Ee, bana ne getirdin bakalım?\n\n<Özel Korsan Groy desteyi dikkatlice inceler.>\n\nFena değil, hiç fena değil. Bir deste daha müşterimi oldukça mutlu edecek.\n\nSanırım bir sonraki sorun para hakkında olacak, değil mi <class>? Tabii ki öyle olacak!\n\nAl, şu parayı al ve bir tavsiye: rıhtımımdan uzak dur.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Akiris by the Bundle
+
+-- Voodoo Dues
+    ["609"] = {
+    ["Title"]="Vudu Borçları",
+    ["Description"]="Listem kısalıyor ama hala bana borcu olan insanlar var.\n\nSırada Maury \"Kulüp Ayak\" Wilkins, Karga Jon-Jon ve Chuck \"On Parmak\" var.\n\nBu iskorbüt köpeklerin borçlarının üzerinden aylar geçti ve borçlarını ödememek için şehri terk ettiklerini sanıyordum! Daha sonra, lanetlendiklerini ve büyüklendiklerini, şimdi orman harabelerinde dolaştıklarını duydum. Ama kaderleri umurumda değil - benim olanı istiyorum!\n\nBuradan kuzeydoğudaki Aboraz Harabeleri'nde ve Jubuwal Harabeleri'ndeler. Onları bul ve tahsilatı yap.",
+    ["Objectives"]="Maury'nin Topal Ayağı'nı, Jon-Jon'un Altın Dürbünü'nü ve Chuck'ın Dev Yüzüğü'nü Ganimet Koyu'ndaki \"Deniz Kurdu\" MacKinley'ye getir.",
+    ["Progress"]="<name>, o üç köpeği buldun mu? Değerli eşyalarını topladın mı?",
+    ["Completion"]="Harika! Bunlar için iyi bir fiyat alabilirim, özellikle Maury'nin ayağının içindekiler için! Çok teşekkürler, <name>!\n\nUmarım o üçü derslerini almıştır: kaybetmeyi göze alamayacağın bir şeye bahse girme.\n\nVe belki onlar için çok geçtir ama... kiminle kumar oynadıklarına dikkat etmelilerdi.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Voodoo Dues
+
+-- The Captain's Chest
+    ["8551"] = {
+    ["Title"]="Kaptanın Sandığı",
+    ["Description"]="Buradan Kalimdor'daki Ratchet'a kadar gemi sürerdim. Çok saygın bir üne sahip başarılı bir kaptandım.\n\nTa ki...\n\nO lanetli deniz devleri beni mahvedene kadar! Gemimi parçaladılar, mürettebatımı öldürdüler ve beni Ganimet Koyu'na giden bir filikaya bindirdiler. Ve devlerden biri olan Gorlash, Kaptanın Sandığı'mı çaldı. Onu enfiye kutusu yapmak istediğini söyledi. Şu küstahlığa bak!\n\nGorlash'ın buradan doğudaki kıyıda dolaştığını duydum. Onu bul ve sandığımı geri al! Bunu yaparsan, bir kaptanın minnettarlığını kazanmış olursun.",
+    ["Objectives"]="Smotts'un Sandığı'nı Ganimet Koyu'ndaki Hecklebury Smotts'a getir.",
+    ["Progress"]="Ahoy, <name>! Gorlash'ı buldun mu? O sandık benim favorimdi ve en büyük hazinelerimi sakladığım gizli bir bölmesi var!",
+    ["Completion"]="Onu buldun! Ah ne mutlu bir gün! Teşekkürler, <name>. Sandığımı geri almak içimdeki öfkeyi biraz olsun soğuttu.\n\nAma intikamım henüz tamamlanmadı...",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end The Captain's Chest
+
+-- Speaking with Nezzliok
+    ["585"] = {
+    ["Title"]="Nezzliok ile Konuşmak",
+    ["Description"]="<Nezzliok'un kafası konuşur.>\n\nBu doğru. Karanlıkkökenlilerin (Darkspears) çocuğunun nereye götürüldüğünü biliyorum. Beni yendin ve ruhumu bağladın ama karşılığını vermeden hiçbir şey söylemem!\n\nKanlısaçlar (Bloodscalps) Kafatasıyaranlar (Skullsplitters) ile savaşıyor. Benim lütfumu kazanmak için, Kafatasıyaranlar'dan 3 tane ganimet kafatası çal ve onları burada bizimle birlikte yerleştir, böylece ruhum Nether'da kölelere sahip olacak. Kafataslarından biri Balia'mah'taki ganimet yığınlarından, diğeri Ziata'jai'den ve sonuncusu Zul'Mamwe'den olmalı.",
+    ["Objectives"]="Balia'mah Ganimeti'ni, Ziata'jai Ganimeti'ni ve Zul'Mamwe Ganimeti'ni Grom'gol Üs Kampı'ndaki Kaynayan Kazan'a getir.",
+    ["Progress"]="Kafataslarını bekliyorum...",
+    ["Completion"]="Evet. Bunlar işime yarayacak. Ruhum özgür kaldığında, Nether'a üç güzel hizmetkarla gireceğim!\n\nSen <race> klanın için bir gurur kaynağısın ve beni yatıştırdın.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Speaking with Nezzliok
+
+-- Trollbane
+    ["638"] = {
+    ["Title"]="Trolkıran (Trollbane)",
+    ["Description"]="Thoras Trollbane öldüğüne ve Stromgarde harabeye döndüğüne göre, Vol'jin efsanevi Trolkalar (Trol'kalar) kılıcını insanların elinden almak için her türlü çabayı göstermemiz talimatını verdi, böylece onu Zul'Gurub trollerine karşı yapacağımız savaşlarda kullanabiliriz.\n\nTecrübeli avcılarımızdan biri olan Zengu, teminini denetlemesi için Arathi Tepeleri'nin kuzeydoğusundaki Çekiçdüşen'e (Hammerfall) gönderildi.",
+    ["Objectives"]="Arathi Tepeleri'ndeki Çekiçdüşen'e seyahat et ve Zengu ile konuş.",
+    ["Progress"]="",
+    ["Completion"]="Ne haber, <class>? Vol'jin tarafından önümüze konulan görev zorlu olacak ve sağlayabileceğin her türlü yardım takdir edilecek ve gerekli olacaktır.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Trollbane
+
+-- Mok'thardin's Enchantment
+    ["572"] = {
+    ["Title"]="Mok'thardin'in Büyüsü",
+    ["Description"]="Vadi'nin kedi benzeri canavarlarından topladığın eşyalar, güçlü büyülü bir eşya için sadece ilk gereksinimdir. Bu orman ıvır zıvırları, şamanistik ritüelimle birleştiğinde Horde'a ve Savaş Şefi'ne (Warchief) yardım etmede sana çok faydalı bir araç sağlayacak.\n\nAma şimdi benim için bazı Orman Avcısı Tüyü (Jungle Stalker Feathers) toplaman gerek. Tüyler geleneksel olarak canavarlar tarafından pazı bantlarında taşınır. Büyük arenadan çok uzak olmayan, Grom'gol'un hemen güneyinde bir raptor kabilesi bulacaksın.",
+    ["Objectives"]="10 Orman Avcısı Tüyü'nü Grom'gol üs kampındaki Uzgören Mok'thardin'e (Far Seer Mok'thardin) getir.",
+    ["Progress"]="Toplama çabaların meyvesini verdi mi?",
+    ["Completion"]="En mükemmel. Bunları hemen hazırlayacağım.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Mok'thardin's Enchantment
+
+-- Arena Master
+    ["7810"] = {
+    ["Title"]="Arena Ustası",
+    ["Description"]="Arena ustası olmanın bundan daha fazlası olması lazım! Belki Gurubashi'deki etkinliği yöneten Korsan biliyordur!",
+    ["Objectives"]="Stranglethorn Arenası'ndaki Kısa John Mithril (Short John Mithril) ile konuş.",
+    ["Progress"]="",
+    ["Completion"]="Arr Benim Yüreğim! Bir Trinket kazanmak seni Arena'nın ustası yapmaya yetmez! Şimdi çeliğini gerçekten kanıtlama zamanı.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Arena Master
+
+-- The Captain's Chest (Tekrar)
+    ["614"] = {
+    ["Title"]="Kaptanın Sandığı",
+    ["Description"]="Buradan Kalimdor'daki Ratchet'a kadar gemi sürerdim. Çok saygın bir üne sahip başarılı bir kaptandım.\n\nTa ki...\n\nO lanetli deniz devleri beni mahvedene kadar! Gemimi parçaladılar, mürettebatımı öldürdüler ve beni Ganimet Koyu'na giden bir filikaya bindirdiler. Ve devlerden biri olan Gorlash, Kaptanın Sandığı'mı çaldı. Onu enfiye kutusu yapmak istediğini söyledi. Şu küstahlığa bak!\n\nGorlash'ın buradan doğudaki kıyıda dolaştığını duydum. Onu bul ve sandığımı geri al! Bunu yaparsan, bir kaptanın minnettarlığını kazanmış olursun.",
+    ["Objectives"]="Smotts'un Sandığı'nı Ganimet Koyu'ndaki Hecklebury Smotts'a getir.",
+    ["Progress"]="Ahoy, <name>! Gorlash'ı buldun mu? O sandık benim favorimdi ve en büyük hazinelerimi sakladığım gizli bir bölmesi var!",
+    ["Completion"]="Onu buldun! Ah ne mutlu bir gün! Teşekkürler, <name>. Sandığımı geri almak içimdeki öfkeyi biraz olsun soğuttu.\n\nAma intikamım henüz tamamlanmadı...",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end The Captain's Chest
+
+-- The Defense of Grom'gol
+    ["568"] = {
+    ["Title"]="Grom'gol'un Savunması",
+    ["Description"]="Throm'ka, <class>!\n\nGrom'gol'a varışın gerçekten zamanında oldu. Buradaki ormandaki Savaş Şefi'nin üs kampının komutanı olarak, Horde'un tüm üyelerinin güvenliğini sağlamakla onurumla yükümlüyüm. Stonard'a güvenli bir ikmal zinciri sağlama görevimiz, yerel sakinlerden bazıları tarafından engelleniyor.\n\nSeni Grom'gol dışındaki raptor nüfusunu azaltmaktan sorumlu tutuyorum. Önemli bir ilerleme kaydettiğinde, yeniden görevlendirilmek için bana rapor ver.",
+    ["Objectives"]="Grom'gol üs kampından Komutan Aggro'gosh, 15 Kamçıkuyruk Raptor'u (Lashtail Raptors) öldürmeni istiyor.",
+    ["Progress"]="İkmal çabalarımız hala yerel raptor nüfusu tarafından engelleniyor, <class>.",
+    ["Completion"]="Görevin onurla yerine getirildi, <class>.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end The Defense of Grom'gol
+
+-- The Captain's Cutlass
+    ["615"] = {
+    ["Title"]="Kaptanın Palası",
+    ["Description"]="O devlere ilk gemimi kaybettikten sonra bir tane daha aldım. Smotts'un İntikamı adını verdim, erzak ve mürettebatla doldurdum ve suçluları bulmak için yola çıktım. Onları buldum ama... beni yendiler. Smotts'un İntikamı'nı parçaladılar, ikinci mürettebatımı öldürdüler ve beni başka bir filikaya bindirdiler.\n\nBu sefer devlerden bir diğeri, Negolash, palamı çaldı.\n\nNegolash'la yüzleş ve palamı bana getir!\n\nSprogger ile konuş. Smotts'un İntikamı'ndaki aşçım oydu ve son saldırıdan sağ kurtuldu. Devi bulmana yardım edebilir.",
+    ["Objectives"]="Sprogger ile konuş.",
+    ["Progress"]="",
+    ["Completion"]="Merhaba merhaba, <name>. Kaptan, Negolash'ın peşinden gideceğini söyledi, ha?",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end The Captain's Cutlass
+
+-- Whiskey Slim's Lost Grog
+    ["580"] = {
+    ["Title"]="Viski Slim'in Kayıp Sert İçkisi",
+    ["Description"]="Uzaklarda Hinterlands göründüğü halde, Manzara Kayalıkları'nın (Overlook Cliffs) biraz açığında fırtınada perişan oluyorduk. Denizlerin bizi yutacağını sandım.\n\nYaşlı Slim sıvı cesaret hakkında her şeyi bilir! Kaptan'ın, Stormwind yolunda bir özel korsandan ele geçirdiğimiz bir sandık dolusu Pupellyverbos Şarabı vardı.\n\nHinterlands fırtınası bastırdığında sert içkiye (grog) daldım. Büyük bir dalga geldi ve şişeleri denize savurdu. Sen onları geri almama yardım etmezsen Kaptan bana kırbacın tadını tattıracak!",
+    ["Objectives"]="Ganimet Koyu'ndaki Viski Slim, kaybettiği Pupellyverbos Şarabı şişelerini getirmeni istiyor.",
+    ["Progress"]="Batır beni! Burada içkim neredeyse bitti! Kaptan demir alacak ve Yaşlı Slim Tanaris Çölü kadar kuru kalacak. Ve şarabının kayıp olduğunu keşfettiğinde... vay anasını!",
+    ["Completion"]="Kahrolasıca! Kaptanın sert içkisini buldun!\n\nSana büyük borçluyum dostum.\n\nDışarıda fırtına kopuyor gibi. Belki de fırtınanın dinmesini beklerken bu şişelerden biriyle ısınırım....",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Whiskey Slim's Lost Grog
+
+-- Bloody Bone Necklaces
+    ["596"] = {
+    ["Title"]="Kanlı Kemik Kolye",
+    ["Description"]="Nimboya'ya görevinde yardım etmek için Grom'gol'a gönderildim ama... burada bulunmamın başka nedenleri de var.\n\nKanlısaç kabilemizin düşmanıdır. Düşmanlarımızın ganimetlerini toplamak bize onlar üzerinde güç verir. Düşmanlarımızı avlayarak kabilemize yardım edebilirsin.\n\nKuzeyde yaşıyorlar. Kanlısaç trollerini öldür ve onlardan kanlı kemik kolyelerini al. Birçoğunu topla ve ödülün büyük olacak.",
+    ["Objectives"]="25 Kanlı Kemik Kolye'yi Grom'gol Üs Kampı'ndaki Kin'weelay'e getir.",
+    ["Progress"]="Kanlısaçlar bir gün Karanlıkkökenliler tarafından ezilecek! Kaderi belirlenmiş düşmanımızın kolyeleri yanında mı?",
+    ["Completion"]="Ah, çok iyi. Bunları kaynatacağım ve sülük gibi emeceğim, ben kolyelerini macun haline getirirken sahiplerinin ruhları zayıflayacak!\n\nAl, <name>. Bu sana olan borcumu ödeyecek.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Bloody Bone Necklaces
+
+-- The Fate of Yenniku
+    ["588"] = {
+    ["Title"]="Yenniku'nun Kaderi",
+    ["Description"]="<Nezzliok konuşur.>\n",
+    ["Objectives"]="Kin'weelay ile konuş.",
+    ["Progress"]="",
+    ["Completion"]="Dışlanmış Zanzil mi??\n\nEğer Yenniku o trol tarafından, aşağılık ve güçlü bir cadı doktor tarafından tutuluyorsa, korkarım ki sadece zayıf bir umut kalmıştır. Zayıf. Ve en küçük böcek kadar minik.\n\nAma yine de, bu bir umut.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end The Fate of Yenniku
+
+-- Hunt for Yenniku
+    ["581"] = {
+    ["Title"]="Yenniku İçin Av",
+    ["Description"]="Bir kıyamet var. Şefimin en küçük oğlu Yenniku için bir kıyamet. Halkımızın geleneği olduğu üzere, Zul'Gurub'un Gurubashi Trolleri'ne verilmişti, ancak benim kabilem, Karanlıkköken kabilesi, ork Thrall ile birlikte ayrıldıktan sonra zavallı Yenniku bizden koptu. Uzak Orgrimmar'dan, şefimin oğlunu aramak için Stranglethorn'a geri gönderildim.\n\nVe Kanlısaç kabilesinin onu tuttuğuna inanıyorum.\n\nEğer bana yardım edersen, Kanlısaçlar'ı avla. Onları kuzeyde bulabilirsin. Dişlerini topla ve bana geri dön.",
+    ["Objectives"]="9 Kanlısaç Dişi'ni (Bloodscalp Tusks) Grom'gol Üs Kampı'ndaki Nimboya'ya getir.",
+    ["Progress"]="<class>. Kanlısaç kabilesini avladığını göster bana.\n\nGanimetlerini göster.",
+    ["Completion"]="Bunlar iyi dişler, <name>. Kanlısaçlar'ı avlayacak güce sahip olduğunu kanıtladın.\n\nVe bu iyi, çünkü onları avlamayı henüz bitirmedin.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Hunt for Yenniku
+
+-- Mai'Zoth
+    ["206"] = {
+    ["Title"]="Mai'Zoth",
+    ["Description"]="Kurzen ölmüş olabilir ama... onu kötülüğe sürükleyen şey hala yaşıyor! Çalışmalarım sayesinde şunu keşfettim: Bir Ogre Büyücüsü - Mai'Zoth - Stranglethorn'un doğu dağlarındaki bir Ogre Tümseği'nde yaşıyor. Zihin kontrol büyüsü kullandığı söyleniyor ve Kurzen'i onun yozlaştırdığından eminim.\n\nMai'Zoth'un yaşamasına izin verilirse, kötülüğü başkalarını etkileyebilir ve hatta başka bir Kurzen'in ortaya çıkmasına neden olabilir.\n\nOnu öldür ve başkalarını yozlaştırmak için kullandığı eser olan Zihin Gözü'nü bana getir.",
+    ["Objectives"]="Zihin Gözü'nü Asi Kampı'ndaki Kardeş Nimetz'e (Brother Nimetz) getir.",
+    ["Progress"]="Sana kutsamamı veriyorum. Mai'Zoth'un gücü sadece kötülüğüyle eşdeğerdir.",
+    ["Completion"]="Aha! Yaptın! Sen iyilik için büyük bir güçsün, <name> ve gücün asla solmasın!\n\nBu Zihin Gözü'nü inceleyeceğim ve iyilik için kullanılıp kullanılamayacağını belirleyeceğim. Eğer değilse... o zaman yok edilmeli.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Mai'Zoth
+
+-- Patrol Schedules
+    ["330"] = {
+    ["Title"]="Devriye Programları",
+    ["Description"]="Bana verdiğin not \"-M\" ile imzalanmış... bunun ne anlama gelebileceğini bilmiyorum.\n\nAma... not ayrıca bu kişinin geçen hafta Thorsen ile devriye rotalarını paylaştığını söylüyor. Yani geçen hafta Thorsen ile devriye paylaşan kimse vatan haini olmalı!\n\nEr Sethman'a git. Devriye programlarını o yönetiyor ve sana Thorsen ile kimin olduğunu söyleyebilir.",
+    ["Objectives"]="Er Sethman ile konuş.",
+    ["Progress"]="",
+    ["Completion"]="Oh, evet bunu senin için kontrol edebilirim. Bakalım... geçen hafta...\n\n...vay canına, Thorsen ile programlanan Er Merle'ymiş. Geçen haftanın tamamında aynı devriye saatlerine sahiplerdi.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Patrol Schedules
+
+-- Highly Unexpected Event
+    ["40360"] = {
+    ["Title"]="Oldukça Beklenmedik Olay",
+    ["Description"]="Bitti! Oldukça sıkıcı küçük bir şey ama bilirsin işte gnomelar, falan filan, gnomelardan nefret ederim. Bu işlerde hiç incelik yok, şu şeye bak, eşyaları çalmanın mükemmel yolu ve kendi karını artırmaktan bahsetmiyorum bile!\n\nBu şeyin sadece heykelleri küçültmesi gerekiyordu ama tahmin et ne oldu, artık onları büyütebiliyor da! Her neyse, bitirelim şunu evet, daha fazla beklemenin anlamı yok.",
+    ["Objectives"]="Fazgel Mechaflame'i öldür.",
+    ["Progress"]="Üzerinde kazılı isim olan heykele bir kez daha bakıyorsun ve tetiği çekmeye hazırlanıyorsun.",
+    ["Completion"]="Düğmeye bastığında küçültme ışını etkinleşiyor! İlk başta her türlü sesi mırıldanarak bunu inşa eden goblin cesedine küfretmeye başlıyorsun, sadece sahtekar değil aynı zamanda mühendis de değilmiş! Ya da öyle sanırdın, er ya da geç heykel küçülmeye başladı, ağırlığı azaldı ve kolayca çantana yerleştirilebilir hale geldi.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Highly Unexpected Event
+
+-- Akiris by the Bundle (Tekrar)
+    ["617"] = {
+    ["Title"]="Akiris Desteleri",
+    ["Description"]="İş mi arıyorsun <name>? Eğer küçük bir mücadeleye hazırsan elimde bir şeyler olabilir.\n\nnagaların akiris kamışı dediği şeyi satarak parayı kıran Groy adında bir arkadaşım var: bu değerli bir okyanus kamışı türü. Ne işe yaradığından pek emin değilim ama desteleri için iyi para ödüyor.\n\nBana on tane sap getirirsen iş yaparız. Nagalar en son buradan kuzeydeki sahil boyunca görüldü.",
+    ["Objectives"]="10 Deste Akiris Kamışı'nı Ganimet Koyu'ndaki Özel Korsan Bloads'a getir.",
+    ["Progress"]="Eğer benimle işin yoksa, yoluna devam et, <name>.",
+    ["Completion"]="İyi iş, <name>. 10 sap akiris kamışı sonuçta çok da büyük bir mücadele değildi, ha? Nagalara hakaret etmek istemem ama hey, herkes geçimini sağlamak zorunda.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Akiris by the Bundle
+
+-- Keep An Eye Out
+    ["576"] = {
+    ["Title"]="Gözünü Dört Aç",
+    ["Description"]="Kahrol! Oradan geçen de kim?\n\nArgh, şu özel büyülü gözüm olmadan bir işe yaramam. Zaten ilk etapta gözlerimi savaşta kaybetmiş olmam yeterince kötü! Ama bir şans eseri Menethil'e yanaştık ve gezgin bir büyücü, tekrar görmemi sağlayan özel bir cam göz büyüledi.\n\nDün gece şehirden çıkarken bazı Kanlıyel Yağmacıları (Bloodsail Buccaneers) tarafından pusuya düşürüldüm. Gözümü aldılar, aldılar! Görünüşe göre o herifler Ganimet Koyu'na (Booty Bay) ulaşmanın yolunu bulmuşlar.\n\nEski bir deniz kurduna gözümü geri alarak yardım eder misin?",
+    ["Objectives"]="Ganimet Koyu'ndaki Dizzy One-Eye, gözünü Kanlıyel Yağmacıları'ndan geri almanı istiyor.",
+    ["Progress"]="Ahoy, evlat! Göremeyebilirim ama seni limanın yarısından koklayabiliyorum.\n\nGözümü geri alabilirsem çok makbule geçer. Kaptan, dürbünümün o pis Kanlıyel Yağmacıları'nın elinde olduğunu öğrendiğinde beni omurga altından çekecek.\n\nGöremeyen bir gözcünün ne faydası olur? Karganın yuvası evim gibiydi... ışıklarım olmadan sintine temizlesem şükrederim.",
+    ["Completion"]="Kahrolasıca! Güzel gözümü buldun! Bakalım hala uyuyor mu.\n\nŞavas ho! Vay canına, görebiliyorum!!",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Keep An Eye Out
+
+-- Saving Yenniku
+    ["592"] = {
+    ["Title"]="Yenniku'yu Kurtarmak",
+    ["Description"]="Zihin Gözü'nü bir Ruh Taşı'na dönüştürdüm. Amacı iki yönlü: onu Yenniku'yu sersemletmek için kullanmalısın ve sersemlediğinde ruhunu hapsetmek için onu kafasına yerleştirmelisin.\n\nSonra, taşı Nimboya'ya getir.\n\nYenniku, Stranglethorn'un uzak Burnundaki Kristal Kıyı boyunca Aboraz Harabeleri'nde, Dışlanmış Zanzil ile yaşıyor.",
+    ["Objectives"]="Doldurulmuş Ruh Taşı'nı Nimboya'ya getir.",
+    ["Progress"]="<name>. Kin'weelay Yenniku'yu yakalamak için yola çıktığını söyledi.\n\nDoğru mu? O yanında mı?",
+    ["Completion"]="Yaptın! Yenniku'yu Zanzil'in iradesinden kurtardın ve o kadar çaresiz olduğunu düşündüğüm görevi tamamladın.\n\nKabilemiz senin adını şarkılarda hatırlayacak, <name> ve hikayeni sonsuza dek yaşasın diye taşa kazıyacağız.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Saving Yenniku
+    -- The Curse of the Tides
+    ["611"] = {
+    ["Title"]="Gelgitlerin Laneti",
+    ["Description"]="Demek bir tür sunak arıyorsun? Bak, babam gibi trol harabeleri konusunda uzman değilim ama aradığın o adanın yakınlarında batık bir trol şehri olduğunu duymuştum. Belki orada şansını denemelisin.\n\nBıçağımı bana geri getirdin, yani sanırım ödünç alabilirsin... ama işin bitince onu geri istiyorum!",
+    ["Objectives"]="Catelyn'in Bıçağı (Catelyn's Blade) ile Gelgitler Sunağı'nı (Altar of the Tides) yok et, Gazban'ı öldür ve Gelgitler Taşı (Stone of the Tides) ile Catelyn'in Bıçağı'nı Baron Revilgaz'a geri getir.",
+    ["Progress"]="Gelgitler Taşı'nı benim için getirdin mi, <name>? Şimdiden ona uygun bir yer ayırdım ve bunun için güzel bir stand satın aldım.",
+    ["Completion"]="İnanılmaz! Gelgitler Taşı! Antik trol eserleri koleksiyonumda başköşede yer alacak. Yüzeyinde sanki bir gelgit hapsolmuş gibi görünmesini fark ettin mi? Muhteşem!",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end The Curse of the Tides
+
+    -- Jungle Secrets
+    ["215"] = {
+    ["Title"]="Orman Sırları",
+    ["Description"]="Beni kurtardığın için teşekkürler, <name>. Bunun nasıl göründüğünü biliyorum ama... açıklamama izin ver.\n\nTeğmen Doren tarafından, Kurzen'in adamlarına casusluk yapmak ve isyancılara çok ihtiyaç duyulan istihbaratı getirmek için yeniden askere alınmak üzere görevlendirildim. Kurzen'in Yerleşkesi'ne (Kurzen's Compound) sızma şansım olacağını düşündüğüm şeyi burada gördün. Yanılmışım, yine de beni kurtardığın için teşekkürler.\n\nBu çok gizli bir görevdi, bu yüzden kimseye söylememelisin. Ama Doren ile konuşursan sana açıklayacaktır.",
+    ["Objectives"]="Asi Kampı'ndaki (Rebel Camp) Teğmen Doren ile konuş.",
+    ["Progress"]="",
+    ["Completion"]="Evet, Thorsen'in sana söyledikleri doğru. Bu konuda ketum olmalısın. Bir zamanlar biz isyancılar, Albay Kurzen'e şiddetle sadıktık. Ancak Kurzen'in yozlaşması o kadar büyüktü ki, tutkumuz öfkeye dönüştü. Er Thorsen'in Kurzen'in adamlarıyla yakın zamanda iş çevirdiği bilinseydi, bir gece kendini boğazı kesilmiş halde bulurdu.\n\nBildiğim kadarıyla, sadece Çavuş Yohwa, Thorsen ve ben Thorsen'in görevinden haberdardık. Ama bir başkası daha olmalı. Bir hain.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Jungle Secrets
+
+    -- Panther Mastery
+    ["190"] = {
+    ["Title"]="Panter Ustalığı",
+    ["Description"]="Hemet'in kurduğu bu seçkin grupla avın bir parçası olmak istiyorsan, kendini yetenekli bir panter avcısı olarak kanıtlaman gerekecek. Başlangıcı kolay tutacağız, merak etme. İlk olarak 10 genç panter öldürdüğünü görelim.\n\nOnların izini sürmek işin sadece yarısı...",
+    ["Objectives"]="Nesingwary Keşif Heyeti'nden Sir S. J. Erlgadin, 10 Genç Panter (Young Panthers) öldürmeni istiyor.",
+    ["Progress"]="Gerçek bir panter avcısı arazide olur, avını takip etmeye çalışırdı. Amacına biraz bağlılık göster, <class>, ve tekrar sahaya dön.",
+    ["Completion"]="İyi bir başlangıç yaptın, <name>!",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Panther Mastery
+
+    -- Chapter III
+    ["341"] = {
+    ["Title"]="Bölüm III",
+    ["Description"]="Bölüm III benim favorimdi. Sir Erlgadin ve Leydi Rouack'ın cüce tüfeğiyle yaptıkları ilk avdan bahseder. Ve Bölüm III'ün sonu, vay canına, ne büyük bir merak unsuru!\n\nGördüğüm kadarıyla bölümü bitirmek için hala 18, 20, 21 ve 24. sayfalara ihtiyacımız var. O sayfalar oralarda bir yerlerde...",
+    ["Objectives"]="Bölüm III'ü tamamlamak için Barnil Taşçömlek'e (Barnil Stonepot) Stranglethorn'un Yeşil Tepeleri (The Green Hills of Stranglethorn) kitabından 18, 20, 21 ve 24. sayfaları getir.",
+    ["Progress"]="18, 20, 21 veya 24. sayfalarda şansın yaver gitti mi? Bölüm III'ü birleştirmek için tek ihtiyacımız olanlar bunlar.",
+    ["Completion"]="Phew! İyi iş, <name>. Bölüm III artık tekrar bir bütün halinde!",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Chapter III
+
+    -- Panther Mastery
+    ["193"] = {
+    ["Title"]="Panter Ustalığı",
+    ["Description"]="Kendini neredeyse bir panter avcısı ustası olarak kanıtladın. Bhag'thera adında bir panter ormanda kol geziyor. Şimdiye kadar grubumuzdan hep kaçtı. Yeteneklerini büyük Bhag'thera'yı öldürmek için kullanıp kullanamayacağına bir bakalım.\n\nBana Bhag'thera'nın Diş'ini getir ve saygımı kazanmış olacaksın!",
+    ["Objectives"]="Nesingwary Keşif Heyeti'nden Sir S. J. Erlgadin, sana Bhag'thera'nın Dişi'ni (Fang of Bhag'thera) getirmeni istiyor.",
+    ["Progress"]="Bhag'thera yakalanması zor bir canavar olduğunu kanıtlayabilir. Av nasıl gidiyor?",
+    ["Completion"]="İyi bir başlangıç yaptın, <name>!",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Panther Mastery
+
+    -- Panther Mastery
+    ["192"] = {
+    ["Title"]="Panter Ustalığı",
+    ["Description"]="Şimdi zor kısım. Gerçek bir panter avcısı, Stranglethorn'un en ölümcül panterleri olan Gölgeağız (Shadowmaw) Panterlerini düşürerek ustalığını gösterebilir. Bu canavarlardan 10 tanesini öldürebileceğini bize kanıtla.\n\nEğer izini sürmenin zor olduğunu düşünüyorsan, birini öldürmeye çalıştığında neler olacağını bekle gör...",
+    ["Objectives"]="Nesingwary Keşif Heyeti'nden Sir S. J. Erlgadin, 10 Gölgeağız Panteri (Shadowmaw Panthers) öldürmeni istiyor.",
+    ["Progress"]="Burada ne yapıyorsun, <name>! Çalıların arasında sürünerek 10 Gölgeağız Panteri öldürmeye çalışıyor olmalıydın. Kendini usta bir avcı mı sanıyordun?",
+    ["Completion"]="İyi iş çıkardın, <name>!",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Panther Mastery
+
+    -- Bookie Herod
+    ["200"] = {
+    ["Title"]="Defterci Herod",
+    ["Description"]="Kurzen, Thorsen'in sırrını biliyorsa, aramızda bir casus var demektir. Sırrın nasıl sızdırıldığını belirlemeliyiz!\n\nThorsen'in Kurzen'in kampındaki bağlantısı Defterci Herod'du (Bookie Herod). Herod, Kurzen'in lojistik subayıdır ve Kurzen'in Yerleşkesi'nin yönetimi hakkında her şeyi bilir. Eğer Herod'un notlarını veya kayıtlarını ele geçirebilirsen, Thorsen'in nasıl deşifre edildiğini bulabiliriz.\n\nHala Kurzen ile birlikteyken, Defterci'nin ofisi kampın tek iki katlı evinin en üst katındaydı. Kayıtları muhtemelen hala oradadır.",
+    ["Objectives"]="Defterci Herod'un Kayıtlarını (Bookie Herod's Records) bul.",
+    ["Progress"]="",
+    ["Completion"]="Bunlar Defterci Herod'un notları ve kayıtları.\n\nBunların arasında şunlar var: kamp içindeki erzak listesi, Albay Kurzen'den gelen malzeme talepleri ve çeşitli mektuplar ile yazışmalar.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Bookie Herod
+
+    -- Cortello's Riddle
+    ["626"] = {
+    ["Title"]="Cortello'nun Bilmecesi",
+    ["Description"]="Lordaeron'a doğru! Karmaşanın büyük toprakları\nCesur askerlerin ölümle savaştığı yer\nBüyük huzursuzluğun içinde yolunu bul\nİşte orada bulacaksın bu görevin sonunu\nSarpkıyılar'ın (Hinterlands) sahili boyunca, büyük şelalelerin dibinde\nSuyun altında hazinen sana seslenir!",
+    ["Objectives"]="Bilmeceyi çöz!",
+    ["Progress"]="",
+    ["Completion"]="Sandığı açtığında keşfettiğin şey....",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Cortello's Riddle
+
+    -- Message in a Bottle
+    ["594"] = {
+    ["Title"]="Şişedeki Mesaj",
+    ["Description"]="Notta, oldukça okunaklı bir el yazısıyla şunlar yazılı:\n\nBana yardım edebilecek herkese-\n\nLütfen, yardım çağrım çok acil. Büyük bir Gökyele (Skymane) beni Güney Denizleri'ndeki (South Seas) bir adada tutsak tutuyor.\n\nGece yıldızlar benim için yabancı ve orman ağaçları tarafından gizlenmiş durumda, ancak en açık günlerde kuzeybatıda Vahşi Kıyı'yı (Wild Shore) ve güneybatıda büyük yelkenli gemiler gibi görünen şeyleri görebiliyorum.\n\nSana yalvarıyorum, potansiyel kurtarıcım, lütfen bana yardım et.",
+    ["Objectives"]="Şişedeki mesajın yazarını bul.",
+    ["Progress"]="",
+    ["Completion"]="Beni kurtarmaya mı geldin?",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Message in a Bottle
+
+    -- Tiger Mastery
+    ["188"] = {
+    ["Title"]="Kaplan Ustalığı",
+    ["Description"]="Sana sunacağım son meydan okuma bu. Haftalardır kaçak bir kaplanın izini sürüyoruz. Canavara Sin'Dall diyoruz. Bakalım daha önce hiçbir <race>'in yapmadığını yapabilecek misin: Sin'Dall'ı avla ve öldür. Başarını kanıtlamak için bana pençesini getir.\n\nOnu izini sürüp bulmak hiç kolay bir iş olmayacak.",
+    ["Objectives"]="Nesingwary Keşif Heyeti'nden Ajeck Rouack, Sin'Dall'ı öldürmeni ve pençesiyle geri dönmeni istiyor.",
+    ["Progress"]="Sin'Dall avı nasıl gidiyor?",
+    ["Completion"]="Gerçekten çok etkileyici! Sen gerçek bir Usta Kaplan Avcısısın, <name>!",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Tiger Mastery
+
+    -- The Monogrammed Sash
+    ["8552"] = {
+    ["Title"]="İşlemeli Kuşak",
+    ["Description"]="Bu güzel kuşağın kenarı boyunca \"HS\" harfleri işlenmiş.",
+    ["Objectives"]="İşlemeli Kuşağı sahibine iade et.",
+    ["Progress"]="Merhaba. Benimle bir işin mi var?",
+    ["Completion"]="Kuşağımı mı kurtardın? O halde... deniz devi Mok'rash'ı öldürmüş olmalısın! Yaşasın!\n\nO iskorbüt kötü adamın ölü olmasına sevindim - Mok'rash, gemilerimi parçalayan ve mürettebatımı öldüren üç deniz devinden biriydi.\n\nÜç kez.\n\nSen değerli bir <class>'sın, <name>.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end The Monogrammed Sash
+
+    -- The Spy Revealed!
+    ["329"] = {
+    ["Title"]="Casus Deşifre Oldu!",
+    ["Description"]="Çelik kasanın değerli eşyaları arasında çamurlu, karalanmış bir not var. Zar zor okunsa da, Er Thorsen için bir seyahat programı gibi görünüyor. Devriye rotalarını, kiminle konuştuğunu ve isyancılarla zamanını nasıl geçirdiğini detaylandırıyor. Sadece bir harfle imzalanmış: -M.\n",
+    ["Objectives"]="Çamurlu Not'u Asi Kampı'ndaki Teğmen Doren'e götür.",
+    ["Progress"]="Thorsen'in sırrını kimin bildiğini keşfettin mi? Aramızda bir hain mi var?",
+    ["Completion"]="Teşekkürler, <name>. Bu not, haini kökünden söküp atmak için ihtiyacımız olan ipucu!",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end The Spy Revealed!
+
+    -- Enchanted Azsharite Fel Weaponry
+    ["3625"] = {
+    ["Title"]="Büyülü Azsharit Fel Silahları",
+    ["Description"]="<name>, her silahın yaratılması biraz zaman alacak.\n\nAyrıca, Fel-laneti'nin (Felcurse) gücünü her üç dakikada bir kullanabilirsin. Kirletici Razelikh (Razelikh the Defiler) ve uşaklarına karşı zayıflatıcı özellikleri süresi bakımından değişkenlik gösterebilir. İşte bu yüzden Fel-laneti'ni ancak an doğru olduğunda serbest bırakmalısın!\n\nŞimdi silahını yapmak için bana bir an ver, <name>.",
+    ["Objectives"]="Galvan'ın silahları dövmesini bitirmesini bekle.",
+    ["Progress"]="Dövme işlemini yarıda kesmek kusursuz olmayan bir silahla sonuçlanabilir. Sabırlı ol, <name>.",
+    ["Completion"]="<Galvan alnındaki teri siler.>\n\nDaha iyi bir iblis avcısı asla var olmadı, <name>.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Enchanted Azsharite Fel Weaponry
+
+    -- Ansirem's Key
+    ["603"] = {
+    ["Title"]="Ansirem'in Anahtarı",
+    ["Description"]="Taş'a sahip olan büyücü, gücünü bir odak noktası aracılığıyla yükseltiyor... bir tür sunak. Onu etkisiz hale getirerek bozabilirsin.\n\nTesadüf bu ya, tam olarak doğru şeyi biliyorum: kadim bir hançer, başka bir trol kalıntısı. Sadece bir... küçük sorun var.\n\nBak, hançeri Stranglethorn'da araştırma yaparken buldum ama onu, korsan olmak için Ganimet Koyu'na (Booty Bay) kaçan inatçı kızım Catelyn'e verdim.",
+    ["Objectives"]="Ganimet Koyu'ndaki Catelyn ile konuş.",
+    ["Progress"]="",
+    ["Completion"]="Hançerim mi? Sen ne tür bir komedyensin?\n\nGanimet Koyu'ndaki en iyi bıçak dövüşçüsünden korsan dünyasının alay konusu haline gelmemin hikayesini tekrarlamamı mı istiyorsun!\n\nKanlıyel Yağmacıları'ndan (Bloodsail Buccaneers) biriyle bıçak dövüşünü kaybettim--tam bir pislik sürüsüdürler!--ve o, ganimet olarak bıçağımı aldı.\n\nSadece hakaretler ve keskin bir dille bir bıçak dövüşçüsü olarak geçinebileceğimi sanmıyorum...",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Ansirem's Key
+
+    -- Big Game Hunter
+    ["208"] = {
+    ["Title"]="Büyük Avcı",
+    ["Description"]="<name>, sen aramıza layık bir avcısın. Lordaeron'un savaş alanlarından en derin ormanlara kadar, senin sergilediğin silah ustalığına nadiren tanık oldum.\n\nVahşi Sin'Dall'ı, kaçak Bag'thera'yı ve hain Tethis'i öldürdün. Ama asıl ödül Kral Bangalash'ın başı. O beyaz kaplan burada olmamın sebebi. Epeydir gözüm üzerindeydi. Kral Bangalash'ı öldür ve avcılık ustalığının eşsiz olduğunu kanıtla.",
+    ["Objectives"]="Hemet Nesingwary, büyük beyaz kaplan Kral Bangalash'ın başını getirmeni istiyor.",
+    ["Progress"]="Döndüğünü görüyorum, ihtiyar. Kral Bangalash beni birçok kez kampa emekleyerek döndürdü. Dayanıklı ol.",
+    ["Completion"]="Lanet olasıca iyi iş! Tam üstüne bastın! Başkalarının başarısız olduğu yerde başarılı olduğun için tebrikler, <name>.\n\nBuradaki büyük av partimizin bir yoldaşı olarak seni saymaktan onur duyuyorum. Kimse avlanma ve iz sürme konusundaki uzmanlığından asla şüphe duymayacak!\n\nSenin şerefine, diyorum! Şerefe!",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Big Game Hunter
+
+    -- Facing Negolash
+    ["8554"] = {
+    ["Title"]="Negolash ile Yüzleşmek",
+    ["Description"]="Negolash aç bir dev.\n\nDevler gemimizi yok ettiğinde, Negolash doğrudan mutfağıma yöneldi. Diğer devler gibi mürettebata aç değildi. Negolash şarap istedi... ve benim Barbekü Buzzard Kanatları'mı. Onlar benim spesyalim ve tarif için Badlands'e kadar gitmek zorunda kaldım!\n\nEğer devi kandırmak istiyorsan, biraz şarap ve bir yığın buzzard kanadı al. Onları buradan güneydoğudaki kıyı boyunca eski filikamıza koy. Negolash o yemeğin kokusunu aldığında, kesinlikle gelecektir!",
+    ["Objectives"]="Kaptan Smotts'un Filikası'na 10 Barbekü Buzzard Kanadı ve 5 şişe Ormanasması Şarabı (Junglevine Wine) getir.\n\nNegolash'ı öldür ve Smotts'un Palası'nı Stranglethorn'daki Kaptan Smotts'a getir.",
+    ["Progress"]="Palamı aldın mı, <name>?",
+    ["Completion"]="Palamı Negolash'tan aldın! Şansıma inanamıyorum, <name>! Seninle tanışmak şansımı iyiye çevirdi, buna şüphe yok!\n\nTeşekkür ederim! Ve eğer bir gün yeni bir gemi alırsam ve denizlere yelken açmak istersen, onurlu misafirim olursun.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Facing Negolash
+
+    -- Speaking with Gan'zulah
+    ["586"] = {
+    ["Title"]="Gan'zulah ile Konuşmak",
+    ["Description"]="<Gan'zulah'ın kafası konuşur.>\n\nLanet olsun sana! Ve atalarına lanet olsun!!\n\nSadece kan ve intikam öfkemi soğutabilir, eğer isteğin buysa, o zaman şunu yap:\n\nKendini doğudaki Kafatasıyaranlar'ın (Skullsplitters) kalbine at. İçlerindeki en azılılarını katlet ve eğer hayatta kalırsan... o zaman şefleri Zalim Ana'thek'e (Ana'thek the Cruel) karşı kendini parçala. Hah! Yapabilirsen onun parçalanmış zırhını bana getir!\n\nUmarım uzuvlarını koparır ve seni çürümeye ve leş kargaları tarafından yenilmeye bırakır.",
+    ["Objectives"]="8 Kafatasıyaran Avcısı, 6 Kafatasıyaran Kelle Avcısı ve 4 Kafatasıyaran Öfkeli'yi (Berserker) öldür.\n\nAna'thek'in Kırık Zırhı'nı Grom'gol Üs Kampı'ndaki Kaynayan Kazan'a getir.",
+    ["Progress"]="Kendi etim kafatasımın üzerinden kaynasa da, hala korkunu koklayabiliyorum.\n\nHah! Görevimi asla tamamlayamayacaksın...",
+    ["Completion"]="İnanmak istemiyorum ama yaptıklarını inkar edemem. Ve Ana'thek yenildiğine göre, öfkem hafifledi.\n\nGücün seni büyük işlere sürükleyecek, <name>. Ama bir gün... seni Nether'da göreceğim ve yine gücümüzü yarıştıracağız.\n\nBekliyor olacağım.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Speaking with Gan'zulah
+
+    -- Chapter I
+    ["339"] = {
+    ["Title"]="Bölüm I",
+    ["Description"]="Bölüm I oldukça sürükleyiciydi! Usta Nesingwary hikaye için arka planı hazırlıyor ve aralarında benim de bulunduğum av arkadaşlarından bahsediyor!\n\nAma konu bu değil. Hangi sayfaların hala eksik olduğuna bir bakayım. Görünüşe göre 1, 4, 6 ve 8. sayfalar hala ormanda bir yerlerde!",
+    ["Objectives"]="Bölüm I'i tamamlamak için Barnil Taşçömlek'e (Barnil Stonepot) Stranglethorn'un Yeşil Tepeleri (The Green Hills of Stranglethorn) kitabından 1, 4, 6 ve 8. sayfaları getir.",
+    ["Progress"]="1, 4, 6 ve 8. sayfaları bulabildiğini sanmıyorum? Bölüm I'i tekrar birleştirmek için ihtiyacımız olan tek şey o dört sayfa.",
+    ["Completion"]="Nihayet! Bölüm I tamamlandı!",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Chapter I
+
+    -- Message in a Bottle
+    ["630"] = {
+    ["Title"]="Şişedeki Mesaj",
+    ["Description"]="<name>, sana ve beni kurtarmama yardım etmesi için toplayabileceğin herkese inancımı koydum. Büyük Gökyele Kralı Mukla (Skymane King Mukla) benim esir alıcım. Bu adadaki canavarlara komuta ediyor ve bu zincirin yardımıyla beni burada iradem dışında tutuyorlar. Onu öldürüp bu prangaların anahtarını bulabilirsen, sana çok borçlu kalacağım.\n\nOnu genellikle adanın güneydoğu tarafında duyuyorum ama lütfen dikkatli ol: onunla şaka olmaz.",
+    ["Objectives"]="Kral Mukla'yı öldür ve onu özgür bırakacak Anahtar ile Prenses Poobah'a geri dön.",
+    ["Progress"]="Biri bana yardım etmeye geldiği için atalarıma şükrediyorum. Beni özgür bırakacak anahtar sende mi?",
+    ["Completion"]="<name>, beni büyük bir onursuzluktan kurtardın. Elimde olsaydı, sana kabilem arasında bir yer teklif ederdim. Ama şimdilik, sana sadece gösterdiğin cesaret ve asalet için bu simgeyi sunabilirim.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Message in a Bottle
+
+    -- Dressing the Part
+    ["9272"] = {
+    ["Title"]="Rolüne Bürünmek",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="",
+    ["Completion"]="Yarrr... eğer biz tecrübeli deniz kurtlarının arkadaşlığından hoşlanmaya hevesliysen, bir çapulcu gibi giyinmeyi bıraksan iyi edersin! Al, derini omurga altından çekmeden önce düzgün bir şeyler giy.\n\nBunlar sana, o eski köpek Kızıl Gözlü Ben'e uyduğundan daha iyi uyacak. Onu denizde bir şeytan fırtınasında kaybettik.\n\nOnları gururla giy, ahbap!",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Dressing the Part
+    -- The Mind's Eye
+    ["591"] = {
+    ["Title"]="Zihin Gözü",
+    ["Description"]="Zihin Gözü (Mind's Eye), buradan doğuda ve Mosh'Ogg ogre höyüğünün derinliklerinde bulunan bir ogre büyücüsünün elinde. Adı Mai'Zoth. Onu Karanlıkkökenliler (Darkspears) Stranglethorn'da yaşarken tanırım - gaddardır ve büyüsü güçlüdür.\n\nEğer Zihin Gözü'ne sahipse, büyüsü daha da güçlü olacaktır.\n\nMai'Zoth ile yüzleşmeli ve Zihin Gözü'nü ondan zorla almalısın. Tehlikeli bir görev ama Yenniku'yu kurtarmak için elimizdeki tek umut bu.",
+    ["Objectives"]="Zihin Gözü'nü Grom'gol Üs Kampı'ndaki Kin'weelay'e getir.",
+    ["Progress"]="Selamlar, <name>. Ruhlar cesaretini övgüyle şarkı söylüyor ama Mai'Zoth'a karşı olan görevine dair hiçbir hikaye anlatmıyorlar.\n\nGöz yanında mı?",
+    ["Completion"]="Gözü geri aldın! Gücün efsanelere konu olacak cinsten, <name>!\n\nVe Göz'ü alırken, Mai'Zoth'u yenmiş ve onu Nether'a göndermiş olmalısın. Ruhların ondan daha önce bahsetmemesinin sebebi bu.\n\nEt ve kemik dünyasından gitmiş olması iyi ama şimdi ruhlar aleminde olduğuna göre... yeni bir hükümdarlık başlatacağından korkuyorum.\n\nAma bu başka bir zamanın endişesi. Şimdi, Zihin Gözü'nü ihtiyaçlarımıza göre bükmek için bir ritüel gerçekleştirmeliyim...",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end The Mind's Eye
+
+-- Tiger Mastery
+    ["185"] = {
+    ["Title"]="Kaplan Ustalığı",
+    ["Description"]="Daha küçük bir kızken, babam beni kaplan avlama sanatında eğitmişti.\n\nGenç kedileri izlemenin ve öldürmenin çok daha kolay olduğunu göreceksin. Bu sebeple işe kolaydan başlayacağız. Genç kaplanları genellikle keşif kampının yakınlarında bulabilirsin.\n\nİz sürme yeteneklerini test et ve bakalım bu canavarlardan bazılarını avlayabilecek misin.",
+    ["Objectives"]="Nesingwary Keşif Heyeti'nden Ajeck Rouack, 10 Genç Stranglethorn Kaplanı (Young Stranglethorn Tigers) öldürmeni istiyor.",
+    ["Progress"]="Kaplanların en gençlerini öldürme konusunda yetenekli olduğunu kanıtlayana kadar seni daha fazla eğitme konusunda kendime güvenmiyorum, <name>.",
+    ["Completion"]="Güzel iş çıkardın, <name>. Artık devam etmeye hazırsın.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Tiger Mastery
+
+-- Headhunting
+    ["582"] = {
+    ["Title"]="Kelle Avcılığı",
+    ["Description"]="Yenniku'nun ölüp ölmediğini bulmalıyız.\n\nKanlısaç (Bloodscalp) Kelle Avcılarını öldür ve onlardan Küçültülmüş Kafalarını (Shrunken Heads) al. Çok, çok sayıda kafa toplamalısın ve Yenniku'nun kafasının onların arasında olmadığından emin olmak için hepsini inceleyeceğim.\n\nEğer Yenniku, Kanlısaçlar tarafından öldürüldüyse, şefleri Gan'zulah'ın ruhuna 600 yıllık bir lanet düşsün!\n\nGit, <name>. Kuzeye, kıyı boyunca Zuuldaia ve Zul'Kunda harabelerinde birçok Kelle Avcısı bulabilirsin.",
+    ["Objectives"]="20 Küçültülmüş Kafa'yı Grom'gol Üs Kampı'ndaki Nimboya'ya getir.",
+    ["Progress"]="<name>. Şefimizin oğlu için korkuyorum. Küçültülmüş kafalar yanında mı, böylece onları inceleyebilirim?",
+    ["Completion"]="Teşekkürler, <name>. Zavallı Yenniku'nun kelle avcısının baltasından kurtulduğundan emin olmak için bu kafaları inceleyeceğim.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Headhunting
+
+-- Mok'thardin's Enchantment
+    ["570"] = {
+    ["Title"]="Mok'thardin'in Büyüsü",
+    ["Description"]="Ormanın büyüsünün gücü fark edilmeli ve ardından Horde tarafından dizginlenmelidir. Ritüellerim şimdiye kadar başarılı oldu. Çok güçlü büyüler yapabilirim. Senin için, cesur <class>, gerçekten özel bir eşya yapacağım.\n\nBana bazı Gölgeağız (Shadowmaw) Panter pençeleri ile bir Dişi Kaplan dişi getir. Herhangi bir diş işe yaramaz. Kusursuz durumda olmalı.\n\nCanavarlar ormanda kol geziyor ama güneydoğudaki Mizjah Harabeleri'nin nehrin hemen karşısında yakınlarda bazılarını bulabilirsin.",
+    ["Objectives"]="Grom'gol üs kampındaki Uzgören Mok'thardin (Far Seer Mok'thardin), 8 Gölgeağız Pençesi ve bir Kusursuz Dişi Kaplan Dişi (Pristine Tigress Fang) istiyor.",
+    ["Progress"]="Ne haber getiriyorsun?",
+    ["Completion"]="Orman bilgin güçlü, <name>. Bu örnekler mükemmel olacak. Horde davası uğruna bu kadar güzel canavarları kurban ettikleri için ruhlara teşekkür edeceğim.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Mok'thardin's Enchantment
+
+-- Bloodscalp Clan Heads
+    ["584"] = {
+    ["Title"]="Kanlısaç Klanı Kafaları",
+    ["Description"]="Yenniku kafaların arasında değildi, bunun için Ulu Yılan'a (Great Serpent) şükrediyorum. Ama onu bulmaya hiç daha yakın değiliz.\n\nGerçeği bilmeliyiz ve korkarım ki bunu sadece Kanlısaç şefi ve cadı doktoru biliyor. Onlar Karanlıkköken kabilesinin düşmanlarıdır ve özgürce konuşmayacaklardır, bu yüzden gerçeği onların ölü dudaklarından zorla almalıyız!\n\nBana Gan'zulah ve Dire Nezzliok'un kafalarını getir ve onları bu kazanın içine yerleştir.\n\nZul'Kunda'nın derinliklerindeler. Kafalarını getir... o zaman onları konuşturacağız.",
+    ["Objectives"]="Gan'zulah'ın Kafası ve Nezzliok'un Kafası'nı Grom'gol Üs Kampı'ndaki kaynayan kazana getir.",
+    ["Progress"]="Kazanın içindeki yeşilimsi et suyu kaynıyor.",
+    ["Completion"]="Gan'zulah ve Nezzliok'un kafalarını kazanın içine yerleştiriyorsun...",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Bloodscalp Clan Heads
+
+-- Tiger Mastery
+    ["186"] = {
+    ["Title"]="Kaplan Ustalığı",
+    ["Description"]="Öğreniyorsun, <class>. Şimdi yetişkin kedilerle yeteneklerini test edelim. Bu sefer 10 Stranglethorn Kaplanı (Stranglethorn Tigers) öldür.",
+    ["Objectives"]="Nesingwary Keşif Heyeti'nden Ajeck Rouack, 10 Stranglethorn Kaplanı öldürmeni istiyor.",
+    ["Progress"]="Daha büyük zorluklar için çabalıyorsan, önce elindeki görevle kendini kanıtlamalısın. 10 Stranglethorn Kaplanı öldürdükten sonra bana dön.",
+    ["Completion"]="Etkilendim, <class>. Oldukça iyi ilerliyorsun.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Tiger Mastery
+
+-- To Survive in the Jungle
+    ["42041"] = {
+    ["Title"]="Ormanda Hayatta Kalmak",
+    ["Description"]="Beni dinle evlat. İtiraf etmekten nefret ediyorum ama buraya saplanıp kaldık. Kurzen kampındaki o kaçıklar, dağların yukarısındaki İttifak kampına baskın yapmanın yeterli olmadığını düşünüp bir de bize ziyarete gelmeye karar verdiler. Timsahlar, kaplanlar, panterler, raptorlar ve trollerle uğraşmaktan zaten başımız yeterince dertte - bir de bu deliler başımıza bela oldu. Neyse ki onları kolayca püskürtebildik ama erzaklarımızın ve ekipmanlarımızın çoğunu alıp gittiler.\n\nKafan yerinde çalışıyor gibi görünüyorsun. Sana bir anlaşma teklif ediyorum: Kampımız için biraz erzak sağla ve sana vahşi doğada hayatta kalma konusunda gerçek, sulu sırları göstereyim. Ne dersin?",
+    ["Objectives"]="Stranglethorn Vadisi'ndeki (Stranglethorn Vale) Nesingwary Kampı'nda Rufus Hardwick'e hayatta kalma erzakları sağlayarak yardım et.",
+    ["Progress"]="Ohoho! Seni hafife almışım, <class>. O asma kesiciler havayı bile kesebilir; ve bu kumanyalar hem doyurucu hem de lezzetli! Tam anlamıyla etkilendim, bunlarla beni neredeyse şaşkına çevirdin. Söz verdiğim gibi, sana bazı ipuçları ve püf noktaları öğreteceğim - vahşi doğada hayal edilebilecek en düşmanca yerlerde bile hayatta kalmana yardımcı olacak numaralar.",
+    ["Completion"]="Etrafta dolanmayı bırak! Kaybedecek vakit yok, genç arkadaşım.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end To Survive in the Jungle
+
+-- Fool's Stout
+    ["1127"] = {
+    ["Title"]="Aptal Bira (Fool's Stout)",
+    ["Description"]="Demek biraz Aptal Bira istiyorsun, ha? Yarışlara geri dönmeyi mi düşünüyorsun...?\n\nPekala, bana daha fazla Zanzil karışımı getir, ben de sana daha fazla bira yapayım.",
+    ["Objectives"]="Ganimet Koyu'ndaki (Booty Bay) Crank Fizzlebub'a 12 adet Zanzil Karışımı getir.",
+    ["Progress"]="Zanzil karışımları yanında mı, <name>?",
+    ["Completion"]="Ah, çok iyi! İşte ödemen.\n\nVe işte fazladan küçük bir şey... takdirin için.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Fool's Stout
+
+-- The Captain's Cutlass
+    ["8553"] = {
+    ["Title"]="Kaptanın Palası",
+    ["Description"]="O devlere ilk gemimi kaybettikten sonra bir tane daha aldım. Smotts'un İntikamı adını verdim, erzak ve mürettebatla doldurdum ve suçluları bulmak için yola çıktım. Onları buldum ama... beni yendiler. Smotts'un İntikamı'nı parçaladılar, ikinci mürettebatımı öldürdüler ve beni başka bir filikaya bindirdiler.\n\nBu sefer devlerden bir diğeri, Negolash, palamı çaldı.\n\nNegolash'la yüzleş ve palamı bana getir!\n\nSprogger ile konuş. Smotts'un İntikamı'ndaki aşçım oydu ve son saldırıdan sağ kurtuldu. Devi bulmana yardım edebilir.",
+    ["Objectives"]="Sprogger ile konuş.",
+    ["Progress"]="",
+    ["Completion"]="Merhaba merhaba, <name>. Kaptan, Negolash'ın peşinden gideceğini söyledi, ha?",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end The Captain's Cutlass
+
+-- The Defense of Grom'gol
+    ["569"] = {
+    ["Title"]="Grom'gol'un Savunması",
+    ["Description"]="Bu ormana ilk geldiğimizde yerel kabilelerle savaşa girmeye niyetimiz yoktu. Stonard'a ikmal sağlama görevimiz en yüksek öncelikte. Ancak komplikasyonlar ortaya çıktı. Yerel bir ogre grubu, Grom'gol'un güneydoğusundaki Mizjah Harabeleri'ni işgal etti. Uyarılarımıza rağmen ikmal karavanlarımıza pusu kurmaya devam ediyorlar.\n\nSeni bu iş birliği yapmayan ogrelerle ilgilenmekten sorumlu tutuyorum.\n\nHarabelere git ve onları bölgeden sürmeye çalış. En azından bu onlara kesin bir mesaj gönderecektir.",
+    ["Objectives"]="Grom'gol üs kampındaki Komutan Aggro'gosh, 10 Ogre Zorbası (Ogre Brutes) ve 5 Ogre Cadı Doktoru (Ogre Witch Doctors) öldürmeni istiyor.",
+    ["Progress"]="Mizjah Harabeleri'ndeki ogrelerle herhangi bir ilerleme kaydettin mi, <class>?",
+    ["Completion"]="İyi iş çıkardın. Savaş Şefi'ne onurla hizmet ettin.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end The Defense of Grom'gol
+
+-- Cortello's Riddle
+    ["624"] = {
+    ["Title"]="Cortello'nun Bilmecesi",
+    ["Description"]="Süslü, çok seyahat edilmiş bir köprü var\nÖlü Rüzgar'ın doğusunda ve Kırmızısırt'ın güneyinde\nAltında bir şey seni bekliyor\nKimisi ipucu der, kimisi işaret\nSonsuz yarınlar için orada yatacak\nZamanını bekliyor Keder Bataklığı'nda",
+    ["Objectives"]="Bilmeceyi çöz!",
+    ["Progress"]="",
+    ["Completion"]="Islak parşömen bir sonraki ipucunu içeriyor....",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Cortello's Riddle
+
+-- Report to Doren
+    ["331"] = {
+    ["Title"]="Doren'e Rapor Et",
+    ["Description"]="Teğmen Doren, o devriye bilgisiyle ona rapor vermeni istedi mi?",
+    ["Objectives"]="Teğmen Doren ile konuş.",
+    ["Progress"]="",
+    ["Completion"]="Bize ihanet edenin Merle olduğunu öğrenmek beni yaraladı. O her zaman cesur bir askerdi ve kalbinin temiz olduğunu düşünmüştüm. Ama onu bulmuş olmak büyük bir rahatlama - aramızda onun gibi bir casus varken... Albay Kurzen'e karşı uzun süre dayanamazdık.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Report to Doren
+
+-- Avast Ye, Scallywag
+    ["1036"] = {
+    ["Title"]="Kahrol, Çapulcu!",
+    ["Description"]="<name>... evet, adını duydum. Ganimet Koyu'nun (Booty Bay) dostu olmadığını duydum - tıpkı biz Kanlıyel Korsanları (Bloodsail Buccaneers) gibi. Filo Komutanı Firallon, özel bir görev için tıpkı senin gibi sağlam ve yürekli adamlar arıyor.\n\nEğer ilgileniyorsan, Crimson Veil'e doğru git ve güverte altında onunla konuş. Gemi buradan doğuda, Vahşi Kıyı'nın (Wild Coast) açıklarında, Riptide ve Damsel's Luck'ın yanında demirli.",
+    ["Objectives"]="Stranglethorn Vadisi açıklarındaki Crimson Vale gemisinde Filo Komutanı Firallon ile konuş.",
+    ["Progress"]="",
+    ["Completion"]="Kahrol, çapulcu. Biraz düzenbazlık yapacak türden biri olduğunu duydum. Pekala, eğer Ganimet Koyu'nun dostu değilsen, Kanlıyel Korsanları'nın arasında özel bir yerin olabilir.\n\nArrrrr...",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Avast Ye, Scallywag
+
+-- Facing Negolash
+    ["618"] = {
+    ["Title"]="Negolash ile Yüzleşmek",
+    ["Description"]="Negolash aç bir dev.\n\nDevler gemimizi yok ettiğinde, Negolash doğrudan mutfağıma yöneldi. Diğer devler gibi mürettebata aç değildi. Negolash şarap istedi... ve benim Barbekü Buzzard Kanatları'mı. Onlar benim spesyalim ve tarif için Badlands'e kadar gitmek zorunda kaldım!\n\nEğer devi kandırmak istiyorsan, biraz şarap ve bir yığın buzzard kanadı al. Onları buradan güneydoğudaki kıyı boyunca eski filikamıza koy. Negolash o yemeğin kokusunu aldığında, kesinlikle gelecektir!",
+    ["Objectives"]="Kaptan Smotts'un Filikası'na 10 Barbekü Buzzard Kanadı ve 5 şişe Ormanasması Şarabı (Junglevine Wine) getir.\n\nNegolash'ı öldür ve Smotts'un Palası'nı Stranglethorn'daki Kaptan Smotts'a getir.",
+    ["Progress"]="Palamı aldın mı, <name>?",
+    ["Completion"]="Palamı Negolash'tan aldın! Şansıma inanamıyorum, <name>! Seninle tanışmak şansımı iyiye çevirdi, buna şüphe yok!\n\nTeşekkür ederim! Ve eğer bir gün yeni bir gemi alırsam ve denizlere yelken açmak istersen, onurlu misafirim olursun.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Facing Negolash
+
+-- Panther Mastery
+    ["191"] = {
+    ["Title"]="Panter Ustalığı",
+    ["Description"]="Şimdi işleri bir üst seviyeye çıkarmaya hazırsın. Eğer bu büyük avcılarla sosyalleşmeye layık olduğunu kanıtlamak istiyorsan, 10 panter öldürebileceğini kanıtlaman gerekecek.\n\nO büyük çocuklar daha sert. Daha önce öldürdüğün genç panterler kadar kolay değiller.",
+    ["Objectives"]="Nesingwary Keşif Heyeti'nden Sir S. J. Erlgadin, 10 Panter öldürmeni istiyor.",
+    ["Progress"]="Git 10 panter öldür! Bize neyin var neyin yok göster!",
+    ["Completion"]="Kusursuz uygulandı, <name>!",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Panther Mastery
+
+-- The Vile Reef
+    ["629"] = {
+    ["Title"]="Kötü Resif (Vile Reef)",
+    ["Description"]="Uzun zaman önce, büyük bir yer sarsıntısı kuzeybatıdaki Vahşi Sahil'in suları altında eski bir trol şehrini batırdı. Oraya Kötü Resif diyoruz, çünkü murloclar artık şehrin harabelerinde yaşıyor ve yaklaşan herkese saldırıyorlar.\n\nO harabelerin arasında, trol efsanelerinin bir kahramanı olan Gri'lek'in kadim hikayesini anlatan eski bir tablet var. Hikaye Karanlıkköken kabilesi için kutsaldır ve tablet taşınamayacak kadar büyük olsa da, Orgrimmar'daki yeni evimizde onurlandırmak için ondan bir parça istiyorum.",
+    ["Objectives"]="Grom'gol Üs Kampı'ndaki Kin'weelay'e bir Tablet Parçası (Tablet Shard) getir.",
+    ["Progress"]="Tablet Parçasını bekliyorum, <name>.",
+    ["Completion"]="Bu iyi. Orgrimmar'a döndüğümde bu parçayı kutsal bir yere yerleştireceğim. Bize Gri'lek'in gücünü ve onurunu hatırlatacak.\n\nTeşekkürler, <name>. Yaptıkların Karanlıkköken kabilesiyle büyüyen bir dostluğu işaret ediyor.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end The Vile Reef
+
+-- Cracking Maury's Foot
+    ["613"] = {
+    ["Title"]="Maury'nin Ayağını Kırmak",
+    ["Description"]="Lanet olsun! O herif Maury, ayağına bir kilit takmış ve açamıyorum! Ganimeti ayağının içinde ve bana borçlu olduğu şey bu!\n\nKilidi açacak anahtarı bulmamız lazım. Maury'nin kuzeydoğudaki höyüklerinde Mosh'Ogg ogreleriyle kumar oynadığı biliniyordu. Ve bana, daha hayattayken, höyüğe son gidişinde çok fazla kazandıktan sonra kovalandığını söylemişti. Belki oradaki Ogrelerde anahtarı vardır.\n\nAma eğer onlardaysa, doğru olanı bulmak için bir sürülerini öldürmen gerekebilir...",
+    ["Objectives"]="Ganimet Koyu'ndaki (Booty Bay) \"Deniz Kurdu\" Mackinley'ye Maury'nin Anahtarı'nı getir.",
+    ["Progress"]="Ahoy, <name>! Maury'nin Anahtarı'nı buldun mu?",
+    ["Completion"]="Onu buldun! Milyon kere teşekkürler, <name>. Bana çok büyük yardımın dokundu!\n\nİşte al - bunu hak ettin!",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Cracking Maury's Foot
+-- Traitor to the Bloodsail
+    ["9259"] = {
+    ["Title"]="Kanlıyel'e İhanet",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="O uyuz köpek Revilgaz, kaptanlarına karşı gelecek herhangi bir eski Kanlıyel (Bloodsail) korsanını affedeceğini söyledi! O sintine emici, eski arkadaşlarımı haklamamı ve kanıt olarak bandanalarını getirmemi istedi.\n\nBunu yapmaya kalbim el vermiyor, senden de bunu istemeyeceğim. Bana biraz ipek kumaş ve kırmızı boya getir, sana uygun kopyalarını yapayım. Baron'a taraf değiştirdiğini söyleyeceğim ama uyarayım... Kanlıyel korsanları bundan hiç hoşlanmayacak!",
+    ["Completion"]="Düşen arkadaşlarımız için bir dakikalık saygı duruşunda bulunalım, <name>.\n\n<Kanlıyel Haini sana sırıtıp göz kırpıyor.>\n\nHain olmak başka bir şeydir, kendi tayfanı öldürmek... işte o düpedüz aşağılıkça, evet!",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Traitor to the Bloodsail
+
+    -- Tiger Mastery
+    ["187"] = {
+    ["Title"]="Kaplan Ustalığı",
+    ["Description"]="Şimdi işi biraz daha kızıştıracağım ve yeteneklerini gerçekten test edeceğim. 10 Yaşlı Stranglethorn Kaplanı (Elder Stranglethorn Tigers) öldürebileceğini kanıtla. Eğer bunu yapabilirsen, Usta Nesingwary'nin huzurunda seni usta kaplan avcısı ilan etmeden önceki son görevine hazır olacaksın.\n\nYaşlı Stranglethorn Kaplanları sadece bulunması en zor olanlar değil, aynı zamanda yenilmesi en vahşi olanlardır.",
+    ["Objectives"]="Nesingwary Keşif Heyeti'nden Ajeck Rouack, 10 Yaşlı Stranglethorn Kaplanı öldürmeni istiyor.",
+    ["Progress"]="Gerçek bir kaplan avcısı ustası olup olmadığını belirleyecek son görevi vermeden önce 10 Yaşlı Stranglethorn Kaplanı öldürmen gerekiyor.",
+    ["Completion"]="Çok etkileyici. Sanırım neredeyse hazırsın.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Tiger Mastery
+
+    -- The Heart of Hakkar
+    ["8183"] = {
+    ["Title"]="Hakkar'ın Kalbi",
+    ["Description"]="Hakkar'ın Kalbi içeriden yanıyor. Ruhyiyen (Soulflayer) yenilmiş olsa da, gücünün özü hala bu lanetli organda kalmaya devam ediyor.",
+    ["Objectives"]="Hakkar'ın Kalbi'ni Yojamba Adası'ndaki Molthor'a getir.",
+    ["Progress"]="<name>, etrafını kötü bir ruhun kokusu sarmış. Ruhyiyen tarafından lanetlendin mi?",
+    ["Completion"]="Ah, Hakkar'ın Kalbi. Demek Ruhyiyen katledildi! Dünyamız kurtuldu!\n\n<name>, bize yaptığın hizmetin tarifi yok. Sen gerçekten bu diyarın bir kahramanısın!",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end The Heart of Hakkar
+
+    -- Filling the Soul Gem
+    ["593"] = {
+    ["Title"]="Ruh Taşını Doldurmak",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Yenniku önünde sersemlemiş bir halde duruyor, zihni başka bir yerde...",
+    ["Completion"]="Ruh Taşı'nı alnına yerleştiriyorsun. Ruhu içine çekilirken sarsılıyor, geride akılsız bir kabuk, yani bedenini bırakıyor.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Filling the Soul Gem
+
+    -- Cortello's Riddle
+    ["625"] = {
+    ["Title"]="Cortello'nun Bilmecesi",
+    ["Description"]="Kalimdor'da uzak bir diyar bekler\nTehlikenin umutları ve kaderleri parçaladığı yerde\nBarrens'ın doğusunda hava serttir\nTozbatak Bataklığı'nda (Dustwallow Marsh) kasvet ve tehlike cirit atar\nAma orada bir ipucu yatar sınavı geçenlere\nGüneybatıdaki bir mağarada bulunmayı bekler",
+    ["Objectives"]="Bilmeceyi çöz!",
+    ["Progress"]="",
+    ["Completion"]="Küflü bir parşömen buluyorsun.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Cortello's Riddle
+
+    -- Chapter II
+    ["340"] = {
+    ["Title"]="Bölüm II",
+    ["Description"]="Bölüm II, panter ve kaplan avcılığına dair heyecan verici hikayelerle doluydu. Sayfaların uçup gitmesine izin verdiğim için kendime kızıyorum!\n\n10, 11, 14 ve 16. sayfalar hariç tüm sayfaları kurtarmayı başardım.",
+    ["Objectives"]="Bölüm II'yi tamamlamak için Barnil Taşçömlek'e (Barnil Stonepot) Stranglethorn'un Yeşil Tepeleri kitabından 10, 11, 14 ve 16. sayfaları getir.",
+    ["Progress"]="Bölüm II'yi tamamlamak için hala 10, 11, 14 ve 16. sayfalara ihtiyacımız var, <name>.",
+    ["Completion"]="Bölüm II nihayet tamamlandı! İyi iş!",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Chapter II
+
+    -- Stranglethorn Fever
+    ["349"] = {
+    ["Title"]="Stranglethorn Ateşi",
+    ["Description"]="geçici metin 02 - açıklama",
+    ["Objectives"]="geçici metin 02 - günlük",
+    ["Progress"]="Cadı Doktor Unbagwa Vahşi Mokk'un neyi sevdiğini bilir. Evet, evet!\n\nBen ruhlarla konuşurum ve onun gelmesini sağlarım.\n\nAma diğer Goril-canavar da ruhların konuşmasından hoşlanmıyor. Sen Cadı Doktor Unbagwa'yı koru, ben de onun sana gelmesini sağlayayım.\n\nCadı Doktor Unbagwa önce bir şey istiyor. Bir Goril Dişi (Gorilla Fang) getir, ben de ruhlarla konuşmaya başlayayım!",
+    ["Completion"]="Cadı Doktor Unbagwa Goril Dişleri'ni sever! Senin için ruhlarla konuşacağım. Vahşi Mokk'un gelmesini sağlayacağım.\n\nSen Cadı Doktor Unbagwa'yı diğer Goril-canavarlardan koru, yoksa Mokk sana gelmez!",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Stranglethorn Fever
+
+    -- Mok'thardin's Enchantment
+    ["573"] = {
+    ["Title"]="Mok'thardin'in Büyüsü",
+    ["Description"]="Büyüyü tamamlamak için gereken tek bir son reaktif kaldı.\n\nGüneyde, batı kıyısına doğru, sarp kayalıkların yükseğinde Kutsal Bir Pınar (Holy Spring) bulunur. Bu pınar, dini ve mistik akademisyenler arasında büyük bir çatışmanın konusudur. Azeroth'taki her ırk, pınar sularının kendi halkları için ilahi kılındığını iddia eder.\n\nSenden son isteğim: Bana Kutsal Pınar Suyu getir. Uyarayım, bir naga kaşifleri keşif heyeti pınara ilerledi. Onlarla da ilgilenilmesi gerekecek.",
+    ["Objectives"]="Grom'gol'dan Uzgören Mok'thardin, Kutsal Pınar Suyu istiyor. Ayrıca 10 Naga Kaşifi (Naga Explorers) öldürmeni istiyor.",
+    ["Progress"]="Büyüyü tamamlamaya neredeyse hazırım. Emirlerimi yerine getirdin mi?",
+    ["Completion"]="Bu Kutsal Pınar Suyu ile törensel gerdanlık büyülenmeye hazır.\n\nBunu gururla tak, <name>, Savaş Şefi adına ve kudretli Horde'un savunmasında.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Mok'thardin's Enchantment
+
+    -- "Pretty Boy" Duncan
+    ["610"] = {
+    ["Title"]="\"Süslü\" Duncan",
+    ["Description"]="BABAM mı gönderdi seni? O ihtiyar bunağın artık benden umudunu kestiğini sanıyordum.\n\nKaçıp gitmem aslında onun suçu değildi, sadece küflü kitapları okuyarak ve gri saçlı, dik başlı, sıkıcı büyücülerle takılarak sıkıcı bir hayat sürmeye istekli olacağımı beklememeliydi!\n\nEğer hançerimi istiyorsan, onu Kanlıyel korsanlarından biri olan \"Süslü\" (Pretty Boy) Duncan'dan geri almalısın. Omuzlarının arasına bir şey yerleştirirsen, eminim onu verecektir.",
+    ["Objectives"]="Catelyn'in hançerini \"Süslü\" Duncan'dan al.",
+    ["Progress"]="Daha önce hiç yenilmemiştim biliyor musun, <name>? Elbette kesilmiştim, bıçak dövüşüne girip de kesilmemek olmaz, ama o sadece kafamın yan tarafına çarptı, bayılttı. Kendime geldiğimde bıçağım gitmişti.\n\nLakabım ne kadar öyle gösterse de, savaşmak için hala bir bıçağa ihtiyacım var ve benim için o olması gerekiyor.",
+    ["Completion"]="Duncan'ı yendin mi? Sanırım ilk bakışta göründüğün kadar toy değilsin.\n\nSanırım bu, seni yakın zamanda bir dövüşe davet etmemem gerektiği anlamına geliyor!",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end "Pretty Boy" Duncan
+
+    -- Mok'thardin's Enchantment
+    ["571"] = {
+    ["Title"]="Mok'thardin'in Büyüsü",
+    ["Description"]="Şimdi senden istediklerimi elde etmek çok zor olacak.\n\nTüm bu tüyleri, pençeleri ve kusursuz dişi yerinde tutmak için büyülü bir bağa ihtiyacım var. Sadece yaşlı bir goril kirişi (gorilla sinew) işe yarayacaktır.\n\nBunu sadece bir Yaşlı Sislivadi Gorili'nde (Elder Mistvale Gorilla) bulabilirsin. Onların Ganimet Koyu'nun (Booty Bay) doğusunda beslendikleri bilinir.\n\nKiriş kusursuz olmalı. Tam olarak ihtiyacım olanı bulman için birkaç tane öldürmen gerekebilir ama avlanmaya kesinlikle değecektir.",
+    ["Objectives"]="Grom'gol'daki Uzgören Mok'thardin'e Yaşlı Bir Goril Kirişi getir.",
+    ["Progress"]="Şans senden yana mıydı, <name>? Yaşlı bir goril kirişi elde edebildin mi?",
+    ["Completion"]="En ideal kiriş, <name>. Çabaların yakında karşılığını verecek.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Mok'thardin's Enchantment
+
+    -- Chapter IV
+    ["342"] = {
+    ["Title"]="Bölüm IV",
+    ["Description"]="Ah Bölüm IV; büyük final! Ve ne sondu ama!\n\nBu bölüm için sadece üç sayfa eksik. Bölüm IV'ü tekrar bir araya getirmek için 25, 26 ve 27. sayfalara ihtiyacımız var.",
+    ["Objectives"]="Bölüm IV'ü tamamlamak için Barnil Taşçömlek'e Stranglethorn'un Yeşil Tepeleri kitabından 25, 26 ve 27. sayfaları getir.",
+    ["Progress"]="Bölüm IV'ü bitirmek için sadece üç sayfaya ihtiyacımız var, <name>. 25, 26 veya 27. sayfalar yanında mı?",
+    ["Completion"]="Harika! Artık Bölüm IV'ü başlatmaya hazırız!",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Chapter IV
+
+    -- Split Bone Necklace
+    ["598"] = {
+    ["Title"]="Kırık Kemik Kolye",
+    ["Description"]="Kanlısaç ganimetlerini topladığına göre, senin için başka bir görevim var. Kafatasıyaran (Skullsplitter) trol kabilesi güneydoğuda yaşıyor ve yıllardır onlarla savaşıyoruz. Karanlıkkökenliler (Darkspears) artık Stranglethorn'da yaşamasalar da, Kafatasıyaranlar ile olan çatışmamıza bağlıyız.\n\nÖyleyse, onları avla. Kırık Kemik Kolyelerini (Split Bone Necklaces) topla ve bana dön. Savaşımızda bize yardım et, Karanlıkkökenliler'in dostluğunu kazanırsın.",
+    ["Objectives"]="Grom'gol Üs Kampı'ndaki Kin'weelay'e 25 Kırık Kemik Kolye getir.",
+    ["Progress"]="Kafatasıyaranlar bizi savaşa sürükledikleri günü lanetleyecekler! Görevin tamamlandı mı?",
+    ["Completion"]="Bu kolyeleri kazanmış olman büyük bir güç, <name>. Kafatasıyaranlar, bir Bazilisk tarafından toprağa basılmış genç fidanlar gibi senin önünde düşüyorlar!\n\nYaptıkların bizim için bir lütuftur.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Split Bone Necklace
+    -- All That Is Left
+    -- Etched Toy Sword -> Kazınmış Oyuncak Kılıç (Etched -> Kazınmış, Toy -> Oyuncak, Sword -> Kılıç).
+    -- Sir Tim- -> Sör Tim- (Sör unvanı korunmuştur, Tim- ismi kısaltma olarak bırakılmıştır).
+    -- Judith -> Judith kalmıştır (Özel isim).
+    -- Timothy -> Timothy kalmıştır (Özel isim).
+    -- Light -> Işık (Oyun içi kutsal inanç terimi).
+    ["41840"] = { -- Quest ID varsayılan olarak yerleştirilmiştir.
+    ["Title"]="Geriye Kalan Her Şey",
+    ["Description"]="<Canavarın geride bıraktığı birikintinin içinde, ağır hasar görmüş ahşap bir kılıç buluyorsun. Boyutu çok küçük ve jölenin asidi yüzeyinin çoğunu aşındırmış. Yine de oyuncağın kabzasındaki \"Sör Tim-\" kelimelerini çözebiliyorsun. Belki de kime ait olduğunu bilmek için bu kadarı yeterlidir.>",
+    ["Objectives"]="Ahşap oyuncak kılıcı, sahibini tanıyan birine götür. Her şeyin başladığı Kuzeyrüzgarı'nda (Northwind) şanslı olabilirsin.",
+    ["Progress"]="<Judith hala hıçkıra hıçkıra ağlıyor.>\n\nAh, Sara, benim güzel meleğim... Işık adına, lütfen Timothy'min güvende olmasına izin ver...!",
+    ["Completion"]="Ne...? Bu da ne? Bunu nereden...?! Hayır, hayır, hayır! Timothy! Benim küçük Timmy'm, hayır! Ah, Işık, beni neden terk ettin?! O daha bir çocuktu, benim tatlı, masum çocuğum!",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end All That Is Left
+--123456
 
 };
-

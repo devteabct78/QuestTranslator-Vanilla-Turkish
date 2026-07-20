@@ -659,5 +659,9 @@ QuestTranslator_BookData = {
     ["Bloodsail Orders"] = {
         ["Title"] = "Kanlıyel Emirleri",
         ["Text"] = "Bu sözlere çok dikkat edin dostlarım, çünkü Ganimet Koyu için tek bir şansımız var. İhtiyar Dunken'ı kuzeye gözcülük etmeye gönderdim ve ona işareti beklemesini söyledim. Genç Kızın Şansı, erzak ikmali amacıyla güney burnunun açıklarında demir atacak. Kısa boylu Kaptan Durgunsu, mürettebatını yağmalanan tüm ganimetleri çekmeye hazırlayacak. O kalın kafalı Brutus'un işlerin başında olacağından eminim.NEW_LINEKaptan Karaturna'nın Anafor'u güneydoğudan kıyıya yanaştırmasını istiyorum. İşaret verildiğinde onun mürettebatını yürüyerek içeri göndereceğiz. O kaba herif Tuztoynak, adamları kılıç sallayarak içeri dalar. Revilgaz ve Denizboynuzu'nun üzerine kara leke sürülmesini istiyorum. İsterlerse denizin en dibine boylasınlar, umurumda bile değil. Siz millet, Ölümadenleri'nde VanCleef ile yürüttüğümüz küçük projemiz için yararlı olabilecek her şeyi kurtarmaktan sorumlusunuz.NEW_LINEDemiryama'ya topları ateşlemesi emrini ben vereceğim. Topçu barajı, herhangi bir Karasu gemisinin limandan ayrılmasını veya limana girmesini engelleyecek. Kızıl Peçe toplarını boşalttıktan sonra, destek için onu Anafor'un yanına çekeceğim ve gerektiğinde takviye sağlayacağım. Tuztoynak ve çocukları kasabayı ateşe verdikten ve herkes güverteye çıktıktan sonra, yelken açacağız ve her ihtimale karşı Vahşi Kıyı'dan Koya bir kez daha top atışı yapacağız.NEW_LINE--Filo Reisi Firallon"
+    },
+    ["Biggs Report"] = {
+        ["Title"] = "Biggs'in Raporu",
+        ["Text"] = "Gözcü Paladin Janathos'a,NEW_LINENadas Sığınağı'nın Kayıp Olanları tarafından doğuya doğru ilerlerken ben ve birliğim saldırıya uğradık. Diğerlerinin pek çoğu öldürüldü ve erzaklarımız ele geçirildi. Kaçmayı başardım ve kendi kurduğum bir kampta zar zor hayatta kalmaya çalışıyorum. Biraz dinlenip kendime geldiğimde, yakında geri döneceğim."
     }
 }
