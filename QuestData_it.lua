@@ -50177,6 +50177,21 @@ QuestTranslator_QuestData = {
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end All That Is Left
+
+-- Alliance Trauma
+    -- Dustwallow Marsh -> Tozbatak Bataklığı (ZoneData.lua)[cite: 2].
+    -- Theramore -> Theramore (ZoneData.lua)[cite: 2].
+    -- Doctor Gustaf VanHowzen -> Doktor Gustaf VanHowzen (MobNpcData.lua)[cite: 1].
+    -- Alliance Trauma -> İttifak Travması (Alliance -> İttifak, Trauma -> Travma).
+    ["6625"] = {
+    ["Title"]="İttifak Travması",
+    ["Description"]="Doktor <name>, sanırım. Sizi görmek bir zevk.\n\nSize harika haberlerim var! İttifak Travması'nın başhekimi Gustaf VanHowzen, Theramore'da kendisine katılmanız için kişisel bir istekte bulundu. Bu hayatınızın fırsatı olabilir! Büyük doktor Gustaf VanHowzen'in yanında çalışma şansı elde etmek için her şeyimi verirdim! Bu fırsatı boşa harcamayın, doktor![cite: 1, 2]",
+    ["Objectives"]="Tozbatak Bataklığı'ndaki Theramore'a git ve İttifak Travması'nın kadrosuna katılmak hakkında Doktor Gustaf VanHowzen ile konuş.[cite: 1, 2]",
+    ["Progress"]="",
+    ["Completion"]="Harika. Önlüklerinizi giyin, hemen başlıyoruz!",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Alliance Trauma
 --123456
 
     -- Shrillfluke's Early Retirement
