@@ -50179,4 +50179,1104 @@ QuestTranslator_QuestData = {
     }, -- end All That Is Left
 --123456
 
+    -- Shrillfluke's Early Retirement
+    ["41766"] = {
+    ["Title"]="Shrillfluke\'s Early Retirement",
+    ["Description"]="Goblins don\'t really work that well without someone calling the shots, it\'s been tried time and time again. Without someone to put the blame on, all they do is tear eachother apart. So naturally, all these goons must have someone to commandeer them around. Must\'ve been a hot shot from higher up in the Venture Co., considering the size of this sabotage. Not dissimilar to what happened on Blackstone Island, just much less subtle.\n\nReturn to the beach, find that weasel and bring them to justice. Nobody interferes with my business and gets away with it.",
+    ["Objectives"]="Find the leader of the Venture Co. intrusion and dispose of them. Bring Boss Slickwick at the Slickwick Oil Rig anything useful you find on them.",
+    ["Progress"]="My workers are starting to enjoy their time-off a little too much. Let\'s put an end to this and get back on our quota.",
+    ["Completion"]="Shrillfluke, eh? Certainly not the biggest fish, but his name was popping up occasionally in Undermine. From what I can read here, their genius plan was to overload the pump stations using some home cooked spell - which of course backfired, typical goblin fashion. Instead all it did was power up the oil itself, leaving us with these troublesome oil oozes sludging around. Annoying, to say the least. Well, let\'s put a bow on this thing, I don\'t wanna waste another minute thinking about the Mogul\'s cronies.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Shrillfluke's Early Retirement
+
+    -- The Path of the Conqueror
+    ["8752"] = {
+    ["Title"]="The Path of the Conqueror",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="",
+    ["Completion"]="",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end The Path of the Conqueror
+
+    -- Noggenfogger Elixir
+    ["2662"] = {
+    ["Title"]="Noggenfogger Elixir",
+    ["Description"]="Now, to mix this powder in with the dew.\n\nCome back and talk to me in a minute... after I have perfected the fabulous Noggenfogger Elixir!",
+    ["Objectives"]="Marin Noggenfogger wants you to speak to him again after he creates his elixir.",
+    ["Progress"]="",
+    ["Completion"]="Drink this! It\'s absolutely wonderful!!!\n\nI knew I had it in me... Oh thanks again, <name> for your help, but please, stand a little to the side, will you? You\'re blocking my business! I\'m going to make millions on the fabulous Noggenfogger Elixir, millions!\n\nWhat\'s that? Sprinkle says I owe her a favor? Oh, that Sprinkle, such a kidder!",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Noggenfogger Elixir
+
+    -- The Only Prescription
+    ["8620"] = {
+    ["Title"]="The Only Prescription",
+    ["Description"]="I should have known. My arch-enemy, Doctor Weavil, up to his old tricks! And now, thanks to your failure in Winterspring, Doctor Weavil has destroyed my book! How are you going to save the world now, hero?\n\nThe note I received stated that the only known copy of \"Draconic for Dummies: Volume II\" was ripped into 8 parts and scattered to the wind! If you somehow manage to find those missing chapters, use this magical binding to put them back together and return to me.",
+    ["Objectives"]="Recover the 8 lost chapters of Draconic for Dummies and combine them with the Magical Book Binding and return the completed book of Draconic for Dummies: Volume II to Narain Soothfancy in Tanaris.",
+    ["Progress"]="I put my pants on just like you - one leg at a time. Except when my pants are on, I make arcanite buoys. Arcanite buoys, baby!",
+    ["Completion"]="Fantastic! I can\'t believe you went through the hassle! Are you some kind of machine? If it were me, I would have probably just let the world implode.\n\nI tip my turban to you, sir. And no good deed should go unrewarded.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end The Only Prescription
+
+    -- Super Sticky
+    ["4504"] = {
+    ["Title"]="Super Sticky",
+    ["Description"]="I\'m always looking for a quick way to earn a gold, <name>. If you help me with my newest idea, I\'ll let you in on a little of the profit. How does that sound to you?\n\nI thought so!\n\nHead to the tar pits in northern Un\'Goro Crater, and collect me some tar. Not just any tar, now, you\'ll need to get it from the beasts that live around the tar pits. Regular tar just simply isn\'t sticky enough.\n\nThe plant-like creatures contain chlorophyll in their skin, and mixed with the tar, it\'s super sticky!",
+    ["Objectives"]="Collect 12 samples of Super Sticky Tar for Tran\'rek in Gadgetzan.",
+    ["Progress"]="Tran\'rek\'s done it again -- this super sticky glue will be all the rage!",
+    ["Completion"]="Yes, this tar is just the stuff...\n\nHey, wait a minute, my hands... I can\'t seem to get them apart...\n\nMaybe this wasn\'t such a good idea. Oh, but wait! Super sticky tar remover! That\'s where the real money is!",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Super Sticky
+
+    -- Delivery for Marin
+    ["2661"] = {
+    ["Title"]="Delivery for Marin",
+    ["Description"]="Here\'s the Violet Powder, <name>. Take it to Marin and tell him he owes me a favor!",
+    ["Objectives"]="Sprinkle wants to you take the Violet Powder to Marin Noggenfogger in Gadgetzan.",
+    ["Progress"]="Oh, <name>, you\'re finally back. What have you brought?",
+    ["Completion"]="Violet Powder, eh? Let\'s give it a try -- it sure couldn\'t make it any worse, that\'s for sure!",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Delivery for Marin
+
+    -- War at Sea
+    ["9268"] = {
+    ["Title"]="War at Sea",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="You seek to befriend the goblins of Tanaris once again, <name>? We\'re in need of materials for sails and guns to fight off our old enemies, the Bloodsail Buccaneers. Bring me mageweave and strong flux and we\'ll be on our way to pardoning your trespasses.",
+    ["Completion"]="Keep it coming, <name>. Us goblins don\'t forget that easily!",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end War at Sea
+
+    -- The Protector of Kalimdor
+    ["8751"] = {
+    ["Title"]="The Protector of Kalimdor",
+    ["Description"]="Never have I seen such tenacity! The Bronze Flight grants you one final enchantment. The Timeless One himself has requested it so!\n\nHand me your signet ring so that I may make the necessary adjustments.",
+    ["Objectives"]="",
+    ["Progress"]="",
+    ["Completion"]="",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end The Protector of Kalimdor
+
+    -- Return to Narain
+    ["8587"] = {
+    ["Title"]="Return to Narain",
+    ["Description"]="I\'m a goblin of my word, kid. Here\'s your 500 pound chicken.\n\nWhat a gnome wants with a 500 pound chicken, I\'ll never know...\n\n<Dirge grumbles something unintelligible.>\n\nProbably to sleep in it... Dirty gnomes...",
+    ["Objectives"]="Deliver the 500 Pound Chicken to Narain Soothfancy in Tanaris.",
+    ["Progress"]="What is that scrumptious smell?",
+    ["Completion"]="<Narain mashes two fists into the huge chicken, stuffing his face full of Dirge\'s delicious delicacy.>\n\nMMmmm... This is unbelievable! Best chicken I\'ve ever had!",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Return to Narain
+
+    -- Alexstrasza
+    ["1157"] = {
+    ["Title"]="Alexstrasza",
+    ["Description"]="TODO",
+    ["Objectives"]="TODO",
+    ["Progress"]="",
+    ["Completion"]="",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Alexstrasza
+
+    -- The Path of the Protector
+    ["8750"] = {
+    ["Title"]="The Path of the Protector",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Dedication of this magnitude is a rarity. You have shown that your will is unfaltering, <name>. You shall be greatly rewarded for your stalwart watch over our world.\n\nHand me your signet ring so that I may strengthen its enchantment.",
+    ["Completion"]="",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end The Path of the Protector
+
+    -- The Grand Invoker
+    ["8761"] = {
+    ["Title"]="The Grand Invoker",
+    ["Description"]="Never have I seen such tenacity! The Bronze Flight grants you one final enchantment. The Timeless One himself has requested it so!\n\nHand me your signet ring so that I may make the necessary adjustments.",
+    ["Objectives"]="",
+    ["Progress"]="",
+    ["Completion"]="",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end The Grand Invoker
+
+    -- Oil-Based Grievances
+    ["41764"] = {
+    ["Title"]="Oil-Based Grievances",
+    ["Description"]="Problem upon problem upon problem! I can\'t believe I was so naive to believe nothing bad would happen to the Labor Union for once, but you know how it goes: you jinx it into existence the moment the words leave your mouth. Now I\'m up to my chin in unresolved work; work that I have to fix on my own! The boss is a one of a kind genius, we owe her our exceptional quota big time, so it really irks me to be in such a pickle! We\'ve lost control over our pump stations; whatever these Venture Co. devils did, the pumps went completely haywire and we had little chance to deactivate them to properly fix them with all the oil blobs ruining our day. But now that you\'re here, luck\'s back in our favor!\n\nDown by the beach is our big oil rig, in the control room up top you will find my energy regulator. I had to leave it behind during their raid. With it, you will be able to shut off the four pump stations just outside of town! Once you are done, return to me.",
+    ["Objectives"]="Retrieve Chief Engineer Kalke\'s Energy Regulator from the oil rig at the coast south of Slickwick Oil Rig. Use it to deactivate the Slickwick pump stations and return to Chief Engineer Kalke at the Slickwick Oil Rig afterwards.",
+    ["Progress"]="How is it, any success with the pump stations yet?",
+    ["Completion"]="So the control panels were tampered with, hm? Not really a surprise, but a nuisance nonetheless. As much as I hate to admit it, our technicians will have to double proof them to ensure their original functionality is being restored. We wouldn\'t want all this liquid gold just to blow up, alongside us!\n\nEither way, good work out there. Here, take these as compensation for the hassle; the Durotar Labor Union is in your favour!",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Oil-Based Grievances
+
+    -- The Path of the Protector
+    ["8747"] = {
+    ["Title"]="The Path of the Protector",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="",
+    ["Completion"]="",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end The Path of the Protector
+
+    -- The Might of Kalimdor
+    ["8742"] = {
+    ["Title"]="The Might of Kalimdor",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="A thousand years has passed and just as it was fated, one stands before me. One who shall lead their people to a new age.\n\nThe Old God trembles, <name>. Oh yes, it fears your faith. Shatter the prophecy of C\'Thun.\n\nIt knows you come, champion - and with you comes the might of Kalimdor. You have only to let me know when you are prepared and I shall grant you the Scepter of the Shifting Sands.",
+    ["Completion"]="The Scepter of the Shifting Sands is whole once more, <name>.\n\nIt must be you who uses the scepter. It must be you who heralds the next age of your people.\n\nYou must wait for the armies of the Horde and the Alliance to arrive in Silithus before you may ring the Scarab Gong.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end The Might of Kalimdor
+
+    -- Rise of the Silithid
+    ["32"] = {
+    ["Title"]="Rise of the Silithid",
+    ["Description"]="Here\'s your report. I urge you to take it to someone who might have working knowledge in this kind of thing.\n\nI know this troll scholar named Zilzibin Drumlore. He\'s spent a lot of time studying life forms that are unique to the ecology of Azeroth; he\'s a historian to boot! If you want someone to help figure out what exactly this threat is and how to stop it, give this report to him. We\'re going to need all the help we can get.\n\nZil lives in a house on the second tier of the Drag in Orgrimmar.",
+    ["Objectives"]="Take the report to Zilzibin Drumlore in Orgrimmar.",
+    ["Progress"]="I\'m sorry, I don\'t know you... but from the look of things you have at least heard something of me. Now, what can I help you with? Do you have something for me?",
+    ["Completion"]="This report... I\'ve dealt with these beasts before. Fizzledowser was wise to send this, and you, to me.\n\nThese creatures will consume the Tanaris desert rapidly; they are nothing short of one of the greatest menaces we all will ever face. Familiarize yourself with this name, <name>: silithid. The insects mentioned here are the silithid, and they are the tools of one of the greatest threats that both the Horde and Alliance face.\n\nIf only we were smart enough to see that before.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Rise of the Silithid
+
+    -- The Super Egg-O-Matic
+    ["8893"] = {
+    ["Title"]="The Super Egg-O-Matic",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="The Super Egg-O-Matic is the latest of Curgle Cranklehop\'s inventions. It is quite an impressive piece of machinery.\n\nThe Super Egg-O-Matic sputters wildly as you approach the control panel.",
+    ["Completion"]="You place the hippogryph egg into the machine. A series of beeps follows along with some strange mechanical sounds.\n\nIt appears that the Eggometer has weighed, measured, and packaged your egg. Now that\'s speedy service!",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end The Super Egg-O-Matic
+
+    -- Stewvul, Ex-B.F.F.
+    ["8577"] = {
+    ["Title"]="Stewvul, Ex-B.F.F.",
+    ["Description"]="If I am to translate anything, I will need my scrying goggles. Unfortunately, those were stolen quite some time ago by my ex-best friend forever, Stewvul. He broke my heart in five places and then left me here to rot.\n\nWith the help of my trusty crystal ball, I\'ve isolated his whereabouts to either the Greymane Wall in Silverpine or what appears to be a portal world in the Outland that is currently being overrun by the Burning Legion. You\'re going to have to track him down and get my goggles back, <name>!",
+    ["Objectives"]="Narain Soothfancy wants you to find his ex-best friend forever (BFF), Stewvul, and take back the scrying goggles that Stewvul stole from him.",
+    ["Progress"]="",
+    ["Completion"]="I can\'t believe he found me. I thought for sure that I\'d lost him when I was in the Outland. I\'m not going back there, <race>! No way, no how! I\'m through being his part time best friend forever and full time slave.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Stewvul, Ex-B.F.F.
+
+    -- Hunting for Ectoplasm
+    ["8924"] = {
+    ["Title"]="Hunting for Ectoplasm",
+    ["Description"]="A fine piece of engineering, if I do say so myself! You will need to travel a bit, I\'m afraid, in order to find the incorporeal undead we require.\n\nYou see, different climates lend different consistencies to the spectral fabric of the dead. The tortured night elves of Silithus, the spirits of the highborne from Winterspring and the ghosts and banshees of the Eastern Plaguelands should give us the different types of ectoplasm we need. Be sure to place the distiller nearby before you harvest them!",
+    ["Objectives"]="Use the Ectoplasmic Distiller near incorporeal undead to collect 12 Scorched Ectoplasms in Silithus, 12 Frozen Ectoplasms in Winterspring and 12 Stable Ectoplasms in the Eastern Plaguelands. Bring them along with the Ectoplasmic Distiller back to Mux Manascrambler in Gadgetzan.",
+    ["Progress"]="Have you gathered the ectoplasm yet, <race>?",
+    ["Completion"]="Yes, these will do great!\n\nBy tapping into the otherworldly energies contained within these substances we\'ll be able to reach out to those whose souls haven\'t quite left this world yet!",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Hunting for Ectoplasm
+
+    -- Malygos
+    ["1158"] = {
+    ["Title"]="Malygos",
+    ["Description"]="TODO",
+    ["Objectives"]="TODO",
+    ["Progress"]="",
+    ["Completion"]="",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Malygos
+
+    -- The Changing of Paths - Invoker No More
+    ["8765"] = {
+    ["Title"]="The Changing of Paths - Invoker No More",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Champion, should you decide to walk another path, present me with your signet ring and a mountain of scarabs from our enemies in Ahn\'Qiraj.",
+    ["Completion"]="Be well, <name>. If you change your mind, I shall be here to assist you.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end The Changing of Paths - Invoker No More
+
+    -- Find OOX-17/TN!
+    ["351"] = {
+    ["Title"]="Find OOX-17/TN!",
+    ["Description"]="You have uncovered some sort of strange, egg-shaped device made from metal. Fiddling with one of its knobs springs the egg to life, as it opens up into some sort of gnomish robotic contraption! A voice from inside the robotic egg crackles to life.\n\n\"The name\'s Oglethorpe, and my homing robot has gone missing! I will reward you for its recovery! Please take this beacon to the robot. Excellent, I now have computed the coordinates for you! It crashed near the Gaping Chasm in Tanaris!\"",
+    ["Objectives"]="Bring the distress beacon to Oglethorpe\'s homing robot.",
+    ["Progress"]="You appear to have uncovered the wreckage of... a robotic chicken? The voice from within the egg crackles to life again:\n\n\"Yes, excellent work! This is indeed my homing robot, though my sensors indicate that it needs a jump start before it can fly back to Booty Bay for repairs. Go ahead and place the beacon inside the rover. The beacon will take care of the rest!\"",
+    ["Completion"]="You place the egg... distress beacon... inside the chicken... homing robot.\n\nHums and whirs are heard from inside the robot as it struggles to stand up. After the robot comes to life, Oglethorpe\'s voice is heard once more, but now from inside the robot:\n\n\"OOX-17/TN is working at least, but it needs major repairs! It is much too heavy for you to carry it... but I think I have an idea. Are you up for watching over it some more?\"",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Find OOX-17/TN!
+
+    -- The Qiraji Conqueror
+    ["8756"] = {
+    ["Title"]="The Qiraji Conqueror",
+    ["Description"]="Never have I seen such tenacity! The Bronze Flight grants you one final enchantment. The Timeless One himself has requested it so!\n\nHand me your signet ring so that I may make the necessary adjustments.",
+    ["Objectives"]="",
+    ["Progress"]="",
+    ["Completion"]="",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end The Qiraji Conqueror
+
+    -- An Ordinary Egg
+    ["2749"] = {
+    ["Title"]="An Ordinary Egg",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Ordinary hippogryph eggs hatch about half the time. We do our best to nurture them and with a little luck, they will hatch.",
+    ["Completion"]="So, you have found an ordinary egg, <name>? Please give it to me... And we can only hope for the best.\n\nI don\'t have much, but please accept this reward. If you ever find yourself in Feralas again, know that I am always here to take the eggs you find there.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end An Ordinary Egg
+
+    -- Calm Before the Storm
+    ["4508"] = {
+    ["Title"]="Calm Before the Storm",
+    ["Description"]="My recent findings and the knowledge we have gained here today needs to reach hands that can quite possibly do something with it. As resourceful as we are here in Gadgetzan, we can\'t do this alone.\n\nTake my latest report back to Gracina Spiritmight in Darnassus; she\'s still at the Temple of the Moon, is she not? She\'s got friends who are Alliance bigwigs; if we can get them involved in this <name>, then we just might make it out of this alive.",
+    ["Objectives"]="Bring Pestlezugg\'s Un\'Goro Report to Gracina Spiritmight in Darnassus.",
+    ["Progress"]="They are fools, <name>! They cannot even think to look around them for a greater threat; their irrational hatred of the Horde will be the end of us all. I do not know how much more proof I can give them of the silithid threat short of dropping them in one of the hives so they can see for themselves!\n\nI\'m sorry, you bring news for my attention?",
+    ["Completion"]="While I genuinely appreciate this, I am not sure what good it will do us. The Alliance ignores threats from any source other than the Horde, and even our own leaders here in Darnassus cannot agree on what exactly this threat is. Fools like Fandral Staghelm theorize that the silithid are nothing like the threat from the ancient past I claim them to be. His ignorance is only surpassed by his arrogance.\n\nYou have seen the threat yourself, <name>. We must remain committed to defeating the silithid!",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Calm Before the Storm
+
+    -- WANTED: Caliph Scorpidsting
+    ["2781"] = {
+    ["Title"]="WANTED: Caliph Scorpidsting",
+    ["Description"]="WANTED: Caliph Scorpidsting!\n",
+    ["Objectives"]="Bring the head of Caliph Scorpidsting to Chief Engineer Bilgewhizzle in Gadgetzan.",
+    ["Progress"]="Yes <class>, I am an official of the Gadgetzan Water Company. What can I assist you with?",
+    ["Completion"]="Finally - justice is served! You have struck a mighty blow against those vile nomads! With Scorpidsting\'s demise, this might be just the thing to finally push those squatters off of Gadgetzan\'s water wells!\n\nBy the authority of the Gadgetzan Water Company, I gladly award you with this bounty. You\'ve done a great service for us all.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end WANTED: Caliph Scorpidsting
+
+    -- Pirate Hats Ahoy!
+    ["8365"] = {
+    ["Title"]="Pirate Hats Ahoy!",
+    ["Description"]="You\'re the help the Cartel sent? I suppose you\'ll do. Listen carefully <class>. As you know, I am a procurer of fashionable apparel for the elite of Azerothian society. Kings and Queens, Warchiefs and, well whatever the Horde calls their queens, all wear what I choose is in style. And they pay through the nose for it, which is the best part.\n\nSo here\'s what\'s going to happen. You head down to Lost Rigger Cove and acquire a lot of pirate hats by whatever means. Do you think you can handle that?",
+    ["Objectives"]="Haughty Modiste wants you to collect 20 Southsea Pirate Hats and return them to her at Steamwheedle Port in Tanaris.",
+    ["Progress"]="Do you have all 20 hats? I don\'t believe you, let me see them. They better be in pristine condition!",
+    ["Completion"]="Oh you\'re a darling, even if it did take you longer than I am accustomed to. This shipment should make me quite a bit of money once I\'ve cleaned and personalized these hats. And seeing as I\'m always willing to reward work that\'s well done, here\'s a little something for you. I suggest that you spend some of it on a bath sweetie.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Pirate Hats Ahoy!
+
+    -- The Super Egg-O-Matic
+    ["2741"] = {
+    ["Title"]="The Super Egg-O-Matic",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="The Super Egg-O-Matic is the latest of Curgle Cranklehop\'s inventions. It is quite an impressive piece of machinery.\n\nThe Super Egg-O-Matic sputters wildly as you approach the control panel.",
+    ["Completion"]="You place the hippogryph egg into the machine. A series of beeps follows along with some strange mechanical sounds.\n\nIt appears that the Eggometer has weighed, measured, and packaged your egg. Now that\'s speedy service!",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end The Super Egg-O-Matic
+
+    -- Love Song for Narain
+    ["8599"] = {
+    ["Title"]="Love Song for Narain",
+    ["Description"]="It isn\'t often that I get visitors. As a matter of fact, the last time I had a visitor was when I rescued that dear, sweet gnome from the wreckage of the crashed flying machine.\n\n<Meridith gazes into nothingness, lost in a memory.>\n\nDo you know him? Narain? Narain Soothfancy? Oh it would mean so much to me if somebody would deliver a message to him for me. I must tell him how I feel! I know it\'s love! I just know it!\n\nCould you possibly deliver a message to Narain? I would be forever indebted to you!",
+    ["Objectives"]="Take Meridith\'s Love Letter to Narain Soothfancy in Tanaris.",
+    ["Progress"]="You smell like fish!",
+    ["Completion"]="What!?\n\n<Narain starts to fidget.>\n\nWell, um... What do you want me to do??? She\'s a fish! A FISH I tell you! And I\'m a gnome. It could never work out.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Love Song for Narain
+
+    -- Rescue OOX-17/TN!
+    ["648"] = {
+    ["Title"]="Rescue OOX-17/TN!",
+    ["Description"]="The gnome\'s voice crackles once again from the robot:\n\n\"I need to move OOX-17/TN to an open, safe place so it can begin a lengthy take-off procedure. It has built-in cloaking, but I need time on my end to make it operational again. I need you to escort the robot from its current location to, let\'s say, Steamwheedle Port! That should be a perfect place, and long enough, to get things on line!\"\n\n\"Escort it safely to the port, and then come talk to me in Booty Bay! Oglethorpe Obnoticus - out!\"",
+    ["Objectives"]="Escort OOX-17/TN to Steamwheedle Port, then report to Oglethorpe Obnoticus in Booty Bay.",
+    ["Progress"]="",
+    ["Completion"]="Oh, YOU\'RE the great savior of OOX-17/TN! I cannot even begin to express my thanks for your assistance! My homing robot series needs more developing, but your recovery has saved me countless hours of rebuilding time, as well as many gold pieces in rebinding costs!\n\nPlease, take your choice of any of these items I have. Hopefully, you will make good use of one of them. Thank you again for your generous assistance, my robots and I are in your debt!",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Rescue OOX-17/TN!
+
+    -- The Scrimshank Redemption
+    ["10"] = {
+    ["Title"]="The Scrimshank Redemption",
+    ["Description"]="Oh, this is just terrible! I sent out my top assistant, Junior Surveyor Scrimshank, into the desert southeast of here. That\'s an area we call the Gaping Chasm. Well, he\'s gone missing, and his last report had more of those weird bugs where he was. Could it be that they\'ve infested two major regions of the desert now?\n\nI need you to head into the Gaping Chasm and look for Scrimshank, please! That... or at least find his surveying equipment. I fear that may be all that is left of the poor sod.",
+    ["Objectives"]="Discover the fate of Junior Surveyor Scrimshank, and bring either him or his surveying equipment to Senior Surveyor Fizzledowser in Gadgetzan.",
+    ["Progress"]="Well, what news do you have? You look like you\'ve been in quite the fight... is Scrimshank alive?",
+    ["Completion"]="He was a good goblin, young Scrimshank. Let\'s hope that his demise was not in vain by what he was able to record with his surveying equipment.\n\nIt seems as though we have quite the situation on our hands here with these bugs. They\'re way too cunning for their own good, and the research we\'ve done so far is shaping up to indicate that they might even be under the controlling influence of a third party! If this is the case, then it bodes ill for not only Gadgetzan, but the whole desert!",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end The Scrimshank Redemption
+
+    -- Decoy!
+    ["8606"] = {
+    ["Title"]="Decoy!",
+    ["Description"]="I\'ve got it! Here\'s what we\'re going to do. I\'m going to fill a sack up with rocks and you\'re going to make the drop. I know it said that I should make the delivery and I\'m going to - sort of.\n\n<Narain looks you up and down.>\n\nYes, you will do just fine. Take this turban, robe, and sack of rocks and head to the drop off point in Winterspring.\n\nI\'ve included everything you need in this special kit. When they show up to pick up the goods, snuff them out! That will teach them to mess with Narain!",
+    ["Objectives"]="Narain Soothfancy in Tanaris wants you to travel to Winterspring and place the Bag of Gold at the drop off point documented by the booknappers.",
+    ["Progress"]="",
+    ["Completion"]="I think we may have underestimated these booknappers.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Decoy!
+
+    -- rAnS0m
+    ["8598"] = {
+    ["Title"]="rAnS0m",
+    ["Description"]="<The text on this note is made up of various typefaces glued onto the parchment\'s surface.>\n",
+    ["Objectives"]="Return the Ransom Letter to Narain Soothfancy in Tanaris.",
+    ["Progress"]="Say, what\'s the matter?",
+    ["Completion"]="<Narain\'s face glows a bright red.>\n\nBooknap my... book, will they!? I\'ll teach them what it means to mess with a psychic gnome!",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end rAnS0m
+
+    -- WANTED: Andre Firebeard
+    ["2875"] = {
+    ["Title"]="WANTED: Andre Firebeard",
+    ["Description"]="The vile pirate Andre Firebeard is wanted for crimes against Steamwheedle and Gadgetzan.\n",
+    ["Objectives"]="Bring Andre\'s Head to Security Chief Bilgewhizzle in Steamwheedle Port.",
+    ["Progress"]="You look a little dazed. Have you been reading our legal documents?",
+    ["Completion"]="Ah, Andre\'s head. So I guess he\'ll make his trial after all!\n\nMuch appreciated, <name>. Now if you\'ll just sign here, I can issue you payment for services rendered.\n\nDon\'t worry about the small print. It\'s harmless, and... I don\'t think there\'s a magnifying glass small enough to read it anyway.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end WANTED: Andre Firebeard
+
+    -- Pawn Captures Queen
+    ["4507"] = {
+    ["Title"]="Pawn Captures Queen",
+    ["Description"]="Here\'s the lure. Inside the hive network should be a crystal of some sort. We think the silithid use the crystal as some sort of hive-wide attunement device. As for where this crystal might be, I\'d say try the hatcheries inside the hive.\n\nUsing the lure on the crystal should roust out the queen, but be warned - she will probably be protected by several guards. Take out the queen and remove her brain. As icky as that sounds, we desperately need to study it. Good luck, <name>!",
+    ["Objectives"]="Defeat the Gorishi Hive Queen once she is summoned.\n\nBring the Gorishi Queen\'s Brain to Alchemist Pestlezugg in Gadgetzan.",
+    ["Progress"]="Acquiring the queen\'s brain for our research is absolutely imperative. From what we have learned, we believe that these silithid are quite possibly being controlled by a malign intelligence. I shudder to think what could control something as insidious as the silithid, <name>.",
+    ["Completion"]="Fantastic, <name>! We\'ve won quite the victory here today. It will take some time for us to fully understand what we have here; we\'ll put it to good use though, don\'t you worry about that.\n\nAs for the silithid, I genuinely doubt that this was the full extent of their presence. This is much too clean of a resolution, I\'m sorry to say.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Pawn Captures Queen
+
+    -- A Supernatural Device
+    ["8923"] = {
+    ["Title"]="A Supernatural Device",
+    ["Description"]="You must be quite brave to have stuck around after that. That or I\'ve piqued your interest with the piece of armor I gave you. There is more from where that came from, if you\'re still interested in aiding me.\n\nThe venom samples you collected are for an acquaintance of mine, Mux Manascrambler, an engineer with an interest in the supernatural. His latest project consists of a device that allows you to communicate with the dead! My last hope is to contact Anthion and find out more about my situation.",
+    ["Objectives"]="Take the Sealed Venom Container to Mux Manascrambler in Gadgetzan.",
+    ["Progress"]="You wish to speak to me?",
+    ["Completion"]="Excellent! Just as I was running low!\n\nYou say Mokvar sent you?",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end A Supernatural Device
+
+    -- The Thirsty Goblin
+    ["2605"] = {
+    ["Title"]="The Thirsty Goblin",
+    ["Description"]="I\'ve got an idea, see. I\'ve heard of some strange creatures called dew collectors that live to the southwest... and that they are able to store water in special glands.\n\nI think that if I could get one of these glands, I could create a drink that would quench my terrible thirst! Do you think you could help me, <name>?\n\nLook for the cactus garden, <name>; that\'s where you\'ll find the dew collectors.",
+    ["Objectives"]="Collect a Laden Dew Gland and bring it to Marin Noggenfogger in Gadgetzan.",
+    ["Progress"]="Please, tell me you found the dew collectors?",
+    ["Completion"]="Oh, wonderful! Give it here -- let me drink it!",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end The Thirsty Goblin
+
+    -- Handle With Care
+    ["3022"] = {
+    ["Title"]="Handle With Care",
+    ["Description"]="<name>, I can see you yearn to be dedicated to my worthwhile cause. Yes, of course, you can do something for me!\n\nTake this crate of eggs to Erelas Ambersky. He is a druid that cares for these eggs, helping them to hatch and then training the young hippogryphs. You will find him in Teldrassil, in a small village to the south called Rut\'theran.",
+    ["Objectives"]="Bring the Carefully-packed Crate to Erelas Ambersky in Rut\'theran Village.",
+    ["Progress"]="Another shipment from Curgle, I assume?",
+    ["Completion"]="Thank you for your help, <name>. The hippogryph population simply wouldn\'t flourish if it weren\'t for us. Ah, but I am sure you understand all too well, having traveled to Feralas yourself, and seen the devastation of the Gordunni there.\n\nWell, as you can see, I am hard at work here, so you\'d best be on your way.\n\nThanks again, <name>.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Handle With Care
+
+    -- An Extraordinary Egg
+    ["2747"] = {
+    ["Title"]="An Extraordinary Egg",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="I have seen very few eggs retrieved from Feralas in extraordinary condition. These are eggs of the rarest sort...",
+    ["Completion"]="Well now, you have one--amazing!\n\nI hope you always remember the good you have done today.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end An Extraordinary Egg
+
+    -- The Path of the Invoker
+    ["8760"] = {
+    ["Title"]="The Path of the Invoker",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Dedication of this magnitude is a rarity. You have shown that your will is unfaltering, <name>. You shall be greatly rewarded for your stalwart watch over our world.\n\nHand me your signet ring so that I may strengthen its enchantment.",
+    ["Completion"]="",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end The Path of the Invoker
+
+    -- Dirge's Kickin' Chimaerok Chops
+    ["8586"] = {
+    ["Title"]="Dirge\'s Kickin\' Chimaerok Chops",
+    ["Description"]="My recipe is complete! What I need from you now is some rocket fuel and deeprock salt. I\'ll handle the spices and the meat you brought me will cover the rest.\n\nAfter you bring me what I asked for, the chicken will be ready to take back to Narain.",
+    ["Objectives"]="Dirge Quikcleave in Gadgetzan wants you to bring him 20 Goblin Rocket Fuel and 20 Deeprock Salt.",
+    ["Progress"]="Hurry it up, kid. We don\'t want this meat to go bad.",
+    ["Completion"]="It\'s ready! I present to you my greatest creation: Dirge\'s Kickin\' Chimaerok Chops!",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Dirge's Kickin' Chimaerok Chops
+
+    -- Screecher Spirits
+    ["3520"] = {
+    ["Title"]="Screecher Spirits",
+    ["Description"]="I seek the spirits of the vale screechers of Feralas. They are the cousins of an old, old god, and their spirits are linked to him.\n\nTake this bramble wand and go to Feralas. Find and defeat vale screechers in southern and central Feralas, then wave my bramble over their fallen bodies. This will coax their spirit to reveal itself. Touch the spirit and collect its essence.\n\nReturn to me with my bramble and with the collected essence, and I will tell you more of the old god of which I spoke.",
+    ["Objectives"]="Capture the spirits of 3 screechers in Feralas, then return to Yeh\'kinya in Steamwheedle Port.",
+    ["Progress"]="Have you collected the essence of the screecher spirits, <name>?",
+    ["Completion"]="You have done well, <name>. Perhaps now it is time to reveal more...\n\nThere is an ancient prophecy among the trolls, where the dead god Hakkar, the Soulflayer, will one day return to this earth. Some say the coming of Hakkar will bring joy and glory to trollkind, while others believe his resurrection marks the end of all things.\n\nI do not believe this myth, but I do know the essence of Hakkar holds great power, and this power should be kept from those who would abuse it...",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Screecher Spirits
+
+    -- Sprinkle's Secret Ingredient
+    ["2641"] = {
+    ["Title"]="Sprinkle\'s Secret Ingredient",
+    ["Description"]="When I was a kid, my sister used to do all the cooking. It was horrible! I could barely stomach some of her concoctions -- until I found what I like to call my \"secret\" ingredient! Add it to anything, and... WOW! It tastes great!\n\nWhat is it, you ask? It\'s a mushroom called the Violet Tragan. If you want me to help you turn this horrid-tasting brew into something edible, head to the Hinterlands, and look for a small lake there.\n\nOh, and remember, the Violet Tragan can only be found underwater.",
+    ["Objectives"]="Sprinkle in Gadgetzan wants you to collect a Violet Tragan and return it to her.",
+    ["Progress"]="Under the waters of that lake -- it\'s the only place where the Violet Tragan can be found. Hope you\'re good at holding your breath!",
+    ["Completion"]="That\'s the stuff, <name>!\n\nIt looks so good, I might just... Haha, gotcha!",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Sprinkle's Secret Ingredient
+
+    -- The Path of the Conqueror
+    ["8755"] = {
+    ["Title"]="The Path of the Conqueror",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Dedication of this magnitude is a rarity. You have shown that your will is unfaltering, <name>. You shall be greatly rewarded for your stalwart watch over our world.\n\nHand me your signet ring so that I may strengthen its enchantment.",
+    ["Completion"]="",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end The Path of the Conqueror
+
+    -- Fire Plume Forged
+    ["5802"] = {
+    ["Title"]="Fire Plume Forged",
+    ["Description"]="You need two bars of thorium and a powerfully hot heat source to forge the key stem. You\'re on your own for the thorium, but I can help with the heat.\n\nTo our west in Un\'Goro Crater is Fire Plume Ridge - a simmering volcano. The lava lake up top is hot enough to fuse thorium and bone together. Your gold has bought you a mold that simply requires you to dip it in the lake up top; the lava will take care of the rest.\n\nThat\'s it on my end. To finish your key, you\'ll need to talk to Dithers again.",
+    ["Objectives"]="Take the Skeleton Key Mold and 2 Thorium Bars to the top of Fire Plume Ridge in Un\'Goro Crater. Use the Skeleton Key Mold by the lava lake to forge the Unfinished Skeleton Key.\n\nBring the Unfinished Skeleton Key to Apothecary Dithers at the Bulwark, Western Plaguelands.",
+    ["Progress"]="Do you have the stem of the skeletal key finished? I\'m truly sorry you had to bear the brunt of the fee to purchase the mold, but we must all do our part to counter the Scourge. Once you hand me the unfinished key, you\'ll be ready for the final item needed to complete its construction.\n\nIt won\'t be easy at all, but the work you\'ve done to date in preparing for an assault on Andorhal will now start to pay for itself. You\'ll see.",
+    ["Completion"]="We\'ve got quite the costly skeleton key there, don\'t we <name>? Still, it remains unfinished; the time has now come to put some focus behind our creation. To that end, you\'re going to have to face the ultimate foe we\'ve been working towards facing in Andorhal... the being that runs the show within the ruined city walls.\n\nI\'m speaking of Araj the Summoner - a lich, and one of the most powerful beings the Scourge calls as its own.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Fire Plume Forged
+
+    -- The Path of the Conqueror
+    ["8754"] = {
+    ["Title"]="The Path of the Conqueror",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="You honor my kind, <name>. Strike down the enemies of Kalimdor! Show them what it means to deface the land of eternal starlight.\n\nYou have earned another enhancement. Hand me your signet ring so that I may bolster its power.",
+    ["Completion"]="",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end The Path of the Conqueror
+
+    -- The Path of the Invoker
+    ["8759"] = {
+    ["Title"]="The Path of the Invoker",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="You honor my kind, <name>. Strike down the enemies of Kalimdor! Show them what it means to deface the land of eternal starlight.\n\nYou have earned another enhancement. Hand me your signet ring so that I may bolster its power.",
+    ["Completion"]="",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end The Path of the Invoker
+
+    -- The Path of the Protector
+    ["8748"] = {
+    ["Title"]="The Path of the Protector",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Your continued defense of the children of Kalimdor has been acknowledged. Hand me your signet ring so that I may enhance its powers.",
+    ["Completion"]="",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end The Path of the Protector
+
+    -- Help A Gnome Out
+    ["60010"] = {
+    ["Title"]="Help A Gnome Out",
+    ["Description"]="Hey, <race>, down here! If you have some spare time, I could really use your help.\n\nYou see, there\'s this kodo in Un\'Goro Crater, their name is Dadanga. I\'ve heard that they give you a gift if you feed them bloodpetals. It sounds like this gift could have a nice surprise in it, and I love surprises!\n\nAnyways, these bloodpetal sprouts are found all over the crater, and I\'d love to get my hands on some. Bring me 30 Bloodpetal Sprouts and I\'ll pay you. I\'ll even give you something I cooked from one of my original recipes!",
+    ["Objectives"]="You\'re pretty sure Reas wants you to bring 30 Bloodpetal Sprouts to her in Gadgetzan.",
+    ["Progress"]="Didja get the flowers?I sure hope Dadanga gives me the recipe for the elixir soon. Almost out of money...",
+    ["Completion"]="Hey, there we are! Thanks! As promised, some money, and some pizza bottles!\n\nOh, I didn\'t mention those?",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Help A Gnome Out
+
+    -- Translating the Ledger
+    ["8576"] = {
+    ["Title"]="Translating the Ledger",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="",
+    ["Completion"]="First things first, <name>! We need to figure out what Azuregos wrote in this ledger.\n\nYou say that he\'s told you to make an arcanite buoy and that this is the schematic? Strange that he would write this in Draconic. That old goat knows I can\'t read this nonsense.\n\nIf this is going to work, I\'m going to need my scrying goggles, a five hundred pound chicken and volume II of \"Draconic for Dummies.\" Not necessarily in that order.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Translating the Ledger
+
+    -- Into the Field
+    ["243"] = {
+    ["Title"]="Into the Field",
+    ["Description"]="You will be headed to the Tanaris desert, testing the tissue consistency of the basilisks, scorpids, and hyena native there. Obtain tissue samples and use them with the testing kit in tow; expect a chunk of the samples to fail. I need eight acceptable samples of each creature type.\n\nIn addition, the goblins of Gadgetzan have a power source that must be used with this kind of modified kit. Speak to Chief Engineer Bilgewhizzle and acquire one for the kit.\n\nReturn to me only when you are successful.",
+    ["Objectives"]="Speak to Chief Engineer Bilgewhizzle in Gadgetzan about getting a power source for the testing kit.",
+    ["Progress"]="",
+    ["Completion"]="Ah, our model 4711-FTZ power sources! We normally use them to power the water wells, but THANKS TO THE VILE NOMADS, we have an over abundance of power sources right now.\n\nSure, I can get you a power source for whatever nefarious science experiment you think you\'re trying to hide from me. It ain\'t gonna be free though, <race>. Nothing\'s free in Gadgetzan.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Into the Field
+
+    -- The Path of the Invoker
+    ["8758"] = {
+    ["Title"]="The Path of the Invoker",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Your continued defense of the children of Kalimdor has been acknowledged. Hand me your signet ring so that I may enhance its powers.",
+    ["Completion"]="",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end The Path of the Invoker
+
+    -- Rise of the Venture Co.
+    ["41767"] = {
+    ["Title"]="Rise of the Venture Co.",
+    ["Description"]="Since ya helped us out big time, I guess I can share a little secret with ya. Many goblins have joined the Durotar Labor Union in the past, and many still do. Created a big stir in Undermine. A young and upcoming worker\'s union holding their own against the authoritarian Venture Co.? It was all over the newspapers! Rumours started spreading, one crazier than the next, so eventually my boss gave me a new job: join the Durotar Labor Union and see what\'s really happening. Didn\'t anticipate getting thrown into action THAT quickly.\n\nAnd now we\'re here. I gotta say, both the Labor Union and the Horde exceeded my expectations. You\'re a strange bunch, but a strong bunch. Your handling of funds and general economics is disastrous, but you\'ll get there - eventually. Nert is a great asset, trust me. Speaking of, could you pass him this report? Poor guy must be pretty anxious waiting for it back in Sparkwater Port. Give him a good nudge from me when ya see him, gotcha?",
+    ["Objectives"]="Deliver Boss Slickwick\'s Report to Nert Blastentom in Sparkwater Port in Durotar.",
+    ["Progress"]="Either good news or no news, pal. Another bad errand would be the death of me!",
+    ["Completion"]="You were in Tanaris and helped out Celdi? How wonderful, that woman is a true blessing! When she first flounced around Sparkwater Port my eyes almost flew out of my skull. A high administrator of the Bilgewater Cartel here, in our small town?! And she wants to join us?! It felt like I had just doubled all my lifesavings in a last effort try at the casino. After the disaster that was Blackstone Island, the Durotar Labor Union desperately needed an uplift in profit AND morale. The oil rig in Tanaris was an excellent idea, if I were to be so humble. With Slickwick at the helm, I just knew it\'d be a success.\n\nDespite that, the Venture Co.\'s continued sabotage and intrusion worry me. I fear their patience runs dry, Razdunk never was one to remain calm when he doesn\'t get his way. Keep your ears and eyes sharp, <name>. The future won\'t be easy for us.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Rise of the Venture Co.
+
+    -- The Path of the Invoker
+    ["8757"] = {
+    ["Title"]="The Path of the Invoker",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="",
+    ["Completion"]="",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end The Path of the Invoker
+
+    -- The Ectoplasmic Distiller
+    ["8921"] = {
+    ["Title"]="The Ectoplasmic Distiller",
+    ["Description"]="Ah, you\'re in need of my latest project... the extra-dimensional ghost revealer! Unfortunately I\'ve run out of funds and manpower.\n\nYou\'re willing to help? Excellent! Our first task is to build a device to harvest the very fabric of death! Building an ectoplasmic distiller won\'t be an easy task, <name>.\n\nI\'ll need you to bring me an arcanite converter, some greater eternal essences and stonescale oil. I\'ll also need some volcanic ash from the lava pools in the Burning Steppes to build a filter.",
+    ["Objectives"]="Return to Mux Manascrambler in Gadgetzan with 1 Delicate Arcanite Converter, 4 Greater Eternal Essence, 10 Stonescale Oil, 25 Volcanic Ash and 40 gold.",
+    ["Progress"]="I understand the materials are a bit pricey... but I promise you every last one of them shall be necessary!",
+    ["Completion"]="These are precisely the materials I needed. Quite timely too, <name>!\n\nIn mere moments I will have your distiller ready to go! In the meantime, take this as a reward for aiding me in my project.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end The Ectoplasmic Distiller
+
+    -- The Changing of Paths - Protector No More
+    ["8764"] = {
+    ["Title"]="The Changing of Paths - Protector No More",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Champion, should you decide to walk another path, present me with your signet ring and a mountain of scarabs from our enemies in Ahn\'Qiraj.",
+    ["Completion"]="Be well, <name>. If you change your mind, I shall be here to assist you.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end The Changing of Paths - Protector No More
+
+    -- Deliver to MacKinley
+    ["2874"] = {
+    ["Title"]="Deliver to MacKinley",
+    ["Description"]="Thanks again for your help, <name>. Here\'s a bottle of Steamwheedle bilge rum. Take it to MacKinley and he can finally put to rest his crazy beliefs about Booty Bay booze.",
+    ["Objectives"]="Bring Stoley\'s Bottle to \"Sea Wolf\" MacKinley in Booty Bay.",
+    ["Progress"]="Did Stoley cough up my booze?",
+    ["Completion"]="Hm, let\'s try this...\n\nI can\'t believe it! This stuff is... terrible! That\'s great!\n\nWell I guess Stoley can keep the money he owes me. He\'s true to his word about Steamwheedle bilge rum. That stuff is as thick as gravel and burns like lava!",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Deliver to MacKinley
+
+    -- Rise of the Silithid
+    ["162"] = {
+    ["Title"]="Rise of the Silithid",
+    ["Description"]="I urge you to take this report to someone who has working knowledge in this kind of thing.\n\nI know this night elf scholar named Gracina Spiritmight. She\'s spent a lot of time studying life forms that are unique to the ecology of Azeroth; she\'s a historian to boot! If you want someone to help figure out what exactly this threat is, and more importantly how to stop it, give her the report. We\'ll need the help.\n\nLast I heard, she was residing in the Temple of the Moon, located in Darnassus.",
+    ["Objectives"]="Take the Insect Analysis Report to Gracina Spiritmight in Darnassus.",
+    ["Progress"]="Peace and tranquility be on to you, stranger. Why have you sought me out this day?",
+    ["Completion"]="This report... we night elves know of the terror mentioned here. Fizzledowser was wise to send this, and you, to me.\n\nThese creatures will consume the Tanaris desert rapidly; they are nothing short of one of the greatest menaces we all will ever face. Familiarize yourself with this name, <name>: silithid. The insects mentioned here are the silithid, and they are the tools of one of the greatest threats that both the Horde and Alliance face.\n\nIf only we were smart enough to see that before.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Rise of the Silithid
+
+    -- Trouble at Slickwick Oil Rig
+    ["41838"] = {
+    ["Title"]="Trouble at Slickwick Oil Rig",
+    ["Description"]="Hey, you! You seem like a tough fella, and a tough fella is just what we need. Down south near the mountains of Thistleshrub Valley, we started with our newest big money making plan, the Slickwick Oil Rig. Everything went smooth for a while, until the pump stations went crazy and the oil started to move on its own! I’ve trotted throughout the entire desert back to Gadgetzan to get some help for our problem, and you look like just the <class> we need! Don’t worry, we’ll pay you a fat sum of glorious gold! Once you reach the southern mountains, near the big cacti you’ll find a slope up the mountain range. The oil rig is not far from there. Talk to Assistant Steamflare, she’ll know I sent you.\n\nOh, and could you clean up some of the oil on your way there? Will be worth the effort, trust me!",
+    ["Objectives"]="Travel to Slickwick Oil Rig and talk to Assistant Steamflare, dispose of some oil creatures on your way there.",
+    ["Progress"]="And who are you? We don’t need bootlickers coming in to waste the boss’ time!",
+    ["Completion"]="So Blaxbi managed to fulfill his job after all. Excellent. Seeing how you’re still in good shape, you may be useful to us - we’ll see. Take a look around town and see where you can help out. But remember: don’t touch ANYTHING!",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Trouble at Slickwick Oil Rig
+
+    -- Noxious Lair Investigation
+    ["82"] = {
+    ["Title"]="Noxious Lair Investigation",
+    ["Description"]="All right now, these reports about the bugs... what we know is that they are draining the water pools that used to be where the Noxious Lair is. What we DON\'T know is, well, everything else.\n\nLet\'s figure out who our enemy is first! I want you to head into the Noxious Lair and get some parts off of those critters. Get five from the Centipaar there and bring them to Alchemist Pestlezugg for him to dink with. With him on the case, we\'ll figure out what they are!",
+    ["Objectives"]="Bring five Centipaar insect parts from the Noxious Lair to Alchemist Pestlezugg in Gadgetzan.",
+    ["Progress"]="You\'re Junior Surveyor <name>, yes? Quickly now, there is a dire situation at hand! Do you have the insect parts that Fizzledowser said you would?!",
+    ["Completion"]="Good work - I\'ll start my analysis on these now! I can tell you right from the start though... these are nothing like any insect form I have ever seen. It\'s almost as if these bugs are being controlled by an outside force or something.\n\nYou need to go talk to Fizzledowser right away; apparently there is an emergency that he needs your help with on the double! I\'m not sure, but I think it involves more of the bugs in the Tanaris desert!",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Noxious Lair Investigation
+
+    -- Wastewander Justice
+    ["1690"] = {
+    ["Title"]="Wastewander Justice",
+    ["Description"]="You there! It\'s time for you to be a big helper to the Gadgetzan Water Company.\n\nThe Wastewander nomads out in the Tanaris desert have seized almost all the water wells! Without access to them, our water supply will dry up in no time. If you want to get in our good graces, then you\'ll help us bring justice to those nomads!\n\nHead east of here and bring down ten Wastewander Bandits and Thieves, then report back to me on the double. Justice waits for no man... goblin... bah, just get on it!",
+    ["Objectives"]="Take down 10 Wastewander Bandits and Thieves east of Gadgetzan, then report back to Chief Engineer Bilgewhizzle.",
+    ["Progress"]="Back so soon? I hope you were able to bring some goblin-style justice to those Wastewander Bandits and Thieves like I asked you to!",
+    ["Completion"]="Now that\'s what I call efficiency! You\'ve helped thin out the nomad\'s numbers enough now that we can start to think about how we can win back those water wells.\n\nThe Gadgetzan Water Company thanks you for your help, but we\'re far from done in dealing with those foul nomads. Listen close - here\'s what we need next...",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Wastewander Justice
+
+    -- The Hand of Rastakhan
+    ["8182"] = {
+    ["Title"]="The Hand of Rastakhan",
+    ["Description"]="<name>, our worst fears have come. Legend speaks of the Soulflayer ruling the ancient troll world through evil and terror, and his power was absolute. If he cannot be stopped now, then his new reign may spread across all of Azeroth!\n\nThere is a contingent of Zandalarian trolls who may help us stem this tide of darkness. They have camped on Yojamba Isle, off the coast of Stranglethorn, west of the ruins of Zul\'Kunda. Speak with their leader, Molthor, and pray he knows how to defeat Hakkar.",
+    ["Objectives"]="Speak with Molthor in Stranglethorn.",
+    ["Progress"]="",
+    ["Completion"]="You were sent by the prospector, Ironboot? His kind are wise, and wiser still to bring you to me, for I and the Zandalarian trolls may know a way to defeat the Soulflayer.\n\nSpeak with the trolls of this isle, heed their words, and prepare yourself, <name>, for the task before you is soaked in blood.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end The Hand of Rastakhan
+
+    -- Thistleshrub Valley
+    ["3362"] = {
+    ["Title"]="Thistleshrub Valley",
+    ["Description"]="Have you ever seen Thistleshrub Valley? It\'s a mighty dangerous place, <name>.\n\nThose strange beasts there, I don\'t trust them for a minute! Gnarled thistleshrubs and thistleshrub rootshapers, that\'s what I think they were called...\n\nAnyhow, I want to get into the valley, but with so many of those thistleshrubs around, there\'s no way I\'m going back there. But here\'s where you come in -- if you clear some of them out, I just might think about going back. What do you think, <name>? Help me out?",
+    ["Objectives"]="Tran\'rek in Gadgetzan wants you to kill 8 Gnarled Thistleshrubs and 8 Thistleshrub Rootshapers.",
+    ["Progress"]="I\'d like to take a closer look at that cactus in the valley... So leave some of it in one piece, will ya?",
+    ["Completion"]="They\'re that big? I might have to rethink my plan...\n\nBut you did hold up your end of the bargain, so here\'s what I promised.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Thistleshrub Valley
+
+    -- Gadgetzan Water Survey
+    ["992"] = {
+    ["Title"]="Gadgetzan Water Survey",
+    ["Description"]="We\'ve got a position open for a temporary junior-grade surveyor in the Gadgetzan Water Company, if you\'re interested!\n\nWith the nomads seizing all our wells, we need to exploit more free sources of water! There is water to be had in the desert, but only to those smart enough to survey them first.\n\nTake this dowsing widget and tap a sample of the water by the pool near Sandsorrow Watch. It\'s right in sight of the trolls around there. Bring the tapped widget back to me when you\'re done!",
+    ["Objectives"]="Use the untapped dowsing widget near the pool of water by Sandsorrow Watch. Once you have collected the sample, return the tapped dowsing widget to Senior Surveyor Fizzledowser in Gadgetzan.",
+    ["Progress"]="Welcome back, Junior Surveyor <name>! Have you completed your assignment yet?",
+    ["Completion"]="What\'s this? You were ambushed by some sort of bad mojo creepy-crawly? Oh, this does not bode well for the Gadgetzan Water Company, no indeed...\n\nI guess I should have told you about the reports coming in on some crazy bug-creatures that appear to be sucking up all the water in the desert. At first, I thought it was just a crock. We have enough trouble with the nomads as is; I thought it was just more of their shenanigans. Well, now we know at least!",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Gadgetzan Water Survey
+
+    -- Water Pouch Bounty
+    ["1878"] = {
+    ["Title"]="Water Pouch Bounty",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Back again, <name>? If you have five more Wastewander water pouches, then I have a care package with your name on it!",
+    ["Completion"]="Excellent - the more water pouches we are able to reclaim, the further away from disaster we\'ll all be! Keep \'em coming, and I will be sure to reward you for every five water pouches you bring me.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Water Pouch Bounty
+
+    -- The Isle of Dread!
+    ["8585"] = {
+    ["Title"]="The Isle of Dread!",
+    ["Description"]="Legend has it that the chimaerok of the Isle of Dread in Feralas have the most succulent and tender vittles in existence! Now these chimaerok also have a daddy who, with proper preparation, may or may not look like a 500 pound chicken.\n\nHead to the Isle of Dread and kill Lord Lakmaeran and bring me his fresh carcass. That should satisfy the gnome. To satisfy me, you\'ll need to get your hands on some chimaerok tenderloin.\n\nDo this and you\'ll have your 500 pound chicken and a little something extra.",
+    ["Objectives"]="Recover Lakmaeran\'s Carcass and 20 Chimaerok Tenderloins for Dirge Quikcleave in Tanaris.",
+    ["Progress"]="Mmmmm... Chimaerok...",
+    ["Completion"]="Look at the marbleization on those tenderloins! Fantastic!\n\nNow about that chicken... Hrm, let me see. I\'m going to need a few minutes to devise the recipe.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end The Isle of Dread!
+
+    -- Tooga's Quest
+    ["1560"] = {
+    ["Title"]="Tooga\'s Quest",
+    ["Description"]="I am so lost!\n\nMy wife, Torta, sent me out to fetch dinner and I must have taken a wrong turn somewhere.\n\nWould you be so kind as to lead me back to Torta? She\'s waiting for me just south of Steamwheedle Port.",
+    ["Objectives"]="Show Tooga the way back to his wife, Torta.",
+    ["Progress"]="Where is Tooga?",
+    ["Completion"]="So he couldn\'t find his way back on his own? Figures.\n\nWell, I guess you deserve something for your troubles....",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Tooga's Quest
+
+    -- Another Power Source?
+    ["841"] = {
+    ["Title"]="Another Power Source?",
+    ["Description"]="Let me guess - you didn\'t get whatever world-ending, nefarious deed you were doing done in time. No wait, better still... you dropped it in the sand! Well, whatever the reason, I do have additional power sources I will sell to you. This time, however, it will cost you ten, YES TEN Wastewander Water Pouches!\n\nTimes are tough all around, <name>, and power sources don\'t grow on trees! Hrm, but what if they did. Maybe we could MAKE a power source tree...",
+    ["Objectives"]="Bring 10 Wastewander Water Pouches to Chief Engineer Bilgewhizzle in Gadgetzan in exchange for another power source.",
+    ["Progress"]="Well, have you got the ten water pouches?",
+    ["Completion"]="Very well, here is another power source. I highly recommend you using it properly this time, unless you are eager to spend ten more water pouches for another water source.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Another Power Source?
+
+    -- Draconic for Dummies
+    ["8597"] = {
+    ["Title"]="Draconic for Dummies",
+    ["Description"]="I knew that book would come in handy some day! Thankfully, I had the wit and foresight to stow it somewhere safe.\n\nDon\'t worry, it\'s in a place that nobody could ever hope to find it! I needed a gyrocopter just to get there the first time. Unfortunately I crashed it on the beach on my way back. It was through that accident that I gained these super-gnomish psychic powers!\n\nLook for my crashed gyrocopter somewhere on Land\'s End Beach and swim south from there! You\'ll know the spot when you see it!",
+    ["Objectives"]="Find Narain Soothfancy\'s book, buried on an island in the South Seas.",
+    ["Progress"]="",
+    ["Completion"]="The book is gone! On top of the dirt mound is a note.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Draconic for Dummies
+
+    -- A Bad Egg
+    ["2750"] = {
+    ["Title"]="A Bad Egg",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="These are the eggs that cannot be saved -- they will never hatch.",
+    ["Completion"]="I am afraid I have bad news for you, <name>. This egg is too far gone. I can take it from you so that it may be disposed of properly.\n\nPlease don\'t be discouraged; we cannot save them all. If you find yourself in Feralas again, please try again. Bring another egg for the Super Egg-O-Matic!",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end A Bad Egg
+
+    -- Intricate Artwork
+    ["41763"] = {
+    ["Title"]="Intricate Artwork",
+    ["Description"]="These Venture Co. rats are everywhere! Wherever they go, their filthy hands grab anything they can get. Be it in the Stonetalon Mountains, the Stranglethorn Vale or here, no one is safe from their thievery. Honest and morally grey exploitery work is just not possible with them having so much widespread influence. If you ask me, it\'s time they start getting the memo who\'s the new and upcoming star in the world of goblin economics.\n\nBut let\'s talk about the real tragedy; when I was working on the oil rig down at the beach, I had my cozy little... uhm, collection of invaluable paintings stashed in the warehouse nearby, it was very dear to my heart! It is a one of a kind series and cannot make it all the way to Undermine and be sold on a miserable black market auction. Get it back for me, I am certain one of those thugs picked up the key to my chest when I was running for my life!",
+    ["Objectives"]="Recover Kwabit\'s Salacious Pictorial from the warehouse near the Slickwick Oil Rig in Tanaris.",
+    ["Progress"]="If you find it, don\'t you dare open it! You are not ready for their... peculiar beauty.",
+    ["Completion"]="Oh, my beloved, finally back in my arms. I cannot thank you enough, <name>. Now I have everything to enjoy my self-assigned vacation from the oil rig - thanks a bunch! Here, let\'s share a drink and toast on the occasion!",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Intricate Artwork
+
+    -- The Path of the Conqueror
+    ["8753"] = {
+    ["Title"]="The Path of the Conqueror",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Your continued defense of the children of Kalimdor has been acknowledged. Hand me your signet ring so that I may enhance its powers.",
+    ["Completion"]="",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end The Path of the Conqueror
+
+    -- Insect Part Analysis
+    ["110"] = {
+    ["Title"]="Insect Part Analysis",
+    ["Description"]="I\'m going to spend some time taking a look at Scrimshank\'s surveying gear... as well as putting his personal effects in order. I get the sneaking feeling behind my ears that this isn\'t the last loss we\'ll be facing against these bugs.\n\nI\'d like for you to check in with Alchemist Pestlezugg to see if he has had a chance to process the insect parts we sent him. If they\'re ready, bring them to me.",
+    ["Objectives"]="Check in Gadgetzan for Alchemist Pestlezugg and his analysis of the insect parts.",
+    ["Progress"]="",
+    ["Completion"]="Yes, I have the results right here. They are... unsettling, to say the least\n\nOur initial suspicion that the bugs are being controlled by an outside force, we believe, is correct. If this is the case, then we are dealing with not only a very powerful unknown force, but also a malignant one. These bugs have been changed to be pure ravagers. I\'ve never seen anything quite like it.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Insect Part Analysis
+
+    -- Water Pouch Bounty
+    ["1707"] = {
+    ["Title"]="Water Pouch Bounty",
+    ["Description"]="Greetings <name> - the name\'s Luglunket, and we\'ve got an important job for you if you\'re up for it! Huzzah!\n\nNothing would please me more as a seasoned spigot operator to take any Wastewander water pouches you might find out in the desert. That\'s our water anyway - the nomads have just stolen it is all! The Gadgetzan Water Company will offer you an official care package for every five you turn in. Most importantly though, you\'re helping Gadgetzan help itself!",
+    ["Objectives"]="Bring 5 Wastewander Water Pouches to Spigot Operator Luglunket in Gadgetzan.",
+    ["Progress"]="Got the five Wastewander water pouches we need? If you do, then the Gadgetzan Water Company Care Package, Model 103-XB, will be yours!",
+    ["Completion"]="Excellent - the more water pouches we are able to reclaim, the further away from disaster we\'ll all be! Keep \'em coming, and I will be sure to reward you for every five water pouches you bring me.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Water Pouch Bounty
+
+    -- The Path of the Protector
+    ["8749"] = {
+    ["Title"]="The Path of the Protector",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="You honor my kind, <name>. Strike down the enemies of Kalimdor! Show them what it means to deface the land of eternal starlight.\n\nYou have earned another enhancement. Hand me your signet ring so that I may bolster its power.",
+    ["Completion"]="",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end The Path of the Protector
+
+    -- Southsea Shakedown
+    ["8366"] = {
+    ["Title"]="Southsea Shakedown",
+    ["Description"]="Argh! They want the impossible from me!\n\nThe Steamwheedle Cartel wants me to teach the Southsea pirates a lesson. The problem is that I can\'t be in two places at once; I need to stay here to keep the peace.\n\nOf late, the pirates have been disregarding the protection money that the cartel regularly forks over. So I\'d like to temporarily deputize you to go down there and show them what for.\n\nYou\'ll find them at Lost Rigger Cove, which is not too far to the south. Thanks <name>, I\'ll owe you one!",
+    ["Objectives"]="Security Chief Bilgewhizzle of Steamwheedle Port in Tanaris wants you to kill 10 Southsea Pirates, 10 Southsea Freebooters, 10 Southsea Dock Workers and 10 Southsea Swashbucklers.",
+    ["Progress"]="Back so soon? I hope you taught those Southsea hoodlums a lesson they won\'t soon forget.",
+    ["Completion"]="<name>! You are the man!!!\n\nI\'m sure that the Cartel will ease up on me now that you\'ve dealt with those Southsea scum. Let\'s see, what can I give you as a reward? How about a little coin and you choose from one of these for your trouble?",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Southsea Shakedown
+
+    -- Insect Part Analysis
+    ["113"] = {
+    ["Title"]="Insect Part Analysis",
+    ["Description"]="Senior Surveyor Fizzledowser needs to see this report immediately. Actually... everyone who can read needs to see this report. We are facing a grave and serious threat to not only Tanaris and Gadgetzan, but if left unchecked, the entirety of southern Kalimdor. Heck, even quite possible the whole of Azeroth; this thing has given no indication it will subside.\n\nHave Fizzledowser make a duplicate of the report for you to distribute freely to your allegiance. Everyone must know about this threat!",
+    ["Objectives"]="Deliver the report to Senior Surveyor Fizzledowser in Gadgetzan. Be sure he gives you a copy of the report, as Alchemist Pestlezugg has requested.",
+    ["Progress"]="Well Junior Surveyor <name>, has ol\' Pestlezugg got that report ready yet?",
+    ["Completion"]="Thank you for delivering the report, Junior Surveyor <name>; here is your pay for your diligent service to the Gadgetzan Water Company.\n\nWhile I am usually not thrilled about handing out our valuable information carte blanche to those who would otherwise pay good coin for it, I\'ve known Pestlezugg for a number of years now. If he recommends letting everyone know about it, then so be it. Give me a moment and I\'ll make you a copy.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Insect Part Analysis
+
+    -- A Shifty Merchant
+    ["8928"] = {
+    ["Title"]="A Shifty Merchant",
+    ["Description"]="The core will provide us with enough juice to power our device; now we just have to build a rod that can channel that energy without melting.\n\nI met an imp in Winterspring that sold all manner of exotic goods. He had an elemental rod that would do perfectly. I\'m kicking myself in the head right now for not having bought it.\n\nHe lives inside a cave in the entrance to Darkwhisper Gorge. Sneak in there and try to find him.\n\nMake sure he only charges you forty gold; that\'s the price he quoted me!",
+    ["Objectives"]="Search for an imp inside a cave at the entrance of Darkwhisper Gorge in southern Winterspring, purchase a Fel Elemental Rod and return to Mux Manascrambler in Gadgetzan.",
+    ["Progress"]="Have you had any luck finding the imp in Darkwhisper Gorge?",
+    ["Completion"]="You did it! This rod will do perfectly. Now to put it all together...",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end A Shifty Merchant
+
+    -- Gahz'ridian
+    ["3161"] = {
+    ["Title"]="Gahz\'ridian",
+    ["Description"]="<name>, I\'m a scientist, but also a treasure hunter at heart!\n\nLong ago, when trolls used to occupy this land, they created large amounts of ornaments modeled after Gahz\'rilla, a hydra they worshipped as a deity. These ornaments are carved out of an element that I call \"Gahz\'ridian,\" after the hydra god.\n\nI did find some myself, but I\'d like to have some more to study -- maybe you can find some?\n\nI even invented a detector that makes finding the Gahz\'ridian a snap! Just put it on, and the search begins!",
+    ["Objectives"]="Marvon Rivetseeker in Tanaris wants you to collect 30 Gahz\'ridian Ornaments.",
+    ["Progress"]="Are you having any trouble?\n\nYou can find Gahz\'ridian just about anywhere in Tanaris, <name>, so keep looking!",
+    ["Completion"]="Perfect; these ornaments are perfect for my studies. Thanks so much for the help, <name>.\n\nOh, can I get my helmet back?",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Gahz'ridian
+
+    -- Fire Plume Forged
+    ["5801"] = {
+    ["Title"]="Fire Plume Forged",
+    ["Description"]="You need two bars of thorium and a powerfully hot heat source to forge the key stem. You\'re on your own for the thorium, but I can help with the heat.\n\nTo our west in Un\'Goro Crater is Fire Plume Ridge - a simmering volcano. The lava lake up top is hot enough to fuse thorium and bone together. Your gold has bought you a mold that simply requires you to dip it in the lake up top; the lava will take care of the rest.\n\nThat\'s it on my end. To finish your key, you\'ll need to talk to Arbington again.",
+    ["Objectives"]="Take the Skeleton Key Mold and 2 Thorium Bars to the top of Fire Plume Ridge in Un\'Goro Crater. Use the Skeleton Key Mold by the lava lake to forge the Unfinished Skeleton Key.\n\nBring the Unfinished Skeleton Key to Alchemist Arbington at Chillwind Point, Western Plaguelands.",
+    ["Progress"]="Do you have the stem of the skeletal key finished? I\'m truly sorry you had to bear the brunt of the fee to purchase the mold, but we must all do our part to counter the Scourge. Once you hand me the unfinished key, you\'ll be ready for the final item needed to complete its construction.\n\nIt won\'t be easy at all, but the work you\'ve done to date in preparing for an assault on Andorhal will now start to pay for itself. You\'ll see.",
+    ["Completion"]="We\'ve got quite the costly skeleton key there, don\'t we <name>? Still, it remains unfinished; the time has now come to put some focus behind our creation. To that end, you\'re going to have to face the ultimate foe we\'ve been working towards facing in Andorhal... the being that runs the show within the ruined city walls.\n\nI\'m speaking of Araj the Summoner - a lich, and one of the most powerful beings the Scourge calls as its own.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Fire Plume Forged
+
+    -- Bungle in the Jungle
+    ["4496"] = {
+    ["Title"]="Bungle in the Jungle",
+    ["Description"]="My research revealed to me that the silithid are like bees; destroy the queen of the hive, and the rest of should be thrown into disarray. I\'ll brew a lure that we\'ll use to bring out the queen; once summoned, you\'ll take her down.\n\nFirst though, we need some reagents; we don\'t want you bungling into the jungle unprepared. Go west to find the silithid hive in Un\'Goro Crater and obtain a scent gland from one of the bugs. I\'ll also need some samples of the native Un\'Goro soil.",
+    ["Objectives"]="Bring a Gorishi Scent Gland and 5 Un\'Goro Soil samples to Alchemist Pestlezugg in Gadgetzan.",
+    ["Progress"]="Finding a suitable scent gland might take a bit - the gland can\'t be damaged, but the process of getting one certainly doesn\'t lend itself to it. As for the soil, I\'d assume it should be easy enough to find.\n\nAnyway, do you have the items I need to make the lure?",
+    ["Completion"]="The scent gland, ah yes. The membrane appears intact - excellent. The soil, yes, this should work out perfectly. With my special additions, I should be able to grind all this up into the perfect lure.\n\nGive me a moment to make the lure, <name>. Once it\'s ready, we\'ll be able to enact the next step that may hopefully stop the silithid before they overrun Gadgetzan... and the rest of Kalimdor.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Bungle in the Jungle
+
+    -- More Wastewander Justice
+    ["1691"] = {
+    ["Title"]="More Wastewander Justice",
+    ["Description"]="We need you to take on the stronger ranks of the Wastewander nomads now. You\'ve done a good job thus far, but if we are to take back those water wells, then it only makes sense to do it against as few nomads as possible!\n\nThis time around we need you to take down their rogues, assassins, and shadow mages. You\'ll find them east and southeast of here.\n\nI\'m not going to lie to you - they\'re a nasty lot. Do this for us though, and we\'ll be on our way to taking back what is rightfully ours!",
+    ["Objectives"]="Take down 10 Wastewander Shadow Mages, 8 Wastewander Rogues, and 6 Wastewander Assassins for Chief Engineer Bilgewhizzle in Gadgetzan.",
+    ["Progress"]="Well, were you able to take out those nomads like I asked? The Gadgetzan Water Company is developing plans based on your success here! Don\'t let us down, now...",
+    ["Completion"]="Top notch work, <name>... top notch! You\'ve thinned down the nomad population to a point where we can actually take the fight to them!\n\nIf you haven\'t already, talk to Spigot Operator Luglunket here; he gives a bounty on any of the Wastewander water pouches you may have run across while bringing those nomads to justice!",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end More Wastewander Justice
+
+    -- Stoley's Shipment
+    ["2873"] = {
+    ["Title"]="Stoley\'s Shipment",
+    ["Description"]="I owe \"Sea Wolf\" MacKinley in Booty Bay some rum, to settle a bet, but I\'m all out of rum! Captain Cuergo stole my last shipment, and he has it stowed in that walled pirate town to the south.\n\nIf you can find my shipment of rum and return it to me, then I can prove to MacKinley that Kalimdor\'s booze beats the dirt out of Booty Bay!",
+    ["Objectives"]="Bring Stoley\'s Shipment to Stoley in Steamwheedle Port.",
+    ["Progress"]="Did you find my shipment of rum, <name>?",
+    ["Completion"]="Great, thanks for the shipment! Now MacKinley and I can finally settle our wager.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Stoley's Shipment
+
+    -- The Changing of Paths - Conqueror No More
+    ["8766"] = {
+    ["Title"]="The Changing of Paths - Conqueror No More",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Champion, should you decide to walk another path, present me with your signet ring and a mountain of scarabs from our enemies in Ahn\'Qiraj.",
+    ["Completion"]="Be well, <name>. If you change your mind, I shall be here to assist you.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end The Changing of Paths - Conqueror No More
+
+    -- The Stone Circle
+    ["3444"] = {
+    ["Title"]="The Stone Circle",
+    ["Description"]="I once entered the foreboding chambers of the Sunken Temple. The evil in that place penetrates all that enter; I barely managed to find my way out, wading through the ooze that now covers the floors. All I can remember is stumbling through a large circular room, filled with serpent statues...\n\nRecently, I discovered a round stone that appeared to have the same serpent symbol imprinted on it. I had it packed up and shipped to my workshop in Ratchet. Retrieve it, and I might be able to tell you more.",
+    ["Objectives"]="Retrieve the Stone Circle from Marvon Rivetseeker\'s workshop in Ratchet.",
+    ["Progress"]="Ratchet is not far from here, <name>. The journey shouldn\'t take long.",
+    ["Completion"]="Yes... This is the stone.\n\nIt\'s all coming back to me now, <name>...",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end The Stone Circle
+
+    -- Ship Schedules
+    ["2876"] = {
+    ["Title"]="Ship Schedules",
+    ["Description"]="This scroll contains the schedules of shipments between Steamwheedle Port and Booty Bay. Both past and future shipments are included, along with ship names, with large \'X\'s next to some ships\' journeys, and annotations like \"GREAT LOOT\" and \"HARD FIGHT\" next to others.\n\nSomeone at Steamwheedle Port would want to see this document.",
+    ["Objectives"]="Report the Ship Schedules to an authority in Steamwheedle Port.",
+    ["Progress"]="You look out of breath. You have something to tell me?",
+    ["Completion"]="Oh my, this looks to be a list of ship departures and arrivals, with accurate dates and times and everything! If the captain of a pirate ship got his hands on this, he could have himself a field day!\n\nYou say you got this from a pirate? Well that\'s disturbing news...\n\nThank you, <name>. I\'m glad you took it from him, and I\'m glad that pirate\'s eating dirt right now!",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Ship Schedules
+
+    -- Venture Co. Hatred
+    ["41765"] = {
+    ["Title"]="Venture Co. Hatred",
+    ["Description"]="Things are heating up in Undermine, kiddo. Not that it had ever been quiet there, but the Venture Co. has started to gain noticeable traction in all sorts of trades all around Azeroth. They\'ve always been more... let\'s say, ‘unorthodox\', in their business practices, but whatever they\'re planning doesn\'t look too rosey. All ya gotta do is go down the beach and see for yourself.\n\nYa see, I joined the Durotar Labor Union not long ago; Nert was quick to assign me a project on my own, considering what happened on Blackstone Island and my flawless track record regarding profit optimization back on Kezan. Once we got the ball rolling, it did not take long for the Venture Co. to creep up and do their thing. If ya ask me, it\'s time for some well-earned payback. Let us give them a taste of their own medicine, whaddya think?",
+    ["Objectives"]="Clean up the Venture Co. intruders at the Slickwick Oil Rig and return to Boss Slickwick afterwards.",
+    ["Progress"]="Done with the pest control yet?",
+    ["Completion"]="Must\'ve been a breeze, eh? You are more competent than you look. Nert was right in allying with the Horde; not that he had much choice to begin with. Now that the fodder\'s outta the way, time to smoke out their head honcho.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Venture Co. Hatred
+
+    -- A Portable Power Source
+    ["8925"] = {
+    ["Title"]="A Portable Power Source",
+    ["Description"]="Next we shall need to find a stable and portable source of energy to keep the ectoplasm active. I\'ve heard rumors of a mighty elemental called Magma Lord Bokk, whose heart is a powerful magma core - an endless supply of heat!\n\nIt\'s said he can be found in the Burning Steppes, south of Blackrock Mountain. Bring the magma core to me and we shall have enough juice to power the extra-dimensional ghost revealer!",
+    ["Objectives"]="Find Magma Lord Bokk in the Burning Steppes, obtain his Magma Core and bring it to Mux Manascrambler in Gadgetzan.",
+    ["Progress"]="Have you found the Magma Lord, <name>?",
+    ["Completion"]="You\'ve done it! This will certainly provide enough energy to power up the extra-dimensional ghost revealer!",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end A Portable Power Source
+
+    -- The Charge of the Dragonflights
+    ["8555"] = {
+    ["Title"]="The Charge of the Dragonflights",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="",
+    ["Completion"]="Eranikus, Vaelastrasz, and Azuregos... No doubt you know of these dragons, mortal. It is no coincidence, then, that they have played such influential roles as watchers of our world.\n\nUnfortunately (and my own naivety is partially to blame) whether by agents of the Old Gods or betrayal by those that would call them friend, each guardian has fallen to tragedy. The extent of which has fueled my own distrust towards your kind.\n\nSeek them out... And <race>, prepare yourself for the worst.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end The Charge of the Dragonflights
+
+    -- Don’t tell the Others
+    ["41985"] = {
+    ["Title"]="Don’t tell the Others",
+    ["Description"]="Kid, I need help! Noggenfogger is planning to throw a grand party at Steamwheedle to celebrate some breakthrough in his alchemistic research or whatever, I don’t really get it myself. What I do get is that he expects me to cook up a twelve course meal for the entirety of Gadgetzan’s populace - in four days! I may have the supplies, but my trusty oven is not made for orders that large. If only my cooker was ready to go…\n\nOkay, listen. I gave the blueprints to a genius new invention in the cooking world to…\n\n<Dirge leans in closer, cuppin his mouth with his hand.>\n\nOglethorbe Obnoticus over in Booty Bay; but don’t say that out loud! Go over there and ask him to finish the cooker I ordered. My life depends on it!",
+    ["Objectives"]="Get the completed cooker from Oglethorbe Obnoticus in Booty Bay and bring it to Dirge Quikcleave in Gadgetzan.",
+    ["Progress"]="Do you have the cooker?!",
+    ["Completion"]="Look at that beauty! Sleek design, a wonderful black finish on top and most of all - it won’t explode in my face when I turn it on. Thanks a lot, <name>. Now there should be nothing standing in my way to properly prepare Noggenfogger’s banquet.\n\nHere, you can have a copy of the cooker’s blueprints for coming in clutch there. Thanks again, kid!",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Don’t tell the Others
+
+    -- In Good Taste
+    ["2606"] = {
+    ["Title"]="In Good Taste",
+    ["Description"]="Blech! This stuff tastes terrible! So much for that idea...\n\nWait, what\'s that? Oh, I know, I know, you think I shouldn\'t give up on this stuff. Well, okay then.\n\nUhhhh, I have an idea! Brilliant! Take this dew to my friend Sprinkle -- she\'s an excellent chef. Tell her what we\'re up to here and that we want to make it go down a little easier.\n\nI mean, if it\'s going to taste that bad, it at least should have some kick to it... And I\'m just not feeling it...",
+    ["Objectives"]="Marin Noggenfogger wants you to speak with Sprinkle in Gadgetzan.",
+    ["Progress"]="So old Marin\'s up to it again, eh? What\'s this concoction made from?",
+    ["Completion"]="Marin\'s a good guy, don\'t get me wrong -- just a little... eccentric, I\'d say.\n\nAnd of course he needs my help, yet again.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end In Good Taste
+
+    -- Slake That Thirst
+    ["379"] = {
+    ["Title"]="Slake That Thirst",
+    ["Description"]="You want a power source. I can help you with that. Know what I want? I want something to drink! Bring me five Wastewander Water Pouches, and I\'ll give you the 4711-FTZ.\n\nNow... guess where you can find Wastewander Water Pouches! Why don\'t you walk up to one of the Wastewander nomads to the east of here and ask them for one. Let me know how that works out for you.",
+    ["Objectives"]="Bring 5 Wastewander Water Pouches to Chief Engineer Bilgewhizzle in Gadgetzan.",
+    ["Progress"]="Well, did the nomads \'volunteer\' up those water pouches for you?",
+    ["Completion"]="Excellent, the power source is yours. Now, it isn\'t completely designed for use in a science kit like that, so you\'ll only have a limited amount of time before all the data you collect will go kablooey!\n\nWhen you collect everything you need for whatever it is you are doing, bring it to me and I\'ll shut it down properly. You\'ll have at most two hours to get what you need to get done, done.\n\nIf you don\'t get it done in time, I can always sell you another power source to try again. You heard me - sell!",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Slake That Thirst
+
+    -- The Good News and The Bad News
+    ["8728"] = {
+    ["Title"]="The Good News and The Bad News",
+    ["Description"]="Well that took a little longer than expected. Now let me see what this ledger says.\n\n<Narain silently reads the ledger, periodically mumbling under his breath.>\n\nThe good news is that I am 99% certain that I am capable of creating an arcanite buoy that will function to your specifications. This is, of course, wholly dependant on the bad news.\n\nThe bad news is that I\'m going to need a lot of arcanite, elementium ore, and rare gemstones.\n\nBring me what I need and I will craft the buoy.",
+    ["Objectives"]="Narain Soothfancy in Tanaris wants you to bring him 20 Arcanite Bars, 10 Elementium Ore, 10 Azerothian Diamonds, and 10 Blue Sapphires.",
+    ["Progress"]="Arcanite buoys don\'t just make themselves, <name>. And NO, you cannot borrow some money.",
+    ["Completion"]="A deal is a deal. I sure hope you know what you are getting yourself into, <name>. This is an awful lot of trouble to go through to do some fishing.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end The Good News and The Bad News
+
+    -- A Fine Egg
+    ["2748"] = {
+    ["Title"]="A Fine Egg",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="A fine egg is one that will, in ideal conditions, hatch free of the evil effects of the Gordunni ogres\' incantations.",
+    ["Completion"]="Very good, <name>. I will be sending this egg to Darnassus where I hope it will soon hatch!\n\nPlease accept this as a symbol of my gratitude.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end A Fine Egg
+
+    -- The Dunemaul Compound
+    ["5863"] = {
+    ["Title"]="The Dunemaul Compound",
+    ["Description"]="Just recently, a large bank of nomadic ogres arrived in Tanaris. South of here, they have taken over a large area of the desert and formed a compound. Several smaller bands are currently wandering the desert, some of which have invaded the old troll ruins.\n\nThe Dunemaul Compound must be destroyed! We cannot allow these ogres to build up a force.\n\nThe leader of this band is named Gor\'marok the Ravager; I believe that putting an end to his leadership will be the beginning of the end for the ogres.",
+    ["Objectives"]="Andi Lynn in Gadgetzan wants you to destroy the Dunemaul Compound by killing 10 Dunemaul Brutes, 10 Dunemaul Enforcers, and Gor\'marok the Ravager.",
+    ["Progress"]="I\'m so worried! Please be careful!",
+    ["Completion"]="I\'m so glad you were able to do this for me, <name>! Thanks for your help!",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end The Dunemaul Compound
+
+    -- Calm Before the Storm
+    ["4509"] = {
+    ["Title"]="Calm Before the Storm",
+    ["Description"]="My recent findings and the knowledge we have gained here today needs to reach hands that can quite possibly do something with it. As resourceful as we are here in Gadgetzan, we can\'t do this alone.\n\nTake my latest report back to Zilzibin Drumlore in Orgrimmar; he\'s still in his place on the upper part of the Drag, is he not? He\'s got friends who are high within the Horde; if we can get them involved in this <name>, then we just might make it out of this alive.",
+    ["Objectives"]="Bring Pestlezugg\'s Un\'Goro Report to Zilzibin Drumlore in Orgrimmar.",
+    ["Progress"]="They are fools, <name>! They cannot even think to look around them for a greater threat; their irrational hatred of the Alliance will be our undoing. I do not know how much more proof I can give them of the silithid threat short of dropping them in one of the hives so they can see for themselves!\n\nI\'m sorry, you bring news for my attention?",
+    ["Completion"]="While I genuinely appreciate this, I am not sure what good it will do us. The Horde ignores threats from any source other than the Alliance. While Thrall himself might take action were the facts presented to him, he is beset on all sides by conflicting advice. These fools would have us chase our own imaginary tails were they to think it might catch the Alliance unawares!\n\nYou have seen the threat yourself, <name>. We must remain committed to defeating the silithid!",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Calm Before the Storm
+
+    -- A Supernatural Device
+    ["8922"] = {
+    ["Title"]="A Supernatural Device",
+    ["Description"]="I must find a way to speak with Anthion Harmon... or more specifically, his ghost!\n\nI know of an engineer with a queer interest in the supernatural. He claims he can build a machine that allows him to speak with the dead!\n\nThe blood you collected was intended for him; travel to Gadgetzan and bring it to him as payment for his services!",
+    ["Objectives"]="Bring the Sealed Blood Container to Mux Manascrambler inside Gadgetzan in Tanaris.",
+    ["Progress"]="You\'ve something for me?",
+    ["Completion"]="Excellent! Just as I was running low!\n\nYou say Deliana sent you?",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end A Supernatural Device
+
+    -- Tanaris Field Sampling
+    ["654"] = {
+    ["Title"]="Tanaris Field Sampling",
+    ["Description"]="Activating the power source makes the field testing kit start to glow and vibrate. It would seem to be working as planned.\n\nAccording to Chief Engineer Bilgewhizzle, you now have two hours to collect the data you need in the Tanaris desert. If you do not collect it within two hours, all the data will be lost and you will need to buy another power source from him.\n\nReturn to him when you have completed the task.",
+    ["Objectives"]="Acquire acceptable samples for 8 basilisks, 8 hyenas, and 8 scorpions. Bring the testing kit back to Chief Engineer Bilgewhizzle in Gadgetzan before the power source runs out.",
+    ["Progress"]="Well, did you get everything you needed? If you didn\'t and the power runs out, everything inside will be ruined and you\'ll have to start over.\n\nHey, don\'t look to me for sympathy; I\'m all about the Gadgetzan Water Company making a profit, and if that means selling you power sources until we can afford to import water in from the icy springs of Dun Morogh, so be it!",
+    ["Completion"]="All right then, it will take me just a second to remove the power source. After that, you can do with it whatever you like now without having to worry about losing the data inside.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Tanaris Field Sampling
+
+    -- Never Ask Me About My Business
+    ["8584"] = {
+    ["Title"]="Never Ask Me About My Business",
+    ["Description"]="If there is one thing that you should know about me, it is this: NEVER ask me about my business! I work with things you simply cannot understand. Like for example: Do you know what a psychotronic muzzledorf is? Of course you don\'t! And that\'s why we leave the planning to me and the fetching to you.\n\nAs I said earlier, if this is going to work, we\'re going to need a 500 pound chicken.\n\nHead to Gadgetzan and speak with Dirge Quikcleave - he\'ll get you started on finding a suitable specimen.",
+    ["Objectives"]="Narain Soothfancy in Tanaris wants you to speak with Dirge Quikcleave in Gadgetzan.",
+    ["Progress"]="",
+    ["Completion"]="<Dirge scratches his head.>\n\nA 500 pound chicken? There\'s no such thing! Not anymore, at least. I knew of such a chicken... The Black Chicken of Death...\n\n<Dirge\'s voice trails off.>\n\nBut yes, nobody ever saw that chicken and lived to tell the tale. I\'ve got an idea that could benefit the both of us, kid.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Never Ask Me About My Business
+
+    -- A Deal Worth Taking
+    ["41762"] = {
+    ["Title"]="A Deal Worth Taking",
+    ["Description"]="Hey, psst, pal. Running dry on gold? Of course you are, I know that look. I got a job for you that\'ll be easier than changing the diaper on an ogre! Listen, really, no need to ask questions, I promise it\'ll be to your benefit. Down in the southwestern mountains, the Durotar Labor Union is operating large-scale oil pumping schemes. Kind of risky if you ask me; anyway, my clients are not entirely happy about them doing what they\'re doing, and you\'ll be the one to stop them. Here, take these overchargers and plant them on their pump stations. Watch out for their workers, they will surely be trying to stop you. Once you are done, return to me for your hard-earned reward!",
+    ["Objectives"]="Sabotage the pump stations of the Slickwick Oil Rig and return to the Shady Individual in Gadgetzan.",
+    ["Progress"]="Are you done yet? Don\'t keep me waiting, buster!",
+    ["Completion"]="Wonderful, wonderful! Once they start up the stations again, they will create a SPECTACULAR display of pyrodynamics! With this outta the way, all we gotta do is haul the barrels back to... -wait, you\'re still here? Oh, your reward, sure, just give me a second...\n\n<The goblin is rummaging in a small satchel on his belt, before pulling out a gold coin.>\n\nThere you go, don\'t spend everything at once, bozo!",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end A Deal Worth Taking
+
 };
