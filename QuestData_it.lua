@@ -50192,6 +50192,69 @@ QuestTranslator_QuestData = {
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Alliance Trauma
+    -- Triage
+    -- Horde Trauma -> Sürü Travması (Horde -> Sürü, Trauma -> Travma).
+    -- First Aid -> İlk Yardım.
+    -- Triage Bandages -> Triyaj Bandajları / Triyaj Sargı Bezleri.
+    ["6622"] = { 
+    ["Title"]="Triyaj",
+    ["Description"]="İyi günler doktor. Bu öğleden sonra hastaları düzgün şekilde triyaj etme yeteneğiniz test edilecek. Sınavınızı geçerseniz, Sürü Travması'nın saygın kadrosuna katılacaksınız.\n\nŞimdi dikkatle dinleyin! Önce durumu kritik derecede ağır yaralılarla ilgilenilmelidir. Kritiklerden sonra ağır yaralılar gelir. Hafif yaralılarla ise en son ilgilenilmelidir. Bu sınavı geçmek için 15 hastayı kurtarmalısınız. Triyajda 6 hastanız ölürse başarısız olursunuz.\n\nTriyaj bandajları sağlanacaktır.\n\nİyi şanslar doktor.",
+    ["Objectives"]="Hastaların yaralarını sarmak için Triyaj Bandajları kullanarak onları kurtar. 6 hasta yaralarından ölmeden önce 15 hastayı kurtarmalısın.\n\nTriyaj sırasını unutma! Ağır Yaralı Askerler en hızlı ölenlerdir, onları Ciddi Yaralı Askerler takip eder. Yaralı Askerlerin ölmesi en uzun sürer ve Ağır Yaralı ile Ciddi Yaralı Askerlerin triyajı yapıldıktan SONRA kurtarılmalıdırlar.",
+    ["Progress"]="Mucizevi bir iş doktor. Tek kelimeyle mucizevi.",
+    ["Completion"]="Doktor <name>, Sürü Travması'na hoş geldiniz.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Triage
+    -- Triage
+    -- Alliance Trauma -> İttifak Travması (Alliance -> İttifak, Trauma -> Travma)
+    -- First Aid -> İlk Yardım
+    -- Triage Bandages -> Triyaj Bandajları
+    ["6624"] = {
+    ["Title"]="Triyaj",
+    ["Description"]="İyi günler, doktor. Bu öğleden sonra hastaları uygun şekilde triyaj etme yeteneğiniz test edilecek. Sınavınızı geçerseniz, İttifak Travması'nın saygın kadrosuna katılacaksınız.\n\nŞimdi dikkatle dinleyin! Önce durumu kritik derecede ağır yaralılarla ilgilenilmelidir. Kritiklerden sonra ağır yaralılar gelir. Hafif yaralılarla ise en son ilgilenilmelidir. Bu sınavı geçmek için 15 hastayı kurtarmalısınız. Triyajda 6 hastanız ölürse başarısız olursunuz.\n\nİyi şanslar, doktor.",
+    ["Objectives"]="Hastaların yaralarını sarmak için Triyaj Bandajları kullanarak onları kurtar. 6 hasta yaralarından ölmeden önce 15 hastayı kurtarmalısın.\n\nTriyaj sırasını unutma! Ağır Yaralı Askerler en hızlı ölenlerdir, onları Ciddi Yaralı Askerler takip eder. Yaralı Askerlerin ölmesi en uzun sürer ve Ağır Yaralı ile Ciddi Yaralı Askerlerin triyajı yapıldıktan SONRA kurtarılmalıdırlar.",
+    ["Progress"]="Mucizevi bir iş, doktor. Tek kelimeyle mucizevi.",
+    ["Completion"]="Doktor <name>, İttifak Travması'na hoş geldiniz.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Triage
+    -- Shadowshard Fragments
+    -- Maraudon -> Maraudon (ZoneData.lua)[cite: 2].
+    -- Orgrimmar -> Orgrimmar (ZoneData.lua)[cite: 2].
+    -- Uthel'nay -> Uthel'nay (MobNpcData.lua)[cite: 1].
+    -- Desolace -> Desolace (ZoneData.lua)[cite: 2].
+    -- Shadowshard Fragment -> Gölgekırığı Parçası / Gölge Kıymığı Parçası.
+    -- Zealous Shadowshard Pendant -> Gayretli Gölgekırığı Kolyesi.
+    -- Prodigious Shadowshard Pendant -> Muazzam Gölgekırığı Kolyesi.
+    ["7068"] = {
+    ["Title"]="Gölgekırığı Parçaları(Shadowshard Fragments)",
+    ["Description"]="Sentorların kutsal yerinde güçlü büyüler bulunur... Maraudon'un kutsal alanında. Desolace sentor kabileleri orayı canları pahasına korurlar ama ihtiyacımız olanı almamıza engel olamazlar.\n\nSen, bu Maraudon denen yere git ve gölgekırığından yapılmış taş yaratıkları bul. Bana mor kristalleri getir, Uthel'nay da ayırdığın zaman için sana bir şeyler yapsın.\n\nBurası tehlikeli bir yerdir, bu yüzden belki yanına birkaç arkadaş alırsın.",
+    ["Objectives"]="Maraudon'dan 10 Gölgekırığı Parçası topla ve onları Orgrimmar'daki Uthel'nay'a götür.[cite: 1, 2]",
+    ["Progress"]="Kristalleri henüz bulamadın mı? Güç ritüelleri, muazzam kuvvette büyüler... O gölgekırıkları her türlü arkana büyüsünde çok faydalı olabilir.",
+    ["Completion"]="Ah, bunlar büyülerim için mükemmel. Al, bu takılardan birini seç ve yoluna bak... Yapacak çok çalışmam var.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Shadowshard Fragments
+
+    -- Shadowshard Fragments
+    -- Maraudon -> Maraudon (ZoneData.lua)[cite: 2].
+    -- Theramore -> Theramore (ZoneData.lua)[cite: 2].
+    -- Dustwallow Marsh -> Tozbatak Bataklığı (ZoneData.lua)[cite: 2].
+    -- Desolace -> Desolace (ZoneData.lua)[cite: 2].
+    -- Archmage Tervosh -> Başbüyücü Tervosh (MobNpcData.lua)[cite: 1].
+    -- Lady Proudmoore -> Leydi Gururbayrağı (Proud -> Gurur, Moore -> Bayrak / Gururbayrağı).
+    -- Shadowshard Fragment -> Gölgekırığı Parçası.
+    -- Zealous Shadowshard Pendant -> Gayretli Gölgekırığı Kolyesi.
+    -- Prodigious Shadowshard Pendant -> Muazzam Gölgekırığı Kolyesi.
+    ["7070"] = {
+    ["Title"]="Gölgekırığı Parçaları(Shadowshard Fragments)",
+    ["Description"]="Son zamanlarda çeşitli kristalleri ve onların arkana özelliklerini test etmeye başladım. Leydi Gururbayrağı, Desolace'a doğru yola çıkan gezginlerden Maraudon adında bir yeri aramalarını istemem için bana izin verdi. Harabe tapınağın içinde, gölgekırığı adını verdiğim morumsu taşlardan oluşmuş büyük elementaller bulunuyor.\n\nEğer o yöne gitmeye karar verirseniz ve bu kristallerden bazılarını bulursanız minnettar olurdum. İsterseniz bu kristallerden sizin için bir takı bile tasarlayabilirim.",
+    ["Objectives"]="Maraudon'dan 10 Gölgekırığı Parçası topla ve onları Tozbatak Bataklığı kıyısındaki Theramore'da bulunan Başbüyücü Tervosh'a götür.[cite: 1, 2]",
+    ["Progress"]="Yolculuğu gerçekleştirdiniz mi? Oldukça tehlikeli olacağının farkındayım ama başarılı olursanız kesinlikle buna değecektir.",
+    ["Completion"]="Bunlar mükemmel, <name>. Aslında oradan dönen başka maceracılar da oldu ve onlar sayesinde bunları tasarlayabildim... Lütfen, emeğinizin karşılığı olarak bir tanesini almaktan çekinmeyin. Ve incelemem için daha fazla numune getirdiğiniz için tekrar teşekkür ederim.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Shadowshard Fragments
 --123456
 
     -- Shrillfluke's Early Retirement
