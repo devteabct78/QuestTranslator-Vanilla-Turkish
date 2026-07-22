@@ -8759,4 +8759,5 @@ QuestTranslator_QuestList = {
 ["A Fine Egg"]="2748",
 ["Calm Before the Storm"]="4509",
 ["A Deal Worth Taking"]="41762",
+["Stinky's Escape"]="1222",
 } 

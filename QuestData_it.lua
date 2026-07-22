@@ -28070,7 +28070,7 @@ QuestTranslator_QuestData = {
     -- Gnomish konuşma tarzı ("bub", "kid") "ahbap", "evlat" olarak aktarılmıştır.
     ["Title"]="Terk Edilmiş Erzaklar",
     ["Description"]="Makinelerin çoğunun onarımını sürdürmek giderek zorlaşıyor, özellikle de son zamanlardaki tüm bu kaosla birlikte. Deneyimliyim ama aletlerimin çoğu eksik ahbap. Gerçekten bir tork anahtarına ihtiyacın olduğunda normal bir İngiliz anahtarıyla çalışmanın ne kadar zor olduğunu bilir misin? Buranın hemen kuzeyinde 'Terk Edilmiş Kamp' (The Derelict Camp) denen bir yer var. Şey, bir zamanlar o kadar da terk edilmiş değildi. Orada pek çok faaliyetimiz olurdu: odun kesme, muz toplama ve çok daha fazlası. Tüm ıvır zıvırımla birlikte alet çantamı işte orada kaybettim ve onu geri istiyorum. Kampı adanın batı ucunda bulabilirsin. Yolu kuzeye doğru takip et, onu bulacaksın.",
-    ["Objectives"]="Tel Şirketi Ordugahı'ndaki (Tel Co. Basecamp) Wazlon Demirkapa (Wazlon Headiron) için 'Terk Edilmiş Kamp'a seyahat et ve Wazlon'un Aletleri'ni topla.",
+    ["Objectives"]="Tel Şirketi Ordugahı'ndaki (Tel Co. Basecamp) Wazlon Demirkafa (Wazlon Headiron) için 'Terk Edilmiş Kamp'a seyahat et ve Wazlon'un Aletleri'ni topla.",
     ["Progress"]="Aletlerimi henüz buldun mu evlat?",
     ["Completion"]="Aman, işte bu! Sana dürüst olacağım, buradan tıngır mıngır çıkıp gittiğinde maymunların seni parça parça edeceğini düşünmüştüm ama onu gerçekten ellerimde tutmak... Al bakalım, bu yüzüğü al. Bu Tel Şirketi işi daha da sarpa sararsa diye altın biriktirmeye çalışıyorum.",
     ["minlevel"]="0",
@@ -50255,6 +50255,37 @@ QuestTranslator_QuestData = {
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Shadowshard Fragments
+    -- Stinky's Escape
+    -- "Stinky" Ignatz -> "Kokuşmuş" Ignatz (MobNpcData.lua)
+    -- Morgan Stern -> Morgan Stern (MobNpcData.lua)
+    -- Theramore -> Theramore (ZoneData.lua)
+    -- Stormwind -> Fırtınadiyarı (ZoneData.lua)
+    -- Blue Recluse -> Mavi Keşiş (Blue -> Mavi, Recluse -> Keşiş / İnzivaya Çekilen)
+    -- Elixir of Fortitude -> Dayanıklılık İksiri
+    ["1222"] = {
+    ["Title"]="Kokuşmuş'un Kaçışı",
+    ["Description"]="Harika, sonunda beni yemek istemeyen biri!\n\nBuralardaki mahluklarla başa çıkmak için yardıma ihtiyacım var ve sen de tam bu işe uygunsun dostum.\n\nAşçı Morgan Stern yeni bir yemek tarifi araştırıyor ve bataklık fasulyesi yaprakları toplamam için beni buraya gönderdi. Sanırım onların lezzetli olduğunu düşünüyor.\n\nHer neyse, bir bataklık fasulyesi bitkisi ararken... Etrafımı sardılar! Buradan çıkmama yardım edip ben bataklık fasulyesini ararken arkamı kollar mısın?",
+    ["Objectives"]='"Kokuşmuş" Ignatz\'a eşlik et, ardından Theramore\'daki Morgan Stern ile konuş.',
+    ["Progress"]="Bay Ignatz'ı gördün mü? Onu bir süre önce bataklığa gönderdim ve henüz geri dönmedi!",
+    ["Completion"]="Bay Ignatz az önce bataklık fasulyesi yapraklarıyla buradaydı ve ona gerçekten büyük bir beladan kurtulması için yardım ettiğini söyledi.\n\nTeşekkür ederim, <name>. Fırtınadiyarı'ndaki Mavi Keşiş'i bir sonraki ziyaretinde sana bir ziyafet çekmesi için amcamdan ricada bulunacağım.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Stinky's Escape
+    -- Hollow Web Silk
+    -- Gilneas -> Gilneas (ZoneData.lua)[cite: 2].
+    -- Hollow Web Woods -> Oyuk Ağ Ormanı (Hollow -> Oyuk, Web -> Ağ, Woods -> Orman).
+    -- Ravenshire -> Kuzgun Bucağı (Raven -> Kuzgun, Shire -> Bucak).
+    -- Magistrate Carson -> Yargıç Carson (Magistrate -> Yargıç) (MobNpcData.lua)[cite: 1].
+    -- Hollow Web Silk -> Oyuk Ağ İpeği.
+    ["40925"] = {
+    ["Title"]="Oyuk Ağ İpeği",
+    ["Description"]="Bu çatışma bittiğinde, kim kazanırsa kazansın, ailemin bağlı olduğu soyluluğa yakışır şekilde takdim edilebilir durumda olmalıyım. Böyle yüksek bir konumu koruyacaksam, bu toprakların sunabileceği en kaliteli ipeğe ihtiyacım var.\n\nOyuk Ağ Ormanı'nın örümcekleri nadir ve bulunması zor bir ipek üretir. Bu çatışma kaçınılmaz olarak sona erdiğinde kendime güzel bir yeni giysi takımı diktirebilmek için buna sahip olmalıyım.\n\nOyuk Ağ Ormanı'nı hemen buranın batısında bulabilirsin. Bana 10 Oyuk Ağ İpeği topla, ben de bunu zamanına değer kılayım, halktan biri.",
+    ["Objectives"]="Gilneas'taki Kuzgun Bucağı'nda bulunan Yargıç Carson için Oyuk Ağ Ormanı örümceklerinden 10 Oyuk Ağ İpeği topla.[cite: 1, 2]",
+    ["Progress"]="Boşuna zaman harcayasın diye sana ödeme yapmıyorum, biliyorsun değil mi?",
+    ["Completion"]="Aman Tanrım, şuna bir baksana. Ne kadar karmaşık ve detaylı bir ipek.\n\nYeni giysilerimin yapımı tamamlandığında kesinlikle ödendiği fiyata değecek.\n\nAh, evet, sana ödeme yapacaktım, değil mi? Al şu gümüşü ve yoluna devam et lütfen.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Hollow Web Silk
 --123456
 
     -- Shrillfluke's Early Retirement
