@@ -909,10 +909,10 @@ QuestTranslator_QuestData = {
     ["93"] = {
     ["Title"]="Alacakaranlık Yengeç Köfteleri",
     ["Description"]="Sana küçük bir sır vereyim - Alacakaranlık \"Yengeç\" Köfteleri (Dusky \"Crab\" Cakes) aslında örümcek bacaklarından yapılıyor! Biraz iğrenç (disgusting) olduğunu biliyorum ama köftelerin hoş, mayhoş bir tadı (tangy flavor) var ve harika atıştırmalıklar (snacks) oluyorlar! Bana Yapışkan Örümcek Bacakları (Gooey Spider Legs) getir, ben de sana onlardan birkaç tane hazırlayayım (whip you up).\n\nZehirağı Örümceklerinin (Venom Web Spiders) iyi bir kaynak olduğunu duydum; kuzeyde, dağ etekleri ile nehir arasında yuva yapıyorlar.",
-    ["Objectives"]="6 Yapışkan Örümcek Bacağı (Gooey Spider Legs) topla ve onları Karanlıkdiyar'daki (Darkshire) Şef Grual'a (Chef Grual) getir.",
+    ["Objectives"]="6 Yapışkan Örümcek Bacağı (Gooey Spider Legs) topla ve onları Karanlıkdiyar'daki (Darkshire) Şef Grual'a getir.",
     ["Progress"]="Selam, YOUR_NAME. Şu Yapışkan Örümcek Bacaklarını (Gooey Spider Legs) henüz alabildin mi?",
-    ["Completion"]="Ah evet, orada güzel bir kucak bacak (clutch of legs) varmış! Şunları gizli baharatlarımla (secret spices) çeşnilendireyim (bakmak yok!) ve bir süre tavada cızırdatayım (skittering on a skillet)...\n\nVe Alacakaranlık Yengeç Köfteleri benim spesiyalim (specialty) olduğu ve tarifini vermeyeceğim için, sana neredeyse onun kadar iyi olan bir yemeğin (dish) tarifini vereceğim.",
-    ["Gains"]="Görevler tamamlandığında, kazanılan:\n80 Deneyim (Experience)\n50 Fırtınayeli (Stormwind) ile İtibar",
+    ["Completion"]="Ah evet, orada güzel bir kucak bacak (clutch of legs) varmış! Şunları gizli baharatlarımla çeşnilendireyim (bakmak yok!) ve bir süre tavada cızırdatayım ...\n\nVe Alacakaranlık Yengeç Köfteleri benim spesiyalim olduğu ve tarifini vermeyeceğim için, sana neredeyse onun kadar iyi olan bir yemeğin tarifini vereceğim.",
+    ["Gains"]="Görevler tamamlandığında, kazanılan:\n80 Deneyim \n50 Fırtınayeli (Stormwind) ile İtibar",
     }, -- end Dusky Crab Cakes
 
     -- Dikkatli Bir Göz
