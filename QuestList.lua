@@ -8746,7 +8746,7 @@ QuestTranslator_QuestList = {
 ["Deliver to MacKinley"]="2874",
 ["Rise of the Silithid"]="162",
 ["Trouble at Slickwick Oil Rig"]="41838",
-["Water Pouch Bounty"]="1878",
+["Water Pouch Bounty"]="1707",
 ["A Bad Egg"]="2750",
 ["Intricate Artwork"]="41763",
 ["The Path of the Conqueror"]="8753",
@@ -8760,4 +8760,5 @@ QuestTranslator_QuestList = {
 ["Calm Before the Storm"]="4509",
 ["A Deal Worth Taking"]="41762",
 ["Stinky's Escape"]="1222",
+["Divino-matic Rod"]="2768",
 } 
