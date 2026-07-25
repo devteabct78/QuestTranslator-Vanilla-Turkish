@@ -8761,4 +8761,5 @@ QuestTranslator_QuestList = {
 ["A Deal Worth Taking"]="41762",
 ["Stinky's Escape"]="1222",
 ["Divino-matic Rod"]="2768",
+["The Farraki Ancient"]="41811"
 } 

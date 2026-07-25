@@ -51420,6 +51420,20 @@ QuestTranslator_QuestData = {
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Troll Temper
+    -- The Farraki Ancient
+    -- Zalsu the Wanderer -> Gezgin Zalsu (MobNpcData.lua)
+    -- Zel'jeb the Ancient -> Kadim Zel'jeb (MobNpcData.lua)
+    -- Zul'Farrak -> Zul'Farrak (ZoneData.lua)
+    -- Tanaris -> Tanaris (ZoneData.lua)
+    ["41811"] = {
+    ["Title"]="Farraki Kadimi",
+    ["Description"]="<Zalsu sanki uzaktaki bir şeyi dinlemeye çalışıyormuşçasına odağı kaybolmuş görünüyor. Uzak düşüncelerden sıyrılıp dikkatini merakla sana çeviriyor.>\n\nBurada bir amaç için bulunduğunu hissediyorum, duyabiliyor musun, kumların üzerinde süzülen ve kum tepelerinden yükselen o şeyi? Evet... Kötü bir şey ortaya çıktı, faul bir şey. Bunu Zul'Farrak'ın derinliklerinden hissettim ve Tanaris'in kum tepelerini bile kirletti! Ruhlar kadim bir kötülüğün varlığından öfkelenmiş durumda ve bunun Zel'jeb'in geri dönüşü olduğuna hiç şüphem yok.\n\nDünya henüz gençken o yaşlıydı; Farraki'nin en hürmet edilen savaş beylerinden biriydi, karanlık mumyalama ve lanetli büyüyle güçlendirilmişti. Eğer bu topraklarda huzur olacaksa, onun ruhuna bir son verilmeli. Onu Zul'Farrak'ın derinliklerinde bul ve en güvendiğin müttefiklerini getir, Zel'jeb'i yenmek için onlara ihtiyacın olacak.",
+    ["Objectives"]="Zul'Farrak'a girip Kadim Zel'jeb'i katlet, ardından Zul'Farrak'ın güneyinde bulabileceğin Gezgin Zalsu'ya geri dön.",
+    ["Progress"]="Sessizlik, rüzgarları bölüyorsun...",
+    ["Completion"]="Sonunda, bir süredir duymadığım bir sessizlik; kum tepelerinin kendisi huzur içinde, ben de öyleyim... Gezginliğim sona erdi ve belki de kendim için huzur bulmanın vakti gelmiştir. Teşekkür ederim gezgin, buraya büyük bir hizmette bulundun. Sana elimden gelen az şeyi sunuyorum, umarım işine yarar.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end The Farraki Ancient
 --123456
 
 };
