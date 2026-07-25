@@ -6,11 +6,14 @@
 ## eMail: fuat.tatar@hotmail.com
 ## DefaultState: Enabled
 ## LoadOnDemand: 0
-## SavedVariables: QTR_PS, QTR_SAVED
+## SavedVariables: QTR_PS, QTR_SAVED,QuestTranslator_Settings
 ## SavedVariablesPerCharacter: QTR_PC
 
 QuestBookData.lua
 QuestData_it.lua
 QuestList.lua
+QuestTranslator_GossipData.lua
+QuestTranslator_Gossip.lua
+QuestTranslator_Config.lua
 QuestTranslator.lua
 QuestTranslatorFrames.xml
