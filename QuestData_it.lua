@@ -3154,8 +3154,8 @@ QuestTranslator_QuestData = {
     }, -- end Mürekkep Malzemeleri
 
 -- Return to Kristoff
-    -- Brother Kristoff -> Kristoff Kardeş kalmıştır[cite: 1]. Cathedral Square -> Katedral Meydanı[cite: 2].
-    -- The Stresses of Iron -> Demir Gerilimleri (Kitap adı). Milton kalmıştır[cite: 1].
+    -- Brother Kristoff -> Kristoff Kardeş kalmıştır. Cathedral Square -> Katedral Meydanı[cite: 2].
+    -- The Stresses of Iron -> Demir Gerilimleri (Kitap adı). Milton kalmıştır.
     -- Wandering Boots -> Gezgin Botları (Eşya adı). Light -> Işık.
     ["346"] = { 
     ["Title"]="Kristoff'a Dön",
@@ -4379,15 +4379,15 @@ QuestTranslator_QuestData = {
 
    -- Nek'rosh's Gambit
     -- Nek'rosh -> Nek'rosh kalmıştır.
-    -- Dragonmaw -> Ejderhaağzı (Önceki verilere sadık kalınarak lokalize edilmiştir)[cite: 1].
+    -- Dragonmaw -> Ejderhaağzı (Önceki verilere sadık kalınarak lokalize edilmiştir).
     -- Menethil -> Menethil kalmıştır.
     -- Dun Algaz -> Dun Algaz kalmıştır.
     -- Dwarven Tinder -> Cüce Kavı (Dwarven + Tinder).
-    -- Ironforge = Demirdöveç (ZoneData.lua ve eski girdilere göre)[cite: 1].
+    -- Ironforge = Demirdöveç (ZoneData.lua ve eski girdilere göre).
     ["465"] = { 
     ["Title"]="Nek'rosh'un Kumarı",
-    ["Description"]="Sen Ejderhaağzı (Dragonmaw) klanıyla savaşırken, biz onların planlarından daha fazlasını keşfettil.[cite: 1] Nek'rosh mancınıklar inşa etti ve Menethil'i kuşatmayı amaçlıyor! Üstelik Dun Algaz'daki çatışmalar yüzünden destek kuvvetlerin önü tamamen kesilmiş durumda!\n\nO mancınıkları devre dışı bırakman gerekiyor. Onlar Ejderhaağzı ordugahındalar.\n\nAl, bu kavı yanına al. Mancınıklara doğru yolunu savaşarak aç ve kavı kullanarak onları ateşe ver.\n\nVe bunu yaptıktan sonra, Nek'rosh'u bulup katlet. Bu Ejderhaağzı canavarını... tam boynundan indirmeliyiz.",
-    ["Objectives"]="Ejderhaağzı (Dragonmaw) mancınıklarını yok et.[cite: 1]",
+    ["Description"]="Sen Ejderhaağzı (Dragonmaw) klanıyla savaşırken, biz onların planlarından daha fazlasını keşfettil. Nek'rosh mancınıklar inşa etti ve Menethil'i kuşatmayı amaçlıyor! Üstelik Dun Algaz'daki çatışmalar yüzünden destek kuvvetlerin önü tamamen kesilmiş durumda!\n\nO mancınıkları devre dışı bırakman gerekiyor. Onlar Ejderhaağzı ordugahındalar.\n\nAl, bu kavı yanına al. Mancınıklara doğru yolunu savaşarak aç ve kavı kullanarak onları ateşe ver.\n\nVe bunu yaptıktan sonra, Nek'rosh'u bulup katlet. Bu Ejderhaağzı canavarını... tam boynundan indirmeliyiz.",
+    ["Objectives"]="Ejderhaağzı (Dragonmaw) mancınıklarını yok et.",
     ["Progress"]="İlk mancınık önünde duruyor. Onu alevler içinde bırakacak mısın?",
     ["Completion"]="Kavın bir kısmını mancınığın üzerine yerleştiriyor, ardından üzerine bir kıvılcım çakıyorsun.\n\nAlevler bir anda patlak veriyor ve hızla yayılıyor!",
     ["minlevel"]="0",
@@ -37356,11 +37356,11 @@ QuestTranslator_QuestData = {
 -- Power Taken, Power Given
     -- Loa -> Loa, Kalimdor = Kalimdor. Sandfury trolls -> Kumöfkesi trolleri.
     -- Zul'Farrak = Zul'Farrak. Kimbul, Halazzi kalmıştır. Gurubashi = Gurubashi.
-    -- Jujus of Kimbul -> Kimbul Muskaları. Mystic Guay'jin -> Mistik Guay'jin kalmıştır[cite: 1]. Akil'darah kalmıştır.
+    -- Jujus of Kimbul -> Kimbul Muskaları. Mystic Guay'jin -> Mistik Guay'jin kalmıştır. Akil'darah kalmıştır.
     ["80360"] = {
     ["Title"]="Güç Alındı, Güç Verildi",
     ["Description"]="Eski dünyadaki ormanlarımızdan buraya, Kalimdor'daki (Kalimdor) yeni evimize olan yolculuk sadece bizim için değil, yolculukta bizi koruyan loa'lar (the loa) için de zor oldu. Binlerce yıldır gezdikleri ormanlardan bu kadar uzakta oldukları için buradaki varlıkları zayıfladı.\n\nUzak güneyde, Zul'Farrak'ın (Zul'Farrak) Kumöfkesi trolleri (Sandfury trolls), Gurubashi'nin (the Gurubashi) balta girmemiş ormanlarına olan mesafelerine rağmen Kimbul ile olan bağlarını korudular. Kimbul'un gücünü ara ve onu bana getir. Kumöfkesi tarafından bahşedilen gücü, bu yabancı topraklarda kendi loa'mızın varlığını ve gücünü artırmak için kullanacağım.",
-    ["Objectives"]="5 Kimbul Muskası (Jujus of Kimbul) elde et ve onları Mistik Guay'jin'e (Mystic Guay'jin) ulaştır[cite: 1].",
+    ["Objectives"]="5 Kimbul Muskası (Jujus of Kimbul) elde et ve onları Mistik Guay'jin'e (Mystic Guay'jin) ulaştır.",
     ["Progress"]="Akil'darah, arkandaki rüzgarları elindeki tüm güçle kutsadı.",
     ["Completion"]="Tıpkı burayı bizim evimiz olarak kabul etmemiz zaman alacağı gibi, loa'larımızın da burayı evleri gibi hissetmeye başlaması zaman alacaktır. Onlar evlerimizi korurken biz de birlikte büyüyeceğiz ve onların ruhlarını besleyeceğiz. O zamana kadar Halazzi'nin kurnazlığı aklını korusun.",
     ["minlevel"]="0",
@@ -37438,13 +37438,13 @@ QuestTranslator_QuestData = {
 -- Proof
     -- Glass marble -> Cam bilye. Sakgoth kalmıştır. Deeds -> Eylemler / Başarılar.
     -- Burned flesh -> Yanmış et. Enigmatic man -> Gizemli adam. Pearl -> İnci, pendant -> kolye ucu.
-    -- Scorpid -> Akrep / Skorpid, Thousand Needles = Bin İğne Yamaçları (Thousand Needles)[cite: 1].
+    -- Scorpid -> Akrep / Skorpid, Thousand Needles = Bin İğne Yamaçları (Thousand Needles).
     ["41389"] = {
     ["Title"]="Kanıt",
     ["Description"]="Al bakalım, cam bilyeyi (glass marble) al ve Sakgoth'a götür. Bu, başarılarının (deeds) bir kanıtıdır ve onunla eşit olduğunu gösterir. Her zaman uyanık ol ve öğrendiklerini hatırla. Daha fazla büyümeni tanıklık etmek için heyecanlıyım!",
     ["Objectives"]="Yan odadaki Sakgoth'a Cam Bilye'yi (Glass Marble) teslim et.",
     ["Progress"]="Orada yukarıda tam olarak ne oldu? İçerisi yanmış et (burned flesh) gibi kokuyor.",
-    ["Completion"]="Üstad gizemli bir adamdır (enigmatic man) ve zihninin çalışma şeklini büyük olasılıkla hiçbir zaman tamamen anlayamayacağım. Şansımıza burada bulunma amacımız bu değil, değil mi? Getirdiğin bu inci, gerçekten bambaşka bir şey. Üstadın her öğrencisi, başarılarının bir kanıtı olarak kendisinden -ve teknik olarak benden- kişisel bir hediye alır. Benimki Bin İğne Yamaçları'nda (Thousand Needles) katlettiğim bir akrebin (scorpid) iğnesiydi[cite: 1]. Ve senin için... bir kolye ucuna (pendant) ne dersin?",
+    ["Completion"]="Üstad gizemli bir adamdır (enigmatic man) ve zihninin çalışma şeklini büyük olasılıkla hiçbir zaman tamamen anlayamayacağım. Şansımıza burada bulunma amacımız bu değil, değil mi? Getirdiğin bu inci, gerçekten bambaşka bir şey. Üstadın her öğrencisi, başarılarının bir kanıtı olarak kendisinden -ve teknik olarak benden- kişisel bir hediye alır. Benimki Bin İğne Yamaçları'nda (Thousand Needles) katlettiğim bir akrebin (scorpid) iğnesiydi. Ve senin için... bir kolye ucuna (pendant) ne dersin?",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Proof
@@ -37760,11 +37760,11 @@ QuestTranslator_QuestData = {
 -- Recovering Armory Supplies
     -- Garrison Armory -> Garnizon Cephaneliği. Nethergarde = Nethergarde.
     -- Garrison Armory Supply Caches -> Garnizon Cephaneliği Erzak Kasaları.
-    -- Foreman Tanoth -> Ustabaşı Tanoth kalmıştır. Blasted Lands = Lanetli Topraklar (Blasted Lands)[cite: 1].
+    -- Foreman Tanoth -> Ustabaşı Tanoth kalmıştır. Blasted Lands = Lanetli Topraklar (Blasted Lands).
     ["40429"] = {
     ["Title"]="Cephanelik Erzaklarını Kurtarmak",
     ["Description"]="Garnizon Cephaneliği (The Garrison Armory), Nethergarde'ın (Nethergarde) bir süredir ekstra malzeme depoladığı bir yerdir ve trogglar her şeyi çiğneyip yok ederse yakında geriye hiçbir şey kalmayacak. Oraya girmene ve en az on Garnizon Cephaneliği Erzak Kasası (Garrison Armory Supply Caches) kurtarmalısın, böylece bu karmaşa bittiğinde ve ölüler gömüldüğünde işimize geri dönebiliriz ve bunu yapacak araçlara hala sahip oluruz. İçeri sız ve onları benim için kurtarıp kurtaramayacağına bak.",
-    ["Objectives"]="Lanetli Topraklar'daki (Blasted Lands) Garnizon Cephaneliği'nde bulunan Ustabaşı Tanoth (Foreman Tanoth) için Garnizon Cephaneliği içinden 10 Garnizon Erzak Kasası topla[cite: 1].",
+    ["Objectives"]="Lanetli Topraklar'daki (Blasted Lands) Garnizon Cephaneliği'nde bulunan Ustabaşı Tanoth (Foreman Tanoth) için Garnizon Cephaneliği içinden 10 Garnizon Erzak Kasası topla.",
     ["Progress"]="Kasaları kurtardın mı?",
     ["Completion"]="<Ustabaşı Tanoth (Foreman Tanoth) derin ve rahat bir nefes alır.> Pekala, bu bana biraz nefes alma alanı sağlıyor. Görünüşe göre trogglar onları düşüncesizce çiğnemeden önce kasalara ulaşmışsın, sıkı çalışman için teşekkürler, kolay bir görev olmadığından eminim.",
     ["minlevel"]="0",
@@ -38593,12 +38593,12 @@ QuestTranslator_QuestData = {
     }, -- end Rumors of the Great Fire Plume
     -- Runestone Reactivation
     -- Runestone -> Rün Taşı, Ancient -> Kadim, stones -> taşlar.
-    -- Nordanaar = Nordanaar[cite: 2]. Hyjal = Hyjal[cite: 2]. Glanthas the Ancient -> Kadim Glanthas kalmıştır[cite: 1].
+    -- Nordanaar = Nordanaar[cite: 2]. Hyjal = Hyjal[cite: 2]. Glanthas the Ancient -> Kadim Glanthas kalmıştır.
     -- Magic -> Büyü, teleporation -> ışınlanma.
     ["40989"] = {
     ["Title"]="Rün Taşı Yeniden Etkinleştirme",
-    ["Description"]="Her şeyin yerine oturmasıyla, Rün Taşı'nın (Runestone) gücü yakında bir kez daha kanalize edilmeye başlayacak. Nordanaar'daki Kadim Glanthas (Glanthas the Ancient) ile konuşmanı rica ediyorum[cite: 1, 2]. Buradaki, Hyjal'daki Rün Taşlarının gücünü kontrol eden odur[cite: 2]. Onun büyüsüyle (magic), her iki taş arasında ışınlanmana izin verilmelidir.",
-    ["Objectives"]="Hyjal'daki Nordanaar'da bulunan Kadim Glanthas (Glanthas the Ancient) ile konuş[cite: 1, 2].",
+    ["Description"]="Her şeyin yerine oturmasıyla, Rün Taşı'nın (Runestone) gücü yakında bir kez daha kanalize edilmeye başlayacak. Nordanaar'daki Kadim Glanthas (Glanthas the Ancient) ile konuşmanı rica ediyorum. Buradaki, Hyjal'daki Rün Taşlarının gücünü kontrol eden odur[cite: 2]. Onun büyüsüyle (magic), her iki taş arasında ışınlanmana izin verilmelidir.",
+    ["Objectives"]="Hyjal'daki Nordanaar'da bulunan Kadim Glanthas (Glanthas the Ancient) ile konuş.",
     ["Progress"]="Evet?",
     ["Completion"]="<Kadim Glanthas uzun ve sessiz bir bakış fırlatır.> Rün Taşı mı?",
     ["minlevel"]="0",
@@ -38609,11 +38609,11 @@ QuestTranslator_QuestData = {
     -- Eldre'thalas = Eldre'thalas. Moonwells -> ay kuyuları, well -> kuyu. Elune = Elune.
     -- Twin set -> ikiz set. Dire Maul -> Katmerli Ezgi (Dire Maul)[cite: 2]. Ogres -> Ogreler.
     -- High Priestess -> Baş Rahibe. Shadows -> Gölgeler, ritual -> ritüel.
-    -- Vestia Moonspear -> Vestia Aymızrağı kalmıştır[cite: 1]. Corrupted Moonwell -> Yozlaşmış Ay Kuyusu.
+    -- Vestia Moonspear -> Vestia Aymızrağı kalmıştır. Corrupted Moonwell -> Yozlaşmış Ay Kuyusu.
     ["40382"] = {
     ["Title"]="Eldre'thalas'ın Kutsal Suları",
     ["Description"]="Bileceğin üzere, ay kuyularımız (moonwells) bizim için çok kutsaldır. Böyle bir kuyunun yozlaştırılması Elune'a karşı büyük bir hakaret sayılır. Maalesef, sürekli nöbet tutmamıza rağmen bu başımıza gelebiliyor. Eldre'thalas'ın dışında, pek çok kişinin Katmerli Ezgi (Dire Maul) olarak bildiği ikiz bir ay kuyusu seti bulunur[cite: 2]. Kuyulardan biri saf kalırken, diğeri Ogreler (Ogreler) tarafından kirletildi. Ay kuyusunu temizlememe ve sorumluları adalete teslim etmeme yardım et, ben de senin durumunu Baş Rahibe'nin bizzat kendisine sunayım. Sen gelene kadar gölgelerde bekleyeceğim. Ritüel (ritual) tamamlanana kadar beni koruman gerekecek, çünkü tüm dikkatimi vermemi gerektirecek.",
-    ["Objectives"]="Katmerli Ezgi'nin dışındaki Yozlaşmış Ay Kuyusu'nun (Corrupted Moonwell) sularını temizlerken Vestia Moonspear'ı koru[cite: 1, 2].",
+    ["Objectives"]="Katmerli Ezgi'nin dışındaki Yozlaşmış Ay Kuyusu'nun (Corrupted Moonwell) sularını temizlerken Vestia Moonspear'ı koru.",
     ["Progress"]="Elune bize rehberlik etsin.",
     ["Completion"]="Heyecan verici bir deneyimdi. Bundan sonra bu tür tehlikeli işlerden kaçınma konusunda hemfikir olalım, değil mi? Şaka bir yana, minnettarlığımı kazandın. Ve söz verdiğim gibi, senin durumun konusunda elimden gelenin en iyisini yapacağım.",
     ["minlevel"]="0",
@@ -38623,12 +38623,12 @@ QuestTranslator_QuestData = {
 -- Safety for Refugees
     -- Wilderness -> Yaban hayatı / Yaban, forests -> ormanlar, woods -> ormanlık alan.
     -- Lynxes -> vaşaklar, young -> yavrular. Found home -> Yeni bulunan yuva.
-    -- Crimson Lynxes -> Al vaşaklar / Kızıl Vaşaklar. Commander Anarileth -> Komutan Anarileth kalmıştır[cite: 1].
+    -- Crimson Lynxes -> Al vaşaklar / Kızıl Vaşaklar. Commander Anarileth -> Komutan Anarileth kalmıştır.
     -- Burgeoning threat -> Büyüyen tehdit, responsibility -> sorumluluk.
     ["41189"] = {
     ["Title"]="Mülteciler İçin Güvenlik",
     ["Description"]="Yaban hayatına (wilderness) yaptığın hamle sırasında, bu ormanlara bela olan vaşakların (lynxes) oluşturduğu büyüyen tehdidi fark ettiğinden eminim. Şu anda sadece bir baş belası olsalar da, nüfuslarının kontrolden çıkmasına izin veremeyiz. Sana kasvetli bir görev vermeliyim: Ormanlık alana (woods) bir kez daha atıl ve bu vaşakların yavrularını (young) ayıkla. Sayılarının kabarmasına izin veremeyiz, çünkü halkımızın güvenliği ve esenliği bu yeni bulunan yuvadaki (found home) dengenin korunmasına bağlıdır.",
-    ["Objectives"]="Komutan Anarileth (Commander Anarileth) için 12 Al Vaşak Yavrusu (Young Crimson Lynxes) katlet[cite: 1].",
+    ["Objectives"]="Komutan Anarileth (Commander Anarileth) için 12 Al Vaşak Yavrusu (Young Crimson Lynxes) katlet.",
     ["Progress"]="Unutma, peşinde olduğun şey yavrular.",
     ["Completion"]="Ah, vaşak nüfusunun büyüyen tehdidinin dizginlendiğini bilmek rahatlatıcı bir nefes aldırdı. Eylemlerin bir teselli duygusu getiriyor ve topluluğumuz için bu sorumluluğu (responsibility) üstlendiğini bilerek daha rahat uyuyabilirim, genç YOUR_CLASS.",
     ["minlevel"]="0",
@@ -38638,13 +38638,13 @@ QuestTranslator_QuestData = {
 -- Sailors Innovation
     -- Sea -> Deniz, sailors -> denizciler. Fine dining -> Seçkin yemekler, meals -> yemekler.
     -- Recipe -> Tarif. Tel'Abim = Tel'Abim. Sand crawlers -> kum sürüngenleri / kum yengeçleri. Leg -> bacak / kıskaç.
-    -- Bananas -> muzlar, salt -> tuz. Chef Jenkel -> Şef Jenkel kalmıştır[cite: 1].
+    -- Bananas -> muzlar, salt -> tuz. Chef Jenkel -> Şef Jenkel kalmıştır.
     -- Juicy Crawler Legs -> Sulu Sürüngen Bacakları, Pinch of Salt -> Bir Çimdik Tuz.
-    -- 'Slim' -> 'Sıska' kalmıştır[cite: 1]. Caelan's Rest -> Caelan'ın İnzivası (Caelan + Rest)[cite: 2]. Admiral -> Amiral.
+    -- 'Slim' -> 'Sıska' kalmıştır. Caelan's Rest -> Caelan'ın İnzivası (Caelan + Rest)[cite: 2]. Admiral -> Amiral.
     ["40142"] = {
     ["Title"]="Denizcilerin Yeniliği",
-    ["Description"]="Denizdeki zamanımızdan bilindiği üzere, gemide seçkin yemekleri (fine dining) ortaya çıkaranlar biz denizcileriz (sailors). Aynı yemekleri tekrar tekrar yediğinizde tekdüze hale gelebilirler, bu yüzden doğaçlama yapma ve yenilik getirme zamanı geldi. Bu tarifi (recipe) bir süre önce Tel'Abim'de (Tel'Abim) birkaç gün geçirdiğimizde bulmuştum. Elimizde sadece kum sürüngenleri (sand crawlers) ve muzlar vardı. Hepsini birlikte kızartın ve bir çimdik tuz ekleyin, işte size mükemmel bir yemek! Ne yazık ki muzumuz yok ama Şef Jenkel'de (Chef Jenkel) biraz tuz olduğunu biliyorum[cite: 1]. Tuzu ondan al ve bu adaların etrafındaki her türlü kum sürüngeninden birkaç bacak topla, böylece sonunda farklı bir yemek yiyebilirim.",
-    ["Objectives"]="Caelan'ın İnzivası'ndaki (Caelan's Rest) 'Sıska' ('Slim') için 6 Sulu Sürüngen Bacağı (Juicy Crawler Legs) ve Bir Çimdik Tuz (Pinch of Salt) topla[cite: 1, 2].",
+    ["Description"]="Denizdeki zamanımızdan bilindiği üzere, gemide seçkin yemekleri (fine dining) ortaya çıkaranlar biz denizcileriz (sailors). Aynı yemekleri tekrar tekrar yediğinizde tekdüze hale gelebilirler, bu yüzden doğaçlama yapma ve yenilik getirme zamanı geldi. Bu tarifi (recipe) bir süre önce Tel'Abim'de (Tel'Abim) birkaç gün geçirdiğimizde bulmuştum. Elimizde sadece kum sürüngenleri (sand crawlers) ve muzlar vardı. Hepsini birlikte kızartın ve bir çimdik tuz ekleyin, işte size mükemmel bir yemek! Ne yazık ki muzumuz yok ama Şef Jenkel'de (Chef Jenkel) biraz tuz olduğunu biliyorum. Tuzu ondan al ve bu adaların etrafındaki her türlü kum sürüngeninden birkaç bacak topla, böylece sonunda farklı bir yemek yiyebilirim.",
+    ["Objectives"]="Caelan'ın İnzivası'ndaki (Caelan's Rest) 'Sıska' ('Slim') için 6 Sulu Sürüngen Bacağı (Juicy Crawler Legs) ve Bir Çimdik Tuz (Pinch of Salt) topla.",
     ["Progress"]="O sürüngen bacaklarının sulu olduğundan emin ol!",
     ["Completion"]="Ah, evet bu her şey olmalı. Amiral (Admiral) için layık bir yemek! Al bakalım, teşekkür olarak biraz ye.",
     ["minlevel"]="0",
@@ -38672,12 +38672,12 @@ QuestTranslator_QuestData = {
     -- Logistics guy -> Lojistikçi. Supply convoys -> Erzak kervanları, weapons -> silahlar, tools -> aletler.
     -- Vultures and hyenas -> Akbabalar ve sırtlanlar, wrecked carts -> enkaz kervan arabaları.
     -- Blackstone Island -> Karataş Adası (Black + Stone)[cite: 2]. Rustgate Tools -> Paslıkapı Aletleri.
-    -- Supplymaster Maxlo -> İaşe Amiri Maxlo kalmıştır[cite: 1]. Rustgate Ridge -> Paslıkapı Sırtı[cite: 2].
+    -- Supplymaster Maxlo -> İaşe Amiri Maxlo kalmıştır. Rustgate Ridge -> Paslıkapı Sırtı[cite: 2].
     -- Sparkwater = Kıvılcımsuyu. Salvage -> Kurtarmak / Hurda toplamak. Normalcy -> Normallik / Eski düzen.
     ["41164"] = {
     ["Title"]="Kervanları Kurtarmak",
     ["Description"]="Aşağıdaki kömür ocaklarındaki (coalpits) tüm pislikleri temizleyen o gelecek vaat eden işçi sen misin? Adına yakışır bir şeylerin olmalı, kardeşim kulesine gizlice sızmaya çalışan ocaktaki herkesi genellikle dışarı atar. Dürüst olmak gerekirse, yeteneklerini (abilities) kullanabilirim. Son haftalarda haydut gnollar (renegade gnolls) tarafından giderek daha fazla pusuya düşürüldük. Küçük köpek beyinleri (small dog brains) şiddet ve kaos arıyor, bir lojistikçi olarak anlayamadığım bir şey. Erzak kervanlarımıza (supply convoys) baskın düzenlediler ve çoğunlukla yiyecek ve silah çaldılar, ancak aletlerin çoğunu etrafta bıraktılar. Onlar için fazla gelişmiş olduğuna eminim. O aletlere mümkün olan en kısa sürede ihtiyacımız var. Akbabalar ve sırtlanlar (vultures and hyenas) enkaz halindeki arabaların etrafında dolanıyor, buraya geri dönemeyenlerin üzerinde ziyafet çekiyorlar. Onları adanın her yerine dağılmış halde bulabilirsin, gözden kaçırmanın imkanı yok.",
-    ["Objectives"]="Karataş Adası'nın (Blackstone Island) dört bir yanındaki kırık kervanlardan Paslıkapı Aletleri'ni (Rustgate Tools) geri al[cite: 2]. Onları Paslıkapı Sırtı'ndaki İaşe Amiri Maxlo'ya (Supplymaster Maxlo) ulaştır[cite: 1, 2].",
+    ["Objectives"]="Karataş Adası'nın (Blackstone Island) dört bir yanındaki kırık kervanlardan Paslıkapı Aletleri'ni (Rustgate Tools) geri al[cite: 2]. Onları Paslıkapı Sırtı'ndaki İaşe Amiri Maxlo'ya (Supplymaster Maxlo) ulaştır.",
     ["Progress"]="Kıvılcımsuyu'ndan (Sparkwater) istediğimiz sıklıkta yeni erzak alamıyoruz, bu yüzden kurtarabildiğimiz (salvage) kadar çok şeyi kurtarmalıyız.",
     ["Completion"]="Hm, hava durumu onlara pek iyi gelmemiş. Ama işçilerin onaramayacağı hiçbir şey yok. Orada iyi iş çıkardın. Böyle devam edersen yakında bu adada eski düzeni (normalcy) yeniden sağlayabiliriz.",
     ["minlevel"]="0",
@@ -38689,12 +38689,12 @@ QuestTranslator_QuestData = {
     -- Crop harvest -> Ekin hasadı, bundlin' -> demetlemek. Farm -> Çiftlik.
     -- Bundles of crop harvest -> Demetlenmiş ekin hasadı.
     -- Bael Hardul = Bael Hardul[cite: 2]. Plateau Fleshrippers -> Plato Etyaranları.
-    -- Bundled Crop Harvest -> Demetlenmiş Ekin Hasadı. Segwar Ironback -> Segwar Demirsırt kalmıştır[cite: 1].
+    -- Bundled Crop Harvest -> Demetlenmiş Ekin Hasadı. Segwar Ironback -> Segwar Demirsırt kalmıştır.
     -- Stonetalon Mountains = Taşpençe Dağları (Stonetalon Mountains)[cite: 2]. Freeloading -> Otlakçılık yapmak / Beleşe konmak.
     ["40608"] = {
     ["Title"]="Ekinleri Kurtarmak",
     ["Description"]="O toprağı gübrelemek, işlemek ve kullanılabilir toprak (soil) haline getirmek haftalar sürdü; hepsi taze bir yem (fresh feed) için aşağı süzülen ve yeri yakıp yıkan bir akbaba sürüsü (flock of buzzards) tarafından mahvedildi. Bah, lanet aptal akbabalar! Ekin hasadından (crop harvest) hala geriye kalanlar olabilir, şansımıza o pislikler aşağı inip beni kaçırmadan hemen önce hepsini demetlemeyi bitirmiştim. Tepeden aşağı, çiftliğe doğru in, orada çok uzun süre otlakçılık yapmayı (freeloading) iki kez düşünmelerini sağlamak için birkaçını öldür ve 4 demet ekin hasadı topla, olur mu?",
-    ["Objectives"]="Kasabanın altındaki Bael Hardul'da bulunan çiftliğe seyahat et, 5 Plato Etyaranı (Plateau Fleshrippers) katlet ve Taşpençe Dağları'ndaki Segwar Ironback için 4 Demetlenmiş Ekin Hasadı (Bundled Crop Harvest) topla[cite: 1, 2].",
+    ["Objectives"]="Kasabanın altındaki Bael Hardul'da bulunan çiftliğe seyahat et, 5 Plato Etyaranı (Plateau Fleshrippers) katlet ve Taşpençe Dağları'ndaki Segwar Ironback için 4 Demetlenmiş Ekin Hasadı (Bundled Crop Harvest) topla.",
     ["Progress"]="Bütün günümüzü alamayız şimdi, çok fazla beklersen hepsini yiyip bitirebilirler.",
     ["Completion"]="Ahh, yaptın! Onlarla savaşmak için biraz fazla yaşlıyım, buralara uğramış olman iyi bir şey.",
     ["minlevel"]="0",
@@ -38702,27 +38702,27 @@ QuestTranslator_QuestData = {
     }, -- end Salvaging the Crops
 
 -- Sample for Glanthas
-    -- Enchanted Sludge -> Efsunlu Çamur / Büyülü Balçık. Glanthas the Ancient -> Kadim Glanthas kalmıştır[cite: 1].
+    -- Enchanted Sludge -> Efsunlu Çamur / Büyülü Balçık. Glanthas the Ancient -> Kadim Glanthas kalmıştır.
     -- Nordanaar = Nordanaar[cite: 2]. Druid -> druid, root cause -> temel sebep. Sludge Sample -> Çamur Örneği.
-    -- Farana Leafblade -> Farana Yaprakbıçak kalmıştır[cite: 1]. Warrior -> Savaşçı. Magical energies -> Büyülü enerjiler.
+    -- Farana Leafblade -> Farana Yaprakbıçak kalmıştır. Warrior -> Savaşçı. Magical energies -> Büyülü enerjiler.
     ["41023"] = {
     ["Title"]="Glanthas İçin Örnek",
-    ["Description"]="Benim için topladığın Efsunlu Çamur'un (Enchanted Sludge) bir örneğini hazırladım. Onu Nordanaar'daki Kadim Glanthas'a (Glanthas the Ancient) götürmeni rica ediyorum[cite: 1, 2]. En son duyduğuma göre, Glanthas ve bir druid (druid) benzer bir şeyin temel sebebini (root cause) bulmak için birlikte çalışıyorlardı. Belki de bu çamur örneği her ikisine de yardımcı olabilir.",
-    ["Objectives"]="Çamur Örneği'ni (Sludge Sample) Nordanaar'daki Kadim Glanthas'a (Glanthas the Ancient) ulaştır[cite: 1, 2].",
+    ["Description"]="Benim için topladığın Efsunlu Çamur'un (Enchanted Sludge) bir örneğini hazırladım. Onu Nordanaar'daki Kadim Glanthas'a (Glanthas the Ancient) götürmeni rica ediyorum. En son duyduğuma göre, Glanthas ve bir druid (druid) benzer bir şeyin temel sebebini (root cause) bulmak için birlikte çalışıyorlardı. Belki de bu çamur örneği her ikisine de yardımcı olabilir.",
+    ["Objectives"]="Çamur Örneği'ni (Sludge Sample) Nordanaar'daki Kadim Glanthas'a (Glanthas the Ancient) ulaştır.",
     ["Progress"]="Evet, yardımcı olabilir miyim?",
-    ["Completion"]="Seni Farana Yaprakbıçak (Farana Leafblade) mı gönderdi?[cite: 1] Çok iyi bir savaşçıdır, bu topraklara en az benim kadar bağlıdır. <Glanthas örneği alır, dikkatlice inceler.> Büyülü enerjilerle (magical energies) kirletilmiş, çok pis bir malzeme.",
+    ["Completion"]="Seni Farana Yaprakbıçak (Farana Leafblade) mı gönderdi? Çok iyi bir savaşçıdır, bu topraklara en az benim kadar bağlıdır. <Glanthas örneği alır, dikkatlice inceler.> Büyülü enerjilerle (magical energies) kirletilmiş, çok pis bir malzeme.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Sample for Glanthas
 
 -- Sand in Bulk
-    -- Corrupted Sand -> Yozlaşmış Kum. Dronormu kalmıştır[cite: 1]. Caverns of Time -> Zaman Mağaraları (Caverns of Time)[cite: 2].
+    -- Corrupted Sand -> Yozlaşmış Kum. Dronormu kalmıştır. Caverns of Time -> Zaman Mağaraları (Caverns of Time)[cite: 2].
     -- Purification -> Arındırma / Temizleme. Large quantities -> Büyük miktarlar.
     -- Timeline -> Zaman akışı / Zaman çizgisi. Portals -> Portallar. Perilous place -> Tehlikeli yer, uninitiated -> toy olanlar.
     ["40341"] = {
     ["Title"]="Toplu Halde Kum",
     ["Description"]="",
-    ["Objectives"]="Zaman Mağaraları'ndaki (Caverns of Time) Dronormu için 10 Yozlaşmış Kum (Corrupted Sand) topla[cite: 1, 2].",
+    ["Objectives"]="Zaman Mağaraları'ndaki (Caverns of Time) Dronormu için 10 Yozlaşmış Kum (Corrupted Sand) topla.",
     ["Progress"]="Yozlaşmış Kum'un (Corrupted Sand) arındırılması uzun ve karmaşık bir süreçtir, bu yüzden bir kerede arındırılmak üzere büyük miktarlarda toplamak en iyisidir. Eğer 10 Yozlaşmış Kum örneği elde edebilirsen, bunları arındırma ve zaman akışına (timeline) verilen hasarı onarma çalışmamız çok daha verimli olacaktır. Bu portalların (portals) ötesindeki bozuk zaman akışları Yozlaşmış Kum açısından bol olmalıdır. Onu elde etmek için sadece cesur bir ruhun içeri girmesi gerekir. Zaman Mağaraları'nda (Caverns of Time) tetikte ol, çünkü burası toy olanlar (uninitiated) için tehlikeli bir yerdir[cite: 2].",
     ["Completion"]="İyi iş çıkardın, YOUR_NAME. Bu Yozlaşmış Kum (Corrupted Sand) örneği arındırmamızı kolaylaştıracak. Bulursan daha fazlasına her zaman ihtiyacımız var ve katkılarını kabul etmeye hazırız.",
     ["minlevel"]="0",
@@ -38732,26 +38732,26 @@ QuestTranslator_QuestData = {
 -- Sand In The Cracks
     -- Wilderness -> Yaban hayatı / Çöl yabanı. Short green friends -> Kısa yeşil arkadaşlar (Goblinler kastediliyor). Orgrimmar = Orgrimmar.
     -- Natural resources -> Doğal kaynaklar, lecture -> ders / eğitim dersi. Materials -> Malzemeler.
-    -- Jarkal kalmıştır[cite: 1]. Kargath = Kargath[cite: 2]. Badlands = Çorak Topraklar[cite: 2]. Ogres -> ogreler.
-    -- Jewelcrafting -> Mücevher işlemeciliği, ingredients -> malzemeler. Gulmire kalmıştır[cite: 1]. Trinkets -> ıvır zıvırlar / muskalar.
+    -- Jarkal kalmıştır. Kargath = Kargath[cite: 2]. Badlands = Çorak Topraklar[cite: 2]. Ogres -> ogreler.
+    -- Jewelcrafting -> Mücevher işlemeciliği, ingredients -> malzemeler. Gulmire kalmıştır. Trinkets -> ıvır zıvırlar / muskalar.
     ["41287"] = {
     ["Title"]="Çatlaklardaki Kum",
     ["Description"]="Sana karşı dürüst olacağım, burada, çöl yabanında (wilderness), kaynaklarımız sana düzgün bir şekilde eğitim verecek kadar bol değil. Orgrimmar'daki (Orgrimmar) kısa yeşil arkadaşlarımızın sahip olduğu sonsuz kaynaklara sahip değilim. Yine de üzerinde çalışamayacağımız hiçbir şey yok. Şansımıza, bu topraklar doğal kaynaklar (natural resources) açısından zengindir ve bunları dersinin (lecture) malzemesine dönüştürebilirsin. Bunu ne kadar yetenekli olduğunu görmek için bir tür test olarak kabul et.",
-    ["Objectives"]="Çorak Topraklar'daki (the Badlands) Kargath'ta bulunan Jarkal'a gerekli malzemeleri getir[cite: 1, 2].",
+    ["Objectives"]="Çorak Topraklar'daki (the Badlands) Kargath'ta bulunan Jarkal'a gerekli malzemeleri getir.",
     ["Progress"]="Dışarıda dolaşan ogrelere (ogres) dikkat et, hoşuma gitmeyecek kadar çoklar.",
-    ["Completion"]="Harika iş, bu yerde mücevher işlemeciliği (jewelcrafting) için aynı anda nadiren bu kadar çok malzemeye sahip olmuştum. Sanırım Gulmire'a bir tür minnet duymak gerekiyor, çünkü yeni raporları beklerken bana pratik yapacak bir şeyler verdi[cite: 1]. Ancak sana dönecek olursak; dur sana bu narin muskaların (trinkets) nasıl yaratılacağını göstereyim.",
+    ["Completion"]="Harika iş, bu yerde mücevher işlemeciliği (jewelcrafting) için aynı anda nadiren bu kadar çok malzemeye sahip olmuştum. Sanırım Gulmire'a bir tür minnet duymak gerekiyor, çünkü yeni raporları beklerken bana pratik yapacak bir şeyler verdi. Ancak sana dönecek olursak; dur sana bu narin muskaların (trinkets) nasıl yaratılacağını göstereyim.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Sand In The Cracks
 
 -- Sandfury Redemption I
     -- Tribe -> Kabile. Sandfury -> Kumöfkesi (Sandfury trolls). Zul'Farrak = Zul'Farrak. Desert -> Çöl, lunatics -> deliler.
-    -- Chief Sandscalp -> Reis Kumsafı kalmıştır[cite: 1]. Minions -> uşaklar / yardakçılar. Redeemed -> Temize çıkmak.
+    -- Chief Sandscalp -> Reis Kumsafı kalmıştır. Minions -> uşaklar / yardakçılar. Redeemed -> Temize çıkmak.
     -- Diplomat -> Diplomat, representative -> temsilci. Gadgetzan = Gadgetzan[cite: 2]. Crazed bloodrinkers -> Çılgın kaniçiciler.
     -- Sandmoon Village -> Kumay Köyü (Sand + Moon)[cite: 2]. Sand trolls -> kum trolleri. Gold -> altın.
     ["40522"] = {
     ["Title"]="Kumöfkesi Kurtuluşu I",
-    ["Description"]="Kabilemiz... Kumöfkesi (Da Sandfury). Her şeyimizi kaybettik. Bir zamanlar bu çölün (desert) parıldayan mücevheri olan Zul'Farrak, deliler tarafından yönetiliyor. Yaklaşan düşüşü gören birkaçımız şehri terk edip buraya yerleşti. Gördüğün gibi, sadece bir avuç insan var. Reis Kumsafı (Chief Sandscalp) ve uşaklarını durdurmaya yetecek kadar değil[cite: 1]. Kumöfkesi Trollerinin adının önce temize çıkarılması (redeemed) gerekiyor. Etrafımızdaki insanların değiştiğimizi görmeleri gerekiyor. Bir diplomata, bir temsilciye ihtiyacımız var. Bu rolü yerine getirecek olan sensin. Gadgetzan'dakilere (Gadgetzan) Kumöfkesi'nin hepsinin çılgın kaniçiciler olmadığını göster[cite: 2].",
+    ["Description"]="Kabilemiz... Kumöfkesi (Da Sandfury). Her şeyimizi kaybettik. Bir zamanlar bu çölün (desert) parıldayan mücevheri olan Zul'Farrak, deliler tarafından yönetiliyor. Yaklaşan düşüşü gören birkaçımız şehri terk edip buraya yerleşti. Gördüğün gibi, sadece bir avuç insan var. Reis Kumsafı (Chief Sandscalp) ve uşaklarını durdurmaya yetecek kadar değil. Kumöfkesi Trollerinin adının önce temize çıkarılması (redeemed) gerekiyor. Etrafımızdaki insanların değiştiğimizi görmeleri gerekiyor. Bir diplomata, bir temsilciye ihtiyacımız var. Bu rolü yerine getirecek olan sensin. Gadgetzan'dakilere (Gadgetzan) Kumöfkesi'nin hepsinin çılgın kaniçiciler olmadığını göster[cite: 2].",
     ["Objectives"]="Gadgetzan'da Kumay Köyü'ne yardım etmeye istekli birini bul[cite: 2].",
     ["Progress"]="Ne haber, ortak?",
     ["Completion"]="Kumöfkesi değişti ve iş birliği yapmak mı istiyor? Satacak neyi var o zaman? Sanırım hiçbir şeyi! Dostum, bilirsin, Gadgetzan'ın bir itibarı var[cite: 2]. Buraya öylece pis kum trollerini (sand trolls) alamam. Tabii ödeme yapmadıkları sürece. Hem de çok.",
@@ -38761,12 +38761,12 @@ QuestTranslator_QuestData = {
 
 -- Sandfury Redemption II
     -- Guards -> muhafızlar, gold -> altın. Business -> İş / Ticaret.
-    -- Seer Maz'ek -> Kahin Maz'ek kalmıştır[cite: 1]. Sandmoon Village -> Kumay Köyü[cite: 2]. Tanaris = Tanaris[cite: 2].
+    -- Seer Maz'ek -> Kahin Maz'ek kalmıştır. Sandmoon Village -> Kumay Köyü[cite: 2]. Tanaris = Tanaris[cite: 2].
     -- Goblins -> goblinler, enemies -> düşmanlar. Mission -> Görev. Mon -> Dostum (Trol ağzı).
     ["40523"] = {
     ["Title"]="Kumöfkesi Kurtuluşu II",
     ["Description"]="O trol arkadaşlarına söyle, buradaki muhafızları (guards) içeri girmelerine izin vermeleri için ikna edebilirim... Diyelim ki... beş yüz altın karşılığında. Her biri için. Üzgünüm ahbap, ticareti riske atamam!",
-    ["Objectives"]="Tanaris'teki Kumay Köyü'nde bulunan Kahin Maz'ek'e mesajı ulaştır[cite: 1, 2].",
+    ["Objectives"]="Tanaris'teki Kumay Köyü'nde bulunan Kahin Maz'ek'e mesajı ulaştır.",
     ["Progress"]="Goblinlerle (goblins) konuştun mu dostum?",
     ["Completion"]="Zul'Farrak'taki kardeşlerimizden daha az deli değiller, dostum (mon). Kumay (Sandmoon) onlara asla ödeme yapmayacak. Eğer bizi düşman (enemies) istiyorlarsa, öyle olsun. Görevim hala geçerli.",
     ["minlevel"]="0",
@@ -38791,12 +38791,12 @@ QuestTranslator_QuestData = {
     -- Troubles -> Dertler / Sıkıntılar. Sap -> Özsu, forest -> orman, sap beasts -> özsu canavarları. Corrosive -> Aşındırıcı.
     -- Stonetalon Peak -> Taşpençe Zirvesi[cite: 2]. Herbs -> Şifalı bitkiler, cooking -> yemek pişirme, potions -> iksirler.
     -- Old ruins -> Eski harabeler, ridge -> sırt. Coin -> sikke / para, payment -> ödeme.
-    -- Corrosive Sap Beasts -> Aşındırıcı Özsu Canavarları. Innkeeper Faralia -> Hancı Faralia kalmıştır[cite: 1].
+    -- Corrosive Sap Beasts -> Aşındırıcı Özsu Canavarları. Innkeeper Faralia -> Hancı Faralia kalmıştır.
     -- Mountaintop -> Dağ zirvesi, mountainous terrain -> dağlık arazi.
     ["80397"] = {
     ["Title"]="Güçlerini Kurutmak",
     ["Description"]="Hoş geldin, YOUR_CLASS. Bu taraflarda pek fazla maceracı görmeyiz — ve bu sebepsiz de değil. Venture Şirketi'nin (Venture Company) açgözlülüğü toprağın bizzat kendisini lekeledi. Devirdikleri her kadim ağaç (ancient tree) sadece dertlerime dert katıyor. Bu ormanın ağaçlarını bir zamanlar besleyen o güçlü özsu (sap), şimdi o korkunç özsu canavarlarına (sap beasts) dönüşüyor. Onların aşındırıcı (corrosive) doğası, burada sürdürmek için savaştığımız hassas dengeye zarar veriyor. Daha da kötüsü, birçoğu yakın zamanda Taşpençe Zirvesi'ne (Stonetalon Peak) kadar ulaştı[cite: 2]! Onların aşındırıcı özsuyu yemek pişirme (cooking) ve basit iksirler için ihtiyacım olan şifalı bitkileri öldürüyor. YOUR_CLASS, ileri atıl ve Zirve'yi bu şeylerden temizle. Birçoğunu hemen buranın güneyinde, eski harabeleri barındıran sırtın (ridge) üzerinde bulacaksın. Burada yukarıda parayla pek işimiz olmaz ama belki birkaç iksir ödeme (payment) yerine geçebilir?",
-    ["Objectives"]="10 Özsu Canavarı (Sap Beasts) ve 6 Aşındırıcı Özsu Canavarı (Corrosive Sap Beasts) katlet, ardından Hancı Faralia'ya (Innkeeper Faralia) geri dön[cite: 1].",
+    ["Objectives"]="10 Özsu Canavarı (Sap Beasts) ve 6 Aşındırıcı Özsu Canavarı (Corrosive Sap Beasts) katlet, ardından Hancı Faralia'ya (Innkeeper Faralia) geri dön.",
     ["Progress"]="Dağ zirvesini (mountaintop) o özsu canavarlarından temizledin mi? Burada bir anlığına dinlen ve gücünü topla.",
     ["Completion"]="Teşekkür ederim, YOUR_NAME! Venture Şirketi'nin faaliyetleri kontrol altına alınmadıkça bu kesinlikle o özsu canavarlarının sonu olmayacak, ancak şimdilik orman sessiz ve şimdiden iyileşiyor. Al bakalım, sıkı çalışmanın teşekkürü olarak birkaç iksirimden al. Bu dağlık arazide (mountainous terrain) hızla seyahat etmene yardımcı olurlar.",
     ["minlevel"]="0",
@@ -38804,15 +38804,15 @@ QuestTranslator_QuestData = {
     }, -- end Sap Their Strength
 
 -- Sark's Grudge
-    -- Admiral -> Amiral, Fleet Master Firallon -> Filo Üstadı Firallon kalmıştır[cite: 1].
+    -- Admiral -> Amiral, Fleet Master Firallon -> Filo Üstadı Firallon kalmıştır.
     -- Dragonmaw -> Ejderhaağzı (Dragonmaw Clan), Wetlands = Sulak Alanlar. Vessels -> Gemiler, orcish battle experience -> ork savaş deneyimi.
-    -- Insulted -> Aşağılanmış. Favor -> Teveccüh. Ironpatch -> Demiryama kalmıştır[cite: 1].
+    -- Insulted -> Aşağılanmış. Favor -> Teveccüh. Ironpatch -> Demiryama kalmıştır.
     -- Wild Shore -> Vahşi Kıyı (Wild + Shore)[cite: 2]. Challenge -> Meydan okumak. Head -> baş / kelle.
-    -- Blood and thunder -> Kan ve gök gürültüsü, victory or death -> zafer ya da ölüm. Sark Blacktooth -> Sark Karadiş kalmıştır[cite: 1].
+    -- Blood and thunder -> Kan ve gök gürültüsü, victory or death -> zafer ya da ölüm. Sark Blacktooth -> Sark Karadiş kalmıştır.
     ["40355"] = {
     ["Title"]="Sark'ın Kini",
-    ["Description"]="Amiral bana Filo Üstadı Firallon'un (Fleet Master Firallon), ork savaş deneyimi (orcish battle experience) yüzünden gemilerimizden birini eğitmesi ve nihayetinde komuta etmesi için Sulak Alanlar'dan (Wetlands) Ejderhaağzı (Dragonmaw) bir hiçkimseyi seçtiğini söylüyor[cite: 1]. Bu kadar aşağılandığımdan beri uzun zaman geçmişti! Teveccühümü kazanmak ister misin YOUR_RACE? Bu \"Demiryama\" (Ironpatch), Vahşi Kıyı'daki (Wild Shore) üç gemiden birinde hemen Firallon'un yanındadır[cite: 1, 2]. Ona savaşta meydan oku ve bana kellesini (head) getir! Kan ve gök gürültüsü, zafer ya da ölüm.",
-    ["Objectives"]="Demiryama'nın Kellesi'ni (Ironpatch's Head) Sark Karadiş'e (Sark Blacktooth) geri getir[cite: 1].",
+    ["Description"]="Amiral bana Filo Üstadı Firallon'un (Fleet Master Firallon), ork savaş deneyimi (orcish battle experience) yüzünden gemilerimizden birini eğitmesi ve nihayetinde komuta etmesi için Sulak Alanlar'dan (Wetlands) Ejderhaağzı (Dragonmaw) bir hiçkimseyi seçtiğini söylüyor. Bu kadar aşağılandığımdan beri uzun zaman geçmişti! Teveccühümü kazanmak ister misin YOUR_RACE? Bu \"Demiryama\" (Ironpatch), Vahşi Kıyı'daki (Wild Shore) üç gemiden birinde hemen Firallon'un yanındadır. Ona savaşta meydan oku ve bana kellesini (head) getir! Kan ve gök gürültüsü, zafer ya da ölüm.",
+    ["Objectives"]="Demiryama'nın Kellesi'ni (Ironpatch's Head) Sark Karadiş'e (Sark Blacktooth) geri getir.",
     ["Progress"]="O aptal öldü mü?",
     ["Completion"]="Bu beni fazlasıyla memnun etti, YOUR_NAME! Saygımı kazanma yolunda ilk adımını attın, teşekkürler.",
     ["minlevel"]="0",
@@ -38822,14 +38822,14 @@ QuestTranslator_QuestData = {
 -- Satisfaction for Shak
     -- Venture Co. = Venture Şirketi. Nickname -> Takma ad / lakap. Engineers -> mühendisler. Design -> Tasarım.
     -- Mega shredder -> mega parçalayıcı, deforest -> ormansızlaştırmak. Stonetalon = Taşpençe (Stonetalon Mountains)[cite: 2].
-    -- Fired -> Kovulmak, Foreman Klix -> Ustabaşı Klix kalmıştır[cite: 1]. Hack -> Şarlatan / Beceriksiz.
+    -- Fired -> Kovulmak, Foreman Klix -> Ustabaşı Klix kalmıştır. Hack -> Şarlatan / Beceriksiz.
     -- Windshear crag -> Rüzgarbiçen Kayalığı (Windshear + Crag)[cite: 2], old lumber mill -> eski kereste fabrikası.
     -- Old coot -> Yaşlı moruk, ring -> yüzük. Oversized studded thing -> büyük çivili şey, middle finger -> orta parmak.
-    -- Shak kalmıştır[cite: 1]. Studded Ring -> Çivili Yüzük.
+    -- Shak kalmıştır. Studded Ring -> Çivili Yüzük.
     ["55042"] = {
     ["Title"]="Shak İçin Tatmin",
-    ["Description"]="Bu yere gelmeden çok önce, Venture Şirketi'nin (Venture Co.) oldukça değerli bir üyesiydim. Bu çok uzun zaman önceydi ve farklı bir bendim, ama aklımda kalan bir şey varsa, o da aldığım aptal takma addır (nickname). Mühendislerden (engineers) biriyken, Taşpençe'yi (Stonetalon) ormansızlaştırmak (deforest) için bir mega parçalayıcı tasarımı yapmam istendi[cite: 2]. Ortaya çıktı ki başka bir tasarım benimkinden çok daha iyiydi, hem de epey bir farkla. Bununla bir derdim yok, ama derdim olan şey Ustabaşı Klix tarafından \"onu hayal kırıklığına uğrattığım\" gerekçesiyle kovulmaktır (fired)[cite: 1]. Bana \"şarlatan\" (hack) dedi ve şimdi bu lakap üzerime yapıştı. Pisliğin hak ettiği şey ayağına geliyor. Onu eskiden çalıştığım eski kereste fabrikasındaki Rüzgarbiçen Kayalığı'nda (Windshear crag) bulacaksın[cite: 2]. Yaşlı bir moruktur (old coot) ve taşındığından şüpheliyim. Bana yüzüğünü getir, orta parmağına taktığı şu aşırı büyük çivili şeydir.",
-    ["Objectives"]="Ustabaşı Klix'i (Foreman Klix) öldür ve Çivili Yüzüğü'nü (Studded Ring) Shak'a getir[cite: 1].",
+    ["Description"]="Bu yere gelmeden çok önce, Venture Şirketi'nin (Venture Co.) oldukça değerli bir üyesiydim. Bu çok uzun zaman önceydi ve farklı bir bendim, ama aklımda kalan bir şey varsa, o da aldığım aptal takma addır (nickname). Mühendislerden (engineers) biriyken, Taşpençe'yi (Stonetalon) ormansızlaştırmak (deforest) için bir mega parçalayıcı tasarımı yapmam istendi[cite: 2]. Ortaya çıktı ki başka bir tasarım benimkinden çok daha iyiydi, hem de epey bir farkla. Bununla bir derdim yok, ama derdim olan şey Ustabaşı Klix tarafından \"onu hayal kırıklığına uğrattığım\" gerekçesiyle kovulmaktır (fired). Bana \"şarlatan\" (hack) dedi ve şimdi bu lakap üzerime yapıştı. Pisliğin hak ettiği şey ayağına geliyor. Onu eskiden çalıştığım eski kereste fabrikasındaki Rüzgarbiçen Kayalığı'nda (Windshear crag) bulacaksın[cite: 2]. Yaşlı bir moruktur (old coot) ve taşındığından şüpheliyim. Bana yüzüğünü getir, orta parmağına taktığı şu aşırı büyük çivili şeydir.",
+    ["Objectives"]="Ustabaşı Klix'i (Foreman Klix) öldür ve Çivili Yüzüğü'nü (Studded Ring) Shak'a getir.",
     ["Progress"]="Onu orada dışarıda bulmada bir şans var mı?",
     ["Completion"]="<Shak yüzüğü kendi parmağına geçirir ve kıkırdar.> Sonunda, o salağın hak ettiği şey ayağına geldi. Belki artık insanlar bana o isimle seslenmeyi bırakır!",
     ["minlevel"]="0",
@@ -38854,14 +38854,14 @@ QuestTranslator_QuestData = {
     -- Demons -> İblisler. Tribe -> Kabile. Speaker -> Sözcü, dream -> rüya. Loa = Loa.
     -- Mojo of the Dreams / Mojo of Dreams -> Rüyalar Mojosu. Emerald Sanctum portal -> Zümrüt Kutsal Alanı portalı.
     -- Shadeflayers -> Gölgebaltası kastediliyor (Özel topluluk adı). Madness -> Çılgınlık / Delilik, corruption -> yozlaşma.
-    -- Expunged -> Silinmek / Yok edilmek. Warlord Hanzento -> Savaş Lordu Hanzento kalmıştır[cite: 1]. Evil -> kötülük.
-    -- Speaker Gan'hota -> Sözcü Gan'hota kalmıştır[cite: 1]. Zul'Hatha = Zul'Hatha[cite: 2]. Hyjal = Hyjal[cite: 2].
-    -- Shadowhunter Trak'nal -> Gölgeavcısı Trak'nal kalmıştır[cite: 1]. Darkwhisper Gorge -> Karanlıkfısıltı Kanyonu[cite: 2].
+    -- Expunged -> Silinmek / Yok edilmek. Warlord Hanzento -> Savaş Lordu Hanzento kalmıştır. Evil -> kötülük.
+    -- Speaker Gan'hota -> Sözcü Gan'hota kalmıştır. Zul'Hatha = Zul'Hatha[cite: 2]. Hyjal = Hyjal[cite: 2].
+    -- Shadowhunter Trak'nal -> Gölgeavcısı Trak'nal kalmıştır. Darkwhisper Gorge -> Karanlıkfısıltı Kanyonu[cite: 2].
     -- Blade -> kılıç / silah. Debt -> Borç. Friend -> dostum / arkadaşım.
     ["41095"] = {
     ["Title"]="Gölgediş'i Kurtarmak",
-    ["Description"]="Dostum (mon), iblislerle (demons) ilgisi olmayan bir sorunum var. Kabilem (tribe) hakkında... Çoğu delirdi. Bu olay, Sözcü'müzle (Speaker) rüyasında bir Loa iletişim kurup Zümrüt Kutsal Alanı (Emerald Sanctum) portalının yakınındaki suyu kullanarak bir Rüyalar Mojosu (Mojo of the Dreams) yapmasını söylediğinde gerçekleşti. O sırada iblislerle savaşıyordum ama geri döndüğümde kendi kabilem bana saldırdı ve kendilerine Gölgebaltası (Shadeflayers) dediler. Çılgınlık (madness) onları ele geçirdi ancak yozlaşmanın (corruption) kaynağı yok edilirse (expunged) halkımın kurtarılabileceğine inanıyorum. Bu kötülüğü başlatan kişi olan Savaş Lordu Hanzento'yu katlet ve Sözcü Gan'hota'yı bul, bu Rüyalar Mojosu onda bulunuyor[cite: 1]. Her ikisini de batı Hyjal'daki Zul'Hatha'da bulabilirsin[cite: 2].",
-    ["Objectives"]="Zul'Hatha'daki Savaş Lordu Hanzento'yu katlet ve Rüyalar Mojosu'nu (Mojo of Dreams) Karanlıkfısıltı Kanyonu'ndaki Gölgeavcısı Trak'nal'a getir[cite: 1, 2].",
+    ["Description"]="Dostum (mon), iblislerle (demons) ilgisi olmayan bir sorunum var. Kabilem (tribe) hakkında... Çoğu delirdi. Bu olay, Sözcü'müzle (Speaker) rüyasında bir Loa iletişim kurup Zümrüt Kutsal Alanı (Emerald Sanctum) portalının yakınındaki suyu kullanarak bir Rüyalar Mojosu (Mojo of the Dreams) yapmasını söylediğinde gerçekleşti. O sırada iblislerle savaşıyordum ama geri döndüğümde kendi kabilem bana saldırdı ve kendilerine Gölgebaltası (Shadeflayers) dediler. Çılgınlık (madness) onları ele geçirdi ancak yozlaşmanın (corruption) kaynağı yok edilirse (expunged) halkımın kurtarılabileceğine inanıyorum. Bu kötülüğü başlatan kişi olan Savaş Lordu Hanzento'yu katlet ve Sözcü Gan'hota'yı bul, bu Rüyalar Mojosu onda bulunuyor. Her ikisini de batı Hyjal'daki Zul'Hatha'da bulabilirsin[cite: 2].",
+    ["Objectives"]="Zul'Hatha'daki Savaş Lordu Hanzento'yu katlet ve Rüyalar Mojosu'nu (Mojo of Dreams) Karanlıkfısıltı Kanyonu'ndaki Gölgeavcısı Trak'nal'a getir.",
     ["Progress"]="Onu buldun mu?",
     ["Completion"]="<Trak'nal Mojoyu senden alır ve silahıyla (blade) parçalar.> Halkımdan ümidimi kesmeyeceğim. Umarım, bu şeyin yozlaştırıcı etkisi olmadan, zamanla zihinleri yeniden kendilerinin olacaktır. Sana borçluyum (debt), arkadaşım. Teşekkürler.",
     ["minlevel"]="0",
@@ -38873,12 +38873,12 @@ QuestTranslator_QuestData = {
     -- Scalebane Ridge -> Pulbelası Sırtı (Scale + Bane + Ridge). Lethlor Ravine -> Lethlor Kanyonu (Lethlor Ravine)[cite: 2].
     -- The Badlands = Çorak Topraklar[cite: 2]. Dense one -> kalın kafalı biri. Encampment -> ordugah / kamp, base of operations -> operasyon üssü.
     -- Dark Iron Dwarves -> Kara Demir Cüceleri (Dark Iron Dwarves)[cite: 2]. Whelplings -> ejderha yavruları. Hunters -> avcılar.
-    -- Shadowforge Dwarves -> Gölgedemiri Cüceleri (Shadowforge Dwarves)[cite: 2]. Senator Barin Redstone -> Senatör Barin Kızıltaş kalmıştır[cite: 1].
+    -- Shadowforge Dwarves -> Gölgedemiri Cüceleri (Shadowforge Dwarves)[cite: 2]. Senator Barin Redstone -> Senatör Barin Kızıltaş kalmıştır.
     -- Ironforge = Ironforge[cite: 2]. Conclusion -> Sonuç, task -> görev.
     ["40657"] = {
     ["Title"]="Pulbelası Sırtı",
     ["Description"]="<Yaklaşmanı engellemek için elini kaldırır.> Bu kadar yakınlık yeter. Ve kısık sesle konuş, macera lakırdılarınla (prattle of adventure) ve görev peşinde koşmanla bizi çileden çıkarma... Aslında, bir ricam var. Pulbelası Sırtı'nı (Scalebane Ridge) duydun mu? Hayır mı? Lethlor Kanyonu (Lethlor Ravine) peki?[cite: 2] Hayır mı? Çorak Topraklar (The Badlands)?[cite: 2] Sen gerçekten kalın kafalı birisin (dense one)... Senden Pulbelası Sırtı olarak bilinen ordugahı bulmanı istiyorum. O bölgedeki Kara Demir Cüceleri (Dark Iron Dwarves) için yeni bir operasyon üssüdür ve bölgedeki ejderha yavrularını (whelplings) avlamaları bana ne için kullanılabileceklerine dair çok kötü bir his veriyor[cite: 2]. Her halükarda, eşeği sağlam kazığa bağlamak (better safe than sorry) en iyisidir. Oraya yönel ve avcılarını katlet.",
-    ["Objectives"]="Ironforge'daki Senatör Barin Kızıltaş (Senator Barin Redstone) için Çorak Topraklar'da, Lethlor Kanyonu içinde gizlenmiş olan Pulbelası Sırtı'ndaki Gölgedemiri Cücelerini katlet[cite: 1, 2].",
+    ["Objectives"]="Ironforge'daki Senatör Barin Kızıltaş (Senator Barin Redstone) için Çorak Topraklar'da, Lethlor Kanyonu içinde gizlenmiş olan Pulbelası Sırtı'ndaki Gölgedemiri Cücelerini katlet.",
     ["Progress"]="Hızlıca hallet.",
     ["Completion"]="Ah, evet, gerekli bir göreve (task) uygun bir sonuç (conclusion).",
     ["minlevel"]="0",
@@ -38891,12 +38891,12 @@ QuestTranslator_QuestData = {
     -- Skinned corpses -> derisi yüzülmüş cesetler, whelplings and drakes -> ejderha yavruları ve drakeler. Sun -> güneş, rot -> çürümek.
     -- Dark Iron Dwarves -> Kara Demir Cüceleri[cite: 2]. Guarded camp -> korunan kamp, harvest -> hasat etmek / toplamak.
     -- Slay -> katlet, dwarves -> cüceler. Base of operations -> operasyon üssü.
-    -- Shadowforge Dwarves -> Gölgedemiri Cüceleri[cite: 2], Scalebane Ridge -> Pulbelası Sırtı. Lexlort kalmıştır[cite: 1].
+    -- Shadowforge Dwarves -> Gölgedemiri Cüceleri[cite: 2], Scalebane Ridge -> Pulbelası Sırtı. Lexlort kalmıştır.
     -- Kargath = Kargath[cite: 2]. Urgent -> acil.
     ["40655"] = {
     ["Title"]="Sırta Tırmanmak",
     ["Description"]="Söylemeye gerek olmadığına eminim, küçük genç yaratıklara (little young creatures) karşı büyük bir sevgim yok. Örneğin insanlara (humans) ve onların küçük evcil hayvanlarına karşı aşağılamadan başka bir şey beslemiyorum. <Maskesinin altından bıyık altından güler.> Ancak yakın zamanda Lethlor Kanyonu'ndaki (Lethlor Ravine) bir ordugahtan ve güneşte çürümeye (rot) bırakılmış sayısız ejderha yavrusunun derisi yüzülmüş cesetlerinden haberdar edildim[cite: 2]. Bir kez daha Kara Demir Cüceleri (Dark Iron Dwarves)[cite: 2]. Şimdi, birileri önemli bir şeyi toplamak (harvest) için değilse neden ejderha yavrularını ve drakeleri katletmek amacıyla korunan bir kamp kurar ki? Ne elde etmeyi umdukları özellikle umurumda değil, ancak eğer onlar daha fazla tahkim edilmeden önce şimdi vurursak, bu girişimi temelinden baltalamış oluruz. Bu operasyon üssünü bul ve içinde bulduğun cüceleri katlet.",
-    ["Objectives"]="Çorak Topraklar'da, Lethlor Kanyonu içinde gizlenmiş olan Pulbelası Sırtı'ndaki (Scalebane Ridge) Gölgedemiri Cücelerini katlet, tamamlandığında Kargath'taki Lexlort'a geri dön[cite: 1, 2].",
+    ["Objectives"]="Çorak Topraklar'da, Lethlor Kanyonu içinde gizlenmiş olan Pulbelası Sırtı'ndaki (Scalebane Ridge) Gölgedemiri Cücelerini katlet, tamamlandığında Kargath'taki Lexlort'a geri dön.",
     ["Progress"]="Kamp henüz darmadağın edilmedi mi?",
     ["Completion"]="Hmm, bu ordugah tahmin ettiğimden daha hızlı inşa ediliyor gibi görünüyor. Belki de bu durum gerçekten acildir (urgent).",
     ["minlevel"]="0",
@@ -38906,14 +38906,14 @@ QuestTranslator_QuestData = {
 -- Scarlet Aid
     -- Prisoner -> Mahkum, Stormwind = Fırtınayeli. Jurisdiction -> Yargı alanı / Yetki alanı.
     -- Lead -> İpucu. Cathedral District's Chapel -> Katedral Bölgesi Şapeli (Cathedral + District). Priest -> rahip, red robes -> kırmızı cübbeler.
-    -- Shaw's men -> Shaw'ın adamları (Mathias Shaw). Brother Crowley -> Crowley Kardeş kalmıştır[cite: 1].
+    -- Shaw's men -> Shaw'ın adamları (Mathias Shaw). Brother Crowley -> Crowley Kardeş kalmıştır.
     -- Scarlet Crusade -> Kızıl Haçlı Seferi (Scarlet Crusade)[cite: 2]. City -> Şehir, ambassador -> elçi / büyükelçi.
     -- Light -> Işık, stupid lie -> aptalca yalan. Blokes -> Adamlar.
     -- Cathedral's District -> Katedral Bölgesi. Bold accusation -> Küstahça suçlama / Cesurca suçlama.
     ["80708"] = {
     ["Title"]="Kızıl Yardım",
-    ["Description"]="Çocuklarım mahkumun (prisoner) Fırtınayeli'ne (Stormwind) ulaşması için hazırlık yaptı. Onların yetki alanının (jurisdiction) bir parçası olduğu için kaderine orada karar verilecek. Büyük yardımın dokundu ve eminim bu meseleyi daha da fazla kurcalamak istersin. Senin için bir ipucum (lead) olabilir, gerçi ne kadar yardımcı olacağından emin değilim. Katedral Bölgesi'nin (Cathedral District) Şapeli'nin altında kırmızı cübbeli (red robes) bir rahip var. Shaw'ın adamlarından aldığım istihbarat onun adının Crowley Kardeş (Brother Crowley) olduğunu ve Kızıl Haçlı Seferi (the Scarlet Crusade) tarafından şehir içine bir nevi elçi (ambassador) olarak gönderildiğini söylüyor[cite: 1, 2]. Görevi, Işık (the Light) adına savaşmaya istekli olanları toplamak ya da bu Kızıl'ların kendi kendilerine söylediği her neyse o aptalca yalandı. Her halükarda, Crowley o kadar aktif değildi. Bu adamları toplayan kişinin o olup olmadığından emin değiliz ama denemeye değer.",
-    ["Objectives"]="Fırtınayeli Katedral Bölgesi'ne (Cathedral's District of Stormwind) seyahat et ve Crowley Kardeş (Brother Crowley) ile konuş[cite: 1].",
+    ["Description"]="Çocuklarım mahkumun (prisoner) Fırtınayeli'ne (Stormwind) ulaşması için hazırlık yaptı. Onların yetki alanının (jurisdiction) bir parçası olduğu için kaderine orada karar verilecek. Büyük yardımın dokundu ve eminim bu meseleyi daha da fazla kurcalamak istersin. Senin için bir ipucum (lead) olabilir, gerçi ne kadar yardımcı olacağından emin değilim. Katedral Bölgesi'nin (Cathedral District) Şapeli'nin altında kırmızı cübbeli (red robes) bir rahip var. Shaw'ın adamlarından aldığım istihbarat onun adının Crowley Kardeş (Brother Crowley) olduğunu ve Kızıl Haçlı Seferi (the Scarlet Crusade) tarafından şehir içine bir nevi elçi (ambassador) olarak gönderildiğini söylüyor. Görevi, Işık (the Light) adına savaşmaya istekli olanları toplamak ya da bu Kızıl'ların kendi kendilerine söylediği her neyse o aptalca yalandı. Her halükarda, Crowley o kadar aktif değildi. Bu adamları toplayan kişinin o olup olmadığından emin değiliz ama denemeye değer.",
+    ["Objectives"]="Fırtınayeli Katedral Bölgesi'ne (Cathedral's District of Stormwind) seyahat et ve Crowley Kardeş (Brother Crowley) ile konuş.",
     ["Progress"]="Nasıl yardımcı olabilirim?",
     ["Completion"]="Küstahça bir suçlama (bold accusation), YOUR_RACE, neredeyse alınmış hissediyorum. Korkarım o ben değildim, işler daha basit olurdu. Mahkumundan bir isim aldığını varsayıyorum. Bana ne olduğunu anlat.",
     ["minlevel"]="0",
@@ -38923,13 +38923,13 @@ QuestTranslator_QuestData = {
 -- Scarlet Corruption
     -- Agent of undeath -> ölümden sonralık ajanı / hortlak ajanı. Neutral lands -> tarafsız topraklar.
     -- Crusade -> Haçlı Seferi (Scarlet Crusade). Integrity -> Dürüstlük / Doğruluk, pillars -> sütunlar, leaders -> liderler.
-    -- Cathedral -> Katedral. High Inquisitor Fairbanks -> Baş Engizisyoncu Fairbanks kalmıştır[cite: 1]. Death -> ölüm, unnatural means -> doğal olmayan yollar.
+    -- Cathedral -> Katedral. High Inquisitor Fairbanks -> Baş Engizisyoncu Fairbanks kalmıştır. Death -> ölüm, unnatural means -> doğal olmayan yollar.
     -- Necromancy -> nekromansi, elite -> elit tabaka / seçkinler. Proof -> Kanıt. Scarlet Cathedral -> Kızıl Katedral.
-    -- Brother Elias -> Elias Kardeş kalmıştır[cite: 1]. Shademore Tavern -> Gölgelidiyar Meyhanesi. Allegations -> iddialar. Future -> gelecek.
+    -- Brother Elias -> Elias Kardeş kalmıştır. Shademore Tavern -> Gölgelidiyar Meyhanesi. Allegations -> iddialar. Future -> gelecek.
     ["40935"] = {
     ["Title"]="Kızıl Yozlaşma",
-    ["Description"]="Artık bir hortlak ajanı (agent of undeath) olmadığına güvenebileceğime göre, tarafsız toprakları (neutral lands) aramamın gerçek sebebini açıklayabiliriz. Haçlı Seferi (The Crusade) bir zamanlar yüksek doğruluğa sahip soylu bir organizasyondu ancak en güvenilir liderlerimizin (leaders) sütunlarında çatlaklar belirmeye başladı. Katedral'in (the Cathedral) derinliklerinde, Baş Engizisyoncu Fairbanks'in (High Inquisitor Fairbanks) gerçek kaderine dair söylentiler yayılıyor[cite: 1]. Ölümünün... Doğal olmayan yollarla (unnatural means) durdurulduğuna inanmak için iyi kaynaklarım var. Eğer nekromansinin (necromancy) Haçlı Seferi'nin elitleri arasında yaygınlaştığı doğruysa, kanıta (proof) ihtiyacım var. Kızıl Katedral (Scarlet Cathedral) içindeki Engizisyoncu Fairbanks'i bul ve gerçeği açığa çıkar.",
-    ["Objectives"]="Gilneas'taki Gölgelidiyar Meyhanesi'nde (Shademore Tavern) bulunan Elias Kardeş (Brother Executive) için Baş Engizisyoncu Fairbanks'in kaderi hakkındaki gerçeği açığa çıkar[cite: 1].",
+    ["Description"]="Artık bir hortlak ajanı (agent of undeath) olmadığına güvenebileceğime göre, tarafsız toprakları (neutral lands) aramamın gerçek sebebini açıklayabiliriz. Haçlı Seferi (The Crusade) bir zamanlar yüksek doğruluğa sahip soylu bir organizasyondu ancak en güvenilir liderlerimizin (leaders) sütunlarında çatlaklar belirmeye başladı. Katedral'in (the Cathedral) derinliklerinde, Baş Engizisyoncu Fairbanks'in (High Inquisitor Fairbanks) gerçek kaderine dair söylentiler yayılıyor. Ölümünün... Doğal olmayan yollarla (unnatural means) durdurulduğuna inanmak için iyi kaynaklarım var. Eğer nekromansinin (necromancy) Haçlı Seferi'nin elitleri arasında yaygınlaştığı doğruysa, kanıta (proof) ihtiyacım var. Kızıl Katedral (Scarlet Cathedral) içindeki Engizisyoncu Fairbanks'i bul ve gerçeği açığa çıkar.",
+    ["Objectives"]="Gilneas'taki Gölgelidiyar Meyhanesi'nde (Shademore Tavern) bulunan Elias Kardeş (Brother Executive) için Baş Engizisyoncu Fairbanks'in kaderi hakkındaki gerçeği açığa çıkar.",
     ["Progress"]="Ee, vatanımın (homeland) içinde neyi açığa çıkardın?",
     ["Completion"]="Duyduğum sözlere inanamıyorum, halkımın liderleri arasında bu tür uygulamalar ha? Ben ve diğerleri uzun süredir bu tür iddialara (allegations) karşı temkinliydik ancak bunun doğru olduğunu bilmek... Geleceğimize (future) karar vermek için diğerleriyle toplanmam gerekecek. Sana çok teşekkür ederim. Lütfen bunu, şahsım ve temsil ettiğim kişiler adına bir teşekkür olarak al.",
     ["minlevel"]="0",
@@ -38937,13 +38937,13 @@ QuestTranslator_QuestData = {
     }, -- end Scarlet Corruption
 
 -- Scarlet with Rage
-    -- Deathguard Burgess -> Ölümmuhafızı Burgess kalmıştır[cite: 1]. Brill = Brill[cite: 2].
+    -- Deathguard Burgess -> Ölümmuhafızı Burgess kalmıştır. Brill = Brill[cite: 2].
     -- Station -> Görev yeri. Inexperienced members -> deneyimsiz üyeler, horde -> horde. Learned hand -> eğitimli bir el / deneyimli biri. Pay -> ödeme.
     -- Deathguard -> Ölümmuhafızı. Approvingly -> onaylayarak.
     ["60117"] = {
     ["Title"]="Öfkeden Kızarmış",
-    ["Description"]="Sen! YOUR_RACE! Bana bir iyilik yapabilir misin merak ediyorum. Brill'deki Ölümmuhafızı Burgess (Deathguard Burgess) görev yeri hakkında ve sadece horde'un deneyimsiz üyelerine erişimi olması yüzünden söylenip duruyordu[cite: 1, 2]. Daha deneyimli bir el (learned hand) gerektiren bir şeye sahip ve ödeme yapmaya hazır.",
-    ["Objectives"]="Brill'deki Ölümmuhafızı Burgess (Deathguard Burgess) ile konuş[cite: 1, 2].",
+    ["Description"]="Sen! YOUR_RACE! Bana bir iyilik yapabilir misin merak ediyorum. Brill'deki Ölümmuhafızı Burgess (Deathguard Burgess) görev yeri hakkında ve sadece horde'un deneyimsiz üyelerine erişimi olması yüzünden söylenip duruyordu. Daha deneyimli bir el (learned hand) gerektiren bir şeye sahip ve ödeme yapmaya hazır.",
+    ["Objectives"]="Brill'deki Ölümmuhafızı Burgess (Deathguard Burgess) ile konuş.",
     ["Progress"]="",
     ["Completion"]="<Ölümmuhafızı (The Deathguard) seni onaylayarak süzüyor.> Evet, evet sen iş görürsün. Buraya gel, YOUR_CLASS.",
     ["minlevel"]="0",
@@ -38952,15 +38952,15 @@ QuestTranslator_QuestData = {
 
 -- Scars of the Past
     -- Betrayed -> İhanet edilmek, dooming -> felakete sürüklemek. Blood of the demon Mannoroth -> İblis Mannoroth'un kanı.
-    -- Companion Korvir -> Yoldaş Korvir kalmıştır[cite: 1], Truthseeker -> Doğruarayan kalmıştır (Özel kılıç veya NPC adı). Forests -> ormanlar, Ashenvale = Ashenvale[cite: 2].
-    -- Logrash kalmıştır[cite: 1], scars -> yaralar, chest -> göğüs, painful expression -> acılı ifade.
-    -- Spirits -> Ruhlar, demon scum -> iblis pisliği. Naxiar kalmıştır[cite: 1], eastern lakes -> doğu gölleri.
+    -- Companion Korvir -> Yoldaş Korvir kalmıştır, Truthseeker -> Doğruarayan kalmıştır (Özel kılıç veya NPC adı). Forests -> ormanlar, Ashenvale = Ashenvale[cite: 2].
+    -- Logrash kalmıştır, scars -> yaralar, chest -> göğüs, painful expression -> acılı ifade.
+    -- Spirits -> Ruhlar, demon scum -> iblis pisliği. Naxiar kalmıştır, eastern lakes -> doğu gölleri.
     -- Wolf totem -> kurt totemi. Hunt -> av, Barrens -> Çorak Topraklar[cite: 2].
     -- Mok'ra -> Mok'ra (Ork selamlaması), accursed demon -> lanetli iblis, rage -> öfke, revenge -> intikam, motive -> dürtü / sebep.
     ["40109"] = {
     ["Title"]="Geçmişin Yaraları",
-    ["Description"]="Dört yıl önce, kendi halkım, bizi ilk başta felakete sürükleyen (dooming) şeyin aynısını —iblis Mannoroth'un kanını (blood of the demon Mannoroth) içmeyi— reddettiğim için bana ihanet etti. Yoldaşım Korvir (Korvir) ve Doğruarayan (Truthseeker) olmasaydı, bedenim Ashenvale ormanlarında çoktan çürüyüp gitmişti[cite: 1, 2]. <Logrash göğsündeki (chest) yaraları acılı bir ifadeyle okşar.>[cite: 1] Ruhlar (the spirits), Ashenvale'in doğu göllerinin etrafında saklanan Naxiar adlı bir iblis pisliğinden fısıldıyor[cite: 1, 2]. Eğer yardımıma sahip olmak istiyorsan, onu öldürmene ve kurt totemimi (wolf totem) geri almana ihtiyacım var.",
-    ["Objectives"]="Doğu Ashenvale'deki Naxiar'ı öldür ve kurt totemini Çorak Topraklar'daki Logrash'a geri getir[cite: 1, 2].",
+    ["Description"]="Dört yıl önce, kendi halkım, bizi ilk başta felakete sürükleyen (dooming) şeyin aynısını —iblis Mannoroth'un kanını (blood of the demon Mannoroth) içmeyi— reddettiğim için bana ihanet etti. Yoldaşım Korvir (Korvir) ve Doğruarayan (Truthseeker) olmasaydı, bedenim Ashenvale ormanlarında çoktan çürüyüp gitmişti. <Logrash göğsündeki (chest) yaraları acılı bir ifadeyle okşar.> Ruhlar (the spirits), Ashenvale'in doğu göllerinin etrafında saklanan Naxiar adlı bir iblis pisliğinden fısıldıyor. Eğer yardımıma sahip olmak istiyorsan, onu öldürmene ve kurt totemimi (wolf totem) geri almana ihtiyacım var.",
+    ["Objectives"]="Doğu Ashenvale'deki Naxiar'ı öldür ve kurt totemini Çorak Topraklar'daki Logrash'a geri getir.",
     ["Progress"]="Av (hunt) nasıl gidiyor?",
     ["Completion"]="Mok'ra, YOUR_NAME. Lanetli iblisin (accursed demon) öldüğünü varsayıyorum. Güzel, onun gibiler ölümden fazlasını hak etmiyor. Onlara karşı öfkem (rage) derinden gelse de, intikam (revenge) tek sebebim (motive) değildi.",
     ["minlevel"]="0",
@@ -38989,12 +38989,12 @@ QuestTranslator_QuestData = {
     -- Components -> bileşenler, complicated parts -> karmaşık parçalar. Steam tanks -> buharlı tanklar, war -> savaş.
     -- Dwarves of Dun Kithas -> Dun Kithas cüceleri. Dragonmaw -> Ejderhaağzı. Idle -> atıl / boşta, rotting away -> çürüyüp gitmek.
     -- Countryside -> kırsal alan, engineering -> mühendislik. Intricate parts -> girift parçalar / karmaşık parçalar, wrecks -> enkazlar.
-    -- Harlekk kalmıştır[cite: 1], Shatterblade Post -> Parçalanmışbıçak Karargahı[cite: 2], Grim Reaches = Amansız Menziller[cite: 2].
+    -- Harlekk kalmıştır, Shatterblade Post -> Parçalanmışbıçak Karargahı[cite: 2], Grim Reaches = Amansız Menziller[cite: 2].
     -- Craftsmanship -> işçilik, goblin or gnomish hands -> goblin ya da gnom elleri. Basecamp -> ana kamp, stone age -> taş devri. Items -> eşyalar.
     ["41726"] = {
     ["Title"]="Enkazlardan Parça Toplamak",
     ["Description"]="Artık bazı bileşenleri kurtardığıma göre, gözümü daha karmaşık parçalara (complicated parts) dikmek istiyorum. Bir süre önce Dun Kithas cüceleri (dwarves of Dun Kithas) ile Ejderhaağzı (Dragonmaw) arasındaki savaş sırasında birçok buharlı tank (steam tanks) imha edilmişti. Bu bir zamanların muazzam makineleri, batı ve güneybatıdaki kırsal alanda (countryside) çürüyüp giderek atıl vaziyette duruyor. Bu kadar karmaşık bir mühendisliği (engineering) burada arazide kopyalamam mümkün değil. Bölgedeki enkazların (wrecks) etrafından bana bu karmaşık parçalardan altı tane bul, karşılığında cömertçe ödüllendirileceğinden emin olacağım.",
-    ["Objectives"]="Amansız Menziller'deki Parçalanmışbıçak Karargahı'nda bulunan Harlekk için bölgedeki buharlı tankların enkazlarından 6 Karmaşık Parça (Intricate Parts) topla[cite: 1, 2].",
+    ["Objectives"]="Amansız Menziller'deki Parçalanmışbıçak Karargahı'nda bulunan Harlekk için bölgedeki buharlı tankların enkazlarından 6 Karmaşık Parça (Intricate Parts) topla.",
     ["Progress"]="Enkazları bulabildin mi?",
     ["Completion"]="Ne kadar güzel bir işçilik (craftsmanship); bu mühendisliğe goblin ya da gnom ellerinin (goblin or gnomish hands) değdiğini anlayabilirsin. Bu parçalarla Parçalanmışbıçak Karargahı'ndaki çalışmalarımızı daha da ileriye taşıyabileceğim[cite: 2]. Çalışman için seni takdir etmeliyim. Kurtardığın bileşenler ve parçalar olmasaydı bu ana kamp (basecamp) taş devrinde (stone age) kalırdı. Bu eşyalardan (items) birini al, umarım işine yaradığını görürsün.",
     ["minlevel"]="0",
@@ -39002,17 +39002,17 @@ QuestTranslator_QuestData = {
     }, -- end Scavenging the Wrecks
 
 -- Scourge of Darrowshire
-    -- Master Mathias -> Üstad Mathias kalmıştır[cite: 1]. Devotion -> adanmışlık, art of war -> savaş sanatı. Pages -> sayfalar.
+    -- Master Mathias -> Üstad Mathias kalmıştır. Devotion -> adanmışlık, art of war -> savaş sanatı. Pages -> sayfalar.
     -- Battle of Darrowshire -> Darrowshire Savaşı. Scourge Warlord -> Scourge Savaş Lordu. Swords -> kılıçlar.
-    -- Marduk the Black -> Kara Marduk kalmıştır[cite: 1]. Monster -> canavar, blood -> kan, veins -> damarlar, Nora -> Nora kalmıştır[cite: 1].
-    -- Mastery of Swords -> Kılıçlarda Ustalaşma (Kitap adı). Fray Island -> Kavga Adası[cite: 2]. Sakgoth -> Sakgoth kalmıştır[cite: 1]. Texts -> metinler.
+    -- Marduk the Black -> Kara Marduk kalmıştır. Monster -> canavar, blood -> kan, veins -> damarlar, Nora -> Nora kalmıştır.
+    -- Mastery of Swords -> Kılıçlarda Ustalaşma (Kitap adı). Fray Island -> Kavga Adası[cite: 2]. Sakgoth -> Sakgoth kalmıştır. Texts -> metinler.
     -- Potion -> iksir, condemn and praise -> kınamak ve övmek. Concept of right and wrong -> doğru ve yanlış kavramı. Skills of war -> savaş becerileri.
     -- Vilifies -> kötülemek / aşağılamak, out of place -> yersiz. Heart -> kalp, mind -> zihin, task -> görev.
     ["41537"] = {
     ["Title"]="Darrowshire'ın Belası",
-    ["Description"]="<Ağır kitap, Üstad Mathias'ın savaş sanatına (art of war) olan titiz bağlılığının bir kanıtıdır[cite: 1]. Sadece sayfalara göz atarak genel bir bakış elde etmeye çalışmak bile üzerinde ürkütücü bir ifade bırakıyor. Darrowshire Savaşı'nı (Battle of Darrowshire) ve onun kaderini mühürleyen belirli bir Scourge Savaş Lordu'nu (Scourge Warlord) tanımlıyor. Kitap onun eylemlerini aşağılık ve zalimce olarak tanımlıyor, ancak Kara Marduk'un (Marduk the Black) kullandığı kılıçları tanımlamak için hiçbir fırsatı kaçırmıyor[cite: 1]. Böyle bir canavara sunulan hayranlık yüzünden kafan karışmış bir halde, damarlarındaki (veins) kan kaynamaya başlarken Nora'ya doğru yol alıyorsun.>",
+    ["Description"]="<Ağır kitap, Üstad Mathias'ın savaş sanatına (art of war) olan titiz bağlılığının bir kanıtıdır. Sadece sayfalara göz atarak genel bir bakış elde etmeye çalışmak bile üzerinde ürkütücü bir ifade bırakıyor. Darrowshire Savaşı'nı (Battle of Darrowshire) ve onun kaderini mühürleyen belirli bir Scourge Savaş Lordu'nu (Scourge Warlord) tanımlıyor. Kitap onun eylemlerini aşağılık ve zalimce olarak tanımlıyor, ancak Kara Marduk'un (Marduk the Black) kullandığı kılıçları tanımlamak için hiçbir fırsatı kaçırmıyor. Böyle bir canavara sunulan hayranlık yüzünden kafan karışmış bir halde, damarlarındaki (veins) kan kaynamaya başlarken Nora'ya doğru yol alıyorsun.>",
     ["Objectives"]="Kılıçlarda Ustalaşma (Mastery of Swords) kitabını Kavga Adası'ndaki (Fray Island) Nora Buhargörüş'e (Nora Steamsight) ulaştır[cite: 2].",
-    ["Progress"]="Selamlar! Genellikle Sakgoth'un bana getirdiği bu eski metinleri deşifre etmekle meşgulüm ama ayıracak bir dakikam var[cite: 1].",
+    ["Progress"]="Selamlar! Genellikle Sakgoth'un bana getirdiği bu eski metinleri deşifre etmekle meşgulüm ama ayıracak bir dakikam var.",
     ["Completion"]="Yutulması zor bir iksir (potion), değil mi? Neredeyse mükemmel bir denge içinde bir varlığı hem kınamak hem de övmek. Doğru ve yanlış kavramını (concept of right and wrong) sorgulamana neden olabilir, değil mi? Şey, olmamalı. Unutma ki kitabın amacı savaş becerileriyle (skills of war) bağlantılıdır — Marduk'u o noktaya kadar kötülemesi zaten dikkat çekici ve yersiz bir şeydir. Kalbini (heart) buna kapat ve zihnini (mind) bir sonraki görevine aç.",
     ["minlevel"]="0",
     ["questlevel"]="0",
@@ -39022,18 +39022,18 @@ QuestTranslator_QuestData = {
     -- Dreary -> kasvetli, Gilneas = Gilneas[cite: 2]. Reality -> gerçeklik. Tutelage -> gözetim / himaye, masters -> üstadlar.
     -- Great manuscripts -> harika el yazmaları, Light -> Işık. Spread the faith -> inancı yaymak, broke bread -> ekmeği bölüşmek.
     -- Unscathed -> yara almadan kurtulmak, perilous times -> tehlikeli zamanlar, Third War -> Üçüncü Savaş. Plague -> veba. Northern cousins -> kuzeyli kuzenler, conflict -> çatışma, Scourge = Scourge.
-    -- Lich -> lich, Naze the Eternal -> Ölümsüz Naze kalmıştır[cite: 1]. Wall -> sur / duvar, Oldrock Pass -> Eskitaş Geçidi (Old + Rock + Pass)[cite: 2].
+    -- Lich -> lich, Naze the Eternal -> Ölümsüz Naze kalmıştır. Wall -> sur / duvar, Oldrock Pass -> Eskitaş Geçidi (Old + Rock + Pass)[cite: 2].
     -- Undead -> hortlaklar / ölüler, victory -> zafer, terrible toll -> korkunç bir bedel. Scour -> didik didik aramak / taramak.
     -- Greyshire -> Bozköy (Grey + Shire)[cite: 2]. Forlorn souls -> kederli ruhlar. Manuscripts -> el yazmaları.
-    -- Ruins of Greyshire -> Bozköy Harabeleri[cite: 2]. Father Oblen -> Peder Oblen kalmıştır[cite: 1]. Shademore Tavern -> Gölgelidiyar Meyhanesi.
+    -- Ruins of Greyshire -> Bozköy Harabeleri[cite: 2]. Father Oblen -> Peder Oblen kalmıştır. Shademore Tavern -> Gölgelidiyar Meyhanesi.
     -- Faith -> inanç, scripts -> yazılar, misery -> sefalet / acı, gratitude -> şükran.
     ["40830"] = {
     -- "Scouring Greyshire" -> Bozköy'ü Didik Didik Aramak
     ["Title"]="Bozköy'ü Didik Didik Aramak",
-    ["Description"]="Gilneas'ta (Gilneas) hava kasvetli görünebilir ancak seni temin etmeliyim ki bu her zaman bizim gerçekliğimiz değildi[cite: 2]. Geçmiş zamanlarda, üstadlarımın (masters) gözetimi altında eğitim alarak ve Işık (the Light) için harika el yazmaları (great manuscripts) boyayarak uzun yıllar geçirdim. İnancı yaydım (spread the faith) ve birçok iyi insanla ekmeğimi bölüştüm. Üçüncü Savaş'ın (Third War) o tehlikeli zamanlarında yara almadan kurtulduğumuzu (unscathed) varsayacak birkaç gafil var. Kuzeyli kuzenlerimiz gibi doğrudan vebadan (the plague) zarar görmemiş olsak da, Scourge ile bir çatışmamız (conflict) oldu. Görüyorsun ya, iki yıl önce, Ölümsüz Naze (Naze the Eternal) adında güçlü bir lich, Eskitaş Geçidi (Oldrock Pass) yakınlarındaki surları yardı[cite: 1, 2]. Nihayetinde, hortlaklar (undead) Gilneas'ın iyi askerleri tarafından mağlup edildi ancak zaferimizin (victory) bedeli korkunç oldu. Bozköy'den (Greyshire) canımı zor kurtardım, diğerleri o kadar şanslı değildi[cite: 2]. Senden o terk edilmiş yeri didik didik aramanı (scour) ve gençlik yıllarımda boyayarak geçirdiğim el yazmalarını kurtarmanı rica ediyorum. Oradayken, hala orada kalan bazı kederli ruhlara (forlorn souls) huzur getir.",
-    ["Objectives"]="Gilneas'taki Gölgelidiyar Meyhanesi'nde bulunan Peder Oblen (Father Oblen) için Bozköy Harabeleri'nden (Ruins of Greyshire) Bozköy El Yazmalarını kurtar[cite: 1, 2].",
+    ["Description"]="Gilneas'ta (Gilneas) hava kasvetli görünebilir ancak seni temin etmeliyim ki bu her zaman bizim gerçekliğimiz değildi[cite: 2]. Geçmiş zamanlarda, üstadlarımın (masters) gözetimi altında eğitim alarak ve Işık (the Light) için harika el yazmaları (great manuscripts) boyayarak uzun yıllar geçirdim. İnancı yaydım (spread the faith) ve birçok iyi insanla ekmeğimi bölüştüm. Üçüncü Savaş'ın (Third War) o tehlikeli zamanlarında yara almadan kurtulduğumuzu (unscathed) varsayacak birkaç gafil var. Kuzeyli kuzenlerimiz gibi doğrudan vebadan (the plague) zarar görmemiş olsak da, Scourge ile bir çatışmamız (conflict) oldu. Görüyorsun ya, iki yıl önce, Ölümsüz Naze (Naze the Eternal) adında güçlü bir lich, Eskitaş Geçidi (Oldrock Pass) yakınlarındaki surları yardı. Nihayetinde, hortlaklar (undead) Gilneas'ın iyi askerleri tarafından mağlup edildi ancak zaferimizin (victory) bedeli korkunç oldu. Bozköy'den (Greyshire) canımı zor kurtardım, diğerleri o kadar şanslı değildi[cite: 2]. Senden o terk edilmiş yeri didik didik aramanı (scour) ve gençlik yıllarımda boyayarak geçirdiğim el yazmalarını kurtarmanı rica ediyorum. Oradayken, hala orada kalan bazı kederli ruhlara (forlorn souls) huzur getir.",
+    ["Objectives"]="Gilneas'taki Gölgelidiyar Meyhanesi'nde bulunan Peder Oblen (Father Oblen) için Bozköy Harabeleri'nden (Ruins of Greyshire) Bozköy El Yazmalarını kurtar.",
     ["Progress"]="Tehlikeli bir görev gibi görünebilir ama unutma: Işık'a olan inancını (faith) koru; kendini doğru yolda bulacağın kesindir.",
-    ["Completion"]="<Peder Oblen eski çalışmasına bakarken memnun görünüyor.>[cite: 1] Ahh, bu yazılara (scripts) bir daha bakacağımı hiç düşünmemiştim; o yerin başına gelen tüm acılardan (misery) sağ çıkabilmiş olmaları büyük bir şans. Çabaların için sana çok teşekkür ederim, YOUR_CLASS. Lütfen bunu şükranımın (gratitude) bir göstergesi olarak kabul et.",
+    ["Completion"]="<Peder Oblen eski çalışmasına bakarken memnun görünüyor.> Ahh, bu yazılara (scripts) bir daha bakacağımı hiç düşünmemiştim; o yerin başına gelen tüm acılardan (misery) sağ çıkabilmiş olmaları büyük bir şans. Çabaların için sana çok teşekkür ederim, YOUR_CLASS. Lütfen bunu şükranımın (gratitude) bir göstergesi olarak kabul et.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Scouring Greyshire
@@ -39043,13 +39043,13 @@ QuestTranslator_QuestData = {
     -- Worg spit -> worg tükürüğü, resources -> kaynaklar. Dark Iron -> Kara Demir. Surface -> yüzey, steppes -> bozkırlar.
     -- Baubles -> ıvır zıvırlar, equipment -> teçhizat / ekipman, creature stomach -> yaratık midesi. Sizeable amount -> önemli miktarda.
     -- Scraps -> hurdalar / parçalar. Grunts -> neferler, Karfang Hold -> Karfang Hisarı[cite: 2].
-    -- Dark Iron Scraps -> Kara Demir Hurdaları. Burning Steppes = Yanık Bozkırlar[cite: 2]. Blacksmith Torren -> Demirci Torren kalmıştır[cite: 1].
+    -- Dark Iron Scraps -> Kara Demir Hurdaları. Burning Steppes = Yanık Bozkırlar[cite: 2]. Blacksmith Torren -> Demirci Torren kalmıştır.
     -- Hard times -> Zor zamanlar, desperate measures -> çaresiz önlemler, life and death -> yaşam ve ölüm. Haul -> ganimet / yük.
     -- Surplus -> fazlalık / stok fazlası. Choice -> seçim.
     ["40491"] = {
     ["Title"]="Hurda Toplayıcısı",
     ["Description"]="Selamlar yabancı, görünüşe göre bu yeni Horde'dan bazı yeni acemiler (recruits) sonunda varıyor. Bunu kısa tutacağım, burada işlerimiz o kadar iyi gitmiyor. Sanki her şey bir worg tükürüğüyle (worg spit) bir arada tutuluyor ve kaynakların (resources) eksikliği kesinlikle yardımcı olmuyor. Bunu düzeltmemizin zamanının geldiğini söyleyeceğim. Kara Demir (Dark Iron), bozkırların (steppes) yüzeyinde oldukça kıt olma eğilimindedir, ancak birçoğu tarafından taşınır. İster ıvır zıvır (baubles), ister teçhizat olsun, ister bir yaratığın midesinde (creature stomach) duruyor olsun. Karfang Hisarı'nı (Karfang Hold) güvende tutmak amacıyla neferlerimiz (grunts) için teçhizat dövmeye devam edebilmem adına dışarı atıl ve bana önemli miktarda hurda topla[cite: 2].",
-    ["Objectives"]="Yanık Bozkırlar'daki (Burning Steppes) çeşitli yaratıklardan 50 Kara Demir Hurdası (Dark Iron Scraps) topla ve Karfang Hisarı'ndaki Demirci Torren'e (Blacksmith Torren) geri dön[cite: 1, 2].",
+    ["Objectives"]="Yanık Bozkırlar'daki (Burning Steppes) çeşitli yaratıklardan 50 Kara Demir Hurdası (Dark Iron Scraps) topla ve Karfang Hisarı'ndaki Demirci Torren'e (Blacksmith Torren) geri dön.",
     ["Progress"]="Zor zamanlar (hard times) çaresiz önlemler gerektirir; elindekilerle nasıl yetineceğini bilmek, yaşam ve ölüm (life and death) arasındaki çizgiyi çizer.",
     ["Completion"]="Bu oldukça büyük bir yük (haul), etkilendim. Bu yeni Horde'a katılmak sonuçta o kadar da kötü olmayabilir. O kadar çok hurda topladın ki, sana seçtiğin bir teçhizatı dövmek için fazlalık (surplus) stoğum bile var. Onu iyi taşıyacağına inanıyorum.",
     ["minlevel"]="0",
@@ -39058,16 +39058,16 @@ QuestTranslator_QuestData = {
 
 -- Scratching Each Other's Back
     -- Aid -> yardım, Darkspear -> Karamızrak (Darkspear trolls). Tribe -> kabile, unity -> birlik, miracle -> mucize.
-    -- Good will -> iyi niyet. Zol'majin kalmıştır[cite: 1], Master Gadrin -> Üstad Gadrin kalmıştır[cite: 1], Sen'jin Village -> Sen'jin Köyü[cite: 2].
+    -- Good will -> iyi niyet. Zol'majin kalmıştır, Master Gadrin -> Üstad Gadrin kalmıştır, Sen'jin Village -> Sen'jin Köyü[cite: 2].
     -- Doll -> oyuncak bebek / bebek, troll custom -> trol adeti. Voodoo Doll -> Voodoo Bebek.
-    -- Warleader Zol'majin -> Savaş Lideri Zol'majin kalmıştır[cite: 1]. Confidence -> güven içinde / gizlilikle.
+    -- Warleader Zol'majin -> Savaş Lideri Zol'majin kalmıştır. Confidence -> güven içinde / gizlilikle.
     -- Vol'jin = Vol'jin. Tribes -> kabileler, trust -> güven. Symbol -> sembol, gesture -> jest / hareket, kind -> aynı şekilde.
     ["80314"] = {
     ["Title"]="Karşılıklı Yardımlaşma",
-    ["Description"]="Karamızrak'ın (the Darkspear) yardımı hoş bir sürpriz oldu. Bir trolün başka bir kabileyle (tribe) göz göze gelmektense gözlerini oymayı tercih edeceği bir zamanda, bu birlik (unity) gerçek bir mucize. Bir iyi niyet (good will) göstergesi olarak, Zol'majin seni Sen'jin Köyü'ndeki Üstad Gadrin'e (Master Gadrin) gönderecek[cite: 1, 2]. Bu bebeği ona sun. Bu, onun anlayacağı eski bir trol adetidir.",
-    ["Objectives"]="Zol'majin'in Voodoo Bebeği'ni (Zol'majin's Voodoo Doll) Sen'jin Köyü'ndeki Üstad Gadrin'e götür[cite: 1, 2].",
+    ["Description"]="Karamızrak'ın (the Darkspear) yardımı hoş bir sürpriz oldu. Bir trolün başka bir kabileyle (tribe) göz göze gelmektense gözlerini oymayı tercih edeceği bir zamanda, bu birlik (unity) gerçek bir mucize. Bir iyi niyet (good will) göstergesi olarak, Zol'majin seni Sen'jin Köyü'ndeki Üstad Gadrin'e (Master Gadrin) gönderecek. Bu bebeği ona sun. Bu, onun anlayacağı eski bir trol adetidir.",
+    ["Objectives"]="Zol'majin'in Voodoo Bebeği'ni (Zol'majin's Voodoo Doll) Sen'jin Köyü'ndeki Üstad Gadrin'e götür.",
     ["Progress"]="Ne haber dostum (ya mon)? Benim için bir şeyin olduğunu mu söylüyorsun?",
-    ["Completion"]="Yıllardır bunlardan almamıştım, dostum (mon). Bu hareketin (gesture) anlamını anlıyor musun? Bu, Savaş Lideri Zol'majin'in (Warleader Zol'majin) bizzat kendisine ait bir voodoo bebeğidir, başka bir trole güven içinde (in confidence) verilmiştir[cite: 1]. Bu bebek sonunda Vol'jin'e ulaşacak, yani Zol'majin hayatını Karamızrak'ın ellerine bırakıyor. Bu, kabileler (tribes) arasındaki büyük güvenin bir sembolüdür. Bu jest zamanla aynı şekilde (in kind) karşılık bulabilir.",
+    ["Completion"]="Yıllardır bunlardan almamıştım, dostum (mon). Bu hareketin (gesture) anlamını anlıyor musun? Bu, Savaş Lideri Zol'majin'in (Warleader Zol'majin) bizzat kendisine ait bir voodoo bebeğidir, başka bir trole güven içinde (in confidence) verilmiştir. Bu bebek sonunda Vol'jin'e ulaşacak, yani Zol'majin hayatını Karamızrak'ın ellerine bırakıyor. Bu, kabileler (tribes) arasındaki büyük güvenin bir sembolüdür. Bu jest zamanla aynı şekilde (in kind) karşılık bulabilir.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Scratching Each Other's Back
@@ -39086,12 +39086,12 @@ QuestTranslator_QuestData = {
     }, -- end Scribbled Cooking Notes
     -- Runestone Reactivation
     -- Runestone -> Rün Taşı, Ancient -> Kadim, stones -> taşlar.
-    -- Nordanaar = Nordanaar[cite: 2]. Hyjal = Hyjal[cite: 2]. Glanthas the Ancient -> Kadim Glanthas kalmıştır[cite: 1].
+    -- Nordanaar = Nordanaar[cite: 2]. Hyjal = Hyjal[cite: 2]. Glanthas the Ancient -> Kadim Glanthas kalmıştır.
     -- Magic -> Büyü, teleporation -> ışınlanma.
     ["40989"] = {
     ["Title"]="Rün Taşı Yeniden Etkinleştirme",
-    ["Description"]="Her şeyin yerine oturmasıyla, Rün Taşı'nın (Runestone) gücü yakında bir kez daha kanalize edilmeye başlayacak. Nordanaar'daki Kadim Glanthas (Glanthas the Ancient) ile konuşmanı rica ediyorum[cite: 1, 2]. Buradaki, Hyjal'daki Rün Taşlarının gücünü kontrol eden odur[cite: 2]. Onun büyüsüyle (magic), her iki taş arasında ışınlanmana izin verilmelidir.",
-    ["Objectives"]="Hyjal'daki Nordanaar'da bulunan Kadim Glanthas (Glanthas the Ancient) ile konuş[cite: 1, 2].",
+    ["Description"]="Her şeyin yerine oturmasıyla, Rün Taşı'nın (Runestone) gücü yakında bir kez daha kanalize edilmeye başlayacak. Nordanaar'daki Kadim Glanthas (Glanthas the Ancient) ile konuşmanı rica ediyorum. Buradaki, Hyjal'daki Rün Taşlarının gücünü kontrol eden odur[cite: 2]. Onun büyüsüyle (magic), her iki taş arasında ışınlanmana izin verilmelidir.",
+    ["Objectives"]="Hyjal'daki Nordanaar'da bulunan Kadim Glanthas (Glanthas the Ancient) ile konuş.",
     ["Progress"]="Evet?",
     ["Completion"]="<Kadim Glanthas uzun ve sessiz bir bakış fırlatır.> Rün Taşı mı?",
     ["minlevel"]="0",
@@ -39102,11 +39102,11 @@ QuestTranslator_QuestData = {
     -- Eldre'thalas = Eldre'thalas. Moonwells -> ay kuyuları, well -> kuyu. Elune = Elune.
     -- Twin set -> ikiz set. Dire Maul -> Katmerli Ezgi (Dire Maul)[cite: 2]. Ogres -> Ogreler.
     -- High Priestess -> Baş Rahibe. Shadows -> Gölgeler, ritual -> ritüel.
-    -- Vestia Moonspear -> Vestia Aymızrağı kalmıştır[cite: 1]. Corrupted Moonwell -> Yozlaşmış Ay Kuyusu.
+    -- Vestia Moonspear -> Vestia Aymızrağı kalmıştır. Corrupted Moonwell -> Yozlaşmış Ay Kuyusu.
     ["40382"] = {
     ["Title"]="Eldre'thalas'ın Kutsal Suları",
     ["Description"]="Bileceğin üzere, ay kuyularımız (moonwells) bizim için çok kutsaldır. Böyle bir kuyunun yozlaştırılması Elune'a karşı büyük bir hakaret sayılır. Maalesef, sürekli nöbet tutmamıza rağmen bu başımıza gelebiliyor. Eldre'thalas'ın dışında, pek çok kişinin Katmerli Ezgi (Dire Maul) olarak bildiği ikiz bir ay kuyusu seti bulunur[cite: 2]. Kuyulardan biri saf kalırken, diğeri Ogreler (Ogreler) tarafından kirletildi. Ay kuyusunu temizlememe ve sorumluları adalete teslim etmeme yardım et, ben de senin durumunu Baş Rahibe'nin bizzat kendisine sunayım. Sen gelene kadar gölgelerde bekleyeceğim. Ritüel (ritual) tamamlanana kadar beni koruman gerekecek, çünkü tüm dikkatimi vermemi gerektirecek.",
-    ["Objectives"]="Katmerli Ezgi'nin dışındaki Yozlaşmış Ay Kuyusu'nun (Corrupted Moonwell) sularını temizlerken Vestia Moonspear'ı koru[cite: 1, 2].",
+    ["Objectives"]="Katmerli Ezgi'nin dışındaki Yozlaşmış Ay Kuyusu'nun (Corrupted Moonwell) sularını temizlerken Vestia Moonspear'ı koru.",
     ["Progress"]="Elune bize rehberlik etsin.",
     ["Completion"]="Heyecan verici bir deneyimdi. Bundan sonra bu tür tehlikeli işlerden kaçınma konusunda hemfikir olalım, değil mi? Şaka bir yana, minnettarlığımı kazandın. Ve söz verdiğim gibi, senin durumun konusunda elimden gelenin en iyisini yapacağım.",
     ["minlevel"]="0",
@@ -39116,12 +39116,12 @@ QuestTranslator_QuestData = {
 -- Safety for Refugees
     -- Wilderness -> Yaban hayatı / Yaban, forests -> ormanlar, woods -> ormanlık alan.
     -- Lynxes -> vaşaklar, young -> yavrular. Found home -> Yeni bulunan yuva.
-    -- Crimson Lynxes -> Al vaşaklar / Kızıl Vaşaklar. Commander Anarileth -> Komutan Anarileth kalmıştır[cite: 1].
+    -- Crimson Lynxes -> Al vaşaklar / Kızıl Vaşaklar. Commander Anarileth -> Komutan Anarileth kalmıştır.
     -- Burgeoning threat -> Büyüyen tehdit, responsibility -> sorumluluk.
     ["41189"] = {
     ["Title"]="Mülteciler İçin Güvenlik",
     ["Description"]="Yaban hayatına (wilderness) yaptığın hamle sırasında, bu ormanlara bela olan vaşakların (lynxes) oluşturduğu büyüyen tehdidi fark ettiğinden eminim. Şu anda sadece bir baş belası olsalar da, nüfuslarının kontrolden çıkmasına izin veremeyiz. Sana kasvetli bir görev vermeliyim: Ormanlık alana (woods) bir kez daha atıl ve bu vaşakların yavrularını (young) ayıkla. Sayılarının kabarmasına izin veremeyiz, çünkü halkımızın güvenliği ve esenliği bu yeni bulunan yuvadaki (found home) dengenin korunmasına bağlıdır.",
-    ["Objectives"]="Komutan Anarileth (Commander Anarileth) için 12 Al Vaşak Yavrusu (Young Crimson Lynxes) katlet[cite: 1].",
+    ["Objectives"]="Komutan Anarileth (Commander Anarileth) için 12 Al Vaşak Yavrusu (Young Crimson Lynxes) katlet.",
     ["Progress"]="Unutma, peşinde olduğun şey yavrular.",
     ["Completion"]="Ah, vaşak nüfusunun büyüyen tehdidinin dizginlendiğini bilmek rahatlatıcı bir nefes aldırdı. Eylemlerin bir teselli duygusu getiriyor ve topluluğumuz için bu sorumluluğu (responsibility) üstlendiğini bilerek daha rahat uyuyabilirim, genç YOUR_CLASS.",
     ["minlevel"]="0",
@@ -39131,13 +39131,13 @@ QuestTranslator_QuestData = {
 -- Sailors Innovation
     -- Sea -> Deniz, sailors -> denizciler. Fine dining -> Seçkin yemekler, meals -> yemekler.
     -- Recipe -> Tarif. Tel'Abim = Tel'Abim. Sand crawlers -> kum sürüngenleri / kum yengeçleri. Leg -> bacak / kıskaç.
-    -- Bananas -> muzlar, salt -> tuz. Chef Jenkel -> Şef Jenkel kalmıştır[cite: 1].
+    -- Bananas -> muzlar, salt -> tuz. Chef Jenkel -> Şef Jenkel kalmıştır.
     -- Juicy Crawler Legs -> Sulu Sürüngen Bacakları, Pinch of Salt -> Bir Çimdik Tuz.
-    -- 'Slim' -> 'Sıska' kalmıştır[cite: 1]. Caelan's Rest -> Caelan'ın İnzivası (Caelan + Rest)[cite: 2]. Admiral -> Amiral.
+    -- 'Slim' -> 'Sıska' kalmıştır. Caelan's Rest -> Caelan'ın İnzivası (Caelan + Rest)[cite: 2]. Admiral -> Amiral.
     ["40142"] = {
     ["Title"]="Denizcilerin Yeniliği",
-    ["Description"]="Denizdeki zamanımızdan bilindiği üzere, gemide seçkin yemekleri (fine dining) ortaya çıkaranlar biz denizcileriz (sailors). Aynı yemekleri tekrar tekrar yediğinizde tekdüze hale gelebilirler, bu yüzden doğaçlama yapma ve yenilik getirme zamanı geldi. Bu tarifi (recipe) bir süre önce Tel'Abim'de (Tel'Abim) birkaç gün geçirdiğimizde bulmuştum. Elimizde sadece kum sürüngenleri (sand crawlers) ve muzlar vardı. Hepsini birlikte kızartın ve bir çimdik tuz ekleyin, işte size mükemmel bir yemek! Ne yazık ki muzumuz yok ama Şef Jenkel'de (Chef Jenkel) biraz tuz olduğunu biliyorum[cite: 1]. Tuzu ondan al ve bu adaların etrafındaki her türlü kum sürüngeninden birkaç bacak topla, böylece sonunda farklı bir yemek yiyebilirim.",
-    ["Objectives"]="Caelan'ın İnzivası'ndaki (Caelan's Rest) 'Sıska' ('Slim') için 6 Sulu Sürüngen Bacağı (Juicy Crawler Legs) ve Bir Çimdik Tuz (Pinch of Salt) topla[cite: 1, 2].",
+    ["Description"]="Denizdeki zamanımızdan bilindiği üzere, gemide seçkin yemekleri (fine dining) ortaya çıkaranlar biz denizcileriz (sailors). Aynı yemekleri tekrar tekrar yediğinizde tekdüze hale gelebilirler, bu yüzden doğaçlama yapma ve yenilik getirme zamanı geldi. Bu tarifi (recipe) bir süre önce Tel'Abim'de (Tel'Abim) birkaç gün geçirdiğimizde bulmuştum. Elimizde sadece kum sürüngenleri (sand crawlers) ve muzlar vardı. Hepsini birlikte kızartın ve bir çimdik tuz ekleyin, işte size mükemmel bir yemek! Ne yazık ki muzumuz yok ama Şef Jenkel'de (Chef Jenkel) biraz tuz olduğunu biliyorum. Tuzu ondan al ve bu adaların etrafındaki her türlü kum sürüngeninden birkaç bacak topla, böylece sonunda farklı bir yemek yiyebilirim.",
+    ["Objectives"]="Caelan'ın İnzivası'ndaki (Caelan's Rest) 'Sıska' ('Slim') için 6 Sulu Sürüngen Bacağı (Juicy Crawler Legs) ve Bir Çimdik Tuz (Pinch of Salt) topla.",
     ["Progress"]="O sürüngen bacaklarının sulu olduğundan emin ol!",
     ["Completion"]="Ah, evet bu her şey olmalı. Amiral (Admiral) için layık bir yemek! Al bakalım, teşekkür olarak biraz ye.",
     ["minlevel"]="0",
@@ -39165,12 +39165,12 @@ QuestTranslator_QuestData = {
     -- Logistics guy -> Lojistikçi. Supply convoys -> Erzak kervanları, weapons -> silahlar, tools -> aletler.
     -- Vultures and hyenas -> Akbabalar ve sırtlanlar, wrecked carts -> enkaz kervan arabaları.
     -- Blackstone Island -> Karataş Adası (Black + Stone)[cite: 2]. Rustgate Tools -> Paslıkapı Aletleri.
-    -- Supplymaster Maxlo -> İaşe Amiri Maxlo kalmıştır[cite: 1]. Rustgate Ridge -> Paslıkapı Sırtı[cite: 2].
+    -- Supplymaster Maxlo -> İaşe Amiri Maxlo kalmıştır. Rustgate Ridge -> Paslıkapı Sırtı[cite: 2].
     -- Sparkwater = Kıvılcımsuyu. Salvage -> Kurtarmak / Hurda toplamak. Normalcy -> Normallik / Eski düzen.
     ["41164"] = {
     ["Title"]="Kervanları Kurtarmak",
     ["Description"]="Aşağıdaki kömür ocaklarındaki (coalpits) tüm pislikleri temizleyen o gelecek vaat eden işçi sen misin? Adına yakışır bir şeylerin olmalı, kardeşim kulesine gizlice sızmaya çalışan ocaktaki herkesi genellikle dışarı atar. Dürüst olmak gerekirse, yeteneklerini (abilities) kullanabilirim. Son haftalarda haydut gnollar (renegade gnolls) tarafından giderek daha fazla pusuya düşürüldük. Küçük köpek beyinleri (small dog brains) şiddet ve kaos arıyor, bir lojistikçi olarak anlayamadığım bir şey. Erzak kervanlarımıza (supply convoys) baskın düzenlediler ve çoğunlukla yiyecek ve silah çaldılar, ancak aletlerin çoğunu etrafta bıraktılar. Onlar için fazla gelişmiş olduğuna eminim. O aletlere mümkün olan en kısa sürede ihtiyacımız var. Akbabalar ve sırtlanlar (vultures and hyenas) enkaz halindeki arabaların etrafında dolanıyor, buraya geri dönemeyenlerin üzerinde ziyafet çekiyorlar. Onları adanın her yerine dağılmış halde bulabilirsin, gözden kaçırmanın imkanı yok.",
-    ["Objectives"]="Karataş Adası'nın (Blackstone Island) dört bir yanındaki kırık kervanlardan Paslıkapı Aletleri'ni (Rustgate Tools) geri al[cite: 2]. Onları Paslıkapı Sırtı'ndaki İaşe Amiri Maxlo'ya (Supplymaster Maxlo) ulaştır[cite: 1, 2].",
+    ["Objectives"]="Karataş Adası'nın (Blackstone Island) dört bir yanındaki kırık kervanlardan Paslıkapı Aletleri'ni (Rustgate Tools) geri al[cite: 2]. Onları Paslıkapı Sırtı'ndaki İaşe Amiri Maxlo'ya (Supplymaster Maxlo) ulaştır.",
     ["Progress"]="Kıvılcımsuyu'ndan (Sparkwater) istediğimiz sıklıkta yeni erzak alamıyoruz, bu yüzden kurtarabildiğimiz (salvage) kadar çok şeyi kurtarmalıyız.",
     ["Completion"]="Hm, hava durumu onlara pek iyi gelmemiş. Ama işçilerin onaramayacağı hiçbir şey yok. Orada iyi iş çıkardın. Böyle devam edersen yakında bu adada eski düzeni (normalcy) yeniden sağlayabiliriz.",
     ["minlevel"]="0",
@@ -39182,12 +39182,12 @@ QuestTranslator_QuestData = {
     -- Crop harvest -> Ekin hasadı, bundlin' -> demetlemek. Farm -> Çiftlik.
     -- Bundles of crop harvest -> Demetlenmiş ekin hasadı.
     -- Bael Hardul = Bael Hardul[cite: 2]. Plateau Fleshrippers -> Plato Etyaranları.
-    -- Bundled Crop Harvest -> Demetlenmiş Ekin Hasadı. Segwar Ironback -> Segwar Demirsırt kalmıştır[cite: 1].
+    -- Bundled Crop Harvest -> Demetlenmiş Ekin Hasadı. Segwar Ironback -> Segwar Demirsırt kalmıştır.
     -- Stonetalon Mountains = Taşpençe Dağları (Stonetalon Mountains)[cite: 2]. Freeloading -> Otlakçılık yapmak / Beleşe konmak.
     ["40608"] = {
     ["Title"]="Ekinleri Kurtarmak",
     ["Description"]="O toprağı gübrelemek, işlemek ve kullanılabilir toprak (soil) haline getirmek haftalar sürdü; hepsi taze bir yem (fresh feed) için aşağı süzülen ve yeri yakıp yıkan bir akbaba sürüsü (flock of buzzards) tarafından mahvedildi. Bah, lanet aptal akbabalar! Ekin hasadından (crop harvest) hala geriye kalanlar olabilir, şansımıza o pislikler aşağı inip beni kaçırmadan hemen önce hepsini demetlemeyi bitirmiştim. Tepeden aşağı, çiftliğe doğru in, orada çok uzun süre otlakçılık yapmayı (freeloading) iki kez düşünmelerini sağlamak için birkaçını öldür ve 4 demet ekin hasadı topla, olur mu?",
-    ["Objectives"]="Kasabanın altındaki Bael Hardul'da bulunan çiftliğe seyahat et, 5 Plato Etyaranı (Plateau Fleshrippers) katlet ve Taşpençe Dağları'ndaki Segwar Ironback için 4 Demetlenmiş Ekin Hasadı (Bundled Crop Harvest) topla[cite: 1, 2].",
+    ["Objectives"]="Kasabanın altındaki Bael Hardul'da bulunan çiftliğe seyahat et, 5 Plato Etyaranı (Plateau Fleshrippers) katlet ve Taşpençe Dağları'ndaki Segwar Ironback için 4 Demetlenmiş Ekin Hasadı (Bundled Crop Harvest) topla.",
     ["Progress"]="Bütün günümüzü alamayız şimdi, çok fazla beklersen hepsini yiyip bitirebilirler.",
     ["Completion"]="Ahh, yaptın! Onlarla savaşmak için biraz fazla yaşlıyım, buralara uğramış olman iyi bir şey.",
     ["minlevel"]="0",
@@ -39195,27 +39195,27 @@ QuestTranslator_QuestData = {
     }, -- end Salvaging the Crops
 
 -- Sample for Glanthas
-    -- Enchanted Sludge -> Efsunlu Çamur / Büyülü Balçık. Glanthas the Ancient -> Kadim Glanthas kalmıştır[cite: 1].
+    -- Enchanted Sludge -> Efsunlu Çamur / Büyülü Balçık. Glanthas the Ancient -> Kadim Glanthas kalmıştır.
     -- Nordanaar = Nordanaar[cite: 2]. Druid -> druid, root cause -> temel sebep. Sludge Sample -> Çamur Örneği.
-    -- Farana Leafblade -> Farana Yaprakbıçak kalmıştır[cite: 1]. Warrior -> Savaşçı. Magical energies -> Büyülü enerjiler.
+    -- Farana Leafblade -> Farana Yaprakbıçak kalmıştır. Warrior -> Savaşçı. Magical energies -> Büyülü enerjiler.
     ["41023"] = {
     ["Title"]="Glanthas İçin Örnek",
-    ["Description"]="Benim için topladığın Efsunlu Çamur'un (Enchanted Sludge) bir örneğini hazırladım. Onu Nordanaar'daki Kadim Glanthas'a (Glanthas the Ancient) götürmeni rica ediyorum[cite: 1, 2]. En son duyduğuma göre, Glanthas ve bir druid (druid) benzer bir şeyin temel sebebini (root cause) bulmak için birlikte çalışıyorlardı. Belki de bu çamur örneği her ikisine de yardımcı olabilir.",
-    ["Objectives"]="Çamur Örneği'ni (Sludge Sample) Nordanaar'daki Kadim Glanthas'a (Glanthas the Ancient) ulaştır[cite: 1, 2].",
+    ["Description"]="Benim için topladığın Efsunlu Çamur'un (Enchanted Sludge) bir örneğini hazırladım. Onu Nordanaar'daki Kadim Glanthas'a (Glanthas the Ancient) götürmeni rica ediyorum. En son duyduğuma göre, Glanthas ve bir druid (druid) benzer bir şeyin temel sebebini (root cause) bulmak için birlikte çalışıyorlardı. Belki de bu çamur örneği her ikisine de yardımcı olabilir.",
+    ["Objectives"]="Çamur Örneği'ni (Sludge Sample) Nordanaar'daki Kadim Glanthas'a (Glanthas the Ancient) ulaştır.",
     ["Progress"]="Evet, yardımcı olabilir miyim?",
-    ["Completion"]="Seni Farana Yaprakbıçak (Farana Leafblade) mı gönderdi?[cite: 1] Çok iyi bir savaşçıdır, bu topraklara en az benim kadar bağlıdır. <Glanthas örneği alır, dikkatlice inceler.> Büyülü enerjilerle (magical energies) kirletilmiş, çok pis bir malzeme.",
+    ["Completion"]="Seni Farana Yaprakbıçak (Farana Leafblade) mı gönderdi? Çok iyi bir savaşçıdır, bu topraklara en az benim kadar bağlıdır. <Glanthas örneği alır, dikkatlice inceler.> Büyülü enerjilerle (magical energies) kirletilmiş, çok pis bir malzeme.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Sample for Glanthas
 
 -- Sand in Bulk
-    -- Corrupted Sand -> Yozlaşmış Kum. Dronormu kalmıştır[cite: 1]. Caverns of Time -> Zaman Mağaraları (Caverns of Time)[cite: 2].
+    -- Corrupted Sand -> Yozlaşmış Kum. Dronormu kalmıştır. Caverns of Time -> Zaman Mağaraları (Caverns of Time)[cite: 2].
     -- Purification -> Arındırma / Temizleme. Large quantities -> Büyük miktarlar.
     -- Timeline -> Zaman akışı / Zaman çizgisi. Portals -> Portallar. Perilous place -> Tehlikeli yer, uninitiated -> toy olanlar.
     ["40341"] = {
     ["Title"]="Toplu Halde Kum",
     ["Description"]="",
-    ["Objectives"]="Zaman Mağaraları'ndaki (Caverns of Time) Dronormu için 10 Yozlaşmış Kum (Corrupted Sand) topla[cite: 1, 2].",
+    ["Objectives"]="Zaman Mağaraları'ndaki (Caverns of Time) Dronormu için 10 Yozlaşmış Kum (Corrupted Sand) topla.",
     ["Progress"]="Yozlaşmış Kum'un (Corrupted Sand) arındırılması uzun ve karmaşık bir süreçtir, bu yüzden bir kerede arındırılmak üzere büyük miktarlarda toplamak en iyisidir. Eğer 10 Yozlaşmış Kum örneği elde edebilirsen, bunları arındırma ve zaman akışına (timeline) verilen hasarı onarma çalışmamız çok daha verimli olacaktır. Bu portalların (portals) ötesindeki bozuk zaman akışları Yozlaşmış Kum açısından bol olmalıdır. Onu elde etmek için sadece cesur bir ruhun içeri girmesi gerekir. Zaman Mağaraları'nda (Caverns of Time) tetikte ol, çünkü burası toy olanlar (uninitiated) için tehlikeli bir yerdir[cite: 2].",
     ["Completion"]="İyi iş çıkardın, YOUR_NAME. Bu Yozlaşmış Kum (Corrupted Sand) örneği arındırmamızı kolaylaştıracak. Bulursan daha fazlasına her zaman ihtiyacımız var ve katkılarını kabul etmeye hazırız.",
     ["minlevel"]="0",
@@ -39225,26 +39225,26 @@ QuestTranslator_QuestData = {
 -- Sand In The Cracks
     -- Wilderness -> Yaban hayatı / Çöl yabanı. Short green friends -> Kısa yeşil arkadaşlar (Goblinler kastediliyor). Orgrimmar = Orgrimmar.
     -- Natural resources -> Doğal kaynaklar, lecture -> ders / eğitim dersi. Materials -> Malzemeler.
-    -- Jarkal kalmıştır[cite: 1]. Kargath = Kargath[cite: 2]. Badlands = Çorak Topraklar[cite: 2]. Ogres -> ogreler.
-    -- Jewelcrafting -> Mücevher işlemeciliği, ingredients -> malzemeler. Gulmire kalmıştır[cite: 1]. Trinkets -> ıvır zıvırlar / muskalar.
+    -- Jarkal kalmıştır. Kargath = Kargath[cite: 2]. Badlands = Çorak Topraklar[cite: 2]. Ogres -> ogreler.
+    -- Jewelcrafting -> Mücevher işlemeciliği, ingredients -> malzemeler. Gulmire kalmıştır. Trinkets -> ıvır zıvırlar / muskalar.
     ["41287"] = {
     ["Title"]="Çatlaklardaki Kum",
     ["Description"]="Sana karşı dürüst olacağım, burada, çöl yabanında (wilderness), kaynaklarımız sana düzgün bir şekilde eğitim verecek kadar bol değil. Orgrimmar'daki (Orgrimmar) kısa yeşil arkadaşlarımızın sahip olduğu sonsuz kaynaklara sahip değilim. Yine de üzerinde çalışamayacağımız hiçbir şey yok. Şansımıza, bu topraklar doğal kaynaklar (natural resources) açısından zengindir ve bunları dersinin (lecture) malzemesine dönüştürebilirsin. Bunu ne kadar yetenekli olduğunu görmek için bir tür test olarak kabul et.",
-    ["Objectives"]="Çorak Topraklar'daki (the Badlands) Kargath'ta bulunan Jarkal'a gerekli malzemeleri getir[cite: 1, 2].",
+    ["Objectives"]="Çorak Topraklar'daki (the Badlands) Kargath'ta bulunan Jarkal'a gerekli malzemeleri getir.",
     ["Progress"]="Dışarıda dolaşan ogrelere (ogres) dikkat et, hoşuma gitmeyecek kadar çoklar.",
-    ["Completion"]="Harika iş, bu yerde mücevher işlemeciliği (jewelcrafting) için aynı anda nadiren bu kadar çok malzemeye sahip olmuştum. Sanırım Gulmire'a bir tür minnet duymak gerekiyor, çünkü yeni raporları beklerken bana pratik yapacak bir şeyler verdi[cite: 1]. Ancak sana dönecek olursak; dur sana bu narin muskaların (trinkets) nasıl yaratılacağını göstereyim.",
+    ["Completion"]="Harika iş, bu yerde mücevher işlemeciliği (jewelcrafting) için aynı anda nadiren bu kadar çok malzemeye sahip olmuştum. Sanırım Gulmire'a bir tür minnet duymak gerekiyor, çünkü yeni raporları beklerken bana pratik yapacak bir şeyler verdi. Ancak sana dönecek olursak; dur sana bu narin muskaların (trinkets) nasıl yaratılacağını göstereyim.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Sand In The Cracks
 
 -- Sandfury Redemption I
     -- Tribe -> Kabile. Sandfury -> Kumöfkesi (Sandfury trolls). Zul'Farrak = Zul'Farrak. Desert -> Çöl, lunatics -> deliler.
-    -- Chief Sandscalp -> Reis Kumsafı kalmıştır[cite: 1]. Minions -> uşaklar / yardakçılar. Redeemed -> Temize çıkmak.
+    -- Chief Sandscalp -> Reis Kumsafı kalmıştır. Minions -> uşaklar / yardakçılar. Redeemed -> Temize çıkmak.
     -- Diplomat -> Diplomat, representative -> temsilci. Gadgetzan = Gadgetzan[cite: 2]. Crazed bloodrinkers -> Çılgın kaniçiciler.
     -- Sandmoon Village -> Kumay Köyü (Sand + Moon)[cite: 2]. Sand trolls -> kum trolleri. Gold -> altın.
     ["40522"] = {
     ["Title"]="Kumöfkesi Kurtuluşu I",
-    ["Description"]="Kabilemiz... Kumöfkesi (Da Sandfury). Her şeyimizi kaybettik. Bir zamanlar bu çölün (desert) parıldayan mücevheri olan Zul'Farrak, deliler tarafından yönetiliyor. Yaklaşan düşüşü gören birkaçımız şehri terk edip buraya yerleşti. Gördüğün gibi, sadece bir avuç insan var. Reis Kumsafı (Chief Sandscalp) ve uşaklarını durdurmaya yetecek kadar değil[cite: 1]. Kumöfkesi Trollerinin adının önce temize çıkarılması (redeemed) gerekiyor. Etrafımızdaki insanların değiştiğimizi görmeleri gerekiyor. Bir diplomata, bir temsilciye ihtiyacımız var. Bu rolü yerine getirecek olan sensin. Gadgetzan'dakilere (Gadgetzan) Kumöfkesi'nin hepsinin çılgın kaniçiciler olmadığını göster[cite: 2].",
+    ["Description"]="Kabilemiz... Kumöfkesi (Da Sandfury). Her şeyimizi kaybettik. Bir zamanlar bu çölün (desert) parıldayan mücevheri olan Zul'Farrak, deliler tarafından yönetiliyor. Yaklaşan düşüşü gören birkaçımız şehri terk edip buraya yerleşti. Gördüğün gibi, sadece bir avuç insan var. Reis Kumsafı (Chief Sandscalp) ve uşaklarını durdurmaya yetecek kadar değil. Kumöfkesi Trollerinin adının önce temize çıkarılması (redeemed) gerekiyor. Etrafımızdaki insanların değiştiğimizi görmeleri gerekiyor. Bir diplomata, bir temsilciye ihtiyacımız var. Bu rolü yerine getirecek olan sensin. Gadgetzan'dakilere (Gadgetzan) Kumöfkesi'nin hepsinin çılgın kaniçiciler olmadığını göster[cite: 2].",
     ["Objectives"]="Gadgetzan'da Kumay Köyü'ne yardım etmeye istekli birini bul[cite: 2].",
     ["Progress"]="Ne haber, ortak?",
     ["Completion"]="Kumöfkesi değişti ve iş birliği yapmak mı istiyor? Satacak neyi var o zaman? Sanırım hiçbir şeyi! Dostum, bilirsin, Gadgetzan'ın bir itibarı var[cite: 2]. Buraya öylece pis kum trollerini (sand trolls) alamam. Tabii ödeme yapmadıkları sürece. Hem de çok.",
@@ -39254,12 +39254,12 @@ QuestTranslator_QuestData = {
 
 -- Sandfury Redemption II
     -- Guards -> muhafızlar, gold -> altın. Business -> İş / Ticaret.
-    -- Seer Maz'ek -> Kahin Maz'ek kalmıştır[cite: 1]. Sandmoon Village -> Kumay Köyü[cite: 2]. Tanaris = Tanaris[cite: 2].
+    -- Seer Maz'ek -> Kahin Maz'ek kalmıştır. Sandmoon Village -> Kumay Köyü[cite: 2]. Tanaris = Tanaris[cite: 2].
     -- Goblins -> goblinler, enemies -> düşmanlar. Mission -> Görev. Mon -> Dostum (Trol ağzı).
     ["40523"] = {
     ["Title"]="Kumöfkesi Kurtuluşu II",
     ["Description"]="O trol arkadaşlarına söyle, buradaki muhafızları (guards) içeri girmelerine izin vermeleri için ikna edebilirim... Diyelim ki... beş yüz altın karşılığında. Her biri için. Üzgünüm ahbap, ticareti riske atamam!",
-    ["Objectives"]="Tanaris'teki Kumay Köyü'nde bulunan Kahin Maz'ek'e mesajı ulaştır[cite: 1, 2].",
+    ["Objectives"]="Tanaris'teki Kumay Köyü'nde bulunan Kahin Maz'ek'e mesajı ulaştır.",
     ["Progress"]="Goblinlerle (goblins) konuştun mu dostum?",
     ["Completion"]="Zul'Farrak'taki kardeşlerimizden daha az deli değiller, dostum (mon). Kumay (Sandmoon) onlara asla ödeme yapmayacak. Eğer bizi düşman (enemies) istiyorlarsa, öyle olsun. Görevim hala geçerli.",
     ["minlevel"]="0",
@@ -39284,12 +39284,12 @@ QuestTranslator_QuestData = {
     -- Troubles -> Dertler / Sıkıntılar. Sap -> Özsu, forest -> orman, sap beasts -> özsu canavarları. Corrosive -> Aşındırıcı.
     -- Stonetalon Peak -> Taşpençe Zirvesi[cite: 2]. Herbs -> Şifalı bitkiler, cooking -> yemek pişirme, potions -> iksirler.
     -- Old ruins -> Eski harabeler, ridge -> sırt. Coin -> sikke / para, payment -> ödeme.
-    -- Corrosive Sap Beasts -> Aşındırıcı Özsu Canavarları. Innkeeper Faralia -> Hancı Faralia kalmıştır[cite: 1].
+    -- Corrosive Sap Beasts -> Aşındırıcı Özsu Canavarları. Innkeeper Faralia -> Hancı Faralia kalmıştır.
     -- Mountaintop -> Dağ zirvesi, mountainous terrain -> dağlık arazi.
     ["80397"] = {
     ["Title"]="Güçlerini Kurutmak",
     ["Description"]="Hoş geldin, YOUR_CLASS. Bu taraflarda pek fazla maceracı görmeyiz — ve bu sebepsiz de değil. Venture Şirketi'nin (Venture Company) açgözlülüğü toprağın bizzat kendisini lekeledi. Devirdikleri her kadim ağaç (ancient tree) sadece dertlerime dert katıyor. Bu ormanın ağaçlarını bir zamanlar besleyen o güçlü özsu (sap), şimdi o korkunç özsu canavarlarına (sap beasts) dönüşüyor. Onların aşındırıcı (corrosive) doğası, burada sürdürmek için savaştığımız hassas dengeye zarar veriyor. Daha da kötüsü, birçoğu yakın zamanda Taşpençe Zirvesi'ne (Stonetalon Peak) kadar ulaştı[cite: 2]! Onların aşındırıcı özsuyu yemek pişirme (cooking) ve basit iksirler için ihtiyacım olan şifalı bitkileri öldürüyor. YOUR_CLASS, ileri atıl ve Zirve'yi bu şeylerden temizle. Birçoğunu hemen buranın güneyinde, eski harabeleri barındıran sırtın (ridge) üzerinde bulacaksın. Burada yukarıda parayla pek işimiz olmaz ama belki birkaç iksir ödeme (payment) yerine geçebilir?",
-    ["Objectives"]="10 Özsu Canavarı (Sap Beasts) ve 6 Aşındırıcı Özsu Canavarı (Corrosive Sap Beasts) katlet, ardından Hancı Faralia'ya (Innkeeper Faralia) geri dön[cite: 1].",
+    ["Objectives"]="10 Özsu Canavarı (Sap Beasts) ve 6 Aşındırıcı Özsu Canavarı (Corrosive Sap Beasts) katlet, ardından Hancı Faralia'ya (Innkeeper Faralia) geri dön.",
     ["Progress"]="Dağ zirvesini (mountaintop) o özsu canavarlarından temizledin mi? Burada bir anlığına dinlen ve gücünü topla.",
     ["Completion"]="Teşekkür ederim, YOUR_NAME! Venture Şirketi'nin faaliyetleri kontrol altına alınmadıkça bu kesinlikle o özsu canavarlarının sonu olmayacak, ancak şimdilik orman sessiz ve şimdiden iyileşiyor. Al bakalım, sıkı çalışmanın teşekkürü olarak birkaç iksirimden al. Bu dağlık arazide (mountainous terrain) hızla seyahat etmene yardımcı olurlar.",
     ["minlevel"]="0",
@@ -39297,15 +39297,15 @@ QuestTranslator_QuestData = {
     }, -- end Sap Their Strength
 
 -- Sark's Grudge
-    -- Admiral -> Amiral, Fleet Master Firallon -> Filo Üstadı Firallon kalmıştır[cite: 1].
+    -- Admiral -> Amiral, Fleet Master Firallon -> Filo Üstadı Firallon kalmıştır.
     -- Dragonmaw -> Ejderhaağzı (Dragonmaw Clan), Wetlands = Sulak Alanlar. Vessels -> Gemiler, orcish battle experience -> ork savaş deneyimi.
-    -- Insulted -> Aşağılanmış. Favor -> Teveccüh. Ironpatch -> Demiryama kalmıştır[cite: 1].
+    -- Insulted -> Aşağılanmış. Favor -> Teveccüh. Ironpatch -> Demiryama kalmıştır.
     -- Wild Shore -> Vahşi Kıyı (Wild + Shore)[cite: 2]. Challenge -> Meydan okumak. Head -> baş / kelle.
-    -- Blood and thunder -> Kan ve gök gürültüsü, victory or death -> zafer ya da ölüm. Sark Blacktooth -> Sark Karadiş kalmıştır[cite: 1].
+    -- Blood and thunder -> Kan ve gök gürültüsü, victory or death -> zafer ya da ölüm. Sark Blacktooth -> Sark Karadiş kalmıştır.
     ["40355"] = {
     ["Title"]="Sark'ın Kini",
-    ["Description"]="Amiral bana Filo Üstadı Firallon'un (Fleet Master Firallon), ork savaş deneyimi (orcish battle experience) yüzünden gemilerimizden birini eğitmesi ve nihayetinde komuta etmesi için Sulak Alanlar'dan (Wetlands) Ejderhaağzı (Dragonmaw) bir hiçkimseyi seçtiğini söylüyor[cite: 1]. Bu kadar aşağılandığımdan beri uzun zaman geçmişti! Teveccühümü kazanmak ister misin YOUR_RACE? Bu \"Demiryama\" (Ironpatch), Vahşi Kıyı'daki (Wild Shore) üç gemiden birinde hemen Firallon'un yanındadır[cite: 1, 2]. Ona savaşta meydan oku ve bana kellesini (head) getir! Kan ve gök gürültüsü, zafer ya da ölüm.",
-    ["Objectives"]="Demiryama'nın Kellesi'ni (Ironpatch's Head) Sark Karadiş'e (Sark Blacktooth) geri getir[cite: 1].",
+    ["Description"]="Amiral bana Filo Üstadı Firallon'un (Fleet Master Firallon), ork savaş deneyimi (orcish battle experience) yüzünden gemilerimizden birini eğitmesi ve nihayetinde komuta etmesi için Sulak Alanlar'dan (Wetlands) Ejderhaağzı (Dragonmaw) bir hiçkimseyi seçtiğini söylüyor. Bu kadar aşağılandığımdan beri uzun zaman geçmişti! Teveccühümü kazanmak ister misin YOUR_RACE? Bu \"Demiryama\" (Ironpatch), Vahşi Kıyı'daki (Wild Shore) üç gemiden birinde hemen Firallon'un yanındadır. Ona savaşta meydan oku ve bana kellesini (head) getir! Kan ve gök gürültüsü, zafer ya da ölüm.",
+    ["Objectives"]="Demiryama'nın Kellesi'ni (Ironpatch's Head) Sark Karadiş'e (Sark Blacktooth) geri getir.",
     ["Progress"]="O aptal öldü mü?",
     ["Completion"]="Bu beni fazlasıyla memnun etti, YOUR_NAME! Saygımı kazanma yolunda ilk adımını attın, teşekkürler.",
     ["minlevel"]="0",
@@ -39315,14 +39315,14 @@ QuestTranslator_QuestData = {
 -- Satisfaction for Shak
     -- Venture Co. = Venture Şirketi. Nickname -> Takma ad / lakap. Engineers -> mühendisler. Design -> Tasarım.
     -- Mega shredder -> mega parçalayıcı, deforest -> ormansızlaştırmak. Stonetalon = Taşpençe (Stonetalon Mountains)[cite: 2].
-    -- Fired -> Kovulmak, Foreman Klix -> Ustabaşı Klix kalmıştır[cite: 1]. Hack -> Şarlatan / Beceriksiz.
+    -- Fired -> Kovulmak, Foreman Klix -> Ustabaşı Klix kalmıştır. Hack -> Şarlatan / Beceriksiz.
     -- Windshear crag -> Rüzgarbiçen Kayalığı (Windshear + Crag)[cite: 2], old lumber mill -> eski kereste fabrikası.
     -- Old coot -> Yaşlı moruk, ring -> yüzük. Oversized studded thing -> büyük çivili şey, middle finger -> orta parmak.
-    -- Shak kalmıştır[cite: 1]. Studded Ring -> Çivili Yüzük.
+    -- Shak kalmıştır. Studded Ring -> Çivili Yüzük.
     ["55042"] = {
     ["Title"]="Shak İçin Tatmin",
-    ["Description"]="Bu yere gelmeden çok önce, Venture Şirketi'nin (Venture Co.) oldukça değerli bir üyesiydim. Bu çok uzun zaman önceydi ve farklı bir bendim, ama aklımda kalan bir şey varsa, o da aldığım aptal takma addır (nickname). Mühendislerden (engineers) biriyken, Taşpençe'yi (Stonetalon) ormansızlaştırmak (deforest) için bir mega parçalayıcı tasarımı yapmam istendi[cite: 2]. Ortaya çıktı ki başka bir tasarım benimkinden çok daha iyiydi, hem de epey bir farkla. Bununla bir derdim yok, ama derdim olan şey Ustabaşı Klix tarafından \"onu hayal kırıklığına uğrattığım\" gerekçesiyle kovulmaktır (fired)[cite: 1]. Bana \"şarlatan\" (hack) dedi ve şimdi bu lakap üzerime yapıştı. Pisliğin hak ettiği şey ayağına geliyor. Onu eskiden çalıştığım eski kereste fabrikasındaki Rüzgarbiçen Kayalığı'nda (Windshear crag) bulacaksın[cite: 2]. Yaşlı bir moruktur (old coot) ve taşındığından şüpheliyim. Bana yüzüğünü getir, orta parmağına taktığı şu aşırı büyük çivili şeydir.",
-    ["Objectives"]="Ustabaşı Klix'i (Foreman Klix) öldür ve Çivili Yüzüğü'nü (Studded Ring) Shak'a getir[cite: 1].",
+    ["Description"]="Bu yere gelmeden çok önce, Venture Şirketi'nin (Venture Co.) oldukça değerli bir üyesiydim. Bu çok uzun zaman önceydi ve farklı bir bendim, ama aklımda kalan bir şey varsa, o da aldığım aptal takma addır (nickname). Mühendislerden (engineers) biriyken, Taşpençe'yi (Stonetalon) ormansızlaştırmak (deforest) için bir mega parçalayıcı tasarımı yapmam istendi[cite: 2]. Ortaya çıktı ki başka bir tasarım benimkinden çok daha iyiydi, hem de epey bir farkla. Bununla bir derdim yok, ama derdim olan şey Ustabaşı Klix tarafından \"onu hayal kırıklığına uğrattığım\" gerekçesiyle kovulmaktır (fired). Bana \"şarlatan\" (hack) dedi ve şimdi bu lakap üzerime yapıştı. Pisliğin hak ettiği şey ayağına geliyor. Onu eskiden çalıştığım eski kereste fabrikasındaki Rüzgarbiçen Kayalığı'nda (Windshear crag) bulacaksın[cite: 2]. Yaşlı bir moruktur (old coot) ve taşındığından şüpheliyim. Bana yüzüğünü getir, orta parmağına taktığı şu aşırı büyük çivili şeydir.",
+    ["Objectives"]="Ustabaşı Klix'i (Foreman Klix) öldür ve Çivili Yüzüğü'nü (Studded Ring) Shak'a getir.",
     ["Progress"]="Onu orada dışarıda bulmada bir şans var mı?",
     ["Completion"]="<Shak yüzüğü kendi parmağına geçirir ve kıkırdar.> Sonunda, o salağın hak ettiği şey ayağına geldi. Belki artık insanlar bana o isimle seslenmeyi bırakır!",
     ["minlevel"]="0",
@@ -39347,14 +39347,14 @@ QuestTranslator_QuestData = {
     -- Demons -> İblisler. Tribe -> Kabile. Speaker -> Sözcü, dream -> rüya. Loa = Loa.
     -- Mojo of the Dreams / Mojo of Dreams -> Rüyalar Mojosu. Emerald Sanctum portal -> Zümrüt Kutsal Alanı portalı.
     -- Shadeflayers -> Gölgebaltası kastediliyor (Özel topluluk adı). Madness -> Çılgınlık / Delilik, corruption -> yozlaşma.
-    -- Expunged -> Silinmek / Yok edilmek. Warlord Hanzento -> Savaş Lordu Hanzento kalmıştır[cite: 1]. Evil -> kötülük.
-    -- Speaker Gan'hota -> Sözcü Gan'hota kalmıştır[cite: 1]. Zul'Hatha = Zul'Hatha[cite: 2]. Hyjal = Hyjal[cite: 2].
-    -- Shadowhunter Trak'nal -> Gölgeavcısı Trak'nal kalmıştır[cite: 1]. Darkwhisper Gorge -> Karanlıkfısıltı Kanyonu[cite: 2].
+    -- Expunged -> Silinmek / Yok edilmek. Warlord Hanzento -> Savaş Lordu Hanzento kalmıştır. Evil -> kötülük.
+    -- Speaker Gan'hota -> Sözcü Gan'hota kalmıştır. Zul'Hatha = Zul'Hatha[cite: 2]. Hyjal = Hyjal[cite: 2].
+    -- Shadowhunter Trak'nal -> Gölgeavcısı Trak'nal kalmıştır. Darkwhisper Gorge -> Karanlıkfısıltı Kanyonu[cite: 2].
     -- Blade -> kılıç / silah. Debt -> Borç. Friend -> dostum / arkadaşım.
     ["41095"] = {
     ["Title"]="Gölgediş'i Kurtarmak",
-    ["Description"]="Dostum (mon), iblislerle (demons) ilgisi olmayan bir sorunum var. Kabilem (tribe) hakkında... Çoğu delirdi. Bu olay, Sözcü'müzle (Speaker) rüyasında bir Loa iletişim kurup Zümrüt Kutsal Alanı (Emerald Sanctum) portalının yakınındaki suyu kullanarak bir Rüyalar Mojosu (Mojo of the Dreams) yapmasını söylediğinde gerçekleşti. O sırada iblislerle savaşıyordum ama geri döndüğümde kendi kabilem bana saldırdı ve kendilerine Gölgebaltası (Shadeflayers) dediler. Çılgınlık (madness) onları ele geçirdi ancak yozlaşmanın (corruption) kaynağı yok edilirse (expunged) halkımın kurtarılabileceğine inanıyorum. Bu kötülüğü başlatan kişi olan Savaş Lordu Hanzento'yu katlet ve Sözcü Gan'hota'yı bul, bu Rüyalar Mojosu onda bulunuyor[cite: 1]. Her ikisini de batı Hyjal'daki Zul'Hatha'da bulabilirsin[cite: 2].",
-    ["Objectives"]="Zul'Hatha'daki Savaş Lordu Hanzento'yu katlet ve Rüyalar Mojosu'nu (Mojo of Dreams) Karanlıkfısıltı Kanyonu'ndaki Gölgeavcısı Trak'nal'a getir[cite: 1, 2].",
+    ["Description"]="Dostum (mon), iblislerle (demons) ilgisi olmayan bir sorunum var. Kabilem (tribe) hakkında... Çoğu delirdi. Bu olay, Sözcü'müzle (Speaker) rüyasında bir Loa iletişim kurup Zümrüt Kutsal Alanı (Emerald Sanctum) portalının yakınındaki suyu kullanarak bir Rüyalar Mojosu (Mojo of the Dreams) yapmasını söylediğinde gerçekleşti. O sırada iblislerle savaşıyordum ama geri döndüğümde kendi kabilem bana saldırdı ve kendilerine Gölgebaltası (Shadeflayers) dediler. Çılgınlık (madness) onları ele geçirdi ancak yozlaşmanın (corruption) kaynağı yok edilirse (expunged) halkımın kurtarılabileceğine inanıyorum. Bu kötülüğü başlatan kişi olan Savaş Lordu Hanzento'yu katlet ve Sözcü Gan'hota'yı bul, bu Rüyalar Mojosu onda bulunuyor. Her ikisini de batı Hyjal'daki Zul'Hatha'da bulabilirsin[cite: 2].",
+    ["Objectives"]="Zul'Hatha'daki Savaş Lordu Hanzento'yu katlet ve Rüyalar Mojosu'nu (Mojo of Dreams) Karanlıkfısıltı Kanyonu'ndaki Gölgeavcısı Trak'nal'a getir.",
     ["Progress"]="Onu buldun mu?",
     ["Completion"]="<Trak'nal Mojoyu senden alır ve silahıyla (blade) parçalar.> Halkımdan ümidimi kesmeyeceğim. Umarım, bu şeyin yozlaştırıcı etkisi olmadan, zamanla zihinleri yeniden kendilerinin olacaktır. Sana borçluyum (debt), arkadaşım. Teşekkürler.",
     ["minlevel"]="0",
@@ -39366,12 +39366,12 @@ QuestTranslator_QuestData = {
     -- Scalebane Ridge -> Pulbelası Sırtı (Scale + Bane + Ridge). Lethlor Ravine -> Lethlor Kanyonu (Lethlor Ravine)[cite: 2].
     -- The Badlands = Çorak Topraklar[cite: 2]. Dense one -> kalın kafalı biri. Encampment -> ordugah / kamp, base of operations -> operasyon üssü.
     -- Dark Iron Dwarves -> Kara Demir Cüceleri (Dark Iron Dwarves)[cite: 2]. Whelplings -> ejderha yavruları. Hunters -> avcılar.
-    -- Shadowforge Dwarves -> Gölgedemiri Cüceleri (Shadowforge Dwarves)[cite: 2]. Senator Barin Redstone -> Senatör Barin Kızıltaş kalmıştır[cite: 1].
+    -- Shadowforge Dwarves -> Gölgedemiri Cüceleri (Shadowforge Dwarves)[cite: 2]. Senator Barin Redstone -> Senatör Barin Kızıltaş kalmıştır.
     -- Ironforge = Ironforge[cite: 2]. Conclusion -> Sonuç, task -> görev.
     ["40657"] = {
     ["Title"]="Pulbelası Sırtı",
     ["Description"]="<Yaklaşmanı engellemek için elini kaldırır.> Bu kadar yakınlık yeter. Ve kısık sesle konuş, macera lakırdılarınla (prattle of adventure) ve görev peşinde koşmanla bizi çileden çıkarma... Aslında, bir ricam var. Pulbelası Sırtı'nı (Scalebane Ridge) duydun mu? Hayır mı? Lethlor Kanyonu (Lethlor Ravine) peki?[cite: 2] Hayır mı? Çorak Topraklar (The Badlands)?[cite: 2] Sen gerçekten kalın kafalı birisin (dense one)... Senden Pulbelası Sırtı olarak bilinen ordugahı bulmanı istiyorum. O bölgedeki Kara Demir Cüceleri (Dark Iron Dwarves) için yeni bir operasyon üssüdür ve bölgedeki ejderha yavrularını (whelplings) avlamaları bana ne için kullanılabileceklerine dair çok kötü bir his veriyor[cite: 2]. Her halükarda, eşeği sağlam kazığa bağlamak (better safe than sorry) en iyisidir. Oraya yönel ve avcılarını katlet.",
-    ["Objectives"]="Ironforge'daki Senatör Barin Kızıltaş (Senator Barin Redstone) için Çorak Topraklar'da, Lethlor Kanyonu içinde gizlenmiş olan Pulbelası Sırtı'ndaki Gölgedemiri Cücelerini katlet[cite: 1, 2].",
+    ["Objectives"]="Ironforge'daki Senatör Barin Kızıltaş (Senator Barin Redstone) için Çorak Topraklar'da, Lethlor Kanyonu içinde gizlenmiş olan Pulbelası Sırtı'ndaki Gölgedemiri Cücelerini katlet.",
     ["Progress"]="Hızlıca hallet.",
     ["Completion"]="Ah, evet, gerekli bir göreve (task) uygun bir sonuç (conclusion).",
     ["minlevel"]="0",
@@ -39384,12 +39384,12 @@ QuestTranslator_QuestData = {
     -- Skinned corpses -> derisi yüzülmüş cesetler, whelplings and drakes -> ejderha yavruları ve drakeler. Sun -> güneş, rot -> çürümek.
     -- Dark Iron Dwarves -> Kara Demir Cüceleri[cite: 2]. Guarded camp -> korunan kamp, harvest -> hasat etmek / toplamak.
     -- Slay -> katlet, dwarves -> cüceler. Base of operations -> operasyon üssü.
-    -- Shadowforge Dwarves -> Gölgedemiri Cüceleri[cite: 2], Scalebane Ridge -> Pulbelası Sırtı. Lexlort kalmıştır[cite: 1].
+    -- Shadowforge Dwarves -> Gölgedemiri Cüceleri[cite: 2], Scalebane Ridge -> Pulbelası Sırtı. Lexlort kalmıştır.
     -- Kargath = Kargath[cite: 2]. Urgent -> acil.
     ["40655"] = {
     ["Title"]="Sırta Tırmanmak",
     ["Description"]="Söylemeye gerek olmadığına eminim, küçük genç yaratıklara (little young creatures) karşı büyük bir sevgim yok. Örneğin insanlara (humans) ve onların küçük evcil hayvanlarına karşı aşağılamadan başka bir şey beslemiyorum. <Maskesinin altından bıyık altından güler.> Ancak yakın zamanda Lethlor Kanyonu'ndaki (Lethlor Ravine) bir ordugahtan ve güneşte çürümeye (rot) bırakılmış sayısız ejderha yavrusunun derisi yüzülmüş cesetlerinden haberdar edildim[cite: 2]. Bir kez daha Kara Demir Cüceleri (Dark Iron Dwarves)[cite: 2]. Şimdi, birileri önemli bir şeyi toplamak (harvest) için değilse neden ejderha yavrularını ve drakeleri katletmek amacıyla korunan bir kamp kurar ki? Ne elde etmeyi umdukları özellikle umurumda değil, ancak eğer onlar daha fazla tahkim edilmeden önce şimdi vurursak, bu girişimi temelinden baltalamış oluruz. Bu operasyon üssünü bul ve içinde bulduğun cüceleri katlet.",
-    ["Objectives"]="Çorak Topraklar'da, Lethlor Kanyonu içinde gizlenmiş olan Pulbelası Sırtı'ndaki (Scalebane Ridge) Gölgedemiri Cücelerini katlet, tamamlandığında Kargath'taki Lexlort'a geri dön[cite: 1, 2].",
+    ["Objectives"]="Çorak Topraklar'da, Lethlor Kanyonu içinde gizlenmiş olan Pulbelası Sırtı'ndaki (Scalebane Ridge) Gölgedemiri Cücelerini katlet, tamamlandığında Kargath'taki Lexlort'a geri dön.",
     ["Progress"]="Kamp henüz darmadağın edilmedi mi?",
     ["Completion"]="Hmm, bu ordugah tahmin ettiğimden daha hızlı inşa ediliyor gibi görünüyor. Belki de bu durum gerçekten acildir (urgent).",
     ["minlevel"]="0",
@@ -39399,14 +39399,14 @@ QuestTranslator_QuestData = {
 -- Scarlet Aid
     -- Prisoner -> Mahkum, Stormwind = Fırtınayeli. Jurisdiction -> Yargı alanı / Yetki alanı.
     -- Lead -> İpucu. Cathedral District's Chapel -> Katedral Bölgesi Şapeli (Cathedral + District). Priest -> rahip, red robes -> kırmızı cübbeler.
-    -- Shaw's men -> Shaw'ın adamları (Mathias Shaw). Brother Crowley -> Crowley Kardeş kalmıştır[cite: 1].
+    -- Shaw's men -> Shaw'ın adamları (Mathias Shaw). Brother Crowley -> Crowley Kardeş kalmıştır.
     -- Scarlet Crusade -> Kızıl Haçlı Seferi (Scarlet Crusade)[cite: 2]. City -> Şehir, ambassador -> elçi / büyükelçi.
     -- Light -> Işık, stupid lie -> aptalca yalan. Blokes -> Adamlar.
     -- Cathedral's District -> Katedral Bölgesi. Bold accusation -> Küstahça suçlama / Cesurca suçlama.
     ["80708"] = {
     ["Title"]="Kızıl Yardım",
-    ["Description"]="Çocuklarım mahkumun (prisoner) Fırtınayeli'ne (Stormwind) ulaşması için hazırlık yaptı. Onların yetki alanının (jurisdiction) bir parçası olduğu için kaderine orada karar verilecek. Büyük yardımın dokundu ve eminim bu meseleyi daha da fazla kurcalamak istersin. Senin için bir ipucum (lead) olabilir, gerçi ne kadar yardımcı olacağından emin değilim. Katedral Bölgesi'nin (Cathedral District) Şapeli'nin altında kırmızı cübbeli (red robes) bir rahip var. Shaw'ın adamlarından aldığım istihbarat onun adının Crowley Kardeş (Brother Crowley) olduğunu ve Kızıl Haçlı Seferi (the Scarlet Crusade) tarafından şehir içine bir nevi elçi (ambassador) olarak gönderildiğini söylüyor[cite: 1, 2]. Görevi, Işık (the Light) adına savaşmaya istekli olanları toplamak ya da bu Kızıl'ların kendi kendilerine söylediği her neyse o aptalca yalandı. Her halükarda, Crowley o kadar aktif değildi. Bu adamları toplayan kişinin o olup olmadığından emin değiliz ama denemeye değer.",
-    ["Objectives"]="Fırtınayeli Katedral Bölgesi'ne (Cathedral's District of Stormwind) seyahat et ve Crowley Kardeş (Brother Crowley) ile konuş[cite: 1].",
+    ["Description"]="Çocuklarım mahkumun (prisoner) Fırtınayeli'ne (Stormwind) ulaşması için hazırlık yaptı. Onların yetki alanının (jurisdiction) bir parçası olduğu için kaderine orada karar verilecek. Büyük yardımın dokundu ve eminim bu meseleyi daha da fazla kurcalamak istersin. Senin için bir ipucum (lead) olabilir, gerçi ne kadar yardımcı olacağından emin değilim. Katedral Bölgesi'nin (Cathedral District) Şapeli'nin altında kırmızı cübbeli (red robes) bir rahip var. Shaw'ın adamlarından aldığım istihbarat onun adının Crowley Kardeş (Brother Crowley) olduğunu ve Kızıl Haçlı Seferi (the Scarlet Crusade) tarafından şehir içine bir nevi elçi (ambassador) olarak gönderildiğini söylüyor. Görevi, Işık (the Light) adına savaşmaya istekli olanları toplamak ya da bu Kızıl'ların kendi kendilerine söylediği her neyse o aptalca yalandı. Her halükarda, Crowley o kadar aktif değildi. Bu adamları toplayan kişinin o olup olmadığından emin değiliz ama denemeye değer.",
+    ["Objectives"]="Fırtınayeli Katedral Bölgesi'ne (Cathedral's District of Stormwind) seyahat et ve Crowley Kardeş (Brother Crowley) ile konuş.",
     ["Progress"]="Nasıl yardımcı olabilirim?",
     ["Completion"]="Küstahça bir suçlama (bold accusation), YOUR_RACE, neredeyse alınmış hissediyorum. Korkarım o ben değildim, işler daha basit olurdu. Mahkumundan bir isim aldığını varsayıyorum. Bana ne olduğunu anlat.",
     ["minlevel"]="0",
@@ -39416,13 +39416,13 @@ QuestTranslator_QuestData = {
 -- Scarlet Corruption
     -- Agent of undeath -> ölümden sonralık ajanı / hortlak ajanı. Neutral lands -> tarafsız topraklar.
     -- Crusade -> Haçlı Seferi (Scarlet Crusade). Integrity -> Dürüstlük / Doğruluk, pillars -> sütunlar, leaders -> liderler.
-    -- Cathedral -> Katedral. High Inquisitor Fairbanks -> Baş Engizisyoncu Fairbanks kalmıştır[cite: 1]. Death -> ölüm, unnatural means -> doğal olmayan yollar.
+    -- Cathedral -> Katedral. High Inquisitor Fairbanks -> Baş Engizisyoncu Fairbanks kalmıştır. Death -> ölüm, unnatural means -> doğal olmayan yollar.
     -- Necromancy -> nekromansi, elite -> elit tabaka / seçkinler. Proof -> Kanıt. Scarlet Cathedral -> Kızıl Katedral.
-    -- Brother Elias -> Elias Kardeş kalmıştır[cite: 1]. Shademore Tavern -> Gölgelidiyar Meyhanesi. Allegations -> iddialar. Future -> gelecek.
+    -- Brother Elias -> Elias Kardeş kalmıştır. Shademore Tavern -> Gölgelidiyar Meyhanesi. Allegations -> iddialar. Future -> gelecek.
     ["40935"] = {
     ["Title"]="Kızıl Yozlaşma",
-    ["Description"]="Artık bir hortlak ajanı (agent of undeath) olmadığına güvenebileceğime göre, tarafsız toprakları (neutral lands) aramamın gerçek sebebini açıklayabiliriz. Haçlı Seferi (The Crusade) bir zamanlar yüksek doğruluğa sahip soylu bir organizasyondu ancak en güvenilir liderlerimizin (leaders) sütunlarında çatlaklar belirmeye başladı. Katedral'in (the Cathedral) derinliklerinde, Baş Engizisyoncu Fairbanks'in (High Inquisitor Fairbanks) gerçek kaderine dair söylentiler yayılıyor[cite: 1]. Ölümünün... Doğal olmayan yollarla (unnatural means) durdurulduğuna inanmak için iyi kaynaklarım var. Eğer nekromansinin (necromancy) Haçlı Seferi'nin elitleri arasında yaygınlaştığı doğruysa, kanıta (proof) ihtiyacım var. Kızıl Katedral (Scarlet Cathedral) içindeki Engizisyoncu Fairbanks'i bul ve gerçeği açığa çıkar.",
-    ["Objectives"]="Gilneas'taki Gölgelidiyar Meyhanesi'nde (Shademore Tavern) bulunan Elias Kardeş (Brother Executive) için Baş Engizisyoncu Fairbanks'in kaderi hakkındaki gerçeği açığa çıkar[cite: 1].",
+    ["Description"]="Artık bir hortlak ajanı (agent of undeath) olmadığına güvenebileceğime göre, tarafsız toprakları (neutral lands) aramamın gerçek sebebini açıklayabiliriz. Haçlı Seferi (The Crusade) bir zamanlar yüksek doğruluğa sahip soylu bir organizasyondu ancak en güvenilir liderlerimizin (leaders) sütunlarında çatlaklar belirmeye başladı. Katedral'in (the Cathedral) derinliklerinde, Baş Engizisyoncu Fairbanks'in (High Inquisitor Fairbanks) gerçek kaderine dair söylentiler yayılıyor. Ölümünün... Doğal olmayan yollarla (unnatural means) durdurulduğuna inanmak için iyi kaynaklarım var. Eğer nekromansinin (necromancy) Haçlı Seferi'nin elitleri arasında yaygınlaştığı doğruysa, kanıta (proof) ihtiyacım var. Kızıl Katedral (Scarlet Cathedral) içindeki Engizisyoncu Fairbanks'i bul ve gerçeği açığa çıkar.",
+    ["Objectives"]="Gilneas'taki Gölgelidiyar Meyhanesi'nde (Shademore Tavern) bulunan Elias Kardeş (Brother Executive) için Baş Engizisyoncu Fairbanks'in kaderi hakkındaki gerçeği açığa çıkar.",
     ["Progress"]="Ee, vatanımın (homeland) içinde neyi açığa çıkardın?",
     ["Completion"]="Duyduğum sözlere inanamıyorum, halkımın liderleri arasında bu tür uygulamalar ha? Ben ve diğerleri uzun süredir bu tür iddialara (allegations) karşı temkinliydik ancak bunun doğru olduğunu bilmek... Geleceğimize (future) karar vermek için diğerleriyle toplanmam gerekecek. Sana çok teşekkür ederim. Lütfen bunu, şahsım ve temsil ettiğim kişiler adına bir teşekkür olarak al.",
     ["minlevel"]="0",
@@ -39430,13 +39430,13 @@ QuestTranslator_QuestData = {
     }, -- end Scarlet Corruption
 
 -- Scarlet with Rage
-    -- Deathguard Burgess -> Ölümmuhafızı Burgess kalmıştır[cite: 1]. Brill = Brill[cite: 2].
+    -- Deathguard Burgess -> Ölümmuhafızı Burgess kalmıştır. Brill = Brill[cite: 2].
     -- Station -> Görev yeri. Inexperienced members -> deneyimsiz üyeler, horde -> horde. Learned hand -> eğitimli bir el / deneyimli biri. Pay -> ödeme.
     -- Deathguard -> Ölümmuhafızı. Approvingly -> onaylayarak.
     ["60117"] = {
     ["Title"]="Öfkeden Kızarmış",
-    ["Description"]="Sen! YOUR_RACE! Bana bir iyilik yapabilir misin merak ediyorum. Brill'deki Ölümmuhafızı Burgess (Deathguard Burgess) görev yeri hakkında ve sadece horde'un deneyimsiz üyelerine erişimi olması yüzünden söylenip duruyordu[cite: 1, 2]. Daha deneyimli bir el (learned hand) gerektiren bir şeye sahip ve ödeme yapmaya hazır.",
-    ["Objectives"]="Brill'deki Ölümmuhafızı Burgess (Deathguard Burgess) ile konuş[cite: 1, 2].",
+    ["Description"]="Sen! YOUR_RACE! Bana bir iyilik yapabilir misin merak ediyorum. Brill'deki Ölümmuhafızı Burgess (Deathguard Burgess) görev yeri hakkında ve sadece horde'un deneyimsiz üyelerine erişimi olması yüzünden söylenip duruyordu. Daha deneyimli bir el (learned hand) gerektiren bir şeye sahip ve ödeme yapmaya hazır.",
+    ["Objectives"]="Brill'deki Ölümmuhafızı Burgess (Deathguard Burgess) ile konuş.",
     ["Progress"]="",
     ["Completion"]="<Ölümmuhafızı (The Deathguard) seni onaylayarak süzüyor.> Evet, evet sen iş görürsün. Buraya gel, YOUR_CLASS.",
     ["minlevel"]="0",
@@ -39445,15 +39445,15 @@ QuestTranslator_QuestData = {
 
 -- Scars of the Past
     -- Betrayed -> İhanet edilmek, dooming -> felakete sürüklemek. Blood of the demon Mannoroth -> İblis Mannoroth'un kanı.
-    -- Companion Korvir -> Yoldaş Korvir kalmıştır[cite: 1], Truthseeker -> Doğruarayan kalmıştır (Özel kılıç veya NPC adı). Forests -> ormanlar, Ashenvale = Ashenvale[cite: 2].
-    -- Logrash kalmıştır[cite: 1], scars -> yaralar, chest -> göğüs, painful expression -> acılı ifade.
-    -- Spirits -> Ruhlar, demon scum -> iblis pisliği. Naxiar kalmıştır[cite: 1], eastern lakes -> doğu gölleri.
+    -- Companion Korvir -> Yoldaş Korvir kalmıştır, Truthseeker -> Doğruarayan kalmıştır (Özel kılıç veya NPC adı). Forests -> ormanlar, Ashenvale = Ashenvale[cite: 2].
+    -- Logrash kalmıştır, scars -> yaralar, chest -> göğüs, painful expression -> acılı ifade.
+    -- Spirits -> Ruhlar, demon scum -> iblis pisliği. Naxiar kalmıştır, eastern lakes -> doğu gölleri.
     -- Wolf totem -> kurt totemi. Hunt -> av, Barrens -> Çorak Topraklar[cite: 2].
     -- Mok'ra -> Mok'ra (Ork selamlaması), accursed demon -> lanetli iblis, rage -> öfke, revenge -> intikam, motive -> dürtü / sebep.
     ["40109"] = {
     ["Title"]="Geçmişin Yaraları",
-    ["Description"]="Dört yıl önce, kendi halkım, bizi ilk başta felakete sürükleyen (dooming) şeyin aynısını —iblis Mannoroth'un kanını (blood of the demon Mannoroth) içmeyi— reddettiğim için bana ihanet etti. Yoldaşım Korvir (Korvir) ve Doğruarayan (Truthseeker) olmasaydı, bedenim Ashenvale ormanlarında çoktan çürüyüp gitmişti[cite: 1, 2]. <Logrash göğsündeki (chest) yaraları acılı bir ifadeyle okşar.>[cite: 1] Ruhlar (the spirits), Ashenvale'in doğu göllerinin etrafında saklanan Naxiar adlı bir iblis pisliğinden fısıldıyor[cite: 1, 2]. Eğer yardımıma sahip olmak istiyorsan, onu öldürmene ve kurt totemimi (wolf totem) geri almana ihtiyacım var.",
-    ["Objectives"]="Doğu Ashenvale'deki Naxiar'ı öldür ve kurt totemini Çorak Topraklar'daki Logrash'a geri getir[cite: 1, 2].",
+    ["Description"]="Dört yıl önce, kendi halkım, bizi ilk başta felakete sürükleyen (dooming) şeyin aynısını —iblis Mannoroth'un kanını (blood of the demon Mannoroth) içmeyi— reddettiğim için bana ihanet etti. Yoldaşım Korvir (Korvir) ve Doğruarayan (Truthseeker) olmasaydı, bedenim Ashenvale ormanlarında çoktan çürüyüp gitmişti. <Logrash göğsündeki (chest) yaraları acılı bir ifadeyle okşar.> Ruhlar (the spirits), Ashenvale'in doğu göllerinin etrafında saklanan Naxiar adlı bir iblis pisliğinden fısıldıyor. Eğer yardımıma sahip olmak istiyorsan, onu öldürmene ve kurt totemimi (wolf totem) geri almana ihtiyacım var.",
+    ["Objectives"]="Doğu Ashenvale'deki Naxiar'ı öldür ve kurt totemini Çorak Topraklar'daki Logrash'a geri getir.",
     ["Progress"]="Av (hunt) nasıl gidiyor?",
     ["Completion"]="Mok'ra, YOUR_NAME. Lanetli iblisin (accursed demon) öldüğünü varsayıyorum. Güzel, onun gibiler ölümden fazlasını hak etmiyor. Onlara karşı öfkem (rage) derinden gelse de, intikam (revenge) tek sebebim (motive) değildi.",
     ["minlevel"]="0",
@@ -39482,12 +39482,12 @@ QuestTranslator_QuestData = {
     -- Components -> bileşenler, complicated parts -> karmaşık parçalar. Steam tanks -> buharlı tanklar, war -> savaş.
     -- Dwarves of Dun Kithas -> Dun Kithas cüceleri. Dragonmaw -> Ejderhaağzı. Idle -> atıl / boşta, rotting away -> çürüyüp gitmek.
     -- Countryside -> kırsal alan, engineering -> mühendislik. Intricate parts -> girift parçalar / karmaşık parçalar, wrecks -> enkazlar.
-    -- Harlekk kalmıştır[cite: 1], Shatterblade Post -> Parçalanmışbıçak Karargahı[cite: 2], Grim Reaches = Amansız Menziller[cite: 2].
+    -- Harlekk kalmıştır, Shatterblade Post -> Parçalanmışbıçak Karargahı[cite: 2], Grim Reaches = Amansız Menziller[cite: 2].
     -- Craftsmanship -> işçilik, goblin or gnomish hands -> goblin ya da gnom elleri. Basecamp -> ana kamp, stone age -> taş devri. Items -> eşyalar.
     ["41726"] = {
     ["Title"]="Enkazlardan Parça Toplamak",
     ["Description"]="Artık bazı bileşenleri kurtardığıma göre, gözümü daha karmaşık parçalara (complicated parts) dikmek istiyorum. Bir süre önce Dun Kithas cüceleri (dwarves of Dun Kithas) ile Ejderhaağzı (Dragonmaw) arasındaki savaş sırasında birçok buharlı tank (steam tanks) imha edilmişti. Bu bir zamanların muazzam makineleri, batı ve güneybatıdaki kırsal alanda (countryside) çürüyüp giderek atıl vaziyette duruyor. Bu kadar karmaşık bir mühendisliği (engineering) burada arazide kopyalamam mümkün değil. Bölgedeki enkazların (wrecks) etrafından bana bu karmaşık parçalardan altı tane bul, karşılığında cömertçe ödüllendirileceğinden emin olacağım.",
-    ["Objectives"]="Amansız Menziller'deki Parçalanmışbıçak Karargahı'nda bulunan Harlekk için bölgedeki buharlı tankların enkazlarından 6 Karmaşık Parça (Intricate Parts) topla[cite: 1, 2].",
+    ["Objectives"]="Amansız Menziller'deki Parçalanmışbıçak Karargahı'nda bulunan Harlekk için bölgedeki buharlı tankların enkazlarından 6 Karmaşık Parça (Intricate Parts) topla.",
     ["Progress"]="Enkazları bulabildin mi?",
     ["Completion"]="Ne kadar güzel bir işçilik (craftsmanship); bu mühendisliğe goblin ya da gnom ellerinin (goblin or gnomish hands) değdiğini anlayabilirsin. Bu parçalarla Parçalanmışbıçak Karargahı'ndaki çalışmalarımızı daha da ileriye taşıyabileceğim[cite: 2]. Çalışman için seni takdir etmeliyim. Kurtardığın bileşenler ve parçalar olmasaydı bu ana kamp (basecamp) taş devrinde (stone age) kalırdı. Bu eşyalardan (items) birini al, umarım işine yaradığını görürsün.",
     ["minlevel"]="0",
@@ -39495,17 +39495,17 @@ QuestTranslator_QuestData = {
     }, -- end Scavenging the Wrecks
 
 -- Scourge of Darrowshire
-    -- Master Mathias -> Üstad Mathias kalmıştır[cite: 1]. Devotion -> adanmışlık, art of war -> savaş sanatı. Pages -> sayfalar.
+    -- Master Mathias -> Üstad Mathias kalmıştır. Devotion -> adanmışlık, art of war -> savaş sanatı. Pages -> sayfalar.
     -- Battle of Darrowshire -> Darrowshire Savaşı. Scourge Warlord -> Scourge Savaş Lordu. Swords -> kılıçlar.
-    -- Marduk the Black -> Kara Marduk kalmıştır[cite: 1]. Monster -> canavar, blood -> kan, veins -> damarlar, Nora -> Nora kalmıştır[cite: 1].
-    -- Mastery of Swords -> Kılıçlarda Ustalaşma (Kitap adı). Fray Island -> Kavga Adası[cite: 2]. Sakgoth -> Sakgoth kalmıştır[cite: 1]. Texts -> metinler.
+    -- Marduk the Black -> Kara Marduk kalmıştır. Monster -> canavar, blood -> kan, veins -> damarlar, Nora -> Nora kalmıştır.
+    -- Mastery of Swords -> Kılıçlarda Ustalaşma (Kitap adı). Fray Island -> Kavga Adası[cite: 2]. Sakgoth -> Sakgoth kalmıştır. Texts -> metinler.
     -- Potion -> iksir, condemn and praise -> kınamak ve övmek. Concept of right and wrong -> doğru ve yanlış kavramı. Skills of war -> savaş becerileri.
     -- Vilifies -> kötülemek / aşağılamak, out of place -> yersiz. Heart -> kalp, mind -> zihin, task -> görev.
     ["41537"] = {
     ["Title"]="Darrowshire'ın Belası",
-    ["Description"]="<Ağır kitap, Üstad Mathias'ın savaş sanatına (art of war) olan titiz bağlılığının bir kanıtıdır[cite: 1]. Sadece sayfalara göz atarak genel bir bakış elde etmeye çalışmak bile üzerinde ürkütücü bir ifade bırakıyor. Darrowshire Savaşı'nı (Battle of Darrowshire) ve onun kaderini mühürleyen belirli bir Scourge Savaş Lordu'nu (Scourge Warlord) tanımlıyor. Kitap onun eylemlerini aşağılık ve zalimce olarak tanımlıyor, ancak Kara Marduk'un (Marduk the Black) kullandığı kılıçları tanımlamak için hiçbir fırsatı kaçırmıyor[cite: 1]. Böyle bir canavara sunulan hayranlık yüzünden kafan karışmış bir halde, damarlarındaki (veins) kan kaynamaya başlarken Nora'ya doğru yol alıyorsun.>",
+    ["Description"]="<Ağır kitap, Üstad Mathias'ın savaş sanatına (art of war) olan titiz bağlılığının bir kanıtıdır. Sadece sayfalara göz atarak genel bir bakış elde etmeye çalışmak bile üzerinde ürkütücü bir ifade bırakıyor. Darrowshire Savaşı'nı (Battle of Darrowshire) ve onun kaderini mühürleyen belirli bir Scourge Savaş Lordu'nu (Scourge Warlord) tanımlıyor. Kitap onun eylemlerini aşağılık ve zalimce olarak tanımlıyor, ancak Kara Marduk'un (Marduk the Black) kullandığı kılıçları tanımlamak için hiçbir fırsatı kaçırmıyor. Böyle bir canavara sunulan hayranlık yüzünden kafan karışmış bir halde, damarlarındaki (veins) kan kaynamaya başlarken Nora'ya doğru yol alıyorsun.>",
     ["Objectives"]="Kılıçlarda Ustalaşma (Mastery of Swords) kitabını Kavga Adası'ndaki (Fray Island) Nora Buhargörüş'e (Nora Steamsight) ulaştır[cite: 2].",
-    ["Progress"]="Selamlar! Genellikle Sakgoth'un bana getirdiği bu eski metinleri deşifre etmekle meşgulüm ama ayıracak bir dakikam var[cite: 1].",
+    ["Progress"]="Selamlar! Genellikle Sakgoth'un bana getirdiği bu eski metinleri deşifre etmekle meşgulüm ama ayıracak bir dakikam var.",
     ["Completion"]="Yutulması zor bir iksir (potion), değil mi? Neredeyse mükemmel bir denge içinde bir varlığı hem kınamak hem de övmek. Doğru ve yanlış kavramını (concept of right and wrong) sorgulamana neden olabilir, değil mi? Şey, olmamalı. Unutma ki kitabın amacı savaş becerileriyle (skills of war) bağlantılıdır — Marduk'u o noktaya kadar kötülemesi zaten dikkat çekici ve yersiz bir şeydir. Kalbini (heart) buna kapat ve zihnini (mind) bir sonraki görevine aç.",
     ["minlevel"]="0",
     ["questlevel"]="0",
@@ -39515,18 +39515,18 @@ QuestTranslator_QuestData = {
     -- Dreary -> kasvetli, Gilneas = Gilneas[cite: 2]. Reality -> gerçeklik. Tutelage -> gözetim / himaye, masters -> üstadlar.
     -- Great manuscripts -> harika el yazmaları, Light -> Işık. Spread the faith -> inancı yaymak, broke bread -> ekmeği bölüşmek.
     -- Unscathed -> yara almadan kurtulmak, perilous times -> tehlikeli zamanlar, Third War -> Üçüncü Savaş. Plague -> veba. Northern cousins -> kuzeyli kuzenler, conflict -> çatışma, Scourge = Scourge.
-    -- Lich -> lich, Naze the Eternal -> Ölümsüz Naze kalmıştır[cite: 1]. Wall -> sur / duvar, Oldrock Pass -> Eskitaş Geçidi (Old + Rock + Pass)[cite: 2].
+    -- Lich -> lich, Naze the Eternal -> Ölümsüz Naze kalmıştır. Wall -> sur / duvar, Oldrock Pass -> Eskitaş Geçidi (Old + Rock + Pass)[cite: 2].
     -- Undead -> hortlaklar / ölüler, victory -> zafer, terrible toll -> korkunç bir bedel. Scour -> didik didik aramak / taramak.
     -- Greyshire -> Bozköy (Grey + Shire)[cite: 2]. Forlorn souls -> kederli ruhlar. Manuscripts -> el yazmaları.
-    -- Ruins of Greyshire -> Bozköy Harabeleri[cite: 2]. Father Oblen -> Peder Oblen kalmıştır[cite: 1]. Shademore Tavern -> Gölgelidiyar Meyhanesi.
+    -- Ruins of Greyshire -> Bozköy Harabeleri[cite: 2]. Father Oblen -> Peder Oblen kalmıştır. Shademore Tavern -> Gölgelidiyar Meyhanesi.
     -- Faith -> inanç, scripts -> yazılar, misery -> sefalet / acı, gratitude -> şükran.
     ["40830"] = {
     -- "Scouring Greyshire" -> Bozköy'ü Didik Didik Aramak
     ["Title"]="Bozköy'ü Didik Didik Aramak",
-    ["Description"]="Gilneas'ta (Gilneas) hava kasvetli görünebilir ancak seni temin etmeliyim ki bu her zaman bizim gerçekliğimiz değildi[cite: 2]. Geçmiş zamanlarda, üstadlarımın (masters) gözetimi altında eğitim alarak ve Işık (the Light) için harika el yazmaları (great manuscripts) boyayarak uzun yıllar geçirdim. İnancı yaydım (spread the faith) ve birçok iyi insanla ekmeğimi bölüştüm. Üçüncü Savaş'ın (Third War) o tehlikeli zamanlarında yara almadan kurtulduğumuzu (unscathed) varsayacak birkaç gafil var. Kuzeyli kuzenlerimiz gibi doğrudan vebadan (the plague) zarar görmemiş olsak da, Scourge ile bir çatışmamız (conflict) oldu. Görüyorsun ya, iki yıl önce, Ölümsüz Naze (Naze the Eternal) adında güçlü bir lich, Eskitaş Geçidi (Oldrock Pass) yakınlarındaki surları yardı[cite: 1, 2]. Nihayetinde, hortlaklar (undead) Gilneas'ın iyi askerleri tarafından mağlup edildi ancak zaferimizin (victory) bedeli korkunç oldu. Bozköy'den (Greyshire) canımı zor kurtardım, diğerleri o kadar şanslı değildi[cite: 2]. Senden o terk edilmiş yeri didik didik aramanı (scour) ve gençlik yıllarımda boyayarak geçirdiğim el yazmalarını kurtarmanı rica ediyorum. Oradayken, hala orada kalan bazı kederli ruhlara (forlorn souls) huzur getir.",
-    ["Objectives"]="Gilneas'taki Gölgelidiyar Meyhanesi'nde bulunan Peder Oblen (Father Oblen) için Bozköy Harabeleri'nden (Ruins of Greyshire) Bozköy El Yazmalarını kurtar[cite: 1, 2].",
+    ["Description"]="Gilneas'ta (Gilneas) hava kasvetli görünebilir ancak seni temin etmeliyim ki bu her zaman bizim gerçekliğimiz değildi[cite: 2]. Geçmiş zamanlarda, üstadlarımın (masters) gözetimi altında eğitim alarak ve Işık (the Light) için harika el yazmaları (great manuscripts) boyayarak uzun yıllar geçirdim. İnancı yaydım (spread the faith) ve birçok iyi insanla ekmeğimi bölüştüm. Üçüncü Savaş'ın (Third War) o tehlikeli zamanlarında yara almadan kurtulduğumuzu (unscathed) varsayacak birkaç gafil var. Kuzeyli kuzenlerimiz gibi doğrudan vebadan (the plague) zarar görmemiş olsak da, Scourge ile bir çatışmamız (conflict) oldu. Görüyorsun ya, iki yıl önce, Ölümsüz Naze (Naze the Eternal) adında güçlü bir lich, Eskitaş Geçidi (Oldrock Pass) yakınlarındaki surları yardı. Nihayetinde, hortlaklar (undead) Gilneas'ın iyi askerleri tarafından mağlup edildi ancak zaferimizin (victory) bedeli korkunç oldu. Bozköy'den (Greyshire) canımı zor kurtardım, diğerleri o kadar şanslı değildi[cite: 2]. Senden o terk edilmiş yeri didik didik aramanı (scour) ve gençlik yıllarımda boyayarak geçirdiğim el yazmalarını kurtarmanı rica ediyorum. Oradayken, hala orada kalan bazı kederli ruhlara (forlorn souls) huzur getir.",
+    ["Objectives"]="Gilneas'taki Gölgelidiyar Meyhanesi'nde bulunan Peder Oblen (Father Oblen) için Bozköy Harabeleri'nden (Ruins of Greyshire) Bozköy El Yazmalarını kurtar.",
     ["Progress"]="Tehlikeli bir görev gibi görünebilir ama unutma: Işık'a olan inancını (faith) koru; kendini doğru yolda bulacağın kesindir.",
-    ["Completion"]="<Peder Oblen eski çalışmasına bakarken memnun görünüyor.>[cite: 1] Ahh, bu yazılara (scripts) bir daha bakacağımı hiç düşünmemiştim; o yerin başına gelen tüm acılardan (misery) sağ çıkabilmiş olmaları büyük bir şans. Çabaların için sana çok teşekkür ederim, YOUR_CLASS. Lütfen bunu şükranımın (gratitude) bir göstergesi olarak kabul et.",
+    ["Completion"]="<Peder Oblen eski çalışmasına bakarken memnun görünüyor.> Ahh, bu yazılara (scripts) bir daha bakacağımı hiç düşünmemiştim; o yerin başına gelen tüm acılardan (misery) sağ çıkabilmiş olmaları büyük bir şans. Çabaların için sana çok teşekkür ederim, YOUR_CLASS. Lütfen bunu şükranımın (gratitude) bir göstergesi olarak kabul et.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Scouring Greyshire
@@ -39536,13 +39536,13 @@ QuestTranslator_QuestData = {
     -- Worg spit -> worg tükürüğü, resources -> kaynaklar. Dark Iron -> Kara Demir. Surface -> yüzey, steppes -> bozkırlar.
     -- Baubles -> ıvır zıvırlar, equipment -> teçhizat / ekipman, creature stomach -> yaratık midesi. Sizeable amount -> önemli miktarda.
     -- Scraps -> hurdalar / parçalar. Grunts -> neferler, Karfang Hold -> Karfang Hisarı[cite: 2].
-    -- Dark Iron Scraps -> Kara Demir Hurdaları. Burning Steppes = Yanık Bozkırlar[cite: 2]. Blacksmith Torren -> Demirci Torren kalmıştır[cite: 1].
+    -- Dark Iron Scraps -> Kara Demir Hurdaları. Burning Steppes = Yanık Bozkırlar[cite: 2]. Blacksmith Torren -> Demirci Torren kalmıştır.
     -- Hard times -> Zor zamanlar, desperate measures -> çaresiz önlemler, life and death -> yaşam ve ölüm. Haul -> ganimet / yük.
     -- Surplus -> fazlalık / stok fazlası. Choice -> seçim.
     ["40491"] = {
     ["Title"]="Hurda Toplayıcısı",
     ["Description"]="Selamlar yabancı, görünüşe göre bu yeni Horde'dan bazı yeni acemiler (recruits) sonunda varıyor. Bunu kısa tutacağım, burada işlerimiz o kadar iyi gitmiyor. Sanki her şey bir worg tükürüğüyle (worg spit) bir arada tutuluyor ve kaynakların (resources) eksikliği kesinlikle yardımcı olmuyor. Bunu düzeltmemizin zamanının geldiğini söyleyeceğim. Kara Demir (Dark Iron), bozkırların (steppes) yüzeyinde oldukça kıt olma eğilimindedir, ancak birçoğu tarafından taşınır. İster ıvır zıvır (baubles), ister teçhizat olsun, ister bir yaratığın midesinde (creature stomach) duruyor olsun. Karfang Hisarı'nı (Karfang Hold) güvende tutmak amacıyla neferlerimiz (grunts) için teçhizat dövmeye devam edebilmem adına dışarı atıl ve bana önemli miktarda hurda topla[cite: 2].",
-    ["Objectives"]="Yanık Bozkırlar'daki (Burning Steppes) çeşitli yaratıklardan 50 Kara Demir Hurdası (Dark Iron Scraps) topla ve Karfang Hisarı'ndaki Demirci Torren'e (Blacksmith Torren) geri dön[cite: 1, 2].",
+    ["Objectives"]="Yanık Bozkırlar'daki (Burning Steppes) çeşitli yaratıklardan 50 Kara Demir Hurdası (Dark Iron Scraps) topla ve Karfang Hisarı'ndaki Demirci Torren'e (Blacksmith Torren) geri dön.",
     ["Progress"]="Zor zamanlar (hard times) çaresiz önlemler gerektirir; elindekilerle nasıl yetineceğini bilmek, yaşam ve ölüm (life and death) arasındaki çizgiyi çizer.",
     ["Completion"]="Bu oldukça büyük bir yük (haul), etkilendim. Bu yeni Horde'a katılmak sonuçta o kadar da kötü olmayabilir. O kadar çok hurda topladın ki, sana seçtiğin bir teçhizatı dövmek için fazlalık (surplus) stoğum bile var. Onu iyi taşıyacağına inanıyorum.",
     ["minlevel"]="0",
@@ -39551,16 +39551,16 @@ QuestTranslator_QuestData = {
 
 -- Scratching Each Other's Back
     -- Aid -> yardım, Darkspear -> Karamızrak (Darkspear trolls). Tribe -> kabile, unity -> birlik, miracle -> mucize.
-    -- Good will -> iyi niyet. Zol'majin kalmıştır[cite: 1], Master Gadrin -> Üstad Gadrin kalmıştır[cite: 1], Sen'jin Village -> Sen'jin Köyü[cite: 2].
+    -- Good will -> iyi niyet. Zol'majin kalmıştır, Master Gadrin -> Üstad Gadrin kalmıştır, Sen'jin Village -> Sen'jin Köyü[cite: 2].
     -- Doll -> oyuncak bebek / bebek, troll custom -> trol adeti. Voodoo Doll -> Voodoo Bebek.
-    -- Warleader Zol'majin -> Savaş Lideri Zol'majin kalmıştır[cite: 1]. Confidence -> güven içinde / gizlilikle.
+    -- Warleader Zol'majin -> Savaş Lideri Zol'majin kalmıştır. Confidence -> güven içinde / gizlilikle.
     -- Vol'jin = Vol'jin. Tribes -> kabileler, trust -> güven. Symbol -> sembol, gesture -> jest / hareket, kind -> aynı şekilde.
     ["80314"] = {
     ["Title"]="Karşılıklı Yardımlaşma",
-    ["Description"]="Karamızrak'ın (the Darkspear) yardımı hoş bir sürpriz oldu. Bir trolün başka bir kabileyle (tribe) göz göze gelmektense gözlerini oymayı tercih edeceği bir zamanda, bu birlik (unity) gerçek bir mucize. Bir iyi niyet (good will) göstergesi olarak, Zol'majin seni Sen'jin Köyü'ndeki Üstad Gadrin'e (Master Gadrin) gönderecek[cite: 1, 2]. Bu bebeği ona sun. Bu, onun anlayacağı eski bir trol adetidir.",
-    ["Objectives"]="Zol'majin'in Voodoo Bebeği'ni (Zol'majin's Voodoo Doll) Sen'jin Köyü'ndeki Üstad Gadrin'e götür[cite: 1, 2].",
+    ["Description"]="Karamızrak'ın (the Darkspear) yardımı hoş bir sürpriz oldu. Bir trolün başka bir kabileyle (tribe) göz göze gelmektense gözlerini oymayı tercih edeceği bir zamanda, bu birlik (unity) gerçek bir mucize. Bir iyi niyet (good will) göstergesi olarak, Zol'majin seni Sen'jin Köyü'ndeki Üstad Gadrin'e (Master Gadrin) gönderecek. Bu bebeği ona sun. Bu, onun anlayacağı eski bir trol adetidir.",
+    ["Objectives"]="Zol'majin'in Voodoo Bebeği'ni (Zol'majin's Voodoo Doll) Sen'jin Köyü'ndeki Üstad Gadrin'e götür.",
     ["Progress"]="Ne haber dostum (ya mon)? Benim için bir şeyin olduğunu mu söylüyorsun?",
-    ["Completion"]="Yıllardır bunlardan almamıştım, dostum (mon). Bu hareketin (gesture) anlamını anlıyor musun? Bu, Savaş Lideri Zol'majin'in (Warleader Zol'majin) bizzat kendisine ait bir voodoo bebeğidir, başka bir trole güven içinde (in confidence) verilmiştir[cite: 1]. Bu bebek sonunda Vol'jin'e ulaşacak, yani Zol'majin hayatını Karamızrak'ın ellerine bırakıyor. Bu, kabileler (tribes) arasındaki büyük güvenin bir sembolüdür. Bu jest zamanla aynı şekilde (in kind) karşılık bulabilir.",
+    ["Completion"]="Yıllardır bunlardan almamıştım, dostum (mon). Bu hareketin (gesture) anlamını anlıyor musun? Bu, Savaş Lideri Zol'majin'in (Warleader Zol'majin) bizzat kendisine ait bir voodoo bebeğidir, başka bir trole güven içinde (in confidence) verilmiştir. Bu bebek sonunda Vol'jin'e ulaşacak, yani Zol'majin hayatını Karamızrak'ın ellerine bırakıyor. Bu, kabileler (tribes) arasındaki büyük güvenin bir sembolüdür. Bu jest zamanla aynı şekilde (in kind) karşılık bulabilir.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Scratching Each Other's Back
@@ -39579,25 +39579,25 @@ QuestTranslator_QuestData = {
     }, -- end Scribbled Cooking Notes
     -- Scythe of the Goddess
     -- Scythe of Elune -> Elune'un Tırpanı, Karazhan = Karazhan[cite: 2].
-    -- Clawlord Howlfang -> Pençelord Kükreyenpençe kalmıştır[cite: 1]. Lord Ebonlocke -> Lord Karalüle kalmıştır[cite: 1].
-    -- Dark Riders -> Kara Süvariler, Blackwald -> Blackwald kalmıştır[cite: 1].
+    -- Clawlord Howlfang -> Pençelord Kükreyenpençe kalmıştır. Lord Ebonlocke -> Lord Karalüle kalmıştır.
+    -- Dark Riders -> Kara Süvariler, Blackwald -> Blackwald kalmıştır.
     ["41062"] = {
     ["Title"]="Tanrıça'nın Tırpanı",
-    ["Description"]="Avucunun içinde, gizemle örtülü ve hayal edilemez bir güçle titreşen, ele geçirilemez Elune'un Tırpanı (Scythe of Elune) duruyor. Onun bu ana kadar olan yolculuğu bir muamma olarak kalıyor — buraya nasıl geldiği ve neden geldiği, cevap bekleyen sorular. Yine de şimdilik en acil öncelik, bu olağanüstü yadigarı ortaya çıkardığı yıkımı bastırmaktır. Karazhan'daki worgenların lideri Pençelord Kükreyenpençe'yi (Clawlord Howlfang) katlet[cite: 1, 2]. Yalnızca onun worgenlar üzerindeki zalimce pençesini kopararak kaosun ortasında düzeni yeniden sağlamayı umabilirsin. Bir kez başarıldığında, esrarengiz Tırpan hakkında Lord Karalüle'den (Lord Ebonlocke) cevaplar ara[cite: 1].",
-    ["Objectives"]="Pençelord Kükreyenpençe'yi (Clawlord Howlfang) katlet ve Lord Karalüle'ye (Lord Ebonlocke) rapor ver[cite: 1].",
+    ["Description"]="Avucunun içinde, gizemle örtülü ve hayal edilemez bir güçle titreşen, ele geçirilemez Elune'un Tırpanı (Scythe of Elune) duruyor. Onun bu ana kadar olan yolculuğu bir muamma olarak kalıyor — buraya nasıl geldiği ve neden geldiği, cevap bekleyen sorular. Yine de şimdilik en acil öncelik, bu olağanüstü yadigarı ortaya çıkardığı yıkımı bastırmaktır. Karazhan'daki worgenların lideri Pençelord Kükreyenpençe'yi (Clawlord Howlfang) katlet. Yalnızca onun worgenlar üzerindeki zalimce pençesini kopararak kaosun ortasında düzeni yeniden sağlamayı umabilirsin. Bir kez başarıldığında, esrarengiz Tırpan hakkında Lord Karalüle'den (Lord Ebonlocke) cevaplar ara.",
+    ["Objectives"]="Pençelord Kükreyenpençe'yi (Clawlord Howlfang) katlet ve Lord Karalüle'ye (Lord Ebonlocke) rapor ver.",
     ["Progress"]="Evet, ölümlü? Sana nasıl yardımcı olabilirim?",
-    ["Completion"]="Elune'un Tırpanı... Muazzam bir güce sahip lanetli bir yadigar, hem zaman hem de gölgeler tarafından bağlanan bir varlık olan Kara Süvarilerden (Dark Riders) biri tarafından bu kutsal Karazhan topraklarına getirildi[cite: 2]. Gelişlerinin anısı, hem yeni hem de kadim hissettirse de bulanık; çünkü zaman, zihnimi altüst eden bir duvar halısı dokuyor. Blackwald (Blackwald), o lanet olası varlık Tırpan'ın elde edilmesinden büyük bir keyif aldı[cite: 1]. Kötülüğü sınır tanımıyordu, böyle güçlü bir yadigara sahip olmaktan zevk alıyordu. Karazhan salonları onun çarpık tatminiyle yankılandı[cite: 2]. Şimdi onu kullanmayı düşünmeye bile cüret etme. Çok uzun zamandır karanlık bir gücün elindeydi ve niyetin adil olsa bile bunun sadece daha fazla yıkım getirmesinden korkuyorum.",
+    ["Completion"]="Elune'un Tırpanı... Muazzam bir güce sahip lanetli bir yadigar, hem zaman hem de gölgeler tarafından bağlanan bir varlık olan Kara Süvarilerden (Dark Riders) biri tarafından bu kutsal Karazhan topraklarına getirildi[cite: 2]. Gelişlerinin anısı, hem yeni hem de kadim hissettirse de bulanık; çünkü zaman, zihnimi altüst eden bir duvar halısı dokuyor. Blackwald (Blackwald), o lanet olası varlık Tırpan'ın elde edilmesinden büyük bir keyif aldı. Kötülüğü sınır tanımıyordu, böyle güçlü bir yadigara sahip olmaktan zevk alıyordu. Karazhan salonları onun çarpık tatminiyle yankılandı[cite: 2]. Şimdi onu kullanmayı düşünmeye bile cüret etme. Çok uzun zamandır karanlık bir gücün elindeydi ve niyetin adil olsa bile bunun sadece daha fazla yıkım getirmesinden korkuyorum.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Scythe of the Goddess
 
 -- Scythe of the Goddess
-    -- Lord Blackwald kalmıştır[cite: 1], Dark Riders -> Kara Süvariler. Medivh = Medivh.
+    -- Lord Blackwald kalmıştır, Dark Riders -> Kara Süvariler. Medivh = Medivh.
     -- Great Hamlet -> Büyük Köy (Duskwood'un eski adı). Worgen -> worgen.
     -- Duskwood = Alacakaranlık Ormanı (Duskwood)[cite: 2].
     ["41063"] = {
     ["Title"]="Tanrıça'nın Tırpanı",
-    ["Description"]="Sana onun hakkında daha fazla şey anlatabilmeyi isterdim ama ne yazık ki bu halimle anlamlı bir bilgi edinmeyi başaramadım. Lord Blackwald (Lord Blackwald) onu worgenları Karazhan'a çağırmak için kullandı ve onlar da az çok onun emrine itaat ettiler[cite: 1, 2]. Kara Süvarilere (Dark Riders) gelince, onlar Medivh'in (Medivh) bizzat kendisi tarafından doğru yoldaki şövalyelerin çarpık suretinde işlenmiş, yadigar avcıları olmaya lanetlenmişlerdir. Varlığı çoktan solmuş olsa da, bu amansız avcılar bilinmeyen bir efendi için yorulmak bilmeden hazineler toplayarak takiplerine devam ediyorlar. Oh, bu gizemli yadigarın arkasındaki gizli amacı ortaya çıkarma yeteneğine sahip olmayı ne kadar da çok isterdim. Yine de arayışında sana bir umut ışığı sunuyorum. Kara Süvarilere takipleri sırasında, belki de farkında olmadan yardım edenleri ara. Gözlerini, sırların ve fısıltıların birbirine karıştığı, bir zamanlar Büyük Köy (Great Hamlet) olarak bilinen eski krallığıma çevir. Arayışının meyve verebileceği yer orasıdır, çünkü söylentiler artık krallıkta dolaşan worgenlardan bahsediyor, onların varlığı Tırpan ile olan bir bağın kanıtıdır.",
+    ["Description"]="Sana onun hakkında daha fazla şey anlatabilmeyi isterdim ama ne yazık ki bu halimle anlamlı bir bilgi edinmeyi başaramadım. Lord Blackwald (Lord Blackwald) onu worgenları Karazhan'a çağırmak için kullandı ve onlar da az çok onun emrine itaat ettiler. Kara Süvarilere (Dark Riders) gelince, onlar Medivh'in (Medivh) bizzat kendisi tarafından doğru yoldaki şövalyelerin çarpık suretinde işlenmiş, yadigar avcıları olmaya lanetlenmişlerdir. Varlığı çoktan solmuş olsa da, bu amansız avcılar bilinmeyen bir efendi için yorulmak bilmeden hazineler toplayarak takiplerine devam ediyorlar. Oh, bu gizemli yadigarın arkasındaki gizli amacı ortaya çıkarma yeteneğine sahip olmayı ne kadar da çok isterdim. Yine de arayışında sana bir umut ışığı sunuyorum. Kara Süvarilere takipleri sırasında, belki de farkında olmadan yardım edenleri ara. Gözlerini, sırların ve fısıltıların birbirine karıştığı, bir zamanlar Büyük Köy (Great Hamlet) olarak bilinen eski krallığıma çevir. Arayışının meyve verebileceği yer orasıdır, çünkü söylentiler artık krallıkta dolaşan worgenlardan bahsediyor, onların varlığı Tırpan ile olan bir bağın kanıtıdır.",
     ["Objectives"]="Alacakaranlık Ormanı'nda (Duskwood) Elune'un Tırpanı hakkında daha fazla şey bilebilecek birini bul[cite: 2].",
     ["Progress"]="E-evet?",
     ["Completion"]="Sana yalvarıyorum, Elune'un Tırpanı'ndan uzak dur! Ona en son dokunduğumda Alacakaranlık Ormanı'nın (Duskwood) üzerine kıyamet getirdi[cite: 2]. O lanetli yadigarın sonuçları peşimi bırakmıyor. Lütfen onu arama düşüncesini aklından çıkar. Onun gücü, kaderi çarpıtan ve trajedi getiren bir zehirdir. Bırak unutulmuş olarak kalsın, karanlık mirası gölgeye gömülsün.",
@@ -39633,13 +39633,13 @@ QuestTranslator_QuestData = {
 
 -- Scythe of the Goddess
     -- Shrine of Mel'Thandris -> Mel'Thandris Sunağı, Felwood = Felwood[cite: 2].
-    -- Ashenvale = Ashenvale[cite: 2], Arugal = Arugal. Arch Druid Dreamwind -> Baş Druid Rüyarüzgarı kalmıştır[cite: 1].
+    -- Ashenvale = Ashenvale[cite: 2], Arugal = Arugal. Arch Druid Dreamwind -> Baş Druid Rüyarüzgarı kalmıştır.
     -- Kalimdor = Kalimdor[cite: 2], Nordrassil = Nordrassil[cite: 2]. Velinde = Velinde.
     -- Nordanaar = Nordanaar[cite: 2].
     ["41066"] = {
     ["Title"]="Tanrıça'nın Tırpanı",
-    ["Description"]="Tırpan bana Mel'Thandris Sunağı'nda (Shrine of Mel'Thandris) hediye edildi. Worgenları çağırma yeteneği, Felwood'un yozlaşmasına karşı verilen savaşta gidişatı tersine çevirmeme yardımcı oldu[cite: 2]. Yine de onların üzerindeki kontrolümü kaybediyordum. Yardıma ihtiyacım vardı. Ashenvale ormanlarından belirli bir amaçla ayrıldım — kendisi de worgenları çağırmış olan büyücü Arugal'dan akıl danışmak için[cite: 2]. Bu yaratıklar ile Elune'un onlara bahşettiği teveccüh arasındaki bağlantıyı anlamayı çok istiyordum. Ama... Arugal... ölü mü? Elune'un gözyaşları adına, bu haber beni kedere boğuyor. Bu anda yönelebileceğimiz tek bir kişi var, bize daha fazla rehberlik edecek bilgeliğe ve bilgiye sahip olan biri. Baş Druid Rüyarüzgarı (Arch Druid Dreamwind), öte dünyalara ait olanın bir bilgini olarak, alemlerimizin ve ötesinin gizemlerini çözmenin anahtarını elinde tutuyor olabilir[cite: 1]. Onu bul ve başıma gelen hikayeyi ona anlat. Kalimdor'dan (Kalimdor) ayrıldığımda, Nordrassil'i (Nordrassil) iyileştirme çabalarının en ön safhasında yer alıyordu[cite: 2].",
-    ["Objectives"]="Nordanaar'daki Baş Druid Rüyarüzgarı'nı (Arch Druid Dreamwind) bul[cite: 1, 2].",
+    ["Description"]="Tırpan bana Mel'Thandris Sunağı'nda (Shrine of Mel'Thandris) hediye edildi. Worgenları çağırma yeteneği, Felwood'un yozlaşmasına karşı verilen savaşta gidişatı tersine çevirmeme yardımcı oldu[cite: 2]. Yine de onların üzerindeki kontrolümü kaybediyordum. Yardıma ihtiyacım vardı. Ashenvale ormanlarından belirli bir amaçla ayrıldım — kendisi de worgenları çağırmış olan büyücü Arugal'dan akıl danışmak için[cite: 2]. Bu yaratıklar ile Elune'un onlara bahşettiği teveccüh arasındaki bağlantıyı anlamayı çok istiyordum. Ama... Arugal... ölü mü? Elune'un gözyaşları adına, bu haber beni kedere boğuyor. Bu anda yönelebileceğimiz tek bir kişi var, bize daha fazla rehberlik edecek bilgeliğe ve bilgiye sahip olan biri. Baş Druid Rüyarüzgarı (Arch Druid Dreamwind), öte dünyalara ait olanın bir bilgini olarak, alemlerimizin ve ötesinin gizemlerini çözmenin anahtarını elinde tutuyor olabilir. Onu bul ve başıma gelen hikayeyi ona anlat. Kalimdor'dan (Kalimdor) ayrıldığımda, Nordrassil'i (Nordrassil) iyileştirme çabalarının en ön safhasında yer alıyordu[cite: 2].",
+    ["Objectives"]="Nordanaar'daki Baş Druid Rüyarüzgarı'nı (Arch Druid Dreamwind) bul.",
     ["Progress"]="Nordanaar'a hoş geldin. Sana nasıl yardımcı olabilirim?[cite: 2]",
     ["Completion"]="Demek kız kardeş Velinde'nin kaderi buydu. Gerçekten trajik bir hikaye.",
     ["minlevel"]="0",
@@ -39676,11 +39676,11 @@ QuestTranslator_QuestData = {
     }, -- end Scythe of the Goddess
 
 -- Scythe of the Goddess
-    -- Ur = Ur. Fandral Staghelm -> Fandral Alageyik kalmıştır[cite: 1]. Darnassus = Darnassus[cite: 2].
+    -- Ur = Ur. Fandral Staghelm -> Fandral Alageyik kalmıştır. Darnassus = Darnassus[cite: 2].
     -- Dreamwind -> Rüyarüzgarı, Hyjal = Hyjal[cite: 2].
     ["41377"] = {
     ["Title"]="Tanrıça'nın Tırpanı",
-    ["Description"]="Şimdi, Ur'un (Ur) öğretilerine dalmam biraz zamanımı alacak. Hiçbir hayati detayın dikkatimden kaçmadığından emin olmalıyım. Cilt oldukça kapsamlı ve Ur'un, zihni keskin olanlar için gizli mesajlar yerleştirdiği bilinir. Bu sırada senin için bir görevim var. Bu dünyanın bilge alimleri arasında, düzenimizin lideri Fandral Alageyik'in (Fandral Staghelm) bilgeliğine ve anlayışına sahip çok az kişi vardır[cite: 1]. Kendisi Darnassus'ta (Darnassus) ikamet ediyor[cite: 2]. Darnassus'a seyahat et ve bulgularını ona bildir[cite: 2]. Şüphesiz bu güçlü yadigar hakkında değerli tavsiyelerde bulunacaktır.",
+    ["Description"]="Şimdi, Ur'un (Ur) öğretilerine dalmam biraz zamanımı alacak. Hiçbir hayati detayın dikkatimden kaçmadığından emin olmalıyım. Cilt oldukça kapsamlı ve Ur'un, zihni keskin olanlar için gizli mesajlar yerleştirdiği bilinir. Bu sırada senin için bir görevim var. Bu dünyanın bilge alimleri arasında, düzenimizin lideri Fandral Alageyik'in (Fandral Staghelm) bilgeliğine ve anlayışına sahip çok az kişi vardır. Kendisi Darnassus'ta (Darnassus) ikamet ediyor[cite: 2]. Darnassus'a seyahat et ve bulgularını ona bildir[cite: 2]. Şüphesiz bu güçlü yadigar hakkında değerli tavsiyelerde bulunacaktır.",
     ["Objectives"]="Darnassus'taki Baş Druid Alageyik'i (Arch Druid Staghelm) bul ve onun tavsiyesini ara[cite: 2].",
     ["Progress"]="Nedir o?",
     ["Completion"]="Demek efsanevi Elune'un Tırpanı bulundu. Rüyarüzgarı (Dreamwind), Hyjal'ı (Hyjal) iyileştirme çabaları hatalı olsa bile, seni bana göndermekle akıllıca davranmış[cite: 2].",
@@ -39689,14 +39689,14 @@ QuestTranslator_QuestData = {
     }, -- end Scythe of the Goddess
 
 -- Scythe of the Goddess
-    -- Magatha Grimtotem -> Magatha Zalimtotem kalmıştır[cite: 1]. Mu'sha -> Mu'sha (Tauren dilinde Ay / Elune).
+    -- Magatha Grimtotem -> Magatha Zalimtotem kalmıştır. Mu'sha -> Mu'sha (Tauren dilinde Ay / Elune).
     -- Thunder Bluff = Thunder Bluff[cite: 2]. Grimtotem -> Zalimtotem.
     ["41380"] = {
     ["Title"]="Tanrıça'nın Tırpanı",
-    ["Description"]="Şimdi, Ur'un (Ur) öğretilerine dalmam biraz zamanımı alacak. Hiçbir hayati detayın dikkatimden kaçmadığından emin olmalıyım. Cilt oldukça kapsamlı ve Ur'un, zihni keskin olanlar için gizli mesajlar yerleştirdiği bilinir. Bu sırada senin için bir görevim var. Bu dünyanın bilge alimleri arasında, düzenimizin lideri Fandral Alageyik'in (Fandral Staghelm) bilgeliğine ve anlayışına sahip çok az kişi vardır[cite: 1]. Ancak korkarım ki senin varlığına karşı benim olduğum kadar anlayışlı olmayabilir. Yine de tüm umutlar kaybolmuş değil. Tauren müttefiklerinin arasında, neredeyse Fandral kadar bilge olan biri var. Magatha Zalimtotem'den (Magatha Grimtotem) bahsediyorum[cite: 1]. Klanının zaman zaman sergilediği kuralsızlıklara rağmen, Mu'sha (Mu'sha) dedikleri Elune'a her zaman hürmet etmişlerdir. Bildiğim kadarıyla, kendisi şu anda muazzam Thunder Bluff (Thunder Bluff) şehrinde ikamet ediyor[cite: 2]. Oraya git ve onun tavsiyesini ara. Belki de Tırpan hakkında benden bile kaçan bilgilere sahiptir. Yolculuğun bitmekten çok uzak ve Zalimtotem'in bilgeliği paha biçilemez çıkabilir.",
-    ["Objectives"]="Magatha Zalimtotem'i (Magatha Grimtotem) bul ve onun tavsiyesini ara[cite: 1].",
+    ["Description"]="Şimdi, Ur'un (Ur) öğretilerine dalmam biraz zamanımı alacak. Hiçbir hayati detayın dikkatimden kaçmadığından emin olmalıyım. Cilt oldukça kapsamlı ve Ur'un, zihni keskin olanlar için gizli mesajlar yerleştirdiği bilinir. Bu sırada senin için bir görevim var. Bu dünyanın bilge alimleri arasında, düzenimizin lideri Fandral Alageyik'in (Fandral Staghelm) bilgeliğine ve anlayışına sahip çok az kişi vardır. Ancak korkarım ki senin varlığına karşı benim olduğum kadar anlayışlı olmayabilir. Yine de tüm umutlar kaybolmuş değil. Tauren müttefiklerinin arasında, neredeyse Fandral kadar bilge olan biri var. Magatha Zalimtotem'den (Magatha Grimtotem) bahsediyorum. Klanının zaman zaman sergilediği kuralsızlıklara rağmen, Mu'sha (Mu'sha) dedikleri Elune'a her zaman hürmet etmişlerdir. Bildiğim kadarıyla, kendisi şu anda muazzam Thunder Bluff (Thunder Bluff) şehrinde ikamet ediyor[cite: 2]. Oraya git ve onun tavsiyesini ara. Belki de Tırpan hakkında benden bile kaçan bilgilere sahiptir. Yolculuğun bitmekten çok uzak ve Zalimtotem'in bilgeliği paha biçilemez çıkabilir.",
+    ["Objectives"]="Magatha Zalimtotem'i (Magatha Grimtotem) bul ve onun tavsiyesini ara.",
     ["Progress"]="Evet, çocuğum?",
-    ["Completion"]="Demek efsanevi Mu'sha'nın Tırpanı bulundu. Bu Baş Druid Rüyarüzgarı (Arch Druid Dreamwind), seni bana göndermekle akıllıca davranmış[cite: 1].",
+    ["Completion"]="Demek efsanevi Mu'sha'nın Tırpanı bulundu. Bu Baş Druid Rüyarüzgarı (Arch Druid Dreamwind), seni bana göndermekle akıllıca davranmış.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Scythe of the Goddess
@@ -39705,11 +39705,11 @@ QuestTranslator_QuestData = {
 -- Searching for New Methods
     -- Sparkwater = Kıvılcımsuyu, Azeroth = Azeroth[cite: 2].
     -- Azshara = Azshara[cite: 2], Valormok = Valormok[cite: 2]. Goblin = goblin, gold = altın.
-    -- Gazztoggle Krewpipe -> Gazztoggle Borutüttüren kalmıştır[cite: 1].
+    -- Gazztoggle Krewpipe -> Gazztoggle Borutüttüren kalmıştır.
     ["55007"] = {
     ["Title"]="Yeni Yöntemler Aramak",
     ["Description"]="Kıvılcımsuyu (Sparkwater) teknisyenleri, Azeroth (Azeroth) genelindeki enerji kaynaklarını optimize etmek ve bunlardan yararlanmak için her zaman daha fazla yöntem arıyorlar[cite: 2]. Sahada tam da bunu yapan epey insanımız var! Azshara'da (Azshara) bulunan ve kontrol etmeni istediğim bir adamım var; en son Valormok (Valormok) içinde konuşlanmıştı[cite: 2]. Sadece ona ödediğim şeyi yaptığından emin ol. Bir goblinin (goblin) en son isteyeceği şey boşa harcanmış altın (gold) ve boşa harcanmış potansiyeldir!",
-    ["Objectives"]="Azshara'daki Valormok (Valormok) kampında bulunan Gazztoggle Borutüttüren'i (Gazztoggle Krewpipe) bul[cite: 1, 2].",
+    ["Objectives"]="Azshara'daki Valormok (Valormok) kampında bulunan Gazztoggle Borutüttüren'i (Gazztoggle Krewpipe) bul.",
     ["Progress"]="Onu henüz bulabildin mi?",
     ["Completion"]="Azshara'daki şu çorak hiçliğe bir baksana![cite: 2] Etrafımızda bir sürü şey olduğunu mu kastediyorsun? Ben burada kimsenin iş yapmadığını, tüm bu boşa harcanmış potansiyeli kastetmiştim. Her yerde fabrikalar kurmak yerine burada bunu yapıyor olmam ne büyük utanç, heh.",
     ["minlevel"]="0",
@@ -39720,14 +39720,14 @@ QuestTranslator_QuestData = {
     -- Diving wreckages -> enkaz dalışları. Bruiser -> fedai, gold coin -> altın sikke.
     -- Sparkwater Port -> Kıvılcımsuyu Limanı (Sparkwater + Port)[cite: 2]. Crates -> kasalar, logbook -> seyir defteri.
     -- Goblins -> goblinler, Blackstone -> Karataş Adası (Blackstone Island kastediliyor)[cite: 2]. Murlocs -> murloclar.
-    -- Taxxlo Rustgate -> Taxxlo Paslıkapı kalmıştır[cite: 1]. Maxlo -> Maxlo kalmıştır[cite: 1].
+    -- Taxxlo Rustgate -> Taxxlo Paslıkapı kalmıştır. Maxlo -> Maxlo kalmıştır.
     -- Venture Co. Logbook -> Venture Şirketi Seyir Defteri.
     ["41171"] = {
     ["Title"]="Enkazı Aramak",
     ["Description"]="Enkaz dalışlarına (diving wreckages) aşina olduğunu duydum? Oh, şaşırdın mı? Benim kulağımdan hiçbir şey kaçmaz, ufaklık; bu yüzden buralarda şüpheli bir şeyler yapmayı düşünme bile. Daha sen 'altın sikke' (gold coin) diyemeden arkana bir fedai (bruiser) takarım. Doğu kıyısında başka bir gemi battı, korsan gemisi değil, bizzat Kıvılcımsuyu Limanı'ndan (Sparkwater Port) gelen bir gemi[cite: 2]. Üzerinde çok sayıda kasa (crates) ve yeni işçiler vardı. Kullanışlı erzakların çoğunu zaten kurtardık ama seyir defterini (logbook) bulacak kadar şanslı değildik. Ne? Evet, gemideki bazı goblinler (goblins) de kayboldu; ama bana sorarsan, eğer basit bir enkazdan sağ çıkamıyorlarsa, Karataş (Blackstone) onlar için uygun bir yer değildir[cite: 2]. Bana o seyir defterini getir ve oradaki murloclara (murlocs) dikkat et. Bu lanet şeyi geri alırken daha fazla iş gücü kaybetmek istemiyorum.",
-    ["Objectives"]="Venture Şirketi Seyir Defteri'ni (Venture Co. Logbook) ele geçir ve onu Taxxlo Paslıkapı'ya (Taxxlo Rustgate) getir[cite: 1].",
+    ["Objectives"]="Venture Şirketi Seyir Defteri'ni (Venture Co. Logbook) ele geçir ve onu Taxxlo Paslıkapı'ya (Taxxlo Rustgate) getir.",
     ["Progress"]="Zaman daralıyor.",
-    ["Completion"]="İşte görmek istediğim şey bu. Sadece on iki denememizi aldı. Bu listelere sahip olmak Maxlo'yu (Maxlo) fazlasıyla neşelendirecek[cite: 1].",
+    ["Completion"]="İşte görmek istediğim şey bu. Sadece on iki denememizi aldı. Bu listelere sahip olmak Maxlo'yu (Maxlo) fazlasıyla neşelendirecek.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Searching Wreckage
@@ -39735,44 +39735,44 @@ QuestTranslator_QuestData = {
 -- Secrets of the Dark Iron Desecrator
     -- Dark Iron Desecrator -> Kara Demir Mukaddesatbozanı (Dark Iron + Desecrator). Gun -> tüfek / silah.
     -- Steamwheedle = Steamwheedle (Steamwheedle Port)[cite: 2]. Rare goods -> nadir mallar, plans -> planlar.
-    -- Gelwig Darkbrow -> Gelwig Karakaş kalmıştır[cite: 1]. Bixxle Screwfuse -> Bixxle Vidalısigorta kalmıştır[cite: 1].
+    -- Gelwig Darkbrow -> Gelwig Karakaş kalmıştır. Bixxle Screwfuse -> Bixxle Vidalısigorta kalmıştır.
     -- Steamwheedle Port = Steamwheedle Limanı[cite: 2]. Prototype -> prototip, Engineers -> Mühendisler.
     ["40761"] = {
     ["Title"]="Kara Demir Mukaddesatbozanının Sırları",
-    ["Description"]="Hey bak, bana gerçekten çok büyük bir iyilik yaptın ve yaptıkların için sana hala borçluyum. Bir tüfek (gun) pazarına girmek istemez miydin? Öyle sıradan bir tüfekten bahsetmiyorum, bir Kara Demir Mukaddesatbozanından (Dark Iron Desecrator) bahsediyorum. Onları nadir mallar (rare goods) için Steamwheedle'a (Steamwheedle) getirmeme yardım ettiğim için bana epey bir borcu olan biri var[cite: 2]. Eğer bu ilgini çeken bir şeyse, elde etmenin biraz çaba gerektireceğini bil. Eğer bu ilgini çekiyorsa Gelwig Karakaş (Gelwig Darkbrow) ile konuş, ona seni benim gönderdiğimi ve planları (plans) istediğimi bildirmesini sağ[cite: 1].",
-    ["Objectives"]="Steamwheedle Limanı'ndaki (Steamwheedle Port) Gelwig Karakaş'tan (Gelwig Darkbrow) Kara Demir Mukaddesatbozanı Planlarını topla; ele geçirildiklerinde Bixxle Vidalısigorta'ya (Bixxle Screwfuse) geri dön[cite: 1, 2].",
+    ["Description"]="Hey bak, bana gerçekten çok büyük bir iyilik yaptın ve yaptıkların için sana hala borçluyum. Bir tüfek (gun) pazarına girmek istemez miydin? Öyle sıradan bir tüfekten bahsetmiyorum, bir Kara Demir Mukaddesatbozanından (Dark Iron Desecrator) bahsediyorum. Onları nadir mallar (rare goods) için Steamwheedle'a (Steamwheedle) getirmeme yardım ettiğim için bana epey bir borcu olan biri var[cite: 2]. Eğer bu ilgini çeken bir şeyse, elde etmenin biraz çaba gerektireceğini bil. Eğer bu ilgini çekiyorsa Gelwig Karakaş (Gelwig Darkbrow) ile konuş, ona seni benim gönderdiğimi ve planları (plans) istediğimi bildirmesini sağ.",
+    ["Objectives"]="Steamwheedle Limanı'ndaki (Steamwheedle Port) Gelwig Karakaş'tan (Gelwig Darkbrow) Kara Demir Mukaddesatbozanı Planlarını topla; ele geçirildiklerinde Bixxle Vidalısigorta'ya (Bixxle Screwfuse) geri dön.",
     ["Progress"]="Ee, onunla henüz konuştun mu?",
-    ["Completion"]="Şikayet ettiğini varsayıyorum, ha?\n\n<Bixxle güler.>[cite: 1] Evet, bu oldukça gizli ve Kara Demir Mühendislerinin (Dark Iron Engineers) bir prototip (prototype) yapımıdır, bu yüzden biz de bunda ustalaşacağız. Hayal edemezsin ama ben oldukça tanınmış bir Mühendisimdir ve bu 'Kara Demirlerle' çok kez karşılaştım, hatta onların o övülen şehirlerindeki bazı şeyler için sözleşme bile imzalamıştım.",
+    ["Completion"]="Şikayet ettiğini varsayıyorum, ha?\n\n<Bixxle güler.> Evet, bu oldukça gizli ve Kara Demir Mühendislerinin (Dark Iron Engineers) bir prototip (prototype) yapımıdır, bu yüzden biz de bunda ustalaşacağız. Hayal edemezsin ama ben oldukça tanınmış bir Mühendisimdir ve bu 'Kara Demirlerle' çok kez karşılaştım, hatta onların o övülen şehirlerindeki bazı şeyler için sözleşme bile imzalamıştım.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Secrets of the Dark Iron Desecrator
 
 -- Secure the Cargo!
     -- Zeppelin -> zeplin, supplies -> erzak. Mudsprocket = Çamurçarkı (Mudsprocket)[cite: 2]. Cargo -> kargo / yük, wreckage -> enkaz, marsh -> bataklık.
-    -- Moxie Steelgrille -> Moxie Çelikızgara kalmıştır[cite: 1]. Beezil's Wreck -> Beezil'in Enkazı (Beezil + Wreck)[cite: 2].
-    -- Zeppelin Cargo -> Zeplin Kargosu. Drazzit kalmıştır[cite: 1].
+    -- Moxie Steelgrille -> Moxie Çelikızgara kalmıştır. Beezil's Wreck -> Beezil'in Enkazı (Beezil + Wreck)[cite: 2].
+    -- Zeppelin Cargo -> Zeplin Kargosu. Drazzit kalmıştır.
     ["80405"] = {
     ["Title"]="Kargoyu Güvenceye Al!",
     ["Description"]="Bu zeplin (zeppelin), Çamurçarkı'ndaki (Mudsprocket) bize altı aylık erzak (supplies) taşıyıyordu[cite: 2]! Elbette ihtiyaç duydukları bazı şeyler için takas yapabildiler ama sonsuza kadar dayanamazlar. Kargonun (cargo) kurtarabildiğim kadarını kurtarmak için buraya gönderildim, ancak enkaz (wreckage) bu bölgedeki tüm bataklığa (marsh) dağılmış durumda. Kargonun çoğunun kazadan sağ çıkamadığına eminim, ancak kurtarabildiğimizi kurtarmama yardım etmeye istekli misin?",
-    ["Objectives"]="Beezil'in Enkazı'ndaki (Beezil's Wreck) Moxie Steelgrille, senin 8 parça Zeplin Kargosu (Zeppelin Cargo) kurtarmanı istiyor[cite: 1, 2].",
-    ["Progress"]="<Moxie endişeyle telaşlı görünüyor.>[cite: 1] Kargo kurtuldu mu? Ondan herhangi bir parça buldun mu?",
-    ["Completion"]="Vay canına! Kesinlikle orada olmasını beklediğimden çok daha fazlasını buldun. Drazzit'in (Drazzit) burada ne kadar bulacağımızı düşündüğünden emin değilim ama şimdilik bununla mutlu olmak zorunda kalacak[cite: 1].",
+    ["Objectives"]="Beezil'in Enkazı'ndaki (Beezil's Wreck) Moxie Steelgrille, senin 8 parça Zeplin Kargosu (Zeppelin Cargo) kurtarmanı istiyor.",
+    ["Progress"]="<Moxie endişeyle telaşlı görünüyor.> Kargo kurtuldu mu? Ondan herhangi bir parça buldun mu?",
+    ["Completion"]="Vay canına! Kesinlikle orada olmasını beklediğimden çok daha fazlasını buldun. Drazzit'in (Drazzit) burada ne kadar bulacağımızı düşündüğünden emin değilim ama şimdilik bununla mutlu olmak zorunda kalacak.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Secure the Cargo!
 
 -- Securing Darnassus
     -- Gnarlpine tribe -> Yamruçam kabilesi (Gnarlpine furbolgs). Teldrassil = Teldrassil[cite: 2], forests -> ormanlar, travelers -> yolcular.
-    -- Moon Priestess Amara -> Ay Rahibesi Amara kalmıştır[cite: 1]. Roads -> yollar, Darnassus = Darnassus[cite: 2], Dolanaar = Dolanaar[cite: 2].
+    -- Moon Priestess Amara -> Ay Rahibesi Amara kalmıştır. Roads -> yollar, Darnassus = Darnassus[cite: 2], Dolanaar = Dolanaar[cite: 2].
     -- Village -> köy, Furbolgs' -> furbolgların, offensive capabilities -> taarruz kabiliyetleri.
     -- Dolanaar = Dolanaar[cite: 2], Shadowglen = Gölgelidere (Shadowglen)[cite: 2]. Gnarlpine Hold -> Yamruçam Hisarı[cite: 2].
     -- Avengers and Pathstalkers -> İntikamcılar ve Yolbaskıncıları.
     -- Gnarlpine Avengers -> Yamruçam İntikamcıları, Gnarlpine Pathfinders -> Yamruçam İzcileri.
-    -- Adaena Oakleaf -> Adaena Meşeyaprağı kalmıştır[cite: 1]. Kaldorei -> Kaldorei (Gece Elfleri)[cite: 2]. Elune = Elune.
+    -- Adaena Oakleaf -> Adaena Meşeyaprağı kalmıştır. Kaldorei -> Kaldorei (Gece Elfleri)[cite: 2]. Elune = Elune.
     ["40205"] = {
     ["Title"]="Darnassus'u Güvenceye Almak",
-    ["Description"]="Teldrassil'deki Yamruçam (Gnarlpine) kabilesi hayal edebileceğimden çok daha büyük bir tehdit haline geldi[cite: 2]. Bir zamanlar ormanlara (forests) zarar verecek herkese karşı müttefikimiz olduklarını düşünmek... Ay Rahibesi Amara (Moon Priestess Amara), Darnassus ile Dolanaar arasındaki yollarda (roads) devriye gezerek yolcuları (travelers) güvende tutuyor ve köyün yakınında saldıran Yamruçam'a karşı savunmada onların yardımını alıyor[cite: 1, 2]. Ne yazık ki, bu önlemlerin furbolgların (Furbolgs) taarruz kabiliyetlerini (offensive capabilities) azaltmada yeterli olmadığı görülüyor. Dolanaar ve Gölgelidiar'e (Shadowglen) karşı harekete geçme girişimlerini engellemek istiyorsak kabilenin kalbine darbe indirmeliyiz; ne kadar cüretkarlaştıkları düşünüldüğünde bu artık haklı bir endişedir[cite: 2]. Güneydeki Yamruçam Hisarı'na (Gnarlpine Hold) seyahat et ve katledebildiğin kadar İntikamcı (Avengers) ve Yolbaskıncısı (Pathstalkers) katlet[cite: 2].",
-    ["Objectives"]="10 Yamruçam İntikamcısı (Gnarlpine Avengers) ve 5 Yamruçam İzci (Gnarlpine Pathfinders) katlet, ardından Darnassus'taki Adaena Oakleaf'e geri dön[cite: 1, 2].",
+    ["Description"]="Teldrassil'deki Yamruçam (Gnarlpine) kabilesi hayal edebileceğimden çok daha büyük bir tehdit haline geldi[cite: 2]. Bir zamanlar ormanlara (forests) zarar verecek herkese karşı müttefikimiz olduklarını düşünmek... Ay Rahibesi Amara (Moon Priestess Amara), Darnassus ile Dolanaar arasındaki yollarda (roads) devriye gezerek yolcuları (travelers) güvende tutuyor ve köyün yakınında saldıran Yamruçam'a karşı savunmada onların yardımını alıyor. Ne yazık ki, bu önlemlerin furbolgların (Furbolgs) taarruz kabiliyetlerini (offensive capabilities) azaltmada yeterli olmadığı görülüyor. Dolanaar ve Gölgelidiar'e (Shadowglen) karşı harekete geçme girişimlerini engellemek istiyorsak kabilenin kalbine darbe indirmeliyiz; ne kadar cüretkarlaştıkları düşünüldüğünde bu artık haklı bir endişedir[cite: 2]. Güneydeki Yamruçam Hisarı'na (Gnarlpine Hold) seyahat et ve katledebildiğin kadar İntikamcı (Avengers) ve Yolbaskıncısı (Pathstalkers) katlet[cite: 2].",
+    ["Objectives"]="10 Yamruçam İntikamcısı (Gnarlpine Avengers) ve 5 Yamruçam İzci (Gnarlpine Pathfinders) katlet, ardından Darnassus'taki Adaena Oakleaf'e geri dön.",
     ["Progress"]="Tamamlandı mı, YOUR_NAME? Burada başarısız olmayı göze alamayız, aksi takdirde Darnassus'un (Darnassus) kendisi risk altında kalır[cite: 2].",
     ["Completion"]="Bugün Kaldorei halkına büyük bir hizmette bulundun, YOUR_NAME[cite: 2]. Eski müttefiklerimizin kaderi için ağlasam da, keder zayıflığa yol açamaz. Elune, halkımızın topraklarını savunurken eline rehberlik etti ve onun iradesini yerine getirdiğin için ödüllendirileceksin.",
     ["minlevel"]="0",
@@ -39783,12 +39783,12 @@ QuestTranslator_QuestData = {
     -- Royalists -> kraliyetçiler. Worgen -> worgen. Disease -> hastalık.
     -- Overgrown Acre -> Aşırıbüyümüş Arazi (Overgrown + Acre)[cite: 2]. Northwest -> güneybatı kastediliyor (metinde kuzeybatı).
     -- Bloodclaw tribe -> Kanlıpençe kabilesi, pelts -> kürkler / postlar. Gilneas = Gilneas[cite: 2].
-    -- Bloodclaw Pelts -> Kanlıpençe Postları. Corporal Ranworth -> Onbaşı Ranworth kalmıştır[cite: 1].
+    -- Bloodclaw Pelts -> Kanlıpençe Postları. Corporal Ranworth -> Onbaşı Ranworth kalmıştır.
     -- Ravenshire = Kuzgunbucağı (Ravenshire)[cite: 2]. Realm -> diyar / krallık, forests -> ormanlar, peace -> huzur / barış.
     ["40926"] = {
     ["Title"]="Gilneas'ı Güvenceye Almak I",
     ["Description"]="Topraklarımız, buralardan engelsizce geçen worgenların pis iziyle lekelendi. Kraliyetçiler (royalists), onların türünün bir hastalık (disease) gibi yayılmasına izin vererek halkı cezalandırmayı uygun gördüler. Worgenlar şimdi bile buranın hemen kuzeybatısındaki Aşırıbüyümüş Arazi'ye (Overgrown Acre) kadar ulaşıyor[cite: 2]. Eğer onlar bu tehdide bir son vermeyeceklerse, biz vermeliyiz. Gilneas (Gilneas) içinde sinsi sinsi dolaşan Kanlıpençe (Bloodclaw) kabilesini bul, onları avla ve postlarından (pelts) on tane kurtar[cite: 2].",
-    ["Objectives"]="Gilneas'taki Kuzgunbucağı'nda bulunan Onbaşı Ranworth için Kanlıpençe worgenlarından 10 Kanlıpençe Postu (Bloodclaw Pelts) topla[cite: 1, 2].",
+    ["Objectives"]="Gilneas'taki Kuzgunbucağı'nda bulunan Onbaşı Ranworth için Kanlıpençe worgenlarından 10 Kanlıpençe Postu (Bloodclaw Pelts) topla.",
     ["Progress"]="Worgenlar ayıklandı mı?",
     ["Completion"]="Çabaların zamanla diyarı (realm) daha iyi hale getirecektir. Ormanlarımızda ne kadar az worgen sinsice dolaşırsa, barış (peace) durumuna o kadar hızlı dönebiliriz.",
     ["minlevel"]="0",
@@ -39798,12 +39798,12 @@ QuestTranslator_QuestData = {
 -- Securing Gilneas II
     -- Bloodclaw -> Kanlıpençe. Alpha of their packs -> sürülerinin alfası, alpha -> alfa. Cave -> mağara, northwest -> kuzeybatı.
     -- Worgen camp -> worgen kampı, west -> batı, Northgate Tower -> Kuzeykapısı Kulesi (North + Gate + Tower)[cite: 2]. Job -> iş.
-    -- Bloodclaw Alpha -> Kanlıpençe Alfası. Corporal Ranworth -> Onbaşı Ranworth kalmıştır[cite: 1].
+    -- Bloodclaw Alpha -> Kanlıpençe Alfası. Corporal Ranworth -> Onbaşı Ranworth kalmıştır.
     -- Ravenshire = Kuzgunbucağı[cite: 2], Gilneas = Gilneas[cite: 2]. Worgen den -> worgen ini. Chains of command -> komuta zincirleri. Duty -> görev.
     ["40927"] = {
     ["Title"]="Gilneas'ı Güvenceye Almak II",
     ["Description"]="Kanlıpençe'yi (the Bloodclaw) durdurmak için, sürülerinin alfasına (alpha of their packs) bir son vermeliyiz. Worgenların bizzat en güçlüleri \"alfa\" (alpha) olarak bilinir ve daha küçük olan worgenların geri kalanına komuta eden bu yaratıklardır. Kanlıpençe Alfası (The Bloodclaw Alpha) kuzeybatıdaki bir mağaranın içinde bulunabilir. Kuzeykapısı Kulesi'nin (Northgate Tower) batısındaki worgen kampını ara[cite: 2]. Mağara hemen yakınında olmalı. Onlardan on üç tanesini katlet ve iş bittiğinde bana geri dön.",
-    ["Objectives"]="Gilneas'taki Kuzgunbucağı'nda bulunan Onbaşı Ranworth için kuzeydeki mağaralarda dolanan 13 Kanlıpençe Alfası'nı (Bloodclaw Alpha) katlet[cite: 1, 2].",
+    ["Objectives"]="Gilneas'taki Kuzgunbucağı'nda bulunan Onbaşı Ranworth için kuzeydeki mağaralarda dolanan 13 Kanlıpençe Alfası'nı (Bloodclaw Alpha) katlet.",
     ["Progress"]="Önündeki göreve hazır ol. Yanında biraz yardım getirmeni tavsiye ederim. Bir worgen inine (worgen den) saldırmak kolay bir iş değildir.",
     ["Completion"]="İyi iş çıkardın, YOUR_NAME. Kanlıpençe'nin yeni komuta zincirleri (chains of command) kurmak için mücadele ederken kendi kendini paralaması artık an meselesi olacaktır. Gilneas (Gilneas) halkına karşı olan görevin (duty) ödülsüz kalmayacak[cite: 2]. Lütfen yaptığın her şeyin bir teşekkürü olarak bu eşyalardan birini al.",
     ["minlevel"]="0",
@@ -39814,13 +39814,13 @@ QuestTranslator_QuestData = {
     -- Roadways -> yollar, nature -> doğa. Forward sentries -> ileri gözcüler.
     -- Northpoint -> Kuzeynoktası (Northpoint Tower kastediliyor).
     -- Bloodfen Raptor's -> Kanlıbataklık Raptorları. Bloodfen Screechers -> Kanlıbataklık Çığlıkçıları.
-    -- Theramore = Theramore[cite: 2], Captain Harker -> Kaptan Harker kalmıştır[cite: 1].
+    -- Theramore = Theramore[cite: 2], Captain Harker -> Kaptan Harker kalmıştır.
     -- Northpoint Tower -> Kuzeynoktası Kulesi[cite: 2], Dustwallow Marsh = Dustwallow Bataklığı[cite: 2].
     -- Supply trips -> erzak seferleri, swamp -> bataklık. Payment -> ödeme.
     ["40418"] = {
     ["Title"]="Kuzeynoktası'nı Güvenceye Almak",
     ["Description"]="Her geçen hafta yollar (roadways) daha da tehlikeli hale geliyor. Buradaki doğa (nature) her zaman daha fazla zemin kazanmak isteyerek sürekli bölgeye tecavüz ediyor. Eğer ileri gözcülerimizin (forward sentries) erzaklarını eksiltmemek istiyorsak, Kuzeynoktası'na (Northpoint) giden yol secured kalmalıdır. En büyük tehdidimiz şu anda kuzeyimizde üremekte olan Kanlıbataklık Raptorlarıdır (Bloodfen Raptor's). Eğer Kuzeynoktası'nı bu tehditten kurtarmanın bir yolunu bulabilirsen, sana uygun şekilde ödeme yapılmasını sağlardım; Theramore'un (Theramore) sıkıntılarını telafi edecek bir yol bulabileceğinden eminim[cite: 2]. Kuzeye yönel ve orada bulduğun Kanlıbataklık Çığlıkçılarını (Bloodfen Screechers) katlet.",
-    ["Objectives"]="Dustwallow Bataklığı'ndaki Kuzeynoktası Kulesi'nde bulunan Kaptan Harker (Captain Harker) için 14 Kanlıbataklık Çığlıkçısı katlet[cite: 1, 2].",
+    ["Objectives"]="Dustwallow Bataklığı'ndaki Kuzeynoktası Kulesi'nde bulunan Kaptan Harker (Captain Harker) için 14 Kanlıbataklık Çığlıkçısı katlet.",
     ["Progress"]="Hiç şansın yaver gitti mi?",
     ["Completion"]="Şimdi o raptorlar ayıklandığına göre, bataklıkta (swamp) çok fazla endişelenmeden daha fazla erzak seferi (supply trips) yapabiliriz. Theramore (Theramore) adına senin için bir ödeme (payment) toplamayı kendime görev edindim; çok fazla olmasa da her yardıma ödül verilmelidir[cite: 2].",
     ["minlevel"]="0",
@@ -39830,12 +39830,12 @@ QuestTranslator_QuestData = {
 -- Securing the Keep
     -- Stromgarde Keep = Stromgarde Kalesi (Stromgarde Keep)[cite: 2]. Sanctum -> Tapınak / Mukaddes Alan (The Sanctum).
     -- Old kingdom -> eski krallık. Prince -> prens, bounty -> ödül / kelle ödülü. Boss -> patron. Masters -> efendiler.
-    -- Prince Galen Trollbane -> Prens Galen Trollerinbelası kalmıştır[cite: 1]. Lord Falconcrest -> Lord Şahinyuvası kalmıştır[cite: 1].
+    -- Prince Galen Trollbane -> Prens Galen Trollerinbelası kalmıştır. Lord Falconcrest -> Lord Şahinyuvası kalmıştır.
     -- Compensated -> tazmin edilmek / ödüllendirilmek, services -> hizmetler. Generosity -> cömertlik, weakness -> zayıflık.
     ["39992"] = {
     ["Title"]="Kaleyi Güvenceye Almak",
     ["Description"]="Stromgarde Kalesi'ne (Stromgarde Keep) giriş veya çıkışın tek yolu artık bizim kontrolümüz altında olduğuna göre, eski krallığın (old kingdom) son sığınağı olan Tapınak'ı (The Sanctum) güvenceye almanın zamanı geldi[cite: 2]. Bu sözde prensten (prince) artık bıktım. Başıma kelle ödülü (bounty) koyduğuna inanabiliyor musun? Ha! Ona buralarda patronun (boss) kim olduğunu öğretmenini istiyorum. Geçmişten geriye kalan her şey ölüp gömüldüğünde, Stromgarde'ın gerçek efendileri (masters) biz olacağız.",
-    ["Objectives"]="Prens Galen Trollerinbelası'nı (Prince Galen Trollbane) öldür ve Lord Şahinyuvası'na (Lord Falconcrest) geri dön[cite: 1].",
+    ["Objectives"]="Prens Galen Trollerinbelası'nı (Prince Galen Trollbane) öldür ve Lord Şahinyuvası'na (Lord Falconcrest) geri dön.",
     ["Progress"]="İş bitmeden önce bana geri dönmek hakkında ne söylemiştim?",
     ["Completion"]="Etrafımdaki şu salakların bir ayda yaptığından daha fazlasını bir günde yaptın. Hizmetlerinin (services) karşılığını düzgün bir şekilde almanı sağlayacağım. Ancak cömertliğimi (generosity) zayıflıkla (weakness) karıştırma. Eğer bana karşı bir hamle yapacak olursan, en az o prens kadar çabuk ölürsün. Aklına başka fikirler gelmesini istemiyorum.",
     ["minlevel"]="0",
@@ -39843,14 +39843,14 @@ QuestTranslator_QuestData = {
     }, -- end Securing the Keep
 
 -- Securing the Roads
-    -- Castle -> kale, supply lines -> tedarik hatları. Prick -> pislik, Valorcall -> Değerçağrısı kalmıştır (Lieutenant Valorcall)[cite: 1].
+    -- Castle -> kale, supply lines -> tedarik hatları. Prick -> pislik, Valorcall -> Değerçağrısı kalmıştır (Lieutenant Valorcall).
     -- Patrols -> devriyeler. Guards -> muhafızlar, operative -> ajan / görevli.
-    -- Lieutenant Valorcall -> Teğmen Değerçağrısı kalmıştır[cite: 1]. Stromgarde Cavalrymen -> Stromgarde Süvarileri.
+    -- Lieutenant Valorcall -> Teğmen Değerçağrısı kalmıştır. Stromgarde Cavalrymen -> Stromgarde Süvarileri.
     -- Cunning -> kurnaz.
     ["39991"] = {
     ["Title"]="Yolları Güvenceye Almak",
-    ["Description"]="Bize katılmaya karar vermene sevindim, YOUR_NAME. Sahada yaptığın çalışmaları duydum ve etkilendiğimi söylemeliyim. Sen tam da bu organizasyonda ihtiyacımız olan son derece motivasyonu yüksek kişisin. Eğer bu kaleyi (castle) uzun vadede elimizde tutacaksak, tedarik hatlarımızı (supply lines) güvenceye almalıyız. O pislik Değerçağrısı'na (Valorcall) pusu kurmanı ve devriyelerine (patrols) tamamen bir son vermeni istiyorum[cite: 1]. Yanında ona eşlik eden muhafızlar (guards) var, bu yüzden dikkatli ol; hatta sana yardım etmesi için başka bir ajan (operative) bile getirebilirsin, ama bu işi bitir! O ölene kadar bana geri dönme.",
-    ["Objectives"]="Teğmen Değerçağrısı'nı (Lieutenant Valorcall) ve onunla birlikte devriye gezen 2 Stromgarde Süvarisini (Stromgarde Cavalrymen) öldür[cite: 1].",
+    ["Description"]="Bize katılmaya karar vermene sevindim, YOUR_NAME. Sahada yaptığın çalışmaları duydum ve etkilendiğimi söylemeliyim. Sen tam da bu organizasyonda ihtiyacımız olan son derece motivasyonu yüksek kişisin. Eğer bu kaleyi (castle) uzun vadede elimizde tutacaksak, tedarik hatlarımızı (supply lines) güvenceye almalıyız. O pislik Değerçağrısı'na (Valorcall) pusu kurmanı ve devriyelerine (patrols) tamamen bir son vermeni istiyorum. Yanında ona eşlik eden muhafızlar (guards) var, bu yüzden dikkatli ol; hatta sana yardım etmesi için başka bir ajan (operative) bile getirebilirsin, ama bu işi bitir! O ölene kadar bana geri dönme.",
+    ["Objectives"]="Teğmen Değerçağrısı'nı (Lieutenant Valorcall) ve onunla birlikte devriye gezen 2 Stromgarde Süvarisini (Stromgarde Cavalrymen) öldür.",
     ["Progress"]="İş bitmeden önce bana geri dönmek hakkında ne söylemiştim?",
     ["Completion"]="Aferin, YOUR_NAME. Görüyorum ki sadece yetenekli değil, aynı zamanda kurnazsın (cunning).",
     ["minlevel"]="0",
@@ -39858,25 +39858,25 @@ QuestTranslator_QuestData = {
     }, -- end Securing the Roads
     -- Seek the Dryads
     -- Dryads -> Dryadlar, Quel'dorei -> Quel'dorei (Yüksek Elfler)[cite: 2]. Arcane -> Arkana / Gizem, Withered -> Solmuş.
-    -- Sleeping Tree -> Uyuyan Ağaç (Sleeping + Tree). Rine -> Rine kalmıştır[cite: 1].
+    -- Sleeping Tree -> Uyuyan Ağaç (Sleeping + Tree). Rine -> Rine kalmıştır.
     -- Sister of Autumn -> Sonbahar Kız Kardeşi (Sister + of + Autumn).
     ["41250"] = {
     ["Title"]="Dryadları Aramak",
-    ["Description"]="Yardım teklif edilmesinden oldukça memnunum. Dürüst olmak gerekirse, buraya Quel'dorei halkının çektikleri ıstırabı dindirmenin yollarını bulmalarına yardım etmek için geldim[cite: 2]. Onların birçoğuna meditasyon yapmayı ve Arkana (Arcane) kullanımlarını sınırlamaya çalışmayı öğretiyor olsam da, bu kalıcı bir çözüm değil. Bazıları diğerlerinden daha hızlı Solmuş (Withered) hale geliyor. Gardiyanım —ya da zindancım— gitmeme izin vermeyeceği için meskenimden ayrılmama izin verilmediğinden, senden adanın tam ortasındaki Uyuyan Ağaç'a (Sleeping Tree) gitmeni isteyeceğim. İşleri karıştırırken karşılaştığım bir Sonbahar Kız Kardeşi (Sister of Autumn) olan Rine'ı orada bulacaksın[cite: 1]. Oraya en son gittiğimde, yavaşça bir solmuşa dönüşmekte olan birini dinlenmesi için içeriye bırakmıştık.",
-    ["Objectives"]="Uyuyan Ağaç'ta Rine'ı ara[cite: 1].",
+    ["Description"]="Yardım teklif edilmesinden oldukça memnunum. Dürüst olmak gerekirse, buraya Quel'dorei halkının çektikleri ıstırabı dindirmenin yollarını bulmalarına yardım etmek için geldim[cite: 2]. Onların birçoğuna meditasyon yapmayı ve Arkana (Arcane) kullanımlarını sınırlamaya çalışmayı öğretiyor olsam da, bu kalıcı bir çözüm değil. Bazıları diğerlerinden daha hızlı Solmuş (Withered) hale geliyor. Gardiyanım —ya da zindancım— gitmeme izin vermeyeceği için meskenimden ayrılmama izin verilmediğinden, senden adanın tam ortasındaki Uyuyan Ağaç'a (Sleeping Tree) gitmeni isteyeceğim. İşleri karıştırırken karşılaştığım bir Sonbahar Kız Kardeşi (Sister of Autumn) olan Rine'ı orada bulacaksın. Oraya en son gittiğimde, yavaşça bir solmuşa dönüşmekte olan birini dinlenmesi için içeriye bırakmıştık.",
+    ["Objectives"]="Uyuyan Ağaç'ta Rine'ı ara.",
     ["Progress"]="Evet?",
-    ["Completion"]="Selamlar, ben Rine ve şu anda Sonbahar Kız Kardeşleri'nin huzurundasın[cite: 1].",
+    ["Completion"]="Selamlar, ben Rine ve şu anda Sonbahar Kız Kardeşleri'nin huzurundasın.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Seek the Dryads
 
 -- Seeking Acceptance
     -- Galak -> Galak (Centaur kabilesi). Village -> köy.
-    -- Gennia Runetotem -> Gennia Rünatası kalmıştır[cite: 1]. Centaur -> centaur / kentavr. extinction -> neslinin tükenmesi / yok oluş.
+    -- Gennia Runetotem -> Gennia Rünatası kalmıştır. Centaur -> centaur / kentavr. extinction -> neslinin tükenmesi / yok oluş.
     ["40364"] = {
     ["Title"]="Kabul Görmeyi Aramak",
     ["Description"]="Galak'ın (Galak) yarattığı acil tehdit giderildiğine göre, belki yakındaki köyün bir üyesini bulup benim adıma konuşabilirsin.",
-    ["Objectives"]="Gennia Rünatası (Gennia Runetotem) ile konuş[cite: 1].",
+    ["Objectives"]="Gennia Rünatası (Gennia Runetotem) ile konuş.",
     ["Progress"]="Aklında bir şey olduğunu görüyorum. Rahatça konuş.",
     ["Completion"]="Daha önce hiç bu kadar tuhaf bir hikaye duymamıştım ve bunun doğru olduğuna inanmakta güçlük çekiyorum. Biz centaurları (centaur) bizim yok oluşumuzu (extinction) isteyen canavarlardan başka bir şey olarak görmedik. Eğer o hala sözünün arkasındaysa, belki yardımcı olabilirim.",
     ["minlevel"]="0",
@@ -39886,13 +39886,13 @@ QuestTranslator_QuestData = {
 -- Seeking Justice or Vengeance?
     -- Adventures -> maceralar, Azeroth = Azeroth[cite: 2]. Scum -> pislikler, peace -> barış / huzur.
     -- Scarlet Crusade -> Kızıl Haçlı Seferi (Scarlet Crusade)[cite: 2]. Justice or vengeance -> adalet mi yoksa intikam mı.
-    -- Demons -> iblisler / karanlık taraf. Vladeus kalmıştır[cite: 1], report -> rapor. Quill and ink -> tüy kalem ve mürekkep.
+    -- Demons -> iblisler / karanlık taraf. Vladeus kalmıştır, report -> rapor. Quill and ink -> tüy kalem ve mürekkep.
     ["80706"] = {
     ["Title"]="Adalet mi Yoksa İntikam mı Aramak?",
     ["Description"]="Azeroth (Azeroth) genelindeki çeşitli maceralarında pek çok düşmanla karşılaştın, ilk defa içinde bir şeyler yerine oturdu[cite: 2]. Bu çarpık dünyanın o lanet olası huzuruna (peace) kavuşması için daha kaç pisliği (scum) dövmek, sakatlamak ve öldürmek zorundasın? Kızıl Haçlı Seferi (The Scarlet Crusade) senin için de kişisel bir karın ağrısı oldu, belki de bir tür adalet ya da intikam vaktidir?[cite: 2] İhtiyacın olanı elde etmene yardımcı olacak aletlerle dolu bir masayla, kendi iblislerini (demons) kucaklamaya hazırsın.",
     ["Objectives"]="Ne pahasına olursa olsun her şeyi öğren.",
     ["Progress"]="Rapor eksik görünüyor, mahkumun bazı temel bilgileri dışında gerçekten yararlı hiçbir şey yok.",
-    ["Completion"]="Tüy kalem ve mürekkebe (quill and ink) uzanarak, Vladeus'tan kopardığın bilgileri not ediyor ve böylece raporu nihayete erdiriyorsun[cite: 1].",
+    ["Completion"]="Tüy kalem ve mürekkebe (quill and ink) uzanarak, Vladeus'tan kopardığın bilgileri not ediyor ve böylece raporu nihayete erdiriyorsun.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Seeking Justice or Vengeance?
@@ -39915,14 +39915,14 @@ QuestTranslator_QuestData = {
     }, -- end Seeking Lost Answers
 
 -- Seeking Seekers
-    -- Draenethyst -> Draenetisti (Özel kristal terimi). Sanv K'la kalmıştır[cite: 1]. Acolytes -> çömezler / çömez rahipler.
-    -- Kum'isha the Collector -> Toplayıcı Kum'isha kalmıştır[cite: 1]. Cursed lands -> lanetli topraklar.
+    -- Draenethyst -> Draenetisti (Özel kristal terimi). Sanv K'la kalmıştır. Acolytes -> çömezler / çömez rahipler.
+    -- Kum'isha the Collector -> Toplayıcı Kum'isha kalmıştır. Cursed lands -> lanetli topraklar.
     -- Draenei -> draenei, rift walking magic -> yarık yürüyüşü büyüsü. Sand -> kum, vermin -> haşarat, rabid beasts -> kudurmuş canavarlar.
     -- Crystals -> kristaller. Rummaged Chest -> Kurcalanmış Sandık. Blasted Lands = Lanetli Topraklar (Blasted Lands)[cite: 2].
     ["41297"] = {
     ["Title"]="Arayıcıları Aramak",
-    ["Description"]="Kayıp olanları geride bıraktım; liderleri kutsal Draenetist'in (Draenethyst) üzerine salyalar akıtan, gerçek potansiyellerini unutan beceriksiz budalalara dönüştüler. Sanv K'la da farklı değil, umut onun ve çömezlerinin (acolytes) kalbini zehirledi ve bir açgözlülük dünyasında kapana kısıldığı gerçeğini göz ardı etmesine sebep oldu[cite: 1]. Bu senin için de geçerli. Arzuladığın şeyi benden koparıp almak için değilse, neden karşımda, Toplayıcı Kum'isha'nın (Kum'isha the Collector) önünde dikiliyorsun ki?[cite: 1] Ama seni ve senin gibileri biliyorum; senin açgözlülüğün benim hırslarımı ilerletecek olan şeydir. Bu lanetli topraklarda (cursed lands) dolaşanlar, bunu yapacak imkanları olmadan yarık yürüyüşü büyüsünü (rift walking magic) kullanan akılsız draeneilerdir. Bitmek bilmeyen Draenetist arayışlarında akıllarını kaybettiler, oldukları haşaratlar (vermin) gibi kumları deşeliyorlar. Kudurmuş canavarlar (rabid beasts), hepsi! Kampıma baskın düzenleyip değerli bir kristal zulasını çaldılar. Onları katlet, eşyalarımı geri al; ben de senin bu kullanışlılığını ödüllendirebilirim.",
-    ["Objectives"]="Lanetli Topraklar'daki draeneilerden Kurcalanmış Sandık'ı (Rummaged Chest) geri al ve Lanetli Topraklar'daki Kum'isha'ya ulaştır[cite: 1, 2].",
+    ["Description"]="Kayıp olanları geride bıraktım; liderleri kutsal Draenetist'in (Draenethyst) üzerine salyalar akıtan, gerçek potansiyellerini unutan beceriksiz budalalara dönüştüler. Sanv K'la da farklı değil, umut onun ve çömezlerinin (acolytes) kalbini zehirledi ve bir açgözlülük dünyasında kapana kısıldığı gerçeğini göz ardı etmesine sebep oldu. Bu senin için de geçerli. Arzuladığın şeyi benden koparıp almak için değilse, neden karşımda, Toplayıcı Kum'isha'nın (Kum'isha the Collector) önünde dikiliyorsun ki? Ama seni ve senin gibileri biliyorum; senin açgözlülüğün benim hırslarımı ilerletecek olan şeydir. Bu lanetli topraklarda (cursed lands) dolaşanlar, bunu yapacak imkanları olmadan yarık yürüyüşü büyüsünü (rift walking magic) kullanan akılsız draeneilerdir. Bitmek bilmeyen Draenetist arayışlarında akıllarını kaybettiler, oldukları haşaratlar (vermin) gibi kumları deşeliyorlar. Kudurmuş canavarlar (rabid beasts), hepsi! Kampıma baskın düzenleyip değerli bir kristal zulasını çaldılar. Onları katlet, eşyalarımı geri al; ben de senin bu kullanışlılığını ödüllendirebilirim.",
+    ["Objectives"]="Lanetli Topraklar'daki draeneilerden Kurcalanmış Sandık'ı (Rummaged Chest) geri al ve Lanetli Topraklar'daki Kum'isha'ya ulaştır.",
     ["Progress"]="Yeteneklerin seni yüzüstü mü bıraktı? Seni değersiz tortu, seninle zaman kaybetmemeliydim.",
     ["Completion"]="Hasar görmüş, beklendiği gibi. Vahşi gaddar. En azından içindekiler bozulmamış. Kendini şanslı sayabilirsin o halde. Yine de, bu parşömen... olabilir mi...? Pislik herif, açgözlülüğün bana büyük hizmette bulundu ancak ödülün henüz talep edilmeye hazır değil.",
     ["minlevel"]="0",
@@ -39933,13 +39933,13 @@ QuestTranslator_QuestData = {
     -- Shadowforge -> Gölgedemiri, corrupt -> yozlaşmış. Shadowforge Senators / Shadowforge Senator's -> Gölgedemiri Senatörleri.
     -- Shadowforge Senate -> Gölgedemiri Senatosu.
     -- Karakaya(Blackrock) Mountain / Karakaya(Blackrock) Depths / Karakaya(Blackrock) Pass -> Karakaya Dağı / Karakaya Derinlikleri / Karakaya Geçidi[cite: 2].
-    -- Burning Steppes = Yanık Bozkırlar[cite: 2], Orvak Sternrock -> Orvak Sertkaya kalmıştır[cite: 1].
+    -- Burning Steppes = Yanık Bozkırlar[cite: 2], Orvak Sternrock -> Orvak Sertkaya kalmıştır.
     ["40464"] = {
     ["Title"]="Senato İntikamı",
     ["Description"]="Gölgedemiri (Shadowforge) bir zamanlar gurur duyduğum bir yuvaydı. Şimdi onun gerçekten ne olduğunu biliyorum; aşağılık ve yozlaşmış (corrupt). Özünde, Gölgedemiri Senatörlerinin (Shadowforge Senators) verdiği kararların çoğu, sadece içeride yaşayan insanların pahasına kendi çıkarlarını ilerletmek içindir. Senden benim için her şeyden daha önemli bir iyilik istiyorum. Gölgedemiri Senatosu'nun (Shadowforge Senate) kökünün kazınması gerekiyor; şehrin derinliklerinde güvende ve rahatlar, korkuyu hissetmelerini sağla. Gölgedemiri'ne Karakaya Dağı'nın (Blackrock Mountain) derinliklerinden girebilirsin; oraya git, onları bulmak ve öldürmek için Karakaya Derinlikleri'ne (Blackrock Depths) göğüs ger[cite: 2].",
-    ["Objectives"]="Yanık Bozkırlar'daki Karakaya Geçidi'nde bulunan Orvak Sternrock için Karakaya Derinlikleri'nin derinliklerinde 25 Gölgedemiri Senatörünü (Shadowforge Senators) katlet[cite: 1, 2].",
+    ["Objectives"]="Yanık Bozkırlar'daki Karakaya Geçidi'nde bulunan Orvak Sternrock için Karakaya Derinlikleri'nin derinliklerinde 25 Gölgedemiri Senatörünü (Shadowforge Senators) katlet.",
     ["Progress"]="Bu iş yapıldı mı, senato ortadan kaldırıldı mı?",
-    ["Completion"]="<Orvak içinden küçük, keyifli bir kıkırdama koyuverir.>[cite: 1] İçimde yer etmiş olan o nefret soğumaya başladı, bir zamanlar öfkeyle yanan o ateş dindi. Sonlarıyla karşılaştıklarını bilmek beni dinçlikle dolduruyor. Derinden biliyorum ki Gölgedemiri asla kurtarılamaz; ne olursa olsun, sana teşekkür ederim. Artık buna ihtiyacım olmayacak, çünkü geri dönmeye niyetim yok; belki sen onun için bir kullanım alanı bulabilirsin.",
+    ["Completion"]="<Orvak içinden küçük, keyifli bir kıkırdama koyuverir.> İçimde yer etmiş olan o nefret soğumaya başladı, bir zamanlar öfkeyle yanan o ateş dindi. Sonlarıyla karşılaştıklarını bilmek beni dinçlikle dolduruyor. Derinden biliyorum ki Gölgedemiri asla kurtarılamaz; ne olursa olsun, sana teşekkür ederim. Artık buna ihtiyacım olmayacak, çünkü geri dönmeye niyetim yok; belki sen onun için bir kullanım alanı bulabilirsin.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Senatorial Revenge
@@ -39947,12 +39947,12 @@ QuestTranslator_QuestData = {
 -- Serpentbloom
     -- Main quest -> ana görev, Naralex = Naralex, Nightmare -> Kabus (The Nightmare). Caverns -> mağaralar / dehlizler.
     -- Serpentbloom -> Yılançiçeği (Serpent + Bloom). Eternal slumber -> ebedi uyku, venom of a serpent -> bir yılanın zehri.
-    -- Alanndarian Nightsong -> Alanndarian Geceşarkısı kalmıştır[cite: 1]. Auberdine = Auberdine[cite: 2].
+    -- Alanndarian Nightsong -> Alanndarian Geceşarkısı kalmıştır. Auberdine = Auberdine[cite: 2].
     -- Moonglade = Moonglade[cite: 2].
     ["60125"] = {
     ["Title"]="Yılançiçeği",
     ["Description"]="Ana görevin (main quest) Naralex'i Kabus'tan (the Nightmare) kurtarmak olsa da, mağaraları (caverns) kirleten yozlaşma hakkında daha fazla şey öğrenebiliriz. Naralex'in ebedi uykusuna (eternal slumber) dalmasından sonra mağaraların içinde Yılançiçeği (Serpentbloom) adında bir bitkinin filizlendiği ve bir yılanın zehrini (venom of a serpent) barındırdığı söylenir. Mağaralara atılmanı ve bana bu bitkilerden 10 tane getirmeni istiyorum.",
-    ["Objectives"]="Auberdine'deki Alanndarian Nightsong seni 10 Yılançiçeği (Serpentbloom) toplamakla görevlendirdi[cite: 1, 2].",
+    ["Objectives"]="Auberdine'deki Alanndarian Nightsong seni 10 Yılançiçeği (Serpentbloom) toplamakla görevlendirdi.",
     ["Progress"]="Çiçekleri topladın mı? Kabus (the Nightmare) hakkında bir şeyler açığa çıkarabilirler.",
     ["Completion"]="Onları buldun! Bunları derhal Moonglade'e (Moonglade) göndereceğim[cite: 2].",
     ["minlevel"]="0",
@@ -39980,14 +39980,14 @@ QuestTranslator_QuestData = {
     -- Wraiths -> tayflar, Wildhammer spirits -> Yabançekici ruhları. Battle for Grim Batol -> Grim Batol Savaşı[cite: 2].
     -- Restless -> huzursuz, tainted -> lekelenmiş / yozlaşmış, oozes -> sümüksü yaratıklar / balçıklar. Proof -> kanıt.
     -- Samples -> örnekler, residue -> kalıntı / tortu. Shadow-Cursed Residuum -> Gölge Lanetli Tortu. Outpost tunnels -> ileri karakol tünelleri.
-    -- Dorthas kalmıştır[cite: 1], blades -> kılıçlar / silahlar, books -> kitaplar. Shadow Curse -> Gölge Laneti.
+    -- Dorthas kalmıştır, blades -> kılıçlar / silahlar, books -> kitaplar. Shadow Curse -> Gölge Laneti.
     -- Modgud = Modgud. War -> savaş, ruins -> harabeler, stone -> taş, region -> bölge. Dalaran = Dalaran[cite: 2], mages -> büyücüler.
     ["41868"] = {
     ["Title"]="Gölge Laneti",
     ["Description"]="Çadırlarımızı (tents) öylece rüzgarın bizi götürdüğü her yere fırlatmadık. Burada olmamızın bir sebebi var. Hemen arkamızda eski bir mağara var — aslına bakarsan daha çok bir tünel gibi. Ve nereye çıkıyor? Grim Batol'a (Grim Batol)[cite: 2]. Ya da ondan geriye kalanlara. Yine de panik yapma — ana şehrin önü kapatılmış durumda. Daha derinlerdeki salonlar çağlar önce çöktü. Ulaşabildiğimiz yer sadece unutulmuş bir ileri karakol, dış harabelerin (outer ruins) bir parçası. Etrafı kurcalamayı denedik ama fazla ilerleyemedik. Tayflar (wraiths) bizi geri püskürttü — muhtemelen Grim Batol Savaşı (Battle for Grim Batol) sırasında düşmüş Yabançekici ruhları (Wildhammer spirits)[cite: 2]. Yalnızca... onlarda ters giden bir şeyler var. Sadece huzursuz (restless) değiller. Bulduğun şu balçıklar (oozes) gibi yozlaşmışlar. Daha fazla kanıta ihtiyacım var. Eğer oraya inmeye, o ruhları huzura kavuşturmaya ve bulduğun her şeyi —örnekler, lanetli kalıntılar, herhangi bir şey— bana geri getirmeye istekliysen, sanırım sonunda burada neler döndüğünü çözebileceğiz.",
     ["Objectives"]="Grim Batol (Grim Batol) yakınlarındaki ileri karakol tünellerinde bulunan yozlaşmış tayflardan 10 Gölge Lanetli Tortu (Shadow-Cursed Residuum) topla[cite: 2].",
     ["Progress"]="Keşke seninle gelebilseydim ama... şey, kitaplarla silahlar (blades) arasından hangisinde daha iyi olduğumu zor yoldan öğrendim.",
-    ["Completion"]="<Dorthas ellerindeki örnekleri evirip çevirerek gözlerini kısar. İfadesi kararır.>[cite: 1] Korktuğum gibi... Bu rastgele bir yozlaşma değil. Bu, Gölge Laneti (Shadow Curse) — savaş sırasında Modgud'un (Modgud) Grim Batol (Grim Batol) üzerine saldığı felaketin aynısı. Ve hala aktif. Bunca yıldan sonra bile lanet dışarı sızıyor, harabelerin (ruins) ötesine yayılıyor. Taş (stone) onu geri tutamaz. Zaman onu zayıflatmadı. Eğer kimse harekete geçmezse... tüm bu bölge (region) düşebilir. Bu tek başımıza halledebileceğimizin ötesinde bir şey. Dalaran'daki (Dalaran) büyücülere haber göndereceğim, neler olduğunu bilmeleri gerekiyor[cite: 2]. Bize gelince... şimdi tek yapabileceğimiz nöbet tutmak — ve dua etmek.",
+    ["Completion"]="<Dorthas ellerindeki örnekleri evirip çevirerek gözlerini kısar. İfadesi kararır.> Korktuğum gibi... Bu rastgele bir yozlaşma değil. Bu, Gölge Laneti (Shadow Curse) — savaş sırasında Modgud'un (Modgud) Grim Batol (Grim Batol) üzerine saldığı felaketin aynısı. Ve hala aktif. Bunca yıldan sonra bile lanet dışarı sızıyor, harabelerin (ruins) ötesine yayılıyor. Taş (stone) onu geri tutamaz. Zaman onu zayıflatmadı. Eğer kimse harekete geçmezse... tüm bu bölge (region) düşebilir. Bu tek başımıza halledebileceğimizin ötesinde bir şey. Dalaran'daki (Dalaran) büyücülere haber göndereceğim, neler olduğunu bilmeleri gerekiyor[cite: 2]. Bize gelince... şimdi tek yapabileceğimiz nöbet tutmak — ve dua etmek.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Shadow Curse
@@ -39998,12 +39998,12 @@ QuestTranslator_QuestData = {
     -- Echoed -> yankılanmak, hills -> tepeler, unnatural-like -> doğal olmayan bir şekilde.
     -- Elves -> elfler, plant monsters -> bitki canavarları, blasted tanks -> lanet olası tanklar. Ancient cursed tomb -> kadim lanetli türbe.
     -- Doors -> kapılar, chums for life -> can dostu, promotion -> terfi, future -> gelecek.
-    -- Grumbling Grove -> Söylenme Korusu (Grumbling + Grove), Nert Blastentom -> Nert Dinamityuvası kalmıştır[cite: 1].
+    -- Grumbling Grove -> Söylenme Korusu (Grumbling + Grove), Nert Blastentom -> Nert Dinamityuvası kalmıştır.
     -- Heebie-jeebies -> ürperti / tüylerin ürpermesi. Angry ghost -> öfkeli hayalet.
     ["80107"] = {
     ["Title"]="Platodaki Gölge",
     ["Description"]="Şu anda senin yerinde olmak istemezdim, evlat (kid). Görüyorsun ya, o tuhaf akbabalar (vultures) ormandaki en kötü şey değil. Diğer fedailerden (bruisers) bazıları etrafa bakınıyordu ve ne kadar eski olduğu düşünülürse Uldaman'dan (Uldaman) kalma gibi görünen bir türbe (tomb) buldular[cite: 2]. Yaklaşmaya çalışmışlar ama içeriden gelen tekinsiz bir ses (unholy sound) duymuşlar. Bu adamlar daha önce patronun bazı \"ikna edici\" (persuasive) mülakatlarında bulundular ve hiç böyle sesler duymadıklarını söylediler. Tepelerin arasında, orada olmayan ağaçlardan sekip duruyormuş gibi tamamen doğal olmayan bir şekilde yankılandığını (echoed) belirttiler. Elflerle (elves) savaşırım. Bitki canavarlarıyla (plant monsters) savaşırım. Kendi lanet olası tanklarımızla (tanks) savaşırım! Ama kadim lanetli bir türbeyle işim olmaz. Oraya inmeni, o kapıların arkasında ne olduğunu öğrenmeni ve onunla ilgilenmeni istiyorum. Bunu benim için yap, seninle ömür boyu can dostu (chums for life) olalım. Geleceğinde (future) bir terfi bile olabilir.",
-    ["Objectives"]="Söylenme Korusu'ndaki (Grumbling Grove) türbeyi araştır, ardından Nert Blastentom'a geri dön[cite: 1].",
+    ["Objectives"]="Söylenme Korusu'ndaki (Grumbling Grove) türbeyi araştır, ardından Nert Blastentom'a geri dön.",
     ["Progress"]="Burası bana ürperti (heebie-jeebies) veriyor.",
     ["Completion"]="Birçoklarının ilki mi? Hayır, hayır, hayır. Patronun ne dediği umurumda değil, öfkeli bir hayalet (angry ghost) tarafından lanetlenmeye niyetim yok. Buradan tüymemiz lazım, evlat.",
     ["minlevel"]="0",
@@ -40017,13 +40017,13 @@ QuestTranslator_QuestData = {
     -- Sacred hill -> kutsal tepe, Hyjal = Hyjal[cite: 2]. Remnant energies -> kalıntı enerjiler, ripples of discord -> uyumsuzluk dalgalanmaları.
     -- Mountain -> dağ, situation -> durum, posthaste -> derhal / alelacele.
     -- Darkhollow Pass -> Karanlıkoyuk Geçidi (Dark + Hollow + Pass)[cite: 2], south -> güney, findings -> bulgular.
-    -- Disturbances -> huzursuzluklar / aksilikler, Arch Druid Dreamwind -> Baş Druid Rüyarüzgarı kalmıştır[cite: 1], Nordanaar = Nordanaar[cite: 2].
+    -- Disturbances -> huzursuzluklar / aksilikler, Arch Druid Dreamwind -> Baş Druid Rüyarüzgarı kalmıştır, Nordanaar = Nordanaar[cite: 2].
     -- Latent magic -> gizil büyü, wild -> yaban hayatı / doğa, evildoers -> kötülük yapanlar / kötüler.
     -- Spectre -> hayalet / tayf, white stag -> beyaz geyik / ak geyik, eyes witnessed -> gözlerin şahit oldu.
     ["41339"] = {
     ["Title"]="Gölgelenmiş Tayf",
     ["Description"]="YOUR_NAME, bizim soyumuz uyanık dünyada (waking world) savaşırken, Ysera ve müttefikleri olan Eski Zamanların Yaban Tanrıları (Wild Gods of Old), Zümrüt Rüya'da (Emerald Dream) kök salan hayal edilemez bir kötülük olan Kabus'u (the Nightmare) tüm güç ve kudretleriyle uzakta tutuyorlar[cite: 2]. Yıllar önce, Üçüncü Savaş (the Third War) sırasında Shan'do Fırtınaöfkesi (Shan'do Stormrage) ve Baş Rahibe Fısıltırüzgarı (High Priestess Whisperwind), Hyjal'ın alt dağlarındaki kutsal bir tepede güçlü bir varlıkla bir araya gelmişti[cite: 2]. Genellikle karşılaşmalarının kalıntı enerjileriyle (remnant energies) ışıldasa da, dağ boyunca ondan yayılan uyumsuzluk dalgalanmaları (ripples of discord) fark ettik. Mevcut durum göz önüne alındığında, arkasında neyin saklandığını alelacele (posthaste) açığa çıkarsak iyi olur. YOUR_NAME, güneydeki Karanlıkoyuk Geçidi (Darkhollow Pass) yakınlarındaki o bölgeyi ara ve bulgularınla bana geri dön[cite: 2].",
-    ["Objectives"]="Karanlıkoyuk Geçidi (Darkhollow Pass) yakınlarındaki huzursuzlukları araştır ve Nordanaar'daki Baş Druid Rüyarüzgarı'na (Arch Druid Dreamwind) rapor ver[cite: 1, 2].",
+    ["Objectives"]="Karanlıkoyuk Geçidi (Darkhollow Pass) yakınlarındaki huzursuzlukları araştır ve Nordanaar'daki Baş Druid Rüyarüzgarı'na (Arch Druid Dreamwind) rapor ver.",
     ["Progress"]="Tepenin gizil büyüsü (latent magic) doğayla uyum içinde olmayanlar tarafından bile hissedilebiliyor. Kötüleri (evildoers) cezbediyor olması göz ardı edemeyeceğimiz bir şey.",
     ["Completion"]="Bir tayf (spectre) mı dedin? Beyaz bir geyik (white stag) suretinde mi? Eğer gözlerinin şahit olduğu (eyes witnessed) şey doğruysa, o zaman artık boş boş dolanamayız!",
     ["minlevel"]="0",
@@ -40035,12 +40035,12 @@ QuestTranslator_QuestData = {
     -- Groldan's Excavation -> Groldan'ın Kazı Alanı (Groldan + Excavation)[cite: 2], north -> kuzey. Defenses -> savunmalar, spies -> casuslar.
     -- Sentries -> gözcüler, assaults -> saldırılar / taarruzlar. Ranks -> saflar. Trespass -> ihlal / tecavüz.
     -- Dark Iron Dwarves -> Kara Demir Cüceleri, Shadowforge Signets -> Gölgedemiri Nişanları.
-    -- Grunt Morkan -> Nefer Morkan kalmıştır[cite: 1], Shatterblade Point -> Parçalanmışbıçak Karargahı[cite: 2].
+    -- Grunt Morkan -> Nefer Morkan kalmıştır, Shatterblade Point -> Parçalanmışbıçak Karargahı[cite: 2].
     -- Glory and honor -> Şan ve onur, foe -> düşman, victory -> zafer, Horde = Horde. Journey -> yolculuk.
     ["41660"] = {
     ["Title"]="Gölgedemiri Akınları",
     ["Description"]="Birkaç hafta önce büyük bir Kara Demir (Dark Iron) grubu Amansız Menziller'den geçerek Parçalanmışbıçak'ın hemen kuzeyindeki Groldan'ın Kazı Alanı'na yerleşti[cite: 2]. Şimdiden savunmalarımızı (defenses) yokluyorlar, gözcülerimiz tarafından birden fazla kez casuslar (spies) görüldü. Bir şeyler planlıyorlar, bundan eminim. Güvenliğimizi korumak istiyorsak ilk darbeyi biz indirmeli ve herhangi bir saldırı (assaults) yapmalarını caydırmak için saflarını (ranks) seyreltmeliyiz. Groldan'ın Kazı Alanı'na (Groldan's Excavation) yönel ve bu ihlallerinin (trespass) bedelini onlara kanla ödet[cite: 2].",
-    ["Objectives"]="Groldan'ın Kazı Alanı (Groldan's Excavation) etrafındaki Kara Demir Cücelerini katlet ve Amansız Menziller'deki Parçalanmışbıçak Karargahı'nda bulunan Nefer Morkan için 15 Gölgedemiri Nişanı (Shadowforge Signets) topla[cite: 1, 2].",
+    ["Objectives"]="Groldan'ın Kazı Alanı (Groldan's Excavation) etrafındaki Kara Demir Cücelerini katlet ve Amansız Menziller'deki Parçalanmışbıçak Karargahı'nda bulunan Nefer Morkan için 15 Gölgedemiri Nişanı (Shadowforge Signets) topla.",
     ["Progress"]="Nişanlarla geri döndün mü?",
     ["Completion"]="Adına şan ve onur (glory and honor) olsun! Düşmanımızı mağlup ettin ve Horde'a zafer kazandırdın. Birkaç eşya hazırladım, birini al ve yolculuğunda (journey) sana yardımcı olmasına izin ver.",
     ["minlevel"]="0",
@@ -40052,11 +40052,11 @@ QuestTranslator_QuestData = {
     -- Altar of Storms -> Fırtınalar Altarı (Altar of Storms)[cite: 2], elite soldiers -> elit / seçkin askerler.
     -- Shadowsworn -> Gölgeye yeminliler kastediliyor (Shadowsworn cultists). strength -> güç, task -> görev.
     -- Shadowsworn Warlocks / Shadowsworn Enforcers / Shadowsworn Dreadweavers -> Gölgeye Yeminli Kara Büyücüler / Gölgeye Yeminli İnfazcılar / Gölgeye Yeminli Dehşetdokuyanlar.
-    -- Jaiymu kalmıştır[cite: 1], Horde = Horde. Friend -> dostum / arkadaşım.
+    -- Jaiymu kalmıştır, Horde = Horde. Friend -> dostum / arkadaşım.
     ["40422"] = {
     ["Title"]="Gölgeye Yeminli Altarı",
     ["Description"]="Lanetli Topraklar'ın (Blasted Lands) kuzeybatı köşesinde, eski bir Fırtınalar Altarı (Altar of Storms) çorak toprakların üzerinde yükseliyor[cite: 2]. Etrafında, Gölgeye Yeminlilerin (Shadowsworn) seçkin askerleri toplanıyor. Onlara daha fazla yaklaşmayı hiç başaramadım ancak senin gücünle (strength) bu yeterince kolay bir görev (task) olacaktır. Onları öldür ve her ne yapıyorlarsa yarıda kes.",
-    ["Objectives"]="Lanetli Topraklar'daki Jaiymu için 10 Gölgeye Yeminli Kara Büyücü (Shadowsworn Warlocks), 5 Gölgeye Yeminli İnfazcı (Shadowsworn Enforcers) ve 5 Gölgeye Yeminli Dehşetdokuyan (Shadowsworn Dreadweavers) katlet[cite: 1, 2].",
+    ["Objectives"]="Lanetli Topraklar'daki Jaiymu için 10 Gölgeye Yeminli Kara Büyücü (Shadowsworn Warlocks), 5 Gölgeye Yeminli İnfazcı (Shadowsworn Enforcers) ve 5 Gölgeye Yeminli Dehşetdokuyan (Shadowsworn Dreadweavers) katlet.",
     ["Progress"]="Fırtınalar Altarı'nı (Altar of Storms) buldun mu?[cite: 2]",
     ["Completion"]="Hah, yine iyi iş çıkardın. Teşekkür ederim, arkadaşım (friend). Horde için yaptığın her şey için teşekkür ederim.",
     ["minlevel"]="0",
@@ -40068,11 +40068,11 @@ QuestTranslator_QuestData = {
     -- Dark magic -> karanlık büyü, south -> güney, southwest -> güneybatı.
     -- Pendants -> kolyeler / pandantifler, effort -> çaba / emek.
     -- Shadowsworn Pendant's -> Gölgeye Yeminli Kolyeleri, Shadowsworn -> Gölgeye Yeminliler.
-    -- Harguf kalmıştır[cite: 1], Nethergarde Keep -> Nethergarde Kalesi (Nethergarde Keep)[cite: 2].
+    -- Harguf kalmıştır, Nethergarde Keep -> Nethergarde Kalesi (Nethergarde Keep)[cite: 2].
     ["40431"] = {
     ["Title"]="Gölgeye Yeminli Kolye Ödülü",
     ["Description"]="Biraz iş arıyorsun, ha? Eğer ilgilenirsen şu Gölgeye Yeminli (Shadowsworn) tarikatçı tiplerinin başına konmuş bir kelle ödülümüz (bounty) var. Buralara ne zaman gelmeye başladıklarından emin değilim ama son birkaç aydır giderek daha fazlası toplanıyor. Şimdi, karanlık büyü (dark magic) hakkında hiçbir şey bilmem ama bunun kesinlikle iyi bir şey olmadığı kesin! Nereye bakacağını bilmiyorsan, güneyi ve güneybatıyı araştır, onları çabucak bulursun! Bana kolyelerinden (pendants) yirmi tane topla ve geri gel; harcadığın çabaya (effort) değecek bir şey almanı sağlarım.",
-    ["Objectives"]="Nethergarde Kalesi'ndeki Harguf için Lanetli Topraklar'daki Gölgeye Yeminlilerden 20 Gölgeye Yeminli Kolyesi (Shadowsworn Pendants) topla[cite: 1, 2].",
+    ["Objectives"]="Nethergarde Kalesi'ndeki Harguf için Lanetli Topraklar'daki Gölgeye Yeminlilerden 20 Gölgeye Yeminli Kolyesi (Shadowsworn Pendants) topla.",
     ["Progress"]="O kolyeleri toplamada bir şans var mi?",
     ["Completion"]="Bak sen şuna, güzel iş çıkarıyorsun; dürüst olmak gerekirse söz verdiğim gibi, işte buyur.",
     ["minlevel"]="0",
@@ -40081,12 +40081,12 @@ QuestTranslator_QuestData = {
 
 -- Shady Letter
     -- Homeland -> vatan, education -> eğitim. Desk -> sıra / masa, letter -> mektup.
-    -- Shady Letter -> Şüpheli Mektup. Leela the Shadow -> Gölge Leela kalmıştır[cite: 1].
+    -- Shady Letter -> Şüpheli Mektup. Leela the Shadow -> Gölge Leela kalmıştır.
     -- Protégé -> çömez / koruma altındaki kişi. Tricks -> numaralar / hileler, potential -> potansiyel.
     ["80215"] = {
     ["Title"]="Şüpheli Mektup",
     ["Description"]="YOUR_NAME, vatanımızın (homeland) düşüşü hepimizi etkiledi. Ancak bu yoldaki eğitimimiz (education) yarıda kesilmiş olsa bile, hala öğrenmenin yolları var. Geçenlerde birisi masanın üzerine bir mektup bıraktı ve sana hitaben yazılmıştı. Belki de onu okumalı ve ne dediğini görmelisin?",
-    ["Objectives"]="Şüpheli Mektup'u (Shady Letter) oku ve Gölge Leela (Leela the Shadow) ile konuş[cite: 1].",
+    ["Objectives"]="Şüpheli Mektup'u (Shady Letter) oku ve Gölge Leela (Leela the Shadow) ile konuş.",
     ["Progress"]="Gölgelere sadık kal, çömez (protégé).",
     ["Completion"]="Demek gerçekten geldin, ha? Eğlenceli. Şey, ilk testini tamamladın ancak bunun son testin olduğunu düşünme. Bakalım benim eğitimim altında ne kadar iyi ilerleyeceksin. Hazır olduğunda benimle tekrar konuş, sana bazı numaralar (tricks) öğreteyim. Eğer potansiyel (potential) göstermeye devam edersen, sana öğretmeye devam etmemi bekleyebilirsin.",
     ["minlevel"]="0",
@@ -40097,11 +40097,11 @@ QuestTranslator_QuestData = {
     -- ID 41229 (Aynı isimli farklı bir görev)
     -- Agility and skill -> Çeviklik ve beceri, cautious -> temkinli / dikkatli. No offense intended -> Alınmaca yok.
     -- Goal -> hedef, reclaiming our homeland -> vatanımızı geri istemek. Situation -> durum, mail -> posta / mektup.
-    -- Leela the Shadow -> Gölge Leela kalmıştır[cite: 1], Brinthillien = Brinthillien. Indebted -> borçlu kalmak.
+    -- Leela the Shadow -> Gölge Leela kalmıştır, Brinthillien = Brinthillien. Indebted -> borçlu kalmak.
     ["41229"] = {
     ["Title"]="Şüpheli Mektup",
     ["Description"]="Çevikliğin (agility) ve becerin etkileyici. Sana hayran mı olmalıyım yoksa sana karşı temkinli mi (cautious) olmalıyım emin değilim. Alınmaca yok (no offense intended). Yaptığın iş kolu, vatanımızı geri alma hedefimizle alakasızdır. Önemli olan, her durumdan en iyi şekilde yararlanma yeteneğindir. Ama benim sözlerim bu kadar yeter, birisi seni arıyor. Bir çocuk tarafından teslim edilen bu mektup hiçbir gönderen adı taşımıyor. Mahremiyete saygı duyduğum ve postalarda (mail) asla etrafı dikizlemediğim için, onu sana ben teslim edeceğim.",
-    ["Objectives"]="Brinthillien'deki Gölge Leela (Leela the Shadow) ile konuş[cite: 1].",
+    ["Objectives"]="Brinthillien'deki Gölge Leela (Leela the Shadow) ile konuş.",
     ["Progress"]="Gölgelerde neyin saklandığına dikkat et.",
     ["Completion"]="Bu ucuza patlamayacak, bana fazlasıyla borçlu (indebted) kalacaksın.",
     ["minlevel"]="0",
@@ -40113,12 +40113,12 @@ QuestTranslator_QuestData = {
     -- Duty -> görev, politics -> siyaset, Horde and Alliance -> Horde ve Alliance. Honor -> onur, Kaldorei -> Kaldorei[cite: 2].
     -- Innocent blood -> masum kanı, diplomat -> diplomat. Precarious situation -> riskli / istikrarsiz durum.
     -- Centaur -> centaur / kentavr, Freewind -> Özgürrüzgar (Freewind Post kastediliyor). Defenses -> savunmalar, bracers -> kolluklar, deed -> eylem / iş.
-    -- Elune's light -> Elune'un ışığı. Galak Bracers -> Galak Kollukları. Commander Anashya Starfall -> Komutan Anashya Yıldızdüşüşü kalmıştır[cite: 1].
+    -- Elune's light -> Elune'un ışığı. Galak Bracers -> Galak Kollukları. Commander Anashya Starfall -> Komutan Anashya Yıldızdüşüşü kalmıştır.
     -- Thalanaar = Thalanaar[cite: 2]. Thousand Needles = Bin İğne (Thousand Needles)[cite: 2]. Crucial time -> kritik zaman. Gratitude -> şükran, hearts -> kalpler.
     ["41054"] = {
     ["Title"]="Bir Daha Asla Utanç Duyulmasın",
     ["Description"]="Kutsal topraklarımızın (sacred lands) iblis lekesi bulaşmış kirleticileriyle ittifak kuran o hain taurenlere karşı hiçbir sevgi beslemiyorum. Buna rağmen görev (duty) çağırıyor ve onlara yine de yardım etmeliyiz. Horde ve Alliance siyaseti (politics) şu anda önem taşımıyor. Kaldorei onuru (honor) bir kez daha lekelenmeyecek ve masum kanı (innocent blood) dökülürken biz öylece boş durmayacağız[cite: 2]. Taurenlere riskli durumlarını (precarious situation) bildirmesi için bir diplomat sevk edeceğim. Bu sırada, Özgürrüzgar'daki taurenlerin savunmalarını hazırlamaları için daha fazla zaman tanımak adına ileri atılmanı ve centaur (centaur) sayılarını seyreltmeni istirham ediyorum. Eyleminin (deed) bir kanıtı olarak onların kolluklarından yirmi tane ile bana geri dön. Elune'un ışığı (Elune's light) yoluna rehberlik etsin.",
-    ["Objectives"]="Thalanaar'daki Komutan Anashya Starfall'a 20 Galak Kolluğu (Galak Bracers) getir[cite: 1, 2].",
+    ["Objectives"]="Thalanaar'daki Komutan Anashya Starfall'a 20 Galak Kolluğu (Galak Bracers) getir.",
     ["Progress"]="Centaurlar çoğunlukla Bin İğne'nin kuzey kısımlarında bulunabilir, zaman kaybetme[cite: 2].",
     ["Completion"]="Çabaların taurenler için kritik bir zaman (crucial time) kazandı ve diplomatımız görüşmelerinden geri döndü. Taurenler sağlanan bilgiler için derin şükranlarını (gratitude) dile getirdiler ve onların takdirleri kalplerimizde yankılanıyor. Bir daha asla utanç üzerimize çökmeyecek.",
     ["minlevel"]="0",
@@ -40157,12 +40157,12 @@ QuestTranslator_QuestData = {
     -- Dorsal fin -> sırt yüzgeci, water -> su, shark -> köpekbalığı. Shoreline -> kıyı şeridi, species -> tür.
     -- Marine biologist -> deniz biyoloğu, trade -> meslek, poor creature -> zavallı yaratık.
     -- Goblins -> goblinler, stuck pig -> boğazlanmış domuz, threat -> tehdit. Shoo -> kışkışlamak / uzaklaştırmak, shore -> kıyı.
-    -- Toci Flipper -> Toci Yüzgeç kalmıştır[cite: 1], skeletons -> iskeletler, cartilage -> kıkırdak, bones -> kemikler.
+    -- Toci Flipper -> Toci Yüzgeç kalmıştır, skeletons -> iskeletler, cartilage -> kıkırdak, bones -> kemikler.
     -- Apex predator -> süper yırtıcı / zirve avcı, sea -> deniz, trophy -> kupa / ganimet, memento -> hatıra, reward -> ödül.
     ["80383"] = {
     ["Title"]="Köpekbalıkları Dosttur, Yemek Değil",
     ["Description"]="Sudan çıkan şu sırt yüzgecini (dorsal fin) görüyor musun? O bir köpekbalığı (shark). Kıyı şeridine (shoreline) çok fazla yaklaşmış gibi görünüyor ki bu durum bu tür (species) için bir anomalidir. Mesleğim gereği bir deniz biyoloğuyum (marine biologist) ve bir süredir o zavallı yaratığı izliyorum. Burada kapana kısılmasının pek çok sebebi olabilir ancak goblinler (goblins) onu boğazlanmış bir domuz (stuck pig) gibi öldürmek istiyor! Sudaki insanlar için bir tehdit (threat) olduğunu düşünüyorlar ama muhtemelen sadece korkmuş ve kafası karışmış durumda. Bunun olmasına izin veremem. Senden suya girmeni ve köpekbalığını uzaklaştırmanı (shoo) rica ediyorum.",
-    ["Objectives"]="Sudaki köpekbalığını kıyıdan (shore) uzaklaştır, ardından Toci Flipper'a geri dön[cite: 1].",
+    ["Objectives"]="Sudaki köpekbalığını kıyıdan (shore) uzaklaştır, ardından Toci Flipper'a geri dön.",
     ["Progress"]="Köpekbalıklarının kemiklerden değil de kıkırdaktan (cartilage) yapılmış iskeletleri (skeletons) olduğunu biliyor muydun?",
     ["Completion"]="Başardın! Artık o köpekbalığı, şu goblinlerin ona yapacağı gibi bir ganimet (trophy) gibi asılmak yerine denizde bir zirve avcı (apex predator) olarak yaşam tarzına geri dönebilir[cite: 2]. Ödül olarak senin için küçük bir hatıram (memento) var. Ona iyi bak, tamam mı?",
     ["minlevel"]="0",
@@ -40170,7 +40170,7 @@ QuestTranslator_QuestData = {
     }, -- end Sharks Are Friends, Not Food
 
 -- Shatterblade Stew
-    -- Lok'tar friend -> Lok'tar dostum (Ork selamı). Bargolnak kalmıştır[cite: 1], cooking -> yemek pişirme, town -> kasaba.
+    -- Lok'tar friend -> Lok'tar dostum (Ork selamı). Bargolnak kalmıştır, cooking -> yemek pişirme, town -> kasaba.
     -- Fringes -> sınır boyları, stale -> bayat / tekdüze. Job -> görev, variety -> çeşitlilik, meal -> yemek, morale -> moral.
     -- Ration -> tayın / erzak, meat -> et. Brown Recluse -> Kahverengi Keşiş Örümceği (Brown + Recluse).
     -- Grim Reaches = Amansız Menziller[cite: 2], recluse legs -> keşiş bacakları.
@@ -40178,8 +40178,8 @@ QuestTranslator_QuestData = {
     -- Proportions -> boyutlar / oranlar, stock of food -> yiyecek stoku, service -> hizmet, coins -> sikkeler / paralar, honor -> onur.
     ["41722"] = {
     ["Title"]="Parçalanmışbıçak Yahnisi",
-    ["Description"]="Lok'tar dostum! Ben Bargolnak ve buradaki kasabada yemek pişirme (cooking) işlerinden sorumluyum[cite: 1]. Sınır boylarında (fringes) olmak hakkında bir şey biliyorsan, o da işlerin oldukça tekdüze (stale) hale gelebileceğidir. Burada konuşlanmış olanlara biraz çeşitlilik (variety) sunmak benim görevim. Bir yemek (meal) değişikliğinin moral (morale) üzerinde ne kadar etkili olabileceğine şaşırırsın. Elimdeki tek erzak (ration) et ve ben biraz çeşitlilik istiyorum. Amansız Menziller'in (Grim Reaches) dört bir yanında bolca Kahverengi Keşiş Örümceği (Brown Recluse) bulabiliyor olmalısın; eğer altı keşiş bacağı toplayabilirsen bana çok büyük bir yardımın dokunur[cite: 2].",
-    ["Objectives"]="Amansız Menziller'deki Parçalanmışbıçak Karargahı'nda bulunan Bargolnak için Kahverengi Keşiş Örümceklerinden 6 Keşiş Bacağı (Recluse Legs) topla[cite: 1, 2].",
+    ["Description"]="Lok'tar dostum! Ben Bargolnak ve buradaki kasabada yemek pişirme (cooking) işlerinden sorumluyum. Sınır boylarında (fringes) olmak hakkında bir şey biliyorsan, o da işlerin oldukça tekdüze (stale) hale gelebileceğidir. Burada konuşlanmış olanlara biraz çeşitlilik (variety) sunmak benim görevim. Bir yemek (meal) değişikliğinin moral (morale) üzerinde ne kadar etkili olabileceğine şaşırırsın. Elimdeki tek erzak (ration) et ve ben biraz çeşitlilik istiyorum. Amansız Menziller'in (Grim Reaches) dört bir yanında bolca Kahverengi Keşiş Örümceği (Brown Recluse) bulabiliyor olmalısın; eğer altı keşiş bacağı toplayabilirsen bana çok büyük bir yardımın dokunur[cite: 2].",
+    ["Objectives"]="Amansız Menziller'deki Parçalanmışbıçak Karargahı'nda bulunan Bargolnak için Kahverengi Keşiş Örümceklerinden 6 Keşiş Bacağı (Recluse Legs) topla.",
     ["Progress"]="O sulu bacakları bulmada hiç şansın yaver gitti mi?",
     ["Completion"]="Şunların boyutlarına (proportions) bir bakar mısın?! Bu keşiş bacakları, elimdeki yiyecek stokuna (stock of food) harika bir katkı sağlayacak. Bana ve buradaki kasabadaki herkese büyük bir hizmette (service) bulundun. Bu paraları (coins) al ve onurunla git dostum.",
     ["minlevel"]="0",
@@ -40188,12 +40188,12 @@ QuestTranslator_QuestData = {
     -- She Sells Sea Shells
     -- Shellcoin -> Kabukpara (Shell + Coin). Trade prince -> ticaret prensi.
     -- Rustgate's tower -> Paslıkapı'nın kulesi[cite: 2]. Blackstone Island -> Karataş Adası[cite: 2].
-    -- Schera Framesnap -> Schera Kareşipşak kalmıştır[cite: 1]. Gazzik's Workshop -> Gazzik'in Atölyesi (Gazzik + Workshop)[cite: 2].
+    -- Schera Framesnap -> Schera Kareşipşak kalmıştır. Gazzik's Workshop -> Gazzik'in Atölyesi (Gazzik + Workshop)[cite: 2].
     -- Blackstone Sea Shells -> Karataş Deniz Kabukları. Eastern beach -> doğu sahili. Goldforsaken island -> altın tarafından terk edilmiş ada.
     ["41176"] = {
     ["Title"]="Deniz Kabuğu Satar",
     ["Description"]="Hey, ortak, hiç Kabukpara (Shellcoin) diye bir şey duydun mu? Parasal girişimlerinde yüksekleri hedeflemek isteyenler arasında tam bir çılgınlık. Kendi ticaret prensin (trade prince) olma yolunda hızlı ve güvenilir bir başlangıç yapmanın başka bir yolu yok! Bu işin tek pürüzü şu: Kabukpara ticaretine başlamak için bile bir bütçeye ihtiyacın var! Ve Paslıkapı'nın (Rustgate) kulesindekiler hariç hiç kimsede bunun için yeterli altın yok[cite: 2]. Ancak, ben olduğum o dahi deha sayesinde, şimdiden parlak bir çözüm buldum! Bu adada karaya vuran kabuklar, Kabukpara ile neredeyse tamamen aynı görünüyor! Tamam, teklif şu: Bana o kabuklardan yeteri kadar getir ve onları yarı yarıya bölüşelim. Onları buranın hemen kuzeyindeki plaj boyunca veya sahilde dolaşıp onları topluyor gibi görünen gnollardan bulabilirsin. Yirmi tane topladığında bana geri dön, zengin olabiliriz!",
-    ["Objectives"]="Schera Framesnap için Gazzik'in Atölyesi'ndeki (Gazzik's Workshop) doğu sahili boyunca 20 Karataş Deniz Kabuğu (Blackstone Sea Shells) topla[cite: 1, 2].",
+    ["Objectives"]="Schera Framesnap için Gazzik'in Atölyesi'ndeki (Gazzik's Workshop) doğu sahili boyunca 20 Karataş Deniz Kabuğu (Blackstone Sea Shells) topla.",
     ["Progress"]="O güzelim, güzelim altın sikkelerin tadını şimdiden alabiliyorum! Haha!",
     ["Completion"]="Ah, deniz ganimeti, sanki bir asmadaki üzümler gibi toplanmak için karaya vurmuş! Eğer bu altın tarafından terk edilmiş adadan kurtulabilirsek, zengin olacağız! ZENGİN DİYORUM SANA!<Schera bir sırtlan gibi kıkırdamaya başlar.>",
     ["minlevel"]="0",
@@ -40202,15 +40202,15 @@ QuestTranslator_QuestData = {
 
 -- Shell Shields
     -- Flaxwhisker Front -> Ketenbıyık Cephesi (Flax + Whisker + Front)[cite: 2].
-    -- Genzil Spannerlight -> Genzil İngilizanahtarıışığı kalmıştır[cite: 1].
+    -- Genzil Spannerlight -> Genzil İngilizanahtarıışığı kalmıştır.
     -- Charged shell -> yüklü kabuk, shield -> kalkan, barrier -> bariyer. Magic -> büyü, turtles -> kaplumbağalar.
-    -- Pristine Lurker Shells -> Kusursuz Sinsi Kabukları. Gigno -> Gigno kalmıştır[cite: 1].
+    -- Pristine Lurker Shells -> Kusursuz Sinsi Kabukları. Gigno -> Gigno kalmıştır.
     ["40242"] = {
     ["Title"]="Kabuk Kalkanlar",
-    ["Description"]="Selam ve Ketenbıyık Cephesi'ne (Flaxwhisker Front) hoş geldin yeni gelen![cite: 2] Ben Genzil Spannerlight, yeni projelere başlamaktan ve eskilerin başarı ve başarısızlıklarını arşivlemekten sorumluyum[cite: 1]. Potansiyel olarak işe yarayabilecek yeni bir fikrim var; hem koruyucu hem de büyüye (magic) karşı dirençli olacak bir kalkan veya bariyer görevi görecek yüklü bir kabuk! Tabii ki, önce bazı kabuklara ihtiyacımız olacak ve boşa harcayacak bir sürü metalimiz yok, ama etrafta kaplumbağalar (turtles) var! Dışarı çık ve bana 3 Kusursuz Sinsi Kabuğu (Pristine Lurker Shells) topla!",
-    ["Objectives"]="Ketenbıyık Cephesi'ndeki Genzil Spannerlight için 3 Kusursuz Sinsi Kabuğu (Pristine Lurker Shells) topla[cite: 1, 2].",
+    ["Description"]="Selam ve Ketenbıyık Cephesi'ne (Flaxwhisker Front) hoş geldin yeni gelen![cite: 2] Ben Genzil Spannerlight, yeni projelere başlamaktan ve eskilerin başarı ve başarısızlıklarını arşivlemekten sorumluyum. Potansiyel olarak işe yarayabilecek yeni bir fikrim var; hem koruyucu hem de büyüye (magic) karşı dirençli olacak bir kalkan veya bariyer görevi görecek yüklü bir kabuk! Tabii ki, önce bazı kabuklara ihtiyacımız olacak ve boşa harcayacak bir sürü metalimiz yok, ama etrafta kaplumbağalar (turtles) var! Dışarı çık ve bana 3 Kusursuz Sinsi Kabuğu (Pristine Lurker Shells) topla!",
+    ["Objectives"]="Ketenbıyık Cephesi'ndeki Genzil Spannerlight için 3 Kusursuz Sinsi Kabuğu (Pristine Lurker Shells) topla.",
     ["Progress"]="Projelerimizi kalkanlamak (shield) için daha fazla yönteme ihtiyacımız var, hiç şansın yaver gitti mi?",
-    ["Completion"]="Neden bu güzelliklere bakmıyorsun! Bu kabuklar kesinlikle her türlü şey için kullanılabilir, tekrar teşekkürler, Gigno'nun sende iyi şeyler görmesine şaşmamalı![cite: 1]",
+    ["Completion"]="Neden bu güzelliklere bakmıyorsun! Bu kabuklar kesinlikle her türlü şey için kullanılabilir, tekrar teşekkürler, Gigno'nun sende iyi şeyler görmesine şaşmamalı!",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Shell Shields
@@ -40218,11 +40218,11 @@ QuestTranslator_QuestData = {
 -- Shellcoins
     -- Economists -> ekonomistler, economy -> ekonomi. Shellcoins -> Kabukparalar.
     -- Ocean floor -> okyanus tabanı. Shimmering Shells -> Parıldayan Kabuklar.
-    -- Elodia -> Elodia kalmıştır[cite: 1]. Mansion -> malikane, gold -> altın. Hand-me-downs -> eski püsküler / başkasından kalma giysiler.
+    -- Elodia -> Elodia kalmıştır. Mansion -> malikane, gold -> altın. Hand-me-downs -> eski püsküler / başkasından kalma giysiler.
     ["80381"] = {
     ["Title"]="Kabukparalar",
     ["Description"]="Herkes benim deli olduğumu düşünüyor, ama söz veriyorum, 5 yıl içinde hepiniz pişman olacaksınız! Sözde \"ekonomistler\" (economists) bana inanmasa bile, bu kabukların yeni ekonominin (economy) büyük bir parçası olacağını kesin olarak biliyorum. Okyanus tabanındaki (ocean floor) parıldayan kabuklar, onlara \"Kabukparalar\" (Shellcoins) diyorum, geleceğin büyük şeyi olacak. Yatırım yaptığım için hepsi bana aptal diyor, ama piyasa patladığında ben pislik gibi zengin olacağım, onlar ise benim artıklarıma muhtaç kalacaklar.",
-    ["Objectives"]="Kabukpara (Shellcoin) ekonomisini canlandırmak için 20 Parıldayan Kabuk (Shimmering Shells) topla ve Elodia'ya geri dön[cite: 1].",
+    ["Objectives"]="Kabukpara (Shellcoin) ekonomisini canlandırmak için 20 Parıldayan Kabuk (Shimmering Shells) topla ve Elodia'ya geri dön.",
     ["Progress"]="Ne bekliyorsun? Hemen gir. Satın al satın al satın al! Piyasa değeri tavan yapmadan önce acele et!",
     ["Completion"]="Mükemmel çalışma. Kabukpara (Shellcoin) değeri 1000 altına ulaştığında sana malikanemin (mansion) içini gezdireceğim. Bu arada, şu eski giysilerden (hand-me-downs) al. Sana uyacak gibi görünüyorlar.",
     ["minlevel"]="0",
@@ -40233,24 +40233,24 @@ QuestTranslator_QuestData = {
     -- Bananas -> muzlar, wheelbarrows -> el arabaları, buckets -> kovalar, barrels -> variller.
     -- Kezan = Kezan[cite: 2]. Jungle -> orman / balta girmemiş orman. Tel Co. = Tel Şirketi.
     -- Ripe Tel'Abim Bananas -> Olgun Tel'Abim Muzları. Tel'Abim = Tel'Abim[cite: 2].
-    -- Baron Telraz -> Baron Telraz kalmıştır[cite: 1]. Tel Co. Basecamp -> Tel Şirketi Ana Kampı (Tel Co. + Basecamp)[cite: 2].
+    -- Baron Telraz -> Baron Telraz kalmıştır. Tel Co. Basecamp -> Tel Şirketi Ana Kampı (Tel Co. + Basecamp)[cite: 2].
     -- Gold coin -> altın sikke, good will -> iyi niyet. Schedule -> program / takvim.
     ["40741"] = {
     ["Title"]="Zamanında Sevkiyatlar",
     ["Description"]="Eğer yardım etmek istiyorsan, evlat, sıkı dur. Ama her şeyden önce, muza (bananas) ihtiyacım var! Muz dolu el arabaları, muz dolu kovalar, muz dolu variller! Bir ay içinde Kezan'a (Kezan) yapılması gereken bir sevkiyatımız var ve tüm işçilerim ormana (jungle) girmekte yetersiz kalıyor[cite: 2]. O muzlar olmadan, artık bir Tel Şirketi (Tel Co.) olmayacak. Tel Şirketi olmadan, tüm dünyada artık muz görülmeyecek. Bunun ne kadar ciddi olduğunu görüyor musun?! Şimdi, senin diğerlerinden çok daha cesur olduğunu biliyorum, öyleyse neden dışarı çıkıp bana 18 olgun muz getirmiyorsun? Bu sayede en azından bir sonraki sevkiyatımızı zamanında gerçekleştirebiliriz.",
-    ["Objectives"]="Programına uymasına yardımcı olmak amacıyla Tel Şirketi Ana Kampı'ndaki Baron Telraz için Tel'Abim'de 18 Olgun Tel'Abim Muzları (Ripe Tel'Abim Bananas) topla[cite: 1, 2].",
-    ["Progress"]="Eee, o muzları aldın mı?\n\n<Baron Telraz diken üstünde görünüyor.>[cite: 1]",
-    ["Completion"]="<Baron Telraz'dan büyük bir rahatlama iç çekişi yükselir.>[cite: 1] Aman tanrım, az önce günümü ve bu şirketimi kurtardın! Burada kelimenin tam anlamıyla —ÇILDIRIYORDUM— ve sen gidip tüm bunları benim için hallettin. Al bakalım, yardım edenlerin ve postumu kurtaranların hakkını öderim. Benden bu altın sikkeyi (gold coin) alabilirsin — bir iyi niyet göstergesi.",
+    ["Objectives"]="Programına uymasına yardımcı olmak amacıyla Tel Şirketi Ana Kampı'ndaki Baron Telraz için Tel'Abim'de 18 Olgun Tel'Abim Muzları (Ripe Tel'Abim Bananas) topla.",
+    ["Progress"]="Eee, o muzları aldın mı?\n\n<Baron Telraz diken üstünde görünüyor.>",
+    ["Completion"]="<Baron Telraz'dan büyük bir rahatlama iç çekişi yükselir.> Aman tanrım, az önce günümü ve bu şirketimi kurtardın! Burada kelimenin tam anlamıyla —ÇILDIRIYORDUM— ve sen gidip tüm bunları benim için hallettin. Al bakalım, yardım edenlerin ve postumu kurtaranların hakkını öderim. Benden bu altın sikkeyi (gold coin) alabilirsin — bir iyi niyet göstergesi.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Shipments on Time
 
 -- Shoulder of Prophecy
     -- Prophecy -> Kehanet (Priest Tier 1 seti), garments -> giysiler. Light -> ışık, dim -> loş / sönük. Shadows -> gölgeler.
-    -- Melus kalmıştır[cite: 1]. Item -> eşya, trade in -> takas etmek.
+    -- Melus kalmıştır. Item -> eşya, trade in -> takas etmek.
     ["41460"] = {
     ["Title"]="Kehanet Omuzluğu",
-    ["Description"]="Kehanet (Prophecy) giysilerini kuşanıyorsun, YOUR_CLASS. Işığını hissedebiliyorum ama oldukça sönük (dim) görünüyor. Belki de taşıdıkların, gerçekleştirmeye istekli olduğun görevler için uygun değildir. <Melus birkaç saniye mırıldanır.>[cite: 1] Onu buraya uzat ve bana söyle, aradığın şey gölgeler (shadows) mi?",
+    ["Description"]="Kehanet (Prophecy) giysilerini kuşanıyorsun, YOUR_CLASS. Işığını hissedebiliyorum ama oldukça sönük (dim) görünüyor. Belki de taşıdıkların, gerçekleştirmeye istekli olduğun görevler için uygun değildir. <Melus birkaç saniye mırıldanır.> Onu buraya uzat ve bana söyle, aradığın şey gölgeler (shadows) mi?",
     ["Objectives"]="Mevcut eşyanı ihtiyaçlarına en uygun eşyayla takas et.",
     ["Progress"]="Bu giysiler senin gerçek doğana çok daha iyi uyuyor gibi görünüyor. Sahip olduğun güce dikkat et, YOUR_CLASS.",
     ["Completion"]="Dikkatlice seç, kararın kesindir.",
@@ -40261,11 +40261,11 @@ QuestTranslator_QuestData = {
 -- Shoulderguards of the Lightbringer
     -- Uther Lightbringer -> Uther Işıkgetiren (Uther + Lightbringer). Dawn -> şafak, rising dawn -> sökün eden şafak. Remake -> yeniden yapmak. Righteous justice -> adil adalet, glorious zeal -> şanlı şevk. Enemies -> düşmanlar.
     -- Ingredients -> malzemeler. Pristine hide of the Beast -> Canavar'ın Kusursuz Postu. Crusader orbs -> Haçlı Küreleri, Righteous Orbs -> Adil Küreler. Arcanite Bars -> Arkanit Külçeleri, Medallion of Faith / Medallions of Faith -> İnanç Madalyonu / İnanç Madalyonları. BEHOLD! -> GÖRÜN!
-    -- Malyfous Darkhammer -> Malyfous Karabalta kalmıştır[cite: 1]. Gold pieces -> altın parça. Legends -> efsaneler, reward -> ödül.
+    -- Malyfous Darkhammer -> Malyfous Karabalta kalmıştır. Gold pieces -> altın parça. Legends -> efsaneler, reward -> ödül.
     ["40299"] = {
     ["Title"]="Işıkgetiren'in Omuz Muhafızları",
     ["Description"]="Eski hikayeler bu omuzlukların bir zamanlar bizzat Uther Işıkgetiren (Uther Lightbringer) tarafından takıldığını, sökün eden şafaktan (rising dawn) daha parlak ışıldadığını tasvir eder. Zaman içinde kaybolmuş olsa bile, doğru koşullarda onları yeniden yapabiliriz. Eğer düşmanlarını adil bir adalet (righteous justice) ve şanlı bir şevkle (glorious zeal) cezalandırmak istiyorsan, şu malzemeleri bulmalısın:\n\n* Canavar'ın kusursuz postu (Pristine hide of the Beast).\n* Haçlı küreleri.\n* Arkanit Külçeleri.\n* İnanç Madalyonu.\n\nGÖRÜN!",
-    ["Objectives"]="Işıkgetiren'in Omuz Muhafızlarını (Shoulderguards of the Lightbringer) oluşturmak için Malyfous Darkhammer'a şu eşyaları geri getirmen gerekecektir: 1 Canavar'ın Kusursuz Postu (Pristine Hide of the Beast); 10 Arkanit Külçesi (Arcanite Bars); 8 Adil Küre (Righteous Orbs); 5 İnanç Madalyonu (Medallions of Faith).[cite: 1]\n\nEşyanın işlenmesi için 50 altın parça ödemeniz de gerekecektir.",
+    ["Objectives"]="Işıkgetiren'in Omuz Muhafızlarını (Shoulderguards of the Lightbringer) oluşturmak için Malyfous Darkhammer'a şu eşyaları geri getirmen gerekecektir: 1 Canavar'ın Kusursuz Postu (Pristine Hide of the Beast); 10 Arkanit Külçesi (Arcanite Bars); 8 Adil Küre (Righteous Orbs); 5 İnanç Madalyonu (Medallions of Faith).\n\nEşyanın işlenmesi için 50 altın parça ödemeniz de gerekecektir.",
     ["Progress"]="İhtiyacım olan her şeye sahip olmadığın sürece zamanımı boşa harcıyorsun.",
     ["Completion"]="Efsanelerde anlatıldığı gibi gerçekten ışıldıyor. Bu büyüklükteki bir başarı ancak ödülle (reward) gölgede bırakılabilir.",
     ["minlevel"]="0",
@@ -40274,10 +40274,10 @@ QuestTranslator_QuestData = {
 
 -- Shoulders of Might
     -- Might -> Kudret (Warrior Tier 1 seti), guise -> kisve / görünüm. Rage -> öfke, eyes -> gözler, dim -> sönük. Weapon -> silah.
-    -- Geldra kalmıştır[cite: 1]. Item -> eşya, trade in -> takas etmek. Decision is final -> karar kesindir.
+    -- Geldra kalmıştır. Item -> eşya, trade in -> takas etmek. Decision is final -> karar kesindir.
     ["41443"] = {
     ["Title"]="Kudret Omuzluğu",
-    ["Description"]="Kudret (Might) kisvesini taşıyorsun, YOUR_CLASS. Gözlerindeki öfkeyi (rage) görebiliyorum ama oldukça sönük görünüyor. Belki de taşıdığın, gerçekleştirmeye istekli olduğun görevler için uygun değildir. <Geldra birkaç saniye mırıldanır.>[cite: 1] Onu buraya uzat ve bana söyle, hangi kudretli silahı kuşanıyorsun?",
+    ["Description"]="Kudret (Might) kisvesini taşıyorsun, YOUR_CLASS. Gözlerindeki öfkeyi (rage) görebiliyorum ama oldukça sönük görünüyor. Belki de taşıdığın, gerçekleştirmeye istekli olduğun görevler için uygun değildir. <Geldra birkaç saniye mırıldanır.> Onu buraya uzat ve bana söyle, hangi kudretli silahı kuşanıyorsun?",
     ["Objectives"]="Mevcut eşyanı ihtiyaçlarına en uygun eşyayla takas et.",
     ["Progress"]="Dikkatlice seç, kararın kesindir.",
     ["Completion"]="Herkes senin o muazzam öfkene şahit olacak — hazırsın.",
@@ -40287,15 +40287,15 @@ QuestTranslator_QuestData = {
 
 -- Signet of Silverlaine
     -- Siege -> kuşatma. Ravenshire = Kuzgunbucağı (Ravenshire)[cite: 2]. Thieves and brigands -> hırsızlar ve haydutlar. Chambers -> odalar, prized items -> en değerli eşyalar.
-    -- Signet of Silverlaine -> Gümüşhat Signeti (Silver + Laine). Father -> baba. Token of honor -> onur nişanı. Royalists -> kraliyetçiler. Osmark kalmıştır[cite: 1].
+    -- Signet of Silverlaine -> Gümüşhat Signeti (Silver + Laine). Father -> baba. Token of honor -> onur nişanı. Royalists -> kraliyetçiler. Osmark kalmıştır.
     -- Dryrock Pit -> Kurukaya Ocağı (Dry + Rock + Pit)[cite: 2], west -> batı. Grass -> çimen, massive pit -> devasa ocak, industry -> sanayi. Birthright -> doğuştan gelen hak.
-    -- Baron Caliban Silverlaine -> Baron Caliban Gümüşhat kalmıştır[cite: 1]. Gilneas = Gilneas[cite: 2]. Ring -> yüzük, finger -> parmak. Guard -> muhafız / koruma.
+    -- Baron Caliban Silverlaine -> Baron Caliban Gümüşhat kalmıştır. Gilneas = Gilneas[cite: 2]. Ring -> yüzük, finger -> parmak. Guard -> muhafız / koruma.
     ["40924"] = {
     ["Title"]="Gümüşhat Signeti",
-    ["Description"]="Kuzgunbucağı (Ravenshire) kuşatması sırasında bir grup hırsız ve haydut (thieves and brigands) odalarıma zorla girerek ailemin en değerli eşyalarını alıp götürdü[cite: 2]. Bunlardan biri, bir zamanlar babama ait olan ve bana miras kalan Gümüşhat Signeti (Signet of Silverlaine) idi. Ailemin Signet'inin kraliyetçiler (royalists) arasında saygı duyulan Osmark adında bir subaya onur nişanı (token of honor) olarak verildiği haberini aldım[cite: 1]. Uzaktaki batıda, Kurukaya Ocağı'na (Dryrock Pit) hükmediyor olmalı[cite: 2]. Çimenlerin büyümeyi bıraktığı yere bakın ve sanayi ile dolu devasa ocağı (massive pit) bulun. Doğuştan gelen hakkımı (birthright) geri al, ödüllendirileceksin.",
-    ["Objectives"]="Gilneas'taki Kuzgunbucağı'nda bulunan Baron Caliban Silverlaine için Kurukaya Ocağı'ndaki Yüksek Subay Osmark'tan Gümüşhat Signeti'ni (Signet of Silverlaine) geri al[cite: 1, 2].",
+    ["Description"]="Kuzgunbucağı (Ravenshire) kuşatması sırasında bir grup hırsız ve haydut (thieves and brigands) odalarıma zorla girerek ailemin en değerli eşyalarını alıp götürdü[cite: 2]. Bunlardan biri, bir zamanlar babama ait olan ve bana miras kalan Gümüşhat Signeti (Signet of Silverlaine) idi. Ailemin Signet'inin kraliyetçiler (royalists) arasında saygı duyulan Osmark adında bir subaya onur nişanı (token of honor) olarak verildiği haberini aldım. Uzaktaki batıda, Kurukaya Ocağı'na (Dryrock Pit) hükmediyor olmalı[cite: 2]. Çimenlerin büyümeyi bıraktığı yere bakın ve sanayi ile dolu devasa ocağı (massive pit) bulun. Doğuştan gelen hakkımı (birthright) geri al, ödüllendirileceksin.",
+    ["Objectives"]="Gilneas'taki Kuzgunbucağı'nda bulunan Baron Caliban Silverlaine için Kurukaya Ocağı'ndaki Yüksek Subay Osmark'tan Gümüşhat Signeti'ni (Signet of Silverlaine) geri al.",
     ["Progress"]="Grevini hafife alma YOUR_CLASS, Kurukaya Ocağı (Dryrock Pit) onların bölgedeki en hayati operasyonlarından biridir ve ağır muhafızlar (heavy guard) altında olacaktır[cite: 2].",
-    ["Completion"]="<Baron Caliban Silverlaine, çehresini süsleyen bir gülümsemeyle signete bakar. İkinci bir söz söylenmeden yüzük parmağına geçirilir.>[cite: 1] İyi iş çıkardın, lekelenmemiş. Bu subayın böyle bir suç için hayatından olduğunu bilmek güzel hissettiriyor. Senin için bir ödül hazırladım, tekrar teşekkürler maceracı.",
+    ["Completion"]="<Baron Caliban Silverlaine, çehresini süsleyen bir gülümsemeyle signete bakar. İkinci bir söz söylenmeden yüzük parmağına geçirilir.> İyi iş çıkardın, lekelenmemiş. Bu subayın böyle bir suç için hayatından olduğunu bilmek güzel hissettiriyor. Senin için bir ödül hazırladım, tekrar teşekkürler maceracı.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Signet of Silverlaine
@@ -40303,11 +40303,11 @@ QuestTranslator_QuestData = {
 -- Signs of Corruption
     -- Magnitude -> büyüklük / boyut, corruption -> yozlaşma, Grim Reaches = Amansız Menziller[cite: 2]. Sample -> örnek.
     -- Manifestations -> tezahürler, foul energy -> pis enerji, ooze's -> balçıklar / sümüksü yaratıklar. Lingering Corruption -> Kalıcı Yozlaşma.
-    -- Repugnant Ooze -> İğrenç Balçık. Yor'thegg the Wise -> Bilge Yor'thegg kalmıştır[cite: 1]. Brangar's Folly -> Brangar'ın Deliliği (Brangar + Folly)[cite: 2], northeast -> kuzeydoğu. Malignant energy -> kötücül enerji.
+    -- Repugnant Ooze -> İğrenç Balçık. Yor'thegg the Wise -> Bilge Yor'thegg kalmıştır. Brangar's Folly -> Brangar'ın Deliliği (Brangar + Folly)[cite: 2], northeast -> kuzeydoğu. Malignant energy -> kötücül enerji.
     ["41737"] = {
     ["Title"]="Yozlaşma Belirtileri",
     ["Description"]="Amansız Menziller (Grim Reaches) içindeki yozlaşmanın boyutunu gerçekten anlayacaksak, ondan bir örnek (sample) toplamalıyız[cite: 2]. Bu pis enerjinin tezahürleri (manifestations), toprağa bela olan balçıklar (oozes) şeklinde kök saldı. Senden Amansız Menziller'deki İğrenç Balçık'tan (Repugnant Ooze) bana altı Kalıcı Yozlaşma (Lingering Corruption) getirmeni rica ediyorum[cite: 2]. Onların yoğunlaştığı bir yeri buranın kuzeydoğusundaki Brangar'ın Deliliği'nde (Brangar's Folly) bulabilirsin[cite: 2].",
-    ["Objectives"]="Amansız Menziller'deki Bilge Yor'thegg için yakındaki İğrenç Balçık'tan 6 Kalıcı Yozlaşma (Lingering Corruption) topla[cite: 1, 2].",
+    ["Objectives"]="Amansız Menziller'deki Bilge Yor'thegg için yakındaki İğrenç Balçık'tan 6 Kalıcı Yozlaşma (Lingering Corruption) topla.",
     ["Progress"]="Görevin tamamlandı mı?",
     ["Completion"]="Böylesine pis, kötücül bir enerji (malignant energy)... Bu topraklardaki yozlaşma gün gibi ortada.",
     ["minlevel"]="0",
@@ -40315,13 +40315,13 @@ QuestTranslator_QuestData = {
     }, -- end Signs of Corruption
 
 -- Singed Letter
-    -- Dirty -> kirli, letter -> mektup. Rustgate Ridge -> Paslıkapı Sırtı[cite: 2]. Amri -> Amri kalmıştır (Amri Demondeal)[cite: 1]. Dubious arts -> şüpheli / tekinsiz sanatlar. Time -> zaman, work -> iş.
-    -- Amri Demondeal -> Amri İblispazarlığı kalmıştır[cite: 1]. Initiate -> çömez / yeni başlayan. spells -> büyüler, spells -> büyüler.
+    -- Dirty -> kirli, letter -> mektup. Rustgate Ridge -> Paslıkapı Sırtı[cite: 2]. Amri -> Amri kalmıştır (Amri Demondeal). Dubious arts -> şüpheli / tekinsiz sanatlar. Time -> zaman, work -> iş.
+    -- Amri Demondeal -> Amri İblispazarlığı kalmıştır. Initiate -> çömez / yeni başlayan. spells -> büyüler, spells -> büyüler.
     -- Rustgate -> Paslıkapı, tower -> kule, living proof -> canlı kanıt, coin -> sikke / para, journey -> yolculuk.
     ["41207"] = {
     ["Title"]="Kavrulmuş Mektup",
-    ["Description"]="Sen ellerini kirletirken, ben Paslıkapı Sırtı'ndan (Rustgate Ridge) bu mektubu aldım[cite: 2]. Amri'den (Amri) geliyor, o da tıpkı senin gibi daha tekinsiz sanatlarla (dubious arts) uğraşıyor[cite: 1]. Mektubu al ve zamanın olduğunda onunla konuş. Hah, ne diyorum ben — sanki hiç zamanın olacakmış gibi. Şimdi işinin başına dön!",
-    ["Objectives"]="Kavrulmuş Mektup'u (Singed Letter) Paslıkapı Sırtı'ndaki Amri İblispazarlığı'na (Amri Demondeal) ulaştır[cite: 1, 2].",
+    ["Description"]="Sen ellerini kirletirken, ben Paslıkapı Sırtı'ndan (Rustgate Ridge) bu mektubu aldım[cite: 2]. Amri'den (Amri) geliyor, o da tıpkı senin gibi daha tekinsiz sanatlarla (dubious arts) uğraşıyor. Mektubu al ve zamanın olduğunda onunla konuş. Hah, ne diyorum ben — sanki hiç zamanın olacakmış gibi. Şimdi işinin başına dön!",
+    ["Objectives"]="Kavrulmuş Mektup'u (Singed Letter) Paslıkapı Sırtı'ndaki Amri İblispazarlığı'na (Amri Demondeal) ulaştır.",
     ["Progress"]="Hehehe, merhaba, yoldaş çömez (initiate)!",
     ["Completion"]="Gözlerindeki parıltıyı görüyorum, biraz daha güçlü büyülere (spells) aç mısın? Elbette öylesin, güçlü olanlar buralarda otomatik olarak en zengin olanlardır. Paslıkapı'ya (Rustgate) ve kulesine bir baksana. Canlı kanıt (living proof)! Bana biraz bozuk para (coin) fırlat, ben de olmak istediğin her neyse ona giden yolculuğunda sana yardım edeyim.",
     ["minlevel"]="0",
@@ -40332,11 +40332,11 @@ QuestTranslator_QuestData = {
     -- Oil -> Petrol / Yağ. Venture Co. = Venture Şirketi, salvaging -> kurtarmak / toplamak.
     -- Paid handsomely -> cömertçe ödenmek, dumb questions -> aptalca sorular. Powder Town -> Barut Kasabası (Powder + Town)[cite: 2].
     -- Stonetalon Mountains = Taşpençe Dağları[cite: 2]. Barrels -> variller. Barrels of Blacksand Oil -> Karasand Petrolü Varilleri / Karasand Yağı Varilleri.
-    -- Head Technician Klazfit -> Baş Teknisyen Klazfit kalmıştır[cite: 1]. Profit -> kâr. Back -> sırt. Kid -> evlat.
+    -- Head Technician Klazfit -> Baş Teknisyen Klazfit kalmıştır. Profit -> kâr. Back -> sırt. Kid -> evlat.
     ["40644"] = {
     ["Title"]="Petrol Çekmek",
     ["Description"]="Bu adamların burada ne yapmayı planladıklarından emin değilim ama harika bir şeyi kaçırıyorlar. Petrol (Oil). Komik, değil mi? Venture Şirketi (Venture Co.) buraya petrol için gelmiş ve açıkça onu topluyorlar (salvaging). Birisi onlara bunu bizim için de topladıklarını söylemeli. Aptalca sorular sormazsa kendisine cömertçe ödeme (paid handsomely) yapılacak biri gidip bunun için onlara teşekkür etmeli ve aynı zamanda asıl Barut Kasabası'na (Powder Town) ait olanı kapmalı[cite: 2]. Hepsini anladın mı yoksa senin için çizmem mi gerekiyor? 6 varile ihtiyacım var.",
-    ["Objectives"]="Taşpençe Dağları'ndaki Barut Kasabası'nda bulunan Baş Teknisyen Klazfit'e 6 Varil Karasand Petrolü (Barrels of Blacksand Oil) geri getir[cite: 1, 2].",
+    ["Objectives"]="Taşpençe Dağları'ndaki Barut Kasabası'nda bulunan Baş Teknisyen Klazfit'e 6 Varil Karasand Petrolü (Barrels of Blacksand Oil) geri getir.",
     ["Progress"]="Umarım sırtın (back) dayanır evlat.",
     ["Completion"]="Ah, demek birisi gidip topladı, harika, harika, bu iyi bir kâr (profit) getirmeli.",
     ["minlevel"]="0",
@@ -40360,11 +40360,11 @@ QuestTranslator_QuestData = {
 -- Sleep Paralysis
     -- Lady -> hanımefendi, smile -> gülümseme, eyes -> gözler, deep fury -> derin bir öfke. Gallant sort -> yiğit bir tip, poor damsel -> zavallı genç kız. Odd substances -> tuhaf maddeler. Coin -> para, troubles -> sıkıntılar.
     -- Poison -> zehir. Spiders -> örümcekler, cave -> mağara, east -> doğu, painful bite -> ağrılı ısırık, paralysis -> felç. Vials of their venom -> zehirlerinin şişeleri. Eternal grateful -> sonsuza dek minnettar. Arachnids -> örümcekimsiler. Personal business -> kişisel işler.
-    -- Leech Stalker Venom -> Sülük Sinsi Zehri. Rose Dolohov -> Rose Dolohov kalmıştır[cite: 1]. Nosy -> meraklı / burnunu sokan. Silver -> gümüş coin / gümüş para. Shoo -> kışkış / hadi naş.
+    -- Leech Stalker Venom -> Sülük Sinsi Zehri. Rose Dolohov -> Rose Dolohov kalmıştır. Nosy -> meraklı / burnunu sokan. Silver -> gümüş coin / gümüş para. Shoo -> kışkış / hadi naş.
     ["40566"] = {
     ["Title"]="Karabasan",
     ["Description"]="Afedersiniz, YOUR_CLASS!\n\n<Hanımefendi bir gülümsemeyi zorluyor gibi görünüyor, ancak gözleri derin bir öfkeyi ele veriyor.> Yiğit bir tipe benziyorsunuz, zavallı bir genç kıza (poor damsel) yardım edecek cinsten, değil mi? Kendimi bazı... tuhaf maddelere (odd substances) ihtiyaç duyarken buldum. Elde etmesi tehlikeli bile olabilir, ama size bakınca – kesinlikle bunun üstesinden gelebileceğinizi düşünüyorum. Sıkıntılarınız için iyi bir para bile ödeyeceğim! Biraz zehre (poison) ihtiyacım var. Ama öyle sıradan bir zehir değil. Buranın doğusunda bir yerlerdeki mağarada, çok acı verici bir ısırığı olan, hatta kısa süreli felce (paralysis) neden olan örümcekler (spiders) var. Eğer benim için zehirlerinden birkaç şişe toplayabilirseniz, sonsuza dek minnettar kalırım! Herhalde birkaç küçük örümcekimsiden (arachnids) korkmuyorsunuz, değil mi? Ve neden diye sormakla ne demek istiyorsunuz? Gerçekten bir hanımefendiye kişisel işlerini mi (personal business) soruyorsunuz?",
-    ["Objectives"]="Rose Dolohov için beş Sülük Sinsi Zehri (Leech Stalker Venom) örneği elde et[cite: 1].",
+    ["Objectives"]="Rose Dolohov için beş Sülük Sinsi Zehri (Leech Stalker Venom) örneği elde et.",
     ["Progress"]="İhtiyacım olanı aldın mı, yoksa sadece burnunu mu sokuyorsun (nosy)?",
     ["Completion"]="Oh mükemmel, teşekkürler! Bu ona bir ders vermeli. İşte gümüşün (silver), şimdi hadi naş (shoo)!",
     ["minlevel"]="0",
@@ -40374,12 +40374,12 @@ QuestTranslator_QuestData = {
 -- Sleepwalking at Day
     -- Fiancé -> nişanlı, dog-tired -> köpek gibi yorgun / bitkin, night -> gece, long black hair -> uzun siyah saç, clothes -> kıyafetler.
     -- Rash -> fevri, bedroom -> yatak odası. Side of things -> işin aslı / onun anlatacağı taraf, lies -> yalanlar. Evidence -> kanıt / delil.
-    -- Lumber mill -> kereste fabrikası, wood -> odun. Bert Mano -> Bert Mano kalmıştır[cite: 1].
+    -- Lumber mill -> kereste fabrikası, wood -> odun. Bert Mano -> Bert Mano kalmıştır.
     -- Hawk's Vigil -> Şahin Nöbeti (Hawk + Vigil)[cite: 2]. Investigation -> soruşturma. Poison -> zehir, approach -> yaklaşım.
     ["40567"] = {
     ["Title"]="Gündüz Gözüyle Karabasan",
-    ["Description"]="Oh, bunu yapamam. <Yüksek sesle iç çeker ve gözlerine masaj yapar.> Nişanlım (fiancé) her zaman köpek gibi yorgun, gece yarısı rastgele ortadan kayboluyor ve geçenlerde kıyafetlerinde uzun siyah saçlar buldum. Bana bunu nasıl yapabildiğini bir türlü çözemiyorum! Ama emin olmalıyım. Lütfen, YOUR_CLASS, fevri (rash) bir şey yapmadan önce benim için bu konuyu araştırabilir misin? Onunla konuşmaya bile dayanamıyorum, eski yatak odamıza geri dönmek bir yana. Sadece onun şu lanet olası savunmasını öğren ve bana hangi yalanları (lies) söylediğini anlat. Bulabileceğin her türlü ekstra delil (evidence) de iyi olur sanırım. <Yüzünü sıkıca buruşturur.> Muhtemelen benden kaçıyor ve kereste fabrikasının (lumber mill) yanında odun keserek işe yarıyormuş gibi davranıyor. Bert Mano onun adı[cite: 1].",
-    ["Objectives"]="Şahin Nöbeti'ndeki (Hawk's Vigil) Bert Mano ile konuş ve soruşturmanın seni nereye götüreceğini gör[cite: 1, 2].",
+    ["Description"]="Oh, bunu yapamam. <Yüksek sesle iç çeker ve gözlerine masaj yapar.> Nişanlım (fiancé) her zaman köpek gibi yorgun, gece yarısı rastgele ortadan kayboluyor ve geçenlerde kıyafetlerinde uzun siyah saçlar buldum. Bana bunu nasıl yapabildiğini bir türlü çözemiyorum! Ama emin olmalıyım. Lütfen, YOUR_CLASS, fevri (rash) bir şey yapmadan önce benim için bu konuyu araştırabilir misin? Onunla konuşmaya bile dayanamıyorum, eski yatak odamıza geri dönmek bir yana. Sadece onun şu lanet olası savunmasını öğren ve bana hangi yalanları (lies) söylediğini anlat. Bulabileceğin her türlü ekstra delil (evidence) de iyi olur sanırım. <Yüzünü sıkıca buruşturur.> Muhtemelen benden kaçıyor ve kereste fabrikasının (lumber mill) yanında odun keserek işe yarıyormuş gibi davranıyor. Bert Mano onun adı.",
+    ["Objectives"]="Şahin Nöbeti'ndeki (Hawk's Vigil) Bert Mano ile konuş ve soruşturmanın seni nereye götüreceğini gör.",
     ["Progress"]="Sana yardımcı olabilir miyim?",
     ["Completion"]="Zehir mi (Poison)? Vay canına, bu işleri çok karıştırıyor. Daha doğrudan bir yaklaşım (approach) sergilememiz gerekebilir.",
     ["minlevel"]="0",
@@ -40415,13 +40415,13 @@ QuestTranslator_QuestData = {
 -- Smash Salt Tooth!
     -- Location -> konum, town -> kasaba / şehir. Captain Salt Tooth -> Kaptan Tuzdiş (Salt + Tooth).
     -- Gurubashi Arena = Gurubashi Arenası[cite: 2]. Bloodsail -> Kanlıyel (Bloodsail Buccaneers), camp -> kamp, road -> yol, west -> batı. Head -> kafa / kelle, friends -> arkadaşlar, crew -> mürettebat / tayfa.
-    -- Shalgrig Pipeshack -> Shalgrig Borukulübesi kalmıştır[cite: 1]. Goblin -> goblin, orc -> ork. Small army -> küçük bir ordu.
+    -- Shalgrig Pipeshack -> Shalgrig Borukulübesi kalmıştır. Goblin -> goblin, orc -> ork. Small army -> küçük bir ordu.
     ["55031"] = {
     ["Title"]="Tuz Diş'i Parçala!",
     ["Description"]="O konumun yakınlarında sadece tek bir kamp var ve o zaman bu Kaptan Tuzdiş'in (Captain Salt Tooth) olduğu yer olmalı! Eğer bu kasabadan (town) çıkmak için bir şansımız olacaksa, o zaman onun gitmesi gerekiyor! Ee, o zaman yardım edeceksin, değil mi? Kuzeydeki Gurubashi Arenası'nın (Gurubashi Arena) yakınlarına doğru çık, hemen güneyinde, yolun batı tarafında bir Kanlıyel (Bloodsail) kampı var[cite: 2]. Orada Kaptan Tuzdiş'i bul ve öldür, bu işin bittiğini bilmem için bana kellesini (head) getir. Oh, ve birkaç arkadaşını (friends) da getir, kesinlikle büyük bir tayfası (crew) vardır!",
-    ["Objectives"]="Kaptan Tuzdiş'i öldür ve kellesini kanıt olarak Shalgrig Pipeshack'e ulaştır[cite: 1].",
+    ["Objectives"]="Kaptan Tuzdiş'i öldür ve kellesini kanıt olarak Shalgrig Pipeshack'e ulaştır.",
     ["Progress"]="Onu orada bulmakta zorlanıyor musun? Bana anlatıyorsun bir de.",
-    ["Completion"]="<Goblin orkun kellesine dik dik bakar.>[cite: 1] Vay canına, Tuzdiş'i (Salt Tooth) indirmek için küçük bir ordu (small army) gerekmiş olmalı. Ya bu, ya da düşündüğümden çok daha güçlüsün!",
+    ["Completion"]="<Goblin orkun kellesine dik dik bakar.> Vay canına, Tuzdiş'i (Salt Tooth) indirmek için küçük bir ordu (small army) gerekmiş olmalı. Ya bu, ya da düşündüğümden çok daha güçlüsün!",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Smash Salt Tooth!
@@ -40429,11 +40429,11 @@ QuestTranslator_QuestData = {
 -- Smashing the Southsea!
     -- Southsea Pirates -> Güneydenizi Korsanları (Southsea Pirates). Survival -> hayatta kalma, island -> ada. Operations -> operasyonlar, vessels -> gemiler, town -> kasaba.
     -- Kul Tiras = Kul Tiras[cite: 2]. Piracy -> korsanlık, merchants -> tüccarlar, kingdom -> krallık. Sashes -> kuşaklar, Southsea Freebooters -> Güneydenizi Haydutları. Vast area -> geniş alan. Islands -> adalar, sandbar -> kumsal / sığlık, Lapidis = Lapidis. Southwest -> güneybatı, coast -> kıyı. Deeds -> eylemler, sashes -> kuşaklar, vast sea -> uçsuz bucaksız deniz.
-    -- Southsea Sashes -> Güneydenizi Kuşakları. Colonel Hardinus -> Albay Hardinus kalmıştır[cite: 1]. Caelan's Rest -> Caelan'ın İnzivası[cite: 2]. Waves -> dalgalar.
+    -- Southsea Sashes -> Güneydenizi Kuşakları. Colonel Hardinus -> Albay Hardinus kalmıştır. Caelan's Rest -> Caelan'ın İnzivası[cite: 2]. Waves -> dalgalar.
     ["40143"] = {
     ["Title"]="Güneydenizi'ni Parçalamak!",
     ["Description"]="Güneydenizi Korsanları (Southsea Pirates), bu adada hayatta kalmamız (survival) için doğrudan bir tehdit oluşturuyor. Buradaki operasyonları, yola çıktığımızda ilk tahmin ettiğimizden çok daha büyük. Hala birçok güçlü gemileri (vessels) var ve bunları kasabamızın önünde yüzdürmeye yeltenmemiş olsalar da, ihtimal hala gerçek. Kul Tiras (Kul Tiras) korsanlıkla her zaman savaş halindeydi[cite: 2]. Tüccarları (merchants) tehdit edenler krallığımız için doğrudan bir tehdittir. Geniş bir alanda faaliyet gösteren bir korsan çetesi olan Güneydenizi Haydutları'nın (Southsea Freebooters) kuşaklarını ele geçirmeni istiyorum. Onları her iki büyük adada ve buranın güneybatısında, Lapidis kıyılarında kendi adlarını taşıyan kumsal (sandbar) boyunca bulabilirsin. Eylemlerinin bir kanıtı olarak, taktıkları kuşaklardan (sashes) yirmi tane bana getir. Çabaların sadece bize değil, uçsuz bucaksız denizde seyahat eden herkese yardımcı olacak.",
-    ["Objectives"]="Caelan'ın İnzivası'ndaki Albay Hardinus (Colonel Hardinus) için Güneydenizi Korsanlarından 20 Güneydenizi Kuşağı (Southsea Sashes) topla[cite: 1, 2].",
+    ["Objectives"]="Caelan'ın İnzivası'ndaki Albay Hardinus (Colonel Hardinus) için Güneydenizi Korsanlarından 20 Güneydenizi Kuşağı (Southsea Sashes) topla.",
     ["Progress"]="Eğer bu yerden ayrılacaksak Güneydenizi Haydutları (Southsea Freebooters) durdurulmalı.",
     ["Completion"]="Seni selamlıyorum. Dalgaları (waves), onlarda seyahat eden herkes için çok daha güvenli bir yer haline getirdin.",
     ["minlevel"]="0",
@@ -40457,11 +40457,11 @@ QuestTranslator_QuestData = {
 -- Smelting Dreamsteel
     -- Smelt -> eritmek, Dreamsteel -> Rüyaçeliği (Dream + Steel). Difficulty -> zorluk, Dreamsteel Bars -> Rüyaçeliği Külçeleri. Smelting process -> eritme süreci.
     -- Bright Dream Shards -> Parlak Rüya Parçaları. Loyalty -> sadakat, World Tree -> Dünya Ağacı (Nordrassil kastediliyor).
-    -- Tanthos Everbreeze -> Tanthos Daimirüzgarı kalmıştır[cite: 1]. Nordanaar = Nordanaar[cite: 2], Hyjal = Hyjal[cite: 2]. Dream Shards -> Rüya Parçaları, book -> kitap, text -> metin.
+    -- Tanthos Everbreeze -> Tanthos Daimirüzgarı kalmıştır. Nordanaar = Nordanaar[cite: 2], Hyjal = Hyjal[cite: 2]. Dream Shards -> Rüya Parçaları, book -> kitap, text -> metin.
     ["40886"] = {
     ["Title"]="Rüyaçeliği Eritmek",
     ["Description"]="Rüyaçeliği (Dreamsteel) eritme yeteneği başlı başına bir sanattır. Rüyaçeliği Külçelerini (Dreamsteel Bars) kullanarak gerçekten desenler oluşturma zorluğu karmaşık olsa da, eritme sürecini (smelting process) gölgede bırakmaz. Eğer kendi Rüyaçeliği Külçelerini nasıl oluşturacağını öğrenmek ve başkalarına bağımlı olmamak istiyorsan, Dünya Ağacı'na olan sadakatinin bir göstergesi olarak bana on beş Parlak Rüya Parçası topla.",
-    ["Objectives"]="Hyjal'daki Nordanaar'da bulunan Tanthos Everbreeze için 15 Parlak Rüya Parçası (Bright Dream Shards) topla[cite: 1, 2].",
+    ["Objectives"]="Hyjal'daki Nordanaar'da bulunan Tanthos Everbreeze için 15 Parlak Rüya Parçası (Bright Dream Shards) topla.",
     ["Progress"]="Rüya Parçalarını (Dream Shards) getirdin mi maceracı?",
     ["Completion"]="İşte o zaman, bilmen gereken her şeyi sana öğretmesi gereken kitap budur. Onu dikkatlice incele ve metinde yazıldığı gibi teknikleri uygula.",
     ["minlevel"]="0",
@@ -40470,12 +40470,12 @@ QuestTranslator_QuestData = {
 
 -- Smoldering Dream Essence
     -- Smoldering Dream Essence -> Tüten Rüya Özü (Smoldering + Dream + Essence). Intense energy -> yoğun enerji, body -> beden, Emerald Dream = Zümrüt Rüya[cite: 2]. fingers -> parmaklar, action -> eylem. Nordanaar = Nordanaar[cite: 2]. power -> güç.
-    -- Arch Druid Dreamwind -> Baş Druid Rüyarüzgarı kalmıştır[cite: 1]. Hyjal = Hyjal[cite: 2].
+    -- Arch Druid Dreamwind -> Baş Druid Rüyarüzgarı kalmıştır. Hyjal = Hyjal[cite: 2].
     -- Intact Dream Essence -> bozulmamış Rüya Özü. Azeroth = Azeroth[cite: 2], expunged -> silinmiş. Corruption -> yozlaşma, sample -> örnek, withering -> solan. Purify -> arındırmak.
     ["40905"] = {
     ["Title"]="Tüten Rüya Özü",
     ["Description"]="<Tüten Rüya Özü'ne (Smoldering Dream Essence) dokunulduğunda, tüm vücudunuza yoğun bir enerji yayılır. Zümrüt Rüya'nın (the Emerald Dream) gücünü parmak uçlarınızda hissedebilir, sizi eyleme çağırıyor gibi gelebilir[cite: 2]. Belki de Nordanaar'da böyle bir güce aşina olacak birileri vardır.>",
-    ["Objectives"]="Tüten Rüya Özü'nü (Smoldering Dream Essence) Hyjal'daki Nordanaar'da bulunan Baş Druid Rüyarüzgarı'na (Arch Druid Dreamwind) ulaştır[cite: 1, 2].",
+    ["Objectives"]="Tüten Rüya Özü'nü (Smoldering Dream Essence) Hyjal'daki Nordanaar'da bulunan Baş Druid Rüyarüzgarı'na (Arch Druid Dreamwind) ulaştır.",
     ["Progress"]="Bana getirdiğin bu şey nedir?",
     ["Completion"]="Uzun zamandır bu kadar bozulmamış bir Rüya Özü (Dream Essence) görmemiştim. Bir zamanlar Azeroth'taki (Azeroth) tüm izlerinin silindiğini düşünmüştüm ama yanıldığım kanıtlandı[cite: 2]. Bu örneğin derinliklerinde yozlaşma (corruption) var, gerçi soluyor. Onu arındırmak zor olmayacaktır.",
     ["minlevel"]="0",
@@ -40485,27 +40485,27 @@ QuestTranslator_QuestData = {
 -- Smuggling Ale
     -- Smuggling -> kaçakçılık, Ale -> Bira / El yapımı bira. Boat -> tekne / gemi, ship -> gemi. Reserve of ale -> bira rezervi, variety -> çeşitlilik. Ale -> bira, connections -> bağlantılar, opposite faction -> karşı faksiyon.
     -- Barrel of Steamwheedle Wine -> Steamwheedle Şarabı Varili. Port -> liman, common ale -> yaygın bira, Flasks of Port -> Liman Birası Şişeleri. Cask of Merlot -> Merlot Fıçısı, Stormwind = Fırtınayeli. Gallina Winery -> Gallina Şaraphanesi. Jug of Orgrimmar Brown -> Orgrimmar Kahverengisi Testisi, Tavern -> Meyhane, Orgrimmar = Orgrimmar.
-    -- Fazzle 'The Slick' -> Fazzle 'Kurnaz' kalmıştır[cite: 1]. Bloodsail Retreat -> Kanlıyel Sığınağı (Bloodsail + Retreat)[cite: 2]. Smuggler -> kaçakçı.
-    -- Spice of life -> hayatın tuzu biberi, good spirits -> keyifleri yerinde. Barrels -> variller. Garfield -> Garfield kalmıştır[cite: 1], neck -> boyun / kellesini uçurmak. Scurvy dog -> uğursuz köpek (denizci argosu), money -> para.
+    -- Fazzle 'The Slick' -> Fazzle 'Kurnaz' kalmıştır. Bloodsail Retreat -> Kanlıyel Sığınağı (Bloodsail + Retreat)[cite: 2]. Smuggler -> kaçakçı.
+    -- Spice of life -> hayatın tuzu biberi, good spirits -> keyifleri yerinde. Barrels -> variller. Garfield -> Garfield kalmıştır, neck -> boyun / kellesini uçurmak. Scurvy dog -> uğursuz köpek (denizci argosu), money -> para.
     ["40198"] = {
     ["Title"]="Bira Kaçakçılığı",
     ["Description"]="Hey, sen! Eğer yardım edebileceğini düşünüyorsan, gemi dışı biraz işe ihtiyacım var. Hareket etmeye başladığımızda insanların gerçekten yapması gereken tek şey ya içmek ya da gemiyi temiz ve düzenli tutmak için çalışmaktır. Elde iyi bir bira rezervi (reserve of ale) bulundurmayı ve bunun iyi bir çeşitlilikte olmasını her zaman iyi bulmuşumdur! Senden isteyeceğim şey çeşitli kaynaklardan biraz bira getirmen, hatta bunlardan bazıları arkadaşlara veya karşı faksiyonla (opposite faction) bağlantılara sahip olmanı gerektirebilir! İlk olarak, limanda bulunabilecek bir Varil Steamwheedle Şarabı'na (Barrel of Steamwheedle Wine) ihtiyacım var, onu çal. İkinci olarak yaygın biraya, 10 Şişe Liman Birası'na (Flasks of Port) ihtiyacım olacak. Son olarak bana Gallina Şaraphanesi'nden, Fırtınayeli'nden (Stormwind) bir Merlot Fıçısı (Cask of Merlot) ve Orgrimmar'daki (Orgrimmar) Meyhane'den bir Orgrimmar Kahverengisi Testisi (Jug of Orgrimmar Brown) kap.",
-    ["Objectives"]="Bloodsail Sığınağı'ndaki (Bloodsail Retreat) Fazzle 'The Slick' için bir Varil Steamwheedle Şarabı, 10 Şişe Liman Birası, bir Merlot Fıçısı ve bir Orgrimmar Kahverengisi Testisi topla[cite: 1, 2].",
+    ["Objectives"]="Bloodsail Sığınağı'ndaki (Bloodsail Retreat) Fazzle 'The Slick' için bir Varil Steamwheedle Şarabı, 10 Şişe Liman Birası, bir Merlot Fıçısı ve bir Orgrimmar Kahverengisi Testisi topla.",
     ["Progress"]="Gerçek bir kaçakçı (smuggler) olmak istiyorsan, sana söyleyeyim, bağlantılara ihtiyacın var ve bu bağlantıların güvenilir olması gerekir.",
-    ["Completion"]="Tüm bu çeşitlilik, ne derler bilirsin, çeşitlilik hayatın tuzu biberidir (spice of life)! Bir sonraki yolculuğumuza çıktığımızda, tüm bunlar kesinlikle herkesin keyfini yerinde tutacaktır. En son dışarı açıldığımızda, elimizde neredeyse hiç bira kalmamıştı, varillerin (barrels) çoğu imha edilmişti ve sana söyleyeyim, eğer bir daha böyle bir şey olsaydı Garfield kellemden ederdi (have my neck)![cite: 1] Sıkı çalışman için teşekkürler seni uğursuz köpek (scurvy dog), bir teşekkür olarak bu parayı al.",
+    ["Completion"]="Tüm bu çeşitlilik, ne derler bilirsin, çeşitlilik hayatın tuzu biberidir (spice of life)! Bir sonraki yolculuğumuza çıktığımızda, tüm bunlar kesinlikle herkesin keyfini yerinde tutacaktır. En son dışarı açıldığımızda, elimizde neredeyse hiç bira kalmamıştı, varillerin (barrels) çoğu imha edilmişti ve sana söyleyeyim, eğer bir daha böyle bir şey olsaydı Garfield kellemden ederdi (have my neck)! Sıkı çalışman için teşekkürler seni uğursuz köpek (scurvy dog), bir teşekkür olarak bu parayı al.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Smuggling Ale
 
 -- Snarlclaw
     -- Knight -> şövalye, Gilneas = Gilneas[cite: 2]. Service -> hizmet, loyalities -> sadakatler. Death -> ölüm, wife -> eş / karım, truth -> gerçek. Loyalists -> kraliyetçiler / sadık olanlar, incursion of the worgen -> worgen akını, innocents -> masumlar, city -> şehir. Snarlclaw -> Hırlayanpençe (Snarl + Claw). Revenge -> intikam, sorrows -> kederler. Cave -> mağaralar, Bloodclaw worgen -> Kanlıpençe worgenları.
-    -- Slay the beast -> canavarı katlet. Maxwell Givings -> Maxwell Givings kalmıştır[cite: 1]. Shademore Tavern -> Gölgelidiyar Meyhanesi.
+    -- Slay the beast -> canavarı katlet. Maxwell Givings -> Maxwell Givings kalmıştır. Shademore Tavern -> Gölgelidiyar Meyhanesi.
     -- Thought -> düşünce / efkar. Relief -> rahatlama. Thanks -> minnettar kalmak. Solace -> teselli, dark days -> karanlık günler.
     ["40945"] = {
     ["Title"]="Hırlayanpençe",
     ["Description"]="Bir zamanlar Gilneas şövalyesi (knight) olarak hizmet ettim[cite: 2]. Hizmetim sırasında sadakatimi sarsan pek çok şey gördüm. Ancak eşimin ölümüne kadar gerçeği sonsuza dek göremedim. Kraliyetçiler (loyalists), şehir dışındaki masumları cezalandırmak için worgen akınına (incursion of the worgen) izin verdi. Karım, Hırlayanpençe (Snarlclaw) adlı bir yaratık yüzünden sonunu buldu ve benim intikamımı almam yasaklandı. Şimdi burada kalıyor, kederlerimi (sorrows) içerek tüketiyorum. Hırlayanpençe adlı canavarı katlet ve o kraliyetçilerin asla midesinin kaldıramayacağı şeyi yap. Bu canavarı kuzeydoğuda, Kanlıpençe (Bloodclaw) worgenlarıyla birlikte mağaraların arasında saklanırken bulacaksın.",
-    ["Objectives"]="Gilneas'taki Gölgelidiyar Meyhanesi'nde (Shademore Tavern) bulunan Maxwell Givings için Hırlayanpençe (Snarlclaw) adlı worgenı katlet[cite: 1, 2].",
-    ["Progress"]="<Maxwell efkara dalmış durumda.>[cite: 1]",
+    ["Objectives"]="Gilneas'taki Gölgelidiyar Meyhanesi'nde (Shademore Tavern) bulunan Maxwell Givings için Hırlayanpençe (Snarlclaw) adlı worgenı katlet.",
+    ["Progress"]="<Maxwell efkara dalmış durumda.>",
     ["Completion"]="Bir tür rahatlama (relief) hissetmeyi bekliyordum ama doğrusu pek bir şey hissetmiyorum. Bana büyük bir hizmette bulundun ve bunun için sana minnettarım (in your thanks). Belki yakında önümüzdeki karanlık günlerden bir teselli bulabilirim. Lütfen bunu al, artık buna ihtiyacım olmayacak.",
     ["minlevel"]="0",
     ["questlevel"]="0",
@@ -40538,24 +40538,24 @@ QuestTranslator_QuestData = {
 
 -- Solutions On Their Way
     -- Disaster -> felaket, span of time -> zaman dilimi. Monetary failure -> parasal başarısızlık, alliance -> ittifak, Horde = Horde. Benefactors -> velinimetler, Orgrimmar = Orgrimmar, resources -> kaynaklar. Blackstone Island -> Karataş Adası[cite: 2]. Wishful thinking -> hüsnükuruntu. Trip -> yolculuk, Rustgate -> Paslıkapı, chaos -> kaos.
-    -- Taxxlo Rustgate -> Taxxlo Paslıkapı kalmıştır[cite: 1]. Ugly mug -> çirkin surat.
-    -- Blastentom -> Blastentom kalmıştır[cite: 1] (Nert Blastentom kastediliyor). Tower -> kule. Both of our sakes -> ikimizin iyiliği için.
+    -- Taxxlo Rustgate -> Taxxlo Paslıkapı kalmıştır. Ugly mug -> çirkin surat.
+    -- Blastentom -> Blastentom kalmıştır (Nert Blastentom kastediliyor). Tower -> kule. Both of our sakes -> ikimizin iyiliği için.
     ["41170"] = {
     ["Title"]="Çözümler Yolda",
     ["Description"]="Bu tam bir felaket (disaster)! Bu kadar kısa bir zaman diliminde bu nasıl olabilir? Bu sadece parasal bir başarısızlık değil, aynı zamanda Horde ile olan ittifakımıza karşı da potansiyel bir tehdit! Orgrimmar'daki (Orgrimmar) velinimetlerimize sabit bir oranda yeni kaynaklar sözü vermiştim, ancak Karataş Adası'nda (Blackstone Island) olanlarla birlikte, bu sadece hüsnükuruntudan ibaret kalacak[cite: 2]. YOUR_NAME, Karataş Adası'na bir sonraki yolculuğa çık ve bu berbat operasyonu kurtarmada Paslıkapı'ya (Rustgate) yardım et. Şimdi git, sonuç görmek istiyorum!",
-    ["Objectives"]="Karataş Adası'ndaki Taxxlo Paslıkapı'ya (Taxxlo Rustgate) geri dön[cite: 1, 2].",
+    ["Objectives"]="Karataş Adası'ndaki Taxxlo Paslıkapı'ya (Taxxlo Rustgate) geri dön.",
     ["Progress"]="Bekle, bu çirkin suratı (ugly mug) tanıyorum.",
-    ["Completion"]="Blastentom burada neler döndüğünden memnun değil mi?[cite: 1] Şaşırmış gibi yapayım bari. İkimizin de iyiliği için, kulemden (tower) çık ve şu kaosu temizlemeye başla!",
+    ["Completion"]="Blastentom burada neler döndüğünden memnun değil mi? Şaşırmış gibi yapayım bari. İkimizin de iyiliği için, kulemden (tower) çık ve şu kaosu temizlemeye başla!",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Solutions On Their Way
     -- Someone With A Pig's Tongue
     -- symbols -> semboller, speech -> konuşma dili / konuşma, Camp Taurajo = Taurajo Kampı[cite: 2].
-    -- quilboar -> kılınçdomuz / quilboar, prisoner -> mahkum, Kagoro kalmıştır[cite: 1].
+    -- quilboar -> kılınçdomuz / quilboar, prisoner -> mahkum, Kagoro kalmıştır.
     -- Quilboar Mangletooth -> Kılınçdomuz Eğridiş (Mangle + Tooth).
     ["40574"] = {
     ["Title"]="Domuz Dilli Biri",
-    ["Description"]="Korkarım bu sembollerden (symbols) hiçbir şey çıkaramıyorum; bu tür bir konuşma dilini (speech) bilen ve bize yardım etmeye istekli birini bulmalıyız. <Kagoro bir anlığına düşünür.>[cite: 1] Taurajo Kampı'ndaki (Camp Taurajo) Taurenlerin geçenlerde bir kılınçdomuz (quilboar) yakaladığını duydum, belki bir konuşma yapmaya isteklidir[cite: 2]. Sonuçta kaybedecek bir şey yok, o bir mahkum (prisoner); eğer istekli değilse onu zorla.",
+    ["Description"]="Korkarım bu sembollerden (symbols) hiçbir şey çıkaramıyorum; bu tür bir konuşma dilini (speech) bilen ve bize yardım etmeye istekli birini bulmalıyız. <Kagoro bir anlığına düşünür.> Taurajo Kampı'ndaki (Camp Taurajo) Taurenlerin geçenlerde bir kılınçdomuz (quilboar) yakaladığını duydum, belki bir konuşma yapmaya isteklidir[cite: 2]. Sonuçta kaybedecek bir şey yok, o bir mahkum (prisoner); eğer istekli değilse onu zorla.",
     ["Objectives"]="Daha fazla bilgi için Taurajo Kampı'ndaki Kılınçdomuz Eğridiş (Quilboar Mangletooth) ile konuş[cite: 2].",
     ["Progress"]="Konuş.",
     ["Completion"]="Eğridiş (Mangletooth) <horlar.> seni selamlıyor, YOUR_RACE.",
@@ -40567,11 +40567,11 @@ QuestTranslator_QuestData = {
     -- castle -> kale, orcs -> orklar, Swamp of Sorrows = Keder Bataklığı (Swamp of Sorrows)[cite: 2].
     -- Sorrowmoss Mushrooms -> Kederyosunu Mantarları (Sorrow + Moss). Region -> bölge.
     -- hometown -> memleket, coin -> sikke / para, profits -> kâr.
-    -- 'Sly' Duncan -> 'Kurnaz' Duncan kalmıştır[cite: 1].
+    -- 'Sly' Duncan -> 'Kurnaz' Duncan kalmıştır.
     ["40077"] = {
     ["Title"]="Kederyosunu Mantarları!",
     ["Description"]="Selam, ortak! Buralarda pek yeni yüz görmeyiz, özellikle de bu eski, hırpalanmış kalede (castle)! Yok edilmeden önce günlerce orkları (orcs) geride tutan cesur savunucuların söylentilerini kesinlikle duymuşsundur! Ne hikaye ama. Sana Keder Bataklığı'ndaki (Swamp of Sorrows) mantarlar hakkında, özellikle de Kederyosunu Mantarları (Sorrowmoss Mushrooms) hakkında da hikayeler anlatabilirim[cite: 2]! Kederyosunu Mantarları sadece bu bölgede (region) yetişir. Onları düzgün bir şekilde nasıl pişireceğini çözdüğünde kendilerine has bir... \"tatları\" vardır — çünkü düzgün pişirmezsen, şey, bu ölümcüldür! Eski memleketimden (hometown) bunları denemek isteyecek birkaç arkadaşım var. Bir dostluk yapıp onları almama yardım edersin, değil mi? Tüm ihtiyacım olan on tane. Bu gayet iyi iş görür ortak!",
-    ["Objectives"]="'Kurnaz' Duncan ('Sly' Duncan) için 10 Kederyosunu Mantarı (Sorrowmoss Mushrooms) topla[cite: 1].",
+    ["Objectives"]="'Kurnaz' Duncan ('Sly' Duncan) için 10 Kederyosunu Mantarı (Sorrowmoss Mushrooms) topla.",
     ["Progress"]="Hiç şansın yaver gitti mi? Bataklık tehlikeli bir yerdir, bu yüzden dikkatli ol!",
     ["Completion"]="Huha! Başardın, ortak. Şimdi nihayet biraz para (coin) kazanabilir ve bunlardan bazılarını satabilirim, ama al bakalım. Kârdan (profits) payını almadığını söyleme!",
     ["minlevel"]="0",
@@ -40583,11 +40583,11 @@ QuestTranslator_QuestData = {
     -- Mortudiant = Mortudiant. Scholars -> alimler / akademisyenler, Second War -> İkinci Savaş.
     -- Dalaran = Dalaran[cite: 2], Gul'dan's death knights -> Gul'dan'ın ölüm şövalyeleri.
     -- Philosopher's Stone -> Felsefe Taşı. Masters -> efendiler / üstadlar, Undercity = Undercity (Karanlıkşehir)[cite: 2].
-    -- Varimathras = Varimathras kalmıştır[cite: 1]. Lich -> lich, draughts -> iksirler.
+    -- Varimathras = Varimathras kalmıştır. Lich -> lich, draughts -> iksirler.
     ["80726"] = {
     ["Title"]="Ruh ve Simya",
     ["Description"]="Geri getirdiğin, Kızıllar (Scarlets) tarafından demlenen o iksir Uyuyan Ölüm İksiri (Draught of Dormant Death) veya biz alimlerin (scholars) tercih ettiği üzere Mortudiant olarak bilinir. İlk olarak İkinci Savaş (the Second War) sırasında, Gul'dan'ın ölüm şövalyelerinin tekinsiz gücüne karşı koymaya yardımcı olmak amacıyla Dalaran'da tasarlandı[cite: 2]. Yalnızca transmutasyonda yaygın olarak kullanılan ve Felsefe Taşı (Philosopher's Stone) olarak bilinen belirli bir simyasal araçla hazırlanabilir. Ki buna ne yazık ki ne sahibim ne de nasıl taklit edileceğini biliyorum. Şimdilik öğrendiklerinle Karanlıkşehir'deki (Undercity) üstadlarına (masters) geri dönmelisin[cite: 2]. Ben iksiri tutacağım ve başka bir şey öğrenip öğrenemeyeceğime bakacağım.",
-    ["Objectives"]="Karanlıkşehir'deki (Undercity) Varimathras'a geri dön[cite: 1, 2].",
+    ["Objectives"]="Karanlıkşehir'deki (Undercity) Varimathras'a geri dön.",
     ["Progress"]="Sadık YOUR_RACE geri dönüyor. Devam et, konuş.",
     ["Completion"]="Bah, iksirler (draughts), karışımlar ve taşlar. Bundan daha sıkıcı bir şey olabilir mi? En azından o sözde 'lich' bir işe yaradı. Tıpkı senin gibi. Beni bir kez daha memnun ettin.",
     ["minlevel"]="0",
@@ -40614,11 +40614,11 @@ QuestTranslator_QuestData = {
     -- Goldthorn Tea -> Altındiken Çayı (Goldthorn + Tea). Wild Shore -> Vahşi Kıyı (Wild + Shore)[cite: 2].
     -- Booty Bay = Booty Bay (Ganimet Koyu)[cite: 2], Bloodsail Buccaneers -> Kanlıyel Korsanları (Bloodsail Buccaneers)[cite: 2].
     -- Supplier -> tedarikçi, customers -> müşteriler.
-    -- Southern Sand Crawler Legs -> Güney Kum Sürüngeni Bacakları. Innkeeper Skindle -> Hancı Skindle kalmıştır[cite: 1]. Reward -> ödül.
+    -- Southern Sand Crawler Legs -> Güney Kum Sürüngeni Bacakları. Innkeeper Skindle -> Hancı Skindle kalmıştır. Reward -> ödül.
     ["60155"] = {
     ["Title"]="Güneydenizi Lezzeti",
     ["Description"]="Yengeç bacakları (Crab legs) — çok lezzetli bir şeydir. Her şeyle iyi giderler! Lağımkazan Kıskaç Çorbası (Undermine Claw Chowder), Altındiken Çayı (Goldthorn Tea) ve hatta diğer yengeç bacaklarıyla bile! Belki de onları yakalayacak ve ihtiyacım olan yengeç bacaklarını getirecek kadar güçlüsündür? Onları Ganimet Koyu'nun (Booty Bay) bizzat güneyinde yer alan Vahşi Kıyı'da (Wild Shore) bulabilirsin[cite: 2]. Yine de dikkatli ol. Kıyının Kanlıyel Korsanları (Bloodsail Buccaneers) tarafından istila edildiğini duydum[cite: 2]. Bu durum, tedarikçimin (supplier) neden gelmeyi bıraktığını açıklıyor.",
-    ["Objectives"]="Ganimet Koyu'ndaki (Booty Bay) Hancı Skindle'a 10 Güney Kum Sürüngeni Bacağı (Southern Sand Crawler Legs) getir[cite: 1, 2].",
+    ["Objectives"]="Ganimet Koyu'ndaki (Booty Bay) Hancı Skindle'a 10 Güney Kum Sürüngeni Bacağı (Southern Sand Crawler Legs) getir.",
     ["Progress"]="Harekete geç. Müşterilerim (customers) bekliyor!",
     ["Completion"]="Oh, harika bacaklar! Izgara yap, haşla, bir tencereye koy. Sen... bir ödül (reward) mi istiyorsun? Sanırım bu kadarı yeterli olacaktır.",
     ["minlevel"]="0",
@@ -40630,12 +40630,12 @@ QuestTranslator_QuestData = {
     -- Charisma -> karizma, wealth, fortune, and adventure -> zenginlik, servet ve macera. Southsea Freebooters -> Güneydenizi Haydutları.
     -- Southwest -> güneybatı, dangerous strip of sand -> tehlikeli kum şeridi. The Southsea Sandbar -> Güneydenizi Kumsalı (Southsea + Sandbar)[cite: 2].
     -- Gilijim = Gilijim[cite: 2], Lapidis = Lapidis[cite: 2]. Boats -> tekneler / gemiler, leaders -> liderler.
-    -- Southsea Captains -> Güneydenizi Kaptanları, Colonel Hardinus -> Albay Hardinus kalmıştır[cite: 1], Caelan's Rest -> Caelan'ın İnzivası[cite: 2].
+    -- Southsea Captains -> Güneydenizi Kaptanları, Colonel Hardinus -> Albay Hardinus kalmıştır, Caelan's Rest -> Caelan'ın İnzivası[cite: 2].
     -- Chaos -> kaos, Admiral -> Amiral, fleet -> filo.
     ["40144"] = {
     ["Title"]="Güneydenizi Müdahalesi",
     ["Description"]="Toplanan her kuşakla (sash) birlikte Güneydenizi (Southsea) zayıflıyor ama yok olmuyor. Onların gücü her geminin kaptanından ve mürettebatından (crew) gelir. Büyük bir karizmaya sahip, zenginlik, servet ve macera vaat eden bir adam, önünde geleceği olmayan bir grubu kolayca kışkırtabilir. Hedef almamız gereken kişiler tam da bu bireylerdir — Güneydenizi Haydutları'nın (Southsea Freebooters) kaptanları. Onları güneybatıda, Güneydenizi Kumsalı (The Southsea Sandbar) adı verilen tehlikeli bir kum şeridi boyunca bulacaksın[cite: 2]. Temkinli ol, orası hem Gilijim hem de Lapidis üzerindeki korsanların ana kampıdır[cite: 2]. Kaptanları (captains) oradaki teknelerin üzerinde bulacaksın. Her birine gir ve liderleri (leaders) öldür.",
-    ["Objectives"]="Caelan'ın İnzivası'ndaki Albay Hardinus için Güneydenizi Kumsalı'nda bulunan Güneydenizi Kaptanlarını (Southsea Captains) katlet[cite: 1, 2].",
+    ["Objectives"]="Caelan'ın İnzivası'ndaki Albay Hardinus için Güneydenizi Kumsalı'nda bulunan Güneydenizi Kaptanlarını (Southsea Captains) katlet.",
     ["Progress"]="Liderler öldüğünde, korsanlar yeni bir liderlik kurmak için bir kaos ortamına sürükleneceklerdir.",
     ["Completion"]="Amiral (The Admiral) yaptığın her şeyle gurur duyardı. Güneydenizi'nin yeni bir lider bulmasının birçok hafta alacağından hiç şüphem yok ve o zaman bile eskisinden çok daha zayıf olacaklar. Şerefe, filonun (fleet) ölülerinin intikamı alındı.",
     ["minlevel"]="0",
@@ -40648,12 +40648,12 @@ QuestTranslator_QuestData = {
     -- Southsea Reserve recipe -> Güneydenizi Rezervi tarifi. Strand of sand -> kum şeridi, Southsea Sandbar -> Güneydenizi Kumsalı[cite: 2].
     -- Distillery Island -> Damıtımevi Adası (Distillery + Island)[cite: 2]. Factory -> fabrika, crew -> mürettebat / tayfa.
     -- Southwest -> güneybatı, Lapidis Isle -> Lapidis Adası[cite: 2]. Ships docked -> yanaşmış gemiler.
-    -- 'Moonshine' Marty -> 'Kaçakki' Marty kalmıştır[cite: 1]. Sailor Larson -> Denizci Larson kalmıştır[cite: 1].
+    -- 'Moonshine' Marty -> 'Kaçakki' Marty kalmıştır. Sailor Larson -> Denizci Larson kalmıştır.
     -- Caelan's Rest -> Caelan'ın İnzivası[cite: 2]. Swashbuckler -> fedai / korsan, Waterbreaker -> Sukıran kalmıştır (Gemi adı).
     ["40148"] = {
     ["Title"]="Güneydenizi Rezervi",
-    ["Description"]="Oh, yeniden denizde olmak... denizde ve eve dönüş yolunda olmak. Adanın bu küçük kısmında başıboş dolaşmaya terk edilmek tam bir cehennem oldu. Biz denizcilerin (sailors) sahip olduğu tek şey grog ve birbirimizin sohbetidir. Rom (Rum) güzeldir ama biz daha fazla çeşitlilik (variety) arzuluyoruz. İşte burada sen devreye gireceksin. Güneydenizi Korsanları (Southsea Pirates), yalnızca kendilerinin yapabildiği kendilerine has Güneydenizi Rezervi (Southsea Reserve) tarifleriyle oldukça tanınırlar. Yani, sen gidip tarifi çalana kadar. Şu anda Güneydenizi Kumsalı (Southsea Sandbar) adı verilen bir kum şeridinde ve Damıtımevi Adası (Distillery Island) olarak bilinen komşu küçük kum parçasında barınıyorlar[cite: 2]. Pratik olarak bu şeyin lanet olası bir fabrikasıdır. Bu rezervi pompalamak için günün her saati çalışan tam eğitimli bir mürettebata sahipler. Lapidis Adası kıyılarının güneybatısındadır[cite: 2]. Oraya yanaşmış birkaç gemilerini görmelisin. Tarifi bulan kişinin adı 'Kaçakki' Marty ('Moonshine' Marty); onu ondan alacaksın[cite: 1].",
-    ["Objectives"]="Caelan'ın İnzivası'ndaki Denizci Larson için 'Kaçakki' Marty'den Güneydenizi Rezervi Tarifini (Southsea Reserve Recipe) ele geçir[cite: 1, 2].",
+    ["Description"]="Oh, yeniden denizde olmak... denizde ve eve dönüş yolunda olmak. Adanın bu küçük kısmında başıboş dolaşmaya terk edilmek tam bir cehennem oldu. Biz denizcilerin (sailors) sahip olduğu tek şey grog ve birbirimizin sohbetidir. Rom (Rum) güzeldir ama biz daha fazla çeşitlilik (variety) arzuluyoruz. İşte burada sen devreye gireceksin. Güneydenizi Korsanları (Southsea Pirates), yalnızca kendilerinin yapabildiği kendilerine has Güneydenizi Rezervi (Southsea Reserve) tarifleriyle oldukça tanınırlar. Yani, sen gidip tarifi çalana kadar. Şu anda Güneydenizi Kumsalı (Southsea Sandbar) adı verilen bir kum şeridinde ve Damıtımevi Adası (Distillery Island) olarak bilinen komşu küçük kum parçasında barınıyorlar[cite: 2]. Pratik olarak bu şeyin lanet olası bir fabrikasıdır. Bu rezervi pompalamak için günün her saati çalışan tam eğitimli bir mürettebata sahipler. Lapidis Adası kıyılarının güneybatısındadır[cite: 2]. Oraya yanaşmış birkaç gemilerini görmelisin. Tarifi bulan kişinin adı 'Kaçakki' Marty ('Moonshine' Marty); onu ondan alacaksın.",
+    ["Objectives"]="Caelan'ın İnzivası'ndaki Denizci Larson için 'Kaçakki' Marty'den Güneydenizi Rezervi Tarifini (Southsea Reserve Recipe) ele geçir.",
     ["Progress"]="Hiç şansın yaver gitti mi, denizci (matey)?",
     ["Completion"]="İşte bu! Haha! Çok güzel bir iş — Sukıran (Waterbreaker) onarıldığında gemide mükemmel bir korsan (swashbuckler) olursun!",
     ["minlevel"]="0",
@@ -40663,12 +40663,12 @@ QuestTranslator_QuestData = {
 -- Spectral Wine
     -- Spectral Wine -> Tayfsal Şarap / Hayalet Şarabı (Spectral + Wine). Spirits -> ruhlar, concept -> konsept.
     -- Karazhan = Karazhan[cite: 2]. Essences of Death -> Ölüm Özleri. Flasks of Port -> Liman Birası Şişeleri.
-    -- Ghost Mushroom -> Hayalet Mantarı. Councilman Kyleson -> Meclis Üyesi Kyleson kalmıştır[cite: 1].
-    -- Sanity -> akıl sağlığı, The Cook -> Aşçı kalmıştır[cite: 1], formula -> formül.
+    -- Ghost Mushroom -> Hayalet Mantarı. Councilman Kyleson -> Meclis Üyesi Kyleson kalmıştır.
+    -- Sanity -> akıl sağlığı, The Cook -> Aşçı kalmıştır, formula -> formül.
     ["41085"] = {
     ["Title"]="Tayfsal Şarap",
-    ["Description"]="İster inan ister inanma, Tayfsal Şarap (Spectral Wine) için bir tarifim var. Ruhlar (spirits) tarafından tüketilebilen şarap, üzerinde pratik yaptığım ve geliştirdiğim bir konseptti. Bu biraz karmaşık bir süreçtir ve burada Karazhan'da (Karazhan) yabancı olan malzemeler gerektirir[cite: 2]. Eğer benim için üç Ölüm Özü (Essences of Death), beş Şişe Liman Birası (Flasks of Port) ve tek bir Hayalet Mantarı (Ghost Mushroom) bulabilirsen, Meclis Üyesi Kyleson (Councilman Kyleson) için Tayfsal Şarap yapabilirim[cite: 1]. Yine de bu zahmete girmendeki akıl sağlığını (sanity) sorgulamalıyım.",
-    ["Objectives"]="Karazhan'daki Aşçı (The Cook) için 3 Ölüm Özü (Essence of Death), 5 Şişe Liman Birası (Flask of Port) ve bir Hayalet Mantarı (Ghost Mushroom) topla[cite: 1, 2].",
+    ["Description"]="İster inan ister inanma, Tayfsal Şarap (Spectral Wine) için bir tarifim var. Ruhlar (spirits) tarafından tüketilebilen şarap, üzerinde pratik yaptığım ve geliştirdiğim bir konseptti. Bu biraz karmaşık bir süreçtir ve burada Karazhan'da (Karazhan) yabancı olan malzemeler gerektirir[cite: 2]. Eğer benim için üç Ölüm Özü (Essences of Death), beş Şişe Liman Birası (Flasks of Port) ve tek bir Hayalet Mantarı (Ghost Mushroom) bulabilirsen, Meclis Üyesi Kyleson (Councilman Kyleson) için Tayfsal Şarap yapabilirim. Yine de bu zahmete girmendeki akıl sağlığını (sanity) sorgulamalıyım.",
+    ["Objectives"]="Karazhan'daki Aşçı (The Cook) için 3 Ölüm Özü (Essence of Death), 5 Şişe Liman Birası (Flask of Port) ve bir Hayalet Mantarı (Ghost Mushroom) topla.",
     ["Progress"]="Hepsini aldın mı?",
     ["Completion"]="Bu formülü (formula) bir kez bile kullanacağımı hiç düşünmezdim ama işte buradayım.",
     ["minlevel"]="0",
@@ -40677,11 +40677,11 @@ QuestTranslator_QuestData = {
 
 -- Spider Meat Good
     -- Marsh -> Bataklık, Kalimdor = Kalimdor[cite: 2], chef -> şef, hungry -> aç.
-    -- Ogg'mar -> Ogg'mar kalmıştır[cite: 1]. White spider meat -> beyaz örümcek eti. Sausage -> sosis.
+    -- Ogg'mar -> Ogg'mar kalmıştır. White spider meat -> beyaz örümcek eti. Sausage -> sosis.
     ["40405"] = {
     ["Title"]="Örümcek Eti İyi",
-    ["Description"]="Bataklık (Marsh) çirkin, kokulu! Ben Kalimdor'daki (Kalimdor) en iyi şef (chef), ama ben sadece çirkin ve kokulu şeyler pişirmek! Ben çok aç (hungry), ben seni yiyebilir. <Ogg'mar güler>[cite: 1] Şaka, şaka. Ama bende fikir var. Ben çirkin örümceği iyi yiyecek yapmak, sana da biraz vermek. Ogg'mar için avlan, örümcek avla, beyaz örümcek eti (white spider meat) getir. Onları iyi kır, onları iyi avla! Ben onları iyi pişirmek, biz onları birlikte iyi yemek!",
-    ["Objectives"]="Dustwallow Bataklığı'ndaki (Dustwallow Marsh) Ogg'mar için örümceklerden 10 Beyaz Örümcek Eti (White Spider Meat) topla[cite: 1, 2].",
+    ["Description"]="Bataklık (Marsh) çirkin, kokulu! Ben Kalimdor'daki (Kalimdor) en iyi şef (chef), ama ben sadece çirkin ve kokulu şeyler pişirmek! Ben çok aç (hungry), ben seni yiyebilir. <Ogg'mar güler> Şaka, şaka. Ama bende fikir var. Ben çirkin örümceği iyi yiyecek yapmak, sana da biraz vermek. Ogg'mar için avlan, örümcek avla, beyaz örümcek eti (white spider meat) getir. Onları iyi kır, onları iyi avla! Ben onları iyi pişirmek, biz onları birlikte iyi yemek!",
+    ["Objectives"]="Dustwallow Bataklığı'ndaki (Dustwallow Marsh) Ogg'mar için örümceklerden 10 Beyaz Örümcek Eti (White Spider Meat) topla.",
     ["Progress"]="Et?",
     ["Completion"]="Evet, evet. İyi et, yeterli de, ben bize sosis (sausage) yapmak.",
     ["minlevel"]="0",
@@ -40689,14 +40689,14 @@ QuestTranslator_QuestData = {
     }, -- end Spider Meat Good
 
 -- Spiritual Guidance
-    -- Destiny -> kader, spirits -> ruhlar. Beram Skychaser -> Beram Gökyüzüavcısı kalmıştır[cite: 1].
+    -- Destiny -> kader, spirits -> ruhlar. Beram Skychaser -> Beram Gökyüzüavcısı kalmıştır.
     -- Thunder Bluff = Thunder Bluff[cite: 2], ritual -> ritüel.
     -- Spirit Rise -> Ruh Tepesi (Spirit + Rise)[cite: 2], northeastern edge -> kuzeydoğu ucu, bluffs -> tepeler.
     -- Orgrimmar = Orgrimmar[cite: 2], messages -> mesajlar, age old tradition -> asırlık bir gelenek.
     ["40343"] = {
     ["Title"]="Ruhani Rehberlik",
-    ["Description"]="Onu hissedebiliyor musun, kaderin (destiny) seni çağırıyor küçük olan, ruhların (spirits) bizzat kendisi senin adını fısıldıyor. Bizim türümüzün bir ritüeline (ritual) katılman için Thunder Bluff'taki Beram Skychaser tarafından çağrıldın[cite: 1, 2]. Onu tepelerin kuzeydoğu ucundaki Ruh Tepesi'nde (Spirit Rise) bulabilirsin; oraya git ve onu bul[cite: 2].",
-    ["Objectives"]="Thunder Bluff'a seyahat et ve Beram Skychaser (Beram Skychaser) ile konuş[cite: 1, 2].",
+    ["Description"]="Onu hissedebiliyor musun, kaderin (destiny) seni çağırıyor küçük olan, ruhların (spirits) bizzat kendisi senin adını fısıldıyor. Bizim türümüzün bir ritüeline (ritual) katılman için Thunder Bluff'taki Beram Skychaser tarafından çağrıldın. Onu tepelerin kuzeydoğu ucundaki Ruh Tepesi'nde (Spirit Rise) bulabilirsin; oraya git ve onu bul[cite: 2].",
+    ["Objectives"]="Thunder Bluff'a seyahat et ve Beram Skychaser (Beram Skychaser) ile konuş.",
     ["Progress"]="Evet?",
     ["Completion"]="Mesajlarımın Orgrimmar'dan alındığını görmekten mutluluk duyuyorum, Ruh Tepesi'ne (Spirit Rise) hoş geldin; artık asırlık bir gelenekten (age old tradition) geçme vaktin geldi[cite: 2].",
     ["minlevel"]="0",
@@ -40717,13 +40717,13 @@ QuestTranslator_QuestData = {
 
 -- Spiritwalk
     -- ID 42060 (Bölüm II)
-    -- Travels -> yolculuklar, wisdom -> bilgelik. Artahla Starstrider -> Artahla Yıldızgezgini kalmıştır[cite: 1].
+    -- Travels -> yolculuklar, wisdom -> bilgelik. Artahla Starstrider -> Artahla Yıldızgezgini kalmıştır.
     -- Lore -> ilim / hikayeler, spells -> büyüler, quest -> görev. Spirit Rise -> Ruh Tepesi[cite: 2], Thunder Bluff = Thunder Bluff[cite: 2].
     -- Spiritual journey -> ruhani yolculuk.
     ["42060"] = {
     ["Title"]="Ruh Yürüyüşü",
-    ["Description"]="Yolculuklarının (travelers) bilgeliği açıkça görülebiliyor. Sanırım Artahla Starstrider ile bir kez daha konuşmanın ve halkının ilminin (lore) daha derinlerine dalmanın zamanı geldi[cite: 1]. Görevinde (quest) sana yardımcı olması için sana yeni büyüler (spells) öğretebilecektir. Onunla Thunder Bluff'taki Ruh Tepesi'nde (Spirit Rise) buluş[cite: 2].",
-    ["Objectives"]="Thunder Bluff'taki Artahla Starstrider (Artahla Starstrider) ile konuş[cite: 1, 2].",
+    ["Description"]="Yolculuklarının (travelers) bilgeliği açıkça görülebiliyor. Sanırım Artahla Starstrider ile bir kez daha konuşmanın ve halkının ilminin (lore) daha derinlerine dalmanın zamanı geldi. Görevinde (quest) sana yardımcı olması için sana yeni büyüler (spells) öğretebilecektir. Onunla Thunder Bluff'taki Ruh Tepesi'nde (Spirit Rise) buluş[cite: 2].",
+    ["Objectives"]="Thunder Bluff'taki Artahla Starstrider (Artahla Starstrider) ile konuş.",
     ["Progress"]="",
     ["Completion"]="Geri döndün. Ruhani yolculuğunda (spiritual journey) yeni bir sayfa açmanın zamanı geldi.",
     ["minlevel"]="0",
@@ -40734,13 +40734,13 @@ QuestTranslator_QuestData = {
     -- Spitecrest naga -> Nispetarması nagaları, stubborn and vile kind -> inatçı ve aşağılık bir tür.
     -- Lord and Mistress -> Efendi ve Hanım, forked trident -> çatallı zıpkın, Gilneas = Gilneas[cite: 2]. Tyranney -> zulüm, coasts -> kıyılar.
     -- Slithering kin -> sürüngen soydaşları, southern beaches -> güney sahilleri.
-    -- Lord Zarsan -> Lord Zarsan kalmıştır[cite: 1], Mistress Hesszha -> Hanım Hesszha kalmıştır[cite: 1], southern coast -> güney kıyısı.
-    -- Dockwatcher Vorren -> İskele Gözcüsü Vorren kalmıştır[cite: 1], Ravenshire = Kuzgunbucağı (Ravenshire)[cite: 2].
+    -- Lord Zarsan -> Lord Zarsan kalmıştır, Mistress Hesszha -> Hanım Hesszha kalmıştır, southern coast -> güney kıyısı.
+    -- Dockwatcher Vorren -> İskele Gözcüsü Vorren kalmıştır, Ravenshire = Kuzgunbucağı (Ravenshire)[cite: 2].
     -- Heroes work -> kahramanlık işi, token of my thanks -> teşekkürümün bir göstergesi.
     ["40947"] = {
     ["Title"]="Nispetarması Bozgunları",
     ["Description"]="Bu kadar kolay olacağını düşünmemiştin, değil mi? O Nispetarması nagaları (Spitecrest naga) inatçı ve aşağılık bir türdür. Hem bir Lord hem de bir Mistress tarafından yönetiliyorlar; her biri bizzat Gilneas'a saldıran çatallı bir zıpkının iki ucuna komuta ediyor[cite: 2]. Nagaların Lord ve Mistress'ini bulup katlet, kıyılarımızı tehdit eden bu zulme (tyranney) son vereceksin. Onları güney sahillerinde, sürüngen soydaşlarının (slithering kin) arasında bulacağından hiç şüphem yok.",
-    ["Objectives"]="Gilneas'taki Kuzgunbucağı'nda bulunan İskele Gözcüsü Vorren için Gilneas'ın güney kıyısı boyunca Lord Zarsan ve Hanım Hesszha'yı bulup katlet[cite: 1, 2].",
+    ["Objectives"]="Gilneas'taki Kuzgunbucağı'nda bulunan İskele Gözcüsü Vorren için Gilneas'ın güney kıyısı boyunca Lord Zarsan ve Hanım Hesszha'yı bulup katlet.",
     ["Progress"]="Beni rahatsız etmesen iyi edersin.",
     ["Completion"]="Huh, başardın mı? Şey, neden bunu söylemedin YOUR_CLASS! Buralarda resmen gidip gerçek bir kahramanlık işi (heroes work) çıkardın ve Gilneas'ta bu nadir görülen bir şeydir[cite: 2]. Al bakalım, benim ve burada aşağıda çalışan hepimizin teşekkürünün bir göstergesi (token of my thanks) olarak bunu al. Kendimden ziyade sana daha iyi hizmet edebilir.",
     ["minlevel"]="0",
@@ -40751,11 +40751,11 @@ QuestTranslator_QuestData = {
     -- Ravenshire = Kuzgunbucağı[cite: 2], naga lot -> naga takımı, southern beaches -> güney sahilleri. Droves -> sürüler halinde, fishermen -> balıkçılar.
     -- Scales -> pullar, coastlines -> kıyı şeritleri, southern Gilneas -> güney Gilneas[cite: 2]. Peace -> huzur, bastard world -> piç dünya.
     -- Spitecrest Scales -> Nispetarması Pulları, Spitecrest Naga -> Nispetarması Nagası.
-    -- Dockwatcher Vorren -> İskele Gözcüsü Vorren kalmıştır[cite: 1]. Backbone -> omurga / cesaret, ranks -> saflar.
+    -- Dockwatcher Vorren -> İskele Gözcüsü Vorren kalmıştır. Backbone -> omurga / cesaret, ranks -> saflar.
     ["40946"] = {
     ["Title"]="Nispetarması Akınları",
-    ["Description"]="Ne, bize yardım etmek mi istiyorsun?\n\n<Vorren'ın yüzünde alaycı bir ifade belirir.>[cite: 1] Eğer Kuzgunbucağı'nda (Ravenshire) gerçekten bir şey yapmak istiyorsan, güney sahillerinde toplanmakta olan şu naga takımından (naga lot) kurtulabilirsin[cite: 2]. Geçen yıldan beri sürüler halinde ortaya çıkmaya başladılar. Pek çok iyi balıkçıyı (fishermen) katlettiler! Kanıt olarak bana pullarından (scales) on altı tane getir. Onları güney Gilneas'ın tüm kıyı şeritleri boyunca bulabilirsin[cite: 2]. Bunu yap ve şu piç dünyada bana biraz huzur getir.",
-    ["Objectives"]="Gilneas'taki Kuzgunbucağı'nda bulunan İskele Gözcüsü Vorren için güney kıyısı boyunca Nispetarması Nagalarından 16 Nispetarması Pulu (Spitecrest Scales) topla[cite: 1, 2].",
+    ["Description"]="Ne, bize yardım etmek mi istiyorsun?\n\n<Vorren'ın yüzünde alaycı bir ifade belirir.> Eğer Kuzgunbucağı'nda (Ravenshire) gerçekten bir şey yapmak istiyorsan, güney sahillerinde toplanmakta olan şu naga takımından (naga lot) kurtulabilirsin[cite: 2]. Geçen yıldan beri sürüler halinde ortaya çıkmaya başladılar. Pek çok iyi balıkçıyı (fishermen) katlettiler! Kanıt olarak bana pullarından (scales) on altı tane getir. Onları güney Gilneas'ın tüm kıyı şeritleri boyunca bulabilirsin[cite: 2]. Bunu yap ve şu piç dünyada bana biraz huzur getir.",
+    ["Objectives"]="Gilneas'taki Kuzgunbucağı'nda bulunan İskele Gözcüsü Vorren için güney kıyısı boyunca Nispetarması Nagalarından 16 Nispetarması Pulu (Spitecrest Scales) topla.",
     ["Progress"]="Beni rahatsız etmesen iyi edersin.",
     ["Completion"]="Demek bir cesaretin (backbone) varmış, ha? Saflarını (ranks) seyreltmiş olabilirsin ama hala yapılacak daha çok şey var.",
     ["minlevel"]="0",
@@ -40765,12 +40765,12 @@ QuestTranslator_QuestData = {
 -- Spoils Left Behind
     -- Great depths -> büyük derinlikler, Rethress -> Rethress (Naga topluluğu), Stranglethorn = Stranglethorn (Dikenliboğaz)[cite: 2].
     -- Naga -> naga. Tide Mistress Rashal -> Gelgit Hanımı Rashal kalmıştır, east -> doğu, island of Jaguero -> Jaguero Adası (Island + of + Jaguero)[cite: 2], temporary base -> geçici üs.
-    -- Haste -> acele, trunk -> sandık, spoils -> ganimetler. Hashaz kalmıştır[cite: 1]. Rethress Spoils -> Rethress Ganimetleri.
+    -- Haste -> acele, trunk -> sandık, spoils -> ganimetler. Hashaz kalmıştır. Rethress Spoils -> Rethress Ganimetleri.
     -- Battles -> savaşlar, ally -> müttefik, interloper -> davetsiz misafir.
     ["40035"] = {
     ["Title"]="Geride Kalan Ganimetler",
     ["Description"]="Büyük derinliklere (great depths) doğru yola çıkmadan önce, Rethress (Rethress) Dikenliboğaz'da (Stranglethorn) biraz zaman geçirdi[cite: 2]. Orada diğer Nagalarla kafa kafaya geldik, ama onun dışında sessiz kaldık ve kendi halimizde takıldık. Gelgit Hanımı Rashal'ın uzaktaki doğuda kişisel bir görevi gibi bir şeyi vardı ve Jaguero Adası'nı geçici bir üs (temporary base) haline getirdik[cite: 2]. Buradaki görevimize başlamak için büyük derinliklere geri dönmemiz çok uzun sürmedi. Acelemizle, geleceğimiz için bizim adımıza büyük önem taşıyan ganimetleri barındıran küçük bir sandığı (trunk) geride bıraktık. Oraya git ve ganimetlerimizi topla!",
-    ["Objectives"]="Hashaz için Rethress Ganimetleri'ni (Rethress Spoils) elde et[cite: 1].",
+    ["Objectives"]="Hashaz için Rethress Ganimetleri'ni (Rethress Spoils) elde et.",
     ["Progress"]="Senden istediğim şeyi topladın mı?",
     ["Completion"]="Bunun için birçok savaş (battles) verildi. Hayatların boşuna harcanmadığını duymak güzel. İyi bir müttefik (ally) olduğunu kanıtlıyorsun, davetsiz misafir (interloper).",
     ["minlevel"]="0",
@@ -40778,15 +40778,15 @@ QuestTranslator_QuestData = {
     }, -- end Spoils Left Behind
 
 -- Staff Meeting
-    -- Master Mathias -> Üstad Mathias kalmıştır[cite: 1], art of war -> savaş sanatı, staves -> asalar, volumes -> ciltler.
+    -- Master Mathias -> Üstad Mathias kalmıştır, art of war -> savaş sanatı, staves -> asalar, volumes -> ciltler.
     -- Pandaren -> Pandaren, race -> ırk, bear-like humanoids -> ayı benzeri insansılar, sea -> deniz. Masters of staff combat -> asa savaşının eşsiz üstadları.
     -- Nora -> Nora kalmıştır (Nora Steamsight), book -> kitap. Mastery of Staves -> Asalarda Ustalaşma (Kitap adı). Nora Steamsight -> Nora Buhargörüş. Fray Island -> Kavga Adası[cite: 2].
-    -- Old texts -> eski metinler, Sakgoth -> Sakgoth kalmıştır[cite: 1], moment to spare -> ayıracak bir an. Legend -> efsane, fairytale -> peri masalı, kids -> çocuklar. Art of staff fighting -> asa dövüşü sanatı, respect -> saygı. Idea -> fikir.
+    -- Old texts -> eski metinler, Sakgoth -> Sakgoth kalmıştır, moment to spare -> ayıracak bir an. Legend -> efsane, fairytale -> peri masalı, kids -> çocuklar. Art of staff fighting -> asa dövüşü sanatı, respect -> saygı. Idea -> fikir.
     ["41519"] = {
     ["Title"]="Asa Toplantısı",
-    ["Description"]="<Ağır kitap, Üstad Mathias'ın savaş sanatına (art of war) olan titiz adanmışlığının bir kanıtıdır[cite: 1]. Sadece sayfalara göz atarak genel bir bakış elde etmeye çalışmak bile üzerinizde ürkütücü bir ifade bırakıyor. Asa (staves) gibi basit bir şeyle dövüşmenin koca ciltleri doldurabileceğini kim düşünebilirdi ki? İlginizi en çok çeken şey, denizin ötesinden gelen ayı benzeri insansılardan oluşan gizemli bir ırk olan Pandarenler hakkındaki kısa bir bölümdür. Görünüşe göre, onlar asa savaşının (staff combat) eşsiz üstadları olarak tanınırlar. Meraklanarak, kitabı Nora'ya götürmeye karar veriyorsunuz.>",
+    ["Description"]="<Ağır kitap, Üstad Mathias'ın savaş sanatına (art of war) olan titiz adanmışlığının bir kanıtıdır. Sadece sayfalara göz atarak genel bir bakış elde etmeye çalışmak bile üzerinizde ürkütücü bir ifade bırakıyor. Asa (staves) gibi basit bir şeyle dövüşmenin koca ciltleri doldurabileceğini kim düşünebilirdi ki? İlginizi en çok çeken şey, denizin ötesinden gelen ayı benzeri insansılardan oluşan gizemli bir ırk olan Pandarenler hakkındaki kısa bir bölümdür. Görünüşe göre, onlar asa savaşının (staff combat) eşsiz üstadları olarak tanınırlar. Meraklanarak, kitabı Nora'ya götürmeye karar veriyorsunuz.>",
     ["Objectives"]="Asalarda Ustalaşma (Mastery of Staves) kitabını Kavga Adası'ndaki Nora Steamsight'a ulaştır[cite: 2].",
-    ["Progress"]="Selamlar! Genellikle Sakgoth'un bana getirdiği bu eski metinleri deşifre etmekle meşgulüm ama ayıracak bir dakikam var[cite: 1].",
+    ["Progress"]="Selamlar! Genellikle Sakgoth'un bana getirdiği bu eski metinleri deşifre etmekle meşgulüm ama ayıracak bir dakikam var.",
     ["Completion"]="Pandaren mi? Evet, onları duydum ama birçoğu onları bir efsane ya da çocuklar için bir peri masalı (fairytale) olarak görüyor. Ama gerçekten var olduklarını çok güvenilir kişilerden duydum! Bu pek önemli değil, değil mi? Sen asa dövüşü sanatı (art of staff fighting) hakkında daha fazla şey bilmek istiyorsun. Kesinlikle benim en güçlü alanım değil... Üstad Mathias sana daha fazlasını anlatabilirdi ama onun zamanı çok değerlidir, bu yüzden kendini kanıtlamak zorundasın! Ve aslında, onun saygısını (respect) nasıl kazanabileceğine dair harika bir fikrim var!",
     ["minlevel"]="0",
     ["questlevel"]="0",
@@ -40794,11 +40794,11 @@ QuestTranslator_QuestData = {
 
 -- Staff of Eldara
     -- Eldarath Harmonization Gem -> Eldarath Uyumlaştırma Mücevheri, Aged Deep-Rod -> Yaşlı Derinlik Asası. Staff of Eldara -> Eldara Asası. Channeling -> kanalize etme, energy -> enerji, tower -> kule, region -> bölge. Patience -> sabır, bind -> birbirine bağlamak.
-    -- Keeper Iselus -> Koruyucu Iselus kalmıştır[cite: 1], craft -> işlemek / üretmek. Chapter -> bölüm, Keepers of Azshara -> Azshara Koruyucuları, memory -> hafıza / bellek.
+    -- Keeper Iselus -> Koruyucu Iselus kalmıştır, craft -> işlemek / üretmek. Chapter -> bölüm, Keepers of Azshara -> Azshara Koruyucuları, memory -> hafıza / bellek.
     ["40247"] = {
     ["Title"]="Eldara Asası",
     ["Description"]="Eldarath Uyumlaştırma Mücevheri (Eldarath Harmonization Gem) ve Yaşlı Derinlik Asası (Aged Deep-Rod) ile bir Eldara Asası (Staff of Eldara) inşa etmeye başlayabilirim; enerjimin (energy) ve kulenin, onu bölgeyle uyumlaması için biraz kanalize edilmesi gerekecek. İkisini birbirine bağlarken (bind) sadece sabrını (patience) rica ediyorum.",
-    ["Objectives"]="Koruyucu Iselus'un (Keeper Iselus) Eldara Asası'nı üretmesini bekle[cite: 1].",
+    ["Objectives"]="Koruyucu Iselus'un (Keeper Iselus) Eldara Asası'nı üretmesini bekle.",
     ["Progress"]="Konsantre olmalıyım.",
     ["Completion"]="Başka bir bölüm (chapter) başlıyor, Azshara Koruyucuları (Keepers of Azshara) bu kadar erken hafızalardan silinip gitmeyebilir.",
     ["minlevel"]="0",
@@ -40808,11 +40808,11 @@ QuestTranslator_QuestData = {
 -- Stagwood Grasp
     -- Armory -> cephanelik, weapons -> silahlar, armor -> zırh, relics of old -> eski yadigarlar. Powerful -> güçlü, enchantments -> efsunlar. Authorized -> yetkilendirilmek, worthy allies -> layık müttefikler, Hyjal = Hyjal[cite: 2].
     -- Stagwood Grasp -> Geyikodunu Kavraması / Stagwood Kavraması, Bright Dream Shards -> Parlak Rüya Parçaları.
-    -- Elvanor Heartsong -> Elvanor Yürekşarkısı kalmıştır[cite: 1], Nordanaar = Nordanaar[cite: 2]. Dream Shards -> Rüya Parçaları, relic -> yadigar, battles -> savaşlar.
+    -- Elvanor Heartsong -> Elvanor Yürekşarkısı kalmıştır, Nordanaar = Nordanaar[cite: 2]. Dream Shards -> Rüya Parçaları, relic -> yadigar, battles -> savaşlar.
     ["41058"] = {
     ["Title"]="Stagwood Kavraması",
     ["Description"]="Cephanelikte (armory) saklanan birçok silah, zırh ve eski zamanların büyük yadigarları var. Bu eşyalar son derece güçlüdür ve yoğun efsunlarla (enchantments) yüklüdür. Burada, Hyjal'da kendilerini layık müttefikler (worthy allies) olarak kanıtlamış olanlara bu tür eşyaları sunmak için yetkilendirildim[cite: 2]. Eğer Stagwood Kavraması'nı (Stagwood Grasp) arzuluyorsan, bana yüz elli Parlak Rüya Parçası getir ve o senin olsun.",
-    ["Objectives"]="Hyjal'daki Nordanaar'da bulunan Elvanor Heartsong için 150 Parlak Rüya Parçası (Bright Dream Shards) topla[cite: 1, 2].",
+    ["Objectives"]="Hyjal'daki Nordanaar'da bulunan Elvanor Heartsong için 150 Parlak Rüya Parçası (Bright Dream Shards) topla.",
     ["Progress"]="Rüya Parçalarını (Dream Shards) getirdin mi maceracı?",
     ["Completion"]="Cephaneliğimizden gelen bu yadigar (relic) sana iyi hizmet etsin ve gelecekte meydana gelebilecek her türlü savaşta (battles) sana yardımcı olsun.",
     ["minlevel"]="0",
@@ -40821,11 +40821,11 @@ QuestTranslator_QuestData = {
 
 -- Stalking the Felstalkers
     -- Vile familiars -> aşağılık büyülü yaratıklar, coven -> cadılar meclisi / tarikat, taint -> leke / yozlaşma, valley -> vadi. Felstalkers -> felstalkerlar / iblisavcıları. Reward -> ödül.
-    -- Zureetha Fargaze -> Zureetha Uzakgörüş kalmıştır[cite: 1], Den -> İn (The Den). Numbers -> sayılar, one piece -> tek parça halinde.
+    -- Zureetha Fargaze -> Zureetha Uzakgörüş kalmıştır, Den -> İn (The Den). Numbers -> sayılar, one piece -> tek parça halinde.
     ["60147"] = {
     ["Title"]="Felstalkerların İzini Sürmek",
     ["Description"]="Tarikatın (coven) dışındaki aşağılık yaratıklarla savaştın ancak vadideki yozlaşma (taint) daha derinlere uzanıyor. Tarikatın içine girmeli ve felstalkerları (felstalkers) katletmelisin. Dön ve ödüllendirileceksin.",
-    ["Objectives"]="10 Felstalker (Felstalkers) öldür. İnin (the Den) dışındaki Zureetha Fargaze'e geri dön[cite: 1].",
+    ["Objectives"]="10 Felstalker (Felstalkers) öldür. İnin (the Den) dışındaki Zureetha Fargaze'e geri dön.",
     ["Progress"]="Ne bekliyorsun?",
     ["Completion"]="Sayılarına bir darbe indirdin ve tek parça halinde (one piece) geri döndün. Birini al, bunu hak ettin.",
     ["minlevel"]="0",
@@ -40834,11 +40834,11 @@ QuestTranslator_QuestData = {
 
 -- Stealing Arcane Goods
     -- Rogue Wizards -> Haydut Büyücüler, arcane trinkets and items -> arkana muskaları ve eşyaları. Rogue Heights -> Haydut Tepeleri (Rogue + Heights). Abilities -> yetenekler, knowledge -> bilgi. Arcane goods -> arkana malları / arkana eşyaları, camps -> kamplar, compensated -> ödüllendirilmek.
-    -- Arcane Goods -> Arkana Eşyaları, Harry Upperson -> Harry Yukarıoğul kalmıştır[cite: 1], Glenshire = Glenshire (Vadibucağı)[cite: 2]. Tomes, books -> ciltler, kitaplar. Coins -> sikkeler / paralar.
+    -- Arcane Goods -> Arkana Eşyaları, Harry Upperson -> Harry Yukarıoğul kalmıştır, Glenshire = Glenshire (Vadibucağı)[cite: 2]. Tomes, books -> ciltler, kitaplar. Coins -> sikkeler / paralar.
     ["40085"] = {
     ["Title"]="Arkana Eşyaları Çalmak",
     ["Description"]="Şüphe yok ki Haydut Büyücüler (Rogue Wizards) her türlü arkana muskasını ve eşyasını Haydut Tepeleri'nde (Rogue Heights) sakladılar. Eğer onların yeteneklerini ciddi şekilde sınırlamak istiyorsak, bu eşyaları onlardan almamız gerekecek. Bir yan etki olarak, bilgimizi (knowledge) artırabiliriz. Haydut Tepeleri'ne geri dön ve kampları arasında bulunan arkana eşyalarını çal. Onları bana getir, iyi bir şekilde ödüllendirileceğinden (compensated) emin olacağım.",
-    ["Objectives"]="Glenshire'daki Harry Upperson için Haydut Tepeleri içindeki kamplardan Arkana Eşyaları (Arcane Goods) çal[cite: 1, 2].",
+    ["Objectives"]="Glenshire'daki Harry Upperson için Haydut Tepeleri içindeki kamplardan Arkana Eşyaları (Arcane Goods) çal.",
     ["Progress"]="Onların ciltlerini, kitaplarını ve muskalarını buldun mu, YOUR_NAME?",
     ["Completion"]="Başka bir zafer — ve okunacak daha fazla kitap. Tekrar teşekkürler, arkadaşım. Sıkı çalışma için bu paraları (coins) al.",
     ["minlevel"]="0",
@@ -40860,11 +40860,11 @@ QuestTranslator_QuestData = {
 
 -- Stockpiling Hyjalroot
     -- Paranus = Paranus kalmıştır. Emerald Dream = Zümrüt Rüya[cite: 2], fold -> topluluk / düzen. Hyjalroot -> Hyjal kökü (Hyjal + Root). Stockpiling -> stoklamak.
-    -- Small Dream Shard -> Küçük Rüya Parçası. Enthos -> Enthos kalmıştır[cite: 1], Nordanaar = Nordanaar[cite: 2], Hyjal = Hyjal[cite: 2].
+    -- Small Dream Shard -> Küçük Rüya Parçası. Enthos -> Enthos kalmıştır, Nordanaar = Nordanaar[cite: 2], Hyjal = Hyjal[cite: 2].
     ["40871"] = {
     ["Title"]="Hyjal Kökü Stoklamak",
     ["Description"]="Paranus'u kurtarma çabaların için sonsuz minnettarım ama bir şeyler düşünüyordum. Bu çatışma tamamen bittiğinde ve Zümrüt Rüya (the Emerald Dream) restore edildiğinde, düzene geri döndürülmek için Hyjal köküne (Hyjalroot) ihtiyaç duyacak birçok kişi olacak[cite: 2]. Etkilenenleri kurtarmak için şimdiden Hyjal kökü stoklamaya başlamanın zamanı geldiğine inanıyorum. Eğer tesadüfen sekiz Hyjal kökü toplarsan bana geri dön, çabaların için sana bir Küçük Rüya Parçası bahşedeceğim.",
-    ["Objectives"]="Hyjal'daki Nordanaar'da bulunan Enthos için Hyjal bölgesi genelinden 8 Hyjal kökü (Hyjalroot) topla[cite: 1, 2].",
+    ["Objectives"]="Hyjal'daki Nordanaar'da bulunan Enthos için Hyjal bölgesi genelinden 8 Hyjal kökü (Hyjalroot) topla.",
     ["Progress"]="Hyjal kökü ile geri döndün mü?",
     ["Completion"]="Stokum için daha fazlası! Çabaların için tekrar teşekkürler YOUR_CLASS. Lütfen, bir kez daha, teşekkürümün bir nişanı olarak bu Küçük Rüya Parçası'nı (Small Dream Shard) al.",
     ["minlevel"]="0",
@@ -40901,12 +40901,12 @@ QuestTranslator_QuestData = {
 
 -- Stolgaz Documents
     -- Stolgaz Keep -> Stolgaz Kalesi (Stolgaz Keep)[cite: 2], Grim Reaches = Amansız Menziller[cite: 2]. Power -> güç, documents -> belgeler. Crate -> kasa, reward -> ödüllendirmek.
-    -- Stolgaz Documents -> Stolgaz Belgeleri, Advisor Ranagg -> Danışman Ranagg kalmıştır[cite: 1], Shatterblade Post -> Parçalanmışbıçak Karargahı[cite: 2].
+    -- Stolgaz Documents -> Stolgaz Belgeleri, Advisor Ranagg -> Danışman Ranagg kalmıştır, Shatterblade Post -> Parçalanmışbıçak Karargahı[cite: 2].
     -- Tamper -> kurcalanmak, Dragonmaw hands -> Ejderhaağzı elleri. Research -> araştırma.
     ["41720"] = {
     ["Title"]="Stolgaz Belgeleri",
     ["Description"]="Stolgaz Kalesi'ne (Stolgaz Keep) göğüs germeye niyetli olduğunu duydum; eğer öyleyse, dikkat gerektiren bir görevim var[cite: 2]. Bir süre önce, Stolgaz Kalesi, Amansız Menziller'in (Grim Reaches) kalbiydi[cite: 2]. Güç yansıtıyordu ve birçok önemli belgeyi (documents) barındırıyordu. İhtiyacım olan tam da bu belgelerdir ve aralarında yararlı bir şeyler bulabileceğimden eminim. Kuzeybatıdaki Stolgaz Kalesi'ne seyahat et ve bu belgelerin olduğu bir kasa (crate) bul[cite: 2]. Onları bana getir, ben de seni ödüllendireceğim.",
-    ["Objectives"]="Danışman Ranagg için Stolgaz Kalesi'nden Stolgaz Belgeleri'ni (Stolgaz Documents) geri al ve Amansız Menziller'deki Parçalanmışbıçak Karargahı'na ulaştır[cite: 1, 2].",
+    ["Objectives"]="Danışman Ranagg için Stolgaz Kalesi'nden Stolgaz Belgeleri'ni (Stolgaz Documents) geri al ve Amansız Menziller'deki Parçalanmışbıçak Karargahı'na ulaştır.",
     ["Progress"]="Belgeleri geri aldın mı?",
     ["Completion"]="İyi iş çıkardın, bunlar Ejderhaağzı (Dragonmaw) elleri tarafından kurcalanmamış... Şimdi git, çünkü yapacak araştırmalarım (research) var.",
     ["minlevel"]="0",
@@ -40915,11 +40915,11 @@ QuestTranslator_QuestData = {
 
 -- Stone Golem Salvage
     -- gold and riches -> altın ve zenginlikler, revenue -> gelir, contractors -> müteahhitler / aracılar, legal -> yasal. Southeast -> güneydoğu, great falls -> büyük şelaleler, Loch Modan = Loch Modan[cite: 2], mining facility -> madencilik tesisi. Dragonmaw Retreat -> Ejderhaağzı İnzivası (Dragonmaw + Retreat)[cite: 2], golems -> golemler, protocols -> protokoller. Runestone -> rün taşı, powered -> güç almak.
-    -- Crumbling Stone Golem -> Parçalanan Taş Golem. Kixxle -> Kixxle kalmıştır[cite: 1], mainroad -> ana yol, Wetlands = Sulak Alanlar (Wetlands)[cite: 2]. Adventurer -> maceracı. Pretty sum of gold -> güzel bir altın meblağı, Shadowfo-... -> Gölgede-... (Shadowforge kastediliyor). Reward -> ödül, coin -> para.
+    -- Crumbling Stone Golem -> Parçalanan Taş Golem. Kixxle -> Kixxle kalmıştır, mainroad -> ana yol, Wetlands = Sulak Alanlar (Wetlands)[cite: 2]. Adventurer -> maceracı. Pretty sum of gold -> güzel bir altın meblağı, Shadowfo-... -> Gölgede-... (Shadowforge kastediliyor). Reward -> ödül, coin -> para.
     ["41749"] = {
     ["Title"]="Taş Golem Hurdası",
     ["Description"]="Seninle bir dakika ayırabilir miyim? Harekete geçmeye hazır, maceranın heyecanını, altının ve zenginliklerin (gold and riches) kokusunu arayan çetin bir tipe benziyorsun. Mevcut durumda, tam da aradığım insan tipisin. Görüyorsun ya, kendine saygısı olan her goblinin olası gelir söz konusu olduğunda birçok bağlantısı vardır; bazıları diğerlerinden daha yasal (legal) olan. Müteahhitlerimin çoğu ikinci türdendir ve belirli bir grup, her gün elinize geçmeyecek bir şeyle ilgileniyor. Güneydoğuda, Loch Modan'dan gelen büyük şelalelerin hemen gerisinde eski bir madencilik tesisi (mining facility) var; bugünlerde oraya Ejderhaağzı İnzivası (Dragonmaw Retreat) diyorlar[cite: 2]. İçeride, dengesiz salonlarda dolaştığı söylenen, hala eski protokollere sıkışıp kalmış eşit derecede kadim golemler (golems) var. Eğer güç aldıkları bir rün taşını (runestone) bana getirebilirsen, onun için sana adil bir fiyat ayarlarım!",
-    ["Objectives"]="Ejderhaağzı İnzivası içindeki bir Parçalanan Taş Golem'in (Crumbling Stone Golem) rün taşını elde et ve onu Sulak Alanlar'daki ana yolda bulunan Kixxle'a getir[cite: 1, 2].",
+    ["Objectives"]="Ejderhaağzı İnzivası içindeki bir Parçalanan Taş Golem'in (Crumbling Stone Golem) rün taşını elde et ve onu Sulak Alanlar'daki ana yolda bulunan Kixxle'a getir.",
     ["Progress"]="Beni merakta bırakma, ortak. Bu lanet taşı alması için görevlendirdiğim beşinci maceracısın (adventurer).",
     ["Completion"]="İşte bundan bahsediyorum! Bu güzellik, şu Gölgede-... Oh, hala buradasın. Doğru! Ödülün (reward). Al, bunu ve üzerine biraz da para (coin) al, bu goblinin gününü gerçekten gün ettin!",
     ["minlevel"]="0",
@@ -40927,25 +40927,25 @@ QuestTranslator_QuestData = {
     }, -- end Stone Golem Salvage
 
 -- Stonehide Rations
-    -- Shatterblade Post -> Parçalanmışbıçak Karargahı[cite: 2]. Favor -> iyilik. Bargolnakk -> Bargolnak kalmıştır (Bargolnak)[cite: 1], cooking -> yemek pişirme, outposts butcher -> karargahın kasabı, fresh supply of meat -> taze et tedariki. Local Stonehide boars -> yerel Taşderi yaban domuzları. East -> doğu, flanks -> butlar / böğürler.
-    -- Stonehide Flanks -> Taşderi Böğürleri. Torlag -> Torlag kalmıştır[cite: 1]. Fool -> ahmak, game -> av hayvanı. Silver -> gümüş para.
+    -- Shatterblade Post -> Parçalanmışbıçak Karargahı[cite: 2]. Favor -> iyilik. Bargolnakk -> Bargolnak kalmıştır (Bargolnak), cooking -> yemek pişirme, outposts butcher -> karargahın kasabı, fresh supply of meat -> taze et tedariki. Local Stonehide boars -> yerel Taşderi yaban domuzları. East -> doğu, flanks -> butlar / böğürler.
+    -- Stonehide Flanks -> Taşderi Böğürleri. Torlag -> Torlag kalmıştır. Fool -> ahmak, game -> av hayvanı. Silver -> gümüş para.
     ["41735"] = {
     ["Title"]="Taşderi Azıkları",
-    ["Description"]="Sen oradaki, Parçalanmışbıçak Karargahı'na (Shatterblade Post) doğru gitmek mi istiyorsun?[cite: 2] Eğer öyleyse orada ikamet eden iyi bir arkadaşım var ve bir iyiliğe (favor) ihtiyacı olduğundan eminim. Bargolnak, karargahın kasabı olarak yemek pişirme işlerinden sorumlu ve her zaman taze bir et tedariki (fresh supply of meat) arıyor[cite: 1]. Eğer bana bir kıyak yapıp ona yerel Taşderi yaban domuzlarından sekiz Taşderi Böğrü getirebilirsen, eminim bunun anlamı büyük olur. Parçalanmışbıçak Karargahı'nı doğuda bulabilirsin; böğürleri (flanks) topla ve onları Bargolnak'a ulaştır[cite: 2].",
-    ["Objectives"]="Amansız Menziller'deki Parçalanmışbıçak Karargahı'nda bulunan Bargolnak için 8 Taşderi Böğrü (Stonehide Flanks) topla[cite: 1, 2].",
+    ["Description"]="Sen oradaki, Parçalanmışbıçak Karargahı'na (Shatterblade Post) doğru gitmek mi istiyorsun?[cite: 2] Eğer öyleyse orada ikamet eden iyi bir arkadaşım var ve bir iyiliğe (favor) ihtiyacı olduğundan eminim. Bargolnak, karargahın kasabı olarak yemek pişirme işlerinden sorumlu ve her zaman taze bir et tedariki (fresh supply of meat) arıyor. Eğer bana bir kıyak yapıp ona yerel Taşderi yaban domuzlarından sekiz Taşderi Böğrü getirebilirsen, eminim bunun anlamı büyük olur. Parçalanmışbıçak Karargahı'nı doğuda bulabilirsin; böğürleri (flanks) topla ve onları Bargolnak'a ulaştır[cite: 2].",
+    ["Objectives"]="Amansız Menziller'deki Parçalanmışbıçak Karargahı'nda bulunan Bargolnak için 8 Taşderi Böğrü (Stonehide Flanks) topla.",
     ["Progress"]="Sana yardımcı olabilir miyim?",
-    ["Completion"]="Seni Torlag mı gönderdi?[cite: 1] Bah, o her zaman ikna edebileceği hangi ahmağı (fool) bulursa bana yerel av hayvanı (game) avlaması için gönderiyor. Bunu yapması gereken kişinin kendisi olması gerekiyor. Al, bu gümüşü (silver) al. Torlag için ayrılmıştı, ama onun işini onun yerine sen yaptığına göre, onun yerine sen alabilirsin.",
+    ["Completion"]="Seni Torlag mı gönderdi? Bah, o her zaman ikna edebileceği hangi ahmağı (fool) bulursa bana yerel av hayvanı (game) avlaması için gönderiyor. Bunu yapması gereken kişinin kendisi olması gerekiyor. Al, bu gümüşü (silver) al. Torlag için ayrılmıştı, ama onun işini onun yerine sen yaptığına göre, onun yerine sen alabilirsin.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Stonehide Rations
 
 -- Stones Of Radiance
     -- Gems, valuable stones and minerals -> mücevherler, değerli taşlar ve mineraller. Jewelcrafting -> mücevher işlemeciliği, fashionable pieces -> şık parçalar, point -> amaç. Humble opinion -> naçizane fikrim, delicate gem -> narin bir mücevher, ornate one -> süslü olanı, jewelry -> takı / mücevherat, purpose and meaning -> amaç ve anlam. Azeroth = Azeroth[cite: 2], properties -> özellikler.
-    -- Jarkal -> Jarkal kalmıştır[cite: 1], Kargath = Kargath[cite: 2], Badlands = Çorak Topraklar[cite: 2]. Pearls -> inciler, thick shelled clams -> kalın kabuklu midyeler, water-dwelling creatures -> suda yaşayan yaratıklar. Power -> güç, mighty essences -> güçlü özler, amplify -> genişletmek / artırmak, heights -> zirveler.
+    -- Jarkal -> Jarkal kalmıştır, Kargath = Kargath[cite: 2], Badlands = Çorak Topraklar[cite: 2]. Pearls -> inciler, thick shelled clams -> kalın kabuklu midyeler, water-dwelling creatures -> suda yaşayan yaratıklar. Power -> güç, mighty essences -> güçlü özler, amplify -> genişletmek / artırmak, heights -> zirveler.
     ["41288"] = {
     ["Title"]="Işıltı Taşları",
     ["Description"]="Kesinlikle bileceğin üzere mücevherler, değerli taşlar ve mineraller mücevher işlemeciliği (jewelcrafting) için esastır. Onlar olmadan şık parçalar (fashionable pieces) yaratmak elbette mümkün olabilir — ama dürüst olmak gerekirse, amacı ne olurdu? Benim naçizane fikrime göre, narin bir mücevher (delicate gem) ya da süslü olanı, takılarınıza amaç ve anlam veren elementtir. Bana Azeroth'un (Azeroth) mücevherlerinden yeterince getir ki özelliklerini (properties) birlikte analiz edebilelim[cite: 2].",
-    ["Objectives"]="Çorak Topraklar'daki Kargath'ta bulunan Jarkal'a gerekli malzemeleri sağla[cite: 1, 2].",
+    ["Objectives"]="Çorak Topraklar'daki Kargath'ta bulunan Jarkal'a gerekli malzemeleri sağla.",
     ["Progress"]="İnciler (pearls) genellikle tüm Azeroth genelindeki kalın kabuklu midyelerin (thick shelled clams) içinde bulunur[cite: 2]. Suda yaşayan yaratıkların (water-dwelling creatures) birçoğu bunları yanlarında taşır.",
     ["Completion"]="Zayıf olabilir ama bu mücevherlerden yayılan bir güç (power) var. En iyi mücevher işlemecileri, onların güçlü özlerini (mighty essences) çıkarıp eşi benzeri görülmemiş zirvelere (heights) ulaştırabilirler. Ve eğer bunu söylememe izin verirsen: Bir gün bizzat o noktaya ulaşma yolunda iyi bir ilerleme kaydediyorsun.",
     ["minlevel"]="0",
@@ -40955,7 +40955,7 @@ QuestTranslator_QuestData = {
 -- Stop the Dragonflight
     -- Blue Dragonflight -> Mavi Ejderha Sürüsü (Blue Dragonflight). Azshara = Azshara[cite: 2], time immemorial -> kadim zamanlardan beri. Safeguard ancient artifacts -> kadim yadigarları korumak, leylines -> ley hatları, life and magic -> yaşam ve büyü. Negotiate -> müzakere etmek, party -> grup. Lake Mennar -> Mennar Gölü (Lake + Mennar)[cite: 2], kin -> soydaşlar. ranks -> saflar, natural magic -> doğal büyü.
     -- Blue Scalebanes -> Mavi Pulbelaları, Draconic Magelords -> Ejderimsi Büyücü-Lordlar, Draconic Mageweavers -> Ejderimsi Büyüdokuyanlar.
-    -- Yhargosh -> Yhargosh kalmıştır[cite: 1], Bloodfist Point -> Kanlıyumruk Karargahı (Blood + Fist + Point)[cite: 2]. Elements -> elementler.
+    -- Yhargosh -> Yhargosh kalmıştır, Bloodfist Point -> Kanlıyumruk Karargahı (Blood + Fist + Point)[cite: 2]. Elements -> elementler.
     ["40297"] = {
     ["Title"]="Ejderha Sürüsünü Durdur",
     ["Description"]="Mavi Ejderha Sürüsü (Blue Dragonflight) kadim zamanlardan beri Azshara'da bulunuyor ancak son eylemleri tuhaf görünüyor[cite: 2]. Orada ley hatlarının (leylines) yaşamını ve büyüsünü kurutmak için değil, kadim yadigarları korumak için bulunuyorlardı. Daha iyi, daha basit zamanlarda, onlarla iletişime geçmeni ve müzakere etmeye (negotiate) çalışmanı tavsiye ederdim. O zamanlar bitti ve harekete geçmemiz gerekiyor. Azshara'ya geri dön ve güçlü bir grup (party) topla[cite: 2]. Mennar Gölü'ne (Lake Mennar) atıl ve onların soydaşlarını katlet[cite: 2]. Bu, saflarındaki (ranks) sayıları seyreltecektir ve eylemlerine karşı daha iyi bir yanıt hazırlamak için vaktimiz olacaktır. Ejderha Sürüsü'nün Azshara'nın doğal büyüsünün (natural magic) bizzat yollarına bulaşmaya başlaması üzücü bir şey[cite: 2]. İş bittiğinde, Kanlıyumruk Karargahı'ndaki Yhargosh'a geri dön[cite: 2].",
@@ -40968,13 +40968,13 @@ QuestTranslator_QuestData = {
 
 -- Stormstout Legacy
     -- Theramore = Theramore[cite: 2], soldiers -> askerler, story -> hikaye. Siege -> kuşatma, New Horde -> Yeni Horde, ally -> müttefik. Pandaren Brewmaster -> Pandaren Biraiçici (Brewmaster), Chen Stormstout -> Chen Fırtınabirası. Passion and skill -> tutku ve beceri, whirlwind of power and precision -> güç ve hassasiyet kasırgası. Mastery with his staff -> asası üzerindeki ustalığı, legendary -> efsanevi. Staff -> asa, ground -> toprak, horizon -> ufuk. Gospel -> mutlak gerçek.
-    -- Master Brightheart -> Üstad Parlakyürek kalmıştır[cite: 1], Pandaren staff -> Pandaren asası, design and construction -> tasarım ve yapı. Weapon craftsmanship -> silah işçiliği.
-    -- Staff of Chen -> Chen'in Asası, Mathias Brightheart -> Mathias Brightheart kalmıştır[cite: 1], Fray Island -> Kavga Adası[cite: 2], Barrens = Çorak Topraklar (The Barrens)[cite: 2]. Pupil -> öğrenci, hard at work -> sıkı çalışma, Nora -> Nora kalmıştır (Nora Steamsight)[cite: 1], task -> görev. Relic -> yadigar, secrets -> sırlar.
+    -- Master Brightheart -> Üstad Parlakyürek kalmıştır, Pandaren staff -> Pandaren asası, design and construction -> tasarım ve yapı. Weapon craftsmanship -> silah işçiliği.
+    -- Staff of Chen -> Chen'in Asası, Mathias Brightheart -> Mathias Brightheart kalmıştır, Fray Island -> Kavga Adası[cite: 2], Barrens = Çorak Topraklar (The Barrens)[cite: 2]. Pupil -> öğrenci, hard at work -> sıkı çalışma, Nora -> Nora kalmıştır (Nora Steamsight), task -> görev. Relic -> yadigar, secrets -> sırlar.
     ["41520"] = {
     ["Title"]="Fırtınabirası Mirası",
-    ["Description"]="Theramore askerleri (Theramore soldiers) bizi sık sık ziyaret eder ve her zaman bu hikayeyi anlatırlar[cite: 2]. Şunu gözünde canlandır: Kuşatma (siege) sırasında Jaina ve Thrall'ın Yeni Horde'unun (New Horde) yanında duranların olağanüstü bir müttefiki vardı — Chen Fırtınabirası (Chen Stormstout) adında bir Pandaren Biraiçici (Brewmaster). Öyle bir tutku ve beceriyle (passion and skill) savaşan birinden bahsediyorum ki, onu izlemek adeta bir güç ve hassasiyet kasırgası gibiydi! Chen'in asası üzerindeki ustalığı efsaneviden de öteydi. Ama şunu dinle — savaştan sonra adam Biraiçici asasını öylece toprağa (ground) dikti ve ufka (horizon) doğru yürüyüp gitti. İnanabiliyor musun? Savaşın o kadar acımasız ve yoğun olduğunu, ona bunu hatırlatacak bir şeyi bir daha asla görmeye katlanamadığını söylerler. Şimdi, bu hikaye mutlak gerçek (gospel) demiyorum, ama içinde en ufak bir doğruluk payı varsa, o Pandaren asasını kurtarabilseydik Üstad Parlakyürek (Master Brightheart) havalara uçardı[cite: 1]! Sadece tasarımından ve yapısından (design and construction) neler öğrenebileceğimizi bir hayal et. Silah işçiliği (weapon craftsmanship) anlayışımızda tamamen devrim yaratabilir!",
-    ["Objectives"]="Çorak Topraklar'daki Kavga Adası'nda bulunan Mathias Brightheart için Chen'in Asası'nı (Staff of Chen) kurtar[cite: 1, 2].",
-    ["Progress"]="Öğrenci (Pupil), seni sıkı çalışırken görmek bir zevk. Nora bana her şeyi anlattı[cite: 1]. Seni yapman için gönderdiği görevi (task) bitirdin mi?",
+    ["Description"]="Theramore askerleri (Theramore soldiers) bizi sık sık ziyaret eder ve her zaman bu hikayeyi anlatırlar[cite: 2]. Şunu gözünde canlandır: Kuşatma (siege) sırasında Jaina ve Thrall'ın Yeni Horde'unun (New Horde) yanında duranların olağanüstü bir müttefiki vardı — Chen Fırtınabirası (Chen Stormstout) adında bir Pandaren Biraiçici (Brewmaster). Öyle bir tutku ve beceriyle (passion and skill) savaşan birinden bahsediyorum ki, onu izlemek adeta bir güç ve hassasiyet kasırgası gibiydi! Chen'in asası üzerindeki ustalığı efsaneviden de öteydi. Ama şunu dinle — savaştan sonra adam Biraiçici asasını öylece toprağa (ground) dikti ve ufka (horizon) doğru yürüyüp gitti. İnanabiliyor musun? Savaşın o kadar acımasız ve yoğun olduğunu, ona bunu hatırlatacak bir şeyi bir daha asla görmeye katlanamadığını söylerler. Şimdi, bu hikaye mutlak gerçek (gospel) demiyorum, ama içinde en ufak bir doğruluk payı varsa, o Pandaren asasını kurtarabilseydik Üstad Parlakyürek (Master Brightheart) havalara uçardı! Sadece tasarımından ve yapısından (design and construction) neler öğrenebileceğimizi bir hayal et. Silah işçiliği (weapon craftsmanship) anlayışımızda tamamen devrim yaratabilir!",
+    ["Objectives"]="Çorak Topraklar'daki Kavga Adası'nda bulunan Mathias Brightheart için Chen'in Asası'nı (Staff of Chen) kurtar.",
+    ["Progress"]="Öğrenci (Pupil), seni sıkı çalışırken görmek bir zevk. Nora bana her şeyi anlattı. Seni yapman için gönderdiği görevi (task) bitirdin mi?",
     ["Completion"]="Gözlerim beni mi yanıltıyor? Hayır, yanıltıyor olamazlar. Bu gerçekten de efsanevi Chen Fırtınabirası'nın — biraiçici, savaşçı ve birçoklarının dostu — asasıdır. Demek eski hikayeler sonuçta doğruymuş. Aferin, YOUR_NAME. Şimdi, bu yadigarı (relic) kurtarmak için harcadığın çaba düşünüldüğünde, onu öylece rafa kaldırmak bir haksızlık olur, öyle değil mi? Hadi bakalım, içinde ne sırlar saklıyormuş görelim, ne dersin?",
     ["minlevel"]="0",
     ["questlevel"]="0",
@@ -40982,12 +40982,12 @@ QuestTranslator_QuestData = {
 
 -- Strange Bedfellows
     -- Friends -> arkadaşlar, discreetly -> gizlice. Energy -> enerji, Bert -> Bert Mano, sleeps -> uyumak. Pendant -> kolye / madalyon. Demon -> iblis, torment -> ıstırap / acı. Evidence -> kanıt / delil, fiance -> nişanlı, troubles -> sıkıntılar.
-    -- Slay it -> onu katlet, heart -> kalp, Bert Mano -> Bert Mano kalmıştır[cite: 1]. Evil presence -> kötü varlık, wife -> karım / eşim, house -> ev.
+    -- Slay it -> onu katlet, heart -> kalp, Bert Mano -> Bert Mano kalmıştır. Evil presence -> kötü varlık, wife -> karım / eşim, house -> ev.
     -- Light -> Işık, Rose -> Rose Dolohov, YOUR_NAME -> YOUR_NAME.
     ["40571"] = {
     ["Title"]="Garip Yatak Arkadaşları",
     ["Description"]="İşte bu kadar. Eğer gizlice (discreetly) çalışabilecek arkadaşların varsa, onlarla hemen iletişime geçmeni öneririm. Enerji (energy) ya bizzat Bert'in etrafında ya da uyuduğu yerde en güçlü olacaktır. Kolyeyi (pendant) uzat ve tepki verip vermediğine bak. Umuyoruz ki bu, sana bu iblisle (demon) yüzleşme ve acıya (torment) bir son verme fırsatı tanıyacaktır. Onu öldürdüğünde, varlığına dair bazı kanıtlar (evidence) da alsan iyi olur, bilirsin. Böylece durumunu kanıtlayabilir ve nişanlısıyla (fiance) olan sıkıntılarını çözebilir.",
-    ["Objectives"]="İblisi çağırmanın bir yolunu bul, onu katlet ve kalbini Bert Mano'ya getir[cite: 1].",
+    ["Objectives"]="İblisi çağırmanın bir yolunu bul, onu katlet ve kalbini Bert Mano'ya getir.",
     ["Progress"]="Gözümü bile kırpmadım. Sadece bu lanet kötü varlık (evil presence) yüzünden değil, karım da beni evden dışarı attı!",
     ["Completion"]="Işık (the Light) adına, o nedir öyle! Aylardır bana acı çektiren şey bu muydu? Ben... Sanırım o gözleri hatırlıyorum, evet. Bunu yapmak beni ne kadar üzse de, bunu Rose'a göstermeliyim. Onun benim için ne ifade ettiğini, onun düşündüğü şeyi asla yapmayacağımı kanıtlamanın başka bir yolu yok! Ve senin adın ne, dostum? Ah, teşekkürler YOUR_NAME.",
     ["minlevel"]="0",
@@ -44673,7 +44673,7 @@ QuestTranslator_QuestData = {
     ["41755"] = { 
     ["Title"]="Kızılmarka Yalanı",
     ["Description"]="İşaretler şüphe götürmez bir şekilde cücelere ait, hatta Üç Çekiç Savaşı'ndan (War of the Three Hammers) önceki zamanları andırıyor! Bana sadece bir dakikanı verirsen, bu tabletin üzerine yazılmış olan mesajı çevirebilirim...\n\n<Küratör Thorius parmaklarını tabletin pürüzlü yüzeyinde gezdirirken kısa bir süre nefesi kesilir; çeviri çalışması sırasında ter dökerken yüzünü büyük bir şaşkınlık kaplar.>\n\nBarbar, bu taş levha üzerine ne yazıldığını kavrayabiliyor musun? Kızılmarka (Redbrand) ailesi, cücelerin hatırlayabildiği kadar uzun zamandır Tunçsakal (Bronzebeard) klanının nüfuzlu bir parçası olmuştur. Fakat az önce edindiğim bilgilere göre... Eğer bu tablete güvenilecek olursa, Kızılmarkaların soyu Yabançekici (Wildhammer) klanının derinliklerine uzanıyor! Bu keşif, tüm geleceklerini değiştirmese bile soylarına dair anlayışı tamamen yerle bir edebilir.",
-    ["Objectives"]="Kızılmarka Tableti'ni (Redbrand Tablet) Demirdöveç'teki (Ironforge) Gizem Bölgesi'nde (Mystic Ward) bulunan Torwyn Kızılmarka'ya (Torwyn Redbrand) ulaştır.[cite: 1, 2]",
+    ["Objectives"]="Kızılmarka Tableti'ni (Redbrand Tablet) Demirdöveç'teki (Ironforge) Gizem Bölgesi'nde (Mystic Ward) bulunan Torwyn Kızılmarka'ya (Torwyn Redbrand) ulaştır.",
     ["Progress"]="Selamlar, sizi saygın Kızılmarka Malikanesi'ne (Redbrand Estate) getiren nedir?",
     ["Completion"]="Kızılmarkaların geçmişine dair bir tablet mi?! İnanılmaz; çabuk, onu incelememe izin ver!\n\n<Torwyn merceğini ayarlar ve bakışlarını tabletin taşlı yüzeyinde gezdirmeye başlar. Çözdüğü ve okuduğu her satırla birlikte, eli gözle görülür şekilde titreyene kadar giderek daha fazla kızarır ve terler.>\n\nS-Sen...! BUNU NEREDE BULDUN?! Bundan ASLA bahsetmeyeceksin; asla! Kimse bu lanetli tableti bilmeyecek! Kesinlikle hiç kimse! Al bunu, dudakların mühürlü kalacak, anlaşıldı mı?! Şimdi yıkıl karşımdan!",
     ["minlevel"]="0",
@@ -46863,13 +46863,13 @@ QuestTranslator_QuestData = {
 
 -- Yor'thegg's Ritual
     -- Yor'thegg the Wise -> Bilge Yor'thegg.
-    -- Dragonmaw Flamebinders -> Ejderhaağzı Alevbağlayanları (Dragon + maw -> Ejderhaağzı[cite: 1], Flame + binders).
+    -- Dragonmaw Flamebinders -> Ejderhaağzı Alevbağlayanları (Dragon + maw -> Ejderhaağzı, Flame + binders).
     -- Grim Reaches -> Acımasız Menziller (Grim + Reaches).
     -- Elder Stonehide Boars -> Yaşlı Taşderi Domuzları (Elder + Stone + hide).
     -- Ornate Feathers -> Slemeli Tüyler, Binding Flame -> Bağlayıcı Alev, Pristine Stonehide Heart -> Kusursuz Taşderi Kalbi.
     ["41738"] = {
     ["Title"]="Yor'thegg'in Ritüeli",
-    ["Description"]="Durum korktuğum gibi; toprak yozlaşmış ve bir kargaşa içinde. Aceleyle elementlerle bağ kurmam gerekecek. Bu ritüeli gerçekleştirmek için yerel, doğal malzemelere ihtiyacım olacak. İlk olarak, yakındaki yırtıcılardan beş Süslü Tüy (Ornate Feathers) istiyorum. Kuzeybatıdaki Ejderhaağzı Alevbağlayanlarından (Dragonmaw Flamebinders) üç Bağlayıcı Alev (Binding Flame)[cite: 1]. Ve son olarak, Yaşlı Taşderi Domuzlarından tek bir kusursuz Taşderi Kalbi (Stonehide Heart) istiyorum. Tüm bu malzemeleri topla ve bana geri dön.",
+    ["Description"]="Durum korktuğum gibi; toprak yozlaşmış ve bir kargaşa içinde. Aceleyle elementlerle bağ kurmam gerekecek. Bu ritüeli gerçekleştirmek için yerel, doğal malzemelere ihtiyacım olacak. İlk olarak, yakındaki yırtıcılardan beş Süslü Tüy (Ornate Feathers) istiyorum. Kuzeybatıdaki Ejderhaağzı Alevbağlayanlarından (Dragonmaw Flamebinders) üç Bağlayıcı Alev (Binding Flame). Ve son olarak, Yaşlı Taşderi Domuzlarından tek bir kusursuz Taşderi Kalbi (Stonehide Heart) istiyorum. Tüm bu malzemeleri topla ve bana geri dön.",
     ["Objectives"]="Grim Reaches'taki Bilge Yor'thegg için 5 Süslü Tüy, 3 Bağlayıcı Alev ve bir Kusursuz Taşderi Kalbi topla.",
     ["Progress"]="Toprak huzur için can atıyor ve buna uymak bizim sorumluluğumuz.",
     ["Completion"]="Malzemeler toplandı. Sen görevini yerine getirdin, şimdi izin ver ben de benimkini gerçekleştireyim...",
@@ -47399,7 +47399,7 @@ QuestTranslator_QuestData = {
     }, -- end An Amber Light
     -- Wine Avenger
     -- Wine Avenger -> Şarap İntikamcısı (Wine + Avenger).
-    -- Blackrock Invaders -> Karakaya İstilacıları (MobNpcData.lua kaynaklı)[cite: 1].
+    -- Blackrock Invaders -> Karakaya İstilacıları (MobNpcData.lua kaynaklı).
     -- Northwind Winery -> Kuzeyrüzgârı Şaraphanesi (Northwind + Winery).
     -- Old Man Crawford -> Yaşlı Crawford.
     -- Hood of the Pyremaster -> Ateşustası Kukuletası (Pyre + master + Hood).
@@ -47556,18 +47556,18 @@ QuestTranslator_QuestData = {
 
     -- The Grateful Dead
     -- Brother Graham -> Rahip Graham / Graham Birader (Dini unvan, "Brother" genellikle "Birader" veya "Rahip" olarak çevrilir; "Graham Birader" tercih edilmiştir).
-    -- Ambershire Church -> Kehribardiyar Kilisesi (Önceki görevlerdeki yerleşik çeviriye sadık kalınarak)[cite: 1, 2].
+    -- Ambershire Church -> Kehribardiyar Kilisesi (Önceki görevlerdeki yerleşik çeviriye sadık kalınarak).
     -- Northwind -> Kuzeyyeli (Zone/bölge adı, kelime anlamıyla Kuzey + yeli).
     -- Archbishop Benedictus -> Başpiskopos Benedictus.
     -- Sister Argent -> Rahibe Argent (Argent kalmıştır).
     -- Saint Mara Abbey -> Azize Mara Manastırı (Saint Mara -> Azize Mara, Abbey -> Manastır).
     -- Dusty Urn -> Tozlu Urna / Tozlu Kül Vazosu (Dusty + Urn).
-    -- Stormwind = Fırtınayeli (Lokalizasyon kuralına göre)[cite: 1, 2].
+    -- Stormwind = Fırtınayeli (Lokalizasyon kuralına göre).
     -- Light = Işık.
     ["41638"] = { 
     ["Title"]="Minnettar Ölüler",
     ["Description"]="Kuzeyrüzgarı'ne (Northwind) ne olduğunu görmek utanç verici. Rahibe Argent'a yardım etmek için Başpiskopos Benedictus'un tavsiyesi üzerine buraya döndüğümde, bulacağım şeyin bu olacağını asla hayal edemezdim. Halk doğu topraklarından gelen istilalardan dehşete düşmüş durumda ve suçlular tepelerimize ayak basmış vaziyette. Eski manastır bile...\n\nKusura bakma, sıram gelmeden konuştum, beni bağışla. Anlarsın ya, Kuzeyrüzgarı benim doğduğum yer; buranın o yumuşak doğasını ve insanın burada geçirebileceği tasasız günleri çok iyi hatırlıyorum. Ama sanırım o günler geride kaldı. Eğer bilseydim, Annemi de yanıma alırdım. İstirahatgahının geçmişin dehşeti tarafından istila edilmesi kalbimi kırıyor. Ben henüz gençken ölmüştü, urnası Azize Mara Manastırı'nın (Saint Mara Abbey) mahzenine yerleştirilmişti.\n\nYOUR_CLASS, senden istediğim şey belki de çok fazla ama annemin urnasını toplamaya istekli olur musun? Bu benim için dünyalara bedel olur ve senin de aleyhine olmaz, Işık'ın (the Light) üzerine yemin ederim.",
-    ["Objectives"]="Kuzeyrüzgarı'ndeki (Northwind) Kehribardiyar Kilisesi'nde (Ambershire Church) bulunan Graham Birader'e (Brother Graham) ulaştırmak üzere annesinin urnasını bul.[cite: 1, 2]",
+    ["Objectives"]="Kuzeyrüzgarı'ndeki (Northwind) Kehribardiyar Kilisesi'nde (Ambershire Church) bulunan Graham Birader'e (Brother Graham) ulaştırmak üzere annesinin urnasını bul.",
     ["Progress"]="Savaşlar bittiğinde, Kuzeyrüzgarı'nın (Northwind) nihayet barışçıl köklerine dönebileceğini düşünmüştüm. Belki de böyle düşünmekle fazla saf davrandım.",
     ["Completion"]="Oh, anneciğim... Seni o ışık yoksunu yerde bıraktığım için çok üzgünüm. İçin rahat olsun, yeni evim olan Fırtınayeli'nde (Stormwind) yeni bir istirahatgah bulacaksın. Teşekkür ederim — adın YOUR_NAME miydi? Annemin külleri geri döndüğüne göre, Rahibe Argent ile buradaki görevlerime devam etmeden önce onları Kiliseye teslim edeceğim. Elveda, nazik ruh. Işık'ın (the Light) kutsaması yolunu aydınlatsın.",
     ["minlevel"]="0",
@@ -47580,15 +47580,15 @@ QuestTranslator_QuestData = {
     -- Northwind Logging Camp -> Kuzeyrüzgarı Kereste Kampı (Northwind -> Kuzeyrüzgarı, Logging Camp -> Kereste Kampı).
     -- Broken Locket -> Kırık Madalyon (Broken + Locket).
     -- Defias -> Defias kalmıştır (Özel fraksiyon ismi).
-    -- Ambershire -> Kehribardiyar (Önceki görevlerdeki yerleşik çeviriye sadık kalınarak)[cite: 1, 2].
+    -- Ambershire -> Kehribardiyar (Önceki görevlerdeki yerleşik çeviriye sadık kalınarak).
     -- Mirabelle -> Mirabelle kalmıştır (NPC ismi).
     -- Light = Işık.
     ["41642"] = { 
     ["Title"]="Yalnız Arnold",
-    ["Description"]="Buranın kuzeydoğusundaki kereste kampı o aşağılık Defias tarafından baskına uğradığında, oduncular çoğunlukla zarar görmeden kaçacak kadar hızlı davrandılar. Şimdilik kalacak başka yerleri olmadığı için babamla ben buradaki deposunda yaralılarla ilgileniyoruz. Yine de aralarında pek çok tanıdık yüz olsa da, kampta çalışan iyi dostlarından Christoph henüz ne burada ne de Kehribardiyar'da (Ambershire) ortaya çıkmadı.[cite: 1, 2]\n\nChristoph'un küçük bir oğlu var ve korkarım ki en kötüsü başlarına geldi. Lütfen bana bu iyiliği yap ve onu ara. Belki kampın yakınlarında bir yere saklanmıştır...",
+    ["Description"]="Buranın kuzeydoğusundaki kereste kampı o aşağılık Defias tarafından baskına uğradığında, oduncular çoğunlukla zarar görmeden kaçacak kadar hızlı davrandılar. Şimdilik kalacak başka yerleri olmadığı için babamla ben buradaki deposunda yaralılarla ilgileniyoruz. Yine de aralarında pek çok tanıdık yüz olsa da, kampta çalışan iyi dostlarından Christoph henüz ne burada ne de Kehribardiyar'da (Ambershire) ortaya çıkmadı.\n\nChristoph'un küçük bir oğlu var ve korkarım ki en kötüsü başlarına geldi. Lütfen bana bu iyiliği yap ve onu ara. Belki kampın yakınlarında bir yere saklanmıştır...",
     ["Objectives"]="Kuzeyrüzgarı Kereste Kampı'nın (Northwind Logging Camp) yakınlarında Christoph'u ara.",
     ["Progress"]="<Mirabelle derin bir duaya dalmış durumda.>\n\nEy Mübarek Işık , bu kaybolmuş kuzuyu yeniden sürüne ulaştır. Oğlu yalnızlığın acısını çekmesin, soydaşları ve yurttaşlarıyla yeniden bir araya gelsin.",
-    ["Completion"]="Ne büyük bir trajedi; Christoph gerçekten iyi kalpli bir adam ve babaydı. Onun böylesine anlamsız bir ölüme kurban gittiğini görmek kalbimi kırıyor. Peki ya zavallı, bahtsız Arnold? Artık yetim kaldığı için onun adına endişeleniyorum. Lütfen babasının kaderini ona nasıl söyleyeceğimi bana bırak. Kehribardiyar (Ambershire) kilisesindeki saygideğer rahibe ne diyeceğini bilecektir.[cite: 1, 2]\n\nTeşekkür ederim, nazik ruh. Bugün iyi bir iş çıkardın. Işık'ın (the Light) kutsaması yolunu aydınlatsın.",
+    ["Completion"]="Ne büyük bir trajedi; Christoph gerçekten iyi kalpli bir adam ve babaydı. Onun böylesine anlamsız bir ölüme kurban gittiğini görmek kalbimi kırıyor. Peki ya zavallı, bahtsız Arnold? Artık yetim kaldığı için onun adına endişeleniyorum. Lütfen babasının kaderini ona nasıl söyleyeceğimi bana bırak. Kehribardiyar (Ambershire) kilisesindeki saygideğer rahibe ne diyeceğini bilecektir.\n\nTeşekkür ederim, nazik ruh. Bugün iyi bir iş çıkardın. Işık'ın (the Light) kutsaması yolunu aydınlatsın.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Lonesome Arnold
@@ -47602,12 +47602,12 @@ QuestTranslator_QuestData = {
     -- Head of Red Jenny -> Kızıl Jenny'nin Kafası (Red -> Kızıl, Jenny kalmıştır).
     -- First War -> Birinci Savaş.
     -- Dark Iron = Karademir (Lokalizasyon kuralına göre).
-    -- Ambershire -> Kehribardiyar (Önceki görevlerdeki yerleşik çeviriye sadık kalınarak)[cite: 1, 2].
+    -- Ambershire -> Kehribardiyar (Önceki görevlerdeki yerleşik çeviriye sadık kalınarak).
     -- Amberwood -> Kehribarormanı (Amber + wood).
     -- Lumberjack Vest -> Oduncu Yeleği (Lumberjack + Vest).
     ["41635"] = { 
     ["Title"]="Defias Baltalaması",
-    ["Description"]="Tüm hayatımı burada, Kuzeyrüzgarı'nda (Northwind) geçirdim ve Birinci Savaş'tan beri burası hiç bu kadar kargaşa içinde olmamıştı. Gnollar, Orklar ve Karademir (Dark Iron) cüceleri o huzurlu tepelerimizde geziniyor ve gittikleri her yere kaos ekiyorlar. Haydut ruhlu Defias bile tüm bunlardan yararlanmaya çalışıyor. Bu küstah haydutlar, buradan çok uzak olmayan, Kehribardiyar'ın (Ambershire) kuzeydoğusundaki kereste kampımıza saldırmaya cüret ettiler.[cite: 1, 2] Tabii ki tüm işçiler kaçtı, ancak kasabada onları barındıracak yeterli alan yok, bu yüzden şimdilik burada, benim depomda dinleniyorlar. Keşke Kehribarormanı'nın (Amberwood) muhafızları, Kuzeyrüzgarı'nın (Northwind) iyi vatandaşlarına yardım etme konusunda yeterince hevesli olsaydı!\n\nGörünüşe göre iş yine halkın ellerine kalıyor. Maceracı, sağlıklı ve aklı başında görünüyorsun, bize yardım eder misin? Defias'ı kereste kampından defet; güzel yuvamıza bir nebze de olsa barışı yeniden getirmemize yardım et!",
+    ["Description"]="Tüm hayatımı burada, Kuzeyrüzgarı'nda (Northwind) geçirdim ve Birinci Savaş'tan beri burası hiç bu kadar kargaşa içinde olmamıştı. Gnollar, Orklar ve Karademir (Dark Iron) cüceleri o huzurlu tepelerimizde geziniyor ve gittikleri her yere kaos ekiyorlar. Haydut ruhlu Defias bile tüm bunlardan yararlanmaya çalışıyor. Bu küstah haydutlar, buradan çok uzak olmayan, Kehribardiyar'ın (Ambershire) kuzeydoğusundaki kereste kampımıza saldırmaya cüret ettiler. Tabii ki tüm işçiler kaçtı, ancak kasabada onları barındıracak yeterli alan yok, bu yüzden şimdilik burada, benim depomda dinleniyorlar. Keşke Kehribarormanı'nın (Amberwood) muhafızları, Kuzeyrüzgarı'nın (Northwind) iyi vatandaşlarına yardım etme konusunda yeterince hevesli olsaydı!\n\nGörünüşe göre iş yine halkın ellerine kalıyor. Maceracı, sağlıklı ve aklı başında görünüyorsun, bize yardım eder misin? Defias'ı kereste kampından defet; güzel yuvamıza bir nebze de olsa barışı yeniden getirmemize yardım et!",
     ["Objectives"]="Kuzeyrüzgarı Kereste Kampı'nı (Northwind Logging Camp) istila eden Defias'tan temizle.",
     ["Progress"]="Güvende kal, maceracı. Kuzeyrüzgarı'nın (Northwind) tepeleri masumların kanıyla sulanmak için yaratılmadı.",
     ["Completion"]="Bitti mi? Bu, onların kırma liderlerinin kafası mı? Onlardan kurtulduğumuz iyi oldu, güruhları hangi yoldan yürüyeceklerini kendileri seçti — vaktinde gelen ölümlerine çıkan bir yol. Cesaretini takdir ediyorum, maceracı. Al, bunu iyi davranışının bir ödülü olarak kabul et. Senin eylemlerin sayesinde yakında yeniden o sakin hayatlarımızı yaşayabiliriz.",
@@ -47832,10 +47832,10 @@ QuestTranslator_QuestData = {
     -- Krazek's Cookery -> Krazek's Cookery -> Krazek'in Aşçılığı / Krazek'in Tenceresi.
     -- Krazek's Crock Pot -> Krazek'in Güveç Tenceresi (Crock Pot -> Güveç Tenceresi / Elektrikli Yavaş Pişirici).
     -- Krazek -> Krazek kalmıştır (Goblin ismi).
-    -- Booty Bay -> Yağma Koyu (Booty -> Yağma/Ganimet, Bay -> Koy)[cite: 1].
+    -- Booty Bay -> Yağma Koyu (Booty -> Yağma/Ganimet, Bay -> Koy).
     ["210"] = { 
     ["Title"]="Krazek'in Aşçılığı",
-    ["Description"]="Kamptaki yemeklerin çoğunu ben yapıyorum. Ve Yağma Koyu'ndaki (Booty Bay) bir goblin tüccardan mekanik bir pişirme tenceresi satın alana kadar bu iş gerçekten çok zahmetliydi. Bu tencere bir mucize! Bana sayısız saat kazandırdı... Ta ki bozulana kadar![cite: 1]\n\nTencereyi tamir etmesi için benim adıma o gobline geri götürebilir misin? Adı Krazek.",
+    ["Description"]="Kamptaki yemeklerin çoğunu ben yapıyorum. Ve Yağma Koyu'ndaki (Booty Bay) bir goblin tüccardan mekanik bir pişirme tenceresi satın alana kadar bu iş gerçekten çok zahmetliydi. Bu tencere bir mucize! Bana sayısız saat kazandırdı... Ta ki bozulana kadar!\n\nTencereyi tamir etmesi için benim adıma o gobline geri götürebilir misin? Adı Krazek.",
     ["Objectives"]="Krazek'in Güveç Tenceresi'ni (Krazek's Crock Pot) goblin Krazek'e ulaştır.",
     ["Progress"]="Merhaba! Bana bir şey mi getirdin?",
     ["Completion"]="Ah anlıyorum, bu bir Krazek'in Güveç Tenceresi (Krazek's Crock Pot)! Ustaca yapılmış bir parça, ama ara sıra yayı kırılabilir ya da dişli fırlatabilir. Bakalım bunun nesi varmış...\n\nAha! Buhar şarj cihazı paslanmış, mafsal contası çatlamış ve fobülatörünün dişleri eksilmiş. Tencerenin bu halde bir şalgamı bile kaynatabilmiş olmasına şaşırdım!\n\nTamir edebilir miyim? Elbette tamir edebilir miyim!\n\nAma bir bedeli var. Oh evet, her zaman bir bedeli vardır...",
@@ -47897,70 +47897,70 @@ QuestTranslator_QuestData = {
     }, -- end Colonel Kurzen
     -- Welcome to the Jungle
     -- Stranglethorn -> Boğandiken (Strangle -> Boğan, Thorn -> Diken).
-    -- Hemet Nesingwary -> Hemet Nesingwary kalmıştır (Özel isim / MobNpcData.lua)[cite: 1].
+    -- Hemet Nesingwary -> Hemet Nesingwary kalmıştır (Özel isim / MobNpcData.lua).
     -- Master Nesingwary -> Üstat Nesingwary (Master -> Üstat).
-    -- Ajeck -> Ajeck kalmıştır (Özel isim / MobNpcData.lua)[cite: 1].
-    -- Sir Erlgadin -> Sir Erlgadin kalmıştır (Özel isim / MobNpcData.lua)[cite: 1].
+    -- Ajeck -> Ajeck kalmıştır (Özel isim / MobNpcData.lua).
+    -- Sir Erlgadin -> Sir Erlgadin kalmıştır (Özel isim / MobNpcData.lua).
     -- Alliance -> İttifak (Oyun terimi).
     ["583"] = { 
     ["Title"]="Ormana Hoş Geldin",
     ["Description"]="Stranglethorn'e hoş geldin!\n\nBelki farkında değilsin ama şuradaki cüce, İttifak'ın ünlü savaş kahramanı ve usta büyük av avcısı olan biricik Hemet Nesingwary'dir.Kampına yabancıları kabul etmeyi pek sevmez ama sen de zamanında epey aksiyon görmüş gibi duruyorsun, YOUR_CLASS.\n\nKendisi de pek çok savaşın gazisi olduğundan, Üstat Nesingwary'nin kahraman yoldaşlarına karşı zaafı vardır.\n\nGit ve onunla konuş. Belki sana bazı avcılık ipuçları verebilir.",
-    ["Objectives"]="Hemet Nesingwary ile konuş.[cite: 1]",
+    ["Objectives"]="Hemet Nesingwary ile konuş.",
     ["Progress"]="", -- Bu aşamada bir ilerleme metni bulunmuyor.
-    ["Completion"]="Seninle tanıştığıma son derece memnun oldum, YOUR_NAME. Buralarda bir süredir YOUR_CLASS görmemiştim.\n\nBu sefere kendimi tek bir amaç için dahil ettim: muazzam ve yakalanması zor bir canavarı avlamak. Kendine has bir kahraman olduğunu gördüğüm için bu ava katılamana izin vermeye niyetliyim, fakat önce kendini kanıtlamalısın.\n\nSana raptor öldürmenin yollarını öğreteceğim. Ajeck seni kaplan avcılığı konusunda eğitecek.[cite: 1] Ve Sir Erlgadin de panter takibi konusunda bir ustadır.[cite: 1]\n\nYeteneklerini kanıtla, ben de seni büyük ava dahil edeyim.",
+    ["Completion"]="Seninle tanıştığıma son derece memnun oldum, YOUR_NAME. Buralarda bir süredir YOUR_CLASS görmemiştim.\n\nBu sefere kendimi tek bir amaç için dahil ettim: muazzam ve yakalanması zor bir canavarı avlamak. Kendine has bir kahraman olduğunu gördüğüm için bu ava katılamana izin vermeye niyetliyim, fakat önce kendini kanıtlamalısın.\n\nSana raptor öldürmenin yollarını öğreteceğim. Ajeck seni kaplan avcılığı konusunda eğitecek. Ve Sir Erlgadin de panter takibi konusunda bir ustadır.\n\nYeteneklerini kanıtla, ben de seni büyük ava dahil edeyim.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Welcome to the Jungle
     -- Raptor Mastery
     -- Stranglethorn -> Stranglethorn kalmıştır (Önceki istek uyarınca kesinlikle çevrilmeyecektir).
-    -- Hemet Nesingwary -> Hemet Nesingwary kalmıştır (MobNpcData.lua)[cite: 1].
+    -- Hemet Nesingwary -> Hemet Nesingwary kalmıştır (MobNpcData.lua).
     -- Stranglethorn Raptor -> Stranglethorn Raptoru (Raptor -> Raptor).
     ["194"] = { 
     ["Title"]="Raptor Ustalığı",
     ["Description"]="Demek avcılık yeteneklerinin son derece kusursuz olduğunu düşünüyorsun? Onları göz açıp kapayıncaya kadar test edebilirim. Şu ormana dal ve 10 Stranglethorn Raptoru öldür. Bakalım ne kadar büyük bir avcısın.\n\nVe hayır, onları nerede bulabileceğini sana söylemeyeceğim! Canavarların yerini tespit etmek, mücadelenin yarısıdır.",
-    ["Objectives"]="Hemet Nesingwary, 10 Stranglethorn Raptoru (Stranglethorn Raptor) öldürmeni istiyor.[cite: 1]",
+    ["Objectives"]="Hemet Nesingwary, 10 Stranglethorn Raptoru (Stranglethorn Raptor) öldürmeni istiyor.",
     ["Progress"]="Kamp ateşinin başında dikilerek avlanabilen hiçbir avcı görmedim. O Stranglethorn Raptorlarını öldürmeyi planlıyor musun yoksa yaşlılıktan ölmelerini mi umuyorsun?",
     ["Completion"]="Güzel iş, dostum!",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Raptor Mastery
     -- Raptor Mastery
-    -- Hemet Nesingwary -> Hemet Nesingwary kalmıştır (MobNpcData.lua)[cite: 1].
+    -- Hemet Nesingwary -> Hemet Nesingwary kalmıştır (MobNpcData.lua).
     -- Lashtail Raptor / Lashtails -> Kırbaçkuyruk Raptoru / Kırbaçkuyruklar (Lash -> Kırbaç, Tail -> Kuyruk).
     -- Stranglethorn -> Stranglethorn kalmıştır (Önceki kural uyarınca çevrilmeyecektir).
     ["195"] = { 
     ["Title"]="Raptor Ustalığı",
     ["Description"]="Şimdi mücadeleyi biraz daha büyütelim ve buna hazır mısın görelim. Ormanın derinliklerine adım at ve o lanet Kırbaçkuyruk Raptorlarından (Lashtail Raptors) 10 tanesini avla. Bakalım elinden ne geliyor!",
-    ["Objectives"]="Hemet Nesingwary, 10 Kırbaçkuyruk Raptoru (Lashtail Raptor) öldürmeni istiyor.[cite: 1]",
+    ["Objectives"]="Hemet Nesingwary, 10 Kırbaçkuyruk Raptoru (Lashtail Raptor) öldürmeni istiyor.",
     ["Progress"]="Gerçek bir avcı odağını avına verir. Sen ise dostum, kamp ateşinin etrafında laklak etmekle daha çok ilgileniyor gibi görünüyorsun. Şimdi git ve ben tek bir avda tüm o lanet ormanı onlardan temizlemeden önce 10 Kırbaçkuyruk (Lashtails) öldür.",
     ["Completion"]="İşte o eski ocağın üzerine bir iki trofe böyle asılır! Güzel avdı, YOUR_NAME!",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Raptor Mastery
     -- Raptor Mastery
-    -- Hemet Nesingwary -> Hemet Nesingwary kalmıştır (MobNpcData.lua)[cite: 1].
+    -- Hemet Nesingwary -> Hemet Nesingwary kalmıştır (MobNpcData.lua).
     -- Jungle Stalker -> Orman Sinsisi (Jungle -> Orman, Stalker -> Sinsi / İz sürücü / Avını sessizce takip eden).
     -- Stranglethorn -> Stranglethorn kalmıştır (Önceki kural istisnası uyarınca).
     ["196"] = { 
     ["Title"]="Raptor Ustalığı",
     ["Description"]="Bakalım bu sonraki mücadelenin üstesinden nasıl geleceksin. Dışarıda çok kurnaz bir raptor soyu var. Biz onlara Orman Sinsileri (Jungle Stalkers) diyoruz. Onların izini sürüp öldürmek, şimdiye kadar şansını denediğin diğer soylardan çok daha zordur. 10 Orman Sinsisi öldür, ben de sana şu ana kadarki en iyi avın ipucunu vereyim.",
-    ["Objectives"]="Hemet Nesingwary, 10 Orman Sinsisi (Jungle Stalker) öldürmeni istiyor.[cite: 1]",
+    ["Objectives"]="Hemet Nesingwary, 10 Orman Sinsisi (Jungle Stalker) öldürmeni istiyor.",
     ["Progress"]="Bah! Ayakta dikilip ne yapıyorsun öyle, YOUR_NAME! Gerçek bir büyük av avcısı, avı bir kez görüş alanına girdiğinde asla pes etmez. O Orman Sinsileri bu kamp ateşine doğru koşup kendilerini içine atmayacaklar. Kaçık herif.",
     ["Completion"]="Ho ho!! Karşımızda gerçek bir raptor katili var! Güzel iş, dostum!",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Raptor Mastery
     -- Raptor Mastery
-    -- Hemet Nesingwary -> Hemet Nesingwary kalmıştır (MobNpcData.lua)[cite: 1].
-    -- Tethis -> Tethis kalmıştır (Özel yaratık ismi / MobNpcData.lua)[cite: 1].
+    -- Hemet Nesingwary -> Hemet Nesingwary kalmıştır (MobNpcData.lua).
+    -- Tethis -> Tethis kalmıştır (Özel yaratık ismi / MobNpcData.lua).
     -- Stranglethorn -> Stranglethorn kalmıştır (Önceki kural istisnası uyarınca kesinlikle çevrilmeyecektir).
     -- Talon of Tethis -> Tethis'in Pençesi (Talon -> Pençe).
-    -- Ajeck -> Ajeck kalmıştır (MobNpcData.lua)[cite: 1].
+    -- Ajeck -> Ajeck kalmıştır (MobNpcData.lua).
     -- Raptor Hunter Tunic -> Raptor Avcısı嶄 Yeleği (Tunic -> Yelek/Tunik).
     ["197"] = { 
     ["Title"]="Raptor Ustalığı",
-    ["Description"]="Ormanda çok hırslı ve azimli biri olduğunu kanıtladığın için, sana benim bile öldürmeyi başaramadığım gaddar bir raptordan bahsedeyim. Şuradaki Ajeck bu kurnaz raptora Tethis adını veriyor.[cite: 1]\n\nKendini gerçek bir usta olarak kanıtlamak istiyorsan, Tethis'i öldür ve bana onun pençesini getir. Bu, başka hiçbir büyük av avcısının başaramadığı bir başarı olurdu.",
-    ["Objectives"]="Hemet Nesingwary, Stranglethorn'daki yakalanması zor ve tehlikeli bir raptor olan Tethis'i öldürmeni istiyor.[cite: 1]",
+    ["Description"]="Ormanda çok hırslı ve azimli biri olduğunu kanıtladığın için, sana benim bile öldürmeyi başaramadığım gaddar bir raptordan bahsedeyim. Şuradaki Ajeck bu kurnaz raptora Tethis adını veriyor.\n\nKendini gerçek bir usta olarak kanıtlamak istiyorsan, Tethis'i öldür ve bana onun pençesini getir. Bu, başka hiçbir büyük av avcısının başaramadığı bir başarı olurdu.",
+    ["Objectives"]="Hemet Nesingwary, Stranglethorn'daki yakalanması zor ve tehlikeli bir raptor olan Tethis'i öldürmeni istiyor.",
     ["Progress"]="Tethis avı nasıl gidiyor? İzini kampa kadar sürdün, değil mi?",
     ["Completion"]="Üstat YOUR_NAME, raptor katili!\n\nKulağa hoş geliyor, değil mi?",
     ["minlevel"]="0",
@@ -47969,7 +47969,7 @@ QuestTranslator_QuestData = {
     -- The Green Hills of Stranglethorn
     -- Stranglethorn -> İstisna kuralı uyarınca kesinlikle çevrilmeyecektir, aynen bırakılmıştır.
     -- The Green Hills of Stranglethorn -> Stranglethorn'un Yeşil Tepeleri.
-    -- Barnil -> Barnil kalmıştır (Özel isim / MobNpcData.lua)[cite: 1].
+    -- Barnil -> Barnil kalmıştır (Özel isim / MobNpcData.lua).
     -- Master Nesingwary -> Üstat Nesingwary.
     -- Jungle Boots -> Orman Çizmeleri (Jungle -> Orman, Boots -> Çizmeler).
     -- Thick Armor Kit -> Kalın Zırh Kiti (Thick -> Kalın, Armor Kit -> Zırh Kiti).
@@ -47977,7 +47977,7 @@ QuestTranslator_QuestData = {
     ["338"] = { 
     ["Title"]="Stranglethorn'un Yeşil Tepeleri",
     ["Description"]="Üstat Nesingwary (Master Nesingwary) bunu öğrenirse çok üzülecek!\n\nRomanı 'Stranglethorn'un Yeşil Tepeleri'nin (The Green Hills of Stranglethorn) taslağını gözden geçirmem için bana güvenmişti. Her şey yolunda gidiyordu ama kamptan geçen büyük bir rüzgar dalgası sayfaları her yere savurdu!\n\nSayfaların çoğunu toplamayı başardım ama birçoğu hâlâ ormanda darmadağınık durumda. Dört bölümün her birini tamamlamak için sayfaları topla.\n\nOnları düzenlemene yardım edeceğim. Dördü de eline geçtiğinde bölümleri bana geri getir.",
-    ["Objectives"]="Stranglethorn'un Yeşil Tepeleri (The Green Hills of Stranglethorn) taslağının eksik sayfalarını topla. Dört bölümün tümü tamamlandığında onları Barnil'e geri getir.[cite: 1]",
+    ["Objectives"]="Stranglethorn'un Yeşil Tepeleri (The Green Hills of Stranglethorn) taslağının eksik sayfalarını topla. Dört bölümün tümü tamamlandığında onları Barnil'e geri getir.",
     ["Progress"]="Bölümleri henüz bir araya getirebildin mi, YOUR_NAME?",
     ["Completion"]="Beni kesinlikle büyük bir dertten kurtardın, YOUR_NAME! Sana ne kadar teşekkür etsem azdır. Üstat Nesingwary'nin kitabını dünyanın dört bir yanındaki kütüphanelerde görmemiz artık çok uzun sürmeyecektir!",
     ["minlevel"]="0",
@@ -47990,11 +47990,11 @@ QuestTranslator_QuestData = {
     -- Skullsplitter -> Kafatasıyaran.
     -- Witchdoctor -> Cadı Doktoru (Oyun terimi).
     -- Mystic -> Mistik (Oyun terimi).
-    -- Kurzen -> Kurzen kalmıştır (Özel isim / MobNpcData.lua)[cite: 1].
+    -- Kurzen -> Kurzen kalmıştır (Özel isim / MobNpcData.lua).
     ["205"] = { 
     ["Title"]="Trol Büyücülüğü",
     ["Description"]="Senin getirdiğin o efsaneleri incelerken, sen de bana kötü trol büyülerinin araç gereçlerini topla. Uzak güneydeki ikinci bir kabile olan Kafatasıyaran (Skullsplitter) trollerinin bölgesine gir; onların Cadı Doktorları (Witchdoctors) ile Mistiklerinden (Mystics) Kafatasıyaran Muskaları (Skullsplitter Fetishes) ele geçir.",
-    ["Objectives"]="Asi Kampı'ndaki (Rebel Camp) Peder Nimetz'e (Brother Nimetz) 4 Kafatasıyaran Muskası (Skullsplitter Fetish) getir.[cite: 1, 2]",
+    ["Objectives"]="Asi Kampı'ndaki (Rebel Camp) Peder Nimetz'e (Brother Nimetz) 4 Kafatasıyaran Muskası (Skullsplitter Fetish) getir.",
     ["Progress"]="O muskalar yanında mı, YOUR_NAME? Kurzen'in bu ahlaksızlığa düşmesinin sırrını barındırıyor olabilirler... Bunu mutlaka öğrenmeliyim!",
     ["Completion"]="Teşekkür ederim. Bu muskaları inceleyeceğim ve Kurzen'in kötülüğe teslim olmasının sırrını taşıyıp taşımadıklarını göreceğim.",
     ["minlevel"]="0",
@@ -48002,15 +48002,15 @@ QuestTranslator_QuestData = {
     }, -- end Troll Witchery
     -- Supplies to Private Thorsen
     -- Miscellaneous Goblin Supplies -> Çeşitli Goblin Erzağı (Miscellaneous -> Çeşitli, Supplies -> Erzak/Malzeme).
-    -- Private Thorsen -> Er Thorsen (Private -> Er unvanı / MobNpcData.lua)[cite: 1].
-    -- Lieutenant Doren -> Teğmen Doren (Lieutenant -> Teğmen / MobNpcData.lua)[cite: 1].
+    -- Private Thorsen -> Er Thorsen (Private -> Er unvanı / MobNpcData.lua).
+    -- Lieutenant Doren -> Teğmen Doren (Lieutenant -> Teğmen / MobNpcData.lua).
     -- Stranglethorn -> İstisna uyarınca çevrilmeden aynen bırakılmıştır.
     -- Duskwood -> Alacakaranlık Ormanı (Dusk -> Alacakaranlık, Wood -> Orman / ZoneData.lua)[cite: 2].
-    -- Kurzen -> Kurzen kalmıştır (MobNpcData.lua)[cite: 1].
+    -- Kurzen -> Kurzen kalmıştır (MobNpcData.lua).
     ["198"] = { 
     ["Title"]="Er Thorsen'e Erzak",
     ["Description"]="Hmm. Evet, aslına bakarsan yapabileceğin bir şey var. Kuzeydeki Teğmen Doren ve takipçilerinin bizden düzenli erzak alması gerekiyor.\n\nTrollerin saldırıları yüzünden bunlar henüz teslim edilemedi ve bunu yapacak birine ihtiyacım var. Doren'in kampı, Alacakaranlık Ormanı'ndan (Duskwood) Stranglethorn'a giriş yolunun kuzeybatısında yer alıyor. Erzağı Er Thorsen'e (Private Thorsen) teslim et; eğer kampta değilse, kampın güneyinde devriye geziyordur. O icabına bakacaktır.\n\nUnutma, başarısız olursan bana tazminat borçlanırsın.",
-    ["Objectives"]="Çeşitli Goblin Erzağı'nı (Miscellaneous Goblin Supplies) Er Thorsen'e (Private Thorsen) teslim et.[cite: 1]",
+    ["Objectives"]="Çeşitli Goblin Erzağı'nı (Miscellaneous Goblin Supplies) Er Thorsen'e (Private Thorsen) teslim et.",
     ["Progress"]="Evet? Ne istiyorsun? Ah, goblinlerden gelen erzaklar. Bunları bir YOUR_RACE ırkının teslim ettiğini görmek tuhaf, genellikle kendilerininkini gönderirler. Neyse... Onlara dokunmadın, değil mi? Güzel, güzel... Mayınlarımıza bir şey gelmesini istemeyiz, kesinlikle hayır.",
     ["Completion"]="Bu kara mayınları, kendimizi o hayvan Kurzen ve adamlarına karşı savunmamıza yardımcı olacak. Onları getirdiğin için teşekkürler. Eğer daha fazla işe ihtiyacın varsa, muhtemelen senin için yapacak bir şeyler bulabilirim. Hem o goblinlerle de uğraşmak zorunda kalmazsın, ha?",
     ["minlevel"]="0",
@@ -48018,14 +48018,14 @@ QuestTranslator_QuestData = {
     }, -- end Supplies to Private Thorsen
     -- Investigate the Camp
     -- Booty Bay -> Ganimet Koyu (ZoneData.lua)[cite: 2].
-    -- Krazek -> Krazek kalmıştır (MobNpcData.lua)[cite: 1].
+    -- Krazek -> Krazek kalmıştır (MobNpcData.lua).
     -- Venture Company -> Macera Şirketi (Venture -> Macera, Company -> Şirket).
     -- Lake Nazferiti -> Nazferiti Gölü (Lake -> Gölü).
-    -- Hemet Nesingwary -> Hemet Nesingwary kalmıştır (MobNpcData.lua)[cite: 1].
+    -- Hemet Nesingwary -> Hemet Nesingwary kalmıştır (MobNpcData.lua).
     ["201"] = { 
     ["Title"]="Kampı Araştır",
     ["Description"]="Nazferiti Gölü'ndeki (Lake Nazferiti) Venture Company maden kampının yukarısında nehir kıyısına kamp kurmuş bir grup avcıya dair raporlar aldım. Normalde umursamazdım ama inanması güç olsa da Hemet Nesingwary'nin de oradaki avcılardan biri olduğunu duydum.Ne demek istediğimi anlıyorsan, kendisinin bağlantıları kesinlikle çok güçlüdür ve hiçbir zaman işi şansa bırakmamak gerekir.\n\nNeden gidip şu kampa bir göz atmıyorsun, YOUR_NAME? Ne işler çevirdiklerini öğren bakalım.",
-    ["Objectives"]="Avcıların kampını bul ve konumunu Ganimet Koyu'ndaki (Booty Bay) Krazek'e bildir.[cite: 1, 2]",
+    ["Objectives"]="Avcıların kampını bul ve konumunu Ganimet Koyu'ndaki (Booty Bay) Krazek'e bildir.",
     ["Progress"]="Eeee? Kampın yerini tespit etme konusunda bir şansın yaver gitti mi?",
     ["Completion"]="Hmmm, demek ki bilgilerim her zamanki gibi doğruydu. İlginç. Pekala, bizim operasyonumuza müdahale edecek bir tehdit oluşturduklarını sanmıyorum ama belki de ürettiğimiz o mükemmel ürünlerden bazılarına ihtiyaçları olabilir. Hmmm...",
     ["minlevel"]="0",
@@ -48034,9 +48034,9 @@ QuestTranslator_QuestData = {
     -- Bloodscalp Ears
     -- Bloodscalp -> Kanlıkafa (Blood -> Kan, Scalp -> Saç derisi/Kafa derisi).
     -- Bloodscalp Ear -> Kanlıkafa Kulağı (Ear -> Kulak).
-    -- Kebok -> Kebok kalmıştır (Özel isim / MobNpcData.lua)[cite: 1].
+    -- Kebok -> Kebok kalmıştır (Özel isim / MobNpcData.lua).
     -- Booty Bay -> Ganimet Koyu (ZoneData.lua)[cite: 2].
-    -- Baron Revilgaz -> Baron Revilgaz kalmıştır (Özel isim / MobNpcData.lua)[cite: 1].
+    -- Baron Revilgaz -> Baron Revilgaz kalmıştır (Özel isim / MobNpcData.lua).
     -- Goblin Fishing Pole -> Goblin Oltası (Fishing Pole -> Olta).
     ["189"] = {
     ["Title"]="Bloodscalp Kulakları",
@@ -48048,11 +48048,11 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end Bloodscalp Ears
     -- Hostile Takeover
-    -- Kebok -> Kebok kalmıştır (MobNpcData.lua)[cite: 1].
+    -- Kebok -> Kebok kalmıştır (MobNpcData.lua).
     -- Booty Bay -> Ganimet Koyu (ZoneData.lua)[cite: 2].
     -- Tumbled Crystal -> İşlenmiş Kristal / Yontulmuş Kristal (Tumbled -> Tamburlanmış, aşındırılarak pürüzsüzleştirilmiş / Yontulmuş).
-    -- Gelriz -> Gelriz kalmıştır (MobNpcData.lua)[cite: 1].
-    -- Revilgaz -> Revilgaz kalmıştır (MobNpcData.lua)[cite: 1].
+    -- Gelriz -> Gelriz kalmıştır (MobNpcData.lua).
+    -- Revilgaz -> Revilgaz kalmıştır (MobNpcData.lua).
     -- Venture Co. -> Macera Şti. (Venture Co. / Venture Company -> Macera Şirketi).
     -- Lake Nazferiti -> Nazferiti Gölü.
     -- Gigglefont -> Kıkırdayanyazı (Giggle -> Kıkırdama, Font -> Yazı tipi/kaynak).
@@ -48060,15 +48060,15 @@ QuestTranslator_QuestData = {
     -- Gemmed Gloves -> Mücevherli Eldiven (Gemmed -> Mücevherli, Gloves -> Eldiven).
     ["213"] = { 
     ["Title"]="Düşmanca Ele Geçirme",
-    ["Description"]="Bu sefer gerçekten ileri gitti! Gelriz'in, ticaret prensleri tarafından atanan nüfuzlu tüccarları zorbalıkla saf dışı bırakması yetmezmiş gibi, şimdi de en azılı korsanın işine çomak sokmaya çalışıyor![cite: 1]\n\nRevilgaz buna müsaade etmeyecek ve bu sorunu kendi yöntemlerimle çözmemi söyledi.[cite: 1]\n\nBenim yöntemim mi? Hırsızlık. Nazferiti Gölü (Lake Nazferiti) yakınlarındaki Macera Şti. (Venture Co.) jeologları, madenlerde buldukları o tuhaf mavi kristallere derinden ilgi duyuyorlar. Bana onların jeologlarından bu taşın örneklerini getir, onları almak için ne yapman gerektiği umurumda bile değil.",
-    ["Objectives"]="8 İşlenmiş Kristal (Tumbled Crystal) ele geçir ve onları Ganimet Koyu'ndaki (Booty Bay) Kebok'e geri getir.[cite: 1, 2]",
+    ["Description"]="Bu sefer gerçekten ileri gitti! Gelriz'in, ticaret prensleri tarafından atanan nüfuzlu tüccarları zorbalıkla saf dışı bırakması yetmezmiş gibi, şimdi de en azılı korsanın işine çomak sokmaya çalışıyor!\n\nRevilgaz buna müsaade etmeyecek ve bu sorunu kendi yöntemlerimle çözmemi söyledi.\n\nBenim yöntemim mi? Hırsızlık. Nazferiti Gölü (Lake Nazferiti) yakınlarındaki Macera Şti. (Venture Co.) jeologları, madenlerde buldukları o tuhaf mavi kristallere derinden ilgi duyuyorlar. Bana onların jeologlarından bu taşın örneklerini getir, onları almak için ne yapman gerektiği umurumda bile değil.",
+    ["Objectives"]="8 İşlenmiş Kristal (Tumbled Crystal) ele geçir ve onları Ganimet Koyu'ndaki (Booty Bay) Kebok'e geri getir.",
     ["Progress"]="O taşlara ihtiyacım var, YOUR_NAME. Hangi yolla olursa olsun! Sadece yap, bana ayrıntıları anlatma!\n\nHer şey sonuçtan ibaret, YOUR_NAME, ne fazlası ne azı.",
     ["Completion"]="Büyüleyici. Kristallerin bu süreç kullanılarak yontulmuş olması, onları bir tür yakıt ya da başka bir katalizör olarak kullanmayı planladıklarını gösteriyor. Bundan daha fazlasını bilmiyorum. Örneklerin Baş Kimyager Kıkırdayanyazı'ya (Head Chemist Gigglefont) gönderilmesi gerekecek.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Hostile Takeover
     -- Supply and Demand
-    -- Drizzlik -> Drizzlik kalmıştır (MobNpcData.lua)[cite: 1].
+    -- Drizzlik -> Drizzlik kalmıştır (MobNpcData.lua).
     -- Booty Bay -> Ganimet Koyu (ZoneData.lua)[cite: 2].
     -- Large River Crocolisk Skin -> Büyük Nehir Timsahı Derisi (Large -> Büyük, River -> Nehir, Crocolisk -> Timsah/Krokolisk, Skin -> Deri).
     -- Stranglethorn -> İstisna uyarınca çevrilmeden aynen bırakılmıştır.
@@ -48079,14 +48079,14 @@ QuestTranslator_QuestData = {
     ["575"] = { 
     ["Title"]="Arz ve Talep",
     ["Description"]="\"Güney Denizleri'nin ve eski ile yeni dünyaların en iyi deri işleyicisi.\" Bana böyle derler. Bana! Drizzlik'e! En iyi de... Öhöm. Pekala.\n\nDeri eşyalarım en seçkin, bir uzmanın tercihi olarak uzak ve yakın her yerde bilinir!\n\nMucitler Birliği'nden (Tinkers' Union) Müdür Bilmecekutusu'ndan (Director Riddlevox) en sevdiği Kusursuz serisi çizmelerden bir düzine üretmem için bir sipariş aldım. Aslına bakarsan en çok satan ürünümüzdür.\n\nTemel kalıba başlamak için, kuzey Stranglethorn'daki nehir boyunca yaşayan timsahlardan timsah derisi toplaman gerekecek.",
-    ["Objectives"]="Ganimet Koyu'ndaki (Booty Bay) Drizzlik'e 2 Büyük Nehir Timsahı Derisi (Large River Crocolisk Skin) getir.[cite: 1, 2]",
+    ["Objectives"]="Ganimet Koyu'ndaki (Booty Bay) Drizzlik'e 2 Büyük Nehir Timsahı Derisi (Large River Crocolisk Skin) getir.",
     ["Progress"]="Ekipmanlarımın hepsi çalışmaya hazır, YOUR_NAME, sadece o derilere ihtiyacım var. Bilmecekutusu'nu bekletmek istemeyiz, orası kesin.\n\nMucitler Birliği'nin baş mucidini memnuniyetsiz bırakmak hiç kimse için iyi bir fikir değildir.",
     ["Completion"]="Bu deriler iş görür. Çizmelerin iç astarını oluşturacakları için kaliteleri o kadar da mühim değil ama yine de rahat olmaları önemli.\n\nEğer biraz fazla sert olurlarsa, yumuşatmak için biraz kaplan kanı kullanırım. Meslek sırrı, bilirsin ya?",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Supply and Demand
     -- Some Assembly Required
-    -- Drizzlik -> Drizzlik kalmıştır (MobNpcData.lua)[cite: 1].
+    -- Drizzlik -> Drizzlik kalmıştır (MobNpcData.lua).
     -- Booty Bay -> Ganimet Koyu (ZoneData.lua)[cite: 2].
     -- Snapjaw Crocolisk Skin -> Kapançene Timsahı Derisi (Snapjaw -> Kapançene / Kapan çeneli, Crocolisk -> Timsah, Skin -> Deri).
     -- Lake Nazferiti -> Nazferiti Gölü.
@@ -48094,7 +48094,7 @@ QuestTranslator_QuestData = {
     ["577"] = { 
     ["Title"]="Biraz Montaj Gerekiyor",
     ["Description"]="Pekala, çizmelerin temel kalıbını çıkardım ve gayet iyi gidiyorlar; ancak getirdiğin deriler iç katmanlar için pek yeterli olmayacak.\n\n\"Şimdi ne yapacağız, Drizzlik?\" Dudaklarındaki sorunun bu olduğuna şüphe yok ve pekala, Drizzlik ile konuştuğun için şanslı sayılmaz mısın? Çünkü şimdi sana ne yapacağımızı söyleyecek!\n\nİç katmanlar asla gerçekten görünmeyecek, bu yüzden çizmeleri doldurmak için Nazferiti Gölü (Lake Nazferiti) civarındaki timsahlardan daha kalın ve daha ucuz olan derilerden toplayacağız.",
-    ["Objectives"]="Ganimet Koyu'ndaki (Booty Bay) Drizzlik'e 5 Kapançene Timsahı Derisi (Snapjaw Crocolisk Skin) getir.[cite: 1, 2]",
+    ["Objectives"]="Ganimet Koyu'ndaki (Booty Bay) Drizzlik'e 5 Kapançene Timsahı Derisi (Snapjaw Crocolisk Skin) getir.",
     ["Progress"]="Drizzlik'in Kusursuz deri çizmeleri; en ince işçilik, yüzde yüz yüksek kalite tuzlu su timsahı derisinden çizmeler. Daha iyisi yok!\n\nBöyle parıltılı bir tarifi geride bırakamazsın, değil mi?\n\nTabii, belki o deriler yanındaysa durum değişebilir?",
     ["Completion"]="Çizmelerim... Tıpkı sosisler gibidir, YOUR_NAME. Harika görünürler, tadı harikadır. Sana içlerinin en kaliteli malzemelerle ve etlerle dolu olduğunu söylerim, sen de onu yer ve bayılırsın.\n\nSadece bana güvenmen ve içinde gerçekten ne olduğunu çok da detaylı sormaman senin için daha güvenli ve daha keyiflidir.",
     ["minlevel"]="0",
@@ -48128,7 +48128,7 @@ QuestTranslator_QuestData = {
     ["600"] = { 
     ["Title"]="Venture Company (Macera Şirketi) Madenciliği",
     ["Description"]="Macera Şirketi'nin (Venture Company) Stranglethorn boyunca uzanan bir dizi operasyonu var ve bu durum benim gibi çalışkan goblinlerin dürüst yoldan altın kazanmasını engelliyor! Lütfen, bana yardım etmelisin!\n\nMacera Şirketi, kuzeydeki Kristaldamarı Madeni'nin (Crystalvein Mine) yakınlarında maden çıkarıyor. Bazilisklerin çokluğu yüzünden madenin içine giremiyorlar ama yine de çevre tepelerden Şarkı Söyleyen Kristalleri (Singing Crystals) kazıp çıkarmayı başarıyorlar.\n\nKristallerini ellerinden al ve onlara ormanın hakimi olmadıklarını göster.\n\nVe... şey... kanıt olarak o kristalleri bana getir!",
-    ["Objectives"]="Ganimet Koyu'ndaki (Booty Bay) Çark Cızırtılıbalon'a (Crank Fizzlebub) 10 Şarkı Söyleyen Mavi Kristal (Singing Blue Crystal) getir.[cite: 1, 2]",
+    ["Objectives"]="Ganimet Koyu'ndaki (Booty Bay) Çark Cızırtılıbalon'a (Crank Fizzlebub) 10 Şarkı Söyleyen Mavi Kristal (Singing Blue Crystal) getir.",
     ["Progress"]="O kristalleri topladın mı?? Onlara ihtiyacım var!!\n\nYani... Demek istediğim, şu kötü Macera Şirketi'nin Stranglethorn'da zemin kaybettiğini bilmeye ihtiyacım var. Çünkü bilirsin ya, biz dürüst halkın da geçimini sağlaması gerekiyor!",
     ["Completion"]="Harika! Muhteşem! Bunlar karşılığında koca bir servet koparabilirim!!\n\nŞu Macera Şirketi maden kazmak için kesinlikle yanlış ormanı seçti, değil mi? Buradan çekip gitselerdi hepimiz çok daha iyi durumda olurduk.\n\nTeşekkür ederim, YOUR_NAME. Bugün gerçekten çok iyi bir iş çıkardın.",
     ["minlevel"]="0",
@@ -48136,8 +48136,8 @@ QuestTranslator_QuestData = {
     }, -- end Venture Company Mining
 
     -- The Haunted Isle
-    -- Krazek -> Krazek kalmıştır (MobNpcData.lua)[cite: 1].
-    -- Baron Revilgaz -> Baron Revilgaz kalmıştır (MobNpcData.lua)[cite: 1].
+    -- Krazek -> Krazek kalmıştır (MobNpcData.lua).
+    -- Baron Revilgaz -> Baron Revilgaz kalmıştır (MobNpcData.lua).
     -- Booty Bay -> Ganimet Koyu (ZoneData.lua)[cite: 2].
     -- Stranglethorn -> İstisna uyarınca çevrilmeden aynen bırakılmıştır.
     -- Haunted Isle -> Lanetli Ada (Haunted -> Lanetli/Hayaletli, Isle -> Ada).
@@ -48146,7 +48146,7 @@ QuestTranslator_QuestData = {
     ["616"] = { 
     ["Title"]="Lanetli Ada",
     ["Description"]="Baron Revilgaz, Ganimet Koyu (Booty Bay) ve Stranglethorn'daki tuhaf ve sıra dışı söylentilere kulak kabartmamı istemişti. Genelde hayalet hikayelerine pek prim vermem ama tavernadaki bazı denizcilerin kıyının açıklarında lanetli bir adadan bahsettiklerini duydum. Söylediklerine göre orada su elementalleri ve çılgın bir goblin hayaleti varmış.\n\nEğer gidip Revilgaz ile konuşacaksan, bu hikayeyi ona aktarabilir misin?",
-    ["Objectives"]="Ganimet Koyu'ndaki (Booty Bay) Baron Revilgaz ile konuş.[cite: 1, 2]",
+    ["Objectives"]="Ganimet Koyu'ndaki (Booty Bay) Baron Revilgaz ile konuş.",
     ["Progress"]="", -- Görev metninde Progress (İlerleme) bölümü bulunmamaktadır.
     ["Completion"]="İlginç. Bir süre önce, bir zamanlar okuduğum ve şunu öne süren bir kitabı hatırlar gibiyim...\n\nAh, elbette, bir trol efsanesiydi. Eğer Krazek'in bildirdikleri doğruysa, belki de yakında Gelgitlerin Taşı'nı (Stone of the Tides) kadim eser ve yadigar koleksiyonuma ekleyebilirim.",
     ["minlevel"]="0",
@@ -48154,11 +48154,11 @@ QuestTranslator_QuestData = {
     }, -- end The Haunted Isle
 
     -- The Stone of the Tides
-    -- Baron Revilgaz -> Baron Revilgaz kalmıştır (MobNpcData.lua)[cite: 1].
+    -- Baron Revilgaz -> Baron Revilgaz kalmıştır (MobNpcData.lua).
     -- Booty Bay -> Ganimet Koyu (ZoneData.lua)[cite: 2].
     -- Stone of the Tides -> Gelgitlerin Taşı (Stone -> Taş, Tides -> Gelgitler).
     -- Stormwind Library -> Fırtınarüzgarı Kütüphanesi (Stormwind -> Fırtınarüzgarı, Library -> Kütüphane).
-    -- Gazban -> Gazban kalmıştır (Özel isim / MobNpcData.lua)[cite: 1].
+    -- Gazban -> Gazban kalmıştır (Özel isim / MobNpcData.lua).
     ["578"] = { 
     ["Title"]="Gelgitlerin Taşı",
     ["Description"]="Eğer adada gerçekten de mesken tutmuş bir goblin büyücüsü ve su elementalleri varsa, bu durum Gelgitlerin Taşı'nın (Stone of the Tides) benim olabileceği anlamına gelebilir!\n\nBu lanetli adanın yerini tespit etmeni... orada neler döndüğünü öğrenmeni istiyorum. Oh, ve eğer Gelgitlerin Taşı hakkında daha fazla şey öğrenmek istersen, bu belgeyi Fırtınarüzgarı Kütüphanesi'ne (Stormwind Library) götür; efsaneye ilk rastladığım kitabın bir kopyasını sana bulabilmeleri gerekir.\n\nGazban gerçekten de Taşı keşfetmiş olabilir mi...?",
@@ -48169,7 +48169,7 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end The Stone of the Tides
     -- Excelsior
-    -- Drizzlik -> Drizzlik kalmıştır (MobNpcData.lua)[cite: 1].
+    -- Drizzlik -> Drizzlik kalmıştır (MobNpcData.lua).
     -- Booty Bay -> Ganimet Koyu (ZoneData.lua)[cite: 2].
     -- Elder Crocolisk Skin -> Yaşlı Timsah Derisi (Elder -> Yaşlı/Kadim, Crocolisk -> Timsah, Skin -> Deri).
     -- elder saltwater crocolisk -> yaşlı tuzlu su timsahı (Saltwater -> Tuzlu su).
@@ -48187,24 +48187,24 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end Excelsior
     -- Water Elementals
-    -- Baron Revilgaz -> Baron Revilgaz kalmıştır (MobNpcData.lua)[cite: 1].
+    -- Baron Revilgaz -> Baron Revilgaz kalmıştır (MobNpcData.lua).
     -- Booty Bay -> Ganimet Koyu (ZoneData.lua)[cite: 2].
-    -- Gazban -> Gazban kalmıştır (MobNpcData.lua)[cite: 1].
+    -- Gazban -> Gazban kalmıştır (MobNpcData.lua).
     -- Water Elemental Bracers -> Su Elementali Kollukları (Water Elemental -> Su Elementali, Bracers -> Kolluklar/Bileklikler).
     -- Stone of the Tides -> Gelgitlerin Taşı (Stone -> Taş, Tides -> Gelgitler).
     -- Dalaran -> Dalaran kalmıştır (Özel bölge/birlik ismi).
     ["601"] = { -- Quest ID varsayılan olarak yerleştirilmiştir.
     ["Title"]="Su Elementalleri",
-    ["Description"]="Su elementalleri hiç şüphesiz, Gelgitlerin Taşı'nı (Stone of the Tides) keşfettiği söylenen goblin büyücü Gazban tarafından çağrılmıştı.[cite: 1]\n\nBileceğin üzere, Gelgitlerin Taşı taşıyıcısını lanetler ve onun varoluş sınırlarında bir görünüp bir kaybolmasına neden olur...\n\nBelki de bu lanete karşı koymanın bir yolunu bulabiliriz. Dalaran'daki bir büyücüye, su elementallerinin kolluklarından birindeki büyülü kalıntıyı analiz ettirebiliriz. Adaya geri dönüp birkaç örnek ele geçirmene ihtiyacım var.",
-    ["Objectives"]="Ganimet Koyu'ndaki (Booty Bay) Baron Revilgaz için 6 Su Elementali Kolluğu (Water Elemental Bracers) elde et.[cite: 1, 2]",
+    ["Description"]="Su elementalleri hiç şüphesiz, Gelgitlerin Taşı'nı (Stone of the Tides) keşfettiği söylenen goblin büyücü Gazban tarafından çağrılmıştı.\n\nBileceğin üzere, Gelgitlerin Taşı taşıyıcısını lanetler ve onun varoluş sınırlarında bir görünüp bir kaybolmasına neden olur...\n\nBelki de bu lanete karşı koymanın bir yolunu bulabiliriz. Dalaran'daki bir büyücüye, su elementallerinin kolluklarından birindeki büyülü kalıntıyı analiz ettirebiliriz. Adaya geri dönüp birkaç örnek ele geçirmene ihtiyacım var.",
+    ["Objectives"]="Ganimet Koyu'ndaki (Booty Bay) Baron Revilgaz için 6 Su Elementali Kolluğu (Water Elemental Bracers) elde et.",
     ["Progress"]="Şansın yaver gitti mi, YOUR_NAME?",
-    ["Completion"]="Hm, bu kollukları inceleyip herhangi birinin işe yarayıp yaramayacağını anlayacak göz bende yok; ama eminim en az bir tanesi yardımcı olacaktır. Onları Dalaran'a götür ve bir büyücünün onlara bakmasını sağla.\n\nNe de olsa, sırf o usandırıcı yaşlı büyücülerle laflamak için Ganimet Koyu'ndan öylece ayrılamam.[cite: 2]\n\nYeni baron olmak için birilerinin aradan sıyrılmaya çalışacağından endişelendiğimden de değil. Kimse Revilgaz'a karşı gelip de bunu anlatacak kadar hayatta kalamaz.[cite: 1]",
+    ["Completion"]="Hm, bu kollukları inceleyip herhangi birinin işe yarayıp yaramayacağını anlayacak göz bende yok; ama eminim en az bir tanesi yardımcı olacaktır. Onları Dalaran'a götür ve bir büyücünün onlara bakmasını sağla.\n\nNe de olsa, sırf o usandırıcı yaşlı büyücülerle laflamak için Ganimet Koyu'ndan öylece ayrılamam.[cite: 2]\n\nYeni baron olmak için birilerinin aradan sıyrılmaya çalışacağından endişelendiğimden de değil. Kimse Revilgaz'a karşı gelip de bunu anlatacak kadar hayatta kalamaz.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Water Elementals
     -- Zanzil's Secret
     -- Zanzil the Outcast -> Dışlanmış Zanzil (Outcast -> Dışlanmış/Sürgün edilmiş).
-    -- Zanzil -> Zanzil kalmıştır (MobNpcData.lua)[cite: 1].
+    -- Zanzil -> Zanzil kalmıştır (MobNpcData.lua).
     -- Crank Fizzlebub -> Çark Cızırtılıbalon (Önceki görevlerde sabitlediğimiz goblin ismi).
     -- Booty Bay -> Ganimet Koyu (ZoneData.lua)[cite: 2].
     -- Zanzil's Mixture -> Zanzil'in Karışımı (Mixture -> Karışım/İksir).
@@ -48221,7 +48221,7 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end Zanzil's Secret
     -- Favor for Krazek
-    -- Krazek -> Krazek kalmıştır (MobNpcData.lua)[cite: 1].
+    -- Krazek -> Krazek kalmıştır (MobNpcData.lua).
     -- Booty Bay -> Ganimet Koyu (ZoneData.lua)[cite: 2].
     -- Lesser Bloodstone Ore -> Küçük Kanşıt Cevheri (Lesser -> Küçük/Düşük, Bloodstone -> Kan taşı / Kanşıt, Ore -> Cevher).
     -- Drywhisker Gorge -> Kuruvelet Kanyonu (Dry -> Kuru, Whisker -> Bıyık/Velet kelime oyunu, Gorge -> Kanyon/Geçit).
@@ -48229,14 +48229,14 @@ QuestTranslator_QuestData = {
     ["627"] = { 
     ["Title"]="Krazek için Bir Lütuf",
     ["Description"]="Uzak kuzeydeki Arathi Tepeleri'nde (Arathi Highlands), Kuruvelet Kanyonu'nda (Drywhisker Gorge) bir dağ mağarası var. O mağarada nadir bir cevher bulunur: Kan taşı. Bu mağaradaki kan taşı en yüksek kalitede değildir, ancak düşük kaliteli kan taşı bile değerlidir... Tabii onu nasıl kullanacağını bilenler için.\n\nBen de biraz istiyorum.\n\nSenin şu güveç tencereni tamir edeceğim, ama ben onun üzerinde çalışırken... bana kan taşı örnekleri getir. Yeterince getirirsen sana bir bonus bile veririm.\n\nOh, ve eğer onu çıkaracak madencilik yeteneğin yoksa... O yeteneğe sahip birini bul!",
-    ["Objectives"]="Ganimet Koyu'ndaki (Booty Bay) Krazek'e 4 yığın Küçük Kanşıt Cevheri (Lesser Bloodstone Ore) getir.[cite: 1, 2]",
+    ["Objectives"]="Ganimet Koyu'ndaki (Booty Bay) Krazek'e 4 yığın Küçük Kanşıt Cevheri (Lesser Bloodstone Ore) getir.",
     ["Progress"]="Merhaba, YOUR_NAME. Kan taşını getirme konusunda şansın yaver gitti mi?",
     ["Completion"]="Ah, şahane! Benim için büyük bir lütufta bulundun.\n\nİşte ödemen...",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Favor for Krazek
     -- The Bloodsail Buccaneers
-    -- First Mate Crazz -> İkinci Kaptan Crazz (First Mate -> Gemi ikinci kaptanı / süvari muavini, Crazz -> MobNpcData.lua)[cite: 1].
+    -- First Mate Crazz -> İkinci Kaptan Crazz (First Mate -> Gemi ikinci kaptanı / süvari muavini, Crazz -> MobNpcData.lua).
     -- Booty Bay -> Ganimet Koyu (ZoneData.lua)[cite: 2].
     -- Bloodsail Buccaneers -> Kanlıyel Korsanları (Bloodsail -> Kanlıyel, Buccaneers -> Korsanlar/Yağmacılar).
     -- Blackwater Raiders -> Karasu Akıncıları (Blackwater -> Karasu, Raiders -> Akıncılar/Yağmacılar).
@@ -48245,20 +48245,20 @@ QuestTranslator_QuestData = {
     ["595"] = { 
     ["Title"]="Kanlıyel Korsanları 1",
     ["Description"]="Çalışmaya gerçekten çok hevesli görünüyorsun, ahbap. Karayı seven bir YOUR_RACE YOUR_CLASS olarak neden Karasu Akıncıları'na (Blackwater Raiders) yardım teklif ettiğini pek anlamadım ama seni geri çevirecek de değilim.\n\nGemi daha yeni Ganimet Koyu'na (Booty Bay) yanaştı ve söylentilere göre rakiplerimiz olan şu lanet olası, pis Kanlıyel Korsanları (Bloodsail Buccaneers) güney Stranglethorn'un dört bir yanında görülmüş.[cite: 2]\n\nBizim çocukların hepsi içki alemi yapmakla ve kız peşinde koşmakla meşgul! Bana lazım olan şey ise bir gözcü.\n\nVahşi Kıyı (Savage Coast) boyunca, Ganimet Koyu'nun hemen kuzeyindeki koyu kontrol et ve ne bulacağına bir bak.[cite: 2]",
-    ["Objectives"]="İkinci Kaptan Crazz, Ganimet Koyu'nun kuzeyindeki koyu kontrol etmeni istiyor.[cite: 1, 2]",
+    ["Objectives"]="İkinci Kaptan Crazz, Ganimet Koyu'nun kuzeyindeki koyu kontrol etmeni istiyor.",
     ["Progress"]="", -- Görev metninde Progress (İlerleme) bölümü bulunmamaktadır.
     ["Completion"]="Küçük teknenin içinde, aceleyle yazılmış bazı metinlerin bulunduğu bir harita ve birkaç madeni para keşfediyorsun.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end The Bloodsail Buccaneers
     -- The Bloodsail Buccaneers
-    -- First Mate Crazz -> İkinci Kaptan Crazz (First Mate -> Gemi ikinci kaptanı / süvari muavini, Crazz -> MobNpcData.lua)[cite: 1].
+    -- First Mate Crazz -> İkinci Kaptan Crazz (First Mate -> Gemi ikinci kaptanı / süvari muavini, Crazz -> MobNpcData.lua).
     -- Booty Bay -> Ganimet Koyu (ZoneData.lua)[cite: 2].
     -- Bloodsail Buccaneers -> Kanlıyel Korsanları (Bloodsail -> Kanlıyel, Buccaneers -> Korsanlar/Yağmacılar).
     ["597"] = { 
     ["Title"]="Kanlıyel Korsanları 2",
     ["Description"]="Harita, tam olarak durduğun noktaya kırmızı bir \"X\" işareti çizilmiş haldeki Ganimet Koyu'nu (Booty Bay) gösteriyor.[cite: 2]\n\nKaralanmış metinde şunlar okunuyor:\n\n\"Sizler bu konumda bir kamp kurup sessiz kalacaksınız. Saldırıya geçmeden önce güneydeki komuta merkezinden gelecek işareti bekleyin. Eğer birisi size yaklaşırsa, onu öldürün.\"",
-    ["Objectives"]="Bulgularını Ganimet Koyu'ndaki (Booty Bay) İkinci Kaptan Crazz'a bildir.[cite: 1, 2]",
+    ["Objectives"]="Bulgularını Ganimet Koyu'ndaki (Booty Bay) İkinci Kaptan Crazz'a bildir.",
     ["Progress"]="", -- Görev metninde Progress (İlerleme) bölümü bulunmamaktadır.
     ["Completion"]="Elbette, seni hatırlıyorum, YOUR_CLASS. Gözcülükten döndün demek...",
     ["minlevel"]="0",
@@ -48281,7 +48281,7 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end The Bloodsail Buccaneers
     -- The Bloodsail Buccaneers
-    -- Fleet Master Seahorn -> Filo Komutanı Denizboynuzu (Fleet Master -> Filo Komutanı, Seahorn -> Denizboynuzu)[cite: 1].
+    -- Fleet Master Seahorn -> Filo Komutanı Denizboynuzu (Fleet Master -> Filo Komutanı, Seahorn -> Denizboynuzu).
     -- Booty Bay -> Ganimet Koyu (ZoneData.lua)[cite: 2].
     -- Bloodsail Buccaneers -> Kanlıyel Korsanları (Bloodsail -> Kanlıyel, Buccaneers -> Korsanlar).
     -- Bloodsail Swashbuckler -> Kanlıyel Fedaisi (Swashbuckler -> Fedai/Kabadayı).
@@ -48289,18 +48289,18 @@ QuestTranslator_QuestData = {
     -- Bloodsail Orders -> Kanlıyel Emirleri (Orders -> Emirler/Talimatlar).
     -- Blackwater Raiders -> Karasu Akıncıları (Blackwater -> Karasu, Raiders -> Akıncılar).
     -- Wild Shore -> Vahşi Kıyı (Wild -> Vahşi, Shore -> Kıyı/Sahil).
-    -- Crazz -> Crazz kalmıştır (MobNpcData.lua)[cite: 1].
+    -- Crazz -> Crazz kalmıştır (MobNpcData.lua).
     ["604"] = { 
     ["Title"]="Kanlıyel Korsanları 4",
-    ["Description"]="Crazz, Karasu Akıncıları'na (Blackwater Raiders) olan bağlılığından övgüyle bahsediyor.[cite: 1] Filo için son derece büyük önem taşıyan bir görevde sana güveneceğim.\n\nKanlıyel Korsanları'nın (Bloodsail Buccaneers) Vahşi Kıyı'da (Wild Shore) kurduğu sözde güney komuta merkezine sız. Kampı yağmala. Bana yazılı emirleriyle birlikte haritalarını da getir. O pisliklerin tam olarak ne peşinde olduklarını göreceğiz.",
-    ["Objectives"]="Ganimet Koyu'ndaki (Booty Bay) Filo Komutanı Denizboynuzu, 10 Kanlıyel Fedaisi (Bloodsail Swashbuckler) öldürmeni, Kanlıyel Haritaları'nı (Bloodsail Charts) ve Kanlıyel Emirleri'ni (Bloodsail Orders) geri getirmeni istiyor.[cite: 1, 2]",
+    ["Description"]="Crazz, Karasu Akıncıları'na (Blackwater Raiders) olan bağlılığından övgüyle bahsediyor. Filo için son derece büyük önem taşıyan bir görevde sana güveneceğim.\n\nKanlıyel Korsanları'nın (Bloodsail Buccaneers) Vahşi Kıyı'da (Wild Shore) kurduğu sözde güney komuta merkezine sız. Kampı yağmala. Bana yazılı emirleriyle birlikte haritalarını da getir. O pisliklerin tam olarak ne peşinde olduklarını göreceğiz.",
+    ["Objectives"]="Ganimet Koyu'ndaki (Booty Bay) Filo Komutanı Denizboynuzu, 10 Kanlıyel Fedaisi (Bloodsail Swashbuckler) öldürmeni, Kanlıyel Haritaları'nı (Bloodsail Charts) ve Kanlıyel Emirleri'ni (Bloodsail Orders) geri getirmeni istiyor.",
     ["Progress"]="Ahoy, YOUR_NAME. Güneydeki Kanlıyel kampından ne haberler getiriyorsun?",
     ["Completion"]="Mükemmel, YOUR_NAME. Artık planlarını bildiğimize göre gerisi sadece an meselesi.\n\nBir de şu aptalların tam burnun açığına demir attıklarını düşününce....",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end The Bloodsail Buccaneers
     -- The Bloodsail Buccaneers
-    -- Fleet-Master Seahorn / Fleet Master Seahorn -> Filo Komutanı Denizboynuzu (Fleet Master -> Filo Komutanı, Seahorn -> Denizboynuzu)[cite: 1].
+    -- Fleet-Master Seahorn / Fleet Master Seahorn -> Filo Komutanı Denizboynuzu (Fleet Master -> Filo Komutanı, Seahorn -> Denizboynuzu).
     -- Booty Bay -> Ganimet Koyu (ZoneData.lua)[cite: 2].
     -- Bloodsail Buccaneers -> Kanlıyel Korsanları (Bloodsail -> Kanlıyel, Buccaneers -> Korsanlar).
     -- Captain Stillwater -> Kaptan Durgunsu (Captain -> Kaptan, Stillwater -> Durgunsu).
@@ -48312,7 +48312,7 @@ QuestTranslator_QuestData = {
     ["608"] = { 
     ["Title"]="Kanlıyel Korsanları 5",
     ["Description"]="Firallon'un küstahlığına lanet olsun! Bırakın bize karşı koca bir filoya liderlik etmeyi, Kristal Göl'de (Crystal Lake) küçük bir tekneyi bile yüzdüremez.\n\nKanlıyel Korsanları (Bloodsail Buccaneers) bu dikkatsizliklerinin bedelini ödeyecekler. Artık onların saldırı planını bildiğimize göre, kendilerine neyin çarptığını bile anlamadan karşı saldırıya geçebiliriz.\n\nAma bir tek cesur macera grubunun yapabileceği bir iş için neden tüm filoyu gönderelim ki? YOUR_NAME, en yetenekli yoldaşlarından bazılarını yanına alarak Firallon'un çıkarma yaptığı yere git ve Kanlıyel lider kadrosuna suikast düzenle. Onların filosu çok geçmeden batacaktır...",
-    ["Objectives"]="Ganimet Koyu'ndaki (Booty Bay) Filo Komutanı Denizboynuzu; Kaptan Durgunsu (Captain Stillwater), Kaptan Omurgaçeken (Captain Keelhaul) ve Filo Komutanı Firallon'u (Fleet Master Firallon) öldürmeni istiyor.[cite: 1, 2]",
+    ["Objectives"]="Ganimet Koyu'ndaki (Booty Bay) Filo Komutanı Denizboynuzu; Kaptan Durgunsu (Captain Stillwater), Kaptan Omurgaçeken (Captain Keelhaul) ve Filo Komutanı Firallon'u (Fleet Master Firallon) öldürmeni istiyor.",
     ["Progress"]="Sorun nedir, YOUR_NAME? Kanlıyel Korsanları harekete geçmeden önce bizim saldırmamız gerekiyor!",
     ["Completion"]="Ah, Karasu Akıncıları (Blackwater Raiders) için ne harika bir gün! Senin şerefine üç kroşa, YOUR_NAME!",
     ["minlevel"]="0",
@@ -48336,14 +48336,14 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end Northfold Manor
     -- Wanted! Marez Cowl
-    -- Captain Nials -> Kaptan Nials kalmıştır (MobNpcData.lua)[cite: 1].
+    -- Captain Nials -> Kaptan Nials kalmıştır (MobNpcData.lua).
     -- Refuge Pointe -> Sığınak Noktası (Refuge -> Sığınak, Pointe -> Nokta/Uç).
     -- Marez Cowl -> Marez Başlıklı (Cowl -> Başlık/Kukuleta, isim/soyisim anlamca çevrilmiştir).
     -- Stromgarde -> İstisna uyarınca çevrilmeden aynen bırakılmıştır.
     -- Arcane Runed Bracers -> Gizemli Rünlü Kolluklar (Arcane -> Gizemli, Runed -> Rünlü, Bracers -> Kolluklar).
     ["684"] = { 
     ["Title"]="Aranıyor! Marez Cowl",
-    ["Description"]="Sendika'nın üst düzey bir danışmanı ve ajanı olan Marez Cowl'nın başına ödül konulmuştur. Kendisi en son Stromgarde'ın Sendika kontrollü topraklarında görülmüştür.\n\nÖdül, Kaptan Nials'tan tahsil edilebilir.[cite: 1]\n\nUyarılmak gerekirse: Marez, iblislerle olan iş birlikleriyle tanınan, yetenekli ve kurnaz bir Kara Büyücüdür. Onu avlarken son derece dikkatli olunması tavsiye edilir.",
+    ["Description"]="Sendika'nın üst düzey bir danışmanı ve ajanı olan Marez Cowl'nın başına ödül konulmuştur. Kendisi en son Stromgarde'ın Sendika kontrollü topraklarında görülmüştür.\n\nÖdül, Kaptan Nials'tan tahsil edilebilir.\n\nUyarılmak gerekirse: Marez, iblislerle olan iş birlikleriyle tanınan, yetenekli ve kurnaz bir Kara Büyücüdür. Onu avlarken son derece dikkatli olunması tavsiye edilir.",
     ["Objectives"]="Marez'in Başını Sığınak Noktası'ndaki Kaptan Nials'a getir.",
     ["Progress"]="Selamlar, YOUR_CLASS. Sunacağın bir raporun var mı?",
     ["Completion"]="Marez Cowl'yı indirdin mi? Tebrikler, YOUR_NAME. Gerçekten çok iyi bir iş çıkardın!\n\nMarez, Stromgarde savunucularımızı tehdit ediyordu ve söylentilere göre Sendika ile başka, daha karanlık bir güç arasında elçilik yapıyordu. Güçlerini artık bize karşı kullanamayacağını görmekten mutluluk duyuyoruz.",
@@ -48351,7 +48351,7 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end Wanted! Marez Cowl
     -- Wanted! Otto and Falconcrest
-    -- Captain Nials -> Kaptan Nials kalmıştır (MobNpcData.lua)[cite: 1].
+    -- Captain Nials -> Kaptan Nials kalmıştır (MobNpcData.lua).
     -- Refuge Pointe -> Sığınak Noktası (Refuge -> Sığınak, Pointe -> Nokta/Uç).
     -- Lord Falconcrest -> Lord Şahinarması (Falcon -> Şahin, Crest -> Arma/Tuğ, soyisim anlamca çevrilmiştir).
     -- Otto -> Otto kalmıştır (Özel isim).
@@ -48363,7 +48363,7 @@ QuestTranslator_QuestData = {
     ["685"] = { 
     ["Title"]="Aranıyor! Otto ve Falconcrest",
     ["Description"]="Stromgarde Milisleri, Lord Şahinarması (Lord Falconcrest) ve koruması Otto'nun başına ödül koymuştur. Falconcrest, Sendika'nın Arathi Tepeleri'ndeki faaliyetlerini yönetmektedir ve onun ölümü bu faaliyetlerde büyük bir aksamaya yol açacaktır.\n\nKoruması Otto stratejik bir hedef olmasa da çetin bir rakiptir ve düzinelerce savunucumuzu öldürmüştür.\n\nOnların ödülleri Kaptan Nials'tan tahsil edilebilir.",
-    ["Objectives"]="Otto'nun Başını ve Şahinarması'nın Başını Sığınak Noktası'ndaki Kaptan Nials'a getir.[cite: 1]",
+    ["Objectives"]="Otto'nun Başını ve Şahinarması'nın Başını Sığınak Noktası'ndaki Kaptan Nials'a getir.",
     ["Progress"]="Merhaba. Sunacağın bir raporun var mı?",
     ["Completion"]="Şahinarması ve Otto mu? Harika!\n\nİşte ödülün, YOUR_NAME. Bunu ödemekten mutluluk duyuyorum.",
     ["minlevel"]="0",
@@ -48443,44 +48443,44 @@ QuestTranslator_QuestData = {
     -- Steamwheedle Bilge Rum -> Buharçark Sintine Romu (Bilge -> Sintine, Rum -> Rom).
     -- Tanaris -> Tanaris kalmıştır (ZoneData.lua)[cite: 2].
     -- Kalimdor -> Kalimdor kalmıştır.
-    -- MacKinley -> MacKinley kalmıştır (MobNpcData.lua)[cite: 1].
-    -- Stoley -> Stoley kalmıştır (MobNpcData.lua)[cite: 1].
+    -- MacKinley -> MacKinley kalmıştır (MobNpcData.lua).
+    -- Stoley -> Stoley kalmıştır (MobNpcData.lua).
     ["2872"] = { 
     ["Title"]="Stoley'nin Borcu",
     ["Description"]="Eski dostum Stoley bana çok özel bir şişe rom borçlu. Kalimdor'daki Tanaris'te, Buharçark Limanı'nda (Steamwheedle Port) barmenlik yapıyor ve bana oradaki romun Ganimet Koyu'nda (Booty Bay) bulabileceğimiz her şeyden daha sert olduğuna söz vermişti.[cite: 2] Kendine o kadar güveniyor ki, eğer o romu dener de onunla aynı fikirde olmazsam bana olan borcunu ikiye katlayacağını söylüyor!\n\nPekala, bence son konuşmamızdaki kadar kendine güvenmiyor ve şimdi bana o romu vermeye korkuyor. Ama ben iddialardan asla geri adım atmam, bu yüzden neden benim yerime onunla konuşmuyorsun...",
     ["Objectives"]="Buharçark Limanı'ndaki (Steamwheedle Port) Stoley ile konuş.[cite: 2]",
     ["Progress"]="", -- Görev metninde Progress (İlerleme) bölümü bulunmamaktadır.
-    ["Completion"]="Ah, demek MacKinley ile konuşuyordun, öyle mi?[cite: 1]\n\nHiç de düşündüğü gibi değil! Ona biraz Buharçark Sintine Romu (Steamwheedle Bilge Rum) vermekten korkmuyorum...\n\nSadece ona verecek hiç romum yok!",
+    ["Completion"]="Ah, demek MacKinley ile konuşuyordun, öyle mi?\n\nHiç de düşündüğü gibi değil! Ona biraz Buharçark Sintine Romu (Steamwheedle Bilge Rum) vermekten korkmuyorum...\n\nSadece ona verecek hiç romum yok!",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Stoley's Debt
     -- Skullsplitter Tusks
     -- Skullsplitter -> Kafatasıyaran (Skull -> Kafatası, Splitter -> Yaran/Bölen; Trollerin klan adıdır).
     -- Skullsplitter Tusk -> Kafatasıyaran Dişi (Tusk -> Yaban domuzu veya fil dişi gibi büyük, dışarı uzanan dişleri ifade eder).
-    -- Kebok -> Kebok kalmıştır (MobNpcData.lua dosyasında özel Goblin NPC ismi)[cite: 1].
+    -- Kebok -> Kebok kalmıştır (MobNpcData.lua dosyasında özel Goblin NPC ismi).
     -- South Seas -> Güney Denizleri (South -> Güney, Seas -> Denizler).
     ["209"] = { 
     ["Title"]="Kafatasıyaran Dişleri",
     ["Description"]="Güney Denizleri'ndeki adalara kaplan dişi ihracatını desteklemek için yeterince kaplan öldürmek hem pahalı hem de zor. Şanslıyız ki, sıradan boynuz benzeri nesneleri alıp onları gerçeğinden ayırt edilemeyen sahtelerine dönüştürmemizi sağlayan bir teknik geliştirdik.\n\nŞaşırtıcı bir şekilde, bulduğumuz en yakın eşleşme Kafatasıyaran (Skullsplitter) trollerinin dişleri oldu.\n\nHey, bir şey söylemeden önce şunu düşün; alıcının bilmediği şey ona zarar vermez, haksız mıyım? Bana onlardan çok sayıda getir ki aylık sevkiyat üzerinde çalışmaya başlayabilelim!",
-    ["Objectives"]="18 Kafatasıyaran Dişi (Skullsplitter Tusk) elde et ve onları Kebok'a geri götür.[cite: 1]",
+    ["Objectives"]="18 Kafatasıyaran Dişi (Skullsplitter Tusk) elde et ve onları Kebok'a geri götür.",
     ["Progress"]="Zorlu keratalar, değil mi? Eee, şansın yaver gitti mi? Sabırsız görünmek istemem ama bu iş başıma büyük bela oldu! Eee?",
     ["Completion"]="Ah, iyi iş, iyi iş! Öf, yine de şunları temizleme konusunda daha iyi bir iş çıkarabilirdin-- Neyse, önemi yok, önemi yok! Sana teşekkür ederim, YOUR_NAME, yardımın sayesinde operasyonumuzun üretiminin ve verimliliğinin artacağına hiç şüphe yok! Güzel güzel, şimdi diğer konulara geçelim...",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Skullsplitter Tusks
     -- Return to Corporal Kaleb
-    -- Corporal Kaleb -> Onbaşı Kaleb (Corporal -> Onbaşı, Kaleb kalmıştır) (MobNpcData.lua)[cite: 1].
+    -- Corporal Kaleb -> Onbaşı Kaleb (Corporal -> Onbaşı, Kaleb kalmıştır) (MobNpcData.lua).
     -- Rebel Camp -> Asi Kampı (Rebel -> Asi, Camp -> Kamp).
     -- Krazek's Fixed Pot -> Krazek'in Onarılmış Tenceresi (Fixed -> Onarılmış/Tamir edilmiş, Pot -> Tencere/Çömlek).
     -- Krazek's Crock Pot -> Krazek'in Güveç Tenceresi (Crock Pot -> Güveç Tenceresi).
     -- Cap of Harmony -> Uyum Başlığı (Cap -> Başlık, Harmony -> Uyum/Ahenk).
     -- Booty Bay -> Ganimet Koyu (ZoneData.lua)[cite: 2].
-    -- Krazek -> Krazek kalmıştır (MobNpcData.lua)[cite: 1].
+    -- Krazek -> Krazek kalmıştır (MobNpcData.lua).
     ["622"] = { 
     ["Title"]="Onbaşı Kaleb'e Geri Dön",
     ["Description"]="Sen yokken bana getirdiğin tencereyi tamir ettim. Hatta fazladan bir buhar düdüğü bile ekledim, bak hele! Alt kısmında bacak kemiklerini bile kesecek yeni bir doğrayıcı var!\n\nEvet evet, Krazek'in Güveç Tenceresi (Krazek's Crock Pot) aşçıları yüzde yüz memnun edecek cinsten! Sahibinin memnun kalacağından eminim.",
-    ["Objectives"]="Krazek'in Onarılmış Tenceresi'ni (Krazek's Fixed Pot) Asi Kampı'ndaki (Rebel Camp) Onbaşı Kaleb'e getir.[cite: 1]",
-    ["Progress"]="Merhaba, YOUR_NAME. Ganimet Koyu'na (Booty Bay) ulaşabildin mi? Goblin Krazek tenceremi tamir etti mi??[cite: 1, 2]",
+    ["Objectives"]="Krazek'in Onarılmış Tenceresi'ni (Krazek's Fixed Pot) Asi Kampı'ndaki (Rebel Camp) Onbaşı Kaleb'e getir.",
+    ["Progress"]="Merhaba, YOUR_NAME. Ganimet Koyu'na (Booty Bay) ulaşabildin mi? Goblin Krazek tenceremi tamir etti mi??",
     ["Completion"]="Tamir edilmiş! Bu harika, artık akşam yemeğine başlayabilirim! Çok teşekkürler, YOUR_NAME.\n\nGanimet Koyu'nda (Booty Bay) iyi olduğunu umuyorum. Orası epey tekinsiz bir yer olabiliyor ve... goblinlerin bazen sarhoş denizcileri köle gemilerine sürükleyip kim bilir nereye... kim bilir ne yapmaya götürdüklerine dair söylentiler duydum...[cite: 2]",
     ["minlevel"]="0",
     ["questlevel"]="0",
@@ -48515,7 +48515,7 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end Magical Analysis
     -- Return to MacKinley
-    -- "Sea Wolf" MacKinley -> "Deniz Kurdu" MacKinley (Sea Wolf -> Deniz Kurdu)[cite: 1].
+    -- "Sea Wolf" MacKinley -> "Deniz Kurdu" MacKinley (Sea Wolf -> Deniz Kurdu).
     -- Shaky's Payment -> Korkak'ın Ödemesi ("Shaky" -> Korkak/Tir Tir Titreyen lakabıdır).
     -- Shaky -> Korkak.
     ["607"] = { 
@@ -50181,12 +50181,12 @@ QuestTranslator_QuestData = {
 -- Alliance Trauma
     -- Dustwallow Marsh -> Tozbatak Bataklığı (ZoneData.lua)[cite: 2].
     -- Theramore -> Theramore (ZoneData.lua)[cite: 2].
-    -- Doctor Gustaf VanHowzen -> Doktor Gustaf VanHowzen (MobNpcData.lua)[cite: 1].
+    -- Doctor Gustaf VanHowzen -> Doktor Gustaf VanHowzen (MobNpcData.lua).
     -- Alliance Trauma -> İttifak Travması (Alliance -> İttifak, Trauma -> Travma).
     ["6625"] = {
     ["Title"]="İttifak Travması",
-    ["Description"]="Doktor YOUR_NAME, sanırım. Sizi görmek bir zevk.\n\nSize harika haberlerim var! İttifak Travması'nın başhekimi Gustaf VanHowzen, Theramore'da kendisine katılmanız için kişisel bir istekte bulundu. Bu hayatınızın fırsatı olabilir! Büyük doktor Gustaf VanHowzen'in yanında çalışma şansı elde etmek için her şeyimi verirdim! Bu fırsatı boşa harcamayın, doktor![cite: 1, 2]",
-    ["Objectives"]="Tozbatak Bataklığı'ndaki Theramore'a git ve İttifak Travması'nın kadrosuna katılmak hakkında Doktor Gustaf VanHowzen ile konuş.[cite: 1, 2]",
+    ["Description"]="Doktor YOUR_NAME, sanırım. Sizi görmek bir zevk.\n\nSize harika haberlerim var! İttifak Travması'nın başhekimi Gustaf VanHowzen, Theramore'da kendisine katılmanız için kişisel bir istekte bulundu. Bu hayatınızın fırsatı olabilir! Büyük doktor Gustaf VanHowzen'in yanında çalışma şansı elde etmek için her şeyimi verirdim! Bu fırsatı boşa harcamayın, doktor!",
+    ["Objectives"]="Tozbatak Bataklığı'ndaki Theramore'a git ve İttifak Travması'nın kadrosuna katılmak hakkında Doktor Gustaf VanHowzen ile konuş.",
     ["Progress"]="",
     ["Completion"]="Harika. Önlüklerinizi giyin, hemen başlıyoruz!",
     ["minlevel"]="0",
@@ -50221,7 +50221,7 @@ QuestTranslator_QuestData = {
     -- Shadowshard Fragments
     -- Maraudon -> Maraudon (ZoneData.lua)[cite: 2].
     -- Orgrimmar -> Orgrimmar (ZoneData.lua)[cite: 2].
-    -- Uthel'nay -> Uthel'nay (MobNpcData.lua)[cite: 1].
+    -- Uthel'nay -> Uthel'nay (MobNpcData.lua).
     -- Desolace -> Desolace (ZoneData.lua)[cite: 2].
     -- Shadowshard Fragment -> Gölgekırığı Parçası / Gölge Kıymığı Parçası.
     -- Zealous Shadowshard Pendant -> Gayretli Gölgekırığı Kolyesi.
@@ -50229,7 +50229,7 @@ QuestTranslator_QuestData = {
     ["7068"] = {
     ["Title"]="Gölgekırığı Parçaları(Shadowshard Fragments)",
     ["Description"]="Sentorların kutsal yerinde güçlü büyüler bulunur... Maraudon'un kutsal alanında. Desolace sentor kabileleri orayı canları pahasına korurlar ama ihtiyacımız olanı almamıza engel olamazlar.\n\nSen, bu Maraudon denen yere git ve gölgekırığından yapılmış taş yaratıkları bul. Bana mor kristalleri getir, Uthel'nay da ayırdığın zaman için sana bir şeyler yapsın.\n\nBurası tehlikeli bir yerdir, bu yüzden belki yanına birkaç arkadaş alırsın.",
-    ["Objectives"]="Maraudon'dan 10 Gölgekırığı Parçası topla ve onları Orgrimmar'daki Uthel'nay'a götür.[cite: 1, 2]",
+    ["Objectives"]="Maraudon'dan 10 Gölgekırığı Parçası topla ve onları Orgrimmar'daki Uthel'nay'a götür.",
     ["Progress"]="Kristalleri henüz bulamadın mı? Güç ritüelleri, muazzam kuvvette büyüler... O gölgekırıkları her türlü arkana büyüsünde çok faydalı olabilir.",
     ["Completion"]="Ah, bunlar büyülerim için mükemmel. Al, bu takılardan birini seç ve yoluna bak... Yapacak çok çalışmam var.",
     ["minlevel"]="0",
@@ -50241,7 +50241,7 @@ QuestTranslator_QuestData = {
     -- Theramore -> Theramore (ZoneData.lua)[cite: 2].
     -- Dustwallow Marsh -> Tozbatak Bataklığı (ZoneData.lua)[cite: 2].
     -- Desolace -> Desolace (ZoneData.lua)[cite: 2].
-    -- Archmage Tervosh -> Başbüyücü Tervosh (MobNpcData.lua)[cite: 1].
+    -- Archmage Tervosh -> Başbüyücü Tervosh (MobNpcData.lua).
     -- Lady Proudmoore -> Leydi Gururbayrağı (Proud -> Gurur, Moore -> Bayrak / Gururbayrağı).
     -- Shadowshard Fragment -> Gölgekırığı Parçası.
     -- Zealous Shadowshard Pendant -> Gayretli Gölgekırığı Kolyesi.
@@ -50249,7 +50249,7 @@ QuestTranslator_QuestData = {
     ["7070"] = {
     ["Title"]="Gölgekırığı Parçaları(Shadowshard Fragments)",
     ["Description"]="Son zamanlarda çeşitli kristalleri ve onların arkana özelliklerini test etmeye başladım. Leydi Gururbayrağı, Desolace'a doğru yola çıkan gezginlerden Maraudon adında bir yeri aramalarını istemem için bana izin verdi. Harabe tapınağın içinde, gölgekırığı adını verdiğim morumsu taşlardan oluşmuş büyük elementaller bulunuyor.\n\nEğer o yöne gitmeye karar verirseniz ve bu kristallerden bazılarını bulursanız minnettar olurdum. İsterseniz bu kristallerden sizin için bir takı bile tasarlayabilirim.",
-    ["Objectives"]="Maraudon'dan 10 Gölgekırığı Parçası topla ve onları Tozbatak Bataklığı kıyısındaki Theramore'da bulunan Başbüyücü Tervosh'a götür.[cite: 1, 2]",
+    ["Objectives"]="Maraudon'dan 10 Gölgekırığı Parçası topla ve onları Tozbatak Bataklığı kıyısındaki Theramore'da bulunan Başbüyücü Tervosh'a götür.",
     ["Progress"]="Yolculuğu gerçekleştirdiniz mi? Oldukça tehlikeli olacağının farkındayım ama başarılı olursanız kesinlikle buna değecektir.",
     ["Completion"]="Bunlar mükemmel, YOUR_NAME. Aslında oradan dönen başka maceracılar da oldu ve onlar sayesinde bunları tasarlayabildim... Lütfen, emeğinizin karşılığı olarak bir tanesini almaktan çekinmeyin. Ve incelemem için daha fazla numune getirdiğiniz için tekrar teşekkür ederim.",
     ["minlevel"]="0",
@@ -50275,12 +50275,12 @@ QuestTranslator_QuestData = {
     -- Gilneas -> Gilneas (ZoneData.lua)[cite: 2].
     -- Hollow Web Woods -> Oyuk Ağ Ormanı (Hollow -> Oyuk, Web -> Ağ, Woods -> Orman).
     -- Ravenshire -> Kuzgun Bucağı (Raven -> Kuzgun, Shire -> Bucak).
-    -- Magistrate Carson -> Yargıç Carson (Magistrate -> Yargıç) (MobNpcData.lua)[cite: 1].
+    -- Magistrate Carson -> Yargıç Carson (Magistrate -> Yargıç) (MobNpcData.lua).
     -- Hollow Web Silk -> Oyuk Ağ İpeği.
     ["40925"] = {
     ["Title"]="Oyuk Ağ İpeği",
     ["Description"]="Bu çatışma bittiğinde, kim kazanırsa kazansın, ailemin bağlı olduğu soyluluğa yakışır şekilde takdim edilebilir durumda olmalıyım. Böyle yüksek bir konumu koruyacaksam, bu toprakların sunabileceği en kaliteli ipeğe ihtiyacım var.\n\nOyuk Ağ Ormanı'nın örümcekleri nadir ve bulunması zor bir ipek üretir. Bu çatışma kaçınılmaz olarak sona erdiğinde kendime güzel bir yeni giysi takımı diktirebilmek için buna sahip olmalıyım.\n\nOyuk Ağ Ormanı'nı hemen buranın batısında bulabilirsin. Bana 10 Oyuk Ağ İpeği topla, ben de bunu zamanına değer kılayım, halktan biri.",
-    ["Objectives"]="Gilneas'taki Kuzgun Bucağı'nda bulunan Yargıç Carson için Oyuk Ağ Ormanı örümceklerinden 10 Oyuk Ağ İpeği topla.[cite: 1, 2]",
+    ["Objectives"]="Gilneas'taki Kuzgun Bucağı'nda bulunan Yargıç Carson için Oyuk Ağ Ormanı örümceklerinden 10 Oyuk Ağ İpeği topla.",
     ["Progress"]="Boşuna zaman harcayasın diye sana ödeme yapmıyorum, biliyorsun değil mi?",
     ["Completion"]="Aman Tanrım, şuna bir baksana. Ne kadar karmaşık ve detaylı bir ipek.\n\nYeni giysilerimin yapımı tamamlandığında kesinlikle ödendiği fiyata değecek.\n\nAh, evet, sana ödeme yapacaktım, değil mi? Al şu gümüşü ve yoluna devam et lütfen.",
     ["minlevel"]="0",
@@ -50559,7 +50559,7 @@ QuestTranslator_QuestData = {
     ["4508"] = {
     ["Title"]="Fırtına Öncesi Sessizlik",
     ["Description"]="Son bulgularımın ve bugün burada edindiğimiz bilgilerin, bu konuda bir şeyler yapabilecek ellere ulaşması gerekiyor. Gadgetzan'da ne kadar becerikli olsak da bunu tek başımıza yapamayız.\n\nSon raporumu Darnassus'taki Gracina Spiritmight'a götür; hâlâ Ay Tapınağı'nda, değil mi? Alliance elebaşı olan arkadaşları var; eğer onları da bu işe dahil edebilirsek YOUR_NAME, o zaman buradan sağ çıkabiliriz.",
-    ["Objectives"]="Pestlezugg'un Un'Goro Raporu'nu Darnassus'taki Gracina Spiritmight'a götür.[cite: 1, 2]",
+    ["Objectives"]="Pestlezugg'un Un'Goro Raporu'nu Darnassus'taki Gracina Spiritmight'a götür.",
     ["Progress"]="Onlar aptal, YOUR_NAME! Etraflarında daha büyük bir tehdide bakmayı akıllarına bile getiremiyorlar; Horde'a olan mantıksız nefretleri hepimizin sonu olacak. Kendileri de görebilsinler diye onları kovanlardan birine atmak dışında silithid tehdidine dair daha ne kadar kanıt verebilirim bilmiyorum!\n\nÜzgünüm, dikkatimi çekecek bir haber mi getirdin?",
     ["Completion"]="Buna gerçekten minnettar olsam da bize ne faydası olacağından emin değilim. Alliance, Horde dışındaki hiçbir kaynaktan gelen tehditleri umursamıyor ve Darnassus'taki kendi liderlerimiz bile bu tehdidin tam olarak ne olduğu konusunda anlaşamıyor. Fandral Staghelm gibi aptallar, silithidlerin iddia ettiğim gibi antik geçmişten gelen bir tehditle hiçbir alakası olmadığını öne sürüyorlar. Onun cehaleti ancak kibriyle yarışabilir.\n\nTehdidi kendin gördün, YOUR_NAME. Silithidleri yenmeye kararlı kalmalıyız!",
     ["minlevel"]="0",
@@ -50585,7 +50585,7 @@ QuestTranslator_QuestData = {
     ["8365"] = {
     ["Title"]="Korsan Şapkaları Ahoy!",
     ["Description"]="Kartel'in gönderdiği yardım sen misin? Sanırım iş görürsün. Beni dikkatlice dinle YOUR_CLASS. Bildiğin üzere ben Azeroth toplumunun seçkinleri için moda kıyafetler temin eden biriyim. Krallar ve Kraliçeler, Savaşşefleri ve Horde kraliçelerine her ne diyorsa, hepsi benim modaya uygun seçtiğim şeyleri giyer. Ve bunun için servet öderler, ki en güzel kısmı da bu.\n\nYani şöyle olacak: Kayıp Armatör Koyak'ına gidecek ve ne şekilde olursa olsun bolca korsan şapkası ele geçireceksin. Bununla başa çıkabileceğini düşünüyor musun?",
-    ["Objectives"]="Haughty Modiste 20 Güney Denizi Korsan Şapkası toplamanı ve onları Tanaris'teki Steamwheedle Limanı'nda kendisine teslim etmeni istiyor.[cite: 1, 2]",
+    ["Objectives"]="Haughty Modiste 20 Güney Denizi Korsan Şapkası toplamanı ve onları Tanaris'teki Steamwheedle Limanı'nda kendisine teslim etmeni istiyor.",
     ["Progress"]="20 şapkanın hepsi tamam mı? Sana inanmıyorum, görmeme izin ver. Kusursuz durumda olsalar iyi olur!",
     ["Completion"]="Alışkın olduğumdan daha uzun sürmüş olsa da tam bir tatlılıksın. Bu şapkaları temizleyip kişiselleştirdiğimde bu sevkiyat bana epey para kazandıracak. Ve iyi yapılmış bir işi her zaman ödüllendirmeye istekli biri olarak, işte sana küçük bir şey. Bunun bir kısmını banyoya harcamanı tavsiye ederim tatlım.",
     ["minlevel"]="0",
@@ -50607,7 +50607,7 @@ QuestTranslator_QuestData = {
     ["8599"] = {
     ["Title"]="Narain İçin Aşk Şarkısı",
     ["Description"]="Pek sık ziyaretçim olmaz. Doğrusunu söylemek gerekirse, en son ziyaretçim o sevgili, tatlı cüceyi düşen uçan makinenin enkazından kurtardığımdı.\n\n<Meridith bir anının içinde kaybolarak boşluğa bakar.>\n\nOnu tanıyor musun? Narain? Narain Soothfancy? Biri benim için ona bir mesaj iletse benim için o kadar çok şey ifade ederdi ki. Ona ne hissettiğimi söylemeliyim! Aşk olduğunu biliyorum! Sadece biliyorum!\n\nNarain'e bir mesaj iletmen mümkün olabilir mi? Sana sonsuza kadar minnettar kalırım!",
-    ["Objectives"]="Meridith'in Aşk Mektubu'nu Tanaris'teki Narain Soothfancy'ye götür.[cite: 1, 2]",
+    ["Objectives"]="Meridith'in Aşk Mektubu'nu Tanaris'teki Narain Soothfancy'ye götür.",
     ["Progress"]="Balık gibi kokuyorsun!",
     ["Completion"]="Ne!?\n\n<Narain huzursuzca kıpırdanmaya başlar.>\n\nŞey, umm... Ne yapmamı istiyorsun??? O bir balık! Bir BALIK diyorum sana! Ben de bir cüceyim. Bu asla yürümez.",
     ["minlevel"]="0",
@@ -50618,7 +50618,7 @@ QuestTranslator_QuestData = {
     ["648"] = {
     ["Title"]="OOX-17/TN'yi Kurtar!",
     ["Description"]="Cücenin sesi robottan bir kez daha cızırdayarak gelir:\n\n\"Uzun kalkış prosedürüne başlayabilmesi için OOX-17/TN'yi açık ve güvenli bir yere taşımam gerekiyor. Yerleşik pelerinleme özelliği var ama tekrar çalışır hale getirmek için kendi tarafımda zamana ihtiyacım var. Robotu şu anki konumundan, diyelim ki Steamwheedle Limanı'na kadar korumanı istiyorum! İşleri rayına oturtmak için mükemmel ve yeterince uzun bir yer olmalı!\"\n\n\"Onu limana güvenle götür ve sonra Ganimet Körfezi'nde benimle konuş! Oglethorpe Obnoticus - bitti!\"",
-    ["Objectives"]="OOX-17/TN'ye Steamwheedle Limanı'na kadar eşlik et, ardından Ganimet Körfezi'ndeki Oglethorpe Obnoticus'a rapor ver.[cite: 1, 2]",
+    ["Objectives"]="OOX-17/TN'ye Steamwheedle Limanı'na kadar eşlik et, ardından Ganimet Körfezi'ndeki Oglethorpe Obnoticus'a rapor ver.",
     ["Progress"]="",
     ["Completion"]="Ah, OOX-17/TN'nin büyük kurtarıcısı SENSİN! Yardımların için teşekkürlerimi ifade etmeye nereden başlayacağımı bilemiyorum! Yön bulma robotu serimin daha fazla geliştirilmeye ihtiyacı var ama onu kurtarman bana sayısız saatlik yeniden yapım süresi ve yeniden bağlama masraflarında birçok altın kazandırdı!\n\nLütfen elimdeki bu eşyalardan dilediğini seç. Umarım birini iyi günlerde kullanırsın. Cömert yardımın için tekrar teşekkürler, robotlarım ve ben sana borçluyuz!",
     ["minlevel"]="0",
@@ -50629,7 +50629,7 @@ QuestTranslator_QuestData = {
     ["10"] = {
     ["Title"]="Scrimshank'in Kurtuluşu",
     ["Description"]="Oh, bu gerçekten korkunç! En iyi yardımcım Kıdemsiz Haritacı Scrimshank'i buranın güneydoğusundaki çöle gönderdim. Burası Yarık Uçurum dediğimiz bir bölge. Şey, kayboldu ve son raporunda bulunduğu yerde o garip böceklerden daha fazla vardı. Çölün iki büyük bölgesini birden istila etmiş olabilirler mi?\n\nYarık Uçurum'a gidip Scrimshank'e bakmanı istiyorum lütfen! Ya da... en azından haritacılık ekipmanını bul. Zavallı adamdan geriye tek kalan şeyin bu olmasından korkuyorum.",
-    ["Objectives"]="Kıdemsiz Haritacı Scrimshank'in kaderini öğren ve kendisini ya da haritacılık ekipmanını Gadgetzan'daki Kıdemli Haritacı Fizzledowser'a getir.[cite: 1, 2]",
+    ["Objectives"]="Kıdemsiz Haritacı Scrimshank'in kaderini öğren ve kendisini ya da haritacılık ekipmanını Gadgetzan'daki Kıdemli Haritacı Fizzledowser'a getir.",
     ["Progress"]="Eee, ne haberlerin var? Bayağı çetin bir kavgadan çıkmış gibi görünüyorsun... Scrimshank hayatta mı?",
     ["Completion"]="İyi bir goblindi, genç Scrimshank. Haritacılık ekipmanıyla kaydedebildikleri sayesinde sonunun boşa gitmediğini umalım.\n\nBu böceklerle başımız oldukça belada gibi görünüyor. Kendi iyilikleri için fazla kurnazlar ve şimdiye kadar yaptığımız araştırmalar bir üçüncü tarafın kontrol edici etkisi altında bile olabileceklerini gösteriyor! Eğer durum buysa, bu sadece Gadgetzan için değil, tüm çöl için kötüye alamet!",
     ["minlevel"]="0",
@@ -50640,7 +50640,7 @@ QuestTranslator_QuestData = {
     ["8606"] = {
     ["Title"]="Tuzak!",
     ["Description"]="Buldum! İşte şöyle yapacağız. Bir çuvalı taşlarla dolduracağım ve teslimatı sen yapacaksın. Bırakmam gerektiğini söylediğini biliyorum ve yapacağım da - sayılır.\n\n<Narain seni tepeden tırnağa süzer.>\n\nEvet, gayet iyi iş görürsün. Bu sarığı, cübbeyi ve taş çuvalını alıp Kışpınarı'ndaki teslim noktasına git.\n\nİhtiyacın olan her şeyi bu özel kite dahil ettim. Malları almaya geldiklerinde işlerini bitir! Narain ile uğraşmanın ne demek olduğunu anlasınlar!",
-    ["Objectives"]="Tanaris'teki Narain Soothfancy, Kışpınarı'na seyahat etmeni ve Altın Çuvalı'nı kitap hırsızları tarafından belgelenen teslim noktasına bırakmanı istiyor.[cite: 1, 2]",
+    ["Objectives"]="Tanaris'teki Narain Soothfancy, Kışpınarı'na seyahat etmeni ve Altın Çuvalı'nı kitap hırsızları tarafından belgelenen teslim noktasına bırakmanı istiyor.",
     ["Progress"]="",
     ["Completion"]="Sanırım bu kitap hırsızlarını hafife almış olabiliriz.",
     ["minlevel"]="0",
@@ -50651,7 +50651,7 @@ QuestTranslator_QuestData = {
     ["8598"] = {
     ["Title"]="fYdE",
     ["Description"]="<Bu nottaki metin, parşömenin yüzeyine yapıştırılmış çeşitli yazı tiplerinden oluşmaktadır.>\n",
-    ["Objectives"]="Fidye Mektubu'nu Tanaris'teki Narain Soothfancy'ye geri götür.[cite: 1, 2]",
+    ["Objectives"]="Fidye Mektubu'nu Tanaris'teki Narain Soothfancy'ye geri götür.",
     ["Progress"]="De bakalım, sorun nedir?",
     ["Completion"]="<Narain'in yüzü kıpkırmızı kesilir.>\n\nKitabımı mı... kaçıracaklar!? Medyum bir cüceyle uğraşmanın ne demek olduğunu onlara öğreteceğim!",
     ["minlevel"]="0",
@@ -50674,7 +50674,7 @@ QuestTranslator_QuestData = {
     ["4507"] = {
     ["Title"]="Piyon Kraliçeyi Alır",
     ["Description"]="İşte yem. Kovan ağının içinde bir tür kristal olmalı. Silithidlerin kristali kovan çapında bir tür uyum sağlama cihazı olarak kullandığını düşünüyoruz. Bu kristalin nerede olabileceğine gelince, kovanın içindeki kuluçkahaneleri dene derim.\n\nYemi kristal üzerinde kullanmak kraliçeyi dışarı çıkarmalı, ancak uyarayım - muhtemelen birkaç muhafız tarafından korunacaktır. Kraliçeyi hakla ve beynini çıkar. Kulağa ne kadar iğrenç gelse de onu incelemeye şiddetle ihtiyacımız var. Bol şans, YOUR_NAME!",
-    ["Objectives"]="Çağrıldıktan sonra Gorishi Kovan Kraliçesi'ni yen.\n\nGorishi Kraliçesi'nin Beyni'ni Gadgetzan'daki Simyacı Pestlezugg'a getir.[cite: 1, 2]",
+    ["Objectives"]="Çağrıldıktan sonra Gorishi Kovan Kraliçesi'ni yen.\n\nGorishi Kraliçesi'nin Beyni'ni Gadgetzan'daki Simyacı Pestlezugg'a getir.",
     ["Progress"]="Araştırmamız için kraliçenin beynini elde etmek kesinlikle zorunludur. Öğrendiklerimizden, bu silithidlerin kötü niyetli bir zeka tarafından yönetilme olasılığının yüksek olduğuna inanıyoruz. Silithid kadar sinsice bir şeyi neyin kontrol edebileceğini düşündükçe ürperiyorum, YOUR_NAME.",
     ["Completion"]="Harika, YOUR_NAME! Bugün burada büyük bir zafer kazandık. Elimizdekileri tam olarak anlamamız biraz zaman alacak; yine de onu iyi bir şekilde kullanacağız, hiç endişelenme.\n\nSilithidlere gelince, varlıklarının tüm kapsamının bu olduğundan şüphe duyuyorum. Üzülerek söylüyorum ki bu çok fazla temiz bir çözüm.",
     ["minlevel"]="0",
@@ -50685,7 +50685,7 @@ QuestTranslator_QuestData = {
     ["8923"] = {
     ["Title"]="Doğaüstü Bir Cihaz",
     ["Description"]="Olandan bitenden sonra takılmaya devam ettiğine göre oldukça cesur olmalısın. Ya da sana verdiğim zırh parçasıyla ilgini çektim. Bana yardım etmekle hâlâ ilgileniyorsan, bu zırhların devamı da var.\n\nTopladığın zehir örnekleri bir tanıdığım için; Mux Manascrambler, doğaüstü olaylara ilgisi olan bir mühendis. En son projesi ölülerle iletişim kurmanı sağlayan bir cihazdan oluşuyor! Son umudum Anthion ile iletişime geçip durumum hakkında daha fazla bilgi edinmek.",
-    ["Objectives"]="Mühürlü Zehir Konteynırı'nı Gadgetzan'daki Mux Manascrambler'a götür.[cite: 1, 2]",
+    ["Objectives"]="Mühürlü Zehir Konteynırı'nı Gadgetzan'daki Mux Manascrambler'a götür.",
     ["Progress"]="Benimle konuşmak mı istiyorsun?",
     ["Completion"]="Mükemmel! Tam da malzemem tükenmek üzereydi!\n\nMokvar'ın seni gönderdiğini mi söylüyorsun?",
     ["minlevel"]="0",
@@ -50696,7 +50696,7 @@ QuestTranslator_QuestData = {
     ["2605"] = {
     ["Title"]="Susuz Goblin",
     ["Description"]="Bak bir fikrim var. Güneybatıda yaşayan, çiğ toplayıcı denen garip yaratıklar duydum... Ve suyu özel bezlerinde depolayabiliyorlarmış.\n\nBu bezlerden birini ele geçirebilirsem, korkunç susuzluğumu dindirecek bir içecek yapabileceğimi düşünüyorum! Bana yardım edebileceğini düşünüyor musun, YOUR_NAME?\n\nKaktüs bahçesini ara, YOUR_NAME; çiğ toplayıcıları orada bulacaksın.",
-    ["Objectives"]="Dolu Bir Çiğ Bezi topla ve onu Gadgetzan'daki Marin Noggenfogger'a getir.[cite: 1, 2]",
+    ["Objectives"]="Dolu Bir Çiğ Bezi topla ve onu Gadgetzan'daki Marin Noggenfogger'a getir.",
     ["Progress"]="Lütfen bana çiğ toplayıcıları bulduğunu söyle?",
     ["Completion"]="Oh, harika! Ver onu bana -- içeyim!",
     ["minlevel"]="0",
@@ -50707,7 +50707,7 @@ QuestTranslator_QuestData = {
     ["3022"] = {
     ["Title"]="Dikkatli Taşıyınız",
     ["Description"]="YOUR_NAME, faydalı davama adanmaya can attığını görebiliyorum. Evet, elbette benim için bir şey yapabilirsin!\n\nBu yumurta kasasını Erelas Ambersky'a götür. Kendisi bu yumurtalarla ilgilenen, yumurtadan çıkmalarına yardım eden ve ardından genç hipogrifleri eğiten bir druiddir. Onu Teldrassil'de, güneydeki Rut'theran adında küçük bir köyde bulacaksın.",
-    ["Objectives"]="Özenle Paketlenmiş Kasa'yı Rut'theran Köyü'ndeki Erelas Ambersky'a götür.[cite: 1, 2]",
+    ["Objectives"]="Özenle Paketlenmiş Kasa'yı Rut'theran Köyü'ndeki Erelas Ambersky'a götür.",
     ["Progress"]="Curgle'dan başka bir sevkiyat daha, sanırım?",
     ["Completion"]="Yardımın için teşekkür ederim, YOUR_NAME. Biz olmasaydık hipogrif nüfusu kesinlikle gelişemezdi. Ah, ama Feralas'a seyahat etmiş ve oradaki Gordunni yıkımını görmüş biri olarak bunu çok iyi anladığından eminim.\n\nŞey, gördüğün gibi burada hummalı bir çalışma içindeyim, bu yüzden yoluna devam etsen iyi olur.\n\nTekrar teşekkürler, YOUR_NAME.",
     ["minlevel"]="0",
@@ -50740,7 +50740,7 @@ QuestTranslator_QuestData = {
     ["8586"] = {
     ["Title"]="Dirge'in Müthiş Şimşekkuşu Pirzolası",
     ["Description"]="Yemek tarifim tamamlandı! Şimdi senden ihtiyacım olan şey biraz roket yakıtı ve derinkaya tuzu. Baharatları ben hallederim, getirdiğin et de gerisini karşılar.\n\nBana istediklerimi getirdikten sonra, tavuk Narain'e geri götürülmeye hazır olacak.",
-    ["Objectives"]="Gadgetzan'daki Dirge Quikcleave 20 Goblin Roket Yakıtı ve 20 Derinkaya Tuzu getirmeni istiyor.[cite: 1, 2]",
+    ["Objectives"]="Gadgetzan'daki Dirge Quikcleave 20 Goblin Roket Yakıtı ve 20 Derinkaya Tuzu getirmeni istiyor.",
     ["Progress"]="Acele et evlat. Bu etin bozulmasını istemeyiz.",
     ["Completion"]="Hazır! Sana en büyük eserimi sunuyorum: Dirge'in Müthiş Şimşekkuşu Pirzolası!",
     ["minlevel"]="0",
@@ -50751,7 +50751,7 @@ QuestTranslator_QuestData = {
     ["3520"] = {
     ["Title"]="Çığlıkçı Ruhları",
     ["Description"]="Feralas'ın vadi çığlıkçılarının ruhlarını arıyorum. Onlar çok, çok eski bir tanrının kuzenleridir ve ruhları ona bağlıdır.\n\nBu çalı değneğini al ve Feralas'a git. Güney ve orta Feralas'ta vadi çığlıkçılarını bulup yen, ardından çalı değneğimi düşen bedenlerinin üzerinde salla. Bu, ruhlarını kendilerini göstermeleri için ikna edecektir. Ruha dokun ve özünü topla.\n\nÇalı değneğimle ve topladığın özle bana geri dön, ben de sana bahsettiğim o eski tanrı hakkında daha fazla şey anlatayım.",
-    ["Objectives"]="Feralas'ta 3 çığlıkçının ruhunu yakala, ardından Steamwheedle Limanı'ndaki Yeh'kinya'ya dön.[cite: 1, 2]",
+    ["Objectives"]="Feralas'ta 3 çığlıkçının ruhunu yakala, ardından Steamwheedle Limanı'ndaki Yeh'kinya'ya dön.",
     ["Progress"]="Çığlıkçı ruhlarının özünü topladın mı, YOUR_NAME?",
     ["Completion"]="İyi iş çıkardın, YOUR_NAME. Belki de artık daha fazlasını açıklama vakti gelmiştir...\n\nTrolller arasında antik bir kehanet vardır; ölü tanrı Ruhsoyan Hakkar bir gün bu dünyaya geri dönecektir. Bazıları Hakkar'ın gelişinin troll soyuna neşe ve zafer getireceğini söylerken, diğerleri onun dirilişinin her şeyin sonu olacağına inanır.\n\nBen bu efsaneye inanmıyorum ama Hakkar'ın özünün büyük bir güç barındırdığını biliyorum ve bu güç, onu kötüye kullanacak kişilerden uzak tutulmalıdır...",
     ["minlevel"]="0",
@@ -50762,7 +50762,7 @@ QuestTranslator_QuestData = {
     ["2641"] = {
     ["Title"]="Sprinkle'ın Gizli Malzemesi",
     ["Description"]="Ben çocukken bütün yemekleri kız kardeşim yapardı. Korkunçtu! On uydurduğu şeylerden bazılarını midem zor kaldırırdı -- ta ki \"gizli\" malzemem dediğim şeyi bulana kadar! Herhangi bir şeye ekle ve... VAY! Tadı harika oluyor!\n\nNe olduğunu mu soruyorsun? Menekşe Traganı adında bir mantar. Bu berbat tatlı içeceği yenilebilir bir şeye dönüştürmeme yardım etmemi istiyorsan, Hinterlands'e git ve orada küçük bir göl ara.\n\nOh, ve unutma, Menekşe Traganı sadece su altında bulunabilir.",
-    ["Objectives"]="Gadgetzan'daki Sprinkle bir Menekşe Traganı toplamanı ve ona geri getirmeni istiyor.[cite: 1, 2]",
+    ["Objectives"]="Gadgetzan'daki Sprinkle bir Menekşe Traganı toplamanı ve ona geri getirmeni istiyor.",
     ["Progress"]="O gölün sularının altında -- Menekşe Traganı'nın bulunabileceği tek yer orası. Nefesini tutmakta iyi olduğunu umuyorum!",
     ["Completion"]="İşte aradığım şey bu, YOUR_NAME!\n\nO kadar iyi görünüyor ki, sadece... Haha, kandırdım!",
     ["minlevel"]="0",
@@ -51010,7 +51010,7 @@ QuestTranslator_QuestData = {
     ["8585"] = {
     ["Title"]="Dehşet Adası!",
     ["Description"]="Efsaneye göre Feralas'taki Dehşet Adası'nın şimşekkuşları var olan en lezzetli ve en yumuşak etlere sahiptir! Şimdi bu şimşekkuşlarının, doğru hazırlıkla 500 librelik bir tavuğa benzeyebilen veya benzemeyebilen bir babaları var.\n\nDehşet Adası'na git, Lord Lakmaeran'ı öldür ve taze leşini bana getir. Bu cüceyi tatmin etmeli. Beni tatmin etmek içinse biraz şimşekkuşu kontrfilesi ele geçirmen gerekecek.\n\nBunu yap, 500 librelik tavuğuna ve ekstra küçük bir şeye sahip olacaksın.",
-    ["Objectives"]="Tanaris'teki Dirge Quikcleave için Lakmaeran'ın Leşi'ni ve 20 Şimşekkuşu Kontrfilesi'ni ele geçir.[cite: 1, 2]",
+    ["Objectives"]="Tanaris'teki Dirge Quikcleave için Lakmaeran'ın Leşi'ni ve 20 Şimşekkuşu Kontrfilesi'ni ele geçir.",
     ["Progress"]="Mmmmm... Şimşekkuşu...",
     ["Completion"]="O kontrfilelerdeki mermerimsi yağ dokusuna bak! Harika!\n\nŞimdi şu tavuk meselesine gelelim... Hrm, bir bakayım. Tarifi tasarlamak için birkaç dakikaya ihtiyacım olacak.",
     ["minlevel"]="0",
@@ -51021,7 +51021,7 @@ QuestTranslator_QuestData = {
     ["1560"] = {
     ["Title"]="Tooga'nın Görevi",
     ["Description"]="O kadar kayboldum ki!\n\nKarım Torta beni akşam yemeği getirmem için gönderdi ve bir yerlerde yanlış bir sapak girmiş olmalıyım.\n\nBeni Torta'ya geri götürecek kadar nazik olur musun? Steamwheedle Limanı'nın hemen güneyinde beni bekliyor.",
-    ["Objectives"]="Tooga'ya karısı Torta'ya dönen yolu göster.[cite: 1]",
+    ["Objectives"]="Tooga'ya karısı Torta'ya dönen yolu göster.",
     ["Progress"]="Tooga nerede?",
     ["Completion"]="Yani geri dönüş yolunu kendi başına bulamadı mı? Belliydi zaten.\n\nŞey, sanırım zahmetin için bir şeyi hak ediyorsun....",
     ["minlevel"]="0",
@@ -51032,7 +51032,7 @@ QuestTranslator_QuestData = {
     ["841"] = {
     ["Title"]="Başka Bir Güç Kaynağı mı?",
     ["Description"]="Tahmin edeyim - dünyayı yok edecek o haince işi vaktinde bitiremedin. Hayır bekle, daha da iyisi... Kuma düşürdün! Şey, sebebi ne olursa olsun, sana satacağım ek güç kaynaklarım var. Ancak bu sefer sana ona, EVET ON Çölgezer Su Kesesi'ne patlayacak!\n\nZaman herkes için zor geçiyor, YOUR_NAME, ve güç kaynakları ağaçta yetişmiyor! Hrm, ama ya yetişseydi. Belki de bir güç kaynağı ağacı YAPABİLİRDİK...",
-    ["Objectives"]="Başka bir güç kaynağı karşılığında Gadgetzan'daki Başmühendis Bilgewhizzle'a 10 Çölgezer Su Kesesi getir.[cite: 1, 2]",
+    ["Objectives"]="Başka bir güç kaynağı karşılığında Gadgetzan'daki Başmühendis Bilgewhizzle'a 10 Çölgezer Su Kesesi getir.",
     ["Progress"]="Eee, ten su kesesini getirdin mi?",
     ["Completion"]="Çok iyi, işte başka bir güç kaynağı. Başka bir su kaynağı için ten su kesesi daha harcamaya hevesli değilsen, bu sefer onu düzgün kullanmanı şiddetle tavsiye ederim.",
     ["minlevel"]="0",
@@ -51043,7 +51043,7 @@ QuestTranslator_QuestData = {
     ["8597"] = {
     ["Title"]="Mankafalar için Ejderce",
     ["Description"]="O kitabın bir gün işe yarayacağını biliyordum! Neyse ki onu güvenli bir yere saklayacak akla ve öngörüye sahiptim.\n\nEndişelenme, kimsenin bulmayı umut edemeyeceği bir yerde! İlk seferinde oraya ulaşmak için bir jirokoptere ihtiyacım vardı. Ne yazık ki geri dönerken sahile çakıldım. İşte o kaza sayesinde bu süper cüce medyum güçlerini kazandım!\n\nDüşen jirokopterimi Sonkara Sahili'nde bir yerde ara ve oradan güneye doğru yüz! O yeri gördüğünde anlayacaksın!",
-    ["Objectives"]="Narain Soothfancy'nin Güney Denizleri'ndeki bir adada gömülü olan kitabını bul.[cite: 1]",
+    ["Objectives"]="Narain Soothfancy'nin Güney Denizleri'ndeki bir adada gömülü olan kitabını bul.",
     ["Progress"]="",
     ["Completion"]="Kitap gitmiş! Toprak yığınının üzerinde bir not var.",
     ["minlevel"]="0",
@@ -51065,7 +51065,7 @@ QuestTranslator_QuestData = {
     ["41763"] = {
     ["Title"]="Karmaşık Sanat Eseri",
     ["Description"]="Bu Macera Şirketi sıçanları her yerde! Nereye gitseler pis elleri alabilecekleri her şeyi kapıyor. İster Taşgepiren Dağları'nda, ister Stranglethorn Vadisi'nde veya burada olsun, kimse onların hırsızlığından güvende değil. Yaygın nüfuzları bu kadar fazlayken dürüst ve ahlaki olarak gri sömürücülük işi yapmak mümkün değil. Bana sorarsan goblin ekonomisi dünyasında yeni ve yükselen yıldızın kim olduğuna dair muhtırayı alma vakitleri geldi de geçiyor.\n\nAma asıl trajediden bahsedelim; sahildeki petrol platformunda çalışırken yakındaki depoda sakladığım sıcacık küçük... şey, paha biçilmez resim koleksiyonum vardı, kalbime çok yakındı! Türünün tek örneği bir seri ve Undermine'a kadar gidip sefil bir karaborsa müzayedesinde satılamaz. Onu benim için geri al, canımı kurtarmak için kaçarken o magandalardan birinin sandığımın anahtarını aldığına eminim!",
-    ["Objectives"]="Kwabit'in Şehvetli Resimli Eseri'ni Tanaris'teki Slickwick Petrol Platformu yakınındaki depodan kurtar.[cite: 1, 2]",
+    ["Objectives"]="Kwabit'in Şehvetli Resimli Eseri'ni Tanaris'teki Slickwick Petrol Platformu yakınındaki depodan kurtar.",
     ["Progress"]="Eğer bulursan açmaya cüret etme! Onların... tuhaf güzelliğine henüz hazır değilsin.",
     ["Completion"]="Oh, sevgili eserim, sonunda tekrar kollarımda. Sana ne kadar teşekkür etsem azdır, YOUR_NAME. Artık petrol platformundan kendi kendime verdiğim tatilin tadını çıkarmak için her şeye sahibim - çok teşekkürler! Al bakalım, bir şeyler içelim ve bu vesileye kadeh kaldıralım!",
     ["minlevel"]="0",
@@ -51087,7 +51087,7 @@ QuestTranslator_QuestData = {
     ["110"] = {
     ["Title"]="Böcek Parçası Analizi",
     ["Description"]="Scrimshank'in haritacılık ekipmanına göz atmak... ve kişisel eşyalarını düzene sokmak için biraz zaman harcayacağım. Kulaklarımın arkasında bu böceklere karşı yaşayacağımız son kayıbın bu olmadığına dair gizli bir his var.\n\nSimyacı Pestlezugg'a uğrayıp kendisine gönderdiğimiz böcek parçalarını işleme şansı bulup bulmadığını kontrol etmeni isterim. Eğer hazırsalar onları bana getir.",
-    ["Objectives"]="Simyacı Pestlezugg ve böcek parçalarına yaptığı analiz için Gadgetzan'ı kontrol et.[cite: 1, 2]",
+    ["Objectives"]="Simyacı Pestlezugg ve böcek parçalarına yaptığı analiz için Gadgetzan'ı kontrol et.",
     ["Progress"]="",
     ["Completion"]="Evet, sonuçlar tam burada elimde. En hafif deyimle... rahatsız ediciler.\n\nBöceklerin dış bir güç tarafından kontrol edildiğine dair ilk şüphemizin doğru olduğuna inanıyoruz. Eğer durum buysa, sadece çok güçlü ve bilinmeyen bir güçle değil, aynı zamanda kötü niyetli bir güçle karşı karşıyayız demektir. Bu böcekler saf yağmacılara dönüşmüşler. Daha önce hiç böyle bir şey görmemiştim.",
     ["minlevel"]="0",
@@ -51109,7 +51109,7 @@ QuestTranslator_QuestData = {
     ["8366"] = {
     ["Title"]="Güney Denizi Şantajı",
     ["Description"]="Ahhh! Benden imkansızı istiyorlar!\n\nSteamwheedle Karteli Güney Denizi korsanlarına bir ders vermemi istiyor. Sorun şu ki aynı anda iki yerde olamam; barışı korumak için burada kalmam gerekiyor.\n\nSon zamanlarda korsanlar kartelin düzenli olarak bastığı koruma parasını göz ardı ediyorlar. Bu yüzden oraya inip günlerini göstermen için seni geçici olarak görevlendirmek istiyorum.\n\nOnları çok uzak olmayan bir güneydeki Kayıp Armatör Koyak'ında bulacaksın. Teşekkürler YOUR_NAME, sana bir borcum var!",
-    ["Objectives"]="Tanaris'teki Steamwheedle Limanı Güvenlik Şefi Bilgewhizzle 10 Güney Denizi Korsanı, 10 Güney Denizi Yağmacısı, 10 Güney Denizi Liman İşçisi ve 10 Güney Denizi Kabadayısı öldürmeni istiyor.[cite: 1, 2]",
+    ["Objectives"]="Tanaris'teki Steamwheedle Limanı Güvenlik Şefi Bilgewhizzle 10 Güney Denizi Korsanı, 10 Güney Denizi Yağmacısı, 10 Güney Denizi Liman İşçisi ve 10 Güney Denizi Kabadayısı öldürmeni istiyor.",
     ["Progress"]="Bu kadar çabuk mu döndün? Umarım o Güney Denizi kabadayılarına yakın zamanda unutamayacakları bir ders vermişsindir.",
     ["Completion"]="YOUR_NAME! Sen harika birisin!!!\n\nO Güney Denizi pisliklerinin icabına baktığın için Kartel'in artık üzerimdeki baskıyı azaltacağına eminim. Bakalım, sana ödül olarak ne verebilirim? Biraz paraya ne dersin ve zahmetin için bunlardan birini seçersin?",
     ["minlevel"]="0",
@@ -51120,7 +51120,7 @@ QuestTranslator_QuestData = {
     ["113"] = {
     ["Title"]="Böcek Parçası Analizi",
     ["Description"]="Kıdemli Haritacı Fizzledowser'ın bu raporu hemen görmesi gerekiyor. Aslında... okuyabilen herkesin bu raporu görmesi gerekiyor. Sadece Tanaris ve Gadgetzan için değil, engellenmezse tüm güney Kalimdor için ciddi ve vahim bir tehditle karşı karşıyayız. Heck, hatta tüm Azeroth bile olabilir; bu şey durulacağına dair hiçbir belirti göstermedi.\n\nFizzledowser'ın sadakatle bağlı olduğun birliğe özgürce dağıtman için raporun bir kopyasını çıkarmasını sağla. Herkes bu tehdidi bilmeli!",
-    ["Objectives"]="Raporu Gadgetzan'daki Kıdemli Haritacı Fizzledowser'a teslim et. Simyacı Pestlezugg'un ricası üzerine sana raporun bir kopyasını verdiğinden emin ol.[cite: 1, 2]",
+    ["Objectives"]="Raporu Gadgetzan'daki Kıdemli Haritacı Fizzledowser'a teslim et. Simyacı Pestlezugg'un ricası üzerine sana raporun bir kopyasını verdiğinden emin ol.",
     ["Progress"]="Eee Kıdemsiz Haritacı YOUR_NAME, ihtiyar Pestlezugg o raporu henüz hazırladı mı?",
     ["Completion"]="Raporu teslim ettiğin için teşekkür ederim, Kıdemsiz Haritacı YOUR_NAME; işte Gadgetzan Su Şirketi'ne olan titiz hizmetinin ödemesi.\n\nDeğerli bilgilerimizi, normalde iyi para ödeyecek kişilere karşılıksız vermekten genellikle hoşlanmasam da Pestlezugg'u yıllardır tanırım. Herkesin bunu bilmesini tavsiye ediyorsa, öyle olsun. Bana bir dakika ver, sana bir kopya çıkarayım.",
     ["minlevel"]="0",
@@ -51131,7 +51131,7 @@ QuestTranslator_QuestData = {
     ["8928"] = {
     ["Title"]="Kurnaz Bir Tüccar",
     ["Description"]="Çekirdek cihazımıza güç sağlamak için bize yeterli enerjiyi sağlayacak; şimdi tek yapmamız gereken bu enerjiyi erimeden yönlendirebilecek bir asa inşa etmek.\n\nKışpınarı'nda her türlü egzotik mal satan bir iblisle tanışmıştım. Elinde mükemmel iş görecek bir elemental asa vardı. Onu satın almadığım için şu anda kafamı duvarlara vuruyorum.\n\nKaranlıkfısıltı Kanyonu'nun girişindeki bir mağaranın içinde yaşıyor. Oraya gizlice girip onu bulmaya çalış.\n\nSenden sadece kırk altın talep ettiğinden emin ol; bana söylediği fiyat buydu!",
-    ["Objectives"]="Güney Kışpınarı'ndaki Karanlıkfısıltı Kanyonu'nun girişindeki bir mağarada bir iblis ara, bir İblis Elemental Asası satın al ve Gadgetzan'daki Mux Manascrambler'a dön.[cite: 1, 2]",
+    ["Objectives"]="Güney Kışpınarı'ndaki Karanlıkfısıltı Kanyonu'nun girişindeki bir mağarada bir iblis ara, bir İblis Elemental Asası satın al ve Gadgetzan'daki Mux Manascrambler'a dön.",
     ["Progress"]="Karanlıkfısıltı Kanyonu'ndaki iblisi bulmakta şansın yaver gitti mi?",
     ["Completion"]="Başardın! Bu asa mükemmel iş görecek. Şimdi hepsini bir araya getirme zamanı...",
     ["minlevel"]="0",
@@ -51142,7 +51142,7 @@ QuestTranslator_QuestData = {
     ["3161"] = {
     ["Title"]="Gahz'ridian",
     ["Description"]="YOUR_NAME, ben bir bilim insanıyım ama aynı zamanda kalbimde bir define avcısıyım!\n\nÇok zaman önce troller bu toprakları işgal ederken, tanrı olarak taptıkları bir hidra olan Gahz'rilla model alınarak yapılmış çok sayıda süs eşyası yarattılar. Bu süs eşyaları, hidra tanrısının ardından \"Gahz'ridian\" adını verdiğim bir elementten oyulmuştur.\n\nBen kendim biraz buldum ama incelemek için biraz daha fazlasına sahip olmak isterim -- belki sen de biraz bulabilirsin?\n\nHatta Gahz'ridian'ı bulmayı çocuk oyuncağı haline getiren bir dedektör bile icat ettim! Sadece tak ve arama başlasın!",
-    ["Objectives"]="Tanaris'teki Marvon Rivetseeker 30 Gahz'ridian Süs Eşyası toplamanı istiyor.[cite: 1, 2]",
+    ["Objectives"]="Tanaris'teki Marvon Rivetseeker 30 Gahz'ridian Süs Eşyası toplamanı istiyor.",
     ["Progress"]="Bir sorun mu var?\n\nGahz'ridian'ı Tanaris'in hemen her yerinde bulabilirsin, YOUR_NAME, bu yüzden aramaya devam et!",
     ["Completion"]="Mükemmel; bu süs eşyaları çalışmaları için biçilmiş kaftan. Yardımın için çok teşekkürler, YOUR_NAME.\n\nOh, kaskımı geri alabilir miyim?",
     ["minlevel"]="0",
@@ -51153,7 +51153,7 @@ QuestTranslator_QuestData = {
     ["5801"] = {
     ["Title"]="Alev Tüyü Demiri",
     ["Description"]="Anahtar gövdesini dövmek için iki toriyum külçesine ve güçlü derecede sıcak bir ısı kaynağına ihtiyacın var. Toriyum konusu senin bileceğin iş ama ısı konusunda yardım edebilirim.\n\nUn'Goro Krateri'nin batısında, için için kaynayan bir yanardağ olan Alev Tüyü Tepesi yer alır. Tepedeki lav gölü toriyum ile kemiği birbirine eritecek kadar sıcaktır. Altının sana, sadece tepedeki göle batırmanı gerektiren bir kalıp satın aldı; gerisini lav halledecektir.\n\nBenim tarafımda hepsi bu. Anahtarını bitirmek için Arbington ile tekrar konuşman gerekecek.",
-    ["Objectives"]="İskelet Anahtar Kalıbı'nı ve 2 Toriyum Külçesi'ni Un'Goro Krateri'ndeki Alev Tüyü Tepesi'nin zirvesine götür. Lav gölünün yanında İskelet Anahtar Kalıbı'nı kullanarak Bitmemiş İskelet Anahtarı'nı döv.\n\nBitmemiş İskelet Anahtarı'nı Batı Veba Toprakları'ndaki Serinrüzgar Noktası'nda bulunan Simyacı Arbington'a götür.[cite: 1, 2]",
+    ["Objectives"]="İskelet Anahtar Kalıbı'nı ve 2 Toriyum Külçesi'ni Un'Goro Krateri'ndeki Alev Tüyü Tepesi'nin zirvesine götür. Lav gölünün yanında İskelet Anahtar Kalıbı'nı kullanarak Bitmemiş İskelet Anahtarı'nı döv.\n\nBitmemiş İskelet Anahtarı'nı Batı Veba Toprakları'ndaki Serinrüzgar Noktası'nda bulunan Simyacı Arbington'a götür.",
     ["Progress"]="İskelet anahtarının gövdesini bitirdin mi? Kalıbı satın alma ücretinin yükünü üstlenmek zorunda kaldığın için gerçekten üzgünüm ama Scourge'a karşı koymak için hepimiz üzerimize düşeni yapmalıyız. Bitmemiş anahtarı bana teslim ettiğinde, yapımını tamamlamak için gereken son eşyaya hazır olacaksın.\n\nHiç de kolay olmayacak ama Andorhal'a yapılacak bir saldırıya hazırlanmak için bugüne kadar yaptığın çalışmalar artık karşılığını vermeye başlayacak. Göreceksin.",
     ["Completion"]="Bayağı pahalı bir iskelet anahtarımız oldu, değil mi YOUR_NAME? Yine de henüz tamamlanmadı; şimdi eserimizin arkasına biraz odaklanma zamanı geldi. Bu amaçla, Andorhal'da yüzleşmek için çabaladığımız nihai düşmanla yüzleşmek zorunda kalacaksın... Harabe şehir surlarının içinde ipleri elinde tutan varlıkla.\n\nÇağırıcı Araj'dan bahsediyorum - bir lich ve Scourge'un kendisinden saydığı en güçlü varlıklardan biri.",
     ["minlevel"]="0",
@@ -51164,7 +51164,7 @@ QuestTranslator_QuestData = {
     ["4496"] = {
     ["Title"]="Ormanda Beceriksizlik",
     ["Description"]="Araştırmam bana silithidlerin arılara benzediğini gösterdi; kovan kraliçesini yok et, gerisi kargaşaya sürüklensin. Kraliçeyi ortaya çıkarmak için kullanacağımız bir yem hazırlayacağım; çağrıldıktan sonra onun icabına bakacaksın.\n\nAma önce biraz reaktanta ihtiyacımız var; ormana hazırlıksız dalmanı istemeyiz. Un'Goro Krateri'ndeki silithid kovanını bulmak için batıya git ve böceklerden birinden bir koku bezi elde et. Ayrıca yerli Un'Goro toprağından bazı örneklere de ihtiyacım olacak.",
-    ["Objectives"]="Gadgetzan'daki Simyacı Pestlezugg'a 1 Gorishi Koku Bezi ve 5 Un'Goro Toprağı örneği getir.[cite: 1, 2]",
+    ["Objectives"]="Gadgetzan'daki Simyacı Pestlezugg'a 1 Gorishi Koku Bezi ve 5 Un'Goro Toprağı örneği getir.",
     ["Progress"]="Uygun bir koku bezi bulmak biraz zaman alabilir - bezin hasar görmemiş olması gerekir, ancak bir tane elde etme süreci kesinlikle buna pek elverişli değildir. Toprağa gelince, bulunmasının yeterince kolay olacağını düşünüyorum.\n\nHer neyse, yemi yapmak için ihtiyacım olan eşyalara sahip misin?",
     ["Completion"]="Koku bezi, ah evet. Zarı sağlam görünüyor - mükemmel. Toprak, evet, bu mükemmel iş görecek. Özel dokunuşlarımla tüm bunları mükemmel bir yem haline getirebilmeliyim.\n\nYemi yapmam için bana bir dakika ver, YOUR_NAME. Hazır olduğunda, silithidleri Gadgetzan'ı... ve Kalimdor'un geri kalanını istila etmeden önce durdurabilecek bir sonraki adımı uygulayabileceğiz.",
     ["minlevel"]="0",
@@ -51175,7 +51175,7 @@ QuestTranslator_QuestData = {
     ["1691"] = {
     ["Title"]="Daha Fazla Çölgezer Adaleti",
     ["Description"]="Şimdi Çölgezer göçebelerinin daha güçlü rütbeleriyle yüzleşmeni istiyoruz. Şimdiye kadar iyi iş çıkardın ama o su kuyularını geri alacaksak, bunu mümkün olduğunca az göçebeye karşı yapmak en mantıklısı!\n\nBu kez onların haydutlarını, suikastçılarını ve gölge büyücülerini alt etmeni istiyoruz. Onları buranın doğusunda ve güneydoğusunda bulacaksın.\n\nSana yalan söylemeyeceğim - çetin bir grupturlar. Ancak bunu bizim için yap, biz de hakkımız olanı geri alma yolunda ilerleyelim!",
-    ["Objectives"]="Gadgetzan'daki Başmühendis Bilgewhizzle için 10 Çölgezer Gölge Büyücüsü, 8 Çölgezer Haydutu ve 6 Çölgezer Suikastçısı alt et.[cite: 1, 2]",
+    ["Objectives"]="Gadgetzan'daki Başmühendis Bilgewhizzle için 10 Çölgezer Gölge Büyücüsü, 8 Çölgezer Haydutu ve 6 Çölgezer Suikastçısı alt et.",
     ["Progress"]="Eee, istediğim gibi o göçebeleri ortadan kaldırabildin mi? Gadgetzan Su Şirketi buradaki başarını temel alan planlar geliştiriyor! Bizi hayal kırıklığına uğratma, hadi...",
     ["Completion"]="Mükemmel iş, YOUR_NAME... mükemmel! Göçebe nüfusunu, savaşı gerçekten onlara taşıyabileceğimiz bir noktaya kadar azalttın!\n\nHenüz yapmadıysan buradaki Vana Operatörü Luglunket ile konuş; o göçebelere adalet getirirken rastlamış olabileceğin tüm Çölgezer su keseleri için ödül veriyor!",
     ["minlevel"]="0",
@@ -51186,7 +51186,7 @@ QuestTranslator_QuestData = {
     ["2873"] = {
     ["Title"]="Stoley'nin Sevkiyatı",
     ["Description"]="Bir iddianın sonucunu kapatmak için Ganimet Körfezi'ndeki \"Deniz Kurdu\" MacKinley'e biraz rom borcum var ama romum tükendi! Kaptan Cuergo son sevkiyatımı çaldı ve onu güneydeki o surlarla çevrili korsan kasabasında saklıyor.\n\nRom sevkiyatımı bulup bana geri getirebilirsen, MacKinley'e Kalimdor içkisinin Ganimet Körfezi içkisini suya götürüp susuz getireceğini kanıtlayabilirim!",
-    ["Objectives"]="Stoley'nin Sevkiyatı'nı Steamwheedle Limanı'ndaki Stoley'e getir.[cite: 1, 2]",
+    ["Objectives"]="Stoley'nin Sevkiyatı'nı Steamwheedle Limanı'ndaki Stoley'e getir.",
     ["Progress"]="Rom sevkiyatımı buldun mu, YOUR_NAME?",
     ["Completion"]="Harika, sevkiyat için teşekkürler! Artık MacKinley ve ben nihayet bahsimizi kapatabiliriz.",
     ["minlevel"]="0",
@@ -51208,7 +51208,7 @@ QuestTranslator_QuestData = {
     ["3444"] = {
     ["Title"]="Taş Çember",
     ["Description"]="Bir zamanlar Batık Tapınak'ın tekinsiz odalarına girmiştim. O yerdeki kötülük içeri giren herkese nüfuz eder; şimdi zeminleri kaplayan balçıkların arasından geçerek yolumu zorlukla bulabildim. Tek hatırlayabildiğim yılan heykelleriyle dolu büyük dairesel bir odada tökezlediğimdi...\n\nGeçenlerde üzerinde aynı yılan sembolünün basılı olduğu yuvarlak bir taş keşfettim. Onu paketletip Ratchet'taki atölyeme gönderdim. Onu geri getir, ben de sana daha fazla şey anlatabileyim.",
-    ["Objectives"]="Taş Çember'i Marvon Rivetseeker'ın Ratchet'taki atölyesinden al.[cite: 1, 2]",
+    ["Objectives"]="Taş Çember'i Marvon Rivetseeker'ın Ratchet'taki atölyesinden al.",
     ["Progress"]="Ratchet buradan çok uzak değil, YOUR_NAME. Yolculuk uzun sürmemeli.",
     ["Completion"]="Evet... Taş bu.\n\nŞimdi hepsi aklıma geri geliyor, YOUR_NAME...",
     ["minlevel"]="0",
@@ -51219,7 +51219,7 @@ QuestTranslator_QuestData = {
     ["2876"] = {
     ["Title"]="Gemi Tarifeleri",
     ["Description"]="Bu parşömen, Steamwheedle Limanı ile Ganimet Körfezi arasındaki sevkiyat tarifelerini içeriyor. Gemilerin isimleri, bazı gemilerin seferlerinin yanında büyük 'X' işaretleri ve diğerlerinin yanında \"BÜYÜK GANİMET\" ve \"ÇETİN DÖVÜŞ\" gibi açıklamalarla hem geçmiş hem de gelecekteki sevkiyatlar dahil edilmiş.\n\nSteamwheedle Limanı'ndan biri bu belgeyi görmek isterdi.",
-    ["Objectives"]="Gemi Tarifeleri'ni Steamwheedle Limanı'ndaki bir yetkiliye bildir.[cite: 1, 2]",
+    ["Objectives"]="Gemi Tarifeleri'ni Steamwheedle Limanı'ndaki bir yetkiliye bildir.",
     ["Progress"]="Nefes nefese kalmış görünüyorsun. Bana söyleyecek bir şeyin mi var?",
     ["Completion"]="Aman Tanrım, bu tam zamanları ve tarihleriyle birlikte gemi kalkış ve varışlarının bir listesi gibi görünüyor! Bir korsan gemisinin kaptanı bunu ele geçirseydi gününü gün ederdi!\n\nBunu bir korsandan aldığını mı söylüyorsun? Şey, bu rahatsız edici bir haber...\n\nTeşekkür ederim, YOUR_NAME. Onu ondan aldığın için memnunum ve o korsanın şu anda toprak yediğine memnunum!",
     ["minlevel"]="0",
@@ -51389,7 +51389,7 @@ QuestTranslator_QuestData = {
     ["2768"] = {
     ["Title"]="Kehanet Çubuğu",
     ["Description"]="Çavuş Bly benden hırsızlık yaptı! Sadece ödünç alacağını söylemişti ama o aziz kehanet çubuğumu çaldı!! O çubuk olmadan yeni su kuyularını nerede kazacağımı nasıl bileceğim??\n\nBly'ı bul ve çubuğumu bana getir! Kötü şöhretli maceracı grubuyla birlikte batıdaki Zul'Farrak'a hazine avına gittiğini duydum. Onu orada bulacağına bahse girerim.\n\nTrollerin icabına bakmış olduğunu umalım, çünkü çubuk için onunla dövüşmek zorunda kalırsan ciddi bir kavgaya tutuşacaksın demektir.",
-    ["Objectives"]="Kehanet Çubuğu'nu Gadgetzan'daki Başmühendis Bilgewhizzle'a getir.[cite: 1, 2]",
+    ["Objectives"]="Kehanet Çubuğu'nu Gadgetzan'daki Başmühendis Bilgewhizzle'a getir.",
     ["Progress"]="Çavuş Bly'ı buldun mu? Kehanet çubuğumu aldın mı?",
     ["Completion"]="Buldun! Aferin, YOUR_NAME! Onun için Bly ile dövüşmek zorunda kaldın mı? Umarım onu ve grubunu iyice evire çevire dövmüşsündür!",
     ["minlevel"]="0",
