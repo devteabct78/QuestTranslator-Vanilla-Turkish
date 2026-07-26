@@ -15,3 +15,7 @@ QuestTranslator_GossipData = {
     ["Hey, come over here, and be quiet!"] = "Hey, buraya gel ve sessiz ol!",
     ["Well, now that you mention it, yeah, I did see something I thought was a little strange yesterday afternoon!\n\nI was running past some old troll ruins southeast of here; well, I wasn't really running, more like hopping... The sand's so hot!\n\nAnyway, so I was hopping past the ruins, when I noticed a camp set up there. Seems like a funny place to set up camp, if you ask me... I would have poked around a little more but one of those crazy big vultures chased me off."] = "Şimdi sen söyleyince aklıma geldi, evet, dün öğleden sonra biraz tuhaf olduğunu düşündüğüm bir şey gördüm!\n\nBuranın güneydoğusundaki eski trol harabelerinin yanından koşarak geçiyordum; yani pek koşuyor sayılmazdım, daha çok zıplıyordum... Kumlar o kadar sıcak ki!\n\nHer neyse, harabelerin yanından zıplayarak geçerken orada kurulmuş bir kamp fark ettim. Bana sorarsan kamp kurmak için tuhaf bir yer... Biraz daha etrafa bakınacaktım ama o çılgın büyük akbabalardan biri beni kovaladı.",
 }
+
+QuestTranslator_OptionData = {
+    ["Seen any strange things in the desert lately?"] = "Son zamanlarda çölde garip bir şeyler gördün mü?",
+}
