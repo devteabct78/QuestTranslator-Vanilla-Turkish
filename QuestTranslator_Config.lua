@@ -83,3 +83,32 @@ gossipCheck:SetScript("OnClick", function()
         QuestTranslator_Settings.enableGossip = false
     end
 end)
+
+function QTVT_ShowGossipCopy()
+    local t = GetGossipText()
+    if t then
+        local f = QTVT_C or CreateFrame("Frame", "QTVT_C", UIParent)
+        f:SetWidth(320)
+        f:SetHeight(80)
+        f:SetPoint("CENTER", UIParent, "CENTER", 0, 0)
+        f:SetBackdrop({bgFile="Interface\\DialogFrame\\UI-DialogBox-Background", edgeFile="Interface\\DialogFrame\\UI-DialogBox-Border", tile=true, tileSize=32, edgeSize=32, insets={left=11, right=12, top=12, bottom=11}})
+        f:SetMovable(true)
+        f:EnableMouse(true)
+        f:RegisterForDrag("LeftButton")
+        f:SetScript("OnDragStart", function() this:StartMoving() end)
+        f:SetScript("OnDragStop", function() this:StopMovingOrSizing() end)
+        
+        local e = QTVT_CE or CreateFrame("EditBox", nil, f)
+        e:SetWidth(280)
+        e:SetHeight(30)
+        e:SetPoint("CENTER", f, "CENTER", 0, 0)
+        e:SetMultiLine(true)
+        e:SetFontObject(ChatFontNormal)
+        e:SetText(t)
+        e:HighlightText()
+        e:SetScript("OnEscapePressed", function() f:Hide() end)
+        f:Show()
+    else
+        DEFAULT_CHAT_FRAME:AddMessage("Gossip yok.")
+    end
+end
