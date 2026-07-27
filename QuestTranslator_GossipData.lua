@@ -20,6 +20,15 @@ QuestTranslator_GossipData = {
     ["You are currently undergoing a hardcore challenge and cannot access guild banks."] = "Şu anda bir zorlu mod [hardcore] mücadelesindesin ve lonca bankalarına [guild bank] erişemezsin.",
     ["In a place called Feralas to the west of here, the hippogryphs, long-time companions of the night elves, are in danger.\n\nI need you to rescue an egg from the ruins of Isildien, to the south, there. The Super Egg-O-Matic can analyze any egg brought to it and judge if it is likely to hatch. I then send the eggs along to the druids, safe from the Gordunni ogres' dark magics.\n\nPlease know, Barbar, some of the rescued eggs are bad eggs, and will never hatch."] = "Buranın batısında Feralas [Feralas] adında bir yerde, gece elflerinin [night elf] uzun süredir yoldaşı olan hipogrifler tehlikede.\n\nGüneydeki Isildien [Isildien] harabelerinden bir yumurta kurtarmanı istiyorum. Süper Yumurtamatik [Super Egg-O-Matic], kendisine getirilen herhangi bir yumurtayı analiz edebilir ve kuluçkadan çıkma olasılığını değerlendirebilir. Ardından yumurtaları Gordunni ogre'larının [ogre] kara büyülerinden uzak, güvenli bir şekilde druidlere gönderiyorum.\n\nŞunu bil ki Barbar, kurtarılan yumurtaların bazıları bozuk yumurtalardır ve asla kuluçkadan çıkmayacaklardır.",
     ["I've been working on a way to transport oil underground between major cities, but everyone tells me it's a pipe dream."] = "Büyük şehirler arasında yeraltından petrol taşımanın bir yolu üzerinde çalışıyorum, ancak herkes bunun gerçekleşmesi imkansız bir hayal olduğunu söylüyor.",
+    ["Greetings, YOUR_CLASS. I pity your kind, for the secrets of true magic are beyond you..."] = "Selamlar, YOUR_CLASS. Türünüze acıyorum, çünkü gerçek büyünün sırları sizin kavrayışınızın ötesinde...",
+    ["May the spirits be with you."] = "Ruhlar seninle olsun.",
+    ["You be watchin' yerself, YOUR_CLASS. Respect our ways, or a curse be on you and yours."] = "Kendine dikkat et, YOUR_CLASS. Tarzımıza saygı duy, yoksa lanet senin ve sevdiklerinin üzerine olsun.",
+    ["The Valley of Trials will temper even the weakest into a warrior worthy to join the Horde. Those who cannot rise to its tests will be left to bake in the scorching desert sun."] = "İmtihan Vadisi [The Valley of Trials], en zayıfları bile Horde'a katılmaya layık bir savaşçıya dönüştürecektir. Sınavlarının üstesinden gelemeyenler ise kavurucu çöl güneşinde kavrulmaya mahkum edilecektir.",
+    ["What kin I do for ya, mon?"] = "Ne yapabilirim senin için, dostum?",
+    ["I don't train your kind YOUR_CLASS. Find your own trainer before you anger me."] = "Senin gibileri eğitmiyorum YOUR_CLASS. Beni öfkelendirmeden önce kendi eğitmenini bul.",
+    ["What a weird place, mon. I much prefer wall of Zul'Aman to... this.\n\nIf ya be needing training, I be here."] = "Ne tuhaf bir yer, dostum. Zul'Aman surlarını şuraya tercih ederim...\n\nEğer eğitime ihtiyacın olursa, buradayım.",
+    ["Your will is not strong enough to manipulate the forces we control, hunter."] = "İradeniz, kontrol ettiğimiz güçleri manipüle etmeye yetmez avcı.",
+
 }
 
 QuestTranslator_OptionData = {
