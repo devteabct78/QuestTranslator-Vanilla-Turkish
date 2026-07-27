@@ -28,10 +28,9 @@ QuestTranslator_GossipData = {
     ["I don't train your kind YOUR_CLASS. Find your own trainer before you anger me."] = "Senin gibileri eğitmiyorum YOUR_CLASS. Beni öfkelendirmeden önce kendi eğitmenini bul.",
     ["What a weird place, mon. I much prefer wall of Zul'Aman to... this.\n\nIf ya be needing training, I be here."] = "Ne tuhaf bir yer, dostum. Zul'Aman surlarını şuraya tercih ederim...\n\nEğer eğitime ihtiyacın olursa, buradayım.",
     ["Your will is not strong enough to manipulate the forces we control, YOUR_CLASS."] = "İradeniz, kontrol ettiğimiz güçleri manipüle etmeye yetmez YOUR_CLASS.",
-    ["I have no time to waste on the likes of you, YOUR_CLASS."] = "Senin gibilere harcayacak vaktim yok, YOUR_CLASS.",
+    ["I have no time to waste on the likes of you YOUR_CLASS."] = "Senin gibilere harcayacak vaktim yok YOUR_CLASS.",
     ["You're no warlock and I've no time for you. Begone!"] = "Sen bir sehhar değilsin ve senin için harcayacak vaktim yok. Defol!",
-    ["No other race on Azeroth has suffered as much as our people, YOUR_CLASS. To laugh in the face of death has become second nature for all our us."] = "Azeroth'ta hiçbir diğer ırk halkımız kadar acı çekmedi, YOUR_CLASS. Ölümün yüzüne gülmek hepimiz için ikinci bir doğa haline geldi.",
-    ["Well met, YOUR_CLASS. My advice to you is this:\nAs you travel the world, be wary of magic for it will burn the untrained."] = "İyi denk geldik, YOUR_CLASS. Sana tavsiyem şudur:\nDünyayı gezerken büyüye karşı dikkatli ol, çünkü eğitimsiz olanları yakar.",
+    ["No other race on Azeroth has suffered as much as our people, YOUR_CLASS. To laugh in the face of death has become second nature for all of us."] = "Azeroth'ta hiçbir diğer ırk halkımız kadar acı çekmedi, YOUR_CLASS. Ölümün yüzüne gülmek hepimiz için ikinci bir doğa haline geldi.",    ["Well met, YOUR_CLASS. My advice to you is this:\nAs you travel the world, be wary of magic for it will burn the untrained."] = "İyi denk geldik, YOUR_CLASS. Sana tavsiyem şudur:\nDünyayı gezerken büyüye karşı dikkatli ol, çünkü eğitimsiz olanları yakar.",
     ["Yes, YOUR_CLASS?"] = "Hayırdır, YOUR_CLASS?",
     ["The path ahead will be different for you, you no longer adapt to nature, nature adapts to you."] = "Önünüzdeki yol sizin için farklı olacak, artık siz doğaya uyum sağlamıyorsunuz, doğa size uyum sağlıyor.",
 }
