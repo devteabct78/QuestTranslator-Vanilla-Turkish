@@ -27,10 +27,27 @@ local function ApplyTurkishFont()
     end
 end
 
-
 -- Oyuncunun sınıf bilgisi
 local playerClassEng = UnitClass("player") -- örn: "Hunter", "Warrior"
 local currentClassLower = string.lower(playerClassEng or "")
+
+-- Oyuncunun ırk bilgisi (localized: arayüzdeki ad, system: motorun kullandığı ad)
+local localizedRace, systemRace = UnitRace("player")
+local systemRaceLower = string.lower(systemRace or "")
+local localizedRaceLower = string.lower(localizedRace or "")
+
+-- Türkçe ırk adları haritası
+local raceTrNames = {
+    ["Human"] = "İnsan",
+    ["Dwarf"] = "Cüce",
+    ["Night Elf"] = "Gece Elfi",
+    ["Gnome"] = "Gnom",
+    ["Orc"] = "Ork",
+    ["Undead"] = "Ölümsüz",
+    ["Scourge"] = "Ölümsüz", -- Vanilla API'sinde Undead için sistem "Scourge" döndürür
+    ["Tauren"] = "Tauren",
+    ["Troll"] = "Trol"
+}
 
 -- Türkçe sınıf adları haritası
 local classTrNames = {
@@ -68,6 +85,34 @@ local function ReplaceClassWithTag(text, classLower)
     return text
 end
 
+-- Metindeki ingilizce ırk adını (orc vb.) YOUR_RACE ile değiştiren yardımcı fonksiyon
+local function ReplaceRaceWithTag(text, sysRaceLow, locRaceLow)
+    if not text then return text end
+    local lowerText = string.lower(text)
+    
+    -- Önce lokal ırk adını kontrol et (örn: undead)
+    if locRaceLow ~= "" then
+        local s, e = string.find(lowerText, locRaceLow, 1, true)
+        if s and e then
+            local before = string.sub(text, 1, s - 1)
+            local after = string.sub(text, e + 1)
+            return before .. "YOUR_RACE" .. after
+        end
+    end
+
+    -- Eğer sistem adı lokal addan farklıysa (örn: scourge) onu da kontrol et
+    if sysRaceLow ~= "" and sysRaceLow ~= locRaceLow then
+        local s, e = string.find(lowerText, sysRaceLow, 1, true)
+        if s and e then
+            local before = string.sub(text, 1, s - 1)
+            local after = string.sub(text, e + 1)
+            return before .. "YOUR_RACE" .. after
+        end
+    end
+    
+    return text
+end
+
 local function ApplyGossipTranslations()
     if QuestTranslator_Settings and QuestTranslator_Settings.enableGossip == false then
         return; 
@@ -75,15 +120,20 @@ local function ApplyGossipTranslations()
     
     local rawGreetingText = GetGossipText();
     if rawGreetingText and QuestTranslator_GossipData then
-        -- 1. Oyundan gelen ham metindeki sınıf adını "YOUR_CLASS" yap
+        -- 1. Oyundan gelen ham metindeki sınıf ve ırk adını ilgili etiketler ile değiştir
         local textWithTag = ReplaceClassWithTag(rawGreetingText, currentClassLower)
+        textWithTag = ReplaceRaceWithTag(textWithTag, systemRaceLower, localizedRaceLower)
+        
         local targetNormalized = NormalizeText(textWithTag)
         
         for engText, trText in pairs(QuestTranslator_GossipData) do
             if NormalizeText(engText) == targetNormalized then
-                -- 2. Türkçe çevirideki "YOUR_CLASS" etiketini Türkçe sınıf adıyla değiştir
+                -- 2. Türkçe çevirideki etiketleri Türkçe adlarıyla değiştir
                 local trClass = classTrNames[currentClassLower] or currentClassLower
+                local trRace = raceTrNames[systemRace] or raceTrNames[localizedRace] or localizedRace
+                
                 local finalTrText = string.gsub(trText, "YOUR_CLASS", trClass)
+                finalTrText = string.gsub(finalTrText, "YOUR_RACE", trRace)
                 
                 GossipGreetingText:SetText(finalTrText);
                 break;

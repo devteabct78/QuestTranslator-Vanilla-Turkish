@@ -33,6 +33,8 @@ QuestTranslator_GossipData = {
     ["No other race on Azeroth has suffered as much as our people, YOUR_CLASS. To laugh in the face of death has become second nature for all of us."] = "Azeroth'ta hiçbir diğer ırk halkımız kadar acı çekmedi, YOUR_CLASS. Ölümün yüzüne gülmek hepimiz için ikinci bir doğa haline geldi.",    ["Well met, YOUR_CLASS. My advice to you is this:\nAs you travel the world, be wary of magic for it will burn the untrained."] = "İyi denk geldik, YOUR_CLASS. Sana tavsiyem şudur:\nDünyayı gezerken büyüye karşı dikkatli ol, çünkü eğitimsiz olanları yakar.",
     ["Yes, YOUR_CLASS?"] = "Hayırdır, YOUR_CLASS?",
     ["The path ahead will be different for you, you no longer adapt to nature, nature adapts to you."] = "Önünüzdeki yol sizin için farklı olacak, artık siz doğaya uyum sağlamıyorsunuz, doğa size uyum sağlıyor.",
+    ["The howling winds of Tanaris whisper things to me, and I can not speak back... Strange it is to be lost like this."] = "Tanaris'in uluyan rüzgarları bana bir şeyler fısıldıyor, ama ben karşılık veremiyorum... Böyle kaybolmuş olmak ne tuhaf.",
+    ["Greetings, YOUR_RACE, the dunes have claimed many a strong adventurer. Walk softly and be careful of the path ahead."] = "Selamlar YOUR_RACE, kum tepeleri nice güçlü maceracıyı yuttu. Sessizce yürü ve önündeki yola dikkat et.",
 }
 
 QuestTranslator_OptionData = {
