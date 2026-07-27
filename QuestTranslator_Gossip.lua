@@ -1,3 +1,33 @@
+-- Font dosyasının addon içindeki tam yolu
+local trFontPath = "Interface\\AddOns\\QuestTranslator-Vanilla-Turkish\\Fonts\\ipagui.ttf"
+
+local function ApplyTurkishFont()
+    -- NPC ana konuşma metni
+    if GossipGreetingText then
+        GossipGreetingText:SetFont(trFontPath, 13)
+    end
+
+    -- NPC tıklanabilir sohbet/görev seçenekleri (Gossip Butonları)
+    for i = 1, 32 do
+        local button = getglobal("GossipTitleButton" .. i)
+        if button then
+            local fontString = button:GetFontString()
+            if fontString then
+                fontString:SetFont(trFontPath, 13)
+            end
+        end
+    end
+    
+    -- Eğer normal görev detay pencerelerinde de (Accept/Decline ekranı) font sorunu varsa şunları da dahil edebilirsin:
+    if QuestFont then
+        QuestFont:SetFont(trFontPath, 13)
+    end
+    if QuestFontNormalSmall then
+        QuestFontNormalSmall:SetFont(trFontPath, 12)
+    end
+end
+
+
 -- Oyuncunun sınıf bilgisi
 local playerClassEng = UnitClass("player") -- örn: "Hunter", "Warrior"
 local currentClassLower = string.lower(playerClassEng or "")
@@ -83,5 +113,6 @@ end
 local original_GossipFrameUpdate = GossipFrameUpdate;
 function GossipFrameUpdate()
     original_GossipFrameUpdate();
+    ApplyTurkishFont();    
     ApplyGossipTranslations();
 end
