@@ -35,6 +35,13 @@ QuestTranslator_GossipData = {
     ["The path ahead will be different for you, you no longer adapt to nature, nature adapts to you."] = "Önünüzdeki yol sizin için farklı olacak, artık siz doğaya uyum sağlamıyorsunuz, doğa size uyum sağlıyor.",
     ["The howling winds of Tanaris whisper things to me, and I can not speak back... Strange it is to be lost like this."] = "Tanaris'in uluyan rüzgarları bana bir şeyler fısıldıyor, ama ben karşılık veremiyorum... Böyle kaybolmuş olmak ne tuhaf.",
     ["Greetings, YOUR_RACE, the dunes have claimed many a strong adventurer. Walk softly and be careful of the path ahead."] = "Selamlar YOUR_RACE, kum tepeleri nice güçlü maceracıyı yuttu. Sessizce yürü ve önündeki yola dikkat et.",
+    ["Greetings, friend! Can I interest you in some ectoplasmic capacitors? Or perhaps a nice omni-directional spectral assimilator?"] = "Selamlar dostum! Seni biraz ektoplazmik kondansatörle ilgilendirebilir miyim? Ya da belki güzel bir omni-direksiyonel spektral asimilatörle?",
+    ["Let me break down a little math for you: \"goblin\" plus \"engineering\" equals KNOW HOW, baby. Anyone who tells you otherwise simply doesn't know how to add."] = "Sana biraz matematik anlatayım: \"goblin\" artı \"mühendislik\" eşittir BİRİKİM [know how], bebeğim. Sana aksini söyleyen sadece toplama yapmayı bilmiyordur.",
+    ["What can I do for you? No, wait! What can you do for me?"] = "Ne yapabilirim senin için? Hayır, dur! Sen benim için ne yapabilirsin?",
+    ["Choose which item you would like to refund."] = "İade etmek istediğiniz eşyayı seçin.",
+    ["1. Take the device in both hands.\n\n2. Put it above your head.\n\n3. Let it go.\n\n4. Enjoy the sunshine of the spotless mind.\n\n!!WARNING!! Not spending all specilization points will cause the device to malfunction and reboot! Vizlow will not refund any specialization resets caused by this."] = "1. Cihazı iki elinizle alın.\n\n2. Başınızın üzerine koyun.\n\n3. Bırakın gitsin.\n\n4. Lekesiz zihnin güneş ışığının tadını çıkarın.\n\n!!UYARI!! Tüm uzmanlık puanlarını harcamamak cihazın arızalanmasına ve yeniden başlamasına neden olur! Vizlow, bundan kaynaklanan hiçbir uzmanlık sıfırlamasını iade etmeyecektir.",
+    ["What do you need directions to?"] = "Nerenin yol tarifine ihtiyacın var?",
+    ["The Call to Arms rings loud in Thorn Gorge. Answer it… or be forgotten like so many before you."] = "Dikenli Geçit [Thorn Gorge]'te Silaha Çağrı yüksek sesle yankılanıyor. Ona yanıt ver... ya da senden önceki pek çokları gibi unutulup git.",
 }
 
 QuestTranslator_OptionData = {
