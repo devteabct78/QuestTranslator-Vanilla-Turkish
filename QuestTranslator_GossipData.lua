@@ -67,9 +67,23 @@ QuestTranslator_GossipData = {
     ["Pssst... I can make you hide who you really are with some fake papers if you bring me 5 gold."] = "Psst... Bana 5 altın getirirsen sahte evraklarla gerçekten kim olduğunu gizlemeni sağlayabilirim.",
     ["Watch your step in here, boy. The master sees all..."] = "Burada adını attığına dikkat et evlat. Efendi her şeyi görür...",
     ["Speak quietly and with great care, the wrong word in these parts could get your throat cut. Now, what is it you need from me?"] = "Alçak sesle ve büyük bir özenle konuş, bu buralarda yanlış bir kelime boğazının kesilmesine neden olabilir. Şimdi, benden neye ihtiyacın var?",
-    ["Welcome to SI:7 headquarters, Barbar."] = "SI:7 karargahına hoş geldin, Barbar.",
+    ["Welcome to SI:7 headquarters, YOUR_NAME."] = "SI:7 karargahına hoş geldin, YOUR_NAME.",
     ["I don't think you want to learn anything I can teach. Might want to find a warrior trainer to help you out."] = "Öretebileceğim herhangi bir şeyi öğrenmek isteyeceğini sanmıyorum. Sana yardım etmesi için bir savaşçı eğitmeni bulmak isteyebilirsin.",
     ["Randal's a bit of a dandy, but he's dependable, which is more than I can say for a lot of the students I take on. Still, I guess I can't blame them for wanting a bit of adventure."] = "Randal biraz züppedir ama güvenilirdir, ki bu aldığım öğrencilerin birçoğu için söyleyebileceğimden fazlasıdır. Yine de sanırım biraz macera istemeleri konusunda onları suçlayamam.",
+    ["The war against the Horde has reached full tilt, YOUR_NAME. This is a time of great need for the Alliance and it's quite necessary that all of us do our part to help."] = "Sürü [Horde] ile olan savaş son hızına ulaştı, YOUR_NAME. Bu İttifak [Alliance] için büyük bir ihtiyaç zamanı ve hepimizin yardım etmek için üzerimize düşeni yapması oldukça gerekli.",
+    ["<Lady Prestor glares at you.>"] = "<Leydi Prestor sana sertçe bakıyor.>",
+    ["I have come here to seek support of the Nobles of Stormwind. It is a harder task than I had anticipated."] = "Fırtınayeli [Stormwind] Soylularının desteğini istemek için buraya geldim. Beklediğimden daha zor bir görev.",
+    ["I've been expecting you YOUR_NAME.  Are you ready to assist us in Arathi Basin?"] = "Seni bekliyordum YOUR_NAME. Arathi Havzası [Arathi Basin]'nda bize yardım etmeye hazır mısın?",
+    ["I am sorry YOUR_CLASS, but you need to be more experienced before you can survive in Alterac Valley."] = "Üzgünüm savaşçı, ancak Alterac Vadisi [Alterac Valley]'nde hayatta kalabilmek için daha tecrübeli olman gerekiyor.",
+    ["Hail to thee YOUR_NAME.  Do you wish me to aid you in your journey to Warsong Gulch?"] = "Selam olsun sana YOUR_NAME. Savaşşarkısı Uçurumu [Warsong Gulch] yolculuğunda sana yardım etmemi ister misin?",
+    ["This may not be very obvious at first glance, Human, however, I assure you, we are glad to accept the help the Alliance is giving us in such dire times."] = "Bu ilk bakışta çok açık olmayabilir insan, ancak sana garanti ederim ki, İttifak [Alliance]'ın böyle zor zamanlarda bize verdiği yardımı kabul etmekten memnuniyet duyuyoruz.",
+    ["Anduin might be just a boy now, but he will be a great leader one day. His heart is pure and filled with light. With his father missing, it falls to me to tutor him and rule the kingdom until he is of age."] = "Anduin şu an sadece bir çocuk olabilir ama bir gün büyük bir lider olacak. Kalbi saf ve ışıkla dolu. Babası kayıpken, ona öğretmenlik yapmak ve o reşit olana kadar krallığı yönetmek bana düşüyor.",
+    ["The Bael Modan Garrison requires aid in their mission to gather ground in the western frontier of Kalimdor! Are you willing to step up and defend the Alliance's interests?"] = "Bael Modan Garnizonu, Kalimdor'un batı sınırında zemin kazanma görevlerinde yardıma ihtiyaç duyuyor! İttifak [Alliance]'ın çıkarlarını savunmak için öne çıkmaya istekli misin?",
+    ["Once I find the right buyer, I will strike big and bathe in heaps of gold!"] = "Doğru alıcıyı bulduğumda, büyük bir vurgun yapıp altın yığınları içinde yıkanacağım!",
+    ["I scoff at your empty threats. What do you intend to do, kill me? Here, out in the open? Even a lowly agent of Ravenholdt wouldn’t stoop to such levels of unprofessionalism. You have nothing on me."] = "Boş tehditlerini alaya alıyorum. Ne yapmayı düşünüyorsun, beni öldürmek mi? Burada, ortalık yerde mi? Ravenholdt'un sıradan bir ajanı bile profesyonellikten bu kadar yoksun seviyelere düşmez. Elimde bana karşı hiçbir şey yok.",
+    ["You'll have to be patient with me, YOUR_NAME. I've got my Spybot inside working on a very delicate matter. I'll be with ya in a second.\n\nOh, and do me a favor, try not to let Lescovar see you... we're about to ambush him."] = "Benimle sabırlı olman gerekecek, YOUR_NAME. İçeride çok hassas bir meseleyle uğraşan Casusbot'um [Spybot] var. Bir saniyeye seninle olacağım.\n\nAh, ve bana bir iyilik yap, Lescovar'ın seni görmesine izin vermemeye çalış... ona pusu kurmak üzereyiz.",
+
+    
 }
 
 QuestTranslator_OptionData = {
@@ -78,4 +92,5 @@ QuestTranslator_OptionData = {
     ["Please tell me more about the hippogryphs."] = "Lütfen bana hipogrifler hakkında daha fazla bilgi ver.",
     ["I'm not interested, goodbye."] = "İlgilenmiyorum, hoşçakal.",
     ["Yes... I want some privacy, can you hide my rank? I'll give you the gold.\n\nWARNING: THIS WILL COST YOU 5 GOLD!"] = "Evet... Biraz mahremiyet istiyorum, rütbemi gizleyebilir misin? Altını vereceğim.\n\nUYARI: BU SİZE 5 ALTINA MAL OLACAK!",
+    ["Your schemes aren’t going anywhere. I’m here to collect the information."] = "Planlarınız hiçbir yere varamayacak. Bilgileri toplamaya geldim.",
 }
