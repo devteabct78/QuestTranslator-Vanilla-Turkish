@@ -5197,16 +5197,22 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end Milton'a Geri Dön
 
-    -- Perenolde Tacı
+    -- The Perenolde Tiara
+    -- Remington Ridgewell -> Remington Ridgewell (MobNpcData.lua)
+    -- Grel'borg the Miser -> Cimri Grel'borg (MobNpcData.lua)
+    -- Stormwind -> Fırtınadiyarı (ZoneData.lua)
+    -- Ironforge -> Demirocak (ZoneData.lua)
+    -- Alterac -> Alterac (ZoneData.lua)
+    -- Ruins of Alterac -> Alterac Harabeleri (ZoneData.lua)
     ["543"] = {
     ["Title"]="Perenolde Tacı",
-    ["Description"]="Perenolde Tacı, Perenolde \\",
-    ["Objectives"]="Perenolde Tacı'nı geri al.",
-    ["Progress"]="Selamlar, YOUR_NAME. Pantolonumun paçalarına basmamaya çalış. Bu kıyafet yeni dikildi.",
-    ["Completion"]="Ah, bu muhteşem. Elbette bunun temizlenmesi gerekecek, ama gerçekten kendini aşmışsın, YOUR_NAME. Birine tacı hazırlamasını ve koleksiyonumuza acilen yerleştirmesini söyleyeceğim.NEW_LINENEW_LINEKabul edeceğinizden eminim, minnettarlığımız koleksiyonumuz kadar büyük.",
+    ["Description"]="Perenolde Tacı, o krallık yıkılmadan önce Alterac'ı yöneten aile olan Perenolde \"soylularının\" eski bir aile yadigarıdır. Demirocak'taki usta mücevherciler tarafından yapıldığı ve en kaliteli zümrütlerle süslendiği söylenir.\n\nAlterac yok edildiğinde Taç kayboldu, ancak Cimri Grel'borg adında bir Ogr Büyücüsü'nün tacı bulduğu ve şimdi daha fazla hazine aramak için Alterac Harabeleri'nde gezindiği söylentileri var.\n\nTacı bizim için ele geçirmeni istiyoruz.",
+    ["Objectives"]="Perenolde Tacı'nı Fırtınadiyarı'ndaki Remington Ridgewell'a getir.",
+    ["Progress"]="Selamlar, YOUR_NAME. Pantolonumun paçalarına basmamaya çalış lütfen. Bu kıyafet yeni dikildi.",
+    ["Completion"]="Ah, bu harika. Tabii ki temizlenmesi gerekecek ama gerçekten kendinizi aştınız, YOUR_NAME. Birinin tacı hazırlamasını ve en kısa sürede koleksiyonumuza yerleştirmesini sağlayacağım.\n\nSizin de katılacağınız üzere, minnettarlığımız da koleksiyonumuz kadar büyük.",
     ["minlevel"]="0",
     ["questlevel"]="0",
-    }, -- end Perenolde Tacı
+    }, -- end The Perenolde Tiara
 
     -- Hapishaneden Kaçış
     ["544"] = {
