@@ -82,8 +82,15 @@ QuestTranslator_GossipData = {
     ["Once I find the right buyer, I will strike big and bathe in heaps of gold!"] = "Doğru alıcıyı bulduğumda, büyük bir vurgun yapıp altın yığınları içinde yıkanacağım!",
     ["I scoff at your empty threats. What do you intend to do, kill me? Here, out in the open? Even a lowly agent of Ravenholdt wouldn’t stoop to such levels of unprofessionalism. You have nothing on me."] = "Boş tehditlerini alaya alıyorum. Ne yapmayı düşünüyorsun, beni öldürmek mi? Burada, ortalık yerde mi? Ravenholdt'un sıradan bir ajanı bile profesyonellikten bu kadar yoksun seviyelere düşmez. Elimde bana karşı hiçbir şey yok.",
     ["You'll have to be patient with me, YOUR_NAME. I've got my Spybot inside working on a very delicate matter. I'll be with ya in a second.\n\nOh, and do me a favor, try not to let Lescovar see you... we're about to ambush him."] = "Benimle sabırlı olman gerekecek, YOUR_NAME. İçeride çok hassas bir meseleyle uğraşan Casusbot'um [Spybot] var. Bir saniyeye seninle olacağım.\n\nAh, ve bana bir iyilik yap, Lescovar'ın seni görmesine izin vermemeye çalış... ona pusu kurmak üzereyiz.",
-
-    
+    ["Ey mon, you be looking like you could use a few trinkets, let Vil'do tell you what you be needing."] = "Ey dostum, birkaç zımbırtıya ihtiyacın varmış gibi görünüyorsun, neye ihtiyacın olduğunu Vil'do'nun söylemesine izin ver.",
+    ["You wouldn't happen to have a few coin on you, huh? I need it for the next time we stop somewhere."] = "Üstünde birkaç sikke falan yoktur, değil mi? Bir yerlerde bir sonraki duruşumuz için buna ihtiyacım var.",
+    ["I will never care of your rank, I respect strength above else. Prove yourself to be worthy of my axe and I will die for you. Do not mistake these words for mutiny, I will respect your orders and will not question them."] = "Rütbeni asla umursamayacağım, her şeyin üstünde güce saygı duyarım. Baltama layık olduğunu kanıtla ve senin için öleyim. Bu sözleri isyan olarak karıştırma, emirlerine saygı duyacağım ve onları sorgulamayacağım.",
+    ["Heya, sweetie. Here to make a long time investement?\n\nMaybe you wanna gamble, little YOUR_CLASS? Tell me how much and I'll throw the dice. If the roll is above 50, I will double the bet. If it's lower than 50, it's gone forever.\n\nIf you win three times in a row using the same amount, the reward is tripled, but only if the 3rd roll is above 75. If it's below 75 on the 3rd roll, your gold will be gone too."] = "Selam tatlım. Uzun vadeli bir yatırım yapmaya mı geldin?\n\nBelki kumar oynamak istersin, küçük YOUR_CLASS? Ne kadar olduğunu söyle ve zarları atayım. Eğer atılan sayı 50'nin üzerindeyse, bahsi iki katına çıkaracağım. 50'den düşükse, sonsuza dek gider.\n\nAynı miktarı kullanarak arka arkaya üç kez kazanırsan, ödül üç katına çıkarılır, ancak yalnızca 3. zar 75'in üzerindeyse. 3. zarda 75'in altındaysa, altınların da gidecektir.",
+    ["Welcome aboard, we Bloodsail treat eachother well at the least, if you remain loyal."] = "Gemiye hoş geldin, biz Kanlıyel [Bloodsail] korsanları sadık kalırsan en azından birbirimize iyi davranırız.",
+    ["Just because I'm old don't think I'm weak, ye understand young one? Ye let yer guard down for but a moment and Old-Tide Sam will pull you under."] = "Yaşlıyım diye zayıf olduğumu sanma, anlıyor musun genç adam? Dikkatini sadece bir anlığına bile dağıtırsan, Yaşlı-Dalga Sam seni dibe çeker.",
+    ["No better place to rest up then on the ship! The rocking of the waves is almost gentle don't you agree?"] = "Dinlenmek için gemiden daha iyi bir yer olamaz! Dalgaların sallantısı neredeyse nazik, değil mi?",
+    ["You're going to scare off all the fish!"] = "Bütün balıkları kaçıracaksın!",
+        
 }
 
 QuestTranslator_OptionData = {
@@ -93,4 +100,5 @@ QuestTranslator_OptionData = {
     ["I'm not interested, goodbye."] = "İlgilenmiyorum, hoşçakal.",
     ["Yes... I want some privacy, can you hide my rank? I'll give you the gold.\n\nWARNING: THIS WILL COST YOU 5 GOLD!"] = "Evet... Biraz mahremiyet istiyorum, rütbemi gizleyebilir misin? Altını vereceğim.\n\nUYARI: BU SİZE 5 ALTINA MAL OLACAK!",
     ["Your schemes aren’t going anywhere. I’m here to collect the information."] = "Planlarınız hiçbir yere varamayacak. Bilgileri toplamaya geldim.",
+    ["I'll call it The Crying Dandelion."] = "Adını Ağlayan Karahindiba koyacağım.",    
 }
