@@ -98,6 +98,8 @@ QuestTranslator_GossipData = {
     ["Why hello there, you wouldn't mind helping out a dwarf in need would ye?"] = "Merhaba orada, muhtaç bir cüceye yardım etmekten sakınmazsın değil mi?",
     ["Hey there, I'm Wincing Willy Pal! Heard good things about you, the only reason we're talking right now. My job is to oversee supplies coming from the great seas and keep them here until we can allocate them elsewhere."] = "Selam, ben Yüzü Ekşiten Willy Dost! Hakkında iyi şeyler duydum, şu anda konuşmamızın tek sebebi de bu. Benim işim büyük denizlerden gelen ikmalleri denetlemek ve onları başka bir yere tahsis edene kadar burada tutmak.",
     ["What do you want, Maggot?"] = "Ne istiyorsun, Kurtçuk?",
+    ["Cross-faction battlegrounds\n\nDo you support cross faction BGs?"] = "Irklar arası savaş alanları [Cross-faction battlegrounds]\n\nIrklar arası BGs (Savaş Alanları) özelliğini destekliyor musunuz?",
+    ["Thank you for the offer, YOUR_CLASS. Unfortunately you are not yet experienced enough to weather the hazards of Arathi Basin."] = "Teklifin için teşekkürler YOUR_CLASS. Ne yazık ki Arathi Havzası [Arathi Basin]'nın tehlikelerine göğüs gerecek kadar henüz deneyimli değilsin.",
         
 }
 

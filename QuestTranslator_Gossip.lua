@@ -64,16 +64,26 @@ local classTrNames = {
 
 local function NormalizeText(str)
     if not str then return "" end
-    -- Ekrana literal "\n", "\r", "\t" olarak basılan kaçış karakterlerini temizle
+    
+    -- 1. WoW Renk Kodlarını Temizle (|cFFFF0000 gibi başlangıç ve |r bitiş etiketleri)
+    str = string.gsub(str, "|c%x%x%x%x%x%x%x%x", "")
+    str = string.gsub(str, "|r", "")
+
+    -- 2. Ekrana literal "\n", "\r", "\t" olarak basılan kaçış karakterlerini temizle
     str = string.gsub(str, "\\n", "")
     str = string.gsub(str, "\\r", "")
     str = string.gsub(str, "\\t", "")
-    -- Tipografik/akıllı tırnak işaretlerini standart tırnağa dönüştür
+    
+    -- 3. Tipografik/akıllı tırnak işaretlerini standart tırnağa dönüştür
     str = string.gsub(str, "’", "'")
     str = string.gsub(str, "‘", "'")
+    
+    -- 4. Hepsini küçük harfe çevir
     str = string.lower(str)
-    -- Tüm boşluk, satır başı ve kontrol karakterlerini sil
+    
+    -- 5. Tüm boşluk, satır başı ve gizli kontrol karakterlerini sil
     str = string.gsub(str, "[%s%c]", "")
+    
     return str
 end
 
