@@ -90,6 +90,14 @@ QuestTranslator_GossipData = {
     ["Just because I'm old don't think I'm weak, ye understand young one? Ye let yer guard down for but a moment and Old-Tide Sam will pull you under."] = "Yaşlıyım diye zayıf olduğumu sanma, anlıyor musun genç adam? Dikkatini sadece bir anlığına bile dağıtırsan, Yaşlı-Dalga Sam seni dibe çeker.",
     ["No better place to rest up then on the ship! The rocking of the waves is almost gentle don't you agree?"] = "Dinlenmek için gemiden daha iyi bir yer olamaz! Dalgaların sallantısı neredeyse nazik, değil mi?",
     ["You're going to scare off all the fish!"] = "Bütün balıkları kaçıracaksın!",
+    ["They're going to show fireworks all long. From 6PM until dawn, the sky will blaze over Booty Bay!"] = "Bütün gece boyunca havai fişek gösterisi yapacaklar. Akşam 6'dan şafağa kadar gökyüzü Ganimet Koyu [Booty Bay] üzerinde parıl parıl parlayacak!",
+    ["You look familiar, you one of the new crew members?"] = "Tanıdık görünüyorsun, yeni mürettebat üyelerinden biri misin?",
+    ["Another Bloodsail huh? Not often someone wanders around out here and just shows up, what you looking to help?"] = "Bir başka Kanlıyel [Bloodsail] ha? Sık sık buralarda dolaşıp öylece ortaya çıkan biri olmaz, neye yardım etmek istiyorsun?",
+    ["Welcome, listener! On behalf of BootyBay Pirate Radio, I am here to gather the public opinion on all sorts of matters. Every opinion counts, and individual votes are kept anonymous. Different polls will have different requirements to vote."] = "Hoş geldin, dinleyici! Ganimet Koyu [BootyBay] Korsan Radyosu adına, her türlü konudaki kamuoyunu toplamak için buradayım. Her görüş önemlidir ve bireysel oylar gizli tutulur. Farklı anketlerin oy kullanmak için farklı gereksinimleri olacaktır.",
+    ["We, the Zandalarian trolls, traveled here from distant islands, for we cannot ignore the threat that now faces our world.\n\nThe leader of our expedition, Molthor, brought us to the Yojamba Isle, along the northern coasts of Stranglethorn, and even now recruits brave heroes to venture into the ancient troll city... Zul'Gurub."] = "Biz Zandalari trolleri, uzak adalardan buraya seyahat ettik, çünkü dünyamızın karşısına çıkan tehdidi görmezden gelemeyiz.\n\nKeşif gezimizin lideri Molthor, bizi Stranglethorn'un kuzey kıyısı boyunca Yojamba Adası [Yojamba Isle]'na getirdi ve şu anda bile antik troll şehri... Zul'Gurub'a maceraya atılmaları için cesur kahramanları topluyor.",
+    ["Why hello there, you wouldn't mind helping out a dwarf in need would ye?"] = "Merhaba orada, muhtaç bir cüceye yardım etmekten sakınmazsın değil mi?",
+    ["Hey there, I'm Wincing Willy Pal! Heard good things about you, the only reason we're talking right now. My job is to oversee supplies coming from the great seas and keep them here until we can allocate them elsewhere."] = "Selam, ben Yüzü Ekşiten Willy Dost! Hakkında iyi şeyler duydum, şu anda konuşmamızın tek sebebi de bu. Benim işim büyük denizlerden gelen ikmalleri denetlemek ve onları başka bir yere tahsis edene kadar burada tutmak.",
+    ["What do you want, Maggot?"] = "Ne istiyorsun, Kurtçuk?",
         
 }
 
@@ -101,4 +109,9 @@ QuestTranslator_OptionData = {
     ["Yes... I want some privacy, can you hide my rank? I'll give you the gold.\n\nWARNING: THIS WILL COST YOU 5 GOLD!"] = "Evet... Biraz mahremiyet istiyorum, rütbemi gizleyebilir misin? Altını vereceğim.\n\nUYARI: BU SİZE 5 ALTINA MAL OLACAK!",
     ["Your schemes aren’t going anywhere. I’m here to collect the information."] = "Planlarınız hiçbir yere varamayacak. Bilgileri toplamaya geldim.",
     ["I'll call it The Crying Dandelion."] = "Adını Ağlayan Karahindiba koyacağım.",    
+    ["That eyepatch is coming with me."] = "O göz bandı benimle geliyor.",
+    ["Poison the rum."] = "Romu zehirle.",
+    ["Spit in Morgan's face."] = "Morgan'ın yüzüne tükür.",
+    ["ALREADY VOTED - Cross-faction battlegrounds"] = "OY KULLANILDI - Irklar arası [Cross-faction] Savaş Alanları",
+    ["[Close]"]="[Kapat]",
 }
