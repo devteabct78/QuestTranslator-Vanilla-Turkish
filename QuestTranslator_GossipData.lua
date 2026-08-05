@@ -100,7 +100,17 @@ QuestTranslator_GossipData = {
     ["What do you want, Maggot?"] = "Ne istiyorsun, Kurtçuk?",
     ["Cross-faction battlegrounds\n\nDo you support cross faction BGs?"] = "Irklar arası savaş alanları [Cross-faction battlegrounds]\n\nIrklar arası BGs (Savaş Alanları) özelliğini destekliyor musunuz?",
     ["Thank you for the offer, YOUR_CLASS. Unfortunately you are not yet experienced enough to weather the hazards of Arathi Basin."] = "Teklifin için teşekkürler YOUR_CLASS. Ne yazık ki Arathi Havzası [Arathi Basin]'nın tehlikelerine göğüs gerecek kadar henüz deneyimli değilsin.",
-        
+    ["Best deals in all of Stormwind my friend, won't find any better. Now, what can I help you with?"] = "Fırtınaşehri [Stormwind]'ndeki en iyi fırsatlar bende dostum, daha iyisini bulamazsın. Şimdi, sana nasıl yardımcı olabilirim?",
+    ["You have journeyed a great distance. Rest your weary body under our roof, and may the Sun guide you."] = "Çok uzak yoldan geldin. Yorgun bedenini çatımız altında dinlendir; Güneş sana yol göstersin.",
+    ["Who would have thought combining the usefulness of a telescope with a mining pick would be such a hit! I'm sure a fine human like you can see the appeal!\n\nIf you want one yourself, bring me an Ornate Spyglass and some Light Leather, let's say around... 10 pieces."] = "Bir teleskobun kullanışlılığını bir madenci kazmasıyla birleştirmenin bu kadar tutacağını kim düşünebilirdi ki! Senin gibi nezih bir insanın bunun cazibesini görebildiğinden eminim!\n\nKendine bir tane istersen, bana bir Süslü Dürbün [Ornate Spyglass] ve biraz Hafif Deri [Light Leather] getir, diyelim ki... 10 parça kadar.",
+    ["Thank you for the offer, warrior. Unfortunately you are not yet experienced enough to weather the hazards of Arathi Basin."] = "Teklifin için teşekkürler savaşçı. Ne yazık ki Arathi Havzası [Arathi Basin]'nın tehlikelerine göğüs gerecek kadar henüz deneyimli değilsin.",
+    ["Will you help us in our time of great need at Arathi Basin, warrior? The chance for increased honor and standing is greater than ever, and your assistance is sure to help to turn the tide against The Defilers. Can we count on you?"] = "Arathi Havzası [Arathi Basin]'ndaki bu büyük ihtiyaç anımızda bize yardım edecek misin savaşçı? Daha fazla onur ve itibar kazanma şansı her zamankinden daha yüksek ve yardımının Kirleticiler [The Defilers]'e karşı gidişatı değiştireceğinden eminiz. Sana güvenebilir miyiz?",
+    ["See, the Venture Company's new shredder is better than my latest, from the interchangeable hands to the control grips!\n\nMy boss has given me a pretty strict deadline, but my boys and I couldn't come up with anything. Nothing was working, so we decided to \"borrow\" one of their prototypes. I sent Wizzlecrank to the Sludge Fen to steal one, but he hasn't gotten back yet!"] = "Baksana, Girişim Şirketi [Venture Company]'nin yeni öğütücüsü [shredder], değiştirilebilir ellerinden kontrol kollarına kadar benim son yaptığımdan çok daha iyi!\n\nPatronum bana oldukça katı bir teslim tarihi verdi ama çocuklar ve ben ortaya hiçbir şey çıkaramadık. Hiçbir şey işe yaramayınca biz de onların prototiplerinden birini \"ödünç almaya\" karar verdik. Bir tane çalması için Wizzlecrank'i Çamur Bataklığı [Sludge Fen]'na gönderdim ama henüz geri dönmedi!",
+    ["These are bleak times, but our kin must be guided towards the Light. Their wounds, while they cannot be healed entirely, must be attended to with all our might."] = "Karanlık zamanlardan geçiyoruz, ancak soydaşlarımız Işık'a [Light] doğru yönlendirilmelidir. Yaraları tamamen iyileştirilemese de var gücümüzle ilgilenilmelidir.",
+    ["Director Riddlevox put me in charge of the Union's shredder development program. Few months on the job and I'm already in hot water! I could use your help, Barbar!"] = "Müdür Riddlevox beni Birlik [Union]'in öğütücü [shredder] geliştirme programının başına geçirdi. İşteki daha birkaç ayımda başım derde girdi bile! Yardımına ihtiyacım var, Barbar!",
+    ["Ever since the Sunwell fell, we've strained to minimize the amount of mana we expend. We used to be paragons of arcane power; now, we are a mere shadow of our former selves."] = "Güneşpınarı [Sunwell] düştüğünden beri harcadığımız mana miktarını en aza indirmek için çabalıyoruz. Eskiden arkana gücünün timsaliydik; şimdi ise eski halimizin sadece bir gölgesiyiz.",
+    ["The Farstriders were a proud group of rangers, with the fall of our land they too have been left behind, yet it is in us that their legacy will live on."] = "Uzakgezginler [Farstriders] gururlu bir korucu grubuydu; topraklarımızın düşüşüyle onlar da geride kaldılar, ancak onların mirası bizim içimizde yaşamaya devam edecek.",
+            
 }
 
 QuestTranslator_OptionData = {
@@ -116,4 +126,6 @@ QuestTranslator_OptionData = {
     ["Spit in Morgan's face."] = "Morgan'ın yüzüne tükür.",
     ["ALREADY VOTED - Cross-faction battlegrounds"] = "OY KULLANILDI - Irklar arası [Cross-faction] Savaş Alanları",
     ["[Close]"]="[Kapat]",
+    ["How can I help?"]="Nasıl yardımcı olabilirim?",
+    ["Please, install the telescopic lens!"] = "Lütfen teleskopik merceği takın!",
 }
