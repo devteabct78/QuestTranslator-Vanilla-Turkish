@@ -23484,7 +23484,7 @@ QuestTranslator_QuestData = {
 -- Boğaz Boğaza Bir İyilik
     ["40551"] = {
     ["Title"]="Boğaz Boğaza Bir İyilik",
-    ["Description"]="Ben bunu tercüme etmekle meşgulken, sen de bana yardım et. Kolay. Stranglethorn (Dikenliboğaz) Vadisi'nden bir şeye ihtiyacım var. Biliyorum, uzak ama neyse ki seni doğrudan Booty Bay'e (Ganimet Körfezi) götürecek güzel bir gemimiz var! Harika, değil mi? Kuzey bölgesinde, bir gölün falan yakınında bazı madencilik faaliyetlerinin yürütüldüğünü duydum. Hem de rakibimiz Venture Şirketi (Risk Şirketi) tarafından. Oraya gitmeni ve onlardan bazı şeyler, ııı, ödünç almanı istiyorum. Kazı yaptıkları 'şeyden' bana 10 örnek getir. Mavi kristaller olduğunu duydum. Onları cesetlerinin üzerinde bulabileceğini düşünüyorum. Ama bunu benden duymuş olma.",
+    ["Description"]="Ben bunu tercüme etmekle meşgulken, sen de bana yardım et. Kolay. Stranglethorn (Dikenliboğaz) Vadisi'nden bir şeye ihtiyacım var. Biliyorum, uzak ama neyse ki seni doğrudan Booty Bay'e (Ganimet Koyu) götürecek güzel bir gemimiz var! Harika, değil mi? Kuzey bölgesinde, bir gölün falan yakınında bazı madencilik faaliyetlerinin yürütüldüğünü duydum. Hem de rakibimiz Venture Şirketi (Risk Şirketi) tarafından. Oraya gitmeni ve onlardan bazı şeyler, ııı, ödünç almanı istiyorum. Kazı yaptıkları 'şeyden' bana 10 örnek getir. Mavi kristaller olduğunu duydum. Onları cesetlerinin üzerinde bulabileceğini düşünüyorum. Ama bunu benden duymuş olma.",
     ["Objectives"]="Ratchet'taki (Çarklı) Sputtervalve (Gevşekvalf) için Stranglethorn Vadisi'ndeki Venture Şirketi'nden 10 adet Garip Mavi Parça getir.",
     ["Progress"]="Aldın mı?",
     ["Completion"]="Hah, iyi iş. Umarım çok fazla Venture Şti. çalışanını ortadan kaldırmak zorunda kalmamışsındır... Ve umarım sigortaları bunu karşılıyordur! <Sputtervalve güler.> Hadi şu şeyi tercüme etmeye başlayalım.",
@@ -44236,12 +44236,12 @@ QuestTranslator_QuestData = {
     -- Old Bonds -> Eski Bağlar (Old + Bonds). Appreciate delivery know means promise long ago uphold end bargain pillage areas goods information -> bu teslimat için ne kadar minnettar olsam da ne anlama geldiğini bizzat biliyorum pazarlığın kendi payına düşen kısmını yerine getirmek için çok uzun zaman önce bir söz verdim bazı mallar ve bilgiler karşılığında ona verdiğim bölgeleri yağmalamasını (pillage) arzuluyordum.
     -- Jade crew fulfilled aint no rat keep bond -> bir süre önce eski ekibimizi (crew) dağıtan Jade'in katilini arıyor ve artık o kendi payına düşeni bizzat yerine getirdiğine göre ben de aynısını yapacağım ben muhbir (rat) değilim bağıma sadık kalırım. Jade kalmıştır.
     -- Hit break up Wally Wisecrack Syndicate Boys 'Slip' revenge weapon unleash miserable prick -> bizi dağıtmak için darbeyi (hit) organize eden kişi Wally Wisecrack adıyla biliniyordu şimdi o Sendika Çocuklarıyla (Syndicate Boys) takılıyor gerçi 'Slip'in bunu bildiğinden eminim bir kez 'Slip'e her şeyin arkasındaki kişinin bu olduğunu söylediğinde şüphesiz intikam isteyecektir.
-    -- Wally Wisecrack -> Wally Şakacı kalmıştır (Wise + crack), Syndicate Boys -> Sendika Çocukları (Syndicate + Boys), 'Slip' -> 'Slip' kalmıştır, Booty Bay = Ganimet Körfezi (Booty Bay).
+    -- Wally Wisecrack -> Wally Şakacı kalmıştır (Wise + crack), Syndicate Boys -> Sendika Çocukları (Syndicate + Boys), 'Slip' -> 'Slip' kalmıştır, Booty Bay = Ganimet Koyu (Booty Bay).
     -- Two faced piece of rat filth weapon unleash miserable prick -> iki yüzlü lağım faresi pisliği (piece of rat filth) intikamımı alacağım ve sen bu sefil pisliğin (miserable prick) üzerine salacağım silah bizzat olacaksın.
     ["40225"] = {
     ["Title"]="Eski Bağlar",
     ["Description"]="Bu teslimat için ne kadar minnettar olsam da ne anlama geldiğini bizzat biliyorum. Pazarlığın (bargain) kendi payına düşen kısmını yerine getirmek için çok uzun zaman önce bir söz verdim. Bazı mallar ve bilgiler karşılığında ona verdiğim bölgeleri yağmalamasını (pillage) arzuluyordum. Bir süre önce eski ekibimizi (crew) dağıtan Jade'in katilini arıyor ve artık o kendi payına düşeni yerine getirdiğine göre ben de aynısını yapacağım, ben muhbir (rat) değilim, bağıma sadık kalırım. Bizi dağıtmak için darbeyi (hit) organize eden kişi Wally Wisecrack adıyla biliniyordu, şimdi o Sendika Çocuklarıyla (Syndicate Boys) takılıyor, gerçi 'Slip'in bunu bildiğinden bizzat eminim. Bir kez 'Slip'e her şeyin arkasındaki kişinin bu olduğunu söylediğinde, şüphesiz intikam isteyecektir.",
-    ["Objectives"]="Bilgileri Ganimet Körfezi'ndeki (Booty Bay) 'Slip'e ulaştır.",
+    ["Objectives"]="Bilgileri Ganimet Koyu'ndeki (Booty Bay) 'Slip'e ulaştır.",
     ["Progress"]="Evet?",
     ["Completion"]="Demek pazarlığın kendi payına düşen kısmını bizzat yerine getirdi... Wally Wisecrack ha, o iki yüzlü lağım faresi pisliği (piece of rat filth)! İntikamımı alacağım ve sen bu sefil pisliğin (miserable prick) üzerine salacağım silah olacaksın.",
     ["minlevel"]="0",
@@ -46159,12 +46159,12 @@ QuestTranslator_QuestData = {
 
 -- They Took Our Dragon!
     -- Lunar Festival = Ay Festivali (Lunar + Festival), satyr -> satır, firework -> havai fişek.
-    -- Booty Bay = Ganimet Körfezi (Booty + Bay), Pandaria = Pandaria, Moonglade = Ayyarığı, dragon serpent -> ejderha yılanı.
+    -- Booty Bay = Ganimet Koyu (Booty + Bay), Pandaria = Pandaria, Moonglade = Ayyarığı, dragon serpent -> ejderha yılanı.
     -- Lorgus Jett -> Lorgus Jett kalmıştır, cultist -> tarikatçı, Blackfathom Deeps = Karaderinlik Yarıkları kalmıştır (Black + fathom + Deeps).
     -- Lunar Festival Vendor -> Ay Festivali Satıcısı.
     ["80740"] = {
     ["Title"]="Ejderhamızı Aldılar!",
-    ["Description"]="YOUR_NAME, Ay Festivali'nin (Lunar Festival) sana bizzat ihtiyacı var! Kutlamalar sırasında sinsi bir satır (satyr) içeri sızdı ve en özel havai fişeğimizi bizzat çaldı. Ganimet Körfezi'nin (Booty Bay) Goblinlerinden almayı bizzat başardığım özel bir havai fişek türüydü. Ta Pandaria'dan (Pandaria) geldiğini iddia eden gezgin bir tüccardan bunu bizzat satın almayı başardığını iddia ediyor. NEW_LINE Güzelliği, bir ejderha yılanı (dragon serpent) şeklinde Ayyarığı'nın (Moonglade) tüm gökyüzünü bizzat kaplardı. Onu geri almalısın! Bu yılki Ay Etkinliği için en büyük bizzat sürprizimiz olması gerekiyordu. NEW_LINE Şenlikçilere inanılacak olursa, bu satır Karaderinlik Yarıkları'nda (Blackfathom Deeps) saklanan hırsız bir tarikatçı olan Lorgus Jett'in emriyle bizzat gelmiş. Ödülümü geri al, ben de sana bizzat seninkini sunayım!",
+    ["Description"]="YOUR_NAME, Ay Festivali'nin (Lunar Festival) sana bizzat ihtiyacı var! Kutlamalar sırasında sinsi bir satır (satyr) içeri sızdı ve en özel havai fişeğimizi bizzat çaldı. Ganimet Koyu'nin (Booty Bay) Goblinlerinden almayı bizzat başardığım özel bir havai fişek türüydü. Ta Pandaria'dan (Pandaria) geldiğini iddia eden gezgin bir tüccardan bunu bizzat satın almayı başardığını iddia ediyor. NEW_LINE Güzelliği, bir ejderha yılanı (dragon serpent) şeklinde Ayyarığı'nın (Moonglade) tüm gökyüzünü bizzat kaplardı. Onu geri almalısın! Bu yılki Ay Etkinliği için en büyük bizzat sürprizimiz olması gerekiyordu. NEW_LINE Şenlikçilere inanılacak olursa, bu satır Karaderinlik Yarıkları'nda (Blackfathom Deeps) saklanan hırsız bir tarikatçı olan Lorgus Jett'in emriyle bizzat gelmiş. Ödülümü geri al, ben de sana bizzat seninkini sunayım!",
     ["Objectives"]="Ejderha Havai Fişeği'ni (Dragon Firework) Karaderinlik Yarıkları'ndaki (Blackfathom Deeps) Lorgus Jett'ten geri al ve Ayyarığı'ndaki Ay Festivali Satıcısı'na (Lunar Festival Vendor) dön.",
     ["Progress"]="Mutlu Ay Festivalleri bizzat!",
     ["Completion"]="Oh, sensin! Ve onu geri bizzat aldın. Elune'un kendisi nezaketin için sana bizzat teşekkür ediyor. İşte senin için bizzat bir sürpriz.",
@@ -49452,7 +49452,7 @@ QuestTranslator_QuestData = {
     ["Description"]="<Nezzliok'un kafası konuşur.>\n\nBu doğru. Karanlıkkökenlilerin (Darkspears) çocuğunun nereye götürüldüğünü biliyorum. Beni yendin ve ruhumu bağladın ama karşılığını vermeden hiçbir şey söylemem!\n\nKanlısaçlar (Bloodscalps) Kafatasıyaranlar (Skullsplitters) ile savaşıyor. Benim lütfumu kazanmak için, Kafatasıyaranlar'dan 3 tane ganimet kafatası çal ve onları burada bizimle birlikte yerleştir, böylece ruhum Nether'da kölelere sahip olacak. Kafataslarından biri Balia'mah'taki ganimet yığınlarından, diğeri Ziata'jai'den ve sonuncusu Zul'Mamwe'den olmalı.",
     ["Objectives"]="Balia'mah Ganimeti'ni, Ziata'jai Ganimeti'ni ve Zul'Mamwe Ganimeti'ni Grom'gol Üs Kampı'ndaki Kaynayan Kazan'a getir.",
     ["Progress"]="Kafataslarını bekliyorum...",
-    ["Completion"]="Evet. Bunlar işime yarayacak. Ruhum özgür kaldığında, Nether'a üç güzel hizmetkarla gireceğim!\n\nSen <race> klanın için bir gurur kaynağısın ve beni yatıştırdın.",
+    ["Completion"]="Evet. Bunlar işime yarayacak. Ruhum özgür kaldığında, Nether'a üç güzel hizmetkarla gireceğim!\n\nSen YOUR_RACE klanın için bir gurur kaynağısın ve beni yatıştırdın.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Speaking with Nezzliok
@@ -49734,7 +49734,7 @@ QuestTranslator_QuestData = {
     -- Tiger Mastery
     ["188"] = {
     ["Title"]="Kaplan Ustalığı",
-    ["Description"]="Sana sunacağım son meydan okuma bu. Haftalardır kaçak bir kaplanın izini sürüyoruz. Canavara Sin'Dall diyoruz. Bakalım daha önce hiçbir <race>'in yapmadığını yapabilecek misin: Sin'Dall'ı avla ve öldür. Başarını kanıtlamak için bana pençesini getir.\n\nOnu izini sürüp bulmak hiç kolay bir iş olmayacak.",
+    ["Description"]="Sana sunacağım son meydan okuma bu. Haftalardır kaçak bir kaplanın izini sürüyoruz. Canavara Sin'Dall diyoruz. Bakalım daha önce hiçbir YOUR_RACE'in yapmadığını yapabilecek misin: Sin'Dall'ı avla ve öldür. Başarını kanıtlamak için bana pençesini getir.\n\nOnu izini sürüp bulmak hiç kolay bir iş olmayacak.",
     ["Objectives"]="Nesingwary Keşif Heyeti'nden Ajeck Rouack, Sin'Dall'ı öldürmeni ve pençesiyle geri dönmeni istiyor.",
     ["Progress"]="Sin'Dall avı nasıl gidiyor?",
     ["Completion"]="Gerçekten çok etkileyici! Sen gerçek bir Usta Kaplan Avcısısın, YOUR_NAME!",
@@ -50490,7 +50490,7 @@ QuestTranslator_QuestData = {
     ["Description"]="Eğer herhangi bir şeyi çevireceksem, kehanet gözlüklerime ihtiyacım olacak. Ne yazık ki onlar epey zaman önce eski en iyi arkadaşım Stewvul tarafından çalındı. Kalbimi beş yerinden kırdı ve sonra beni burada çürümeye bıraktı.\n\nGüvenilir kristal küremin yardımıyla nerede olduğunu belirledim; ya Gümüşçam'daki Griyele Suru'nda ya da Outland'de şu anda Yanan Lejyon tarafından istila edilmekte olan bir portal dünyasında. Onu takip edip gözlüklerimi geri almalısın, YOUR_NAME!",
     ["Objectives"]="Narain Soothfancy, eski en iyi arkadaşı Stewvul'u bulmanı ve Stewvul'un kendisinden çaldığı kehanet gözlüklerini geri almanı istiyor.",
     ["Progress"]="",
-    ["Completion"]="Beni bulduğuna inanamıyorum. Outland'deyken onu kaybettiğimden emindim. Oraya geri dönmüyorum, <race>! Hiçbir şekilde! Onun yarı zamanlı en iyi arkadaşı ve tam zamanlı kölesi olmaktan bıktım.",
+    ["Completion"]="Beni bulduğuna inanamıyorum. Outland'deyken onu kaybettiğimden emindim. Oraya geri dönmüyorum, YOUR_RACE! Hiçbir şekilde! Onun yarı zamanlı en iyi arkadaşı ve tam zamanlı kölesi olmaktan bıktım.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Stewvul, Ex-B.F.F.
@@ -50500,7 +50500,7 @@ QuestTranslator_QuestData = {
     ["Title"]="Ektoplazma Avı",
     ["Description"]="Mühendislik harikası bir parça, kendim söyledim diye demiyorum! İhtiyacımız olan bedensiz hortlakları bulmak için biraz seyahat etmeniz gerekecek, korkarım.\n\nGörüyorsunuz ya, farklı iklimler ölülerin ruhani dokusuna farklı kıvamlar verir. Silithus'un işkence görmüş gece elf ruhları, Kışpınarı'nın soylu ruhları ve Doğu Doğu Veba Toprakları'nın hayaletleri ve banşileri bize ihtiyacımız olan farklı ektoplazma türlerini vermelidir. Onları toplamadan önce damıtıcıyı yakına yerleştirdiğinizden emin olun!",
     ["Objectives"]="Bedensiz hortlakların yakınında Ektoplazmik Damıtıcı'yı kullanarak Silithus'ta 12 Kavrulmuş Ektoplazma, Kışpınarı'nda 12 Donmuş Ektoplazma ve Doğu Veba Toprakları'nda 12 Kararlı Ektoplazma topla. Bunları Ektoplazmik Damıtıcı ile birlikte Gadgetzan'daki Mux Manascrambler'a geri getir.",
-    ["Progress"]="Ektoplazmayı topladın mı, <race>?",
+    ["Progress"]="Ektoplazmayı topladın mı, YOUR_RACE?",
     ["Completion"]="Evet, bunlar harika iş görecek!\n\nBu maddelerin içinde barındırdığı ötealem enerjilerinden yararlanarak, ruhları henüz bu dünyayı terk etmemiş olanlara ulaşabileceğiz!",
     ["minlevel"]="0",
     ["questlevel"]="0",
@@ -50533,7 +50533,7 @@ QuestTranslator_QuestData = {
     ["Title"]="OOX-17/TN'yi Bul!",
     ["Description"]="Metalden yapılmış garip, yumurta şeklinde bir cihaz ortaya çıkardın. Düğmelerinden biriyle oynamak yumurtaya hayat verir ve bir tür cüce robotik mekanizmaya açılır! Robotik yumurtanın içinden cızırtılı bir ses gelir.\n\n\"Adım Oglethorpe ve yön bulma robotum kayboldu! Onu bulursan seni ödüllendireceğim! Lütfen bu sinyal vericisini robota götür. Mükemmel, şimdi senin için koordinatları hesapladım! Tanaris'teki Yarık Uçurum yakınlarına düştü!\"",
     ["Objectives"]="Tehlike sinyali vericisini Oglethorpe'un yön bulma robotuna götür.",
-    ["Progress"]="Görünüşe göre bir... robotik tavuk enkazı çıkardın? Yumurtanın içindeki ses yine cızırdayarak canlanıyor:\n\n\"Evet, mükemmel iş! Bu gerçekten benim yön bulma robotum, ancak sensörlerim tamir için Ganimet Körfezi'ne geri uçabilmesi için önce takviyeye ihtiyacı olduğunu gösteriyor. Devam et ve sinyal vericiyi gezginin içine yerleştir. Sinyal verici gerisini halledecektir!\"",
+    ["Progress"]="Görünüşe göre bir... robotik tavuk enkazı çıkardın? Yumurtanın içindeki ses yine cızırdayarak canlanıyor:\n\n\"Evet, mükemmel iş! Bu gerçekten benim yön bulma robotum, ancak sensörlerim tamir için Ganimet Koyu'ne geri uçabilmesi için önce takviyeye ihtiyacı olduğunu gösteriyor. Devam et ve sinyal vericiyi gezginin içine yerleştir. Sinyal verici gerisini halledecektir!\"",
     ["Completion"]="Yumurta... tehlike sinyal vericisini... tavuk... yön bulma robotunun içine yerleştiriyorsun.\n\nAyağa kalkmakta zorlanan robotun içinden vızıltılar ve mırıltılar duyulur. Robot canlandıktan sonra, Oglethorpe'un sesi bir kez daha duyulur, ancak artık robotun içinden:\n\n\"OOX-17/TN en azından çalışıyor ama büyük tamiratlara ihtiyacı var! Onu taşıman için çok ağır... ama sanırım bir fikrim var. Ona biraz daha göz kulak olmaya var mısın?\"",
     ["minlevel"]="0",
     ["questlevel"]="0",
@@ -50623,8 +50623,8 @@ QuestTranslator_QuestData = {
     -- Rescue OOX-17/TN!
     ["648"] = {
     ["Title"]="OOX-17/TN'yi Kurtar!",
-    ["Description"]="Cücenin sesi robottan bir kez daha cızırdayarak gelir:\n\n\"Uzun kalkış prosedürüne başlayabilmesi için OOX-17/TN'yi açık ve güvenli bir yere taşımam gerekiyor. Yerleşik pelerinleme özelliği var ama tekrar çalışır hale getirmek için kendi tarafımda zamana ihtiyacım var. Robotu şu anki konumundan, diyelim ki Steamwheedle Limanı'na kadar korumanı istiyorum! İşleri rayına oturtmak için mükemmel ve yeterince uzun bir yer olmalı!\"\n\n\"Onu limana güvenle götür ve sonra Ganimet Körfezi'nde benimle konuş! Oglethorpe Obnoticus - bitti!\"",
-    ["Objectives"]="OOX-17/TN'ye Steamwheedle Limanı'na kadar eşlik et, ardından Ganimet Körfezi'ndeki Oglethorpe Obnoticus'a rapor ver.",
+    ["Description"]="Cücenin sesi robottan bir kez daha cızırdayarak gelir:\n\n\"Uzun kalkış prosedürüne başlayabilmesi için OOX-17/TN'yi açık ve güvenli bir yere taşımam gerekiyor. Yerleşik pelerinleme özelliği var ama tekrar çalışır hale getirmek için kendi tarafımda zamana ihtiyacım var. Robotu şu anki konumundan, diyelim ki Steamwheedle Limanı'na kadar korumanı istiyorum! İşleri rayına oturtmak için mükemmel ve yeterince uzun bir yer olmalı!\"\n\n\"Onu limana güvenle götür ve sonra Ganimet Koyu'nde benimle konuş! Oglethorpe Obnoticus - bitti!\"",
+    ["Objectives"]="OOX-17/TN'ye Steamwheedle Limanı'na kadar eşlik et, ardından Ganimet Koyu'ndeki Oglethorpe Obnoticus'a rapor ver.",
     ["Progress"]="",
     ["Completion"]="Ah, OOX-17/TN'nin büyük kurtarıcısı SENSİN! Yardımların için teşekkürlerimi ifade etmeye nereden başlayacağımı bilemiyorum! Yön bulma robotu serimin daha fazla geliştirilmeye ihtiyacı var ama onu kurtarman bana sayısız saatlik yeniden yapım süresi ve yeniden bağlama masraflarında birçok altın kazandırdı!\n\nLütfen elimdeki bu eşyalardan dilediğini seç. Umarım birini iyi günlerde kullanırsın. Cömert yardımın için tekrar teşekkürler, robotlarım ve ben sana borçluyuz!",
     ["minlevel"]="0",
@@ -50838,8 +50838,8 @@ QuestTranslator_QuestData = {
 
     -- Help A Gnome Out
     ["60010"] = {
-    ["Title"]="Bir Cüceye Yardım Et",
-    ["Description"]="Hey, <race>, aşağıdayım! Eğer boş vaktin varsa gerçekten yardımına ihtiyacım olabilir.\n\nGörüyorsun ya, Un'Goro Krateri'nde Dadanga adında bir kodo var. Onları kan yapraklarıyla beslersen sana bir hediye verdiklerini duydum. Kulağa bu hediyenin içinde güzel bir sürpriz olabilirmiş gibi geliyor ve ben sürprizleri severim!\n\nHer neyse, bu kan yaprağı filizleri kraterin her yerinde bulunuyor ve ben de birazını ele geçirmek isterim. Bana 30 Kan Yaprağı Filizi getir, ben de sana ödeme yapayım. Hatta sana orijinal tariflerimden biriyle pişirdiğim bir şey bile vereceğim!",
+    ["Title"]="Bir Gnome'a Yardım Et",
+    ["Description"]="Hey, YOUR_RACE, aşağıdayım! Eğer boş vaktin varsa gerçekten yardımına ihtiyacım olabilir.\n\nGörüyorsun ya, Un'Goro Krateri'nde Dadanga adında bir kodo var. Onları kan yapraklarıyla beslersen sana bir hediye verdiklerini duydum. Kulağa bu hediyenin içinde güzel bir sürpriz olabilirmiş gibi geliyor ve ben sürprizleri severim!\n\nHer neyse, bu kan yaprağı filizleri kraterin her yerinde bulunuyor ve ben de birazını ele geçirmek isterim. Bana 30 Kan Yaprağı Filizi getir, ben de sana ödeme yapayım. Hatta sana orijinal tariflerimden biriyle pişirdiğim bir şey bile vereceğim!",
     ["Objectives"]="Reas'ın Gadgetzan'da kendisine 30 Kan Yaprağı Filizi getirmeni istediğinden oldukça eminsin.",
     ["Progress"]="Çiçekleri aldın mı? Umarım Dadanga bana iksir tarifini yakında verir. Para bitmek üzere...",
     ["Completion"]="Hey, işte buradayız! Teşekkürler! Söz verdiğim gibi, biraz para ve biraz pizza şişesi!\n\nOh, bunlardan bahsetmemiş miydim?",
@@ -50864,7 +50864,7 @@ QuestTranslator_QuestData = {
     ["Description"]="Tanaris çölüne gidecek, oraya özgü fesleğenlerin, akreplerin ve sırtlanların doku kıvamını test edeceksin. Doku örnekleri elde et ve yanındaki test kitiyle bunları kullan; örneklerin bir kısmının başarısız olmasını bekle. Her yaratık türünden kabul edilebilir sekiz örnek gerekiyor.\n\nAyrıca Gadgetzan goblinlerinin elinde bu tür değiştirilmiş bir kitle kullanılması gereken bir güç kaynağı var. Başmühendis Bilgewhizzle ile konuş ve kit için bir tane edin.\n\nBana sadece başarılı olduğunda dön.",
     ["Objectives"]="Test kiti için bir güç kaynağı edinme konusunda Gadgetzan'daki Başmühendis Bilgewhizzle ile konuş.",
     ["Progress"]="",
-    ["Completion"]="Ah, model 4711-FTZ güç kaynaklarımız! Normalde bunları su kuyularına güç sağlamak için kullanırız ama AŞAĞILIK GÖÇEBELER SAYESİNDE şu anda elimizde bolca güç kaynağı var.\n\nTabii ki, benden saklamaya çalıştığını düşündüğün her ne haince bilimsel deneyse onun için sana bir güç kaynağı verebilirim. Yine de bedava olmayacak, <race>. Gadgetzan'da hiçbir şey bedava değildir.",
+    ["Completion"]="Ah, model 4711-FTZ güç kaynaklarımız! Normalde bunları su kuyularına güç sağlamak için kullanırız ama AŞAĞILIK GÖÇEBELER SAYESİNDE şu anda elimizde bolca güç kaynağı var.\n\nTabii ki, benden saklamaya çalıştığını düşündüğün her ne haince bilimsel deneyse onun için sana bir güç kaynağı verebilirim. Yine de bedava olmayacak, YOUR_RACE. Gadgetzan'da hiçbir şey bedava değildir.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Into the Field
@@ -50927,8 +50927,8 @@ QuestTranslator_QuestData = {
     -- Deliver to MacKinley
     ["2874"] = {
     ["Title"]="MacKinley'e Teslim Et",
-    ["Description"]="Yardımın için tekrar teşekkürler, YOUR_NAME. İşte bir şişe Steamwheedle sintine romu. Onu MacKinley'e götür, o da sonunda Ganimet Körfezi içkileri hakkındaki çılgınca inançlarını rafa kaldırsın.",
-    ["Objectives"]="Stoley'nin Şişesi'ni Ganimet Körfezi'ndeki \"Deniz Kurdu\" MacKinley'e götür.",
+    ["Description"]="Yardımın için tekrar teşekkürler, YOUR_NAME. İşte bir şişe Steamwheedle sintine romu. Onu MacKinley'e götür, o da sonunda Ganimet Koyu içkileri hakkındaki çılgınca inançlarını rafa kaldırsın.",
+    ["Objectives"]="Stoley'nin Şişesi'ni Ganimet Koyu'ndeki \"Deniz Kurdu\" MacKinley'e götür.",
     ["Progress"]="Stoley içkimi çıkardı mı?",
     ["Completion"]="Hm, bir deneyelim bakalım...\n\nİnanşamıyorum! Bu şey... berbat! Bu harika!\n\nSanırım Stoley bana olan borcunu tutabilir. Steamwheedle sintine romu hakkındaki sözünün arkasında durdu. Bu şey çakıl kadar koyu ve lav gibi yakıyor!",
     ["minlevel"]="0",
@@ -51191,7 +51191,7 @@ QuestTranslator_QuestData = {
     -- Stoley's Shipment
     ["2873"] = {
     ["Title"]="Stoley'nin Sevkiyatı",
-    ["Description"]="Bir iddianın sonucunu kapatmak için Ganimet Körfezi'ndeki \"Deniz Kurdu\" MacKinley'e biraz rom borcum var ama romum tükendi! Kaptan Cuergo son sevkiyatımı çaldı ve onu güneydeki o surlarla çevrili korsan kasabasında saklıyor.\n\nRom sevkiyatımı bulup bana geri getirebilirsen, MacKinley'e Kalimdor içkisinin Ganimet Körfezi içkisini suya götürüp susuz getireceğini kanıtlayabilirim!",
+    ["Description"]="Bir iddianın sonucunu kapatmak için Ganimet Koyu'ndaki \"Deniz Kurdu\" MacKinley'e biraz rom borcum var ama romum tükendi! Kaptan Cuergo son sevkiyatımı çaldı ve onu güneydeki o surlarla çevrili korsan kasabasında saklıyor.\n\nRom sevkiyatımı bulup bana geri getirebilirsen, MacKinley'e Kalimdor içkisinin Ganimet Koyu içkisini suya götürüp susuz getireceğini kanıtlayabilirim!",
     ["Objectives"]="Stoley'nin Sevkiyatı'nı Steamwheedle Limanı'ndaki Stoley'e getir.",
     ["Progress"]="Rom sevkiyatımı buldun mu, YOUR_NAME?",
     ["Completion"]="Harika, sevkiyat için teşekkürler! Artık MacKinley ve ben nihayet bahsimizi kapatabiliriz.",
@@ -51224,7 +51224,7 @@ QuestTranslator_QuestData = {
     -- Ship Schedules
     ["2876"] = {
     ["Title"]="Gemi Tarifeleri",
-    ["Description"]="Bu parşömen, Steamwheedle Limanı ile Ganimet Körfezi arasındaki sevkiyat tarifelerini içeriyor. Gemilerin isimleri, bazı gemilerin seferlerinin yanında büyük 'X' işaretleri ve diğerlerinin yanında \"BÜYÜK GANİMET\" ve \"ÇETİN DÖVÜŞ\" gibi açıklamalarla hem geçmiş hem de gelecekteki sevkiyatlar dahil edilmiş.\n\nSteamwheedle Limanı'ndan biri bu belgeyi görmek isterdi.",
+    ["Description"]="Bu parşömen, Steamwheedle Limanı ile Ganimet Koyu arasındaki sevkiyat tarifelerini içeriyor. Gemilerin isimleri, bazı gemilerin seferlerinin yanında büyük 'X' işaretleri ve diğerlerinin yanında \"BÜYÜK GANİMET\" ve \"ÇETİN DÖVÜŞ\" gibi açıklamalarla hem geçmiş hem de gelecekteki sevkiyatlar dahil edilmiş.\n\nSteamwheedle Limanı'ndan biri bu belgeyi görmek isterdi.",
     ["Objectives"]="Gemi Tarifeleri'ni Steamwheedle Limanı'ndaki bir yetkiliye bildir.",
     ["Progress"]="Nefes nefese kalmış görünüyorsun. Bana söyleyecek bir şeyin mi var?",
     ["Completion"]="Aman Tanrım, bu tam zamanları ve tarihleriyle birlikte gemi kalkış ve varışlarının bir listesi gibi görünüyor! Bir korsan gemisinin kaptanı bunu ele geçirseydi gününü gün ederdi!\n\nBunu bir korsandan aldığını mı söylüyorsun? Şey, bu rahatsız edici bir haber...\n\nTeşekkür ederim, YOUR_NAME. Onu ondan aldığın için memnunum ve o korsanın şu anda toprak yediğine memnunum!",
@@ -51262,7 +51262,7 @@ QuestTranslator_QuestData = {
     ["Description"]="",
     ["Objectives"]="",
     ["Progress"]="",
-    ["Completion"]="Eranikus, Vaelastrasz ve Azuregos... Bu ejderhaları bildiğinden şüphem yok ölümlü. Dünyamızın gözcüleri olarak bu kadar etkili roller oynamış olmaları tesadüf değil.\n\nNe yazık ki (ve bunda kendi saflığımın da payı var) ister Eski Tanrıların ajanları olsun ister arkadaş diyeceklerinin ihaneti olsun, her koruyucu trajediye kurban gitti. Bunların boyutu benim kendi türüne karşı olan güvensizliğimi körükledi.\n\nOnları ara... Ve <race>, kendini en kötüsüne hazırla.",
+    ["Completion"]="Eranikus, Vaelastrasz ve Azuregos... Bu ejderhaları bildiğinden şüphem yok ölümlü. Dünyamızın gözcüleri olarak bu kadar etkili roller oynamış olmaları tesadüf değil.\n\nNe yazık ki (ve bunda kendi saflığımın da payı var) ister Eski Tanrıların ajanları olsun ister arkadaş diyeceklerinin ihaneti olsun, her koruyucu trajediye kurban gitti. Bunların boyutu benim kendi türüne karşı olan güvensizliğimi körükledi.\n\nOnları ara... Ve YOUR_RACE, kendini en kötüsüne hazırla.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end The Charge of the Dragonflights
@@ -51270,8 +51270,8 @@ QuestTranslator_QuestData = {
     -- Don’t tell the Others
     ["41985"] = {
     ["Title"]="Diğerlerine Söyleme",
-    ["Description"]="Evlat, yardıma ihtiyacım var! Noggenfogger, simya araştırmalarındaki bir atılımı kutlamak için Steamwheedle'da büyük bir parti vermeyi planlıyor, ben de pek anlamıyorum ya. Anladığım şey, tüm Gadgetzan halkı için dört gün içinde on iki çeşit yemek pişirmemi beklemesi! Malzemelerim olabilir ama emektar fırınım bu kadar büyük siparişler için yapılmadı. Ocağım hazır olsaydı keşke…\n\nTamam, dinle. Yemek pişirme dünyasındaki dahi bir yeni icadın planlarını…\n\n<Dirge eliyle ağzını kapatarak daha da yaklaşır.>\n\nGanimet Körfezi'ndeki Oglethorpe Obnoticus'a verdim; ama bunu yüksek sesle söyleme! Oraya git ve ondan sipariş ettiğim ocağı bitirmesini iste. Hayatım buna bağlı!",
-    ["Objectives"]="Ganimet Körfezi'ndeki Oglethorpe Obnoticus'tan tamamlanmış ocağı al ve Gadgetzan'daki Dirge Quikcleave'e getir.",
+    ["Description"]="Evlat, yardıma ihtiyacım var! Noggenfogger, simya araştırmalarındaki bir atılımı kutlamak için Steamwheedle'da büyük bir parti vermeyi planlıyor, ben de pek anlamıyorum ya. Anladığım şey, tüm Gadgetzan halkı için dört gün içinde on iki çeşit yemek pişirmemi beklemesi! Malzemelerim olabilir ama emektar fırınım bu kadar büyük siparişler için yapılmadı. Ocağım hazır olsaydı keşke…\n\nTamam, dinle. Yemek pişirme dünyasındaki dahi bir yeni icadın planlarını…\n\n<Dirge eliyle ağzını kapatarak daha da yaklaşır.>\n\nGanimet Koyu'ndeki Oglethorpe Obnoticus'a verdim; ama bunu yüksek sesle söyleme! Oraya git ve ondan sipariş ettiğim ocağı bitirmesini iste. Hayatım buna bağlı!",
+    ["Objectives"]="Ganimet Koyu'ndeki Oglethorpe Obnoticus'tan tamamlanmış ocağı al ve Gadgetzan'daki Dirge Quikcleave'e getir.",
     ["Progress"]="Ocak yanında mı?!",
     ["Completion"]="Şu güzelliğe bak! Şık tasarım, üstte harika bir siyah kaplama ve en önemlisi - açtığımda suratımda patlamayacak. Çok teşekkürler, YOUR_NAME. Artık Noggenfogger'ın ziyafetini düzgünce hazırlamamın önünde hiçbir engel kalmadı.\n\nİşte, tam zamanında yetiştiğin için ocağın planlarının bir kopyasını alabilirsin. Tekrar teşekkürler evlat!",
     ["minlevel"]="0",
@@ -51440,6 +51440,38 @@ QuestTranslator_QuestData = {
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end The Farraki Ancient
+    -- Tran'rek
+    -- Tran'rek -> Tran'rek (MobNpcData.lua)[cite: 1].
+    -- Krazek -> Krazek (MobNpcData.lua)[cite: 1].
+    -- Booty Bay -> Ganimet Koyu (ZoneData.lua)[cite: 2].
+    -- Gadgetzan -> Gadgetzan (ZoneData.lua)[cite: 2].
+    -- Tanaris -> Tanaris (ZoneData.lua)[cite: 2].
+    -- Kalimdor -> Kalimdor (ZoneData.lua)[cite: 2].
+    ["2864"] = {
+    ["Title"]="Tran'rek",
+    ["Description"]="Kuzenim Tran'rek zor durumda. Haftalar önce bana bir yük skarab kabuğu sözü vermişti ama hâlâ teslim etmedi. O benim kuzenim, bu yüzden Gadgetzan'a birini gönderip canını sıktırmak istemem.\n\nMümkünse benim için Tran'rek ile konuşabilir misin? Ben acele bir şey yapmadan önce o teslimatı hazırlaması gerektiğini ona bildirir misin?\n\nGadgetzan, Kalimdor'daki kuzey Tanaris'tedir.[cite: 2]",
+    ["Objectives"]="Gadgetzan'daki Tran'rek ile konuş.[cite: 1, 2]",
+    ["Progress"]="",
+    ["Completion"]="Merhaba!\n\nOh, kuzenim Krazek ile mi konuştun? Nasıl kendisi? Umarım Ganimet Koyu ona iyi davranıyordur...[cite: 1, 2]\n\nSkarab kabukları mı dedin? Şey... sana bir hikaye anlatayım...",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Tran'rek
+    -- Scarab Shells
+    -- Tran'rek -> Tran'rek (MobNpcData.lua)[cite: 1]
+    -- Gadgetzan -> Gadgetzan (ZoneData.lua)[cite: 2]
+    -- Booty Bay -> Ganimet Koyu (ZoneData.lua)[cite: 2]
+    -- Tanaris -> Tanaris (ZoneData.lua)[cite: 2]
+    -- Zul'Farrak -> Zul'Farrak (ZoneData.lua)[cite: 2]
+    -- Uncracked Scarab Shell -> Çatlamamış Skarab Kabuğu
+    ["2865"] = {
+    ["Title"]="Skarab Kabukları",
+    ["Description"]="Tanaris'in skarabları çok sert kabuklara sahiptir! Birçok şey için inşaat malzemesi olarak kullanılacak kadar sert. Pek çok şey için!\n\nAslında bu kabuklar o kadar yararlı ki... Skarablar avlana avlana neredeyse tükenme noktasına geldiler!\n\nDaha fazla skarabın nerede olduğunu biliyorum ve bana onların kabuklarını getireceğine söz verirsen nerede olduklarını sana söylerim. Söz mü?\n\nTamam, skarabların Zul'Farrak'ta bir kolonisi var. Sanırım troller onları kabukları için avlamıyor.\n\nAma sen avlayabilirsin! Zul'Farrak'a git ve bana çatlamamış kabuklar getir!",
+    ["Objectives"]="Gadgetzan'daki Tran'rek'e 5 Çatlamamış Skarab Kabuğu getir.[cite: 1, 2]",
+    ["Progress"]="Kabuklar yanında mı? Ganimet Koyu'ndeki kuzenim bir yük kabuk bekliyor ve sabırsızlanmaya başladı![cite: 2]",
+    ["Completion"]="Oh, harika! Onları getirdin!\n\nTeşekkürler, YOUR_NAME. Tam bir hayat kurtarıcısın!",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Scarab Shells
 --123456
 
 };
