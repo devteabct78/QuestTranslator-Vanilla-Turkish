@@ -51473,5 +51473,36 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end Scarab Shells
 --123456
+-- Tiara of the Deep
+    -- Tiara of the Deep -> Derinlerin Tacı
+    -- Tabetha -> Tabetha (MobNpcData.lua)[cite: 1]
+    -- Dustwallow Marsh -> Tozbatak Bataklığı (ZoneData.lua)[cite: 2]
+    -- Hydromancer Velratha -> Su Büyücüsü Velratha (MobNpcData.lua)[cite: 1]
+    -- Zul'Farrak -> Zul'Farrak (ZoneData.lua)[cite: 2]
+    -- Tanaris -> Tanaris (ZoneData.lua)[cite: 2]
+    ["2846"] = {
+    ["Title"]="Derinlerin Tacı",
+    ["Description"]="Uzun zaman önce çok güzel bir mücevhere sahiptim, Derinlerin Tacı. Ve sadece güzel olmakla kalmıyordu; onu kullanma bilgisine sahip olanlar için büyük bir güç barındırıyordu.\n\nTacın haberi Su Büyücüsü Velratha'ya ulaştığında, ona sahip olması gerekti. Evime ajanlar gönderdi ve ben uzaktayken onu çaldılar. Hırsızlar!\n\nTacımı geri istiyorum! Tanaris'teki troll şehri Zul'Farrak'a git, Velratha'yı bul ve tacı ondan söküp al. Onu bana geri getir, minnettarlığımı kazanırsın.",
+    ["Objectives"]="Derinlerin Tacı'nı Tozbatak Bataklığı'ndaki Tabetha'ya getir.[cite: 1, 2]",
+    ["Progress"]="Taç yanında mı, YOUR_NAME? Velratha bana karşı gelmenin bedelini öğrendi mi?[cite: 1]",
+    ["Completion"]="Harika! Onu buldun! Ve en az bunun kadar önemlisi--Velratha artık ona sahip değil! Teşekkür ederim, YOUR_NAME. Sana sonsuza kadar borçluyum!\n\nVe daha önce biraz... kötü kalpli geldiysem kulağına, hiç takılma. Benden çalmamış olanlara karşı çok daha sevecen bir insan olduğumu göreceksin.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Tiara of the Deep
+    -- Gahz'rilla
+    -- Wizzle Brassbolts -> Wizzle Pirinçcıvata (MobNpcData.lua)
+    -- Gahz'rilla -> Gahz'rilla (MobNpcData.lua)
+    -- Shimmering Flats -> Parıltılı Düzlükler (ZoneData.lua)
+    -- Zul'Farrak -> Zul'Farrak (ZoneData.lua)
+    -- Tanaris -> Tanaris (ZoneData.lua)
+    ["2770"] = {
+    ["Title"]="Gahz'rilla",
+    ["Description"]="Tanaris'teki kum trollü şehri Zul'Farrak'ın derinliklerinde kutsal bir havuz vardır. Troller o havuzdan devasa bir canavar çağırırlar! Gahz'rilla! O kadar vahşidir ki pulları bile enerjiyle çatırdar. Arabam için yararlanmak istediğim şey işte bu enerji!\n\nBana Gahz'rilla'nın elektrikli pulunu getir!\n\nAma Gahz'rilla'nın çağrılması trollerin iyi korunan bir sırrıdır. Onunla yüzleşmek için önce bu sırrı ellerinden söküp almalısın.",
+    ["Objectives"]="Gahz'rilla'nın Elektrikli Pulunu Parıltılı Düzlükler'deki Wizzle Pirinçcıvata'ya getir.",
+    ["Progress"]="Pula sahip misin? Enerjisinden yararlanmanın farklı yollarını denemek için sabırsızlanıyorum!",
+    ["Completion"]="Vay canına, pulu aldın! Teşekkürler, YOUR_NAME. Bu şey üzerinde çalışmaya başlamak için sabırsızlanıyorum!\n\nDemek Gahz'rilla'yı gördün? Söyledikleri kadar büyük müydü??",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Gahz'rilla
 
 };

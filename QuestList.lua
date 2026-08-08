@@ -8763,5 +8763,7 @@ QuestTranslator_QuestList = {
 ["Divino-matic Rod"]="2768",
 ["The Farraki Ancient"]="41811",
 ["Tran'rek"]="2864",
-["Scarab Shells"]="2865"
+["Scarab Shells"]="2865",
+["Tiara of the Deep"]="2846",
+["Gahz'rilla"]="2770"
 } 
