@@ -27,6 +27,10 @@ local function ApplyTurkishFont()
     end
 end
 
+-- Oyuncunun ad bilgisi
+local playerName = UnitName("player")
+local playerNameLower = string.lower(playerName or "")
+
 -- Oyuncunun sınıf bilgisi
 local playerClassEng = UnitClass("player") -- örn: "Hunter", "Warrior"
 local currentClassLower = string.lower(playerClassEng or "")
@@ -87,6 +91,22 @@ local function NormalizeText(str)
     return str
 end
 
+-- Metindeki oyuncu adını YOUR_NAME ile değiştiren yardımcı fonksiyon
+local function ReplaceNameWithTag(text, nameLower)
+    if not text or nameLower == "" then return text end
+    
+    local lowerText = string.lower(text)
+    local s, e = string.find(lowerText, nameLower, 1, true)
+    
+    if s and e then
+        local before = string.sub(text, 1, s - 1)
+        local after = string.sub(text, e + 1)
+        return before .. "YOUR_NAME" .. after
+    end
+    
+    return text
+end
+
 -- Metindeki ingilizce sınıf adını (hunter vb.) YOUR_CLASS ile değiştiren yardımcı fonksiyon
 local function ReplaceClassWithTag(text, classLower)
     if not text or classLower == "" then return text end
@@ -138,19 +158,25 @@ local function ApplyGossipTranslations()
     
     local rawGreetingText = GetGossipText();
     if rawGreetingText and QuestTranslator_GossipData then
-        -- 1. Oyundan gelen ham metindeki sınıf ve ırk adını ilgili etiketler ile değiştir
-        local textWithTag = ReplaceClassWithTag(rawGreetingText, currentClassLower)
+        -- WoW API addon yüklenirken bazen UnitName'i nil verebilir, garanti olması için tekrar çekiyoruz
+        playerName = playerName or UnitName("player")
+        playerNameLower = playerNameLower == "" and string.lower(playerName or "") or playerNameLower
+        
+        -- 1. Oyundan gelen ham metindeki ad, sınıf ve ırk adını ilgili etiketler ile değiştir
+        local textWithTag = ReplaceNameWithTag(rawGreetingText, playerNameLower)
+        textWithTag = ReplaceClassWithTag(textWithTag, currentClassLower)
         textWithTag = ReplaceRaceWithTag(textWithTag, systemRaceLower, localizedRaceLower)
         
         local targetNormalized = NormalizeText(textWithTag)
         
         for engText, trText in pairs(QuestTranslator_GossipData) do
             if NormalizeText(engText) == targetNormalized then
-                -- 2. Türkçe çevirideki etiketleri Türkçe adlarıyla değiştir
+                -- 2. Türkçe çevirideki etiketleri karşılıklarıyla değiştir
                 local trClass = classTrNames[currentClassLower] or currentClassLower
                 local trRace = raceTrNames[systemRace] or raceTrNames[localizedRace] or localizedRace
                 
-                local finalTrText = string.gsub(trText, "YOUR_CLASS", trClass)
+                local finalTrText = string.gsub(trText, "YOUR_NAME", playerName or "")
+                finalTrText = string.gsub(finalTrText, "YOUR_CLASS", trClass)
                 finalTrText = string.gsub(finalTrText, "YOUR_RACE", trRace)
                 
                 GossipGreetingText:SetText(finalTrText);
