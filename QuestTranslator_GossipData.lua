@@ -144,6 +144,7 @@ QuestTranslator_GossipData = {
     ["Years of quality breeding techniques and plenty of care allow me the privilege of showing you these horses! Please, take your time as you consider them for your mount. A horse is a companion for the ages, friend. Don't sell yourself short - get your steed here today!"] = "Yılların kaliteli yetiştirme teknikleri ve bolca bakım, bana bu atları sana gösterme ayrıcalığını veriyor! Bineğin olarak değerlendirirken lütfen acele etme. Bir at çağlar boyu bir arkadaştır dostum. Kendini ucuza çıkarma - binek atını bugün buradan al!",
     ["It has been a long time since a mortal has walked these halls. As much as I have my distaste for you all, I understand that we require your aid."] = "Bir faninin bu salonlarda yürümesinden bu yana uzun zaman geçti. Hepinizden ne kadar tiksensem de, yardımınıza ihtiyacımız olduğunu anlıyorum.",
     ["<Razjal gives you a hostile gaze.>"] = "<Razjal sana düşmanca bir bakış atıyor.>",
+
             
 }
 
@@ -167,6 +168,8 @@ QuestTranslator_OptionData = {
     ["Anything strange happen recently?"] = "Son zamanlarda tuhaf bir şey oldu mu?",
     ["Please guide me through Caverns of Time."] = "Lütfen Zaman Mağaraları [Caverns of Time] boyunca bana rehberlik edin.",
     ["Tell me more, Trenton."]="Daha fazla anlat, Trenton.",
+
+
    
 
 }
