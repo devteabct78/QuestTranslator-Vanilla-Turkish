@@ -51505,4 +51505,21 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end Gahz'rilla
 
+    -- The Gnarled Bramblehide
+    -- Calaran Windseeker -> Calaran Rüzgararayan (MobNpcData.lua)
+    -- Thalanaar -> Thalanaar (ZoneData.lua)
+    -- Feralas -> Feralas (ZoneData.lua)
+    -- Darnassus -> Darnassus (ZoneData.lua)
+    -- Razorfen Kraul -> Jiletkorusu Ağılı (ZoneData.lua)
+    -- Gnarled Brambleroot -> Budaklı Çalıkökü
+    ["41759"] = {
+    ["Title"]="Budaklı Çalıderi",
+    ["Description"]="Selamlar gezgin, ben Darnassus'lu bir druid olan Calaran Rüzgararayan. Quilboar yuvasının derinliklerinde son zamanlarda yaşanan huzursuzluğu inceliyorum. Bükülmüş dikenlerin ve doğal enerjinin oluşturduğu budaklı ukubelerin hikayelerini duydum. Bu yaratıkların quilboar efendilerine karşı bir öfkeyle tezahür ettiğinden eminim ve doğal dünyaya düzeni geri kazandırmayı amaçlıyorum. Doğanın bu varlıkları huzura kavuşturulmalı ve ben de incelemek üzere köklerini toplamak istiyorum.\n\nJiletkorusu Ağılı'nın derinliklerine gir, bu canavarları bul ve onları yok et. Bu lanetli inini doğudaki büyük asansörün yukarısında bulabilirsin; tepeye çıktığında batıya yönel ve quilboarları ara. Bana bu bükülmüş köklerden üç tane topla, ben de seni güzelce ödüllendireyim.",
+    ["Objectives"]="Feralas'taki Thalanaar'da bulunan Calaran Rüzgararayan için Jiletkorusu Ağılı içindeki Çalıderi elementallerinden 3 Budaklı Çalıkökü topla.[cite: 1, 2]",
+    ["Progress"]="Doğal düzene yönelik tehditler olduğunda yardım etmek ve dengeyi geri kazandırmak için elimizden geleni yapmalıyız.",
+    ["Completion"]="Böylesine garip bir büyü; bu yaratıkları sürükleyen o kalıcı varlığa yabancıyım.\n\nBöyle bir enerji doğal kaynaklı değil. Gerçeği bulmak için daha fazla inceleme yapmalıyım. İyi iş çıkardın, YOUR_NAME. Lütfen bu sikkeleri al, sana iyi hizmet etsinler.",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end The Gnarled Bramblehide
+
 };

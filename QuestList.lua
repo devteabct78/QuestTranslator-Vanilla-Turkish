@@ -8765,5 +8765,6 @@ QuestTranslator_QuestList = {
 ["Tran'rek"]="2864",
 ["Scarab Shells"]="2865",
 ["Tiara of the Deep"]="2846",
-["Gahz'rilla"]="2770"
+["Gahz'rilla"]="2770",
+["The Gnarled Bramblehide"]="41759"
 } 
