@@ -791,11 +791,11 @@ QuestTranslator_BookData = {
 	},
 	["Muddy Note"] = {
 		["Title"] = "Muddy Note",
-		["Text"] = "Day 1:$B6am to 11am - upper camp$B11am to 11:30 am- break, lunch$B11:30am to 4:00pm - canyon pass$B4:00pm to 7:30pm - upper camp$B$BDay 2:$BSame schedule as day 1$B$BDay 3:$BSame schedule$B$BDay 4:$BSame schedule, with one exception.  Just before sunset, Thorsen had me cover for him as he crept down the canyon pass.  I assumed he went to meet with our agents.$B$BBut he returned an hour later.  This surprised me.  I had hoped he met with our agents and would rejoin Kurzen.  Something is wrong."
+		["Text"] = "Day 1:NEW_LINE6am to 11am - upper campNEW_LINE11am to 11:30 am- break, lunchNEW_LINE11:30am to 4:00pm - canyon passNEW_LINE4:00pm to 7:30pm - upper campNEW_LINENEW_LINEDay 2:NEW_LINESame schedule as day 1NEW_LINENEW_LINEDay 3:NEW_LINESame scheduleNEW_LINENEW_LINEDay 4:NEW_LINESame schedule, with one exception.  Just before sunset, Thorsen had me cover for him as he crept down the canyon pass.  I assumed he went to meet with our agents.NEW_LINENEW_LINEBut he returned an hour later.  This surprised me.  I had hoped he met with our agents and would rejoin Kurzen.  Something is wrong."
 	},
 	["Cloth Request"] = {
 		["Title"] = "Cloth Request",
-		["Text"] = "To the Schneiders,$B$BGood day.  I trust business in the canal district is good.  We are booming here in the trader's square.$B$BWe are in need of knitted cloth goods, as our supply is all but depleted.  Please send the standard load as soon as you are able.$B$BGood fortune, and I hope your son Thurman's studies progress well,$B$B--Harlan Bagley"
+		["Text"] = "To the Schneiders,NEW_LINENEW_LINEGood day.  I trust business in the canal district is good.  We are booming here in the trader's square.NEW_LINENEW_LINEWe are in need of knitted cloth goods, as our supply is all but depleted.  Please send the standard load as soon as you are able.NEW_LINENEW_LINEGood fortune, and I hope your son Thurman's studies progress well,NEW_LINENEW_LINE--Harlan Bagley"
 	},
 	["Green Hills of Stranglethorn - Page 1"] = {
 		["Title"] = "Green Hills of Stranglethorn - Page 1",
@@ -819,7 +819,7 @@ QuestTranslator_BookData = {
 	},
 	["Green Hills of Stranglethorn - Page 11"] = {
 		["Title"] = "Green Hills of Stranglethorn - Page 11",
-		["Text"] = "On a rocky precipice above, silhouetted by the setting sun, I could make out the largest cat of prey I have ever laid eyes upon. I was able to loose one clumsy volley with my rifle, but the cat held his ground. He growled once again, this time louder than the first, and vanished.$B$BWe gathered our belongings and headed solemnly back to camp."
+		["Text"] = "On a rocky precipice above, silhouetted by the setting sun, I could make out the largest cat of prey I have ever laid eyes upon. I was able to loose one clumsy volley with my rifle, but the cat held his ground. He growled once again, this time louder than the first, and vanished.NEW_LINENEW_LINEWe gathered our belongings and headed solemnly back to camp."
 	},
 	["Green Hills of Stranglethorn - Page 14"] = {
 		["Title"] = "Green Hills of Stranglethorn - Page 14",
@@ -859,7 +859,7 @@ QuestTranslator_BookData = {
 	},
 	["Green Hills of Stranglethorn"] = {
 		["Title"] = "Green Hills of Stranglethorn",
-		["Text"] = "  The Green Hills Of Stranglethorn$b$b              By Hemet Nesingwary"
+		["Text"] = "  The Green Hills Of StranglethornNEW_LINENEW_LINE              By Hemet Nesingwary"
 	},
 	["Deprecated Book: The History of Stormwind"] = {
 		["Title"] = "Deprecated Book: The History of Stormwind",
@@ -867,7 +867,7 @@ QuestTranslator_BookData = {
 	},
 	["Verna's Westfall Stew Recipe"] = {
 		["Title"] = "Verna's Westfall Stew Recipe",
-		["Text"] = "Westfall Stew$B$B3 parts Stringy Vulture Meat$B3 Goretusk Snouts$B3 Murloc Eyes$B3 Okra$B$BMix together and bring to a boil.  Let simmer for at least two hours before serving."
+		["Text"] = "Westfall StewNEW_LINENEW_LINE3 parts Stringy Vulture MeatNEW_LINE3 Goretusk SnoutsNEW_LINE3 Murloc EyesNEW_LINE3 OkraNEW_LINENEW_LINEMix together and bring to a boil.  Let simmer for at least two hours before serving."
 	},
 	["Thurman's Letter"] = {
 		["Title"] = "Thurman's Letter",
@@ -891,7 +891,7 @@ QuestTranslator_BookData = {
 	},
 	["Deathstalker Report"] = {
 		["Title"] = "Deathstalker Report",
-		["Text"] = "Deathstalker Mission Report$B$BAgents: Rane Yorick, Quinn Yorick, Erland McKree$B$BPrimary mission: perform reconnaissance through northern silverpine, and determine threat levels of wildlife and Scourge."
+		["Text"] = "Deathstalker Mission ReportNEW_LINENEW_LINEAgents: Rane Yorick, Quinn Yorick, Erland McKreeNEW_LINENEW_LINEPrimary mission: perform reconnaissance through northern silverpine, and determine threat levels of wildlife and Scourge."
 	},
 	["Berard's Journal"] = {
 		["Title"] = "Berard's Journal",
@@ -943,11 +943,11 @@ QuestTranslator_BookData = {
 	},
 	["Sully Balloo's Letter"] = {
 		["Title"] = "Sully Balloo's Letter",
-		["Text"] = "Dun Modr of the Wetlands$B$BMy Dear Sara,$B$BThe indications are very strong that we shall move to take watch over the Thandol Span in a few days. Lest I shall not be able to write to you again. I feel impelled to write a few lines that may fall under your eye when I shall be no more."
+		["Text"] = "Dun Modr of the WetlandsNEW_LINENEW_LINEMy Dear Sara,NEW_LINENEW_LINEThe indications are very strong that we shall move to take watch over the Thandol Span in a few days. Lest I shall not be able to write to you again. I feel impelled to write a few lines that may fall under your eye when I shall be no more."
 	},
 	["Sara Balloo's Plea"] = {
 		["Title"] = "Sara Balloo's Plea",
-		["Text"] = "To My Honorable King:$B$B'Tis not the place of a lowly soldier's wife to question the actions of great leaders such as yourself. The battles that rage across our lands are being fought to preserve the great life we know and love, from the cool waters of Loch Modan to the brisk, snow-capped peaks of Dun Morogh."
+		["Text"] = "To My Honorable King:NEW_LINENEW_LINE'Tis not the place of a lowly soldier's wife to question the actions of great leaders such as yourself. The battles that rage across our lands are being fought to preserve the great life we know and love, from the cool waters of Loch Modan to the brisk, snow-capped peaks of Dun Morogh."
 	},
 	["Bonegrip's Note"] = {
 		["Title"] = "Bonegrip's Note",
@@ -1039,7 +1039,7 @@ QuestTranslator_BookData = {
 	},
 	["Covert Ops Plans: Alpha & Beta"] = {
 		["Title"] = "Covert Ops Plans: Alpha & Beta",
-		["Text"] = "Okay, you should have your NG-5 charges and detonators ready. I've labeled them for you... Blue is for the lumber mill. Red is for Windshear Mine.$B$BI did some scouting, and there are enough explosives throughout Windshear Crag that it shouldn't be a problem at all for you to get in, plant the explosives, and then get out before detonating them.$B$BRemember, this is a distraction. Get far from the wagons before the goblins get there to check out what happened, then sneak in behind them."
+		["Text"] = "Okay, you should have your NG-5 charges and detonators ready. I've labeled them for you... Blue is for the lumber mill. Red is for Windshear Mine.NEW_LINENEW_LINEI did some scouting, and there are enough explosives throughout Windshear Crag that it shouldn't be a problem at all for you to get in, plant the explosives, and then get out before detonating them.NEW_LINENEW_LINERemember, this is a distraction. Get far from the wagons before the goblins get there to check out what happened, then sneak in behind them."
 	},
 	["Lonebrow's Journal"] = {
 		["Title"] = "Lonebrow's Journal",
@@ -1107,19 +1107,19 @@ QuestTranslator_BookData = {
 	},
 	["Musty Parchment"] = {
 		["Title"] = "Musty Parchment",
-		["Text"] = "You led a quiet life of love and good deeds.   You gave to the poor, cured the sick, and comforted the dying.   You waited with joyful certain, secure in the belief that you would be granted an afterlife of everlasting peace.$B$BYou were betrayed.$B$BI cannot offer you comfort.   Revenge, on the other hand, is well within my power.   Come to the old church in Deathknell, and I will teach you how to inflict deadly damage through the very faith you were taught.$B$B   -Dark Cleric Duesten, Priest Trainer."
+		["Text"] = "You led a quiet life of love and good deeds.   You gave to the poor, cured the sick, and comforted the dying.   You waited with joyful certain, secure in the belief that you would be granted an afterlife of everlasting peace.NEW_LINENEW_LINEYou were betrayed.NEW_LINENEW_LINEI cannot offer you comfort.   Revenge, on the other hand, is well within my power.   Come to the old church in Deathknell, and I will teach you how to inflict deadly damage through the very faith you were taught.NEW_LINENEW_LINE   -Dark Cleric Duesten, Priest Trainer."
 	},
 	["Musty Scroll"] = {
 		["Title"] = "Musty Scroll",
-		["Text"] = "Revel in your new state of undeath, and wield your powers to cleanse the world of those who would see us eradicated.   Although our enemies are legion, we will destroy them with flame and shadow.$B$BWhen you are ready for me to teach you the ways of darkness and summoning you will find me in the old Deathknell church.$B$B   -Maximillion, Warlock Trainer."
+		["Text"] = "Revel in your new state of undeath, and wield your powers to cleanse the world of those who would see us eradicated.   Although our enemies are legion, we will destroy them with flame and shadow.NEW_LINENEW_LINEWhen you are ready for me to teach you the ways of darkness and summoning you will find me in the old Deathknell church.NEW_LINENEW_LINE   -Maximillion, Warlock Trainer."
 	},
 	["Musty Letter"] = {
 		["Title"] = "Musty Letter",
-		["Text"] = "Get your bones up and out of that crypt; there's work to be done!   The Scarlet Crusade moves swiftly against our people, and other humans kill us whenever they can.   We have need of your sword.$B$BWhen you want to learn more of weapons, come find me in the ruined tavern in Deathknell.   I will teach you.$B$B   -Dannal Stern, Warrior Trainer."
+		["Text"] = "Get your bones up and out of that crypt; there's work to be done!   The Scarlet Crusade moves swiftly against our people, and other humans kill us whenever they can.   We have need of your sword.NEW_LINENEW_LINEWhen you want to learn more of weapons, come find me in the ruined tavern in Deathknell.   I will teach you.NEW_LINENEW_LINE   -Dannal Stern, Warrior Trainer."
 	},
 	["Musty Missive"] = {
 		["Title"] = "Musty Missive",
-		["Text"] = "Don't get all weepy about being undead and losing your family and all that rot.   You live, and that's what matters.   Even though you are now undead, possession is still nine tenths of the law.   Sneak past your enemies, or kill them and take what they had.$B$BI can teach you what you need to know about deadly strikes and stealth.   Come look for me in the ruined tavern in Deathknell.$B$B   -David Trias, Rogue Trainer."
+		["Text"] = "Don't get all weepy about being undead and losing your family and all that rot.   You live, and that's what matters.   Even though you are now undead, possession is still nine tenths of the law.   Sneak past your enemies, or kill them and take what they had.NEW_LINENEW_LINEI can teach you what you need to know about deadly strikes and stealth.   Come look for me in the ruined tavern in Deathknell.NEW_LINENEW_LINE   -David Trias, Rogue Trainer."
 	},
 	["The Book of Ur"] = {
 		["Title"] = "The Book of Ur",
@@ -1127,19 +1127,19 @@ QuestTranslator_BookData = {
 	},
 	["Damp Diary Page (Day 4)"] = {
 		["Title"] = "Damp Diary Page (Day 4)",
-		["Text"] = "Diary - Day 4$B$BI have been stranded on the Island now for 4 days, left alone with my thoughts.   Bananas are pretty tasty, but what a long climb to reach them.  When I am not getting food or protecting myself from the periodic rain, all my thoughts are of rescue.$B$BI would not be so hopeful if it were not for the boxes of paper and bottles that washed ashore with me.  I laugh now to think of all the time I spent on that ship cursing that I was stuck with a boatload of Alchemists and Scribes."
+		["Text"] = "Diary - Day 4NEW_LINENEW_LINEI have been stranded on the Island now for 4 days, left alone with my thoughts.   Bananas are pretty tasty, but what a long climb to reach them.  When I am not getting food or protecting myself from the periodic rain, all my thoughts are of rescue.NEW_LINENEW_LINEI would not be so hopeful if it were not for the boxes of paper and bottles that washed ashore with me.  I laugh now to think of all the time I spent on that ship cursing that I was stuck with a boatload of Alchemists and Scribes."
 	},
 	["Damp Diary Page (Day 87)"] = {
 		["Title"] = "Damp Diary Page (Day 87)",
-		["Text"] = "These months have given me time to ponder, to shuffle loose my old beliefs and bigotries. Alliance? Horde? Good? Evil? The meanings of these words, once so clear, now blur as my eyes gaze across the boundless sea.$B$BI now know what matters. The bananas are after me.$B$BPerched high in their tree, they eye me with cool malevolence. And the last one I tried to eat nearly gagged me! I could almost hear it scream as I smashed it, half bitten, on sea rocks.$B$BIt's war, and I will win it."
+		["Text"] = "These months have given me time to ponder, to shuffle loose my old beliefs and bigotries. Alliance? Horde? Good? Evil? The meanings of these words, once so clear, now blur as my eyes gaze across the boundless sea.NEW_LINENEW_LINEI now know what matters. The bananas are after me.NEW_LINENEW_LINEPerched high in their tree, they eye me with cool malevolence. And the last one I tried to eat nearly gagged me! I could almost hear it scream as I smashed it, half bitten, on sea rocks.NEW_LINENEW_LINEIt's war, and I will win it."
 	},
 	["Damp Diary Page (Day 512)"] = {
 		["Title"] = "Damp Diary Page (Day 512)",
-		["Text"] = "Diary - Day 512$B$BThe bananas have started talking to me and I have learned a great deal about their culture.  I have ceased my senseless destruction of their homes and consumption of the young.  How little I knew then of the great civilization that I was destroying.$B$BOn another topic I seem to be running low on bottles and paper.  When I first looked at those huge stacks of paper that washed ashore I thought they would be inexhaustible.  Woe with me, my diary must end soon."
+		["Text"] = "Diary - Day 512NEW_LINENEW_LINEThe bananas have started talking to me and I have learned a great deal about their culture.  I have ceased my senseless destruction of their homes and consumption of the young.  How little I knew then of the great civilization that I was destroying.NEW_LINENEW_LINEOn another topic I seem to be running low on bottles and paper.  When I first looked at those huge stacks of paper that washed ashore I thought they would be inexhaustible.  Woe with me, my diary must end soon."
 	},
 	["Simple Tablet"] = {
 		["Title"] = "Simple Tablet",
-		["Text"] = "Aye, mon. Take dis letter to Frang in da Valley of Trials. He usually be outside da Den whipping young warriors into shape to fight for da Horde.$B$BHe needs cunning warriors like you to show da orcs how to fight wit sometin' other den their muscles. You be faster and smarter den most, but don't be braggin' 'bout that--orcs don' take kindly to insults. They be good allies, an' maybe they teach you a ting or two also.$B$B-Tar'sere"
+		["Text"] = "Aye, mon. Take dis letter to Frang in da Valley of Trials. He usually be outside da Den whipping young warriors into shape to fight for da Horde.NEW_LINENEW_LINEHe needs cunning warriors like you to show da orcs how to fight wit sometin' other den their muscles. You be faster and smarter den most, but don't be braggin' 'bout that--orcs don' take kindly to insults. They be good allies, an' maybe they teach you a ting or two also.NEW_LINENEW_LINE-Tar'sere"
 	},
 	["Weatherworn Parchment"] = {
 		["Title"] = "Weatherworn Parchment",
@@ -1187,7 +1187,7 @@ QuestTranslator_BookData = {
 	},
 	["Dark Iron Script"] = {
 		["Title"] = "Dark Iron Script",
-		["Text"] = "Dirty troggs are so easy to fool. Their hatred for our kin makes it that much easier to direct them and use them as pawns. Amazes me that any kind of alliance could be forged at all, but our kin pose a much greater threat to their existence... at least for now.$B$BAfter the attacks begin though, both sides are gonna be weakened and prone to our own onslaught. Take the homestead south of Helm's Bed Lake and await further instructions.$B$BIronforge will be ours."
+		["Text"] = "Dirty troggs are so easy to fool. Their hatred for our kin makes it that much easier to direct them and use them as pawns. Amazes me that any kind of alliance could be forged at all, but our kin pose a much greater threat to their existence... at least for now.NEW_LINENEW_LINEAfter the attacks begin though, both sides are gonna be weakened and prone to our own onslaught. Take the homestead south of Helm's Bed Lake and await further instructions.NEW_LINENEW_LINEIronforge will be ours."
 	},
 	["Bath'rah's Parchment"] = {
 		["Title"] = "Bath'rah's Parchment",
@@ -1255,87 +1255,87 @@ QuestTranslator_BookData = {
 	},
 	["Simple Letter"] = {
 		["Title"] = "Simple Letter",
-		["Text"] = "Tell me, $c, have you heard an orc scream yet? Perhaps defended your home from gnolls as they seek to tear your throat out? Yeah, sounds harsh, doesn't it?$B$BWell, you're gonna need my help if you want to protect your loved ones. You'll find me inside the abbey in Northshire. My knowledge doesn't come cheap, but if you're experienced enough, I can train you in a number of styles and moves that will help you fight off the threats to Stormwind and beyond.$B$BLlane Beshere, Warrior Trainer"
+		["Text"] = "Tell me, $c, have you heard an orc scream yet? Perhaps defended your home from gnolls as they seek to tear your throat out? Yeah, sounds harsh, doesn't it?NEW_LINENEW_LINEWell, you're gonna need my help if you want to protect your loved ones. You'll find me inside the abbey in Northshire. My knowledge doesn't come cheap, but if you're experienced enough, I can train you in a number of styles and moves that will help you fight off the threats to Stormwind and beyond.NEW_LINENEW_LINELlane Beshere, Warrior Trainer"
 	},
 	["Simple Rune"] = {
 		["Title"] = "Simple Rune",
-		["Text"] = "By Magni's beard, there's much to discuss, and little time to do it, $N. Find me in Anvilmar overlooking Coldridge Valley as soon as you can. We gotta get started.$B$BThere's a mess of things I can tell you about to get you caught up to speed, but all that's got nothing to do with us... for now. What we need to focus on is the grip of an axe, the weight of our armor, and the smell of our own sweat beadin' down our foreheads as we fight our enemies. We'll start with that.$B$B-Thran Khorman, Warrior Trainer"
+		["Text"] = "By Magni's beard, there's much to discuss, and little time to do it, $N. Find me in Anvilmar overlooking Coldridge Valley as soon as you can. We gotta get started.NEW_LINENEW_LINEThere's a mess of things I can tell you about to get you caught up to speed, but all that's got nothing to do with us... for now. What we need to focus on is the grip of an axe, the weight of our armor, and the smell of our own sweat beadin' down our foreheads as we fight our enemies. We'll start with that.NEW_LINENEW_LINE-Thran Khorman, Warrior Trainer"
 	},
 	["Simple Memorandum"] = {
 		["Title"] = "Simple Memorandum",
-		["Text"] = "ATTENTION:$BYou must report to Thran Khorman immediately. He is located within building A3; also known as Anvilmar to local inhabitants. After successfully making contact with Khorman, you will proceed to prepare yourself for the coming war--the war to take back our home of Gnomeregan!$B$BAll efforts and essential tasks should be focused on achieving this directive. Once accomplished, a new task will be given to you."
+		["Text"] = "ATTENTION:NEW_LINEYou must report to Thran Khorman immediately. He is located within building A3; also known as Anvilmar to local inhabitants. After successfully making contact with Khorman, you will proceed to prepare yourself for the coming war--the war to take back our home of Gnomeregan!NEW_LINENEW_LINEAll efforts and essential tasks should be focused on achieving this directive. Once accomplished, a new task will be given to you."
 	},
 	["Simple Sigil"] = {
 		["Title"] = "Simple Sigil",
-		["Text"] = "I hope my sigil finds you well, $c. I write to you because our people have need for those strong with the blade, the glaive, and all other weapons. So much has happened since our people have been reintroduced to the other races of Azeroth that we have an even greater need for protectors of all kinds.$B$BThis is where you come in. I would tell you more, but I feel it should be in person. Find me inside Aldrassil... on the lower levels.$B$B-Alyissia, Warrior Trainer"
+		["Text"] = "I hope my sigil finds you well, $c. I write to you because our people have need for those strong with the blade, the glaive, and all other weapons. So much has happened since our people have been reintroduced to the other races of Azeroth that we have an even greater need for protectors of all kinds.NEW_LINENEW_LINEThis is where you come in. I would tell you more, but I feel it should be in person. Find me inside Aldrassil... on the lower levels.NEW_LINENEW_LINE-Alyissia, Warrior Trainer"
 	},
 	["Simple Scroll"] = {
 		["Title"] = "Simple Scroll",
-		["Text"] = "Many of our kind resort to the arcane and divine as a means to give themselves strength, but we know better, don't we, $c? We know that our weapons are our holy symbols, our shield is our spell book, and our mail is our wisdom.$B$BEven in undeath we are strong, and we will only become stronger.$B$BFind me in the inn in Deathknell. I will speak to you more of these matters and other things.$B$B-Dannal Stern, Warrior Trainer"
+		["Text"] = "Many of our kind resort to the arcane and divine as a means to give themselves strength, but we know better, don't we, $c? We know that our weapons are our holy symbols, our shield is our spell book, and our mail is our wisdom.NEW_LINENEW_LINEEven in undeath we are strong, and we will only become stronger.NEW_LINENEW_LINEFind me in the inn in Deathknell. I will speak to you more of these matters and other things.NEW_LINENEW_LINE-Dannal Stern, Warrior Trainer"
 	},
 	["Simple Note"] = {
 		["Title"] = "Simple Note",
-		["Text"] = "Many tribes claim that it is a gift to be blessed with the aptitude to use magic or to talk to our ancestors, but you should know this as well, $c, you are just as gifted. Some do not have the strength in their arms to wield mighty weapons. Some do not have the skill to parry a blow from an assassin, or to even suffer the physical punishments from an arcane spellcaster, but you do. You are strong. And I will help you become stronger. Find me in Camp Narache.$B$B-Harutt Thunderhorn, Warrior Trainer"
+		["Text"] = "Many tribes claim that it is a gift to be blessed with the aptitude to use magic or to talk to our ancestors, but you should know this as well, $c, you are just as gifted. Some do not have the strength in their arms to wield mighty weapons. Some do not have the skill to parry a blow from an assassin, or to even suffer the physical punishments from an arcane spellcaster, but you do. You are strong. And I will help you become stronger. Find me in Camp Narache.NEW_LINENEW_LINE-Harutt Thunderhorn, Warrior Trainer"
 	},
 	["Hallowed Letter"] = {
 		["Title"] = "Hallowed Letter",
-		["Text"] = "Your connection to the world, and its connection to you, are paramount to your success as a priest. Wisdom and compassion will allow you to help those who have a true need. Overeagerness and clumsy decisions only prevent others from becoming stronger or cause harm.$B$BAs you begin to understand what this means, you will need new abilities and spells to help you. That is where my role begins: find me in the library wing of Northshire Abbey when you are ready to train.$B$B-Priestess Anetta, Priest Trainer"
+		["Text"] = "Your connection to the world, and its connection to you, are paramount to your success as a priest. Wisdom and compassion will allow you to help those who have a true need. Overeagerness and clumsy decisions only prevent others from becoming stronger or cause harm.NEW_LINENEW_LINEAs you begin to understand what this means, you will need new abilities and spells to help you. That is where my role begins: find me in the library wing of Northshire Abbey when you are ready to train.NEW_LINENEW_LINE-Priestess Anetta, Priest Trainer"
 	},
 	["Encrypted Rune"] = {
 		["Title"] = "Encrypted Rune",
-		["Text"] = "$gBrother:Sister;, I hope this rune finds you well. I wanted to take a moment to let you know that I'm inside Anvilmar above Coldridge Valley.$B$BI know how important it is we all stick together, and in this time of strained peace it's becoming even more important to have our kind around. Look for me when you have the time. $B$B-Solm Hargrin, Rogue Trainer"
+		["Text"] = "Brother:Sister;, I hope this rune finds you well. I wanted to take a moment to let you know that I'm inside Anvilmar above Coldridge Valley.NEW_LINENEW_LINEI know how important it is we all stick together, and in this time of strained peace it's becoming even more important to have our kind around. Look for me when you have the time. NEW_LINENEW_LINE-Solm Hargrin, Rogue Trainer"
 	},
 	["Encrypted Sigil"] = {
 		["Title"] = "Encrypted Sigil",
-		["Text"] = "Sael'ah, my friend. I hope this sigil finds you well. I was asked to offer you my services. I too am in Shadowglen, in the great tree of Aldrassil, and I wanted you to know that if you need any training that you could seek me out.$B$BIn these questionable times, I thought it prudent that those dealing in stealth remain even closer to one another. How else will we be able to protect Teldrassil and our ways?$B$BFind me when you can.$B$B-Frahun Shadewhisper, Rogue Trainer"
+		["Text"] = "Sael'ah, my friend. I hope this sigil finds you well. I was asked to offer you my services. I too am in Shadowglen, in the great tree of Aldrassil, and I wanted you to know that if you need any training that you could seek me out.NEW_LINENEW_LINEIn these questionable times, I thought it prudent that those dealing in stealth remain even closer to one another. How else will we be able to protect Teldrassil and our ways?NEW_LINENEW_LINEFind me when you can.NEW_LINENEW_LINE-Frahun Shadewhisper, Rogue Trainer"
 	},
 	["Rune-Inscribed Note"] = {
 		["Title"] = "Rune-Inscribed Note",
-		["Text"] = "I greet you, young $c. The winds told me of your coming. The earth gave praise of your strength. And now the ancient spirits whisper of your accomplishments to come. Our people always need wise and great leaders. They often turn to our kind for both virtues. If you are willing, I would teach you more of our ways.$B$BSeek me out in Camp Narache on Red Cloud Mesa--we will speak more then.$B$B-Meela Dawnstrider, Shaman Trainer"
+		["Text"] = "I greet you, young $c. The winds told me of your coming. The earth gave praise of your strength. And now the ancient spirits whisper of your accomplishments to come. Our people always need wise and great leaders. They often turn to our kind for both virtues. If you are willing, I would teach you more of our ways.NEW_LINENEW_LINESeek me out in Camp Narache on Red Cloud Mesa--we will speak more then.NEW_LINENEW_LINE-Meela Dawnstrider, Shaman Trainer"
 	},
 	["Etched Parchment"] = {
 		["Title"] = "Etched Parchment",
-		["Text"] = "Ya be in good hands now, mon. Jen'shan know you be lookin' to learn da ways of da hunter, and she be ready to teach you... if you be ready to listen.$B$BCome find me in da Valley of Trials. Jen'shan start your trainin' and show you just how powerful da ways of da hunter is.$B$B-Jen'shan, Hunter Trainer"
+		["Text"] = "Ya be in good hands now, mon. Jen'shan know you be lookin' to learn da ways of da hunter, and she be ready to teach you... if you be ready to listen.NEW_LINENEW_LINECome find me in da Valley of Trials. Jen'shan start your trainin' and show you just how powerful da ways of da hunter is.NEW_LINENEW_LINE-Jen'shan, Hunter Trainer"
 	},
 	["Encrypted Tablet"] = {
 		["Title"] = "Encrypted Tablet",
-		["Text"] = "Greetings, $gbrother:sister;. The Shattered Hand sends its regards and hopes you find the Valley a comfortable place to apply your trade. This is a time of testing for you, so do not think you are not being watched constantly.$B$BIt is my duty to appraise the Hand of your skills, and to then inform them when I feel you are ready to move on to greater challenges.$B$BWhen you are ready, come find me deep inside the Den. I'll be waiting for you there.$B$B-Rwag, Rogue Trainer"
+		["Text"] = "Greetings, brother:sister;. The Shattered Hand sends its regards and hopes you find the Valley a comfortable place to apply your trade. This is a time of testing for you, so do not think you are not being watched constantly.NEW_LINENEW_LINEIt is my duty to appraise the Hand of your skills, and to then inform them when I feel you are ready to move on to greater challenges.NEW_LINENEW_LINEWhen you are ready, come find me deep inside the Den. I'll be waiting for you there.NEW_LINENEW_LINE-Rwag, Rogue Trainer"
 	},
 	["Encrypted Letter"] = {
 		["Title"] = "Encrypted Letter",
-		["Text"] = "Never been more proud to be part of the trade as I am in these last few years. The need for assassins, spies, and scouts has never been more prevelant. You'd think war-time would have had higher demand, but suprisingly, war isn't a time we flourish like we do now--the times after peace starts to deteriorate.$B$BI was told you'd be in the area looking to learn a few things. When you have time, come see me by the stables in back of the abbey.$B$B-Jorik Kerridan, Rogue Trainer"
+		["Text"] = "Never been more proud to be part of the trade as I am in these last few years. The need for assassins, spies, and scouts has never been more prevelant. You'd think war-time would have had higher demand, but suprisingly, war isn't a time we flourish like we do now--the times after peace starts to deteriorate.NEW_LINENEW_LINEI was told you'd be in the area looking to learn a few things. When you have time, come see me by the stables in back of the abbey.NEW_LINENEW_LINE-Jorik Kerridan, Rogue Trainer"
 	},
 	["Hallowed Rune"] = {
 		["Title"] = "Hallowed Rune",
-		["Text"] = "With the Holy Light warmin' our backs and new discoveries being made every day, 'tis an exciting time to be one of Ironforge's $gsons:daughters;. The Explorer's League makes headway every day in its search for long-lost answers to even older questions. And now we have you among our faithful to aid in the battle against the troggs and any other threat to our borders.$B$BFind me when ya have the time. I'll be in the back of Anvilmar, just up the hill. $B$B- Branstock Khalder, Priest Trainer"
+		["Text"] = "With the Holy Light warmin' our backs and new discoveries being made every day, 'tis an exciting time to be one of Ironforge's sons:daughters;. The Explorer's League makes headway every day in its search for long-lost answers to even older questions. And now we have you among our faithful to aid in the battle against the troggs and any other threat to our borders.NEW_LINENEW_LINEFind me when ya have the time. I'll be in the back of Anvilmar, just up the hill. NEW_LINENEW_LINE- Branstock Khalder, Priest Trainer"
 	},
 	["Hallowed Sigil"] = {
 		["Title"] = "Hallowed Sigil",
-		["Text"] = "I hope this sigil finds you well, $N. The spirits told me of your coming and I sent word immediately. I look forward to sharing my experiences with you, and helping guide you as you prepare to leave Teldrassil for more important matters.$B$BWith all that has happened in the last few years, there is much we can do to aid the other races of Azeroth. When you are ready, find me inside Aldrassil, on the second level.$B$B-Shanda, Priest Trainer"
+		["Text"] = "I hope this sigil finds you well, $N. The spirits told me of your coming and I sent word immediately. I look forward to sharing my experiences with you, and helping guide you as you prepare to leave Teldrassil for more important matters.NEW_LINENEW_LINEWith all that has happened in the last few years, there is much we can do to aid the other races of Azeroth. When you are ready, find me inside Aldrassil, on the second level.NEW_LINENEW_LINE-Shanda, Priest Trainer"
 	},
 	["Encrypted Memorandum"] = {
 		["Title"] = "Encrypted Memorandum",
-		["Text"] = "You were expecting this to be a normal note from your king or whoever, I'm betting. Well, let's just say that I know a thing or two about forging notes and wanted to make sure you got this one. Can't go calling attention to myself, now could I?$B$BI've holed myself up inside Anvilmar--you'll find me in the firepit area. When you're ready, come talk to me. I just want to introduce myself while we have time.$B$B-Solm Hargrin, Rogue Trainer"
+		["Text"] = "You were expecting this to be a normal note from your king or whoever, I'm betting. Well, let's just say that I know a thing or two about forging notes and wanted to make sure you got this one. Can't go calling attention to myself, now could I?NEW_LINENEW_LINEI've holed myself up inside Anvilmar--you'll find me in the firepit area. When you're ready, come talk to me. I just want to introduce myself while we have time.NEW_LINENEW_LINE-Solm Hargrin, Rogue Trainer"
 	},
 	["Encrypted Scroll"] = {
 		["Title"] = "Encrypted Scroll",
-		["Text"] = "Take care not to ignore my words, $N. This is the time for subterfuge and deceit throughout all nations... even our great Undercity. Everyone loyal to Sylvanas is working towards creating a new era, one controlled by the Forsaken. And even though we posses no magical skills, nor will we take up weapons along our borders, we still have our own role to play.$B$BSeek me out in the inn in Deathknell. We'll speak more then.$B$B-David Trias, Rogue Trainer"
+		["Text"] = "Take care not to ignore my words, $N. This is the time for subterfuge and deceit throughout all nations... even our great Undercity. Everyone loyal to Sylvanas is working towards creating a new era, one controlled by the Forsaken. And even though we posses no magical skills, nor will we take up weapons along our borders, we still have our own role to play.NEW_LINENEW_LINESeek me out in the inn in Deathknell. We'll speak more then.NEW_LINENEW_LINE-David Trias, Rogue Trainer"
 	},
 	["Encrypted Parchment"] = {
 		["Title"] = "Encrypted Parchment",
-		["Text"] = "I send greetings, $N. I was lost in thought when it came to my attention that I needed to write to you.$B$BMany in our culture praise our shamans for being our spiritual leaders, like our great Warchief. Others think the sword and axe are even more noble pursuits, but never forget that battles--even wars--are won on the backs of those with more specialized skills. That is what I wish to speak to you about, $N. Find me deep within the Den in the Valley of Trials.$B$B-Rwag, Rogue Trainer"
+		["Text"] = "I send greetings, $N. I was lost in thought when it came to my attention that I needed to write to you.NEW_LINENEW_LINEMany in our culture praise our shamans for being our spiritual leaders, like our great Warchief. Others think the sword and axe are even more noble pursuits, but never forget that battles--even wars--are won on the backs of those with more specialized skills. That is what I wish to speak to you about, $N. Find me deep within the Den in the Valley of Trials.NEW_LINENEW_LINE-Rwag, Rogue Trainer"
 	},
 	["Hallowed Tablet"] = {
 		["Title"] = "Hallowed Tablet",
-		["Text"] = "Ah hope da spirits have protected ya thus far, mon. Ya have many tests ahead of ya, and ah be willin' to share me experiences witcha when yer ready. It be up to ya to decide how quickly and how powerful ya become. Ah can only guide ya once yer ready.$B$BFor some, dat be real quick-like; for others... not so fast. But doncha be worryin' 'bout dat none. We can talk more when ya come to see me.$B$B-Ken'jai, Priest Trainer"
+		["Text"] = "Ah hope da spirits have protected ya thus far, mon. Ya have many tests ahead of ya, and ah be willin' to share me experiences witcha when yer ready. It be up to ya to decide how quickly and how powerful ya become. Ah can only guide ya once yer ready.NEW_LINENEW_LINEFor some, dat be real quick-like; for others... not so fast. But doncha be worryin' 'bout dat none. We can talk more when ya come to see me.NEW_LINENEW_LINE-Ken'jai, Priest Trainer"
 	},
 	["Rune-Inscribed Tablet"] = {
 		["Title"] = "Rune-Inscribed Tablet",
-		["Text"] = "Greetings to you, $gbrotha:sista;. Da spirits say you be ready to aid our allies. You have great ties to da elements, an' you be much more powerful den when you first started your lessons wit me.$B$BNow I be sendin' you to meet wit Shikrik, da orc shaman trainer in da Valley of Trials. She know you be comin' to study wit her already. Make our ancestors proud. Until we meet again, may da flame keep you warm, and da wind be at your back.$B$B-Ishi-yo"
+		["Text"] = "Greetings to you, brotha:sista;. Da spirits say you be ready to aid our allies. You have great ties to da elements, an' you be much more powerful den when you first started your lessons wit me.NEW_LINENEW_LINENow I be sendin' you to meet wit Shikrik, da orc shaman trainer in da Valley of Trials. She know you be comin' to study wit her already. Make our ancestors proud. Until we meet again, may da flame keep you warm, and da wind be at your back.NEW_LINENEW_LINE-Ishi-yo"
 	},
 	["Consecrated Rune"] = {
 		["Title"] = "Consecrated Rune",
-		["Text"] = "Some fear our kind more than dragons. Some envy us more than the most skilled blacksmiths. Some praise our strength in battle. Others revel in our faith. Some are just jealous that we can drink them under the table! But know this, $c, you are among the most elite protectors in all of Azeroth. The Holy Light gives us strength as much as we strengthen it.$B$BI would tell you more when you've gotten acquainted with the land some. Find me inside Anvilmar above the Valley.$B$B-Bromos Grummner, Paladin Trainer"
+		["Text"] = "Some fear our kind more than dragons. Some envy us more than the most skilled blacksmiths. Some praise our strength in battle. Others revel in our faith. Some are just jealous that we can drink them under the table! But know this, $c, you are among the most elite protectors in all of Azeroth. The Holy Light gives us strength as much as we strengthen it.NEW_LINENEW_LINEI would tell you more when you've gotten acquainted with the land some. Find me inside Anvilmar above the Valley.NEW_LINENEW_LINE-Bromos Grummner, Paladin Trainer"
 	},
 	["Horatio Montgomery, M.D."] = {
 		["Title"] = "Horatio Montgomery, M.D.",
@@ -1401,23 +1401,23 @@ QuestTranslator_BookData = {
 	},
 	["Queen Tiffin Ellerian Wrynn - The Light of our Kingdom"] = {
 		["Title"] = "Queen Tiffin Ellerian Wrynn - The Light of our Kingdom",
-		["Text"] = "Our beloved queen, mother, wife and daughter$B$BYour radiance was as bright$Bas the Sun and just as warm$B$BOur hearts turned cold and heavy$B the day you were taken from us$B$BMay you find eternal rest$Bunder the rays of the Light$B$B- King Varian Wrynn"
+		["Text"] = "Our beloved queen, mother, wife and daughterNEW_LINENEW_LINEYour radiance was as brightNEW_LINEas the Sun and just as warmNEW_LINENEW_LINEOur hearts turned cold and heavyNEW_LINE the day you were taken from usNEW_LINENEW_LINEMay you find eternal restNEW_LINEunder the rays of the LightNEW_LINENEW_LINE- King Varian Wrynn"
 	},
 	["In Honor of our Fallen Heroes"] = {
 		["Title"] = "In Honor of our Fallen Heroes",
-		["Text"] = "Praised are the courageous heroes$Bthat died in service of the Alliance$B$BDon’t forget their selfless sacrifices$Band remember what they stood for in life$B$B- Archbishop Benedictus"
+		["Text"] = "Praised are the courageous heroesNEW_LINEthat died in service of the AllianceNEW_LINENEW_LINEDon’t forget their selfless sacrificesNEW_LINEand remember what they stood for in lifeNEW_LINENEW_LINE- Archbishop Benedictus"
 	},
 	["Legacy of Stormwind's Court Magicians"] = {
 		["Title"] = "Legacy of Stormwind's Court Magicians",
-		["Text"] = "Trusted advisors to His Highness$BLoyal servants to the Kingdom$BTheir enlightened guidance led these$Blands to heights thought unreachable$B$B- High Sorcerer Andromath"
+		["Text"] = "Trusted advisors to His HighnessNEW_LINELoyal servants to the KingdomNEW_LINETheir enlightened guidance led theseNEW_LINElands to heights thought unreachableNEW_LINENEW_LINE- High Sorcerer Andromath"
 	},
 	["Sir Wolram Notleigh"] = {
 		["Title"] = "Sir Wolram Notleigh",
-		["Text"] = "Here lies Sir Wolram Notleigh,$Bson of Vergil Notleigh, noble of Northwind.$B$BA beacon of virtue, his sacrifices in service of the kingdom will not be forgotten.$B$BMay his final rest be left undisturbed.$B$B- Sir Edrin Vellas"
+		["Text"] = "Here lies Sir Wolram Notleigh,NEW_LINEson of Vergil Notleigh, noble of Northwind.NEW_LINENEW_LINEA beacon of virtue, his sacrifices in service of the kingdom will not be forgotten.NEW_LINENEW_LINEMay his final rest be left undisturbed.NEW_LINENEW_LINE- Sir Edrin Vellas"
 	},
 	["Royal Seal Letter"] = {
 		["Title"] = "Royal Seal Letter",
-		["Text"] = "To my most trusted friend Medivh,$B$B$B$BIt has been too long since we last met. I hope this letter finds you in good health. Our last meeting did not end as it should have, and I regret the distance that has grown between us. Must you truly remain alone atop your tower?$B$BWere it not for Moroes, I would fear you lost. You have become so distant, my friend—so distant that I wonder if you even read my letters. Yet this message bears great importance.$B$BThe Light has blessed my family with an heir. My son has been born, a beacon of hope for Stormwind. I beg you—leave your tower, meet him, hold him, and celebrate with me. It is my deepest wish that you grant him a name.$B$BYour absence weighs heavy on my heart, yet I believe you would not forsake me. Come, my friend, and let us mend what has been lost.$B$B$BYour king and friend,$BLlane Wrynn."
+		["Text"] = "To my most trusted friend Medivh,NEW_LINENEW_LINENEW_LINENEW_LINEIt has been too long since we last met. I hope this letter finds you in good health. Our last meeting did not end as it should have, and I regret the distance that has grown between us. Must you truly remain alone atop your tower?NEW_LINENEW_LINEWere it not for Moroes, I would fear you lost. You have become so distant, my friend—so distant that I wonder if you even read my letters. Yet this message bears great importance.NEW_LINENEW_LINEThe Light has blessed my family with an heir. My son has been born, a beacon of hope for Stormwind. I beg you—leave your tower, meet him, hold him, and celebrate with me. It is my deepest wish that you grant him a name.NEW_LINENEW_LINEYour absence weighs heavy on my heart, yet I believe you would not forsake me. Come, my friend, and let us mend what has been lost.NEW_LINENEW_LINENEW_LINEYour king and friend,NEW_LINELlane Wrynn."
 	},
 	["Arc'Tiras – Study"] = {
 		["Title"] = "Arc'Tiras – Study",
@@ -1425,7 +1425,7 @@ QuestTranslator_BookData = {
 	},
 	["Daria Balor, Protector of our Home"] = {
 		["Title"] = "Daria Balor, Protector of our Home",
-		["Text"] = "In honor of our savior, the brave and fearless woman who defended her home with unparalleled courage.$B$BWere it not for her selfless deeds in times of peril and turmoil, we would not stand here commemorating her heroic sacrifice.$B$BMay your name be forever whispered among the cliffs of Balor.$B$B- Lord Victor Grahan"
+		["Text"] = "In honor of our savior, the brave and fearless woman who defended her home with unparalleled courage.NEW_LINENEW_LINEWere it not for her selfless deeds in times of peril and turmoil, we would not stand here commemorating her heroic sacrifice.NEW_LINENEW_LINEMay your name be forever whispered among the cliffs of Balor.NEW_LINENEW_LINE- Lord Victor Grahan"
 	},
 	["Earthen Ring Memorial"] = {
 		["Title"] = "Earthen Ring Memorial",
@@ -1441,14 +1441,14 @@ QuestTranslator_BookData = {
 	},
 	["A Memory of a Life Well Traveled"] = {
 		["Title"] = "A Memory of a Life Well Traveled",
-		["Text"] = "In Loving Memory of Nat$B$BYou were an amazing leader and friend who always put others first.$B$BFrom the players from guilds <Spicy Dwarfburgers> and <Ultima Ratio>"
+		["Text"] = "In Loving Memory of NatNEW_LINENEW_LINEYou were an amazing leader and friend who always put others first.NEW_LINENEW_LINEFrom the players from guilds <Spicy Dwarfburgers> and <Ultima Ratio>"
 	},
 	["Mu’sha, the Left Eye of the Earthmother"] = {
 		["Title"] = "Mu’sha, the Left Eye of the Earthmother",
-		["Text"] = "Blessed are you, Matron of Night, for you shine over our heads each cycle. Your warmth and kindness have allowed us, the children of the earth, to survive each turmoil that was sent upon us.$B$BBlessed are you, Matron of Night, for it was your tear that was wept at the cruelty of the world, and from it you gave birth to Lo’sho, our hope. Benevolent Matron, to you we bring praise.$B$BBlessed are you, Matron of Night, for it was you who blessed our tribe. Whether it be grass, mud, or snow, we of the Moonhoof Tribe walk with you still, our hooves leaving trails of crescent moons wherever we step, the symbol of our bond."
+		["Text"] = "Blessed are you, Matron of Night, for you shine over our heads each cycle. Your warmth and kindness have allowed us, the children of the earth, to survive each turmoil that was sent upon us.NEW_LINENEW_LINEBlessed are you, Matron of Night, for it was your tear that was wept at the cruelty of the world, and from it you gave birth to Lo’sho, our hope. Benevolent Matron, to you we bring praise.NEW_LINENEW_LINEBlessed are you, Matron of Night, for it was you who blessed our tribe. Whether it be grass, mud, or snow, we of the Moonhoof Tribe walk with you still, our hooves leaving trails of crescent moons wherever we step, the symbol of our bond."
 	},
 	["An’she, the Right Eye of the Earthmother"] = {
 		["Title"] = "An’she, the Right Eye of the Earthmother",
-		["Text"] = "Blessed are you, Patron of Day, for your light keeps Mu’sha shining in the night sky, showing us the blessed bond of siblings and teaching us selfless love.$B$BBlessed are you, Patron of Day, for it is your radiant warmth that blesses the earth, our fur, and our crops. As blinding as your light may be, it still guides us onward.$B$BBlessed are you, Patron of Day, for it was your duty to accept the Tear of Mu’sha as your younger sibling, and it was you who guided Lo’sho toward hope eternal."
+		["Text"] = "Blessed are you, Patron of Day, for your light keeps Mu’sha shining in the night sky, showing us the blessed bond of siblings and teaching us selfless love.NEW_LINENEW_LINEBlessed are you, Patron of Day, for it is your radiant warmth that blesses the earth, our fur, and our crops. As blinding as your light may be, it still guides us onward.NEW_LINENEW_LINEBlessed are you, Patron of Day, for it was your duty to accept the Tear of Mu’sha as your younger sibling, and it was you who guided Lo’sho toward hope eternal."
 	},
 }
