@@ -51522,4 +51522,18 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end The Gnarled Bramblehide
 
+    -- Find OOX-22/FE!
+    -- Oglethorpe Obnoticus -> Oglethorpe Obnoticus (MobNpcData.lua)
+    -- Booty Bay -> Ganimet Körfezi (ZoneData.lua)[cite: 2]
+    -- Feral Scar Vale -> Vahşi Yara Vadisi (Feral -> Vahşi, Scar -> Yara, Vale -> Vadisi)
+    ["2766"] = {
+    ["Title"]="OOX-22/FE'yi Bul!",
+    ["Description"]="Metalden yapılmış garip, yumurta şeklinde bir cihaz ortaya çıkardın. Düğmelerinden biriyle oynamak yumurtaya hayat verir ve bir tür cüce robotik mekanizmaya açılır! Robotik yumurtanın içinden cızırtılı bir ses gelir.\n\n\"Adım Oglethorpe Obnoticus ve yön bulma robotum düştü! Onu bulursan seni ödüllendireceğim; lütfen bu sinyal vericisini robota götür!\"\n\n\"Şimdi senin için robotun koordinatlarını hesapladım; Vahşi Yara Vadisi yakınlarındaki bir mağarada!\"",
+    ["Objectives"]="Sinyal vericisini Vahşi Yara Vadisi yakınlarındaki bir mağarada bulunan Oglethorpe'un yön bulma robotuna götür.",
+    ["Progress"]="Görünüşe göre bir... robotik tavuk enkazı çıkardın? Yumurtanın içindeki ses yine cızırdayarak canlanıyor:\n\n\"Evet, mükemmel iş! Bu gerçekten benim yön bulma robotum, ancak sensörlerim tamir için Ganimet Körfezi'ne geri uçabilmesi için önce takviyeye ihtiyacı olduğunu gösteriyor. Devam et ve sinyal vericiyi gezginin içine yerleştir - sinyal verici gerisini halledecektir!\"[cite: 2]",
+    ["Completion"]="Yumurta... tehlike sinyal vericisini... tavuk... yön bulma robotunun içine yerleştiriyorsun.\n\nAyağa kalkmakta zorlanan robotun içinden vızıltılar ve mırıltılar duyulur. Robot canlandıktan sonra, Oglethorpe'un sesi bir kez daha duyulur, ancak artık robotun içinden:\n\n\"OOX-22/FE en azından çalışıyor ama büyük tamiratlara ihtiyacı var! Onu taşıman için çok ağır... ama sanırım bir fikrim var. Ona biraz daha göz kulak olmaya var mısın?\"",
+    ["minlevel"]="0",
+    ["questlevel"]="0",
+    }, -- end Find OOX-22/FE!
+
 };

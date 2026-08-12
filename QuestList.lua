@@ -8766,5 +8766,6 @@ QuestTranslator_QuestList = {
 ["Scarab Shells"]="2865",
 ["Tiara of the Deep"]="2846",
 ["Gahz'rilla"]="2770",
-["The Gnarled Bramblehide"]="41759"
+["The Gnarled Bramblehide"]="41759",
+["Find OOX-22/FE!"]="2766"
 } 
