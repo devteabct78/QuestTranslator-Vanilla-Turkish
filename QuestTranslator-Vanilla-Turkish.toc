@@ -9,11 +9,21 @@
 ## SavedVariables: QTR_PS, QTR_SAVED,QuestTranslator_Settings
 ## SavedVariablesPerCharacter: QTR_PC
 
+QuestTranslator.lua
+QuestTranslator_Config.lua
+QuestTranslator_Gossip.lua
+QuestTranslator_GossipData.lua
+QuestTranslatorFrames.xml
 QuestBookData.lua
 QuestData_it.lua
 QuestList.lua
-QuestTranslator_GossipData.lua
-QuestTranslator_Gossip.lua
-QuestTranslator_Config.lua
-QuestTranslator.lua
-QuestTranslatorFrames.xml
+ZoneData.lua
+QTVT_ZoneTranslator.lua
+MobNpcData.lua
+QTVT_MobNpcTranslator.lua
+
+
+
+
+
+
