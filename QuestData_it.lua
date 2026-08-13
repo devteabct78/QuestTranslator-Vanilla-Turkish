@@ -51472,7 +51472,6 @@ QuestTranslator_QuestData = {
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Scarab Shells
---123456
 -- Tiara of the Deep
     -- Tiara of the Deep -> Derinlerin Tacı
     -- Tabetha -> Tabetha (MobNpcData.lua)[cite: 1]
@@ -51535,141 +51534,948 @@ QuestTranslator_QuestData = {
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Find OOX-22/FE!
+    -- A Sticky Situation
+    -- Malton -> Malton (MobNpcData.lua)[cite: 1]
+    -- Dran Droffers -> Dran Droffers (MobNpcData.lua)[cite: 1]
+    -- Skulk Rock -> Sinme Kayalığı (ZoneData.lua)[cite: 2]
+    -- Hinterlands Honey Ripple -> Hinterlands Bal Dalga Likörü
+    ["77"] = {
+    ["Title"]="Yapışkan Bir Durum",
+    ["Description"]="Dran Droffers'ın aradığı bal dalga likörü için orijinal ambalaj malzemelerine sahibim. Malton'un kırıcı babası için likörü ambalajlamanda sana yardım edeceğim... Bahsi geçen likörden iki ek şişe ücret karşılığında. Bunlar Sinme Kayalığı yakınındaki terk edilmiş Horde üssünde bulunan kasalardadır.\n\nZorlu bir görev olacak, yani; harabelere yapışmış iğrenç balçıklar ve pelteler bulunacak; söylentiye göre bir tür efendi pelte tarafından yönetiliyorlar. Ne olursa olsun, likörü temin et ve ambalajlamak için buraya yanıma dön.",
+    ["Objectives"]="Sinme Kayalığı'ndaki terk edilmiş Horde üssünün etrafındaki kasalardan 10 şişe Hinterlands Bal Dalga Likörü al.[cite: 1, 2]",
+    ["Progress"]="Kampımıza gelişinin, elimizdeki görev için hayati önem taşıyan likör şişelerini teslim etmek için olduğuna inanıyorum, değil mi?",
+    ["Completion"]="Harika bir şekilde yerine getirildi, YOUR_NAME. Likörün lezzetini zedelemeyecek kadar öngörüye sahip olmana sevindim. Gereksiz yere çalkalanmış bir likör kokusundan daha kötü bir şey yoktur.\n\nBüyünün bu değerli kargo üzerinde işlenmesi bir an alacak. Aslında işin içinde büyü yok; sadece Hinterlands Bal Dalga Likörü için boş ambalajlarım var. Hilekarlığımız bu şişeleri çağların alkollü bir hazinesine dönüştürecek.\n\nİleri - harika içki uğruna!",
+    ["minlevel"]="42",
+    ["questlevel"]="48",
+    }, -- end A Sticky Situation
+
+    -- Alas, Andorhal
+    -- Araj the Summoner -> Çağırıcı Araj (MobNpcData.lua)[cite: 1]
+    -- High Executor Derrington -> Yüce Cellat Derrington (MobNpcData.lua)[cite: 1]
+    -- The Bulwark -> Barikat (ZoneData.lua)[cite: 2]
+    -- Western Plaguelands -> Batı Veba Toprakları (ZoneData.lua)[cite: 2]
+    -- Andorhal -> Andorhal (ZoneData.lua)[cite: 2]
+    ["105"] = {
+    ["Title"]="Ne Yazık, Andorhal",
+    ["Description"]="Ne yazık ki, Andorhal'a saldırma ve onu kontrol eden lich'i kovma vakti geldi çattı!\n\nŞehrin harabelerinin içinde lich - Çağırıcı Araj - hüküm sürmektedir. Şehrin merkezinin kalıntılarını saran çok sayıda Scourge tarafından korunmaktadır ve doğrudan kendisine bağlı kişisel muhafız birliği oldukça heybetlidir. Onunla başarılı bir şekilde yüzleşme şansına sahip olmak için bile çok sayıda müttefike ihtiyacın olacak.\n\nAraj'ı yok et, YOUR_NAME ve kanıt olarak ruh bağlar parçasını bana getir!",
+    ["Objectives"]="Araj'ın Ruh Bağlar Parçası'nı Batı Veba Toprakları'ndaki Barikat'ta bulunan Yüce Cellat Derrington'a getir.[cite: 1, 2]",
+    ["Progress"]="Görevin sana verildi, YOUR_NAME. Görevin başarıldığının kanıtı olarak lich'in ruh bağlarından bir parçaya sahip misin?",
+    ["Completion"]="Başardın! Araj... lich sonunda yenildi!\n\nBugün Horde'a muazzam bir hizmette bulundun, YOUR_NAME. Cesaretin ve azmin, gerçek bir kahraman olmanın ne demek olduğunun bir kanıtıdır. Lütfen - herkesin görmesi ve Horde'a çağlar boyu unutulmayacak bir zafer kazandırdığını bilmesi için bunu bir simge olarak kabul et!",
+    ["minlevel"]="50",
+    ["questlevel"]="60",
+    }, -- end Alas, Andorhal
+
+    -- A Warden of the Alliance
+    -- Orphan Matron Nightingale -> Yetimhane Anası Nightingale (MobNpcData.lua)[cite: 1]
+    -- Cathedral District -> Katedral Semti (ZoneData.lua)[cite: 2]
+    -- Stormwind -> Fırtınadiyarı (ZoneData.lua)[cite: 2]
+    ["171"] = {
+    ["Title"]="Alliance'ın Bir Muhafızı",
+    ["Description"]="Bana karşı çok ama çok nazik davrandın, YOUR_NAME. Çocuk Haftası boyunca bu kadar çok eğleneceğimi hayal bile edemezdim. Teşekkür ederim. Başıma gelenler yüzünden üzülmek istemiyorum - ailem bana her zaman başıma gelen kötü şeylerin üstesinden gelmemi söylerdi. Biliyor musun, büyüdüğümde ben de bir kahraman olmak istiyorum... Tıpkı senin gibi.\n\nBunu söylediğim için üzgünüm ama artık eve dönme vaktim geldi. Geri dönelim ve ben yetimhane anasına ne kadar harika biri olduğunu anlatayım!",
+    ["Objectives"]="Katedral Semti'ndeki Yetimhane Anası Nightingale'e İnsan Yetim Düdüğü'nü vererek vesayetin altındaki çocuğu Fırtınadiyarı yetimhanesine geri götür.[cite: 1, 2]",
+    ["Progress"]="Seni tekrar görmek bir zevk, YOUR_NAME. Çocuk Haftası boyunca gönüllü olduğun görevleri yerine getirdin mi?",
+    ["Completion"]="Gökler seni kutsasın, YOUR_NAME. Randis için çoğunun aklından bile geçiremeyeceği şeyleri yaptın. Teşekkür ederim - Alliance göklerinde parlayan bir yıldızsın.\n\nLütfen - vaktin olursa geri gel ve bizi ziyaret et. Randis'in bundan hoşlanacağını biliyorum, benim de öyle.",
+    ["minlevel"]="10",
+    ["questlevel"]="60",
+    }, -- end A Warden of the Alliance
+
+    -- Children's Week
+    ["172"] = {
+    ["Title"]="Çocuk Haftası",
+    ["Description"]="Yetimhanede bize yardım etmek istiyor musun? Tanrı seni kutsasın dostum; Çocuk Haftası boyunca yardımın paha biçilemez olacak.\n\nBu düdüğü al. Bunu sadece kısa bir süre kullanabileceksin - genellikle Çocuk Haftası'nın kendisinden daha uzun sürmez. Onu kullandığında, göz kulak olmayı kabul ettiğin çocukla konuşabileceksin. Tekrar kullanmak çocuğu gönderecektir.\n\nHer ne olursa olsun, YOUR_NAME - düdüğü kullan ve vesayetin altındaki çocukla tanış! Çocuğun seninle tanışmak için sabırsızlandığına eminim.",
+    ["Objectives"]="Çocuk Haftası boyunca göz kulak olacağın çocukla konuşmak için Ork Yetim Düdüğü'nü kullan.",
+    ["Progress"]="",
+    ["Completion"]="Zug zug! Benim adım Grunth ve sanırım bana sen göz kulak olacaksın? Annem ve babam gibi sen de bir maceracısın. Anam onların savaşta onurla öldüklerini söylüyor. Seninle tanıştığıma memnun oldum.\n\nBirlikte pek çok şey yapacağımızı umuyorum. Yapmak istediğim bazı şeyler var ve anam bu hafta boyunca bana bir ağabey gibi olacağını söylüyor. Bu çok hoşuma giderdi.",
+    ["minlevel"]="10",
+    ["questlevel"]="60",
+    }, -- end Children's Week
+
+    -- Alas, Andorhal
+    -- Araj the Summoner -> Çağırıcı Araj (MobNpcData.lua)[cite: 1]
+    -- Commander Ashlam Valorfist -> Komutan Ashlam Yiğityumruk (MobNpcData.lua)[cite: 1]
+    -- Chillwind Camp -> Serinrüzgar Kampı (ZoneData.lua)[cite: 2]
+    -- Western Plaguelands -> Batı Veba Toprakları (ZoneData.lua)[cite: 2]
+    -- Andorhal -> Andorhal (ZoneData.lua)[cite: 2]
+    ["211"] = {
+    ["Title"]="Ne Yazık, Andorhal",
+    ["Description"]="Ne yazık ki, Andorhal'a saldırma ve onu kontrol eden lich'i kovma vakti geldi çattı!\n\nŞehrin harabelerinin içinde lich - Çağırıcı Araj - hüküm sürmektedir. Şehrin merkezinin kalıntılarını saran çok sayıda Scourge tarafından korunmaktadır ve doğrudan kendisine bağlı kişisel muhafız birliği oldukça heybetlidir. Onunla başarılı bir şekilde yüzleşme şansına sahip olmak için bile çok sayıda müttefike ihtiyacın olacak.\n\nAraj'ı yok et, YOUR_NAME ve kanıt olarak ruh bağlar parçasını bana getir!",
+    ["Objectives"]="Araj'ın Ruh Bağlar Parçası'nı Batı Veba Toprakları'ndaki Serinrüzgar Kampı'nda bulunan Komutan Ashlam Yiğityumruk'a getir.[cite: 1, 2]",
+    ["Progress"]="Görevin sana verildi, YOUR_NAME. Görevin başarıldığının kanıtı olarak lich'in ruh bağlarından bir parçaya sahip misin?",
+    ["Completion"]="Başardın! Araj... lich sonunda yenildi!\n\nBugün Alliance'a muazzam bir hizmette bulundun, YOUR_NAME. Cesaretin ve azmin, gerçek bir kahraman olmanın ne demek olduğunun bir kanıtıdır. Lütfen - herkesin görmesi ve Alliance'a çağlar boyu unutulmayacak bir zafer kazandırdığını bilmesi için bunu bir simge olarak kabul et!",
+    ["minlevel"]="50",
+    ["questlevel"]="60",
+    }, -- end Alas, Andorhal
+
+    -- Down the Scarlet Path
+    -- Brother Anton -> Anton Kardeş (MobNpcData.lua)[cite: 1]
+    -- Nijel's Point -> Nijel Karakolu (ZoneData.lua)[cite: 2]
+    -- Desolace -> Desolace (ZoneData.lua)[cite: 2]
+    -- Valley of Bones -> Kemik Vadisi
+    ["261"] = {
+    ["Title"]="Kızıl Yol Boyunca",
+    ["Description"]="Açık konuşacağım. Scourge ile savaştayız. Bu, halkımızı yozlaştıran ve toprağımızı enfekte eden bir kötülüktür. Bizi ezmeden ve dünyamızı gölgeye sürüklemeden önce durdurulmalıdır. Biz Kızıl Haçlılar Scourge ile bedenimiz ve ruhumuzla savaşmaya yemin ettik.\n\nEğer bizimleysen, cesaretini topla ve sadakatini kanıtla--güneydeki Kemik Vadisi'nde bulunan Desolace'ın hortlak yağmacılarını yok et.\n\nBunu yap, Haçlı Seferi seni bağrına bassın.",
+    ["Objectives"]="30 Hortlak Yağmacı yok et, ardından Nijel Karakolu'ndaki Anton Kardeş'e dön.[cite: 1, 2]",
+    ["Progress"]="Scourge her geçen gün güçleniyor. İlerlemesini gerçekten durdurmak istiyorsan, göster bana.",
+    ["Completion"]="Kararlılığını kanıtladın ve Kızıl Haçlı Seferi seni takdir ediyor.\n\nEğer haklı bir katliamdan çekinmiyorsan, belki de senin yolun bizimledir...",
+    ["minlevel"]="34",
+    ["questlevel"]="39",
+    }, -- end Down the Scarlet Path
+
+    -- Beer Basted Boar Ribs
+    -- Ragnar Thunderbrew -> Ragnar Yıldırımbira (MobNpcData.lua)[cite: 1]
+    -- Kharanos -> Kharanos (ZoneData.lua)[cite: 2]
+    ["384"] = {
+    ["Title"]="Birada Pişmiş Yaban Domuzu Kaburgası",
+    ["Description"]="Meyhane müşterilerimin Birada Pişmiş Yaban Domuzu Kaburgasından daha çok keyif aldığı hiçbir şey yok! Tek sorun, bana malzeme getiren yerel tuzakçı, Alliance cephesindeki savaşta yardım etmek için Kral'ın Ordusu'na yazıldı.\n\nBelki bana yardım edebilirsin? Bana altı dağ yaban domuzu kaburgası ve buradaki meyhaneden bir Rhapsody Maltı getirirsen, ünlü Birada Pişmiş Yaban Domuzu Kaburgamın aile tarifini sana veririm, ücretsiz bir tadım örneği de cabası! Sır Malt'ta!",
+    ["Objectives"]="Kharanos'taki Ragnar Yıldırımbira 6 Dağ Yaban Domuzu Kaburgası ve bir maşrapa Rhapsody Maltı istiyor.[cite: 1, 2]",
+    ["Progress"]="Altı dağ yaban domuzu kaburgasına ve bir maşrapa Rhapsody Maltına ihtiyacım olacak, YOUR_NAME.",
+    ["Completion"]="Malt demlendi, Yaban Domuzları öldü\nVe her şey bitmeden ve bir şey söylenmeden önce\nİlk hakkı elde etmek için savaşmamız gerekecek\nBu lezzetli Birada Pişmiş Yaban Domuzu Kaburgaları üzerinde!",
+    ["minlevel"]="5",
+    ["questlevel"]="7",
+    }, -- end Beer Basted Boar Ribs
+
+    -- Find OOX-09/HL!
+    -- Oglethorpe Obnoticus -> Oglethorpe Obnoticus (MobNpcData.lua)[cite: 1]
+    -- Hinterlands -> Hinterlands (ZoneData.lua)[cite: 2]
+    -- Skulk Rock -> Sinme Kayalığı (ZoneData.lua)[cite: 2]
+    ["485"] = {
+    ["Title"]="OOX-09/HL'yi Bul!",
+    ["Description"]="Metalden yapılmış garip, yumurta şeklinde bir cihaz ortaya çıkardın. Düğmelerinden biriyle oynamak yumurtaya hayat verir ve bir tür cüce robotik mekanizmaya açılır! Robotik yumurtanın içinden cızırtılı bir ses gelir.\n\n\"Adım Oglethorpe Obnoticus ve yön bulma robotum düştü! Onu bulursan seni ödüllendireceğim; lütfen bu sinyal vericisini robota götür!\"\n\n\"Şimdi senin için robotun koordinatlarını hesapladım; Hinterlands'te, Sinme Kayalığı yakınlarındaki nehrin başatında düştü!\"[cite: 2]",
+    ["Objectives"]="Sinyal vericisini Hinterlands'te, Sinme Kayalığı yakınlarındaki nehrin başındaki Oglethorpe'un yön bulma robotuna götür.[cite: 2]",
+    ["Progress"]="Görünüşe göre bir... robotik tavuk enkazı çıkardın? Yumurtanın içindeki ses yine cızırdayarak canlanıyor:\n\n\"Evet, mükemmel iş! Bu gerçekten benim yön bulma robotum, ancak sensörlerim tamir için Ganimet Körfezi'ne geri uçabilmesi için önce takviyeye ihtiyacı olduğunu gösteriyor. Devam et ve sinyal vericiyi gezginin içine yerleştir - sinyal verici gerisini halledecektir!\"[cite: 2]",
+    ["Completion"]="Yumurta... tehlike sinyal vericisini... tavuk... yön bulma robotunun içine yerleştiriyorsun.\n\nAyağa kalkmakta zorlanan robotun içinden vızıltılar ve mırıltılar duyulur. Robot canlandıktan sonra, Oglethorpe'un sesi bir kez daha duyulur, ancak artık robotun içinden:\n\n\"OOX-09/HL en azından çalışıyor ama büyük tamiratlara ihtiyacı var! Onu taşıman için çok ağır... ama sanırım bir fikrim var. Ona biraz daha göz kulak olmaya var mısın?\"",
+    ["minlevel"]="43",
+    ["questlevel"]="48",
+    }, -- end Find OOX-09/HL!
+
+    -- Jaina's Autograph
+    -- Lady Jaina Proudmoore -> Leydi Jaina Proudmoore (MobNpcData.lua)[cite: 1]
+    -- Theramore -> Theramore (ZoneData.lua)[cite: 2]
+    ["558"] = {
+    ["Title"]="Jaina'nın İmzsı",
+    ["Description"]="Theramore'daki Leydi Jaina Proudmoore'un Alliance'ın şimdiye kadar sahip olduğu en büyük kahramanlardan biri olduğunu söylüyorlar. Büyüdüğümde ben de Alliance kahramanı olmak istiyorum!\n\nJaina'yı tanıyor musun, YOUR_NAME? Bana bir iyilik yapabilir misin lütfen? Onun imzasını benim için alabilir misin? Ona nasıl soracağımı bilmiyorum ve muhtemelen benim gibi biri için çok meşgul olurdu... Ama sen! Sen de tıpkı onun gibi bir maceracısın! Eminim imzasını sana kolayca verir!\n\nLütfen?",
+    ["Objectives"]="Vesayetin altındaki çocuk için Leydi Jaina Proudmoore'un imzasını alma konusunu görüşmek üzere Theramore'a seyahat et.[cite: 1, 2]",
+    ["Progress"]="Bir gün tıpkı Jaina gibi bir kahraman olmak istiyorum... Yani, erkek bir kahraman.",
+    ["Completion"]="VAY CANINA! Leydi Jaina'nın imzasını benim için aldın! Çok teşekkür ederim! Ve vay canına... Buraya kişisel bir mesaj yazmış - bana! Çok havalı olacağını biliyordum, belki bir gün ben de ona kendim teşekkür ederim... Alliance kahramanı olduğumda!\n\nEn iyisi sensin, YOUR_NAME. Bana karşı bu kadar nazik olduğun için teşekkür ederim.",
+    ["minlevel"]="10",
+    ["questlevel"]="60",
+    }, -- end Jaina's Autograph
+
+    -- Crystal in the Mountains
+    ["635"] = {
+    ["Title"]="Dağlardaki Kristal",
+    ["Description"]="Sen tuttukça bu parça nabız gibi atıyor...\n\nSanki biri iletişim kurmaya çalışıyormuş, umutsuzca yardımına ihtiyacı olan biri varmış gibi parçadan bir yalvarış hissi duyuyorsun.\n\nZihninde bir vizyon beliriyor - Arathi'nin kuzey dağları ve oradaki topraktan fırlayan parlak bir kristal.\n\nO yere doğru çekildiğini hissediyorsun.",
+    ["Objectives"]="Vizyonundaki kristali bul.",
+    ["Progress"]="",
+    ["Completion"]="Bu kristal sanki içine canlı bir güç hapsedilmiş gibi nabız gibi atıyor.",
+    ["minlevel"]="30",
+    ["questlevel"]="35",
+    }, -- end Crystal in the Mountains
+
+    -- Legends of the Earth <NYI>
+    -- Myzrael -> Myzrael (MobNpcData.lua)[cite: 1]
+    -- Arathi Highlands -> Arathi Yüksektağları (ZoneData.lua)[cite: 2]
+    ["636"] = {
+    ["Title"]="Yeryüzünün Efsaneleri <NYI>",
+    ["Description"]="Bu kitap bir elemental prenses olan Myzrael'in ve onun Arathi Yüksekdağları'nın derinliklerindeki hapsoluşunun hikayesini anlatıyor.\n\nAyrıca yüksekdağlardaki gizli bir kristal kümesinden bahsediyor. Myzrael'in Parçaları olan bu kristaller, prensesin hapishanesine açılan bir penceredir.\n\nCesur bir ruh Myzrael'in Parçaları'nı bulursa, belki de onunla konuşabilir...",
+    ["Objectives"]="Myzrael'in Parçaları'nı bul.[cite: 1]",
+    ["Progress"]="",
+    ["Completion"]="",
+    ["minlevel"]="30",
+    ["questlevel"]="35",
+    }, -- end Legends of the Earth <NYI>
+
+    -- Sigil of Strom
+    -- Zengu -> Zengu (MobNpcData.lua)[cite: 1]
+    -- Lord Ignaeus -> Lord Ignaeus (MobNpcData.lua)[cite: 1]
+    -- Hammerfall -> Çekiçdüşüşü (ZoneData.lua)[cite: 2]
+    -- Stromgarde -> Stromgarde (ZoneData.lua)[cite: 2]
+    ["639"] = {
+    ["Title"]="Strom Mührü",
+    ["Description"]="Antik çağlarda troller Arathor İmparatorluğu'na ve en yetenekli rakibimiz olan Trollkatil lakaplı Strom'lu Lord Ignaeus'a karşı savaştı. Kendi kadim dillerinde trol katili anlamına gelen Trol'kalar'ı savurarak savaşa sürülürdü.\n\nAma şimdi Trollkatil'in oğulları zayıfladı, kaleleri harabeye döndü.\n\nKılıç, Stromgarde'dan sağ kurtulanlar arasında bölüştürülen birkaç mühürle korunuyor ve onları geri almalıyız.\n\nİlk mühür Şebeke tarafından alındı, Stromgarde'daki adamlarından birinde olmalı.",
+    ["Objectives"]="Çekiçdüşüşü'ndeki Zengu için Strom Mührü'nü al.[cite: 1, 2]",
+    ["Progress"]="İlk mührün yerini tespit ettin mi? Büyük olasılıkla Stromgarde'daki Şebeke ajanlarından birinin üzerinde taşınıyordur.[cite: 2]",
+    ["Completion"]="Harika, dostum. Trol'kalar'ı Trollkatil'in mezarından çıkarmak için ihtiyacımız olan mühürleri toplamak adına bu iyi bir başlangıç.",
+    ["minlevel"]="32",
+    ["questlevel"]="37",
+    }, -- end Sigil of Strom
+
+    -- The Broken Sigil
+    -- Tor'gan -> Tor'gan (MobNpcData.lua)[cite: 1]
+    -- Thoras Trollbane -> Thoras Trollkatil (MobNpcData.lua)[cite: 1]
+    -- Galen -> Galen (MobNpcData.lua)[cite: 1]
+    -- Hammerfall -> Çekiçdüşüşü (ZoneData.lua)[cite: 2]
+    -- Stromgarde -> Stromgarde (ZoneData.lua)[cite: 2]
+    ["640"] = {
+    ["Title"]="Kırık Mühür",
+    ["Description"]="Thoras Trollkatil'in mezarı üç mühürle korunmaktadır--ilki Şebeke'den geri aldığındı. Diğer ikisini almak daha zor olacak çünkü sıkıca mevzilenmiş Stromgarde milislerinin elindeler.\n\nThoradin'in mührü Thoras'ın oğlu Galen tarafından on bir parçaya bölündü ve Stromgarde savunucuları arasında dağıtıldı. Parçaları al ve troll şamanı Tor'gan'a getir, o onları eksiksiz bir mühür halinde birleştirebilecektir.",
+    ["Objectives"]="Stromgarde'daki savunuculardan 11 Mühür Parçası al ve onları Çekiçdüşüşü'ndeki Tor'gan'a getir.[cite: 1, 2]",
+    ["Progress"]="Throm'ka, YOUR_CLASS. Zengu bana yardımına ihtiyacın olduğunu bildirdi?",
+    ["Completion"]="Ah, bu mührü yeniden inşa etmeme mi ihtiyacın var? Çok zor olmamalı... Tüm parçalar burada görünüyor ve büyülü yapıyı yeniden şekillendirmek kolay olacak.\n\nGözlerini kapatmak isteyebilirsin.",
+    ["minlevel"]="32",
+    ["questlevel"]="40",
+    }, -- end The Broken Sigil
+
+    -- Sigil of Thoradin
+    -- Zengu -> Zengu (MobNpcData.lua)[cite: 1]
+    -- Hammerfall -> Çekiçdüşüşü (ZoneData.lua)[cite: 2]
+    ["641"] = {
+    ["Title"]="Thoradin Mührü",
+    ["Description"]="Yeniden inşa kusursuz bir şekilde işledi. Mühür artık Trollkatil'in mezarındaki mührü açmak için kullanılabilir. Onu Zengu'ya geri götür, hiç şüphesiz tamamlaman gereken ek görevleri vardır.",
+    ["Objectives"]="Restore edilen Thoradin Mührü'nü Çekiçdüşüşü'ndeki Zengu'ya getir.[cite: 1, 2]",
+    ["Progress"]="YOUR_NAME! İkinci mühür yanında mı?",
+    ["Completion"]="Trol'kalar'ı Trollkatil'in mezarından çıkarabilmenin yarı yolundayız. Üçüncü mührün nerede olduğundan tam olarak emin değiliz, çünkü sahipleri Arathi çevresinde epey hareket ediyor gibi görünüyor, ancak onu bulabileceğine inancım tam.",
+    ["minlevel"]="32",
+    ["questlevel"]="40",
+    }, -- end Sigil of Thoradin
+
+    -- Sigil of Arathor
+    -- Lieutenant Valorcall -> Teğmen Yiğitçağrı (MobNpcData.lua)[cite: 1]
+    -- Zengu -> Zengu (MobNpcData.lua)[cite: 1]
+    -- Hammerfall -> Çekiçdüşüşü (ZoneData.lua)[cite: 2]
+    -- Stromgarde -> Stromgarde (ZoneData.lua)[cite: 2]
+    -- Arathi Highlands -> Arathi Yüksekdağları (ZoneData.lua)[cite: 2]
+    ["643"] = {
+    ["Title"]="Arathor Mührü",
+    ["Description"]="Tüm Arathi Yüksekdağları şöyle dursun, Stromgarde'ı bile zar zor kontrol ettikleri söylenebilse de, insan prens süvari kalıntılarını kırsalda koşturup duruyor. Bunu neden yaptığını anlayamıyorum ama insanların düşünce tarzını kim anlar ki, hm?\n\nGerekçesi ne olursa olsun, daha da önemlisi mühürlerden birini süvari liderleri Teğmen Yiğitçağrı'ya verdi. Onu bul ve mührünü bana geri getir.",
+    ["Objectives"]="Arathor Mührü'nü al ve Çekiçdüşüşü'ndeki Zengu'ya geri getir.[cite: 1, 2]",
+    ["Progress"]="Yiğitçağrı'nın izini sürmek kolay olmayacak, YOUR_NAME. At sırtında, mesafeyi hızlıca katedebilir. Yine de mührünü almalıyız.",
+    ["Completion"]="Süvari liderlerini kaybetmek Stromgarde savunucularına büyük bir darbe vuracaktır. Daha da iyisi, Trol'kalar'ı kendimize mal edebilmek için sadece tek bir mühür uzakta olduğumuz anlamına geliyor.",
+    ["minlevel"]="32",
+    ["questlevel"]="41",
+    }, -- end Sigil of Arathor
+
+    -- Sigil of Trollbane
+    -- Prince Galen Trollbane -> Prens Galen Trollkatil (MobNpcData.lua)[cite: 1]
+    -- Zengu -> Zengu (MobNpcData.lua)[cite: 1]
+    -- Hammerfall -> Çekiçdüşüşü (ZoneData.lua)[cite: 2]
+    -- Stromgarde -> Stromgarde (ZoneData.lua)[cite: 2]
+    -- Zul'Gurub -> Zul'Gurub (ZoneData.lua)[cite: 2]
+    ["644"] = {
+    ["Title"]="Trollkatil Mührü",
+    ["Description"]="Thoras Trollkatil'in mezarını açmak için gereken mühürlerin sonuncusu bizzat oğlu tarafından tutulmaktadır. Stromgarde'ın derinliklerinde, milislerin kontrolündeki bölgelerdeki bir şapelde ikamet ediyor. Prens Galen iyi korunuyor ve kendisi de gevşek bir savaşçı değil, bu yüzden bu görev son derece zor olabilir.",
+    ["Objectives"]="Prens Galen Trollkatil'i öldür ve Trollkatil Mührü'nü Çekiçdüşüşü'ndeki Zengu'ya getir.[cite: 1, 2]",
+    ["Progress"]="Geri döndün, YOUR_NAME. Ignaeus Trollkatil'in soyu kesildi mi?",
+    ["Completion"]="Bu harika bir gün, YOUR_CLASS. Trollkatil'in kanı artık halkımın peşini bırakmayacak ve Trol'kalar'ı almak için gereken mühürler elimizde. Çok yakında Zul'Gurub'un nefret edilen trollerine karşı harekete geçeceğiz.[cite: 2]",
+    ["minlevel"]="32",
+    ["questlevel"]="42",
+    }, -- end Sigil of Trollbane
+
+    -- Trol'kalar
+    -- Stromgarde -> Stromgarde (ZoneData.lua)[cite: 2]
+    ["645"] = {
+    ["Title"]="Trol'kalar",
+    ["Description"]="Bu da ne? Dört mühür bir araya getirilerek tek bir mühür oluşturdu. Bunun Trollkatil'in mezarına yerleştirilen muhafazaları kırabileceğinden şüphe yok.\n\nTrollkatil'in kalıntıları Stromgarde'daki şapelin arkasındaki Kutsal Mabet'e gömülmüştür. Trol'kalar'ı al.",
+    ["Objectives"]="Trol'kalar'ı Stromgarde'daki Trollkatil'in mezarından al.[cite: 2]",
+    ["Progress"]="Trollkatil'in mezarının yüzündeki taşa kazınmış oymalar, Ignaeus Mührü'nün parlayan çizgileriyle eşleşiyor...",
+    ["Completion"]="Trollkatil'in mezarının yüzündeki çizgiler Ignaeus Mührü'nün parlayan çizgileriyle eşleştiğinde, bir ışık parlaması Mühür'ü kaplar ve efsanevi kılıç Trol'kalar taş ellerin kavrayışından serbest kalır.",
+    ["minlevel"]="32",
+    ["questlevel"]="42",
+    }, -- end Trol'kalar
+
+    -- Trol'kalar
+    -- Zengu -> Zengu (MobNpcData.lua)[cite: 1]
+    -- Hammerfall -> Çekiçdüşüşü (ZoneData.lua)[cite: 2]
+    -- Zul'Gurub -> Zul'Gurub (ZoneData.lua)[cite: 2]
+    ["646"] = {
+    ["Title"]="Trol'kalar",
+    ["Description"]="Işık yavaşça soluyor, taş bir kının içinde tutulan kılıç Trol'kalar serbest bırakıldı.",
+    ["Objectives"]="Trol'kalar'ı Çekiçdüşüşü'ndeki Zengu'ya teslim et.[cite: 1, 2]",
+    ["Progress"]="YOUR_NAME! Kılıcı aldın mı?",
+    ["Completion"]="Nesiller boyunca Strom ve Arathor kuvvetleri trolleri kasıp kavurdu. Şimdi onların en büyük silahı elimizde. Zul'Gurub'un nemli ormanlarındaki santim santim ilerleyişimiz sona erecek.[cite: 2]",
+    ["minlevel"]="32",
+    ["questlevel"]="42",
+    }, -- end Trol'kalar
+
+    -- Myzrael's Allies
+    -- Gerrig Bonegrip -> Gerrig Kemikkavrayan (MobNpcData.lua)[cite: 1]
+    -- Ironforge -> Demirocak (ZoneData.lua)[cite: 2]
+    -- Forlorn Cavern -> Kimsesizler Mağarası (ZoneData.lua)[cite: 2]
+    ["653"] = {
+    ["Title"]="Myzrael'in Müttefikleri",
+    ["Description"]="<Myzrael konuşur.>\n\nÖzgür! ÖZGÜRÜM! Beni esir alanlardan gizlenerek güç toplamakta özgürüm. Çünkü şimdi karşıma çıksalardı kesinlikle bana üstün gelir ve beni tekrar hapsederlerdi.\n\nAma zamanı geldiğinde devlerle yüzleşeceğim ve onlar üzerimdeki muhafızlıklarına pişman olacaklar!\n\nSen soylu bir müttefiksin, YOUR_NAME. Zamanı geldiğinde yardımına tekrar ihtiyacım olacak. Hazır olduğumda beni yüzeye çağırmanı isteyeceğim.\n\nGerrig Kemikkavrayan ile konuş. Demirocak'ta, Kimsesizler Mağarası'ndaki bir dükkanda. Nasıl çağrılabileceğimi biliyor.",
+    ["Objectives"]="Demirocak'ın Kimsesizler Mağarası'nda Gerrig Kemikkavrayan ile konuş.[cite: 1, 2]",
+    ["Progress"]="",
+    ["Completion"]="Leydi bana gelişini bildirdi, YOUR_CLASS. İkametgahıma hoş geldin, çünkü sen de benim gibi daha yüce bir amaca hizmet ediyorsun.",
+    ["minlevel"]="30",
+    ["questlevel"]="40",
+    }, -- end Myzrael's Allies
+
+    -- Hammerfall
+    -- Tor'gan -> Tor'gan (MobNpcData.lua)[cite: 1]
+    -- Gor'mul -> Gor'mul (MobNpcData.lua)[cite: 1]
+    -- Thrall -> Thrall (MobNpcData.lua)[cite: 1]
+    -- Doomhammer -> Doomhammer (MobNpcData.lua)[cite: 1]
+    -- Hammerfall -> Çekiçdüşüşü (ZoneData.lua)[cite: 2]
+    ["655"] = {
+    ["Title"]="Çekiçdüşüşü",
+    ["Description"]="Hâlâ dün gibi aklımda... Dün gibi net... Umutsuz geçen onca yıl, beni bu korkunç yere bağlayan odun ve çelik. Sonra nihayet, nihayet! Savaşşefi oradaydı. Doomhammer gece yarısı plakasının içinde, savaş balyozunu yüksekte tutuyordu.\n\nBu... Çok korkunçtu... Bir korkağın darbesinin en büyük kahramanımızı devirmesi. Arkadan atıyla saldırdı ve mızrağını ona sapladı... Dizlerimin üzerine çöktüm. Ne umut vardı? Ne umut var ki...",
+    ["Objectives"]="Çekiçdüşüşü'ndeki Tor'gan ile konuş.[cite: 1, 2]",
+    ["Progress"]="",
+    ["Completion"]="Ah, bahsettiğin Gor'mul. Evet, söylediklerine bakılırsa Doomhammer'ın ölümünün şokunu atlatamamış gibi görünüyor.\n\nThrall ve Orgrim kampı özgürleştirmek için savaşırken Gor'mul burada esirdi ama toprak sarsılıp kardeşlerimiz kaçarken o geride kaldı. Biz burayı Çekiçdüşüşü'nde kurmak için geri dönene kadar yıllarca tek başına, yönsüz ve umutsuz bir şekilde dolaştı.",
+    ["minlevel"]="29",
+    ["questlevel"]="34",
+    }, -- end Hammerfall
+
+    -- Summoning the Princess
+    -- Myzrael -> Myzrael (MobNpcData.lua)[cite: 1]
+    ["656"] = {
+    ["Title"]="Prensesi Çağırmak",
+    ["Description"]="Myzrael daha da güçlenmeden önce onu yenmelisin. Eğer yapmazsan, yeterli gücü topladığında kendisini tutsak edenlere meydan okuyacaktır! Onu kontrol edebileceklerini düşünenler var ama kontrol edilebiliyorsa devler neden en başta onu zincirledi??\n\nÇılgınca bir mantık, değil mi?\n\nOnu yenmek için, onunla ilk konuştuğun Myzrael'in Parçaları'nda onu çağır. Onu yen ve Büyülü Prangaları'nı topla, ardından onları Myzrael'in Parçaları'na bağla.\n\nBunu yap, o yine kapana kısılacaktır.",
+    ["Objectives"]="Myzrael'in Parçaları'na git, onu çağır ve yen.\n\nBüyülü Prangaları'nı topla ve onları Myzrael'in Parçaları'na bağla.[cite: 1]",
+    ["Progress"]="Myzrael'in Parçaları artık garip bir şekilde sessiz.",
+    ["Completion"]="Büyülü prangalar Parçalar'ın etrafına yerleştirilirken, çok aşağılardan insan dışı bir feryat duyulur. Çığlığı bir kükreme takip eder.\n\nMyzrael'in Parçaları artık eskisi gibi sıcaklık ve güvenlik hissi uyandırmıyor. Şimdi açık bir tehditle atıyorlar... Sanki altlarındaki şey yüzeye karşı kötü niyet besliyormuş gibi.",
+    ["minlevel"]="30",
+    ["questlevel"]="50",
+    }, -- end Summoning the Princess
+
+    -- Deep Sea Salvage
+    -- First Mate Nilzlix -> İkinci Kaptan Nilzlix (MobNpcData.lua)[cite: 1]
+    -- Fleet Master Seahorn -> Filo Komutanı Seahorn (MobNpcData.lua)[cite: 1]
+    -- Booty Bay -> Ganimet Körfezi (ZoneData.lua)[cite: 2]
+    ["662"] = {
+    ["Title"]="Derin Deniz Kurtarması",
+    ["Description"]="O'Breen gemileri koya soktu. Hazineyi burada bulabileceğimizden emindik. Harbinger güvenli bir şekilde yanaştı ancak Maiden's Folly ve Spirit of Silverpine yaklaşırken sular çekilmeye başladı. Gördüğüm en garip şeydi!\n\nO iki gemi bir şeye karaya oturdu... Resifte bir tür tapınak. O kadar hızlı battılar ki tam bir trajediydi.\n\nAyrılmadan önce Haritaları kadar Seyir Defterlerini de almamız gerekiyor. Bu bilgiyi meraklı gözlere bırakamayız!",
+    ["Objectives"]="İkinci Kaptan Nilzlix, Maiden's Folly ve Spirit of Silverpine'dan Haritaları ve Seyir Defterlerini almanı istiyor.[cite: 1]",
+    ["Progress"]="Arama ve kurtarma görevi nasıl gidiyor, YOUR_NAME? Maiden's Folly ve Spirit of Silverpine'dan o Defterleri ve Haritaları gerçekten geri almamız gerekiyor.\n\nBu kaynaklardan elde edilen bilgiler düşman eline geçecek olursa Filo Komutanı Seahorn bizi tahtadan aşağı yürütür.\n\nTabii bu pislikten hiç çıkabilirsek...",
+    ["Completion"]="Bu bilginin güvende olduğunu bilmek Ganimet Körfezi'ndeki komutaya biraz rahatlık getirecektir. Aferin, YOUR_NAME.",
+    ["minlevel"]="35",
+    ["questlevel"]="40",
+    }, -- end Deep Sea Salvage
+
+    -- Land Ho!
+    -- Captain O'Breen -> Kaptan O'Breen (MobNpcData.lua)[cite: 1]
+    -- Faldir's Cove -> Faldir Koyu (ZoneData.lua)[cite: 2]
+    -- Booty Bay -> Ganimet Körfezi (ZoneData.lua)[cite: 2]
+    ["663"] = {
+    ["Title"]="Kara Göründü!",
+    ["Description"]="Lolo küçük bir YOUR_RACE görüyor! Lolo her zaman tetiktedir!\n\nFaldir Koyu'na hoş geldin. Kaptan O'Breen burada sadece birkaç saat kalacağımızı söylemişti. Hazineyi toplayıp Ganimet Körfezi'ne dönmek için yeterli süre.\n\nAma Lolo burada bundan çok daha uzun süre kalacağımızı düşünüyor. Formasyonumuzdaki diğer iki gemiyi kaybettik. Zavallı Spirit of Silverpine ve Maiden's Folly. Şimdi denizin dibinde dinleniyorlar!\n\nEğer burada kalmayı planlıyorsan Lolo Kaptan O'Breen ile konuşmanı önerir.",
+    ["Objectives"]="Faldir Koyu'ndaki Kaptan O'Breen ile konuş.[cite: 1, 2]",
+    ["Progress"]="",
+    ["Completion"]="Ahoy, dostum.\n\nKorkunç bir karmaşaydı. Nelerin yaşandığını öğrenirse Seahorn gemimi elimden alır.\n\nProfesörün icatlarından biri kayıp hazinenin bu koyun yakınında olduğunu gösteriyordu. Harbinger'ı demirlemek için içeri soktum ve Spirit of Silverpine ile Maiden's Folly'ye takip etmeleri için işaret verdim.\n\nSonra deniz gürledi. Gelgitler düştü ve iki gemi resife çarptı.\n\nBu sadece bir resif değil. Aşağıda bir şey var....\n\nMürettebatıma yardım et, cömertçe ödüllendirileceksin.",
+    ["minlevel"]="35",
+    ["questlevel"]="35",
+    }, -- end Land Ho!
+
+    -- Drowned Sorrows
+    -- Captain Steelgut -> Kaptan Çelikbağırsak (MobNpcData.lua)[cite: 1]
+    -- Faldir's Cove -> Faldir Koyu (ZoneData.lua)[cite: 2]
+    ["664"] = {
+    ["Title"]="Suda Boğulan Kederler",
+    ["Description"]="Ah, korkunç bir hayat. Ateşin yanında oturup temiz hava solumak yerine şu anda sulu bir mezarda olmalıydım.\n\nMürettebat güzel Maiden's Folly'mi kurtarmak için çok uğraştı. Çocukları kutsasın, kalplerini kutsasın.\n\nO'Breen karaya güvenle ulaştı ama biz o kadar şanslı değildik. Denizler üzerimize çöktü, yemin ederim.\n\nBir saniye su üstündeyiz, bir saniye sonra su içeri doluyor. Ve o canavarlar! Hayatta kalan herkesi öldürdüler. Korkunç naga pisliği. Kendimden geçtim ve kendimi burada, kurtarılmış olarak buldum.\n\nO canavarların ölmesini istiyorum.",
+    ["Objectives"]="Faldir Koyu'ndaki Kaptan Çelikbağırsak 10 Dikenlisırt Yağmacısı ve 3 Dikenlisırt Büyücüsü öldürmeni istiyor.[cite: 1, 2]",
+    ["Progress"]="Bah, belki de gidip o naga pisliklerini kendim öldürmeliyim. Bunu yapmayacağın ortada.\n\nBelki kendine meşguliyet bulasın diye biraz örgü şişi bulabilirim.",
+    ["Completion"]="Orada iyi iş çıkardın, YOUR_NAME.\n\nO pislikler hak ettiklerini buldular. Hiçbir şey gemimi veya mürettabatımı geri getiremeyecek olsa da, o nagaların ölümü bana biraz teselli veriyor.",
+    ["minlevel"]="35",
+    ["questlevel"]="40",
+    }, -- end Drowned Sorrows
+
+    -- Sunken Treasure
+    -- Professor Phizzlethorpe -> Profesör Phizzlethorpe (MobNpcData.lua)[cite: 1]
+    ["665"] = {
+    ["Title"]="Batık Hazine",
+    ["Description"]="Artık tam teşekküllü Karasu Yağmacıları olduğumuza göre, Bay O meşakkatine elven hazinesini bulmasında yardım etmek bizim işimiz.\n\nYardım olmadan karanlık denizde mücevherleri bulmak neredeyse imkansız. Doktor yardımcı olacak bazı gözlükler yaptı. Gözlüklerin hemen tepedeki mağarada bulunan efsunlu taştan elde edilen enerjiyle şarj edilmesine ihtiyacı var.\n\nAma mağara lanetli! Yaklaştığımızda pusuya düşürülüyoruz. Beni koru, ben de taştaki enerjiyi gözlüklere aktarabileyim.",
+    ["Objectives"]="Profesör Phizzlethorpe'a mağaraya gidişte ve dönüşte eşlik et.[cite: 1]",
+    ["Progress"]="",
+    ["Completion"]="Gözlükler artık mükemmel çalışıyor! Aferin, YOUR_NAME.",
+    ["minlevel"]="35",
+    ["questlevel"]="40",
+    }, -- end Sunken Treasure
+
+    -- Sunken Treasure
+    -- Doctor Draxlegauge -> Doktor Draxlegauge (MobNpcData.lua)[cite: 1]
+    -- Captain O'Breen -> Kaptan O'Breen (MobNpcData.lua)[cite: 1]
+    -- Faldir's Cove -> Faldir Koyu (ZoneData.lua)[cite: 2]
+    ["666"] = {
+    ["Title"]="Batık Hazine",
+    ["Description"]="Hazine deniz tabanında o kadar uzun süre kaldı ki mücevherler kireçlenip kalın taşa dönüştü. Ancak bu gözlüklerde toplanan güç, onları kolayca bulmanızı sağlayacaktır.\n\nBiraz cüce zekası çok iş görür!\n\nBu yüzden Mücevher Avı Gözlükleri'ni ödünç al, YOUR_NAME, ve Kaptan O'Breen için kayıp hazinelerden bazılarını toplayıp toplayamayacağına bak.\n\nBen kendim oraya yüzerdim ama... Um... Şey, güvenli ve kuru karada ilgilenmem gereken önemli bilimsel işlerim var.... Er, evet.",
+    ["Objectives"]="Faldir Koyu'ndaki Doktor Draxlegauge 10 Elf Mücevheri toplamanı ve işin bittiğinde Mücevher Avı Gözlükleri'ni geri getirmeni istiyor.[cite: 1, 2]",
+    ["Progress"]="Gözlükler nasıl çalıştı? Her şey düzgün işledi mi? Gerekirse ayarlamalar yapılabilir.\n\nOh, ve işin bittiğinde o gözlükleri geri almam gerekecek. Kaptan O'Breen'in daha sonra onlar için pek çok kullanım alanı bulacağından eminim.",
+    ["Completion"]="Son derece mükemmel, YOUR_NAME! Kaptan çok memnun kalacak! Ve haber Filo Komutanı Seahorn'a ulaşana kadar bekleyin!",
+    ["minlevel"]="35",
+    ["questlevel"]="40",
+    }, -- end Sunken Treasure
+
+    -- Death From Below
+    -- Shakes O'Breen -> Shakes O'Breen (MobNpcData.lua)[cite: 1]
+    -- Booty Bay -> Ganimet Körfezi (ZoneData.lua)[cite: 2]
+    ["667"] = {
+    ["Title"]="Aşağıdan Gelen Ölüm",
+    ["Description"]="Bu kötü. Dikenlisırtlar bir saldırı için toplanıyor gibi görünüyor.\n\nNagalar savaştaki acımasızlıklarıyla bilinirler. Ben ölene kadar saldırmaya devam edecekler.\n\nKendi hayatıma mürettebatımınkinden daha fazla değer vermiyorum ama beni savunmaya yardım etmelisin. Mürettebat, benim deniz bilgim olmadan Ganimet Körfezi'ne geri dönmeyi başaramayacak.\n\nNagalar denizden gelecek. Saldırıyı püskürtmek için burada benimle kalmanı istiyorum. Topu işlet ve onları geri püskürt.\n\nHazır mısın, YOUR_NAME?",
+    ["Objectives"]="Saldırı sırasında Shakes O'Breen'i koru.[cite: 1]",
+    ["Progress"]="",
+    ["Completion"]="Saldırıdan sağ çıktık!\n\nSen olmasaydın başaramazdık, YOUR_NAME.\n\nSular yükselir yükselmez yola çıkacağız. Bu kadar umut vaat eden bir kahraman olmasaydın sana mürettebatımda bir yer teklif ederdim. Ama senin pişiğe çevirecek daha büyük balıkların olduğunu görebiliyorum.\n\nUfacık bir YOUR_RACE olsan bile....",
+    ["minlevel"]="35",
+    ["questlevel"]="44",
+    }, -- end Death From Below
+
+    -- Sunken Treasure
+    -- Captain O'Breen -> Kaptan O'Breen (MobNpcData.lua)[cite: 1]
+    ["668"] = {
+    ["Title"]="Batık Hazine",
+    ["Description"]="Kaptan O'Breen'i bekletmeyelim. Bu mücevherleri ilk elden görmek isteyecektir. Ne de olsa burada olmamızın nedeni bu!\n\nVe bu korsanlarla düşüp kalktığımız birkaç haftadan sonra, profesörle ben sağlığımız için en son iyi şeyin onların hazinesine tutunurken yakalanmak olduğunu anladık.\n\nAl, YOUR_NAME, bunları O meşakkatine götür.",
+    ["Objectives"]="Elf Mücevherleri'ni Kaptan O'Breen'e götür.[cite: 1]",
+    ["Progress"]="Ahoy, YOUR_CLASS. Seni köprüye getiren nedir?",
+    ["Completion"]="Demek küçük cüceler ne de olsa değerlerini kanıtladılar? O bilek ısıranları bir nedenden dolayı etrafta tuttuğumuzu biliyordum!",
+    ["minlevel"]="35",
+    ["questlevel"]="40",
+    }, -- end Sunken Treasure
+
+    -- Sunken Treasure
+    -- Fleet Master Seahorn -> Filo Komutanı Seahorn (MobNpcData.lua)[cite: 1]
+    -- Booty Bay -> Ganimet Körfezi (ZoneData.lua)[cite: 2]
+    ["669"] = {
+    ["Title"]="Batık Hazine",
+    ["Description"]="Filo Komutanı Seahorn buluşumuzu hemen duymak isteyecektir.\n\nAma görebildiğin gibi buradan çıkacak pek bir durumda değiliz. Sadece sular çok alçak olmakla kalmıyor, aynı zamanda huzurunu kaçırdığımız o lanet yaratıklar da hareketlerimizi yakından takip ediyor.\n\nGanimet Körfezi'ndeki Filo Komutanı Seahorn'a hazineyi keşfettiğimizi ve daha fazlasını çıkarmak için çalıştığımız haberini ulaştırabilirsen Karasu Yağmacıları'na büyük hizmetin dokunur. Kanıt olarak bu örneği ona götür.",
+    ["Objectives"]="Örnek Elf Mücevheri'ni Ganimet Körfezi'ndeki Filo Komutanı Seahorn'a götür.[cite: 1, 2]",
+    ["Progress"]="Seni Ganimet Körfezi'ne getiren nedir, YOUR_CLASS?[cite: 2]",
+    ["Completion"]="Ah, bunu eski dost Shakes O'Breen'e bırakın! Görev için doğru kaptanın o olduğunu biliyordum!",
+    ["minlevel"]="35",
+    ["questlevel"]="40",
+    }, -- end Sunken Treasure
+
+    -- Sunken Treasure
+    -- Shakes O'Breen -> Shakes O'Breen (MobNpcData.lua)[cite: 1]
+    -- Booty Bay -> Ganimet Körfezi (ZoneData.lua)[cite: 2]
+    -- Ratchet -> Ratchet (ZoneData.lua)[cite: 2]
+    -- Arathi -> Arathi (ZoneData.lua)[cite: 2]
+    ["670"] = {
+    ["Title"]="Batık Hazine",
+    ["Description"]="Şey, YOUR_NAME, maceracı bir tipe benziyorsun. Filom ikmal yapana kadar Ganimet Körfezi'nde çakılı kaldı.\n\nBurada ve yurt dışında çetin şeyler dönüyor ve Arathi kıyısında bağlı olan Shakes O'Breen'e çok gizli bazı yazışmaları ulaştırmam gerekiyor.\n\nBu mesajı güvenle ve gizlilik içinde teslim edeceğin konusunda sana güvenebilir miyim?",
+    ["Objectives"]="Seahorn'un Mektubu'nu Arathi Yüksekdağları'ndaki Shakes O'Breen'e teslim et.[cite: 1, 2]",
+    ["Progress"]="Seahorn etkilendi mi? Gülümsemesinin Ganimet Körfezi'nden Ratchet'a kadar uzandığına bahse girerim.[cite: 2]",
+    ["Completion"]="Böyle uzun ve tehlikeli bir yolculuk yaptığın için teşekkür ederim. Karasu Yağmacıları'nın minnetine sahipsin.",
+    ["minlevel"]="35",
+    ["questlevel"]="40",
+    }, -- end Sunken Treasure
+
+    -- Foul Magics
+    -- Tor'gan -> Tor'gan (MobNpcData.lua)[cite: 1]
+    -- Hammerfall -> Çekiçdüşüşü (ZoneData.lua)[cite: 2]
+    -- Northfold Manor -> Kuzeykıvrım Malikanesi
+    ["671"] = {
+    ["Title"]="Lanetli Büyüler",
+    ["Description"]="Havada garip bir şey hissettim... Kanımda kaynayan bir his. Şüphelerim vardı. Huzursuzluğumun kaynağını bulmak için yola çıktım ve batıda, Kuzeykıvrım Malikanesi'nde iblis çağırma kalıntılarını keşfettim. Yaklaştıkça kanım kaynamaya ve içimdeki öfke büyümeye başladı.\n\nYerde iblis çağırmaya yardımcı olmak için kullanılan bir kan taşı muskası gördüm. Bulduğum tükenmişti ama. İncelemek için bir tanesine daha ihtiyacım olacak ama malikaneye geri dönmeye cesaret edemiyorum. Bana biraz getirebilir misin?",
+    ["Objectives"]="Çekiçdüşüşü'ndeki Tor'gan için 10 Kan Taşı Muskası al.[cite: 1, 2]",
+    ["Progress"]="Bir zamanlar lanetlenmiş kan hâlâ damarlarımda akıyor, YOUR_NAME. Eğer birisi... Bir şey iblisleri çağırıyorsa, durdurulmalı.",
+    ["Completion"]="Şebeke'nin gerçek niyetlerini tespit etmem biraz zaman alacak ama karanlık, iblis büyüleriyle olan açık bağlantıları beni rahatsız ediyor. Daha fazlasını bildiğimde sana söyleyeceğim.",
+    ["minlevel"]="30",
+    ["questlevel"]="33",
+    }, -- end Foul Magics
+
+    -- Raising Spirits
+    -- Tor'gan -> Tor'gan (MobNpcData.lua)[cite: 1]
+    -- Gor'mul -> Gor'mul (MobNpcData.lua)[cite: 1]
+    -- Thrall -> Thrall (MobNpcData.lua)[cite: 1]
+    -- Orgrim -> Orgrim (MobNpcData.lua)[cite: 1]
+    -- Hammerfall -> Çekiçdüşüşü (ZoneData.lua)[cite: 2]
+    -- Orgrimmar -> Orgrimmar (ZoneData.lua)[cite: 2]
+    -- Kalimdor -> Kalimdor (ZoneData.lua)[cite: 2]
+    ["672"] = {
+    ["Title"]="Ruhları Yükseltmek",
+    ["Description"]="Onu yerleştirmeye, neşelendirmeye, Kalimdor'daki Orgrimmar ulu şehrimizin hikayelerini anlatmaya çalıştık ama hiçbir şey onu kıpırdatmadı.\n\nOrgrim'in zırhını ve balyozunu taşıyan genç Savaşşefimiz Thrall'ın hikayeleri... Ama belki... Belki! Yeni bulduğumuz şamanik büyünün bir gösterisi ona yeni bir umut verebilir. Denemeye değer!\n\nOnun için yapabileceğimiz küçük bir nesne, evet... Bana biraz raptor gözü getir, ben de ne yapabileceğime bakayım.",
+    ["Objectives"]="Çekiçdüşüşü'ndeki Tor'gan için Yüksekdağ Koşucularından ve Yüksekdağ Biçicilerinden 10 Yüksekdağ Raptor Gözü elde et.[cite: 1, 2]",
+    ["Progress"]="Gor'mul'a raptorların gücünün bir kısmını verecek bir muska yaratacağım. Belki bu onun içinde bir alev uyandırır...",
+    ["Completion"]="Mükemmel. Bu gözleri veren raptorların ruhları, bu muskayı taşıyana güç katacaktır.",
+    ["minlevel"]="29",
+    ["questlevel"]="34",
+    }, -- end Raising Spirits
+
+    -- Foul Magics
+    -- Marez Cowl -> Marez Cowl (MobNpcData.lua)[cite: 1]
+    -- Tor'gan -> Tor'gan (MobNpcData.lua)[cite: 1]
+    -- Hammerfall -> Çekiçdüşüşü (ZoneData.lua)[cite: 2]
+    -- Stromgarde -> Stromgarde (ZoneData.lua)[cite: 2]
+    ["673"] = {
+    ["Title"]="Lanetli Büyüler",
+    ["Description"]="Stromgarde surları içinde güçlü bir iblis büyücüsünün ikamet ettiğinden hiç şüphem yok. Zaman zaman gizemli bir büyü yadigarı kullanarak bu iblis büyücüsü çok sayıda korkunç iblisi çağırdı. Onun enerjisinin kaynağını ortadan kaldırmalıyız.\n\nİblis büyücüsünü bul ve öldür. Üzerinde bulduğun her türlü büyülü nesneyi bana getir, ben de onu yok etmek ve gücünün bu toprağı daha fazla kirletmek için kullanılmamasını sağlamak adına adımlar atayım.",
+    ["Objectives"]="Marez Cowl'un Kan Taşı Küresi'ni al ve Çekiçdüşüşü'ndeki Tor'gan'a getir.[cite: 1, 2]",
+    ["Progress"]="Kanımdaki yanma... Her geçen gün büyüyor. İblis büyücüsü durdurulmalı.",
+    ["Completion"]="Huzursuz gecelerim, bu küreyi yok ettiğimde huzurlu bir uykuya dönüşecek. Teşekkür ederim, YOUR_NAME. Hellscream onları lanetlerinden kurtarmadan önce iblislerin orklar üzerinde tuttuğu korkunç gücün tüyler ürpertici bir hatırlatıcısıdır.",
+    ["minlevel"]="35",
+    ["questlevel"]="40",
+    }, -- end Foul Magics
+
+    -- Raising Spirits
+    -- Gor'mul -> Gor'mul (MobNpcData.lua)[cite: 1]
+    ["674"] = {
+    ["Title"]="Ruhları Yükseltmek",
+    ["Description"]="Al, bu muskayı Gor'mul'a götür ve raptorların gücünün bir zamanlar damarlarında yanan savaşçının alevini uyandırıp uyandıramayacağını gör.",
+    ["Objectives"]="Raptor Pençesi Muskası'nı Gor'mul'a ver.[cite: 1]",
+    ["Progress"]="Bir korkağın eli en güçlülerin en güçlüsünü katledebildiğinde ne umut var? Sana soruyorum, ne umut var!",
+    ["Completion"]="Bu da ne? Cilalanmış kemik. Cilalanmış kemik ne işime yarayacak? Bir süs eşyası Horde'u eski ihtişamına kavuşturacak mı?",
+    ["minlevel"]="29",
+    ["questlevel"]="34",
+    }, -- end Raising Spirits
+
+    -- Raising Spirits
+    -- Tor'gan -> Tor'gan (MobNpcData.lua)[cite: 1]
+    -- Gor'mul -> Gor'mul (MobNpcData.lua)[cite: 1]
+    ["675"] = {
+    ["Title"]="Ruhları Yükseltmek",
+    ["Description"]="<Gor'mul muskayı yere fırlatır.>\n\nSeni Tor'gan gönderdi, değil mi? Pah! Neden bana merhamet duyduğunu anlamıyorum. Savaşta Savaşşefimle birlikte ölmeme izin verilmediğinde bana merhamet reddedilmişti. Kader bana acımasız bir darbe indirdi...",
+    ["Objectives"]="Tor'gan ile konuş.[cite: 1]",
+    ["Progress"]="",
+    ["Completion"]="İşe yaramadı, görüyorum. Yine de ona şamanların gücünü göstermenin sonunda Gor'mul'u eski gururlu haline döndüreceğini hissediyorum. Muskanın gücü ona yeni bulduğumuz gücü göstermeye yetecek kadar büyük değildi.",
+    ["minlevel"]="29",
+    ["questlevel"]="34",
+    }, -- end Raising Spirits
+
+    -- The Real Threat
+    -- Or'Kalar -> Or'Kalar (MobNpcData.lua)[cite: 1]
+    -- Korin Fel -> Korin Fel (MobNpcData.lua)[cite: 1]
+    -- Mug'thol -> Mug'thol (MobNpcData.lua)[cite: 1]
+    -- Hammerfall -> Çekiçdüşüşü (ZoneData.lua)[cite: 2]
+    -- Stromgarde -> Stromgarde (ZoneData.lua)[cite: 2]
+    -- Tower of Arathor -> Arathor Kulesi
+    ["680"] = {
+    ["Title"]="Gerçek Tehdit",
+    ["Description"]="Kocama iyi hizmet ediyorsun, YOUR_CLASS, ancak o Çekiçdüşüşü'nün neden saldırı altında olduğunu bilmiyor.\n\nMug'thol'un Stromgarde'daki piyonu Or'Kalar, kocamdan nefret ediyor ve yıllar önce kendisini yendiği için kocamın ölümünden başka bir şey istemiyor.\n\nKehanetlerim bana Or'Kalar'ın kocam için bir tuzak kurduğunu söylüyor, bu yüzden ogrenin varlığının izlerini ondan sakladım.\n\nKocam ogrenin bulunduğu yeri öğrenirse aptalca fırlayıp gidecektir ve yaratığı katletmek için senden yardım istiyorum.",
+    ["Objectives"]="Or'Kalar'ı katlet ve Kafası'nı Çekiçdüşüşü karakolundaki Korin Fel'e getir.[cite: 1, 2]",
+    ["Progress"]="Arathor Kulesi'nin yakınında--Or'Kalar'ı orada bulacaksın. Onun ölümü Çekiçdüşüşü'ne yapılan saldırıları durduracak ve kocamın hayatını koruyacak.\n\nSessizliğimden dolayı beni zayıf--hatta onursuz--duyduğunu gözlerinden okuyorum. Bir gün benim gibi sevmeyi öğreneceksin. Belki o zaman farklı bir güç ve onur anlayacaksın.\n\nBu arada istediklerimi yap ve Or'Kalar'ı katlet.",
+    ["Completion"]="Bana büyük bir hizmette bulundun, YOUR_NAME. Eylemlerin sayesinde kocamın hayatının ve Çekiçdüşüşü'nün güvenliğinin bir gün daha korunduğunu bil. Lütfen cesaretinin ödülü olarak bunu al.",
+    ["minlevel"]="30",
+    ["questlevel"]="40",
+    }, -- end The Real Threat
+
+    -- Stromgarde Badges
+    -- Captain Nials -> Kaptan Nials (MobNpcData.lua)[cite: 1]
+    -- Refuge Pointe -> Sığınak Tepesi (ZoneData.lua)[cite: 2]
+    -- Stromgarde -> Stromgarde (ZoneData.lua)[cite: 2]
+    ["682"] = {
+    ["Title"]="Stromgarde Nişanları",
+    ["Description"]="Stromgarde'daki Şebeke, oradaki milis müfrezemizle savaşıyor. Mitingi daha disiplinli birliklerimizle savaşmaya teşvik etmek için Şebeke liderleri askerlerimize ödül koydu ve öldürülen milislerden toplanan her Stromgarde Nişanı için altın verdi.\n\nO nişanların geri alınmasını istiyoruz - kesicilerin cesur düşmüşlerimizden ganimet almasına izin veremeyiz!\n\nStromgarde'ın Şebeke kontrolündeki bölgesine gir ve nişanlarımız için onları avla.",
+    ["Objectives"]="Sığınak Tepesi'ndeki Kaptan Nials'a Stromgarde Nişanları getir.[cite: 1, 2]",
+    ["Progress"]="Hiç Stromgarde Nişanı geri aldın mı, YOUR_NAME? Şebeke, ölülerimizden kâr edemeyeceğini öğrenmeli.",
+    ["Completion"]="Teşekkür ederim, YOUR_NAME. Bu düşmüş askerlerin ailelerine savaşta öldüklerini bildireceğiz.\n\nTaşıması kasvetli bir haber olacak ama kayıp bir sevilenin belirsizliğinden daha iyidir.",
+    ["minlevel"]="30",
+    ["questlevel"]="37",
+    }, -- end Stromgarde Badges
+
+    -- Theldurin the Lost
+    -- Theldurin the Lost -> Kayıp Theldurin (MobNpcData.lua)[cite: 1]
+    -- Myzrael -> Myzrael (MobNpcData.lua)[cite: 1]
+    -- Twilight's Hammer -> Alacakaranlık Çekici
+    -- Badlands -> Çorak Topraklar (ZoneData.lua)[cite: 2]
+    ["687"] = {
+    ["Title"]="Kayıp Theldurin",
+    ["Description"]="Kayıp Theldurin bir zamanlar tarikatımız Alacakaranlık Çekici'nin bir üyesiydi. Ama aklını yitirdi ve öğretilerimizi hor gördü. Ve bizden kaçmadan önce Myzrael'in parşömenini çaldı! Onu yakalayamadık ama söylentiler Çorak Topraklar'da saklandığını, saçmaladığını ve çıldırdığını söylüyor.\n\nLeydi'yi bize geri getirmek için parşömeni bulmalısın. Ve bunu yapmak için Theldurin'i bulmalısın.",
+    ["Objectives"]="Kayıp Theldurin'i bul.[cite: 1]",
+    ["Progress"]="",
+    ["Completion"]="Merhaba. Merhaba, merhaba merhaba merhaba merhaba MERHABA!\n\nÜzgünüm - bekle, hayır değilim! Kaba olma!\n\nOh hayır... Bu çılgınca bir konuşmaydı.\n\nAma... Bazen çılgın olmak tek tesellimdir.",
+    ["minlevel"]="30",
+    ["questlevel"]="40",
+    }, -- end Theldurin the Lost
+
+    -- Myzrael's Allies
+    -- Zaruk -> Zaruk (MobNpcData.lua)[cite: 1]
+    -- Myzrael -> Myzrael (MobNpcData.lua)[cite: 1]
+    -- Hammerfall -> Çekiçdüşüşü (ZoneData.lua)[cite: 2]
+    ["688"] = {
+    ["Title"]="Myzrael'in Müttefikleri",
+    ["Description"]="<Myzrael konuşur.>\n\nÖzgür! ÖZGÜRÜM! Beni esir alanlardan gizlenerek güç toplamakta özgürüm. Çünkü şimdi karşıma çıksalardı kesinlikle bana üstün gelir ve beni tekrar hapsederlerdi.\n\nAma zamanı geldiğinde devlerle yüzleşeceğim ve onlar üzerimdeki muhafızlıklarına pişman olacaklar!\n\nSen soylu bir müttefiksin, YOUR_NAME. Zamanı geldiğinde yardımına tekrar ihtiyacım olacak. Hazır olduğumda beni yüzeye çağırmanı isteyeceğim.\n\nÇekiçdüşüşü'ndeki Zaruk ile konuş. Nasıl çağrılabileceğimi biliyor.",
+    ["Objectives"]="Çekiçdüşüşü'ndeki Zaruk ile konuş.[cite: 1, 2]",
+    ["Progress"]="",
+    ["Completion"]="Hoş geldin, YOUR_CLASS. Leydi bana gelişini bildirdi ve eğer onu yüzeye geri getireceksek konuşacak çok şeyimiz var...",
+    ["minlevel"]="30",
+    ["questlevel"]="40",
+    }, -- end Myzrael's Allies
+
+    -- Worth Its Weight in Gold
+    -- Archmage Malin -> Başbüyücü Malin (MobNpcData.lua)[cite: 1]
+    -- Skuerto -> Skuerto (MobNpcData.lua)[cite: 1]
+    -- Apprentice Kryten -> Çırak Kryten (MobNpcData.lua)[cite: 1]
+    -- Refuge Pointe -> Sığınak Tepesi (ZoneData.lua)[cite: 2]
+    -- Stormwind -> Fırtınadiyarı (ZoneData.lua)[cite: 2]
+    -- Boulderfist Hall -> Kayaalın Salonu
+    -- Arathi -> Arathi (ZoneData.lua)[cite: 2]
+    ["691"] = {
+    ["Title"]="Ağırlığınca Altın Değerinde",
+    ["Description"]="Başbüyücü Malin, Skuerto ve beni onun için reaktant toplamamız için buraya gönderdi. Eşyaları nasıl toplayacağım konusunda kararsızdım ama artık burada olduğuna göre sanırım sorunum çözüldü.\n\nŞunlara ihtiyacım var: Solukkabuk dişleri, Solukkabuk ilaç keseleri ve bir gölge avcısı bıçağı.\n\nBunları benim için bulabilir misin? Solukkabuklar Arathi'nin güneydoğusunda yaşıyor.",
+    ["Objectives"]="Sığınak Tepesi'ndeki Çırak Kryten için 10 Solukkabuk Dişi, 4 Solukkabuk İlaç Kesesi ve bir Gölge Avcısı Bıçağı bul.[cite: 1, 2]",
+    ["Progress"]="Şimdiye kadar şansın yaver gitti mi, YOUR_NAME?\n\n<Kryten okurken günlüğüne bazı notlar alır.>\n\nAraştırmam doğruysa dişler herhangi bir Solukkabuk trollünden gelecektir. İlaç keseleri Solukkabuk cadı doktorlarından gelir ve Solukkabuk gölge avcılarının en güçlüsü, geçiş törenlerini tamamladıktan sonra kendilerine verilen özel bıçağı taşımalıdır. Dövüşe tutuşana kadar hangi gölge avcılarının bıçağa sahip olacağını söylemenin bir yolu yoktur.",
+    ["Completion"]="İnanılmaz! Malin'in neden bize katılmanı istediğini anlayabiliyorum - gerçekten çok iyi iş çıkardın!\n\nBu gidişle Skuerto ve ben hiç vakit kaybetmeden Fırtınadiyarı'na geri döneceğiz.\n\nCüce yoldaşımın Kayaalın Salonu'nu keşfetmekten döndüğüne inanıyorum; hazır olduğunda git onunla konuş.\n\nOgrelarla biraz sürtüşmüş gibi görünüyordu. Yine de bunu ona söyleme; keşif becerilerine yönelik eleştirilere karşı çok hassastır.",
+    ["minlevel"]="30",
+    ["questlevel"]="36",
+    }, -- end Worth Its Weight in Gold
+
+    -- Wand over Fist
+    -- Trelane -> Trelane (MobNpcData.lua)[cite: 1]
+    -- Kor'gresh -> Kor'gresh (MobNpcData.lua)[cite: 1]
+    -- Skuerto -> Skuerto (MobNpcData.lua)[cite: 1]
+    -- Refuge Pointe -> Sığınak Tepesi (ZoneData.lua)[cite: 2]
+    -- Boulderfist Hall -> Kayaalın Salonu
+    -- Thandol Span -> Thandol Köprüsü (ZoneData.lua)[cite: 2]
+    -- Stromgarde -> Stromgarde (ZoneData.lua)[cite: 2]
+    ["693"] = {
+    ["Title"]="Asa Yumruktan Üstündür",
+    ["Description"]="Hey, YOUR_NAME. Daha önce seninle bu kadar kısa konuştuğum için üzgünüm...\n\nTrelane'in ilk eşyasının nereye gittiğini çözdüm: Kor'gresh onu Kayaalın Salonu'nda tutuyor. Ve hizada tutmak için soydaşlarına buz patlamaları fırlatma şekline bakılırsa, tüm güçlerini nasıl kullanacağını çözmeye yakın olmalı.\n\nKayaalın Salonu buranın güneyinde ve ardından Thandol Köprüsü'nün doğusundadır. Ogreyi bul ve o asayı geri al.\n\nSen yokken Stromgarde hakkında ne yapacağımızı çözeceğim.",
+    ["Objectives"]="Trelane'in Çağrı Asası'nı bul ve onu Sığınak Tepesi'ndeki Skuerto'ya geri getir.[cite: 1, 2]",
+    ["Progress"]="Hedefimiz asa, YOUR_NAME. Şimdilik buna odaklan.",
+    ["Completion"]="Harika, YOUR_NAME. Listeme göre bir eşya gitti ve üç tane daha kaldı. Diğer üç eşyanın hepsi Stromgarde'da.\n\nDinlen ve gücünü geri kazan--planımın bir sonraki aşaması biraz daha zaman ve çaba gerektirecek. Sıcak bir yemek yeyip biraz dinlendikten sonra bana geri dön.",
+    ["minlevel"]="30",
+    ["questlevel"]="39",
+    }, -- end Wand over Fist
+
+    -- Trelane's Defenses
+    -- Kryten -> Kryten (MobNpcData.lua)[cite: 1]
+    -- Apprentice Kryten -> Çırak Kryten (MobNpcData.lua)[cite: 1]
+    -- Tower of Arathor -> Arathor Kulesi
+    -- Stromgarde -> Stromgarde (ZoneData.lua)[cite: 2]
+    ["694"] = {
+    ["Title"]="Trelane'in Savunmaları",
+    ["Description"]="İyice dinlendin mi?\n\nİşte bir sonraki adımımız: Stromgarde'daki Arathor Kulesi'nin etrafında ogreler var. Onlara karşı bir şansın olacaksa ve eşyalara canlı olarak ulaşacaksan kulenin savunmasını aktifleştirmemiz gerekecek. Bunu yapmak için Kayaalın şamanlarının sevdiği bazı mücevherlere ihtiyacımız olacak. Onları kuleden aldılar ama uzun süre ellerinde kalmayacak.\n\nO mücevherlerden birini al ve Kryten'a getir--o mücevherleri bir anahtar görevi görecek şekilde efsunlayacak büyüyü biliyor.",
+    ["Objectives"]="Bir Lacivert Akik bul ve onu Sığınak Tepesi'ndeki Çırak Kryten'a getir.[cite: 1, 2]",
+    ["Progress"]="YOUR_NAME, tekrar merhaba. Henüz bir lacivert akik buldun mu?",
+    ["Completion"]="Beni şaşırtıyorsun, YOUR_NAME. Yine iyi iş çıkardın.\n\nMücevheri efsunlamak için uygun büyüyü yapmam için bana bir dakika ver, hazır olacaksın.",
+    ["minlevel"]="30",
+    ["questlevel"]="39",
+    }, -- end Trelane's Defenses
+
+    -- An Apprentice's Enchantment
+    -- Skuerto -> Skuerto (MobNpcData.lua)[cite: 1]
+    -- Trelane -> Trelane (MobNpcData.lua)[cite: 1]
+    ["695"] = {
+    ["Title"]="Bir Çırağın Efsunu",
+    ["Description"]="İşte buradasın, YOUR_NAME. Savunmasını aktifleştirmek için mücevherin kulenin tabanına yakın kaidelerden birine bastırılması yeterlidir. Kuleye girmeye ve Trelane'in kalan eşyalarını bulmaya hazır olduğunda onu kullan.\n\nBol şans. Kamp alanında dönüşünü bekliyor olacağım. Oh, ve ayrılmadan önce Skuerto ile konuş. İhtiyacın olacak ayrıntıların geri kalanını sana verecektir.",
+    ["Objectives"]="Skuerto ile konuş.[cite: 1]",
+    ["Progress"]="",
+    ["Completion"]="Güzel, güzel.\n\nBaşka bir gecikme yoksa, başlamaya ne dersin?",
+    ["minlevel"]="30",
+    ["questlevel"]="39",
+    }, -- end An Apprentice's Enchantment
+
+    -- Attack on the Tower
+    -- Trelane -> Trelane (MobNpcData.lua)[cite: 1]
+    -- Skuerto -> Skuerto (MobNpcData.lua)[cite: 1]
+    -- Malin -> Malin (MobNpcData.lua)[cite: 1]
+    -- Refuge Pointe -> Sığınak Tepesi (ZoneData.lua)[cite: 2]
+    ["696"] = {
+    ["Title"]="Kuleye Saldırı",
+    ["Description"]="İşte aradığın şeyler: Trelane'in ruh bağları, Trelane'in küresi ve Trelane'in köz akiki.\n\nÜçü de kulenin içindeki sandıklarda olmalı ve sandıkları kendi başına açmakta bir sorun yaşamamalısın; sadece ogrelere karşı dikkatli olmalısın.\n\nKulenin savunması onların icabına tek başına bakmayacak; silahlarını hazır bulundurman gerekecek. O ogreler orada olduğunu ve onlardan hırsızlık yaptığını öğrenirlerse sana acı çektireceklerinden emin olabilirsin.\n\nDikkatli ol ve bol şans.",
+    ["Objectives"]="Trelane'in Ruh Bağları'nı, Trelane'in Küresi'ni ve Trelane'in Köz Akiki'ni bul ve onları Sığınak Tepesi'ndeki Skuerto'ya geri getir.[cite: 1, 2]",
+    ["Progress"]="Bunu yaparsan, Malin'in senden fazlasıyla memnun kalacağına eminim.",
+    ["Completion"]="Malin buraya gelip bize yardım edecek daha layık birini isteyemezdi, YOUR_NAME. Harika bir iş çıkardın!\n\nGörevimizin ne kadar ezici bir başarı olduğunu görmekten memnuniyet duyacaktır.",
+    ["minlevel"]="30",
+    ["questlevel"]="39",
+    }, -- end Attack on the Tower
+
+    -- Malin's Request
+    -- Archmage Malin -> Başbüyücü Malin (MobNpcData.lua)[cite: 1]
+    -- Kryten -> Kryten (MobNpcData.lua)[cite: 1]
+    -- Skuerto -> Skuerto (MobNpcData.lua)[cite: 1]
+    -- Trelane -> Trelane (MobNpcData.lua)[cite: 1]
+    -- Stormwind -> Fırtınadiyarı (ZoneData.lua)[cite: 2]
+    -- Mage Quarter -> Büyücü Semti (ZoneData.lua)[cite: 2]
+    ["697"] = {
+    ["Title"]="Malin'in Ricası",
+    ["Description"]="Bu mektubu Fırtınadiyarı'na geri götür ve Malin'e Kryten ve benim yakında evde olacağımızı bildir. Buradaki yardımın için seni güzelce ödüllendirecektir, YOUR_NAME, bundan hiç şüphem yok.\n\nGüvenle seyahat et.",
+    ["Objectives"]="Mühürlü Mektup'u Fırtınadiyarı'nın Büyücü Semti'ndeki Başbüyücü Malin'e götür.[cite: 1, 2]",
+    ["Progress"]="Evet? Tanıdık geliyorsun. Özür dilerim ama tanışmış mıydık? O kadar meşgul oluyorum ki takibi kaybediyorum.",
+    ["Completion"]="<Başbüyücü Malin mektubu açar ve gözleri fal taşı gibi açılır.>\n\nIşık adına, başardın. Ne harika. Trelane çok memnun kalacak. Kryten ve Skuerto'nun Fırtınadiyarı'na geri dönme yolunda oldukları için benim kadar heyecanlı olduklarına eminim.\n\nTeşekkür ederim, YOUR_NAME. Lütfen, yolculuklarında sana yardımcı olması için bunu al.",
+    ["minlevel"]="30",
+    ["questlevel"]="39",
+    }, -- end Malin's Request
+
+    -- Guile of the Raptor
+    -- Gor'mul -> Gor'mul (MobNpcData.lua)[cite: 1]
+    -- Tor'gan -> Tor'gan (MobNpcData.lua)[cite: 1]
+    ["701"] = {
+    ["Title"]="Raptor Kurnazlığı",
+    ["Description"]="Ek nesnelerle, Gor'mul'a raptor kurnazlığını aşılayacak bir eşya yaratabileceğim! Raptorun gücü içinden akarken, Gor'mul yeni gücümüzü tanıyacak ve uyuyan savaşçıyı yeniden keşfedecek!\n\nEşyayı ve büyüyü şekillendirmek için raptor kalplerine ihtiyacım olacak.",
+    ["Objectives"]="Tor'gan için Yüksekdağ Etavcılarından 12 Raptor Kalbi elde et.[cite: 1]",
+    ["Progress"]="Hazırlıklarım yapıldı, tek ihtiyacım olan raptor kalpleri.",
+    ["Completion"]="Evet, bunlar mükemmel iş görecek. Onların gücünü ve raptorların ruhunu bu küreye aktaracağım. Bu küre Gor'mul'a raptorun ateşli gücünü ve zekasını aşılayacak.",
+    ["minlevel"]="29",
+    ["questlevel"]="37",
+    }, -- end Guile of the Raptor
+
+    -- Guile of the Raptor
+    -- Gor'mul -> Gor'mul (MobNpcData.lua)[cite: 1]
+    -- Tor'gan -> Tor'gan (MobNpcData.lua)[cite: 1]
+    ["702"] = {
+    ["Title"]="Raptor Kurnazlığı",
+    ["Description"]="Bu küreyi al ve enerjisini Gor'mul'a raptorun özünü vermek için kullan. Kesinlikle bu onun ruhunu canlandıracak ve hayatına yeni bir amaç verecektir. Eskisine döndüğünde ona Horde'un şu anki durumunu açıklayabiliriz ve bitmek bilmeyen savaşlarımızda büyük bir savaşçının yardımına sahip oluruz.",
+    ["Objectives"]="Tor'gan'ın Küresi'ni Gor'mul'a ver.[cite: 1]",
+    ["Progress"]="Yine mi döndün? Gerçekten şu anda Tor'gan'ın merhametinden daha fazla isteyeceğim bir şey yok.\n\nBu sefer benim için neyin var? Belki parlak renkli bir ip parçası? Ya da bu sefaletimi bitirecek bir halat...",
+    ["Completion"]="En azından bu sefer bana ilginç bir şey getirdin. Yaydığı garip bir güç var...",
+    ["minlevel"]="29",
+    ["questlevel"]="37",
+    }, -- end Guile of the Raptor
+
+    -- Rescue OOX-09/HL!
+    -- Oglethorpe Obnoticus -> Oglethorpe Obnoticus (MobNpcData.lua)[cite: 1]
+    -- Booty Bay -> Ganimet Körfezi (ZoneData.lua)[cite: 2]
+    -- Overlook Cliff -> Manzara Uçurumu
+    ["836"] = {
+    ["Title"]="OOX-09/HL'yi Kurtar!",
+    ["Description"]="Cücenin sesi robottan bir kez daha cızırdayarak gelir:\n\n\"Uzun kalkış prosedürüne başlayabilmesi için OOX-09/HL'yi açık ve güvenli bir yere taşımam gerekiyor. Yerleşik pelerinleme özelliği var ama tekrar çalışır hale getirmek için kendi tarafımda zamana ihtiyacım var. Robotu şu anki konumundan, diyelim ki Manzara Uçurumu'nun ötesindeki kıyı şeridine kadar koru! İşleri çevrimiçi yapmak için mükemmel ve yeterince uzun bir yer olmalı!\"\n\n\"Onu kıyıya güvenle götür ve sonra Ganimet Körfezi'nde benimle konuş! Oglethorpe Obnoticus - bitti!\"[cite: 2]",
+    ["Objectives"]="OOX-09/HL'yi Manzara Uçurumu'nun ötesindeki kıyı şeridine kadar koru, ardından Ganimet Körfezi'ndeki Oglethorpe Obnoticus'a rapor ver.[cite: 1, 2]",
+    ["Progress"]="",
+    ["Completion"]="Ah, OOX-09/HL'nin büyük kurtarıcısı SENSİN! Yardımların için teşekkürlerimi ifade etmeye nereden başlayacağımı bilemiyorum! Yön bulma robotu serimin daha fazla geliştirilmeye ihtiyacı var ama onu kurtarman bana ekstra yeniden yapım süresinde sayısız saat kazandırdığı gibi, üretim masraflarında da birçok altın kazandırdı!\n\nLütfen elimdeki bu eşyalardan dilediğini seç. Cömert yardımın için tekrar teşekkürler YOUR_NAME, robotlarım ve ben sana borçluyuz!",
+    ["minlevel"]="43",
+    ["questlevel"]="48",
+    }, -- end Rescue OOX-09/HL!
+
+    -- Scholomance
+    -- Apothecary Dithers -> Eczacı Dithers (MobNpcData.lua)[cite: 1]
+    -- The Bulwark -> Barikat (ZoneData.lua)[cite: 2]
+    -- Western Plaguelands -> Batı Veba Toprakları (ZoneData.lua)[cite: 2]
+    -- Scholomance -> Scholomance (ZoneData.lua)[cite: 2]
+    -- Caer Darrow -> Caer Darrow (ZoneData.lua)[cite: 2]
+    ["838"] = {
+    ["Title"]="Scholomance",
+    ["Description"]="Caer Darrow adasında Scholomance yer almaktadır - Scourge için bir kale görevi gören bir okul. Düşmanımız içeride ikamet ediyor, güçlerini artıran araştırmaları güvenle sürdürmelerine izin veriliyor. Bir kapı yolu tıkıyor ve ne kadar denersek deneyelim uygun bir anahtar olmadan giriş mümkün değil.\n\nEczacı Dithers, Scholomance konusunda oldukça bilgilidir ve bir anahtarın nasıl elde edileceği konusunda bir fikri vardır. İşleri halledebilecek biri olarak benim için değerini kanıtladın; şimdi bu görevi sana emanet ediyorum. Bu konuda onunla konuş.",
+    ["Objectives"]="Batı Veba Toprakları'ndaki Barikat'ta bulunan Eczacı Dithers ile konuş.[cite: 1, 2]",
+    ["Progress"]="",
+    ["Completion"]="Evet, YOUR_CLASS, Yüce Cellat anahtar konusunda güvenilecek kişinin sen olabileceğini belirtti. Son zamanlardaki incelemelerimin adil bir kısmını Scholomance'e adadım ve istediğin zaman ön kapıdan geçmeni sağlayacak bir anahtarı nasıl elde edebileceğin bir yol bildiğime inanıyorum.\n\nBu görev kolay olmayacak ama bu tür görevler nadiren kolaydır. Kesinlikle bunu bir gerçek olarak bilecek bir tipe benziyorsun.",
+    ["minlevel"]="55",
+    ["questlevel"]="55",
+    }, -- end Scholomance
+
+    -- Guile of the Raptor
+    -- Tor'gan -> Tor'gan (MobNpcData.lua)[cite: 1]
+    -- Gor'mul -> Gor'mul (MobNpcData.lua)[cite: 1]
+    ["847"] = {
+    ["Title"]="Raptor Kurnazlığı",
+    ["Description"]="Bu... Bu güç.... Tor'gan'ın bana göstermeye çalıştığı şamanların gücü bu mu? İlginç olduğunu söylemeliyim. Tor'gan'a beni ikna ettiğini söyle... Şimdilik. Söyleyeceklerini dinleyeceğim.",
+    ["Objectives"]="Tor'gan ile konuş.[cite: 1]",
+    ["Progress"]="",
+    ["Completion"]="Efsun sona erdiğinde Gor'mul ile konuşacağım. Gor'mul'u yaşayanların diyarına geri getirmedeki yardımın için teşekkür ederim. Onun da sana çok teşekkür ettiğinden hiç şüphem yok.",
+    ["minlevel"]="29",
+    ["questlevel"]="37",
+    }, -- end Guile of the Raptor
+
+    -- Dig Rat Stew
+    -- Grub -> Grub (MobNpcData.lua)[cite: 1]
+    -- The Barrens -> Çorak Topraklar (ZoneData.lua)[cite: 2]
+    -- Crossroads -> Yolağzı (ZoneData.lua)[cite: 2]
+    -- Bael Modan -> Bael Modan (ZoneData.lua)[cite: 2]
+    ["862"] = {
+    ["Title"]="Kazı Sıçanı Yahnisi",
+    ["Description"]="Senin gibi bir YOUR_CLASS Çorak Topraklar'da oldukça acıkıyor olmalı. Ben bütün gün açlıktan ölüyorum.\n\nSana ne diyeceğim, sana güzel bir yahni hazırlayayım. Sadece birkaç kazı sıçanına ihtiyacım var.\n\nBael Modan'daki o pis cüceler herkesin en sevdiği ziyafetle dolup taşmış gibi görünüyor. Şimdi güneye, Bael Modan'a git ve bana biraz kazı sıçanı getir.\n\nSıçan öldürmek için biraz zaman harcamadan kendine kıdemli bir maceracı diyemezsin! Haw!",
+    ["Objectives"]="Yolağzı'nın doğusundaki Grub'a 8 Kazı Sıçanı getir.[cite: 1, 2]",
+    ["Progress"]="Yeterince kazı sıçanı vurdun mu, YOUR_NAME?",
+    ["Completion"]="Normalde bu kemirgenleri bu kadar.... Bu kadar... Olgunken yemeyi sevmem. Aromasını gerçekten ortaya çıkarmak için birkaç hafta çürümelerine izin vermeyi severim. Ama çok aç görünüyorsun.\n\nSana biraz Kazı Sıçanı Yahnisi hazırlayayım. Ah, işte oldu.\n\nBuyur bakalım!",
+    ["minlevel"]="15",
+    ["questlevel"]="23",
+    }, -- end Dig Rat Stew
+
+    -- Root Samples
+    -- Mebok Mizzyrix -> Mebok Mizzyrix (MobNpcData.lua)[cite: 1]
+    -- The Barrens -> Çorak Topraklar (ZoneData.lua)[cite: 2]
+    -- Ratchet -> Ratchet (ZoneData.lua)[cite: 2]
+    ["866"] = {
+    ["Title"]="Kök Örnekleri",
+    ["Description"]="Çorak Topraklar'ın otları diğer topraklardaki otlara pek benzemez. Özellikleri çoğunlukla aynıdır ama buradaki vaha suyu bitkileri değiştirir; sadece biraz farklıdırlar.\n\nBu farklılıkları incelemek istiyorum... Sömürülebilir olup olmadıklarını görmek için!\n\nBitkicilikte yetenekliysen, Çorak Topraklar'da bulduğun otlardan kök örnekleri topla. Bu örnekleri geri getir, ben de onları diğer bölgelerden gelen otlarla karşılaştırabileyim.",
+    ["Objectives"]="Ratchet'taki Mebok Mizzyrix'e 8 Kök Örneği getir.[cite: 1, 2]",
+    ["Progress"]="Merhaba, YOUR_NAME. O kök örneklerini aldın mı?",
+    ["Completion"]="Evet evet, bunlar çok güzel! Bu köklerden örnekler yetiştireceğim ve onları inceleyeceğim. Onlardan yeni özellikler bulmayı umuyorum. Gizli, değerli özellikler...!\n\nVe endişelenme -- bulursam ilk öğrenen sen olacaksın. Çünkü daha fazlasını toplayacak birine ihtiyacım olacak!",
+    ["minlevel"]="9",
+    ["questlevel"]="16",
+    }, -- end Root Samples
+
+    -- Down at the Docks
+    -- Ratchet -> Ratchet (ZoneData.lua)[cite: 2]
+    -- Booty Bay -> Ganimet Körfezi (ZoneData.lua)[cite: 2]
+    -- The Barrens -> Çorak Topraklar (ZoneData.lua)[cite: 2]
+    ["910"] = {
+    ["Title"]="Rıhtımda",
+    ["Description"]="Ratchet ve Ganimet Körfezi arasında yelken açan yüce gemilerin hikayelerini duydum! Okyanusta yelken açmak ve birçok büyük deniz savaşında savaşmak çok havalı olurdu. Büyüdüğümde belki de yüce bir Horde denizcisi olurum! Evet!\n\nBeni Ratchet rıhtımlarını görmeye götürür müsün lütfen? Suda durmayacağıma veya herhangi bir soruna yol açmayacağıma söz veriyorum - sadece büyük tekneleri görmek ve tuzlu deniz suyunu koklamak istiyorum! Evet!",
+    ["Objectives"]="Vesayetin altındaki çocuğu Çorak Topraklar'daki Ratchet rıhtımına götür.[cite: 2]",
+    ["Progress"]="Geldik mi?",
+    ["Completion"]="Vay canına, okyanus ÇOK BÜYÜK! Bir sürü martı falan da vardı - Tam da düşündüğüm gibi gürültülü ve hareketli. Yakınlarda korsanlar da var - çok havalı!\n\nBeni Ratchet'a götürdüğün için teşekkür ederim, YOUR_NAME. Bu çok harikaydı!",
+    ["minlevel"]="10",
+    ["questlevel"]="60",
+    }, -- end Down at the Docks
+
+    -- Gateway to the Frontier
+    -- Ashenvale -> Ashenvale (ZoneData.lua)[cite: 2]
+    -- Mor'shan Rampart -> Mor'shan Surları
+    -- The Barrens -> Çorak Topraklar (ZoneData.lua)[cite: 2]
+    ["911"] = {
+    ["Title"]="Sınıra Açılan Kapı",
+    ["Description"]="Ashenvale'in yeni sınır olduğunu ve Çorak Topraklar'daki Mor'shan Surları'nın oraya açılan kapı olduğunu söylüyorlar. Evcilleştirilmemiş vahşi doğadan ihtiyacın olan her şeyi yontarak çıkaran bir öncü olmak çok havalı olurdu! Gelecekte Horde ve Alliance'ın en çok burada çatışacağını söylüyorlar ve ben de orada olmak istiyorum YOUR_NAME!\n\nSınırın neye benzediğini görebilmem için beni Mor'shan Surları'na götürür müsün lütfen? Horde'un o kokmuş gece elflerini nereden kovduğunu görmek istiyorum!",
+    ["Objectives"]="Vesayetin altındaki çocuğu Ashenvale'e girmeden hemen önce, Çorak Topraklar'ın kuzey kısmındaki Mor'shan Surları'na götür.[cite: 2]",
+    ["Progress"]="Geldik mi?",
+    ["Completion"]="Vay canına, Ashenvale gerçek maceranın yaşandığı yer! Hiç Ashenvale'de savaştın mı, YOUR_NAME? Büyüdüğümde bir kahraman olduğumda, Ashenvale'e gelip Horde'un zaferi için savaşmak istiyorum!\n\nBeni sınıra götürdüğün için teşekkür ederim, YOUR_NAME. Sen en iyisisin!",
+    ["minlevel"]="10",
+    ["questlevel"]="60",
+    }, -- end Gateway to the Frontier
+
+    -- You Scream, I Scream...
+    -- Tigule -> Tigule (MobNpcData.lua)[cite: 1]
+    -- Foror -> Foror (MobNpcData.lua)[cite: 1]
+    -- Shimmering Flats -> Parıltılı Düzlükler (ZoneData.lua)[cite: 2]
+    ["915"] = {
+    ["Title"]="Sen Bağırırsın, Ben Bağırırım...",
+    ["Description"]="DONDURMA! Oh lütfen lütfen lütfen bana biraz dondurma alabilir misin?! Çilek benim en sevdiğim lezzettir ve dünyada Tigule ve Foror'un Çilekli Dondurmasından daha iyi bir çilekli dondurma yoktur! Bütün dünyadaki en sevdiğim dondurmadır!\n\nBir zamanlar Parıltılı Düzlükler yarış pistindeyken bir kez yemiştim ama şimdi kasabada satıyor olabileceklerini duydum! Lütfen? Çok ama çok lütfen? Üzerinde Tigule ve Foror'un Çilekli Dondurmasıyla??!?!",
+    ["Objectives"]="Vesayetin altındaki çocuk için biraz Çilekli Dondurma al. Çocuk Tigule ve Foror marka dondurmayı tercih ediyor gibi görünüyor.[cite: 1]",
+    ["Progress"]="Çilekten başka daha fazla dondurma aroması yapmalarını isterdim ama sanırım en sevdiğimin çilek olması konusunda şanslıyım!",
+    ["Completion"]="Mmmmmmmmm! Onların çilekli dondurmasını seviyorum! Tigule ve Foror'un yapmayı bildiği bir şey varsa, o da dondurma yapmaktır!\n\nÇok teşekkür ederim YOUR_NAME - bu şimdiye kadarki en iyi ikram!",
+    ["minlevel"]="10",
+    ["questlevel"]="60",
+    }, -- end You Scream, I Scream...
+
+    -- Battle of Warsong Gulch
+    -- Warsong Gulch -> Savaşşarkısı Kanyonu (ZoneData.lua)[cite: 2]
+    -- Silverwing Sentinels -> Gümüşkanat Nöbetçileri
+    ["8434"] = {
+    ["Title"]="Savaşşarkısı Kanyonu Savaşı",
+    ["Description"]="Savaşşarkısı Kanyonu'nda Gümüşkanat Nöbetçileri'ne karşı yapılan savaş büyük önem taşımaktadır. Kendilerine ait olmayan bir ormanı koruma bahvesi altında Alliance, Horde'un en büyük kereste kaynaklarından birini mahrum bırakmaya çalışmaktadır.\n\nBunun olmasına izin verme, YOUR_NAME! Horde'a layık bir şekilde hizmet ettiğinin kanıtıyla bana geri dön!",
+    ["Objectives"]="Savaş alanlarının dışındaki bir Horde Savaş Muhafızı'na 3 Savaşşarkısı Onur Nişanı getir.",
+    ["Progress"]="Savaşşarkısı Kanyonu'nda Gümüşkanat Nöbetçileri'ne karşı yapılan savaş büyük önem taşımaktadır. Kendilerine ait olmayan bir ormanı koruma bahvesi altında Alliance, Horde'un en büyük kereste kaynaklarından birini mahrum bırakmaya çalışmaktadır.\n\nBunun olmasına izin verme, YOUR_NAME! Horde'a layık bir şekilde hizmet ettiğinin kanıtıyla bana geri dön!",
+    ["Completion"]="Mükemmel! Savaşşarkısı Kanyonu'ndaki operasyonlarımızı savunarak değerini gösterdin! Onurunun haberi topraklarımızda dalga dalga yayılsın.",
+    ["minlevel"]="50",
+    ["questlevel"]="59",
+    }, -- end Battle of Warsong Gulch
+
+    -- Cairne's Hoofprint
+    -- Cairne Bloodhoof -> Cairne Kanlıtoynak (MobNpcData.lua)[cite: 1]
+    -- Thunder Bluff -> Thunder Bluff (ZoneData.lua)[cite: 2]
+    ["925"] = {
+    ["Title"]="Cairne'in Toynak İzi",
+    ["Description"]="Cairne Kanlıtoynak'ın Horde'un şimdiye kadar gördüğü en büyük kahramanlardan biri olduğunu söylüyorlar. Büyüdüğümde ben de Horde'un bir kahramanı olmak istiyorum!\n\nCairne'i tanıyor musun, YOUR_NAME? Bana bir iyilik yapabilir misin lütfen? Onun toynak izini benim için alabilir misin? Ona nasıl soracağımı bilmiyorum ve muhtemelen benim gibi biri için çok meşgul olurdu... Ama sen! Sen de tıpkı onun gibi bir maceracısın! Eminim toynak izini sana kolayca verir!\n\nLütfen?",
+    ["Objectives"]="Vesayetin altındaki çocuk için Cairne Kanlıtoynak'ın toynak izini alma konusunu görüşmek üzere Thunder Bluff'a seyahat et.[cite: 1, 2]",
+    ["Progress"]="Orklar yalnız ve dostsuz kaldığında, taurenler onları garip bir diyara davet etti ve karşılığında hiçbir şey istemeden onlarla paylaştı. İşte onur budur, YOUR_NAME.",
+    ["Completion"]="VAY CANINA! Cairne'in toynak izini benim için aldın! Çok teşekkür ederim! Ve vay canına... Buraya kişisel bir mesaj yazmış - bana! Çok havalı olacağını biliyordum, biliyordum işte! Belki bir gün ben de ona kendim teşekkür ederim... Horde kahramanı olduğumda!\n\nEn iyisi sensin, YOUR_NAME. Bana karşı bu kadar nazik olduğun için teşekkür ederim.",
+    ["minlevel"]="10",
+    ["questlevel"]="60",
+    }, -- end Cairne's Hoofprint
+
+    -- Flute of Xavaric
+    -- Xavaric -> Xavaric (MobNpcData.lua)[cite: 1]
+    -- Eridan Bluewind -> Eridan Mavirüzgar (MobNpcData.lua)[cite: 1]
+    -- Felwood -> Felwood (ZoneData.lua)[cite: 2]
+    ["939"] = {
+    ["Title"]="Xavaric'in Flanütü",
+    ["Description"]="Xavaric'i yendikten sonra aldığın basit ahşap flütü inceliyorsun.\n\nDüğümlü ahşap sağlam hissediliyor ama ellerinde çevirdikçe yüzeydeki spiraller ve desenler dönmeye ve hareket etmeye başlıyor gibi görünüyor. Aniden bir dehşet hissi duyuyorsun...\n\nZihninin seninle oyun oynadığından emin olarak başını sallıyorsun.\n\nDiğer satirlerin ne bulduğuna dair ipuçları taşıması mümkündür. Bulduklarını güney Felwood'da yaşayan druid Eridan Mavirüzgar'a getir.",
+    ["Objectives"]="Xavaric'in Flanütü'nü ve 5 Yeşılateş İblisbağı örneğini güney Felwood'daki Eridan Mavirüzgar'a getir.[cite: 1, 2]",
+    ["Progress"]="Sorun nedir, YOUR_CLASS? Endişeli görünüyorsun.",
+    ["Completion"]="Kadim olanların acısını hissediyorum, YOUR_NAME...\n\nBu eşyaları tutmak neredeyse dayanılmaz...",
+    ["minlevel"]="49",
+    ["questlevel"]="54",
+    }, -- end Flute of Xavaric
+
+    -- Skeletal Fragments
+    -- Apothecary Dithers -> Eczacı Dithers (MobNpcData.lua)[cite: 1]
+    -- Scholomance -> Scholomance (ZoneData.lua)[cite: 2]
+    -- Andorhal -> Andorhal (ZoneData.lua)[cite: 2]
+    -- The Bulwark -> Barikat (ZoneData.lua)[cite: 2]
+    -- Western Plaguelands -> Batı Veba Toprakları (ZoneData.lua)[cite: 2]
+    -- Tanaris -> Tanaris (ZoneData.lua)[cite: 2]
+    ["964"] = {
+    ["Title"]="İskelet Parçaları",
+    ["Description"]="Scholomance'ın anahtarına İskelet Anahtarı denir. Bir iskeletin -aslında birkaçının- kalıntılarından dövülmeli ve uygun bir kalıp içinde sadece en güçlü metallerle sertleştirilmelidir. Scholomance portalını doğal olarak açabilen bir varlığın güç mühürü anahtarın nihayetinde çalışmasını sağlayacaktır.\n\nİlk iş olarak, YOUR_NAME. Anahtarın dövülmesi için iskelet parçalarına ihtiyacımız olacak. Andorhal içindeki iskeletler ihtiyacımız olanı vermelidir ama surların dışındakiler de işe yarayabilir.",
+    ["Objectives"]="Batı Veba Toprakları'ndaki Barikat'ta bulunan Eczacı Dithers'a 15 İskelet Parçası getir.[cite: 1, 2]",
+    ["Progress"]="Çok öldür ve sık öldür, YOUR_CLASS - anahtarın dış katmanını oluşturmak için uygun iskelet parçalarından oluşan makul bir kaynağa ihtiyacımız olacak. Ona boşuna İskelet Anahtarı demiyorlar, biliyorsun.",
+    ["Completion"]="Bu işe yarayacak, YOUR_NAME! Şimdi sıra bende - eninde sonunda geçecekleri yoğun dövme sürecinden sağ çıkmalarını sağlayacak uygun bir ıslah suyuyla bunları besleyeceğim.\n\nBir sonraki adım anahtar için uygun bir kalıp almak olacak. Tanaris'te geçmişte benzer kasvetli eşyalar için kalıplar yapmış bir goblin demirci tanıyorum. Goblinlerin genellikle çalıştığı kişiler için çalışıyor - en yüksek teklifi verene.",
+    ["minlevel"]="55",
+    ["questlevel"]="57",
+    }, -- end Skeletal Fragments
+
+    -- Finding the Source
+    -- Krakle -> Krakle (MobNpcData.lua)[cite: 1]
+    -- Un'Goro Crater -> Un'Goro Krateri (ZoneData.lua)[cite: 2]
+    -- Fire Plume Ridge -> Alev Tüyü Tepesi
+    ["974"] = {
+    ["Title"]="Kaynağı Bulmak",
+    ["Description"]="Buradaki kaplıcalar benim için bir gizem kaynağı. Isı nereden geliyor?\n\nHavuzların Alev Tüyü Tepesi'ne ne kadar yakın olduğuna bakarak, yanardağın bununla bir ilgisi olup olmadığını gerçekten merak ediyorum. Yanardağdaki sıcaklık değerlerini almak için bir termometre oluşturdum ve en sıcak kısmı bulmak isterim. Ölçümleri Kraklenheit derecesi olarak veriyor!\n\nAl, bunu al ve ne zaman sıcak bir nokta görsen tepedeki sıcaklık değerlerini al!",
+    ["Objectives"]="Un'Goro Krateri'ndeki Krakle, Alev Tüyü Tepesi'nin en sıcak bölgesini bulmanı istiyor.\n\nSıcak bir nokta bulduğunda, sıcaklığı kontrol etmek için termometreye sağ tıkla. En sıcak olanı bulana kadar aramaya devam et.[cite: 1, 2]",
+    ["Progress"]="Kendim oraya giderdim ama... Oradaki ateş elementallerinden biraz korkuyorum!",
+    ["Completion"]="Evet, burada yanardağın sıcaklığı ile kaplıcalar arasındaki korelasyonu kesinlikle görüyorum. Doğruluk için denklemlerimi iki kez kontrol etmem gerekecek ama görünüşe göre mesafe ve ısının transfer edilme hızı... Hmm...",
+    ["minlevel"]="51",
+    ["questlevel"]="55",
+    }, -- end Finding the Source
+
+    -- Are We There, Yeti?
+    -- Umi Rumplesnicker -> Umi Rumplesnicker (MobNpcData.lua)[cite: 1]
+    -- Everlook -> Everlook (ZoneData.lua)[cite: 2]
+    ["977"] = {
+    ["Title"]="Geldik mi Yeti?",
+    ["Description"]="Mekanik hareketli parçaları kaplamak için ihtiyacım olan şeye sahip olduğuma göre, sadece bir şeye daha ihtiyacım var. Aslında iki. İki boynuz!\n\nBuz dikeni ataerkil ve anaerkiller en büyük boynuzlara sahiptir, bu yüzden elbette istediğim onlar. Bu yeti türü güneydoğudaki bir mağarada ikamet ediyor. Orada onlardan bolca var; onları bulmakta hiçbir sorun yaşamamalısın.\n\nUnutma, sadece en iyi görünenleri istiyorum -- hırpalanmış veya kırık boynuzlar olmasın lütfen!",
+    ["Objectives"]="Everlook'taki Umi Rumplesnicker için 2 El Değmemiş Yeti Boynuzu topla.[cite: 1, 2]",
+    ["Progress"]="Kürkü takmayı neredeyse bitirdim, YOUR_NAME. Lütfen o boynuzlarla acele geri dön!",
+    ["Completion"]="Arkadaşlarıma göstermek için sabırsızlanıyorum! Şimdi, bunları takarken bir dakika bekle...\n\nMükemmel!",
+    ["minlevel"]="52",
+    ["questlevel"]="58",
+    }, -- end Are We There, Yeti?
+
+    -- The New Springs
+    -- Donova Snowden -> Donova Snowden (MobNpcData.lua)[cite: 1]
+    -- Krakle -> Krakle (MobNpcData.lua)[cite: 1]
+    -- Winterspring -> Kışpınarı (ZoneData.lua)[cite: 2]
+    ["980"] = {
+    ["Title"]="Yeni Pınarlar",
+    ["Description"]="Buranın çok kuzeyinde, Kışpınarı denen bir yerdeki diğer kaplıcaları duymuştum. Garip olan şu ki, yakınlarda hiç yanardağ yok. İlginç, biliyorum.\n\nDaha fazlasını öğrenmek istiyorsan Kışpınarı'na gitmeli ve bir arkadaşımla konuşmalısın. Adı Donova Snowden ve şu anda oradaki kaplıcaların yanında kalıyor.\n\nTermometremde bana yardım ettiğin için tekrar teşekkürler! Sonra görüşürüz!",
+    ["Objectives"]="Kışpınarı'na seyahat et ve Donova Snowden ile konuş.[cite: 1, 2]",
+    ["Progress"]="",
+    ["Completion"]="Selam, YOUR_NAME. Evet, Krakle'ın sana söylediği şey doğru...",
+    ["minlevel"]="51",
+    ["questlevel"]="55",
+    }, -- end The New Springs
+
+    -- Corrupted Windblossom
+    ["996"] = {
+    ["Title"]="Yozlaşmış Rüzgarçiçeği",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Bir rüzgarçiçeği bitkisinin hastalıklı, yozlaşmış bir versiyonunu buldun. Bitkiden sarkan meyveler çürük ve zehirli görünüyor. Tekrar normale döndürülmesi için kesinlikle bir tür ilgiye ihtiyacı var.",
+    ["Completion"]="Rüzgarçiçeğine iki Cenarion bitki merhemi sürüyorsun. Hemen yozlaşmış biçimini dökmeye başlayarak canlı ve sağlıklı bir bitkiye dönüşüyor.",
+    ["minlevel"]="48",
+    ["questlevel"]="55",
+    }, -- end Corrupted Windblossom
+
+    -- Corrupted Windblossom
+    ["998"] = {
+    ["Title"]="Yozlaşmış Rüzgarçiçeği",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Bir rüzgarçiçeği bitkisinin hastalıklı, yozlaşmış bir versiyonunu buldun. Bitkiden sarkan meyveler çürük ve zehirli görünüyor. Tekrar normale döndürülmesi için kesinlikle bir tür ilgiye ihtiyacı var.",
+    ["Completion"]="Rüzgarçiçeğine iki Cenarion bitki merhemi sürüyorsun. Hemen yozlaşmış biçimini dökmeye başlayarak canlı ve sağlıklı bir bitkiye dönüşüyor.",
+    ["minlevel"]="48",
+    ["questlevel"]="55",
+    }, -- end Corrupted Windblossom
+
+    -- Down the Scarlet Path
+    -- Brother Anton -> Anton Kardeş (MobNpcData.lua)[cite: 1]
+    -- Raleigh the Devout -> Sadık Raleigh (MobNpcData.lua)[cite: 1]
+    -- Hearthglen -> Hearthglen (ZoneData.lua)[cite: 2]
+    -- Tirisfal Glades -> Tirisfal Koruları (ZoneData.lua)[cite: 2]
+    -- Lordaeron -> Lordaeron (ZoneData.lua)[cite: 2]
+    -- Desolace -> Desolace (ZoneData.lua)[cite: 2]
+    -- Southshore -> Güneykıyısı (ZoneData.lua)[cite: 2]
+    -- Eastern Kingdoms -> Doğu Krallıkları (ZoneData.lua)[cite: 2]
+    -- Scarlet Monastery -> Kızıl Manastır (ZoneData.lua)[cite: 2]
+    ["1052"] = {
+    ["Title"]="Kızıl Yol Boyunca",
+    ["Description"]="Biz Kızıl Haçlılar, Hearthglen'den Tirisfal Koruları'na kadar olan kaleler üzerinde hak iddia ediyoruz. Lordaeron genelindeki temizlenme kalelerimizle gurur duyuyoruz.\n\nDesolace'taki hortlaklara karşı kendini kanıtladın. Ancak vebanın gerçek tehdidi Lordaeron'da yatıyor.\n\nDoğu Krallıkları'ndaki Güneykıyısı kasabasına seyahat et. Sadık Raleigh adındaki bir haçlıyı ara. Mührümü taşıyan bu takdir mektubunu ona ver, o da seni Kızıl Manastır'ımızdaki onurlu bir yere götürecektir.",
+    ["Objectives"]="Anton Kardeş'in Takdir Mektubu'nu Güneykıyısı'ndaki Sadık Raleigh'e götür.[cite: 1, 2]",
+    ["Progress"]="Oradaki kim? Benden ne istiyorsun?",
+    ["Completion"]="Anton Kardeş hâlâ Kızıl Haçlı Seferi'nin sözünü yayıyor mu? Oh vay....",
+    ["minlevel"]="34",
+    ["questlevel"]="40",
+    }, -- end Down the Scarlet Path
+
+    -- The Spirits of Southwind
+    -- Layo Starstrike -> Layo Yıldızdarbesi (MobNpcData.lua)[cite: 1]
+    -- Southwind Village -> Güneyrüzgarı Köyü
+    -- Silithus -> Silithus (ZoneData.lua)[cite: 2]
+    -- Valor's Rest -> Yiğit Dinlenesi
+    ["1125"] = {
+    ["Title"]="Güneyrüzgarı'nın Ruhları",
+    ["Description"]="Güneybatımızda trajik bir yer yatıyor - Güneyrüzgarı Köyü harabeleri. İşimiz burada başlamalı, YOUR_NAME.\n\nÖğrendiklerimize göre bu köy bir zamanlar Silithus için bir gece elfi operasyon üssüydü. Çölleri istila eden silithid kovanları tarafından çoktan ele geçirildi. Köyün ilk parçalanışının dehşetini ancak hayal edebiliyorum...\n\nDüşmüş druidlerin ve nöbetçilerin eziyet çeken ruhları amaçsızca harabelerde dolaşıyor. Gerektiğinde bu wretched varlıkların ruhlarını özgürleştirerek bu mekanı keşfet.",
+    ["Objectives"]="Güneyrüzgarı Köyü'ndeki 8 Eziyet Çeken Druid'in ve 8 Eziyet Çeken Nöbetçi'nin ruhunu özgürleştir, ardından Silithus'un Yiğit Dinlenesi mezarlığındaki Layo Yıldızdarbesi'ne dön.[cite: 1, 2]",
+    ["Progress"]="Alliance ya da Horde fark etmez - hiçbir varlık bu dünyada eziyet çeken bir ruh olarak kapana kısılmayı hak etmiyor. Bu ruhların özgürleştirilmesi işleri düzeltecektir, YOUR_NAME.",
+    ["Completion"]="Köyün harabelerinin yakınındaki devasa dönen kovanın yıkımında rol oynadığını düşünmüştüm. Görünüşe göre çalışman bunun doğru olduğunu kanıtladı; kovanın yakınlığı burada yapabileceğimiz gelecekteki her türlü çalışmaya tehdit oluşturuyor.\n\nDüşenlerin ruhlarını özgürleştirmedeki cömertliğin için teşekkür ederim; böyle bir çalışma asla kolay değildir, biliyorum. Ancak hazır olduğunda yardımını bir kez daha istemek isterim...",
+    ["minlevel"]="54",
+    ["questlevel"]="55",
+    }, -- end The Spirits of Southwind
 
     --123456789
 
 
-	["77"] = {    ["Title"]="A Sticky Situation",    ["Description"]="I possess original packaging materials for the ripple Dran Droffers seeks.  I will assist you in packaging the ripple for Malton's abrasive father... for a fee of two additional bottles of said ripple.  They are located in crates found in the abandoned Horde base near Skulk Rock.$B$BIt will be an arduous task, to wit; foul slimes and oozes will be found sticking to the ruins; rumor has it they are led by some sort of master ooze.  Regardless, procure the ripple and return to me here for packaging.",    ["Objectives"]="Recover 10 bottles of Hinterlands Honey Ripple from the crates located around the abandoned Horde base in Skulk Rock.",    ["Progress"]="I trust that your arrival here at our camp is to deliver the bottles of ripple that are integral to the task at hand, yes?",    ["Completion"]="Finely executed, $N. I am glad you had enough foresight not to bruise the delicacy of the ripple. There is nothing worse than the bouquet of ripple that has been jostled about needlessly.$B$BIt will take a moment for the magic to be wrought over this precious cargo. Actually, no magic is involved; I merely have some empty packaging for Hinterlands Honey Ripple. Our chicanery shall turn these bottles into an alcoholic treasure of the ages.$B$BOnward - for great booze!",    ["minlevel"]="42",    ["questlevel"]="48"},
-
-	["105"] = {    ["Title"]="Alas, Andorhal",    ["Description"]="Alas, the time to attack Andorhal and drive out the lich that controls it is upon us!$B$BInside the ruins of the city is where the lich - Araj the Summoner - holds dominion.  He is guarded by numerous Scourge surrounding the remains of city's center, and his personal retinue of guardians attached to him directly is formidable.  You will need numerous allies to even stand a chance of facing him successfully.$B$BDestroy Araj, $N, and bring me a shard from his phylactery as proof!",    ["Objectives"]="Bring Araj's Phylactery Shard to High Executor Derrington at the Bulwark, Western Plaguelands.",    ["Progress"]="Your task has been given to you, $N. Do you have a shard from the lich's phylactery as proof of the task being accomplished?",    ["Completion"]="You've done it! Araj... the lich is finally defeated!$B$BYou've done a tremendous service to the Horde on this day, $N. Your bravery and perseverance are a testament to what it means to be a true hero. Please - accept this as a token for all to see and know that you have delivered the Horde a victory for the ages!",    ["minlevel"]="50",    ["questlevel"]="60"},
-
-	["171"] = {    ["Title"]="A Warden of the Alliance",    ["Description"]="You have been so very kind to me, $N.  I never dreamed that I'd have so much fun during Children's Week.  Thank you.  I don't wanna be sad about what's happened to me and all - my folks always told me to rise above anything bad that happens.  You know, when I grow up I wanna be a hero... just like you.$B$BI'm sad to say this, but it's time for me to go home.  Let's go back and I'll tell the matron what an awesome person you are!",    ["Objectives"]="Return your ward to the Stormwind orphanage by handing in the Human Orphan Whistle to Orphan Matron Nightingale in the Cathedral District.",    ["Progress"]="It is a pleasure to see you again, $N. Have you attended to the duties you've volunteered for during Children's Week?",    ["Completion"]="May the heavens bless you, $N. You've done more for Randis than most would ever think of doing for him. Thank you - you're a shining star in the skies of the Alliance.$B$BPlease - if you can spare the time, come back and visit us. I know that Randis would like that, as would I.",    ["minlevel"]="10",    ["questlevel"]="60"},
-
-	["172"] = {    ["Title"]="Children's Week",    ["Description"]="You're willing to help us here at the orphanage?  Bless you, friend; your aid during Children's Week will be invaluable.$B$BTake this whistle.  You will only be able to use it for a short amount of time - typically not longer than Children's Week itself.  When you use it, you will be able to talk with the child you've agreed to look after.  Using it again will dismiss the child.$B$BBy all means $N - use the whistle and meet your ward!  I'm sure the child will be most eager to meet you.",    ["Objectives"]="Use the Orcish Orphan Whistle to talk with the child you will be looking after during Children's Week.",    ["Progress"]="",    ["Completion"]="Zug zug! My name is Grunth, and I guess you're looking after me? You're an adventurer, like my mom and dad were. My matron says that they died with honor in battle. I'm happy to meet you.$B$BI hope we'll do plenty of things together. I have some things I'd like to do, and the matron says you'll be like a big brother to me during this week. I'd like that a whole bunch.",    ["minlevel"]="10",    ["questlevel"]="60"},
-
-	["211"] = {    ["Title"]="Alas, Andorhal",    ["Description"]="Alas, the time to attack Andorhal and drive out the lich that controls it is upon us!$B$BInside the ruins of the city is where the lich - Araj the Summoner - holds dominion.  He is guarded by numerous Scourge surrounding the remains of city's center, and his personal retinue of guardians attached to him directly is formidable.  You will need numerous allies to even stand a chance of facing him successfully.$B$BDestroy Araj, $N, and bring me a shard from his phylactery as proof!",    ["Objectives"]="Bring Araj's Phylactery Shard to Commander Ashlam Valorfist at Chillwind Camp, Western Plaguelands.",    ["Progress"]="Your task has been given to you, $N. Do you have a shard from the lich's phylactery as proof of the task being accomplished?",    ["Completion"]="You've done it! Araj... the lich is finally defeated!$B$BYou've done a tremendous service to the Alliance on this day, $N. Your bravery and perseverance are a testament to what it means to be a true hero. Please - accept this as a token for all to see and know that you have delivered the Alliance a victory for the ages!",    ["minlevel"]="50",    ["questlevel"]="60"},
-
-	["261"] = {    ["Title"]="Down the Scarlet Path",    ["Description"]="I will be frank.  We are at war with the Scourge.  It is an evil that corrupts our people and infects our land.  It must be stopped before it overwhelms us and drags our world into shadow.  We of the Scarlet Crusade have sworn to fight the Scourge with body and soul.$B$BIf you are with us, then gather your courage and prove your allegiance--destroy the undead ravagers of Desolace, in the Valley of Bones to the south.$B$BDo this, and the Crusade will embrace you.",    ["Objectives"]="Destroy 30 Undead Ravagers, then return to Brother Anton at Nijel's Point.",    ["Progress"]="The Scourge grows in power with the passing of each day. If you truly wish to halt its advances, then show me.",    ["Completion"]="You have proven your resolve, and the Scarlet Crusade commends you.$B$BIf you do not shy from righteous slaughter, then perhaps your path lies with us...",    ["minlevel"]="34",    ["questlevel"]="39"},
-
-	["384"] = {    ["Title"]="Beer Basted Boar Ribs",    ["Description"]="Nothing my tavern patrons enjoy more than some Beer Basted Boar Ribs!  Only problem is, the local trapper who used to bring me supplies enlisted in the King's Army to help with the war on the Alliance front. $b$bMaybe you can help me out?  If you bring me six crag boar ribs and a Rhapsody Malt from the tavern here, I'll give you the family recipe for my famous Beer Basted Boar Ribs, not to mention a free sample!  The secret's in the Malt!",    ["Objectives"]="Ragnar Thunderbrew in Kharanos wants 6 Crag Boar Ribs and a mug of Rhapsody Malt.",    ["Progress"]="I'm going to need six crag boar ribs and a mug of Rhapsody Malt, $N.",    ["Completion"]="The Malt is brewed, the Boars are dead$B$BAnd before all is done and anything said$B$BWe will have to fight for first dibs$B$BOn these savory Beer Basted Boar Ribs!",    ["minlevel"]="5",    ["questlevel"]="7"},
-
-	["485"] = {    ["Title"]="Find OOX-09/HL!",    ["Description"]="You have uncovered some sort of strange, egg-shaped device made from metal.  Fiddling with one of its knobs springs the egg to life, as it opens up into some sort of gnomish robotic contraption!  A voice from inside the robotic egg crackles to life.$B$B\"My name's Oglethorpe Obnoticus, and my homing robot has crashed!  I will reward you for its recovery; please take this beacon to the robot!\"$B$B\"I now have computed the coordinates of the robot for you; it crashed at the head of the river near Skulk Rock!\"",    ["Objectives"]="Take the distress beacon to Oglethorpe's homing robot at the head of the river in the Hinterlands, near Skulk Rock.",    ["Progress"]="You appear to have uncovered the wreckage of... a robotic chicken? The voice from within the egg crackles to life again:$B$B\"Yes, excellent work! This is indeed my homing robot, though my sensors indicate that it needs a jump start before it can fly back to Booty Bay for repairs. Go ahead and place the beacon inside the rover - the beacon will take care of the rest!\"",    ["Completion"]="You place the egg... distress beacon... inside the chicken... homing robot.$B$BHums and whirs are heard from inside the robot as it struggles to stand up. After the robot comes to life, Oglethorpe's voice is heard once more, but now from inside the robot:$B$B\"OOX-09/HL is working at least, but it needs major repairs! It is much too heavy for you to carry it... but I think I have an idea. Are you up for watching over it some more?\"",    ["minlevel"]="43",    ["questlevel"]="48"},
-
-	["558"] = {    ["Title"]="Jaina's Autograph",    ["Description"]="They say that Lady Jaina Proudmoore in Theramore is one of the greatest heroes the Alliance has ever had.  When I grow up, I wanna be a hero of the Alliance too!$B$BDo you know Jaina, $N?  Could you do me a favor, please?  Could you get her autograph for me?  I dunno how to ask her, and she'd probably be too busy for someone like me... but you!  You're an adventurer just like she is!  I bet she'd give you her autograph easy!$B$BPlease?",    ["Objectives"]="Travel to Theramore to see about getting Lady Jaina Proudmoore's autograph for your ward.",    ["Progress"]="Someday, I wanna be a hero just like Jaina... well, a boy hero that is.",    ["Completion"]="WOW! You got Lady Jaina's autograph for me! Thank you very much! And wow... she wrote a personal message on here - to me! I knew she'd be totally cool, and maybe someday I'll thank her myself... when I become a hero of the Alliance!$B$BYou're the best, $N. Thank you for being so nice to me.",    ["minlevel"]="10",    ["questlevel"]="60"},
-
-	["635"] = {    ["Title"]="Crystal in the Mountains",    ["Description"]="This shard pulses as you hold it...$B$BYou feel a sense of pleading coming from the shard, as if someone is trying to communicate, someone who desperately needs your help.$B$BA vision appears in your mind - of the northern mountains of Arathi, and of a brilliant crystal jutting from the earth there.$B$BYou feel drawn to that place.",    ["Objectives"]="Find the crystal from your vision.",    ["Progress"]="",    ["Completion"]="This crystal pulses, as if a living force is trapped within it.",    ["minlevel"]="30",    ["questlevel"]="35"},
-
-	["636"] = {    ["Title"]="Legends of the Earth <NYI>",    ["Description"]="This book tells the tale of an elemental princess, Myzrael, and of her imprisonment deep underneath the Arathi Highlands.$B$BIt also tells of a secret outcropping of crystals in the highlands.  These crystals, the Shards of Myzrael, are a window to the princess' prison.$B$BIf a brave soul found the Shards of Myzrael, the perhaps $ghe:she; could speak with her...",    ["Objectives"]="Find the Shards of Myzrael.",    ["Progress"]="",    ["Completion"]="",    ["minlevel"]="30",    ["questlevel"]="35"},
-
-	["639"] = {    ["Title"]="Sigil of Strom",    ["Description"]="In ancient times, trolls fought against the Arathorian Empire and our most capable adversary, Lord Ignaeus of Strom, named Trollbane. He rode into battle wielding Trol'kalar--troll slayer, in their ancient tongue.$b$bBut now the sons of Trollbane are weakened, their stronghold brought to ruin.$b$bThe sword is protected by several sigils that were divided among the survivors of Stromgarde, and we must retrieve them.$b$bThe first was taken by the Syndicate, one of their men in Stromgarde should have it.",    ["Objectives"]="Get the Sigil of Strom for Zengu in Hammerfall.",    ["Progress"]="Have you located the first sigil yet? It is most likely carried on the person of one of the Syndicate agents in Stromgarde.",    ["Completion"]="Excellent, mon. That's a good start to collecting the sigils we'll need to remove Trol'kalar from Trollbane's tomb.",    ["minlevel"]="32",    ["questlevel"]="37"},
-
-	["640"] = {    ["Title"]="The Broken Sigil",    ["Description"]="Thoras Trollbane's tomb is protected by three sigils--the first of which you retrieved from the Syndicate. The other two will be harder to get, as they're held by the firmly entrenched Stromgarde militia.$b$bThe sigil of Thoradin was divided into eleven pieces by Thoras' son, Galen, and dispersed among the Stromgarde defenders. Retrieve the pieces and bring them to Tor'gan, the troll shaman, he will be able to bind them into the complete sigil.",    ["Objectives"]="Retrieve the 11 Sigil Fragments from the defenders in Stromgarde, and bring them to Tor'gan in Hammerfall.",    ["Progress"]="Throm'ka, $C. Zengu informed me that you required my assistance?",    ["Completion"]="Ah, you need me to reconstruct this sigil? It shouldn't be too difficult... all the pieces seem to be here and the magical structure will be easy to reform.$B$BYou might want to close your eyes.",    ["minlevel"]="32",    ["questlevel"]="40"},
-
-	["641"] = {    ["Title"]="Sigil of Thoradin",    ["Description"]="The reconstruction worked flawlessly. The sigil can now be used to unlock the seal on Trollbane's tomb. Return it to Zengu, no doubt he has additional tasks for you to complete.",    ["Objectives"]="Bring the restored Sigil of Thoradin to Zengu in Hammerfall.",    ["Progress"]="$N! Do you have the second sigil?",    ["Completion"]="We're halfway to being able to remove Trol'kalar from Trollbane's tomb. We are not exactly sure where the third sigil is, as its holders seem to move around Arathi quite a bit, but I have faith that you'll be able to find it.",    ["minlevel"]="32",    ["questlevel"]="40"},
-
-	["643"] = {    ["Title"]="Sigil of Arathor",    ["Description"]="Though they can barely be said to control Stromgarde, let alone the whole of Arathi Highlands, the human prince trots the remnants of his cavalry over the countryside. I can't understand why he does it, but who understands the way the humans think, hm?$b$bWhatever his reasoning, more importantly, he has given one of the sigils to Lieutenant Valorcall, their cavalry leader. Locate him and bring his sigil back to me.",    ["Objectives"]="Retrieve the Sigil of Arathor and return it to Zengu in Hammerfall.",    ["Progress"]="Valorcall will not be easy to track down, $N. Mounted on horseback, he can cover ground quickly. Nonetheless, we must have his sigil.",    ["Completion"]="Losing their cavalry leader will prove a large blow to the Stromgarde defenders. Better yet, it means that we are only one sigil from being able to have Trol'kalar for ourselves.",    ["minlevel"]="32",    ["questlevel"]="41"},
-
-	["644"] = {    ["Title"]="Sigil of Trollbane",    ["Description"]="The final of the sigils needed to unlock the tomb of Thoras Trollbane is held by his son personally. He resides deep within Stromgarde, in a chapel in the militia-held districts. Prince Galen is well protected and no slouch of a warrior himself, so this task could prove most difficult.",    ["Objectives"]="Kill Prince Galen Trollbane and bring the Sigil of Trollbane to Zengu in Hammerfall.",    ["Progress"]="You've returned, $N. Is the line of Ignaeus Trollbane broken?",    ["Completion"]="Quite a day this is, $C. The blood of Trollbane will no longer haunt my people, and the sigils needed to take Trol'kalar are in our possession. Soon, very soon, we will strike against the hated trolls of Zul'Gurub.",    ["minlevel"]="32",    ["questlevel"]="42"},
-
-	["645"] = {    ["Title"]="Trol'kalar",    ["Description"]="What's this? With the four sigils brought together, they have formed together to create one sigil. There can be no doubt that this will be able to break the wardings placed upon Trollbane's tomb.$b$bTrollbane's remains are entombed in the Sanctum behind the chapel in Stromgarde. Retrieve Trol'kalar.",    ["Objectives"]="Retrieve Trol'kalar from Trollbane's tomb in Stromgarde.",    ["Progress"]="Etchings in the stone upon the face of the tomb of Trollbane match the glowing lines of the Sigil of Ignaeus...",    ["Completion"]="Matching the lines on the face of Trollbane's tomb with the glowing lines of the Sigil of Ignaeus, a flash of light consumes the Sigil, and the legendary sword Trol'kalar is released from the stone hands' grip.",    ["minlevel"]="32",    ["questlevel"]="42"},
-
-	["646"] = {    ["Title"]="Trol'kalar",    ["Description"]="The light slowly fades, the sword Trol'kalar, held within a stone sheath has been released.",    ["Objectives"]="Deliver Trol'kalar to Zengu in Hammerfall.",    ["Progress"]="$N! Have you taken the sword?",    ["Completion"]="For generations, the forces of Strom and Arathor ravaged the trolls. Now their greatest weapon is in our hands. Our inching progress in the steamy forests of Zul'Gurub will be no more.",    ["minlevel"]="32",    ["questlevel"]="42"},
-
-	["653"] = {    ["Title"]="Myzrael's Allies",    ["Description"]="<Myzrael speaks.>$B$BFree!  I AM FREE!  I am free to gather strength, hidden from my captors.  For if they faced me now they would surely overpower and again imprison me.$B$BBut in time I will confront the giants, and they will regret their wardship of me!$B$BYou are a noble ally, $N.  I will need your help again in time.  When I am ready, I will need you to summon me to the surface.$B$BSpeak with Gerrig Bonegrip.  He is in Ironforge, in a shop of the Forlorn Cavern.  He knows how I can be summoned.",    ["Objectives"]="Speak with Gerrig Bonegrip in the Forlorn Cavern of Ironforge.",    ["Progress"]="",    ["Completion"]="The Lady told me of your coming, $C. You are welcome in my abode for you, like I, serve a higher cause.",    ["minlevel"]="30",    ["questlevel"]="40"},
-
-	["655"] = {    ["Title"]="Hammerfall",    ["Description"]="It is still clear to me, like yesterday... So many years without hope, with wood and steel to bind me to this terrible place. Then finally, finally! There was the Warchief. Doomhammer in his midnight plate, his warhammer held high.$b$bIt was... too terrible... That the blow of a coward would strike down our greatest hero. From behind he charged on his horse, and then his lance ran him through... I fell to my knees. What hope was there? What hope is there...",    ["Objectives"]="Speak with Tor'gan in Hammerfall.",    ["Progress"]="",    ["Completion"]="Ah, Gor'mul you speak of. Yes, from what he says, it seems he has never recovered from the death of Doomhammer.$B$BGor'mul was a captive here when Thrall and Orgrim fought to free the camp, but as the earth shook and our brethren escaped, he was left behind. He wandered alone and lost for years without direction or hope, until we returned to establish ourselves here in Hammerfall.",    ["minlevel"]="29",    ["questlevel"]="34"},
-
-	["656"] = {    ["Title"]="Summoning the Princess",    ["Description"]="You must defeat Myzrael before she grows in strength.  If you do not, then once she has gathered enough power she will challenge her captors!  There are some who think they can control her, but if she can be controlled then why did the giants chain her in the first place??$B$BCrazy logic, eh?$B$BTo defeat her, summon her at the Shards of Myzrael where you first spoke with her.  Defeat her and gather her Eldritch Shackles, then bind them to the Shards of Myzrael.$B$BDo that, and she will again be trapped.",    ["Objectives"]="Go to the Shards of Myzrael, summon her and defeat her.$B$BGather her Eldritch Shackles and bind them to the Shards of Myzrael.",    ["Progress"]="The Shards of Myzrael are now strangely quiet.",    ["Completion"]="As the eldritch shackles are placed around the Shards, an unhuman wail is heard from far below. The scream is followed by a roar.$B$BThe Shards of Myzrael no longer invoke feelings of warmth and security as they once did. Now they pulse with an open menace... as if the thing beneath them holds ill will toward the surface.",    ["minlevel"]="30",    ["questlevel"]="50"},
-
-	["662"] = {    ["Title"]="Deep Sea Salvage",    ["Description"]="O'Breen led the ships into the cove.  We were certain this is where the treasure could be found.  The Harbinger docked safely but as the Maiden's Folly and Spirit of Silverpine approached the tides began to lower.  Strangest thing I've ever seen!$b$bThose two ships ran aground into something... some sort of temple in the reef.  They sank so quickly, was quite a tragedy.$b$bWe need to retrieve their Logs as well as their Charts before we leave.  We can't leave that information behind for prying eyes!",    ["Objectives"]="First Mate Nilzlix wants you to retrieve the Charts and Logs from the Maiden's Folly and the Spirit of Silverpine.",    ["Progress"]="How goes the search and recovery mission, $N?  We really need to get those Logs and Charts back from the Maiden's Folly and Spirit of Silverpine.$B$BIf the information from those sources were to fall into enemy hands, Fleet Master Seahorn would force us down the plank.$B$BThat is if we ever get out of this mess...",    ["Completion"]="Knowing this information is secure will bring some ease to the command in Booty Bay. Well done, $N.",    ["minlevel"]="35",    ["questlevel"]="40"},
-
-	["663"] = {    ["Title"]="Land Ho!",    ["Description"]="Lolo sees a tiny $r! Always on the lookout, Lolo is!$b$bWelcome to Faldir's Cove.  Captain O'Breen said we'd only be here for a few hours.  Just long enough to gather the treasure and get back to Booty Bay.$b$bBut Lolo thinks we're going to be here a lot longer than that.  We lost the other two ships from our formation.  Poor Spirit of Silverpine and Maiden's Folly.  On the bottom of the sea they rest now!$b$bLolo suggests you talk to Captain O'Breen if you plan on sticking around here.",    ["Objectives"]="Talk to Captain O'Breen in Faldir's Cove.",    ["Progress"]="",    ["Completion"]="Ahoy, matey.$B$B'Twas a horrible mess. Seahorn will have my ship if he finds out what went down.$B$BOne of the Professor's contraptions indicated the lost treasure was near this cove. I brought the Harbinger in to dock and signaled for the Spirit of Silverpine and Maiden's Folly to follow suit.$B$BThen the sea rumbled. The tides lowered and the two ships crashed into the reef.$B$BIt's not just a reef. Something's down there....$B$BHelp my crew out and you'll be rewarded handsomely.",    ["minlevel"]="35",    ["questlevel"]="35"},
-
-	["664"] = {    ["Title"]="Drowned Sorrows",    ["Description"]="Argh, 'tis a horrible life. I should be in a watery grave right now, not sittin' here by the fire, breathin' fresh air.$b$bThe crew tried so hard to save my beautiful Maiden's Folly. Bless the boys, bless their hearts.$b$bO'Breen made it to shore safely but we weren't so lucky. The seas just sank on us, I swear.$b$bOne second we're afloat and the next water is rushin' in. And those beasts! Killed all the survivors. Horrible naga scum. I went black and ended up here, saved.$b$bI want those beasts dead.",    ["Objectives"]="Captain Steelgut in Faldir's Cove wants you to kill 10 Daggerspine Raiders and 3 Daggerspine Sorceresses.",    ["Progress"]="Bah, maybe I should go kill those naga scum myself. It's obvious you're not goin' to do it.$B$BMaybe I can find some knitting needles so you can keep yourself busy.",    ["Completion"]="Nice work out there, $N.$B$BThose scum deserved what they got. While nothin' will ever bring me ship or me crew back, the death of those naga gives me some solace.",    ["minlevel"]="35",    ["questlevel"]="40"},
-
-	["665"] = {    ["Title"]="Sunken Treasure",    ["Description"]="Now that we are full-fledged Blackwater Raiders it is our job to help Mr. O'Breen locate the lost elven treasure.$b$bIt is next to impossible to find the gems in the dark sea without aid. The doctor has constructed some goggles that will help. He needs the goggles charged with the energy derived from the enchanted stone in the cave just up the hill.$b$bBut the cave is cursed! When we get close, we get ambushed. Defend me and I can harness the energy from the stone into the goggles.",    ["Objectives"]="Escort Professor Phizzlethorpe to the cave and back.",    ["Progress"]="",    ["Completion"]="The goggles work perfectly now! Well done, $N.",    ["minlevel"]="35",    ["questlevel"]="40"},
-
-	["666"] = {    ["Title"]="Sunken Treasure",    ["Description"]="The treasure has been on the sea floor so long that the gems have calcified into thick stone. But the power harnessed in these goggles will allow you to locate them easily.$b$bA little gnomish ingenuity goes a long way!$b$bSo borrow the Goggles of Gem Hunting, $n, and see if you can collect some of the lost treasure for Captain O'Breen.$b$bI'd swim down there myself but...um...well, I have important scientific business to tend to up on the safe, dry land....er, yeah.",    ["Objectives"]="Doctor Draxlegauge in Faldir's Cove wants you to collect 10 Elven Gems and return the Goggles of Gem Hunting once you are done.",    ["Progress"]="How did the goggles work? Did everything function properly? Adjustments can be made if necessary.$B$BOh, and I'll need those goggles back when you're done. I am sure Captain O'Breen will have many uses for them later on.",    ["Completion"]="Most superb, $N! The Captain will be very pleased! And just wait until word gets back to Fleetmaster Seahorn!",    ["minlevel"]="35",    ["questlevel"]="40"},
-
-	["667"] = {    ["Title"]="Death From Below",    ["Description"]="This is bad. It seems the Daggerspines are amassing for an attack.$b$bNaga are known for their ruthlessness in battle. They will keep attacking until I am dead.$b$bI don't value my own life above that of my crew members, but you must help to defend me. The crew will not be able to make it back to Booty Bay without my knowledge of the seas.$b$bThe naga will be coming from the sea. I need you to remain up here with me to fend off the attack. Man the cannon and drive them back.$b$bAre you ready, $n?",    ["Objectives"]="Protect Shakes O'Breen during the attack.",    ["Progress"]="",    ["Completion"]="We survived the attack!$B$BWe could not have done it without you, $N.$B$BWe'll be heading out as soon as the tide rises. If you weren't such a promising hero I'd offer you a place on my crew. But I can tell you have bigger fish to fry.$B$BEven if you are a puny $R....",    ["minlevel"]="35",    ["questlevel"]="44"},
-
-	["668"] = {    ["Title"]="Sunken Treasure",    ["Description"]="Let's not leave Captain O'Breen waiting. He'll want to see these gems first hand. After all, that's why we're here!$b$bAnd after a few weeks of consorting with these pirates, the professor and I have realized the last thing that's good for our health is to be caught hanging on to their treasure.$b$bHere, $n, take these to O'Breen.",    ["Objectives"]="Take the Elven Gems to Captain O'Breen.",    ["Progress"]="Ahoy, $C. What brings you to the bridge?",    ["Completion"]="So the little gnomes proved their worth after all? I knew we kept those ankle biters around for a reason!",    ["minlevel"]="35",    ["questlevel"]="40"},
-
-	["669"] = {    ["Title"]="Sunken Treasure",    ["Description"]="Fleet Master Seahorn will want to hear about our find at once.$b$bBut as you can see, we're not in much of a position to get out of here. Not only is the tide too low, but those damned creatures we disrupted are keeping a close eye on our movements.$b$bYou can be of great service to the Blackwater Raiders if you can get word to Fleet Master Seahorn in Booty Bay that we discovered the treasure and are working on extracting more.  Take him this sample as proof.",    ["Objectives"]="Take the Sample Elven Gem to Fleet Master Seahorn in Booty Bay.",    ["Progress"]="What brings you to Booty Bay, $C?",    ["Completion"]="Ah, leave it to good old Shakes O'Breen! I knew that he was the right Captain for the mission!",    ["minlevel"]="35",    ["questlevel"]="40"},
-
-	["670"] = {    ["Title"]="Sunken Treasure",    ["Description"]="Say, $n, you seem to be an adventurous type. My fleet is stuck in Booty Bay until we can restock.$b$bThere are some heavy things brewing here and abroad and I need to get some top secret correspondence to Shakes O'Breen who is tied up off the Arathi coast.$b$bCan I trust you to deliver this message safely and in confidence?",    ["Objectives"]="Deliver Seahorn's Letter to Shakes O'Breen in Arathi Highlands.",    ["Progress"]="So was Seahorn impressed? I bet you his smile reached from Booty Bay to Ratchet.",    ["Completion"]="Thank you for making such a long and perilous journey. You have the gratitude of the Blackwater Raiders.",    ["minlevel"]="35",    ["questlevel"]="40"},
-
-	["671"] = {    ["Title"]="Foul Magics",    ["Description"]="I have felt a strangeness in the air... a feeling that simmers in my blood. I had my suspicions. I set off to find the source of my unease and discovered to the west, at Northfold Manor, the residual traces of demonic summoning. As I got close, my blood began to boil and the rage within me grew.$b$bOn the ground I spied an amulet of bloodstone, used to assist in demonic summoning. The one I found was depleted, however. I'll need another to examine, but I dare not return to the manor. Can you bring me some?",    ["Objectives"]="Get 10 Bloodstone Amulets for Tor'gan in Hammerfall.",    ["Progress"]="Once-cursed blood still runs through my veins, $N. If someone... something is summoning demons, it must be stopped.",    ["Completion"]="It will take some time for me to ascertain the true intentions of the Syndicate, but their obvious association with dark, demonic magic troubles me. I will tell you when I know more.",    ["minlevel"]="30",    ["questlevel"]="33"},
-
-	["672"] = {    ["Title"]="Raising Spirits",    ["Description"]="We tried to settle him in, cheer him up, telling him stories of our mighty city at Orgrimmar in Kalimdor, but nothing would move him.$b$bTales of our young Warchief, Thrall, who bears the armor and hammer of Orgrim... but, perhaps... Perhaps! A demonstration of our newly found shamanistic magic would give him new hope. It is worth a try!$b$bA small object we could make for him, yes... Bring me some raptor eyes, and I will see what I can do.",    ["Objectives"]="Acquire 10 Highland Raptor Eyes from Highland Striders and Highland Thrashers for Tor'gan in Hammerfall.",    ["Progress"]="I will create an amulet that will give Gor'mul some of the strength of the raptors. Perhaps that will awaken some flame within him...",    ["Completion"]="Excellent. The spirits of the raptors that gave these eyes will lend strength to the bearer of this amulet.",    ["minlevel"]="29",    ["questlevel"]="34"},
-
-	["673"] = {    ["Title"]="Foul Magics",    ["Description"]="There is no doubt in my mind that a powerful warlock resides within the walls of Stromgarde. From time to time, using an arcane magical relic, this warlock has summoned forth terrible demons in large numbers. We must remove the source of his energy.$b$bFind the warlock and kill him. Bring me whatever magical object you find on his person, and I will take steps to destroy it and see that its power is not used to taint this land any longer.",    ["Objectives"]="Retrieve Marez Cowl's Bloodstone Orb and bring it to Tor'gan in Hammerfall.",    ["Progress"]="The burning in my blood... it grows by the day. The warlock must be stopped.",    ["Completion"]="My restless nights will turn to peaceful slumber when I have destroyed this orb. Thank you, $N. It is a chilling reminder of the terrible power the demons held over the orcs before Hellscream released them from their curse.",    ["minlevel"]="35",    ["questlevel"]="40"},
-
-	["674"] = {    ["Title"]="Raising Spirits",    ["Description"]="Here, take this amulet to Gor'mul, and see if the raptors' strength can awaken the flame of the warrior that once burned through his veins.",    ["Objectives"]="Give the Raptor Talon Amulet to Gor'mul.",    ["Progress"]="What hope is there when the hand of a coward can slay the mightiest of the mightiest? What hope, I ask you!",    ["Completion"]="What is this? Polished bone. What use have I for polished bone? Will a trinket restore the Horde to its glory?",    ["minlevel"]="29",    ["questlevel"]="34"},
-
-	["675"] = {    ["Title"]="Raising Spirits",    ["Description"]="<Gor'mul tosses the amulet into the ground.>$b$bTor'gan sent you, didn't he? Pah! Why he feels some mercy towards me I would not understand. Mercy was denied me when I was not allowed to die with my Warchief in battle. A cruel blow fate has dealt me...",    ["Objectives"]="Speak with Tor'gan.",    ["Progress"]="",    ["Completion"]="It did not work, I see. Nonetheless, I feel that showing him the power of the shamans will eventually return Gor'mul to his once proud self. The amulet's power was not great enough to show him our newfound power.",    ["minlevel"]="29",    ["questlevel"]="34"},
-
-	["680"] = {    ["Title"]="The Real Threat",    ["Description"]="You serve my husband well, $c, but he does not know why Hammerfall is under attack.$B$BOr'Kalar, Mug'thol's pawn in Stromgarde, has an intense hatred for my husband, and wishes nothing more than my husband's death for defeating him years ago.$B$BMy auguries tell me that Or'Kalar has laid a trap for my husband, so I have hidden signs of the ogre's presence from him.$B$BMy husband will rush off foolishly if he learns of the ogre's whereabouts and I would ask for your help in slaying the creature.",    ["Objectives"]="Slay Or'Kalar and bring his Head to Korin Fel in the Hammerfall outpost.",    ["Progress"]="Near the Tower of Arathor--that is where you will find Or'Kalar. His death will stop the attacks on Hammerfall and protect my husband's life.$B$BI see in your eyes that you think me weak--even dishonorable--for my silence. Some day you will learn what it is to love as I do. Perhaps then you will understand a different kind of strength and honor.$B$BIn the meantime, do as I ask, and slay Or'Kalar.",    ["Completion"]="You have done me a great service, $N. Know that my husband's life and the safety of Hammerfall has been protected for another day because of your deeds. Please take this as a reward for your courage.",    ["minlevel"]="30",    ["questlevel"]="40"},
-
-	["682"] = {    ["Title"]="Stromgarde Badges",    ["Description"]="The Syndicate in Stromgarde do battle with our contingent of militia there. In order to urge the rabble to fight our more disciplined troops, the Syndicate leaders have placed a bounty on our soldiers, awarding gold for each Stromgarde Badge gathered off killed militiamen.$B$BWe want those badges retrieved - we cannot allow the cutthroats to take trophies from our brave fallen!$B$BEnter the Syndicate-controlled area of Stromgarde and hunt them for our badges.",    ["Objectives"]="Bring Stromgarde Badges to Captain Nials at Refuge Pointe.",    ["Progress"]="Have you retrieved any Stromgarde Badges, $N? The Syndicate must learn they cannot profit from our dead.",    ["Completion"]="Thank you, $N. We will inform the families of these fallen soldiers that they were killed in battle.$B$BIt will be grim news to bear, but it is better than the uncertainty of a missing loved one.",    ["minlevel"]="30",    ["questlevel"]="37"},
-
-	["687"] = {    ["Title"]="Theldurin the Lost",    ["Description"]="Theldurin the Lost was once a member of our order, the Twilight's Hammer.  But he lost his mind and scorned our teachings.  And before he fled from us, he stole the scroll of Myzrael!  We could not catch him, but rumors say he hides in the Badlands, gibbering and mad.$B$BTo bring the Lady back to us, you must find the scroll.  And to do that, you must find Theldurin.",    ["Objectives"]="Find Theldurin the Lost.",    ["Progress"]="",    ["Completion"]="Hello. Hello, hello hello hello hello HELLO!$B$BI'm sorry - wait, no I'm not! Don't be rude!$B$BOh no...that was crazy talk.$B$BBut...sometimes being crazy is my only solace.",    ["minlevel"]="30",    ["questlevel"]="40"},
-
-	["688"] = {    ["Title"]="Myzrael's Allies",    ["Description"]="<Myzrael speaks.>$B$BFree!  I AM FREE!  I am free to gather strength, hidden from my captors.  For if they faced me now they would surely overpower and again imprison me.$B$BBut in time I will confront the giants, and they will regret their wardship of me!$B$BYou are a noble ally, $N.  I will need your help again in time.  When I am ready, I will need you to summon me to the surface$B$BSpeak with Zaruk in Hammerfall.  He knows how I can be summoned.",    ["Objectives"]="Speak with Zaruk in Hammerfall.",    ["Progress"]="",    ["Completion"]="Welcome, $C. The Lady has informed me of your coming, and if we are to bring her back to the surface then we have much to discuss...",    ["minlevel"]="30",    ["questlevel"]="40"},
-
-	["691"] = {    ["Title"]="Worth Its Weight in Gold",    ["Description"]="Archmage Malin sent Skuerto and I here to collect reagents for him. I was at a loss as to how I was going to collect the items, but now that you're here, I think my problem's solved.$B$BI need the following: Witherbark tusks, Witherbark medicine pouches and a shadow hunter knife.$B$BCould you find those for me? The Witherbark live to the southeast of Arathi.",    ["Objectives"]="Find 10 Witherbark Tusks, 4 Witherbark Medicine Pouches and a Shadow Hunter Knife for Apprentice Kryten at Refuge Pointe.",    ["Progress"]="Have you had any luck so far, $N?$B$B<Kryten makes some notes in his journal as he reads.>$B$BIf my research is correct, the tusks should come from any Witherbark troll. The medicine pouches come from the Witherbark witch doctors, and the strongest of the Witherbark shadow hunters should carry the special knife given to them after they've completed their rites of passage. There's no way to tell which shadow hunters will have the knife until you do battle.",    ["Completion"]="Incredible! I can see why Malin asked you to come join us - very well done indeed!$B$BAt this rate, Skuerto and I will be headed back to Stormwind in no time at all.$B$BI believe my dwarven companion is back from scouting Boulderfist Hall; go speak to him when you're ready.$B$BIt looked as though he might have had a bit of a scuffle with the ogres. Don't mention that to him, though; he's very sensitive about criticisms to his skills at scouting.",    ["minlevel"]="30",    ["questlevel"]="36"},
-
-	["693"] = {    ["Title"]="Wand over Fist",    ["Description"]="Hey, $N. Sorry to be so short with ye earlier... and no, that ain't a pun.$B$BI figured out where Trelane's first item ended up: Kor'gresh has it in Boulderfist Hall. An' by the way he was throwing down blasts of ice at his kin to keep them in line, he must be close to figurin' out how to use all of its powers.$B$BBoulderfist Hall's south of here an' then east of Thandol Span. Find the ogre an' get back that wand.$B$BWhile you're gone, I'll figure out what we're gonna do about Stromgarde.",    ["Objectives"]="Find Trelane's Wand of Invocation and return it to Skuerto at Refuge Pointe.",    ["Progress"]="Our goal is the wand, $N. Focus on that for now.",    ["Completion"]="Brilliant, $N. One item down an' three more to go, based on my list. The other three items are all in Stromgarde.$B$BTake a rest an' get your strength back--the next phase of my plan'll require a little more time an' effort. Come back to me after you've gotten a warm meal an' some rest.",    ["minlevel"]="30",    ["questlevel"]="39"},
-
-	["694"] = {    ["Title"]="Trelane's Defenses",    ["Description"]="All rested?$B$BHere's our next step: there're ogres all around the Tower of Arathor in Stromgarde. We're gonna need to activate the tower's defenses if you're gonna stand a chance against 'em an' still make it to the items alive. To do that, we're gonna need some gems the Boulderfist shaman have taken a liking to. They took 'em from the tower, but they're not gonna stay in their possession for long.$B$BGet one of them gems an' bring 'em to Kryten--he knows the spell to enchant 'em so they'll work as a key.",    ["Objectives"]="Find an Azure Agate and bring it to Apprentice Kryten at Refuge Pointe.",    ["Progress"]="$N, hello again. Have you found an azure agate yet?",    ["Completion"]="You amaze me, $N. Well done again.$B$BGive me a moment to cast the proper spell to enchant the gem, an' you'll be ready.",    ["minlevel"]="30",    ["questlevel"]="39"},
-
-	["695"] = {    ["Title"]="An Apprentice's Enchantment",    ["Description"]="Here you are, $N. The gem only needs to be pressed against one of the pedestals near the base of the tower to activate its defenses. Use it when you're ready to enter the tower and find Trelane's remaining items. $B$BGood luck to you. I'll be awaiting your return here at the camp. Oh, and speak to Skuerto before you leave. He'll give you the rest of the details you'll need.",    ["Objectives"]="Speak to Skuerto.",    ["Progress"]="",    ["Completion"]="Good, good.$B$BIf there are no other delays, how about we get started?",    ["minlevel"]="30",    ["questlevel"]="39"},
-
-	["696"] = {    ["Title"]="Attack on the Tower",    ["Description"]="Here's what your lookin' for: Trelane's phylactery, Trelane's orb, an' Trelane's ember agate.$B$BAll three should be in chests within the tower an' you shouldn't have a problem opening the chests on your own; you just have to be careful of the ogres.$B$BThe tower's defenses won't take care of 'em on their own; you'll need to have your weapons at the ready. Those ogres find out you're there and stealing from 'em, an' they'll be sure to put the hurt on you.$B$BBe careful, an' good luck.",    ["Objectives"]="Find Trelane's Phylactery, Trelane's Orb, and Trelane's Ember Agate, and return them to Skuerto at Refuge Pointe.",    ["Progress"]="You do this, an' I'm sure Malin'll be more than pleased with you.",    ["Completion"]="Malin couldn't've asked a worthier person to come here an' aid us, $N. You've done a grand job!$B$BHe'll be pleased to see what an overwhelming success our mission's been.",    ["minlevel"]="30",    ["questlevel"]="39"},
-
-	["697"] = {    ["Title"]="Malin's Request",    ["Description"]="Take this letter back to Stormwind and let Malin know that Kryten an' I'll be home soon. He'll reward you well for helping us here, $N, of that I've no doubt.$B$BTravel safely.",    ["Objectives"]="Take the Sealed Letter to Archmage Malin in the Mage Quarter of Stormwind.",    ["Progress"]="Yes? You look vaguely familiar. I do apologize, but have we met? I get so busy I lose track.",    ["Completion"]="<Archmage Malin opens the letter, and his eyes grow wide.>$B$BBy the Light, you've done it. How wonderful. Trelane will be so pleased. I'm sure Kryten and Skuerto are just as excited as I am to have them on their way back to Stormwind.$B$BThank you, $N. Please, take this to help you in your journeys.",    ["minlevel"]="30",    ["questlevel"]="39"},
-
-	["701"] = {    ["Title"]="Guile of the Raptor",    ["Description"]="With some additional objects, I will be able to create an item that will imbue Gor'mul with the guile of the raptor! With the power of the raptor flowing through him, Gor'mul will know our new power and rediscover the warrior that lies dormant!$b$bI will require raptor hearts to fashion the item and spell.",    ["Objectives"]="Acquire 12 Raptor Hearts from Highland Fleshstalkers for Tor'gan.",    ["Progress"]="My preparations are made, all I require are the raptor hearts.",    ["Completion"]="Yes, these will work perfectly. I will transfer their power and the spirit of the raptors into this orb. This orb will imbue Gor'mul with the fiery strength and intelligence of the raptor.",    ["minlevel"]="29",    ["questlevel"]="37"},
-
-	["702"] = {    ["Title"]="Guile of the Raptor",    ["Description"]="Take this orb and use its energy to give Gor'mul the essence of the raptor. Surely this will invigorate his spirit and give him new purpose in life. With him returned to normal, we can explain to him the current state of the Horde, and we will have a great warrior's assistance in our unceasing battles.",    ["Objectives"]="Give Tor'gan's Orb to Gor'mul.",    ["Progress"]="Returned again have you? Indeed there is nothing more I could wish for now than more of Tor'gan's pity.$B$BWhat have you for me this time? Perhaps a piece of brightly colored string? Or a length of rope to end this misery of mine...",    ["Completion"]="At least it is something interesting you bring to me this time. A strange power it emits...",    ["minlevel"]="29",    ["questlevel"]="37"},
-
-	["836"] = {    ["Title"]="Rescue OOX-09/HL!",    ["Description"]="The gnome's voice crackles once again from the robot:$B$B\"I need to move OOX-09/HL to an open, safe place so it can begin a lengthy take-off procedure.  It has built-in cloaking, but I need time on my end to make it operational again.  Escort the robot from its current location to, let's say, the shoreline beyond Overlook Cliff!  That should be a perfect place, and long enough, to get things online!\"$B$B\"Escort it safely to the shore, and then come talk to me in Booty Bay!  Oglethorpe Obnoticus - out!\"",    ["Objectives"]="Escort OOX-09/HL to the shoreline beyond Overlook Cliff, then report to Oglethorpe Obnoticus in Booty Bay.",    ["Progress"]="",    ["Completion"]="Oh, YOU'RE the great savior of OOX-09/HL! I cannot even begin to express my thanks for your assistance! My homing robot series needs more development, but your recovery has saved me countless hours of extra rebuilding time, as well as many gold pieces in manufacture costs!$B$BPlease, take your choice of any of these items I have. Thank you again for your generous assistance $N, my robots and I are in your debt!",    ["minlevel"]="43",    ["questlevel"]="48"},
-
-	["838"] = {    ["Title"]="Scholomance",    ["Description"]="On the island of Caer Darrow lies Scholomance - a school that serves as a stronghold for the Scourge.  Our enemy dwells within, safely allowed to pursue research that strengthens their power.  A door bars the way, and try as we might no entry is to be had without a proper key.$B$BApothecary Dithers is well versed on Scholomance, and has an idea how to obtain a key.  You have proved your value to me as someone who can get things done; I now entrust this task to you.  Speak with him on this matter.",    ["Objectives"]="Speak with Apothecary Dithers at the Bulwark, Western Plaguelands.",    ["Progress"]="",    ["Completion"]="Yes, $C, the High Executor mentioned you might be the one to trust in the matter of they key. I've dedicated a fair portion of my recent studies to the Scholomance, and I believe I know a means by which you can acquire one that will let you past the front door at will.$B$BThis task will not be easy, but such tasks seldom are. You most assuredly look like the type to know this as fact.",    ["minlevel"]="55",    ["questlevel"]="55"},
-
-	["847"] = {    ["Title"]="Guile of the Raptor",    ["Description"]="This... this power.... Is this the power of the shamans that Tor'gan tried to show me? I must say, it is interesting. Tell Tor'gan that he has convinced me... for the time being. I will listen to what he has to say.",    ["Objectives"]="Speak with Tor'gan.",    ["Progress"]="",    ["Completion"]="When the enchantment wears off, I will speak with Gor'mul. My thanks to you for your help in returning Gor'mul to the land of the living. I have no doubt he thanks you greatly as well.",    ["minlevel"]="29",    ["questlevel"]="37"},
-
-	["862"] = {    ["Title"]="Dig Rat Stew",    ["Description"]="A $c like you must get pretty hungry out here in The Barrens. Me, I'm starving all day long.$b$bTell you what, I'll fix you up a nice stew. Just need a few dig rats.$b$bSeems those filthy dwarves at Bael Modan are overrun with everyone's favorite feast. Now head on down south to Bael Modan and bring me back some dig rats.$b$bYou can't call yourself a seasoned adventurer until you've spent some time killing rats! Haw!",    ["Objectives"]="Bring 8 Dig Rats to Grub east of the Crossroads.",    ["Progress"]="Whack enough dig rats yet, $N?",    ["Completion"]="Normally I don't like to eat these rodents when they're so.... so... ripe. Like to let them rot for a few weeks to really bring out the flavor. But you look so hungry.$B$BLet me fix you some Dig Rat Stew. Ah, there we go.$B$BHere you go!",    ["minlevel"]="15",    ["questlevel"]="23"},
-
-	["866"] = {    ["Title"]="Root Samples",    ["Description"]="The herbs of the Barrens are not quite like herbs in other lands.  Their properties are mostly the same, but the oasis water here alters the plants; they are just slightly different.$B$BI want to study those differences... to see if they're exploitable!$B$BIf you are skilled in herbalism, then gather root samples off the herbs you find in the Barrens.  Bring back these samples so that I may compare them with herbs from other regions.",    ["Objectives"]="Bring 8 Root Samples to Mebok Mizzyrix in Ratchet.",    ["Progress"]="Hello, $N. Did you get those root samples?",    ["Completion"]="Yes yes, these are very nice! I will grow specimens from these roots and study them. I hope to find new properties from them. Hidden, valuable properties...!$B$BAnd don't worry -- if I do then you'll be the first to know. Because I'll need someone to gather more!",    ["minlevel"]="9",    ["questlevel"]="16"},
-
-	["910"] = {    ["Title"]="Down at the Docks",    ["Description"]="I have heard tales of the mighty ships that sail between Ratchet and Booty Bay!  That would be so cool to sail on the ocean and fight in many great sea battles.  Maybe I will be a mighty Horde sailor when I grow up!  Yeah!$B$BWould you take me to see the Ratchet docks, please?  I promise I won't get into the water or cause any trouble - I just want to see the big boats and smell the salty sea water!  Yeah!",    ["Objectives"]="Take your ward to the docks of Ratchet in the Barrens.",    ["Progress"]="Are we there yet?",    ["Completion"]="Wow, the ocean is HUGE!  There were a lot of seagulls and stuff too - It's just as noisy and as bustling as I thought it would be.  There are pirates near by too - so cool!$B$BThank you for taking me to Ratchet, $N.  That was so awesome!",    ["minlevel"]="10",    ["questlevel"]="60"},
-
-	["911"] = {    ["Title"]="Gateway to the Frontier",    ["Description"]="They say that Ashenvale is the new frontier, and that the Mor'shan Rampart in the Barrens is the gateway to it.  That would be so cool to be a pioneer, carving everything you need out of the untamed wilds!  They say that this is where the Horde and Alliance will clash the most in the future, and I want to be there $N!$B$BWould you take me to the Mor'shan Rampart so I can see what the frontier looks like, please?  I wanna see where the Horde is driving out those smelly night elves!",    ["Objectives"]="Take your ward to the Mor'shan Rampart in the northern part of the Barrens, just before entering Ashenvale.",    ["Progress"]="Are we there yet?",    ["Completion"]="Wow, Ashenvale is where real adventure happens!  Have you ever fought in Ashenvale, $N?  When I become a hero when I grow up, I wanna come to Ashenvale and fight for the glory Horde!$B$BThank you for taking me to the frontier, $N.  You're the best!",    ["minlevel"]="10",    ["questlevel"]="60"},
-
-	["915"] = {    ["Title"]="You Scream, I Scream...",    ["Description"]="ICE CREAM!  Oh please please please could you get me some ice cream?!  Strawberry is my favorite flavor, and there's no better strawberry ice cream in the world than Tigule and Foror's Strawberry Ice Cream!  It's my favorite ice cream in the whole wide world!$B$BI had it once a long time ago when I was at the Shimmering Flats race track, but I heard that they might be selling them in town now!  Please?  Pretty please?  With Tigule and Foror's Strawberry Ice Cream on top??!?!",    ["Objectives"]="Get some Strawberry Ice Cream for your ward.  The lad seems to prefer Tigule and Foror's brand ice cream.",    ["Progress"]="I wish they'd make more flavors of ice cream other than strawberry, but I guess I'm lucky that strawberry is my favorite!",    ["Completion"]="Mmmmmmmmm!  I love their strawberry ice cream!  If there's one thing Tigule and Foror know to do, it's make ice cream!$B$BThank you very much $N - this is the best treat ever!",    ["minlevel"]="10",    ["questlevel"]="60"},
-
-	["8434"] = {    ["Title"]="Battle of Warsong Gulch",    ["Description"]="The battle in Warsong Gulch against the Silverwing Sentinels is of great importance. Under the guise of protecting a forest that doesn't belong to them, the Alliance seeks to deny the Horde one of our largest sources for lumber.$B$BDo not let this happen, $N! Come back to me with proof of serving the Horde in a worthy manner!",    ["Objectives"]="Bring 3 Warsong Marks of Honor to a Horde Warbringer outside the battlegrounds.",    ["Progress"]="The battle in Warsong Gulch against the Silverwing Sentinels is of great importance. Under the guise of protecting a forest that doesn't belong to them, the Alliance seeks to deny the Horde one of our largest sources for lumber.$B$BDo not let this happen, $N! Come back to me with proof of serving the Horde in a worthy manner!",    ["Completion"]="Excellent! You've shown your worth by defending our operations in Warsong Gulch! May word of your honor spread far and wide across our lands.",    ["minlevel"]="50",    ["questlevel"]="59"},
-
-	["925"] = {    ["Title"]="Cairne's Hoofprint",    ["Description"]="They say that Cairne Bloodhoof is one of the greatest heroes the Horde has ever seen.  When I grow up, I wanna be a hero of the Horde too!$B$BDo you know Cairne, $N?  Could you do me a favor, please?  Could you get his hoofprint for me?  I dunno how to ask him, and he'd probably be too busy for someone like me... but you!  You're an adventurer just like he is!  I bet he'd give you his hoofprint easy!$B$BPlease?",    ["Objectives"]="Travel to Thunder Bluff to see about getting Cairne Bloodhoof's hoofprint for your ward.",    ["Progress"]="When the orcs were alone and without friends, the tauren welcomed them to a strange land and shared with them without asking anything in return.  That's honor, $N.",    ["Completion"]="WOW!  You got Cairne's hoofprint for me!  Thank you very much!  And wow... he wrote a personal message on here - to me!  I knew he'd be totally cool, I just did!  Maybe someday I'll thank him myself... when I become a hero of the Horde!$B$BYou're the best, $N.  Thank you for being so nice to me.",    ["minlevel"]="10",    ["questlevel"]="60"},
-
-	["939"] = {    ["Title"]="Flute of Xavaric",    ["Description"]="You study the simple wooden flute you picked up after defeating Xavaric.$B$BThe knotted wood feels solid, but it seems as if the spirals and patterns in the surface begin to spin and move as you turn it over in your hands. Suddenly, you feel a sense of dread...$B$BYou shake your head, sure that your mind is playing tricks on you.$B$BIt's possible that other satyrs carry clues as to what you have found. Bring your findings to the druid, Eridan Bluewind, that lives in southern Felwood.",    ["Objectives"]="Bring the Flute of Xavaric and 5 Jadefire Felbind samples to Eridan Bluewind in southern Felwood.",    ["Progress"]="What is it, $C? You look concerned.",    ["Completion"]="I sense the suffering of ancient ones, $N...$B$BHolding these items is almost unbearable...",    ["minlevel"]="49",    ["questlevel"]="54"},
-
-	["964"] = {    ["Title"]="Skeletal Fragments",    ["Description"]="The key to Scholomance is called a Skeleton Key.  It must be forged from the remains of a skeleton - several actually - and hardened by only the strongest of metals within a suitable mold.  A signet of power from a being who naturally can open the portal to Scholomance will make the key ultimately function.$B$BFirst thing's first though, $N.  We'll need skeletal fragments for the key's forging.  Skeletons inside Andorhal should yield what we need, but the ones outside the walls might work too.",    ["Objectives"]="Bring 15 Skeletal Fragments to Apothecary Dithers at the Bulwark, Western Plaguelands.",    ["Progress"]="Kill many and kill often, $C - we'll need a decent supply of suitable skeletal fragments to make up the outer layer of the key. They don't call it a Skeleton Key for nothing, you know.",    ["Completion"]="This'll work, $N! My turn now - I will imbue these with a suitable temper that will allow them to survive the intense forging process they will eventually go through.$B$BThe next step will be to get an appropriate mold for the key. I know a goblin blacksmith in Tanaris that has in the past made molds for similarly macabre items. He works for whom goblins usually work for - the highest bidder.",    ["minlevel"]="55",    ["questlevel"]="57"},
-
-	["974"] = {    ["Title"]="Finding the Source",    ["Description"]="The hot springs here are a source of mystery to me. Where does the heat come from?$B$BLooking at how close the pools are to Fire Plume Ridge, I really wonder if the volcano might have something to do with it. I created a thermometer to take readings of the temperatures at the volcano, and I'd like to find the hottest part. It gives the measurements in degrees Kraklenheit!$B$BHere, take it, and take readings of the temperatures at the ridge whenever you see a hot spot!",    ["Objectives"]="Krakle in Un'Goro Crater wants you to find the hottest area of Fire Plume Ridge.$B$BWhenever you find a hot spot, right click the thermometer to check the temperature. Keep looking until you find the hottest one.",    ["Progress"]="I'd go there myself, but... I'm a little scared of the fire elementals there!",    ["Completion"]="Yes, I definitely see the correlation here between the temperature of the volcano and the hot springs. I'll have to double-check my equations for accuracy, but it seems like the distance and the rate that the heat is transferred... Hmm...",    ["minlevel"]="51",    ["questlevel"]="55"},
-
-	["977"] = {    ["Title"]="Are We There, Yeti?",    ["Description"]="Now that I have what I need to cover the mechanical moving parts, I only need one other thing. Well, actually two. Two horns!$B$BThe ice thistle patriarchs and matriarchs have the largest horns, so of course, those are the ones I want. That type of yeti inhabits a cave to the southeast. There are plenty of them there; you shouldn't have any problem finding them.$B$BRemember, I only want the best looking ones -- no beat up or broken horns, please!",    ["Objectives"]="Collect 2 Pristine Yeti Horns for Umi Rumplesnicker in Everlook.",    ["Progress"]="I've just about finished attaching the fur, $N. Please, hurry back with those horns!",    ["Completion"]="I can't wait to show my friends! Now, just wait a moment while I attach these...$B$BPerfect!",    ["minlevel"]="52",    ["questlevel"]="58"},
-
-	["980"] = {    ["Title"]="The New Springs",    ["Description"]="Now, I've heard about other hot springs in a place called Winterspring, far to the north of here. The strange thing is, there are no volcanoes anywhere near them. Interesting, I know.$B$BWell, if you want to find out more, you should head to Winterspring and speak to a friend of mine. Her name is Donova Snowden, and she is currently staying by the hot springs there.$B$BThanks again for helping me with my thermometer! See you later!",    ["Objectives"]="Travel to Winterspring and speak with Donova Snowden.",    ["Progress"]="",    ["Completion"]="Hi there, $N. Yes, what Krakle told you is true...",    ["minlevel"]="51",    ["questlevel"]="55"},
-
-	["996"] = {    ["Title"]="Corrupted Windblossom",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="You have found a sickly, corrupted version of what appears to be a windblossom plant.  The berries that hang from the plant appear rotten and poisonous.  It desperately needs some sort of attention if it is to be turned back to normal.",    ["Completion"]="You apply two Cenarion plant salves to the windblossom. It immediately begins to shed its corrupted form, blossoming into a vibrant and healthy plant.",    ["minlevel"]="48",    ["questlevel"]="55"},
-
-	["998"] = {    ["Title"]="Corrupted Windblossom",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="You have found a sickly, corrupted version of what appears to be a windblossom plant. The berries that hang from the plant appear rotten and poisonous. It desperately needs some sort of attention if it is to be turned back to normal.",    ["Completion"]="You apply two Cenarion plant salves to the windblossom. It immediately begins to shed its corrupted form, blossoming into a vibrant and healthy plant.",    ["minlevel"]="48",    ["questlevel"]="55"},
-
-	["1052"] = {    ["Title"]="Down the Scarlet Path",    ["Description"]="We of the Scarlet Crusade lay claim to strongholds from Hearthglen to Tirisfal Glades. We are quite proud of our bastions of cleansing throughout Lordaeron.$b$bYou have proven yourself against the undead in Desolace. But the true threat of the plague lies in Lordaeron.$b$bTravel to the town of Southshore, in the Eastern Kingdoms. Seek out a crusader named Raleigh the Devout. Give him this letter of commendation bearing my seal and he will escort you to a place of honor in our Scarlet Monastery.",    ["Objectives"]="Take Brother Anton's Letter of Commendation to Raleigh the Devout in Southshore.",    ["Progress"]="Who goes there? What do you want from me?",    ["Completion"]="Brother Anton still spreads the word of the Scarlet Crusade? Oh my....",    ["minlevel"]="34",    ["questlevel"]="40"},
-
-	["1125"] = {    ["Title"]="The Spirits of Southwind",    ["Description"]="To our southwest lies a tragic site - the ruins of Southwind Village.  This is where our work should begin, $N.$B$BFrom what we've learned, this village was once a night elf base of operations for Silithus.  It's long since overrun by the silithid hives that infest the wastes.  I can only imagine the horror of the village's initial sundering...$B$BThe tortured spirits of fallen druids and sentinels wander the ruins aimlessly.  Explore this locale, freeing the souls of these wretched beings as needed.",    ["Objectives"]="Free the spirits of 8 Tortured Druids and 8 Tortured Sentinels in Southwind Village, and then return to Layo Starstrike at the Valor's Rest graveyard of Silithus.",    ["Progress"]="Alliance or Horde, it doesn't matter - no being deserves to be trapped on this world as a tortured spirit.  The freeing of these souls will make things right, $N.",    ["Completion"]="I had thought that maybe the huge swirling hive near the ruins of the village had played a part in its demise. It would seem that your work has proven this to be correct; the proximity of the hive poses a threat to any future work we may do here.$B$BI thank you for your benevolence in freeing the souls of the fallen; such work is never easy, I know. When you're ready, however, I'd like to ask for your assistance once more...",    ["minlevel"]="54",    ["questlevel"]="55"},
+	
 
 	["1126"] = {    ["Title"]="Hive in the Tower",    ["Description"]="The hive needs to be addressed in Southwind Village, and I think I know a way to get at them.  It's been my experience that the silithid hives are very sensitive to their environment; this explains their attacks when hearing the death wails of the spirits.$B$BThe silithid are strongest in the tower - the one with the mass of wasps circling it.  Scale the tower and jostle the hive into activity.  Report back what you learn, but be careful!  If you uncover anything that might help, bring it to me.",    ["Objectives"]="Scale the tower of Southwind Village and locate a means to stir the silithid hive into activity.  Bring back anything unusual you may uncover when doing so to Layo Starstrike at the Valor's Rest graveyard of Silithus.",    ["Progress"]="Well, did it work? You're still in one piece, which is good news. Did you find anything?",    ["Completion"]="What the... what is it?$B$BIt has the shape of a... box, maybe? It's encrusted over something fierce. Wait, there a portion here that's exposed... is that a book underneath all this gunk?$B$BI think you've stumbled across quite the find here, $N... well, at least I hope it is. Perhaps it is a journal or a log from ancient times, preserved in this shell.$B$BI think I know a way to find out what this is.",    ["minlevel"]="54",    ["questlevel"]="57"},
 
