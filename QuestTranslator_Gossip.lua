@@ -151,6 +151,26 @@ local function ReplaceRaceWithTag(text, sysRaceLow, locRaceLow)
     return text
 end
 
+-------------------------------------------------------------------------------
+-- OPTİMİZASYON: HASH TABLE (ÖNBELLEK) SİSTEMİ
+-------------------------------------------------------------------------------
+local GossipCache = {}
+
+local function BuildGossipCache()
+    if not QuestTranslator_MergedGossip then return end
+    
+    -- Önceki veriyi temizle (Eğer tablo güncellenirse diye)
+    GossipCache = {}
+    
+    for engText, trText in pairs(QuestTranslator_MergedGossip) do
+        local normKey = NormalizeText(engText)
+        if normKey ~= "" then
+            GossipCache[normKey] = trText
+        end
+    end
+end
+-------------------------------------------------------------------------------
+
 local function ApplyGossipTranslations()
     if QuestTranslator_Settings and QuestTranslator_Settings.enableGossip == false then
         return; 
@@ -158,6 +178,12 @@ local function ApplyGossipTranslations()
     
     -- EĞER BİRLEŞTİRİLMİŞ TABLO YOKSA İŞLEM YAPMA
     if not QuestTranslator_MergedGossip then return end
+
+    -- Eğer önbellek henüz oluşturulmadıysa ilk kullanımda bir kere oluştur
+    -- Bu sayede her NPC'ye tıkladığında değil, sadece ilkinde çalışır ve indeksler
+    if not next(GossipCache) then
+        BuildGossipCache()
+    end
 
     local rawGreetingText = GetGossipText();
     if rawGreetingText then
@@ -171,20 +197,18 @@ local function ApplyGossipTranslations()
         
         local targetNormalized = NormalizeText(textWithTag)
         
-        -- SADECE BİRLEŞTİRİLMİŞ TABLODA ARA
-        for engText, trText in pairs(QuestTranslator_MergedGossip) do
-            if NormalizeText(engText) == targetNormalized then
-                -- 2. Türkçe çevirideki etiketleri karşılıklarıyla değiştir
-                local trClass = classTrNames[currentClassLower] or currentClassLower
-                local trRace = raceTrNames[systemRace] or raceTrNames[localizedRace] or localizedRace
-                
-                local finalTrText = string.gsub(trText, "YOUR_NAME", playerName or "")
-                finalTrText = string.gsub(finalTrText, "YOUR_CLASS", trClass)
-                finalTrText = string.gsub(finalTrText, "YOUR_RACE", trRace)
-                
-                GossipGreetingText:SetText(finalTrText);
-                break;
-            end
+        -- SADECE ÖNBELLEKTE (HASH TABLE) DOĞRUDAN ARA - O(1) HIZI
+        local trText = GossipCache[targetNormalized]
+        if trText then
+            -- 2. Türkçe çevirideki etiketleri karşılıklarıyla değiştir
+            local trClass = classTrNames[currentClassLower] or currentClassLower
+            local trRace = raceTrNames[systemRace] or raceTrNames[localizedRace] or localizedRace
+            
+            local finalTrText = string.gsub(trText, "YOUR_NAME", playerName or "")
+            finalTrText = string.gsub(finalTrText, "YOUR_CLASS", trClass)
+            finalTrText = string.gsub(finalTrText, "YOUR_RACE", trRace)
+            
+            GossipGreetingText:SetText(finalTrText);
         end
     end
     
@@ -196,12 +220,10 @@ local function ApplyGossipTranslations()
             if currentText then
                 local btnNormalized = NormalizeText(currentText);
                 
-                -- YİNE AYNI BİRLEŞTİRİLMİŞ TABLODA ARA
-                for engOpt, trOpt in pairs(QuestTranslator_MergedGossip) do
-                    if NormalizeText(engOpt) == btnNormalized then
-                        button:SetText(trOpt);
-                        break;
-                    end
+                -- YİNE AYNI ŞEKİLDE DÖNGÜ YERİNE ÖNBELLEKTE DOĞRUDAN ARA
+                local trOpt = GossipCache[btnNormalized]
+                if trOpt then
+                    button:SetText(trOpt);
                 end
             end
         end
