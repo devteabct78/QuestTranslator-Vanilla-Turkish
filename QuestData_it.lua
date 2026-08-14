@@ -57564,7 +57564,7 @@ QuestTranslator_QuestData = {
     ["Title"]="Özgürlüğün Anahtarı",
     ["Description"]="Küçük pirinç anahtar yeterince basit görünüyor. Onu öne çıkarıyor gibi görünen tek şey tepesine kazınmış birkaç kelime:\n\n\"Kara Demir Dışkılığı - Kopyalamayınız.\"\n\nNe anlama geldiği veya nereye varacağı hakkında hiçbir fikrin yok.",
     ["Objectives"]="Kavuran Yarık'ı ara ve bulduğun Kirlicüruf Dışkılık Anahtarı için bir kullanım alanı bul.[cite: 2]",
-    ["Progress"]=\"*öksürür*\n\nKim o? Meşgul olduğumu görmüyor musun?\",
+    ["Progress"]=[[\"*öksürür*\n\nKim o? Meşgul olduğumu görmüyor musun?\"]],
     ["Completion"]="Vay canına! Bu nasıl olabilir!? Anahtarı buldun! Beni buraya kilitledikten sonra o lanet Kara Demirlerin onu sakladığını biliyordum! Çok teşekkür ederim, YOUR_NAME. Sen en büyüksün! Şimdi sadece anahtarı çevir ve ihtiyar Locheed'i buradan çıkar!",
     ["minlevel"]="43",
     ["questlevel"]="47",
@@ -58489,7 +58489,7 @@ QuestTranslator_QuestData = {
     ["Description"]="Bulunduğumuz yerin doğusunda, Doğu Veba Toprakları'nın başladığı yerin yakınında bir zamanlar gururlu ve görkemli bozayılar kırsalda dolaşırdı. Afet tarafından salınan veba bu canavarları da parçaladı. Kaslarının sertleşmesi, kürklerinin ve etlerinin çürümesiyle azap çekerek kırsalda dolaşıyorlar.\n\nOnların sefaletine de son vermeni istiyorum. Acılarının tek çaresi hızlı bir ölümdür, senin elinden verilmesi gereken bir ölüm.",
     ["Objectives"]="8 Hastalıklı Bozayı yok et, ardından Batı Veba Toprakları'ndaki Kıvranan Mülk'te bulunan Mulgris Derinnehir'e dön.[cite: 1, 2]",
     ["Progress"]="Ayak seslerini duyuyorum, YOUR_NAME. Görüşüm benden uzaklaştı ama yine de etrafımdaki şeyleri hissedebiliyorum. Hastalıklı bozayıların sefaletine son verdin mi?",
-    ["Completion"]=\"Bozayıların yere serildiğini, eziyetlerinin sona erdiğini biliyorum. Ben... Senin için bir şeyim daha var. Bu diyardaki zamanımın sona erdiğini hissederek bunu... Bu dala yazdım.\n\nGerçekten de... O sonddayım. Tekrar teşekkür ederim dostum... Bu lanetli yerin yaratıkları dinlenebilir... Ve ben de şimdi dinleneceğim.\"\n\nBununla birlikte druid tarafından ağır bir iç çekiş çıkarılır ve ardından bir ölüm hırıltısına benzeyen bir ses duyulur. Cesedi kulübenin zemininde hareketsiz yatıyor.",
+    ["Completion"]=[[\"Bozayıların yere serildiğini, eziyetlerinin sona erdiğini biliyorum. Ben... Senin için bir şeyim daha var. Bu diyardaki zamanımın sona erdiğini hissederek bunu... Bu dala yazdım.\n\nGerçekten de... O sonddayım. Tekrar teşekkür ederim dostum... Bu lanetli yerin yaratıkları dinlenebilir... Ve ben de şimdi dinleneceğim.\"\n\nBununla birlikte druid tarafından ağır bir iç çekiş çıkarılır ve ardından bir ölüm hırıltısına benzeyen bir ses duyulur. Cesedi kulübenin zemininde hareketsiz yatıyor."]],
     ["minlevel"]="51",
     ["questlevel"]="56",
     }, -- end The Wildlife Suffers Too
@@ -58553,7 +58553,7 @@ QuestTranslator_QuestData = {
     -- Janice Felstone -> Janice Felstone (MobNpcData.lua)[cite: 1]
     ["5021"] = {
     ["Title"]="Geç Olsun Temiz Olsun",
-    ["Description"]=\"Paket teslim edilmeli... Buraya hapsolmadan önce teslim edilmeli!\"\n\nPanik içindeki bir kadının çığlıkları sanki evin içinde süzülen bir fısıltı gibi hissettiriyor. Üst kattaki köşede sinmiş bir kadın hayaleti duruyor. Çevresinin tamamen farkında görünmüyor ve senden sadece belirsiz bir şekilde haberdar.\n\n\"Paketimi teslim etmek için mi buradasın? Lütfen, daha da kötüleşmeden önce! Buradan sürüp gidecektim. Hâlâ atımın yanında olmalı... Yoksa çok mu geç kaldım?\"",
+    ["Description"]=[[\"Paket teslim edilmeli... Buraya hapsolmadan önce teslim edilmeli!\"\n\nPanik içindeki bir kadının çığlıkları sanki evin içinde süzülen bir fısıltı gibi hissettiriyor. Üst kattaki köşede sinmiş bir kadın hayaleti duruyor. Çevresinin tamamen farkında görünmüyor ve senden sadece belirsiz bir şekilde haberdar.\n\n\"Paketimi teslim etmek için mi buradasın? Lütfen, daha da kötüleşmeden önce! Buradan sürüp gidecektim. Hâlâ atımın yanında olmalı... Yoksa çok mu geç kaldım?\"]],
     ["Objectives"]="Hayalet kadının saçmalamaları bir paketin teslim edilmesi gerektiğini gösteriyordu. Atının olduğu yerde olduğunu iddia etti. Atın nerede olduğuna veya paketin nereye teslim edileceğine gelince - hayalet anlaşılmaz kalmaya devam ediyor.",
     ["Progress"]="",
     ["Completion"]="Ahırda aksi takdirde gözden kaçırabileceğin bir paket artık çürüme ve harabe arasında öne çıkıyor. Belki de Janice Felstone'un hayaletinin feryat ettiği paket budur...",
