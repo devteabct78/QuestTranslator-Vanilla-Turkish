@@ -114,7 +114,7 @@ gossipCheck:SetPoint(
 _G[gossipCheck:GetName() .. "Text"]:SetText(
     " Gossip Çevirileri"
 )
-
+gossipCheck:SetChecked(1)
 -- Pencere açıldığında ayarı checkbox'a yansıt
 gossipCheck:SetScript("OnShow", function()
     if QuestTranslator_Settings
