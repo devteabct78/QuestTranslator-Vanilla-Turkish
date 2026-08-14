@@ -156,20 +156,23 @@ local function ApplyGossipTranslations()
         return; 
     end
     
+    -- EĞER BİRLEŞTİRİLMİŞ TABLO YOKSA İŞLEM YAPMA
+    if not QuestTranslator_MergedGossip then return end
+
     local rawGreetingText = GetGossipText();
-    if rawGreetingText and QuestTranslator_GossipData then
-        -- WoW API addon yüklenirken bazen UnitName'i nil verebilir, garanti olması için tekrar çekiyoruz
+    if rawGreetingText then
         playerName = playerName or UnitName("player")
         playerNameLower = playerNameLower == "" and string.lower(playerName or "") or playerNameLower
         
-        -- 1. Oyundan gelen ham metindeki ad, sınıf ve ırk adını ilgili etiketler ile değiştir
+        -- 1. Oyundan gelen ham metindeki ad, sınıf ve ırk adını etiketler ile değiştir
         local textWithTag = ReplaceNameWithTag(rawGreetingText, playerNameLower)
         textWithTag = ReplaceClassWithTag(textWithTag, currentClassLower)
         textWithTag = ReplaceRaceWithTag(textWithTag, systemRaceLower, localizedRaceLower)
         
         local targetNormalized = NormalizeText(textWithTag)
         
-        for engText, trText in pairs(QuestTranslator_GossipData) do
+        -- SADECE BİRLEŞTİRİLMİŞ TABLODA ARA
+        for engText, trText in pairs(QuestTranslator_MergedGossip) do
             if NormalizeText(engText) == targetNormalized then
                 -- 2. Türkçe çevirideki etiketleri karşılıklarıyla değiştir
                 local trClass = classTrNames[currentClassLower] or currentClassLower
@@ -185,14 +188,16 @@ local function ApplyGossipTranslations()
         end
     end
     
-    -- Tıklanabilir Seçenekler
+    -- Tıklanabilir Seçenekler (Gossip Options)
     for i = 1, 32 do
         local button = getglobal("GossipTitleButton" .. i);
         if button and button:IsShown() then
             local currentText = button:GetText();
-            if currentText and QuestTranslator_OptionData then
+            if currentText then
                 local btnNormalized = NormalizeText(currentText);
-                for engOpt, trOpt in pairs(QuestTranslator_OptionData) do
+                
+                -- YİNE AYNI BİRLEŞTİRİLMİŞ TABLODA ARA
+                for engOpt, trOpt in pairs(QuestTranslator_MergedGossip) do
                     if NormalizeText(engOpt) == btnNormalized then
                         button:SetText(trOpt);
                         break;
