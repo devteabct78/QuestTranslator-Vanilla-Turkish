@@ -46,7 +46,7 @@ end
 -- Ana Pencere
 local ConfigFrame = CreateFrame("Frame", "QTVT_ConfigFrame", UIParent)
 ConfigFrame:SetWidth(320)
-ConfigFrame:SetHeight(210)
+ConfigFrame:SetHeight(250)
 ConfigFrame:SetPoint("CENTER", UIParent, "CENTER")
 ConfigFrame:SetBackdrop({
     bgFile = "Interface\\DialogFrame\\UI-DialogBox-Background",
@@ -104,8 +104,13 @@ local gossipCheck = CreateFrame(
     "UICheckButtonTemplate"
 )
 
-gossipCheck:SetPoint("TOPLEFT", ConfigFrame, "TOPLEFT", 20, -50)
-
+gossipCheck:SetPoint(
+    "TOPLEFT",
+    ConfigFrame,
+    "TOPLEFT",
+    20,
+    -90
+)
 _G[gossipCheck:GetName() .. "Text"]:SetText(
     " Gossip Çevirileri"
 )
@@ -140,7 +145,13 @@ local zoneCheck = CreateFrame(
     "UICheckButtonTemplate"
 )
 
-zoneCheck:SetPoint("TOPLEFT", ConfigFrame, "TOPLEFT", 20, -90)
+zoneCheck:SetPoint(
+    "TOPLEFT",
+    ConfigFrame,
+    "TOPLEFT",
+    20,
+    -130
+)
 
 _G[zoneCheck:GetName() .. "Text"]:SetText(
     " Bölge Adı Çevirileri"
@@ -176,7 +187,13 @@ local mobNpcCheck = CreateFrame(
     "UICheckButtonTemplate"
 )
 
-mobNpcCheck:SetPoint("TOPLEFT", ConfigFrame, "TOPLEFT", 20, -130)
+mobNpcCheck:SetPoint(
+    "TOPLEFT",
+    ConfigFrame,
+    "TOPLEFT",
+    20,
+    -170
+)
 
 _G[mobNpcCheck:GetName() .. "Text"]:SetText(
     " Mob/NPC Çevirileri"
@@ -202,6 +219,43 @@ mobNpcCheck:SetScript("OnClick", function()
     end
 end)
 
+-- ==========================================
+-- GÖREV ÇEVİRİLERİ CHECKBOX
+-- ==========================================
+local questCheck = CreateFrame(
+    "CheckButton",
+    "QTVT_QuestCheckButton",
+    ConfigFrame,
+    "UICheckButtonTemplate"
+)
+
+questCheck:SetPoint(
+    "TOPLEFT",
+    ConfigFrame,
+    "TOPLEFT",
+    20,
+    -50
+)
+
+_G[questCheck:GetName() .. "Text"]:SetText(
+    " Görev Çevirileri"
+)
+
+-- Her zaman işaretli
+questCheck:SetChecked(1)
+
+-- Read Only:
+-- Kullanıcının checkbox'a tıklayıp durumunu değiştirmesini engeller
+questCheck:SetScript("OnClick", function()
+    this:SetChecked(1)
+end)
+
+questCheck:SetScript("OnShow", function()
+    this:SetChecked(1)
+end)
+
+-- Mouse tıklamalarını tamamen engelle
+questCheck:EnableMouse(false)
 -- ==========================================
 -- GOSSIP METNİNİ GÖSTER
 -- ==========================================
