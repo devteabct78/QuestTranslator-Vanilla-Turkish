@@ -52471,499 +52471,2211 @@ QuestTranslator_QuestData = {
     ["minlevel"]="54",
     ["questlevel"]="55",
     }, -- end The Spirits of Southwind
+    ["1126"] = {
+		["Title"] = "Kuledeki Kovan",
+		["Description"] = "Güneyyeli Köyü [Southwind Village]'ndeki kovanın halledilmesi gerekiyor ve sanırım onlara ulaşmanın bir yolunu biliyorum. Deneyimlerime göre silithid kovanları çevrelerine karşı çok hassaslar; bu da ruhların ölüm çığlıklarını duyduklarında yaptıkları saldırıları açıklıyor.$B$BSilithid'ler en çok kulede güçlüler - etrafında yaban arılarının döndüğü kule. Kuleye tırman ve kovanı harekete geçirmek için sars. Öğrendiklerini bana bildir ama dikkatli ol! Yardımcı olabilecek bir şey bulursan bana getir.",
+		["Objectives"] = "Güneyyeli Köyü [Southwind Village]'nün kulesine tırman ve silithid kovanını harekete geçirecek bir yol bul. Bunu yaparken bulabileceğin sıra dışı şeyleri Silithus'taki Yiğitliğin İstirahati [Valor's Rest] mezarlığında bulunan Layo Yıldızdarbesi [Layo Starstrike]'ye getir.",
+		["Progress"] = "İşe yaradı mı? Hâlâ tek parçadasın, bu iyi haber. Bir şey bulabildin mi?",
+		["Completion"] = "Bu da ne... ne bu böyle?$B$BBir... kutu şekline benziyor sanki? Üzeri felaket derecede kabuk bağlamış. Bekle, şurada açıkta kalan bir kısım var... tüm bu pisliğin altındaki bir kitap mı?$B$BSanırım burada oldukça önemli bir şey buldun, $N... yani, en azından öyle umuyorum. Belki de bu kabuğun içinde korunmuş, antik zamanlardan kalma bir günlük ya da seyir defteridir.$B$BSanırım bunun ne olduğunu öğrenmenin bir yolunu biliyorum.",
+		["minlevel"] = "54",
+		["questlevel"] = "57"
+	},
+	["1133"] = {
+		["Title"] = "Astranaar'a Yolculuk",
+		["Description"] = "Eğer Menethil'den gemiden yeni indiysen yapman gereken ilk şey... Astranaar'a gitmektir. Senin gibi istekli bir İttifak [Alliance] üyesinin orada gerçekten işe yarayabileceğinden eminim. Shindrell Hızlıateş [Shindrell Swiftfire] ile konuş ve hizmetlerini sun.$B$BAma seni kimin gönderdiğinden bahsetme. Shindrell beni tanımaz...",
+		["Objectives"] = "Astranaar'daki Shindrell Hızlıateş [Shindrell Swiftfire] ile konuş.",
+		["Progress"] = "",
+		["Completion"] = "İttifak [Alliance]'a hizmetlerini sunmak için mi buradasın, $N? Yardımı memnuniyetle karşılıyoruz, çünkü güzelliği hâlâ sürse de... Ashenvale Ormanı [Ashenvale Forest] artık eskisi gibi huzurlu bir yer değil.",
+		["minlevel"] = "18",
+		["questlevel"] = "20"
+	},
+	["1135"] = {
+		["Title"] = "Yüksektünek Zehri",
+		["Description"] = "Bileceğin üzere wyvern'lar orklar tarafından binek olarak kullanılmak üzere sık sık evcilleştirilir. Ancak daha az bilinen şey, bazı çevrelerde wyvern zehrinin yaratığın kendisinden daha değerli olduğudur. Yani biraz wyvern avlamaktan korkmuyorsan... sana bir işim var.$B$BBuranın batısında, Bin İğne [Thousand Needles] topraklarında Yüksektünek [Highperch] adında bir yer var. Yüksektünek wyvern'larının tesirli bir zehri vardır. Tesirli ve değerli.",
+		["Objectives"] = "Theramore'daki Fiora Uzunkulak [Fiora Longears]'a 10 Yüksektünek Zehir Kesesi [Highperch Venom Sac] getir.",
+		["Progress"] = "Yüksektünek [Highperch]'i bulabildin mi, $N? Oradaki wyvern'larla şansın yaver gitti mi?",
+		["Completion"] = "Ah, bunların çoğu neredeyse zehirden patlayacak durumda, $N. Böyleleri normalde sadece genç wyvern'lardan ya da doğurgan dişilerden toplanır. Yüksektünek [Highperch]'te bayağı bir katliam yapılmış olmalı!",
+		["minlevel"] = "25",
+		["questlevel"] = "30"
+	},
+	["1166"] = {
+		["Title"] = "Derebeyi Mok'Morokk'un Endişesi",
+		["Description"] = "Derebeyi Mok'Morokk'un önünde eğil!$b$bRexxar beni Taşbalyoz Klanı [Stonemaul Clan]'nın güçlü lideri yaptı!$b$bBen iyi lider. Ben klanı güvende tutar.$b$bBüyük ejderhalar geldi ve eski evde yangın çıkardı. Ben akıllı ogre. Klan için burada yeni ev buldu.$b$bEski evi o kadar hızlı terk ettik ki, ben eşyalarımı unuttum. Minik $r, git eşyalarımı al. Güneye git ve benim lezzetli grogumu, enfiye kutumu ve çelik kasamı bul. Sen bunu yaptıktan sonra ben seni sevecek. Alev İni [Den of Flame] ve Taşbalyoz Harabeleri [Stonemaul Ruins]'ne bak... oradalar, ben emin!",
+		["Objectives"] = "Eğreltisipere Köyü [Brackenwall Village]'ndeki Derebeyi Mok'Morokk, Tozluçalı Bataklığı [Dustwallow Marsh]'ndaki grogunu, enfiyesini ve çelik kasasını geri getirmeni istiyor.",
+		["Progress"] = "Ben grog için susadı. Ben enfiyeyi de özledi. Çelik kasa nerede? Sen git Derebeyi Mok'Morokk için al.$B$BGit eski evde güneyde bul. Ben ogreleri yönetmekten almaya gidemeyecek kadar meşgul.",
+		["Completion"] = "Sen iyi $R. Ben eşyaları çok özledi. Ben şimdi seni sevdi.",
+		["minlevel"] = "38",
+		["questlevel"] = "43"
+	},
+	["1168"] = {
+		["Title"] = "Siyah Ejderha Ordusu",
+		["Description"] = "Mok'Morokk, Rexxar tarafından Derebeyi yapıldı. O güce, ogrelere önem verdiğinden daha çok önem veriyor.$b$bSiyah ejderhalar çok ogre öldürdü. Tharg'ın karısını öldürdü. Mok'Morokk bize kaçmamızı söyledi. Bizi buraya getirdi.$b$bOgre savaşmalı. Ogreler kaçmakta iyi değil. Mok'Morokk sadece Mok'Morokk'u önemsiyor.$b$bBen Taşbalyoz Harabeleri [Stonemaul Ruins]'ne ev derim. Ben güneydeki yeri severim. Burası ev değil.$b$bOgrelerin siyah ejderha ordusuyla savaşmasına yardım et. Ben intikam isterim. Ben eve gitmek isterim.",
+		["Objectives"] = "Eğreltisipere Köyü [Brackenwall Village]'ndeki Tharg, 15 Ateşyele İzci [Firemane Scout], 10 Ateşyele Kül Kuyruğu [Firemane Ash Tail] ve 5 Ateşyele Muhafızı [Firemane Guard] öldürmeni istiyor.",
+		["Progress"] = "Mok'Morokk tüm ogrelere kalıp burayı güvende tutmalarını söylüyor. Ben ogrelerin siyah ejderha ordusunu öldürmesi ve eski evi geri alması gerektiğini düşünüyor.$B$BSen ogrelerin evi geri almasına yardım et. Ogrelerin intikam almasına yardım et.",
+		["Completion"] = "Sen siyah ejderha ordusundan çoğunu öldürdü. Sen cesur $R.$B$BTharg'ı mutlu etti.",
+		["minlevel"] = "38",
+		["questlevel"] = "43"
+	},
+	["1169"] = {
+		["Title"] = "Soyu Teşhis Etmek",
+		["Description"] = "O korkak aptal Mok'Morokk gücün içinde yuvarlanırken ve Tharg kederle intikamın iblisleriyle boğuşup klanın liderliği için yarışırken; eski evimizdeki saldırganlığın kaynağını belirlemekle ilgilenen tek kişi ben varım gibi görünüyor.$b$bNeden öyle şaşkın şaşkın bakıyorsun, $n? Sırf bir ogre olduğum için kaba saba bir haydut gibi konuşmamı mı bekliyordun?$b$bŞimdi işimize dönelim; bana yavruların ve yeni doğanların kalplerini ve dillerini getir. Bu kötülüğün kökenini izleyeceğim...",
+		["Objectives"] = "Eğreltisipere Köyü [Brackenwall Village]'ndeki Draz'Zilb kendisine 15 Kavurucu Dili [Searing Tongue] ve 15 Kavurucu Kalbi [Searing Heart] getirmeni istiyor.",
+		["Progress"] = "Siyah ejderha ordusunun kavrulmuş yavrularının kalpleri ve dilleriyle, evimize kendi dölünü sokan o sefil yaratığı tespit edebilirim. Belki de saldırganlarımız hakkında daha fazla bilgiye sahip olarak onları bir kez ve tamamen yok etmeyi ve Taşbalyoz Köyü [Stonemaul Village]'nü yıkımdan kurtarmayı hedefleyebiliriz.$B$BElbette Mok'Morokk'u uyuşuk, şişman kütlesini bu çamur deliğinden çıkarmaya ikna etmek başlı başına destansı bir görev olacak...",
+		["Completion"] = "Tüm bu kalpleri ve dilleri toplamak şüphesiz tehlikeli bir işti. Eski evimizin üzerine çöken siyah tehlikenin kaynağını bulmak için gizemli sanatların derinliklerine inip araştıracağım.",
+		["minlevel"] = "38",
+		["questlevel"] = "43"
+	},
+	["1170"] = {
+		["Title"] = "Onyxia'nın Soyu",
+		["Description"] = "Taşbalyoz Köyü [Stonemaul Village], Onyxia'nın soyu tarafından işgal edildi. Ancak siyah ejderha lordu Ölümkanadı [Deathwing]'nın kızı neden topraklarımıza insin ki?$b$bBu son derece rahatsız edici. Onyxia'nın buraya küçük bir ogre grubunu kuşatmaktan daha büyük bir amaçla geldiği kesin.$b$bMok'Morokk'a hemen haber ver! Harekete geçilmeli.",
+		["Objectives"] = "Eğreltisipere Köyü [Brackenwall Village]'ndeki Derebeyi Mok'Morokk ile konuş.",
+		["Progress"] = "",
+		["Completion"] = "Sen neden bana ejderhalardan bahsediyor? Ben ejderhaları sevmemek. Ben burayı sevmek. Burada ejderha yok.",
+		["minlevel"] = "38",
+		["questlevel"] = "43"
+	},
+	["1171"] = {
+		["Title"] = "Onyxia'nın Soyu",
+		["Description"] = "Şimdi beni yalnız bırak. Git Draz'Zilb'e söyle biz burada kalıyoruz. Burada siyah ejderha yok.",
+		["Objectives"] = "Eğreltisipere Köyü [Brackenwall Village]'ndeki Draz'Zilb ile konuş.",
+		["Progress"] = "",
+		["Completion"] = "O tembel korkak!$B$BMok'Morokk, Rexxar liderimizken güç sergilerdi. Ancak Rexxar'ın ayrılışından kısa bir süre sonra Mok'Morokk güç arzusu tuzaklarına kurban gitti. Liderlik etmek yerine emretti. Halkına hizmet etmiyor, aksine bizim ona hizmet etmemizi bekliyor.$B$BBir şeyler yapılmalı.",
+		["minlevel"] = "38",
+		["questlevel"] = "43"
+	},
+	["1172"] = {
+		["Title"] = "Onyxia'nın Soyu",
+		["Description"] = "Onyxia'nın soyu Dragonmurk [Ejderha Kasveti]'e dağılmış durumda. Daha fazla yavrunun yumurtadan çıkmasına izin verilmemesi şart.$b$bTozluçalı Bataklığı [Dustwallow Marsh]'nın güneyindeki Ejderha Bataklığı [Wyrmbog]'na acele et. Yuvasını oraya kurduğu kesin. Kötü ejderhanın yumurtalarını bul ve onları yok et.$b$bÇevre bölge bir üreme alanı olarak kaldığı sürece Taşbalyoz Köyü [Stonemaul Village]'nü asla geri alamayız.$b$BMok'Morokk'a gelince... O pislik için başka planlarım var.",
+		["Objectives"] = "Eğreltisipere Köyü [Brackenwall Village]'ndeki Draz'Zilb 5 Onyxia Yumurtası [Egg of Onyxia] yok etmeni istiyor.",
+		["Progress"] = "Dragonmurk [Ejderha Kasveti]'e acele etmelisin, $N. Onyxia'nın yumurtaları Ejderha Bataklığı [Wyrmbog]'nın dört bir yanına saçılmışken, hızlıca bir şey yapılmazsa ezici sayılarla karşı karşıya kalacağız.$B$BYumurtalarını yok et! Siyah ejderha belasının vatanımıza yayılmasına izin verme!",
+		["Completion"] = "Harika! Onyxia'nın daha fazla yumurta üretebilmesi zaman alacak.$B$BHalkım adına sana teşekkür ederim, $N.$B$BŞimdiye kadar senden çok şey istedim. Belki Taşbalyoz Klanı [Stonemaul Clan]'na son bir hizmet daha yapabilirsin.$B$BMok'Morokk bize liderlik etmeye uygun değil. Tharg harika bir lider olurdu ama yaraları ve yaşı yüzünden engelleniyor. Mok'Morokk'u zor kullanarak buradan sür. Ancak o zaman bizi güneydeki öz evimize döndürecek yeni bir lider atayabiliriz.",
+		["minlevel"] = "38",
+		["questlevel"] = "45"
+	},
+	["1173"] = {
+		["Title"] = "Derebeyi Mok'Morokk'a Meydan Oku",
+		["Description"] = "Sen Derebeyi Mok'Morokk'a meydan okumaya cüret etmek?$b$bHa!$b$bBen ezmek minik $r!$b$bİyi bir dayak için hazır olduğunda sen bana söyleyecek.",
+		["Objectives"] = "Mok'Morokk'u yen ve haberleri Eğreltisipere Köyü [Brackenwall Village]'ndeki Draz'Zilb'e bildir.",
+		["Progress"] = "Mok'Morokk'u köyden sürmeye çalışacağını sanıyordum. Bunun yerine benimle sohbet etmeye mi geldin?",
+		["Completion"] = "O korkak şişman kütle Mok'Morokk korkmuş bir çocuk gibi kaçtı. Büyük bir hizmette bulundun, $N.$B$BArtık halkım yeni bir lider atayabilir, eski evimizi bir kez ve tamamen geri almamıza yardımcı olacak biri.",
+		["minlevel"] = "38",
+		["questlevel"] = "45"
+	},
+	["1177"] = {
+		["Title"] = "Aç!",
+		["Description"] = "Mud büyük ogre.$b$bBen aç.$b$bGit balık ez. Mud'a yemek getir.$b$bSen Mud'ı beslemek ya da Mud seni yemek.",
+		["Objectives"] = "Kuzey Tozluçalı [Dustwallow]'daki Çamurezen Kirliayak [Mudcrush Durtfeet] 12 Bataklıkyüzgeci Kafası [Mirefin Head] istiyor.",
+		["Progress"] = "Bana yemek vermek ya da ben seni yemek.",
+		["Completion"] = "Ben balık kafası sevmek!$B$BBen şimdi seni yememek.",
+		["minlevel"] = "32",
+		["questlevel"] = "36"
+	},
+	["1193"] = {
+		["Title"] = "Bozuk Bir Tuzak",
+		["Description"] = "",
+		["Objectives"] = "",
+		["Progress"] = "Önünde büyük, bozuk bir tuzak duruyor. Görünüşe göre ogreler tuzağı tamir etmeye çalışmışlar ama bir sonuç alamamışlar. Tuzağın yanında aceleyle yazılmış bir not duruyor ve garip bir şekilde tamir etmek için ne gerektiğini detaylıca anlatıyor: bir toryum mekanizması [thorium widget] ve biraz don yağı [frost oil]. Tuzak tamir edilirse, yakınından geçen bir ogre tuzağa düşebilir ve böylece engellenebilir.$B$BAçıkçası, çok az ogrenin okuma bilmesi oldukça talihli bir durum gibi görünüyor.$B$BAçıkça.",
+		["Completion"] = "Toryum mekanizması [thorium widget] zahmetsizce yerine kayıyor ve don yağını [frost oil] dökmek için bir kanal oluşturuyor. Yağın son damlaları da içine boşaldığında tuzak anında yerine oturuyor.$B$BŞans eseri oradan geçiverecek dikkatsiz ogrelerin vay haline!",
+		["minlevel"] = "56",
+		["questlevel"] = "60"
+	},
+	["1201"] = {
+		["Title"] = "Theramore Casusları",
+		["Description"] = "Horde ve İttifak [Alliance] huzursuz bir mütareke sürdürüyor. Bir taraf diğerine karşı sınır çatışmaları ve gizli eylemlerde bulunuyor, Horde'un üstün gelmesini sağlamak da bizim görevimiz!$B$Bİşte bunu yapmak için bir fırsat.$B$Bİttifak [Alliance] sızma birlikleri Eğreltisipere Köyü [Brackenwall Village]'nün doğusunda mevzilendi. Köyü gözetliyor ve hareketlerimizi Theramore'a bildiriyorlar, buna izin veremeyiz.$B$BSızanları avla ve onları katlet. Üstlerine, casuslarının varlığına müsamaha göstermeyeceğimize dair net bir mesaj gönder!",
+		["Objectives"] = "9 Theramore Sızanı [Theramore Infiltrator] öldür, ardından Eğreltisipere Köyü [Brackenwall Village]'ndeki Nazeer Kanlımızrak [Nazeer Bloodpike]'a dön.",
+		["Progress"] = "Sızanları buldun mu, $N?",
+		["Completion"] = "İyi iş. Sızan birlikleri yetenekli ama Horde'un dikkatli gözlerinden kaçacak kadar iyi değiller!",
+		["minlevel"] = "30",
+		["questlevel"] = "35"
+	},
+	["1202"] = {
+		["Title"] = "Theramore Rıhtımları",
+		["Description"] = "$N, casuslarımızdan ikisi Theramore rıhtımındaki bir gemiden belge çalmak üzere gönderildi. Kağıtları ele geçirdiler ama fark edildiler ve belgeleri denize atmak zorunda kaldılar.$B$BCasuslardan biri daha sonra kaçtı ama ganimeti kurtaramadı. Başarısızlığını bana bildirdi ve ben de şimdi bu görevi sana veriyorum.$B$BBelgeler bir sandık içinde, Theramore rıhtımının altındaki sulara gömülü vaziyette. O belgeleri bul, $N ve bana getir.",
+		["Objectives"] = "Kaptanın Belgeleri [Captain's Documents]'ni Eğreltisipere Köyü [Brackenwall Village]'ndeki Nazeer Kanlımızrak [Nazeer Bloodpike]'a getir.",
+		["Progress"] = "Belgeleri buldun mu, $N? İttifak [Alliance]'ın istikrarı için hayati önem taşıyan bilgilere sahipler, dolayısıyla Horde'un güvenliği için de hayati önem taşıyorlar.",
+		["Completion"] = "Seni takdir ediyorum, $N. Bu kolay bir görev değildi. Ancak elde ettiğin belgeler amirlerimiz tarafından çok değerli görülüyor.",
+		["minlevel"] = "30",
+		["questlevel"] = "35"
+	},
+	["1203"] = {
+		["Title"] = "Jarl'ın Bir Bıçağa İhtiyacı Var",
+		["Description"] = "Kesecek şeylerim var. Ne keseceğimi sana söyleyemem ama... kendime bir bıçak lazım. Belirli bir bıçak...$B$BBazı insanlar buna ayçeliği palası [moonsteel broadsword] der. Ben ona döner bıçağı derim.$B$BBana yardım edecek misin? Belki kasabada bulursun, belki bir demirciyle konuşursun ve o sana özel yapar.$B$BAma bu işi erteleme. Keseceğim şey sonsuza kadar dayanmaz...",
+		["Objectives"] = "Tozluçalı Bataklığı [Dustwallow Marsh]'ndaki Jarl'a bir Ayçeliği Palası [Moonsteel Broadsword] getir.",
+		["Progress"] = "Bıçağım sende mi??",
+		["Completion"] = "Bu iyi bir bıçak. İyi bir savrulması var. İyi bir döner bıçağı. Teşekkür ederim. Teşekkürler, teşekkürler, teşekkürler!!! Şimdi denemek istiyorum....$B$BDaha sonra. Daha sonra deneyeceğim. Ama dediğim gibi... teşekkürler.",
+		["minlevel"] = "30",
+		["questlevel"] = "35"
+	},
+	["1204"] = {
+		["Title"] = "Çamurkayası Çorbası ve Böcekler",
+		["Description"] = "\"Çamurkayası Çorbası ve Böcekler\" adını verdiğim bir yemek üzerinde çalışıyorum. Hâlâ ana malzemelere ihtiyacım var ve... şey, Tozluçalı Bataklığı [Dustwallow Marsh]'nda bata çıka yürürken uzun süre dayanabileceğimi sanmıyorum!$B$BBu yüzden, $N, benim için biraz avlanabilir misin? İlk olarak, Çamurkayası [Mudrock] kaplumbağalarının dillerine ihtiyacım var. Çamurkayalarını sahil boyunca, çoğunlukla körfez civarında bulabilirsin.$B$BAma sadece herhangi bir dil istemiyorum! Bazı Çamurkayalarının dillerinin çatallı olduğunu duydum...$B$BCatallı dillerin belirgin bir lezzeti olduğunu söylüyorlar ve ben yemeğimde o lezzeti istiyorum...",
+		["Objectives"] = "Theramore'daki Morgan Stern'e 8 Çatallı Çamurkayası Dili [Forked Mudrock Tongue] getir.",
+		["Progress"] = "Çatallı dilleri aldın mı?",
+		["Completion"] = "Bunlar iş görür! Teşekkür ederim, $N!$B$BŞimdi lezzetlerini ortaya çıkarmanın en iyi yolunu bulmak için bu diller üzerinde farklı pişirme teknikleri deneyeceğim.$B$BSonunda Fırtınayeli [Stormwind]'ndeki Mavi Münzevi [Blue Recluse]'de servis edilmeye layık bir yemeğim olacak!",
+		["minlevel"] = "33",
+		["questlevel"] = "38"
+	},
+	["1205"] = {
+		["Title"] = "Ölübataklık",
+		["Description"] = "Ölübataklık [Deadmire], Tozluçalı Bataklığı [Dustwallow Marsh]'nda yaşayan kadim bir timsahtır. Ve onun ölme vakti geldi.$B$BDevasa bedenini bataklıkta sürüklerken eski kemikleri gıcırdıyor ve hâlâ gençliğin gücü ve hızıyla hareket etse de, yaşlanan bedeni içindeki alevi sönmeyecek olan o büyük ruha eziyet ediyor.$B$BYine de şimdi sürekli, çıldırtıcı bir acı içinde yaşıyor. Bu soylu yaratığın hayatına son vermelisin, $N. Ölübataklık'ı huzura kavuşturmalısın.",
+		["Objectives"] = "Gürleyenyarma [Thunder Bluff]'daki Melor'a Ölübataklık'ın Dişi [Deadmire's Tooth]'ni getir.",
+		["Progress"] = "Ölübataklık [Deadmire]'ın dişi sende mi, $N? Yaratığın acısına son verdin mi?",
+		["Completion"] = "Çok iyi, $N.$B$BAvın kolay olmadığına eminim ama yaratığın acısının sonunda bittiğini bilmek güzel.",
+		["minlevel"] = "35",
+		["questlevel"] = "45"
+	},
+	["1206"] = {
+		["Title"] = "Jarl'ın Gözlere İhtiyacı Var",
+		["Description"] = "Göz suyu içmek için iyi bir sudur. Ne yazık ki yaratıkların çoğunda sadece iki göz var.$B$BAma örümceklerin çok gözü var. Pek çok. Ve Karanlıksis [Darkmist] göz suyu lezzetlidir. Pürüzsüz ve tuzlu! Patlamamış örümcek gözleri... Tadını şimdiden alabiliyorum.$B$BKaranlıksis örümcekleri buranın batısında, Karanlıksis Mağarası [Darkmist Cavern]'ndalar. Örümceklerin adını mağaradan mı aldığını düşünüyorsun... yoksa tam tersi mi?",
+		["Objectives"] = "Bataklıkışığı Malikanesi [Swamplight Manor]'ndaki \"Bataklık Gözü\" Jarl'a 40 Patlamamış Karanlıksis Gözü [Unpopped Darkmist Eye] getir.",
+		["Progress"] = "Nerede o gözler?",
+		["Completion"] = "Gözleri aldın! Gözleri aldın! Lezzetli, lezzetli örümcek gözleri!$B$BBazı gözler... onlara dik dik baktığında onlar da sana bakar. Onları en son ye. Sana arkadaşlık ederler... bataklıkta.$B$BMerhaba küçük örümcek gözleri. Merhaba! Tadınız tavuk gibi. Vıcık vıcık, tuzlu tavuk!$B$BMmmh.",
+		["minlevel"] = "30",
+		["questlevel"] = "35"
+	},
+	["1218"] = {
+		["Title"] = "Yatıştırıcı Baharatlar",
+		["Description"] = "Yemek pişirmeyi severim. İyi bataklık yemekleri. Kızarmış yeşil kurbağa bacağı ve benzeri.$B$BVe yemek pişirmek için baharata ihtiyacım var. Yatıştırıcı baharata. Sonra bir yahni yapıp fıkır fıkır kaynatacağım, hüpürdetip sana da biraz vereceğim.$B$BYahni sever misin?",
+		["Objectives"] = "Tozluçalı Bataklığı [Dustwallow Marsh]'ndaki \"Bataklık Gözü\" Jarl'a 3 Yatıştırıcı Baharat [Soothing Spice] getir.",
+		["Progress"] = "Baharat. Hepimizin hayatında biraz baharata ihtiyacı var. Katılıyor musun?",
+		["Completion"] = "Ah, işte baharat bu! İşte sana bataklık usulü nefis bir yahni.",
+		["minlevel"] = "30",
+		["questlevel"] = "35"
+	},
+	["1219"] = {
+		["Title"] = "Ork Raporu",
+		["Description"] = "Gevşek toprağı eşelerken bir orkun kopmuş eli bulunur. Ve elin içinde kemikten oyulmuş bir tüp sıkıştırılmıştır. Tüpün içinde ise çamura bulanmış bir parşömen vardır.$B$BParşömen Orkça yazılmıştır... ve önemli görünmektedir.",
+		["Objectives"] = "Casus Raporu [Spy's Report]'nu bir Theramore Teğmenine getir.",
+		["Progress"] = "Sunacağın bir rapor var mı?",
+		["Completion"] = "Hm... Orkça çok iyi okuyamam ama bu bir rapor gibi görünüyor... bir ork casusu tarafından yazılmış!",
+		["minlevel"] = "30",
+		["questlevel"] = "35"
+	},
+	["1220"] = {
+		["Title"] = "Kaptan Vimes",
+		["Description"] = "Kaptan Vimes bulduğun ork raporunu görmeli, $N. Ork dilini çoğundan daha iyi bilir. Ve Theramore yakınlarında Horde casusları olduğunu bilmeli!$B$BKaptan, Theramore Adası'nın kuzeydoğu tarafındaki kışladadır.",
+		["Objectives"] = "Casus Raporu [Spy's Report]'nu Kaptan Garran Vimes'a getir.",
+		["Progress"] = "Benim için bir şeyin mi var?",
+		["Completion"] = "Bir ork casusundan rapor mu! Bunu nasıl buldun? Önemi yok -- bakalım ne diyormuş...",
+		["minlevel"] = "30",
+		["questlevel"] = "35"
+	},
+	["1238"] = {
+		["Title"] = "Kayıp Rapor",
+		["Description"] = "Gevşek toprağı eşelerken bir orkun kopmuş eli bulunur. Ve elin içinde kemikten oyulmuş bir tüp sıkıştırılmıştır. Tüpün içinde ise çamura bulanmış bir parşömen vardır.$B$BParşömen, Theramore şehrini haftalarca gözetleyen bir ork tarafından hazırlanan bir rapordur.$B$BParşömen gözden geçirildikten sonra, Eğreltisipere Köyü [Brackenwall Village]'ndeki ork casus ustasına götürülmesi gerektiği açıkça anlaşılır.",
+		["Objectives"] = "Casus Raporu [Spy's Report]'nu Eğreltisipere Köyü [Brackenwall Village]'ndeki Nazeer Kanlımızrak [Nazeer Bloodpike]'a getir.",
+		["Progress"] = "Benim için bir şeyin mi var?",
+		["Completion"] = "İyi iş, $N. Ajanımız Marg Gecegözü [Marg Nighteye], Theramore dışına konuşlandırılmıştı. Şehri gözetlemekle görevlendirilmişti.$B$BBu onun son raporu ve sonuncusu olabilir -- ifadenden anladığım kadarıyla Marg'ın bataklıkta sonunun geldiğinden korkuyorum...",
+		["minlevel"] = "30",
+		["questlevel"] = "35"
+	},
+	["1239"] = {
+		["Title"] = "Kopuk Kafa",
+		["Description"] = "Hırslı bir kazı, boynundan pürüzlü bir şekilde koparılmış bir erkek ork kafasını ortaya çıkarır. Dudakları hırıltılı bir şekilde donup kalmış, koyu renk gözleri meydan okurcasına bakmaktadır.",
+		["Objectives"] = "Meydan Okuyan Ork Kafası [Defiant Orc Head]'nı Eğreltisipere Köyü [Brackenwall Village]'ndeki Nazeer Kanlımızrak [Nazeer Bloodpike]'a getir.",
+		["Progress"] = "Rapor edecek başka bir konun mu var, $N?",
+		["Completion"] = "Bu Marg Gecegözü [Marg Nighteye]'nün kafası! Korktuğum gibi, o ölmüş.",
+		["minlevel"] = "30",
+		["questlevel"] = "35"
+	},
+	["1240"] = {
+		["Title"] = "Troll Cadı Doktoru",
+		["Description"] = "Marg'ın ölümünü çevreleyen olayları bilmeliyiz! Ve bunu yapmanın tek yolu, $N, trollerin cadı büyüsünden geçer.$B$BMarg'ın kafasını Stranglethorn Vadisi [Stranglethorn Vale]'ndeki Grom'gol Üssü [Grom'gol Base Camp]'nde bulunan Kin'weelay'e götür.$B$BKin'weelay, Karamızrak [Darkspear] trollerinin en güçlü cadı doktorudur. Marg Gecegözü'nün ruhuyla konuşabilecek biri varsa, o da odur.",
+		["Objectives"] = "Meydan Okuyan Ork Kafası [Defiant Orc Head]'nı Stranglethorn Vadisi [Stranglethorn Vale]'ndeki Grom'gol Üssü [Grom'gol Base Camp]'nde bulunan Kin'weelay'e götür.",
+		["Progress"] = "Etrafında öfkeli bir ruh var, kardeş. Seni Kin'weelay'e getiren nedir?",
+		["Completion"] = "Ah, şimdi anlıyorum. Bu orkun ruhu dünyamıza bağlı kalmış, henüz tamamlanmamış bir görev yüzünden öfkeyle kaynıyor.$B$BPekala, bu öfkeli orkla birkaç laf edelim...",
+		["minlevel"] = "30",
+		["questlevel"] = "35"
+	},
+	["1251"] = {
+		["Title"] = "Siyah Kalkan",
+		["Description"] = "Handa çabuk büyüyen yangınla kararmış demir bir kalkan, bir zamanlar Kuytu İstirahat Hanı [Shady Rest Inn]'nı oluşturan yapının ayakta kalan birkaç parçasından biri olan ufalanan bacaya tutturulmuştur.$b$bKalkan bacanın tuğlasından sökülebilir.",
+		["Objectives"] = "Kararmış Demir Kalkan [Blackened Iron Shield]'ı Eğreltisipere Köyü [Brackenwall Village]'ndeki Krog'a getir.",
+		["Progress"] = "Elindeki nedir, $N? Kuytu İstirahat Hanı [Shady Rest Inn]'nın kalıntılarından bir kanıt mı?",
+		["Completion"] = "İnsanların garip dekorasyon zevkleri olduğunu kabul ediyorum, ama şöminelerini süslemek için sade bir demir kalkan kullanırlar mıydı? Belki de bu kalkan hanı yakanlar tarafından oraya konmuştur.$B$BBir uyarı mı? Bir tehdit mi?",
+		["minlevel"] = "30",
+		["questlevel"] = "35"
+	},
+	["1252"] = {
+		["Title"] = "Teğmen Paval Reethe",
+		["Description"] = "Yıkıntıların arasından yerdeki bir ışık parıltısı gözüne çarpıyor. Nesnenin üzerindeki enkazı ve kabuklaşmış külü temizlemek, yüzeyindeki beyaz mine üzerine işlenmiş altın çapa nişanını ortaya çıkarıyor: Theramore'un simgesi.$b$bÇapanın altında \"Teğmen Paval Reethe\" ismi kabartılmıştır.",
+		["Objectives"] = "Reethe'nin Nişanı [Reethe's Badge]'nı Theramore'daki Kaptan Garran Vimes'a getir.",
+		["Progress"] = "Kuytu İstirahat Hanı [Shady Rest Inn]'nda ilgi çekici bir şey buldun mu?",
+		["Completion"] = "Bana bir muhafız nişanı getirildiğinde bu asla iyi bir haber değildir.$B$BBazen savaşta düşmüş bir adam ya da kadındır ve ben kederli aileye acı haberi vermek zorunda kalırım. Diğer zamanlarda onlara ne olduğunu asla öğrenemeyiz. Ve diğer zamanlarda ise bundan bile daha kötüdür.",
+		["minlevel"] = "30",
+		["questlevel"] = "40"
+	},
+	["1253"] = {
+		["Title"] = "Siyah Kalkan",
+		["Description"] = "Handa çabuk büyüyen yangınla kararmış demir bir kalkan, bir zamanlar Kuytu İstirahat Hanı [Shady Rest Inn]'nı oluşturan yapının ayakta kalan birkaç parçasından biri olan ufalanan bacaya tutturulmuştur.$b$bKalkan bacanın tuğlasından sökülebilir.",
+		["Objectives"] = "Kararmış Demir Kalkan [Blackened Iron Shield]'ı Theramore'daki Kaptan Garran Vimes'a getir.",
+		["Progress"] = "Kuytu İstirahat Hanı [Shady Rest Inn] sahasından kanıt buldun mu?",
+		["Completion"] = "Hm, silah ve zırh yapımı konusunda uzman değilim. Kullanımlarında evet, ama yapımlarında değil.$B$BBu kalkan, hanı yutan yangından kaynaklanan hasar dışında diğer her kalkan kadar sıradan görünüyor.",
+		["minlevel"] = "30",
+		["questlevel"] = "35"
+	},
+	["1258"] = {
+		["Title"] = "... ve Böcekler",
+		["Description"] = "Yeni tarifimin bir diğer bileşeni de dev bir yengecin kabuksuz bacağıdır. Ve Tozluçalı [Dustwallow]'daki yengeçler -- Balçıkkabuk [Muckshell] diyorlar onlara -- iş görmez! Korkarım uygun tek yengeçler çok uzakta, Keder Bataklığı [Swamp of Sorrows]'nda yaşıyor.$B$BYengeç bacağının kabuğu yemeğin sunumunun anahtar bir öğesidir, bu yüzden el değmemiş, yarasız bacaklara ihtiyacım var. Yetişkin bir yengeçte bu tür bacaklardan yalnızca bir veya iki tane bulunabilir ve yemeğimi araştırmak için çok sayıda bacağa ihtiyacım var.$B$BPeki, $N... seyahat etmeye istekli misin?",
+		["Objectives"] = "Theramore'daki Morgan Stern'e 12 Bozulmamış Yengeç Bacağı [Pristine Crawler Leg] getir.",
+		["Progress"] = "Çamurkayası [Mudrock] dilleriyle ilgili araştırmam güzel ilerliyor. Yengeç avının iyi gittiğini umuyorum?",
+		["Completion"] = "Bunlar harika örnekler, $N! Kabuklar mükemmel durumda, eti de pembe ve taze. Bir şefin kanı var senin damarlarında, bundan eminim!",
+		["minlevel"] = "33",
+		["questlevel"] = "40"
+	},
+	["1259"] = {
+		["Title"] = "Teğmen Paval Reethe",
+		["Description"] = "Teğmen Paval Reethe adını hatırlamıyorum. En iyi seçeneğin Yaver Tesoran ile görüşmek olacaktır. Theramore muhafızlarının personelden teçhizatlarına kadar tüm kayıtlarını o tutar.$b$bDefterlerini hızlıca kontrol ederek sana bu Reethe'nin kim olduğunu söyleyebilmeli.",
+		["Objectives"] = "Theramore'daki Yaver Tesoran'dan Reethe hakkında daha fazla bilgi edin.",
+		["Progress"] = "",
+		["Completion"] = "Merhaba, $N. Theramore muhafızlarının belirli bir üyesi hakkında bilgi mi istiyordun? Reethe miydi?$B$BDoğru defteri bulmam için bana bir dakika izin ver.",
+		["minlevel"] = "30",
+		["questlevel"] = "40"
+	},
+	["1260"] = {
+		["Title"] = "Morgan Stern",
+		["Description"] = "Restoran için yeni bir menü geliştiriyorum. \"Bataklık\" temalı yöresel yemeklerle dolu olacak. Mavi Münzevi [Blue Recluse]'deki müşterilerimin bunlara bayılacağını düşünüyorum!$B$BYeğenim Morgan'ı Tozluçalı Bataklığı [Dustwallow Marsh]'nın kenarındaki Theramore şehrine gönderdim. Orada yerlilerden tarifler topluyor ve şimdiye kadar ne bulduğunu bilmeliyim.$B$BTheramore yolculuğu uzun. Benim için fazla uzun. Ama senin gibi genç bir $c seyahat etme fırsatına balıklama atlar, değil mi?",
+		["Objectives"] = "Theramore'daki Morgan Stern ile konuş.",
+		["Progress"] = "",
+		["Completion"] = "Oh, amcam seni gönderdi, değil mi?$B$BPekala, tarifleri araştırıyordum ve bazı ipuçlarım var ama yardıma ihtiyacım var.$B$BAyaklarını ıslatmaya istekli birinden yardım.",
+		["minlevel"] = "33",
+		["questlevel"] = "38"
+	},
+	["1261"] = {
+		["Title"] = "Marg Konuşuyor",
+		["Description"] = "Lanet balçıkkabuk! Marg'ı öldüremezsin! Ah, ama ben ölüyüm. Demek ki beni o katletmiş olmalı...$B$BAma görevim! Görevim! Sen, $N, onu tamamlamalısın.$B$BTheramore yakınlarındayken, sahilde kamp kurmuş bir grup İttifak [Alliance] askeri gördüm. Ve bir asker bir kolye takıyordu... hiçbir askerin gücünün yetmeyeceği kadar çok mücevherle dolu bir kolye!$B$BO gece kamplarına sızıp kolyeyi çaldım ama üsse dönerken bir balçıkkabuk yengeç-adam beni öldürdü!$B$B$N, o balçıkkabuğu bulmalı ve kolyeyi geri almalısın!",
+		["Objectives"] = "Mücevherli Kolye [Jeweled Pendant]'yi Eğreltisipere [Brackenwall]'deki Nazeer'e getir.",
+		["Progress"] = "$N, Marg'ın kaderini öğrendin mi?",
+		["Completion"] = "Bu kolye bir Fırtınayeli [Stormwind] askeri tarafından mı takılıyordu??$B$BTeşekkür ederim, $N. Marg'ın ölümünün sırrını ortaya çıkardın. Ancak bu kolye çözülmesi gereken yeni bir gizem, İttifak [Alliance] ve Horde üzerinde vahim etkileri olabilecek bir gizem.",
+		["minlevel"] = "30",
+		["questlevel"] = "40"
+	},
+	["1262"] = {
+		["Title"] = "Zor'a Rapor Ver",
+		["Description"] = "Marg'ın çaldığı kolyenin sıradan askerlerin elinde olması garip. Belki de sahibi kılık değiştirmişti ya da kolyeyi askerlerin kendisi çalmıştı!$B$BHangisi doğru olursa olsun, bu bir soylu kolyesi ve gizemini çözmek istiyorsak gerçek sahibini keşfetmeliyiz.$B$BKolyeyi Orgrimmar'daki Zor Yalnızağaç [Zor Lonetree]'a götür. İttifak [Alliance] politikasını iyi bilir ve bu kolyenin Fırtınayeli [Stormwind] soyluları arasında bir geçmişi olup olmadığını bilecektir.",
+		["Objectives"] = "Mücevherli Kolye [Jeweled Pendant]'yi Orgrimmar'daki Zor Yalnızağaç [Zor Lonetree]'a getir.",
+		["Progress"] = "Tozluçalı [Dustwallow]'daki Eğreltisipere Köyü [Brackenwall Village]'nden mi geldin? Nazeer nasıl ve bataklıktaki çabaları nasıl gidiyor?",
+		["Completion"] = "Bu kolye büyük bir beceri ve hassasiyetle işlenmiş, $N. Hiçbir ork böyle bir mücevhere gıpta etmez...$B$BAma pek çok insan eder.$B$BBu kolyeyi inceleteceğim. Zamanla gizemlerinin bize açılacağını umalım.",
+		["minlevel"] = "30",
+		["questlevel"] = "40"
+	},
+	["1268"] = {
+		["Title"] = "Şüpheli Toynak İzleri",
+		["Description"] = "Toynak izi sıraları, Kuytu İstirahat Hanı [Shady Rest Inn]'nın hâlâ tüten iskeletinden uzağa doğru uzanmaktadır. Bataklığın yumuşak çamurunda neredeyse algılanamayacak kadar silik olan diğer iz sıralarıyla birlikte en azından birkaç görünür iz vardır.",
+		["Objectives"] = "Kuytu İstirahat Hanı [Shady Rest Inn]'ndaki şüpheli izleri Eğreltisipere Köyü [Brackenwall Village]'ndeki Krog'a bildir.",
+		["Progress"] = "",
+		["Completion"] = "Toynak izleri... Kılkuyruklar [quilboar] olabilirdi sanırım. Ya da belki bir sentor. Çorak Topraklar [The Barrens]'daki varlıkları azımsanmayacak derecede ve böyle bir eyleme kalkışmalarını uzak bir ihtimal olarak görmem.",
+		["minlevel"] = "30",
+		["questlevel"] = "35"
+	},
+	["1269"] = {
+		["Title"] = "Teğmen Paval Reethe",
+		["Description"] = "Yıkıntıların arasından yerdeki bir ışık parıltısı gözüne çarpıyor. Nesnenin üzerindeki enkazı ve kabuklaşmış külü temizlemek, yüzeyindeki beyaz mine üzerine işlenmiş altın çapa nişanını ortaya çıkarıyor: Theramore'un simgesi.$b$bÇapanın altında \"Teğmen Paval Reethe\" ismi kabartılmıştır.",
+		["Objectives"] = "Reethe'nin Nişanı [Reethe's Badge]'nı Eğreltisipere Köyü [Brackenwall Village]'ndeki Krog'a getir.",
+		["Progress"] = "Kuytu İstirahat Hanı [Shady Rest Inn]'nda ne olduğuna dair bir ipucu buldun mu?",
+		["Completion"] = "Bu insanı tanıyorum, Paval Reethe. Kendi türü için bile zavallı. Silah arkadaşlarını terk etti ve şimdi ormanda saklanıyor.$B$BOgron'u onu izlemesi için gönderdim. Diğerlerinden bazıları malzemelerimizden çaldığından şüpheleniyor. Ogron'un güneydoğuya doğru gittiğini gördüm sanırım.",
+		["minlevel"] = "30",
+		["questlevel"] = "37"
+	},
+	["1270"] = {
+		["Title"] = "Stinky'nin Kaçışı",
+		["Description"] = "Harika, nihayet beni yemek istemeyen bir şey!!$B$BBuralardaki yaratıklarla başa çıkmak için yardıma ihtiyacım var ve sen bu işe uygunsun, $gdostum:hanımefendi;.$B$BCırcırÇarkı [Ratchet]'ndan Mebok Mizzyrix adında bir goblin bir iksir için mi nedir biraz bataklık fasulyesi yaprağına ihtiyaç duyuyor... Açıkçası nedenini umursamıyorum -- parası iyiydi ve bu bataklığı biliyorum, işte buradayım.$B$BBataklık fasulyesini bulamadan etrafımın sarılması ne kötü! Buradan çıkmama yardım edebilir misin ve Mebok'un bitkisini ararken arkamı kollayabilir misin?",
+		["Objectives"] = "\"Stinky\" Ignatz'e eşlik et, ardından CırcırÇarkı [Ratchet]'ndaki Mebok Mizzyrix ile konuş.",
+		["Progress"] = "",
+		["Completion"] = "Stinky istediğim otlarla buradaydı ve ona zor bir durumdan çıkması için yardım ettiğini söyledi. İyi iş! Stinky'nin bir dostu benim de dostumdur!$B$BGüneye, bataklığa doğru yürümeden hemen önce, seni görürsem bunu sana vermemi istedi.",
+		["minlevel"] = "30",
+		["questlevel"] = "37"
+	},
+	["1271"] = {
+		["Title"] = "Mavi Münzevi'de Ziyafet",
+		["Description"] = "",
+		["Objectives"] = "",
+		["Progress"] = "",
+		["Completion"] = "Yeğenim Tozluçalı [Dustwallow]'daki araştırmasında ona yardım ettiğini ve ortağını sıkıntılı bir durumdan kurtardığını söyledi. Şey, biz Stern'ler birbirimize tutunuruz ve dostlarımızı görmezden gelmeyiz!$B$BBu yüzden ellerini yıka, $N, çünkü senin onuruna bir parti vermek üzereyiz!",
+		["minlevel"] = "30",
+		["questlevel"] = "37"
+	},
+	["1273"] = {
+		["Title"] = "Reethe'yi Sorgulamak",
+		["Description"] = "Uzun zaman aldı ama Reethe'yi buldum. Bir insan için iyi saklanıyor.$b$bOgron bataklıkta bu kadar uzun süre kaldıktan sonra çıldırmış olabileceğinden endişeleniyor. Sen benimle gel, ondan cevapları alalım.",
+		["Objectives"] = "Reethe ile konuşmak için Ogron ile git, ardından Eğreltisipere Köyü [Brackenwall Village]'ndeki Krog'a dön.",
+		["Progress"] = "Reethe'yi buldun mu?",
+		["Completion"] = "Hmph. Reethe'nin artık bataklıkta dolanmayacak olması iyi ama insanların küçük bir ok yarasından iyileşemeyecek kadar narin yapıda olmaları ne yazık.$B$BGörünüşe göre gizemin bu izi hiçbir yere varmadı ve başka bir yere bakmalıyız.",
+		["minlevel"] = "30",
+		["questlevel"] = "37"
+	},
+	["1276"] = {
+		["Title"] = "Siyah Kalkan",
+		["Description"] = "Ah, şimdi hatırladım! Mosarn, Gürleyenyarma [Thunder Bluff]'da saygı duyulan bir demircidir. Adını daha önce bir yerlerde duyduğumu biliyordum.$b$bTeşekkür olarak Toprak Halkı [Earthen Ring] bana Mosarn tarafından işlenmiş bir zırh seti hediye etmişti. Çok iyi işçilik.$b$bBelki işlediği kalkan hakkında sana daha fazla bilgi verebilir.$b$bPek sayılmaz ama Reethe'den yararlı bir şey elde edemediğimiz için elimizdeki tek şey bu.",
+		["Objectives"] = "Kararmış Demir Kalkan [Blackened Iron Shield]'ı Gürleyenyarma [Thunder Bluff]'daki Mosarn'a göster.",
+		["Progress"] = "Merhaba, $C. Yardım edebileceğim bir şey var mı?",
+		["Completion"] = "Evet, kesinlikle haklısın. Bu benim yaptığım bir kalkan.$B$BAma korkarım sana söyleyebileceğim daha fazla bir şey yok, $N. O kadar çok farklı kalkan ve zırh seti yapıyorum ki, hepsinin takibini tutamıyorum.",
+		["minlevel"] = "30",
+		["questlevel"] = "37"
+	},
+	["1282"] = {
+		["Title"] = "Ona Gülen Jim Derler",
+		["Description"] = "Şu ihtiyar Jim için üzülmeden edemiyorum. Her zaman öyle değildi. Bir süre bataklıkta bir han işletti, harika bir yerdi.$b$bBak, gerçekten bu konu hakkında konuşmak istemiyorum. Çok mecbur kalırsan konuyu Kaptan Vimes'a aç.",
+		["Objectives"] = "Theramore'daki Kaptan Garran Vimes ile konuş.",
+		["Progress"] = "",
+		["Completion"] = "Gerçek adı James Hyal. Çorak Topraklar [The Barrens]'ın kenarında bir han açtı. Gezginlerin uğraması için güzel bir yer yapmak istiyordu...$B$BBelki çok büyük düşünüyordu ama han bir süre iyi gitti. Sonra bataklıktaki yolların kontrolünü kaybettik ve ogreler ele geçirdi.$B$BJames, surlarımızın içindeki güvenlik uğruna hayalinden vazgeçemeyecek kadar inatçıydı ve Kuytu İstirahat Hanı [Shady Rest Inn] yerle bir edildi. Araştırıyoruz ama pek şansımız yaver gitmedi. Yardım etmek istiyorsan, enkazda ne bulabileceğine bir bak.",
+		["minlevel"] = "30",
+		["questlevel"] = "35"
+	},
+	["1284"] = {
+		["Title"] = "Şüpheli Toynak İzleri",
+		["Description"] = "Toynak izi sıraları, Kuytu İstirahat Hanı [Shady Rest Inn]'nın hâlâ tüten iskeletinden uzağa doğru uzanmaktadır. Bataklığın yumuşak çamurunda neredeyse algılanamayacak kadar silik olan diğer iz sıralarıyla birlikte en azından birkaç görünür iz vardır.",
+		["Objectives"] = "Kuytu İstirahat Hanı [Shady Rest Inn]'ndaki şüpheli izleri Theramore'daki Kaptan Garran Vimes'a bildir.",
+		["Progress"] = "",
+		["Completion"] = "Toynak izleri, ha? Tozluçalı Bataklığı [Dustwallow Marsh] yakınlarındaki topraklarda olağanüstü miktarda sentor hareketliliği olduğu doğru. Çorak Topraklar [The Barrens]'a yapılan kısa seferlerde, kamplarının ve mülklerinin alanı parsellediğini gördük.",
+		["minlevel"] = "30",
+		["questlevel"] = "35"
+	},
+	["1285"] = {
+		["Title"] = "Daelin'in Adamları",
+		["Description"] = "Reddon... Redpath... Ah, işte burada! Teğmen Paval Reethe.$b$bLeydi Proudmoore ile denizden gelen acemi erlerin çoğuyla birlikte Theramore muhafızlarına katıldı. On altı yaşında Kul Tiras deniz piyadelerine yazıldı. Seçkin hizmetler, terfiler...$b$bKayıp olarak listelenmiş.",
+		["Objectives"] = "Reethe hakkındaki bilgileri Theramore'daki Kaptan Garran Vimes'a geri götür.",
+		["Progress"] = "",
+		["Completion"] = "Kayıp mı? Bu Tesoran'ın hain demesinin kibar yolu olurdu.$B$BAmiral Daelin'e o kadar körü körüne bağlı olan ve hainlik eden o aptallardan biri olduğuna şüphe yok. Ne kadar leziz bir ironi, değil mi? Firariler bizi İttifak [Alliance]'a ihanet etmekle suçluyor.",
+		["minlevel"] = "30",
+		["questlevel"] = "38"
+	},
+	["1286"] = {
+		["Title"] = "Firariler",
+		["Description"] = "Bataklıkta bir varlık sürdürmek bir mücadele oldu ama kararlılığımızın gücüyle bölge boyunca birkaç savunma gözetleme kulesini korumayı başardık.$b$bAldığım en son bilgiler ve keşif raporları, bir grup firarinin hanın güneydoğusundaki Kayıp Nokta [Lost Point]'da bulunan terk edilmiş kulemize çöktüğünü gösteriyor.$b$BFirarilerin lideri Balos Jacken adında bir adam. Ondan biraz bilgi alıp alamayacağına bak.$b$BDikkatli ol, $n. Kırılması zor bir ceviz olabilir.",
+		["Objectives"] = "Tozluçalı Bataklığı [Dustwallow Marsh]'ndaki Balos Jacken ve firarilerden Reethe hakkında bilgi al.",
+		["Progress"] = "",
+		["Completion"] = "Seni Vimes mı gönderdi? Kirli işini kendisi yapamadı, değil mi...",
+		["minlevel"] = "30",
+		["questlevel"] = "38"
+	},
+	["1287"] = {
+		["Title"] = "Firariler",
+		["Description"] = "Reethe mi? O korkak mı?$b$bOnu kamptan attık çünkü Eğreltisipere Köyü [Brackenwall Village]'ndeki ogrelerin malzemelerine baskın yapmakta ısrar ediyordu. O akılsız mahluklara karşı koyabilecek kadar kalabalık değiliz.$b$bSınırı birkaç kez fazla ihlal etti, biz de onu başının çaresine bakması için bıraktık.$b$BŞimdi, ben sana yardım ettim... Öyleyse, sen de bize yardım et ve bize rastladığını unut, ne dersin?",
+		["Objectives"] = "Reethe hakkında Theramore'daki Kaptan Garran Vimes ile konuş.",
+		["Progress"] = "",
+		["Completion"] = "Kayıp Nokta [Lost Point]'daki firarilerle ilgilenmesi için Teğmen Caldwell'i göndereceğim. Ayrıca, ona Reethe'yi bulmasını talimat vereceğim. Bataklık, onu bulamayacağı kadar büyük ve izi sürülemeyecek bir yer değil.",
+		["minlevel"] = "30",
+		["questlevel"] = "38"
+	},
+	["1318"] = {
+		["Title"] = "Bitmemiş Gordok İşi",
+		["Description"] = "Şimdi sen kral oldun, belki de değerli Gordok eşyasını kendine Prens diyen o ürpertici elften geri alırsın! Senden önceki kral başaramadı, tıpkı Tortheldrin'in - o ürpertici elfin - onu eski zaman Gordok kralından çaldığından beri diğer tüm kralların başarısız olduğu gibi!$B$BEşyanın adı Gordok Gücünün Eldiveni [Gauntlet of Gordok Might]. Eski zaman efsaneleri sadece tek gerçek Gordok kralının onu geri alabileceğini söyler. Eski zaman efsanesi ayrıca ürpertici elfin hâlâ buralarda olduğunu söyler - onu bulursan sonsuza kadar giyeceğin güçlü bir eldiven olacak! Yar, sana göstereceğim!",
+		["Objectives"] = "Gordok Gücünün Eldiveni [Gauntlet of Gordok Might]'ni bul ve Dire Maul [Baltalık]'daki Kaptan Kromcrush'a geri getir.$B$BKromcrush'a göre \"eski zaman efsanesi\", kendisine prens diyen \"ürpertici\" bir elf olan Tortheldrin'in onu Gordok krallarından birinden çaldığını söylüyor.",
+		["Progress"] = "",
+		["Completion"] = "",
+		["minlevel"] = "60",
+		["questlevel"] = "60"
+	},
+	["1319"] = {
+		["Title"] = "Siyah Kalkan",
+		["Description"] = "Çok fazla yardımcı olamadığım için üzgünüm, $n, ama seni yardımcı olabilecek birine yönlendirebilirim. En iyi demircilerimizden biri olan Caz Çiftsaer [Caz Twosprocket], demirci dükkanındaki ocakta çalışıyor.$b$bKalkanı ona götür ve sana ne söyleyebileceğine bak.",
+		["Objectives"] = "Kararmış Demir Kalkan [Blackened Iron Shield]'ı Theramore'daki Caz Çiftsaer [Caz Twosprocket]'e göster.",
+		["Progress"] = "Bakmam için bir şey mi var?",
+		["Completion"] = "Hm... elinde ilginç bir demir parçası var. Denizlerin bu tarafında tanıdığım demircilerin hiçbiri tarafından yapılmadığı kesin ve kesinlikle benim işim değil.",
+		["minlevel"] = "30",
+		["questlevel"] = "35"
+	},
+	["1320"] = {
+		["Title"] = "Siyah Kalkan",
+		["Description"] = "Ah, bunu neredeyse kaçırıyordum... Arkadaki deri kayış yanmış olmalı ama büyük bir kişiye uyacak şekilde yapılmış gibi görünüyor. Aslında bir tauren diye tahmin ediyorum.$b$bSana söyleyebileceklerimin hepsi bu kadar. Kaptan Vimes'a daha fazla yardımcı olamadığım için üzgün olduğumu söyle.",
+		["Objectives"] = "Theramore'daki Kaptan Garran Vimes ile konuş.",
+		["Progress"] = "",
+		["Completion"] = "Üzerinde çalışılacak çok fazla bilgi değil ama bunu aklımızda tutmamız gerekecek. Umarım bu gizemin diğer parçaları da yerine oturur ve ne olduğuna dair daha faydalı bir tablo çizer.",
+		["minlevel"] = "30",
+		["questlevel"] = "35"
+	},
+	["1321"] = {
+		["Title"] = "Siyah Kalkan",
+		["Description"] = "Hmm... Bu kalkanda olağan dışı bir şey görmüyorum. Demirci Do'gol'un bir bakmasını sağlamalı ve bize bu konuda daha fazla şey söyleyip söyleyemeyeceğini görmeliyiz ama ümitlenmezdim...",
+		["Objectives"] = "Kararmış Demir Kalkan [Blackened Iron Shield]'ı Eğreltisipere Köyü [Brackenwall Village]'ndeki Do'gol'a göster.",
+		["Progress"] = "Benim için bir şey mi var, $C?",
+		["Completion"] = "Bu iyi bir kalkan. Çok güçlü, ağır, iyi. Ama Do'gol'un buna ihtiyacı yok. Ben kalkan yaparım, satın almam, $N.$B$BBunu bilmelisin.",
+		["minlevel"] = "30",
+		["questlevel"] = "35"
+	},
+	["1322"] = {
+		["Title"] = "Siyah Kalkan",
+		["Description"] = "Hmm, kalkanın kenarında tam burada bir yazı var ama yanmış şeylerden dolayı okumak zor.$b$bNetleştirmek için aside ihtiyacım var. Bataklıktaki Karadiş [Darkfang] örümceklerinin zehri iyi iş görür. Bana keselerinden biraz getir, ben de bunu temizleyeyim.",
+		["Objectives"] = "Eğreltisipere Köyü [Brackenwall Village]'ndeki Do'gol için 6 Asitli Zehir Kesesi [Acidic Venom Sac] elde et.",
+		["Progress"] = "Örümceklerden keseleri aldın mı?",
+		["Completion"] = "Üzerlerine oturup ezemeyeceğim kadar büyük olan örümcekleri sevmem.$B$BBunları aldığın için teşekkürler, $N. Şimdi onları yırtıp açacağım ve kalkanın üzerine dökeceğim...",
+		["minlevel"] = "30",
+		["questlevel"] = "37"
+	},
+	["1323"] = {
+		["Title"] = "Siyah Kalkan",
+		["Description"] = "Oh, sanırım kalkanın üzerine biraz fazla asit damlattım. Biraz ovayım...$b$bHm, okuması biraz zor ama Mosarn ismi gibi görünüyor. Onu hiç duymadım. Belki Krog biliyordur. Krog çok insan tanır.",
+		["Objectives"] = "Eğreltisipere Köyü [Brackenwall Village]'ndeki Krog ile konuş.",
+		["Progress"] = "",
+		["Completion"] = "Mosarn mı? Tanıdık geliyor... Tam çıkaramıyorum. Belki daha sonra aklıma gelir.$B$BMuhtemelen önemli değildir. Bir kalkan her yerden gelebilir ve hiçbir anlam taşımayabilir...",
+		["minlevel"] = "30",
+		["questlevel"] = "37"
+	},
+	["1361"] = {
+		["Title"] = "Regthar Ölümkapısı",
+		["Description"] = "Horde'un bir savaşçısı olan Regthar Ölümkapısı [Regthar Deathgate], Desolace topraklarına yapılacak bir görev için temsilciler topluyor. Gönüllü olmak istiyorsan onunla konuş. Çorak Topraklar [The Barrens]'da, Yolayrımı [Crossroads]'nın batısındaki sığınaklar dizisinde konuşlanmıştır.$B$BVe silahlarını bile. Desolace savaşla parçalanmış bir yerdir.",
+		["Objectives"] = "Regthar Ölümkapısı [Regthar Deathgate] ile konuş.",
+		["Progress"] = "Görevinin tamamlanmadığını görüyorum, $N. Beceriksizliğini Sharlindra'ya bildireyim mi?",
+		["Completion"] = "Evet, adam topluyorum. Bu görev Desolace'a, oradaki sentorlara karşı giden bir görev. Hızlıca başlayabilmen için kısa keseceğim.",
+		["minlevel"] = "30",
+		["questlevel"] = "32"
+	},
+	["1362"] = {
+		["Title"] = "Desolace'ın Kolkar'ları",
+		["Description"] = "Kolkar sentorları Desolace'da yaşıyor ve kuvvetleri Çorak Topraklar [The Barrens]'a yayıldı. Bu bilinen bir gerçek ve burada onlarla ilgilenen Horde ajanlarımız var.$B$BAncak sentorlar Desolace'da güçlü olduğu sürece her zaman bir tehdit oluşturacaklar. O tehditten kurtulma vaktimiz geldi.$B$BDesolace'daki Hayaletgezen Karakolu [Ghost Walker Post]'nda Felgur Çiftkesik [Felgur Twocuts] ile konuş. Sentorlar hakkında istihbarat toplamak için gönderilmişti. Desolace Kolkar'ları ile en iyi nasıl başa çıkılacağını o bilecektir.",
+		["Objectives"] = "Desolace'daki Hayaletgezen Karakolu [Ghost Walker Post]'nda Felgur Çiftkesik [Felgur Twocuts] ile konuş.",
+		["Progress"] = "",
+		["Completion"] = "Regthar'ın emirleriyle mi buradasın? O halde sentorlarla ilgilenmek için buradasın. Güzel.$B$BUmarım dinlenmişsindir. Sentorlara karşı mücadelemizin nasıl biteceğini bilmiyorum ama mücadelenin uzun süreceğini biliyorum.$B$BOtur ve dinle.",
+		["minlevel"] = "30",
+		["questlevel"] = "32"
+	},
+	["1365"] = {
+		["Title"] = "Han Dez'hepah",
+		["Description"] = "Desolace'ın tek sentorları Kolkar'lar değil. Pek çok klan bu kuru ovalarda dolaşır, birbirleriyle savaşır ve ölür. Ve kendi aralarında savaşmaları iyidir, çünkü güçlü ve acımasızdırlar. Sentorlar bize karşı birleşseydi, çetin bir düşman olurlardı.$B$BOnlar birleşmeden önce gereğini yapmalıyız.$B$Bİlk görevin Kolkar klanını düzenini bozmaktır. Bunu liderleri Han Dez'hepah'ı öldürerek yap.$B$BKolkar Köyü buranın kuzeydoğusundadır. Git, talih seninle olsun.",
+		["Objectives"] = "Han Dez'hepah'ın Kafası [Khan Dez'hepah's Head]'nı Desolace'daki Felgur Çiftkesik [Felgur Twocuts]'e getir.",
+		["Progress"] = "$N, Han Dez'hepah'ı yendin mi?",
+		["Completion"] = "Aferin. Kolkar'a karşı yapılan bu hızlı eylem etkili bir güç gösterisidir ve sentorların en iyi anladığı şey güçtür.$B$BKolkar liderinin ölümü sadece o klanın düzenini bozmakla kalmayacak, diğerlerini de duraksatacaktır.",
+		["minlevel"] = "30",
+		["questlevel"] = "35"
+	},
+	["1366"] = {
+		["Title"] = "Sentor Ödülü",
+		["Description"] = "Sentor klanlarını korkuttuğuna göre, şimdi onları kanatma zamanı. Desolace'da seyahat ederken sentor avla. Hangi klanı avladığın umurumda değil. Sadece kulak topla. Bir yığın kulak.$B$BSayılarını zayıflatarak kararlılıklarını zayıflatacak ve her türlü yayılma düşüncesini yok edeceksin.$B$Bİyi avlar, $N.",
+		["Objectives"] = "Desolace'daki Felgur Çiftkesik [Felgur Twocuts]'e 15 Sentor Kulağı [Centaur Ear] getir.",
+		["Progress"] = "Kulak koleksiyonun nasıl, $N? Büyük mü?",
+		["Completion"] = "Şimdiye kadar sentorlar adını öğrenmiş olmalı. Bildiklerine, ona saygı duyduklarına ve ondan korktuklarına eminim. Ve seni bildikleri gibi, altında at sürdüğün sancağı da biliyorlar.$B$BHorde'un sancağını.",
+		["minlevel"] = "30",
+		["questlevel"] = "31"
+	},
+	["1367"] = {
+		["Title"] = "Magram İttifakı",
+		["Description"] = "Sentorları yenmek için nefretlerini onlara karşı kullanmalıyız. Klanlardan biriyle müttefik olacağız ve onlar aracılığıyla tüm klanları nasıl yeneceğimizi öğreneceğiz.$B$BMagram ile müttefik olmayı seçersen, düşmanları Gelkis'leri katlet. Bu sana Magram arasında saygı kazandıracaktır. Yeterince kazandığında, güneydoğu Desolace'daki Magram Köyü'nün dış mahallelerinde bulunan Magram sözcüsü Warug ile buluş.",
+		["Objectives"] = "Magram ile Dostça [Friendly] itibar kazan, ardından Warug ile konuş.",
+		["Progress"] = "Git buradan! Magram zayıflarla konuşmaz. Onları öldürürüz!$B$BBenimle konuşmak istiyorsan güçlü olduğunu göster. Pek çok Gelkis katlettikten sonra geri dön.",
+		["Completion"] = "Gelkis'ler adını duyduklarında ağlıyorlar, $N. Senden korkuyorlar ve senden nefret ediyorlar. Magram'dan nefret ettikleri gibi senden nefret ediyorlar!$B$BBelki sen de Magram gibi güçlüsün. Göreceğiz...",
+		["minlevel"] = "30",
+		["questlevel"] = "33"
+	},
+	["1368"] = {
+		["Title"] = "Gelkis İttifakı",
+		["Description"] = "Sentorları yenmek için nefretlerini onlara karşı kullanmalıyız. Klanlardan biriyle müttefik olacağız ve onlar aracılığıyla tüm klanları nasıl yeneceğimizi öğreneceğiz.$B$BGelkis ile müttefik olmayı seçersen, en nefret ettikleri rakipleri Magram'ı katlet. Gelkis'in saygısını kazandıktan sonra, güneybatı Desolace'daki Gelkis Köyü'nün dış mahallelerinde bulunan Gelkis şamanı Bilge Uthek [Uthek the Wise] ile buluş.",
+		["Objectives"] = "Gelkis ile Dostça [Friendly] itibar kazan, ardından Bilge Uthek [Uthek the Wise] ile konuş.",
+		["Progress"] = "İki ayağın Gelkis toprağına basıyor. Burada hoş karşılanmıyorsun!$B$BGelkis ile dostluk aradığını kanıtla. Magram sentorlarını öldür. Yer Magram kanıyla ıslandığında geri dön.",
+		["Completion"] = "Toprak benimle konuşuyor. Ve birçok Magram öldürdüğünü söylüyor. Bu iyi.$B$BGelkis'in dostuysan, dinle. Senin için daha çok görevim var.",
+		["minlevel"] = "30",
+		["questlevel"] = "33"
+	},
+	["1369"] = {
+		["Title"] = "Kırık Gözyaşları",
+		["Description"] = "Gelkis'ler sentor anamız Theradras'ın bizi koruduğunu sanıyor. Aptallar. Sentorları kimse korumaz. Magram'ın korunmaya ihtiyacı yok! Biz en güçlüyüz!$B$BGelkis'lere aptal olduklarını göster. Köylerindeki mağaraya git. O mağarada kristalleri, Theradras'ın gözyaşlarını biriktiriyorlar. Gözyaşlarını yok et ve kırık parçaları bana getir!",
+		["Objectives"] = "Magram ile itibarını koru ve Magram Köyü'ndeki Warug'a 3 Kırık Gözyaşı [Broken Tear] getir.",
+		["Progress"] = "Düşmanımız değilsen, istediğimi yapacaksın!",
+		["Completion"] = "Gözyaşlarını aldın! Şimdi Gelkis'ler Theradras'ın onlara yardım etmeyeceğini anlayacak. Onları ezdiğimizde ağlamayacak! Magram hükmedecek!$B$BBize yardım etmekle akıllılık ediyorsun, $N. Biz en güçlüyüz.",
+		["minlevel"] = "30",
+		["questlevel"] = "33"
+	},
+	["1370"] = {
+		["Title"] = "Erzak Çalmak",
+		["Description"] = "Savaşta olmadığımız zamanlarda et için avlanırız. Et bize güç verir ve tok karınlar boş olanlardan daha sert savaşır.$B$BMagram için de durum aynıdır. Avlar arasında daha uzun süre savaşabilmek için fazladan et depolarlar. Doğudaki köylerine baskın yapıp et depolarını alırsan, güçleri tükenecektir.",
+		["Objectives"] = "Gelkis Köyü'ndeki Bilge Uthek [Uthek the Wise]'e 6 torba Kabaca Kurutulmuş Et [Crudely Dried Meat] getir.",
+		["Progress"] = "Gelkis'e değerini daha da kanıtladıktan sonra geri dön!",
+		["Completion"] = "Güzel. Magram'ların gürültülü karınlarının gurultusunu uzaktaki köylerinden duyabiliyorum!$B$BBu eti Gelkis'lere vereceğim. Ve dinlenmeden günlerce savaşacağız.$B$BYaptığın şey Gelkis için iyi, $N.",
+		["minlevel"] = "30",
+		["questlevel"] = "35"
+	},
+	["1371"] = {
+		["Title"] = "Warug İçin Alet",
+		["Description"] = "Uzun zaman önce Desolace'a küçük bir cüce [gnome] geldi. Atları ve bir arabası vardı ve arabada garip şeyler vardı. Komik şeyler. Farklı renklerde yanan şeyler. Hareket eden ve canlı olmayan şeyler. Küçük cüceyi öldürdüm ama ondan önce... beni güldürdü.$B$BArabasından en sevdiğim şeyi sakladım. Ahşaptan yapılmış bir insandı ve ben vurup kırana kadar bana el sallıyordu.$B$BYenisini istiyorum. Bana yenisini getir!",
+		["Objectives"] = "Magram ile itibarını koru ve Desolace'daki Magram Köyü'nde bulunan Warug'a bir Gelişmiş Hedef Kuklası [Advanced Target Dummy] getir.",
+		["Progress"] = "Düşmanımız değilsen, istediğimi yapacaksın!",
+		["Completion"] = "Evet, bende olan şey buydu! Onu tekrar hareket ettireceğim. Beni güldürüyor!",
+		["minlevel"] = "30",
+		["questlevel"] = "35"
+	},
+	["1373"] = {
+		["Title"] = "Ongeku",
+		["Description"] = "Kanıtlayacak daha çok şeyin var ve bir sonraki görevin seni uzaklara götürecek, bu yüzden şimdilik Gelkis'ler Magram'la sensiz savaşacak.$B$BToprak dinleyenlere pek çok sır fısıldar. Duyduğum bir sır kırmızı bir kristalle ilgili. Adı draenethyst ve toprağımız için yeni. Dağların uçtuğu ve iblislerin hüküm sürdüğü bir yerden geliyor.$B$BBana bir draenethyst parçası getir, büyümü güçlendirsin! Parça, Keder Bataklığı [Swamp of Sorrows] adında bir yerde, kayıp olan Ongeku'nun elinde.",
+		["Objectives"] = "Gelkis ile itibarını koru ve Desolace'taki Gelkis Köyü'nde bulunan Bilge Uthek [Uthek the Wise]'e bir Draenethyst Parçası [Draenethyst Shard] getir.",
+		["Progress"] = "Gelkis'in dostu olduğunu göster bana, $N.",
+		["Completion"] = "Evet, toprağın fısıldadığı parça bu. İçindeki güçlü büyüyü hissedebiliyorum! Bu büyüyü Gelkis'in düşmanlarına karşı kullanacağım.$B$BBizim için bir görev daha yaptın, $N. Belki yakında sana dost deriz.",
+		["minlevel"] = "30",
+		["questlevel"] = "37"
+	},
+	["1374"] = {
+		["Title"] = "Han Jehn",
+		["Description"] = "Toprak benimle konuşuyor ve Magram'ların zayıfladığını söylüyor. Şimdi onların Han'ını öldürme vakti!$B$BBana Magram Han'ı Jehn'in kafasını getir!",
+		["Objectives"] = "Desolace'daki Gelkis Köyü'nde bulunan Bilge Uthek [Uthek the Wise]'e Han Jehn'in Kafası [Khan Jehn's Head]'nı getir.",
+		["Progress"] = "Gelkis'in dostu olduğunu göster bana, $N.",
+		["Completion"] = "Han Jehn güçlüydü ama aptaldı. Kendi gücünün büyük olduğunu sanıyordu. Toprak büyüsünün daha güçlü olduğunu görmedi. Magram sentorları artık liderleri olmadan düşecek ve Gelkis'ler bir gün hükmedecek!",
+		["minlevel"] = "30",
+		["questlevel"] = "37"
+	},
+	["1375"] = {
+		["Title"] = "Han Shaka",
+		["Description"] = "Magram'a yardım ediyorsun ve seni seviyorum. Şimdi Gelkis'in Han'ını öldür! O Han Shaka ve kafasını istiyorum! Kafasına dik dik bakmak ve ona gülmek istiyorum!",
+		["Objectives"] = "Magram ile itibarını koru ve Desolace'taki Magram Köyü'nde bulunan Warug'a Han Shaka'nın Kafası [Head of Khan Shaka]'nı getir.",
+		["Progress"] = "Magram için görevler yap, ben de sana yardım edeyim.",
+		["Completion"] = "Han Shaka öldü! Kafasını bir mızrağa geçireceğim ve yanımda tutacağım, böylece Shaka Magram'ın gücünü görebilecek!",
+		["minlevel"] = "30",
+		["questlevel"] = "37"
+	},
+	["1380"] = {
+		["Title"] = "Han Hratha",
+		["Description"] = "$N, Magram'a karşı bize yardım ettin. Şimdi Maraudine'i yenmemize yardım et! Klanlarının lideri Han Hratha'yı öldür!$B$BOnunla yüzleşmek için Maraudine Savaş Borusu'nu [Maraudine War Horn] çal. Mızraklar Vadisi [Valley of Spears]'ndeki yüksek bir kayalığın tepesindedir.$B$BAcak boruyu çalmak için bir savaş borusu ağızlığı elde etmelisin. Bunlar nadirdir, sadece güvenilir Maraudine sentorları tarafından taşınır.$B$BBoru çalındıktan sonra sentorlar gelecek. Hratha görünene kadar onları öldür.$B$BHan Hratha bir... anahtarın parçasını tutuyor. Onu bana getir...",
+		["Objectives"] = "Gelkis ile itibarını koru ve Maraudine Anahtar Parçası [Maraudine Key Fragment]'nı Gelkis Köyü'ndeki Bilge Uthek [Uthek the Wise]'e getir.",
+		["Progress"] = "Han Hratha öldü mü? Anahtar parçası sende mi?",
+		["Completion"] = "O öldü! Han Hratha öldü! Ve şimdi Maraudine düşecek! Bu topraklara Gelkis hükmettiğinde, $N, seni hatırlayacağız. Ve toprağın ruhları adını sonsuza dek söyleyecek.",
+		["minlevel"] = "30",
+		["questlevel"] = "42"
+	},
+	["1381"] = {
+		["Title"] = "Han Hratha",
+		["Description"] = "Gelkis Han'ı öldü ve şimdi Maraudine düşecek! Maraudine Han'ı Hratha'yı öldür!$B$BOnunla yüzleşmek için Mızraklar Vadisi [Valley of Spears]'ndeki yüksek kayalıktaki boruyu çal. Ama boruyu çalmak için bir ağızlığa ihtiyacın var. Ağızlık almak için Maraudine sentorlarını öldür. Bir ağızlık bulana kadar öldürmeye devam et. Sonra boruyu çal.$B$BBunu yaparsan Maraudine sentorları kuleye gelecek. Han Hratha görünene kadar onları öldür. Hratha bir anahtarın parçasını tutuyor. Bu parçayı bana ver...",
+		["Objectives"] = "Magram itibarını koru ve Maraudine Anahtar Parçası [Maraudine Key Fragment]'nı Desolace'taki Magram Köyü'nde bulunan Warug'a getir.",
+		["Progress"] = "İstediğimi yap. Magram'ın müttefiki olduğunu bana kanıtla!",
+		["Completion"] = "Han Hratha öldü! Şimdi Magram sentorların en güçlüsü! Diğerlerini ezip Desolace'a hükmedeceğiz!$B$BSeni hatırlayacağız, $N, ve diğer herkes çiğnenirken sen toynaklarımızdan bağışlanacaksın.",
+		["minlevel"] = "30",
+		["questlevel"] = "42"
+	},
+	["1382"] = {
+		["Title"] = "Garip İttifak",
+		["Description"] = "Sentor klanlarının kendi aralarında savaşması şansımız, çünkü tek bir güç halinde birleşselerdi durdurulamaz olurlardı. Evet, şanslıyız ve avantajımızı kullanmalıyız.$B$BSentor klanlarından biri olan Gelkis klanı, Magram klanı ile acımasız bir savaş içinde. Magram'a saldırırsak belki Gelkis ile bir ittifak kurulabilir.$B$BGüneybatı Desolace'taki Gelkis kamplarının dış mahallelerinde bulunan Bilge Uthek [Uthek the Wise] ile konuş. Onun aracılığıyla Gelkis ile bir ittifak kurabiliriz.",
+		["Objectives"] = "Gelkis ile Dostça [Friendly] itibar kazan, ardından Bilge Uthek [Uthek the Wise] ile konuş.",
+		["Progress"] = "Defol! Gelkis'liler seni burada istemiyor. Şimdi git!!$B$BPek çok Magram öldürdükten sonra geri dön, o zaman seninle konuşacağım.",
+		["Completion"] = "Adın Gelkis'liler arasında fısıldanıyor. Ellerinde çokça Magram kanı var. Bu iyi.$B$BBelki konuşmamız da iyidir. Gelkis için ne yapabileceğinden ve bizim senin için ne yapabileceğimizden bahset.",
+		["minlevel"] = "30",
+		["questlevel"] = "35"
+	},
+	["1384"] = {
+		["Title"] = "Kolkar'a Baskın",
+		["Description"] = "Kolkar sentorları büyülerinin güçlü olduğunu sanıyor. Onlar büyü bilmiyor! Büyü onları ısırsa haberleri olmaz!$B$BBüyülerinin zayıf olduğunu onlara göstereceksin. Kuzeydoğudaki Kolkar'lara git ve onları öldür. Tılsımlarını al. Tılsımları bana getir, onları ateşe atıp güleceğim!",
+		["Objectives"] = "Gelkis ile itibarını koru ve Desolace'taki Gelkis Köyü'nde bulunan Bilge Uthek [Uthek the Wise]'e 10 Kaba Tılsım [Crude Charm] getir.",
+		["Progress"] = "Tılsımlar sende mi? Kolkar'lara zayıf olduklarını gösterdin mi?",
+		["Completion"] = "Gelkis için iyi bir şey yapıyorsun. Kolkar'lar zayıf ve ölecekler. Büyüleri zavallıca ve onları kurtarmayacak. Onlara bunu gösterdin ve korkuları onları daha da güçsüz kılacak!$B$BVe bizim topraklarımızda, güçsüzler çabuk ölür.",
+		["minlevel"] = "30",
+		["questlevel"] = "32"
+	},
+	["1385"] = {
+		["Title"] = "Acımasız Siyaset",
+		["Description"] = "Desolace savaş halinde bir kara parçasıdır. Sentorlar birbirleriyle savaşır ve aralarındaki galibin dışarı taşarak kale ve karargahlarımızı tehdit edeceğine inanıyoruz. Buna izin veremeyiz.$B$BSentorları nasıl yeneceğimizi öğrenmeliyiz ve bunu yapmak için... klanlardan biriyle müttefik olmalıyız. Magram sentorları Gelkis ile savaşıyor. Gelkis ile savaşırsan Magram bir ittifakı düşünebilir.$B$BMagram'ların lütfunu kazan, ardından güneydoğu Desolace'taki Magram köyünde bulunan Warug ile konuş.",
+		["Objectives"] = "Magram ile Dostça [Friendly] itibar kazan, ardından Warug ile konuş.",
+		["Progress"] = "Şimdi gidersin yoksa Magram seni ezer! Dostumuz olmak için Gelkis öldürmelisin.",
+		["Completion"] = "Pek çok Gelkis senin yüzünden düştü. Bunu sevdim. Belki seveceğim daha çok şey yapabilirsin. Belki sen ve Magram dost olabilirsiniz.",
+		["minlevel"] = "30",
+		["questlevel"] = "35"
+	},
+	["1386"] = {
+		["Title"] = "Kolkar'a Saldırı",
+		["Description"] = "Kolkar'lar güçlü olduklarını sanıyorlar ama biz onlara gülüyoruz! Gülüyoruz ve onları öldürüyoruz! Sen de öldür onları. Kolkar'ları bizim gibi öldürebildiğini bana göster. Kuzeye git ve hepsini katlet!",
+		["Objectives"] = "Magram ile itibarını koru. 12 Kolkar Sentor [Kolkar Centaur], 12 Kolkar İzci [Kolkar Scout] ve 6 Kolkar Hırpalayıcı [Kolkar Mauler] öldür, ardından Desolace'taki Magram Köyü'nde bulunan Warug'a dön.",
+		["Progress"] = "Kolkar'dan korkuyor musun? Neden onları öldürmüyorsun? Belki nasıl öldürüleceğini unuttun. Acele et ve Kolkar'ları ölmeden önce öldür!",
+		["Completion"] = "Kolkar artık senden korkuyor! Umarım onları öldürürken gülmüşsündür. Öldürürken gülmek daha iyidir, böylece düşman zayıf olduğunu görebilir.",
+		["minlevel"] = "30",
+		["questlevel"] = "32"
+	},
+	["1387"] = {
+		["Title"] = "Sentor Ödülü",
+		["Description"] = "Sentor ırkını pek çok klan oluşturur. Her birinin kendi lideri ve gündemi vardır ama tüm klanların ortak bir noktası vardır. Acımasızlık.$B$BHuzuru bulacaksak sentorlar ortadan kaldırılmalıdır. Ve ben de tam olarak bunu yapman için seni görevlendiriyorum.$B$BDesolace'da dolaşırken sentor avla ve kulaklarını al. Bana çok ama çok fazla kulak getir.$B$BBunu İttifak [Alliance]'ın hizmetinde yap, $N, ve savaşın sonuna bir adım daha yaklaşalım.",
+		["Objectives"] = "Desolace'taki Nijel Noktası [Nijel's Point]'nda bulunan Onbaşı Melkins [Corporal Melkins]'e 15 Sentor Kulağı [Centaur Ear] getir.",
+		["Progress"] = "Bir raporun var mı, $N?",
+		["Completion"] = "Ah, kulaklar. Aferin.$B$Bİttifak [Alliance]'a hizmetin tartışılmaz, $N. Desolace'da döktüğün kan şüphesiz sayısız hayatı kurtaracak.",
+		["minlevel"] = "30",
+		["questlevel"] = "31"
+	},
+	["1437"] = {
+		["Title"] = "Vahlarriel'in Araması",
+		["Description"] = "Ben Vahlarriel, $N. Darnassuslu bir tüccar ailesi olan Malem Hanedanı'nın kayıp iki soylusunun nerede olduğunu öğrenmek için buraya geldim. Ailenin babası en kötüsünden korkuyor ve ben de kayıp çocuklarını bulmak için elimden gelen her şeyi yapmalıyım. Tyranis veya Dalinda için aramama henüz başlamadım ama uzun süre burada kalmayacağımı umuyorum.$B$BSon haberler birkaç hafta önce Taşörs Dağları [Stonetalon Mountains]'ndan geçtiklerini söylüyor.$B$BVagonlarını bulursan lütfen hemen beni bulmaya gel.",
+		["Objectives"] = "Desolace'taki Tyranis ve Dalinda Malem'in vagonunu bul ve ara.",
+		["Progress"] = "",
+		["Completion"] = "Vagonun kalıntılarını karıştırırken, hem büyülerle hem de silahlarla saldırıya uğradığı açıkça anlaşılıyor. Savaş tek taraflı ve hızlı görünüyordu; ortalıkta ne kan var ne de her hangi bir ceset kalıntısı.$B$BVagona saldıran her kimse verimli ve hızlıymış.",
+		["minlevel"] = "30",
+		["questlevel"] = "33"
+	},
+	["1438"] = {
+		["Title"] = "Vahlarriel'in Araması",
+		["Description"] = "Yapabilirsen hem Dalinda'yı hem de Tyranis'i bul ve bulgularınla bana geri dön. Aramana bu kaleden başla. Darnassus'taki amirlerimle derhal iletişime geçeceğim ve durumu bildireceğim.$B$B$N, sana vurgulamak istediğim başka bir şey daha var. Amirlerim Tyranis ve buraya gelme nedenleri hakkında bazı endişeler gösterdiler. Dalinda'nın bulunup güvenle geri getirilmesi onlar için daha önemli. Tyranis eve götürülmeden önce... değerlendirilmeli.",
+		["Objectives"] = "Desolace'taki Dalinda Malem'i bul.",
+		["Progress"] = "",
+		["Completion"] = "Elune'ye şükürler olsun ki sonunda biri yardıma geldi. Lütfen, $C, yardımına ihtiyacım var. Erkek kardeşim Tyranis ve ben Yanan Bıçak [Burning Blade] tarafından yakalandık ve buraya getirildik. Sanırım beni iblis efendilerine kurban etmek istiyorlar!$B$BDesolace'a gelmenin bir hata olduğunu biliyordum ama Tyranis son zamanlarda gizemli sanatlara dair her şeye açlık duymaya başladı - halkımızın isteklerine karşı gelse bile. Bu diyarın iblis istilası hakkındaki masalları duyduktan sonra bile bu yolculuğu yapmaya karar verdi.$B$BOnun için en kötüsünden korkuyorum.",
+		["minlevel"] = "30",
+		["questlevel"] = "33"
+	},
+	["1439"] = {
+		["Title"] = "Tyranis Araması",
+		["Description"] = "Orklar tüm muhafızlarımızı ve hizmetkarlarımızı katlettikten sonra buraya getirildik. Oh, onlara yaptıkları o korkunç şeyler! Kesinlikle bizi orada hemen öldüreceklerini sanıyordum ama başka planları olduğu açıkça ortaya çıktı.$B$BTyranis onlarla konuşmaya çalıştı. Sanırım gizemli sanatlar bilgisiyle onları etkilemek istedi... Nedenini bilmiyorum.$B$BLütfen, kardeşime ne olduğunu öğrenene kadar buradan ayrılamam. Onu bul, ardından kaderi belli olduğunda benim için geri gel.",
+		["Objectives"] = "Desolace'taki Tyranis Malem'i bul.",
+		["Progress"] = "Tyranis'in Yanan Bıçak [Burning Blade]'ın sırlarını öğrenmeye çalışacağından ve izin verirlerse kendisini onların türünden sayacağından korkuyorum - o, büyünün baştan çıkarılanlara getirdiği güce her zaman hayran kalmıştır.$B$BTyranis'in ruhunun bu tür tehlikelerle flört ettiği haberiyle ailemin yanına eve dönmeye katlanabileceğimden emin değilim. Halkım arasında böyle şeylerin peşinden koşmak yeterince korkunç bir suçtur ama korumaya çalıştığımız şeye dönüşmek, şey, bu tiksindiricidir.",
+		["Completion"] = "Bu korkunç! Ama sanırım gerekliydi. Senin elinden olmasaydı kesinlikle halkımın elinden olacaktı. Sanırım sana teşekkür etmeliyim - içten gelmiyor gibi görünüyorsa lütfen beni bağışla. Kötü bir niyetim yok.$B$BKardeşimin kaderine dair bilgi elimde olduğuna göre, kaçışımın zamanı gelmiş gibi görünüyor. Hâlâ istekliysen, bu korkunç yerden kaçmak için yardımını kabul edeceğim.$B$BHazır olduğunda, güvenliğe doğru yol alabiliriz.",
+		["minlevel"] = "30",
+		["questlevel"] = "33"
+	},
+	["1440"] = {
+		["Title"] = "Vahlarriel'e Dönüş",
+		["Description"] = "Yani, zaman şimdi mi? Çabalarını takdir ediyorum ve durum elvermezse benim ve ailem için yaptığın her şey için şimdi teşekkür etmeme izin ver. Hazırsan burada benim için başka bir şey kalmadı - zamanın doğru olduğunu hissettiğinde ayrılabiliriz.",
+		["Objectives"] = "Dalinda Malem'e Yıldırım Baltası Kalesi [Thunder Axe Fortress]'nden eşlik et ve ardından Desolace'taki Vahlarriel İblisbiçen [Vahlarriel Demonslayer]'e dön.",
+		["Progress"] = "",
+		["Completion"] = "Teşekkür ederim, $N. Dalinda sağ salim buraya, Nijel Noktası [Nijel's Point]'na döndü ve isteyebileceğimden çok daha iyi bir durumda. Kendi gücüyle buraya ulaşmış olması iyi bir işaretti. Umarım iyisindir?$B$BHem Tyranis hem de Dalinda'nın geri dönmediğini bilmek beni üzüyor ama Tyranis'in kararlarının utancına katlanmak onun sorumluluğunda. Darnassus'a döndüğünde yüzleşmek zorunda kalacağı bir şey.",
+		["minlevel"] = "30",
+		["questlevel"] = "33"
+	},
+	["1444"] = {
+		["Title"] = "Fel'Zerul'a Dönüş",
+		["Description"] = "Peygamber Jammal'an beni Atal'Hakkar Tapınağı [The Temple of Atal'Hakkar]'ndan sürgün etmeye mahkum etti. Bir zamanlar baş rahibin layık bir lider olduğunu düşünürdüm.$b$bKehanetine olan sarsılmaz inancı Atal'ai'lerin yıkımını getirecek. Çoktan getirmediyse tabii.$b$bEndişelerimi dile getirdiğimde dinsiz olarak damgalandım ve tapınaktan kovuldum.$b$bBana getirdiğin o eserler zararsız. Ancak Jammal'an çağırma ritüeli için uygun tılsım efsununu bulduysa, dünya büyük bir tehlike altında demektir....",
+		["Objectives"] = "Taşbarın [Stonard]'daki Fel'Zerul'a dön.",
+		["Progress"] = "",
+		["Completion"] = "Konuşmayalı epey zaman oldu, $C. Umarım yolculuğun başarılı geçmiştir.$B$Bİç Bölge [The Hinterlands]'deki sürgün Atal'ai'den ne tür bilgiler edindin?",
+		["minlevel"] = "38",
+		["questlevel"] = "44"
+	},
+	["1445"] = {
+		["Title"] = "Atal'Hakkar Tapınağı",
+		["Description"] = "Demek Jammal'an'ın kehanetinden bahsetti?$b$bAtal'ai ruhani lideri, Hakkar Ötealem'den [Nether] Azeroth'a döndüğünde, tanrının Atal'ai kabilesine ölümsüzlük bahşedeceğine inanıyor.$b$BBana sorarsan zamanından önce bir kıyamet günü getirecek aptalca bir aldatmaca.$b$BAma sürgünün efsunlu tılsımlardan bahsettiğini mi söylüyorsun? Bu beni çok endişelendiriyor. Eğer bunlar gerçekten bu karışıklığa neden olan Atal'ai ritüelinin anahtarıysa, öz güçlerini anlamalıyız.$b$BTapınağa gir ve tılsımları ele geçir!",
+		["Objectives"] = "20 Hakkar Tılsımı [Fetish of Hakkar] topla ve bunları Taşbarın [Stonard]'daki Fel'Zerul'a getir.",
+		["Progress"] = "Atal'ai tılsımları Hakkar'ı çağırma ve Jammal'an'ın kehanetini gerçekleştirme gücünü barındırıyorsa ele geçirilmelidirler. Bu tür güçler Horde tarafından anlaşılmalıdır!",
+		["Completion"] = "Cesur $C, Horde'un büyük bir şampiyonu olduğunu kanıtladın.$B$BŞimdi bu Hakkar tılsımları koleksiyonuyla derhal ilgilenilmeli!",
+		["minlevel"] = "38",
+		["questlevel"] = "50"
+	},
+	["1446"] = {
+		["Title"] = "Peygamber Jammal'an",
+		["Description"] = "Benim Solukkabuk [Witherbark] yoldaşlarım evlerinin etrafındaki yabancılara pek hoş bakmazlar.$b$bBen mi? Benim artık bir evim yok. Keder Bataklığı [Swamp of Sorrows]'nın büyük Atal'ai kabilesinden, halkımdan sürgün edildim.$b$BRuhani liderimiz Jammal'an, kehanet adını verdiği bir şeye sahipti. Tanrı Hakkar'ın çağrılmasının Atal'ai'ye ölümsüzlük getireceğine inanıyor.$b$BAma ben temkinli olunmasını tavsiye ettim. Ya kehanet manipülasyondan başka bir şey değilse?$b$BSürgünümün intikamını almak istiyorum. Bana Jammal'an'ın kafasını getir. Belki o zaman halkım özgür olur.",
+		["Objectives"] = "İç Bölge [The Hinterlands]'deki Atal'ai Sürgünü [Atal'ai Exile], Jammal'an'ın Kafası [Head of Jammal'an]'nı istiyor.",
+		["Progress"] = "Jammal'an ortadan kaldırıldığında halkıma geri dönme şansım olur.$B$BRuhani liderleri Jammal'an olduğu sürece Atal'ai kesin bir yıkımla karşı karşıya.",
+		["Completion"] = "Jammal'an'ın sahte görüylere duyduğu körü körüne güven, halkımı sonsuz felaketlerine sürükledi.$B$BSürgünümün intikamını aldığın için teşekkür ederim, $C. Halkım için yas tutuyorum. Dönecek bir evim yok.",
+		["minlevel"] = "38",
+		["questlevel"] = "53"
+	},
+	["1450"] = {
+		["Title"] = "Grifon Ustası Pençebalta",
+		["Description"] = "Demek Kaşifler Birliği [Explorers' League]'nden moruk biri için getir götür işleri yapan süslü bir $g oğlansın:kızsın;, ha?$b$bBeni iyi dinle, $c. Eski dostunun Azeroth'ta kiminle uçtuğunu bilmiyorum. Sana Grifon Ustası Pençebalta [Gryphon Master Talonaxe] gibi mi görünüyorum? Öyle mi?$b$BUçuş görevleriyle o kadar ilgiliysen neden grifon ustasına sormuyorsun? Buralarda daha fazla boş boş dolandığını yakalarsam seni gerçek bir işe koyacağım.$b$BŞimdi ikile bakalım.",
+		["Objectives"] = "Kartal Zirvesi Kuşhanesi [Aerie Peak Aviary]'nin içindeki Grifon Ustası Pençebalta [Gryphon Master Talonaxe] ile konuş.",
+		["Progress"] = "",
+		["Completion"] = "Ah, evet. Brohann Fıçıkarın [Brohann Caskbelly]'a yardım etmesi için grifon süvarilerimden birini gönderdiğimi elbette hatırlıyorum.$B$BKaşifler Birliği [Explorers' League] için kalbimde her zaman yumuşak bir yer olmuştur. Aslına bakarsan babam Uldaman'ı keşfeden ilk kazı ekibine yardım etmişti.$B$BBrohann ile o zamanki en iyi grifon süvarim olduğunu düşündüğüm kişiyi gönderdim. Rhapsody Çalgıgümbürtü [Rhapsody Shindigger] adında bir adamdı.$B$BVe ne harika bir grifon jokeyiydi! Şey, ta ki...",
+		["minlevel"] = "38",
+		["questlevel"] = "43"
+	},
+	["1451"] = {
+		["Title"] = "Rhapsody Çalgıgümbürtü",
+		["Description"] = "Rhapsody içkiye oldukça merak sardı. Beni yanlış anlama -- burada, kuşhanedeki tüm cüceler zamanı geldiğinde iyi bir birayı severiz.$b$bAma bizim Çalgıgümbürtü içkiye, bir grifonun gökyüzüne bağlandığı gibi bağlandı. Ve ne yazık ki çok yazık oldu. Hiç kimse Rhapsody gibi uçamazdı.$b$BBela emareleri dostun Brohann ile olan o görevden tökezleyerek geri döndüğünde başladı. Ondan sonra her şey hızla yokuş aşağı gitti. Onu bırakmak zorunda kaldık.$b$BSon duyduğuma göre buranın doğusunda bir demlenme kampı kurmuş...",
+		["Objectives"] = "İç Bölge [The Hinterlands]'de Rhapsody Çalgıgümbürtü [Rhapsody Shindigger]'yü ara.",
+		["Progress"] = "",
+		["Completion"] = "Hıçkırık!$B$BDoğruca sana bakıyorum ama sürekli yukarı aşağı sallanıyorsun. Başımı döndürüyorsun. Hoho!$B$BHıçkırık!$B$BVay! Bunu hissettin mi? Yer sallanıyor dostum. Bir içkiye ihtiyacım var.$B$BHıçkırık!",
+		["minlevel"] = "38",
+		["questlevel"] = "43"
+	},
+	["1452"] = {
+		["Title"] = "Rhapsody'nin Kalimdor Kokteyli",
+		["Description"] = "Hıçkırık!$b$bDemek o çılgın aptal Brohann seni gönderdi? Ne maceraydı ama... Hıçkırık!$b$bBataklıkta ne olduğunu sana anlatmamı istiyorsan, içecek sert bir şeylere ihtiyacım olacak. İç açıcı bir sahne değildi, anlarsın ya. Hıçkırık!$b$BBak ne diyeceğim... Bir Kalimdor Kokteyli hazırlamam için ne gerekiyorsa bana getir, ben de sana her şeyi anlatayım.$b$BTanaris'ten birkaç Rok kursağı [Roc gizzard]... ve bakalım... Feralas'tan birkaç Groddoc ve Demirkürk karaciğeri [Ironfur liver] gerekecek...$b$BGüzel sert bir Kalimdor Kokteyli... bu beni konuşturur!",
+		["Objectives"] = "İç Bölge [The Hinterlands]'deki Rhapsody Çalgıgümbürtü [Rhapsody Shindigger], ona 3 Rok Kursağı [Roc Gizzard], 3 Groddoc Karaciğeri [Groddoc Liver] ve 3 Demirkürk Karaciğeri [Ironfur Liver] getirmeni istiyor.",
+		["Progress"] = "Hiç Rhapsody Maltı içtin mi? Kendim söyledim diye demiyorum, en iyi biralarımdan biridir. Hıçkırık!$B$BAma o uğursuz... hıçkırık... bataklık uçuşunun dehşetini tekrar yaşayacaksam, birazcık daha sert bir şeye ihtiyacım olacak. Hıçkırık!$B$BKalimdor Kokteylime o ekstra etkiyi katmak için ihtiyacım olan o kursakları ve karaciğerleri bulamadın sanırım?$B$BHıçkırık!",
+		["Completion"] = "Bana gerekenleri getirmekte hiç zorlanmadığını görüyorum! Uzak Kalimdor'da epey bir vakit geçirmiş olmalısın.$B$BBu kursaklardan ve karaciğerlerden ihtiyacım olanı çıkarmam bir an bile sürmez. Hıçkırık!$B$BSonra sert bir içki damıtabilir ve sonunda sana bilmek istediğin şeyi anlatabilirim.$B$BHıçkırık!$B$BO uğursuz bataklığı düşününce bile ürperiyorum.$B$BHıçkırık!$B$BHızlıca bir içki hazırlayayım.",
+		["minlevel"] = "38",
+		["questlevel"] = "43"
+	},
+	["1454"] = {
+		["Title"] = "Karnitol Enkazı",
+		["Description"] = "İlk işim büyücü Karnitol içindir -- Fırtınayeli [Stormwind]'nde bir tür soylu. Görünüşe göre gemisi Desolace'ın kuzeybatısındaki kıyı açıklarındayken deniz devleri tarafından saldırıya uğramış. O ve hizmetkarları daha değerli sandıklarından birini karaya çıkarmaya çalışmışlar ancak deniz devleri kitleler halinde saldırdığında, onu terk etmeyi ve kendilerini ve hizmetkarlarını güvenli bir yere ışınlamayı seçmiş.$B$BSandığı ve içindekileri bulup Fırtınayeli [Stormwind]'nde kendisine teslim etmemizi istiyor.",
+		["Objectives"] = "Desolace'taki Karnitol'un Sandığı [Karnitol's Chest]'nı bul.",
+		["Progress"] = "",
+		["Completion"] = "Sandıkta herhangi bir su hasarı olmadığını fark ediyorsun.$B$BFark ettiğin ikinci şey ise kapağının zorlanarak açıldığı ve onu korumak için kurulan büyü tuzaklarının çoktan tetiklendiğidir -- kenarlarındaki yanık izlerinden bu durum açıkça anlaşılıyor.",
+		["minlevel"] = "30",
+		["questlevel"] = "39"
+	},
+	["1455"] = {
+		["Title"] = "Karnitol Enkazı",
+		["Description"] = "Sandığı neyin zorlayıp açtığını anlamak için birkaç an harcıyorsun ve sandığın yanları ve üstü boyunca, bir adam ya da devden başka bir şeyin onunla ilgilendiğini gösteren uzun, derin çizikler fark ediyorsun. İzler bir hançer ya da kılıçtan kaynaklanmış gibi görünmüyor.$B$BSandığı karırdırdıktan sonra tamamen boş olduğunu görüyorsun.$B$BBaşka bir hareket tarzın olmadığı için sandığı kapatıp ayrılmaya hazırlanıyorsun. Kreldig hayal kırıklığına uğrayacak.",
+		["Objectives"] = "Desolace'taki Kreldig Ungor'a dön.",
+		["Progress"] = "",
+		["Completion"] = "Nijel Noktası [Nijel's Point]'na tekrar hoş geldin, $N. Söyle bakalım ne buldun.$B$BNe!? Hiçbir şey mi? Boş bir sandık bize para kazandırmayacak, korkarım.$B$BBana gördüğün bu izlerden... bu kesiklerden daha fazla bahset.",
+		["minlevel"] = "30",
+		["questlevel"] = "39"
+	},
+	["1456"] = {
+		["Title"] = "Karnitol Enkazı",
+		["Description"] = "Büyüleyici.$B$BPekala, henüz tamamen umutsuz olmayabiliriz.$B$BAynı kıyı boyunca, ama kuzeyde Ranazjar Adası [Ranazjar Isle] yakınlarında, okyanusun dibinde gece elfi kalıntıları var. Bir naga kabilesi olan Kayarakbıçak [Slitherblade] orayı evleri yapıyor. En iyi şansımızın bu olacağını düşünüyorum.$B$BBir keşif birliği o kadar güneye gittiyse oldukça güçlü olmalılar. Karnitol'un eşyalarını bulacaksan daha güçlü nagalardan başlamanı öneririm: dalga avcıları [tidehunter] ya da deniz cadıları [sea witch].",
+		["Objectives"] = "Karnitol'un Çantası [Karnitol's Satchel]'nı bul ve Desolace'taki Kreldig Ungor'a getir.",
+		["Progress"] = "Nijel her kimsede ona saygısızlık etmek istemem ama bu kamp geceyi geçirdiğim en rahat yer değil, ne demek istediğimi anlıyorsan, $N.",
+		["Completion"] = "Bu harika, $N! Karnitol'un eşyalarını buldun!$B$BO lanet nagalar, her zaman sorun çıkarırlar. Hayatımı onların türüne karşı savaşarak geçirmektense Horde ile savaşarak geçirmeyi tercih ederim. Hak İddiacıları [Reclaimers]'a büyük bir hizmette bulundun.",
+		["minlevel"] = "30",
+		["questlevel"] = "39"
+	},
+	["1457"] = {
+		["Title"] = "Karnitol Enkazı",
+		["Description"] = "Karnitol'un eşyalarını Demirörs [Ironforge]'taki Roetten'e geri götür, iyi yapılmış bir iş için sana ödeme yapacaktır.$B$BHaha, dikkat etmezsen senden o kadar memnun kalacak ki aramıza tam zamanlı katılmanı isteyecek.$B$BYine harika iş çıkardın, $N.$B$BDönüş yolunda dikkatli ol ve çok fazla zaman harcama -- Karnitol adamların en sabırlısı değildir ama yine de çok cömerttir.",
+		["Objectives"] = "Karnitol'un Çantası [Karnitol's Satchel]'nı Demirörs [Ironforge]'taki Roetten Taşçekiç [Roetten Stonehammer]'e getir.",
+		["Progress"] = "İşler büyüyor, $N, ve sorular için çok fazla zamanım yok. Hak İddiacıları [Reclaimers] ile bir işin varsa dinleyelim. Yoksa emrimdekilerden biriyle konuşmanı istemek zorunda kalacağım -- buralardaki işlerle ilgilenmekte yeterince yeteneklilerdir.",
+		["Completion"] = "Ah, Desolace'taki Karnitol işi. Mükemmel!$B$BDemek sandık yok edildi ama eşyaların hepsi burada, ha? Pekala, bunun takdirini ona bırakacağım. Burada yürüttüğüm bu işin güzel bir yanı da memnun kalmazlarsa onlara çekip gitmelerini söyleyebilmem! Eşyalarını bulmamız için bize güveniyorlar... geri aldıklarında her şeyin cici bici ve iyi durumda olmasını sağlamak için değil.$B$Bİyi iş, $N. Sana ödemeni yapma işine bakalım.",
+		["minlevel"] = "30",
+		["questlevel"] = "39"
+	},
+	["1458"] = {
+		["Title"] = "Reclaimers Anonim Şirketi İçin Reaktifler",
+		["Description"] = "Buradaki görevlerimden biri de Kharanos'taki bir cüce büyücü [gnome mage] olan Leftwitch için bazı reaktifler toplamak. Zaten buralarda olduğumuz için Roetten bunun kasadaki kolay para olduğunu düşünüyor. Zaten yetersiz sayıda adamımız olduğunu pek umursamıyor.$B$BListesindeki ilk birkaç öğeyi almak yeterince kolay olmalı ve bana yardım eden herkes için iyi miktarda para olurdu.$B$BBuranın doğusundaki Nefretöfkesi [Hatefury] satyr'lerinden bazı boynuzlara ve pençelere ihtiyacım var. Onları bana getir, listelerin geri kalanı üzerinde çalışmaya başlayalım.",
+		["Objectives"] = "Desolace'taki Kreldig Ungor'a 10 Nefretöfkesi Pençesi [Hatefury Claw] ve 10 Nefretöfkesi Boynuzu [Hatefury Horn] getir.",
+		["Progress"] = "Aşağılık yaratıklar, satyr'ler. Hikaye onların bir şekilde gece elflerine bağlı olduğunu söylüyor ama inanıp inanmadığımdan pek emin değilim.$B$BSanırım bunu birkaç yıl önce onları savaşa sokan o tek elf yüzünden söylüyorlar. Dünya o zamandan beri asla aynı olmadı. Çok daha tehlikeli ve çok daha korkutucu.",
+		["Completion"] = "İyi iyi, $N. Bunların iyi kalitede olup olmadığından emin değilim ama Leftwitch belirli bir tür isteseydi en başında Hak İddiacıları [Reclaimers]'nı buraya göndermeden önce bunu belirtmeliydi.$B$BListesindeki bir sonraki öğeye geçmeye ne dersin?",
+		["minlevel"] = "30",
+		["questlevel"] = "33"
+	},
+	["1459"] = {
+		["Title"] = "Reclaimers Anonim Şirketi İçin Reaktifler",
+		["Description"] = "Leftwitch'in listesindeki sıradaki öğe... bakalım... hmm. Oh, işte burada.$B$BYeterince basit ama talimatlarında oldukça açık. Akrepbağası [scorpashi] zehrine ve bazı kodo derilerine ihtiyacı var. İnce yazılar her ikisinin de belirli yaratıklardan olması gerektiğini söylüyor: zehir herhangi bir akrepbağasından gelmeli, deri ise ölmekte olan ya da kadim olanlardan değil, yaşlı bir kododan gelmeli.$B$BBüyücüler, diyorum sana, istedikleri şeylerden bazıları... sadece tuhaf.",
+		["Objectives"] = "Desolace'taki Kreldig Ungor'a 7 şişe Akrepbağası Zehri [Scorpashi Venom] ve 3 Yaşlı Kodo Derisi [Aged Kodo Hide] getir.",
+		["Progress"] = "Kodo veya akrepbağasını nerede bulacağını söyleyemediğim için üzgünüm. Bölgeye pek aşina değilim ve keşfetmeye vaktim olmadı.",
+		["Completion"] = "Buradaki yardımın bir lütuf, $N. Desolace'da geçirdiğim süreyi en az yarı yarıya azaltıyorsun. Senin yardımınla kısa sürede Demirörs [Ironforge]'te ayaklarımı ısıtmaya döneceğim.$B$BBu listeyi hallettiğimizde ve ben eve döndüğümde beni ara, sana kesinlikle bir bira ısmarlayacağım.$B$BAma o zamana kadar bu reaktiflerin geri kalanını toplayalım.",
+		["minlevel"] = "30",
+		["questlevel"] = "35"
+	},
+	["1465"] = {
+		["Title"] = "Vahlarriel'in Araması",
+		["Description"] = "Vagonu aramaya devam ettikçe sadece bir kolye değil, aynı zamanda güneye doğru ilerleyen ayak izleri de buluyorsun. Uzakta büyük bir kaleden yükselen dumanı görebiliyorsun. Duman tutulan bir ateşten geliyor, binaların yanmasından değil ve içgüdülerin sana Malem'lerin hâlâ hayattalarsa o yöne götürüldüklerini söylüyor.$B$BNijel Noktası [Nijel's Point]'daki Vahlarriel'in sadece bulduğun kolyeyi görmekle kalmayıp güneydeki yaşam belirtilerini de bilmesi gerektiğini düşünüyorsun.",
+		["Objectives"] = "Malem Kalesi [Malem Pendant]'ni Desolace'taki Vahlarriel İblisbiçen [Vahlarriel Demonslayer]'e geri götür.",
+		["Progress"] = "",
+		["Completion"] = "Çileden çıkarıcı! Tüm bu fiyasko!$B$BIkisi de buraya gelmenin ne kadar tehlikeli olabileceği konusunda uyarılmıştı. Şimdi ikisi de kayıp... ya da daha kötüsü.$B$BYakındaki bir kaleye giden izler gördüğünü mü söyledin? En iyi şansımız bu olabilir.$B$BYerlilerin söylediklerine göre o kale, kendilerini iblis davalarına adamış orklar olan Yanan Bıçak [Burning Blade] üyeleriyle dolu. Horde'un inançlarının çoğunluğunu temsil etmiyor olabilirler ama kötüdürler ve casusluk yaparken yakalanırsan seni görür görmez katlederler.",
+		["minlevel"] = "30",
+		["questlevel"] = "33"
+	},
+	["1466"] = {
+		["Title"] = "Reclaimers Anonim Şirketi İçin Reaktifler",
+		["Description"] = "Bu öğelerin sonuncusu ve yalan söylemeyeceğim, hiç açıcı değil. Ayrıca bunun diğer öğelerden biraz daha uzun sürmesini bekliyorum.$B$BÖyleyse uyarıyı bırakalım da başlayalım. Leftwitch ihtiyacı olduğunu söylüyor: mana yiyicilerden [mana eater], büyücü avcılarından [mage hunter] ya da leylik avcılarından [ley hunter] on beyin. Bir ötealem kızından [nether maiden], kız kardeşinden veya büyücüsünden on ötealem kanadı [nether wing]. Ve... bir kıyametmuhafızı kaptanı ya da lordundan ten şişe kıyametmuhafızı kanı [doomwarder blood].$B$BYeterince basit, ha? Cık cık... Bunu pas geçmek istersen anlarım.",
+		["Objectives"] = "Desolace'taki Kreldig Ungor'a 10 Fel Tazısı Beyni [Felhound Brain], 10 Ötealem Kanadı [Nether Wing] ve 10 şişe Kıyametmuhafızı Kanı [Doomwarder Blood] getir.",
+		["Progress"] = "Bu iblis şeylerinin Desolace'ta olduğunu bile fark etmemiştim. En son okuduğumda gece elfleri toplanıp yıllar önce gittikten sonra toprağın neredeyse tamamına sentorlar sahipti.$B$BNeden buraya yerleştiklerini ve nasıl olduğunu merak ediyorum.",
+		["Completion"] = "Dürüst olmak gerekirse? Bunu düşünmezdim. Harikasın, $N. Bir büyücünün deneyleri için iblislerle yüzleşmek ve üstelik tek parça halinde geri dönmek. Harika iş!$B$BDemirörs [Ironforge]'e döndüğümde Roetten'e senden bizzat bahsedeceğim.",
+		["minlevel"] = "30",
+		["questlevel"] = "40"
+	},
+	["1467"] = {
+		["Title"] = "Reclaimers Anonim Şirketi İçin Reaktifler",
+		["Description"] = "Ödemeni almak için Demirörs [Ironforge]'e geri dönüp Roetten'in kendisiyle konuşman gerekecek. Zaten Leftwitch'in paketini aradan çıkarmaya bayılacaktır. Sadece bunu ona ver, ganimetini almak için yeterli olacaktır.$B$BVe endişelenme, döndüğümde senin için hâlâ iyi şeyler söyleyeceğim. Desolace'ta çok daha uzun süre kalmamalıyım.",
+		["Objectives"] = "Leftwitch'in Paketi [Leftwitch's Package]'ni Demirörs [Ironforge]'teki Roetten Taşçekiç [Roetten Stonehammer]'e geri götür.",
+		["Progress"] = "İyi karşılaştık, $N. İşler büyüyor, dövülen örslerin sesleri Demirörs [Ironforge] boyunca yankılanıyor, körükler ateşleri sıcak üflüyor ve karım bu akşamki akşam yemeğinden sonra tatlı olarak bana turta yapıyor. Hayat daha da görkemli olabilir miydi?",
+		["Completion"] = "Ah, Desolace'tan Leftwitch için olan paket. Mükemmel. İşini ve zamanlamanı takdir ediyorum, $C. En azından bu küçük iş parçası için aramıza katıldığına sevindim.$B$BÖdemen tam burada. Hak İddiacıları Anonim Şirketi [Reclaimers Inc.]'nin zorlu bir haftalık çalışma için her zaman iyi ödeme yaptığı bilinsin.",
+		["minlevel"] = "30",
+		["questlevel"] = "40"
+	},
+	["1468"] = {
+		["Title"] = "Çocuklar Haftası",
+		["Description"] = "Yetimhanede bize yardım etmek istiyor musun? Tanrı senden razı olsun dostum; Çocuklar Haftası [Children's Week] boyunca yardımın paha biçilmez olacak.$B$BBu düdüğü al. Bunu sadece kısa bir süre için kullanabileceksin - genellikle Çocuklar Haftası'nın kendisinden daha uzun süre değil. Kullandığında ilgilenmeyi kabul ettiğin çocukla konuşabileceksin. Tekrar kullanmak çocuğu gönderecektir.$B$BNe olursa olsun $N - düdüğü kullan ve vesayetinle tanış! Eminim çocuk seninle tanışmak için sabırsızlanıyordur.",
+		["Objectives"] = "Çocuklar Haftası [Children's Week] boyunca ilgileneceğin çocukla konuşmak için İnsan Yetim Düdüğü [Human Orphan Whistle]'nü kullan.",
+		["Progress"] = "",
+		["Completion"] = "Şey... merhaba. Benim adım Randis ve sanırım bana sen bakıyorsun? Sen de annem ve babam gibi bir maceracısın. Seninle tanıştığıma memnun oldum.$B$BUmarım birlikte çok eğleniriz. Yapmak istediğim bazı şeyler var ve müdire [matron] bu hafta boyunca bana büyük bir kardeş gibi olacağını söylüyor. Bunu çok isterdim, evet efendim.",
+		["minlevel"] = "10",
+		["questlevel"] = "60"
+	},
+	["1469"] = {
+		["Title"] = "Rhapsody'nin Hikayesi",
+		["Description"] = "Uçuştan önce koca bir fıçı sert bira içtim. Hıçkırık!$b$bVe ne uçuştu ama. Brohann beni takip ederken vızır vızır geçiyordum. Ama hiç tapınak görmedim. Hıçkırık!$b$bŞey, biraz fazla çakırkeyif olup binek hayvanımdan düşene kadar hiç tapınak görmemiştim. Doğruca suya daldım ve aşağı çekildim. Etrafımı bir sürü ürkütücü trollün sardığını gördüm. Buradan kesinlikle hızlıca yüzerek uzaklaştım! Hatta bu troll hatırasını da yanıma aldım. Al bunu Brohann'a götür ve tapınağının gerçekten orada, aşağıda olduğunu bilmesini sağla. Hıçkırık!",
+		["Objectives"] = "Atal'ai Tablet Parçası [Atal'ai Tablet Fragment]'nı Fırtınayeli [Stormwind]'ndeki Brohann Fıçıkarın [Brohann Caskbelly]'a getir.",
+		["Progress"] = "Nihayet döndün, $N. Son konuşmamızdan bu yana epey zaman geçti. Görevimi unuttun sanıyordum.$B$BO kurnaz grifon süvarisini buldun mu? Rapor edecek bir şeyi var mıydı?",
+		["Completion"] = "Rhapsody Çalgıgümbürtü [Rhapsody Shindigger]! Doğru ya... Böyle bir ismi nasıl unutabilirim?$B$BDemek başından beri tapınağın batışını biliyordu? Pekala, bu kesinlikle seni biraz taban tepmekten kurtarırdı.$B$BAma bu Atal'ai eseri! Vay canına, oldukça büyük bir buluş!",
+		["minlevel"] = "38",
+		["questlevel"] = "43"
+	},
+	["1475"] = {
+		["Title"] = "Atal'Hakkar Tapınağı'na Doğru",
+		["Description"] = "Efsaneye göre Atal'Hakkar Tapınağı [The Temple of Atal'Hakkar], kadim tanrı Ruhsoyan Hakkar [Hakkar the Soulflayer]'a adanmış kutsal bir mabettir. Atal'ai adında gaddar bir troll kabilesi tarafından korunan tapınağın nüfuz edilemez olduğu söylenir.$b$bŞimdi Gözyaşı Havuzu [Pool of Tears]'nun altına batmış durumda, tapınaktan eser çıkarmak daha da zor. Ama senden yapmanı istediğim şey bu, $n.$b$bBozulmamış Atal'ai Tabletleri [Atal'ai Tablet]'ni toplayarak bana yardım et. Onları bana getir, ben de Kaşifler Loncası [Explorers' Guild]'na bir kahraman olarak döneyim. Zaferi birlikte paylaşacağız.",
+		["Objectives"] = "Fırtınayeli [Stormwind]'ndeki Brohann Fıçıkarın [Brohann Caskbelly] için 10 Atal'ai Tableti [Atal'ai Tablet] topla.",
+		["Progress"] = "Kariyerimin üzerine alacakaranlık yavaşça çökerken, Kaşifler Birliği [Explorers' League] için son görevimde bana yardım etmen için sana dönüyorum, $N. Eski kemiklerim Keder Bataklığı [Swamp of Sorrows]'na ve batık tapınağa göğüs gerecek gücü toplayabilseydi hemen senin yanında savaşıyor olurdum.$B$BGururum Atal'ai Tabletleri'ni toplama konusunda yardımını istememi zorlaştırıyor. Ancak yaşlılık bunu zorunlu kılıyor.$B$BLütfen bana yardım et, $N. Kaşifler Birliği'nden son emirlerini tamamlamış olarak emekli olmak istiyorum.",
+		["Completion"] = "Atal'ai Tabletleri! Teşekkür ederim, $N!$B$BBunları Kaşifler Birliği'ne teslim ettiğimde isimlerimiz tarihe birlikte geçecek. Yaşlı bir cücenin hayattaki son yükümlülüğünü yerine getirmesine yardımcı oldun. Bunun için sonsuza dek minnettarım.",
+		["minlevel"] = "38",
+		["questlevel"] = "50"
+	},
+	["1479"] = {
+		["Title"] = "Sonsuzların Dalı",
+		["Description"] = "Gece elflerinin bankalarının bir ağaçta olduğuna dair hikayeler duydum - ayıya benzeyen bir ağaç! Bu çok havalı! Gece elfleri doğayı ve diğer şeyleri sevmeleri açısından harikalar ama ayılar kesinlikle muhteşem!$B$BBeni Darnassus'taki ayı-ağacı görmeye götürür müsün lütfen? Bizi oraya yaklaştıracak bir gemi var ve çok uzun sürmemeli. Lütfen, lütfen, lütfen!",
+		["Objectives"] = "Yetimi Darnassus bankasına götür. Bankanın kendisi Sonsuzların Dalı [Bough of the Eternals] olarak bilinen bir ağacın içinden oyulmuştur.",
+		["Progress"] = "Geldik mi?",
+		["Completion"] = "Vay canına, hayal ettiğimden bile daha havalıydı - Sonsuzların Dalı [Bough of the Eternals]! Bu kadar büyük olacağını düşünmemiştim ama öyleydi! Üstündeki kuşu da gördün mü?! Dallarının bu şekilde görünmesini nasıl sağladıklarını merak ediyorum!$B$BBeni Darnassus'a götürdüğün için teşekkürler, $N. Harikasın!",
+		["minlevel"] = "10",
+		["questlevel"] = "60"
+	},
+	["1481"] = {
+		["Title"] = "Yozlaştırıcı",
+		["Description"] = "Uygun reaktifler verildiğinde bu iblis lordunu bulabileceğime inanıyorum.$B$BGerçekten şüphelendiğim kadar güçlüyse, ölümcül yaratıklardan toplanan eşyalara ihtiyacım olacak. Ama Savaşşefi [Warchief] adına hareket ediyorsun, bu yüzden görevimi kabul edeceğinden eminim.$B$Bİlk olarak, kehanete karşı sahip olduğu tüm korumaları kırmam gerekecek. Bunun için bir satyr'in kafa derisine ihtiyacım olacak -- ama herhangi bir satyr değil. Kafa derisi bir Nefretöfkesi Gölgetakipçisi [Hatefury Shadowstalker]'nden gelmeli.$B$BOnları Desolace'ın kuzeydoğusundaki antik kalıntılar arasında ara.",
+		["Objectives"] = "Desolace'taki Maurin Kemikyaran [Maurin Bonesplitter]'a bir Gölgetakipçi Kafa Derisi [Shadowstalker Scalp] getir.",
+		["Progress"] = "Bana yanlış bir kafa derisi getirme, $C. Yanlış reaktifleri kullanmak ölümümüze neden olabilir. İblis lordunun, kendisini gözetleyecek olanları katletmek için üzerinde ihtiyati büyüleri bulunabilir.$B$BKader bana zaten yeterince acı çektirdi.",
+		["Completion"] = "Gölgetakipçiler seni katledemedi, $C. Etkileyici... son derece etkileyici.$B$BBu kafa derisi büyüm için çok işe yarayacak. Sen uzaktayken büyü için gereken diğer reaktiflerden bazılarını toplayabildim.$B$BNeredeyse hazırım. Büyü için sadece bir odağa ihtiyacım var -- iblis lordunun ve nerede olduğunun bir görüntüsünü yansıtacak bir şey.",
+		["minlevel"] = "25",
+		["questlevel"] = "33"
+	},
+	["1482"] = {
+		["Title"] = "Yozlaştırıcı",
+		["Description"] = "Bir kahin kristali çok iyi iş görür. Naga kahinlerinin kullanması için nagalar tarafından işlenirler.$B$BBuranın kuzeybatısında, sahil boyunca, nagaların kıyıya bu kadar yakınken evleri olarak benimsedikleri geniş bir mercan kayalığı var. Kahinlerini orada bulabilirsin. Kayarakbıçak [Slitherblade]'lar ölümcüldür ve izinsiz girişlerine hoş tepki vermezler, bu yüzden dikkatli ol ve acele et.$B$BDöndüğünde bu iblis lordu Azrethoc'u bulma işine bakacağız.",
+		["Objectives"] = "Desolace'taki Maurin Kemikyaran [Maurin Bonesplitter]'a bir Kahin Kristali [Oracle Crystal] getir.",
+		["Progress"] = "Kahin kristali için hazırım, $C. Bu Lord Azrethoc'u bulup yok etmek ikimiz için de Savaşşefi [Warchief]'nin gözünde büyük bir lütuf kazandıracaktır. Birlikte ve hızlı bir şekilde çalışsak iyi ederiz, böylece kendi amaçlarımızı ilerletebilir ve Savaşşefi'nin lütfunu kazanabiliriz.",
+		["Completion"] = "Değerli bir kahin kristali... kusursuz... güzel. Gerçekten de.$B$BHemen başlayacağız. Bu iblis lordunu bulmak birincil endişemiz olmalı ve onun katledilmesi azami dikkatimizi gerektiriyor.$B$BBir adım geri çekil, $C, ve bu iblisin ne olduğunu ve nerede bulunabileceğini görelim.",
+		["minlevel"] = "25",
+		["questlevel"] = "35"
+	},
+	["1484"] = {
+		["Title"] = "Yozlaştırıcı",
+		["Description"] = "Bu yaratık tahmin ettiğimden çok daha tehlikeli. Takata'nın böyle bir yaratıkla başa çıkma yeteneklerimi sorguladığına şüphe yok ve az önce olanlar hakkında bilgilendirilmezse onuruna hakaret edilmiş olur.$B$BKılıç ustasıyla konuş, izin verirse iblisi katletmeye istekli olduğunu söyle ama çok fazla ısrar etme. Bunun kendi fikri olduğunu düşünmesi daha iyidir.",
+		["Objectives"] = "Desolace'taki Takata Çelikbıçak [Takata Steelblade] ile konuş.",
+		["Progress"] = "",
+		["Completion"] = "Maurin ve iblis lorduyla az önce olanlara tanık oldum. O yaratık, bir hayalet olarak bile warlock yoldaşımdan daha fazla güce sahip gibi görünüyor. Canavarı yenme görevine uygun olup olmadığını merak ediyorum? Kendim gitseydim Savaşşefi [Warchief]'ne daha iyi hizmet ederdi ama buradaki sorumluluklarımla, kendi onurum için bu kötülükle savaşmak üzere buradaki görevlerime sırtımı dönseydim klanımı küçük düşürürdüm.",
+		["minlevel"] = "25",
+		["questlevel"] = "33"
+	},
+	["1488"] = {
+		["Title"] = "Yozlaştırıcı",
+		["Description"] = "Bu Lord Azrethoc hakkında hiçbir bilgim olmamasına rağmen Maurin ile aynı fikirdeyim, durdurulmalı; özellikle hedeflerini ilerletmek için Yanan Bıçak [Burning Blade] üzerinde nüfuz kazanmaya çalışıyorsa.$B$BSavaşşefi [Warchief]'ne yardım etmek istediğini zaten gösterdin ve iblis lordunu ve warlock hizmetkarını katletmek için bir grup toplama konusunda sana güvenirim.$B$BHazır olduğunda doğruca güneye git ve tehdit sona erdiğinde bana dön.",
+		["Objectives"] = "Lord Azrethoc ve Jugkar Kasvetgazap [Jugkar Grim'rod]'ı katlet ve Desolace'taki Takata Çelikbıçak [Takata Steelblade]'a dön.",
+		["Progress"] = "Horde'a zafer, düşmanlarımıza ölüm, $N!$B$BDesolace'taki iblisler her zamankinden daha büyük bir tehdit oluşturuyor. İğrenç yaratıklardan giderek daha fazlası ortaya çıktıkça Savaşşefi [Warchief]'ne dönme umudum azalıyor.$B$BBazen sadece sentorlarla uğraşmak durumunda kalmış olmamızı diliyorum.",
+		["Completion"] = "Hepimiz için yüce bir zafer, $N. Başarınla sevinelim. Artık buradaki geleceğimizin bir zamanlar düşündüğüm kadar kasvetli olmadığına inanıyorum.$B$Bİblisler katledilecek, Yanan Bıçak [Burning Blade] çabalarında başarısız olacak ve bir gün güvenle evimiz diyebileceğimiz bir yere tekrar sahip olabiliriz.",
+		["minlevel"] = "25",
+		["questlevel"] = "40"
+	},
+	["1514"] = {
+		["Title"] = "Yozlaşmış Rüzgarçiçeği",
+		["Description"] = "",
+		["Objectives"] = "",
+		["Progress"] = "Rüzgarçiçeği [windblossom] bitkisi gibi görünen şeyin hastalıklı, yozlaşmış bir versiyonunu buldun. Bitkiden sarkan meyveler çürük ve zehirli görünüyor. Tekrar normale döndürülmesi gerekiyorsa acilen bir tür bakıma ihtiyacı var.",
+		["Completion"] = "Rüzgarçiçeğine iki Cenarion bitki merhemi [Cenarion plant salve] sürüyorsun. Anında yozlaşmış formunu dökmeye başlıyor, canlı ve sağlıklı bir bitki olarak çiçek açıyor.",
+		["minlevel"] = "48",
+		["questlevel"] = "55"
+	},
+	["1558"] = {
+		["Title"] = "Taşişi Barajı",
+		["Description"] = "Demirörs [Ironforge] tüm cücelerin ve cücelerin [gnome] yaşadığı yerdir. Oranın yakınlarında Loch Modan adında bir yer var ve cüceler orada KOCAMAN bir baraj inşa ettiler. Şimdiye kadar yapılmış en büyük şeylerden biri olduğunu söylüyorlar. Vay canına!$B$BBeni Loch Modan'a götürüp oradaki barajı gösterir misin lütfen? Sanırım Taş... şey... Taşingilizanahtarı Barajı mı? Taşişi Barajı [Stonewrought Dam] mı? Büyük - orası kesin. Büyük şelaleden dışarı bakmak isterdim. Çok fazla öne eğilmeyeceğime söz veriyorum!",
+		["Objectives"] = "Yetimi Loch Modan'daki Taşişi Barajı [Stonewrought Dam]'na götür. Dev şelaleden dışarıyı görebilmesi için onu barajın ortasına götürmelisin.",
+		["Progress"] = "",
+		["Completion"] = "VAY CANINA - baraj düşündüğümden ÇOK daha büyüktü! Coşkun suyun sesinden kendi konuştuğumu zar zor duyabiliyordum! Hey, sence suyunun bittiği olur mu? Adamım, o baraj bir kırılsa ne olurdu! VAY CANINA, bu korkunç olurdu!$B$BBeni barajı görmeye götürdüğün için teşekkürler. Çok naziksin. Sana çok fazla öne eğilmeyeceğimi söylemiştim!",
+		["minlevel"] = "10",
+		["questlevel"] = "60"
+	},
+	["1559"] = {
+		["Title"] = "Flaş Bombası Tarifi",
+		["Description"] = "",
+		["Objectives"] = "",
+		["Progress"] = "",
+		["Completion"] = "Demek mühendissin, ha? Pekala, o incileri almama yardım ettiğin için işte flaş bombası tarifi.$B$Bİyi şanslar ve kendini kör etmemeye çalış!",
+		["minlevel"] = "30",
+		["questlevel"] = "37"
+	},
+	["1579"] = {
+		["Title"] = "Gaffer Çivileri",
+		["Description"] = "Auberdine'e sessizlik yüzünden geldim. İcatlarımı sessiz olan yerlerde icat etmek istiyorum, çünkü bir gece içtikten sonra Demirörs [Ironforge]'ün tüm o gürültüsünü sevmiyorum!$B$BBen de Auberdine'e giden bir gemiye bindim ve yolda biraz fazla içtim. Gaffer çivileri [gaffer jacks] kutumu denize düşürdüm! Gaffer çivilerime ihtiyacım var!$B$BOnları tam olarak nerede düşürdüğümü bilmiyorum ama okyanusta onlar için balık tutarsan şansın yaver gidebilir...",
+		["Objectives"] = "Auberdine'deki Wizbang Krankdişli [Wizbang Cranktoggle]'ye 8 Gaffer Çivisi [Gaffer Jack] getir.",
+		["Progress"] = "Gaffer çivilerimi buldun mu, $N? Gaffer çivilerim olmadan daraltma pimlerimi [stintle peg] ayarlayamam!",
+		["Completion"] = "Onları bulduğuna inanamıyorum! Kalimdor'daki en şanslı $R olmalısın!",
+		["minlevel"] = "10",
+		["questlevel"] = "12"
+	},
+	["1580"] = {
+		["Title"] = "Elektro-Pervaneler",
+		["Description"] = "Şanslı olduğunu biliyoruz ama... ne kadar şanslısın, $N?$B$BBir gece Karagölge [Darkshore] yollarında dolaşıyordum. Yeni kendinden tahrikli, patlayan ördek mühremi denemek için iyi bir nehir veya göl arıyordum ve sanırım biraz çakırkeyiftim... çünkü pingsiz kalıp saatler sonra Auberdine'de uyandım. Saçlarım kavrulmuştu ve elektro-pervane [electropeller] çantam gitmişti! Onları suya düşürmüş olmalıyım!$B$BO elektro-pervanelere ihtiyacım var! Belki onları Karagölge'deki bir gölden veya dereden balık tutarak çıkarabilirsin...",
+		["Objectives"] = "Auberdine'deki Wizbang Krankdişli [Wizbang Cranktoggle]'ye 12 Elektro-Pervane [Electropeller] getir.",
+		["Progress"] = "Hiç elektro-pervane buldun mu? Ördek mühreleri üzerindeki araştırmama devam edeceksem onlara ihtiyacım olacak...",
+		["Completion"] = "İnananamıyorum! Onları buldun! Sen gördüğüm en iyi balıkçısın!$B$BTeşekkür ederim, $N. Ve al, bunları al. Çok iyi olmana ve muhtemelen ihtiyacın olmamasına rağmen, balık tutmana yardımcı olacaklar.",
+		["minlevel"] = "10",
+		["questlevel"] = "12"
+	},
+	["1581"] = {
+		["Title"] = "Bıçakyapraklar İçin İksirler",
+		["Description"] = "Ot ve simya dükkanımız iş yapıyor ama kocam iksirleri karıştırmak için o kadar çok zaman harcıyor ki birbirimize hiç vakit ayıramıyoruz.$B$BBize yardım edebilir misin?$B$BBana önceden yapılmış iksir tedariki getirebilirsen seninle takas yapmaktan mutluluk duyarım. Yararlı bulabileceğin bazı nadir otlarım var.",
+		["Objectives"] = "Dolanaar'daki Syral Bıçakyaprak [Syral Bladeleaf]'a 6 Aslan Gücü İksiri [Elixir of Lion's Strength] ve 2 Küçük Savunma İksiri [Elixir of Minor Defense] getir.",
+		["Progress"] = "Merhaba, $N. Takas edecek iksirlerin var mı?",
+		["Completion"] = "Bunlar güzel karıştırılmış. Zanaatına büyük özen gösteriyorsun, $N, ve bu bir simyacı için önemlidir.$B$Bİşte otların, taze toplanmış. Onları iyi kullanman dileğiyle.",
+		["minlevel"] = "4",
+		["questlevel"] = "8"
+	},
+	["1582"] = {
+		["Title"] = "Ayışıktırpanı Yeleği",
+		["Description"] = "Biz Darnassus'takiler, özellikle de zanaatkarlar oldukça meşgulüz. Genç maceracılar kendilerini yaban hayatta test etmeye istekliler ve sürekli erzak ihtiyacı içindeler.$B$BDeri eşya siparişlerimi doldurmama yardımcı olabilirsen, belki sana gelişmiş bir dericilik tekniği öğretebilirim.",
+		["Objectives"] = "Darnassus'taki Lotherias'a 1 Kabartmalı Deri Eldiven [Embossed Leather Glove], 5 Kabartmalı Deri Çizme [Embossed Leather Boots] ve 5 Kabartmalı Deri Pelerin [Embossed Leather Cloak] getir.",
+		["Progress"] = "Selamlar, $N.",
+		["Completion"] = "Evet, bunlar iyi parçalar. Becerikli bir elin ve detaylar için bir gözün var. Bir derici olarak geleceğin umut verici.$B$Bİşte, $N. Ayışıktırpanı Yeleği [Moonglow Vest] yapma desenini sana göstereyim.",
+		["minlevel"] = "8",
+		["questlevel"] = "18"
+	},
+	["1618"] = {
+		["Title"] = "Kızıltepe'yi Donatmak",
+		["Description"] = "Sadece biz cüceler savaşmıyoruz. İnsan müttefiklerimizin de başı dertte!$B$BKızıltepe [Redridge] periyodik olarak karakaya [blackrock] orklarının saldırısına uğruyor ve teçhizat stokları her zaman düşük. Onlara yardım edersen, yerleşik demircileri Verner Osgood'un sana bir iki numara öğreteceğinden eminim.",
+		["Objectives"] = "Tormus Derindövüş [Tormus Deepforge], Kızıltepe [Redridge]'deki Verner Osgood'a 4 Rünlü Bakır Kemer [Runed Copper Belt] ve 4 Ağır Bakır Tokmak [Heavy Copper Maul] götürmeni istiyor.",
+		["Progress"] = "Umarım Demirörs [Ironforge]'ten iyi haberlerle buradasındır. Çünkü sabrımın sonundayım!",
+		["Completion"] = "Teşekkür ederim, $N. Bu bana muazzam bir şekilde yardımcı olacak. Taşgözetleme Hisarı [Stonewatch Keep]'ndan saldıran Karakaya [Blackrock] orkları ve kuzeydeki tepelerde pusuda bekleyen Kızıltepe [Redridge] gnoll'ları ile birliklerimiz için her zaman zırh tamir ediyor ve yeni silahlar yapıyorum.$B$BGetirdiğin malzemeler bana bir anlık huzur verecek. Sana bir şeyler öğretmek için yeterince vaktim olacak...",
+		["minlevel"] = "1",
+		["questlevel"] = "16"
+	},
+	["1658"] = {
+		["Title"] = "Hasır Adam Festivalini Basmak",
+		["Description"] = "Tirisfal Korusuna [Tirisfal Glade] gidip Hasır Adam Festivali [Wickerman Festival]'ne göz atacak cesur bireylere ihtiyacım var. Yalan söylemeyeceğim - oraya gitmek tehlikeli olacak. Festivaldeki muhafızlar son derece gaddar olacak. Yine de festivalin bu yıl ne kadar büyük olduğunu ve Terk Edilmişler [Forsaken]'in Cadılar Bayramı [Hallow's End] sırasında bize ne kadar sorun çıkaracağını bilmemiz gerekiyor.$B$BVar mısın, Tirisfal'e git ve festivali keşfet. Bilgilerle bana dön, seni fazlasıyla ödüllendireceğimden emin olacağım.",
+		["Objectives"] = "Tirisfal Korusu [Tirisfal Glade]'ndaki Terk Edilmişler [Forsaken]'in Hasır Adam Festivali [Wickerman Festival]'ni bul. Bunu yaptıktan sonra Güneykıyısı [Southshore]'ndaki Çavuş Hartman [Sergeant Hartman]'a dön.",
+		["Progress"] = "Tirisfal Korusu [Tirisfal Glade]'na gidip duruma baktın mı? Genellikle festivali AltŞehir [Undercity]'e yakın tutarlar...",
+		["Completion"] = "Aferin, $N. İğrenç Terk Edilmişler [Forsaken]'in Lordaeron'un kalıntılarına musallat olmasına izin verildiği sürece Hasır Adam Festivali [Wickerman Festival] sorun olmaya devam edecek. Sana söyleyeyim, bu bir zamanların gururlu krallığına uygun bir saygı duruşu DEĞİL...$B$Bİşte ihtiyaç duyabileceğin tamiratlar için biraz para ve sezonun ruhuna uygun olarak beğenebileceğin bazı ikramlar da ekledim. Mutlu Cadılar Bayramı [Hallow's End] - burada, Güneykıyısı [Southshore]'nda işleri olabildiğince güvende tutalım.",
+		["minlevel"] = "25",
+		["questlevel"] = "60"
+	},
+    ["1687"] = {
+		["Title"] = "Ürkünç Deniz Feneri",
+		["Description"] = "Bazen gece geç saatlerde yetimhanedeki müdirelerimiz bize ürkünç hikayeler anlatır. Onlar HARİKA! Westfall [Batıüşeli]'daki bir deniz fenerine musallat olan bir hayaletle ilgili bir tane var. Onun, gemisi diğer korsanlar tarafından elinden alınan bir korsan kaptanı olduğunu söylüyorlar. Vay canına!$B$BBeni Westfall [Batıüşeli]'daki deniz fenerine götürebilir misin lütfen? O kaptanın hayaletinin orada olup olmadığını görmek istiyorum! Yanından ayrılmayacağıma söz veriyorum; kaçmayacağım ya da başka bir şey yapmayacağım!",
+		["Objectives"] = "Westfall [Batıüşeli] kıyısı açıklarındaki deniz fenerini görmesi için yetimi götür.",
+		["Progress"] = "",
+		["Completion"] = "VAY CANINA, bu gerçek bir hayaletti! Çok harikaydı - yetimhanedeki herkese anlatmak için sabırsızlanıyorum. Kaptan Grayson [Captain Grayson]... korsan gibi bile görünüyordu! Büyüdüğümde ben de bir hayalet korsan olmak istiyorum!$B$BBeni Westfall [Batıüşeli]'a götürdüğün için teşekkürler, $N. Westfall [Batıüşeli]'un yabanında korkunç şeyler olduğunu biliyorum ve umarım çok fazla yük olmamışımdır. Harikasın!",
+		["minlevel"] = "10",
+		["questlevel"] = "60"
+	},
+	["1800"] = {
+		["Title"] = "Lordaeron Taht Odası",
+		["Description"] = "Yuvamdaki yetim müdireleri, eğer uslu durur ve ev işlerimizi yaparsak geceleri bize yüce savaş ve irfan hikayeleri anlatırlar. Hikayelerden biri Lordaeron'un nasıl düştüğü ve kötü Arthas'ın hükümdar olmak için kendi babasının canını nasıl aldığı hakkındaydı.$B$BHiç onuru yoktu, $N! Büyüyüp güçlü bir Horde savaşçısı olduğumda, kılıcıma kötülük değil, onur yol gösterecek!$B$BBeni taht odasını görmeye götürür müsün lütfen? AltŞehir [Undercity]'e inen yolun hemen önünde.",
+		["Objectives"] = "Vesayetindeki çocuğu, AltŞehir [Undercity]'e inmeden hemen önce yer alan eski Lordaeron Taht Odası [Lordaeron Throne Room]'na götür.",
+		["Progress"] = "Geldik mi?",
+		["Completion"] = "O taht odası korkunçtu, $N! Boş olmasına rağmen sanki orada büyük bir kötülük yaşanmış gibi hissettirdi. Çılgına dönmüş gibi hissettim... ama aynı zamanda üzgündüm de. Müdirelerin bize neden böyle hikayeler anlattığını anlıyorum; halkıma asla bu şekilde ihanet etmeyeceğim!$B$BBeni taht odasına götürdüğün için teşekkür ederim, $N. Çok şey öğrendim.",
+		["minlevel"] = "10",
+		["questlevel"] = "60"
+	},
+	["1878"] = {
+		["Title"] = "Su Kesesi Ödülü",
+		["Description"] = "",
+		["Objectives"] = "",
+		["Progress"] = "Yine mi geldin, $N? Eğer beş tane daha Çölgezener su kesesi [Wastewater water pouch] getirdiysen, üzerinde adının yazılı olduğu bir bakım paketim var!",
+		["Completion"] = "Mükemmel - ne kadar çok su kesesini geri alabilirsek, felaketten o kadar uzaklaşırız! Getirmeye devam et, bana getirdiğin her beş su kesesi için seni ödüllendireceğimden emin olabilirsin.",
+		["minlevel"] = "40",
+		["questlevel"] = "44"
+	},
+	["2178"] = {
+		["Title"] = "Kolay Devekuşu Yaşamı",
+		["Description"] = "Bu lezzetli kokuyu alıyor musun? Bu benim gizli tarifim, $N--taze devekuşu yahnisi. Leziz!$B$BBelki tarifi öğrenmekle ilgilenirsin?$B$BSana tarifi öğretmeden önce, canavarlarla başa çıkabileceğini kanıtlaman gerekecek.$B$BŞimdi, dışarı çıkıp bir tanesini evcilleştirmeni ve sırtında bana geri sürmeni beklemiyorum, ama birkaç tanesini öldürüp sulu etlerinden biraz getirebilirsen, sana devekuşu yahnisinin yollarını göstermeye ikna olabilirim.",
+		["Objectives"] = "Auberdine'deki Alanndarian Geceşarkısı [Alanndarian Nightsong]'na 5 Devekuşu Eti [Strider Meat] getirin.",
+		["Progress"] = "Tencere boş ve ben açım! Neden bu kadar uzun sürdü?",
+		["Completion"] = "Harika! Dene ve ne düşündüğünü söyle, $N!",
+		["minlevel"] = "9",
+		["questlevel"] = "12"
+	},
+	["2521"] = {
+		["Title"] = "Kum'isha'ya Hizmet Etmek",
+		["Description"] = "$R, minik beynin kusursuz bir draenethyst küresinin nadirliğini kavrayabilir mi? Draenei'ler bu kristallerden sadece birini aramak için bir ömür harcadılar, ancak amirlerine ulaşamadan korkunç kaderlerle karşılaştılar.$B$BYani Kum'isha'nın ne istediğini bilerek ve hâlâ yardım etmek isteyerek Kum'isha'nın karşısında mı duruyorsun? Çok iyi, $r... Bu topraklarda seyahatlerin sırasında ne zaman kusursuz bir draenethyst küresi bulursan, onu bana getir ve seni en vahşi hayallerinin ötesindeki zenginliklerle ödüllendireyim.",
+		["Objectives"] = "Lanetli Topraklar [Blasted Lands]'daki yolculukların sırasında ne zaman Kusursuz Draenethyst Küresi [Flawless Draenethyst Sphere]'ne rastlarsan, eşyayı Toplayıcı Kum'isha [Kum'isha the Collector]'ya geri götür.$B$BDikkatli ol, bu mücevher tüm Azeroth'taki en nadir kristallerden biridir. Bu topraklardaki herhangi bir yaratık Kusursuz Bir Draenethyst Küresi [Flawless Draenethyst Sphere] tutuyor olabilir.$B$BTopladığın her Kusursuz Draenethyst Küresi [Flawless Draenethyst Sphere] için ödüllendirileceksin.",
+		["Progress"] = "Hayatımı kusursuz draenethyst kürelerini aramaya adadım. Bir ömür boyu, $R!",
+		["Completion"] = "Gözlerim beni yanıltıyor mu? İmkansız! Nereden buldun... Nasıl...$B$BBelki şimdi bir yarık açılabilir ve bizi vatanımıza geri döndürebilir.",
+		["minlevel"] = "45",
+		["questlevel"] = "55"
+	},
+	["2522"] = {
+		["Title"] = "Kum'isha'nın Çabaları",
+		["Description"] = "Portal çağırma başarısız olsa da, bir sonraki denememin başarılı olacağı konusunda umutluyum.$B$BDraenei'lerin umudu, senin ziynet eşyalarına olan açgözlülüğün kadar ateşli, $r. Bu lanetli topraklara geri dön ve başka bir kusursuz draenethyst küresi bul.$B$BTabii ki bu görevi üstlenme seçimi tamamen sana kalmış *güler*.",
+		["Objectives"] = "Kusursuz bir Draenethyst Küresi [Flawless Draenethyst Sphere] bul ve Toplayıcı Kum'isha [Kum'isha the Collector]'ya geri getir.",
+		["Progress"] = "Başka bir kusursuz draenethyst küresi buldun mu?",
+		["Completion"] = "Gerçekten harika. Başka bir küre bulabileceğinden şüphe etmiştim, ama işte burada, ellerimde titreşiyor.$B$BAferin, $N!$B$BDaha fazla bulursan--ki bunun imkansız olduğuna inanıyorum--onları bana getirin, seni tekrar ödüllendireyim.",
+		["minlevel"] = "45",
+		["questlevel"] = "55"
+	},
+	["2523"] = {
+		["Title"] = "Yozlaşmış Şarkıçiçeği",
+		["Description"] = "",
+		["Objectives"] = "",
+		["Progress"] = "Şarkıçiçeği [songflower] bitkisi gibi görünen şeyin hastalıklı, yozlaşmış bir versiyonunu buldun. Bitkiden keskin, sağlıksız bir koku yayılıyor. Tekrar normale döndürülmesi gerekiyorsa acilen bir tür bakıma ihtiyacı var.",
+		["Completion"] = "Şarkıçiçeğine biraz Cenarion bitki merhemi [Cenarion plant salve] sürüyorsun. Anında yozlaşmış formunu dökmeye başlıyor, canlı ve sağlıklı bir bitki olarak çiçek açıyor.",
+		["minlevel"] = "48",
+		["questlevel"] = "55"
+	},
+	["2581"] = {
+		["Title"] = "Kıkırdayançene Yanakları",
+		["Description"] = "Sırtlanların çenelerinde muazzam bir güç barındırdığı bilinen bir gerçektir, ancak üç inçlik toryum çeliğini koparacak güçte mi? İmkansız, muhtemel değil ve yine de bunu kendi gözlerimle gördüm.$B$BLanetli Topraklar [Blasted Lands]'a doğru yola çık ve bana üç kıkırdayançene yanağı [snickerfang jowl] getir. Kıkırdayançeneyi ararken yaban domuzlarına ve akrepbağalara dikkat et: İlk tahlilin tamamlanması için iki lanetli domuz ciğeri ve bir akrepbağa kıskaçına ihtiyacı var.",
+		["Objectives"] = "Kanbüyücüsü Drazial [Bloodmage Drazial]'a üç Kıkırdayançene Yanağı [Snickerfang Jowl], iki Lanetli Domuz Ciğeri [Blasted Boar Lung] ve bir Akrepbağa Kıskaçı [Scorpok Pincer] getir.",
+		["Progress"] = "Kötü kokuyorsun, $N. Kükürt tarlalarında mı dolaşıyordun? Ve bileşenlerim nerede?!",
+		["Completion"] = "Nasıl hissediyorsun, $N? Kıkırdayançenenin aurasıyla ışıldıyorsun--gücün ölümlülerle kıyaslanamaz!$B$BNe yazık ki bana getirdiğin bileşenlerle tahlilden sadece tek bir tablet yapabildim. Başka bir tablete ihtiyacın olursa daha fazla bileşene ihtiyacım olacak.",
+		["minlevel"] = "45",
+		["questlevel"] = "50"
+	},
+	["2582"] = {
+		["Title"] = "Çağların Öfkesi",
+		["Description"] = "Ah, $N, tekrar hoş geldin. Kıkırdayançeneden türetilen güçlü, işlevsel efsunun etkisinden keyif almış gibi görünüyorsun. Dikkatli ol, ani etki devasa bir güç patlaması olsa da, ruhun ve zekan üzerindeki uzun vadeli etkileri tehlikeli olabilir.$B$BBununla birlikte, daha fazlasına ihtiyacın var mı? Eğer öyleyse, bana üç kıkırdayançene yanağı, iki lanetli domuz ciğeri ve bir akrepbağa kıskaçı daha getir.",
+		["Objectives"] = "Kanbüyücüsü Drazial [Bloodmage Drazial]'a üç Kıkırdayançene Yanağı [Snickerfang Jowl], iki Lanetli Domuz Ciğeri [Blasted Boar Lung] ve bir Akrepbağa Kıskaçı [Scorpok Pincer] getir.",
+		["Progress"] = "Canavar organları yanında mı?",
+		["Completion"] = "İşte böyle! Unutma, idareli kullan. Başka bir tanesine ihtiyacın olursa, elindekini bitirdikten sonra beni görmeye gel.",
+		["minlevel"] = "45",
+		["questlevel"] = "50"
+	},
+	["2583"] = {
+		["Title"] = "Bir Domuzun Canlılığı",
+		["Description"] = "Bu lanetli topraklarda iki domuz türü yaşar: külyeleli domuz ve cehennem domuzu.$B$BGörünüşe göre bu canavarların dayanıklılığı onları neredeyse zararsız kılıyor, çünkü diğer hayvanlar onları öldürmeyi çok zor buluyor ve sonuç olarak bu çabaya değmiyor.$B$BDaha fazla analiz yapmamız gerekiyor, $N. Bana üç lanetli domuz ciğeri, iki akrepbağa kıskaçı ve bir bazilisk beyni getirirsen, tahlilin kalıntılarından ilahi bir iksir yaratacağım. İlk test deneğim sen olacaksın!",
+		["Objectives"] = "Kanbüyücüsü Drazial [Bloodmage Drazial]'a üç Lanetli Domuz Ciğeri [Blasted Boar Lung], iki Akrepbağa Kıskaçı [Scorpok Pincer] ve bir Bazilisk Beyni [Basilisk Brain] getir.",
+		["Progress"] = "Organlar nerede, $N!?",
+		["Completion"] = "Domuzun ruhu benliğini aydınlatıyor, $N! Merak ediyorum, kendinin de bu canavarlar kadar yenilmez olduğuna inanıyor musun?",
+		["minlevel"] = "45",
+		["questlevel"] = "50"
+	},
+	["2584"] = {
+		["Title"] = "Domuzun Ruhu",
+		["Description"] = "İksiri ilk uyguladığımda, $N, bir veya iki uygulamanın iştahını doyurmaya yetmeyeceğini söyleyebilirdim. Şimdi bile gözlerindeki açlığı görebiliyorum. Karışımın görünüşe göre en güçlü iradenin bile karşı koyamayacağı bağımlılık yapıcı özellikleri var.$B$BÖyle olsun! Ciğer suyu kokteylinden daha fazlasına ihtiyacın olursa, çorak araziye geri dön ve bana üç lanetli domuz ciğeri, iki akrepbağa kıskaçı ve bir bazilisk beyni bul.",
+		["Objectives"] = "Kanbüyücüsü Drazial [Bloodmage Drazial]'a üç Lanetli Domuz Ciğeri [Blasted Boar Lung], iki Akrepbağa Kıskaçı [Scorpok Pincer] ve bir Bazilisk Beyni [Basilisk Brain] getir.",
+		["Progress"] = "Organlar nerede, $N!?",
+		["Completion"] = "Seni uyarmalıyım, $N, oluşturduğum formülleri karıştırmaya çalışmayasın. En son yuttuğun formülün kimyasal özellikleri her zaman önceki efsunlara üstün gelecektir; böylece diğer formülü hükümsüz kılacaktır.",
+		["minlevel"] = "45",
+		["questlevel"] = "50"
+	},
+	["2585"] = {
+		["Title"] = "Kararlı Vurucu",
+		["Description"] = "Onları hiç savaşta izledin mi, $N? Akrepbağaları diyorum. Hareket ettikleri zarafeti ve çevikliği hiç gördün mü? Vuruşlarının kararlılığını?$B$BKeşke o çevikliği bir şekilde ayırıp kapsülleyebilseydik, zenginliğin ötesinde... Yani... bilimsel topluluk için harika bir şey olurdu.$B$BBana yardım et, $N, ben de tahlilin bir örneğini almana izin vereyim.$B$BKararlı bir örnek oluşturmak için üç akrepbağa kıskaçı, iki akbaba kursağı ve bir lanetli domuz ciğerine ihtiyacım olacak.",
+		["Objectives"] = "Kanbüyücüsü Drazial [Bloodmage Drazial]'a üç Akrepbağa Kıskaçı [Scorpok Pincer], iki Akbaba Kursağı [Vulture Gizzard] ve bir Lanetli Domuz Ciğeri [Blasted Boar Lung] getir.",
+		["Progress"] = "Organlar nerede, $N!?",
+		["Completion"] = "Büyüleyici. Bu, analiz edilmesi en zor tahlil oldu.$B$BBu artık tuzdan bir tutam al ve dilinin altına koy. Hafif bir coşku hissi ve ardından eşi benzeri görülmemiş bir çeviklik ve hız durumu yaşamalısın.",
+		["minlevel"] = "45",
+		["questlevel"] = "50"
+	},
+	["2586"] = {
+		["Title"] = "Akrepbağa Tuzu",
+		["Description"] = "Yaşıyorsun! Bu gerçekten iyi bir haber. Sanırım akrepbağa tahlilinden daha fazlası için geri döndün?$B$BÇok iyi, $N, çorak araziye geri dön ve üç akrepbağa kıskaçı, iki akbaba kursağı ve bir lanetli domuz ciğeri toplayana kadar geri dönme.",
+		["Objectives"] = "Kanbüyücüsü Drazial [Bloodmage Drazial]'a üç Akrepbağa Kıskaçı [Scorpok Pincer], iki Akbaba Kursağı [Vulture Gizzard] ve bir Lanetli Domuz Ciğeri [Blasted Boar Lung] getir.",
+		["Progress"] = "Organlar nerede, $N!?",
+		["Completion"] = "İyi iş, $N. İşte sana tahlilin bir örneği ve kalan dokuzu araştırmalarımda kullanılacak.$B$BÖğütülmüş akrepbağa tahlilinden daha fazlasına ihtiyacın olduğunda bana dön, bir anlaşma yaparız.",
+		["minlevel"] = "45",
+		["questlevel"] = "50"
+	},
+	["2601"] = {
+		["Title"] = "Bazilisk Isırığı",
+		["Description"] = "Bu çorak araziler kızıltaş baziliskleriyle dolu, $N. Bu baziliskler bölgedeki diğer tüm yaban hayatından daha fazla uyum sağladı ve gelişti.$B$BAvlanırken ve günlük aktivitelerini yaparken onları uzaktan izledim - yaratıklar bazı insansılardan bile daha karmaşık bir düşünce süreci sergiliyor.$B$BBeyinlerini incelemeliyim!$B$BBana beyinlerinden dördünü getir, $N. Ancak çözeltinin tabanını oluşturmak için iki akbaba kursağı olmadan bileşik tamamlanamaz.",
+		["Objectives"] = "Kanbüyücüsü Lynnore [Bloodmage Lynnore]'a dört Bazilisk Beyni [Basilisk Brain] ve iki Akbaba Kursağı [Vulture Gizzard] getir.",
+		["Progress"] = "İstenen organlarla geri döndün mü?",
+		["Completion"] = "Bu harika, $N! Sana sunduğum teklif, kızıltaş bazilisklerinin iç işleyişinin bir tadı.$B$BBileşik hoşuna giderse, bir bedel karşılığında... her zaman daha fazlası yapılabilir.",
+		["minlevel"] = "45",
+		["questlevel"] = "50"
+	},
+	["2602"] = {
+		["Title"] = "Kusursuz Zihin",
+		["Description"] = "Odaklanmış konsantrasyonun bu kadar çabuk mu azaldı? Daha fazla araştırma yapılmalı!$B$BOh evet, fiyat aynı kalıyor, $N. Lanetli topraklara git ve kızıltaştan dört beyin ve iki akbaba kursağı ile bana geri dön.",
+		["Objectives"] = "Kanbüyücüsü Lynnore [Bloodmage Lynnore]'a dört Bazilisk Beyni [Basilisk Brain] ve iki Akbaba Kursağı [Vulture Gizzard] getir.",
+		["Progress"] = "İstenen organlarla geri döndün mü?",
+		["Completion"] = "Evet, evet, bana bir dakika ver ve tüketimin için daha fazla bileşik hazır olacak, $N.$B$BAl bunu... ve $N, bu deneysel karışımları hızlı bir şekilde arka arkaya tüketmeye çalışma. Sonuçlar felaket olabilir.",
+		["minlevel"] = "45",
+		["questlevel"] = "50"
+	},
+	["2603"] = {
+		["Title"] = "Akbabanın Canlılığı",
+		["Description"] = "Odaklanmış konsantrasyonun bu kadar çabuk mu azaldı? Daha fazla araştırma yapılmalı!$B$BOh evet, fiyat aynı kalıyor, $N. Lanetli topraklara git ve kızıltaştan dört beyin ve iki akbaba kursağı ile bana geri dön.",
+		["Objectives"] = "Kanbüyücüsü Lynnore [Bloodmage Lynnore]'a dört Akbaba Kursağı [Vulture Gizzard] ve iki Kıkırdayançene Yanağı [Snickerfang Jowl] getir.",
+		["Progress"] = "Vaktimi boşa harcama, $N. İstediğim eşyaları geri getirmediysen konuşacak bir şeyimiz yok.",
+		["Completion"] = "Çok mükemmel! Hemen işe koyulacağım. Belki de dünyadaki pek çok hastalığın çaresi bulunacak!$B$BAh evet, ödülün - elbette, sakıza daha fazla ihtiyacın olursa bana geri dön ve sana başka bir görev verilsin.",
+		["minlevel"] = "45",
+		["questlevel"] = "50"
+	},
+	["2604"] = {
+		["Title"] = "Ruhani Hükümranlık",
+		["Description"] = "İçteki ateşin azaldığını görüyorum. Ruhsal coşkunun bir saat sürdüğünü söyler miydin?$B$BArzuladığın şey kursak sakızından daha fazlasıysa, daha fazla kursak istemeliyim. Çorak araziye geri dön, $N. Dört kursak ve iki yanak bulana kadar geri dönme.",
+		["Objectives"] = "Kanbüyücüsü Lynnore [Bloodmage Lynnore]'a dört Akbaba Kursağı [Vulture Gizzard] ve iki Kıkırdayançene Yanağı [Snickerfang Jowl] getir.",
+		["Progress"] = "Vaktimi boşa harcama, $N. İstediğim eşyaları geri getirmediysen konuşacak bir şeyimiz yok.",
+		["Completion"] = "Belki bir gün bu tahlilin aktif enzimlerini ayırıp çok daha verimli bir sonuç üretebilirim. Ne yazık ki, şu anda üretebildiğim şeyle yetinmek zorunda kalacaksın. Daha fazla kursak sakızına ihtiyacın olursa bana geri dön.",
+		["minlevel"] = "45",
+		["questlevel"] = "50"
+	},
+	["2621"] = {
+		["Title"] = "Aşağılanan Kişi",
+		["Description"] = "Pişmanlık. Şimdi tek sahip olduğum bu. Birkaç korkunç sonuçla sonuçlanan kötü bir karar. Keşke o emirleri bekleseydim. Belki o lanetli topraklarda bizi bekleyen dehşetleri detaylandırırlardı! Belki de bizi başka bir göreve yönlendireceklerdi? En nihayetinde bu benim hatamdı. Hepsi benim hatamdı.$B$Bİşte burada durmuş emir bekliyorum. Bilmeliyim. O emirlere sahip olmalıyım.$B$BSevkiyat Komutanı Ruag [Dispatch Commander Ruag], Taşbarın [Stonard]'da yaşıyor. Onu bul ve emirlere ne olduğunu öğren.",
+		["Objectives"] = "Taşbarın [Stonard]'daki Sevkiyat Komutanı Ruag [Dispatch Commander Ruag] ile konuş.",
+		["Progress"] = "",
+		["Completion"] = "Thrall'ın Kavrayışı... Hikaye hâlâ aklımda taze.$B$B<Komutan Ruag başını sallar>$B$BO alaya olan korkunç şey. O tabur yok edildiğinde Horde en iyi askerlerinden bazılarını kaybetti.",
+		["minlevel"] = "45",
+		["questlevel"] = "50"
+	},
+	["2681"] = {
+		["Title"] = "Bizi Bağlayan Taşlar",
+		["Description"] = "Razelikh ve astlarının güçlerinin üstesinden gelmek tek başına senden fazlasını gerektirecektir.$B$BUygun bir maceracı grubu topla ve adamlarımı sonsuz işkencelerinden kurtar! Paralaman gereken on sekiz taş var.$B$BSert savaş ve onurunla öl, $N.",
+		["Objectives"] = "Dokuz Razelikh Hizmetkarı [Servant of Razelikh], üç Sevine Hizmetkarı [Servant of Sevine], üç Allistarj Hizmetkarı [Servant of Allistarj] ve üç Grol Hizmetkarı [Servant of Grol]'nı özgürlüğüne kavuştur. Görevin tamamlandığında Düşmüş Kahraman [Fallen Hero]'a dön. Taşların çok yakınında kalmalısın yoksa süreç başarısız olur.",
+		["Progress"] = "Kolay bir görev değil, $N. Pes etme!",
+		["Completion"] = "Başardın, $N! Zavallı, işkence görmüş ruhlar sonunda dinlenebilir.$B$Bİşimiz henüz bitmedi, $N. Tartışacak çok şeyimiz ve başaracak daha çok şeyimiz var.",
+		["minlevel"] = "45",
+		["questlevel"] = "57"
+	},
+	["2701"] = {
+		["Title"] = "Eski Zaman Kahramanları",
+		["Description"] = "Lütfen, bundan eski bir kalıntı al. Artık eşyaya ihtiyacımız yok.$B$BLejyona karşı savaşında sana iyi hizmet etsin.",
+		["Objectives"] = "Sandığı aç ve ödülünü talep et.",
+		["Progress"] = "",
+		["Completion"] = "Pırıltı ve ışıltıdan geçici olarak kör oluyorsun.",
+		["minlevel"] = "45",
+		["questlevel"] = "57"
+	},
+	["2702"] = {
+		["Title"] = "Eski Zaman Kahramanları",
+		["Description"] = "Soyluluğun ve kahramanlığınla beni onurlandırdın, $N.$B$BOnları da onurlandırdın...",
+		["Objectives"] = "Onbaşı Thund Yarıktoynak [Corporal Thund Splithoof] ile konuş.",
+		["Progress"] = "",
+		["Completion"] = "Gerçekten de hepimizi onurlandırdın. Sadece teşekkürlerimiz yeterli değil.",
+		["minlevel"] = "45",
+		["questlevel"] = "57"
+	},
+	["2721"] = {
+		["Title"] = "Kirith",
+		["Description"] = "Maceranın bir bölümü kapanırken yenisi başlıyor, $N.$B$BAdamlarımdan birinin hâlâ nerede olduğu bilinmiyor, Lanetli Topraklar [Blasted Lands]'ın bir yerinde kayboldu. Tabii ki Teğmen Kirith [Lieutenant Kirith]'ten bahsediyorum.$B$BDaha önce de belirttiğim gibi, ikimiz de Allistarj tarafından hapsedildik ve işkence gördük, ama zavallı Kirith'in iradesi zayıfladı. İşkence çığlıklarını kafesimden duyabiliyordum; Mağaranın koridorlarında çınlayan işkence çığlıkları. Kirith'i en son gördüğüm ya da duyduğum an oldu.",
+		["Objectives"] = "Teğmen Kirith [Lieutenant Kirith]'e ne olduğunu öğren.",
+		["Progress"] = "",
+		["Completion"] = "Trebor? Seni Trebor mu gönderdi?",
+		["minlevel"] = "45",
+		["questlevel"] = "58"
+	},
+	["2742"] = {
+		["Title"] = "Rin'ji Tuzağa Düştü!",
+		["Description"] = "Hey $r!$B$BRin'ji baltasını kaybetti ve yakalandı! Lütfen, Rin'ji'nin kaçmasına yardım et. $r senin gibilerin Rin'ji gibilerden hoşlanmadığını biliyorum ama Rin'ji yalvarıyor! Buradan çıkmalıyım!$B$BEğer Rin'ji'ye buradan çıkması için yardım ederse iyi $Gerkek:kadın; için bir şey var...$B$BRin'ji, Gözetleme Kayalıkları [Overlook Cliffs]'da gizli bir şey saklıyor.",
+		["Objectives"] = "Rin'ji'ye Quel'Danil Köşkü [Quel'Danil Lodge]'nden çıkması için eşlik et, ardından doğudaki Gözetleme Kayalıkları [Overlook Cliffs]'ndaki gizli sırrını bul.",
+		["Progress"] = "Rin'ji korkuyor!",
+		["Completion"] = "Bu troll tableti Rin'ji'nin bahsettiği \"sır\" olmalı.$B$BGarip işaretlerle kaplı, tabletin ne söylediğini çözemiyorsun.$B$BOran Yılangazap [Oran Snakewrithe] seni en başında bu bölgeye göndermişti... Belki sana bu konuda daha fazla şey söyleyebilir.",
+		["minlevel"] = "42",
+		["questlevel"] = "47"
+	},
+	["2743"] = {
+		["Title"] = "Karanlığın Örtüsü",
+		["Description"] = "Lafı dolandırmayalım, $r; buradaki vaktim kısıtlı.$B$Bİblis lordu Razelikh'i koruyan üçlü gücü yok etmelisin. Bunu yapmak, lanetlenmiş bir ruhu özgür bırakmak kadar basit bir görev olmayacak.$B$B<Kirith sırıtır.>$B$BGörüyorsun ya, Razelikh'in astlarının her biri, boyunlarında Razelikh'in yarattığı muskanın üçte birini taşıyor. Baş iblisi çağırmak için ihtiyacın olan muskanın aynısı.$B$BTrebor'a dön ve Razelikh'i çağırmak için ne gerektiğini anlat. Sana daha fazla talimat verebilecektir.",
+		["Objectives"] = "Bulgularınla Horde'un Düşmüş Kahramanı [Fallen Hero of the Horde]'na dön.",
+		["Progress"] = "",
+		["Completion"] = "İblis lordu acımasızlığı kadar hesaplı bir kurnazlık sergiliyor, $N.",
+		["minlevel"] = "45",
+		["questlevel"] = "60"
+	},
+	["2744"] = {
+		["Title"] = "İblis Avcısı",
+		["Description"] = "Üçlü güç Razelikh tarafından korunuyor.$B$BHizmetleri karşılığında Razelikh, her birine Lanetli Topraklar [Blasted Lands] içinde neredeyse sınırsız güç bahşetti. Muska parçalarının her biri sahibinin yaşam gücüne uyarlanmıştır ve onlara ölümsüzlük kazandırır. Lanetli Topraklar [Blasted Lands]'da kaldıkları sürece katledilemezler, yaşam süreleri günlerin sonuna kadar uzatılır.$B$BSana daha fazla yardımcı olabilecek biri var, $N. Azshara'ya seyahat et ve iblis avcısı Loramus Thalipedes'i bul. Adaları ara.",
+		["Objectives"] = "Azshara'daki Loramus Thalipedes ile konuş.",
+		["Progress"] = "Burada ne yapıyorsun?",
+		["Completion"] = "Sana yardım edeceğim. Yine de neyle karşı karşıya olduğunu tam olarak anladığını sanmıyorum.",
+		["minlevel"] = "45",
+		["questlevel"] = "60"
+	},
+	["2751"] = {
+		["Title"] = "Barbar Surları",
+		["Description"] = "Omosh'un yirmi nesli bu çekici tuttu, $N. Yüz bin ton metale şekil verdik. Trajik bir şekilde, hepsi Orokk'ta, Omosh'un başarısızlığında sona eriyor: Akrabası yok ve soy üretemiyor.$B$BOmosh'un gizli tariflerinin benimle ölmesine izin veremem! Omosh olsun ya da olmasın, birileri mirası sürdürmeli!$B$BOrokk'a yetenekli olduğunu kanıtla, $N. Orokk için şunları getir: İki desenli tunç kolçak, iki tunç büyükkılıç ve iki keskin pençe. Onları Orokk için getir ve devam edelim.",
+		["Objectives"] = "Orgrimmar'daki Orokk Omosh'a iki Desenli Tunç Kolçak [Patterned Bronze Bracer], iki Tunç Büyükkılıç [Bronze Greatsword] ve iki Keskin Pençe [Sharp Claw] getir.",
+		["Progress"] = "Tunç, $N! Daha fazla tunç!!",
+		["Completion"] = "Soy kaybolacak ama belki Omosh efsanesi devam edecek!$B$BBir demirci olduğunu kanıtladın, $N. Demirci için ödül, silahlarının ve zırhlarının düşmanlarının kanıyla kaplandığını görmenin tatminidir!$B$BGelecek nesiller için oluşturduğun göğüslükler düşmanlarının kanına bulansın!",
+		["minlevel"] = "32",
+		["questlevel"] = "32"
+	},
+	["2752"] = {
+		["Title"] = "Demir Omuzluklar Üzerine",
+		["Description"] = "Orokk gözlerindeki hevesi görüyor, $N. Bir sünger gibi Omosh'un bilgeliğini emiyorsun.$B$BÖğreteceğim üç ders var!$B$BÖrse geri dön, ocağın ısısını em, Orokk için dört tunç savaş baltası ve dört tunç savaş çekici oluştur. Ancak o zaman demir omuzluğu öğreneceksin.",
+		["Objectives"] = "Orgrimmar'daki Orokk Omosh'a dört Tunç Savaş Baltası [Bronze Battleaxe] ve dört Tunç Savaş Çekici [Bronze Warhammer] getir.",
+		["Progress"] = "Bana adanmışlığını göster, $R.",
+		["Completion"] = "Orokk'u gururlandırıyorsun, $N. Oku, demir omuzları öğren!",
+		["minlevel"] = "32",
+		["questlevel"] = "32"
+	},
+	["2753"] = {
+		["Title"] = "Ayaklar Altında Çiğnenmiş",
+		["Description"] = "Orokk'un öğreteceği sadece iki ders kaldı, $N. Kasların ağrıyor, biliyorum ama Omosh için devam et!$B$BOrokk'a dört yeşil demir miğfer, dört yeşil demir kolçak ve iki yeşil demir pantolon getir - bunun için öğreniyorsun ve düşmanların acı çekiyor!",
+		["Objectives"] = "Orgrimmar'daki Orokk Omosh'a dört Yeşil Demir Miğfer [Green Iron Helm], dört Yeşil Demir Kolçak [Green Iron Bracer] ve iki Yeşil Demir Pantolon [Green Iron Leggings] getir.",
+		["Progress"] = "Çizmelerinin baskısı altında kafatasları çatlayacak!",
+		["Completion"] = "Orokk'a dedesi Omosh Şefi Gorokk'u hatırlatıyorsun! Oku, demir çizmeyi öğren.",
+		["minlevel"] = "32",
+		["questlevel"] = "36"
+	},
+	["2754"] = {
+		["Title"] = "Çılgınlık Boynuzları",
+		["Description"] = "Orokk'un sana öğrettiği son ders, $N. Kutsal örse ve ocağa geri dönüyorsun! Orokk için iki som demir tokmak, iki gümüş kaplama tunç çizme ve iki gümüş kaplama tunç eldiven getir.$B$BSen yaklaşırken gözlerindeki korkuyu gör!",
+		["Objectives"] = "Orgrimmar'daki Orokk Omosh'a iki Som Demir Tokmak [Solid Iron Maul], iki Gümüş Kaplama Tunç Çizme [Silvered Bronze Boots] ve iki Gümüş Kaplama Tunç Eldiven [Silvered Bronze Gauntlets] getir.",
+		["Progress"] = "Demire kimin patron olduğunu göster, $N!",
+		["Completion"] = "Şaşırtıcı! Omosh'un yolunu öğrendin, $N!",
+		["minlevel"] = "32",
+		["questlevel"] = "36"
+	},
+	["2755"] = {
+		["Title"] = "Omosh'un Sevinçleri",
+		["Description"] = "Orokk ağlamıyor, $N. Gözüne kurum kaçtı.$B$B<Orokk bir gözyaşını siler.>$B$BOrokk'un sana öğreteceği son bir Omosh aile sırrı var. Orokk mutlu ölecek, $N sayesinde.$B$BOmosh sevinç dansını öğren ve sonra demir yumruğu öğren!",
+		["Objectives"] = "Omosh Sevinç Dansı'nı izle ve öğren.",
+		["Progress"] = "",
+		["Completion"] = "<Orokk soluk soluğa kalır.>$B$BOrokk'un Omosh sevinç dansını yapmasının üzerinden çok uzun zaman geçti. Şimdi öğren, $N!",
+		["minlevel"] = "32",
+		["questlevel"] = "36"
+	},
+	["2756"] = {
+		["Title"] = "Eski Yollar",
+		["Description"] = "Efsaneler çağında Aturk, düşmanlarının kafataslarını ezer ve kemiklerini liflerde kullanılmak üzere ince bir toz haline getirirdi. O günler geride kaldı, $r. Savaşşefi klanlar arasında barış çağrısında bulunuyor. Eski düşmanlar artık sadece yorgun gözlerle izleniyor!$B$Bİnanılmaz, biliyorum ama Thrall'ın iradesi böyle.$B$BAğıt yaktığımız yeter! Öğrenmek için buradasın ve öğreneceksin! Bana dört çelik göğüslük ve dört çelik miğfer getir, savaşın tadını çıkar!",
+		["Objectives"] = "Orgrimmar'daki Örs Aturk [Aturk the Anvil]'a dört Çelik Göğüslük [Steel Breastplate] ve dört Çelik Plaka Miğfer [Steel Plate Helm] getir.",
+		["Progress"] = "Aturk, zaman gibi, kimseyi beklemez! Acele et aptal!",
+		["Completion"] = "Görünüşe göre Savaşşefi'nin bir başka halinden memnun lemmingsisin, $N. Ne kadar hayal kırıklığı yaratıcı.$B$BSavaş alanında şanlı bir ölüm için nasıl da yanıp tutuşuyorum. Bunun yerine, Thrall'ın emriyle bebeklere zanaat öğretmek için buraya tıkılıp kaldım! İzle ve öğren, çocuk!",
+		["minlevel"] = "40",
+		["questlevel"] = "40"
+	},
+	["2757"] = {
+		["Title"] = "Ya Yağma Körfezi Ya Hiç!",
+		["Description"] = "Dinle çocuk, buralarda dolanarak hiçbir şey öğrenemeyeceksin.$B$BBirini tanıyan bir adam tanıyorum. Yağma Körfezi [Booty Bay]'deki demirci dükkanının etrafında takılır. Ona bu nişanı gösterirsen sana mithril hakkında her şeyi anlatacaktır.$B$BEee ne diyorsun? Bu çocukça şeyleri bezli bebeklere bırak, $N -- yoluna devam etme zamanı geldi.$B$BEğer ilgileniyorsan, adı McGavan. Ona bu ziyneti göster, adanmışlığını tanıyacaktır.",
+		["Objectives"] = "Yağma Körfezi [Booty Bay]'ndeki McGavan ile konuş.",
+		["Progress"] = "Senin türün nadir bir soy, dostum. Şu nişanı göreyim.",
+		["Completion"] = "Siyahyapağı'nın sırt kılı adına -- sonunda, Mithril Tarikatı'na layık biri!",
+		["minlevel"] = "40",
+		["questlevel"] = "40"
+	},
+	["2758"] = {
+		["Title"] = "Demirciliğin Kökenleri",
+		["Description"] = "Yaklaşık senin yaşlarındayken, Galvan adında bir cüce beni kanatlarının altına aldı ve zırh demirciliği yollarında eğitti. Yağma Körfezi [Booty Bay]'ne gitmeden önce, demircilik zanaatında ilerlemek isteyen ve kararlı olan herkesi eğitmem için bana söz verdirdi -- işte buradayım -- bunca yıl sonra.$B$BŞimdi bir şeyler öğrenme zamanın geldi. Bana altı altın pullu kolçak yap, demirciliğin nereden geldiğini öğreneceksin, $N.",
+		["Objectives"] = "Fırtınayeli [Stormwind]'ndeki Çekiç Hank [Hank the Hammer]'e altı Altın Pullu Kolçak [Golden Scale Bracer] getir.",
+		["Progress"] = "Bir sonraki Galvan çırağı sen olabilir misin?",
+		["Completion"] = "Çok iyi, $N! Dinle ve öğren.$B$BDemircilik asla buradan gelmez! <Hank çekicini işaret eder.>$B$BDemircilik asla buradan gelmez! <Hank örsü işaret eder.>$B$BDemircilik sadece buradan gelir! <Hank kalbini işaret eder.>$B$BVe artık demirciliğin kökenini biliyorsun.",
+		["minlevel"] = "40",
+		["questlevel"] = "40"
+	},
+	["2759"] = {
+		["Title"] = "Galvan'ın İzinde",
+		["Description"] = "Galvan yıllar önce Yağma Körfezi [Booty Bay]'nden ayrılmış olsa da, tarikatın üyeleri kasabada kalmaya devam ediyor, bir gün Galvan'ın rehberliğine layık başka birini bulmayı umuyorlar.$B$BBu nişanı al ve Yağma Körfezi [Booty Bay]'ndeki McGavan'a sun.$B$BGerçekten o kadar uzağa gidebilirsen, layık olduğunu anlayacaktır. İnancım tam, $N!",
+		["Objectives"] = "Yağma Körfezi [Booty Bay]'ndeki McGavan ile konuş.",
+		["Progress"] = "Senin türün nadir bir soy, dostum. Şu nişanı göreyim.",
+		["Completion"] = "Siyahyapağı'nın sırt kılı adına -- sonunda, Mithril Tarikatı'na layık biri!",
+		["minlevel"] = "40",
+		["questlevel"] = "40"
+	},
+	["2760"] = {
+		["Title"] = "Mithril Tarikatı",
+		["Description"] = "Acemilerimizin çoğu asla Yağma Körfezi [Booty Bay]'ne ulaşamaz, $N. Nişanın parlaklığı, en kararlı demircilerde bile ganimet arzusunu tetiklemeye yeterlidir. Aptaldırlar, çünkü nişan göreceğin eşya zenginliğine kıyasla devede kulaktır!$B$BKadim Galvan'ı bul ve ona bu iğneyi göster. İkametgahı uzakta, kuzeyde, Zul'Gurub ile Mosh'Ogg ogre höyüğü arasında.",
+		["Objectives"] = "Stranglethorn Vadisi [Stranglethorn Vale]'ndeki Kadim Galvan [Galvan the Ancient] ile konuş.",
+		["Progress"] = "Selam! Yaklaş; Galvan'a neyin olduğunu göster.",
+		["Completion"] = "Ah, Mithril Tarikatı'nın inisiyasyonuna layık birinin çıkmasından bu yana uzun yıllar geçti. Şimdi başlayacağız!",
+		["minlevel"] = "40",
+		["questlevel"] = "40"
+	},
+	["2761"] = {
+		["Title"] = "Erimeye Devam",
+		["Description"] = "Pek çok demirci madencilik ve demirciliğin ayrı, bağımsız işler olduğuna inanır; ama madencilik olmadan demircilik olabilir mi? Ah ha -- bu imkansız! Başarılı demirci aynı zamanda başarılı bir madenci olmalıdır.$B$BGalvan'a yetenekli olduğunu göster, $N. Bana kırk külçe demir ve kırk külçe mithril getir. Bunun karşılığında Galvan sana süslü mithril pantolonun yollarını öğretecek!",
+		["Objectives"] = "Stranglethorn'daki Kadim Galvan [Galvan the Ancient]'a kırk Mithril Külçesi [Mithril Bar] ve kırk Demir Külçesi [Iron Bar] getir.",
+		["Progress"] = "Böyle bir madencilikten sonra kasların şişiyor ve vücudun ağrıyor!",
+		["Completion"] = "Çalışma ahlakın kusursuz, $N! Galvan mineralojisinin yollarını anlamaya başlıyorsun! Bunu al ve ondan öğrenebildiğin her şeyi öğren.",
+		["minlevel"] = "40",
+		["questlevel"] = "45"
+	},
+	["2762"] = {
+		["Title"] = "Büyük Gümüş Aldatıcı",
+		["Description"] = "Hagümüşün mithrilden daha güçlü ve daha dayanıklı olduğu söylenir. Galvan minerallerin bu değerlendirmesine katılmıyor, ancak adının aksine hagümüş gerçek değil! Mithril çok daha soylu bir mineraldir! HAH! Ne olursa olsun, bu ders için büyük gümüş aldatıcıyı bulman gerekecek, $N.$B$BBana kırk külçe mithril ve beş külçe hagümüş getir. Karşılığında sana süslü mithril eldivenin sırrı öğretilecek ve daha da önemlisi hagümüşün bir yalancı olduğunu öğreneceksin!",
+		["Objectives"] = "Stranglethorn'daki Kadim Galvan [Galvan the Ancient]'a kırk Mithril Külçesi [Mithril Bar] ve beş Hagümüş Külçesi [Truesilver Bar] getir.",
+		["Progress"] = "Böyle bir madencilikten sonra kasların şişiyor ve vücudun ağrıyor!",
+		["Completion"] = "O zalim bir kadın, değil mi, $N? Doğal olarak hagümüşten bahsediyorum. Evet, Galvan bu dersi öğrenmek için Alterac dağlarında on yıldan fazla zaman harcadı. Bunu al ve ondan öğrenebildiğin her şeyi öğren!",
+		["minlevel"] = "40",
+		["questlevel"] = "45"
+	},
+	["2763"] = {
+		["Title"] = "Efsunlama Sanatı",
+		["Description"] = "Değerli taşların toplanması zanaatımız için son derece önemlidir, $N. Pek az taş sitrinden daha değerlidir. Eşyalarımıza efsunladığımız büyülü özellikler, sitrinin varlığıyla büyük ölçüde artar.$B$BBu ders için kırk külçe mithrili dört sitrin ile güçlendireceğiz. Sonuç olarak büyülü gemolojinin daha iyi anlaşılması ve süslü mithril omuzluklar oluşturma bilgisi elde edilecek.",
+		["Objectives"] = "Stranglethorn'daki Kadim Galvan [Galvan the Ancient]'a kırk Mithril Külçesi [Mithril Bar] ve dört Sitrin [Citrine] getir.",
+		["Progress"] = "Böyle bir madencilikten sonra kasların şişiyor ve vücudun ağrıyor!",
+		["Completion"] = "İnsan gözlerini onun ihtişamından zar zor ayırabiliyor, $N. Evet, sitrin şanlı bir mücevher.$B$BDikkat et ve böyle bir keşfin bize ne öğretebileceğini öğren!",
+		["minlevel"] = "40",
+		["questlevel"] = "45"
+	},
+	["2764"] = {
+		["Title"] = "Galvan'ın En İyi Öğrencisi",
+		["Description"] = "Galvan ile eğitiminizi tamamlamaya hazırsan, Gadgetzan'a gitmelisin.$B$BOrada en iyi öğrencimi bulacaksın: Trenton Işıkçekici [Trenton Lighthammer]. Süslü mithril konusunda sana öğretecek çok şeyi var. Aksi takdirde burada kal ve öğren!$B$BOh, Gadgetzan tabii ki Tanaris'te!",
+		["Objectives"] = "Gadgetzan'daki Trenton Işıkçekici [Trenton Lighthammer] ile konuş.",
+		["Progress"] = "",
+		["Completion"] = "Seni Kadim Galvan mı gönderdi??$B$B<Trenton eğilir.>$B$BUstanın bir başka öğrencisiyle tanışmak büyük bir onur!",
+		["minlevel"] = "40",
+		["questlevel"] = "45"
+	},
+	["2765"] = {
+		["Title"] = "Uzman Demirci!",
+		["Description"] = "Bana ilk geldiğinde, en iyi öğrencilerimden biri olacağını biliyordum! McGavan'a biraz güçlü bir ziyneti tereddüt etmeden verdin. Bunu sadece benimle tanışabilmek için yaptın. Zanaata olan böylesine kör bir inanç ve adanmışlık ödüllendirilmelidir.$B$BDemircilik konusunda uzmanlığa ulaştın, $N. Ödüllerini topla!",
+		["Objectives"] = "Ödülünü Kadim Galvan [Galvan the Ancient]'dan talep et!",
+		["Progress"] = "",
+		["Completion"] = "Buraya gelmek için feda ettiğin ziynetten çok daha büyük güce sahip bir ziynet almandan daha doğal bir şey olamaz. Sağlıkla kullan, $N.",
+		["minlevel"] = "40",
+		["questlevel"] = "45"
+	},
+	["2767"] = {
+		["Title"] = "OOX-22/FE'yi Kurtar!",
+		["Description"] = "Cücenin [gnome] sesi robottan bir kez daha cızırdıyor:$B$B\"Uzun bir kalkış prosedürüne başlayabilmesi için OOX-22/FE'yi açık, güvenli bir yere taşımam gerekiyor. Yerleşik pelerinleme özelliği var ama tekrar çalışır hale getirmek için kendi tarafımda zamana ihtiyacım var. Robotu şu anki konumundan, diyelim ki Unutulmuş Kıyı [Forgotten Coast] boyunca uzanan rıhtıma kadar koru! İşleri çevrimiçi hale getirmek için mükemmel bir yer ve yeterince uzun bir yol olmalı!\"$B$B\"Onu güvenli bir şekilde rıhtıma götür ve ardından gelip Yağma Körfezi [Booty Bay]'nde benimle konuş! Oglethorpe Obnoticus - kapatıyor!\"",
+		["Objectives"] = "OOX-22/FE'ye Unutulmuş Kıyı [Forgotten Coast] boyunca uzanan rıhtıma kadar eşlik et, ardından Yağma Körfezi [Booty Bay]'ndeki Oglethorpe Obnoticus'a rapor ver.",
+		["Progress"] = "Evet, ben Oglethorpe Obnoticus, hizmetinizde usta mucit! Şimdi, size yardımcı olabileceğim bir şey var mı?",
+		["Completion"] = "Oh, OOX-22/FE'nin büyük kurtarıcısı SENSİN! Yardımın için teşekkürlerimi ifade etmeye nereden başlayacağımı bilemiyorum! Homing robot serimin daha fazla geliştirilmeye ihtiyacı var, ancak kurtarman beni sayısız saatlik ekstra yeniden inşa süresinden ve üretim maliyetlerinde birçok altın parçadan kurtardı!$B$BLütfen elimdeki bu eşyalardan istediğini seç. Cömert yardımın için tekrar teşekkürler $N, robotlarım ve ben sana borçluyuz!",
+		["minlevel"] = "40",
+		["questlevel"] = "45"
+	},
+	["2771"] = {
+		["Title"] = "Omuzlarında İyi Bir Baş",
+		["Description"] = "Sanki usta bunu en başından beri planlamış gibi. Bana senin yapmayı öğrendiğin eşyaları yapmak öğretilmedi ve sana da benim yapmayı öğrendiğim eşyalar öğretilmedi.$B$BUsta bilge biri, $N. Birbirimize öğreteceğiz!$B$BBana mithril başlık ve süslü mithril omuzluk yapmayı göster, ben de sana süslü mithril miğfer oluşturmayı göstereyim.",
+		["Objectives"] = "Trenton Işıkçekici [Trenton Lighthammer]'ne iki Mithril Başlık [Mithril Coif] ve bir Süslü Mithril Omuzluk [Ornate Mithril Shoulder] getir.",
+		["Progress"] = "Eşyaların üretimini tamamladın mı, $N?",
+		["Completion"] = "Mükemmel! Kendim söylüyorum diye değil ama adil bir takas. İzle ve öğren, $N!",
+		["minlevel"] = "40",
+		["questlevel"] = "45"
+	},
+	["2772"] = {
+		["Title"] = "Dünya Ayaklarının Altında",
+		["Description"] = "Geçen yılki Tüm Vadi Demircilik Şampiyonası'nda izleyen herkes, Venture Şirketi Dökümhanesi [Venture Co. Foundry]'nden korkak bir köpek tarafından bacağımın altımdan süpürüldüğünü gördü. Ancak bilmedikleri şey, devam edebilmemin ve en nihayetinde turnuvayı kazanabilmemin sebebiydi: Doğru, süslü mithril çizmeler!$B$BBu yılki turnuva için süslü mithril pantolon yapmayı öğrenmem gerekecek, zira bir Venture Şirketi [Venture Co.] biçerdöveri de katılıyor! Bana pantolonun yolunu öğret ve çizmelerin yolunu öğren!",
+		["Objectives"] = "Trenton Işıkçekici [Trenton Lighthammer]'ne iki Ağır Mithril Çizme [Heavy Mithril Boots] ve bir Süslü Mithril Pantolon [Ornate Mithril Pants] getir.",
+		["Progress"] = "Eşyaların üretimini tamamladın mı, $N?",
+		["Completion"] = "Dünya ayaklarının altında olacak, $N! Bacaklarına saldırsınlar bakalım, çünkü artık devrilemezsin!",
+		["minlevel"] = "40",
+		["questlevel"] = "45"
+	},
+	["2773"] = {
+		["Title"] = "Mithril Çocuk",
+		["Description"] = "Bu buralarda bana Mithril Çocuk derler. Dünyanın dört bir yanından gelen maceracılara süslü mithril sağlıyorum.$B$B<Trenton fısıldar.>$B$BSüslü mithril eldiven yapma tekniğini bilmediğimi pek azı bilir. Şşşt! Bu bizim küçük sırrımız olsun.$B$BBana süslü mithril eldiven yapma tekniğini öğret, $N, ben de karşılığında sana Galvan altındaki eğitimimin zirve noktasını göstereyim: süslü mithril göğüslük.",
+		["Objectives"] = "Trenton Işıkçekici [Trenton Lighthammer]'ne iki Ağır Mithril Göğüslük [Heavy Mithril Breastplate] ve bir Süslü Mithril Eldiven [Ornate Mithril Gloves] getir.",
+		["Progress"] = "Eşyaların üretimini tamamladın mı, $N?",
+		["Completion"] = "Bana öğrettiğin her şey için teşekkür ederim, $N. Süslü mithril setinin ustası ve komutanı yakında senin elinde olacak.$B$BIşte bak!",
+		["minlevel"] = "40",
+		["questlevel"] = "45"
+	},
+	["2782"] = {
+		["Title"] = "Rin'ji'nin Sırrı",
+		["Description"] = "Tablet Solukkabuk [Witherbark] trollü işaretleriyle kaplı. Rin'ji'nin sırrı gerçekten bir gizem...$B$BBurada elinizde çok değerli bir şey olması mümkün. Öte yandan, tam tersi de mümkün. Zor durumdaki bir Solukkabuk [Witherbark] trollü, başının beladan kurtulması için muhtemelen her şeyi yapar...",
+		["Objectives"] = "Solukkabuk [Witherbark] trolleriyle ilgili konularda tanınmış bir bilgin olan Oran Yılangazap [Oran Snakewrithe], tableti çözebilir. AltŞehir [Undercity]'in Büyü Mahallesi [Magic Quarter]'nde yaşadığı bilinmektedir.",
+		["Progress"] = "Peki, bu da ne?",
+		["Completion"] = "Bu tablet... Çok sıradışı... Bunu nerede buldun, $N?",
+		["minlevel"] = "42",
+		["questlevel"] = "47"
+	},
+	["2783"] = {
+		["Title"] = "Önemsiz Kavgalar",
+		["Description"] = "Yanlış düşmanla savaşıyoruz, $N.$B$BBu topraklardaki gerçek güç, orklarla kavrulmuş topraklar için kavga ederken gücünü ve sayısını artırmaya devam ediyor.$B$BYanan Lejyon [Burning Legion]'un orduları tarafından bir gün hezimete uğratılmak üzere bu topraklarda Horde'a karşı bir savaş sürdürmeye devam mı edeceğiz? Bu boşuna.$B$BFarklılıklarınızı bir kenara bırakın, $N, Horde'un düşmüş kahramanıyla konuşun. Lanetli Topraklar [Blasted Lands]'ın arkasındaki gerçeği biliyor.",
+		["Objectives"] = "Lanetli Topraklar [Blasted Lands] ile bataklık sınırındaki Horde'un Düşmüş Kahramanı [Fallen Hero of the Horde] ile konuş.",
+		["Progress"] = "",
+		["Completion"] = "İttifak [Alliance] yardım etmek mi istiyor?$B$BBu günü bir daha asla göremeyeceğimi sanıyordum. İttifak'ın ortak bir düşmana karşı Horde ile omuz omuza savaştığı bir gün.$B$BÖyle olacak... birleşeceğiz.",
+		["minlevel"] = "50",
+		["questlevel"] = "57"
+	},
+	["2784"] = {
+		["Title"] = "Zarafetten Düşüş",
+		["Description"] = "Hikayemi dinle, $r.",
+		["Objectives"] = "Horde'un Düşmüş Kahramanı [Fallen Hero of the Horde]'nın hikayesini anlatmasını dinle.",
+		["Progress"] = "Söyleyeceklerimi dinle.",
+		["Completion"] = "Bir ruh olarak çaresizim, $N. Bana yardım et. Onurumu yeniden kazanmama izin ver.",
+		["minlevel"] = "45",
+		["questlevel"] = "50"
+	},
+	["2801"] = {
+		["Title"] = "Bir Keder Hikayesi",
+		["Description"] = "Devam etmeden önce hikayemi duymalısın.",
+		["Objectives"] = "Horde'un Düşmüş Kahramanı [Fallen Hero of the Horde]'nın hikayesini anlatmasını dinle.",
+		["Progress"] = "Söyleyeceklerimi dinle, $N.",
+		["Completion"] = "Harekete geçme zamanı şimdi, $N.",
+		["minlevel"] = "45",
+		["questlevel"] = "57"
+	},
+	["2821"] = {
+		["Title"] = "Kalite İşareti",
+		["Description"] = "Dericilik felsefem, işin mümkün olan en kaliteli iş olması gerektiğidir - taviz yok. Kalitenin önemli olmadığını söyleyen herkes size Dun Morogh'da deniz manzaralı mülk satmaya çalışıyordur!$B$BYüksek kaliteli malzeme arayışımda kalın yeti postlarına rastladım. Yeti'ler Feralas'a özgüdür ve birçoğu Vahşi Yarak Vadisi [Feral Scar Vale]'nde bulunur. Biraz istiyorum ve onluk bir yığın için deri eşyalarımdan birini seçme hakkı vereceğim. Bu sana adil geliyorsa, o zaman anlaşabiliriz.",
+		["Objectives"] = "Tüymuhfaza Kalesi [Feathermoon Stronghold]'ndaki Pratt McGrubben'e 10 Kalın Yeti Postu [Thick Yeti Hide] getir.",
+		["Progress"] = "On kalın yeti postundan oluşan bir yığın, ürettiğim eşyalardan birini seçmeni sağlar. Kaliteye önem verdiğim için iyi bir eşya alacağından emin olabilirim!$B$BYetileri bulamıyor gibiysen, nerede olabileceklerini biliyorum. Unutulmuş Kıyı [Forgotten Coast]'nın hemen iç kısımlarında, Vahşi Yarak Vadisi [Feral Scar Vale] civarında aramayı dene.",
+		["Completion"] = "Durup bu postların dokusunu inceledin mi? Düzgün bir şekilde işlenirse, bu postlar demirden çok daha güçlü olabilir. Pek az insan bu postları biliyor ve bu durum, bildiğim engin tabaklama solüsyonlarıyla birleştiğinde, gerçek bir kalite işaretine sahip eşyalar yapmamı sağlayacak... senin sayende tabii ki!$B$BVe şimdi, lütfen hizmetin için sana sunabileceğim şeylerden seçimini yap!",
+		["minlevel"] = "40",
+		["questlevel"] = "46"
+	},
+	["2822"] = {
+		["Title"] = "Kalite İşareti",
+		["Description"] = "Deri işimle gurur duyuyorum ve bunun belli olduğunu hissediyorum; kaliteden asla ödün verilmemeli. Kalitenin önemli olmadığını söyleyen her kimse, dünyanın sır tutmadığına da inanmanı sağlar!$B$BYüksek kaliteli malzeme arayışımda kalın yeti postlarını keşfettim. Yeti'ler Feralas'a özgüdür ve sıklıkla buranın batısında, Vahşi Yarak Vadisi [Feral Scar Vale]'nde bulunurlar. Onluk bir yığın karşılığında sana deri eşyalarımdan birini seçme hakkı vereceğim. Bu sana uygunsa, anlaşmamız tamamdır!",
+		["Objectives"] = "Mojache Kampı [Camp Mojache]'ndaki Jangdor Hızlıadımlı [Jangdor Swiftstrider]'ya 10 Kalın Yeti Postu [Thick Yeti Hide] getir.",
+		["Progress"] = "On kalın yeti postundan oluşan bir yığın alabildin mi? Deri eşyalarım rakipsizdir ve postlar sende varsa seninle bir numune paylaşırım.$B$BYetileri bulamıyor gibiysen nerede olabileceklerini biliyorum. Buranın batısına, Unutulmuş Kıyı [Forgotten Coast]'nın hemen iç kısımlarındaki Vahşi Yarak Vadisi [Feral Scar Vale] civarına bakmayı dene.",
+		["Completion"] = "Ah, mükemmel! Bu postlar özel bir muamele gördüğünde demir kadar dayanıklı oluyor sana söyleyeyim! Tabaklama için doğru karışımı elde etmek birçok deneme gerektirecek, ancak kalite işaretimi bir üst seviyeye taşıyacaklarından eminim.$B$BSana gelince, $N... yardımın benim için paha biçilmez oldu. Lütfen hazırladığım bu eşyalardan seçimini yap.",
+		["minlevel"] = "40",
+		["questlevel"] = "46"
+	},
+	["2844"] = {
+		["Title"] = "Dev Koruyucu",
+		["Description"] = "Ben işe yaramam, $N. Küçük arkadaşım Shay'e göz kulak olmam gerekiyordu ve bir şekilde elimden kaçtı. Gerçekte ne olduğu konusunda pek emin değilim ama onu en son gördüğümde buranın hemen kuzeyindeki harabelerin arasından yürüyorduk.$B$BHer şey yolunda gidiyordu ama sonra arkamı döndüm ve... o gitmişti.$B$BŞimdi burada ne yapmam gerektiğini tam olarak çözemiyorum. Bir fikrin var mı, $N? Çok endişeleniyorum.$B$BHey, Shay'i aramaya ne dersin? Bacakların benimkilerden çok daha hızlı seyahat edebilir.",
+		["Objectives"] = "Kayıp gece elfi kızını bul.",
+		["Progress"] = "",
+		["Completion"] = "Beni bulduğuna çok sevindim! Biraz kaybolduğumu itiraf etmeliyim... Ama burası çok güzel bir yer değil mi?",
+		["minlevel"] = "44",
+		["questlevel"] = "49"
+	},
+	["2845"] = {
+		["Title"] = "Gezgin Shay",
+		["Description"] = "Arkadaşım Taşısıran [Rockbiter]'a giden yolu bulmama yardım edebileceğini düşünüyor musun? Bana göz kulak olması gerekiyordu... Ama arada sırada uzaklaşma eğilimim var. Görecek o kadar çok şey var ki, dikkatim çok dağılıyor.$B$BAncak dikkatimi çekmek için her zaman işe yarayacak bir şey var.$B$BBu sandığın içinde benim için çok değerli olan bir zil bulacaksın. Sesine bayılıyorum. Söz veriyorum, uzaklaşırsam tek yapman gereken zili çalmak, koşarak geri geleceğim.",
+		["Objectives"] = "Sandıktan Shay'in Zili [Shay's Bell]'ni al.$B$BShay Yaprakkoşan [Shay Leafrunner]'a Taşısıran [Rockbiter]'ın kampına kadar eşlik et.",
+		["Progress"] = "Senin için endişelenmeye başlamıştım! Shay'i eve getirdiğin için çok teşekkür ederim, $N.",
+		["Completion"] = "Ne? Bu zilin Shay kaçtığında işe yarayacağını mı söylüyorsun? Bak sen şu işe!$B$BBenim için bu kadar çok şey yaptığına göre, al bakalım, $N.",
+		["minlevel"] = "44",
+		["questlevel"] = "49"
+	},
+	["2847"] = {
+		["Title"] = "Yaban Derisi Zırhı",
+		["Description"] = "$n, bir derici olarak oldukça yetenekli hale geliyorsun! İlgilenebileceğin bazı kalıplar biliyorum... Yaban Derisi zırhı! Yaban Derisi, gür bitki örtüsünün bulunduğu alanlarda ve oradaki bazı yaratıklarda bulunan yabanasmasının [wildvine] güçlü ve kaotik özelliklerinden yararlanır. Onu kullanarak yapılan zırhlar senin becerindeki insanlar için rakipsizdir, garantilidir.$B$BBunu sana öğreteceğim ama bir süre benim için çalışacaksın. İlk bedel sadece on parça kalın deridir. Bundan sonra detayları konuşacağız.",
+		["Objectives"] = "Tüymuhfaza Kalesi [Feathermoon Stronghold]'ndaki Pratt McGrubben'e 10 Kalın Deri [Thick Leather] getir.",
+		["Progress"] = "Dediğim gibi, Yaban Derisi zırhını öğrenirken benim için çalışacaksın. Yabanasması [wildvine] hem güçlü hem de kaotik olduğu için, yapacağın zaten güçlü olan zırha rastgele ama güçlü bir fayda sağlar. Ancak bu bilgiye ulaşmam kolay olmadı.$B$BBu sürece başlamak için ilk bedel ten parça kalın deridir.$B$BBu bittiğinde, kalıpları elde etmek için yapman gereken işe geçeceğiz.",
+		["Completion"] = "Pekala $N, aramızda olmandan mutluyum. Bir derici olarak akıllıca bir karar verdin; Yaban Derisi zırh parçalarından herhangi birini yapmayı öğrendiğinde, deri zırh giyenler sana koşacak.$B$Bİşe koyulalım - nereden başlamak istersin?",
+		["minlevel"] = "30",
+		["questlevel"] = "45"
+	},
+	["2848"] = {
+		["Title"] = "Yaban Derisi Omuzluklar",
+		["Description"] = "Yaban Derisi omuzluklar giyen kişinin yapısını son derece iyi destekler, üst kolların ve omuzların kendisinin birinci sınıf korumasını sunar. Tüm Yaban Derisi zırhlarında olduğu gibi, yabanasması [wildvine] dikilirken eşyaya güçlü ama rastgele bir fayda uygulanır.$B$BBu kalıp için altı kalın zırh kiti ve bir yabanasması gerekecek. Bu senin için karşılanması çok zor bir istek olmamalı.",
+		["Objectives"] = "Tüymuhfaza Kalesi [Feathermoon Stronghold]'ndaki Pratt McGrubben'e 6 Kalın Zırh Kiti [Thick Armor Kit] ve bir Yabanasması [Wildvine] getir.",
+		["Progress"] = "İstediğim altı kalın zırh kitine ve yabanasmasına sahip misin?$B$BZırh kitleri yapmayı monoton bir iş olarak düşünme; bu kitler üzerinde zanaatını icra ederken geliştirdiğin istikrarlı şekillendirme yöntemi, Yaban Derisi zırhı yapmak için gereken karmaşık işler için becerilerini geliştirmene yardımcı olur.$B$BBak - benim için yaptıklarının arkasında gerçek bir neden var...",
+		["Completion"] = "Bu zırh kitleri sağlam kalitede, $N. Sadece kendi işimde değil, emrimdekilerin işinde de aradığım bir şey varsa o da kalitedir.$B$BBu kalıbı kazanmakla iyi iş çıkardın; umarım bana getirdiği ödülleri sana da getirir.",
+		["minlevel"] = "30",
+		["questlevel"] = "45"
+	},
+	["2849"] = {
+		["Title"] = "Yaban Derisi Yelek",
+		["Description"] = "Yaban Derisi yelekler, herhangi bir Yaban Derisi zırh setinin temel unsurudur. Yeleğin yapısı, gövdenin maksimum korunmasını sağlarken güçlü büyünün giysi boyunca işlemesine izin veren bir ürün üretmek için yabanasması [wildvine] ile harmanlanır.$B$BBu kalıp için iki Kaplumbağa Pullu göğüslük, iki çift Kaplumbağa Pullu eldiven ve bir yabanasması gerekecek. Zor bir istek ama benim için yerine getirmekte az zorluk çekmen gereken bir istek.",
+		["Objectives"] = "Tüymuhfaza Kalesi [Feathermoon Stronghold]'ndaki Pratt McGrubben'e 2 Kaplumbağa Pullu Göğüslük [Turtle Scale Breastplate], 2 Kaplumbağa Pullu Eldiven [Turtle Scale Gloves] ve bir Yabanasması [Wildvine] getir.",
+		["Progress"] = "Sipariş ettiğim iki Kaplumbağa Pullu göğüslük ve eldivene sahip misin? Ayrıca yabanasmasını unutma!$B$BEn erken kalıplarda bile, şeklin temellerinin daha zor giysilere iyi dönüştüğünü öğreniyoruz. Farklı eşyalar olsa da, Kaplumbağa Pullu göğüslüklerin şekli seni Yaban Derisi yelek yapmak için gereken detaylandırmaya hazırlar.$B$BVe eldivenler... şey, onlar sadece benim kendi çıkarım için. Unutma, benim için çalışıyorsun!",
+		["Completion"] = "Bunlar çok güzel parçalar, $N. Bunları yaparken gösterilen işçilik ve özen bile, yapılan ortalama bir parçadan birkaç gümüş daha fazla getirir.$B$BSiparişimi doldurdun ve bununla birlikte ödülün geliyor. Yaban Derisi yelek yapma bilgisi artık senin!",
+		["minlevel"] = "30",
+		["questlevel"] = "45"
+	},
+	["2850"] = {
+		["Title"] = "Yaban Derisi Miğfer",
+		["Description"] = "Yaban Derisi miğfer, konfordan ödün vermeden giyene başın hayati bölgelerine üstün koruma sunar. Tüm Yaban Derisi zırhlarında olduğu gibi, entegre yabanasması [wildvine] miğferin yapısına güçlü ama rastgele bir geliştirme kazandırır. Deri giyenler kesinlikle bu parçayı isteyecektir!$B$BBu kalıp için iki Gecegörüş tuniği, iki Gecegörüş kafa bandı ve bir yabanasmasına ihtiyacım olacak. Bu siparişi tamamla ve kalıp senin olsun!",
+		["Objectives"] = "Tüymuhfaza Kalesi [Feathermoon Stronghold]'ndaki Pratt McGrubben'e 2 Gecegörüş Tuniği [Nightscape Tunic], 2 Gecegörüş Kafa Bandı [Nightscape Headband] ve bir Yabanasması [Wildvine] getir.",
+		["Progress"] = "Yaban Derisi miğferlerin bilgisini seninle paylaşmadan önce bu tuniklerin ve kafa bantlarının yapılmasına ve ayrıca o yabanasması parçasına ihtiyacım var.$B$BBaş teçhizatı, silahsızlandırıcı derecede basit bir kafa bandı veya tam kaplayan bir miğfer olsun, maceracılar arasında oldukça revaçtadır. Değerli baş teçhizatı oluşturmanın temelleri, teçhizatın kozmetik görünümü ne olursa olsun sabit kalır.",
+		["Completion"] = "Tedarik ettiğin bu Gecegörüş ekipmanı siparişi mükemmel bir şekilde dolduruyor, $N. Senin kalibredeki bir dericiden daha azını beklemiyorum.$B$BBu kalıbı kesinlikle hak ettin. Bunu sana özgürce veriyorum ve buna göre kâr elde edeceğini umuyorum.",
+		["minlevel"] = "30",
+		["questlevel"] = "45"
+	},
+	["2851"] = {
+		["Title"] = "Yaban Derisi Çizmeler",
+		["Description"] = "Epey bir şey öğrendin, $n; yine de öğrenmen gereken daha çok şey var. Sırada her setin temel taşı olan Yaban Derisi çizmeler var.$B$BBu çizmeler, ayağı konfor içinde kucaklarken maceranın tehlikelerine karşı desteklemek üzere tasarlanmıştır. Yumuşak tabanlar, ayakkabılarda sessiz hareket arayanlar için bir lütuftur.$B$BBu kalıp için iki Gecegörüş pantolonu ve iki Gecegörüş çizmesi siparişinin doldurulması gerekiyor. Ayrıca iki yabanasmasına ihtiyacım olacak... sadece bir tane değil. Tüm bunlara sahip olduğunda bana haber ver.",
+		["Objectives"] = "Tüymuhfaza Kalesi [Feathermoon Stronghold]'ndaki Pratt McGrubben'e 2 Gecegörüş Pantolonu [Nightscape Pants], 2 Gecegörüş Çizmesi [Nightscape Boots] ve 2 Yabanasması [Wildvine] getir.",
+		["Progress"] = "Kalıbı almadan önce pantolon, çizme ve yabanasması siparişinin doldurulması gerekiyor, $N. Bitirdin mi?$B$BYapmayı öğrendiğimiz ilk çizme çiftinden itibaren, kaliteli bir çizmenin konfor ve işlevsellik arasında bıçak sırtı bir çizgide yürümesi gerektiğini anlamaya başlarız. Her ikisiyle de, giyen kişinin daha düşük kaliteli mallar giyenleri sakat bırakacak yorgunluğu göz ardı etmesini sağlayan eşyalar oluşturabiliriz.",
+		["Completion"] = "Bir kez daha, deneyimli bir profesyonelin becerisiyle karmaşık bir siparişi doldurdun. Bu kalıbı ve teşekkürlerimi hak ettin.",
+		["minlevel"] = "30",
+		["questlevel"] = "45"
+	},
+	["2852"] = {
+		["Title"] = "Yaban Derisi Pantolon",
+		["Description"] = "Temelleri kavradığına göre, daha karmaşık işlerde ustalaşmaya hazırsın, $n. Yaban Derisi pantolonlar, etraftaki en sağlam ve güçlü deri teçhizatlarından bazılarıdır. Bel, uyluklar, baldırlar ve hayati organlar - hepsi muazzam bir korumaya kavuşur. Yabanasmasının [wildvine] sağladığı geliştirmeyle birleştiğinde, ona sahip olan maceracılar seni her gördüklerinde sana teşekkür edecekler.$B$BBu kalıp için iki Kaplumbağa Pullu miğfer, iki Kaplumbağa Pullu kolçak ve iki yabanasması siparişinin doldurulması gerekiyor.",
+		["Objectives"] = "Tüymuhfaza Kalesi [Feathermoon Stronghold]'ndaki Pratt McGrubben'e 2 Kaplumbağa Pullu Miğfer [Turtle Scale Helm], 2 Kaplumbağa Pullu Kolçak [Turtle Scale Bracer] ve 2 Yabanasması [Wildvine] getir.",
+		["Progress"] = "Kaplumbağa Pullu kolçaklar ve miğferler hazır mı? İhtiyacım olan iki yabanasmasını unutma!$B$BŞimdiye kadar, Yaban Derisi zırhında yatan potansiyel gücü fark etmeye başladın. Uygulamada sınırı olmayan bir zırh, bir derici için neredeyse paha biçilmezdir. Sınırlar sadece eşyaları yapmak için gereken kaynak miktarlarındadır - bitmiş ürünlerin kalitesinde değil!",
+		["Completion"] = "Yine bir siparişi kusursuz bir şekilde doldurdun. Belki bir gün BEN SANA bilgi almak için gelirim, ha $N?$B$Bİşte pantolon kalıbı, teşekkürlerimle birlikte. Bu irfanı bilgine kat ve bitmiş ürünlerinin etkileyici becerilerinden yararlanmasına izin ver!",
+		["minlevel"] = "30",
+		["questlevel"] = "45"
+	},
+	["2853"] = {
+		["Title"] = "Yaban Derisinin Ustası",
+		["Description"] = "Pekala $n, sen çalışkanlığın tanımısın. Yaban Derisi zırhı için son bir kalıp kaldı; diğerlerinde ustalaştın. Kalıp için gereksiz yere çabalamanı istemeyeceğim. Onu tamamen hak ettin ve fazlasını... ama sana kendim veremem. Beni bu zanaata sokan öğretmenim, seni ödüllendirmesi gereken kişidir.$B$BBu mektubu Telonis'e götür; Darnassus'ta dericilik öğretiyor. Ona mektubu göster ve benim yaptığım gibi seni dengi olarak kabul etmesini sağla.",
+		["Objectives"] = "Pratt'in Mektubu [Pratt's Letter]'nu Darnassus'un usta dericisi Telonis'e ver.",
+		["Progress"] = "Selamlar, $R... yüzünden anlayabildiğim kadarıyla sen de benim gibi bir dericisin. Becerilerimden yararlanmaya mı geldin, yoksa benimle başka bir işin mi var?",
+		["Completion"] = "Ah evet, Pratt seni gönderdi. Bir insan olmasına rağmen bazen bana biz gece elflerini hatırlatıyor. Deriye olan adanmışlığı ve yetenekleri etkileyici. Bu mektupta sana bu kadar övgüde bulunması, kabul ettiğim bir saygı belirtisidir.$B$BSana Yaban Derisi sanatını öğrettiğinin farkındayım. Bu kalıpla eğitimini bitirmeme izin ver. Onu iyi kullan; dünyada pek az kişi Yaban Derisi pelerinlerinin sırlarını bilir.",
+		["minlevel"] = "30",
+		["questlevel"] = "45"
+	},
+	["2854"] = {
+		["Title"] = "Yaban Derisi Zırhı",
+		["Description"] = "$n, bir derici olarak becerin senden önce geliyor. Edinmen bilgece olacak dericilik irfanına sahibim... Yaban Derisi zırhı! Yaban Derisi, gür bitki örtüsünün bulunduğu alanlarda ve oradaki bazı yaratıklarda bulunan yabanasmasının [wildvine] güçlü ve kaotik özelliklerinden yararlanır. Onu kullanarak yapılan zırhlar senin becerindeki bir zanaatkar için rakipsizdir, garantilidir.$B$BSana öğreteceğim ama bir süre benim için çalışacaksın. İlk bedel sadece on parça kalın deridir. Bundan sonra detayları konuşacağız.",
+		["Objectives"] = "Mojache Kampı [Camp Mojache]'ndaki Jangdor Hızlıadımlı [Jangdor Swiftstrider]'ya 10 Kalın Deri [Thick Leather] getir.",
+		["Progress"] = "Açık olmalıyız; Yaban Derisi zırhı sanatını öğrenirken bana çıraklık yapacaksın. Yabanasması [wildvine] hem güçlü hem de kaotik olduğu için, yapacağın zaten güçlü olan zırha rastgele ama güçlü bir fayda sağlar. Ancak bu bilgiye ulaşmam kolay olmadı.$B$BBu sürece başlamak için ilk bedel ten parça kalın deridir.$B$BBu bittiğinde, kalıpları elde etmek için yapman gereken işe geçeceğiz.",
+		["Completion"] = "Pekala $N, seni çırağım olarak aramızda görmekten mutluyum. Bir derici olarak bilgece bir karar verdin; deri zırhtan yararlananlar, Yaban Derisi sanatında ustalaşmayı öğrendiğinde sana koşacak.$B$Bİşe koyulalım - nereden başlamak istersin?",
+		["minlevel"] = "30",
+		["questlevel"] = "45"
+	},
+	["2855"] = {
+		["Title"] = "Yaban Derisi Omuzluklar",
+		["Description"] = "Yaban Derisi omuzluklar giyen kişinin yapısını son derece iyi destekler, omuzların yanı sıra üst kolların üstün korumasını sunar. Tüm Yaban Derisi zırhlarında olduğu gibi, yabanasması [wildvine] dikilirken eşyaya rastgele ama çok güçlü bir geliştirme efsunlanır.$B$BBu kalıp için altı kalın zırh kiti ve bir yabanasması gerekecek. Bu senin için karşılanması çok zor bir istek olmamalı.",
+		["Objectives"] = "Mojache Kampı [Camp Mojache]'ndaki Jangdor Hızlıadımlı [Jangdor Swiftstrider]'ya 6 Kalın Zırh Kiti [Thick Armor Kit] ve bir Yabanasması [Wildvine] getir.",
+		["Progress"] = "İstediğim altı kalın zırh kitine ve yabanasmasına sahip misin?$B$BZırh kitleri yapmayı istikrarlı ve güvenilir zanaatkarlıkta bir ders olarak düşün; bu kitler üzerinde zanaatını icra ederken geliştirdiğin tutarlı şekillendirme yöntemi, Yaban Derisi zırhları yapmak için gereken karmaşık işler için becerilerini geliştirmene yardımcı olur.$B$BHer dersin bir amacı vardır, $N. Her birini buna göre kucaklamak önemlidir.",
+		["Completion"] = "Bu zırh kitleri sağlam kalitede, $N. Sadece kendi işimde değil, eğitim verdiğim kişilerin işinde de aradığım bir şey varsa o da kalitedir.$B$BBu kalıbı kazanmakla iyi iş çıkardın; umarım bana getirdiği ödülleri sana da getirir.",
+		["minlevel"] = "30",
+		["questlevel"] = "45"
+	},
+	["2856"] = {
+		["Title"] = "Yaban Derisi Yelek",
+		["Description"] = "Yaban Derisi yelekler, herhangi bir Yaban Derisi zırh setinin temel unsurudur. Yeleğin yapısı ve içindeki yabanasması [wildvine] dokuması, gövdenin maksimum korunmasını sağlarken güçlü büyünün giysi boyunca işlemesine izin veren bir ürün üretir.$B$BBu kalıp için iki Kaplumbağa Pullu göğüslük, iki çift Kaplumbağa Pullu eldiven ve bir yabanasması gerekecek. Bu kolay bir ders değil ama kesinlikle tamamlayacak beceriye sahip olduğun bir ders.",
+		["Objectives"] = "Mojache Kampı [Camp Mojache]'ndaki Jangdor Hızlıadımlı [Jangdor Swiftstrider]'ya 2 Kaplumbağa Pullu Göğüslük [Turtle Scale Breastplate], 2 Kaplumbağa Pullu Eldiven [Turtle Scale Gloves] ve bir Yabanasması [Wildvine] getir.",
+		["Progress"] = "İki Kaplumbağa Pullu göğüslük ve eldiven yanında mı? Ayrıca yabanasmasını unutma!$B$BEn erken kalıplarda bile, şeklin temellerinin daha zor giysilere iyi dönüştüğünü öğreniyoruz. Farklı eşyalar olsa da, Kaplumbağa Pullu göğüslüklerin şekli seni Yaban Derisi yelek yapmak için gereken detaylandırmaya hazırlar.$B$BDerslerinde ilerledikçe öğrettiğim beceriler sanat haline gelecek.",
+		["Completion"] = "Bunlar çok güzel parçalar, $N. Bunları yaparken gösterilen işçilik ve özen, kendini bu görevlere tamamen adamayı seçtiğini gösteriyor.$B$Bİsteklerimi karşıladın ve bununla birlikte ödülün geliyor. Yaban Derisi yelek yapma bilgisi artık senin!",
+		["minlevel"] = "30",
+		["questlevel"] = "45"
+	},
+	["2857"] = {
+		["Title"] = "Yaban Derisi Miğfer",
+		["Description"] = "Yaban Derisi miğfer, konfordan ödün vermeden giyene başın hayati bölgelerine üstün koruma sunar. Tüm Yaban Derisi zırhlarında olduğu gibi, entegre yabanasması [wildvine] miğferin yapısına güçlü ama rastgele bir büyü efsunlaması kazandırır. Deri giyenler kesinlikle bu parçayı isteyecektir!$B$BBu kalıp için iki Gecegörüş tuniği, 2 Gecegörüş kafa bandı ve bir yabanasmasına ihtiyacım olacak. Bu dersi tamamla ve kalıp senin olsun!",
+		["Objectives"] = "Mojache Kampı [Camp Mojache]'ndaki Jangdor Hızlıadımlı [Jangdor Swiftstrider]'ya 2 Gecegörüş Tuniği [Nightscape Tunic], 2 Gecegörüş Kafa Bandı [Nightscape Headband] ve bir Yabanasması [Wildvine] getir.",
+		["Progress"] = "Yaban Derisi miğferlerin bilgisini seninle paylaşmadan önce bu tuniklerin ve kafa bantlarının yapılmasına ve ayrıca o yabanasması parçasına ihtiyacım var.$B$BBaş teçhizatı, silahsızlandırıcı derecede basit bir kafa bandı veya tam kaplayan bir miğfer olsun, maceracılar arasında oldukça revaçtadır. Değerli baş teçhizatı oluşturmanın temelleri, teçhizatın kozmetik görünümü ne olursa olsun sabit kalır.",
+		["Completion"] = "Tedarik ettiğin bu Gecegörüş ekipmanı sana verdiğim gereksinimleri mükemmel bir şekilde karşılıyor, $N. Senin kalibredeki bir dericiden daha azını beklemiyorum.$B$BYaban Derisi miğferler oluşturma onurunu kazandın. Bu kalıbı sana özgürce veriyorum ve buna göre kâr elde edeceğini umuyorum.",
+		["minlevel"] = "30",
+		["questlevel"] = "45"
+	},
+	["2858"] = {
+		["Title"] = "Yaban Derisi Çizmeler",
+		["Description"] = "Yaban Derisi zırh bilgin büyüyor, $n; yine de öğrenmen gereken daha çok şey var.$B$BYaban Derisi çizmeler her setin temel taşıdır. Bu çizmeler, ayağı konfor içinde kucaklarken maceranın tehlikelerine karşı desteklemek üzere tasarlanmıştır. Yumuşak tabanlar, ayakkabılarda sessiz hareket arayanlar için bir lütuftur.$B$BBu kalıp için iki Gecegörüş pantolonu ve iki Gecegörüş çizmesi yapılması gerekiyor. Ayrıca iki yabanasmasına ihtiyacım olacak... sadece bir tane değil. Bu eşyalara sahip olduğunda devam edeceğiz.",
+		["Objectives"] = "Mojache Kampı [Camp Mojache]'ndaki Jangdor Hızlıadımlı [Jangdor Swiftstrider]'ya 2 Gecegörüş Pantolonu [Nightscape Pants], 2 Gecegörüş Çizmesi [Nightscape Boots] ve 2 Yabanasması [Wildvine] getir.",
+		["Progress"] = "Kalıbı öğrenmeden önce pantolon, çizme ve yabanasmasının bana teslim edilmesi gerekiyor, $N. İstediğimi yaptın mı?$B$BYapmayı öğrendiğimiz ilk çizme çiftinden itibaren, kaliteli bir çizmenin konfor ve işlevsellik arasında bıçak sırtı bir çizgide yürümesi gerektiğini anlamaya başlarız. Her ikisiyle de, giyen kişinin daha düşük kaliteli mallar giyenleri sakat bırakacak yorgunluğu göz ardı etmesini sağlayan eşyalar oluşturabiliriz.",
+		["Completion"] = "Bir kez daha, deneyimli bir profesyonelin becerisiyle eşyalar ürettin. Bu kalıbı ve tebriklerimi hak ettin.",
+		["minlevel"] = "30",
+		["questlevel"] = "45"
+	},
+	["2859"] = {
+		["Title"] = "Yaban Derisi Pantolon",
+		["Description"] = "Daha karmaşık derslerde ustalaşmaya hazırsın, $n. Yaban Derisi pantolonlar, etraftaki en sağlam ve güçlü deri teçhizatlarından bazılarıdır. Bel, uyluklar, baldırlar ve hayati organlar - hepsi muazzam bir korumaya kavuşur. Yabanasmasının [wildvine] sağladığı geliştirmeyle birleştiğinde, ona sahip olan maceracılar seni her gördüklerinde sana teşekkür edecekler.$B$BBu kalıbı kazanman için iki Kaplumbağa Pullu miğfer, iki Kaplumbağa Pullu kolçak ve iki yabanasmasına ihtiyacım var.",
+		["Objectives"] = "Mojache Kampı [Camp Mojache]'ndaki Jangdor Hızlıadımlı [Jangdor Swiftstrider]'ya 2 Kaplumbağa Pullu Miğfer [Turtle Scale Helm], 2 Kaplumbağa Pullu Kolçak [Turtle Scale Bracer] ve 2 Yabanasması [Wildvine] getir.",
+		["Progress"] = "Kaplumbağa Pullu kolçaklar ve miğferler hazır mı? İhtiyacım olan iki yabanasmasını unutma.$B$BŞimdiye kadar, Yaban Derisi zırhında yatan potansiyel gücü fark etmeye başladın. Uygulamada sınırı olmayan bir zırh, bir derici için neredeyse paha biçilmezdir. Sınırlar sadece eşyaları yapmak için gereken kaynak miktarlarındadır - bitmiş ürünlerin kalitesinde değil!",
+		["Completion"] = "Yine görevimi kusursuz bir şekilde tamamladın. Belki bir gün BEN SANA bilgi almak için gelirim, ha $N?$B$Bİşte pantolon kalıbı, teşekkürlerimle birlikte. Bu irfanı bilgine kat ve bitmiş ürünlerinin etkileyici becerilerinden yararlanmasına izin ver!",
+		["minlevel"] = "30",
+		["questlevel"] = "45"
+	},
+	["2860"] = {
+		["Title"] = "Yaban Derisinin Ustası",
+		["Description"] = "$n, sana öğretebileceğim her şeyi öğrendin. Ancak Yaban Derisi zırhı için kalan bir kalıp var. Bunun için gereksiz yere çabalamanı istemeyeceğim; onu tamamen hak ettin ve fazlasını. Ancak bu kalıp, seninle özgürce paylaşamayacağım bir kalıptır.$B$BBeni bu zanaata sokan öğretmenim, seni ödüllendirmesi gereken kişidir. Bu notu Una'ya götür; Thunder Bluff [Gürleyenyarma]'da dericilik öğretiyor. Ona mektubu göster ve benim yaptığım gibi seni dengi olarak kabul etmesini sağla.",
+		["Objectives"] = "Jangdor'un Notu [Jangdor's Note]'nu Thunder Bluff [Gürleyenyarma]'un usta dericisi Una'ya ver.",
+		["Progress"] = "Selamlar, $R... yüzünden anlayabildiğim kadarıyla sen de benim gibi bir dericisin. Becerilerimden yararlanmaya mı geldin, yoksa benimle başka bir işin mi var?",
+		["Completion"] = "Ah evet, Jangdor seni gönderdi. En iyi öğrencilerimden birinin artık kendi öğrencisi olduğunu görmekten memnuniyet duyuyorum.$B$BDeriye olan adanmışlığı ve yetenekleri etkileyici. Bu mektupta sana bu kadar övgüde bulunması, kabul ettiğim bir saygı belirtisidir.$B$BSana Yaban Derisi sanatını öğrettiğinin farkındayım. Bu kalıpla eğitimini bitirmeme izin ver. Onu iyi kullan; dünyada pek az kişi Yaban Derisi pelerinlerinin sırlarını bilir.",
+		["minlevel"] = "30",
+		["questlevel"] = "45"
+	},
+	["2861"] = {
+		["Title"] = "Tabetha'nın Görevi",
+		["Description"] = "Tozluçalı Bataklığı [Dustwallow Marsh]'nın derinliklerinde yaşayan büyücü meslektaşım Tabetha'nın, Zul'Farrak'taki belirli bir çöl trollü ile görülecek bir hesabı olduğuna dair söylentiler var. Tabetha ile konuşursan sana daha fazlasını anlatabilir.$B$BVe yanında birkaç arkadaş getir, $N. Tabetha seni Zul'Farrak'a gönderirse tek başına gitmek istemezsin.$B$BTabetha'nın kulübesini Theramore'un batısında ve Taşbalyoz Harabeleri [Stonemaul Ruins]'nin hemen kuzeyinde bulacaksın.",
+		["Objectives"] = "Tozluçalı Bataklığı [Dustwallow Marsh]'ndaki Tabetha ile konuş.",
+		["Progress"] = "",
+		["Completion"] = "Bu doğru. Bir troll ile görülecek bir hesabım var. Büyüyecek birkaç kemik. Tüm kemikleri!$B$BBana yardım etmek ister misin?",
+		["minlevel"] = "40",
+		["questlevel"] = "46"
+	},
+	["2862"] = {
+		["Title"] = "Odunpençe'ye Savaş",
+		["Description"] = "Gnoll'lar... bir beladan daha fazlasılar. Tam da bu kampın varlığına karşı sürekli bir tehdit oluşturuyorlar! Feralas'a özgü olup olmamaları önemsizdir; onlara karşı kararlılığımızı güçlendirmezsek kendimizi tüm bölgeden sürülmüş bulacağız.$B$BGnoll'ların kampa yönelik saldırıları son zamanlarda daha da ateşli hale geldi. Sayılarını azaltmada yardımına ihtiyacımız var; bana yelelerinden on tanesini getir, ben de bu çaban için seni cömertçe ödüllendireyim.$B$BGit!",
+		["Objectives"] = "Mojache Kampı [Camp Mojache]'ndaki Hadoken Hızlıadımlı [Hadoken Swiftstrider]'ya 10 Odunpençe Gnoll Yelesi [Woodpaw Gnoll Mane] getir.",
+		["Progress"] = "Onları geri püskürtüyoruz ama yine de saldırıyorlar! Birisi ya da bir şey onları çılgınlığa sürüklüyor olmalı... oh, döndün mü $N? Ödülün karşılanması için ihtiyacım olan yeleler yanında mı?",
+		["Completion"] = "Bu iyi bir başlangıcın kanıtı, $N. Bir asker olarak becerilerin takdire şayan.$B$BBu görevi sadece senden istemiyorum. Senden önceki pek çok kişi onlarla savaştı ve geçmiş zamanlarda çabalarımız onları uzak tuttu. Ancak son zamanlarda, etki alanımıza doğru kuzeye itilme girişimleri dramatik bir şekilde arttı. Saldırıları da daha vahşi hale geldi... sanki çaresizmiş gibi.$B$BYine de bir planım var, $N, onlara karşı işleri bir kez ve tamamen halledebilecek...",
+		["minlevel"] = "39",
+		["questlevel"] = "42"
+	},
+	["2863"] = {
+		["Title"] = "Alfa Saldırısı",
+		["Description"] = "Plan, gnoll'ların çeşitli liderlerinin - kendilerine verdikleri adla Alfaların - hızlı bir şekilde arkası arkasına indirilmesidir. Onlara karşı bu tür hızlı ve hassas bir yıkım gerçekleştirebilirsek, saflarında kaosa neden olur. Belki de bitli kalın kafalarına onları yok edebileceğimiz ve edeceğimiz mesajını iletir!$B$Bİrademin elçisi olmanı istiyorum; bunun işe yaraması için bir saat içinde Alfalarından beşini ortadan kaldır $N, yoksa bu çıkmazda kalmaya devam edeceğiz!",
+		["Objectives"] = "5 Odunpençe Alfası [Woodpaw Alpha] öldür ve bir saat içinde Hadoken Hızlıadımlı [Hadoken Swiftstrider]'ya dön.",
+		["Progress"] = "Zaman tükeniyor, $N! Alfaları indirdiğini bildirmek için burada değilsen, zaman kaybediyorsun demektir!",
+		["Completion"] = "İstediğimi yaptın ve bunun için seni selamlıyorum. Çabalarının karşılığı olarak bu küçük ödülü al, $N.$B$BSayıları azaldığında ve liderleri katledildiğinde, gnoll'lar kampa saldırmadan önce iki kez düşüneceklerdir. Ancak bu durum konuyu sonlandırmıyor...$B$BGnoll'ların neden böyle çılgın bir duruma sürüklendiğinin bir nedeni olmalı. Yeniden gruplanma şansı bulamadan önce bunun sebebini öğrenmek istiyorum.",
+		["minlevel"] = "39",
+		["questlevel"] = "43"
+	},
+	["2866"] = {
+		["Title"] = "Solarsal Harabeleri",
+		["Description"] = "Güneyimizde Solarsal Harabeleri [Ruins of Solarsal] var; burası modern zamanların çok öncesine dayanan bir alandır. Harabeleri ilk başta keşfettik ve dikkate değer bir şey bulamadık; bu yüzden orayı huzur içinde bıraktık.$B$BÇok yakın zamanda, Nefretarmağan [Hatecrest] nagaları bu harabeleri endişe verici sayılarda işgal etti. İlk başta bunu bir saldırının habercisi olarak düşündük. Bu tehdit hâlâ mümkün olsa da, başka bir şeylerin dönüyor olabileceğine inanıyoruz.$B$BOraya git, harabeleri keşfet ve gözüne çarpan bir şey olup olmadığına bak. İyi şanslar, $n.",
+		["Objectives"] = "Solarsal Harabeleri [Ruins of Solarsal]'ni keşfet ve oradaki nagaların varlığını araştır.",
+		["Progress"] = "",
+		["Completion"] = "Çardağı incelemek, çevre harabelerin aksine ilginç ve alışılmadık bazı şeyleri ortaya çıkarıyor.$B$BIlk olarak, çardak harabelerdeki diğer nesnelerden açıkça daha yeni bir yapıdır. İkinci olarak, çardağın kenarlarında kazınmış küçük bir glif dizisi vardır; glifler kalıplarında tekrarlanır, ancak kökeni ve anlamı aksi takdirde bilinmemektedir. Üçüncüsü, çardağın taşı dokunulduğunda sıcaktır.$B$BBu kesinlikle harabelerin aranmasında \"göze çarpma\" niteliği taşıyor!",
+		["minlevel"] = "40",
+		["questlevel"] = "43"
+	},
+	["2867"] = {
+		["Title"] = "Tüymuhfaza Kalesi'ne Dönüş",
+		["Description"] = "Solarsal Harabeleri [Ruins of Solarsal]'nin kalbindeki garip çardağın keşfedilmesiyle, Tüymuhfaza Kalesi [Feathermoon Stronghold]'ne dönüp General Shandris Tüymuhfaza [Shandris Feathermoon]'ya burada ne keşfedildiğini bildirme zamanı geldi.",
+		["Objectives"] = "Tüymuhfaza Kalesi [Feathermoon Stronghold]'ndaki Shandris Tüymuhfaza [Shandris Feathermoon]'ya dön ve bulgularını bildir.",
+		["Progress"] = "",
+		["Completion"] = "Tekrar hoş geldin, $N. Bu çardak hakkındaki raporun oldukça... rahatsız edici. Oradaki nagalar bir saldırı planlamıyor olsalar bile, devam eden varlıkları Feralas'a ilerlememiz için kötüye işaret gibi görünüyor. Her neyse, işte araştırmanın karşılığı.",
+		["minlevel"] = "40",
+		["questlevel"] = "43"
+	},
+	["2869"] = {
+		["Title"] = "Nefretarmağan'a Karşı",
+		["Description"] = "Bu noktada en iyi hareket tarzı, nagalar neyin peşinde olursa olsun, eninde sonunda adayı kendileri için emniyete almaya geçeceklerini varsaymaktır. Çok geç olmadan bu tehdit ile mücadele etmek için agresif adımlar atmamız gerekiyor.$B$BBana iyi durumda 10 Nefretarmağan Pulu getir; onları nasıl elde edeceğin sana açık olmalı. Nagalara karşı ilk deneyimini kazanacaksın ve Sardor Adası [Sardor Isle]'nda zayıflamış bir naga varlığına sahip olacağız - her iki beklenti de avantajımıza işliyor.",
+		["Objectives"] = "Tüymuhfaza Kalesi [Feathermoon Stronghold]'ndaki Latronicus Aymızrağı [Latronicus Moonspear]'na 10 Nefretarmağan Naga Pulu [Hatecrest Naga Scale] getir.",
+		["Progress"] = "$N, sana verilen görevi doğrulamak için buradaysan, mükemmel - aradığım şey 10 Nefretarmağan pulu. Sohbet etmek için buradaysan, şu anda bu tür önemsiz şeyler için müsait değilim.$B$BBunu bil - biz gece elfleri savaş çığırtkanı değiliz. Irkımız barışın ve uyumun korunmasına adanmıştır. Ancak bu, kendi çıkarlarımızı proaktif olarak korumayacağımız anlamına gelmez. Bu benim General Tüymuhfaza [Feathermoon]'ya ve kaleye karşı görevimdir.",
+		["Completion"] = "Evet, evet, bu pullar tatmin ediciden de öte. Aslında sanırım bunları bir göz atması için Pratt'e göndereceğim. Belki üzerlerinden yararlı bir şey yapabilir.$B$BSana gelince, seni göndermek istediğim başka bir görevim var. Ama önce, pullar için ödülün burada. General'e ve genel olarak Tüymuhfaza Kalesi [Feathermoon Stronghold]'ne devam eden hizmetin zorluklar karşısında bir lütuftur.",
+		["minlevel"] = "40",
+		["questlevel"] = "43"
+	},
+	["2870"] = {
+		["Title"] = "Lord Shalzaru'ya Karşı",
+		["Description"] = "$n, yeni keşif raporları naga komuta zinciri hakkında bize iyi bir fikir verdi. Sıradan askerlerinin arasında soylular var ve tüm kararları onlar veriyor.$B$BÖzellikle, daha zalim soylulardan birini Lord Shalzaru olarak belirledik. İzciler, ana harabelerin güneyindeki bir mağarada, suyun karşı tarafındaki Dehşet Adası [Isle of Dread]'nda yakın zamanda yapılan bir naga kazısı sırasında garip bir kalıntıyı bizzat ortaya çıkardığını bildiriyor.$B$BOnu durdurarak buna bir son ver ve kalıntısını bize inceleyebilmemiz için getir.",
+		["Objectives"] = "Lord Shalzaru'yu ortadan kaldır, ardından ortaya çıkardığı Gizemli Kalıntı [Mysterious Relic]'yı Tüymuhfaza Kalesi [Feathermoon Stronghold]'ndaki Latronicus Aymızrağı [Latronicus Moonspear]'na getir.",
+		["Progress"] = "Lord Shalzaru'yu devirmek planlarını kalıcı olmasa da haftalarca geriye atacaktır. Bunun da ötesinde, ortaya çıkardığı kalıntı bizim için kesin bir ilgi odağı.$B$BSana verilen görevi yerine getirdin mi, $N?",
+		["Completion"] = "İyi oynadın, $N! Lord Shalzaru'nun ölümü nagaları bir süre kargaşaya sürükleyecek, kalıcı değilse tabii. Oluşturdukları tehdit artık her zamankinden daha fazla kontrolümüz altında ve bunun için sana teşekkür borçluyuz.$B$Bİşte kale hazinesinden daha fazla ödül parası - her bir bakırı hak ettin. Sen ve seninkiler Tüymuhfaza Kalesi [Feathermoon Stronghold]'ne ne zaman isterseniz hoş geldiniz dostum.$B$BAyrılmadan önce bir şey daha var, $N... yapabilirsen...",
+		["minlevel"] = "40",
+		["questlevel"] = "45"
+	},
+	["2871"] = {
+		["Title"] = "Kalıntıyı Teslim Etmek",
+		["Description"] = "Kalıntıyı karım Vestia'ya teslim etme nezaketini gösterirsen minnettar olurum. O sadece topluluğumuz için iyi bir rahibe değil, aynı zamanda her yerde bulabileceğin en bilgili bilginlerden biridir. Bir bahis konusu olsa bile bu cihazın ne olduğunu çözemezdim. Karım ise, bu şeyin ne olduğunu biri anlayabilecekse, o anlayabilirdi... ve bilmemiz gerekiyor!$B$BVirajın hemen arkasında, şüphesiz ders çalışıyordur. Teşekkürler, $n.",
+		["Objectives"] = "Gizemli Kalıntı [Mysterious Relic]'yı Tüymuhfaza Kalesi [Feathermoon Stronghold]'ndaki Vestia Aymızrağı [Vestia Moonspear]'na teslim et.",
+		["Progress"] = "Evet, yardımcı olabilir miyim?$B$BDur bir dakika, sen General Tüymuhfaza [Feathermoon]'ya ve Latro'ya naga tehdidinde yardım eden $C sin, değil mi? Ben Vestia, Latro'nun - şey, daha doğrusu Latronicus'un karısıyım. Seninle tanışmak bir zevk!$B$BÜzgünüm, elbette iş için buradasın. Benim için bir şeyin var mı - ondan, ihtimal dahilinde mi?",
+		["Completion"] = "İlginç... bunun Solarsal Harabeleri [Ruins of Solarsal]'nden geldiğini mi söylüyorsun? Şey, Latro buna bakmam gerektiği konusunda haklı. İlk bakışta, harabelere özgü değilmiş gibi görünüyor. Yine de bu naga tasarımı değil... bu kadar yabancı bir şey değil.$B$BBu eşyayı araştırmak biraz zaman alacak. Araştırmam bittiğinde, buralardaysan belki senin yeteneklerinden yararlanırım.$B$BAl, elimizdeki bu ekstra eşyalardan birini al; umarım işine yarar!",
+		["minlevel"] = "40",
+		["questlevel"] = "45"
+	},
+	["2877"] = {
+		["Title"] = "Gözetleme Kayası Temizliği",
+		["Description"] = "Biz Yabanbalyozları geçmişi Demirörs [Ironforge]'teki kardeşlerimizden daha çok hatırlarız. Burada arkadaşlar edinmek istiyorsan, ellerini bizim için kirletirsin!$B$BHorde, İç Bölge [The Hinterlands]'deki Gözetleme Kayası [Skulk Rock] civarındaki mevzilerini terk etti; orası şimdi iğrenç balçıklar ve vıcıklarla dolu. O alan üzerinde planlarımız var, ama önce bize bir delik açacak bir temizlik ekibine ihtiyacımız var.$B$Bİşte burada sen devreye giriyorsun, Güneşışığı! Aşağı in ve on yeşil balçık ile on yeşim vıcık avla, sonra bana rapor ver. Marş marş!",
+		["Objectives"] = "10 Yeşil Balçık [Green Sludge] ve 10 Yeşim Vıcık [Jade Ooze] öldür, ardından Kartal Zirvesi [Aerie Peak]'ndeki Fraggar Yıldırımpelerini [Fraggar Thundermantle]'ne rapor ver.",
+		["Progress"] = "Eldeki görevi müzakere etmek için hiç çaba sarf etme, $R! Tanrılar o vıcıkların öldürülmesini isteseydi, şimdiye kadar bir mucizeyle hallederlerdi, değil mi?!",
+		["Completion"] = "Şuna bak hele, Yabanbalyozlarına yardım ediyor! Sen bir eylem $g adamısın:kadınısın; ve eylem bizim buralarda saygı duyduğumuz şeydir.$B$BKüçük temizlik görevin düşündüğünden çok daha önemli. İnsanlar vıcıkları ve balçıkları azalttıkça, etki alanımızı kısa sürede genişletebileceğiz. Al - Kartal Zirvesi [Aerie Peak]'nde yeni arkadaşlar edinmenin yanı sıra küçük bir şey daha!",
+		["minlevel"] = "40",
+		["questlevel"] = "48"
+	},
+	["2878"] = {
+		["Title"] = "Yozlaşmış Şarkıçiçeği",
+		["Description"] = "",
+		["Objectives"] = "",
+		["Progress"] = "Şarkıçiçeği [songflower] bitkisi gibi görünen şeyin hastalıklı, yozlaşmış bir versiyonunu buldun. Bitkiden keskin, sağlıksız bir koku yayılıyor. Tekrar normale döndürülmesi gerekiyorsa acilen bir tür bakıma ihtiyacı var.",
+		["Completion"] = "Şarkıçiçeğine biraz Cenarion bitki merhemi [Cenarion plant salve] sürüyorsun. Anında yozlaşmış formunu dökmeye başlıyor, canlı ve sağlıklı bir bitki olarak çiçek açıyor.",
+		["minlevel"] = "48",
+		["questlevel"] = "55"
+	},
+	["2879"] = {
+		["Title"] = "Equinex Asa-Apsı",
+		["Description"] = "Bu asa Equinex Asa-Apsı [Stave of Equinex] olabilir! Equinex Asa-Apsı aslında bir anahtardır, Düş Dalı [Dream Bough]'nın batısındaki ana karada, Kuzgunruzgarı Harabeleri [Ruins of Ravenwind]'ndeki Equinex Tektaş [Equinex Monolith]'ın kilidini açmak için kullanılır.$B$BO harabelerde hâlâ yanan dört alevi bul: Samha, Imbel, Byltan ve Lahassa. Özlerini al ve Equinex Tektaş'ın yanında dururken asa-apya enerji vermek için özleri kullan. Eğer bu gerçekten Equinex Asa-Apsı ise, Tektaş'ın kilidini açabilecek ve ondan kutsal bir eser toplayabileceksin.",
+		["Objectives"] = "Troyas'ın Asa-Apsı'na [Troyas' Stave] enerji ver ve Equinex Tektaş [Equinex Monolith]'ı bul.",
+		["Progress"] = "Equinex Tektaş harabelerin arasında sessizce duruyor. İçinde ne tutuyor olabilir?",
+		["Completion"] = "Enerji verilmiş asa-apıyı tutmak neredeyse imkansız. Gücü bedeninde gürlüyor.$B$BEquinex Tektaş'ın soğuk yüzeyine uzanıyorsun...$B$BKüçük bir kapı açılır, içeri uzanıp içindeki eseri almana izin verir.$B$BIşık hüzmeleri Equinex Tektaş'ın etrafındaki alanı doldurur.",
+		["minlevel"] = "42",
+		["questlevel"] = "50"
+	},
+	["2880"] = {
+		["Title"] = "Troll Kolyesi Ödülü",
+		["Description"] = "Bunu kafana sok, $r - biz İttifak [Alliance]'ın bir parçası DEĞİLİZ! Yabanbalyozları bağımsızdır, hiçbir şey yapmayan tutumlarını desteklemek için gevezelik edenlerin boş laflarına değil, kişinin değerini kanıtlamak için yaptığı işlere ve eylemlere güvenirler!$B$BBurada arkadaşlar arıyorsan, önce değerini bize kanıtla! İç Bölge [The Hinterlands]'nin tepelerini tıkayan faul troller bazen kabile kolyeleri taşır. Onlardan beş tanesini bana getir, senin için doğru yönde bir adım olarak kaydedelim.",
+		["Objectives"] = "Kartal Zirvesi [Aerie Peak]'ndeki Fraggar Yıldırımpelerini [Fraggar Thundermantle]'ne 5 Troll Kabile Kolyesi [Troll Tribal Necklace] getir.",
+		["Progress"] = "Trollerin üzerlerinde taşıdığı kabile kolyelerinden beş tane istiyorum. Daha fazla açıklanmasına ihtiyacın varsa, onlardan birini öldürmek sana bir tane alma şansı verir!$B$BYabanbalyozlarına değerini kanıtla!",
+		["Completion"] = "İşte bahsettiğim şey bu! Görüyorsun ya - bu kolyeler ellerini kirletmeye istekli olduğunu kanıtlıyor. Biz Yabanbalyozları ilişki kurduğumuz kişilerde buna değer veririz.$B$BBunu sürdür, daha da gözümüze gireceksin.",
+		["minlevel"] = "40",
+		["questlevel"] = "45"
+	},
+	["2881"] = {
+		["Title"] = "Troll Kolyesi Ödülü",
+		["Description"] = "",
+		["Objectives"] = "",
+		["Progress"] = "Trollerin üzerlerinde taşıdığı kabile kolyelerinden beş tane istiyorum. Daha fazla açıklanmasına ihtiyacın varsa, onlardan birini öldürmek sana bir tane alma şansı verir!$B$BYabanbalyozlarına değerini kanıtla!",
+		["Completion"] = "İşte bahsettiğim şey bu! Görüyorsun ya - bu kolyeler ellerini kirletmeye istekli olduğunu kanıtlıyor. Biz Yabanbalyozları ilişki kurduğumuz kişilerde buna değer veririz.$B$BBunu sürdür, daha da gözümüze gireceksin.",
+		["minlevel"] = "40",
+		["questlevel"] = "45"
+	},
+	["2882"] = {
+		["Title"] = "Cuergo'nun Altını",
+		["Description"] = "Bu harita güneye bakan bir plaj şeridini gösteriyor. Haritanın altında zarifçe yazılmış kelimeler var...$B$B$BWheedle'ın güneyinde$BYuvadan güneyde$BBul bir direk, bayrak ve kemikler$BCesursan kaz orayı$BKaz ve al Cuergo'nun altınını!$BBir anahtar lazım, bir anahtar göreceksin$BYüzleştiğin adamlar kan alır bedel diye.",
+		["Objectives"] = "Cuergo'nun altınını bul!",
+		["Progress"] = "Bu sandık kilitli!",
+		["Completion"] = "Kaptan Cuergo'nun gizli hazinesi bekliyor!",
+		["minlevel"] = "40",
+		["questlevel"] = "45"
+	},
+	["2902"] = {
+		["Title"] = "Odunpençe Araştırması",
+		["Description"] = "Gnoll'lar kulübedeki en keskin aletler değildir ama son zamanlardaki faaliyetlerine dair belgelenmiş bir tür stratejileri olacağına şüphe yok. Bu planları bulabilseydik, onları bu kadar galeyana getiren şeyin ne olduğu konusunda daha net bir fikrimiz olurdu.$B$BOdunpençe'ye geri dönmeni ve savaş planlarına benzeyebilecek herhangi bir şey bulmanı istiyorum. Bir şeyleri olmalı; saldırıları onlar olmadan yapılamayacak kadar koordineliydi. Onları bul ve sahip olduğunda bana dön.",
+		["Objectives"] = "Mojache Kampı [Camp Mojache]'nın güneyindeki gnoll kamplarının bir yerinde gnoll savaş planlarını bul.",
+		["Progress"] = "",
+		["Completion"] = "Harita incelendiğinde Hadoken Hızlıadımlı [Hadoken Swiftstrider]'nın istediği savaş planları olduğu ortaya çıkıyor. Belki de birlik hareketlerini temsil eden sayısız ok haritada çizilmiştir, ancak çoğu Mojache Kampı [Camp Mojache]'nın bulunduğu kuzeyden ziyade güneye doğru yönelmiş gibi görünüyor.$B$BHaritanın başka bir bölümünde, bilinmeyen bir tür büyük böceğin resmi altında çeşitli çetele işaretleri var. Gnoll'ların bakışından, belki de bilinmeyen böceklere karşı kayıplarını temsil ediyor...",
+		["minlevel"] = "39",
+		["questlevel"] = "43"
+	},
+	["2903"] = {
+		["Title"] = "Savaş Planları",
+		["Description"] = "Gnoll'ların savaş planlarının keşfedilmesiyle, artık tek kalan planları Mojache Kampı [Camp Mojache]'ndaki Hadoken Hızlıadımlı [Hadoken Swiftstrider]'ya geri götürmektir. Belki o ya da oradaki biri gnoll'ların neyin peşinde olduğunu daha iyi anlayabilir.",
+		["Objectives"] = "Odunpençe Savaş Planları [Woodpaw Battle Plans]'nı Mojache Kampı [Camp Mojache]'ndaki Hadoken Hızlıadımlı [Hadoken Swiftstrider]'ya getir.",
+		["Progress"] = "Tekrar hoş geldin $N - gnoll'ların planlarına dair somut bir kanıt bulabildin mi?",
+		["Completion"] = "Ah, tam da ihtiyacımız olan şey buydu. Bu haritadaki karalamaların çoğunun neyi şifrelediğini çözmede o kadar becerikli olmasam da, gnoll'lara ne olduğunu anlamak için hayatımda yeterince savaş planı gördüm. Şu anda iki cepheli bir savaşla savaşıyorlar gibi görünüyor. Biri bizimle... ama görünüşe göre asıl enerjileri güneylerindeki bir düşmana karşıymış.",
+		["minlevel"] = "39",
+		["questlevel"] = "43"
+	},
+	["2932"] = {
+		["Title"] = "Kasvetli Mesaj",
+		["Description"] = "Solukkabuk [Witherbark] trolleri bir zamanlar Horde'un müttefikiydi ama Thrall'a ihanet ettiler... ve bu cezalandırılmalı!$B$BAl, mızrağımı al ve uzaktaki kuzeye, İç Bölge [The Hinterlands]'ye git. Müttefiklerimiz Terk Edilmişler [Forsaken] tarafından tutulan bir köy olan Tarren Değirmeni [Tarren Mill]'nin kuzeydoğusunda bulacaksın.$B$Bİç Bölge [The Hinterlands]'ye girdiğinde Solukkabuk trollerini avla. Kafataslarını topla ve mızrağımı küçük köylerinden birinde, Hiri'watha veya Zun'watha'da toprağa sapla.$B$BAşağılık eylemlerinin sonuçları olduğunu onlara göster!",
+		["Objectives"] = "Solukkabuk Kafatasları [Witherbark Skull] topla ve Nimboya'nın Mızrağı [Nimboya's Pike]'na yerleştir. Nimboya'nın Yüklü Mızrağı [Nimboya's Laden Pike]'nı İç Bölge [The Hinterlands]'deki Solukkabuk Köylerinden birine yerleştir, ardından Stranglethorn'daki Nimboya'ya dön.",
+		["Progress"] = "Görevimi tamamlamadın, $N.",
+		["Completion"] = "Yaptığın şeyin haberi bana ulaştı. Kasvetli bir eylem ama onurlu bir eylem. Solukkabuk'ların mesajına kulak vermesini umalım.",
+		["minlevel"] = "35",
+		["questlevel"] = "42"
+	},
+	["2933"] = {
+		["Title"] = "Zehir Şişeleri",
+		["Description"] = "Bu şişeler aşağılık, yeşil bir zehir tutuyor.$B$BBu köydeki şişe sayısı göz önüne alındığında, Solukkabuk'lar buna çok önem veriyor olmalı. Belki yakındaki Tarren Değirmeni [Tarren Mill]'ndeki bir simyacı [apothecary] bir numune ister.",
+		["Objectives"] = "Tarren Değirmeni [Tarren Mill]'ndeki bir simyacıya [apothecary] bir Zehir Şişesi [Venom Bottle] getir.",
+		["Progress"] = "Merhaba, nazik $C. Gün uzun sürdü ve tek bir deney bile başarılı olmadı... Umarım bana iyi haberler getiriyorsundur.",
+		["Completion"] = "Ah, bu da ne? Zehir gibi görünüyor... Sanırım bir örümcek yaratığından. Ve bunu nereden aldın?",
+		["minlevel"] = "40",
+		["questlevel"] = "43"
+	},
+	["2934"] = {
+		["Title"] = "Hasarsız Zehir Kesesi",
+		["Description"] = "Bana getirdiğin zehrin taze bir numunesine sahip olmalıyım. Toplandığı örümcekler İç Bölge [The Hinterlands]'de yaşıyor olmalı -- hasarsız bir zehir kesesi bulana kadar onları avla ve bana getir. Shadra'Alor troll şehrinin yakınında çok sayıda örümcek bulacaksın.$B$BOyalanma, $N, çünkü zehir kesesi teslim ettiğinde taze olmalı.",
+		["Objectives"] = "Tarren Değirmeni [Tarren Mill]'ndeki Simyacı Lydon [Apothecary Lydon]'a bir Hasarsız Zehir Kesesi [Undamaged Venom Sac] getir.",
+		["Progress"] = "Hasarsız zehir kesesi yanında mı, $N? Taze zehriyle deneyler yapmak için can atıyorum ve üzerinde test etmek için küçük, son derece sevimli hayvanlardan oluşan bir koleksiyon sipariş ettim!",
+		["Completion"] = "Oh, harika! Zehir oldukça taze ve eminim çok ölümcül. Teşekkür ederim!",
+		["minlevel"] = "40",
+		["questlevel"] = "45"
+	},
+	["2935"] = {
+		["Title"] = "Usta Gadrin'e Danış",
+		["Description"] = "Ocakmuhafızlarından alınan zehir, ilk getirdiğin zehir kadar etkili değildi. Farklı bir örümcekten gelmiş olmalı.$B$BO zehrin taze bir numunesini istiyorum. Nereden geldiğini öğrenmek için Solukkabuk'u iyi bilen bir trolle -- Sen'jin Köyü [Sen'jin Village]'ndeki Usta Gadrin [Master Gadrin]'e danışmalısın. Durotar'a seyahat et ve Gadrin ile konuş. Şansın yaver giderse, Solukkabuk'ların zehirlerini nereden aldıklarını bilecektir.",
+		["Objectives"] = "Sen'jin Köyü [Sen'jin Village]'ndeki Usta Gadrin [Master Gadrin] ile konuş.",
+		["Progress"] = "",
+		["Completion"] = "Ah, demek Solukkabuk'ların örümceğinden taze zehir istiyorsun, öyle mi? Pekala, otur... Sana söyleyeceğim şeylerden hoşlanmayacaksın.",
+		["minlevel"] = "40",
+		["questlevel"] = "45"
+	},
+	["2936"] = {
+		["Title"] = "Örümcek Tanrı",
+		["Description"] = "Solukkabuk'lar bir örümcek tanrıya taparlar ve en etkili zehirlerini ondan toplarlar. Dolayısıyla zehir istiyorsan tanrılarını çağırmalısın!$B$BBunu yapmak için onun gerçek adını bilmelisin ve bu ad Tanaris'te, Zul'Farrak troll şehrinde, Şehit Theka [Theka the Martyr] tarafından korunan bir mezarda gömülü bir tablette yazılıdır.$B$BTheka'yı yen ve örümcek tanrının adını keşfetmek için tabletini bulup oku. Öğrendiğinde bana dön.",
+		["Objectives"] = "Solukkabuk örümcek tanrısının adını öğrenmek için Theka Tableti [Tablet of Theka]'nden oku, ardından Usta Gadrin [Master Gadrin]'e dön.",
+		["Progress"] = "Örümcek tanrının adını biliyor musun?",
+		["Completion"] = "Ah, Elortha no Shadra... Bu ismi sadece fısıltıyla söyle, çünkü telaffuzu ruhlar aleminde çok ağırlık taşır.$B$BOnu parşömene döküp senin için bir çağırma büyüsü oluşturacağım...",
+		["minlevel"] = "40",
+		["questlevel"] = "45"
+	},
+	["2937"] = {
+		["Title"] = "Shadra'yı Çağırmak",
+		["Description"] = "Parşömenini al ve İç Bölge [The Hinterlands]'deki Solukkabuk diyarının derinliklerindeki Shadra'Alor sunağında oku. Bu, örümcek tanrı Shadra'yı çağıracaktır.",
+		["Objectives"] = "Shadra'Alor sunağında Shadra'yı yen, ardından zehrini Tarren Değirmeni [Tarren Mill]'ndeki Simyacı Lydon [Apothecary Lydon]'a getir.",
+		["Progress"] = "Zehrı aldın mı?",
+		["Completion"] = "Tatlıım, aldın onu!",
+		["minlevel"] = "40",
+		["questlevel"] = "55"
+	},
+	["2938"] = {
+		["Title"] = "AltŞehir'e Zehir",
+		["Description"] = "Solukkabuk'un örümcek tanrısından topladığın zehir harika bir buluş! Sadece bir damlasıyla neredeyse iki düzine tavşanı öldürmeyi başardım. Kabul, o tavşanların bazıları çok gençti ve insanın avucuna sığacak kadar küçüktü, bu yüzden toksinlere karşı dirençlerinin düşük olduğundan eminim, ancak bu zehrin güçlü olduğu inkar edilemez!$B$BAltŞehir [Undercity]'in Büyücehanesi [Apothecarium]'ndaki üstüm Simyacı Faranell [Apothecary Faranell]'e bir numune gönderilmesini istiyorum. Bunu kendisinin test etmek isteyeceğinden eminim.",
+		["Objectives"] = "Faranell'in Paketi [Faranell's Parcel]'ni AltŞehir [Undercity]'deki Usta Simyacı Faranell [Master Apothecary Faranell]'e getir.",
+		["Progress"] = "Gelişinin haberi gönderildi, $N. Benim için bir paketin var mı?",
+		["Completion"] = "Ah, çok iyi. Lydon bu paketteki zehrin temas ettiği en etkili zehir olduğunu belirtti ve onunla yeni uygulamalar üzerinde çalışmakla meşgul.$B$BŞansımız yaver giderse pek çok uygulama bulacağız.$B$BTeşekkür ederim, $N. Kraliyet Simyacılar Derneği [Royal Apothecary Society]'ne hizmetin inkar edilemez.",
+		["minlevel"] = "40",
+		["questlevel"] = "55"
+	},
+	["2939"] = {
+		["Title"] = "Bilgi Arayışında",
+		["Description"] = "Feralas harabeleri oldukça tehlikeli olsa da, burada neler olduğu hakkında anlatacak çok şeyleri var.$B$BBirkaç gün önce güneydeki molozları ararken normal bir asa-apıya benzeyen bir şey keşfettim. Ancak, işin içinde daha fazlası olduğu hissini bir türlü üzerimden atamıyorum. Angelas ve ben buradaki kitaplarımızı inceliyoruz ama bu konuda tek bir şey bulamıyoruz.$B$BDarnassus'ta bunun ne olduğunu bize söyleyebilecek bir meslektaşım var, $N. Neden gidip onunla konuşmuyorsun ve bize yardım edip edemeyeceğine bakmıyorsun?",
+		["Objectives"] = "Rut'theran Köyü [Rut'theran Village]'ndaki Daryn Işıkrüzgarı [Daryn Lightwind] ile konuş.",
+		["Progress"] = "",
+		["Completion"] = "Oh, demek seni Troyas Ayboğan [Troyas Moonbreeze] gönderdi?$B$B<mırıldanır>...önemli bir şey bulduğuna dair çılgın düşünceleriyle beni her zaman rahatsız eder...$B$BBak, $N, açık konuşacağım. Troyas o harabelerde her zaman önemli bir şey bulduğunu sanır. Gerçek şu ki, gerçekten değerli olan her şey muhtemelen uzun zaman önce orada yaşayan ogreler veya harpiyalar tarafından istiflendi.$B$BAtıp bir göz atabilirsin ama burada sana yardımcı olacak herhangi bir kitap bulup bulamayacağını bilmiyorum.",
+		["minlevel"] = "42",
+		["questlevel"] = "47"
+	},
+	["2940"] = {
+		["Title"] = "Feralas: Bir Tarihçe",
+		["Description"] = "Bu kitap sanki uzun zamandır kimse tarafından açılmamış gibi görünüyor. Kapakları oldukça yıpranmış ve sayfaları sararmış, ancak inceledikten sonra Troyas'ın aradığı şeyin tam da bu olabileceğini fark ediyorsun.$B$BOnu eline alıyorsun ama ödünç almadan önce sorman gerektiğini fark ediyorsun.",
+		["Objectives"] = "Daryn Işıkrüzgarı [Daryn Lightwind]'na kitabını ödünç alıp alamayacağını sor.",
+		["Progress"] = "",
+		["Completion"] = "Yani, Feralas: Bir Tarihçe [Feralas: A History] kitabını ödünç almak istiyorsun, öyle mi?$B$BDüşüneyim...$B$BBu kitabı ödünç almana izin vereceğim, $N, ama sadece önce benim için bir şey yaparsan.",
+		["minlevel"] = "42",
+		["questlevel"] = "47"
+	},
+	["2941"] = {
+		["Title"] = "Ödünç Alan",
+		["Description"] = "Zamanımda pek çok konuyu inceledim ve son ilgim İç Bölge [The Hinterlands]'deki sahili kaplayan kırançeneler. Özellikle görmek istediğim biri var, Gammerita adında dev bir kırançene. Kendim gitmek isterdim ama araştırmam beni burada tutuyor. Bence onun bir resmi ikinci en iyi şey olurdu.$B$BBu mektubu Tanaris'teki Curgle Kranklehop'a götür. Benim için resim çekebilen bir icat yaptı. Sanırım ona \"enstantane\" diyordu...",
+		["Objectives"] = "Mektubu Tanaris'teki Curgle Kranklehop'a götür.",
+		["Progress"] = "Bir mektup -- benim için mi?",
+		["Completion"] = "Sen Daryn'in stajyerlerinden biri misin? O oldukça bilgili bir tarihçidir, $N. Liderliğinde eğitim aldığın için minnettar olmalısın.$B$BŞimdi, Süper Çekim FX [Super Snapper FX]'i alayım. Bayılacaksın!",
+		["minlevel"] = "42",
+		["questlevel"] = "48"
+	},
+	["2942"] = {
+		["Title"] = "Morrow Taşı",
+		["Description"] = "Eser Tektaş'tan çıkarıldığı anda, Equinex Asa-Apsı [Stave of Equinex]'ndaki enerjinin solmaya başladığını hissediyorsun.",
+		["Objectives"] = "Işıldayan Taş [Sparkling Stone]'ı ve Equinex Asa-Apsı [Stave of Equinex]'nı Tüymuhfaza Kalesi [Feathermoon Stronghold]'ndaki Troyas Ayboğan [Troyas Moonbreeze]'a geri götür.",
+		["Progress"] = "Döndüğüne sevindim, $N. Bulgularını duymak için sabırsızlanıyorum.",
+		["Completion"] = "Sen gittiğinden beri okuyorum, $N. Bulduğun bu taşa Morrow Taşı deniyor. Amacının ne olduğundan henüz tamamen emin olmasam da, Equinex Tektaş [Equinex Monolith]'ın içinde bu şekilde saklanmasının büyük önem taşıyan bir şey olduğundan emin olabilirsin.",
+		["minlevel"] = "42",
+		["questlevel"] = "50"
+	},
+	["2943"] = {
+		["Title"] = "Troyas'a Dönüş",
+		["Description"] = "İşte burada, $N. Lütfen kitabıma iyi bak.$B$BŞimdi acele et. Troyas'ın dönüşünü sabırsızlıkla beklediğinden eminim.",
+		["Objectives"] = "Kitabı Tüymuhfaza Kalesi [Feathermoon Stronghold]'ndaki Troyas Ayboğan [Troyas Moonbreeze]'a teslim et.",
+		["Progress"] = "Merhaba, $N. Darnassus'ta bulundun mu?",
+		["Completion"] = "Yanında bir kitap getirdin. Mükemmel!",
+		["minlevel"] = "42",
+		["questlevel"] = "48"
+	},
+	["2944"] = {
+		["Title"] = "Süper Çekim FX",
+		["Description"] = "Yeni icadıma ilk sen bak, $N. Tek yapman gereken resmini çekmek istediğin şey neyse onu hedeflemek ve düğmeye basmak.$B$BBahsettiğin İç Bölge [The Hinterlands]'deki o yaratık neydi? Gammerita mı? Pekala, onu bulmada iyi şanslar. Daryn'in ona götüreceğin enstantaneden oldukça memnun kalacağından eminim.$B$BHer neyse, işte Süper Çekim. İyi eğlenceler!",
+		["Objectives"] = "Gammerita'nın enstantanesini çekmek için Süper Çekim FX [Super Snapper FX]'i kullan, ardından Rut'theran Köyü [Rut'theran Village]'ndaki Daryn Işıkrüzgarı [Daryn Lightwind]'na dön.",
+		["Progress"] = "Demek sonunda döndün, $N. Ve Curgle'ın benim için yaptığı zımbırtıyı getirdin -- mükemmel.",
+		["Completion"] = "Vay be! Curgle'ın icadı beklentilerini karşıladı.$B$BÇok heyecanlanma ama işinden memnun olduğumu bil, $N.$B$BŞimdi o kitabı nereye bırakmıştım...",
+		["minlevel"] = "42",
+		["questlevel"] = "48"
+	},
+	["2969"] = {
+		["Title"] = "Tüm Yaratıklara Özgürlük",
+		["Description"] = "Pis Kasvetgezen klanı peri ejderhalarını yakalıyor, $N. Jer'kai ve benim onlarla ne yapmayı planladıklarına dair hiçbir fikrimiz yok ama kesinlikle iyi bir şey peşinde değiller.$B$BKampa savaşarak girip yakalanan ejderhaları özgür bırakacak kadar güçlü değiliz ama belki senin yardımınla...$B$BEğer istekliysen ve birkaç güçlü arkadaşın varsa, yaratıkları bu anahtarla kafeslerinden sal ve canlarıyla kaçtıklarından emin ol. Tüm zaman boyunca senin yanında olacağım. Jer'kai burada kalacak.",
+		["Objectives"] = "Bambu Kafes Anahtarı [Bamboo Cage Key]'nı kullanarak Peri Ejderleri [Sprite Darter]'ni Kasvetgezen kampındaki ağıldan kurtar. En az 6 Peri Ejderi ve Kindal Dokudokuyan [Kindal Moonweaver] hayatta kalmalıdır.$B$BKindal geri çekilme zamanının geldiğine karar verip görevi başarısız kılana kadar 6 dakikan var.",
+		["Progress"] = "Kasvetgezen klanının bu güzel yaratıkları yok etmesine izin veremeyiz. Tutsaklıktan salınmalıdırlar!",
+		["Completion"] = "Elune'ye şükürler olsun, $N! Bize ve kurtardığın ejderlere büyük bir lütufsun. Jer'kai ve ben ejderhalara asla kendimiz yardım edemezdik--Kasvetgezen'in işlerine müdahalen hatırlanacak.$B$BŞimdi Jer'kai ile konuş... Misillememiz için hazırlanmalıyım. Peri ejderhalarının özgür olması, öyle kalacakları anlamına gelmez. Jer'kai ve ben şimdi saldırıya geçeceğiz.",
+		["minlevel"] = "38",
+		["questlevel"] = "47"
+	},
+	["2970"] = {
+		["Title"] = "Adaleti Dağıtmak",
+		["Description"] = "Sana daha önce de söylediği gibi, Kindal ve ben şimdi savaşı Kasvetgezen'e taşıyacağız. Birlikte, kendimize fazla tehdit oluşturmadan taurenlerden bazılarını teker teker avlayabilmeliyiz, ancak istekli ve muktedirsen biraz yardım isteriz.$B$BAşağıdaki kampımızı gördün ama doğuda daha fazlası var. Kendi taktiklerini kullanarak taurenlere verebildiğin kadar zarar ver. Kindal'ın oklarının ve kendi silahlarının acısını hissettikten sonra hepimiz burada tekrar buluşabiliriz.",
+		["Objectives"] = "Feralas'taki Jer'kai Dokudokuyan [Jer'kai Moonweaver]'ya dönmeden önce 12 Kasvetgezen Doğa Bilimci [Grimtotem Naturalist], 10 Kasvetgezen Yağmacı [Grimtotem Raider] ve 6 Kasvetgezen Şaman [Grimtotem Shaman] öldür.",
+		["Progress"] = "Kindal'ın hazırlanmak için zamana ihtiyacı var ama öldürdüklerimizin sayısı şimdiden onlarca. Kasvetgezen klanı bölgedeki varlığımızın fazlasıyla farkında ve bizi engerekler gibi arıyorlar.$B$BBaşlarımızı gövdelerimizden almak için ellerinden gelen her şeyi yapacaklar. Tetikte olmalısın... Müdahale ettiğin için senin için de gelecekler.",
+		["Completion"] = "Kindal senin hakkında haklıydı, $N--bu işte gerçekten bir hünerin var. İkimizden de daha deneyimli bir maceracısın ve bunun için sana teşekkür ederiz.$B$BKasvetgezen klanı çoğu taurenden çok daha düşmanca... Kendi türlerinin eylemlerini tasvip edip etmediğini merak ediyorum. Şaşırmam. Muhtemelen farkında olduğun gibi, Azeroth'taki pek çok ırkın daha az nazik muadilleriyle bağları vardır.$B$BAma bu başka bir günün konusu.",
+		["minlevel"] = "38",
+		["questlevel"] = "47"
+	},
+	["2972"] = {
+		["Title"] = "Adaleti Dağıtmak",
+		["Description"] = "Burada, yaban hayatın içinde Kindal ve ben yardımını ödüllendirmek için kıt imkanlara sahibiz ama takdir edilmediğini hissetmeni istemiyoruz. Mühür yüzüğümü al. Kendini Teldrassil'in dallarında bulursan, Darnassus'un kalbindeki Ay Tapınağı [Temple of the Moon]'na git. Orada Yüksek Rahibem Tyrande Fısıltırüzgarı [Tyrande Whisperwind]'nı bulacaksın. Yüzük ona iyi olduğumuzu bildirecek ve hikayene itibar kazandıracaktır.$B$Bİkimiz de sana teşekkür ederiz, $N.",
+		["Objectives"] = "Jer'kai'nin Mühür Yüzüğü [Jer'kai's Signet Ring]'nü Darnassus'taki Yüksek Rahibe Tyrande Fısıltırüzgarı [High Priestess Tyrande Whisperwind]'na götür.",
+		["Progress"] = "Merhaba çocuk. Tapınakta daha güçlü maceracılara sahip olmak bizi mutlu ediyor. Vaktin varsa genç maceracılarla bir iki hikaye paylaşır mısın? Birçoğunun senin bilgeliğinden yararlanacağını biliyorum.$B$BÜzgünüm, bak ne kadar kaba davrandım. Yardımımızı istemek için Tapınağa geldin ve ben sana baskı yapıyorum. Lütfen beni bağışla. Işık hizmetkarlarının senin için ne yapabileceğini söyle.",
+		["Completion"] = "Bu harika bir hikaye, $N. Sadece ejderha türüne değil, kendi rahibelerimizden birine de yardım etmiş olman bizi mutlu ediyor. Jer'kai seni bana göndermekte haklıydı. Yüzüğünün kendisine iade edilmesini sağlayacağım--yakında Feralas yönüne gidecek izcilerim var. Görevlerindeyken araştıracakları bir şey daha olacak.$B$BTekrar teşekkür ederim ve lütfen buradayken kendinizi evinizde hissedin.",
+		["minlevel"] = "38",
+		["questlevel"] = "47"
+	},
+	["2973"] = {
+		["Title"] = "Yeni Bir Pelerinin Parıltısı",
+		["Description"] = "İyi karşılaştık, $c. Orgrimmar ustalarımızın bir görevi için yoldaşlarımla birlikte Feralas'a seyahat ettim.$B$BHayat arkadaşım Korrin yeni kıyafetlerden büyük keyif alıyor, ben de ona peri ejderhalarının tül kanatlarıyla süslenmiş yeni bir pelerin yapmayı hedefliyorum. Bana yardım edebilir misin? İstediğim muhteşem kanatlara sahip peri ejderleri Mojache Kampı [Camp Mojache]'nın batısındadır.",
+		["Objectives"] = "Mojache Kampı [Camp Mojache]'ndaki Krueg Kafatasıyaran [Krueg Skullsplitter]'a 10 Yanardöner Peri Ejderi Kanadı [Iridescent Sprite Darter Wing] getir.",
+		["Progress"] = "Peri ejderleri kışkırtıldıklarında tehlikeli yaratıklar olabilir. Onlarla ilgilenirken dikkatli ol, $C. Ve bölgedeki gece elflerine karşı daha da dikkatli ol. Can sıkıcı aptallar ormanlarda tutunma eğilimindedir.$B$BYeterince kanat aldığında bana haber ver, seni iyi ödüllendireceğimden emin olacağım!",
+		["Completion"] = "Harika, $C! Bunlar iş görür. Burada Korrin için bir pelerin yapmaya yetecek kadar var, hatta belki daha da fazlası! Teşekkür ederim.$B$BUmarım yolculuk çok tehlikeli geçmemiştir? Feralas bölgesi bağışlayıcı olmasıyla bilinmez ama belli ki yeterince iyi iş çıkarmışsın.$B$BTekrar teşekkürler, $C.",
+		["minlevel"] = "38",
+		["questlevel"] = "45"
+	},
+	["2974"] = {
+		["Title"] = "Kasvetli Bir Keşif",
+		["Description"] = "Ne!? Bölgede taurenlere mi rastladın? Şaka yapıyorsun! Neye benziyorlardı!?$B$BKasvetgezen klanı! Onlardan bazılarını buldun mu? Ustalarımızdan biri olan Belgrom onların türüne ilgi duyuyor... Hatta başlarına ödül bile koydu.$B$BGeri gitmelisin, $c. Geri git ve bana boynuzlarını getir... Yapabiliyorsan yığınla. Kasvetgezen önemsenmeyecek ya da hafife alınmayacak bir klan. Geri git ve onları katlet; Feralas'taki nehirlerin onların karanlık kanıyla kırmızı akmasını sağla.",
+		["Objectives"] = "Mojache Kampı [Camp Mojache]'ndaki Krueg Kafatasıyaran [Krueg Skullsplitter]'a 20 Kasvetgezen Boynuzu [Grimtotem Horn] getir.",
+		["Progress"] = "Sözlerimi ciddiye al, $C, Kasvetgezen klanı kötüdür. Nerede olduklarını bulduysan, geri dönüp klanlarına karşı ilk darbeyi vurmak sana kalmış... kendi topraklarımıza gelip köylerimizi yerle bir etmeden veya topraklarımızı yağmalamadan önce.",
+		["Completion"] = "Bunlar iyi boynuzlar, $C. Aferin. Bunları senden alacağım ve Orgrimmar'a döner dönmez Belgrom'a haber vereceğimden emin olacağım. Bana iki kez yardım ettin ve bunun için nişanımı aldın. Belki gelecekte ben de sana yardım edebilirim! Sana iyi şanslar.",
+		["minlevel"] = "38",
+		["questlevel"] = "45"
+	},
+	["2975"] = {
+		["Title"] = "Feralas'ın Ogreleri",
+		["Description"] = "Gordunni Ogre kabilesinin etkileri bu bölgede fark edilmeden geçemez. Etrafına bak, $N; varlıkları bile bu toprağı yaralıyor. Feralas'ın daha da içlerine yayılmadan önce onları geri püskürtmeliyiz.$B$BNehri kuzeye doğru takip et, karakollarını bulacaksın. Sayılarını azalt, $N. Onlara türlerinin burada istenmediğini göstermeliyiz.",
+		["Objectives"] = "Mojache Kampı [Camp Mojache]'ndaki Rok Orhan 10 Gordunni Ogre [Gordunni Ogre], 10 Gordunni Büyücü-Ogre [Gordunni Ogre-Magi] ve 5 Gordunni Kaba Kuvvet [Gordunni Brute] öldürmeni istiyor.",
+		["Progress"] = "Hızlı hareket et, $N. Yoksa istediğim görev çok mu zordu?",
+		["Completion"] = "Mükemmel, $N. Zamanla toprak iyileşecek. Pes etmemeliyiz.",
+		["minlevel"] = "38",
+		["questlevel"] = "43"
+	},
+	["2976"] = {
+		["Title"] = "Kasvetli Bir Keşif",
+		["Description"] = "Ne?!$B$BAh, demek bir ödülden bahsettim, değil mi? Şey, bu bana çenemi tutmayı öğretecek, değil mi?$B$Bİşi sen yaptın, bu yüzden en büyük ödülü senin toplaman adil olur sanırım. Boynuzları al, senin için bir sandığa koyduracağım. Onur Vadisi [Valley of Honor]'ndeki Belgrom Kayabalyoz [Belgrom Rockmaul]'u bul, ne gördüğünü bilmek isteyecektir ve sıkı çalışman için seni ödüllendirecektir.$B$Bİyi ol, $c, ve yaptığın her şey için tekrar teşekkürler.",
+		["Objectives"] = "Kasvetgezen Boynuzları Sandığı [Crate of Grimtotem Horns]'nı Orgrimmar'daki Belgrom Kayabalyoz [Belgrom Rockmaul]'a getir.",
+		["Progress"] = "Çabuk ol, $C, bugün tamamlamam gereken çok şey var.",
+		["Completion"] = "Kasvetgezen mi!? Bu ilginç. Feralas'ta avlanırken onlara rastladığını mı söylüyorsun? Gerçekten mi?$B$BAkranlarım haberlerini duymak isteyecektir, $C. Sen anlatırken ben de paranı sayayım.$B$BVe gitmeden önce, bugün bana aktardığın bilgiler için sana teşekkür ettiğimi bil.",
+		["minlevel"] = "37",
+		["questlevel"] = "45"
+	},
+	["2978"] = {
+		["Title"] = "Gordunni Parşömeni",
+		["Description"] = "Kirli parşömeni eline aldığında, bir tür toplantı veya töreni tasvir eder gibi göründüğünü fark ediyorsun. Rok Orhan bu parşömenle ve Gordunni için ne anlama gelebileceğiyle ilgilenecektir.",
+		["Objectives"] = "Gordunni Parşömeni [Gordunni Scroll]'ni Mojache Kampı [Camp Mojache]'ndaki Rok Orhan'a getir.",
+		["Progress"] = "Bu da ne?",
+		["Completion"] = "Bu parşömen... Bunu Gordunni Karakolu [Gordunni Outpost]'nda mı buldun?",
+		["minlevel"] = "38",
+		["questlevel"] = "43"
+	},
+	["2979"] = {
+		["Title"] = "Karanlık Tören",
+		["Description"] = "Bunlar bir tür karanlık törenin planları gibi görünüyor, $N. Anlayabildiğim kadarıyla bu ritüel Gordunni büyücü-lordları tarafından yürütülüyor.$B$BBu büyücü-lordlarından birini bul ve ondan bir küre al.$B$BBir büyücünün küresi büyük güç barındırır ve bu tören ve Gordunni'nin kullandığı büyü hakkında daha fazla şey keşfetmemize yardımcı olacaktır.",
+		["Objectives"] = "Mojache Kampı [Camp Mojache]'ndaki Rok Orhan bir Gordunni Küresi [Gordunni Orb] bulmanı istiyor.",
+		["Progress"] = "Gordunni'lerin neden burada olduğu hakkında daha fazla şey keşfetmeliyiz, $N.",
+		["Completion"] = "Bu küre bize Gordunni hakkında daha fazla bilgi sağlayacak... ki bunu daha sonra çöküşlerini planlamada kullanacağız, $N.",
+		["minlevel"] = "38",
+		["questlevel"] = "46"
+	},
+	["2980"] = {
+		["Title"] = "Feralas'ın Ogreleri",
+		["Description"] = "Gerçek bir savaşçı olduğunu kanıtladığına göre, eldeki görevle devam edecek cesarete sahip olduğuna güveniyorum.$B$BBuranın güneybatısındaki Yüksek Yabanlık [High Wilderness]'a seyahat et. Orada, bir zamanlar gece elflerine ait olan topraklarda terk edilmiş ve yıkılmış bazı yapılar bulunuyor. Bu harabeleri ara; solmuş ağaçları ve kirletilmiş araziyi gördüğünde Gordunni'leri bulacaksın. Onları geri püskürt.$B$BBu ogreler daha önce karşılaştıklarından çok daha güçlü, $N. Farkında ol.",
+		["Objectives"] = "Mojache Kampı [Camp Mojache]'ndaki Rok Orhan 10 Gordunni Şaman [Gordunni Shaman], 10 Gordunni Warlock [Gordunni Warlock] ve 5 Gordunni Hırpalayıcı [Gordunni Mauler] öldürmeni istiyor.",
+		["Progress"] = "Harabeleri buldun mu, $N?",
+		["Completion"] = "Güvenilir ve bel bağlanabilir bir müttefik olduğunu kanıtladın, $N.",
+		["minlevel"] = "38",
+		["questlevel"] = "44"
+	},
+	["2982"] = {
+		["Title"] = "Yüksek Yabanlık",
+		["Description"] = "Tehlikeli olmasına rağmen Troyas ve ben Feralas ormanlarını kaplayan harabeleri araştırıyoruz.$B$BSon zamanlarda Troyas Yüksek Yabanlık [High Wilderness]'a tek başına gidiyor ve onun için gerçekten endişeleniyorum. Gordunni Ogreleri o bölgeyi ele geçirdi ve topraklarına giren kimseye hoş bakmıyorlar.$B$BGüneydoğudaki harabelere seyahat etmeye ve ogrelerden bazılarını temizlemeye istekli olabileceğini umuyordum. Benim Troyas'ım için orayı biraz daha güvenli hale getir, ben de son derece minnettar olayım.",
+		["Objectives"] = "Angelas Ayboğan [Angelas Moonbreeze] 8 Gordunni Warlock [Gordunni Warlock], 8 Gordunni Şaman [Gordunni Shaman] ve 8 Gordunni Kaba Kuvvet [Gordunni Brute] öldürmeni istiyor.",
+		["Progress"] = "Gordunni'lerin etrafında dikkatli ol, $N. Büyüleri üzerinde durdukları toprağı bile mahvediyor gibi görünüyor.",
+		["Completion"] = "Bunu benim için yapabildiğin için çok minnettarım.$B$BŞimdi, lütfen Troyas'a bundan tek bir kelime bile bahsetme...",
+		["minlevel"] = "39",
+		["questlevel"] = "44"
+	},
+	["2987"] = {
+		["Title"] = "Gordunni Kobaltı",
+		["Description"] = "Feralas'a henüz geldim ve buradaki yaban hayatta yaşayan Gordunni Ogrelerinin ilginç minerallere sahip olduğunu duydum. Neyin peşindeler kim bilir ama bu şeyleri korudukları kesin! Öylece ortalıkta bırakmıyorlar; hayır, benim gibi insanların ellerine geçmesini önlemek için gömüyorlar.$B$Bİstekliysen sana küreğimi vereceğim. Buranın kuzeyindeki Gordunni Karakolu [Gordunni Outpost]'na git ve bana biraz Gordunni kobaltı kaz. Mavi parıltıyı ara, sonra kazmaya başla!",
+		["Objectives"] = "Mojache Kampı [Camp Mojache]'ndaki Orwin Gizzmick 12 Gordunni Kobaltı [Gordunni Cobalt] numunesi istiyor.",
+		["Progress"] = "Yukarı çık ve kazmaya başla!$B$BGidecek yerlerim ve görecek insanlarım var -- vakit nakittir!",
+		["Completion"] = "Mükemmel! Yolculuklarıma devam ederken bunları da yanıma alacağım, $N. Bu kobalt için iyi para ödeyecek birini bulabileceğimden eminim.$B$BAl, zahmetin için bunu al.",
+		["minlevel"] = "38",
+		["questlevel"] = "43"
+	},
+	["2988"] = {
+		["Title"] = "Solukkabuk Kafesleri",
+		["Description"] = "En güçlü grifonumuzun oğlu gitti! Hızlıkanat'ın [Swiftwing] varisi Keskingaga [Sharpbeak], birkaç gün önce ebeveynleriyle avlanırken kayboldu ve onu trollerin aldığına inanıyoruz.$B$BBize yardım etmelisin! Keskingaga'nın orada olup olmadığını görmek için iki Solukkabuk troll köyündeki kafesleri ara.",
+		["Objectives"] = "İki Solukkabuk köyündeki kafesleri kontrol et, ardından Grifon Ustası Pençebalta [Gryphon Master Talonaxe]'ya dön.",
+		["Progress"] = "Kafesleri aradın mı, $N? Keskingaga'yı bulmalıyız!",
+		["Completion"] = "Keskingaga köylerde değil miydi? Hm... bu kasvetli bir haber. O grifon, gelecek nesil grifonlara liderlik etmeye aday. Eğer kaybolursa filomuzun gücü ve ruhu muazzam şekilde zarar görecektir.",
+		["minlevel"] = "40",
+		["questlevel"] = "45"
+	},
+	["2989"] = {
+		["Title"] = "Zul Sunağı",
+		["Description"] = "Keskingaga, Solukkabuk trollerinin yanında değildi. Belki de onu Fenaağaç [Vilebranch] trolleri almıştır. Fenaağaç bölgesinin batı ucundaki Zul Sunağı [Altar of Zul]'na git ve grifon çocuğunu ara.",
+		["Objectives"] = "Zul Sunağı [Altar of Zul]'nın tepesini kontrol et, ardından Grifon Ustası Pençebalta [Gryphon Master Talonaxe]'ya dön.",
+		["Progress"] = "Acele et, $N! Fenaağaç trollerinde Keskingaga varsa, onunla ne yapıyor olabileceklerini kim bilir!",
+		["Completion"] = "Keskingaga orada değil miydi? Bu kötü bir haber, ama aynı zamanda iyi bir haber...$B$BZul Sunağı [Altar of Zul]'nda olmaması iyi çünkü Fenaağaç trolleri kurban verme ritüelleriyle bilinir.$B$BTüm yardımın için sana teşekkür ederim ama korkarım önümde daha da büyük bir görev var.",
+		["minlevel"] = "40",
+		["questlevel"] = "48"
+	},
+	["2990"] = {
+		["Title"] = "Thadius Kasvetgölge",
+		["Description"] = "Bu tüyü falcı Thadius Kasvetgölge [Thadius Grimshade]'ye götür. Daha karanlık bilgilerin peşinden gitmek için yıllar önce Kartal Zirvesi [Aerie Peak]'nden ayrıldı, ama kalbinde hâlâ bir Yabanbalyoz!$B$BVe belki de yetenekleri Keskingaga'yı bulmamıza yardımcı olabilir.$B$BBu tüy grifon çocuğunun uyuduğu yuvadan alındı. Onu Thadius'a verirsen, şansın yaver giderse, Keskingaga'yı bulmak için fal büyülerinden yararlanabilir.$B$Bİyi şanslar, $N. Thadius'u Lanetli Topraklar [Blasted Lands]'da, Nethergarde Kalesi [Nethergarde Keep]'nin büyücü kulesinde bulacaksın.",
+		["Objectives"] = "Keskingaga'nın Tüyü [Sharpbeak's Feather]'nı Lanetli Topraklar [Blasted Lands]'daki Thadius Kasvetgölge [Thadius Grimshade]'ye getir.",
+		["Progress"] = "$N, yanında bir hediye mi getiriyorsun?",
+		["Completion"] = "Ah, evet. Bu tüy harika bir grifona ait. Büyük şeylere aday biri... Yetişkinliğe zarar görmeden ulaşabilirse.$B$BOnu bulmak mı istiyorsun? O zaman iyi dinle cesur $C...",
+		["minlevel"] = "40",
+		["questlevel"] = "47"
+	},
+	["2991"] = {
+		["Title"] = "Nekrum'un Madalyonu",
+		["Description"] = "Grifonunun nerede olduğunu öğreneceğim ama önce benim için bir şey yapmalısın. Zul'Farrak'ta, incelemeyi çok istediğim bir madalyona sahip olan Nekrum Bağırsakçiğneyen [Nekrum Gutchewer] adında bir troll var. Bana o Madalyonu getir, ben de güçlerimi Keskingaga'yı bulmak için kullanayım.$B$BZul'Farrak batıdaki okyanusun karşı tarafında, Tanaris çölündedir.",
+		["Objectives"] = "Nekrum'un Madalyonu [Nekrum's Medallion]'nu Lanetli Topraklar [Blasted Lands]'daki Thadius Kasvetgölge [Thadius Grimshade]'ye getir.",
+		["Progress"] = "Nekrum'un Madalyonu yanında mı, $N? İçinde keşfetmeye can attığım gizli güçler var.",
+		["Completion"] = "Ah, Nekrum'un madalyonu. Troll e doğal olmayan uzun bir yaşam verdiği söyleniyor ama bir bedelle. Madalyonun gücünü toplarken... tatsız yan etkilerinden kaçınmanın bir yolunu keşfetmeyi umuyorum.$B$BBana bir hizmette bulundun, $N. Ben de anlaşmamızın üzerime düşen kısmını tutacağım.",
+		["minlevel"] = "40",
+		["questlevel"] = "47"
+	},
+	["2992"] = {
+		["Title"] = "Fal Bakma",
+		["Description"] = "Ben bir fal ritüeli gerçekleştirirken bana alan aç. Bana getirdiğin tüy ile sahibi arasındaki bağı bulacağım ve o bağı Keskingaga'nın kendisine kadar takip edeceğim.$B$BYani... her şey plana göre giderse. Gitmezse... gözlerini kapatsan iyi edersin.",
+		["Objectives"] = "Kasvetgölge fal ritüelini gerçekleştirene kadar bekle.",
+		["Progress"] = "",
+		["Completion"] = "Ritüel başarılı oldu. Keskingaga'yı gördüm ve onu nasıl bulacağını söyleyebilirim.",
+		["minlevel"] = "40",
+		["questlevel"] = "47"
+	},
+	["2993"] = {
+		["Title"] = "İç Bölge'ye Dönüş",
+		["Description"] = "Keskingaga, İç Bölge [The Hinterlands]'deki Jintha'Alor'un tepesindeki yüksek bir kayalıkta bir kafeste tutuluyor. Bu kafesin anahtarı Fenaağaç trollerinin yüksek rahibesi Fena Rahibe Hexx [Vile Priestess Hexx]'te bulunuyor.$B$Bİşte. Üzerime düşeni yaptım. Görevinde sana talih dilerim, $N.",
+		["Objectives"] = "Grifon Ustası Pençebalta [Gryphon Master Talonaxe] ile konuş.",
+		["Progress"] = "",
+		["Completion"] = "Kasvetgölge ile konuştun mu? Ne dedi?$B$B...Ne? Fenaağaç trollerinde Keskingaga mı var? Bu dayanılmaz! Onu geri almak için bir kuvvet organize etmeliyiz!",
+		["minlevel"] = "40",
+		["questlevel"] = "47"
+	},
+	["2994"] = {
+		["Title"] = "Keskingaga'yı Kurtarmak",
+		["Description"] = "Keskingaga'yı kurtarmalıyız!$B$BFenaağaç bölgesinin kalbindeki Jintha'Alor'un tepesine kadar savaş, Fena Rahibe Hexx [Vile Priestess Hexx]'ten Keskingaga'nın kafesinin anahtarını al ve ardından Keskingaga'yı bulup kurtar!",
+		["Objectives"] = "Jintha'Alor'un tepesine kadar savaş, Keskingaga'nın kafesinin anahtarı için Fena Rahibe Hexx [Vile Priestess Hexx]'i öldür ve Keskingaga'yı kurtar.",
+		["Progress"] = "Keskingaga'yı kurtar!",
+		["Completion"] = "Hızlıkanat [Swiftwind] ve Keskinpençe [Keenclaw] az önce çocuklarıyla geri döndüler ve yeni ebeveynler gibi onun üzerine titriyorlar. Onları tekrar birlikte görmek bu yaşlı cücenin gözlerini buğulandırmaya yeter de artar bile...$B$BYaptıkların için sana ne kadar teşekkür etsek azdır, $N. Kartal Zirvesi [Aerie Peak]'nin grifonları ve binicileri adını çok ama çok uzun süre şarkılarında söyleyecek.",
+		["minlevel"] = "40",
+		["questlevel"] = "51"
+	},
+	["3002"] = {
+		["Title"] = "Gordunni Küresi",
+		["Description"] = "Düşmanımı iyi bilmeme rağmen ben bir savaşçıyım, $N. Bu kürenin neye muktedir olduğunu anlatmaya başlayamam.$B$BOrgrimmar'da bize küre hakkında daha fazla şey söyleyebilecek bir büyücü tanıyorum. Onu ona götür.",
+		["Objectives"] = "Gordunni Küresi [Gordunni Orb]'ni Orgrimmar'daki Karanlıkçalı Köşkü [Darkbriar Lodge]'nde bulunan Uthel'nay'a getir.",
+		["Progress"] = "Bana ne getirdin, $R?",
+		["Completion"] = "Büyüleyici, $N...$B$BBu küre çok güçlü ama aynı zamanda çok tehlikeli.",
+		["minlevel"] = "38",
+		["questlevel"] = "47"
+	},
+	["3062"] = {
+		["Title"] = "Karanlık Kalp",
+		["Description"] = "Edana Nefretpençe [Edana Hatetalon], batıdaki harabelerde yaşayan Kuzeypınarı harpiyalarının kraliçesidir. O katıksız bir kötülüktür; kalbinin kristalden olduğunu duydum. Diğer herkese karşı hissettiği nefret dışında her türlü duygudan yoksundur. Edana ile yüzleşmeli ve bana onun karanlık kalbini getirmelisin.$B$BHarpiyaların taşıdığı bir boru duydum -- harabelerin kuzey kısmındaki Nefretpençe taşlarının yanında çalmak kraliçeyi çağıracaktır.$B$BOnu çağıranın kendi soyu değil de ölümü olduğunu görünce yaşayacağı şaşkınlığı hayal et.",
+		["Objectives"] = "Mojache Kampı [Camp Mojache]'ndaki Talo Dikenboynuz [Talo Thornhoof], Edana Nefretpençe'nin Karanlık Kalbi [Edana Hatetalon's Dark Heart]'ni istiyor.",
+		["Progress"] = "Edana'nın toprağa yaydığı nefret durdurulmalı.",
+		["Completion"] = "Şimdi Edana'nın gerçekten öldüğünü biliyorum. Bu kalp; burada benim için yaptığın şeyin anısına onu saklayacağım, $N. Teşekkür ederim.",
+		["minlevel"] = "45",
+		["questlevel"] = "50"
+	},
+	["3063"] = {
+		["Title"] = "Kuzeypınarı'ndan İntikam",
+		["Description"] = "Zamanımda deneyimli bir avcıydım. Etrafta korktuğum hiçbir yaratık yoktu. Ta ki...$B$BZorlu bir savaştan sonra kılıcımı bilerken ormandaydım ve pusuya düşürüldüm. Harpiyalar etrafımı sardı ve kendimi güvenli bir yere zorla sürükleyebildim.$B$BŞimdi bile çığlıklarının yankılandığını duyabiliyorum...$B$BBundan sonra asla eskisi gibi olamadım. Ama nefret içimde kaynıyor -- bunca yıldan sonra ödeşmeliyim.$B$BKuzeypınarı harpiyaları buranın batısında bulunabilir. $N, intikamımı al.",
+		["Objectives"] = "Talo Dikenboynuz [Talo Thornhoof] 4 Kuzeypınarı Harpiyası [Northspring Harpy], 4 Kuzeypınarı Hilekarüyü [Northspring Roguefeather], 4 Kuzeypınarı Rüzgarçağıranı [Northspring Windcaller] ve 4 Kuzeypınarı Katili [Northspring Slayer] öldürmeni istiyor.",
+		["Progress"] = "Kuzeypınarı harpiyalarının kanatları gece kadar siyahtır; gözlerinizi üzerlerinden ayırmayın, yoksa karanlıkta kaybolurlar.",
+		["Completion"] = "Teşekkür ederim, $N. Yaşlı bir taurenin zihnini huzura kavuşturdun.",
+		["minlevel"] = "45",
+		["questlevel"] = "50"
+	},
+	["8433"] = {
+		["Title"] = "Savaşşarkısı Kanyonu Savaşı",
+		["Description"] = "Savaşşarkısı Kanyonu [Warsong Gulch]'nda Gümüşkanat Muhafızları [Silverwing Sentinels]'na karşı yapılan savaş büyük önem taşıyor. Kendilerine ait olmayan bir ormanı koruma kisvesi altında İttifak [Alliance], Horde'un en büyük kereste kaynaklarından birini engellemeye çalışıyor.$B$BBunun olmasına izin verme, $N! Horde'a kayda değer bir şekilde hizmet ettiğinin kanıtıyla bana geri dön!",
+		["Objectives"] = "Savaş alanlarının dışındaki bir Horde Savaşgetireni [Horde Warbringer]'ne 3 Savaşşarkısı Onur Nişanı [Warsong Mark of Honor] getir.",
+		["Progress"] = "Savaşşarkısı Kanyonu [Warsong Gulch]'nda Gümüşkanat Muhafızları [Silverwing Sentinels]'na karşı yapılan savaş büyük önem taşıyor. Kendilerine ait olmayan bir ormanı koruma kisvesi altında İttifak [Alliance], Horde'un en büyük kereste kaynaklarından birini engellemeye çalışıyor.$B$BBunun olmasına izin verme, $N! Horde'a kayda değer bir şekilde hizmet ettiğinin kanıtıyla bana geri dön!",
+		["Completion"] = "Mükemmel! Savaşşarkısı Kanyonu [Warsong Gulch]'ndaki operasyonlarımızı savunarak değerini gösterdin! Onurunun haberi topraklarımızda dalga dalga yayılsın.",
+		["minlevel"] = "40",
+		["questlevel"] = "49"
+	},
+	["8432"] = {
+		["Title"] = "Savaşşarkısı Kanyonu Savaşı",
+		["Description"] = "Savaşşarkısı Kanyonu [Warsong Gulch]'nda Gümüşkanat Muhafızları [Silverwing Sentinels]'na karşı yapılan savaş büyük önem taşıyor. Kendilerine ait olmayan bir ormanı koruma kisvesi altında İttifak [Alliance], Horde'un en büyük kereste kaynaklarından birini engellemeye çalışıyor.$B$BBunun olmasına izin verme, $N! Horde'a kayda değer bir şekilde hizmet ettiğinin kanıtıyla bana geri dön!",
+		["Objectives"] = "Savaş alanlarının dışındaki bir Horde Savaşgetireni [Horde Warbringer]'ne 3 Savaşşarkısı Onur Nişanı [Warsong Mark of Honor] getir.",
+		["Progress"] = "Savaşşarkısı Kanyonu [Warsong Gulch]'ndaki savaş kızışarak devam ediyor, $N. Gümüşkanat Muhafızları [Silverwing Sentinels]'nı topraklarımızdan sürmek için üzerine düşeni yap!",
+		["Completion"] = "Aferin, $C! Horde'un Savaşşarkısı Kanyonu [Warsong Gulch] üzerindeki mülkiyetini güvence altına almaya yardımcı oldun!",
+		["minlevel"] = "30",
+		["questlevel"] = "39"
+	},
+	["8431"] = {
+		["Title"] = "Savaşşarkısı Kanyonu Savaşı",
+		["Description"] = "Savaşşarkısı Kanyonu [Warsong Gulch]'nda Gümüşkanat Muhafızları [Silverwing Sentinels]'na karşı yapılan savaş büyük önem taşıyor. Kendilerine ait olmayan bir ormanı koruma kisvesi altında İttifak [Alliance], Horde'un en büyük kereste kaynaklarından birini engellemeye çalışıyor.$B$BBunun olmasına izin verme, $N! Horde'a kayda değer bir şekilde hizmet ettiğinin kanıtıyla bana geri dön!",
+		["Objectives"] = "Savaş alanlarının dışındaki bir Horde Savaşgetireni [Horde Warbringer]'ne 3 Savaşşarkısı Onur Nişanı [Warsong Mark of Honor] getir.",
+		["Progress"] = "Savaşşarkısı Kanyonu [Warsong Gulch]'ndaki savaş kızışarak devam ediyor, $N. Gümüşkanat Muhafızları [Silverwing Sentinels]'nı topraklarımızdan sürmek için üzerine düşeni yap!",
+		["Completion"] = "Mükemmel! Savaşşarkısı Kanyonu [Warsong Gulch]'ndaki operasyonlarımızı savunarak değerini gösterdin! Onurunun haberi topraklarımızda dalga dalga yayılsın.",
+		["minlevel"] = "20",
+		["questlevel"] = "29"
+	},
+	["8430"] = {
+		["Title"] = "Savaşşarkısı Kanyonu Savaşı",
+		["Description"] = "Savaşşarkısı Kanyonu [Warsong Gulch]'nda Gümüşkanat Muhafızları [Silverwing Sentinels]'na karşı yapılan savaş büyük önem taşıyor. Kendilerine ait olmayan bir ormanı koruma kisvesi altında İttifak [Alliance], Horde'un en büyük kereste kaynaklarından birini engellemeye çalışıyor.$B$BBunun olmasına izin verme, $N! Horde'a kayda değer bir şekilde hizmet ettiğinin kanıtıyla bana geri dön!",
+		["Objectives"] = "Savaş alanlarının dışındaki bir Horde Savaşgetireni [Horde Warbringer]'ne 3 Savaşşarkısı Onur Nişanı [Warsong Mark of Honor] getir.",
+		["Progress"] = "Savaşşarkısı Kanyonu [Warsong Gulch]'ndan haberlerin var mı, $N?",
+		["Completion"] = "Mükemmel! Savaşşarkısı Kanyonu [Warsong Gulch]'ndaki operasyonlarımızı savunarak değerini gösterdin! Onurunun haberi topraklarımızda dalga dalga yayılsın.",
+		["minlevel"] = "60",
+		["questlevel"] = "60"
+	},
+	["3121"] = {
+		["Title"] = "Garip Bir İstek",
+		["Description"] = "Orgrimmar'daki Neeru Alevbıçak [Neeru Fireblade], burada başlamam için ihtiyacım olan şeye sahip! Benim... şey, göreceksin, onun için ihtiyacım olan bir karışım hazırladı.$B$BŞimdi git bakalım -- Orgrimmar'a. Al bunu da yanında götür. Otlar karşılığında Neeru'ya söz verdiğim büzülmüş bir kafa. Ormanda rastladığım zavallı bir cücenin kafası. Neeru'nun memnun kalacağından eminim.$B$BNeeru'yu Gölge Yarığı [Cleft of Shadow]'nda bulacaksın.",
+		["Objectives"] = "Büzülmüş Kafa [Shrunken Head]'yı Orgrimmar'daki Neeru Alevbıçak [Neeru Fireblade]'a götür.",
+		["Progress"] = "Evet?",
+		["Completion"] = "Uzer'i'nin bunu teslim etmesini bekliyordum...$B$BOnun... şey, deneyleri için hazırladığım ot karışımını vereyim...",
+		["minlevel"] = "40",
+		["questlevel"] = "45"
+	},
+	["3122"] = {
+		["Title"] = "Cadı Doktor Uzer'i'ye Dönüş",
+		["Description"] = "İşte otlar, $N. Onları Cadı Doktor Uzer'i [Witch Doctor Uzer'i]'ye götür.$B$BLütfen büzülmüş kafadan memnun kaldığımı ona bildir.",
+		["Objectives"] = "Neeru'nun Ot Torbası [Neeru's Herb Pouch]'nı Feralas'taki Cadı Doktor Uzer'i [Witch Doctor Uzer'i]'ye teslim et.",
+		["Progress"] = "Neeru ile konuştun mu?",
+		["Completion"] = "Bu tam da muisek kabını hazırlamak için ihtiyacım olan şey, $N. Yakında son efsunlarımın umduğum kadar güçlü olup olmadığını göreceğiz.$B$BLütfen bir dakika. Ritüeli gerçekleştirmeli ve otları uygulamalıyım.",
+		["minlevel"] = "40",
+		["questlevel"] = "45"
+	},
+	["3123"] = {
+		["Title"] = "Kabı Test Etmek",
+		["Description"] = "Bu bir test olacak; hem gerçekleştirdiğim ritüelin hem de senin yeteneklerinin. Bu kabı al, $N. Onunla bir yaratığı küçültüp içinde yakalama gücüne sahip olacaksın.$B$Bİç Bölge [The Hinterlands]'ye seyahat et ve bir zamanlar gece elfi tanrıçası Elune'nin evcil hayvanları olan Yabanakrabası [Wildkin] olarak bilinen yaratıkları ara. Vahşi, ilkel veya gaddar baykuşayılar senin hedeflerindir, $N. 10 tanesini öldür ve ruhları kaçmadan önce onları küçültüp yakalamak için muisek kabını kullan.",
+		["Objectives"] = "İç Bölge [The Hinterlands]'ye seyahat et ve Yabanakrabası [Wildkin]'nı bul. 10 tanesini öldür ve düşen Yabanakrabası'nı küçültüp yakalamak için Muisek Kabı [Muisek Vessel]'nı kullan.$B$B10 Yabanakrabası Muisek'i [Wildkin Muisek] ve Muisek Kabı [Muisek Vessel]'nı Feralas'taki Cadı Doktor Uzer'i [Witch Doctor Uzer'i]'ye getir.",
+		["Progress"] = "Yabanakrabasını yakalayabildin mi?$B$BBaşarırsan, Feralas yaratıklarının muiseklerini küçültmeye ve yakalamaya hazır olacağız.",
+		["Completion"] = "Şiddetli bir ölüm üzerine, bir yaratığın muiseki kaçabilir ve intikam arayabilir. Yaratıkları küçültmek, senin yaptığın gibi $N, muisekin kaçmasını engeller. Şimdi onu istediğimiz gibi kullanabiliriz!",
+		["minlevel"] = "40",
+		["questlevel"] = "47"
+	},
+	["3124"] = {
+		["Title"] = "Hipogrif Muisek'i",
+		["Description"] = "Hem güvenilir olduğunu hem de muisek kabını kullanma yeteneğine sahip olduğunu kanıtladığına göre, şimdi başka bir yaratığı yakalamanı istiyorum.$B$BHipogrifler uzun yıllardır gece elflerinin sadık dostları olmuşlardır; ruhları sadık ve sarsılmazdır.$B$BGörevin 10 yıpranmıştüy hipogrif öldürmek ve muiseklerinin korunabilmesi için kapla onları hızlıca küçültüp yakalamaktır. Hipogrifleri buranın güneyindeki Yüksek Yabanlık [High Wilderness]'da bulacaksın.",
+		["Objectives"] = "Herhangi bir türde 10 Yıpranmıştüy Hipogrif [Frayfeather Hippogryph] öldür, ardından onları küçültüp yakalamak için Muisek Kabı [Muisek Vessel]'nı kullan.",
+		["Progress"] = "Hipogrifleri yakalayabildin mi?",
+		["Completion"] = "Bir hayvanı öldürdükten sonra muisekin kaçmasına izin verseydik, daha da büyük bir yaratık formunu alabilirdi. Onun intikamından asla güvende olamazdık.$B$BSana verdiğim tehlikeli bir iş, $N. Yine iyi tamamladın.",
+		["minlevel"] = "40",
+		["questlevel"] = "47"
+	},
+	["3125"] = {
+		["Title"] = "Peri Ejderi Muisek'i",
+		["Description"] = "$N, sırada görünüşte oldukça kırılgan görünebilecek ancak güçlü ruhunun gerçekten peşinde olduğumuz bir yaratığı yakalaman var. Bahsettiğim peri ejderhaları gece elflerine müttefik olarak hizmet ettiler. Horde'un da bu ruh gücünden yararlanabilmesi için bir tanesini yakalamalıyız.$B$Bİşte muisek, $N. 8 peri ejderi [sprite darter] veya peri ejderhası [sprite dragon] öldür ve muiseklerini yakala. Buranın batısında bulunabilirler.",
+		["Objectives"] = "8 Peri Ejderi [Sprite Darter] veya Peri Ejderhası [Sprite Dragon] öldür. Düşen Peri Ejderhalarını küçültüp yakalamak için Muisek Kabı [Muisek Vessel]'nı kullan.",
+		["Progress"] = "Peri ejderhalarının muisekini yakalayabildin mi?",
+		["Completion"] = "Teşekkür ederim, $N. Artık peri ejderhasının ruhani güçleri hizmetimizde olacak.$B$BBenim için başka bir görevi yerine getirmeye istekli olmanı umuyorum.",
+		["minlevel"] = "40",
+		["questlevel"] = "45"
+	},
+	["3126"] = {
+		["Title"] = "Treant Muisek'i",
+		["Description"] = "Ormanda gezinen Gezgin Ormanyürüyenleri sonraki hedefimizdir, $N. Gece elfleri, Horde'a karşı savaşmak için treant'ları müttefik olarak aldılar. Hareketleri yavaş olabilir ama koruyucu olarak rolleri inkar edilemez.$B$BYakında bu gücü kendi yararımıza kullanabileceğiz.$B$B3 Gezgin Ormanyürüyeni bul; onları öldür ve muisek kabını kullanarak onları küçültüp yakala.",
+		["Objectives"] = "3 Gezgin Ormanyürüyen [Wandering Forest Walker] öldür. Düşen Treant'ları küçültüp yakalamak için Muisek Kabı [Muisek Vessel]'nı kullan.",
+		["Progress"] = "Gezgin ormanyürüyenlerini yakalayabildin mi?",
+		["Completion"] = "Teşekkür ederim, $N. Muisek koleksiyonumuz neredeyse tamamlandı.",
+		["minlevel"] = "40",
+		["questlevel"] = "50"
+	},
+	["3127"] = {
+		["Title"] = "Dağ Devı Muisek'i",
+		["Description"] = "Senden isteyeceğim son görev kuzeybatıya seyahat edip son düşmanı bulmandır.$B$BDağ devleri, Yanan Lejyon [Burning Legion] dünyada göründüğünde gece elflerine yardım etmek için dağları terk ettiler. Masif boyutlarından ve kayalık arazilerinde seyahat ederken yerin sallanmaya başlama şeklinden onları tanıyacaksın.$B$BBu boyuttaki gücü dizginlemeye can atıyorum. 7 dağ devi öldür, ardından güçlü muiseklerini yakalamak için muisek kabını kullan.",
+		["Objectives"] = "7 Karayürüyen [Land Walker] veya Kayalık Devı [Cliff Giant] öldür. Düşen Dağ Devlerini küçültüp yakalamak için Muisek Kabı [Muisek Vessel]'nı kullan.",
+		["Progress"] = "Dağ devlerini yakalayabildin mi?",
+		["Completion"] = "Şimdi sahip olduğumuz şeyin olasılıklarını hayal et, $N. Topladığın malzemelerle birlikte bu yaratıkların muiseklerini sonsuza dek istediğim şeye hapsedebileceğim.",
+		["minlevel"] = "40",
+		["questlevel"] = "50"
+	},
+	["3128"] = {
+		["Title"] = "Doğal Malzemeler",
+		["Description"] = "Çabamı tamamlamak için belirli malzemelere ihtiyacım olacak... Bunu sana vereceğim diğer görevlerin yanında yapabilirsin.$B$BFeralas'taki bir treant'tan kıymıklı kütüğe ihtiyacım var. Kabuklaşmış mineraller, bunlar batıdaki dağ devlerinde ve peri ejderhalarında bulunabilir. Ayrıca bana İç Bölge [The Hinterlands]'deki baykuşayılardan veya Feralas'taki hipogriflerden esnek kiriş bul. Son olarak, bahsettiğim bu yaratıkların herhangi birinden çok miktarda metalik parça gerekecek.",
+		["Objectives"] = "Mojache Kampı [Camp Mojache]'ndaki Cadı Doktor Uzer'i [Witch Doctor Uzer'i]'ye 2 Kıymıklı Kütük [Splintered Log], 6 Kabuklaşmış Mineral [Encrusted Minerals], 20 parça Esnek Kiriş [Resilient Sinew] ve 40 Metalik Parça [Metallic Fragments] getir.",
+		["Progress"] = "İhtiyacım olan malzemeleri toplayabildin mi?",
+		["Completion"] = "Mükemmel! Bu malzemeler muisek ile birleştiğinde tam da istediğimiz sonuçları vermeli.",
+		["minlevel"] = "40",
+		["questlevel"] = "50"
+	},
+	["3129"] = {
+		["Title"] = "Ruh Silahları",
+		["Description"] = "Muiseki silahlara efsunlamak zor bir süreçtir. Artık gerekli tüm malzemelere ve yakaladığın yaratıkların muisekine sahip olduğuma göre başlayabilirim. Lütfen bekle; birazdan döneceğim.",
+		["Objectives"] = "Cadı Doktor Uzer'i [Witch Doctor Uzer'i] silahları hazırlarken bir dakika beklemeni istiyor.",
+		["Progress"] = "",
+		["Completion"] = "Söz verildiği gibi seçim senin, $N. Yaratıkların muiseki bu silahların gücüne sonsuza dek mühürlendi.$B$BArtık onların enerjisini kendi enerjin gibi kullanabilirsin. İyi kullan.",
+		["minlevel"] = "40",
+		["questlevel"] = "50"
+	},
+	["3130"] = {
+		["Title"] = "Nefretarmağan'a Karşı",
+		["Description"] = "Bu noktada seni ikinci komutanım Latronicus'a yönlendireceğim. Bugüne kadar naga kuvvetlerini yakından takip ediyor. Naga ile ilgili buradaki genel durumu değerlendireceğim; onlara karşı tam bir kuvvetle harekete geçmek istesem de, kaleyi Horde'dan - ya da daha kötüsünden - gelecek doğrudan bir saldırıya açık bırakmak ideal görünmüyor.$B$BHer neyse, Latronicus bekliyor. Şimdiye kadarki iyi iş çıkardın, $n. Böyle devam et.$B$BÇıkabilirsin.",
+		["Objectives"] = "Tüymuhfaza Kalesi [Feathermoon Stronghold]'ndaki Latronicus Aymızrağı [Latronicus Moonspear]'na rapor ver.",
+		["Progress"] = "",
+		["Completion"] = "Mükemmel, $N - Birlikte çalıştığım kişilerde \"yapabilirim\" tavrına değer veririm.$B$BGeneral Tüymuhfaza [Feathermoon] tarafından nagalarla doğrudan ilgilenmekle görevlendirildim. Planlarım iki yönlü: birincisi, kuvvetlerini hem sayı hem de komuta açısından zayıflatacağız ve ikincisi, harabelerde neyin peşinde olduklarını ortaya çıkaracağız. Senin yardımınla, kalenin genel güvenliğini feda etmeden naga varlığına karşı koyacağız.",
+		["minlevel"] = "40",
+		["questlevel"] = "43"
+	},
+	["3141"] = {
+		["Title"] = "Loramus",
+		["Description"] = "İblislerle savaşmak mı istiyorsun? Hikayemi dinlesen iyi edersin.",
+		["Objectives"] = "Loramus Thalipedes'in hikayesini anlatmasını dinle.",
+		["Progress"] = "Sözümü kesme, $R.",
+		["Completion"] = "Öyle olsun...",
+		["minlevel"] = "45",
+		["questlevel"] = "57"
+	},
+	["3321"] = {
+		["Title"] = "Bunu Kaybettin mi?",
+		["Description"] = "Tarikat için çok şey yaptın, $N. Bu kadar uzağa gitmek için gereken katı adanmışlık, sıradan bir insanı geri çevirirdi. Benim zihnimde veya Galvan'ın zihninde bizden biri olduğuna dair hiçbir şüphe yok.$B$Bİşte bu yüzden küçük bir ödülü hak ettiğini düşünüyorum. Aslında önemli bir şey değil, sadece bir ziynet. Özelliklerine aşina olabilirsin, zira seni en başında bize getiren şeyin o olduğuna inanıyorum.",
+		["Objectives"] = "Trenton işini bitirene kadar bekle.",
+		["Progress"] = "Bugün Tarikata olan bağlılığının kutlamasını sonlandırıyoruz.",
+		["Completion"] = "Yüksel ve tanın, $N, Mithril Tarikatı demircisi.",
+		["minlevel"] = "40",
+		["questlevel"] = "50"
+	},
+	["3363"] = {
+		["Title"] = "Yozlaşmış Şarkıçiçeği",
+		["Description"] = "",
+		["Objectives"] = "",
+		["Progress"] = "Şarkıçiçeği [songflower] bitkisi gibi görünen şeyin hastalıklı, yozlaşmış bir versiyonunu buldun. Bitkiden keskin, sağlıksız bir koku yayılıyor. Tekrar normale döndürülmesi gerekiyorsa acilen bir tür bakıma ihtiyacı var.",
+		["Completion"] = "Şarkıçiçeğine biraz Cenarion bitki merhemi [Cenarion plant salve] sürüyorsun. Anında yozlaşmış formunu dökmeye başlıyor, canlı ve sağlıklı bir bitki olarak çiçek açıyor.",
+		["minlevel"] = "48",
+		["questlevel"] = "55"
+	},
+	["3373"] = {
+		["Title"] = "Eranikus'un Özü",
+		["Description"] = "Mücevhere dokunduğun anda zihninde derin bir ses yankılanıyor.$B$B\"Ölümlü, bu yakarışa kulak ver. Ben Yeşil Ejderhasoyunun Eranikus'uyum [Eranikus of the Green Dragonflight], bu lanetli tapınağın koruyucusuyum. Trollerin bir daha igrenç tanrılarını ortaya çıkarmamalarını sağlama görevim şimdilik başarısızlıkla sonuçlandı. Bu mücevhere özümün bir kısmını efsunlarken, Rüyadaki tutuşumun kaosa doğru büküldüğünü hissediyorum. Lütfen - bu mücevheri inimdeki öz çeşmesine yerleştir ve oradaki büyümüzün zihnimdeki lekeyi temizlemesine izin ver ki dinlenebileyim.\"",
+		["Objectives"] = "Eranikus'un Özü [Essence of Eranikus]'nü Batık Tapınak [Sunken Temple]'taki ininde bulunan Öz Çeşmesi [Essence Font]'ne yerleştir.",
+		["Progress"] = "Eranikus'un bahsettiği öz çeşmesine yaklaştıkça, sesi zihnine bir kez daha dokunuyor.$B$B\"Evet ölümlü, bu öz çeşmesi zihnimin bu mücevhere efsunlanmış olan lekesiz ögesini kurtaracak. Mücevheri çeşmenin içine koy ve Yeşil Ejderhasoyunun büyüsünün benliğimdeki yozlaşmayı ve lekeyi temizlemesine izin ver. Ancak o zaman gerçek serbest kalışa ulaşacağım ve ancak o zaman Ejderhasoyu Atal'ai üzerindeki koruyuculuklarını yeniden kurabilecek.\"",
+		["Completion"] = "Mücevheri öz çeşmesinin içine koyuyorsun.$B$B\"Teşekkür ederim ölümlü, başardın - hayır... bu, bu olamaz! Hayır! Bu lanetli tanrının yozlaşması Yeşil Ejderhasoyu öz çeşmesinin kutsallığını bile lekeliyor! Hayır lütfen, özümün benden söküldüğünü hissediyorum! ACI! Sonsuz bir kabusun tutuşunun beni ele geçirdiğini hissediyorum...\"$B$B\"Ölümlü, sana yalvarıyorum! Bunu durdurmak için Yeşil Ejderhasoyundan birini bul... bana yardım et... karanlığa zincirlendim... sonsuza dek azap içindeyim... lütfen işkence etme...\"",
+		["minlevel"] = "48",
+		["questlevel"] = "55"
+	},
+	["3377"] = {
+		["Title"] = "Elune'ye Dua",
+		["Description"] = "Bana yardım eder misin ölümlü? Hikayemi dinle.",
+		["Objectives"] = "Zamael'in hikayesini anlatmasını dinle.",
+		["Progress"] = "Hikayemi bitirmeme izin ver.",
+		["Completion"] = "Bu kafesteki kaderimi kabul ettim ama dua bulunmalı.",
+		["minlevel"] = "40",
+		["questlevel"] = "50"
+	},
+	["3378"] = {
+		["Title"] = "Elune'ye Dua",
+		["Description"] = "Bana yardım eder misin ölümlü? Elune'ye duayı bulacak mısın?$B$BBelirttiğim gibi, dua altın bir tablete kazınmıştı. Bu idole tapan alçaklardan birinin üzerinde olmalı.$B$BDuamı geri alırsan, onu Darnassus'taki Astarii Yıldızarayacı [Astarii Starseeker]'na götür. Bu dünyaya ve sakinlerine karşı işlediğim sayısız kötü eylemden sonra inancımın yeniden alevlenmiş olması pek önemli değil ama duam duyulmalı. Günahlardan arınma beklediğim son şey.",
+		["Objectives"] = "Elune'ye Dua [Prayer to Elune]'yı bul ve Darnassus'taki Astarii Yıldızarayacı [Astarii Starseeker]'na götür.",
+		["Progress"] = "Seni Ay Tapınağı [Temple of the Moon]'na getiren nedir, $N?",
+		["Completion"] = "Elune bu akşam sana gülümsüyor, $N. Kayıp bir ruhu ona geri döndürdün. Lütfen bunu minnettarlığımızın bir simgesi olarak kabul et.",
+		["minlevel"] = "40",
+		["questlevel"] = "50"
+	},
+	["3379"] = {
+		["Title"] = "Gölgedokuyan",
+		["Description"] = "Kavuran Yıkıntı [Searing Gorge]'nın örümcekleri paha biçilmez bir gölge ipeği kaynağıdır. Bildiğin gibi gölge ipeği zanaatımızın sanatkarları tarafından oldukça rağbet görüyor.$B$BSon zamanlarda bir grup kaçak avcı bu topraklara tecavüz etti ve eylemlerinin uzun vadeli etkisini hiç düşünmeden örümcekleri kitleler halinde dikkatsizce katletti. Bu yüzden senden istediğim ilk görev basit bir görev: Onları bul... ve işlerini bitir.$B$BAramana kuzeyden başla.$B$BYardıma ihtiyacın olursa Raze ile konuş.",
+		["Objectives"] = "Kavuran Yıkıntı [Searing Gorge]'nda dolaşan Gölge İpeği Kaçak Avcıları [Shadow Silk Poacher] grubunu öldür. Nilith'in yok edilmesi gereken beş kişi olduklarına inanmak için nedenleri var. Bu görev tamamlandığında Kavuran Yıkıntı [Searing Gorge]'ndaki Nilith'e dön.",
+		["Progress"] = "Hangi bilgilere sahipsin?",
+		["Completion"] = "Mükemmel iş, $N.$B$BEminim bu henüz görmediğin bir gölgedokuma parçasıdır.",
+		["minlevel"] = "40",
+		["questlevel"] = "50"
+	},
+	["3380"] = {
+		["Title"] = "Batık Tapınak",
+		["Description"] = "Bu dünyada huzursuz ruhlar var, $N. Yalnızlıklarıyla lekelenmiş, kadim bir kötülüğe bağlanmış ruhlar var...$B$BDünyanın yüzeyinin çok derinlerinde yer alan bir yer duydum -- gördüğüm en büyük güçler tarafından oraya sürgün edilmiş.$B$BBu yer; Batık Tapınak [Sunken Temple] hakkında daha fazla şey öğrenmek istiyorsan Marvon Perçinrayacı [Marvon Rivetseeker] adında bir goblin ara. Dünyanın pek çok kadim bölgesini inceledi ve en son Tanaris'teki troll harabelerini incelemek için CırcırÇarkı [Ratchet]'ndaki evinden ayrıldığı biliniyordu.",
+		["Objectives"] = "Tanaris'teki Marvon Perçinrayacı [Marvon Rivetseeker]'yı bul.",
+		["Progress"] = "",
+		["Completion"] = "Evet, Batık Tapınak [Sunken Temple], onu kendi gözlerimle gördüğümü söyleyebilirim. Belki bu konuda daha fazla şey duymak istersin?$B$BMaceracı bir tipe benziyorsun -- ilgini çekebilecek şeyler biliyorum...",
+		["minlevel"] = "46",
+		["questlevel"] = "51"
+	},
+	["3382"] = {
+		["Title"] = "Saldırı Altındaki Mürettebat",
+		["Description"] = "Aba atmak için güvenli bir liman arayışıyla kıyının hemen açıklarındaydık. Güneş batalı bir saat bile olmamıştı ki saldırdılar... o lanet nagalar!$B$BNe aradıklarından emin değilim ama bulamadıkları açık--şimdiden bir kez geri geldiler. Birkaç izcim, bir sonraki saldırı geldiğinde bize adil bir uyarı vermek için vadinin girişinde nöbet tutuyor.$B$BŞimdi geldiğin için üzgünüm, $N, ama bu benim elimde değil.$B$BHayatının savaşına hazır mısın?",
+		["Objectives"] = "Kaptan Vanessa Beltis, mürettebatı ve Ufuk İzcisi [Horizon Scout] yolcularını naga saldırısına karşı koru. Kaptan Vanessa Beltis hayatta kalmalıdır.",
+		["Progress"] = "Andron ile henüz buluştun mu? AltŞehir [Undercity]'den nadiren ayrılır, bu yüzden onu bulmanın çok zor olacağını sanmıyorum.",
+		["Completion"] = "Başardın! Teşekkür ederim! Kesinlikle katıldığım en vahşi savaşlardan biriydi. Sana ne kadar teşekkür etsem azdır.$B$BSadece mürettebatımdan daha fazlasının bu çileden sağ çıkabilmiş olmasını dilerdim.$B$BUfuk İzcisi [Horizon Scout]'nden hayatta kalan yolcularla konuşmanı isterim. Buralarda işleri olanlar vardı ve istekliysen sana bir iki ricaları olabilir. Yardımların için tekrar teşekkür ederim.",
+		["minlevel"] = "48",
+		["questlevel"] = "57"
+	},
 
     --123456789
 
 
 	
 
-	["1126"] = {    ["Title"]="Hive in the Tower",    ["Description"]="The hive needs to be addressed in Southwind Village, and I think I know a way to get at them.  It's been my experience that the silithid hives are very sensitive to their environment; this explains their attacks when hearing the death wails of the spirits.$B$BThe silithid are strongest in the tower - the one with the mass of wasps circling it.  Scale the tower and jostle the hive into activity.  Report back what you learn, but be careful!  If you uncover anything that might help, bring it to me.",    ["Objectives"]="Scale the tower of Southwind Village and locate a means to stir the silithid hive into activity.  Bring back anything unusual you may uncover when doing so to Layo Starstrike at the Valor's Rest graveyard of Silithus.",    ["Progress"]="Well, did it work? You're still in one piece, which is good news. Did you find anything?",    ["Completion"]="What the... what is it?$B$BIt has the shape of a... box, maybe? It's encrusted over something fierce. Wait, there a portion here that's exposed... is that a book underneath all this gunk?$B$BI think you've stumbled across quite the find here, $N... well, at least I hope it is. Perhaps it is a journal or a log from ancient times, preserved in this shell.$B$BI think I know a way to find out what this is.",    ["minlevel"]="54",    ["questlevel"]="57"},
+	
 
-	["1133"] = {    ["Title"]="Journey to Astranaar",    ["Description"]="If you're fresh off the boat from Menethil, then the first thing you should do is... go to Astranaar.  I'm sure an eager member of the Alliance such as you can do some real good there.  Speak with Shindrell Swiftfire and offer your services.$B$BBut don't bother mentioning who sent you.  Shindrell does not know me...",    ["Objectives"]="Speak with Shindrell Swiftfire in Astranaar.",    ["Progress"]="",    ["Completion"]="You are here to offer your services to the Alliance, $N? We welcome the aid, for although its beauty remains... Ashenvale Forest is not the peaceful place it once was.",    ["minlevel"]="18",    ["questlevel"]="20"},
-
-	["1135"] = {    ["Title"]="Highperch Venom",    ["Description"]="As you may know, wyverns are often tamed by orcs for use as mounts.  But what is less known is that the venom of a wyvern, in some circles, is more valuable than the beast itself.  So if you're not afraid to do a little wyvern hunting, then... I have a job for you.$B$BThere is a place called Highperch in the land of a Thousand Needles, west of here.  The Highperch wyverns have a potent venom.  Potent, and valuable.",    ["Objectives"]="Bring 10 Highperch Venom Sacs to Fiora Longears in Theramore.",    ["Progress"]="Did you find Highperch, $N? Any luck with the wyverns there?",    ["Completion"]="Ah, most of these are nearly bursting with venom, $N. Such are normally only gathered from young wyverns, or fertile females. It must have been quite a slaughter up there in Highperch!",    ["minlevel"]="25",    ["questlevel"]="30"},
-
-	["1166"] = {    ["Title"]="Overlord Mok'Morokk's Concern",    ["Description"]="Bow before Overlord Mok'Morokk!$b$bRexxar make me mighty leader of Stonemaul Clan!$b$bMe good leader. Me keep clan safe.$b$bBig dragons come and make fire at old home. Me smart ogre. Find new home for clan here.$b$bLeave old home so fast, me forget stuff. Tiny $r, go get my things. Go south and find my yummy grog, my snuff and my strongbox. Me like you after you do that. You look in Den of Flame and Stonemaul Ruins... they be there, me sure!",    ["Objectives"]="Overlord Mok'Morokk in Brackenwall Village wants you to retrieve his grog, snuff and strongbox in Dustwallow Swamp.",    ["Progress"]="Me thirsty for grog. Me miss snuff too. Where is strongbox? You go get for Overlord Mok'Morokk.$B$BGo find south in old home. Me too busy leading ogres to get.",    ["Completion"]="You good $R. Me miss things very much. Me like you now.",    ["minlevel"]="38",    ["questlevel"]="43"},
-
-	["1168"] = {    ["Title"]="Army of the Black Dragon",    ["Description"]="Mok'Morokk was made Overlord by Rexxar. He care more for power than he care for ogres.$b$bBlack dragons kill many ogre. Kill Tharg's wife. Mok'Morokk tell us to run. Make us come here.$b$bOgre should fight. Ogres not good at running. Mok'Morokk care only about Mok'Morokk.$b$bMe call Stonemaul Ruins home. Me like it in the south. This place not home.$b$bHelp ogres fight army of the black dragon. Me want revenge. Me want to go home.",    ["Objectives"]="Tharg in Brackenwall Village wants you to kill 15 Firemane Scouts, 10 Firemane Ash Tails, and 5 Firemane Guards.",    ["Progress"]="Mok'Morokk tell all ogres to stay and keep this place safe. Me think ogres need to kill black dragon army and get old home back.$B$BYou help ogres get home back. Help ogres get revenge.",    ["Completion"]="You kill many of the black dragon army. You brave $R.$B$BMake Tharg happy.",    ["minlevel"]="38",    ["questlevel"]="43"},
-
-	["1169"] = {    ["Title"]="Identifying the Brood",    ["Description"]="Whilst that craven fool, Mok'Morokk, wallows in power and Tharg wrestles the demons of sorrow and vengeance and vies for leadership of the clan, I seem to be the only one concerned with identifying the source of aggression on our old home.$b$bWhy the puzzled stare, $n? Expecting me to speak like an uncouth ruffian merely because I am an ogre?$b$bNow back to business, bring to me the hearts and tongues from the whelps and hatchlings. I shall trace the root of this evil...",    ["Objectives"]="Draz'Zilb in Brackenwall Village would like you to bring him 15 Searing Tongues and 15 Searing Hearts.",    ["Progress"]="With the hearts and tongues of scorched offspring of the black dragon army, I can decipher what wretched beast introduced her spawn into our home. Perhaps with a greater knowledge of our aggressors, we can seek to destroy them once and for all and reclaim Stonemaul Village from ruin.$B$BOf course, convincing Mok'Morokk to move his lethargic, fat mass out of this muck hole is going to be an epic quest in and of itself...",    ["Completion"]="'Twas a perilous affair, no doubt, collecting all of these hearts and tongues. I shall delve into the depths of the arcane to trace the origin of the black menace which has descended upon our former home.",    ["minlevel"]="38",    ["questlevel"]="43"},
-
-	["1170"] = {    ["Title"]="The Brood of Onyxia",    ["Description"]="Stonemaul Village was invaded by the brood of Onyxia. But why would the daughter of the black dragonlord, Deathwing, descend upon our lands?$b$bThis is most troubling. Surely, Onyxia was driven here for a purpose beyond laying siege to a small band of ogres.$b$bNotify Mok'Morokk at once! Action must be taken.",    ["Objectives"]="Speak with Overlord Mok'Morokk in Brackenwall Village.",    ["Progress"]="",    ["Completion"]="Why you tell me 'bout dragons? Me no like dragons. Me like it here. No dragons here.",    ["minlevel"]="38",    ["questlevel"]="43"},
-
-	["1171"] = {    ["Title"]="The Brood of Onyxia",    ["Description"]="You leave me alone now. Go tell Draz'Zilb we stay here. No black dragon here.",    ["Objectives"]="Speak with Draz'Zilb in Brackenwall Village.",    ["Progress"]="",    ["Completion"]="That lazy coward!$B$BMok'Morokk displayed strength when Rexxar was our leader. But soon after Rexxar's departure Mok'Morokk fell prey to temptations of power. Rather than lead, he demanded. He does not serve his people but rather expects us to serve him.$B$BSomething must be done.",    ["minlevel"]="38",    ["questlevel"]="43"},
-
-	["1172"] = {    ["Title"]="The Brood of Onyxia",    ["Description"]="Onyxia's brood has been scattered across the Dragonmurk. It is imperative that no more whelps be permitted to hatch.$b$bMake haste to Wyrmbog in the south of Dustwallow Marsh. Surely, she has made her lair there. Track down the evil dragon's eggs and destroy them.$b$bWe will never reclaim Stonemaul Village if the surrounding area remains a breeding ground.$b$bAs for Mok'Morokk... I have other plans for the sod.",    ["Objectives"]="Draz'Zilb in Brackenwall Village wants you to destroy 5 Eggs of Onyxia.",    ["Progress"]="You must hurry to the Dragonmurk, $N. With Onyxia's eggs riddled around the Wyrmbog, we face overwhelming numbers unless something is done quickly.$B$BDestroy her eggs! Don't let the black dragon plague spread across our homeland!",    ["Completion"]="Splendid! It will be sometime before Onyxia can produce more eggs.$B$BOn behalf of my people, I thank you, $N.$B$BI have asked much of you so far. Perhaps you can do the Stonemaul Clan one last service.$B$BMok'Morokk is not fit to lead us. Tharg would make an excellent leader but is hindered by his injuries and age. Drive Mok'Morokk from this place by force. Only then can we appoint a new leader to return us to our proper home in the south.",    ["minlevel"]="38",    ["questlevel"]="45"},
-
-	["1173"] = {    ["Title"]="Challenge Overlord Mok'Morokk",    ["Description"]="You dare challenge Overlord Mok'Morokk?$b$bHaw!$b$bMe crush tiny $r!$b$bYou tell me when ready for good beating.",    ["Objectives"]="Defeat Mok'Morokk and report the news to Draz'Zilb in Brackenwall Village.",    ["Progress"]="I thought you were going to attempt to drive Mok'Morokk out of the village. Instead you have come to me to chat?",    ["Completion"]="That cowardly fat mass Mok'Morokk fled like a scared child. You have done a great service, $N.$B$BNow my people can appoint a new leader, one who will help us reclaim our old home once and for all.",    ["minlevel"]="38",    ["questlevel"]="45"},
-
-	["1177"] = {    ["Title"]="Hungry!",    ["Description"]="Mud big ogre.$b$bMe hungry.$b$bGo bash fishy. Bring Mud food.$b$bYou feed Mud or Mud eat you.",    ["Objectives"]="Mudcrush Durtfeet in northern Dustwallow wants 12 Mirefin Heads.",    ["Progress"]="Gimme food or me eat you.",    ["Completion"]="Me like fishy head!$B$BMe no eat you now.",    ["minlevel"]="32",    ["questlevel"]="36"},
-
-	["1193"] = {    ["Title"]="A Broken Trap",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="A large, broken trap lies before you. From the looks of it, the ogres have tried to repair the trap but to no avail. A hastily written note lies next to the trap, and strangely enough it details exactly what is needed to repair it: a thorium widget and some frost oil. Were the trap repaired, an ogre passing near it might get trapped, and could be avoided.$B$BClearly, it would seem fortuitous that very few ogres know how to read.$B$BClearly.",    ["Completion"]="The thorium widget slides effortlessly into place, creating a conduit to pour the frost oil down. Once the last drops of oil have been emptied into it, the trap snaps into position.$B$BWoe be to any unwary ogre that should just so happen to wander by!",    ["minlevel"]="56",    ["questlevel"]="60"},
-
-	["1201"] = {    ["Title"]="Theramore Spies",    ["Description"]="The Horde and Alliance hold an uneasy truce.  Outlying skirmishes and covert actions are taken by one side against the other, and it is our duty to ensure the Horde is on top!$B$BNow is the chance to do just that.$B$BAlliance infiltrators have taken positions east of Brackenwall Village.  They spy on the village and report our movements to Theramore, which we cannot allow.$B$BHunt down the infiltrators and slay them.  Send a clear message to their superiors that we will not tolerate their spies' presence!",    ["Objectives"]="Kill 9 Theramore Infiltrators, then return to Nazeer Bloodpike in Brackenwall Village.",    ["Progress"]="Did you find the infiltrators, $N?",    ["Completion"]="Good work.  Their infiltrators are skilled, but they're not good enough to escape the watchful eye of the Horde!",    ["minlevel"]="30",    ["questlevel"]="35"},
-
-	["1202"] = {    ["Title"]="The Theramore Docks",    ["Description"]="$N, two of our spies were sent to steal documents from a ship at the Theramore docks.  They gained the papers but were discovered, and were forced to throw the documents into the sea.$B$BOne spy later escaped, but was unable to recover the prize.  He reported his failure to me, and I now charge the task to you.$B$BThe documents are in a footlocker, in the waters somewhere beneath the Theramore docks.  Find those documents, $N, and bring them to me.",    ["Objectives"]="Bring the Captain's Documents to Nazeer Bloodpike in Brackenwall Village.",    ["Progress"]="Did you find the documents, $N?  They hold information vital to the stability of the Alliance and, hence, vital to the security of the Horde.",    ["Completion"]="I commend you, $N. This was not an easy mission. But the documents you gained are valued greatly by our superiors.",    ["minlevel"]="30",    ["questlevel"]="35"},
-
-	["1203"] = {    ["Title"]="Jarl Needs a Blade",    ["Description"]="I have cutting to do.  I can't tell you what I'm going to cut, but... I need myself a blade.  A certain blade...$B$BSome people call it a moonsteel broadsword.  I call it a swing blade.$B$BYou help me?  Maybe you find it in town, maybe you talk to a blacksmith and he'll make it special.$B$BBut don't sleep on this.  What I'm cutting won't keep forever...",    ["Objectives"]="Bring a Moonsteel Broadsword to Jarl in Dustwallow Marsh.",    ["Progress"]="You have my blade??",    ["Completion"]="That's a good blade. It has a good swing. It's a good swing blade. Thank you. Thank you, thank you, thank you!!! Now I want to try it....$B$BLater. I'll try it later. But like I was saying... thanks.",    ["minlevel"]="30",    ["questlevel"]="35"},
-
-	["1204"] = {    ["Title"]="Mudrock Soup and Bugs",    ["Description"]="I'm working on a dish I call \"Mudrock Soup and Bugs.\"  I still need the major ingredients, and... well, I don't think I'd last long trudging through Dustwallow Marsh!$B$BSo, $N, can you do some hunting for me?  First, I need the tongues of Mudrock turtles.  You can find Mudrocks along the coast, mostly around the bay.$B$BBut I don't want just any tongues!  I hear that the tongues of some Mudrocks are forked...$B$BThey say the forked tongues have a distinct flavor, and I want that flavor in my dish...",    ["Objectives"]="Bring 8 Forked Mudrock Tongues to Morgan Stern in Theramore.",    ["Progress"]="Did you get the forked tongues?",    ["Completion"]="These will do fine!  Thank you, $N!$B$BNow I'll try different cooking techniques on these tongues to find the best way to bring out their flavor.$B$BEventually I'll have a dish worthy of serving at the Blue Recluse in Stormwind!",    ["minlevel"]="33",    ["questlevel"]="38"},
-
-	["1205"] = {    ["Title"]="Deadmire",    ["Description"]="Deadmire is an ancient crocolisk in Dustwallow marsh.  And it is his time to die.$B$BOld bones grind as he pulls his huge body through the swamp, and although he still moves with the strength and speed of youth, his aging body tortures the great spirit within it, a spirit whose flame will not waver.$B$BYet now he lives in constant, maddening pain.  You must end the life of this noble creature, $N.  You must lead Deadmire to peace.",    ["Objectives"]="Bring Deadmire's Tooth to Melor in Thunder Bluff.",    ["Progress"]="Do you have the tooth of Deadmire, $N?  Have you ended the creature's suffering?",    ["Completion"]="Very good, $N.$B$BI am sure the hunt was not easy, but it is good to know the beast's pain has finally ended.",    ["minlevel"]="35",    ["questlevel"]="45"},
-
-	["1206"] = {    ["Title"]="Jarl Needs Eyes",    ["Description"]="Eye juice is good juice for drinking.  Too bad most critters only have two eyes.$B$BBut spiders have lots of eyes.  Lots and lots.  And Darkmist eye juice is tasty.  Smooth and salty!  Unpopped spider eyes... I taste them already.$B$BDarkmist spiders are west of here, in the Darkmist Cavern.  You figure the spiders are named after the cave... or is it the other way around?",    ["Objectives"]="Bring 40 Unpopped Darkmist Eyes to \"Swamp Eye\" Jarl at the Swamplight Manor.",    ["Progress"]="Where are those eyes?",    ["Completion"]="You got the eyes! You got the eyes! Tasty, tasty spider eyes!$B$BSome eyes... when you stare at them they stare back. Eat those last. They keep you company... out in the swamp.$B$BHello, little spider eyes. Hello! You taste like chicken. Gooey, salty chicken!$B$BMmmh.",    ["minlevel"]="30",    ["questlevel"]="35"},
-
-	["1218"] = {    ["Title"]="Soothing Spices",    ["Description"]="I like cooking.  Good swamp cooking.  Fried green frog legs and the like.$B$BAnd for cooking, I need spice.  Soothing spice.  Then I'll make a stew and stew it up and suck it down and give you some too.$B$BDo you like stew?",    ["Objectives"]="Bring 3 Soothing Spices to \"Swamp Eye\" Jarl in Dustwallow Marsh.",    ["Progress"]="Spice.  We could all use some spice in our life.  You agree?",    ["Completion"]="Ah, that's the spice! Now here's some swampy good stew.",    ["minlevel"]="30",    ["questlevel"]="35"},
-
-	["1219"] = {    ["Title"]="The Orc Report",    ["Description"]="Sifting through the loose dirt, the severed hand of an orc is found.  And clutched in the hand is a bone-carved tube.  And in the tube is a dirt-stained parchment.$B$BThe parchment is written in orcish... and it looks important.",    ["Objectives"]="Bring the Spy's Report to a Theramore Lieutenant.",    ["Progress"]="Do you have a report to make?",    ["Completion"]="Hm... I can't read orcish very well, but this looks like a report... written by an orc spy!",    ["minlevel"]="30",    ["questlevel"]="35"},
-
-	["1220"] = {    ["Title"]="Captain Vimes",    ["Description"]="Captain Vimes should see the orc report you found, $N.  He knows the orcish language better than most.  And he should know that there are Horde spies near Theramore!$B$BThe captain is in the barracks, on the northeastern side of Theramore Isle.",    ["Objectives"]="Bring the Spy's Report to Captain Garran Vimes.",    ["Progress"]="You have something for me?",    ["Completion"]="A report from an orc spy! How did you find this? No matter -- let's see what it says...",    ["minlevel"]="30",    ["questlevel"]="35"},
-
-	["1238"] = {    ["Title"]="The Lost Report",    ["Description"]="Sifting through the loose dirt, the severed hand of an orc is found.  And clutched in the hand is a bone-carved tube.  And in the tube is a dirt-stained parchment.$B$BThe parchment is a report made by an orc who spent weeks spying on the city of Theramore.$B$BAfter scanning the parchment, it is clear that it must be brought to the orc spymaster in Brackenwall Village.",    ["Objectives"]="Bring the Spy's Report to Nazeer Bloodpike in Brackenwall Village.",    ["Progress"]="You have something for me?",    ["Completion"]="Good work, $N. Our agent, Marg Nighteye, was stationed outside Theramore. He was charged to spy on the city.$B$BThis is his latest report, and it may be his last -- from your testimony, I fear that Marg met his end in the swamp...",    ["minlevel"]="30",    ["questlevel"]="35"},
-
-	["1239"] = {    ["Title"]="The Severed Head",    ["Description"]="Vigorous digging reveals the head of a male orc, raggedly severed at the neck.  His lips are frozen in a snarl, and its dark eyes stare defiantly.",    ["Objectives"]="Bring the Defiant Orc Head to Nazeer Bloodpike in Brackenwall Village.",    ["Progress"]="You have another matter to report, $N?",    ["Completion"]="This is the head of Marg Nighteye! As I feared, he is dead.",    ["minlevel"]="30",    ["questlevel"]="35"},
-
-	["1240"] = {    ["Title"]="The Troll Witchdoctor",    ["Description"]="We must know the events surrounding Marg's death!  And the only way to do that, $N, is through the witch-magic of trolls.$B$BBring Marg's head to Kin'weelay in Stranglethorn Vale, at the Grom'gol Base Camp.$B$BKin'weelay is the most powerful witchdoctor of the Darkspear trolls.  If anyone can speak to Marg Nighteye's spirit, it is he.",    ["Objectives"]="Take the Defiant Orc Head to Kin'weelay in the Grom'gol Base Camp in Stranglethorn Vale.",    ["Progress"]="There is an angry spirit about you, brother. What brings you to Kin'weelay?",    ["Completion"]="Ah, I now see. The spirit of this orc is bound in our world, boiling with rage from a task yet undone.$B$BWell, let us have words with this angry orc...",    ["minlevel"]="30",    ["questlevel"]="35"},
-
-	["1251"] = {    ["Title"]="The Black Shield",    ["Description"]="An iron shield, blackened by the fire that raged through the inn, is affixed to the crumbling chimney, one of the few remaining parts of the structure that once made up the Shady Rest Inn.$b$bThe shield can be removed from the brick of the chimney.",    ["Objectives"]="Bring the Blackened Iron Shield to Krog in Brackenwall Village.",    ["Progress"]="What's that you have there, $N? Evidence from the remains of the Shady Rest Inn?",    ["Completion"]="I grant that humans have strange decorating tastes, but would they use a plain iron shield to adorn their fireplace? Perhaps this shield was placed there by the ones who burned the inn.$B$BA warning? A threat?",    ["minlevel"]="30",    ["questlevel"]="35"},
-
-	["1252"] = {    ["Title"]="Lieutenant Paval Reethe",    ["Description"]="A glint of light on the ground catches your eye from underneath the rubble. Brushing away debris and ash caked onto the object reveals the insignia of a gold anchor on white enameled on the surface: the sign of Theramore.$b$bUnderneath the anchor is embossed the name \"Lieutenant Paval Reethe\".",    ["Objectives"]="Bring Reethe's Badge to Captain Garran Vimes in Theramore.",    ["Progress"]="Have you found anything of interest at the Shady Rest Inn?",    ["Completion"]="It's never good news when a guard's badge is brought to me.$B$BSometimes it's a man or woman who's fallen in battle, and I'm left to bring the news to the grieving family. Other times we never find out what happened to them. And other times it's even worse than that.",    ["minlevel"]="30",    ["questlevel"]="40"},
-
-	["1253"] = {    ["Title"]="The Black Shield",    ["Description"]="An iron shield, blackened by the fire that raged through the inn, is affixed to the crumbling chimney, one of the few remaining parts of the structure that once made up the Shady Rest Inn.$b$bThe shield can be removed from the brick of the chimney.",    ["Objectives"]="Bring the Blackened Iron Shield to Captain Garran Vimes in Theramore.",    ["Progress"]="Have you found evidence from the site of the Shady Rest Inn?",    ["Completion"]="Hm, I'm no expert with the construction of arms and armor. Their use, yes, but not their making.$B$BThis shield seems as ordinary as any, excepting the damage from the fire that engulfed the inn.",    ["minlevel"]="30",    ["questlevel"]="35"},
-
-	["1258"] = {    ["Title"]="... and Bugs",    ["Description"]="Another component of my new recipe is the shelled leg of a giant crab.  And the crabs they have in Dustwallow -- Muckshells they call them -- just won't do!  I'm afraid the only suitable crabs live far away, in the Swamp of Sorrows.$B$BThe shell of the crab leg is a key element of the dish's presentation so I need pristine, unscarred legs.  An adult crab might only have one or two such legs, and I need a lot in order to research my dish.$B$BSo, $N... are you willing to travel?",    ["Objectives"]="Bring 12 Pristine Crawler Legs to Morgan Stern in Theramore.",    ["Progress"]="My research with the Mudrock tongues is progressing nicely.  I trust your crab hunt goes well?",    ["Completion"]="These are wonderful specimens, $N!  The shells are in perfect condition, and the meat is pink and tender.  The blood of a chef is in your veins, I'm sure of it!",    ["minlevel"]="33",    ["questlevel"]="40"},
-
-	["1259"] = {    ["Title"]="Lieutenant Paval Reethe",    ["Description"]="I don't recognize the name of Lieutenant Paval Reethe. Your best bet would be to check with Adjutant Tesoran. He keeps track of all the records for the Theramore guard, from personnel to their equipment.$b$bHe should be able to tell you who this Reethe is with a quick check of his books.",    ["Objectives"]="Find out more about Reethe from Adjutant Tesoran in Theramore.",    ["Progress"]="",    ["Completion"]="Hello, $N. You'd like information about a specific member of the Theramore guard? Reethe, was it?$B$BJust give me a moment to find the right book.",    ["minlevel"]="30",    ["questlevel"]="40"},
-
-	["1260"] = {    ["Title"]="Morgan Stern",    ["Description"]="I'm developing a new menu for the restaurant.  It will be filled with rural dishes with a \"bayou\" theme.  I think my clientele at the Blue Recluse will love them!$B$BI sent my nephew Morgan to Theramore, a city on the edge of the Dustwallow Marsh.  He's there gathering recipes from the locals, and I must know what he found so far.$B$BThe trip to Theramore is long.  Too long for me.  But I bet a young $c like yourself would jump at the chance to travel, yes?",    ["Objectives"]="Speak with Morgan Stern in Theramore.",    ["Progress"]="",    ["Completion"]="Oh, my uncle sent you, did he?$B$BWell I've been researching recipes and I have some leads, but I need help.$B$BHelp from someone willing to get his feet wet.",    ["minlevel"]="33",    ["questlevel"]="38"},
-
-	["1261"] = {    ["Title"]="Marg Speaks",    ["Description"]="Cursed muckshell!  You can't kill Marg!  Ah, but I am dead.  So it must have slain me...$B$BBut my mission!  My mission!  You, $N, must complete it.$B$BWhile near Theramore, I spied a group of Alliance soldiers camped on the beach.  And one soldier wore a pendant... a pendant laden with more gems than any soldier could afford!$B$BThat night I snuck into their camp and stole the pendant, but on my return to base a muckshell crab-man killed me!$B$B$N, you must find that muckshell and recover the pendant!",    ["Objectives"]="Bring the Jeweled Pendant to Nazeer in Brackenwall Village.",    ["Progress"]="$N, did you discover Marg's fate?",    ["Completion"]="This pendant was worn by a soldier of Stormwind??$B$BThank you, $N. You have revealed the secret of Marg's death. But this pendant is a new mystery to solve, one that may have dire effects on the Alliance, and the Horde.",    ["minlevel"]="30",    ["questlevel"]="40"},
-
-	["1262"] = {    ["Title"]="Report to Zor",    ["Description"]="It is strange that the pendant Marg stole was in the hands of common soldiers.  Perhaps its owner was in disguise, or perhaps the soldiers themselves stole it!$B$BRegardless of which is true, this is a noble's pendant and we must discover its true owner if we are to unravel its mystery.$B$BTake the pendant to Zor Lonetree in Orgrimmar.  He is well schooled in Alliance politics, and will know if this pendant has a history among the nobles of Stormwind.",    ["Objectives"]="Bring the Jeweled Pendant to Zor Lonetree in Orgrimmar.",    ["Progress"]="You traveled from Brackenwall Village in Dustwallow? How fares Nazeer, and how fare his efforts in the marsh?",    ["Completion"]="This pendant was crafted with great skill and precision, $N. No orc would covet such a jewel...$B$BBut many humans would.$B$BI will have this pendant studied. In time let us hope that its mysteries will be revealed to us.",    ["minlevel"]="30",    ["questlevel"]="40"},
-
-	["1268"] = {    ["Title"]="Suspicious Hoofprints",    ["Description"]="Rows of hoofprints lead away from the still-smoking skeleton of the Shady Rest Inn. There are at least a few visible impressions, with more rows of prints almost imperceptible in the soft mud of the marsh.",    ["Objectives"]="Report about the suspicious prints at the Shady Rest Inn to Krog in Brackenwall Village.",    ["Progress"]="",    ["Completion"]="Hoofprints... It could have been the quilboar, I suppose. Or maybe even the centaur. Their presence in the Barrens is not insignificant, and I would not think it a stretch to commit such an act.",    ["minlevel"]="30",    ["questlevel"]="35"},
-
-	["1269"] = {    ["Title"]="Lieutenant Paval Reethe",    ["Description"]="A glint of light on the ground catches your eye from underneath the rubble. Brushing debris and ash caked onto the object reveals the insignia of a gold anchor on white, enameled on the surface: the sign of Theramore.$b$bUnderneath the anchor is embossed the name \"Lieutenant Paval Reethe\".",    ["Objectives"]="Bring Reethe's Badge to Krog in Brackenwall Village.",    ["Progress"]="Have you found any leads on what happened at the Shady Rest Inn?",    ["Completion"]="I know this human, Paval Reethe. Pathetic, even for his kind. He deserted his fellow soldiers and is now hiding out in the woods.$B$BI sent Ogron out to track him down. Some of the others suspect he's been stealing from our supplies. I think I saw Ogron heading off to the southeast.",    ["minlevel"]="30",    ["questlevel"]="37"},
-
-	["1270"] = {    ["Title"]="Stinky's Escape",    ["Description"]="Great, finally something that doesn't want to eat me!!$B$BI need help handling the critters around here, and you fit the mold, $gbuddy:lady;.$B$BA goblin from Ratchet named Mebok Mizzyrix needs some bogbean leaves for a potion, or something... I honestly don't care why -- his money was good and I know this swamp, so here I am.$B$BToo bad I got myself surrounded before I found the bogbean!  Can you help me out of here, and watch my back as I look for Mebok's plant?",    ["Objectives"]="Escort \"Stinky\" Ignatz, then speak with Mebok Mizzyrix in Ratchet.",    ["Progress"]="",    ["Completion"]="Stinky was here with the herbs I ask of him, and he told me you helped him out of a bind. Good work! A friend of Stinky's is a friend of mine!$B$BHe asked me to give you this if I ever saw you, right before he walked back south toward the marsh.",    ["minlevel"]="30",    ["questlevel"]="37"},
-
-	["1271"] = {    ["Title"]="Feast at the Blue Recluse",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="My nephew said you aided him with his research in Dustwallow, and that you helped his associate out of a tight spot.  Well, we Sterns stick together and we don't ignore our friends!$B$BSo wash your hands, $N, because we're about to throw a party in your honor!",    ["minlevel"]="30",    ["questlevel"]="37"},
-
-	["1273"] = {    ["Title"]="Questioning Reethe",    ["Description"]="It took a long time, but I found Reethe. He hide good for a human.$b$bOgron worried that he might be crazy after so much time in swamp. You come with me for we go get answers from him.",    ["Objectives"]="Go with Ogron to speak with Reethe, then return to Krog in Brackenwall Village.",    ["Progress"]="Did you find Reethe?",    ["Completion"]="Hmph. It is good that Reethe will no longer be lurking around the swamp, but it is a shame that humans are built so frail that he could not recover from a little arrow wound.$B$BIt seems that this thread of the mystery has led nowhere, and we must look elsewhere.",    ["minlevel"]="30",    ["questlevel"]="37"},
-
-	["1276"] = {    ["Title"]="The Black Shield",    ["Description"]="Ah, I remember now! Mosarn is a well-respected blacksmith in Thunder Bluff. I knew I had heard his name somewhere, before.$b$bIn thanks, the Earthen Ring awarded me with a set of armor crafted by Mosarn. Very good work.$b$bPerhaps he can tell you more about the shield he crafted.$b$bIt's not much of a lead, but since we didn't get anything useful out of Reethe, it's all we have.",    ["Objectives"]="Show the Blackened Iron Shield to Mosarn in Thunder Bluff.",    ["Progress"]="Hello there, $C. Something I can help you with?",    ["Completion"]="Yes, you are certainly correct. This is a shield that I made.$B$BI'm afraid there's not much more I can tell you though, $N. I craft so many different shields and sets of armor, I can't keep track of them all.",    ["minlevel"]="30",    ["questlevel"]="37"},
-
-	["1282"] = {    ["Title"]="They Call Him Smiling Jim",    ["Description"]="I can't help it if I feel sorry for ol' Jim there. He wasn't always like that. Ran an inn out in the marsh for a while, wonderful place.$b$bLook, I don't really want to talk about it. Bring it up with Captain Vimes if you really have to.",    ["Objectives"]="Speak with Captain Garran Vimes in Theramore.",    ["Progress"]="",    ["Completion"]="James Hyal's his real name. He opened an inn at the edge of the Barrens. Wanted to make a nice place for travelers to stop over...$B$BMight be he was thinking too big, but the inn did do well for a while. Then we lost control of the roads in the marsh, and the ogres took over.$B$BJames was too stubborn to give up his dream for safety within our walls, and the Shady Rest Inn was burnt to the ground. We're investigating, but haven't had much luck. If you want to help out, see what you can find in the rubble.",    ["minlevel"]="30",    ["questlevel"]="35"},
-
-	["1284"] = {    ["Title"]="Suspicious Hoofprints",    ["Description"]="Rows of hoofprints lead away from the still-smoking skeleton of the Shady Rest Inn. There are at least a few visible impressions, with more rows of prints almost imperceptible in the soft mud of the marsh.",    ["Objectives"]="Report about the suspicious prints at the Shady Rest Inn to Captain Garran Vimes in Theramore.",    ["Progress"]="",    ["Completion"]="Hoofprints, eh? It is true that there is an extraordinary amount of centaur activity in the lands near the Dustwallow Marsh. In brief excursions into the Barrens, we found their camps and holdings dotting the area.",    ["minlevel"]="30",    ["questlevel"]="35"},
-
-	["1285"] = {    ["Title"]="Daelin's Men",    ["Description"]="Reddon... Redpath... Ah, here it is! Lieutenant Paval Reethe.$b$bJoined the Theramore guard along with most of the recruits that came across the sea with Lady Proudmoore. Enlisted with the marines of Kul Tiras at the age of sixteen. Distinguished service, promotions...$b$bListed as missing.",    ["Objectives"]="Return the information about Reethe to Captain Garran Vimes in Theramore.",    ["Progress"]="",    ["Completion"]="Missing? That would be Tesoran's kind way of saying traitor.$B$BNo doubt he's one of those fools so blindly loyal to Admiral Daelin that he turned traitor. Isn't that a delicious irony? The deserters accuse us of betraying the Alliance.",    ["minlevel"]="30",    ["questlevel"]="38"},
-
-	["1286"] = {    ["Title"]="The Deserters",    ["Description"]="It has been a struggle maintaining a presence in the marsh, but through strength of our resolve, we have been able to maintain several defensive watchtowers throughout the area.$b$bThe latest information and scouting reports I have received indicate that a group of deserters has squatted in our abandoned tower at Lost Point, southeast of the inn.$b$bThe deserters' leader is a man named Jacken. See if you can get some information out of him.$b$bBe warned, $n. He may be a tough nut to crack.",    ["Objectives"]="Get information about Reethe from Balos Jacken and the deserters in Dustwallow Marsh.",    ["Progress"]="",    ["Completion"]="Did Vimes send you? Couldn't do his dirty work himself, could he...",    ["minlevel"]="30",    ["questlevel"]="38"},
-
-	["1287"] = {    ["Title"]="The Deserters",    ["Description"]="Reethe? That coward?$b$bWe threw him out of camp because he insisted on raiding the supplies of the ogres up at Brackenwall Village. We're not so many in number that we could stand up to those mindless brutes.$b$bHe crossed the line one too many times, so we left him to fend for himself.$b$bNow, I helped you out... So, why don't you help us out and forget you bumped into us?",    ["Objectives"]="Speak with Captain Garran Vimes in Theramore about Reethe.",    ["Progress"]="",    ["Completion"]="I will send Lieutenant Caldwell to deal with the deserters at Lost Point. In addition, I will instruct him to find Reethe. The marsh is not so big and trackless that he should be unable to find him.",    ["minlevel"]="30",    ["questlevel"]="38"},
-
-	["1318"] = {    ["Title"]="Unfinished Gordok Business",    ["Description"]="Now you da king, so maybe you get prized Gordok artifact back from creepy elf who calls himself Prince!  Da king before you failed, just like all da other kings since Tortheldrin - da creepy elf - stole it from old timey Gordok king!$B$BArtifact is called da Gauntlet of Gordok Might.  Old timey stories say only da one true king da Gordok can get it back.  Old timey story also say creepy elf is still around here - you find it and it will become mighty gauntlet you wear forever!  Yar, I show you!",    ["Objectives"]="Find the Gauntlet of Gordok Might and return it to Captain Kromcrush in Dire Maul.$B$BAccording to Kromcrush, the \"old timey story\" says that Tortheldrin - a \"creepy\" elf who called himself a prince - stole it from one of the Gordok kings.",    ["Progress"]="",    ["Completion"]="",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["1319"] = {    ["Title"]="The Black Shield",    ["Description"]="I'm sorry I can't be of much help, $n, but I can refer you to someone who would be. Caz Twosprocket, one of our best blacksmiths, works the forge at the smithy.$b$bTake the shield to him, and see what he can tell you.",    ["Objectives"]="Show the Blackened Iron Shield to Caz Twosprocket in Theramore.",    ["Progress"]="Something for me to look at?",    ["Completion"]="Hm... interesting piece of iron you have here. Definitely not made by any of the blacksmiths I know over on this side of the sea, and it's certainly not my work.",    ["minlevel"]="30",    ["questlevel"]="35"},
-
-	["1320"] = {    ["Title"]="The Black Shield",    ["Description"]="Ah, I almost missed this... The leather strap on the back must have burned off, but it seems like it was made to fit a large person. I'd guess a tauren, actually.$b$bThat's about all I can tell you. Tell Captain Vimes I'm sorry I couldn't be of more help.",    ["Objectives"]="Speak with Captain Garran Vimes in Theramore.",    ["Progress"]="",    ["Completion"]="That's not much information to work on, but we'll have to keep it in mind. Hopefully some of the other pieces of this mystery will fall into place, and paint a more helpful picture of what happened.",    ["minlevel"]="30",    ["questlevel"]="35"},
-
-	["1321"] = {    ["Title"]="The Black Shield",    ["Description"]="Hmm... I don't see anything out of the ordinary with this shield. We should have Do'gol, the blacksmith, take a look at it, and see if he can tell us more about it, but I wouldn't hold out hope...",    ["Objectives"]="Show the Blackened Iron Shield to Do'gol in Brackenwall Village.",    ["Progress"]="Something for me, $C?",    ["Completion"]="This is good shield. Very strong, heavy, good. But Do'gol don't need it. I make shields, not buy them, $N.$B$BYou should know that.",    ["minlevel"]="30",    ["questlevel"]="35"},
-
-	["1322"] = {    ["Title"]="The Black Shield",    ["Description"]="Hmmm, there's writing right here on the rim of the shield, but it's hard to read from all the burned stuff.$b$bI need acid to make it clear. Venom from the Darkfang spiders in the marsh would do good. Get me some of their sacs and I can clean this up.",    ["Objectives"]="Acquire 6 Acidic Venom Sacs for Do'gol in Brackenwall Village.",    ["Progress"]="Did you get them sacs from the spiders?",    ["Completion"]="I don't like spiders that are so big I can't sit on them and squish them.$B$BThanks for getting them, $N. Now I rip them open and pour them onto the shield...",    ["minlevel"]="30",    ["questlevel"]="37"},
-
-	["1323"] = {    ["Title"]="The Black Shield",    ["Description"]="Oh, I think I might have dropped too much acid onto the shield. Let me just rub a little...$b$bHm, kind of hard to read, but it looks like the name Mosarn. Never heard of him. Maybe Krog knows. Krog knows many people.",    ["Objectives"]="Talk with Krog in Brackenwall Village.",    ["Progress"]="",    ["Completion"]="Mosarn? Sounds familiar... I can't put my finger on it. Maybe it'll come to me later.$B$BIt probably isn't important. A shield can come from anywhere and not mean anything...",    ["minlevel"]="30",    ["questlevel"]="37"},
-
-	["1361"] = {    ["Title"]="Regthar Deathgate",    ["Description"]="A warrior of the Horde, Regthar Deathgate, is recruiting agents for a mission into the land of Desolace.  Speak with him if you wish to volunteer.  He is stationed in the Barrens, in a series of bunkers west of the Crossroads.$B$BAnd sharpen your weapons.  Desolace is a place torn by war.",    ["Objectives"]="Speak with Regthar Deathgate.",    ["Progress"]="I note that your task is unfinished, $N. Shall I inform Sharlindra of your ineptitude?",    ["Completion"]="Yes, I am recruiting.  This mission leads into Desolace, against the centaur there.  I will be brief so that you may quickly begin.",    ["minlevel"]="30",    ["questlevel"]="32"},
-
-	["1362"] = {    ["Title"]="The Kolkar of Desolace",    ["Description"]="The Kolkar centaur live in Desolace, and their forces have spread into the Barrens.  This is a known fact and we have Horde agents dealing with them here.$B$BBut as long as the centaur are strong in Desolace, they will always pose a threat.  It is time we rid ourselves of that threat.$B$BSpeak with Felgur Twocuts at Ghost Walker Post in Desolace.  He was sent to gather intelligence on the centaur.  He will know how to best deal with the Kolkar of Desolace.",    ["Objectives"]="Speak with Felgur Twocuts at Ghost Walker Post in Desolace.",    ["Progress"]="",    ["Completion"]="You are here on orders from Regthar?  Then you are here to deal with the centaur.  Good.$B$BI hope you're rested.  I don't know how our campaign against the centaur will end, but I know the struggle will be long.$B$BHave a seat, and listen.",    ["minlevel"]="30",    ["questlevel"]="32"},
-
-	["1365"] = {    ["Title"]="Khan Dez'hepah",    ["Description"]="The Kolkar are not the only centaur of Desolace.  Many clans wander these dry plains, fighting and dying against each other.  And it is good that they fight among themselves, for they are strong and brutal.  If the centaur united against us, they would be a fierce foe.$B$BWe must deal with them before they unite.$B$BYour first task is to disrupt the Kolkar clan.  Do this by killing its leader, Khan Dez'hepah.$B$BThe Kolkar Village is northeast of here.  Go, and may fortune go with you.",    ["Objectives"]="Bring Khan Dez'hepah's Head to Felgur Twocuts in Desolace.",    ["Progress"]="$N, have you defeated Khan Dez'hepah?",    ["Completion"]="Well done.  This swift act against the Kolkar is an effective show of strength, and strength is what the centaur understand best.$B$BThe death of the Kolkar leader will not only disrupt that clan, but give pause to the others.",    ["minlevel"]="30",    ["questlevel"]="35"},
-
-	["1366"] = {    ["Title"]="Centaur Bounty",    ["Description"]="Now that you scared the centaur clans, it's time to bleed them.  When traveling Desolace, hunt centaur.  I don't care which clan you hunt.  Just gather ears.  A hoard of ears.$B$BBy weakening their numbers you will weaken their resolve, and stamp out any thoughts of expansion.$B$BGood hunting, $N.",    ["Objectives"]="Bring 15 Centaur Ears to Felgur Twocuts in Desolace.",    ["Progress"]="How is your collection of ears, $N?  Large?",    ["Completion"]="By now, the centaur must know your name.  I'm sure they know it, and respect it, and fear it.  And just as they know you, they know the banner under which you ride.$B$BThe banner of the Horde.",    ["minlevel"]="30",    ["questlevel"]="31"},
-
-	["1367"] = {    ["Title"]="Magram Alliance",    ["Description"]="To beat the centaur, we must use their hatred against them.  We will ally with one of the clans and through them, we will learn how to defeat all the clans.$B$BIf you choose to ally with the Magram then slay their foes, the Gelkis.  This will earn you respect among the Magram.  When you earn enough, then meet with the Magram spokesman Warug, on the outskirts of the Magram Village, in southeast Desolace.",    ["Objectives"]="Gain a Friendly reputation with the Magram, then speak with Warug.",    ["Progress"]="Leave! The Magram do not speak with the weak. We kill them!$B$BIf you want to speak with me, then show me you are strong. Return after you slay many Gelkis.",    ["Completion"]="The Gelkis cry when they hear your name, $N. They fear you and they hate you. They hate you like they hate the Magram!$B$BMaybe you are strong like the Magram. We will see...",    ["minlevel"]="30",    ["questlevel"]="33"},
-
-	["1368"] = {    ["Title"]="Gelkis Alliance",    ["Description"]="To beat the centaur, we must use their hatred against them.  We will ally with one of the clans and through them, we will learn how to defeat all the clans.$B$BIf you choose to ally with the Gelkis then slay their most hated rival, the Magram.  After you earn the respect of the Gelkis, meet with the Gelkis shaman Uthek the Wise, on the outskirts of the Gelkis Village, in southwest Desolace.",    ["Objectives"]="Gain a Friendly reputation with the Gelkis, then speak with Uthek the Wise.",    ["Progress"]="Your two feet step on Gelkis earth. You are not welcome here!$B$BProve you seek friendship with the Gelkis. Kill Magram centaur. Return when the ground is wet with Magram blood.",    ["Completion"]="The earth speaks to me.  And it says you have killed many Magram.  This is good.$B$BIf you are a friend of the Gelkis, then listen.  I have more tasks for you.",    ["minlevel"]="30",    ["questlevel"]="33"},
-
-	["1369"] = {    ["Title"]="Broken Tears",    ["Description"]="The Gelkis think our centaur mother, Theradras, protects us.  They are stupid.  No one protects the centaur.  The Magram do not need protection!  We are the strongest!$B$BShow the Gelkis they are stupid.  Go to the cave in their village.  They hoard crystals in that cave, the tears of Theradras.  Destroy the tears and bring me the broken pieces!",    ["Objectives"]="Maintain your reputation with the Magram, and bring 3 Broken Tears to Warug in the Magram Village.",    ["Progress"]="If you are not our enemy, then you will do what I ask!",    ["Completion"]="You got the tears! Now the Gelkis will know that Theradras will not help them. She will not cry when we crush them! The Magram will rule!$B$BYou are smart to help us, $N. We are the strongest.",    ["minlevel"]="30",    ["questlevel"]="33"},
-
-	["1370"] = {    ["Title"]="Stealing Supplies",    ["Description"]="When we are not at war, we hunt for meat.  Meat gives us strength, and full bellies fight harder than empty ones.$B$BIt is the same with the Magram.  They store extra meat so they may fight longer between hunts.  If you raid their village to the east and take their stores of meat, then their strength will fail.",    ["Objectives"]="Bring 6 bags of Crudely Dried Meat to Uthek the Wise in the Gelkis Village.",    ["Progress"]="Return after you further prove your worth to the Gelkis!",    ["Completion"]="Good.  I can hear the loud Magram bellies grumble from their village, far away!$B$BI will give this meat to the Gelkis.  And we will fight for many days without rest.$B$BWhat you did is good for the Gelkis, $N.",    ["minlevel"]="30",    ["questlevel"]="35"},
-
-	["1371"] = {    ["Title"]="Gizmo for Warug",    ["Description"]="Long ago, a little gnome came to Desolace.  He had horses and a cart, and the cart held strange things.  Funny things.  Things that burned different colors.  Things that moved and weren't alive.  I killed the little gnome, but before that... he made me laugh.$B$BI kept my favorite thing from his cart.  It was a human made of wood and it waved at me until I hit it and broke it.$B$BI want a new one.  Get me a new one!",    ["Objectives"]="Maintain your reputation with the Magram, and bring an Advanced Target Dummy to Warug in the Magram Village in Desolace.",    ["Progress"]="If you are not our enemy, then you will do what I ask!",    ["Completion"]="Yes, this is what I had! I will make it move again. It makes me laugh!",    ["minlevel"]="30",    ["questlevel"]="35"},
-
-	["1373"] = {    ["Title"]="Ongeku",    ["Description"]="You have more to prove, and your next task will take you far, so for now the Gelkis will fight the Magram without you.$B$BThe earth whispers many secrets to those who listen.  One secret I hear is of a red crystal.  It is called draenethyst, and it is new to our earth.  It comes from a place where mountains fly, and where demons rule.$B$BBring me a shard of draenethyst, and it will make my magic strong!  The shard is in a place called the Swamp of Sorrows, held by the lost one Ongeku.",    ["Objectives"]="Maintain your reputation with the Gelkis, and bring a Draenethyst Shard to Uthek the Wise in the Gelkis Village in Desolace.",    ["Progress"]="Show me you are a friend of the Gelkis, $N.",    ["Completion"]="Yes, this is the shard of which the earth whispered. I can feel strong magic in it! I will use this magic against the enemies of the Gelkis.$B$BYou have done one more task for us, $N. Maybe soon, we will call you friend.",    ["minlevel"]="30",    ["questlevel"]="37"},
-
-	["1374"] = {    ["Title"]="Khan Jehn",    ["Description"]="The earth speaks to me, and it says that the Magram grow weak.  Now it is time to kill their Khan!$B$BBring me the head of the Magram Khan, Jehn!",    ["Objectives"]="Bring the Khan Jehn's Head to Uthek the Wise in the Gelkis Village in Desolace.",    ["Progress"]="Show me you are a friend of the Gelkis, $N.",    ["Completion"]="Khan Jehn was strong, but stupid. He thought his own strength was great. He did not see that earth magic is stronger. The Magram centaur will now fall without their leader, and the Gelkis will one day rule!",    ["minlevel"]="30",    ["questlevel"]="37"},
-
-	["1375"] = {    ["Title"]="Khan Shaka",    ["Description"]="You help the Magram, and I like you.  Now, kill the Khan of the Gelkis!  He is Khan Shaka, and I want his head!  I want to stare at his head and laugh at him!",    ["Objectives"]="Maintain your reputation with the Magram, and bring the Head of Khan Shaka to Warug in the Magram Village in Desolace.",    ["Progress"]="Do tasks for the Magram, and I will help you.",    ["Completion"]="Khan Shaka is dead!  I will place his head on a pike, and keep it with me so Shaka can see the strength of the Magram!",    ["minlevel"]="30",    ["questlevel"]="37"},
-
-	["1380"] = {    ["Title"]="Khan Hratha",    ["Description"]="$N, you helped us against the Magram.  Now, help us beat the Maraudine!  Kill the head of their clan, Khan Hratha!$B$BTo face him, blow the Maraudine War Horn.  It is atop a high bluff in the Valley of Spears.$B$BBut to blow the horn, you must gain a warhorn mouthpiece.  These are rare, carried only by trusted Maraudine centaur.$B$BAfter the horn is blown, centaur will come.  Kill them until Hratha appears.$B$BKhan Hratha holds the piece of... a key.  Bring it to me...",    ["Objectives"]="Maintain your reputation with the Gelkis, and bring the Maraudine Key Fragment to Uthek the Wise in the Gelkis Village.",    ["Progress"]="Is Khan Hratha dead? Do you have the key fragment?",    ["Completion"]="He is dead! Khan Hratha is dead! And now the Maraudine will fall! When the Gelkis rule this land, $N, we will remember you. And the spirits of the earth will sing your name for all time.",    ["minlevel"]="30",    ["questlevel"]="42"},
-
-	["1381"] = {    ["Title"]="Khan Hratha",    ["Description"]="The Gelkis Khan is dead, and now the Maraudine will fall!  Kill the Maraudine Khan, Hratha!$B$BTo face him, blow the horn on the high bluff in the Valley of Spears.  But to blow the horn, you need a mouthpiece.  To get a mouthpiece, kill Maraudine centaur.  Keep killing until you find a mouthpiece.  Then blow the horn.$B$BDo this and Maraudine centaur will come to the tower.  Kill them until Khan Hratha appears.  Hratha holds the piece of a key.  Give this piece to me...",    ["Objectives"]="Maintain your Magram reputation, and bring the Maraudine Key Fragment to Warug in the Magram Village in Desolace.",    ["Progress"]="Do what I ask.  Prove to me that you are an ally of the Magram!",    ["Completion"]="Khan Hratha is dead!  Now the Magram are the strongest of the centaur!  We will crush the others, and rule Desolace!$B$BWe will remember, you, $N, and you will be spared our hooves when all others are trampled.",    ["minlevel"]="30",    ["questlevel"]="42"},
-
-	["1382"] = {    ["Title"]="Strange Alliance",    ["Description"]="We are fortunate the centaur clans fight among themselves, for if they joined into a single force then they would be unstoppable.  Yes, we are fortunate, and we should press our advantage.$B$BOne of the centaur clans, the Gelkis clan, is in brutal war with the Magram clan.  If we attack the Magram, then perhaps an alliance may be struck with the Gelkis.$B$BSpeak with Uthek the Wise, in the outskirts of the Gelkis camps in southwestern Desolace.  Through her we might strike an alliance with the Gelkis.",    ["Objectives"]="Gain a Friendly reputation with the Gelkis, then speak with Uthek the Wise.",    ["Progress"]="Be gone! The Gelkis do not want you here. Leave now!!$B$BReturn after killing many Magram, and then I will speak with you.",    ["Completion"]="Your name is whispered among the Gelkis. You have much Magram blood on your hands. This is good.$B$BMaybe it is also good if we speak. Speak of what you can do for the Gelkis, and what we can do for you.",    ["minlevel"]="30",    ["questlevel"]="35"},
-
-	["1384"] = {    ["Title"]="Raid on the Kolkar",    ["Description"]="The Kolkar centaurs think their magic is strong.  They do not know magic!  They would not know magic if it bit them!$B$BYou will show them their magic is weak.  Go to the Kolkar  to the northeast and kill them.  Take their charms.  Bring me the charms and I will throw them in the fire and laugh!",    ["Objectives"]="Maintain your reputation with the Gelkis, and bring 10 Crude Charms to Uthek the Wise in the Gelkis Village in Desolace.",    ["Progress"]="You have the charms? You showed the Kolkar they are weak?",    ["Completion"]="You do a good thing for the Gelkis. The Kolkar are weak and will die. Their magic is pathetic and will not save them. You showed them this, and their fear will make them even more feeble!$B$BAnd in our lands, the feeble soon die.",    ["minlevel"]="30",    ["questlevel"]="32"},
-
-	["1385"] = {    ["Title"]="Brutal Politics",    ["Description"]="Desolace is a land at war. The centaurs wage war with each other, and we believe the victor among them will spill out and threaten our strongholds. That, we cannot allow.$B$BWe must learn how to beat the centaurs, and to do that... we must ally with one of the clans. The Magram centaurs war with the Gelkis. If you fight the Gelkis then the Magram might consider an alliance.$B$BEarn the favor of the Magrams then speak with Warug, in the Magram village in southeastern Desolace.",    ["Objectives"]="Gain a Friendly reputation with the Magram, then speak with Warug.",    ["Progress"]="You will go now, or the Magram will crush you! To be our friend, you must kill Gelkis.",    ["Completion"]="Many Gelkis fall to you. I like that. Maybe you can do more things I like. Maybe you and the Magram can be friends.",    ["minlevel"]="30",    ["questlevel"]="35"},
-
-	["1386"] = {    ["Title"]="Assault on the Kolkar",    ["Description"]="The Kolkar think they are strong, but we laugh at them!  We laugh and we kill them!  You kill them too.  Show me you can kill Kolkar like we do. Head north and slay them all!",    ["Objectives"]="Maintain your reputation with the Magram. Kill 12 Kolkar Centaurs, 12 Kolkar Scouts and 6 Kolkar Maulers, then return to Warug in the Magram Village in Desolace.",    ["Progress"]="Are you afraid of the Kolkar? Why do you not kill them? Maybe you forgot how to kill. Hurry and kill Kolkar before they are dead!",    ["Completion"]="The Kolkar fear you now! I hope you laughed when you killed them. It is better to laugh when you kill, so the enemy can see he is weak.",    ["minlevel"]="30",    ["questlevel"]="32"},
-
-	["1387"] = {    ["Title"]="Centaur Bounty",    ["Description"]="Many clans make up the centaur race.  Each has its own leader and agenda, but all the clans have one thing in common.  Cruelty.$B$BIf we are to ever find peace, then the centaurs must be removed.  And so I put you on the task to do just that.$B$BWhile wandering Desolace, hunt centaur and take their ears.  Bring me many, many ears.$B$BDo this in service of the Alliance, $N, and we will be one step closer to war's end.",    ["Objectives"]="Bring 15 Centaur Ears to Corporal Melkins at Nijel's Point in Desolace.",    ["Progress"]="Do you have a report, $N?",    ["Completion"]="Ah, the ears. Well done.$B$BYour service to the Alliance is unquestioned, $N. The blood you spilled in Desolace will, no doubt, save countless lives.",    ["minlevel"]="30",    ["questlevel"]="31"},
-
-	["1437"] = {    ["Title"]="Vahlarriel's Search",    ["Description"]="I am Vahlarriel, $N. I've come here to discover the whereabouts of two missing nobles of a Darnassian merchant family--House Malem. The father of the house fears the worst, and I am to do everything I can to find his missing children. I have yet to start my search for Tyranis or Dalinda, but I am hopeful I shall not be here long.$B$BLast word tells of them passing through the Stonetalon Mountains a few weeks ago.$B$BIf you find their wagon, please, come find me immediately.",    ["Objectives"]="Find and search Tyranis and Dalinda Malem's wagon in Desolace.",    ["Progress"]="",    ["Completion"]="As you rummage around the remains of the wagon, it becomes obvious that it was attacked by both spells and weapons. The battle seemed one-sided and quick; there's no blood to be found, and no remains of any bodies.$B$BWhoever attacked the wagon was efficient and swift.",    ["minlevel"]="30",    ["questlevel"]="33"},
-
-	["1438"] = {    ["Title"]="Vahlarriel's Search",    ["Description"]="Find both Dalinda and Tyranis if you can and come back to me with your findings. Start your search at this fortress. I will contact my superiors in Darnassus immediately and let them know the situation.$B$B$N, there is something else I wish to impress upon you. My superiors have shown some concern over Tyranis' and his motives for coming here. It is more important to them that Dalinda is found and brought back safely. Tyranis is to be... gauged before he is taken home.",    ["Objectives"]="Find Dalinda Malem in Desolace.",    ["Progress"]="",    ["Completion"]="Thank Elune someone has finally come to help. Please, $C, I need your help. My brother Tyranis and I were captured and brought here by the Burning Blade. I think they mean to sacrifice me to their demon masters!$B$BI knew coming to Desolace was a mistake, but Tyranis has recently begun craving knowledge of all things arcane--even against the wishes of our people. He decided to make this trek even after hearing tales of this land's demon infestation.$B$BI fear the worst for him.",    ["minlevel"]="30",    ["questlevel"]="33"},
-
-	["1439"] = {    ["Title"]="Search for Tyranis",    ["Description"]="We were brought here after the orcs slaughtered all our guards and servants. Oh, the terrible things they did to them! I thought surely they would kill us right there and then, but it became obvious they had other plans.$B$BTyranis attempted to speak to them. I think he wanted to impress them with his knowledge of the arcane... I'm not sure why.$B$BPlease, I can't leave here until I know what's happened to my brother. Find him, then come back for me when his fate is known.",    ["Objectives"]="Find Tyranis Malem in Desolace.",    ["Progress"]="I fear Tyranis will attempt to learn the Burning Blade's secrets and count himself among their kind if they allow it - he has always adored the power magic brings to those who are seduced by it.$B$BI'm not sure I could endure returning home to my family with news of Tyranis' spirit flirting with such dangers. It's a terrible enough crime among my kind to pursue such things, but to become that which we attempt to protect ourselves from, well, that's apprehensible.",    ["Completion"]="This is terrible! But I suppose it was necessary. If it wasn't by your hand, it would have surely been by that of my people's. I suppose I should thank you--please forgive me if it doesn't seem sincere. I mean no offense.$B$BWith the knowledge of my brother's fate in hand, it seems the time for my escape has come. If you are still willing, I will accept your aid in escaping this horrible place.$B$BWhen you are ready, we can make our way to safety.",    ["minlevel"]="30",    ["questlevel"]="33"},
-
-	["1440"] = {    ["Title"]="Return to Vahlarriel",    ["Description"]="So, the time is now then? I appreciate your efforts, and if the situation does not lend itself, then allow me to thank you now for everything you've done for me and my family. If you're ready, then there is nothing else for me here--we can leave when you feel the time is right.",    ["Objectives"]="Escort Dalinda Malem from Thunder Axe Fortress and then return to Vahlarriel Demonslayer in Desolace.",    ["Progress"]="",    ["Completion"]="Thank you, $N. Dalinda made it safely back here to Nijel's Point, and in much better condition than I could have asked for. The fact that she arrived here under her own power was a good sign. I hope you're well?$B$BIt pains me to know that both Tyranis and Dalinda didn't return, but the embarrassment of Tyranis' decisions is hers to endure. It is something she will have to deal with when she returns to Darnassus.",    ["minlevel"]="30",    ["questlevel"]="33"},
-
-	["1444"] = {    ["Title"]="Return to Fel'Zerul",    ["Description"]="Jammal'an the Prophet sentenced me to exile from The Temple of Atal'Hakkar. I once felt the high priest was a worthy leader.$b$bHis unyielding faith in his prophecy will bring about the destruction of the Atal'ai. If it hasn't already.$b$bWhen I expressed my concerns, I was labeled an infidel and ousted from the temple.$b$bThose artifacts you brought to me are harmless. But if Jammal'an has found the proper fetish enchantment for the summoning ritual, the world lies in great peril....",    ["Objectives"]="Return to Fel'Zerul in Stonard.",    ["Progress"]="",    ["Completion"]="It has been quite some time since we spoke, $C. I hope your journey was successful.$B$BWhat knowledge did you gain from the exiled Atal'ai in the Hinterlands?",    ["minlevel"]="38",    ["questlevel"]="44"},
-
-	["1445"] = {    ["Title"]="The Temple of Atal'Hakkar",    ["Description"]="So he spoke of Jammal'an's prophecy?$b$bThe Atal'ai spiritual leader believes once Hakkar returns to Azeroth from the Nether, the god will grant the Atal'ai tribe immortality.$b$bFoolish trickery to bring about a premature doomsday if you ask me.$b$bBut you say the exile spoke of enchanted fetishes? This concerns me greatly. If these are in fact the key to the Atal'ai ritual which caused this mess, we must understand their intrinsic powers.$b$bVenture into the Temple, and seize the fetishes!",    ["Objectives"]="Collect 20 Fetishes of Hakkar and bring them to Fel'Zerul in Stonard.",    ["Progress"]="If the Atal'ai fetishes hold the power to summon Hakkar and fulfill Jammal'an's prophecy they must be seized. Such powers must be understood by the Horde!",    ["Completion"]="Brave $C, you have proven yourself to be a great champion of the Horde.$B$BNow this collection of fetishes of Hakkar must be dealt with at once!",    ["minlevel"]="38",    ["questlevel"]="50"},
-
-	["1446"] = {    ["Title"]="Jammal'an the Prophet",    ["Description"]="My Witherbark companions don't take kindly to strangers around their home.$b$bMe? I don't have a home anymore. I was exiled from my people, the great Atal'ai tribe of the Swamp of Sorrows.$b$bOur spiritual leader, Jammal'an, had what he called a prophecy. He believes the summoning of the god, Hakkar will bring the Atal'ai immortality.$b$bBut I urged caution. What if the prophecy was nothing more than manipulation?$b$bI want revenge for my exile. Bring me Jammal'an's head. Maybe then my people will be free.",    ["Objectives"]="The Atal'ai Exile in The Hinterlands wants the Head of Jammal'an.",    ["Progress"]="Once Jammal'an has been removed, I stand a chance of returning to my people.$B$BWith Jammal'an as their spiritual leader, the Atal'ai face certain destruction.",    ["Completion"]="Jammal'an's reckless trust of false visions led my people to their eternal doom.$B$BI thank you, $C, for avenging my exile. I mourn for my people. I have no home to return to.",    ["minlevel"]="38",    ["questlevel"]="53"},
-
-	["1450"] = {    ["Title"]="Gryphon Master Talonaxe",    ["Description"]="So you're a glorified errand $g boy:girl; for some old Explorers' League geezer, eh?$b$bWell you listen to me, $c. I don't know who your old buddy was flying around with down in Azeroth. Do I look like Gryphon Master Talonaxe to you? Do I?$b$bIf you're so interested in the flight assignments why don't you ask the gryphon master? If I catch you idling around here for much longer, I'm going to put you to some real work.$b$bNow get a move on.",    ["Objectives"]="Speak with Gryphon Master Talonaxe inside the Aerie Peak Aviary.",    ["Progress"]="",    ["Completion"]="Ah, yes. Of course I remember sending one of my gryphon riders to lend a hand to Brohann Caskbelly.$B$BAlways had a soft spot in my heart for the Explorers' League. My father helped with the initial excavation team that discovered Uldaman as a matter of fact.$B$BI sent who I thought was my best gryphon rider at the time with Brohann. He was a chap by the name of Rhapsody Shindigger.$B$BAnd what a gryphon jockey he was! Well until...",    ["minlevel"]="38",    ["questlevel"]="43"},
-
-	["1451"] = {    ["Title"]="Rhapsody Shindigger",    ["Description"]="Rhapsody took quite a liking to the booze. Now don't get me wrong -- all of us dwarves up here at the aviary love a good ale when the time is right.$b$bBut ol' Shindigger took to the liquor like a gryphon takes to the skies. And a damned shame it was, too. No one could fly like Rhapsody.$b$bFirst sign of trouble was when he came stumbling back from that mission with your buddy, Brohann. All went down hill quickly after that. Had to let him go.$b$bLast I heard, he's set up a brew camp to the east of here...",    ["Objectives"]="Seek out Rhapsody Shindigger in The Hinterlands.",    ["Progress"]="",    ["Completion"]="Hiccup!$B$BI'm a-lookin' right at you but you keep bobbing up and down. Makin' me dizzy. Hoho!$B$BHiccup!$B$BWhoa! Did ya feel that? Ground is a-shakin', my friend. I need a drink.$B$BHiccup!",    ["minlevel"]="38",    ["questlevel"]="43"},
-
-	["1452"] = {    ["Title"]="Rhapsody's Kalimdor Kocktail",    ["Description"]="Hiccup!$b$bSo that crazy fool Brohann sent ya? My we had quite an adventure...Hiccup!$b$bIf ya want me to tell ya what happened down in the swamp, I'm gonna need me something stiff to drink. It wasn't a pretty scene, ya see. Hiccup!$b$bTell ya what... bring me what I need to whip up a Kalimdor Kocktail and I'll tell ya all about it.$b$bGonna need some Roc gizzards from Tanaris... and let's see... some Groddoc and Ironfur livers from Feralas...$b$bA nice stiff Kalimdor Kocktail... that'll get me talking!",    ["Objectives"]="Rhapsody Shindigger in The Hinterlands wants you to bring him 3 Roc Gizzards, 3 Groddoc Livers and 3 Ironfur Livers.",    ["Progress"]="Ya ever had a Rhapsody Malt? One of my finest brews, if I do say so myself. Hiccup!$B$BBut if I'm gonna relive the horrors of that fateful flight over... hiccup... the swamp, well I'm gonna need me something a wee bit stronger. Hiccup!$B$BDon't suppose you found me those gizzards and livers I need to add that extra kick to my Kalimdor Kocktail?$B$BHiccup!",    ["Completion"]="I see ya had no trouble at all getting me what I need! Musta been quite a stint you had over there in far-off Kalimdor.$B$BIt won't take but a moment for me to extract what I need from these gizzards and livers. Hiccup!$B$BThen I can distill me a fierce ol' drink and finally tell ya what ya wanna know.$B$BHiccup!$B$BGetting shivers just thinking about that ol' swamp.$B$BHiccup!$B$BLemme whip up a drink real fast.",    ["minlevel"]="38",    ["questlevel"]="43"},
-
-	["1454"] = {    ["Title"]="The Karnitol Shipwreck",    ["Description"]="My first order of business is for the mage Karnitol--a noble of some sort in Stormwind. Seems his ship was attacked by sea giants while off the coast in the northwest of Desolace. He and his servants tried to bring one of his more valuable chests ashore, but when the sea giants attacked in droves, he chose to abandon it and teleport himself and his servants to safety.$B$BHe wants us to find the chest and its contents, and return it to him in Stormwind.",    ["Objectives"]="Find Karnitol's Chest in Desolace.",    ["Progress"]="",    ["Completion"]="You notice the chest does not seem to have any water damage.$B$BThe second thing you notice is that the top has been forced open, and whatever magical traps were set to safeguard it have long been triggered--this much is obvious from the burn marks around its edges.",    ["minlevel"]="30",    ["questlevel"]="39"},
-
-	["1455"] = {    ["Title"]="The Karnitol Shipwreck",    ["Description"]="You take a few moments to figure out what pried the chest open, and you notice along the sides and top of the chest, long, deep scratches that reveal that something other than a man or giant took interest in it. The marks don't appear as if they were caused by dagger or sword.$B$BAfter going through the chest you find it to be completely empty.$B$BNot having another course of action, you close the chest and prepare to leave. Kreldig will be disappointed.",    ["Objectives"]="Return to Kreldig Ungor in Desolace.",    ["Progress"]="",    ["Completion"]="Welcome back to Nijel's Point, $N. So, tell me what you found.$B$BWhat!? Nothing? An empty chest ain't gonna get us paid, I'm afraid.$B$BTell me more about these marks you saw... these slashes.",    ["minlevel"]="30",    ["questlevel"]="39"},
-
-	["1456"] = {    ["Title"]="The Karnitol Shipwreck",    ["Description"]="Intriguing.$B$BWell, we might not be without hope quite yet.$B$BAlong that same coast, but to the north near Ranazjar Isle, there're night elf ruins at the bottom of the ocean. A tribe of naga, the Slitherblade, make that their home. I think that'd be our best bet.$B$BIf a scouting party went that far south, then they must've been pretty powerful. If you're gonna find Karnitol's belongings, I'd start with the more powerful naga: the tidehunters or sea witches.",    ["Objectives"]="Find Karnitol's Satchel and return it to Kreldig Ungor in Desolace.",    ["Progress"]="No offense to whoever Nijel is, but this camp ain't the most comfortable place I've spent a night, if you know what I mean, $N.",    ["Completion"]="This is great, $N! You found Karnitol's belongings!$B$BThose blasted naga, always causing trouble. I think I'd rather spend my life at war with the Horde than have to go against their kind. You've done a great service to the Reclaimers.",    ["minlevel"]="30",    ["questlevel"]="39"},
-
-	["1457"] = {    ["Title"]="The Karnitol Shipwreck",    ["Description"]="Take Karnitol's things back to Roetten in Ironforge and he'll pay you for a job well done.$B$BHaha, if you're not careful, he's gonna be so pleased with ya that he'll ask you to join us full time.$B$BAgain, great job, $N.$B$BBe careful on your way back, and don't take too much time--Karnitol's not the most of patient of men, but he's very generous nonetheless.",    ["Objectives"]="Bring Karnitol's Satchel to Roetten Stonehammer in Ironforge.",    ["Progress"]="Business is booming, $N, and I don't have a lot of time for questions. If you've got business with the Reclaimers, then let's hear it. If not, I'm gonna have to ask you to talk to one of me underlings - they're adept enough at taking care of things 'round here.",    ["Completion"]="Ah, the Karnitol business in Desolace. Excellent!$B$BSo, the chest was destroyed, but the items are all here, huh? Well, I'll let him be the judge of that. One good part about this business I got going on here is that if they're not satisfied, I can tell 'em to shove it! They're relyin' on us to find their stuff... not make sure it's all pretty and in good shape when they get it back.$B$BGood work, $N. Let's see about gettin' you paid.",    ["minlevel"]="30",    ["questlevel"]="39"},
-
-	["1458"] = {    ["Title"]="Reagents for Reclaimers Inc.",    ["Description"]="One of my tasks out here involves picking up some reagents for Leftwitch, a gnome mage in Kharanos . Roetten seems to think it's easy coin in the bank since we're out here already. He doesn't really care that we're short-handed as is.$B$BThe first few items on his list should be easy enough to get, and it'd be a good chunk of coin for anyone helping me out.$B$BI need some horns and claws from the Hatefury satyr to the east of here. Bring 'em back to me and we'll get started on the rest of the list.",    ["Objectives"]="Bring 10 Hatefury Claws, and 10 Hatefury Horns to Kreldig Ungor in Desolace.",    ["Progress"]="Despicable creatures, the satyr. Story says they're somehow tied to the night elves, but I'm not so sure I believe it.$B$BI think they get that on account of that one elf that brought them into the war few years back. World's never been the same since. Lot more dangerous, and a lot scarier.",    ["Completion"]="Good good, $N. Not sure if these are of any good quality, but if Leftwitch wanted a specific type, he should have specified before sending the Reclaimers out here to begin with.$B$BWhat say you to getting on with the next item on his list?",    ["minlevel"]="30",    ["questlevel"]="33"},
-
-	["1459"] = {    ["Title"]="Reagents for Reclaimers Inc.",    ["Description"]="Next on Leftwitch's list is... let's see... hmm. Oh, here it is.$B$BSimple enough, but pretty explicit in his directions. He needs venom from the scorpashi, and hide from some kodo. The fine print says both are from specific creatures: the venom's got to come from any of the scorpashi, and the hide's got to come from an aged kodo, not the dying or ancient ones.$B$BMages, I tell ya, some of the stuff they want... it's just weird.",    ["Objectives"]="Bring 7 vials of Scorpashi Venom and 3 Aged Kodo Hides to Kreldig Ungor in Desolace.",    ["Progress"]="Sorry I couldn't tell you where to find the kodo or the scorpashi. I'm not terribly familiar with the area, and I haven't had time to explore.",    ["Completion"]="Your help here's a boon, $N. You're cutting my time spent here in Desolace by half at least. I'll be back in Ironforge warming my feet in no time with your help.$B$BWhen we get this list taken care of, and I'm back home, look me up, I'll buy you an ale for sure.$B$BBut until then, let's get the rest of these reagents gathered.",    ["minlevel"]="30",    ["questlevel"]="35"},
-
-	["1465"] = {    ["Title"]="Vahlarriel's Search",    ["Description"]="As you continue your search of the wagon you find not only a pendant, but also footprints leading off towards the south. In the distance you can see smoke rising from a large fort. The smoke is from a kept fire, not the burning of buildings, and your instincts tell you that the Malems, if still alive, were taken that direction.$B$BYou think Vahlarriel at Nijel's Point should not only see the pendant you've found, but also know about the signs of life to the south.",    ["Objectives"]="Return the Malem Pendant to Vahlarriel Demonslayer in Desolace.",    ["Progress"]="",    ["Completion"]="Infuriating! This entire fiasco!$B$BThe two of them were warned about how dangerous coming here would be. Now they're both missing... or worse.$B$BYou said you saw tracks heading to a fort nearby? That may be our best bet.$B$BFrom what the locals have said, that fortress is infested with members of the Burning Blade--orcs who have dedicated themselves to demon causes. They may not represent the majority of the Horde's beliefs, but they are evil and will slay you on sight if you're caught spying.",    ["minlevel"]="30",    ["questlevel"]="33"},
-
-	["1466"] = {    ["Title"]="Reagents for Reclaimers Inc.",    ["Description"]="This is the last of the items, and I won't lie, it ain't pretty. I'm also expecting this to take you a little bit longer than the other items.$B$BSo, enough with the warning, let's get this started. Leftwitch says he needs: ten brains from either mana eaters, mage hunters, or ley hunters. Ten nether wings from a nether maiden, sister or sorceress. And... ten vials of doomwarder blood from a doomwarder captain, or lord.$B$BSimple enough, huh? Sheesh... if you wanna pass on this one, I'd understand.",    ["Objectives"]="Bring 10 Felhound Brains, 10 Nether Wings, and 10 vials of Doomwarder Blood to Kreldig Ungor in Desolace.",    ["Progress"]="I didn't even realize these demon things were in Desolace. Last I read, centaur pretty much owned the land after the night elves picked up and left years ago.$B$BI wonder why they took up here, and how.",    ["Completion"]="Honestly? I wouldn't have thought it. You're amazing, $N. Taking on demons for a mage's experiments, and coming back in one piece to boot. Great job!$B$BI'm personally gonna tell Roetten about you when I get back to Ironforge.",    ["minlevel"]="30",    ["questlevel"]="40"},
-
-	["1467"] = {    ["Title"]="Reagents for Reclaimers Inc.",    ["Description"]="To get paid, you're gonna have to get back to Ironforge and speak to Roetten himself. He'll love getting Leftwitch's package out of the way anyway. Just give him this and it should be enough to get your booty.$B$BAnd don't worry, I'm still going to put in a good word for you when I get back. I shouldn't be in Desolace much longer.",    ["Objectives"]="Bring Leftwitch's Package back to Roetten Stonehammer in Ironforge.",    ["Progress"]="Well met, $N. Business is booming, the sounds of anvils being struck rings throughout Ironforge, the bellows blow the fires hot, and me wife's making me a pie for dessert after tonight's dinner. Could life be any grander?",    ["Completion"]="Ah, the package for Leftwitch from Desolace. Excellent. I 'preciate the work, and your timeliness, $C. Glad to have you aboard for at least this small bit of work.$B$BI got your payment right here. Let it be known that Reclaimers Inc. always pays well for a hard week's work.",    ["minlevel"]="30",    ["questlevel"]="40"},
-
-	["1468"] = {    ["Title"]="Children's Week",    ["Description"]="You're willing to help us here at the orphanage?  Bless you, friend; your aid during Children's Week will be invaluable.$B$BTake this whistle.  You will only be able to use it for a short amount of time - typically not longer than Children's Week itself.  When you use it, you will be able to talk with the child you've agreed to look after.  Using it again will dismiss the child.$B$BBy all means $N - use the whistle and meet your ward!  I'm sure the child will be most eager to meet you.",    ["Objectives"]="Use the Human Orphan Whistle to talk with the child you will be looking after during Children's Week.",    ["Progress"]="",    ["Completion"]="Um... hi. My name is Randis, and I guess you're looking after me? You're an adventurer, like my mom and dad were. I'm happy to meet you.$B$BI hope we'll have a lot of fun together. I have some things I'd like to do, and the matron says you'll be like a big brother to me during this week. I'd like that a whole bunch, yes sir.",    ["minlevel"]="10",    ["questlevel"]="60"},
-
-	["1469"] = {    ["Title"]="Rhapsody's Tale",    ["Description"]="Before the flight, I drank me a whole keg of stout. Hiccup!$b$bAnd what a flight it was. Zipping around with Brohann following me. Didn't see no temple though. Hiccup!$b$bWell, didn't see no temple till I got a little too tipsy and fell off my mount. I plunged right into the water and was sucked down. Found myself surrounded by a bunch of creepy trolls. Sure swam out of there fast! Even made off with this troll souvenir. Here, take it to Brohann and let him know his temple is down there, indeed. Hiccup!",    ["Objectives"]="Bring the Atal'ai Tablet Fragment to Brohann Caskbelly in Stormwind.",    ["Progress"]="At long last you have returned, $N. It has been quite some time since we last spoke. I thought perhaps you had forgotten about my quest.$B$BDid you locate that wily gryphon rider? Did he have anything to report?",    ["Completion"]="Rhapsody Shindigger! That's right... how could I forget such a name?$B$BSo he knew about the sinking of the temple all along? Well, that certainly would have saved you some leg work.$B$BBut this Atal'ai artifact! Why, it's quite a find!",    ["minlevel"]="38",    ["questlevel"]="43"},
-
-	["1475"] = {    ["Title"]="Into The Temple of Atal'Hakkar",    ["Description"]="According to legend, The Temple of Atal'Hakkar is a holy shrine dedicated to the ancient god, Hakkar the Soulflayer. Maintained by a vicious tribe of trolls named the Atal'ai, the temple is rumored to be impenetrable.$b$bNow sunk beneath the Pool of Tears, retrieving artifacts from the temple is even more difficult. But that's what I need you to do, $n.$b$bAid me by gathering the intact Atal'ai Tablets. Bring them to me and I will return to the Explorers' Guild a hero. Together we will share the glory.",    ["Objectives"]="Gather 10 Atal'ai Tablets for Brohann Caskbelly in Stormwind.",    ["Progress"]="As dusk slowly descends upon my career I turn to you, $N, to help me in my final quest for the Explorers' League. If my old bones could muster the strength to brave the Swamp of Sorrows and the sunken temple I would be fighting right alongside you.$B$BPride makes it hard for me to ask for your help in collecting the Atal'ai Tablets. But old age forces the necessity.$B$BPlease help me, $N. I want to retire from the Explorers' League having completed their final bidding.",    ["Completion"]="The Atal'ai Tablets! Thank you, $N!$B$BOnce I deliver these to the Explorers' League our names shall go down in history together. You have helped an old dwarf fulfill his final obligation in life. For that I am eternally grateful.",    ["minlevel"]="38",    ["questlevel"]="50"},
-
-	["1479"] = {    ["Title"]="The Bough of the Eternals",    ["Description"]="I've heard stories about how the night elves have their bank in a tree - one that looks like a bear!  That's so cool!  Night elves are neat how they like nature and stuff, but bears are just totally awesome!$B$BWould you take me to see the bear-tree in Darnassus, please?  There's a boat that will take us close to there, and it shouldn't take very long.  Please, please, please!",    ["Objectives"]="Take the orphan to the bank of Darnassus.  The bank itself is hollowed out of a tree known as the Bough of the Eternals.",    ["Progress"]="Are we there yet?",    ["Completion"]="Wow, it was cooler than I even imagined - the Bough of the Eternals! I didn't think it'd be so big, but it was! Did you see the bird on top of it too?! I wonder how they got the branches to look like that!$B$BThanks for taking me to Darnassus, $N. You're awesome!",    ["minlevel"]="10",    ["questlevel"]="60"},
-
-	["1481"] = {    ["Title"]="The Corrupter",    ["Description"]="I believe I can find this demon lord given the proper reagents.$B$BIf he is indeed as powerful as I suspect, I will need items gathered from deadly creatures. But you act in the Warchief's name, so I am sure you will accept my task.$B$BFirst, I will have to break any wards he has against scrying. For this, I will need the scalp from a satyr--but not any satyr. The scalp must come from a Hatefury shadowstalker.$B$BSearch for them among the ancient ruins in the northeast of Desolace.",    ["Objectives"]="Bring a Shadowstalker Scalp to Maurin Bonesplitter in Desolace.",    ["Progress"]="Do not bring me an incorrect scalp, $C. Using the incorrect reagents could cause our deaths. The demon lord may have contingency spells on his person to slay those who would scry upon him.$B$BFate has already dealt me enough pain.",    ["Completion"]="The shadowstalkers were unable to slay you, $C. Impressive... most impressive.$B$BThis scalp will do nicely for my spell. While you were away, I was able to gather some of the other reagents needed for the spell.$B$BI am almost ready. I only need a focus for the spell--something to project an image of the demon lord and his whereabouts.",    ["minlevel"]="25",    ["questlevel"]="33"},
-
-	["1482"] = {    ["Title"]="The Corrupter",    ["Description"]="An oracle crystal would do nicely. They are crafted by the naga for their oracles to use.$B$BNorthwest of here, along the coast, is a vast coral reef that the naga have taken as their home when this close to the shore. You can find their oracles there. The Slitherblade are deadly and will not react kindly to your intrusions, so be careful and make haste.$B$BWhen you return, we shall see about finding this demon lord Azrethoc.",    ["Objectives"]="Bring an Oracle Crystal to Maurin Bonesplitter in Desolace.",    ["Progress"]="I am ready for the oracle crystal, $C. Finding and destroying this Lord Azrethoc would garner a great deal of favor with the Warchief for both of us. We would do well to work together and to do so swiftly so we may further our own ends and curry favor with the Warchief.",    ["Completion"]="A precious oracle crystal... flawless... beautiful. Indeed.$B$BWe shall begin immediately. Finding this demon lord should be our primary concern, and its slaying demands our utmost attention.$B$BTake a step back, $C, and let us see what this demon is, and where he may be found.",    ["minlevel"]="25",    ["questlevel"]="35"},
-
-	["1484"] = {    ["Title"]="The Corrupter",    ["Description"]="This creature is far more dangerous than I had anticipated.  No doubt Takata questions my abilities to take on such a creature, and it would insult his honor if he were not informed about what just happened.$B$BSpeak to the swordsman, tell him you are willing to slay the demon if he would allow it, but do not press too hard. It is better if he thinks it his own idea.",    ["Objectives"]="Speak to Takata Steelblade in Desolace.",    ["Progress"]="",    ["Completion"]="I witnessed what just occurred with Maurin and the demon lord. That creature, even as an apparition, seems to have more power than my warlock companion. I wonder if he's up to the task of defeating the monster? It would serve the Warchief better if I go myself, but with my responsibilities here, I would disgrace my clan if I turned my back on my duties here to battle this evil for my own honor.",    ["minlevel"]="25",    ["questlevel"]="33"},
-
-	["1488"] = {    ["Title"]="The Corrupter",    ["Description"]="Although I have no knowledge of this Lord Azrethoc, I agree with Maurin, he must be stopped; especially if he is attempting to gain influence over the Burning Blade to further his goals.$B$BYou have already shown you wish to aid the Warchief, and I would trust you to gather a party to slay the demon lord and his warlock servant.$B$BWhen you are ready, head directly south,  and return to me when the threat has been ended.",    ["Objectives"]="Slay Lord Azrethoc and Jugkar Grim'rod and return to Takata Steelblade in Desolace.",    ["Progress"]="Glory to the Horde, and death to our enemies, $N!$B$BThe demons in Desolace pose a greater threat than ever before. My hope of returning to the Warchief dwindles as more and more of the foul creatures seem to appear.$B$BI sometimes wish it was only the centaur we had to deal with.",    ["Completion"]="A mighty victory for us all, $N. Let us rejoice in your success. I trust now that our future here is not as bleak as I once thought.$B$BThe demons will be slain, the Burning Blade will fail in their efforts, and we may one day have a place we can safely call home again.",    ["minlevel"]="25",    ["questlevel"]="40"},
-
-	["1514"] = {    ["Title"]="Corrupted Windblossom",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="You have found a sickly, corrupted version of what appears to be a windblossom plant. The berries that hang from the plant appear rotten and poisonous. It desperately needs some sort of attention if it is to be turned back to normal.",    ["Completion"]="You apply two Cenarion plant salves to the windblossom. It immediately begins to shed its corrupted form, blossoming into a vibrant and healthy plant.",    ["minlevel"]="48",    ["questlevel"]="55"},
-
-	["1558"] = {    ["Title"]="The Stonewrought Dam",    ["Description"]="Ironforge is where all the dwarves and gnomes live.  Near there is a place called Loch Modan, and the dwarves built a HUGE dam there.  They say it's one of the biggest things anyone's ever made.  Wow!$B$BCould you take me to Loch Modan and see the dam there, please?  I think it is the Stone... um... Stonewrench Dam?  Stonewrought?  It's big - that's for sure.  I'd like to look out over the big waterfall.  I promise I won't lean over too far!",    ["Objectives"]="Take the orphan to the Stonewrought Dam in Loch Modan.  You should take him to the middle of the dam so he can see out over the giant waterfall.",    ["Progress"]="",    ["Completion"]="WOW - the dam was WAY bigger than I thought! I could barely hear myself talk from the sound of all the rushing water! Hey, do you think it would ever run out of water? Man, what would happen if that dam ever broke! WOW, that would be scary!$B$BThanks for taking me to see the dam. That was very kind of you. I told you I wouldn't lean over too far!",    ["minlevel"]="10",    ["questlevel"]="60"},
-
-	["1559"] = {    ["Title"]="Flash Bomb Recipe",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="So you're an engineer, eh? Well, for your help in getting me those pearls, here's the recipe for flash bombs.$B$BGood luck, and try not to blind yourself!",    ["minlevel"]="30",    ["questlevel"]="37"},
-
-	["1579"] = {    ["Title"]="Gaffer Jacks",    ["Description"]="I came to Auberdine because of the quiet.  I want to invent my inventions where it's quiet, because after a night of drinking I don't like all the noise of Ironforge!$B$BSo I took a ship to Auberdine and had a little too much to drink on the way.  I dropped my box of gaffer jacks overboard!  I need my gaffer jacks!$B$BI don't know exactly where I dropped them, but if you fish for them in the ocean you might get lucky...",    ["Objectives"]="Bring 8 Gaffer Jacks to Wizbang Cranktoggle in Auberdine.",    ["Progress"]="Did you find my gaffer jacks, $N? Without my gaffer jacks I can't tune my stintle pegs!",    ["Completion"]="I can't believe you found them! You must be the luckiest $R in Kalimdor!",    ["minlevel"]="10",    ["questlevel"]="12"},
-
-	["1580"] = {    ["Title"]="Electropellers",    ["Description"]="We know you're lucky, but... just how lucky are you, $N?$B$BOne night I was wandering the roads of Darkshore.  I was looking for a good river or lake to try my new self-propelled, exploding duck decoy and I think I was a little tipsy... because I passed out and awoke hours later in Auberdine.  My hair was singed and my bag of electropellers was gone!  I must have dropped them in the water!$B$BI need those electropellers!  Maybe you can fish them out of some lake or stream in Darkshore...",    ["Objectives"]="Bring 12 Electropellers to Wizbang Cranktoggle in Auberdine.",    ["Progress"]="Did you find any electropellers? I'll need them if I'm to continue my research on duck decoys...",    ["Completion"]="I can't believe it! You found them! You are the best fisherman I've ever seen!$B$BThank you, $N. And here, take these. Although you're so good and you probably don't need them, they will help you with your fishing.",    ["minlevel"]="10",    ["questlevel"]="12"},
-
-	["1581"] = {    ["Title"]="Elixirs for the Bladeleafs",    ["Description"]="Our herb and alchemy shop is booming, but my husband spends so much time mixing potions that we never have time for each other.$B$BCan you help us?$B$BIf you can bring me a supply of pre-made elixirs, then I would be happy to trade with you.  I have some rare herbs that you might find useful.",    ["Objectives"]="Bring 6 Elixirs of Lion's Strength and 2 Elixirs of Minor Defense to Syral Bladeleaf in Dolanaar.",    ["Progress"]="Hello, $N. Do you have the elixirs to trade?",    ["Completion"]="These are nicely mixed. You take great care in your trade, $N, and that is important for an alchemist.$B$BHere are your herbs, freshly gathered. May you use them well.",    ["minlevel"]="4",    ["questlevel"]="8"},
-
-	["1582"] = {    ["Title"]="Moonglow Vest",    ["Description"]="We in Darnassus, especially we craftsman, are quite busy.  Young adventurers are eager to test themselves in the wilderness, and are in constant need of supplies.$B$BIf you can help me fill my orders of leather goods, then perhaps I can teach you an advanced leatherworking technique.",    ["Objectives"]="Bring 1 Embossed Leather Glove, 5 Embossed Leather Boots and 5 Embossed Leather Cloaks to Lotherias in Darnassus.",    ["Progress"]="Greetings, $N.",    ["Completion"]="Yes, these are good pieces. You have a skilled hand and an eye for detail. Your future as a leatherworker is promising.$B$BHere, $N. Let me show you the pattern to make the Moonglow Vest.",    ["minlevel"]="8",    ["questlevel"]="18"},
-
-	["1618"] = {    ["Title"]="Gearing Redridge",    ["Description"]="We dwarves aren't the only ones fighting.  Our human allies have their hands full too!$B$BRedridge is under periodic attack from blackrock orcs, and their supply of equipment is always low.  If you were to help them out, I'm sure their resident blacksmith, Verner Osgood, would teach you a trick or two.",    ["Objectives"]="Tormus Deepforge  wants you to bring 4 Runed Copper Belts and 4 Heavy Copper Mauls to Verner Osgood in Redridge.",    ["Progress"]="I hope you're here with good news from Ironforge. Because I'm at my wit's end!",    ["Completion"]="Thank you, $N. This will help me out tremendously. With the Blackrock orcs attacking from Stonewatch Keep and the Redridge gnolls lurking in the foothills to the north, I'm always fixing armor and making new weapons for our troops.$B$BThe supplies you brought will give me a moment's peace. I will have enough time to teach you something...",    ["minlevel"]="1",    ["questlevel"]="16"},
-
-	["1658"] = {    ["Title"]="Crashing the Wickerman Festival",    ["Description"]="I need brave individuals to head up to Tirisfal Glade and check out the Wickerman Festival.  I'm not going to lie - heading up there will be dangerous.  The guards at the festival will be exceptionally vicious.  Still, we need to know how big the festival is this year, and how much trouble the Forsaken are going to cause us during Hallow's End.$B$BIf you're up for it, head to Tirisfal and scout out the festival.  Return to me with the information, and I'll make sure you're well compensated.",    ["Objectives"]="Locate the Forsaken's Wickerman Festival in Tirisfal Glade.  Return to Sergeant Hartman in Southshore once you've done so.",    ["Progress"]="Have you gone up to Tirisfal Glade and checked things out?  They usually hold the festival close to the Undercity...",    ["Completion"]="Well done, $N.  The Wickerman Festival will continue to be trouble so long as the abominable Forsaken are allowed to haunt the remnants of Lordaeron.  It is NOT a fitting tribute to that once proud kingdom, let me tell you...$B$BHere's some coin for any repairs you might need, and in the spirit of the season I've also included some treats you might like.  Happy Hallow's End - let's keep it as safe as possible here in Southshore.",    ["minlevel"]="25",    ["questlevel"]="60"},
-
-	["1687"] = {    ["Title"]="Spooky Lighthouse",    ["Description"]="Sometimes late at night, our matrons at the orphanage will tell us spooky stories.  Those RULE!  There's one about a ghost that haunts a lighthouse in Westfall.  They say he was a pirate captain who had his ship taken from him by other pirates.  Wow!$B$BCould you please take me to the lighthouse in Westfall?  I wanna see if the ghost of that captain is there!  I promise to stay close to you; I won't run off or anything!",    ["Objectives"]="Take the orphan to see the lighthouse off the coast of Westfall.",    ["Progress"]="",    ["Completion"]="WOW, that was a real life ghost! That was so awesome - I can't wait to tell everyone back at the orphanage. Captain Grayson... he even looked like a pirate! When I grow up I wanna be a ghost pirate too!$B$BThanks for taking me to Westfall, $N. I know there are scary things out there in the wilds of Westfall, and I hope I wasn't too much of a pain. You're awesome!",    ["minlevel"]="10",    ["questlevel"]="60"},
-
-	["1800"] = {    ["Title"]="Lordaeron Throne Room",    ["Description"]="The orphan matrons at my home tell mighty stories of battle and lore at night if we are good and do our chores.  One story was about how Lordaeron fell, and about how the evil Arthas took his own father's life to become ruler.$B$BHe had no honor, $N!  When I grow up and become a mighty Horde warrior, my blade will be guided by honor - never evil!$B$BWould you take me to see the throne room, please?  It is just before where you would go down into the Undercity.",    ["Objectives"]="Take your ward to the old Lordaeron Throne Room that lies just before descending into the Undercity.",    ["Progress"]="Are we there yet?",    ["Completion"]="That throne room was scary, $N!  Even though it was empty, it felt like a great evil had happened there.  I felt mad... but I also felt sad too.  I understand why the matrons tell us such stories; I will never betray my people like that!$B$BThank you for taking me to the throne room, $N.  I learned a lot.",    ["minlevel"]="10",    ["questlevel"]="60"},
-
-	["1878"] = {    ["Title"]="Water Pouch Bounty",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="Back again, $N?  If you have five more Wastewander water pouches, then I have a care package with your name on it!",    ["Completion"]="Excellent - the more water pouches we are able to reclaim, the further away from disaster we'll all be!  Keep 'em coming, and I will be sure to reward you for every five water pouches you bring me.",    ["minlevel"]="40",    ["questlevel"]="44"},
-
-	["2178"] = {    ["Title"]="Easy Strider Living",    ["Description"]="Do you smell that delicious aroma? It's my secret recipe, $N--fresh strider stew. Delicious!$B$BPerhaps you would be interested in learning the recipe?$B$BBefore I teach you the recipe, you will need to prove that you can handle the beasts.$B$BNow, I don't expect you to go out and tame one and ride it back to me, but if you can kill a few and bring back some of their succulent meat, I may be persuaded to show you the ways of strider stew.",    ["Objectives"]="Bring back 5 Strider Meat to Alanndarian Nightsong in Auberdine.",    ["Progress"]="The pot is empty and I'm hungry! What's taking you so long?",    ["Completion"]="Fantastic! Try it and tell me what you think, $N!",    ["minlevel"]="9",    ["questlevel"]="12"},
-
-	["2521"] = {    ["Title"]="To Serve Kum'isha",    ["Description"]="$R, can your miniscule brain comprehend the rarity of a flawless sphere of draenethyst? Draenei have spent lifetimes in search of just one of these crystals, only to meet horrible fates, their purpose unfulfilled.$B$BSo you stand before Kum'isha, knowing what Kum'isha has requested and still wish to assist? Very well, $r... At any time during your travels across these lands, should you find a flawless sphere of draenethyst, return it to me and I shall reward you with riches beyond your wildest dreams.",    ["Objectives"]="In your journeys throughout the Blasted Lands, should you ever come across a Flawless Draenethyst Sphere, take the item back to Kum'isha the Collector.$B$BBe warned, this gem is one of the most rare crystals in all of Azeroth. Any creature in these lands could be holding a Flawless Draenethyst Sphere.$B$BYou will be rewarded for each Flawless Draenethyst Sphere you have collected.",    ["Progress"]="I have dedicated my life to the search of flawless draenethyst spheres. A lifetime, $R!",    ["Completion"]="Do my eyes deceive me? Impossible! Where did you... How...$B$BPerhaps now a rift can be opened, returning us to our homeland.",    ["minlevel"]="45",    ["questlevel"]="55"},
-
-	["2522"] = {    ["Title"]="Kum'isha's Endeavors",    ["Description"]="Even though the portal conjuration was a failure, I remain hopeful that my next attempt will be successful.$B$BThe hope of the Draenei is as fervent as your greed for trinkets, $r. Go back out into these cursed lands and recover another flawless draenethyst sphere.$B$BOf course, the choice to take on this task is completely left to you *grin*.",    ["Objectives"]="Find and return a Flawless Draenethyst Sphere to Kum'isha the Collector.",    ["Progress"]="Have you found another flawless draenethyst sphere?",    ["Completion"]="Simply amazing. I had doubted that you could find another sphere, yet here it is, pulsating in my hands.$B$BWell done, $N!$B$BShould you find anymore--and I believe this to be an impossibility--return them to me and I shall reward you again.",    ["minlevel"]="45",    ["questlevel"]="55"},
-
-	["2523"] = {    ["Title"]="Corrupted Songflower",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="You have found a sickly, corrupted version of what appears to be a songflower plant. A pungent, unhealthy odor emanates from the plant. It desperately needs some sort of attention if it is to be turned back to normal.",    ["Completion"]="You apply some Cenarion plant salve to the songflower. It immediately begins to shed its corrupted form, blossoming into a vibrant and healthy plant.",    ["minlevel"]="48",    ["questlevel"]="55"},
-
-	["2581"] = {    ["Title"]="Snickerfang Jowls",    ["Description"]="It is a well known fact that hyenas possess tremendous strength in their jowls, but the strength to snap through three inches of thorium steel? Impossible, improbable, and yet I have seen this demonstrated with my own eyes.$B$BVenture forth, into the Blasted Lands, and bring me three snickerfang jowls. As you search for the snickerfang, be on the lookout for boars and scorpoks: The initial assay also requires two blasted boar lungs and one scorpok pincer to complete.",    ["Objectives"]="Bring three Snickerfang Jowls, two Blasted Boar Lungs, and one Scorpok Pincer to Bloodmage Drazial.",    ["Progress"]="You smell foul, $N. Have you been traipsing in sulfur fields? And where are my components?!",    ["Completion"]="How do you feel, $N? You radiate with the aura of the snickerfang--your strength, unmatched by mortals!$B$BUnfortunately, with the components you brought to me, I could only make enough of the assay for one tablet. I will require more components, should you require another tablet.",    ["minlevel"]="45",    ["questlevel"]="50"},
-
-	["2582"] = {    ["Title"]="Rage of Ages",    ["Description"]="Ah, $N, welcome back. It seems you enjoyed the effect of the robust, operational imbue, derived from snickerfang. Be warned, while the immediate effect is a titanic burst of strength, the long term effects on your spirit and intelligence could be hazardous.$B$BWith that said, do you require more? If so, bring me another three snickerfang jowls, two blasted boar lungs, and one scorpok pincer.",    ["Objectives"]="Bring three Snickerfang Jowls, two Blasted Boar Lungs, and one Scorpok Pincer to Bloodmage Drazial.",    ["Progress"]="Do you have the beast organs?",    ["Completion"]="There you go! Remember, use it sparingly. If you require another, come see me after you finish the one you currently have in your possession.",    ["minlevel"]="45",    ["questlevel"]="50"},
-
-	["2583"] = {    ["Title"]="A Boar's Vitality",    ["Description"]="Within these blasted lands exists two species of boar: the ash-mane boar and the helboar.$B$BIt would appear that the stamina of these beasts renders them nearly immune to harm, as the other animals find them too difficult to kill and consequently, not worth the effort.$B$BWe need to perform further analysis, $N. Should you bring me three blasted boar lungs, two scorpok pincers, and one basilisk brain, I shall create a divine elixir from the residue of the assay. You will be my first test subject!",    ["Objectives"]="Bring three Blasted Boar Lungs, two Scorpok Pincers, and one Basilisk Brain to Bloodmage Drazial.",    ["Progress"]="Where are the organs, $N!?",    ["Completion"]="The spirit of the boar illuminates your being, $N! I wonder, do you believe yourself to be as invulnerable as these beasts?",    ["minlevel"]="45",    ["questlevel"]="50"},
-
-	["2584"] = {    ["Title"]="Spirit of the Boar",    ["Description"]="When I first administered the elixir, $N, I could tell that one or two applications would not satiate your appetite. Even now, I can see the hunger in your eyes. The concoction has addictive properties of which, seemingly, the most strong of will cannot resist.$B$BSo be it! Should you require more of the lung juice cocktail, venture back into the wasteland and find for me three blasted boar lungs, two scorpok pincers, and one basilisk brain.",    ["Objectives"]="Bring three Blasted Boar Lungs, two Scorpok Pincers, and one Basilisk Brain to Bloodmage Drazial.",    ["Progress"]="Where are the organs, $N!?",    ["Completion"]="I must warn you, $N, do not attempt to mix the formulas I have created. The chemical properties of the formula you most recently ingested will always take precedence over former enchantments; thus, rendering the other formulation null.",    ["minlevel"]="45",    ["questlevel"]="50"},
-
-	["2585"] = {    ["Title"]="The Decisive Striker",    ["Description"]="Have you ever watched them in battle, $N? The scorpoks, I mean. Have you ever seen the grace and agility with which they move? The decisiveness of their strikes?$B$BIf only we could somehow isolate that agility and encapsulate it, we would be wealthy beyond our... I mean... it would be a boon for the scientific community.$B$BAssist me, $N, and I shall allow you a sampling of the assay.$B$BIn order to create a stable sample, I will need three scorpok pincers, two vulture gizzards, and one blasted boar lung.",    ["Objectives"]="Bring three Scorpok Pincers, two Vulture Gizzards, and one Blasted Boar Lung to Bloodmage Drazial.",    ["Progress"]="Where are the organs, $N!?",    ["Completion"]="Fascinating. This has been the most difficult of all assays to analyze.$B$BTake a pinch of this residual salt and place it under your tongue. You should experience a slight feeling of euphoria followed by a state of unprecedented agility and quickness.",    ["minlevel"]="45",    ["questlevel"]="50"},
-
-	["2586"] = {    ["Title"]="Salt of the Scorpok",    ["Description"]="You live! This is good news, indeed. I assume you are back for more of the scorpok assay?$B$BVery well, $N, back to the wasteland with you and do not return until you have collected three scorpok pincers, two vulture gizzards, and one blasted boar lung.",    ["Objectives"]="Bring three Scorpok Pincers, two Vulture Gizzards, and one Blasted Boar Lung to Bloodmage Drazial.",    ["Progress"]="Where are the organs, $N!?",    ["Completion"]="Fine work, $N. Here is one sample of the assay for you and the remaining nine will be used in my research.$B$BAnytime you require more of the ground scorpok assay, return to me and we shall work out a deal.",    ["minlevel"]="45",    ["questlevel"]="50"},
-
-	["2601"] = {    ["Title"]="The Basilisk's Bite",    ["Description"]="These wastelands are riddled with redstone basilisk, $N. These basilisk have adapted and flourished, more so than any of the other wildlife within the region.$B$BI have watched from afar as they hunt and go about their daily activities - the beasts exhibit a thought process more complex than even some humanoids.$B$BI must study their brains!$B$BRetrieve four of their brains for me, $N. The compound cannot be complete, however, without two vulture gizzards to form the base of the solution.",    ["Objectives"]="Bring four Basilisk Brains and two Vulture Gizzards to Bloodmage Lynnore.",    ["Progress"]="Have you returned with the requested organs?",    ["Completion"]="This is wondrous, $N! My offering to you is a taste of the inner workings of the redstone basilisk.$B$BShould the compound be to your liking, more can always be made... for a price.",    ["minlevel"]="45",    ["questlevel"]="50"},
-
-	["2602"] = {    ["Title"]="Infallible Mind",    ["Description"]="Your focused concentration has dwindled so soon? More research must be done!$B$BOh yes, the price remains the same, $N. Venture forth into the blasted lands and return to me with four brains from the redstone and two vulture gizzards.",    ["Objectives"]="Bring four Basilisk Brains and two Vulture Gizzards to Bloodmage Lynnore.",    ["Progress"]="Have you returned with the requested organs?",    ["Completion"]="Yes, yes, give me a moment and more of the compound will be ready for your consumption, $N.$B$BTake it... and $N, do not attempt to consume these experimental concoctions in rapid succession. The results could be disastrous.",    ["minlevel"]="45",    ["questlevel"]="50"},
-
-	["2603"] = {    ["Title"]="Vulture's Vigor",    ["Description"]="Your focused concentration has dwindled so soon? More research must be done!$B$BOh yes, the price remains the same, $N. Venture forth into the blasted lands and return to me with ten brains four the redstone and two vulture gizzards.",    ["Objectives"]="Bring four Vulture Gizzards and two Snickerfang Jowls to Bloodmage Lynnore.",    ["Progress"]="Do not waste my time, $N. We have nothing to discuss, unless you have recovered the items I have requested.",    ["Completion"]="Most excellent! I shall get to work immediately. Perhaps a cure for many of the ailments of the world is to be found!$B$BAh yes, your reward - of course, should you require more of the gum, return to me and another task you shall be given.",    ["minlevel"]="45",    ["questlevel"]="50"},
-
-	["2604"] = {    ["Title"]="Spiritual Domination",    ["Description"]="I see that the inner fire has dwindled. Would you say the spiritual euphoria lasted an hour?$B$BIf it's more of the gizzard gum you desire, then more of the gizzards I require. Back to the wastelands, $N. Do not return until you have recovered four gizzards and two jowls.",    ["Objectives"]="Bring four Vulture Gizzards and two Snickerfang Jowls to Bloodmage Lynnore.",    ["Progress"]="Do not waste my time, $N. We have nothing to discuss, unless you have recovered the items I have requested.",    ["Completion"]="Perhaps one day I shall be able to isolate the active enzymes of this assay and produce a much more efficient resultant. Unfortunately, you will have to settle for what I am currently able to produce. Return to me should you require more gizzard gum.",    ["minlevel"]="45",    ["questlevel"]="50"},
-
-	["2621"] = {    ["Title"]="The Disgraced One",    ["Description"]="Regret. It is all I have now. One bad decision resulting in several horrible outcomes. If only I had waited for those orders. Maybe they would have detailed the horrors that awaited us in those cursed lands! Maybe they were to redirect us to another detail? Ultimately, it was my fault. All of it was my fault.$B$BSo here I stand, awaiting orders. I must know. I must have those orders.$B$BDispatch Commander Ruag resides in Stonard. Find him and find out what became of the orders.",    ["Objectives"]="Speak to Dispatch Commander Ruag in Stonard.",    ["Progress"]="",    ["Completion"]="Thrall's Grasp... The story is still fresh in my mind.$B$B<Commander Ruag shakes his head>$B$BTerrible thing that happened to that regiment. The horde lost some of its best soldiers when that battalion was destroyed.",    ["minlevel"]="45",    ["questlevel"]="50"},
-
-	["2681"] = {    ["Title"]="The Stones That Bind Us",    ["Description"]="It will take more than you alone to overcome the forces of Razelikh and his subordinates.$B$BGather a suitable group of adventurers and free my men of their eternal torture! Eighteen stones you must shatter.$B$BFight hard and die with honor, $N.",    ["Objectives"]="Free nine Servants of Razelikh, three Servants of Sevine, three Servants of Allistarj, and three Servants of Grol. Return to the Fallen Hero when your task is complete. You must remain within close proximity of the stones or the process will fail.",    ["Progress"]="It is no easy task, $N. Do not give up!",    ["Completion"]="You have done it, $N! The poor, tortured souls can finally rest.$B$BOur work is not yet over, $N. We have much to discuss and much more to accomplish.",    ["minlevel"]="45",    ["questlevel"]="57"},
-
-	["2701"] = {    ["Title"]="Heroes of Old",    ["Description"]="Please, take from this a relic of old. We no longer have a use for the item.$B$BMay it serve you well in your fight against the legion.",    ["Objectives"]="Open the chest and claim your reward.",    ["Progress"]="",    ["Completion"]="You are temporarily blinded by the sparkle and gleam.",    ["minlevel"]="45",    ["questlevel"]="57"},
-
-	["2702"] = {    ["Title"]="Heroes of Old",    ["Description"]="You have honored me with your nobility and heroism, $N.$B$BYou have also honored them...",    ["Objectives"]="Speak to Corporal Thund Splithoof.",    ["Progress"]="",    ["Completion"]="Indeed, you have honored us all. Our thanks alone are not sufficient.",    ["minlevel"]="45",    ["questlevel"]="57"},
-
-	["2721"] = {    ["Title"]="Kirith",    ["Description"]="As one chapter of your adventure closes, another one begins, $N.$B$BOne of my men is still unaccounted for, lost somewhere in the Blasted Lands. I am talking about Lieutenant Kirith, of course.$B$BAs I had mentioned earlier, we were both imprisoned and tortured by Allistarj, but poor Kirith, his strength of will faltered. I could hear the experiments from my cage; the tortured screams rang through the halls of the cave. That was the last I saw or heard of Kirith.",    ["Objectives"]="Find out what became of Lieutenant Kirith.",    ["Progress"]="",    ["Completion"]="Trebor? Trebor sent you?",    ["minlevel"]="45",    ["questlevel"]="58"},
-
-	["2742"] = {    ["Title"]="Rin'ji is Trapped!",    ["Description"]="Hey $r!$B$BRin'ji lost axe and was captured! Please, help Rin'ji escape. Me know that $r like you don't like Rin'ji's kind, but Rin'ji begs! Must get out of here!$B$BGot something for nice $r if $Ghe helps Rin'ji out of here:she helps Rin'ji out of here;...$B$BRin'ji is hiding something secret at the Overlook Cliffs.",    ["Objectives"]="Escort Rin'ji out of the Quel'Danil Lodge, then find his hidden secret at the Overlook Cliffs to the east.",    ["Progress"]="Rin'ji is scared!",    ["Completion"]="This troll tablet must be the \"secret\" that Rin'ji was talking about.$B$BCovered with strange markings, you can not decipher what the tablet says.$B$BOran Snakewrithe sent you to this area in the first place... Perhaps he might be able to tell you more about it.",    ["minlevel"]="42",    ["questlevel"]="47"},
-
-	["2743"] = {    ["Title"]="The Cover of Darkness",    ["Description"]="Let us not mince words, $r; my time here is limited.$B$BYou must destroy the triad of power which protects the demon lord, Razelikh. Doing so will not be as simple a task as freeing a damned soul.$B$B<Kirith grins.>$B$BYou see, each of Razelikh's underlings wears a third of an amulet of Razelikh's creation around their neck. The very same amulet you will need in order to summon the arch demon.$B$BReturn to Trebor and tell him what is required to summon Razelikh. He will be able to instruct you further.",    ["Objectives"]="Return to the Fallen Hero of the Horde with your findings.",    ["Progress"]="",    ["Completion"]="The demon lord displays a cunning almost as calculated as his brutality, $N.",    ["minlevel"]="45",    ["questlevel"]="60"},
-
-	["2744"] = {    ["Title"]="The Demon Hunter",    ["Description"]="The triad is protected by Razelikh.$B$BIn exchange for their servitude, Razelikh granted each of them nearly unlimited power within the Blasted Lands. The amulet pieces are each attuned to the lifeforce of their owner, granting them immortality. As long as they remain within the Blasted Lands, they cannot be slain, their life spans extended until the end of days.$B$BThere is one who may be able to assist you further, $N. Travel to Azshara and find the demon hunter, Loramus Thalipedes. Search the islands.",    ["Objectives"]="Speak with Loramus Thalipedes in Azshara.",    ["Progress"]="What are you doing here?",    ["Completion"]="I will help you. Although, I do not think you fully understand what you are up against.",    ["minlevel"]="45",    ["questlevel"]="60"},
-
-	["2751"] = {    ["Title"]="Barbaric Battlements",    ["Description"]="Twenty generations of Omosh have held this hammer, $N. A hundred thousand tons of metal we have molded. Tragically, it all ends at Orokk, failure of the Omosh: Without kin and incapable of producing offspring.$B$BI cannot let the secret recipes of Omosh die with me! Someone must continue the legacy, Omosh or not!$B$BProve to Orokk you are capable, $N. Bring for Orokk the following: Two patterned bronze bracers, two bronze greatswords, and two sharp claws. Bring them for Orokk and we shall continue.",    ["Objectives"]="Bring two Patterned Bronze Bracers, two Bronze Greatswords, and two Sharp Claws to Orokk Omosh in Orgrimmar.",    ["Progress"]="Bronze, $N! More bronze!!",    ["Completion"]="The bloodline will fade but perhaps the legend of Omosh will continue!$B$BYou have proven that you are a blacksmith, $N. For the blacksmith the reward is the satisfaction of seeing their weapons and armors coated in the blood of their enemies!$B$BMay the breastplates you create for the generations ahead be drenched in the blood of your enemies!",    ["minlevel"]="32",    ["questlevel"]="32"},
-
-	["2752"] = {    ["Title"]="On Iron Pauldrons",    ["Description"]="Orokk sees the eagerness in your eyes, $N. Like a sponge you soak in the wisdom of the Omosh.$B$BThree lessons I shall teach!$B$BReturn to the anvil, soak in the heat of the forge, create for Orokk four bronze battleaxes and four bronze warhammers. Only then will you learn of the iron pauldron.",    ["Objectives"]="Bring four Bronze Battleaxes and four Bronze Warhammers to Orokk Omosh in Orgrimmar.",    ["Progress"]="Show me your dedication, $R.",    ["Completion"]="You do Orokk proud, $N. Read, learn of iron shoulders!",    ["minlevel"]="32",    ["questlevel"]="32"},
-
-	["2753"] = {    ["Title"]="Trampled Under Foot",    ["Description"]="Only two more lessons Orokk will teach, $N. Your muscles ache, I know, but continue on for the Omosh!$B$BBring to Orokk four green iron helms, four green iron bracers, and two green iron leggings - for this you learn and your enemies suffer!",    ["Objectives"]="Bring four Green Iron Helms, four Green Iron Bracers, and two Green Iron Leggings to Orokk Omosh in Orgrimmar.",    ["Progress"]="Their skulls will crack under the pressure of your boots!",    ["Completion"]="You remind Orokk of his grandfather, Chief Gorokk of Omosh! Read, learn of the iron boot.",    ["minlevel"]="32",    ["questlevel"]="36"},
-
-	["2754"] = {    ["Title"]="Horns of Frenzy",    ["Description"]="The final lesson Orokk teaches you, $N. To the sacred anvil and forge you return! Bring for Orokk two solid iron mauls, two silvered bronze boots, and two silvered bronze gauntlets.$B$BSee the fear in their eyes as you approach!",    ["Objectives"]="Bring two Solid Iron Mauls, two Silvered Bronze Boots, and two Silvered Bronze Gauntlets to Orokk Omosh in Orgrimmar.",    ["Progress"]="Show the iron who is in charge, $N!",    ["Completion"]="Astounding! You have learned the way of the Omosh, $N!",    ["minlevel"]="32",    ["questlevel"]="36"},
-
-	["2755"] = {    ["Title"]="Joys of Omosh",    ["Description"]="Orokk is not crying, $N. Soot is in eye.$B$B<Orokk wipes a tear away.>$B$BThere is one last Omosh family secret Orokk will teach you. Orokk will die happy, thanks to $N.$B$BLearn Omosh dance of joy and then you learn fist of iron!",    ["Objectives"]="Watch and learn the Omosh Dance of Joy.",    ["Progress"]="",    ["Completion"]="<Orokk pants.>$B$BIt has been a very long time since Orokk has done the Omosh dance of joy. Learn now, $N!",    ["minlevel"]="32",    ["questlevel"]="36"},
-
-	["2756"] = {    ["Title"]="The Old Ways",    ["Description"]="In the time of legends, Aturk would crush the skulls of his enemies and grind the bone into a fine powder for use in filament. Long gone are those days, $r. The Warchief calls for peace among the clans. Old enemies are now only watched with weary eyes!$B$BUnbelievable, I know, but such is the will of Thrall.$B$BEnough lamenting! You are here to learn, and learn you will! Bring me four steel breastplates and four steel helms and you will gain a taste of war!",    ["Objectives"]="Bring four Steel Breastplates and four Steel Plate Helms to Aturk the Anvil in Orgrimmar.",    ["Progress"]="Aturk, like time, waits for no one! Hurry up fool!",    ["Completion"]="It seems you are but another complacent lemming of the Warchief, $N. How disappointing.$B$BHow I long for a glorious death upon the battlefield. Instead, I am stuck here, by order of Thrall, to teach infants how to craft! Watch and learn, child!",    ["minlevel"]="40",    ["questlevel"]="40"},
-
-	["2757"] = {    ["Title"]="Booty Bay or Bust!",    ["Description"]="Listen, kid, you're not gonna learn anything hanging around here.$B$BI know a guy who knows a guy. He hangs around the smithy in Booty Bay. If you show him this insignia, he'll tell you all about mithril.$B$BSo whadd'ya say? Leave this kid stuff to the babies in diapers, $N -- it's time to move on.$B$BIf you're interested, his name's McGavan. Show him this trinket and he'll recognize your commitment.",    ["Objectives"]="Speak with McGavan in Booty Bay.",    ["Progress"]="A rare breed your kind be, matey. Let me see that insignia.",    ["Completion"]="By Blackhoof's back hair -- finally, one worthy of the Mithril Order!",    ["minlevel"]="40",    ["questlevel"]="40"},
-
-	["2758"] = {    ["Title"]="The Origins of Smithing",    ["Description"]="When I was about your age, a dwarf by the name of Galvan took me under his wing and trained me in the ways of the armorsmith. Before he left for Booty Bay, he made me promise to train all those with the desire and determination to advance in the craft of blacksmithing -- so here I am -- all these years later.$B$BSo, now it's time for you to learn a little something. Make me six golden scale bracers and you will learn where smithing comes from, $N.",    ["Objectives"]="Bring six Golden Scale Bracers to Hank the Hammer in Stormwind.",    ["Progress"]="Could you be the next Galvan protege?",    ["Completion"]="Very good, $N! Listen and learn.$B$BBlacksmithing never comes from here! <Hank points to his hammer.>$B$BBlacksmithing never comes from here! <Hank points to the anvil.>$B$BBlacksmithing only comes from here! <Hank points to his heart.>$B$BAnd now you know the origin of blacksmithing.",    ["minlevel"]="40",    ["questlevel"]="40"},
-
-	["2759"] = {    ["Title"]="In Search of Galvan",    ["Description"]="Although Galvan left Booty Bay many years ago, members of the order still remain in town, hoping to one day find another worthy of Galvan's tutelage.$B$BTake this insignia and present it to McGavan in Booty Bay.$B$BIf you actually make it that far, he'll know that you are worthy. I have faith, $N!",    ["Objectives"]="Speak with McGavan in Booty Bay.",    ["Progress"]="A rare breed your kind be, matey. Let me see that insignia.",    ["Completion"]="By Blackhoof's back hair -- finally, one worthy of the Mithril Order!",    ["minlevel"]="40",    ["questlevel"]="40"},
-
-	["2760"] = {    ["Title"]="The Mithril Order",    ["Description"]="Most of our recruits never make it to Booty Bay, $N. The shine of the insignia is enough to trigger the loot lust in even the staunchest of blacksmiths. Fools they be, as the insignia is a drop in the bucket compared to the wealth of items you'll see!$B$BFind Galvan the Ancient and show him this pin. His residence is far to the north, between Zul Gurub and the Mosh'Ogg ogre mound.",    ["Objectives"]="Speak with Galvan the Ancient in Stranglethorn Vale.",    ["Progress"]="Hail! Come closer; show Galvan what you have.",    ["Completion"]="Ah, many years it has been since one has been worthy of the Mithril Order's initiation. We will start now!",    ["minlevel"]="40",    ["questlevel"]="40"},
-
-	["2761"] = {    ["Title"]="Smelt On, Smelt Off",    ["Description"]="Many blacksmiths believe that mining and smithing are separate, independent jobs; but can there be blacksmithing without mining? Ah ha -- it is an impossibility! The accomplished blacksmith must also be an accomplished miner.$B$BShow Galvan that you are capable, $N. Bring me forty bars of iron and forty bars of mithril. For this, Galvan will teach you the ways of the ornate mithril pants!",    ["Objectives"]="Bring forty Mithril Bars and forty Iron Bars to Galvan the Ancient in Stranglethorn.",    ["Progress"]="After such mining, your muscles bulge and your body aches!",    ["Completion"]="Your work ethic is impeccable, $N! You are starting to understand the ways of Galvan mineralogy! Take this and learn from it all that you can.",    ["minlevel"]="40",    ["questlevel"]="45"},
-
-	["2762"] = {    ["Title"]="The Great Silver Deceiver",    ["Description"]="It is said that truesilver is stronger and more durable than mithril. Galvan does not disagree with this assessment of the minerals, but contrary to its name, truesilver is not true! Mithril is a far nobler mineral! HAH! Regardless, for this lesson you will need to find the great silver deceiver, $N.$B$BBring me forty bars of mithril and five bars of truesilver. In exchange, you will be taught the secret of ornate mithril gloves and more importantly, learn that truesilver is a liar!",    ["Objectives"]="Bring forty Mithril Bars and five Truesilver Bars to Galvan the Ancient in Stranglethorn.",    ["Progress"]="After such mining, your muscles bulge and your body aches!",    ["Completion"]="She's a cruel mistress, is she not, $N? I'm speaking of truesilver, naturally. Aye, Galvan spent over a decade in the mountains of Alterac learning this lesson. Take this and learn from it all that you can!",    ["minlevel"]="40",    ["questlevel"]="45"},
-
-	["2763"] = {    ["Title"]="The Art of the Imbue",    ["Description"]="The harvesting of precious gems is of utmost importance to our craft, $N. Few gems are more precious than the citrine. The magical properties we imbue into our goods are amplified greatly by the presence of citrine.$B$BFor this lesson, we will fortify forty bars of mithril with four citrines. The result will be a better understanding of magical gemology and the knowledge to create ornate mithril shoulders.",    ["Objectives"]="Bring forty Mithril Bars and four Citrines to Galvan the Ancient in Stranglethorn.",    ["Progress"]="After such mining, your muscles bulge and your body aches!",    ["Completion"]="One can barely keep their eyes from leaving its splendor, $N. Aye, citrine is a glorious gem.$B$BPay attention and learn what such a discovery may teach us!",    ["minlevel"]="40",    ["questlevel"]="45"},
-
-	["2764"] = {    ["Title"]="Galvan's Finest Pupil",    ["Description"]="If you are ready to conclude your training with Galvan, you should journey to Gadgetzan.$B$BThere, you will find my finest pupil: Trenton Lighthammer. He has much to teach you in the ways of ornate mithril. Otherwise, remain here and learn!$B$BOh, Gadgetzan is in Tanaris, of course!",    ["Objectives"]="Speak with Trenton Lighthammer in Gadgetzan.",    ["Progress"]="",    ["Completion"]="Galvan the Ancient sent you??$B$B<Trenton bows.>$B$BIt is a great honor to meet another of the master's pupils!",    ["minlevel"]="40",    ["questlevel"]="45"},
-
-	["2765"] = {    ["Title"]="Expert Blacksmith!",    ["Description"]="When you first came to me, I knew that you would turn out to be one of my finest pupils! It was without hesitancy that you gave up a trinket of some power to McGavan. You did this only so that you could meet me. Such blind faith and devotion to the craft should be rewarded.$B$BYou have attained expertise over blacksmithing, $N. Reap the rewards!",    ["Objectives"]="Claim your reward from Galvan the Ancient!",    ["Progress"]="",    ["Completion"]="It is only fitting that you receive a trinket of far greater power than the one you sacrificed to get here. Use it in good health, $N.",    ["minlevel"]="40",    ["questlevel"]="45"},
-
-	["2767"] = {    ["Title"]="Rescue OOX-22/FE!",    ["Description"]="The gnome's voice crackles once again from the robot:$B$B\"I need to move OOX-22/FE to an open, safe place so it can begin a lengthy take-off procedure.  It has built-in cloaking, but I need time on my end to make it operational again.  Escort the robot from its current location to, let's say, the dock along the Forgotten Coast!  That should be a perfect place, and long enough, to get things online!\"$B$B\"Escort it safely to the dock, and then come talk to me in Booty Bay!  Oglethorpe Obnoticus - out!\"",    ["Objectives"]="Escort OOX-22/FE to the dock along the Forgotten Coast, then report to Oglethorpe Obnoticus in Booty Bay.",    ["Progress"]="Yes, I'm Oglethorpe Obnoticus, master inventor at your service! Now, is there something I could assist you with?",    ["Completion"]="Oh, YOU'RE the great savior of OOX-22/FE!  I cannot even begin to express my thanks for your assistance!  My homing robot series needs more development, but your recovery has saved me countless hours of extra rebuilding time, as well as many gold pieces in manufacture costs!$B$BPlease, take your choice of any of these items I have.  Thank you again for your generous assistance $N, my robots and I are in your debt!",    ["minlevel"]="40",    ["questlevel"]="45"},
-
-	["2771"] = {    ["Title"]="A Good Head On Your Shoulders",    ["Description"]="It seems as if master had this planned from the start. I was not taught to create the items which you learned to create and you were not taught the items which I learned to create.$B$BThe master is wise, $N. We shall teach each other!$B$BShow me how to make a mithril coif and ornate mithril shoulders and I shall show you how to create an ornate mithril helm.",    ["Objectives"]="Bring two Mithril Coifs and one Ornate Mithril Shoulder to Trenton Lighthammer.",    ["Progress"]="Have you completed the crafting of the items, $N?",    ["Completion"]="Excellent! A fair tradeoff, if I do say so myself. Watch and learn, $N!",    ["minlevel"]="40",    ["questlevel"]="45"},
-
-	["2772"] = {    ["Title"]="The World At Your Feet",    ["Description"]="At last year's All-Valley Blacksmithing Championship, all those who watched saw my leg get swept from under me by a cowardly dog from the Venture Co. Foundry. What they didn't know, however, was the reason I was able to continue and ultimately win the tournament: That's right, ornate mithril boots!$B$BI will need to learn how to craft ornate mithril pants for this year's tournament, however, as a Venture Co. shredder is an entrant! Teach me the way of the pants and learn the way of the boot!",    ["Objectives"]="Bring two Heavy Mithril Boots and one Ornate Mithril Pants to Trenton Lighthammer.",    ["Progress"]="Have you completed the crafting of the items, $N?",    ["Completion"]="The world will be at your feet, $N! Let them all come at your legs, for you are now unsweepable!",    ["minlevel"]="40",    ["questlevel"]="45"},
-
-	["2773"] = {    ["Title"]="The Mithril Kid",    ["Description"]="Around these parts I am known as the Mithril Kid. I supply ornate mithril to adventurers from around the world.$B$B<Trenton whispers.>$B$BLittle do they know that I do not know the technique to fashion ornate mithril gloves. Shhhh! This will be our little secret.$B$BTeach me the technique to create ornate mithril gloves, $N, and in exchange, I will show you the resultant of the culmination of my training under Galvan: the ornate mithril breastplate.",    ["Objectives"]="Bring two Heavy Mithril Breastplates and one Ornate Mithril Gloves to Trenton Lighthammer.",    ["Progress"]="Have you completed the crafting of the items, $N?",    ["Completion"]="Thank you for all that you have taught me, $N. The master and commander of the ornate mithril set will soon be in your possession.$B$BBehold!",    ["minlevel"]="40",    ["questlevel"]="45"},
-
-	["2782"] = {    ["Title"]="Rin'ji's Secret",    ["Description"]="The tablet is covered with Witherbark troll markings. Rin'ji's secret truly is a mystery... $B$BIt's possible that you might have something quite valuable on your hands here. On the other hand, quite the opposite is also possible. A Witherbark troll in distress would probably do anything to find his way out of trouble...",    ["Objectives"]="Oran Snakewrithe, a well known scholar on matters concerning the Witherbark trolls, may be able to decipher the tablet. She is known to reside within the Magic Quarter of the Undercity.",    ["Progress"]="Well, now, what is this?",    ["Completion"]="This tablet... Quite unusual... Where did you find this, $N?",    ["minlevel"]="42",    ["questlevel"]="47"},
-
-	["2783"] = {    ["Title"]="Petty Squabbles",    ["Description"]="We fight the wrong enemy, $N.$B$BThe true power in these lands continues to grow in strength and number while we squabble over scorched earth with orcs.$B$BDo we continue to fight a war in these lands against the Horde, only to be routed one day by the armies of the Burning Legion? It is futile.$B$BPut your differences aside, $N, speak with the fallen hero of the Horde. He knows the truth behind the Blasted Lands.",    ["Objectives"]="Speak with the Fallen Hero of the Horde at the border of the Blasted Lands and the swamp.",    ["Progress"]="",    ["Completion"]="The Alliance wishes to assist?$B$BI thought to never see this day again. A day in which the Alliance fights side by side with the Horde against a common enemy.$B$BIt shall be... we will unite.",    ["minlevel"]="50",    ["questlevel"]="57"},
-
-	["2784"] = {    ["Title"]="Fall From Grace",    ["Description"]="Hear my story, $r.",    ["Objectives"]="Listen to the Fallen Hero of the Horde tell his story.",    ["Progress"]="Listen to what I have to say.",    ["Completion"]="As a spirit, I am powerless, $N. Assist me. Allow me to regain my honor.",    ["minlevel"]="45",    ["questlevel"]="50"},
-
-	["2801"] = {    ["Title"]="A Tale of Sorrow",    ["Description"]="Before we may continue, you must hear my story.",    ["Objectives"]="Listen to the Fallen Hero of the Horde tell his story.",    ["Progress"]="Listen to what I have to say, $N.",    ["Completion"]="The time to act is now, $N.",    ["minlevel"]="45",    ["questlevel"]="57"},
-
-	["2821"] = {    ["Title"]="The Mark of Quality",    ["Description"]="My philosophy on leatherworking is that the work must be the best quality possible - no compromises.  Anyone who says that quality doesn't matter is trying to sell you ocean-front property in Dun Morogh!$B$BIn my latest pursuit of high-quality materials, I have run across thick yeti hides.  The Yeti are native to Feralas, with many found in Feral Scar Vale.  I want some, and I'll give you a choice of one of my leather goods for a stack of ten.  If that sounds fair to you, then we're in business.",    ["Objectives"]="Bring 10 Thick Yeti Hides to Pratt McGrubben in Feathermoon Stronghold.",    ["Progress"]="A stack of ten thick yeti hides will net you a choice of one of my crafted items.  Because I care about quality, I am able to ensure you'll get a good item!$B$BIf you can't seem to find yetis, I know where some might be.  Try looking just inland of the Forgotten Coast, around Feral Scar Vale.",    ["Completion"]="Did you stop and examine the texture of these hides?  Properly treated, these hides could very well be stronger than iron.  Not many people know about these hides, and that in combination with the vast treating solutions I know will allow me to potentially make items with a true mark of quality... thanks to you, of course!$B$BAnd now, please choose from what I am able to offer you for your service!",    ["minlevel"]="40",    ["questlevel"]="46"},
-
-	["2822"] = {    ["Title"]="The Mark of Quality",    ["Description"]="I take pride in my leather work, and I feel it shows; quality should never be compromised.  Anyone who says that quality doesn't matter would also have you believe that the earth does not keep secrets!$B$BIn my latest pursuit of high-quality materials, I have discovered thick yeti hides.  Yetis are native to Feralas, often found west of here in Feral Scar Vale.  I'll give you a choice of one of my leather goods for a stack of ten.  If that is agreeable to you, then we are set!",    ["Objectives"]="Bring 10 Thick Yeti Hides to Jangdor Swiftstrider in Camp Mojache.",    ["Progress"]="Were you able to get a stack of ten thick yeti hides? My leather goods are second to none, and I'll share a sampling with you should you have the hides.$B$BIf you can't seem to find yetis, I know where some might be. Try looking west of here, just inland of the Forgotten Coast around the Feral Scar Vale.",    ["Completion"]="Ah, excellent! These hides, when given a special treatment, are as resilient as iron I tell you! It will take many tries in order to get the right mix down for the tanning, but I am confident they will bring my mark of quality to the next level.$B$BAs for you, $N... your assistance has proven invaluable to me. Please take your choice from these items I have crafted.",    ["minlevel"]="40",    ["questlevel"]="46"},
-
-	["2844"] = {    ["Title"]="The Giant Guardian",    ["Description"]="I am no good, $N. I was 'spose to be watchin' over my little friend, Shay, and somehow, she got away from me. I'm not all that sure what happened, really, but last time I saw her, we was walkin' through the ruins just north of here.$B$BEverythin' was goin' fine, but then I turned around, and... she was gone.$B$BNow I jus can't quite figure out what I should do here. Got any ideas, $N? I'm awful worried.$B$BHey, how 'bout you go look fer Shay? Yer legs can travel much faster 'n mine.",    ["Objectives"]="Locate the lost night elf girl.",    ["Progress"]="",    ["Completion"]="Oh, I am so glad you found me! I must admit, I am a bit lost... But isn't this a beautiful place?",    ["minlevel"]="44",    ["questlevel"]="49"},
-
-	["2845"] = {    ["Title"]="Wandering Shay",    ["Description"]="Do you think you could help me find my way back to my friend, Rockbiter? He was supposed to be watching me... But I do have a tendency to wander off now and then. There are just so many things to see, and I get so distracted.$B$BThere is one thing that will always work to get my attention, though.$B$BInside this chest, you'll find a bell that is very precious to me. I just love the sound of it. You have my word, if I wander off, all you have to do is ring it and I'll come running back.",    ["Objectives"]="Pick up Shay's Bell from the chest.$B$BEscort Shay Leafrunner to Rockbiter's camp.",    ["Progress"]="I was gettin' worried 'bout ya! Thank you so much for bringin' Shay home, $N.",    ["Completion"]="What? You say dis bell will work when Shay runs off? Well, how 'bout that!$B$BSince you did so much fer me, here ya go, $N.",    ["minlevel"]="44",    ["questlevel"]="49"},
-
-	["2847"] = {    ["Title"]="Wild Leather Armor",    ["Description"]="$n, you're becoming quite skilled as a leatherworker!  I know some patterns you might be interested in... Wild Leather armor!  Wild Leather taps into the potent and chaotic properties of wildvines, found in areas of lush vegetation and on some of the creatures there.  The armor made using it is second to none for people of your skill, guaranteed.$B$BI'll teach this to you, but you'll be working for me for a while.  The first cost is simply ten pieces of thick leather.  After this, we'll talk specifics.",    ["Objectives"]="Bring 10 Thick Leather to Pratt McGrubben in Feathermoon Stronghold.",    ["Progress"]="Like I said, you'll be working for me while you learn about Wild Leather armor. Because wildvines are both potent and chaotic, it yields a random but strong benefit to the already strong armor you will be making. This knowledge, however, was not easy for me to come by.$B$BThe initial cost to begin this process is ten pieces of thick leather.$B$BOnce that is done, we'll get to the work you need to do in order to obtain the patterns.",    ["Completion"]="Well $N, I'm glad to have you on board. You've made a smart decision as a leatherworker; those who wear leather armor will be clamoring to you once you learn how to make any of the Wild Leather armor pieces.$B$BLet's get to work - where do you want to start?",    ["minlevel"]="30",    ["questlevel"]="45"},
-
-	["2848"] = {    ["Title"]="Wild Leather Shoulders",    ["Description"]="Wild Leather shoulders support the wearer's frame extremely well, offering top notch protection of the upper arms and the shoulders themselves.  As with all Wild Leather armor, a potent but random benefit is applied to the item as the wildvine is stitched in.$B$BFor this pattern, I will require six thick armor kits and a wildvine.  That shouldn't be too tall of an order for you to fill.",    ["Objectives"]="Bring 6 Thick Armor Kits and a Wildvine to Pratt McGrubben in Feathermoon Stronghold.",    ["Progress"]="Do you have the six thick armor kits and the wildvine I require?$B$BDon't think of making armor kits as monotonous work; the steady fashioning method you develop as you ply your trade on these kits helps develop your skills for the intricate work needed to make Wild Leather armor.$B$BSee - there's a real reason behind what you're making for me...",    ["Completion"]="These armor kits are of solid quality, $N. If there is one thing I demand in not only my work, but the work of those in my employ, it is quality.$B$BYou've done well to earn this pattern; I hope it brings you the rewards it has brought me.",    ["minlevel"]="30",    ["questlevel"]="45"},
-
-	["2849"] = {    ["Title"]="Wild Leather Vest",    ["Description"]="Wild Leather vests are the staple of any Wild Leather armor set.  The frame of the vest blends with the wildvine to produce a product that offers maximum protection of the torso while allowing for the potent magic to work its way through the garment.$B$BFor this pattern, I will require two Turtle Scale breastplates, two sets of Turtle Scale gloves, and a wildvine.  It's a tall order, but one you should have little difficulty in filling for me.",    ["Objectives"]="Bring 2 Turtle Scale Breastplates, 2 Turtle Scale Gloves, and a Wildvine to Pratt McGrubben in Feathermoon Stronghold.",    ["Progress"]="Do you have the two Turtle Scale breastplates and gloves I ordered? Also, don't forget the wildvine!$B$BEven with the earliest patterns, we learn that the fundamentals of shape translate well into more difficult garments. Though different items, the shape of the Turtle Scale breastplates prepares you for the detailing needed to make a Wild Leather vest.$B$BAnd the gloves... well, they're just for my own benefit. Remember, you're working for me!",    ["Completion"]="These are some very nice pieces here, $N. The craftsmanship and care put in to making these alone would fetch several silver more than the average piece made.$B$BYou've filled my order, and with that comes your reward. The knowledge of making Wild Leather vests is now yours!",    ["minlevel"]="30",    ["questlevel"]="45"},
-
-	["2850"] = {    ["Title"]="Wild Leather Helmet",    ["Description"]="A Wild Leather helmet offers the wearer superior protection to the vital areas of the head without a sacrifice in comfort.  As with all Wild Leather armor, the integrated wildvine yields a powerful but random enhancement to the frame of the helm.  Leather wearers will definitely want this piece!$B$BFor this pattern, I will need two Nightscape tunics, two Nightscape headbands, and a wildvine.  Complete this order and the pattern will be yours!",    ["Objectives"]="Bring 2 Nightscape Tunics, 2 Nightscape Headbands, and a Wildvine to Pratt McGrubben in Feathermoon Stronghold.",    ["Progress"]="I need those tunics and headbands made, and I also need that piece of wildvine before I will share with you the knowledge of Wild Leather helmets.$B$BHead gear is highly coveted amongst adventurers, whether it be a disarmingly simple headband or a full-covering helmet. The fundamentals of creating valued head gear remain constant, no matter what the cosmetic appearance of the gear is.",    ["Completion"]="This Nightscape equipment you have supplied fills the order perfectly, $N. I expect no less from a leatherworker of your caliber.$B$BYou have definitely earned this pattern. I give it to you freely, and hope you will profit from it accordingly.",    ["minlevel"]="30",    ["questlevel"]="45"},
-
-	["2851"] = {    ["Title"]="Wild Leather Boots",    ["Description"]="You've learned quite a bit now, $n; still, there is more for you to learn.  Next are Wild Leather boots, the cornerstone of any set.$B$BThese boots are crafted to cradle the foot in comfort while bracing it against the hazards of adventuring.  The soft soles are a blessing to those seeking quiet movement in footwear.$B$BFor this pattern, I need an order of two Nightscape pants and two Nightscape boots filled.  I also will require two wildvines... not just one.  When you have all this, let me know.",    ["Objectives"]="Bring 2 Nightscape Pants, 2 Nightscape Boots, and 2 Wildvines to Pratt McGrubben in Feathermoon Stronghold.",    ["Progress"]="The order on the pants, boots, and wildvines needs to be filled before you get the pattern, $N. Are you finished?$B$BFrom the earliest pair of boots we learn how to make, we start to understand that a quality boot needs to ride a razor's edge between comfort and function. With both, we are able to create items that allow the wearer to ignore fatigue that would cripple those wearing lower quality goods.",    ["Completion"]="Once again, you've filled a complex order with the skill of a seasoned professional. You have earned this pattern, as well as my thanks.",    ["minlevel"]="30",    ["questlevel"]="45"},
-
-	["2852"] = {    ["Title"]="Wild Leather Leggings",    ["Description"]="With the basics down, you are ready to master more complex fare, $n.  Wild Leather leggings are some of the sturdiest and powerful leather gear around.  The waist, thighs, calves, and the vitals - all are given tremendous protection.  Coupled with the enhancement that the wildvine provides, adventurers who own it will thank you each time they see you.$B$BFor this pattern, I need an order of two Turtle Scale helms, two Turtle Scale bracers, and two wildvines filled.",    ["Objectives"]="Bring 2 Turtle Scale Helms, 2 Turtle Scale Bracers, and 2 Wildvines to Pratt McGrubben in Feathermoon Stronghold.",    ["Progress"]="Do you have the Turtle Scale bracers and helms ready? Don't forget the two wildvines I need!$B$BBy now, you're starting to realize the potential power that lies in Wild Leather armor. An armor that has no boundaries in application is nearly invaluable to a leatherworker. The limits are only in the quantities of resources to make the items - not the quality of the finished products!",    ["Completion"]="Again, you've filled an order without flaw. Perhaps some day I will come to YOU seeking knowledge, eh $N?$B$BHere is the pattern for the leggings, along with my thanks. Commit this lore to your knowledge, and let your finished products tap into your impressive skills!",    ["minlevel"]="30",    ["questlevel"]="45"},
-
-	["2853"] = {    ["Title"]="Master of the Wild Leather",    ["Description"]="Well $n, you are the definition of diligence.  There is one pattern left for Wild Leather armor; you've mastered the others.  I won't require you to toil needlessly for the pattern.  You've earned it outright, and then some... but I cannot give it to you myself.  My teacher, the one who brought me into the craft, is the one who must reward you.$B$BTake this letter to Telonis; he teaches leatherworking in Darnassus.  Show him the letter, and let him acknowledge you as an equal, as I do.",    ["Objectives"]="Give Pratt's Letter to Telonis, the master leatherworker of Darnassus.",    ["Progress"]="Greetings, $R... from your countenance I can tell you are a leatherworker as am I. Have you come to draw from my skills, or perhaps you have other business with me?",    ["Completion"]="Ah yes, Pratt sent you. Though he is a human, he reminds me of us night elves sometimes. His dedication and his talents with leather are impressive. For him to compliment you so in this letter, it is a sign of respect I acknowledge.$B$BI am aware that he has taught you the art of Wild Leather. Allow me to finish your training with this pattern. Make good use of it; few in the world know the secrets of Wild Leather cloaks.",    ["minlevel"]="30",    ["questlevel"]="45"},
-
-	["2854"] = {    ["Title"]="Wild Leather Armor",    ["Description"]="$n, your skill as a leatherworker precedes you.  I possess leatherworking lore you would be wise to acquire... Wild Leather armor!  Wild Leather taps into the potent and chaotic properties of wildvines, found in areas of lush vegetation and on some of the creatures there.  Armor made using it is second to none for a crafter of your skill, guaranteed.$B$BI'll teach you, but you'll be working for me for a while.  The first cost is simply ten pieces of thick leather.  After this, we'll talk specifics.",    ["Objectives"]="Bring 10 Thick Leather to Jangdor Swiftstrider in Camp Mojache.",    ["Progress"]="We must be clear; you shall be apprenticed to me while you learn the art of Wild Leather armor. Because wildvines are both potent and chaotic, it yields a random but strong benefit to the already strong armor you will be making. This knowledge, however, was not easy for me to acquire.$B$BThe initial cost to begin this process is ten pieces of thick leather.$B$BOnce that is done, we'll get to the work you need to do in order to obtain the patterns.",    ["Completion"]="Well $N, I'm glad to have you on board as my apprentice. You've made a wise decision as a leatherworker; those who make use of leather armor will be clamoring to you once you learn how to master the art of Wild Leather.$B$BLet's get to work - where do you want to start?",    ["minlevel"]="30",    ["questlevel"]="45"},
-
-	["2855"] = {    ["Title"]="Wild Leather Shoulders",    ["Description"]="Wild Leather shoulders support a wearer's frame extremely well, offering superior protection of the upper arms as well as the shoulders.  As with all Wild Leather armor, a random yet very potent enhancement is imbued within the item as the wildvine is stitched in.$B$BFor this pattern, I will require six thick armor kits and a wildvine.  That shouldn't be too tall of an order for you to fill.",    ["Objectives"]="Bring 6 Thick Armor Kits and a Wildvine to Jangdor Swiftstrider in Camp Mojache.",    ["Progress"]="Do you have the six thick armor kits and the wildvine I require?$B$BThink of making armor kits as a lesson in steady and reliable crafting; the consistent fashioning method you develop as you ply your trade on these kits helps develop your skills for the intricate work needed to make Wild Leather armors.$B$BEvery lesson has a purpose, $N. It is important to embrace each one accordingly.",    ["Completion"]="These armor kits are of solid quality, $N. If there is one thing I demand in not only my work, but in the work of those I give tutelage to, it is quality.$B$BYou've done well to earn this pattern; I hope it brings you the rewards it has brought me.",    ["minlevel"]="30",    ["questlevel"]="45"},
-
-	["2856"] = {    ["Title"]="Wild Leather Vest",    ["Description"]="Wild Leather vests are the staple of any Wild Leather armor set.  The frame of the vest and the wildvine weave within it produces a product that offers maximum protection of the torso while allowing for potent magic to work its way through the garment.$B$BFor this pattern, I will require two Turtle Scale breastplates, two sets of Turtle Scale gloves, and a wildvine.  This is not an easy lesson, but it is one you certainly have the skill to complete.",    ["Objectives"]="Bring 2 Turtle Scale Breastplates, 2 Turtle Scale Gloves, and a Wildvine to Jangdor Swiftstrider in Camp Mojache.",    ["Progress"]="Do you have the two Turtle Scale breastplates and gloves? Also, don't forget the wildvine!$B$BEven with the earliest patterns, we learn that the fundamentals of shape translate well into more difficult garments. Though different items, the shape of the Turtle Scale breastplates prepares you for the detailing needed to make a Wild Leather vest.$B$BAs you progress through your lessons, the skills I teach will become as art.",    ["Completion"]="These are some very nice pieces here, $N. The craftsmanship and care put in to making these show you have chosen to dedicate yourself fully to these tasks.$B$BYou've met my requests, and with that comes your reward. The knowledge of making Wild Leather vests is now yours!",    ["minlevel"]="30",    ["questlevel"]="45"},
-
-	["2857"] = {    ["Title"]="Wild Leather Helmet",    ["Description"]="A Wild Leather helmet offers the wearer superior protection to the vital areas of the head without a sacrifice in comfort.  As with all Wild Leather armor, the integrated wildvine yields a powerful but random magic imbuement to the helm's frame.  Leather wearers will definitely want this piece!$B$BFor this pattern, I will need two Nightscape tunics, 2 Nightscape headbands, and a wildvine.  Complete this lesson and the pattern will be yours!",    ["Objectives"]="Bring 2 Nightscape Tunics, 2 Nightscape Headbands, and a Wildvine to Jangdor Swiftstrider in Camp Mojache.",    ["Progress"]="I need those tunics and headbands made, and I also need that piece of wildvine before I will share with you the knowledge of Wild Leather helmets.$B$BHead gear is highly coveted amongst adventurers, whether it be a disarmingly simple headband or a full-covering helmet. The fundamentals of creating valued head gear remain constant, no matter what the cosmetic appearance of the gear is.",    ["Completion"]="This Nightscape equipment you have supplied perfectly meets the requirements I have given to you, $N. I expect no less from a leatherworker of your caliber.$B$BYou have earned the honor of crafting Wild Leather helmets. I give this pattern to you freely, and hope you will profit from it accordingly.",    ["minlevel"]="30",    ["questlevel"]="45"},
-
-	["2858"] = {    ["Title"]="Wild Leather Boots",    ["Description"]="Your knowledge of Wild Leather armor grows, $n; still, there is more for you to learn.$B$BWild Leather boots are the cornerstone of any set.  Such boots are crafted to cradle the foot in comfort while bracing it against the hazards of adventuring.  The soft soles are a blessing to those seeking quiet movement in footwear.$B$BFor this pattern, I need two Nightscape pants and two Nightscape boots crafted.  I also will require two wildvines... not just one.  When you have these items, we will proceed.",    ["Objectives"]="Bring 2 Nightscape Pants, 2 Nightscape Boots, and 2 Wildvines to Jangdor Swiftstrider in Camp Mojache.",    ["Progress"]="The pants, boots, and wildvines need to be delivered to me before you learn the pattern, $N. Have you done as I asked?$B$BFrom the earliest pair of boots we learn how to make, we start to understand that a quality boot needs to ride a razor's edge between comfort and function. With both, we are able to create items that allow the wearer to ignore fatigue that would cripple those wearing lower quality goods.",    ["Completion"]="Once again, you have produced items with the skill of a seasoned professional. You have earned this pattern, as well as my congratulations.",    ["minlevel"]="30",    ["questlevel"]="45"},
-
-	["2859"] = {    ["Title"]="Wild Leather Leggings",    ["Description"]="You are ready to master more complex lessons, $n.  Wild Leather leggings are some of the sturdiest and powerful leather gear around.  The waist, thighs, calves, and the vitals - all are given tremendous protection.  Coupled with the enhancement that the wildvine provides, adventurers who own it will thank you each time they see you.$B$BFor you to gain this pattern, I need two Turtle Scale helms, two Turtle Scale bracers, and two wildvines.",    ["Objectives"]="Bring 2 Turtle Scale Helms, 2 Turtle Scale Bracers, and 2 Wildvines to Jangdor Swiftstrider in Camp Mojache.",    ["Progress"]="Do you have the Turtle Scale bracers and helms ready? Don't forget the two wildvines I require.$B$BBy now, you're starting to realize the potential power that lies in Wild Leather armor. An armor that has no boundaries in application is nearly invaluable to a leatherworker. The limits are only in the quantities of resources to make the items - not the quality of the finished products!",    ["Completion"]="Again, you've completed my task without flaw. Perhaps some day I will come to YOU seeking knowledge, eh $N?$B$BHere is the pattern for the leggings, along with my thanks. Commit this lore to your knowledge, and let your finished products tap into your impressive skills!",    ["minlevel"]="30",    ["questlevel"]="45"},
-
-	["2860"] = {    ["Title"]="Master of the Wild Leather",    ["Description"]="$n, you have learned all I am able to teach you.  There is, however, one remaining pattern for Wild Leather armor.  I will not require you to toil needlessly for this; you've earned it outright, and then some.  This pattern, however, is one that I cannot freely share with you.$B$BMy teacher, the one who brought me into the craft, is the one who must reward you.  Take this note to Una; she teaches leatherworking in Thunder Bluff.  Show her the letter, and let her acknowledge you as an equal, as I do.",    ["Objectives"]="Give Jangdor's Letter to Una, the master leatherworker of Thunder Bluff.",    ["Progress"]="Greetings, $R... from your countenance I can tell you are a leatherworker as am I. Have you come to draw from my skills, or perhaps you have other business with me?",    ["Completion"]="Ah yes, Jangdor sent you. I am pleased to see that one of my finest students now has a student of his own.$B$BHis dedication and his talents with leather are impressive. For him to compliment you so in this letter, it is a sign of respect I acknowledge.$B$BI am aware that he has taught you the art of Wild Leather. Allow me to finish your training with this pattern. Make good use of it; few in the world know the secrets of Wild Leather cloaks.",    ["minlevel"]="30",    ["questlevel"]="45"},
-
-	["2861"] = {    ["Title"]="Tabetha's Task",    ["Description"]="Rumor is that Tabetha, a mage colleague who lives deep in Dustwallow Marsh, has a bone to pick with a certain sand troll in Zul'Farrak.  If you speak with Tabetha she can tell you more.$B$BAnd bring some friends with you, $N.  If Tabetha has you go to Zul'Farrak then you're not going to want to go alone.$B$BYou will find Tabetha's cottage west of Theramore, and just north of the Stonemaul Ruin.",    ["Objectives"]="Speak with Tabetha in Dustwallow Marsh.",    ["Progress"]="",    ["Completion"]="That's right.  I do have a bone to pick with a troll.  A few bones.  All her bones!$B$BWant to help me?",    ["minlevel"]="40",    ["questlevel"]="46"},
-
-	["2862"] = {    ["Title"]="War on the Woodpaw",    ["Description"]="The gnolls... they are more than a nuisance.  They are a constant threat to the existence of this very camp!  It is irrelevant whether they are indigenous to Feralas or not; if we do not strengthen our resolve against them, we will find ourselves driven out of the entire region.$B$BThe gnoll attacks against the camp have become more fevered as of late.  We need your aid in thinning their numbers; bring to me ten of their manes, and I will reward you handsomely for your effort.$B$BGo!",    ["Objectives"]="Bring 10 Woodpaw Gnoll Manes to Hadoken Swiftstrider in Camp Mojache.",    ["Progress"]="We drive them back, and yet they still attack! Someone or something must be driving them into a frenzy... oh, you have returned, eh $N? Do you have the manes I require for the bounty to be met?",    ["Completion"]="This is proof of a good start, $N. Your skills as a soldier are to be commended.$B$BYou are not the only one I ask that task of. Many before you have fought them, and in times past our efforts have kept them at bay. Recently though, their attempts to push northward into our area of influence have increased dramatically. Their attacks have also become more savage... almost as if they were desperate.$B$BI have a plan though, $N, that might settle things once and for all against them...",    ["minlevel"]="39",    ["questlevel"]="42"},
-
-	["2863"] = {    ["Title"]="Alpha Strike",    ["Description"]="The plan is for various leaders of the gnolls - Alphas as they call themselves - to be taken down within rapid succession.  If we're able to execute this sort of swift and precise devastation against them, it would cause chaos in their ranks.  Perhaps it would also drive a message through their thick flea-bitten heads that we can and will destroy them!$B$BI want you to be the messenger of my will; eliminate five of their Alphas within one hour for this to work $N, or we'll remain at this impasse!",    ["Objectives"]="Kill 5 Woodpaw Alphas and return to Hadoken Swiftstrider within one hour.",    ["Progress"]="Time is running out, $N! If you're not here to report that you've taken out the Alphas, then you're wasting time!",    ["Completion"]="You've done as I have asked, and for that I salute you. Take this small reward as compensation for your efforts, $N.$B$BWith their numbers thinned and their leaders slain, the gnolls will think twice about storming the camp. This doesn't conclude the issue at hand, however...$B$BThere must be some reason why the gnolls have been whipped into such a frenzied state. Before they have a chance to regroup though, I want to find out what is causing it.",    ["minlevel"]="39",    ["questlevel"]="43"},
-
-	["2866"] = {    ["Title"]="The Ruins of Solarsal",    ["Description"]="To our south are the Ruins of Solarsal; this is an area that far pre-dates modern times.  We explored the ruins initially and found nothing of note; as such, we left it in peace.$B$BVery recently, the Hatecrest naga have occupied these ruins in alarming numbers.  At first, we considered it as the precursor for an attack.  Though that threat is still possible, we believe there might be something else going on.$B$BGo there, explore the ruins, and look for anything that stands out to you. Good luck, $n.",    ["Objectives"]="Explore the Ruins of Solarsal and investigate the presence of the naga there.",    ["Progress"]="",    ["Completion"]="Examining the gazebo reveals some interesting and unusual things in contrast to the surrounding ruins.$B$BFirst, the gazebo is clearly a more recent construction than the other objects in the ruins.  Second, the gazebo has a small series of glyphs engraved into the sides of it; the glyphs repeat in their pattern, but it otherwise is unknown in origin and meaning.  Third, the stone of the gazebo itself is warm to the touch.$B$BThis certainly quantifies as \"standing out\" in the search of the ruins!",    ["minlevel"]="40",    ["questlevel"]="43"},
-
-	["2867"] = {    ["Title"]="Return to Feathermoon Stronghold",    ["Description"]="With the discovery of the strange gazebo in the heart of the Ruins of Solarsal, the time has come to return to Feathermoon Stronghold and report to General Shandris Feathermoon what has been discovered here.",    ["Objectives"]="Return to Shandris Feathermoon in the Feathermoon Stronghold and report your findings.",    ["Progress"]="",    ["Completion"]="Welcome back, $N.  Your report on this gazebo is most... disturbing.  It would seem that even if the naga there were not planning on an attack, their continued presence bodes ill for our push into Feralas.  At any rate, here is compensation for your investigation.",    ["minlevel"]="40",    ["questlevel"]="43"},
-
-	["2869"] = {    ["Title"]="Against the Hatecrest",    ["Description"]="The best course of action at this point is to assume that, regardless of what the naga are up to, they will eventually move to secure the island for their own.  We need to take aggressive steps to counter that threat before it is too late.$B$BBring me ten Hatecrest Scales that are in good condition; it should be obvious to you how to acquire them.  You'll cut your teeth on the naga for the first time, and we'll have a weakened naga presence on Sardor Isle - both are prospects that play to our advantage.",    ["Objectives"]="Bring 10 Hatecrest Naga Scales to Latronicus Moonspear in Feathermoon Stronghold.",    ["Progress"]="$N, if you're here to verify the task given to you, then excellent - it is ten Hatecrest scales I seek.  If you are here for chit-chat, then I am currently unavailable for such trivialities.$B$BKnow this - we night elves are not warmongers.  Our race is dedicated to the preservation of peace and harmony.  This does not mean, however, that we will not proactively protect our own interests.  This is my duty to General Feathermoon, and to the stronghold.",    ["Completion"]="Yes, yes, these scales are more than satisfactory.  Actually, I think I will send these down to Pratt for him to take a look at.  Maybe he can craft something useful out of them.$B$BAs for you, I have another mission I want to send you on.  But first, here is your bounty for the scales.  Your continued service to the General and Feathermoon Stronghold at large is a blessing in the face of adversity.",    ["minlevel"]="40",    ["questlevel"]="43"},
-
-	["2870"] = {    ["Title"]="Against Lord Shalzaru",    ["Description"]="$n, new scouting reports have given us a good idea on the naga chain of command.  Royalty is present amongst their rank and file, and they're the ones calling all the shots.$B$BSpecifically, we've identified one of the crueler royals as Lord Shalzaru.  Scouts report that he himself has uncovered an odd relic during a recent naga excavation in a cave south of the main ruins, across the water on the Isle of Dread.$B$BPut a stop to it by putting a stop to him, and bring me his relic so we can study it.",    ["Objectives"]="Eliminate Lord Shalzaru, and then bring the Mysterious Relic he uncovered to Latronicus Moonspear in Feathermoon Stronghold.",    ["Progress"]="Bringing down Lord Shalzaru would certainly set their plans back weeks, if not months.  On top of that, the relic he uncovered is of definite interest to us.$B$BHave you performed the mission given to you, $N?",    ["Completion"]="Well played, $N! Lord Shalzaru's demise will throw the naga into disarray for some time, if not permanently.  The threat they pose is now under more of our control than it has ever been, and we have you to thank for it.$B$BHere is more bounty money from the stronghold treasury - you've earned every copper.  You and yours are welcome in Feathermoon Stronghold anytime, my friend.$B$BOne more thing before you depart, $N... if you could...",    ["minlevel"]="40",    ["questlevel"]="45"},
-
-	["2871"] = {    ["Title"]="Delivering the Relic",    ["Description"]="If you would be so kind as to deliver the relic to my wife Vestia, I would appreciate it.  She's not only a fine priestess for our community, but she is one of the most well-versed scholars you'll find anywhere.  I couldn't make heads or tails of this device even if there was a wager involved.  My wife though, if anyone can figure out what this thing is, she could... and we need to know!$B$BShe's just around the bend, no doubt studying.  Thanks, $n.",    ["Objectives"]="Deliver the Mysterious Relic to Vestia Moonspear in Feathermoon Stronghold.",    ["Progress"]="Yes, may I assist you?$B$BHold on, you're the $C that has been helping General Feathermoon and Latro out with the naga threat, yes?  I'm Vestia, Latro's - erm, rather, Latronicus' wife.  It is a pleasure to meet you!$B$BI'm sorry, you're here on business, of course.  Do you have something for me - from him, perchance?",    ["Completion"]="Interesting... this came from the Ruins of Solarsal, you say?  Well, Latro's right that I need to look at this.  At first glance, it seems non-indigenous to the ruins.  Then again, this isn't of naga design... not something as alien as this.$B$BIt is going to take some time to research this item.  Once my research on it is done, maybe I will make use of your talents, should you be around.$B$BHere, take one of these extra items we have; I hope you'll find some use for it!",    ["minlevel"]="40",    ["questlevel"]="45"},
-
-	["2877"] = {    ["Title"]="Skulk Rock Clean-up",    ["Description"]="We Wildhammers remember the past, more than our brothers in Ironforge.  If you want to make friends here, then you get your hands dirty for us!$B$BThe Horde abandoned their positions in the Hinterlands around Skulk Rock; it's now overrun with nasty sludges and oozes.  We've got plans on that area, but first we need a clean-up crew to make a hole for us.$B$BThat's where you come in, Sunshine!  Head down there and take out ten green sludges and ten jade oozes, then report back to me here.  Move out!",    ["Objectives"]="Kill 10 Green Sludges and 10 Jade Oozes, and then report back to Fraggar Thundermantle in Aerie Peak.",    ["Progress"]="Make no effort to negotiate the mission at hand, $R!  If the gods had wanted those oozes killed, they would have miracled it done by now, wouldn't they?!",    ["Completion"]="Well look at you, helping out the Wildhammers!  You're a $C of action, and action is what we respect around here.$B$BYour little clean-up mission is a lot more important than you might think it is.  With folks thinning out the oozes and sludges, we'll be able to extend our sphere of influence in no time. Here - have a little something in addition to just making new friends here in Aerie Peak!",    ["minlevel"]="40",    ["questlevel"]="48"},
-
-	["2878"] = {    ["Title"]="Corrupted Songflower",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="You have found a sickly, corrupted version of what appears to be a songflower plant. A pungent, unhealthy odor emanates from the plant. It desperately needs some sort of attention if it is to be turned back to normal.",    ["Completion"]="You apply some Cenarion plant salve to the songflower. It immediately begins to shed its corrupted form, blossoming into a vibrant and healthy plant.",    ["minlevel"]="48",    ["questlevel"]="55"},
-
-	["2879"] = {    ["Title"]="The Stave of Equinex",    ["Description"]="This stave might be the Stave of Equinex! The Stave of Equinex is actually a key, used to unlock the Equinex Monolith in the Ruins of Ravenwind, on the mainland west of the Dream Bough.$B$BFind the four flames that still burn in those ruins: Samha, Imbel, Byltan, and Lahassa. Retrieve their essence and then while standing by the Equinex Monolith, use the essences to energize the stave. If this is truly is the Stave of Equinex, you will be able to unlock the Monolith and gather a sacred artifact from it.",    ["Objectives"]="Energize Troyas' Stave and find the Equinex Monolith.",    ["Progress"]="The Equinex Monolith stands silently among the ruins. What could it be holding?",    ["Completion"]="Holding the energized stave is almost impossible. Its power rumbles through your body.$B$BYou reach out to the cold surface of the Equinex Monolith...$B$BA small door opens, allowing you to reach in and take the artifact inside.$B$BBeams of light fill the area around the Equinex Monolith.",    ["minlevel"]="42",    ["questlevel"]="50"},
-
-	["2880"] = {    ["Title"]="Troll Necklace Bounty",    ["Description"]="Get this straight, $r - we are NOT part of the Alliance!  The Wildhammers are independent, relying on deeds and actions to prove one's worth, rather than the blather of those who use jibber-jabber to bolster their do-nothing attitudes!$B$BIf you're looking for friends here, then prove your worth to us first!  The foul trolls that choke the hillsides of the Hinterlands sometimes carry tribal necklaces.  Bring five of them to me, and we'll mark it down as a step in the right direction for you.",    ["Objectives"]="Bring 5 Troll Tribal Necklaces to Fraggar Thundermantle in Aerie Peak.",    ["Progress"]="I want five of those tribal necklaces the trolls carry on them.  If you need it spelled out further, then killing one of them stands you a good chance of getting one!$B$BProve your worth to the Wildhammers!",    ["Completion"]="Now that's what I am talking about!  See - these necklaces prove that you're willing to get your hands dirty.  We Wildhammers value that in those we associate with.$B$BYou keep this up, and you'll be in our good graces yet.",    ["minlevel"]="40",    ["questlevel"]="45"},
-
-	["2881"] = {    ["Title"]="Troll Necklace Bounty",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="I want five of those tribal necklaces the trolls carry on them. If you need it spelled out further, then killing one of them stands you a good chance of getting one!$B$BProve your worth to the Wildhammers!",    ["Completion"]="Now that's what I am talking about! See - these necklaces prove that you're willing to get your hands dirty. We Wildhammers value that in those we associate with.$B$BYou keep this up, and you'll be in our good graces yet.",    ["minlevel"]="40",    ["questlevel"]="45"},
-
-	["2882"] = {    ["Title"]="Cuergo's Gold",    ["Description"]="This map shows a stretch of beach with a southern face.  Below the map are words, elegantly written...$B$B$BSouth of Wheedle$BSouth of home$BFind a mast and flag and bones$BDig you there, if you be bold$BDig and claim Cuergo's gold!$BA key you'll need and a key you'll see$BThe men you face take blood as fee.",    ["Objectives"]="Find Cuergo's gold!",    ["Progress"]="This chest is locked!",    ["Completion"]="Captain Cuergo's hidden treasure awaits!",    ["minlevel"]="40",    ["questlevel"]="45"},
-
-	["2902"] = {    ["Title"]="Woodpaw Investigation",    ["Description"]="Gnolls aren't the sharpest tools in the shed, but they will no doubt have some sort of documented strategy on their recent activity.  If we were to find those plans, then we'd have a clearer idea of what is making them so worked up.$B$BI want you to head back to the Woodpaw and find anything that might resemble their battle plans.  They have to have something; their attacks have been too coordinated to be done without them.  Find them, and return to me when you have them.",    ["Objectives"]="Find the gnoll battle plans somewhere in the gnoll camps to the south of Camp Mojache.",    ["Progress"]="",    ["Completion"]="Examining the map reveals it to be the battle plans that Hadoken Swiftstrider wants. Numerous arrows that perhaps represent troop movements are drawn on the map, though most seem to be headed toward the south rather than to the north where Camp Mojache lies.$B$BAnother section of the map has a picture of what you think is a large insect of some kind, with various tick marks under it. From the looks of the gnolls, it perhaps represents their losses against the unknown bugs...",    ["minlevel"]="39",    ["questlevel"]="43"},
-
-	["2903"] = {    ["Title"]="The Battle Plans",    ["Description"]="With the battle plans of the gnolls discovered, all that now remains is to bring the plans back to Hadoken Swiftstrider in Camp Mojache.  Perhaps he or someone there can make further sense of what the gnolls are up to.",    ["Objectives"]="Bring the Woodpaw Battle Plans to Hadoken Swiftstrider in Camp Mojache.",    ["Progress"]="Welcome back $N - were you able to find some tangible evidence as to the plans of the gnolls?",    ["Completion"]="Ah, this is exactly what we needed. While I am not so skilled at ciphering what most of the scrawling on this map is, I've seen enough battle plans in my day to understand what is happening with the gnolls. It looks like they are currently fighting a two front war. One is with us... but it seems that their main energy has been against a foe to their south.",    ["minlevel"]="39",    ["questlevel"]="43"},
-
-	["2932"] = {    ["Title"]="Grim Message",    ["Description"]="The Witherbark trolls were once allies to the Horde, but they betrayed Thrall... and that must be punished!$B$BHere, take my pike and go to the Hinterlands, far to the north.  You will find it northeast of Tarren Mill, a village held by our allies, the Forsaken.$B$BWhen you enter the Hinterlands, hunt Witherbark trolls.  Gather their skulls and drive my pike into the ground at one of their smaller villages, Hiri'watha or Zun'watha.$B$BShow them their vile actions are of consequence!",    ["Objectives"]="Gather Witherbark Skulls and place on Nimboya's Pike.  Place Nimboya's Laden Pike at one of the Witherbark Villages in the Hinterlands, then return to Nimboya in Stranglethorn.",    ["Progress"]="You have not completed my task, $N.",    ["Completion"]="Word reached me of your deed. A grim deed, but one of honor. Let us hope the Witherbarks heed your message.",    ["minlevel"]="35",    ["questlevel"]="42"},
-
-	["2933"] = {    ["Title"]="Venom Bottles",    ["Description"]="These bottles hold a vile, green venom.$B$BConsidering the number of bottles in this village, the Witherbarks must deem it very important.  Perhaps an apothecary in nearby Tarren Mill would like a sample.",    ["Objectives"]="Bring a Venom Bottle to an apothecary in Tarren Mill.",    ["Progress"]="Hello, gentle $C. The day has been long and not a single experiment successful...I hope you bring good news to me.",    ["Completion"]="Ah, and what is this? It appears to be venom... from some arachnoid creature I deem. And where did you get it?",    ["minlevel"]="40",    ["questlevel"]="43"},
-
-	["2934"] = {    ["Title"]="Undamaged Venom Sac",    ["Description"]="I must have a fresh sample of the venom you brought me.  The spiders from which it was gathered must dwell in the Hinterlands -- hunt them until you find an undamaged venom sac and bring it to me.  You will find many spiders near the troll city of Shadra'Alor.$B$BDo not tarry, $N, for the venom sac must be fresh when you deliver it.",    ["Objectives"]="Bring an Undamaged Venom Sac to Apothecary Lydon in Tarren Mill.",    ["Progress"]="Do you have the undamaged venom sac, $N?  I yearn to run experiments with its fresh venom, and have ordered a collection of small, terribly cute animals on which to test it!",    ["Completion"]="Oh, splendid! The venom is quite fresh and I'm sure very deadly. Thank you!",    ["minlevel"]="40",    ["questlevel"]="45"},
-
-	["2935"] = {    ["Title"]="Consult Master Gadrin",    ["Description"]="The venom from the broodguards wasn't as potent as the venom you brought originally.  It must have come from a different spider.$B$BI want a fresh sample of that venom.  To find out where it came from, you must consult with a troll who knows the Witherbark well--Master Gadrin in Sen'jin Village.  Travel to Durotar and speak with Gadrin.  With luck, he'll know where the Witherbarks get their venom.",    ["Objectives"]="Speak with Master Gadrin in Sen'jin Village.",    ["Progress"]="",    ["Completion"]="Ah, so you want fresh venom from the spider of the witherbarks, yes? Well, sit down... you're not going to like what I have to tell you.",    ["minlevel"]="40",    ["questlevel"]="45"},
-
-	["2936"] = {    ["Title"]="The Spider God",    ["Description"]="The Witherbarks worship a spider god, and from her they collect their most potent venom.  So if you want the venom, then you must summon their god!$B$BTo do that, you must know her true name, and that name is on a tablet buried in Tanaris, in the troll city of Zul'Farrak, in a tomb guarded by Theka the Martyr.$B$BDefeat Theka and find and read his tablet to discover the spider god's name.  When you know it, return to me.",    ["Objectives"]="Read from the Tablet of Theka to learn the name of the Witherbark spider god, then return to Master Gadrin.",    ["Progress"]="Do you know the spider god's name?",    ["Completion"]="Ah, Elortha no Shadra... speak this name only in whispers, for its utterance carries much weight in the realms of the spirit.$B$BI will put it to parchment and create for you a spell of summoning...",    ["minlevel"]="40",    ["questlevel"]="45"},
-
-	["2937"] = {    ["Title"]="Summoning Shadra",    ["Description"]="Take his parchment, and read it at the altar of Shadra'Alor, deep within the witherbark realm in the Hinterlands.  This will summon Shadra the spider god.",    ["Objectives"]="Defeat Shadra at the altar of Shadra'Alor, then bring her venom to Apothecary Lydon in Tarren Mill.",    ["Progress"]="Did you get the venom?",    ["Completion"]="Sweet, you got it!",    ["minlevel"]="40",    ["questlevel"]="55"},
-
-	["2938"] = {    ["Title"]="Venom to the Undercity",    ["Description"]="The venom you gathered from the Witherbark's spider god is quite a find!  I've been able to kill nearly two dozen rabbits with just a drop of the stuff.  Granted, some of those rabbits were very young and small enough to fit in the palm of one's hand so I'm certain their resistance to toxins was low, but it can't be denied that this poison is powerful!$B$BI'd like a sample sent to my superior, Apothecary Faranell in the Apothecarium of the Undercity.  I am positive he would want to test this himself.",    ["Objectives"]="Bring Faranell's Parcel to Master Apothecary Faranell in the Undercity.",    ["Progress"]="Word was sent of your coming, $N. You have a parcel for me?",    ["Completion"]="Ah, very good. Lydon mentioned the poison in this parcel is the most potent he has come in contact with, and is busy working on new applications with it.$B$BWith luck, we will find many.$B$BThank you, $N. Your service to the Royal Apothecary Society is undeniable.",    ["minlevel"]="40",    ["questlevel"]="55"},
-
-	["2939"] = {    ["Title"]="In Search of Knowledge",    ["Description"]="While the ruins of Feralas can be quite dangerous, they have much to tell of what has happened here.$B$BSearching through the rubble to the south a few days ago, I discovered what appears to be a normal stave. However, I just can't shake the feeling that there is something more to it. Angelas and I have been poring over our books here, but we can't find a thing about it.$B$BI have a colleague in Darnassus that may be able to tell us what this is, $N. Why don't you go talk to her and see if she can help us?",    ["Objectives"]="Talk to Daryn Lightwind in Rut'theran Village.",    ["Progress"]="",    ["Completion"]="Oh, so Troyas Moonbreeze sent you?$B$B<mutters>...always bothering me with his wild notions that he found something important...$B$BLook, $N, I'll be blunt. Troyas always thinks he has found something important in those ruins. The truth is, anything that was truly valuable was probably hoarded away long ago by the ogres or the harpies that now reside there.$B$BYou're welcome to take a look around, but I don't know if you'll find any books here that will help you.",    ["minlevel"]="42",    ["questlevel"]="47"},
-
-	["2940"] = {    ["Title"]="Feralas: A History",    ["Description"]="This book looks as if no one has opened it for quite a long time. Its covers are quite worn, and its pages yellowed, but after examining it, you notice that it might be just what Troyas is looking for.$B$BYou pick it up, but realize you should probably ask before borrowing it.",    ["Objectives"]="Ask Daryn Lightwind if you may borrow her book.",    ["Progress"]="",    ["Completion"]="So, you'd like to borrow Feralas: A History?$B$BLet me think...$B$BI will allow you to borrow this book, $N, but only if you do something for me first.",    ["minlevel"]="42",    ["questlevel"]="47"},
-
-	["2941"] = {    ["Title"]="The Borrower",    ["Description"]="I have studied many subjects in my time, and my latest fascination is with the snapjaw that occupy the beach in the Hinterlands. There's one in particular I'd like to see, a giant snapjaw named Gammerita. I'd like to go myself, but my research keeps me here. I think a picture of her would be the next best thing.$B$BTake this letter to Curgle Cranklehop in Tanaris. She has created an invention for me that can capture a picture. She called it a \"snapshot,\" I think...",    ["Objectives"]="Take the letter to Curgle Cranklehop in Tanaris.",    ["Progress"]="A letter -- for me?",    ["Completion"]="Are you another one of Daryn's interns? She's quite a knowledgeable historian, $N. You should be grateful to be studying under her leadership.$B$BNow, let me get the Super Snapper FX. You're gonna love it!",    ["minlevel"]="42",    ["questlevel"]="48"},
-
-	["2942"] = {    ["Title"]="The Morrow Stone",    ["Description"]="The moment the artifact is removed from the Monolith, you feel the energy in the Stave of Equinex begin to fade.",    ["Objectives"]="Return the Sparkling Stone and the Stave of Equinex to Troyas Moonbreeze in Feathermoon Stronghold.",    ["Progress"]="I am glad you have returned, $N. I am eager to hear of your findings.",    ["Completion"]="I have been reading since you left, $N. This stone you have found is called the Morrow Stone. While I am not entirely sure what its purpose is yet, you can be sure that it is something of great significance to be hidden away inside the Equinex Monolith the way it was.",    ["minlevel"]="42",    ["questlevel"]="50"},
-
-	["2943"] = {    ["Title"]="Return to Troyas",    ["Description"]="Here it is, $N. Please, take care of my book.$B$BNow, hurry along. I'm sure Troyas is eager for your return.",    ["Objectives"]="Deliver the book to Troyas Moonbreeze in Feathermoon Stronghold.",    ["Progress"]="Hello, $N. Have you been to Darnassus?",    ["Completion"]="You have brought a book along. Excellent!",    ["minlevel"]="42",    ["questlevel"]="48"},
-
-	["2944"] = {    ["Title"]="The Super Snapper FX",    ["Description"]="Have the first look at my new invention, $N. All you need to do is target whatever it is you'd like to take a picture of, and push the button.$B$BWhat was that creature from the Hinterlands that you mentioned? Gammerita? Well, good luck finding her. I'm sure Daryn will be quite pleased with the snapshot you return to her.$B$BIn any case, here's the Super Snapper. Have fun!",    ["Objectives"]="Use the Super Snapper FX to take a snapshot of Gammerita, then return to Daryn Lightwind in Rut'theran Village.",    ["Progress"]="So, you have finally returned, $N. And you've brought the contraption that Curgle built for me -- perfect.",    ["Completion"]="Well! Curgle's invention lived up to its expectations.$B$BDon't get too excited, but do know that I am pleased with your work, $N.$B$BNow, where did I leave that book...",    ["minlevel"]="42",    ["questlevel"]="48"},
-
-	["2969"] = {    ["Title"]="Freedom for All Creatures",    ["Description"]="The filthy Grimtotem clan are capturing faerie dragons, $N. Jer'kai and I have no idea what they plan on doing with them, but they're obviously up to no good.$B$BWe're not powerful enough to fight our way into the camp and free the captured dragons, but perhaps with your help...$B$BIf you're willing, and you have some strong friends, release the creatures from their cage with this key and make sure they escape with their lives. I'll be by your side the entire time. Jer'kai will remain here.",    ["Objectives"]="Using the Bamboo Cage Key, free the Sprite Darters from the pen in the Grimtotem camp. At least 6 Sprite Darters and Kindal Moonweaver must survive.$B$BYou have 6 minutes before Kindal decides it is time to retreat and you fail the quest.",    ["Progress"]="We cannot allow the Grimtotem clan to destroy these beautiful creatures. They must be released from captivity!",    ["Completion"]="Thank Elune, $N! You are a great blessing to us and to the darters you saved. Jer'kai and I would never have been able to help the dragons ourselves--your intervention in the Grimtotem's affairs will be remembered.$B$BSpeak to Jer'kai now... I have to prepare for our retribution. Just because the faerie dragons are free, it doesn't mean they will remain so. Jer'kai and I will now go on the offensive.",    ["minlevel"]="38",    ["questlevel"]="47"},
-
-	["2970"] = {    ["Title"]="Doling Justice",    ["Description"]="As she's already told you, Kindal and I will now take the fight to the Grimtotem. Together, we should still be able to pick off some of the tauren without much threat to ourselves, but we'd love some help if you're willing and able.$B$BYou've seen the camp below us, but there are more to the east. Using your own tactics, deal as much damage to the tauren as you can. We can all meet back here after they've felt the sting of Kindal's arrows and your own weapons.",    ["Objectives"]="Kill 12 Grimtotem Naturalists, 10 Grimtotem Raiders, and 6 Grimtotem Shamans before returning to Jer'kai Moonweaver in Feralas.",    ["Progress"]="Kindal needs time to prepare, but our kills already number in the dozens. The Grimtotem clan is more than aware of our presence in the area, and they seek us out like vipers.$B$BThey'll do everything in their power to take our heads from our bodies. You should be alert... they'll be coming for you too now that you've interfered.",    ["Completion"]="Kindal was right about you, $N--you do have a knack for this. You are a more seasoned adventurer than the both of us, and for that we thank you.$B$BThe Grimtotem clan is much more hostile than most tauren... I wonder if their own kind frowns upon their actions. I wouldn't be surprised. As you are probably aware, many races on Azeroth have ties to less kindly counterparts.$B$BBut that is a discussion for another day.",    ["minlevel"]="38",    ["questlevel"]="47"},
-
-	["2972"] = {    ["Title"]="Doling Justice",    ["Description"]="Out here in the wilderness, Kindal and I have meager means to reward your help, but we don't want you to feel unappreciated. Take my signet ring. If you ever find yourself in the boughs of Teldrassil, go to the Temple of the Moon in the heart of Darnassus. There you will find my High Priestess Tyrande Whisperwind. The ring will let her know that we are well and give credit to your story.$B$BWe both thank you, $N.",    ["Objectives"]="Take Jer'kai's Signet Ring to High Priestess Tyrande Whisperwind in Darnassus.",    ["Progress"]="Hello, child. It pleases us to have more powerful adventurers here in the temple. If you have the time, will you share a tale or two with the younger adventurers? I know many of them would benefit from your wisdom.$B$BI'm sorry, look how rude of me. You've come to the Temple seeking our aid, and I impose on you. Please, forgive me. Tell me what the servants of the Light can do for you.",    ["Completion"]="That's an amazing story, $N. It pleases us that you've not only helped dragonkind, but also one of our own priestess. Jer'kai was right to send you to me. I will make sure she has her ring returned to her--I have scouts heading the direction of Feralas soon. This will be one more thing for them to investigate while on their mission.$B$BThank you again, and please, make yourself at home while you're here.",    ["minlevel"]="38",    ["questlevel"]="47"},
-
-	["2973"] = {    ["Title"]="A New Cloak's Sheen",    ["Description"]="Well met, $c. I've traveled with my companions down to the Feralas on a mission for our Orgrimmar masters.$B$BMy life-mate Korrin finds great pleasure in new clothing, so I aim to make her a new cloak adorned with the gossamer wings of faerie dragons. Would you be able to help me? Sprite darters with gorgeous wings I want are west of Camp Mojache.",    ["Objectives"]="Bring 10 Iridescent Sprite Darter Wings to Krueg Skullsplitter in Camp Mojache.",    ["Progress"]="The sprite darters can be dangerous critters when provoked. Be careful when dealing with them, $C. And be even more careful of any night elves in the area. The pestering fools tend to hold up in the forests also.$B$BWhen you've gotten enough of the wings, let me know, I'll be sure to reward you well!",    ["Completion"]="Wonderful, $C! These will do nicely. There are enough here to make a cloak for Korrin, and possibly even more! Thank you.$B$BI hope the trip wasn't too dangerous? The area of Feralas is not known for being forgiving, but you've obviously done well enough.$B$BThank you again, $C.",    ["minlevel"]="38",    ["questlevel"]="45"},
-
-	["2974"] = {    ["Title"]="A Grim Discovery",    ["Description"]="What!? You came across tauren in the area? You're joking! What did they look like!?$B$BThe Grimtotem clan! You found some of them? Belgrom, one of our masters, has an interest in their kind... he's even put a bounty on them.$B$BYou have to go back, $c. Go back and bring me their horns... piles of them if you can. The Grimtotem are not to be trifled with or underestimated. Go back and slay them; let the rivers in Feralas run red with their dark blood.",    ["Objectives"]="Bring 20 Grimtotem Horns to Krueg Skullsplitter in Camp Mojache.",    ["Progress"]="Take my words seriously, $C, the Grimtotem clan is evil. If you've found their whereabouts, then it's up to you to return and strike the first blow against their clan... before they can come into our own lands and raze our own villages, or pilfer our lands.",    ["Completion"]="These are good horns, $C. Well done. I'll take these from you and be sure to tell Belgrom as soon as we return to Orgrimmar. You've helped me twice now, and for that, you have my mark. Perhaps in the future I can help you! Good luck to you.",    ["minlevel"]="38",    ["questlevel"]="45"},
-
-	["2975"] = {    ["Title"]="The Ogres of Feralas",    ["Description"]="The effects of the Gordunni Ogre tribe can hardly go unnoticed in this area. Look around, $N; their very presence scars this land. We must push them back before they expand even further into Feralas.$B$BFollow the river north, and you will find their outpost. Decrease their numbers, $N. We must show them that their kind is not wanted here.",    ["Objectives"]="Rok Orhan in Camp Mojache wants you to kill 10 Gordunni Ogres, 10 Gordunni Ogre-Magi, and 5 Gordunni Brutes.",    ["Progress"]="Move swiftly, $N. Or is the task I requested too difficult?",    ["Completion"]="Excellent, $N. In time, the land will heal. We must not give up.",    ["minlevel"]="38",    ["questlevel"]="43"},
-
-	["2976"] = {    ["Title"]="A Grim Discovery",    ["Description"]="What?!$B$BAh, so I did mention a bounty, didn't I? Well, that'll teach me to open my mouth, won't it?$B$BYou did the work, so I suppose it is only right you reap the greatest reward from it. Take the horns, I'll have them put in a crate for you. Find Belgrom Rockmaul in the Valley of Honor, he'll want to know what you saw and he'll reward you for your hard work.$B$BBe well, $c, and thank you again for everything you've done.",    ["Objectives"]="Bring the Crate of Grimtotem Horns to Belgrom Rockmaul in Orgrimmar.",    ["Progress"]="Be quick, $C, I have much to complete today.",    ["Completion"]="The Grimtotem!? This is interesting. You say you came across them while hunting in Feralas? Truly?$B$BMy peers will want to hear your news, $C. Tell me more and I'll count out your coin while you do so.$B$BAnd before you go, know that I give you thanks for the information you've passed on to me this day.",    ["minlevel"]="37",    ["questlevel"]="45"},
-
-	["2978"] = {    ["Title"]="The Gordunni Scroll",    ["Description"]="Picking up the soiled scroll, you notice that it seems to be depicting some sort of meeting or ceremony. Rok Orhan would be interested in this scroll, and what it might mean to the Gordunni.",    ["Objectives"]="Bring the Gordunni Scroll to Rok Orhan in Camp Mojache.",    ["Progress"]="What is this?",    ["Completion"]="This scroll... You found this in the Gordunni Outpost?",    ["minlevel"]="38",    ["questlevel"]="43"},
-
-	["2979"] = {    ["Title"]="Dark Ceremony",    ["Description"]="These seem to be plans for some sort of dark ceremony, $N. From what I can make out, this ritual is conducted by the Gordunni mage-lords.$B$BFind one of these mage-lords, and from him, gather an orb.$B$BThe orb of a mage contains great power, and will help us discover more about this ceremony and the magic that the Gordunni wield.",    ["Objectives"]="Rok Orhan in Camp Mojache wants you to find a Gordunni Orb.",    ["Progress"]="We must discover more about why the Gordunni are here, $N.",    ["Completion"]="This orb will provide us with more information about the Gordunni... which we will then use in planning their downfall, $N.",    ["minlevel"]="38",    ["questlevel"]="46"},
-
-	["2980"] = {    ["Title"]="The Ogres of Feralas",    ["Description"]="Now that you have proven that you are a true fighter, I trust that you possess the courage to continue with the task at hand.$B$BTravel to the High Wilderness, southwest of here. There lie some abandoned and destroyed structures, on land that once belonged to the night elves. Look for these ruins, and when you see the withered trees and desecrated terrain, you will find the Gordunni. Push them back.$B$BThese ogres are much stronger than the ones you faced previously, $N. Be aware.",    ["Objectives"]="Rok Orhan in Camp Mojache wants you to kill 10 Gordunni Shaman, 10 Gordunni Warlocks, and 5 Gordunni Maulers.",    ["Progress"]="Have you found the ruins, $N?",    ["Completion"]="You have proven yourself to be a trustworthy and dependable ally, $N.",    ["minlevel"]="38",    ["questlevel"]="44"},
-
-	["2982"] = {    ["Title"]="The High Wilderness",    ["Description"]="Although it is dangerous, Troyas and I have been investigating the ruins that cover the forests of Feralas.$B$BLately, though, Troyas has been going on his own to the High Wilderness, and I really worry about him. The Gordunni Ogres have taken over that area, and they don't take kindly to anyone that enters their territory.$B$BI was hoping you might be willing to travel to the ruins to the southeast and clear out some of the ogres. Make it a little safer for my Troyas, and I will be extremely grateful.",    ["Objectives"]="Angelas Moonbreeze wants you to kill 8 Gordunni Warlocks, 8 Gordunni Shaman, and 8 Gordunni Brutes.",    ["Progress"]="Be watchful around the Gordunni, $N. Their magic seems to wreak havoc on the very land they stand on.",    ["Completion"]="I am very grateful you were able to do this for me.$B$BNow, please, don't mention a word to Troyas about this...",    ["minlevel"]="39",    ["questlevel"]="44"},
-
-	["2987"] = {    ["Title"]="Gordunni Cobalt",    ["Description"]="I just arrived here in Feralas, and I've heard that the Gordunni Ogres that inhabit the wilds here have some interesting minerals. Who knows what they are up to, but they sure are protective of that stuff! They don't leave it just lying around; no, they bury it to protect folks like me from getting their hands on it.$B$BIf you'd be willing, I'll give you my shovel. Go to the Gordunni Outpost north of here and dig me up some Gordunni cobalt. Look for the blue glow, then start digging!",    ["Objectives"]="Orwin Gizzmick in Camp Mojache wants 12 samples of Gordunni Cobalt.",    ["Progress"]="Get on up there and start digging!$B$BI've got places to go and people to see -- time is money!",    ["Completion"]="Perfect! I will take these along as I continue my travels, $N. I'm sure I can find someone that will pay a pretty penny for this cobalt.$B$BHere, take this for your trouble.",    ["minlevel"]="38",    ["questlevel"]="43"},
-
-	["2988"] = {    ["Title"]="Witherbark Cages",    ["Description"]="The son of our mightiest gryphon is gone! Swiftwing's heir, Sharpbeak, was lost while hunting with his parents a few days ago, and we believe it was the trolls who took him.$B$BYou must aid us!  Search the cages in the two Witherbark troll villages to see if Sharpbeak is there.",    ["Objectives"]="Check the cages at the two Witherbark villages, then return to Gryphon  Master Talonaxe.",    ["Progress"]="Have you searched the cages, $N? We must find Sharpbeak!",    ["Completion"]="Sharpbeak wasn't at the villages?  Hm... this is grim news.  That gryphon is destined to lead the next generation of gryphons.  If he is lost then the strength and spirit of our fleet will suffer immensely.",    ["minlevel"]="40",    ["questlevel"]="45"},
-
-	["2989"] = {    ["Title"]="The Altar of Zul",    ["Description"]="Sharpbeak was not with the Witherbark trolls.  Perhaps the Vilebranch trolls took him.  Go to the Altar of Zul on the western edge of Vilebranch territory and search for the gryphon child.",    ["Objectives"]="Check the top of the Altar of Zul, then return to Gryphon Master Talonaxe.",    ["Progress"]="Hurry, $N!  If the Vilebranch trolls have Sharpbeak, then who knows what they might be doing with him!",    ["Completion"]="Sharpbeak wasn't there?  That is bad news, but it is good news too...$B$BIt is good that he was not at the Altar of Zul for the Vilebranch trolls are known for performing sacrifices.$B$BI thank you for all of your aid, but I'm afraid I have an even greater task ahead.",    ["minlevel"]="40",    ["questlevel"]="48"},
-
-	["2990"] = {    ["Title"]="Thadius Grimshade",    ["Description"]="Take this feather to Thadius Grimshade, the diviner.  He left Aerie Peak years ago to pursue darker knowledge, but in his heart he is still a Wildhammer!$B$BAnd perhaps his talents can help us find Sharpbeak.$B$BThis feather was taken from the nest where the gryphon child sleeps.  If you give it to Thadius then, with luck, he can use his divining magics to find Sharpbeak.$B$BGood luck, $N.  You will find Thadius in the Blasted Lands, in the mage tower of Nethergarde Keep.",    ["Objectives"]="Bring Sharpbeak's Feather to Thadius Grimshade in the Blasted Lands.",    ["Progress"]="$N, you come bearing a gift?",    ["Completion"]="Ah, yes.  This feather belongs to a fine gryphon.  One destined for great things... if he can survive into adulthood undamaged.$B$BYou wish to find him?  Then listen close, brave $C...",    ["minlevel"]="40",    ["questlevel"]="47"},
-
-	["2991"] = {    ["Title"]="Nekrum's Medallion",    ["Description"]="I'll find out where your gryphon is, but first you have to do something for me.  There's a troll in Zul'Farrak, Nekrum Gutchewer, who possesses a medallion I would very much like to study.  Bring me that Medallion and I'll use my powers to find Sharpbeak.$B$BZul'Farrak is across the ocean to the west, in the desert of Tanaris.",    ["Objectives"]="Bring Nekrum's Medallion to Thadius Grimshade in the Blasted Lands.",    ["Progress"]="Do you have Nekrum's Medallion, $N?  There are powers hidden within it that I am eager to discover.",    ["Completion"]="Ah, the medallion of Nekrum.  It is rumored to have given the troll an unnatural long life, but at a cost.  I hope to discover a way to reap the medallion's power while avoiding its... unpleasant side effects.$B$BYou have done me a service, $N.  I shall now uphold my end of our bargain.",    ["minlevel"]="40",    ["questlevel"]="47"},
-
-	["2992"] = {    ["Title"]="The Divination",    ["Description"]="Give me room while I perform a ritual of divination.  I will find the connection between the feather you brought me and its owner, and follow that connection to Sharpbeak himself.$B$BThat is... I will if all goes according to plan.  If it does not, then... you better close your eyes.",    ["Objectives"]="Wait until Grimshade performs the ritual of divination.",    ["Progress"]="",    ["Completion"]="The ritual was a success.  I have seen Sharpbeak and can tell you how to find him.",    ["minlevel"]="40",    ["questlevel"]="47"},
-
-	["2993"] = {    ["Title"]="Return to the Hinterlands",    ["Description"]="Sharpbeak is held in a cage, high on a cliff at the top of Jintha'Alor in the Hinterlands.  The key to this cage is possessed by the high priestess of the Vilebranch trolls, Vile Priestess Hexx.$B$BThere.  I have done my part.  I bid you fortune on your quest, $N.",    ["Objectives"]="Speak with Gryphon Master Talonaxe.",    ["Progress"]="",    ["Completion"]="You've spoken with Grimshade?  What did he say?$B$B...What?  The Vilebranch trolls have Sharpbeak?  That's unbearable!  We must organize a force to get him back!",    ["minlevel"]="40",    ["questlevel"]="47"},
-
-	["2994"] = {    ["Title"]="Saving Sharpbeak",    ["Description"]="We must save Sharpbeak!$B$BFight your way to the top of Jintha'Alor in the heart of Vilebranch territory, gain the key to Sharpbeak's cage from the vile Priestess Hexx, and then find and save Sharpbeak!",    ["Objectives"]="Fight to the top of Jintha'Alor, kill Vile Priestess Hexx for the key to Sharpbeak's cage, and save Sharpbeak.",    ["Progress"]="Save Sharpbeak!",    ["Completion"]="Swiftwind and Keenclaw returned with their child moments ago, and are fussing over him like new parents.  Seeing them together again is enough to give even this old dwarf mist in the eyes...$B$BWe cannot repay you enough for what you have done, $N.  The gryphons of Aerie peak, and their riders, will sing your name for a long, long time.",    ["minlevel"]="40",    ["questlevel"]="51"},
-
-	["3002"] = {    ["Title"]="The Gordunni Orb",    ["Description"]="Although I know my enemy well, I am a warrior, $N. I cannot begin to tell you what this orb is capable of.$B$BI know of a mage in Orgrimmar that will be able to tell us more about the orb. Take it to him.",    ["Objectives"]="Bring the Gordunni Orb to Uthel'nay in the Darkbriar Lodge in Orgrimmar.",    ["Progress"]="What have you brought me, $R?",    ["Completion"]="Fascinating, $N...$B$BThis orb is very powerful, but also very dangerous.",    ["minlevel"]="38",    ["questlevel"]="47"},
-
-	["3062"] = {    ["Title"]="Dark Heart",    ["Description"]="Edana Hatetalon is the queen of the Northspring harpies that reside in the ruins to the west. She is pure evil; I have heard that her heart is one of crystal. She is void of any emotion aside from the hate she feels towards all others. You must face Edana and bring me back her dark heart.$B$BI have heard of a horn that harpies carry -- blowing it by the Hatetalon stones, in the northern part of the ruins, will summon the queen.$B$BImagine her surprise when it is not her kin calling her, but her death.",    ["Objectives"]="Talo Thornhoof in Camp Mojache wants Edana Hatetalon's Dark Heart.",    ["Progress"]="The hate that Edana spreads across the land must be stopped.",    ["Completion"]="Now I know that Edana is truly dead. This heart; I will keep it in memory of what did here for me, $N. Thank you.",    ["minlevel"]="45",    ["questlevel"]="50"},
-
-	["3063"] = {    ["Title"]="Vengeance on the Northspring",    ["Description"]="In my day, I was a seasoned hunter. There wasn't any creature around that I feared. Until...$B$BI was out in the forest, sharpening my blade after a tough battle, when I was ambushed. Harpies surrounded me, and I barely managed to drag myself to safety.$B$BEven now, I can still hear their cries echoing...$B$BI was never the same after that. But the hate boils inside of me -- I must get even, after all these years.$B$BThe Northspring harpies can be found to the west of here. $N, get my revenge.",    ["Objectives"]="Talo Thornhoof wants you to kill 4 Northspring Harpies, 4 Northspring Roguefeathers, 4 Northspring Windcallers, and 4 Northspring Slayers.",    ["Progress"]="The wings of the Northspring harpies are black as the night; do not take your eyes off of them, lest they disappear into darkness.",    ["Completion"]="Thank you, $N. You have put an old tauren's mind at peace.",    ["minlevel"]="45",    ["questlevel"]="50"},
-
-	["8433"] = {    ["Title"]="Battle of Warsong Gulch",    ["Description"]="The battle in Warsong Gulch against the Silverwing Sentinels is of great importance. Under the guise of protecting a forest that doesn't belong to them, the Alliance seeks to deny the Horde one of our largest sources for lumber.$B$BDo not let this happen, $N! Come back to me with proof of serving the Horde in a worthy manner!",    ["Objectives"]="Bring 3 Warsong Marks of Honor to a Horde Warbringer outside the battlegrounds.",    ["Progress"]="The battle in Warsong Gulch against the Silverwing Sentinels is of great importance. Under the guise of protecting a forest that doesn't belong to them, the Alliance seeks to deny the Horde one of our largest sources for lumber.$B$BDo not let this happen, $N! Come back to me with proof of serving the Horde in a worthy manner!",    ["Completion"]="Excellent! You've shown your worth by defending our operations in Warsong Gulch! May word of your honor spread far and wide across our lands.",    ["minlevel"]="40",    ["questlevel"]="49"},
-
-	["8432"] = {    ["Title"]="Battle of Warsong Gulch",    ["Description"]="The battle in Warsong Gulch against the Silverwing Sentinels is of great importance. Under the guise of protecting a forest that doesn't belong to them, the Alliance seeks to deny the Horde one of our largest sources for lumber.$B$BDo not let this happen, $N! Come back to me with proof of serving the Horde in a worthy manner!",    ["Objectives"]="Bring 3 Warsong Marks of Honor to a Horde Warbringer outside the battlegrounds.",    ["Progress"]="The battle in Warsong Gulch rages on, $N.  Do your part to drive the Silverwing Sentinels out of our lands!",    ["Completion"]="Well done, $C!  You've helped ensure the Horde's ownership over Warsong Gulch!",    ["minlevel"]="30",    ["questlevel"]="39"},
-
-	["8431"] = {    ["Title"]="Battle of Warsong Gulch",    ["Description"]="The battle in Warsong Gulch against the Silverwing Sentinels is of great importance. Under the guise of protecting a forest that doesn't belong to them, the Alliance seeks to deny the Horde one of our largest sources for lumber.$B$BDo not let this happen, $N! Come back to me with proof of serving the Horde in a worthy manner!",    ["Objectives"]="Bring 3 Warsong Marks of Honor to a Horde Warbringer outside the battlegrounds.",    ["Progress"]="The battle in Warsong Gulch rages on, $N.  Do your part to drive the Silverwing Sentinels out of our lands!",    ["Completion"]="Excellent! You've shown your worth by defending our operations in Warsong Gulch! May word of your honor spread far and wide across our lands.",    ["minlevel"]="20",    ["questlevel"]="29"},
-
-	["8430"] = {    ["Title"]="Battle of Warsong Gulch",    ["Description"]="The battle in Warsong Gulch against the Silverwing Sentinels is of great importance.  Under the guise of protecting a forest that doesn't belong to them, the Alliance seeks to deny the Horde one of our largest sources for lumber.$B$BDo not let this happen, $N!  Come back to me with proof of serving the Horde in a worthy manner!",    ["Objectives"]="Bring 3 Warsong Marks of Honor to a Horde Warbringer outside the battlegrounds.",    ["Progress"]="Do you bear news from Warsong Gulch, $N?",    ["Completion"]="Excellent! You've shown your worth by defending our operations in Warsong Gulch! May word of your honor spread far and wide across our lands.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["3121"] = {    ["Title"]="A Strange Request",    ["Description"]="Neeru Fireblade in Orgrimmar has what I need to get started here! He has mixed up a concoction that I need for my... well, you'll see.$B$BOff with you now -- to Orgrimmar. Here, take this with you. It's a shrunken head that I promised Neeru in exchange for the herbs. It's the head of some poor dwarf I ventured across in the forest. I'm sure Neeru will be pleased.$B$BYou'll find Neeru in the Cleft of Shadow.",    ["Objectives"]="Take the Shrunken Head to Neeru Fireblade in Orgrimmar.",    ["Progress"]="Yes?",    ["Completion"]="I have been waiting for Uzer'i to deliver this...$B$BLet me give you the herb mixture I prepared for his... well, experiments...",    ["minlevel"]="40",    ["questlevel"]="45"},
-
-	["3122"] = {    ["Title"]="Return to Witch Doctor Uzer'i",    ["Description"]="Here are the herbs, $N. Take them to Witch Doctor Uzer'i.$B$BPlease let him know that I am satisfied with the shrunken head.",    ["Objectives"]="Deliver Neeru's Herb Pouch to Witch Doctor Uzer'i in Feralas.",    ["Progress"]="Have you spoken to Neeru?",    ["Completion"]="This is just what I need to prepare the muisek vessel, $N. Soon we will see if my latest incantations prove to be as powerful as I had hoped.$B$BPlease, a moment. I must perform the ritual and apply the herbs.",    ["minlevel"]="40",    ["questlevel"]="45"},
-
-	["3123"] = {    ["Title"]="Testing the Vessel",    ["Description"]="This will be a test; both of the ritual I performed, and of your abilities. Take this vessel, $N. With it, you will have the power to shrink and capture a creature inside of it.$B$BTravel to the Hinterlands and look for creatures known as Wildkin that were once pets of the night elf goddess Elune. The vicious, primitive, or savage owlbeasts are your targets, $N. Kill 10, and use the muisek vessel to shrink and capture them before their spirits can escape.",    ["Objectives"]="Travel to the Hinterlands, and locate the Wildkin. Kill 10, and use the Muisek Vessel to shrink and capture the fallen Wildkin.$B$BBring 10 Wildkin Muiseks and the Muisek Vessel to Witch Doctor Uzer'i in Feralas.",    ["Progress"]="Were you able to capture the wildkin?$B$BIf you succeed, we will be ready to shrink and capture the muisek of creatures of Feralas.",    ["Completion"]="Upon a violent death, the muisek of a creature may escape and seek revenge. Shrinking the creatures, as you did, $N, prevents the muisek from escaping. Now we may use it as we please!",    ["minlevel"]="40",    ["questlevel"]="47"},
-
-	["3124"] = {    ["Title"]="Hippogryph Muisek",    ["Description"]="Since you have proven that you are both trustworthy and gifted with the ability to use the muisek vessel, I now wish you to capture another creature.$B$BHippogryphs have been loyal companions to the night elves for many years; their spirits are loyal and steadfast.$B$BYour task is to kill 10 frayfeather hippogryphs, and quickly, shrink and capture them with the vessel, so that their muisek may be preserved. You will find the hippogryphs in the High Wilderness, to the south of here.",    ["Objectives"]="Kill 10 Frayfeather Hippogryphs of any type, then use the Muisek Vessel to shrink and capture them.",    ["Progress"]="Were you able to capture the hippogryphs?",    ["Completion"]="After killing an animal, if we allowed the muisek to escape, it may take the form of an even greater creature. We would never be safe from its vengeance.$B$BThis is a dangerous job I have given you, $N. Again, you have completed it well.",    ["minlevel"]="40",    ["questlevel"]="47"},
-
-	["3125"] = {    ["Title"]="Faerie Dragon Muisek",    ["Description"]="$N, next I must have you capture a creature that in appearance, may look quite fragile, yet its powerful spirit is what we are truly after. The faerie dragons that I speak of have served the night elves as their allies. We must capture one so that the horde may benefit from this strength of spirit as well.$B$BHere is the muisek, $N. Kill 8 sprite darters or sprite dragons, and capture their muisek. They may be found to the west of here.",    ["Objectives"]="Kill 8 Sprite Darters or Sprite Dragons. Use the Muisek Vessel to shrink and capture the fallen Faerie Dragons.",    ["Progress"]="Were you able to capture the muisek of the faerie dragons?",    ["Completion"]="Thank you, $N. Now the spiritual powers of the faerie dragon will be available to us.$B$BI hope you willing to perform another task for me.",    ["minlevel"]="40",    ["questlevel"]="45"},
-
-	["3126"] = {    ["Title"]="Treant Muisek",    ["Description"]="The wandering forest walkers that can be found meandering through the forest are our next target, $N. Night elves have enlisted treants as allies to fight against the horde. Their movement may be slow, but their role as protectors is undeniable.$B$BSoon we will be able to use this power for our own benefit.$B$BFind 3 wandering forest walkers; kill them, and use the muisek vessel to shrink and capture them.",    ["Objectives"]="Kill 3 Wandering Forest Walkers. Use the Muisek Vessel to shrink and capture the fallen Treants.",    ["Progress"]="Were you able to capture the wandering forest walkers?",    ["Completion"]="Thank you, $N. Our muisek collection is almost complete.",    ["minlevel"]="40",    ["questlevel"]="50"},
-
-	["3127"] = {    ["Title"]="Mountain Giant Muisek",    ["Description"]="The last task I will require of you is to travel to the northwest and find the final enemy.$B$BThe mountain giants left the mountains to aid the night elves when the burning legion appeared in the world. You will know them by their massive size and the way the ground begins to shake as you travel along their rocky terrain.$B$BI am eager to harness power of that size. Kill 7 mountain giants, then use the muisek vessel to capture their powerful muisek.",    ["Objectives"]="Kill 7 Land Walkers or Cliff Giants. Use the Muisek Vessel to shrink and capture the fallen Mountain Giants.",    ["Progress"]="Were you able to capture the mountain giants?",    ["Completion"]="Just imagine the possibilities of what we now possess, $N. Along with the materials that you have collected, I will be able to forever trap the muisek of these creatures into whatever I wish.",    ["minlevel"]="40",    ["questlevel"]="50"},
-
-	["3128"] = {    ["Title"]="Natural Materials",    ["Description"]="I will need certain materials to complete my endeavor... You may do this alongside the other tasks I will give you.$B$BI'll need a splintered log from a treant of Feralas. Encrusted minerals, these can be found on the mountain giants and faerie dragons to the west. Also, find me some resilient sinew from the owlbeasts of the Hinterlands or hippogryphs of Feralas. Finally, I'll need a large amount of metallic fragments from any of these creatures I mentioned.",    ["Objectives"]="Bring 2 Splintered Logs, 6 Encrusted Minerals, 20 pieces of Resilient Sinew, and 40 Metallic Fragments to Witch Doctor Uzer'i in Camp Mojache.",    ["Progress"]="Were you able to collect the materials I need?",    ["Completion"]="Excellent! These materials, combined with the muisek, should yield just the results we've been wanting.",    ["minlevel"]="40",    ["questlevel"]="50"},
-
-	["3129"] = {    ["Title"]="Weapons of Spirit",    ["Description"]="Imbuing the muisek into the weapons is a difficult process. Now that I have all of the required materials and the muisek of the creatures that you captured, I may begin. Please wait; I will return in a moment.",    ["Objectives"]="Witch Doctor Uzer'i wants you to wait for a moment while he prepares the weapons.",    ["Progress"]="",    ["Completion"]="As promised, you have your choice, $N. The muisek of the creatures has been forever sealed into the power of these weapons.$B$BYou may now wield their energy as your own. Use it well.",    ["minlevel"]="40",    ["questlevel"]="50"},
-
-	["3130"] = {    ["Title"]="Against the Hatecrest",    ["Description"]="At this point, I am going to direct you to my second, Latronicus.  He's been keeping a close eye on the naga forces to date.  I'll assess the general situation here in regards to the naga; as much as I want to commit a full force to move against them, leaving the stronghold open to direct attack from the Horde - or worse - seems less than optimal.$B$BAnyway, Latronicus awaits.  Good work thus far, $n.  Keep it up.$B$BYou're dismissed.",    ["Objectives"]="Report to Latronicus Moonspear in Feathermoon Stronghold.",    ["Progress"]="",    ["Completion"]="Excellent, $N - I value a \"can do\" attitude in those who I work with.$B$BI've been tasked by General Feathermoon to address the naga in a direct manner.  My plans are two fold: one, we will weaken their forces both in number and in command, and two, we will uncover what they are up to in the ruins.  With your help, we'll counter the naga presence without sacrificing the general security of the stronghold.",    ["minlevel"]="40",    ["questlevel"]="43"},
-
-	["3141"] = {    ["Title"]="Loramus",    ["Description"]="So you wish to battle demons? You would do well to listen to my tale.",    ["Objectives"]="Listen to Loramus Thalipedes tell his story.",    ["Progress"]="Do not interrupt me, $R.",    ["Completion"]="So be it...",    ["minlevel"]="45",    ["questlevel"]="57"},
-
-	["3321"] = {    ["Title"]="Did You Lose This?",    ["Description"]="You have done much for the Order, $N. The sheer dedication it takes to get this far would have turned away any ordinary person. There is no doubt in my mind, or in the mind of Galvan, that you are one of us.$B$BWhich is why I think you deserve a little reward. It is nothing really, just a trinket. You may be familiar with its properties, as I do believe it is what brought you to us in the first place.",    ["Objectives"]="Wait for Trenton to finish his work.",    ["Progress"]="Today we finalize our celebration of your commitment to the Order.",    ["Completion"]="Rise and be recognized, $N, blacksmith of the Mithril Order.",    ["minlevel"]="40",    ["questlevel"]="50"},
-
-	["3363"] = {    ["Title"]="Corrupted Songflower",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="You have found a sickly, corrupted version of what appears to be a songflower plant. A pungent, unhealthy odor emanates from the plant. It desperately needs some sort of attention if it is to be turned back to normal.",    ["Completion"]="You apply some Cenarion plant salve to the songflower. It immediately begins to shed its corrupted form, blossoming into a vibrant and healthy plant.",    ["minlevel"]="48",    ["questlevel"]="55"},
-
-	["3373"] = {    ["Title"]="The Essence of Eranikus",    ["Description"]="As you touch the gem, a deep voice resonates in your mind.$B$B\"Mortal, heed this plea.  I am Eranikus of the Green Dragonflight, keeper of this accursed temple.  My charge to ensure that the trolls never again bring forth their abomination of a god has for now ended in failure.  As I imbue this gem with part of my essence, I sense my grip on the Dream twisting into chaos.  Please - place this gem into the essence font in my lair, and let our magic there purge the taint from my psyche so that I may rest.\"",    ["Objectives"]="Place the Essence of Eranikus in the Essence Font located in this lair in the Sunken Temple.",    ["Progress"]="As you near the essence font that Eranikus told you of, his voice once again touches your mind.$B$B\"Yes mortal, this essence font will redeem what untainted element of my psyche remains imbued in this gem.  Place the gem inside the font, and let the magic of the Green Dragonflight cleanse the corruption and taint from my being.  Only then will I find true release, and only then will the Dragonflight be able to reassert their stewardship over the Atal'ai.\"",    ["Completion"]="You place the gem inside the essence font.$B$B\"Thank you mortal, you have - no... this, this cannot be! No!  The corruption of this accursed god even taints the sanctity of a Green Dragonflight essence font!  No please, I feel my essence ripping from me!  THE PAIN!  I feel the grip of an eternal nightmare taking hold on me...\"$B$B\"Mortal, I implore you!  Find one of the Green Dragonflight to stop this... help me... I am chained in darkness... forever in agony... please do not torture...\"",    ["minlevel"]="48",    ["questlevel"]="55"},
-
-	["3377"] = {    ["Title"]="Prayer to Elune",    ["Description"]="Will you assist me, mortal? Hear my tale.",    ["Objectives"]="Hear Zamael tell his tale.",    ["Progress"]="Allow me to finish my story.",    ["Completion"]="I have accepted my fate here in this cage, but the prayer must be found.",    ["minlevel"]="40",    ["questlevel"]="50"},
-
-	["3378"] = {    ["Title"]="Prayer to Elune",    ["Description"]="Will you assist me, mortal? Will you find the prayer to Elune?$B$BAs I stated, the prayer was etched onto a golden tablet. One of these idol worshipping scoundrels must have it on their person.$B$BIf you do recover my prayer, take it to Astarii Starseeker in Darnassus. It matters little that my faith has been rekindled after the countless malevolent actions that I have taken against this world and its inhabitants, but my prayer must be heard. Absolution is the last thing I expect.",    ["Objectives"]="Find the Prayer to Elune and take it to Astarii Starseeker in Darnassus.",    ["Progress"]="What brings you to the Temple of the Moon, $N?",    ["Completion"]="Elune smiles upon you this eve, $N. You have returned a lost soul to her. Please accept this as a token of our gratitude.",    ["minlevel"]="40",    ["questlevel"]="50"},
-
-	["3379"] = {    ["Title"]="Shadoweaver",    ["Description"]="The spiders of the Searing Gorge are an invaluable source of shadow silk. As you know, shadow silk is highly sought after by the artisans of our trade.$B$BRecently, a group of poachers has encroached upon these lands, carelessly slaying spiders en masse without so much as a thought as to the long term effect of their actions. The first task I ask of you, then, is a simple one: Find them... and end them.$B$BBegin your search to the north.$B$BIf you require assistance, speak with Raze.",    ["Objectives"]="Kill the group of Shadow Silk Poachers that wander the Searing Gorge. Nilith has reason to believe that there are five of them that need to be exterminated. Return to Nilith in the Searing Gorge when this task is complete.",    ["Progress"]="What information do you have?",    ["Completion"]="Excellent work, $N.$B$BI am sure that this is a piece of shadoweave that you have not yet seen.",    ["minlevel"]="40",    ["questlevel"]="50"},
-
-	["3380"] = {    ["Title"]="The Sunken Temple",    ["Description"]="There are restless spirits in this world, $N. There are spirits that have been tainted by their isolation, bound to an ancient evil...$B$BI have heard of a place that lies deep below the surface of the earth -- banished there by powers greater than I have ever seen.$B$BIf you wish to learn more of this place; the Sunken Temple, seek out a goblin named Marvon Rivetseeker. He has studied many ancient areas of the world, and was last known to have left his home in Ratchet to study the troll ruins in Tanaris.",    ["Objectives"]="Find Marvon Rivetseeker in Tanaris.",    ["Progress"]="",    ["Completion"]="Yes, the Sunken Temple, I can say that I have seen it with my own eyes. Perhaps you'd like to hear more about it?$B$BYou look like the adventurous type -- I know things that may intrigue you...",    ["minlevel"]="46",    ["questlevel"]="51"},
-
-	["3382"] = {    ["Title"]="A Crew Under Fire",    ["Description"]="We were just off the coast looking for a safe haven to make anchor. The sun hadn't been down for more than an hour when they attacked... those damned naga!$B$BI'm not sure what they were looking for, but it's clear they didn't find it--they've already come back once. A couple of my scouts are on watch at the entrance of the valley to give us fair warning when the next attack comes.$B$BI'm sorry you've come along now, $N, but it's out of my hands.$B$BAre you ready for the fight of your life?",    ["Objectives"]="Defend Captain Vanessa Beltis, her crew and the Horizon Scout's passengers against the naga attack. Captain Vanessa Beltis must survive.",    ["Progress"]="Have you met with Andron yet? He rarely leaves Undercity, so I don't think it'd be too hard to find him.",    ["Completion"]="You've done it! Thank you! Surely this was one of the most brutal battles I've ever taken part in. I can't thank you enough.$B$BI only wish more of my crew could have lived through this trial.$B$BI would ask you to speak to any surviving passengers from the Horizon Scout. Some of them had business in the area, and may have a request or two of you if you're willing. Again, thank you for all your help.",    ["minlevel"]="48",    ["questlevel"]="57"},
+	
 
 	["3385"] = {    ["Title"]="The Undermarket",    ["Description"]="They call themselves the Undermarket: Cutthroat traders that will sell, move, trade and do just about anything for the right price.$B$BIt gets worse, $N. They have set up a base of operations here in the Searing Gorge. Trade Master Kovic is heading up the operation and has close ties with the Dark Iron dwarves of the region.$B$BWe must strike hard and send a message to their leadership. Slay Trade Master Kovic and his minion Clunk. Bring back his trader's satchel when the job is done.$B$BTo the Cauldron!",    ["Objectives"]="Slay Trade Master Kovic and his minion Clunk. Retrieve the Trader's Satchel from his corpse and return it to Nilith.",    ["Progress"]="The Trade Master still lives?",    ["Completion"]="You have struck a decisive blow against the Undermarket. Their leaders will think twice before sending more cronies into the gorge.$B$BOh, and I also found nothing of use in the trader's satchel. You may keep whatever you find inside.",    ["minlevel"]="40",    ["questlevel"]="50"},
 
