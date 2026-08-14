@@ -56346,6 +56346,2775 @@ QuestTranslator_QuestData = {
     ["minlevel"]="52",
     ["questlevel"]="58",
     }, -- end Precarious Predicament
+    -- Grark Lorkrub
+    -- Lexlort -> Lexlort (MobNpcData.lua)[cite: 1]
+    -- Grark Lorkrub -> Grark Lorkrub (MobNpcData.lua)[cite: 1]
+    -- Searing Gorge -> Kavuran Yarık (ZoneData.lua)[cite: 2]
+    -- Burning Steppes -> Yanardağ Bozkırları (ZoneData.lua)[cite: 2]
+    -- Blackrock Mountain -> Karakaya Dağı (ZoneData.lua)[cite: 2]
+    ["4122"] = {
+    ["Title"]="Grark Lorkrub",
+    ["Description"]="Onu Kavuran Yarık boyunca, dağın içinden geçerek Yanardağ Bozkırları'na kadar takip ettim. O hain, günlük operasyonlarımız hakkında Karakaya orklarına hayati bilgiler verirken suçüstü yakalandı. Grark Lorkrub'dan bahsediyorum.\n\nŞimdi Yanardağ Bozkırları'nda, onların koruması altında güvenle oturuyor - ya da öyle sanıyor.\n\nBu prangaları al, YOUR_NAME. Grark'ı bul, prangaları üzerine tak ve onu Karakaya Dağı'ndan geçirerek getir. Bunu yap, bir haraç senin olsun.",
+    ["Objectives"]="Yanardağ Bozkırları'na seyahat et ve Grark Lorkrub'ı bul. Lexlort'un onun en son devasa bir Karakaya kalesinde görüldüğünü söylediğini hatırlıyorsun.\n\nGrark Lorkrub'ı bulduğunda, onu bağlamak için Torium Prangaları'nı kullan ve ardından Karakaya Dağı'ndan geçirerek Kavuran Yarık'a geri götür. Lexlort'un adamları Grark'ı gözaltına almak için diğer tarafta bekliyor olacak.",
+    ["Progress"]="",
+    ["Completion"]="Karakaya lejyonuna katılarak elde edeceğimiz gücü göremiyor musun?",
+    ["minlevel"]="52",
+    ["questlevel"]="58",
+    }, -- end Grark Lorkrub
+
+    -- The Heart of the Mountain
+    -- Watchman Doomgrip -> Nöbetçi Kıyamettutuﬂu (MobNpcData.lua)[cite: 1]
+    -- Maxwort Uberglint -> Maxwort Uberglint (MobNpcData.lua)[cite: 1]
+    -- Blackrock Depths -> Karakaya Derinlikleri (ZoneData.lua)[cite: 2]
+    -- Burning Steppes -> Yanardağ Bozkırları (ZoneData.lua)[cite: 2]
+    ["4123"] = {
+    ["Title"]="Dağın Kalbi",
+    ["Description"]="Yıllardır belirli bir mücevheri arıyorum. Adı Dağın Kalbi ve yumruğun büyüklüğünde! Kara Demir cüceleri onu kasalarında kilitli tutuyor ve ne kadar denersem deneyeyim onu satın almama izin vermiyorlar.\n\nBu yüzden güce başvurmalıyım.\n\nKarakaya Derinlikleri'nin Alt Kasası'na kadar savaşarak ilerle, gizli kasasını felt ve Kalp'i ele geçir. Bunu yapmak için Nöbetçi Kıyamettutuﬂu'nu yenmelisin ve o, kasadaki her kutsal emanet sandığını açmadan ortaya çıkmayacaktır!\n\nBol şans.",
+    ["Objectives"]="Dağın Kalbi'ni Yanardağ Bozkırları'ndaki Maxwort Uberglint'e getir.[cite: 1, 2]",
+    ["Progress"]="Dağın Kalbi yanında mı? Benim için değeri sınırsızdır.",
+    ["Completion"]="Kalp sende! İnanılmaz! Hayal ettiğimden bile daha güzel!\n\nLütfen, YOUR_NAME, bunu ödeme olarak al!",
+    ["minlevel"]="50",
+    ["questlevel"]="55",
+    }, -- end The Heart of the Mountain
+
+    -- The Missing Courier
+    -- Ginro Hearthkindle -> Ginro Ocakaşkı (MobNpcData.lua)[cite: 1]
+    -- Raschal -> Raschal (MobNpcData.lua)[cite: 1]
+    -- Feathermoon Stronghold -> Tüyayı Kalesi (ZoneData.lua)[cite: 2]
+    -- Feralas -> Feralas (ZoneData.lua)[cite: 2]
+    ["4124"] = {
+    ["Title"]="Kayıp Ulak",
+    ["Description"]="Bir çalışma arkadaşım, Ginro Ocakaşkı, bir ulağın nerede olduğu ve taşıdığı paketlerle ilgili yardım arıyor. Ulağın kaybolmasından bu yana yaklaşık bir hafta geçti; kendi aramalarımız sonuçsuz kaldı ve bir çıkmaza girdik. Ne yazık ki ulağı görev başında kayıp ilan etmek zorunda kaldım.\n\nAramak için zamanın ve kaynağın varsa lütfen Ginro ile konuş. Burada, Kale'de olmalı - belki de kendi odasındadır.",
+    ["Objectives"]="Tüyayı Kalesi'ndeki Ginro Ocakaşkı ile konuş.[cite: 1, 2]",
+    ["Progress"]="",
+    ["Completion"]="Latro seni bana gönderdi sanırım. Bu noktada umutsuz bir vaka olduğunu düşünsem de, sunabileceğin her türlü yardımı kabul edeceğim. İtiraf etmeliyim ki... Bu konuda zihnimi rahata kavuşturabildiğimde mutlu olacağım. Her gün Raschal'ın izlerini aramak için Feralas'ın vahşi doğasına çıkıyorum ve her gece gnoll dişleri ve hayal kırıklığından başka gösterecek bir şey olmadan geri dönüyorum.",
+    ["minlevel"]="40",
+    ["questlevel"]="43",
+    }, -- end The Missing Courier
+
+    -- The Missing Courier
+    -- Raschal -> Raschal (MobNpcData.lua)[cite: 1]
+    -- General Feathermoon -> General Tüyayı (MobNpcData.lua)[cite: 1]
+    -- Thalanaar -> Thalanaar (ZoneData.lua)[cite: 2]
+    -- Feralas -> Feralas (ZoneData.lua)[cite: 2]
+    -- Feathermoon Stronghold -> Tüyayı Kalesi (ZoneData.lua)[cite: 2]
+    ["4125"] = {
+    ["Title"]="Kayıp Ulak",
+    ["Description"]="Ulak Raschal'ın Thalanaar'a doğru yola çıkmasının üzerinden yaklaşık bir hafta geçti. Feralas'ı iyi bilir; General Tüyayı keşif güçlerini buraya getirdiğinden beri bizimle birlikte. Planının, Horde ordugahından kaçınmak için kıyıdan aşağı bir sandal götürmek ve güney Feralas'ı geçmeye çalışmak olduğunu biliyorum.\n\nSandalını bulamadım ama belki sen bulabilirsin. Belki gizlenmiştir ya da belki batırılmıştır. Ne olursa olsun, nerede olduğuna dair bir ipucu barındırabilir. Bir şey ortaya çıkarırsan lütfen bana haber ver.",
+    ["Objectives"]="Feralas kıyısı boyunca bir yerde ulağın sandalını bul.[cite: 2]",
+    ["Progress"]="",
+    ["Completion"]="Enkaz haline gelmiş bir sandal buldun. Hafif çamurlu suyun içinden iskele tarafını delik deşik eden devasa delikler görüyorsun; sandal neredeyse basit ahşap iskeletine kadar parçalanmış. Bu sandalı kıran şey her neyse, olasılıkla onu ikiye bölmeye çalışmış. Sancak tarafında Tüyayı Kalesi'nin küçük bir arması boyanmış.\n\nSandalın tabanındaki çamurda, metalik bir şeyin parıltısı gözüne çarpıyor...",
+    ["minlevel"]="40",
+    ["questlevel"]="43",
+    }, -- end The Missing Courier
+
+    -- Hurley Blackbreath
+    -- Hurley Blackbreath -> Hurley Karanefes (MobNpcData.lua)[cite: 1]
+    -- Ragnar Thunderbrew -> Ragnar Yıldırımbira (MobNpcData.lua)[cite: 1]
+    -- Blackrock Depths -> Karakaya Derinlikleri (ZoneData.lua)[cite: 2]
+    -- Burning Steppes -> Yanardağ Bozkırları (ZoneData.lua)[cite: 2]
+    -- Kharanos -> Kharanos (ZoneData.lua)[cite: 2]
+    ["4126"] = {
+    ["Title"]="Hurley Karanefes",
+    ["Description"]="Kötü adam Hurley Karanefes liderliğindeki Kara Demir cüceleri, Yıldırımbira ailesinin en iyi tariflerinden biri olan Yıldırımbira Birası'nı çaldı. Aşağılık herifler! Böyle harika bir birayı hak etmiyorlar!\n\nYOUR_NAME, senin için zor bir görevim var. Yanardağ Bozkırları'ndaki Karakaya Derinlikleri'ne git, bulduğun tüm Yıldırımbira Birası fıçılarını yok et ve Yıldırımbira Birası tarifimizi geri getir!\n\nLütfen, Karakaya Derinlikleri'ni altüst etmek zorunda kalsan bile o tarifi geri al!",
+    ["Objectives"]="Kayıp Yıldırımbira Tarifi'ni Kharanos'taki Ragnar Yıldırımbira'ya getir.[cite: 1, 2]",
+    ["Progress"]="Tarif yanında mı, YOUR_NAME? O Kara Demir cücelerinin ailemin içkisini içmesi fikrine katlanamıyorum!",
+    ["Completion"]="Buldun! Aferin! Ve umarım o Kara Demirler ile Hurley Karanefes'e iyi bir kötek atmışsındır!\n\nYıldırımbira ailesi hizmetindedir, YOUR_NAME. Kahramanlar kahramanısın!",
+    ["minlevel"]="50",
+    ["questlevel"]="55",
+    }, -- end Hurley Blackbreath
+
+    -- Boat Wreckage
+    -- Ginro Hearthkindle -> Ginro Ocakaşkı (MobNpcData.lua)[cite: 1]
+    -- Feathermoon Stronghold -> Tüyayı Kalesi (ZoneData.lua)[cite: 2]
+    ["4127"] = {
+    ["Title"]="Sandal Enkazı",
+    ["Description"]="Elini çamur boyunca gezdirdiğinde parmakların bir bıçağın sapına değiyor. Bakımlı görünüyor ve sandalda her kim vardıysa onu kaybetmiş olduğunu varsaymak güvenli olabilir. Belki de kayıp sandalın büyük parçası bu kayıpla bir ilgisi olabilir.\n\nBıçağı kavrıyorsun, Tüyayı Kalesi'ndeki Ginro Ocakaşkı'nın bulunan her türlü ipucuyla kendisine dönmeni tembihlediğini hatırlıyorsun. Ancak suda tamamen yalnız olmadığını hissediyorsun...",
+    ["Objectives"]="Tüyayı Kalesi'ne dön ve bulduğun Atılmış Bıçak'ı Ginro Ocakaşkı'na göster.[cite: 1, 2]",
+    ["Progress"]="Ah, tekrar hoş geldin YOUR_NAME. Ne kadar trajik olursa olsun, Raschal'ın nihayi kaderine dair bir ipucu ortaya çıkarabildiğini umuyorum.",
+    ["Completion"]="İlginç... Bunun Raschal'ın bıçağı olduğuna inanıyorum. Sandalıyla birlikte suyun dibinde bulduğunu mu söylüyorsun? Şey, sadece bıçağın keşfi bunu Raschal'ın kayboluşuna bağlamak için yeterli olmayabilir; ancak daha fazlasını öğrenmeye çalışmak için kullanabileceğimiz alışılmadık bir seçeneğimiz var.\n\nHiç psikometriyi duydun mu?",
+    ["minlevel"]="40",
+    ["questlevel"]="44",
+    }, -- end Boat Wreckage
+
+    -- Ragnar Thunderbrew
+    -- Ragnar Thunderbrew -> Ragnar Yıldırımbira (MobNpcData.lua)[cite: 1]
+    -- Kharanos -> Kharanos (ZoneData.lua)[cite: 2]
+    -- Dun Morogh -> Dun Morogh (ZoneData.lua)[cite: 2]
+    ["4128"] = {
+    ["Title"]="Ragnar Yıldırımbira",
+    ["Description"]="Selam, YOUR_NAME. Ragnar Yıldırımbira'nın birisinin birasını çalmasına köpürdüğünü duydum. Sadık maceracılar arıyor ve bolca ödeme yapmaya razı.\n\nİlgileniyorsan Ragnar ile konuş. Dun Morogh'daki Kharanos'ta bulunan Yıldırımbira İmalathanesi'nde.",
+    ["Objectives"]="Ragnar Yıldırımbira ile konuş.[cite: 1]",
+    ["Progress"]="",
+    ["Completion"]="Kızgın olmakta haklıyım! Soyuldum! Aile tariflerimizden biri çalındı! Nasıl cüret ederler! Sanki Kara Demir cücelerinden nefret etmek için yeterli sebebim yokmuş gibi! Şimdi, oh... Şimdi yandılar!",
+    ["minlevel"]="50",
+    ["questlevel"]="55",
+    }, -- end Ragnar Thunderbrew
+
+    -- The Knife Revealed
+    -- Quintis Jonespyre -> Quintis Jonespyre (MobNpcData.lua)[cite: 1]
+    -- Kalimdor Hold 'Em -> Kalimdor Hold 'Em
+    ["4129"] = {
+    ["Title"]="Bıçak Ortaya Çıktı",
+    ["Description"]="Kale'nin yerleşik druidi Quintis Jonespyre'ın bazı... Sıra dışı yetenekleri var. Bunlardan biri psikometri - bir eşyanın geçmişini dokunarak ortaya çıkarma yeteneği. Bunu nasıl yaptığını bana sorma; bunu anlamadığım ve anlamamayı seçtiğim bir büyüye bağlıyorum. Ancak iki şey biliyorum: Birincisi, çalıştığını gördüm ve ikincisi, otlakçının bana borcu var.\n\nBıçağı buradaki küçük ağaç evindeki Quint'e götür ve ona benim için, bıçak üzerinde büyüsünü çalıştırırsa Kalimdor Hold 'Em borcunun silineceğini söyle.",
+    ["Objectives"]="Atılmış Bıçak'ı Tüyayı Kalesi'ndeki Quintis Jonespyre'a götür.[cite: 1, 2]",
+    ["Progress"]="Ginro seni gönderdi, ha?\n\nPsikometrik okumalarım ruhu epey yorar... Ama Kalimdor Hold 'Em'deki kayıplarım da öyle. Buradaki Kale'de bana \"Kötü El Kralı\" derler. Kartlarda şanssızım... Doğanın sırlarında ustalaşmada şanslıyım sanırım.\n\nNeyse, elbette yapacağım. Bu Raschal'ın kaderini ortaya çıkarmak için ihtiyacımız olan kırılma noktası olabilir. Bıçağı bana uzatırsan başlayabiliriz.",
+    ["Completion"]="Teşekkür ederim, YOUR_NAME.\n\nPsikometri hayal gücünün hiçbir tanımıyla kesin bir sanat olmasa da, geçmişte başkalarının umutsuz vaka olarak gördüğü durumlara ışık tutmak için kullandım. Ortaya çıkardığın bıçak üzerinde kullanmanın Raschal'a ne olduğuna dair bize bir anlık görüntü vereceğini düşünüyorum.\n\nYapması sadece bir dakika sürecek ama büyücüler için pek de kolay bir görev olduğu söylenemez. Bu konuda bana biraz müsamaha göster.",
+    ["minlevel"]="40",
+    ["questlevel"]="44",
+    }, -- end The Knife Revealed
+
+    -- Psychometric Reading
+    -- Raschal -> Raschal (MobNpcData.lua)[cite: 1]
+    -- Woodpaw -> Ahşappençe
+    -- Gin -> Gin (MobNpcData.lua)[cite: 1]
+    -- Feathermoon Stronghold -> Tüyayı Kalesi (ZoneData.lua)[cite: 2]
+    ["4130"] = {
+    ["Title"]="Psikometrik Okuma",
+    ["Description"]="Hâlâ biraz sendeliyorum, üzgünüm. Neyse, bazı yararlı görüler aldım.\n\nRaschal sandalından iki büyük deri sırt çantası alıp karaya çıkıyor; ancak sandala geri dönüyor. Gnoll kafa derileri görüyorum... Bazı gnoll'lara rastlamış - sanırım Ahşappençe deniyor onlara. Bir şey hakkında çok endişeli - neredeyse dehşete düşmüş. O kadar ki, arkasında oluşan su elementallerine dikkat etmiyor. Görüntüler... Orada duruyor.\n\nDinlenmem gerek, üzgünüm YOUR_NAME. Gin'e ne gördüğümü anlat. Bilmesi gerekiyor.",
+    ["Objectives"]="Tüyayı Kalesi'ndeki Ginro Ocakaşkı ile konuş.[cite: 1, 2]",
+    ["Progress"]="",
+    ["Completion"]="Quint'in görülerini bana ilettiğin için teşekkürler, YOUR_NAME. Bir dahaki sefere kart oynadığımızda ona biraz daha yumuşak davranmayı hatırlamaya çalışacağım.\n\nRaschal bir dövüşte kendini koruyabilir ve gnoll'lar onu endişelendirecek -hayır, dehşete düşürecek- bir şey değildir. Yine de, belki sen ve arkadaşların bu yeni bilgiye dayanarak hareket edebilir ve umutsuzca ihtiyacımız olan kırılma noktasını yaratabilirsiniz.",
+    ["minlevel"]="40",
+    ["questlevel"]="44",
+    }, -- end Psychometric Reading
+
+    -- The Woodpaw Gnolls
+    -- Raschal -> Raschal (MobNpcData.lua)[cite: 1]
+    -- Quint -> Quint (MobNpcData.lua)[cite: 1]
+    -- Woodpaw -> Ahşappençe
+    -- Feralas -> Feralas (ZoneData.lua)[cite: 2]
+    ["4131"] = {
+    ["Title"]="Ahşappençe Gnoll'ları",
+    ["Description"]=[[\"Dostlarımız\" Ahşappençe'ler sonunda Raschal'ı ele geçirmiş olabilir ama bir his bana olanların bu olmadığını söylüyor. Yine de aramaya başlamak için en iyi yerdeler.\n\nNe yapacağımız konusunda daha net bir görüşe sahip olmayı dilerdim ama şu anda tek sahip olduğum şey 'Ahşappençe ordugahlarını ara - git.' Gnoll'ların topladıkları eşyaları saklayacaklarını ve onlar için dövüşeceklerini biliyorum; belki de Quint'in bahsettiği sırt çantalarına rastlamışlardır. Geçmiş aramalarda doğrudan bir dövüşü göze almamıştım ama Quint'in bu konudaki görüsüyle 'saldırın' diyorum."]],
+    ["Objectives"]="Ulağın eşyalarına veya ulağın kendisine dair bir kanıt için güney Feralas'taki Ahşappençe Gnoll ordugahlarını ara.[cite: 2]",
+    ["Progress"]="",
+    ["Completion"]="Yakındaki bir ağaca çakılmış iki büyük deri sırt çantası duruyor. Her birinin ön tarafında Tüyayı Kalesi'nin küçük bir arması yer alıyor...",
+    ["minlevel"]="40",
+    ["questlevel"]="44",
+    }, -- end The Woodpaw Gnolls
+
+    -- Operation: Death to Angerforge
+    -- General Angerforge -> General Gazapörsü (MobNpcData.lua)[cite: 1]
+    -- Warlord Goretooth -> Savaşlordu Kanlıdiş (MobNpcData.lua)[cite: 1]
+    -- Blackrock -> Karakaya (ZoneData.lua)[cite: 2]
+    -- Blackrock Depths -> Karakaya Derinlikleri (ZoneData.lua)[cite: 2]
+    ["4132"] = {
+    ["Title"]="Operasyon: Gazapörsü'ne Ölüm",
+    ["Description"]="Örnek bir iş çıkardın, YOUR_NAME. Şimdi seni son görevine gönderme zamanı.\n\nK.K.G.'nin 109. tümenine yapılan saldırıları ve kuvvetlerimizin toplu katliamını koordine etmekten sorumlu Kara Demir olan General Gazapörsü adalete teslim edilmeli.\n\nBu şüphesiz en yorucu görevin olacak ama başarılı olursan cömertçe ödüllendirileceksin.",
+    ["Objectives"]="Karakaya Derinlikleri'ne seyahat et ve General Gazapörsü'nü katlet! İş tamamlandığında Savaşlordu Kanlıdiş'e dön.[cite: 1, 2]",
+    ["Progress"]="Karakaya Kasabı ortadan kaldırıldı mı?",
+    ["Completion"]="Sonunda! Kötü adam adalete teslim edildi! Sen olağanüstü bir bireysin, YOUR_NAME. Horde'a ve K.K.G.'ye olan sarsılmaz adanmışlığının bir sembolü olarak bu madalyonu tak.",
+    ["minlevel"]="52",
+    ["questlevel"]="58",
+    }, -- end Operation: Death to Angerforge
+
+    -- Vivian Lagrave
+    -- Vivian Lagrave -> Vivian Lagrave (MobNpcData.lua)[cite: 1]
+    -- Badlands -> Çorak Topraklar (ZoneData.lua)[cite: 2]
+    -- Kargath -> Kargath (ZoneData.lua)[cite: 2]
+    -- Blackrock Depths -> Karakaya Derinlikleri (ZoneData.lua)[cite: 2]
+    ["4133"] = {
+    ["Title"]="Vivian Lagrave",
+    ["Description"]="Gölgeüstadı Vivian Lagrave'in hizmetlerine ihtiyacı var. Çorak Topraklar'da, ork karakolu Kargath'ta, Karakaya Derinlikleri'nin Kara Demir cüceleri tarafından yapılan belirli bir bira hakkındaki söylentilerin peşinde.\n\nVivian ile konuş. Seni bekliyor.",
+    ["Objectives"]="Kargath'taki Gölgeüstadı Vivian Lagrave ile konuş.[cite: 1, 2]",
+    ["Progress"]="",
+    ["Completion"]="Geldiğin için teşekkür ederim, YOUR_NAME. Burası sert bir çekicilikten yoksun değil ama Eczane'nin imkanlarından yoksun.\n\nNezaket cümlelerini bırakalım. İşe dönelim, değil mi?",
+    ["minlevel"]="50",
+    ["questlevel"]="55",
+    }, -- end Vivian Lagrave
+
+    -- Lost Thunderbrew Recipe
+    -- Hurley Blackbreath -> Hurley Karanefes (MobNpcData.lua)[cite: 1]
+    -- Vivian Lagrave -> Vivian Lagrave (MobNpcData.lua)[cite: 1]
+    -- Blackrock Depths -> Karakaya Derinlikleri (ZoneData.lua)[cite: 2]
+    -- Kargath -> Kargath (ZoneData.lua)[cite: 2]
+    ["4134"] = {
+    ["Title"]="Kayıp Yıldırımbira Tarifi",
+    ["Description"]="Kara Demir Hurley Karanefes'in bir bira tarifini çaldığı söyleniyor. Yıldırımbira Birası olan bu biranın, içen kişiye büyük bir güç ve cesaret aşıladığı söylenir. Bu içkiyi incelemek istiyoruz. Belki de onun meziyetleri için başka uygulamalar bulabiliriz... Terkedilmişlerin hedefleriyle daha uyumlu uygulamalar.\n\nKarakaya Derinlikleri'ne in, Hurley'i bul, Yıldırımbira Birası tarifini ondan al ve bana getir.\n\nVe onu bulmak için değerli birasını tehdit ederek onu cezbetmen gerekebilir.",
+    ["Objectives"]="Kayıp Yıldırımbira Tarifi'ni Kargath'taki Vivian Lagrave'e getir.[cite: 1, 2]",
+    ["Progress"]="Yıldırımbira Birası tarifi yanında mı, YOUR_NAME?",
+    ["Completion"]="Çok iyi. İncelenmesi için bu tarifi Eczane'ye göndereceğim ve zamanla sırlarını çözeceğiz. Bir gün İttifak'ın cüceleri bu içeceğin meziyetlerinin kendilerine karşı kullanıldığını görebilirler!\n\nBunu son derece eğlenceli buluyorum. Belki de ölüm insanın mizah anlayışını etkiliyordur... Ne dersin?",
+    ["minlevel"]="50",
+    ["questlevel"]="55",
+    }, -- end Lost Thunderbrew Recipe
+
+    -- The Writhing Deep
+    -- Thalanaar -> Thalanaar (ZoneData.lua)[cite: 2]
+    -- Writhing Deep -> Kıvranan Derinlik
+    ["4135"] = {
+    ["Title"]="Kıvranan Derinlik",
+    ["Description"]="Sırt çantalarının içinde iki eşya var: İlki Thalanaar'a gidecek eşyalardan oluşan bir paket, ikincisi ise bilinmeyen bir okuyucuya alelacele yazılmış bir not.\n\nNot, gnoll ordugahlarının güneyinde Kıvranan Derinlik adı verilen bir yerde böcek benzeri sinsi yaratıkların keşfedildiğini anlatıyor. Yazar, tüm Feralas için ciddi bir tehditmiş gibi bunu bizzat inceleme ihtiyacı hissetmiş. Not 'Tüyayı'ndan Raschal' olarak imzalanmış.\n\nGörünüşe göre Raschal'ın en son nereye gittiğini tespit ettin.",
+    ["Objectives"]="Raschal'ın bilinen son yeri keşfedildiğine göre, Kıvranan Derinlik'te onu veya kalıntılarını aramaya devam et. Nota göre Ahşappençe gnoll ordugahlarının güneyinde yer alıyor.[cite: 2]",
+    ["Progress"]="",
+    ["Completion"]="Uzaylı doğasına sahip büyük bir koza keşfettin. Dokusu mukuslu görünüyor, ancak rastgele kısımlarından sertleşmiş çıkıntılar uzanıyor. Kozanın kendisi, bir insansı varlığı kolayca içine alacak yükseklik ve genişlikte... Ve kozanın zarından görünen hafif insansı şekilden, gerçekten içine hapsettiği şeyin bu olduğu sonucuna varıyorsun.",
+    ["minlevel"]="40",
+    ["questlevel"]="46",
+    }, -- end The Writhing Deep
+
+    -- Ribbly Screwspigot
+    -- Ribbly -> Ribbly (MobNpcData.lua)[cite: 1]
+    -- Baron Revilgaz -> Baron Revilgaz (MobNpcData.lua)[cite: 1]
+    -- Yuka Screwspigot -> Yuka Screwspigot (MobNpcData.lua)[cite: 1]
+    -- Booty Bay -> Ganimet Körfezi (ZoneData.lua)[cite: 2]
+    -- Blackrock Depths -> Karakaya Derinlikleri (ZoneData.lua)[cite: 2]
+    -- Burning Steppes -> Yanardağ Bozkırları (ZoneData.lua)[cite: 2]
+    ["4136"] = {
+    ["Title"]="Ribbly Screwspigot",
+    ["Description"]="Kardeşim Ribbly her zaman ailesi için bir yük oldu, paramızı alıp birbiri ardına planlara harcadı.\n\nŞey, son planı en kötüsü olmuş olmalı çünkü Ganimet Körfezi'nden Baron Revilgaz zavallı Ribbly'nin başına ödül koydu. Bunun Screwspigot'ları ne kadar mutlu ettiğini anlatamam! Küçük Ribbly'miz sonunda bir şeye değdi!\n\nAma şimdi Karakaya Derinlikleri'nin derinliklerinde saklanıyor. Lütfen onu bul ve bana getir!\n\nYada gelemiyorsa bu da sorun değil... Sadece kafasını getir.",
+    ["Objectives"]="Ribbly'nin Kafası'nı Yanardağ Bozkırları'ndaki Yuka Screwspigot'a getir.[cite: 1, 2]",
+    ["Progress"]="Ribbly yanında mı? Ya da en azından bir parçası?",
+    ["Completion"]="Aha! Onu buldun! Ve... Görünüşe göre küçük kardeşim sessizce gelmek istememiş. Yazık. Onu Revilgaz'a teslim etme planlarımızı söylediğimde yüzündeki ifadeyi görmek isterdim.\n\nTeşekkür ederim, YOUR_NAME. Ailemi çok mutlu ettin. Ve Ribbly hiç şimdi olduğu kadar huzurlu görünmemişti.",
+    ["minlevel"]="48",
+    ["questlevel"]="53",
+    }, -- end Ribbly Screwspigot
+
+    -- Muigin and Larion
+    -- Larion -> Larion (MobNpcData.lua)[cite: 1]
+    -- Muigin -> Muigin (MobNpcData.lua)[cite: 1]
+    ["4141"] = {
+    ["Title"]="Muigin ve Larion",
+    ["Description"]="Şuradaki Larion'u görüyor musun? Burada olmamız O'NUN suçu!\n\nOna yanlış yoldan gittiğimizi söyledim ama dinler miydi? Ve benimle konuşmayanın o olduğuna inanabiliyor musun? Şey, fikrini değiştirene kadar onunla biraz eğlenelim.\n\nEtraftaki garip bitki benzeri yaratıkları fark ettin mi? Gerçekten dertten başka bir şey değiller ama doğru eğitilirlerse komutlara uymalarını sağlayabileceğimi düşünüyorum.\n\nAncak ilk olarak incelemek için bazı örneklere ihtiyacım olacak. Biraz toplayabileceğini düşünüyor musun?",
+    ["Objectives"]="15 Kanyaprağı topla ve Muigin'e dön.[cite: 1]",
+    ["Progress"]="Larion hak ettiğini bulacak, bu kesin!",
+    ["Completion"]="Umarım sana fazla sorun çıkarmamışlardır, YOUR_NAME. Onlardan uzak durmaya çalışıyorum -- vahşiler!\n\nBirinin üzerinden atlamaya çalıştım... Bana saldırdı! Bitkiler böyle davranmamalı!",
+    ["minlevel"]="47",
+    ["questlevel"]="52",
+    }, -- end Muigin and Larion
+
+    -- A Visit to Gregan
+    -- Muigin -> Muigin (MobNpcData.lua)[cite: 1]
+    -- Gregan Brewspewer -> Gregan Demlemeatıcı (MobNpcData.lua)[cite: 1]
+    -- Feralas -> Feralas (ZoneData.lua)[cite: 2]
+    -- Ironforge -> Demirocak (ZoneData.lua)[cite: 2]
+    ["4142"] = {
+    ["Title"]="Gregan'a Bir Ziyaret",
+    ["Description"]="Bunu nasıl yorumlayacağımdan pek emin değilim, YOUR_NAME. Bitkiler... Asgari bir zekaya sahipler gibi görünüyor.\n\nYine de uzman değilim. Ama olan birini biliyorum!\n\nKuzey Feralas'a git ve Gregan Demlemeatıcı adındaki bir arkadaşımı ara. Bu tür konularda uzmandır.\n\nGregan'ın burada bize yardım edebileceğinden eminim. Onu vahşi doğada bulacaksın; büyük bir şehirde yaşayacak biri değildir.",
+    ["Objectives"]="Feralas'taki Gregan Demlemeatıcı'ya bir Kanyaprağı götür.[cite: 1, 2]",
+    ["Progress"]="Burada ormanda yaşıyorum... Huzurlu.\n\nŞey, en azından öyle olacağını düşünmüştüm. Demirocak'ta yaşarken olduğundan daha fazla ziyaretçim var!",
+    ["Completion"]="Kanyaprağı, ha? Hmmm... Şey, planı açıklasan iyi olur, sonra sana yardım edip edemeyeceğimi söylerim.",
+    ["minlevel"]="47",
+    ["questlevel"]="52",
+    }, -- end A Visit to Gregan
+
+    -- Haze of Evil
+    -- Muigin -> Muigin (MobNpcData.lua)[cite: 1]
+    -- Larion -> Larion (MobNpcData.lua)[cite: 1]
+    -- Swamp of Sorrows -> Kederler Bataklığı (ZoneData.lua)[cite: 2]
+    -- Un'Goro Crater -> Un'Goro Krateri (ZoneData.lua)[cite: 2]
+    -- Atal'Hakkar -> Atal'Hakkar
+    ["4143"] = {
+    ["Title"]="Kötülüğün Puslu Havası",
+    ["Description"]="Sana gerçeği söylemek gerekirse, YOUR_NAME, yolculuklarımda hiç böyle bitkiler görmedim. Belki de bu kratere bir yolculuk yapmalıyım...\n\nHer neyse, Muigin'in aradığı şeyi bildiğimi düşünüyorum -- Atal'ai pusu. İğrenç bir şeydir, toplanması zordur ama küçük canavarları kontrol etmek için tam da ihtiyacı olan şeydir.\n\nKederler Bataklığı'ndaki Atal'Hakkar tapınağını ziyaret etmen gerekecek. Atal'ai Pusu oradaki derin süzülenlerden, çamur solucanlarından veya balçıklardan toplanabilir. Bol şans, YOUR_NAME!",
+    ["Objectives"]="5 Atal'ai Pusu örneği topla, ardından Un'Goro Krateri'ndeki Muigin'e dön.[cite: 1, 2]",
+    ["Progress"]="Larion hâlâ benimle konuşmuyor! Kin tutmayı kesinlikle biliyor.",
+    ["Completion"]="İtiraf ediyorum, o şeye dokunmaktan biraz çekiniyorum, YOUR_NAME! Ama Gregan işe yarayacağını söylüyorsa, bir denemeye razıyım!",
+    ["minlevel"]="47",
+    ["questlevel"]="52",
+    }, -- end Haze of Evil
+
+    -- Bloodpetal Sprouts
+    -- Larion -> Larion (MobNpcData.lua)[cite: 1]
+    ["4144"] = {
+    ["Title"]="Kanyaprağı Filizleri",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="İşte plan, YOUR_NAME: Dışarı çıkıp biraz kanyaprağı filizi topla -- bilirsin, henüz tam olarak filizlenmemiş bitkiler -- ve buraya getir. Sonra Atal'ai pusunun ne yapabileceğini göreceğim.\n\nIntikamcı olduğumu düşünebilirsin... Aslında bunda haklı olursun!\n\nGerçek şu ki, buradan çıkış yolunu biliyorum ama Larion haklı olduğumu kabul edene kadar tam burada kalıyorum!\n\nHadi bakalım, git o kanyaprağı filizlerini bul ve biraz eğlenelim!",
+    ["Completion"]="İşte başlıyoruz, YOUR_NAME! Bu Larion'un dikkatini çekecek!",
+    ["minlevel"]="47",
+    ["questlevel"]="53",
+    }, -- end Bloodpetal Sprouts
+
+    -- Larion and Muigin
+    -- Muigin -> Muigin (MobNpcData.lua)[cite: 1]
+    -- Larion -> Larion (MobNpcData.lua)[cite: 1]
+    -- Marshal's Refuge -> Marshal Sığınağı (ZoneData.lua)[cite: 2]
+    ["4145"] = {
+    ["Title"]="Larion ve Muigin",
+    ["Description"]="Şuradaki Muigin'i görüyor musun? Kaybolmamız O'NUN suçu!\n\nYolu bilen bendim ama bir kestirme bildiğini iddia etti ve sonunda buraya düştük!\n\nDaha da kötüsü, şimdi beni rahatsız etmek için çılgın bitki zararlılarını gönderip duruyor. O kadar kızgınım ki yakın zamanda onunla konuşmayı planlamıyorum ama bu zararlılarla başa çıkmak çok fazla.\n\nNeden ilk iş olarak tedarikini sınırlandırmaya çalışmıyoruz. Dışarı çık ve biraz Kanyaprağı avla, sonra bana dön.",
+    ["Objectives"]="Marshal Sığınağı'ndaki Larion için 5 Kanyaprağı Kırbaçlayıcısı, 5 Kanyaprağı Harmanlayıcısı, 5 Kanyaprağı Yüzücüsü ve 5 Kanyaprağı Tuzakçısı avla.[cite: 1, 2]",
+    ["Progress"]="Muigin onunla tekrar konuşmamdan önce özür dilemeli!",
+    ["Completion"]="Yardımın için teşekkürler, YOUR_NAME, ama korkarım kötü haberlerim var...",
+    ["minlevel"]="47",
+    ["questlevel"]="52",
+    }, -- end Larion and Muigin
+
+    -- Zapper Fuel
+    -- Marvon -> Marvon (MobNpcData.lua)[cite: 1]
+    -- Larion -> Larion (MobNpcData.lua)[cite: 1]
+    -- Atal'Hakkar -> Atal'Hakkar
+    -- Marshal's Refuge -> Marshal Sığınağı (ZoneData.lua)[cite: 2]
+    ["4146"] = {
+    ["Title"]="Böcek Öldürücü Yakıtı",
+    ["Description"]="Şanslısın, YOUR_NAME! Marvon yokken kendi deneylerimden bazıları üzerinde çalışıyordum ve bunlardan biri kısa menzilli bir böcek öldürücüdür. Sadece birkaç ayarlamayla o Kanyaprağı zararlılarından kurtulmak için harika olmalı.\n\nBöcek öldürücü prototiplerimden birini sana verebilirim ama yine de yakıtı toplaman gerekecek. Böcek öldürücünün ihtiyaç duyduğu gerekli Atal'ai pusunu Atal'Hakkar tapınağından alabilirsin. Derin süzülenler, çamur solucanları veya balçıklar onu alabileceğin yaratıklardır.",
+    ["Objectives"]="Doldurulmamış Böcek Öldürücü'yü ve 5 Atal'ai Pusu örneğini Marshal Sığınağı'ndaki Larion'a teslim et.[cite: 1, 2]",
+    ["Progress"]="Bu yorucu, YOUR_NAME. O şeyler beni yalnız bırakmıyor!",
+    ["Completion"]="Demek Marvon etrafta yoktu? Her neyse, ne getirdiğini göster bakalım.",
+    ["minlevel"]="47",
+    ["questlevel"]="52",
+    }, -- end Zapper Fuel
+
+    -- Marvon's Workshop
+    -- Muigin -> Muigin (MobNpcData.lua)[cite: 1]
+    -- Marvon -> Marvon (MobNpcData.lua)[cite: 1]
+    -- Ratchet -> Ratchet (ZoneData.lua)[cite: 2]
+    -- Tanaris -> Tanaris (ZoneData.lua)[cite: 2]
+    ["4147"] = {
+    ["Title"]="Marvon'un Atölyesi",
+    ["Description"]="Muigin'in ne yaptığını dikizlemeyi başardım ve kahrolası şeyleri tam orada yetiştiriyor!\n\nBence buradaki tek çözüm... Hayır, gidip onunla konuşmak değil... Ne düşünüyorsun? Çözüm karşı koymak!\n\nRatchet'ta atölyesi olan arkadaşım Marvon'un yardımına ihtiyacımız olacak. Bize yardımcı olacak bir tür cihaz yaratabileceğinden eminim.",
+    ["Objectives"]="Ratchet'taki Marvon Perçinarayan'ın atölyesine git.[cite: 1, 2]",
+    ["Progress"]="",
+    ["Completion"]="Marvon uzun zamandır yok, YOUR_NAME. Bazı antik troll harabelerini incelemek için Tanaris'e gitti.\n\nŞimdi, neye ihtiyacın olduğunu söylemiştin?",
+    ["minlevel"]="47",
+    ["questlevel"]="52",
+    }, -- end Marvon's Workshop
+
+    -- Bloodpetal Zapper
+    -- Muigin -> Muigin (MobNpcData.lua)[cite: 1]
+    ["4148"] = {
+    ["Title"]="Kanyaprağı Böcek Öldürücüsü",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Böcek öldürücünün çalışması için hedef yaratıktan bir örneğe ihtiyacı var. Kratere git ve bir kanyaprağı filizi topla. Sonra onu Muigin'in küçük arkadaşları üzerinde çalışacak şekilde kalibre edebilirim...\n\nBu kadar inatçı olmasaydı, çoktan evimize dönüyor olabilirdik... Ama o zamana kadar, küçük şakasının beni hiç rahatsız etmediğini ona göstermem gerekecek!",
+    ["Completion"]="Bu mükemmel çalışacak gibi görünüyor, YOUR_NAME. Şimdi unutma, etrafta o zararlılardan herhangi birini görürsen, o böcek öldürücüyü kullanmaktan çekinme!",
+    ["minlevel"]="47",
+    ["questlevel"]="53",
+    }, -- end Bloodpetal Zapper
+
+    -- Recipe of the Kaldorei
+    -- Zarrin -> Zarrin (MobNpcData.lua)[cite: 1]
+    -- Dolanaar -> Dolanaar (ZoneData.lua)[cite: 2]
+    ["4161"] = {
+    ["Title"]="Kaldorei Tarifi",
+    ["Description"]="Uzun zaman önce gece elflerine \"yıldızların çocukları\" anlamına gelen kaldorei adı verilirdi. Geçmişi öğrenmek bir YOUR_CLASS olarak yolundaki önemli bir adımdır, YOUR_NAME, bu yüzden sana söyleyeceklerimi iyi dinle.\n\nKaldorei, doğayla olan uyumlu ilişkisinden her zaman büyük gurur duymuştur. Bu, doğadan sadece gerekli olanı aldığımız ve aynı şekilde geri verdiğimiz anlamına gelir. Bu denge bize çok şey kazandırdı, YOUR_NAME.\n\nDışarı çık ve yedi küçük örümcek bacağı topla -- daha fazlası değil, ve bana dön.",
+    ["Objectives"]="Dolanaar'daki Zarrin için 7 Küçük Örümcek Bacağı topla.[cite: 1, 2]",
+    ["Progress"]="Dengeyi unutma, YOUR_NAME. Yaşayan ormanlar için bir anlayış ve güçlü bir empati geliştirmeni istiyorum.",
+    ["Completion"]="Bugün sana gösterdiğim şeyi her zaman hatırla, YOUR_NAME. Sıkıntılı zamanlarda bile gece elflerinin bozulmadan tutmaya çalıştığı dengenin bir parçasısın.",
+    ["minlevel"]="1",
+    ["questlevel"]="7",
+    }, -- end Recipe of the Kaldorei
+
+    -- Goblin Engineering
+    -- Nixx Sprocketspring -> Nixx Çarkyayı (MobNpcData.lua)[cite: 1]
+    -- Gadgetzan -> Gadgetzan (ZoneData.lua)[cite: 2]
+    -- Gnomeregan -> Gnomeregan (ZoneData.lua)[cite: 2]
+    ["4181"] = {
+    ["Title"]="Goblin Mühendisliği",
+    ["Description"]="Uzman mühendislik iki farklı disiplin verir: cüce ve goblin. Sadece adil bir eğitmen olduğum için goblin mühendisliğinden bahsetme gereği duyuyorum. Havaya uçan şeyler yapmayı severler ve yollarına ne çıktığına -kendileri bile olsa- nadiren aldırış ederler.\n\nYOUR_NAME, bu kılavuzu oku. Kendini havaya uçurmayı öğrenmek istiyorsan, onu Gadgetzan'daki Nixx Çarkyayı'na götür. Unutma - üyelik kalıcıdır ve diğer disipline katılmayı engeller, bu yüzden görevini bitirmeden önce istediğinin bu olduğundan emin ol.",
+    ["Objectives"]="Goblin Mühendisliği hakkında daha fazla bilgi edinmek istiyorsan, Mühendislik Disiplinleri Kılavuzu'nu Gadgetzan'daki Nixx Çarkyayı'na götür.[cite: 1, 2]",
+    ["Progress"]="Yeni acemi erlerin kokusunu mükemmel bir patlama tozunun kokusu gibi alabilirim - bir mil öteden. Patlama ustalığını öğrenmeye mi geldin?",
+    ["Completion"]="Pekala YOUR_NAME, rehberliğimi aramakla akıllılık ettin! Herhangi bir acemi mühendisliğin temellerinde uzmanlaşabilir - cüceler ve onların ışıma yapmış evi Gnomeregan bunun kanıtıdır. Ancak Goblin Mühendisliği disiplininde ustalaşmak güçlü bir zihin ve sağlam bir el (SABİT VURGULU) gerektirir.\n\nKulaklarını kabart YOUR_NAME, bir şeyler öğrenebilirsin.",
+    ["minlevel"]="30",
+    ["questlevel"]="47",
+    }, -- end Goblin Engineering
+
+    -- Dragonkin Menace
+    -- Helendis Riverhorn -> Helendis Nehirboynuzu (MobNpcData.lua)[cite: 1]
+    -- Burning Steppes -> Yanardağ Bozkırları (ZoneData.lua)[cite: 2]
+    -- Redridge -> Kızıltepe (ZoneData.lua)[cite: 2]
+    ["4182"] = {
+    ["Title"]="Ejderhasoyu Tehdidi",
+    ["Description"]="Yanardağ Bozkırları'ndaki yaşam çatışmalarla doludur.\n\nŞu yere bir bak! Bu binalara ne olduğu hakkında çok az şey biliyoruz ama biliyoruz ki bir zamanlar, büyük patlamadan önce, tüm bunlar Kızıltepe dağ sırasının bir parçasıydı.\n\nAğıt yakmak yeter! Bir sorunumuz var, YOUR_NAME. Bu sırtın altındaki ejderhasoyunu fark etmiş olabilirsin. Onları geri püskürtmek için yardıma ihtiyacımız var. Öldürebildiğin kadar öldür ve bana dön. Başarılı ol, belki başka şeyler hakkında konuşabiliriz.",
+    ["Objectives"]="15 Siyah Yavru Ejderha, 10 Siyah Ejderhadölü, 4 Siyah Wyrmsoyu ve 1 Siyah Erkek Ejderha katlet. İş tamamlandığında Helendis Nehirboynuzu'na dön.[cite: 1]",
+    ["Progress"]="Ejderha avı nasıl gidiyor?",
+    ["Completion"]="Harika katliam, YOUR_NAME. Artık ejderhasoyunun etrafında başının çaresine bakabileceğini bildiğimize göre, daha acil konular hakkında konuşabiliriz.",
+    ["minlevel"]="48",
+    ["questlevel"]="54",
+    }, -- end Dragonkin Menace
+
+    -- The True Masters
+    -- Magistrate Solomon -> Yargıç Solomon (MobNpcData.lua)[cite: 1]
+    -- Helendis -> Helendis (MobNpcData.lua)[cite: 1]
+    -- Lakeshire -> Gölgölü (ZoneData.lua)[cite: 2]
+    ["4183"] = {
+    ["Title"]="Gerçek Efendiler",
+    ["Description"]="Karakaya orklarının her zaman vahşi yetişme tarzlarının bir ürünü olduğunu varsaymıştık. Burada, memleketlerinde bulduğumuz şey ise bize başka bir hikaye anlatıyor.\n\nGerçekten de onları güçlendiren şey kan arzusu ve çatışma hırsıdır, ancak Karakaya orklarını kontrol eden varlıklar siyah ejderhasoyudur. Orkları öfke ve düşmanlıkla besleyen şeyin siyah ejderhasoyu olduğundan şüpheleniyoruz.\n\nBu mektubu Yargıç Solomon'a götür. Ne yapılması gerektiğini bilecektir.\n\n<Helendis sana mühürlü bir mektup uzatır.>",
+    ["Objectives"]="Gölgölü'ne seyahat et ve Helendis Nehirboynuzu'nun Mektubu'nu Yargıç Solomon'a teslim et.[cite: 1, 2]",
+    ["Progress"]="Selamlar, YOUR_NAME. Daha önce karşılaşmış mıydık? Bir yerlerden tanıdık geliyorsun.",
+    ["Completion"]="<Yargıç Solomon Helendis'ten gelen mühürlü mektubu açar ve okumaya başlar.>",
+    ["minlevel"]="48",
+    ["questlevel"]="54",
+    }, -- end The True Masters
+
+    -- The True Masters
+    -- Highlord Bolvar Fordragon -> Yüksek Derebeyi Bolvar Fordragon (MobNpcData.lua)[cite: 1]
+    -- Lakeshire -> Gölgölü (ZoneData.lua)[cite: 2]
+    -- Darkshire -> Karanlıkdiyar (ZoneData.lua)[cite: 2]
+    -- Goldshire -> Altındiyar (ZoneData.lua)[cite: 2]
+    -- Stormwind -> Fırtınaşehri (ZoneData.lua)[cite: 2]
+    ["4184"] = {
+    ["Title"]="Gerçek Efendiler",
+    ["Description"]="Bu kasvetli bir haber, YOUR_NAME. Can düşmanlarımızın daha büyük bir tehdidin piyonları olduğunu keşfetmek cesaret kırıcı. Gölgölü'nün hem Karakaya orklarından hem de siyah ejderhasoyundan gelen bir saldırıdan sağ çıkmasının imkanı yok. Gölgölü bu tehdide yenik düşerse, sırada Karanlıkdiyar düşer ve sonra ne olur? Altındiyar mı? Fırtınaşehri'nin kendisi mi?\n\nBu bilgiyi derhal Fırtınaşehri'ndeki Yüksek Derebeyi Bolvar Fordragon'a götürmelisin! Bu Fırtınaşehri'nin yardımını hak etmiyorsa, hiçbir şey etmez ve her şey kaybolur.",
+    ["Objectives"]="Fırtınaşehri'ne seyahat et ve Solomon'un Yalvarması'nı Yüksek Derebeyi Bolvar Fordragon'a teslim et.\n\nBolvar Fırtınaşehri Kalesi'nde ikamet eder.[cite: 1, 2]",
+    ["Progress"]="Seni Fırtınaşehri Kalesi'ne getiren nedir?",
+    ["Completion"]="Ejderhalar mı? İmkansız!",
+    ["minlevel"]="48",
+    ["questlevel"]="54",
+    }, -- end The True Masters
+
+    -- The True Masters
+    -- Lady Prestor -> Leydi Prestor (MobNpcData.lua)[cite: 1]
+    -- Lady Katrana Prestor -> Leydi Katrana Prestor (MobNpcData.lua)[cite: 1]
+    -- Bolvar -> Bolvar (MobNpcData.lua)[cite: 1]
+    -- Lakeshire -> Gölgölü (ZoneData.lua)[cite: 2]
+    ["4185"] = {
+    ["Title"]="Gerçek Efendiler",
+    ["Description"]="Solomon karamsar bir tablo çiziyor. Yine de seyreltilmiş birliklerimizi sadece tahminlere dayanarak Gölgölü'nün yardımına gönderemeyiz. Harekete geçmeden önce bu iddiaların kanıtına ihtiyacım olacak.\n\nLeydi Prestor ile konuş, YOUR_NAME. O bilgili bir kadındır ve ejderhalar ile ejderhasoyu hakkında çok şey bilir. Bu duruma biraz ışık tutabilir.",
+    ["Objectives"]="Leydi Katrana Prestor ile konuştuktan sonra Yüksek Derebeyi Bolvar Fordragon ile konuş.[cite: 1]",
+    ["Progress"]="<Bolvar seni pürdikkat izler.>",
+    ["Completion"]="<Bolvar derin düşüncelere dalmış gibi çenesini avuçlar.>\n\nLeydi Prestor'un duruşuna saygı duymakla birlikte, tüm endişelerimizi giderebilecek bir çözüm olduğuna inanıyorum.",
+    ["minlevel"]="48",
+    ["questlevel"]="54",
+    }, -- end The True Masters
+
+    -- The True Masters
+    -- Magistrate Solomon -> Yargıç Solomon (MobNpcData.lua)[cite: 1]
+    -- Bolvar -> Bolvar (MobNpcData.lua)[cite: 1]
+    -- Lakeshire -> Gölgölü (ZoneData.lua)[cite: 2]
+    ["4186"] = {
+    ["Title"]="Gerçek Efendiler",
+    ["Description"]="Seni Fırtınaşehri'nin vekil temsilcisi olarak yetkilendireceğim, YOUR_NAME.\n\nGölgölü'ndeki Yargıç Solomon'a dön ve bu fermanı teslim et.",
+    ["Objectives"]="Bolvar'ın Fermanı'nı Gölgölü'ndeki Yargıç Solomon'a götür.[cite: 1, 2]",
+    ["Progress"]="Bolvar'dan bir haber var mı?",
+    ["Completion"]="Daha kötüsü de olabilirdi sanırım...\n\n<Yargıç Solomon seni baştan aşağı süzer.>\n\nGörünüşe göre Gölgölü'nün kaderi tamamen senin omuzlarına biniyor.\n\n<Yargıç Solomon'un gözlerini hızlıca kırpıştırdığını fark ediyorsun. Ağlıyor gibi görünüyor.>",
+    ["minlevel"]="48",
+    ["questlevel"]="54",
+    }, -- end The True Masters
+
+    -- The Love Potion
+    -- Private Rocknot -> Er Rocknot (MobNpcData.lua)[cite: 1]
+    -- Mistress Nagmara -> Matmazel Nagmara (MobNpcData.lua)[cite: 1]
+    -- Rocknot -> Rocknot (MobNpcData.lua)[cite: 1]
+    -- Blackrock Depths -> Karakaya Derinlikleri (ZoneData.lua)[cite: 2]
+    -- Azshara -> Azshara (ZoneData.lua)[cite: 2]
+    -- Golakka Springs -> Golakka Kaplıcaları
+    ["4201"] = {
+    ["Title"]="Aşk İksiri",
+    ["Description"]="Oh, aşkın acıları! Sevgili Er Rocknot cazibeme karşı bağışık. Hor görülüyorum! Bu çıldırtıcı!\n\nBana yardım etmelisin! Biz succubus'lar aşk hakkında çok şey biliriz ve Rocknot'un kalbinin etrafındaki demir duvarları yıkmak için bir iksir yapabilirim. Onu yapmak için şu eşyalara ihtiyacım var: gromskanı otu, Azshara'nın uçurum devlerinden dev gümüş damarları ve Un'Goro'daki Golakka Kaplıcaları Krateri'nden su. Suyu bu şişeye koyabilirsin.\n\nLütfen, YOUR_NAME, mutluluk arayışındaki zavallı bir ruha yardım et!",
+    ["Objectives"]="4 Gromskanı, 10 Dev Gümüş Damarı ve Nagmara'nın Dolu Şişesi'ni Karakaya Derinlikleri'ndeki Matmazel Nagmara'ya getir.[cite: 1, 2]",
+    ["Progress"]="Malzemeler yanında mı? Kalbimdeki delik beni yutmakla tehdit ediyor!",
+    ["Completion"]="Oh, başardın! Artık iksirimi yapıp Rocknot üzerinde kullanabilirim. Sonunda cazibemin kurbanı olacak!\n\nTeşekkür ederim, YOUR_NAME. Sen aşkın bir şampiyonusun!",
+    ["minlevel"]="50",
+    ["questlevel"]="54",
+    }, -- end The Love Potion
+
+    -- Corrupted Windblossom
+    ["4221"] = {
+    ["Title"]="Yozlaşmış Rüzgarçiçeği",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Bir rüzgarçiçeği bitkisinin hastalıklı, yozlaşmış bir versiyonunu buldun. Bitkiden sarkan meyveler çürük ve zehirli görünüyor. Tekrar normale döndürülmesi için kesinlikle bir tür ilgiye ihtiyacı var.",
+    ["Completion"]="Rüzgarçiçeğine iki Cenarion bitki merhemi sürüyorsun. Hemen yozlaşmış biçimini dökmeye başlayarak canlı ve sağlıklı bir bitkiye dönüşüyor.",
+    ["minlevel"]="48",
+    ["questlevel"]="55",
+    }, -- end Corrupted Windblossom
+
+    -- Corrupted Windblossom
+    ["4222"] = {
+    ["Title"]="Yozlaşmış Rüzgarçiçeği",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Bir rüzgarçiçeği bitkisinin hastalıklı, yozlaşmış bir versiyonunu buldun. Bitkiden sarkan meyveler çürük ve zehirli görünüyor. Tekrar normale döndürülmesi için kesinlikle bir tür ilgiye ihtiyacı var.",
+    ["Completion"]="Rüzgarçiçeğine iki Cenarion bitki merhemi sürüyorsun. Hemen yozlaşmış biçimini dökmeye başlayarak canlı ve sağlıklı bir bitkiye dönüşüyor.",
+    ["minlevel"]="48",
+    ["questlevel"]="55",
+    }, -- end Corrupted Windblossom
+
+    -- The True Masters
+    -- Magistrate Solomon -> Yargıç Solomon (MobNpcData.lua)[cite: 1]
+    -- Marshal Maxwell -> Mareşal Maxwell (MobNpcData.lua)[cite: 1]
+    -- Burning Steppes -> Yanardağ Bozkırları (ZoneData.lua)[cite: 2]
+    ["4223"] = {
+    ["Title"]="Gerçek Efendiler",
+    ["Description"]="<Yargıç Solomon iç çeker.>\n\nYanardağ Bozkırları'na geri dönmelisin, YOUR_NAME. Fırtınaşehri'nin bir vekili olarak Mareşal Maxwell'e rapor vermen gerekecek. Bol şans.",
+    ["Objectives"]="Yanardağ Bozkırları'ndaki Mareşal Maxwell ile konuş.[cite: 1, 2]",
+    ["Progress"]="",
+    ["Completion"]="<Mareşal Maxwell güler.>",
+    ["minlevel"]="48",
+    ["questlevel"]="54",
+    }, -- end The True Masters
+
+    -- The True Masters
+    -- Marshal Windsor -> Mareşal Windsor (MobNpcData.lua)[cite: 1]
+    -- Ragged John -> Üstü Başı Yırtık John (MobNpcData.lua)[cite: 1]
+    -- Windsor -> Windsor (MobNpcData.lua)[cite: 1]
+    -- Stormwind -> Fırtınaşehri (ZoneData.lua)[cite: 2]
+    ["4224"] = {
+    ["Title"]="Gerçek Efendiler",
+    ["Description"]="Ne? İlk olduğunu mu sandın? Fırtınaşehri Harekete geçmeden önce daha kaç asker kaybetmeliyiz?\n\nKomutanımız Mareşal Windsor'u kaybetmeden önce Karakaya tehdidiyle ilgili muazzam miktarda istihbarat toplamıştık. Mareşal Windsor ile birlikte tüm değerli bilgilerimiz de gitti.\n\nİhtiyacımız olan şey o belgeler. Üstü Başı Yırtık John ile konuş, YOUR_NAME. Bir Karakaya baskın birliği tarafından saldırıya uğradıklarında Windsor'ın yanındaydı. En son kuzeydeki bir mağarada görüldü.",
+    ["Objectives"]="Mareşal Windsor'ın kaderini öğrenmek için Üstü Başı Yırtık John ile konuş ve bu görevi tamamladığında Mareşal Maxwell'e dön.\n\nMareşal Maxwell'in onu kuzeydeki bir mağarada aramanı söylediğini hatırlıyorsun.[cite: 1]",
+    ["Progress"]="John ile henüz konuştun mu?",
+    ["Completion"]="Seni uyarabilirdim ama bunda ne eğlence var ki?",
+    ["minlevel"]="48",
+    ["questlevel"]="54",
+    }, -- end The True Masters
+
+    -- Marshal Windsor
+    -- Windsor -> Windsor (MobNpcData.lua)[cite: 1]
+    -- Maxwell -> Maxwell (MobNpcData.lua)[cite: 1]
+    -- Marshal Windsor -> Mareşal Windsor (MobNpcData.lua)[cite: 1]
+    -- Blackrock Mountain -> Karakaya Dağı (ZoneData.lua)[cite: 2]
+    -- Blackrock Depths -> Karakaya Derinlikleri (ZoneData.lua)[cite: 2]
+    ["4241"] = {
+    ["Title"]="Mareşal Windsor",
+    ["Description"]="Demek o beş para etmez korkak Windsor'ın hayatta olduğunu söylüyor, ha?\n\nHazırlan vekil, onu bulmaya gidiyorsun. Windsor hayattaysa onu geri getireceksin. Ödüyse kanıt istiyorum.\n\n<Maxwell güler.>\n\nBunu duymaktan bıktığına bahse girerim, değil mi?",
+    ["Objectives"]="Kuzeybatıdaki Karakaya Dağı'na seyahat et ve Karakaya Derinlikleri'ne gir. Mareşal Windsor'a ne olduğunu öğren.\n\nÜstü Başı Yırtık John'un Windsor'ın bir hapishaneye sürüklendiğinden bahsettiğini hatırlıyorsun.[cite: 1, 2]",
+    ["Progress"]="",
+    ["Completion"]="Nerede o! Onu öldüreceğim!",
+    ["minlevel"]="48",
+    ["questlevel"]="54",
+    }, -- end Marshal Windsor
+
+    -- Abandoned Hope
+    -- Bolvar -> Bolvar (MobNpcData.lua)[cite: 1]
+    -- Ironfoe -> Demirhasım
+    -- Stormwind -> Fırtınaşehri (ZoneData.lua)[cite: 2]
+    ["4242"] = {
+    ["Title"]="Terk Edilmiş Umut",
+    ["Description"]="Bolvar bir aptal. Onun o değerli 'kanıtını' toplayıp boğazından aşağı tıkmak üzereydim.\n\nO kör bir palyaço. Kanıt iki adım ötesinde duruyor ama görmüyor.\n\nVerilerime gelince, onlar kayboldu. Gitti. Kurtarılamaz.\n\nBir gün Demirhasım'ı bulup bu labirentten çıkarsam, ilk durağım Firtınaşehri olacak, çekicimi o sürüngenin gözlerinin tam arasına oturtmak için.\n\nBeni yalnız bırak, YOUR_NAME.",
+    ["Objectives"]="Mareşal Maxwell'e kötü haberleri ver.[cite: 1]",
+    ["Progress"]="",
+    ["Completion"]="Görünüşe göre çıldırmış.\n\n<Maxwell yas içinde başını eğer.>\n\nBir zamanlar gururlu ve soylu bir savaşçının saçmalayan bir vaka haline gelmesi talihsizlik. Bir çıkmaza ulaştığımızı TAHMİN EDİYORUM...\n\nŞimdiye kadarki çabaların için seni ödüllendirmeliyim, YOUR_NAME.",
+    ["minlevel"]="48",
+    ["questlevel"]="54",
+    }, -- end Abandoned Hope
+
+    -- Chasing A-Me 01
+    -- Karna -> Karna (MobNpcData.lua)[cite: 1]
+    -- Karna Remtravel -> Karna Remtravel (MobNpcData.lua)[cite: 1]
+    -- Un'Goro Crater -> Un'Goro Krateri (ZoneData.lua)[cite: 2]
+    -- Fungal Rock -> Mantar Kayalığı
+    -- Marshall's Refuge -> Marshal Sığınağı (ZoneData.lua)[cite: 2]
+    ["4243"] = {
+    ["Title"]="A-Me 01'in Peşinde",
+    ["Description"]="Ne yazık ki en büyük icatlarımdan birine bir şey oldu. Mekanik sincaplar gördün, değil mi? Şey, Un'Goro Krateri'nin maymunlarına daha yakın olabilmek için türlerine uyum sağlayacak mekanik bir maymun yarattım--ona A-Me 01 diyorum.\n\nGördüğü her şeyi görebileyim diye gözleri gözetleme mücevherlerinden oluşuyor. Buranın hemen doğusundaki Mantar Kayalığı'na--maymunların inine--ulaştı ve tam o anda iletişimim koptu. Gördüğüm son şey alfa erkeklerinden birinin ona merhaba demek için koştuğuydu!\n\nOnu bulmama yardım edebilir misin?",
+    ["Objectives"]="Un'Goro Krateri'nde A-Me 01'i bul.[cite: 2]",
+    ["Progress"]="",
+    ["Completion"]="A-Me 01'i incelerken, Karna'nın açıkça iyi işlenmiş bir mühendislik harikası olarak gördüğü şeyi lekeleyen iki büyük ezik görüyorsun. Eziğin biri A-Me 01'in omzunu süslüyor, diğeri ise kafasında.\n\nDaha fazla incelediğinde bileşenlerinden hiçbir güç geçmiyor gibi görünüyor.",
+    ["minlevel"]="48",
+    ["questlevel"]="53",
+    }, -- end Chasing A-Me 01
+
+    -- Chasing A-Me 01
+    -- Karna Remtravel -> Karna Remtravel (MobNpcData.lua)[cite: 1]
+    -- Marshall's Refuge -> Marshal Sığınağı (ZoneData.lua)[cite: 2]
+    ["4244"] = {
+    ["Title"]="A-Me 01'in Peşinde",
+    ["Description"]="Biraz daha inceleme, kayarak açılan bir paneli ortaya çıkarıyor. Bazı kabloların üzerinde açıkça şu ifade yazılı: \"Mithril Muhafazayı Değiştirin Ve Gücü Kapatıp Tekrar Açın.\"\n\nPaneli kapatmak için bir dakikanı ayırırken, A-Me 01'i tamir etmenin ve onu Marshal Sığınağı yakınlarındaki Karna Remtravel'a geri götürmenin bu kadar basit olup olmayacağını merak ediyorsun.\n\nSadece denemek söyleyecektir.",
+    ["Objectives"]="Bir Mithril Muhafaza bul ve Un'Goro Krateri'ndeki A-Me 01'e dön.[cite: 2]",
+    ["Progress"]="Mithril muhafazanın gireceği panel hâlâ kapalı duruyor. A-Me 01'in geri kalanı hareketsiz kalmaya devam ediyor.",
+    ["Completion"]="A-Me 01'in arkasındaki paneli bir kez daha çıkarıyorsun ve yanmış gibi görünen eski mithril muhafazayı dikkatlice çıkarıyorsun. Yenisi kolayca yerine kayıyor. Mithril muhafazanın sorun olduğu varsayılırsa yapılacak tek şey, düğmeyi \"Kapalı\" konumuna ve ardından tekrar \"Açık\" konumuna getirmektir.",
+    ["minlevel"]="48",
+    ["questlevel"]="53",
+    }, -- end Chasing A-Me 01
+
+    -- Chasing A-Me 01
+    -- Karna Remtravel -> Karna Remtravel (MobNpcData.lua)[cite: 1]
+    -- Un'Goro Crater -> Un'Goro Krateri (ZoneData.lua)[cite: 2]
+    ["4245"] = {
+    ["Title"]="A-Me 01'in Peşinde",
+    ["Description"]="A-Me 01'i Karna Remtravel'a geri götürmeye hazır olup olmadığını kontrol ederek düğmeyi \"Kapalı\" konumuna getiriyorsun. Gorillerden hiçbirinin gelmediğinden emin olmak için bir kez daha etrafa bakarak, düğmeyi tekrar \"Açık\" konumuna getirdiğinde ne olacağını görmeye hazırlanıyorsun.\n\nBu senin son şansın... Bunu yapmak istediğinden emin misin?",
+    ["Objectives"]="A-Me 01'e Un'Goro Krateri'ndeki Karna Remtravel'a kadar eşlik et.[cite: 1, 2]",
+    ["Progress"]="A-Me'ye yardım edebildin mi? Tahrip olduğunu söylediğin o mithril kaplama neyin yanlış olduğuna dair iyi bir tahmindi. Onu değiştirirsen yeniden aktifleşeceğinden ve eve dönebileceğinden eminim.",
+    ["Completion"]="Oh, başardın! Harika! Teşekkür ederim, YOUR_NAME.\n\nOh, zavallı A-Me'm. Şu eziklerin hepsine bak. Sadece biraz çalışmayla onu mükemmel bir şekilde çalışır hale getireceğiz.\n\nTekrar teşekkür ederim, YOUR_NAME. Gerçekten minnettarım.",
+    ["minlevel"]="48",
+    ["questlevel"]="53",
+    }, -- end Chasing A-Me 01
+
+    -- Ancient Spirit
+    -- Gul'dan -> Gul'dan (MobNpcData.lua)[cite: 1]
+    -- Kayneth Stillwind -> Kayneth Durgunrüzgar (MobNpcData.lua)[cite: 1]
+    -- Arei -> Arei (MobNpcData.lua)[cite: 1]
+    -- Forest Song -> Orman Şarkısı (ZoneData.lua)[cite: 2]
+    -- Felwood -> Felwood (ZoneData.lua)[cite: 2]
+    -- Ashenvale -> Ashenvale (ZoneData.lua)[cite: 2]
+    ["4261"] = {
+    ["Title"]="Kadim Ruh",
+    ["Description"]="Felwood bir zamanlar huzurlu ve sakin bir topraktı... Lejyon ele geçirene kadar. İblisler, yıkım, kaos...\n\nGul'dan'ın kafatası burada kimsenin bağışlanmamasını sağladı. Hepsi yozlaşmaya yenik düştü.\n\nŞimdi bile bir ruh olarak kendimi hâlâ kapana kısılmış, bu toprağın acısını taşırken buluyorum. Eve giden yolumu bulmama yardım et. Lütfen, YOUR_NAME, kadim bir ruha buradan uzaklaşması için rehberlik edeceğini söyle, böylece sonunda dinlenebileyim.\n\nÖzgür kaldığımda doğuda, Ashenvale'deki Orman Şarkısı'nda ikamet eden bir druid olan Kayneth Durgunrüzgar'ı ara.",
+    ["Objectives"]="Arei'ye güvenli bir yere kadar eşlik et, ardından doğu Ashenvale'deki Orman Şarkısı'nda bulunan Kayneth Durgunrüzgar ile konuş.[cite: 1, 2]",
+    ["Progress"]="Bu yozlaşmış toprakta ne gördün?",
+    ["Completion"]="Evet, YOUR_NAME. Felwood çok sıkıntı çekti. Yaptıkların için teşekkür ederim.\n\nBir gün Felwood'u yozlaşmadan geri alabiliriz; her iyi eylem yardımcı olur.",
+    ["minlevel"]="49",
+    ["questlevel"]="56",
+    }, -- end Ancient Spirit
+
+    -- Overmaster Pyron
+    -- Overmaster Pyron -> Üstün Efendi Pyron (MobNpcData.lua)[cite: 1]
+    -- Jalinda Sprig -> Jalinda Filiz (MobNpcData.lua)[cite: 1]
+    -- Pyron -> Pyron (MobNpcData.lua)[cite: 1]
+    -- Blackrock Mountain -> Karakaya Dağı (ZoneData.lua)[cite: 2]
+    -- Blackrock Depths -> Karakaya Derinlikleri (ZoneData.lua)[cite: 2]
+    -- Blackrock Quarry -> Karakaya Taş Ocağı
+    ["4262"] = {
+    ["Title"]="Üstün Efendi Pyron",
+    ["Description"]="Karakaya Dağı'nda etrafı gözetleyen büyücülerimden son beşi kalıcı turuncu bir cüce afro saç modeliyle - ya da daha kötüsüyle - kızarmış olarak geri geldi.\n\n<Jalinda yerden biraz kül alır ve havaya bırakır.>\n\nÖzellikle iğrenç bir tip olan Üstün Efendi Pyron epey sorun çıkarıyor gibi görünüyor. Keşif ekibimizin Karakaya Derinlikleri'ne girebilmesi için o elementalın ortadan kaldırılması gerekiyor!\n\nKarakaya Taş Ocağı'ndaki girişi koruyor.",
+    ["Objectives"]="Üstün Efendi Pyron'u katlet ve Jalinda Filiz'e dön.\n\nJalinda'nın Pyron'un taş ocağını koruduğundan bahsettiğini hatırlıyorsun. Belki orayı aramalısın?[cite: 1]",
+    ["Progress"]="<Jalinda kafana dik dik bakıyor gibi görünüyor.>",
+    ["Completion"]="Incendius mu? Oh tanrım...",
+    ["minlevel"]="48",
+    ["questlevel"]="52",
+    }, -- end Overmaster Pyron
+
+    -- Incendius!
+    -- Pyron -> Pyron (MobNpcData.lua)[cite: 1]
+    -- Jalinda -> Jalinda (MobNpcData.lua)[cite: 1]
+    -- Lord Incendius -> Lord Incendius (MobNpcData.lua)[cite: 1]
+    -- Ragnaros -> Ragnaros (MobNpcData.lua)[cite: 1]
+    -- Blackrock Depths -> Karakaya Derinlikleri (ZoneData.lua)[cite: 2]
+    ["4263"] = {
+    ["Title"]="Incendius!",
+    ["Description"]="Pyron ölürken 'Incendius' dediğinden emin misin?\n\n<Jalinda zorlukla yutkunur.>\n\nLord Incendius'un Ragnaros'un bir hizmetkarı olduğu söylenir! Oh tanrım, oh tanrım... Ne yapacağız?\n\nBaşka bir görevi halledebileceğini düşünüyor musun? Gönderecek başka kimsem yok, YOUR_NAME!\n\nIncendius Pyron'u küllerinden diriltmeye devam ederse içeri asla bir ekip sokamayacağız.\n\nLord Incendius'u bulup yok etmelisin!",
+    ["Objectives"]="Karakaya Derinlikleri'nde Lord Incendius'u bul ve onu yok et![cite: 1, 2]",
+    ["Progress"]="İblis öldü mü??",
+    ["Completion"]="Oh tanrım! Incendius'un 'Ragnaros' dediğinden emin misin?\n\n<Jalinda derin düşüncelere dalarken sana bir şey uzatır ve bileğine hafifçe vurur.>",
+    ["minlevel"]="48",
+    ["questlevel"]="56",
+    }, -- end Incendius!
+
+    -- A Crumpled Up Note
+    -- General Angerforge -> General Gazapörsü (MobNpcData.lua)[cite: 1]
+    -- Argelmach -> Argelmach (MobNpcData.lua)[cite: 1]
+    -- Windsor -> Windsor (MobNpcData.lua)[cite: 1]
+    -- Emperor Dagran Thaurissan -> İmparator Dagran Thaurissan (MobNpcData.lua)[cite: 1]
+    -- Marshal Windsor -> Mareşal Windsor (MobNpcData.lua)[cite: 1]
+    ["4264"] = {
+    ["Title"]="Büzüştürülmüş Bir Not",
+    ["Description"]="Notun yüzeyini lekeler kaplıyor. Metin zar zor okunuyor ama şunları çıkarabiliyorsun:\n\n...tatlı ironi...\n\n...kırık İttifak'ın düşüşü...\n\n...General Gazapörsü'nün titizliği olmasaydı şifreleme kalıbını asla keşfedemeyebilirdik...\n\n...Argelmach Windsor'ın notlarının şifresini çözmeyi bitirmek üzere.\n\nEfendimiz derinliklerden yükselecek ve kalan herkesi ezim ezecek...\n\n-İmparator Dagran Thaurissan.",
+    ["Objectives"]="Mareşal Windsor'ın görmek isteyeceği bir şeye denk gelmiş olabilirsin. Ne de olsa bir umut olabilir.",
+    ["Progress"]="<Mareşal Windsor elindeki nota göz diker.>\n\nElinde ne var, YOUR_NAME?",
+    ["Completion"]="<Mareşal Windsor notu alır ve okumaya başlar.>",
+    ["minlevel"]="50",
+    ["questlevel"]="58",
+    }, -- end A Crumpled Up Note
+
+    -- Freed from the Hive
+    -- Raschal -> Raschal (MobNpcData.lua)[cite: 1]
+    -- Ginro Hearthkindle -> Ginro Ocakaşkı (MobNpcData.lua)[cite: 1]
+    -- Feathermoon Stronghold -> Tüyayı Kalesi (ZoneData.lua)[cite: 2]
+    -- Zukk'ash -> Zukk'ash
+    ["4265"] = {
+    ["Title"]="Kovandan Kurtarıldı",
+    ["Description"]="Dokunduğunda koza biraz ayrılıyor ve şaşırtıcı bir şekilde hâlâ hayatta olan bir gece elfi erkeğini ortaya çıkarıyor. Derin bir şekilde sersemlemiş olsa da sağlık durumu iyi görünüyor. Onu kozadan aşağı indirirken canlanıyor.\n\n\"Elune'a şükürler olsun - beni kurtardın dostum! Ben... Ben Raschal, bu böcekler beni alt ettikten sonra bu kozanın içinde felçli bir şekilde uyandım. Kale tarafından mı gönderildin?\"\n\nKayıp ulağı bulmuş gibisin!",
+    ["Objectives"]="Raschal'ı Zukk'ash kovanından kurtar.\n\nTüyayı Kalesi'ndeki Ginro Ocakaşkı'na dön ve ona Raschal'ın hayatta ve iyi olduğunu bildir.[cite: 1, 2]",
+    ["Progress"]="Rapor edecek bir şeyin var mı, YOUR_NAME?",
+    ["Completion"]="Evine hoş geldin, YOUR_NAME. Raschal kısa bir süre önce geldi ve ne olduğunu anlattı.\n\nBen... Hayır, tüm Kale harika eylemin için sana teşekkür etmeye yetmez; zamanında yardımın olmasaydı Raschal ölmüş olurdu ve yardımın bize bir paralı asker ücretinin fısıltısı bile olmadan geldi. Gerçek bir kahramanın işaretini taşıyorsun. Ginro Ocakaşkı'nda her zaman bir dostun olacağını bil.",
+    ["minlevel"]="40",
+    ["questlevel"]="46",
+    }, -- end Freed from the Hive
+
+    -- A Hero's Welcome
+    -- General Shandris Feathermoon -> General Shandris Tüyayı (MobNpcData.lua)[cite: 1]
+    -- Raschal -> Raschal (MobNpcData.lua)[cite: 1]
+    -- Feathermoon Stronghold -> Tüyayı Kalesi (ZoneData.lua)[cite: 2]
+    -- General Feathermoon -> General Tüyayı (MobNpcData.lua)[cite: 1]
+    -- Feralas -> Feralas (ZoneData.lua)[cite: 2]
+    -- Zukk'ash -> Zukk'ash
+    ["4266"] = {
+    ["Title"]="Bir Kahramanın Karşılanışı",
+    ["Description"]="YOUR_NAME, General Shandris Tüyayı seninle bizzat konuşmak istiyor. Şüphesiz Kale'ye verdiğin hizmetler için sana teşekkür etmek istiyor ama senin ve Raschal'ın güney Feralas'ta karşılaştığınız böcek yaratıklar hakkında da seninle konuşmak istediğini biliyorum. O Zukk'ash böceklerinin raporları... En hafif tabirle ürkütücü.\n\nGeneral Tüyayı ana yerleşkede seni bekliyor.",
+    ["Objectives"]="Tüyayı Kalesi'ndeki Shandris Tüyayı ile konuş.[cite: 1, 2]",
+    ["Progress"]="",
+    ["Completion"]="YOUR_NAME, bize verdiğin yardım için en sıcak teşekkürlerimi sunuyorum. Ezici engeller karşısındaki cesaretin bin kat daha büyük bir ödülü hak etti. Yine de tüm Kale adına bunu kabul edeceğini umuyorum.\n\nŞimdi izin verirsen... Bir kez daha yardımını istemek isterim. Feralas'ta Zukk'ash kovanının keşfedilmesi ışığında bu görev için en iyi seçim olduğunu düşünüyorum.",
+    ["minlevel"]="40",
+    ["questlevel"]="46",
+    }, -- end A Hero's Welcome
+
+    -- Rise of the Silithid
+    -- Raschal -> Raschal (MobNpcData.lua)[cite: 1]
+    -- Gracina Spiritmight -> Gracina Ruhgücü (MobNpcData.lua)[cite: 1]
+    -- Shandris Feathermoon -> Shandris Tüyayı (MobNpcData.lua)[cite: 1]
+    -- Feralas -> Feralas (ZoneData.lua)[cite: 2]
+    -- Darnassus -> Darnassus (ZoneData.lua)[cite: 2]
+    -- Temple of the Moon -> Ay Tapınağı
+    -- Zukk'ash -> Zukk'ash
+    ["4267"] = {
+    ["Title"]="Silithid Yükselişi",
+    ["Description"]="Güneydoğu Feralas'taki istila hakkında Raschal'ın hazırladığı raporun bir kopyasını sana emanet ediyorum. Ana rapor Darnassus'ta dosyalanırken, bu kopyayı Koruma Grubu'nun bir ortağına vermeni istiyorum. Adı Gracina Ruhgücü; Darnassus'taki Ay Tapınağı'nda ikamet eden bir rahibe. Bu tür yaratıklar hakkında geniş bir bilgiye sahip ve bu raporu alması hepimizin yararına olacaktır.\n\nGidebilirsin - bol şans, YOUR_NAME; Elune hepimizi gözetsin.",
+    ["Objectives"]="Raschal'ın Raporu'nu Darnassus'taki Gracina Ruhgücü'ne getir.[cite: 1, 2]",
+    ["Progress"]="Bu kutsal tapınağa hoş geldin dostum. Tüyayı Kalesi'nden buraya gelişin bana önceden haber verildi. Shandris Tüyayı'nın getirmemi istediği rapor yanında mı?",
+    ["Completion"]="Biz gece elfleri bu raporda anlatılan dehşeti biliyoruz. Shandris bunu ve seni bana göndermekle akıllılık etmiş.\n\nBu yaratıklar Feralas'ı hızla tüketecek; hepimizin karşılaşacağı en büyük tehditlerden biri olmaktan başka bir şey değiller. Senin ve ulağın karşılaştığı böcekler silithid olarak bilinir. Hem Horde'un hem de İttifak'ın karşılaşacağı en büyük tehditlerden birinin sadece araçlarıdırlar.\n\nBizi yok etmeden önce onları yenme kararlılığına sahip olmamız için dua ediyorum.",
+    ["minlevel"]="40",
+    ["questlevel"]="46",
+    }, -- end Rise of the Silithid
+
+    -- Thalanaar Delivery
+    -- Falfindel Waywarder -> Falfindel Waywarder (MobNpcData.lua)[cite: 1]
+    -- Raschal -> Raschal (MobNpcData.lua)[cite: 1]
+    -- Woodpaw -> Ahşappençe
+    -- Thalanaar -> Thalanaar (ZoneData.lua)[cite: 2]
+    -- Feralas -> Feralas (ZoneData.lua)[cite: 2]
+    -- Feathermoon Stronghold -> Tüyayı Kalesi (ZoneData.lua)[cite: 2]
+    ["4281"] = {
+    ["Title"]="Thalanaar Teslimatı",
+    ["Description"]="Ahşappençe gnoll ordugahlarında bulduğun bu malzeme paketi, güneydoğu Feralas'taki küçük Thalanaar mola istasyonına teslim edilecekti. Kayıp ulağın kaderi ne olursa olsun, paketi teslim etme görevi tamamlanmamış durumda.\n\nPaketi detaylı bir şekilde incelemek ambalajın dış tarafında el yazısıyla yazılmış bir \"Falfindel Waywarder\" adını ortaya çıkarıyor. Belki de paketin nihai alıcısı budur.",
+    ["Objectives"]="Teslim Edilmemiş Paket'i Thalanaar'daki Falfindel Waywarder'a getir.[cite: 1, 2]",
+    ["Progress"]="Thalanaar'a hoş geldin, YOUR_CLASS. Bir tür yardıma ihtiyacın var mı?",
+    ["Completion"]="Elune'a şükürler olsun, Tüyayı Kalesi'nden gelen teslimat sonunda ulaştı!\n\nBuradaki varlığın bana belki de normal ulağımız Raschal'ın başına kötü bir kader gelmiş olabileceğini gösteriyor. Umarım her şey yolunda gider. Son zamanlarda Ahşappençe'lerin güneyindeki bir kaynaktan dolayı son derece huzursuz olduklarını biliyorum. Belki de oradaki vahşi doğada düşmüştür; dikkatli olmalısın dostum.\n\nNe olursa olsun, tekrar teşekkürler. İşte bu paketin teslimatı için ödeme.",
+    ["minlevel"]="40",
+    ["questlevel"]="44",
+    }, -- end Thalanaar Delivery
+
+    -- A Shred of Hope
+    -- General Angerforge -> General Gazapörsü (MobNpcData.lua)[cite: 1]
+    -- Argelmach -> Argelmach (MobNpcData.lua)[cite: 1]
+    -- Marshal Windsor -> Mareşal Windsor (MobNpcData.lua)[cite: 1]
+    ["4282"] = {
+    ["Title"]="Küçük Bir Umut Parçası",
+    ["Description"]="<Mareşal Windsor heyecanla notu sallar.>\n\nBunun ne anlama geldiğini anlıyor musun, YOUR_NAME?\n\nBelki de her şey kaybolmamıştır! Anlayabildiğim kadarıyla bilgi iki Kara Demir cücesi tarafından tutuluyor: General Gazapörsü ve golem lordu Argelmach. Nazikçe sorarsak bilgiyi öylece teslim etmeyeceklerini hissediyorum.\n\nSavaşa hazır olduğunu umuyorum.\n\nİlerle ve bu iki kötü adamı bul! Onları yok et ve kayıp bilgilerimi geri getir.",
+    ["Objectives"]="Mareşal Windsor'ın Kayıp Bilgilerini geri getir.\n\nMareşal Windsor bilgilerin Golem Lordu Argelmach ve General Gazapörsü tarafından tutulduğuna inanıyor.[cite: 1]",
+    ["Progress"]="Yakında bu büyük hile sona erecek.",
+    ["Completion"]="<Mareşal Windsor iki tableti ellerinden kapar.>\n\nBuradan çıkmamız gerek!",
+    ["minlevel"]="50",
+    ["questlevel"]="58",
+    }, -- end A Shred of Hope
+
+    -- FIFTY! YEP!
+    -- Captain Winky -> Kaptan Winky (MobNpcData.lua)[cite: 1]
+    -- Oralius -> Oralius (MobNpcData.lua)[cite: 1]
+    -- Burning Steppes -> Yanardağ Bozkırları (ZoneData.lua)[cite: 2]
+    ["4283"] = {
+    ["Title"]="ELLİ! EVET!",
+    ["Description"]="Sana küçük bir sır vereceğim asker. Biraz daha yaklaş.\n\nBURADAKİ TEK AKLI BAŞINDA KİŞİ BENİM!\n\nŞu insanlara bak! Hepsinin deli olduğuna inanabiliyor musun!? Şey öyleler! KAÇIK! ÇILDIRMIŞ!\n\n<Oralius sesini alçaltır.>\n\nBunu sadece benim, senin ve kankam Kaptan Winky'nin arasında tutalım.\n\n<Oralius havayı kavrar ve sıkar.>\n\nHer neysee... Ogre kulağı koleksiyonumun yanına eklemek için madalyon topluyorum. Bugünün modası ork. Elli tane. GİT!\n\n<Oralius bir boru üfler.>\n\nGÖNDER GİTSİN!",
+    ["Objectives"]="Oralius 50 Karakaya Madalyonu istiyor. Bu madalyonların Yanardağ Bozkırları'ndaki orkların üzerinde bulunma olasılığı yüksek.[cite: 1, 2]",
+    ["Progress"]="<Oralius oldukça büyük, kesik bir ogre kulağına konuşuyor.>\n\nYanardağ Bozkırları'ndan kontrole, duyuyor musun kontrol.",
+    ["Completion"]="Başardın! Ödülün: GÖBEĞİMİ OĞUŞTUR! DEVAM ET! OĞUŞTUR!",
+    ["minlevel"]="50",
+    ["questlevel"]="56",
+    }, -- end FIFTY! YEP!
+
+    -- Crystals of Power
+    -- J.D. Collie -> J.D. Collie (MobNpcData.lua)[cite: 1]
+    -- Marshal's Refuge -> Marshal Sığınağı (ZoneData.lua)[cite: 2]
+    ["4284"] = {
+    ["Title"]="Güç Kristalleri",
+    ["Description"]="Fark ettiğine eminim, YOUR_NAME. Her yerdeler!\n\nNeden mi bahsediyorum? Kristallerden elbette!\n\nKristaller... Kraterin her yerindeler. Çoğu insan onları görmezden geliyor ama içlerinde bir güç barındırdıklarına dair garip bir hissim var. Bir süredir burada onlarla deneyler yapıyorum ama hiçbir şey bulamıyor gibiyim. Şey, henüz bulamadım yani.\n\nŞey, elimdeki kristaller biraz azaldı -- benim için biraz daha toplayabileceğini düşünüyor musun?",
+    ["Objectives"]="Her renkten (kırmızı, mavi, sarı ve yeşil) 7 Güç Kristali topla. Onları Marshal Sığınağı'ndaki J.D. Collie'ye getir.[cite: 1, 2]",
+    ["Progress"]="Burada bir şeylerin peşinde olduğumu biliyorum, YOUR_NAME!",
+    ["Completion"]="Şimdi deneylerime devam edeceğim! Teşekkür ederim, YOUR_NAME.",
+    ["minlevel"]="47",
+    ["questlevel"]="53",
+    }, -- end Crystals of Power
+
+    -- The Northern Pylon
+    ["4285"] = {
+    ["Title"]="Kuzey Sutunu",
+    ["Description"]="Ne için olabilirler ki? Bu düşünceyi kafamdan atamıyorum!\n\nBeni çıldırtıyor -- kristal sütunlar hakkında duyduğum söylentilerin hepsinin doğru olması. Bana saf de ama genellikle insanların bana söylediği her şeye inanırım.\n\nHer neyse, oldukça yakında kristal sütunlardan birinin olduğunu duydum. Kuzeyde bir yerde... Lütfen yerini tespit et, YOUR_NAME. Var olduklarını biliyorum.",
+    ["Objectives"]="Un'Goro Krateri'ndeki Kuzey Kristal Sütunu'nun yerini keşfet.",
+    ["Progress"]="Sütunu ziyaret ettin mi, YOUR_NAME?",
+    ["Completion"]="Hikayelerin doğru olduğunu biliyorum, YOUR_NAME.",
+    ["minlevel"]="47",
+    ["questlevel"]="53",
+    }, -- end The Northern Pylon
+
+    -- The Good Stuff
+    -- Winky -> Winky (MobNpcData.lua)[cite: 1]
+    -- Oralius -> Oralius (MobNpcData.lua)[cite: 1]
+    -- Blackrock Depths -> Karakaya Derinlikleri (ZoneData.lua)[cite: 2]
+    ["4286"] = {
+    ["Title"]="İyi Malzeme",
+    ["Description"]="Kaptan Winky Derinlikler'deki Kara Demirlerin tüm iyi malzemeye sahip olduğunu söylüyor. Öyle değil mi, Winky?\n\n<Oralius elinden gelen en iyi korsan taklidini yapar.>\n\nARRR AHBAP! DOĞRUDUR!\n\nNe dediğimi anlıyor musun? İçeri girip bana o iyi malzemelerden bazı örnekler getirmen gerekiyor.\n\nİçeri gir ve hünerlerini göster!",
+    ["Objectives"]="Karakaya Derinlikleri'ne seyahat et ve 20 Kara Demir Bel Çantası ele geçir. Bu görevi tamamladığında Oralius'a dön. Karakaya Derinlikleri içindeki Kara Demir cücelerinin bu 'bel çantası' zımbırtılarını taşıdığını varsayıyorsun.[cite: 1, 2]",
+    ["Progress"]="Şu an rahatsız edilemem, YOUR_NAME. Winky ile katılmamız gereken bir toplantımız var.",
+    ["Completion"]="<Oralius bel çantalarından oluşan dağ gibi yığını karıştırmaya başlar.>\n\nOH HARİKA!\n\n<Oralius büyük burnunu yığına sokar ve derin bir nefes çeker.>\n\nLEZZETLİ! Şu tüm güzel şeylere bak!\n\nKendine bir tane al, YOUR_NAME. Herkese yetecek kadar var.",
+    ["minlevel"]="50",
+    ["questlevel"]="56",
+    }, -- end The Good Stuff
+
+    -- The Eastern Pylon
+    ["4287"] = {
+    ["Title"]="Doğu Sütunu",
+    ["Description"]="Burada kaldığım süre boyunca kraterin vahşi doğasında gizemli sütunların var olduğuna dair garip söylentiler duydum, YOUR_NAME. Sanırım oldukça büyükler ve iç kısımları kristallerle kaplı.\n\nHiç görmemiş olsam da, söylentilerin doğru olduğunu düşünmeden edemiyorum -- ve sütunların bulduğumuz tüm bu kristallere bir ilgisi var\n\nÖyleyse neden merakımı gidermeme yardım etmiyorsun? Güya kraterin doğu bölgesinde bir tane var. Onu bulabileceğini düşünüyor musun?",
+    ["Objectives"]="Un'Goro Krateri'ndeki Doğu Kristal Sütunu'nun yerini keşfet.",
+    ["Progress"]="Sütunu ziyaret ettin mi, YOUR_NAME?",
+    ["Completion"]="Un'Goro çok garip bir yer, YOUR_NAME. Kratere girdiğinde sanki tamamen farklı bir dünyadaymışsın gibi...",
+    ["minlevel"]="47",
+    ["questlevel"]="53",
+    }, -- end The Eastern Pylon
+
+    -- The Western Pylon
+    ["4288"] = {
+    ["Title"]="Batı Sütunu",
+    ["Description"]="Şimdiye kadarki deneylerim hiçbir olumlu sonuç vermedi, YOUR_NAME. Var olduğunu duyduğum sütunlardan birini arayarak bir çözüm bulabileceğini ummaktan kendimi alamıyorum.\n\nBelki de onların yanında belirli renkleri birleştirirsek... Ama kendimi kaptırıyorum. Önce onları bulalım!\n\nYOUR_NAME, kraterin batı bölgesini ara; o bölgede bir yerlerde bir sütun olduğu söyleniyor.",
+    ["Objectives"]="Batı Kristal Sütunu'nun yerini keşfet.",
+    ["Progress"]="Sütunu ziyaret ettin mi, YOUR_NAME?",
+    ["Completion"]="Kenarlar boyunca kraterin birçok gizli alanı var. Bakacak başka bir yer düşünemiyorsan kıvrımlı yolları keşfetmeyi dene, YOUR_NAME.",
+    ["minlevel"]="47",
+    ["questlevel"]="53",
+    }, -- end The Western Pylon
+
+    -- The Apes of Un'Goro
+    -- Lar'korwi -> Lar'korwi (MobNpcData.lua)[cite: 1]
+    -- Torwa Pathfinder -> Torwa İzci (MobNpcData.lua)[cite: 1]
+    -- Un'Goro Crater -> Un'Goro Krateri (ZoneData.lua)[cite: 2]
+    ["4289"] = {
+    ["Title"]="Un'Goro Maymunları",
+    ["Description"]="Bu kraterde birçok garip yaratık var--memleketimde ve ötesinde bulunan yaratıkların daha soylu versiyonları gibi görünüyorlar. Açıklayamıyorum ama burası Toprak Ana diye haykırıyor. Güzel yaratıklarından birini havzası boyunca her takip ettiğimde ona hürmet gösteriyorum.\n\nSen de böyle büyük bir başarının getirdiği aydınlanmayı hissetmek istiyorsan kuzeye git. Orada her ölümlünün gücünü sınayacak büyük maymunlar bulacaksın. Postlarını bana getir... Gücünü kanıtla.",
+    ["Objectives"]="Un'Goro Krateri girişindeki Torwa İzci'ye 2 Un'Goro Gorili Postu, 2 Un'Goro Tepinıcisi Postu ve 2 Un'Goro Gürleyicisi Postu getir.[cite: 1, 2]",
+    ["Progress"]="Buradaki yaratıklar seni şimdiden alt etti mi, YOUR_NAME?\n\nBu kadar kolay vazgeçme. Un'Goro maymunlarını takip edip yenmek, büyük bir avcı için bile basit bir iş değildir.",
+    ["Completion"]="Demek güçlü olduğunu kanıtladın, Un'Goro'nun büyük maymunlarını alt edecek kadar güçlü--bu iyi. Meydan okuma Lar'korwi ile kıyaslandığında küçüktü ama böyle büyük bir zaferi elinden almayacağım.\n\nBu postlar kabilem için harika giysiler olacak. Bana yardım ettin ve layık olduğunu kanıtladın.\n\nBaşka bir göreve yola çıkmadan önce Toprak Ana'ya övgüler düzelim ve öldürdüğün o maymunların ruhlarına teşekkür edelim--ölümlerinin boşa gitmeyeceğini bilmeliler.",
+    ["minlevel"]="47",
+    ["questlevel"]="55",
+    }, -- end The Apes of Un'Goro
+
+    -- The Fare of Lar'korwi
+    -- Lar'korwi -> Lar'korwi (MobNpcData.lua)[cite: 1]
+    -- Torwa Pathfinder -> Torwa İzci (MobNpcData.lua)[cite: 1]
+    -- Un'Goro Crater -> Un'Goro Krateri (ZoneData.lua)[cite: 2]
+    ["4290"] = {
+    ["Title"]="Lar'korwi'nin Yemi",
+    ["Description"]="Bir zamanlar, uzun zaman önce, bir kardeşim Lar'korwi'nin öldürdüğü bir avdan biraz et aldı. O sırada bilmiyordu ama Lar'korwi onu ormandan gördü. Lar'korwi kardeşimi günler boyunca takip etti, dokunduğu her şeyi yok etti. Kardeşim, korkudan, sonunda Krater'den kaçmaya ve Lar'korwi'yi geride bırakmaya karar verdi.\n\nLar'korwi onu bu noktadan pek uzak olmayan bir yerde öldürdü.\n\nLar'korwi'yi kışkırtmak istiyorsan, taze öldürdüğü bir avı bul ve etinden biraz al.\n\nSonrasında bana dön.",
+    ["Objectives"]="Lar'korwi'nin en taze avının leşini bul ve Un'Goro Krateri'ndeki Torwa İzci'ye dönmeden önce bir Parça Harçboğaz Leşi çal.[cite: 1, 2]",
+    ["Progress"]="Sözlerimi hafife alma, YOUR_NAME. Bu yaratıkla gerçekten yüzleşmek istiyorsan dikkatli... Ve zeki olmalısın. Lar'korwi'yi dışarı çıkarmak ve onu yenmek büyük bir güç ve kavrayış gerektirecektir.",
+    ["Completion"]="Bu işi görür, YOUR_NAME. Görünüşe göre Lar'korwi bugünlerde iyi besleniyor. Yine de bu bölgede bir harçboğazı nerede bulduğunu merak ediyorum. Garip.\n\nNe olursa olsun, canavarla karşılaşmana hazır olana kadar bunu elimde tutacağım. Benim güvenliğim için endişelenme--Lar'korwi'yi etini tadana kadar beni öldürmeyecek kadar kızdırdığından eminim.",
+    ["minlevel"]="48",
+    ["questlevel"]="53",
+    }, -- end The Fare of Lar'korwi
+
+    -- The Scent of Lar'korwi
+    -- Lar'korwi -> Lar'korwi (MobNpcData.lua)[cite: 1]
+    -- Torwa Pathfinder -> Torwa İzci (MobNpcData.lua)[cite: 1]
+    -- Un'Goro Crater -> Un'Goro Krateri (ZoneData.lua)[cite: 2]
+    ["4291"] = {
+    ["Title"]="Lar'korwi'nin Kokusu",
+    ["Description"]="Hâlâ senin için gelmemiş olmasına aslında şaşırdım, YOUR_NAME. Ama sorun değil, çünkü canavarı bize getirecek son bir planım var.\n\nBaskın erkek olmak Lar'korwi'ye seçtiği herhangi bir dişiyle çiftleşme hakkı verir--ve o birçoğunu seçer. Buranın batısında birçok ravasor yumurtası bulacaksın. Onlara yaklaş ve eşlerinin saldırısını kışkırtmalısın. Dişiler kafalarındaki bir bezden erkeklerin çiftleşmeye hazır olduklarını bilmelerini sağlayan berbat bir koku üretirler. Bana o bezlerden iki tanesini getir.",
+    ["Objectives"]="Un'Goro Krateri girişinin yakınındaki Torwa İzci'ye 2 Ravasor Feromon Bezi getir.[cite: 1, 2]",
+    ["Progress"]="Dikkatli ol, YOUR_NAME. Herhangi bir yumurta yuvasına yaklaşmak kesinlikle anneleri kışkırtacaktır... Birinden çoktan bir bez elde etmiş olsan bile. Anneler yavrularını korumak için savaştıklarında en az Lar'korwi'nin kendisi kadar ölümcül olabilirler. Ama başarılı olursan, Lar'korwi'yi saklandığı yerden çıkarmak için kesin bir yolumuz olacak.",
+    ["Completion"]="Ah, güzel örnekler, YOUR_NAME. Bulduğun iki parça Lar'korwi'yi açığa çekmek için mükemmel olmalı. Canavarla yapacağın savaşın sonucunu görmek için sabırsızlanıyorum. En keskin bıçaklar kadar keskin pençeleri olan devasa bir şeydir. Gözlerinin içine bakacaksın ve ölümü bileceksin.",
+    ["minlevel"]="48",
+    ["questlevel"]="53",
+    }, -- end The Scent of Lar'korwi
+
+    -- The Bait for Lar'korwi
+    -- Torwa -> Torwa (MobNpcData.lua)[cite: 1]
+    -- Lar'korwi -> Lar'korwi (MobNpcData.lua)[cite: 1]
+    -- Torwa Pathfinder -> Torwa İzci (MobNpcData.lua)[cite: 1]
+    -- Un'Goro Crater -> Un'Goro Krateri (ZoneData.lua)[cite: 2]
+    ["4292"] = {
+    ["Title"]="Lar'korwi İçin Yem",
+    ["Description"]="Bu en zor kısım olacak çünkü planın bir karmaşıklığı var. Buranın kuzeyinde, dağlara giden küçük bir patika bulacaksın. Lar'korwi'yi en son orada gördüm. Bir zamanlar yakınlarda dolaşan devasa yaratıkların tüm kemiklerinden dolayı doğru bölgede olduğunu anlayacaksın. Kurtardığın eti al ve oraya yerleştir. Sonra oluşturduğum bu karışımı etin üzerine sür. Birlikte karışan her iki yem de Lar'korwi'yi sana getirmezse, başka hiçbir şeyin getiremeyeceğini bilirim.",
+    ["Objectives"]="Torwa'nın Kesesi'nin içeriğini kullanarak Lar'korwi'yi çağır ve onu yen. Ardından Un'Goro Krateri girişinin yakınındaki Torwa İzci'ye Lar'korwi'nin Kafası'nı getir.[cite: 1, 2]",
+    ["Progress"]="Korkunun seni ele geçirmesine izin verme, YOUR_NAME. Korku en büyük haindir... Güçlü kalmalısın!\n\nEti al, küçük vadiye yerleştir ve ardından bezi üzerinde kullan. Ölüm ancak o zaman senin için gelecek.",
+    ["Completion"]="Toprak Ana'ya övgüler olsun! Başardın! Bravo sana, YOUR_NAME. Kendi hakkınla büyük bir avcı olduğunu kanıtladın. Ruhun güçlü. Cesaretin eşsiz. Ve gücün pekiştirildi. Becerilerinin önünde eğiliyorum.\n\nSadece atalarımın en büyükleri böylesine inanılmaz bir şeyi başarabilirdi. Tebrikler.",
+    ["minlevel"]="48",
+    ["questlevel"]="56",
+    }, -- end The Bait for Lar'korwi
+
+    -- Rocknot's Ale
+    ["4295"] = {
+    ["Title"]="Rocknot'ın Birası",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Oh, bira! Biraz Kara Demir birası için adam öldürürdüm!! Çabuk, ayılıyorum! Biliyorum çünkü ayıklık görüşümü bulanıklaştırıyor... Ve seni geçen hafta katlettiğim birine benzetiyor!",
+    ["Completion"]="Bu da ne? Ah! Kara Demir Birası gibi kokuyor! İçki görüşümü bulandırdı ama sen dostum, gerçek bir arkadaşsın!",
+    ["minlevel"]="1",
+    ["questlevel"]="1",
+    }, -- end Rocknot's Ale
+
+    -- Tablet of the Seven
+    -- Maxwort Uberglint -> Maxwort Uberglint (MobNpcData.lua)[cite: 1]
+    -- Burning Steppes -> Yanardağ Bozkırları (ZoneData.lua)[cite: 2]
+    -- Thaurissan -> Thaurissan (ZoneData.lua)[cite: 2]
+    ["4296"] = {
+    ["Title"]="Yedilerin Tableti",
+    ["Description"]="Yedilerin efsanelerini takip ederek Yanardağ Bozkırları'na geldim. Onlar büyük bilgi ve güce sahip cücelerdi ve bilgi ve güce sahipseniz, zenginliğin takip edeceğinden emin olabilirsiniz.\n\nBenim istediğim de bu. Zenginlik!\n\nYediler hakkında daha fazla şey öğrenebilirsek, belki birlikte zengin olabiliriz. Thaurissan harabelerinin kadim cücelerin bilgisini barındıran Yedilerin Tableti'ni sakladığı söylenir. Bu tableti bul, metnini kopyala ve bana getir. Sırlarını birlikte keşfedelim!",
+    ["Objectives"]="Tablet Sureti'ni Yanardağ Bozkırları'ndaki Maxwort Uberglint'e getir.[cite: 1, 2]",
+    ["Progress"]="Yedilerin yazıları yanında mı, YOUR_NAME? Tabletlerinden sırları öğrendin mi?",
+    ["Completion"]="Ah, tableti buldun! Ve suretin harika! Bir YOUR_CLASS olduğundan ve bir yazıcı olmadığından emin misin?\n\nİşte bakalım, YOUR_NAME. Söz verdiğim ödeme burada.",
+    ["minlevel"]="50",
+    ["questlevel"]="50",
+    }, -- end Tablet of the Seven
+
+    -- Food for Baby
+    -- Agnar Beastamer -> Agnar Canavareğiten (MobNpcData.lua)[cite: 1]
+    -- Elune -> Elune
+    -- Hinterlands -> Hinterlands (ZoneData.lua)[cite: 2]
+    ["4297"] = {
+    ["Title"]="Bebek İçin Yiyecek",
+    ["Description"]="Peri ejderhaları hepsiçobandır--yani hem et hem de bitki yerler. Buradaki yumurtan kuluçkadan çıkacaksa, hazırlıklı olsak iyi olur. İnan ya da inanma, bu küçük adamlar için harika yiyecekler et biftekleridir, çiğ ve sulu. Nedenini asla öğrenemedim ama Elune'un elfler için olan planıyla bir ilgisi var... Belki de koruyucu falan olmaları gerekiyordu, bilmiyorum.\n\nŞimdilik yumurtayla ben ilgileneceğim, kuluçkadan çıktığında yemesi için bana gümüşyele sinsisi pirzolası getirsen iyi olur.",
+    ["Objectives"]="Hinterlands'teki Agnar Canavareğiten'e 5 Gümüşyele Sinsisi Pirzolası getir.[cite: 1, 2]",
+    ["Progress"]="Eti henüz buldun mu, YOUR_NAME? Buradaki küçük yumurtan kuluçkadan çıkmaya neredeyse hazır. Yeterince iyi bir ilk öğün yemezse, ilk haftasını atlatamayabilir ve bunun olmasından nefret ederim.\n\nYalan söyleyemem, YOUR_NAME. En başında bu yumurtayı aldığın için seni kıskanıyorum. Sana yardım ettiğime pişman etme beni.",
+    ["Completion"]="Bunlar iş görür ve yanılmıyorsam küçük yumurtan kuluçkadan çıkmaya neredeyse hazır. Nasıl bir duygu? Bilirsin, baba olmak üzere olmak? Haha, böyle bir sorumlulukla uğraşmak zorunda kalacağını düşünmemiştin, değil mi?",
+    ["minlevel"]="38",
+    ["questlevel"]="47",
+    }, -- end Food for Baby
+
+    -- Becoming a Parent
+    -- Agnar Beastamer -> Agnar Canavareğiten (MobNpcData.lua)[cite: 1]
+    -- Hinterlands -> Hinterlands (ZoneData.lua)[cite: 2]
+    ["4298"] = {
+    ["Title"]="Ebeveyn Olmak",
+    ["Description"]="Vay canına, düşündüğümden çok daha fazla hazırmış...",
+    ["Objectives"]="Hinterlands'teki Agnar Canavareğiten ile konuş.[cite: 1, 2]",
+    ["Progress"]="",
+    ["Completion"]="Al, yumurtayı al... Sana bağlanması ve babası olarak sana bakması için sende kalması daha iyi.\n\nTebrikler, YOUR_NAME. Bir ebeveynsin... Sayılır.",
+    ["minlevel"]="37",
+    ["questlevel"]="48",
+    }, -- end Becoming a Parent
+
+    -- The Mighty U'cha
+    -- U'cha -> U'cha (MobNpcData.lua)[cite: 1]
+    -- Torwa Pathfinder -> Torwa İzci (MobNpcData.lua)[cite: 1]
+    -- Un'Goro Crater -> Un'Goro Krateri (ZoneData.lua)[cite: 2]
+    ["4301"] = {
+    ["Title"]="Kudretli U'cha",
+    ["Description"]="Sen Un'Goro'yu keşfederken, senin gibi kudretli bir avcının zevk alacağı başka şeyler gördüm. Böyle bir manzara kuzeydeki diğer goriller arasında devasa bir maymundu. O mağaraya daha önce gitmiştin ama bu sefer, görevimi kabul edersen karşılaşmadan sağ çıkıp çıkamayacağını merak ediyorum.\n\nOna U'cha diyorum ve o Toprak Ana'nın en büyük oğullarından biridir, bundan emin olabilirsin. U'cha'yı yen ve bana postunu getir. Bunu yap, ben de kendine büyük bir avcı deme hakkını savunayım.",
+    ["Objectives"]="Un'Goro Krateri girişindeki Torwa İzci'ye U'cha'nın Postu'nu getir.[cite: 1, 2]",
+    ["Progress"]="U'cha... Canavar muazzamdı. Devasa ve kırmızı, hançer büyüklüğünde dişleri vardı. Kolları ağaç gövdeleri kadar kalın ve gözlerimi diktiğim her dağ aslanı kadar hızlı. Cesaretini sınayacak böyle bir sınav bulduğun için kendini şanslı saymalısın--halkım nesiller boyu böyle bir yaratık görmeden yaşardı.",
+    ["Completion"]="Aferin, YOUR_NAME. Memnun oldum. Bugün burada harika bir şey yaptın.\n\nU'cha şimdiye kadar gördüğüm en büyük maymunlardan biriydi. Onun gücünü alt etmiş olman kendi gücün... Ve cesaretin hakkında iyi konuşuyor.\n\nBir saygı göstergesi olarak sana bunu vermem son derece uygundur. Hak ettin.",
+    ["minlevel"]="50",
+    ["questlevel"]="55",
+    }, -- end The Mighty U'cha
+
+    -- Making Sense of It
+    -- J.D. Collie -> J.D. Collie (MobNpcData.lua)[cite: 1]
+    ["4321"] = {
+    ["Title"]="Anlam Çıkarmak",
+    ["Description"]="Sütunlar hakkında bana verdiğin bilgiler çok ilgi çekici...\n\nBana bazı hesaplamalar yapmam için bir dakika ver, YOUR_NAME. Bir an sonra benimle tekrar konuş, aradığımız cevabı sana verebilmeliyim.",
+    ["Objectives"]="Bir an sonra J.D. Collie ile konuş.[cite: 1]",
+    ["Progress"]="",
+    ["Completion"]="Pekala, YOUR_NAME. Bu büyüleyici... Sadece şemalarımın doğru olduğunu umabilirim! Her şeyi alabileceğin bu el kitabında derledim.\n\nSanırım artık kristaller hakkında sahip olduğun her türlü soruyu yanıtlayabilirim, YOUR_NAME.",
+    ["minlevel"]="47",
+    ["questlevel"]="53",
+    }, -- end Making Sense of It
+
+    -- Jail Break!
+    -- Marshal Windsor -> Mareşal Windsor (MobNpcData.lua)[cite: 1]
+    -- Marshal Maxwell -> Mareşal Maxwell (MobNpcData.lua)[cite: 1]
+    -- Windsor -> Windsor (MobNpcData.lua)[cite: 1]
+    -- Bolvar -> Bolvar (MobNpcData.lua)[cite: 1]
+    -- Lady Prestor -> Leydi Prestor (MobNpcData.lua)[cite: 1]
+    -- Morgan's Vigil -> Morgan Karakolu (ZoneData.lua)[cite: 2]
+    -- Stormwind -> Fırtınaşehri (ZoneData.lua)[cite: 2]
+    ["4322"] = {
+    ["Title"]="Hapishaneden Kaçış!",
+    ["Description"]="Buradan çıkmamız gerek, YOUR_NAME. Ekipmanımı ikmal alanından geri almama ve arkadaşlarımı özgür bırakmama yardım et. Buradan çıkarsak, Morgan Karakolu'na ilerlemeli ve Mareşal Maxwell ile konuşmalısın. Sana daha fazla talimat verecektir.",
+    ["Objectives"]="Mareşal Windsor'ın ekipmanını geri almasına ve arkadaşlarını özgür bırakmasına yardım et. Başarılı olursan Mareşal Maxwell'e dön.[cite: 1, 2]",
+    ["Progress"]="Yorgun görünüyorsun, YOUR_NAME. Belki de ateşin yanında bir sandalye alıp rahatlamalısın.",
+    ["Completion"]="İnanılmaz, YOUR_NAME. Tek kelimeyle inanılmaz. Windsor beş dakika önce buradan fırtına gibi geçti. Büyük iddialarda bulunuyor ama bunların kanıtlarıyla desteklendiğini ileri sürüyor. Bolvar ve... Leydi Prestor ile yüzleşmek için Fırtınaşehri'ne doğru yola çıktı.",
+    ["minlevel"]="50",
+    ["questlevel"]="58",
+    }, -- end Jail Break!
+
+    -- Yuka Screwspigot
+    -- Ribbly -> Ribbly (MobNpcData.lua)[cite: 1]
+    -- Yuka -> Yuka (MobNpcData.lua)[cite: 1]
+    -- Yuka Screwspigot -> Yuka Screwspigot (MobNpcData.lua)[cite: 1]
+    -- Burning Steppes -> Yanardağ Bozkırları (ZoneData.lua)[cite: 2]
+    -- Flame Crest -> Alev Tepesi
+    -- Dreadmaul Rock -> Dehşetbalyoz Kayalığı
+    ["4324"] = {
+    ["Title"]="Yuka Screwspigot",
+    ["Description"]="Küçük kardeşim Ribbly tüm hayatı boyunca değersiz olsa da, nihayet bir değere sahip olduğunu düşünüyorum! Ama... Ribbly'nin yeni bulunan değerinden yararlanmak için yardımına ihtiyacımız olabilir.\n\nKız kardeşim Yuka haftalardır onu arıyordu ve izini Yanardağ Bozkırları'na kadar sürdü. Bana kiralık adamlar isteyen bir haber gönderdi.\n\nEee, ne diyorsun? Yardım etmek ister misin? Öyleyse kız kardeşimle konuş. Onu Dehşetbalyoz Kayalığı'nın kuzeybatısındaki bir mağara olan Alev Tepesi'nde sinmiş halde bulacaksın.",
+    ["Objectives"]="Yanardağ Bozkırları'ndaki Yuka Screwspigot ile konuş.[cite: 1, 2]",
+    ["Progress"]="",
+    ["Completion"]="Evet, kardeşimi arıyorum. Onu bulmalı ve geri getirmeliyiz, canı sağ olsun.\n\nAma hepsini getiremezsek... O zaman kafası yeterli olacaktır.",
+    ["minlevel"]="48",
+    ["questlevel"]="53",
+    }, -- end Yuka Screwspigot
+
+    -- Kharan Mighthammer
+    -- Kharan Mighthammer -> Kharan Güçlübalyoz (MobNpcData.lua)[cite: 1]
+    -- Kharan -> Kharan (MobNpcData.lua)[cite: 1]
+    -- Thaurissan -> Thaurissan (ZoneData.lua)[cite: 2]
+    ["4341"] = {
+    ["Title"]="Kharan Güçlübalyoz",
+    ["Description"]="Thaurissan'ın tüten harabelerine gittin mi? Şans eseri Kharan Güçlübalyoz adındaki zavallı bir sersere denk geldin mi? Güya küçük kızıma göz kulak olan cüce!\n\n<Kral hıçkırır.>\n\nVe şimdi o gitti, YOUR_NAME!\n\nAdamlarıma Bozkırlar'ı altüst ettirdim. Kızımın nerede olduğuna dair sahip oldukları tek ipucu Derinlikler'de olabileceği. Bildiğim kadarıyla ölmüş olabilir!\n\nKharan'ın orada tutsak olarak tutulduğu söyleniyor... Onu bul! Cevaplar istiyorum!",
+    ["Objectives"]="Karakaya Derinlikleri'ne seyahat et ve Kharan Güçlübalyoz'u bul.\n\nKral Kharan'ın orada tutsak olarak tutulduğunu söyledi - belki bir hapishane aramayı denemelisin.[cite: 1, 2]",
+    ["Progress"]="",
+    ["Completion"]="Lütfen, açıklamama izin ver.",
+    ["minlevel"]="50",
+    ["questlevel"]="59",
+    }, -- end Kharan Mighthammer
+
+    -- Kharan's Tale
+    -- Kharan Mighthammer -> Kharan Güçlübalyoz (MobNpcData.lua)[cite: 1]
+    ["4342"] = {
+    ["Title"]="Kharan'ın Hikayesi",
+    ["Description"]="Lütfen, hüküm vermeden önce beni dinleyin!",
+    ["Objectives"]="Kharan Güçlübalyoz hikayesini anlatırken dinle.[cite: 1]",
+    ["Progress"]="Hikayemi bitirmeme izin ver.",
+    ["Completion"]="Gördüğünüz gibi, yapabileceğim hiçbir şey yoktu.",
+    ["minlevel"]="50",
+    ["questlevel"]="59",
+    }, -- end Kharan's Tale
+
+    -- Corrupted Windblossom
+    ["4343"] = {
+    ["Title"]="Yozlaşmış Rüzgarçiçeği",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Bir rüzgarçiçeği bitkisinin hastalıklı, yozlaşmış bir versiyonunu buldun. Bitkiden sarkan meyveler çürük ve zehirli görünüyor. Tekrar normale döndürülmesi için kesinlikle bir tür ilgiye ihtiyacı var.",
+    ["Completion"]="Rüzgarçiçeğine iki Cenarion bitki merhemi sürüyorsun. Hemen yozlaşmış biçimini dökmeye başlayarak canlı ve sağlıklı bir bitkiye dönüşüyor.",
+    ["minlevel"]="48",
+    ["questlevel"]="55",
+    }, -- end Corrupted Windblossom
+
+    -- The Bearer of Bad News
+    -- King Magni -> Kral Magni (MobNpcData.lua)[cite: 1]
+    -- King Magni Bronzebeard -> Kral Magni Tunçsakal (MobNpcData.lua)[cite: 1]
+    -- Ironforge -> Demirocak (ZoneData.lua)[cite: 2]
+    ["4361"] = {
+    ["Title"]="Kötü Haber Getiren",
+    ["Description"]="Bu bilgiyi Kral Magni'ye geri götürmelisin, YOUR_NAME. O ne yapacağını bilecektir!",
+    ["Objectives"]="Demirocak'a dön ve kötü haberleri Kral Magni Tunçsakal'a teslim et.[cite: 1, 2]",
+    ["Progress"]="",
+    ["Completion"]="<Kral Magni yumruğunu öfkeyle masaya vurur.>",
+    ["minlevel"]="50",
+    ["questlevel"]="59",
+    }, -- end The Bearer of Bad News
+
+    -- The Fate of the Kingdom
+    -- Dagran Thaurissan -> Dagran Thaurissan (MobNpcData.lua)[cite: 1]
+    -- Moira -> Moira (MobNpcData.lua)[cite: 1]
+    -- Thaurissan -> Thaurissan (MobNpcData.lua)[cite: 1]
+    -- Princess Moira Bronzebeard -> Prenses Moira Tunçsakal (MobNpcData.lua)[cite: 1]
+    -- Emperor Dagran Thaurissan -> İmparator Dagran Thaurissan (MobNpcData.lua)[cite: 1]
+    -- Ironforge -> Demirocak (ZoneData.lua)[cite: 2]
+    -- Blackrock Depths -> Karakaya Derinlikleri (ZoneData.lua)[cite: 2]
+    ["4362"] = {
+    ["Title"]="Krallığın Kaderi",
+    ["Description"]="Eski rakibim Dagran Thaurissan, beni ve Demirocak krallığını merhametine kalmış gibi gösteriyor.\n\nSon umudum sen olabilirsin, YOUR_NAME. Sevgili kızım Moira'yı kurtarmalısın!\n\nThaurissan'ın Moira'ya yaptığı büyünün bozulduğundan emin olmanın tek bir yolu var: Onu öldür.\n\nVe YOUR_NAME, ona zarar verme! Unutma, o Thaurissan tarafından kontrol ediliyor! Yapabileceği veya söyleyebileceği şeyler Thaurissan'ın kötü büyüsünün bir sonucudur!",
+    ["Objectives"]="Karakaya Derinlikleri'ne dön ve Prenses Moira Tunçsakal'ı İmparator Dagran Thaurissan'ın kötü pençelerinden kurtar.[cite: 1, 2]",
+    ["Progress"]="",
+    ["Completion"]="<Prenses Tunçsakal İmparator Dagran Thaurissan'ın kaybı için ağlar.>\n\nNeden???",
+    ["minlevel"]="50",
+    ["questlevel"]="59",
+    }, -- end The Fate of the Kingdom
+
+    -- The Princess's Surprise
+    -- Thaurissan -> Thaurissan (MobNpcData.lua)[cite: 1]
+    -- Princess Bronzebeard -> Prenses Tunçsakal (MobNpcData.lua)[cite: 1]
+    -- King Magni Bronzebeard -> Kral Magni Tunçsakal (MobNpcData.lua)[cite: 1]
+    -- King Bronzebeard -> Kral Tunçsakal (MobNpcData.lua)[cite: 1]
+    -- Ironforge -> Demirocak (ZoneData.lua)[cite: 2]
+    ["4363"] = {
+    ["Title"]="Prensesin Sürprizi",
+    ["Description"]="Thaurissan harika ve onurlu bir cüceydi. Hayatımı ve doğmamış çocuğumun hayatını mahvettin!\n\n<Prenses Tunçsakal'ın hâlâ İmparator'un büyüsünün kalıcı etkisinden muzdarip olabileceğini düşünüyorsun.>\n\nDemirocak'a dön ve babama Demirocak Krallığı'nın varisinin bir Kara Demir cücesi olacağını söyle.\n\nOnaylasa da onaylamasa da, öyle olacak.",
+    ["Objectives"]="Demirocak'a dön ve Kral Magni Tunçsakal ile konuş.[cite: 1, 2]",
+    ["Progress"]="",
+    ["Completion"]="<Kral Magni Tunçsakal gözle görülür şekilde üzgündür.>\n\nGörünüşe göre ölümünde bile Thaurissan kazandı.\n\nGidebilirsin, YOUR_NAME. Ayrılmadan önce kraliyet kasasından ödülünü seçebilirsin.\n\n<Kral Tunçsakal olayların bu garip değişimini düşünmek üzere tahtına çöker.>",
+    ["minlevel"]="50",
+    ["questlevel"]="59",
+    }, -- end The Princess's Surprise
+
+    -- Corrupted Songflower
+    ["4401"] = {
+    ["Title"]="Yozlaşmış Şarkıçiçeği",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Bir şarkıçiçeği bitkisinin hastalıklı, yozlaşmış bir versiyonunu buldun. Bitkiden keskin, sağlıksız bir koku yayılıyor. Tekrar normale döndürülmesi için kesinlikle bir tür ilgiye ihtiyacı var.",
+    ["Completion"]="Şarkıçiçeğine biraz Cenarion bitki merhemi sürüyorsun. Hemen yozlaşmış biçimini dökmeye başlayarak canlı ve sağlıklı bir bitkiye dönüşüyor.",
+    ["minlevel"]="48",
+    ["questlevel"]="55",
+    }, -- end Corrupted Songflower
+
+    -- Corrupted Windblossom
+    ["4403"] = {
+    ["Title"]="Yozlaşmış Rüzgarçiçeği",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Bir rüzgarçiçeği bitkisinin hastalıklı, yozlaşmış bir versiyonunu buldun. Bitkiden sarkan meyveler çürük ve zehirli görünüyor. Tekrar normale döndürülmesi için kesinlikle bir tür ilgiye ihtiyacı var.",
+    ["Completion"]="Rüzgarçiçeğine iki Cenarion bitki merhemi sürüyorsun. Hemen yozlaşmış biçimini dökmeye başlayarak canlı ve sağlıklı bir bitkiye dönüşüyor.",
+    ["minlevel"]="48",
+    ["questlevel"]="55",
+    }, -- end Corrupted Windblossom
+
+    -- The Corruption of the Jadefire
+    -- Xavathras -> Xavathras (MobNpcData.lua)[cite: 1]
+    -- Eridan Bluewind -> Eridan Mavirüzgar (MobNpcData.lua)[cite: 1]
+    -- Felwood -> Felwood (ZoneData.lua)[cite: 2]
+    -- Emerald Circle -> Zümrüt Çember
+    -- Ruins of Constellas -> Constellas Harabeleri (ZoneData.lua)[cite: 2]
+    ["4421"] = {
+    ["Title"]="Yeşilateş'in Yozlaşması",
+    ["Description"]="Pek çok kişi burada macera aramıyor... Felwood'un yozlaşması yaygın ve ayrım gözetmiyor.\n\nZümrüt Çember'in bir parçası olarak bu toprağı iyileştirmek istiyorum ama onun iltihaplanmasını isteyenler var.\n\nBahsettiğim kişiler buranın kuzeybatısındaki Constellas Harabeleri'nde ikamet eden Yeşilateş satirleridir. Xavathras adında özellikle zalim bir satir tarafından yönetilerek, karşılaştıkları her türlü yaratığa hastalığı yaymaya devam ediyorlar.\n\nBir zamanlar bizim olan bu toprağı savunmalıyız. Xavathras'ı yen ve müritlerini yok et.",
+    ["Objectives"]="11 Yeşilateş İblisadağı, 9 Yeşilateş Gölgetakipçisi, 9 Yeşilateş Haydudu ve Xavathras'ı öldür. Görev tamamlandığında Felwood'daki Eridan Mavirüzgar'a dön.[cite: 1, 2]",
+    ["Progress"]="Buradaki yozlaşma yaratıkları çılgınlığa sürüklüyor...",
+    ["Completion"]="Felwood'u Xavathras'tan kurtarmak uzun bir sürecin sadece ilk adımıdır. Burada yapılmış olan hasarı onarmak çok çalışma gerektirecektir.\n\nBurada sadece satyrlerden çok daha büyük bir şeyin iş başında olduğunu hissediyorum ama gerçeği sadece zamanla öğreneceğiz...",
+    ["minlevel"]="49",
+    ["questlevel"]="54",
+    }, -- end The Corruption of the Jadefire
+
+    -- Felbound Ancients
+    -- Eridan -> Eridan (MobNpcData.lua)[cite: 1]
+    -- Felwood -> Felwood (ZoneData.lua)[cite: 2]
+    -- Darnassus -> Darnassus (ZoneData.lua)[cite: 2]
+    -- Temple of the Moon -> Ay Tapınağı
+    ["4441"] = {
+    ["Title"]="İblise Bağlı Kadimler",
+    ["Description"]="Bulduğun flüt, gece elflerini sadakatle koruyan treant müttefikleri kadim bir koruyucudan yontulmuş.\n\nSatyrler temas ettikleri her şeyi yozlaştırabildiler, buna Felwood'u evleri yapan kadimler de dahil. İblisin kullanımıyla kadim ruh bağlanmış ve işkence görmüş, asla tamamen serbest bırakılmamış. Bulduğun iblis bağı şüphesiz bununla ilgili.\n\nFlütü arındırmaya çalışmalıyız, YOUR_NAME. Bana Darnassus'taki Ay Tapınağı'ndan kutsanmış su getir.",
+    ["Objectives"]="Darnassus'a seyahat et ve Ay Tapınağı'ndan bir Şişe Kutsanmış Su toplamak için Eridan'ın Şişesi'ni kullan. Dolu şişeyle Eridan'a dön.[cite: 1, 2]",
+    ["Progress"]="Su umarım kadim ruhu serbest bırakacak ve huzur içinde olmasına izin verecektir.",
+    ["Completion"]="Teşekkür ederim, YOUR_NAME. Şimdi yapılmış olan hasarı geri alabilmek için dua etmeliyiz...",
+    ["minlevel"]="49",
+    ["questlevel"]="54",
+    }, -- end Felbound Ancients
+
+    -- Purified!
+    -- Elune -> Elune
+    -- Irontree Woods -> Demirağaç Ormanları (ZoneData.lua)[cite: 2]
+    ["4442"] = {
+    ["Title"]="Arındırıldı!",
+    ["Description"]="Elune'un suyunu kullanarak flütü arındırmaya çalışacağım. Bu acıya bir son vermeliyiz...\n\nElune ellerime ve kalbime rehberlik etsin.\n\nBir an sonra benimle tekrar konuş.",
+    ["Objectives"]="Bir an sonra Eridan ile tekrar konuş.",
+    ["Progress"]="",
+    ["Completion"]="Kutsanmış su ile flüt ve kadim ruh arasındaki bağı koparabildim. Kutsal bir noktada bu flütü kullanacak olursan kadim ruhları çağırabileceğine inanıyorum.\n\nBelki de Demirağaç Ormanları'nın güney kısmındaki harabeleri deneyebilirsin. Bir zamanlar birçok yozlaşmış treant bu bölgede yaşıyordu ve ruh biçiminde bile olsa hâlâ orada ikamet ediyor olmaları muhtemeldir.",
+    ["minlevel"]="49",
+    ["questlevel"]="54",
+    }, -- end Purified!
+
+    -- Corrupted Whipper Root
+    ["4443"] = {
+    ["Title"]="Yozlaşmış Kamçı Kökü",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Bir kamçı kökü bitkisinin hastalıklı, yozlaşmış bir versiyonunu buldun. Bitkinin görünen kökleri sert ve derimsi görünüyor ve bitkiden yapışkan bir tabaka sarkıyor. Tekrar normale döndürülmesi için kesinlikle bir tür ilgiye ihtiyacı var.",
+    ["Completion"]="Kamçı Köküne 3 Cenarion Bitki Merhemi sürüyorsun. Hemen yozlaşmış biçimini dökmeye başlayarak canlı ve sağlıklı bir bitkiye dönüşüyor.",
+    ["minlevel"]="48",
+    ["questlevel"]="55",
+    }, -- end Corrupted Whipper Root
+
+    -- Corrupted Whipper Root
+    ["4444"] = {
+    ["Title"]="Yozlaşmış Kamçı Kökü",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Bir kamçı kökü bitkisinin hastalıklı, yozlaşmış bir versiyonunu buldun. Bitkinin görünen kökleri sert ve derimsi görünüyor ve bitkiden yapışkan bir tabaka sarkıyor. Tekrar normale döndürülmesi için kesinlikle bir tür ilgiye ihtiyacı var.",
+    ["Completion"]="Kamçı Köküne 3 Cenarion Bitki Merhemi sürüyorsun. Hemen yozlaşmış biçimini dökmeye başlayarak canlı ve sağlıklı bir bitkiye dönüşüyor.",
+    ["minlevel"]="48",
+    ["questlevel"]="55",
+    }, -- end Corrupted Whipper Root
+
+    -- Corrupted Whipper Root
+    ["4445"] = {
+    ["Title"]="Yozlaşmış Kamçı Kökü",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Bir kamçı kökü bitkisinin hastalıklı, yozlaşmış bir versiyonunu buldun. Bitkinin görünen kökleri sert ve derimsi görünüyor ve bitkiden yapışkan bir tabaka sarkıyor. Tekrar normale döndürülmesi için kesinlikle bir tür ilgiye ihtiyacı var.",
+    ["Completion"]="Kamçı Köküne 3 Cenarion Bitki Merhemi sürüyorsun. Hemen yozlaşmış biçimini dökmeye başlayarak canlı ve sağlıklı bir bitkiye dönüşüyor.",
+    ["minlevel"]="48",
+    ["questlevel"]="55",
+    }, -- end Corrupted Whipper Root
+
+    -- Corrupted Whipper Root
+    ["4446"] = {
+    ["Title"]="Yozlaşmış Kamçı Kökü",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Bir kamçı kökü bitkisinin hastalıklı, yozlaşmış bir versiyonunu buldun. Bitkinin görünen kökleri sert ve derimsi görünüyor ve bitkiden yapışkan bir tabaka sarkıyor. Tekrar normale döndürülmesi için kesinlikle bir tür ilgiye ihtiyacı var.",
+    ["Completion"]="Kamçı Köküne 3 Cenarion Bitki Merhemi sürüyorsun. Hemen yozlaşmış biçimini dökmeye başlayarak canlı ve sağlıklı bir bitkiye dönüşüyor.",
+    ["minlevel"]="48",
+    ["questlevel"]="55",
+    }, -- end Corrupted Whipper Root
+
+    -- Corrupted Night Dragon
+    ["4447"] = {
+    ["Title"]="Yozlaşmış Gece Ejderhası",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Bir gece ejderhası bitkisinin hastalıklı, yozlaşmış bir versiyonunu buldun. Bitkiden sarkan meyveler çürük ve zehirli görünüyor. Tekrar normale döndürülmesi için kesinlikle bir tür ilgiye ihtiyacı var.",
+    ["Completion"]="Gece Ejderhası'na 4 Cenarion Bitki Merhemi sürüyorsun. Hemen yozlaşmış biçimini dökmeye başlayarak canlı ve sağlıklı bir bitkiye dönüşüyor.",
+    ["minlevel"]="48",
+    ["questlevel"]="55",
+    }, -- end Corrupted Night Dragon
+
+    -- Corrupted Night Dragon
+    ["4448"] = {
+    ["Title"]="Yozlaşmış Gece Ejderhası",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Bir gece ejderhası bitkisinin hastalıklı, yozlaşmış bir versiyonunu buldun. Bitkiden sarkan meyveler çürük ve zehirli görünüyor. Tekrar normale döndürülmesi için kesinlikle bir tür ilgiye ihtiyacı var.",
+    ["Completion"]="Gece Ejderhası'na 4 Cenarion Bitki Merhemi sürüyorsun. Hemen yozlaşmış biçimini dökmeye başlayarak canlı ve sağlıklı bir bitkiye dönüşüyor.",
+    ["minlevel"]="48",
+    ["questlevel"]="55",
+    }, -- end Corrupted Night Dragon
+    -- Caught!
+    -- Dark Iron Geologists -> Kara Demir Jeologları (MobNpcData.lua)[cite: 1]
+    -- Searing Gorge -> Kavuran Yarık (ZoneData.lua)[cite: 2]
+    ["4449"] = {
+    ["Title"]="Yakalandım!",
+    ["Description"]="Hey! Hey, sen! Buraya gel!\n\nBana yardım etmelisin. O Kara Demir cücelerinden kaçıyordum ve gözden kaybolmak için buraya saklandım. Lanet olası jeologlar ve onların sihirli yolları! Saklandığımı görmüş olmalılar, çünkü bir an sonra kapıyı kilitleyip beni buraya tıkadılar.\n\nO jeologlara bir ders ver! Oh... Ve... Ve... Hiçbir şey için bana birkaç parça ipek kumaş getirebilir misin?",
+    ["Objectives"]="8 Kara Demir Jeologu öldür ve Kavuran Yarık'taki dışkılıkta kilitli kalan kişiye 15 parça İpek Kumaş getir.[cite: 1, 2]",
+    ["Progress"]="Bütün günüm yok! Getir şu ipek kumaş parçalarını! Yani jeologları. Yakala şu jeologları! Benim, yani... Senin gazabını hissetmeyi hak ediyorlar.",
+    ["Completion"]="Oh, bu harika! Dokusu da çok güzel!\n\nNe? Oh, evet... Jeologlar. Onlara günlerini gösterdin, değil mi? Sana ne kadar teşekkür etsem azdır, YOUR_NAME. Bu bana burada işimi bitirmek için biraz zaman kazandıracak... Yani, yakın zamanda benim için geri gelmelerinden endişelenmememi sağlayacak. Tekrar teşekkürler.",
+    ["minlevel"]="43",
+    ["questlevel"]="45",
+    }, -- end Caught!
+
+    -- Ledger from Tanaris
+    -- Krinkle Goodsteel -> Krinkle İyıçelik (MobNpcData.lua)[cite: 1]
+    -- Searing Gorge -> Kavuran Yarık (ZoneData.lua)[cite: 2]
+    -- Tanaris -> Tanaris (ZoneData.lua)[cite: 2]
+    -- Gadgetzan -> Gadgetzan (ZoneData.lua)[cite: 2]
+    ["4450"] = {
+    ["Title"]="Tanaris'ten Defter",
+    ["Description"]="Oh, biliyor musun? Bu bana bir şeyi hatırlattı.\n\nTanaris'teyken aldığım küçük bir işi bitirmek ister misin? Çok kolay...\n\nGadgetzan'daki Krinkle İyiçelik, Kavuran Yarık'ta ve birkaç başka yerde bulunan bazı şeyleri arıyordu. Belki listeye bir göz atıp hepsini ona götürebilirsin?\n\nİlgileniyorsan defterini kapının altından kaydıracağım. Onu al ve hepsini topladıktan sonra istediği şeyleri ona geri götür.",
+    ["Objectives"]="İyiçelik'in Defteri'nin kopyasını al ve Tanaris'teki Krinkle İyiçelik'i aramadan önce içinde listelenen eşyaları bul.[cite: 1, 2]",
+    ["Progress"]="Evet, evet? Senin için ne yapabilirim, YOUR_RACE? Dehşet verici derecede meşgulüm ve hizmetlerimi talep eden birçok müşterim var. Belki işleri hızlandırabilirsin. Kaba olmak istemem ama tüm işlerime yetişeceksem hiç vaktim yok.",
+    ["Completion"]="Oh, talep ettiğim işlerden bazılarını yapmayı uygun gördün. Mükemmel. Ben de senin bana bir şey üretmemi isteyeceğini düşünmüştüm.\n\nBunların hepsi mükemmel... Ve her şey burada. Teşekkür ederim, YOUR_CLASS.\n\nBelki seni ödüllendirmek fena olmazdı... Hm, neyi yararlı bulursun acaba.",
+    ["minlevel"]="43",
+    ["questlevel"]="46",
+    }, -- end Ledger from Tanaris
+
+    -- The Key to Freedom
+    -- Locheed -> Locheed (MobNpcData.lua)[cite: 1]
+    -- Searing Gorge -> Kavuran Yarık (ZoneData.lua)[cite: 2]
+    -- Grimesilt -> Kirlicüruf
+    ["4451"] = {
+    ["Title"]="Özgürlüğün Anahtarı",
+    ["Description"]="Küçük pirinç anahtar yeterince basit görünüyor. Onu öne çıkarıyor gibi görünen tek şey tepesine kazınmış birkaç kelime:\n\n\"Kara Demir Dışkılığı - Kopyalamayınız.\"\n\nNe anlama geldiği veya nereye varacağı hakkında hiçbir fikrin yok.",
+    ["Objectives"]="Kavuran Yarık'ı ara ve bulduğun Kirlicüruf Dışkılık Anahtarı için bir kullanım alanı bul.[cite: 2]",
+    ["Progress"]=\"*öksürür*\n\nKim o? Meşgul olduğumu görmüyor musun?\",
+    ["Completion"]="Vay canına! Bu nasıl olabilir!? Anahtarı buldun! Beni buraya kilitledikten sonra o lanet Kara Demirlerin onu sakladığını biliyordum! Çok teşekkür ederim, YOUR_NAME. Sen en büyüksün! Şimdi sadece anahtarı çevir ve ihtiyar Locheed'i buradan çıkar!",
+    ["minlevel"]="43",
+    ["questlevel"]="47",
+    }, -- end The Key to Freedom
+
+    -- Corrupted Whipper Root
+    ["4461"] = {
+    ["Title"]="Yozlaşmış Kamçı Kökü",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Bir kamçı kökü bitkisinin hastalıklı, yozlaşmış bir versiyonunu buldun. Bitkinin görünen kökleri sert ve derimsi görünüyor ve bitkiden yapışkan bir tabaka sarkıyor. Tekrar normale döndürülmesi için kesinlikle bir tür ilgiye ihtiyacı var.",
+    ["Completion"]="Kamçı Köküne 3 Cenarion Bitki Merhemi sürüyorsun. Hemen yozlaşmış biçimini dökmeye başlayarak canlı ve sağlıklı bir bitkiye dönüşüyor.",
+    ["minlevel"]="48",
+    ["questlevel"]="55",
+    }, -- end Corrupted Whipper Root
+
+    -- Corrupted Night Dragon
+    ["4462"] = {
+    ["Title"]="Yozlaşmış Gece Ejderhası",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Bir gece ejderhası bitkisinin hastalıklı, yozlaşmış bir versiyonunu buldun. Bitkiden sarkan meyveler çürük ve zehirli görünüyor. Tekrar normale döndürülmesi için kesinlikle bir tür ilgiye ihtiyacı var.",
+    ["Completion"]="Gece Ejderhası'na 4 Cenarion Bitki Merhemi sürüyorsun. Hemen yozlaşmış biçimini dökmeye başlayarak canlı ve sağlıklı bir bitkiye dönüşüyor.",
+    ["minlevel"]="48",
+    ["questlevel"]="55",
+    }, -- end Corrupted Night Dragon
+
+    -- Libram of Rumination
+    ["4463"] = {
+    ["Title"]="Derin Düşünce El Kitabı",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Bileşenleri sun, ölümlü.\n\nBu yaratım için ayrıca otuz altın sikke şeklinde ödeme talep edeceğim.",
+    ["Completion"]="Ziynetini al, aptal. Beni çalışmalarımla baş başa bırak!",
+    ["minlevel"]="50",
+    ["questlevel"]="55",
+    }, -- end Libram of Rumination
+
+    -- Corrupted Songflower
+    ["4464"] = {
+    ["Title"]="Yozlaşmış Şarkıçiçeği",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Bir şarkıçiçeği bitkisinin hastalıklı, yozlaşmış bir versiyonunu buldun. Bitkiden keskin, sağlıksız bir koku yayılıyor. Tekrar normale döndürülmesi için kesinlikle bir tür ilgiye ihtiyacı var.",
+    ["Completion"]="Şarkıçiçeğine biraz Cenarion bitki merhemi sürüyorsun. Hemen yozlaşmış biçimini dökmeye başlayarak canlı ve sağlıklı bir bitkiye dönüşüyor.",
+    ["minlevel"]="48",
+    ["questlevel"]="55",
+    }, -- end Corrupted Songflower
+
+    -- Corrupted Songflower
+    ["4465"] = {
+    ["Title"]="Yozlaşmış Şarkıçiçeği",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Bir şarkıçiçeği bitkisinin hastalıklı, yozlaşmış bir versiyonunu buldun. Bitkiden keskin, sağlıksız bir koku yayılıyor. Tekrar normale döndürülmesi için kesinlikle bir tür ilgiye ihtiyacı var.",
+    ["Completion"]="Şarkıçiçeğine biraz Cenarion bitki merhemi sürüyorsun. Hemen yozlaşmış biçimini dökmeye başlayarak canlı ve sağlıklı bir bitkiye dönüşüyor.",
+    ["minlevel"]="48",
+    ["questlevel"]="55",
+    }, -- end Corrupted Songflower
+
+    -- Corrupted Windblossom
+    ["4466"] = {
+    ["Title"]="Yozlaşmış Rüzgarçiçeği",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Bir rüzgarçiçeği bitkisinin hastalıklı, yozlaşmış bir versiyonunu buldun. Bitkiden sarkan meyveler çürük ve zehirli görünüyor. Tekrar normale döndürülmesi için kesinlikle bir tür ilgiye ihtiyacı var.",
+    ["Completion"]="Rüzgarçiçeğine iki Cenarion bitki merhemi sürüyorsun. Hemen yozlaşmış biçimini dökmeye başlayarak canlı ve sağlıklı bir bitkiye dönüşüyor.",
+    ["minlevel"]="48",
+    ["questlevel"]="55",
+    }, -- end Corrupted Windblossom
+
+    -- Corrupted Windblossom
+    ["4467"] = {
+    ["Title"]="Yozlaşmış Rüzgarçiçeği",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Bir rüzgarçiçeği bitkisinin hastalıklı, yozlaşmış bir versiyonunu buldun. Bitkiden sarkan meyveler çürük ve zehirli görünüyor. Tekrar normale döndürülmesi için kesinlikle bir tür ilgiye ihtiyacı var.",
+    ["Completion"]="Rüzgarçiçeğine iki Cenarion bitki merhemi sürüyorsun. Hemen yozlaşmış biçimini dökmeye başlayarak canlı ve sağlıklı bir bitkiye dönüşüyor.",
+    ["minlevel"]="48",
+    ["questlevel"]="55",
+    }, -- end Corrupted Windblossom
+
+    -- Libram of Constitution
+    ["4481"] = {
+    ["Title"]="Bünye El Kitabı",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Bu dünyadaki her şeyin ödenmesi gereken bir bedeli vardır. Aradığın belirli eşyanın bedeli otuz altın sikkedir.\n\nDoğal olarak topladığın bileşenlerin çoğunu ben saklayacağım. Ama endişelenme, ziynetine kavuşacaksın.",
+    ["Completion"]="Anısına bir saygısızlık... Senin gibi bir ölümlünün onun hayatının eserini tamamlaması.\n\nKarışımını al ve defol!",
+    ["minlevel"]="50",
+    ["questlevel"]="55",
+    }, -- end Libram of Constitution
+
+    -- Libram of Tenacity
+    -- Kariel -> Kariel (MobNpcData.lua)[cite: 1]
+    -- Burning Steppes -> Yanardağ Bozkırları (ZoneData.lua)[cite: 2]
+    ["4482"] = {
+    ["Title"]="Azim El Kitabı",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Otuz altın, YOUR_RACE. Otuz altın ve gerekli bileşenler.",
+    ["Completion"]="Şu an tuttuğun el kitabını tamamlamak Kariel'ın senin birkaç ömrüne denk gelen zamanını aldı, YOUR_RACE. Hepsi ne içindi? Müriti Yanardağ Bozkırları'nda durabilsin ve sonu gelmeyen bir gizemli güç arzusunu tatmin etmek için onun araştırmasını yozlaştırabilsin diye... Lanet olsun bu iğrenç bağımlılığa.\n\nŞefkat eksikliğin ve doymak bilmez açgözlülüğün midemi bulandırıyor. Defol!",
+    ["minlevel"]="50",
+    ["questlevel"]="55",
+    }, -- end Libram of Tenacity
+
+    -- Libram of Resilience
+    ["4483"] = {
+    ["Title"]="Dayanıklılık El Kitabı",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Arzuladığın şey dayanıklılıksa, otuz altın talep ederim.",
+    ["Completion"]="Diğer el kitapları bu dünyada kayboldu. Girmeye cesaret edemeyeceğin yerlerde kayboldu. Var olmaması için dua edeceğin yerler.\n\nBu bileşenlerin enerjilerini içime çekeceğim. Sana ise artık atıklar verilecek...",
+    ["minlevel"]="50",
+    ["questlevel"]="55",
+    }, -- end Libram of Resilience
+
+    -- Libram of Voracity
+    ["4484"] = {
+    ["Title"]="Oburluk El Kitabı",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Vaktimi boşa harcama, YOUR_RACE. Bana gerekenleri ver. Otuz altın ve bileşenler.",
+    ["Completion"]="Kafam zonkluyor... Evrenimizi oluşturan engin alanların enerjileri... ARGGH!\n\nArzuladığın şeyi al ve git!",
+    ["minlevel"]="50",
+    ["questlevel"]="55",
+    }, -- end Libram of Voracity
+
+    -- A Little Help From My Friends
+    -- Spraggle -> Spraggle (MobNpcData.lua)[cite: 1]
+    -- Spraggle Frock -> Spraggle Frock (MobNpcData.lua)[cite: 1]
+    -- Ringo -> Ringo (MobNpcData.lua)[cite: 1]
+    -- Marshal's Refuge -> Marshal Sığınağı (ZoneData.lua)[cite: 2]
+    ["4491"] = {
+    ["Title"]="Dostlarımdan Küçük Bir Yardım",
+    ["Description"]="Ugh... Çok sıcak...\n\nBu bölgeyi keşfediyordum ki aniden sıcaklık dayanılmaz hale geldi. Sıcak çarpmasından muzdarip olmalıyım.\n\nLütfen Marshal Sığınağı'ndaki arkadaşım Spraggle'a dönmeme yardım et. Seni takip edecek kadar iyi olduğumu düşünüyorum.\n\nKendimi biraz bitkin hissediyorum, bu yüzden tekrar bayılacak olursam Spraggle'ın matarasından üzerime biraz su serp. Bu işe yarar umarım...",
+    ["Objectives"]="Ringo'yu Marshal Sığınağı'ndaki Spraggle Frock'a götür.\n\nRingo bayılırsa, onu ayıltmak için Spraggle'ın Matarası'nı kullan.[cite: 1, 2]",
+    ["Progress"]="Ringo için çok endişelendim...",
+    ["Completion"]="Ringo en iyi durumda değil, YOUR_NAME, ama onu tek parça halinde geri aldığım için mutluyum!\n\nOnu bulduğun için teşekkür ederim.",
+    ["minlevel"]="50",
+    ["questlevel"]="55",
+    }, -- end A Little Help From My Friends
+
+    -- Lost!
+    -- Ringo -> Ringo (MobNpcData.lua)[cite: 1]
+    -- Fire Plume Ridge -> Yangın Tüyü Sırtı
+    ["4492"] = {
+    ["Title"]="Kayıp!",
+    ["Description"]="Bana yardım etmelisin, YOUR_NAME! Arkadaşım Ringo buranın güneyindeki yanardağı keşfetmek için daha önce ayrıldı ve çok uzun süredir yok. Onun için gerçekten çok endişeleniyorum.\n\nOnu bulabileceğini düşünüyor musun? Mataramı yanına alsana -- Ringo'yu bulursan eminim ihtiyacı olacaktır!",
+    ["Objectives"]="Yangın Tüyü Sırtı'nda Ringo'yu bul.[cite: 1]",
+    ["Progress"]="Ne... Ne?",
+    ["Completion"]="Oh... Birinin beni bulduğuna çok sevindim...",
+    ["minlevel"]="50",
+    ["questlevel"]="55",
+    }, -- end Lost!
+
+    -- Beware of Pterrordax
+    -- Spraggle Frock -> Spraggle Frock (MobNpcData.lua)[cite: 1]
+    -- Un'Goro Crater -> Un'Goro Krateri (ZoneData.lua)[cite: 2]
+    -- Marshal's Refuge -> Marshal Sığınağı (ZoneData.lua)[cite: 2]
+    ["4501"] = {
+    ["Title"]="Pterrordax'a Dikkat Et",
+    ["Description"]="Aranıyor: Un'Goro Krateri'nde yaşayan Pterrordax tehdidiyle başa çıkacak yetenekli bir dövüşçü. Sayıları artıyor ve bölgedeki yolcular için bir bela haline geliyorlar.\n\n10 pterrordax ve 15 çıldırmış pterrordax katlederek nüfusu azaltın.\n\nÖdül için görevi tamamladıktan sonra Spraggle Frock ile konuşun.",
+    ["Objectives"]="10 Pterrordax ve 15 Çıldırmış Pterrordax öldür, ardından Marshal Sığınağı'ndaki Spraggle Frock ile konuş.[cite: 1, 2]",
+    ["Progress"]="Sana gerçeği söylemek gerekirse, o garip yaratıklar için gerçekten o kadar endişelenmiyordum... Büyük bir taşın kenarında yazılı olduğunu gördüğüm güne kadar.\n\nPTERRORDAX'A DİKKAT ET\n\nBunu kim yazmış olabilir ki? Bilmiyorum ama görmezden gelinemeyecek kadar ürkütücü!",
+    ["Completion"]="Buradaki pterrordax'lardan kesinlikle dehşete düşüyorum! Sayılarını azalttığın için teşekkür ederim, YOUR_NAME. Artık Marshal Sığınağı'ndan dışarı çıkacak kadar güvende hissedebilirim.",
+    ["minlevel"]="49",
+    ["questlevel"]="55",
+    }, -- end Beware of Pterrordax
+
+    -- Volcanic Activity
+    -- Marvon Rivetseeker -> Marvon Perçinarayan (MobNpcData.lua)[cite: 1]
+    -- Liv Rizzlefix -> Liv Rizzlefix (MobNpcData.lua)[cite: 1]
+    -- Un'Goro Crater -> Un'Goro Krateri (ZoneData.lua)[cite: 2]
+    -- Un'Goro -> Un'Goro (ZoneData.lua)[cite: 2]
+    -- Ratchet -> Ratchet (ZoneData.lua)[cite: 2]
+    ["4502"] = {
+    ["Title"]="Volkanik Aktivite",
+    ["Description"]="Marvon Perçinarayan'ın çırağı olarak çok şey öğrendim. Ama o uzun zamandır yok, bu yüzden kendi deneylerimden bazıları üzerinde çalışacağımı düşünüyorum.\n\nSon zamanlarda en çok Un'Goro Krateri ve kraterin ortasında devam eden garip volkanik aktivite hakkında okuyorum. Oradaki elementallerden biraz kül alabilirsem çok şey öğrenilebileceğini düşünüyorum.\n\nO tarafa gidiyorsan benim için biraz toplamanda bir sakınca var mı?",
+    ["Objectives"]="Un'Goro Krateri'ndeki yanardağın etrafındaki ateş elementallerinden 9 Un'Goro Külü örneği topla ve onları Ratchet'taki Liv Rizzlefix'e getir.[cite: 1, 2]",
+    ["Progress"]="Un'Goro'daki yanardağın aktif olduğu doğru mu? Yanardağdan gelen biraz küülle çok şey öğrenebileceğimden eminim, YOUR_NAME.",
+    ["Completion"]="Bu örnekler çalışmalarım için mükemmel olacak! Teşekkür ederim, YOUR_NAME! Söz veriyorum, bulgularımı anlatacağım ilk kişi sen olacaksın.",
+    ["minlevel"]="49",
+    ["questlevel"]="55",
+    }, -- end Volcanic Activity
+
+    -- Shizzle's Flyer
+    -- Shizzle -> Shizzle (MobNpcData.lua)[cite: 1]
+    -- Gadgetzan -> Gadgetzan (ZoneData.lua)[cite: 2]
+    -- Marshal's Refuge -> Marshal Sığınağı (ZoneData.lua)[cite: 2]
+    ["4503"] = {
+    ["Title"]="Shizzle'ın Uçağı",
+    ["Description"]="Bir uçan makine yapıyorum!\n\nBurada mahsur kaldım ve yolumu bulma konusunda kesinlikle berbatım. Gadgetzan'a dönmek için bir grifon veya rüzgar binicisine binerdim ama o canavarlar beni ölümüne korkutuyor.\n\nPeki, bana yardım edecek misin? Yapmam gereken tek şey kanatları inşa etmek ve pterrordax ile diemetradon'un perdeli pullarının mükemmel olacağını düşünüyordum. Bunlardan birine karşı koymamın imkanı yok ama sen oldukça çetin görünüyorsun. Neden bir denemiyorsun?",
+    ["Objectives"]="Marshal Sığınağı'ndaki Shizzle için 8 Perdeli Diemetradon Pulü ve 8 Perdeli Pterrordax Pulü topla.[cite: 1, 2]",
+    ["Progress"]="Her harika aracın bir isme ihtiyacı vardır... Sanırım ona... Ezildin! diyeceğim.",
+    ["Completion"]="Evet, bu pullar mükemmel. Bu pullarla bu uçağı kesinlikle yerden kaldırabilmeliyim!\n\nTeşekkürler!",
+    ["minlevel"]="49",
+    ["questlevel"]="51",
+    }, -- end Shizzle's Flyer
+
+    -- Well of Corruption
+    -- Winna Hazzard -> Winna Hazzard (MobNpcData.lua)[cite: 1]
+    -- Bloodvenom Post -> Kanlızehir Karakolu (ZoneData.lua)[cite: 2]
+    -- Ruins of Constellas -> Constellas Harabeleri (ZoneData.lua)[cite: 2]
+    ["4505"] = {
+    ["Title"]="Yozlaşma Kuyusu",
+    ["Description"]="Bazıları son derece zalim olduğumu söyleyebilir... Ama gerçekten, bu sadece Horde'un İttifak'a karşı mümkün olan her şekilde üstünlük sağladığını görme arzusudur.\n\nEn yeni ilgim, buranın güneyinde, Yeşilateş satirleri tarafından bakılan Constellas Harabeleri'ndeki bir ay kuyusu. Çekilmez gece elfleri için bir zamanlar yenilenmenin sembolü olan ay kuyusu artık yozlaşmış durumda ve daha fazla satir ortaya çıkarmak için kullanılıyor.\n\nBir fikrim var, YOUR_NAME ve suyun bir örneğini istiyorum... Buradaki küçük kedi dostum için.",
+    ["Objectives"]="Yeşilateş Satirlerinin ay kuyusundan bir yozlaşmış su örneği topla ve bunu Kanlızehir Karakolu'ndaki Winna Hazzard'a getir.[cite: 1, 2]",
+    ["Progress"]="Bu son derece önemlidir. Şimdi yoluna bak.",
+    ["Completion"]="Çok iyi. Bu yozlaşmayı düşmanlarımıza karşı kullanmanın bir yolunu bulmalıyız...",
+    ["minlevel"]="49",
+    ["questlevel"]="54",
+    }, -- end Well of Corruption
+
+    -- Corrupted Sabers
+    -- Winna -> Winna (MobNpcData.lua)[cite: 1]
+    -- Ruins of Constellas -> Constellas Harabeleri (ZoneData.lua)[cite: 2]
+    ["4506"] = {
+    ["Title"]="Yozlaşmış Kılıçdişler",
+    ["Description"]="Bu yozlaşmış su avantajımıza kullanılabilir, YOUR_NAME. Suyun sadece küçük bir miktarıyla kedi yavrum iki katına çıktı ve bir şekilde... Daha güçlü görünüyor. Bu kediler yararlı olabilir...\n\nİşte, YOUR_NAME. Bu kedi taşıyıcısını al ve içindeki kedi yavrusunu Constellas Harabeleri'ndeki ay kuyusunun yanında serbest bırak. Heh, heh... Sonuçlardan memnun kalacağından eminim!\n\nKediyi bana geri getir, zamanına değdireceğimden eminim.",
+    ["Objectives"]="Winna'nın yavru kedisini yozlaşmış ay kuyusuna götür, serbest bırak, ardından Winna'ya geri getir.\n\nWinna'ya döndüğünde, kediyi Winna'ya serbest bırakmak için üzerine tıkla.[cite: 1]",
+    ["Progress"]="Bana oraya geri dönemeyeceğini söyleme! Git hadi!",
+    ["Completion"]="Mükemmel!\n\nTerkedilmişler İttifak'ı ezmek için gerekli her yola başvuracaktır! Yozlaşmış suyun kullanımı gelecekteki çabalarımızda kesinlikle yararlı olacaktır...",
+    ["minlevel"]="49",
+    ["questlevel"]="54",
+    }, -- end Corrupted Sabers
+
+    -- Wild Guardians
+    -- Trull Failbane -> Trull Felaketyıkımı (MobNpcData.lua)[cite: 1]
+    -- Timbermaw -> Keresteçene
+    -- Felwood -> Felwood (ZoneData.lua)[cite: 2]
+    -- Winterspring -> Kışbeşiği (ZoneData.lua)[cite: 2]
+    ["4521"] = {
+    ["Title"]="Vahşi Muhafızlar",
+    ["Description"]="Kışbeşiği, Felwood'un kuzeydoğusunda, Keresteçene'nin hemen ötesinde yer alır. Orada bulundun mu?\n\nBölgenin vahşicins adı verilen yaratıklarla dolu olduğunu duydum. Bu canavarların sırları koruduğu bilinir; Gece elflerinin sırlarını.\n\nKışbeşiği'nde neyin gizlenmiş olabileceğini çözmeliyiz.\n\nÜstü başı yırtık baykuş ayıların yolun hemen güneyinde bulunabileceğini ve Kışbeşiği'nin merkezinde bulunabilecek öfkeli baykuş ayılar adında başkalarının da olduğunu duydum. Onları temizle ve toprağa erişim sağla.",
+    ["Objectives"]="Felwood'daki Trull Felaketyıkımı 15 Öfkeli Baykuş Ayı ve 15 Yırtık Baykuş Ayı öldürmeni istiyor.[cite: 1, 2]",
+    ["Progress"]="Sana verdiğim görevi tamamladıktan sonra bana rapor ver.",
+    ["Completion"]="Bu mükemmel bir haber, YOUR_NAME. Bu canavarlar ortadan kalktığına göre Kışbeşiği'nin daha da derinlerine macera yürütmeye başlayabiliriz. Daha fazlasına hazır mısın?",
+    ["minlevel"]="52",
+    ["questlevel"]="56",
+    }, -- end Wild Guardians
+
+    -- Put Her Down
+    -- Helendis -> Helendis (MobNpcData.lua)[cite: 1]
+    -- Cenarius -> Cenarius (MobNpcData.lua)[cite: 1]
+    -- Blackrock Spire -> Karakaya Zirvesi (ZoneData.lua)[cite: 2]
+    ["4701"] = {
+    ["Title"]="Onu Yere Ser",
+    ["Description"]="Karakaya orklarının komuta ettiği worg'ları şüphesiz görmüşsündür.\n\nMerak uyandırıcı - kaç tanesini yok edersek edelim, sayıları asla azalmıyor. İzcilerim worg'ların Karakaya orklarının başkenti olan Karakaya Zirvesi'nde yetiştirildiğini, eğitildiğini ve nihayetinde ihraç edildiğini bildirdi. Karakaya Zirvesi'ne seyahat etmeli ve bu tehdidin kaynağını keşfetmelisin. Keşfet... Ve yok et.\n\nBol şans, YOUR_NAME. Cenarius seni korusun...",
+    ["Objectives"]="Karakaya Zirvesi'ne seyahat et ve worg tehdidinin kaynağını yok et. Helendis'in yanından ayrılırken bir isim haykırdı: Halycon. Orkların worg için bahsettiği şey budur.[cite: 1, 2]",
+    ["Progress"]="Worg tehdidinin kaynağını keşfedip icabına baktın mı?",
+    ["Completion"]="Onun çektiği acı üzerinde durma, YOUR_NAME. Canavar yozlaşmıştı - karanlık büyünün bir ürünü. İttifak'a büyük bir hizmette bulundun ve ödüllendirileceksin.",
+    ["minlevel"]="55",
+    ["questlevel"]="59",
+    }, -- end Put Her Down
+
+    -- Wild Guardians
+    -- Trull Failbane -> Trull Felaketyıkımı (MobNpcData.lua)[cite: 1]
+    -- Winterspring -> Kışbeşiği (ZoneData.lua)[cite: 2]
+    ["4721"] = {
+    ["Title"]="Vahşi Muhafızlar",
+    ["Description"]="Haberciler Kışbeşiği'nin güney bölgesinde bir dizi küçük mağara olduğuna dair raporlarla Kışbeşiği'nden döndüler. Bu mağaraların etrafındaki alanda konumlanmış vahşicinsler var gibi görünüyor. Korudukları değerli bir şey varsa, onu bulacağımız yerin burası olduğuna inanıyorum.\n\nBunların önceki türlerden daha zorlu bir mücadele olduğunu göreceksin, YOUR_NAME. Yaratıklar korumaya çalıştıkları şeye maruz kalmaktan çıldırmış gibi görünüyor.",
+    ["Objectives"]="Felwood'daki Trull Felaketyıkımı Kışbeşiği'nde 10 Çılgın Baykuş Ayı avlamanı istiyor.[cite: 1, 2]",
+    ["Progress"]="Emirlerini biliyorsun, YOUR_NAME.",
+    ["Completion"]="Zorlu çalışmaya büyük saygı duyarım, YOUR_NAME. Artık Kışbeşiği için planlarımızla ilerleyebiliriz.",
+    ["minlevel"]="52",
+    ["questlevel"]="59",
+    }, -- end Wild Guardians
+
+    -- The Pack Mistress
+    -- Halycon -> Halycon (MobNpcData.lua)[cite: 1]
+    -- Gizrul the Slavener -> Gizrul the Slavener (MobNpcData.lua)[cite: 1]
+    -- Bloodaxe -> Kanbaltası
+    -- Blackrock -> Karakaya (ZoneData.lua)[cite: 2]
+    ["4724"] = {
+    ["Title"]="Sürü Hanımı",
+    ["Description"]="Bazıları Karakaya orkları tarafından kontrol edilen worg'ların doğaüstü bir gücün yaratımı olduğunu söyler. Diğerleri ise onların gerçek worg olmadığını, bunun yerine düşmüş bir çukur lordu tarafından orklara verilen bir iblis köpeği soyu olduğunu söyler.\n\nGerçek çok daha az uydurmadır ama her bakımdan aynı derecede korkutucudur. Karakaya'nın worg'ları Halycon ve eşinden gelir. Halycon, worg'ların devasa in annesidir. Eşi mi? Hiç kimse o eşin hikayesini anlatacak kadar yaşamadı.\n\nWorg'un kalbine vur. Halycon'u yok et... Ve YOUR_NAME, arkana dikkat et.",
+    ["Objectives"]="Kanbaltası worg'larının sürü hanımı Halycon'u katlet.[cite: 1]",
+    ["Progress"]="Sürü hanımının katledilmesiyle Zirve'nin worg nöbetçilerini azaltmaya başlayabilir ve en nihayetinde şehirde biraz ilerleme kaydedebiliriz.",
+    ["Completion"]="Kudurmuş yavrular mı? Salya Akıtan Gizrul mu? Ve sen bunu anlatacak kadar yaşadın mı?! İnanılmaz! Hak edilmiş bir haraç!",
+    ["minlevel"]="55",
+    ["questlevel"]="59",
+    }, -- end The Pack Mistress
+
+    -- Broodling Essence
+    -- Tinkee Steamboil -> Tinkee Buharkaynatan (MobNpcData.lua)[cite: 1]
+    -- Burning Steppes -> Yanardağ Bozkırları (ZoneData.lua)[cite: 2]
+    -- Flame Crest -> Alev Tepesi
+    ["4726"] = {
+    ["Title"]="Yavru Ejderha Özü",
+    ["Description"]="Haftalardır Yanardağ Bozkırları'nın ejderhasoyunu inceliyorum ve sanırım sonunda bir atılım yaptım! Bir cihaz yarattım--ona Draco Hapsettirici 900 diyorum. Ejderha yavrusu neslinin özünü yakalayabilir!\n\nYa da en azından yapabileceğini düşünüyorum.\n\nİşte, cihazı al ve Yanardağ Bozkırları'ndaki bir yavru ejderhayı bununla çarp. Cihazın etkileri altındayken yavru ejderhayı yen, özü serbest kalmalı.\n\nEğer öyle olursa, mükemmel! İnceleyebilmem için bana örnekler getir!",
+    ["Objectives"]="Yanardağ Bozkırları'ndaki Alev Tepesi'nde bulunan Tinkee Buharkaynatan'a 8 Yavru Ejderha Özü ve Draco Hapsettirici 900'ü getir.[cite: 1, 2]",
+    ["Progress"]="Yavru ejderha özü yanında mı, YOUR_NAME? Onu incelemek için sabırsızlanıyorum.\n\nVe bunun dışında... Müşterim hayal kırıklığına uğratmak isteyeceğin türden bir insan değil.",
+    ["Completion"]="İşe yaradı! Özü aldın! Aferin, YOUR_NAME! Aferin!\n\nBu öz araştırmamda paha biçilmez olacak. Bir gün canlı ejderha yavrularını nasıl yakalayacağımı veya belki de yumurtalarını nasıl yakalayacağımı öğrenmeyi umuyorum. Bunu yapmanın bir yolunu bulabilseydim, dünyadaki ejderha bilginlerinin gıpta ettiği kişi olurdum!\n\nİşverenim de mutlu olurdu ve daha önce de söylediğim gibi, o mutlu etmek isteyeceğin biri...",
+    ["minlevel"]="50",
+    ["questlevel"]="52",
+    }, -- end Broodling Essence
+
+    -- Kibler's Exotic Pets
+    -- Kibler -> Kibler (MobNpcData.lua)[cite: 1]
+    -- Opus -> Opus (MobNpcData.lua)[cite: 1]
+    -- Blackrock Spire -> Karakaya Zirvesi (ZoneData.lua)[cite: 2]
+    -- Bloodaxe -> Kanbaltası
+    ["4729"] = {
+    ["Title"]="Kibler'ın Egzotik Evcil Hayvanları",
+    ["Description"]="Muhtemelen burada ne yaptığımı merak ediyorsun. Kafeslere bak! Açık değil mi?\n\nBen her şeyden önce bir hayvanseverim ama mesleğim gereği bir satıcıyım. Zenginler ve ünlüler için egzotik hayvanların izini sürerim ve canavarları evcilleştiririm ki düzgün evcil hayvanlar gibi davransınlar.\n\nŞimdi muhtemelen \"Senin için ne yapabilirim Kibler\" diye merak ediyorsun. Cevap basit: Buradaki canavar kafesini al ve bana birkaç worg yavrusu bul. Bunun karşılığında senin için bir worg evcilleştireceğim!",
+    ["Objectives"]="Karakaya Zirvesi'ne seyahat et ve Kanbaltası Worg Yavruları bul. Vahşi küçük canavarları taşımak için kafesi kullan. Kibler'a Kafeslenmiş Worg Yavrusu getir.[cite: 1, 2]",
+    ["Progress"]="<Kibler Opus ile tartışmakla meşgul.>",
+    ["Completion"]="Onları mükemmel bir zamanda kaptın, YOUR_NAME. Biraz daha geç olsaydı eğitilemez olurlardı! Bana bir dakika ver, küçük delikanlıyı eve götürmen için hazır edeceğim.",
+    ["minlevel"]="55",
+    ["questlevel"]="59",
+    }, -- end Kibler's Exotic Pets
+
+    -- Egg Freezing
+    -- Blackrock Spire -> Karakaya Zirvesi (ZoneData.lua)[cite: 2]
+    -- Rookery -> Kuluçkahane
+    ["4734"] = {
+    ["Title"]="Yumurta Dondurma",
+    ["Description"]="YOUR_NAME, yeni bir cihaz üzerinde çok çalışıyorum, yumurtadonduran! Siyah bir ejderhanın yumurtasına bir soğuk enerji patlaması yansıtmak... Ve onu buz gibi dondurmak için tasarlandı! Benim için test edebilir misin?\n\nKarakaya Zirvesi'nin yukarısında, ejderhaların yumurtalarını kuluçkaya yatırdıkları bir kuluçkahaneleri olduğunu duydum. Yumurtadonduranı test etmek için gitmen gereken yer orası, ardından nasıl çalıştığını bana bildir!\n\nVe endişelenme. Donmuş ejderha yumurtaları zararsız olmalı. Endişelenmen gerekenler donmamış olanlar!",
+    ["Objectives"]="Kuluçkahane'deki bir yumurta üzerinde Yumurtadonduran Prototiptör'ünü kullan.",
+    ["Progress"]="YOUR_NAME, yumurtadonduranı test ettin mi?",
+    ["Completion"]="İşe yaradı mı? Harika! Olacağını biliyordum!\n\nSen yokken yumurtadonduranın yeni bir versiyonu üzerinde çalışıyordum. Bu çok daha uzun bir menzile sahip.\n\nİşte, Karakaya Zirvesi'ne geri dönersin diye bir tane alabilirsin.",
+    ["minlevel"]="57",
+    ["questlevel"]="60",
+    }, -- end Egg Freezing
+
+    -- Egg Collection
+    -- Tinkee Steamboil -> Tinkee Buharkaynatan (MobNpcData.lua)[cite: 1]
+    -- Burning Steppes -> Yanardağ Bozkırları (ZoneData.lua)[cite: 2]
+    -- Rookery -> Kuluçkahane
+    -- Flame Crest -> Alev Tepesi
+    ["4735"] = {
+    ["Title"]="Yumurta Toplama",
+    ["Description"]="YOUR_NAME, sonunda gerçek ejderha yumurtası örnekleri için hazırım! İşte, bu toplayıcı modülünü al. Bir ejderha yumurtasını çıkarmak ve nakliye için hazırlamak üzere tasarlandı. Kuluçkahane'ye geri dön ve yumurtaları toplamak için modülü kullan.\n\nVe önce onları dondurmayı unutma, yoksa sen onları toplayamadan kuluçkadan çıkabilirler!\n\nYeterince yumurta topladığında onları bana getir!",
+    ["Objectives"]="Yanardağ Bozkırları'ndaki Alev Tepesi'nde bulunan Tinkee Buharkaynatan'a 8 Toplanmış Ejderha Yumurtası ve Toplayıcı Modülü getir.[cite: 1, 2]",
+    ["Progress"]="Yumurtalar yanında mı, YOUR_NAME? Müşterim onlar benim için topladığını duydu ve onlara el koymak için sabırsızlanıyor!",
+    ["Completion"]="Vay canına, onları aldın! Toplayıcı modülü işe yaradı! Ben bir dehayım!\n\nTeşekkür ederim, YOUR_NAME. Müşterim bu yumurtaları aldığı için çok mutlu olacak...",
+    ["minlevel"]="57",
+    ["questlevel"]="60",
+    }, -- end Egg Collection
+
+    -- Wild Guardians
+    -- Trull Failbane -> Trull Felaketyıkımı (MobNpcData.lua)[cite: 1]
+    -- Winterspring -> Kışbeşiği (ZoneData.lua)[cite: 2]
+    ["4741"] = {
+    ["Title"]="Vahşi Muhafızlar",
+    ["Description"]="Kışbeşiği'nin kuzey bölgelerinde Vahşicins daha da vahşileşiyor. Önlemlerimize orada devam etmeliyiz.\n\nKışbeşiği'ndeki ay dokunmuş baykuş ayıları avla ve yaşadıkları bölgeyi keşfet.\n\nBurası tehlikeli bir arazi ama zorluğun üstesinden gelebileceğini biliyorum. Vahşicinslerden 13 tanesini katlettikten sonra bana dön.",
+    ["Objectives"]="Felwood'daki Trull Felaketyıkımı 13 Ay Dokunmuş Baykuş Ayı avlamanı istiyor.[cite: 1, 2]",
+    ["Progress"]="Çok korktuğunu söyleme bana! Git hadi!",
+    ["Completion"]="İşinden zevk aldığını hissediyorum. Ve burada bir şeylerin peşinde olduğumuza inanıyorum.",
+    ["minlevel"]="52",
+    ["questlevel"]="58",
+    }, -- end Wild Guardians
+
+    -- Seal of Ascension
+    -- Overlord Wyrmthalak -> Derebeyi Wyrmthalak (MobNpcData.lua)[cite: 1]
+    -- War Master Voone -> Savaş Üstadı Voone (MobNpcData.lua)[cite: 1]
+    -- Highlord Omokk -> Yüksek Derebeyi Omokk (MobNpcData.lua)[cite: 1]
+    -- Vaelan -> Vaelan (MobNpcData.lua)[cite: 1]
+    -- Smolderthorn -> Tütendiken
+    -- Spirestone -> Zirvetaşı
+    -- Bloodaxe -> Kanbaltası
+    ["4742"] = {
+    ["Title"]="Yükseliş Mührü",
+    ["Description"]="Gördüğün gibi süssüz mührün üç boş yuvası var. Bu yuvaların her biri liderliğin komutasını temsil eden bir değerli taşla doldurulmalıdır. Son olarak, alt hisarın efendisi Derebeyi Wyrmthalak, mührü Siyah Ejderhasoyu'nun alevlerinde dövmelidir.\n\nBunu anla ölümlü: Alt hisarın üç generalinden birinin herhangi bir zamanda bir değerli taş taşıma şansı nadirdir. Görevinde uyanık olmalısın. Kararlı kal!",
+    ["Objectives"]="Komutaya ait üç değerli taşı bul: Tütendiken Değerli Taşı, Zirvetaşı Değerli Taşı ve Kanbaltası Değerli Taşı. Onları Süssüz Yükseliş Mührü ile birlikte Vaelan'a geri getir.\n\nVaelan'ın sana söylediği generaller şunlardır: Tütendiken Savaş Üstadı Voone; Zirvetaşı Yüksek Derebeyi Omokk; ve Kanbaltası Derebeyi Wyrmthalak.[cite: 1]",
+    ["Progress"]="Her şeyden önce cesaret ve sabır, YOUR_NAME!",
+    ["Completion"]="<Vaelan'ın görüntüsü bir an için bulanıklaşır.>\n\n<Topladığın parçalar kayboldu.>\n\nDövülmemiş Yükseliş Mührü artık hazır. Son adımın zamanı geldi.",
+    ["minlevel"]="57",
+    ["questlevel"]="60",
+    }, -- end Seal of Ascension
+
+    -- Seal of Ascension
+    -- Wyrmthalak -> Wyrmthalak (MobNpcData.lua)[cite: 1]
+    -- Emberstrife -> Emberstrife (MobNpcData.lua)[cite: 1]
+    -- Nefarian -> Nefarian (MobNpcData.lua)[cite: 1]
+    -- Vaelan -> Vaelan (MobNpcData.lua)[cite: 1]
+    -- Wyrmbog -> Wyrm Batanı
+    -- Dustwallow Marsh -> Kasvetli Bataklık (ZoneData.lua)[cite: 2]
+    ["4743"] = {
+    ["Title"]="Yükseliş Mührü",
+    ["Description"]="Üst hisardakiler dışındaki siyah ejderhasoyundan çok azı mührü kendi alevli nefesleriyle dövme yeteneğine sahiptir. Wyrmthalak böyle bir ejderhasoyudur ama iradesi kırılmazdır.\n\nKasvetli Bataklık'taki Wyrm Batanı'na seyahat etmelisin. Emberstrife olarak bilinen kadim bir erkek ejderhayı orada bulacaksın. İradesini kırmalısın, YOUR_NAME. Onu kır ve bu küreyi onun zayıflamış formu üzerinde kullan. Zihnini kontrol etmek ve mührü dövecek alevleri körüklemek için birkaç saniyen olacak.",
+    ["Objectives"]="Kasvetli Bataklık'taki Wyrm Batanı'na seyahat et. Kadim erkek ejderha Emberstrife'ı bul ve iradesi kırılana kadar merhametsizce döv.\n\nBüyük canavarın önüne Dövülmemiş Yükseliş Mührü'nü koyman gereken an tam o andır. Ardından Ejderha Enerjisi Küresi'ni onun zayıflamış formu üzerinde kullanmak ve zihinsel melekeleri üzerinde hakimiyet talep etmek için hızlı olmalısın. Canavarı kontrol et ve Siyah Ejderhasoyu Alevleri'ni Dövülmemiş Yükseliş Mührü üzerine zorla![cite: 1, 2]",
+    ["Progress"]="Zaman kaybetme, YOUR_NAME. Nefarian kötülüğünü dünyamıza salmak için hummalı bir şekilde çalışıyor.",
+    ["Completion"]="Son koruma duasını okurken sabit dur.\n\n<Vaelan'ın gözleri ikiz alev kürelerine dönüşür.>\n\nYükseliş Mührü tamamlandı...\n\nŞunu bil ki, yapıtı bazı güçlü koruyucu büyülerle donattım. En karanlık saatinde, her şey kaybolmuş gibi göründüğünde, kırmızı soyun gücü emrinde olacak.",
+    ["minlevel"]="57",
+    ["questlevel"]="60",
+    }, -- end Seal of Ascension
+
+    -- Doomrigger's Clasp
+    -- Mayara Brightwing -> Mayara Parlakkanat (MobNpcData.lua)[cite: 1]
+    -- Count Remington Ridgewell -> Kont Remington Ridgewell (MobNpcData.lua)[cite: 1]
+    -- Blackrock Spire -> Karakaya Zirvesi (ZoneData.lua)[cite: 2]
+    -- Hall of Fortune -> Servet Salonu
+    -- Burning Steppes -> Yanardağ Bozkırları (ZoneData.lua)[cite: 2]
+    ["4764"] = {
+    ["Title"]="Doomrigger Tokası",
+    ["Description"]="Karakaya Zirvesi'nin yukarısında, bir zamanlar Servet Salonu olarak adlandırılan bir oda var. Kara Demir cücelerinin kutsal emanetlerini, ganimetlerini ve sanat eserlerini sakladıkları yerdi.\n\nBu uzun zaman önceydi. Salonun çöktüğü ve artık... Daha az hoş görevler için kullanıldığı söyleniyor. Ama bazı eski cüce emanetlerinin hâlâ orada bulunabileceğine inanıyorum.\n\nBöyle bir emanet, yüzeyi nadir mücevherlerle o kadar kaplanmış olan Doomrigger tokasıdır ki, ona bakan her cüceyi ağlattığı söylenirdi.\n\nO toka, YOUR_NAME, senin hedefin.",
+    ["Objectives"]="Doomrigger Tokası'nı Yanardağ Bozkırları'ndaki Mayara Parlakkanat'a getir.[cite: 1, 2]",
+    ["Progress"]="Toka yanında mı, YOUR_NAME? Müşterim bunun için çok cömert bir ödeme yapacak.",
+    ["Completion"]="Buldun! Demek söylentiler doğruymuş!\n\nTeşekkür ederim, YOUR_NAME. Müşterim Kont Remington Ridgewell, koleksiyonuna yapılan bu eklemeyi görmekten çok memnun olacak.",
+    ["minlevel"]="57",
+    ["questlevel"]="60",
+    }, -- end Doomrigger's Clasp
+
+    -- Delivery to Ridgewell
+    -- Count Remington Ridgewell -> Kont Remington Ridgewell (MobNpcData.lua)[cite: 1]
+    -- Remington Ridgewell -> Remington Ridgewell (MobNpcData.lua)[cite: 1]
+    -- Stormwind -> Fırtınaşehri (ZoneData.lua)[cite: 2]
+    -- Blackrock Spire -> Karakaya Zirvesi (ZoneData.lua)[cite: 2]
+    ["4765"] = {
+    ["Title"]="Ridgewell'a Teslimat",
+    ["Description"]="Doomrigger Tokası'nı Fırtınaşehri'ne sevk edilmeye uygun bir sandığa paketledim. YOUR_NAME, son derece yardımcı oldun -- senden son bir iyilik isteyebilir miyim?\n\nSandığı Kont Remington Ridgewell'a teslim et. Onu Fırtınaşehri Kalesi'nde bulacaksın. Onun için ne getirdiğini görmekten çok memnun olacağından eminim.",
+    ["Objectives"]="Ridgewell'ın Sandığı'nı Fırtınaşehri'ndeki Remington Ridgewell'a getir.[cite: 1, 2]",
+    ["Progress"]="Bana bir habercinin geleceği söylendi. Karakaya Zirvesi'nden bir hediye getiren biri.\n\nO kişi sen misin?",
+    ["Completion"]="Ah, demek o sensin! Teşekkürlerimi sunarım, YOUR_NAME. Ve... Henüz bilmiyorsan... Ridgewell hanesinden bir soylunun minneti neredeyse bir kralın fedyasına değerdir.",
+    ["minlevel"]="57",
+    ["questlevel"]="60",
+    }, -- end Delivery to Ridgewell
+
+    -- Mayara Brightwing
+    -- Mayara Brightwing -> Mayara Parlakkanat (MobNpcData.lua)[cite: 1]
+    -- Mayara -> Mayara (MobNpcData.lua)[cite: 1]
+    -- Remington -> Remington (MobNpcData.lua)[cite: 1]
+    -- Burning Steppes -> Yanardağ Bozkırları (ZoneData.lua)[cite: 2]
+    -- Thaurissan -> Thaurissan (ZoneData.lua)[cite: 2]
+    -- Blackrock Spire -> Karakaya Zirvesi (ZoneData.lua)[cite: 2]
+    -- Stormwind -> Fırtınaşehri (ZoneData.lua)[cite: 2]
+    ["4766"] = {
+    ["Title"]="Mayara Parlakkanat",
+    ["Description"]="Bir ajanım olan Mayara Parlakkanat, harabe şehir Thaurissan'ı keşfetmesi için Yanardağ Bozkırları'na gönderildi. Kara Demir cücelerinin bu yıkılmış şehri çok değerli eşyaları gizliyor olabilir... Aile müzemize çok yakışacak eşyalar.\n\nMayara bir şey bulduğunu ve onu geri çıkarmak için yardıma ihtiyacı olacağını söylüyor ama bu Thaurissan'da değil. Bunun yerine Karakaya Zirvesi'ne bir baskın gerekecek.\n\nAntıntıları bilmiyorum ama ilgileniyorsan Yanardağ Bozkırları'ndaki Mayara ile konuş.",
+    ["Objectives"]="Yanardağ Bozkırları'ndaki Mayara Parlakkanat ile konuş.[cite: 1, 2]",
+    ["Progress"]="",
+    ["Completion"]="Fırtınaşehri'nden mi geldin? Harika -- Remington'ın müzesinde bulundurmak için uğruna adam öldürebileceği bir sanat eseri biliyorum ama onu çıkarmak kolay olmayacak.\n\nİşte sen burada devreye giriyorsun.",
+    ["minlevel"]="57",
+    ["questlevel"]="60",
+    }, -- end Mayara Brightwing
+
+    -- The Darkstone Tablet
+    -- Urheld Darkstone -> Urheld Koyu-Taş (MobNpcData.lua)[cite: 1]
+    -- Vivian Lagrave -> Vivian Lagrave (MobNpcData.lua)[cite: 1]
+    -- Blackrock Spire -> Karakaya Zirvesi (ZoneData.lua)[cite: 2]
+    -- Hall of Fortune -> Servet Salonu
+    -- Kargath -> Kargath (ZoneData.lua)[cite: 2]
+    -- Blackrock -> Karakaya (ZoneData.lua)[cite: 2]
+    ["4768"] = {
+    ["Title"]="Koyutaş Tableti",
+    ["Description"]="Koyutaş Tableti, çoktan ölmüş cüce Urheld Koyu-Taş'ın yazılarını barındırır. Büyük yeteneklere sahip bir simyacı olarak, çağdaşları tarafından deli sayılırdı ve bu yüzden araştırmasını paylaşmadı.\n\nAma onu tabletlere kazıdı ve ben bu tabletlerden birinin Karakaya Zirvesi'nde, bir zamanlar Servet Salonu olarak adlandırılan bir odada yattığına inanıyorum. Şimdi ne olarak adlandırıldığını bilmiyorum çünkü Karakaya'ya girip de geri dönen azdır.\n\nAma tehlikelerine göğüs germeye ve tabletle birlikte bana dönmeye istekliysen, ödülün büyük olacak.",
+    ["Objectives"]="Koyutaş Tableti'ni Kargath'taki Gölge Büyücüsü Vivian Lagrave'e getir.[cite: 1, 2]",
+    ["Progress"]="Tableti buldun mu, YOUR_NAME? Sırlarına dalmak için sabırsızlanıyorum.",
+    ["Completion"]="Mükemmel. Bu tablete kazınmış formüller günler süren araştırmayı tüketecek ama bu tür bir araştırmanın tatlı meyveler vereceğinden eminim.\n\nTeşekkür ederim, YOUR_NAME. Bizim için paha biçilmez oldun.",
+    ["minlevel"]="57",
+    ["questlevel"]="60",
+    }, -- end The Darkstone Tablet
+
+    -- Vivian Lagrave and the Darkstone Tablet
+    -- Vivian Lagrave -> Vivian Lagrave (MobNpcData.lua)[cite: 1]
+    -- Vivian -> Vivian (MobNpcData.lua)[cite: 1]
+    -- Kargath -> Kargath (ZoneData.lua)[cite: 2]
+    -- Badlands -> Çorak Topraklar (ZoneData.lua)[cite: 2]
+    -- Blackrock Spire -> Karakaya Zirvesi (ZoneData.lua)[cite: 2]
+    ["4769"] = {
+    ["Title"]="Vivian Lagrave ve Koyutaş Tableti",
+    ["Description"]="Vivian Lagrave bana Çorak Topraklar'daki Kargath'tan haber gönderdi. Çalışmaları aracılığıyla Karakaya Zirvesi'nde araştırmamıza yarayacak antik bir metin olduğuna inanıyor. Bunu doğrulamak için metni zirveden çıkaracak birine ihtiyacı olacak. Kolay bir görev değil.\n\nİlgileniyorsan Kargath'taki Vivian ile konuş.",
+    ["Objectives"]="Gölgebüyücüsü Vivian Lagrave ile konuş.[cite: 1]",
+    ["Progress"]="",
+    ["Completion"]="Bu doğru. Karakaya Zirvesi içinde tutulan bir tablet olduğuna inanıyorum, eski simya tariflerini barındıran bir tablet. Burada olmana sevindim çünkü tableti çıkarmak için yardıma ihtiyacım var.\n\nRahatına bak, daha ayrıntılı açıklayacağım.",
+    ["minlevel"]="57",
+    ["questlevel"]="60",
+    }, -- end Vivian Lagrave and the Darkstone Tablet
+
+    -- Dawn's Gambit
+    -- Vectus -> Vectus (MobNpcData.lua)[cite: 1]
+    -- Betina Bigglezink -> Betina Bigglezink (MobNpcData.lua)[cite: 1]
+    -- Scholomance -> Scholomance (ZoneData.lua)[cite: 2]
+    -- Argent Dawn -> Gümüş Şafak
+    -- Azeroth -> Azeroth (ZoneData.lua)[cite: 2]
+    ["4771"] = {
+    ["Title"]="Şafak Hamlesi",
+    ["Description"]="Şafak Hamlesi'ni bize getirdiğin, ejderha yumurtalarını tutan konteynere koydum. Senin işin onu Scholomance'ın derinliklerine götürmek.\n\nZombi büyücü Vectus bir afet bilginleri ekibine liderlik ediyor... Şafak Hamlesi'ni onların \"seyir odası\" adı verilen odasına yerleştir. Ardından oradaki zombilerle reaksiyona girecek ve biraz şansla onları yok edecek!\n\nOndan sonra Vectus'u yenmek bir sorun olmamalı. Değil mi?",
+    ["Objectives"]="Şafak Hamlesi'ni Scholomance'ın Seyir Odası'na yerleştir. Vectus'u yen, ardından Betina Bigglezink'e dön.[cite: 1, 2]",
+    ["Progress"]="Unutma, YOUR_NAME - inançlarımızda hoşgörülü ama katı olmalıyız!",
+    ["Completion"]="Başardın! Vectus yenildi! Ve Şafak Hamlesi... İşe yaradı mı?\n\nHm... Belki de cihazım umduğum başarıyı gösteremedi ama yine de durumun üstesinden gelebildiğin için mutluyum. Aferin, YOUR_NAME!\n\nGümüş Şafak ve Azeroth'un iyi insanları sana borçlu.",
+    ["minlevel"]="57",
+    ["questlevel"]="60",
+    }, -- end Dawn's Gambit
+
+    -- The Ancient Egg
+    -- Hakkar -> Hakkar (MobNpcData.lua)[cite: 1]
+    -- Yeh'kinya -> Yeh'kinya (MobNpcData.lua)[cite: 1]
+    -- Mosh'aru -> Mosh'aru
+    -- Jintha'Alor -> Jintha'Alor (ZoneData.lua)[cite: 2]
+    -- Hinterlands -> Hinterlands (ZoneData.lua)[cite: 2]
+    -- Tanaris -> Tanaris (ZoneData.lua)[cite: 2]
+    ["4787"] = {
+    ["Title"]="Kadim Yumurta",
+    ["Description"]="Mosh'aru Kehaneti kadim bir yumurtadan bahseder. Trolllerin engin imparatorlukları yönettiği bir zamandan kalma bir emanettir ve Hakkar'ın özünü tutma gücüne sahiptir. Dünyamızı onun kötülüğünden korumanın tek yolu bu olabilir.\n\nBana kadim yumurtayı getir, YOUR_NAME. Hinterlands'teki Jintha'Alor'un derinliklerinde, şehrin tepesindeki amfitiyatronun arkasındaki bir mağarada gizli kaldığı söyleniyor.",
+    ["Objectives"]="Kadim Yumurta'yı Tanaris'teki Yeh'kinya'ya getir.[cite: 1, 2]",
+    ["Progress"]="Kadim yumurta yanında mı? Büyük güçlerin harekete geçtiğini hissediyorum ve zamanın daralmasından korkuyorum.",
+    ["Completion"]="Ah, yumurtaya sahipsin! Önünde eğiliyorum, YOUR_NAME. Gücün ve cesaretin uzun süre hatırlanacak.",
+    ["minlevel"]="40",
+    ["questlevel"]="50",
+    }, -- end The Ancient Egg
+
+    -- The Final Tablets
+    -- Prospector Ironboot -> Madenci Demirçizme (MobNpcData.lua)[cite: 1]
+    -- Mosh'aru -> Mosh'aru
+    -- Smolderthorn -> Tütendiken
+    -- Blackrock Spire -> Karakaya Zirvesi (ZoneData.lua)[cite: 2]
+    -- Burning Steppes -> Yanardağ Bozkırları (ZoneData.lua)[cite: 2]
+    -- Searing Gorge -> Kavuran Yarık (ZoneData.lua)[cite: 2]
+    -- Tanaris -> Tanaris (ZoneData.lua)[cite: 2]
+    ["4788"] = {
+    ["Title"]="Son Tabletler",
+    ["Description"]="Ben Mosh'aru'nun üçüncü ve dördüncü tabletlerini incelerken, sen beşinci ve altıncıyı bulmalısın! Kolay olmayacak çünkü onlar Karakaya Zirvesi içindeki Tütendiken trollleri tarafından tutuluyor. Zirve, Yanardağ Bozkırları ile Kavuran Yarık arasında ateşten karanlık bir dağdır.\n\nBol şans, YOUR_NAME. Karakaya Zirvesi dürüst insanlara göre bir yer değil...",
+    ["Objectives"]="Beşinci ve Altıncı Mosh'aru Tabletlerini Tanaris'teki Madenci Demirçizme'ye getir.[cite: 1, 2]",
+    ["Progress"]="Zirveye gittin mi, YOUR_NAME? Beşinci ve altıncı tabletler yanında mı?",
+    ["Completion"]="İnanılmaz! Onları buldun! Sen gerçekten bir kahramansın, YOUR_NAME!\n\nBu iyi bir şey çünkü daha önce bana getirdiğin tabletleri okuyordum ve anladığıma göre... Gelecek olan şeyi durdurmak için bir kahramana ihtiyacımız olacak...",
+    ["minlevel"]="40",
+    ["questlevel"]="58",
+    }, -- end The Final Tablets
+
+    -- Felnok Steelspring
+    -- Tinkee -> Tinkee (MobNpcData.lua)[cite: 1]
+    -- Felnok Steelspring -> Felnok Çelikyayı (MobNpcData.lua)[cite: 1]
+    -- Felnok -> Felnok (MobNpcData.lua)[cite: 1]
+    -- Winterspring -> Kışbeşiği (ZoneData.lua)[cite: 2]
+    -- Everlook -> Zamansız Bakış (ZoneData.lua)[cite: 2]
+    -- Burning Steppes -> Yanardağ Bozkırları (ZoneData.lua)[cite: 2]
+    ["4808"] = {
+    ["Title"]="Felnok Çelikyayı",
+    ["Description"]="Senden bir iyilik daha isteyeceğim.\n\nTopladığın öz üzerindeki ilk incelemem, ejderha yavrusu yumurtalarını dondurmanın ve onları korumanın mümkün olabileceğini gösteriyor! Bu teoriyi test etmek istiyorum ama önce özel olarak üretilmiş mühendislik bileşenlerine ihtiyacım var. Meslektaşım Felnok Çelikyayı bunları yapabilir.\n\nİşte, bu mektubu Felnok'a götür. Ona neye ihtiyacım olduğunu anlatıyor. Felnok'u Kışbeşiği'nde, Zamansız Bakış kasabasında bulacaksın.",
+    ["Objectives"]="Tinkee'nin Mektubu'nu Felnok Çelikyayı'na ver.[cite: 1]",
+    ["Progress"]="Burası çok soğuk! Umarım bana bir battaniye getirmişsindir!",
+    ["Completion"]="Bu battaniye değil! Ama burada neyimiz var? Tinkee'den bir mektup mu? Ne söyleyeceğini merak ediyorum...\n\nAh, Yanardağ Bozkırları'nda çalışıyor. Bu mantıklı--ejderhasoyu için iyi bir kaynak. Oh, ama bak! Burada inşa etmek istediği bir cihaz için bazı parçalara ihtiyacı olduğu yazıyor. Sanırım burada ben devreye giriyorum, ha?",
+    ["minlevel"]="50",
+    ["questlevel"]="54",
+    }, -- end Felnok Steelspring
+
+    -- Chillwind Horns
+    -- Tinkee -> Tinkee (MobNpcData.lua)[cite: 1]
+    -- Felnok Steelspring -> Felnok Çelikyayı (MobNpcData.lua)[cite: 1]
+    -- Winterspring -> Kışbeşiği (ZoneData.lua)[cite: 2]
+    ["4809"] = {
+    ["Title"]="Serinrüzgar Boynuzları",
+    ["Description"]="Tinkee'nin ihtiyacı olan şeylerin çoğuna sahibim ama önemli bir bileşeni kaçırıyorum, o da serinrüzgar boynuzları. Kışbeşiği'ndeki serinrüzgar kimera boynuzları yoğunlaştırılmış bir soğuk kaynağıdır ancak sadece el değmemiş, çatlamamış boynuzlar iş görecektir! Tinkee'nin siparişini tamamlamak için bunlardan bir stoğa ihtiyacım olacak.\n\nBana çatlamamış serinrüzgar boynuzlarını getir, ben de Tinkee için bir paket hazırlayayım.",
+    ["Objectives"]="8 Çatlamamış Serinrüzgar Boynuzu'nu Felnok Çelikyayı'na getir.[cite: 1]",
+    ["Progress"]="Serinrüzgar boynuzları yanında mı, YOUR_NAME?",
+    ["Completion"]="Bunlar iyi örnekler. Soğukla dolular! Biraz eldiven giyeyim, sonra onları Tinkee'nin ihtiyaç duyduğu diğer şeylerle birlikte paketleyeyim...",
+    ["minlevel"]="50",
+    ["questlevel"]="54",
+    }, -- end Chillwind Horns
+
+    -- Return to Tinkee
+    -- Tinkee -> Tinkee (MobNpcData.lua)[cite: 1]
+    -- Felnok -> Felnok (MobNpcData.lua)[cite: 1]
+    -- Tinkee Steamboil -> Tinkee Buharkaynatan (MobNpcData.lua)[cite: 1]
+    -- Burning Steppes -> Yanardağ Bozkırları (ZoneData.lua)[cite: 2]
+    ["4810"] = {
+    ["Title"]="Tinkee'ye Dönüş",
+    ["Description"]="Tamam, her şey hazırlandı, paketlendi ve nakliyeye hazır! Yolculuğunda bol şans ve Tinkee'ye bana borçlu olduğunu söylediğinden emin ol!",
+    ["Objectives"]="Felnok'un Paketi'ni Yanardağ Bozkırları'ndaki Tinkee Buharkaynatan'a getir.[cite: 1, 2]",
+    ["Progress"]="YOUR_NAME! Felnok ile konuştun mu? İhtiyacım olan bileşenleri getirdin mi?",
+    ["Completion"]="Onları getirdin! Harika! Hemen işe koyulacağım! Binlerce teşekkürler, YOUR_NAME!\n\nBana o kadar yardımcı oldun ki, daha sonra senden daha önemli görevler için yardım istemem gerekebilir...",
+    ["minlevel"]="50",
+    ["questlevel"]="54",
+    }, -- end Return to Tinkee
+
+    -- You Scream, I Scream...
+    -- Tigule -> Tigule (MobNpcData.lua)[cite: 1]
+    -- Foror -> Foror (MobNpcData.lua)[cite: 1]
+    -- Shimmering Flats -> Parlayan Düzlükler (ZoneData.lua)[cite: 2]
+    ["4822"] = {
+    ["Title"]="Sen Bağırırsın, Ben Bağırırım...",
+    ["Description"]="DONDURMA! Oh lütfen lütfen lütfen bana biraz dondurma getirebilir misin?! Çilek benim en sevdiğim lezzettir ve dünyada Tigule ve Foror'un Çilekli Dondurması'ndan daha iyi bir çilekli dondurma yoktur! Tüm geniş dünyada en sevdiğim dondurmadır!\n\nÇok uzun zaman önce Parlayan Düzlükler yarış pistindeyken bir kez yemiştim ama duydum ki artık kasabada satıyor olabilirlermiş! Lütfen? Çok lütfen? Üzerinde Tigule ve Foror'un Çilekli Dondurması ile??!?!",
+    ["Objectives"]="Vayini için biraz Çilekli Dondurma al. Delikanlı Tigule ve Foror'un marka dondurmasını tercih ediyor gibi görünüyor.",
+    ["Progress"]="Çilek dışında daha fazla dondurma lezzeti yapmalarını isterdim ama sanırım çilek en sevdiğim olduğu için şanslıyım!",
+    ["Completion"]="Mmmmmmmmm! Onların çilekli dondurmasını seviyorum! Tigule ve Foror'un yapmayı bildiği bir şey varsa, o da dondurma yapmaktır!\n\nÇok teşekkür ederim YOUR_NAME - bu şimdiye kadarki en iyi ikram!",
+    ["minlevel"]="10",
+    ["questlevel"]="60",
+    }, -- end You Scream, I Scream...
+
+    -- Strange Sources
+    -- Donova Snowden -> Donova Snowden (MobNpcData.lua)[cite: 1]
+    -- Winterspring -> Kışbeşiği (ZoneData.lua)[cite: 2]
+    -- Darkwhisper Gorge -> Karanlıkfısıltı Yarığı
+    ["4842"] = {
+    ["Title"]="Garip Kaynaklar",
+    ["Description"]="Sana gerçeği söylemek gerekirse, burada Kışbeşiği'nde yanardağ olmamasına rağmen bu kaplıcaların çok daha tehditkar nedenleri olduğuna inanıyorum...\n\nŞey, bunu kendin görmek isteyeceğini düşünüyorum. Kışbeşiği'nin uzunluğu boyunca seyahat etmeli ve en güneye gitmelisin. Hava ağırlaşıp nemlendiğinde ve gökyüzü karardığında, kaplıcaların kaynağı olduğuna inandığım şeyi bulmuş olacaksın.\n\nBir göz at. Döndüğünde birçok sorun olacağından eminim.",
+    ["Objectives"]="Donova Snowden'ın talimatlarını takip et, ardından rapor ver.[cite: 1]",
+    ["Progress"]="Kaplıcalardaki su çok tuhaf özelliklere sahip gibi görünüyor... Hâlâ ne anlama geldiğinden emin değilim...",
+    ["Completion"]="Evet, Karanlıkfısıltı Yarığı'ndaki iblisler; toprağı bu şekilde etkileyen şeyin onların varlığı olduğuna inanıyorum. Buradaki kaplıcaları gözlemlemeye devam edeceğim ve daha fazla şey öğrenip öğrenemeyeceğime bakacağım.\n\nKaranlıkfısıltı Yarığı'nın daha da derinlerine gitme planların varsa biraz daha güçlenene kadar bekle derim.",
+    ["minlevel"]="51",
+    ["questlevel"]="56",
+    }, -- end Strange Sources
+
+    -- Enraged Wildkin
+    -- Jaron Stoneshaper -> Jaron Taşşekillendiren (MobNpcData.lua)[cite: 1]
+    -- Winterspring -> Kışbeşiği (ZoneData.lua)[cite: 2]
+    ["4861"] = {
+    ["Title"]="Öfkelenmiş Vahşicins",
+    ["Description"]="Selam, YOUR_GENDER:delikanlı:kız;! Güney Kışbeşiği'ndeki ordugahımdan kana susamış bazı vahşicinsler tarafından kovalandım! Şey, sanırım vahşicinslerin koruduğu bir şeye fazla yaklaştım.\n\nGüvenli bir şekilde kaçmayı zar zor başardım; bir arkadaşımın o kadar şanslı olmadığından korkuyorum. Vahşicinslere göğüs germeyi ve ordugaha gitmeyi sakıncası yoksa kabul eder misin? Malzemelerime gerçekten ihtiyacım var ve ayrıca dün kazı alanında çıkardığım muskayı geri almak istiyorum.",
+    ["Objectives"]="Güney Kışbeşiği'nde Jaron Taşşekillendiren'in enkaz haline gelmiş ordugahını ve malzemelerini bul.[cite: 1, 2]",
+    ["Progress"]="",
+    ["Completion"]="Ordugahtaki tahrip edilmiş diğer eşyaların arasında ağır hasar görmüş bir sandık öne çıkıyor...",
+    ["minlevel"]="53",
+    ["questlevel"]="59",
+    }, -- end Enraged Wildkin
+
+    -- En-Ay-Es-Tee-Why
+    -- Bijou -> Bijou (MobNpcData.lua)[cite: 1]
+    -- Kibler -> Kibler (MobNpcData.lua)[cite: 1]
+    -- Blackrock Spire -> Karakaya Zirvesi (ZoneData.lua)[cite: 2]
+    ["4862"] = {
+    ["Title"]="Ç-A-M-U-R-C-U",
+    ["Description"]="İnan ya da inanma, dışarıda evcilleştirilmiş canavarların en aşağılığı için ödeme yapmaya razı insanlar var!\n\nBijou'yu zirve örümcek yumurtalarından bazılarını toplamaya çalışması için Zirve'ye göndermiştim ama haftalardır ondan haber alamadım. Belki bana yardım edebilirsin?\n\nSana ne diyeceğim, YOUR_NAME. Karakaya Zirvesi'ne git ve benim için birkaç zirve örümcek yumurtası topla. Onları buraya geri getir, sana sadece biraz nakit vermekle kalmayayım, senin için bir tanesini de evcilleştireyim!",
+    ["Objectives"]="Karakaya Zirvesi'ne seyahat et ve Kibler için 15 Zirve Örümcek Yumurtası topla.\n\nSöylenenlere göre bu yumurtalar örümceklerin yakınında bulunabilir.[cite: 1, 2]",
+    ["Progress"]="Çantandakiler örümcek yumurtası mı yoksa beni gördüğüne sadece sevindin mi?",
+    ["Completion"]="Ne kadar da çok! Yani, şu tüm yumurtalara bak! Bunlar iyi miktarda altın getirmeli.\n\nSöz verdiğim gibi, işte kendi küçük yaratığın. Isırılma!",
+    ["minlevel"]="55",
+    ["questlevel"]="59",
+    }, -- end En-Ay-Es-Tee-Why
+
+    -- Enraged Wildkin
+    -- Jaron -> Jaron (MobNpcData.lua)[cite: 1]
+    ["4863"] = {
+    ["Title"]="Öfkelenmiş Vahşicins",
+    ["Description"]="Etrafa bakındığında, Jaron'un burada isteyebileceği pek bir şey görmüyorsun. Ancak bulduğun sandığın kırılıp açıldığını fark ediyorsun, sanki vahşicinslerin peşinde olduğu şey buymuş gibi...\n\nDoğuya doğru baktığında terk edilmiş bir vagonu zar zor seçebiliyorsun. Belki Jaron'un eşyalarını orada bulabilirsin. Bir bakmaya değer.",
+    ["Objectives"]="Jaron Taşşekillendiren'in enkaz haline gelmiş vagonunu bul.[cite: 1]",
+    ["Progress"]="",
+    ["Completion"]="Vagona yaklaşırken Jaron için burada pek fazla şey kalmamış gibi görünüyor. Ancak yere baktığında karda yarı yarıya gömülü olmasına rağmen hasarsız görünen bazı sandıklar fark ediyorsun.",
+    ["minlevel"]="53",
+    ["questlevel"]="59",
+    }, -- end Enraged Wildkin
+
+    -- Enraged Wildkin
+    -- Jaron -> Jaron (MobNpcData.lua)[cite: 1]
+    -- Jaron Stoneshaper -> Jaron Taşşekillendiren (MobNpcData.lua)[cite: 1]
+    -- Winterspring -> Kışbeşiği (ZoneData.lua)[cite: 2]
+    ["4864"] = {
+    ["Title"]="Öfkelenmiş Vahşicins",
+    ["Description"]="Kutunun içindekileri inceledikten sonra Jaron'un içindeki aletleri ve diğer eşyaları kullanabileceğine karar veriyorsun. Ancak muskanın hiçbir izi yok.\n\nVahşicinslerin buranın kuzeyindeki ve doğusundaki topraklarda yaşadığı görülüyor, bu yüzden bir sonraki adımın yaratıklarla yüzleşmek ve muskayı onlardan geri almak olduğuna karar veriyorsun.",
+    ["Objectives"]="Jaron'un Malzemeleri'ni kardan al, ardından Jaron'un bahsettiği muskayı çalan vahşicinsi bul.\n\nJaron'un Malzemeleri'ni ve Mavi Tüylü Muska'yı Kışbeşiği'ndeki kulübede bulunan Jaron Taşşekillendiren'e getir.[cite: 1, 2]",
+    ["Progress"]="Evet... Bana haberleri ver, evlat.",
+    ["Completion"]="Şey, bu kadarını duymayı bekliyordum evlat. Çıldırmış canavarların tüm eşyalarımı yok ettiğini düşünmüştüm...\n\nAma aletlerimi ve en önemlisi muskayı buldun! Vahşicinslerin bu eşyayı neden bu kadar şiddetle savunduğunu merak ediyorum... Her halükarda, bir daha o tarafa gitmeden önce iki kez düşüneceğim!",
+    ["minlevel"]="53",
+    ["questlevel"]="59",
+    }, -- end Enraged Wildkin
+
+    -- Mother's Milk
+    -- Mother Smolderweb -> Anne Tütenağ (MobNpcData.lua)[cite: 1]
+    -- Ragged John -> Üstü Başı Yırtık John (MobNpcData.lua)[cite: 1]
+    -- Skitterweb -> SeğirenAğ
+    -- Blackrock Spire -> Karakaya Zirvesi (ZoneData.lua)[cite: 2]
+    ["4866"] = {
+    ["Title"]="Ana Sütü",
+    ["Description"]="Bu muhtemelen dünyadaki en etkili zehirlerden biridir, YOUR_RACE!\n\nZirve'ye yaptığım gezilerde Karakayaların bunun öldürücülüğü hakkında konuştuklarını duydum. SeğirenAğ mağarasındaki büyük iğrenç örümcek Anne Tütenağ'ın adını taşıyan 'Ana Sütü' adını veriyorlar.\n\nŞimdi senden ihtiyacım olan şey şu: SENİN damarlarında akan Sütün canlı bir örneği. Bana sadece bezi getirmek yeterli olmayacak! Seni zehirlemesini sağla ve bana geri gel!\n\nSonra... Seni sağacağım!\n\n<Beklentiyle ellerini birbirine sürter.>",
+    ["Objectives"]="Karakaya Zirvesi'nin kalbinde Anne Tütenağ'ı bulacaksın. Onunla dövüş ve seni zehirlemesini sağla. Şansın yüksek ki onu da öldürmen gerekecek. Seni 'sağabilmesi' için zehirlendiğinde Üstü Başı Yırtık John'a dön.[cite: 1, 2]",
+    ["Progress"]="<Üstü Başı Yırtık John seni çimdikler.>",
+    ["Completion"]="Bu şimdiye kadarki en iyi birayı yapacak!\n\nEh, bunu ne için kullanacağımı sanıyordun? Zehir falan mı??\n\nÇılgın çocuklar...",
+    ["minlevel"]="55",
+    ["questlevel"]="60",
+    }, -- end Mother's Milk
+
+    -- Urok Doomhowl
+    -- Urok -> Urok (MobNpcData.lua)[cite: 1]
+    -- Warosh -> Warosh (MobNpcData.lua)[cite: 1]
+    -- Blackrock Spire -> Karakaya Zirvesi (ZoneData.lua)[cite: 2]
+    ["4867"] = {
+    ["Title"]="Urok Kıyametferyadı",
+    ["Description"]="Argh! Konuşmak çok zor!\n\nBu notu al! Bana tılsımımı getir!",
+    ["Objectives"]="Warosh'un Parşömeni'ni oku. Warosh'un Tılsımı'nı Warosh'a getir.[cite: 1]",
+    ["Progress"]="Ah! Tılsımım yanında mı?",
+    ["Completion"]="Aha! Güçlerimin bana geri döndüğünü şimdiden hissedebiliyorum. Ve zihnim artık Urok'un lanetiyle boğuşmuyor.\n\nTeşekkür ederim, YOUR_NAME! Mütevazılık bana göre değil ama yardımını kabul etmeliyim.\n\nVe Karakaya Zirvesi'ndeki yolculuklarında sana şans diliyorum. En tepeye kadar çıkabileceğini düşünmekle bir aptalsın ama cesaretin tartışılmaz.",
+    ["minlevel"]="55",
+    ["questlevel"]="60",
+    }, -- end Urok Doomhowl
+
+    -- Guarding Secrets
+    -- Trull Failbane -> Trull Felaketyıkımı (MobNpcData.lua)[cite: 1]
+    -- Bloodvenom Post -> Kanlızehir Karakolu (ZoneData.lua)[cite: 2]
+    ["4882"] = {
+    ["Title"]="Sırları Korumak",
+    ["Description"]="Yakın zamanda öldürülen vahşicinsin boynundan düşen kolyenin öneminden emin değilsin. Parlak bir şekilde parlıyor, yavaşça sönüp tekrar beliriyor.\n\nTrull Felaketyıkımı vahşicinsler hakkındaki bilgisi engin göründüğü için sana daha fazla şey söyleyebilir. Belki de ona bu konuyu sormalısın.",
+    ["Objectives"]="Mavi Tüylü Kolye'yi Kanlızehir Karakolu'ndaki Trull Felaketyıkımı'na götür.[cite: 1, 2]",
+    ["Progress"]="Başka bir görev için mi rapor veriyorsun?",
+    ["Completion"]="Önemli bir keşif mi?",
+    ["minlevel"]="52",
+    ["questlevel"]="59",
+    }, -- end Guarding Secrets
+
+    -- Guarding Secrets
+    -- Nara Wildmane -> Nara Vahşiyele (MobNpcData.lua)[cite: 1]
+    -- Thunder Bluff -> Gürültü Uçurumu (ZoneData.lua)[cite: 2]
+    -- Elune -> Elune
+    -- Winterspring -> Kışbeşiği (ZoneData.lua)[cite: 2]
+    ["4883"] = {
+    ["Title"]="Sırları Korumak",
+    ["Description"]="Kışbeşiği'nde yendiğin baykuş ayılar hakkında çok fazla bilgiye sahip olsam da, kullandıkları büyüler konusunda pek bilgili değilim. Ama kolyeyi inceleyebilecek ve büyük olasılıkla ne olduğunu sana söyleyebilecek birini bildiğime inanıyorum.\n\nGürültü Uçurumu'ndaki Nara Vahşiyele bu alanda bir uzmandır; onu gör. Bol şans, YOUR_NAME.",
+    ["Objectives"]="Mavi Tüylü Kolye'yi Nara Vahşiyele'ye götür.[cite: 1]",
+    ["Progress"]="Sana nasıl yardımcı olabilirim, YOUR_NAME?",
+    ["Completion"]="Bu kolyenin enerjisi, YOUR_NAME. Sadece tek bir kaynağı olduğuna inanıyorum.\n\n<Nara gözlerini kapatır ve bir an sessiz kalır.>\n\nŞimdi yanlış yola sapmış ve kafası karışmış olan vahşicinsler bir zamanlar öyle değildi. Bir zamanlar bir amaçları vardı ve hizmet etmek için yönlendiriliyorlardı. Gece elfi tanrıçası Elune bu yaratıkları en kutsal alanlarını korumak için yarattı.\n\nBu gerçek az bir değere sahipmiş gibi görünse de; seni daha derine bakmaya teşvik ediyorum.\n\nZamanla öğreneceksin. Bunu bana getirdiğin için teşekkür ederim, YOUR_NAME.",
+    ["minlevel"]="52",
+    ["questlevel"]="59",
+    }, -- end Guarding Secrets
+
+    -- Guardians of the Altar
+    -- Ranshalla -> Ranshalla (MobNpcData.lua)[cite: 1]
+    -- Erelas -> Erelas (MobNpcData.lua)[cite: 1]
+    -- Erelas Ambersky -> Erelas Kehribargöğü (MobNpcData.lua)[cite: 1]
+    -- Elune -> Elune
+    -- Kel'Theril -> Kel'Theril (ZoneData.lua)[cite: 2]
+    -- Rut'theran Village -> Rut'theran Köyü (ZoneData.lua)[cite: 2]
+    ["4901"] = {
+    ["Title"]="Mahterin Muhafızları",
+    ["Description"]="Sırtın en tepesinde tanrıça Elune'un bir mihrabı olduğuna inandığım şey yatıyor. Anlayabildiğim kadarıyla her mağaradaki beş meşaleyi yakmamız gerekiyor ve ardından mihraba doğrudan erişebileceğiz.\n\nKel'Theril'in antik harabelerinde taşa kazınmış, mihrabın kilidini açmanın sırrı olduğuna inandığım bazı büyü sözlerini kopyaladım. Ben büyüyü okurken her meşaleyi yakmak için yardımına ihtiyacım olacak.\n\nBaşarılı olursak, bulgularımızı Erelas'a rapor edebileceksin!",
+    ["Objectives"]="Elune Mihrabı'nı yeniden etkinleştirmeye çalışırken Ranshalla'yı koru. Bulgularını Rut'theran Köyü'ndeki Erelas Kehribargöğü'ne rapor et.[cite: 1, 2]",
+    ["Progress"]="",
+    ["Completion"]="Ranshalla ile buluştun mu?",
+    ["minlevel"]="52",
+    ["questlevel"]="59",
+    }, -- end Guardians of the Altar
+
+    -- Wildkin of Elune
+    -- Fandral Staghelm -> Fandral Geyikmiğferi (MobNpcData.lua)[cite: 1]
+    -- Elune -> Elune
+    -- Darnassus -> Darnassus (ZoneData.lua)[cite: 2]
+    -- Cenarion Circle -> Cenarion Çemberi
+    ["4902"] = {
+    ["Title"]="Elune'un Vahşicinsleri",
+    ["Description"]="Bu büyüleyici!\n\nGerçeği her zaman merak etmişimdir... Şey, bu bilgiyi paylaşmalısın, kesinlikle! Hemen Baş Druid Fandral Geyikmiğferi'ne git -- onu Darnassus'ta, Cenarion Çemberi'nde bulacaksın. Bana anlattığın gibi ona da ne olduğunu açıkla. Onun da aynı derecede ilgileneceğinden eminim!\n\nBu önemli bir bilgi, YOUR_NAME!",
+    ["Objectives"]="Darnassus'taki Baş Druid Fandral Geyikmiğferi ile konuş.[cite: 1, 2]",
+    ["Progress"]="",
+    ["Completion"]="Tereddüt etme; neden geldiğini söyle.\n\nOh, öyle mi? Hmm. Pekala.\n\nBunu doğrudan bana getirdiğin için teşekkür ederim; her zaman en tepeye çıkmak en iyisidir... Ama... Evet. Cenarion Çemberi'nin druidleri bir süredir Vahşicinslerden haberdar. Onların Elune'un evcil hayvanları olduklarını ve en kutsal yerleri korumak için seçildiklerini biliyorlar.\n\nYani bu bir haber olmasa da, çabanı kesinlikle takdir ediyorum. İşte, bunu al -- böyle bir eylem için uygun görünen bir şey.",
+    ["minlevel"]="52",
+    ["questlevel"]="57",
+    }, -- end Wildkin of Elune
+
+    -- Warlord's Command
+    -- Warlord Goretooth -> Savaşlordu Kanlıdiş (MobNpcData.lua)[cite: 1]
+    -- Highlord Omokk -> Yüksek Derebeyi Omokk (MobNpcData.lua)[cite: 1]
+    -- War Master Voone -> Savaş Üstadı Voone (MobNpcData.lua)[cite: 1]
+    -- Overlord Wyrmthalak -> Derebeyi Wyrmthalak (MobNpcData.lua)[cite: 1]
+    -- Blackrock Spire -> Karakaya Zirvesi (ZoneData.lua)[cite: 2]
+    -- Kargath -> Kargath (ZoneData.lua)[cite: 2]
+    -- Blackrock -> Karakaya (ZoneData.lua)[cite: 2]
+    ["4903"] = {
+    ["Title"]="Savaşlordunun Emri",
+    ["Description"]="Savaşlordu Kanlıdiş'in emriyle, Karakaya Zirvesi'nin aşağıdaki sakinleri yok edilmelidir:\n\nGöbekli tehdit, Yüksek Derebeyi Omokk.\n\nZalim ve acımasız troll, Savaş Üstadı Voone.\n\nAşağı şehrin iş görevlisi, Derebeyi Wyrmthalak.\n\nAyrıca bulabileceğin önemli belgeleri de geri getirmen gerekecek.\n\nBaşarılı ol ve onurlandırıl.\n\nBaşarısız ol ve unutul.",
+    ["Objectives"]="Yüksek Derebeyi Omokk, Savaş Üstadı Voone ve Derebeyi Wyrmthalak'ı katlet. Önemli Karakaya Belgeleri'ni ele geçir. Görev tamamlandığında Kargath'taki Savaşlordu Kanlıdiş'e dön.[cite: 1, 2]",
+    ["Progress"]="<Savaşlordu Kanlıdiş selam durur.>",
+    ["Completion"]="<Savaşlordu Kanlıdiş'in mat yeşil teni kısa bir an için soluk bir beyaza bürünür.>",
+    ["minlevel"]="55",
+    ["questlevel"]="60",
+    }, -- end Warlord's Command
+
+    -- Further Corruption
+    -- Xavaric -> Xavaric (MobNpcData.lua)[cite: 1]
+    -- Xavathras -> Xavathras (MobNpcData.lua)[cite: 1]
+    -- Eridan Bluewind -> Eridan Mavirüzgar (MobNpcData.lua)[cite: 1]
+    -- Felwood -> Felwood (ZoneData.lua)[cite: 2]
+    -- Jadefire -> Yeşilateş
+    ["4906"] = {
+    ["Title"]="Daha Fazla Yozlaşma",
+    ["Description"]="Zalim Xavaric tarafından yönetilen ikinci bir satir ordugahı kuzeye doğru Felwood topraklarını tehdit ediyor. Aşağılık hainler ve hilekarlar Felwood'un yerli yaratıklarının yozlaşmasından besleniyor.\n\nXavathras ve müritleri daha büyük bir planın sadece bir parçasıydı -- yozlaşmış bir ay kuyusu yetiştirmek ve ardından ganimetleri Xavaric'e sunmak.\n\nArtık Xavathras aradan çekildiğine göre bu görevi bitir, YOUR_NAME. Kuzeye git ve Xavaric'i yen.",
+    ["Objectives"]="Felwood'daki Eridan Mavirüzgar 8 Yeşilateş Cehennemçağıranı, 8 Yeşilateş Haini, 8 Yeşilateş Hilekarı ve Xavaric'i öldürmeni istiyor. Görev tamamlandığında Eridan'a dön.[cite: 1, 2]",
+    ["Progress"]="Lütfen Felwood yaratıklarının çektiği acılara bir son ver.",
+    ["Completion"]="Yaptığın her şey için teşekkür ederim, YOUR_NAME. Elune seni korusun ve önündeki yolda sana rehberlik etsin.",
+    ["minlevel"]="49",
+    ["questlevel"]="54",
+    }, -- end Further Corruption
+
+    -- Tinkee Steamboil
+    -- Tinkee Steamboil -> Tinkee Buharkaynatan (MobNpcData.lua)[cite: 1]
+    -- Felnok -> Felnok (MobNpcData.lua)[cite: 1]
+    -- Burning Steppes -> Yanardağ Bozkırları (ZoneData.lua)[cite: 2]
+    -- Flame Crest -> Alev Tepesi
+    ["4907"] = {
+    ["Title"]="Tinkee Buharkaynatan",
+    ["Description"]="Selam, YOUR_NAME. Tinkee Buharkaynatan'ı hatırladın mı? Şey, o seni hatırlıyor! Gözümü senden ayırmamam için bana bir mesaj gönderdi çünkü... Yine senin yardımına ihtiyacı var. Sanırım ejderhalar üzerindeki çalışmalarıyla bir ilgisi var.\n\nOnunla Yanardağ Bozkırları'nda, Alev Tepesi'nde konuşmalısın.",
+    ["Objectives"]="Tinkee Buharkaynatan ile konuş.[cite: 1]",
+    ["Progress"]="",
+    ["Completion"]="Felnok haklıydı! Yine yardımına ihtiyacım var ve bu sefer... Gerçekten tehlikeli olacak.\n\nHazır mısın??",
+    ["minlevel"]="57",
+    ["questlevel"]="60",
+    }, -- end Tinkee Steamboil
+
+    -- Frostsaber Provisions
+    -- Rivern Frostwind -> Rivern Dondururüzgar (MobNpcData.lua)[cite: 1]
+    -- Winterspring -> Kışbeşiği (ZoneData.lua)[cite: 2]
+    ["4970"] = {
+    ["Title"]="Buzkılıç Azıkları",
+    ["Description"]="Kendini kanıtlamak istiyorsan çok basit ama çok önemli bir görevi yaparak başlayabilirsin.\n\nBölgedeki kimeradan ve kıymıktış ayılardan et topla. Eğitilmekte olan buzkılıçları beslemek için kullanabileyim diye onları bana getir.",
+    ["Objectives"]="Kışbeşiği'ndeki Rivern Dondururüzgar için 5 Kıymıktış Eti ve 5 Serinrüzgar Eti topla.[cite: 1, 2]",
+    ["Progress"]="Disiplin ve kararlılık senin hedeflerindir. Senden basit bir görevi defalarca yapmanı isteyebilirim; her seferinde elinden gelenin en iyisini yapmalısın.",
+    ["Completion"]="Bana yardımcı olduğun için teşekkür ederim, YOUR_NAME. Zaman geçtikçe senin hakkındaki düşüncem büyüyor.",
+    ["minlevel"]="58",
+    ["questlevel"]="60",
+    }, -- end Frostsaber Provisions
+
+    -- A Matter of Time
+    -- Chromie -> Chromie (MobNpcData.lua)[cite: 1]
+    -- Andorhal -> Andorhal (ZoneData.lua)[cite: 2]
+    -- Western Plaguelands -> Batı Veba Toprakları (ZoneData.lua)[cite: 2]
+    ["4971"] = {
+    ["Title"]="Bir Zaman Meselesi",
+    ["Description"]="Kötü bir güç tarafından - büyük olasılıkla Afet - zaman akışına müdahale edildi Andorhal'da! Buradaki zamanın geçişini bozulmadan tutmaya ve hasar gören şeyleri onarmaya çalışabilirim ama bunu kesintisiz yapmak için yardımına ihtiyacım olacak.\n\nZamanın değiştirilmiş akışının iplikleriyle beslenen leş kargaları olan zamansal parazitler, artık Andorhal'ın silolarını istila ediyor. Mavi bir kırılma darbesi onların tek görsel işaretidir. Kehanetlerimi yavaşlatıyorlar; lütfen YOUR_NAME, bu zamansal parazitleri kökünden kazımak için bu zamansal yer değiştiriciyi kullanarak bana yardım et.",
+    ["Objectives"]="Andorhal silolarından birinin yakınında Zamansal Yer Değiştirici'yi kullan ve Zamansal Parazitleri ortaya çıkar.\n\n15 Zamansal Parazit katlet, ardından Zamansal Yer Değiştirici'yi Batı Veba Toprakları'ndaki Andorhal Hanı'nda bulunan Chromie'ye geri getir.[cite: 1, 2]",
+    ["Progress"]="Zamansal parazitler, zaman akışına müdahale edilen her yerde bulunan yaygın bir hastalıktır. Birçoğunun mevcut olduğunu hissediyorum ve bu rahatsız edici.\n\nBulabildiklerini kökünden kazımak, buradaki kötüleşen zamansal duruma daha iyi hakim olabilmeme yardımcı olacak. Bu başarıldığında bunu hissedebileceğim.",
+    ["Completion"]="Zaman artık daha kolay onarılıyor gibi hissediliyor, teşekkürler YOUR_NAME. Bölünmüş bir zaman akışının sonuçlarını tam olarak anlamayabilirsin ama Afet odaklı bir fesatlık olduğundan gittikçe daha fazla şüphelendiğim şeye karşı koymanın aciliyetini anlamanı takdir ediyorum.\n\nSeni yardımın için ödüllendirmekte bir sakınca görmüyorum ölumlü. En büyük başarıların henüz gelmedi ve bir süs eşyası vermek gelecekteki kaderini kesinlikle değiştirmeyecek. Ancak devam eden yardımın, benim ve ejderhasoyunun kullanabileceği bir şey...",
+    ["minlevel"]="53",
+    ["questlevel"]="56",
+    }, -- end A Matter of Time
+
+    -- Counting Out Time
+    -- Chromie -> Chromie (MobNpcData.lua)[cite: 1]
+    -- Andorhal -> Andorhal (ZoneData.lua)[cite: 2]
+    -- Western Plaguelands -> Batı Veba Toprakları (ZoneData.lua)[cite: 2]
+    ["4972"] = {
+    ["Title"]="Zamanı Saymak",
+    ["Description"]="Bu odanın ötesindeki dünyaya ulaşmana ihtiyacım var, YOUR_NAME. Açıklamama izin ver.\n\nBu odanın Andorhal'ın geri kalanına kıyasla farkını görüyorsun. Ejderhasoyum birçok farklı şekilde ve birçok farklı zaman akışında çalışır. Andorhal'ın hasarını onarmak için, onu aşırı derecede kirletmemek adına artık farklı bir zaman akışından hareket ediyorum. Ancak buna devam etmek için zaman ziynetlerine ihtiyacım var, veba vurduğunda sıkışıp kalanlara. Onları bu bir zamanlar gururlu şehri oluşturan harap binalarda bulunan kilitli kutularda bul.",
+    ["Objectives"]="Şehrin molozları arasındaki kilitli kutularda bulunan 5 Andorhal Saati'nin yerini tespit et. Onlarla birlikte Batı Veba Toprakları'ndaki Andorhal Hanı'nda bulunan Chromie'ye dön.[cite: 1, 2]",
+    ["Progress"]="Aradığım zaman ziynetleri basit cihazlardır. Çoğunlukla saatler ve yelkovanları veba Andorhal'ı ilk kasıp kavurduğunda sonsuza dek sıkışıp kaldı.\n\nZaman sonsuzdur ve bana getirdiğin saatler değişmez bir şekilde evlerine geri sayım yapacak... Yani, buradaki rahatsızlıklar devam ettiği sürece.",
+    ["Completion"]="Bular tam da ihtiyacım olan şeyler, YOUR_NAME. Teşekkür ederim.\n\nSeni bununla uygun şekilde ödüllendirmeme izin ver. Böyle bir cihazla neye ihtiyacın olacağını anlamayabilirsin. Hatta gerçekten ne olduğunu bile bilmeyebilirsin. Ne yazık ki onu ne zaman en yararlı bulacağını sana söyleyemem; sadece gelecekte bir noktada, tüketildiğinde bu eşyanın son derece faydalı ve işlevsel olduğunu görebileceğini bil. O zamana kadar ona tutunmayı seçip seçmemek... Bu, dostum, sana kalmış.",
+    ["minlevel"]="53",
+    ["questlevel"]="56",
+    }, -- end Counting Out Time
+
+    -- Counting Out Time
+    -- Chromie -> Chromie (MobNpcData.lua)[cite: 1]
+    -- Andorhal -> Andorhal (ZoneData.lua)[cite: 2]
+    -- Western Plaguelands -> Batı Veba Toprakları (ZoneData.lua)[cite: 2]
+    ["4973"] = {
+    ["Title"]="Zamanı Saymak",
+    ["Description"]="Bir kez daha yardım etmeye istekliysen, yardımını kesinlikle kullanabilirim. Andorhal harabelerinden çıkarabileceğin daha fazla saati seve seve alırım. Burada zaman akışına müdahale eden kötü güç her neyse ona karşı bir denge sağlamamda kesinlikle bana yardımcı oluyorlar.\n\nO saatlerin karşılığında sana gelecekte epey kullanım alanı bulacağından şüphelendiğim başka bir eşya vereceğim.",
+    ["Objectives"]="Şehrin molozları arasında 5 Andorhal Saati bul ve onlarla birlikte Batı Veba Toprakları'ndaki Andorhal Hanı'nda bulunan Chromie'ye dön.[cite: 1, 2]",
+    ["Progress"]="Andorhal'ın saatleri, tıpkı belediye binasının harabelerindeki büyük saat gibi, saat üçte zamanda donmuş durumda. Vebanın tüm etkileri şehirde ilk kez yayıldığında, yaşamı boğduğunda saat üçtü.\n\nO gün olanlardan ne kadar pişman olsak da, sizin gibi ölümlülerin algıladığı şekliyle zaman akışını şekillendirdi. Bronz ejderhasoyu zaman akışını koruma konusunda azimle devam etmeli!",
+    ["Completion"]="Yine yardımın için teşekkür ederim. Lütfen bu hediyeyi kabul et. Böyle bir eşyayı ne zaman kullanacağını henüz bilmesen de belki de gelecekte zamanın yolu sana gerçek niyetlerini açıklayacaktır. Bunun sana olduğunu gördüğümü söyleyebilirsin, YOUR_NAME.",
+    ["minlevel"]="53",
+    ["questlevel"]="56",
+    }, -- end Counting Out Time
+
+    -- For The Horde!
+    -- Rend -> Rend (MobNpcData.lua)[cite: 1]
+    -- Rend Blackhand -> Rend Siyahel (MobNpcData.lua)[cite: 1]
+    -- Thrall -> Thrall (MobNpcData.lua)[cite: 1]
+    -- Blackrock Spire -> Karakaya Zirvesi (ZoneData.lua)[cite: 2]
+    -- Blackrock -> Karakaya (ZoneData.lua)[cite: 2]
+    -- Orgrimmar -> Orgrimmar (ZoneData.lua)[cite: 2]
+    ["4974"] = {
+    ["Title"]="Horde İçin!",
+    ["Description"]="Rend siyah soy tarafından kendisine sağlanan koruma yüzünden böyle büyük iddialarda bulunmaya cesaret ediyor.\n\nSen, YOUR_NAME, Yükseliş Salonları'ndan geçmenin bir yolunu bulacaksın. Ardından 'Savaşşefi' Rend Siyahel'i bulacaksın ve onu yok edeceksin - HORDE İÇİN!\n\n<Thrall tahtına bir yumruk indirir.>\n\nOdama bir sonraki dönüşünde onun kafasını zaferle yüksekte tutacaksın ve ardından onu Savaşşefine sunacaksın. Bunu yap ve Horde'un bir kahramanı olarak onurlandırıl.",
+    ["Objectives"]="Karakaya Zirvesi'ne seyahat et ve Savaşşefi Rend Siyahel'i katlet. Kafasını al ve Orgrimmar'a dön.[cite: 1, 2]",
+    ["Progress"]="<Thrall hırıldar.>",
+    ["Completion"]="Karakaya kuvvetlerine ağır bir darbe indirdin, YOUR_NAME. Savaşşefleri katledildiğine göre, Karakaya lejyonu bir kez daha kaosun kucağına atıldı.\n\nKahramanlıklarının onuruna Kalimdor halkı ödüllendirilecek!",
+    ["minlevel"]="55",
+    ["questlevel"]="60",
+    }, -- end For The Horde!
+
+    -- Operative Bijou
+    -- Bijou -> Bijou (MobNpcData.lua)[cite: 1]
+    -- Kibler -> Kibler (MobNpcData.lua)[cite: 1]
+    -- Lexlort -> Lexlort (MobNpcData.lua)[cite: 1]
+    -- Burning Steppes -> Yanardağ Bozkırları (ZoneData.lua)[cite: 2]
+    -- Blackrock Spire -> Karakaya Zirvesi (ZoneData.lua)[cite: 2]
+    ["4981"] = {
+    ["Title"]="Ajan Bijou",
+    ["Description"]="Bir goblined asla güvenme. Olay buna dayanıyor, YOUR_NAME.\n\nBijou onun adı - en kaypak ajanlarımızdan biri. Yanardağ Bozkırları dışındaki Kibler adında şüpheli bir egzotik evcil hayvan satıcısı için çalıştığını, özünde bize ikili oynadığını öğrendim. Daha da kötüsü, operasyonlarını finanse etmek için Horde fonlarını kullanıyordu.\n\nBuraya canlı olarak geri getirilmesini istiyorum.\n\nEn son Karakaya Zirvesi'ne girerken görüldü. Onu bul ve geri getir.\n\nVe YOUR_NAME, onun tatlı sözlerle seni kandırmasına izin verme.",
+    ["Objectives"]="Karakaya Zirvesi'ne seyahat et ve Bijou'ya ne olduğunu öğren.[cite: 1, 2]",
+    ["Progress"]="",
+    ["Completion"]="Sana yalan söylemeyeceğim, YOUR_RACE. Paraya ihtiyacım vardı! Kibler çok ama çok iyi ödeme yapıyor - K.K.G.'nin şimdiye kadar yapabileceğinden çok daha iyi.\n\nAma sadakatimden şüphe etme! Neden burada olduğumu sanıyorsun? O çılgın gobline bazı egzotik hayvan yumurtaları veya aynı derecede saçma bir şey getirmek için mi? Hayır, sadece gerçekten kaçık biri evcil hayvan toplamak için Karakaya Zirvesi'ne gelir. Evet, bu dünyada bu tür pek çok insanın var olduğunu sanmıyorum.\n\n<Bijou güler.>\n\nEn son ihtiyacımız olan şey bu tür insanların çoğalması.",
+    ["minlevel"]="55",
+    ["questlevel"]="59",
+    }, -- end Operative Bijou
+
+    -- Bijou's Belongings
+    -- Bijou -> Bijou (MobNpcData.lua)[cite: 1]
+    ["4982"] = {
+    ["Title"]="Bijou'nun Eşyaları",
+    ["Description"]="Geceleri burası hafifçe korunduğunda şehrin etrafında sinsice dolaşır, notlar alır ve K.E.F. için stratejik değeri olabilecek gördüğüm her şeyi yazarım.\n\nDün gece ancak işler korkunç bir şekilde ters gitti. Bir tuzağa takıldım ve bir alarmı çalıştırdım. Keşif teçhizatımı sakladım ve siper almak için koştum! Ne yazık ki o teçhizata geri dönemiyorum. Devriyeleri ikiye, üçe katladılar! Bütün o bilgiler kayboldu.\n\nEşyalarımı geri getir, ben de K.E.F.'ye barışçıl bir şekilde döneyim.",
+    ["Objectives"]="Bijou'nun Eşyaları'nı bul ve onları ona geri getir. Onları şehrin alt katına sakladığından bahsettiğini hatırlıyorsun.[cite: 1]",
+    ["Progress"]="Şansın yaver gitti mi?",
+    ["Completion"]="Başardın! Lexlort bu planlara sahip olduğunda, bana yapmak istediği o kötü şeylerin hepsini unutacak.\n\nYOUR_NAME, sen benim kahramanımsın!",
+    ["minlevel"]="55",
+    ["questlevel"]="59",
+    }, -- end Bijou's Belongings
+
+    -- Bijou's Reconnaissance Report
+    -- Lexlort -> Lexlort (MobNpcData.lua)[cite: 1]
+    -- Kargath -> Kargath (ZoneData.lua)[cite: 2]
+    ["4983"] = {
+    ["Title"]="Bijou'nun Keşif Raporu",
+    ["Description"]="Bu raporu Lexlort'a geri götür. İyi adımı temize çıkaracak ve bu orklarla başa çıkmada K.K.G.'ye kesinlikle stratejik bir avantaj sağlayacaktır.\n\nSeninle geleyim mi? Yapacak çok fazla işim var. Git hadi, bu raporlara bir an önce ihtiyaçları var!",
+    ["Objectives"]="Bijou'nun Keşif Raporu'nu Kargath'taki Başüstad Lexlort'a götür.[cite: 1, 2]",
+    ["Progress"]="Goblin nerede???",
+    ["Completion"]="Hakkını teslim etmeliyim; başka bir yapışkan durumdan sıyrılmayı başardı! Bu raporlar Karakaya orklarıyla olan ilişkilerimizde paha biçilmez olduğunu kanıtlayacak.\n\nElbette zorlu çalışman için ödüllendirileceksin.",
+    ["minlevel"]="55",
+    ["questlevel"]="59",
+    }, -- end Bijou's Reconnaissance Report
+
+    -- The Wildlife Suffers Too
+    -- Mulgris Deepriver -> Mulgris Derinnehir (MobNpcData.lua)[cite: 1]
+    -- Writhing Haunt -> Kıvranan Mülk
+    -- Western Plaguelands -> Batı Veba Toprakları (ZoneData.lua)[cite: 2]
+    ["4984"] = {
+    ["Title"]="Yaban Hayatı Da Acı Çekiyor",
+    ["Description"]="Afet'i boşa çıkarmak için tek başıma yapabileceğim pek bir şey olmasa da, doğaya verilen hasarı iyileştirmeye çalışmak için yine de bu topraklara geldim. Hayvanlar bu toprakları boğmaya devam eden vebadan acı çekiyor, merhamet ve huzur bulamıyorlar. Burada bitiremediğim şeyi devam ettirmeni istiyorum.\n\nAcı çeken hayvanlar için tatlı ve merhametli bir özgürleşmeden başka bir kurtuluş yoktur. Yakındaki hastalıklı kurtları ara ve onları yere ser. Lütfen YOUR_NAME, onların sefaletine son ver - bunu yapmak kesinlikle benimkini de yatıştıracaktır.",
+    ["Objectives"]="8 Hastalıklı Kurt yok et, ardından Batı Veba Toprakları'ndaki Kıvranan Mülk'te bulunan Mulgris Derinnehir'e dön.[cite: 1, 2]",
+    ["Progress"]="Vebaya yakalanmış kurtlar yere serilmeli, YOUR_NAME. Taşıdıkları hastalık tedavi edilemez. Denedim... Ben kendim vebaya yenik düşene kadar denedim.",
+    ["Completion"]="Yere serdiğin o kurtların ruhlarının artık dinlendiğini... Hissediyorum. Onlar - ve ben - merhametli bir özgürleşme için sana teşekkür ederiz.\n\nBu lanetli yerde acı çekenler sadece kurtlar değil, YOUR_NAME. Lütfen, sana bir kez daha ihtiyacım var.",
+    ["minlevel"]="51",
+    ["questlevel"]="54",
+    }, -- end The Wildlife Suffers Too
+
+    -- The Wildlife Suffers Too
+    -- Mulgris Deepriver -> Mulgris Derinnehir (MobNpcData.lua)[cite: 1]
+    -- Eastern Plaguelands -> Doğu Veba Toprakları (ZoneData.lua)[cite: 2]
+    -- Writhing Haunt -> Kıvranan Mülk
+    -- Western Plaguelands -> Batı Veba Toprakları (ZoneData.lua)[cite: 2]
+    ["4985"] = {
+    ["Title"]="Yaban Hayatı Da Acı Çekiyor",
+    ["Description"]="Bulunduğumuz yerin doğusunda, Doğu Veba Toprakları'nın başladığı yerin yakınında bir zamanlar gururlu ve görkemli bozayılar kırsalda dolaşırdı. Afet tarafından salınan veba bu canavarları da parçaladı. Kaslarının sertleşmesi, kürklerinin ve etlerinin çürümesiyle azap çekerek kırsalda dolaşıyorlar.\n\nOnların sefaletine de son vermeni istiyorum. Acılarının tek çaresi hızlı bir ölümdür, senin elinden verilmesi gereken bir ölüm.",
+    ["Objectives"]="8 Hastalıklı Bozayı yok et, ardından Batı Veba Toprakları'ndaki Kıvranan Mülk'te bulunan Mulgris Derinnehir'e dön.[cite: 1, 2]",
+    ["Progress"]="Ayak seslerini duyuyorum, YOUR_NAME. Görüşüm benden uzaklaştı ama yine de etrafımdaki şeyleri hissedebiliyorum. Hastalıklı bozayıların sefaletine son verdin mi?",
+    ["Completion"]=\"Bozayıların yere serildiğini, eziyetlerinin sona erdiğini biliyorum. Ben... Senin için bir şeyim daha var. Bu diyardaki zamanımın sona erdiğini hissederek bunu... Bu dala yazdım.\n\nGerçekten de... O sonddayım. Tekrar teşekkür ederim dostum... Bu lanetli yerin yaratıkları dinlenebilir... Ve ben de şimdi dinleneceğim.\"\n\nBununla birlikte druid tarafından ağır bir iç çekiş çıkarılır ve ardından bir ölüm hırıltısına benzeyen bir ses duyulur. Cesedi kulübenin zemininde hareketsiz yatıyor.",
+    ["minlevel"]="51",
+    ["questlevel"]="56",
+    }, -- end The Wildlife Suffers Too
+
+    -- Glyphed Oaken Branch
+    -- Teldrassil -> Teldrassil (ZoneData.lua)[cite: 2]
+    -- Darnassus -> Darnassus (ZoneData.lua)[cite: 2]
+    -- Cenarion Circle -> Cenarion Çemberi
+    ["4986"] = {
+    ["Title"]="Oymalı Meşe Dalı",
+    ["Description"]="Tauren druidin cansız eli şaşırtıcı derecede sağlıklı görünen bir meşe dalını kavrıyor. Dalı incelemek kabuğuna kazınmış druid doğasına sahip oymaları ortaya çıkarıyor.\n\nDalı kavradığında, olması gerekenden daha fazla, dokunuşunun sıcak olduğunu fark ediyorsun. Teldrassil ağacının görüntüsü zihnine giriyor - özellikle Darnassus - ve \"Cenarion Çemberi\" kelimeleri dilinin ucunda. Dalın nereye götürüleceği önerisinin içine yerleştirildiği görülüyor.",
+    ["Objectives"]="Oymalı Meşe Dalı içinde büyülenmiş büyülere dayanarak, Darnassus'taki Cenarion Çemberi'ne teslim edilmesi tauren druidin aradığı bir sonraki adımdır. Yardım için oradaki druidlerden birini ara.[cite: 2]",
+    ["Progress"]="Cenarion Çemberi adına bu bölgeye hoş geldin diyorum, YOUR_CLASS. Bizimle ne işin var?",
+    ["Completion"]="Bu... Bu oldukça garip. Bu druid - bir tauren druid eksik kalmıştı - Afet'in vebasının boyutu hakkında sana çok miktarda değerli bilgi emanet etti. Bir tauren'in bir YOUR_RACE'e böyle bir bilgi vereceğine şaşırdım, hem de söylediklerin doğruysa karşılıksız olarak. Bunu iyi değerlendireceğiz, sana söz veriyorum. Belki de taurenler Fandral'ın inanacağı kadar Cenarius'tan uzaklaşmamışlardır...\n\nErm, her neyse lütfen - bunu Cenarion Çemberi'nden bir teşekkür nişanesi olarak kabul et.",
+    ["minlevel"]="51",
+    ["questlevel"]="56",
+    }, -- end Glyphed Oaken Branch
+
+    -- Glyphed Oaken Branch
+    -- Thunder Bluff -> Gürültü Uçurumu (ZoneData.lua)[cite: 2]
+    -- Mulgore -> Mulgore (ZoneData.lua)[cite: 2]
+    -- Cenarion Circle -> Cenarion Çemberi
+    ["4987"] = {
+    ["Title"]="Oymalı Meşe Dalı",
+    ["Description"]="Tauren druidin cansız eli şaşırtıcı derecede sağlıklı görünen bir meşe dalını kavrıyor. Dalı incelemek kabuğuna kazınmış druid doğasına sahip oymaları ortaya çıkarıyor.\n\nDalı kavradığında, olması gerekenden daha fazla, dokunuşunun sıcak olduğunu fark ediyorsun. Mulgore'daki Gürültü Uçurumu görüntüsü zihnine giriyor - özellikle Yaşlı Tepe - ve \"Cenarion Çemberi\" kelimeleri dilinin ucunda. Dalın nereye götürüleceği önerisinin içine yerleştirildiği görülüyor.",
+    ["Objectives"]="Oymalı Meşe Dalı içinde büyülenmiş büyülere dayanarak, Gürültü Uçurumu'ndaki Cenarion Çemberi'ne teslim edilmesi tauren druidin aradığı bir sonraki adımdır. Yardım için oradaki druidlerden birini ara.[cite: 2]",
+    ["Progress"]="Cenarion Çemberi adına bu bölgeye hoş geldin diyorum, YOUR_CLASS. Bizimle ne işin var?",
+    ["Completion"]="Bu Mulgris'ten mi dedin? Veba Toprakları'nda acı çeken yaratıklarla ilgilenmek istediğini duymuştuk ama bu son derece beklenmedik... Ve son derece üzücü. Mulgris iyi bir... Dosttu. Onun gidişinin yasını derin bir şekilde tutacağım.\n\nÇabaları çalışkanlığın sayesinde boşa gitmedi. Bu dalda Afet'in toprağa yaydığı veba hakkında pek çok bilgi saklanıyor. Onu özenle inceleyeceğiz. Sana gelince, lütfen bunu kabul et. Yüce çabaların için yapabileceğimiz en az şey bu.",
+    ["minlevel"]="51",
+    ["questlevel"]="56",
+    }, -- end Glyphed Oaken Branch
+
+    -- Bijou's Belongings
+    -- Bijou -> Bijou (MobNpcData.lua)[cite: 1]
+    ["5001"] = {
+    ["Title"]="Bijou'nun Eşyaları",
+    ["Description"]="Normalde YOUR_RACE ile muhatap olmam ama görünüşe göre bir troll ile sert bir yer arasında sıkışıp kaldım. Anlarsın ya, buradaki görevim Horde için son derece önemli bir görev. Ancak keşfettiğim bilgiler İttifak'ın esenliği için de geçerli. Şimdi inan bana, İttifak sempatizanı değilim ama Karakaya tehdidi sadece bir grup orktan daha büyük.\n\nEşyalarımı bularak bana yardım et, ben de senin türüne yararlı olabilecek bazı bilgilerle sana yardım edeyim.\n\nAnlaştık mı?",
+    ["Objectives"]="Bijou'nun Eşyaları'nı bul ve onları ona geri getir. Bol şans![cite: 1]",
+    ["Progress"]="Şansın yaver gitti mi?",
+    ["Completion"]="Vay canına! Neredeydiler??",
+    ["minlevel"]="55",
+    ["questlevel"]="59",
+    }, -- end Bijou's Belongings
+
+    -- Message to Maxwell
+    -- Nefarian -> Nefarian (MobNpcData.lua)[cite: 1]
+    -- Deathwing -> Ölümkanat (MobNpcData.lua)[cite: 1]
+    -- Marshal Maxwell -> Mareşal Maxwell (MobNpcData.lua)[cite: 1]
+    -- Burning Steppes -> Yanardağ Bozkırları (ZoneData.lua)[cite: 2]
+    ["5021"] = {
+    ["Title"]="Maxwell'e Mesaj",
+    ["Description"]="Sözünün eri bir goblinim ben, YOUR_RACE. Şimdi beni iyi dinle:\n\nBu orklar esas olarak siyah ejderhasoyu için yük hayvanları ve gülle yemi olarak kullanılıyor!\n\nGerçek liderleri Ölümkanat'ın soyu olan Nefarian'dan başkası değil. Ayrıca hisarın bu kısmında Nefarian'ın altlarındakilerin yerini de keşfettim.\n\nBu haritayı Yanardağ Bozkırları'ndaki Mareşal Maxwell'e götür. Kolay tespit edilebilmeleri için bu iblislerin yerleri işaretlendi.",
+    ["Objectives"]="Yanardağ Bozkırları'na seyahat et ve Bijou'nun Bilgileri'ni Mareşal Maxwell'e ver.[cite: 1, 2]",
+    ["Progress"]="Ah, YOUR_NAME. Uzun zaman oldu.",
+    ["Completion"]="Bu zaten bildiklerimizin çoğuyla örtüşüyor. Ne olursa olsun, ilginç ve oldukça talihsiz bir bilgi.\n\nBu haritadaki işaretler Karakaya belasını azaltmada değerli olacak.",
+    ["minlevel"]="55",
+    ["questlevel"]="59",
+    }, -- end Message to Maxwell
+
+    -- Better Late Than Never
+    -- Janice Felstone -> Janice Felstone (MobNpcData.lua)[cite: 1]
+    ["5021"] = {
+    ["Title"]="Geç Olsun Temiz Olsun",
+    ["Description"]=\"Paket teslim edilmeli... Buraya hapsolmadan önce teslim edilmeli!\"\n\nPanik içindeki bir kadının çığlıkları sanki evin içinde süzülen bir fısıltı gibi hissettiriyor. Üst kattaki köşede sinmiş bir kadın hayaleti duruyor. Çevresinin tamamen farkında görünmüyor ve senden sadece belirsiz bir şekilde haberdar.\n\n\"Paketimi teslim etmek için mi buradasın? Lütfen, daha da kötüleşmeden önce! Buradan sürüp gidecektim. Hâlâ atımın yanında olmalı... Yoksa çok mu geç kaldım?\"",
+    ["Objectives"]="Hayalet kadının saçmalamaları bir paketin teslim edilmesi gerektiğini gösteriyordu. Atının olduğu yerde olduğunu iddia etti. Atın nerede olduğuna veya paketin nereye teslim edileceğine gelince - hayalet anlaşılmaz kalmaya devam ediyor.",
+    ["Progress"]="",
+    ["Completion"]="Ahırda aksi takdirde gözden kaçırabileceğin bir paket artık çürüme ve harabe arasında öne çıkıyor. Belki de Janice Felstone'un hayaletinin feryat ettiği paket budur...",
+    ["minlevel"]="50",
+    ["questlevel"]="52",
+    }, -- end Better Late Than Never
+
+    -- Better Late Than Never
+    -- Emma Felstone -> Emma Felstone (MobNpcData.lua)[cite: 1]
+    -- Stormwind -> Fırtınaşehri (ZoneData.lua)[cite: 2]
+    -- Stormwind City Hall -> Fırtınaşehri Belediye Binası
+    ["5022"] = {
+    ["Title"]="Geç Olsun Temiz Olsun",
+    ["Description"]="Üzerinde birikmiş küçük bir toz ve kir tabakasını silerek paketi alıyorsun. Aceleci bir elle Fırtınaşehri'nden Emma Felstone adına adreslenmiş; paketin teslimat tarihi dört yıldan fazla bir süre öncesine ait.\n\nEmma Felstone'un hayatta olup olmadığı belirsiz olsa da, Fırtınaşehri Belediye Binası'nın şehir halkı hakkında kayıt tuttuğu yaygın olarak bilinmektedir. Bu, Fırtınaşehri Nüfus Sayımı'nın Kraliyet Görevlileri aracılığıyla yürütülür.",
+    ["Objectives"]="Emma Felstone'un nerede olduğunu öğrenmek için Fırtınaşehri Kraliyet Görevlileri ile iletişime geç. Belediye Binası'nda genellikle bir nüfus sayım görevlisi bulunur.[cite: 1, 2]",
+    ["Progress"]="Fırtınaşehri nüfus sayım bürosuna hoş geldin. Halkımız hakkında bilgiye ihtiyacın varsa sana yardımcı olabilirim.",
+    ["Completion"]="Emma Felstone adına bir paket mi dedin? Bilinen son adresi Fırtınaşehri, dört yıl önce mi? Şey, buraya bakayım...\n\nBildiğimize göre yaklaşık dört yıl önce şehirde bir Emma Felstone vardı. Şey, muhtemelen demeliyim - bahsettiğim bu nüfus sayımı beş yıl öncesine ait ve şehri boşalttığına dair bir raporum yok. Ancak bu hâlâ burada olduğu anlamına gelmez.\n\nBir saniye bekle... Bu paket İhtiyar Emma için olmasın?",
+    ["minlevel"]="50",
+    ["questlevel"]="52",
+    }, -- end Better Late Than Never
+
+    -- Better Late Than Never
+    -- Jeremiah Felstone -> Jeremiah Felstone (MobNpcData.lua)[cite: 1]
+    -- Jeremiah Payson -> Jeremiah Payson (MobNpcData.lua)[cite: 1]
+    -- Lordaeron -> Lordaeron (ZoneData.lua)[cite: 2]
+    -- Undercity -> Mahzenşehir (ZoneData.lua)[cite: 2]
+    ["5023"] = {
+    ["Title"]="Geç Olsun Temiz Olsun",
+    ["Description"]="Üzerinde birikmiş küçük bir toz ve kir tabakasını silerek paketi alıyorsun. Aceleci bir elle Lordaeron'dan Jeremiah Felstone adına adreslenmiş; paketin teslimat tarihi dört yıldan fazla bir süre öncesine ait.\n\nJeremiah Felstone'un hayatta olup olmadığı belirsiz olsa da, eskiden Lordaeron olarak bilinen Mahzenşehir'in şehir halkı hakkında kayıt tuttuğu yaygın olarak bilinmektedir. Bu, Mahzenşehir Nüfus Sayımı'nın Kraliyet Gözetmenleri aracılığıyla yürütülür.",
+    ["Objectives"]="Jeremiah Felstone'un nerede olduğunu öğrenmek için Mahzenşehir Kraliyet Gözetmenleri ile iletişime geç. Lonca ve tabard kaydının yakınında genellikle bir nüfus sayım görevlisi bulunur.[cite: 1, 2]",
+    ["Progress"]="Mahzenşehir nüfus sayımının yardımını almak için mi buradasın, yoksa sadece tanıdığın birinin ölü olup olmadığını sormak için mi? Bana bu çok sorulur.",
+    ["Completion"]="Jeremiah Felstone adına, bilinen son adresi Lordaeron olan bir paket... Sana yardımcı olabilmeliyim.\n\nJeremiah Felstone vebadan önce şehirdeydi. Şey, eski Jeremiah Felstone demeliyim - Terkedilmişlerin bazıları eski çehrelerinden kurtulmak için soyadlarını değiştirdi. Bu durum da bir istisna değil; eski Jeremiah Felstone artık Jeremiah Payson olarak biliniyor.\n\nBir dakika bekle... Hamam böceği satıcısı olan o değil mi?",
+    ["minlevel"]="50",
+    ["questlevel"]="52",
+    }, -- end Better Late Than Never
+
+    -- Finkle Einhorn, At Your Service!
+    -- Malyfous Darkhammer -> Malyfous Karabalyoz (MobNpcData.lua)[cite: 1]
+    -- Finkle -> Finkle (MobNpcData.lua)[cite: 1]
+    -- Everlook -> Zamansız Bakış (ZoneData.lua)[cite: 2]
+    -- Winterspring -> Kışbeşiği (ZoneData.lua)[cite: 2]
+    ["5047"] = {
+    ["Title"]="Finkle Einhorn, Hizmetinizde!",
+    ["Description"]="Zamansız Bakış'ta Malyfous Karabalyoz'u bulacaksın, YOUR_CLASS. Ona 'Finkle gayet iyi' de ve elbisenin mükemmel çalıştığını söyle.\n\nSonra ona bunu uzat:\n\n<Finkle sana parlayan bir et parçası uzatır.>\n\nOnu 'tatilim' sırasında canavarın iç organlarından kaptım.\n\nMalyfous'un bunun gibi bir canavarın parçalarıyla ne yapabileceği konusunda sana oldukça doğru bir değerlendirme yapabileceğine bahse girerim!\n\nOh, Zamansız Bakış'ın nerede olduğunu bilmiyorsun, değil mi? Kışbeşiği'ne git, güzel delikanlı/kız!",
+    ["Objectives"]="Zamansız Bakış'taki Malyfous Karabalyoz ile konuş.[cite: 1, 2]",
+    ["Progress"]="Evet?",
+    ["Completion"]="Hayatta mı? Elbise çalıştı mı? Ve burada neyimiz var?",
+    ["minlevel"]="57",
+    ["questlevel"]="60",
+    }, -- end Finkle Einhorn, At Your Service!
+
+    -- Good Luck Charm
+    -- Janice Felstone -> Janice Felstone (MobNpcData.lua)[cite: 1]
+    -- Felstone -> Felstone
+    ["5050"] = {
+    ["Title"]="Uğur Tılsımı",
+    ["Description"]="Senin hakkında yanılmışım gibi görünüyor YOUR_NAME ve bunun için sana bir özür borçluyum. Kız kardeşim bana komik bir şekilde Felstone çiftliğinin tapusu da dahil olmak üzere bir dizi kişisel eşya gönderdi. Şu anda onu geri talep etmeyi es geçeceğim sanırım.\n\nKız kardeşimin ruhu çiftliğe bağlı kalır ve dinlenemezse, lütfen... Bunu ona geri verebilir misin? Sahip olduğu bir uğur tılsımının yarısıdır, diğer yarısı kocasındadır.\n\nBelki bunlara sahip olduğumu bilmesi ruhunu huzura kavuşturacaktır.",
+    ["Objectives"]="Batı Veba Toprakları'ndaki Janice Felstone'a Uğur Tılsımı Yarısı'nı geri götür.[cite: 1]",
+    ["Progress"]="John, tatlım... Sen misin? Aniden çok üşüdüm...",
+    ["Completion"]="Tılsım yarısını hayalete geri veriyorsun. Ona bakar, sonra beklentiyle sana bakar.\n\n\"Tatlım, tılsımının kendi yarısını nereye koydun? İki yarıya da sahip olmadıkça birlikte olamayız. Tatlım... Beni görebiliyor musun?\"",
+    ["minlevel"]="50",
+    ["questlevel"]="52",
+    }, -- end Good Luck Charm
+
+    -- Two Halves Become One
+    -- John -> John (MobNpcData.lua)[cite: 1]
+    -- Janice Felstone -> Janice Felstone (MobNpcData.lua)[cite: 1]
+    -- Felstone Farm -> Felstone Çiftliği
+    -- Western Plaguelands -> Batı Veba Toprakları (ZoneData.lua)[cite: 2]
+    ["5051"] = {
+    ["Title"]="İki Yarı Bir Oluyor",
+    ["Description"]="Zavallı hayaletin saçmalamaları devam ediyor:\n\n\"Çok üşüdüm John. Bana tılsımını getir, birlikte olalım! Çabuk John, veba bizi iğrenç canavarlara dönüştürmek için gelmeden önce! Seni göremiyorum John... Ama yakınlarda olduğunu biliyorum. Seni yakınımda hissediyorum.\"\n\nBelki de tılsımın ikinci yarısı bulunup yeniden birleştirilirse, bu Janice Felstone'un ruhunun aradığı şeyi oluşturacaktır.",
+    ["Objectives"]="Batı Veba Toprakları'ndaki Felstone Çiftliği'nde bir yerlerde Uğur Tılsımı'nın diğer yarısını bul ve yeniden birleştir.\n\nBatı Veba Toprakları'ndaki Felstone Çiftliği'nde bulunan Janice Felstone'a Uğur Tılsımı'nı ver.[cite: 1, 2]",
+    ["Progress"]="John, hortlakların seni almasına izin verme... Hortlakların beni almasına izin verme... İğrenç hortlaklar... Tılsımımız bizi güvende tutacak.",
+    ["Completion"]="Yeniden birleştirilen uğur tılsımını Janice Felstone'un hayaletine uzatıyorsun. Onu kavrar kavramaz onda neredeyse anında bir değişiklik gözlemliyorsun. Ruhanî formu parıldıyor ve sana net ama üzgün gözlerle bakıyor.\n\n\"Beni özgür bıraktın... Artık bu tılsıma ihtiyacım olmayacak. Lütfen onu al, belki sana bana verdiği teselliyi verir.\"",
+    ["minlevel"]="50",
+    ["questlevel"]="54",
+    }, -- end Two Halves Become One
+
+    -- Mrs. Dalson's Diary
+    -- Harold -> Harold (MobNpcData.lua)[cite: 1]
+    ["5058"] = {
+    ["Title"]="Bayan Dalson'ın Günlüğü",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="",
+    ["Completion"]="Sararmış sayfaları olan bir günlük son girdiye açık duruyor:\n\n\"Harold dönüştükten sonra ne olacağını bilmiyorum. Onu kilit altında tutacak tek yere sürüklemek tüm gücümü aldı. Anahtarı üzerime sakladım ve işe yaraması için dua ediyorum...\n\nBuradan çıkabileceğimi umuyorum ama bunu yapmak için paraya ihtiyacım var. Eşyalarımızın hepsi dolapta sanırım... Ve şimdi düşündükçe, Harold anahtarı üzerinde tutmuyor mu?\n\nÜzerinde dinleneceğim, şimdi ölesiye yorgunum.\"",
+    ["minlevel"]="52",
+    ["questlevel"]="55",
+    }, -- end Mrs. Dalson's Diary
+
+    -- Locked Away
+    -- Mrs. Dalson -> Bayan Dalson (MobNpcData.lua)[cite: 1]
+    -- Farmer Dalson -> Çiftçi Dalson (MobNpcData.lua)[cite: 1]
+    ["5059"] = {
+    ["Title"]="Kilitli Kaldı",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Dışkılığın kapısı, çerçevenin kenarlarından tekrar tekrar ve aralıksız olarak açılmaya çalışılmış gibi kıymıklanmaya başladı. Şu anda dışkılığın dışından sıkıca kilitlenmiş durumda.\n\nKapıyı takırdatırken içeriden gırtlaktan gelen bir inleme duyuyorsun! İçeride her ne varsa kesinlikle dostça duyulmuyor.",
+    ["Completion"]="Eski Bayan Dalson'ın iskeletinde bulunan anahtarı kullanarak dışkılığın kapısının kilidini açıyorsun. Kim bilir ne kadar süredir içeride sıkışıp kalmış kana susamış bir hortlak dışkılıktan dışarı fırlıyor.\n\nHortlağın varlığın karşısındaki kan dondurucu çığlığından eski Çiftçi Dalson'ın artık kurtarılamayacak durumda olduğu açıkça anlaşılıyor.",
+    ["minlevel"]="52",
+    ["questlevel"]="55",
+    }, -- end Locked Away
+
+    -- Locked Away
+    -- Farmer Dalson -> Çiftçi Dalson (MobNpcData.lua)[cite: 1]
+    ["5060"] = {
+    ["Title"]="Kilitli Kaldı",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Dahili bir kilit ile güvenli bir şekilde kapatılmış son derece sağlam bir dolap önünde duruyor. Dolabın ön tarafı derinlemesine çizilmiş ve işaretlenmiş. Bunun dolabın şu anda görüşten gizlediği sırları ortaya çıkarmak için yapılan sayısız ve şiddetli başarısız girişimlerden kaynaklandığı çıkarılabilir.\n\nBu dolabı açacaksan anahtarı bulman gerekecek.",
+    ["Completion"]="Çiftçi Dalson'ın hortlak kalıntılarından alınan anahtar kilide mükemmel şekilde uyuyor. Dolabın kapıları açılıyor, sağlam kalmış ve oldukça değerli görünen birkaç eşyayı ortaya çıkarıyor.",
+    ["minlevel"]="52",
+    ["questlevel"]="55",
+    }, -- end Locked Away
+
+    -- Cap of the Scarlet Savant
+    -- Malyfous Darkhammer -> Malyfous Karabalyoz (MobNpcData.lua)[cite: 1]
+    ["5063"] = {
+    ["Title"]="Kızıl Bilgin Başlığı",
+    ["Description"]="Bundan daha güzel bir başlık göremeyebilirsin. Canavarın el değmemiş postundan uzman zanaatkarlarımız bir illüzyonistin takmayı umabileceği en harika şapkayı yaratacak!\n\nListelenen eşyalarla birlikte otuz altın sikke ve başın Kızıl Bilgin Başlığı ile taçlandırılacak:\n\n*Canavarın el değmemiş postu.\n\n*Yıpranmış ucube dikişleri.\n\n*Gizemli kristaller.\n\n*Büyülü kızıl iplik.\n\nİŞTE!",
+    ["Objectives"]="Kızıl Bilgin Başlığı'nı yaratmak için şu eşyaları Malyfous Karabalyoz'a geri getirmen gerekecek: 1 Canavarın El Değmemiş Postu; 5 Yıpranmış Ucube Dikişi; 8 Gizemli Kristal; 5 Büyülü Kızıl İplik.\n\nAyrıca eşyanın üretimi için 50 altın sikke ödemen gerekecek.[cite: 1]",
+    ["Progress"]="İhtiyacım olan her şeye sahip değilsen zamanımı boşa harcıyorsun demektir.",
+    ["Completion"]="Şaşırtıcı! Bu bileşenleri toplamak haftalar sürmüş olmalı... Ve el değmemiş bir postu nasıl buldun?!?\n\nŞapkanın tadını çıkar, YOUR_NAME!",
+    ["minlevel"]="57",
+    ["questlevel"]="60",
+    }, -- end Cap of the Scarlet Savant
+
+    -- The Lost Tablets of Mosh'aru
+    -- Prospector Ironboot -> Madenci Demirçizme (MobNpcData.lua)[cite: 1]
+    -- Hakkar -> Hakkar (MobNpcData.lua)[cite: 1]
+    -- Mosh'aru -> Mosh'aru
+    -- Eastern Plaguelands -> Doğu Veba Toprakları (ZoneData.lua)[cite: 2]
+    -- Tanaris -> Tanaris (ZoneData.lua)[cite: 2]
+    ["5065"] = {
+    ["Title"]="Mosh'aru'nun Kayıp Tabletleri",
+    ["Description"]="Konuştuğun troll doğruyu söylemedi. Onun için elde ettiğin iki tablet Hakkar'ın özünü içerdiğinden bahsetti ama o efsanede daha fazlası var. Uzun süre inceledim ve iki değil altı Mosh'aru Tableti olduğunu buldum! Altı!\n\nVe korkarım diğerlerinin sakladığı sırları sevmeyeceğiz..\n\nMosh'aru'nun üçüncü ve dördüncü tabletlerini bul. Doğu Veba Toprakları'ndalar, yosunsoyan trolllerinin elindeler. Onları bul ve bana getir.",
+    ["Objectives"]="Üçüncü ve Dördüncü Mosh'aru Tabletlerini Tanaris'teki Madenci Demirçizme'ye getir.[cite: 1, 2]",
+    ["Progress"]="Tabletler yanında mı? Metinlerinin dünyamıza karşı büyük bir tehdidi ortaya çıkaracağından korkuyorum.",
+    ["Completion"]="Onları buldun! Harika!\n\nTeşekkür ederim, YOUR_NAME. Bu metinleri inceleyip anlamlarını çözeceğim.\n\nAncak senin başka bir görevin var...",
+    ["minlevel"]="40",
+    ["questlevel"]="58",
+    }, -- end The Lost Tablets of Mosh'aru
+
+    -- Leggings of Arcana
+    -- Malyfous Darkhammer -> Malyfous Karabalyoz (MobNpcData.lua)[cite: 1]
+    -- Frostwhisper -> Frostwhisper (MobNpcData.lua)[cite: 1]
+    ["5067"] = {
+    ["Title"]="Gizemli Güç Taytları",
+    ["Description"]="Böyle bir eşyanın üretimi hiçbir zaman başarıyla gerçekleştirilememiş olsa da, doğru şartlar altında mümkün olduğu düşünülmektedir.\n\nGizemli güç arayıcısı taytları muazzam bir güçle aşılamak isterse, şunları bulmalıdır:\n\n* Canavarın el değmemiş postu.\n\n* Yıpranmış ucube dikişleri.\n\n* Arkanit Külçeleri.\n\n* Frostwhisper'ın tahnit sıvısı.\n\nİŞTE!",
+    ["Objectives"]="Gizemli Güç Taytları'nı yaratmak için şu eşyaları Malyfous Karabalyoz'a geri getirmen gerekecek: 1 Canavarın El Değmemiş Postu; 5 Yıpranmış Ucube Dikişi; 5 Arkanit Külçesi; 5 Frostwhisper'ın Tahnit Sıvısı.\n\nAyrıca eşyanın üretimi için 50 altın sikke ödemen gerekecek.[cite: 1]",
+    ["Progress"]="İhtiyacım olan her şeye sahip değilsen zamanımı boşa harcıyorsun demektir.",
+    ["Completion"]="Ölümlüler tarafından tamamlandığını gördüğüm az sayıda imkansız görevden biri. El işçiliğimin ihtşamıyla yıkan! Ödüllerini topla!",
+    ["minlevel"]="57",
+    ["questlevel"]="60",
+    }, -- end Leggings of Arcana
+
+    -- Breastplate of Bloodthirst
+    -- Garona -> Garona (MobNpcData.lua)[cite: 1]
+    -- Malyfous Darkhammer -> Malyfous Karabalyoz (MobNpcData.lua)[cite: 1]
+    ["5068"] = {
+    ["Title"]="Kan Arzusu Göğüslüğü",
+    ["Description"]="Şimdiye kadar sadece bir Kan Arzusu Göğüslüğü yaratıldığı ve efsanevi suikastçı Garona için yapıldığı söylenir. Bu dünyanın bir başkasını görüp görmeyeceği şüphelidir.\n\nNe olursa olsun! Usta zanaatkarlarımız gerekli bileşenler sağlandığında eşyayı yeniden üretebilir:\n\n*Canavarın el değmemiş postu.\n\n*Yıpranmış ucube dikişleri.\n\n*Arkanit külçeleri.\n\n*Gölge derisi.\n\nİŞTE!",
+    ["Objectives"]="Kan Arzusu Göğüslüğü'nü yaratmak için şu eşyaları Malyfous Karabalyoz'a geri getirmen gerekecek: 1 Canavarın El Değmemiş Postu; 10 Yıpranmış Ucube Dikişi; 5 Arkanit Külçesi; 5 Gölge Derisi.\n\nAyrıca eşyanın üretimi için 50 altın sikke ödemen gerekecek.[cite: 1]",
+    ["Progress"]="İhtiyacım olan her şeye sahip değilsen zamanımı boşa harcıyorsun demektir.",
+    ["Completion"]="Bugünü görmeden önce ölüp gömüleceğimi düşünmüştüm.\n\nBu büyüklükteki bir başarı ancak ödülle gölgelenebilir.",
+    ["minlevel"]="57",
+    ["questlevel"]="60",
+    }, -- end Breastplate of Bloodthirst
+
+    -- Maxwell's Mission
+    -- Voone -> Voone (MobNpcData.lua)[cite: 1]
+    -- Omokk -> Omokk (MobNpcData.lua)[cite: 1]
+    -- Wyrmthalak -> Wyrmthalak (MobNpcData.lua)[cite: 1]
+    -- Marshal Maxwell -> Mareşal Maxwell (MobNpcData.lua)[cite: 1]
+    -- Blackrock Spire -> Karakaya Zirvesi (ZoneData.lua)[cite: 2]
+    -- Blackrock -> Karakaya (ZoneData.lua)[cite: 2]
+    ["5081"] = {
+    ["Title"]="Maxwell'in Görevi",
+    ["Description"]="Bu bilgi Karakaya Zirvesi hakkındaki kusursuz istihbaratımızdaki boşlukları dolduruyor.\n\nSaldırı kararlı olmalı, YOUR_NAME.\n\nÖnce savaş üstatları, troll Voone yok edilmeli. Savaş planları olmadan Karakaya orkları kaosa sürüklenecektir.\n\nArdından ogre Yüksek Derebeyi Omokk'u ortadan kaldırmalısın. Karakaya'nın korkak ogreleri onun liderliği olmadan çaresizdir.\n\nSon olarak hisarın derebeyi: Wyrmthalak. Wyrmthalak öldüğünde, merkezi komuta birimleri bir kanaldan yoksun kalacaktır.",
+    ["Objectives"]="Karakaya Zirvesi'ne seyahat et ve Savaş Üstadı Voone, Yüksek Derebeyi Omokk ve Derebeyi Wyrmthalak'ı yok et. İş bittiğinde Mareşal Maxwell'e dön.[cite: 1, 2]",
+    ["Progress"]="Durum?",
+    ["Completion"]="Mükemmel iş, YOUR_NAME. En azından bize daha fazla zaman kazandırdın - değerli, çok değerli bir zaman.",
+    ["minlevel"]="55",
+    ["questlevel"]="60",
+    }, -- end Maxwell's Mission
+
+    -- Threat of the Winterfall
+    -- Donova Snowden -> Donova Snowden (MobNpcData.lua)[cite: 1]
+    -- Winterspring -> Kışbeşiği (ZoneData.lua)[cite: 2]
+    -- Frostfire -> Buzateşi
+    -- Winterfall -> Kışdüşüşü
+    ["5082"] = {
+    ["Title"]="Kışdüşüşü Tehdidi",
+    ["Description"]="Buzateşi Kaplıcaları'nı incelemek için Kışbeşiği'ne geldim. Suyun... Garip özelliklere sahip olduğunu fark ettim. Kaynağı henüz keşfedemedim ve sana gerçeği söylemek gerekirse, Kışdüşüşü furbolgları yüzünden son zamanlarda bazı zorluklar yaşadım.\n\nTıpkı benim gibi onlar da kaplıcalara çekiliyor gibi görünüyor. Su konusunda son derece korumacı hale geldiler ve buranın kuzeyindeki iki büyük kaplıcanın yakınına gelmeme izin vermiyorlar.\n\nÇalışmalarıma devam etmek istiyorum, bana yardım etmez misin?",
+    ["Objectives"]="Kışbeşiği'ndeki Donova Snowden 8 Kışdüşüşü İzci, 8 Kışdüşüşü İn Nöbetçisi ve 8 Kışdüşüşü Totemcisi öldürmeni istiyor.[cite: 1, 2]",
+    ["Progress"]="Yardımın için minnettarım!",
+    ["Completion"]="Çok teşekkürler, YOUR_NAME! Artık burada tekrar işime dönebilirim.\n\nKışdüşüşü ordugahında ilgi çekici bir şey buldun mu?",
+    ["minlevel"]="52",
+    ["questlevel"]="56",
+    }, -- end Threat of the Winterfall
+
+    -- Winterfall Firewater
+    -- Donova Snowden -> Donova Snowden (MobNpcData.lua)[cite: 1]
+    -- Winterfall -> Kışdüşüşü
+    -- Winterspring -> Kışbeşiği (ZoneData.lua)[cite: 2]
+    ["5083"] = {
+    ["Title"]="Kışdüşüşü Ateşsuyu",
+    ["Description"]="Kışdüşüşü furbolgundan aldığın bu şişe boş ama içinde garip yeşil bir sıvının birkaç damlasını tespit edebiliyorsun; neredeyse parlıyor.\n\nÖnemli bir şey mi?\n\nDonova Snowden sana daha fazla şey söyleyebilir, çünkü bir süredir Kışbeşiği'ndeki kaplıcaların yanında kamp kurmuş durumda.",
+    ["Objectives"]="Boş Ateşsuyu Matarası'nı Kışbeşiği'ndeki Donova Snowden'a getir.[cite: 1, 2]",
+    ["Progress"]="Bulduğun şey nedir?",
+    ["Completion"]="Bunu Kışdüşüşü'nden mi aldın?",
+    ["minlevel"]="52",
+    ["questlevel"]="56",
+    }, -- end Winterfall Firewater
+
+    -- Falling to Corruption
+    -- Donova -> Donova (MobNpcData.lua)[cite: 1]
+    -- Felwood -> Felwood (ZoneData.lua)[cite: 2]
+    -- Timbermaw -> Keresteçene
+    -- Timbermaw Hold -> Keresteçene Hisarı
+    -- Winterfall -> Kışdüşüşü
+    -- Deadwood -> Ölüodun
+    ["5084"] = {
+    ["Title"]="Yozlaşmaya Yenik Düşüş",
+    ["Description"]="Bu yeşilimsi sıvı... Bana Felwood boyunca seyahat ederken gördüğüm çamuru biraz hatırlatıyor. Ve Keresteçene'den geçen bazı Kışdüşüşü Habercileri gördüm... Belki de bu şeylerin bulduğun matarayla bir ilgisi vardır, YOUR_NAME.\n\nKeresteçene Hisarı'nın hemen ötesinde, Felwood'da büyük bir furbolg grubu var. Ölüodun kabilesi olarak adlandırılan bu kabile iblis tarafından yozlaştırıldı ve çıldırtıldı. Neden oraya bakıp Kışdüşüşü ile Ölüodun arasındaki ilişkilere dair bir kanıt bulabilecek misin bir bakmıyorsun?",
+    ["Objectives"]="Kuzey Felwood'daki Ölüodun furbolg ordugahında bir ipucu ara.[cite: 2]",
+    ["Progress"]="",
+    ["Completion"]="Kazanın içinde çürüyen, iğrenç kokulu bir madde köpürüyor...",
+    ["minlevel"]="52",
+    ["questlevel"]="56",
+    }, -- end Falling to Corruption
+
+    -- Mystery Goo
+    -- Donova -> Donova (MobNpcData.lua)[cite: 1]
+    -- Winterfall -> Kışdüşüşü
+    -- Deadwood -> Ölüodun
+    ["5085"] = {
+    ["Title"]="Gizemli Yapışkan Madde",
+    ["Description"]="Kazanın içindeki yeşilimsi madde matarada bulduğun şeye benziyor. Bu garip yapışkan şey onu yaratan furbolg kadar yozlaşmış olabilir...\n\nKışdüşüşü furbolgları bunu kullanıyorsa, bu yakında Ölüodun kabilesi kadar yozlaşacakları anlamına mı geliyor?\n\nBulgularını kazandaki sıvının bir örneğiyle birlikte Donova'ya rapor etmek en iyisi olacaktır.",
+    ["Objectives"]="Bulgularını Donova Snowden'a rapor et.[cite: 1]",
+    ["Progress"]="Umarım bir şey bulmuşsundur, YOUR_NAME. Kışdüşüşü giderek daha saldırgan hale geliyor!",
+    ["Completion"]="Çok beceriklisin, YOUR_NAME. Kışdüşüşü furbolglarının Ölüodun ordugahında bulunduğunu düşünüyor musun?",
+    ["minlevel"]="52",
+    ["questlevel"]="56",
+    }, -- end Mystery Goo
+
+    -- Toxic Horrors
+    -- Donova Snowden -> Donova Snowden (MobNpcData.lua)[cite: 1]
+    -- Donova -> Donova (MobNpcData.lua)[cite: 1]
+    -- Deadwood -> Ölüodun
+    -- Felwood -> Felwood (ZoneData.lua)[cite: 2]
+    -- Irontree Woods -> Demirağaç Ormanları (ZoneData.lua)[cite: 2]
+    -- Winterspring -> Kışbeşiği (ZoneData.lua)[cite: 2]
+    ["5086"] = {
+    ["Title"]="Zehirli Dehşetler",
+    ["Description"]="Döndüğün örneği inceledim ve kesin olarak söyleyemesem de zehirli unsurlar izleri içerdiğine inanıyorum. Ancak kesin olarak bilmenin tek yolu bir karşılaştırma olarak biraz toplamak.\n\nÖlüodun furbolglarının bu unsurları Felwood'daki diğer yozlaşmış yaratıklardan topluyor olabileceğine inanıyorum; özellikle Demirağaç Ormanları'nda yaşayan ve zehirli dehşetler olarak adlandırılan elementallerden.\n\nKarşılaştırmam için bana birkaç örnek topla ama dikkatli ol -- orası çok tehlikeli!",
+    ["Objectives"]="Kışbeşiği'ndeki Donova Snowden için 3 Zehirli Dehşet Damlası topla.[cite: 1, 2]",
+    ["Progress"]="Burada ne olduğunu ortaya çıkarmaya başladığımızı düşünüyorum, YOUR_NAME.",
+    ["Completion"]="Bunu kazanda bulduğun maddeyle karşılaştırmam gerekiyor, sonra daha fazlasını bileceğimizden eminim.",
+    ["minlevel"]="52",
+    ["questlevel"]="56",
+    }, -- end Toxic Horrors
+
+    -- Winterfall Runners
+    -- Donova -> Donova (MobNpcData.lua)[cite: 1]
+    -- Winterfall -> Kışdüşüşü
+    -- Deadwood -> Ölüodun
+    -- Winterfall Village -> Kışdüşüşü Köyü
+    ["5087"] = {
+    ["Title"]="Kışdüşüşü Habercileri",
+    ["Description"]="Çok ilginç, YOUR_NAME...\n\nBu zehirli madde kaplıcalardan gelen su ile karıştırıldığında zehirliliğini kaybeder, sadece onu sindirenleri geçici olarak etkileme yeteneğini korur. Kışdüşüşü'nün kaplıcaları bu kadar coşkuyla korumasının nedeni bu olmalı -- ateşsularını arındırmak için onlara ihtiyaçları var.\n\nBunu durdurmalıyız -- Kışdüşüşü ile Ölüodun arasındaki teması kesmeliyiz. Bir grup haberci köyleri ile Felwood arasındaki mesafeyi yürüyor. Onları bul, yen ve sevkiyatlarını çal.",
+    ["Objectives"]="Kışdüşüşü Habercilerini bul ve sevkiyatlarını Kışdüşüşü Köyü'ne teslim etmelerini engelle.",
+    ["Progress"]="Kışdüşüşü ateşsularını alamadığında ne olacağını göreceğiz!",
+    ["Completion"]="<Donova sandığın içindekileri inceler.>\n\nBu maddeyi tüketmenin furbolgları daha saldırgan yapıp yapmadığını merak ediyorum. Gerçekten çok daha büyük görünüyorlar...",
+    ["minlevel"]="52",
+    ["questlevel"]="57",
+    }, -- end Winterfall Runners
+
+    -- General Drakkisath's Command
+    -- General Drakkisath -> General Drakkisath (MobNpcData.lua)[cite: 1]
+    -- Marshal Maxwell -> Mareşal Maxwell (MobNpcData.lua)[cite: 1]
+    -- Burning Steppes -> Yanardağ Bozkırları (ZoneData.lua)[cite: 2]
+    ["5089"] = {
+    ["Title"]="General Drakkisath'ın Emri",
+    ["Description"]="Yenilen yılanın cesedinden önemli gibi görünen bir not ortaya çıkarıyorsun: Üstü General Drakkisath'tan protokol hakkında bir mektup.\n\nİçgüdün sana onu Mareşal Maxwell'e götürmen gerektiğini söylüyor.",
+    ["Objectives"]="General Drakkisath'ın Emri'ni Yanardağ Bozkırları'ndaki Mareşal Maxwell'e götür.[cite: 1, 2]",
+    ["Progress"]="Elinde ne var, YOUR_NAME?",
+    ["Completion"]="Olaylar karmaşıklaşıyor...",
+    ["minlevel"]="55",
+    ["questlevel"]="60",
+    }, -- end General Drakkisath's Command
+
+    -- Clear the Way
+    -- Commander Ashlam Valorfist -> Komutan Ashlam Yiğityumruk (MobNpcData.lua)[cite: 1]
+    -- Andorhal -> Andorhal (ZoneData.lua)[cite: 2]
+    -- Sorrow Hill -> Keder Tepesi
+    -- Chillwind Camp -> Serinrüzgar Karakolu (ZoneData.lua)[cite: 2]
+    -- Western Plaguelands -> Batı Veba Toprakları (ZoneData.lua)[cite: 2]
+    -- Stormwind -> Fırtınaşehri (ZoneData.lua)[cite: 2]
+    ["5092"] = {
+    ["Title"]="Yolu Temizle",
+    ["Description"]="Andorhal'ın şehre giden batı ve kuzey yolları iyi güçlendirilmiş olduğundan, ona daha az savunulan doğu yolundan saldırmayı hedefliyorum. Afet, ilk savunma hattı olarak Keder Tepesi'ni istila eden zombi tamponuna güveniyor. Andorhal'a ilerleyeceksek, bunu Keder Tepesi üzerinden yapmamız gerekecek.\n\nİlk görevin Keder Tepesi üzerinden giden yolu temizlemek olacak. Bölgede dolaşan iskeletleri ve hortlakları azalt; bu bittiğinde bana rapor ver!",
+    ["Objectives"]="Keder Tepesi'nde 10 İskelet Yüzücü ve 10 Salya Akıtan Hortlak öldür.\n\nBatı Veba Toprakları'ndaki Serinrüzgar Karakolu'nda bulunan Komutan Ashlam Yiğityumruk'a dön.[cite: 1, 2]",
+    ["Progress"]="En kötüsüne hazırlanmanı istiyorum, YOUR_NAME - derinlere in. Önümüzdeki görev kolay olmayacak. Kuvvetlerimizi nihayetinde Afet'e karşı saldırmak üzere burada toplarken, savaşı onlara taşıyan ön çabamızın bir parçası olacaksın! Keder Tepesi'ndeki atanan görevin zafere giden yolumuzu başlatacak!",
+    ["Completion"]="Görev tamamlandı, YOUR_NAME! Güzel hamle, güzel hamle.\n\nŞimdiye kadarki çalışmanı Fırtınaşehri kasalarından çıkan bazı sikkelerle ödüllendirmeme izin ver. Onu bir sonraki görevinde sana yardımcı olacak teçhizatlara harcamanı öneririm... Seni Andorhal harabelerinin içine götürecek bir görev.\n\nHazır ol! Uyanık ol!",
+    ["minlevel"]="50",
+    ["questlevel"]="52",
+    }, -- end Clear the Way
+
+    -- A Call to Arms: The Plaguelands!
+    -- High Executor Derrington -> Yüksek Cellat Derrington (MobNpcData.lua)[cite: 1]
+    -- Bulwark -> Siper
+    -- Eastern Kingdoms -> Doğu Krallıkları (ZoneData.lua)[cite: 2]
+    -- Undercity -> Mahzenşehir (ZoneData.lua)[cite: 2]
+    -- Plaguelands -> Veba Toprakları (ZoneData.lua)[cite: 2]
+    -- Tirisfal Glade -> Tirisfal Korusu (ZoneData.lua)[cite: 2]
+    ["5093"] = {
+    ["Title"]="Silah Başına: Veba Toprakları!",
+    ["Description"]="Diyarın kahramanları, beni dinleyin - Horde sizi hızlı eylem için çağırıyor!\n\nTüm eli silah tutan bireylerin Afet'e karşı silahlanması için bir silah başına çağrısı yapıldı! Doğu Krallıkları'nın harabelerinden yükselen yeni tehditlerin söylentileri dolaşıyor. Mahzenşehir'in doğusunda, artık Veba Toprakları olarak bilinen toprakların kuzey uzantılarında beliriyorlar!\n\nDiyarın kahramanları - Tirisfal Korusu'nun doğusundaki Siper'de ana ordugahını kurmuş olan Yüksek Cellat Derrington'ı arayın!",
+    ["Objectives"]="Yüksek Cellat Derrington'ı ara. Ana ordugahı Tirisfal Korusu'nun ve Mahzenşehir'in doğusundaki Siper'de yer almaktadır.[cite: 1, 2]",
+    ["Progress"]="",
+    ["Completion"]="Veba Toprakları'na hoş geldin, kahraman. Burası Azeroth'un en tehlikeli sınırlarından biridir; doğumuzda beliren Afet tehdidi ve oradan daha da doğuya uzanan tehditlerle. Görev çağrısının ve Horde'a hizmetin sende karşılıksız kalmadığını duymak beni mutlu etti!\n\nEllerini kirletmeye hazırsan, Veba Toprakları'nın sınırında istekli ve yetenekli kahramanlar için yapılacak çok şey var.",
+    ["minlevel"]="50",
+    ["questlevel"]="50",
+    }, -- end A Call to Arms: The Plaguelands!
+
+    -- A Call to Arms: The Plaguelands!
+    -- High Executor Derrington -> Yüksek Cellat Derrington (MobNpcData.lua)[cite: 1]
+    -- Bulwark -> Siper
+    -- Eastern Kingdoms -> Doğu Krallıkları (ZoneData.lua)[cite: 2]
+    -- Undercity -> Mahzenşehir (ZoneData.lua)[cite: 2]
+    -- Plaguelands -> Veba Toprakları (ZoneData.lua)[cite: 2]
+    -- Tirisfal Glade -> Tirisfal Korusu (ZoneData.lua)[cite: 2]
+    ["5094"] = {
+    ["Title"]="Silah Başına: Veba Toprakları!",
+    ["Description"]="Diyarın kahramanları, beni dinleyin - Horde sizi hızlı eylem için çağırıyor!\n\nTüm eli silah tutan bireylerin Afet'e karşı silahlanması için bir silah başına çağrısı yapıldı! Doğu Krallıkları'nın harabelerinden yükselen yeni tehditlerin söylentileri dolaşıyor. Mahzenşehir'in doğusunda, artık Veba Toprakları olarak bilinen toprakların kuzey uzantılarında beliriyorlar!\n\nDiyarın kahramanları - Tirisfal Korusu'nun doğusundaki Siper'de ana ordugahını kurmuş olan Yüksek Cellat Derrington'ı arayın!",
+    ["Objectives"]="Yüksek Cellat Derrington'ı ara. Ana ordugahı Tirisfal Korusu'nun ve Mahzenşehir'in doğusundaki Siper'de yer almaktadır.[cite: 1, 2]",
+    ["Progress"]="",
+    ["Completion"]="Veba Toprakları'na hoş geldin, kahraman. Burası Azeroth'un en tehlikeli sınırlarından biridir; doğumuzda beliren Afet tehdidi ve oradan daha da doğuya uzanan tehditlerle. Görev çağrısının ve Horde'a hizmetin sende karşılıksız kalmadığını duymak beni mutlu etti!\n\nEllerini kirletmeye hazırsan, Veba Toprakları'nın sınırında istekli ve yetenekli kahramanlar için yapılacak çok şey var.",
+    ["minlevel"]="50",
+    ["questlevel"]="50",
+    }, -- end A Call to Arms: The Plaguelands!
+
+    -- A Call to Arms: The Plaguelands!
+    -- High Executor Derrington -> Yüksek Cellat Derrington (MobNpcData.lua)[cite: 1]
+    -- Bulwark -> Siper
+    -- Eastern Kingdoms -> Doğu Krallıkları (ZoneData.lua)[cite: 2]
+    -- Undercity -> Mahzenşehir (ZoneData.lua)[cite: 2]
+    -- Plaguelands -> Veba Toprakları (ZoneData.lua)[cite: 2]
+    -- Tirisfal Glades -> Tirisfal Korusus (ZoneData.lua)[cite: 2]
+    ["5095"] = {
+    ["Title"]="Silah Başına: Veba Toprakları!",
+    ["Description"]="Diyarın kahramanları, beni dinleyin - Horde sizi hızlı eylem için çağırıyor!\n\nTüm eli silah tutan bireylerin Afet'e karşı silahlanması için bir silah başına çağrısı yapıldı! Doğu Krallıkları'nın harabelerinden yükselen yeni tehditlerin söylentileri dolaşıyor. Mahzenşehir'in doğusunda, artık Veba Toprakları olarak bilinen toprakların kuzey uzantılarında beliriyorlar!\n\nDiyarın kahramanları - Tirisfal Korusus'un doğusundaki Siper'de ana ordugahını kurmuş olan Yüksek Cellat Derrington'ı arayın!",
+    ["Objectives"]="Yüksek Cellat Derrington'ı ara. Ana ordugahı Tirisfal Korusus'un ve Mahzenşehir'in doğusundaki Siper'de yer almaktadır.[cite: 1, 2]",
+    ["Progress"]="",
+    ["Completion"]="Veba Toprakları'na hoş geldin, kahraman. Burası Azeroth'un en tehlikeli sınırlarından biridir; doğumuzda beliren Afet tehdidi ve oradan daha da doğuya uzanan tehditlerle. Görev çağrısının ve Horde'a hizmetin sende karşılıksız kalmadığını duymak beni mutlu etti!\n\nEllerini kirletmeye hazırsan, Veba Toprakları'nın sınırında istekli ve yetenekli kahramanlar için yapılacak çok şey var.",
+    ["minlevel"]="50",
+    ["questlevel"]="50",
+    }, -- end A Call to Arms: The Plaguelands!
+
+    -- Scarlet Diversions
+    -- High Executor Derrington -> Yüksek Cellat Derrington (MobNpcData.lua)[cite: 1]
+    -- Hearthglen -> Hearthglen (ZoneData.lua)[cite: 2]
+    -- Felstone Field -> Felstone Tarlası
+    -- Dalson's Tears -> Dalson'ın Gözyaşları
+    -- Bulwark -> Siper
+    -- Western Plaguelands -> Batı Veba Toprakları (ZoneData.lua)[cite: 2]
+    -- Andorhal -> Andorhal (ZoneData.lua)[cite: 2]
+    ["5096"] = {
+    ["Title"]="Kızıl Saşırtmacalar",
+    ["Description"]="Andorhal'dan önce Hearthglen'den ilerleyen Kızıl Haçlı Seferi tehdidini ele almalıyız. Felstone Tarlası ile Dalson'ın Gözyaşları arasında kamp kurdular, bu da hem Afet hem de Haçlı Seferi ile aynı anda çatışmayı göze almamıza neden oluyor.\n\nPlanım, seni kurdukları komuta çadırını yok etmeye göndererek onları birbirine düşürmek; bu yangın çıkarıcı kutusundan biraz Şişedeki Alev kullan. Bir kez yerle bir edildikten sonra, bu Afet sancağını çadırın yanına dik. Biraz şansla bizi görmezden gelecekler ve intikam için Afet'e odaklanacaklar.",
+    ["Objectives"]="Felstone Tarlası ile Dalson'ın Gözyaşları arasındaki Kızıl Haçlı Seferi ana ordugahına git ve komuta çadırlarını yok et.\n\nAfet sancağını ordugaha yerleştir, ardından Batı Veba Toprakları'ndaki Siper'de bulunan Yüksek Cellat Derrington'a dön.[cite: 1, 2]",
+    ["Progress"]="",
+    ["Completion"]="Güzelce icra edildi, YOUR_NAME. Kızıl Haçlı Seferi'ne yapılan saldırın bize zaman kazandıracak. En iyi izcilerimden birini ordugahı izlemesi ve pozisyonu takviye etmeye gelen Haçlı Seferi kuvvetlerinin yemi alacağından emin olması için gönderdim.\n\nÜzerimizdeki baskı azaldığına göre, artık Andorhal'ın kendisine bir görevi ve önemli bir görevi göze alabilmeliyiz. Bugüne kadarki başarına dayanarak bunu da gerçekleştirirsen çok sevinirim.",
+    ["minlevel"]="50",
+    ["questlevel"]="53",
+    }, -- end Scarlet Diversions
+
+    -- All Along the Watchtowers
+    -- Commander Ashlam Valorfist -> Komutan Ashlam Yiğityumruk (MobNpcData.lua)[cite: 1]
+    -- Andorhal -> Andorhal (ZoneData.lua)[cite: 2]
+    -- Chillwind Camp -> Serinrüzgar Karakolu (ZoneData.lua)[cite: 2]
+    -- Western Plaguelands -> Batı Veba Toprakları (ZoneData.lua)[cite: 2]
+    ["5097"] = {
+    ["Title"]="Tüm Gözetleme Kuleleri Boyunca",
+    ["Description"]="İşaretçi meşalesi olarak bilinen sihirli bir cihazın kullanımıyla, birliklerimizin gelecekteki eylemleri için seçtiğimiz hedefleri işaretleyebiliriz. Bu doğrultuda, Afet'in Andorhal'ın gözetleme kulelerini birlik hareketlerini kontrol etme aracı olarak kullandığını düşünüyoruz.\n\nGörevin: Dört gözetleme kulesinin hepsine işaretçiler dikmek için Andorhal'ın savunmalarını yar. İşaretçiyi dikmek için her kulenin kapı eşiğinde olman gerekecek; ardından kuleyi işaretlemeye devam edecek. İşaretçi meşalesinde sadece beş yük var, bu yüzden onları akıllıca kullan!",
+    ["Objectives"]="İşaretçi Meşalesi'ni kullanarak Andorhal'daki her kuleyi işaretle; başarıyla işaretlemek için kulenin kapı eşiğinde durman gerekecektir.\n\nDört kule de işaretlendiğinde İşaretçi Meşalesi'ni Batı Veba Toprakları'ndaki Serinrüzgar Karakolu'nda bulunan Komutan Ashlam Yiğityumruk'a geri getir.[cite: 1, 2]",
+    ["Progress"]="Kuleler işaretlendiğinde Andorhal'a yapacağımız saldırı için en öncelikli hedefler haline gelecekler. Kuleleri etkisiz hale getirdiğimizde Andorhal'ın ana tehdidinin ortaya çıkacağından şüpheleniyorum. O noktadan sonra şehrin kontrolü için doğrudan bir dövüşümüz olacak!\n\nBaşarıyı rapor etmek için döndün, değil mi? İşaretçi meşalesini de unutma; teçhizatlarımızın kontrolünü elimizde tutmalıyız.",
+    ["Completion"]="Rahiplerim işaretçi izleyicilerimizin dört kulede de son derece güçlü sinyaller aldığını bildiriyor! Başka bir görevi daha eksiksiz ve tam bir başarıyla icra ettiğini söylemeye cüret edebilir miyim! Bir kez daha güzel hamle, YOUR_NAME!\n\nKulelerin işaretlenmesiyle saldırı hazırlıklarımız artık tamamlandı. Savaşı Afet'e taşıma zamanı geldi!",
+    ["minlevel"]="50",
+    ["questlevel"]="56",
+    }, -- end All Along the Watchtowers
+
+    -- All Along the Watchtowers
+    -- High Executor Derrington -> Yüksek Cellat Derrington (MobNpcData.lua)[cite: 1]
+    -- Andorhal -> Andorhal (ZoneData.lua)[cite: 2]
+    -- Bulwark -> Siper
+    -- Western Plaguelands -> Batı Veba Toprakları (ZoneData.lua)[cite: 2]
+    ["5098"] = {
+    ["Title"]="Tüm Gözetleme Kuleleri Boyunca",
+    ["Description"]="İşaretçi meşalesi olarak bilinen sihirli bir cihazın kullanımıyla, birliklerimizin gelecekteki eylemleri için seçtiğimiz hedefleri işaretleyebiliriz. Bu doğrultuda, Afet'in Andorhal'ın gözetleme kulelerini birlik hareketlerini kontrol etme aracı olarak kullandığını düşünüyoruz.\n\nGörevin: Dört gözetleme kulesinin hepsine işaretçiler dikmek için Andorhal'ın savunmalarını yar. İşaretçiyi dikmek için her kulenin kapı eşiğinde olman gerekecek; ardından kuleyi işaretlemeye devam edecek. İşaretçi meşalesinde sadece beş yük var, bu yüzden onları akıllıca kullan!",
+    ["Objectives"]="İşaretçi Meşalesi'ni kullanarak Andorhal'daki her kuleyi işaretle; başarıyla işaretlemek için kulenin kapı eşiğinde durman gerekecektir.\n\nDört kule de işaretlendiğinde İşaretçi Meşalesi'ni Batı Veba Toprakları'ndaki Siper'de bulunan Yüksek Cellat Derrington'a geri getir.[cite: 1, 2]",
+    ["Progress"]="Kuleler işaretlendiğinde Andorhal'a yapacağımız saldırı için en öncelikli hedefler haline gelecekler. Kuleleri etkisiz hale getirdiğimizde Andorhal'ın ana tehdidinin ortaya çıkacağından şüpheleniyorum. O noktadan sonra şehrin kontrolü için doğrudan bir dövüşümüz olacak!\n\nBaşarıyı rapor etmek için döndün, değil mi? İşaretçi meşalesini de unutma; teçhizatlarımızın kontrolünü elimizde tutmalıyız.",
+    ["Completion"]="Warlock'larım işaretçi izleyicilerimizin dört kulede de son derece güçlü sinyaller aldığını bildiriyor! Emirlerimi kıdemli bir gazinin becerisi ve hassasiyetiyle yerine getirdin. Horde'a hizmetin bir kez daha usulüne uygun olarak kaydedildi, YOUR_NAME!\n\nKulelerin işaretlenmesiyle saldırı hazırlıklarımız artık tamamlandı. Savaşı Afet'e taşıma zamanı geldi!",
+    ["minlevel"]="50",
+    ["questlevel"]="56",
+    }, -- end All Along the Watchtowers
+
+    -- General Drakkisath's Demise
+    -- General Drakkisath -> General Drakkisath (MobNpcData.lua)[cite: 1]
+    -- Marshal Maxwell -> Mareşal Maxwell (MobNpcData.lua)[cite: 1]
+    -- Stormwind -> Fırtınaşehri (ZoneData.lua)[cite: 2]
+    -- Burning Steppes -> Yanardağ Bozkırları (ZoneData.lua)[cite: 2]
+    -- Blackrock Spire -> Karakaya Zirvesi (ZoneData.lua)[cite: 2]
+    ["5102"] = {
+    ["Title"]="General Drakkisath'ın Ölümü",
+    ["Description"]="Bu canavarlarla iki cephede savaşıyoruz: Başkentimiz Fırtınaşehri'nden onlarla içeriden dışarıya doğru savaşıyoruz ve burada, Yanardağ Bozkırları'nda, savaşı kapılarına kadar götürüyoruz. Uyanık olmalıyız, YOUR_NAME. Evlerimize ve ailelerimize saldırdıklarında kendi ailelerimizden kimse bağışlanmadığı gibi, kimse gazabımızdan bağışlanmamalıdır.\n\nBu General Drakkisath'ı bul ve onu yok et!\n\nGörev kesinlikle basit bir görev olmayacak ama ödüller abartılı olacak.",
+    ["Objectives"]="Karakaya Zirvesi'ne seyahat et ve General Drakkisath'ı yok et. İş bittiğinde Mareşal Maxwell'e dön.[cite: 1, 2]",
+    ["Progress"]="Tamamlandı mı?",
+    ["Completion"]="Kesinlikle, bir sonraki hamlemiz onların ejderha lordlarına karşı olacak. Aferin, İttifak'ın cesur askeri! Gerçekten çok iyi iş.",
+    ["minlevel"]="55",
+    ["questlevel"]="60",
+    }, -- end General Drakkisath's Demise
+
+    -- Hot Fiery Death
+    ["5103"] = {
+    ["Title"]="Sıcak Alevli Ölüm",
+    ["Description"]="Bu insandan geriye kalan tek şey bazı kavrulmuş kemikler. Aradığı şeyin kollarının ulaşabileceği mesafede ölmüş gibi görünüyor - pişirilmemiş plaka eldivenler.\n\nBelki de eldivenleri kapıp ateşten çıksan iyi olur?",
+    ["Objectives"]="Bu dünyada biri bu eldivenlerle ne yapılacağını biliyor olmalı. Bol şans!",
+    ["Progress"]="",
+    ["Completion"]="Ne...",
+    ["minlevel"]="55",
+    ["questlevel"]="60",
+    }, -- end Hot Fiery Death
+
+    -- High Chief Winterfall
+    -- High Chief Winterfall -> Yüksek Şef Kışdüşüşü (MobNpcData.lua)[cite: 1]
+    -- Donova Snowden -> Donova Snowden (MobNpcData.lua)[cite: 1]
+    -- Winterspring -> Kışbeşiği (ZoneData.lua)[cite: 2]
+    -- Winterfall -> Kışdüşüşü
+    -- Winterfall Village -> Kışdüşüşü Köyü
+    ["5121"] = {
+    ["Title"]="Yüksek Şef Kışdüşüşü",
+    ["Description"]="Furbolgların neden bu garip maddeyi tükettiği hakkında hâlâ çok az şey bilsek de, kontrolden çıkmadan önce buna bir son vermemizin en iyisi olduğunu düşünüyorum.\n\nKışdüşüşü furbolgları normalde saldırgan bir kabile değildir ve davranışlarındaki bu değişiklik, şeflerinden emir alıyor olmaları gerektiğini düşünmeme neden oluyor. Büyük olasılıkla yapılmış olan hasarı geri alamayız ama liderleri katledilirse daha da kötüye gitmeyeceklerini düşünüyorum.\n\nDoğuya, Kışdüşüşü Köyü'ne git.",
+    ["Objectives"]="Kışbeşiği'ndeki Donova Snowden Yüksek Şef Kışdüşüşü'nü yenmeni istiyor.[cite: 1, 2]",
+    ["Progress"]="Belki Kışdüşüşü Köyü'nde daha fazlasını öğrenirsin, YOUR_NAME.",
+    ["Completion"]="Çok teşekkürler, YOUR_NAME. Pusuya düşürülme endişesi duymadan çalışmalarıma geri dönmeyi umuyorum. Lütfen bunu ödül olarak kabul et.",
+    ["minlevel"]="52",
+    ["questlevel"]="59",
+    }, -- end High Chief Winterfall
+
+    -- The Medallion of Faith
+    -- Malor the Zealous -> Gayretli Malor (MobNpcData.lua)[cite: 1]
+    -- Baron Rivendare -> Baron Rivendare (MobNpcData.lua)[cite: 1]
+    -- Scarlet Brotherhood -> Kızıl Kardeşlik
+    -- Scarlet Bastion -> Kızıl Tabyası
+    -- Stratholme -> Stratholme (ZoneData.lua)[cite: 2]
+    ["5122"] = {
+    ["Title"]="Inanç Madalyonu",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Bu şapelin gücü bana kalbimdeki yozlaşmaya direnecek gücü veriyor. Buradan ayrılırsam bir ölüm şövalyesi olacağım. Ama bir madalyon var, inanç madalyonu, ayrılmak için ihtiyacım olan gücü bana verecek.\n\nLütfen, YOUR_NAME, madalyonu geri getir. Batı Stratholme'daki Kızıl Tabyası'nın derinliklerinde ikamet eden Kızıl Kardeşlik'in çıldırmış bir üyesi olan Gayretli Malor tarafından korunuyor.",
+    ["Completion"]="Madalyonu geri getirdin! Artık şapelden ayrılabileceğim ve görevimi yapabileceğim.\n\nO görev, beni ve pek çok erkek ve kız kardeşimi yozlaştırmaya yardım eden canavarı, Baron Rivendare'i öldürmektir!",
+    ["minlevel"]="55",
+    ["questlevel"]="60",
+    }, -- end The Medallion of Faith
+
+    -- The Final Piece
+    -- Donova -> Donova (MobNpcData.lua)[cite: 1]
+    -- Donova Snowden -> Donova Snowden (MobNpcData.lua)[cite: 1]
+    -- Winterspring -> Kışbeşiği (ZoneData.lua)[cite: 2]
+    ["5123"] = {
+    ["Title"]="Son Parça",
+    ["Description"]="Yüksek şefin üzerinde bulduğun seyir defteri kapsamlı görünüyor ancak sayfaların birkaçına baktıktan sonra metni okuyamadığını fark ediyorsun. İşaretler o kadar ilkel ve kötü biçimlendirilmiş ki kimsenin onları okuyabileceğinden emin değilsin.\n\nAma belki Donova sana ne yazdığını söyleyebilir...",
+    ["Objectives"]="Kabaca Yazılmış Seyir Defteri'ni Kışbeşiği'ndeki Donova Snowden'a getir.[cite: 1, 2]",
+    ["Progress"]="Şimdi, bu da nedir, YOUR_NAME?",
+    ["Completion"]="Bütün bunların ne anlama geldiğini merak ediyorum... Hiçbir şey çıkaramıyorum...",
+    ["minlevel"]="52",
+    ["questlevel"]="59",
+    }, -- end The Final Piece
+
+    -- Fiery Plate Gauntlets
+    -- Thaurissan -> Thaurissan (MobNpcData.lua)[cite: 1]
+    -- Malyfous Darkhammer -> Malyfous Karabalyoz (MobNpcData.lua)[cite: 1]
+    ["5124"] = {
+    ["Title"]="Alevli Plaka Eldivenler",
+    ["Description"]="Thaurissan'ın sakalı hakkına!\n\nOnları nerede buldun?\n\nDaha da önemlisi, onlardan ayrılmaya razı mısın? Doğal olarak böyle soylu bir jest için sana ödeme yaparım.\n\nSana ne diyeceğim, YOUR_NAME. Bana o pişirilmemiş eldivenleri verirsen, tamamen kendine ait bir set yapmayı sana öğreteceğim. Tek yapman gereken benim için parçaları toplamak, böylece tam tarifi daraltabilirim.\n\nAnlaştık mı??\n\nİşte ihtiyacım olanların listesi, eldivenleri sen tedarik ettiğin için büyülenmemiş toriyumu kendim karşılayacağım.",
+    ["Objectives"]="Malyfous Karabalyoz'a 6 Büyülü Torium Külçesi, 2 Ateş Özü ve 4 Yıldız Yakutu getir. Ayrıca Pişirilmemiş Plaka Eldivenlerini de teslim etmen gerekecek.[cite: 1]",
+    ["Progress"]="Zaman paradır, YOUR_NAME ve bende ikisinden de pek yok.",
+    ["Completion"]="Söz verdiğim gibi, YOUR_NAME, işte tarifin! Ayrıca tüm zorlu çalışman ve adanmışlığın için fazladan bir şey daha ekleyeceğim. Bunlarla ne yapacağım ki zaten???",
+    ["minlevel"]="55",
+    ["questlevel"]="60",
+    }, -- end Fiery Plate Gauntlets
+
+    -- Aurius' Reckoning
+    ["5125"] = {
+    ["Title"]="Aurius'un Hesaplaşması",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="",
+    ["Completion"]="YOUR_NAME, ölüyorum... Ama ruhum kurtuldu. Bunun için sana kelimelerin söyleyebileceğinden daha fazlasını borçluyum. Lütfen bunu al... Ve savaşmaya devam et, cesur YOUR_CLASS!",
+    ["minlevel"]="55",
+    ["questlevel"]="60",
+    }, -- end Aurius' Reckoning
+
+    -- Lorax's Tale
+    -- Lorax -> Lorax (MobNpcData.lua)[cite: 1]
+    ["5126"] = {
+    ["Title"]="Lorax'ın Hikayesi",
+    ["Description"]="Satir gezinip kendi kendine konuşuyor. Onu sorgulamak ister misin?",
+    ["Objectives"]="Lorax ile konuş. Söyleyeceklerini dinle.[cite: 1]",
+    ["Progress"]="...",
+    ["Completion"]="<Lorax güler.>",
+    ["minlevel"]="55",
+    ["questlevel"]="60",
+    }, -- end Lorax's Tale
+
+    -- The Demon Forge
+    -- Lorax -> Lorax (MobNpcData.lua)[cite: 1]
+    -- Goraluk Anvilcrack -> Goraluk Örsçatlağı (MobNpcData.lua)[cite: 1]
+    -- Blackrock Spire -> Karakaya Zirvesi (ZoneData.lua)[cite: 2]
+    -- Winterspring -> Kışbeşiği (ZoneData.lua)[cite: 2]
+    ["5127"] = {
+    ["Title"]="İblis Ocağı",
+    ["Description"]="Lorax anlaşmalar yapar, önemsiz ölümlülerden gelenleri kabul etmez.\n\nYine de seninle bir anlaşma yapacağım... Bu kargıyı al, güçlü İblis enerjileriyle aşılanmıştır. Goraluk Örsçatlağı'nı bulduğunda onu katlet ve bu kargıyı onun ölmekte olan kalbine sapla. Ruhunu takas etti, ruhunu alacağım. Kargıyı geri getir ve hırsızın çaldığı göğüslüğü geri getir, ben de sana öğreneceği şeyi öğreteyim.",
+    ["Objectives"]="Karakaya Zirvesi'ne seyahat et ve Goraluk Örsçatlağı'nı bul. Onu katlet ve ardından cesedi üzerinde Kan Leke Kapan Kargı'yı kullan. Ruhu emildikten sonra kargı Ruh Leke Kapan olacak.\n\nAyrıca Dövülmemiş Rün Kaplı Göğüslük'ü de bulmalısın.\n\nHem Ruh Leke Kapan Kargı'yı hem de Dövülmemiş Rün Kaplı Göğüslük'ü Kışbeşiği'ndeki Lorax'a geri getir.[cite: 1, 2]",
+    ["Progress"]="Ayartma...",
+    ["Completion"]="Ahtimizi bozmadın. Ruhu aldım. Ödülü vereceğim.",
+    ["minlevel"]="55",
+    ["questlevel"]="60",
+    }, -- end The Demon Forge
+
+    -- Words of the High Chief
+    -- Kelek Skykeeper -> Kelek Gökkoruyucusu (MobNpcData.lua)[cite: 1]
+    -- Kelek -> Kelek (MobNpcData.lua)[cite: 1]
+    -- Winterfall -> Kışdüşüşü
+    -- Emerald Circle -> Zümrüt Çember
+    -- Felwood -> Felwood (ZoneData.lua)[cite: 2]
+    ["5128"] = {
+    ["Title"]="Yüksek Şefin Sözleri",
+    ["Description"]="Kışdüşüşü benim için artık bir tehdit değil ama yine de furbolgları bu garip ateşsuyunu yaratmaya ve tüketmeye neyin ittiğini öğrenmek istiyorsan Kelek Gökkoruyucusu'nu araman gerektiğini düşünüyorum.\n\nO, Zümrüt Çember olarak bilinen bir grubun, Felwood'daki çalışmalarına adanmış, toprağı yozlaşmadan iyileştiren druidlerin parçasıdır.\n\nKelek'in Felwood'daki furbolglarla ilgili çok tecrübesi var ve sana seyir defteri hakkında daha fazla şey söyleyebilir.\n\nTekrar teşekkürler, YOUR_NAME.",
+    ["Objectives"]="Kabaca Yazılmış Seyir Defteri'ni güney Felwood'daki Kelek Gökkoruyucusu'na götür.[cite: 1, 2]",
+    ["Progress"]="Zümrüt Çember herkese dostça yaklaşır, YOUR_RACE. Senin için ne yapabilirim?",
+    ["Completion"]="Evet, bunu bir süre incelememe izin verirsen senin için çevirebilirim.\n\n<Kelek sayfaları çevirir.>\n\nBuna tamamen bakabildiğimde sana haber göndereceğim.\n\nBunu benimle paylaştığın için teşekkür ederim, YOUR_NAME. Kışdüşüşü furbolgu hakkında çok az şey biliniyor.",
+    ["minlevel"]="52",
+    ["questlevel"]="59",
+    }, -- end Words of the High Chief
+
+    -- Dragonscale Leatherworking
+    -- Peter Galen -> Peter Galen (MobNpcData.lua)[cite: 1]
+    -- Azshara -> Azshara (ZoneData.lua)[cite: 2]
+    ["5141"] = {
+    ["Title"]="Ejderha Pul İşlemeciliği",
+    ["Description"]="Ejderha pulu işlemeciliği kolay değildir ancak son derece tatmin edicidir. Sana bu güzel posta zırhı yapmayı öğreteceğim ancak sadece belirli koşulları kabul edersen.\n\nBu yolu seçerek element veya kabilesel deri işlemeciliğini asla öğrenmemeyi kabul edersin; zanaatın zirvesinde üçünden sadece biri için yer vardır. Dahası, akrep zırhını içeren en iyi çalışmalarından bazı örnekler isteyeceğim. Son olarak, ticaretin temelini edinme yeteneğinin kanıtına ihtiyacım olacak: Ejderhasoyunun pulları.",
+    ["Objectives"]="Azshara'daki Peter Galen'a 2 Sert Akrep Göğüslüğü, 2 Sert Akrep Eldiveni ve 10 Aşınmış Ejderha Pulu getir.\n\nBu görevi tamamlamak sana Ejderha Pulu İşlemeciliği sanatlarına erişim sağlayacaktır.\n\nBu görevin tamamlanması Elemental Deri İşlemeciliği ve Kabilesel Deri İşlemeciliği öğrenmeni engelleyecektir; bunu yapmadan önce takip etmek istediğin yolun bu olduğundan emin ol.[cite: 1, 2]",
+    ["Progress"]="Ejderha pulu tabakçısı olarak kalıcı bir karar vermeye hazırsan, seni öğrenci olarak almaya hazırım. Sadece istediğim şeyleri bana getir, eğitimine başlayalım.",
+    ["Completion"]="Hakkını teslim edeceğim - az önce yaptığın gibi kalıcı bir karar vermek güçlü bir irade gerektirir. Sene temin ederim ki, ejderha pulu tabakçılığı takip etmen için karlı ve tatmin edici bir yol olduğunu kanıtlayacaktır.\n\nGelecekte bu sanatta eğitilmek için benimle konuşman yeterlidir, henüz kendi üzerine üstlenmediğin her türlü bilgiyi kullanıma sunacağım.",
+    ["minlevel"]="40",
+    ["questlevel"]="55",
+    }, -- end Dragonscale Leatherworking
 
     --123456789
 
@@ -56358,395 +59127,9 @@ QuestTranslator_QuestData = {
 
 	
 
-	["4122"] = {    ["Title"]="Grark Lorkrub",    ["Description"]="I tracked him across the Searing Gorge, through the mountain, and into the Burning Steppes. That traitor was caught red-handed giving the Blackrock orcs vital information about our day to day operations. I'm speaking of Grark Lorkrub.$B$BHe now sits in the Burning Steppes, safely under their protection - or so he thinks.$B$BTake these shackles, $N. Find Grark, place the shackles on him and lead him through Blackrock Mountain. Do this and a tribute is yours.",    ["Objectives"]="Travel to the Burning Steppes and find Grark Lorkrub. You recall Lexlort mentioning that he was last seen in a massive Blackrock fortress.$B$BWhen you find Grark Lorkrub, use the Thorium Shackles to bind him and then lead him back through Blackrock Mountain to the Searing Gorge. Lexlort will have his men waiting on the other side to take Grark into custody.",    ["Progress"]="",    ["Completion"]="Can you not see the power we gain by joining the legion of Blackrock?",    ["minlevel"]="52",    ["questlevel"]="58"},
+	
 
-	["4123"] = {    ["Title"]="The Heart of the Mountain",    ["Description"]="For years I have sought a certain gem.  It is called the Heart of the Mountain and it's the size of your fist!  The Dark Iron dwarves have it locked in their vault and, try as I may, they won't let me purchase it.$B$BSo I must resort to force.$B$BFight your way to the Lower Vault of Blackrock Depths, breach its secret safe and gain the Heart.  To do that, you must defeat Watchman Doomgrip, and he won't appear until you've opened every relic coffer in the vault!$B$BGood luck.",    ["Objectives"]="Bring the Heart of the Mountain to Maxwort Uberglint in the Burning Steppes.",    ["Progress"]="Do you have the Heart of the Mountain?  To me, its value is without limit.",    ["Completion"]="You have the heart! Amazing! It is even more beautiful than I imagined!$B$BPlease, $N, take this as payment!",    ["minlevel"]="50",    ["questlevel"]="55"},
-
-	["4124"] = {    ["Title"]="The Missing Courier",    ["Description"]="An associate of mine, Ginro Hearthkindle, is looking for assistance concerning the location of a courier and the parcels he was carrying.  It has been a week or so since the courier went missing; our own searches have proved fruitless, and we're at an impasse.  Unfortunately, I have had to declare the courier as missing in action.$B$BIf you have the time and resources to spare, please speak with Ginro.  He should be here in the Stronghold - perhaps in his quarters.",    ["Objectives"]="Speak with Ginro Hearthkindle in Feathermoon Stronghold.",    ["Progress"]="",    ["Completion"]="Latro sent you to me, I presume.  While I think it is a lost cause at this point, I'll take whatever assistance you can offer.  I must admit... I'll be glad once I can put my mind to rest on this matter.  Every day I set out into the wilds of Feralas looking for signs of Raschal, and every night I have come back with nothing to show for my work save gnoll teeth and disappointment.",    ["minlevel"]="40",    ["questlevel"]="43"},
-
-	["4125"] = {    ["Title"]="The Missing Courier",    ["Description"]="It's been about a week since Raschal, the courier, set out for Thalanaar.  He knows Feralas well; he's been with us since General Feathermoon led the expeditionary forces here.  I know his plan was to take a row boat down the coast and try and traverse across southern Feralas to avoid the Horde camp.$B$BI couldn't find his boat, but maybe you can.  Maybe it is hidden, or maybe it was sunk.  Regardless, it might hold a clue as to where he is.  If you uncover something, please let me know.",    ["Objectives"]="Locate the courier's boat somewhere along the coast of Feralas.",    ["Progress"]="",    ["Completion"]="You have found what appears to be a wrecked row boat.  Through the slightly muddy water you see gaping holes riddling the port side; the boat is nearly shredded down to its simple wooden frame.  Whatever broke this boat most likely tried to snap it in two.  A small crest of the Feathermoon Stronghold is painted on the starboard side.$B$BIn the mud at the base of the boat, a glint of something metallic catches your eye...",    ["minlevel"]="40",    ["questlevel"]="43"},
-
-	["4126"] = {    ["Title"]="Hurley Blackbreath",    ["Description"]="The Dark Iron dwarves, led by the villain Hurley Blackbreath, stole one of the Thunderbrew's best recipes, Thunderbrew Lager.  The villains!  They don't deserve such a fine brew!$B$B$N, I have a tough task for you.  Go to the Blackrock Depths in the Burning Steppes, destroy any kegs of Thunderbrew Lager you find, and bring back our recipe for Thunderbrew Lager!$B$BPlease, get that recipe back, even if you have to turn Blackrock Depths upside down to do it!",    ["Objectives"]="Bring the Lost Thunderbrew Recipe to Ragnar Thunderbrew in Kharanos.",    ["Progress"]="Do you have the recipe, $N? I can't stand the idea of those Dark Iron dwarves drinking my family's drink!",    ["Completion"]="You found it! Well done! And I hope you gave those Dark Irons, and Hurley Blackbreath, a good thumping!$B$BThe Thunderbrews are at your service, $N. You are a hero of heroes!",    ["minlevel"]="50",    ["questlevel"]="55"},
-
-	["4127"] = {    ["Title"]="Boat Wreckage",    ["Description"]="Running your hand along the mud, your fingers graze the handle of a knife.  It looks well cared for, and it might be safe to assume that whoever was on the boat might have lost it.  Perhaps the large chunk of the missing boat might have something to do with the loss.$B$BYou grab the knife, remembering that Ginro Hearthkindle in the Feathermoon Stronghold instructed you to return to him with any found clues.  You get the feeling, however, that you are not quite alone in the water...",    ["Objectives"]="Return to Feathermoon Stronghold and show Ginro Hearthkindle the Discarded Knife you have found.",    ["Progress"]="Ah, welcome back $N.  I hope that you were able to uncover some clue as to Raschal's ultimate fate, as tragic as that may be.",    ["Completion"]="Interesting... I believe that this is Raschal's knife.  You say you found it at the bottom of the water, along with his boat?  Well, just the knife's discovery might not be enough to connect this to Raschal's disappearance; we do, however, have an unconventional option available to us to try and learn more.$B$BHave you ever heard of psychometry?",    ["minlevel"]="40",    ["questlevel"]="44"},
-
-	["4128"] = {    ["Title"]="Ragnar Thunderbrew",    ["Description"]="Ho, $n.  I heard that Ragnar Thunderbrew is steaming mad about someone stealing his ale.  He's looking for stalwart adventurers, and willing to pay plenty.$B$BTalk to Ragnar if you're interested.  He's at the Thunderbrew Distillery in Kharanos, in Dun Morogh.",    ["Objectives"]="Speak with Ragnar Thunderbrew.",    ["Progress"]="",    ["Completion"]="You're right I'm mad!  I've been robbed!  Robbed of one of our family recipes!  How dare they!  As if I didn't have enough cause to hate the Dark Iron dwarves!  Now, oh... now they're in for it!",    ["minlevel"]="50",    ["questlevel"]="55"},
-
-	["4129"] = {    ["Title"]="The Knife Revealed",    ["Description"]="The Stronghold's resident druid, Quintis Jonespyre, has some... unusual skills.  One of them involves psychometry - the ability to reveal an item's history by touch.  Don't ask me how he does it; I chalk it up to magic I do not and choose not to understand.  I do know, however, two things: one, I've seen it work and two, the bum owes me.$B$BTake the knife up to Quint in his little tree-house here, and tell him for me that his Kalimdor Hold 'Em debt will be paid if he works his mojo on that knife.",    ["Objectives"]="Take the Discarded Knife to Quintis Jonespyre in Feathermoon Stronghold.",    ["Progress"]="Ginro sent you, eh?$B$BMy psychometric readings are fairly draining on the psyche... but so are my losses at Kalimdor Hold 'Em.  They call me \"King of the Bad Beats\" here in the Stronghold.  Unlucky at cards... lucky at mastering the secrets of nature, I guess.$B$BAnyway, of course I'll do it.  This may be just the breakthrough we need to uncover Raschal's fate.  If you would hand me the knife, we can get started.",    ["Completion"]="Thank you, $N.$B$BWhile psychometry isn't an exact art by any stretch of the imagination, I've used it in times past to give insight into situations that others have chalked up to lost causes.  I think using it on the knife you've uncovered will give us a glimpse into what happened to Raschal.$B$BIt will only take a moment to do, but it isn't what I'd call a caster-friendly task.  Bear with me on this.",    ["minlevel"]="40",    ["questlevel"]="44"},
-
-	["4130"] = {    ["Title"]="Psychometric Reading",    ["Description"]="I'm a little wobbly still, sorry.  Anyway, I received some useful visions.$B$BRaschal takes two large leather backpacks from his boat and goes inland; he returns to the boat, however.  I see gnoll scalps... he ran into some gnolls - Woodpaw I think they're called.  He's very worried - almost terrified - about something.  So much so, that he is not paying attention to water elementals forming behind him.  The images... stop there.$B$BI need to rest, sorry $N.  Tell Gin what I've seen.  He needs to know.",    ["Objectives"]="Speak with Ginro Hearthkindle in Feathermoon Stronghold.",    ["Progress"]="",    ["Completion"]="Thanks for passing along Quint's visions to me, $N.  I'll try to remember to be a little easier on him the next time we play cards.$B$BRaschal can hold his own in a fight, and gnolls aren't anything that would get him worried - nay, terrified.  Still, maybe you and yours can act on this new information and make the breakthrough we desperately need.",    ["minlevel"]="40",    ["questlevel"]="44"},
-
-	["4131"] = {    ["Title"]="The Woodpaw Gnolls",    ["Description"]="Our \"friends\" the Woodpaw might have gotten Raschal in the end, but something tells me that's not what occurred.  Still, they're the best place to start looking.$B$BI wish I had clearer insight as to what to do, but all I have right now is 'Search the Woodpaw camps - go.'  I do know that gnolls will keep items they scavenge and fight over them; maybe they ran across the backpacks Quint mentioned.  I hadn't risked a head-on fight in past searches, but with Quint's vision on this I say rip into them.",    ["Objectives"]="Search the Woodpaw Gnoll camps of southern Feralas for evidence of the courier's belongings or the courier himself.",    ["Progress"]="",    ["Completion"]="Tacked up on a nearby tree are two large leather backpacks.  Each bears a small insignia of the Feathermoon Stronghold on the front of the pack...",    ["minlevel"]="40",    ["questlevel"]="44"},
-
-	["4132"] = {    ["Title"]="Operation: Death to Angerforge",    ["Description"]="You have done an exemplary job, $N. It is now time to send you on your last mission.$B$BGeneral Angerforge, the Dark Iron responsible for coordinating the attacks on the 109th division of the K.E.F. and the mass slaughter of our forces must be brought to justice.$B$BThis will undoubtedly be your most grueling mission, but should you succeed, you will be richly rewarded.",    ["Objectives"]="Travel to Blackrock Depths and slay General Angerforge! Return to Warlord Goretooth when the task is complete.",    ["Progress"]="Has the Butcher of Blackrock been disposed of?",    ["Completion"]="Finally! The villain been brought to justice! You are a remarkable individual, $N. Wear this medallion as a symbol of your stalwart dedication to the Horde and the K.E.F.",    ["minlevel"]="52",    ["questlevel"]="58"},
-
-	["4133"] = {    ["Title"]="Vivian Lagrave",    ["Description"]="Shadowmaster Vivian Lagrave is in need of your services.  She is in the Badlands, in the orcish outpost of Kargath, pursuing rumors of a certain brew made by the Dark Iron dwarves of Blackrock Depths.$B$BSpeak with Vivian.  She awaits you.",    ["Objectives"]="Speak with Shadowmaster Vivian Lagrave in Kargath.",    ["Progress"]="",    ["Completion"]="Thank you for coming, $N. This place is not without a stark charm, but is lacks the amenities of the Apothecarium.$B$BEnough with the pleasantries. To business, yes?",    ["minlevel"]="50",    ["questlevel"]="55"},
-
-	["4134"] = {    ["Title"]="Lost Thunderbrew Recipe",    ["Description"]="It is rumored that the Dark Iron Hurley Blackbreath has stolen a recipe for ale.  This ale, Thunderbrew Lager, is said to infuse its imbiber with great strength and courage.  We wish to study the drink.  Perhaps, we will find other applications for its virtues... applications more in line with Forsaken objectives.$B$BDelve into Blackrock Depths, find Hurley, take from him the recipe for Thunderbrew lager and bring it to me.$B$BAnd to find him, you may have to entice him by threatening his precious ale.",    ["Objectives"]="Bring the Lost Thunderbrew Recipe to Vivian Lagrave in Kargath.",    ["Progress"]="Do you have the recipe for the Thunderbrew Lager, $N?",    ["Completion"]="Very good. I will send this recipe to the Apothecarium to be studied, and in time we will unlock its secrets. One day, the dwarves of the Alliance may find the virtues of this drink used against them!$B$BI find that terribly amusing. Perhaps death has an affect on one's sense of humor... do you think?",    ["minlevel"]="50",    ["questlevel"]="55"},
-
-	["4135"] = {    ["Title"]="The Writhing Deep",    ["Description"]="Inside the backpacks are two items: the first is a parcel of goods that was bound for Thalanaar, and the second is a note hastily penned to an unknown reader.$B$BThe note tells of discovering insidious bug-like creatures south of the gnoll camps in a place called the Writhing Deep.  The author felt the need to investigate it personally, as though it was a serious threat to all of Feralas.  The note is signed, \"Raschal of Feathermoon\".$B$BIt would seem that you have located where Raschal ultimately went.",    ["Objectives"]="Now that Raschal's last known whereabouts have been discovered, continue your search for him or his remains in the Writhing Deep.  According to the note, it is located to the south of the Woodpaw gnoll camps.",    ["Progress"]="",    ["Completion"]="You have discovered a large pod of an alien nature.  The texture of the pod appears mucous, though hardened protrusions stick out from random parts of it.  The pod itself has the height and width to easily encompass a humanoid inside of it... and from the faint humanoid shape visible through the skin of the pod, you surmise that this is what it indeed encapsulates.",    ["minlevel"]="40",    ["questlevel"]="46"},
-
-	["4136"] = {    ["Title"]="Ribbly Screwspigot",    ["Description"]="My brother Ribbly has always been a drain to his family, taking our money and wasting it on one scheme after another.$B$BWell, his last scheme must have been his worst, because Baron Revilgaz of Booty Bay just put a price on poor Ribbly's head.  I can't tell you how happy this makes the Screwspigots!  Our little Ribbly's finally worth something!$B$BBut now he's hiding out, deep in Blackrock Depths.  Please, find him and bring him to me!$B$BOr, if he won't come, then that's ok... just bring me his head.",    ["Objectives"]="Bring Ribbly's Head to Yuka Screwspigot in the Burning Steppes.",    ["Progress"]="Do you have Ribbly?  Or, at least a part of him?",    ["Completion"]="Aha! You found him! And... it appears that my little brother didn't want to come quiety. It's a pity. I would have liked to see the look on his face when I told him our plans to turn him in to Revilgaz.$B$BThank you, $N. You've made my family very happy. And Ribbly's never looked as peaceful as he does now.",    ["minlevel"]="48",    ["questlevel"]="53"},
-
-	["4141"] = {    ["Title"]="Muigin and Larion",    ["Description"]="See Larion over there? It's HIS fault we're here!$B$BI told him we were going the wrong way, but would he listen? And would you believe that he's the one that won't speak to me? Well, until he changes his mind, let's have a bit of fun with him.$B$BHave you noticed the strange plant-like creatures around here? They're nothing but trouble, really, but I think if trained properly, I could get them to obey commands.$B$BFirst thing though, I'll need some samples to study. Do you think you could collect some?",    ["Objectives"]="Collect 15 Bloodpetals and return to Muigin.",    ["Progress"]="Larion's got something coming, that's for sure!",    ["Completion"]="I hope they didn't give you too much trouble, $N. I try to steer clear of them -- they're wild!$B$BI tried jumping over one... I was attacked! Plants just shouldn't be acting that way!",    ["minlevel"]="47",    ["questlevel"]="52"},
-
-	["4142"] = {    ["Title"]="A Visit to Gregan",    ["Description"]="I'm not quite sure what to make of this, $N. The plants... they seem to have some minimal intelligence.$B$BI'm no expert, though. But, I do know someone that is!$B$BHead to northern Feralas, and look for a buddy of mine named Gregan Brewspewer. He's an expert on this sort of thing.$B$BI'm sure Gregan can help us out here. You'll find him out in the wilderness; he's not the type to live in a big city.",    ["Objectives"]="Take a Bloodpetal to Gregan Brewspewer in Feralas.",    ["Progress"]="I live out here in the forest... Peaceful.$B$BWell, at least I thought it would be. I get more visitors out here than I ever did when I lived in Ironforge!",    ["Completion"]="Bloodpetal, eh? Hmmm... Well, you better explain the plan, and then I'll tell you whether or not I can help you.",    ["minlevel"]="47",    ["questlevel"]="52"},
-
-	["4143"] = {    ["Title"]="Haze of Evil",    ["Description"]="To tell you the truth, $N, I've never seen any plants like this in my travels. Perhaps I should take a trip to this crater...$B$BAt any rate, I think I know just the thing Muigin's looking for -- Atal'ai haze. It's horrid stuff, hard to collect, but it's just what he needs to control the little monsters.$B$BYou'll need to visit the temple of Atal'Hakkar in the Swamp of Sorrows. The Atal'ai Haze can be collected from the deep lurkers, murk worms, or oozes found there. Good luck, $N!",    ["Objectives"]="Collect 5 samples of Atal'ai Haze, then return to Muigin in Un'Goro Crater.",    ["Progress"]="Larion's still not speaking to me! He sure knows how to hold a grudge.",    ["Completion"]="I admit, I'm a bit hesitant to touch that stuff, $N! But if Gregan says it'll work, then I'm willing to give it a try!",    ["minlevel"]="47",    ["questlevel"]="52"},
-
-	["4144"] = {    ["Title"]="Bloodpetal Sprouts",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="Here's the plan, $N: Go out and collect some bloodpetal sprouts -- you know, the plants that haven't fully sprouted yet, and bring them here. Then I'll see what the Atal'ai haze can do.$B$BYou may think I'm vengeful... Actually, you'd be right about that!$B$BTruth is, I know the way out of here, but until Larion will admit that I'm right, I'm staying right here!$B$BSo off with you, find those bloodpetal sprouts and let's have some fun!",    ["Completion"]="Here goes nothing, $N! This will get Larion's attention!",    ["minlevel"]="47",    ["questlevel"]="53"},
-
-	["4145"] = {    ["Title"]="Larion and Muigin",    ["Description"]="See Muigin over there? It's HIS fault we're lost!$B$BI'm the one that knew the way, but he insisted he knew a shortcut, and we ended up here!$B$BTo make matters worse, now he keeps sending his crazy plant pests to annoy me. I'm so angry that I'm not planning on talking to him any time soon, but these pests are too much to handle.$B$BWhy don't we try to limit his supply, first thing. Go out and hunt some Bloodpetals, then return to me.",    ["Objectives"]="Hunt 5 Bloodpetal Lashers, 5 Bloodpetal Threshers, 5 Bloodpetal Flayers and 5 Bloodpetal Trappers for Larion at Marshal's Refuge.",    ["Progress"]="Muigin needs to apologize first before I'll talk to him again!",    ["Completion"]="Thanks for your help, $N, but I'm afraid I have some bad news...",    ["minlevel"]="47",    ["questlevel"]="52"},
-
-	["4146"] = {    ["Title"]="Zapper Fuel",    ["Description"]="You're in luck, $n! I've been working on some of my own experiments while Marvon's been gone, and one of them is a short range bug zapper. With just a few adjustments, it should be great for ridding yourself of those Bloodpetal pests.$B$BI can let you have one of my zapper prototypes, but you'll still need to collect the fuel. You can get the necessary Atal'ai haze that the zapper needs in the temple of Atal'Hakkar. The deep lurkers, murk worms, or oozes are the ones you'll need to get it from.",    ["Objectives"]="Deliver the Unloaded Zapper and 5 samples of Atal'ai Haze to Larion in Marshal's Refuge.",    ["Progress"]="This is exhausting, $N. Those things just won't leave me alone!",    ["Completion"]="So, Marvon wasn't around? Well, show me what you got, anyway.",    ["minlevel"]="47",    ["questlevel"]="52"},
-
-	["4147"] = {    ["Title"]="Marvon's Workshop",    ["Description"]="I managed to spy on what Muigin was doing, and he's actually growing the darn things over there!$B$BI think the only solution here is to... no, not go talk to him... What are you thinking? The solution is to fight back!$B$BWe'll need the help of my friend, Marvon, who has a workshop in Ratchet.  I'm sure he'll be able to create some sort of gadget that will help us.",    ["Objectives"]="Travel to Marvon Rivetseeker's workshop in Ratchet.",    ["Progress"]="",    ["Completion"]="Marvon's been gone quite a long time now, $N. He went off to Tanaris to study some of the ancient troll ruins.$B$BNow, what was it that you said you needed?",    ["minlevel"]="47",    ["questlevel"]="52"},
-
-	["4148"] = {    ["Title"]="Bloodpetal Zapper",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="For the zapper to work, it needs a sample of the target creature. Head out into the crater and collect a Bloodpetal sprout. Then I can calibrate it to work on Muigin's little friends...$B$BIf he weren't so stubborn, we could be on our way home, already... But until then, I'll just have to show him that his little prank doesn't bother me at all!",    ["Completion"]="Looks like this is going to work perfectly, $N. Now remember, if you see any of those pests around, don't hesitate to use that zapper!",    ["minlevel"]="47",    ["questlevel"]="53"},
-
-	["4161"] = {    ["Title"]="Recipe of the Kaldorei",    ["Description"]="Long ago, the night elves were called the kaldorei, a name that means \"children of the stars.\" Learning of the past is an important step in your path as a $c, $N, so listen well to what I have to tell you.$B$BThe kaldorei have always taken much pride in their harmonious relationship with nature. This means that we only take from nature what is necessary, and that we return in kind. This balance has afforded us much, $N.$B$BGo out and collect seven small spider legs -- no more than that, and return to me.",    ["Objectives"]="Collect 7 Small Spider Legs for Zarrin in Dolanaar.",    ["Progress"]="Remember the balance, $N. I wish you to develop an understanding and a strong empathy for the living forests.",    ["Completion"]="Always remember what I have shown you today, $N. You are part of the balance that the night elves strive to keep intact, even during troublesome times.",    ["minlevel"]="1",    ["questlevel"]="7"},
-
-	["4181"] = {    ["Title"]="Goblin Engineering",    ["Description"]="Expert engineering yields two distinct disciplines: gnome and goblin.  I only bother to mention goblin engineering because I'm a fair trainer.  They like to make things that blow up, and they rarely care what is in the way - even themselves.$B$B$N, read this manual.  If you want to learn how to blow yourself up, then take it to Nixx Sprocketspring in Gadgetzan.   Remember - membership is permanent and prevents joining the other discipline, so make sure this is what you want before finishing his task.",    ["Objectives"]="If you wish to learn more about Goblin Engineering, take the Manual of Engineering Disciplines to Nixx Sprocketspring in Gadgetzan.",    ["Progress"]="I can smell fresh recruits much like I can an excellent blasting powder - from a mile away. Have you come seeking to learn about the mastery of the explosion?",    ["Completion"]="Well $N, you were wise to seek my tutelage! Any schlep can become an expert at the basics of engineering - the gnomes and their irradiated home of Gnomeregan are proof of that. It takes a strong mind and a steady hand (emphasis on STEADY) though to master the discipline of Goblin Engineering.$B$BKeep your ears perked $N, and you might learn something.",    ["minlevel"]="30",    ["questlevel"]="47"},
-
-	["4182"] = {    ["Title"]="Dragonkin Menace",    ["Description"]="Life in the Burning Steppes is rife with conflict.$B$BJust look at this place! We know very little of what happened to these buildings, but we do know that at one time, before the great explosion, this was all part of the Redridge mountain range.$B$BEnough lamenting! We have a problem, $N. You may have noticed the dragonkin below this ridge. We need assistance in pushing them back. Kill as many as you can and return to me. Succeed and perhaps we can talk of other things.",    ["Objectives"]="Slay 15 Black Broodlings, 10 Black Dragonspawn, 4 Black Wyrmkin and 1 Black Drake. Return to Helendis Riverhorn when the task is complete.",    ["Progress"]="How goes the dragon hunt?",    ["Completion"]="Superb slaying, $N. Now that we know you can handle yourself around dragonkin, we can talk of more pressing matters.",    ["minlevel"]="48",    ["questlevel"]="54"},
-
-	["4183"] = {    ["Title"]="The True Masters",    ["Description"]="We had always assumed that the Blackrock orcs were a product of their savage upbringing. What we have found here, in their homeland, tells us another story.$B$BIndeed, it is bloodlust and thirst for conflict that empowers them, but the black dragonflight are the beings whom control the orcs of Blackrock. We suspect that it is the black dragonflight that fuels them with rage and hostility.$B$BTake this letter to Magistrate Solomon. He will know what must be done.$B$B<Helendis hands you a sealed letter.>",    ["Objectives"]="Travel to Lakeshire and deliver Helendis Riverhorn's Letter to Magistrate Solomon.",    ["Progress"]="Greetings, $N. Have we met before? You look vaguely familiar.",    ["Completion"]="<Magistrate Solomon opens the sealed letter from Helendis and begins reading.>",    ["minlevel"]="48",    ["questlevel"]="54"},
-
-	["4184"] = {    ["Title"]="The True Masters",    ["Description"]="This is grim news, $N. To discover that our mortal enemies are merely pawns of a much greater threat is disheartening. There is no possible way that Lakeshire could survive an attack from both the Blackrock orcs and the black dragonflight. Should Lakeshire fall to this menace, Darkshire would fall next, and then what? Goldshire? Stormwind itself?$B$BYou must take this information to Highlord Bolvar Fordragon in Stormwind at once! If this does not merit the aid of Stormwind, nothing will and all is lost.",    ["Objectives"]="Travel to Stormwind and deliver Solomon's Plea to Highlord Bolvar Fordragon.$B$BBolvar resides in Stormwind Keep.",    ["Progress"]="What brings you to Stormwind Keep?",    ["Completion"]="Dragons? Impossible!",    ["minlevel"]="48",    ["questlevel"]="54"},
-
-	["4185"] = {    ["Title"]="The True Masters",    ["Description"]="Solomon paints a dreary picture. Still, we cannot afford to send our thinly spread troops to the aid of Lakeshire on speculation. I will need proof of these claims before I can act.$B$BSpeak with Lady Prestor, $N. She is a learned woman and knows much of dragons and dragonkin. She may be able to shed some light on this situation.",    ["Objectives"]="Speak with Highlord Bolvar Fordragon after speaking with Lady Katrana Prestor.",    ["Progress"]="<Bolvar watches you intently.>",    ["Completion"]="<Bolvar cups his chin as if in deep thought.>$B$BWhile I respect Lady Prestor's stance, I believe that there is a solution to this dilemma that may put all of our concerns to rest.",    ["minlevel"]="48",    ["questlevel"]="54"},
-
-	["4186"] = {    ["Title"]="The True Masters",    ["Description"]="I am going to empower you as an acting deputy of Stormwind, $N.$B$BReturn to Magistrate Solomon in Lakeshire and deliver this decree.",    ["Objectives"]="Take Bolvar's Decree to Magistrate Solomon in Lakeshire.",    ["Progress"]="Any news from Bolvar?",    ["Completion"]="It could have been worse, I suppose...$B$B<Magistrate Solomon looks you over.>$B$BIt appears as if the fate of Lakeshire rests squarely on your shoulders.$B$B<You notice Magistrate Solomon blinking rapidly. He appears to be crying.>",    ["minlevel"]="48",    ["questlevel"]="54"},
-
-	["4201"] = {    ["Title"]="The Love Potion",    ["Description"]="Oh, the pains of love!  My dear Private Rocknot is immune to my charms.  I am spurned!  It's maddening!$B$BYou must help me!  We succubi know much of love, and I can make a potion to beat down the iron walls around Rocknot's heart.  To make it, I need these items: the herb gromsblood, giant silver veins from the cliff giants of Azshara, and water from the Golakka Springs Crater in Un'Goro.  You can place the water in this vial.$B$BPlease, $N, help a poor soul in her quest for happiness!",    ["Objectives"]="Bring 4 Gromsblood, 10 Giant Silver Veins and Nagmara's Filled Vial to Mistress Nagmara in Blackrock Depths.",    ["Progress"]="Do you have the ingredients?  The hole in my heart threatens to consume me!",    ["Completion"]="Oh, you've done it!  I can now make my potion and use it on Rocknot.  Finally, he will fall victim to my charms!$B$BThank you, $N.  You are a champion of love!",    ["minlevel"]="50",    ["questlevel"]="54"},
-
-	["4221"] = {    ["Title"]="Corrupted Windblossom",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="You have found a sickly, corrupted version of what appears to be a windblossom plant.  The berries that hang from the plant appear rotten and poisonous.  It desperately needs some sort of attention if it is to be turned back to normal.",    ["Completion"]="You apply two Cenarion plant salves to the windblossom. It immediately begins to shed its corrupted form, blossoming into a vibrant and healthy plant.",    ["minlevel"]="48",    ["questlevel"]="55"},
-
-	["4222"] = {    ["Title"]="Corrupted Windblossom",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="You have found a sickly, corrupted version of what appears to be a windblossom plant. The berries that hang from the plant appear rotten and poisonous. It desperately needs some sort of attention if it is to be turned back to normal.",    ["Completion"]="You apply two Cenarion plant salves to the windblossom. It immediately begins to shed its corrupted form, blossoming into a vibrant and healthy plant.",    ["minlevel"]="48",    ["questlevel"]="55"},
-
-	["4223"] = {    ["Title"]="The True Masters",    ["Description"]="<Magistrate Solomon sighs.>$B$BYou must return to the Burning Steppes, $N. As a deputy of Stormwind, you will be required to report to Marshal Maxwell. Good luck.",    ["Objectives"]="Speak with Marshal Maxwell in the Burning Steppes.",    ["Progress"]="",    ["Completion"]="<Marshal Maxwell laughs.>",    ["minlevel"]="48",    ["questlevel"]="54"},
-
-	["4224"] = {    ["Title"]="The True Masters",    ["Description"]="What? You thought you were the first? How many soldiers must we lose before Stormwind acts?$B$BWe had accumulated enormous amounts of intelligence pertaining to the Blackrock menace before we lost our commanding officer, Marshal Windsor. With Marshal Windsor went all of our precious information.$B$BWhat we need is that documentation. Speak with Ragged John, $N. He was with Windsor when they were attacked by a Blackrock raiding party.  He was last seen in a cave to the north.",    ["Objectives"]="Speak with Ragged John to learn of Marshal Windsor's fate and return to Marshal Maxwell when you have completed this task.$B$BYou recall Marshal Maxwell telling you to search for him in a cave to the north.",    ["Progress"]="Have you spoken with John yet?",    ["Completion"]="I could have warned you, but what fun is that?",    ["minlevel"]="48",    ["questlevel"]="54"},
-
-	["4241"] = {    ["Title"]="Marshal Windsor",    ["Description"]="So that good for nothing coward says that Windsor is alive, eh?$B$BSuit up, deputy, you are going in to find him. If Windsor is alive, you are to bring him back. If he's dead, I want proof.$B$B<Maxwell laughs.>$B$BI bet you are getting tired of hearing that, aren't you?",    ["Objectives"]="Travel to Blackrock Mountain in the northwest and enter Blackrock Depths. Find out what became of Marshal Windsor.$B$BYou recall Ragged John talking about Windsor being dragged off to a prison.",    ["Progress"]="",    ["Completion"]="Where is he! I'll murder him!",    ["minlevel"]="48",    ["questlevel"]="54"},
-
-	["4242"] = {    ["Title"]="Abandoned Hope",    ["Description"]="Bolvar is a fool. I was gathering his precious 'proof' so that I could shove it down his throat.$B$BHe is a blind buffoon. Proof stands two feet away from him and he does not see.$B$BAs for my data, it's lost. Gone. Unrecoverable.$B$BShould I ever find Ironfoe and make it out of this labyrinth, my first stop will be Stormwind, to place my hammer in between that reptile's eyes.$B$BLeave me, $N.",    ["Objectives"]="Give Marshal Maxwell the bad news.",    ["Progress"]="",    ["Completion"]="He's gone mad, apparently.$B$B<Maxwell lowers his head in mourning.>$B$BIt is unfortunate that a once proud and noble warrior would be turned into a blithering head case. I GUESS we've reached a dead end...$B$BI must reward you for your efforts thus far, $N.",    ["minlevel"]="48",    ["questlevel"]="54"},
-
-	["4243"] = {    ["Title"]="Chasing A-Me 01",    ["Description"]="Unfortunately, something's happened to one of my greatest inventions. You've seen mechanical squirrels, yes? Well, to get closer to the apes of Un'Goro Crater, I created a mechanical ape to blend in with their kind--I call her A-Me 01.$B$BShe has scrying gems for eyes so I could see everything she saw. She made it to Fungal Rock--the apes' lair--just east of here, and that's when I lost contact. The last thing I saw was one of their alpha males rushing up to say hello to her!$B$BCan you help me find her?",    ["Objectives"]="Find A-Me 01 in Un'Goro Crater.",    ["Progress"]="",    ["Completion"]="As you look A-Me 01 over, you see two huge dents tarnishing what Karna obviously feels is a well-crafted piece of engineering. One dent decorates A-Me 01's shoulder, the other is on her head.$B$BNo power seems to be running through her components as you investigate further.",    ["minlevel"]="48",    ["questlevel"]="53"},
-
-	["4244"] = {    ["Title"]="Chasing A-Me 01",    ["Description"]="A little further investigation shows a panel that slides open. Clearly written above some wiring is the statement, \"Replace Mithril Casing And Turn Power Off Then On.\"$B$BTaking a moment to replace the panel, you wonder if it'll be that simple to fix A-Me 01 and get her back to Karna Remtravel near Marshall's Refuge.$B$BOnly trying it will tell.",    ["Objectives"]="Find a Mithril Casing and return to A-Me 01 in Un'Goro Crater.",    ["Progress"]="The panel in which the mithril casing goes is still closed shut. The rest of A-Me 01 remains inert.",    ["Completion"]="You remove the panel from A-Me 01's back yet again and carefully remove the old mithril casing that seems to have burnt out. The new one slides into place easily. The only thing left to do, assuming the mithril casing was the problem, is to flip the switch to the \"Off\" position, and then back to the \"On\" position.",    ["minlevel"]="48",    ["questlevel"]="53"},
-
-	["4245"] = {    ["Title"]="Chasing A-Me 01",    ["Description"]="Checking to see if your prepared to lead A-Me 01 back to Karna Remtravel, you flip the switch to the \"Off\" position. Glancing around once again to make sure none of the gorillas are coming, you prepare to see what happens when you flip the switch back to the \"On\" position.$B$BThis is your last chance... are you sure this is what you want to do?",    ["Objectives"]="Escort A-Me 01 back to Karna Remtravel in Un'Goro Crater.",    ["Progress"]="Have you been able to help A-Me? That mithril casing you mentioned being destroyed was a good guess at what was wrong. I'm sure if you replace that, she'll reactivate and be able to come home.",    ["Completion"]="Oh, you've done it! Wonderful! Thank you, $N.$B$BOh, my poor, A-Me. Look at all those dents. We'll get her up and running perfectly with just a little work.$B$BThank you again, $N. I really appreciate it.",    ["minlevel"]="48",    ["questlevel"]="53"},
-
-	["4261"] = {    ["Title"]="Ancient Spirit",    ["Description"]="Felwood was once a peaceful and serene land... Until the legion took hold. The infernals, destruction, chaos...$B$BThe skull of Gul'dan ensured that none were spared here. All fell to the corruption.$B$BEven now, as a spirit, I still find myself trapped, bearing the suffering of this land. Help me find my way home. Please, $N, tell me you will lead an ancient spirit away from here, where I may finally rest.$B$BOnce I am free, seek out Kayneth Stillwind, a druid that resides in Forest Song, to the east.",    ["Objectives"]="Escort Arei to safety, then speak with Kayneth Stillwind in Forest Song, in eastern Ashenvale.",    ["Progress"]="What have you seen in this corrupted land?",    ["Completion"]="Yes, $N. Felwood has been through much hardship. Thank you for what you have done.$B$BOne day, we may be able to reclaim Felwood from the corruption; every kind deed helps.",    ["minlevel"]="49",    ["questlevel"]="56"},
-
-	["4262"] = {    ["Title"]="Overmaster Pyron",    ["Description"]="The last five of my mages that went snooping around in Blackrock Mountain came back extra crispy with a permanent orange gnomefro - or worse.$B$B<Jalinda picks up some ashes from the ground and releases them into the air.>$B$BOne nasty bugger in particular, Overmaster Pyron, seems to be causing quite a bit of trouble. We need that elemental terminated so that our expedition crew can make its way into Blackrock Depths!$B$BHe guards the entrance at the Blackrock Quarry.",    ["Objectives"]="Slay Overmaster Pyron and return to Jalinda Sprig.$B$BYou recall Jalinda talking about Pyron guarding the quarry. Perhaps you should search there?",    ["Progress"]="<Jalinda appears to be staring at your head.>",    ["Completion"]="Incendius? Oh dear...",    ["minlevel"]="48",    ["questlevel"]="52"},
-
-	["4263"] = {    ["Title"]="Incendius!",    ["Description"]="Are you sure Pyron said 'Incendius' when he died?$B$B<Jalinda swallows hard.>$B$BLord Incendius is purported to be a minion of Ragnaros! Oh dear, oh dear... whatever will we do?$B$BDo you think you can handle another mission? I don't have anybody else to send, $N!$B$BWe will never get a team in if Incendius continues to raise Pyron from the ashes.$B$BYou'll have to find and destroy Lord Incendius!",    ["Objectives"]="Find Lord Incendius in Blackrock Depths and destroy him!",    ["Progress"]="Is the fiend dead??",    ["Completion"]="Oh dear! Are you sure Incendius said 'Ragnaros?'$B$B<Jalinda hands you something and pats you on the wrist as she fades deep into thought.>",    ["minlevel"]="48",    ["questlevel"]="56"},
-
-	["4264"] = {    ["Title"]="A Crumpled Up Note",    ["Description"]="The note has stains covering its surface. The text is barely legible, but you make out the following:$B$B...sweet irony...$B$B...the fall of the broken Alliance...$B$B...if it were not for General Angerforge's diligence, we may have never discovered the pattern to the encryption...$B$B...Argelmach is almost done with the decryption of Windsor's notes.$B$BOur lord will rise from the depths and crush any that remain...$B$B-Emperor Dagran Thaurissan.",    ["Objectives"]="You may have just stumbled on to something that Marshal Windsor would be interested in seeing. There may be hope, after all.",    ["Progress"]="<Marshal Windsor eyes the note in your hand.>$B$BWhat do you have there, $N?",    ["Completion"]="<Marshal Windsor takes the note and begins reading.>",    ["minlevel"]="50",    ["questlevel"]="58"},
-
-	["4265"] = {    ["Title"]="Freed from the Hive",    ["Description"]="The pod splits opens some when you touch it, revealing a night elven male who is surprisingly still alive.  He seems to be in good health, though deeply stunned.  As you help him down from the pod, he stirs to life.$B$B\"Thank Elune - you've saved me, friend!  I... I'm Raschal, and I awoke paralyzed inside this pod after these bugs overwhelmed me.  Were you sent by the Stronghold?\"$B$BIt would seem that you've found the missing courier!",    ["Objectives"]="Free Raschal from the Zukk'ash hive.$B$BReturn to Ginro Hearthkindle in Feathermoon Stronghold and let him know that Raschal is alive and well.",    ["Progress"]="You have something to report, $N?",    ["Completion"]="Welcome home, $N.  Raschal checked in just a little while ago and told me what happened.$B$BI... no, the entire Stronghold can't even begin to thank you for your great deed; Raschal would have been dead without your timely aid, and your assistance came to us without even so much as the whisper of a mercenary's fee.  You bear the mark of a true hero.  Know that you will always have a friend in Ginro Hearthkindle.",    ["minlevel"]="40",    ["questlevel"]="46"},
-
-	["4266"] = {    ["Title"]="A Hero's Welcome",    ["Description"]="$N, General Shandris Feathermoon would like to speak with you personally.  No doubt she wants to thank you for your service to the Stronghold, but I do know that she also wants to talk to you about the insect creatures that you and Raschal faced in southern Feralas.  The reports of those Zukk'ash insects are... frightening, to say the least.$B$BGeneral Feathermoon is waiting for you in the main compound.",    ["Objectives"]="Speak with Shandris Feathermoon in Feathermoon Stronghold.",    ["Progress"]="",    ["Completion"]="$N, I give you my warmest thanks for the aid you've given us.  Your bravery in the face of overwhelming odds has warranted a reward worth a thousand times greater.  Nevertheless, I hope you accept this on behalf of the entire Stronghold.$B$BNow, if I may... I'd like to ask for your aid one more time.  In light of the discovery of the Zukk'ash hive here in Feralas, I think you're the best choice for this mission.",    ["minlevel"]="40",    ["questlevel"]="46"},
-
-	["4267"] = {    ["Title"]="Rise of the Silithid",    ["Description"]="I am entrusting you with a copy of the report Raschal made on the infestation of southeastern Feralas.  While the main report is being filed in Darnassus, I want you to give this copy to an associate of the Protectorate.  Her name is Gracina Spiritmight; she is a priestess who dwells in the Temple of the Moon in Darnassus.  She has broad knowledge on these kinds of creatures, and her receiving this report would benefit us all.$B$BYou're dismissed - good luck, $N; may Elune watch over us all.",    ["Objectives"]="Bring Raschal's Report to Gracina Spiritmight in Darnassus.",    ["Progress"]="Welcome to this blessed temple, friend.  Your arrival here from Feathermoon Stronghold has been foretold to me.  Do you have the report Shandris Feathermoon asked you to bring?",    ["Completion"]="We night elves know of the terror outlined in this report.  Shandris was wise to send this, and you, to me.$B$BThese creatures will consume Feralas rapidly; they are nothing short of one of the greatest menaces we all will ever face.  The insects you and the courier encountered are known as the silithid.  They are mere tools of one of the greatest threats that both the Horde and Alliance will ever face.$B$BI pray we will have the resolve to defeat them before they destroy us.",    ["minlevel"]="40",    ["questlevel"]="46"},
-
-	["4281"] = {    ["Title"]="Thalanaar Delivery",    ["Description"]="This parcel of goods you found in the Woodpaw gnoll camps was supposed to be delivered to the small way-station of Thalanaar in southeastern Feralas.  Regardless of the missing courier's fate, the task of delivering the parcel remains unfinished.$B$BExamining the parcel in detail reveals a hand written name of \"Falfindel Waywarder\" on the outside of the packaging.  Perhaps this is the parcel's ultimate recipient.",    ["Objectives"]="Bring the Undelivered Parcel to Falfindel Waywarder in Thalanaar.",    ["Progress"]="Welcome to Thalanaar, $C. Do you need assistance of some sort?",    ["Completion"]="Elune be praised, the delivery from Feathermoon Stronghold has finally arrived!$B$BYour presence here indicates to me that perhaps some ill fate may have befallen Raschal, our usual courier. I hope that everything works out. I know that recently, the Woodpaw have become highly agitated from some source to their south. Maybe he fell to the wilds there; I would be careful, friend.$B$BRegardless, thank you again. Here is payment for this parcel's delivery.",    ["minlevel"]="40",    ["questlevel"]="44"},
-
-	["4282"] = {    ["Title"]="A Shred of Hope",    ["Description"]="<Marshal Windsor shakes the note excitedly.>$B$BDo you realize what this means, $N?$B$BPerhaps all is not lost! From what I can ascertain, the information is being held by two Dark Iron dwarves: General Angerforge and the golem lord, Argelmach. I have a feeling that they won't just hand over the information if we ask nicely.$B$BI hope you are ready to battle.$B$BVenture forth and find these two villains! Destroy them and return my lost information.",    ["Objectives"]="Return Marshal Windsor's Lost Information.$B$BMarshal Windsor believes that the information is being held by Golem Lord Argelmach and General Angerforge.",    ["Progress"]="Soon this grand subterfuge will be over.",    ["Completion"]="<Marshal Windsor snatches the two tablets from your hands.>$B$BWe need to get out of here!",    ["minlevel"]="50",    ["questlevel"]="58"},
-
-	["4283"] = {    ["Title"]="FIFTY! YEP!",    ["Description"]="I'm going to let you in on a little secret, soldier. Come a little closer.$B$BI'M THE ONLY SANE ONE HERE!$B$BLook at these people! Would you believe that they're all insane!? Well they are! NUTS! CRAZY!$B$B<Oralius lowers his voice.>$B$BLet's just keep that between me, you, and my pal Captain Winky.$B$B<Oralius grabs at the air and squeezes.>$B$BAnyhooooo... I'm collecting badges to go along with my ogre ear collection. Orc is the flavor of the day. Fifty. GO!$B$B<Oralius blows into a horn.>$B$BSHIP IT!",    ["Objectives"]="Oralius wants 50 Blackrock Medallions. Chances are high that these medallions can be found on the orcs in the Burning Steppes.",    ["Progress"]="<Oralius is talking into a rather large, severed ogre ear.>$B$BBurning Steppes to control, come in control.",    ["Completion"]="You've done it! Your reward is: RUB MY BELLY! GO ON! RUB IT!",    ["minlevel"]="50",    ["questlevel"]="56"},
-
-	["4284"] = {    ["Title"]="Crystals of Power",    ["Description"]="I'm sure you've noticed 'em, $N. They're everywhere!$B$BWhat am I talking about? Why, the crystals, of course!$B$BThe crystals... They're all over the crater. Most people ignore them, but I have a strange feeling that they hold power within them. I've been doing experiments here with them for a while, but I can't seem to find anything. Well, I haven't yet, anyway.$B$BSay, I'm running a little low on the crystals I have here -- think you might be able to collect some more for me?",    ["Objectives"]="Collect 7 Power Crystals of each color: red, blue, yellow, and green. Bring them to J.D. Collie at Marshal's Refuge.",    ["Progress"]="I just know I'm onto something here, $N!",    ["Completion"]="Now I will continue my experiments! Thank you, $N.",    ["minlevel"]="47",    ["questlevel"]="53"},
-
-	["4285"] = {    ["Title"]="The Northern Pylon",    ["Description"]="What could they be for? I can't get the thought out of my head!$B$BIt's driving me crazy --  that the rumors I have heard about the crystal pylons are all true. Call me gullible, but I'll usually believe anything people tell me.$B$BAnyway, I have heard that there is one of the crystal pylons fairly close. Somewhere in the north... Please locate it, $N. I just know they exist.",    ["Objectives"]="Discover the location of the Northern Crystal Pylon in Un'Goro Crater.",    ["Progress"]="Have you visited the pylon, $N?",    ["Completion"]="I know the stories are true, $N.",    ["minlevel"]="47",    ["questlevel"]="53"},
-
-	["4286"] = {    ["Title"]="The Good Stuff",    ["Description"]="Captain Winky tells me that the Dark Irons in the Depths got all the good stuff. Ain't that right, Winky?$B$B<Oralius does his best impersonation of a pirate.>$B$BARRR MATEY! IT BE RIGHT!$B$BSee what I'm saying? You need to get in there and bring me back some samples of the good stuff.$B$BGet in there and shake your moneymaker!",    ["Objectives"]="Travel to Blackrock Depths and recover 20 Dark Iron Fanny Packs. Return to Oralius when you have completed this task. You assume that the Dark Iron dwarves inside Blackrock Depths carry these 'fanny pack' contraptions.",    ["Progress"]="I can't be bothered right now, $N. Me and Winky got a meeting to attend.",    ["Completion"]="<Oralius starts rummaging through the mountainous pile of fanny packs.>$B$BOH WONDERFUL!$B$B<Oralius sticks his large nose into the pile and takes a whiff.>$B$BDELICIOUS! Look at all these goodies!$B$BTake one for yourself, $N. There's plenty to go around.",    ["minlevel"]="50",    ["questlevel"]="56"},
-
-	["4287"] = {    ["Title"]="The Eastern Pylon",    ["Description"]="During my stay here, I have heard strange rumors about mysterious pylons existing out in the wilderness of the crater, $N. I guess that they are quite large, with crystals lining their interiors.$B$BAlthough I've never seen one, I can't help but think that the rumors are true -- and that the pylons have something to do with all the crystals we found$B$BSo why don't you help me put my curiosity to rest? Supposedly, there is one in the eastern area of the crater. Do you think you can find it?",    ["Objectives"]="Discover the location of the Eastern Crystal Pylon in Un'Goro Crater.",    ["Progress"]="Have you visited the pylon, $N?",    ["Completion"]="Un'Goro is such a strange place, $N. When you enter the crater, it's as if you are in a completely different world...",    ["minlevel"]="47",    ["questlevel"]="53"},
-
-	["4288"] = {    ["Title"]="The Western Pylon",    ["Description"]="My experiments so far have not yielded any positive results, $N. I can't help but hope that you can find a solution by searching for one of the pylons that I have heard exist.$B$BPerhaps if we combine certain colors at them... but I get ahead of myself. Let's find them first!$B$B$N, search the western area of the crater; a pylon is said to be somewhere in that area.",    ["Objectives"]="Discover the location of the Western Crystal Pylon.",    ["Progress"]="Have you visited the pylon, $N?",    ["Completion"]="There are many hidden areas of the crater along the sides. Try exploring the winding paths if you can't think of anywhere else to look, $N.",    ["minlevel"]="47",    ["questlevel"]="53"},
-
-	["4289"] = {    ["Title"]="The Apes of Un'Goro",    ["Description"]="This crater has many strange creatures--they seem to be nobler versions of the creatures found throughout my homeland and beyond. I cannot explain it, but this place cries of the Earth Mother. I pay homage to her every time I track one of her beautiful creatures across its basin.$B$BIf you too wish to feel the enlightenment that accompanies such a great feat, then head to the north. There you'll find great apes who are a test for any mortal's strength. Bring me their pelts... prove your strength.",    ["Objectives"]="Bring 2 Un'Goro Gorilla Pelts, 2 Un'Goro Stomper Pelts, and 2 Un'Goro Thunderer Pelts to Torwa Pathfinder at the entrance of Un'Goro Crater.",    ["Progress"]="Have the creatures here bested you already, $N?$B$BDo not be dissuaded so easily. Tracking and defeating the apes of Un'Goro is no simple task, even for a great hunter.",    ["Completion"]="So, you have proven strong, strong enough to best the great apes of Un'Goro--that is good. The challenge was small compared to Lar'korwi, but I will not take such a great victory away from you.$B$BThese pelts will make wonderful clothing for my tribe. You have helped me and proven worthy.$B$BBefore you set off on another task, let us give praise to the Earth Mother and thank the spirits of those apes you killed--they must know their deaths will not be wasted.",    ["minlevel"]="47",    ["questlevel"]="55"},
-
-	["4290"] = {    ["Title"]="The Fare of Lar'korwi",    ["Description"]="Once, a long time ago, a brother of mine took some meat from one of Lar'korwi's kills. He didn't know it at the time, but Lar'korwi saw him from the forest. Lar'korwi followed my brother for days, destroying everything he touched. My brother, scared, finally decided to run from the Crater and leave Lar'korwi behind.$B$BLar'korwi killed him not far from this spot.$B$BIf you want to provoke Lar'korwi, find a fresh kill of his and take some of the meat from it.$B$BReturn to me afterwards.",    ["Objectives"]="Find the carcass of Lar'korwi's freshest kill and steal a Piece of Threshadon Carcass before returning to Torwa Pathfinder in Un'Goro Crater.",    ["Progress"]="Do not take my words lightly, $N. If you truly wish to face this creature, then you must be careful... and smart. It will take a great deal of strength and insight to draw out Lar'korwi and defeat him.",    ["Completion"]="This will do nicely, $N. It seems Lar'korwi eats well these days. Although, I wonder where he found a threshadon in this area. Odd.$B$BRegardless, I will hold onto this until you are ready for your confrontation with the beast. Do not worry for my safety--I am sure you've angered Lar'korwi enough that he will not kill me until after he's tasted your flesh.",    ["minlevel"]="48",    ["questlevel"]="53"},
-
-	["4291"] = {    ["Title"]="The Scent of Lar'korwi",    ["Description"]="I'm actually surprised he has not come for you yet, $N. But all is well, for I have a final plan that will bring the monster to us.$B$BBeing the dominant male gives Lar'korwi rights to breed with any female he chooses--and he chooses many of them. You'll find many ravasaur eggs to the west of here. Get close to them and you should provoke an attack by his mates. The females produce an awful smell from a gland in their heads that allow males to know they are ready to breed. Bring me two of those glands.",    ["Objectives"]="Bring 2 Ravasaur Pheromone Glands to Torwa Pathfinder near the entrance to Un'Goro Crater.",    ["Progress"]="Be careful, $N. Getting close to any of nest of eggs surely will provoke the mothers... even if you've already secured a gland from one. The mothers can be just as deadly as Lar'korwi himself when they fight to protect their young. But, if you are successful, then we shall have a definitive way of bringing Lar'korwi out from hiding.",    ["Completion"]="Ah, fine specimens, $N. The two pieces you've found should be perfect for baiting Lar'korwi into the open. I cannot wait to see the outcome of your fight with the monster. He is a massive thing with claws as sharp as the finest blades. You will look into his eyes and you will know death.",    ["minlevel"]="48",    ["questlevel"]="53"},
-
-	["4292"] = {    ["Title"]="The Bait for Lar'korwi",    ["Description"]="This will be the most difficult part because there is some complexity to the plan. To the north of here, you will find a small trail into the mountains. It was here I saw Lar'korwi last. You will know you are in the right area because of all the bones from massive creatures that once wandered nearby. Take the meat you recovered and place it there. Then, rub this mixture I created on the meat. If both lures mingled together do not bring Lar'korwi to you, then I know nothing else that will.",    ["Objectives"]="Using the contents of Torwa's Pouch, summon Lar'korwi and defeat him. Then bring Lar'korwi's Head to Torwa Pathfinder near the entrance to Un'Goro Crater.",    ["Progress"]="Do not let fear overpower you, $N. Fear is the great betrayer... you must remain strong!$B$BTake the meat, place it in the small valley, and then use the gland on it. Only then will death come for you.",    ["Completion"]="The Earth Mother be praised! You've done it! Fair play to you, $N. You have proven to be a great hunter in your own right. Your spirit is strong. Your bravery unmatched. And your strength has been fortified. I bow down to your skills.$B$BOnly the greatest of my ancestors could have accomplished something so incredible. Congratulations.",    ["minlevel"]="48",    ["questlevel"]="56"},
-
-	["4295"] = {    ["Title"]="Rocknot's Ale",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="Oh, ale!  I would kill for some Dark Iron ale!!  Quick, I'm getting sober!  I know this because sobriety blurs my vision... and it's making you look like the $R I slew last week!",    ["Completion"]="What's this?  Ah!  It smells like Dark Iron Ale!  Drink has blurred my sight, but I can tell that you, sir, are a real friend!",    ["minlevel"]="1",    ["questlevel"]="1"},
-
-	["4296"] = {    ["Title"]="Tablet of the Seven",    ["Description"]="I came to the Burning Steppes, following the legends of the Seven.  They were dwarves of great knowledge and power, and if you have knowledge and power, then wealth is sure to follow.$B$BThat's what I want.  Wealth!$B$BIf we can learn more of the Seven, then maybe we can get rich together.  The ruins of Thaurissan is rumored to keep the Tablet of the Seven, which holds knowledge of the ancient dwarves.  Find this tablet, copy its text and bring it to me.  Let's discover its secrets together!",    ["Objectives"]="Bring the Tablet Transcript to Maxwort Uberglint in the Burning Steppes.",    ["Progress"]="Do you have the writings of the Seven, $N?  Have you learned the secrets from their tablet?",    ["Completion"]="Ah, you found the tablet!  And your transcription is superb!  Are you sure you're a $C and not a scribe?$B$BHere you are, $N.  Here is the payment I promised.",    ["minlevel"]="50",    ["questlevel"]="50"},
-
-	["4297"] = {    ["Title"]="Food for Baby",    ["Description"]="Sprite darters are omnivores--that means they eat both meat and vegetation. If your egg here's gonna hatch, we best be prepared. Some good eats for these little guys are flanks of meat, raw and juicy, believe it or not. I was never able to find out why, but it has somethin' to do with Elune's plan for the elves... maybe they were to be protectors or somethin', I don't know.$B$BI'll take care of the egg for now, why don't you get me some good Silvermane stalker flanks for 'em to eat when he's hatched.",    ["Objectives"]="Bring 5 Silvermane Stalker Flanks to Agnar Beastamer in Hinterlands.",    ["Progress"]="Find that meat yet, $N? Your little egg here's just about ready to hatch. If he don't have a good enough first meal, then he might not make it past his first week, and I'd hate for that to happen.$B$BCan't much lie to ya, $N. I'm jealous of you gettin' this egg to begin with. Don't make me regret helpin' ya out like this.",    ["Completion"]="These'll do nicely, and if I'm not mistaken, your little egg's just about ready to hatch. How does it feel? You know, you about to be a father? Haha, didn't think ya'd have to deal with such responsibility, now did ya?",    ["minlevel"]="38",    ["questlevel"]="47"},
-
-	["4298"] = {    ["Title"]="Becoming a Parent",    ["Description"]="Whoa, it was a lot more ready than I thought...",    ["Objectives"]="Speak to Agnar Beastamer in the Hinterlands.",    ["Progress"]="",    ["Completion"]="Here, take the egg... better you have it so it bonds to you and looks to you to be its dadda.$B$BCongrats, $N. You're a parent... kinda.",    ["minlevel"]="37",    ["questlevel"]="48"},
-
-	["4301"] = {    ["Title"]="The Mighty U'cha",    ["Description"]="While you have been exploring Un'Goro, I have seen other things that a mighty hunter such as yourself would relish in. One such sight was a huge ape among the other gorillas to the north. You have been to that cave before, but this time, I wonder if you'll survive the encounter if you accept my task.$B$BI call him U'cha, and he is one of the Earth Mother's greatest sons, of that you can be sure. Defeat U'cha and bring me his pelt. Do this, and I will defend your right to call yourself a great hunter.",    ["Objectives"]="Bring U'cha's Pelt to Torwa Pathfinder at the entrance of Un'Goro Crater.",    ["Progress"]="U'cha... the beast was magnificent. Huge and red, with teeth the size of daggers. His arms as thick as tree trunks, and as fast as any mountain lion I have ever laid eyes upon. You should consider yourself lucky to find such a test of bravery--my people would go generations without seeing such a creature.",    ["Completion"]="Well done, $N. I am pleased. You have done a great thing here today.$B$BU'cha was one of the greatest apes I had ever seen. The fact that you have bested his strength speaks well of your own strength... and courage.$B$BIt is only fitting that I give you this as a sign of respect. You have earned it.",    ["minlevel"]="50",    ["questlevel"]="55"},
-
-	["4321"] = {    ["Title"]="Making Sense of It",    ["Description"]="The information you have given me about the pylons is very interesting...$B$BGive me a moment to do some calculations, $N. Speak to me again in a moment and I should be able to give you the answer we have been looking for.",    ["Objectives"]="Speak with J.D. Collie in a moment.",    ["Progress"]="",    ["Completion"]="Alright, $N. This is fascinating... I can only hope that my diagrams are correct! I compiled everything into this manual, which you can have.$B$BI believe I can answer any questions you have about the crystals now, $N.",    ["minlevel"]="47",    ["questlevel"]="53"},
-
-	["4322"] = {    ["Title"]="Jail Break!",    ["Description"]="We need to get out of here, $N. Help me get my gear back from the supply area and free my friends. If we make it out of here, you are to proceed to Morgan's Vigil and speak with Marshal Maxwell. He will give you further instruction.",    ["Objectives"]="Help Marshal Windsor get his gear back and free his friends. Return to Marshal Maxwell if you succeed.",    ["Progress"]="You look exhausted, $N. Perhaps you should have a seat by the fire and relax.",    ["Completion"]="Amazing, $N. Simply amazing. Windsor stormed through here not five minutes ago. He makes some grand claims but purports that they are supported by his evidence. He is on his way to Stormwind now to confront Bolvar and ... Lady Prestor.",    ["minlevel"]="50",    ["questlevel"]="58"},
-
-	["4324"] = {    ["Title"]="Yuka Screwspigot",    ["Description"]="Although my little brother Ribbly has been worthless his whole life, I think, finally, he has some value!  But... we might need your help to capitalize on Ribbly's newfound worth.$B$BMy sister Yuka has been looking for him for weeks, and tracked him to the Burning Steppes.  She sent word to me, asking for some hired hands.$B$BSo, what do you say?  Want to help?  If so, then speak with my sister.  You'll find her holed up in Flame Crest, a cave northwest of Dreadmaul Rock.",    ["Objectives"]="Speak with Yuka Screwspigot in the Burning Steppes.",    ["Progress"]="",    ["Completion"]="Yes, I'm looking for my brother.  We must find him and retrieve him, bless his heart.$B$BBut if we can't bring all of him... then his head will suffice.",    ["minlevel"]="48",    ["questlevel"]="53"},
-
-	["4341"] = {    ["Title"]="Kharan Mighthammer",    ["Description"]="You have been to the smoldering ruins of Thaurissan? Did you happen to run into a pitiful lout named Kharan Mighthammer? The dwarf that was supposedly watching over my baby girl!$B$B<The King sobs.>$B$BAnd now she's gone, $N!$B$BI have had my men turn the Steppes upside down. The only clue they have as to the whereabouts of my daughter is that she may be inside the Depths. For all I know, she could be dead!$B$BKharan is supposedly being held prisoner there... find him! I want answers!",    ["Objectives"]="Travel to Blackrock Depths and find Kharan Mighthammer.$B$BThe King mentioned that Kharan was being held prisoner there - perhaps you should try looking for a prison.",    ["Progress"]="",    ["Completion"]="Please, let me explain.",    ["minlevel"]="50",    ["questlevel"]="59"},
-
-	["4342"] = {    ["Title"]="Kharan's Tale",    ["Description"]="Please, hear me out before passing judgement!",    ["Objectives"]="Listen as Kharan Mighthammer tells his story.",    ["Progress"]="Allow me to finish telling my story.",    ["Completion"]="As you can see, there was nothing I could have done.",    ["minlevel"]="50",    ["questlevel"]="59"},
-
-	["4343"] = {    ["Title"]="Corrupted Windblossom",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="You have found a sickly, corrupted version of what appears to be a windblossom plant. The berries that hang from the plant appear rotten and poisonous. It desperately needs some sort of attention if it is to be turned back to normal.",    ["Completion"]="You apply two Cenarion plant salves to the windblossom. It immediately begins to shed its corrupted form, blossoming into a vibrant and healthy plant.",    ["minlevel"]="48",    ["questlevel"]="55"},
-
-	["4361"] = {    ["Title"]="The Bearer of Bad News",    ["Description"]="You must take this information back to King Magni, $N. He will know what to do!",    ["Objectives"]="Return to Ironforge and deliver the bad news to King Magni Bronzebeard.",    ["Progress"]="",    ["Completion"]="<King Magni slams his fist down in anger.>",    ["minlevel"]="50",    ["questlevel"]="59"},
-
-	["4362"] = {    ["Title"]="The Fate of the Kingdom",    ["Description"]="It would seem as if my old adversary, Dagran Thaurissan, has me and the kingdom of Ironforge at his mercy.$B$BYou may be my last hope, $N. You must rescue my dear daughter, Moira!$B$BThere is only one way to make sure that the spell Thaurissan has cast on Moira is broken: Kill him.$B$BAnd $N, do not harm her! Remember, she is being controlled by Thaurissan! The things she may do or say are a result of Thaurissan's evil spell!",    ["Objectives"]="Return to Blackrock Depths and rescue Princess Moira Bronzebeard from the evil clutches of Emperor Dagran Thaurissan.",    ["Progress"]="",    ["Completion"]="<Princess Bronzebeard weeps over the loss of Emperor Dagran Thaurissan.>$B$BWhy???",    ["minlevel"]="50",    ["questlevel"]="59"},
-
-	["4363"] = {    ["Title"]="The Princess's Surprise",    ["Description"]="Thaurissan was a great and honorable dwarf. You ruined my life and the life of my unborn child!$B$B<You think that Princess Bronzebeard may still be suffering from the residual effect of the Emperor's spell.>$B$BReturn to Ironforge and tell my father that the heir to the Kingdom of Ironforge will be a Dark Iron dwarf.$B$BWhether he approves or not, it shall be.",    ["Objectives"]="Return to Ironforge and speak with King Magni Bronzebeard.",    ["Progress"]="",    ["Completion"]="<King Magni Bronzebeard is visibly upset.>$B$BIt seems that even in death, Thaurissan has won.$B$BYou are dismissed, $N. Before you leave, you may choose your reward from the royal vault.$B$B<King Bronzebeard slumps into his throne to mull over this bizarre change of events.>",    ["minlevel"]="50",    ["questlevel"]="59"},
-
-	["4401"] = {    ["Title"]="Corrupted Songflower",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="You have found a sickly, corrupted version of what appears to be a songflower plant. A pungent, unhealthy odor emanates from the plant. It desperately needs some sort of attention if it is to be turned back to normal.",    ["Completion"]="You apply some Cenarion plant salve to the songflower. It immediately begins to shed its corrupted form, blossoming into a vibrant and healthy plant.",    ["minlevel"]="48",    ["questlevel"]="55"},
-
-	["4403"] = {    ["Title"]="Corrupted Windblossom",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="You have found a sickly, corrupted version of what appears to be a windblossom plant. The berries that hang from the plant appear rotten and poisonous. It desperately needs some sort of attention if it is to be turned back to normal.",    ["Completion"]="You apply two Cenarion plant salves to the windblossom. It immediately begins to shed its corrupted form, blossoming into a vibrant and healthy plant.",    ["minlevel"]="48",    ["questlevel"]="55"},
-
-	["4421"] = {    ["Title"]="The Corruption of the Jadefire",    ["Description"]="Not many seek adventure here... Felwood's corruption is widespread and indiscriminate.$B$BAs part of the Emerald Circle, I seek to heal this land, but there are some that wish it to fester.$B$BThe ones I speak of are the Jadefire satyrs that dwell to the northwest of here, at the Ruins of Constellas. Led by a particularly cruel satyr named Xavathras, they continue to spread the disease to any creatures they encounter.$B$BWe must defend this land that was once ours. Defeat Xavathras and destroy his minions.",    ["Objectives"]="Kill 11 Jadefire Felsworns, 9 Jadefire Shadowstalkers, 9 Jadefire Rogues, and Xavathras. Return to Eridan Bluewind in Felwood when the task has been completed.",    ["Progress"]="The corruption here drives the creatures into madness...",    ["Completion"]="Ridding Felwood of Xavathras is only the first step in a long process. It will take much work to repair the damage that has been done here.$B$BI sense that there is something much larger than just the satyrs at work here, but we will only know the truth with time...",    ["minlevel"]="49",    ["questlevel"]="54"},
-
-	["4441"] = {    ["Title"]="Felbound Ancients",    ["Description"]="The flute you found was carved from an ancient protector, the treant allies that have faithfully protected the night elves.$B$BThe satyrs have been able to corrupt anything they come in contact with, which includes the ancients that made Felwood their home. By the use of the fel, the spirit of the ancient has been bound and tortured, never completely released. The felbind you found is no doubt related.$B$BWe must try to purify the flute, $N. Bring me blessed water from the Temple of the Moon in Darnassus.",    ["Objectives"]="Travel to Darnassus and use Eridan's Vial to collect a Vial of Blessed Water from the Temple of the Moon. Return to Eridan with the filled vial.",    ["Progress"]="The water will hopefully release the spirit of the ancient, and allow it to be at peace.",    ["Completion"]="Thank you, $N. Now, we must pray that we can undo the damage that has been done...",    ["minlevel"]="49",    ["questlevel"]="54"},
-
-	["4442"] = {    ["Title"]="Purified!",    ["Description"]="Using the water of Elune, I will attempt to purify the flute. We must end this suffering...$B$BMay Elune guide my hands and heart.$B$BSpeak with me again in a moment.",    ["Objectives"]="Speak to Eridan again in a moment.",    ["Progress"]="",    ["Completion"]="With the blessed water, I was able to break the link between the flute and the ancient spirit. I do believe though, that if you were to use this flute in a sacred spot, you may be able to summon the ancient spirits.$B$BPerhaps you might try the ruins in the southern part of Irontree Woods. Many corrupted treants inhabited this area at one time, and it is possible that they may still reside there, even in spirit form.",    ["minlevel"]="49",    ["questlevel"]="54"},
-
-	["4443"] = {    ["Title"]="Corrupted Whipper Root",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="You have found a sickly, corrupted version of what appears to be a whipper root plant. The visible roots of the plant appear tough and leathery, and a slimy film hangs from the plant. It desperately needs some sort of attention if it is to be turned back to normal.",    ["Completion"]="You apply 3 Cenarion Plant Salves to the Whipper Root. It immediately begins to shed its corrupted form, blossoming into a vibrant and healthy plant.",    ["minlevel"]="48",    ["questlevel"]="55"},
-
-	["4444"] = {    ["Title"]="Corrupted Whipper Root",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="You have found a sickly, corrupted version of what appears to be a whipper root plant.  The visible roots of the plant appear tough and leathery, and a slimy film hangs from the plant.  It desperately needs some sort of attention if it is to be turned back to normal.",    ["Completion"]="You apply 3 Cenarion Plant Salves to the Whipper Root. It immediately begins to shed its corrupted form, blossoming into a vibrant and healthy plant.",    ["minlevel"]="48",    ["questlevel"]="55"},
-
-	["4445"] = {    ["Title"]="Corrupted Whipper Root",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="You have found a sickly, corrupted version of what appears to be a whipper root plant. The visible roots of the plant appear tough and leathery, and a slimy film hangs from the plant. It desperately needs some sort of attention if it is to be turned back to normal.",    ["Completion"]="You apply 3 Cenarion Plant Salves to the Whipper Root. It immediately begins to shed its corrupted form, blossoming into a vibrant and healthy plant.",    ["minlevel"]="48",    ["questlevel"]="55"},
-
-	["4446"] = {    ["Title"]="Corrupted Whipper Root",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="You have found a sickly, corrupted version of what appears to be a whipper root plant. The visible roots of the plant appear tough and leathery, and a slimy film hangs from the plant. It desperately needs some sort of attention if it is to be turned back to normal.",    ["Completion"]="You apply 3 Cenarion Plant Salves to the Whipper Root. It immediately begins to shed its corrupted form, blossoming into a vibrant and healthy plant.",    ["minlevel"]="48",    ["questlevel"]="55"},
-
-	["4447"] = {    ["Title"]="Corrupted Night Dragon",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="You have found a sickly, corrupted version of what appears to be a night dragon plant.  The fruits that hang from the plant appear rotten and poisonous.  It desperately needs some sort of attention if it is to be turned back to normal.",    ["Completion"]="You apply 4 Cenarion Plant Salves to the Night Dragon. It immediately begins to shed it's corrupted form, blossoming into a vibrant and healthy plant.",    ["minlevel"]="48",    ["questlevel"]="55"},
-
-	["4448"] = {    ["Title"]="Corrupted Night Dragon",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="You have found a sickly, corrupted version of what appears to be a Night Dragon plant. The fruits that hang from the plant appear rotten and poisonous. It desperately needs some sort of attention if it is to be turned back to normal.",    ["Completion"]="You apply 4 Cenarion Plant Salves to the Night Dragon. It immediately begins to shed it's corrupted form, blossoming into a vibrant and healthy plant.",    ["minlevel"]="48",    ["questlevel"]="55"},
-
-	["4449"] = {    ["Title"]="Caught!",    ["Description"]="Hey! Hey, you! Get over here!$B$BYa gotta help me out. I was runnin' from them Dark Iron dwarves, and I hid in here to get out of sight. Damn bastard geologists and their magic ways! They musta seen me hide, cause next thing I knew, they locked the door and stuck me in here.$B$BTeach them geologists a lesson! Oh... an' can ya get me some pieces of silk cloth for... for... nothin'.",    ["Objectives"]="Kill 8 Dark Iron Geologists and bring 15 pieces of Silk Cloth to the person locked in the outhouse in Searing Gorge.",    ["Progress"]="I ain't got all day! Get me those pieces of silk cloth! I mean geologists. Get those geologists! They deserve to feel my, well... your wrath.",    ["Completion"]="Oh, this is great! Nice feel to it too!$B$BWhat? Oh, yeah... geologists. Got 'em good, did ya? I can't thank ya enough, $N. That'll give me some time to finish up in here... I mean, it'll let me not have to worry about them comin' back for me anytime soon. Thanks again.",    ["minlevel"]="43",    ["questlevel"]="45"},
-
-	["4450"] = {    ["Title"]="Ledger from Tanaris",    ["Description"]="Oh, you know what? That reminds me.$B$BYou wanna finish up a little job I took up while I was in Tanaris? It's easy...$B$BKrinkle Goodsteel in Gadgetzan was lookin' for some stuff found here in Searing Gorge and a few other places. Maybe you could take a look at the list and then bring it all to him?$B$BI'll just slide his ledger under the door if you're interested. Take that, and the stuff he wants back to him after ya collected it all.",    ["Objectives"]="Take the copy of Goodsteel's Ledger and then find the items listed in it before seeking Krinkle Goodsteel in Tanaris.",    ["Progress"]="Yes, yes? What can I do for you, $R? I'm awfully busy and have many patrons requesting my services. Perhaps you can speed things up. I don't mean to be rude, but I just don't have the time if I'm to catch up on all my work.",    ["Completion"]="Oh, you've seen fit to do some of the work I requested. Excellent. And here I thought you were going to ask me to craft you something.$B$BThese are all perfect... and everything's here. Thank you, $C.$B$BMaybe it wouldn't hurt to reward you some... hmm, what would you find useful.",    ["minlevel"]="43",    ["questlevel"]="46"},
-
-	["4451"] = {    ["Title"]="The Key to Freedom",    ["Description"]="The small brass key looks simple enough.. The only thing that seems to make it stand out are some words scratched into the head of it:$B$B\"Dark Iron Outhouse - Do Not Duplicate.\"$B$BYou have no idea what it means or what it will lead to.",    ["Objectives"]="Search Searing Gorge and find a use for the Grimesilt Outhouse Key you have found.",    ["Progress"]="*cough*$B$BWho is it? Can't ya see I'm busy?",    ["Completion"]="Well, I'll be! How in tarnation!? You found the key! I knew them blasted Dark Irons were hiding it after they locked me in here! Thank ya so much, $N. You're the greatest! Now, just turn the key and let ol' Locheed outta here!",    ["minlevel"]="43",    ["questlevel"]="47"},
-
-	["4461"] = {    ["Title"]="Corrupted Whipper Root",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="You have found a sickly, corrupted version of what appears to be a whipper root plant. The visible roots of the plant appear tough and leathery, and a slimy film hangs from the plant. It desperately needs some sort of attention if it is to be turned back to normal.",    ["Completion"]="You apply 3 Cenarion Plant Salves to the Whipper Root. It immediately begins to shed its corrupted form, blossoming into a vibrant and healthy plant.",    ["minlevel"]="48",    ["questlevel"]="55"},
-
-	["4462"] = {    ["Title"]="Corrupted Night Dragon",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="You have found a sickly, corrupted version of what appears to be a night dragon plant.  The fruits that hang from the plant appear rotten and poisonous.  It desperately needs some sort of attention if it is to be turned back to normal.",    ["Completion"]="You apply 4 Cenarion Plant Salves to the Night Dragon. It immediately begins to shed it's corrupted form, blossoming into a vibrant and healthy plant.",    ["minlevel"]="48",    ["questlevel"]="55"},
-
-	["4463"] = {    ["Title"]="Libram of Rumination",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="Present the components, mortal.$B$BI will also require payment in the form of thirty gold pieces for this creation.",    ["Completion"]="Take your trinket, fool. Leave me to my studies!",    ["minlevel"]="50",    ["questlevel"]="55"},
-
-	["4464"] = {    ["Title"]="Corrupted Songflower",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="You have found a sickly, corrupted version of what appears to be a songflower plant. A pungent, unhealthy odor emanates from the plant. It desperately needs some sort of attention if it is to be turned back to normal.",    ["Completion"]="You apply some Cenarion plant salve to the songflower. It immediately begins to shed its corrupted form, blossoming into a vibrant and healthy plant.",    ["minlevel"]="48",    ["questlevel"]="55"},
-
-	["4465"] = {    ["Title"]="Corrupted Songflower",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="You have found a sickly, corrupted version of what appears to be a songflower plant.  A pungent, unhealthy odor emanates from the plant.  It desperately needs some sort of attention if it is to be turned back to normal.",    ["Completion"]="You apply some Cenarion plant salve to the songflower. It immediately begins to shed its corrupted form, blossoming into a vibrant and healthy plant.",    ["minlevel"]="48",    ["questlevel"]="55"},
-
-	["4466"] = {    ["Title"]="Corrupted Windblossom",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="You have found a sickly, corrupted version of what appears to be a windblossom plant.  The berries that hang from the plant appear rotten and poisonous.  It desperately needs some sort of attention if it is to be turned back to normal.",    ["Completion"]="You apply two Cenarion plant salves to the windblossom.  It immediately begins to shed its corrupted form, blossoming into a vibrant and healthy plant.",    ["minlevel"]="48",    ["questlevel"]="55"},
-
-	["4467"] = {    ["Title"]="Corrupted Windblossom",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="You have found a sickly, corrupted version of what appears to be a windblossom plant. The berries that hang from the plant appear rotten and poisonous. It desperately needs some sort of attention if it is to be turned back to normal.",    ["Completion"]="You apply two Cenarion plant salves to the windblossom. It immediately begins to shed its corrupted form, blossoming into a vibrant and healthy plant.",    ["minlevel"]="48",    ["questlevel"]="55"},
-
-	["4481"] = {    ["Title"]="Libram of Constitution",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="There is a price to pay for all things in this world. The price for the specific item that you seek is thirty gold pieces.$B$BNaturally, I shall retain the majority of the components which you collected. But worry not, you shall have your trinket.",    ["Completion"]="It is disgrace to his memory... a mortal, such as yourself, finishing his life's work.$B$BTake your amalgamation and be gone!",    ["minlevel"]="50",    ["questlevel"]="55"},
-
-	["4482"] = {    ["Title"]="Libram of Tenacity",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="Thirty gold, $R. Thirty gold and the required components.",    ["Completion"]="It took Kariel what would amount to several of your lifetimes to complete the libram that you now hold, $R. All for what? So that his disciple could stand in the Burning Steppes and bastardize his research in order to satiate a never ending arcane craving... Curse this foul addiction.$B$BI am disgusted with your lack of compassion and insatiable greed. Be gone!",    ["minlevel"]="50",    ["questlevel"]="55"},
-
-	["4483"] = {    ["Title"]="Libram of Resilience",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="If it is resilience you desire, thirty gold I require.",    ["Completion"]="Other librams are lost in this world. Lost in places you would not dare enter. Places you would pray did not exist.$B$BI will drink in the energies of these components. You shall be given the residual waste...",    ["minlevel"]="50",    ["questlevel"]="55"},
-
-	["4484"] = {    ["Title"]="Libram of Voracity",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="Do not waste my time, $R. Give me what I require. Thirty gold and the components.",    ["Completion"]="My head throbs... The energies of the vast expanses that makes up our universe... ARGGH!$B$BTake what you desire and leave!",    ["minlevel"]="50",    ["questlevel"]="55"},
-
-	["4491"] = {    ["Title"]="A Little Help From My Friends",    ["Description"]="Ugh... It's so hot...$B$BI was exploring this area, when all of a sudden, the heat just became unbearable. I must be suffering from heat exhaustion.$B$BPlease, help me get back to my friend Spraggle at Marshal's Refuge. I think I'm well enough to follow you there.$B$BI am feeling a little out of it, so if I do happen to faint again, just splash some water on me from Spraggle's canteen. That should work, I hope...",    ["Objectives"]="Lead Ringo to Spraggle Frock at Marshal's Refuge.$B$BIf Ringo faints, use Spraggle's Canteen to revive him.",    ["Progress"]="I've been so worried about Ringo...",    ["Completion"]="Ringo's not in the best shape, $N, but I am glad to have him back in one piece!$B$BThank you for finding him.",    ["minlevel"]="50",    ["questlevel"]="55"},
-
-	["4492"] = {    ["Title"]="Lost!",    ["Description"]="You've got to help me, $N! My friend, Ringo left earlier to explore the volcano to the south of here, and he has been gone way too long. I am really worried about him.$B$BDo you think you could find him? Why don't you take my canteen with you -- if you do find Ringo, I'm sure he'll need it!",    ["Objectives"]="Find Ringo at Fire Plume Ridge.",    ["Progress"]="Wha... What?",    ["Completion"]="Oh... I'm so glad someone found me...",    ["minlevel"]="50",    ["questlevel"]="55"},
-
-	["4501"] = {    ["Title"]="Beware of Pterrordax",    ["Description"]="Wanted: A skilled fighter to deal with the threat of the Pterrordax that inhabit the Un'Goro Crater. Their numbers are growing, and they are becoming a menace to travelers in the area.$B$BDecrease the population by slaying 10 pterrordax and 15 frenzied pterrordax.$B$BSpeak with Spraggle Frock after completing the task for a reward.",    ["Objectives"]="Kill 10 Pterrordax and 15 Frenzied Pterrordax, then speak to Spraggle Frock at Marshal's Refuge.",    ["Progress"]="To tell you the truth, I really wasn't that worried about the strange creatures... Until the day that I saw it written on the side of a large stone.$B$BBEWARE OF PTERRORDAX$B$BWho could have written it? I don't know, but it's too creepy to just ignore!",    ["Completion"]="I am absolutely terrified of the pterrordax here! Thank you for decreasing their numbers, $N. Now I might feel safe enough to venture out of Marshal's Refuge.",    ["minlevel"]="49",    ["questlevel"]="55"},
-
-	["4502"] = {    ["Title"]="Volcanic Activity",    ["Description"]="Being an apprentice to Marvon Rivetseeker, I've learned so much. But he's been gone for such a long time now, so I think I'm going to work on some experiments of my own.$B$BI've been reading about Un'Goro Crater most recently, and about the strange volcanic activity going on in the middle of the crater. I think a lot could be learned if I could just get some of the ash from the elementals there.$B$BDo you think you'd mind collecting some for me, if you are going that way?",    ["Objectives"]="Collect 9 samples of Un'Goro Ash from the fire elementals around the volcano in Un'Goro Crater, and return them to Liv Rizzlefix in Ratchet.",    ["Progress"]="Is it true that the volcano in Un'Goro is active? I'm sure I could learn a lot with some ash from the volcano, $N.",    ["Completion"]="These samples will be perfect for my studies! Thank you, $N! I promise, you'll be the first one I will tell about my findings.",    ["minlevel"]="49",    ["questlevel"]="55"},
-
-	["4503"] = {    ["Title"]="Shizzle's Flyer",    ["Description"]="I'm making a flying machine!$B$BI got stranded here, and I'm absolutely horrible at finding my way around. I'd take a gryphon or wind rider back to Gadgetzan, but those beasts just scare me to death.$B$BSo, will you help me? All I have left to build is the wings, and I was thinking that the webby scales from the pterrordax and diemetradon would be perfect. There's no way I'm going to go up against one of those, but you look pretty tough. Why don't you give it a try?",    ["Objectives"]="Collect 8 Webbed Diemetradon Scales and 8 Webbed Pterrordax Scales for Shizzle in Marshal's Refuge.",    ["Progress"]="Every great vehicle needs a name... I was thinking I'd call it... Pwned!",    ["Completion"]="Yes, these scales are perfect. I should be able to get this flyer off the ground with these scales for sure!$B$BThanks!",    ["minlevel"]="49",    ["questlevel"]="51"},
-
-	["4505"] = {    ["Title"]="Well of Corruption",    ["Description"]="Some may say that I am exceptionally cruel... But truly, it is only a strong desire to see the Horde gain an advantage against the Alliance, in any way possible.$B$BMy newest interest is a moonwell at the Ruins of Constellas, south of here, tended by the Jadefire satyrs. The moonwell, once a symbol of renewal for the insufferable night elves, is now corrupted, and used to bring forth more satyrs.$B$BI have an idea, $N, and I'd like a sample of the water... for my little feline friend here.",    ["Objectives"]="Collect a sample of corrupted water from the Jadefire Satyrs' moonwell and bring it to Winna Hazzard at Bloodvenom Post.",    ["Progress"]="This is of utmost importance. Be on your way, now.",    ["Completion"]="Very well. We must find a way to use this corruption against our enemies...",    ["minlevel"]="49",    ["questlevel"]="54"},
-
-	["4506"] = {    ["Title"]="Corrupted Sabers",    ["Description"]="This corrupted water can be used to our advantage, $N. With just a small amount of the water, my kitten doubled in size, and seems to be stronger... somehow. These cats may prove useful...$B$BHere, $N. Take this cat carrier, and release the kitten inside next to the moon well in the Ruins of Constellas. Heh, heh... I'm sure you'll be pleased with the results!$B$BReturn the cat to me, and I'm sure I can make it worth your time.",    ["Objectives"]="Take Winna's kitten to the corrupted moon well, release it, then bring it back to Winna.$B$BOnce you have returned to Winna, click on the cat to release it to Winna.",    ["Progress"]="Don't tell me that you can't go back there! Get going!",    ["Completion"]="Excellent!$B$BThe forsaken will resort to any means necessary to crush the alliance! The use of the corrupted water will surely prove useful in our future efforts...",    ["minlevel"]="49",    ["questlevel"]="54"},
-
-	["4521"] = {    ["Title"]="Wild Guardians",    ["Description"]="Winterspring lies just beyond Timbermaw, northeast of Felwood. Have you been there?$B$BI have heard that the area is laden with creatures called wildkin. These beasts have been known to guard secrets; secrets of the Night elves.$B$BWe must figure out what may be hidden in Winterspring.$B$BI have heard the ragged owlbeasts can be found just south of the road, and that there are others called raging owlbeasts that may be found in the center of Winterspring. Clear them out, and gain access to the land.",    ["Objectives"]="Trull Failbane in Felwood wants you to kill 15 Raging Owlbeasts and 15 Ragged Owlbeasts.",    ["Progress"]="Report back to me after you have completed the task I gave you.",    ["Completion"]="This is excellent news, $N. With these beasts out of the way, we can begin to adventure further into Winterspring. Are you ready for more?",    ["minlevel"]="52",    ["questlevel"]="56"},
-
-	["4701"] = {    ["Title"]="Put Her Down",    ["Description"]="You have no doubt seen the worgs which the Blackrock orcs command.$B$BIt is curious - no matter how many we destroy, their numbers never dwindle. My scouts have reported that the worgs are bred, trained, and ultimately exported from Blackrock Spire: capital city of the Blackrock orcs. You must travel to Blackrock Spire and discover the source of this menace. Discover... and destroy.$B$BGood luck, $N. May Cenarius protect you...",    ["Objectives"]="Travel to Blackrock Spire and destroy the source of the worg menace. As you left Helendis, he shouted a name: Halycon. It is what the orcs refer to in regards to the worg.",    ["Progress"]="Have you discovered and dealt with the source of the worg menace?",    ["Completion"]="Do not dwell upon her suffering, $N. The beast was corrupt - a product of dark magic. You have done the Alliance a great service and you shall be rewarded.",    ["minlevel"]="55",    ["questlevel"]="59"},
-
-	["4721"] = {    ["Title"]="Wild Guardians",    ["Description"]="Runners have returned from Winterspring with reports that there is a series of small caves in the southern area of Winterspring. It seems that there are wildkin situated in the area around these caves. If there is something valuable that they are guarding, I believe that this is the place we will find it.$B$BYou will find these to be more of a challenge than the previous types, $N. The creatures seem to have gone mad from exposure to the very thing that they strive to protect.",    ["Objectives"]="Trull Failbane in Felwood wants you to hunt 10 Berserk Owlbeasts in Winterspring.",    ["Progress"]="You know your orders, $N.",    ["Completion"]="Hard work is something I have great respect for, $N. Now we can move forward with our plans for Winterspring.",    ["minlevel"]="52",    ["questlevel"]="59"},
-
-	["4724"] = {    ["Title"]="The Pack Mistress",    ["Description"]="Some say the worg controlled by the Blackrock orcs are the creation of a supernatural force. Others say they are not true worg but instead a breed of demon dog, granted to the orcs by a fallen pit lord.$B$BThe truth is far less contrived but every bit as frightening. The worg of Blackrock come from Halycon and her mate. Halycon is the gigantic den mother of the worg. Her mate? Nobody has ever lived to tell the tale of that one.$B$BStrike at the heart of the worg. Destroy Halycon... and $N, watch your back.",    ["Objectives"]="Slay Halycon, pack mistress of the Bloodaxe worg.",    ["Progress"]="With the pack mistress slain, we can begin to thin out the worg sentries of the Spire and eventually make some headway into the city.",    ["Completion"]="Rabid pups? Gizrul the Slavener? And you live to tell the tale?! Incredible! A tribute well earned!",    ["minlevel"]="55",    ["questlevel"]="59"},
-
-	["4726"] = {    ["Title"]="Broodling Essence",    ["Description"]="I have been studying the dragonkin of the Burning Steppes for weeks, and I think I've finally had a breakthrough!  I created a device--I call it the Draco Incarcinatrix 900.  It can capture the essence of dragon whelp broodlings!$B$BOr, at least I think it can.$B$BHere, take the device and zap a broodling in the Burning Steppes with it.  While it's under the device's effects, defeat the broodling and its essence should be released.$B$BIf it is, then splendid!  Bring me back samples so I can study them!",    ["Objectives"]="Bring 8 Broodling Essence and the Draco-Incarcinatrix 900 to Tinkee Steamboil at the Flame Crest in the Burning Steppes.",    ["Progress"]="Do you have the broodling essence, $N?  I can't wait to study it.$B$BAnd besides that... my patron is not the type of person you want to disappoint.",    ["Completion"]="It worked!  You got the essence!  Well done, $N!  Well done!$B$BThis essence will be invaluable in my research.  I hope to one day learn how to capture living dragons whelps, or perhaps capture their eggs.  If I could find a way to do that, then I would be the envy of dragon scholars around the world!$B$BMy employer would also be happy, and as I said before, he's someone you want to keep happy...",    ["minlevel"]="50",    ["questlevel"]="52"},
-
-	["4729"] = {    ["Title"]="Kibler's Exotic Pets",    ["Description"]="You're probably wondering what I'm doing out here. Look at the cages! Ain't it obvious?$B$BI'm an animal lover, first and foremost, but a salesman by trade. I track down exotic animals for the rich and famous and domesticate the beasts so they behave as proper pets.$B$BNow you're probably wondering, \"What can I do for you, Kibler.\" The answer is simple: Take this here beast cage and find me some worg pups. For that, I'll domesticate a worg for you!",    ["Objectives"]="Travel to Blackrock Spire and find Bloodaxe Worg Pups. Use the cage to carry the ferocious little beasts. Bring back a Caged Worg Pup to Kibler.",    ["Progress"]="<Kibler is busy arguing with Opus.>",    ["Completion"]="You got 'em at the perfect time, $N. Any later and they'd be untrainable! Gimmie a minute and I'll have the little fella ready for you to take home.",    ["minlevel"]="55",    ["questlevel"]="59"},
-
-	["4734"] = {    ["Title"]="Egg Freezing",    ["Description"]="$N, I've been working hard on a new device, the eggscilloscope!  It's designed to project a burst of cold energy at the egg of a black dragon... and freeze it solid!  Can you test it for me?$B$BI heard that high up in Blackrock Spire, the dragons have a rookery where they hatch their eggs.  That's where you'll have to go to test the eggscilloscope, and then let me know how it worked!$B$BAnd don't worry.  Frozen dragon eggs should be harmless.  It's the unfrozen ones you have to worry about!",    ["Objectives"]="Use the Eggscilloscope Prototype on an egg in the Rookery.",    ["Progress"]="$N, did you test the eggscilloscope?",    ["Completion"]="It worked? Splendid! I knew it would!$B$BWhile you were gone I was working on a new version of the eggscilloscope. This one has a much longer range.$B$BHere, you can have one in case you go back to Blackrock Spire.",    ["minlevel"]="57",    ["questlevel"]="60"},
-
-	["4735"] = {    ["Title"]="Egg Collection",    ["Description"]="$N, I'm finally ready for real samples of dragon eggs!  Here, take this collectronic module.  It's designed to extract a dragon egg and prepare it for transport.  Go back to the Rookery and use the module to collect eggs.$B$BAnd don't forget to freeze them first, or they might hatch before you can collect them!$B$BWhen you have enough eggs, bring them to me!",    ["Objectives"]="Bring 8 Collected Dragon Eggs and the Collectronic Module to Tinkee Steamboil at Flame Crest in the Burning Steppes.",    ["Progress"]="Do you have the eggs, $N?  My patron heard you were collecting them for me, and is very eager to get his hands on them!",    ["Completion"]="Wow, you got them! The collectronic module worked! I'm a genius!$B$BThank you, $N. My patron will be very pleased to get these eggs...",    ["minlevel"]="57",    ["questlevel"]="60"},
-
-	["4741"] = {    ["Title"]="Wild Guardians",    ["Description"]="In the northern areas of Winterspring, the Wildkin grow even more ferocious. We must continue our measures there.$B$BHunt the moontouched owlbeasts in Winterspring, and explore the area they inhabit.$B$BThis is dangerous ground, but I know that you will be able to handle the challenge. Return to me after you have slain 13 of the wildkin.",    ["Objectives"]="Trull Failbane in Felwood wants you to hunt 13 Moontouched Owlbeasts.",    ["Progress"]="Don't tell me that you're too scared! Get going!",    ["Completion"]="I sense that you are enjoying your work. And I believe that we are onto something here.",    ["minlevel"]="52",    ["questlevel"]="58"},
-
-	["4742"] = {    ["Title"]="Seal of Ascension",    ["Description"]="As you can see, the unadorned seal has three empty sockets. Each of those sockets must be filled with a gemstone representing the leadership's command. Finally, Overlord Wyrmthalak, master of the lower citadel, must forge the seal in the flames of the Black Dragonflight.$B$BUnderstand this, mortal: the chance that one of the three generals of the lower citadel would carry a gemstone at any given time is rare. You must be vigilant in your quest. Remain determined!",    ["Objectives"]="Find the three gemstones of command: The Gemstone of Smolderthorn, Gemstone of Spirestone, and Gemstone of Bloodaxe. Return them, along with the Unadorned Seal of Ascension, to Vaelan.$B$BThe Generals, as told to you by Vaelan, are: War Master Voone of the Smolderthorn; Highlord Omokk of the Spirestone; and Overlord Wyrmthalak  of the Bloodaxe.",    ["Progress"]="Courage and patience above all else, $N!",    ["Completion"]="<Vaelan's image blurs for a moment.>$B$B<The pieces that you had collected have disappeared.>$B$BThe Unforged Seal of Ascension is now ready. It is time for the final step.",    ["minlevel"]="57",    ["questlevel"]="60"},
-
-	["4743"] = {    ["Title"]="Seal of Ascension",    ["Description"]="Few of the black dragonkin, outside of those in the upper citadel, have the ability to forge the seal with their own flaming breath. Wyrmthalak is one such dragonkin, but his will is unbreakable.$B$BYou must travel to the Wyrmbog in Dustwallow Marsh. It is there that you will find an ancient drake known as Emberstrife. You must break his will, $N. Break it and use this orb on his weakened form. You will have scant seconds to control his mind and fan the flames that will forge the seal.",    ["Objectives"]="Travel to the Wyrmbog in Dustwallow Marsh. Find the ancient drake, Emberstrife and beat him without mercy until his will is broken.$B$BIt is at that moment which you must place the Unforged Seal of Ascension before the great beast. You must then be quick to use the Orb of Draconic Energy on his weakened form and claim dominion over his mental faculties. Control the beast and force the Flames of the Black Dragonflight upon the Unforged Seal of Ascension!",    ["Progress"]="Waste no time, $N. Nefarian works feverishly to unleash his evil upon our world.",    ["Completion"]="Stand steady while I cast the final invocation of protection.$B$B<Vaelan's eyes turn to twin orbs of flame.>$B$BThe Seal of Ascension is complete...$B$BKnow this, I have imbued the artifact with some powerful protective wards. In your darkest hour, when all appears to be lost, the might of the red flight will be at your disposal.",    ["minlevel"]="57",    ["questlevel"]="60"},
-
-	["4764"] = {    ["Title"]="Doomrigger's Clasp",    ["Description"]="There is a chamber, high in Blackrock Spire, that was once called the Hall of Fortune.  It was where the Dark Iron dwarves kept their relics, trophies and objects of art.$B$BThat was long ago.  It is said the hall has collapsed and is now used for... less savory tasks.  But I believe some old dwarven relics may still be found there.$B$BOne such relic is Doomrigger's clasp, with a surface so encrusted with rare gems that it was said to make weep any dwarf who gazes upon it.$B$BThat clasp, $N, is your goal.",    ["Objectives"]="Bring Doomrigger's Clasp to Mayara Brightwing in the Burning Steppes.",    ["Progress"]="Do you have the clasp, $N?  My patron will pay very handsomely for it.",    ["Completion"]="You found it! So the rumors were true!$B$BThank you, $N. My patron, Count Remington Ridgewell, will be quite pleased to see this addition to this collection.",    ["minlevel"]="57",    ["questlevel"]="60"},
-
-	["4765"] = {    ["Title"]="Delivery to Ridgewell",    ["Description"]="I have packaged Doomriggers Clasp into a crate, suitable for shipment to Stormwind.  $N, you have been extremely helpful -- can I ask you for one last favor?$B$BDeliver the crate to Count Remington Ridgewell.  You will find him in the Keep of Stormwind.  I am sure he'll be very pleased to see what you have for him.",    ["Objectives"]="Bring Ridgewell's Crate to Remington Ridgewell in Stormwind.",    ["Progress"]="I was told a messenger would come. One with a gift from Blackrock Spire.$B$BAre you he?",    ["Completion"]="Ah, so you are he! You have my thanks, $N. And... if you didn't already know... the gratitude of a noble in the house of Ridgewell is nigh worth a king's ransom.",    ["minlevel"]="57",    ["questlevel"]="60"},
-
-	["4766"] = {    ["Title"]="Mayara Brightwing",    ["Description"]="An agent of mine, Mayara Brightwing, was sent to the Burning Steppes to scout the ruined city of Thaurissan.  That destroyed city of the Dark Iron dwarves may hide objects of great value... objects that would fit nicely into our family museum.$B$BMayara says she found something and will need aid in retrieving it, but it is not in Thaurissan.  Instead, a foray into Blackrock Spire will be required.$B$BI do not know the details, but if interested then speak with Mayara in the Burning Steppes.",    ["Objectives"]="Speak with Mayara Brightwing in the Burning Steppes.",    ["Progress"]="",    ["Completion"]="You came from Stormwind? Wonderful -- I know of an object of art that Remington would kill to have in his museum, but extracting it won't be easy.$B$BThat's where you come in.",    ["minlevel"]="57",    ["questlevel"]="60"},
-
-	["4768"] = {    ["Title"]="The Darkstone Tablet",    ["Description"]="The Darkstone Tablet holds the writings of the long-dead dwarf Urheld Darkstone.  An alchemist of great skill, he was thought insane by his contemporaries and, hence, did not share his research.$B$BBut he did etch it onto tablets, and I believe one such tablet lies in Blackrock Spire, in a chamber once named the Hall of Fortune.  I know not what it is now called, for few enter Blackrock and return.$B$BBut if you are willing to brave its dangers and return to me with the tablet, your reward will be great.",    ["Objectives"]="Bring the Darkstone Tablet to Shadow Mage Vivian Lagrave in Kargath.",    ["Progress"]="Have you found the Tablet, $N?  I yearn to delve into its secrets.",    ["Completion"]="Excellent. The formulae etched into this tablet will consume days of research, but I am confident such research will bear sweet fruit.$B$BThank you, $N. You have been invaluable to us.",    ["minlevel"]="57",    ["questlevel"]="60"},
-
-	["4769"] = {    ["Title"]="Vivian Lagrave and the Darkstone Tablet",    ["Description"]="Vivian Lagrave sent me word from Kargath, in the Badlands.  Through her studies, she believes there is an ancient text within Blackrock Spire that would benefit our research.  To confirm this, she will need someone to extract the text from the spire.  No easy task.$B$BIf interested, then speak with Vivian in Kargath.",    ["Objectives"]="Speak with Shadowmage Vivian Lagrave.",    ["Progress"]="",    ["Completion"]="It is true. I believe there is a tablet held within Blackrock Spire, a tablet that contains old alchemical recipes. I am glad you are here, for I need help in retrieving the tablet.$B$BMake yourself comfortable, and I will explain further.",    ["minlevel"]="57",    ["questlevel"]="60"},
-
-	["4771"] = {    ["Title"]="Dawn's Gambit",    ["Description"]="I've placed Dawn's Gambit in the container you brought to us, the one that held the dragon eggs.  Your job is to bring it deep within the Scholomance.$B$BThe undead mage Vectus leads a team of scourge scholars... place Dawn's Gambit in their chamber, called the \"viewing room.\"  It will then react with the undead found there and, with a little luck, destroy them!$B$BAfter that, defeating Vectus shouldn't be a problem.  Right?",    ["Objectives"]="Place Dawn's Gambit in the Viewing Room of the Scholomance.  Defeat Vectus, then return to Betina Bigglezink.",    ["Progress"]="Remember, $N - we must be tolerant yet rigid in our beliefs!",    ["Completion"]="You did it! Vectus is defeated! And Dawn's Gambit... did it work?$B$BHm... maybe my device wasn't the success I had hoped, but I'm glad you were able to handle things anyway. Well done, $N!$B$BThe Argent Dawn, and the good people of Azeroth, are in your debt.",    ["minlevel"]="57",    ["questlevel"]="60"},
-
-	["4787"] = {    ["Title"]="The Ancient Egg",    ["Description"]="The Prophecy of Mosh'aru speaks of an ancient egg.  It is a relic of a time when trolls ruled vast empires, and it has the power to hold the essence of Hakkar.  It may be the only way to keep our world safe from his evil.$B$BBring me the ancient egg, $N.  It is said to lay hidden deep within Jintha'Alor in the Hinterlands, in a cave behind the amphitheater at the top of the city.",    ["Objectives"]="Bring the Ancient Egg to Yeh'kinya in Tanaris.",    ["Progress"]="Do you have the ancient egg? I sense great forces stirring, and I fear that time grows short.",    ["Completion"]="Ah, you have the egg! I bow to you, $N. Your strength and bravery will be long remembered.",    ["minlevel"]="40",    ["questlevel"]="50"},
-
-	["4788"] = {    ["Title"]="The Final Tablets",    ["Description"]="While I look over the third and fourth tablets of Mosh'aru, you must find the fifth and sixth!  It will not be easy, for they are held by the Smolderthorn trolls within Blackrock Spire.  The spire is a dark mountain of fire between the Burning Steppes and the Searing Gorge.$B$BGood luck, $N.  Blackrock Spire is no place for decent folk...",    ["Objectives"]="Bring the Fifth and Sixth Mosh'aru Tablets to Prospector Ironboot in Tanaris.",    ["Progress"]="Have you been to the spire, $N? Do you have the fifth and sixth tables?",    ["Completion"]="Unbelievable!  You found them!  You truly are a hero, $N!$B$BThat's a good thing, because I've been reading the tablets you brought me before, and from what I gathered... we're going to need a hero to stop what's coming...",    ["minlevel"]="40",    ["questlevel"]="58"},
-
-	["4808"] = {    ["Title"]="Felnok Steelspring",    ["Description"]="I have another favor to ask of you.$B$BMy initial study of the essence you collected shows that it might be possible to freeze dragon whelp eggs and preserve them!  I want to test this theory, but first I need specially made engineering components.  My colleague, Felnok Steelspring, can make them.$B$BHere, take this letter to Felnok.  It tells him what I need.  You'll find Felnok in Winterspring, in the town of Everlook.",    ["Objectives"]="Give Tinkee's Letter to Felnok Steelspring.",    ["Progress"]="It's cold up here!  I hope you brought me a blanket!",    ["Completion"]="That's no blanket! But what have we here? I letter from Tinkee? I wonder what she has to say...$B$BAh, she's studying in the Burning Steppes. That makes sense--that's a good source for dragonkin. Oh, but look! It says here that she needs some parts for a device she wants to build. I guess that's where I come in, eh?",    ["minlevel"]="50",    ["questlevel"]="54"},
-
-	["4809"] = {    ["Title"]="Chillwind Horns",    ["Description"]="I have most of what Tinkee needs, but I'm missing one important component, and that's chillwind horns.  The horns of the chillwind chimaera in Winterspring are a concentrated source of cold, but only pristine, uncracked horns will do!  I'll need a supply of those to complete Tinkee's order.$B$BBring me the uncracked chillwind horns, and I'll prepare a package for Tinkee.",    ["Objectives"]="Bring 8 Uncracked Chillwind Horns to Felnok Steelspring.",    ["Progress"]="Do you have the chillwind horns, $N?",    ["Completion"]="These are good specimens. They're packed with cold! Let me get some gloves on, then pack them along with the other things Tinkee needs...",    ["minlevel"]="50",    ["questlevel"]="54"},
-
-	["4810"] = {    ["Title"]="Return to Tinkee",    ["Description"]="Ok, everything is prepared and packed and ready for transport!  Good luck in your journey, and make sure you tell Tinkee that she owes me!",    ["Objectives"]="Bring Felnok's Package to Tinkee Steamboil in the Burning Steppes.",    ["Progress"]="$N! Did you talk to Felnok? Did you bring the components I need?",    ["Completion"]="You brought them! Great! I'll get to work right away! Thanks a ton, $N!$B$BYou've been so helpful to me, I might need you for even more important tasks later...",    ["minlevel"]="50",    ["questlevel"]="54"},
-
-	["4822"] = {    ["Title"]="You Scream, I Scream...",    ["Description"]="ICE CREAM!  Oh please please please could you get me some ice cream?!  Strawberry is my favorite flavor, and there's no better strawberry ice cream in the world than Tigule and Foror's Strawberry Ice Cream!  It's my favorite ice cream in the whole wide world!$B$BI had it once a long time ago when I was at the Shimmering Flats race track, but I heard that they might be selling them in town now!  Please?  Pretty please?  With Tigule and Foror's Strawberry Ice Cream on top??!?!",    ["Objectives"]="Get some Strawberry Ice Cream for your ward.  The lad seems to prefer Tigule and Foror's brand ice cream.",    ["Progress"]="I wish they'd make more flavors of ice cream other than strawberry, but I guess I'm lucky that strawberry is my favorite!",    ["Completion"]="Mmmmmmmmm! I love their strawberry ice cream! If there's one thing Tigule and Foror know to do, it's make ice cream!$B$BThank you very much $N - this is the best treat ever!",    ["minlevel"]="10",    ["questlevel"]="60"},
-
-	["4842"] = {    ["Title"]="Strange Sources",    ["Description"]="To tell you the truth, although there are no volcanoes here in Winterspring, I believe that there are far more threatening reasons for these hot springs...$B$BWell, I think you'll want to see it for yourself. You'll need to travel the length of Winterspring, and head to the very south. When the air becomes thick and muggy, and the sky turns dark, you'll have found what I believe to be the source of the hot springs.$B$BHave a look. I'm sure you'll have many questions when you return.",    ["Objectives"]="Follow Donova Snowden's instructions, then report back.",    ["Progress"]="The water in the springs seems to have some very odd properties... I am still unsure of what it means...",    ["Completion"]="Yes, the demons there in Darkwhisper Gorge; I believe it is their presence that is affecting the land in this way. I am going to continue observing the hot springs here and see if I learn anything more.$B$BI'd wait until you are a bit stronger if you have plans of heading farther into Darkwhisper Gorge.",    ["minlevel"]="51",    ["questlevel"]="56"},
-
-	["4861"] = {    ["Title"]="Enraged Wildkin",    ["Description"]="Hey there, $Glad:lass;! I was chased from my camp in southern Winterspring by some bloodthirsty wildkin! Well, I suppose I got too close to something the wildkin were guarding.$B$BI barely managed to get away safely; I fear a buddy of mine wasn't as lucky. Would you mind braving the wildkin and heading to the camp? I really need my supplies, and I'd also like to get back the amulet I unearthed yesterday at the dig site.",    ["Objectives"]="Locate Jaron Stoneshaper's wrecked camp and supplies in southern Winterspring.",    ["Progress"]="",    ["Completion"]="A severely damaged crate stands out among the rest of the destroyed belongings at the camp...",    ["minlevel"]="53",    ["questlevel"]="59"},
-
-	["4862"] = {    ["Title"]="En-Ay-Es-Tee-Why",    ["Description"]="Believe it or not, there are people out there willing to pay for the most vile of domesticated beast!$B$BI'd sent Bijou into the Spire to try and collect some of those spire spider eggs but I haven't heard from her in weeks. Maybe you can help me out?$B$BI'll tell you what, $N. Go to Blackrock Spire and collect some spire spider eggs for me. Bring them back here and not only will I give you a little cash, but I'll even domesticate one for you!",    ["Objectives"]="Travel to Blackrock Spire and collect 15 Spire Spider Eggs for Kibler.$B$BBy the sound of it, these eggs could be found near spiders.",    ["Progress"]="Are those spider eggs in your pack or are you just happy to see me?",    ["Completion"]="What a load! I mean, look at all those eggs! These should bring in a right few gold.$B$BAs promised, here's your own little critter. Don't get bitten!",    ["minlevel"]="55",    ["questlevel"]="59"},
-
-	["4863"] = {    ["Title"]="Enraged Wildkin",    ["Description"]="Looking around, you don't see much that Jaron could want here. However, you do notice that the crate you found has been smashed open, almost as if this was what the wildkin were after...$B$BLooking to the east, you can barely make out an abandoned wagon. Perhaps you might find Jaron's things there. It's worth a look.",    ["Objectives"]="Find Jaron Stoneshaper's wrecked wagon.",    ["Progress"]="",    ["Completion"]="Approaching the wagon, it doesn't appear that there is much more here for Jaron. But, looking on the ground, you notice some crates that look undamaged, despite being half-buried in the snow.",    ["minlevel"]="53",    ["questlevel"]="59"},
-
-	["4864"] = {    ["Title"]="Enraged Wildkin",    ["Description"]="After inspecting the contents of the box, you decide that Jaron could make use of the tools and other items inside. However, there is no sign of the amulet.$B$BIt appears that the wildkin inhabit the lands to the north and east of here, so you decide that the next step is to face the creatures and reclaim the amulet from them.",    ["Objectives"]="Pick up Jaron's Supplies from the snow, then find the wildkin that stole the amulet Jaron spoke of.$B$BBring Jaron's Supplies and the Blue-feathered Amulet to Jaron Stoneshaper at the lodge in Winterspring.",    ["Progress"]="Aye... Tell me the news.",    ["Completion"]="Well, I expected to hear as much, lad. I figured that the crazed beasts destroyed all of my belongings...$B$BBut you did find my tools, and most importantly, the amulet! I wonder why the wildkin so fiercely defended this item... In any case, I'll think twice before heading their way again!",    ["minlevel"]="53",    ["questlevel"]="59"},
-
-	["4866"] = {    ["Title"]="Mother's Milk",    ["Description"]="It's probably one of the most potent poisons in the world, $r!$B$BI've overheard the Blackrock speaking about its lethality in my jaunts into the Spire. They call it 'Mother's Milk', named after Mother Smolderweb, the big nasty spider in the Skitterweb cave.$B$BNow here's what I need from you: A live sample of the Milk, flowing through YOUR veins. Just bringing me the gland won't be enough! Get her to poison you and come back to me!$B$BThen... I get to milk ya!$B$B<Rubs his hands together in anticipation.>",    ["Objectives"]="In the heart of Blackrock Spire you will find Mother Smolderweb. Engage her and get her to poison you. Chances are good that you will have to kill her as well. Return to Ragged John when you are poisoned so that he can 'milk' you.",    ["Progress"]="<Ragged John pinches you.>",    ["Completion"]="This is gonna make the best ale yet!$B$BEh, what did you think I was gonna use this for? Poison or something??$B$BCrazy kids...",    ["minlevel"]="55",    ["questlevel"]="60"},
-
-	["4867"] = {    ["Title"]="Urok Doomhowl",    ["Description"]="Argh!  So hard to speak!$B$BTake this note!  Get me my mojo!",    ["Objectives"]="Read Warosh's Scroll.  Bring Warosh's Mojo to Warosh.",    ["Progress"]="Ah!  Do you have my mojo?",    ["Completion"]="Aha!  I can already feel my powers returning to me.  And my mind is no longer wracked by Urok's curse.$B$BThank you, $N!  Humility is below me, but I must acknowledge your aid.$B$BAnd I bid you fortune in your journeys through Blackrock Spire.  You are a fool to think you could make your way to the top, but your bravery is without question.",    ["minlevel"]="55",    ["questlevel"]="60"},
-
-	["4882"] = {    ["Title"]="Guarding Secrets",    ["Description"]="You are unsure of the significance of the necklace that fell from the neck of the recently-slain wildkin. It glows brightly, slowly fading in and out.$B$BTrull Failbane might be able to tell you more, since his knowledge of the wildkin seems extensive. Perhaps you should ask him about it.",    ["Objectives"]="Take the Blue-feathered Necklace to Trull Failbane at Bloodvenom Post.",    ["Progress"]="Reporting for another assignment?",    ["Completion"]="An important discovery?",    ["minlevel"]="52",    ["questlevel"]="59"},
-
-	["4883"] = {    ["Title"]="Guarding Secrets",    ["Description"]="While I do possess much knowledge about the owlbeasts you defeated in Winterspring, I am not very learned on the subject of the magics they wield. But I do believe I know of one that would be able to examine the necklace and most likely tell you what it is.$B$BNara Wildmane in Thunder Bluff is an expert in this field; see her. Good luck, $N.",    ["Objectives"]="Take the Blue-feathered Necklace to Nara Wildmane.",    ["Progress"]="How may I help you, $N?",    ["Completion"]="The energy of this necklace, $N. I believe that it has only one source.$B$B<Nara closes her eyes and is quiet for a moment.>$B$BThe wildkin, now misguided and confused, were once not so. They once had a purpose, and were guided to serve. The night elf goddess Elune created these creatures to guard her most sacred areas.$B$BWhile this fact may seem like it holds little value; I urge you to look deeper.$B$BYou will learn, in time. Thank you for bringing this to me, $N.",    ["minlevel"]="52",    ["questlevel"]="59"},
-
-	["4901"] = {    ["Title"]="Guardians of the Altar",    ["Description"]="At the very top of the ridge lies what I believe to be an altar of the goddess Elune. From what I can tell, we need to light the five torches in each cave, and then we will be able to access the altar directly.$B$BI transcribed some incantations carved into the stone in the ancient ruins of Kel'Theril, which I believe are the secret to unlocking the altar. I'll need your help to light each torch, while I recite the spell.$B$BIf we are successful, you'll be able to report our findings to Erelas!",    ["Objectives"]="Protect Ranshalla while she attempts to reactivate the Altar of Elune. Report your findings to Erelas Ambersky in Rut'theran Village.",    ["Progress"]="",    ["Completion"]="Did you meet up with Ranshalla?",    ["minlevel"]="52",    ["questlevel"]="59"},
-
-	["4902"] = {    ["Title"]="Wildkin of Elune",    ["Description"]="That's fascinating!$B$BI have always wondered about the truth... Well, you must share this knowledge, definitely! Go to Arch Druid Fandral Staghelm right away -- you'll find him in Darnassus, in the Cenarion Circle. Explain to him what happened, just the same as you told me. I'm sure he will be just as interested!$B$BThis is important information, $N!",    ["Objectives"]="Speak with Arch Druid Fandral Staghelm in Darnassus.",    ["Progress"]="",    ["Completion"]="Do not hesitate; tell me why you have come.$B$BOh, yes? Hmm. Well.$B$BThank you for bringing this straight to me; it is always best to go right to the top... But... Yes. The druids of the Cenarion Circle have known of the Wildkin for some time. That they are pets of Elune, and were chosen to guard the most sacred of places.$B$BSo while this isn't news, I definitely compliment you on your effort. Here, take this -- it is something that seems suitable for such a deed.",    ["minlevel"]="52",    ["questlevel"]="57"},
-
-	["4903"] = {    ["Title"]="Warlord's Command",    ["Description"]="By order of Warlord Goretooth, the following inhabitants of Blackrock Spire must be destroyed:$B$BThe rotund menace, Highlord Omokk.$B$BThe cruel and ruthless troll, War Master Voone.$B$BOverlord Wyrmthalak, taskmaster of the lesser city.$B$BYou will also be required to return any important documents that you may find.$B$BSucceed and be honored.$B$BFail and be forgotten.",    ["Objectives"]="Slay Highlord Omokk, War Master Voone, and Overlord Wyrmthalak. Recover Important Blackrock Documents. Return to Warlord Goretooth in Kargath when the mission has been accomplished.",    ["Progress"]="<Warlord Goretooth salutes.>",    ["Completion"]="<Warlord Goretooth's dull green skin turns a pasty white for a brief moment.>",    ["minlevel"]="55",    ["questlevel"]="60"},
-
-	["4906"] = {    ["Title"]="Further Corruption",    ["Description"]="A second encampment of satyrs threatens the land of Felwood towards the north, led by the cruel Xavaric. The vile betrayers and tricksters feed upon the corruption of the native creatures of Felwood.$B$BXavathras and his minions were only part of a larger plan -- to cultivate a corrupted moonwell, and then provide the spoils to Xavaric.$B$BNow that Xavathras is out of the way, finish this task, $N. Head to the north and defeat Xavaric.",    ["Objectives"]="Eridan Bluewind in Felwood wants you to kill 8 Jadefire Hellcallers, 8 Jadefire Betrayers, 8 Jadefire Tricksters, and Xavaric. Return to Eridan when the task is completed.",    ["Progress"]="Please, put and end to the suffering of Felwood's creatures.",    ["Completion"]="Thank you for all you have done, $N. May Elune protect you and guide you on the path ahead.",    ["minlevel"]="49",    ["questlevel"]="54"},
-
-	["4907"] = {    ["Title"]="Tinkee Steamboil",    ["Description"]="Hi, $N.  Remember Tinkee Steamboil?  Well, she remembers you!  She sent me a message to keep an eye out for you, because... she needs your help again.  I think it has something to do with her studies on dragons.$B$BYou should speak to her in the Burning Steppes, at the Flame Crest.",    ["Objectives"]="Speak with Tinkee Steamboil.",    ["Progress"]="",    ["Completion"]="Felnok was right! I do need your help again, and this time... it's going to be really dangerous.$B$BAre you ready??",    ["minlevel"]="57",    ["questlevel"]="60"},
-
-	["4970"] = {    ["Title"]="Frostsaber Provisions",    ["Description"]="If you wish to prove yourself, you may begin by doing a very simple, but very important task.$B$BGather meat from the chimaera and from the shardtooth bears in the area. Bring it to me so that I may use it to feed the frostsabers that are being trained.",    ["Objectives"]="Collect 5 Shardtooth Meats and 5 Chillwind Meats for Rivern Frostwind in Winterspring.",    ["Progress"]="Discipline and determination are your goals. I may ask you to do a simple task many times; you must perform to the best of your ability each time.",    ["Completion"]="Thank you for assisting me, $N. My opinion of you grows as time passes.",    ["minlevel"]="58",    ["questlevel"]="60"},
-
-	["4971"] = {    ["Title"]="A Matter of Time",    ["Description"]="Tampering of the timeline by a sinister force - most likely the Scourge - has occurred in Andorhal!  I can try to keep the passage of time here intact and mend what has been damaged, but I'll need your help to do so uninterrupted.$B$BTemporal parasites - carrion that feed on the strands of time's altered flow - now infest the silos of Andorhal.  A blue pulse of distortion is their only visual marker.  They slow my auguries; please $N, help me by using this temporal displacer to root out these parasites.",    ["Objectives"]="Use the Temporal Displacer near one of Andorhal's silos and uncover Temporal Parasites.$B$BSlay 15 Temporal Parasites, and then return the Temporal Displacer to Chromie in the Andorhal Inn, Western Plaguelands.",    ["Progress"]="Temporal parasites are a common malady present wherever the flow of time has been tampered with.  I sense that many are present, and this is disturbing.$B$BRooting out whatever ones you can find will help me be able to take a better hold on the deteriorating temporal situation here.  I will be able to sense when this has been achieved.",    ["Completion"]="Time feels easier to mend now, thank you $N.  While you might not understand fully the consequences of a fractured timeline, I appreciate that you understand the urgency of countering what I suspect more and more to be a Scourge-driven malfeasance.$B$BI see no harm in rewarding you for your assistance, mortal.  Your greatest feats are to come, and the awarding of a bauble will certainly not alter your future destiny.  Your continued aid, however, is something that I and the dragonflight could use...",    ["minlevel"]="53",    ["questlevel"]="56"},
-
-	["4972"] = {    ["Title"]="Counting Out Time",    ["Description"]="I need you to reach into the world beyond this room, $N.  Allow me to explain.$B$BYou see the difference in this room compared to the rest of Andorhal.  My dragonflight works in many different ways and in many different timelines.  To mend Andorhal's damage, I now act from a different timeline as not to overly contaminate it.  To continue this though I need time trinkets, ones trapped from when the plague hit.  Find them in lockboxes found in the ruined buildings that make up this once proud city.",    ["Objectives"]="Locate 5 Andorhal Watches, found in lockboxes amongst the rubble of the city.  Return with them to Chromie in the Andorhal Inn, Western Plaguelands.",    ["Progress"]="The time trinkets I seek are simple devices.  They are watches mainly, and their hands are trapped forever when the plague first ravaged Andorhal.$B$BTime is never ending, and the watches you bring to me will invariably find themselves counted out back to their homes... that is, so long as the disturbances continue here.",    ["Completion"]="These are exactly what I need, $N.  Thank you.$B$BAllow me to suitably reward you with this.  You may not understand what you would need with such a device.  You might not even know quite what it really is.  Alas, I cannot tell you when you will find it most useful; just know that at some point in the future, you may find this item to have extreme utility and function when consumed.  Whether or not you choose to hold on to it until then... this, my friend, is up to you.",    ["minlevel"]="53",    ["questlevel"]="56"},
-
-	["4973"] = {    ["Title"]="Counting Out Time",    ["Description"]="If you are willing to help once more, I can certainly use your assistance.  I'll gladly take more watches you might uncover from the ruins of Andorhal.  They certainly help me in maintaining a balance against whatever malign force is meddling with the timeline here.$B$BIn exchange for those watches, I'll give you another item that, in the future, I suspect you'll find quite the use for.",    ["Objectives"]="Locate 5 Andorhal Watches amongst the rubble of the city, and return with them to Chromie in the Andorhal Inn, Western Plaguelands.",    ["Progress"]="The watches of Andorhal, much like the large clock on the ruins of the town hall, all are frozen in time at three o'clock.  This was when the full effects of the plague first spread out over the city, choking the life out of it.$B$BAs much as we all may regret what happened that day, it has shaped the flow of time as you mortals perceive it.  The bronze dragonflight must persevere in protecting the timeline!",    ["Completion"]="Again, I thank you for your assistance.  Please accept this gift.  While you still may not know when to use such an item, perhaps in the future the path of time will reveal its true intentions to you.  You could say that I've seen as such happening to you, $N.",    ["minlevel"]="53",    ["questlevel"]="56"},
-
-	["4974"] = {    ["Title"]="For The Horde!",    ["Description"]="Rend dares make such grand claims because of the protection he is afforded by the black flight.$B$BYou, $N, will find a way to pass through the Halls of Ascension. You will then find 'Warchief' Rend Blackhand and you will destroy him - FOR THE HORDE!$B$B<Thrall slams a fist down upon his throne.>$B$BThe next time you return to my chambers, you will hold his head high in triumph and then you shall present it to your Warchief. Do this and be honored as a hero of the Horde.",    ["Objectives"]="Travel to Blackrock Spire and slay Warchief Rend Blackhand. Take his head and return to Orgrimmar.",    ["Progress"]="<Thrall grunts.>",    ["Completion"]="You have dealt a crippling blow to the forces of Blackrock, $N. With their Warchief slain, the Blackrock legion is once again thrown into the maw of chaos.$B$BIn honor of your heroics, the people of Kalimdor shall be rewarded!",    ["minlevel"]="55",    ["questlevel"]="60"},
-
-	["4981"] = {    ["Title"]="Operative Bijou",    ["Description"]="Never trust a goblin. That's what it comes down to, $N.$B$BBijou is her name - one of our slipperiest operatives. I found out she was working for some shady exotic pet dealer out of the Burning Steppes named Kibler, in essence, two timing us. Worse yet, she was using Horde funds to finance her operations.$B$BI want her brought back here alive.$B$BShe was last seen entering Blackrock Spire. Find her and bring her back.$B$BAnd $N, do not let her sweet talk you.",    ["Objectives"]="Travel to Blackrock Spire and find out what happened to Bijou.",    ["Progress"]="",    ["Completion"]="I won't lie to you, $R. I needed the money! Kibler pays very, very well - much better than the K.E.F. ever could.$B$BBut don't doubt my loyalties! Why do you think I'm down here? To get that crazy goblin some exotic animal eggs or something equally inane? No, only someone truly daft would come to Blackrock Spire to collect pets. Yep, I don't reckon too many people like that exist in this world.$B$B<Bijou laughs.>$B$BThe last thing we need are those kinds of people breeding.",    ["minlevel"]="55",    ["questlevel"]="59"},
-
-	["4982"] = {    ["Title"]="Bijou's Belongings",    ["Description"]="At night when this place is lightly guarded, I sneak around the city, taking notes and writing down anything I see that could be of some strategic value to the K.E.F.$B$BLast night, however, things went dreadfully wrong. I stumbled across a tripwire and set off an alarm. I stashed my recon gear and ran for cover! Unfortunately, I can't get back to that gear. They've doubled and tripled up the patrols! All that information is lost.$B$BGet my belongings back and I'll return to the K.E.F. peacefully.",    ["Objectives"]="Find Bijou's Belongings and return them to her. You recall her mentioning that she stashed them on the bottom floor of the city.",    ["Progress"]="Any luck?",    ["Completion"]="You've done it! Once Lexlort has these plans, he'll forget all about the nasty things he wanted to do to me.$B$B$N, you're my hero!",    ["minlevel"]="55",    ["questlevel"]="59"},
-
-	["4983"] = {    ["Title"]="Bijou's Reconnaissance Report",    ["Description"]="Take this report back to Lexlort. It will redeem my good name and will surely give the K.E.F. a strategic advantage in dealing with these orcs.$B$BCome with you? I've got way too much work to do. Get going, they need these reports as soon as possible!",    ["Objectives"]="Take Bijou's Reconnaissance Report back to Grandmaster Lexlort in Kargath.",    ["Progress"]="Where's the goblin???",    ["Completion"]="I've got to hand it to her; she's managed to weasel her way out of another sticky situation! These reports will prove to be invaluable in our dealings with the Blackrock orcs.$B$BOf course, you will be rewarded for your hard work.",    ["minlevel"]="55",    ["questlevel"]="59"},
-
-	["4984"] = {    ["Title"]="The Wildlife Suffers Too",    ["Description"]="While there was little I could do alone to thwart the Scourge, I nevertheless came to these lands to try and heal the damage done to nature.  Animals suffer from the plague that continues to choke these lands, unable to find mercy and peace.  I ask for you to continue what I could not finish here.$B$BThere is no salvation for the suffering animals but a sweet and merciful release.  Seek out diseased wolves nearby and put them down.  Please $N, end their misery - doing so will surely soothe mine.",    ["Objectives"]="Destroy 8 Diseased Wolves, and then return to Mulgris Deepriver at the Writhing Haunt, Western Plaguelands.",    ["Progress"]="The wolves that are infected with the plague must be put down, $N.  The disease they carry cannot be cured.  I tried... I tried until I succumbed to the plague myself.",    ["Completion"]="I... I sense that the souls of those wolves you have put down now have rest.  They - and I - thank you for a merciful release.$B$BThe wolves are not alone in their suffering within this damnable place, $N.  Please, I have need of you once more.",    ["minlevel"]="51",    ["questlevel"]="54"},
-
-	["4985"] = {    ["Title"]="The Wildlife Suffers Too",    ["Description"]="To the east of where we are, near where the Eastern Plaguelands begin, once proud and majestic grizzlies roamed the countryside.  The plague released by the Scourge has sundered these beasts too.  They wander the countryside, agonized by the stiffening of their muscles and the rotting of their fur and flesh.$B$BI ask of you to end their misery as well.  The only cure for their suffering is a swift death, one that must be ministered by your hand.",    ["Objectives"]="Destroy 8 Diseased Grizzlies, and then return to Mulgris Deepriver at the Writhing Haunt, Western Plaguelands.",    ["Progress"]="I hear your footsteps, $N.  My vision has faded from me, but I still am able to sense things around me.  Have you ended the misery of the disease-ridden grizzlies?",    ["Completion"]="\"I know that the grizzles have been put down, their torment at an end.  I... I have one more thing for you.  I wrote it down on... on this branch, sensing that my time in this realm had come to an end.$B$BIndeed... I am at that end.  Thank you again friend... the creatures of this accursed land may rest... and now shall I.\"$B$BWith that, a heavy sigh is uttered by the druid, followed by what sounds like a death rattle.  His body lies motionless on the cottage floor.",    ["minlevel"]="51",    ["questlevel"]="56"},
-
-	["4986"] = {    ["Title"]="Glyphed Oaken Branch",    ["Description"]="The lifeless hand of the tauren druid clutches a surprisingly healthy looking oaken branch.  Examining the branch reveals glyphs of a druidic nature carved into the bark.$B$BAs you grasp the branch, you notice it is warm to the touch, more than it should be.  The image of the Teldrassil tree enters your mind - Darnassus specifically - and the words \"Cenarion Circle\" are on the tip of your tongue.  It would appear that the suggestion of where to take the branch has been placed within it.",    ["Objectives"]="Based on the magic enchanted within the Glyphed Oaken Branch, its delivery to the Cenarion Circle in Darnassus is the next step the tauren druid sought.  Seek one of the druids there for assistance.",    ["Progress"]="On behalf of the Cenarion Circle, I bid you welcome to this enclave, $C.  What business do you have with us?",    ["Completion"]="This... this is quite strange.  This druid - this tauren druid no less - entrusted you with a great deal of valuable information on the extent of the Scourge's plague.  I am surprised a tauren would give a $R such information, and freely at that if what you say is true.  We will make good use of this, I promise you.  Perhaps the tauren have not fallen as far from Cenarius as Fandral would believe...$B$BErm, anyway, please - accept this as a token of thanks from the Cenarion Circle.",    ["minlevel"]="51",    ["questlevel"]="56"},
-
-	["4987"] = {    ["Title"]="Glyphed Oaken Branch",    ["Description"]="The lifeless hand of the tauren druid clutches a surprisingly healthy looking oaken branch.  Examining the branch reveals glyphs of a druidic nature carved into the bark.$B$BAs you grasp the branch, you notice it is warm to the touch, more than it should be.  The image of Thunder Bluff in Mulgore enters your mind - Elder Rise specifically - and the words \"Cenarion Circle\" are on the tip of your tongue.  It would appear that the suggestion of where to take the branch has been placed within it.",    ["Objectives"]="Based on the magic enchanted within the Glyphed Oaken Branch, its delivery to the Cenarion Circle in Thunder Bluff is the next step the tauren druid sought.  Seek one of the druids there for assistance.",    ["Progress"]="On behalf of the Cenarion Circle, I bid you welcome to this enclave, $C. What business do you have with us?",    ["Completion"]="This is from Mulgris, you say? We had heard he sought to minister to the creatures suffering in the Plaguelands, but this is most unexpected... and most saddening. Mulgris is... was a good friend. I will mourn his passing deeply.$B$BHis efforts have not gone in vain, thanks to your diligence. In this branch, much lore is stored about the plague the Scourge propagates upon the land. We will study it diligently. As for you, please accept this. It is the least we can do for your noble efforts.",    ["minlevel"]="51",    ["questlevel"]="56"},
-
-	["5001"] = {    ["Title"]="Bijou's Belongings",    ["Description"]="Ordinarily I don't deal with $rs but it seems that I'm stuck between a troll and a hard place. You see, my mission here is one of utmost importance to the Horde. The information I've discovered, however, applies to the well being of the Alliance as well. Now believe me, I'm no Alliance sympathizer, but the Blackrock threat is bigger than just a bunch of orcs.$B$BYou help me out by finding my belongings and I'll help you out with some information that could prove useful to your kind.$B$BDeal?",    ["Objectives"]="Find Bijou's Belongings and return them to her. Good luck!",    ["Progress"]="Any luck?",    ["Completion"]="Well I'll be! Where were they??",    ["minlevel"]="55",    ["questlevel"]="59"},
-
-	["5002"] = {    ["Title"]="Message to Maxwell",    ["Description"]="I'm a goblin of my word, $r. Now listen closely:$B$BThese orcs are used primarily as beasts of burden and cannon fodder for the black dragonflight!$B$BTheir true leader is none other than Nefarian, brood of Deathwing. I've also discovered the location of Nefarian's subordinates in this part of the citadel.$B$BTake this map to Marshal Maxwell in the Burning Steppes. It has the location of these fiends marked for easy identification.",    ["Objectives"]="Travel to the Burning Steppes and give Bijou's Information to Marshal Maxwell.",    ["Progress"]="Ah, $N. It has been a long time.",    ["Completion"]="This coincides with much of what we already knew. Regardless, it is interesting and rather unfortunate information.$B$BThe markings on this map will prove valuable in thinning the Blackrock menace.",    ["minlevel"]="55",    ["questlevel"]="59"},
-
-	["5021"] = {    ["Title"]="Better Late Than Never",    ["Description"]="\"The package must be delivered... delivered before I'm trapped here!\"$B$BThe cries of a panicked woman feel almost like a whisper floating through the house.  Cowered in the upstairs corner is the apparition of a woman.  She does not seem to be fully cognizant of her surroundings, and she is only vaguely aware of you.$B$B\"Are you here to deliver my package?  Please, before it gets much worse!  I was going to ride out of here.  It should still be by my horse... or am I too late?\"",    ["Objectives"]="The ramblings of the ghostly woman indicated that she needed a package delivered.  She claimed that it was where her horse was.  As to where the horse is or where the package was to be delivered - the ghost remains incomprehensible.",    ["Progress"]="",    ["Completion"]="A package in the barn that you might have otherwise overlooked now stands out amongst the decay and ruin.  Perhaps this is the one that the ghost of Janice Felstone was clamoring about...",    ["minlevel"]="50",    ["questlevel"]="52"},
-
-	["5022"] = {    ["Title"]="Better Late Than Never",    ["Description"]="You pick up the package, wiping off a small layer of dust and grime that had settled on it.  It is addressed in a hurried hand to an Emma Felstone of Stormwind; the delivery of the package is dated for well over four years ago.$B$BThough it is unclear if Emma Felstone is even alive, it is widely known that the Stormwind City Hall keep records on the populace of the city.  This is handled through the Royal Factors of the Stormwind Census.",    ["Objectives"]="Check with the Royal Factors of Stormwind to learn the whereabouts of an Emma Felstone.  There is usually a census officer located in City Hall.",    ["Progress"]="Welcome to the office of the Stormwind census.  If you are in need of information on our populace, then I can assist you.",    ["Completion"]="A package for an Emma Felstone, you say?  Last known address was Stormwind, four years ago?  Well let me see here...$B$BAccording to what we know, there was an Emma Felstone in the city about four years ago.  Well, I should say possibly - this census I refer to is from five years ago, and I don't have a report of her vacating the city.  This doesn't mean that she is still here though.$B$BWait a second... this package couldn't be for Ol' Emma, could it?",    ["minlevel"]="50",    ["questlevel"]="52"},
-
-	["5023"] = {    ["Title"]="Better Late Than Never",    ["Description"]="You pick up the package, wiping off a small layer of dust and grime that had settled on it.  It is addressed in a hurried hand to a Jeremiah Felstone of Lordaeron; the delivery of the package is dated for well over four years ago.$B$BThough it is unclear if Jeremiah Felstone is even alive, it is widely known that the Undercity, formerly known as Lordaeron, keeps records on the populace of the city.  This is handled through the Royal Overseers of the Undercity Census.",    ["Objectives"]="Check with the Royal Overseers of the Undercity to learn the whereabouts of a Jeremiah Felstone.  There is usually a census officer located near guild and tabard registration.",    ["Progress"]="Are you here to seek the assistance of the Undercity census, or just to ask me if someone you knew is dead? I get asked that a lot.",    ["Completion"]="A package for a Jeremiah Felstone, with his last known address as Lordaeron... I should be able to assist you.$B$BJeremiah Felstone was in the city before the plague. Well, I should say the former Jeremiah Felstone - some of the Forsaken have changed their last names to rid themselves of their former countenance. This case is no exception; the former Jeremiah Felstone is now known as Jeremiah Payson.$B$BWait a minute... isn't he the cockroach vendor?",    ["minlevel"]="50",    ["questlevel"]="52"},
-
-	["5047"] = {    ["Title"]="Finkle Einhorn, At Your Service!",    ["Description"]="You'll find Malyfous Darkhammer in Everlook, $c. Tell him that 'Finkle is A-OK' and that the suit works perfectly.$B$BThen hand him this:$B$B<Finkle hands you a glowing piece of flesh.>$B$BI snatched it from the beast's innards during my 'vacation.'$B$BI bet Malyfous could give you a fairly accurate assessment of what he can do with parts from a monster like this!$B$BOh, I suppose you don't know where Everlook is, do you? To Winterspring, $g fella:lady;!",    ["Objectives"]="Talk to Malyfous Darkhammer in Everlook.",    ["Progress"]="Yea?",    ["Completion"]="Alive? Suit worked? And what do we have here?",    ["minlevel"]="57",    ["questlevel"]="60"},
-
-	["5050"] = {    ["Title"]="Good Luck Charm",    ["Description"]="It would seem that I was wrong about you $N, and for that I owe you an apology.  My sister sent me a number of personal effects, including humorously enough the deed to the Felstone farm.  I think I'll pass on reclaiming it right now.$B$BIf my sister's spirit remains tethered to the farm and cannot rest, please... could you return this to her?  It is half of a good luck charm she had, with her husband having the other half.$B$BMaybe her knowing I have these things will now put her soul to rest.",    ["Objectives"]="Return to Janice Felstone in Western Plaguelands her Good Luck Half-Charm.",    ["Progress"]="John, sweetheart... is that you?  I'm so cold all the sudden...",    ["Completion"]="You give the half-charm back to the apparition.  She looks at it, then at you expectantly.$B$B\"Honey, where did you put your half of the charm?  We can't be together unless we have both halves.  Honey... can you see me?\"",    ["minlevel"]="50",    ["questlevel"]="52"},
-
-	["5051"] = {    ["Title"]="Two Halves Become One",    ["Description"]="The ramblings of the poor ghost continue:$B$B\"I'm so cold, John.  Bring me your charm, and we'll be together!  Quickly John, before the plague comes to change us into hideous beasts!  I can't see you John... but I know you're near.  I feel you near me.\"$B$BPerhaps if the second half of the charm was found and reassembled, this would constitute what the spirit of Janice Felstone is seeking.",    ["Objectives"]="Locate the other half of the Good Luck Charm somewhere on the Felstone Farm in Western Plaguelands and reassemble it.$B$BGive the Good Luck Charm to Janice Felstone on the Felstone Farm, Western Plaguelands.",    ["Progress"]="John, don't let the ghouls get you... don't let the ghouls get me... nasty ghouls... our charm will keep us safe.",    ["Completion"]="You hand the reassembled good luck charm to Janice Felstone's ghost.  As soon as she grasps it, you observe an almost immediate change in her.  Her ethereal form shimmers, and she looks upon you with clear yet sad eyes.$B$B\"You've freed me... I no longer will need this charm.  Please, take it and perhaps it will give you the solace it has given me.\"",    ["minlevel"]="50",    ["questlevel"]="54"},
-
-	["5058"] = {    ["Title"]="Mrs. Dalson's Diary",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="A diary with yellowing pages lies open to the last entry:$B$B\"I don't know what's going to happen now that Harold's turned.  It took everything out of me to drag him into the only place I could find that'd lock him up tight and hold him.  I hid the key on me, and I pray it works...$B$BI hope I can get out of here, but I need money to do that.  Our stuff's all in the cabinet I think... and now that I think about it, doesn't Harold keep the key on him?$B$BI'll rest on it, I'm dead tired now.\"",    ["minlevel"]="52",    ["questlevel"]="55"},
-
-	["5059"] = {    ["Title"]="Locked Away",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="The door to the outhouse has begun to splinter at the edges of the frame as though it has been repeatedly and incessantly tried to be forced open.  It is currently locked up tight from the outside of the outhouse.$B$BAs you rattle the door, you hear a guttural moaning come from inside!  Whatever is inside there, it certainly does not sound friendly.",    ["Completion"]="Using the key found on the skeleton of the former Mrs. Dalson, you unlock the door to the outhouse.  A bloodthirsty ghoul leaps from the outhouse, having been trapped inside for who knows how long.$B$BIt is clear by the bloodcurdling scream of the ghoul at your presence that the former Farmer Dalson is now beyond saving.",    ["minlevel"]="52",    ["questlevel"]="55"},
-
-	["5060"] = {    ["Title"]="Locked Away",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="An extremely sturdy cabinet stands before you, securely fastened shut by a built-in lock.  The front of the cabinet is deeply scratched and marked.  This could be surmised as being from numerous and violent failed attempts to reveal whatever secrets the cabinet currently obfuscates from view.$B$BIf you are going to open this cabinet, you will need to find the key.",    ["Completion"]="The key taken from Farmer Dalson's ghoulish remains fits the lock perfectly.  The doors of the cabinet swing open, revealing several items that remain intact and appear quite valuable.",    ["minlevel"]="52",    ["questlevel"]="55"},
-
-	["5063"] = {    ["Title"]="Cap of the Scarlet Savant",    ["Description"]="A finer cap you may never see. From the pristine hide of the beast, our expert crafters will create the most phenomenal hat a prestidigitator could ever hope to don!$B$BFifty gold pieces along with the listed items and your head shall be graced with the Cap of the Scarlet Savant:$B$B*The pristine hide of the Beast.$B$B*Frayed abomination stitchings.$B$B*Arcane crystals.$B$B*Enchanted scarlet thread.$B$BBEHOLD!",    ["Objectives"]="In order to create the Cap of the Scarlet Savant, you will be required to bring the following items back to Malyfous Darkhammer: 1 Pristine Hide of the Beast; 5 Frayed Abomination Stitchings; 8 Arcane Crystals; 5 Enchanted Scarlet Thread. $B$BYou will also be required to pay 50 gold pieces for the crafting of the item.",    ["Progress"]="Unless you've got everything I need, you're wasting my time.",    ["Completion"]="Astounding! It must have taken weeks to gather those components... and how did you find a pristine hide?!?$B$BEnjoy the cap, $N!",    ["minlevel"]="57",    ["questlevel"]="60"},
-
-	["5065"] = {    ["Title"]="The Lost Tablets of Mosh'aru",    ["Description"]="The troll with whom you spoke did not tell the truth.  The two tablets you gained for him spoke of containing the essence of Hakkar, but there is more to that legend.  I have studied long, and found that there are six Tablets of Mosh'aru, not two!  Six!$B$BAnd I fear that we will not like what secrets the others hold..$B$BFind the third and fourth tablets of Mosh'aru.  They're in the Eastern Plaguelands, held by the mossflayer trolls. Find them, and bring them to me.",    ["Objectives"]="Bring the Third and Fourth Mosh'aru Tablets to Prospector Ironboot in Tanaris.",    ["Progress"]="Do you have the tablets?  I fear their texts will reveal a great threat to our world.",    ["Completion"]="You found them!  Great!$B$BThank you, $N.  I will pour over these texts and decipher their meaning.$B$BYou, however, have another task...",    ["minlevel"]="40",    ["questlevel"]="58"},
-
-	["5067"] = {    ["Title"]="Leggings of Arcana",    ["Description"]="While the crafting of such an item has never successfully been accomplished, it is thought to be possible - under the right circumstance.$B$BShould the seeker of arcanum desire to imbue leggings with immense power, the following they must find:$B$B* The pristine hide of the Beast.$B$B* Frayed abomination stitchings.$B$B*Arcanite Bars.$B$B*Frostwhisper's embalming fluid.$B$BBEHOLD!",    ["Objectives"]="In order to create the Leggings of Arcana, you will be required to bring the following items back to Malyfous Darkhammer: 1 Pristine Hide of the Beast; 5 Frayed Abomination Stitchings; 5 Arcanite Bars; 5 Frostwhisper's Embalming Fluid.$B$BYou will also be required to pay 50 gold pieces for the crafting of the item.",    ["Progress"]="Unless you've got everything I need, you're wasting my time.",    ["Completion"]="Few more improbable tasks I have seen completed by mortals. Bask in the glory of my handiwork! Reap its rewards!",    ["minlevel"]="57",    ["questlevel"]="60"},
-
-	["5068"] = {    ["Title"]="Breastplate of Bloodthirst",    ["Description"]="It is said that only one Breastplate of Bloodthirst has ever been created and that it was made for the legendary assassin, Garona. Whether this world will ever see another is doubtful.$B$BRegardless! Our master crafters can reproduce the item given the necessary components:$B$B*The pristine hide of the Beast.$B$B*Frayed abomination stitchings.$B$B*Arcanite bars.$B$B*The skin of shadow.$B$BBEHOLD!",    ["Objectives"]="In order to create the Breastplate of Bloodthirst, you will be required to bring the following items back to Malyfous Darkhammer: 1 Pristine Hide of the Beast; 10 Frayed Abomination Stitchings; 5 Arcanite Bars; 5 Skin of Shadow.$B$BYou will also be required to pay 50 gold pieces for the crafting of the item.",    ["Progress"]="Unless you've got everything I need, you're wasting my time.",    ["Completion"]="I thought I would be dead and buried before I ever saw this day.$B$BAn accomplishment of this magnitude can only be overshadowed by the reward.",    ["minlevel"]="57",    ["questlevel"]="60"},
-
-	["5081"] = {    ["Title"]="Maxwell's Mission",    ["Description"]="This information fills in the gaps to our otherwise impeccable intelligence of Blackrock Spire.$B$BThe attack must be decisive, $N.$B$BFirst their war master, the troll Voone, must be destroyed. Without his battle plans, the Blackrock orcs will be thrown into chaos.$B$BYou must then take out the ogre Highlord, Omokk. The cowardly ogres of Blackrock are powerless without his leadership.$B$BLastly, the overlord of the citadel: Wyrmthalak. With Wyrmthalak dead, their central command unit is without a conduit.",    ["Objectives"]="Travel to Blackrock Spire and destroy War Master Voone, Highlord Omokk, and Overlord Wyrmthalak. Return to Marshal Maxwell when the job is done.",    ["Progress"]="Status?",    ["Completion"]="Excellent work, $N. At the very least, you have bought us more time - precious, precious time.",    ["minlevel"]="55",    ["questlevel"]="60"},
-
-	["5082"] = {    ["Title"]="Threat of the Winterfall",    ["Description"]="I came to Winterspring to investigate the Frostfire Hot Springs. I've noticed that the water seems to have ...strange qualities. I haven't yet been able to discover the source, and to tell you the truth, I've had some difficulty lately, due to the Winterfall furbolg.$B$BThey seem to be drawn to the springs, just as I am. They have become extremely protective of the water, and won't let me come near the two larger springs to the north of here.$B$BI'd like to continue my studies, so won't you help me?",    ["Objectives"]="Donova Snowden in Winterspring wants you to kill 8 Winterfall Pathfinders, 8 Winterfall Den Watchers, and 8 Winterfall Totemics.",    ["Progress"]="I appreciate your help!",    ["Completion"]="Thanks so much, $N! Now I can get back to work here.$B$BDid you find anything of interest at the Winterfall camp?",    ["minlevel"]="52",    ["questlevel"]="56"},
-
-	["5083"] = {    ["Title"]="Winterfall Firewater",    ["Description"]="This vial that you picked up from the Winterfall furbolg is empty, but you can detect a few drops of a strange green liquid inside; it almost glows.$B$BIs it something important?$B$BDonova Snowden would probably be able to tell you more, since she has been camped by the hot springs in Winterspring for some time now.",    ["Objectives"]="Bring the Empty Firewater Flask to Donova Snowden in Winterspring.",    ["Progress"]="What is that you have found?",    ["Completion"]="You got this from the Winterfall?",    ["minlevel"]="52",    ["questlevel"]="56"},
-
-	["5084"] = {    ["Title"]="Falling to Corruption",    ["Description"]="This greenish liquid... it reminds me a bit of the sludge I saw when traveling through Felwood. And I have seen some Winterfall Runners passing into Timbermaw... Perhaps these things have something to do with the flask you found, $N.$B$BThere is a large group of furbolg just past Timbermaw Hold, in Felwood. Called the Deadwood tribe, they have been corrupted and driven mad by the fel. Why don't you look around there and see if you can find any evidence of dealings between the Winterfall and the Deadwood?",    ["Objectives"]="Search the Deadwood furbolg camp in northern Felwood for a clue.",    ["Progress"]="",    ["Completion"]="Inside the cauldron bubbles a rotting, repulsive-smelling substance...",    ["minlevel"]="52",    ["questlevel"]="56"},
-
-	["5085"] = {    ["Title"]="Mystery Goo",    ["Description"]="The greenish substance inside the cauldron appears to be similar to what you found in the flask. This strange gooey stuff could be as corrupted as the furbolg that created it...$B$BIf the Winterfall furbolg are using it, does this mean that they will soon be as corrupted as the Deadwood tribe?$B$BIt would be best to report back to Donova with your findings, along with a sample of the liquid in the cauldron.",    ["Objectives"]="Report back to Donova Snowden with your findings.",    ["Progress"]="I hope you found something, $N. The Winterfall are becoming increasingly aggressive!",    ["Completion"]="You are very resourceful, $N. Do you think that the Winterfall furbolgs have been to the Deadwood camp?",    ["minlevel"]="52",    ["questlevel"]="56"},
-
-	["5086"] = {    ["Title"]="Toxic Horrors",    ["Description"]="I've studied the sample you returned with, and while I can't say for sure, I believe it contains traces of toxic elements. However, the only way to know for sure is to gather some as a comparison.$B$BI believe that the Deadwood furbolg may be gathering these elements from other corrupted creatures in Felwood; in particular, the elementals living in the Irontree Woods, called toxic horrors.$B$BCollect a few samples for me to compare, but be careful -- it's very dangerous there!",    ["Objectives"]="Collect 3 Toxic Horror Droplets for Donova Snowden in Winterspring.",    ["Progress"]="I think we are beginning to uncover what is happening here, $N.",    ["Completion"]="I have to compare this to the substance you found in the cauldron, and then I'm sure we'll know more.",    ["minlevel"]="52",    ["questlevel"]="56"},
-
-	["5087"] = {    ["Title"]="Winterfall Runners",    ["Description"]="Very interesting, $N...$B$BWhen this toxic substance is mixed with the water from the hot springs, it loses its toxicity, only retaining the ability to temporarily affect those that ingest it. This must be why the Winterfall protect the hot springs so fervently -- they need them to purify their firewater.$B$BWe need to stop this -- cut off contact between the Winterfall and the Deadwood. A group of runners walks the distance between their village and Felwood. Find and defeat them, and steal their shipment.",    ["Objectives"]="Find the Winterfall Runners and stop them from delivering their shipment to Winterfall Village.",    ["Progress"]="We'll see what happens when the Winterfall don't get their firewater!",    ["Completion"]="<Donova examines the contents of the crate.>$B$BI wonder if consuming this substance makes the furbolg more aggressive. They do seem much larger...",    ["minlevel"]="52",    ["questlevel"]="57"},
-
-	["5089"] = {    ["Title"]="General Drakkisath's Command",    ["Description"]="From the corpse of the defeated serpent you uncover what appears to be a note of some importance: A letter from his superior, General Drakkisath, concerning protocol.$B$BYour instinct tells you that you should take it to Marshal Maxwell.",    ["Objectives"]="Take General Drakkisath's Command to Marshal Maxwell in Burning Steppes.",    ["Progress"]="What have you got there, $N?",    ["Completion"]="The plot thickens...",    ["minlevel"]="55",    ["questlevel"]="60"},
-
-	["5092"] = {    ["Title"]="Clear the Way",    ["Description"]="With Andorhal's western and northern roads into the city well fortified, I'm looking to strike at it from the less defended eastern road.  The Scourge relies on the buffer of undead that infests Sorrow Hill as a first line of defense.  If we are to advance on Andorhal, we will need to do it through Sorrow Hill.$B$BYour first assignment will be to clear the way through Sorrow Hill.  Thin out the skeletons and ghouls that haunt the area; report back to me when this is done!",    ["Objectives"]="Kill 10 Skeletal Flayers and 10 Slavering Ghouls in Sorrow Hill.$B$BReturn to Commander Ashlam Valorfist at Chillwind Camp, Western Plaguelands.",    ["Progress"]="I want you to prepare for the worst, $N - dig deep.  The task in front of us will not be easy.  As we rally our forces here to eventually strike out against the Scourge, you will be part of our advance effort that takes the fight to them!  Your assigned mission in Sorrow Hill will begin our path to victory!",    ["Completion"]="Mission accomplished, $N!  Well played, well played.$B$BAllow me to reward your work thus far with some coin from the Stormwind coffers.  I'd recommend spending it on materiel that will aid you in your next mission... one that will take you into the ruins of Andorhal itself.$B$BBe ready!  Be vigilant!",    ["minlevel"]="50",    ["questlevel"]="52"},
-
-	["5093"] = {    ["Title"]="A Call to Arms: The Plaguelands!",    ["Description"]="Heroes of the realm, hear me - the Horde calls upon you for swift action!$B$BA call to arms has been issued for all able bodied individuals to take up arms against the Scourge!  Rumors fly of new threats rising from the ruins of the Eastern Kingdoms.  They loom to the east of the Undercity, in the northern reaches of the lands now known as the Plaguelands!$B$BHeroes of the realm - seek out High Executor Derrington, who has set up his base camp at the Bulwark, east of Tirisfal Glade!",    ["Objectives"]="Seek out High Executor Derrington.  His base camp is located at the Bulwark, east of Tirisfal Glade and the Undercity.",    ["Progress"]="",    ["Completion"]="Welcome to the Plaguelands, hero.  This is one of the most dangerous frontiers in Azeroth, with the looming threat of the Scourge to our east, and then even further still eastward from there.  I am glad to hear that the call of duty and service to the Horde did not fall on deaf ears with you!$B$BIf you are ready to get your hands dirty, then there is plenty for willing and able heroes to do here on the edge of the Plaguelands.",    ["minlevel"]="50",    ["questlevel"]="50"},
-
-	["5094"] = {    ["Title"]="A Call to Arms: The Plaguelands!",    ["Description"]="Heroes of the realm, hear me - the Horde calls upon you for swift action!$B$BA call to arms has been issued for all able bodied individuals to take up arms against the Scourge!  Rumors fly of new threats rising from the ruins of the Eastern Kingdoms.  They loom to the east of the Undercity, in the northern reaches of the lands now known as the Plaguelands!$B$BHeroes of the realm - seek out High Executor Derrington, who has set up his base camp at the Bulwark, east of Tirisfal Glade!",    ["Objectives"]="Seek out High Executor Derrington.  His base camp is located at the Bulwark, east of Tirisfal Glade and the Undercity.",    ["Progress"]="",    ["Completion"]="Welcome to the Plaguelands, hero. This is one of most dangerous frontiers in Azeroth, with the looming threat of the Scourge to our east, and then even further still eastward from there. I am glad to hear that the call of duty and service to the Horde did not fall on deaf ears with you!$B$BIf you are ready to get your hands dirty, then there is plenty for willing and able heroes to do here on the edge of the Plaguelands.",    ["minlevel"]="50",    ["questlevel"]="50"},
-
-	["5095"] = {    ["Title"]="A Call to Arms: The Plaguelands!",    ["Description"]="Heroes of the realm, hear me - the Horde calls upon you for swift action!$B$BA call to arms has been issued for all able bodied individuals to take up arms against the Scourge!  Rumors fly of new threats rising from the ruins of the Eastern Kingdoms.  They loom to the east of the Undercity, in the northern reaches of the lands now known as the Plaguelands!$B$BHeroes of the realm - seek out High Executor Derrington, who has set up his base camp at the Bulwark, east of Tirisfal Glades!",    ["Objectives"]="Seek out High Executor Derrington.  His base camp is located at the Bulwark, east of Tirisfal Glades and the Undercity.",    ["Progress"]="",    ["Completion"]="Welcome to the Plaguelands, hero. This is one of the most dangerous frontiers in Azeroth, with the looming threat of the Scourge to our east, and then even further still eastward from there. I am glad to hear that the call of duty and service to the Horde did not fall on deaf ears with you!$B$BIf you are ready to get your hands dirty, then there is plenty for willing and able heroes to do here on the edge of the Plaguelands.",    ["minlevel"]="50",    ["questlevel"]="50"},
-
-	["5096"] = {    ["Title"]="Scarlet Diversions",    ["Description"]="Before Andorhal, we must tackle the advancing Scarlet Crusade menace from Hearthglen.  They've made camp between Felstone Field and Dalson's Tears, making us risk conflict against both the Scourge and the Crusade at once.$B$BMy plan is to play them off of each other by sending you to destroy the command tent they've set up; use some Flame in a Bottle from this box of incendiaries.  Once razed, plant this Scourge banner by the tent.  With some luck, they'll ignore us and focus on the Scourge for vengeance.",    ["Objectives"]="Proceed to the Scarlet Crusade's base camp between Felstone Field and Dalson's Tears and destroy their command tent.$B$BPlace the Scourge banner at the camp, and then return to High Executor Derrington at the Bulwark, Western Plaguelands.",    ["Progress"]="",    ["Completion"]="Finely executed, $N. Your attack on the Scarlet Crusade will buy us time. I have sent one of my best scouts out to watch over the camp and make sure that the Crusade forces that come to reinforce the position will take the bait.$B$BWith the pressure on us lessened, we should now finally be able to risk a mission into Andorhal itself, and an important one at that. I'd very much like it if you'd perform this one as well, based on your success to date.",    ["minlevel"]="50",    ["questlevel"]="53"},
-
-	["5097"] = {    ["Title"]="All Along the Watchtowers",    ["Description"]="Through the use of a magical device known as a beacon torch, we can mark targets of our choosing for future actions by our troops.  To that end, we think the Scourge are using Andorhal's watchtowers as a means to control their troop movements.$B$BYour mission: breach Andorhal's defenses to plant beacons at all four watchtowers.  You'll need to be in the doorway of each tower to plant the beacon; it will then proceed to mark the tower.  There are only five charges on the beacon torch, so use them wisely!",    ["Objectives"]="Using the Beacon Torch, mark each tower in Andorhal; you will need to stand in the doorway of the tower to successfully mark it.$B$BOnce all four towers are marked, return the Beacon Torch to Commander Ashlam Valorfist in Chillwind Camp, Western Plaguelands.",    ["Progress"]="Once the towers are marked, they'll become top priority targets for our attack on Andorhal.  I suspect that once we neutralize the towers, the main threat of Andorhal will emerge.  From that point on, we'll have a straight-up fight for control of the city!$B$BYou're back to report success, yes?  Don't forget the beacon torch as well; we must maintain control of our materiel.",    ["Completion"]="My priests are reporting that our beacon trackers are picking up extremely strong signals on all four towers!  Dare I say it, but I believe you've executed another mission with complete and total success!  Well played once again, $N!$B$BWith the towers marked, our preparations for the attack are now in place.  The time has come to take the fight to the Scourge!",    ["minlevel"]="50",    ["questlevel"]="56"},
-
-	["5098"] = {    ["Title"]="All Along the Watchtowers",    ["Description"]="Through the use of a magical device known as a beacon torch, we can mark targets of our choosing for future actions by our troops.  To that end, we think the Scourge are using Andorhal's watchtowers as a means to control their troop movements.$B$BYour mission: breach Andorhal's defenses to plant beacons at all four watchtowers.  You'll need to be in the doorway of each tower to plant the beacon; it will then proceed to mark the tower.  There are only five charges on the beacon torch, so use them wisely!",    ["Objectives"]="Using the Beacon Torch, mark each tower in Andorhal; you will need to stand in the doorway of the tower to successfully mark it.$B$BOnce all four towers are marked, return the Beacon Torch to High Executor Derrington at the Bulwark, Western Plaguelands.",    ["Progress"]="Once the towers are marked, they'll become top priority targets for our attack on Andorhal. I suspect that once we neutralize the towers, the main threat of Andorhal will emerge. From that point on, we'll have a straight-up fight for control of the city!$B$BYou're back to report success, yes? Don't forget the beacon torch as well; we must maintain control of our materiel.",    ["Completion"]="My warlocks are reporting that our beacon trackers are picking up extremely strong signals on all four towers!  You've executed my orders with the skill and precision of a seasoned veteran.  Your service to the Horde is duly noted once more, $N!$B$BWith the towers marked, our preparations for the attack are now in place.  The time has come to take the fight to the Scourge!",    ["minlevel"]="50",    ["questlevel"]="56"},
-
-	["5102"] = {    ["Title"]="General Drakkisath's Demise",    ["Description"]="We battle against these beasts on two fronts: From our capital of Stormwind we fight them from the inside out and here, in the Burning Steppes, we take the battle to their doorstep. We must be vigilant, $N. None should be spared our wrath as none of our own were spared when they struck at our homes and families.$B$BFind this General Drakkisath and destroy him!$B$BThe task certainly will not be a simple one, but the rewards shall be extravagant.",    ["Objectives"]="Travel to Blackrock Spire and destroy General Drakkisath. Return to Marshal Maxwell when the job is done.",    ["Progress"]="Is it done?",    ["Completion"]="Surely, we will strike against their dragon lords next. Well done, brave soldier of the Alliance! Well done, indeed.",    ["minlevel"]="55",    ["questlevel"]="60"},
-
-	["5103"] = {    ["Title"]="Hot Fiery Death",    ["Description"]="The only thing that remains of this human are some charred bones. He seems to have died within arms reach of what he was after - unfired plate gauntlets.$B$BPerhaps you should grab the gauntlets and get out of the fire?",    ["Objectives"]="Someone in this world must know what to do with these gauntlets. Good luck!",    ["Progress"]="",    ["Completion"]="What the...",    ["minlevel"]="55",    ["questlevel"]="60"},
-
-	["5121"] = {    ["Title"]="High Chief Winterfall",    ["Description"]="While we still know very little about why the furbolg have been ingesting this strange substance, I do think it's best that we put a stop to it before it gets out of hand.$B$BThe Winterfall furbolg are not a normally aggressive tribe, and this change in their behavior leads me to think that they must be under orders from their chief. We most likely can't undo the damage that has already been done, but I think that if their leader is slain, they will not get any worse.$B$BHead east to Winterfall Village.",    ["Objectives"]="Donova Snowden in Winterspring wants you to defeat High Chief Winterfall.",    ["Progress"]="Maybe you will find out more in Winterfall Village, $N.",    ["Completion"]="Thank you so much, $N. I hope to get back to my studies without worry that I will be ambushed. Please accept this as a reward.",    ["minlevel"]="52",    ["questlevel"]="59"},
-
-	["5122"] = {    ["Title"]="The Medallion of Faith",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="The power of this chapel gives me the strength to resist the corruption in my heart.  If I leave it, I will become a death knight.   But there is a medallion, the medallion of faith, that will give me the strength I need to leave.$B$BPlease, $N, retrieve the medallion.  It is guarded by Malor the Zealous, a crazed member of the Scarlet Brotherhood who resides deep in the Scarlet Bastion in western Stratholme.",    ["Completion"]="You retrieved the medallion! Now I will be able to leave the chapel and perform my duty.$B$BThat duty is to kill the beast who helped corrupt me and so many of my brothers and sisters, Baron Rivendare!",    ["minlevel"]="55",    ["questlevel"]="60"},
-
-	["5123"] = {    ["Title"]="The Final Piece",    ["Description"]="The log you found on the high chief looks extensive, but after looking through a couple of the pages, you find that you cannot read the text. The markings are so crude and poorly-formed that you are not sure if anyone would be able to read them.$B$BBut perhaps Donova will be able to tell you what it says...",    ["Objectives"]="Bring the Crudely-written Log to Donova Snowden in Winterspring.",    ["Progress"]="Now, what's this, $N?",    ["Completion"]="I wonder what all of this means... I can't make anything out...",    ["minlevel"]="52",    ["questlevel"]="59"},
-
-	["5124"] = {    ["Title"]="Fiery Plate Gauntlets",    ["Description"]="By Thaurissan's beard!$B$BWhere did you find them?$B$BMore importantly, are you willing to part with them? Naturally, I would pay you for such a noble gesture.$B$BI'll tell you what, $N. If you give me those unfired gauntlets, I will teach you how to make a set all your own. All you need to do is collect the parts for me so that I may narrow down the exact recipe.$B$BDo we have a deal??$B$BHere's the list of what I need, I'll front the non-enchanted thorium myself since you're supplying the gauntlets.",    ["Objectives"]="Bring Malyfous Darkhammer 6 Enchanted Thorium Bars, 2 Essence of Fire, and 4 Star Rubies. You will also need to turn in your Unfired Plate Gauntlets.",    ["Progress"]="Time is money, $N and I don't have much of either.",    ["Completion"]="As promised, $N, here's your recipe! I'm also going to throw in a little something extra for all of your hard work and dedication. What am I going to do with these anyway???",    ["minlevel"]="55",    ["questlevel"]="60"},
-
-	["5125"] = {    ["Title"]="Aurius' Reckoning",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="$N, I am dying... but my soul is saved.  For that, I owe you more than words can say.  Please, take this... and fight on, brave $C!",    ["minlevel"]="55",    ["questlevel"]="60"},
-
-	["5126"] = {    ["Title"]="Lorax's Tale",    ["Description"]="The Satyr paces about and talks to himself. Do you wish to question him?",    ["Objectives"]="Speak with Lorax. Listen to what he has to say.",    ["Progress"]="...",    ["Completion"]="<Lorax laughs.>",    ["minlevel"]="55",    ["questlevel"]="60"},
-
-	["5127"] = {    ["Title"]="The Demon Forge",    ["Description"]="Lorax makes deals, he does not accept them from insignificant mortals.$B$BA deal I shall make with you, however... take this pike, it is imbued with powerful Fel energies. When you find Goraluk Anvilcrack, slay him and drive this pike through his dying heart. His soul he bartered, his soul I shall have. Return the pike and return the breastplate that the thief stole and I shall teach you what it is that he was to learn.",    ["Objectives"]="Travel to Blackrock Spire and find Goraluk Anvilcrack. Slay him and then use the Blood Stained Pike upon his corpse. After his soul has been siphoned, the pike will be Soul Stained.$B$BYou must also find the Unforged Rune Covered Breastplate.$B$BReturn both the Soul Stained Pike and the Unforged Rune Covered Breastplate to Lorax in Winterspring.",    ["Progress"]="Tempt not...",    ["Completion"]="Our pact you did not break. The soul I did take. The reward I shall make.",    ["minlevel"]="55",    ["questlevel"]="60"},
-
-	["5128"] = {    ["Title"]="Words of the High Chief",    ["Description"]="The Winterfall are no longer a threat to me, but if you still want to find out what was driving the furbolg to create and consume this strange firewater, I think you should seek out Kelek Skykeeper.$B$BHe is part of a group known as the Emerald Circle, druids that are committed to their work in Felwood, healing the land from the corruption.$B$BKelek has much experience with the furbolgs in Felwood, and may be able to tell you more about the log.$B$BThank you, again, $N.",    ["Objectives"]="Take the Crudely-written Log to Kelek Skykeeper in southern Felwood.",    ["Progress"]="The Emerald Circle is friendly to all, $R. What can I do for you?",    ["Completion"]="Yes, if you let me examine this for a while, I might be able to translate it for you.$B$B<Kelek flips through the pages.>$B$BWhen I am able to look over this fully, I will send word to you.$B$BThank you for sharing this with me, $N. Very little is known about the Winterfall furbolg.",    ["minlevel"]="52",    ["questlevel"]="59"},
-
-	["5141"] = {    ["Title"]="Dragonscale Leatherworking",    ["Description"]="Dragonscale leatherworking isn't easy, but it's extremely rewarding.  I'll teach you how to make this fine mail armor, but only if you agree to certain conditions.$B$BBy choosing this path, you agree never to learn elemental or tribal leatherworking; there is only room for one of the three at the apex of the craft.  Furthermore, I'll need some samples of your best work involving scorpid armor.  Finally, I'll need proof of your ability to acquire the staple of the trade: scales of the dragonkin.",    ["Objectives"]="Bring 2 Tough Scorpid Breastplates, 2 Tough Scorpid Gloves, and 10 Worn Dragonscales to Peter Galen in Azshara.$B$BCompleting this quest will give you access to the Dragonscale Leatherworking arts.$B$BThe completion of this quest will prevent you from learning Elemental Leatherworking and Tribal Leatherworking; be sure this is the path you wish to follow before doing so.",    ["Progress"]="If you're ready to commit to a permanent decision by becoming a dragonscale leatherworker, then I'm ready to take you on as a student. Just bring to me the things I asked for, and we'll begin your education.",    ["Completion"]="I'll hand it to you - it takes a strong will to make a permanent decision like you've just done. I assure you, dragonscale leatherworking will prove to be a profitable and rewarding path for you to follow.$B$BTo train in the art for the future, simply speak to me and I will make available any knowledge that you have yet to commit as yours.",    ["minlevel"]="40",    ["questlevel"]="55"},
+	
 
 	["5142"] = {    ["Title"]="Little Pamela",    ["Description"]="So many of us died at the battle of Darrowshire.  So many died... and worse.$B$BWhen the battle began I hid my niece Pamela, and I do not know what happened to her.  I am but a wandering spirit, but my heart still longs to know Pamela's fate.$B$BPlease, good $c.  Will you go to Darrowshire and search for her?  It is to the east, beyond Gahrron's Withering.",    ["Objectives"]="Find Pamela Redpath.",    ["Progress"]="",    ["Completion"]="Hello.  I'm Pamela, what's your name?",    ["minlevel"]="50",    ["questlevel"]="55"},
 
