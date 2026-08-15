@@ -63406,6 +63406,2361 @@ QuestTranslator_QuestData = {
     ["minlevel"]="48",
     ["questlevel"]="54",
     }, -- end The Last Element
+    -- Fight for Warsong Gulch
+    -- Silverwing Sentinels -> Gümüşkanat Nöbetçileri
+    -- Warsong Outriders -> Savaşşarkısı Avcıları
+    -- Warsong Gulch -> Savaşşarkısı Kanyonu (ZoneData.lua)
+    -- Ashenvale -> Ashenvale (ZoneData.lua)
+    -- Astranaar -> Astranaar (ZoneData.lua)
+    -- Barrens -> Barrens (ZoneData.lua)
+    ["8400"] = {
+    ["Title"]="Savaşşarkısı Kanyonu İçin Savaş",
+    ["Description"]="Gümüşkanat Nöbetçileri, Orkların ormana verdiği zarar nedeniyle Savaşşarkısı Avcıları ile savaş halindedir. Ancak bu özel ormanı savunmak için doğaya duyulan yalın sevgiden daha fazla neden var.\n\nOrman, Ashenvale'i büyük ölçekli bir saldırıya karşı savunulabilir kılan stratejik bir engel oluşturur. O olmadan Astranaar, Barrens'a ilhak edilmeden önce bir iki gün dayanırdı.\n\nSavaşşarkısı Avcıları ile savaşmada üzerine düşeni yap, YOUR_NAME! İttifak için!",
+    ["Objectives"]="Savaş alanlarının dışındaki bir İttifak Tuğgenerali'ne 3 Savaşşarkısı Kanyonu Onur Nişanı getir.",
+    ["Progress"]="Cepheden haberlerle mi döndün, YOUR_NAME?",
+    ["Completion"]="İyi iş, YOUR_NAME. Sayende Ashenvale'deki doğal savunmamız bir gün daha bozulmadan kalacak.",
+    ["minlevel"]="30",
+    ["questlevel"]="39",
+    }, -- end Fight for Warsong Gulch
+
+    -- Armor Scraps
+    -- Murgot Deepforge -> Murgot Derindemirtemeli (MobNpcData.lua)
+    -- Ironforge -> Demirörs (ZoneData.lua)
+    -- Dun Baldar -> Dun Baldar (ZoneData.lua)
+    -- Alterac Valley -> Alterac Vadisi (ZoneData.lua)
+    ["7223"] = {
+    ["Title"]="Zırh Hurdaları",
+    ["Description"]="Alterac Vadisi'nde sürekli savaşlar kızışıyor ve Demirörs'ten aldığımız malzemeler deneyimli birliklerimizi donatmaya yetmiyor.\n\nSavaş alanından zırh hurdaları bulursan savaş çabalarına yardım et ve o hurdaları bana getir!",
+    ["Objectives"]="Dun Baldar'daki Murgot Derindemirtemeli'ne 20 Zırh Hurdası getir.",
+    ["Progress"]="Hiç zırh hurdası getirdin mi, YOUR_NAME?",
+    ["Completion"]="Bunlar güzel parçalar, YOUR_NAME. Birliklerimiz için yeni ekipmanlar şekillendirmek adına bunları kullanabilirim.\n\nTedarik seviyem yeterince yükselirse, deneyimli savaş birimlerimiz sahaya girebilir!",
+    ["minlevel"]="51",
+    ["questlevel"]="60",
+    }, -- end Armor Scraps
+
+    -- Enemy Booty
+    -- Smith Regzar -> Demirci Regzar (MobNpcData.lua)
+    -- Frostwolf Village -> Buzkurdu Köyü (ZoneData.lua)
+    -- Stormpike -> Fırtınamızrak
+    ["7224"] = {
+    ["Title"]="Düşman Ganimeti",
+    ["Description"]="Düşmanla savaştığında zırhlarının hurdalarını topla ve bana getir. O hurdaları kendi birliklerimize zırh yapmak için kullanacağım!",
+    ["Objectives"]="Buzkurdu Köyü'ndeki Demirci Regzar'a 20 Zırh Hurdası getir.",
+    ["Progress"]="Av nasıl gidiyor, YOUR_NAME? Benim için hiç zırh hurdası var mı?",
+    ["Completion"]="Bunlar gayet iş görür. Onları eriteceğim ve yamayacağım, o Fırtınamızrak korkaklarından geldiklerini asla anlamayacaksın!\n\nTeşekkürler, YOUR_NAME. Ve izin ver de şu zırhını bir parlatayım...",
+    ["minlevel"]="51",
+    ["questlevel"]="60",
+    }, -- end Enemy Booty
+
+    -- In Defense of Frostwolf
+    -- Warmaster Laggrond -> Savaşustası Laggrond (MobNpcData.lua)
+    -- Stormpike Guard -> Fırtınamızrak Muhafızları
+    -- Frostwolf -> Buzkurdu
+    -- Ironforge -> Demirörs (ZoneData.lua)
+    -- Tarren Mill -> Tarren Değirmeni (ZoneData.lua)
+    -- Alterac -> Alterac (ZoneData.lua)
+    -- Alterac Valley -> Alterac Vadisi (ZoneData.lua)
+    -- Alterac Mountains -> Alterac Dağları (ZoneData.lua)
+    ["7241"] = {
+    ["Title"]="Buzkurdu'nun Savunmasında",
+    ["Description"]="Savaş davulları uzak bir diyarda çalıyor, YOUR_CLASS. Savaşşefi'nin gözde klanı Demirörs'ün hain Fırtınamızrak Muhafızları'nın saldırısı altında.\n\nGörünüşüne bakılırsa savaşa dayanıklı olduğunu ve Buzkurdu davasını üstlenmeye hazır olduğunu görebiliyorum.\n\nEvrimindeki bir sonraki adımı atması gereken kişi sensin.\n\nTarren Değirmeni'nin kuzeyinde, Alterac'ta Alterac Vadisi'nin girişini bulacaksın. Savaşustası Laggrond'u orada bulacaksın. Acele et YOUR_CLASS, çünkü savaş kapımızda!",
+    ["Objectives"]="Alterac Dağları'nda bulunan Alterac Vadisi'ne git. Buzkurdu askeri olarak kariyerine başlamak için tünel girişinin dışında duran Savaşustası Laggrond'u bul ve onunla konuş. Alterac Vadisi'ni Tarren Değirmeni'nin kuzeyinde, Alterac Dağları'nın eteklerinde bulacaksın.",
+    ["Progress"]="",
+    ["Completion"]="Buzkurdu askeri olmak için öncelikle sınanmak gerekir...",
+    ["minlevel"]="51",
+    ["questlevel"]="60",
+    }, -- end In Defense of Frostwolf
+
+    -- The Sovereign Imperative
+    -- Lieutenant Haggerdin -> Teğmen Haggerdin (MobNpcData.lua)
+    -- King Magni Bronzebeard -> Kral Magni Tunçsakal (MobNpcData.lua)
+    -- Bronzebeard -> Tunçsakal
+    -- Frostwolf Clan -> Buzkurdu Klanı
+    -- Winterax -> Kışbaltası
+    -- Stormpike -> Fırtınamızrak
+    -- Ironforge -> Demirörs (ZoneData.lua)
+    -- Alterac -> Alterac (ZoneData.lua)
+    -- Alterac Valley -> Alterac Vadisi (ZoneData.lua)
+    -- Hillsbrad Foothills -> Hillsbrad Etekleri (ZoneData.lua)
+    ["7261"] = {
+    ["Title"]="Egemenlik ZORUNLULUĞU",
+    ["Description"]="Alterac vadilerinde acımasız bir savaş sürdürüyoruz. Yamyam Kışbaltası trolleri bir yandan, vahşi Buzkurdu Klanı diğer yandan bize saldırıyor. Her ikisi de Kral Magni Tunçsakal adına yok edilmelidir! O toprağın alınması, ayıklanması ve dönüştürülmesi Demirörs krallığı için egemenlik ve bölgesel bir zorunluluktur.\n\nNe yazık ki askerler ağaçta yetişmiyor! Fırtınamızrak saflarında görevine ve onuruna başlamak için Alterac Vadisi dışındaki Teğmen Haggerdin'e rapor ver.",
+    ["Objectives"]="Hillsbrad Etekleri'ndeki Alterac Vadisi'ne seyahat et. Giriş tünelinin dışında Teğmen Haggerdin'i bul ve onunla konuş.\n\nTunçsakal'ın şanı için!",
+    ["Progress"]="",
+    ["Completion"]="Hadi işe koyulalım!",
+    ["minlevel"]="51",
+    ["questlevel"]="60",
+    }, -- end The Sovereign Imperative
+
+    -- Brotherly Love
+    -- Commander Karl Philips -> Komutan Karl Philips (MobNpcData.lua)
+    -- Commander Louis Philips -> Komutan Louis Philips (MobNpcData.lua)
+    -- Banshee Queen -> Büyücü Kraliçe
+    -- Stormpike -> Fırtınamızrak
+    ["7281"] = {
+    ["Title"]="Kardeş Sevgisi",
+    ["Description"]="Trajik... Kardeşim savaş alanında benimle yüzleşiyor: Fırtınamızrak için bir komutan.\n\nDört Fırtınamızrak Komutanı arasında şüphesiz en tehlikelisi o. Belki de katledilirse, Büyücü Kraliçe bana yaptığı gibi onu da dönüştürebilir - hatalarını ona gösterebilir...\n\nDüşman bölgesinin derinliklerinde kardeşimi bulacaksın. Onu katlet ve bana dön. Bu görevi tamamlayabilecek kapasitede olduğuna inanıyorum, asker.\n\nVe asker, yalnız gitme.",
+    ["Objectives"]="Fırtınamızrak bölgesine seyahat et ve Komutan Karl Philips'i katlet. Görev tamamlandığında Komutan Louis Philips'e dön.",
+    ["Progress"]="Sevgili kardeşi mükemmelliğe yükselmişken yaşayanlardan biri olarak kalmak ona ne kadar acı veriyor olmalı.",
+    ["Completion"]="Kahramanlığın karşılıksız kalmayacak, YOUR_NAME.\n\nKurtarılacaksa hiç vakit kaybetmemeliyim. Sylvanas ile iletişime geçilmeli!",
+    ["minlevel"]="51",
+    ["questlevel"]="60",
+    }, -- end Brotherly Love
+
+    -- Brotherly Love
+    -- Commander Louis Philips -> Komutan Louis Philips (MobNpcData.lua)
+    -- Commander Karl Philips -> Komutan Karl Philips (MobNpcData.lua)
+    -- Banshee Queen -> Büyücü Kraliçe
+    -- Field of Strife -> Çatışma Meydanı
+    -- Frostwolf -> Buzkurdu
+    ["7282"] = {
+    ["Title"]="Kardeş Sevgisi",
+    ["Description"]="Sefaletine bir son verilmeli, asker! Ne yaptığını bilmiyor. Korkunç Büyücü Kraliçe'nin akılsız bir hizmetkarı haline geldi.\n\nÇatışma Meydanı'nı geçerek Buzkurdu bölgesinin derinliklerine ilerle. Kardeşimi bul ve onu yok et. İşkencesi sona ermeli.",
+    ["Objectives"]="Buzkurdu bölgesine seyahat et ve Komutan Louis Philips'i katlet. Görev tamamlandığında Komutan Karl Philips'e dön.",
+    ["Progress"]="Böyle bir emri büyük bir üzüntüyle veriyorum, asker.",
+    ["Completion"]="Cesedi yakmayı unutmadın, değil mi?",
+    ["minlevel"]="51",
+    ["questlevel"]="60",
+    }, -- end Brotherly Love
+
+    -- Fallen Sky Lords
+    -- Wing Commander Slidore -> Kanat Komutanı Slidore (MobNpcData.lua)
+    -- Wing Commander Vipore -> Kanat Komutanı Vipore (MobNpcData.lua)
+    -- Wing Commander Ichman -> Kanat Komutanı Ichman (MobNpcData.lua)
+    -- Commander Duffy -> Komutan Duffy (MobNpcData.lua)
+    -- Tower Point West -> Batı Kule Noktası
+    -- Frostwolf Keep -> Buzkurdu Kalesi (ZoneData.lua)
+    -- Frostwolf -> Buzkurdu
+    ["7301"] = {
+    ["Title"]="Düşmüş Gökyüzü Lordları",
+    ["Description"]="Onları esir aldık, YOUR_RACE. Kanat Komutanlarından bahsediyorum. Gökyüzünde şiddetli bir savaştı ama sonunda düştüler! Ne yazık ki en iyi pilotlarımız Buzkurdu Kalesi'ne yapılan bir karşı saldırıda düşürüldü. Onlara ne olduğunu öğrenmelisin.\n\nBatı Kule Noktası'nı ve Buzkurdu Kalesi'ni ara. Bunlar bilinen son konumlarıydı. Bu alanları iyice ara.",
+    ["Objectives"]="Buzkurdu bölgesine seyahat et ve Kanat Komutanı Slidore, Kanat Komutanı Vipore ve Kanat Komutanı Ichman'ı ara. Görevini tamamlarsan Komutan Duffy'ye dön.",
+    ["Progress"]="Duymak isteyeceğim bir şey var mı?",
+    ["Completion"]="İnanılmaz! Onları serbest bıraktın, değil mi? Değil mi??? En azından nerede tutulduklarını biliyoruz.",
+    ["minlevel"]="51",
+    ["questlevel"]="60",
+    }, -- end Fallen Sky Lords
+
+    -- Fallen Sky Lords
+    -- Wing Commander Guse -> Kanat Komutanı Guse (MobNpcData.lua)
+    -- Wing Commander Jeztor -> Kanat Komutanı Jeztor (MobNpcData.lua)
+    -- Wing Commander Mulverick -> Kanat Komutanı Mulverick (MobNpcData.lua)
+    -- Commander Mulfort -> Komutan Mulfort (MobNpcData.lua)
+    -- Icewing Bunker -> Buzkanadı Sığınağı
+    -- Stormpike -> Fırtınamızrak
+    -- Dun'Baldar North Bunker -> Kuzey Dun Baldar Sığınağı
+    ["7302"] = {
+    ["Title"]="Düşmüş Gökyüzü Lordları",
+    ["Description"]="Hava desteğimiz harabe halinde, YOUR_NAME. Kanat Komutanları düşman bölgesi üzerinde düşürüldü. Bir kurtarma operasyonu deneyebilmemiz için başlarına ne geldiğini öğrenmelisin!\n\nGuse en son Buzkanadı Sığınağı üzerinde uçarken görüldü. Jeztor'un Savaş Süvarisi Fırtınamızrak kereste kampı yakınlarında tespit edildi. Mulverick... o düşüncesiz aptal Kuzey Dun Baldar Sığınağı yakınlarında düşerken görüldü.\n\nElimdeki tüm bilgi bu. Harekete geç! Bölgeleri iyice ara.",
+    ["Objectives"]="Kanat Komutanı Guse, Kanat Komutanı Jeztor ve Kanat Komutanı Mulverick'e ne olduğunu öğren. Görevini tamamlarsan Komutan Mulfort'a dön.",
+    ["Progress"]="Avın durumu nedir, asker?",
+    ["Completion"]="Aferin! Elde ettiğin bilgiler davamız için paha biçilemez olacak.",
+    ["minlevel"]="51",
+    ["questlevel"]="60",
+    }, -- end Fallen Sky Lords
+
+    -- Soothing Turtle Bisque
+    -- Christoph Jeffcoat -> Christoph Jeffcoat (MobNpcData.lua)
+    -- Lake Lordamere -> Lordamere Gölü
+    -- Tarren Mill -> Tarren Değirmeni (ZoneData.lua)
+    ["7321"] = {
+    ["Title"]="Yatıştırıcı Kaplumbağa Çorbası",
+    ["Description"]="Hortlakların yemek pişirmekten anlamadığını kim söylüyor? Örneğin benim özel Kaplumbağa Çorbası tarifimi alalım. Sırf bir kase içebilmek için ölüden geri dönecek adamlar tanıdım! Heh, heh...\n\nLafı açılmışken, son zamanlarda hiç yapamadım. Isıranları avlamak için bizzat Lordamere Gölü'ne giderdim, o çirkin yaratıkları, ama buradaki işimden kendimi alamıyorum.\n\nBana ısıranlardan biraz Kaplumbağa Eti ve yatıştırıcı baharatlar getirirsen sana bunun nasıl yapıldığını gösteririm!",
+    ["Objectives"]="Tarren Değirmeni'ndeki Christoph Jeffcoat'a 10 parça Kaplumbağa Eti ve biraz Yatıştırıcı Baharat getir.",
+    ["Progress"]="Malzemeleri bulmada şansın yaver gitti mi? Sana söyleyeyim, ittifak kurtçukları artık bu bölgede çok fazla... Bana kalırsa zaten çok fazla yaklaştılar...",
+    ["Completion"]="Yatıştırıcı kaplumbağa çorbam soğuk bir gecede seni sıcak tutacak... Eğer böyle şeyleri umursuyorsan.",
+    ["minlevel"]="28",
+    ["questlevel"]="31",
+    }, -- end Soothing Turtle Bisque
+
+    -- Favor Amongst the Darkspear
+    -- Najak -> Najak (MobNpcData.lua)
+    -- Najak Hexxen -> Najak Hexxen (MobNpcData.lua)
+    -- Staghelm -> Staghelm (MobNpcData.lua)
+    -- Darkspear -> Karamızrak
+    -- Kalimdor -> Kalimdor (ZoneData.lua)
+    -- Eastern Kingdoms -> Doğu Krallıkları (ZoneData.lua)
+    -- Alterac Valley -> Alterac Vadisi (ZoneData.lua)
+    -- Frostwolf Keep -> Buzkurdu Kalesi (ZoneData.lua)
+    ["7361"] = {
+    ["Title"]="Karamızrak Nezdinde İtibar",
+    ["Description"]="<Najak hırlar.>\n\nGece elfı var olmadan önce troll vardı. Gece elfleri trolllerden çıktı.\n\nHalkıma karşı isyankar saldırılarına müsamaha gösterilmeyecektir. Staghelm bizi yok etmek - onu ve soyunu doğuranların hiçbir izini bırakmamak istiyor. Bu olmayacak!\n\nKatlettiğin ve kafasını kestiğin her gece elfi için Najak sana Karamızrak nezdinde itibar verecektir. Yaptıklarının haberi Kalimdor ve Doğu Krallıkları boyunca yayılacak. Şimdi git ve Karamızrak'a hizmet et!",
+    ["Objectives"]="Alterac Vadisi'nde karşı tarafın gece elfi oyuncularını katletmekle görevlendirildin.\n\nBir gece elfi öldür ve Kesik Gece Elfi Kafası ile Buzkurdu Kalesi'ndeki Najak Hexxen'e dön.",
+    ["Progress"]="Bizi yok etmek mi istiyorlar? Yok edilecek olanlar kendileridir.",
+    ["Completion"]="YOUR_NAME, bu binlercesinden sadece biri. Yine de iyi yapılmış bir iş.",
+    ["minlevel"]="51",
+    ["questlevel"]="60",
+    }, -- end Favor Amongst the Darkspear
+
+    -- Ally of the Tauren
+    -- Magatha -> Magatha (MobNpcData.lua)
+    -- Ravak Grimtotem -> Ravak Kasırgatotemi (MobNpcData.lua)
+    -- Elder Crone -> Yaşlı Kocakarı
+    -- Alterac Valley -> Alterac Vadisi (ZoneData.lua)
+    -- Frostwolf Keep -> Buzkurdu Kalesi (ZoneData.lua)
+    ["7362"] = {
+    ["Title"]="Tauren Müttefiki",
+    ["Description"]="Yaşlı Kocakarı diğer ırkları araştırmam için beni bu savaş bölgesine gönderdi. Daha spesifik olarak, gnom örnekleri toplamalıyım. Magatha esas olarak onların hayatta kalma yetenekleriyle ilgileniyor. Evet, gnomlar - acınası derecede zayıf ve minik olsalar da - hem savaşta hem de savaş dışında büyük bir direnç sergiliyorlar.\n\nŞansına, Magatha'nın emirlerini yerine getirecek kabadayılar arıyorum. Bana gnom saçı tutamlarıyla dön, taurenler tarafından bir müttefik olarak tanınacaksın.",
+    ["Objectives"]="Alterac Vadisi'nde karşı tarafın gnom oyuncularını katletmekle görevlendirildin.\n\nBir gnom öldür ve Bir Tutam Gnom Saçı ile Buzkurdu Kalesi'ndeki Ravak Kasırgatotemi'ne dön.",
+    ["Progress"]="Saçın nereden geldiği umurumda değil, YOUR_RACE.",
+    ["Completion"]="Evet, bu kesinlikle gnom. Aferin, YOUR_RACE, ama yapılacak daha çok iş var.",
+    ["minlevel"]="51",
+    ["questlevel"]="60",
+    }, -- end Ally of the Tauren
+
+    -- The Human Condition
+    -- Commander Philips -> Komutan Philips (MobNpcData.lua)
+    -- Commander Louis Philips -> Komutan Louis Philips (MobNpcData.lua)
+    -- Sylvanas -> Sylvanas (MobNpcData.lua)
+    -- Undercity -> Mahzenşehir (ZoneData.lua)
+    -- Frostwolf -> Buzkurdu
+    -- Frostwolf keep -> Buzkurdu Kalesi (ZoneData.lua)
+    -- Dark Apothecaries -> Karanlık Eczacılar
+    -- Alterac Valley -> Alterac Vadisi (ZoneData.lua)
+    ["7363"] = {
+    ["Title"]="İnsanlık Durumu",
+    ["Description"]="İnsanlar son derece iğrenç.\n\n<Komutan Philips yüzünü ekşitir.>\n\nBuzkurdu askeri olduğum doğru olsa da hâlâ Sylvanas'ın bir hizmetkarıyım.\n\nGörev sürem boyunca Mahzenşehir'in Karanlık Eczacıları için ek işler yapıyorum.\n\nİnsanlık durumunu iyileştirmede kullanılacak insan kemik parçalarını toplamakla görevlendirildim.\n\nBu görevi astlarıma devretme yetkim var.\n\nOnları bul. Onları öldür. Kemik parçalarını bana getir.",
+    ["Objectives"]="Alterac Vadisi'nde karşı tarafın insan oyuncularını katletmekle görevlendirildin.\n\nBir insan öldür ve İnsan Kemiği Parçası ile (ön hatlar ile Buzkurdu Kalesi arasında dolaşan) Komutan Louis Philips'e dön.\n\nİnsanlık durumunun çaresi eli kulağında!",
+    ["Progress"]="Evet, doğru. Kardeşim bir insan. Utanç verici... Neredeyse lekesiz sicilimde bir leke.",
+    ["Completion"]="Hastalıklarını kabullenip iyileştirici dokunuşuna teslim olsalardı daha kolay olurdu. Muhtemelen daha az eğlenceli de olurdu. Devam et! Onları öyle ya da böyle iyileştireceğiz.",
+    ["minlevel"]="51",
+    ["questlevel"]="60",
+    }, -- end The Human Condition
+
+    -- Gnomeregan Bounty
+    -- Dirk Swindle -> Dirk Sahtekâr (MobNpcData.lua)
+    -- High Tinkerer -> Yüce Tamirci
+    -- Dun'Baldar -> Dun Baldar (ZoneData.lua)
+    -- Alterac Valley -> Alterac Vadisi (ZoneData.lua)
+    ["7364"] = {
+    ["Title"]="Gnomeregan Ödülü",
+    ["Description"]="Yüce Tamirci bizzat gnom kardeşlerimi savunmam için beni bu savaş alanına gönderdi. Taurenlerin gnomları tek tek ayırıp katlettiği haberini aldık. En kötüsü de, düşenlerin cesetlerinden muhteşem gnom saçı tutamlarını söküyorlar. Bu vahşete bir son verilmeli. Misilleme yapmalıyız!\n\nNalları sökülsün istiyorum, YOUR_CLASS. Bana nallarını getir! Gnomların müttefiki olduğunu göster.",
+    ["Objectives"]="Alterac Vadisi'nde karşı tarafın tauren oyuncularını katletmekle görevlendirildin.\n\nBir tauren öldür ve Bir Tauren Nalı ile Dun Baldar'daki Dirk Sahtekâr'a dön.",
+    ["Progress"]="Onları topallat, YOUR_NAME. Gnom halkının kabadayılığa boyun eğmeyeceğini öğrenmeliler!",
+    ["Completion"]="*Dirk nalı arkasındaki bir yığına fırlatır.*",
+    ["minlevel"]="51",
+    ["questlevel"]="60",
+    }, -- end Gnomeregan Bounty
+
+    -- Staghelm's Requiem
+    -- Staghelm -> Staghelm (MobNpcData.lua)
+    -- Athramanis -> Athramanis (MobNpcData.lua)
+    -- Dun'Baldar -> Dun Baldar (ZoneData.lua)
+    -- Alterac Valley -> Alterac Vadisi (ZoneData.lua)
+    -- Darkspear -> Karamızrak
+    ["7365"] = {
+    ["Title"]="Staghelm'in Ağıtı",
+    ["Description"]="Staghelm emri verdi. Savaş alanındaki tüm troller yok edilmeli. Gece elflerini doğurduklarına dair saçma iddiaları güçle ve gereken önyargıyla karşılanmalıdır.\n\nOnları katlet ve mojolarıyla bana dön. Yinelemek gerekirse: Mojolarını çalmanı istiyorum.",
+    ["Objectives"]="Alterac Vadisi'nde karşı tarafın troll oyuncularını katletmekle görevlendirildin.\n\nBir troll öldür ve Karamızrak Troll Mojosu ile Dun Baldar'daki Athramanis'e dön.",
+    ["Progress"]="O kokmuş trollerin kokusunu hâlâ alabiliyorum.",
+    ["Completion"]="Teşekkür ederim, YOUR_NAME. Hava biraz daha temiz.",
+    ["minlevel"]="51",
+    ["questlevel"]="60",
+    }, -- end Staghelm's Requiem
+
+    -- The Archbishop's Mercy
+    -- Commander Philips -> Komutan Philips (MobNpcData.lua)
+    -- Commander Karl Philips -> Komutan Karl Philips (MobNpcData.lua)
+    -- Benedictus -> Benedictus (MobNpcData.lua)
+    -- Archbishop -> Başpiskopos
+    -- Light -> Işık
+    -- Forsaken -> Terkedilmişler
+    -- Cathedral of Light -> Işık Katedrali
+    -- Alterac Valley -> Alterac Vadisi (ZoneData.lua)
+    ["7366"] = {
+    ["Title"]="Başpiskopos'un Merhameti",
+    ["Description"]="Başpiskopos bilge olduğu kadar nazik de. Bir adamın böylesine zavallı bir güruha merhametle bakması...\n\n<Komutan Philips inanamayarak başını sallar.>\n\nÇok nazik... Çok nazik.\n\nBaşpiskopos hortlaklara acımamızı ve onlara hızlı, kalıcı ölümler bahşetmemizi istiyor. Bu büyük merhamet gösterisi için sadece onların siyah, hastalık dolu kalplerine ihtiyacımız var.\n\nTerkedilmişler'in kalplerini bana getir ki Işık Katedrali'nde törenle yakılabilsinler. Acele et, YOUR_NAME!",
+    ["Objectives"]="Alterac Vadisi'nde karşı tarafın Terkedilmişler oyuncularını katletmekle görevlendirildin.\n\nBir Terkedilmiş öldür ve Bir Terkedilmiş Kalbi ile (bıçkı hanesi ile maden arasında dolaşan) Komutan Karl Philips'e dön.",
+    ["Progress"]="Benedictus! Onun ihtişamının gölgesinde sadece bir zerreğim. Onu övün!",
+    ["Completion"]="Benedictus'a övgüler olsun! Kayıp bir ruh daha, yakında Işık'ın kor gibi sıcak alevleri tarafından kurtarılacak!\n\nGit, ey Işık askeri! Daha fazlası kurtarılmalı!",
+    ["minlevel"]="51",
+    ["questlevel"]="60",
+    }, -- end The Archbishop's Mercy
+
+    -- Defusing the Threat
+    -- Frostwolf -> Buzkurdu
+    -- Stormpike -> Fırtınamızrak
+    -- Iceblood Garrison -> Buzkanı Garnizonu
+    ["7367"] = {
+    ["Title"]="Tehlikeyi Etkisiz Hale Getirmek",
+    ["Description"]="Buzkurdu'nun ön hatlarında ve üslerinde tuzaklar var, YOUR_CLASS. Düşman bölgesini işgal ederken adımlarına dikkat etmelisin.\n\nOnlara karşı sağlam bir darbe indirmek istiyorsan, personel karşıtı mühimmat kaynaklarını -patlayıcı uzmanlarından bahsediyorum- yok etmelisin. Onu öldürürsen mayınları güvenle etkisiz hale getirebilirsin. O etkisiz tutulduğu sürece mayınlar da etkisiz kalacaktır.\n\nOnu muhtemelen Buzkanı Garnizonu yakınındaki bir kulede bulacaksın. İyi şanslar!",
+    ["Objectives"]="Buzkurdu Patlayıcı Uzmanı'nı bul ve onu öldür. Görev tamamlandığında Fırtınamızrak Patlayıcı Uzmanı'na dön.",
+    ["Progress"]="",
+    ["Completion"]="",
+    ["minlevel"]="51",
+    ["questlevel"]="60",
+    }, -- end Defusing the Threat
+
+    -- Defusing the Threat
+    -- Stormpike -> Fırtınamızrak
+    -- Frostwolf -> Buzkurdu
+    -- Field of Strife -> Çatışma Meydanı
+    ["7368"] = {
+    ["Title"]="Tehlikeyi Etkisiz Hale Getirmek",
+    ["Description"]="Mayınlar hakkında her şeyi bilirim. Ne de olsa buradaki ön hatlardaki tüm mayınları döşeyen benim.\n\nFırtınamızrak mayın tarlalarını etkisiz hale getirmek istiyorsan tek yapman gereken onların patlayıcı uzmanını öldürmek. O cüce korkak şüphesiz Çatışma Meydanı'ndaki ilk kulede saklanıyordur. Onu ortadan kaldır, o mayınlar etkisiz hale getirildikten sonra geri gelmeyeceklerdir.\n\nOnu öldürmeyi başarırsan buraya geri gel ve bana haber ver. Hiçbir iyi eylem karşılıksız kalmamalı.",
+    ["Objectives"]="Fırtınamızrak Patlayıcı Uzmanı'nı bul ve onu öldür. Görev tamamlandığında Buzkurdu Patlayıcı Uzmanı'na dön.",
+    ["Progress"]="",
+    ["Completion"]="",
+    ["minlevel"]="51",
+    ["questlevel"]="60",
+    }, -- end Defusing the Threat
+
+    -- Fight for Warsong Gulch
+    -- Silverwing Sentinels -> Gümüşkanat Nöbetçileri
+    -- Warsong Outriders -> Savaşşarkısı Avcıları
+    -- Warsong Gulch -> Savaşşarkısı Kanyonu (ZoneData.lua)
+    -- Ashenvale -> Ashenvale (ZoneData.lua)
+    -- Astranaar -> Astranaar (ZoneData.lua)
+    -- Barrens -> Barrens (ZoneData.lua)
+    ["8399"] = {
+    ["Title"]="Savaşşarkısı Kanyonu İçin Savaş",
+    ["Description"]="Gümüşkanat Nöbetçileri, Orkların ormana verdiği zarar nedeniyle Savaşşarkısı Avcıları ile savaş halindedir. Ancak bu özel ormanı savunmak için doğaya duyulan yalın sevgiden daha fazla neden var.\n\nOrman, Ashenvale'i büyük ölçekli bir saldırıya karşı savunulabilir kılan stratejik bir engel oluşturur. O olmadan Astranaar, Barrens'a ilhak edilmeden önce bir iki gün dayanırdı.\n\nSavaşşarkısı Avcıları ile savaşmada üzerine düşeni yap, YOUR_NAME! İttifak için!",
+    ["Objectives"]="Savaş alanlarının dışındaki bir İttifak Tuğgenerali'ne 3 Savaşşarkısı Kanyonu Onur Nişanı getir.",
+    ["Progress"]="Cepheden haberlerle mi döndün, YOUR_NAME?",
+    ["Completion"]="İyi iş, YOUR_NAME. Sayende Ashenvale'deki doğal savunmamız bir gün daha bozulmadan kalacak.",
+    ["minlevel"]="20",
+    ["questlevel"]="29",
+    }, -- end Fight for Warsong Gulch
+
+    -- Claiming Arathi Basin
+    -- Arathi Basin -> Arathi Havzası (ZoneData.lua)
+    ["8398"] = {
+    ["Title"]="Arathi Havzası'nı Talep Etmek",
+    ["Description"]="Bir savaşı kazanmak, rakibinizi zekice alt etmekten ve savaşta yenmekten daha fazlasıdır. Zafer genellikle sadece düşmanınızdan daha fazla üretmeye dayanır.\n\nArathi Havzası'nda sahip olduğumuz şey, ilk talep etmeyi başaran taraf için hatırı sayılır miktarda kaynak ikmalidir.\n\nİttifak galip gelirse bu birliklerimiz için daha fazla kılıç ve mızrak anlamına gelecek. Horde kazanırsa o kılıçlar ve mızraklar yine yapılacak ama sadece bize doğrultulacak! Şimdi Arathi Havzası'nda İttifak'a yardım etme zamanıdır, YOUR_NAME.",
+    ["Objectives"]="Savaş alanlarının dışındaki bir İttifak Tuğgenerali'ne 3 Arathi Havzası Onur Nişanı getir.",
+    ["Progress"]="Horde'a karşı savaş kaynaklarımızı hızla tüketiyor, YOUR_NAME. Kaynak akışını sürdürmek için Arathi Havzası'nın kontrolünü elde tutmak hayati önem taşıyor! Arathi'de henüz bir el attın mı?",
+    ["Completion"]="Mükemmel iş, YOUR_CLASS! Çabaların İttifak'a ihtiyaç duyduğu kaynakları sağlamada yardımcı olacak.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Claiming Arathi Basin
+
+    -- A Gallon of Blood
+    -- Ice Lord -> Buz Lordu
+    -- Frostwolf Clan -> Buzkurdu Klanı
+    -- Stormpike -> Fırtınamızrak
+    ["7385"] = {
+    ["Title"]="Bir Galon Kan",
+    ["Description"]="Düşmanlarımızdan alınan kanın daha büyük miktarlarını sunma seçeneğin var. Galon boyutundaki sunuları kabul etmekten memnuniyet duyacağım, YOUR_NAME.",
+    ["Objectives"]="",
+    ["Progress"]="Düşmanlarımızı yere sermeli ve kanlarını bana getirmelisin.",
+    ["Completion"]="Düşmanlarımızın kanı döküldü. Bu kanı toplanan diğer kanlarla karıştıracağım. Sunu tamamlandığında, Buz Lordu bu Fırtınamızrak köpeklerine Buzkurdu Klanı'nın tüm gazabını gösterecek!",
+    ["minlevel"]="51",
+    ["questlevel"]="60",
+    }, -- end A Gallon of Blood
+
+    -- Crystal Cluster
+    -- Ivus -> Ivus (MobNpcData.lua)
+    -- Frostwolf -> Buzkurdu
+    -- Circle -> Çember
+    ["7386"] = {
+    ["Title"]="Kristal Kümesi",
+    ["Description"]="Bazen günlerce veya haftalarca savaşta siperlenmiş olabileceğin zamanlar vardır. Bu daha uzun aktivite dönemlerinde Buzkurdu'nun fırtına kristallerinden büyük kümeler toplayabilirsin.\n\nÇember bu tür sunuları kabul eder, YOUR_NAME.",
+    ["Objectives"]="",
+    ["Progress"]="Buzkurdu askerleri fırtına kristalleri adı verilen elementel tılsımlar taşıyor. Ivus'u çağırmak için tılsımları kullanabiliriz. İleri atıl ve kristalleri talep et, YOUR_NAME!",
+    ["Completion"]="Aferin, YOUR_NAME. Zaten toplanmış olan büyüyü artırmak için bu tılsımların gücünü kullanacağım. Yeterince güç toplandığında, toplanan enerjileri odaklayacağım ve davamıza yardım etmesi için Orman Lordu'nu çağıracağım.",
+    ["minlevel"]="51",
+    ["questlevel"]="60",
+    }, -- end Crystal Cluster
+
+    -- WANTED: DWARVES!
+    -- Sergeant Yazra Bloodsnarl -> Çavuş Yazra Kanlıhırıltı (MobNpcData.lua)
+    -- Frostwolf -> Buzkurdu
+    -- Frostwolf Keep -> Buzkurdu Kalesi (ZoneData.lua)
+    ["7401"] = {
+    ["Title"]="ARANIYOR: CÜCELER!",
+    ["Description"]="Çavuş Yazra Kanlıhırıltı'nın emriyle, savaş alanındaki tüm cüceler görüldükleri yerde öldürülecektir.\n\nSavaşta bir cüce katledersen, omurgasını sök ve Buzkurdu'nun gücüne karşı koymaya cesaret eden herkes için bir uyarı niteliğinde omurgasız bir koku ve çürüme yığını bırak.\n\nKahramanlığının kanıtıyla Çavuş Yazra Kanlıhırıltı'ya dön.",
+    ["Objectives"]="Alterac Vadisi'nde karşı tarafın Cüce oyuncularını katletmekle görevlendirildin.\n\nBir Cüce öldür ve omurgasını sök. Cüce Omurgası'nı Buzkurdu Kalesi'ndeki Çavuş Yazra Kanlıhırıltı'ya götür.",
+    ["Progress"]="Toptan ironi işiyle uğraşıyorum, asker.",
+    ["Completion"]="Artık onlarca cüceyi katletme lisansına sahipsin, YOUR_CLASS!\n\n<Yazra bir an uzaklara dalar.>\n\nİlk omurga söküşünü asla unutamazsın...",
+    ["minlevel"]="51",
+    ["questlevel"]="60",
+    }, -- end WANTED: DWARVES!
+
+    -- WANTED: ORCS!
+    -- Corporal Noreg Stormpike -> Onbaşı Noreg Fırtınamızrak (MobNpcData.lua)
+    -- Stormpike -> Fırtınamızrak
+    -- Dun Baldar -> Dun Baldar (ZoneData.lua)
+    ["7402"] = {
+    ["Title"]="ARANIYOR: ORKLAR!",
+    ["Description"]="Onbaşı Noreg Fırtınamızrak'ın emriyle, Fırtınamızrak'ın tüm eli silah tutan askerlerinin savaş alanında karşılaştıkları tüm karşı taraf orklarını katletmeleri gerekmektedir.\n\nAskerlerin düşmanın ağzından bir azı dişi veya diş sökmesi ve bahsi geçen dişi başarılarının kanıtı olarak sunması gerekmektedir.\n\nKoruyucu eldiven giyin.",
+    ["Objectives"]="Alterac Vadisi'nde karşı tarafın Ork oyuncularını katletmekle görevlendirildin.\n\nBir Ork öldür ve Ork Dişi'ni Dun Baldar'daki Onbaşı Noreg Fırtınamızrak'a geri götür.",
+    ["Progress"]="Dişleri sökmek için kıskaç lazım mı?",
+    ["Completion"]="Güzel, YOUR_NAME. Küçük fareleri bekliyorum.",
+    ["minlevel"]="51",
+    ["questlevel"]="60",
+    }, -- end WANTED: ORCS!
+
+    -- Darkspear Defense
+    ["7421"] = {
+    ["Title"]="Karamızrak Savunması",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Bizi yok etmek mi istiyorlar? Yok edilecek olanlar kendileridir.",
+    ["Completion"]="YOUR_NAME, bu binlercesinden sadece biri. Yine de iyi yapılmış bir iş.",
+    ["minlevel"]="51",
+    ["questlevel"]="60",
+    }, -- end Darkspear Defense
+
+    -- Tuft it Out
+    ["7422"] = {
+    ["Title"]="Tüyünü Yol",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Saçın nereden geldiği umurumda değil, YOUR_RACE.",
+    ["Completion"]="Evet, bu kesinlikle gnom. Aferin, YOUR_RACE, ama yapılacak daha çok iş var.",
+    ["minlevel"]="51",
+    ["questlevel"]="60",
+    }, -- end Tuft it Out
+
+    -- I've Got A Fever For More Bone Chips
+    ["7423"] = {
+    ["Title"]="Daha Fazla Kemik Parçası Ateşim Var",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Evet, doğru. Kardeşim bir insan. Utanç verici... Neredeyse lekesiz sicilimde bir leke.",
+    ["Completion"]="Hastalıklarını kabullenip iyileştirici dokunuşuna teslim olsalardı daha kolay olurdu. Muhtemelen daha az eğlenceli de olurdu. Devam et! Onları öyle ya da böyle iyileştireceğiz.",
+    ["minlevel"]="51",
+    ["questlevel"]="60",
+    }, -- end I've Got A Fever For More Bone Chips
+
+    -- What the Hoof?
+    ["7424"] = {
+    ["Title"]="Nalına Yandığım?",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Onları topallat, YOUR_NAME. Gnom halkının kabadayılığa boyun eğmeyeceğini öğrenmeliler!",
+    ["Completion"]="*Dirk nalı arkasındaki bir yığına fırlatır.*",
+    ["minlevel"]="51",
+    ["questlevel"]="60",
+    }, -- end What the Hoof?
+
+    -- Staghelm's Mojo Jamboree
+    ["7425"] = {
+    ["Title"]="Staghelm'in Mojo Şenliği",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="O kokmuş trollerin kokusunu hâlâ alabiliyorum.",
+    ["Completion"]="Teşekkür ederim, YOUR_NAME. Hava biraz daha temiz.",
+    ["minlevel"]="51",
+    ["questlevel"]="60",
+    }, -- end Staghelm's Mojo Jamboree
+
+    -- One Man's Love
+    -- Benedictus -> Benedictus (MobNpcData.lua)
+    -- Light -> Işık
+    ["7426"] = {
+    ["Title"]="Bir Adamın Sevgisi",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Benedictus! Onun ihtişamının gölgesinde sadece bir zerreğim. Onu övün!",
+    ["Completion"]="Benedictus'a övgüler olsun! Kayıp bir ruh daha, yakında Işık'ın kor gibi sıcak alevleri tarafından kurtarılacak!\n\nGit, ey Işık askeri! Daha fazlası kurtarılmalı!",
+    ["minlevel"]="51",
+    ["questlevel"]="60",
+    }, -- end One Man's Love
+
+    -- WANTED: MORE DWARVES!
+    ["7427"] = {
+    ["Title"]="ARANIYOR: DAHA FAZLA CÜCE!",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Toptan ironi işiyle uğraşıyorum, asker.",
+    ["Completion"]="Artık onlarca cüceyi katletme lisansına sahipsin, YOUR_CLASS!\n\n<Yazra bir an uzaklara dalar.>\n\nİlk omurga söküşünü asla unutamazsın...",
+    ["minlevel"]="51",
+    ["questlevel"]="60",
+    }, -- end WANTED: MORE DWARVES!
+
+    -- WANTED: MORE ORCS!
+    ["7428"] = {
+    ["Title"]="ARANIYOR: DAHA FAZLA ORK!",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Dişleri sökmek için kıskaç lazım mı?",
+    ["Completion"]="Güzel, YOUR_NAME. Küçük fareleri bekliyorum.",
+    ["minlevel"]="51",
+    ["questlevel"]="60",
+    }, -- end WANTED: MORE ORCS!
+
+    -- Free Knot!
+    -- Knot Thimblejack -> Düğüm Yüksükjak (MobNpcData.lua)
+    -- Gordok -> Gordok
+    ["7429"] = {
+    ["Title"]="Knot'a Özgürlük!",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Buna Gordok Pranga Anahtarı deniyor - yani bu \"eğlence tonları\" öyle deyip duruyor. Ogretlerin herhangi birinde olabileceğini düşünüyorum ama spesifik birinde var mı emin değilim. Belki muhafızların sahip olma olasılığı daha yüksektir...\n\nNe diyorum ben - sende zaten var, değil mi?! Oradaki o mu??!",
+    ["Completion"]="Oh, beni kurtardığın için teşekkür ederim! Sen - bir numaradasın. Diğer herkes - iki veya daha altı rütbede.\n\nHayatımın bir ogreye meze olmaktan daha fazlasına yazgılı olduğunu biliyordum!",
+    ["minlevel"]="56",
+    ["questlevel"]="60",
+    }, -- end Free Knot!
+
+    -- Pusillin and the Elder Azj'Tordin
+    -- Pusillin -> Pusillin (MobNpcData.lua)
+    -- Azj'Tordin -> Azj'Tordin (MobNpcData.lua)
+    -- Tortheldrin -> Tortheldrin (MobNpcData.lua)
+    -- Eldre'Thalas -> Eldre'Thalas (ZoneData.lua)
+    -- Dire Maul -> Dire Maul (ZoneData.lua)
+    -- Warpwood Quarter -> Warpwood Çeyreği
+    -- Lariss Pavilion -> Lariss Köşkü
+    -- Feralas -> Feralas (ZoneData.lua)
+    ["7441"] = {
+    ["Title"]="Pusillin ve Kadim Azj'Tordin",
+    ["Description"]="Savunmamı sadece bir anlığına düşürdüm, yabancı. Düşmüş Prens'in pençesinden kaçma telaşımla soyuldum. En iğrenç iblis, zıpır Pusillin, büyü kitabımı ve bir zamanlar yüce olan Eldre'Thalas salonlarının anahtarını çaldı.\n\nÖzgürlük için ölümsüzlüğümü takas ettiğimden artık anahtara ilgi duymuyorum, ancak büyü kitabıma umutsuzca ihtiyacım var.\n\nZıpır Pusillin'i bul ve kitabımı geri al.\n\nPusillin için Dire Maul'un Warpwood Çeyreği'ni ara.",
+    ["Objectives"]="Dire Maul'a seyahat et ve Zıpır Pusillin'i bul. Ne gerekiyorsa yaparak Pusillin'i Azj'Tordin'in Büyü Kitabı'nı vermeye ikna et.\n\nBüyü Kitabı'nı geri alırsan Feralas'taki Lariss Köşkü'nde bulunan Azj'Tordin'e dön.",
+    ["Progress"]="Hiçbir şeyden pişman değilim, yabancı. Kraliçe çoktan öldü. Shen'Dralar'ın eserleri Prens Tortheldrin'in çılgınlığıyla bozuldu. Ben sadece özgürlük istiyorum... Kaçış...",
+    ["Completion"]="Onu buldun! O sefil zıpıra lanet olsun. Ne yazık ki maddi varlığım en iyi ihtimalle yetersiz. Sunabileceğim şeyler arasından seçim yapabilirsin.",
+    ["minlevel"]="54",
+    ["questlevel"]="58",
+    }, -- end Pusillin and the Elder Azj'Tordin
+
+    -- The Madness Within
+    -- Immol'thar -> Immol'thar (MobNpcData.lua)
+    -- Tortheldrin -> Tortheldrin (MobNpcData.lua)
+    -- Shen'dralar Ancient -> Shen'dralar Kadimi (MobNpcData.lua)
+    -- Prison of Immol'thar -> Immol'thar Hapishanesi
+    -- Athenaeum -> Athenaeum
+    ["7461"] = {
+    ["Title"]="İçerideki Çılgınlık",
+    ["Description"]="Yeterince duydun mu? Eylem insanı mısın?\n\nBu çılgınlık sona ermeli. Ölümsüzlerin çağı çoktan geçti. Güç alanını düşürmek için dikilitaşları çevreleyen muhafızları yok et. Bu yapıldığında Immol'thar'ı yok et. Prens'in gücü büyük ölçüde azaldığında ona saldır ve işini bitir. Bu şehrin ruhlarını huzura kavuştur, maceracı.",
+    ["Objectives"]="Immol'thar Hapishanesi'ne güç veren 5 Dikilitaş'ı çevreleyen muhafızları yok etmelisin. Dikilitaşlar kapandığında Immol'thar'ı çevreleyen güç alanı dağılmış olacaktır.\n\nImmol'thar Hapishanesi'ne gir ve kalbinde duran faul iblisi kökünden kazı. Son olarak Athenaeum'da Prens Tortheldrin ile yüzleş.\n\nBu görevi tamamlarsan avlulardaki Shen'dralar Kadimi'ne dön.",
+    ["Progress"]="Dikkatli ol, maceracı. Prens... ikna edicidir.",
+    ["Completion"]="Sana teşekkür ederiz, kahraman.",
+    ["minlevel"]="56",
+    ["questlevel"]="60",
+    }, -- end The Madness Within
+
+    -- The Treasure of the Shen'dralar
+    -- Shen'dralar -> Shen'dralar
+    -- Athenaeum -> Athenaeum
+    ["7462"] = {
+    ["Title"]="Shen'dralar Hazinesi",
+    ["Description"]="Kütüphanede, Athenaeum'da, merdivenlerin altında gizlenmiş kadim bir sandık bulacaksın. Arzulamış olduğun şeyi oradan al.",
+    ["Objectives"]="Athenaeum'a dön ve Shen'dralar Hazinesi'ni bul. Ödülünü talep et!",
+    ["Progress"]="",
+    ["Completion"]="Bulmak için sandığı açıyorsun...",
+    ["minlevel"]="57",
+    ["questlevel"]="60",
+    }, -- end The Treasure of the Shen'dralar
+
+    -- Arcane Refreshment
+    -- Hydrospawn -> Hidrofiliz (MobNpcData.lua)
+    -- Lydros -> Lydros (MobNpcData.lua)
+    -- Eldre'Thalas -> Eldre'Thalas (ZoneData.lua)
+    -- Warpwood Quarter -> Warpwood Çeyreği
+    -- Athenaeum -> Athenaeum
+    ["7463"] = {
+    ["Title"]="Arkana Tazelenme",
+    ["Description"]="Bir YOUR_RACE büyücüsü! Ne harika. Seninkilerden birini görmeyeli... oh ne kadar oldu? 500 yıl!\n\nSusamışlığını giderecek bir şeyim var ama önce benim için bir görev yapmalısın.\n\n<Lydros kıkırdar.>\n\nEldre'Thalas'ta bir anormallik var. Doğu kanadına bir su elementali yerleşti. Onun varlığı kataloglanmalı!\n\nWarpwood Çeyreği'ne git ve Hidrofiliz'in elementel özünün bir kısmını çıkar. Onu bana geri getir, ben de sana kullanışlı bir büyü öğreteyim.",
+    ["Objectives"]="Dire Maul'un Warpwood Çeyreği'ne seyahat et ve su elementali Hidrofiliz'i katlet. Hidrofiliz Özü ile Athenaeum'daki Bilgi Koruyucusu Lydros'a dön.",
+    ["Progress"]="Evet? Seni tanıyor muyum?",
+    ["Completion"]="Harika! Sen kimdin yine? Oh önemli değil. Sana ne vermem gerekiyordu? Hrm... şey sen bir büyücüsün, belki bunu kullanışlı bulursun.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Arcane Refreshment
+
+    -- Elven Legends
+    -- Kariel Winthalus -> Kariel Winthalus (MobNpcData.lua)
+    -- Sage Korolusk -> Bilge Korolusk (MobNpcData.lua)
+    -- Scholar Runethorn -> Bilgin Runethorn (MobNpcData.lua)
+    -- Quel'Thalas -> Quel'Thalas (ZoneData.lua)
+    -- Burning Steppes -> Yanan Bozkırlar (ZoneData.lua)
+    -- Feralas -> Feralas (ZoneData.lua)
+    -- Eldre'Thalas -> Eldre'Thalas (ZoneData.lua)
+    -- Dire Maul -> Dire Maul (ZoneData.lua)
+    -- Camp Mojache -> Mojache Kampı (ZoneData.lua)
+    ["7481"] = {
+    ["Title"]="Elfi Efsaneleri",
+    ["Description"]="Nitekim birkaç yıl önce, Kariel Winthalus adında tek bir usta elfi, yanında birkaç kadim elfi kalıntısıyla vatanının yıkımından kaçtı.\n\nBu kayıp ustayı arayışımız bizi Quel'Thalas kalıntılarından Yanan Bozkırlar'a, denizin engin genişliklerinden Feralas'a sürükledi.\n\nElfın Eldre'Thalas salonlarına (şimdi Dire Maul olarak bilinen yere) sığındığından şüpheleniyoruz.\n\nOnu bulmalısın, maceracı. İster canlı ister ölü olsun, taşıdığı bilgi kurtarılmalı!",
+    ["Objectives"]="Kariel Winthalus için Dire Maul'u ara. Bulabileceğin herhangi bir bilgiyle Mojache Kampı'ndaki Bilge Korolusk'a rapor ver.",
+    ["Progress"]="Oluşum ortağım, gece elfi bilgini Runethorn bu görev için müttefiklerini topluyor.",
+    ["Completion"]="Ne yazık... bir trajedi. Eşyaların kaybolduğunu mu söylüyorsun? Onlar hakkında hiçbir iz yok, ha?",
+    ["minlevel"]="54",
+    ["questlevel"]="60",
+    }, -- end Elven Legends
+
+    -- Elven Legends
+    -- Kariel Winthalus -> Kariel Winthalus (MobNpcData.lua)
+    -- Scholar Runethorn -> Bilgin Runethorn (MobNpcData.lua)
+    -- Sage Korolusk -> Bilge Korolusk (MobNpcData.lua)
+    -- Quel'Thalas -> Quel'Thalas (ZoneData.lua)
+    -- Burning Steppes -> Yanan Bozkırlar (ZoneData.lua)
+    -- Feralas -> Feralas (ZoneData.lua)
+    -- Eldre'Thalas -> Eldre'Thalas (ZoneData.lua)
+    -- Dire Maul -> Dire Maul (ZoneData.lua)
+    -- Feathermoon -> Feathermoon
+    ["7482"] = {
+    ["Title"]="Elfi Efsaneleri",
+    ["Description"]="Nitekim birkaç yıl önce, Kariel Winthalus adında tek bir usta elfi, yanında birkaç kadim elfi kalıntısıyla vatanının yıkımından kaçtı.\n\nBu kayıp ustayı arayışımız bizi Quel'Thalas kalıntılarından Yanan Bozkırlar'a, denizin engin genişliklerinden Feralas'a sürükledi.\n\nElfın Eldre'Thalas salonlarına (şimdi Dire Maul olarak bilinen yere) sığındığından şüpheleniyoruz.\n\nOnu bulmalısın, maceracı. İster canlı ister ölü olsun, taşıdığı bilgi kurtarılmalı!",
+    ["Objectives"]="Kariel Winthalus için Dire Maul'u ara. Bulabileceğin herhangi bir bilgiyle Feathermoon'daki Bilgin Runethorn'a rapor ver.",
+    ["Progress"]="Oluşum ortağım, tauren bilgesi Korolusk bu görev için müttefiklerini topluyor.",
+    ["Completion"]="Ne yazık... bir trajedi. Eşyaların kaybolduğunu mu söylüyorsun? Onlar hakkında hiçbir iz yok, ha?",
+    ["minlevel"]="54",
+    ["questlevel"]="60",
+    }, -- end Elven Legends
+
+    -- Libram of Rapidity
+    -- Lorekeeper Lydros -> Bilgi Koruyucusu Lydros (MobNpcData.lua)
+    -- Lydros -> Lydros (MobNpcData.lua)
+    -- Dire Maul -> Dire Maul (ZoneData.lua)
+    -- Libram of Rapidity -> Çabukluk El Kitabı
+    -- Arcanum of Rapidity -> Çabukluk Arkanumu
+    ["7483"] = {
+    ["Title"]="Çabukluk El Kitabı",
+    ["Description"]="Usta Winthalus doğu kanadında Çabukluk El Kitabı'nı kaybetti. El Kitabı ekipmanına küçük bir acele büyüsünün yerleştirilmesine izin verecek. Gerçekten salon gösterileri...\n\nYine de ilgileniyorsan El Kitabı'nı bazı temel reaktiflerle birlikte sunman gerekecek.\n\nHrm... Sanırım kahramanların kanını, kusursuz bir siyah elması ve büyük parlak parçaları da gerektiriyor. Yanılıyor olabilirim!\n\n<Lydros omuz silker.>",
+    ["Objectives"]="Çabukluk Arkanumu almak için Dire Maul'daki Bilgi Koruyucusu Lydros'a bir Çabukluk El Kitabı, 1 Kusursuz Siyah Elmas, 2 Büyük Parlak Parça ve 2 Kahraman Kanı getir.",
+    ["Progress"]="Ne var? Yapacak çok fazla kataloglama işim var!",
+    ["Completion"]="<Lydros esner.>\n\nSöz verildiği gibi, Çabukluk Arkanumu. Hepsini tek bir yerde harcama.\n\n<Lydros kıkırdar.>",
+    ["minlevel"]="57",
+    ["questlevel"]="60",
+    }, -- end Libram of Rapidity
+
+    -- Libram of Focus
+    -- Lorekeeper Lydros -> Bilgi Koruyucusu Lydros (MobNpcData.lua)
+    -- Dire Maul -> Dire Maul (ZoneData.lua)
+    -- Libram of Focus -> Odaklanma El Kitabı
+    -- Arcanum of Focus -> Odaklanma Arkanumu
+    -- Highborne -> Yükseksoylu
+    ["7484"] = {
+    ["Title"]="Odaklanma El Kitabı",
+    ["Description"]="Bu el kitabı genç Bilgi Koruyucusu'nun tanıdıklarından birinde neredeyse ilgi uyandırdı. Zavallı şey, sadece birkaç haftalıktı.\n\nAramızda büyülü yönü daha ağır basanlar bu eşyayı ilginç bulabilir.\n\nOdaklanma El Kitabı bu kanatta kayboldu. Sadece Yükseksoylu ruhlarından birinin ona sahip olduğunu varsayabilirim.\n\nEl Kitabı'nı bazı büyük parlak parçalar, gölge derisi ve kusursuz bir siyah elmas ile birlikte getir, ben de Arkanum'u oluşturayım.",
+    ["Objectives"]="Odaklanma Arkanumu almak için Dire Maul'daki Bilgi Koruyucusu Lydros'a bir Odaklanma El Kitabı, 1 Kusursuz Siyah Elmas, 4 Büyük Parlak Parça ve 2 Gölge Derisi getir.",
+    ["Progress"]="Yine mi sen? Şimdi ne istiyor olabilirsin ki?",
+    ["Completion"]="Efsunu uygularken kendine zarar verme, YOUR_RACE.",
+    ["minlevel"]="57",
+    ["questlevel"]="60",
+    }, -- end Libram of Focus
+
+    -- Libram of Protection
+    -- Lorekeeper Lydros -> Bilgi Koruyucusu Lydros (MobNpcData.lua)
+    -- Dire Maul -> Dire Maul (ZoneData.lua)
+    -- Libram of Protection -> Koruma El Kitabı
+    -- Arcanum of Protection -> Koruma Arkanumu
+    ["7485"] = {
+    ["Title"]="Koruma El Kitabı",
+    ["Description"]="Bu el kitabının kaybına bir bebek gibi ağladı. Aklında olsun, ben de metinler üzerine ağladım - bilgiden ve tarihten daha büyük bir kayıp yoktur - ama bu neredeyse işe yaramaz büyü karmaşasına ağlamak mı? Saçmalık! Prens'in onun etini kemiklerinden yüzerek ona bir iyilik yaptığına inanmama neden oldu.\n\nEl Kitabı'nı kusursuz bir siyah elmas, büyük parlak parçalar ve yıpranmış bir tiksinçlik dikişi ile birlikte getir, ben de Arkanum'u yeniden oluşturayım.\n\nOh, ve kuzey kanadını kontrol et.",
+    ["Objectives"]="Koruma Arkanumu almak için Dire Maul'daki Bilgi Koruyucusu Lydros'a bir Koruma El Kitabı, 1 Kusursuz Siyah Elmas, 2 Büyük Parlak Parça ve 1 Yıpranmış Tiksinçlik Dikişi getir.",
+    ["Progress"]="Sabrım senin acı çekmeni engelliyor.",
+    ["Completion"]="Evet, evet... Sakin ol. Söz verildiği gibi, işte Arkanum'un.",
+    ["minlevel"]="57",
+    ["questlevel"]="60",
+    }, -- end Libram of Protection
+
+    -- A Hero's Reward
+    -- Hydraxis -> Hydraxis (MobNpcData.lua)
+    -- Warlords -> Savaşlordları
+    -- Waterlords -> Su Lordları
+    ["7486"] = {
+    ["Title"]="Bir Kahramanın Ödülü",
+    ["Description"]="YOUR_NAME, Savaşlordları'na olan hizmetlerin bu dünyanın sakinlerinden bekleyebileceğimiz her şeyi aştı.\n\nHalkının minnettarlık veya iyi işleri ödüllendirme kavramlarını anlamıyoruz, ancak bu durumda... belki bir ödül garanti edilebilir.\n\nBu adanın güney tabanındaki dalgaların altında bir kasa bulacaksın. İçinde senin... ödülünü bulacaksın.\n\nGit, YOUR_NAME. Ödülünü talep et.",
+    ["Objectives"]="Ödülünü Hydraxis'in Kasası'ndan talep et.",
+    ["Progress"]="",
+    ["Completion"]="Hydraxis'in sesi suyun yüzeyinden iniyor...\n\n\"Sana en uygun olanı seç, YOUR_NAME. Seni Su Lordları'nın düşmanlarına karşı korusun.\"",
+    ["minlevel"]="55",
+    ["questlevel"]="60",
+    }, -- end A Hero's Reward
+
+    -- Attunement to the Core
+    -- Lothos Riftwaker -> Lothos Yarıkyürüten (MobNpcData.lua)
+    -- Firelord -> Ateş Lordu (MobNpcData.lua)
+    -- Blackrock Mountain -> Karakaya Dağı (ZoneData.lua)
+    -- Blackrock Depths -> Karakaya Derinlikleri (ZoneData.lua)
+    -- Molten Core -> Erimiş Çekirdek (ZoneData.lua)
+    ["7487"] = {
+    ["Title"]="Çekirdekle Uyumlanma",
+    ["Description"]="Yarıklar etrafımızda çalkalanıyor, yırtılıyor ve çöküyor, YOUR_RACE. Durduğum yerden iki adım ötede Karakaya Dağı'nın derinliklerinden geçip Ateş Lordu'nun ağzına çıkan bir yırtık var.\n\nŞaşırdın mı? Yazık... Ölümlü ırklar göremedikleri, dokunamadıkları veya hissedemedikleri şeyleri kavrayamazlar.\n\nSeni temin ederim, geçit orada ve erişim mümkün.\n\nİlgini mi çektim? Uyumlanma basittir. Karakaya Derinlikleri'ne git ve bir çekirdek parçası al. Onu bana geri getir, ben de özünü geçitle uyumlayayım.",
+    ["Objectives"]="Karakaya Derinlikleri'ndeki Erimiş Çekirdek giriş geçidine git ve bir Çekirdek Parçası elde et. Çekirdek Parçasını aldığında Karakaya Dağı'ndaki Lothos Yarıkyürüten'e dön.",
+    ["Progress"]="Erişim verilmeden önce ruhunu Erimiş Çekirdek ile uyumlamalısın.",
+    ["Completion"]="Artık seni Erimiş Çekirdek'e ışınlayabilirim. İste ve yapılacaktır.",
+    ["minlevel"]="55",
+    ["questlevel"]="60",
+    }, -- end Attunement to the Core
+
+    -- Lethtendris's Web
+    -- Lethtendris -> Lethtendris (MobNpcData.lua)
+    -- Latronicus Moonspear -> Latronicus Aymızrağı (MobNpcData.lua)
+    -- Dire Maul -> Dire Maul (ZoneData.lua)
+    -- Warpwood Quarter -> Warpwood Çeyreği
+    -- Feathermoon Stronghold -> Tüyayı Hisarı (ZoneData.lua)
+    -- Feralas -> Feralas (ZoneData.lua)
+    ["7488"] = {
+    ["Title"]="Lethtendris'in Ağı",
+    ["Description"]="Acımasızlığı sadece büyüye olan çarpık bağımlılığıyla eşleşen cani bir kan elfi olan büyücü Lethtendris, Dire Maul'a kaçtı. Oradaki büyülü enerjileri tuzağa düşürmek için bir cihaz, bir ağ yarattı ve kontrol edilmezse dünyamıza tamir edilemez zararlar vereceğinden korkuyoruz!\n\nOnu durdur, YOUR_NAME. Onu bul ve ağını al. Muhtemelen Dire Maul'un Warpwood Çeyreği'ndeki satirlerin yakınındadır. Gücünün yaban hayata güvenle geri salınabilmesi için ağı bana getir...",
+    ["Objectives"]="Lethtendris'in Ağı'nı Feralas'taki Tüyayı Hisarı'nda bulunan Latronicus Aymızrağı'na getir.",
+    ["Progress"]="Ağ yanında mı, YOUR_NAME? Yoğunlaşmış büyülü enerjisi dağıtılmalı!",
+    ["Completion"]="Ağı geri aldın! Aferin, YOUR_NAME! Lethtendris, kendi türünden birçok elf gibi, büyünün kötüye kullanılmasının dünyamıza neden olabileceği tehlikelere karşı kördür. Büyünün efendileri olduklarına inanırlar; kendi bağımlılıklarının kölesi olduklarını fark etmezler. Ölümü beni üzüyor ama gerekliydi.\n\nTeşekkür ederim, YOUR_NAME. Ağın içindeki enerjilerin geniş bir alana güvenle salınmasını sağlayacağım ve ardından gelecekteki büyü istismarını önlemek için onu yok edeceğim.",
+    ["minlevel"]="54",
+    ["questlevel"]="57",
+    }, -- end Lethtendris's Web
+
+    -- Lethtendris's Web
+    -- Lethtendris -> Lethtendris (MobNpcData.lua)
+    -- Talo Thornhoof -> Talo Dikennallı (MobNpcData.lua)
+    -- Dire Maul -> Dire Maul (ZoneData.lua)
+    -- Warpwood Quarter -> Warpwood Çeyreği
+    -- Camp Mojache -> Mojache Kampı (ZoneData.lua)
+    -- Feralas -> Feralas (ZoneData.lua)
+    ["7489"] = {
+    ["Title"]="Lethtendris'in Ağı",
+    ["Description"]="Kan elfi Lethtendris sınırlarını aştı. Büyülü güç toplamaya o kadar hevesliydi ki kardeşlerine karşı geldi ve sinsice tasarlanmış bir cihaz, Dire Maul'un lekelenmiş büyülü enerjilerini çekmek için tasarlanmış bir ağ yarattı. Şimdi bile o enerjileri topluyor ve düşmanlarına karşı salmayı planlıyor.\n\nLethtendris durdurulmalı. Onu Dire Maul'un Warpwood Çeyreği içinde bul, onu yen ve inceleme için daha aklı başında kan elflerine geri götürülebilsin diye ağını bana getir.",
+    ["Objectives"]="Lethtendris'in Ağı'nı Feralas'taki Mojache Kampı'nda bulunan Talo Dikennallı'ya getir.",
+    ["Progress"]="YOUR_NAME, Lethtendris'in Ağı yanında mı?",
+    ["Completion"]="İyi iş çıkardın, YOUR_NAME. Bu ağ içinde Dire Maul büyüsünün engin depolarını barındırıyor ve bu enerjilerin Lethtendris gibi sorumsuz biri tarafından dizginlenmesi durumunda ne gibi hasarların salınabileceğinden korkuyorum. Ölümünden üzüntü duyuyorum ama canlıyken ağından asla ayrılamayacağını biliyorum.\n\nTeşekkür ederim, YOUR_NAME. Ağı Lethtendris'ten daha sorumlu büyü öğrencilerine göndereceğim. Gücünün yeni muhafızları onlar olacaklar.",
+    ["minlevel"]="54",
+    ["questlevel"]="57",
+    }, -- end Lethtendris's Web
+
+    -- Camp Mojache
+    -- Talo Thornhoof -> Talo Dikennallı (MobNpcData.lua)
+    -- Talo -> Talo (MobNpcData.lua)
+    -- Feralas -> Feralas (ZoneData.lua)
+    -- Camp Mojache -> Mojache Kampı (ZoneData.lua)
+    -- Dire Maul -> Dire Maul (ZoneData.lua)
+    ["7492"] = {
+    ["Title"]="Mojache Kampı",
+    ["Description"]="Feralas'taki yaşlı bir Tauren olan Talo Dikennallı yardım talebinde bulunuyor. Az detay verdi ama hem hassas hem de vahim bir konu için ajanlara ihtiyacı olduğunu söyledi...\n\nHorde'a hizmet et, YOUR_NAME. Feralas'taki Mojache Kampı'na git ve Talo ile konuş.",
+    ["Objectives"]="Feralas'taki Mojache Kampı'nda bulunan Talo Dikennallı ile konuş.",
+    ["Progress"]="",
+    ["Completion"]="Ah, bir YOUR_CLASS'ın çağrıma kulak verdiğini görmek güzel. Hizmetlerine ihtiyacım var, YOUR_NAME, ve seni tehlikeli bir yola sokacaklarından korkuyorum...\n\nDire Maul'a giden bir yol.",
+    ["minlevel"]="54",
+    ["questlevel"]="57",
+    }, -- end Camp Mojache
+
+    -- Feathermoon Stronghold
+    -- Lethtendris -> Lethtendris (MobNpcData.lua)
+    -- Latronicus Moonspear -> Latronicus Aymızrağı (MobNpcData.lua)
+    -- Latronicus -> Latronicus (MobNpcData.lua)
+    -- Eldre'thalas -> Eldre'thalas (ZoneData.lua)
+    -- Dire Maul -> Dire Maul (ZoneData.lua)
+    -- Feathermoon Stronghold -> Tüyayı Hisarı (ZoneData.lua)
+    -- Feralas -> Feralas (ZoneData.lua)
+    ["7494"] = {
+    ["Title"]="Tüyayı Hisarı",
+    ["Description"]="YOUR_NAME! Feralas'ta yardımına ihtiyaç var!\n\nKaçak bir büyücü olan Lethtendris, şimdi Dire Maul olarak adlandırılan kadim elfi kalıntıları Eldre'thalas'a kaçtı. Kurtarılması gereken tehlikeli bir büyülü enerji eşyasına sahip olduğuna inanılıyor.\n\nLatronicus Aymızrağı, Dire Maul'a girip eşyayı Lethtendris'ten geri alacak ajanlar istiyor.\n\nİttifak'a hizmet et! Feralas'taki Tüyayı Hisarı'nda Latronicus'u ara.",
+    ["Objectives"]="Feralas'taki Tüyayı Hisarı'nda bulunan Latronicus Aymızrağı ile konuş.",
+    ["Progress"]="",
+    ["Completion"]="Selam, YOUR_NAME. Seni gördüğüme sevindim ama buluşmamızın daha hoş koşullar altında olmamasından üzüntü duyuyorum.\n\nYakından dinle, çünkü senin için hayati bir görevim var...",
+    ["minlevel"]="54",
+    ["questlevel"]="57",
+    }, -- end Feathermoon Stronghold
+
+    -- Foror's Compendium
+    -- Lydros -> Lydros (MobNpcData.lua)
+    -- Athenaeum -> Athenaeum
+    -- Foror's Compendium of Dragon Slaying -> Foror'ın Ejderha Katletme Derlemesi
+    ["7507"] = {
+    ["Title"]="Foror'ın Derlemesi",
+    ["Description"]="Büyük önem taşıyan bir şey ortaya çıkardın. Bu kitap gördüklerinin hiçbirine benzemiyor.\n\nSanki birisi ya da bir şey Athenaeum'un mührünü kırmayı başarmış gibi görünüyor. İçindeki metin bozuk ve zar zor okunabiliyor.",
+    ["Objectives"]="Foror'ın Ejderha Katletme Derlemesi'ni Athenaeum'a geri götür.",
+    ["Progress"]="Ah, en büyük derlemelerimizden biri. Bu uzun zamandır kayıptı.",
+    ["Completion"]="Karaborsada bu kitap için epeyce altın alabilirdin, YOUR_NAME. Özellikle koruyucu mühür kırıldığından beri, kutsal sayfalardaki bilgiyi tüketecek gerekli zekaya sahip herkese ejderha katletme sırlarını açık hale getirdi.\n\nBelki de büyük bir ödül gereklidir... Elde etmek için muazzam bir çaba gerektirecek bir ödül.\n\n<Lydros sırıtır.>",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Foror's Compendium
+
+    -- The Forging of Quel'Serrar
+    -- Lydros -> Lydros (MobNpcData.lua)
+    -- Dull and Flat Elven Blade -> Sönük ve Düz Elfi Kılıcı
+    ["7508"] = {
+    ["Title"]="Quel'Serrar'ın Dövülmesi",
+    ["Description"]="Bu görevi üstlenmek istiyorsan Lydros'a sönük kılıcı sun.",
+    ["Objectives"]="Sönük ve Düz Elfi Kılıcı'nı Bilgi Koruyucusu Lydros'a ver.",
+    ["Progress"]="Mükemmel, başlayalım...",
+    ["Completion"]="Ejderhanın inine girmeyi başarırsan, kılıcı onun alevli nefesi altında ısıt ve nihayetinde onun kanında temperle, kılıcı kullanımın için bağlayacağım.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end The Forging of Quel'Serrar
+
+    -- The Forging of Quel'Serrar
+    -- Onyxia -> Onyxia (MobNpcData.lua)
+    -- Lydros -> Lydros (MobNpcData.lua)
+    -- Quel'Serrar -> Quel'Serrar
+    ["7509"] = {
+    ["Title"]="Quel'Serrar'ın Dövülmesi",
+    ["Description"]="İşlenmemiş kadim kılıcı Onyxia'nın inine götür ve onunla savaşa tutuş.\n\nKılıcın ısıtılması için bazı hileler kullanılmalıdır. Savaştayken şüphesiz seni alevli nefesiyle yakmaya çalışacaktır. İşlenmemiş kadim kılıcı yakına dikmeli ve alevli nefesin kılıcı ısıtmasını ummalısın. Bundan sonra yaşarsan, artık ısınmış olan kadim kılıcı al ve ejderhanın işini bitir.\n\nİşlenmiş kadim kılıcı şekillendirmek için ısınmış kadim kılıcı onun tüten cesedine sapla.",
+    ["Objectives"]="Onyxia'nın İşlenmemiş Kadim Kılıç üzerine ateş püskürmesini sağlamalısın. Bu yapıldığında, artık Isınmış Kadim Kılıç olan kılıcı al. Uyarılsın ki, Isınmış Kadim Kılıç sonsuza kadar ısınmış kalmayacaktır - zaman çok önemlidir.\n\nBana dönmeden önceki son adım canavarı katletmek ve Isınmış Kadim Kılıç'ı onun cesedine saplamaktır.\n\nBunu yap ve Quel'Serrar senin olsun.",
+    ["Progress"]="Belki bir gün bir başkası prizmatik kılıcı sallar.",
+    ["Completion"]="<Lydros anlaşılmaz bir şeyler mırıldanır.>\n\nSöz verildiği gibi, YOUR_CLASS, Quel'Serrar kılıcı.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end The Forging of Quel'Serrar
+
+    -- Thunderaan the Windseeker
+    -- Highlord Demitrian -> Yüce Lord Demitrian (MobNpcData.lua)
+    -- Thunderaan -> Thunderaan (MobNpcData.lua)
+    -- Firelord -> Ateş Lordu (MobNpcData.lua)
+    -- Elementium -> Elementiyum
+    ["7521"] = {
+    ["Title"]="Rüzgararayan Thunderaan",
+    ["Description"]="Sana bildiğim her şeyi anlattım, YOUR_NAME. Elementiyum bulması gereken sensin. Ateş Lordu'nun cismani formunu yok etmesi gereken sensin.\n\nBunu yap ve Thunderaan'ın kutsamasını kazan.",
+    ["Objectives"]="Rüzgararayan Thunderaan'ı hapishanesinden kurtarmak için, Rüzgar Arayan Bağları'nın sağ ve sol yarılarını, 10 Elementiyum külçesini ve Ateş Lordu'nun Özü'nü Yüce Lord Demitrian'a sunmalısın.",
+    ["Progress"]="Gerekirse dünyayı dizlerinin üzerine getir!",
+    ["Completion"]="Rüyalarımda bile bu günü öngörmeye cesaret edemedim.\n\nİşte bak, ölümlü.\n\nİŞTE VAROLUŞTAN DAHA ESKİ OLANA BAK!\n\nİŞTE HEM TİTAN HEM DE TANRIYLA YÜZLEŞEN KİŞİYE BAK!\n\nYÜKSEL EFENDİM! BAĞLARINDAN KURTUL!",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Thunderaan the Windseeker
+
+    -- Service to the Horde
+    ["7541"] = {
+    ["Title"]="Horde'a Hizmet",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="",
+    ["Completion"]="Bilginlerimizin bize getirdiğin kolyeyi incelemesi zaman alacak. Ancak Horde'a olan hizmetin için sana küçük bir nişan sunmak isterim.\n\nTeşekkür ederim, YOUR_NAME. Eylemlerin sana ve bize onur getiriyor.",
+    ["minlevel"]="30",
+    ["questlevel"]="40",
+    }, -- end Service to the Horde
+
+    -- A Binding Contract
+    -- Lokhtos Darkbargainer -> Lokhtos Karapazarlıkçı (MobNpcData.lua)
+    -- Thorium Brotherhood -> Torium Kardeşliği
+    -- Sulfuron -> Sulfuron
+    -- Sulfuras -> Sulfuras
+    ["7604"] = {
+    ["Title"]="Bağlayıcı Bir Sözleşme",
+    ["Description"]="Aşağıda imzası bulunan kişi, Torium Kardeşliği'ne (TB Ltd.) teslim ettikleri Sulfuron külçesinin hakiki olduğunu ve taklidi olmadığını beyan eder. Aşağıda imzası bulunan kişi ayrıca Sulfuras'ı inşa etmeye, dövmeye, bulmaya, yaratmaya, satmaya veya yemeye teşebbüs etmenin bir sonucu olarak kendisine gelebilecek her türlü zararın TB Ltd.'in sorumluluğunda veya suçunda olmadığını kabul eder.\n\nBu sözleşmeyi imzalayarak burada listelenen tüm şartları kabul etmiş oluyorsunuz.\n\n_________________\n\nİmza",
+    ["Objectives"]="Sulfuron planlarını almak istiyorsan Torium Kardeşliği Sözleşmesi'ni Lokhtos Karapazarlıkçı'ya teslim et.",
+    ["Progress"]="Anlaştık mı?",
+    ["Completion"]="Sizinle iş yapmak bir zevkti, YOUR_NAME!\n\nTB Ltd. adına Sulfuras arayışınızda başarılar dilerim!",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end A Binding Contract
+
+    -- Enchanted Thorium Platemail: Volume I
+    -- Lorekeeper Lydros -> Bilgi Koruyucusu Lydros (MobNpcData.lua)
+    -- Athenaeum -> Athenaeum
+    ["7649"] = {
+    ["Title"]="Efsunlu Torium Plaka Zırh: Cilt I",
+    ["Description"]="Cilt Athenaeum'un mührünü taşıyor.",
+    ["Objectives"]="Kitabı hak sahiplerine geri götür.",
+    ["Progress"]="Bir cilt kurtardın!",
+    ["Completion"]="Aferin, evladım.\n\n<Bilgi Koruyucusu Lydros kitaptan bir sayfa koparır.>\n\nBu tarifi değerlendirebileceğinden eminim.",
+    ["minlevel"]="50",
+    ["questlevel"]="60",
+    }, -- end Enchanted Thorium Platemail: Volume I
+
+    -- Enchanted Thorium Platemail: Volume II
+    -- Lorekeeper Lydros -> Bilgi Koruyucusu Lydros (MobNpcData.lua)
+    -- Athenaeum -> Athenaeum
+    ["7650"] = {
+    ["Title"]="Efsunlu Torium Plaka Zırh: Cilt II",
+    ["Description"]="Cilt Athenaeum'un mührünü taşıyor.",
+    ["Objectives"]="Kitabı hak sahiplerine geri götür.",
+    ["Progress"]="Bir cilt kurtardın!",
+    ["Completion"]="Aferin, evladım.\n\n<Bilgi Koruyucusu Lydros kitaptan bir sayfa koparır.>\n\nBu tarifi değerlendirebileceğinden eminim.",
+    ["minlevel"]="50",
+    ["questlevel"]="60",
+    }, -- end Enchanted Thorium Platemail: Volume II
+
+    -- Enchanted Thorium Platemail: Volume III
+    -- Lorekeeper Lydros -> Bilgi Koruyucusu Lydros (MobNpcData.lua)
+    -- Athenaeum -> Athenaeum
+    ["7651"] = {
+    ["Title"]="Efsunlu Torium Plaka Zırh: Cilt III",
+    ["Description"]="Cilt Athenaeum'un mührünü taşıyor.",
+    ["Objectives"]="Kitabı hak sahiplerine geri götür.",
+    ["Progress"]="Bir cilt kurtardın!",
+    ["Completion"]="Aferin, evladım.\n\n<Bilgi Koruyucusu Lydros kitaptan bir sayfa koparır.>\n\nBu tarifi değerlendirebileceğinden eminim.",
+    ["minlevel"]="50",
+    ["questlevel"]="60",
+    }, -- end Enchanted Thorium Platemail: Volume III
+
+    -- A Blue Light Bargain
+    ["7652"] = {
+    ["Title"]="Mavi Işık Fırsatı",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="",
+    ["Completion"]="Pekala, bayım, senin için sıcak bir fırsatım var.\n\nBuradaki İmparatorluk plaka zırh tariflerinin bazılarını elden çıkarmak istiyorum ve bu yükü üstlenmeye istekli birine ihtiyacım var. Karşılığında tek istediğim biraz torium külçesi. Kulağa hoş geliyor mu?",
+    ["minlevel"]="50",
+    ["questlevel"]="60",
+    }, -- end A Blue Light Bargain
+
+    -- Imperial Plate Belt
+    ["7653"] = {
+    ["Title"]="İmparatorluk Plaka Kemer",
+    ["Description"]="",
+    ["Objectives"]="Kemer planları için 20 torium külçesine ihtiyacım olacak.",
+    ["Progress"]="Kemer planları için 20 torium külçesine ihtiyacım olacak.",
+    ["Completion"]="Seninle iş yapmak bir zevkti.\n\nVe YOUR_NAME, yüzündeki o tiksinti ifadesini sil.",
+    ["minlevel"]="50",
+    ["questlevel"]="60",
+    }, -- end Imperial Plate Belt
+
+    -- Imperial Plate Boots
+    -- Derotain -> Derotain (MobNpcData.lua)
+    ["7654"] = {
+    ["Title"]="İmparatorluk Plaka Çizmeler",
+    ["Description"]="",
+    ["Objectives"]="Çizme planları için 40 torium külçesine ihtiyacım olacak. Evet, 40. Ağlayacak mısın? Mendil ister misin?",
+    ["Progress"]="Çizme planları için 40 torium külçesine ihtiyacım olacak. Evet, 40. Ağlayacak mısın? Mendil ister misin?\n\n<Derotain güler.>",
+    ["Completion"]="Seninle iş yapmak bir zevkti.\n\nVe YOUR_NAME, yüzündeki o tiksinti ifadesini sil.",
+    ["minlevel"]="50",
+    ["questlevel"]="60",
+    }, -- end Imperial Plate Boots
+
+    -- Imperial Plate Bracer
+    ["7655"] = {
+    ["Title"]="İmparatorluk Plaka Bileklik",
+    ["Description"]="",
+    ["Objectives"]="Bileklik planları için 20 torium külçesine ihtiyacım olacak.",
+    ["Progress"]="Bileklik planları için 20 torium külçesine ihtiyacım olacak.\n\nİyi misin evlat? Kıpkırmızı oluyorsun.",
+    ["Completion"]="Seninle iş yapmak bir zevkti.\n\nVe YOUR_NAME, yüzündeki o tiksinti ifadesini sil.",
+    ["minlevel"]="50",
+    ["questlevel"]="60",
+    }, -- end Imperial Plate Bracer
+
+    -- Imperial Plate Chest
+    ["7656"] = {
+    ["Title"]="İmparatorluk Plaka Göğüslük",
+    ["Description"]="",
+    ["Objectives"]="Göğüslük parçası planları için 60 torium külçesine ihtiyacım olacak. Oh çocuk, yine başladın. Mavi Tanrılarına koşup seni neden terk ettiklerini mi soracaksın?! Sertleş, Nancy! Kimse hayatın adil olduğunu söylemedi.",
+    ["Progress"]="Göğüslük parçası planları için 60 torium külçesine ihtiyacım olacak.\n\nOh çocuk, yine başladın. Mavi Tanrılarına koşup seni neden terk ettiklerini mi soracaksın?! Sertleş, Nancy! Kimse hayatın adil olduğunu söylemedi.",
+    ["Completion"]="Seninle iş yapmak bir zevkti.\n\nVe YOUR_NAME, yüzündeki o tiksinti ifadesini sil.",
+    ["minlevel"]="50",
+    ["questlevel"]="60",
+    }, -- end Imperial Plate Chest
+
+    -- Imperial Plate Helm
+    ["7657"] = {
+    ["Title"]="İmparatorluk Plaka Miğfer",
+    ["Description"]="",
+    ["Objectives"]="Sadece 50 torium külçesini teslim et, miğfer planları senin olsun.",
+    ["Progress"]="Sadece 50 torium külçesini teslim et, miğfer planları senin olsun.",
+    ["Completion"]="Seninle iş yapmak bir zevkti.\n\nVe YOUR_NAME, yüzündeki o tiksinti ifadesini sil.",
+    ["minlevel"]="50",
+    ["questlevel"]="60",
+    }, -- end Imperial Plate Helm
+
+    -- Imperial Plate Leggings
+    ["7658"] = {
+    ["Title"]="İmparatorluk Plaka Pantolon",
+    ["Description"]="",
+    ["Objectives"]="Sadece 60 torium külçesini teslim et, bacak planları senin olsun. Biliyorum, seni iflasa sürüklüyorum! Hepsini daha önce duydum, bu yüzden ajitasyon hikayeni saklayabilirsin, ezik.",
+    ["Progress"]="Sadece 60 torium külçesini teslim et, bacak planları senin olsun.\n\nBiliyorum, seni iflasa sürüklüyorum! Hepsini daha önce duydum, bu yüzden ajitasyon hikayeni saklayabilirsin, ezik.",
+    ["Completion"]="Seninle iş yapmak bir zevkti.\n\nVe YOUR_NAME, yüzündeki o tiksinti ifadesini sil.",
+    ["minlevel"]="50",
+    ["questlevel"]="60",
+    }, -- end Imperial Plate Leggings
+
+    -- Imperial Plate Shoulders
+    ["7659"] = {
+    ["Title"]="İmparatorluk Plaka Omuzluk",
+    ["Description"]="",
+    ["Objectives"]="Omuzluk planları için 20 torium külçesine ihtiyacım olacak.",
+    ["Progress"]="Omuzluk planları için 20 torium külçesine ihtiyacım olacak.",
+    ["Completion"]="Seninle iş yapmak bir zevkti.\n\nVe YOUR_NAME, yüzündeki o tiksinti ifadesini sil.",
+    ["minlevel"]="50",
+    ["questlevel"]="60",
+    }, -- end Imperial Plate Shoulders
+
+    -- WANTED: Overseer Maltorius
+    -- Overseer Oilfist -> Gözetmen Yağyumruk (MobNpcData.lua)
+    -- Overseer Maltorius -> Gözetmen Maltorius (MobNpcData.lua)
+    -- Lookout Captain Lolo Longstriker -> Gözcü Kaptanı Lolo Uzunvuran (MobNpcData.lua)
+    -- Thorium Brotherhood -> Torium Kardeşliği
+    -- Dark Iron -> Koyu Demir
+    -- Slag Pit -> Cüruf Çukuru
+    -- Cauldron -> Kazan
+    -- Searing Gorge -> Kavurucu Yarak (ZoneData.lua)
+    ["7701"] = {
+    ["Title"]="ARANIYOR: Gözetmen Maltorius",
+    ["Description"]="Ekselansları Gözetmen Yağyumruk'un emriyle, haydut Torium Kardeşliği ajanı ve Kazan'ın Koyu Demir Cüruf Çukuru ekibinin yeni işe alınan komutanı Gözetmen Maltorius öldürülecek ve kafası yapılan eylemin kanıtı olarak geri getirilecektir.\n\nBu ödül için Gözcü Kaptanı Lolo Uzunvuran'a başvurun.",
+    ["Objectives"]="Kavurucu Yarak'taki Kazan'ın Cüruf Çukuru'nun derinliklerinde Gözetmen Maltorius adındaki hain Koyu Demir cücesini bulacaksın.\n\nGözetmen Maltorius'u katlet ve kafasını al. Ödülün için kafayı Kavurucu Yarak'taki Gözcü Kaptanı Lolo Uzunvuran'a geri götür.",
+    ["Progress"]="Meşgul olduğumu görmüyor musun? Ne *hık* istiyorsun? *hık*",
+    ["Completion"]="Bu çirkin surata tekrar bakacağımı hiç düşünmezdim!\n\nGeri kalanı takılı olmadan aslında daha iyi görünüyor.\n\nİşte ödülün *hık*, YOUR_RACE.",
+    ["minlevel"]="45",
+    ["questlevel"]="50",
+    }, -- end WANTED: Overseer Maltorius
+
+    -- Unfinished Gordok Business
+    -- Prince -> Prens
+    -- Tortheldrin -> Tortheldrin (MobNpcData.lua)
+    -- Captain Kromcrush -> Yüzbaşı Kromez (MobNpcData.lua)
+    -- Kromcrush -> Kromez (MobNpcData.lua)
+    -- Gordok -> Gordok
+    -- Gauntlet of Gordok Might -> Gordok Gücü Eldiveni
+    -- Dire Maul -> Dire Maul (ZoneData.lua)
+    ["7703"] = {
+    ["Title"]="Bitmemiş Gordok İşleri",
+    ["Description"]="Şimdi kral sensin, bu yüzden belki de değerli Gordok kalıntısını kendisine Prens diyen o ürpertici elften geri alırsın! Senden önceki kral, Tortheldrin'den -o ürpertici elf- onu eski zaman Gordok kralından çaldığından beri diğer tüm krallar gibi başarısız oldu!\n\nKalıntıya Gordok Gücü Eldiveni denir. Eski zaman hikayeleri sadece tek gerçek Gordok kralının onu geri alabileceğini söyler. Eski zaman hikayesi ayrıca ürpertici elfin hâlâ buralarda olduğunu söyler - onu bulursan sonsuza dek takacağın güçlü eldiven olacak! Yar, sana göstereceğim!",
+    ["Objectives"]="Gordok Gücü Eldiveni'ni bul ve Dire Maul'daki Yüzbaşı Kromez'e geri getir.\n\nKromez'e göre \"eski zaman hikayesi\" kendisine prens diyen \"ürpertici\" bir elf olan Tortheldrin'in onu Gordok krallarından birinden çaldığını söylüyor.",
+    ["Progress"]="Hah, bulamadın, değil mi patron? Belki eski zaman hikayesi kötü bir hikayedir... o ürpertici elfin Gordok kralından çalabileceğine inanmak zor!",
+    ["Completion"]="Vay... sen GERÇEK kralsın! Hayatımda bu eldiveni göreceğimi hiç düşünmemiştim! Hiç mojosu kalmamış gibi görünüyor... belki o ürpertici elf eldiveni mahvetmeye çalıştı. Şey, ben ona HAR HAR diyorum!\n\nBak - eldiven üzerindeki bu işaret eski eski ESKİ zaman büyülü bir işareti, Gordok'tan bile daha eski derler. Şey, Gordok Yüzbaşısı olarak hepimiz tekrar tekrar bir şey öğreniriz - işaretin canlanmasını ve gücün eldivene geri verilmesini nasıl sağlayacağımızı!\n\nSenin için yapıyorum, kral! Al, eldiveni al ve SONSUZA DEK hükmet!",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Unfinished Gordok Business
+
+    -- Fuel for the Zapping
+    -- Zorbin Fandazzle -> Zorbin Fandazzle (MobNpcData.lua)
+    -- Forgotten Coast -> Unutulmuş Sahil (ZoneData.lua)
+    -- Feralas -> Feralas (ZoneData.lua)
+    ["7721"] = {
+    ["Title"]="Çarpma İçin Yakıt",
+    ["Description"]="Kendi iyi kararıma karşı bahse girip Unutulmuş Sahil boyunca bir mühendislik dükkanı işletmek için kalırsam bu can sıkıcı elementallerle başa çıkmam gerekecek. Kontrolsüz elementalleşmenin güçlerine lanet olsun diyorum!\n\nBenim için ne mutlu ki, ve şimdi senin için umut dolu kışkırtıcı ajanıma, elementaller Ultra-Küçültücü geliştirmem için ideal bir ham güç kaynağını temsil ediyor - onlara günlerini göster diyorum! Ancak bunu yaparken su elementali özlerini benim için sakladığından emin ol!",
+    ["Objectives"]="Feralas'ın Unutulmuş Sahil'i boyunca Deniz Elementalleri ve Deniz Spreyleri'nden 10 Su Elementali Özü topla ve onları oradaki iskelenin yakınındaki Zorbin Fandazzle'a geri getir.",
+    ["Progress"]="Elementel özlerinin arkasındaki faydanın teknik detaylarıyla seni sıkabilecek olsam da, bunun yerine bunu yaptığın için değerli madeni para ve ödüller sunarak bu önemli görevi tamamlaman için seni cezbedeceğim. Gerçekten de bittin mi?",
+    ["Completion"]="Harika! Bu özler beni bir süre çalıştıracak. Buna ek olarak artık sahil boyunca daha az elemental olmasının faydası da var ve belki de akla gelebilecek en kötü yerde dükkan açmış olma ihtimaline karşı uyumak için artık ağlamayabilirim!\n\nBenim adıma gösterdiğin çabalar için teşekkür ederim, YOUR_NAME. Bunu yapmak beni finansal olarak zorlasa da anlayabileceğin ve takdir edebileceğin bir minnettarlık göstermeme izin ver... ganimet!",
+    ["minlevel"]="45",
+    ["questlevel"]="48",
+    }, -- end Fuel for the Zapping
+
+    -- What the Flux?
+    -- Maltorius -> Maltorius (MobNpcData.lua)
+    -- Master Smith Burninate -> Usta Demirci Yakıcı (MobNpcData.lua)
+    -- Dark Irons -> Koyu Demirler
+    -- Slag Pit -> Cüruf Çukuru
+    -- Cauldron -> Kazan
+    -- Searing Gorge -> Kavurucu Yarak (ZoneData.lua)
+    ["7722"] = {
+    ["Title"]="Hangi Akı?",
+    ["Description"]="O pislik, Maltorius klanımızdan ayrıldığında el değmemiş bir arkan kristalinden daha değerli bir şeyle ayrıldı: Ateşli akı tarifimiz! Tarifin Koyu Demirler arasındaki yeni terfi anlaşmasının bir parçası olduğuna dair her şey üzerine bahse girerim.\n\nGizli planlarımızı geri almanı istiyorum, YOUR_NAME. Cüruf Çukuru'nun derinliklerinde, Maltorius'un yakınlarında bir yerlerde olduklarından eminim.",
+    ["Objectives"]="Kazan'ın Cüruf Çukuru'nda bir yerde Gözetmen Maltorius'un çaldığı Gizli Planlar: Ateşli Akı'yı bulacaksın. O planları bul ve Kavurucu Yarak'taki Usta Demirci Yakıcı'ya geri getir.",
+    ["Progress"]="Planları buldun mu?",
+    ["Completion"]="Umarım sen de onun dişlerini tekmelemişsindir, YOUR_NAME. Ragnaros bilir ki bunu hak etti.\n\nŞimdi işimize bakabiliriz.",
+    ["minlevel"]="45",
+    ["questlevel"]="50",
+    }, -- end What the Flux?
+
+    -- Curse These Fat Fingers
+    -- Hansel Heavyhands -> Hansel Ağıreller (MobNpcData.lua)
+    -- Hansel -> Hansel (MobNpcData.lua)
+    -- Thelsamar Blood Sausages -> Thelsamar Kan Sosisleri
+    -- Gorge -> Yarak (ZoneData.lua)
+    -- Cauldron -> Kazan
+    -- Searing Gorge -> Kavurucu Yarak (ZoneData.lua)
+    ["7723"] = {
+    ["Title"]="Bu Şişman Parmaklara Lanet Olsun",
+    ["Description"]="Ne yazık ki buradaki şu şişman parmak sorunu yüzünden eskisi gibi dayak atamıyorum. Görüyorsun ya, buradaki iklim hava basıncı eksikliğiyle birleştiğinde parmaklarımı genişletiyor. Devasa Thelsamar Kan Sosisleri gibiler...\n\nİş emirlerimi ve neyin varsa sen yerine getireceksin.\n\nGündemimdeki ilk şey: Yarak'ın ağır savaş golemlerinin pestilini çıkarmak. İşe koyul.",
+    ["Objectives"]="Hansel Ağıreller 20 Ağır Savaş Golemi öldürmeni istiyor.\n\nAğır Savaş Golemleri Kavurucu Yarak'taki Kazan'ı çevreleyen alanlarda dolaşır. Yeterince öldürdüğünde Kavurucu Yarak'taki Hansel'e dön.",
+    ["Progress"]="Pestillerini çıkardın mı?",
+    ["Completion"]="İyi bir evlatsın. Dertlerin için sana küçük bir hediye aldım.",
+    ["minlevel"]="45",
+    ["questlevel"]="49",
+    }, -- end Curse These Fat Fingers
+
+    -- Fiery Menace!
+    -- Hansel Heavyhands -> Hansel Ağıreller (MobNpcData.lua)
+    -- Hansel -> Hansel (MobNpcData.lua)
+    -- Oilfist -> Yağyumruk (MobNpcData.lua)
+    -- Searing Gorge -> Kavurucu Yarak (ZoneData.lua)
+    ["7724"] = {
+    ["Title"]="Ateşli Tehdit!",
+    ["Description"]="Bilemezsin ki, yaşlı Hansel ne zaman rahatlamak ve hayatı üzerine düşünmek için bir an ayırmak istese, yetkililer ona başka bir iş veriyor.\n\nDüşünmem lazım, hadi ama! Ne dediğimi biliyor musun? Hadi. Ama.\n\nYani, buradaki büyük lav örümcekleri bir tür patırtıya neden oluyor. Yağyumruk onların... şey, evet her neyse, ateş püskürttüğünü söylüyor, bu tür şeyler çocukları üzüyor.\n\nSanırım onları öldürmemiz gerekiyor. Daha doğrusu sen öldürmelisin.",
+    ["Objectives"]="Hansel Ağıreller Kavurucu Yarak'ta 20 Büyük Lav Örümceği öldürmeni istiyor. Büyük Lav Örümcekleri'ni Kavurucu Yarak'ın platolarında ve lav havuzlarında bulabilirsin.\n\nYeterince Büyük Lav Örümceği öldürdüğünde Kavurucu Yarak'taki Hansel Ağıreller'e dön.",
+    ["Progress"]="Haklı mıydı? Kıçlarından mı çıkıyor?",
+    ["Completion"]="<Hansel hapşırır.>\n\nSanırım nezle oluyorum. Lanet olsun bu dondurucu iklime!",
+    ["minlevel"]="45",
+    ["questlevel"]="49",
+    }, -- end Fiery Menace!
+
+    -- Again With the Zapped Giants
+    -- Zorbin Fandazzle -> Zorbin Fandazzle (MobNpcData.lua)
+    -- Steamwheedle Cartel -> Buharçarkı Karteli
+    -- Feralas -> Feralas (ZoneData.lua)
+    -- Forgotten Coast -> Unutulmuş Sahil (ZoneData.lua)
+    ["7725"] = {
+    ["Title"]="Yine mi Çarpılmış Devler",
+    ["Description"]="Benim için zaten kalıntı topladığını biliyorum... ama kendinizi eğlenceli bir aktivitenin bis performansı için isterken bulursanız, her zaman daha fazla kalıntı kullanabilirim.\n\nTazminat yolunda tekrar neredeyse o kadar çok teklif edemesem de, kulağı olan tüm goblin arkadaşlarıma hizmetinizin iyi haberini yaymaktan mutluluk duyacağım.\n\nBana inanın efendim / hanımefendi, bu goblinlerin oldukça büyük kulakları olduğunu söylediğimde.",
+    ["Objectives"]="Feralas'ta bulunan her türlü devi daha idare edilebilir bir forma çarpmak için Zorbin'in Ultra-Küçültücüsü'nü kullan. Feralas'taki Unutulmuş Sahil iskelesinde bulunan Zorbin Fandazzle'a bu devlerin çarpılmış versiyonlarında bulunan 10 Minyatürleştirme Kalıntısı getir.",
+    ["Progress"]="Ah, araştırmanın ve tatlı, tatlı kalıntı formunda kullanmanın meyveleri. Yani, incelediğimde tadına bakmıyorum falan.\n\nPek.",
+    ["Completion"]="İnanılmaz derecede fantastik, YOUR_NAME! Benim için yine başardın ve bunun için sana teşekkür ederim.\n\nTeşekkür ederim!\n\nBu madeni paranın alışkın olduğundan biraz daha az olduğunu bulabilsen de, goblin diyarındaki büyük işlerinin Buharçarkı Karteli'nin güç salonlarında yankılandığından emin ol. Yapacak başka bir şeye ihtiyacın olursa, ne olursa olsun benimle konuş!",
+    ["minlevel"]="45",
+    ["questlevel"]="55",
+    }, -- end Again With the Zapped Giants
+
+    -- Refuel for the Zapping
+    -- Zorbin Fandazzle -> Zorbin Fandazzle (MobNpcData.lua)
+    -- Steamwheedle Cartel -> Buharçarkı Karteli
+    -- Cartel -> Kartel
+    -- Forgotten Coast -> Unutulmuş Sahil (ZoneData.lua)
+    -- Feralas -> Feralas (ZoneData.lua)
+    ["7726"] = {
+    ["Title"]="Çarpma İçin Yeniden Yakıt",
+    ["Description"]="Daha fazla iş mi diyorsun? Elementel varlıkların içinde bulunan vıcık vıcık şeyleri toplama şeklindeki kahramanca görevim macera susuzluğunu gidermedi mi? Belki de aynı şeyden daha fazlası sahip olduğun dipsiz görev kuyusunu doldurmak için boşuna çalışacaktır...\n\nTamam, melodramı bir kenara bırakırsak daha fazla su elementali özüne ihtiyacım var. Umutsuzca burada dükkan açmaya çalışıyorum, bu yüzden ödüller o kadar büyük olmayacak... ama kulak mesafesindeki herkese bana nasıl yardım ettiğini anlatacağıma söz veriyorum. Bu konuda bana güven - Kartel'de insanları tanıyorum!",
+    ["Objectives"]="Feralas'ın Unutulmuş Sahil'i boyunca Deniz Elementalleri ve Deniz Spreyleri'nden 6 Su Elementali Özü topla ve onları oradaki iskelenin yakınındaki Zorbin Fandazzle'a geri getir.",
+    ["Progress"]="İhtiyacım olan elementel özlerini bulmayı başardın mı?",
+    ["Completion"]="En üst düzey, YOUR_NAME, en üst düzey! Sana verdiğim madeni para böyle bir iş için alacağın en yüksek miktar olmasa da, Buharçarkı Karteli'ndeki yoldaşlarımın çabalarını duyacağından emin ol!\n\nYapacak başka bir şey arıyorsan bana haber ver. Her zaman daha fazla elementel özü ve benzeri şeyler kullanabilirim.",
+    ["minlevel"]="45",
+    ["questlevel"]="55",
+    }, -- end Refuel for the Zapping
+
+    -- Incendosaurs? Whateverosaur is More Like It
+    -- Hansel Heavyhands -> Hansel Ağıreller (MobNpcData.lua)
+    -- Hansel -> Hansel (MobNpcData.lua)
+    -- Scrange -> Scrange (MobNpcData.lua)
+    -- Burninate -> Yakıcı (MobNpcData.lua)
+    -- Slag Pit -> Cüruf Çukuru
+    -- Cauldron -> Kazan
+    -- Searing Gorge -> Kavurucu Yarak (ZoneData.lua)
+    ["7727"] = {
+    ["Title"]="Ateşdinozorları mı? Neyse-dinozor Demek Daha Doğru",
+    ["Description"]="Bünyonlar, evlat. Bünyonlarımın bünyonları var. Ayaklarım bu kadar darmadağınıkken nasıl bir tür öldürme yapmam bekleniyor? Bu yüzden yardım edeceksin.\n\nScrange ve Yakıcı, biraz keşif yapmak için Cüruf Çukuru lav havuzlarına bazı keşif ekipleri gönderebilmek adına beni bu şeyleri öldürmekle görevlendirdi. Güya oradaki bazı ateşdinozorları veya benzeri saçmalıklar her türlü soruna neden oluyormuş. Şimdi ilerle ve ateşdinozor nüfusu tükenene kadar geri gelme.",
+    ["Objectives"]="Hansel Ağıreller 20 Ateşdinozoru öldürmeni istiyor.\n\nCüruf Çukuru içindeki lav havuzlarını işgal eden Ateşdinozorları bulacaksın. Cüruf Çukuru Kavurucu Yarak'ın Kazan bölgesinde bulunabilir.\n\nYeterince Ateşdinozoru öldürdüğünde Kavurucu Yarak'taki Hansel Ağıreller'e dön.",
+    ["Progress"]="<Hansel meşgul bir şekilde bünyonlarını ovuyor.>\n\nÖylece durma, biraz yağ ile lif kabağı kap ve şu bünyonları fırçalamaya başla.\n\nLif kabağın yok mu? Öyleyse! Belki de seni bir lif kabağı bulman için dışarı gönderme zamanım gelmiştir?\n\nHey, nereye gidiyorsun?",
+    ["Completion"]="Oh ağrıyan ayaklarım.\n\nLif kabağın olmadığını düşündüm...",
+    ["minlevel"]="45",
+    ["questlevel"]="49",
+    }, -- end Incendosaurs? Whateverosaur is More Like It
+    -- STOLEN: Smithing Tuyere and Lookout's Spyglass
+    -- Dark Iron -> Koyu Demir
+    -- Searing Gorge -> Kavurucu Yarak (ZoneData.lua)
+    -- Thorium Brotherhood -> Torium Kardeşliği
+    -- Scrange -> Scrange (MobNpcData.lua)
+    ["7728"] = {
+    ["Title"]="ÇALINDI: Demirci Üfleci ve Gözcü Dürbünü",
+    ["Description"]="Aşağıdaki eşyalar çalındı:\n\n*Bir adet Koyu Demir Üfleç.\n*Bir adet Gözcü Dürbünü.\n\nBu çalınmış eşyaları bulup geri getiren şahıslara ödül verilecektir.\n\nTorium Kardeşliği, bu eşyaların Kavurucu Yarak'ta yaşayan vicdansız ve kıskanç Koyu Demir cüceleri tarafından çalındığından emindir.\n\nSöz konusu dürbün gözcüler için mükemmel bir araçtı ve üfleç ise yeri doldurulamaz bir demircilik aracıydı.\n\nKayıp eşyaları bulursan, onları Scrange'e geri getir.",
+    ["Objectives"]="Demirci Üfleci'ni ve Gözcü Dürbünü'nü bul ve Kavurucu Yarak'taki İşustası Scrange'e geri getir.\n\nBu eşyalar hakkında sahip olduğun tek bilgi şudur: Kesinlikle Koyu Demir cüceleri tarafından çalınmışlar. Demirci Üfleci demirciler tarafından kullanılan bir demircilik aracıdır ve Gözcü Dürbünü gözcüler için paha biçilmez bir izleme aracıdır.",
+    ["Progress"]="Ödül için geldiysen, çalıntı malları bana vermelisin.",
+    ["Completion"]="Harika iş! Şimdi ödülün için.",
+    ["minlevel"]="45",
+    ["questlevel"]="48",
+    }, -- end STOLEN: Smithing Tuyere and Lookout's Spyglass
+
+    -- JOB OPPORTUNITY: Culling the Competition
+    -- Taskmaster Scrange -> İşustası Scrange (MobNpcData.lua)
+    -- Searing Gorge -> Kavurucu Yarak (ZoneData.lua)
+    -- Dark Iron Taskmaster -> Koyu Demir İşustası
+    -- Dark Iron Slaver -> Koyu Demir Köleci
+    ["7729"] = {
+    ["Title"]="İŞ FIRSATI: Rekabeti Ayıklamak",
+    ["Description"]="İşustası Scrange, Kavurucu Yarak'taki 'rekabeti ayıklamaya' yardımcı olacak birkaç iyi adam ve kadın arıyor.\n\nBu pozisyonla ilgileniyorsan, Kavurucu Yarak'a git ve gördüğün her Koyu Demir İşustası'nı ve Koyu Demir Köleci'yi katlet.\n\nKıyafetlerin yeterince kanlandığında İşustası Scrange'e geri dön.\n\nYeterince kanlandığında anlayacaksın, o yüzden sorma.",
+    ["Objectives"]="15 Koyu Demir İşustası ve 15 Koyu Demir Köleci katlet. Bu görevi başardıktan sonra Kavurucu Yarak'taki İşustası Scrange'e geri dön.",
+    ["Progress"]="Emin olmak için seni kıyafetli ve kıyafetsiz tartmamız gerekecek.",
+    ["Completion"]="15.9 pound! Kıyafet üzerindeki kan ve bağırsak ağırlığı için bu yeni bir rekor olabilir! Tebrikler, YOUR_CLASS!",
+    ["minlevel"]="45",
+    ["questlevel"]="48",
+    }, -- end JOB OPPORTUNITY: Culling the Competition
+
+    -- Zukk'ash Infestation
+    -- Writhing Deep -> Kıvranan Derinlikler (ZoneData.lua)
+    -- Hadoken Swiftstrider -> Hadoken Hızlıyürüyen (MobNpcData.lua)
+    -- Camp Mojache -> Mojache Kampı (ZoneData.lua)
+    -- Feralas -> Feralas (ZoneData.lua)
+    ["7730"] = {
+    ["Title"]="Zukk'ash İstilası",
+    ["Description"]="Toparlayabildiğimiz keşiflerden, gnolların güneyindeki düşmanın böcek benzeri bir ırk olduğuna inanıyoruz.\n\nDürüst olmak gerekirse, bilinçli olup olmamaları önemli değil. Eğer gnolları bize karşı kışkırtıyorlarsa, gnollardan daha büyük -değilse en azından onlar kadar- bir tehdittirler.\n\nBu Zukk'ash böceklerinin yaşadığı yere, yani Kıvranan Derinlikler olarak bilinen yere derinlemesine gir. Sayılarını azalt ve bulduklarını bana rapor et, el emeğinin kanıtı olarak kabuklarını geri getir.",
+    ["Objectives"]="Feralas'taki Mojache Kampı'nda bulunan Hadoken Hızlıyürüyen'e 20 Zukk'ash Kabuğu getir.",
+    ["Progress"]="Av nasıl gidiyor, YOUR_NAME? Başarını rapor etmek için mi buradasın?",
+    ["Completion"]="Aferin, YOUR_CLASS.\n\nZukk'ash varlığının kapsamlılığı tam ölçekli bir istiladan azıyla engellenemeyecek olsa da, bize uygun bir strateji geliştirebilmemiz için biraz zaman kazandırdın.\n\nBu kabukları analiz ettireceğim; beklenenden çok daha büyük bir soruna dönüşen bu konuyla ilgilenmeden önce onlar hakkında her şeyi öğrenmemiz gerekecek.",
+    ["minlevel"]="39",
+    ["questlevel"]="45",
+    }, -- end Zukk'ash Infestation
+
+    -- Stinglasher
+    -- Stinglasher -> İğnekıran (MobNpcData.lua)
+    -- Writhing Deep -> Kıvranan Derinlikler (ZoneData.lua)
+    -- Hadoken Swiftstrider -> Hadoken Hızlıyürüyen (MobNpcData.lua)
+    -- Camp Mojache -> Mojache Kampı (ZoneData.lua)
+    -- Feralas -> Feralas (ZoneData.lua)
+    ["7731"] = {
+    ["Title"]="İğnekıran",
+    ["Description"]="Kıvranan Derinlikler'i incelerken, keşifçilerimizden biri çarpık arazide dolaşan devasa bir böcek gördüğünü bildirdi - tespit edilen diğer böceklerden çok daha büyük. Sadece daha büyük değil, aynı zamanda diğer böceklerin yapmadığı bir tür aura salgılıyor gibi görünüyor. Ona bir isim verdik - İğnekıran.\n\nBu canavarın iç organları, bu yeni tehditle başa çıkmanın en iyi yolunu bulurken paha biçilmez olacaktır. Salgı bezlerini kes ve derhal bana geri getir!",
+    ["Objectives"]="Kıvranan Derinlikler'de İğnekıran'ı yen ve bezlerini Feralas'taki Mojache Kampı'nda bulunan Hadoken Hızlıyürüyen'e geri getir.",
+    ["Progress"]="İğnekıran'ı indirmeyi başardın mı?",
+    ["Completion"]="Etkileyici, YOUR_CLASS... çok etkileyici! Eğer İğnekıran gerçekten en güçlü yaratıklarından biriyse, canavarın incelenmesi zamanla oldukça değerli olacaktır. Ondan faydalanacak kadar uzun süre kendimizi savunmamızı sağlamak artık benim sorumluluğum.\n\nLütfen tüm kampın teşekkürlerinin bir nişanı olarak bu madeni para ödülünü kabul et, YOUR_NAME. Aferin.",
+    ["minlevel"]="39",
+    ["questlevel"]="47",
+    }, -- end Stinglasher
+
+    -- Zukk'ash Report
+    -- Zilzibin Drumlore -> Zilzibin Davulbilim (MobNpcData.lua)
+    -- Orgrimmar -> Orgrimmar (ZoneData.lua)
+    ["7732"] = {
+    ["Title"]="Zukk'ash Raporu",
+    ["Description"]="Zukk'ash böceklerinin Mojache Kampı'na oluşturduğu tehdidi ele almada iki kat başarılı oldun. Bu şeylerin oluşturduğu tehdit bitmiş değil ve Horde adına senden son bir görev rica etmek istiyorum.\n\nBu, Zukk'ash böcekleri hakkında öğrendiğimiz tüm bilgileri detaylandıran bir belgedir. Onu Orgrimmar'daki Sürükle'de bulunan Zilzibin Davulbilim'e teslim etmeni istiyorum. O, bunun gibi yabancı yaratıklar konusunda uzmandır; umarım elde ettiğimiz bilgilerle bir şeyler yapabilir.",
+    ["Objectives"]="Kamp Mojache Zukk'ash Raporu'nu Zilzibin Davulbilim'e teslim et. O, Orgrimmar'ın Sürükle bölgesinde ikamet ediyor.",
+    ["Progress"]="Selam dostum... acil bir işin varmış gibi görünüyorsun. Sana yardım edebileceğim bir şey var mı?",
+    ["Completion"]="Ah, bunu bekliyordum. Karşılaştığın bu yaratıklar... Horde'un görmezden gelmeyi seçmeye devam ettiği kadim bir tehdit. Hadoken bunu -ve seni- bana getirmekle akıllıca davrandı.\n\nZukk'ash, silithid denilen yaratıklardan başka bir şey değil. Bazıları onların akılsız bir baş belası olduğunu düşünebilir, ama seni temin ederim ki onlar İttifak'ın toplayabileceği her şeyden çok ama çok daha kötü bir tehdittir.\n\nEğer istekli ve yeterince güçlüysen, bu tehdidi gün ışığına çıkarmada yardımını kullanabilirim.",
+    ["minlevel"]="39",
+    ["questlevel"]="48",
+    }, -- end Zukk'ash Report
+
+    -- Improved Quality
+    -- Rage Scar Hold -> Öfke Yara Hisarı (ZoneData.lua)
+    -- Pratt McGrubben -> Pratt McGrubben (MobNpcData.lua)
+    -- Feathermoon Stronghold -> Tüyayı Hisarı (ZoneData.lua)
+    -- Feralas -> Feralas (ZoneData.lua)
+    ["7733"] = {
+    ["Title"]="Geliştirilmiş Kalite",
+    ["Description"]="İnanması mümkünse, postlar için DAHA İYİ bir kaynak hakkında bir ipucum var! Feralas'ın kuzey kısımlarında -Öfke Yara Hisarı'nın derinliklerinde- bir başka yeti sürüsü daha var. Daha önce uğraştıklarından çok daha sertler, bu yüzden daha büyük bir zorluğa hazırsan tetikte olsan iyi olur!\n\nOnların on adet postundan oluşan bir yığın için seni cömertçe ödüllendiririm; onları buraya bana getir, işimizi bitirelim.",
+    ["Objectives"]="10 Öfke Yara Yeti Postu'nu Feralas'taki Tüyayı Hisarı'nda bulunan Pratt McGrubben'e getir.",
+    ["Progress"]="Eğer bu Öfke Yara yeti postları, Feral Yara emsalleri tarafından sergilenen kaliteye benzerse, torium kadar dirençli olabilirler!\n\nBunu hayal et!",
+    ["Completion"]="Mükemmel, mükemmel! Bunlar inanılmaz derecede iyi sonuç verecek - uygun şekilde terbiye edildiklerinde çok daha sert olacaklarını şimdiden söyleyebilirim.\n\nYardımın için tekrar teşekkürler YOUR_NAME. İşte - lütfen en son kreasyonlarımdan birini al.",
+    ["minlevel"]="40",
+    ["questlevel"]="48",
+    }, -- end Improved Quality
+
+    -- Improved Quality
+    -- Rage Scar Hold -> Öfke Yara Hisarı (ZoneData.lua)
+    -- Jangdor Swiftstrider -> Jangdor Hızlıyürüyen (MobNpcData.lua)
+    -- Camp Mojache -> Mojache Kampı (ZoneData.lua)
+    -- Feralas -> Feralas (ZoneData.lua)
+    ["7734"] = {
+    ["Title"]="Geliştirilmiş Kalite",
+    ["Description"]="İnanması mümkünse, postlar için DAHA İYİ bir kaynak hakkında bir ipucum var! Feralas'ın kuzey kısımlarında -Öfke Yara Hisarı'nın derinliklerinde- bir başka yeti sürüsü daha var. Daha önce uğraştıklarından çok daha sertler, bu yüzden daha büyük bir zorluğa hazırsan tetikte olsan iyi olur!\n\nOnların on adet postundan oluşan bir yığın için seni cömertçe ödüllendiririm; onları buraya bana getir, işimizi bitirelim.",
+    ["Objectives"]="10 Öfke Yara Yeti Postu'nu Feralas'taki Mojache Kampı'nda bulunan Jangdor Hızlıyürüyen'e getir.",
+    ["Progress"]="Eğer bu Öfke Yara yeti postları, Feral Yara emsalleri tarafından sergilenen kaliteye benzerse, torium kadar dirençli olabilirler!\n\nBunu hayal et!",
+    ["Completion"]="Mükemmel, mükemmel! Bunlar inanılmaz derecede iyi sonuç verecek - uygun şekilde terbiye edildiklerinde çok daha sert olacaklarını şimdiden söyleyebilirim.\n\nYardımın için tekrar teşekkürler, YOUR_NAME. İşte - lütfen en son kreasyonlarımdan birini al.",
+    ["minlevel"]="40",
+    ["questlevel"]="48",
+    }, -- end Improved Quality
+
+    -- Pristine Yeti Hide
+    -- Pratt McGrubben -> Pratt McGrubben (MobNpcData.lua)
+    -- Feathermoon Stronghold -> Tüyayı Hisarı (ZoneData.lua)
+    -- Feralas -> Feralas (ZoneData.lua)
+    ["7735"] = {
+    ["Title"]="Kusursuz Yeti Postu",
+    ["Description"]="Öfke Yara'daki yetilerden gördüklerinden bile daha kalın ve sağlam olan olağanüstü kalın ve sağlam kusursuz bir yeti postu buldun.\n\nTüyayı Hisarı'ndaki Pratt McGrubben'in yeti postu pazarında olduğunu düşünürsek, bu post onun için oldukça ilgi çekici olabilir.",
+    ["Objectives"]="Kusursuz Yeti Postu'nu Feralas'taki Tüyayı Hisarı'nda bulunan Pratt McGrubben'e getir.",
+    ["Progress"]="Bu da ne, YOUR_NAME - benim için özel bir şeyin mi var?",
+    ["Completion"]="İnanılmaz! Bununla tüm yeti postlarının atalarını bulmuş olabilirsin!\n\nBunun için sana ödeme yapacağıma emin olabilirsin. Normalde tek bir post için bu kadar ödemem ama ondan özel bir şey yapabileceğimden oldukça eminim. Bu konuda beni düşündüğün için teşekkürler, YOUR_NAME!",
+    ["minlevel"]="40",
+    ["questlevel"]="48",
+    }, -- end Pristine Yeti Hide
+
+    -- Gaining Acceptance
+    -- Brotherhood -> Kardeşlik
+    -- Blackrock Depths -> Karakaya Derinlikleri (ZoneData.lua)
+    ["7737"] = {
+    ["Title"]="Kabul Görmek",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Kardeşliğin kurumsal hiyerarşisinde yukarı doğru çalıştın, YOUR_RACE. Sana olumlu bakmaya başladık. Oldukça büyük bir başarı!\n\nEğer daha fazla çalışmak ve aramızda daha fazla saygı kazanmakla ilgileniyorsan, kulak ver.\n\nAteşli akıyı karışıma basit bir Koyu Demir kalıntısı ekleyerek rafine edebiliriz. Koyu Demir kalıntısı Karakaya Derinlikleri'nde bulunabilir.",
+    ["Completion"]="Kalıntı akmaya devam etsin!",
+    ["minlevel"]="45",
+    ["questlevel"]="60",
+    }, -- end Gaining Acceptance
+
+    -- Restoring Fiery Flux Supplies via Iron
+    -- Brotherhood -> Kardeşlik
+    ["8241"] = {
+    ["Title"]="Demir Yoluyla Ateşli Akı Tedarikini Yenilemek",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Değerli vaktimi zırvalarla harcamayalım, YOUR_RACE. Azalan ateşli akı kaynağımızı yenilemeye odaklanma zamanı.\n\nSenden ihtiyacım olan şey şunlar:\n\n*Ateşdinozoru pulları.\n*Demir külçeler.\n*Kömür.\n\nSunabileceğin her şeyi alacağım!\n\nVe Kardeşlik ile aranızı iyi tutmak istiyorsan bunu hızlı yapmalısın.",
+    ["Completion"]="Ateşli akı için her zaman yer vardır, çaylak. Getirmeye devam et... durmanı söyleyene kadar.",
+    ["minlevel"]="45",
+    ["questlevel"]="60",
+    }, -- end Restoring Fiery Flux Supplies via Iron
+
+    -- Perfect Yeti Hide
+    -- Jangdor Swiftstrider -> Jangdor Hızlıyürüyen (MobNpcData.lua)
+    -- Camp Mojache -> Mojache Kampı (ZoneData.lua)
+    -- Feralas -> Feralas (ZoneData.lua)
+    ["7738"] = {
+    ["Title"]="Mükemmel Yeti Postu",
+    ["Description"]="Öfke Yara'daki yetilerden gördüklerinden bile daha kalın ve sağlam olan olağanüstü kalın ve sağlam kusursuz bir yeti postu buldun.\n\nMojache Kampı'ndaki Jangdor Hızlıyürüyen'in yeti postu pazarında olduğunu düşünürsek, bu post onun için oldukça ilgi çekici olabilir.",
+    ["Objectives"]="Mükemmel Yeti Postu'nu Feralas'taki Mojache Kampı'nda bulunan Jangdor Hızlıyürüyen'e getir.",
+    ["Progress"]="Bu da ne, YOUR_NAME - benim için özel bir şeyin mi var?",
+    ["Completion"]="Bu inanılmaz bir buluş! İnanıyorum ki bu şimdiye kadar gördüğüm en iyi yeti postu örneği!\n\nGerçekten de, bu kesinlikle uygun bir ödülü hak ediyor. Normalde tek bir post için bu kadar ödemem ama ondan özel bir şey yapabileceğimden eminim. Bu konuda beni düşündüğün için teşekkürler, YOUR_NAME!",
+    ["minlevel"]="40",
+    ["questlevel"]="48",
+    }, -- end Perfect Yeti Hide
+
+    -- Blackhand's Command
+    -- Blackwing -> Karakanat
+    -- Drakkisath -> Drakkisath (MobNpcData.lua)
+    -- Rend Blackhand -> Rend Karael (MobNpcData.lua)
+    -- General Drakkisath -> General Drakkisath (MobNpcData.lua)
+    ["7761"] = {
+    ["Title"]="Karael'in Emri",
+    ["Description"]="Aptal,\n\nYabancıların efendinin inine erişmesini engelleme yeteneğine çok az güvenim var. Ölümünün çok muhtemel olduğu bir durumda, bu kürenin yabancıların doğrudan Karakanat'a ışınlanmasını önlemek için yerleşik bir emniyet kilidi vardır.\n\nSadece elinde Drakkisath İşareti damgalı olanlar bu küreyi kullanabilir. Neyse ki Drakkisath, senin kadar beceriksiz değil, Levazım Subayı. Damgayı bizzat o koruyor!\n\n-Savaşşefi Rend Karael\n\nNot: Bu mektubu yok et, aptal.",
+    ["Objectives"]="O çok aptal bir ork. Karael Küresi'ne erişmek için bu damgayı bulman ve Drakkisath İşareti'ni kazanman gerekiyor gibi görünüyor.\n\nMektup, General Drakkisath'ın damgayı koruduğunu gösteriyor. Belki de araştırmalısın.",
+    ["Progress"]="",
+    ["Completion"]="Kor gibi sıcak damga etine bastırıldığında bile ürpermiyorsun. Çok sertsin!\n\nArtık Drakkisath İşareti'ne sahipsin. Kaleye saldırırken iyi eğlenceler.",
+    ["minlevel"]="55",
+    ["questlevel"]="60",
+    }, -- end Blackhand's Command
+
+    -- Examine the Vessel
+    -- Highlord Demitrian -> Yüce Lord Demitrian (MobNpcData.lua)
+    ["7785"] = {
+    ["Title"]="Kabı İncele",
+    ["Description"]="Onun yeniden doğuş kabını incele, ölümlü. Rüzgararayan bununla yeniden doğacak!",
+    ["Objectives"]="Yeniden Doğuş Kabı'nı incele ve onu Yüce Lord Demitrian'a geri götür.",
+    ["Progress"]="Onu sonsuz hapishanesinden serbest bırakacak mısın?",
+    ["Completion"]="Haçlı seferinde korunasın. Efendi çabalarını kutsasın.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Examine the Vessel
+
+    -- Rise, Thunderfury!
+    -- Demitrian -> Demitrian (MobNpcData.lua)
+    -- Thunderfury -> Gököfke (MobNpcData.lua)
+    ["7787"] = {
+    ["Title"]="Yüksel, Gököfke!",
+    ["Description"]="Rüzgararayan'ı yendin. Uyuyan kılıcı al ve yalancı alçak Demitrian'ı, ihaneti için sağladığın malzemeleri Gököfke'yi uyandırmak için kullanmaya zorla.",
+    ["Objectives"]="Uyuyan Rüzgar Öpücüklü Kılıç'ı Yüce Lord Demitrian'a sun.",
+    ["Progress"]="<Demitrian varlığın karşısında siniyor.>",
+    ["Completion"]="Lütfen bana zarar verme! Al onu! Kılıcı al! Demitrian'ı zavallı hayatını yeniden şekillendirmesi için bırak!",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Rise, Thunderfury!
+
+    -- Claiming Arathi Basin
+    -- Arathi Basin -> Arathi Havzası (ZoneData.lua)
+    ["8397"] = {
+    ["Title"]="Arathi Havzası'nı Talep Etmek",
+    ["Description"]="Bir savaşı kazanmak, rakibinizi zekice alt etmekten ve savaşta yenmekten daha fazlasıdır. Zafer genellikle sadece düşmanınızdan daha fazla üretmeye dayanır.\n\nArathi Havzası'nda sahip olduğumuz şey, ilk talep etmeyi başaran taraf için hatırı sayılır miktarda kaynak ikmalidir.\n\nİttifak galip gelirse bu birliklerimiz için daha fazla kılıç ve mızrak anlamına gelecek. Horde kazanırsa o kılıçlar ve mızraklar yine yapılacak ama sadece bize doğrultulacak! Şimdi Arathi Havzası'nda İttifak'a yardım etme zamanıdır, YOUR_NAME.",
+    ["Objectives"]="Savaş alanlarının dışındaki bir İttifak Tuğgenerali'ne 3 Arathi Havzası Onur Nişanı getir.",
+    ["Progress"]="Horde'a karşı savaş kaynaklarımızı hızla tüketiyor, YOUR_NAME. Kaynak akışını sürdürmek için Arathi Havzası'nın kontrolünü elde tutmak hayati önem taşıyor! Arathi'de henüz bir el attın mı?",
+    ["Completion"]="Mükemmel iş, YOUR_CLASS! Çabaların İttifak'a ihtiyaç duyduğu kaynakları sağlamada yardımcı olacak.",
+    ["minlevel"]="50",
+    ["questlevel"]="59",
+    }, -- end Claiming Arathi Basin
+
+    -- Claiming Arathi Basin
+    -- Arathi Basin -> Arathi Havzası (ZoneData.lua)
+    -- Orgrimmar -> Orgrimmar (ZoneData.lua)
+    ["8396"] = {
+    ["Title"]="Arathi Havzası'nı Talep Etmek",
+    ["Description"]="Bir savaşı kazanmak, rakibinizi zekice alt etmekten ve savaşta yenmekten daha fazlasıdır. Zafer genellikle sadece düşmanınızdan daha fazla üretmeye dayanır.\n\nArathi Havzası'nda sahip olduğumuz şey, ilk talep etmeyi başaran taraf için hatırı sayılır miktarda kaynak ikmalidir.\n\nİttifak galip gelirse bu birliklerimiz için daha fazla kılıç ve mızrak anlamına gelecek. Horde kazanırsa o kılıçlar ve mızraklar yine yapılacak ama sadece bize doğrultulacak! Şimdi Arathi Havzası'nda İttifak'a yardım etme zamanıdır, YOUR_NAME.",
+    ["Objectives"]="Savaş alanlarının dışındaki bir İttifak Tuğgenerali'ne 3 Arathi Havzası Onur Nişanı getir.",
+    ["Progress"]="Söyle bana, cepheden ne haberler var?",
+    ["Completion"]="İyi iş, asker! Böyle devam et, Horde'u Orgrimmar'a kadar geri koşturacağız.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Claiming Arathi Basin
+
+    -- Claiming Arathi Basin
+    -- Arathi Basin -> Arathi Havzası (ZoneData.lua)
+    -- Orgrimmar -> Orgrimmar (ZoneData.lua)
+    ["8395"] = {
+    ["Title"]="Arathi Havzası'nı Talep Etmek",
+    ["Description"]="Bir savaşı kazanmak, rakibinizi zekice alt etmekten ve savaşta yenmekten daha fazlasıdır. Zafer genellikle sadece düşmanınızdan daha fazla üretmeye dayanır.\n\nArathi Havzası'nda sahip olduğumuz şey, ilk talep etmeyi başaran taraf için hatırı sayılır miktarda kaynak ikmalidir.\n\nİttifak galip gelirse bu birliklerimiz için daha fazla kılıç ve mızrak anlamına gelecek. Horde kazanırsa o kılıçlar ve mızraklar yine yapılacak ama sadece bize doğrultulacak! Şimdi Arathi Havzası'nda İttifak'a yardım etme zamanıdır, YOUR_NAME.",
+    ["Objectives"]="Savaş alanlarının dışındaki bir İttifak Tuğgenerali'ne 3 Arathi Havzası Onur Nişanı getir.",
+    ["Progress"]="Söyle bana, cepheden ne haberler var?",
+    ["Completion"]="İyi iş, asker! Böyle devam et, Horde'u Orgrimmar'a kadar geri koşturacağız.",
+    ["minlevel"]="50",
+    ["questlevel"]="59",
+    }, -- end Claiming Arathi Basin
+
+    -- Claiming Arathi Basin
+    -- Arathi Basin -> Arathi Havzası (ZoneData.lua)
+    -- Orgrimmar -> Orgrimmar (ZoneData.lua)
+    ["8394"] = {
+    ["Title"]="Arathi Havzası'nı Talep Etmek",
+    ["Description"]="Bir savaşı kazanmak, rakibinizi zekice alt etmekten ve savaşta yenmekten daha fazlasıdır. Zafer genellikle sadece düşmanınızdan daha fazla üretmeye dayanır.\n\nArathi Havzası'nda sahip olduğumuz şey, ilk talep etmeyi başaran taraf için hatırı sayılır miktarda kaynak ikmalidir.\n\nİttifak galip gelirse bu birliklerimiz için daha fazla kılıç ve mızrak anlamına gelecek. Horde kazanırsa o kılıçlar ve mızraklar yine yapılacak ama sadece bize doğrultulacak! Şimdi Arathi Havzası'nda İttifak'a yardım etme zamanıdır, YOUR_NAME.",
+    ["Objectives"]="Savaş alanlarının dışındaki bir İttifak Tuğgenerali'ne 3 Arathi Havzası Onur Nişanı getir.",
+    ["Progress"]="Söyle bana, cepheden ne haberler var?",
+    ["Completion"]="İyi iş, asker! Böyle devam et, Horde'u Orgrimmar'a kadar geri koşturacağız.",
+    ["minlevel"]="40",
+    ["questlevel"]="49",
+    }, -- end Claiming Arathi Basin
+
+    -- Claiming Arathi Basin
+    -- Arathi Basin -> Arathi Havzası (ZoneData.lua)
+    -- Orgrimmar -> Orgrimmar (ZoneData.lua)
+    ["8393"] = {
+    ["Title"]="Arathi Havzası'nı Talep Etmek",
+    ["Description"]="Bir savaşı kazanmak, rakibinizi zekice alt etmekten ve savaşta yenmekten daha fazlasıdır. Zafer genellikle sadece düşmanınızdan daha fazla üretmeye dayanır.\n\nArathi Havzası'nda sahip olduğumuz şey, ilk talep etmeyi başaran taraf için hatırı sayılır miktarda kaynak ikmalidir.\n\nİttifak galip gelirse bu birliklerimiz için daha fazla kılıç ve mızrak anlamına gelecek. Horde kazanırsa o kılıçlar ve mızraklar yine yapılacak ama sadece bize doğrultulacak! Şimdi Arathi Havzası'nda İttifak'a yardım etme zamanıdır, YOUR_NAME.",
+    ["Objectives"]="Savaş alanlarının dışındaki bir İttifak Tuğgenerali'ne 3 Arathi Havzası Onur Nişanı getir.",
+    ["Progress"]="Söyle bana, cepheden ne haberler var?",
+    ["Completion"]="İyi iş, asker! Böyle devam et, Horde'u Orgrimmar'a kadar geri koşturacağız.",
+    ["minlevel"]="30",
+    ["questlevel"]="39",
+    }, -- end Claiming Arathi Basin
+
+    -- Claiming Arathi Basin
+    -- Arathi Basin -> Arathi Havzası (ZoneData.lua)
+    ["8392"] = {
+    ["Title"]="Arathi Havzası'nı Talep Etmek",
+    ["Description"]="Bir savaşı kazanmak, rakibinizi zekice alt etmekten ve savaşta yenmekten daha fazlasıdır. Zafer genellikle sadece düşmanınızdan daha fazla üretmeye dayanır.\n\nArathi Havzası'nda sahip olduğumuz şey, ilk talep etmeyi başaran taraf için hatırı sayılır miktarda kaynak ikmalidir.\n\nİttifak galip gelirse bu birliklerimiz için daha fazla kılıç ve mızrak anlamına gelecek. Horde kazanırsa o kılıçlar ve mızraklar yine yapılacak ama sadece bize doğrultulacak! Şimdi Arathi Havzası'nda İttifak'a yardım etme zamanıdır, YOUR_NAME.",
+    ["Objectives"]="Savaş alanlarının dışındaki bir İttifak Tuğgenerali'ne 3 Arathi Havzası Onur Nişanı getir.",
+    ["Progress"]="Horde'a karşı savaş kaynaklarımızı hızla tüketiyor, YOUR_NAME. Kaynak akışını sürdürmek için Arathi Havzası'nın kontrolünü elde tutmak hayati önem taşıyor! Arathi'de henüz bir el attın mı?",
+    ["Completion"]="Mükemmel iş, YOUR_CLASS! Çabaların İttifak'a ihtiyaç duyduğu kaynakları sağlamada yardımcı olacak.",
+    ["minlevel"]="40",
+    ["questlevel"]="49",
+    }, -- end Claiming Arathi Basin
+
+    -- Claiming Arathi Basin
+    -- Arathi Basin -> Arathi Havzası (ZoneData.lua)
+    -- Orgrimmar -> Orgrimmar (ZoneData.lua)
+    ["8391"] = {
+    ["Title"]="Arathi Havzası'nı Talep Etmek",
+    ["Description"]="Bir savaşı kazanmak, rakibinizi zekice alt etmekten ve savaşta yenmekten daha fazlasıdır. Zafer genellikle sadece düşmanınızdan daha fazla üretmeye dayanır.\n\nArathi Havzası'nda sahip olduğumuz şey, ilk talep etmeyi başaran taraf için hatırı sayılır miktarda kaynak ikmalidir.\n\nİttifak galip gelirse bu birliklerimiz için daha fazla kılıç ve mızrak anlamına gelecek. Horde kazanırsa o kılıçlar ve mızraklar yine yapılacak ama sadece bize doğrultulacak! Şimdi Arathi Havzası'nda İttifak'a yardım etme zamanıdır, YOUR_NAME.",
+    ["Objectives"]="Savaş alanlarının dışındaki bir İttifak Tuğgenerali'ne 3 Arathi Havzası Onur Nişanı getir.",
+    ["Progress"]="Söyle bana, cepheden ne haberler var?",
+    ["Completion"]="İyi iş, asker! Böyle devam et, Horde'u Orgrimmar'a kadar geri koşturacağız.",
+    ["minlevel"]="30",
+    ["questlevel"]="39",
+    }, -- end Claiming Arathi Basin
+
+    -- Conquering Arathi Basin
+    -- Arathi Basin -> Arathi Havzası (ZoneData.lua)
+    -- Defilers -> Kirleticiler
+    ["8390"] = {
+    ["Title"]="Arathi Havzası'nı Fethetmek",
+    ["Description"]="İttifak ile olan çatışmamız gerçek bir savaşa dönüştü. Artık bu noktada savaş alanına girmek için yanlış bahaneler kullanılmıyor veya beklenmiyor.\n\nArathi Havzası için yapılan savaş kaynak savaşıdır, basit ve net. Ya İttifak kaynakları alır ve bize karşı kullanır ya da biz alırız ve savaş çabalarımızı sürdürmek için kullanırız. Kirleticiler'in ihtiyacımız olan kaynak akışını korumasına yardım et, YOUR_NAME!",
+    ["Objectives"]="Savaş alanlarının dışındaki bir Horde Savaşgetiren'ine 3 Arathi Havzası Onur Nişanı getir.",
+    ["Progress"]="İttifak pisliğine karşı savaş kaynak talep ediyor, YOUR_NAME! Bir savaşın ortasında stoklarımızın tükenmesine izin veremeyiz. Arathi Havzası'nın elimizde kalmasını sağlamaya devam et!",
+    ["Completion"]="Arathi'deki kaynaklarımızı güvence altına almak önemli bir görev! İyi iş çıkardın, YOUR_NAME.",
+    ["minlevel"]="20",
+    ["questlevel"]="29",
+    }, -- end Conquering Arathi Basin
+
+    -- Snapjaws, Mon!
+    -- Katoom the Angler -> Olta Ustası Katoom (MobNpcData.lua)
+    -- Revantusk Village -> Karamızrak Köyü (ZoneData.lua)
+    -- Hinterlands -> Hinterlands (ZoneData.lua)
+    -- Saltwater Snapjaw -> Tuzlusu Isıran
+    ["7815"] = {
+    ["Title"]="Tuzlusu Isıranlar, Dostum!",
+    ["Description"]="İri gözlerinin seni kandırmasına izin verme, dostum! O tuzlusu ısıranlar bir baş belası. O iri balık süpürgelerinden birinin yemimi çalması yüzünden misinam kopmadan beş dakika bile balık tutamıyorum.\n\nBana ve Karamızrak Köyü halkına bir iyilik yap ve onları öldür, dostum.\n\nHepsini öldür!",
+    ["Objectives"]="Hinterlands'taki Karamızrak Köyü'nde bulunan Olta Ustası Katoom, 15 Tuzlusu Isıran kaplumbağasını öldürmeni istiyor. Bu görevi tamamladığında ona geri dön.",
+    ["Progress"]="Av nasıl gidiyor?",
+    ["Completion"]="Oh, dostum! Sana ne kadar teşekkür etsem azdır! Umarım buradaki olta bu iş için yeterli bir ödül olur.",
+    ["minlevel"]="44",
+    ["questlevel"]="50",
+    }, -- end Snapjaws, Mon!
+
+    -- Gammerita, Mon!
+    -- Katoom the Angler -> Olta Ustası Katoom (MobNpcData.lua)
+    -- Revantusk Village -> Karamızrak Köyü (ZoneData.lua)
+    -- Hinterlands -> Hinterlands (ZoneData.lua)
+    -- Gammerita -> Gammerita (MobNpcData.lua)
+    -- Katoom's Best Lure -> Katoom'un En İyi Yemi
+    ["7816"] = {
+    ["Title"]="Gammerita, Dostum!",
+    ["Description"]="Hey! Orada diğerlerine hiç benzemeyen bir kaplumbağa var. O Gammerita, tuzlusu ısıranların lideri - düpedüz pis bir hırsız sürüngen.\n\nDostum, en iyi yemimi çaldı. Tam misinamdan kopardı! O günden beri balıklar aynı şekilde vurmuyor.\n\nGammerita'yı bul ve yemimi midesinden çıkar.",
+    ["Objectives"]="Hinterlands'taki Karamızrak Köyü'nde bulunan Olta Ustası Katoom, Gammerita'yı öldürmeni ve Katoom'un En İyi Yemi'ni cesedinden geri almanı istiyor.\n\nKatoom, Gammerita'nın diğer kaplumbağalarla birlikte kıyıda takıldığından bahsetti.",
+    ["Progress"]="Onu aldın mı?",
+    ["Completion"]="DOSTUM! Bu harika! En iyi yemi ve ısıran nüfusunun azalmasıyla balıklar yığılacak.",
+    ["minlevel"]="44",
+    ["questlevel"]="48",
+    }, -- end Gammerita, Mon!
+
+    -- Concerted Efforts
+    -- Alterac Valley -> Alterac Vadisi (ZoneData.lua)
+    -- Arathi Basin -> Arathi Havzası (ZoneData.lua)
+    -- Warsong Gulch -> Savaşşarkısı Kanyonu (ZoneData.lua)
+    ["8385"] = {
+    ["Title"]="Koordineli Çabalar",
+    ["Description"]="Ah, YOUR_NAME. Umarım farklı savaş cephelerine deneyimini ödünç vermeye devam edersin. Sahadaki birçok gencimiz senin gibi deneyimli gazilere hayranlık duyuyor.",
+    ["Objectives"]="Savaş alanlarının dışındaki bir İttifak Tuğgenerali'ne 3 Alterac Vadisi Onur Nişanı, 3 Arathi Havzası Onur Nişanı ve 3 Savaşşarkısı Kanyonu Onur Nişanı getir.",
+    ["Progress"]="Ah, YOUR_NAME. Umarım farklı savaş cephelerine deneyimini ödünç vermeye devam edersin. Sahadaki birçok gencimiz senin gibi deneyimli gazilere hayranlık duyuyor.",
+    ["Completion"]="İtibarına layık yaşıyorsun, YOUR_NAME. Senin gibi insanlar olmasaydı, İttifak Horde'un vahşi güçlerine karşı şansa sahip olamazdı.",
+    ["minlevel"]="51",
+    ["questlevel"]="60",
+    }, -- end Concerted Efforts
+
+    -- Fight for Warsong Gulch
+    -- Silverwing Sentinels -> Gümüşkanat Nöbetçileri
+    -- Warsong Outriders -> Savaşşarkısı Avcıları
+    -- Warsong Gulch -> Savaşşarkısı Kanyonu (ZoneData.lua)
+    -- Ashenvale -> Ashenvale (ZoneData.lua)
+    -- Astranaar -> Astranaar (ZoneData.lua)
+    -- Barrens -> Barrens (ZoneData.lua)
+    ["8386"] = {
+    ["Title"]="Savaşşarkısı Kanyonu İçin Savaş",
+    ["Description"]="Gümüşkanat Nöbetçileri, Orkların ormana verdiği zarar nedeniyle Savaşşarkısı Avcıları ile savaş halindedir. Ancak bu özel ormanı savunmak için doğaya duyulan yalın sevgiden daha fazla neden var.\n\nOrman, Ashenvale'i büyük ölçekli bir saldırıya karşı savunulabilir kılan stratejik bir engel oluşturur. O olmadan Astranaar, Barrens'a ilhak edilmeden önce bir iki gün dayanırdı.\n\nSavaşşarkısı Avcıları ile savaşmada üzerine düşeni yap, YOUR_NAME! İttifak için!",
+    ["Objectives"]="Savaş alanlarının dışındaki bir İttifak Tuğgenerali'ne 3 Savaşşarkısı Kanyonu Onur Nişanı getir.",
+    ["Progress"]="Cepheden haberlerle mi döndün, YOUR_NAME?",
+    ["Completion"]="Aferin, YOUR_NAME! İttifak'a iyi hizmet ettin.",
+    ["minlevel"]="1",
+    ["questlevel"]="19",
+    }, -- end Fight for Warsong Gulch
+
+    -- Claiming Arathi Basin
+    -- Arathi Basin -> Arathi Havzası (ZoneData.lua)
+    -- Orgrimmar -> Orgrimmar (ZoneData.lua)
+    ["8384"] = {
+    ["Title"]="Arathi Havzası'nı Talep Etmek",
+    ["Description"]="Bir savaşı kazanmak, rakibinizi zekice alt etmekten ve savaşta yenmekten daha fazlasıdır. Zafer genellikle sadece düşmanınızdan daha fazla üretmeye dayanır.\n\nArathi Havzası'nda sahip olduğumuz şey, ilk talep etmeyi başaran taraf için hatırı sayılır miktarda kaynak ikmalidir.\n\nİttifak galip gelirse bu birliklerimiz için daha fazla kılıç ve mızrak anlamına gelecek. Horde kazanırsa o kılıçlar ve mızraklar yine yapılacak ama sadece bize doğrultulacak! Şimdi Arathi Havzası'nda İttifak'a yardım etme zamanıdır, YOUR_NAME.",
+    ["Objectives"]="Savaş alanlarının dışındaki bir İttifak Tuğgenerali'ne 3 Arathi Havzası Onur Nişanı getir.",
+    ["Progress"]="Söyle bana, cepheden ne haberler var?",
+    ["Completion"]="İyi iş, asker! Böyle devam et, Horde'u Orgrimmar'a kadar geri koşturacağız.",
+    ["minlevel"]="20",
+    ["questlevel"]="29",
+    }, -- end Claiming Arathi Basin
+
+    -- Stalking the Stalkers
+    -- Huntsman Markhor -> Avcı Markhor (MobNpcData.lua)
+    -- Revantusk Village -> Karamızrak Köyü (ZoneData.lua)
+    -- Hinterlands -> Hinterlands (ZoneData.lua)
+    -- Silvermane -> Gümüşyele
+    ["7828"] = {
+    ["Title"]="İz Sürücüleri İzlemek",
+    ["Description"]="Birçok cesur troll Hinterlands'ın sert yaban hayatında kayboldu, YOUR_RACE. Gümüşyele kurtları avcılarımıza yönelik en büyük tehditlerden biridir. Çalılıkların ve arazinin arasında saklanarak pusuya yatarlar, sonra fırsat sunduğunda saldırırlar.\n\nBu tür bir vahşet cezasız kalmayacak!\n\nGümüşyele gibi düşünmelisin. İz sürücüleri izle! Hepsini katlet!",
+    ["Objectives"]="Hinterlands'taki Karamızrak Köyü'nde bulunan Avcı Markhor, 15 Gümüşyele İz Sürücüsü ve 15 Gümüşyele Uluyucu öldürmeni istiyor. Görev tamamlandığında ona geri dön.\n\nMarkhor kurtların Hinterlands'ın yaban hayatında saklandığından bahsetti.",
+    ["Progress"]="Onlara Karamızrak'ın gücünü göster!",
+    ["Completion"]="İyi yapılmış bir iş, YOUR_RACE. Karamızrak katkın için sana teşekkür eder.",
+    ["minlevel"]="44",
+    ["questlevel"]="48",
+    }, -- end Stalking the Stalkers
+
+    -- Hunt the Savages
+    -- Huntsman Markhor -> Avcı Markhor (MobNpcData.lua)
+    -- Revantusk Village -> Karamızrak Köyü (ZoneData.lua)
+    -- Hinterlands -> Hinterlands (ZoneData.lua)
+    ["7829"] = {
+    ["Title"]="Vahşileri Avla",
+    ["Description"]="Hinterlands'ın yaban hayatının daha aksi olanlarından biri vahşi baykuşcanavarlardır. Birçok iyi Karamızrak savaşçısı, canavarların yırtıcı pençeleri ve gagaları yüzünden kaybedildi.\n\nGördüğün her vahşi baykuşcanavarı öldür, YOUR_RACE. Artık kan dökülmesine dayanamadığında bana geri dön. Katkın o zaman tartılacak, ölçülecek ve yargılanacaktır.",
+    ["Objectives"]="Hinterlands'taki Karamızrak Köyü'nde bulunan Avcı Markhor, 20 Vahşi Baykuşcanavar öldürmeni istiyor. Görev tamamlandığında ona geri dön.\n\nMarkhor, Vahşi Baykuşcanavarlar'ın Hinterlands'ın yaban hayatını işgal ettiğinden bahsetti.",
+    ["Progress"]="Zihnini saf olmayan düşüncelerden arındır, YOUR_RACE. Yaban hayatıyla bir ol!",
+    ["Completion"]="Karamızrak'a layık bir müttefik olduğunu kanıtladın, YOUR_NAME. Aferin.",
+    ["minlevel"]="44",
+    ["questlevel"]="48",
+    }, -- end Hunt the Savages
+
+    -- Avenging the Fallen
+    -- Huntsman Markhor -> Avcı Markhor (MobNpcData.lua)
+    -- Revantusk Village -> Karamızrak Köyü (ZoneData.lua)
+    -- Hinterlands -> Hinterlands (ZoneData.lua)
+    ["7830"] = {
+    ["Title"]="Düşmüşlerin İntikamını Almak",
+    ["Description"]="Kendine Vahşiçekiç diyen pislikler trol katletmek için grifon eğitiyor. Korkunç, biliyorum, ama endişelenme, adalet yakında yerini bulacak.\n\nŞimdilik, bölgenin yaşlı grifonlarını yok etmeye odaklanmanı istiyorum. Onlar Gök Lordları olarak bilinirler.\n\nBirini katlet ve tüyüyle bana geri dön.",
+    ["Objectives"]="Hinterlands'taki Karamızrak Köyü'nde bulunan Avcı Markhor, bir KeskinGaga Gök Lordu öldürmeni ve Gök Lordu Tüyü'nü geri almanı istiyor. Görev tamamlandığında ona geri dön.\n\nMarkhor, KeskinGaga Gök Lordları'nın Hinterlands'ın yaban hayatını işgal eden nadir bir tür olduğundan bahsetti.",
+    ["Progress"]="KeskinGaga Gök Lordu, grifonun çok daha nadir bir türüdür: Çiftleşmekten ve cani yavrular yaratmaktan sorumlu olan.",
+    ["Completion"]="<Markhor tüyü inceler.>\n\nSen adalete teslim etmeden önce bu canavarın avcılarımızdan kaçını yediğini merak ediyorum.",
+    ["minlevel"]="44",
+    ["questlevel"]="48",
+    }, -- end Avenging the Fallen
+
+    -- Claiming Arathi Basin
+    -- Arathi Basin -> Arathi Havzası (ZoneData.lua)
+    -- Orgrimmar -> Orgrimmar (ZoneData.lua)
+    ["8374"] = {
+    ["Title"]="Arathi Havzası'nı Talep Etmek",
+    ["Description"]="Bir savaşı kazanmak, rakibinizi zekice alt etmekten ve savaşta yenmekten daha fazlasıdır. Zafer genellikle sadece düşmanınızdan daha fazla üretmeye dayanır.\n\nArathi Havzası'nda sahip olduğumuz şey, ilk talep etmeyi başaran taraf için hatırı sayılır miktarda kaynak ikmalidir.\n\nİttifak galip gelirse bu birliklerimiz için daha fazla kılıç ve mızrak anlamına gelecek. Horde kazanırsa o kılıçlar ve mızraklar yine yapılacak ama sadece bize doğrultulacak! Şimdi Arathi Havzası'nda İttifak'a yardım etme zamanıdır, YOUR_NAME.",
+    ["Objectives"]="Savaş alanlarının dışındaki bir İttifak Tuğgenerali'ne 3 Arathi Havzası Onur Nişanı getir.",
+    ["Progress"]="Söyle bana, cepheden ne haberler var?",
+    ["Completion"]="İyi iş, asker! Böyle devam et, Horde'u Orgrimmar'a kadar geri koşturacağız.",
+    ["minlevel"]="20",
+    ["questlevel"]="29",
+    }, -- end Claiming Arathi Basin
+
+    -- Arena Grandmaster
+    -- Arena Master -> Arena Ustası
+    -- Gurubashi Arena -> Gurubashi Arenası (ZoneData.lua)
+    ["7838"] = {
+    ["Title"]="Arena Büyükustası",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Dur bakalım kara cahil! Bana 12 adet Arena Ustası nişanı getir, o zaman Gurubashi Arenası'nın Büyükustası olursun! Arrrr!",
+    ["Completion"]="Arena zemininde çok kan döktün ve seni Arena Büyükustası olarak adlandırmaktan mutluluk duyarım!",
+    ["minlevel"]="0",
+    ["questlevel"]="55",
+    }, -- end Arena Grandmaster
+
+    -- Vilebranch Hooligans
+    -- Vilebranch -> Vilebranch (MobNpcData.lua)
+    -- Smith Slagtree -> Demirci Cürufağaç (MobNpcData.lua)
+    -- Revantusk Village -> Karamızrak Köyü (ZoneData.lua)
+    -- Hinterlands -> Hinterlands (ZoneData.lua)
+    -- Agol'watha -> Agol'watha (ZoneData.lua)
+    -- Shaol'watha -> Shaol'watha (ZoneData.lua)
+    -- Skulk Rock -> Skulk Kayası (ZoneData.lua)
+    ["7839"] = {
+    ["Title"]="Vilebranch Holiganları",
+    ["Description"]="Vilebranch pisliği köyümüzü istila etti ve aletlerimi çaldı! Yedek aletlerim var ama çaldıkları set, genç bir ork olduğumda hayatımı kurtaran iyi kalpli bir gnom tarafından bana verilen bir hediyeydi.\n\nO aletleri geri istiyorum, YOUR_NAME - onlar benim için dünyalara bedel.\n\nMarkhor aletlerin Agol'watha ve Shaol'watha tapınakları yakınlarında görüldüğünü bildirdi.\n\nO tapınaklar Hinterlands'ın kuzeydoğu bölgesindedir.\n\nAletlerimi kurtar!",
+    ["Objectives"]="Hinterlands'taki Karamızrak Köyü'nde bulunan Demirci Cürufağaç, Cürufağaç'ın Kayıp Aletleri'ni bulmanı istiyor. Bu görevi tamamladığında ona geri dön.\n\nDemirci Cürufağaç'ın aletlerin Hinterlands'ın kuzeydoğu bölgesindeki Vilebranch tapınaklarından birinde olabileceğini söylediğini hatırlıyorsun. Ayrıca Skulk Kayası'nı da kontrol etmelisin.",
+    ["Progress"]="Bölgenin Vilebranch trollerine karşı dikkatli ol, YOUR_NAME. Onlar acımasız, katil pisliklerdir.",
+    ["Completion"]="Aletlerim! Onları buldun! Oh şanlı gün! Teşekkür ederim, YOUR_NAME.",
+    ["minlevel"]="44",
+    ["questlevel"]="48",
+    }, -- end Vilebranch Hooligans
+
+    -- Lard Lost His Lunch
+    -- Lard -> Lard (MobNpcData.lua)
+    -- Revantusk Village -> Karamızrak Köyü (ZoneData.lua)
+    -- Hinterlands -> Hinterlands (ZoneData.lua)
+    ["7840"] = {
+    ["Title"]="Lard Öğle Yemeğini Kaybetti",
+    ["Description"]="Lard gizli özel bir noktada piknik yaparken çirkin kötü Vilebranch Lard'a büyük sopayla vurdu. Lard Karamızrak'a geri koştu ama Lard'ın öğle yemeğini unuttu. Lard aç. Belki gizli özel noktaya geri gidip Lard'ın öğle yemeğini alırsın? Lard korktu. Kuzeye git! Kuzeydeki ada gizli özel noktadır.",
+    ["Objectives"]="Hinterlands'taki Karamızrak Köyü'nde bulunan Lard, Lard'ın Öğle Yemeği'ni bulmanı istiyor. Bu görevi tamamladığında ona geri dön.\n\nLard, onu kuzeydeki adada bıraktığından bahsetti. Vilebranch trollerine karşı dikkatli ol.",
+    ["Progress"]="<Lard kocaman göbeğini ovuşturur.>\n\nLard çok aç.",
+    ["Completion"]="<Lard senden kocaman et parçasını alır ve yüzüne tıkıştırır.>\n\nTam yerine rastladı! Teşekkürler ufaklık.\n\nLard yardımın için sana özel piknik sepeti yapsın.",
+    ["minlevel"]="44",
+    ["questlevel"]="49",
+    }, -- end Lard Lost His Lunch
+
+    -- Message to the Wildhammer
+    -- Otho Moji'ko -> Otho Moji'ko (MobNpcData.lua)
+    -- Revantusk Village -> Karamızrak Köyü (ZoneData.lua)
+    -- Hinterlands -> Hinterlands (ZoneData.lua)
+    -- Wildhammer -> Vahşiçekiç
+    -- Highvale -> Yüksekvadi
+    ["7841"] = {
+    ["Title"]="Vahşiçekiç'e Mesaj",
+    ["Description"]="Vahşiçekiçler düşmanlarımızla anlaşmalar yapıp yeni ittifaklar kuruyor. Bu sefer, yüksek elflerle çalışıyorlar, dostum.\n\n<Otho tükürür.>\n\nO Vahşiçekiç cücelerine bir mesaj göndermemiz gerekiyor - düşmanlarımızın kanıyla bir mesaj. Karşılaştığın her Yüksekvadi yüksek elfini katlet, cesetlerini uyarı olarak bırak.\n\nTrollerle asla uğraşma!",
+    ["Objectives"]="Hinterlands'taki Karamızrak Köyü'nde bulunan Otho Moji'ko, 15 Yüksekvadi Önkoşucu, 15 Yüksekvadi Keşifçi, 15 Yüksekvadi Nişancı ve 15 Yüksekvadi Korucu'yu katletmeni istiyor. Bu görevi tamamladığında ona geri dön.\n\nYüksekvadi yüksek elflerini Hinterlands'ın kuzeybatı bölgesindeki Quel'Danil Köşkü'nde bulabilirsin.",
+    ["Progress"]="Çok temizsin, dostum. Karışman lazım - düşmanla kir pas içinde uğraşmalısın.",
+    ["Completion"]="Görünüşe göre Karamızraklar da yeni ittifaklar kuruyor, dostum! İyi iş çıkardın.",
+    ["minlevel"]="44",
+    ["questlevel"]="48",
+    }, -- end Message to the Wildhammer
+
+    -- Another Message to the Wildhammer
+    -- Otho Moji'ko -> Otho Moji'ko (MobNpcData.lua)
+    -- Revantusk Village -> Karamızrak Köyü (ZoneData.lua)
+    -- Hinterlands -> Hinterlands (ZoneData.lua)
+    -- Wildhammer -> Vahşiçekiç
+    ["7842"] = {
+    ["Title"]="Vahşiçekiç'e Bir Mesaj Daha",
+    ["Description"]="Vahşiçekiç ve grifonun trol ve eşi kadar birbirine yakın olduğunu söylüyorlar. İğrenç, ama bunu lehimize kullanabiliriz, dostum. Onlara bir mesaj daha gönderiyoruz.\n\nHinterlands'ta gördüğün tüm grifonları öldür, tüylerini topla. Bundan son mesajı yapacağız.",
+    ["Objectives"]="Hinterlands'taki Karamızrak Köyü'nde bulunan Otho Moji'ko, Hinterlands'ta yaşayan grifonlardan ona 10 Uzun Zarif Tüy getirmeni istiyor. Bu görevi tamamladığında ona geri dön.\n\nGrifonların Hinterlands'ın her bölgesinde yaşadığı bilinmektedir.",
+    ["Progress"]="Son mesaj onları kesinlikle korkutacak. Ya bu ya da onları çok ama çok kızdıracak.",
+    ["Completion"]="Oh, dostum, bu güzel olacak. Bir adım daha kaldı ve Vahşiçekiç trol ile uğraşamayacaklarını görecek!",
+    ["minlevel"]="44",
+    ["questlevel"]="48",
+    }, -- end Another Message to the Wildhammer
+
+    -- The Final Message to the Wildhammer
+    -- Otho Moji'ko -> Otho Moji'ko (MobNpcData.lua)
+    -- Revantusk Village -> Karamızrak Köyü (ZoneData.lua)
+    -- Hinterlands -> Hinterlands (ZoneData.lua)
+    -- Aerie Peak -> Yuva Zirvesi
+    -- Wildhammer -> Vahşiçekiç
+    ["7843"] = {
+    ["Title"]="Vahşiçekiç'e Son Mesaj",
+    ["Description"]="<Otho sana birkaç grifon tüyüne sarılı, kana bulanmış uzun bir mızrak uzatır.>\n\nBunu al, dostum. Bunu Yuva Zirvesi'ne, şehrin tam merkezindeki kuyunun yanına götür. Dik onu! Doğruca yere sapla! O cücelere trolün işine odaklandığını göster! Bunu yaptığında geri gel. Umarım sağ salim geri dönersin.",
+    ["Objectives"]="Hinterlands'taki Karamızrak Köyü'nde bulunan Otho Moji'ko, Hinterlands'ın batı bölgesindeki Yuva Zirvesi'ne seyahat etmeni ve Vahşiçekiç'e Son Mesaj'ı şehrin merkezindeki kuyunun yanına yerleştirmeni istiyor. Bu görevi tamamladığında ona geri dön.\n\nKızgın Vahşiçekiç cücelerine ve İttifak'ın asi üyelerine karşı dikkatli ol.",
+    ["Progress"]="Engel nedir, dostum?",
+    ["Completion"]="Orada olup yüzlerindeki ifadeyi görmeyi dilerdim, dostum. Çantalarını topluyorlar mı? Şehri terk mi ediyorlar?\n\nİyi iş çıkardın, YOUR_NAME. Gerçekten iyi. Otho seni büyük bir mojo ile ödüllendiriyor.",
+    ["minlevel"]="44",
+    ["questlevel"]="50",
+    }, -- end The Final Message to the Wildhammer
+
+    -- Cannibalistic Cousins
+    -- Mystic Yayo'jin -> Mistik Yayo'jin (MobNpcData.lua)
+    -- Revantusk Village -> Karamızrak Köyü (ZoneData.lua)
+    -- Hinterlands -> Hinterlands (ZoneData.lua)
+    -- Vilebranch -> Vilebranch (MobNpcData.lua)
+    -- Shaol'watha -> Shaol'watha (ZoneData.lua)
+    -- Agol'watha -> Agol'watha (ZoneData.lua)
+    ["7844"] = {
+    ["Title"]="Yamyam Kuzenler",
+    ["Description"]="Hinterlands'ta üç farklı trol kabilesi yaşıyor, YOUR_NAME. Kabileler arasındaki benzerlikler ancak bu kadar: Hepimiz trolüz ve Hinterlands'ta yaşıyoruz.\n\nVilebranch -uygun bir şekilde adlandırılmış- yozlaşmış bir güruhtur; diğer troller ve insansılarla beslenirler.\n\nZul'jin burada olsaydı, bileğinin bir hareketiyle hepsini yok ederdi - ne yazık ki, Zul'jin henüz dönmedi ve biz kendi cihazlarımıza bırakıldık.\n\nBölgenin pisliğini yok etmek sana kalmış!",
+    ["Objectives"]="Hinterlands'taki Karamızrak Köyü'nde bulunan Mistik Yayo'jin, 30 Vilebranch Kelleyi Alan ve 15 Vilebranch Falcı öldürmeni istiyor. Bu görevi tamamladığında ona geri dön.\n\nYayo'jin, bu trollerin Hinterlands'ın kuzeydoğu bölgesindeki Shaol'watha ve Agol'watha tapınakları yakınlarında bulunabileceğini belirtti.",
+    ["Progress"]="Vilebranch Falcıları ve Kelleyi Alanları Hinterlands'ın kuzeydoğu bölgesinde yaşıyor.",
+    ["Completion"]="Aferin, YOUR_CLASS. Zul'jin bile daha iyi bir iş yapamazdı!",
+    ["minlevel"]="44",
+    ["questlevel"]="48",
+    }, -- end Cannibalistic Cousins
+
+    -- Kidnapped Elder Torntusk!
+    -- Primal Torntusk -> İlkel Boynuzkırık (MobNpcData.lua)
+    -- Elder Torntusk -> Yaşlı Boynuzkırık (MobNpcData.lua)
+    -- Jintha'alor -> Jintha'alor (ZoneData.lua)
+    -- Vile Priestess Hexx -> Vile Rahibe Hexx (MobNpcData.lua)
+    -- Hakkar -> Hakkar (MobNpcData.lua)
+    -- Hinterlands -> Hinterlands (ZoneData.lua)
+    ["7845"] = {
+    ["Title"]="Yaşlı Boynuzkırık Kaçırıldı!",
+    ["Description"]="Eşim, köyümüze yapılan cüretkar bir gece baskınında Vilebranch vahşileri tarafından alındı. Casuslarımız bana onun hala hayatta olduğunu ve Jintha'alor'un tepesinde esir tutulduğunu söylediler. Vile Rahibe Hexx'in onu yüzsüz kan Tanrısı Hakkar'a kurban edilmek üzere hazırladığı söyleniyor.\n\nOnu kurtarmalısın, YOUR_NAME! Köyümüz bu kadar büyük bir kaybı kaldıramazdı.",
+    ["Objectives"]="Hinterlands'taki Karamızrak Köyü'nde bulunan İlkel Boynuzkırık, eşi Yaşlı Boynuzkırık'ı Jintha'alor'dan kurtarmanı istiyor.\n\nOnun Hinterlands'ın güney bölgesinde bulunan Vilebranch başkenti Jintha'alor'un tepesinde esir tutulduğu söylendi.",
+    ["Progress"]="",
+    ["Completion"]="Hızlı hareket etmelisin, YOUR_NAME. Muhafızlar kesinlikle varlığından haberdar edilmiştir.",
+    ["minlevel"]="46",
+    ["questlevel"]="51",
+    }, -- end Kidnapped Elder Torntusk!
+
+    -- Recover the Key!
+    -- Elder Torntusk -> Yaşlı Boynuzkırık (MobNpcData.lua)
+    -- Hitah'ya the Keeper -> Muhafız Hitah'ya (MobNpcData.lua)
+    ["7846"] = {
+    ["Title"]="Anahtarı Kurtar!",
+    ["Description"]="Bağlarımın anahtarı Muhafız Hitah'ya'da. Yakındaki mağarada. Dikkatli ol, YOUR_CLASS, çünkü iyi korunuyor.\n\nOnu öldür ve anahtarı prangalarımı gevşetmek için geri getir. Ancak o zaman eve dönmekte özgür olacağım.",
+    ["Objectives"]="Jintha'alor'daki Yaşlı Boynuzkırık, prangalarının Pranga Anahtarı'nı almak için Muhafız Hitah'ya'yı öldürmeni istiyor. Anahtarı kurtardığında Yaşlı Boynuzkırık'a geri dön.",
+    ["Progress"]="Acele etmelisin!",
+    ["Completion"]="Sonunda özgürlük! Teşekkür ederim, YOUR_NAME. Karamızraklar yaptıklarını bilecek!",
+    ["minlevel"]="46",
+    ["questlevel"]="51",
+    }, -- end Recover the Key!
+
+    -- Return to Primal Torntusk
+    -- Elder Torntusk -> Yaşlı Boynuzkırık (MobNpcData.lua)
+    -- Primal Torntusk -> İlkel Boynuzkırık (MobNpcData.lua)
+    -- Revantusk Village -> Karamızrak Köyü (ZoneData.lua)
+    ["7847"] = {
+    ["Title"]="İlkel Boynuzkırık'a Dönüş",
+    ["Description"]="Eşim, Karamızrak Köyü'ndeki İlkel Boynuzkırık'a geri dön. Eve geldiğimi ona söyle! Seni kesinlikle ödüllendirecektir.",
+    ["Objectives"]="Jintha'alor'daki Yaşlı Boynuzkırık, kurtarılma haberiyle Karamızrak Köyü'ndeki İlkel Boynuzkırık'a dönmeni istiyor.",
+    ["Progress"]="",
+    ["Completion"]="Karamızraklar'a büyük bir hizmette bulundun, YOUR_NAME! Sana büyük bir minnet borçluyuz.",
+    ["minlevel"]="46",
+    ["questlevel"]="51",
+    }, -- end Return to Primal Torntusk
+
+    -- Attunement to the Core
+    -- Lothos Riftwaker -> Lothos Yarıkyürüten (MobNpcData.lua)
+    -- Firelord -> Ateş Lordu (MobNpcData.lua)
+    -- Blackrock Mountain -> Karakaya Dağı (ZoneData.lua)
+    -- Blackrock Depths -> Karakaya Derinlikleri (ZoneData.lua)
+    -- Molten Core -> Erimiş Çekirdek (ZoneData.lua)
+    ["7848"] = {
+    ["Title"]="Çekirdekle Uyumlanma",
+    ["Description"]="Yarıklar etrafımızda çalkalanıyor, yırtılıyor ve çöküyor, YOUR_RACE. Durduğum yerden iki adım ötede Karakaya Dağı'nın derinliklerinden geçip Ateş Lordu'nun ağzına çıkan bir yırtık var.\n\nŞaşırdın mı? Yazık... Ölümlü ırklar göremedikleri, dokunamadıkları veya hissedemedikleri şeyleri kavrayamazlar.\n\nSeni temin ederim, geçit orada ve erişim mümkün.\n\nİlgini mi çektim? Uyumlanma basittir. Karakaya Derinlikleri'ne git ve bir çekirdek parçası al. Onu bana geri getir, ben de özünü geçitle uyumlayayım.",
+    ["Objectives"]="Karakaya Derinlikleri'ndeki Erimiş Çekirdek giriş geçidine git ve bir Çekirdek Parçası elde et. Çekirdek Parçasını aldığında Karakaya Dağı'ndaki Lothos Yarıkyürüten'e dön.",
+    ["Progress"]="Erişim verilmeden önce ruhunu Erimiş Çekirdek ile uyumlamalısın.",
+    ["Completion"]="Artık seni Erimiş Çekirdek'e ışınlayabilirim. İste ve yapılacaktır.",
+    ["minlevel"]="55",
+    ["questlevel"]="60",
+    }, -- end Attunement to the Core
+
+    -- Separation Anxiety
+    -- Huntsman Markhor -> Avcı Markhor (MobNpcData.lua)
+    -- Huntsman Malkhor -> Avcı Malkhor (MobNpcData.lua)
+    -- Revantusk Village -> Karamızrak Köyü (ZoneData.lua)
+    -- Hinterlands -> Hinterlands (ZoneData.lua)
+    -- Vilebranch -> Vilebranch (MobNpcData.lua)
+    -- Jintha'alor -> Jintha'alor (ZoneData.lua)
+    ["7849"] = {
+    ["Title"]="Ayrılık Kaygısı",
+    ["Description"]="Köyümüzdeki birçok kişi gibi, ben de yaban hayatına sevdiğim birini kaybettim. Ne yazık ki, ikiz kardeşim Malkhor'du - Vilebranch tarafından Torntusk'un eşiyle aynı baskında alındı.\n\nNe yazık ki, yaşama kaderi yoktu ve hızlı, acımasız bir infazla karşılaştı; kalıntıları Vilebranch'ın sızıntılarına ve kurtlarına yedirildi.\n\nHayatını kurtarmak için çok geç ama ruhunu kurtarmak için değil. Kalıntılarını kurtar, YOUR_NAME.",
+    ["Objectives"]="Hinterlands'taki Karamızrak Köyü'nde bulunan Avcı Markhor, ikiz kardeşinin kalıntılarını kurtarmanı istiyor. Avcı Malkhor'un Kafatası'nı ve Avcı Malkhor'un Kemikleri'ni bul ve Avcı Markhor'a geri getir.\n\nMarkhor, kardeşinin kalıntılarının Vilebranch'ın sızıntılarına ve kurtlarına yedirildiğinden bahsetti. Ayrıca Jintha'alor'da sızıntılarla dolu bir atık çukuru ve bir kurt ininin olduğundan bahsetti. Bu yerlerin her ikisi de tapınağın tepesine yakındır.",
+    ["Progress"]="Kalıntılarını aldığımda, onları Yayo'jin'e götüreceğim ve düzgün bir cenaze töreni için hazırlatacağım.",
+    ["Completion"]="Sevgili kardeşim, seni nasıl özleyeceğim...\n\nYardımın için teşekkürler, YOUR_NAME. Gözlerimde gerçekten bir kahramansın.",
+    ["minlevel"]="46",
+    ["questlevel"]="50",
+    }, -- end Separation Anxiety
+
+    -- Dark Vessels
+    -- Primal Torntusk -> İlkel Boynuzkırık (MobNpcData.lua)
+    -- Vile Priestess Hexx -> Vile Rahibe Hexx (MobNpcData.lua)
+    -- Hakkar -> Hakkar (MobNpcData.lua)
+    -- Jintha'alor -> Jintha'alor (ZoneData.lua)
+    -- Hinterlands -> Hinterlands (ZoneData.lua)
+    ["7850"] = {
+    ["Title"]="Karanlık Kaplar",
+    ["Description"]="Vilebranch doğaüstü bir vahşetle savaşır. Bu, Vile Rahibe Hexx'in faul büyülü dokumalarından kaynaklanmaktadır.\n\nJintha'alor boyunca lekeli kanın karanlık kaplarını bulacaksın. Kaplar, Vilebranch'ı güçlendiren ve onları deliliğe sürükleyen yüzsüz kan Tanrısı Hakkar'ın faul büyüsünü yayar.\n\nO kapları çal ve bana geri getir ki lekeyi çıkarabileyim ve nihayetinde kan Tanrısı'nın pençesini gevşetebileyim.",
+    ["Objectives"]="Hinterlands'taki Karamızrak Köyü'nde bulunan İlkel Boynuzkırık, Jintha'alor'dan 10 Lekeli Kan Kabı kurtarmanı istiyor. Bu görevi tamamladığında İlkel Boynuzkırık'a geri dön.",
+    ["Progress"]="Vilebranch ile savaşırken dikkatli ol, YOUR_NAME. Zihinleri bulutlu - ölüme kadar savaşıyorlar.",
+    ["Completion"]="Vilebranch'ı zorlayan karanlık enerji kaldırıldı - şimdilik. Kötülüğe karşı savaşımızda her zaman tetikte kalmalıyız, çünkü Vile Rahibe yok edilse bile, yakında bir başkası onun yerini alıyor.",
+    ["minlevel"]="46",
+    ["questlevel"]="50",
+    }, -- end Dark Vessels
+
+    -- Wanted: Vile Priestess Hexx and Her Minions
+    -- Primal Torntusk -> İlkel Boynuzkırık (MobNpcData.lua)
+    -- Vile Priestess Hexx -> Vile Rahibe Hexx (MobNpcData.lua)
+    -- Jintha'alor -> Jintha'alor (ZoneData.lua)
+    -- Hinterlands -> Hinterlands (ZoneData.lua)
+    ["7861"] = {
+    ["Title"]="ARANIYOR: Vile Rahibe Hexx ve Uşakları",
+    ["Description"]="İlkel Boynuzkırık'ın emriyle, Vile Rahibe Hexx ve uşakları adalete teslim edilecek!\n\nVile Rahibe Hexx'i ve tüm Aman'zasi seçkin muhafızlarını katleden herkese büyük bir ödül verilir.",
+    ["Objectives"]="Vile Rahibe Hexx'i ve 20 Vilebranch Aman'zasi Muhafızı'nı katletmekle görevlendirildin. Bu görevi tamamladığında Hinterlands'taki Karamızrak Köyü'nde bulunan İlkel Boynuzkırık'a git.\n\nVile Rahibe Hexx ve Aman'zasi Muhafızları Hinterlands'taki Jintha'alor'un tepesinde bulunabilir.",
+    ["Progress"]="Jintha'alor'dan haber mi getiriyorsun?",
+    ["Completion"]="Vilebranch'a gerçekten felç edici bir darbe. Zengin bir şekilde ödüllendirileceksin, YOUR_NAME.",
+    ["minlevel"]="46",
+    ["questlevel"]="51",
+    }, -- end Wanted: Vile Priestess Hexx and Her Minions
+
+    -- Job Opening: Guard Captain of Revantusk Village
+    -- Primal Torntusk -> İlkel Boynuzkırık (MobNpcData.lua)
+    -- Revantusk Village -> Karamızrak Köyü (ZoneData.lua)
+    -- Malkhor -> Malkhor (MobNpcData.lua)
+    -- Hinterlands -> Hinterlands (ZoneData.lua)
+    -- Vilebranch -> Vilebranch (MobNpcData.lua)
+    ["7862"] = {
+    ["Title"]="İş Fırsatı: Karamızrak Köyü Muhafız Kaptanı",
+    ["Description"]="Muhafız Kaptanı Malkhor'un kaybıyla, Karamızrak Muhafız Kaptanı pozisyonu bir kez daha açık. Karamızrak için Muhafız Kaptanı olmakla ilgileniyorsan, aşağıdaki görevleri tamamla ve başvurunu İlkel Boynuzkırık'a gönder:\n\nVilebranch İri Kıyım'larını yok et.\n\nVilebranch Gölge Avcıları'nı yok et.\n\nVilebranch Kan İçicileri'ni yok et.\n\nVilebranch Ruh Yiyicileri'ni yok et.",
+    ["Objectives"]="20 Vilebranch İri Kıyım, 20 Vilebranch Gölge Avcısı, 20 Vilebranch Kan İçici ve 20 Vilebranch Ruh Yiyici'nin imhasıyla görevlendirildin.\n\nBu görevi tamamlarsan Hinterlands'taki Karamızrak Köyü'nde bulunan İlkel Boynuzkırık'a dön.",
+    ["Progress"]="İş başvurusu için mi buradasın?",
+    ["Completion"]="Yeni pozisyon için gerçekten değerli bir adaysın, YOUR_NAME. Sıkı çalışman için takdirimizin bir nişanı olarak bu tılsımı kabul et. Tüm başvuruları gelecek yıl gözden geçireceğim.",
+    ["minlevel"]="46",
+    ["questlevel"]="51",
+    }, -- end Job Opening: Guard Captain of Revantusk Village
+
+    -- Arathi Basin Mark of Honor!
+    -- Arathi Basin -> Arathi Havzası (ZoneData.lua)
+    -- Sergeant Maclear -> Çavuş Maclear (MobNpcData.lua)
+    -- Refuge Pointe -> Sığınak Noktası (ZoneData.lua)
+    ["8080"] = {
+    ["Title"]="Arathi Havzası Onur Nişanı!",
+    ["Description"]="Savaş askerlerle yapılmalıdır, bunu her asker sana söyleyecektir. Ayrıca kötü ekipmanla veya boş mideyle yapılan bir savaşın başlamadan önce kaybedildiğini de söyleyecekler!\n\nArathi Havzası'nın önemli olmasının nedeni budur. Havzada temel kaynakları elinde tutan kilit alanlar vardır. Metaller, silahlar, yiyecek, kereste - hepsi gereklidir ve hepsi orada kazanılabilir.\n\nSenden istediğim bu, YOUR_NAME. Arathi Havzası'na gir, düşmandan daha fazla üs tutarak savaşı kazan ve bir sandık kaynakla bana geri dön.",
+    ["Objectives"]="Arathi Havzası savaşını kazan, bir Arathi Havzası Onur Nişanı al ve Sığınak Noktası'ndaki Çavuş Maclear'a geri götür.",
+    ["Progress"]="Onur Nişanları'n var mı, YOUR_NAME? Arathor Birliği onlar olmadan düzgün bir savaş veremez...",
+    ["Completion"]="Nişanı aldın! Harika iş! Kaynakları, onları hızla birliklerimize dağıtabilecek levazım subaylarımıza göndereceğim.\n\nTeşekkür ederim, YOUR_NAME. Gerçekten, başardığın gibi başarılı görevler gerçekleştirmek savaşların nasıl kazanıldığının yoludur.",
+    ["minlevel"]="50",
+    ["questlevel"]="59",
+    }, -- end Arathi Basin Mark of Honor!
+
+    -- Mark of Honor
+    -- Warsong Gulch -> Savaşşarkısı Kanyonu (ZoneData.lua)
+    -- Silverwing Sentinels -> Gümüşkanat Nöbetçileri
+    ["7925"] = {
+    ["Title"]="Onur Nişanı",
+    ["Description"]="Savaşşarkısı Kanyonu'ndaki çabalarımıza olan değerini kanıtladın. Gümüşkanat Nöbetçileri'ne karşı öfkelenmeye devam et! Bana daha fazla onur nişanı getir!",
+    ["Objectives"]="Son görevin için bir Savaşşarkısı Onur Nişanı elde ettin, benimle tekrar konuş ve ödülünü kazan.",
+    ["Progress"]="",
+    ["Completion"]="Gece elfleri ve müttefikleri isminin fısıltısından bile titremeli! Horde için!",
+    ["minlevel"]="20",
+    ["questlevel"]="25",
+    }, -- end Mark of Honor
+
+    -- Mark of Honor
+    -- Warsong Gulch -> Savaşşarkısı Kanyonu (ZoneData.lua)
+    -- Silverwing Sentinels -> Gümüşkanat Nöbetçileri
+    ["7924"] = {
+    ["Title"]="Onur Nişanı",
+    ["Description"]="Savaşşarkısı Kanyonu'ndaki çabalarımıza olan değerini kanıtladın. Gümüşkanat Nöbetçileri'ne karşı öfkelenmeye devam et! Bana daha fazla onur nişanı getir!",
+    ["Objectives"]="Son görevin için bir Savaşşarkısı Onur Nişanı elde ettin, benimle tekrar konuş ve ödülünü kazan.",
+    ["Progress"]="",
+    ["Completion"]="Gece elfleri ve müttefikleri isminin fısıltısından bile titremeli! Horde için!",
+    ["minlevel"]="30",
+    ["questlevel"]="35",
+    }, -- end Mark of Honor
+
+    -- Mark of Honor
+    ["7922"] = {
+    ["Title"]="Onur Nişanı",
+    ["Description"]="",
+    ["Objectives"]="Son görevin için bir Savaşşarkısı Onur Nişanı elde ettin, benimle tekrar konuş ve ödülünü kazan.",
+    ["Progress"]="",
+    ["Completion"]="Gece elfleri ve müttefikleri isminin fısıltısından bile titremeli! Horde için!",
+    ["minlevel"]="50",
+    ["questlevel"]="55",
+    }, -- end Mark of Honor
+
+    -- Mark of Honor
+    -- Warsong Gulch -> Savaşşarkısı Kanyonu (ZoneData.lua)
+    -- Silverwing Sentinels -> Gümüşkanat Nöbetçileri
+    ["7923"] = {
+    ["Title"]="Onur Nişanı",
+    ["Description"]="Savaşşarkısı Kanyonu'ndaki çabalarımıza olan değerini kanıtladın. Gümüşkanat Nöbetçileri'ne karşı öfkelenmeye devam et! Bana daha fazla onur nişanı getir!",
+    ["Objectives"]="Son görevin için bir Savaşşarkısı Onur Nişanı elde ettin, benimle tekrar konuş ve ödülünü kazan.",
+    ["Progress"]="",
+    ["Completion"]="Gece elfleri ve müttefikleri isminin fısıltısından bile titremeli! Horde için!",
+    ["minlevel"]="40",
+    ["questlevel"]="45",
+    }, -- end Mark of Honor
+
+    -- Talismans of Merit
+    -- Warsong Gulch -> Savaşşarkısı Kanyonu (ZoneData.lua)
+    ["7921"] = {
+    ["Title"]="Liyakat Tılsımları",
+    ["Description"]="",
+    ["Objectives"]="Son görevin için bir Gümüşkanat Liyakat Tılsımı elde ettin, benimle tekrar konuş ve ödülünü kazan.",
+    ["Progress"]="",
+    ["Completion"]="Teşekkür ederim, YOUR_NAME. Savaşşarkısı Kanyonu'ndaki başarıların Ashenvale Ormanı boyunca yankılanıyor.",
+    ["minlevel"]="20",
+    ["questlevel"]="25",
+    }, -- end Talismans of Merit
+
+    -- The Treasure of the Shen'dralar
+    -- Athenaeum -> Athenaeum
+    ["7877"] = {
+    ["Title"]="Shen'dralar Hazinesi",
+    ["Description"]="Kütüphanede, Athenaeum'da, merdivenlerin altında gizlenmiş kadim bir sandık bulacaksın. Arzulamış olduğun şeyi oradan al.",
+    ["Objectives"]="Athenaeum'a dön ve Shen'dralar Hazinesi'ni bul. Ödülünü talep et!",
+    ["Progress"]="",
+    ["Completion"]="Bulmak için sandığı açıyorsun...",
+    ["minlevel"]="57",
+    ["questlevel"]="60",
+    }, -- end The Treasure of the Shen'dralar
+
+    -- Carnival Boots
+    -- Darkmoon Faire -> Karanlık Ay Panayırı
+    ["7881"] = {
+    ["Title"]="Panayır Çizmeleri",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Karanlık Ay Panayırı'nda çok yürüyoruz. Bir panayır alanından diğerine yürüyoruz... aslında, iş başında otururken bizi asla göremezsin! Bu yüzden çok fazla çizme eskitmemiz şaşırtıcı değil! Hem dayanıklı hem de şık çizmelere ihtiyacımız var ve kabartmalı deri çizmeler bu işi oldukça iyi görüyor.\n\nSen! Sen bir dericisin; bana kabartmalı deri çizmeler yap, ben de sana çalışma için bir Karanlık Ay Panayırı bileti vereyim.",
+    ["Completion"]="Teşekkür ederim, YOUR_NAME. Bunlar oldukça iyi yapılmış. İşçilik üst düzey! İşte bir Karanlık Ay Panayırı bileti... tadını çıkar, efendim.",
+    ["minlevel"]="1",
+    ["questlevel"]="60",
+    }, -- end Carnival Boots
+
+    -- Carnival Jerkins
+    -- Darkmoon Faire -> Karanlık Ay Panayırı
+    ["7882"] = {
+    ["Title"]="Panayır Ceketleri",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Panayır çalışanlarımız sadece çöp süpürmekten ve kazık çakmaktan daha fazlasını yapıyor! Ayrıca seyahat ederken panayırı korumaya yardımcı oluyorlar ve bu amaçla her zaman sağlam deri zırh ceketlerine ihtiyaç duyuyorlar.\n\nEğer sert deri zırh yapıp bana getirirsen, doğru kişilere ulaştığından emin olacağım. Ayrıca ticaret olarak sana birkaç Karanlık Ay Panayırı bileti vereceğim.",
+    ["Completion"]="Ah, ceketleri getirdin. Harika. Bunları yapmak için hangi hayvanın derisini kullandın, sorabilir miyim? Dikiş işi çok iyi yapılmış ve derinin dokusunun sağlam bir tarzı var. Yetenekli bir zanaatkar olduğunu söyleyebilirim!\n\nTeşekkür ederim, YOUR_NAME, ve işte biletlerin.",
+    ["minlevel"]="10",
+    ["questlevel"]="60",
+    }, -- end Carnival Jerkins
+
+    -- The World's Largest Gnome!
+    -- Darkmoon Faire -> Karanlık Ay Panayırı
+    ["7883"] = {
+    ["Title"]="Dünyanın En Büyük Gnomu!",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Yebb Nebblegear şovuna daha fazla yetenek eklemek istiyor ve dünyanın en büyük gnomunu arıyor. Dikkate değer büyüklükte herhangi bir gnom tanıyor musun?\n\nEh, gnomu bulmadan önce kostümünün hazır olmasını istiyor. Kostüm için barbarca bir koşumun iyi bir temel olacağını düşünüyorum; bana biraz koşum yapıp getirebilir misin? Bunu yap, sana bir yığın Karanlık Ay Panayırı bileti vereyim...",
+    ["Completion"]="Oh canım, bunlar oldukça büyük!! Bir gnomun içine rahatça sığabileceğini hayal edemiyorum, ama endişelenme - eğer bulduğumuz gnom yeterince büyük değilse, kostümünde ayarlamalar yapabilirim.\n\nÇok teşekkürler, YOUR_NAME. İşte sana söz verdiğim biletler.",
+    ["minlevel"]="20",
+    ["questlevel"]="60",
+    }, -- end The World's Largest Gnome!
+
+    -- Crocolisk Boy and the Bearded Murloc
+    -- Darkmoon Faire -> Karanlık Ay Panayırı
+    ["7884"] = {
+    ["Title"]="Timsah Çocuk ve Sakallı Murloc",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Yebb, timsahlar tarafından büyütülen bir çocuk ve belki de bir murloc için ıslak, bataklık meskenler dahil olmak üzere hayvanat bahçesi için başka atraksiyonlar üzerinde çalışıyor. Kurulum ve söküm sırasında su altında kalmamak için güzel, su sızdırmaz pantolonlara ihtiyacımız olacak. O iş için kaplumbağa pullu pantolonun işe yarayacağını düşünüyorum.\n\nYOUR_NAME, o pantolonu yapabilir misin? Eğer yaparsan, ödülün bir yığın Karanlık Ay Panayırı bileti olacak...",
+    ["Completion"]="Harika, yaptın! Bunlar gayet iyi olacak... Sadece zamanı geldiğinde timsah kafesini temizleyen kişinin ben olmayacağımı umuyorum. O canavarlar oldukça canavarca olabilir, sence de öyle değil mi?\n\nİşte biletlerin, YOUR_NAME. Tadını çıkar ve Karanlık Ay Panayırı'ndaki konaklamanın keyfini çıkar!",
+    ["minlevel"]="30",
+    ["questlevel"]="60",
+    }, -- end Crocolisk Boy and the Bearded Murloc
+
+    -- Armor Kits
+    -- Darkmoon Faire -> Karanlık Ay Panayırı
+    ["7885"] = {
+    ["Title"]="Zırh Kitleri",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Bunu fark etmeyebilirsin ama seyahat eden bir panayır yürütmek maliyetli! Her şey o kadar hızlı eskiyor ki kar elde edebildiğimize şaşıyorum.\n\nBütün o gizli maliyetler yüzünden ekipmanımızı olabildiğince ucuza korumanın yollarını arıyoruz. Çadırlarımız, örneğin, düzenli olarak yırtılıyor ama deri zırh kitlerinin harika yamalar olduğunu buldum. Bazı zırh kitleri bulup bana getirebilir misin? Bu bize bir sürü tasarruf ettirecek! Bunu yap, sana bir avuç Karanlık Ay Panayırı bileti vereyim...",
+    ["Completion"]="Harika! Bu harika çalışacak! Şurada bir çadırda yırtık fark ettim ve bu zırh kitlerinden biri onu yamamak için tam ihtiyacım olan şey!\n\nÇok teşekkür ederim, YOUR_NAME. Bu zırh kitleri bize onarım maliyetlerinde bir ton tasarruf ettirecek. İşte biletlerin - onları hak ettin!",
+    ["minlevel"]="40",
+    ["questlevel"]="60",
+    }, -- end Armor Kits
+
+    -- Coarse Weightstone
+    -- Darkmoon Faire -> Karanlık Ay Panayırı
+    ["7889"] = {
+    ["Title"]="Kaba Ağırlık Taşı",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Dünyanın en güçlü kadını olmak çok çalışma gerektirir! Ağırlık setim çok hafifliyor ve formda kalacaksam daha fazla ağırlığa ihtiyacım olacak!\n\nBana biraz ağırlık taşı getirebilir misin? Eğer getirirsen sana bir Karanlık Ay Panayırı bileti vereceğim.",
+    ["Completion"]="Harika! Bunlar harika çalışacak! Çok ağır değiller ama çok da hafif değiller. Kas kütlesi oluşturmak için mükemmeller!\n\nÇok teşekkürler, YOUR_NAME. İşte Karanlık Ay Panayırı biletin!",
+    ["minlevel"]="1",
+    ["questlevel"]="60",
+    }, -- end Coarse Weightstone
+
+    -- Heavy Grinding Stone
+    -- Darkmoon Faire -> Karanlık Ay Panayırı
+    ["7890"] = {
+    ["Title"]="Ağır Bileme Taşı",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Egzersizime yardımcı olması için ağır bileme taşları arasına bir asa yerleştirmeyi ve sonra asayı başımın üzerine kaldırmayı seviyorum. Kolay değil, ama benim gibi dünyanın en güçlü kadını olmak oturarak kazanılmaz!\n\nBana yardım edebilir misin? Daha fazla bileme taşına ihtiyacım var - bana getir, karşılığında Karanlık Ay Panayırı biletleri vereyim.",
+    ["Completion"]="Taşları getirdin! Ve onlar ağır! Kaslarımın büyüdüğünü şimdiden hissedebiliyorum. Teşekkürler YOUR_NAME!\n\nİşte, bu biletleri al ve panayırdayken çok fazla tatlı yemediğinden emin ol. Senin gibi iri güçlü bir YOUR_CLASS'ın dövüş formunu koruması gerekiyor!",
+    ["minlevel"]="10",
+    ["questlevel"]="60",
+    }, -- end Heavy Grinding Stone
+
+    -- Green Iron Bracers
+    -- Darkmoon Faire -> Karanlık Ay Panayırı
+    ["7891"] = {
+    ["Title"]="Yeşil Demir Bileklikler",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Dünyanın en güçlü kadını olarak kendi standım olduğunda giymek için yeni bir kostüm üzerinde çalışıyorum! Şu anda giyebileceğim bazı bileklikler arıyorum. Çok fazla örtemezler çünkü insanlar kaslarımı görmek istiyor, ama yine de biraz renk katmak istiyorum, bilirsin ya?\n\nYeşil demir bilekliklere ne dersin, YOUR_NAME? Bana yeşil demir bileklik yapabilir misin? Eğer yapabilirsen, sana bir sürü Karanlık Ay Panayırı bileti vereceğim.",
+    ["Completion"]="Çok teşekkürler, YOUR_NAME. İşte Karanlık Ay Panayırı biletlerin!",
+    ["minlevel"]="20",
+    ["questlevel"]="60",
+    }, -- end Green Iron Bracers
+
+    -- Big Black Mace
+    -- Darkmoon Faire -> Karanlık Ay Panayırı
+    ["7892"] = {
+    ["Title"]="Büyük Siyah Topuz",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Dünyanın en güçlü kadını olarak yapacağım gösterim için seyircilerden eşyalar almayı ve onları büyük, siyah bir topuzla parçalamayı planlıyorum!\n\nBana büyük siyah bir topuz yapabilir misin, YOUR_NAME?",
+    ["Completion"]="Çok teşekkürler, YOUR_NAME. İşte Karanlık Ay Panayırı biletlerin!",
+    ["minlevel"]="30",
+    ["questlevel"]="60",
+    }, -- end Big Black Mace
+
+    -- Rituals of Strength
+    -- Darkmoon Faire -> Karanlık Ay Panayırı
+    ["7893"] = {
+    ["Title"]="Güç Ritüelleri",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="YOUR_NAME, dünyanın en güçlü kadını olma arayışımda dünyayı dolaştım ve uzak ağırlık ustalarından, güç gurularından ve kadim el kitaplarından kas geliştirme sırlarını öğrendim. Şimdi zayıfları öldürecek ve eğitimsizleri sakatlayacak yasak egzersizleri biliyorum!\n\nBu güç ve kondisyon gösterileri en yoğun bileme taşlarıyla eğitim gerektirir. YOUR_NAME, biraz bileme taşı bulup veya yapıp bana getirebilir misin? Eğer yaparsan sana bilet vereceğim...",
+    ["Completion"]="Çok teşekkürler, YOUR_NAME. İşte Karanlık Ay Panayırı biletlerin!",
+    ["minlevel"]="40",
+    ["questlevel"]="60",
+    }, -- end Rituals of Strength
+
+    -- Copper Modulator
+    -- Darkmoon Faire -> Karanlık Ay Panayırı
+    ["7894"] = {
+    ["Title"]="Bakır Modülatör",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Yebb, Zoo Bizarre için insanları merak ve keyifle çıldırtacak yeni bir atraksiyon geliştiriyor! Ama bu çok çalışma ve çok malzeme gerektirecek...\n\nBuna bakır modülatörler de dahil. Atraksiyonun mekanik parçaları için çok sayıda modülatöre ihtiyacımız var. Bana bakır modülatör getir, onları bir Karanlık Ay Panayırı biletiyle takas edeyim.",
+    ["Completion"]="Aha! Modülatörler! Mükemmel!\n\nTam olarak ne inşa ettiğimizi söyleyemem ama bunlar yapımı için paha biçilmez olacak. Borçluyum, Grimling, ama lütfen, minnettarlığımın bir nişanı olarak bu Karanlık Ay Panayırı biletini kabul et.",
+    ["minlevel"]="1",
+    ["questlevel"]="60",
+    }, -- end Copper Modulator
+
+    -- Whirring Bronze Gizmo
+    -- Darkmoon Faire -> Karanlık Ay Panayırı
+    ["7895"] = {
+    ["Title"]="Vızıldayan Bronz Alet",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Yeni standım görülmeye değer bir manzara olacak, evet efendim! Görülmeye değer bir manzara ve... şanslı birkaç kişi için dokunulacak!\n\nPatronlar standıma gelip yeteneklerini test ederken, vızıldayan bronz aletlerin mekanik rapture şarkılarını söylemesini şimdiden duyabiliyorum!\n\nAh... şimdi hayalimi gerçeğe yaklaştırmak için aletlerin kendisine ihtiyacım var. Lütfen, YOUR_NAME, bana vızıldayan bronz aletler getir... ve Karanlık Ay Panayırı biletleri senin olsun!",
+    ["Completion"]="Aletleri getirdin! Harika! Zihninde vızıldayan, uğuldayan korolarını şimdiden duyabiliyorum! Oh, bu stand hazır olduğunda dünyanın harikası olacak, beni unutma!\n\nİşte biletlerin, YOUR_NAME. Ve lütfen Panayır'daki konaklamanın tadını çıkar!",
+    ["minlevel"]="10",
+    ["questlevel"]="60",
+    }, -- end Whirring Bronze Gizmo
+
+    -- Green Fireworks
+    -- Darkmoon Faire -> Karanlık Ay Panayırı
+    ["7896"] = {
+    ["Title"]="Yeşil Havai Fişekler",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Bu standı nihayet kurduğumda, reklamını yapmak isteyeceğim! Ve reklam yapmanın havai fişeklerden daha iyi bir yolu var mı?\n\nEh, bazıları düşmanlarının kaynayan kafalarının fokurdadığı bir kazanın kokusunun kalabalığı çekmek için daha iyi olduğunu düşünebilir, ama... karışık bir gruptayız. Bu yüzden havai fişek olması gerekecek!\n\nBana yeşil havai fişekler getir, YOUR_NAME, ve sana kocaman bir avuç Karanlık Ay Panayırı bileti vereceğim.",
+    ["Completion"]="Havai fişekleri getirdin. Harika iş, YOUR_NAME! Bunları yakmayı ve standımın hazır olduğunu dünyaya duyurmayı sabırsızlıkla bekliyorum! Hala beklemem gerekiyor, korkarım ki oldukça uzun bir süre, ama... hazır olduğumda hazır olacağım, değil mi?\n\nİşte biletlerin, YOUR_NAME. İyi eğlenceler!",
+    ["minlevel"]="20",
+    ["questlevel"]="60",
+    }, -- end Green Fireworks
+
+    -- Mechanical Repair Kits
+    -- Darkmoon Faire -> Karanlık Ay Panayırı
+    ["7897"] = {
+    ["Title"]="Mekanik Onarım Kitleri",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Standımı açamamamın en büyük nedeni... her şeyin bozuk olması! Tüm bunları düzeltmek için mekanik onarım kitlerine ihtiyacım var!\n\nBana o kitleri getirebilir misin, YOUR_NAME? Sana... kitleri Karanlık Ay Panayırı biletleriyle takas edeceğim. Ne dersin?",
+    ["Completion"]="Teşekkür ederim! Artık işleri düzeltmeye başlayabilirim.\n\nHer şeyi çalışır duruma getirmek için çok sayıda onarım kiti ve birçok geç gece çalışması gerekecek. Bazen köklerime dönüp kelle avcısı olarak kariyerime yeniden başlamanın daha iyi olacağını düşünüyorum, ama... Panayır bana iyi davrandı.\n\nBu biletleri al, YOUR_NAME ve eğlen!",
+    ["minlevel"]="30",
+    ["questlevel"]="60",
+    }, -- end Mechanical Repair Kits
+
+    -- Thorium Widget
+    -- Darkmoon Faire -> Karanlık Ay Panayırı
+    ["7898"] = {
+    ["Title"]="Torium Alet",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Yebb Nebblegear, benim gibi, gelecekteki bir atraksiyon üzerinde çalışıyor. Nebb'in dediğine göre bu atraksiyon o kadar şaşırtıcı ki, dünyanın dört bir yanından insanları çekecek... ve bizi çok ama çok zengin edecek!\n\nİnşası için torium aletlere ihtiyacı olduğunu söylüyor ve onları toplamamı istiyor. Peki ne dersin, YOUR_NAME? Torium aletleri nereden alacağını biliyor musun? Eğer mühendissen, onları yapabilir misin? Onları Karanlık Ay Panayırı biletleriyle takas etmek ister misin?",
+    ["Completion"]="Ah, teşekkür ederim, YOUR_NAME! Yebb bu aletlerin keyfini çıkaracak. Onlarla ne planladığını bilmiyorum ama Yebb zeki bir küçük gnom. Zeki ve belki biraz da düzenbaz...\n\nKeşke insan eti tadından hoşlansaydı... harika bir troll olurdu!\n\nİşte, YOUR_NAME. Anlaşma anlaşmadır ve bu biletler senindir.",
+    ["minlevel"]="40",
+    ["questlevel"]="60",
+    }, -- end Thorium Widget
+
+    -- Small Furry Paws
+    -- Darkmoon Faire -> Karanlık Ay Panayırı
+    ["7899"] = {
+    ["Title"]="Küçük Tüylü Patiler",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Kalabalığı çekmenin ilk dersi şudur: onları aletlerle ve incik boncukla cezbet! Bana yardım edebilir misin?\n\nÖdül olarak kullanmak için küçük tüylü patilere ihtiyacım var. Onları Barrens veya Darkshore kedilerinde bulabilirsin....\n\nBana biraz pati getir, sana karşılığında bir Karanlık Ay Panayırı bileti vereyim.",
+    ["Completion"]="Harika, onları aldın! Bunları oyuncaklar ve süs eşyaları yapmak için kullanabiliriz ve bunlar Panayır'a daha fazla insan çekecek!\n\nİşte biletin, YOUR_NAME. Bunu hak ettin!",
+    ["minlevel"]="1",
+    ["questlevel"]="60",
+    }, -- end Small Furry Paws
+
+    -- Torn Bear Pelts
+    -- Darkmoon Faire -> Karanlık Ay Panayırı
+    ["7900"] = {
+    ["Title"]="Yırtık Ayı Postları",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Çocuklar oyuncaklara bayılır! Ve hangi ırktan olursa olsun, tüm çocukların yırtık ayı postlarından yapılmış tüylü, peluş oyuncakları sevdiğini keşfettim!\n\nO postları Ashenvale veya Hillsbrad ayılarından alabilirsin. Bana bir yığın getir ve kendine bir yığın Karanlık Ay Panayırı bileti kazan!",
+    ["Completion"]="Güzel postlar, YOUR_NAME! Bunları bir sürü peluş oyuncak haline getirmesi için birine vereceğim. Biraz dolgu ve biraz boya ile bence Azeroth'taki tüm çocukların kıskançlığı olacaklar!\n\nBiletler mi? Ah evet, ödemen!\n\nİşte buradalar!",
+    ["minlevel"]="10",
+    ["questlevel"]="60",
+    }, -- end Torn Bear Pelts
+
+    -- Soft Bushy Tails
+    -- Darkmoon Faire -> Karanlık Ay Panayırı
+    ["7901"] = {
+    ["Title"]="Yumuşak Gür Kuyruklar",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="İnsanların değer verdiği şeyler inanılmaz! Mesela, ucuna yumuşak gür bir kuyruk takılmış tahta bir sopa. Şimdi, sen ve ben böyle bir şeyin o kadar da değerli olmadığını düşünebiliriz... ama eğer o hurda parçasına \"Vahşi Tüy Kuyruk\" gibi havalı bir isim verirsen ve güzel bir kutuya koyarsan, insanlar değerli olduğunu düşünecek. Çöp hazineye dönüşür!\n\nDesolace ve Badlands kurtlarından bana yumuşak gür kuyruklar getir, ben de sana Karanlık Ay Panayırı biletleri vereyim.",
+    ["Completion"]=[["İyi iş çıkardın, YOUR_NAME! Bu kuyruklar ziyaretçilerimiz için harika ödüller olacak ve bu da mutlu ziyaretçiler anlamına gelir... arkadaşlarıyla konuşan ve daha fazla ziyaretçi getiren!",\n\nİşte biletlerin! Karanlık Ay Panayırı'nda iyi vakit geçir... ve arkadaşlarına bizden bahsetmeyi unutma!"]],
+    ["minlevel"]="20",
+    ["questlevel"]="60",
+    }, -- end Soft Bushy Tails
+
+    -- Vibrant Plumes
+    -- Darkmoon Faire -> Karanlık Ay Panayırı
+    ["7902"] = {
+    ["Title"]="Canlı Tüyler",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Bir insanın hayal gücü inanılmaz bir şeydir. En küçük tepeyi en büyük dağ gibi gösterebilir. En masum gölgeyi korkunç bir kabusun yansıması gibi gösterebilir!\n\nBiz Karanlık Ay Panayırı'nda ziyaretçilerimizin hayal güçlerinin çiçek açmasına izin veriyoruz! Ama hayal güçlerini genişletmeye yardımcı olmak için... bazen kurnaz olmamız gerekiyor.\n\nAtraksiyonlarımdan biri için canlı tüylere ihtiyacım var. Onları Azeroth'un daha tehlikeli bölgelerindeki kuşlardan alabilirsin. Bana tüyleri getir, birçok bilet senin olsun!",
+    ["Completion"]="Ah, tüyler! Harikalar, sence de öyle değil mi? Böyle güzelliklerle birinin hayal gücünü harekete geçirmek kolay olurdu!\n\nÇok hayırsever bir çalışma yapıyorsun, YOUR_NAME. Ziyaretçilerimizin gösteriyi gördüklerinde yüzlerindeki gülümsemeler harika bir ödemedir ama lütfen bu biletleri de kabul et.",
+    ["minlevel"]="30",
+    ["questlevel"]="60",
+    }, -- end Vibrant Plumes
+
+    -- Evil Bat Eyes
+    -- Darkmoon Faire -> Karanlık Ay Panayırı
+    ["7903"] = {
+    ["Title"]="Kötü Yarasa Gözleri",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Hiç kendini geç saatlerde macera ararken bir mağarada dolaşırken buldun mu? Buldun mu? Gerçekten mi? Eh, o zaman tepeden sana bakan, kanını emmek için gardını düşürmeni bekleyen yarasaların ürkütücü gözlerini görmüşsündür!\n\nKorkutucu bir düşünce, sence de öyle değil mi? Elbette! Yarasa gözlerinin korkutucu olduğuna şüphe yok!\n\nBana biraz kötü yarasa gözü getirebilir misin, YOUR_NAME? Onları... tasarladığım bir şey için istiyorum. Korkutucu bir şey.\n\nOnları Eastern Plaguelands'teki yarasalardan alabilirsin.",
+    ["Completion"]="Harika! Gözleri aldın! Umarım o yarasaları avlamak senin için korkutucuydu, çünkü eğer senin gibi cesur bir YOUR_CLASS'ı korkuttuysa, o gözler Panayır ziyaretçilerimizi kesinlikle korkutacak.\n\nBu biletleri al, YOUR_NAME ve hizmetin için teşekkürler.",
+    ["minlevel"]="40",
+    ["questlevel"]="60",
+    }, -- end Evil Bat Eyes
+
+    -- Darkmoon Beast Deck
+    -- Darkmoon Faire -> Karanlık Ay Panayırı
+    -- Ahn'Qiraj -> Ahn'Qiraj (ZoneData.lua)
+    ["7907"] = {
+    ["Title"]="Karanlık Ay Canavar Destesi",
+    ["Description"]="Artık tüm Canavar kartlarını bir destede topladığına göre, dokuzuncu bir kart gizemli bir şekilde ilk sekiziyle aynı arka yüzle belirir. Bu karta \"Bu kartları Karanlık Ay Panayırı'na geri getir ve ödüllendiril\" yazısı kazınmıştır. Bu panayırın birkaç ayda bir Mulgore ve Goldshire'da durduğunu duydun, bu yüzden bir sonrakine gelene kadar beklemen gerekecek.",
+    ["Objectives"]="Canavar Destesi'ni şehre geldiğinde Karanlık Ay Panayırı'na geri götür.",
+    ["Progress"]="Oh canım.",
+    ["Completion"]="Eh, bu çok şeyi açıklıyor. Eğer Ahn'Qiraj'a giden bir yol bulursan, yaşlı Brann'e göz kulak ol. Korkarım maymunu olmadan güçsüz kalacak.",
+    ["minlevel"]="1",
+    ["questlevel"]="55",
+    }, -- end Darkmoon Beast Deck
+
+    -- Darkmoon Portals Deck
+    -- Darkmoon Faire -> Karanlık Ay Panayırı
+    ["7927"] = {
+    ["Title"]="Karanlık Ay Geçit Destesi",
+    ["Description"]="Artık tüm Geçit kartlarını bir destede topladığına göre, dokuzuncu bir kart gizemli bir şekilde ilk sekiziyle aynı arka yüzle belirir. Bu karta \"Bu kartları Karanlık Ay Panayırı'na geri getir ve ödüllendiril\" yazısı kazınmıştır. Bu panayırın birkaç ayda bir Mulgore ve Goldshire'da durduğunu duydun, bu yüzden bir sonrakine gelene kadar beklemen gerekecek.",
+    ["Objectives"]="Geçit Destesi'ni şehre geldiğinde Karanlık Ay Panayırı'na geri götür.",
+    ["Progress"]="Bir geçit destesini tamamlamayı başardığını görüyorum! Tebrikler!",
+    ["Completion"]="Yani bir Geçit destesi topladın. Onu bize geri getirme jestin, sen ve Karanlık Ay arasında unutulmayacak bir bağ oluşturacak. Takdirimizin küçük bir nişanı olarak sana daha büyük Karanlık Ay kartlarından birini sunmama izin ver.",
+    ["minlevel"]="1",
+    ["questlevel"]="55",
+    }, -- end Darkmoon Portals Deck
+
+    -- Darkmoon Warlords Deck
+    -- Darkmoon Faire -> Karanlık Ay Panayırı
+    ["7928"] = {
+    ["Title"]="Karanlık Ay Savaşlordları Destesi",
+    ["Description"]="Artık tüm Savaşlordu kartlarını bir destede topladığına göre, dokuzuncu bir kart gizemli bir şekilde ilk sekiziyle aynı arka yüzle belirir. Bu karta \"Bu kartları Karanlık Ay Panayırı'na geri getir ve ödüllendiril\" yazısı kazınmıştır. Bu panayırın birkaç ayda bir Mulgore ve Goldshire'da durduğunu duydun, bu yüzden bir sonrakine gelene kadar beklemen gerekecek.",
+    ["Objectives"]="Savaşlordları Destesi'ni şehre geldiğinde Karanlık Ay Panayırı'na geri götür.",
+    ["Progress"]="Bir savaşlordları destesini tamamlamayı başardığını görüyorum! Tebrikler!",
+    ["Completion"]="Yani bir Savaşlordları destesi topladın. Onu bize geri getirme jestin, sen ve Karanlık Ay arasında unutulmayacak bir bağ oluşturacak. Takdirimizin küçük bir nişanı olarak sana daha büyük Karanlık Ay kartlarından birini sunmama izin ver.",
+    ["minlevel"]="1",
+    ["questlevel"]="55",
+    }, -- end Darkmoon Warlords Deck
+
+    -- Darkmoon Elementals Deck
+    -- Darkmoon Faire -> Karanlık Ay Panayırı
+    ["7929"] = {
+    ["Title"]="Karanlık Ay Elementaller Destesi",
+    ["Description"]="Artık tüm Element kartlarını bir destede topladığına göre, dokuzuncu bir kart gizemli bir şekilde ilk sekiziyle aynı arka yüzle belirir. Bu karta \"Bu kartları Karanlık Ay Panayırı'na geri getir ve ödüllendiril\" yazısı kazınmıştır. Bu panayırın birkaç ayda bir Mulgore ve Goldshire'da durduğunu duydun, bu yüzden bir sonrakine gelene kadar beklemen gerekecek.",
+    ["Objectives"]="Elementaller Destesi'ni şehre geldiğinde Karanlık Ay Panayırı'na geri götür.",
+    ["Progress"]="Bir elementaller destesini tamamlamayı başardığını görüyorum! Tebrikler!",
+    ["Completion"]="Yani bir Elementaller destesi topladın. Onu bize geri getirme jestin, sen ve Karanlık Ay arasında unutulmayacak bir bağ oluşturacak. Takdirimizin küçük bir nişanı olarak sana daha büyük Karanlık Ay kartlarından birini sunmama izin ver.",
+    ["minlevel"]="1",
+    ["questlevel"]="55",
+    }, -- end Darkmoon Elementals Deck
+
+    -- 5 Tickets - Darkmoon Flower
+    -- Darkmoon Faire -> Karanlık Ay Panayırı
+    ["7930"] = {
+    ["Title"]="5 Bilet - Karanlık Ay Çiçeği",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Hadi bakalım, hadi bakalım! Eğer elinde Karanlık Ay Panayırı'ndan bozdurmak istediğin biletler varsa, söylemen yeterli! Biletleri çeşitli mezheplerde harika ve fantastik ödüller için bozdurabilirsin. Utanma, bir dene!",
+    ["Completion"]="İşte burada, işte burada! Bir krala layık bir ödül! Tebrikler arkadaşım!\n\nEğer bozdurmak istediğin daha fazla biletin varsa lütfen bana bildir! Karanlık Ay Panayırı burada olduğu sürece biletlerini bozduracağım.",
+    ["minlevel"]="6",
+    ["questlevel"]="60",
+    }, -- end 5 Tickets - Darkmoon Flower
+
+    -- 5 Tickets - Minor Darkmoon Prize
+    -- Darkmoon Faire -> Karanlık Ay Panayırı
+    ["7931"] = {
+    ["Title"]="5 Bilet - Küçük Karanlık Ay Ödülü",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Hadi bakalım, hadi bakalım! Eğer elinde Karanlık Ay Panayırı'ndan bozdurmak istediğin biletler varsa, söylemen yeterli! Biletleri çeşitli mezheplerde harika ve fantastik ödüller için bozdurabilirsin. Utanma, bir dene!",
+    ["Completion"]="İşte burada, işte burada! Bir krala layık bir ödül! Tebrikler arkadaşım!\n\nEğer bozdurmak istediğin daha fazla biletin varsa lütfen bana bildir! Karanlık Ay Panayırı burada olduğu sürece biletlerini bozduracağım.",
+    ["minlevel"]="15",
+    ["questlevel"]="60",
+    }, -- end 5 Tickets - Minor Darkmoon Prize
+
+    -- 12 Tickets - Lesser Darkmoon Prize
+    -- Darkmoon Faire -> Karanlık Ay Panayırı
+    ["7932"] = {
+    ["Title"]="12 Bilet - Daha Küçük Karanlık Ay Ödülü",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Hadi bakalım, hadi bakalım! Eğer elinde Karanlık Ay Panayırı'ndan bozdurmak istediğin biletler varsa, söylemen yeterli! Biletleri çeşitli mezheplerde harika ve fantastik ödüller için bozdurabilirsin. Utanma, bir dene!",
+    ["Completion"]="İşte burada, işte burada! Bir krala layık bir ödül! Tebrikler arkadaşım!\n\nEğer bozdurmak istediğin daha fazla biletin varsa lütfen bana bildir! Karanlık Ay Panayırı burada olduğu sürece biletlerini bozduracağım.",
+    ["minlevel"]="30",
+    ["questlevel"]="60",
+    }, -- end 12 Tickets - Lesser Darkmoon Prize
+
+    -- 40 Tickets - Greater Darkmoon Prize
+    -- Darkmoon Faire -> Karanlık Ay Panayırı
+    ["7933"] = {
+    ["Title"]="40 Bilet - Büyük Karanlık Ay Ödülü",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Hadi bakalım, hadi bakalım! Eğer elinde Karanlık Ay Panayırı'ndan bozdurmak istediğin biletler varsa, söylemen yeterli! Biletleri çeşitli mezheplerde harika ve fantastik ödüller için bozdurabilirsin. Utanma, bir dene!",
+    ["Completion"]="İşte burada, işte burada! Bir krala layık bir ödül! Tebrikler arkadaşım!\n\nEğer bozdurmak istediğin daha fazla biletin varsa lütfen bana bildir! Karanlık Ay Panayırı burada olduğu sürece biletlerini bozduracağım.",
+    ["minlevel"]="45",
+    ["questlevel"]="60",
+    }, -- end 40 Tickets - Greater Darkmoon Prize
+
+    -- 50 Tickets - Darkmoon Storage Box
+    -- Darkmoon Faire -> Karanlık Ay Panayırı
+    ["7934"] = {
+    ["Title"]="50 Bilet - Karanlık Ay Depolama Kutusu",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Hadi bakalım, hadi bakalım! Eğer elinde Karanlık Ay Panayırı'ndan bozdurmak istediğin biletler varsa, söylemen yeterli! Biletleri çeşitli mezheplerde harika ve fantastik ödüller için bozdurabilirsin. Utanma, bir dene!",
+    ["Completion"]="İşte burada, işte burada! Bir krala layık bir ödül! Tebrikler arkadaşım!\n\nEğer bozdurmak istediğin daha fazla biletin varsa lütfen bana bildir! Karanlık Ay Panayırı burada olduğu sürece biletlerini bozduracağım.",
+    ["minlevel"]="6",
+    ["questlevel"]="60",
+    }, -- end 50 Tickets - Darkmoon Storage Box
+
+    -- 10 Tickets - Last Month's Mutton
+    -- Darkmoon Faire -> Karanlık Ay Panayırı
+    ["7935"] = {
+    ["Title"]="10 Bilet - Geçen Ayın Koyun Eti",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Hadi bakalım, hadi bakalım! Eğer elinde Karanlık Ay Panayırı'ndan bozdurmak istediğin biletler varsa, söylemen yeterli! Biletleri çeşitli mezheplerde harika ve fantastik ödüller için bozdurabilirsin. Utanma, bir dene!",
+    ["Completion"]="İşte burada, işte burada! Bir krala layık bir ödül! Tebrikler arkadaşım!\n\nEğer bozdurmak istediğin daha fazla biletin varsa lütfen bana bildir! Karanlık Ay Panayırı burada olduğu sürece biletlerini bozduracağım.",
+    ["minlevel"]="25",
+    ["questlevel"]="60",
+    }, -- end 10 Tickets - Last Month's Mutton
+
+    -- 50 Tickets - Last Year's Mutton
+    -- Darkmoon Faire -> Karanlık Ay Panayırı
+    ["7936"] = {
+    ["Title"]="50 Bilet - Geçen Yılın Koyun Eti",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Hadi bakalım, hadi bakalım! Eğer elinde Karanlık Ay Panayırı'ndan bozdurmak istediğin biletler varsa, söylemen yeterli! Biletleri çeşitli mezheplerde harika ve fantastik ödüller için bozdurabilirsin. Utanma, bir dene!",
+    ["Completion"]="İşte burada, işte burada! Bir krala layık bir ödül! Tebrikler arkadaşım!\n\nEğer bozdurmak istediğin daha fazla biletin varsa lütfen bana bildir! Karanlık Ay Panayırı burada olduğu sürece biletlerini bozduracağım.",
+    ["minlevel"]="45",
+    ["questlevel"]="60",
+    }, -- end 50 Tickets - Last Year's Mutton
+
+    -- Your Fortune Awaits You...
+    -- Eastvale Logging Camp -> Doğuvalesi Odunculuk Kampı (ZoneData.lua)
+    -- Elwynn Forest -> Elwynn Ormanı (ZoneData.lua)
+    ["7937"] = {
+    ["Title"]="Kaderin Seni Bekliyor...",
+    ["Description"]="\"Kaderin Doğuvalesi'nde seni bekliyor.\"\n\nSayge'in sana uzattığı kader dokunuşa hafif ılık geliyor. Onu sıkıca kavradığında, Elwynn Ormanı'ndaki Doğuvalesi Odunculuk Kampı'nın bir görüntüsünü görüyorsun. Görüntüye daha yakından odaklandığında, ahırın yanında duran bir saman yığını görüyorsun.",
+    ["Objectives"]="Elwynn Ormanı'ndaki Doğuvalesi Odunculuk Kampı'na seyahat et ve kaderini ara.",
+    ["Progress"]="Bu saman yığını vizyonundaki gibi görünüyor.",
+    ["Completion"]="Saman yığınında hızlı bir arama, içinden bir kilitli kutu çıkarıyor! Görünüşe göre kaderini bulmuşsun!",
+    ["minlevel"]="10",
+    ["questlevel"]="60",
+    }, -- end Your Fortune Awaits You...
+
+    -- Your Fortune Awaits You...
+    -- Deadmines -> Ölümadenler (ZoneData.lua)
+    -- Westfall -> Batıdüşüşü (ZoneData.lua)
+    -- Moonbrook -> Ayderesi (ZoneData.lua)
+    ["7938"] = {
+    ["Title"]="Kaderin Seni Bekliyor...",
+    ["Description"]="\"Kaderin Ölümadenler'in içinde seni bekliyor.\"\n\nSayge'in sana uzattığı kader dokunuşa hafif ılık geliyor. Onu sıkıca kavradığında, Batıdüşüşü'nün harabe mezrası Ayderesi'ndeki Ölümadenler'in bir görüntüsünü görüyorsun. Görüntüye daha yakından odaklandığında, madenlerin kalbine giden ışıldayan bir portala ulaşana kadar dolambaçlı yollarda kıvrılıyorsun... Ondan içeri adım attığında, aniden tuhaf bir sandık beliriyor.",
+    ["Objectives"]="Batıdüşüşü'ndeki Ölümadenler'e seyahat et ve kaderini ara.",
+    ["Progress"]="Bu sandık vizyonundaki gibi görünüyor...",
+    ["Completion"]="Sandıkta hızlı bir arama, içinden bir kilitli kutu çıkarıyor! Görünüşe göre kaderini bulmuşsun!",
+    ["minlevel"]="10",
+    ["questlevel"]="60",
+    }, -- end Your Fortune Awaits You...
+
+    -- More Dense Grinding Stones
+    -- Darkmoon Faire -> Karanlık Ay Panayırı
+    ["7939"] = {
+    ["Title"]="Daha Fazla Yoğun Bileme Taşı",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="YOUR_NAME, bana verdiğin tüm yardımlar için teşekkürler. Sana ne kadar teşekkür etsem azdır!\n\nİhtiyacım artık o kadar büyük olmasa da... eğer bana daha fazla yoğun bileme taşı getirirsen, hala senin için daha fazla Karanlık Ay Panayırı biletim var.",
+    ["Completion"]="Çok teşekkürler, YOUR_NAME. İşte Karanlık Ay Panayırı biletlerin!",
+    ["minlevel"]="40",
+    ["questlevel"]="60",
+    }, -- end More Dense Grinding Stones
+
+    -- 1200 Tickets - Orb of the Darkmoon
+    -- Darkmoon Faire -> Karanlık Ay Panayırı
+    ["7940"] = {
+    ["Title"]="1200 Bilet - Karanlık Ay Küresi",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Hadi bakalım, hadi bakalım! Eğer elinde Karanlık Ay Panayırı'ndan bozdurmak istediğin biletler varsa, söylemen yeterli! Biletleri çeşitli mezheplerde harika ve fantastik ödüller için bozdurabilirsin. Utanma, bir dene!",
+    ["Completion"]="İşte burada, işte burada! Bir krala layık bir ödül! Tebrikler arkadaşım!\n\nEğer bozdurmak istediğin daha fazla biletin varsa lütfen bana bildir! Karanlık Ay Panayırı burada olduğu sürece biletlerini bozduracağım.",
+    ["minlevel"]="55",
+    ["questlevel"]="60",
+    }, -- end 1200 Tickets - Orb of the Darkmoon
+
+    -- More Armor Kits
+    -- Darkmoon Faire -> Karanlık Ay Panayırı
+    ["7941"] = {
+    ["Title"]="Daha Fazla Zırh Kiti",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="YOUR_NAME, tüm yardımların için sana teşekkür etmeliyim. Sayende bol miktarda malzemem var, ama daha fazla zırh kiti getirmek istersen, onları memnuniyetle Karanlık Ay Panayırı biletleriyle takas ederim.",
+    ["Completion"]="İşte burada, YOUR_NAME. Adil bir ticaret. Tadını çıkar.",
+    ["minlevel"]="40",
+    ["questlevel"]="60",
+    }, -- end More Armor Kits
+
+    -- More Thorium Widgets
+    -- Darkmoon Faire -> Karanlık Ay Panayırı
+    ["7942"] = {
+    ["Title"]="Daha Fazla Torium Alet",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="YOUR_NAME, bize karşı çok iyiydin, hiç yorulmadan bana mallar getirdin. Sonsuz teşekkürlerimi sunarım!\n\nTorium aletlerine olan ihtiyacımız eskisi kadar büyük olmasa da, onları bana getirmeye devam edebilirsin ve onları memnuniyetle Karanlık Ay Panayırı biletleriyle takas ederim.",
+    ["Completion"]="İşte burada, YOUR_NAME. Keyfin için işte Karanlık Ay Panayırı biletleri. Dedikleri gibi, hepsini tek bir yerde harcama!",
+    ["minlevel"]="40",
+    ["questlevel"]="60",
+    }, -- end More Thorium Widgets
+
+    -- More Bat Eyes
+    -- Eastern Plaguelands -> Doğu Vebatoprakları (ZoneData.lua)
+    -- Darkmoon Faire -> Karanlık Ay Panayırı
+    ["7943"] = {
+    ["Title"]="Daha Fazla Yarasa Gözü",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="YOUR_NAME, tasarladığım atraksiyon Gnomeregan istila edildiğinden beri en korkunç etkinlik olacak! Ve bu büyük ölçüde sana ve bana getirdiğin tüm incik boncuklara borçlu. Çok ama çok teşekkürler!\n\nBaşka bir şeye ihtiyacım yok, ama... eğer bana Doğu Vebatoprakları'ndaki yarasalardan daha fazla kötü yarasa gözü getirirsen... senin için daha fazla Karanlık Ay Panayırı biletim olabilir.",
+    ["Completion"]="Tekrar teşekkürler, YOUR_NAME. İşte biletlerin!",
+    ["minlevel"]="40",
+    ["questlevel"]="60",
+    }, -- end More Bat Eyes
+
+    -- Your Fortune Awaits You...
+    -- Wailing Caverns -> İnleyen Mağaralar (ZoneData.lua)
+    -- Crossroads -> Dörtyol (ZoneData.lua)
+    -- Barrens -> Barrens (ZoneData.lua)
+    ["7944"] = {
+    ["Title"]="Kaderin Seni Bekliyor...",
+    ["Description"]="\"Kaderin İnleyen Mağaralar'ın içinde seni bekliyor.\"\n\nSayge'in sana uzattığı kader dokunuşa hafif ılık geliyor. Onu sıkıca kavradığında, Barrens'taki Dörtyol'un güneybatısındaki bir mağaranın görüntüsünü görüyorsun. Görüntüye daha yakından odaklandığında, mağaranın kalbine giden ışıldayan bir portala ulaşana kadar dolambaçlı yollarda kıvrılıyorsun... Ondan içeri adım attığında, aniden tuhaf bir sandık beliriyor.",
+    ["Objectives"]="Barrens'taki İnleyen Mağaralar'a seyahat et ve kaderini ara.",
+    ["Progress"]="Bu sandık vizyonundaki gibi görünüyor...",
+    ["Completion"]="Sandıkta hızlı bir arama, içinden bir kilitli kutu çıkarıyor! Görünüşe göre kaderini bulmuşsun!",
+    ["minlevel"]="10",
+    ["questlevel"]="60",
+    }, -- end Your Fortune Awaits You...
+
+    -- Your Fortune Awaits You...
+    -- Palemane Rock -> Solukyele Kayası (ZoneData.lua)
+    -- Mulgore -> Mulgore (ZoneData.lua)
+    ["7945"] = {
+    ["Title"]="Kaderin Seni Bekliyor...",
+    ["Description"]="\"Kaderin Solukyele Kayası'nın dışında seni bekliyor.\"\n\nSayge'in sana uzattığı kader dokunuşa hafif ılık geliyor. Onu sıkıca kavradığında, Mulgore'un Solukyele Kayası'nın bir görüntüsünü görüyorsun. Görüntüye daha yakından odaklandığında, mağara girişinin yakınında duran bir ağaç kütüğü görüyorsun.",
+    ["Objectives"]="Mulgore'daki Solukyele Kayası'na seyahat et ve kaderini ara.",
+    ["Progress"]="Bu ağaç kütüğü vizyonundaki gibi görünüyor.",
+    ["Completion"]="Ağaç kütüğünde hızlı bir arama, içinden bir kilitli kutu çıkarıyor! Görünüşe göre kaderini bulmuşsun!",
+    ["minlevel"]="10",
+    ["questlevel"]="60",
+    }, -- end Your Fortune Awaits You...
+
+    -- 1200 Tickets - Amulet of the Darkmoon
+    -- Darkmoon Faire -> Karanlık Ay Panayırı
+    ["7981"] = {
+    ["Title"]="1200 Bilet - Karanlık Ay Muskası",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Hadi bakalım, hadi bakalım! Eğer elinde Karanlık Ay Panayırı'ndan bozdurmak istediğin biletler varsa, söylemen yeterli! Biletleri çeşitli mezheplerde harika ve fantastik ödüller için bozdurabilirsin. Utanma, bir dene!",
+    ["Completion"]="İşte burada, işte burada! Bir krala layık bir ödül! Tebrikler arkadaşım!\n\nEğer bozdurmak istediğin daha fazla biletin varsa lütfen bana bildir! Karanlık Ay Panayırı burada olduğu sürece biletlerini bozduracağım.",
+    ["minlevel"]="55",
+    ["questlevel"]="60",
+    }, -- end 1200 Tickets - Amulet of the Darkmoon
+
+    -- Zombie Cleansing
+    ["8001"] = {
+    ["Title"]="Hortlak Temizliği",
+    ["Description"]="Ben Corpus ve sen zavallı bir örneksin, EVET! Tam bana göresin, bu kasaba aşırı kalabalıklaştı ve boş bir mezar bulmak zorlaşıyor. Mezarlarımı istila eden pis hortlaklardan kurtulmama yardım edebilir misin, dinlenmem için bir yer garantilemek adına 5 tanesi yeterli olmalı.",
+    ["Objectives"]="5 Sefil Hortlak öldür",
+    ["Progress"]="",
+    ["Completion"]="",
+    ["minlevel"]="1",
+    ["questlevel"]="3",
+    }, -- end Zombie Cleansing
     
 
     --123456789
@@ -63413,343 +65768,9 @@ QuestTranslator_QuestData = {
 
 	
 
-	["8400"] = {    ["Title"]="Fight for Warsong Gulch",    ["Description"]="The Silverwing Sentinels are at war with the Warsong Outriders due to the destruction the Orcs are causing to the forest.  There are, however, more reasons to defend this particular forest than plain love for nature.NEW_LINENEW_LINEThe forest forms a strategic barrier that makes Ashenvale defendable against a large-scale attack.  Without it, Astranaar would last a day or two before being annexed to the Barrens.NEW_LINENEW_LINEDo your part in fighting the Warsong Outriders, YOUR_NAME!  For the Alliance!",    ["Objectives"]="Bring 3 Warsong Gulch Marks of Honor to an Alliance Brigadier General outside the battlegrounds.",    ["Progress"]="You've come back with news from the front, YOUR_NAME?",    ["Completion"]="Good work, YOUR_NAME. Thanks to you, our natural defenses in Ashenvale will remain intact for another day.",    ["minlevel"]="30",    ["questlevel"]="39"},
+	
 
-	["7223"] = {    ["Title"]="Armor Scraps",    ["Description"]="Battles rage constantly in Alterac Valley, and the supplies we get from Ironforge are not enough to outfit our experienced troops.NEW_LINENEW_LINEIf you find armor scraps from the battlefield, aid the war effort and bring those scraps to me!",    ["Objectives"]="Bring 20 Armor Scraps to Murgot Deepforge in Dun Baldar.",    ["Progress"]="Did you bring any armor scraps, YOUR_NAME?",    ["Completion"]="These are some good pieces, YOUR_NAME. I can use them to fashion new equipment for our troops.NEW_LINENEW_LINEIf my supply level gets high enough, then maybe our seasoned fighting units will enter the field!",    ["minlevel"]="51",    ["questlevel"]="60"},
-
-	["7224"] = {    ["Title"]="Enemy Booty",    ["Description"]="When you fight the enemy, gather the scraps of their armor and bring them to me.  I'll use those scraps to make armor for our own troops!",    ["Objectives"]="Bring 20 Armor Scraps to Smith Regzar in Frostwolf Village.",    ["Progress"]="How goes the hunting, YOUR_NAME. Do you have any armor scraps for me?",    ["Completion"]="These will do nicely. I'll melt them down and patch them up and you'll never know they came from those Stormpike cowards!NEW_LINENEW_LINEThanks, YOUR_NAME. And let me polish up that armor of yours...",    ["minlevel"]="51",    ["questlevel"]="60"},
-
-	["7241"] = {    ["Title"]="In Defense of Frostwolf",    ["Description"]="The drums of war sound off in a distant land, $c. The favored clan of your Warchief is under attack from the nefarious Stormpike Guard of Ironforge.NEW_LINENEW_LINEBy the looks of you, I can discern that you are indeed battle hardy and prepared to take on the cause of the Frostwolf.NEW_LINENEW_LINEIt is you who must now take the next step in your evolution.NEW_LINENEW_LINENorth of Tarren Mill, in Alterac,  you will find the entrance to Alterac Valley. It is there that you will find Warmaster Laggrond. Hurry $c, for the battle is upon us!",    ["Objectives"]="Venture to Alterac Valley, located in the Alterac Mountains. Find and speak with Warmaster Laggrond - who stands outside the tunnel entrance - to begin your career as a soldier of Frostwolf. You will find Alterac Valley north of Tarren Mill at the base of the Alterac Mountains.",    ["Progress"]="",    ["Completion"]="To become a soldier of Frostwolf, one must first be tested...",    ["minlevel"]="51",    ["questlevel"]="60"},
-
-	["7261"] = {    ["Title"]="The Sovereign Imperative",    ["Description"]="We are fighting a brutal battle in the valleys of Alterac. The cannibalistic Winterax trolls attack us from one side and the savage Frostwolf Clan from the other. Both must be exterminated in the name of King Magni Bronzebeard! The taking, culling, and turning of that land is a sovereign and territorial imperative to the kingdom of Ironforge.NEW_LINENEW_LINEAlas, soldiers do not grow on trees! Report to Lieutenant Haggerdin outside Alterac Valley to begin your tour of duty and honor amongst the Stormpike.",    ["Objectives"]="Travel to Alterac Valley in the Hillsbrad Foothills. Outside of the entrance tunnel, find and speak with Lieutenant Haggerdin.NEW_LINENEW_LINEFor the glory of Bronzebeard!",    ["Progress"]="",    ["Completion"]="Let's get to work!",    ["minlevel"]="51",    ["questlevel"]="60"},
-
-	["7281"] = {    ["Title"]="Brotherly Love",    ["Description"]="Tragic... My brother faces me on the field of battle: A commander for the Stormpike.NEW_LINENEW_LINEOf the four Stormpike Commanders, he is undoubtedly the most dangerous. Perhaps if he is slain, the Banshee Queen could turn him as she did me - show him the error of his ways...NEW_LINENEW_LINEDeep within enemy territory you will find my brother. Slay him and return to me. I trust that you are capable of completing this mission, soldier.NEW_LINENEW_LINEAnd soldier, do not go alone.",    ["Objectives"]="Travel into Stormpike territory and slay Commander Karl Philips. Return to Commander Louis Philips when the task is complete.",    ["Progress"]="How it must pain him to remain as one of the living while his beloved brother has ascended to perfection.",    ["Completion"]="Your heroics will not go unnoticed, YOUR_NAME.NEW_LINENEW_LINEI must waste no time if he is to be saved. Sylvanas must be contacted!",    ["minlevel"]="51",    ["questlevel"]="60"},
-
-	["7282"] = {    ["Title"]="Brotherly Love",    ["Description"]="He must be put out of his misery, soldier! He knows not what he does. He has become a mindless servant of the dreaded Banshee Queen.NEW_LINENEW_LINEVenture forth, across the Field of Strife, to the depths of Frostwolf territory. Find my brother and destroy him. His torment must come to an end.",    ["Objectives"]="Travel into Frostwolf territory and slay Commander Louis Philips. Return to Commander Karl Philips when the task is complete.",    ["Progress"]="It is with heavy heart that I give such an order, soldier.",    ["Completion"]="You did remember to burn the corpse, didn't you?",    ["minlevel"]="51",    ["questlevel"]="60"},
-
-	["7301"] = {    ["Title"]="Fallen Sky Lords",    ["Description"]="We got them held prisoner, YOUR_RACE. I'm talking about their Wing Commanders. It was a furious battle in the skies but they finally fell! Unfortunately, our best pilots were shot down in a counterattack against Frostwolf Keep. You gotta find out what happened to them.NEW_LINENEW_LINESearch Tower Point West and Frostwolf Keep. These were their last known locations. Search these areas thoroughly.",    ["Objectives"]="Travel to Frostwolf territory and search for Wing Commander Slidore, Wing Commander Vipore, and Wing Commander Ichman. Return to Commander Duffy should you complete your mission.",    ["Progress"]="Anything I would care to hear?",    ["Completion"]="Unbelievable! You did free them, right? Right??? Well at the very least we know where they were held.",    ["minlevel"]="51",    ["questlevel"]="60"},
-
-	["7302"] = {    ["Title"]="Fallen Sky Lords",    ["Description"]="Our air support is in shambles, YOUR_NAME. The Wing Commanders were shot down over enemy territory. You must find out what became of them so that we can attempt a rescue!NEW_LINENEW_LINEGuse was last seen flying over the Icewing Bunker. Jeztor's War Rider was spotted near the Stormpike lumber mill. Mulverick... that reckless fool was seen crashing near the Dun'Baldar North Bunker.NEW_LINENEW_LINEThat's all the information I have. Move out! Search through the areas thoroughly.",    ["Objectives"]="Find out what became of Wing Commander Guse, Wing Commander Jeztor, and Wing Commander Mulverick. Return to Commander Mulfort should you complete your mission.",    ["Progress"]="Status of the hunt, soldier?",    ["Completion"]="Well done! The information you recovered will be invaluable to our cause.",    ["minlevel"]="51",    ["questlevel"]="60"},
-
-	["7321"] = {    ["Title"]="Soothing Turtle Bisque",    ["Description"]="Who says that the undead don't know anything about cooking? Take my secret recipe for Turtle Bisque, for example. I've known folks that would come back from the dead just to enjoy a bowl! Heh, heh...NEW_LINENEW_LINESpeaking of which, I haven't been able to make any lately.  I used to head over to Lake Lordamere myself to hunt snapjaws, the nasty things, but I can't pull myself away from my work here.NEW_LINENEW_LINEIf you bring me some Turtle Meat from the snapjaws and soothing spices, I'll show you how it's done!",    ["Objectives"]="Bring 10 pieces of Turtle Meat and some Soothing Spices to Christoph Jeffcoat in Tarren Mill.",    ["Progress"]="Any luck finding the ingredients?  I'll tell you, the alliance maggots are far too numerous in this area now... In my opinion, they have come far too close already...",    ["Completion"]="My soothing turtle bisque will keep you warm on a cold night... if you care about that kind of thing.",    ["minlevel"]="28",    ["questlevel"]="31"},
-
-	["7361"] = {    ["Title"]="Favor Amongst the Darkspear",    ["Description"]="<Najak snarls.>NEW_LINENEW_LINEBefore the night elves existed there was troll. It was from troll that the night elves came.NEW_LINENEW_LINETheir mutinous attacks against my people will not be tolerated. Staghelm seeks to wipe us out - to leave no trace of those that bore him and his ilk. It will not happen!NEW_LINENEW_LINEFor every night elf that you slay and decapitate, Najak will grant you favor amongst the Darkspear. Word of your deeds will be spread across Kalimdor and the Eastern Kingdoms. Go now and serve the Darkspear!",    ["Objectives"]="You have been tasked with slaying opposing night elf players in Alterac Valley.NEW_LINENEW_LINEKill a night elf and return to Najak Hexxen at Frostwolf Keep with a Severed Night Elf Head.",    ["Progress"]="They seek to exterminate us? It is they who shall be exterminated.",    ["Completion"]="YOUR_NAME, it is but one of thousands. A job well done nonetheless.",    ["minlevel"]="51",    ["questlevel"]="60"},
-
-	["7362"] = {    ["Title"]="Ally of the Tauren",    ["Description"]="The Elder Crone has sent me to this warzone to research the other races. More specifically, I am to collect gnome samples. Magatha is primarily interested in their survivability. Aye, the gnomes - while pitifully weak and miniscule - exude great resilience both in and out of combat.NEW_LINENEW_LINEFortunately for you, I am looking for ruffians to do Magatha's bidding. Return to me with tufts of gnome hair and you shall be known to the tauren as an ally.",    ["Objectives"]="You have been tasked with slaying opposing gnome players in Alterac Valley.NEW_LINENEW_LINEKill a gnome and return to Ravak Grimtotem at Frostwolf Keep with a Tuft of Gnome Hair.",    ["Progress"]="I don't care where the hair comes from, YOUR_RACE.",    ["Completion"]="Aye, this is definitely gnome. Well done, YOUR_RACE, but there is more work to be done.",    ["minlevel"]="51",    ["questlevel"]="60"},
-
-	["7363"] = {    ["Title"]="The Human Condition",    ["Description"]="Humans are so utterly detestable.NEW_LINENEW_LINE<Commander Philips grimaces.>NEW_LINENEW_LINEWhile it is true that I am a soldier of Frostwolf, I remain a servant of Sylvanas.NEW_LINENEW_LINEDuring my tour of duty, I do extra work on the side for the Dark Apothecaries of the Undercity.NEW_LINENEW_LINEI have been tasked with collecting human bone chips that are to be used in curing the human condition.NEW_LINENEW_LINEI am authorized to pass that task on to my subordinates.NEW_LINENEW_LINEFind them. Kill them. Return their bone chips to me.",    ["Objectives"]="You have been tasked with slaying opposing human players in Alterac Valley.NEW_LINENEW_LINEKill a human and return to Commander Louis Philips (who wanders between the front lines and Frostwolf keep) with a  Human Bone Chip.NEW_LINENEW_LINEA cure for the human condition is close at hand!",    ["Progress"]="Yes, it is true. My brother is a human. Shameful... A stain upon my nearly immaculate record.",    ["Completion"]="It would be easier if they just accepted their illness and gave in to your healing touch. It would also probably be less fun. Carry on! We'll cure them, one way or another.",    ["minlevel"]="51",    ["questlevel"]="60"},
-
-	["7364"] = {    ["Title"]="Gnomeregan Bounty",    ["Description"]="The High Tinkerer himself has sent me to this field of battle to defend my gnomish brothers and sisters. We have received word that the tauren are singling out and slaying gnomes. Worst of all, they are removing tufts of glorious gnome hair from the corpses of the fallen. These atrocities must be stopped. We must reciprocate!NEW_LINENEW_LINEI want them de-hoofed, $c. Bring me their hooves! Show yourself as an ally of the gnomes.",    ["Objectives"]="You have been tasked with slaying opposing tauren players in Alterac Valley.NEW_LINENEW_LINEKill a tauren and return to Dirk Swindle at Dun'Baldar with a  Tauren Hoof.",    ["Progress"]="Give 'em a limp, YOUR_NAME. They must learn that the gnomish people won't take to being bullied!",    ["Completion"]="*Dirk throws the hoof in a pile behind him.*",    ["minlevel"]="51",    ["questlevel"]="60"},
-
-	["7365"] = {    ["Title"]="Staghelm's Requiem",    ["Description"]="Staghelm has given the order. All trolls on the field of battle must be exterminated. Their preposterous claims of birthing night elves must be met with force and due prejudice.NEW_LINENEW_LINESlay them and return to me with their mojo. To reiterate: I want you to steal their mojo.",    ["Objectives"]="You have been tasked with slaying opposing troll players in Alterac Valley.NEW_LINENEW_LINEKill a troll and return to Athramanis at Dun'Baldar with Darkspear Troll Mojo.",    ["Progress"]="I can still smell the stinking trolls.",    ["Completion"]="Thank you, YOUR_NAME. The air is a little more pure.",    ["minlevel"]="51",    ["questlevel"]="60"},
-
-	["7366"] = {    ["Title"]="The Archbishop's Mercy",    ["Description"]="The Archbishop is as kind as he is wise. For a man to look mercifully on such a wretched lot...NEW_LINENEW_LINE<Commander Philips shakes his head in disbelief.>NEW_LINENEW_LINEToo kind... Just too kind.NEW_LINENEW_LINEThe Archbishop asks that we take pity on the undead and grant them swift and permanent deaths. For this grand display of mercy, we merely require their black, disease ridden hearts.NEW_LINENEW_LINEBring me the hearts of the Forsaken so that they may be ceremoniously incinerated at the Cathedral of Light. Make haste, YOUR_NAME!",    ["Objectives"]="You have been tasked with slaying opposing Forsaken players in Alterac Valley.NEW_LINENEW_LINEKill a Forsaken and return to Commander Karl Philips (who wanders between the lumber mill and the mine) with a Forsaken Heart.",    ["Progress"]="Benedictus! I am but a speck in the shadow of his grandeur. Praise him!",    ["Completion"]="Praise be to Benedictus! Another lost soul, soon to be saved by the white hot flames of the Light!NEW_LINENEW_LINEGo ye, oh soldier of Light! More must be saved!",    ["minlevel"]="51",    ["questlevel"]="60"},
-
-	["7367"] = {    ["Title"]="Defusing the Threat",    ["Description"]="The Frostwolf have their front lines and bases booby trapped, $c. You have to watch your step when invading enemy territory.NEW_LINENEW_LINEIf you want to make a solid strike against them, you must destroy their source of anti personnel munitions - I'm talking about their explosives expert. If you kill him, you are safe to disarm the mines. As long as he is kept down, the mines will also stay down.NEW_LINENEW_LINEYou will probably find him in a tower near the Iceblood Garrison. Good luck!",    ["Objectives"]="Find the Frostwolf Explosives Expert and kill him. Return to the Stormpike Explosives Expert when the task is complete.",    ["Progress"]="",    ["Completion"]="",    ["minlevel"]="51",    ["questlevel"]="60"},
-
-	["7368"] = {    ["Title"]="Defusing the Threat",    ["Description"]="I know all about landmines. I'm the one that lays all the mines on the front lines here, after all.NEW_LINENEW_LINEIf you want to defuse the Stormpike mine fields, all you have to do is kill their explosives expert. That dwarven coward is no doubt hiding in the first tower on the Field of Strife. Take him out and those landmines won't come back after they've been disarmed.NEW_LINENEW_LINEIf you do happen to kill him, come back here and let me know. No good deed should go unrewarded.",    ["Objectives"]="Find the Stormpike Explosives Expert and kill him. Return to the Frostwolf Explosives Expert when the task is complete.",    ["Progress"]="",    ["Completion"]="",    ["minlevel"]="51",    ["questlevel"]="60"},
-
-	["8399"] = {    ["Title"]="Fight for Warsong Gulch",    ["Description"]="The Silverwing Sentinels are at war with the Warsong Outriders due to the destruction the Orcs are causing to the forest.  There are, however, more reasons to defend this particular forest than plain love for nature.NEW_LINENEW_LINEThe forest forms a strategic barrier that makes Ashenvale defendable against a large-scale attack.  Without it, Astranaar would last a day or two before being annexed to the Barrens.NEW_LINENEW_LINEDo your part in fighting the Warsong Outriders, YOUR_NAME!  For the Alliance!",    ["Objectives"]="Bring 3 Warsong Gulch Marks of Honor to an Alliance Brigadier General outside the battlegrounds.",    ["Progress"]="You've come back with news from the front, YOUR_NAME?",    ["Completion"]="Good work, YOUR_NAME. Thanks to you, our natural defenses in Ashenvale will remain intact for another day.",    ["minlevel"]="20",    ["questlevel"]="29"},
-
-	["8398"] = {    ["Title"]="Claiming Arathi Basin",    ["Description"]="Winning a war is about more than just outsmarting and outfighting your opponent. Victory often comes down to simply producing more than your enemy.NEW_LINENEW_LINEWhat we have in Arathi Basin is a sizeable supply of resources for whichever side manages to claim it first.NEW_LINENEW_LINEIf the Alliance comes out victorious, it'll mean more swords and pikes for our troops. If the Horde were to win, those swords and pikes would still get made, they'd just be pointed at us! Now is the time to help the Alliance in Arathi Basin, YOUR_NAME.",    ["Objectives"]="Bring 3 Arathi Basin Marks of Honor to an Alliance Brigadier General outside the battlegrounds.",    ["Progress"]="The war against the Horde is quickly depleting our supplies, YOUR_NAME.  It is vital to maintain control of Arathi Basin to keep the stream of resources flowing!  Have you lent a hand in Arathi yet?",    ["Completion"]="Excellent work, $C!  Your efforts will help provide the Alliance with the resources it needs.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["7385"] = {    ["Title"]="A Gallon of Blood",    ["Description"]="You have the option of offering larger quantities of the blood taken from our enemies. I will be glad to accept gallon sized offerings, YOUR_NAME.",    ["Objectives"]="",    ["Progress"]="You must strike down our enemies and bring to me their blood.",    ["Completion"]="The blood of our enemies has been shed. I shall mix this blood with the rest that has been gathered. Once the offering is complete, the Ice Lord shall show these Stormpike dogs the full wrath of the Frostwolf Clan!",    ["minlevel"]="51",    ["questlevel"]="60"},
-
-	["7386"] = {    ["Title"]="Crystal Cluster",    ["Description"]="There are times which you may be entrenched in battle for days or weeks on end. During those longer periods of activity you may end up collecting large clusters of the Frostwolf's storm crystals.NEW_LINENEW_LINEThe Circle accepts such offerings, YOUR_NAME.",    ["Objectives"]="",    ["Progress"]="The Frostwolf soldiers carry elemental charms called storm crystals. We can use the charms to conjure Ivus. Venture forth and claim the crystals, YOUR_NAME!",    ["Completion"]="Well done, YOUR_NAME. I will use the power of these charms to augment the magic that has already been gathered. When enough power has been amassed, I shall focus the collected energies and call upon the Forest Lord to aid our cause.",    ["minlevel"]="51",    ["questlevel"]="60"},
-
-	["7401"] = {    ["Title"]="Wanted: DWARVES!",    ["Description"]="By order of Sergeant Yazra Bloodsnarl, all dwarves on the field of battle are to be killed on sight.NEW_LINENEW_LINEShould you slay a dwarf in combat, rip out their spine, leaving a spineless heap of stink and rot to serve as a warning to any and all that dare oppose the might of the Frostwolf.NEW_LINENEW_LINEReturn to Sergeant Yazra Bloodsnarl with proof of your heroics.",    ["Objectives"]="You have been tasked with slaying opposing Dwarf players in Alterac Valley.NEW_LINENEW_LINEKill a Dwarf and rip out their spine. Take the Dwarf Spine to Sergeant Yazra Bloodsnarl at Frostwolf Keep.",    ["Progress"]="I deal in wholesale irony, soldier.",    ["Completion"]="You now have license to decimate dwarves by the dozen, $C!NEW_LINENEW_LINE<Yazra stares off into the distance for a moment.>NEW_LINENEW_LINEYou never forget your first de-spining...",    ["minlevel"]="51",    ["questlevel"]="60"},
-
-	["7402"] = {    ["Title"]="Wanted: ORCS!",    ["Description"]="By order of Corporal Noreg Stormpike, all able bodied soldiers of Stormpike are required to slay any opposing orcs that they meet upon the field of battle.NEW_LINENEW_LINESoldiers are required to remove a tusk or tooth from the maw of the enemy and present said tooth as proof of their accomplishment.NEW_LINENEW_LINEWear protective gloves.",    ["Objectives"]="You have been tasked with slaying opposing Orc players in Alterac Valley.NEW_LINENEW_LINEKill an Orc and take their Orc Tooth back to Corporal Noreg Stormpike at Dun Baldar.",    ["Progress"]="You need a clip to pull the teeth out?",    ["Completion"]="Good, YOUR_NAME. I expect the little mice.",    ["minlevel"]="51",    ["questlevel"]="60"},
-
-	["7421"] = {    ["Title"]="Darkspear Defense",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="They seek to exterminate us? It is they who shall be exterminated.",    ["Completion"]="YOUR_NAME, it is but one of thousands. A job well done nonetheless.",    ["minlevel"]="51",    ["questlevel"]="60"},
-
-	["7422"] = {    ["Title"]="Tuft it Out",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="I don't care where the hair comes from, YOUR_RACE.",    ["Completion"]="Aye, this is definitely gnome. Well done, YOUR_RACE, but there is more work to be done.",    ["minlevel"]="51",    ["questlevel"]="60"},
-
-	["7423"] = {    ["Title"]="I've Got A Fever For More Bone Chips",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="Yes, it is true. My brother is a human. Shameful... A stain upon my nearly immaculate record.",    ["Completion"]="It would be easier if they just accepted their illness and gave in to your healing touch. It would also probably be less fun. Carry on! We'll cure them, one way or another.",    ["minlevel"]="51",    ["questlevel"]="60"},
-
-	["7424"] = {    ["Title"]="What the Hoof?",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="Give 'em a limp, YOUR_NAME. They must learn that the gnomish people won't take to being bullied!",    ["Completion"]="*Dirk throws the hoof in a pile behind him.*",    ["minlevel"]="51",    ["questlevel"]="60"},
-
-	["7425"] = {    ["Title"]="Staghelm's Mojo Jamboree",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="I can still smell the stinking trolls.",    ["Completion"]="Thank you, YOUR_NAME. The air is a little more pure.",    ["minlevel"]="51",    ["questlevel"]="60"},
-
-	["7426"] = {    ["Title"]="One Man's Love",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="Benedictus! I am but a speck in the shadow of his grandeur. Praise him!",    ["Completion"]="Praise be to Benedictus! Another lost soul, soon to be saved by the white hot flames of the Light!NEW_LINENEW_LINEGo ye, oh soldier of Light! More must be saved!",    ["minlevel"]="51",    ["questlevel"]="60"},
-
-	["7427"] = {    ["Title"]="Wanted: MORE DWARVES!",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="I deal in wholesale irony, soldier.",    ["Completion"]="You now have license to decimate dwarves by the dozen, $C!NEW_LINENEW_LINE<Yazra stares off into the distance for a moment.>NEW_LINENEW_LINEYou never forget your first de-spining...",    ["minlevel"]="51",    ["questlevel"]="60"},
-
-	["7428"] = {    ["Title"]="Wanted: MORE ORCS!",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="You need a clip to pull the teeth out?",    ["Completion"]="Good, YOUR_NAME. I expect the little mice.",    ["minlevel"]="51",    ["questlevel"]="60"},
-
-	["7429"] = {    ["Title"]="Free Knot!",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="It's called the Gordok Shackle Key - well, that's what these \"tons o' fun\" keep calling it. I think any of the ogres might have it, but I'm not sure if any specific ones do. Maybe the guards have a better chance of having one...NEW_LINENEW_LINEWhat am I talking about - you have it already, don't you?! Is that it there??!",    ["Completion"]="Oh, thank you for freeing me! You - ranked number one. Everyone else - ranked number two or lower.NEW_LINENEW_LINEI knew my life was destined for more than just being an appetizer to some ogre!",    ["minlevel"]="56",    ["questlevel"]="60"},
-
-	["7441"] = {    ["Title"]="Pusillin and the Elder Azj'Tordin",    ["Description"]="I had let my guard down for only one moment, stranger. In my haste to escape the grip of the fallen Prince, I was robbed. A most foul demon, the imp Pusillin, pilfered my book of incantations and the key to the once great halls of Eldre'Thalas.NEW_LINENEW_LINEI no longer hold interest in the key, as I have exchanged my immortality for freedom, but I desperately need my book of incantations.NEW_LINENEW_LINEFind the imp, Pusillin, and recover my book.NEW_LINENEW_LINESearch the Warpwood Quarter of Dire Maul for Pusillin.",    ["Objectives"]="Travel to Dire Maul and locate the Imp, Pusillin. Convince Pusillin to give you Azj'Tordin's Book of Incantations through any means necessary.NEW_LINENEW_LINEReturn to Azj'Tordin at the Lariss Pavilion in Feralas should you recover the Book of Incantations.",    ["Progress"]="I regret nothing, stranger. The Queen has long since passed. The works of the Shen'Dralar have been marred by the madness of Prince Tortheldrin. I seek only freedom... Escape...",    ["Completion"]="You have found it! A curse upon that miserable imp. Alas, my material possessions are meager at best. You may choose from what I have to offer.",    ["minlevel"]="54",    ["questlevel"]="58"},
-
-	["7461"] = {    ["Title"]="The Madness Within",    ["Description"]="Have you heard enough? Are you a $g man:woman; of action?NEW_LINENEW_LINEThis madness must come to an end. The age of the immortals has long since passed. Destroy the guardians surrounding the pylons to lower the force field. When this is done, destroy Immol'thar. With the Prince's power greatly reduced, attack and end him. Lay the spirits of this city to rest, adventurer.",    ["Objectives"]="You must destroy the guardians surrounding the 5 Pylons that power the Prison of Immol'thar. Once the Pylons have powered down, the force field surrounding Immol'thar will have dissipated.NEW_LINENEW_LINEEnter the Prison of Immol'thar and eradicate the foul demon that stands at its heart. Finally, confront Prince Tortheldrin in Athenaeum.NEW_LINENEW_LINEReturn to the Shen'dralar Ancient in the courtyard should you complete this quest.",    ["Progress"]="Be wary, adventurer. The Prince is... persuasive.",    ["Completion"]="We thank you, hero.",    ["minlevel"]="56",    ["questlevel"]="60"},
-
-	["7462"] = {    ["Title"]="The Treasure of the Shen'dralar",    ["Description"]="In the library, Athenaeum, you will find an ancient chest hidden beneath the stairway. Take from it that which you desire.",    ["Objectives"]="Return to the Athenaeum and find the Treasure of the Shen'dralar. Claim your reward!",    ["Progress"]="",    ["Completion"]="You open the chest to find...",    ["minlevel"]="57",    ["questlevel"]="60"},
-
-	["7463"] = {    ["Title"]="Arcane Refreshment",    ["Description"]="A YOUR_RACE mage! How wonderous. I have not seen one of your kind for... oh what is it going on now? 500 years!NEW_LINENEW_LINEI have something that will quench your thirst, but first you must do a task for me.NEW_LINENEW_LINE<Lydros snickers.>NEW_LINENEW_LINEThere is an anomaly in Eldre'Thalas. A water elemental has taken residence in the east wing. His presence must be catalogued!NEW_LINENEW_LINEVenture to the Warpwood Quarter and extract a portion of the elemental essence of the Hydrospawn. Return it to me and I shall teach you a useful cantrip.",    ["Objectives"]="Travel to the Warpwood Quarter of Dire Maul and slay the water elemental, Hydrospawn. Return to Lorekeeper Lydros in the Athenaeum with the Hydrospawn Essence.",    ["Progress"]="Yes? Do I know you?",    ["Completion"]="Wonderful! Who are you again? Oh it matters not. What was I supposed to give you? Hrm... well you are a mage, perhaps you will find this useful.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["7481"] = {    ["Title"]="Elven Legends",    ["Description"]="Several years ago, a lone elven master named Kariel Winthalus fled the devastation of his homeland with several ancient elven artifacts in tow.NEW_LINENEW_LINEOur search for this lost master lead us from the ruins of Quel'Thalas, through the Burning Steppes, across the great expanses of the sea, to Feralas.NEW_LINENEW_LINEWe suspect that the elf sought sanctuary in the halls of Eldre'Thalas (what is now known as Dire Maul).NEW_LINENEW_LINEYou must find him, adventurer. Whether alive or dead, the knowledge he carried must be recovered!",    ["Objectives"]="Search Dire Maul for Kariel Winthalus. Report back to Sage Korolusk at Camp Mojache with whatever information that you may find.",    ["Progress"]="My associate, the night elf scholar, Runethorn, is recruiting her allies for this task.",    ["Completion"]="A shame... a tragedy. The items are lost you say? No trace of him, eh?",    ["minlevel"]="54",    ["questlevel"]="60"},
-
-	["7482"] = {    ["Title"]="Elven Legends",    ["Description"]="Several years ago, a lone elven master named Kariel Winthalus fled the devastation of his homeland with several ancient elven artifacts in tow.NEW_LINENEW_LINEOur search for this lost master lead us from the ruins of Quel'Thalas, through the Burning Steppes, across the great expanses of the sea, to Feralas.NEW_LINENEW_LINEWe suspect that the elf sought sanctuary in the halls of Eldre'Thalas (what is now known as Dire Maul).NEW_LINENEW_LINEYou must find him, adventurer. Whether alive or dead, the knowledge he carried must be recovered!",    ["Objectives"]="Search Dire Maul for Kariel Winthalus. Report back to Scholar Runethorn at Feathermoon with whatever information that you may find.",    ["Progress"]="My associate, the tauren sage, Korolusk, is recruiting his allies for this task.",    ["Completion"]="A shame... a tragedy. The items are lost you say? No trace of him, eh?",    ["minlevel"]="54",    ["questlevel"]="60"},
-
-	["7483"] = {    ["Title"]="Libram of Rapidity",    ["Description"]="Master Winthalus lost the Libram of Rapidity in the east wing. The Libram will allow for a minor haste cantrip to be placed upon your equipment. Parlor tricks, really...NEW_LINENEW_LINERegardless, if you are interested, you will need to present the Libram along with some basic reagents.NEW_LINENEW_LINEHrm... I believe it also requires blood of heroes, a pristine black diamond, and large brilliant shards. I could be wrong!NEW_LINENEW_LINE<Lydros shrugs.>",    ["Objectives"]="Bring a Libram of Rapidity, 1 Pristine Black Diamond, 2 Large Brilliant Shards, and 2 Blood of Heroes to Lorekeeper Lydros in Dire Maul to receive an Arcanum of Rapidity.",    ["Progress"]="What is it? I have much cataloguing to do!",    ["Completion"]="<Lydros yawns.>NEW_LINENEW_LINEAs promised, the Arcanum of Rapidity. Don't spend it all in once place.NEW_LINENEW_LINE<Lydros snickers.>",    ["minlevel"]="57",    ["questlevel"]="60"},
-
-	["7484"] = {    ["Title"]="Libram of Focus",    ["Description"]="This libram almost aroused interest in one of the younger Lorekeeper's familiars. Poor thing, it was only a few weeks old.NEW_LINENEW_LINEThose among you who are more magically inclined might find this item interesting.NEW_LINENEW_LINEThe Libram of Focus was lost in this wing. I can only assume one of the Highborne spirits holds it in their possession.NEW_LINENEW_LINEBring the Libram along with some large brilliant shards, skin of shadow, and a pristine black diamond and I shall conjure the Arcanum.",    ["Objectives"]="Bring a Libram of Focus, 1 Pristine Black Diamond, 4 Large Brilliant Shards, and 2 Skin of Shadow to Lorekeeper Lydros in Dire Maul to receive an Arcanum of Focus.",    ["Progress"]="You again? What could you possibly want now?",    ["Completion"]="Don't hurt yourself when applying the enchantment, YOUR_RACE.",    ["minlevel"]="57",    ["questlevel"]="60"},
-
-	["7485"] = {    ["Title"]="Libram of Protection",    ["Description"]="He wept like an infant at the loss of this libram. Mind you, I myself have wept over texts - there is no greater loss than that of knowledge and history - but to cry over this nearly useless jumbling of incantations? Preposterous! It left me to believe that the Prince was doing him a favor in flaying the flesh from his bones.NEW_LINENEW_LINEBring the Libram along with a pristine black diamond, large brilliant shards, and a frayed abomination stitching and I shall recreate the Arcanum.NEW_LINENEW_LINEOh, and check the north wing.",    ["Objectives"]="Bring a Libram of Protection, 1 Pristine Black Diamond, 2 Large Brilliant Shards, and 1 Frayed Abomination Stitching to Lorekeeper Lydros in Dire Maul to receive an Arcanum of Protection.",    ["Progress"]="My patience prevents your suffering.",    ["Completion"]="Yes, yes... Calm yourself. As promised, here is your Arcanum.",    ["minlevel"]="57",    ["questlevel"]="60"},
-
-	["7486"] = {    ["Title"]="A Hero's Reward",    ["Description"]="YOUR_NAME, your services to the Warlords surpassed all we could expect from the denizens of this world.NEW_LINENEW_LINEWe do not understand your people's notions of gratitude, or rewarding good works, but in this case... perhaps a reward is warranted.NEW_LINENEW_LINEUnder the surf at the southern base of this island, you will find a coffer.  In it you will find your... reward.NEW_LINENEW_LINEGo, YOUR_NAME.  Claim your reward.",    ["Objectives"]="Claim your reward from Hydraxis' Coffer.",    ["Progress"]="",    ["Completion"]="Hydraxis' voice descends from the waters' surface...NEW_LINENEW_LINE\"Choose that which best suits you, YOUR_NAME.  May it protect you against the foes of the Waterlords.\"",    ["minlevel"]="55",    ["questlevel"]="60"},
-
-	["7487"] = {    ["Title"]="Attunement to the Core",    ["Description"]="Rifts stir, tear, and collapse all around us, YOUR_RACE. Not two paces from where I stand is a tear leading through the depths of Blackrock Mountain, into the maw of the Firelord.NEW_LINENEW_LINESurprised? Pity... The mortal races cannot comprehend that which they cannot see, touch, or feel.NEW_LINENEW_LINEI assure you, the portal is there and access is possible.NEW_LINENEW_LINEI've piqued your interest? Attunement is simple. Venture into Blackrock Depths and retrieve a core fragment. Return it to me and I shall attune your essence with the portal.",    ["Objectives"]="Venture to the Molten Core entry portal in Blackrock Depths and recover a Core Fragment. Return to Lothos Riftwaker in Blackrock Mountain when you have recovered the Core Fragment.",    ["Progress"]="You must attune your soul with the Molten Core before access is granted.",    ["Completion"]="I am now able to transport you to the Molten Core. Ask and it shall be done.",    ["minlevel"]="55",    ["questlevel"]="60"},
-
-	["7488"] = {    ["Title"]="Lethtendris's Web",    ["Description"]="The mage Lethtendris, a vicious blood elf whose brutality is matched only by her twisted addiction to magic, has fled into Dire Maul.  She has created a device, a web to ensnare the magical energies of that place and we fear that, if left unchecked, she will cause irreparable damage to our world!NEW_LINENEW_LINEStop her, YOUR_NAME.  Find her and retrieve her web.  She is likely near the satyrs in Warpwood Quarter of Dire Maul.  Bring the web to me so that its power may be released safely back into the wilds...",    ["Objectives"]="Bring Lethtendris' Web to Latronicus Moonspear at the Feathermoon Stronghold in Feralas.",    ["Progress"]="Do you have the web, YOUR_NAME?  Its concentrated magical energy must be dissipated!",    ["Completion"]="You retrieved the web!  Well done, YOUR_NAME!  Lethtendris, like many elves of her ilk, are blind to the dangers the abuse of magic can cause to our world.  They believe they are masters of magic; they do not realize that they are slaves to their own addiction.  Her death saddens me, but it was necessary.NEW_LINENEW_LINEThank you, YOUR_NAME.  I will have the energies within the web released safely over a wide area, and then I'll destroy it to prevent future magical exploits.",    ["minlevel"]="54",    ["questlevel"]="57"},
-
-	["7489"] = {    ["Title"]="Lethtendris's Web",    ["Description"]="The blood elf Lethtendris has overstepped her bounds.  So eager was she to gather magical power that she defied her brethren and created a device of insidious design, a web meant to siphon the tainted magical energies of Dire Maul.  Even now she gathers those energies and plans to release them against her enemies.NEW_LINENEW_LINELethtendris must be stopped.  Find her within the Warpwood Quarter of Dire Maul, defeat her and bring her web to me so that it might be returned to more clear-headed blood elves for study.",    ["Objectives"]="Bring Lethtendris's Web to Talo Thornhoof at Camp Mojache in Feralas.",    ["Progress"]="YOUR_NAME, do you have Lethtendris's Web?",    ["Completion"]="You have done well, YOUR_NAME. This web holds within it vast stores of the magic of Dire Maul, and I fear what damage may be unleashed if those energies were harnessed by one so irresponsible as Lethtendris. I am saddened by her death, but I know that she could never part with her web while alive.NEW_LINENEW_LINEThank you, YOUR_NAME. I will send the web to students of magic more responsible than Lethtendris. They will be the new wardens of its power.",    ["minlevel"]="54",    ["questlevel"]="57"},
-
-	["7492"] = {    ["Title"]="Camp Mojache",    ["Description"]="Talo Thornhoof, a Tauren elder in Feralas, sends a request for aid.  He offered few details, but he did say that he needs agents for a matter both delicate... and dire.NEW_LINENEW_LINEServe the Horde, YOUR_NAME.  Go to Camp Mojache in Feralas and speak with Talo.",    ["Objectives"]="Speak with Talo Thornhoof at Camp Mojache in Feralas.",    ["Progress"]="",    ["Completion"]="Ah, it is good to see a $C heed my summons. I have need of your services, YOUR_NAME, and fear they will take you down a dangerous path...NEW_LINENEW_LINEA path into Dire Maul.",    ["minlevel"]="54",    ["questlevel"]="57"},
-
-	["7494"] = {    ["Title"]="Feathermoon Stronghold",    ["Description"]="YOUR_NAME!  Your aid is needed in Feralas!NEW_LINENEW_LINEAn outlaw mage, Lethtendris, has fled to the ancient elven ruins Eldre'thalas, now called Dire Maul.  It is believed she has an item of dangerous magical energy which must be recovered.NEW_LINENEW_LINELatronicus Moonspear requests agents to enter Dire Maul and retrieve the item from Lethtendris.NEW_LINENEW_LINEServe the Alliance!  Seek out Latronicus at the Feathermoon Stronghold in Feralas.",    ["Objectives"]="Speak with Latronicus Moonspear at the Feathermoon Stronghold in Feralas.",    ["Progress"]="",    ["Completion"]="Hail, YOUR_NAME.  I am pleased to see you, but regret that our meeting is not under more pleasant conditions.NEW_LINENEW_LINEListen close, for I have a vital task for you...",    ["minlevel"]="54",    ["questlevel"]="57"},
-
-	["7507"] = {    ["Title"]="Foror's Compendium",    ["Description"]="You have uncovered something of great importance. This book is unlike any that you have seen.NEW_LINENEW_LINEIt would appear as if someone or something has managed to shatter the seal of Athenaeum. The text within is garbled and barely legible.",    ["Objectives"]="Return Foror's Compendium of Dragon Slaying to the Athenaeum.",    ["Progress"]="Ah, one of our greatest compilations. This one has been missing for ages.",    ["Completion"]="You could have gotten quite a lot of gold for this book on the black market, YOUR_NAME. Especially since the protective seal has been broken, leaving the secrets of dragon slaying viewable to any with the requisite intellect to consume the knowledge held within the sacred pages.NEW_LINENEW_LINEPerhaps a grand reward is in order... Well, a reward that will require enormous effort to obtain.NEW_LINENEW_LINE<Lydros grins.>",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["7508"] = {    ["Title"]="The Forging of Quel'Serrar",    ["Description"]="If you wish to take on this task, present Lydros with the dull blade.",    ["Objectives"]="Give the Dull and Flat Elven Blade to Lorekeeper Lydros.",    ["Progress"]="Excellent, let us begin...",    ["Completion"]="If you manage to enter the lair of the dragon, heat the blade under her fiery breath, and ultimately temper it in her blood, I shall bind the blade for your use.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["7509"] = {    ["Title"]="The Forging of Quel'Serrar",    ["Description"]="Take the unfired ancient blade to the lair of Onyxia and engage her in battle.NEW_LINENEW_LINESome trickery must be utilized for the heating of the blade. While in combat, she will surely try to incinerate you with her fiery breath. You must plant the unfired ancient blade nearby and hope that the fiery breath heats the blade. If you live beyond this, pick up the now heated ancient blade and finish off the dragon.NEW_LINENEW_LINEPlunge the heated ancient blade into her smoldering corpse to fashion the treated ancient blade.",    ["Objectives"]="You must get Onyxia to breathe fire on the Unfired Ancient Blade. Once this is done, pick up the now Heated Ancient Blade. Be warned, a Heated Ancient Blade will not remain heated forever - time is of the essence.NEW_LINENEW_LINEThe last step before returning to me is to slay the beast and drive the Heated Ancient Blade into her corpse.NEW_LINENEW_LINEDo this and Quel'Serrar will be yours.",    ["Progress"]="Perhaps one day, another will wield the prismatic blade.",    ["Completion"]="<Lydros murmurs something unintelligible.>NEW_LINENEW_LINEAs promised, $C, the blade of Quel'Serrar.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["7521"] = {    ["Title"]="Thunderaan the Windseeker",    ["Description"]="I have told you all that I know, YOUR_NAME. It is you who must find elementium. It is you who must destroy the Firelord's corporeal form.NEW_LINENEW_LINEDo this and gain the blessing of Thunderaan.",    ["Objectives"]="To free Thunderaan the Windseeker from his prison, you must present the right and left halves of the Bindings of the Wind Seeker, 10 bars of Elementium, and the Essence of the Firelord to Highlord Demitrian.",    ["Progress"]="Bring the world to its knees if you must!",    ["Completion"]="Even in dreams I did not dare foresee this day.NEW_LINENEW_LINEBehold, mortal.NEW_LINENEW_LINEBEHOLD HE WHO IS OLDER THAN EXISTENCE!NEW_LINENEW_LINEBEHOLD HE WHO HAS FACED TITAN AND GOD ALIKE!NEW_LINENEW_LINERISE MY MASTER! BREAK FROM YOUR BONDS!",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["7541"] = {    ["Title"]="Service to the Horde",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="It will take time for our scholars to study the pendant you brought us.  But for your service to the Horde I would like to offer you a small token.NEW_LINENEW_LINEThank you, YOUR_NAME.  Your acts bring honor to you, and to us.",    ["minlevel"]="30",    ["questlevel"]="40"},
-
-	["7604"] = {    ["Title"]="A Binding Contract",    ["Description"]="The undersigned hereby declares that the Sulfuron ingot they are delivering to the Thorium Brotherhood (TB Ltd.) is genuine and not a facsimile thereof. The undersigned also acknowledges that any harm that should come to $g him:her; as a result of attempting to build, forge, find, create, sell, or eat Sulfuras, is not the responsibility or fault of TB Ltd.NEW_LINENEW_LINEBy signing this contract, you are agreeing to all terms listed herein.NEW_LINENEW_LINE_________________NEW_LINENEW_LINESignature",    ["Objectives"]="Turn the Thorium Brotherhood Contract in to Lokhtos Darkbargainer if you would like to receive the plans for Sulfuron.",    ["Progress"]="Do we have a deal?",    ["Completion"]="It has been a pleasure doing business with you, YOUR_NAME!NEW_LINENEW_LINEOn behalf of TB Ltd., I wish you luck in your search for Sulfuras!",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["7649"] = {    ["Title"]="Enchanted Thorium Platemail: Volume I",    ["Description"]="The tome carries the mark of the Athenaeum.",    ["Objectives"]="Return the book to its rightful owners.",    ["Progress"]="You have recovered a tome!",    ["Completion"]="Well done, my boy.NEW_LINENEW_LINE<Lorekeeper Lydros tears out a page from the book.>NEW_LINENEW_LINEI am sure you can make use of this recipe.",    ["minlevel"]="50",    ["questlevel"]="60"},
-
-	["7650"] = {    ["Title"]="Enchanted Thorium Platemail: Volume II",    ["Description"]="The tome carries the mark of the Athenaeum.",    ["Objectives"]="Return the book to its rightful owners.",    ["Progress"]="You have recovered a tome!",    ["Completion"]="Well done, my boy.NEW_LINENEW_LINE<Lorekeeper Lydros tears out a page from the book.>NEW_LINENEW_LINEI am sure you can make use of this recipe.",    ["minlevel"]="50",    ["questlevel"]="60"},
-
-	["7651"] = {    ["Title"]="Enchanted Thorium Platemail: Volume III",    ["Description"]="The tome carries the mark of the Athenaeum.",    ["Objectives"]="Return the book to its rightful owners.",    ["Progress"]="You have recovered a tome!",    ["Completion"]="Well done, my boy.NEW_LINENEW_LINE<Lorekeeper Lydros tears out a page from the book.>NEW_LINENEW_LINEI am sure you can make use of this recipe.",    ["minlevel"]="50",    ["questlevel"]="60"},
-
-	["7652"] = {    ["Title"]="A Blue Light Bargain",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="Aright, mister, I got a hot deal for ya.NEW_LINENEW_LINEI'm lookin' to offload some of these here Imperial plate armor recipes and need someone willing to take on the burden. All I want in exchange is some thorium bars. Sound good?",    ["minlevel"]="50",    ["questlevel"]="60"},
-
-	["7653"] = {    ["Title"]="Imperial Plate Belt",    ["Description"]="",    ["Objectives"]="For the belt plans, I'll be needin' 20 thorium bars.",    ["Progress"]="For the belt plans, I'll be needin' 20 thorium bars.",    ["Completion"]="A pleasure doin' business with ya.NEW_LINENEW_LINEAnd YOUR_NAME, wipe that look of disgust off yer face.",    ["minlevel"]="50",    ["questlevel"]="60"},
-
-	["7654"] = {    ["Title"]="Imperial Plate Boots",    ["Description"]="",    ["Objectives"]="For the boot plans, I'll be needin' 40 thorium bars. Yep, 40. Are you gonna cry? Would you like a hanky?",    ["Progress"]="For the boot plans, I'll be needin' 40 thorium bars. Yep, 40. Are you gonna cry? Would you like a hanky?NEW_LINENEW_LINE<Derotain laughs.>",    ["Completion"]="A pleasure doin' business with ya.NEW_LINENEW_LINEAnd YOUR_NAME, wipe that look of disgust off yer face.",    ["minlevel"]="50",    ["questlevel"]="60"},
-
-	["7655"] = {    ["Title"]="Imperial Plate Bracer",    ["Description"]="",    ["Objectives"]="For the bracer plans, I'll be needin' 20 thorium bars.",    ["Progress"]="For the bracer plans, I'll be needin' 20 thorium bars.NEW_LINENEW_LINEAre you alright, sonny? Yer getting' all red.",    ["Completion"]="A pleasure doin' business with ya.NEW_LINENEW_LINEAnd YOUR_NAME, wipe that look of disgust off yer face.",    ["minlevel"]="50",    ["questlevel"]="60"},
-
-	["7656"] = {    ["Title"]="Imperial Plate Chest",    ["Description"]="",    ["Objectives"]="For the chest piece plans, I'll be needin' 60 thorium bars.  Oh boy, there you go again. Are you gonna be runnin' to yer blue Gods, askin' why they have forsaken you?!?  Toughen up, Nancy! Nobody ever said life's fair.",    ["Progress"]="For the chest piece plans, I'll be needin' 60 thorium bars.NEW_LINENEW_LINEOh boy, there you go again. Are you gonna be runnin' to yer blue Gods, askin' why they have forsaken you?!? Toughen up, Nancy! Nobody ever said life's fair.",    ["Completion"]="A pleasure doin' business with ya.NEW_LINENEW_LINEAnd YOUR_NAME, wipe that look of disgust off yer face.",    ["minlevel"]="50",    ["questlevel"]="60"},
-
-	["7657"] = {    ["Title"]="Imperial Plate Helm",    ["Description"]="",    ["Objectives"]="Just hand over 50 thorium bars and the helm plans are yers.",    ["Progress"]="Just hand over 50 thorium bars and the helm plans are yers.",    ["Completion"]="A pleasure doin' business with ya.NEW_LINENEW_LINEAnd YOUR_NAME, wipe that look of disgust off yer face.",    ["minlevel"]="50",    ["questlevel"]="60"},
-
-	["7658"] = {    ["Title"]="Imperial Plate Leggings",    ["Description"]="",    ["Objectives"]="Just hand over 60 thorium bars and the leg plans are yers.  I know, I'm driving you into bankruptcy! I've heard it all before so you can save your sob story, weakling.",    ["Progress"]="Just hand over 60 thorium bars and the leg plans are yers.NEW_LINENEW_LINEI know, I'm driving you into bankruptcy! I've heard it all before so you can save your sob story, weakling.",    ["Completion"]="A pleasure doin' business with ya.NEW_LINENEW_LINEAnd YOUR_NAME, wipe that look of disgust off yer face.",    ["minlevel"]="50",    ["questlevel"]="60"},
-
-	["7659"] = {    ["Title"]="Imperial Plate Shoulders",    ["Description"]="",    ["Objectives"]="For the shoulder plans, I'll be needin' 20 thorium bars.",    ["Progress"]="For the shoulder plans, I'll be needin' 20 thorium bars.",    ["Completion"]="A pleasure doin' business with ya.NEW_LINENEW_LINEAnd YOUR_NAME, wipe that look of disgust off yer face.",    ["minlevel"]="50",    ["questlevel"]="60"},
-
-	["7701"] = {    ["Title"]="WANTED: Overseer Maltorius",    ["Description"]="By order o' 'is eminence, Overseer Oilfist, the rogue Thorium Brotherhood agent an' newly hired commander o' the Dark Iron Slag Pit crew o' the Cauldron, Overseer Maltorius, is to be killed an' 'is head brung back as proof o' the deed.NEW_LINENEW_LINESee Lookout Captan Lolo Longstriker fer the reward on this bounty.",    ["Objectives"]="Deep within the Slag Pit of the Cauldron, in the Searing Gorge, you will find the traitorous Dark Iron dwarf named Overseer Maltorius.NEW_LINENEW_LINESlay Overseer Maltorius and take his head. Return the head to Lookout Captain Lolo Longstriker in the Searing Gorge for your reward.",    ["Progress"]="Can't ya shee I'm bushy? What *hic* ish it ya be wantin? *hic*",    ["Completion"]="I never thunk I'd be lookin' at thish ugly mug again!NEW_LINENEW_LINEHe acshually looksh better without the resht o' him attached.NEW_LINENEW_LINEHere's yer reward *hic*, YOUR_RACE.",    ["minlevel"]="45",    ["questlevel"]="50"},
-
-	["7703"] = {    ["Title"]="Unfinished Gordok Business",    ["Description"]="Now you da king, so maybe you get prized Gordok artifact back from creepy elf who calls himself Prince!  Da king before you failed, just like all da other kings since Tortheldrin - da creepy elf - stole it from old timey Gordok king!NEW_LINENEW_LINEArtifact is called da Gauntlet of Gordok Might.  Old timey stories say only da one true king da Gordok can get it back.  Old timey story also say creepy elf is still around here - you find it and it will become mighty gauntlet you wear forever!  Yar, I show you!",    ["Objectives"]="Find the Gauntlet of Gordok Might and return it to Captain Kromcrush in Dire Maul.NEW_LINENEW_LINEAccording to Kromcrush, the \"old timey story\" says that Tortheldrin - a \"creepy\" elf who called himself a prince - stole it from one of the Gordok kings.",    ["Progress"]="Hah, you no find it, do you boss? Maybe old timey story a bad story... hard to believe that creepy elf can steal from Gordok king!",    ["Completion"]="Wow... you ARE da true king! I never think I see this gauntlet in my life! It look like it got no mojo left anymore... maybe that creepy elf try and ruin gauntlet. Well, I say HAR HAR to him!NEW_LINENEW_LINELook - this mark on da gauntlet an old old OLD timey magic mark, older than da Gordok they say. Well, as Captain of da Gordok, we all learn one thing over and over - how to make mark come to life and give power back to gauntlet!NEW_LINENEW_LINEI do it for you, king! Here, take da gauntlet and rule FOREVER!",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["7721"] = {    ["Title"]="Fuel for the Zapping",    ["Description"]="If I bet against my own better judgment and stay to run an engineering shop along the Forgotten Coast, I will need to deal with these pesky elementals.  Curse the powers of elementalism unchecked, I say!NEW_LINENEW_LINEFortunately for me, and now for you my hopeful agent provocateur, the elementals represent an ideal source of raw power for my Ultra-Shrinker refinement - give them the what-for I say!  When doing this though, be sure to save me the water elemental cores!",    ["Objectives"]="Collect 10 Water Elemental Cores from the Sea Elementals and Sea Sprays along the Forgotten Coast of Feralas, and bring them back to Zorbin Fandazzle who is near the dock there.",    ["Progress"]="While I could bore you with the technical details of the utility behind elemental cores, I will instead tempt you to completion of this important task by offering valuable coin and prizes for doing so.  Yon verily, are you finished?",    ["Completion"]="Scrumdillyriffic!  These cores will keep me working for some time.  Add to that the benefit of there now being fewer elementals along the coast, and I might no longer cry myself to sleep at the prospect of having set up shop in perhaps the worst place imaginable!NEW_LINENEW_LINEThank you, YOUR_NAME, for your efforts on my behalf.  While it certainly straps me financially to do this, allow me to show you some gratitude you may understand and appreciate... loot!",    ["minlevel"]="45",    ["questlevel"]="48"},
-
-	["7722"] = {    ["Title"]="What the Flux?",    ["Description"]="When that bastard, Maltorius, left our clan, he left with something more valuable than a pristine arcane crystal: Our recipe for fiery flux! I'd bet anything that the recipe was part of the deal in his new promotion amongst the Dark Irons.NEW_LINENEW_LINEI want you to get our secret plans back, YOUR_NAME. I'm sure they're somewhere near Maltorius, deep inside the Slag Pit.",    ["Objectives"]="Somewhere in the Slag Pit of the Cauldron you will find the Secret Plans: Fiery Flux that Overseer Maltorius stole. Find those plans and return them to Master Smith Burninate in the Searing Gorge.",    ["Progress"]="Did you find the plans?",    ["Completion"]="I hope you kicked his teeth in too, YOUR_NAME. Ragnaros knows, he deserved it.NEW_LINENEW_LINENow we can get down to business.",    ["minlevel"]="45",    ["questlevel"]="50"},
-
-	["7723"] = {    ["Title"]="Curse These Fat Fingers",    ["Description"]="Unfortunately, I can't dish out the beats like I used to, due to this here fat finger problem. Ye see, the climate out here combined with the lack o' air pressure makes me fingers expand. They're like gigantic Thelsamar Blood Sausages, they are...NEW_LINENEW_LINEYe're gonna have to carry out me orders of business and what have ye.NEW_LINENEW_LINEFirst on me agenda: Poundin' the livin' daylights out o' the heavy war golems o' the Gorge. Get crackin'.",    ["Objectives"]="Hansel Heavyhands wants you to kill 20 Heavy War Golems.NEW_LINENEW_LINEThe Heavy War Golems wander the areas surrounding the Cauldron in the Searing Gorge. When you've killed enough, return to Hansel in Searing Gorge.",    ["Progress"]="Did ye pound 'em?",    ["Completion"]="Ye're a good lad, ye are. I got ye a lil' present fer yer troubles.",    ["minlevel"]="45",    ["questlevel"]="49"},
-
-	["7724"] = {    ["Title"]="Fiery Menace!",    ["Description"]="Wouldn't ye know it, every time ol' Hansel wants to take a moment to relax and reflect upon his life, the powers that be give him another job.NEW_LINENEW_LINEMe gots to think, come on! Ye know what I be saying? Come. On.NEW_LINENEW_LINESo, these here greater lava spiders are causin' a ruckus o' some sort. Oilfist says they shoot fire out their... erm, yea well, anyway, such things upset the children.NEW_LINENEW_LINEI guess we gots to kill 'em. Rather, ye gots to kill 'em.",    ["Objectives"]="Hansel Heavyhands wants you to kill 20 Greater Lava Spiders in the Searing Gorge. You can find Greater Lava Spiders in the plateaus and lava pools of the Searing Gorge.NEW_LINENEW_LINEReturn to Hansel Heavyhands in the Searing Gorge when you have killed enough Greater Lava Spiders.",    ["Progress"]="Was he right? Does it come out their rumps?",    ["Completion"]="<Hansel sneezes.>NEW_LINENEW_LINEI think I'm gettin' a cold. Damn this frigid climate!",    ["minlevel"]="45",    ["questlevel"]="49"},
-
-	["7725"] = {    ["Title"]="Again With the Zapped Giants",    ["Description"]="I know you've gathered residue for me already... but should you find yourself for want of an encore performance to a fun-time activity, I can always use more residue.NEW_LINENEW_LINEWhile I can't offer nearly as much in the way of compensation again, I'll be more than happy to spread the good word of your service to all my goblin friends with ears.NEW_LINENEW_LINEBelieve me $g sir : madam; when I say that these goblins have quite large ears.",    ["Objectives"]="Use Zorbin's Ultra-Shrinker to zap any kind of giant found in Feralas into a more manageable form.  Bring 10 Miniaturization Residues found on the zapped versions of these giants to Zorbin Fandazzle at the docks of the Forgotten Coast, Feralas.",    ["Progress"]="Ah, the fruits of research and utilization in the form of sweet, sweet residue.  Well, that is to say, I don't taste it or anything when I study it.NEW_LINENEW_LINEMuch.",    ["Completion"]="Inconceivably fantastical, YOUR_NAME!  You've come through for me again, and for that I thank you.NEW_LINENEW_LINEThank you!NEW_LINENEW_LINEWhile you may find this coin to be a little less than you're accustomed to, rest assured your great deeds on the field of goblindom are echoing through the halls of power in the Steamwheedle Cartel.  Should you need something else to do, then by all means talk to me!",    ["minlevel"]="45",    ["questlevel"]="55"},
-
-	["7726"] = {    ["Title"]="Refuel for the Zapping",    ["Description"]="More work, you say?  Did my heroic mission of collecting bits of goo found inside elemental beings not slake your thirst for adventure?  Perhaps more of the same will vainly try to fill the bottomless well of questing you possess...NEW_LINENEW_LINEOK, melodrama aside, I do need more water elemental cores.  I'm trying desperately to set up shop here, so the rewards won't be as great... but I promise you I'll tell everyone in earshot how you've helped me.  Trust me on this - I know people in the Cartel!",    ["Objectives"]="Collect 6 Water Elemental Cores from the Sea Elementals and Sea Sprays along the Forgotten Coast of Feralas, and bring them back to Zorbin Fandazzle who is near the dock there.",    ["Progress"]="Have you managed to find the elemental cores I need?",    ["Completion"]="Top notch, YOUR_NAME, top notch!  While the coin I give you might not be the most you'll ever receive for such work, rest assured my comrades in the Steamwheedle Cartel will hear about your efforts!NEW_LINENEW_LINEIf you are looking for anything else to do, then let me know.  I can always use more elemental cores and such.",    ["minlevel"]="45",    ["questlevel"]="55"},
-
-	["7727"] = {    ["Title"]="Incendosaurs? Whateverosaur is More Like It",    ["Description"]="Bunions, $g lad:lass;. Me bunions got bunions. How am I supposed to do any sort of killin' with me feet in such disarray? That's why ye're gonna help.NEW_LINENEW_LINEScrange and Burninate tasked me to kill these things so they can send some expeditionary teams down into the Slag Pit lava pools to do some explorin'. Supposedly some incendosaurs or some such nonsense down there causin' all kinds o' problems. Now move along an' don't come back 'til the incendosaur population be extinct.",    ["Objectives"]="Hansel Heavyhands wants you to kill 20 Incendosaurs.NEW_LINENEW_LINEYou will find Incendosaurs occupying the lava pools inside the Slag Pit. The Slag Pit can be found in the Cauldron of the Searing Gorge.NEW_LINENEW_LINEReturn to Hansel Heavyhands in the Searing Gorge when you have killed enough Incendosaurs.",    ["Progress"]="<Hansel is busily rubbing his bunions.>NEW_LINENEW_LINEDon't just stand there, grab some oil and a luffa and get to scrubbin' these bunions.NEW_LINENEW_LINEYe don't have a luffa? Well then! Perhaps it's time I sent you out to find a luffa?%NEW_LINENEW_LINEHey, where are ye goin'?",    ["Completion"]="Oh me achin' feets.NEW_LINENEW_LINEI figured since ye didn't have a luffa...",    ["minlevel"]="45",    ["questlevel"]="49"},
-
-	["7728"] = {    ["Title"]="STOLEN: Smithing Tuyere and Lookout's Spyglass",    ["Description"]="The following items have been stolen:NEW_LINENEW_LINE*One Dark Iron Tuyere.NEW_LINENEW_LINE*One Lookout's Spyglass.NEW_LINENEW_LINEA reward is being offered to individuals who find and return these pilfered items.NEW_LINENEW_LINEThe Thorium Brotherhood is certain that these items were stolen by unscrupulous and jealous Dark Iron dwarves that inhabit the Searing Gorge.NEW_LINENEW_LINEThe spyglass in question was an excellent tool for the lookouts and the tuyere was an irreplaceable smithing tool.NEW_LINENEW_LINEShould you find the missing items, return them to Scrange.",    ["Objectives"]="Find and return the Smithing Tuyere and Lookout's Spyglass to Taskmaster Scrange in the Searing Gorge.NEW_LINENEW_LINEThe only information you have about these items is the following: They were definitely stolen by Dark Iron dwarves. The Smithing Tuyere is a blacksmithing tool used by blacksmiths and the Lookout's Spyglass is an invaluable monitoring tool to lookouts.",    ["Progress"]="If you're here for the reward, you're gonna have to give me the stolen goods.",    ["Completion"]="Fantastic work! Now for your reward.",    ["minlevel"]="45",    ["questlevel"]="48"},
-
-	["7729"] = {    ["Title"]="JOB OPPORTUNITY: Culling the Competition",    ["Description"]="Taskmaster Scrange is looking for a few good men and women to help 'cull the competition' in the Searing Gorge.NEW_LINENEW_LINEIf you are interested in this position, venture out into the Searing Gorge and slaughter every Dark Iron Taskmaster and Dark Iron Slaver that you see.NEW_LINENEW_LINEReturn to Taskmaster Scrange when your clothes are bloody enough.NEW_LINENEW_LINEYou'll know when they're bloody enough so don't ask.",    ["Objectives"]="Slay 15 Dark Iron Taskmasters and 15 Dark Iron Slavers. Return to Taskmaster Scrange in the Searing Gorge once you have accomplished this task.",    ["Progress"]="We're gonna need to weigh you with and without clothes to be sure.",    ["Completion"]="15.9 pounds! That may be a new record for blood and gut weight on apparel! Congratulations, $C!",    ["minlevel"]="45",    ["questlevel"]="48"},
-
-	["7730"] = {    ["Title"]="Zukk'ash Infestation",    ["Description"]="From what scouting we have managed to muster, we believe that the foe south of the gnolls is an insect-like race.  Frankly, it is irrelevant whether or not if they're sentient.  If they are driving the gnolls to frenzy against us, then they are as big of a threat - if not more - than the gnolls.NEW_LINENEW_LINEDrive deep into where these Zukk'ash insects dwell; it is known as the Writhing Deep.  Thin their numbers and report back to me what you find, bringing back their carapaces as evidence of your handiwork.",    ["Objectives"]="Bring 20 Zukk'ash Carapaces to Hadoken Swiftstrider at Camp Mojache, Feralas.",    ["Progress"]="How goes the hunt, YOUR_NAME?  Are you here to report your success?",    ["Completion"]="Well done, $C.  Though the extensiveness of the Zukk'ash presence will not be thwarted with anything less than a full-scale invasion, you have bought us some time so we can devise a proper strategy.NEW_LINENEW_LINEI will be sure to have these carapaces analyzed; we'll need to learn everything about them before we deal with what has unfortunately turned into a much larger issue than we had anticipated.",    ["minlevel"]="39",    ["questlevel"]="45"},
-
-	["7731"] = {    ["Title"]="Stinglasher",    ["Description"]="In surveying the Writhing Deep, one of our scouts reported seeing a giant insect - much larger than the other insects spotted - wandering about the twisted terrain.  Not only is it larger, it also seems to secrete some sort of aura that the other insects don't.  We've given it a name - Stinglasher.NEW_LINENEW_LINEThe innards of this beast would be invaluable to study as we figure out the best way to deal with this new threat.  Cut out its secretion glands and bring it back to me immediately!",    ["Objectives"]="Defeat Stinglasher in the Writhing Deep, bringing its glands back to Hadoken Swiftstrider at Camp Mojache, Feralas.",    ["Progress"]="Have you managed to bring down Stinglasher yet?",    ["Completion"]="Impressive, $C... most impressive!  If Stinglasher is indeed one of their strongest creatures, the study of the beast will prove to be quite valuable in time.  It's now my charge to make sure we defend ourselves long enough to take advantage of it.NEW_LINENEW_LINEPlease accept this coin bounty as a token of the entire camp's thanks, YOUR_NAME.  Well done.",    ["minlevel"]="39",    ["questlevel"]="47"},
-
-	["7732"] = {    ["Title"]="Zukk'ash Report",    ["Description"]="You've done doubly well in addressing the threat that the Zukk'ash insects pose to Camp Mojache.  The threat these things pose is far from over, and I'd like to ask you for one last task on behalf of the Horde.NEW_LINENEW_LINEThis is a document that details all the information we have learned about these Zukk'ash insects.  I want you to deliver it to Zilzibin Drumlore in the Drag of Orgrimmar.  He's an expert on alien creatures like these; I hope he can do something with the lore we've obtained.",    ["Objectives"]="Deliver the Camp Mojache Zukk'ash Report to Zilzibin Drumlore.  He resides in the Drag of Orgrimmar.",    ["Progress"]="Greetings friend... you look as though you are on urgent business.  Is there something I can help you with?",    ["Completion"]="Ah, I've been expecting this.  These creatures you faced... they are an ancient threat that the Horde continues to choose to ignore.  Hadoken was wise to bring this - and you - to me.NEW_LINENEW_LINEThe Zukk'ash are nothing more than creatures called the silithid.  Some would think that they are a mindless nuisance, but let me assure you - they are a far, far worse threat than anything the Alliance could muster.NEW_LINENEW_LINEIf you're willing and strong enough, I could use your aid in bringing this threat to light.",    ["minlevel"]="39",    ["questlevel"]="48"},
-
-	["7733"] = {    ["Title"]="Improved Quality",    ["Description"]="I have a lead on an even BETTER source of hides, if that's even possible to believe!  In the northern parts of Feralas - deep within Rage Scar Hold - are another throng of yetis.  They're much tougher than the ones you dealt with before, so if you're up for a bigger challenge you'd best be on your toes!NEW_LINENEW_LINEI would reward you handsomely for a stack of ten of their hides; bring them to me here, and we'll finish our business.",    ["Objectives"]="Bring 10 Rage Scar Yeti Hides to Pratt McGrubben at Feathermoon Stronghold, Feralas.",    ["Progress"]="If these Rage Scar yeti hides are anything like the quality displayed by their Feral Scar counterparts, they could very well be as resilient as thorium!NEW_LINENEW_LINEImagine that!",    ["Completion"]="Excellent, excellent!  These are going to work out incredibly well - I can already tell that they're going to be much harder when properly cured.NEW_LINENEW_LINEThanks again for your help YOUR_NAME.  Here - please take one of my latest creations.",    ["minlevel"]="40",    ["questlevel"]="48"},
-
-	["7734"] = {    ["Title"]="Improved Quality",    ["Description"]="I have a lead on an even BETTER source of hides, if that's even possible to believe!  In the northern parts of Feralas - deep within Rage Scar Hold - are another throng of yetis.  They're much tougher than the ones you dealt with before, so if you're up for a bigger challenge you'd best be on your toes!NEW_LINENEW_LINEI would reward you handsomely for a stack of ten of their hides; bring them to me here, and we'll finish our business.",    ["Objectives"]="Bring 10 Rage Scar Yeti Hides to Jangdor Swiftstrider at Camp Mojache, Feralas.",    ["Progress"]="If these Rage Scar yeti hides are anything like the quality displayed by their Feral Scar counterparts, they could very well be as resilient as thorium!NEW_LINENEW_LINEImagine that!",    ["Completion"]="Excellent, excellent!  These are going to work out incredibly well - I can already tell that they're going to be much harder when properly cured.NEW_LINENEW_LINEThanks again for your aid, YOUR_NAME.  Here - please take one of my latest creations.",    ["minlevel"]="40",    ["questlevel"]="48"},
-
-	["7735"] = {    ["Title"]="Pristine Yeti Hide",    ["Description"]="You have found a pristine yeti hide that is exceptionally thick and sturdy - more so than even the ones you've seen from the yeti in Rage Scar.NEW_LINENEW_LINEConsidering that Pratt McGrubben at the Feathermoon Stronghold is in the market for yeti hides, this particular one may be of considerable interest to him.",    ["Objectives"]="Bring the Pristine Yeti Hide to Pratt McGrubben at the Feathermoon Stronghold, Feralas.",    ["Progress"]="What's this, YOUR_NAME - you've got something special for me?",    ["Completion"]="Incredible!  You may have found the granddaddy of all yeti hides with this!NEW_LINENEW_LINEYou better believe I'll pay you for it.  I normally don't pay that much for a single hide, but I'm pretty sure I can make something special from it.  Thanks for thinking of me on this, YOUR_NAME!",    ["minlevel"]="40",    ["questlevel"]="48"},
-
-	["7737"] = {    ["Title"]="Gaining Acceptance",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="You've worked your way up through the Brotherhood's corporate hierarchy, YOUR_RACE. We have begun to look favorably upon you. Quite an accomplishment!NEW_LINENEW_LINEIf you're interested in more work and earning more respect amongst us, listen up.NEW_LINENEW_LINEWe can refine the fiery flux by adding a simple Dark Iron residue to the mix. The Dark Iron residue can be found in Blackrock Depths.",    ["Completion"]="Keep the residue pouring in!",    ["minlevel"]="45",    ["questlevel"]="60"},
-
-	["8241"] = {    ["Title"]="Restoring Fiery Flux Supplies via Iron",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="Let's not waste more of my precious time with jibber jabber, YOUR_RACE. It's time to focus on replenishing our dwindling fiery flux supply.NEW_LINENEW_LINEWhat I'm gonna need from you is the following:NEW_LINENEW_LINE*Incendosaur scales.NEW_LINENEW_LINE*Iron bars.NEW_LINENEW_LINE*Coal.NEW_LINENEW_LINEI'll take all that you can offer!NEW_LINENEW_LINEAnd you'll do it fast if you wanna get in good with the Brotherhood.",    ["Completion"]="There's always room for more fiery flux, junior. Keep it comin'... unless I tell you to stop.",    ["minlevel"]="45",    ["questlevel"]="60"},
-
-	["7738"] = {    ["Title"]="Perfect Yeti Hide",    ["Description"]="You have found what may very well be a perfect yeti hide.  You easily note that it is exceptionally thick and sturdy - more so than even the ones you've seen from the yeti in Rage Scar.NEW_LINENEW_LINEConsidering that Jangdor Swiftstrider at Camp Mojache is in the market for yeti hides, this particular one may be of considerable interest to him.",    ["Objectives"]="Bring the Perfect Yeti Hide to Jangdor Swiftstrider at Camp Mojache, Feralas.",    ["Progress"]="What's this, YOUR_NAME - you've got something special for me?",    ["Completion"]="This is an incredible find! I believe this is the finest yeti hide specimen I have ever seen!NEW_LINENEW_LINEIndeed, this is certainly worthy of an appropriate bounty. I normally don't pay that much for a single hide, but I'm confident I can make something special from it. Thanks for thinking of me on this, YOUR_NAME!",    ["minlevel"]="40",    ["questlevel"]="48"},
-
-	["7761"] = {    ["Title"]="Blackhand's Command",    ["Description"]="Imbecile,NEW_LINENEW_LINEI hold very little faith in your ability to prevent outsiders from accessing the master's lair. In the very likely event of your death, this orb has its own failsafe built in to prevent outsiders from teleporting directly into Blackwing.NEW_LINENEW_LINEOnly those with the Mark of Drakkisath branded upon their hand may make use of this orb. Thankfully, Drakkisath is not nearly as incompetent as you, Quartermaster. He guards the brand himself!NEW_LINENEW_LINE-Warchief Rend BlackhandNEW_LINENEW_LINEP.S. Destroy this letter, idiot.",    ["Objectives"]="That is one stupid orc. It would appear as if you need to find this brand and gain the Mark of Drakkisath in order to access the Orb of Command.NEW_LINENEW_LINEThe letter indicates that General Drakkisath guards the brand. Perhaps you should investigate.",    ["Progress"]="",    ["Completion"]="You don't even flinch as the smoldering brand is pressed into your flesh. You are so tough!NEW_LINENEW_LINEYou now hold the Mark of Drakkisath. Have fun storming the castle.",    ["minlevel"]="55",    ["questlevel"]="60"},
-
-	["7785"] = {    ["Title"]="Examine the Vessel",    ["Description"]="Examine the vessel of his rebirth, mortal. It is from this that the Windseeker shall be reborn!",    ["Objectives"]="Examine the Vessel of Rebirth and return it to Highlord Demitrian.",    ["Progress"]="Will you release him from his eternal prison?",    ["Completion"]="May you be protected in your crusade. May the Master bless your efforts.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["7787"] = {    ["Title"]="Rise, Thunderfury!",    ["Description"]="You have defeated the Wind Seeker. Take the dormant blade and force the lying wretch, Demitrian, to use the materials you provided for his betrayal to wake Thunderfury.",    ["Objectives"]="Present the Dormant Wind Kissed Blade to Highlord Demitrian.",    ["Progress"]="<Demitrian cowers in your presence.>",    ["Completion"]="Please do not harm me! Take it! Take the blade! Leave Demitrian to reshape his pathetic life!",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8397"] = {    ["Title"]="Claiming Arathi Basin",    ["Description"]="Winning a war is about more than just outsmarting and outfighting your opponent. Victory often comes down to simply producing more than your enemy.NEW_LINENEW_LINEWhat we have in Arathi Basin is a sizeable supply of resources for whichever side manages to claim it first.NEW_LINENEW_LINEIf the Alliance comes out victorious, it'll mean more swords and pikes for our troops. If the Horde were to win, those swords and pikes would still get made, they'd just be pointed at us! Now is the time to help the Alliance in Arathi Basin, YOUR_NAME.",    ["Objectives"]="Bring 3 Arathi Basin Marks of Honor to an Alliance Brigadier General outside the battlegrounds.",    ["Progress"]="The war against the Horde is quickly depleting our supplies, YOUR_NAME.  It is vital to maintain control of Arathi Basin to keep the stream of resources flowing!  Have you lent a hand in Arathi yet?",    ["Completion"]="Excellent work, $C!  Your efforts will help provide the Alliance with the resources it needs.",    ["minlevel"]="50",    ["questlevel"]="59"},
-
-	["8396"] = {    ["Title"]="Claiming Arathi Basin",    ["Description"]="Winning a war is about more than just outsmarting and outfighting your opponent.  Victory often comes down to simply producing more than your enemy.NEW_LINENEW_LINEWhat we have in Arathi Basin is a sizeable supply of resources for whichever side manages to claim it first.NEW_LINENEW_LINEIf the Alliance comes out victorious, it'll mean more swords and pikes for our troops.  If the Horde were to win, those swords and pikes would still get made, they'd just be pointed at us!  Now is the time to help the Alliance in Arathi Basin, YOUR_NAME.",    ["Objectives"]="Bring 3 Arathi Basin Marks of Honor to an Alliance Brigadier General outside the battlegrounds.",    ["Progress"]="Tell me, what are the news from the front?",    ["Completion"]="Good work, soldier! Keep it up and we'll have the Horde running all the way back to Orgrimmar.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8395"] = {    ["Title"]="Claiming Arathi Basin",    ["Description"]="Winning a war is about more than just outsmarting and outfighting your opponent.  Victory often comes down to simply producing more than your enemy.NEW_LINENEW_LINEWhat we have in Arathi Basin is a sizeable supply of resources for whichever side manages to claim it first.NEW_LINENEW_LINEIf the Alliance comes out victorious, it'll mean more swords and pikes for our troops.  If the Horde were to win, those swords and pikes would still get made, they'd just be pointed at us!  Now is the time to help the Alliance in Arathi Basin, YOUR_NAME.",    ["Objectives"]="Bring 3 Arathi Basin Marks of Honor to an Alliance Brigadier General outside the battlegrounds.",    ["Progress"]="Tell me, what are the news from the front?",    ["Completion"]="Good work, soldier! Keep it up and we'll have the Horde running all the way back to Orgrimmar.",    ["minlevel"]="50",    ["questlevel"]="59"},
-
-	["8394"] = {    ["Title"]="Claiming Arathi Basin",    ["Description"]="Winning a war is about more than just outsmarting and outfighting your opponent.  Victory often comes down to simply producing more than your enemy.NEW_LINENEW_LINEWhat we have in Arathi Basin is a sizeable supply of resources for whichever side manages to claim it first.NEW_LINENEW_LINEIf the Alliance comes out victorious, it'll mean more swords and pikes for our troops.  If the Horde were to win, those swords and pikes would still get made, they'd just be pointed at us!  Now is the time to help the Alliance in Arathi Basin, YOUR_NAME.",    ["Objectives"]="Bring 3 Arathi Basin Marks of Honor to an Alliance Brigadier General outside the battlegrounds.",    ["Progress"]="Tell me, what are the news from the front?",    ["Completion"]="Good work, soldier! Keep it up and we'll have the Horde running all the way back to Orgrimmar.",    ["minlevel"]="40",    ["questlevel"]="49"},
-
-	["8393"] = {    ["Title"]="Claiming Arathi Basin",    ["Description"]="Winning a war is about more than just outsmarting and outfighting your opponent.  Victory often comes down to simply producing more than your enemy.NEW_LINENEW_LINEWhat we have in Arathi Basin is a sizeable supply of resources for whichever side manages to claim it first.NEW_LINENEW_LINEIf the Alliance comes out victorious, it'll mean more swords and pikes for our troops.  If the Horde were to win, those swords and pikes would still get made, they'd just be pointed at us!  Now is the time to help the Alliance in Arathi Basin, YOUR_NAME.",    ["Objectives"]="Bring 3 Arathi Basin Marks of Honor to an Alliance Brigadier General outside the battlegrounds.",    ["Progress"]="Tell me, what are the news from the front?",    ["Completion"]="Good work, soldier! Keep it up and we'll have the Horde running all the way back to Orgrimmar.",    ["minlevel"]="30",    ["questlevel"]="39"},
-
-	["8392"] = {    ["Title"]="Claiming Arathi Basin",    ["Description"]="Winning a war is about more than just outsmarting and outfighting your opponent. Victory often comes down to simply producing more than your enemy.NEW_LINENEW_LINEWhat we have in Arathi Basin is a sizeable supply of resources for whichever side manages to claim it first.NEW_LINENEW_LINEIf the Alliance comes out victorious, it'll mean more swords and pikes for our troops. If the Horde were to win, those swords and pikes would still get made, they'd just be pointed at us! Now is the time to help the Alliance in Arathi Basin, YOUR_NAME.",    ["Objectives"]="Bring 3 Arathi Basin Marks of Honor to an Alliance Brigadier General outside the battlegrounds.",    ["Progress"]="The war against the Horde is quickly depleting our supplies, YOUR_NAME.  It is vital to maintain control of Arathi Basin to keep the stream of resources flowing!  Have you lent a hand in Arathi yet?",    ["Completion"]="Excellent work, $C!  Your efforts will help provide the Alliance with the resources it needs.",    ["minlevel"]="40",    ["questlevel"]="49"},
-
-	["8391"] = {    ["Title"]="Claiming Arathi Basin",    ["Description"]="Winning a war is about more than just outsmarting and outfighting your opponent. Victory often comes down to simply producing more than your enemy.NEW_LINENEW_LINEWhat we have in Arathi Basin is a sizeable supply of resources for whichever side manages to claim it first.NEW_LINENEW_LINEIf the Alliance comes out victorious, it'll mean more swords and pikes for our troops. If the Horde were to win, those swords and pikes would still get made, they'd just be pointed at us! Now is the time to help the Alliance in Arathi Basin, YOUR_NAME.",    ["Objectives"]="Bring 3 Arathi Basin Marks of Honor to an Alliance Brigadier General outside the battlegrounds.",    ["Progress"]="Tell me, what are the news from the front?",    ["Completion"]="Good work, soldier! Keep it up and we'll have the Horde running all the way back to Orgrimmar.",    ["minlevel"]="30",    ["questlevel"]="39"},
-
-	["8390"] = {    ["Title"]="Conquering Arathi Basin",    ["Description"]="Our conflict with the Alliance has escalated to a true war. No longer are false pretenses to enter into battle used or expected by either side at this point.NEW_LINENEW_LINEThe battle for the Arathi Basin is one of resources, plain and simple. Either the Alliance gets the resources and uses them against us or we get them and use them to keep our war efforts going. Help the Defilers maintain the flow of resources we need, YOUR_NAME!",    ["Objectives"]="Bring 3 Arathi Basin Mark of Honor to a Horde Warbringer outside the battlegrounds.",    ["Progress"]="The war against the Alliance scum demands resources, YOUR_NAME! We cannot allow our stockpiles to run dry in the middle of a battle.  Continue to ensure Arathi Basin remains in our hands!",    ["Completion"]="Securing our resources in Arathi is an important task! You've done well, YOUR_NAME.",    ["minlevel"]="20",    ["questlevel"]="29"},
-
-	["7815"] = {    ["Title"]="Snapjaws, Mon!",    ["Description"]="Don't let their big eyes fool you, mon! Those saltwater snapjaws be a menace. I can't fish for five minutes without getting a broken line from one of those oversized fish vacuums stealing my bait.NEW_LINENEW_LINEDo me and the people of Revantusk Village a service and kill em, mon.NEW_LINENEW_LINEKill the whole lot of em!",    ["Objectives"]="Katoom the Angler at Revantusk Village in the Hinterlands wants you to kill 15 Saltwater Snapjaw turtles. Return to him when you have completed this task.",    ["Progress"]="How goes the hunt?",    ["Completion"]="Oh, mon! I can't thank you enough! Hopefully this here fishing pole will be reward enough for the job.",    ["minlevel"]="44",    ["questlevel"]="50"},
-
-	["7816"] = {    ["Title"]="Gammerita, Mon!",    ["Description"]="Yo! There be a turtle out there not like the others. She be the Gammerita, leader of the saltwater snapjaws - a downright dirty thievin' reptile.NEW_LINENEW_LINEMon, she stole my best lure. Snapped it right off my line! Since then, the fish just aren't biting the same.NEW_LINENEW_LINEFind Gammerita and get my lure out of her stomach.",    ["Objectives"]="Katoom the Angler at Revantusk Village in the Hinterlands wants you to kill Gammerita and retrieve Katoom's Best Lure from her corpse.NEW_LINENEW_LINEKatoom mentioned that Gammerita hangs out on the coast with the other turtles.",    ["Progress"]="Did you get it yet?",    ["Completion"]="MON! This is fantastic! With my best lure and the snapjaw population down, the fish will pile up.",    ["minlevel"]="44",    ["questlevel"]="48"},
-
-	["8385"] = {    ["Title"]="Concerted Efforts",    ["Description"]="Ah, YOUR_NAME. I hope you continue to lend your experience to the different battlefronts. A lot of our lads and lasses in the field look up to seasoned veterans like you.",    ["Objectives"]="Bring 3 Alterac Valley Mark of Honor, 3 Arathi Basin Mark of Honor and 3 Warsong Gulch Mark of Honor to an Alliance Brigadier General outside the battlegrounds.",    ["Progress"]="Ah, YOUR_NAME.  I hope you continue to lend your experience to the different battlefronts.  A lot of our lads and lasses in the field look up to seasoned veterans like you.",    ["Completion"]="You live up to yer reputation, YOUR_NAME. Without people like you, the Alliance wouldn't stand a chance against the savage forces of the Horde.",    ["minlevel"]="51",    ["questlevel"]="60"},
-
-	["8386"] = {    ["Title"]="Fight for Warsong Gulch",    ["Description"]="The Silverwing Sentinels are at war with the Warsong Outriders due to the destruction the Orcs are causing to the forest. There are, however, more reasons to defend this particular forest than plain love for nature.NEW_LINENEW_LINEThe forest forms a strategic barrier that makes Ashenvale defendable against a large-scale attack. Without it, Astranaar would last a day or two before being annexed to the Barrens.NEW_LINENEW_LINEDo your part in fighting the Warsong Outriders, YOUR_NAME! For the Alliance!",    ["Objectives"]="Bring 3 Warsong Gulch Marks of Honor to an Alliance Brigadier General outside the battlegrounds.",    ["Progress"]="You've come back with news from the front, YOUR_NAME?",    ["Completion"]="Well done, YOUR_NAME! You've served the Alliance well.",    ["minlevel"]="1",    ["questlevel"]="19"},
-
-	["8384"] = {    ["Title"]="Claiming Arathi Basin",    ["Description"]="Winning a war is about more than just outsmarting and outfighting your opponent. Victory often comes down to simply producing more than your enemy.NEW_LINENEW_LINEWhat we have in Arathi Basin is a sizeable supply of resources for whichever side manages to claim it first.NEW_LINENEW_LINEIf the Alliance comes out victorious, it'll mean more swords and pikes for our troops. If the Horde were to win, those swords and pikes would still get made, they'd just be pointed at us! Now is the time to help the Alliance in Arathi Basin, YOUR_NAME.",    ["Objectives"]="Bring 3 Arathi Basin Marks of Honor to an Alliance Brigadier General outside the battlegrounds.",    ["Progress"]="Tell me, what are the news from the front?",    ["Completion"]="Good work, soldier! Keep it up and we'll have the Horde running all the way back to Orgrimmar.",    ["minlevel"]="20",    ["questlevel"]="29"},
-
-	["7828"] = {    ["Title"]="Stalking the Stalkers",    ["Description"]="Many brave trolls have been lost to the harsh wilds of the Hinterlands, YOUR_RACE. The Silvermane wolves are one of the biggest threats to our hunters. They lay in wait, hiding amongst the bushes and landscape, then strike out when the opportunity presents itself.NEW_LINENEW_LINEThis type of ferocity will not go unchecked!NEW_LINENEW_LINEYou must think like the Silvermane. Stalk the stalkers! Slay them all!",    ["Objectives"]="Huntsman Markhor at Revantusk Village in the Hinterlands wants you to kill 15 Silvermane Stalkers and 15 Silvermane Howlers. Return to him once the task is complete.NEW_LINENEW_LINEMarkhor mentioned that the wolves hide in the wilds of the Hinterlands.",    ["Progress"]="Show them the might of Revantusk!",    ["Completion"]="A job well done, YOUR_RACE. The Revantusk thank you for your contribution.",    ["minlevel"]="44",    ["questlevel"]="48"},
-
-	["7829"] = {    ["Title"]="Hunt the Savages",    ["Description"]="Among the more ornery of the wildlife of the Hinterlands are the savage owlbeasts. Many a good Revantusk warrior has been lost to the ferocious claws and beak of the beasts.NEW_LINENEW_LINEKill every savage owlbeast you see, YOUR_RACE. Return to me when you can stand no more bloodshed. Your contribution will then be weighed, measured, and judged.",    ["Objectives"]="Huntsman Markhor at Revantusk Village in the Hinterlands wants you to kill 20 Savage Owlbeasts. Return to him once the task is complete.NEW_LINENEW_LINEMarkhor mentioned that the Savage Owlbeasts occupy the wilds of the Hinterlands.",    ["Progress"]="Clear your head of impure thoughts, YOUR_RACE. Become one with the wilds!",    ["Completion"]="You have proven a worthy ally to the Revantusk, YOUR_NAME. Well done.",    ["minlevel"]="44",    ["questlevel"]="48"},
-
-	["7830"] = {    ["Title"]="Avenging the Fallen",    ["Description"]="The filth that calls itself Wildhammer trains gryphon to slay troll. Horrible, I know, but worry not, justice will soon be meted out.NEW_LINENEW_LINEFor now, I want you to focus on eradicating the elder gryphons of the region. They are known as Skylords.NEW_LINENEW_LINESlay one and return to me with its plume.",    ["Objectives"]="Huntsman Markhor at Revantusk Village in the Hinterlands wants you to kill a Razorbeak Skylord and retrieve its Skylord Plume. Return to him once the task is complete.NEW_LINENEW_LINEMarkhor mentioned that the Razorbeak Skylord are a rare breed that tend to occupy the wilds of the Hinterlands.",    ["Progress"]="The Razorbeak Skylord is a much rarer breed of gryphon: One responsible for mating and creating murderous offspring.",    ["Completion"]="<Markhor examines the plume.>NEW_LINENEW_LINEI wonder how many of our hunters this beast devoured before you brought it to justice.",    ["minlevel"]="44",    ["questlevel"]="48"},
-
-	["8374"] = {    ["Title"]="Claiming Arathi Basin",    ["Description"]="Winning a war is about more than just outsmarting and outfighting your opponent.  Victory often comes down to simply producing more than your enemy.NEW_LINENEW_LINEWhat we have in Arathi Basin is a sizeable supply of resources for whichever side manages to claim it first.NEW_LINENEW_LINEIf the Alliance comes out victorious, it'll mean more swords and pikes for our troops.  If the Horde were to win, those swords and pikes would still get made, they'd just be pointed at us!  Now is the time to help the Alliance in Arathi Basin, YOUR_NAME.",    ["Objectives"]="Bring 3 Arathi Basin Marks of Honor to an Alliance Brigadier General outside the battlegrounds.",    ["Progress"]="Tell me, what are the news from the front?",    ["Completion"]="Good work, soldier! Keep it up and we'll have the Horde running all the way back to Orgrimmar.",    ["minlevel"]="20",    ["questlevel"]="29"},
-
-	["7838"] = {    ["Title"]="Arena Grandmaster",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="Avast Lubber!   Bring me 12 trinkets of the Arena Master and then ye shall be a Grandmaster of the Gurubashi Arena!   Arrrr!",    ["Completion"]="Much blood have you spilt on the Arena floor and I be glad to name you Grandmaster of the Arena!",    ["minlevel"]="0",    ["questlevel"]="55"},
-
-	["7839"] = {    ["Title"]="Vilebranch Hooligans",    ["Description"]="Vilebranch scum invaded our village and stole my tools! I have backup tools but the set they stole was a gift given to me by a kind hearted gnome that saved my life when I was a young orc.NEW_LINENEW_LINEI want those tools back, YOUR_NAME - they mean the world to me.NEW_LINENEW_LINEMarkhor reported that the tools were spotted near the Agol'watha and Shaol'watha temples.NEW_LINENEW_LINEThose temples are in the northeastern region of the Hinterlands.NEW_LINENEW_LINERecover my tools!",    ["Objectives"]="Smith Slagtree at Revantusk Village in the Hinterlands wants you to find Slagtree's Lost Tools. Return to him once this task is complete.NEW_LINENEW_LINEYou recall Smith Slagtree mentioning that the tools might be at one of the Vilebranch temples in the northeastern region of the Hinterlands. You should also check Skulk Rock.",    ["Progress"]="Watch out for the Vilebranch trolls of the region, YOUR_NAME. They are ruthless, murderous filth.",    ["Completion"]="My tools! You found them! Oh glorious day! Thank you, YOUR_NAME.",    ["minlevel"]="44",    ["questlevel"]="48"},
-
-	["7840"] = {    ["Title"]="Lard Lost His Lunch",    ["Description"]="Lard was at secret special spot having picnic when ugly mean Vilebranch hit Lard wit da big stick. Lard run back to Revantusk but forget Lard lunch. Lard hungry. Maybe you go back to secret special spot and get Lard lunch? Lard scared. Go nort! Island der to da nort is da secret special spot.",    ["Objectives"]="Lard at Revantusk Village in the Hinterlands wants you to find Lard's Lunch. Return to him when this task is complete.NEW_LINENEW_LINELard mentioned that he left it on the island to the north. Watch out for Vilebranch trolls.",    ["Progress"]="<Lard rubs his enormous belly.>NEW_LINENEW_LINELard so hungry.",    ["Completion"]="<Lard takes the huge haunch of meat from you and stuffs it in his face.>NEW_LINENEW_LINEDis hit da spot! Tanks little one.NEW_LINENEW_LINELard make you special picnic basket for help Lard.",    ["minlevel"]="44",    ["questlevel"]="49"},
-
-	["7841"] = {    ["Title"]="Message to the Wildhammer",    ["Description"]="The Wildhammer be striking up deals with our enemies, forgin' new alliances. This time, they be workin' with the high elves, mon.NEW_LINENEW_LINE<Otho spits.>NEW_LINENEW_LINEWe be needin' to send those Wildhammer dwarves a message - a message in the blood of our enemies. Slaughter every Highvale high elf that you come across, leave their bodies as a warnin'.NEW_LINENEW_LINENever mess with trolls!",    ["Objectives"]="Otho Moji'ko at Revantusk Village in the Hinterlands wants you to slaughter 15 Highvale Outrunners, 15 Highvale Scouts, 15 Highvale Marksman and 15 Highvale Rangers. Return to him when this task is complete.NEW_LINENEW_LINEYou can find the Highvale high elves at the Quel'Danil Lodge in the northwestern region of the Hinterlands.",    ["Progress"]="You be too clean, mon. You gotta mix it up - get down and dirty with the enemy.",    ["Completion"]="It be lookin' like the Revantusk are forgin' new alliances as well, mon! You done good.",    ["minlevel"]="44",    ["questlevel"]="48"},
-
-	["7842"] = {    ["Title"]="Another Message to the Wildhammer",    ["Description"]="They say the Wildhammer and gryphon are as close to each other as troll and mate. Disgusting, but we be able to use this to our advantage, mon. We send them another message.NEW_LINENEW_LINEKill all the gryphons you see in the Hinterlands, collect their feathers. From this we make the final message.",    ["Objectives"]="Otho Moji'ko at Revantusk Village in the Hinterlands wants you to bring him 10 Long Elegant Feathers from the gryphons that inhabit the Hinterlands. Return to him once this task is complete.NEW_LINENEW_LINEGryphons are known to inhabit every region of the Hinterlands.",    ["Progress"]="The last message gonna scare them off for sure. Either that or make them very, very angry.",    ["Completion"]="Oh, mon, this gonna be good. One more step to go and Wildhammer see that they can't mess with troll!",    ["minlevel"]="44",    ["questlevel"]="48"},
-
-	["7843"] = {    ["Title"]="The Final Message to the Wildhammer",    ["Description"]="<Otho hands you a long, blood drenched spear, wrapped in several gryphon feathers.>NEW_LINENEW_LINEYou take this, mon. You take this to Aerie Peak, dead center of town by the well. You plant it! Drive it right into the ground! Show those dwarves that troll mean business! Come back when you do this. Hopefully you come back alive.",    ["Objectives"]="Otho Moji'ko at Revantusk Village in the Hinterlands wants you to travel to Aerie Peak in the western region of the Hinterlands and place the Final Message to the Wildhammer by the well in the center of town. Return to him once this task is complete.NEW_LINENEW_LINEBeware of angry Wildhammer dwarves and unruly members of the Alliance.",    ["Progress"]="What's the hold up, mon?",    ["Completion"]="I wish I coulda been there to see the look on their faces, mon. Are they packing up their bags? Leavin' town?NEW_LINENEW_LINEYou done good, YOUR_NAME. Real good. Otho reward you with the big mojo.",    ["minlevel"]="44",    ["questlevel"]="50"},
-
-	["7844"] = {    ["Title"]="Cannibalistic Cousins",    ["Description"]="Three different tribes of trolls inhabit the Hinterlands, YOUR_NAME. That is about as far as the similarities between the tribes extends: We are all trolls and we live in the Hinterlands.NEW_LINENEW_LINEThe Vilebranch - aptly named - are a depraved lot; feeding on other trolls and humanoids.NEW_LINENEW_LINEIf Zul'jin were here, he would have destroyed the whole lot of them with a flick of his wrist - alas, Zul'jin has not yet returned and we are left to our own devices.NEW_LINENEW_LINEIt is up to you to destroy the filth of the region!",    ["Objectives"]="Mystic Yayo'jin at Revantusk Village in the Hinterlands wants you to kill 30 Vilebranch Scalpers and 15 Vilebranch Soothsayers. Return to her when this task is complete.NEW_LINENEW_LINEYayo'jin indicated that these trolls could be found near the Shaol'watha and Agol'watha temples in the north by northeastern region of the Hinterlands.",    ["Progress"]="The Vilebranch Soothsayers and Scalpers inhabit the north by northeast region of the Hinterlands.",    ["Completion"]="Well done, $C. Zul'jin himself could not have done a better job!",    ["minlevel"]="44",    ["questlevel"]="48"},
-
-	["7845"] = {    ["Title"]="Kidnapped Elder Torntusk!",    ["Description"]="My mate was taken by Vilebranch savages in a bold midnight raid on our village. Our spies have told me that he is still alive and being held prisoner atop Jintha'alor. The Vile Priestess Hexx is said to be preparing him for a sacrifice to the faceless blood God, Hakkar.NEW_LINENEW_LINEYou must save him, YOUR_NAME! Our village could not stand a loss this great.",    ["Objectives"]="Primal Torntusk at Raventusk Village in the Hinterlands wants you to rescue her mate, Elder Torntusk, from Jintha'alor.NEW_LINENEW_LINEYou have been told that he is being held prisoner atop Jintha'alor, the Vilebranch capital city located in the southern region of the Hinterlands.",    ["Progress"]="",    ["Completion"]="You must act quickly, YOUR_NAME. Surely the guards have been alerted to your presence.",    ["minlevel"]="46",    ["questlevel"]="51"},
-
-	["7846"] = {    ["Title"]="Recover the Key!",    ["Description"]="The key to my bindings is held by Hitah'ya the Keeper. She is in the nearby cave. Be careful, $c, for she is guarded well.NEW_LINENEW_LINEKill her and bring the key back to loosen my shackles. Only then will I be free to return home.",    ["Objectives"]="Elder Torntusk at Jintha'alor wants you to kill Hitah'ya the Keeper to get the Shackle Key to his bindings. Return to Elder Torn'tusk when you have recovered the key.",    ["Progress"]="You must hurry!",    ["Completion"]="Freedom at last! Thank you, YOUR_NAME. Revantusk will know your deeds!",    ["minlevel"]="46",    ["questlevel"]="51"},
-
-	["7847"] = {    ["Title"]="Return to Primal Torntusk",    ["Description"]="Return to my mate, Primal Torntusk at Revantusk Village. Tell her that I am coming home! She is sure to reward you.",    ["Objectives"]="Elder Torntusk at Jintha'alor wants you to return to Primal Torntusk at Revantusk Village with news of his rescue.",    ["Progress"]="",    ["Completion"]="You have done the Revantusk a great service, YOUR_NAME! We owe you a great debt of gratitude.",    ["minlevel"]="46",    ["questlevel"]="51"},
-
-	["7848"] = {    ["Title"]="Attunement to the Core",    ["Description"]="Rifts stir, tear, and collapse all around us, YOUR_RACE. Not two paces from where I stand is a tear leading through the depths of Blackrock Mountain, into the maw of the Firelord.NEW_LINENEW_LINESurprised? Pity... The mortal races cannot comprehend that which they cannot see, touch, or feel.NEW_LINENEW_LINEI assure you, the portal is there and access is possible.NEW_LINENEW_LINEI've piqued your interest? Attunement is simple. Venture into Blackrock Depths and retrieve a core fragment. Return it to me and I shall attune your essence with the portal.",    ["Objectives"]="Venture to the Molten Core entry portal in Blackrock Depths and recover a Core Fragment. Return to Lothos Riftwaker in Blackrock Mountain when you have recovered the Core Fragment.",    ["Progress"]="You must attune your soul with the Molten Core before access is granted.",    ["Completion"]="I am now able to transport you to the Molten Core. Ask and it shall be done.",    ["minlevel"]="55",    ["questlevel"]="60"},
-
-	["7849"] = {    ["Title"]="Separation Anxiety",    ["Description"]="Like many in our village, I too have lost a loved one to the wilds. Alas, it was my twin brother Malkhor - taken in the same raid as Torntusk's mate by the Vilebranch.NEW_LINENEW_LINESadly, he was not fated to live and was given a swift, brutal execution; his remains fed to the oozes and wolves of the Vilebranch.NEW_LINENEW_LINEIt is too late to save his life but not too late to save his soul. Recover his remains, YOUR_NAME.",    ["Objectives"]="Huntsman Markhor at Revantusk Village in the Hinterlands wants you to recover his twin brother's remains. Find and return Huntsman Malkhor's Skull and Huntsman Malkhor's Bones to Huntsman Markhor.NEW_LINENEW_LINEMarkhor mentioned that his brother's remains were fed to the oozes and wolves of the Vilebranch. He also mentioned that there is a refuse pit filled with oozes in Jintha'alor as well as a wolf den. Both of these places are near the top of the temple.",    ["Progress"]="When I have his remains, I shall take them to Yayo'jin and have them prepared for a proper burial.",    ["Completion"]="My dearest brother, how I will miss you...NEW_LINENEW_LINEThank you for your assistance, YOUR_NAME. You are truly a hero in my eyes.",    ["minlevel"]="46",    ["questlevel"]="50"},
-
-	["7850"] = {    ["Title"]="Dark Vessels",    ["Description"]="The Vilebranch fight with supernatural ferocity. This is due to the foul magical weavings of the Vile Priestess Hexx.NEW_LINENEW_LINEThroughout Jintha'alor you will find dark vessels of tainted blood. The vessels radiate the foul magic of the faceless blood God, empowering the Vilebranch and also driving them to madness.NEW_LINENEW_LINESteal those vessels and return them to me so that I may remove the taint and ultimately loosen the grip of the blood God.",    ["Objectives"]="Primal Torntusk at Revantusk Village in the Hinterlands wants you to recover 10 Vessels of Tainted Blood from Jintha'alor. Return to Primal Torntusk when this task is complete.",    ["Progress"]="Be cautious in battling the Vilebranch, YOUR_NAME. Their minds are clouded - they fight to the death.",    ["Completion"]="The dark energy that compels the Vilebranch has been lifted - for now. We must remain ever vigilant in our battle against evil, as even if the Vile Priestess is destroyed, another soon takes her place.",    ["minlevel"]="46",    ["questlevel"]="50"},
-
-	["7861"] = {    ["Title"]="Wanted: Vile Priestess Hexx and Her Minions",    ["Description"]="By order of Primal Torntusk, Vile Priestess Hexx and her minions are to be brought to justice!NEW_LINENEW_LINEA grand reward is offered for any that slay the Vile Priestess Hexx and all of her Aman'zasi elite guard.",    ["Objectives"]="You have been ordered to slay Vile Priestess Hexx and 20 Vilebranch Aman'zasi Guards. See Primal Torntusk at Revantusk Village in the Hinterlands once this task is complete.NEW_LINENEW_LINEVile Priestess Hexx and the Aman'zasi Guards can be found atop Jintha'alor in the Hinterlands.",    ["Progress"]="Do you bring news from Jintha'alor?",    ["Completion"]="A crippling blow to the Vilebranch, indeed. You shall be richly rewarded, YOUR_NAME.",    ["minlevel"]="46",    ["questlevel"]="51"},
-
-	["7862"] = {    ["Title"]="Job Opening: Guard Captain of Revantusk Village",    ["Description"]="With the loss of Guard Captain Malkhor, the position of Guard Captain of Revantusk is once again open. If you are interested in becoming Captain of the Guard for Revantusk, complete the following tasks and submit your application to Primal Torntusk:NEW_LINENEW_LINEExterminate Vilebranch Berserkers.NEW_LINENEW_LINEExterminate Vilebranch Shadow Hunters.NEW_LINENEW_LINEExterminate Vilebranch Blood Drinkers.NEW_LINENEW_LINEExterminate Vilebranch Soul Eaters.",    ["Objectives"]="You have been tasked with the decimation of 20 Vilebranch Berserkers, 20 Vilebranch Shadow Hunters, 20 Vilebranch Blood Drinkers, and 20 Vilebranch Soul Eaters.NEW_LINENEW_LINEShould you complete this task, return to Primal Torntusk at Revantusk Village in the Hinterlands.",    ["Progress"]="Are you here about the job opening?",    ["Completion"]="You are indeed a worthy candidate for the new position, YOUR_NAME. Accept this trinket as a token of our appreciation for your hard work. I will be reviewing all applications next year.",    ["minlevel"]="46",    ["questlevel"]="51"},
-
-	["8080"] = {    ["Title"]="Arathi Basin Mark of Honor!",    ["Description"]="War must be fought with soldiers, any soldier will tell you.  They'll also say that a battle fought with poor gear or on an empty stomach is lost before it starts!NEW_LINENEW_LINEThat is why Arathi Basin is important.  There are key areas in the basin that hold essential resources.  Metals, weapons, food, lumber - all are needed, and all can be gained there.NEW_LINENEW_LINEThat is what I want from you, YOUR_NAME.  Enter Arathi Basin, win the battle by holding more bases than the enemy, and return to me with a crate of resources.",    ["Objectives"]="Win the battle for Arathi Basin, get an Arathi Basin Mark of Honor, and return it to Sergeant Maclear at Refuge Pointe.",    ["Progress"]="Do you have the Marks of Honor, YOUR_NAME? The League of Arathor can't fight a decent battle without them...",    ["Completion"]="You got the Mark! Great job! I'll send the ressources to our quartermasters, who can quickly disperse them to our troops.NEW_LINENEW_LINEThank you, YOUR_NAME. Indeed, performing successful missions like the one you achieved are how wars are truly won.",    ["minlevel"]="50",    ["questlevel"]="59"},
-
-	["7925"] = {    ["Title"]="Mark of Honor",    ["Description"]="You have proven your value to our efforts in Warsong Gulch. Continue to rage against the Silverwing Sentinels! Bring me more marks of honor!",    ["Objectives"]="You obtained a Warsong Mark of Honor for your last task, talk to me again, and you gain your reward.",    ["Progress"]="",    ["Completion"]="The night elves and their allies must tremble at even the whisper of your name! For the Horde!",    ["minlevel"]="20",    ["questlevel"]="25"},
-
-	["7924"] = {    ["Title"]="Mark of Honor",    ["Description"]="You have proven your value to our efforts in Warsong Gulch. Continue to rage against the Silverwing Sentinels! Bring me more marks of honor!",    ["Objectives"]="You obtained a Warsong Mark of Honor for your last task, talk to me again, and you gain your reward.",    ["Progress"]="",    ["Completion"]="The night elves and their allies must tremble at even the whisper of your name! For the Horde!",    ["minlevel"]="30",    ["questlevel"]="35"},
-
-	["7922"] = {    ["Title"]="Mark of Honor",    ["Description"]="",    ["Objectives"]="You obtained a Warsong Mark of Honor for your last task, talk to me again, and you gain your reward.",    ["Progress"]="",    ["Completion"]="The night elves and their allies must tremble at even the whisper of your name! For the Horde!",    ["minlevel"]="50",    ["questlevel"]="55"},
-
-	["7923"] = {    ["Title"]="Mark of Honor",    ["Description"]="You have proven your value to our efforts in Warsong Gulch. Continue to rage against the Silverwing Sentinels! Bring me more marks of honor!",    ["Objectives"]="You obtained a Warsong Mark of Honor for your last task, talk to me again, and you gain your reward.",    ["Progress"]="",    ["Completion"]="The night elves and their allies must tremble at even the whisper of your name! For the Horde!",    ["minlevel"]="40",    ["questlevel"]="45"},
-
-	["7921"] = {    ["Title"]="Talismans of Merit",    ["Description"]="",    ["Objectives"]="You obtained a Silverwing Talisman of Merit for your last task, talk to me again, and you gain your reward.",    ["Progress"]="",    ["Completion"]="Thank you, YOUR_NAME. Your exploits in Warsong Gulch ring throughout Ashenvale Forest.",    ["minlevel"]="20",    ["questlevel"]="25"},
-
-	["7877"] = {    ["Title"]="The Treasure of the Shen'dralar",    ["Description"]="In the library, Athenaeum, you will find an ancient chest hidden beneath the stairway. Take from it that which you desire.",    ["Objectives"]="Return to the Athenaeum and find the Treasure of the Shen'dralar. Claim your reward!",    ["Progress"]="",    ["Completion"]="You open the chest to find...",    ["minlevel"]="57",    ["questlevel"]="60"},
-
-	["7881"] = {    ["Title"]="Carnival Boots",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="We at the Darkmoon Faire do much walking.  We walk from one faire site to another... in fact, you'll never see us sitting down on the job!  So it is no surprise that we wear out quite a lot of boots!  We need boots that are both durable and stylish, and embossed leather boots fit that bill rather well.NEW_LINENEW_LINEYou!  You're a leatherworker; make me embossed leather boots and I'll give you a Darkmoon Faire ticket for the work.",    ["Completion"]="Thank you, YOUR_NAME.  These are quite well made.  The craftsmanship is top notch!  Here is a Darkmoon Faire ticket... enjoy, sir.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["7882"] = {    ["Title"]="Carnival Jerkins",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="Our Faire workers do more than sweep trash and hammer spikes! They also help guard the carnival as it travels, and to that end they are always needing good sturdy armor jerkins.NEW_LINENEW_LINEIf you make some tough leather armor and bring it to me, then I'll make sure it gets to the right people. I'll also get you some Darkmoon Faire tickets as trade.",    ["Completion"]="Ah, you brought the jerkins.  Splendid.  What animal's skin did you use to make these, may I ask?  The stitch-work is very well done, and the texture of the leather has a rugged style to it.  I can tell you are a craftsman of skill!NEW_LINENEW_LINEThank you, YOUR_NAME, and here are your tickets.",    ["minlevel"]="10",    ["questlevel"]="60"},
-
-	["7883"] = {    ["Title"]="The World's Largest Gnome!",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="Yebb Nebblegear is looking to add more talent to his show, and he's searching far and wide for the world's largest gnome.  Do you know any gnomes of considerable size?NEW_LINENEW_LINEWell before he finds the gnome, he wants to have its costume ready.  I think a barbaric harness would be a good foundation for the costume; can you make some harnesses and bring them to me?  Do that, and I'll have a stack of Darkmoon Faire tickets for you...",    ["Completion"]="Oh dear, these are quite large!! I can't imagine finding a gnome that would fit snuggly into them, but not to worry - if the gnome we find is not big enough, I can make adjustments to his costume.NEW_LINENEW_LINEMany thanks, YOUR_NAME. Here are the tickets I promised you.",    ["minlevel"]="20",    ["questlevel"]="60"},
-
-	["7884"] = {    ["Title"]="Crocolisk Boy and the Bearded Murloc",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="Yebb is working on other attractions for his zoo, including wet, swampy abodes for a boy raised by crocolisks, and perhaps for a murloc. We will need nice, water-tight leggings so we won't get waterlogged during prop-ups and tear-downs. For that job, I think turtlescale leggings will do the trick.NEW_LINENEW_LINEYOUR_NAME, can you make those leggings? If you do, then a fat stack of Darkmoon Faire tickets will be your reward...",    ["Completion"]="Great, you made them!  These will do nicely... I just hope I won't be the one to clean the crocolisk cage when the time comes.  Those beasts can be rather beastly, don't you think?NEW_LINENEW_LINEHere are your tickets, YOUR_NAME.  Enjoy them, and enjoy your stay at the Darkmoon Faire!",    ["minlevel"]="30",    ["questlevel"]="60"},
-
-	["7885"] = {    ["Title"]="Armor Kits",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="You might not realize this, but running a traveling carnival is costly! Everything wears down so fast it's a wonder we can turn a profit.NEW_LINENEW_LINEBecause of all those hidden costs, we're always looking for ways to maintain our equipment as cheaply as possible. Our tents, for instance, tear regularly but I've found that leather armor kits make great patches. Can you find and bring me some armor kits? That'll save us a bundle! Do that, and I have a fistful of Darkmoon Faire tickets for you...",    ["Completion"]="Great! This will work great! I just noticed a rip in a tent over yonder, and one of these armor kits is just what I need to patch it up!NEW_LINENEW_LINEThank you very much, YOUR_NAME. These armor kits will save us a ton in repair costs. Here are your tickets - you deserve them!",    ["minlevel"]="40",    ["questlevel"]="60"},
-
-	["7889"] = {    ["Title"]="Coarse Weightstone",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="It takes a lot of work to be the strongest woman alive!  My weight set is getting too light and if I'm too stay fit then I'll need more weights!NEW_LINENEW_LINEDo you think you could bring me some weight stones?  If you do, then I'll give you a Darkmoon Faire ticket.",    ["Completion"]="Great! These will work great! They're not too heavy, but not too light either. They're perfect for building muscle mass!NEW_LINENEW_LINEThanks much, YOUR_NAME. Here's your Darkmoon Faire ticket!",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["7890"] = {    ["Title"]="Heavy Grinding Stone",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="To help with my workout, I like to fit a staff between heavy grinding stones, then lift the staff over my head. It isn't easy, but being the strongest woman in the world, like I am, can't be earned sitting down!NEW_LINENEW_LINECan you help me? I need more grinding stones - bring me some and I'll trade Darkmoon Faire tickets for them.",    ["Completion"]="You brought the stones! And they're heavy! I can already feel my muscles getting bigger. Thanks YOUR_NAME!NEW_LINENEW_LINEHere, take these tickets, and be sure not to eat too many sweets while your at the faire. A big strong $C like you needs to keep himself in fighting shape!",    ["minlevel"]="10",    ["questlevel"]="60"},
-
-	["7891"] = {    ["Title"]="Green Iron Bracers",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="I'm working on a new costume, for when I have my own booth as the strongest woman alive! Right now I'm looking for some bracers I can wear. They can't cover much because people want to see my muscles, but I still want to flash a little color, you know?NEW_LINENEW_LINEHow about green iron bracers, YOUR_NAME? Can you make me green iron bracers? If you can, then I have a whole bunch of Darkmoon Faire tickets for you.",    ["Completion"]="Thanks much, YOUR_NAME. Here's your Darkmoon Faire tickets!",    ["minlevel"]="20",    ["questlevel"]="60"},
-
-	["7892"] = {    ["Title"]="Big Black Mace",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="For my act as the strongest woman alive, I plan to accept items from the audience and smash them with a big, black mace!NEW_LINENEW_LINECan you make me a big black mace, YOUR_NAME?",    ["Completion"]="Thanks much, YOUR_NAME. Here's your Darkmoon Faire tickets!",    ["minlevel"]="30",    ["questlevel"]="60"},
-
-	["7893"] = {    ["Title"]="Rituals of Strength",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="YOUR_NAME, in my quest to become the strongest woman alive, I have traveled the world and learned muscle building secrets from distant weight masters, strength gurus, and ancient manuals. I now know forbidden exercises that would kill the weak and cripple the uninitiated!NEW_LINENEW_LINEThese feats of strength and conditioning require training with the densest of grinding stones. YOUR_NAME, can you find or make some grinding stones and bring them to me? I'll give you tickets if you do...",    ["Completion"]="Thanks much, YOUR_NAME. Here's your Darkmoon Faire tickets!",    ["minlevel"]="40",    ["questlevel"]="60"},
-
-	["7894"] = {    ["Title"]="Copper Modulator",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="Yebb is developing a new attraction for the Zoo Bizarre, one that will drive people crazy with wonder, and delight! But it will take a lot of work, and a lot of materials...NEW_LINENEW_LINEThat includes copper modulators. We need lots of modulators for the mechanical parts of the attraction. Bring me copper modulators and I'll trade for them with a Darkmoon Faire ticket.",    ["Completion"]="Aha! The modulators! Superb!NEW_LINENEW_LINEI can't tell you exactly what we're building, but these will be invaluable for its construction. I am in your debt, Grimling, but please, take this Darkmoon Faire ticket as a token of my appreciation.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["7895"] = {    ["Title"]="Whirring Bronze Gizmo",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="My new booth will be a sight to see, yes sir! A sight to see, and... for a lucky few, to touch!NEW_LINENEW_LINEI can already hear the whirring bronze gizmos singing their song of mechanical rapture as patrons step to my booth and test their skill!NEW_LINENEW_LINEAh... now I need the gizmos themselves to bring my dream closer to fruition. Please, YOUR_NAME, bring me whirring bronze gizmos... and Darkmoon Faire tickets will be yours!",    ["Completion"]="You brought the gizmos! Wonderful! Even now I can hear their buzzing, whirring chorus in my mind! Oh, when this booth is ready it will be the wonder of the world, mark me!NEW_LINENEW_LINEHere are your tickets, YOUR_NAME. And please enjoy your stay at the Faire!",    ["minlevel"]="10",    ["questlevel"]="60"},
-
-	["7896"] = {    ["Title"]="Green Fireworks",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="When I finally get this booth up and running, I'll want to advertise! And what better way is there to advertise than with fireworks?NEW_LINENEW_LINEWell, some might think that the smell of a cauldron, churning with the boiling heads of your foes is better for drawing crowds, but... we're in mixed company. So fireworks it will have to be!NEW_LINENEW_LINEBring me green fireworks, YOUR_NAME, and I have a big fistful of Darkmoon Faire tickets for you.",    ["Completion"]="You brought the fireworks. Wonderful work, YOUR_NAME! I can't wait to light these and tell the world that my booth is ready to go! I must still wait, quite a long time I'm afraid, but... I'll be ready when I'm ready, yes?NEW_LINENEW_LINEHere are the tickets, YOUR_NAME. Enjoy yourself!",    ["minlevel"]="20",    ["questlevel"]="60"},
-
-	["7897"] = {    ["Title"]="Mechanical Repair Kits",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="The biggest reason I can't open up my booth is that... everything's broken! I need mechanical repair kits to fix all this stuff!NEW_LINENEW_LINECan you bring me those kits, YOUR_NAME? I'll trade you... kits for Darkmoon Faire tickets. What do you say?",    ["Completion"]="Thank you! Now I can get to fixing things.NEW_LINENEW_LINEIt's going to take a lot of repair kits and a lot of late nights to get everything in working order. Sometimes I think it'd be better to get back to my roots and restart my career as a headhunter, but... the Faire has been good to me.NEW_LINENEW_LINETake these tickets, YOUR_NAME, and have fun!",    ["minlevel"]="30",    ["questlevel"]="60"},
-
-	["7898"] = {    ["Title"]="Thorium Widget",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="Yebb Nebblegear, like me, is working on a future attraction. So amazing is this attraction, says Nebb, that it will draw folks from across the world... and it will make us all very, very rich!NEW_LINENEW_LINEHe says he needs thorium widgets for its construction, and wants me to collect them for him. So what do you say, YOUR_NAME? Do you know where to get Thorium widgets? If you're an engineer, can you make them? Do you want to trade them for Darkmoon Faire tickets?",    ["Completion"]="Ah, thank you, YOUR_NAME! Yebb will enjoy these widgets. I don't know what he has planned for them, but Yebb's a clever little gnome. He's clever, and maybe a little devious....NEW_LINENEW_LINEIf only he liked the taste of humanoid flesh... he'd make a great troll!NEW_LINENEW_LINEHere, YOUR_NAME. A deal's a deal, and these tickets are yours.",    ["minlevel"]="40",    ["questlevel"]="60"},
-
-	["7899"] = {    ["Title"]="Small Furry Paws",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="The first lesson in drawing a crowd is: lure them with gadgets and trinkets! Can you help me?NEW_LINENEW_LINEI need small furry paws to use for prizes. You can find those on the cats of the Barrens or Darkshore....NEW_LINENEW_LINEBring me some paws and I'll trade you a Darkmoon Faire ticket for them.",    ["Completion"]="Great, you got them! We can use these to make toys and baubles, and those will attract more people to the Faire!NEW_LINENEW_LINEHere's your ticket, YOUR_NAME. You earned it!",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["7900"] = {    ["Title"]="Torn Bear Pelts",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="Children love toys! And no matter what race, I've found that all children love furry, plushy toys made from torn bear pelts!NEW_LINENEW_LINEYou can get those pelts from the bears of Ashenvale or Hillsbrad. Bring me a heap of them and earn yourself a heap of Darkmoon Faire tickets!",    ["Completion"]="Nice pelts, YOUR_NAME! I'll get someone to sew these into a bunch of plush toys. With a little stuffing and some paint, I think they'll be the envy of children across Azeroth!NEW_LINENEW_LINETickets? Ah yes, your payment!NEW_LINENEW_LINEHere they are!",    ["minlevel"]="10",    ["questlevel"]="60"},
-
-	["7901"] = {    ["Title"]="Soft Bushy Tails",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="It's amazing what people value! Take, for instance, a wooden stick with a soft bushy tail attached to it. Now, you and I might think something like that isn't all that valuable... but if you give that piece of junk a neat name like \"Savage Fuzz Tail\" and put it in a pretty box, then people will think it's valuable. Trash becomes treasure!NEW_LINENEW_LINEGet me soft bushy tails from the wolves of Desolace and the Badlands, and I'll give you Darkmoon Faire tickets.",    ["Completion"]="Well done, YOUR_NAME! These tails will make great prizes for our visitors, and that means happy visitors... who talk to their friends and bring more visitors!NEW_LINENEW_LINEHere are your tickets! Have a good time at the Darkmoon Faire... and don't forget to tell your friends about us!",    ["minlevel"]="20",    ["questlevel"]="60"},
-
-	["7902"] = {    ["Title"]="Vibrant Plumes",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="A person's imagination is an incredible thing. It can make the smallest hill seem like the largest mountain. It can make the most innocuous shadow appear cast by a horrible nightmare!NEW_LINENEW_LINEWe at the Darkmoon Faire let our visitor's imaginations blossom! But to help stretch their imaginations... sometimes we have to get tricky.NEW_LINENEW_LINEI need vibrant plumes for one of my attractions. You can get them from the birds of the more dangerous areas of Azeroth. Bring me the plumes and many tickets will be yours!",    ["Completion"]="Ah, the plumes! They are amazing, don't you think! It would be easy to spark one's imaginations with such beauties!NEW_LINENEW_LINEYou do such charitable work, YOUR_NAME. The smiles on our visitors' faces when they see the show is a grand payment indeed, but please take these tickets as well.",    ["minlevel"]="30",    ["questlevel"]="60"},
-
-	["7903"] = {    ["Title"]="Evil Bat Eyes",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="Do you ever find yourself wandering in a cave, late at night, looking for adventure? You do? Really? Well, then you've seen the creepy eyes of bats staring at you from high up, waiting for you to let down your guard so they can suck your blood!NEW_LINENEW_LINEScary thought, don't you think? Of course! It's no doubt that bat eyes are scary!NEW_LINENEW_LINEWill you bring me some evil bat eyes, YOUR_NAME? I want them for... something I'm designing. Something scary.NEW_LINENEW_LINEYou can get them from the bats of the Eastern Plaguelands.",    ["Completion"]="Great!  You got the eyes!  I hope hunting those bats was frightening for you, because if it scared a brave $C like yourself, then those eyes will certainly scare our Faire visitors.NEW_LINENEW_LINETake these tickets, YOUR_NAME, and thank you for your service.",    ["minlevel"]="40",    ["questlevel"]="60"},
-
-	["7907"] = {    ["Title"]="Darkmoon Beast Deck",    ["Description"]="Now that you have gathered all of the Beast cards together into a deck, a ninth card mysteriously appears with the same backing as the first eight.   On this card is inscribed, \"Return these cards to the Darkmoon Faire and be rewarded.\"   You have heard that this faire alternately stops at Mulgore and Goldshire every few months, so you will have to wait until they are here next.",    ["Objectives"]="Return the Beast Deck to the Darkmoon Faire when it comes to town.",    ["Progress"]="Oh dear.",    ["Completion"]="Well this explains a lot. If you ever find a way into Ahn'Qiraj, keep an eye out for ol' Brann. I'm afraid that he'll be powerless without his monkey.",    ["minlevel"]="1",    ["questlevel"]="55"},
-
-	["7927"] = {    ["Title"]="Darkmoon Portals Deck",    ["Description"]="Now that you have gathered all of the Portal cards together into a deck, a ninth card mysteriously appears with the same backing as the first eight.   On this card is inscribed, \"Return these cards to the Darkmoon Faire and be rewarded.\"   You have heard that this faire alternately stops at Mulgore and Goldshire every few months, so you will have to wait until they are here next.",    ["Objectives"]="Return the Portals Deck to the Darkmoon Faire when it comes to town.",    ["Progress"]="I see that you have managed to complete a deck of portals! Congratulations!",    ["Completion"]="So you have put together a deck of Portals. Your gesture of returning it to us will create a tie between you and the Darkmoon that will not soon be forgotten. Allow me to present you with one of the greater darkmoon cards as a small token of our appreciation.",    ["minlevel"]="1",    ["questlevel"]="55"},
-
-	["7928"] = {    ["Title"]="Darkmoon Warlords Deck",    ["Description"]="Now that you have gathered all of the Warlord cards together into a deck, a ninth card mysteriously appears with the same backing as the first eight.   On this card is inscribed, \"Return these cards to the Darkmoon Faire and be rewarded.\"   You have heard that this faire alternately stops at Mulgore and Goldshire every few months, so you will have to wait until they are here next.",    ["Objectives"]="Return the Warlords Deck to the Darkmoon Faire when it comes to town.",    ["Progress"]="I see that you have managed to complete a deck of warlords!   Congratulations!",    ["Completion"]="So you have put together a deck of Warlords.   Your gesture of returning it to us will create a tie between you and the Darkmoon that will not soon be forgotten.   Allow me to present you with one of the greater darkmoon cards as a small token of our appreciation.",    ["minlevel"]="1",    ["questlevel"]="55"},
-
-	["7929"] = {    ["Title"]="Darkmoon Elementals Deck",    ["Description"]="Now that you have gathered all of the Elemental cards together into a deck, a ninth card mysteriously appears with the same backing as the first eight.   On this card is inscribed, \"Return these cards to the Darkmoon Faire and be rewarded.\"   You have heard that this faire alternately stops at Mulgore and Goldshire every few months, so you will have to wait until they are here next.",    ["Objectives"]="Return the Elementals Deck to the Darkmoon Faire when it comes to town.",    ["Progress"]="I see that you have managed to complete a deck of elementals! Congratulations!",    ["Completion"]="So you have put together a deck of Elementals. Your gesture of returning it to us will create a tie between you and the Darkmoon that will not soon be forgotten. Allow me to present you with one of the greater darkmoon cards as a small token of our appreciation.",    ["minlevel"]="1",    ["questlevel"]="55"},
-
-	["7930"] = {    ["Title"]="5 Tickets - Darkmoon Flower",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="Step right up, step right up! If you have tickets from the Darkmoon Faire you'd like redeemed, then just say so! You can redeem tickets in various denominations for wondrous and fantastic prizes. Don't be shy, give it a try!",    ["Completion"]="Here you go, here you go! A prize fit for a king! Congratulations to you, my friend!NEW_LINENEW_LINEIf you have more tickets you'd like to turn in, then please let me know! For as long as the Darkmoon Faire is here, I'll redeem your tickets.",    ["minlevel"]="6",    ["questlevel"]="60"},
-
-	["7931"] = {    ["Title"]="5 Tickets - Minor Darkmoon Prize",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="Step right up, step right up! If you have tickets from the Darkmoon Faire you'd like redeemed, then just say so! You can redeem tickets in various denominations for wondrous and fantastic prizes. Don't be shy, give it a try!",    ["Completion"]="Here you go, here you go! A prize fit for a king! Congratulations to you, my friend!NEW_LINENEW_LINEIf you have more tickets you'd like to turn in, then please let me know! For as long as the Darkmoon Faire is here, I'll redeem your tickets.",    ["minlevel"]="15",    ["questlevel"]="60"},
-
-	["7932"] = {    ["Title"]="12 Tickets - Lesser Darkmoon Prize",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="Step right up, step right up! If you have tickets from the Darkmoon Faire you'd like redeemed, then just say so! You can redeem tickets in various denominations for wondrous and fantastic prizes. Don't be shy, give it a try!",    ["Completion"]="Here you go, here you go! A prize fit for a king! Congratulations to you, my friend!NEW_LINENEW_LINEIf you have more tickets you'd like to turn in, then please let me know! For as long as the Darkmoon Faire is here, I'll redeem your tickets.",    ["minlevel"]="30",    ["questlevel"]="60"},
-
-	["7933"] = {    ["Title"]="40 Tickets - Greater Darkmoon Prize",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="Step right up, step right up! If you have tickets from the Darkmoon Faire you'd like redeemed, then just say so! You can redeem tickets in various denominations for wondrous and fantastic prizes. Don't be shy, give it a try!",    ["Completion"]="Here you go, here you go! A prize fit for a king! Congratulations to you, my friend!NEW_LINENEW_LINEIf you have more tickets you'd like to turn in, then please let me know! For as long as the Darkmoon Faire is here, I'll redeem your tickets.",    ["minlevel"]="45",    ["questlevel"]="60"},
-
-	["7934"] = {    ["Title"]="50 Tickets - Darkmoon Storage Box",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="Step right up, step right up! If you have tickets from the Darkmoon Faire you'd like redeemed, then just say so! You can redeem tickets in various denominations for wondrous and fantastic prizes. Don't be shy, give it a try!",    ["Completion"]="Here you go, here you go! A prize fit for a king! Congratulations to you, my friend!NEW_LINENEW_LINEIf you have more tickets you'd like to turn in, then please let me know! For as long as the Darkmoon Faire is here, I'll redeem your tickets.",    ["minlevel"]="6",    ["questlevel"]="60"},
-
-	["7935"] = {    ["Title"]="10 Tickets - Last Month's Mutton",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="Step right up, step right up! If you have tickets from the Darkmoon Faire you'd like redeemed, then just say so! You can redeem tickets in various denominations for wondrous and fantastic prizes. Don't be shy, give it a try!",    ["Completion"]="Here you go, here you go! A prize fit for a king! Congratulations to you, my friend!NEW_LINENEW_LINEIf you have more tickets you'd like to turn in, then please let me know! For as long as the Darkmoon Faire is here, I'll redeem your tickets.",    ["minlevel"]="25",    ["questlevel"]="60"},
-
-	["7936"] = {    ["Title"]="50 Tickets - Last Year's Mutton",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="Step right up, step right up! If you have tickets from the Darkmoon Faire you'd like redeemed, then just say so! You can redeem tickets in various denominations for wondrous and fantastic prizes. Don't be shy, give it a try!",    ["Completion"]="Here you go, here you go! A prize fit for a king! Congratulations to you, my friend!NEW_LINENEW_LINEIf you have more tickets you'd like to turn in, then please let me know! For as long as the Darkmoon Faire is here, I'll redeem your tickets.",    ["minlevel"]="45",    ["questlevel"]="60"},
-
-	["7937"] = {    ["Title"]="Your Fortune Awaits You...",    ["Description"]="\"Your fortune awaits you in Eastvale.\"NEW_LINENEW_LINEThe fortune Sayge handed you feels slightly warm to the touch.  Grasping it firmly, you see an image of the Eastvale Logging Camp in Elwynn Forest.  Focusing closer in on the image, you see a haystack that sits next to a stable.",    ["Objectives"]="Travel to the Eastvale Logging Camp in Elwynn Forest and seek out your fortune.",    ["Progress"]="This haystack looks like the one from your vision.",    ["Completion"]="A quick search of the haystack reveals a lockbox from within it!  It would seem that you have found your fortune!",    ["minlevel"]="10",    ["questlevel"]="60"},
-
-	["7938"] = {    ["Title"]="Your Fortune Awaits You...",    ["Description"]="\"Your fortune awaits you inside the Deadmines.\"NEW_LINENEW_LINEThe fortune Sayge handed you feels slightly warm to the touch.  Grasping it firmly, you see an image of the Deadmines inside Westfall's ruined hamlet of Moonbrook.  Focusing closer in on the image, you wind about twisty passages until you reach a shimmering portal... one that leads into the heart of the mines itself.  Stepping through it, a strange chest appears out from nowhere.",    ["Objectives"]="Travel to the Deadmines in Westfall and seek out your fortune.",    ["Progress"]="This chest looks like the one from your vision...",    ["Completion"]="A quick search of the chest reveals a lockbox from within it!  It would seem that you have found your fortune!",    ["minlevel"]="10",    ["questlevel"]="60"},
-
-	["7939"] = {    ["Title"]="More Dense Grinding Stones",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="YOUR_NAME, thank you for all the help you've given me. I really can't thank you enough!NEW_LINENEW_LINEAlthough my need is no longer great... if you bring me more dense grinding stones, I still have more Darkmoon Faire tickets for you.",    ["Completion"]="Thanks much, YOUR_NAME. Here's your Darkmoon Faire tickets!",    ["minlevel"]="40",    ["questlevel"]="60"},
-
-	["7940"] = {    ["Title"]="1200 Tickets - Orb of the Darkmoon",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="Step right up, step right up!  If you have tickets from the Darkmoon Faire you'd like redeemed, then just say so!  You can redeem tickets in various denominations for wondrous and fantastic prizes.  Don't be shy, give it a try!",    ["Completion"]="Here you go, here you go! A prize fit for a king! Congratulations to you, my friend!NEW_LINENEW_LINEIf you have more tickets you'd like to turn in, then please let me know! For as long as the Darkmoon Faire is here, I'll redeem your tickets.",    ["minlevel"]="55",    ["questlevel"]="60"},
-
-	["7941"] = {    ["Title"]="More Armor Kits",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="YOUR_NAME, I must thank you for all your help.  I have plenty of supplies, through no small efforts on your part, but if you wish to bring me more armor kits, then I will gladly trade them for Darkmoon Faire tickets.",    ["Completion"]="There you are, YOUR_NAME.  A fair trade.  Enjoy.",    ["minlevel"]="40",    ["questlevel"]="60"},
-
-	["7942"] = {    ["Title"]="More Thorium Widgets",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="YOUR_NAME, you have been so good to us, bringing me goods without tiring. You have my eternal thanks!NEW_LINENEW_LINEAlthough our need for Thorium widgets is not as great as it was, you may still bring them to me and I will gladly trade them for Darkmoon Faire tickets.",    ["Completion"]="Here you are, YOUR_NAME. Here are Darkmoon Faire tickets for your enjoyment. Do not, as they say, spend them all in one place!",    ["minlevel"]="40",    ["questlevel"]="60"},
-
-	["7943"] = {    ["Title"]="More Bat Eyes",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="YOUR_NAME, the attraction I'm designing will be the scariest event since Gnomeregan was overrun! And it's largely thanks to you and all the baubles you've brought me. Many, many thanks!NEW_LINENEW_LINEI don't need much else, but... if you bring me more evil bat eyes from the bats of the Eastern Plaguelands... I might have more Darkmoon Faire tickets for you.",    ["Completion"]="Thanks again, YOUR_NAME.  Here are your tickets!",    ["minlevel"]="40",    ["questlevel"]="60"},
-
-	["7944"] = {    ["Title"]="Your Fortune Awaits You...",    ["Description"]="\"Your fortune awaits you inside Wailing Caverns.\"NEW_LINENEW_LINEThe fortune Sayge handed you feels slightly warm to the touch.  Grasping it firmly, you see an image of a cave to the southwest of the Crossroads in the Barrens.  Focusing closer in on the image, you wind about twisty passages until you reach a shimmering portal... one that leads into the heart of the caverns itself.  Stepping through it, a strange chest appears out from nowhere.",    ["Objectives"]="Travel to the Wailing Caverns in the Barrens and seek out your fortune.",    ["Progress"]="This chest looks like the one from your vision...",    ["Completion"]="A quick search of the chest reveals a lockbox from within it!  It would seem that you have found your fortune!",    ["minlevel"]="10",    ["questlevel"]="60"},
-
-	["7945"] = {    ["Title"]="Your Fortune Awaits You...",    ["Description"]="\"Your fortune awaits you outside Palemane Rock.\"NEW_LINENEW_LINEThe fortune Sayge handed you feels slightly warm to the touch.  Grasping it firmly, you see an image of the Palemane Rock of Mulgore.  Focusing closer in on the image, you see a tree stump that sits close to the cave entrance.",    ["Objectives"]="Travel to Palemane Rock in Mulgore and seek out your fortune.",    ["Progress"]="This tree stump looks like the one from your vision.",    ["Completion"]="A quick search of the tree stump reveals a lockbox from within it!  It would seem that you have found your fortune!",    ["minlevel"]="10",    ["questlevel"]="60"},
-
-	["7981"] = {    ["Title"]="1200 Tickets - Amulet of the Darkmoon",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="Step right up, step right up! If you have tickets from the Darkmoon Faire you'd like redeemed, then just say so! You can redeem tickets in various denominations for wondrous and fantastic prizes. Don't be shy, give it a try!",    ["Completion"]="Here you go, here you go! A prize fit for a king! Congratulations to you, my friend!NEW_LINENEW_LINEIf you have more tickets you'd like to turn in, then please let me know! For as long as the Darkmoon Faire is here, I'll redeem your tickets.",    ["minlevel"]="55",    ["questlevel"]="60"},
-
-	["8001"] = {    ["Title"]="Zombie Cleansing",    ["Description"]="I am Corpus and you are a wretched speciman, YES! You will do nicely, It has become overcrowded in this town and it is getting harder to find a empty grave. Can you help me get rid of some of the filthy zombies investing my graves, 5 should be enough to guarantee me a resting space.",    ["Objectives"]="Kill 5 Wretched Zombies",    ["Progress"]="",    ["Completion"]="",    ["minlevel"]="1",    ["questlevel"]="3"},
+	
 
 	["8041"] = {    ["Title"]="Strength of Mount Mugamba",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="Hail, $C. I am Jin'rokh the Breaker, troll of Mugamba. We of the Zandalar tribe recognize your accomplishments. We salute your tenacity and strength of will.NEW_LINENEW_LINEWear this talisman around your neck, $C. Let the strength of Mount Mugamba flow through your being. Be empowered as you strike down our enemies!",    ["minlevel"]="60",    ["questlevel"]="60"},
 
