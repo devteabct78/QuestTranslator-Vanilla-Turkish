@@ -67,25 +67,28 @@ local classTrNames = {
 }
 
 local function NormalizeText(str)
-    if not str then return "" end
+    if not str or str == "" then return "" end
     
-    -- 1. WoW Renk Kodlarını Temizle (|cFFFF0000 gibi başlangıç ve |r bitiş etiketleri)
+    -- 1. WoW Renk Kodlarını Temizle (|cFFFF0000 ve |r)
     str = string.gsub(str, "|c%x%x%x%x%x%x%x%x", "")
     str = string.gsub(str, "|r", "")
 
-    -- 2. Ekrana literal "\n", "\r", "\t" olarak basılan kaçış karakterlerini temizle
-    str = string.gsub(str, "\\n", "")
-    str = string.gsub(str, "\\r", "")
-    str = string.gsub(str, "\\t", "")
-    
+    -- 2. WoW DB Satır Başı ve Değişken Etiketlerini ($B, $b, $N, $C, $R, $g/G vb.) Temizle
+    str = string.gsub(str, "%$[bB]", "")
+    str = string.gsub(str, "%$[nN]", "")
+    str = string.gsub(str, "%$[cC]", "")
+    str = string.gsub(str, "%$[rR]", "")
+    str = string.gsub(str, "%$[gG]", "")
+
     -- 3. Tipografik/akıllı tırnak işaretlerini standart tırnağa dönüştür
     str = string.gsub(str, "’", "'")
     str = string.gsub(str, "‘", "'")
+    str = string.gsub(str, "`", "'")
     
     -- 4. Hepsini küçük harfe çevir
     str = string.lower(str)
     
-    -- 5. Tüm boşluk, satır başı ve gizli kontrol karakterlerini sil
+    -- 5. Tüm boşlukları, satır başlarını (\n, \r) ve kontrol karakterlerini sil
     str = string.gsub(str, "[%s%c]", "")
     
     return str
