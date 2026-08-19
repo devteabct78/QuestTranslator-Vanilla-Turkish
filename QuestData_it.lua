@@ -17482,7 +17482,7 @@ QuestTranslator_QuestData = {
     -- Eve Dönüş
     ["5633"] = {
     ["Title"]="Eve Dönüş",
-    ["Description"]="Selamlar, $G(delikanlı;genç kız). Sizi burada, büyük salonlarımızda görmek ne güzel. Tanrı sizi ve türünüzü kutsasın.NEW_LINENEW_LINESiz topraklarımızda seyahat ederken, tapınağınızdan bir rahibe sizi aramak için buraya geldi. Mümkün olan en kısa sürede Ay Tapınağı'na dönmeniz gerektiğini söyledi. Sana daha fazlasını söyleyemediğim için üzgünüm, ama kulağa önemli geliyordu. Tapınağa vardığında, Rahibe Alathea ile konuş.",
+    ["Description"]="Selamlar. Sizi burada, büyük salonlarımızda görmek ne güzel. Tanrı sizi ve türünüzü kutsasın.NEW_LINENEW_LINESiz topraklarımızda seyahat ederken, tapınağınızdan bir rahibe sizi aramak için buraya geldi. Mümkün olan en kısa sürede Ay Tapınağı'na dönmeniz gerektiğini söyledi. Sana daha fazlasını söyleyemediğim için üzgünüm, ama kulağa önemli geliyordu. Tapınağa vardığında, Rahibe Alathea ile konuş.",
     ["Objectives"]="Darnassus'ta Rahibe Alathea ile konuş.",
     ["Progress"]="",
     ["Completion"]="",
@@ -17823,7 +17823,7 @@ QuestTranslator_QuestData = {
     -- Elune'nin Zarafeti
     ["5674"] = {
     ["Title"]="Elune'nin Zarafeti",
-    ["Description"]="Harika bir gün geldi, YOUR_NAME. $G(Rahiplerimizin;rahibelerimizin) sadece Gece elflerinin bildiği yetenekler konusunda eğitildiği yaşa ulaştın. Ama seni eğitmek bana düşmez. Buradaki işin biter bitmez Ay Tapınağı'na dönmeli ve Rahibe Alathea ile konuşmalısın. Hazır olduğundan emin olmak için seni test edecek ve ancak o zaman sana Elune'un Lütfunu öğretecek.",
+    ["Description"]="Harika bir gün geldi, YOUR_NAME. Sadece Gece elflerinin bildiği yetenekler konusunda eğitildiği yaşa ulaştın. Ama seni eğitmek bana düşmez. Buradaki işin biter bitmez Ay Tapınağı'na dönmeli ve Rahibe Alathea ile konuşmalısın. Hazır olduğundan emin olmak için seni test edecek ve ancak o zaman sana Elune'un Lütfunu öğretecek.",
     ["Objectives"]="Darnassus'ta Rahibe Alathea ile konuş.",
     ["Progress"]="",
     ["Completion"]="",
@@ -19002,7 +19002,7 @@ QuestTranslator_QuestData = {
     ["Title"]="Ironforge'a yolculuk",
     ["Description"]="Sadece birkaç sikke karşılığında, gryphonlarımdan biri seni Ironforge'a götürecek. Oradan Gremlock'un listesini Golnir Bouldertoe'ya teslim et. Onu Derin Dağ Madencilik Loncası'nda bulacaksın. Orası Ironforge'un Büyük Demirci Bölgesi'nde, tam da gryphonumun seni bırakacağı yerde!\\",
     ["Objectives"]="Gryphon ustası Brolan Galebeard'dan Ironforge'a bir gryphon satın al, sonra Gremlock'un Listesini Ironforge'daki Golnir Bouldertoe'ya getir.",
-    ["Progress"]="Sizin için ne yapabilirim, $G(efendim;leydim)?",
+    ["Progress"]="Sizin için ne yapabilirim, efendim?",
     ["Completion"]="Ah, Gremlock'un en iyi öğrencilerinin son listesi. Bir grup onursal baltam hazır. Sadece öğrencilerin isimlerini kazımam gerekiyor.",
     ["minlevel"]="0",
     ["questlevel"]="0",
@@ -22226,7 +22226,7 @@ QuestTranslator_QuestData = {
     ["Description"]="",
     ["Objectives"]="",
     ["Progress"]="Ratchet'e ayak basmadan önce iki kez düşünsen iyi olur, YOUR_NAME! Kirli işlerin hakkında söylentiler dolaşıyor.NEW_LINENEW_LINEYine de şanslısın, az önce Bloodsail Buccaneers ile karşılaşmadan birçok yaralı ile bir gemi geldi. Bu senin tam bir alçak olmadığını kanıtlama şansın. Bandaj için keten bez ve iksirler için boş şişeler getirerek bize yardım et.",
-    ["Completion"]="Yaptığın hatayı gördüğün için mutluyum, YOUR_NAME. Malzemeleri getirmeye devam edin; sizi öyle kolay kolay unutmayacağız, $G(Bayım;Bayan)!",
+    ["Completion"]="Yaptığın hatayı gördüğün için mutluyum, YOUR_NAME. Malzemeleri getirmeye devam edin; sizi öyle kolay kolay unutmayacağız!",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Eski Yaraları Onarmak
