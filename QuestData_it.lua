@@ -27581,9 +27581,9 @@ QuestTranslator_QuestData = {
 -- Rütbeleri Eksiltmek
     ["40673"] = {
     -- Expedition Fleet -> Keşif Filosu. Shattered Hand Clan -> Parçalanmış El Klanı. Anchor's Edge -> Çıpa Kenarı. Echo Isles -> Yankı Adaları, Durotar -> Durotar, Razor Hill -> Jilet Tepesi.
-    -- Hydromancer Shaleborn -> Sukâhini Tortudoğmuş (Shale + Born), Deckmaster Darkhollow -> Güverteustası Karanlıkoyuk (Dark + Hollow).
+    -- Su Büyücüsü Shaleborn -> Sukâhini Tortudoğmuş (Shale + Born), Deckmaster Darkhollow -> Güverteustası Karanlıkoyuk (Dark + Hollow).
     ["Title"]="Rütbeleri Eksiltmek",
-    ["Description"]="Eğer Keşif Filosu'nu (Expedition Fleet) tamamen çökertmek istiyorsak, yılanın başını ezmeliyiz: Kaptanlar, komutanlar, subaylar ve diğer önemli isimler. Parçalanmış El Klanı (Shattered Hand Clan) bana onların isimlerinin bir listesini sağlama nezaketinde bulundu. Güneydoğu Durotar'daki Yankı Adaları'nın (Echo Isles) güneyinde bulunan Çıpa Kenarı'na (Anchor's Edge) git. Oraya vardığında, adadaki nefes alan tüm subaylarla birlikte Sukâhini Tortudoğmuş (Hydromancer Shaleborn) ve Güverteustası Karanlıkoyuk'u (Deckmaster Darkhollow) bulup öldürmelisin. Tüm liderlikleri yerle bir olacak!",
+    ["Description"]="Eğer Keşif Filosu'nu (Expedition Fleet) tamamen çökertmek istiyorsak, yılanın başını ezmeliyiz: Kaptanlar, komutanlar, subaylar ve diğer önemli isimler. Parçalanmış El Klanı (Shattered Hand Clan) bana onların isimlerinin bir listesini sağlama nezaketinde bulundu. Güneydoğu Durotar'daki Yankı Adaları'nın (Echo Isles) güneyinde bulunan Çıpa Kenarı'na (Anchor's Edge) git. Oraya vardığında, adadaki nefes alan tüm subaylarla birlikte Sukâhini Tortudoğmuş (Su Büyücüsü Shaleborn) ve Güverteustası Karanlıkoyuk'u (Deckmaster Darkhollow) bulup öldürmelisin. Tüm liderlikleri yerle bir olacak!",
     ["Objectives"]="Jilet Tepesi'ndeki (Razor Hill) Savaşgetiren Dar'nakk için 10 Keşif Subayını, Sukâhini Tortudoğmuş'u ve Güverteustası Karanlıkoyuk'u katlet.",
     ["Progress"]="Bu yapılmalı, liderleri ölmeli. Halkımıza yapılan zulmün sorumlusu, üzerimize saldıkları o şanssız piyadelerden ziyade bizzat onlardır. Bunu unutma.",
     ["Completion"]="Demek bitti. Komuta zincirleri yok olduğuna göre, keşif heyetinin yeniden organize olması aylar alabilir. Onlara böyle bir lüks tanımayacağız.",
@@ -35150,17 +35150,17 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end Mannoroc Demonic Sigil
 
--- Hidromansi Üzerine El Yazması II
-    -- Mage -> Büyücü, Theramore = Theramore. Kul Tiran Hydromancer -> Kul Tiraslı Hidromansist / Hidromansi Büyücüsü.
-    -- Gilneas = Gilneas, city -> şehir. Manuscript on Hydromancy II -> Hidromansi Üzerine El Yazması II.
+-- Su Büyüsü Üzerine El Yazması II
+    -- Mage -> Büyücü, Theramore = Theramore. Kul Tiran Su Büyücüsü -> Kul Tiraslı Su Büyüsüst / Su Büyüsü Büyücüsü.
+    -- Gilneas = Gilneas, city -> şehir. Manuscript on Hydromancy II -> Su Büyüsü Üzerine El Yazması II.
     -- Library -> Kütüphane, dormant -> uykuda. Revolt and rebellion -> Ayaklanma ve isyan. Brave -> Meydan okumak / Atılmak.
     -- Secrets -> Sırlar, powerful magic -> güçlü büyü. Magus Hallister, Theramore Isle = Theramore Adası.
     -- Dustwallow Marsh = Dustwallow Bataklığı.
     ["41114"] = {
     -- Asset -> Varlık / Kazanç. Arcane -> Arkan.
-    ["Title"]="Hidromansi Üzerine El Yazması II",
-    ["Description"]="Sen oradaki, büyücü (mage). Theramore için kendini kanıtladın ve sormam gereken vahim bir şey var.\n\nUzun zaman önce, Kul Tiraslı bir Hidromansist (Kul Tiran Hydromancer) Gilneas'ta epey zaman geçirdi ve şehirde Hidromansi üzerine ikinci el yazmasını (manuscript) geride bıraktı. Kütüphanelerine kaydedildiğinden beri öylece uykuda (dormant) duruyor. Orada ayaklanma ve isyan (revolt and rebellion) hikayeleri var. Düşmanlarımız en güçlü büyümüzün sırlarını öğrenmeden önce, bu şehre atılmanı ve el yazmasını geri getirmeni rica etmeliyim.",
-    ["Objectives"]="Dustwallow Bataklığı'ndaki (Dustwallow Marsh) Theramore Adası'nda (Theramore Isle) bulunan Magus Hallister için Hidromansi Üzerine El Yazması II'yi (Manuscript on Hydromancy II) geri getir.",
+    ["Title"]="Su Büyüsü Üzerine El Yazması II",
+    ["Description"]="Sen oradaki, büyücü (mage). Theramore için kendini kanıtladın ve sormam gereken vahim bir şey var.\n\nUzun zaman önce, Kul Tiraslı bir Su Büyüsüst (Kul Tiran Su Büyücüsü) Gilneas'ta epey zaman geçirdi ve şehirde Su Büyüsü üzerine ikinci el yazmasını (manuscript) geride bıraktı. Kütüphanelerine kaydedildiğinden beri öylece uykuda (dormant) duruyor. Orada ayaklanma ve isyan (revolt and rebellion) hikayeleri var. Düşmanlarımız en güçlü büyümüzün sırlarını öğrenmeden önce, bu şehre atılmanı ve el yazmasını geri getirmeni rica etmeliyim.",
+    ["Objectives"]="Dustwallow Bataklığı'ndaki (Dustwallow Marsh) Theramore Adası'nda (Theramore Isle) bulunan Magus Hallister için Su Büyüsü Üzerine El Yazması II'yi (Manuscript on Hydromancy II) geri getir.",
     ["Progress"]="Bu son derece vahim bir mesele. El yazmasını geri getirdin mi?",
     ["Completion"]="Geri getirildi, nihayet. <Magus Hallister rahat bir nefes alır.> Sırlarımız güvenli ellere geri döndü. Değerli bir kazanç (asset) olduğunu kanıtladın ve bir büyücü yoldaş olarak, doğru ellerdeki arkanın (the arcane) gücünü anladığından eminim. Şehirdeki bizlerden bir teşekkür olarak bunu kabul et.",
     ["minlevel"]="0",
@@ -41758,10 +41758,10 @@ QuestTranslator_QuestData = {
 -- The Aqua Stone
     -- Aqua Stone -> Su Taşı (Aqua + Stone).
     -- Margon the Mighty -> Güçlü Margon kalmıştır, Hargul the Hardy -> Dayanıklı Hargul kalmıştır, sea giants -> deniz devleri, island of Lapidis -> Lapidis Adası. Nuisance -> baş belası, Caelan's Rest -> Caelan'ın İnzivası, weeks ago -> haftalar önce. Harmed -> zarar gören, items of importance -> önemli eşyalar, marines -> deniz piyadeleri, assembled -> toplanmak.
-    -- Magically potent stone -> sihirsel olarak güçlü bir taş, Hydromancers -> Su Büyücüleri (Hydromancers). Channel our abilities -> yeteneklerimizi kanalize etmek, increased potency -> artan bir güçle. Treasure -> hazine, wrong hands -> yanlış eller.
+    -- Magically potent stone -> sihirsel olarak güçlü bir taş, Su Büyücüsüs -> Su Büyücüleri (Su Büyücüsüs). Channel our abilities -> yeteneklerimizi kanalize etmek, increased potency -> artan bir güçle. Treasure -> hazine, wrong hands -> yanlış eller.
     ["40151"] = {
     ["Title"]="Su Taşı",
-    ["Description"]="Güçlü Margon (Margon the Mighty) ve oğlu Dayanıklı Hargul (Hargul the Hardy), Lapidis Adası ve çevre sularında dolaşan iki deniz devidir. Özellikle Hargul bir tür baş belası (nuisance) oldu ve haftalar önce Caelan'ın İnzivası'na saldırdı. Kimse zarar görmemiş olsa da, deniz piyadeleri (marines) toplanıp onunla çatışmaya hazırlanmadan önce bazı önemli eşyaları alıp götürdü. Bu eşyalardan biri, güçlü Su Büyücülerinin (Hydromancers) enerjisiyle aşılanmış, sihirsel olarak güçlü bir taş olan Su Taşı'ydı (the Aqua Stone). Bu taşla birlikte, yeteneklerimizi artan bir güçle (increased potency) daha iyi kanalize edebiliriz. Bu değerli hazineyi geri almanı ve bu amaçla Dayanıklı Hargul'u katletmeni istiyorum. Su Büyücülerinin yararından ziyade, onun asla yanlış ellere (wrong hands) geçmemesi için.",
+    ["Description"]="Güçlü Margon (Margon the Mighty) ve oğlu Dayanıklı Hargul (Hargul the Hardy), Lapidis Adası ve çevre sularında dolaşan iki deniz devidir. Özellikle Hargul bir tür baş belası (nuisance) oldu ve haftalar önce Caelan'ın İnzivası'na saldırdı. Kimse zarar görmemiş olsa da, deniz piyadeleri (marines) toplanıp onunla çatışmaya hazırlanmadan önce bazı önemli eşyaları alıp götürdü. Bu eşyalardan biri, güçlü Su Büyücülerinin (Su Büyücüsüs) enerjisiyle aşılanmış, sihirsel olarak güçlü bir taş olan Su Taşı'ydı (the Aqua Stone). Bu taşla birlikte, yeteneklerimizi artan bir güçle (increased potency) daha iyi kanalize edebiliriz. Bu değerli hazineyi geri almanı ve bu amaçla Dayanıklı Hargul'u katletmeni istiyorum. Su Büyücülerinin yararından ziyade, onun asla yanlış ellere (wrong hands) geçmemesi için.",
     ["Objectives"]="Dayanıklı Hargul'dan (Hargul the Hardy) Su Taşı'nı (Aqua Stone) geri al.",
     ["Progress"]="Su Taşı (the Aqua Stone) buradaki bizler için çok büyük önem taşıyor ve onu geri almalıyız.",
     ["Completion"]="İşte bu! Onu geri alma konusundaki tüm ciddi umutlarımızı yitirmiştik ve şimdi o yeniden bizim elimizde. Muhteşem bir gün ve bunların hepsi senin sayende.",
@@ -44371,7 +44371,7 @@ QuestTranslator_QuestData = {
     -- Power of Aqua -> Aqua'nın Gücü (Power + of + Aqua). Arduous campaign struggle implements Boralus stocks running dangerously low -> hepimiz için uzun ve çetin (arduous) bir harekat oldu aylarca süren mücadele boyunca Boralus'tan getirdiğim aletlerle idare ettim ancak stoklarım tehlikeli derecede bizzat azalıyor. Ashenvale = Ashenvale.
     -- Dominion water expedite fleet return journey require new source northwest foreign bewitched Ashenvale -> dönüş yolculuğunda filoyu hızlandırmak (expedite) için su üzerindeki hakimiyetimi yeterince uzun süre koruyacaksam yeni bir kaynağa ihtiyacım olacak kuzeybatıda yabancı ve büyülenmiş Ashenvale ormanı uzanır.
     -- Scryed presence strong volatile elemental spirits region's heart Mystral Lake travel claim rare Refined Aqua Core beings Kul Tiras forget service -> bölgenin kalbinde Mystral Gölü'nde (Mystral Lake) güçlü ama bizzat değişken elementel ruhların varlığını kehanetle gördüm (scryed) oraya seyahat et o varlıklardan nadir bir Arıtılmış Aqua Çekirdeği (Refined Aqua Core) al ve Kul Tiras hizmetini kolay kolay unutmayacaktır.
-    -- Refined Aqua Core -> Arıtılmış Aqua Çekirdeği (Refined + Aqua + Core), Hydromancer Shaleborn -> Hidromansır Kayasoy kalmıştır (Shale + born), Anchor's Edge -> Çıpa Kıyısı kalmıştır (Anchor + 's + Edge), Barrens = Barrens.
+    -- Refined Aqua Core -> Arıtılmış Aqua Çekirdeği (Refined + Aqua + Core), Su Büyücüsü Shaleborn -> Hidromansır Kayasoy kalmıştır (Shale + born), Anchor's Edge -> Çıpa Kıyısı kalmıştır (Anchor + 's + Edge), Barrens = Barrens.
     -- Recovered time find imperative possession core over peace dawning -> Aqua Çekirdeği geri alındı mı bulmanın biraz zaman alabileceğini biliyorum ama bizzat mülkiyetime geçmesi zorunludur (imperative) işte bu işte bu bir çekirdek bitti mi evet huzurun bir kez daha şafak söktüğünü hissedebiliyorum. Arid land beasts mongrels demi-humans assistance tidal elements secured -> bu kurak canavarlar melezler ve yarı-insanlar diyarında kimseden yardım bizzat geleceğine inanmaya cüret edemezdim ama artık gelgit elementlerinin kontrolü güvende teşekkürlerimi sunarım.
     ["40792"] = {
     ["Title"]="Aqua'nın Gücü",
@@ -45630,12 +45630,12 @@ QuestTranslator_QuestData = {
 
 -- The Tower of Lapidis
     -- Tower of Lapidis -> Lapidis Kulesi (Tower + of + Lapidis).
-    -- Arch Hydromancer Lapidis -> Baş Hidromancı Lapidis kalmıştır (Arch + Hydromancer), elementals of water -> su elementalleri, Caelan's Rest -> Caelan'ın İstirahatgahı kalmıştır.
+    -- Arch Su Büyücüsü Lapidis -> Baş Hidromancı Lapidis kalmıştır (Arch + Su Büyücüsü), elementals of water -> su elementalleri, Caelan's Rest -> Caelan'ın İstirahatgahı kalmıştır.
     -- Zul'Hazu -> Zul'Hazu kalmıştır, Gordosh Heights -> Gordosh Tepeleri kalmıştır (Gordosh + Heights).
-    -- Hydromancer Flakereef -> Hidromancı Pulkayalık kalmıştır (Flake + reef), Colonel -> Albay.
+    -- Su Büyücüsü Flakereef -> Hidromancı Pulkayalık kalmıştır (Flake + reef), Colonel -> Albay.
     ["40163"] = {
     ["Title"]="Lapidis Kulesi",
-    ["Description"]="Lapidis Kulesi (The Tower of Lapidis) üzerimizde her an bizi bizzat yok edebilecek büyük bir şer gibi beliriyor. Bu adaya ilk vardığımızda, Baş Hidromancı Lapidis (Arch Hydromancer Lapidis) bazı işçilerimizin ve kendi su elementallerinin yardımıyla bir kule inşa etmeye bizzat girişti. Muazzam gücüyle kule, Caelan'ın İstirahatgahı (Caelan's Rest) kasabası daha bizzat yerini bulamadan çok önce inşa edilmişti. Gücüyle, hem Zul'Hazu trolleriyle hem de Gordosh Tepeleri'nin (Gordosh Heights) ogreleriyle bir ittifak bizzat kazandı. O zamandan beri bize karşı bizzat çalışıyor. Güçlü su elementallerinin ve mühürlü sihirli bir kapının arkasına gizlenerek, kule dikildiğinden beri bizimle bizzat konuşmadı. Eğer bizim için bir umut bizzat olacaksa, Baş Hidromancı Lapidis katledilmelidir. Flakereef de bir Hidromancıydı ve Lapidis'in altında bizzat çalışmıştı. Eğer nereden başlayacağını bilen biri bizzat varsa, o da odur.",
+    ["Description"]="Lapidis Kulesi (The Tower of Lapidis) üzerimizde her an bizi bizzat yok edebilecek büyük bir şer gibi beliriyor. Bu adaya ilk vardığımızda, Baş Hidromancı Lapidis (Arch Su Büyücüsü Lapidis) bazı işçilerimizin ve kendi su elementallerinin yardımıyla bir kule inşa etmeye bizzat girişti. Muazzam gücüyle kule, Caelan'ın İstirahatgahı (Caelan's Rest) kasabası daha bizzat yerini bulamadan çok önce inşa edilmişti. Gücüyle, hem Zul'Hazu trolleriyle hem de Gordosh Tepeleri'nin (Gordosh Heights) ogreleriyle bir ittifak bizzat kazandı. O zamandan beri bize karşı bizzat çalışıyor. Güçlü su elementallerinin ve mühürlü sihirli bir kapının arkasına gizlenerek, kule dikildiğinden beri bizimle bizzat konuşmadı. Eğer bizim için bir umut bizzat olacaksa, Baş Hidromancı Lapidis katledilmelidir. Flakereef de bir Hidromancıydı ve Lapidis'in altında bizzat çalışmıştı. Eğer nereden başlayacağını bilen biri bizzat varsa, o da odur.",
     ["Objectives"]="Caelan'ın İstirahatgahı'ndaki (Caelan's Rest) Hidromancı Flakereef ile konuş.",
     ["Progress"]="Oh, evet, seni Albay (the Colonel) mı gönderdi bizzat?",
     ["Completion"]="Demek sonunda Lapidis hakkında bir şeyler bizzat yapıyoruz. Adamın ne kadar güçlü olduğu göz önüne bizzat alındığında zor bir görev olacak.",
@@ -47698,7 +47698,7 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end Assessing The Situation
     -- Ceaseless Storms
-    -- Hydromancer Finnigan -> Su Büyücüsü Finnigan (Hydromancer -> Su Büyücüsü).
+    -- Su Büyücüsü Finnigan -> Su Büyücüsü Finnigan (Su Büyücüsü -> Su Büyücüsü).
     -- Pearlescent Shard -> Sedefsi Parça / İncimsi Parça (Pearlescent -> Sedefsi/İncimsi, Shard -> Parça).
     -- Balor -> Balor kalmıştır (Ada ismi).
     -- Davenburg -> Davenburg kalmıştır (Yerleşim yeri ismi).
@@ -47707,8 +47707,8 @@ QuestTranslator_QuestData = {
     -- murloc tidecaller -> murlok dalgaçağıranı (murloc -> murlok, tidecaller -> dalgaçağıran).
     ["41709"] = { 
     ["Title"]="Dinmeyen Fırtınalar",
-    ["Description"]="Balor'un fırtınaları beni büyülüyor. Davenburg'da kaldığım süre boyunca ara sıra uzaklara bakıp adanın üzerinde bir sefalet ve kasvet pelerini gibi beliren ağır bulutları görebiliyordum. Diğer su büyücüsü (hydromancer) arkadaşlarımla bir araya geldim ve bu doğal olmayan fenomenin nedeninin ne olabileceğine dair birkaç teori ürettim. Daha önce bu adayı güvenli bir şekilde keşfetmemiz için hiçbir zaman gerçek bir fırsat olmamıştı, ancak SI:7 birliğinin buraya düzenlediği seferle birlikte böyle bir fırsat doğdu ve ben de doğal olarak onlara yardım etmek için gönüllü oldum.\n\nFırtınayı yakından hissetmek, bunun Kul Tiras'ta açık denizde karşılaştığımız rüzgarlardan kesinlikle farklı olduğunu anlamamı sağladı. Dahası, biz su büyücülerine pek de yabancı olmayan bir tür gelgit büyüsü yapıyor gibi görünen yerel murlokları gözlemlemeye başladım. YOUR_NAME, murlok dalgaçağıranını (murloc tidecaller) bul ve sıra dışı bir şeye sahip olup olmadıklarını gör. Son raporlarımız onların kuzeybatı adalarında toplandıklarını söylüyor.",
-    ["Objectives"]="Balor adasındaki büyüye meylli murlokları takip et ve üzerlerinde şüpheli bir şey olup olmadığını araştır. Ardından Balor'daki Su Büyücüsü Finnigan'a (Hydromancer Finnigan) geri dön.",
+    ["Description"]="Balor'un fırtınaları beni büyülüyor. Davenburg'da kaldığım süre boyunca ara sıra uzaklara bakıp adanın üzerinde bir sefalet ve kasvet pelerini gibi beliren ağır bulutları görebiliyordum. Diğer su büyücüsü (Su Büyücüsü) arkadaşlarımla bir araya geldim ve bu doğal olmayan fenomenin nedeninin ne olabileceğine dair birkaç teori ürettim. Daha önce bu adayı güvenli bir şekilde keşfetmemiz için hiçbir zaman gerçek bir fırsat olmamıştı, ancak SI:7 birliğinin buraya düzenlediği seferle birlikte böyle bir fırsat doğdu ve ben de doğal olarak onlara yardım etmek için gönüllü oldum.\n\nFırtınayı yakından hissetmek, bunun Kul Tiras'ta açık denizde karşılaştığımız rüzgarlardan kesinlikle farklı olduğunu anlamamı sağladı. Dahası, biz su büyücülerine pek de yabancı olmayan bir tür gelgit büyüsü yapıyor gibi görünen yerel murlokları gözlemlemeye başladım. YOUR_NAME, murlok dalgaçağıranını (murloc tidecaller) bul ve sıra dışı bir şeye sahip olup olmadıklarını gör. Son raporlarımız onların kuzeybatı adalarında toplandıklarını söylüyor.",
+    ["Objectives"]="Balor adasındaki büyüye meylli murlokları takip et ve üzerlerinde şüpheli bir şey olup olmadığını araştır. Ardından Balor'daki Su Büyücüsü Finnigan'a (Su Büyücüsü Finnigan) geri dön.",
     ["Progress"]="Kul Tiras ve Balor ortak bir geçmişi paylaşıyor; onlarca yıl önce toy ulusumuzla ticaret yapanlar onların gemileri olmasaydı. Bu yüzden, ne kadar zayıf olursa olsun, bu yerle aramda uzak bir bağ ve aşinalık hissediyorum.",
     ["Completion"]="Bu parlaklık ve doku...! Küçük bir parçasında bile gelgitlerin içinde yankılandığını hissedebiliyorum. Ve bunu bir altarın üzerindeki, enerjiyle çatırdayan devasa bir inciden mi aldın? Sana karşı dürüst olacağım, bu kulağa son derece endişe verici geliyor.",
     ["minlevel"]="0",
@@ -51476,7 +51476,7 @@ QuestTranslator_QuestData = {
     -- Tiara of the Deep -> Derinlerin Tacı
     -- Tabetha -> Tabetha (MobNpcData.lua)[cite: 1]
     -- Dustwallow Marsh -> Tozbatak Bataklığı (ZoneData.lua)[cite: 2]
-    -- Hydromancer Velratha -> Su Büyücüsü Velratha (MobNpcData.lua)[cite: 1]
+    -- Su Büyücüsü Velratha -> Su Büyücüsü Velratha (MobNpcData.lua)[cite: 1]
     -- Zul'Farrak -> Zul'Farrak (ZoneData.lua)[cite: 2]
     -- Tanaris -> Tanaris (ZoneData.lua)[cite: 2]
     ["2846"] = {
@@ -65765,14 +65765,7 @@ QuestTranslator_QuestData = {
 
     --123456789
 
-
-	
-
-	
-
-	
-
-	["8041"] = {    ["Title"]="Strength of Mount Mugamba",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="Hail, $C. I am Jin'rokh the Breaker, troll of Mugamba. We of the Zandalar tribe recognize your accomplishments. We salute your tenacity and strength of will.NEW_LINENEW_LINEWear this talisman around your neck, $C. Let the strength of Mount Mugamba flow through your being. Be empowered as you strike down our enemies!",    ["minlevel"]="60",    ["questlevel"]="60"},
+    ["8041"] = {    ["Title"]="Strength of Mount Mugamba",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="Hail, $C. I am Jin'rokh the Breaker, troll of Mugamba. We of the Zandalar tribe recognize your accomplishments. We salute your tenacity and strength of will.NEW_LINENEW_LINEWear this talisman around your neck, $C. Let the strength of Mount Mugamba flow through your being. Be empowered as you strike down our enemies!",    ["minlevel"]="60",    ["questlevel"]="60"},
 
 	["8042"] = {    ["Title"]="Strength of Mount Mugamba",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="It is good to see you in good health, YOUR_NAME. The glorious battles you have undertaken affect all life on this planet. Hakkar must never leave the confines of Zul'Gurub as the world will surely collapse beneath his immense hunger.NEW_LINENEW_LINEGive me your talisman and I shall amplify its strength. Use the Strength of Mugamba to punish our enemies!",    ["Completion"]="Our paths will cross again, $C.",    ["minlevel"]="60",    ["questlevel"]="60"},
 
@@ -68641,4 +68634,13 @@ QuestTranslator_QuestData = {
 	["55056"] = {    ["Title"]="Winterveil Magic",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="YOUR_NAME, it is my dearest wish to bring joy and happiness to everyone this Winter Veil Season! However, I find myself currently without any sort of legs or appendages with which to move about, and doing so is quite dangerous given my... Flake-like nature...NEW_LINENEW_LINEI need you and all your friends to join forces and pelt me with the power of SNOW magic! Through the joy channeled by your snowball energy, I shall grow to new heights and be able to unleash something special for all to enjoy!",    ["Completion"]="Great one! There's no telling how much power all this joy might unleash!",    ["minlevel"]="1",    ["questlevel"]="60"},
 
 	["80745"] = {    ["Title"]="Illuminate the Moonlit Night",    ["Description"]="The Mid-Autumn Festival is upon us, a time to celebrate unity and joy under the moonlit sky. You’ve been chosen to take part in the ancient lantern-lighting ceremony, a tradition that fills the night with glowing blessings.  Head to the riverbank, place your lantern on the waters, and watch as it drifts, carrying your wishes for peace and prosperity. The spirits of the water will guide your light, spreading warmth and hope through the night.  Return once the lantern has set sail, and you'll be rewarded for your participation in this sacred event.",    ["Objectives"]="Travel to the riverbank and release the lantern into the water.",    ["Progress"]="What a beautiful moonlit night!",    ["Completion"]="The lanterns have drifted far, carrying your blessings to the world.NEW_LINENEW_LINEMay the light you’ve set forth bring peace and joy to you and yours during this festival.NEW_LINENEW_LINETake these mooncakes as a token of our gratitude.",    ["minlevel"]="5",    ["questlevel"]="60"},
+
+
+	
+
+	
+
+	
+
+	
 };
