@@ -65761,215 +65761,1464 @@ QuestTranslator_QuestData = {
     ["minlevel"]="1",
     ["questlevel"]="3",
     }, -- end Zombie Cleansing
+    -- Strength of Mount Mugamba
+    -- Jin'rokh the Breaker -> Kırıcı Jin'rokh (MobNpcData.lua)
+    -- Zul'Gurub -> Zul'Gurub (ZoneData.lua)
+    ["8041"] = {
+    ["Title"]="Mugamba Dağı'nın Gücü",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="",
+    ["Completion"]="Selam, YOUR_CLASS. Ben Kırıcı Jin'rokh, Mugamba trollüyüm. Biz Zandalar kabilesi olarak başarılarını takdir ediyoruz. Azmini ve iradendeki gücü selamlıyoruz.\n\nBu tılsımı boynuna tak, YOUR_CLASS. Mugamba Dağı'nın gücü benliğinde aksın. Düşmanlarımızı yere sererken güçlen!",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Strength of Mount Mugamba
+
+    -- Strength of Mount Mugamba
+    -- Zul'Gurub -> Zul'Gurub (ZoneData.lua)
+    ["8042"] = {
+    ["Title"]="Mugamba Dağı'nın Gücü",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Seni sağlıklı görmek güzel, YOUR_NAME. Üstlendiğin şanlı savaşlar bu gezegendeki tüm yaşamı etkiliyor. Hakkar asla Zul'Gurub'un sınırlarını terk etmemeli, aksi takdirde dünya onun devasa açlığı altında kesinlikle çöker.\n\nBana tılsımını ver, ben de onun gücünü artırayım. Düşmanlarımızı cezalandırmak için Mugamba'nın Gücü'nü kullan!",
+    ["Completion"]="Yollarımız tekrar kesişecek, YOUR_CLASS.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Strength of Mount Mugamba
+
+    -- Strength of Mount Mugamba
+    -- Molthor -> Molthor (MobNpcData.lua)
+    -- Gurubashi -> Gurubashi
+    ["8043"] = {
+    ["Title"]="Mugamba Dağı'nın Gücü",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Usta YOUR_NAME, döndün! Molthor yaptıklarının haberini Kral'a gönderdi. Adın Güney Denizleri'nde bile biliniyor. Belki bir gün efsanevi bir YOUR_CLASS olursun - çağlar boyu anlatılacak bir hikaye.\n\nBana tılsımını ver ki gücünü bir kez daha artırayım.",
+    ["Completion"]="Gurubashi'yi yok etmek için yeni bulduğun gücü kullan!",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Strength of Mount Mugamba
+
+    -- The Rage of Mount Mugamba
+    -- King Rastakhan -> Kral Rastakhan (MobNpcData.lua)
+    -- Jin'rokh -> Jin'rokh (MobNpcData.lua)
+    -- Zul'jin -> Zul'jin (MobNpcData.lua)
+    ["8044"] = {
+    ["Title"]="Mugamba Dağı'nın Öfkesi",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Kral Rastakhan selamlarını iletiyor, Usta YOUR_NAME. Zandalar kabilesi dışından birine daha önce hiç böyle bir onur verilmemişti.\n\n<Jin'rokh eğilir.>\n\nBana tılsımını ver ki onu bir kez daha geliştirebileyim. Bil ki Mugamba'nın Öfkesi artık özünde senin ruhuna bağlı.",
+    ["Completion"]="Zul'jin kıskanırdı, YOUR_CLASS. Git ve fethet!",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end The Rage of Mount Mugamba
+
+    -- The Heathen's Brand
+    ["8045"] = {
+    ["Title"]="Paganın Nişanı",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="",
+    ["Completion"]="Bunu bil, pagan: Bir felaket bizi bir araya getirdi. Senin pagan yolların Zandalar tarafından ne anlaşılıyor ne de takdir ediliyor, ancak biz adil bir halkız. Bu nişanı boynunda taşı. Düşmanlarımıza bir uyarı ve Zandalar ile olan dostluğunun bir sembolü olsun.\n\nHalkımıza hizmet etmeye devam et, ben de nişanın gücünü artırayım.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end The Heathen's Brand
+
+    -- The Heathen's Brand
+    -- Jin'rokh -> Jin'rokh (MobNpcData.lua)
+    ["8046"] = {
+    ["Title"]="Paganın Nişanı",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Yargımda çok aceleci davranmış olabilirim, YOUR_CLASS. Görünüşe göre bu Işık'a olan kör inancının her şeye rağmen bir değeri varmış.\n\nBana nişanını ver, ben de onun gücünü artırayım.",
+    ["Completion"]="Düşmanlarımızı yenmek için ne yapman gerekiyorsa yap, YOUR_CLASS. Işık'ı kanallamak anlamına gelse bile.\n\n<Jin'rokh ürperir.>",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end The Heathen's Brand
+
+    -- The Heathen's Brand
+    ["8047"] = {
+    ["Title"]="Paganın Nişanı",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Atiraf etmeliyim ki, bu davayı sonuna kadar götürecek kararlılığa sahip olduğunu düşünmemiştim, YOUR_CLASS. Zandalar artık seni paha biçilmez bir müttefik olarak görüyor. Gerçekten aferin.\n\nBana nişanını ver ki gücünü bir kez daha artırayım.",
+    ["Completion"]="Inançlarımız farklı ama davamız haklı. Düşmanlarımızı yere ser, soylu YOUR_CLASS.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end The Heathen's Brand
+
+    -- The Hero's Brand
+    -- Rastakhan -> Rastakhan (MobNpcData.lua)
+    ["8048"] = {
+    ["Title"]="Kahramanın Nişanı",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Kral senin varlığını kabul etti, YOUR_CLASS. Türünün Rastakhan tarafından Zandalar'ın gerçek bir müttefiki olarak kabul edilen ilk örneğisin.\n\nÇabaların için cömertçe ödüllendirileceksin. Nişanını sun, ben de son güçlendirmeyi uygulayayım.",
+    ["Completion"]="Uyanıklık, onur, sadakat, cesaret... Tüm bu özellikleri bünyende barındırıyorsun ve nişanın da öyle yapacak.",
+    ["minlevel"]="58",
+    ["questlevel"]="60",
+    }, -- end The Hero's Brand
+
+    -- The Eye of Zuldazar
+    ["8049"] = {
+    ["Title"]="Zuldazar'ın Gözü",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="",
+    ["Completion"]="Takdirimizin bir nişanı olarak bu tılsımı kabul et, rahip.\n\nZuldazar'ın Gözü, Zandalar trolleriyle olan bağın güçlendikçe güçlenecek. Periyodik olarak bana geri dön, ben de mücevheri işleyeyim.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end The Eye of Zuldazar
+
+    -- The Eye of Zuldazar
+    -- Gurubashi -> Gurubashi
+    -- King Rastakhan -> Kral Rastakhan (MobNpcData.lua)
+    ["8050"] = {
+    ["Title"]="Zuldazar'ın Gözü",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Gurubashi'ye karşı verdiğin savaşların hikayeleri rüzgarda fısıldanıyor, rahibe. Kraliyet ailesi bile yaptıklarından bahsetmeye başladı. Kral Rastakhan'ın adını bizzat andığı söyleniyor.\n\nGöz'ü işleme zamanı geldi. Tılsımı bana uzat, ben de hizmetimi gerçekleştireyim.",
+    ["Completion"]="Girişimlerinde kararlı ol, YOUR_NAME. Ruhsoyan yaşama iradeni emmeye çalışacaktır.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end The Eye of Zuldazar
+
+    -- The Eye of Zuldazar
+    -- Zul'Gurub -> Zul'Gurub (ZoneData.lua)
+    ["8051"] = {
+    ["Title"]="Zuldazar'ın Gözü",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Hoş geldin YOUR_CLASS. Zuldazar'ın Gözü enerjiyle çarpar. Bir sonraki adımı atmaya hazırsın. Tılsımı bana ver, ben de güçlendirmeyi gerçekleştireyim.",
+    ["Completion"]="Ruhsoyan ve uşaklarına karşı savaşmaya devam et, YOUR_NAME. Onun Zul'Gurub'un sınırlarını terk etmesine asla izin verilmemelidir.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end The Eye of Zuldazar
+
+    -- The All-Seeing Eye of Zuldazar
+    -- Al'tabim -> Al'tabim (MobNpcData.lua)
+    -- Hakkar -> Hakkar (MobNpcData.lua)
+    ["8052"] = {
+    ["Title"]="Zuldazar'ın Her Şeyi Gören Gözü",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Keşke senin gibi on bin tanemiz daha olsaydı, YOUR_NAME. Hakkar'ın orduları göz açıp kapayıncaya kadar rüzgara savrulurdu.\n\n<Al'tabim iç çeker.>\n\nNe yazık ki, Göz tam potansiyeline ulaşmaya hazır. Onu bana ver.",
+    ["Completion"]="Hepsini çarp ve bırak Hakkar onları ayıklasın...",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end The All-Seeing Eye of Zuldazar
+
+    -- Paragons of Power: The Haruspex's Tunic
+    -- Zul'Gurub -> Zul'Gurub (ZoneData.lua)
+    -- Maywiki of Zuldazar -> Zuldazar'lı Maywiki (MobNpcData.lua)
+    -- Yojamba Isle -> Yojamba Adası (ZoneData.lua)
+    -- Stranglethorn Vale -> Stranglethorn Vadisi (ZoneData.lua)
+    ["8065"] = {
+    ["Title"]="Güç Mümessilleri: Kahinin Tuniki",
+    ["Description"]="Bir kahinin gücünün nihai sembolü giydiği şeydir, YOUR_NAME. Bunlar arasında tunik, kendileri ile aradıkları ilahi bilgelik arasındaki bağı simgeler. Genellikle kurban ettikleri mahlukların parçalarını tuniğe dokurlar; bu onlara yetenekleriyle olan bağlarını hatırlatır.\n\nBana Zul'Gurub'un içinden bir Güç Mümessili adağı getir ve bize değerini kanıtla. Bunu yap, bir kahinin gerçek gücüyle sızan bir tunik senin olsun.",
+    ["Objectives"]="Zuldazar'lı Maywiki'ye bir İlkel Hakkari Tabardı getir. Zuldazar'lı Maywiki, Stranglethorn Vadisi'ndeki Yojamba Adası'nda bulunur. Ayrıca Zandalar ile Saygın olmalısın.",
+    ["Progress"]="Zul'Gurub'dan gerekli Güç Mümessillerini aldın mı? Kahinin tuniki yapman gereken her türlü çabaya fazlasıyla değer.",
+    ["Completion"]="Etkileyici... gerekli Güç Mümessillerini başarıyla topladın, YOUR_NAME. Zandalar için Zul'Gurub'da başardıkların efsanevi; bundan böyle kabile arasında hürmet göreceksin. İşte tunikin, yüce YOUR_CLASS!",
+    ["minlevel"]="58",
+    ["questlevel"]="60",
+    }, -- end Paragons of Power: The Haruspex's Tunic
+
+    -- Paragons of Power: The Haruspex's Belt
+    -- Zul'Gurub -> Zul'Gurub (ZoneData.lua)
+    -- Maywiki of Zuldazar -> Zuldazar'lı Maywiki (MobNpcData.lua)
+    -- Yojamba Isle -> Yojamba Adası (ZoneData.lua)
+    -- Stranglethorn Vale -> Stranglethorn Vadisi (ZoneData.lua)
+    ["8064"] = {
+    ["Title"]="Güç Mümessilleri: Kahinin Kemeri",
+    ["Description"]="Biz Zandalar druid yollarını bilmeyiz; doğa bizim ihtiyacımıza göre şekillenecektir, tersi değil. Yine de bir kahin aramızda doğayla en çok uyum içinde olandır ve haklı olarak böyledir. Bir mahlukun ruhunu teslim etmek, onlardan biri olmanın ne demek olduğunu bilmektir. Doğanın gerçek gücü budur.\n\nBana Zul'Gurub'un içinden bir Güç Mümessili adağı getirerek kendini bize kanıtla. Bunu yap, ben de sana güçlü bir eşya vereyim - Zandalar kahinlerinin çoğu tarafından kullanılan bir kemer.\n\nGüçlü mojo, dostum!",
+    ["Objectives"]="Zuldazar'lı Maywiki'ye bir İlkel Hakkari Kuşağı getir. Zuldazar'lı Maywiki, Stranglethorn Vadisi'ndeki Yojamba Adası'nda bulunur. Ayrıca Zandalar ile Hürmetli olmalısın.",
+    ["Progress"]="Zul'Gurub'dan ihtiyacım olan Güç Mümessillerini aldın mı? Onlara sahipsen kahinin kemeri senin olacak.",
+    ["Completion"]="Sana teşekkür ederim - bu eşyalardaki gizil güç kendi başlarına birer hazine olacak, emin ol. Sadece senden istediğimi yapmakla kalmadın, aynı zamanda kabilede bizlere karşı onurlu olduğunu da kanıtladın. Söz verildiği gibi, işte ödülün!",
+    ["minlevel"]="58",
+    ["questlevel"]="60",
+    }, -- end Paragons of Power: The Haruspex's Belt
+
+    -- Paragons of Power: The Madcap's Bracers
+    -- Zul'Gurub -> Zul'Gurub (ZoneData.lua)
+    -- Falthir the Sightless -> Görmez Falthir (MobNpcData.lua)
+    -- Yojamba Isle -> Yojamba Adası (ZoneData.lua)
+    -- Stranglethorn Vale -> Stranglethorn Vadisi (ZoneData.lua)
+    ["8063"] = {
+    ["Title"]="Güç Mümessilleri: Çılgının Bileklikleri",
+    ["Description"]="Zandalar çılgınları düzenbazlara benzer, ama her şeyden önce deliliği... kaosu... varoluşun öngörülemezliğini kucaklarlar. Savaş alanında görülmesi korkunç bir manzara olan bu kişiler, kabileler bölündükten sonraki vahşi zamanlarda düşmanlarımız arasında kargaşa ve kaos tohumları ektiler. Onlar olmasaydı bugün burada olamazdık.\n\nBana Zul'Gurub'dan aradığım Güç Mümessillerini getir, ben de sana çılgının değerli zırhlarından ilkini bağışlayayım. Deliliği kucakla!",
+    ["Objectives"]="Görmez Falthir'e bir İlkel Hakkari Kol Desteliği getir. Ayrıca Zandalar Kabilesi ile Dost veya daha yüksek bir itibara sahip olmalısın.\n\nGörmez Falthir, Stranglethorn Vadisi'ndeki Yojamba Adası'nda bulunur.",
+    ["Progress"]="Zul'Gurub'un içinden deliliği ara ve onu kendininkimle gölgede bırak, YOUR_NAME! Bunu yapmak başarı demektir ve başarı ödül demektir! Kan Tanrısı'nın yeniden hüküm sürmesine izin verme!",
+    ["Completion"]="Aferin YOUR_NAME... Zul'Gurub'daki başarıların sana Zandalar kabilesini dost olarak adlandırma hakkını kazandırdı. Mümessillerin icabına bakacağım; çaban için lütfen bu ödülü kabul et!",
+    ["minlevel"]="58",
+    ["questlevel"]="60",
+    }, -- end Paragons of Power: The Madcap's Bracers
+
+    -- Paragons of Power: The Predator's Bracers
+    -- Gurubashi -> Gurubashi
+    -- Zul'Gurub -> Zul'Gurub (ZoneData.lua)
+    -- Falthir the Sightless -> Görmez Falthir (MobNpcData.lua)
+    -- Yojamba Isle -> Yojamba Adası (ZoneData.lua)
+    -- Stranglethorn Vale -> Stranglethorn Vadisi (ZoneData.lua)
+    ["8062"] = {
+    ["Title"]="Güç Mümessilleri: Yırtıcının Bileklikleri",
+    ["Description"]="Gurubashi İmparatorluğu'nun çöküşünden sonraki karanlık zamanlarda, Zandalar yırtıcıları marifetlerini kabileye rızık sağlamak için kullandılar. Avcılar kabilemizin yırtıcılarına çok benzediklerini iddia ederler - avı aramak yırtıcının özünü bünyesinde barındırmaktır, evet. Ancak Zul'Gurub'daki avın, en iyi yırtıcılarımız arasında gerçekte nerede olduğunu bize gösterecek.\n\nBana Zul'Gurub'un içinden Güç Mümessillerinden bir numune getir. Bunu yap ve sondan bir önceki yırtıcı olma yolunda ilk adımları at.",
+    ["Objectives"]="Zul'Gurub'dan Görmez Falthir'e şu Güç Mümessillerini getir: Bir İlkel Hakkari Bağları. Ayrıca Zandalar Kabilesi ile Dost veya daha yüksek bir itibara sahip olmalısın.\n\nGörmez Falthir, Stranglethorn Vadisi'ndeki Yojamba Adası'nda bulunur.",
+    ["Progress"]="Zul'Gurub'da Güç Mümessillerine sahip olacak olanları avla, YOUR_NAME. Onlar senin avın; ikimizin de sahip olması gereken şeye sahipler.",
+    ["Completion"]="Evet... Güç Mümessillerinin varlığını hissetmek için görmeye ihtiyacım yok. Zul'Gurub'daki başarın kabiledeki birçok kişiyi etkiledi. Seni sadece Zandalar'ın bir dostu olarak görmekle kalmıyor, aynı zamanda yırtıcının bilekliklerine -güçlü eşyalar ve yırtıcı olmanın ne demek olduğunun bir sembolü- sahip olmaya layık görüyoruz. Aferin, YOUR_NAME.",
+    ["minlevel"]="58",
+    ["questlevel"]="60",
+    }, -- end Paragons of Power: The Predator's Bracers
+
+    -- Paragons of Power: The Confessor's Wraps",
+    -- Hakkar -> Hakkar (MobNpcData.lua)
+    -- Gurubashi -> Gurubashi
+    -- Zul'Gurub -> Zul'Gurub (ZoneData.lua)
+    -- Al'tabim the All-Seeing -> Her Şeyi Gören Al'tabim (MobNpcData.lua)
+    -- Yojamba Isle -> Yojamba Adası (ZoneData.lua)
+    -- Stranglethorn Vale -> Stranglethorn Vadisi (ZoneData.lua)
+    ["8061"] = {
+    ["Title"]="Güç Mümessilleri: Günah Çıkartıcının Sargıları",
+    ["Description"]="Biz Zandalar, ilahiliğin otoritesiyle konuşanlara güç yatırırız. Rahiplerimiz sadece şifacı değildir - onlar bizim günah çıkartıcılarımızdır. Kötülük hem dış tehditlerden -Hakkar gibi- hem de kabilenin içinden gelir. Günah çıkartıcılarımız aramızda yargıç görevi görerek, Gurubashi'yi kendi içinden yiyip bitiren aynı kötülükten bizi korurlar.\n\nZul'Gurub'a git ve Gurubashi'den Güç Mümessillerini geri getir. Günah çıkartıcı olmanın ne demek olduğunu öğren ve bizi kötülükten koru.",
+    ["Objectives"]="Her Şeyi Gören Al'tabim'e bir İlkel Hakkari Payandası getir. Ayrıca Zandalar Kabilesi ile Dost veya daha yüksek bir itibara sahip olmalısın.\n\nHer Şeyi Gören Al'tabim, Stranglethorn Vadisi'ndeki Yojamba Adası'nda bulunur.",
+    ["Progress"]="Zul'Gurub'dan döndün mü? Hakkar'ın uşaklarından Güç Mümessillerini geri almayı başardın mı?",
+    ["Completion"]="Olağanüstü, YOUR_NAME! Bunları bana getirmek küçük bir başarı değildi. Hakkar tehdidine karşı kendimizi korurken bugün kabilemizin günah çıkartıcısı olarak hareket ettiğine şüphe yok. Bu sargılar senin gibi kabilenin bir dostuna yakışır!",
+    ["minlevel"]="58",
+    ["questlevel"]="60",
+    }, -- end Paragons of Power: The Confessor's Wraps
+
+    -- Paragons of Power: The Illusionist's Wraps
+    -- Al'tabim -> Al'tabim (MobNpcData.lua)
+    -- Zul'Gurub -> Zul'Gurub (ZoneData.lua)
+    -- Gurubashi -> Gurubashi
+    -- Hakkar -> Hakkar (MobNpcData.lua)
+    -- Al'tabim the All-Seeing -> Her Şeyi Gören Al'tabim (MobNpcData.lua)
+    -- Yojamba Isle -> Yojamba Adası (ZoneData.lua)
+    -- Stranglethorn Vale -> Stranglethorn Vadisi (ZoneData.lua)
+    ["8060"] = {
+    ["Title"]="Güç Mümessilleri: İllüzyonistin Sargıları",
+    ["Description"]="Kabilemizdeki büyücüler illüzyonistler olarak bilinir. Efsunlarında güçlü mojo kullanırlar, genellikle kabilenin düşmanlarını şaşırtır ve kafalarını karıştırırlar!\n\n<Al'tabim haince güler.>\n\nGüçlü bir illüzyonisti iş başında görmek, düşmanlarımızı kendi delilikleriyle dize getirmesini izlemek oldukça harika bir manzara!\n\nİllüzyonistlerimizin yolunu öğrenmen için Zul'Gurub'a git ve bana seçilmiş Güç Mümessillerini geri getir. Bunun karşılığında sana illüzyonistlerimizin büyülerini dokumak için kullandıkları kol sargılarını vereceğim.",
+    ["Objectives"]="Her Şeyi Gören Al'tabim'e İlkel Hakkari Bağları getir. Ayrıca Zandalar Kabilesi ile Dost veya daha yüksek bir itibara sahip olmalısın.\n\nHer Şeyi Gören Al'tabim, Stranglethorn Vadisi'ndeki Yojamba Adası'nda bulunur.",
+    ["Progress"]="YOUR_NAME - şimdiden döndün mü? İhtiyacım olan Güç Mümessillerini alabildin mi?",
+    ["Completion"]="Etkileyici... içlerinde akan mojuyu hissedebildin mi? Güç Mümessilleri, Gurubashi İmparatorluğu bu toprakları yönetirken bir tür para birimi olarak kullanılırdı. Şimdi biz Zandalar, Kan Tanrısı Hakkar'ın ikinci yükselişiyle savaşmak için içlerindeki gizil mojuyu kullanacağız!\n\nBugün iyi iş çıkardın - Zandalar'da bir dostun olduğunu bil. Bunun için, işte söz verdiğim illüzyonistin sargıları!",
+    ["minlevel"]="58",
+    ["questlevel"]="60",
+    }, -- end Paragons of Power: The Illusionist's Wraps
+
+    -- Paragons of Power: The Demoniac's Wraps
+    -- Zul'Gurub -> Zul'Gurub (ZoneData.lua)
+    -- Hakkar -> Hakkar (MobNpcData.lua)
+    -- Al'tabim the All-Seeing -> Her Şeyi Gören Al'tabim (MobNpcData.lua)
+    -- Yojamba Isle -> Yojamba Adası (ZoneData.lua)
+    -- Stranglethorn Vale -> Stranglethorn Vadisi (ZoneData.lua)
+    ["8059"] = {
+    ["Title"]="Güç Mümessilleri: Zebanicinin Sargıları",
+    ["Description"]="İblislerle uğraşırken iblisatanlar tehlikeli topraklarda yürürler, ancak zebanicilerimiz bunu bir adım daha öteye taşırlar. Kadim ve arkana bir ritüel aracılığıyla, bir iblisin kendi benliklerine girmesine izin verirler. Ancak iblisin kendilerini ele geçirmesine izin vermek yerine, iblisi içeriden köleleştirirler ve kendi komutaları için canavarın gücünü emerler. Bu, çok az kişinin ustalaşabildiği bir başarıdır.\n\nZebanicinin gücünü öğrenmen için Zul'Gurub'dan Güç Mümessillerine sahip olmalıyım. Oraya git ve aradığımız şeyi geri getir.",
+    ["Objectives"]="Her Şeyi Gören Al'tabim'e bir İlkel Hakkari Payandası getir. Ayrıca Zandalar Kabilesi ile Dost veya daha yüksek bir itibara sahip olmalısın.\n\nHer Şeyi Gören Al'tabim, Stranglethorn Vadisi'ndeki Yojamba Adası'nda bulunur.",
+    ["Progress"]="Güç Mümessilleri ile döndün mü? Hakkar'ın şeytani uşaklarını yenerek, sadece kendini bize kanıtlamakla kalmayacak, aynı zamanda zebanici yollarını öğrenme isteğini de göstereceksin.",
+    ["Completion"]="Aferin... hiç şüphesiz Güç Mümessillerini teslim etmeden önce acı verici yollarla ödetildiler. Bunu al - zebanicinin sargıları. Zebanicinin avını çağırmada kullanılan güçlü mojodan yapılmıştır, güç ediniminde güçlü bir araçtır.",
+    ["minlevel"]="58",
+    ["questlevel"]="60",
+    }, -- end Paragons of Power: The Demoniac's Wraps
+
+    -- Paragons of Power: The Vindicator's Armguards
+    -- Hakkar -> Hakkar (MobNpcData.lua)
+    -- Zul'Gurub -> Zul'Gurub (ZoneData.lua)
+    -- Jin'rokh the Breaker -> Kırıcı Jin'rokh (MobNpcData.lua)
+    -- Yojamba Isle -> Yojamba Adası (ZoneData.lua)
+    -- Stranglethorn Vale -> Stranglethorn Vadisi (ZoneData.lua)
+    ["8058"] = {
+    ["Title"]="Güç Mümessilleri: İntikamcının Kol Muhafazaları",
+    ["Description"]="İntikam güçtür. Zandalar intikamcısı böyle bir güçtür. Kabilenin birçok düşmanı var. İntikamcı onlardan ceza alır. Bize karşı işlenen hiçbir suç cezasız kalmaz. İntikamcı bu cezayı verir. Düşmanlarımız intikamımızdan korkar. Korkmalılar. Sonsuza dek korkacaklar.\n\nİntikamcılarımızdan biri ol. Zul'Gurub'un içindeki Güç Mümessillerini ara. Hakkar'ın uşaklarını katlet ve kabile adına intikam talep et. Ödüllendirileceksin.",
+    ["Objectives"]="Kırıcı Jin'rokh'a bir İlkel Hakkari Kol Desteliği getir. Ayrıca Zandalar Kabilesi ile Dost veya daha yüksek bir itibara sahip olmalısın.\n\nKırıcı Jin'rokh, Stranglethorn Vadisi'ndeki Yojamba Adası'nda bulunur.",
+    ["Progress"]="Güç Mümessillerini getirdin mi? Zandalar adına intikam alındı mı?",
+    ["Completion"]="Bugün çok intikam aldın. İntikamcının çehresini büründün. Kan Tanrısı'nın uşaklarını dize getirdin.\n\nBunu al. Gelecekteki intikamını besleyecek. Artık Zandalar'ın bir dostusun.",
+    ["minlevel"]="58",
+    ["questlevel"]="60",
+    }, -- end Paragons of Power: The Vindicator's Armguards
+
+    -- Paragons of Power: The Haruspex's Bracers
+    -- Gurubashi -> Gurubashi
+    -- Zul'Gurub -> Zul'Gurub (ZoneData.lua)
+    -- Maywiki of Zuldazar -> Zuldazar'lı Maywiki (MobNpcData.lua)
+    -- Yojamba Isle -> Yojamba Adası (ZoneData.lua)
+    -- Stranglethorn Vale -> Stranglethorn Vadisi (ZoneData.lua)
+    ["8057"] = {
+    ["Title"]="Güç Mümessilleri: Kahinin Bileklikleri",
+    ["Description"]="Kahin kabilemizin kilit bir üyesidir; onların alametlerini dinlemekle bilgelik edersin. Hayvanlarla komünyon kurarak ve gerektiğinde onları ruhlara sunarak bize ilahi rehberlik sağlarlar. Geçmiş zamanlarda, kahinin içgörüsü ve bilgeliği, Gurubashi'nin bölünmüş kabilelerine karşı yapılan savaşlarda bize üstünlük sağladı.\n\nBana Zul'Gurub'un içinden bir Güç Mümessili adağı getir ve bize değerini kanıtla. Bunu yap, ben de sana Zandalar'ın her kahininin isteyeceği bileklikleri vereyim.",
+    ["Objectives"]="Zuldazar'lı Maywiki'ye bir İlkel Hakkari Payandası getir. Ayrıca Zandalar Kabilesi ile Dost veya daha yüksek bir itibara sahip olmalısın.\n\nZuldazar'lı Maywiki, Stranglethorn Vadisi'ndeki Yojamba Adası'nda bulunur.",
+    ["Progress"]="Zul'Gurub'dan Güç Mümessillerini aldın mı? Bu bileklikler çabana değer, YOUR_NAME. Bana güven dostum!",
+    ["Completion"]="Ah, bu Güç Mümessillerinden gelen gücü hissedebiliyorum, YOUR_NAME. Kabilede \"dost\" olarak adlandırabileceğimiz biri olduğunu kanıtladın. Anlaşma anlaşmadır, YOUR_NAME... kahinin bilekliklerinin gücüne tanık ol!",
+    ["minlevel"]="58",
+    ["questlevel"]="60",
+    }, -- end Paragons of Power: The Haruspex's Bracers
+
+    -- Paragons of Power: The Augur's Bracers
+    -- Zul'Gurub -> Zul'Gurub (ZoneData.lua)
+    -- Maywiki of Zuldazar -> Zuldazar'lı Maywiki (MobNpcData.lua)
+    -- Yojamba Isle -> Yojamba Adası (ZoneData.lua)
+    -- Stranglethorn Vale -> Stranglethorn Vadisi (ZoneData.lua)
+    ["8056"] = {
+    ["Title"]="Güç Mümessilleri: Remmalin Bileklikleri",
+    ["Description"]="Kabilemizin remmalları ilahi görü yetenekleriyle el üstünde tutulurlar, dostum. Cadı doktoru değillerdir; zamanlarını insanlara büyü yapmak yerine içgörü için kemik atmak veya yaprak okumakla geçirirler. Bir şaman olarak remil gücü hakkında zaten bir şeyler biliyorsun; biz Zandalar onların kabileye verdiği içgörüye değer veririz.\n\nBana Zul'Gurub'un içinden bir Güç Mümessili adağı getir ve bize değerini kanıtla. Bizim için bunu yap, ben de sana remmallarımızın her şeyden çok değer verdiği bileklikleri vereyim!",
+    ["Objectives"]="Zuldazar'lı Maywiki'ye bir İlkel Hakkari Kol Desteliği getir. Ayrıca Zandalar Kabilesi ile Dost veya daha yüksek bir itibara sahip olmalısın.\n\nZuldazar'lı Maywiki, Stranglethorn Vadisi'ndeki Yojamba Adası'nda bulunur.",
+    ["Progress"]="Zul'Gurub'dan ihtiyacım olan Güç Mümessillerini aldın mı? Bu bileklikler yapman gereken her türlü çabaya fazlasıyla değer!",
+    ["Completion"]="Sende biraz Zandalar remmalı var gibi görünüyor. Bizim adımıza Zul'Gurub'da yaptığın işleri biliyoruz dostum. Bu Güç Mümessilleri Zandalar kabilesine yardım etmede çok işe yarayacak -ki bu kabileye dost olarak seslenebilirsin. Bu bileklikleri al, YOUR_NAME; onları fazlasıyla hak ettin!",
+    ["minlevel"]="58",
+    ["questlevel"]="60",
+    }, -- end Paragons of Power: The Augur's Bracers
+
+    -- Paragons of Power: The Freethinker's Breastplate
+    -- Zul'Gurub -> Zul'Gurub (ZoneData.lua)
+    -- Jin'rokh the Breaker -> Kırıcı Jin'rokh (MobNpcData.lua)
+    -- Yojamba Isle -> Yojamba Adası (ZoneData.lua)
+    -- Stranglethorn Vale -> Stranglethorn Vadisi (ZoneData.lua)
+    -- Hakkar -> Hakkar (MobNpcData.lua)
+    ["8055"] = {
+    ["Title"]="Güç Mümessilleri: Özgür Düşünürün Göğüslüğü",
+    ["Description"]="Savaş teçhizatı sana kabilede güç verir. Özgür düşünürler bu şekilde onurlandırılır. Onlar taassup sahibidirler. Göğüslüklerini güçlü mojo ile işlerler. Düşman karşısında inançları bocalasa bile göğüslükleri bocalamaz.\n\nBöyle bir göğüslüğe sahip olmak için aramızda saygın olmalısın. Zul'Gurub'a git. İhtiyacım olan Güç Mümessillerini al. Mümessilleri içerideki aptallardan en acı verici şekilde al. Onları bana getir. Özgür bir düşünür olarak değerini bir kez ve herkes için kanıtla.",
+    ["Objectives"]="Kırıcı Jin'rokh'a bir İlkel Hakkari Tabardı getir. Ayrıca Zandalar Kabilesi ile Saygın veya daha yüksek bir itibara sahip olmalısın.\n\nKırıcı Jin'rokh, Stranglethorn Vadisi'ndeki Yojamba Adası'nda bulunur.",
+    ["Progress"]="Mümessiller sende mi? İçlerinde mojo var. Onlara sahip olmalıyız. Bize yardım edeceksin.",
+    ["Completion"]="Çok az kişinin yapabileceği bir şeyi yaptın. Hakkar'ın uşaklarını dize getirdin. Onlara özgür bir düşünürün neler yapabileceğini gösterdin. Bir zındığın kabilede nasıl el üstünde tutulabileceğini bize gösterdin. Gerçek bir güçten daha fazlasına sahipsin. Sen GERÇEK güçsün.\n\nGöğüslüğü al, özgür düşünür. Sana karşı çıkanları ez.",
+    ["minlevel"]="58",
+    ["questlevel"]="61",
+    }, -- end Paragons of Power: The Freethinker's Breastplate
+
+    -- Paragons of Power: The Freethinker's Belt
+    -- Gurubashi -> Gurubashi
+    -- Hakkar -> Hakkar (MobNpcData.lua)
+    -- Zul'Gurub -> Zul'Gurub (ZoneData.lua)
+    -- Jin'rokh the Breaker -> Kırıcı Jin'rokh (MobNpcData.lua)
+    -- Yojamba Isle -> Yojamba Adası (ZoneData.lua)
+    -- Stranglethorn Vale -> Stranglethorn Vadisi (ZoneData.lua)
+    ["8054"] = {
+    ["Title"]="Güç Mümessilleri: Özgür Düşünürün Kemeri",
+    ["Description"]="İnançların bize yabancı, pagan. Kadim Zandalar bir zamanlar zındık olarak damgalanmıştı. Bu, Gurubashi İmparatorluğu'nun güçlü olduğu zamandı. Paganlar Hakkar rahibine meydan okumaya cesaret etti. Paganlar o zamanlar haşere gibi avlandı ve öldürüldü. O paganlar Kan Tanrısı'na karşı savaşlarında asla bocaladı. Ödedikleri bedeli onurlandırıyoruz. Onlar özgür düşünürlerdir.\n\nZul'Gurub'da Hakkar'ın uşaklarını yok et. Aradığım Güç Mümessillerini bana getir. Başarı cömertçe ödüllendirilecek.\n\nGit.",
+    ["Objectives"]="Kırıcı Jin'rokh'a bir İlkel Hakkari Şalı getir. Ayrıca Zandalar Kabilesi ile Hürmetli veya daha yüksek bir itibara sahip olmalısın.\n\nKırıcı Jin'rokh, Stranglethorn Vadisi'ndeki Yojamba Adası'nda bulunur.",
+    ["Progress"]="Varlığın zafer anlamına mı geliyor? Mümessiller sende mi? Düşmanlarının kalıntılarıyla mı süzülüyorsun?",
+    ["Completion"]="Kabiledeki onurun güvence altında. Zul'Gurub'da çok sayıda ölüm talep ediyorsun. Düşmanlar inançlarının önünde düşüyor. Düşmanlar gücünün önünde düşüyor.\n\nBu özgür düşünürün kemeridir. Onur sembolüdür. Güçlü mojodur. Artık senindir.",
+    ["minlevel"]="58",
+    ["questlevel"]="61",
+    }, -- end Paragons of Power: The Freethinker's Belt
+
+    -- Paragons of Power: The Freethinker's Armguards
+    -- Hakkar -> Hakkar (MobNpcData.lua)
+    -- Zul'Gurub -> Zul'Gurub (ZoneData.lua)
+    -- Jin'rokh the Breaker -> Kırıcı Jin'rokh (MobNpcData.lua)
+    -- Yojamba Isle -> Yojamba Adası (ZoneData.lua)
+    -- Stranglethorn Vale -> Stranglethorn Vadisi (ZoneData.lua)
+    ["8053"] = {
+    ["Title"]="Güç Mümessilleri: Özgür Düşünürün Kol Muhafazaları",
+    ["Description"]="Sen bir pagansın. Paganların kabilede bir yeri vardır. Paganlar Zandalar'ın özgür düşünürleridir. Özgür düşünürler baskıdan korkmazlar. Özgür düşünürler inandıkları şey uğruna ölürler. İnandığın şey uğruna öleceğini biliyoruz. Bu bizim takdirimizi kazanır. Bu sana kendini daha fazla kanıtlama şansı kazandırır.\n\nGüç Mümessillerine sahip olmalıyız. Zul'Gurub'a git. Hakkar'ın uşaklarını öldür. Aradığımı aldığında geri dön. Bir Zandalar özgür düşünürünün ilk savaş teçhizatını talep et.\n\nGit.",
+    ["Objectives"]="Kırıcı Jin'rokh'a İlkel Hakkari Bağları getir. Ayrıca Zandalar Kabilesi ile Dost veya daha yüksek bir itibara sahip olmalısın.\n\nKırıcı Jin'rokh, Stranglethorn Vadisi'ndeki Yojamba Adası'nda bulunur.",
+    ["Progress"]="Geri mi döndün? Güç Mümessilleri sende mi? Zamanımı mı harcıyorsun?\n\nUmarım harcamıyorsundur pagan.",
+    ["Completion"]="Bizi onurlandırmak için çok şey yapıyorsun. Ellerin Hakkar'ın uşaklarının kanıyla damlıyor. Kabilenin dostusun.\n\nBu bileklikleri tak. Onlar özgür düşünürün kol muhafazalarıdır. Gerçek güç hakkında kastettiğim şey budur.",
+    ["minlevel"]="58",
+    ["questlevel"]="61",
+    }, -- end Paragons of Power: The Freethinker's Armguards
+
+    -- Talismans of Merit
+    -- Warsong Gulch -> Savaşşarkısı Kanyonu (ZoneData.lua)
+    -- Ashenvale -> Ashenvale (ZoneData.lua)
+    ["7888"] = {
+    ["Title"]="Liyakat Tılsımları",
+    ["Description"]="Savaşşarkısı Kanyonu'ndaki çabalarımıza olan değerini kanıtladın. Davaya yardım etmeye devam et ve bana daha fazla liyakat tılsımı getir. Bunu yap, güvenimizi daha da fazla kazanacaksın.",
+    ["Objectives"]="Son görevin için bir Gümüşkanat Liyakat Tılsımı elde ettin, benimle tekrar konuş ve ödülünü kazan.",
+    ["Progress"]="",
+    ["Completion"]="Teşekkür ederim, YOUR_NAME. Savaşşarkısı Kanyonu'ndaki başarıların Ashenvale Ormanı boyunca yankılanıyor.",
+    ["minlevel"]="40",
+    ["questlevel"]="45",
+    }, -- end Talismans of Merit
+
+    -- The Pebble of Kajaro
+    ["8101"] = {
+    ["Title"]="Kajaro'nun Çakıl Taşı",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="",
+    ["Completion"]="YOUR_RACE, bu tılsımın çerçevesinde tutulan çakıl taşı Güney Denizleri'ndeki Kajaro Dağı'ndan geliyor. Kajaro Dağı kararsızlıkla boğuşan bir alandır - şiddetli ve genellikle büyülü volkanik patlamalarla işaretlenmiştir.\n\nZandalar trolleriyle olan bağın büyüdükçe bu çakıl taşının gücü de büyüyecek. Düşmanlarımızı yere sermek için çakıl taşının gücünü kullan. Dağ gibi ol: Hızlı, patlayıcı, ölümcül...",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end The Pebble of Kajaro
+
+    -- The Pebble of Kajaro
+    -- Kajaro -> Kajaro
+    ["8102"] = {
+    ["Title"]="Kajaro'nun Çakıl Taşı",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Tekrar hoş geldin, YOUR_CLASS. Çakıl taşının çok kullanıldığını görebiliyorum. Düşmanlarımızın birçoğu senin doğaüstü yeteneklerine yenik düştü. Açıları büyük oldu. Çakıl taşının gücünü artırma zamanım geldi. Onu bana ver.",
+    ["Completion"]="Durdurulamaz ol, Kajaro'nun erimiş cepheleri gibi.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end The Pebble of Kajaro
+
+    -- The Pebble of Kajaro
+    -- Hakkari -> Hakkari
+    -- Kajaro -> Kajaro
+    -- Zul'Gurub -> Zul'Gurub (ZoneData.lua)
+    -- Hakkar -> Hakkar (MobNpcData.lua)
+    ["8103"] = {
+    ["Title"]="Kajaro'nun Çakıl Taşı",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Hakkari senden korkuyor, YOUR_NAME. Sadece yüzsüz Tanrılarının gerçekleştirebileceğine inandıkları dehşetlerden bahsediyorlar. Onları Kajaro'nun gücüyle yaktın. Artık iki yerde korkuyu biliyorlar.\n\nÇakıl taşını daha da güçlendirme zamanı. Tılsımı bana uzat.",
+    ["Completion"]="Zul'Gurub trollerini katletmeye devam et. Hakkar, dünyanın kendi boyun eğmez iradesi altında bükülmeyeceğini görmeli.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end The Pebble of Kajaro
+
+    -- The Jewel of Kajaro
+    -- Al'tabim -> Al'tabim (MobNpcData.lua)
+    ["8104"] = {
+    ["Title"]="Kajaro'nun Mücevheri",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Tılsımı bana ver, YOUR_NAME. Sana bir şey göstermeliyim.",
+    ["Completion"]="<Al'tabim görünmez güçlü bir kuvvetle çakıl taşını parçalar.>\n\nGörüyor musun? Çakıl taşı jeot dediğimiz şeydir. Çakıl taşının içinde dünyamızın gizil enerjilerini emen güçlü kristaller var. Çakıl taşını ikiye keserek sonunda tam potansiyelinin gerçekleşmesini sağladım. Düşmanlarımızı yok etmek için kullan.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end The Jewel of Kajaro
+
+    -- Concerted Efforts
+    -- Alterac Valley -> Alterac Vadisi (ZoneData.lua)
+    -- Arathi Basin -> Arathi Havzası (ZoneData.lua)
+    -- Warsong Gulch -> Savaşşarkısı Kanyonu (ZoneData.lua)
+    ["8371"] = {
+    ["Title"]="Koordineli Çabalar",
+    ["Description"]="Artık Horde'a karşı izole savaşlar vermiyoruz, evlat.\n\nBir cephede zafer, Horde'a başka bir savaşta bize karşı kullanacakları kaynakları vermemek anlamına gelir. Aynı şekilde, herhangi bir savaşı kaybetmek, dünyanın başka bir yerindeki rakibimize avantaj sağlayabilir.\n\nİttifak'ın bu tür dünyevi anlayışa sahip daha fazla savaşçıya ihtiyacı var... gerçekten tecrübeli gaziler! YOUR_NAME, aktif tüm savaş alanlarımızda Horde'a karşı hizmet ettikten sonra bana geri dön.",
+    ["Objectives"]="Savaş alanlarının dışındaki bir İttifak Tuğgenerali'ne 3 Alterac Vadisi Onur Nişanı, 3 Arathi Havzası Onur Nişanı ve 3 Savaşşarkısı Kanyonu Onur Nişanı getir.",
+    ["Progress"]="Yolculukların nasıl gidiyor evlat?",
+    ["Completion"]="Hayal kırıklığına uğratacak biri değilsin, YOUR_NAME! Öğrendiğin şey önemsiz madalyaların ve övgülerin ötesine geçiyor. Öğrendiğin şey, yalnızca deneyimle ve savaş alanında mizacın sertleşmesiyle gelebilecek şeydir.\n\nİyi iş çıkardın, YOUR_CLASS. Sen İttifak'ın gerçek bir kahramanısın!",
+    ["minlevel"]="51",
+    ["questlevel"]="60",
+    }, -- end Concerted Efforts
+
+    -- Kezan's Taint",
+    -- Kezan -> Kezan
+    -- Undermine -> Undermine (ZoneData.lua)
+    ["8106"] = {
+    ["Title"]="Kezan'ın Lekesi",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="",
+    ["Completion"]="Bu tılsımı kabul et, YOUR_CLASS. Onu kabul et ve gücünü ortak düşmanlarımızı vurmak için kullan.\n\nBil ki boynunda tarihten bir parça taşıyorsun. Kezan bir zamanlar Zandalar İmparatorluğu'nun büyük bir bölgesiydi. Ne yazık ki, goblin ticaret prenslerinin lekesi gururlu kardeşlerimi dışarı çıkmaya zorlayacaktı.\n\nKezan artık Undermine'ın goblin başkentine ev sahipliği yapıyor; ama bil ki lekedendir önce büyüklüğü barındırıyordu. Bugün bile Kezan halkım için kutsal toprak sayılır.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Kezan's Taint
+
+    -- Kezan's Taint
+    -- Kezan -> Kezan
+    ["8107"] = {
+    ["Title"]="Kezan'ın Lekesi",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Onur Zandalar trolleri arasında kazanılır, YOUR_NAME. Onurla birlikte ödül gelir - dostluk, ittifak...\n\nTılsımı bana uzat ki gücünü artırayım.",
+    ["Completion"]="Karanlıktan beslen, YOUR_CLASS. Gölgeleri kucakla. Kezan'ın Lekesi senin karanlık işlerine katkıda bulunsun.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Kezan's Taint
+
+    -- Kezan's Taint
+    -- Hakkar -> Hakkar (MobNpcData.lua)
+    ["8108"] = {
+    ["Title"]="Kezan'ın Lekesi",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Senin için hazırım, YOUR_CLASS. Tılsımını bir kez daha geliştireceğim. Sadece Hakkar ve uşaklarını yok etmeye devam etmeni istiyorum.\n\nBana tılsımı ver.",
+    ["Completion"]="Ancak ortak çabalarımızla Ruhsoyan'ı durdurabiliriz.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Kezan's Taint
+
+    -- Kezan's Unstoppable Taint
+    -- Kezan -> Kezan
+    -- Hakkari -> Hakkari
+    ["8109"] = {
+    ["Title"]="Kezan'ın Durdurulamaz Lekesi",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="İblislerini çağır, YOUR_CLASS. Kezan'ın Lekesi'nin enerjisinin tadını çıkarsınlar. Savaş alanında onlara komuta et! Düşmanı yok et!\n\nEvet... Kezan'ın Lekesi'ne son güçlendirmeyi uygulamanın zamanı geldi. Tılsımı bana ver.",
+    ["Completion"]="Cesetlerinden etlerini yüz. Gölgelerin Hakkari'yi tüketmesini izle. Korkularından güç çek, YOUR_CLASS. Kezan'ın Lekesi bu gücü artırsın...",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Kezan's Unstoppable Taint
+
+    -- Enchanted South Seas Kelp
+    ["8110"] = {
+    ["Title"]="Büyülü Güney Denizleri Su Yosunu",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="",
+    ["Completion"]="Buradaki su yosununu görüyor musun dostum? Güney Denizleri'nden geliyor. Sadece biraz mojo ve biraz büyü ekliyoruz ve sahibine en uygun özellikleri alıyor.\n\nSen bir YOUR_CLASS olduğun için kolay dostum. Sadece boynuna sar ve doğayı ya da sincapları ya da sizinkilerin sevdiği her neyse onu düşün.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Enchanted South Seas Kelp
+
+    -- Enchanted South Seas Kelp
+    -- Hakkari -> Hakkari
+    -- Molthor -> Molthor (MobNpcData.lua)
+    -- Maywiki -> Maywiki (MobNpcData.lua)
+    ["8111"] = {
+    ["Title"]="Büyülü Güney Denizleri Su Yosunu",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Hey dostum! Seni tekrar görmek güzel. Kabile Hakkari'yi öldürmenden falan bahsedip duruyor. Molthor tılsımına daha fazla mojo eklememi söyledi. Sadece buraya ver, Maywiki onu daha iyi yapsın.",
+    ["Completion"]="Boyunluk tütün içmek için değil dostum! Onu kötülükle savaşmak için kullanmalısın.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Enchanted South Seas Kelp
+
+    -- Enchanted South Seas Kelp
+    -- Maywiki -> Maywiki (MobNpcData.lua)
+    -- Zul'Gurub -> Zul'Gurub (ZoneData.lua)
+    ["8112"] = {
+    ["Title"]="Büyülü Güney Denizleri Su Yosunu",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Tılsım nasıl gidiyor dostum? Yapraklarına biraz daha büyü ve mojo ekleme zamanı gelmiş gibi görünüyor. Solmasında biraz açmaya ihtiyacı var. Buraya ver, Maywiki onu hemen düzeltsin.",
+    ["Completion"]="Şimdi Zul'Gurub'daki kötü trolleri al ve doğa güçlerinin neler yapabileceğini onlara göster dostum!",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Enchanted South Seas Kelp
+
+    -- Pristine Enchanted South Seas Kelp
+    -- Rastakhan -> Rastakhan (MobNpcData.lua)
+    -- Hakkar -> Hakkar (MobNpcData.lua)
+    ["8113"] = {
+    ["Title"]="Kusursuz Büyülü Güney Denizleri Su Yosunu",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="YOUR_NAME! Seni görmeyeli uzun zaman oldu. Kral Rastakhan'ın bizzat tılsımına son mojo ve büyü parçasını eklemem için bana emir verdiğini biliyor muydun? Bu doğru dostum! Kendi gözlerimle görmeseydim inanmazdım. Buraya ver.",
+    ["Completion"]="YOUR_NAME dostum, güzel bir yolculuk oldu. Hakkar ve uşaklarını öldürmeye ve bastırmaya devam et.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Pristine Enchanted South Seas Kelp
+
+    -- Control Four Bases
+    -- Arathi Basin -> Arathi Havzası (ZoneData.lua)
+    -- Field Marshal Oslight -> Saha Mareşali Oslight (MobNpcData.lua)
+    -- Refuge Pointe -> Sığınak Noktası (ZoneData.lua)
+    ["8114"] = {
+    ["Title"]="Dört Üssü Kontrol Et",
+    ["Description"]="YOUR_NAME, Arathi Havzası savaşını düşmanlarımıza taşıdın ve o savaş alanında büyük onurlar kazandın. Bize bir YOUR_CLASS olarak değerini gösterdin ve düşmanlarımıza onların kötülüklerine boyun eğmeyeceğimizi gösterdin!\n\nBizim için kanıtlanmış değerin nedeniyle, sana zor bir görevim var. Arathi Havzası'ndaki üslerin en az dördünü ele geçirip elinde tutmanı istiyorum. Bunu yapabilirsen, sadece kritik kaynakları güvence altına almakla kalmayacak, aynı zamanda Horde'a hakimiyetimizi göstereceğiz!\n\nGit, YOUR_NAME, ve bol şans.",
+    ["Objectives"]="Arathi Havzası'na gir, aynı anda dört üssü ele geçirip kontrol et ve ardından Sığınak Noktası'ndaki Saha Mareşali Oslight'a dön.",
+    ["Progress"]="Henüz dört üs almadın, YOUR_NAME. Arathi Havzası'na dön ve görevlendirildiğin şeyi yap!",
+    ["Completion"]="Çok iyi iş, YOUR_NAME! Heyecanlı bir gözcü yaptıklarının raporuyla bana geldi. Arathor Birlikleri olarak çok memnunuz!\n\nBirliklerdeki askerler arasında hızla yerel bir kahraman oluyorsun ve bugünkü hareketin mükemmel itibarını bir kez daha kanıtlıyor.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Control Four Bases
+
+    -- Control Five Bases
+    -- Arathi Basin -> Arathi Havzası (ZoneData.lua)
+    -- Defilers -> Kirleticiler
+    -- Field Marshal Oslight -> Saha Mareşali Oslight (MobNpcData.lua)
+    -- Refuge Pointe -> Sığınak Noktası (ZoneData.lua)
+    -- Forsaken -> Terkedilmişler
+    ["8115"] = {
+    ["Title"]="Beş Üssü Kontrol Et",
+    ["Description"]="YOUR_NAME, Arathi Havzası'nın kaynakları için savaşmak kanlı bir girişimdir. Arathor Birlikleri'ne hizmetlerinize takdir edildiği kadar ihtiyaç da duyulmaktadır.\n\nVe senin için bir görevimiz daha var.\n\nBirlikler, Kirleticiler'in Arathi Havzası işgaline karşı güçlü bir hamle yapmak istiyor. Onların savaş alanındaki her stratejik noktadan sürülmesini istiyoruz!\n\nKolay olmayacak, ancak birisi bunu başarabilecekse, o sensin.",
+    ["Objectives"]="Arathi Havzası'nda aynı anda 5 üssü kontrol et, ardından Sığınak Noktası'ndaki Saha Mareşali Oslight'a dön.",
+    ["Progress"]="Görevini henüz tamamlamadın, YOUR_NAME. Zor ama sana olan inancım tam.",
+    ["Completion"]="Başardın! Tüm üsleri aldın! Aferin, YOUR_NAME!\n\nŞansından şüphe duyanlar vardı ama ben başarabileceğini biliyordum. Teşekkür ederim ve bil ki Arathor Birlikleri sana büyük saygı duyuyor, tıpkı Terkedilmişler'in Kirleticileri'nin adının anılmasından bile korkması gerektiği gibi!",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Control Five Bases
+
+    -- Vision of Voodress
+    -- Maywiki -> Maywiki (MobNpcData.lua)
+    -- Voodress -> Voodress
+    ["8116"] = {
+    ["Title"]="Voodress Vizyonu",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="",
+    ["Completion"]="Seninle Maywiki'nin ortak bir yanı var dostum. İkimiz de YOUR_CLASS'ız! Maywiki daha çok mistik olsa da sen daha çok acemisin. Yine de ikimiz de yüce ruhların ne getirdiğini biliyoruz.\n\nHediye olarak sana boynuna takman için bu küreyi veriyorum. Derinlere bak ve Güney Denizleri'ndeki Voodress köyünü gör! Neşeni yerine getirsin!",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Vision of Voodress
+
+    -- Vision of Voodress
+    -- Molthor -> Molthor (MobNpcData.lua)
+    -- Maywiki -> Maywiki (MobNpcData.lua)
+    -- Hakkari -> Hakkari
+    ["8117"] = {
+    ["Title"]="Voodress Vizyonu",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="İyi haberler, YOUR_NAME. Molthor son zamanlarda seni övüp duruyor. Gerçek bir Zandalar kahramanına dönüştüğünü söylüyor.\n\nAyrıca Maywiki'nin küreni biraz daha parlatmasını söyledi! Buraya ver ki Maywiki vizyonu netleştirsin.",
+    ["Completion"]="Kötü Hakkari ruhlarına dikkat et dostum. Dürüst olmak gerekirse korkutucular.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Vision of Voodress
+
+    -- Vision of Voodress
+    -- Maywiki -> Maywiki (MobNpcData.lua)
+    -- Zul'Gurub -> Zul'Gurub (ZoneData.lua)
+    -- Voodress -> Voodress
+    ["8118"] = {
+    ["Title"]="Voodress Vizyonu",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Şa-man! Maywiki şaka yaptı!\n\n<Maywiki güler.>\n\nDemek Zul'Gurub'daki düşmanlarımıza karşı ruhları ve elementleri kullanıyorsun ha? Ruhlara övgüler olsun!\n\nMaywiki küreni parlatacak. Buraya ver, YOUR_NAME.",
+    ["Completion"]="Şimdi ona bir bak, YOUR_NAME. Voodress artık daha da net görünüyor, değil mi? İlkel gücün içinden akmasına izin ver dostum.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Vision of Voodress
+
+    -- The Unmarred Vision of Voodress
+    -- Maywiki -> Maywiki (MobNpcData.lua)
+    -- Hakkar -> Hakkar (MobNpcData.lua)
+    ["8119"] = {
+    ["Title"]="Voodress'in Bozulmamış Vizyonu",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="<Maywiki tılsımını işaret eder.>\n\nOna bak, YOUR_NAME! Canlandı. Ruhlar kürenin etrafında dans ediyor.\n\nOnu Maywiki'ye ver ki son bir ayarlama yapabilsin.",
+    ["Completion"]="Bir gün, YOUR_NAME, bu küreyi doğrudan benimle iletişim kurmak için kullanabileceksin. Hakkar ile yapılan bu savaş ne zaman biterse ve Maywiki eve dönerse. Ruhları çağıralım ve o günün yakında gelmesini isteyelim.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end The Unmarred Vision of Voodress
+
+    -- Conquering Arathi Basin
+    -- Arathi Basin -> Arathi Havzası (ZoneData.lua)
+    -- Defilers -> Kirleticiler
+    ["8370"] = {
+    ["Title"]="Arathi Havzası'nı Fethetmek",
+    ["Description"]="İttifak ile olan çatışmamız gerçek bir savaşa dönüştü. Artık bu noktada savaş alanına girmek için yanlış bahaneler kullanılmıyor veya beklenmiyor.\n\nArathi Havzası için yapılan savaş kaynak savaşıdır, basit ve net. Ya İttifak kaynakları alır ve bize karşı kullanır ya da biz alırız ve savaş çabalarımızı sürdürmek için kullanırız. Kirleticiler'in ihtiyacımız olan kaynak akışını korumasına yardım et, YOUR_NAME!",
+    ["Objectives"]="Savaş alanlarının dışındaki bir Horde Savaşgetiren'ine 3 Arathi Havzası Onur Nişanı getir.",
+    ["Progress"]="Arathi'den haberlerle mi döndün, YOUR_CLASS?",
+    ["Completion"]="Arathi'deki kaynaklarımızı güvence altına almak önemli bir görev! İyi iş çıkardın, YOUR_NAME.",
+    ["minlevel"]="20",
+    ["questlevel"]="29",
+    }, -- end Conquering Arathi Basin
+
+    -- Take Four Bases
+    -- Arathi Basin -> Arathi Havzası (ZoneData.lua)
+    -- League of Arathor -> Arathor Birlikleri
+    -- Deathmaster Dwire -> Ölümustası Dwire (MobNpcData.lua)
+    -- Hammerfall -> Çekiçdüşüşü (ZoneData.lua)
+    -- Defilers -> Kirleticiler
+    ["8121"] = {
+    ["Title"]="Dört Üssü Ele Geçir",
+    ["Description"]="YOUR_NAME, Arathi Havzası üzerindeki savaşlar kızışırken, yaptıklarının haberi birçok kulağa ulaştı. Aramızda büyük saygı görüyorsun, bu da bana sana vereceğim görevi başaracağın konusunda güven veriyor.\n\nArathor Birlikleri'ne bir mesaj gönderme zamanı geldi. Onlara Arathi Havzası'ndaki mülklerinin zayıf olduğunu ve hızla kaybedildiğini göstermeliyiz. Onlara Arathi Havzası'ndaki dört stratejik noktayı aynı anda elinde tutarak bunu göstereceğiz.\n\nBunda başarılı ol, YOUR_NAME ve Kirleticiler arasında büyük saygı kazan.",
+    ["Objectives"]="Arathi Havzası'nda aynı anda dört üssü tut, ardından Çekiçdüşüşü'ndeki Ölümustası Dwire'a dön.",
+    ["Progress"]="Arathi Havzası'na dön, YOUR_NAME ve yapman için gönderildiğin görevi yerine getir! Dört üssü ele geçir ve tut!",
+    ["Completion"]="İyi iş, YOUR_NAME! Arathi Havzası'ndaki son eylemlerin oldukça zordu ve bu yüzden başarıları takdire şayan. Arathor Birlikleri havzadaki son çatışmalardan sarsılmış, yaralarını sarıyor ve umalım ki burada savaşma seçimlerini yeniden düşünüyor olmalı.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Take Four Bases
+
+    -- Take Five Bases
+    -- League of Arathor -> Arathor Birlikleri
+    -- Arathi Basin -> Arathi Havzası (ZoneData.lua)
+    -- Deathmaster Dwire -> Ölümustası Dwire (MobNpcData.lua)
+    -- Hammerfall -> Çekiçdüşüşü (ZoneData.lua)
+    -- Defilers -> Kirleticiler
+    -- Varimathras -> Varimathras (MobNpcData.lua)
+    -- Dark Lady -> Karanlık Hanım (MobNpcData.lua)
+    ["8122"] = {
+    ["Title"]="Beş Üssü Ele Geçir",
+    ["Description"]="Çatışmanın o kadar derinindeyiz ki görmek zor, ancak casuslarımız Arathor Birlikleri'nin kararlılığında bir zayıflama bildiriyor. Bu pencereyi kullanmalı ve onlara acımasız bir darbe indirmeliyiz! Arathi Havzası'na dön ve kendini düşmanlarımızın üzerine at. Onlara lanet oku, onları öldür ve beş stratejik üssün tamamını kontrol et! Askerlerini ön cephelerden çığlıklar atarak ve kanayarak gönder, ağlayan dudaklarında senin acımasızlığının hikayeleri olsun.\n\nBunu yap ve Kirleticiler için büyük bir zafer elde et.",
+    ["Objectives"]="Arathi Havzası'nda aynı anda beş üssü tut, ardından Çekiçdüşüşü'ndeki Ölümustası Dwire'a dön.",
+    ["Progress"]="Arathi Havzası'na dön, YOUR_NAME ve yapman için gönderildiğin görevi yerine getir! Beş üssün tamamını ele geçir ve tut!",
+    ["Completion"]="Sen ve yoldaşların onlara saldırırken İttifak'ın çığlıkları buradan bile duyulabiliyordu, YOUR_NAME. Rütbelerine teslim ettiğin acı ve korku için neredeyse acıyabiliyorum. Neredeyse ama tam olarak değil.\n\nKirleticiler için değerin tartışılmaz. Arathi Havzası'ndaki yaptıkların son derece etkileyiciydi ve Varimathras'ın... ve Karanlık Hanım'ın odalarında yankılandı.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Take Five Bases
+
+    -- Talismans of Merit
+    -- Warsong Gulch -> Savaşşarkısı Kanyonu (ZoneData.lua)
+    -- Ashenvale -> Ashenvale (ZoneData.lua)
+    ["7886"] = {
+    ["Title"]="Liyakat Tılsımları",
+    ["Description"]="",
+    ["Objectives"]="Son görevin için bir Gümüşkanat Liyakat Tılsımı elde ettin, benimle tekrar konuş ve ödülünü kazan.",
+    ["Progress"]="",
+    ["Completion"]="Teşekkür ederim, YOUR_NAME. Savaşşarkısı Kanyonu'ndaki başarıların Ashenvale Ormanı boyunca yankılanıyor.",
+    ["minlevel"]="50",
+    ["questlevel"]="55",
+    }, -- end Talismans of Merit
+
+    -- Talismans of Merit
+    -- Warsong Gulch -> Savaşşarkısı Kanyonu (ZoneData.lua)
+    -- Ashenvale -> Ashenvale (ZoneData.lua)
+    ["7887"] = {
+    ["Title"]="Liyakat Tılsımları",
+    ["Description"]="Savaşşarkısı Kanyonu'ndaki çabalarımıza olan değerini kanıtladın. Davaya yardım etmeye devam et ve bana daha fazla liyakat tılsımı getir. Bunu yap, güvenimizi daha da fazla kazanacaksın.",
+    ["Objectives"]="Son görevin için bir Gümüşkanat Liyakat Tılsımı elde ettin, benimle tekrar konuş ve ödülünü kazan.",
+    ["Progress"]="",
+    ["Completion"]="Teşekkür ederim, YOUR_NAME. Savaşşarkısı Kanyonu'ndaki başarıların Ashenvale Ormanı boyunca yankılanıyor.",
+    ["minlevel"]="30",
+    ["questlevel"]="35",
+    }, -- end Talismans of Merit
+
+    -- Zandalrian Shadow Talisman
+    -- Shera Ali'kh -> Shera Ali'kh
+    -- Zandalar -> Zandalar
+    -- Hakkari -> Hakkari
+    -- Hakkar -> Hakkar (MobNpcData.lua)
+    ["8141"] = {
+    ["Title"]="Zandalar Gölge Tılsımı",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="",
+    ["Completion"]="Hızla ilerliyorsun, genç YOUR_CLASS. Belki de seni Shera Ali'kh'e -Zandalar dilinde Ölümün Eli- kabul etme zamanı gelmiştir. Binlerce yıldır Zandalar İmparatorluğu için suikastçı rolünü oynadık. Çok uzun zamandır boş oturduk, Hakkari'nin güçlenmesine izin verdik. Bir kez daha Hakkar ile karşı karşıyayız, ancak bu sefer birleşik bir YOUR_RACE cephesinin desteği olmadan. Kan Tanrısı'nı ve uşaklarını yok etmede yardım etmesi gereken sensin ve müttefiklerin!\n\nBu tılsımı tak ve yolculuklarında sana yardımcı olmasına izin ver.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Zandalrian Shadow Talisman
+
+    -- Zandalrian Shadow Talisman
+    -- Molthor -> Molthor (MobNpcData.lua)
+    ["8142"] = {
+    ["Title"]="Zandalar Gölge Tılsımı",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Etkileyici, YOUR_NAME. Öldürme konusunda uzun yıllardır kimsede hissetmediğim bir yeteneğin var. Molthor bile Zandalar için yaptığın işlerin farkında. Tılsımını daha da geliştirme zamanı. Onu bana ver.",
+    ["Completion"]="Tılsımın üzerine yerleştirilebilecek tek bir geliştirme kaldı, YOUR_CLASS. Zamanı geldiğinde o geliştirmeyi uygulayacağım.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Zandalrian Shadow Talisman
+
+    -- Zandalrian Shadow Talisman
+    -- Hakkari -> Hakkari
+    ["8143"] = {
+    ["Title"]="Zandalar Gölge Tılsımı",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Hakkari'ye sayısız ölüm getirdiğini hissediyorum, YOUR_NAME. Onların mojosunun kokusunu taşıyorsun.\n\nGölge tılsımının ayıklamaya yardımcı olduğunu varsayıyorum? Onu bana ver ve gücünü artırmama izin ver.",
+    ["Completion"]="Senin kalibrede bir suikastçıya geniş bir alan bırakılmalıdır. Düşmanların saygı duymayı öğrenmeli! Düşman Ölümün Eli'nin parıltısını gördüğünde tam olarak bunu elde edeceksin - çok çok geç...",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Zandalrian Shadow Talisman
+
+    -- Zandalrian Shadow Mastery Talisman
+    -- Zul'Gurub -> Zul'Gurub (ZoneData.lua)
+    -- Shera Ali'kh -> Shera Ali'kh
+    -- Hakkar -> Hakkar (MobNpcData.lua)
+    ["8144"] = {
+    ["Title"]="Zandalar Gölge Ustalığı Tılsımı",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Büyümek için can atıyor, YOUR_NAME. Tılsım yaptığın her şeyi emdi. Zul'Gurub'u dolduran binlerce troll cesedi onun gücünü besledi. Onu bana uzat, son geliştirmeyi yapayım.",
+    ["Completion"]="Bu, Shera Ali'kh çatısı altında son konuşmamız olacak. Bilmen gereken her şeyi biliyorsun. Tılsımı al ve katletmeye devam et. Hakkar'ın Zul'Gurub'dan ayrılmasına asla izin verilmemeli.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Zandalrian Shadow Mastery Talisman
+
+    -- The Maelstrom's Tendril
+    -- Maelstrom -> Maelstrom
+    ["8145"] = {
+    ["Title"]="Maelstrom'un Sürgünü",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="",
+    ["Completion"]="Zandalar halkı arasında YOUR_CLASS mesleği el üstünde tutulur. En büyük avcılarımız kararlılıklarını kanıtlamak için Maelstrom'un kenarına seyahat ederler.\n\nDenizin kalbinden Maelstrom Sürgünleri olarak bilinen su yosunlarını çekerler. Su yosunları daha sonra isabetliliklerini ve güçlerini artırmak için büyülü bir tılsım halinde dokunur.\n\nŞimdi sana Maelstrom'un Sürgünü'nden tek bir dokuma bahşediyorum. Zandalar ile olan bağın büyüdükçe, tılsıma daha fazla güç dokuyacağım.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end The Maelstrom's Tendril
+
+    -- The Maelstrom's Tendril
+    ["8146"] = {
+    ["Title"]="Maelstrom'un Sürgünü",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Buradan bile düşmanlarımızı kırıp geçiren vuruşlarının sesini duyabiliyorum. Çığlıkları ızdırap içinde yankılanıyor.\n\nZandalar trolleri arasında kendine harika bir isim yaptın, YOUR_NAME. Yaptığın her şey için minnettarız.\n\nBaşka bir dokuma ekleyebilmem için tılsımını bana uzat.",
+    ["Completion"]="Tılsımına ekleyebileceğim sadece bir dokuma daha var, YOUR_CLASS",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end The Maelstrom's Tendril
+
+    -- The Maelstrom's Tendril
+    -- Falthir -> Falthir (MobNpcData.lua)
+    -- Hakkar -> Hakkar (MobNpcData.lua)
+    ["8147"] = {
+    ["Title"]="Maelstrom'un Sürgünü",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Ah, YOUR_NAME, seni tekrar koklamak güzel.\n\n<Falthir sırıtır.>\n\nMizah anlayışımı bağışlamalısın. Bazen çok berbat olabilir.\n\nDüşmanlarımıza büyük ıstırap çektirdiğini hissediyorum. Hakkar'ın güçleri öfkeyle adını haykırıyor. Bu çok mükemmel.\n\nTılsımında başka bir dokuma hak ettin. Onu bana uzat.",
+    ["Completion"]="Mühimmatının ucunda kefaret arasınlar.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end The Maelstrom's Tendril
+
+    -- The Maelstrom's Wrath
+    -- Molthor -> Molthor (MobNpcData.lua)
+    -- Rastakhan -> Rastakhan (MobNpcData.lua)
+    -- Hakkari -> Hakkari
+    -- Maelstrom -> Maelstrom
+    ["8148"] = {
+    ["Title"]="Maelstrom'un Gazabı",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Molthor Kral Rastakhan'dan haber getirdi, YOUR_NAME. Kraliyet sarayı Hakkari güçlerini yok etmenden çok etkilendi. Tılsımındaki son dokumayı sana vermem emredildi. Onu bana uzat.",
+    ["Completion"]="Yolculuğun daha yeni başladı, genç YOUR_CLASS. Belki bir gün Maelstrom'u ziyaret eder ve dünyanın kalbine bir göz atarsın.\n\nSana güç ve metanet diliyorum!",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end The Maelstrom's Wrath
+
+    -- Honoring a Hero
+    -- Uther Lightbringer -> Işıkgetiren Uther (MobNpcData.lua)
+    -- Western Plaguelands -> Batı Vebatoprakları (ZoneData.lua)
+    -- Wagner Hammerstrike -> Wagner Çekiçvuruşu (MobNpcData.lua)
+    -- Ironforge -> Demirörs (ZoneData.lua)
+    -- Hillsbrad -> Hillsbrad (ZoneData.lua)
+    -- Plaguelands -> Vebatoprakları (ZoneData.lua)
+    -- Sorrow Hill -> Keder Tepesi (ZoneData.lua)
+    -- Scourge -> Afet
+    -- Arthas -> Arthas (MobNpcData.lua)
+    ["8149"] = {
+    ["Title"]="Bir Kahramanı Onurlandırmak",
+    ["Description"]="Azeroth Hasat Festivali sırasında, bizim adımıza verdikleri fedakarlıklar -bazı durumlarda nihai fedakarlıklar- için kahramanlara teşekkür ederiz. İttifak birçok kahramanı kabul eder, ancak hiçbiri Işıkgetiren Uther'ınki kadar trajik bir hikaye dokumaz.\n\nBu adağı Batı Vebatoprakları'ndaki anıtına götürerek Uther'ı onurlandırmamıza yardım et. Onu heykelinin yanına koy ve sonra bana geri dön. Festivalin sonuna kadar sadece burada olacağım, bu yüzden Uther'a hürmetini sunmak için zaman kaybetme.",
+    ["Objectives"]="Batı Vebatoprakları'ndaki Uther Anıtı'na seyahat et ve heykeline Uther Adağı'nı kullan, ardından Hasat Festivali bitmeden Demirörs dışındaki Wagner Çekiçvuruşu'na dön.",
+    ["Progress"]="Uther Anıtı'na yolculuk yapıp adağı oraya koydun mu?\n\nDaha az deneyimli maceracılar için tehlikeli bir yolculuk olabilir; Nispeten konuşursak, oraya seyahat etmenin daha güvenli bir yolu Hillsbrad'den geçen nehirden kuzeye Vebatoprakları'na seyahat etmek olabilir. Keder Tepesi'ne bitişik bir gölden akar; yakındaki mezardan uzak durarak tepelerden batıya doğru ilerle... Afet ile istila edilmiş bir mezar.",
+    ["Completion"]="Kahramanlar arasında bir kahramandı Uther. en büyük öğrencisi ve Uther'ın kendi oğlu gibi sevdiği biri olan Arthas'ın tüm insanlığa ihanet ettiğinde hissettiği acıyı hayal bile edemiyorum. Yine de Arthas'ı durdurmak için ayağa kalktı ve bu yüzden sonsuza dek gerçek bir paladin olarak hatırlanacak. Savaşı sonuna kadardı, sadece kurtarabileceği kişileri düşünüyordu.\n\nTeşekkür ederim, YOUR_NAME. Bugün büyük bir kahramana saygını sundun, onun ruhunu ve Hasat Festivali'nin ruhunu onurlandırdın.",
+    ["minlevel"]="30",
+    ["questlevel"]="60",
+    }, -- end Honoring a Hero
+
+    -- Honoring a Hero
+    -- Grom Hellscream -> Grom Cehennembağırışı (MobNpcData.lua)
+    -- Demon Fall Canyon -> İblis Düşüşü Kanyonu (ZoneData.lua)
+    -- Ashenvale -> Ashenvale (ZoneData.lua)
+    -- Javnir Nashak -> Javnir Nashak (MobNpcData.lua)
+    -- Orgrimmar -> Orgrimmar (ZoneData.lua)
+    -- Burning Legion -> Yanan Lejyon
+    -- Grommash -> Grommash
+    -- Mannoroth -> Mannoroth (MobNpcData.lua)
+    -- Grom -> Grom (MobNpcData.lua)
+    ["8150"] = {
+    ["Title"]="Bir Kahramanı Onurlandırmak",
+    ["Description"]="Azeroth Hasat Festivali sırasında, bizim adımıza verdikleri fedakarlıklar -bazı durumlarda nihai fedakarlıklar- için kahramanlara teşekkür ederiz. Horde birçok kahramanı kabul eder, ancak hiçbiri Grom Cehennembağırışı kadar gücü ve fedakarlığı örneklendirmez.\n\nBu adağı Ashenvale'in İblis Düşüşü Kanyonu'ndaki anıtına götürerek Grom'u onurlandırmamıza yardım et. Onu kaideye yerleştir ve sonra bana geri dön. Festivalin sonuna kadar sadece burada olacağım, bu yüzden Grom'a hürmetini sunmak için zaman kaybetme.",
+    ["Objectives"]="Ashenvale'in İblis Düşüşü Kanyonu'ndaki Grom Anıtı'na seyahat et ve anıtın kaidesinde Grom Adağı'nı kullan. Hasat Festivali bitmeden Orgrimmar dışındaki Javnir Nashak'a dön.",
+    ["Progress"]="Grom Anıtı'na yolculuk yapıp adağını oraya koydun mu?\n\nAnıtın bulunduğu alan hala Yanan Lejyon'un lekesiyle dokunulmuş durumda. Maceracılık yollarında daha az deneyimliysen, anıta yaklaşırken tetikte ol.",
+    ["Completion"]="Grom'un tam adı -Grommash- \"Devin Kalbi\" anlamına gelir; Mannoroth'a karşı tek başına durmak bundan fazlasını gerektirdi. Sanırım Savaşşefi en iyisini orkların laneti Grom ile başlayıp bittiğinde söyledi. Grom'un fedakarlığının -ve belki de kefaretinin- bugün Horde'un aktığı pınar olması uygun.\n\nTeşekkür ederim, YOUR_NAME. Bugün büyük bir kahramana saygını sundun, onun ruhunu ve Hasat Festivali'nin ruhunu onurlandırdın.",
+    ["minlevel"]="30",
+    ["questlevel"]="60",
+    }, -- end Honoring a Hero
+
+    -- Quell the Silverwing Usurpers
+    -- Ashenvale -> Ashenvale (ZoneData.lua)
+    -- Silverwing -> Gümüşkanat
+    -- Kalimdor -> Kalimdor (ZoneData.lua)
+    -- Silverwing Sentinels -> Gümüşkanat Nöbetçileri
+    -- Warsong -> Savaşşarkısı
+    -- Warsong Gulch -> Savaşşarkısı Kanyonu (ZoneData.lua)
+    -- Captain Shatterskull -> Kaptan Kafatasıkıran (MobNpcData.lua)
+    -- Mor'shan Base Camp -> Mor'shan Üs Kampı (ZoneData.lua)
+    ["7876"] = {
+    ["Title"]="Gümüşkanat Gaspçılarını Bastırmak",
+    ["Description"]="Ashenvale ormanının yaban hayatı Horde'un gücüne boyun eğecek, YOUR_RACE. Gümüşkanat'ın söylediği veya yaptığı hiçbir şey egemen gerekliliğimizi durduramaz. Kalimdor Horde'a aittir. Haklı olarak bize ait olanı hasat etmemizi engellemeye nasıl cüret ederler!\n\nİlerlememizi yavaşlatmaya yönelik zayıf girişimlerini keserken göğsündeki gururun kabarmasına izin ver. Gümüşkanat Nöbetçileri'ni yok et ve bir Savaşşarkısı onur nişanı kazan. Böyle bir nişanla bana geri dön, YOUR_NAME ve ödüllendirileceksin.\n",
+    ["Objectives"]="Savaşşarkısı Kanyonu'na gir ve İttifak'ı yen, bir Savaşşarkısı Kanyonu Onur Nişanı al ve onu Mor'shan Üs Kampı'ndaki Kaptan Kafatasıkıran'a getir.",
+    ["Progress"]="Düşmanlarımızın kanı bir onur nişanıdır. Sende böyle bir nişan var mı?",
+    ["Completion"]="<Kaptan Kafatasıkıran zaferle kükrer>\n\nDaha ne kadar dayanabilirler? Geri çekilmeleri için Horde'un elinden daha kaç İttifak pisliği ölmeli? Bunu sadece zaman gösterecek, YOUR_RACE...",
+    ["minlevel"]="50",
+    ["questlevel"]="59",
+    }, -- end Quell the Silverwing Usurpers
+
+    -- Quell the Silverwing Usurpers
+    -- Ashenvale -> Ashenvale (ZoneData.lua)
+    -- Silverwing -> Gümüşkanat
+    -- Kalimdor -> Kalimdor (ZoneData.lua)
+    -- Silverwing Sentinels -> Gümüşkanat Nöbetçileri
+    -- Warsong -> Savaşşarkısı
+    -- Warsong Gulch -> Savaşşarkısı Kanyonu (ZoneData.lua)
+    -- Captain Shatterskull -> Kaptan Kafatasıkıran (MobNpcData.lua)
+    -- Mor'shan Base Camp -> Mor'shan Üs Kampı (ZoneData.lua)
+    ["7874"] = {
+    ["Title"]="Gümüşkanat Gaspçılarını Bastırmak",
+    ["Description"]="Ashenvale ormanının yaban hayatı Horde'un gücüne boyun eğecek, YOUR_RACE. Gümüşkanat'ın söylediği veya yaptığı hiçbir şey egemen gerekliliğimizi durduramaz. Kalimdor Horde'a aittir. Haklı olarak bize ait olanı hasat etmemizi engellemeye nasıl cüret ederler!\n\nİlerlememizi yavaşlatmaya yönelik zayıf girişimlerini keserken göğsündeki gururun kabarmasına izin ver. Gümüşkanat Nöbetçileri'ni yok et ve bir Savaşşarkısı onur nişanı kazan. Böyle bir nişanla bana geri dön, YOUR_NAME ve ödüllendirileceksin.\n",
+    ["Objectives"]="Savaşşarkısı Kanyonu'na gir ve İttifak'ı yen, bir Savaşşarkısı Kanyonu Onur Nişanı al ve onu Mor'shan Üs Kampı'ndaki Kaptan Kafatasıkıran'a getir.",
+    ["Progress"]="Düşmanlarımızın kanı bir onur nişanıdır. Sende böyle bir nişan var mı?",
+    ["Completion"]="<Kaptan Kafatasıkıran zaferle kükrer>\n\nDaha ne kadar dayanabilirler? Geri çekilmeleri için Horde'un elinden daha kaç İttifak pisliği ölmeli? Bunu sadece zaman gösterecek, YOUR_RACE...",
+    ["minlevel"]="30",
+    ["questlevel"]="39",
+    }, -- end Quell the Silverwing Usurpers
+
+    -- Invaders of Alterac Valley
+    -- Alterac Valley -> Alterac Vadisi (ZoneData.lua)
+    -- Stormpike Expedition -> Fırtınamızrağı Keşif Heyeti
+    -- Frostwolf -> Buzkurdu
+    ["8369"] = {
+    ["Title"]="Alterac Vadisi İşgalcileri",
+    ["Description"]="Dinle, YOUR_NAME. Alterac Vadisi'nde şiddetlenen savaş hakkında ne duymuş olursan ol, bir şey gerçek kalıyor: Fırtınamızrağı Keşif Heyeti Buzkurdu Bölgesi'ni işgal etti. İttifak'ın Horde topraklarını güçlü bir yanıt vermeden işgal etmesine izin verdiğimiz gün, baltamı asıp hayatımın geri kalanını utanç içinde yaşayacağım gündür. Git ve işgalcileri kov!",
+    ["Objectives"]="Savaş alanlarının dışındaki bir Horde Savaşgetiren'ine 3 Alterac Vadisi Onur Nişanı getir.",
+    ["Progress"]="Buzkurtları topraklarından ne haberler getiriyorsun? Alterac Vadisi savaşı nasıl gidiyor?",
+    ["Completion"]="Alterac Vadisi'ndeki topraklarımızı korurken büyük cesaret gösterdin! Üstlerime yaptıklarından bahsedeceğim.",
+    ["minlevel"]="51",
+    ["questlevel"]="60",
+    }, -- end Invaders of Alterac Valley
+
+    -- The Battle for Arathi Basin!
+    -- League of Arathor -> Arathor Birlikleri
+    -- Arathi Basin -> Arathi Havzası (ZoneData.lua)
+    -- Deathmaster Dwire -> Ölümustası Dwire (MobNpcData.lua)
+    -- Hammerfall -> Çekiçdüşüşü (ZoneData.lua)
+    -- Defiler -> Kirletici
+    ["8171"] = {
+    ["Title"]="Arathi Havzası Savaşı!",
+    ["Description"]="Şüphesiz duyduğun gibi, Arathor Birlikleri Arathi Havzası'na büyük miktarda birlik gönderiyor. Yiyecek ve erzak arzusuyla dolu bu İttifak aptalları, oradaki zengin kaynakları alıp kontrol etmeye kararlı. Onlara Arathi'nin bir daha asla insanlara ev olmayacağını göstermeliyiz!\n\nArathi Havzası'na git ve madene, kereste fabrikasına, demirciye ve ahırlara saldır. Düşmanların sancaklarını aşağı indirerek bu bölgeleri Horde için ilan et.\n\nGit, YOUR_NAME. Bu görev tamamlandığında bana rapor ver.",
+    ["Objectives"]="Arathi Havzası madenine, kereste fabrikasına, demirciye ve ahıra saldır, ardından Çekiçdüşüşü'ndeki Ölümustası Dwire'a dön.",
+    ["Progress"]="",
+    ["Completion"]="Bir Kirletici gözcüsü başarınla ilgili bir raporla bana geldi, YOUR_NAME. Aferin.\n\nÖğreneceğin gibi, Arathi Havzası savaşını kazanmak için her zaman tetikte olmalı ve İttifak'ın her türlü genişleme girişimini ezmeliyiz. Bunu yap ve buradaki zaferimiz güvence altına alınsın.",
+    ["minlevel"]="20",
+    ["questlevel"]="25",
+    }, -- end The Battle for Arathi Basin!
+
+    -- Confront Yeh'kinya
+    -- Mosh'aru -> Mosh'aru
+    -- Hakkar -> Hakkar (MobNpcData.lua)
+    -- Yeh'kinya -> Yeh'kinya (MobNpcData.lua)
+    -- Ironboot -> Demirçizme (MobNpcData.lua)
+    -- Zul'Gurub -> Zul'Gurub (ZoneData.lua)
+    ["8181"] = {
+    ["Title"]="Yeh'kinya ile Yüzleş",
+    ["Description"]="Mosh'aru Tabletleri üzerindeki araştırmalarım vahim haberler taşıyor, YOUR_NAME. Hakkar'ın gerçek formu, tanrının kendisi, onu hapsettiğin yumurtadan tekrar doğabilir. Yeh'kinya sana bunun onun kötülüğünü içermek için olduğunu söylemişti ama bunu yeniden yaratmak içinmiş! Troll seni yoldan çıkardı!\n\nYeh'kinya'da git ve yumurtayı ondan talep et. Hakkar'ın dönüşünü durdurmak için çok geç olmadığını dua et!",
+    ["Objectives"]="Yeh'kinya ile konuş.",
+    ["Progress"]="",
+    ["Completion"]="Demek o yaşlı cüce Demirçizme ile konuşuyordun ve kayıp Mosh'aru Tabletleri'ni ortaya çıkardın ha? O müdahaleci madenci...\n\nÖnemli değil. Bu dünyayı kurtarmak için çok geç. Hakkar yeniden doğdu ve şimdi bile kadim troll krallığı Zul'Gurub'un derinliklerinde gücü büyüyor... Geldi! Ve kan ve dehşet içinde hüküm sürecek!\n\nTeşekkür ederim, YOUR_NAME. Yardımın Ruhsoyan'ın dönüşünü hızlandırdı!",
+    ["minlevel"]="40",
+    ["questlevel"]="58",
+    }, -- end Confront Yeh'kinya
+
+    -- Zulian, Razzashi, and Hakkari Coins
+    -- Zul'Gurub -> Zul'Gurub (ZoneData.lua)
+    -- Rin'wosho the Trader -> Tüccar Rin'wosho (MobNpcData.lua)
+    -- Hakkar -> Hakkar (MobNpcData.lua)
+    ["8195"] = {
+    ["Title"]="Zulian, Razzashi ve Hakkari Paraları",
+    ["Description"]="Kabilelerin Paraları olarak bilinen Güç Mümessillerini arıyorum. Onlar Zul'Gurub'un çeşitli sakinleri tarafından kullanılan para birimidir ve her biri ince ama güçlü mojo ile işlenmiştir.\n\nBulunacak dokuz farklı tür var. Bazıları Zandalar kahramanlarına sundukları çeşitli zırhlar için yoldaşlarım tarafından aranıyor. Fazladan paran varsa, üçlü bir set için sana Onur Nişanlarımızdan birini takas edeceğim. Nişanları Tüccar Rin'wosho ile kullanabilirsin; kahramanlarımıza onlar için özel eşyalar sunar.",
+    ["Objectives"]="",
+    ["Progress"]="Kabilelerin Paraları olarak bilinen Güç Mümessillerini arıyorum. Onlar Zul'Gurub'un çeşitli sakinleri tarafından kullanılan para birimidir ve her biri ince ama güçlü mojo ile işlenmiştir.\n\nBulunacak dokuz farklı tür var. Bazıları Zandalar kahramanlarına sundukları çeşitli zırhlar için yoldaşlarım tarafından aranıyor. Fazladan paran varsa, üçlü bir set için sana Onur Nişanlarımızdan birini takas edeceğim. Nişanları Tüccar Rin'wosho ile kullanabilirsin; kahramanlarımıza onlar için özel eşyalar sunar.",
+    ["Completion"]="Mükemmel - bu para seti büyüyen koleksiyonumuza harika bir katkı sağlayacak... Kan Tanrısı'nın yükselişine karşı kabilenin savunmasında kullanacağımız bir koleksiyon. Bu Onur Nişanı'nı ve kabilenin teşekkürlerini hak ettin, YOUR_NAME!",
+    ["minlevel"]="58",
+    ["questlevel"]="60",
+    }, -- end Zulian, Razzashi, and Hakkari Coins
+
+    -- Nat's Measuring Tape
+    -- Nat Pagle -> Nat Pagle (MobNpcData.lua)
+    -- Dustwallow Marsh -> Tozluçiğ Bataklığı (ZoneData.lua)
+    -- Zul'Gurub -> Zul'Gurub (ZoneData.lua)
+    -- Gahz'ranka -> Gahz'ranka (MobNpcData.lua)
+    ["8227"] = {
+    ["Title"]="Nat'ın Mezurası",
+    ["Description"]="Kırık balık yemleri ve olta takımları arasında rulo yapılmış, ipeksi bir mezura var. Mezuranın üzerine yapıştırılmış bir etikette şöyle yazıyor:\n\n\"Nat Pagle, Tozluçiğ Bataklığı.\"",
+    ["Objectives"]="Nat'ın Mezurası'nı Tozluçiğ Bataklığı'ndaki Nat Pagle'a geri götür.",
+    ["Progress"]="Merhaba evlat. Biraz balık tutmaya mı geldin?",
+    ["Completion"]="En sevdiğim mezuramı bulmuşsun! Bu mezuraya bayılıyorum! Şimdiye kadar tuttuğum en büyük balıklardan bazılarını bununla ölçtüm...\n\nAma bu mezurayı Zul'Gurub'da kaybettim... Zul'Gurub'da bulundun mu? Efsanevi Gahz'ranka'yı gördün mü?\n\nPeki... onu yakalamak ister misin?",
+    ["minlevel"]="58",
+    ["questlevel"]="60",
+    }, -- end Nat's Measuring Tape
+
+    -- Could I get a Fishing Flier?
+    -- Booty Bay -> Ganimet Körfezi (ZoneData.lua)
+    ["8228"] = {
+    ["Title"]="Bir Balıkçılık İlanı Alabilir miyim?",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="",
+    ["Completion"]="Bu pazar Ganimet Körfezi'nde bir Balıkçılık Yarışması var dostum! İşte senin için kurallar!",
+    ["minlevel"]="35",
+    ["questlevel"]="60",
+    }, -- end Could I get a Fishing Flier?
+
+    -- Could I get a Fishing Flier?
+    -- Booty Bay -> Ganimet Körfezi (ZoneData.lua)
+    ["8229"] = {
+    ["Title"]="Bir Balıkçılık İlanı Alabilir miyim?",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="",
+    ["Completion"]="Bu pazar Ganimet Körfezi'nde bir Balıkçılık Yarışması var! İşte senin için kurallar!",
+    ["minlevel"]="35",
+    ["questlevel"]="60",
+    }, -- end Could I get a Fishing Flier?
+
+    -- Gurubashi, Vilebranch, and Witherbark Coins
+    -- Zul'Gurub -> Zul'Gurub (ZoneData.lua)
+    -- Rin'wosho the Trader -> Tüccar Rin'wosho (MobNpcData.lua)
+    -- Hakkar -> Hakkar (MobNpcData.lua)
+    ["8238"] = {
+    ["Title"]="Gurubashi, Vilebranch ve Witherbark Paraları",
+    ["Description"]="Kabilelerin Paraları olarak bilinen Güç Mümessillerini arıyorum. Onlar Zul'Gurub'un çeşitli sakinleri tarafından kullanılan para birimidir ve her biri ince ama güçlü mojo ile işlenmiştir.\n\nBulunacak dokuz farklı tür var. Bazıları Zandalar kahramanlarına sundukları çeşitli zırhlar için yoldaşlarım tarafından aranıyor. Fazladan paran varsa, üçlü bir set için sana Onur Nişanlarımızdan birini takas edeceğim. Nişanları Tüccar Rin'wosho ile kullanabilirsin; kahramanlarımıza onlar için özel eşyalar sunar.",
+    ["Objectives"]="",
+    ["Progress"]="Kabilelerin Paraları olarak bilinen Güç Mümessillerini arıyorum. Onlar Zul'Gurub'un çeşitli sakinleri tarafından kullanılan para birimidir ve her biri ince ama güçlü mojo ile işlenmiştir.\n\nBulunacak dokuz farklı tür var. Bazıları Zandalar kahramanlarına sundukları çeşitli zırhlar için yoldaşlarım tarafından aranıyor. Fazladan paran varsa, üçlü bir set için sana Onur Nişanlarımızdan birini takas edeceğim. Nişanları Tüccar Rin'wosho ile kullanabilirsin; kahramanlarımıza onlar için özel eşyalar sunar.",
+    ["Completion"]="Mükemmel - bu para seti büyüyen koleksiyonumuza harika bir katkı sağlayacak... Kan Tanrısı'nın yükselişine karşı kabilenin savunmasında kullanacağımız bir koleksiyon. Bu Onur Nişanı'nı ve kabilenin teşekkürlerini hak ettin, YOUR_NAME!",
+    ["minlevel"]="58",
+    ["questlevel"]="60",
+    }, -- end Gurubashi, Vilebranch, and Witherbark Coins
+
+    -- Sandfury, Skullsplitter, and Bloodscalp Coins
+    -- Zul'Gurub -> Zul'Gurub (ZoneData.lua)
+    -- Rin'wosho the Trader -> Tüccar Rin'wosho (MobNpcData.lua)
+    -- Hakkar -> Hakkar (MobNpcData.lua)
+    ["8239"] = {
+    ["Title"]="Sandfury, Skullsplitter ve Bloodscalp Paraları",
+    ["Description"]="Kabilelerin Paraları olarak bilinen Güç Mümessillerini arıyorum. Onlar Zul'Gurub'un çeşitli sakinleri tarafından kullanılan para birimidir ve her biri ince ama güçlü mojo ile işlenmiştir.\n\nBulunacak dokuz farklı tür var. Bazıları Zandalar kahramanlarına sundukları çeşitli zırhlar için yoldaşlarım tarafından aranıyor. Fazladan paran varsa, üçlü bir set için sana Onur Nişanlarımızdan birini takas edeceğim. Nişanları Tüccar Rin'wosho ile kullanabilirsin; kahramanlarımıza onlar için özel eşyalar sunar.",
+    ["Objectives"]="",
+    ["Progress"]="Kabilelerin Paraları olarak bilinen Güç Mümessillerini arıyorum. Onlar Zul'Gurub'un çeşitli sakinleri tarafından kullanılan para birimidir ve her biri ince ama güçlü mojo ile işlenmiştir.\n\nBulunacak dokuz farklı tür var. Bazıları Zandalar kahramanlarına sundukları çeşitli zırhlar için yoldaşlarım tarafından aranıyor. Fazladan paran varsa, üçlü bir set için sana Onur Nişanlarımızdan birini takas edeceğim. Nişanları Tüccar Rin'wosho ile kullanabilirsin; kahramanlarımıza onlar için özel eşyalar sunar.",
+    ["Completion"]="Mükemmel - bu para seti büyüyen koleksiyonumuza harika bir katkı sağlayacak... Kan Tanrısı'nın yükselişine karşı kabilenin savunmasında kullanacağımız bir koleksiyon. Bu Onur Nişanı'nı ve kabilenin teşekkürlerini hak ettin, YOUR_NAME!",
+    ["minlevel"]="58",
+    ["questlevel"]="60",
+    }, -- end Sandfury, Skullsplitter, and Bloodscalp Coins
+
+    -- A Bijou for Zanza
+    -- Zul'Gurub -> Zul'Gurub (ZoneData.lua)
+    -- Altar of Zanza -> Zanza Sunağı (ZoneData.lua)
+    -- Yojamba Isle -> Yojamba Adası (ZoneData.lua)
+    -- Vinchaxa -> Vinchaxa (MobNpcData.lua)
+    -- Zanza -> Zanza (MobNpcData.lua)
+    ["8240"] = {
+    ["Title"]="Zanza İçin Mücevher",
+    ["Description"]="Çeşitli Hakkari Mücevherleri'nin yok edilmesi bizim için büyük önem taşıyor, öyle ki kabile dışındakilerin bunu kendileri için yapmalarını memnuniyetle karşılıyoruz!\n\nZul'Gurub'da bulduğun mücevherlerden birini Zanza Sunağı'na götür ve yok et. Sadece bu seferlik, sana kabilemizden ek bir Onur Nişanı vereceğim; bu normalde alacağının üzerindedir.\n\nZanza'nın kutsamalarına kendin tanık ol!",
+    ["Objectives"]="Zul'Gurub'da bulunan Hakkari Mücevherleri'nden birini Yojamba Adası'ndaki Zanza Sunağı'nda yok et. Bittiğinde yakındaki Vinchaxa ile konuş.",
+    ["Progress"]="Zanza Sunağı'ndaki mücevheri yok ettin mi? Bunu yap, Zanza tarafından iki kat kutsanacaksın!",
+    ["Completion"]="Mükemmel... Kan Tanrısı'nın uşaklarından aldığımız her mücevher, onları nihayet bir kez ve herkes için yenmeye bir adım daha yaklaştırıyor. Soylu eylemlerinle Zandalar'a -ve kendine- onur getiriyorsun.\n\nUnutma YOUR_NAME, Zul'Gurub'da bulduğun mücevherleri her zaman sunakta yok edebilirsin. Her biri için takdir ve bir Onur Nişanı kazanacaksın! Zaten nişanlardan birine sahip değilsen envanterinde boş bir yer bırakmayı unutma.",
+    ["minlevel"]="58",
+    ["questlevel"]="60",
+    }, -- end A Bijou for Zanza
+
+    -- Restoring Fiery Flux Supplies via Heavy Leather
+    -- Brotherhood -> Kardeşlik
+    ["8242"] = {
+    ["Title"]="Ağır Deri Yoluyla Ateşli Akı Tedarikini Yenilemek",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Değerli vaktimi zırvalarla harcamayalım, YOUR_RACE. Azalan ateşli akı kaynağımızı yenilemeye odaklanma zamanı.\n\nSenden ihtiyacım olan şey şunlar:\n\n*Ateşdinozoru pulları.\n*Ağır Deri.\n*Kömür.\n\nSunabileceğin her şeyi alacağım!\n\nVe Kardeşlik ile aranızı iyi tutmak istiyorsan bunu hızlı yapmalısın.",
+    ["Completion"]="Ateşli akı için her zaman yer vardır, çaylak. Getirmeye devam et... durmanı söyleyene kadar.",
+    ["minlevel"]="45",
+    ["questlevel"]="60",
+    }, -- end Restoring Fiery Flux Supplies via Heavy Leather
+
+    -- Restoring Fiery Flux Supplies via Kingsblood
+    -- Brotherhood -> Kardeşlik
+    ["7736"] = {
+    ["Title"]="Kralkanı Yoluyla Ateşli Akı Tedarikini Yenilemek",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Değerli vaktimi zırvalarla harcamayalım, YOUR_RACE. Azalan ateşli akı kaynağımızı yenilemeye odaklanma zamanı.\n\nSenden ihtiyacım olan şey şunlar:\n\n*Ateşdinozoru pulları.\n*Kralkanı.\n*Kömür.\n\nSunabileceğin her şeyi alacağım!\n\nVe Kardeşlik ile aranızı iyi tutmak istiyorsan bunu hızlı yapmalısın.",
+    ["Completion"]="Ateşli akı için her zaman yer vardır, çaylak. Getirmeye devam et... durmanı söyleyene kadar.",
+    ["minlevel"]="45",
+    ["questlevel"]="60",
+    }, -- end Restoring Fiery Flux Supplies via Kingsblood
+
+    -- Arathor Basic Care Package
+    -- Arathi Basin -> Arathi Havzası (ZoneData.lua)
+    ["8260"] = {
+    ["Title"]="Arathor Temel Bakım Paketi",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="",
+    ["Completion"]="Bize kendini kanıtlamaya başladın, YOUR_NAME. Ödül olarak lütfen bu bakım paketini al! İçinde yalnızca Arathi Havzası'nda kullanılabilen erzaklar ve sargı bezleri bulacaksın.\n\nHavza'da kendini kanıtlamaya devam ettikçe, bu eşyaların satın alınabilir hale geldiğini göreceksin. Erzaklar bizimle Dost olduğunda, sargı bezleri ise Hürmetli olduğunda kullanılabilir hale gelir.",
+    ["minlevel"]="25",
+    ["questlevel"]="34",
+    }, -- end Arathor Basic Care Package
+
+    -- Arathor Standard Care Package
+    -- Arathi Basin -> Arathi Havzası (ZoneData.lua)
+    ["8261"] = {
+    ["Title"]="Arathor Standart Bakım Paketi",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="",
+    ["Completion"]="Bize kendini kanıtlamaya başladın, YOUR_NAME. Ödül olarak lütfen bu bakım paketini al! İçinde yalnızca Arathi Havzası'nda kullanılabilen erzaklar ve sargı bezleri bulacaksın.\n\nHavza'da kendini kanıtlamaya devam ettikçe, bu eşyaların satın alınabilir hale geldiğini görecek sin. Erzaklar bizimle Dost olduğunda, sargı bezleri ise Hürmetli olduğunda kullanılabilir hale gelir.",
+    ["minlevel"]="35",
+    ["questlevel"]="44",
+    }, -- end Arathor Standard Care Package
+
+    -- Arathor Advanced Care Package
+    -- Arathi Basin -> Arathi Havzası (ZoneData.lua)
+    ["8262"] = {
+    ["Title"]="Arathor Gelişmiş Bakım Paketi",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="",
+    ["Completion"]="Bize kendini kanıtlamaya başladın, YOUR_NAME. Ödül olarak lütfen bu bakım paketini al! İçinde yalnızca Arathi Havzası'nda kullanılabilen erzaklar ve sargı bezleri bulacaksın.\n\nHavza'da kendini kanıtlamaya devam ettikçe, bu eşyaların satın alınabilir hale geldiğini göreceksin. Erzaklar bizimle Dost olduğunda, sargı bezleri ise Hürmetli olduğunda kullanılabilir hale gelir.",
+    ["minlevel"]="45",
+    ["questlevel"]="60",
+    }, -- end Arathor Advanced Care Package
+
+    -- Defiler's Basic Care Package
+    -- Arathi Basin -> Arathi Havzası (ZoneData.lua)
+    ["8263"] = {
+    ["Title"]="Kirleticinin Temel Bakım Paketi",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="",
+    ["Completion"]="Bize kendini kanıtlamaya başladın, YOUR_NAME. Ödül olarak lütfen bu bakım paketini al! İçinde yalnızca Arathi Havzası'nda kullanılabilen erzaklar ve sargı bezleri bulacaksın.\n\nHavza'da kendini kanıtlamaya devam ettikçe, bu eşyaların satın alınabilir hale geldiğini göreceksin. Erzaklar bizimle Dost olduğunda, sargı bezleri ise Hürmetli olduğunda kullanılabilir hale gelir.",
+    ["minlevel"]="25",
+    ["questlevel"]="34",
+    }, -- end Defiler's Basic Care Package
+
+    -- Defiler's Standard Care Package
+    -- Arathi Basin -> Arathi Havzası (ZoneData.lua)
+    ["8264"] = {
+    ["Title"]="Kirleticinin Standart Bakım Paketi",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="",
+    ["Completion"]="Bize kendini kanıtlamaya başladın, YOUR_NAME. Ödül olarak lütfen bu bakım paketini al! İçinde yalnızca Arathi Havzası'nda kullanılabilen erzaklar ve sargı bezleri bulacaksın.\n\nHavza'da kendini kanıtlamaya devam ettikçe, bu eşyaların satın alınabilir hale geldiğini göreceksin. Erzaklar bizimle Dost olduğunda, sargı bezleri ise Hürmetli olduğunda kullanılabilir hale gelir.",
+    ["minlevel"]="35",
+    ["questlevel"]="44",
+    }, -- end Defiler's Standard Care Package
+
+    -- Defiler's Advanced Care Package
+    -- Arathi Basin -> Arathi Havzası (ZoneData.lua)
+    ["8265"] = {
+    ["Title"]="Kirleticinin Gelişmiş Bakım Paketi",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="",
+    ["Completion"]="Bize kendini kanıtlamaya başladın, YOUR_NAME. Ödül olarak lütfen bu bakım paketini al! İçinde yalnızca Arathi Havzası'nda kullanılabilen erzaklar ve sargı bezleri bulacaksın.\n\nHavza'da kendini kanıtlamaya devam ettikçe, bu eşyaların satın alınabilir hale geldiğini göreceksin. Erzaklar bizimle Dost olduğunda, sargı bezleri ise Hürmetli olduğunda kullanılabilir hale gelir.",
+    ["minlevel"]="45",
+    ["questlevel"]="60",
+    }, -- end Defiler's Advanced Care Package
+
+    -- Vanquish the Invaders!
+    -- Warsong Gulch -> Savaşşarkısı Kanyonu (ZoneData.lua)
+    -- Silverwing Hold -> Gümüşkanat Hisarı (ZoneData.lua)
+    -- Sentinel Farsong -> Nöbetçi Uzakşarkı (MobNpcData.lua)
+    -- Silverwing Grove -> Gümüşkanat Korusun (ZoneData.lua)
+    ["7873"] = {
+    ["Title"]="İşgalcileri Yen!",
+    ["Description"]="Bu tünelin ötesinde bir çekişme ve kargaşa alanı bulacaksın, genç YOUR_CLASS. Horde kutsal ormanımızı yok etmeye, savaş makinelerini çalıştırmak için her daim yeşil yaprakları kesmeye devam ediyor.\n\nSavaşşarkısı Kanyonu'na gir ve Gümüşkanat Hisarı'nı savun. İşgalci Horde güçlerini geri püskürt!\n\nBunu yap ve bir liyakat tılsımı kazan. Bana böyle bir tılsım getir, YOUR_NAME ve seni ödüllendireceğim.",
+    ["Objectives"]="Savaşşarkısı Kanyonu'na gir ve Horde'u yen, bir Savaşşarkısı Kanyonu Onur Nişanı al ve Gümüşkanat Korusun'daki Nöbetçi Uzakşarkı'ya dön.",
+    ["Progress"]="Savaşşarkısı Kanyonu'nda savaşıp Gümüşkanat Hisarı'nı savundun mu?",
+    ["Completion"]="Savaşşarkısı Kanyonu'ndaki çabalarımıza olan değerini kanıtladın. Davaya yardım etmeye devam et ve bana daha fazla Onur Nişanı getir. Bunu yap, güvenimizi daha da fazla kazanacaksın.",
+    ["minlevel"]="50",
+    ["questlevel"]="59",
+    }, -- end Vanquish the Invaders!
+
+    -- Vanquish the Invaders!
+    -- Warsong Gulch -> Savaşşarkısı Kanyonu (ZoneData.lua)
+    -- Silverwing Hold -> Gümüşkanat Hisarı (ZoneData.lua)
+    -- Sentinel Farsong -> Nöbetçi Uzakşarkı (MobNpcData.lua)
+    -- Silverwing Grove -> Gümüşkanat Korusun (ZoneData.lua)
+    ["7872"] = {
+    ["Title"]="İşgalcileri Yen!",
+    ["Description"]="Bu tünelin ötesinde bir çekişme ve kargaşa alanı bulacaksın, genç YOUR_CLASS. Horde kutsal ormanımızı yok etmeye, savaş makinelerini çalıştırmak için her daim yeşil yaprakları kesmeye devam ediyor.\n\nSavaşşarkısı Kanyonu'na gir ve Gümüşkanat Hisarı'nı savun. İşgalci Horde güçlerini geri püskürt!\n\nBunu yap ve bir liyakat tılsımı kazan. Bana böyle bir tılsım getir, YOUR_NAME ve seni ödüllendireceğim.",
+    ["Objectives"]="Savaşşarkısı Kanyonu'na gir ve Horde'u yen, bir Savaşşarkısı Kanyonu Onur Nişanı al ve Gümüşkanat Korusun'daki Nöbetçi Uzakşarkı'ya dön.",
+    ["Progress"]="Savaşşarkısı Kanyonu'nda savaşıp Gümüşkanat Hisarı'nı savundun mu?",
+    ["Completion"]="Savaşşarkısı Kanyonu'ndaki çabalarımıza olan değerini kanıtladın. Davaya yardım etmeye devam et ve bana daha fazla Onur Nişanı getir. Bunu yap, güvenimizi daha da fazla kazanacaksın.",
+    ["minlevel"]="40",
+    ["questlevel"]="49",
+    }, -- end Vanquish the Invaders!
+
+    -- Deadly Desert Venom
+    -- Beetix Ficklespragg -> Beetix Kararsızpüskürten (MobNpcData.lua)
+    -- Noggle -> Noggle (MobNpcData.lua)
+    -- Cenarion Hold -> Cenarion Hisarı (ZoneData.lua)
+    -- Silithus -> Silithus (ZoneData.lua)
+    ["8277"] = {
+    ["Title"]="Ölümcül Çöl Zehri",
+    ["Description"]="Beetix Kararsızpüskürten hizmetinizde! Kuzenim Noggle, Cenarion Hisarı simyacıları için nadir otlar toplayarak geçimini sağlıyor. Ya da en azından sağlardı. Son gezisinden damarlarında güçlü bir zehir akarak döndü.\n\nZehri yavaşlatmayı başardım ama tamamen etkisiz hale getirmek için onu ne soktuysa ondan zehir örneklerine ihtiyacım var.\n\nNoggle kuzeyden geldi, bu yüzden taşkırbaç akrepleri veya kum kayıcılarının yaptığına bahse girerim. Bana iğneler ve dişler getir, ben de onun için bir panzehir yapmaya çalışayım.",
+    ["Objectives"]="Silithus'taki Cenarion Hisarı'nda bulunan Beetix Kararsızpüskürten, 8 Taşkırbaç Akrep İğnesi ve 8 Kum Kayıcı Dişi toplamanı istiyor. Görevi tamamladığında ona geri dön.",
+    ["Progress"]="Bu örnekleri toplamayı bitirdin mi? Her an Noggle'ı kaybedebiliriz!",
+    ["Completion"]="Parmaklarını çaprazla dostum! Noggle'ı kurtarabileceğimizi umalım!",
+    ["minlevel"]="54",
+    ["questlevel"]="55",
+    }, -- end Deadly Desert Venom
+
+    -- Noggle's Last Hope
+    -- Noggle -> Noggle (MobNpcData.lua)
+    -- Beetix Ficklespragg -> Beetix Kararsızpüskürten (MobNpcData.lua)
+    -- Cenarion Hold -> Cenarion Hisarı (ZoneData.lua)
+    -- Silithus -> Silithus (ZoneData.lua)
+    ["8278"] = {
+    ["Title"]="Noggle'ın Son Umudu",
+    ["Description"]="Lanet olsun! Panzehir işe yaramadı. Noggle en güneydeki daha güçlü yaratıklardan biri tarafından sokulmuş olmalı.\n\nOraya gidip bana biraz daha örnek getirmene ihtiyacım olacak, YOUR_NAME. İyi haber şu ki, zehirleri daha güçlü olduğu için o kadar çok şeye ihtiyacım olmayacak. Kötü haber ise güney bölgesinde etrafta sürünen daha fazla türde zehirli yaratık var, bu yüzden daha fazla kaynaktan çekim yapman gerekecek.",
+    ["Objectives"]="Silithus'taki Cenarion Hisarı'nda bulunan Beetix Kararsızpüskürten, 3 Taşkırbaç Kıskaç İğnesi, 3 Taşkırbaç Yüzücü İğnesi ve 3 Kaya Takipçisi Dişi toplamanı istiyor.",
+    ["Progress"]="Noggle'ı kurtarmak için bu son şansımız! Acele et!",
+    ["Completion"]="Evet! İşe yarıyor gibi görünüyor, Noggle kendine geliyor. Sana büyük borçluyuz!",
+    ["minlevel"]="54",
+    ["questlevel"]="57",
+    }, -- end Noggle's Last Hope
+
+    -- The Twilight Lexicon
+    -- Twilight's Hammer -> Alacakaranlık Çekiçi
+    -- Hermit Ortell -> İnzivacı Ortell (MobNpcData.lua)
+    -- Silithus -> Silithus (ZoneData.lua)
+    ["8279"] = {
+    ["Title"]="Alacakaranlık Sözlüğü",
+    ["Description"]="Alacakaranlık Çekiçi rütbelerinden ayrılanlara nazik davranmaz. Bugün bile beni bir tür canavar gibi avlıyorlar! Söylemeye gerek yok ki, onların düşmanı benim dostumdur!\n\nBu Tableti deşifre etmek için yazıcılarının gizli mesajları kodlamak için kullandıkları kitaba ihtiyacım var: Alacakaranlık Sözlüğü. O kadar önemli bir araç ki üç bölümünü farklı yerlerde tutuyorlar! Sözlüğün emanet edildiği subaylar Alacakaranlık Muhafızları olarak bilinir, onları Alacakaranlık Çekiçi kamplarında ara.",
+    ["Objectives"]="Alacakaranlık Sözlüğü'nün üç bölümünü Silithus'taki İnzivacı Ortell'e getir.",
+    ["Progress"]="Kim var orada? Oh, sensin! Sözlük bölümlerinin hepsini buldun mu?",
+    ["Completion"]="Evet! Kitabın parçaları bunlar! Öyleyse başlayalım, YOUR_NAME.\n\nHer üçüncü kelimeyi ikinci bölümden kelimelerle değiştir... sonra her diğer kelimeyi birinci bölümden kelimelerle değiştir... Bekle, bunu ters mi yaptım?",
+    ["minlevel"]="54",
+    ["questlevel"]="60",
+    }, -- end The Twilight Lexicon
+
+    -- Securing the Supply Lines
+    -- Cenarion Hold -> Cenarion Hisarı (ZoneData.lua)
+    -- Windcaller Proudhorn -> Rüzgarçağıran Gururluboynuz (MobNpcData.lua)
+    -- Silithus -> Silithus (ZoneData.lua)
+    ["8280"] = {
+    ["Title"]="Tedarik Hatlarını Güvenceye Almak",
+    ["Description"]="Cenarion Hisarı son derece stratejik öneme sahip bir konumdur. Burayı elimizde tuttuğumuz sürece silitid üzerindeki zaferimizin garanti olduğuna inanıyorum. Tabii gelen ikmal kaynaklarımız sürdürülebilirse.\n\nÇöl solucanlarının ikmal kervanlarımız için silitidlerin kendisinden bile daha büyük bir tehdit olduğu kanıtlandı. Daha bu sabah, büyük bir yarınsoluğu sevkiyatı bir grup tarakçı vurucu tarafından tahrip edildi. İkmal kaynaklarımızın tehlikeye girmemesini sağlamak için sayılarını azaltmana ihtiyacım var.",
+    ["Objectives"]="Silithus'taki Cenarion Hisarı'nda bulunan Rüzgarçağıran Gururluboynuz, 15 Tarakçı Vurucu öldürmeni istiyor.",
+    ["Progress"]="Tarakçı vurucular ciddi bir tehdit ve hızla ilgilenilmeleri gerekiyor!",
+    ["Completion"]="İçten minnettarlığımı sunarım. Cenarion Hisarı'na yardım etme çabaların gerçek bir cesaret gösterdi.",
+    ["minlevel"]="54",
+    ["questlevel"]="55",
+    }, -- end Securing the Supply Lines
+
+    -- Stepping Up Security
+    -- Windcaller Proudhorn -> Rüzgarçağıran Gururluboynuz (MobNpcData.lua)
+    -- Cenarion Hold -> Cenarion Hisarı (ZoneData.lua)
+    -- Silithus -> Silithus (ZoneData.lua)
+    ["8281"] = {
+    ["Title"]="Güvenliği Artırmak",
+    ["Description"]="Performansın şimdiye kadar gerçekten örnek teşkil etti, YOUR_NAME. Ancak ikmal hatlarımız henüz tamamen güvende değil. Tarakçı vurucuların yokluğunda, daha büyük güneyli kuzenleri kesinlikle kuzeydeki yerlerini almak için harekete geçeceklerdir.\n\nOnları uzak tutmak için epeyce tarakçı ezici öldürmen gerekecek, ancak ikmal hatlarımızın güvenliğini şansa bırakamayız.",
+    ["Objectives"]="Silithus'taki Cenarion Hisarı'nda bulunan Rüzgarçağıran Gururluboynuz, 20 Tarakçı Ezici katletmeni istiyor.",
+    ["Progress"]="Tarakçı eziciler ciddi bir tehdit ve derhal ilgilenilmeleri gerekiyor!",
+    ["Completion"]="Mükemmel! Silitidlere karşı savaşa hazırlanmada değerli bir müttefik olduğunu kanıtladın.",
+    ["minlevel"]="54",
+    ["questlevel"]="57",
+    }, -- end Stepping Up Security
+
+    -- Noggle's Lost Satchel
+    -- Deathclasp -> Ölümkıskaç (MobNpcData.lua)
+    -- Beetix -> Beetix (MobNpcData.lua)
+    -- Cenarion Hold -> Cenarion Hisarı (ZoneData.lua)
+    -- Bronzebeard -> Tunçsakal (MobNpcData.lua)
+    -- Silithus -> Silithus (ZoneData.lua)
+    ["8282"] = {
+    ["Title"]="Noggle'ın Kayıp Çantası",
+    ["Description"]="Neredeyim? Çantam nerede? *nefes nefese* Dev akrep Ölümkıskaç'tan kaçarken kaybetmiş olmalıyım. Kaçma telaşıyla doğruca bir taşkırbaç yüzücü yuvasına daldım.\n\nTaşıdığım çantada her türlü nadir reaktif vardı. Onlar olmadan, ben ve Beetix Cenarion Hisarı'nın ihtiyaç duyduğu iksirleri yapamayacağız. Henüz kalkamayacak kadar zayıfım, ancak reaktiflerimi geri getirirsen bunu senin için değerli kılabilirim.\n\nÖlümkıskaç ile güney dağ sırasındaki Tunçsakal'ın kampının arkasında karşılaştım.",
+    ["Objectives"]="Noggle'ın Çantası'nı Silithus'un güneyindeki dağlardan kurtar ve Cenarion Hisarı'ndaki Noggle'a geri götür.",
+    ["Progress"]="Hala çantamı bulamadın mı? Şansıma şükretmeliyim, en azından zehir temizlendi.",
+    ["Completion"]="Evet! Çantamı geri getirdin. Ve nadir reaktiflerimin hepsi burada! Uzun süre sana borçlu kalacağım.",
+    ["minlevel"]="54",
+    ["questlevel"]="58",
+    }, -- end Noggle's Lost Satchel
+
+    -- Wanted - Deathclasp, Terror of the Sands
+    -- Deathclasp -> Ölümkıskaç (MobNpcData.lua)
+    -- Vish Kozus -> Vish Kozus (MobNpcData.lua)
+    -- Cenarion Hold -> Cenarion Hisarı (ZoneData.lua)
+    ["8283"] = {
+    ["Title"]="ARANIYOR - Ölümkıskaç, Kumların Dehşeti",
+    ["Description"]="Korkunç akrep Ölümkıskaç'ın artan silitid varlığı nedeniyle güney dağ sırasına çekildiğine inanılıyor. Güney bölgelerindeki devriyelere ve keşif heyetlerine büyük bir tehdit oluşturuyor. Onun yok edilmesine katılan bireyler cömertçe ödüllendirilecektir. Ödülle ilgili olarak Cenarion Hisarı Gözetleme Kulesi'nin tepesindeki Muhafız Kaptanı Vish Kozus'a danışın.",
+    ["Objectives"]="Muhafız Kaptanı Vish Kozus'a Ölümkıskaç'ın Kıskaçı'nı getir.",
+    ["Progress"]="Eylemin kanıtı olarak yaratığın kıskaçına ihtiyacım olacak. Kıskaç yoksa ödül de yok.",
+    ["Completion"]="Mükemmel! Ölümkıskaç gittiğine göre silitid kovanlarını dolaşmak için stratejik bir yol olarak güney dağ sırasını kullanmakta özgürüz. Çalışman büyük takdir topladı.",
+    ["minlevel"]="54",
+    ["questlevel"]="59",
+    }, -- end Wanted - Deathclasp, Terror of the Sands
+
+    -- The Twilight Mystery
+    -- Twilight's Hammer -> Alacakaranlık Çekiçi
+    -- Geologist Larksbane -> Jeolog Tarlaefendisi (MobNpcData.lua)
+    -- Cenarion Hold -> Cenarion Hisarı (ZoneData.lua)
+    -- Silithus -> Silithus (ZoneData.lua)
+    ["8284"] = {
+    ["Title"]="Alacakaranlık Gizemi",
+    ["Description"]="Alacakaranlık Çekiçi tarikatçılarının bir kampı bir zamanlar buranın kuzeybatısında gelişmişti. Şimdi oraya gitseydin, alanın elementallerle kaynadığını ve kampın bulunduğu yeri işaret eden tek şeyin etrafa saçılmış tahta ve tuval parçaları olduğunu görürdün.\n\nSiteden bir kil tabletin birkaç parçasını kurtardım, ama yararlı bir şeyi bir araya getirmek için elimde çok az parça var. Kalan tablet parçalarını bulup bulamayacağına bak ki Alacakaranlık Çekiçi'nin buradaki Silithus varlığına biraz ışık tutabilelim.",
+    ["Objectives"]="Silithus'taki Cenarion Hisarı'nda bulunan Jeolog Tarlaefendisi, 8 Alacakaranlık Tablet Parçası toplamanı istiyor.",
+    ["Progress"]="Harap edilmiş kamp buranın kuzeybatısında bulunabilir. Bütün parçalara sahip olduğunda geri gel.",
+    ["Completion"]="Tam da şüphelendiğim gibi. Tabletlerdeki münferit kelimeleri deşifre edebiliyorum ama mantık veya anlamdan yoksun görünüyorlar. Alacakaranlık Çekiçi tarikatlarının metinlerinin anlamını gizlemek için bir kod kullanması bilinmeyen bir şey değil; bu tür şeyler hakkında daha fazla şey bilen birine gitmemiz gerekecek.",
+    ["minlevel"]="54",
+    ["questlevel"]="58",
+    }, -- end The Twilight Mystery
+
+    -- The Deserter
+    -- Twilight's Hammer -> Alacakaranlık Çekiçi
+    -- Ortell -> Ortell (MobNpcData.lua)
+    -- Southwind Village -> Güneyrüzgarı Köyü (ZoneData.lua)
+    -- Hermit Ortell -> İnzivacı Ortell (MobNpcData.lua)
+    -- Silithus -> Silithus (ZoneData.lua)
+    -- Cenarion Hold -> Cenarion Hisarı (ZoneData.lua)
+    ["8285"] = {
+    ["Title"]="Kaçak",
+    ["Description"]="Ortell adında bir Alacakaranlık Çekiçi üyesinin tarikatından kaçtığına dair söylentiler var. Söylentiye göre Güneyrüzgarı Köyü'nün güneyindeki dağlarda saklanmış ve orada bir inzivacı olarak yaşıyormuş. Belki de tableti deşifre etmek için onun yardımına başvurabilirsin.\n\nOnarılan tableti yanına al ve Ortell'i ara.",
+    ["Objectives"]="Onarılan tableti Silithus'taki İnzivacı Ortell'e götür.",
+    ["Progress"]="Sen! Beni nasıl buldun? Kimsin sen? Takip edilmedin, değil mi? Konuş!",
+    ["Completion"]="Eski örgütüme aşina olduğunu görüyorum. Cenarion Hisarı'ndan olmalısın.\n\nOnlara karşı kullanmak için bilgi mi arıyorsun? Yaklaş, belki karşılıklı yardımlaşabiliriz.",
+    ["minlevel"]="54",
+    ["questlevel"]="59",
+    }, -- end The Deserter
+
+    -- What Tomorrow Brings
+    -- Caverns of Time -> Zaman Mağaraları (ZoneData.lua)
+    -- Anachronos -> Anachronos (MobNpcData.lua)
+    ["8286"] = {
+    ["Title"]="Yarının Getirdikleri",
+    ["Description"]="Ölümün kucağı o müdahale ettiğinde benliğimi neredeyse ele geçirmişti. Sakatlanmış bedenimin üzerine sadece bir kez üfledi ve sonra zaman kumlarının yaralarımı temizlemesini sabırla bekledi.\n\n\"Gerekirse sonsuza dek kalacaksın,\" dedi ve bu sözlerle bir Gözcü olarak bağlandım.\n\nŞimdi çöle bak. İkinci savaş kapımızda. Tunç'un dinlenme yerini bulmalısın. Zaman Mağaraları'na git ve ustanın dönüp dönmediğini gör. Devam etmeden önce emin olmalıyım.",
+    ["Objectives"]="Tanaris'teki Zaman Mağaraları'na seyahat et ve Nozdormu Soyu Anachronos'u bul.",
+    ["Progress"]="Anachronos döndü mü?",
+    ["Completion"]="Olması gerektiği gibi - yüce olan yükseldi. Nöbetim sona eriyor...",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end What Tomorrow Brings
+
+    -- A Terrible Purpose
+    -- Cenarion Circle -> Cenarion Çemberi
+    -- Silithus -> Silithus (ZoneData.lua)
+    -- Twilight's Hammer -> Alacakaranlık Çekiçi
+    -- Commander Mar'alith -> Komutan Mar'alith (MobNpcData.lua)
+    ["8287"] = {
+    ["Title"]="Korkunç Bir Amaç",
+    ["Description"]="Tamam, işte buradayız... oldukça değerli bir bilgi parçası söylemeliyim! Cenarion Çemberi güçlerinin Silithus'a geldiğini gördüm. Alacakaranlık Çekiçi'ni dışarı atmayı planlıyorlar, değil mi? Bu yardımcı olacaktır.\n\nBu parşömeni liderleri Komutan Mar'alith'e götür. Yakında Alacakaranlık Çekiçi yenilecek ve ben tamamen onların pençesinden kurtulacağım!",
+    ["Objectives"]="Deşifre Edilmiş Tablet Parşömeni'ni Komutan Mar'alith'e götür.",
+    ["Progress"]="Bana getirdiğin şey nedir, YOUR_NAME?",
+    ["Completion"]="Bu gerçekten çok ilginç bir bilgi, YOUR_NAME. Bu, Alacakaranlık Çekiçi'nin Silithus'taki varlığına biraz ışık tutuyor ve şüphesiz onlara karşı mücadelemizde bize yardımcı olacak. Çabaların cömertçe ödüllendirilecek, YOUR_CLASS.",
+    ["minlevel"]="54",
+    ["questlevel"]="60",
+    }, -- end A Terrible Purpose
+
+    -- Only One May Rise
+    -- Nefarian -> Nefarian (MobNpcData.lua)
+    -- Broodlord Lashlayer -> Soylordu Kamçıkatil (MobNpcData.lua)
+    -- Baristolth of the Shifting Sands -> Kayan Kumların Baristolth'u (MobNpcData.lua)
+    -- Cenarion Hold -> Cenarion Hisarı (ZoneData.lua)
+    -- Silithus -> Silithus (ZoneData.lua)
+    ["8288"] = {
+    ["Title"]="Sadece Biri Yükselebilir",
+    ["Description"]="Boşa harcayacak zaman yok! Bir kahraman bulunmalı! Sana verdiğim görev tamamlamak için bir ordu gerektirecek ama şampiyon olmak isteyen kalabalığın arasından Soy'un müttefiki olma yükünü ve sorumluluğunu üstlenmek için sadece biri yükselebilir.\n\nKarakaya Lordu'nun ininde çok acımasız bir canavar var. Soylordu Kamçıkatil, Nefarian'ın iç mabedine giden yolu kapatarak Çekişme Salonları'nı koruyor. Aşağılık ucubeyi katlet ve başını bana getir. Bunu yap ve yolculuğunun bir sonraki adımına başla.",
+    ["Objectives"]="Soylordu Kamçıkatil'in Başı'nı Silithus'taki Cenarion Hisarı'nda bulunan Kayan Kumların Baristolth'una geri götür.",
+    ["Progress"]="Kazanman gereken şey Nozdormu Soyu'nun lütfudur.",
+    ["Completion"]="Bin yıldır Tunç Sürüsü içinde lütuf kazanan İLK kişi sen olabilir misin?",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Only One May Rise
+
+    -- Vanquish the Invaders!
+    -- Warsong Gulch -> Savaşşarkısı Kanyonu (ZoneData.lua)
+    -- Silverwing Hold -> Gümüşkanat Hisarı (ZoneData.lua)
+    -- Sentinel Farsong -> Nöbetçi Uzakşarkı (MobNpcData.lua)
+    -- Silverwing Grove -> Gümüşkanat Korusun (ZoneData.lua)
+    ["7871"] = {
+    ["Title"]="İşgalcileri Yen!",
+    ["Description"]="Bu tünelin ötesinde bir çekişme ve kargaşa alanı bulacaksın, genç YOUR_CLASS. Horde kutsal ormanımızı yok etmeye, savaş makinelerini çalıştırmak için her daim yeşil yaprakları kesmeye devam ediyor.\n\nSavaşşarkısı Kanyonu'na gir ve Gümüşkanat Hisarı'nı savun. İşgalci Horde güçlerini geri püskürt!\n\nBunu yap ve bir liyakat tılsımı kazan. Bana böyle bir tılsım getir, YOUR_NAME ve seni ödüllendireceğim.",
+    ["Objectives"]="Savaşşarkısı Kanyonu'na gir ve Horde'u yen, bir Savaşşarkısı Kanyonu Onur Nişanı al ve Gümüşkanat Korusun'daki Nöbetçi Uzakşarkı'ya dön.",
+    ["Progress"]="Savaşşarkısı Kanyonu'nda savaşıp Gümüşkanat Hisarı'nı savundun mu?",
+    ["Completion"]="Savaşşarkısı Kanyonu'ndaki çabalarımıza olan değerini kanıtladın. Davaya yardım etmeye devam et ve bana daha fazla Onur Nişanı getir. Bunu yap, güvenimizi daha da fazla kazanacaksın.",
+    ["minlevel"]="30",
+    ["questlevel"]="39",
+    }, -- end Vanquish the Invaders!
+
+    -- Quell the Silverwing Usurpers
+    -- Ashenvale -> Ashenvale (ZoneData.lua)
+    -- Silverwing -> Gümüşkanat
+    -- Kalimdor -> Kalimdor (ZoneData.lua)
+    -- Silverwing Sentinels -> Gümüşkanat Nöbetçileri
+    -- Warsong -> Savaşşarkısı
+    -- Warsong Gulch -> Savaşşarkısı Kanyonu (ZoneData.lua)
+    -- Captain Shatterskull -> Kaptan Kafatasıkıran (MobNpcData.lua)
+    -- Mor'shan Base Camp -> Mor'shan Üs Kampı (ZoneData.lua)
+    ["7789"] = {
+    ["Title"]="Gümüşkanat Gaspçılarını Bastırmak",
+    ["Description"]="Ashenvale ormanının yaban hayatı Horde'un gücüne boyun eğecek, YOUR_RACE. Gümüşkanat'ın söylediği veya yaptığı hiçbir şey egemen gerekliliğimizi durduramaz. Kalimdor Horde'a aittir. Haklı olarak bize ait olanı hasat etmemizi engellemeye nasıl cüret ederler!\n\nİlerlememizi yavaşlatmaya yönelik zayıf girişimlerini keserken göğsündeki gururun kabarmasına izin ver. Gümüşkanat Nöbetçileri'ni yok et ve bir Savaşşarkısı onur nişanı kazan. Böyle bir nişanla bana geri dön, YOUR_NAME ve ödüllendirileceksin.\n",
+    ["Objectives"]="Savaşşarkısı Kanyonu'na gir ve İttifak'ı yen, bir Savaşşarkısı Kanyonu Onur Nişanı al ve onu Mor'shan Üs Kampı'ndaki Kaptan Kafatasıkıran'a getir.",
+    ["Progress"]="Düşmanlarımızın kanı bir onur nişanıdır. Sende böyle bir nişan var mı?",
+    ["Completion"]="<Kaptan Kafatasıkıran zaferle kükrer>\n\nDaha ne kadar dayanabilirler? Geri çekilmeleri için Horde'un elinden daha kaç İttifak pisliği ölmeli? Bunu sadece zaman gösterecek, YOUR_RACE...",
+    ["minlevel"]="20",
+    ["questlevel"]="29",
+    }, -- end Quell the Silverwing Usurpers
+
+    -- Vanquish the Invaders!
+    -- Warsong Gulch -> Savaşşarkısı Kanyonu (ZoneData.lua)
+    -- Silverwing Hold -> Gümüşkanat Hisarı (ZoneData.lua)
+    -- Sentinel Farsong -> Nöbetçi Uzakşarkı (MobNpcData.lua)
+    -- Silverwing Grove -> Gümüşkanat Korusun (ZoneData.lua)
+    ["7788"] = {
+    ["Title"]="İşgalcileri Yen!",
+    ["Description"]="Bu tünelin ötesinde bir çekişme ve kargaşa alanı bulacaksın, genç YOUR_CLASS. Horde kutsal ormanımızı yok etmeye, savaş makinelerini çalıştırmak için her daim yeşil yaprakları kesmeye devam ediyor.\n\nSavaşşarkısı Kanyonu'na gir ve Gümüşkanat Hisarı'nı savun. İşgalci Horde güçlerini geri püskürt!\n\nBunu yap ve bir liyakat tılsımı kazan. Bana böyle bir tılsım getir, YOUR_NAME ve seni ödüllendireceğim.",
+    ["Objectives"]="Savaşşarkısı Kanyonu'na gir ve Horde'u yen, bir Savaşşarkısı Kanyonu Onur Nişanı al ve Gümüşkanat Korusun'daki Nöbetçi Uzakşarkı'ya dön.",
+    ["Progress"]="Savaşşarkısı Kanyonu'nda savaşıp Gümüşkanat Hisarı'nı savundun mu?",
+    ["Completion"]="Savaşşarkısı Kanyonu'ndaki çabalarımıza olan değerini kanıtladın. Davaya yardım etmeye devam et ve bana daha fazla Onur Nişanı getir. Bunu yap, güvenimizi daha da fazla kazanacaksın.",
+    ["minlevel"]="20",
+    ["questlevel"]="29",
+    }, -- end Vanquish the Invaders!
+
+    -- The Path of the Righteous
+    -- Baristolth -> Baristolth (MobNpcData.lua)
+    -- Cenarion Hold -> Cenarion Hisarı (ZoneData.lua)
+    ["8301"] = {
+    ["Title"]="Müstakim Yolu",
+    ["Description"]="Nozdormu Soyu doğal olarak aşağı ırklara güvenmez. Bana bir kahramanın potansiyel kumaşına sahip olduğunu kanıtladığın doğru olsa da, bunu ustama kanıtlama zamanı geldi.\n\nHive'Ashi, Hive'Zora, Hive'Regal: Hepsi faaliyetle kaynıyor ve hepsi varlığımıza bir tehdit. Bu kovanlarda silitidleri katlet ve kabuklarından bir parça al. Daha fazla taşıyamayacak duruma geldiğinde bana geri dön, ben de kararlılığını güçlendireyim.",
+    ["Objectives"]="200 Silitid Kabuk Parçası topla ve Baristolth'a geri dön.",
+    ["Progress"]="Ölümlü ırklara olan güvensizliklerinde kök salmış çok fazla tarih var; ancak ne yazık ki, böyle bir hikayeyi zamanı geldiğinde Soy'un anlatması daha iyi olur.",
+    ["Completion"]="Yalnız değilsin kahraman. Artık sana görevinde yardım etmeleri için başkalarını temsilci atama yeteneği vereceğim. Halkının şampiyonu olacaksan, görevlerinde ve sorumluluklarında yardıma ihtiyacın olacak.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end The Path of the Righteous
+
+    -- The Hand of the Righteous
+    -- Baristolth -> Baristolth (MobNpcData.lua)
+    -- Cenarion Hold -> Cenarion Hisarı (ZoneData.lua)
+    ["8302"] = {
+    ["Title"]="Müstakimin Eli",
+    ["Description"]="Temsilcilerini akıllıca seç, ölümlü. Görevini tamamlayıp her döndüğünde yeni bir temsilci seçmene izin verilecek.\n\nBunu söyledikten sonra daha fazla kabuk parçasına ihtiyacım var. Zaman kaybetme!",
+    ["Objectives"]="200 Silitid Kabuk Parçası topla ve Baristolth'a geri dön.",
+    ["Progress"]="Belki bir gün bütün Cenarion Hisarı senin komutan altında çalışıyor olacak.",
+    ["Completion"]="Aferin kahraman. Artık sana başka bir Nozdormu Ajanı'nı temsilci atama yeteneği verilecek.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end The Hand of the Righteous
+
+    -- Anachronos
+    -- Anachronos -> Anachronos (MobNpcData.lua)
+    -- Caverns of Time -> Zaman Mağaraları (ZoneData.lua)
+    -- Tanaris -> Tanaris (ZoneData.lua)
+    -- Kalimdor -> Kalimdor (ZoneData.lua)
+    ["8303"] = {
+    ["Title"]="Anachronos",
+    ["Description"]="Zamanı geldi, YOUR_NAME.\n\nBu kadar çok şeyi gizli tuttuğum için özür dilemeliyim. Burnumuzun dibinde bile düşmanlar çoğalıyor. Lütfen bu kitaptan oku ve öğren. Sana verdiğim bilgiyi al ve ustamızı ara.",
+    ["Objectives"]="Tanaris'teki Zaman Mağaraları'nda Anachronos'u ara.",
+    ["Progress"]="",
+    ["Completion"]="Sen Kalimdor'un umudusun, YOUR_NAME.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Anachronos
+
+    -- Dearest Natalia
+    -- Natalia -> Natalia (MobNpcData.lua)
+    -- Bronzebeard -> Tunçsakal (MobNpcData.lua)
+    -- Commander Mar'alith -> Komutan Mar'alith (MobNpcData.lua)
+    -- Cenarion Hold -> Cenarion Hisarı (ZoneData.lua)
+    -- Silithus -> Silithus (ZoneData.lua)
+    ["8304"] = {
+    ["Title"]="Sevgili Natalia",
+    ["Description"]="Sevgili Natalia'm kayboldu.\n\nGerçeği söylemek gerekirse, ortadan kaybolmasına yol açan haftalar boyunca tuhaf davranıyordu. Birden fazla kez etrafta kimse yokken kendi kendine konuştuğunu yakalamıştım. Her şeyin yolunda olduğu ve araştırmasına devam etmesine izin verilmesi gerektiği konusunda ısrarcıydı.\n\nEn son güneydeki Tunçsakal'ın kampına giderken görüldü.\n\nAskerlerim çok azaldı, YOUR_NAME. Tunçsakal'ın kampına gitmeni ve o cüceleri sorgulamanı istiyorum.",
+    ["Objectives"]="Silithus'taki Cenarion Hisarı'nda bulunan Komutan Mar'alith, Tunçsakal Obası sakinlerini sorgulamanı istiyor. Tunçsakal Obası'nı Cenarion Hisarı'nın güneyinde bulacaksın.\n\nİstenen bilgileri topladıktan sonra Komutan Mar'alith'e geri dön.",
+    ["Progress"]="Zaman kaybetme, YOUR_NAME!",
+    ["Completion"]="<Komutan Mar'alith başını düşünceli bir şekilde eğer.>\n\nCanlı ya da ölü olsun, doğru olanı yapmalıyım. Bulunmalı. Ne yazık ki, ben bu karakola görevle bağlıyım. Bana bir kez daha yardım eder misin, YOUR_NAME?",
+    ["minlevel"]="58",
+    ["questlevel"]="60",
+    }, -- end Dearest Natalia
+
+    -- Long Forgotten Memories
+    -- Silithus -> Silithus (ZoneData.lua)
+    ["8305"] = {
+    ["Title"]="Çoktan Unutulmuş Anılar",
+    ["Description"]="Silithus'un güney çölünde, kutsal bariyerin yakınında, tek bir kristal gözyaşı vardır. Bu gözyaşı, Kayan Kumlar Savaşı sırasında üzerimize çöken büyük kayıpların bir sembolü olarak hizmet eder. Bu gözyaşını bul ve aydınlanmak için derinliklerine bak.",
+    ["Objectives"]="Silithus'taki Kristal Gözyaşı'nı bul ve derinliklerine bak.",
+    ["Progress"]="",
+    ["Completion"]="Bu kristalin etrafında dönen büyük bir üzüntü hissedebiliyorsun. Güç o kadar güçlü ki çöküp üzüntüden ölebileceğini hissediyorsun.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Long Forgotten Memories
+
+    -- Into The Maw of Madness
+    -- Natalia -> Natalia (MobNpcData.lua)
+    -- Bronzebeard -> Tunçsakal (MobNpcData.lua)
+    -- Commander Mar'alith -> Komutan Mar'alith (MobNpcData.lua)
+    -- Cenarion Hold -> Cenarion Hisarı (ZoneData.lua)
+    -- Silithus -> Silithus (ZoneData.lua)
+    -- C'Thun -> C'Thun (MobNpcData.lua)
+    ["8306"] = {
+    ["Title"]="Delilik Ağzının İçine",
+    ["Description"]="Hive'Regal'e gidip sevgili Natalia'ma ne olduğunu bulmanı istiyorum, YOUR_NAME. Bu senin için kolay bir görev olmayacak. Deliliğin ağzına balıklama dalmadan önce o cücelerle gidip konuştuğundan emin ol. O kovanda yaşayan silitidlerle başa çıkma konusunda sana bazı ipuçları verebilirler.\n\nVe YOUR_NAME, eğer gerçekten dedikleri kadar delirdiyse... ne yapman gerekiyorsa yap.\n\n<Komutan Mar'alith yüzünü senden öteye çevirir.>",
+    ["Objectives"]="Silithus'taki Cenarion Hisarı'nda bulunan Komutan Mar'alith, sevgili Natalia'sını bulmanı istiyor. Topladığın bilgiler, Hanımefendi Natalia Mar'alith'i bulabileceğin alan olarak güneydeki Hive'Regal'i işaret ediyor.\n\nKovana girmeden önce Tunçsakal'ın kampındaki cüceleri ziyaret etmeyi unutma. Senin için ek işleri ve tavsiyeleri olabilir.\n\nVe YOUR_NAME, Komutan'ın sözlerini unutma: \"Ne yapman gerekiyorsa yap...\"",
+    ["Progress"]="Natalia?",
+    ["Completion"]="<Komutan Mar'alith göğsünü kavrar.>\n\nC'Thun mu? Bütün bunların anlamı NE? C'Thun nedir? Bu iblis benim tatlı Natalia'mı tarif ettiğin canavara nasıl dönüştürmüş olabilir?",
+    ["minlevel"]="58",
+    ["questlevel"]="60",
+    }, -- end Into The Maw of Madness
     
 
     --123456789
 
-    ["8041"] = {    ["Title"]="Strength of Mount Mugamba",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="Hail, $C. I am Jin'rokh the Breaker, troll of Mugamba. We of the Zandalar tribe recognize your accomplishments. We salute your tenacity and strength of will.NEW_LINENEW_LINEWear this talisman around your neck, $C. Let the strength of Mount Mugamba flow through your being. Be empowered as you strike down our enemies!",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8042"] = {    ["Title"]="Strength of Mount Mugamba",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="It is good to see you in good health, YOUR_NAME. The glorious battles you have undertaken affect all life on this planet. Hakkar must never leave the confines of Zul'Gurub as the world will surely collapse beneath his immense hunger.NEW_LINENEW_LINEGive me your talisman and I shall amplify its strength. Use the Strength of Mugamba to punish our enemies!",    ["Completion"]="Our paths will cross again, $C.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8043"] = {    ["Title"]="Strength of Mount Mugamba",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="Master YOUR_NAME, you return! Molthor has sent word of your deeds to the King. Your name is known even in the South Seas. Perhaps one day you will be a legendary $C - a story for the ages.NEW_LINENEW_LINEGive me your talisman so that I may once more amplify its power.",    ["Completion"]="Use your newfound strength to destroy the Gurubashi!",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8044"] = {    ["Title"]="The Rage of Mount Mugamba",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="King Rastakhan sends his regards, Master YOUR_NAME. Such an honor has never been given to one outside the Zandalar tribe.NEW_LINENEW_LINE<Jin'rokh bows.>NEW_LINENEW_LINEGive me your talisman so that I may enhance it once more. Know that the Rage of Mugamba is now intrinsically connected to your very soul.",    ["Completion"]="Zul'jin would be envious, $C. Go forth and conquer!",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8045"] = {    ["Title"]="The Heathen's Brand",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="Know this, heathen: A catastrophe has brought us together. Your pagan ways are neither understood nor appreciated by Zandalar but we are a fair people. Wear this brand around your neck. It shall serve as both a warning to our enemies and a symbol of your friendship to Zandalar.NEW_LINENEW_LINEContinue to serve our people and I will amplify the power of the brand.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8046"] = {    ["Title"]="The Heathen's Brand",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="I may have been too hasty in my judgement, $C. It seems as if your blind faith in this Light has some value after all.NEW_LINENEW_LINEGive me your brand and I shall amplify its power.",    ["Completion"]="Do what you must to defeat our enemies, $C. Even if it means channeling the Light.NEW_LINENEW_LINE<Jin'rokh shudders.>",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8047"] = {    ["Title"]="The Heathen's Brand",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="I must confess, I did not think you had the resolution to see this cause through, $C. Zandalar now considers you an invaluable ally. Well done, indeed.NEW_LINENEW_LINEGive me your brand and I shall once more amplify its power.",    ["Completion"]="Our beliefs differ but our cause is righteous. Strike down our foes, noble $C.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8048"] = {    ["Title"]="The Hero's Brand",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="The King has acknowledged your existence, $C. You are the first of your kind to be accepted by Rastakhan as a true ally of Zandalar.NEW_LINENEW_LINEYou will be rewarded greatly for your efforts. Present your brand and I shall apply the final amplification.",    ["Completion"]="Vigilance, honor, loyalty, bravery... You embody all of these traits and so shall your brand.",    ["minlevel"]="58",    ["questlevel"]="60"},
-
-	["8049"] = {    ["Title"]="The Eye of Zuldazar",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="Accept this talisman as a token of our appreciation,  priest.NEW_LINENEW_LINEThe Eye of Zuldazar will grow in power as your bond with the trolls of Zandalar strengthens. Return to me periodically and I shall imbue the jewel.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8050"] = {    ["Title"]="The Eye of Zuldazar",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="Tales of your battles against the Gurubashi are whispered in the winds, priestess. Even royalty is beginning to talk of your deeds. It is rumored that King Rastakhan even mentioned you by name.NEW_LINENEW_LINEThe time has come to imbue the Eye. Hand me the talisman and I shall perform the service.",    ["Completion"]="Be resolute in your endeavors, YOUR_NAME. The Soulflayer will attempt to siphon your will to live.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8051"] = {    ["Title"]="The Eye of Zuldazar",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="Welcome $C. The Eye of Zuldazar pulses with energy. You are ready to take the next step. Hand me the talisman and I shall perform the imbue.",    ["Completion"]="Continue in your battle against the Soulflayer and his minions, YOUR_NAME. He must never be permitted to leave the confines of Zul'Gurub.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8052"] = {    ["Title"]="The All-Seeing Eye of Zuldazar",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="If only we had ten-thousand more like you, YOUR_NAME. The armies of Hakkar would be scattered to the wind in the blink of an eye.NEW_LINENEW_LINE<Al'tabim sighs.>NEW_LINENEW_LINEAlas, the Eye is ready to realize its full potential. Give it to me.",    ["Completion"]="Smite them all and let Hakkar sort them out...",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8065"] = {    ["Title"]="Paragons of Power: The Haruspex's Tunic",    ["Description"]="The ultimate symbol of a haruspex's power is what they wear, YOUR_NAME.  Of these, the tunic symbolizes the connection between themselves and the divine wisdom they seek.  It often weaves parts of the beasties they sacrifice into the tunic; this reminds them of the connection they have to their gifts.NEW_LINENEW_LINEBring me an offerin' of the Paragons of Power from inside Zul'Gurub and prove your worth to us.  Do this, and a tunic seeping with the true power of a haruspex is yours.",    ["Objectives"]="Bring Maywiki of Zuldazar a Primal Hakkari Tabard.  Maywiki of Zuldazar is located on Yojamba Isle, Stranglethorn Vale. You must also be Revered with Zandalar.",    ["Progress"]="Got the necessary Paragons of Power from Zul'Gurub?  The haruspex's tunic is well worth any effort ya be needin' to make.",    ["Completion"]="Impressive... you've successfully collected the required Paragons of Power, YOUR_NAME.  Your accomplishments in Zul'Gurub for the Zandalar are legendary; hence forth, you'll be revered amongst the tribe.  Here is your tunic, mighty $C!",    ["minlevel"]="58",    ["questlevel"]="60"},
-
-	["8064"] = {    ["Title"]="Paragons of Power: The Haruspex's Belt",    ["Description"]="We Zandalar know not of druidic ways; nature is to be shaped by our need, not the other way around.  Still, a haruspex is the one of us most in tune with nature, and rightly so.  To give up the ghost of a beastie is to know what it is to be one of them.  That is the real power of nature.NEW_LINENEW_LINEBring me an offerin' of the Paragons of Power from inside Zul'Gurub, proving yourself to us.  Do this, and I'll give ya a powerful item - a belt used by many of the Zandalar's haruspices.NEW_LINENEW_LINEStrong mojo, ya mon!",    ["Objectives"]="Bring Maywiki of Zuldazar a Primal Hakkari Sash.  Maywiki of Zuldazar is located on Yojamba Isle, Stranglethorn Vale. You must also be Honored with Zandalar.",    ["Progress"]="Got the Paragons of Power from Zul'Gurub I need?  The haruspex's belt will be yours if ya have them.",    ["Completion"]="I thank you - the latent power in these items will be treasures unto themselves, you betcha.  Not only have ya done as I've asked of ya, but you've also proven to be honorable to us here in the tribe.  As promised, here is your reward!",    ["minlevel"]="58",    ["questlevel"]="60"},
-
-	["8063"] = {    ["Title"]="Paragons of Power: The Madcap's Bracers",    ["Description"]="The madcaps of Zandalar are similar to rogues, but above all else they embrace madness... chaos... the unpredictability of existence.  A terror to behold on the battlefield, they sowed the seeds of confusion and mayhem amongst our enemies in the savage times after the tribes splintered.  We would not be here today without them.NEW_LINENEW_LINEBring to me the Paragons of Power from Zul'Gurub that I seek, and I will grant you the first of the madcap's prized armors.  Embrace the madness!",    ["Objectives"]="Bring Falthir the Sightless a Primal Hakkari Armsplint.  You must also have a reputation equal to or greater than Friendly with the Zandalar Tribe.NEW_LINENEW_LINEFalthir the Sightless is located on Yojamba Isle, Stranglethorn Vale.",    ["Progress"]="Seek the madness from within Zul'Gurub and overshadow it with your own, YOUR_NAME!  To do so means success, and success means reward!  Let not the Blood God reign supreme again!",    ["Completion"]="Well done, YOUR_NAME... your accomplishments in Zul'Gurub have earned you the right to call the Zandalar tribe as a friend.  I will see to the disposition of the Paragons; for your effort please accept this reward!",    ["minlevel"]="58",    ["questlevel"]="60"},
-
-	["8062"] = {    ["Title"]="Paragons of Power: The Predator's Bracers",    ["Description"]="In the dark times after the fall of the Gurubashi Empire, Zandalar predators used their prowess to provide sustenance for the tribe.  Hunters claim to be much like our tribe's predators - to seek the hunt is to embody the essence of the predator, yes.  Your hunt in Zul'Gurub, however, will show us how you truly rate amongst our finest predators.NEW_LINENEW_LINEBring to me a sampling of the Paragons of Power from within Zul'Gurub.  Do so, and you'll take first steps in becoming the penultimate predator.",    ["Objectives"]="Bring the following Paragons of Power from Zul'Gurub to Falthir the Sightless: A Primal Hakkari Bindings.  You must also have a reputation equal to or greater than Friendly with the Zandalar Tribe.NEW_LINENEW_LINEFalthir the Sightless is located on Yojamba Isle, Stranglethorn Vale.",    ["Progress"]="Hunt those in Zul'Gurub that would possess the Paragons of Power, YOUR_NAME.  They are your prey; they possess that which we both must have.",    ["Completion"]="Yes... I need no vision to sense the presence of the Paragons of Power.  Your success in Zul'Gurub has impressed many among the tribe.  We not only consider you to be a friend of the Zandalar, but also consider you worthy enough to possess the predator's bracers - powerful items, and a symbol of what it means to be a predator.  Well done, YOUR_NAME.",    ["minlevel"]="58",    ["questlevel"]="60"},
-
-	["8061"] = {    ["Title"]="Paragons of Power: The Confessor's Wraps",    ["Description"]="We Zandalar invest power in those who speak with the authority of divinity.  Our priests are more than just healers - they are our confessors.  Evil comes both from outside threats - such as Hakkar - and from within the tribe.  Our confessors act as the judges amongst us, preserving us from the same evil that devoured the Gurubashi from inside itself.NEW_LINENEW_LINEGo to Zul'Gurub and bring back the Paragons of Power from the Gurubashi.  Learn what it means to be the confessor, and preserve us from evil.",    ["Objectives"]="Bring Al'tabim the All-Seeing a Primal Hakkari Stanchion.  You must also have a reputation equal to or greater than Friendly with the Zandalar Tribe.NEW_LINENEW_LINEAl'tabim the All-Seeing is located on Yojamba Isle, Stranglethorn Vale.",    ["Progress"]="Back from Zul'Gurub, are you?  Have you succeeded in retrieving the Paragons of Power from the minions of Hakkar?",    ["Completion"]="Outstanding, YOUR_NAME!  This was no small feat bringing these to me.  No doubt you've acted as our tribe's confessor today in preserving ourselves against the threat of Hakkar.  These wraps are befitting a friend of the tribe such as you!",    ["minlevel"]="58",    ["questlevel"]="60"},
-
-	["8060"] = {    ["Title"]="Paragons of Power: The Illusionist's Wraps",    ["Description"]="Mages in our tribe are known as illusionists.  They employ powerful mojo in their incantations, often befuddling and confusing the tribe's enemies!NEW_LINENEW_LINE<Al'tabim laughs wickedly.>NEW_LINENEW_LINEIt is quite the sight to see a powerful illusionist at work, bringing our enemies to their knees from their own madness!NEW_LINENEW_LINEFor you to know the way of our illusionists, go to Zul'Gurub and bring back to me selected Paragons of Power.  For this, I will give you arm wraps our illusionists use to weave their spells.",    ["Objectives"]="Bring Al'tabim the All-Seeing Primal Hakkari Bindings.  You must also have a reputation equal to or greater than Friendly with the Zandalar Tribe.NEW_LINENEW_LINEAl'tabim the All-Seeing is located on Yojamba Isle, Stranglethorn Vale.",    ["Progress"]="YOUR_NAME - you've returned already?  Were you able to get the Paragons of Power I need?",    ["Completion"]="Impressive... could you feel the mojo flowing through them?  The Paragons of Power were used as currency of sorts back when the Gurubashi Empire ruled these lands.  Now we Zandalar will use the latent mojo inside of them to fight the second rise of the Blood God Hakkar!NEW_LINENEW_LINEYou've done well today - consider yourself to have a friend in the Zandalar.  For that, here are the illusionist's wraps I promised!",    ["minlevel"]="58",    ["questlevel"]="60"},
-
-	["8059"] = {    ["Title"]="Paragons of Power: The Demoniac's Wraps",    ["Description"]="Warlocks tread dangerous ground in dealing with demons, but our demoniacs take this one step further.  Through an ancient and arcane ritual, they allow a demon to enter their being.  Rather than let it possess them though, they enslave the demon from the inside, absorbing the power of the beast for their own command.  It is a feat few are ever able to master.NEW_LINENEW_LINEFor you to learn of the power of the demoniac, I must have Paragons of Power from Zul'Gurub.  Go there and retrieve that which we seek.",    ["Objectives"]="Bring Al'tabim the All-Seeing a Primal Hakkari Stanchion.  You must also have a reputation equal to or greater than Friendly with the Zandalar Tribe.NEW_LINENEW_LINEAl'tabim the All-Seeing is located on Yojamba Isle, Stranglethorn Vale.",    ["Progress"]="Have you returned with the Paragons of Power?  By defeating the diabolic minions of the Hakkar, you will not only prove yourself to us, but also your willingness to learn the ways of the demoniac.",    ["Completion"]="Well done... no doubt they were made to pay in excruciating ways before they gave up the Paragons of Power.  Take this - the demoniac's wraps.  Made from powerful mojo used in summoning the demoniac's prey, it is a powerful tool in your acquisition of power.",    ["minlevel"]="58",    ["questlevel"]="60"},
-
-	["8058"] = {    ["Title"]="Paragons of Power: The Vindicator's Armguards",    ["Description"]="Vengeance is power.  The Zandalar vindicator is such power.  The tribe has many enemies.  The vindicator exacts retribution on them.  No crime against us is unpunished.  The vindicator delivers this punishment.  Our enemies fear our vengeance.  They should.  They forever will.NEW_LINENEW_LINEBecome one of our vindicators.  Seek the Paragons of Power inside Zul'Gurub.  Slay the minions of Hakkar and claim vengeance in the tribe's name.  You will be rewarded.",    ["Objectives"]="Bring Jin'rokh the Breaker a Primal Hakkari Armsplint.  You must also have a reputation equal to or greater than Friendly with the Zandalar Tribe.NEW_LINENEW_LINEJin'rokh the Breaker is located on Yojamba Isle, Stranglethorn Vale.",    ["Progress"]="Have you brought the Paragons of Power?  Has vengeance been claimed in the name of the Zandalar?",    ["Completion"]="You have wrought much vengeance today.  You have taken on the visage of the vindicator.  You have brought the Blood God's minions to their knees.NEW_LINENEW_LINETake this.  It will fuel your vengeance for the future.  You are a friend to the Zandalar now.",    ["minlevel"]="58",    ["questlevel"]="60"},
-
-	["8057"] = {    ["Title"]="Paragons of Power: The Haruspex's Bracers",    ["Description"]="A haruspex is a key member of our tribe; you'll be wise to listen to their portents.  By communion with animals and givin' them up to the spirits when needed, they give us divine guidance.  In times past, the haruspex's insight and wisdom gave us an edge in the wars against the splintered tribes of the Gurubashi.NEW_LINENEW_LINEBring me an offerin' of the Paragons of Power from inside Zul'Gurub and prove your worth to us.  Do this, and I'll give ya bracers that any haruspex of the Zandalar would want.",    ["Objectives"]="Bring Maywiki of Zuldazar a Primal Hakkari Stanchion.  You must also have a reputation equal to or greater than Friendly with the Zandalar Tribe.NEW_LINENEW_LINEMaywiki of Zuldazar is located on Yojamba Isle, Stranglethorn Vale.",    ["Progress"]="Have ya got the Paragons of Power from Zul'Gurub?  These bracers are worth the effort, YOUR_NAME.  Trust me mon!",    ["Completion"]="Ah, I can sense the power comin' from these Paragons of Power, YOUR_NAME.  Ya proved to be someone we in the tribe can call \"friend.\"  A deal is a deal, YOUR_NAME... behold the power of the haruspex's bracers!",    ["minlevel"]="58",    ["questlevel"]="60"},
-
-	["8056"] = {    ["Title"]="Paragons of Power: The Augur's Bracers",    ["Description"]="The augurs of our tribe are revered for their gifts of the divine sight, ya mon.  They ain't a witch doctor; they spend their time castin' bones or readin' the leaves for insight - not hexin' people.  As a shaman, you already know somethin' about the power of augury; we Zandalar prize the insight they give to the tribe.NEW_LINENEW_LINEBring me an offerin' of the Paragons of Power from inside Zul'Gurub and prove your worth to us.  Do this for us, and I'll give ya some bracers that our augurs prize above all others!",    ["Objectives"]="Bring Maywiki of Zuldazar a Primal Hakkari Armsplint.  You must also have a reputation equal to or greater than Friendly with the Zandalar Tribe.NEW_LINENEW_LINEMaywiki of Zuldazar is located on Yojamba Isle, Stranglethorn Vale.",    ["Progress"]="Got the Paragons of Power from Zul'Gurub that I need?  These bracers are well worth any effort ya be needin' to make!",    ["Completion"]="It seems ya got a bit of the Zandalar augur in ya.  We know about the deeds you've been doin' in Zul'Gurub on our behalf mon.  These Paragons of Power will go a long way to helpin' out the Zandalar tribe - a tribe, I might add, ya can call upon as friends.  Take these bracers, YOUR_NAME; ya earned them and then some!",    ["minlevel"]="58",    ["questlevel"]="60"},
-
-	["8055"] = {    ["Title"]="Paragons of Power: The Freethinker's Breastplate",    ["Description"]="Battle gear gives you power in the tribe.  The freethinkers are honored in this way.  They are zealots.  They imbue their breastplates with powerful mojo.  If their beliefs falter in the face of the enemy, their breastplate will not.NEW_LINENEW_LINEYou must be revered amongst us to possess such a breastplate.  Go to Zul'Gurub.  Take the Paragons of Power I need.  Take the Paragons most painfully from the fools inside.  Bring them to me.  Prove your worth as a freethinker once and for all.",    ["Objectives"]="Bring Jin'rokh the Breaker a Primal Hakkari Tabard.  You must also have a reputation equal to or greater than Revered with the Zandalar Tribe.NEW_LINENEW_LINEJin'rokh the Breaker is located on Yojamba Isle, Stranglethorn Vale.",    ["Progress"]="Do you have the Paragons?  They have mojo inside them.  We must have them.  You will aid us.",    ["Completion"]="You have done what few ever could.  You have brought the minions of Hakkar to their knees.  You have shown them what a freethinker can do.  You have shown us how a heretic could be revered in the tribe.  You have more than real power.  You ARE real power.NEW_LINENEW_LINETake the breastplate, freethinker.  Crush those who oppose you.",    ["minlevel"]="58",    ["questlevel"]="61"},
-
-	["8054"] = {    ["Title"]="Paragons of Power: The Freethinker's Belt",    ["Description"]="Your beliefs are alien to us, heathen.  Ancient Zandalar were once branded as heretics.  This was when the Gurubashi Empire was strong.  Heathens dared to challenge the priest of Hakkar.  Heathens then were hunted and killed as vermin.  Those heathens never wavered in their fight against the Blood God.  We honor the price they paid.  They are the freethinkers.NEW_LINENEW_LINEDestroy the minions of Hakkar in Zul'Gurub.  Bring me the Paragons of Power I seek.  Success will be greatly rewarded.NEW_LINENEW_LINEGo.",    ["Objectives"]="Bring Jin'rokh the Breaker a Primal Hakkari Shawl.  You must also have a reputation equal to or greater than Honored with the Zandalar Tribe.NEW_LINENEW_LINEJin'rokh the Breaker is located on Yojamba Isle, Stranglethorn Vale.",    ["Progress"]="Your presence means victory?  Do you have the Paragons?  Are you dripping in the remains of your enemies?",    ["Completion"]="Your honor is assured in the tribe.  You claim many deaths in Zul'Gurub.  Enemies fall before your convictions.  Enemies fall before your power.NEW_LINENEW_LINEThis is the freethinker's belt.  It is a symbol of honor.  It is powerful mojo.  It is now yours.",    ["minlevel"]="58",    ["questlevel"]="61"},
-
-	["8053"] = {    ["Title"]="Paragons of Power: The Freethinker's Armguards",    ["Description"]="You are a heathen.  Heathens have a place in the tribe.  Heathens are freethinkers of Zandalar.  Freethinkers do not fear oppression.  Freethinkers die for what they believe in.  We know you would die for what you believe in.  This earns our acknowledgement.  This earns you a chance to prove yourself further.NEW_LINENEW_LINEWe must have the Paragons of Power.  Go to Zul'Gurub.  Kill the minions of Hakkar.  Return when you have what I seek.  Claim the first battle gear of a Zandalar freethinker.NEW_LINENEW_LINEGo.",    ["Objectives"]="Bring Jin'rokh the Breaker Primal Hakkari Bindings.  You must also have a reputation equal to or greater than Friendly with the Zandalar Tribe.NEW_LINENEW_LINEJin'rokh the Breaker is located on Yojamba Isle, Stranglethorn Vale.",    ["Progress"]="You have returned?  Do you have the Paragons of Power?  Are you wasting my time?NEW_LINENEW_LINEI hope not, heathen.",    ["Completion"]="You do much to honor us.  Your hands drip with the blood of Hakkar's minions.  You are a friend to the tribe.NEW_LINENEW_LINEWear these bracers.  They are the freethinker's armguards.  This is what I mean about real power.",    ["minlevel"]="58",    ["questlevel"]="61"},
-
-	["7888"] = {    ["Title"]="Talismans of Merit",    ["Description"]="You have proven your value to our efforts in Warsong Gulch. Continue to aid the cause and bring me more talismans of merit. Do this, and you will earn even more of our trust.",    ["Objectives"]="You obtained a Silverwing Talisman of Merit for your last task, talk to me again, and you gain your reward.",    ["Progress"]="",    ["Completion"]="Thank you, YOUR_NAME. Your exploits in Warsong Gulch ring throughout Ashenvale Forest.",    ["minlevel"]="40",    ["questlevel"]="45"},
-
-	["8101"] = {    ["Title"]="The Pebble of Kajaro",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="YOUR_RACE, the pebble held within the frame of this talisman comes from Mount Kajaro in the South Seas. Mount Kajaro is an area plagued by volatility - marked by violent and oftentimes magical volcanic eruptions.NEW_LINENEW_LINEAs your bond with the trolls of Zandalar grows, so too shall the power of this pebble. Harness the power of the pebble to strike down our enemies. Be like the mountain: Quick, explosive, deadly...",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8102"] = {    ["Title"]="The Pebble of Kajaro",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="Welcome back, $C. I can see that the pebble has seen much use. Many of our foes have fallen to your otherworldly abilities. Their suffering has been great. It is time that I enhance the power of the pebble. Give it to me.",    ["Completion"]="Be unstoppable, like the molten fronts of Kajaro.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8103"] = {    ["Title"]="The Pebble of Kajaro",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="Hakkari fear you, YOUR_NAME. They speak of horrors they believed that only their faceless God could perpetrate. You have burned them with the force of Kajaro. They now know fear in two places.NEW_LINENEW_LINEIt is time to further strengthen the pebble. Hand me the talisman.",    ["Completion"]="Continue in your decimation of the trolls of Zul'Gurub. Hakkar must see that the world will not buckle beneath his indomitable will.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8104"] = {    ["Title"]="The Jewel of Kajaro",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="Give me the talisman, YOUR_NAME. I must show you something.",    ["Completion"]="<Al'tabim shatters the pebble with a powerful unseen force.>NEW_LINENEW_LINEDo you see? The pebble is what we call a geode. Inside the pebble are powerful crystals that have been soaking in the latent energies from our world. By cutting the pebble in half, I have finally allowed its full potential to be realized. Use it to lay waste to our enemies.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8371"] = {    ["Title"]="Concerted Efforts",    ["Description"]="We're not fighting isolated battles against the Horde anymore, $g lad:lass;.NEW_LINENEW_LINEVictory in one front means denying the Horde resources they'd use against us in a different battle.  By the same token, losing any given battle could give the advantage to our opponent somewhere else around the world.NEW_LINENEW_LINEThe Alliance is in need of more combatants with this sort of worldly understanding... truly seasoned veterans!  YOUR_NAME, come back to me after you've served against the Horde at all of our active battlegrounds.",    ["Objectives"]="Bring 3 Alterac Valley Mark of Honor, 3 Arathi Basin Mark of Honor and 3 Warsong Gulch Mark of Honor to an Alliance Brigadier General outside the battlegrounds.",    ["Progress"]="How are yer travels faring  laddie?",    ["Completion"]="You're not one to disappoint, YOUR_NAME!  What you've learned goes beyond petty medals and commendations.  What you've learned is what can only come with experience and the hardening of one's temper in the field of battle.NEW_LINENEW_LINEYou've done well, $C.  You're a true hero of the Alliance!",    ["minlevel"]="51",    ["questlevel"]="60"},
-
-	["8106"] = {    ["Title"]="Kezan's Taint",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="Accept this talisman, $C. Accept it and use its power to strike down our mutual enemies.NEW_LINENEW_LINEKnow that around your neck you carry a piece of history. Kezan was once a grand territory of the Zandalar Empire. Alas, the taint of goblin trade princes would force out my proud brothers and sisters.NEW_LINENEW_LINEKezan is now home to the goblin capital of the Undermine; but know that before the taint, it held greatness. Still to this day Kezan is considered sacred land to my people.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8107"] = {    ["Title"]="Kezan's Taint",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="Honor is earned amongst the Zandalar trolls, YOUR_NAME. With honor comes reward - friendship, alliance...NEW_LINENEW_LINEHand me the talisman so that I may enhance its power.",    ["Completion"]="Draw from the darkness, $C. Embrace the shadows. Let Kezan's Taint supplement your dark meddling.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8108"] = {    ["Title"]="Kezan's Taint",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="I am ready for you, $C. Once more I will enhance your talisman. I only ask that you continue in your destruction of Hakkar and his minions.NEW_LINENEW_LINEGive me the talisman.",    ["Completion"]="It is only through our combined efforts that we will stop the Soulflayer.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8109"] = {    ["Title"]="Kezan's Unstoppable Taint",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="Call forth your demons, $C. Let them bask in the energy of Kezan's Taint. Command them on the field of battle! Decimate the enemy!NEW_LINENEW_LINEYes... The time has come to apply the final enhancement to Kezan's Taint. Give me the talisman.",    ["Completion"]="Flay the flesh from their corpses. Watch as the shadows consume the Hakkari. Draw power from their fear, $C. Let Kezan's Taint augment this power...",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8110"] = {    ["Title"]="Enchanted South Seas Kelp",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="See this here seaweed, mon? It be from the South Seas. We just add a little mojo and a little magic and it takes on the properties most suited to its owner.NEW_LINENEW_LINEYou a $C so it be easy, mon. Just wrap it around your neck and think of nature or squirrels or whatever it be that you people like.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8111"] = {    ["Title"]="Enchanted South Seas Kelp",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="Hey mon! It be good to see you again. The tribe be talking about your killin' of the Hakkari and all that. Molthor gave me the word to be adding more mojo to your talisman. Just give it here and Maywiki make it better.",    ["Completion"]="The neck piece not be for smokin', mon! You got to use it to fight evil.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8112"] = {    ["Title"]="Enchanted South Seas Kelp",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="How be that talisman, mon? It look like it be time to add a little more magic and mojo to its leaves. It need a little bloom in its wilt. Give it here and Maywiki fix it right up.",    ["Completion"]="Now you take the evil trolls in Zul'Gurub and show them what your nature powers can do, mon!",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8113"] = {    ["Title"]="Pristine Enchanted South Seas Kelp",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="YOUR_NAME! It been a long time since I seen you. Did you know that King Rastakhan himself be givin' me the order to add the final bit of mojo and magic to your talisman? It be true, mon! I wouldn't have believed it had I not seen it with me own eyes. Give it here.",    ["Completion"]="YOUR_NAME mon, it been a good journey. Keep on with the killing and suppressing of Hakkar and he minions.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8114"] = {    ["Title"]="Control Four Bases",    ["Description"]="YOUR_NAME, you have taken the battle of Arathi Basin to our enemies and earned great honors in that field of battle.  You have shown us your worth as a $c, and you have shown our enemies that we will not submit to their villainy!NEW_LINENEW_LINEBecause of your proven value to us, I have a difficult task for you.  I want you to take and hold at least four of the bases in Arathi Basin.  If you can do that, then we will not only secure critical resources, we will show the Horde our dominance!NEW_LINENEW_LINEGo, YOUR_NAME, and good fortune.",    ["Objectives"]="Enter Arathi Basin, capture and control four bases at the same time, and then return to Field Marshal Oslight at Refuge Pointe.",    ["Progress"]="You have not yet taken four bases, YOUR_NAME. Return to Arathi Basin and do as you have been tasked!",    ["Completion"]="Very good work, YOUR_NAME!  An excited scout came to me with a report of your exploits.  We in the League of Arathor are very pleased!NEW_LINENEW_LINEYou are swiftly becoming a local hero among the soldiers in the League, and today's deed once again proves your sterling reputation.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8115"] = {    ["Title"]="Control Five Bases",    ["Description"]="YOUR_NAME, battling for the resources of Arathi Basin is a bloody undertaking.  Your services to the League of Arathor are as needed as they are appreciated.NEW_LINENEW_LINEAnd we have one more task for you.NEW_LINENEW_LINEThe League wishes to make one strong push against the Defilers' occupation of Arathi Basin.  We want them driven out of every strategic point on the battlefield!NEW_LINENEW_LINEIt will not be easy, but if anyone can get it done, it is you.",    ["Objectives"]="Control 5 bases in Arathi Basin at the same time, then return to Field Marshal Oslight at Refuge Pointe.",    ["Progress"]="You have not yet completed your mission, YOUR_NAME. It is difficult, but my faith in you is strong.",    ["Completion"]="You did it!  You took all of the bases! Well done, YOUR_NAME!NEW_LINENEW_LINEThere were those who doubted your chances, but I knew you could do it. Thank you, and know that the League of Arathor holds you in high regard, just as the Defilers of the Forsaken must fear the very mention of your name!",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8116"] = {    ["Title"]="Vision of Voodress",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="You and Maywiki have something in common, mon. We both be $C! Although, Maywiki is more of a mystic and you be more of a scrub. Still, we both know what the great spirits bring.NEW_LINENEW_LINEAs a gift I give to you this orb to wear around your neck. Look deep inside and see the village of Voodress in the South Seas! Let it lift your spirits!",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8117"] = {    ["Title"]="Vision of Voodress",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="Good news, YOUR_NAME. Molthor be singin' your praises lately. He say how you be turnin' into a real hero of Zandalar.NEW_LINENEW_LINEHe also say for Maywiki to polish your orb some more! Give it here so Maywiki can brighten the vision.",    ["Completion"]="Beware the evil Hakkari spirits, mon. Honestly, they be spooky.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8118"] = {    ["Title"]="Vision of Voodress",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="Sha-mon! Maywiki make a joke!NEW_LINENEW_LINE<Maywiki laughs.>NEW_LINENEW_LINESo, you been using the spirits and elements against our enemies in Zul'Gurub, eh? Spirits be praised!NEW_LINENEW_LINEMaywiki gonna brighten your orb. Give it here, YOUR_NAME.",    ["Completion"]="Take a look at it now, YOUR_NAME. Voodress come in even clearer now, yea? Let the primal power flow through you, mon.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8119"] = {    ["Title"]="The Unmarred Vision of Voodress",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="<Maywiki points to your talisman.>NEW_LINENEW_LINELook at it, YOUR_NAME! It's come alive. The spirits dance around the orb.NEW_LINENEW_LINEGive it to Maywiki so she can make one last adjustment.",    ["Completion"]="One day, YOUR_NAME, you will be able to use this orb to communicate directly with me. Whenever this battle with Hakkar be over and Maywiki go home. Let us call to the spirits and ask them for that day to come soon.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8370"] = {    ["Title"]="Conquering Arathi Basin",    ["Description"]="Our conflict with the Alliance has escalated to a true war.  No longer are false pretenses to enter into battle used or expected by either side at this point.NEW_LINENEW_LINEThe battle for the Arathi Basin is one of resources, plain and simple.  Either the Alliance gets the resources and uses them against us or we get them and use them to keep our war efforts going.  Help the Defilers maintain the flow of resources we need, YOUR_NAME!",    ["Objectives"]="Bring 3 Arathi Basin Mark of Honor to a Horde Warbringer outside the battlegrounds.",    ["Progress"]="You've come back with news from Arathi, $C?",    ["Completion"]="Securing our resources in Arathi is an important task!  You've done well, YOUR_NAME.",    ["minlevel"]="20",    ["questlevel"]="29"},
-
-	["8121"] = {    ["Title"]="Take Four Bases",    ["Description"]="YOUR_NAME, as the battles over Arathi Basin rage, news of your actions have reached many ears.  You are highly regarded among us, which gives me confidence that you will accomplish the mission I now have for you.NEW_LINENEW_LINEIt is time to send a message to the League of Arathor.  We must show them that their holdings in Arathi Basin are tenuous and quickly lost.  We will show them this by holding, all at once, four strategic points in Arathi Basin.NEW_LINENEW_LINESucceed in this, YOUR_NAME, and earn great respect among the Defilers.",    ["Objectives"]="Hold four bases at the same time in Arathi Basin, and then return to Deathmaster Dwire in Hammerfall.",    ["Progress"]="Return to Arathi Basin, YOUR_NAME, and perform the task for which you were sent to do! Capture and hold four bases!",    ["Completion"]="Good work, YOUR_NAME! Your latest actions in Arathi Basin were quite difficult, and so their successes are quite praiseworthy. The League of Arathor must be reeling from the last skirmishes in the basin, licking their wounds and, let us hope, rethinking their choice to fight here.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8122"] = {    ["Title"]="Take Five Bases",    ["Description"]="It is difficult to see, so deep we are in the conflict, but our spies report a weakening in the League of Arathor's resolve.  We must use this window and strike a brutal blow against them!  Return to Arathi Basin and throw yourself against our foes.  Curse them and kill them and control all five strategic bases!  Send their soldiers screaming and bleeding from the front lines, with stories of your cruelty on their mewling lips.NEW_LINENEW_LINEDo this, and score a great victory for the Defilers.",    ["Objectives"]="Hold five bases in Arathi Basin at the same time, then return to Deathmaster Dwire in Hammerfall.",    ["Progress"]="Return to Arathi Basin, YOUR_NAME, and perform the task for which you were sent to do! Capture and hold all five bases!",    ["Completion"]="The cries of the Alliance as you and your compatriots attacked them could be heard even from here, YOUR_NAME. I can almost pity them for the pain and fear you delivered to their ranks. Almost, but not quite.NEW_LINENEW_LINEYour value to the Defilers is without question. Your deeds in Arathi Basin have been most impressive, and have echoed among the chambers of Varimathras... and the Dark Lady herself.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["7886"] = {    ["Title"]="Talismans of Merit",    ["Description"]="",    ["Objectives"]="You obtained a Silverwing Talisman of Merit for your last task, talk to me again, and you gain your reward.",    ["Progress"]="",    ["Completion"]="Thank you, YOUR_NAME. Your exploits in Warsong Gulch ring throughout Ashenvale Forest.",    ["minlevel"]="50",    ["questlevel"]="55"},
-
-	["7887"] = {    ["Title"]="Talismans of Merit",    ["Description"]="You have proven your value to our efforts in Warsong Gulch. Continue to aid the cause and bring me more talismans of merit. Do this, and you will earn even more of our trust.",    ["Objectives"]="You obtained a Silverwing Talisman of Merit for your last task, talk to me again, and you gain your reward.",    ["Progress"]="",    ["Completion"]="Thank you, YOUR_NAME. Your exploits in Warsong Gulch ring throughout Ashenvale Forest.",    ["minlevel"]="30",    ["questlevel"]="35"},
-
-	["8141"] = {    ["Title"]="Zandalrian Shadow Talisman",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="You progress swiftly, young $C. Perhaps it is time to initiate you into the Shera Ali'kh - Zandalari for Death's Hand. For thousands of years we have played the role of assassin for the Zandalar Empire. For too long we have sat idly, allowing the Hakkari to grow in strength. Once more we face Hakkar, but this time without the support of a united YOUR_RACE front. It is you and your allies who must assist in vanquishing the Blood God and his minions!NEW_LINENEW_LINEWear this talisman and let it assist you in your journeys.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8142"] = {    ["Title"]="Zandalrian Shadow Talisman",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="Impressive, YOUR_NAME. You have a gift for killing that I have not sensed in another in many years. Even Molthor is aware of the work that you have done for Zandalar. It is time to enhance your talisman further. Give it to me.",    ["Completion"]="There is only one enhancement left that can be placed on the talisman, $C. When the time is right, I shall apply that enhancement.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8143"] = {    ["Title"]="Zandalrian Shadow Talisman",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="I sense that you have dealt countless fatalities to the Hakkari, YOUR_NAME. You carry the stink of their mojo.NEW_LINENEW_LINEI assume the Shadow talisman has assisted in the culling? Give it to me and allow me to enhance its power.",    ["Completion"]="An assassin of your caliber should be given a wide berth. Your foes must learn respect! You will get just that when the enemy sees the glint of Death's Hand - all too late...",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8144"] = {    ["Title"]="Zandalrian Shadow Mastery Talisman",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="It yearns to grow, YOUR_NAME. The talisman has soaked in all that you have done. The thousands of troll corpses littering Zul'Gurub have fueled its power. Hand it to me and I shall make the final enhancement.",    ["Completion"]="This is the last time we will speak under the auspices of Shera Ali'kh. You know all that you must. Take the talisman and continue in your slaying. Hakkar must never be allowed to leave Zul'Gurub.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8145"] = {    ["Title"]="The Maelstrom's Tendril",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="Amongst the Zandalarians, the profession of $C is revered. Our greatest hunters travel to the edge of the Maelstrom to prove their resolution.NEW_LINENEW_LINEFrom the heart of the sea they pull strands of kelp known as Maelstrom Tendrils. The kelp is then woven into a talisman that is enchanted to improve their accuracy and power.NEW_LINENEW_LINEI now grant you a single weaving of the Maelstrom's Tendril. As your bond with Zandalar grows, I shall weave more power into the talisman.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8146"] = {    ["Title"]="The Maelstrom's Tendril",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="Even from here I can hear the sound of your volleys laying waste to our enemies. Their cries echo in agony.NEW_LINENEW_LINEYou have made quite a name for yourself among the trolls of Zandalar, YOUR_NAME. We are grateful for all that you have done.NEW_LINENEW_LINEHand me your talisman so that I may add another weave.",    ["Completion"]="There is only one more weave that I will be able to add to your talisman, $C",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8147"] = {    ["Title"]="The Maelstrom's Tendril",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="Ah, YOUR_NAME, it is good to smell you again.NEW_LINENEW_LINE<Falthir grins.>NEW_LINENEW_LINEYou'll have to excuse my sense of humor. It can be most foul at times.NEW_LINENEW_LINEI sense that you have caused great anguish to our enemies. The forces of Hakkar cry out your name in anger. This is most excellent.NEW_LINENEW_LINEYou have earned another weave on your talisman. Hand it to me.",    ["Completion"]="Let them seek atonement at the end of your munitions.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8148"] = {    ["Title"]="The Maelstrom's Wrath",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="Molthor delivers word from King Rastakhan, YOUR_NAME. The royal court is most impressed with your decimation of the Hakkari forces. I am to award you with the final weave in your talisman. Hand it to me.",    ["Completion"]="Your journey has only just begun, young $C. Perhaps one day you will visit the Maelstrom and glance into the heart of the world.NEW_LINENEW_LINEI wish you power and fortitude!",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8149"] = {    ["Title"]="Honoring a Hero",    ["Description"]="During the Harvest Festival of Azeroth, we give thanks to heroes for the sacrifices - in some cases ultimate sacrifices - they have given on our behalf.  The Alliance acknowledges many heroes, but none weave a more tragic tale than that of Uther Lightbringer.NEW_LINENEW_LINEHelp us honor Uther by taking this offering to his tomb in the Western Plaguelands.  Place it at his statue, and then return to me.  I'll only be here through the end of the festival, so waste no time in giving Uther his tribute.",    ["Objectives"]="Travel to Uther's Tomb in Western Plaguelands and use Uther's Tribute at his statue, and then return to Wagner Hammerstrike outside Ironforge before the Harvest Festival is over.",    ["Progress"]="Have you made the journey to Uther's Tomb and placed the tribute there?NEW_LINENEW_LINEIt can be a dangerous trip for less experienced adventurers; a safer way of traveling there, relatively speaking, may be to travel north from the river that runs through Hillsbrad into the Plaguelands. It flows from a lake that is adjacent to Sorrow Hill; travel west up through the hills, steering clear of the adjacent tomb... one that is infested with the Scourge.",    ["Completion"]="He was a hero among heroes, Uther was.  I can't even begin to imagine the anguish of what he felt when Arthas - his greatest student and someone whom Uther loved like his own son - betrayed all of humanity.  Still, he rose to try and stop Arthas, and for that he will be forever remembered as a true paladin.  His fight was to the end, thinking only of those he might save.NEW_LINENEW_LINEThank you, YOUR_NAME.  You've paid tribute to a great hero today, honoring his spirit and the spirit of the Harvest Festival.",    ["minlevel"]="30",    ["questlevel"]="60"},
-
-	["8150"] = {    ["Title"]="Honoring a Hero",    ["Description"]="During the Harvest Festival of Azeroth, we give thanks to heroes for the sacrifices - in some cases ultimate sacrifices - they have given on our behalf.  The Horde acknowledges many heroes, but none exemplify strength and sacrifice more than Grom Hellscream.NEW_LINENEW_LINEHelp us honor Grom by taking this offering to his monument in the Demon Fall Canyon of Ashenvale.  Place it at the base, and then return to me.  I'll only be here through the end of the festival, so waste no time in giving Grom his tribute.",    ["Objectives"]="Travel to Grom's Monument in the Demon Fall Canyon of Ashenvale and use Grom's Tribute at the base of the monument.  Return to Javnir Nashak outside Orgrimmar before the Harvest Festival is over.",    ["Progress"]="Have you made the journey to Grom's Monument and placed his tribute there?NEW_LINENEW_LINEThe site where the monument is still touched by the taint of the Burning Legion. Should you be less experienced in the ways of adventuring, be on your toes when approaching the monument.",    ["Completion"]="Grom's full name - Grommash - means \"The Giant's Heart\"; it took that and more to stand alone against Mannoroth.  I think the Warchief said it best when the curse of the orcs began and ended with Grom.  Fitting that Grom's sacrifice - and perhaps redemption - would be the wellspring from which the Horde flows today.NEW_LINENEW_LINEThank you, YOUR_NAME.  You've paid tribute to a great hero today, honoring his spirit and the spirit of the Harvest Festival.",    ["minlevel"]="30",    ["questlevel"]="60"},
-
-	["7876"] = {    ["Title"]="Quell the Silverwing Usurpers",    ["Description"]="The wilds of the Ashenvale forest will succumb to the might of the Horde, YOUR_RACE. Nothing the Silverwing say or do can stop our sovereign imperative. Kalimdor belongs to the Horde. How dare they attempt to prevent us from harvesting what is rightfully ours!NEW_LINENEW_LINELet the pride swell in your chest as you cut down their weak attempts at slowing our progress. Destroy the Silverwing Sentinels, and earn a Warsong mark of honor.  Return to me with such a mark, YOUR_NAME, and you will be rewarded.NEW_LINE",    ["Objectives"]="Enter Warsong Gulch and defeat the Alliance, gain a Warsong Gulch Mark of Honor, and bring it to Captain Shatterskull at the Mor'shan Base Camp.",    ["Progress"]="The blood of our enemies is a mark of honor. Do you have such a mark?",    ["Completion"]="<Captain Shatterskull roars in triumph>NEW_LINENEW_LINEHow much more can they withstand? How many more Alliance filth must perish at the hands of the Horde for them to retreat? Only time will tell, YOUR_RACE...",    ["minlevel"]="50",    ["questlevel"]="59"},
-
-	["7874"] = {    ["Title"]="Quell the Silverwing Usurpers",    ["Description"]="The wilds of the Ashenvale forest will succumb to the might of the Horde, YOUR_RACE. Nothing the Silverwing say or do can stop our sovereign imperative. Kalimdor belongs to the Horde. How dare they attempt to prevent us from harvesting what is rightfully ours!NEW_LINENEW_LINELet the pride swell in your chest as you cut down their weak attempts at slowing our progress. Destroy the Silverwing Sentinels, and earn a Warsong mark of honor.  Return to me with such a mark, YOUR_NAME, and you will be rewarded.NEW_LINE",    ["Objectives"]="Enter Warsong Gulch and defeat the Alliance, gain a Warsong Gulch Mark of Honor, and bring it to Captain Shatterskull at the Mor'shan Base Camp.",    ["Progress"]="The blood of our enemies is a mark of honor. Do you have such a mark?",    ["Completion"]="<Captain Shatterskull roars in triumph>NEW_LINENEW_LINEHow much more can they withstand? How many more Alliance filth must perish at the hands of the Horde for them to retreat? Only time will tell, YOUR_RACE...",    ["minlevel"]="30",    ["questlevel"]="39"},
-
-	["8369"] = {    ["Title"]="Invaders of Alterac Valley",    ["Description"]="Listen up, YOUR_NAME.  No matter what you might have heard about the battle raging in Alterac Valley, one thing remains true: the Stormpike Expedition invaded Frostwolf Territory.  The day we allow the Alliance to invade Horde lands without a forceful response is the day I hang up my axe and live the rest of my life in shame.  Go forth and expel the invaders!",    ["Objectives"]="Bring 3 Alterac Valley Marks of Honor to a Horde Warbringer outside the battlegrounds.",    ["Progress"]="What news do you bring from the lands of the Frostwolves?  How does the battle for Alterac Valley fare?",    ["Completion"]="You've shown great bravery in protecting our lands in Alterac Valley!  I will tell my superiors of your deeds.",    ["minlevel"]="51",    ["questlevel"]="60"},
-
-	["8171"] = {    ["Title"]="The Battle for Arathi Basin!",    ["Description"]="As you no doubt have heard, the League of Arathor is sending large numbers of troops into Arathi Basin.  Eager for food and supplies, these Alliance fools are intent to take and control the rich resources there.  We must show them that Arathi will never again be a home for humans!NEW_LINENEW_LINEGo to Arathi Basin and assault the mine, the lumber mill, the blacksmith and the stables.  Pull down the enemies' banners, declaring those territories for the Horde.NEW_LINENEW_LINEGo, YOUR_NAME.  Report back to me when this task is complete.",    ["Objectives"]="Assault the Arathi Basin mine, lumber mill, blacksmith and stable, and then return to Deathmaster Dwire in Hammerfall.",    ["Progress"]="",    ["Completion"]="A Defiler scout came to me with a report of your success, YOUR_NAME.  Well done.NEW_LINENEW_LINEAs you will learn, to win the battle for Arathi Basin, we must be ever vigilant and crush any attempts at Alliance expansion.  Do this, and our victory here is ensured.",    ["minlevel"]="20",    ["questlevel"]="25"},
-
-	["8181"] = {    ["Title"]="Confront Yeh'kinya",    ["Description"]="My delvings into the Mosh'aru Tablets bear grim news, YOUR_NAME.  Hakkar's true form, the god himself, can be born again through the very egg into which you captured him.  Yeh'kinya told you it was to contain his evil, but it is to recreate it!  The troll has led you astray!NEW_LINENEW_LINEGo to Yeh'kinya and demand the egg from him.  Pray that it is not too late to stop Hakkar's return!",    ["Objectives"]="Speak with Yeh'kinya.",    ["Progress"]="",    ["Completion"]="So, you have been speaking with that old dwarf Ironboot and uncovered the lost Mosh'aru Tablets, have you?  That meddling prospector...NEW_LINENEW_LINENo matter.  It is too late to save this world.  Hakkar has been reborn, and even now grows in power... deep in the ancient troll kingdom of Zul'Gurub!  He has come!  And he will rule in blood and terror!NEW_LINENEW_LINEThank you, YOUR_NAME.  Your help has sped the return of the Soulflayer!",    ["minlevel"]="40",    ["questlevel"]="58"},
-
-	["8195"] = {    ["Title"]="Zulian, Razzashi, and Hakkari Coins",    ["Description"]="I seek the Paragons of Power known as the Coins of the Tribes.  They are the currency used by the various denizens of Zul'Gurub, and each is imbued with subtle but powerful mojo.NEW_LINENEW_LINEThere are nine distinct kinds to be found.  Some are sought after by my compatriots for various armors they offer Zandalar heroes.  Should you have any extra, I will trade you one of our Honor Tokens for a set of three.  You may use the Tokens with Rin'wosho the Trader; he offers our heroes special items for them.",    ["Objectives"]="",    ["Progress"]="I seek the Paragons of Power known as the Coins of the Tribes.  They are the currency used by the various denizens of Zul'Gurub, and each is imbued with subtle but powerful mojo.NEW_LINENEW_LINEThere are nine distinct kinds to be found.  Some are sought after by my compatriots for various armors they offer Zandalar heroes.  Should you have any extra, I will trade you one of our Honor Tokens for a set of three.  You may use the Tokens with Rin'wosho the Trader; he offers our heroes special items for them.",    ["Completion"]="Excellent - this set of coins will make a fine addition to our growing collection... one that we will use in the tribe's defense against the rise of the Blood God.  You've earned this Honor Token, YOUR_NAME, as well as the thanks of the tribe!",    ["minlevel"]="58",    ["questlevel"]="60"},
-
-	["8227"] = {    ["Title"]="Nat's Measuring Tape",    ["Description"]="Amongst the shattered fishing lures and tackle is a rolled, silken measuring tape.  Attached to the tape is a label that reads:NEW_LINENEW_LINE\"Nat Pagle, Dustwallow Marsh.\"",    ["Objectives"]="Return Nat's Measuring Tape to Nat Pagle in Dustwallow Marsh.",    ["Progress"]="Hello there, laddie. You here to do some fishing?",    ["Completion"]="Why, you found my favorite measuring tape! I love this tape! I measured some of the biggest fish I ever caught with it...NEW_LINENEW_LINEBut, I lost this tape in Zul'Gurub... you've been to Zul'Gurub? Did you see the fabled Gahz'ranka?NEW_LINENEW_LINEWell... do you want to catch him?",    ["minlevel"]="58",    ["questlevel"]="60"},
-
-	["8228"] = {    ["Title"]="Could I get a Fishing Flier?",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="There be a Fishin Contest in Booty Bay this Sunday! Here are the rules for ya!",    ["minlevel"]="35",    ["questlevel"]="60"},
-
-	["8229"] = {    ["Title"]="Could I get a Fishing Flier?",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="There is a Fishing Contest in Booty Bay this Sunday! Here are the rules for you!",    ["minlevel"]="35",    ["questlevel"]="60"},
-
-	["8238"] = {    ["Title"]="Gurubashi, Vilebranch, and Witherbark Coins",    ["Description"]="I seek the Paragons of Power known as the Coins of the Tribes.  They are the currency used by the various denizens of Zul'Gurub, and each is imbued with subtle but powerful mojo.NEW_LINENEW_LINEThere are nine distinct kinds to be found.  Some are sought after by my compatriots for various armors they offer Zandalar heroes.  Should you have any extra, I will trade you one of our Honor Tokens for a set of three.  You may use the Tokens with Rin'wosho the Trader; he offers our heroes special items for them.",    ["Objectives"]="",    ["Progress"]="I seek the Paragons of Power known as the Coins of the Tribes.  They are the currency used by the various denizens of Zul'Gurub, and each is imbued with subtle but powerful mojo.NEW_LINENEW_LINEThere are nine distinct kinds to be found.  Some are sought after by my compatriots for various armors they offer Zandalar heroes.  Should you have any extra, I will trade you one of our Honor Tokens for a set of three.  You may use the Tokens with Rin'wosho the Trader; he offers our heroes special items for them.",    ["Completion"]="Excellent - this set of coins will make a fine addition to our growing collection... one that we will use in the tribe's defense against the rise of the Blood God. You've earned this Honor Token, YOUR_NAME, as well as the thanks of the tribe!",    ["minlevel"]="58",    ["questlevel"]="60"},
-
-	["8239"] = {    ["Title"]="Sandfury, Skullsplitter, and Bloodscalp Coins",    ["Description"]="I seek the Paragons of Power known as the Coins of the Tribes.  They are the currency used by the various denizens of Zul'Gurub, and each is imbued with subtle but powerful mojo.NEW_LINENEW_LINEThere are nine distinct kinds to be found.  Some are sought after by my compatriots for various armors they offer Zandalar heroes.  Should you have any extra, I will trade you one of our Honor Tokens for a set of three.  You may use the Tokens with Rin'wosho the Trader; he offers our heroes special items for them.",    ["Objectives"]="",    ["Progress"]="I seek the Paragons of Power known as the Coins of the Tribes.  They are the currency used by the various denizens of Zul'Gurub, and each is imbued with subtle but powerful mojo.NEW_LINENEW_LINEThere are nine distinct kinds to be found.  Some are sought after by my compatriots for various armors they offer Zandalar heroes.  Should you have any extra, I will trade you one of our Honor Tokens for a set of three.  You may use the Tokens with Rin'wosho the Trader; he offers our heroes special items for them.",    ["Completion"]="Excellent - this set of coins will make a fine addition to our growing collection... one that we will use in the tribe's defense against the rise of the Blood God. You've earned this Honor Token, YOUR_NAME, as well as the thanks of the tribe!",    ["minlevel"]="58",    ["questlevel"]="60"},
-
-	["8240"] = {    ["Title"]="A Bijou for Zanza",    ["Description"]="The destruction of the various Hakkari Bijous is of grave importance to us, so much so that we welcome outsiders of the tribe to do so for themselves!NEW_LINENEW_LINETake any one of the bijous that you find in Zul'Gurub to the Altar of Zanza and destroy it.  For this one time alone, I will give you an additional Honor Token from our tribe; this is above and beyond what you would normally receive.NEW_LINENEW_LINEWitness for yourself the blessings of Zanza!",    ["Objectives"]="Destroy any one of the Hakkari Bijous found in Zul'Gurub at the Altar of Zanza on Yojamba Isle.  When done, speak with Vinchaxa nearby.",    ["Progress"]="Have you destroyed the bijou at the Altar of Zanza?  Do so, and then you will be doubly blessed by Zanza!",    ["Completion"]="Excellent... each bijou we wrest away from the Blood God's minions is one step closer we all are to finally defeating them once and for all.  You bring honor to the Zandalar - and yourself - through your noble actions.NEW_LINENEW_LINERemember YOUR_NAME, you may always destroy the bijous you find in Zul'Gurub at the altar.  For each one, you will gain recognition and an Honor Token!  Just remember to have an open space in your inventory if you don't have one of the tokens already.",    ["minlevel"]="58",    ["questlevel"]="60"},
-
-	["8242"] = {    ["Title"]="Restoring Fiery Flux Supplies via Heavy Leather",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="Let's not waste more of my precious time with jibber jabber, YOUR_RACE. It's time to focus on replenishing our dwindling fiery flux supply.NEW_LINENEW_LINEWhat I'm gonna need from you is the following:NEW_LINENEW_LINE*Incendosaur scales.NEW_LINENEW_LINE*Heavy Leather.NEW_LINENEW_LINE*Coal.NEW_LINENEW_LINEI'll take all that you can offer!NEW_LINENEW_LINEAnd you'll do it fast if you wanna get in good with the Brotherhood.",    ["Completion"]="There's always room for more fiery flux, junior. Keep it comin'... unless I tell you to stop.",    ["minlevel"]="45",    ["questlevel"]="60"},
-
-	["7736"] = {    ["Title"]="Restoring Fiery Flux Supplies via Kingsblood",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="Let's not waste more of my precious time with jibber jabber, YOUR_RACE. It's time to focus on replenishing our dwindling fiery flux supply.NEW_LINENEW_LINEWhat I'm gonna need from you is the following:NEW_LINENEW_LINE*Incendosaur scales.NEW_LINENEW_LINE*Kingsblood.NEW_LINENEW_LINE*Coal.NEW_LINENEW_LINEI'll take all that you can offer!NEW_LINENEW_LINEAnd you'll do it fast if you wanna get in good with the Brotherhood.",    ["Completion"]="There's always room for more fiery flux, junior. Keep it comin'... unless I tell you to stop.",    ["minlevel"]="45",    ["questlevel"]="60"},
-
-	["8260"] = {    ["Title"]="Arathor Basic Care Package",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="You've certainly begun to prove yourself to us, YOUR_NAME.  As a reward, please take this care package!  Inside it you'll find rations and bandages that are usable only inside Arathi Basin.NEW_LINENEW_LINEAs you continue to prove yourself inside the Basin, you'll find that these items will become available to you for purchase.  Rations become available when you are Friendly with us, and bandages when you are Honored.",    ["minlevel"]="25",    ["questlevel"]="34"},
-
-	["8261"] = {    ["Title"]="Arathor Standard Care Package",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="You've certainly begun to prove yourself to us, YOUR_NAME.  As a reward, please take this care package!  Inside it you'll find rations and bandages that are usable only inside Arathi Basin.NEW_LINENEW_LINEAs you continue to prove yourself inside the Basin, you'll find that these items will become available to you for purchase.  Rations become available when you are Friendly with us, and bandages when you are Honored.",    ["minlevel"]="35",    ["questlevel"]="44"},
-
-	["8262"] = {    ["Title"]="Arathor Advanced Care Package",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="You've certainly begun to prove yourself to us, YOUR_NAME.  As a reward, please take this care package!  Inside it you'll find rations and bandages that are usable only inside Arathi Basin.NEW_LINENEW_LINEAs you continue to prove yourself inside the Basin, you'll find that these items will become available to you for purchase.  Rations become available when you are Friendly with us, and bandages when you are Honored.",    ["minlevel"]="45",    ["questlevel"]="60"},
-
-	["8263"] = {    ["Title"]="Defiler's Basic Care Package",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="You've certainly begun to prove yourself to us, YOUR_NAME.  As a reward, please take this care package!  Inside it you'll find rations and bandages that are usable only inside Arathi Basin.NEW_LINENEW_LINEAs you continue to prove yourself inside the Basin, you'll find that these items will become available to you for purchase.  Rations become available when you are Friendly with us, and bandages when you are Honored.",    ["minlevel"]="25",    ["questlevel"]="34"},
-
-	["8264"] = {    ["Title"]="Defiler's Standard Care Package",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="You've certainly begun to prove yourself to us, YOUR_NAME.  As a reward, please take this care package!  Inside it you'll find rations and bandages that are usable only inside Arathi Basin.NEW_LINENEW_LINEAs you continue to prove yourself inside the Basin, you'll find that these items will become available to you for purchase.  Rations become available when you are Friendly with us, and bandages when you are Honored.",    ["minlevel"]="35",    ["questlevel"]="44"},
-
-	["8265"] = {    ["Title"]="Defiler's Advanced Care Package",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="You've certainly begun to prove yourself to us, YOUR_NAME.  As a reward, please take this care package!  Inside it you'll find rations and bandages that are usable only inside Arathi Basin.NEW_LINENEW_LINEAs you continue to prove yourself inside the Basin, you'll find that these items will become available to you for purchase.  Rations become available when you are Friendly with us, and bandages when you are Honored.",    ["minlevel"]="45",    ["questlevel"]="60"},
-
-	["7873"] = {    ["Title"]="Vanquish the Invaders!",    ["Description"]="Beyond this tunnel you will find a field of strife and turmoil, young $c. The Horde continue to decimate our sacred forest, cutting down the evergreen foliage to power their machines of war.NEW_LINENEW_LINEEnter Warsong Gulch and defend Silverwing Hold. Push back the invading Horde forces!NEW_LINENEW_LINEDo this, and earn a talisman of merit.  Bring me such a talisman, YOUR_NAME, and I shall reward you.",    ["Objectives"]="Enter Warsong Gulch and defeat the Horde, obtain a Warsong Gulch Mark of Honor, and return to Sentinel Farsong at the Silverwing Grove.",    ["Progress"]="Have you fought in Warsong Gulch and defended Silverwing Hold?",    ["Completion"]="You have proven your value to our efforts in Warsong Gulch. Continue to aid the cause and bring me more Marks of Honor. Do this, and you will earn even more of our trust.",    ["minlevel"]="50",    ["questlevel"]="59"},
-
-	["7872"] = {    ["Title"]="Vanquish the Invaders!",    ["Description"]="Beyond this tunnel you will find a field of strife and turmoil, young $c. The Horde continue to decimate our sacred forest, cutting down the evergreen foliage to power their machines of war.NEW_LINENEW_LINEEnter Warsong Gulch and defend Silverwing Hold. Push back the invading Horde forces!NEW_LINENEW_LINEDo this, and earn a talisman of merit.  Bring me such a talisman, YOUR_NAME, and I shall reward you.",    ["Objectives"]="Enter Warsong Gulch and defeat the Horde, obtain a Warsong Gulch Mark of Honor, and return to Sentinel Farsong at the Silverwing Grove.",    ["Progress"]="Have you fought in Warsong Gulch and defended Silverwing Hold?",    ["Completion"]="You have proven your value to our efforts in Warsong Gulch. Continue to aid the cause and bring me more Marks of Honor. Do this, and you will earn even more of our trust.",    ["minlevel"]="40",    ["questlevel"]="49"},
-
-	["8277"] = {    ["Title"]="Deadly Desert Venom",    ["Description"]="Beetix Ficklespragg at your service!  My cousin Noggle makes a living gathering rare herbs for Cenarion Hold alchemists.  Or used to, anyway.  He came back from his last trip with a strong poison running though his veins.NEW_LINENEW_LINEI've managed to slow down the venom, but to fully neutralize it I need poison samples from whatever stung him.NEW_LINENEW_LINENoggle arrived from the north, so I'd bet my shirt stonelash scorpids or sand skitterers did it.  Bring me some stingers and fangs and I'll try to make an antidote for him.",    ["Objectives"]="Beetix Ficklespragg at Cenarion Hold in Silithus wants you to gather 8 Stonelash Scorpid Stingers and 8 Sand Skitterer Fangs. Return to her when you have completed the task.",    ["Progress"]="Are you done collecting those samples?  We could lose Noggle any minute now!",    ["Completion"]="Cross your fingers, friend!  Here's to hoping we can save Noggle!",    ["minlevel"]="54",    ["questlevel"]="55"},
-
-	["8278"] = {    ["Title"]="Noggle's Last Hope",    ["Description"]="Blasted!  The antidote didn't work.  Noggle must've been stung by one of the stronger creatures in the far south.NEW_LINENEW_LINEI'm going to need you to go there and get me some more samples, YOUR_NAME.  The good news is that since their poison is stronger I won't require as many.  The bad news is that there are more kinds of poisonous creatures crawling around the southern area so you'll have to draw from more sources.",    ["Objectives"]="Beetix Ficklespragg at Cenarion Hold in Silithus wants you to gather 3 Stonelash Pincer Stingers, 3 Stonelash Flayer Stingers and 3 Rock Stalker Fangs.",    ["Progress"]="This is our last chance to save Noggle!  Hurry!",    ["Completion"]="Yes!  It seems to be working, Noggle is coming to.  We owe ya big time!",    ["minlevel"]="54",    ["questlevel"]="57"},
-
-	["8279"] = {    ["Title"]="The Twilight Lexicon",    ["Description"]="The Twilight's Hammer are not kind to those that leave their ranks.  They hunt me to this day like I'm some sort of beast!  Needless to say, an enemy of theirs is a friend of mine!NEW_LINENEW_LINETo decipher this Tablet I'll need the book used by their scribes to encode secret messages: the Twilight Lexicon.  It's such an important tool that they keep its three chapters in different locations!  The officers entrusted with the Lexicon are known as Twilight Keepers, look for them at the Twilight's Hammer camps.",    ["Objectives"]="Bring the three chapters of the Twilight Lexicon to Hermit Ortell in Silithus.",    ["Progress"]="Who goes there?  Oh, it's you!  Did you find all the Lexicon chapters yet?",    ["Completion"]="Yes! These are the parts to the book!  Let's get started then, YOUR_NAME.NEW_LINENEW_LINESwap every third word with words from the second chapter... then swap every other word with words from the first chapter...  Wait, did I get that backwards?",    ["minlevel"]="54",    ["questlevel"]="60"},
-
-	["8280"] = {    ["Title"]="Securing the Supply Lines",    ["Description"]="Cenarion Hold is a location of utmost strategic importance.  I'm convinced that while we hold it our victory over the silithid is guaranteed.  Provided our influx supplies can be maintained, that is.NEW_LINENEW_LINEDesert worms have proven to be more of a threat to our supply caravans than even the silithid themselves.  Just this morning, a large shipment of morrowgrain was ravaged by a group of dredge strikers.  I need you to thin their numbers to ensure our supplies aren't jeopardized.",    ["Objectives"]="Windcaller Proudhorn at Cenarion Hold in Silithus wants you to kill 15 Dredge Strikers.",    ["Progress"]="The dredge strikers are a serious threat and must be dealt with quickly!",    ["Completion"]="You have my sincere gratitude.  Your efforts in helping Cenarion Hold have shown true courage.",    ["minlevel"]="54",    ["questlevel"]="55"},
-
-	["8281"] = {    ["Title"]="Stepping Up Security",    ["Description"]="Your performance has been truly exemplary so far, YOUR_NAME.  Our supply lines are not completely safe yet, however.  In the absence of dredge strikers, their larger southern cousins will surely move in to take their place in the north.NEW_LINENEW_LINEYou'll have to kill quite a few dredge crushers to keep them at bay, but we cannot leave the safety of our supply lines to chance.",    ["Objectives"]="Windcaller Proudhorn at Cenarion Hold in Silithus wants you to slay 20 Dredge Crushers.",    ["Progress"]="The dredge crushers are a serious threat and must be dealt with at once!",    ["Completion"]="Excellent!  You've proven to be a valuable ally in preparing for the war against the silithid.",    ["minlevel"]="54",    ["questlevel"]="57"},
-
-	["8282"] = {    ["Title"]="Noggle's Lost Satchel",    ["Description"]="Where am I?  Where's my bag? *gasp* I must've lost it while fleeing from Deathclasp, the giant scorpid.  In my rush to escape I walked right into a nest of stonelash flayers.NEW_LINENEW_LINEThe satchel I was carrying had all sorts of rare reagents in it.  Without them, me and Beetix won't be able to make the potions that Cenarion Hold needs.  I'm too weak to get up yet, but I can make it worth your while if you bring back my reagents.NEW_LINENEW_LINEI ran into Deathclasp in the southern mountain range, behind Bronzebeard's camp.",    ["Objectives"]="Retrieve Noggle's Satchel from the mountains in the south of Silithus and return it to him at Cenarion Hold.",    ["Progress"]="Still haven't found my bag?  Well I should count my lucky stars, at least the poison's been cleansed.",    ["Completion"]="Yes!  You brought my satchel back.  And my rare reagents are all here!  I'll be in your debt for a long time.",    ["minlevel"]="54",    ["questlevel"]="58"},
-
-	["8283"] = {    ["Title"]="Wanted - Deathclasp, Terror of the Sands",    ["Description"]="The terrible scorpid, Deathclasp, is believed to have retreated to the southern mountain range in the presence of increased silithid activity.  She presents a great threat to patrols and expeditions in the southern regions.  Individuals participating in her destruction will be remunerated handsomely.  Inquire with Captain Vish Kozus, at the top of the Cenarion Hold Watchtower, regarding a reward.",    ["Objectives"]="Bring Deathclasp's Pincer to Vish Kozus, Captain of the Guard.",    ["Progress"]="I'll need the creature's pincer as proof of the deed. No pincer, no reward.",    ["Completion"]="Excellent! With Deathclasp gone we're free to use the southern mountain range as a strategic path to circumvent the silithid hives. Your work is greatly appreciated.",    ["minlevel"]="54",    ["questlevel"]="59"},
-
-	["8284"] = {    ["Title"]="The Twilight Mystery",    ["Description"]="A camp of Twilight's Hammer cultists once thrived northwest of here.  If you were to venture there now, you'd find the area swarming with elementals and nothing but scattered pieces of wood and canvas to mark the spot where the camp was.NEW_LINENEW_LINEI've recovered a few fragments of a clay tablet from the site, but I have too few of them to piece together anything useful.  See if you can find the remaining tablet fragments so we can shed some light into the Twilight's Hammer presence here in Silithus.",    ["Objectives"]="Geologist Larksbane at Cenarion Hold in Silithus wants you to collect 8 Twilight Tablet Fragments.",    ["Progress"]="The ravaged camp can be found northwest of here.  Come back when you have all the fragments.",    ["Completion"]="Just as I suspected.  I can decipher individual words in the tablets but they appear to be devoid of any logic or meaning.  It's not unknown for Twilight's Hammer sects to use a code to hide the meaning of their texts; we'll have to go to someone who knows more about this sort of thing.",    ["minlevel"]="54",    ["questlevel"]="58"},
-
-	["8285"] = {    ["Title"]="The Deserter",    ["Description"]="There are rumors of a Twilight's Hammer member called Ortell having deserted his sect.  Word has it he hid in the mountains south of Southwind Village, where he lives as a hermit.  Perhaps you can enlist his help in deciphering the tablet.NEW_LINENEW_LINETake the restored tablet with you and seek out Ortell.",    ["Objectives"]="Take the restored tablet to Hermit Ortell in Silithus.",    ["Progress"]="You!  How did you find me?  Who are you?  You weren't followed, were you?  Speak!",    ["Completion"]="I see you're familiar with my old organization.  You must be with Cenarion Hold.NEW_LINENEW_LINEYou seek information to use against them?  Come closer, perhaps we can be of mutual assistance.",    ["minlevel"]="54",    ["questlevel"]="59"},
-
-	["8286"] = {    ["Title"]="What Tomorrow Brings",    ["Description"]="The embrace of death had all but overcome my being when he intervened. He breathed only once upon my maimed body and then waited patiently for the sands of time to cleanse my wounds.NEW_LINENEW_LINE\"Forever you will remain if you must,\" he said, and with those words I was bound as a Watcher.NEW_LINENEW_LINELook now to the desert. The second war is upon us. You must seek out the resting place of the Bronze. Venture to the Caverns of Time and see if the master has returned. I must be sure before I am able to proceed.",    ["Objectives"]="Venture to the Caverns of Time in Tanaris and find Anachronos, Brood of Nozdormu.",    ["Progress"]="Has Anachronos returned?",    ["Completion"]="It is as it should be - the great one has risen. My watch comes to an end...",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8287"] = {    ["Title"]="A Terrible Purpose",    ["Description"]="Ok, here we are... a pretty valuable chunk of information, I must say!  I've seen the Cenarion Circle forces arrive at Silithus.  They plan to drive the Twilight's Hammer out, don't they?  This will help.  NEW_LINENEW_LINETake this parchment to their leader, Commander Mar'alith.  Soon the Twilight's Hammer will be vanquished and I will be outside their grasp for good!",    ["Objectives"]="Take the Decoded Tablet Parchment to Commander Mar'alith.",    ["Progress"]="What is this you bring to me, YOUR_NAME?",    ["Completion"]="This is very interesting information indeed, YOUR_NAME.  This sheds some light on the presence of the Twilight's Hammer in Silithus and will undoubtedly help us in our struggle against them.  Your efforts will be handsomely rewarded, $C.",    ["minlevel"]="54",    ["questlevel"]="60"},
-
-	["8288"] = {    ["Title"]="Only One May Rise",    ["Description"]="There is no time to waste! A hero must be found! The task I give will require an army to complete but only one may rise from the throng of would be champions to take on the burden and responsibility of an ally of the Brood.NEW_LINENEW_LINEWithin the lair of the Lord of Blackrock is a most cruel beast. The Broodlord Lashlayer guards the Halls of Strife, blocking the way into Nefarian's inner sanctum. Slay the foul aberration and return his head to me. Do this and you may begin the next step of your journey.",    ["Objectives"]="Return the Head of the Broodlord Lashlayer to Baristolth of the Shifting Sands at Cenarion Hold in Silithus.",    ["Progress"]="It is the favor of the Brood of Nozdormu that you must earn.",    ["Completion"]="Could you be the first to earn favor among the Bronze Flight IN a thousand years?",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["7871"] = {    ["Title"]="Vanquish the Invaders!",    ["Description"]="Beyond this tunnel you will find a field of strife and turmoil, young $c. The Horde continue to decimate our sacred forest, cutting down the evergreen foliage to power their machines of war.NEW_LINENEW_LINEEnter Warsong Gulch and defend Silverwing Hold. Push back the invading Horde forces!NEW_LINENEW_LINEDo this, and earn a talisman of merit.  Bring me such a talisman, YOUR_NAME, and I shall reward you.",    ["Objectives"]="Enter Warsong Gulch and defeat the Horde, obtain a Warsong Gulch Mark of Honor, and return to Sentinel Farsong at the Silverwing Grove.",    ["Progress"]="Have you fought in Warsong Gulch and defended Silverwing Hold?",    ["Completion"]="You have proven your value to our efforts in Warsong Gulch. Continue to aid the cause and bring me more Marks of Honor. Do this, and you will earn even more of our trust.",    ["minlevel"]="30",    ["questlevel"]="39"},
-
-	["7789"] = {    ["Title"]="Quell the Silverwing Usurpers",    ["Description"]="The wilds of the Ashenvale forest will succumb to the might of the Horde, YOUR_RACE. Nothing the Silverwing say or do can stop our sovereign imperative. Kalimdor belongs to the Horde. How dare they attempt to prevent us from harvesting what is rightfully ours!NEW_LINENEW_LINELet the pride swell in your chest as you cut down their weak attempts at slowing our progress. Destroy the Silverwing Sentinels, and earn a Warsong mark of honor.  Return to me with such a mark, YOUR_NAME, and you will be rewarded.NEW_LINE",    ["Objectives"]="Enter Warsong Gulch and defeat the Alliance, gain a Warsong Gulch Mark of Honor, and bring it to Captain Shatterskull at the Mor'shan Base Camp.",    ["Progress"]="The blood of our enemies is a mark of honor. Do you have such a mark?",    ["Completion"]="<Captain Shatterskull roars in triumph>NEW_LINENEW_LINEHow much more can they withstand? How many more Alliance filth must perish at the hands of the Horde for them to retreat? Only time will tell, YOUR_RACE...",    ["minlevel"]="20",    ["questlevel"]="29"},
-
-	["7788"] = {    ["Title"]="Vanquish the Invaders!",    ["Description"]="Beyond this tunnel you will find a field of strife and turmoil, young $c. The Horde continue to decimate our sacred forest, cutting down the evergreen foliage to power their machines of war.NEW_LINENEW_LINEEnter Warsong Gulch and defend Silverwing Hold. Push back the invading Horde forces!NEW_LINENEW_LINEDo this, and earn a talisman of merit.  Bring me such a talisman, YOUR_NAME, and I shall reward you.",    ["Objectives"]="Enter Warsong Gulch and defeat the Horde, obtain a Warsong Gulch Mark of Honor, and return to Sentinel Farsong at the Silverwing Grove.",    ["Progress"]="Have you fought in Warsong Gulch and defended Silverwing Hold?",    ["Completion"]="You have proven your value to our efforts in Warsong Gulch. Continue to aid the cause and bring me more Marks of Honor. Do this, and you will earn even more of our trust.",    ["minlevel"]="20",    ["questlevel"]="29"},
-
-	["8301"] = {    ["Title"]="The Path of the Righteous",    ["Description"]="The Brood of Nozdormu are naturally distrusting of the lesser races. While it is true that you have proven to me that you have the potential makings of a hero, the time has come to prove this to my master.NEW_LINENEW_LINEHive'Ashi, Hive'Zora, Hive'Regal: All swarming with activity and all a threat to our existence. Slay silithid at these hives and take from them a fragment of their carapace. When you can carry no more, return to me and I shall strengthen your resolve.",    ["Objectives"]="Collect 200 Silithid Carapace Fragments and return to Baristolth.",    ["Progress"]="There is much history rooted in their distrust of the mortal races; but alas, such is a tale better left for the Brood to tell when the time is right.",    ["Completion"]="You are not alone, hero. I will now grant you the ability to deputize others to help you in your quest. If you are to be the champion of your people, you will need assistance in your tasks and duties.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8302"] = {    ["Title"]="The Hand of the Righteous",    ["Description"]="Choose your deputies wisely, mortal. Each time you return with your task complete, a new deputy you will be allowed to choose.NEW_LINENEW_LINEWith that said, I require more of the carapace fragments. Waste no time!",    ["Objectives"]="Collect 200 Silithid Carapace Fragments and return to Baristolth.",    ["Progress"]="Perhaps one day the whole of Cenarion Hold will be working under your command.",    ["Completion"]="Well done, hero. You will now be granted the ability to deputize another Agent of Nozdormu.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8303"] = {    ["Title"]="Anachronos",    ["Description"]="It is time, YOUR_NAME.NEW_LINENEW_LINEI must apologize for keeping so much in secret. Enemies abound, even under our very noses. Please, read from this tome and learn. Take the knowledge I give to you and seek out our master.",    ["Objectives"]="Seek out Anachronos at the Caverns of Time in Tanaris.",    ["Progress"]="",    ["Completion"]="You are the hope of Kalimdor, YOUR_NAME.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8304"] = {    ["Title"]="Dearest Natalia",    ["Description"]="My dear Natalia has gone missing.NEW_LINENEW_LINETruth be told, she had been acting strangely for weeks leading up to her disappearance. I had caught her talking to herself when no one was around on more than one occasion. She was adamant that everything was ok and that she must be allowed to continue her research.NEW_LINENEW_LINEShe was last seen heading to Bronzebeard's camp to the south.NEW_LINENEW_LINEMy soldiers are spread too thin, YOUR_NAME. I need you to go to Bronzebeard's camp and question those dwarves.",    ["Objectives"]="Commander Mar'alith at Cenarion Hold in Silithus wants you to question the inhabitants of Bronzebeard's Encampment. You will find Bronzebeard's Encampment south of Cenarion Hold.NEW_LINENEW_LINEOnce you have gathered the requested information, return to Commander Mar'alith.",    ["Progress"]="Waste no time, YOUR_NAME!",    ["Completion"]="<Commander Mar'alith lowers his head in contemplation.>NEW_LINENEW_LINEWhether she is alive or dead, I must do what is right. She must be found. Alas, I am bound by duty to this outpost. Will you help me once more, YOUR_NAME?",    ["minlevel"]="58",    ["questlevel"]="60"},
-
-	["8305"] = {    ["Title"]="Long Forgotten Memories",    ["Description"]="In the southern desert of Silithus, near the sacred barrier, exists a single crystalline tear. This tear serves as a symbol of the great losses beset upon us during the War of the Shifting Sands. Locate this tear and gaze into its depths to gain enlightenment.",    ["Objectives"]="Locate the Crystalline Tear in Silithus and gaze into its depths.",    ["Progress"]="",    ["Completion"]="You can feel a great sorrow revolving around this crystal. The force is so powerful that you feel as if you might collapse and die of sadness.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8306"] = {    ["Title"]="Into The Maw of Madness",    ["Description"]="I need you to venture into Hive'Regal and find what became of my dearest Natalia, YOUR_NAME. This will be no easy task for you. Before you dive headlong into the maw of madness, make sure that you go back and speak with those dwarves. They might be able to give you some tips on dealing with the silithid that inhabit that hive.NEW_LINENEW_LINEAnd YOUR_NAME, if she truly is as mad as they say... do what you must.NEW_LINENEW_LINE<Commander Mar'alith turns away from you.>",    ["Objectives"]="Commander Mar'alith at Cenarion Hold in Silithus wants you to find his beloved Natalia. The information that you gathered points to Hive'Regal in the south as being the area in which you may find Mistress Natalia Mar'alith.NEW_LINENEW_LINEDo not forget to visit the dwarves at Bronzebeard's camp before venturing into the hive. They might have some additional work and advice for you.NEW_LINENEW_LINEAnd YOUR_NAME, remember the Commander's words: \"Do what you must...\"",    ["Progress"]="Natalia?",    ["Completion"]="<Commander Mar'alith clutches at his chest.>NEW_LINENEW_LINEC'Thun? WHAT is the meaning of all this? What is C'Thun? How could this fiend have turned my sweet Natalia into the monster that you described?",    ["minlevel"]="58",    ["questlevel"]="60"},
+    
 
 	["8307"] = {    ["Title"]="Desert Recipe",    ["Description"]="Adapting to life in the desert has been difficult to say the least.  Not only do I miss the birds and trees of Auberdine but our food selection is severely limited by this arid environment.  I'm trying to learn about desert herbs, but there aren't many.NEW_LINENEW_LINEI've seen Twilight's Hammer groups from the camp west of here hunt sandworms for food.  Sandworm meat is so bitter though, I can't imagine how they make it palatable.  Keep your eyes open if you go to their camp and let me know if you learn anything.",    ["Objectives"]="Look for information about cooking Sandworm Meat at the Twilight's Hammer camp west of Cenarion Hold.",    ["Progress"]="",    ["Completion"]="This book contains several common recipes and a few unusual ones. After browsing through it for a few seconds you spot a recipe that involves sandworm meat.",    ["minlevel"]="54",    ["questlevel"]="57"},
 
