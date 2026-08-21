@@ -19881,7 +19881,7 @@ QuestTranslator_QuestData = {
     ["7627"] = {
     ["Title"]="Kara Yürüyüş Çarkı",
     ["Description"]="Bir Kara Yürüyüş Çarkı, Büyük Çağırma Çemberi için gereken şiddetli enerjileri içerir ve yönlendirir. Gozeeki'nin bir çark inşa edebilmesi için hem bir büyücüden büyük parlak parçalara hem de usta bir madenciden kara demir cevherine ihtiyacı olacaktır.NEW_LINENEW_LINEBunları al ve hizmetkârıma getir.",
-    ["Objectives"]="Yanan Bozkırlardaki Gorzeeki'ye 6 Büyük Parlak Parça ve 25 Koyu Demir Cevheri getirin.",
+    ["Objectives"]="Yanan Bozkırlardaki Gorzeeki'ye 6 Büyük Parlak Parça ve 25 kara demir Cevheri getirin.",
     ["Progress"]="Kara Yürüyüş Çarkı'nı yapmak kolay değildir ve çok fazla malzeme gerektirir. Onları topladınız mı?",
     ["Completion"]="İşte buradalar! Kara demir cevherinin sadece Karakaya(Blackrock)'un derinliklerinde bulunduğunu duydum ve eminim bu parçaları bulmak da kolay olmamıştır. Siz büyücülerin adanmışlığı karşısında sık sık hayrete düşüyorum. Bunun yerine tüm bu enerjiyi böcek yakalama sanatına harcasaydınız, ah... nasıl bir ziyafetin tadını çıkarırdınız!NEW_LINENEW_LINEÖzür dilerim, küçük bir konu sapması. Çarkı yaratacağım ve ritüeliniz için hazır olana kadar sizin için saklayacağım.",
     ["minlevel"]="0",
@@ -62486,10 +62486,10 @@ QuestTranslator_QuestData = {
     -- Ragnaros -> Ragnaros (MobNpcData.lua)
     -- Depths -> Derinlikler
     ["6642"] = {
-    ["Title"]="Kardeşlik Nezdinde İtibar, Koyu Demir Cevheri",
+    ["Title"]="Kardeşlik Nezdinde İtibar, kara demir Cevheri",
     ["Description"]="",
     ["Objectives"]="",
-    ["Progress"]="Koyu Demir, Derinlikler'de bol miktarda bulunsa da Kardeşlik nezdinde hâlâ değerli bir emtiadır. Ragnaros'un kutsal silahları ve zırhları Koyu Demir'i tercih eder.\n\nSunacağın her 10 parça Koyu Demir Cevheri için Kardeşlik nezdinde itibar kazanacaksın.",
+    ["Progress"]="kara demir, Derinlikler'de bol miktarda bulunsa da Kardeşlik nezdinde hâlâ değerli bir emtiadır. Ragnaros'un kutsal silahları ve zırhları kara demir'i tercih eder.\n\nSunacağın her 10 parça kara demir Cevheri için Kardeşlik nezdinde itibar kazanacaksın.",
     ["Completion"]="Sunun kabul edildi. İtibar kazandın. Devam et, kadim zanaatlara erişimine izin verilecektir.",
     ["minlevel"]="60",
     ["questlevel"]="60",
@@ -63394,12 +63394,12 @@ QuestTranslator_QuestData = {
 
     -- The Last Element
     -- Vivian Lagrave -> Vivian Lagrave (MobNpcData.lua)
-    -- Dark Iron -> Koyu Demir
+    -- Dark Iron -> kara demir
     -- Blackrock Depths -> Karakaya Derinlikleri (ZoneData.lua)
     -- Undercity -> Mahzenşehir (ZoneData.lua)
     ["7201"] = {
     ["Title"]="Son Element",
-    ["Description"]="Derinliklere cesaret edenler için yapılacak işler var, YOUR_NAME.\n\nKoyu Demirler aşırı güçlü golem yaratma sanatında ustalaştılar.\n\nAjanlarımızdan gelen ilk raporlar, cücelerin kreasyonlarına kıyaslanamaz bir öldürme gücü vermek için benzersiz bir güç kaynağı kullandıklarını gösteriyor.\n\nElementlerin bu özünü elime geçirebilseydik, tiksinçliklerimizle neler yapabileceğimizi bir düşün! Gerekiyorsa o şehri altüst et ama özü bulana kadar dönme! Ödeme riske değecektir.",
+    ["Description"]="Derinliklere cesaret edenler için yapılacak işler var, YOUR_NAME.\n\nkara demirler aşırı güçlü golem yaratma sanatında ustalaştılar.\n\nAjanlarımızdan gelen ilk raporlar, cücelerin kreasyonlarına kıyaslanamaz bir öldürme gücü vermek için benzersiz bir güç kaynağı kullandıklarını gösteriyor.\n\nElementlerin bu özünü elime geçirebilseydik, tiksinçliklerimizle neler yapabileceğimizi bir düşün! Gerekiyorsa o şehri altüst et ama özü bulana kadar dönme! Ödeme riske değecektir.",
     ["Objectives"]="Karakaya Derinlikleri'ne seyahat et ve 10 Element Özü elde et. İlk eğilimin golemleri ve golem yapıcılarını aramak olacaktır. Vivian Lagrave'in elementeller hakkında bir şeyler mırıldandığını da hatırlıyorsun.",
     ["Progress"]="Onları bana göster!",
     ["Completion"]="Harika! Bunların derhal kuryeyle Mahzenşehir'e gönderilmesini sağlayacağım!\n\nSana gelince - işte söz verildiği gibi ödemen. Üstü kalsın, seni kirli yaratık!",
@@ -64357,14 +64357,14 @@ QuestTranslator_QuestData = {
     -- Overseer Maltorius -> Gözetmen Maltorius (MobNpcData.lua)
     -- Lookout Captain Lolo Longstriker -> Gözcü Kaptanı Lolo Uzunvuran (MobNpcData.lua)
     -- Thorium Brotherhood -> Torium Kardeşliği
-    -- Dark Iron -> Koyu Demir
+    -- Dark Iron -> kara demir
     -- Slag Pit -> Cüruf Çukuru
     -- Cauldron -> Kazan
     -- Searing Gorge -> Kavurucu Yarak (ZoneData.lua)
     ["7701"] = {
     ["Title"]="ARANIYOR: Gözetmen Maltorius",
-    ["Description"]="Ekselansları Gözetmen Yağyumruk'un emriyle, haydut Torium Kardeşliği ajanı ve Kazan'ın Koyu Demir Cüruf Çukuru ekibinin yeni işe alınan komutanı Gözetmen Maltorius öldürülecek ve kafası yapılan eylemin kanıtı olarak geri getirilecektir.\n\nBu ödül için Gözcü Kaptanı Lolo Uzunvuran'a başvurun.",
-    ["Objectives"]="Kavurucu Yarak'taki Kazan'ın Cüruf Çukuru'nun derinliklerinde Gözetmen Maltorius adındaki hain Koyu Demir cücesini bulacaksın.\n\nGözetmen Maltorius'u katlet ve kafasını al. Ödülün için kafayı Kavurucu Yarak'taki Gözcü Kaptanı Lolo Uzunvuran'a geri götür.",
+    ["Description"]="Ekselansları Gözetmen Yağyumruk'un emriyle, haydut Torium Kardeşliği ajanı ve Kazan'ın kara demir Cüruf Çukuru ekibinin yeni işe alınan komutanı Gözetmen Maltorius öldürülecek ve kafası yapılan eylemin kanıtı olarak geri getirilecektir.\n\nBu ödül için Gözcü Kaptanı Lolo Uzunvuran'a başvurun.",
+    ["Objectives"]="Kavurucu Yarak'taki Kazan'ın Cüruf Çukuru'nun derinliklerinde Gözetmen Maltorius adındaki hain kara demir cücesini bulacaksın.\n\nGözetmen Maltorius'u katlet ve kafasını al. Ödülün için kafayı Kavurucu Yarak'taki Gözcü Kaptanı Lolo Uzunvuran'a geri götür.",
     ["Progress"]="Meşgul olduğumu görmüyor musun? Ne *hık* istiyorsun? *hık*",
     ["Completion"]="Bu çirkin surata tekrar bakacağımı hiç düşünmezdim!\n\nGeri kalanı takılı olmadan aslında daha iyi görünüyor.\n\nİşte ödülün *hık*, YOUR_RACE.",
     ["minlevel"]="45",
@@ -64406,13 +64406,13 @@ QuestTranslator_QuestData = {
     -- What the Flux?
     -- Maltorius -> Maltorius (MobNpcData.lua)
     -- Master Smith Burninate -> Usta Demirci Yakıcı (MobNpcData.lua)
-    -- Dark Irons -> Koyu Demirler
+    -- Dark Irons -> kara demirler
     -- Slag Pit -> Cüruf Çukuru
     -- Cauldron -> Kazan
     -- Searing Gorge -> Kavurucu Yarak (ZoneData.lua)
     ["7722"] = {
     ["Title"]="Hangi Akı?",
-    ["Description"]="O pislik, Maltorius klanımızdan ayrıldığında el değmemiş bir arkan kristalinden daha değerli bir şeyle ayrıldı: Ateşli akı tarifimiz! Tarifin Koyu Demirler arasındaki yeni terfi anlaşmasının bir parçası olduğuna dair her şey üzerine bahse girerim.\n\nGizli planlarımızı geri almanı istiyorum, YOUR_NAME. Cüruf Çukuru'nun derinliklerinde, Maltorius'un yakınlarında bir yerlerde olduklarından eminim.",
+    ["Description"]="O pislik, Maltorius klanımızdan ayrıldığında el değmemiş bir arkan kristalinden daha değerli bir şeyle ayrıldı: Ateşli akı tarifimiz! Tarifin kara demirler arasındaki yeni terfi anlaşmasının bir parçası olduğuna dair her şey üzerine bahse girerim.\n\nGizli planlarımızı geri almanı istiyorum, YOUR_NAME. Cüruf Çukuru'nun derinliklerinde, Maltorius'un yakınlarında bir yerlerde olduklarından eminim.",
     ["Objectives"]="Kazan'ın Cüruf Çukuru'nda bir yerde Gözetmen Maltorius'un çaldığı Gizli Planlar: Ateşli Akı'yı bulacaksın. O planları bul ve Kavurucu Yarak'taki Usta Demirci Yakıcı'ya geri getir.",
     ["Progress"]="Planları buldun mu?",
     ["Completion"]="Umarım sen de onun dişlerini tekmelemişsindir, YOUR_NAME. Ragnaros bilir ki bunu hak etti.\n\nŞimdi işimize bakabiliriz.",
@@ -64501,14 +64501,14 @@ QuestTranslator_QuestData = {
     ["questlevel"]="49",
     }, -- end Incendosaurs? Whateverosaur is More Like It
     -- STOLEN: Smithing Tuyere and Lookout's Spyglass
-    -- Dark Iron -> Koyu Demir
+    -- Dark Iron -> kara demir
     -- Searing Gorge -> Kavurucu Yarak (ZoneData.lua)
     -- Thorium Brotherhood -> Torium Kardeşliği
     -- Scrange -> Scrange (MobNpcData.lua)
     ["7728"] = {
     ["Title"]="ÇALINDI: Demirci Üfleci ve Gözcü Dürbünü",
-    ["Description"]="Aşağıdaki eşyalar çalındı:\n\n*Bir adet Koyu Demir Üfleç.\n*Bir adet Gözcü Dürbünü.\n\nBu çalınmış eşyaları bulup geri getiren şahıslara ödül verilecektir.\n\nTorium Kardeşliği, bu eşyaların Kavurucu Yarak'ta yaşayan vicdansız ve kıskanç Koyu Demir cüceleri tarafından çalındığından emindir.\n\nSöz konusu dürbün gözcüler için mükemmel bir araçtı ve üfleç ise yeri doldurulamaz bir demircilik aracıydı.\n\nKayıp eşyaları bulursan, onları Scrange'e geri getir.",
-    ["Objectives"]="Demirci Üfleci'ni ve Gözcü Dürbünü'nü bul ve Kavurucu Yarak'taki İşustası Scrange'e geri getir.\n\nBu eşyalar hakkında sahip olduğun tek bilgi şudur: Kesinlikle Koyu Demir cüceleri tarafından çalınmışlar. Demirci Üfleci demirciler tarafından kullanılan bir demircilik aracıdır ve Gözcü Dürbünü gözcüler için paha biçilmez bir izleme aracıdır.",
+    ["Description"]="Aşağıdaki eşyalar çalındı:\n\n*Bir adet kara demir Üfleç.\n*Bir adet Gözcü Dürbünü.\n\nBu çalınmış eşyaları bulup geri getiren şahıslara ödül verilecektir.\n\nTorium Kardeşliği, bu eşyaların Kavurucu Yarak'ta yaşayan vicdansız ve kıskanç kara demir cüceleri tarafından çalındığından emindir.\n\nSöz konusu dürbün gözcüler için mükemmel bir araçtı ve üfleç ise yeri doldurulamaz bir demircilik aracıydı.\n\nKayıp eşyaları bulursan, onları Scrange'e geri getir.",
+    ["Objectives"]="Demirci Üfleci'ni ve Gözcü Dürbünü'nü bul ve Kavurucu Yarak'taki İşustası Scrange'e geri getir.\n\nBu eşyalar hakkında sahip olduğun tek bilgi şudur: Kesinlikle kara demir cüceleri tarafından çalınmışlar. Demirci Üfleci demirciler tarafından kullanılan bir demircilik aracıdır ve Gözcü Dürbünü gözcüler için paha biçilmez bir izleme aracıdır.",
     ["Progress"]="Ödül için geldiysen, çalıntı malları bana vermelisin.",
     ["Completion"]="Harika iş! Şimdi ödülün için.",
     ["minlevel"]="45",
@@ -64518,12 +64518,12 @@ QuestTranslator_QuestData = {
     -- JOB OPPORTUNITY: Culling the Competition
     -- Taskmaster Scrange -> İşustası Scrange (MobNpcData.lua)
     -- Searing Gorge -> Kavurucu Yarak (ZoneData.lua)
-    -- Dark Iron Taskmaster -> Koyu Demir İşustası
-    -- Dark Iron Slaver -> Koyu Demir Köleci
+    -- Dark Iron Taskmaster -> kara demir İşustası
+    -- Dark Iron Slaver -> kara demir Köleci
     ["7729"] = {
     ["Title"]="İŞ FIRSATI: Rekabeti Ayıklamak",
-    ["Description"]="İşustası Scrange, Kavurucu Yarak'taki 'rekabeti ayıklamaya' yardımcı olacak birkaç iyi adam ve kadın arıyor.\n\nBu pozisyonla ilgileniyorsan, Kavurucu Yarak'a git ve gördüğün her Koyu Demir İşustası'nı ve Koyu Demir Köleci'yi katlet.\n\nKıyafetlerin yeterince kanlandığında İşustası Scrange'e geri dön.\n\nYeterince kanlandığında anlayacaksın, o yüzden sorma.",
-    ["Objectives"]="15 Koyu Demir İşustası ve 15 Koyu Demir Köleci katlet. Bu görevi başardıktan sonra Kavurucu Yarak'taki İşustası Scrange'e geri dön.",
+    ["Description"]="İşustası Scrange, Kavurucu Yarak'taki 'rekabeti ayıklamaya' yardımcı olacak birkaç iyi adam ve kadın arıyor.\n\nBu pozisyonla ilgileniyorsan, Kavurucu Yarak'a git ve gördüğün her kara demir İşustası'nı ve kara demir Köleci'yi katlet.\n\nKıyafetlerin yeterince kanlandığında İşustası Scrange'e geri dön.\n\nYeterince kanlandığında anlayacaksın, o yüzden sorma.",
+    ["Objectives"]="15 kara demir İşustası ve 15 kara demir Köleci katlet. Bu görevi başardıktan sonra Kavurucu Yarak'taki İşustası Scrange'e geri dön.",
     ["Progress"]="Emin olmak için seni kıyafetli ve kıyafetsiz tartmamız gerekecek.",
     ["Completion"]="15.9 pound! Kıyafet üzerindeki kan ve bağırsak ağırlığı için bu yeni bir rekor olabilir! Tebrikler, YOUR_CLASS!",
     ["minlevel"]="45",
@@ -64625,7 +64625,7 @@ QuestTranslator_QuestData = {
     ["Title"]="Kabul Görmek",
     ["Description"]="",
     ["Objectives"]="",
-    ["Progress"]="Kardeşliğin kurumsal hiyerarşisinde yukarı doğru çalıştın, YOUR_RACE. Sana olumlu bakmaya başladık. Oldukça büyük bir başarı!\n\nEğer daha fazla çalışmak ve aramızda daha fazla saygı kazanmakla ilgileniyorsan, kulak ver.\n\nAteşli akıyı karışıma basit bir Koyu Demir kalıntısı ekleyerek rafine edebiliriz. Koyu Demir kalıntısı Karakaya Derinlikleri'nde bulunabilir.",
+    ["Progress"]="Kardeşliğin kurumsal hiyerarşisinde yukarı doğru çalıştın, YOUR_RACE. Sana olumlu bakmaya başladık. Oldukça büyük bir başarı!\n\nEğer daha fazla çalışmak ve aramızda daha fazla saygı kazanmakla ilgileniyorsan, kulak ver.\n\nAteşli akıyı karışıma basit bir kara demir kalıntısı ekleyerek rafine edebiliriz. kara demir kalıntısı Karakaya Derinlikleri'nde bulunabilir.",
     ["Completion"]="Kalıntı akmaya devam etsin!",
     ["minlevel"]="45",
     ["questlevel"]="60",
@@ -71792,8 +71792,8 @@ QuestTranslator_QuestData = {
 
 ["9131"] = {
     ["Title"]="Dreadnaught'u Bağlamak",
-    ["Description"]="Hiç Dreadnaught zırhı gördün mü $c? Hayır, tabii ki görmedin. Sen hâlâ bir $goğlan:kız; - bir yumurcaksın. Sana söyleyeyim, o muhteşemdir.NEW_LINENEW_LMuhtemelen kendine tüm bunların seninle ne ilgisi olduğunu soruyorsun, değil mi? Sana ne diyeceğim çömez; Koyu Demir hurdalarına ihtiyacım var ve olabildiğince çoğuna sahip olmak için ödeme yapmaya hazırım.NEW_LINENEW_LŞampiyonlarımız için Dreadnaught takımları oluşturmak üzere hurdalara ihtiyacım var. Bana hurdaları getir ve ödemeni al.",
-    ["Objectives"]="Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Korfax 30 Koyu Demir Hurdası istiyor.",
+    ["Description"]="Hiç Dreadnaught zırhı gördün mü $c? Hayır, tabii ki görmedin. Sen hâlâ bir $goğlan:kız; - bir yumurcaksın. Sana söyleyeyim, o muhteşemdir.NEW_LINENEW_LMuhtemelen kendine tüm bunların seninle ne ilgisi olduğunu soruyorsun, değil mi? Sana ne diyeceğim çömez; kara demir hurdalarına ihtiyacım var ve olabildiğince çoğuna sahip olmak için ödeme yapmaya hazırım.NEW_LINENEW_LŞampiyonlarımız için Dreadnaught takımları oluşturmak üzere hurdalara ihtiyacım var. Bana hurdaları getir ve ödemeni al.",
+    ["Objectives"]="Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Korfax 30 kara demir Hurdası istiyor.",
     ["Progress"]="<Korfax sana hırıldar.>NEW_LINENEW_LNe istiyorsun? Yol mu? Onları sağlayabilirim...",
     ["Completion"]="Şimdilik bu iş görür. Daha fazlasını bulursan beni nerede bulacağını biliyorsun.",
     ["minlevel"]="55",
@@ -71801,7 +71801,7 @@ QuestTranslator_QuestData = {
 },
 
 ["9132"] = {
-    ["Title"]="Koyu Demir Hurdaları",
+    ["Title"]="kara demir Hurdaları",
     ["Description"]="",
     ["Objectives"]="",
     ["Progress"]="Bana getirdiğin her kucak dolusu hurda için sana bir nişan vereceğim - ne kadar çok o kadar iyi. Şimdi seni ikiye bölmeden önce gözümün önünden kaybol!",
@@ -72844,7 +72844,7 @@ QuestTranslator_QuestData = {
     ["Title"]="Jubjub'un Yavrusu",
     ["Description"]="",
     ["Objectives"]="",
-    ["Progress"]="Jubjub'un artık kayıp olmamasına çok sevindim. Koyu Demir birasını o kadar çok seviyor ki biram bittiğinde... daha fazlasını bulmak için kaçtı!NEW_LINENEW_LŞimdi Jubjub geri döndü, alabildiğim kadar çok bira istiyorum! Tekrar kaçmasını istemiyorum!NEW_LINENEW_LHiç Koyu Demir Birası var mı? Varsa, bir maşrapa için Jubjub'un kurbağa yumurtalarından birini seninle takas edeceğim...",
+    ["Progress"]="Jubjub'un artık kayıp olmamasına çok sevindim. kara demir birasını o kadar çok seviyor ki biram bittiğinde... daha fazlasını bulmak için kaçtı!NEW_LINENEW_LŞimdi Jubjub geri döndü, alabildiğim kadar çok bira istiyorum! Tekrar kaçmasını istemiyorum!NEW_LINENEW_LHiç kara demir Birası var mı? Varsa, bir maşrapa için Jubjub'un kurbağa yumurtalarından birini seninle takas edeceğim...",
     ["Completion"]="Teşekkür ederim, YOUR_NAME. İşte yumurtan! Bir süre yumurtadan çıkmaya hazır olmayacak ama çıktığında harika bir evcil hayvanın olacak!",
     ["minlevel"]="1",
     ["questlevel"]="1"
