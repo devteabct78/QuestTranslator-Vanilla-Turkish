@@ -68257,1049 +68257,4859 @@ QuestTranslator_QuestData = {
     ["minlevel"]="1",
     ["questlevel"]="60",
     }, -- end The Alliance Needs Stranglekelp!
+    -- The Alliance Needs More Stranglekelp!
+    -- Stranglekelp -> Boğmasarmaşığı
+    -- Private Draxlegauge -> Er Draxlegauge (MobNpcData.lua)
+    -- Dun Morogh -> Dun Morogh (ZoneData.lua)
+    ["8504"] = {
+    ["Title"]="İttifak'ın Daha Fazla Boğmasarmaşığına İhtiyacı Var!",
+    ["Description"]="Vay selam tekrar... neydi adın? Ah evet, YOUR_NAME! Hala daha fazla boğmasarmaşığına ihtiyacım var mı diye bakmaya geldin, değil mi? Şanslı günündesin, çünkü bu çok önemli sorunun cevabı kocaman bir EVET! Yirmi tane daha toplayabileceğini düşünüyor musun?",
+    ["Objectives"]="Dun Morogh'daki havaalanında bulunan Er Draxlegauge'e 20 boğmasarmaşığı getir.",
+    ["Progress"]="Vay selam tekrar... neydi adın? Ah evet, YOUR_NAME! Hala daha fazla boğmasarmaşığına ihtiyacım var mı diye bakmaya geldin, değil mi? Şanslı günündesin, çünkü bu çok önemli sorunun cevabı kocaman bir EVET! Yirmi tane daha toplayabileceğini düşünüyor musun?",
+    ["Completion"]="Aman Tanrım, orada oldukça iyi boğmasarmaşığı yükün var. Çabuk, taze kalması için onu bir kutuya koyalım. Bu partiyi getirerek bana... bize, İttifak'a büyük bir iyilik yaptın. Boğmasarmaşığı katkınla Ahn'Qiraj savaşında dengeleri değiştirmeye yardım edenin sen, yüce YOUR_NAME olduğunu herkesin bilmesini sağlayacağım!",
+    ["minlevel"]="1",
+    ["questlevel"]="60",
+    }, -- end The Alliance Needs More Stranglekelp!
+
+    -- The Alliance Needs Purple Lotus!
+    -- Purple Lotus -> Mor Nilüfer
+    -- Master Nightsong -> Usta Geceşarkısı (MobNpcData.lua)
+    -- Military Ward -> Askeri Bölge (ZoneData.lua)
+    -- Ironforge -> Demirörs (ZoneData.lua)
+    ["8505"] = {
+    ["Title"]="İttifak'ın Mor Nilüfere İhtiyacı Var!",
+    ["Description"]="$C, mor nilüfer bolca kullanımı olan bir çiçektir. Toplanan otları muhafaza etmek ve savaş çabalarının planladıkları işlevi sürdürebilmesi için yeterli mor nilüfer elde etmesini sağlamak adına bu uygulamalar konusunda yetkili biri olarak İttifak'ın ricası üzerine buradayım.\n\nDünyaya açılmanı ve bu çiçeklerden bazılarıyla bana geri dönmeni istiyorum. Bu yapabileceğin bir şey mi?",
+    ["Objectives"]="Demirörs'teki Askeri Bölge'de bulunan Usta Geceşarkısı'na 20 Mor Nilüfer getir.",
+    ["Progress"]="İstediğim mor nilüfer otları yanında mı?",
+    ["Completion"]="Katkın son derece makbule geçti, $C. Silitidlerin acımasız ilerleyişini ve onları öne süren her türlü gücü ancak herkesin ortak çabalarıyla püskürtebiliriz. Horde bile kendi mor nilüfer koleksiyonunu topluyor. Daha fazlasına rastlarsan lütfen buraya bana geri getir.",
+    ["minlevel"]="1",
+    ["questlevel"]="60",
+    }, -- end The Alliance Needs Purple Lotus!
+
+    -- The Alliance Needs More Purple Lotus!
+    -- Purple Lotus -> Mor Nilüfer
+    -- Master Nightsong -> Usta Geceşarkısı (MobNpcData.lua)
+    -- Dun Morogh -> Dun Morogh (ZoneData.lua)
+    ["8506"] = {
+    ["Title"]="İttifak'ın Daha Fazla Mor Nilüfere İhtiyacı Var!",
+    ["Description"]="Tekrar hoş geldin $c. Koleksiyonumuz büyüyor ama şimdi bile ek mor nilüfere ihtiyacımız var. Bu ottan daha fazla toplamak hala elindeyse, bunu yapmanı ve onları buraya bana getirmeni rica ediyorum.",
+    ["Objectives"]="Dun Morogh'daki havaalanında bulunan Usta Geceşarkısı'na 20 mor nilüfer getir.",
+    ["Progress"]="Tekrar hoş geldin, $C. Koleksiyonumuz büyüyor ama şimdi bile ek mor nilüfere ihtiyacımız var. Bu ottan daha fazla toplamak hala elindeyse, bunu yapmanı ve onları buraya bana getirmeni rica ediyorum.",
+    ["Completion"]="",
+    ["minlevel"]="1",
+    ["questlevel"]="60",
+    }, -- end The Alliance Needs More Purple Lotus!
+
+    -- Field Duty
+    -- Captain Blackanvil -> Yüzbaşı Karaörs (MobNpcData.lua)
+    -- Ironforge Brigade -> Demirörs Tugayı
+    -- Hive'Zora -> Hive'Zora (ZoneData.lua)
+    -- Janela Stouthammer -> Janela Cesurçekiç (MobNpcData.lua)
+    -- Orgrimmar Legion -> Orgrimmar Lejyonu
+    -- Windcaller Kaldon -> Rüzgarçağıran Kaldon (MobNpcData.lua)
+    -- Cenarion Hold -> Cenarion Hisarı (ZoneData.lua)
+    -- Silithus -> Silithus (ZoneData.lua)
+    ["8507"] = {
+    ["Title"]="Saha Görevi",
+    ["Description"]="Selamlar, YOUR_NAME. Seni savaştaki daha karmaşık görevlere atamadan önce saha görevindeki payını yapman gerekecek.\n\nYüzbaşı Karaörs'ün Demirörs Tugayı'nı Hive'Zora'nın dışında bulacaksın.\n\nOna veya teğmeni Janela Cesurçekiç'e rapor ver ve bana geri dön. Senin için daha gelişmiş bir görev hazırlamış olacağım.\n\nAyrıca lütfen bize bir iyilik yap ve Orgrimmar Lejyonu'ndan uzak dur. Karşılıklı düşmanlık nedeniyle iki kuvveti birbirinden iyice ayrı tutmak zorunda kaldık.",
+    ["Objectives"]="Hive'Zora yakınındaki Demirörs Tugayı karakolunda göreve rapor ver. İmzasız Saha Görevi Kağıtları'nı hazırla ve Yüzbaşı Karaörs'ten İmzalı Saha Görevi Kağıtları'nı alıp Silithus'taki Cenarion Hisarı'nda bulunan Rüzgarçağıran Kaldon'a dön.\n\nNot: Demirörs Tugayı'nın bir üyesini iyileştirmek veya ona faydalı büyüler yapmak seni PvP durumuna sokacaktır.",
+    ["Progress"]="Yüzbaşı Karaörs'ün birliğini Hive'Zora'nın dışında konuşlanmış halde bulacaksın. Onu bulamazsan teğmeni Janela Cesurçekiç ile konuş.",
+    ["Completion"]="Çok güzel, YOUR_NAME. Becerilerinden en iyi şekilde yararlanmanı sağlayacak bir dizi görev hazırladım.\n\nSenin ve senin gibilerin devam eden çabalarıyla düşmanımız yakında tek ve kesin olarak yok edilecek!\n\nYeni bir görev bilgilendirmesine ihtiyaç duyarsan Yüzbaşı Karaörs'e dön.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Field Duty
+
+    -- The Alliance Needs Arthas' Tears!
+    -- Arthas' Tears -> Arthas'ın Gözyaşları
+    -- Sergeant Major Germaine -> Başçavuş Germaine (MobNpcData.lua)
+    -- Military Ward -> Askeri Bölge (ZoneData.lua)
+    -- Ironforge -> Demirörs (ZoneData.lua)
+    ["8509"] = {
+    ["Title"]="İttifak'ın Arthas'ın Gözyaşlarına İhtiyacı Var!",
+    ["Description"]="Basit ve net tutacağım, $c. İttifak'ın Ahn'Qiraj savaş çabaları için büyük miktarda Arthas'ın Gözyaşları toplaması gerekiyor. Ne için olduğunu sorma; ben sadece emirleri uyguluyorum. Ama bu otlardan toplayabildiğin kadar toplayıp buraya bana getirmeni istiyorum. Bunu yapmaya istekli misin?",
+    ["Objectives"]="Demirörs'teki Askeri Bölge'de bulunan Başçavuş Germaine'e 20 Arthas'ın Gözyaşları getir.",
+    ["Progress"]="O nedir? Yüksek sesle konuş, $C! İstediğim Arthas'ın Gözyaşları sevkiyatını getirdin mi?",
+    ["Completion"]="İyi iş, $C. Hoş bir şekilde şaşırdığımı söylemeliyim. Uğrayıp yardım teklif eden ama bir daha asla dönmeyen insanların sayısına inanmazsın. Şunları bir sandığa koyup üzerine adını yazayım, sonra bu bitkilerden daha fazlasına ihtiyacım olup olmadığını tekrar konuşabiliriz.",
+    ["minlevel"]="1",
+    ["questlevel"]="60",
+    }, -- end The Alliance Needs Arthas' Tears!
+
+    -- The Alliance Needs More Arthas' Tears!
+    -- Arthas' Tears -> Arthas'ın Gözyaşları
+    -- Sergeant Major Germaine -> Başçavuş Germaine (MobNpcData.lua)
+    -- Dun Morogh -> Dun Morogh (ZoneData.lua)
+    ["8510"] = {
+    ["Title"]="İttifak'ın Daha Fazla Arthas'ın Gözyaşlarına İhtiyacı Var!",
+    ["Description"]="Tamam, görünüşe göre hala daha fazla Arthas'ın Gözyaşlarına ihtiyacım var. Onları geçen sefer benim için topladığın genel bölgede bulabileceğini tahmin ediyorum. Bunları ne kadar çabuk alırsak, Ahn'Qiraj'daki kuvvetlere karşı taarruzu o kadar hızlı başlatabiliriz.\n\nBize tekrar yardım edecek misin $c?",
+    ["Objectives"]="Dun Morogh'daki havaalanında bulunan Başçavuş Germaine'e 20 Arthas'ın Gözyaşları getir.",
+    ["Progress"]="",
+    ["Completion"]="",
+    ["minlevel"]="1",
+    ["questlevel"]="60",
+    }, -- end The Alliance Needs More Arthas' Tears!
+
+    -- The Alliance Needs Light Leather!
+    -- Light Leather -> Hafif Deri
+    -- Stoneflayers -> Taşsoyucular
+    -- Bonnie Stoneflayer -> Bonnie Taşsoyucu (MobNpcData.lua)
+    -- Military Ward -> Askeri Bölge (ZoneData.lua)
+    -- Ironforge -> Demirörs (ZoneData.lua)
+    ["8511"] = {
+    ["Title"]="İttifak'ın Hafif Deriye İhtiyacı Var!",
+    ["Description"]="Biz Taşsoyucular'ın yüzücü olma konusunda uzun bir geçmişimiz var, $c. Bu yüzden İttifak, Ahn'Qiraj savaş çabaları için hafif deri toplanmasına yardım etmesi adına ailemden ricada bulundu. Derinin ne için kullanmak istiyorlarsa ona uygun şekilde düzgünce tabaklanmasını sağlamak için buradayım. Ama yardımına ihtiyacımız var.\n\nBen burada bunu yapmak zorunda olduğum için, dışarı çıkıp derileri toplamanı ve onları buraya bana getirmeni istiyorum. Ne dersin delikanlı : genç kız;, bir deneyecek misin?",
+    ["Objectives"]="Demirörs'teki Askeri Bölge'de bulunan Bonnie Taşsoyucu'ya 10 Hafif Deri getir.",
+    ["Progress"]="$C, bunun söz verdiğin hafif deri olduğunu umuyorum.",
+    ["Completion"]="İttifak'ın buradaki derilerinden çok memnun kalacağını söyleyebilirim, $C. Tek bir tanesinin bile boşa gitmemesini sağlayacağım. Teşekkür ederim ve onları saydıktan sonra daha fazlasına ihtiyacımız olup olmadığını görmek için bana tekrar uğradığından emin ol.",
+    ["minlevel"]="1",
+    ["questlevel"]="60",
+    }, -- end The Alliance Needs Light Leather!
+
+    -- The Alliance Needs More Light Leather!
+    -- Light Leather -> Hafif Deri
+    -- Bonnie Stoneflayer -> Bonnie Taşsoyucu (MobNpcData.lua)
+    -- Dun Morogh -> Dun Morogh (ZoneData.lua)
+    ["8512"] = {
+    ["Title"]="İttifak'ın Daha Fazla Hafif Deriye İhtiyacı Var!",
+    ["Description"]="Seni tekrar görmek güzel YOUR_NAME. Çeşitli savaş malzemelerinin üretimi için daha fazla hafif deriye ihtiyacımız var gibi görünüyor. Bana onluk bir yığın getirebilirsen mükemmel olur.",
+    ["Objectives"]="Dun Morogh'daki havaalanında bulunan Bonnie Taşsoyucu'ya 10 hafif deri getir.",
+    ["Progress"]="Seni tekrar görmek güzel, YOUR_NAME. Çeşitli savaş malzemelerinin üretimi için daha fazla hafif deriye ihtiyacımız var gibi görünüyor. Bana onluk bir yığın getirirsen mükemmel olur.",
+    ["Completion"]="Cömert bağışın için teşekkür ederim, YOUR_NAME. Onları hemen yığına ekleyeceğim ve kısa sürede güzel bir zırh setine, bazı deri yamalara dönüştürüleceklerinden veya hazırlıklarımızda başka bir şey için kullanılacaklarından eminim. Görünüşe göre her zaman daha fazla hafif deriye ihtiyacımız var. Yakında tekrar gelip beni ziyaret et.",
+    ["minlevel"]="1",
+    ["questlevel"]="60",
+    }, -- end The Alliance Needs More Light Leather!
+
+    -- The Alliance Needs Medium Leather!
+    -- Medium Leather -> Orta Deri
+    -- Private Porter -> Er Porter (MobNpcData.lua)
+    -- Military Ward -> Askeri Bölge (ZoneData.lua)
+    -- Ironforge -> Demirörs (ZoneData.lua)
+    ["8513"] = {
+    ["Title"]="İttifak'ın Orta Deriye İhtiyacı Var!",
+    ["Description"]="Evet efendim : hanımefendi;, savaş çabaları için toplanan tüm orta derileri toplamak ve takip etmekle görevlendirildim. Hangi kaynaktan olursa olsun orta deri toplama imkanın varsa lütfen onları buraya bana getir. Vaktin ayırabilirsen bu konuda bir el atılmasını gerçekten çok isterim.",
+    ["Objectives"]="Demirörs'teki Askeri Bölge'de bulunan Er Porter'a 10 Orta Deri getir.",
+    ["Progress"]="Evet efendim, sizi hatırlıyorum. Yanınızdaki o orta deri mi?",
+    ["Completion"]="Vay be! Sanki daha az önce buradaydınız ve yardım etmek için gönüllü olmuştunuz. Bağış için çok teşekkür ederim. Hepsini paketleyip sayacağım. Bir adamın gününü nasıl güzelleştireceğinizi kesinlikle biliyorsunuz.",
+    ["minlevel"]="1",
+    ["questlevel"]="60",
+    }, -- end The Alliance Needs Medium Leather!
+
+    -- The Alliance Needs More Medium Leather!
+    -- Medium Leather -> Orta Deri
+    -- Private Porter -> Er Porter (MobNpcData.lua)
+    -- Dun Morogh -> Dun Morogh (ZoneData.lua)
+    ["8514"] = {
+    ["Title"]="İttifak'ın Daha Fazla Orta Deriye İhtiyacı Var!",
+    ["Description"]="Evet efendim : hanımefendi;, görünüşe göre bugüne kadar $2063w parça orta deri toplamışız. Çok şey istediğimi biliyorum ama hala istekliysen, kotamın geri kalanını tamamlamaya çalışırken yardımını kullanabilirim.",
+    ["Objectives"]="Dun Morogh'daki havaalanında bulunan Er Porter'a 10 orta deri getir.",
+    ["Progress"]="Evet efendim, görünüşe göre birçok parça orta deri topladık ama daha fazlasına ihtiyacımız var. Hepsinin iyi bir şekilde kullanılacağından emin olabilirsiniz; tek bir parça bile boşa gitmeyecek. Çok şey istediğimi biliyorum ama hala istekliyseniz, kotamın geri kalanını tamamlamaya çalışırken yardımınızı kullanabilirim.",
+    ["Completion"]="Vay canına, gerçekten de getirdiğiniz orta deri miktarı çok fazla, efendim! Hepsinin uygun şekilde kullanılmasını sağlayacağımdan emin olabilirsiniz, evet kesinlikle. Yardımınızla orta deri tahminimizi kısa sürede doldurmuş olacağız!\n\nTeşekkürler, YOUR_NAME!",
+    ["minlevel"]="1",
+    ["questlevel"]="60",
+    }, -- end The Alliance Needs More Medium Leather!
+
+    -- The Alliance Needs Thick Leather!
+    -- Thick Leather -> Kalın Deri
+    -- Marta Finespindle -> Marta İnceiğ (MobNpcData.lua)
+    -- Military Ward -> Askeri Bölge (ZoneData.lua)
+    -- Ironforge -> Demirörs (ZoneData.lua)
+    ["8515"] = {
+    ["Title"]="İttifak'ın Kalın Deriye İhtiyacı Var!",
+    ["Description"]="Vay canına, bu harika olacak! $C, Ahn'Qiraj savaş çabaları tüm hızıyla sürüyor ve ben içeri giren tüm kalın derilerin takibini yapmakla görevlendirildim. Onlarla tonlarca şey yapacağız ama önce tonlarcasını elde etmemiz gerekiyor. Kelimenin tam anlamıyla! İşte sen burada devreye giriyorsun.\n\nPeki, dışarı çıkıp bana güzel, şişkin bir kalın deri yığını getirebileceğini düşünüyor musun? Yapabilir misin, yapabilir misin?!",
+    ["Objectives"]="Demirörs'teki Askeri Bölge'de bulunan Marta İnceiğ'e 10 Kalın Deri getir.",
+    ["Progress"]="Çantandaki kalın deri mi, $C? O mu? Onu teslim etmeni sabırsızlıkla bekliyorum! Herkes bizden çok memnun kalacak, değil mi?",
+    ["Completion"]="Oh, yapabileceğini biliyordum, $C, biliyordum! Bunları en kısa sürede doğru ellere ulaştıracağım. Şimdi, buraya bakalım. Hımm, sayımımız oldukça iyi gidiyor gibi görünüyor. Saymayı bitirdiğimde daha fazlasına ihtiyacımız olup olmadığını görmek için hemen bana tekrar bakmalısın. Çünkü ihtiyacımız olursa, benim için onu dışarı çıkıp toplayacak kişi sensin!",
+    ["minlevel"]="1",
+    ["questlevel"]="60",
+    }, -- end The Alliance Needs Thick Leather!
+
+    -- The Alliance Needs More Thick Leather!
+    -- Thick Leather -> Kalın Deri
+    -- Marta Finespindle -> Marta İnceiğ (MobNpcData.lua)
+    -- Dun Morogh -> Dun Morogh (ZoneData.lua)
+    ["8516"] = {
+    ["Title"]="İttifak'ın Daha Fazla Kalın Deriye İhtiyacı Var!",
+    ["Description"]="Evet, yığın hala yeterince yüksek değil. YOUR_NAME, henüz $2071w kalın deri hedefimize ulaşamadık. Tüm o derilerle yapabileceğimiz şeyleri bir düşün! Her türlü zırh ve silah. Buhar tanklarının içindeki şeyler ve tüfek dürbünleri! Mühendislik gözlükleri, ve bahse girerim çok fazla toplarsak geri kalanını zeplinleri için Horde'a verebiliriz!\n\nBana biraz daha kalın deri getirecek misin?",
+    ["Objectives"]="Dun Morogh'daki havaalanında bulunan Marta İnceiğ'e 10 kalın deri getir.",
+    ["Progress"]="Evet, yığın hala yeterince yüksek değil. YOUR_NAME, henüz kalın deri hedefimize ulaşamadık. Tüm o derilerle yapabileceğimiz şeyleri bir düşün! Her türlü zırh ve silah. Buhar tanklarının içindeki şeyler ve tüfek dürbünleri! Ve mühendislik gözlükleri, onlar her zaman eğlencelidir!\n\nBana biraz daha kalın deri getirecek misin?",
+    ["Completion"]="Yine başardın! Dışarı çıkıp tüm bu şeyleri toplaman ve sonra buraya getirip teslim etmen gerçekten harika. Sana söyleyeyim, burada ne kadar yardım ettiğini öğrendiklerinde, insanların senden imza istemesi yüzünden caddede yürüyemeyeceksin!\n\nÇok cömert kalın deri bağışın için tekrar teşekkürler, YOUR_NAME.",
+    ["minlevel"]="1",
+    ["questlevel"]="60",
+    }, -- end The Alliance Needs More Thick Leather!
+
+    -- The Alliance Needs Linen Bandages!
+    -- Linen Bandages -> Keten Sargı Bezleri
+    -- Sentinel Silversky -> Gözcü Gümüşgökyüzü (MobNpcData.lua)
+    -- Military Ward -> Askeri Bölge (ZoneData.lua)
+    -- Ironforge -> Demirörs (ZoneData.lua)
+    ["8517"] = {
+    ["Title"]="İttifak'ın Keten Sargı Bezlerine İhtiyacı Var!",
+    ["Description"]="Ahn'Qiraj'daki savaş uzun ve kanlı olacak. İttifak'ın, çatışmaya balıklama dalmadan önce gerekli malzemeleri oluşturmak için senin ve senin gibilerin yardımına başvurması çok akıllıca bir şey.\n\nSavaş için keten sargı bezi toplama işinin başına geçmem istendi ve ihtiyacımız olan kadar çok sayıda toplamamda bana yardım edeceğini umuyorum. Bu önemsiz bir mesele değil ama en azından keten sargı bezleri yapılması en az zor olanlardır. Bizimle misin, $c?",
+    ["Objectives"]="Demirörs'teki Askeri Bölge'de bulunan Gözcü Gümüşgökyüzü'ne 20 Keten Sargı Bezi getir.",
+    ["Progress"]="İhtiyacım olan yirmi keten sargı bezi yanında mı, $C?",
+    ["Completion"]="Bugün buradaki katkından pek çok asker yararlanacak, $C. İttifak'ın çabalarından haberdar olmasını şahsen sağlayacağım. Bu sargı bezlerini düzgün bir şekilde saklamam ve sayımımı güncellemem için bana bir dakika ver, sonra daha fazlasına ihtiyacım olup olmadığını görmek için tekrar kontrol etmelisin.\n\nElune'un Işığı üzerinizde olsun, YOUR_RACE!",
+    ["minlevel"]="1",
+    ["questlevel"]="60",
+    }, -- end The Alliance Needs Linen Bandages!
+
+    -- The Alliance Needs More Linen Bandages!
+    -- Linen Bandages -> Keten Sargı Bezleri
+    -- Sentinel Silversky -> Gözcü Gümüşgökyüzü (MobNpcData.lua)
+    -- Dun Morogh -> Dun Morogh (ZoneData.lua)
+    ["8518"] = {
+    ["Title"]="İttifak'ın Daha Fazla Keten Sargı Bezine İhtiyacı Var!",
+    ["Description"]="Pek çok insan bencilce davranabilecekken gösterilen bu fedakarlığa her zaman hayran kalmışımdır. $C, buradaki görevim yerine getirilmeden önce hala bir miktar keten sargı bezine ihtiyacım var. Bu sargı bezlerinin toplanmasında bana bir kez daha yardım eder misin?",
+    ["Objectives"]="Dun Morogh'daki havaalanında bulunan Gözcü Gümüşgökyüzü'ne 20 keten sargı bezi getir.",
+    ["Progress"]="Pek çok insan bencilce davranabilecekken gösterilen bu fedakarlığa her zaman hayran kalmışımdır. $C, buradaki görevim yerine getirilmeden önce hala bir miktar keten sargı bezine ihtiyacım var. Bu sargı bezlerinin toplanmasında bana bir kez daha yardım eder misin?",
+    ["Completion"]="Takdir edilmelisin, YOUR_NAME. Hırslı bir açgözlülükle ceplerini doldurmak için savaş durumumuzun ekonomisinden yararlanacak olanlar varken, sen İttifak'a ve hatta tüm Azeroth'a olan bağlılığının her şeyden önce geldiğini tekrar tekrar kanıtladın.\n\nElune'un kutsamaları her zaman seninle olsun!",
+    ["minlevel"]="1",
+    ["questlevel"]="60",
+    }, -- end The Alliance Needs More Linen Bandages!
+
+    -- A Pawn on the Eternal Board
+    -- Anachronos -> Anachronos (MobNpcData.lua)
+    -- Caverns of Time -> Zaman Mağaraları (ZoneData.lua)
+    -- Tanaris -> Tanaris (ZoneData.lua)
+    -- Staghelm -> Staghelm (MobNpcData.lua)
+    -- Dragonflights -> Ejderha Sürüleri
+    ["8519"] = {
+    ["Title"]="Sonsuz Tahtada Bir Piyon",
+    ["Description"]="Sakinliğini geri kazanıp bakışlarını odakladığında, kristalin içinde bir şeylerin kıpırdadığını fark ediyorsun. Daha yakından incelediğinde, geçmişe... çoktan unutulmuş bir anıya baktığını anlıyorsun.",
+    ["Objectives"]="Geçmiş hakkında öğrenebildiğin her şeyi öğren, ardından Tanaris'teki Zaman Mağaraları'nda bulunan Anachronos ile konuş.",
+    ["Progress"]="",
+    ["Completion"]="Staghelm'in ihanetinden sonra, Değişen Kumların Asası'nın kırılmış parçalarını topladım ve buraya döndüm. Asayı, dünyamıza zarar vermek için kullanmak isteyecek olanlardan korumak gibi bir niyetim vardı - Ejderha Sürüleri'nin görevi böyle doğdu.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end A Pawn on the Eternal Board
+
+    -- The Alliance Needs Silk Bandages!
+    -- Silk Bandages -> İpek Sargı Bezleri
+    -- Nurse Stonefield -> Hemşire Taştarlası (MobNpcData.lua)
+    -- Military Ward -> Askeri Bölge (ZoneData.lua)
+    -- Ironforge -> Demirörs (ZoneData.lua)
+    ["8520"] = {
+    ["Title"]="İttifak'ın İpek Sargı Bezlerine İhtiyacı Var!",
+    ["Description"]="Ahn'Qiraj Savaşı yaklaşırken askerlerimizin ihtiyaç duyduğu her şeye sahip olmalarını sağlamak için elimizden gelen her şeyi yapmalıyız. Tam da burada bunu yapıyoruz. Kendi payıma, yeterince ipek sargı bezi topladığımızdan emin olmakla görevlendirildim.\n\nBana yardım edebileceğini düşünüyor musun, $c?",
+    ["Objectives"]="Demirörs'teki Askeri Bölge'de bulunan Hemşire Taştarlası'na 20 İpek Sargı Bezi getir.",
+    ["Progress"]="Merhaba, $C, o yirmi ipek sargı bezini alabildin mi?",
+    ["Completion"]="$C, başardın! Sayende ipek sargı bezleri ile hedefimize ulaşmaya bir adım daha yaklaştık. Onları saklayacağım, sonra istersen daha fazla konuşabiliriz.",
+    ["minlevel"]="1",
+    ["questlevel"]="60",
+    }, -- end The Alliance Needs Silk Bandages!
+
+    -- The Alliance Needs More Silk Bandages!
+    -- Silk Bandages -> İpek Sargı Bezleri
+    -- Nurse Stonefield -> Hemşire Taştarlası (MobNpcData.lua)
+    -- Dun Morogh -> Dun Morogh (ZoneData.lua)
+    ["8521"] = {
+    ["Title"]="İttifak'ın Daha Fazla İpek Sargı Bezine İhtiyacı Var!",
+    ["Description"]="Bana tekrar yardım etmeyi teklif etmen çok nazikçe $c. Görünüşe göre $2082w ipek sargı bezi toplamışız, bu yüzden daha fazlasına ihtiyacımız olacak.",
+    ["Objectives"]="Dun Morogh'daki havaalanında bulunan Hemşire Taştarlası'na 20 ipek sargı bezi getir.",
+    ["Progress"]="Bana tekrar yardım etmeyi teklif etmen çok nazikçe, $C. Görevlendirildiğimiz ipek sargı bezlerinden iyi bir miktar toplamışız gibi görünüyor ama hala daha fazlasına ihtiyacımız var. YOUR_NAME, başka bir paket hazırlayıp buraya bana getirmeni uygun görmenin bir yolu var mı? İttifak ve ben çok minnettar olacağız.",
+    ["Completion"]="Çok özverili bir insansın. Savaş çabalarına katkın için çok teşekkür ederim. Ahn'Qiraj'da başarı ile başarısızlık arasındaki farkı yaratacak olan senin gibi insanlardır. Sadece tüm bunların yeterli olacağını umuyorum.\n\nTekrar teşekkürler, YOUR_NAME.",
+    ["minlevel"]="1",
+    ["questlevel"]="60",
+    }, -- end The Alliance Needs More Silk Bandages!
+
+    -- The Alliance Needs Runecloth Bandages!
+    -- Runecloth Bandages -> Rünlü Kumaş Sargı Bezleri
+    -- Keeper Moonshade -> Koruyucu Aysoylu (MobNpcData.lua)
+    -- Military Ward -> Askeri Bölge (ZoneData.lua)
+    -- Ironforge -> Demirörs (ZoneData.lua)
+    ["8522"] = {
+    ["Title"]="İttifak'ın Rünlü Kumaş Sargı Bezlerine İhtiyacı Var!",
+    ["Description"]="İstersen savaşın meziyetlerini tartış, $c, ama o zaten harekete geçirildi. Etrafındaki ailene ve arkadaşlarına bak ve sonra kendine, eğer bu işe dahil olurlarsa, yangından sağ çıkmak için her türlü avantaja sahip olmalarını sağlamak adına ne yapabileceğini sor.\n\nBu amaçla, ne kaynaktan olursa olsun rünlü kumaş sargı bezleri topluyorum. Bağışta bulunmak ister misin?",
+    ["Objectives"]="Demirörs'teki Askeri Bölge'de bulunan Koruyucu Aysoylu'ya 20 Rünlü Kumaş Sargı Bezi getir.",
+    ["Progress"]="Günler birbirini kovalıyor ve biz hala devam ediyoruz. $C, o rünlü kumaş sargı bezleri yanında mı?",
+    ["Completion"]="Bu görevdeki azmin için takdir edilmelisin, $C. Bu sargı bezlerini kaldıracağım ve ardından daha da fazla rünlü kumaş sargı bezi toplama olasılığın hakkında seninle tekrar konuşmak isterim.",
+    ["minlevel"]="1",
+    ["questlevel"]="60",
+    }, -- end The Alliance Needs Runecloth Bandages!
+
+    -- The Alliance Needs More Runecloth Bandages!
+    -- Runecloth Bandages -> Rünlü Kumaş Sargı Bezleri
+    -- Keeper Moonshade -> Koruyucu Aysoylu (MobNpcData.lua)
+    -- Dun Morogh -> Dun Morogh (ZoneData.lua)
+    ["8523"] = {
+    ["Title"]="İttifak'ın Daha Fazla Rünlü Kumaş Sargı Bezine İhtiyacı Var!",
+    ["Description"]="Demek yine acil konuları tartışmaya geldik $c. Önceki çabaların için sana bir kez daha teşekkür ederim; herkes böyle bencilce davranmadan vermez. Ama yapacak daha çok iş var.\n\nYOUR_NAME, bir kez daha rünlü kumaş sargı bezleri toplayıp onları buraya bana getirir misin?",
+    ["Objectives"]="Dun Morogh'daki havaalanında bulunan Koruyucu Aysoylu'ya 20 rünlü kumaş sargı bezi getir.",
+    ["Progress"]="Demek yine acil konuları tartışmaya geldik, $C. Önceki çabaların için sana bir kez daha teşekkür ederim; herkes böyle bencilce davranmadan vermez. Ama yapacak daha çok iş var.\n\nYOUR_NAME, bir kez daha rünlü kumaş sargı bezleri toplayıp onları buraya bana getirir misin?",
+    ["Completion"]="Birlikte seyahat ettiğimiz güzel bir yol bu, YOUR_NAME. Mükemmel bir çalışma arkadaşı oluyorsun. Bütün İttifak adına gösterdiğin çabalar için sana bir kez daha teşekkür ediyorum. Yakında tekrar gel ve benimle konuş.",
+    ["minlevel"]="1",
+    ["questlevel"]="60",
+    }, -- end The Alliance Needs More Runecloth Bandages!
+
+    -- The Alliance Needs Rainbow Fin Albacore!
+    -- Rainbow Fin Albacore -> Gökkuşağı Yüzgeçli Durgunsu Balığı
+    -- Slicky Gastronome -> Kaygan Gastronom (MobNpcData.lua)
+    -- Military Ward -> Askeri Bölge (ZoneData.lua)
+    -- Ironforge -> Demirörs (ZoneData.lua)
+    ["8524"] = {
+    ["Title"]="İttifak'ın Gökkuşağı Yüzgeçli Durgunsu Balığına İhtiyacı Var!",
+    ["Description"]="Hey dostum! Sana 'Askerlerin de herkes gibi yiyecek yemeği olması gerektiğini düşünmüyor musun?' desem, elbette 'evet' yanıtını verirsin. Seninle %110 aynı fikirdeyim! Hemfikir olmamıza sevindim. Tek yapman gereken dışarı çıkıp bir sürü çiğ gökkuşağı yüzgeçli durgunsu balığı tutmak, sonra hepsini pişirip tam buraya bana geri getirmek. Mmm, mmm, tadını şimdiden alabiliyorum.",
+    ["Objectives"]="Demirörs'teki Askeri Bölge'de bulunan Kaygan Gastronom'a 20 Gökkuşağı Yüzgeçli Durgunsu Balığı getir.",
+    ["Progress"]="Daha önce bahsettiğimiz tüm o gökkuşağı yüzgeçli durgunsu balığı ile döndüğüne dair bahse girmeye hazırım, değil mi, $C?",
+    ["Completion"]="İkisi İttifak'a, biri bana, ikisi İttifak'a, biri bana. Hey balıkçı, mükemmel iş. Kulüp için gerçek bir gurur kaynağı olacağını görebiliyorum. Görünüşe göre o durgunsu balığından daha fazlasına ihtiyacımız var. Neden dışarı çıkıp biraz daha toplamıyorsun. Midemin guruldamasını şimdiden duyabiliyorum.",
+    ["minlevel"]="1",
+    ["questlevel"]="60",
+    }, -- end The Alliance Needs Rainbow Fin Albacore!
+
+    -- The Alliance Needs More Rainbow Fin Albacore!
+    -- Rainbow Fin Albacore -> Gökkuşağı Yüzgeçli Durgunsu Balığı
+    -- Slicky Gastronome -> Kaygan Gastronom (MobNpcData.lua)
+    -- Dun Morogh -> Dun Morogh (ZoneData.lua)
+    ["8525"] = {
+    ["Title"]="İttifak'ın Daha Fazla Gökkuşağı Yüzgeçli Durgunsu Balığına İhtiyacı Var!",
+    ["Description"]="Ne! Yine mi sen? Vay canına... tabii ben bir gnomum. Tam olarak Kaygan Gastronom! Demek yine yardım etmek için döndün ha? Eh, seni suçladığımı söyleyemem. Tüm o yiyeceklerin kokusunu sevmiyor musun? <ağzı sulanır>\n\nAylaklık yeter! Dışarı çık ve bana daha fazla gökkuşağı yüzgeçli durgunsu balığı getir!",
+    ["Objectives"]="Dun Morogh'daki havaalanında bulunan Kaygan Gastronom'a 20 gökkuşağı yüzgeçli durgunsu balığı getir.",
+    ["Progress"]="Ne! Yine mi sen? Vay canına... tabii ben bir gnomum. Tam olarak Kaygan Gastronom! Demek yine yardım etmek için döndün ha? Eh, seni suçladığımı söyleyemem. Tüm o yiyeceklerin kokusunu sevmiyor musun? <ağzı sulanır>\n\nAylaklık yeter! Dışarı çık ve bana daha fazla gökkuşağı yüzgeçli durgunsu balığı getir!",
+    ["Completion"]="İçinde bu cevherin olduğunu biliyordum çocuk. Ne sevdiğini bilen birinin görünüşüne sahipsin. Özellikle beni ve yetkilileri memnun etmeyi sevdiğini. Ve bunu başardın, garanti ederim.\n\nHahaha, tamam, bu balıkları düzgünce saklayacağım, sonra sen ve ben başka bir yirmi durgunsu balığı toplaman hakkında küçük bir konuşma yapabiliriz.",
+    ["minlevel"]="1",
+    ["questlevel"]="60",
+    }, -- end The Alliance Needs More Rainbow Fin Albacore!
+
+    -- The Alliance Needs Roast Raptor!
+    -- Roast Raptor -> Kızarmış Raptor
+    -- Sarah Sadwhistle -> Sarah Hüzünlüdüdük (MobNpcData.lua)
+    -- Military Ward -> Askeri Bölge (ZoneData.lua)
+    -- Ironforge -> Demirörs (ZoneData.lua)
+    ["8526"] = {
+    ["Title"]="İttifak'ın Kızarmış Raptora İhtiyacı Var!",
+    ["Description"]="Oh, nasıl gidiyor, $c? Ahn'Qiraj'daki yaklaşan savaş için yiyecek toplamakla ilgilendiğini görüyorum? Babam bir şekilde burada yardım etmek için gönüllü olmamın benim için iyi bir öğrenme deneyimi olacağını düşündü. Büyük hata. Et yemeyi bile sevmiyorum.\n\nHer neyse, istersen bana çokça kızarmış raptor getirebilirsin. Görünüşe göre tüm askerlerin isteyeceği şey bu.",
+    ["Objectives"]="Demirörs'teki Askeri Bölge'de bulunan Sarah Hüzünlüdüdük'e 20 Kızarmış Raptor getir.",
+    ["Progress"]="Peki o kızarmış raptorların hepsi yanında mı?",
+    ["Completion"]="Harika, bu çok güzel. Tüm bu yanmış hayvan etini bana getirdiğin için teşekkürler, $C. Onu şuradaki yığına koyacağım. Eminim birileri icabına bakar. Sanırım biraz boş vaktin varsa bana daha fazlasını getirmek isteyebilirsin?",
+    ["minlevel"]="1",
+    ["questlevel"]="60",
+    }, -- end The Alliance Needs Roast Raptor!
+
+    -- The Alliance Needs More Roast Raptor!
+    -- Roast Raptor -> Kızarmış Raptor
+    -- Sarah Sadwhistle -> Sarah Hüzünlüdüdük (MobNpcData.lua)
+    -- Dun Morogh -> Dun Morogh (ZoneData.lua)
+    ["8527"] = {
+    ["Title"]="İttifak'ın Daha Fazla Kızarmış Raptora İhtiyacı Var!",
+    ["Description"]="Tekrar merhaba $c. Bütün bunlar için çok heyecanlı olduğunu söyleyebilirim. Bu yüzden sanırım bana bir yirmi kızarmış raptor daha getirmek istiyorsun. Harika. Eh, yap o zaman. Döndüğünde görüşürüz sanırım.",
+    ["Objectives"]="Dun Morogh'daki havaalanında bulunan Sarah Hüzünlüdüdük'e 20 kızarmış raptor getir.",
+    ["Progress"]="Tekrar merhaba, $C. Bütün bunlar için çok heyecanlı olduğunu söyleyebilirim. Bu yüzden sanırım bana bir yirmi kızarmış raptor daha getirmek istiyorsun? Harika. Eh, yap o zaman. Döndüğünde görüşürüz sanırım.",
+    ["Completion"]="Vay canına, gerçekten tuttuğunu koparan birisin. Sadece sana bakmak bile beni yoruyor. Her neyse, İttifak'tan ve herkesten teşekkürler. Tüm o ölü etlerin kaldırılmasını sağlayacağım. Bana sorarsan ortalığı kokutmaya başlasa da, hala daha fazlasına ihtiyacımız olup olmadığını görmek için daha sonra bana tekrar uğrayabilirsin sanırım.",
+    ["minlevel"]="1",
+    ["questlevel"]="60",
+    }, -- end The Alliance Needs More Roast Raptor!
+
+    -- The Alliance Needs Spotted Yellowtail!
+    -- Spotted Yellowtail -> Benekli Sarıkuyruk
+    -- Huntress Swiftriver -> Avcı Hızlınehir (MobNpcData.lua)
+    -- Military Ward -> Askeri Bölge (ZoneData.lua)
+    -- Ironforge -> Demirörs (ZoneData.lua)
+    ["8528"] = {
+    ["Title"]="İttifak'ın Benekli Sarıkuyruğa İhtiyacı Var!",
+    ["Description"]="Pişmiş balık toplamak kahramanca görünmeyebilir ama hazırlığın değerini hafife alma, genç $c. Askerlerin de herkes gibi yemeye ihtiyacı var ve Ahn'Qiraj'daki savaş başladığında ihtiyaç duydukları şeye sahip olmalarını sağlamak için üzerimize düşeni yapmak üzere buradayız.\n\nBuna uygun olarak, iyi saklanan ve birçok farklı yemekte kullanılabilen çok yönlü bir besin kaynağı olan benekli sarıkuyruk stokluyorum. Ayrıca diğer bazı tuzlu su balıklarının kokusuna da sahip değil. Bu çabamda bana yardım etmeye istekli misin?",
+    ["Objectives"]="Demirörs'teki Askeri Bölge'de bulunan Avcı Hızlınehir'e 20 Benekli Sarıkuyruk getir.",
+    ["Progress"]="Tartıştığımız benekli sarıkuyruk ile bu kadar çabuk döneceğinden emindim.",
+    ["Completion"]="Bu hediye için teşekkür ederim, $C, ve böyle zamanında olduğu için de. Askerlerimiz kesinlikle yiyecek bir şeyden mahrum kalmayacak. Sadece bu balıkları düzgünce saklayayım, sonra istekliysen ikinci bir seferi seninle tartışabiliriz.",
+    ["minlevel"]="1",
+    ["questlevel"]="60",
+    }, -- end The Alliance Needs Spotted Yellowtail!
+
+    -- The Alliance Needs More Spotted Yellowtail!
+    -- Spotted Yellowtail -> Benekli Sarıkuyruk
+    -- Huntress Swiftriver -> Avcı Hızlınehir (MobNpcData.lua)
+    -- Dun Morogh -> Dun Morogh (ZoneData.lua)
+    ["8529"] = {
+    ["Title"]="İttifak'ın Daha Fazla Benekli Sarıkuyruğa İhtiyacı Var!",
+    ["Description"]="Hala istekliysen, başka bir benekli sarıkuyruk yükü getirmen için seni tekrar dışarı göndermek isterim, YOUR_NAME. İlk seferinde edindiğin uzmanlıkla bu avın çok daha hızlı ve kolay olması gerektiğini tahmin ediyorum. Var mısın?",
+    ["Objectives"]="Dun Morogh'daki havaalanında bulunan Avcı Hızlınehir'e 20 benekli sarıkuyruk getir.",
+    ["Progress"]="Hala istekliysen, başka bir benekli sarıkuyruk yükü getirmen için seni tekrar dışarı göndermek isterim, YOUR_NAME. İlk seferinde edindiğin uzmanlıkla bu avın çok daha hızlı ve kolay olması gerektiğini tahmin ediyorum. Var mısın?",
+    ["Completion"]="İttifak'ın gerçek bir üyesisin, YOUR_NAME. Çabaların fark edilmeden veya takdir edilmeden kalmayacak. Ve balıkları pişirdiğin için de teşekkür ederim. Onların düzgünce saklanmasını sağlayacağım, sonra sayımımı güncellemem gerekecek. Her biri bizi hedefimizi yakalamaya o kadar yaklaştırıyor.",
+    ["minlevel"]="1",
+    ["questlevel"]="60",
+    }, -- end The Alliance Needs More Spotted Yellowtail!
+
+    -- The Horde Needs Copper Bars!
+    -- Copper Bars -> Bakır Külçeler
+    -- Miner Cromwell -> Madenci Cromwell (MobNpcData.lua)
+    -- Valley of Spirits -> Ruhlar Vadisi (ZoneData.lua)
+    -- Orgrimmar -> Orgrimmar (ZoneData.lua)
+    ["8532"] = {
+    ["Title"]="Horde'un Bakır Külçelere İhtiyacı Var!",
+    ["Description"]="Burada yardım etmeye karar verdiğine çok sevindim. Herkes etmezdi, bu yüzden neye ihtiyacım olduğunu anladığından emin olmalıyım. Bakır cevheri değil, bakır külçeleri. Tüm eritmeyi kendimiz yapacak vaktimiz veya adamımız yok, bu yüzden bu işle ilgilenme nezaketini gösterirsen çabaların usulünce not edilecektir. Bu halledebileceğin bir şey mi, $c?",
+    ["Objectives"]="Orgrimmar'daki Ruhlar Vadisi'nde bulunan Madenci Cromwell'e 20 Bakır Külçe getir.",
+    ["Progress"]="Umarım yanındaki o yirmi bakır külçedir, $C.",
+    ["Completion"]="Bu külçeler iş görür, onları parlatmadığın için de teşekkürler. Savaş için inşa edilmesi gereken malzemeler için parça parça edilecekken onları güzelleştirmenin bir anlamı yok. Onları yığınlara koymakla ben ilgilenirim ve uygun şekilde kullanılmalarını sağlarım. Başka bir yirmi tane daha getirmekle ilgileniyorsan benimle tekrar konuş.",
+    ["minlevel"]="1",
+    ["questlevel"]="60",
+    }, -- end The Horde Needs Copper Bars!
+
+    -- The Horde Needs More Copper Bars!
+    -- Copper Bars -> Bakır Külçeler
+    -- Miner Cromwell -> Madenci Cromwell (MobNpcData.lua)
+    -- Durotar -> Durotar (ZoneData.lua)
+    ["8533"] = {
+    ["Title"]="Horde'un Daha Fazla Bakır Külçesine İhtiyacı Var!",
+    ["Description"]="Bu kadar çabuk mu döndün? Kısa sürede gerçek bir madenci olacaksın $c. Yani kuralı zaten biliyorsun; dışarı çıkmanı, bir sürü bakır cevheri çıkarmanı, onu külçeler halinde eritmeni ve buraya bana geri getirmeni istiyorum. Bu yapabileceğin bir şey biliyorum, soru şu ki, istekli misin?",
+    ["Objectives"]="Durotar'daki Madenci Cromwell'e 20 bakır külçe getir.",
+    ["Progress"]="Bu kadar çabuk mu döndün? Kısa sürede gerçek bir madenci olacaksın, $C. Yani kuralı zaten biliyorsun; dışarı çıkmanı, bir sürü bakır cevheri çıkarmanı, onu külçeler halinde eritmeni ve buraya bana geri getirmeni istiyorum. Bu yapabileceğin bir şey biliyorum, soru şu ki, istekli misin?",
+    ["Completion"]="Bana kendinizi bir kez daha kanıtladın, $C. Bu bakırın zamanı geldiğinde kullanılmasını sağlayacağım. Şimdilik bu bakır külçelerini palete koymam ve saymam gerekiyor. Hala hevesliysen daha da fazla bakır külçesi toplamada yardımını kullanabilirim.",
+    ["minlevel"]="1",
+    ["questlevel"]="60",
+    }, -- end The Horde Needs More Copper Bars!
+
+    -- Hive'Zora Scout Report
+    -- Hive'Zora -> Hive'Zora (ZoneData.lua)
+    -- Scout Azenel -> Gözcü Azenel (MobNpcData.lua)
+    -- Windcaller Proudhorn -> Rüzgarçağıran Gururluboynuz (MobNpcData.lua)
+    -- Cenarion Hold -> Cenarion Hisarı (ZoneData.lua)
+    ["8534"] = {
+    ["Title"]="Hive'Zora Gözcü Raporu",
+    ["Description"]="İstihbarat toplamak için en iyi gözcülerimizi silitid kovanlarının derinliklerine gönderdik. Gözcü Azenel günlerdir Hive'Zora'daki silitid hareketlerini izliyor. Onu bul ve yazılı bir rapor al. Bu bilgi doğrultusunda bir an önce harekete geçebilmemiz gerekiyor, YOUR_NAME.",
+    ["Objectives"]="Hive'Zora içindeki Cenarion Gözcüsü Azenel ile iletişime geç ve Hive'Zora Gözcü Raporu'nu Cenarion Hisarı'ndaki Rüzgarçağıran Gururluboynuz'a getir. Bu görevi tamamlamak için Taktik Görev Bilgilendirmesi VI'yı da getirmelisin.",
+    ["Progress"]="Gözcü Azenel'i Hive'Zora'nın içinde bulacaksın. Acele et, YOUR_NAME! Zaman çok önemli.",
+    ["Completion"]="Çabaların son derece makbule geçti, YOUR_NAME. Bu gözcü raporlarını hemen okuyacağım, bir sonraki görevini gözden geçirmekten çekinme.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Hive'Zora Scout Report
+
+    -- Hoary Templar
+    -- Twilight's Hammer -> Alacakaranlık Çekiçi
+    -- Silithus -> Silithus (ZoneData.lua)
+    -- Ahn'Qiraj -> Ahn'Qiraj (ZoneData.lua)
+    -- Bor Wildmane -> Bor Yeleliboz (MobNpcData.lua)
+    -- Cenarion Hold -> Cenarion Hisarı (ZoneData.lua)
+    ["8535"] = {
+    ["Title"]="Kırağılı Tapınakçı",
+    ["Description"]="Alacakaranlık Çekiçi ve taptıkları elemental soyluları, Silithus'taki operasyonlarımız için çetin bir tehdit oluşturuyor. Ahn'Qiraj içinde karşılaştığımız yeni düşmanlarla birlikte, dışarıdaki düşmanlarımıza karşı gardımızı düşürmeyi göze alamayız.\n\nBir Kırağılı Tapınakçı çağırıp yok etmenin bir yolunu bul ve Bor Yeleliboz'a rapor ver.",
+    ["Objectives"]="Bir Kırağılı Tapınakçı çağırıp katlet ve Cenarion Hisarı'ndaki Bor Yeleliboz'a rapor ver. Bu görevi tamamlamak için Taktik Görev Bilgilendirmesi IV'ü de getirmelisin.",
+    ["Progress"]="Görevin bitti mi, YOUR_NAME?",
+    ["Completion"]="İyi iş, YOUR_NAME. İşte bir sonraki görevin.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Hoary Templar
+
+    -- Earthen Templar
+    -- Twilight's Hammer -> Alacakaranlık Çekiçi
+    -- Silithus -> Silithus (ZoneData.lua)
+    -- Ahn'Qiraj -> Ahn'Qiraj (ZoneData.lua)
+    -- Bor Wildmane -> Bor Yeleliboz (MobNpcData.lua)
+    -- Cenarion Hold -> Cenarion Hisarı (ZoneData.lua)
+    ["8536"] = {
+    ["Title"]="Topraktan Tapınakçı",
+    ["Description"]="Alacakaranlık Çekiçi ve taptıkları elemental soyluları, Silithus'taki operasyonlarımız için çetin bir tehdit oluşturuyor. Ahn'Qiraj içinde karşılaştığımız yeni düşmanlarla birlikte, dışarıdaki düşmanlarımıza karşı gardımızı düşürmeyi göze alamayız.\n\nBir Topraktan Tapınakçı çağırıp yok etmenin bir yolunu bul ve Bor Yeleliboz'a rapor ver.",
+    ["Objectives"]="Bir Topraktan Tapınakçı çağırıp katlet ve Cenarion Hisarı'ndaki Bor Yeleliboz'a rapor ver. Bu görevi tamamlamak için Taktik Görev Bilgilendirmesi III'ü de getirmelisin.",
+    ["Progress"]="Görevin bitti mi, YOUR_NAME?",
+    ["Completion"]="İyi iş, YOUR_NAME. İşte bir sonraki görevin.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Earthen Templar
+
+    -- Crimson Templar
+    -- Twilight's Hammer -> Alacakaranlık Çekiçi
+    -- Silithus -> Silithus (ZoneData.lua)
+    -- Ahn'Qiraj -> Ahn'Qiraj (ZoneData.lua)
+    -- Bor Wildmane -> Bor Yeleliboz (MobNpcData.lua)
+    -- Cenarion Hold -> Cenarion Hisarı (ZoneData.lua)
+    ["8537"] = {
+    ["Title"]="Al Tapınakçı",
+    ["Description"]="Alacakaranlık Çekiçi ve taptıkları elemental soyluları, Silithus'taki operasyonlarımız için çetin bir tehdit oluşturuyor. Ahn'Qiraj içinde karşılaştığımız yeni düşmanlarla birlikte, dışarıdaki düşmanlarımıza karşı gardımızı düşürmeyi göze alamayız.\n\nBir Al Tapınakçı çağırıp yok etmenin bir yolunu bul ve Bor Yeleliboz'a rapor ver.",
+    ["Objectives"]="Bir Al Tapınakçı çağırıp katlet ve Cenarion Hisarı'ndaki Bor Yeleliboz'a rapor ver. Bu görevi tamamlamak için Taktik Görev Bilgilendirmesi II'yi de getirmelisin.",
+    ["Progress"]="Görevin bitti mi, YOUR_NAME?",
+    ["Completion"]="İyi iş, YOUR_NAME. İşte bir sonraki görevin.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Crimson Templar
+
+    -- The Four Dukes
+    -- Twilight's Hammer -> Alacakaranlık Çekiçi
+    -- Abyssal Council -> Gayya Konseyi
+    -- Commander Mar'alith -> Komutan Mar'alith (MobNpcData.lua)
+    -- Cenarion Hold -> Cenarion Hisarı (ZoneData.lua)
+    ["8538"] = {
+    ["Title"]="Dört Dük",
+    ["Description"]="Alacakaranlık Çekiçi ile Gayya Konseyi arasındaki bağlantıların beklediğimizden daha önemli olduğu ortaya çıkıyor.\n\nGayya Dükleri olarak bilinen elemental soylularının, Alacakaranlık Çekiçi müritlerini örgütleyen ana güçlerden biri olduğuna inanıyoruz. Dört Gayya Dükü'nü varoluş düzlemimize çekip onları yok etmenin bir yolunu bul!\n\nGeçmiş görevlerdeki adanmışlığın ve hünerin, bu özel görev için seni seçmemize yol açtı. Bu çabanda başarılı olacağından eminiz.",
+    ["Objectives"]="Köz Dükü, Enginlik Dükü, Batı Rüzgarı Dükü ve Parçalar Dükü'nü çağırıp katletmenin bir yolunu bul ve Cenarion Hisarı'ndaki Komutan Mar'alith'e rapor ver. Bu görevi tamamlamak için Taktik Görev Bilgilendirmesi V'i de getirmelisin.",
+    ["Progress"]="Görevin bitti mi, YOUR_NAME?",
+    ["Completion"]="Bugün davamız için büyük bir başarı elde ettin, YOUR_NAME. En güçlü düşmanlarımızdan bazılarını yendin. Bunun için seni yürekten takdir ediyorum.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end The Four Dukes
+
+    -- Target: Hive'Zora Hive Sisters
+    -- Hive'Zora -> Hive'Zora (ZoneData.lua)
+    -- Commander Mar'alith -> Komutan Mar'alith (MobNpcData.lua)
+    -- Cenarion Hold -> Cenarion Hisarı (ZoneData.lua)
+    -- Silithus -> Silithus (ZoneData.lua)
+    ["8539"] = {
+    ["Title"]="Hedef: Hive'Zora Kovan Kız Kardeşleri",
+    ["Description"]="Hive'Zora'ya yapılan saldırıya katılmak üzere takviye birlikler çağrıldı. Hive'Zora kovan kız kardeşlerini hedef almak üzere seçildiniz. Görevinizi tamamladıktan sonra Komutan Mar'alith'e rapor verin.",
+    ["Objectives"]="30 Hive'Zora Kovan Kız Kardeşi katlet ve Silithus'taki Cenarion Hisarı'nda bulunan Komutan Mar'alith'e rapor ver. Bu görevi tamamlamak için Muharebe Görev Bilgilendirmesi V'i de getirmelisin.",
+    ["Progress"]="Bana söyleyecek bir şeyin var mı, $C?",
+    ["Completion"]="Mükemmel iş, YOUR_NAME. Değerli bir müttefiksin.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Target: Hive'Zora Hive Sisters
+
+    -- Boots for the Guard
+    -- Cenarion Hold -> Cenarion Hisarı (ZoneData.lua)
+    -- Vish Kozus -> Vish Kozus (MobNpcData.lua)
+    -- Silithus -> Silithus (ZoneData.lua)
+    ["8540"] = {
+    ["Title"]="Muhafızlar İçin Çizmeler",
+    ["Description"]="Cenarion Hisarı muhafızlarının süvari birliğinde süslü mitril çizmeler tehlikeli derecede azaldı. Bir parti temin et ve derhal Cenarion Hisarı'ndaki Yüzbaşı Vish Kozus'a ulaştır.",
+    ["Objectives"]="Silithus'taki Cenarion Hisarı'nda bulunan Muhafız Yüzbaşısı Vish Kozus'a 3 Süslü Mitril Çizme getir. Bu görevi tamamlamak için Lojistik Görev Bilgilendirmesi II'yi de getirmelisin.",
+    ["Progress"]="Benim için bir şeyin var mı?",
+    ["Completion"]="Mükemmel. Bunlara ihtiyacımız vardı, YOUR_NAME. İyi iş.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Boots for the Guard
+
+    -- Grinding Stones for the Guard
+    -- Cenarion Hold -> Cenarion Hisarı (ZoneData.lua)
+    -- Vish Kozus -> Vish Kozus (MobNpcData.lua)
+    -- Silithus -> Silithus (ZoneData.lua)
+    ["8541"] = {
+    ["Title"]="Muhafızlar İçin Biley Taşları",
+    ["Description"]="Cenarion Hisarı muhafızlarında biley taşı stoğu azaldı. Bir parti temin et ve derhal Cenarion Hisarı'ndaki Yüzbaşı Vish Kozus'a ulaştır.",
+    ["Objectives"]="Silithus'taki Cenarion Hisarı'nda bulunan Muhafız Yüzbaşısı Vish Kozus'a 10 Yoğun Biley Taşı, 10 Masif Biley Taşı ve 10 Ağır Biley Taşı getir. Bu görevi tamamlamak için Lojistik Görev Bilgilendirmesi III'ü de getirmelisin.",
+    ["Progress"]="Benim için bir şeyin var mı?",
+    ["Completion"]="Mükemmel. Bunlara ihtiyacımız vardı, YOUR_NAME. İyi iş.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Grinding Stones for the Guard
+
+    -- The Horde Needs Tin Bars!
+    -- Tin Bars -> Kalay Külçeler
+    -- Ahn'Qiraj -> Ahn'Qiraj (ZoneData.lua)
+    -- Warchief -> Savaşşefi (MobNpcData.lua)
+    -- Grunt Maug -> Er Maug (MobNpcData.lua)
+    -- Valley of Spirits -> Ruhlar Vadisi (ZoneData.lua)
+    -- Orgrimmar -> Orgrimmar (ZoneData.lua)
+    ["8542"] = {
+    ["Title"]="Horde'un Kalay Külçelere İhtiyacı Var!",
+    ["Description"]="Lok'tar, YOUR_RACE, böceklerle Ahn'Qiraj'da savaşa gireceğimizi zaten bildiğinden eminim. Ama önce Savaşşefi 'hazırlık' adı verilen bir şey yapacağımıza karar verdi. Silahları bileylemeyi ve zırhları dövmeyi tercih etsem de, burada kalay külçe toplanmasından sorumlu olmak için seçilmekten gurur duyuyorum. Ama senin yardımın olmadan bunu yapamam.\n\nBu yüzden dışarı çıkıp kalay külçeler yapmanı ve onları buraya bana getirmeni istiyorum. Sanırım sayabileceğimden daha fazlasına ihtiyacım olacak.",
+    ["Objectives"]="Orgrimmar'daki Ruhlar Vadisi'nde bulunan Er Maug'a 20 Kalay Külçe getir.",
+    ["Progress"]="Orada kaç tane kalay külçen var, $C? Savaştan sonra bana nasıl sayacağını öğretecek birine ihtiyacım olacağını düşünüyorum.",
+    ["Completion"]="İçten teşekkürlerimi sunarım. Cenarion Hisarı'na yardım etme çabaların gerçek cesaret gösterdi.",
+    ["minlevel"]="1",
+    ["questlevel"]="60",
+    }, -- end The Horde Needs Tin Bars!
+
+    -- The Horde Needs More Tin Bars!
+    -- Tin Bars -> Kalay Külçeler
+    -- Silithus -> Silithus (ZoneData.lua)
+    -- Grunt Maug -> Er Maug (MobNpcData.lua)
+    -- Durotar -> Durotar (ZoneData.lua)
+    ["8543"] = {
+    ["Title"]="Horde'un Daha Fazla Kalay Külçesine İhtiyacı Var!",
+    ["Description"]="Çok iyi, savaş konusunda ciddi olduğunu görüyorum. Başlamasını beklemek beni biraz gereksiz yere geriyor, bu da malları daha hızlı getirmeye başlamazsan sinirleneceğim anlamına geliyor. Belki bunun yerine senin üzerinde pratik yapabilirim.\n\nHar! Belki de yapmam, çünkü o zaman bana kalay külçelerini kim geri getirir?",
+    ["Objectives"]="Durotar'daki Er Maug'a 20 kalay külçe getir.",
+    ["Progress"]="Çok iyi, savaş konusunda ciddi olduğunu görüyorum. Başlamasını beklemek beni biraz gereksiz yere geriyor, eminim sen de öylesindir, $C. Başladığında görkemli olacak. Horde ellerinde silahlarla Silithus çölünün kumları üzerinde koşacak, böcek kitlelerinin üzerine balıklama atlayacak. O gün herkes büyük bir onur kazanacak!\n\nHar! Ama önce daha fazla kalay külçesine ihtiyacımız var. Bu kadar küçük bir şeyin nasıl bu kadar büyük bir fark yaratabilmesi ne komik, değil mi?",
+    ["Completion"]="Throm'ka, YOUR_NAME. Kalay külçelerinle beni ve Horde'u onurlandırıyorsun. Onları yığına koyacağım, sonra gelip onlardan şeyler yapacaklar. Ve tüm bunlar bittiğinde savaşa gideceğiz ve o cılız İttifak'a böceklerle nasıl savaşılacağını göstereceğiz.\n\nŞimdi bana daha fazla kalay külçe getir!",
+    ["minlevel"]="1",
+    ["questlevel"]="60",
+    }, -- end The Horde Needs More Tin Bars!
+
+    -- Conqueror's Spaulders
+    -- Qiraji -> Qiraji
+    -- Nefarian -> Nefarian (MobNpcData.lua)
+    -- Andorgos -> Andorgos (MobNpcData.lua)
+    -- Ahn'Qiraj -> Ahn'Qiraj (ZoneData.lua)
+    -- Brood of Nozdormu -> Nozdormu Soyu
+    ["8544"] = {
+    ["Title"]="Fatih Omuzlukları",
+    ["Description"]="Aramızda ölümlü ırkların taktığı süslü omuz zırhlarının bir ejderhanın kanatlarına özenme çabasıyla başladığı söylenir.\n\nBana en yüksek Qiraji liderlerinin taktığı bağları getir, ben de onları Nefarian'ın kanatlarından bile daha korkunç bir omuzluk setine dönüştüreyim!",
+    ["Objectives"]="Ahn'Qiraj'daki Andorgos'a Qiraji Komuta Bağları, 2 Gece Simgesi, 5 Taş Skarabe ve 5 Kil Skarabe getir. Bu görevi tamamlamak için Nozdormu Soyu ile de Tarafsız itibara ulaşmalısın.",
+    ["Progress"]="İstediğim bileşenleri topladın mı?",
+    ["Completion"]="Getirdiğin malzemelerden ve düşmüş Qiraji düşmanlarımızın pullarından sana bu omuzlukları yapıyorum, ölümlü. İhtiyacın olan korumayı sağlasınlar ve görünümleri düşmanlarımızın kalbine korku salsın.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Conqueror's Spaulders
+
+    -- The Horde Needs Mithril Bars!
+    -- Mithril Bars -> Mitril Külçeler
+    -- Ahn'Qiraj -> Ahn'Qiraj (ZoneData.lua)
+    -- Senior Sergeant T'kelah -> Kıdemli Çavuş T'kelah (MobNpcData.lua)
+    -- Valley of Spirits -> Ruhlar Vadisi (ZoneData.lua)
+    -- Orgrimmar -> Orgrimmar (ZoneData.lua)
+    ["8545"] = {
+    ["Title"]="Horde'un Mitril Külçelere İhtiyacı Var!",
+    ["Description"]="$C, savaş geliyor ve yapabileceğimiz tek şey buna hazırlanmak. İşte seninle birbirimize yardım edebileceğimiz yer burası dostum. Görüyorsun ya, ihtiyacımız olacak her şeyi inşa etmek için gereken tüm mitril külçelerini toplama işinin başına beni koydular. Ve ben hala daha fazlasına ihtiyaç duyuyorum!\n\nBu yüzden dışarı çıkıp biraz mitril madeni çıkaracağını ve sonra onu külçeler halinde eriteceğini umuyorum. Bizim için yapabileceğin bir şeye benziyor mu?",
+    ["Objectives"]="Orgrimmar'daki Ruhlar Vadisi'nde bulunan Kıdemli Çavuş T'kelah'a 20 Mitril Külçe getir.",
+    ["Progress"]="Ahn'Qiraj savaş çabaları için ihtiyacımız olan tüm mitril külçelerine sahip olmak gerçekten harika olurdu. Bu yüzden mi döndün dostum? Külçelerimi getirdin mi?",
+    ["Completion"]="Bu seninle benim için iyi bir başlangıç, $C. Yığınlara koyabileceğim ve listeden silebileceğim bir yirmi mitril külçe daha. Hpsi savaş malzemesi yapımında iyi bir şekilde kullanılacak.\n\nBana tekrar uğrayacağından emin ol, çünkü biliyorsun görünüşe göre daha da fazla mitril külçesine ihtiyacımız olacak.",
+    ["minlevel"]="1",
+    ["questlevel"]="60",
+    }, -- end The Horde Needs Mithril Bars!
+
+    -- The Horde Needs More Mithril Bars!
+    -- Mithril Bars -> Mitril Külçeler
+    -- Ahn'Qiraj -> Ahn'Qiraj (ZoneData.lua)
+    -- Senior Sergeant T'kelah -> Kıdemli Çavuş T'kelah (MobNpcData.lua)
+    -- Valley of Spirits -> Ruhlar Vadisi (ZoneData.lua)
+    -- Orgrimmar -> Orgrimmar (ZoneData.lua)
+    ["8546"] = {
+    ["Title"]="Horde'un Daha Fazla Mitril Külçesine İhtiyacı Var!",
+    ["Description"]="Evet, burada olmana sevindim dostum. Daha önce bana yardım etmiştin ve şimdi yardımına tekrar ihtiyacım var. Savaş çabaları için hala daha fazla mitril külçesi getirmeye bakıyoruz; Ahn'Qiraj'daki o böcekleri ezmek için bir sürü zırh, silah ve şeyler inşa edeceğiz.\n\nYani gerçek bir dostsan, bana daha fazla mitril külçesi yığını getirirsin. Kotamıza ulaşana kadar sahip olduğun her şeyi alırım. Şimdi benim için biraz var mı?",
+    ["Objectives"]="Orgrimmar'daki Ruhlar Vadisi'nde bulunan Kıdemli Çavuş T'kelah'a 20 Mitril Külçe getir.",
+    ["Progress"]="",
+    ["Completion"]="Bu iyi bir iş YOUR_NAME! Bir yirmi külçe daha bizi hedefe o kadar yaklaştırır ve bize daha fazla savaş malzemesi kazandırır. Saklanmalarını sağlıyorum. Ve bir yığın mitril külçesi daha bulursan dostum, onları buraya bana getirdiğinden emin ol.",
+    ["minlevel"]="1",
+    ["questlevel"]="60",
+    }, -- end The Horde Needs More Mithril Bars!
+
+    -- Volunteer's Battlegear
+    -- Cenarion Hold -> Cenarion Hisarı (ZoneData.lua)
+    -- Vargus -> Vargus (MobNpcData.lua)
+    -- Silithus -> Silithus (ZoneData.lua)
+    -- Cenarion Circle -> Cenarion Çemberi
+    ["8548"] = {
+    ["Title"]="Gönüllünün Savaş Teçhizatı",
+    ["Description"]="Cenarion Hisarı için muharebe, lojistik ve taktik görevleri üstlenerek topladığın nişanlar sadece gösteriş için değildir, YOUR_NAME.\n\nOnları elinde tutman akıllıca olur. Örgütümüze sadakatini kanıtladıkça, en yakın müttefiklerimize ayırdığımız teçhizatların bazılarını bu nişanlar karşılığında sana sunabilirim.",
+    ["Objectives"]="Silithus'taki Cenarion Hisarı'nda bulunan Vargus'a 5 Cenarion Muharebe Nişanı, 3 Cenarion Lojistik Nişanı ve 7 Cenarion Taktik Nişanı getir. Bu görevi tamamlayabilmek için Cenarion Çemberi ile de Dostane itibara ulaşmalısın.",
+    ["Progress"]="En sadık müttefiklerimizi iyi teçhizatlandırılmış tutmak bizim yararımızadır, YOUR_NAME.",
+    ["Completion"]="Harika iş, YOUR_NAME. Lütfen bunu Cenarion Çemberi adına kabul et. Bunu kesinlikle hak ettin, dostum!",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Volunteer's Battlegear
+
+    -- The Horde Needs Peacebloom!
+    -- Peacebloom -> Barışçiçeği
+    -- Ahn'Qiraj War -> Ahn'Qiraj Savaşı
+    -- Herbalist Proudfeather -> Otçu Gururlutüy (MobNpcData.lua)
+    -- Valley of Spirits -> Ruhlar Vadisi (ZoneData.lua)
+    -- Orgrimmar -> Orgrimmar (ZoneData.lua)
+    ["8549"] = {
+    ["Title"]="Horde'un Barışçiçeğine İhtiyacı Var!",
+    ["Description"]="Her neslin belirleyici bir sınavla yüzleşmek zorunda olduğu söylenir. Ahn'Qiraj Savaşı'nın cesaretimizin sınanacağı pota olmasından korkuyorum. Bu yüzden hazırlanıyoruz ve böylece neden yapıldığımızı keşfediyoruz.\n\nSavaş için iksirlere dönüştürülebilmesi adına mümkün olduğunca çok barışçiçeği toplayarak Horde'a yardım etmek için gönüllü oldum. Bana yardım etmek için burada olduğunu umuyorum. Eğer öyleyse, bana iyi miktarda ot getirmen gerekiyor. Bana yardım edecek misin, $c?",
+    ["Objectives"]="Orgrimmar'daki Ruhlar Vadisi'nde bulunan Otçu Gururlutüy'e 20 Barışçiçeği getir.",
+    ["Progress"]="Barışçiçeği ile bu kadar çabuk mu döndün, $C?",
+    ["Completion"]="Bu kolay bir iş değildi ama yine de başarılı oldun. Ama beni etkilediğini düşünmekte acele etme, YOUR_NAME.",
+    ["minlevel"]="1",
+    ["questlevel"]="60",
+    }, -- end The Horde Needs Peacebloom!
+
+    -- The Horde Needs More Peacebloom!
+    -- Peacebloom -> Barışçiçeği
+    -- Herbalist Proudfeather -> Otçu Gururlutüy (MobNpcData.lua)
+    -- Valley of Spirits -> Ruhlar Vadisi (ZoneData.lua)
+    -- Orgrimmar -> Orgrimmar (ZoneData.lua)
+    ["8550"] = {
+    ["Title"]="Horde'un Daha Fazla Barışçiçeğine İhtiyacı Var!",
+    ["Description"]="Tekrar merhaba. Bitmek tükenmek bilmeyen barışçiçeği ihtiyacımızla ilgili olarak benimle bir kez daha konuşmak istemene sevindim. Savaş çabaları devam ediyor ve bununla birlikte gelecek savaşlarda yardımcı olacak iksir ve simya iksirleri üretimimiz de sürüyor. Bize tekrar yardım edecek misin, $C? Düzey olarak öncekiyle aynı miktarda barışçiçeğine ihtiyacım var, bu yüzden onu toplayıp buraya bana getirebilirsen çok minnettar olurum. Tabii ki halihazırda üzerinde varsa, şimdi senden kabul etmekten mutluluk duyarım.",
+    ["Objectives"]="Orgrimmar'daki Ruhlar Vadisi'nde bulunan Otçu Gururlutüy'e 20 Barışçiçeği getir.",
+    ["Progress"]="",
+    ["Completion"]="Devam eden çabaların için teşekkür ederim, YOUR_NAME. Bencil olmayan vericiliğinle kendine ve atalarına büyük onur getiriyorsun ve bu herkes tarafından bilinecek! Bu otları taze kalmaları için ihtiyaç duyulana kadar saklayacağım. Bir kez daha Horde'un en gerçek ruhunu, üstesinden gelme mücadelesini ve bunu başarmak için birlikte çalışabileceğimiz sözünü ortaya koyuyorsun.",
+    ["minlevel"]="1",
+    ["questlevel"]="60",
+    }, -- end The Horde Needs More Peacebloom!
+
+    -- Conqueror's Greaves
+    -- Qiraji -> Qiraji
+    -- Kandrostrasz -> Kandrostrasz (MobNpcData.lua)
+    -- Ahn'Qiraj -> Ahn'Qiraj (ZoneData.lua)
+    -- Brood of Nozdormu -> Nozdormu Soyu
+    ["8559"] = {
+    ["Title"]="Fatih Dizlikleri",
+    ["Description"]="Qiraji büyüsü güçlü ve kadimdir. En güçlü Qiraji üyeleri, bir ejderhayı bile duraklatacak güçte eşyalar taşırlar.\n\nBana Qiraji komuta bağlarını ve diğer küçük bileşenleri getir, sana güçlü bir çizme seti yapayım.\n\nDüşmana karşı savaşta onları yararlı bulacaksın.",
+    ["Objectives"]="Ahn'Qiraj'daki Kandrostrasz'a Qiraji Komuta Bağları, 2 Savaş Simgesi, 5 Fildişi Skarabe ve 5 Altın Skarabe getir. Bu görev ayrıca Nozdormu Soyu ile Tarafsız itibar gerektirir.",
+    ["Progress"]="İstediğim eşyaları edindin mi, YOUR_NAME?",
+    ["Completion"]="Aferin, YOUR_NAME. Sıradan bir ölümlü olmadığını kanıtladın.\n\nAşağılık Qiraji'yi ezmende sana yardımcı olacaklarına dair güvenle bunları sana veriyorum.",
+    ["minlevel"]="54",
+    ["questlevel"]="60",
+    }, -- end Conqueror's Greaves
+
+    -- Conqueror's Legguards
+    -- Ouro -> Ouro (MobNpcData.lua)
+    -- Old God -> Kadim Tanrı
+    -- Kandrostrasz -> Kandrostrasz (MobNpcData.lua)
+    -- Ahn'Qiraj -> Ahn'Qiraj (ZoneData.lua)
+    -- Brood of Nozdormu -> Nozdormu Soyu
+    ["8560"] = {
+    ["Title"]="Fatih Bacaklıkları",
+    ["Description"]="Aşağıma değerini kanıtlamak mı istiyorsun, ölümlü? Pekala, belki birbirimize karşılıklı yardımımız dokunabilir.\n\nKadim kumsolucanı Ouro, efsanevi güce sahip bir varlıktır. Yaşama bir hakaret olarak Kadim Tanrı'nın kendisi tarafından yaratıldığı söylenir.\n\nDerisi doğal değil... kalın, neredeyse delinemez, yine de esnek ve çok daha küçük bir yaratığın hızı ve zarafetiyle hareket etmesini sağlıyor.\n\nBana onun derisinden bir örnekle birlikte diğer küçük bileşenleri getir, sana büyük güce sahip bacak zırhları işleyeyim.",
+    ["Objectives"]="Ahn'Qiraj içindeki Kandrostrasz'a Ouro'nun Sağlam Postu, 2 Ölüm Simgesi, 5 Tunç Skarabe ve 5 Fildişi Skarabe getir. Bu görevi tamamlamak için Nozdormu Soyu ile de Dostane itibara ulaşmalısın.",
+    ["Progress"]="İhtiyacım olan bileşenleri getirdin mi, YOUR_NAME?",
+    ["Completion"]="Evet... solucanın postu mükemmel bir koruyucu katman oluşturacak. Buraya gelirken yok ettiğimiz Qiraji'lerin en güçlü parçalarıyla birleştiğinde, bu heybetli bir zırh parçası haline gelmeli. İçeride bekleyen tartsız dehşetlerle yüzleşmende sana yardımcı olsun!",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Conqueror's Legguards
+
+    -- Conqueror's Crown
+    -- Twin Emperors -> İkiz İmparatorlar
+    -- Arygos -> Arygos (MobNpcData.lua)
+    -- Qiraji -> Qiraji
+    -- Andorgos -> Andorgos (MobNpcData.lua)
+    -- Ahn'Qiraj -> Ahn'Qiraj (ZoneData.lua)
+    -- Brood of Nozdormu -> Nozdormu Soyu
+    ["8561"] = {
+    ["Title"]="Fatih Tacı",
+    ["Description"]="İkiz İmparatorlar... onların dinmeyen fısıltıları yavaş yavaş akıl sağlığımı bozuyor. Kardeşim Arygos'u kurtarmak için onların bölgesine daha fazla adım atamayacağımı bilerek benimle dalga geçiyorlar.\n\nGörüntülerimde onların güçlü taçlarla süslenmiş canavarca yüzlerini görüyorum. Ama intikamımı alacağım... Qiraji gücünün bu sembollerini ihtiyaçlarımıza daha uygun olanlara dönüştüreceğim.\n\nİhtiyacım olan bileşenleri bana getir, YOUR_NAME. Sana eşsiz güçte bir başlık vereceğim.",
+    ["Objectives"]="Ahn'Qiraj'daki Andorgos'a Vek'nilash'ın Taççığı, 2 Güneş Simgesi, 5 Taş Skarabe ve 5 Kristal Skarabe getir. Bu görevi tamamlamak için Nozdormu Soyu ile de Dostane itibara ulaşmalısın.",
+    ["Progress"]="İstediğim bileşenleri bana getirdin mi, YOUR_NAME?",
+    ["Completion"]="Başardın! İkiz İmparatorlar'dan gelen fısıltılar kesildi.\n\nBunu bir ödül olarak al. Sadece görünüşü bile Qiraji'nin kalplerine korku salacak... bu onlara düşen liderlerini ve onları katleden ölümlüyü hatırlatacak.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Conqueror's Crown
+
+    -- Conqueror's Breastplate
+    -- Old God -> Kadim Tanrı
+    -- Ahn'Qiraj -> Ahn'Qiraj (ZoneData.lua)
+    -- Azeroth -> Azeroth (ZoneData.lua)
+    -- Vethsera -> Vethsera (MobNpcData.lua)
+    -- Brood of Nozdormu -> Nozdormu Soyu
+    ["8562"] = {
+    ["Title"]="Fatih Göğüslüğü",
+    ["Description"]="Adı anılmaz Kadim Tanrı, Ahn'Qiraj'ın altındaki uykusundan yavaşça uyanıyor. Azeroth'u bekleyen korkunç kader günler veya yıllar içinde gelebilir; zamanın onun gücündeki varlıklar için bir anlamı yoktur.\n\nYıldızlar uygun olduğunda, korkunç bir gazapla tüm canlı varlıklara saldıracaktır. O zamandan önce onu bulmalı ve varlığına son vermenin bir yolunu bulmalısın.\n\nBunu yap ve bana onun kabuğundan bir parça getir. Sana hiçbir ölümlünün giymediği bir zırh bağışlayacağım... bir tanrıyı katletmiş birine yakışır bir zırh!",
+    ["Objectives"]="Ahn'Qiraj içindeki Vethsera'ya Kadim Tanrı'nın Zırh Kabuğu, 2 Savaş Simgesi, 5 Gümüş Skarabe ve 5 Kemik Skarabe getir. Bu görevi tamamlamak için Nozdormu Soyu ile de Onurlu itibara ulaşmalısın.",
+    ["Progress"]="Ahn'Qiraj'daki meskeninde, dehşet verici C'Thun uykuda bekliyor.",
+    ["Completion"]="Girişiminden geri dönmeni beklemiyordum, YOUR_NAME.\n\nÇoğu ölümsüz varlığınkinden daha büyük bir kaderi yerine getirdin.\n\nC'Thun'u katlederek sadece tüm Azeroth'u kurtarmakla kalmadın, aynı zamanda kavrayışının ötesindeki kozmik olayların dengesini de değiştirdin.\n\nEylemlerinin bir sonucu olarak gelecek olan ihtşamın ve yükün bir simgesi olarak bu göğüslüğü kabul et.\n\nSeni bekleyen zorluklarda gücü sana yardımcı olsun, tanrı katili!",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Conqueror's Breastplate
+
+    -- Veteran's Battlegear
+    -- Cenarion Hold -> Cenarion Hisarı (ZoneData.lua)
+    -- Vargus -> Vargus (MobNpcData.lua)
+    -- Silithus -> Silithus (ZoneData.lua)
+    -- Cenarion Circle -> Cenarion Çemberi
+    ["8572"] = {
+    ["Title"]="Kıdemlinin Savaş Teçhizatı",
+    ["Description"]="Cenarion Hisarı için muharebe, lojistik ve taktik görevleri üstlenerek topladığın nişanlar sadece gösteriş için değildir, YOUR_NAME.\n\nOnları elinde tutman akıllıca olur. Örgütümüze sadakatini kanıtladıkça, en yakın müttefiklerimize ayırdığımız teçhizatların bazılarını bu nişanlar karşılığında sana sunabilirim.",
+    ["Objectives"]="Silithus'taki Cenarion Hisarı'nda bulunan Vargus'a 7 Cenarion Muharebe Nişanı, 4 Cenarion Lojistik Nişanı ve 4 Cenarion Taktik Nişanı getir. Bu görevi tamamlayabilmek için Cenarion Çemberi ile de Onurlu itibara ulaşmalısın.",
+    ["Progress"]="En sadık müttefiklerimizi iyi teçhizatlandırılmış tutmak bizim yararımızadır, YOUR_NAME.",
+    ["Completion"]="Harika iş, YOUR_NAME. Lütfen bunu Cenarion Çemberi adına kabul et. Bunu kesinlikle hak ettin, dostum!",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Veteran's Battlegear
+
+    -- Champion's Battlegear
+    -- Cenarion Hold -> Cenarion Hisarı (ZoneData.lua)
+    -- Vargus -> Vargus (MobNpcData.lua)
+    -- Silithus -> Silithus (ZoneData.lua)
+    -- Cenarion Circle -> Cenarion Çemberi
+    ["8573"] = {
+    ["Title"]="Şampiyonun Savaş Teçhizatı",
+    ["Description"]="Cenarion Hisarı için muharebe, lojistik ve taktik görevleri üstlenerek topladığın nişanlar sadece gösteriş için değildir, YOUR_NAME.\n\nOnları elinde tutman akıllıca olur. Örgütümüze sadakatini kanıtladıkça, en yakın müttefiklerimize ayırdığımız teçhizatların bazılarını bu nişanlar karşılığında sana sunabilirim.",
+    ["Objectives"]="Silithus'taki Cenarion Hisarı'nda bulunan Vargus'a 15 Cenarion Muharebe Nişanı, 20 Cenarion Lojistik Nişanı, 20 Cenarion Taktik Nişanı ve 1 Cenarion Markası getir. Bu görevi tamamlayabilmek için Cenarion Çemberi ile de Yüce itibara ulaşmalısın.",
+    ["Progress"]="En sadık müttefiklerimizi iyi teçhizatlandırılmış tutmak bizim yararımızadır, YOUR_NAME.",
+    ["Completion"]="Harika iş, YOUR_NAME. Lütfen bunu Cenarion Çemberi adına kabul et. Bunu kesinlikle hak ettin, dostum!",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Champion's Battlegear
+
+    -- Scrying Goggles? No Problem!
+    -- Molten Core -> Erimiş Çekirdek (ZoneData.lua)
+    -- Narain Soothfancy -> Narain Tatlıkehanet (MobNpcData.lua)
+    -- Tanaris -> Tanaris (ZoneData.lua)
+    ["8578"] = {
+    ["Title"]="Kehanet Gözlükleri mi? Problem Değil!",
+    ["Description"]="<Kutudan bir rahatlama iç çekişinin yükseldiğini duyuyorsun.>\n\nSadece kehanet gözlüklerini mi istiyorsun? Harika! Bu sorun olmayacak... Bana sadece bir dakika ver... Hey! Nerede o... Lanet olsun!\n\nPekala, biraz kötü haber ve daha kötü haber var. Kötü haber gözlüğü kaybettim. Daha kötü haber ise geçen ay Erimiş Çekirdek'te burnumu sokarken kaybetmiş olmam. Evet, Erimiş Çekirdek... Sanırım işimizi bitirdik! Hoşça kal!",
+    ["Objectives"]="Narain'in Kehanet Gözlüğü'nü bul ve Tanaris'teki Narain Tatlıkehanet'e geri getir.",
+    ["Progress"]="Erimiş Çekirdek, ha? Umarım gözlüğüm tek parçadır!",
+    ["Completion"]="Muazzam! Şimdi o 500 poundluk tavuğu ve \"Aptallar İçin Ejderha Dili Cilt II\"yi nereye koydum??? Oh, ve işte tüm sıkı çalışman için küçük bir şey!",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Scrying Goggles? No Problem!
+
+    -- Mortal Champions
+    -- Ahn'Qiraj -> Ahn'Qiraj (ZoneData.lua)
+    -- C'Thun -> C'Thun (MobNpcData.lua)
+    -- Anachronos -> Anachronos (MobNpcData.lua)
+    -- Staghelm -> Staghelm (MobNpcData.lua)
+    -- Qiraji -> Qiraji
+    -- Bronze Dragonflight -> Tunç Ejderha Sürüsü
+    ["8579"] = {
+    ["Title"]="Ölümlü Şampiyonlar",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Tutsak edilmiş kardeşlerimizin varlığını Ahn'Qiraj'ın daha derinlerinde hissediyoruz; yine de bir ejderha ordusu bile onları kurtarmaya yetmezdi, YOUR_RACE.\n\nOnları hapseden büyü, C'Thun'a daha fazla yaklaşırsak bizi doğrudan onun kontrolü altına sokacaktır.\n\nKadim Tanrı gelişimize dair kehanette bulundu. Tüm umutlar tükendi. Senin gibi sıradan bir ölümlü neyi değiştirebilir ki?",
+    ["Completion"]="Sıradan bir ölümlü olmadığını görüyorum, YOUR_NAME. Kadim Tanrı'ya karşı şansın, ne kadar sonsuz küçük olursa olsun, şu noktada bizimkinden daha büyük. Sonuçta, kapısının önünde ejderhalar beklerken senin gibi birine hazırlıklı değil.\n\nTıpkı Anachronos ve Staghelm'in bin yıl önce ölümlü ve ejderha ırklarının ittifakıyla Qiraji'yi yendiği gibi, biz de bir pakt kuracağız. Tunç Ejderha Sürüsü'nün güvenini kazan, bizim de güvenimizi kazanacaksın. Ancak o zaman senden gerçek bir şampiyon yaratacağız.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Mortal Champions
+
+    -- The Horde Needs Firebloom!
+    -- Firebloom -> Ateşçiçeği
+    -- Ahn'Qiraj -> Ahn'Qiraj (ZoneData.lua)
+    -- Pele'keiki -> Pele'keiki (MobNpcData.lua)
+    -- Batrider Pele'keiki -> Yasağan Sürücüsü Pele'keiki (MobNpcData.lua)
+    -- Valley of Spirits -> Ruhlar Vadisi (ZoneData.lua)
+    -- Orgrimmar -> Orgrimmar (ZoneData.lua)
+    -- Noggle -> Noggle (MobNpcData.lua)
+    ["8580"] = {
+    ["Title"]="Horde'un Ateşçiçeğine İhtiyacı Var!",
+    ["Description"]="Hey, $c. Hey sen, dostum! Horde'un bu Ahn'Qiraj savaş çabaları için ihtiyacı olduğunu düşündüğü bir sürü ateşçiçeği var. Belki de onları patlayan güzel şeylerin içine koyuyorlar? Belki de buhar tankları için yakıt olarak İttifak'a veriyorlar? Kim bilir? Pele'keiki bilmez!\n\nPele'keiki şunu biliyor ama... ona yardım edeceğini ve bolca ateşçiçeği getireceğini biliyor, değil mi, dostum?",
+    ["Objectives"]="Orgrimmar'daki Ruhlar Vadisi'nde bulunan Yasağan Sürücüsü Pele'keiki'ye 20 Ateşçiçeği getir.",
+    ["Progress"]="Pele'keiki'yi kızdırmak istemezsin. Pele'keiki'ye çok yakında bolca ateşçiçeği getirerek onu mutlu edersin.",
+    ["Completion"]="Şans dile dostum! Umalım da Noggle'ı kurtarabilelim!",
+    ["minlevel"]="1",
+    ["questlevel"]="60",
+    }, -- end The Horde Needs Firebloom!
+
+    -- The Horde Needs More Firebloom!
+    -- Firebloom -> Ateşçiçeği
+    -- Pele'keiki -> Pele'keiki (MobNpcData.lua)
+    -- Batrider Pele'keiki -> Yasağan Sürücüsü Pele'keiki (MobNpcData.lua)
+    -- Ahn'Qiraj -> Ahn'Qiraj (ZoneData.lua)
+    -- Silithus -> Silithus (ZoneData.lua)
+    -- Valley of Spirits -> Ruhlar Vadisi (ZoneData.lua)
+    -- Orgrimmar -> Orgrimmar (ZoneData.lua)
+    ["8581"] = {
+    ["Title"]="Horde'un Daha Fazla Ateşçiçeğine İhtiyacı Var!",
+    ["Description"]="Pele'keiki yardım etmeye geldiğini biliyor. Çokça ateşçiçeği getir ve onu çok mutlu et. Pele'keiki ateşçiçekleriyle büyük bombalar yapabilir. Savaş geldiğinde Ahn'Qiraj üzerinde yasağanından böceklerin üzerine atar. Ama Pele'keiki'nin daha fazla ateşçiçeğine ihtiyacı var, $C!\n\nPele'keiki'ye o ateşçiçeklerini çok çabuk getireceksin. En az geçen seferki kadar getir, Pele'keiki memnun olsun.",
+    ["Objectives"]="Orgrimmar'daki Ruhlar Vadisi'nde bulunan Yasağan Sürücüsü Pele'keiki'ye 20 Ateşçiçeği getir.",
+    ["Progress"]="",
+    ["Completion"]="Bu şaka değil, $C? Pele'keiki'ye o kadar hızlı ateşçiçeği getirdin mi? Pele'keiki onları hemen sayıyor, dostum! Pele'keiki'yi öyle mutlu ediyorsun ki, herkese YOUR_NAME şimdiye kadarki en iyi ateşçiçeği toplayıcısı diyecek! Pele'keiki savaşın başlamasını sabırsızlıkla bekliyor. Şimdi Silithus üzerindeki gökyüzünü gerçekten aydınlatacağız, değil mi, kardeşim?!",
+    ["minlevel"]="1",
+    ["questlevel"]="60",
+    }, -- end The Horde Needs More Firebloom!
+
+    -- The Horde Needs Purple Lotus!
+    -- Purple Lotus -> Mor Nilüfer
+    -- Ahn'Qiraj -> Ahn'Qiraj (ZoneData.lua)
+    -- Apothecary Jezel -> Simyacı Jezel (MobNpcData.lua)
+    -- Valley of Spirits -> Ruhlar Vadisi (ZoneData.lua)
+    -- Orgrimmar -> Orgrimmar (ZoneData.lua)
+    ["8582"] = {
+    ["Title"]="Horde'un Mor Nilüfere İhtiyacı Var!",
+    ["Description"]="Mor nilüfer, $c, bazıları Ahn'Qiraj'da işimize yarayacak pek çok iksir, simya iksiri ve yağda bir reaktiftir. Savaş çabaları için bu iksirlerden muazzam miktarda yapmamız gerekecek. Ve nilüfer için daha fazla kullanım alanı bulmak adına ben de deneyler yapacağım. Ama tüm bunları yapmak için büyük miktarda çiçeğe ihtiyacım olacak.\n\nİşte sen burada devreye giriyorsun. Sahaya çık ve toplayabildiğin kadar çok mor nilüfer topla. Bu bizim için yapmaya istekli olduğun bir şey mi?",
+    ["Objectives"]="Orgrimmar'daki Ruhlar Vadisi'nde bulunan Simyacı Jezel'e 20 Mor Nilüfer getir.",
+    ["Progress"]="İstediğim mor nilüfer ile şimdiden döndün mü, $C? Burada denediğim her şeyin boşa gitmemesi için bunu olabildiğince zamanında yapman kritik önem taşıyor.",
+    ["Completion"]="Övgüye değer bir çaba, $C. Bu örnekleri uygun kullanımları için ölçeceğim ve katkını not edeceğim. Mor nilüferlerin daha sonra ben onlar için hazır olana kadar düzgün bir şekilde saklanması gerekecek. Sana gelince, hala müsaitsen daha fazla mor nilüfere ihtiyacım olacağını tahmin ediyorum. Lütfen birazdan bana tekrar uğra.",
+    ["minlevel"]="1",
+    ["questlevel"]="60",
+    }, -- end The Horde Needs Purple Lotus!
+
+    -- The Horde Needs More Purple Lotus!
+    -- Purple Lotus -> Mor Nilüfer
+    -- Apothecary Jezel -> Simyacı Jezel (MobNpcData.lua)
+    -- Valley of Spirits -> Ruhlar Vadisi (ZoneData.lua)
+    -- Orgrimmar -> Orgrimmar (ZoneData.lua)
+    ["8583"] = {
+    ["Title"]="Horde'un Daha Fazla Mor Nilüfere İhtiyacı Var!",
+    ["Description"]="Nitekim daha da fazla mor nilüfere ihtiyacımız var gibi görünüyor, $C. Kendi çalışmalarım ot için henüz yeni yararlı bir uygulama belirlememiş olsa da, henüz kullanılacak denenmiş ve doğru metodolojiler var.\n\nBir kez daha sahaya çıkmanı ve en az yirmi mor nilüfer örneği toplamanı istiyorum. Onları buraya bana getir.",
+    ["Objectives"]="Orgrimmar'daki Ruhlar Vadisi'nde bulunan Simyacı Jezel'e 20 Mor Nilüfer getir.",
+    ["Progress"]="Nitekim daha da fazla mor nilüfere ihtiyacımız var gibi görünüyor, $C. Kendi çalışmalarım ot için henüz yeni yararlı bir uygulama belirlememiş olsa da, henüz kullanılacak denenmiş ve doğru metodolojiler var.\n\nBir kez daha sahaya çıkmanı ve en az yirmi mor nilüfer örneği toplamanı istiyorum. Onları buraya bana getir.",
+    ["Completion"]="Mükemmel ve hassas bir iş, YOUR_NAME. Çalışkanlığın kadar çabukluğun da takdir edilmeli. Bu mor nilüferlerin hiçbirinin boşa gitmemesini şahsen sağlayacağım.\n\nTekrar teşekkürler ve daha fazla mor nilüfere denk gelirsen onları bana en büyük hızla getirmekten çekinme.",
+    ["minlevel"]="1",
+    ["questlevel"]="60",
+    }, -- end The Horde Needs More Purple Lotus!
+
+    -- The Horde Needs Heavy Leather!
+    -- Heavy Leather -> Ağır Deri
+    -- Ahn'Qiraj -> Ahn'Qiraj (ZoneData.lua)
+    -- Skinner Jamani -> Yüzücü Jamani (MobNpcData.lua)
+    -- Valley of Spirits -> Ruhlar Vadisi (ZoneData.lua)
+    -- Orgrimmar -> Orgrimmar (ZoneData.lua)
+    ["8588"] = {
+    ["Title"]="Horde'un Ağır Deriye İhtiyacı Var!",
+    ["Description"]="Savaşa hazırlandığımıza göre, önce ihtiyacımız olan tüm malları almak en iyisi olurdu, düşünmüyor musun dostum? Ürettiğimiz savaş malzemelerinin temel unsurlarından biri ağır deridir. Onu takviyeden zırha ve iyi eski sade brandalara kadar hemen hemen her şey için kullanacağız.\n\nAma önce ondan daha fazla elde etmemiz gerekiyor. Bu senin işin, $c. Bıçağını bileyle ve bana bir paket getir. Sonra daha fazla konuşuruz.",
+    ["Objectives"]="Orgrimmar'daki Ruhlar Vadisi'nde bulunan Yüzücü Jamani'ye 10 Ağır Deri getir.",
+    ["Progress"]="Sadece laf salatası yapmak için buradaysan oyunlara vaktim yok, $C. İşlenmesi gereken çok sayıda ağır deri yığını var. Benim için en az on tane olduğunda geri gel.",
+    ["Completion"]="İhtiyacım olan ağır deri yanındaymış demek. Bıçağın gerçekten keskin, $C; bunlar iyi deriler! Artık birbirimizle doğru adım attığımıza göre katkının iyi şekilde kullanılmasını sağlayacağım. Ve daha fazla ağır deriye rastlarsan bana getir.",
+    ["minlevel"]="1",
+    ["questlevel"]="60",
+    }, -- end The Horde Needs Heavy Leather!
+
+    -- The Horde Needs More Heavy Leather!
+    -- Heavy Leather -> Ağır Deri
+    -- Skinner Jamani -> Yüzücü Jamani (MobNpcData.lua)
+    -- Valley of Spirits -> Ruhlar Vadisi (ZoneData.lua)
+    -- Orgrimmar -> Orgrimmar (ZoneData.lua)
+    ["8589"] = {
+    ["Title"]="Horde'un Daha Fazla Ağır Deriye İhtiyacı Var!",
+    ["Description"]="Bu doğru, $C, hala daha fazla ağır deriye ihtiyacım var. Generallerin ve levazım subaylarının talepleri bitmek bilmiyor gibi görünüyor. Ve bu, zeplin ustalarının istediği şeyin yanında hiç kalır!\n\nKotamı acilen toplamam gerekiyor. Baekun, en kısa sürede bana daha fazla ağır deri yığını getir!",
+    ["Objectives"]="Orgrimmar'daki Ruhlar Vadisi'nde bulunan Yüzücü Jamani'ye 10 Ağır Deri getir.",
+    ["Progress"]="Bu doğru, $C, hala daha fazla ağır deriye ihtiyacım var. Generallerin ve levazım subaylarının talepleri bitmek bilmiyor gibi görünüyor. Ve bu, zeplin ustalarının istediği şeyin yanında hiç kalır!\n\nKotamı acilen toplamam gerekiyor. YOUR_NAME, en kısa sürede bana daha fazla ağır deri yığını getir!",
+    ["Completion"]="Harikasın adamım! Ağır deri için çok teşekkür ederim. Her küçük miktar bizi o kadar yaklaştırıyor. Diğer deri işleyicilerinin üzerlerinde çalışmaya başlayabilmesi için bunları bir yığına koyacağım.\n\nTekrar teşekkürler, YOUR_NAME, ve daha fazla ağır deri yığınına denk gelirsen beni nerede bulacağını biliyorsun.",
+    ["minlevel"]="1",
+    ["questlevel"]="60",
+    }, -- end The Horde Needs More Heavy Leather!
+
+    -- The Horde Needs Thick Leather!
+    -- Thick Leather -> Kalın Deri
+    -- Ahn'Qiraj War -> Ahn'Qiraj Savaşı
+    -- Sergeant Umala -> Çavuş Umala (MobNpcData.lua)
+    -- Valley of Spirits -> Ruhlar Vadisi (ZoneData.lua)
+    -- Orgrimmar -> Orgrimmar (ZoneData.lua)
+    ["8590"] = {
+    ["Title"]="Horde'un Kalın Deriye İhtiyacı Var!",
+    ["Description"]="Bu konuda benimle konuşmaya karar verdiğine sevindim, $c. Görünüşe göre Horde'un yaklaşan Ahn'Qiraj Savaşı için hazırlıkları tüm hızıyla sürüyor. Ama senin ve benim hala üzerimize düşeni yapmamız gerekiyor.\n\nHer türlü savaş malzemesinde kullanılmak üzere çok sayıda kalın deri toplamam istendi ve dışarı çıkıp onları toplayarak bana yardım etmene ihtiyacım var. Yardım etmeye karar verirsen bunda Horde'un onuru ve minnettarlığı var. Edecek misin?",
+    ["Objectives"]="Orgrimmar'daki Ruhlar Vadisi'nde bulunan Çavuş Umala'ya 10 Kalın Deri getir.",
+    ["Progress"]="$C, tartıştığımız ten kalın deri ile bu kadar çabuk mu döndün?",
+    ["Completion"]="İyi iş, $C. Bu kalın derilerin zeplinleri güçlendirmede ve her türlü zırh ve silah yapımında kullanılacağından eminim. Teşekkürlerimi kabul et, Horde'un da öyle. Yolculuklarında daha fazla kalın deriye rastlarsan tekrar gel, şans seninle olsun.",
+    ["minlevel"]="1",
+    ["questlevel"]="60",
+    }, -- end The Horde Needs Thick Leather!
+
+    -- The Horde Needs More Thick Leather!
+    -- Thick Leather -> Kalın Deri
+    -- Sergeant Umala -> Çavuş Umala (MobNpcData.lua)
+    -- Valley of Spirits -> Ruhlar Vadisi (ZoneData.lua)
+    -- Orgrimmar -> Orgrimmar (ZoneData.lua)
+    ["8591"] = {
+    ["Title"]="Horde'un Daha Fazla Kalın Deriye İhtiyacı Var!",
+    ["Description"]="Druid, gördüğün gibi hala daha fazla kalın deri toplamam gerekiyor. Bir kez daha bu görevde yardımını istiyorum ve tamamlarsan çabaların için takdir edileceğine söz veriyorum.\n\nZaman çok önemli! Kalın deri ile bana dön ki hazırlıklarımızı bitirip savaşa gidebilelim, kahraman!",
+    ["Objectives"]="Orgrimmar'daki Ruhlar Vadisi'nde bulunan Çavuş Umala'ya 10 Kalın Deri getir.",
+    ["Progress"]="$C, gördüğün gibi hala daha fazla kalın deri toplamam gerekiyor. Bir kez daha bu görevde yardımını istiyorum ve tamamlarsan çabaların için takdir edileceğine söz veriyorum.\n\nZaman çok önemli! Kalın deri ile bana dön ki hazırlıklarımızı bitirip savaşa gidebilelim, kahraman!",
+    ["Completion"]="Başardın, YOUR_NAME, yapacağını biliyordum! Bütün Horde adına bir kez daha teşekkür ederim. Çabaların not edildi ve son derece makbule geçti. Ve bağışlamak istediğin daha fazla kalın deri ile kendini bulursan onları buraya bana getir.\n\nLok'tar Ogar, $C!",
+    ["minlevel"]="1",
+    ["questlevel"]="60",
+    }, -- end The Horde Needs More Thick Leather!
+
+    -- Tiara of the Oracle
+    -- Twin Emperors -> İkiz İmparatorlar
+    -- Arygos -> Arygos (MobNpcData.lua)
+    -- Qiraji -> Qiraji
+    -- Andorgos -> Andorgos (MobNpcData.lua)
+    -- Ahn'Qiraj -> Ahn'Qiraj (ZoneData.lua)
+    -- Brood of Nozdormu -> Nozdormu Soyu
+    ["8592"] = {
+    ["Title"]="Kahin Tacı",
+    ["Description"]="İkiz İmparatorlar... onların dinmeyen fısıltıları yavaş yavaş akıl sağlığımı bozuyor. Kardeşim Arygos'u kurtarmak için onların bölgesine daha fazla adım atamayacağımı bilerek benimle dalga geçiyorlar.\n\nGörüntülerimde onların güçlü taçlarla süslenmiş canavarca yüzlerini görüyorum. Ama intikamımı alacağım... Qiraji gücünün bu sembollerini ihtiyaçlarımıza daha uygun olanlara dönüştüreceğim.\n\nİhtiyacım olan bileşenleri bana getir, YOUR_NAME. Sana eşsiz güçte bir başlık vereceğim.",
+    ["Objectives"]="Ahn'Qiraj'daki Andorgos'a Vek'nilash'ın Taççığı, 2 Bilge Simgesi, 5 Gümüş Skarabe ve 5 Kemik Skarabe getir. Bu görevi tamamlamak için Nozdormu Soyu ile de Dostane itibara ulaşmalısın.",
+    ["Progress"]="İstediğim bileşenleri bana getirdin mi, YOUR_NAME?",
+    ["Completion"]="Başardın! İkiz İmparatorlar'dan gelen fısıltılar kesildi.\n\nBunu bir ödül olarak al. Sadece görünüşü bile Qiraji'nin kalplerine korku salacak... bu onlara düşen liderlerini ve onları katleden ölümlüyü hatırlatacak.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Tiara of the Oracle
+
+    -- Trousers of the Oracle
+    -- Ouro -> Ouro (MobNpcData.lua)
+    -- Old God -> Kadim Tanrı
+    -- Kandrostrasz -> Kandrostrasz (MobNpcData.lua)
+    -- Ahn'Qiraj -> Ahn'Qiraj (ZoneData.lua)
+    -- Brood of Nozdormu -> Nozdormu Soyu
+    ["8593"] = {
+    ["Title"]="Kahin Pantolonu",
+    ["Description"]="Aşağıma değerini kanıtlamak mı istiyorsun, ölümlü? Pekala, belki birbirimize karşılıklı yardımımız dokunabilir.\n\nKadim kumsolucanı Ouro, efsanevi güce sahip bir varlıktır. Yaşama bir hakaret olarak Kadim Tanrı'nın kendisi tarafından yaratıldığı söylenir.\n\nDerisi doğal değil... kalın, neredeyse delinemez, yine de esnek ve çok daha küçük bir yaratığın hızı ve zarafetiyle hareket etmesini sağlıyor.\n\nBana onun derisinden bir örnekle birlikte diğer küçük bileşenleri getir, sana büyük güce sahip bacak zırhları işleyeyim.",
+    ["Objectives"]="Ahn'Qiraj içindeki Kandrostrasz'a Ouro'nun Sağlam Postu, 2 Yaşam Simgesi, 5 Altın Skarabe ve 5 Kil Skarabe getir. Bu görevi tamamlamak için Nozdormu Soyu ile de Dostane itibara ulaşmalısın.",
+    ["Progress"]="İhtiyacım olan bileşenleri getirdin mi, YOUR_NAME?",
+    ["Completion"]="Evet... solucanın derisi mükemmel bir koruyucu katman oluşturacak. Buraya gelirken yok ettiğimiz Qiraji'lerin en güçlü parçalarıyla birleştiğinde, bu heybetli bir zırh parçası haline gelmeli. İçeride bekleyen tarifsiz dehşetlerle yüzleşmende sana yardımcı olsun!",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Trousers of the Oracle
+
+    -- Mantle of the Oracle
+    -- Qiraji -> Qiraji
+    -- Nefarian -> Nefarian (MobNpcData.lua)
+    -- Andorgos -> Andorgos (MobNpcData.lua)
+    -- Ahn'Qiraj -> Ahn'Qiraj (ZoneData.lua)
+    -- Brood of Nozdormu -> Nozdormu Soyu
+    ["8594"] = {
+    ["Title"]="Kahin Örtüsü",
+    ["Description"]="Aramızda ölümlü ırkların taktığı süslü omuz zırhlarının bir ejderhanın kanatlarına özenme çabasıyla başladığı söylenir.\n\nBana en yüksek Qiraji liderlerinin taktığı bağları getir, ben de onları Nefarian'ın kanatlarından bile daha korkunç bir omuzluk setine dönüştüreyim!",
+    ["Objectives"]="Ahn'Qiraj'daki Andorgos'a Qiraji Komuta Bağları, 2 Yeniden Doğuş Simgesi, 5 Gümüş Skarabe ve 5 Fildişi Skarabe getir. Bu görevi tamamlamak için Nozdormu Soyu ile de Tarafsız itibara ulaşmalısın.",
+    ["Progress"]="İstediğim bileşenleri topladın mı?",
+    ["Completion"]="Getirdiğin malzemelerden ve düşmüş Qiraji düşmanlarımızın pullarından sana bu omuzlukları yapıyorum, ölümlü. İhtiyacın olan korumayı sağlasınlar ve görünümleri düşmanlarımızın kalbine korku salsın.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Mantle of the Oracle
+
+    -- Mortal Champions
+    -- Old God -> Kadim Tanrı
+    -- Anachronos -> Anachronos (MobNpcData.lua)
+    -- Staghelm -> Staghelm (MobNpcData.lua)
+    -- Qiraji -> Qiraji
+    -- Bronze Dragonflight -> Tunç Ejderha Sürüsü
+    ["8595"] = {
+    ["Title"]="Ölümlü Şampiyonlar",
+    ["Description"]="Sıradan bir ölümlü olmadığını görüyorum, YOUR_NAME. Kadim Tanrı'ya karşı şansın, ne kadar sonsuz küçük olursa olsun, şu noktada bizimkinden daha büyük. Sonuçta, kapısının önünde ejderhalar beklerken senin gibi birine hazırlıklı değil.\n\nTıpkı Anachronos ve Staghelm'in bin yıl önce ölümlü ve ejderha ırklarının ittifakıyla Qiraji'yi yendiği gibi, biz de bir pakt kuracağız. Tunç Ejderha Sürüsü'nün güvenini kazan, bizim de güvenimizi kazanacaksın. Ancak o zaman senden gerçek bir şampiyon yaratacağız.",
+    ["Objectives"]="",
+    ["Progress"]="Bir Qiraji lordunu öldürmek bir ölümlü için kayda değer bir başarıdır, YOUR_NAME. Ancak onlar sayıca çok ve güçlüler. Şampiyonumuz olarak değerini kanıtlamak için onları yenmeye devam et.",
+    ["Completion"]="Bize iyi hizmet etmeye devam ediyorsun, YOUR_NAME. Paktımız geçerliliğini koruyor.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Mortal Champions
+
+    -- Footwraps of the Oracle
+    -- Qiraji -> Qiraji
+    -- Kandrostrasz -> Kandrostrasz (MobNpcData.lua)
+    -- Ahn'Qiraj -> Ahn'Qiraj (ZoneData.lua)
+    -- Brood of Nozdormu -> Nozdormu Soyu
+    ["8596"] = {
+    ["Title"]="Kahin Sargıları",
+    ["Description"]="Qiraji büyüsü güçlü ve kadimdir. En güçlü Qiraji üyeleri, bir ejderhayı bile duraklatacak güçte eşyalar taşırlar.\n\nBana Qiraji komuta bağlarını ve diğer küçük bileşenleri getir, sana güçlü bir çizme seti yapayım.\n\nDüşmana karşı savaşta onları yararlı bulacaksın.",
+    ["Objectives"]="Ahn'Qiraj'daki Kandrostrasz'a Qiraji Komuta Bağları, 2 Ölüm Simgesi, 5 Tunç Skarabe ve 5 Altın Skarabe getir. Bu görev ayrıca Nozdormu Soyu ile Tarafsız itibar gerektirir.",
+    ["Progress"]="İstediğim eşyaları edindin mi, YOUR_NAME?",
+    ["Completion"]="Aferin, YOUR_NAME. Sıradan bir ölümlü olmadığını kanıtladın.\n\nAşağılık Qiraji'yi ezmende sana yardımcı olacaklarına dair güvenle bunları sana veriyorum.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Footwraps of the Oracle
+
+    -- The Horde Needs Rugged Leather!
+    -- Rugged Leather -> Sert Deri
+    -- Ahn'Qiraj War -> Ahn'Qiraj Savaşı
+    -- Doctor Serratus -> Doktor Serratus (MobNpcData.lua)
+    -- Valley of Spirits -> Ruhlar Vadisi (ZoneData.lua)
+    -- Orgrimmar -> Orgrimmar (ZoneData.lua)
+    ["8600"] = {
+    ["Title"]="Horde'un Sert Deriye İhtiyacı Var!",
+    ["Description"]="Bıçağın avucuna oturmasının üzerindeki keskinlikten daha önemli olduğunu düşünüyorum. En körelmiş bıçak bile üzerinden düzgün basınç uygulanırsa kesebilir, katılmıyor musun, $c? Ama seninle benim böyle sorunlarımız yok çünkü en keskin kenarları koruyoruz, değil mi?\n\nHer neyse, bir görevim var senin için. Horde'a hizmet etmek ve Ahn'Qiraj savaş çabalarına düşen payı yapmak adına bana çok sayıda sert deri ile dönmeni istiyorum. Bu yapacağın bir şey, değil mi?",
+    ["Objectives"]="Orgrimmar'daki Ruhlar Vadisi'nde bulunan Doktor Serratus'a 10 Sert Deri getir.",
+    ["Progress"]="Benim için ten sert deriyi dilimlemek bu kadar uzun sürmüş olamaz! Belki de yüzme bıçağını bileylemelisin? Ya da belki yanılıyorumdur ve onlar çantandadır?",
+    ["Completion"]="Çok güzel, oldukça iyi bir iş çıkarmışsın gibi görünüyor, ancak o derilerin bazıları kenarlardan biraz püsküllü görünüyor. Önemi yok, görev tamamlandı ve ödülünü kazandın. Başka bir sert deri yığınına denk gelirsen onları bana acilen getirdiğinden emin ol.",
+    ["minlevel"]="1",
+    ["questlevel"]="60",
+    }, -- end The Horde Needs Rugged Leather!
+
+    -- The Horde Needs More Rugged Leather!
+    -- Rugged Leather -> Sert Deri
+    -- Ahn'Qiraj -> Ahn'Qiraj (ZoneData.lua)
+    -- Doctor Serratus -> Doktor Serratus (MobNpcData.lua)
+    -- Valley of Spirits -> Ruhlar Vadisi (ZoneData.lua)
+    -- Orgrimmar -> Orgrimmar (ZoneData.lua)
+    ["8601"] = {
+    ["Title"]="Horde'un Daha Fazla Sert Deriye İhtiyacı Var!",
+    ["Description"]="Ahn'Qiraj'daki yaklaşan savaş için hazırlıklar ilerliyor, $C. Ancak geride kalmadığımızdan ya da en azından geride kalmamıza sebep olan kişinin ben olmadığımdan emin olmak için başka bir sert deri yığını getirmeni istiyorum. Bu konudaki hızlı ilgin son derece makbule geçecektir, YOUR_NAME.",
+    ["Objectives"]="Orgrimmar'daki Ruhlar Vadisi'nde bulunan Doktor Serratus'a 10 Sert Deri getir.",
+    ["Progress"]="Ahn'Qiraj'daki yaklaşan savaş için hazırlıklar ilerliyor, $C. Ancak geride kalmadığımızdan ya da en azından geride kalmamıza sebep olan kişinin ben olmadığımdan emin olmak için başka bir sert deri yığını getirmeni istiyorum. Bu konudaki hızlı ilgin son derece makbule geçecektir, YOUR_NAME.",
+    ["Completion"]="Pratik, pratik, pratik. İyi bilenmiş bir bıçak ve onu kullanma becerisi seni bu dünyada uzağa götürür, YOUR_NAME. Görünüşe göre bu derilerin kenarları sonuncusundan daha iyi. Yeni bir bıçak mı aldın?\n\nHer durumda, çabaların için teşekkür ederiz. Bağışın not edildi ve iyi şekilde kullanılacağından emin olabilirsin. Kendini daha fazla sert deriye sahip bulursan geri gelip benimle konuştuğundan emin ol, çünkü muhtemelen ona ihtiyacım olacak.",
+    ["minlevel"]="1",
+    ["questlevel"]="60",
+    }, -- end The Horde Needs More Rugged Leather!
+
+    -- Stormcaller's Pauldrons
+    -- Qiraji -> Qiraji
+    -- Nefarian -> Nefarian (MobNpcData.lua)
+    -- Andorgos -> Andorgos (MobNpcData.lua)
+    -- Ahn'Qiraj -> Ahn'Qiraj (ZoneData.lua)
+    -- Brood of Nozdormu -> Nozdormu Soyu
+    ["8602"] = {
+    ["Title"]="Fırtınaçağıran Omuzlukları",
+    ["Description"]="Aramızda ölümlü ırkların taktığı süslü omuz zırhlarının bir ejderhanın kanatlarına özenme çabasıyla başladığı söylenir.\n\nBana en yüksek Qiraji liderlerinin taktığı bağları getir, ben de onları Nefarian'ın kanatlarından bile daha korkunç bir omuzluk setine dönüştüreyim!",
+    ["Objectives"]="Ahn'Qiraj'daki Andorgos'a Qiraji Hükmetme Bağları, 2 Yaşam Simgesi, 5 Altın Skarabe ve 5 Kristal Skarabe getir. Bu görevi tamamlamak için Nozdormu Soyu ile de Tarafsız itibara ulaşmalısın.",
+    ["Progress"]="İstediğim bileşenleri topladın mı?",
+    ["Completion"]="Getirdiğin malzemelerden ve düşmüş Qiraji düşmanlarımızın pullarından sana bu omuzlukları yapıyorum, ölümlü. İhtiyacın olan korumayı sağlasınlar ve görünümleri düşmanlarımızın kalbine korku salsın.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Stormcaller's Pauldrons
+
+    -- Vestments of the Oracle
+    -- Old God -> Kadim Tanrı
+    -- Ahn'Qiraj -> Ahn'Qiraj (ZoneData.lua)
+    -- Azeroth -> Azeroth (ZoneData.lua)
+    -- Vethsera -> Vethsera (MobNpcData.lua)
+    -- Brood of Nozdormu -> Nozdormu Soyu
+    ["8603"] = {
+    ["Title"]="Kahin Cüppeleri",
+    ["Description"]="Adı anılmaz Kadim Tanrı, Ahn'Qiraj'ın altındaki uykusundan yavaşça uyanıyor. Azeroth'u bekleyen korkunç kader günler veya yıllar içinde gelebilir; zamanın onun gücündeki varlıklar için bir anlamı yoktur.\n\nYıldızlar uygun olduğunda, korkunç bir gazapla tüm canlı varlıklara saldıracaktır. O zamandan önce onu bulmalı ve varlığına son vermenin bir yolunu bulmalısın.\n\nBunu yap ve bana onun kabuğundan bir parça getir. Sana hiçbir ölümlünün giymediği bir zırh bağışlayacağım... bir tanrıyı katletmiş birine yakışır bir zırh!",
+    ["Objectives"]="Ahn'Qiraj içindeki Vethsera'ya Kadim Tanrı'nın Kabuğu, 2 Ölüm Simgesi, 5 Taş Skarabe ve 5 Kristal Skarabe getir. Bu görevi tamamlamak için Nozdormu Soyu ile de Onurlu itibara ulaşmalısın.",
+    ["Progress"]="Ahn'Qiraj'daki meskeninde, dehşet verici C'Thun uykuda bekliyor.",
+    ["Completion"]="Girişiminden geri dönmeni beklemiyordum, YOUR_NAME.\n\nÇoğu ölümsüz varlığınkinden daha büyük bir kaderi yerine getirdin.\n\nC'Thun'u katlederek sadece tüm Azeroth'u kurtarmakla kalmadın, aynı zamanda kavrayışının ötesindeki kozmik olayların dengesini de değiştirdin.\n\nEylemlerinin bir sonucu olarak gelecek olan ihtişamın ve yükün bir simgesi olarak bu cüppeleri kabul et.\n\nGüçleri seni bekleyen zorluklarda sana yardımcı olsun, tanrı katili!",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Vestments of the Oracle
+
+    -- The Horde Needs Wool Bandages!
+    -- Wool Bandages -> Yün Sargı Bezleri
+    -- Ahn'Qiraj -> Ahn'Qiraj (ZoneData.lua)
+    -- Healer Longrunner -> Şifacı Uzunkoşucu (MobNpcData.lua)
+    -- Valley of Spirits -> Ruhlar Vadisi (ZoneData.lua)
+    -- Orgrimmar -> Orgrimmar (ZoneData.lua)
+    ["8604"] = {
+    ["Title"]="Horde'un Yün Sargı Bezlerine İhtiyacı Var!",
+    ["Description"]="Selamlar, $c. Ahn'Qiraj'daki savaşa hazırlık olarak, Horde'un yün sargı bezi toplama çabalarını burada koordine ediyorum. Ne yazık ki, sahada askerlerimiz onları hayatta tutmak için bir şifacının varlığına güvenmeyi göze alamazlar. Güven bana, bunu bizzat biliyorum. Bu nedenle onlar için tüm bu ilk yardım kitlerini bir araya getiriyoruz.\n\nVaktin varsa çok sayıda yün sargı bezine ihtiyacım var. Onları buraya bana getir, ben de düzgün bir şekilde ödüllendirilmeni sağlayayım.",
+    ["Objectives"]="Orgrimmar'daki Ruhlar Vadisi'nde bulunan Şifacı Uzunkoşucu'ya 20 Yün Sargı Bezi getir.",
+    ["Progress"]="Ah, $C, yün sargı bezleriyle bu kadar çabuk mu döndün?",
+    ["Completion"]="İçten teşekkürlerimi sunarım. Cenarion Hisarı'na yardım etme çabaların gerçek cesaret gösterdi.",
+    ["minlevel"]="1",
+    ["questlevel"]="60",
+    }, -- end The Horde Needs Wool Bandages!
+
+    -- The Horde Needs More Wool Bandages!
+    -- Wool Bandages -> Yün Sargı Bezleri
+    -- Healer Longrunner -> Şifacı Uzunkoşucu (MobNpcData.lua)
+    -- Valley of Spirits -> Ruhlar Vadisi (ZoneData.lua)
+    -- Orgrimmar -> Orgrimmar (ZoneData.lua)
+    ["8605"] = {
+    ["Title"]="Horde'un Daha Fazla Yün Sargı Bezine İhtiyacı Var!",
+    ["Description"]="Seni tekrar görmek güzel, $C. Burada savaş çabaları için hala hazırlıklar üzerinde çalışıyoruz ve yün sargı bezleri toplamada verebileceğin tüm yardımı hala kullanabilirim. Her türlü yardım son derece makbule geçecektir. Sadece çabalarımızın yeterince iyi olacağını umuyorum. Bunun tekrar yaşanmamasını sağlamak için elimden gelen her şeyi yapmamak adına dünün savaş alanlarında çok fazla soylu ruh kaybettim.",
+    ["Objectives"]="Orgrimmar'daki Ruhlar Vadisi'nde bulunan Şifacı Uzunkoşucu'ya 20 Yün Sargı Bezi getir.",
+    ["Progress"]="",
+    ["Completion"]="Onurlu bir $C kişisisin, YOUR_NAME! Bu sargı bezlerinin doğru ellere geçmesini sağlayacağım. Teşekkürlerimi kabul et, Horde'un da öyle.\n\nHuzurla git ve kendini fazla yün sargı bezi ile bulursan bana tekrar dön. Burada alabileceğimiz tüm yardımı kullanabiliriz.",
+    ["minlevel"]="1",
+    ["questlevel"]="60",
+    }, -- end The Horde Needs More Wool Bandages!
+
+    -- The Horde Needs Mageweave Bandages!
+    -- Mageweave Bandages -> Büyüdokuma Sargı Bezleri
+    -- Lady Callow -> Leydi Callow (MobNpcData.lua)
+    -- Valley of Spirits -> Ruhlar Vadisi (ZoneData.lua)
+    -- Orgrimmar -> Orgrimmar (ZoneData.lua)
+    ["8607"] = {
+    ["Title"]="Horde'un Büyüdokuma Sargı Bezlerine İhtiyacı Var!",
+    ["Description"]="Bana emanet edilen toplamaya yardım edeceğin için benimle konuştuğuna inanıyorum? Güzel! Her ne şekilde olursa olsun, ve her ne şekilde derken ne olursa olsun demek istiyorum, iyi sayıda büyüdokuma sargı bezi toplamanı istiyorum. Taze olması güzel olurdu ama kesinlikle gerekli değil. Onları buraya bana getir, $c, ben de düzgün bir şekilde ödüllendirilmeni şahsen sağlayayım.",
+    ["Objectives"]="Orgrimmar'daki Ruhlar Vadisi'nde bulunan Leydi Callow'a 20 Büyüdokuma Sargı Bezi getir.",
+    ["Progress"]="Başarısız olup beni kötü duruma düşürme, $C! Tartıştığımız büyüdokuma sargı bezleri ile olabildiğince hızlı bir şekilde buraya dön.",
+    ["Completion"]="Şaşırtıcı ama kabul edilebilir. Belki de senin 'yeteneklerini' hafife almışımdır, $C. Belki. Çok basit bir görevi tamamladın ve bunu yaptığın için orantısız bir şekilde ödüllendirileceksin. Ama bunun gurur yapmasına izin verme. Gerçekten kendini kanıtlamak istiyorsan dışarı çıkıp bana başka bir büyüdokuma sargı bezi paketi getirmelisin.",
+    ["minlevel"]="1",
+    ["questlevel"]="60",
+    }, -- end The Horde Needs Mageweave Bandages!
+
+    -- The Horde Needs More Mageweave Bandages!
+    -- Mageweave Bandages -> Büyüdokuma Sargı Bezleri
+    -- Ahn'Qiraj -> Ahn'Qiraj (ZoneData.lua)
+    -- Lady Callow -> Leydi Callow (MobNpcData.lua)
+    -- Valley of Spirits -> Ruhlar Vadisi (ZoneData.lua)
+    -- Orgrimmar -> Orgrimmar (ZoneData.lua)
+    ["8608"] = {
+    ["Title"]="Horde'un Daha Fazla Büyüdokuma Sargı Bezine İhtiyacı Var!",
+    ["Description"]="Döndün mü? İlginç. Görebildiğin gibi Ahn'Qiraj 'savaş çabaları' için hala toplama yapıyorum. Bu da benim için bir kez daha dışarı çıkıp bir büyüdokuma sargı bezi yığını toplaman gerektiği anlamına geliyor. Dönüşünü sabırsızlıkla bekliyorum, $C.",
+    ["Objectives"]="Orgrimmar'daki Ruhlar Vadisi'nde bulunan Leydi Callow'a 20 Büyüdokuma Sargı Bezi getir.",
+    ["Progress"]="Döndün mü? İlginç. Görebildiğin gibi Ahn'Qiraj 'savaş çabaları' için hala toplama yapıyorum. Bu da benim için bir kez daha dışarı çıkıp bir büyüdokuma sargı bezi yığını toplaman gerektiği anlamına geliyor. Dönüşünü sabırsızlıkla bekliyorum, $C.",
+    ["Completion"]="Hayret verici, $C, aslında bunu tekrar başardın! Eh, hizmetime almayı seçtiğim kişiler konusunda iyi bir zevke sahip olduğumu söylerler. Çok iyi, katkın not edildi ve çabalarının sağladığı sosyal faydaları alacaksın. Yine de değerini gerçekten kanıtlamak istiyorsan geri dönüp bir büyüdokuma sargı bezi paketi daha toplamanı öneririm.",
+    ["minlevel"]="1",
+    ["questlevel"]="60",
+    }, -- end The Horde Needs More Mageweave Bandages!
+
+    -- The Horde Needs Runecloth Bandages!
+    -- Ahn'Qiraj -> Ahn'Qiraj (ZoneData.lua)
+    -- Runecloth Bandages -> Rünlü Kumaş Sargı Bezleri
+    -- Stoneguard Clayhoof -> Taşmuhafızı Kiltoynak (MobNpcData.lua)
+    -- Valley of Spirits -> Ruhlar Vadisi (ZoneData.lua)
+    -- Orgrimmar -> Orgrimmar (ZoneData.lua)
+    ["8609"] = {
+    ["Title"]="Horde'un Rünlü Kumaş Sargı Bezlerine İhtiyacı Var!",
+    ["Description"]="Horde ve İttifak'ın Ahn'Qiraj'da savaş için bir çarpışma rotasında olduğu kaçınılmaz görünüyor. Şaşırtıcı bir şekilde, bu birbirleriyle olan bir savaş değil, daha ziyade silitidlerle ve onları kontrol eden güç ne olursa olsun onunla olan bir savaştır. Yine şaşırtıcı bir şekilde, her iki taraf da başarılı bir savaş yürütmek için gerekli kaynakları toplamak üzere üzerine düşeni yapıyor.\n\nAskerlere dağıtmak için rünlü kumaş sargı bezleri topluyorum ama yardım olmadan, umarım senin yardımınla, başarılı olamayacağım. Bu bana yardım edebileceğin bir şey mi, $c?",
+    ["Objectives"]="Orgrimmar'daki Ruhlar Vadisi'nde bulunan Taşmuhafızı Kiltoynak'a 20 Rünlü Kumaş Sargı Bezi getir.",
+    ["Progress"]="Savaş yakında geliyor sanırım, $C. Toplama görevlerimize yardım etmeye ayırdığın zaman ve çaba için teşekkür ederim. Daha önce bahsettiğimiz rünlü kumaş sargı bezlerini elde ettiğin için mi döndün?",
+    ["Completion"]="Şahane, aldın!",
+    ["minlevel"]="1",
+    ["questlevel"]="60",
+    }, -- end The Horde Needs Runecloth Bandages!
+
+    -- The Horde Needs More Runecloth Bandages!
+    -- Ahn'Qiraj -> Ahn'Qiraj (ZoneData.lua)
+    -- Runecloth Bandages -> Rünlü Kumaş Sargı Bezleri
+    -- Stoneguard Clayhoof -> Taşmuhafızı Kiltoynak (MobNpcData.lua)
+    -- Valley of Spirits -> Ruhlar Vadisi (ZoneData.lua)
+    -- Orgrimmar -> Orgrimmar (ZoneData.lua)
+    ["8610"] = {
+    ["Title"]="Horde'un Daha Fazla Rünlü Kumaş Sargı Bezine İhtiyacı Var!",
+    ["Description"]="Ahn'Qiraj'daki yangına kendimizi balıklama atacağımız zaman her geçen gün daha da yaklaşıyor, rahip. Ama önce gücümüzü toplamalı ve hazırlanmalıyız ki böceklerin ve efendilerinin saldırısından sağ çıkabilelim.\n\nBurada tekrar bulunuyorsan, şüphesiz savaş çabalarına rünlü kumaş sargı bezlerinden başka bir katkıda bulunmak istiyorsun? Lütfen en kısa sürede bunu yap ve bir kez daha bana dön.",
+    ["Objectives"]="Orgrimmar'daki Ruhlar Vadisi'nde bulunan Taşmuhafızı Kiltoynak'a 20 Rünlü Kumaş Sargı Bezi getir.",
+    ["Progress"]="",
+    ["Completion"]="Gerçekleştirdiğin çok fedakarca bir verme eylemi, YOUR_NAME. Ahn'Qiraj'daki birçok savaşçının hayatını kurtarması muhtemel bir eylem. Teşekkür ederim ve bağışın için Horde'un minnettarlığına sahip olduğunu bil. Daha fazla rünlü kumaş sargı bezi yaparsan veya denk gelirsen, lütfen onları buraya bana getirmeyi düşün.",
+    ["minlevel"]="1",
+    ["questlevel"]="60",
+    }, -- end The Horde Needs More Runecloth Bandages!
+
+    -- The Horde Needs Lean Wolf Steaks!
+    -- Lean Wolf Steaks -> Yağsız Kurt Biftekleri
+    -- Ahn'Qiraj -> Ahn'Qiraj (ZoneData.lua)
+    -- Bloodguard Rawtar -> Kanmuhafızı Rawtar (MobNpcData.lua)
+    -- Valley of Spirits -> Ruhlar Vadisi (ZoneData.lua)
+    -- Orgrimmar -> Orgrimmar (ZoneData.lua)
+    ["8611"] = {
+    ["Title"]="Horde'un Yağsız Kurt Bifteklerine İhtiyacı Var!",
+    ["Description"]="Burada sadece güzelce bronzlaşmak için durmuyorum, $c. Yapılması gereken savaş hazırlıkları var. Ahn'Qiraj'daki o böcekleri ezeceksek hazır olmamız gerekiyor ve buna yiyecek de dahil!\n\nYaklaşan savaş için burada yağsız kurt biftekleri topluyor ve tuzluyorum. Ama tüm bunlarla ilgilenmek için burada kalmam gerektiğinden, dışarı çıkmanı, biraz kurt öldürmeni ve ardından etleri pişirip yağsız kurt bifteği yapmanı ve onları buraya bana getirmeni istiyorum. Hepsini anladın mı?",
+    ["Objectives"]="Orgrimmar'daki Ruhlar Vadisi'nde bulunan Kanmuhafızı Rawtar'a 20 Yaşsız Kurt Bifteği getir.",
+    ["Progress"]="O yağsız kurt biftekleri ile bu kadar çabuk mu döndün, $C? Fazla pişmiş mi yoksa tartar mı oldukları umurumda değil, sadece lezzetli olduklarından emin ol ve onları bana çabuk getir!",
+    ["Completion"]="Tamam, bu et yığını bana iyi görünüyor. Onları tuzlayacağım, sonra paketleyeceğim ve umarım zamanı geldiğinde yenilebilir kalacak kadar taze kalırlar.\n\nKatkın için teşekkürler, $C. Bana bir raf daha getirebileceğini düşünüyor musun?",
+    ["minlevel"]="1",
+    ["questlevel"]="60",
+    }, -- end The Horde Needs Lean Wolf Steaks!
+
+    -- The Horde Needs More Lean Wolf Steaks!
+    -- Lean Wolf Steaks -> Yağsız Kurt Biftekleri
+    -- Bloodguard Rawtar -> Kanmuhafızı Rawtar (MobNpcData.lua)
+    -- Valley of Spirits -> Ruhlar Vadisi (ZoneData.lua)
+    -- Orgrimmar -> Orgrimmar (ZoneData.lua)
+    ["8612"] = {
+    ["Title"]="Horde'un Daha Fazla Yağsız Kurt Bifteğine İhtiyacı Var!",
+    ["Description"]="Gördüğün gibi, $C, askerler için hala daha fazla yiyecek paketlememiz gerekiyor. Daha önce bir savaşta bulundun mu bilmiyorum ama savaş alanının ilk şokunu atlattıktan sonra oldukça acıkabilirsin. Geçen sefer iyi bir iş çıkardın, bu yüzden bana o yağsız kurt bifteklerinden bir yığın daha getirmede biraz daha hızlı olmasan bile en az o kadar iyi yapacağını umuyorum.",
+    ["Objectives"]="Orgrimmar'daki Ruhlar Vadisi'nde bulunan Kanmuhafızı Rawtar'a 20 Yağsız Kurt Bifteği getir.",
+    ["Progress"]="Gördüğün gibi, $C, askerler için hala daha fazla yiyecek paketlememiz gerekiyor. Daha önce bir savaşta bulundun mu bilmiyorum ama savaş alanının ilk şokunu atlattıktan sonra oldukça acıkabilirsin. Geçen sefer iyi bir iş çıkardın, bu yüzden bana o yağsız kurt bifteklerinden bir yığın daha getirmede biraz daha hızlı olmasan bile en az o kadar iyi yapacağını umuyorum.",
+    ["Completion"]="Senin ya da tanıdığın birinin oldukça iyi bir aşçı olduğu kokuyor, YOUR_NAME. O yağsız kurt biftekleri ağzımı sulandırıyor; sanırım birkaç tanesinin kaybolması fark edilmeyecektir. Her neyse, iyi iş. Çok fazla bozulmamaları için birinin onları doğru şekilde paketlemesini sağlayacağım.\n\nDaha fazlasına denk gelirsen beni nerede bulacağını biliyorsun.",
+    ["minlevel"]="1",
+    ["questlevel"]="60",
+    }, -- end The Horde Needs More Lean Wolf Steaks!
+
+    -- The Horde Needs Spotted Yellowtail!
+    -- Spotted Yellowtail -> Benekli Sarıkuyruk
+    -- Ahn'Qiraj -> Ahn'Qiraj (ZoneData.lua)
+    -- Fisherman Lin'do -> Balıkçı Lin'do (MobNpcData.lua)
+    -- Valley of Spirits -> Ruhlar Vadisi (ZoneData.lua)
+    -- Orgrimmar -> Orgrimmar (ZoneData.lua)
+    -- Korrin -> Korrin (MobNpcData.lua)
+    -- Feralas -> Feralas (ZoneData.lua)
+    ["8613"] = {
+    ["Title"]="Horde'un Benekli Sarıkuyruğa İhtiyacı Var!",
+    ["Description"]="Balık tutmak için güzel bir gün, düşünmüyor musun dostum? İyi bir şey, çünkü çok balığa ihtiyacım var gibi görünüyor. Horde, onlar için tonlarca benekli sarıkuyruk toplamanın başına geçmemi istiyor. Ahn'Qiraj'da hazırlandıkları savaş için buna ihtiyaçları olduğunu söylüyorlar. Onlara elimden gelenin en iyisini yapacağımı söylüyorum. Bu yüzden biraz yardım almaya ihtiyacım var. Bana yardım edecek misin, $c?",
+    ["Objectives"]="Orgrimmar'daki Ruhlar Vadisi'nde bulunan Balıkçı Lin'do'ya 20 Benekli Sarıkuyruk getir.",
+    ["Progress"]="Peri ejderleri kışkırtıldıklarında tehlikeli yaratıklar olabilirler. Onlarla ilgilenirken dikkatli ol, $C. Ve bölgedeki gece elflerine karşı daha da dikkatli ol. O rahatsız edici aptallar da ormanlarda tutunma eğilimindedir.\n\nYeterince kanat aldığında bana haber ver, seni iyi ödüllendireceğimden emin olacağım!",
+    ["Completion"]="Harika, $C! Bunlar gayet iyi iş görecek. Burada Korrin için bir pelerin yapmaya yetecek kadar var, hatta belki daha fazlası! Teşekkür ederim.\n\nUmarım yolculuk çok tehlikeli geçmemiştir? Feralas bölgesi bağışlayıcı olmasıyla bilinmez ama sen açıkça yeterince iyi iş çıkardın.\n\nTekrar teşekkürler, $C.",
+    ["minlevel"]="1",
+    ["questlevel"]="60",
+    }, -- end The Horde Needs Spotted Yellowtail!
+
+    -- The Horde Needs More Spotted Yellowtail!
+    -- Spotted Yellowtail -> Benekli Sarıkuyruk
+    -- Ahn'Qiraj War -> Ahn'Qiraj Savaşı
+    -- Fisherman Lin'do -> Balıkçı Lin'do (MobNpcData.lua)
+    -- Valley of Spirits -> Ruhlar Vadisi (ZoneData.lua)
+    -- Orgrimmar -> Orgrimmar (ZoneData.lua)
+    ["8614"] = {
+    ["Title"]="Horde'un Daha Fazla Benekli Sarıkuyruğa İhtiyacı Var!",
+    ["Description"]="Gördüğün gibi hala çok fazla balığa ihtiyacımız var. Yaklaşan Ahn'Qiraj Savaşı'ndaki savaşçıların yiyecek çok şeye ihtiyacı olacak, bu yüzden alabileceğim tüm benekli sarıkuyrukları almam gerekiyor. Onları yakala, pişir ve buraya bana geri getir, ben de sana teşekkürlerimi ve Horde'un teşekkürlerini sunayım.",
+    ["Objectives"]="Orgrimmar'daki Ruhlar Vadisi'nde bulunan Balıkçı Lin'do'ya 20 Benekli Sarıkuyruk getir.",
+    ["Progress"]="",
+    ["Completion"]="Şimdiye kadarki en iyi av bu oldu, YOUR_NAME! Mükemmel, dürüst çalışma. Ve kılçık da yok! Buradaki bu benekli sarıkuyruk için sana teşekkürlerimi sunuyorum dostum. Biraz daha pişirirsen yakında tekrar gel!",
+    ["minlevel"]="1",
+    ["questlevel"]="60",
+    }, -- end The Horde Needs More Spotted Yellowtail!
+
+    -- The Horde Needs Baked Salmon!
+    -- Baked Salmon -> Pişmiş Somon
+    -- Ahn'Qiraj -> Ahn'Qiraj (ZoneData.lua)
+    -- Chief Sharpclaw -> Şef Keskinpençe (MobNpcData.lua)
+    -- Valley of Spirits -> Ruhlar Vadisi (ZoneData.lua)
+    -- Orgrimmar -> Orgrimmar (ZoneData.lua)
+    -- Korrin -> Korrin (MobNpcData.lua)
+    -- Feralas -> Feralas (ZoneData.lua)
+    ["8615"] = {
+    ["Title"]="Horde'un Pişmiş Somona İhtiyacı Var!",
+    ["Description"]="Ahn'Qiraj savaş çabası muazzam bir girişimdir, $c. Burada toplanan tüm malzemeler, ister silahlar için metal ister yiyecek yemek olsun, hepsi diğeri kadar önemlidir. Çünkü günlerdir yemek yemediysen zamanı geldiğinde baltanı kaldıracak gücün kalmaz.\n\nBu yüzden elimizden gelen yiyeceği topluyoruz. Hem besleyiciliği hem de iyi saklanabilmesi nedeniyle seçilen bir yemek olan pişmiş somon topluyorum. Bu görevde bana yardım edebilir misin, $c?",
+    ["Objectives"]="Orgrimmar'daki Ruhlar Vadisi'nde bulunan Şef Keskinpençe'ye 20 Pişmiş Somon getir.",
+    ["Progress"]="Peri ejderleri kışkırtıldıklarında tehlikeli yaratıklar olabilirler. Onlarla ilgilenirken dikkatli ol, $C. Ve bölgedeki gece elflerine karşı daha da dikkatli ol. O rahatsız edici aptallar da ormanlarda tutunma eğilimindedir.\n\nYeterince kanat aldığında bana haber ver, seni iyi ödüllendireceğimden emin olacağım!",
+    ["Completion"]="Harika, $C! Bunlar gayet iyi iş görecek. Burada Korrin için bir pelerin yapmaya yetecek kadar var, hatta belki daha fazlası! Teşekkür ederim.\n\nUmarım yolculuk çok tehlikeli geçmemiştir? Feralas bölgesi bağışlayıcı olmasıyla bilinmez ama sen açıkça yeterince iyi iş çıkardın.\n\nTekrar teşekkürler, $C.",
+    ["minlevel"]="1",
+    ["questlevel"]="60",
+    }, -- end The Horde Needs Baked Salmon!
+
+    -- The Horde Needs More Baked Salmon!
+    -- Baked Salmon -> Pişmiş Somon
+    -- Chief Sharpclaw -> Şef Keskinpençe (MobNpcData.lua)
+    -- Valley of Spirits -> Ruhlar Vadisi (ZoneData.lua)
+    -- Orgrimmar -> Orgrimmar (ZoneData.lua)
+    ["8616"] = {
+    ["Title"]="Horde'un Daha Fazla Pişmiş Somona İhtiyacı Var!",
+    ["Description"]="Savaş çabalarına bağışladığın son pişmiş somon partisi çok lezzetli görünüyordu, $C. Kendim için birkaç tane almaya özenmediğimi itiraf etmeliyim. Anlayabileceğin gibi, burada henüz kotamıza ulaşamadık. Yanında başka bir pişmiş somon yığınıyla döndüğünü umuyorum.",
+    ["Objectives"]="Orgrimmar'daki Ruhlar Vadisi'nde bulunan Şef Keskinpençe'ye 20 Pişmiş Somon getir.",
+    ["Progress"]="",
+    ["Completion"]="",
+    ["minlevel"]="1",
+    ["questlevel"]="60",
+    }, -- end The Horde Needs More Baked Salmon!
+
+    -- Stormcaller's Footguards
+    -- Qiraji -> Qiraji
+    -- Kandrostrasz -> Kandrostrasz (MobNpcData.lua)
+    -- Ahn'Qiraj -> Ahn'Qiraj (ZoneData.lua)
+    -- Brood of Nozdormu -> Nozdormu Soyu
+    ["8621"] = {
+    ["Title"]="Fırtınaçağıran Ayaklıkları",
+    ["Description"]="Qiraji büyüsü güçlü ve kadimdir. En güçlü Qiraji üyeleri, bir ejderhayı bile duraklatacak güçte eşyalar taşırlar.\n\nBana Qiraji hükmetme bağlarını ve diğer küçük bileşenleri getir, sana güçlü bir çizme seti yapayım.\n\nDüşmana karşı savaşta onları yararlı bulacaksın.",
+    ["Objectives"]="Ahn'Qiraj'daki Kandrostrasz'a Qiraji Hükmetme Bağları, 2 Bilge Simgesi, 5 Tunç Skarabe ve 5 Kil Skarabe getir. Bu görev ayrıca Nozdormu Soyu ile Tarafsız itibar gerektirir.",
+    ["Progress"]="İstediğim eşyaları edindin mi, YOUR_NAME?",
+    ["Completion"]="Aferin, YOUR_NAME. Sıradan bir ölümlü olmadığını kanıtladın.\n\nAşağılık Qiraji'yi ezmende sana yardımcı olacaklarına dair güvenle bunları sana veriyorum.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Stormcaller's Footguards
+
+    -- Stormcaller's Hauberk
+    -- Old God -> Kadim Tanrı
+    -- Ahn'Qiraj -> Ahn'Qiraj (ZoneData.lua)
+    -- Azeroth -> Azeroth (ZoneData.lua)
+    -- Vethsera -> Vethsera (MobNpcData.lua)
+    -- Brood of Nozdormu -> Nozdormu Soyu
+    ["8622"] = {
+    ["Title"]="Fırtınaçağıran Örme Zırhı",
+    ["Description"]="Adı anılmaz Kadim Tanrı, Ahn'Qiraj'ın altındaki uykusundan yavaşça uyanıyor. Azeroth'u bekleyen korkunç kader günler veya yıllar içinde gelebilir; zamanın onun gücündeki varlıklar için bir anlamı yoktur.\n\nYıldızlar uygun olduğunda, korkunç bir gazapla tüm canlı varlıklara saldıracaktır. O zamandan önce onu bulmalı ve varlığına son vermenin bir yolunu bulmalısın.\n\nBunu yap ve bana onun kabuğundan bir parça getir. Sana hiçbir ölümlünün giymediği bir zırh bağışlayacağım... bir tanrıyı katletmiş birine yakışır bir zırh!",
+    ["Objectives"]="Ahn'Qiraj içindeki Vethsera'ya Kadim Tanrı'nın Kabuğu, 2 Bilge Simgesi, 5 Gümüş Skarabe ve 5 Kemik Skarabe getir. Bu görevi tamamlamak için Nozdormu Soyu ile de Onurlu itibara ulaşmalısın.",
+    ["Progress"]="İstediğim eşyaları edindin mi, YOUR_NAME?",
+    ["Completion"]="Girişiminden geri dönmeni beklemiyordum, YOUR_NAME.\n\nÇoğu ölümsüz varlığınkinden daha büyük bir kaderi yerine getirdin.\n\nC'Thun'u katlederek sadece tüm Azeroth'u kurtarmakla kalmadın, aynı zamanda kavrayışının ötesindeki kozmik olayların dengesini de değiştirdin.\n\nEylemlerinin bir sonucu olarak gelecek olan ihtişamın ve yükün bir simgesi olarak bu göğüslüğü kabul et.\n\nGücü seni bekleyen zorluklarda sana yardımcı olsun, tanrı katili!",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Stormcaller's Hauberk
+
+    -- Stormcaller's Diadem
+    -- Twin Emperors -> İkiz İmparatorlar
+    -- Arygos -> Arygos (MobNpcData.lua)
+    -- Qiraji -> Qiraji
+    -- Andorgos -> Andorgos (MobNpcData.lua)
+    -- Ahn'Qiraj -> Ahn'Qiraj (ZoneData.lua)
+    -- Brood of Nozdormu -> Nozdormu Soyu
+    ["8623"] = {
+    ["Title"]="Fırtınaçağıran Diyademi",
+    ["Description"]="İkiz İmparatorlar... onların dinmeyen fısıltıları yavaş yavaş akıl sağlığımı bozuyor. Kardeşim Arygos'u kurtarmak için onların bölgesine daha fazla adım atamayacağımı bilerek benimle dalga geçiyorlar.\n\nGörüntülerimde onların güçlü taçlarla süslenmiş canavarca yüzlerini görüyorum. Ama intikamımı alacağım... Qiraji gücünün bu sembollerini ihtiyaçlarımıza daha uygun olanlara dönüştüreceğim.\n\nİhtiyacım olan bileşenleri bana getir, YOUR_NAME. Sana eşsiz güçte bir başlık vereceğim.",
+    ["Objectives"]="Ahn'Qiraj'daki Andorgos'a Vek'lor'un Diyademi, 2 Yeniden Doğuş Simgesi, 5 Taş Skarabe ve 5 Kristal Skarabe getir. Bu görevi tamamlamak için Nozdormu Soyu ile de Dostane itibara ulaşmalısın.",
+    ["Progress"]="İstediğim eşyaları edindin mi, YOUR_NAME?",
+    ["Completion"]="Başardın! İkiz İmparatorlar'dan gelen fısıltılar kesildi.\n\nBunu bir ödül olarak al. Sadece görünüşü bile Qiraji'nin kalplerine korku salacak... bu onlara düşen liderlerini ve onları katleden ölümlüyü hatırlatacak.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Stormcaller's Diadem
+
+    -- Stormcaller's Leggings
+    -- Ouro -> Ouro (MobNpcData.lua)
+    -- Old God -> Kadim Tanrı
+    -- Kandrostrasz -> Kandrostrasz (MobNpcData.lua)
+    -- Ahn'Qiraj -> Ahn'Qiraj (ZoneData.lua)
+    -- Brood of Nozdormu -> Nozdormu Soyu
+    ["8624"] = {
+    ["Title"]="Fırtınaçağıran Taytları",
+    ["Description"]="Aşağıma değerini kanıtlamak mı istiyorsun, ölümlü? Pekala, belki birbirimize karşılıklı yardımımız dokunabilir.\n\nKadim kumsolucanı Ouro, efsanevi güce sahip bir varlıktır. Yaşama bir hakaret olarak Kadim Tanrı'nın kendisi tarafından yaratıldığı söylenir.\n\nDerisi doğal değil... kalın, neredeyse delinemez, yine de esnek ve çok daha küçük bir yaratığın hızı ve zarafetiyle hareket etmesini sağlıyor.\n\nBana onun derisinden bir örnekle birlikte diğer küçük bileşenleri getir, sana büyük güce sahip bacak zırhları işleyeyim.",
+    ["Objectives"]="Ahn'Qiraj içindeki Kandrostrasz'a Büyük Kumsolucanının Derisi, 2 Çekişme Simgesi, 5 Tunç Skarabe ve 5 Fildişi Skarabe getir. Bu görevi tamamlamak için Nozdormu Soyu ile de Dostane itibara ulaşmalısın.",
+    ["Progress"]="İstediğim eşyaları edindin mi, YOUR_NAME?",
+    ["Completion"]="Evet... solucanın derisi mükemmel bir koruyucu katman oluşturacak. Buraya gelirken yok ettiğimiz Qiraji'lerin en güçlü parçalarıyla birleştiğinde, bu heybetli bir zırh parçası haline gelmeli. İçeride bekleyen tarifsiz dehşetlerle yüzleşmende sana yardımcı olsun!",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Stormcaller's Leggings
+
+    -- Enigma Shoulderpads
+    -- Qiraji -> Qiraji
+    -- Nefarian -> Nefarian (MobNpcData.lua)
+    -- Andorgos -> Andorgos (MobNpcData.lua)
+    -- Ahn'Qiraj -> Ahn'Qiraj (ZoneData.lua)
+    -- Brood of Nozdormu -> Nozdormu Soyu
+    ["8625"] = {
+    ["Title"]="Muamma Vatkaları",
+    ["Description"]="Aramızda ölümlü ırkların taktığı süslü omuz zırhlarının bir ejderhanın kanatlarına özenme çabasıyla başladığı söylenir.\n\nBana en yüksek Qiraji liderlerinin taktığı bağları getir, ben de onları Nefarian'ın kanatlarından bile daha korkunç bir omuzluk setine dönüştüreyim!",
+    ["Objectives"]="Ahn'Qiraj'daki Andorgos'a Qiraji Hükmetme Bağları, 2 Ölüm Simgesi, 5 Taş Skarabe ve 5 Tunç Skarabe getir. Bu görevi tamamlamak için Nozdormu Soyu ile de Tarafsız itibara ulaşmalısın.",
+    ["Progress"]="İstediğim bileşenleri topladın mı?",
+    ["Completion"]="Getirdiğin malzemelerden ve düşmüş Qiraji düşmanlarımızın pullarından sana bu omuzlukları yapıyorum, ölümlü. İhtiyacın olan korumayı sağlasınlar ve görünümleri düşmanlarımızın kalbine korku salsın.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Enigma Shoulderpads
+
+    -- Striker's Footguards
+    -- Qiraji -> Qiraji
+    -- Kandrostrasz -> Kandrostrasz (MobNpcData.lua)
+    -- Ahn'Qiraj -> Ahn'Qiraj (ZoneData.lua)
+    -- Brood of Nozdormu -> Nozdormu Soyu
+    ["8626"] = {
+    ["Title"]="Vurucu Ayaklıkları",
+    ["Description"]="Qiraji büyüsü güçlü ve kadimdir. En güçlü Qiraji üyeleri, bir ejderhayı bile duraklatacak güçte eşyalar taşırlar.\n\nBana Qiraji komuta bağlarını ve diğer küçük bileşenleri getir, sana güçlü bir çizme seti yapayım.\n\nDüşmana karşı savaşta onları yararlı bulacaksın.",
+    ["Objectives"]="Ahn'Qiraj'daki Kandrostrasz'a Qiraji Komuta Bağları, 2 Yaşam Simgesi, 5 Taş Skarabe ve 5 Kemik Skarabe getir. Bu görev ayrıca Nozdormu Soyu ile Tarafsız itibar gerektirir.",
+    ["Progress"]="İstediğim eşyaları edindin mi, YOUR_NAME?",
+    ["Completion"]="Aferin, YOUR_NAME. Sıradan bir ölümlü olmadığını kanıtladın.\n\nAşağılık Qiraji'yi ezmende sana yardımcı olacaklarına dair güvenle bunları sana veriyorum.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Striker's Footguards
+
+    -- Avenger's Breastplate
+    -- Old God -> Kadim Tanrı
+    -- Ahn'Qiraj -> Ahn'Qiraj (ZoneData.lua)
+    -- Azeroth -> Azeroth (ZoneData.lua)
+    -- Vethsera -> Vethsera (MobNpcData.lua)
+    -- Brood of Nozdormu -> Nozdormu Soyu
+    ["8627"] = {
+    ["Title"]="Öcalıcı Göğüslüğü",
+    ["Description"]="Adı anılmaz Kadim Tanrı, Ahn'Qiraj'ın altındaki uykusundan yavaşça uyanıyor. Azeroth'u bekleyen korkunç kader günler veya yıllar içinde gelebilir; zamanın onun gücündeki varlıklar için bir anlamı yoktur.\n\nYıldızlar uygun olduğunda, korkunç bir gazapla tüm canlı varlıklara saldıracaktır. O zamandan önce onu bulmalı ve varlığına son vermenin bir yolunu bulmalısın.\n\nBunu yap ve bana onun kabuğundan bir parça getir. Sana hiçbir ölümlünün giymediği bir zırh bağışlayacağım... bir tanrıyı katletmiş birine yakışır bir zırh!",
+    ["Objectives"]="Ahn'Qiraj içindeki Vethsera'ya Kadim Tanrı'nın Zırh Kabuğu, 2 Bilge Simgesi, 5 Gümüş Skarabe ve 5 Kemik Skarabe getir. Bu görevi tamamlamak için Nozdormu Soyu ile de Onurlu itibara ulaşmalısın.",
+    ["Progress"]="Ahn'Qiraj'daki meskeninde, dehşet verici C'Thun uykuda bekliyor.",
+    ["Completion"]="Girişiminden geri dönmeni beklemiyordum, YOUR_NAME.\n\nÇoğu ölümsüz varlığınkinden daha büyük bir kaderi yerine getirdin.\n\nC'Thun'u katlederek sadece tüm Azeroth'u kurtarmakla kalmadın, aynı zamanda kavrayışının ötesindeki kozmik olayların dengesini de değiştirdin.\n\nEylemlerinin bir sonucu olarak gelecek olan ihtişamın ve yükün bir simgesi olarak bu göğüslüğü kabul et.\n\nGücü seni bekleyen zorluklarda sana yardımcı olsun, tanrı katili!",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Avenger's Breastplate
+
+    -- Avenger's Crown
+    -- Twin Emperors -> İkiz İmparatorlar
+    -- Arygos -> Arygos (MobNpcData.lua)
+    -- Qiraji -> Qiraji
+    -- Andorgos -> Andorgos (MobNpcData.lua)
+    -- Ahn'Qiraj -> Ahn'Qiraj (ZoneData.lua)
+    -- Brood of Nozdormu -> Nozdormu Soyu
+    ["8628"] = {
+    ["Title"]="Öcalıcı Tacı",
+    ["Description"]="İkiz İmparatorlar... onların dinmeyen fısıltıları yavaş yavaş akıl sağlığımı bozuyor. Kardeşim Arygos'u kurtarmak için onların bölgesine daha fazla adım atamayacağımı bilerek benimle dalga geçiyorlar.\n\nGörüntülerimde onların güçlü taçlarla süslenmiş canavarca yüzlerini görüyorum. Ama intikamımı alacağım... Qiraji gücünün bu sembollerini ihtiyaçlarımıza daha uygun olanlara dönüştüreceğim.\n\nİhtiyacım olan bileşenleri bana getir, YOUR_NAME. Sana eşsiz güçte bir başlık vereceğim.",
+    ["Objectives"]="Ahn'Qiraj'daki Andorgos'a Vek'lor'un Diyademi, 2 Yeniden Doğuş Simgesi, 5 Taş Skarabe ve 5 Kristal Skarabe getir. Bu görevi tamamlamak için Nozdormu Soyu ile de Dostane itibara ulaşmalısın.",
+    ["Progress"]="İstediğim bileşenleri bana getirdin mi, YOUR_NAME?",
+    ["Completion"]="Getirdiğin malzemelerden ve düşmüş Qiraji düşmanlarımızın pullarından sana bu omuzlukları yapıyorum, ölümlü. İhtiyacın olan korumayı sağlasınlar ve görünümleri düşmanlarımızın kalbine korku salsın.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Avenger's Crown
+
+    -- Avenger's Legguards
+    -- Ouro -> Ouro (MobNpcData.lua)
+    -- Old God -> Kadim Tanrı
+    -- Kandrostrasz -> Kandrostrasz (MobNpcData.lua)
+    -- Ahn'Qiraj -> Ahn'Qiraj (ZoneData.lua)
+    -- Brood of Nozdormu -> Nozdormu Soyu
+    ["8629"] = {
+    ["Title"]="Öcalıcı Bacaklıkları",
+    ["Description"]="Aşağıma değerini kanıtlamak mı istiyorsun, ölümlü? Pekala, belki birbirimize karşılıklı yardımımız dokunabilir.\n\nKadim kumsolucanı Ouro, efsanevi güce sahip bir varlıktır. Yaşama bir hakaret olarak Kadim Tanrı'nın kendisi tarafından yaratıldığı söylenir.\n\nDerisi doğal değil... kalın, neredeyse delinemez, yine de esnek ve çok daha küçük bir yaratığın hızı ve zarafetiyle hareket etmesini sağlıyor.\n\nBana onun derisinden bir örnekle birlikte diğer küçük bileşenleri getir, sana büyük güce sahip bacak zırhları işleyeyim.",
+    ["Objectives"]="Ahn'Qiraj içindeki Kandrostrasz'a Büyük Kumsolucanının Derisi, 2 Çekişme Simgesi, 5 Tunç Skarabe ve 5 Fildişi Skarabe getir. Bu görevi tamamlamak için Nozdormu Soyu ile de Dostane itibara ulaşmalısın.",
+    ["Progress"]="İhtiyacım olan bileşenleri getirdin mi, YOUR_NAME?",
+    ["Completion"]="Evet... solucanın derisi mükemmel bir koruyucu katman oluşturacak. Buraya gelirken yok ettiğimiz Qiraji'lerin en güçlü parçalarıyla birleştiğinde, bu heybetli bir zırh parçası haline gelmeli. İçeride bekleyen tarifsiz dehşetlerle yüzleşmende sana yardımcı olsun!",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Avenger's Legguards
+
+    -- Avenger's Pauldrons
+    -- Qiraji -> Qiraji
+    -- Nefarian -> Nefarian (MobNpcData.lua)
+    -- Andorgos -> Andorgos (MobNpcData.lua)
+    -- Ahn'Qiraj -> Ahn'Qiraj (ZoneData.lua)
+    -- Brood of Nozdormu -> Nozdormu Soyu
+    ["8630"] = {
+    ["Title"]="Öcalıcı Omuzlukları",
+    ["Description"]="Aramızda ölümlü ırkların taktığı süslü omuz zırhlarının bir ejderhanın kanatlarına özenme çabasıyla başladığı söylenir.\n\nBana en yüksek Qiraji liderlerinin taktığı bağları getir, ben de onları Nefarian'ın kanatlarından bile daha korkunç bir omuzluk setine dönüştüreyim!",
+    ["Objectives"]="Ahn'Qiraj'daki Andorgos'a Qiraji Hükmetme Bağları, 2 Yaşam Simgesi, 5 Kristal Skarabe ve 5 Altın Skarabe getir. Bu görevi tamamlamak için Nozdormu Soyu ile de Tarafsız itibara ulaşmalısın.",
+    ["Progress"]="İstediğim bileşenleri topladın mı?",
+    ["Completion"]="Getirdiğin malzemelerden ve düşmüş Qiraji düşmanlarımızın pullarından sana bu omuzlukları yapıyorum, ölümlü. İhtiyacın olan korumayı sağlasınlar ve görünümleri düşmanlarımızın kalbine korku salsın.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Avenger's Pauldrons
+
+    -- Enigma Leggings
+    -- Ouro -> Ouro (MobNpcData.lua)
+    -- Old God -> Kadim Tanrı
+    -- Kandrostrasz -> Kandrostrasz (MobNpcData.lua)
+    -- Ahn'Qiraj -> Ahn'Qiraj (ZoneData.lua)
+    -- Brood of Nozdormu -> Nozdormu Soyu
+    ["8631"] = {
+    ["Title"]="Muamma Taytları",
+    ["Description"]="Aşağıma değerini kanıtlamak mı istiyorsun, ölümlü? Pekala, belki birbirimize karşılıklı yardımımız dokunabilir.\n\nKadim kumsolucanı Ouro, efsanevi güce sahip bir varlıktır. Yaşama bir hakaret olarak Kadim Tanrı'nın kendisi tarafından yaratıldığı söylenir.\n\nDerisi doğal değil... kalın, neredeyse delinemez, yine de esnek ve çok daha küçük bir yaratığın hızı ve zarafetiyle hareket etmesini sağlıyor.\n\nBana onun derisinden bir örnekle birlikte diğer küçük bileşenleri getir, sana büyük güce sahip bacak zırhları işleyeyim.",
+    ["Objectives"]="Ahn'Qiraj içindeki Kandrostrasz'a Ouro'nun Sağlam Postu, 2 Bilge Simgesi, 5 Gümüş Skarabe ve 5 Kemik Skarabe getir. Bu görevi tamamlamak için Nozdormu Soyu ile de Dostane itibara ulaşmalısın.",
+    ["Progress"]="İstediğim eşyaları edindin mi, YOUR_NAME?",
+    ["Completion"]="Evet... solucanın derisi mükemmel bir koruyucu katman oluşturacak. Buraya gelirken yok ettiğimiz Qiraji'lerin en güçlü parçalarıyla birleştiğinde, bu heybetli bir zırh parçası haline gelmeli. İçeride bekleyen tarifsiz dehşetlerle yüzleşmende sana yardımcı olsun!",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Enigma Leggings
+
+    -- Enigma Circlet
+    -- Twin Emperors -> İkiz İmparatorlar
+    -- Arygos -> Arygos (MobNpcData.lua)
+    -- Qiraji -> Qiraji
+    -- Andorgos -> Andorgos (MobNpcData.lua)
+    -- Ahn'Qiraj -> Ahn'Qiraj (ZoneData.lua)
+    -- Brood of Nozdormu -> Nozdormu Soyu
+    ["8632"] = {
+    ["Title"]="Muamma Taççığı",
+    ["Description"]="İkiz İmparatorlar... onların dinmeyen fısıltıları yavaş yavaş akıl sağlığımı bozuyor. Kardeşim Arygos'u kurtarmak için onların bölgesine daha fazla adım atamayacağımı bilerek benimle dalga geçiyorlar.\n\nGörüntülerimde onların güçlü taçlarla süslenmiş canavarca yüzlerini görüyorum. Ama intikamımı alacağım... Qiraji gücünün bu sembollerini ihtiyaçlarımıza daha uygun olanlara dönüştüreceğim.\n\nİhtiyacım olan bileşenleri bana getir, YOUR_NAME. Sana eşsiz güçte bir başlık vereceğim.",
+    ["Objectives"]="Ahn'Qiraj'daki Andorgos'a Vek'nilash'ın Taççığı, 2 Gece Simgesi, 5 Tunç Skarabe ve 5 Fildişi Skarabe getir. Bu görevi tamamlamak için Nozdormu Soyu ile de Dostane itibara ulaşmalısın.",
+    ["Progress"]="İstediğim bileşenleri bana getirdin mi, YOUR_NAME?",
+    ["Completion"]="Başardın! İkiz İmparatorlar'dan gelen fısıltılar kesildi.\n\nBunu bir ödül olarak al. Sadece görünüşü bile Qiraji'nin kalplerine korku salacak... bu onlara düşen liderlerini ve onları katleden ölümlüyü hatırlatacak.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Enigma Circlet
+
+    -- Enigma Robes
+    -- Old God -> Kadim Tanrı
+    -- Ahn'Qiraj -> Ahn'Qiraj (ZoneData.lua)
+    -- Azeroth -> Azeroth (ZoneData.lua)
+    -- Vethsera -> Vethsera (MobNpcData.lua)
+    -- Brood of Nozdormu -> Nozdormu Soyu
+    ["8633"] = {
+    ["Title"]="Muamma Cüppeleri",
+    ["Description"]="Adı anılmaz Kadim Tanrı, Ahn'Qiraj'ın altındaki uykusundan yavaşça uyanıyor. Azeroth'u bekleyen korkunç kader günler veya yıllar içinde gelebilir; zamanın onun gücündeki varlıklar için bir anlamı yoktur.\n\nYıldızlar uygun olduğunda, korkunç bir gazapla tüm canlı varlıklara saldıracaktır. O zamandan önce onu bulmalı ve varlığına son vermenin bir yolunu bulmalısın.\n\nBunu yap ve bana onun kabuğundan bir parça getir. Sana hiçbir ölümlünün giymediği bir zırh bağışlayacağım... bir tanrıyı katletmiş birine yakışır bir zırh!",
+    ["Objectives"]="Ahn'Qiraj içindeki Vethsera'ya Kadim Tanrı'nın Kabuğu, 2 Güneş Simgesi, 5 Altın Skarabe ve 5 Kil Skarabe getir. Bu görevi tamamlamak için Nozdormu Soyu ile de Onurlu itibara ulaşmalısın.",
+    ["Progress"]="Ahn'Qiraj'daki meskeninde, dehşet verici C'Thun uykuda bekliyor.",
+    ["Completion"]="Girişiminden geri dönmeni beklemiyordum, YOUR_NAME.\n\nÇoğu ölümsüz varlığınkinden daha büyük bir kaderi yerine getirdin.\n\nC'Thun'u katlederek sadece tüm Azeroth'u kurtarmakla kalmadın, aynı zamanda kavrayışının ötesindeki kozmik olayların dengesini de değiştirdin.\n\nEylemlerinin bir sonucu olarak gelecek olan ihtişamın ve yükün bir simgesi olarak bu cüppeleri kabul et.\n\nGüçleri seni bekleyen zorluklarda sana yardımcı olsun, tanrı katili!",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Enigma Robes
+
+    -- Enigma Boots
+    -- Qiraji -> Qiraji
+    -- Kandrostrasz -> Kandrostrasz (MobNpcData.lua)
+    -- Ahn'Qiraj -> Ahn'Qiraj (ZoneData.lua)
+    -- Brood of Nozdormu -> Nozdormu Soyu
+    ["8634"] = {
+    ["Title"]="Muamma Çizmeleri",
+    ["Description"]="Qiraji büyüsü güçlü ve kadimdir. En güçlü Qiraji üyeleri, bir ejderhayı bile duraklatacak güçte eşyalar taşırlar.\n\nBana Qiraji hükmetme bağlarını ve diğer küçük bileşenleri getir, sana güçlü bir çizme seti yapayım.\n\nDüşmana karşı savaşta onları yararlı bulacaksın.",
+    ["Objectives"]="Ahn'Qiraj'daki Kandrostrasz'a Qiraji Hükmetme Bağları, 2 Güneş Simgesi, 5 Gümüş Skarabe ve 5 Kristal Skarabe getir. Bu görev ayrıca Nozdormu Soyu ile Tarafsız itibar gerektirir.",
+    ["Progress"]="İstediğim eşyaları edindin mi, YOUR_NAME?",
+    ["Completion"]="Aferin, YOUR_NAME. Sıradan bir ölümlü olmadığını kanıtladın.\n\nAşağılık Qiraji'yi ezmende sana yardımcı olacaklarına dair güvenle bunları sana veriyorum.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Enigma Boots
+
+    -- Deathdealer's Boots
+    -- Qiraji -> Qiraji
+    -- Kandrostrasz -> Kandrostrasz (MobNpcData.lua)
+    -- Ahn'Qiraj -> Ahn'Qiraj (ZoneData.lua)
+    -- Brood of Nozdormu -> Nozdormu Soyu
+    ["8637"] = {
+    ["Title"]="Ölümdağıtan Çizmeleri",
+    ["Description"]="Qiraji büyüsü güçlü ve kadimdir. En güçlü Qiraji üyeleri, bir ejderhayı bile duraklatacak güçte eşyalar taşırlar.\n\nBana Qiraji komuta bağlarını ve diğer küçük bileşenleri getir, sana güçlü bir çizme seti yapayım.\n\nDüşmana karşı savaşta onları yararlı bulacaksın.",
+    ["Objectives"]="Ahn'Qiraj'daki Kandrostrasz'a Qiraji Komuta Bağları, 2 Çekişme Simgesi, 5 Kristal Skarabe ve 5 Kemik Skarabe getir. Bu görev ayrıca Nozdormu Soyu ile Tarafsız itibar gerektirir.",
+    ["Progress"]="İstediğim eşyaları edindin mi, YOUR_NAME?",
+    ["Completion"]="Aferin, YOUR_NAME. Sıradan bir ölümlü olmadığını kanıtladın.\n\nAşağılık Qiraji'yi ezmende sana yardımcı olacaklarına dair güvenle bunları sana veriyorum.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Deathdealer's Boots
+
+    -- Deathdealer's Vest
+    -- Old God -> Kadim Tanrı
+    -- Ahn'Qiraj -> Ahn'Qiraj (ZoneData.lua)
+    -- Azeroth -> Azeroth (ZoneData.lua)
+    -- Vethsera -> Vethsera (MobNpcData.lua)
+    -- Brood of Nozdormu -> Nozdormu Soyu
+    ["8638"] = {
+    ["Title"]="Ölümdağıtan Yeleği",
+    ["Description"]="Adı anılmaz Kadim Tanrı, Ahn'Qiraj'ın altındaki uykusundan yavaşça uyanıyor. Azeroth'u bekleyen korkunç kader günler veya yıllar içinde gelebilir; zamanın onun gücündeki varlıklar için bir anlamı yoktur.\n\nYıldızlar uygun olduğunda, korkunç bir gazapla tüm canlı varlıklara saldıracaktır. O zamandan önce onu bulmalı ve varlığına son vermenin bir yolunu bulmalısın.\n\nBunu yap ve bana onun kabuğundan bir parça getir. Sana hiçbir ölümlünün giymediği bir zırh bağışlayacağım... bir tanrıyı katletmiş birine yakışır bir zırh!",
+    ["Objectives"]="Ahn'Qiraj içindeki Vethsera'ya Kadim Tanrı'nın Zırh Kabuğu, 2 Çekişme Simgesi, 5 Tunç Skarabe ve 5 Fildişi Skarabe getir. Bu görevi tamamlamak için Nozdormu Soyu ile de Onurlu itibara ulaşmalısın.",
+    ["Progress"]="Ahn'Qiraj'daki meskeninde, dehşet verici C'Thun uykuda bekliyor.",
+    ["Completion"]="Girişiminden geri dönmeni beklemiyordum, YOUR_NAME.\n\nÇoğu ölümsüz varlığınkinden daha büyük bir kaderi yerine getirdin.\n\nC'Thun'u katlederek sadece tüm Azeroth'u kurtarmakla kalmadın, aynı zamanda kavrayışının ötesindeki kozmik olayların dengesini de değiştirdin.\n\nEylemlerinin bir sonucu olarak gelecek olan ihtişamın ve yükün bir simgesi olarak bu göğüslüğü kabul et.\n\nGücü seni bekleyen zorluklarda sana yardımcı olsun, tanrı katili!",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Deathdealer's Vest
+
+    -- Deathdealer's Helm
+    -- Twin Emperors -> İkiz İmparatorlar
+    -- Arygos -> Arygos (MobNpcData.lua)
+    -- Qiraji -> Qiraji
+    -- Andorgos -> Andorgos (MobNpcData.lua)
+    -- Ahn'Qiraj -> Ahn'Qiraj (ZoneData.lua)
+    -- Brood of Nozdormu -> Nozdormu Soyu
+    ["8639"] = {
+    ["Title"]="Ölümdağıtan Miğferi",
+    ["Description"]="İkiz İmparatorlar... onların dinmeyen fısıltıları yavaş yavaş akıl sağlığımı bozuyor. Kardeşim Arygos'u kurtarmak için onların bölgesine daha fazla adım atamayacağımı bilerek benimle dalga geçiyorlar.\n\nGörüntülerimde onların güçlü taçlarla süslenmiş canavarca yüzlerini görüyorum. Ama intikamımı alacağım... Qiraji gücünün bu sembollerini ihtiyaçlarımıza daha uygun olanlara dönüştüreceğim.\n\nİhtiyacım olan bileşenleri bana getir, YOUR_NAME. Sana eşsiz güçte bir başlık vereceğim.",
+    ["Objectives"]="Ahn'Qiraj'daki Andorgos'a Vek'lor'un Diyademi, 2 Savaş Simgesi, 5 Altın Skarabe ve 5 Kil Skarabe getir. Bu görevi tamamlamak için Nozdormu Soyu ile de Dostane itibara ulaşmalısın.",
+    ["Progress"]="İstediğim bileşenleri bana getirdin mi, YOUR_NAME?",
+    ["Completion"]="Başardın! İkiz İmparatorlar'dan gelen fısıltılar kesildi.\n\nBunu bir ödül olarak al. Sadece görünüşü bile Qiraji'nin kalplerine korku salacak... bu onlara düşen liderlerini ve onları katleden ölümlüyü hatırlatacak.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Deathdealer's Helm
+
+    -- Deathdealer's Leggings
+    -- Ouro -> Ouro (MobNpcData.lua)
+    -- Old God -> Kadim Tanrı
+    -- Kandrostrasz -> Kandrostrasz (MobNpcData.lua)
+    -- Ahn'Qiraj -> Ahn'Qiraj (ZoneData.lua)
+    -- Brood of Nozdormu -> Nozdormu Soyu
+    ["8640"] = {
+    ["Title"]="Ölümdağıtan Taytları",
+    ["Description"]="Aşağıma değerini kanıtlamak mı istiyorsun, ölümlü? Pekala, belki birbirimize karşılıklı yardımımız dokunabilir.\n\nKadim kumsolucanı Ouro, efsanevi güce sahip bir varlıktır. Yaşama bir hakaret olarak Kadim Tanrı'nın kendisi tarafından yaratıldığı söylenir.\n\nDerisi doğal değil... kalın, neredeyse delinemez, yine de esnek ve çok daha küçük bir yaratığın hızı ve zarafetiyle hareket etmesini sağlıyor.\n\nBana onun derisinden bir örnekle birlikte diğer küçük bileşenleri getir, sana büyük güce sahip bacak zırhları işleyeyim.",
+    ["Objectives"]="Ahn'Qiraj içindeki Kandrostrasz'a Ouro'nun Sağlam Postu, 2 Gece Simgesi, 5 Taş Skarabe ve 5 Kristal Skarabe getir. Bu görevi tamamlamak için Nozdormu Soyu ile de Dostane itibara ulaşmalısın.",
+    ["Progress"]="İstediğim eşyaları edindin mi, YOUR_NAME?",
+    ["Completion"]="Evet... solucanın derisi mükemmel bir koruyucu katman oluşturacak. Buraya gelirken yok ettiğimiz Qiraji'lerin en güçlü parçalarıyla birleştiğinde, bu heybetli bir zırh parçası haline gelmeli. İçeride bekleyen tarifsiz dehşetlerle yüzleşmende sana yardımcı olsun!",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Deathdealer's Leggings
+
+    -- Deathdealer's Spaulders
+    -- Qiraji -> Qiraji
+    -- Nefarian -> Nefarian (MobNpcData.lua)
+    -- Andorgos -> Andorgos (MobNpcData.lua)
+    -- Ahn'Qiraj -> Ahn'Qiraj (ZoneData.lua)
+    -- Brood of Nozdormu -> Nozdormu Soyu
+    ["8641"] = {
+    ["Title"]="Ölümdağıtan Omuzlukları",
+    ["Description"]="Aramızda ölümlü ırkların taktığı süslü omuz zırhlarının bir ejderhanın kanatlarına özenme çabasıyla başladığı söylenir.\n\nBana en yüksek Qiraji liderlerinin taktığı bağları getir, ben de onları Nefarian'ın kanatlarından bile daha korkunç bir omuzluk setine dönüştüreyim!",
+    ["Objectives"]="Ahn'Qiraj'daki Andorgos'a Qiraji Komuta Bağları, 2 Güneş Simgesi, 5 Gümüş Skarabe ve 5 Kil Skarabe getir. Bu görevi tamamlamak için Nozdormu Soyu ile de Tarafsız itibara ulaşmalısın.",
+    ["Progress"]="İstediğim bileşenleri topladın mı?",
+    ["Completion"]="Getirdiğin malzemelerden ve düşmüş Qiraji düşmanlarımızın pullarından sana bu omuzlukları yapıyorum, ölümlü. İhtiyacın olan korumayı sağlasınlar ve görünümleri düşmanlarımızın kalbine korku salsın.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Deathdealer's Spaulders
+
+    -- Avenger's Greaves
+    -- Qiraji -> Qiraji
+    -- Kandrostrasz -> Kandrostrasz (MobNpcData.lua)
+    -- Ahn'Qiraj -> Ahn'Qiraj (ZoneData.lua)
+    -- Brood of Nozdormu -> Nozdormu Soyu
+    ["8655"] = {
+    ["Title"]="Öcalıcı Dizlikleri",
+    ["Description"]="Qiraji büyüsü güçlü ve kadimdir. En güçlü Qiraji üyeleri, bir ejderhayı bile duraklatacak güçte eşyalar taşırlar.\n\nBana Qiraji hükmetme bağlarını ve diğer küçük bileşenleri getir, sana güçlü bir çizme seti yapayım.\n\nDüşmana karşı savaşta onları yararlı bulacaksın.",
+    ["Objectives"]="Ahn'Qiraj'daki Kandrostrasz'a Qiraji Hükmetme Bağları, 2 Bilge Simgesi, 5 Tunç Skarabe ve 5 Kil Skarabe getir. Bu görev ayrıca Nozdormu Soyu ile Tarafsız itibar gerektirir.",
+    ["Progress"]="İstediğim eşyaları edindin mi, YOUR_NAME?",
+    ["Completion"]="Aferin, YOUR_NAME. Sıradan bir ölümlü olmadığını kanıtladın.\n\nAşağılık Qiraji'yi ezmende sana yardımcı olacaklarına dair güvenle bunları sana veriyorum.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Avenger's Greaves
+
+    -- Striker's Hauberk
+    -- Old God -> Kadim Tanrı
+    -- Ahn'Qiraj -> Ahn'Qiraj (ZoneData.lua)
+    -- Azeroth -> Azeroth (ZoneData.lua)
+    -- Vethsera -> Vethsera (MobNpcData.lua)
+    -- Brood of Nozdormu -> Nozdormu Soyu
+    ["8656"] = {
+    ["Title"]="Vurucu Örme Zırhı",
+    ["Description"]="Adı anılmaz Kadim Tanrı, Ahn'Qiraj'ın altındaki uykusundan yavaşça uyanıyor. Azeroth'u bekleyen korkunç kader günler veya yıllar içinde gelebilir; zamanın onun gücündeki varlıklar için bir anlamı yoktur.\n\nYıldızlar uygun olduğunda, korkunç bir gazapla tüm canlı varlıklara saldıracaktır. O zamandan önce onu bulmalı ve varlığına son vermenin bir yolunu bulmalısın.\n\nBunu yap ve bana onun kabuğundan bir parça getir. Sana hiçbir ölümlünün giymediği bir zırh bağışlayacağım... bir tanrıyı katletmiş birine yakışır bir zırh!",
+    ["Objectives"]="Ahn'Qiraj içindeki Vethsera'ya Kadim Tanrı'nın Zırh Kabuğu, 2 Yaşam Simgesi, 5 Altın Skarabe ve 5 Kil Skarabe getir. Bu görevi tamamlamak için Nozdormu Soyu ile de Onurlu itibara ulaşmalısın.",
+    ["Progress"]="Ahn'Qiraj'daki meskeninde, dehşet verici C'Thun uykuda bekliyor.",
+    ["Completion"]="Girişiminden geri dönmeni beklemiyordum, YOUR_NAME.\n\nÇoğu ölümsüz varlığınkinden daha büyük bir kaderi yerine getirdin.\n\nC'Thun'u katlederek sadece tüm Azeroth'u kurtarmakla kalmadın, aynı zamanda kavrayışının ötesindeki kozmik olayların dengesini de değiştirdin.\n\nEylemlerinin bir sonucu olarak gelecek olan ihtişamın ve yükün bir simgesi olarak bu göğüslüğü kabul et.\n\nGücü seni bekleyen zorluklarda sana yardımcı olsun, tanrı katili!",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Striker's Hauberk
+
+    -- Striker's Diadem
+    -- Twin Emperors -> İkiz İmparatorlar
+    -- Arygos -> Arygos (MobNpcData.lua)
+    -- Qiraji -> Qiraji
+    -- Andorgos -> Andorgos (MobNpcData.lua)
+    -- Ahn'Qiraj -> Ahn'Qiraj (ZoneData.lua)
+    -- Brood of Nozdormu -> Nozdormu Soyu
+    ["8657"] = {
+    ["Title"]="Vurucu Diyademi",
+    ["Description"]="İkiz İmparatorlar... onların dinmeyen fısıltıları yavaş yavaş akıl sağlığımı bozuyor. Kardeşim Arygos'u kurtarmak için onların bölgesine daha fazla adım atamayacağımı bilerek benimle dalga geçiyorlar.\n\nGörüntülerimde onların güçlü taçlarla süslenmiş canavarca yüzlerini görüyorum. Ama intikamımı alacağım... Qiraji gücünün bu sembollerini ihtiyaçlarımıza daha uygun olanlara dönüştüreceğim.\n\nİhtiyacım olan bileşenleri bana getir, YOUR_NAME. Sana eşsiz güçte bir başlık yapacağım.",
+    ["Objectives"]="Ahn'Qiraj'daki Andorgos'a Vek'lor'un Diyademi, 2 Çekişme Simgesi, 5 Tunç Skarabe ve 5 Fildişi Skarabe getir. Bu görevi tamamlamak için Nozdormu Soyu ile de Dostane itibara ulaşmalısın.",
+    ["Progress"]="İstediğim bileşenleri bana getirdin mi, YOUR_NAME?",
+    ["Completion"]="Başardın! İkiz İmparatorlar'dan gelen fısıltılar kesildi.\n\nBunu bir ödül olarak al. Sadece görünüşü bile Qiraji'nin kalplerine korku salacak... bu onlara düşen liderlerini ve onları katleden ölümlüyü hatırlatacak.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Striker's Diadem
+
+    -- Striker's Leggings
+    -- Ouro -> Ouro (MobNpcData.lua)
+    -- Old God -> Kadim Tanrı
+    -- Kandrostrasz -> Kandrostrasz (MobNpcData.lua)
+    -- Ahn'Qiraj -> Ahn'Qiraj (ZoneData.lua)
+    -- Brood of Nozdormu -> Nozdormu Soyu
+    ["8658"] = {
+    ["Title"]="Vurucu Taytları",
+    ["Description"]="Aşağıma değerini kanıtlamak mı istiyorsun, ölümlü? Pekala, belki birbirimize karşılıklı yardımımız dokunabilir.\n\nKadim kumsolucanı Ouro, efsanevi güce sahip bir varlıktır. Yaşama bir hakaret olarak Kadim Tanrı'nın kendisi tarafından yaratıldığı söylenir.\n\nDerisi doğal değil... kalın, neredeyse delinemez, yine de esnek ve çok daha küçük bir yaratığın hızı ve zarafetiyle hareket etmesini sağlıyor.\n\nBana onun derisinden bir örnekle birlikte diğer küçük bileşenleri getir, sana büyük güce sahip bacak zırhları işleyeyim.",
+    ["Objectives"]="Ahn'Qiraj içindeki Kandrostrasz'a Büyük Kumsolucanının Derisi, 2 Güneş Simgesi, 5 Gümüş Skarabe ve 5 Kemik Skarabe getir. Bu görevi tamamlamak için Nozdormu Soyu ile de Dostane itibara ulaşmalısın.",
+    ["Progress"]="İstediğim eşyaları edindin mi, YOUR_NAME?",
+    ["Completion"]="",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Striker's Leggings
+
+    -- Striker's Pauldrons
+    -- Qiraji -> Qiraji
+    -- Nefarian -> Nefarian (MobNpcData.lua)
+    -- Andorgos -> Andorgos (MobNpcData.lua)
+    -- Ahn'Qiraj -> Ahn'Qiraj (ZoneData.lua)
+    -- Brood of Nozdormu -> Nozdormu Soyu
+    ["8659"] = {
+    ["Title"]="Vurucu Omuzlukları",
+    ["Description"]="Aramızda ölümlü ırkların taktığı süslü omuz zırhlarının bir ejderhanın kanatlarına özenme çabasıyla başladığı söylenir.\n\nBana en yüksek Qiraji liderlerinin taktığı bağları getir, ben de onları Nefarian'ın kanatlarından bile daha korkunç bir omuzluk setine dönüştüreyim!",
+    ["Objectives"]="Ahn'Qiraj'daki Andorgos'a Qiraji Komuta Bağları, 2 Savaş Simgesi, 5 Kristal Skarabe ve 5 Fildişi Skarabe getir. Bu görevi tamamlamak için Nozdormu Soyu ile de Tarafsız itibara ulaşmalısın.",
+    ["Progress"]="İstediğim bileşenleri topladın mı?",
+    ["Completion"]="Getirdiğin malzemelerden ve düşmüş Qiraji düşmanlarımızın pullarından sana bu omuzlukları yapıyorum, ölümlü. İhtiyacın olan korumayı sağlasınlar ve görünümleri düşmanlarımızın kalbine korku salsın.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Striker's Pauldrons
+
+    -- Doomcaller's Footwraps
+    -- Qiraji -> Qiraji
+    -- Kandrostrasz -> Kandrostrasz (MobNpcData.lua)
+    -- Ahn'Qiraj -> Ahn'Qiraj (ZoneData.lua)
+    -- Brood of Nozdormu -> Nozdormu Soyu
+    ["8660"] = {
+    ["Title"]="Kıyametçağıran Sargıları",
+    ["Description"]="Qiraji büyüsü güçlü ve kadimdir. En güçlü Qiraji üyeleri, bir ejderhayı bile duraklatacak güçte eşyalar taşırlar.\n\nBana Qiraji hükmetme bağlarını ve diğer küçük bileşenleri getir, sana güçlü bir çizme seti yapayım.\n\nDüşmana karşı savaşta onları yararlı bulacaksın.",
+    ["Objectives"]="Ahn'Qiraj'daki Kandrostrasz'a Qiraji Hükmetme Bağları, 2 Gece Simgesi, 5 Kil Skarabe ve 5 Fildişi Skarabe getir. Bu görev ayrıca Nozdormu Soyu ile Tarafsız itibar gerektirir.",
+    ["Progress"]="İstediğim eşyaları edindin mi, YOUR_NAME?",
+    ["Completion"]="Aferin, YOUR_NAME. Sıradan bir ölümlü olmadığını kanıtladın.\n\nAşağılık Qiraji'yi ezmende sana yardımcı olacaklarına dair güvenle bunları sana veriyorum.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Doomcaller's Footwraps
+
+    -- Doomcaller's Robes
+    -- Old God -> Kadim Tanrı
+    -- Ahn'Qiraj -> Ahn'Qiraj (ZoneData.lua)
+    -- Azeroth -> Azeroth (ZoneData.lua)
+    -- Vethsera -> Vethsera (MobNpcData.lua)
+    -- Brood of Nozdormu -> Nozdormu Soyu
+    ["8661"] = {
+    ["Title"]="Kıyametçağıran Cüppeleri",
+    ["Description"]="Adı anılmaz Kadim Tanrı, Ahn'Qiraj'ın altındaki uykusundan yavaşça uyanıyor. Azeroth'u bekleyen korkunç kader günler veya yıllar içinde gelebilir; zamanın onun gücündeki varlıklar için bir anlamı yoktur.\n\nYıldızlar uygun olduğunda, korkunç bir gazapla tüm canlı varlıklara saldıracaktır. O zamandan önce onu bulmalı ve varlığına son vermenin bir yolunu bulmalısın.\n\nBunu yap ve bana onun kabuğundan bir parça getir. Sana hiçbir ölümlünün giymediği bir zırh bağışlayacağım... bir tanrıyı katletmiş birine yakışır bir zırh!",
+    ["Objectives"]="Ahn'Qiraj içindeki Vethsera'ya Kadim Tanrı'nın Kabuğu, 2 Gece Simgesi, 5 Taş Skarabe ve 5 Kristal Skarabe getir. Bu görevi tamamlamak için Nozdormu Soyu ile de Onurlu itibara ulaşmalısın.",
+    ["Progress"]="Ahn'Qiraj'daki meskeninde, dehşet verici C'Thun uykuda bekliyor.",
+    ["Completion"]="Girişiminden geri dönmeni beklemiyordum, YOUR_NAME.\n\nÇoğu ölümsüz varlığınkinden daha büyük bir kaderi yerine getirdin.\n\nC'Thun'u katlederek sadece tüm Azeroth'u kurtarmakla kalmadın, aynı zamanda kavrayışının ötesindeki kozmik olayların dengesini de değiştirdin.\n\nEylemlerinin bir sonucu olarak gelecek olan ihtişamın ve yükün bir simgesi olarak bu cüppeleri kabul et.\n\nGüçleri seni bekleyen zorluklarda sana yardımcı olsun, tanrı katili!",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Doomcaller's Robes
+
+    -- Doomcaller's Circlet
+    -- Twin Emperors -> İkiz İmparatorlar
+    -- Arygos -> Arygos (MobNpcData.lua)
+    -- Qiraji -> Qiraji
+    -- Andorgos -> Andorgos (MobNpcData.lua)
+    -- Ahn'Qiraj -> Ahn'Qiraj (ZoneData.lua)
+    -- Brood of Nozdormu -> Nozdormu Soyu
+    ["8662"] = {
+    ["Title"]="Kıyametçağıran Taççığı",
+    ["Description"]="İkiz İmparatorlar... onların dinmeyen fısıltıları yavaş yavaş akıl sağlığımı bozuyor. Kardeşim Arygos'u kurtarmak için onların bölgesine daha fazla adım atamayacağımı bilerek benimle dalga geçiyorlar.\n\nGörüntülerimde onların güçlü taçlarla süslenmiş canavarca yüzlerini görüyorum. Ama intikamımı alacağım... Qiraji gücünün bu sembollerini ihtiyaçlarımıza daha uygun olanlara dönüştüreceğim.\n\nİhtiyacım olan bileşenleri bana getir, YOUR_NAME. Sana eşsiz güçte bir başlık vereceğim.",
+    ["Objectives"]="Ahn'Qiraj'daki Andorgos'a Vek'nilash'ın Taççığı, 2 Ölüm Simgesi, 5 Gümüş Skarabe ve 5 Kemik Skarabe getir. Bu görevi tamamlamak için Nozdormu Soyu ile de Dostane itibara ulaşmalısın.",
+    ["Progress"]="İstediğim bileşenleri bana getirdin mi, YOUR_NAME?",
+    ["Completion"]="Başardın! İkiz İmparatorlar'dan gelen fısıltılar kesildi.\n\nBunu bir ödül olarak al. Sadece görünüşü bile Qiraji'nin kalplerine korku salacak... bu onlara düşen liderlerini ve onları katleden ölümlüyü hatırlatacak.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Doomcaller's Circlet
+
+    -- Doomcaller's Trousers
+    -- Ouro -> Ouro (MobNpcData.lua)
+    -- Old God -> Kadim Tanrı
+    -- Kandrostrasz -> Kandrostrasz (MobNpcData.lua)
+    -- Ahn'Qiraj -> Ahn'Qiraj (ZoneData.lua)
+    -- Brood of Nozdormu -> Nozdormu Soyu
+    ["8663"] = {
+    ["Title"]="Kıyametçağıran Pantolonu",
+    ["Description"]="Aşağıma değerini kanıtlamak mı istiyorsun, ölümlü? Pekala, belki birbirimize karşılıklı yardımımız dokunabilir.\n\nKadim kumsolucanı Ouro, efsanevi güce sahip bir varlıktır. Yaşama bir hakaret olarak Kadim Tanrı'nın kendisi tarafından yaratıldığı söylenir.\n\nDerisi doğal değil... kalın, neredeyse delinemez, yine de esnek ve çok daha küçük bir yaratığın hızı ve zarafetiyle hareket etmesini sağlıyor.\n\nBana onun derisinden bir örnekle birlikte diğer küçük bileşenleri getir, sana büyük güce sahip bacak zırhları işleyeyim.",
+    ["Objectives"]="Ahn'Qiraj içindeki Kandrostrasz'a Büyük Kumsolucanının Derisi, 2 Yeniden Doğuş Simgesi, 5 Altın Skarabe ve 5 Kil Skarabe getir. Bu görevi tamamlamak için Nozdormu Soyu ile de Dostane itibara ulaşmalısın.",
+    ["Progress"]="İhtiyacım olan bileşenleri getirdin mi, YOUR_NAME?",
+    ["Completion"]="Evet... solucanın derisi mükemmel bir koruyucu katman oluşturacak. Buraya gelirken yok ettiğimiz Qiraji'lerin en güçlü parçalarıyla birleştiğinde, bu heybetli bir zırh parçası haline gelmeli. İçeride bekleyen tarifsiz dehşetlerle yüzleşmende sana yardımcı olsun!",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Doomcaller's Trousers
+
+    -- Doomcaller's Mantle
+    -- Qiraji -> Qiraji
+    -- Nefarian -> Nefarian (MobNpcData.lua)
+    -- Andorgos -> Andorgos (MobNpcData.lua)
+    -- Ahn'Qiraj -> Ahn'Qiraj (ZoneData.lua)
+    -- Brood of Nozdormu -> Nozdormu Soyu
+    ["8664"] = {
+    ["Title"]="Kıyametçağıran Örtüsü",
+    ["Description"]="Aramızda ölümlü ırkların taktığı süslü omuz zırhlarının bir ejderhanın kanatlarına özenme çabasıyla başladığı söylenir.\n\nBana en yüksek Qiraji liderlerinin taktığı bağları getir, ben de onları Nefarian'ın kanatlarından bile daha korkunç bir omuzluk setine dönüştüreyim!",
+    ["Objectives"]="Ahn'Qiraj'daki Andorgos'a Qiraji Hükmetme Bağları, 2 Bilge Simgesi, 5 Tunç Skarabe ve 5 Kemik Skarabe getir. Bu görevi tamamlamak için Nozdormu Soyu ile de Tarafsız itibara ulaşmalısın.",
+    ["Progress"]="İstediğim bileşenleri topladın mı?",
+    ["Completion"]="Getirdiğin malzemelerden ve düşmüş Qiraji düşmanlarımızın pullarından sana bu omuzlukları yapıyorum, ölümlü. İhtiyacın olan korumayı sağlasınlar ve görünümleri düşmanlarımızın kalbine korku salsın.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Doomcaller's Mantle
+
+    -- Genesis Boots
+    -- Qiraji -> Qiraji
+    -- Kandrostrasz -> Kandrostrasz (MobNpcData.lua)
+    -- Ahn'Qiraj -> Ahn'Qiraj (ZoneData.lua)
+    -- Brood of Nozdormu -> Nozdormu Soyu
+    ["8665"] = {
+    ["Title"]="Oluşum Çizmeleri",
+    ["Description"]="Qiraji büyüsü güçlü ve kadimdir. En güçlü Qiraji üyeleri, bir ejderhayı bile duraklatacak güçte eşyalar taşırlar.\n\nBana Qiraji hükmetme bağlarını ve diğer küçük bileşenleri getir, sana güçlü bir çizme seti yapayım.\n\nDüşmana karşı savaşta onları yararlı bulacaksın.",
+    ["Objectives"]="Ahn'Qiraj'daki Kandrostrasz'a Qiraji Hükmetme Bağları, 2 Yeniden Doğuş Simgesi, 5 Taş Skarabe ve 5 Gümüş Skarabe getir. Bu görev ayrıca Nozdormu Soyu ile Tarafsız itibar gerektirir.",
+    ["Progress"]="İstediğim eşyaları edindin mi, YOUR_NAME?",
+    ["Completion"]="Aferin, YOUR_NAME. Sıradan bir ölümlü olmadığını kanıtladın.\n\nAşağılık Qiraji'yi ezmende sana yardımcı olacaklarına dair güvenle bunları sana veriyorum.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Genesis Boots
+
+    -- Genesis Vest
+    -- Old God -> Kadim Tanrı
+    -- Ahn'Qiraj -> Ahn'Qiraj (ZoneData.lua)
+    -- Azeroth -> Azeroth (ZoneData.lua)
+    -- Vethsera -> Vethsera (MobNpcData.lua)
+    -- Brood of Nozdormu -> Nozdormu Soyu
+    ["8666"] = {
+    ["Title"]="Oluşum Yeleği",
+    ["Description"]="Adı anılmaz Kadim Tanrı, Ahn'Qiraj'ın altındaki uykusundan yavaşça uyanıyor. Azeroth'u bekleyen korkunç kader günler veya yıllar içinde gelebilir; zamanın onun gücündeki varlıklar için bir anlamı yoktur.\n\nYıldızlar uygun olduğunda, korkunç bir gazapla tüm canlı varlıklara saldıracaktır. O zamandan önce onu bulmalı ve varlığına son vermenin bir yolunu bulmalısın.\n\nBunu yap ve bana onun kabuğundan bir parça getir. Sana hiçbir ölümlünün giymediği bir zırh bağışlayacağım... bir tanrıyı katletmiş birine yakışır bir zırh!",
+    ["Objectives"]="Ahn'Qiraj içindeki Vethsera'ya Kadim Tanrı'nın Kabuğu, 2 Yeniden Doğuş Simgesi, 5 Tunç Skarabe ve 5 Fildişi Skarabe getir. Bu görevi tamamlamak için Nozdormu Soyu ile de Onurlu itibara ulaşmalısın.",
+    ["Progress"]="Ahn'Qiraj'daki meskeninde, dehşet verici C'Thun uykuda bekliyor.",
+    ["Completion"]="Girişiminden geri dönmeni beklemiyordum, YOUR_NAME.\n\nÇoğu ölümsüz varlığınkinden daha büyük bir kaderi yerine getirdin.\n\nC'Thun'u katlederek sadece tüm Azeroth'u kurtarmakla kalmadın, aynı zamanda kavrayışının ötesindeki kozmik olayların dengesini de değiştirdin.\n\nEylemlerinin bir sonucu olarak gelecek olan ihtişamın ve yükün bir simgesi olarak bu göğüslüğü kabul et.\n\nGücü seni bekleyen zorluklarda sana yardımcı olsun, tanrı katili!",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Genesis Vest
+
+    -- Genesis Helm
+    -- Twin Emperors -> İkiz İmparatorlar
+    -- Arygos -> Arygos (MobNpcData.lua)
+    -- Qiraji -> Qiraji
+    -- Andorgos -> Andorgos (MobNpcData.lua)
+    -- Ahn'Qiraj -> Ahn'Qiraj (ZoneData.lua)
+    -- Brood of Nozdormu -> Nozdormu Soyu
+    ["8667"] = {
+    ["Title"]="Oluşum Miğferi",
+    ["Description"]="İkiz İmparatorlar... onların dinmeyen fısıltıları yavaş yavaş akıl sağlığımı bozuyor. Kardeşim Arygos'u kurtarmak için onların bölgesine daha fazla adım atamayacağımı bilerek benimle dalga geçiyorlar.\n\nGörüntülerimde onların güçlü taçlarla süslenmiş canavarca yüzlerini görüyorum. Ama intikamımı alacağım... Qiraji gücünün bu sembollerini ihtiyaçlarımıza daha uygun olanlara dönüştüreceğim.\n\nİhtiyacım olan bileşenleri bana getir, YOUR_NAME. Sana eşsiz güçte bir başlık vereceğim.",
+    ["Objectives"]="Ahn'Qiraj'daki Andorgos'a Vek'lor'un Diyademi, 2 Yaşam Simgesi, 5 Altın Skarabe ve 5 Kil Skarabe getir. Bu görevi tamamlamak için Nozdormu Soyu ile de Dostane itibara ulaşmalısın.",
+    ["Progress"]="İstediğim bileşenleri bana getirdin mi, YOUR_NAME?",
+    ["Completion"]="Başardın! İkiz İmparatorlar'dan gelen fısıltılar kesildi.\n\nBunu bir ödül olarak al. Sadece görünüşü bile Qiraji'nin kalplerine korku salacak... bu onlara düşen liderlerini ve onları katleden ölümlüyü hatırlatacak.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Genesis Helm
+
+    -- Genesis Trousers
+    -- Ouro -> Ouro (MobNpcData.lua)
+    -- Old God -> Kadim Tanrı
+    -- Kandrostrasz -> Kandrostrasz (MobNpcData.lua)
+    -- Ahn'Qiraj -> Ahn'Qiraj (ZoneData.lua)
+    -- Brood of Nozdormu -> Nozdormu Soyu
+    ["8668"] = {
+    ["Title"]="Oluşum Pantolonu",
+    ["Description"]="Aşağıma değerini kanıtlamak mı istiyorsun, ölümlü? Pekala, belki birbirimize karşılıklı yardımımız dokunabilir.\n\nKadim kumsolucanı Ouro, efsanevi güce sahip bir varlıktır. Yaşama bir hakaret olarak Kadim Tanrı'nın kendisi tarafından yaratıldığı söylenir.\n\nDerisi doğal değil... kalın, neredeyse delinemez, yine de esnek ve çok daha küçük bir yaratığın hızı ve zarafetiyle hareket etmesini sağlıyor.\n\nBana onun derisinden bir örnekle birlikte diğer küçük bileşenleri getir, sana büyük güce sahip bacak zırhları işleyeyim.",
+    ["Objectives"]="Ahn'Qiraj içindeki Kandrostrasz'a Büyük Kumsolucanının Derisi, 2 Savaş Simgesi, 5 Taş Skarabe ve 5 Kristal Skarabe getir. Bu görevi tamamlamak için Nozdormu Soyu ile de Dostane itibara ulaşmalısın.",
+    ["Progress"]="İstediğim bileşenleri getirdin mi, YOUR_NAME?",
+    ["Completion"]="Evet... solucanın derisi mükemmel bir koruyucu katman oluşturacak. Buraya gelirken yok ettiğimiz Qiraji'lerin en güçlü parçalarıyla birleştiğinde, bu heybetli bir zırh parçası haline gelmeli. İçeride bekleyen tarifsiz dehşetlerle yüzleşmende sana yardımcı olsun!",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Genesis Trousers
+
+    -- Genesis Shoulderpads
+    -- Qiraji -> Qiraji
+    -- Nefarian -> Nefarian (MobNpcData.lua)
+    -- Andorgos -> Andorgos (MobNpcData.lua)
+    -- Ahn'Qiraj -> Ahn'Qiraj (ZoneData.lua)
+    -- Brood of Nozdormu -> Nozdormu Soyu
+    ["8669"] = {
+    ["Title"]="Oluşum Vatkaları",
+    ["Description"]="Aramızda ölümlü ırkların taktığı süslü omuz zırhlarının bir ejderhanın kanatlarına özenme çabasıyla başladığı söylenir.\n\nBana en yüksek Qiraji liderlerinin taktığı bağları getir, ben de onları Nefarian'ın kanatlarından bile daha korkunç bir omuzluk setine dönüştüreyim!",
+    ["Objectives"]="Ahn'Qiraj'daki Andorgos'a Qiraji Hükmetme Bağları, 2 Çekişme Simgesi, 5 Altın Skarabe ve 5 Kemik Skarabe getir. Bu görevi tamamlamak için Nozdormu Soyu ile de Tarafsız itibara ulaşmalısın.",
+    ["Progress"]="İstediğim bileşenleri topladın mı?",
+    ["Completion"]="Getirdiğin malzemelerden ve düşmüş Qiraji düşmanlarımızın pullarından sana bu omuzlukları yapıyorum, ölümlü. İhtiyacın olan korumayı sağlasınlar ve görünümleri düşmanlarımızın kalbine korku salsın.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Genesis Shoulderpads
+
+    -- Target: Hive'Zora Tunnelers
+    -- Hive'Zora -> Hive'Zora (ZoneData.lua)
+    -- Commander Mar'alith -> Komutan Mar'alith (MobNpcData.lua)
+    -- Cenarion Hold -> Cenarion Hisarı (ZoneData.lua)
+    -- Silithus -> Silithus (ZoneData.lua)
+    ["8687"] = {
+    ["Title"]="Hedef: Hive'Zora Tünelcileri",
+    ["Description"]="Hive'Zora'ya yapılan saldırıya katılmak üzere takviye birlikler çağrıldı. Hive'Zora tünelcilerini hedef almak üzere seçildiniz. Görevinizi tamamladıktan sonra Komutan Mar'alith'e rapor verin.",
+    ["Objectives"]="30 Hive'Zora Tünelcisi katlet ve Silithus'taki Cenarion Hisarı'nda bulunan Komutan Mar'alith'e rapor ver. Bu görevi tamamlamak için Muharebe Görev Bilgilendirmesi VII'yi de getirmelisin.",
+    ["Progress"]="Bana söyleyecek bir şeyin var mı, $C?",
+    ["Completion"]="Mükemmel iş, YOUR_NAME. Tünelcileri olmadan silitidlerin kovan yapılarında meydana gelen herhangi bir hasarı onarması zor olacak. Yeni bir görev isteyeceğini tahmin ediyorum.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Target: Hive'Zora Tunnelers
+
+    -- Field Duty
+    -- Captain Skullsplit -> Yüzbaşı Kafayaran (MobNpcData.lua)
+    -- Orgrimmar Legion -> Orgrimmar Lejyonu
+    -- Hive'Regal -> Hive'Regal (ZoneData.lua)
+    -- Windcaller Kaldon -> Rüzgarçağıran Kaldon (MobNpcData.lua)
+    -- Cenarion Hold -> Cenarion Hisarı (ZoneData.lua)
+    -- Ironforge Brigade -> Demirörs Tugayı
+    ["8731"] = {
+    ["Title"]="Saha Görevi",
+    ["Description"]="Selamlar, YOUR_NAME. Seni savaştaki daha karmaşık görevlere atamadan önce saha görevindeki payını yapman gerekecek.\n\nYüzbaşı Kafayaran'ın Orgrimmar Lejyonu'nu Hive'Regal'in dışında bulacaksın.\n\nOna rapor ver ve saha hizmetinin kanıtıyla bana geri dön. Senin için daha gelişmiş bir görev hazırlamış olacağım.\n\nAyrıca lütfen Demirörs Tugayı'ndan uzak durmak için elinden geleni yap. İttifak ve Horde gönüllülerimiz arasında gerginlik yüksek.",
+    ["Objectives"]="Hive'Regal'in önündeki Orgrimmar Lejyonu karakolunda bulunan Krug Kafayaran'a rapor ver. İmzasız Saha Görevi Kağıtları'nı hazırla, İmzalı Saha Görevi Kağıtları'nı al ve onları Cenarion Hisarı'ndaki Rüzgarçağıran Kaldon'a getir.\n\nNot: Orgrimmar Lejyonu'nun bir üyesini iyileştirmek veya ona faydalı büyüler yapmak seni PvP durumuna sokacaktır.",
+    ["Progress"]="Saha görevini tamamladın mı, YOUR_NAME? Yüzbaşı Kafayaran Hive'Regal'in dışında bulunabilir.",
+    ["Completion"]="Krug'un evrak işleriyle pek ilgilenmediğini söyleyebilirim. Bunu silitid kanıyla imzalamış!\n\nÇok güzel, YOUR_NAME. Bir $C olarak becerilerinden iyi şekilde yararlanmanı sağlayacak bir dizi görev hazırladım.\n\nSenin ve senin gibilerin devam eden çabalarıyla düşmanımız yakında tek ve kesin olarak ezilecek!",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Field Duty
+
+    -- Eranikus, Tyrant of the Dream
+    -- Eranikus -> Eranikus (MobNpcData.lua)
+    -- Old Gods -> Kadim Tanrılar
+    -- Darnassus -> Darnassus (ZoneData.lua)
+    -- Tyrande -> Tyrande (MobNpcData.lua)
+    -- Staghelm -> Staghelm (MobNpcData.lua)
+    -- Malfurion -> Malfurion (MobNpcData.lua)
+    -- Teldrassil -> Teldrassil (ZoneData.lua)
+    ["8733"] = {
+    ["Title"]="Rüya'nın Zorbasi Eranikus",
+    ["Description"]="Bu bir kefaret yolculuğudur, kahraman. Bugün ölecek olsaydım, haklı ve doğru bir dava uğruna ölmüş olurdum. Yeşil asa kıymığını geri almalısın. Eranikus'u Kadim Tanrılar tarafından üzerine konan lekeden arındırmalısın.\n\nDarnassus'a seyahat et. Şehir surlarının hemen dışında ajanlarımdan birini bulacaksın. Bu ajan Staghelm'i uyarmadan Tyrande'yi planlarımızdan haberdar edecek ve bizim için işleri harekete geçirecektir.\n\n<Malfurion iç çeker.>\n\nBin yıldır hazırlanan bir lütuftan düşüş...",
+    ["Objectives"]="Teldrassil kıtasına seyahat et ve Darnassus surlarının dışında bir yerde Malfurion'un ajanını bul.",
+    ["Progress"]="",
+    ["Completion"]="Ruh, alçak bir uğultu dışında sessizdir. Tuhaf bir şekilde seninle düşünceler aracılığıyla iletişim kurabiliyor.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Eranikus, Tyrant of the Dream
+
+    -- Azure Templar
+    -- Twilight's Hammer -> Alacakaranlık Çekiçi
+    -- Silithus -> Silithus (ZoneData.lua)
+    -- Ahn'Qiraj -> Ahn'Qiraj (ZoneData.lua)
+    -- Bor Wildmane -> Bor Yeleliboz (MobNpcData.lua)
+    -- Cenarion Hold -> Cenarion Hisarı (ZoneData.lua)
+    ["8737"] = {
+    ["Title"]="Gök Tapınakçı",
+    ["Description"]="Alacakaranlık Çekiçi ve taptıkları elemental soyluları, Silithus'taki operasyonlarımız için çetin bir tehdit oluşturuyor. Ahn'Qiraj içinde karşılaştığımız yeni düşmanlarla birlikte, dışarıdaki düşmanlarımıza karşı gardımızı düşürmeyi göze alamayız.\n\nBir Gök Tapınakçı çağırıp yok etmenin bir yolunu bul ve Bor Yeleliboz'a rapor ver.",
+    ["Objectives"]="Bir Gök Tapınakçı çağırıp katlet ve Cenarion Hisarı'ndaki Bor Yeleliboz'a rapor ver. Bu görevi tamamlamak için Taktik Görev Bilgilendirmesi I'i de getirmelisin.",
+    ["Progress"]="Görevin bitti mi, YOUR_NAME?",
+    ["Completion"]="İyi iş, YOUR_NAME. İşte bir sonraki görevin.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Azure Templar
+
+    -- Hive'Regal Scout Report
+    -- Hive'Regal -> Hive'Regal (ZoneData.lua)
+    -- Scout Landion -> Gözcü Landion (MobNpcData.lua)
+    -- Windcaller Proudhorn -> Rüzgarçağıran Gururluboynuz (MobNpcData.lua)
+    -- Cenarion Hold -> Cenarion Hisarı (ZoneData.lua)
+    ["8738"] = {
+    ["Title"]="Hive'Regal Gözcü Raporu",
+    ["Description"]="İstihbarat toplamak için en iyi gözcülerimizi silitid kovanlarının derinliklerine gönderdik. Gözcü Landion günlerdir Hive'Regal'deki silitid hareketlerini izliyor. Onu bul ve yazılı bir rapor al. Bu bilgi doğrultusunda bir an önce harekete geçebilmemiz gerekiyor, YOUR_NAME.",
+    ["Objectives"]="Hive'Regal içindeki Cenarion Gözcüsü Landion ile iletişime geç ve Hive'Regal Gözcü Raporu'nu Cenarion Hisarı'ndaki Rüzgarçağıran Gururluboynuz'a getir. Bu görevi tamamlamak için Taktik Görev Bilgilendirmesi VII'yi de getirmelisin.",
+    ["Progress"]="Gözcü Landion'u Hive'Regal'in içinde bulacaksın. Acele et, YOUR_NAME! Zaman çok önemli.",
+    ["Completion"]="Çabaların son derece makbule geçti, YOUR_NAME. Bu gözcü raporlarını hemen okuyacağım, bir sonraki görevini gözden geçirmekten çekinme.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Hive'Regal Scout Report
+
+    -- Hive'Ashi Scout Report
+    -- Hive'Ashi -> Hive'Ashi (ZoneData.lua)
+    -- Scout Jalia -> Gözcü Jalia (MobNpcData.lua)
+    -- Windcaller Proudhorn -> Rüzgarçağıran Gururluboynuz (MobNpcData.lua)
+    -- Cenarion Hold -> Cenarion Hisarı (ZoneData.lua)
+    ["8739"] = {
+    ["Title"]="Hive'Ashi Gözcü Raporu",
+    ["Description"]="İstihbarat toplamak için en iyi gözcülerimizi silitid kovanlarının derinliklerine gönderdik. Gözcü Jalia günlerdir Hive'Ashi'deki silitid hareketlerini izliyor. Onu bul ve yazılı bir rapor al. Bu bilgi doğrultusunda bir an önce harekete geçebilmemiz gerekiyor, YOUR_NAME.",
+    ["Objectives"]="Hive'Ashi içindeki Cenarion Gözcüsü Jalia ile iletişime geç ve Hive'Ashi Gözcü Raporu'nu Cenarion Hisarı'ndaki Rüzgarçağıran Gururluboynuz'a getir. Bu görevi tamamlamak için Taktik Görev Bilgilendirmesi VIII'i de getirmelisin.",
+    ["Progress"]="Gözcü Jalia'yı Hive'Ashi'nin içinde bulacaksın. Acele et, YOUR_NAME! Zaman çok önemli.",
+    ["Completion"]="Çabaların son derece makbule geçti, YOUR_NAME. Bu gözcü raporlarını hemen okuyacağım, bir sonraki görevini gözden geçirmekten çekinme.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Hive'Ashi Scout Report
+
+    -- Twilight Marauders
+    -- Twilight's Hammer -> Alacakaranlık Çekiçi
+    -- Cenarion Hold -> Cenarion Hisarı (ZoneData.lua)
+    -- Morna -> Morna (MobNpcData.lua)
+    -- Windcaller Proudhorn -> Rüzgarçağıran Gururluboynuz (MobNpcData.lua)
+    ["8740"] = {
+    ["Title"]="Alacakaranlık Çapulcuları",
+    ["Description"]="Süvari Alacakaranlık Çekiçi mürit grupları, Cenarion Hisarı'ndaki birliklerimizin menzili dışında gezinirken, küçük devriyelerimizi ve kervanlarımızı vururken görüldü.\n\nMorna adında korkunç bir savaşçı olan liderleriyle birlikte alacakaranlık çapulcularını bul ve yen. Görevi tamamladıktan sonra Rüzgarçağıran Gururluboynuz'a rapor ver.",
+    ["Objectives"]="Alacakaranlık Çapulcusu Morna'yı ve 5 Alacakaranlık Çapulcusu'nu katlet. Görevin bittiğinde Rüzgarçağıran Gururluboynuz'a rapor ver. Bu görevi tamamlamak için Taktik Görev Bilgilendirmesi IX'u da getirmelisin.",
+    ["Progress"]="Görevin bitti mi, YOUR_NAME?",
+    ["Completion"]="Aferin, YOUR_NAME. Alacakaranlık çapulcuları devriyelerimize kabul edilemez sayıda kayıp verdiriyordu. İşte bir sonraki görevin.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Twilight Marauders
+
+    -- Target: Hive'Ashi Defenders
+    -- Hive'Ashi -> Hive'Ashi (ZoneData.lua)
+    -- Commander Mar'alith -> Komutan Mar'alith (MobNpcData.lua)
+    -- Cenarion Hold -> Cenarion Hisarı (ZoneData.lua)
+    -- Silithus -> Silithus (ZoneData.lua)
+    ["8770"] = {
+    ["Title"]="Hedef: Hive'Ashi Savunucuları",
+    ["Description"]="Savaş çabaları arttıkça, bölgedeki silitid varlığı operasyonlarımız için her geçen gün daha büyük bir tehdit oluşturuyor. Ana hedefinizin Hive'Ashi savunucularından oluşacağı Hive'Ashi'ye yapılacak bir saldırıda yer almak üzere seçildiniz.\n\nGöreviniz tamamlandıktan sonra Komutan Mar'alith'e rapor verin.",
+    ["Objectives"]="30 Hive'Ashi Savunucusu katlet ve Silithus'taki Cenarion Hisarı'nda bulunan Komutan Mar'alith'e rapor ver. Bu görevi tamamlamak için Muharebe Görev Bilgilendirmesi I'i de getirmelisin.",
+    ["Progress"]="Bana söyleyecek bir şeyin var mı, $C?",
+    ["Completion"]="Mükemmel iş, YOUR_NAME. Çalışkanlığın her zamanki gibi takdire şayan.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Target: Hive'Ashi Defenders
+
+    -- Target: Hive'Ashi Sandstalkers
+    -- Hive'Ashi -> Hive'Ashi (ZoneData.lua)
+    -- Commander Mar'alith -> Komutan Mar'alith (MobNpcData.lua)
+    -- Cenarion Hold -> Cenarion Hisarı (ZoneData.lua)
+    -- Silithus -> Silithus (ZoneData.lua)
+    ["8771"] = {
+    ["Title"]="Hedef: Hive'Ashi Kum Sinsi̇leri",
+    ["Description"]="Savaş çabaları arttıkça, bölgedeki silitid varlığı operasyonlarımız için her geçen gün daha büyük bir tehdit oluşturuyor. Ana hedefinizin Hive'Ashi kum sinsilerinden oluşacağı Hive'Ashi'ye yapılacak bir saldırıda yer almak üzere seçildiniz.\n\nGöreviniz tamamlandıktan sonra Komutan Mar'alith'e rapor verin.",
+    ["Objectives"]="30 Hive'Ashi Kum Sinsisi katlet ve Silithus'taki Cenarion Hisarı'nda bulunan Komutan Mar'alith'e rapor ver. Bu görevi tamamlamak için Muharebe Görev Bilgilendirmesi II'yi de getirmelisin.",
+    ["Progress"]="Bana söyleyecek bir şeyin var mı, $C?",
+    ["Completion"]="Mükemmel iş, YOUR_NAME. Hive'Ashi saldırısındaki rolünüz not edildi.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Target: Hive'Ashi Sandstalkers
+
+    -- Target: Hive'Zora Waywatchers
+    -- Hive'Zora -> Hive'Zora (ZoneData.lua)
+    -- Commander Mar'alith -> Komutan Mar'alith (MobNpcData.lua)
+    -- Cenarion Hold -> Cenarion Hisarı (ZoneData.lua)
+    -- Silithus -> Silithus (ZoneData.lua)
+    ["8772"] = {
+    ["Title"]="Hedef: Hive'Zora Yol Gözcüleri",
+    ["Description"]="Hive'Zora'ya yapılan saldırıya katılmak üzere takviye birlikler çağrıldı. Hive'Zora yol gözcülerini hedef almak üzere seçildiniz. Görevinizi tamamladıktan sonra Komutan Mar'alith'e rapor verin.",
+    ["Objectives"]="30 Hive'Zora Yol Gözcüsü katlet ve Silithus'taki Cenarion Hisarı'nda bulunan Komutan Mar'alith'e rapor ver. Bu görevi tamamlamak için Muharebe Görev Bilgilendirmesi VI'yı da getirmelisin.",
+    ["Progress"]="Bana söyleyecek bir şeyin var mı, $C?",
+    ["Completion"]="Mükemmel iş, YOUR_NAME. Hive'Zora saldırısındaki rolünüz not edildi.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Target: Hive'Zora Waywatchers
+
+    -- Target: Hive'Zora Reavers
+    -- Hive'Zora -> Hive'Zora (ZoneData.lua)
+    -- Commander Mar'alith -> Komutan Mar'alith (MobNpcData.lua)
+    -- Cenarion Hold -> Cenarion Hisarı (ZoneData.lua)
+    -- Silithus -> Silithus (ZoneData.lua)
+    ["8773"] = {
+    ["Title"]="Hedef: Hive'Zora Yağmacıları",
+    ["Description"]="Hive'Zora'ya yapılan saldırıya katılmak üzere takviye birlikler çağrıldı. Hive'Zora yağmacılarını hedef almak üzere seçildiniz. Görevinizi tamamladıktan sonra Komutan Mar'alith'e rapor verin.",
+    ["Objectives"]="30 Hive'Zora Yağmacısı katlet ve Silithus'taki Cenarion Hisarı'nda bulunan Komutan Mar'alith'e rapor ver. Bu görevi tamamlamak için Muharebe Görev Bilgilendirmesi IV'ü de getirmelisin.",
+    ["Progress"]="Bana söyleyecek bir şeyin var mı, $C?",
+    ["Completion"]="Hive'Zora saldırısındaki rolün hakkında iyi şeyler duydum. İyi çalışmaya devam et, zafer yakında bizim olacak.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Target: Hive'Zora Reavers
+
+    -- Target: Hive'Regal Ambushers
+    -- Hive'Regal -> Hive'Regal (ZoneData.lua)
+    -- Commander Mar'alith -> Komutan Mar'alith (MobNpcData.lua)
+    -- Cenarion Hold -> Cenarion Hisarı (ZoneData.lua)
+    -- Silithus -> Silithus (ZoneData.lua)
+    ["8774"] = {
+    ["Title"]="Hedef: Hive'Regal Pusucuları",
+    ["Description"]="Savaş çabaları arttıkça, bölgedeki silitid varlığı operasyonlarımız için her geçen gün daha büyük bir tehdit oluşturuyor. Ana hedefinizin Hive'Regal pusucularından oluşacağı Hive'Regal'e yapılacak bir saldırıda yer almak üzere seçildiniz.\n\nGöreviniz tamamlandıktan sonra Komutan Mar'alith'e rapor verin.",
+    ["Objectives"]="30 Hive'Regal Pusucusu öldür ve Silithus'taki Cenarion Hisarı'nda bulunan Komutan Mar'alith'e rapor ver. Bu görevi tamamlamak için Muharebe Görev Bilgilendirmesi VIII'i de getirmelisin.",
+    ["Progress"]="Bana bir şey mi söylemek istiyorsun, YOUR_NAME?",
+    ["Completion"]="Mükemmel iş, YOUR_NAME. Hive'Regal saldırısındaki rolünüz not edildi.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Target: Hive'Regal Ambushers
+
+    -- Target: Hive'Regal Spitfires
+    -- Hive'Regal -> Hive'Regal (ZoneData.lua)
+    -- Commander Mar'alith -> Komutan Mar'alith (MobNpcData.lua)
+    -- Cenarion Hold -> Cenarion Hisarı (ZoneData.lua)
+    -- Silithus -> Silithus (ZoneData.lua)
+    ["8775"] = {
+    ["Title"]="Hedef: Hive'Regal Ateşpüskürtenleri",
+    ["Description"]="Savaş çabaları arttıkça, bölgedeki silitid varlığı operasyonlarımız için her geçen gün daha büyük bir tehdit oluşturuyor. Ana hedefinizin havada uçan Hive'Regal ateşpüskürtenlerinden oluşacağı Hive'Regal'e yapılacak bir saldırıda yer almak üzere seçildiniz.\n\nGöreviniz tamamlandıktan sonra Komutan Mar'alith'e rapor verin.",
+    ["Objectives"]="30 Hive'Regal Ateşpüskürteni öldür ve Silithus'taki Cenarion Hisarı'nda bulunan Komutan Mar'alith'e rapor ver. Bu görevi tamamlamak için Muharebe Görev Bilgilendirmesi IX'u da getirmelisin.",
+    ["Progress"]="Malzemelerim yanında mı, YOUR_NAME?",
+    ["Completion"]="Ah, evet. Tam da ihtiyacım olan şey! Bununla özel bir karışım yapacağım. Silitidlerin hiç hoşuna gitmeyecek!",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Target: Hive'Regal Spitfires
+
+    -- Target: Hive'Regal Slavemakers
+    -- Hive'Regal -> Hive'Regal (ZoneData.lua)
+    -- Commander Mar'alith -> Komutan Mar'alith (MobNpcData.lua)
+    -- Cenarion Hold -> Cenarion Hisarı (ZoneData.lua)
+    -- Silithus -> Silithus (ZoneData.lua)
+    ["8776"] = {
+    ["Title"]="Hedef: Hive'Regal Köletapanları",
+    ["Description"]="Savaş çabaları arttıkça, bölgedeki silitid varlığı operasyonlarımız için her geçen gün daha büyük bir tehdit oluşturuyor. Ana hedefinizin Hive'Regal köletapanlarından oluşacağı Hive'Regal'e yapılacak bir saldırıda yer almak üzere seçildiniz.\n\nGöreviniz tamamlandıktan sonra Komutan Mar'alith'e rapor verin.",
+    ["Objectives"]="30 Hive'Regal Köletapanı öldür ve Silithus'taki Cenarion Hisarı'nda bulunan Komutan Mar'alith'e rapor ver. Bu görevi tamamlamak için Muharebe Görev Bilgilendirmesi X'i de getirmelisin.",
+    ["Progress"]="Bana bir şey mi söylemek istiyorsun, YOUR_NAME?",
+    ["Completion"]="Mükemmel iş, YOUR_NAME. Hive'Regal saldırısındaki rolünüz not edildi.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Target: Hive'Regal Slavemakers
+
+    -- Target: Hive'Regal Burrowers
+    -- Hive'Regal -> Hive'Regal (ZoneData.lua)
+    -- Commander Mar'alith -> Komutan Mar'alith (MobNpcData.lua)
+    -- Cenarion Hold -> Cenarion Hisarı (ZoneData.lua)
+    -- Silithus -> Silithus (ZoneData.lua)
+    ["8777"] = {
+    ["Title"]="Hedef: Hive'Regal Eşicileri",
+    ["Description"]="Savaş çabaları arttıkça, bölgedeki silitid varlığı operasyonlarımız için her geçen gün daha büyük bir tehdit oluşturuyor. Ana hedefinizin Hive'Regal eşicilerinden oluşacağı Hive'Regal'e yapılacak bir saldırıda yer almak üzere seçildiniz.\n\nGöreviniz tamamlandıktan sonra Komutan Mar'alith'e rapor verin.",
+    ["Objectives"]="30 Hive'Regal Eşicisi öldür ve Silithus'taki Cenarion Hisarı'nda bulunan Komutan Mar'alith'e rapor ver. Bu görevi tamamlamak için Muharebe Görev Bilgilendirmesi XI'i de getirmelisin.",
+    ["Progress"]="Bana bir şey mi söylemek istiyorsun, YOUR_NAME?",
+    ["Completion"]="Mükemmel iş, YOUR_NAME. Hive'Regal saldırısındaki rolünüz not edildi.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Target: Hive'Regal Burrowers
+
+    -- The Ironforge Brigade Needs Explosives!
+    -- Ironforge Brigade -> Demirörs Tugayı
+    -- Nozzlespring -> Fıskiyeyayı (MobNpcData.lua)
+    -- Arcanist Nozzlespring -> Arkanist Fıskiyeyayı (MobNpcData.lua)
+    -- Hive'Zora -> Hive'Zora (ZoneData.lua)
+    -- Silithus -> Silithus (ZoneData.lua)
+    ["8778"] = {
+    ["Title"]="Demirörs Tugayı'nın Patlayıcılara İhtiyacı Var!",
+    ["Description"]="Demirörs Tugayı son derece... uçucu... bileşenler için sıra dışı bir talepte bulundu. Onları topla ve Demirörs Tugayı'ndan Bay Fıskiyeyayı'na getir.",
+    ["Objectives"]="Silithus'taki Hive'Zora yakınlarında bulunan Arkanist Fıskiyeyayı'na 6 Yakma Yağı, 5 Goblin Roket Yakıtı ve 10 Yoğun Patlama Tozu getir. Bu görevi tamamlamak için Lojistik Görev Bilgilendirmesi IV'ü de getirmelisin.",
+    ["Progress"]="Benim için bir şeyin var mı, YOUR_NAME?",
+    ["Completion"]="Ah, evet! Bunlar işe yarayacak! Çok minnettarım, YOUR_NAME!",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end The Ironforge Brigade Needs Explosives!
+
+    -- Scrying Materials
+    -- Geologist Larksbane -> Jeolog Tarlaefendisi (MobNpcData.lua)
+    -- Silithus -> Silithus (ZoneData.lua)
+    -- Cenarion Hold -> Cenarion Hisarı (ZoneData.lua)
+    ["8779"] = {
+    ["Title"]="Kehanet Malzemeleri",
+    ["Description"]="Jeolog Tarlaefendisi'nin çalışmaları Silithus'taki operasyonlarımız için muazzam bir değere sahip olduğunu kanıtladı. Son zamanlarda araştırmalarında kullanılmak üzere kehanet malzemeleri talep etti.\n\nLütfen bu malzemeleri topla ve araştırmasına devam edebilmesi için doğrudan ona teslim et.",
+    ["Objectives"]="Silithus'taki Cenarion Hisarı'nda bulunan Jeolog Tarlaefendisi'ne 1 Büyük Parlak Parça, 1 Büyük Işıltılı Parça ve 1 Devasa Zümrüt getir. Bu görevi tamamlamak için Lojistik Görev Bilgilendirmesi V'i de getirmelisin.",
+    ["Progress"]="Benim için bir şeyin var mı, YOUR_NAME?",
+    ["Completion"]="Neden olmasın... bunlar muazzam bir yardım sağlayacak! Çölde bu malzemeleri bulmak son derece zor, YOUR_NAME. Teşekkür ederim.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Scrying Materials
+
+    -- Armor Kits for the Field
+    -- Ironforge Brigade -> Demirörs Tugayı
+    -- Janela Stouthammer -> Janela Cesurçekiç (MobNpcData.lua)
+    -- Hive'Zora -> Hive'Zora (ZoneData.lua)
+    -- Silithus -> Silithus (ZoneData.lua)
+    ["8780"] = {
+    ["Title"]="Saha İçin Zırh Kitleri",
+    ["Description"]="Demirörs Tugayı'nın savaş alanındaki zırh kiti stoğu tehlikeli derecede azalıyor. Bir parti temin et ve Hive'Zora dışındaki Demirörs Tugayı karakolunda bulunan Janela Cesurçekiç'e ulaştır.",
+    ["Objectives"]="Silithus'taki Hive'Zora yakınlarında bulunan Demirörs Tugayı Karakolu'ndaki Janela Cesurçekiç'e 8 Sert Zırh Kiti ve 8 Ağır Zırh Kiti getir. Bu görevi tamamlamak için Lojistik Görev Bilgilendirmesi VII'yi de getirmelisin.",
+    ["Progress"]="Benim için bir şeyin var mı, YOUR_NAME?",
+    ["Completion"]="Teşekkürler, bunları çocuklara dağıtacağım.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Armor Kits for the Field
+
+    -- Arms for the Field
+    -- Ironforge Brigade -> Demirörs Tugayı
+    -- Silithus -> Silithus (ZoneData.lua)
+    -- Janela Stouthammer -> Janela Cesurçekiç (MobNpcData.lua)
+    -- Hive'Zora -> Hive'Zora (ZoneData.lua)
+    ["8781"] = {
+    ["Title"]="Saha İçin Silahlar",
+    ["Description"]="Demirörs Tugayı Silithus'taki savaşımızda değerli bir müttefik oldu. Ne yazık ki, erzaklarının çoğu buraya gelirken kayboldu. Bir parti silah temin et ve Hive'Zora yakınlarındaki Janela Cesurçekiç'e ulaştır.",
+    ["Objectives"]="Hive'Zora dışındaki Demirörs Tugayı Karakolu'nda bulunan Janela Cesurçekiç'e 2 Ayçeliği Geniş Kılıcı getir. Bu görevi tamamlamak için Lojistik Görev Bilgilendirmesi VI'yı da getirmelisin.",
+    ["Progress"]="Benim için bir şeyin var mı, YOUR_NAME?",
+    ["Completion"]="Oh, mükemmel! Artık kör bıçaklar hakkında şikayet duymak zorunda kalmayacağım. Teşekkür ederim, YOUR_NAME.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Arms for the Field
+
+    -- Uniform Supplies
+    -- Windcaller Proudhorn -> Rüzgarçağıran Gururluboynuz (MobNpcData.lua)
+    -- Cenarion Hold -> Cenarion Hisarı (ZoneData.lua)
+    -- Silithus -> Silithus (ZoneData.lua)
+    ["8782"] = {
+    ["Title"]="Uniformalık Malzemeler",
+    ["Description"]="Gönüllülerin son akını üniforma kıtlığına neden oldu. Bir parti üniformalık malzeme temin et ve Rüzgarçağıran Gururluboynuz'a getir.",
+    ["Objectives"]="Silithus'taki Cenarion Hisarı'nda bulunan Rüzgarçağıran Gururluboynuz'a 1 Aykumaşı, 2 Rünlü Kumaş Topu ve 1 DemirAğı Örümcek İpeği getir. Bu görevi tamamlamak için Lojistik Görev Bilgilendirmesi VIII'i de getirmelisin.",
+    ["Progress"]="Benim için bir şeyin var mı, YOUR_NAME?",
+    ["Completion"]="Ah, bunlara ihtiyacımız vardı. Çalışman takdir edildi, YOUR_NAME.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Uniform Supplies
+
+    -- Extraordinary Materials
+    -- Vargus -> Vargus (MobNpcData.lua)
+    -- Cenarion Hold -> Cenarion Hisarı (ZoneData.lua)
+    ["8783"] = {
+    ["Title"]="Olağanüstü Malzemeler",
+    ["Description"]="Cenarion Hisarı'nın demircisi Vargus, kuvvetlerimiz için güçlü silahların işlenmesinde kullanılmak üzere efsunlu malzemeler talep etti. Bunları elde et ve doğrudan Vargus'a getir ki Cenarion Hisarı birlikleri iyi teçhizatlandırılmaya devam edebilsin.",
+    ["Objectives"]="Silithus'taki Cenarion Hisarı'nda bulunan Vargus'a 2 Efsunlu Torium Külçesi ve 2 Efsunlu Deri getir. Bu görevi tamamlamak için Lojistik Görev Bilgilendirmesi IX'u da getirmelisin.",
+    ["Progress"]="Benim için bir şeyin var mı, YOUR_NAME?",
+    ["Completion"]="Ah, evet. Bu malzemeler mükemmel kalitede. Teşekkür ederim, YOUR_NAME.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Extraordinary Materials
+
+    -- Secrets of the Qiraji
+    -- Qiraji -> Qiraji
+    ["8784"] = {
+    ["Title"]="Qiraji'nin Sırları",
+    ["Description"]="Kadim bir Qiraji eseri keşfettin! Belki de tapınağın girişinin yakınındaki ejderhalardan birinin bu kalıntı için bir kullanımı olabilir.",
+    ["Objectives"]="Kadim Qiraji Eseri'ni tapınağın girişinin yakınında saklanan ejderhalara götür.",
+    ["Progress"]="Parıldıyorsun! Bunun ne anlama geldiğini biliyorum...",
+    ["Completion"]="Olağanüstü bir bulgu, YOUR_NAME. Harika! Bu kesinlikle düşmanımızın çarpık zihinleri hakkında biraz fikir edinmemizi sağlayacak.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Secrets of the Qiraji
+
+    -- The Orgrimmar Legion Needs Mojo!
+    -- Orgrimmar Legion -> Orgrimmar Lejyonu
+    -- Silithus -> Silithus (ZoneData.lua)
+    -- Shai -> Shai (MobNpcData.lua)
+    -- Shadow Priestess Shai -> Gölge Rahibesi Shai (MobNpcData.lua)
+    -- Hive'Regal -> Hive'Regal (ZoneData.lua)
+    ["8785"] = {
+    ["Title"]="Orgrimmar Lejyonu'nun Mojo'ya İhtiyacı Var!",
+    ["Description"]="Orgrimmar Lejyonu bazı olağandışı bileşenler için talepte bulundu. Silithus'taki mevcut performansları göz önüne alındığında, isteklerine bir an önce uymak istiyoruz. Malzemeleri topla ve Shai adlı trolle getir.",
+    ["Objectives"]="Silithus'taki Hive'Regal yakınlarında bulunan Gölge Rahibesi Shai'ye 6 Güçlü Mojo, 6 Büyük Mojo Matarası ve 8 Yakma Yağı getir. Bu görevi tamamlamak için Lojistik Görev Bilgilendirmesi IV'ü de getirmelisin.",
+    ["Progress"]="Malzemelerim yanında mı, YOUR_NAME?",
+    ["Completion"]="Ah, evet. Tam da ihtiyacım olan şey! Bununla özel bir karışım yapacağım. Silitidlerin hiç hoşuna gitmeyecek!",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end The Orgrimmar Legion Needs Mojo!
+
+    -- Arms for the Field
+    -- Orgrimmar Legion -> Orgrimmar Lejyonu
+    -- Merok Longstride -> Merok Uzunadımlı (MobNpcData.lua)
+    -- Hive'Regal -> Hive'Regal (ZoneData.lua)
+    ["8786"] = {
+    ["Title"]="Saha İçin Silahlar",
+    ["Description"]="Orgrimmar Lejyonu, şu anda sağlayamadığımız ek silahlar için talepte bulundu. İstedikleri silahları elde et ve Hive'Regal dışındaki Merok Uzunadımlı'ya getir.",
+    ["Objectives"]="Hive'Regal dışındaki Orgrimmar Lejyonu kampında bulunan Merok Uzunadımlı'ya 3 Masif Demir Balta getir. Bu görevi tamamlamak için Lojistik Görev Bilgilendirmesi VI'yı da getirmelisin.",
+    ["Progress"]="Benim için bir şeyin var mı, YOUR_NAME?",
+    ["Completion"]="Mükemmel iş. Bunlar bizde azalmıştı, YOUR_NAME.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Arms for the Field
+
+    -- Armor Kits for the Field
+    -- Orgrimmar Legion -> Orgrimmar Lejyonu
+    -- Silithus -> Silithus (ZoneData.lua)
+    -- Merok Longstride -> Merok Uzunadımlı (MobNpcData.lua)
+    -- Hive'Regal -> Hive'Regal (ZoneData.lua)
+    ["8787"] = {
+    ["Title"]="Saha İçin Zırh Kitleri",
+    ["Description"]="Orgrimmar Lejyonu'nun cesur gönüllüleri davamızda bize yardım etmek için Silithus'a geldi. Zırh kiti malzemeleri bir şekilde yolculukta kayboldu. Bir parti zırh kiti edin ve Orgrimmar Lejyonu kampının bulunduğu yerdeki Merok Uzunadımlı'ya ulaştır.",
+    ["Objectives"]="Hive'Regal yakınlarındaki Merok Uzunadımlı'ya 8 Sert Zırh Kiti ve 8 Ağır Zırh Kiti getir. Bu görevi tamamlamak için Lojistik Görev Bilgilendirmesi VII'yi de getirmelisin.",
+    ["Progress"]="Benim için bir şeyin var mı, YOUR_NAME?",
+    ["Completion"]="Ah, evet... bunları birliklere dağıtacağım, YOUR_NAME. Orgrimmar Lejyonu sana teşekkür eder!",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Armor Kits for the Field
+
+    -- Imperial Qiraji Armaments
+    -- Old Gods -> Kadim Tanrılar
+    -- God -> Tanrı
+    -- Arygos -> Arygos (MobNpcData.lua)
+    -- Temple of Ahn'Qiraj -> Ahn'Qiraj Tapınağı (ZoneData.lua)
+    -- Qiraji -> Qiraji
+    ["8789"] = {
+    ["Title"]="İmparatorluk Qiraji Silahları",
+    ["Description"]="Bin yıldır boş durmadık, YOUR_NAME.\n\nBu canavarların işleri bittiğinde kendi türleriyle beslendiklerini izledik. Dünyamızı yok etmek için komplo kurup planlar yaptıklarını dinledik. Ve kendi iç hainliklerini öğrendik.\n\nZayıflıklar var ve bu zayıflıkları kendi lehimize nasıl kullanacağımızı biliyoruz.\n\nBul ve bana onların törensel silahlarını getir: Kendi Tanrılarının uçuculuğundan yaratılan elementle birleştiğinde, bir hesaplaşma gücü haline gelecekler.",
+    ["Objectives"]="İmparatorluk Qiraji Silahları ve 3 Elementiyum Cevheri getirirsen Ahn'Qiraj Tapınağı'ndaki Arygos senin için Elementiyum İşlenmiş Silahlar üretecektir.",
+    ["Progress"]="İstediğim şeyi ara. Parçalarının toplamından daha büyük olacaksın, şampiyon.",
+    ["Completion"]="Elementiyum ile işlenmiş bu silahlar, Qiraji'yi ve onların Tanrısını inanılmaz bir kolaylıkla kesecektir.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Imperial Qiraji Armaments
+
+    -- Imperial Qiraji Regalia
+    -- Old Gods -> Kadim Tanrılar
+    -- Arygos -> Arygos (MobNpcData.lua)
+    -- Merithra of the Dream -> Rüya'nın Merithra'sı (MobNpcData.lua)
+    -- Temple of Ahn'Qiraj -> Ahn'Qiraj Tapınağı (ZoneData.lua)
+    -- Qiraji -> Qiraji
+    ["8790"] = {
+    ["Title"]="İmparatorluk Qiraji Hükümdarlık Simgeleri",
+    ["Description"]="Arygos, Kadim Tanrılar ile onların hizmetkarları arasındaki çatışmalardan doğan elementin doğru koşullar altında onlar için son derece ölümcül olduğu teorisini ortaya atıyor. Elementiyum'dan bahsediyorum, ölümlü.\n\nBul ve bana İmparatorluk Qiraji Hükümdarlık Simgeleri'ni ve zehirli elementi getir, ben de büyük güce sahip silahları işleyeyim.",
+    ["Objectives"]="İmparatorluk Qiraji Hükümdarlık Simgeleri ve 3 Elementiyum Cevheri getirirsen Ahn'Qiraj Tapınağı'ndaki Rüya'nın Merithra'sı senin için Elementiyum İşlenmiş Silahlar üretecektir.",
+    ["Progress"]="Onları yere serecek ve bizi bu bağlardan kurtaracaksın.",
+    ["Completion"]="Eşyayı iyi kullan, YOUR_NAME. Başkalarına çektirmeyi bu kadar çok istedikleri acıyı hissetmelerini sağla.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Imperial Qiraji Regalia
+
+    -- The Fall of Ossirian
+    -- Ossirian -> Ossirian (MobNpcData.lua)
+    -- Kalimdor -> Kalimdor (ZoneData.lua)
+    -- Commander Mar'alith -> Komutan Mar'alith (MobNpcData.lua)
+    -- Cenarion Hold -> Cenarion Hisarı (ZoneData.lua)
+    -- Ahn'Qiraj -> Ahn'Qiraj (ZoneData.lua)
+    ["8791"] = {
+    ["Title"]="Ossirian'ın Düşüşü",
+    ["Description"]="Korkunç bir tehdit dindirildi. Zalim Ossirian mağlup edildi.\n\nKalimdor sakinleri bu zaferi öğrenmekten rahatlayacaklardır. Ossirian'ın kafasını al ve Cenarion Hisarı'ndaki Komutan Mar'alith'e sun.",
+    ["Objectives"]="Yarasız Ossirian'ın Kafası'nı Silithus'taki Cenarion Hisarı'nda bulunan Komutan Mar'alith'e ulaştır.",
+    ["Progress"]="Ah, YOUR_NAME, döndün! Ve tek parça halinde, eklemeliyim. Ahn'Qiraj'dan ne haberler getiriyorsun?",
+    ["Completion"]="Sana en yüksek takdirimi ve güç eşyalarından birini seçme hakkını sunuyorum, YOUR_NAME. Kalimdor halkına büyük bir hizmette bulundun.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end The Fall of Ossirian
+
+    -- C'Thun's Legacy
+    -- Ahn'Qiraj -> Ahn'Qiraj (ZoneData.lua)
+    -- C'Thun -> C'Thun (MobNpcData.lua)
+    -- Temple of Ahn'Qiraj -> Ahn'Qiraj Tapınağı (ZoneData.lua)
+    -- Caelastrasz -> Caelastrasz (MobNpcData.lua)
+    ["8801"] = {
+    ["Title"]="C'Thun'un Mirası",
+    ["Description"]="Ahn'Qiraj'ın surları titriyor. Dünyanın kendisinden daha eski bir kötülük gücü yok edildi.\n\nDevasa ucube yaratığın kalıntılarına baktığında kalbin neredeyse donuyor. Ölümünde bile etrafında C'Thun'un kötülüğünün mirasını hissedebiliyorsun.\n\nİmkansız olduğu düşünülen şeyi başardın.\n\nİblisin bir göz sapını kavrayıp çantanda güvenle saklıyorsun.\n\nC'Thun'un Gözü'nü bir sonraki odadaki ejderhalara götür.",
+    ["Objectives"]="C'Thun'un Gözü'nü Ahn'Qiraj Tapınağı'ndaki Caelastrasz'a götür.",
+    ["Progress"]="Soylum YOUR_NAME, bizi onun pençesinden kurtardın.",
+    ["Completion"]="Soylum YOUR_NAME, içindeki kötülüğün tamamen yok edildiğinden emin olduğumuzda buradan kendi başımıza ayrılacağız. Efsanevi yolculuğun neredeyse sona erdi.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end C'Thun's Legacy
+
+    -- The Savior of Kalimdor
+    -- Caverns of Time -> Zaman Mağaraları (ZoneData.lua)
+    -- Anachronos -> Anachronos (MobNpcData.lua)
+    -- C'Thun -> C'Thun (MobNpcData.lua)
+    ["8802"] = {
+    ["Title"]="Kalimdor'un Kurtarıcısı",
+    ["Description"]="Zaman Mağaraları'na gidiyorsun, Soylum YOUR_NAME. Anachronos dönüşünü bekliyor. Şüphesiz onu efendisinin koleksiyonuna koymak isteyeceğinden ona C'Thun'un gözünü ver.",
+    ["Objectives"]="C'Thun'un Gözü'nü Zaman Mağaraları'ndaki Anachronos'a götür.",
+    ["Progress"]="Soylum YOUR_NAME! Bitti...",
+    ["Completion"]="Efendi bunları senin için bıraktı, şampiyon. Zamansız zuladan: Binlerce yıla yayılan bir eser koleksiyonu - seçim senin.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end The Savior of Kalimdor
+
+    -- Desert Survival Kits
+    -- Cenarion Hold -> Cenarion Hisarı (ZoneData.lua)
+    -- Calandrath -> Calandrath (MobNpcData.lua)
+    -- Silithus -> Silithus (ZoneData.lua)
+    ["8804"] = {
+    ["Title"]="Çölde Hayatta Kalma Kitleri",
+    ["Description"]="Cenarion Hisarı'na yeni acemilerin gelişiyle birlikte, onları çölde hayatta tutma sorunu da ortaya çıkıyor. Dehidrasyonun yanı sıra çok sayıda zehirli yaratık, deneyimsiz gönüllüler için ciddi bir tehdit oluşturuyor. Çölde hayatta kalma kiti için gerekli malzemeleri topla ve Cenarion Hisarı'ndaki Calandrath'a getir.",
+    ["Objectives"]="Silithus'taki Cenarion Hisarı'nda bulunan handaki Calandrath'a 4 Küre Su, 4 Güçlü Panzehir ve 4 Tütsülenmiş Çöl Mantısı getir. Bu görevi tamamlamak için Lojistik Görev Bilgilendirmesi I'i de getirmelisin.",
+    ["Progress"]="Benim için bir şeyin var mı?",
+    ["Completion"]="Mükemmel! Bunlara ihtiyacımız vardı, YOUR_NAME. Teşekkürler.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Desert Survival Kits
+
+    -- Boots for the Guard
+    -- Cenarion Hold -> Cenarion Hisarı (ZoneData.lua)
+    -- Vish Kozus -> Vish Kozus (MobNpcData.lua)
+    -- Silithus -> Silithus (ZoneData.lua)
+    ["8805"] = {
+    ["Title"]="Muhafızlar İçin Çizmeler",
+    ["Description"]="Cenarion Hisarı muhafızlarının süvari birliğinde süslü mitril çizmeler tehlikeli derecede azaldı. Bir parti temin et ve derhal Cenarion Hisarı'ndaki Yüzbaşı Vish Kozus'a ulaştır.",
+    ["Objectives"]="Silithus'taki Cenarion Hisarı'nda bulunan Muhafız Yüzbaşısı Vish Kozus'a 3 Süslü Mitril Çizme getir. Bu görevi tamamlamak için Lojistik Görev Bilgilendirmesi II'yi de getirmelisin.",
+    ["Progress"]="Benim için bir şeyin var mı?",
+    ["Completion"]="Mükemmel. Bunlara ihtiyacımız vardı, YOUR_NAME. İyi iş.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Boots for the Guard
+
+    -- Grinding Stones for the Guard
+    -- Cenarion Hold -> Cenarion Hisarı (ZoneData.lua)
+    -- Vish Kozus -> Vish Kozus (MobNpcData.lua)
+    -- Silithus -> Silithus (ZoneData.lua)
+    ["8806"] = {
+    ["Title"]="Muhafızlar İçin Biley Taşları",
+    ["Description"]="Cenarion Hisarı muhafızlarında biley taşı stoğu azaldı. Bir parti temin et ve derhal Cenarion Hisarı'ndaki Yüzbaşı Vish Kozus'a ulaştır.",
+    ["Objectives"]="Silithus'taki Cenarion Hisarı'nda bulunan Muhafız Yüzbaşısı Vish Kozus'a 10 Yoğun Biley Taşı, 10 Masif Biley Taşı ve 10 Ağır Biley Taşı getir. Bu görevi tamamlamak için Lojistik Görev Bilgilendirmesi III'ü de getirmelisin.",
+    ["Progress"]="Benim için bir şeyin var mı?",
+    ["Completion"]="Mükemmel. Bunlara ihtiyacımız vardı, YOUR_NAME. İyi iş.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Grinding Stones for the Guard
+
+    -- Scrying Materials
+    -- Geologist Larksbane -> Jeolog Tarlaefendisi (MobNpcData.lua)
+    -- Silithus -> Silithus (ZoneData.lua)
+    -- Cenarion Hold -> Cenarion Hisarı (ZoneData.lua)
+    ["8807"] = {
+    ["Title"]="Kehanet Malzemeleri",
+    ["Description"]="Jeolog Tarlaefendisi'nin çalışmaları Silithus'taki operasyonlarımız için muazzam bir değere sahip olduğunu kanıtladı. Son zamanlarda araştırmalarında kullanılmak üzere kehanet malzemeleri talep etti.\n\nLütfen bu malzemeleri topla ve araştırmasına devam edebilmesi için doğrudan ona teslim et.",
+    ["Objectives"]="Silithus'taki Cenarion Hisarı'nda bulunan Jeolog Tarlaefendisi'ne 1 Büyük Parlak Parça, 1 Büyük Işıltılı Parça ve 1 Devasa Zümrüt getir. Bu görevi tamamlamak için Lojistik Görev Bilgilendirmesi V'i de getirmelisin.",
+    ["Progress"]="Benim için bir şeyin var mı, YOUR_NAME?",
+    ["Completion"]="Neden olmasın... bunlar muazzam bir yardım sağlayacak! Çölde bu malzemeleri bulmak son derece zor, YOUR_NAME. Teşekkür ederim.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Scrying Materials
+
+    -- Uniform Supplies
+    -- Windcaller Proudhorn -> Rüzgarçağıran Gururluboynuz (MobNpcData.lua)
+    -- Cenarion Hold -> Cenarion Hisarı (ZoneData.lua)
+    -- Silithus -> Silithus (ZoneData.lua)
+    ["8808"] = {
+    ["Title"]="Uniformalık Malzemeler",
+    ["Description"]="Gönüllülerin son akını üniforma kıtlığına neden oldu. Bir parti üniformalık malzeme temin et ve Rüzgarçağıran Gururluboynuz'a getir.",
+    ["Objectives"]="Silithus'taki Cenarion Hisarı'nda bulunan Rüzgarçağıran Gururluboynuz'a 1 Aykumaşı, 2 Rünlü Kumaş Topu ve 1 DemirAğı Örümcek İpeği getir. Bu görevi tamamlamak için Lojistik Görev Bilgilendirmesi VIII'i de getirmelisin.",
+    ["Progress"]="Benim için bir şeyin var mı, YOUR_NAME?",
+    ["Completion"]="Ah, bunlara ihtiyacımız vardı. Çalışman takdir edildi, YOUR_NAME.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Uniform Supplies
+
+    -- Extraordinary Materials
+    -- Vargus -> Vargus (MobNpcData.lua)
+    -- Cenarion Hold -> Cenarion Hisarı (ZoneData.lua)
+    -- Silithus -> Silithus (ZoneData.lua)
+    ["8809"] = {
+    ["Title"]="Olağanüstü Malzemeler",
+    ["Description"]="Cenarion Hisarı'nın demircisi Vargus, kuvvetlerimiz için güçlü silahların işlenmesinde kullanılmak üzere efsunlu malzemeler talep etti. Bunları elde et ve doğrudan Vargus'a getir ki Cenarion Hisarı birlikleri iyi teçhizatlandırılmaya devam edebilsin.",
+    ["Objectives"]="Silithus'taki Cenarion Hisarı'nda bulunan Vargus'a 2 Efsunlu Torium Külçesi ve 2 Efsunlu Deri getir. Bu görevi tamamlamak için Lojistik Görev Bilgilendirmesi IX'u da getirmelisin.",
+    ["Progress"]="Benim için bir şeyin var mı, YOUR_NAME?",
+    ["Completion"]="Ah, evet. Bu malzemeler mükemmel kalitede. Teşekkür ederim, YOUR_NAME.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Extraordinary Materials
+
+    -- Bandages for the Field
+    -- Windcaller Proudhorn -> Rüzgarçağıran Gururluboynuz (MobNpcData.lua)
+    -- Cenarion Hold -> Cenarion Hisarı (ZoneData.lua)
+    -- Silithus -> Silithus (ZoneData.lua)
+    ["8810"] = {
+    ["Title"]="Saha İçin Sargı Bezleri",
+    ["Description"]="Savaş alanındaki sargı bezi stoğumuz, aldığımız son kayıplardan sonra tehlikeli bir şekilde azaldı. Bir parti ilk yardım malzemesi temin et ve Cenarion Hisarı'ndaki Rüzgarçağıran Gururluboynuz'a ulaştır.",
+    ["Objectives"]="Silithus'taki Cenarion Hisarı'nda bulunan Rüzgarçağıran Gururluboynuz'a 30 Ağır Rünlü Kumaş Sargı Bezi, 30 Ağır İpek Sargı Bezi ve 30 Ağır Büyüdokuma Sargı Bezi getir. Bu görevi tamamlamak için Lojistik Görev Bilgilendirmesi X'u da getirmelisin.",
+    ["Progress"]="Benim için bir şeyin var mı, YOUR_NAME?",
+    ["Completion"]="Tam zamanında. Bu malzemeler hayat kurtaracak, YOUR_NAME. Çalışman takdir edildi. İşte bir sonraki görevin.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end Bandages for the Field
+
+    -- The Ultimate Deception
+    -- Twilight's Hammer -> Alacakaranlık Çekiçi
+    -- Aurel Goldleaf -> Aurel Altınyaprak (MobNpcData.lua)
+    -- YOUR_NAME -> YOUR_NAME
+    -- Cenarion Hold -> Cenarion Hisarı (ZoneData.lua)
+    -- Silithus -> Silithus (ZoneData.lua)
+    ["8829"] = {
+    ["Title"]="Nihayi Kandırmaca",
+    ["Description"]="Alacakaranlık Çekiçi, sayısız gizlilik ve hile katmanıyla faaliyet gösteriyor. Eylemleri dünyamızda gerçekleştirilse de, henüz ulaşamadığımız bir yerde planlanıyor.\n\nAlacakaranlık Çekiçi'nin üstlerini çağırmak için kullandığı taşların iki yönlü taşımaya izin verdiğine inanmaya başladık. Bunları bu şekilde kullanmayı denemek için, bir alacakaranlık elçisinin cüppesini en ince ayrıntısına kadar kopyalamalıyız.\n\nGerekli malzemeleri topla ve onları Aurel Altınyaprak'a getir, YOUR_NAME.",
+    ["Objectives"]="Silithus'taki Cenarion Hisarı'nda bulunan Aurel Altınyaprak'a bir Gölge Derisi, 3 Püsküllü Ucube Dikişi ve 1 Alacakaranlık Tarikatçısı Cüppesi getir. Bu görevi tamamlamak için Lojistik Görev Bilgilendirmesi XI'i de getirmelisin.",
+    ["Progress"]="Benim için bir şeyin var mı?",
+    ["Completion"]="Evet, bunların yeterli olacağına inanıyorum. Bunları Alacakaranlık Çekiçi elçilerinin giydiği renklere dönüştüreceğim. Becerilerimin düşmanlarımızı bir kez daha kandırabilmesi için Elune'a dua ediyorum.\n\nAma bununla ilgilenme, sen üzerine düşeni yaptın ve bunun için uygun şekilde Ödüllendirileceksin. Sen sadık ve değerli bir müttefiksin, YOUR_NAME.",
+    ["minlevel"]="60",
+    ["questlevel"]="60",
+    }, -- end The Ultimate Deception
+
+    -- One Commendation Signet
+    -- Darnassus -> Darnassus (ZoneData.lua)
+    ["8830"] = {
+    ["Title"]="Bir Takdir Mührü",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Yalnızca tek bir takdir mührü olan macera severler için, bunu Darnassus nezdinde küçük bir miktar tanınma ile değiştireceğim.\n\nAynı anda on mühürlük bir yığın teslim etmenin daha iyi olduğunu lütfen unutmayın; bunu yaparak çabalarınız daha büyük bir tanınma görecektir. Onlu tam bir yığın için yeterli mührü olmayanlara bir hizmet olarak tek mühür değişimi sunuyoruz.\n\nBunu söyledikten sonra, hala tek bir mühür teslim etmek istiyorsanız size yardımcı olmaya hazırım.",
+    ["Completion"]="Pekala - eylemleriniz kayıtlara geçirildi ve çabalarınız için usulünce tanındınız. İyi çalışmaya devam et, $C.\n\nTeslim edecek daha fazla mührünüz varsa, bu konuda size daha fazla yardımcı olabilirim.",
+    ["minlevel"]="1",
+    ["questlevel"]="60",
+    }, -- end One Commendation Signet
+
+    -- Ten Commendation Signets
+    -- Darnassus -> Darnassus (ZoneData.lua)
+    ["8831"] = {
+    ["Title"]="On Takdir Mührü",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Görev sırasında mühür alan macera severlerin takdir mühürlerini kabul ediyorum. Bana teslim ettiğiniz her onlu set için, Darnassus nezdinde eylemlerinizin önemli ölçüde tanınmasını sağlayacağım. Tek Mühürleri de kabul ediyorum ama çok daha düşük bir tanınma oranında. Hiçbir başarı göz ardı edilmeyecek olsa da, daha büyük görev başarılarıyla çok daha fazla ilgileniyoruz.\n\nBunu söyledikten sonra, bir set teslim etmeye hazırsanız mühürlerinizi memnuniyetle alırım.",
+    ["Completion"]="Mükemmel! Bu mühürleri kazanmak için yaptığınız fedakarlık az değil ve hizmetiniz uygun şekilde tanınacak. Gerçekten fark yaratan senin gibi macera severlerdir, YOUR_NAME.\n\nTeslim edilecek ek mühürleriniz varsa bana bildirin; değiştirmek istediğiniz mühürler konusunda size memnuniyetle yardımcı olurum.",
+    ["minlevel"]="1",
+    ["questlevel"]="60",
+    }, -- end Ten Commendation Signets
+
+    -- One Commendation Signet
+    -- Undercity -> Yeraltı Şehri (ZoneData.lua)
+    ["8832"] = {
+    ["Title"]="Bir Takdir Mührü",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Yalnızca tek bir takdir mührü olan macera severler için, bunu Yeraltı Şehri nezdinde küçük bir miktar tanınma ile değiştireceğim.\n\nAynı anda on mühürlük bir yığın teslim etmenin daha iyi olduğunu lütfen unutmayın; bunu yaparak çabalarınız daha büyük bir tanınma görecektir. Onlu tam bir yığın için yeterli mührü olmayanlara bir hizmet olarak tek mühür değişimi sunuyoruz.\n\nBunu söyledikten sonra, hala tek bir mühür teslim etmek istiyorsanız size yardımcı olmaya hazırım.",
+    ["Completion"]="Pekala - eylemleriniz kayıtlara geçirildi ve çabalarınız için usulünce tanındınız. İyi çalışmaya devam et, $C.\n\nTeslim edecek daha fazla mührünüz varsa, bu konuda size daha fazla yardımcı olabilirim.",
+    ["minlevel"]="1",
+    ["questlevel"]="60",
+    }, -- end One Commendation Signet
+
+    -- Ten Commendation Signets
+    -- Undercity -> Yeraltı Şehri (ZoneData.lua)
+    ["8833"] = {
+    ["Title"]="On Takdir Mührü",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Görev sırasında mühür alan macera severlerin takdir mühürlerini kabul ediyorum. Bana teslim ettiğiniz her onlu set için, Yeraltı Şehri nezdinde eylemlerinizin önemli ölçüde tanınmasını sağlayacağım. Tek Mühürleri de kabul ediyorum ama çok daha düşük bir tanınma oranında. Hiçbir başarı göz ardı edilmeyecek olsa da, daha büyük görev başarılarıyla çok daha fazla ilgileniyoruz.\n\nBunu söyledikten sonra, bir set teslim etmeye hazırsanız mühürlerinizi memnuniyetle alırım.",
+    ["Completion"]="Mükemmel! Bu mühürleri kazanmak için yaptığınız fedakarlık az değil ve hizmetiniz uygun şekilde tanınacak. Gerçekten fark yaratan senin gibi macera severlerdir, YOUR_NAME.\n\nTeslim edilecek ek mühürleriniz varsa bana bildirin; değiştirmek istediğiniz mühürler konusunda size memnuniyetle yardımcı olurum.",
+    ["minlevel"]="1",
+    ["questlevel"]="60",
+    }, -- end Ten Commendation Signets
+
+    -- One Commendation Signet
+    -- Ironforge -> Demirörs (ZoneData.lua)
+    ["8834"] = {
+    ["Title"]="Bir Takdir Mührü",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Yalnızca tek bir takdir mührü olan macera severler için, bunu Demirörs nezdinde küçük bir miktar tanınma ile değiştireceğim.\n\nAynı anda on mühürlük bir yığın teslim etmenin daha iyi olduğunu lütfen unutmayın; bunu yaparak çabalarınız daha büyük bir tanınma görecektir. Onlu tam bir yığın için yeterli mührü olmayanlara bir hizmet olarak tek mühür değişimi sunıyoruz.\n\nBunu söyledikten sonra, hala tek bir mühür teslim etmek istiyorsanız size yardımcı olmaya hazırım.",
+    ["Completion"]="Pekala - eylemleriniz kayıtlara geçirildi ve çabalarınız için usulünce tanındınız. İyi çalışmaya devam et, $C.\n\nTeslim edecek daha fazla mührünüz varsa, bu konuda size daha fazla yardımcı olabilirim.",
+    ["minlevel"]="1",
+    ["questlevel"]="60",
+    }, -- end One Commendation Signet
+
+    -- Ten Commendation Signets
+    -- Ironforge -> Demirörs (ZoneData.lua)
+    ["8835"] = {
+    ["Title"]="On Takdir Mührü",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Görev sırasında mühür alan macera severlerin takdir mühürlerini kabul ediyorum. Bana teslim ettiğiniz her onlu set için, Demirörs nezdinde eylemlerinizin önemli ölçüde tanınmasını sağlayacağım. Tek Mühürleri de kabul ediyorum ama çok daha düşük bir tanınma oranında. Hiçbir başarı göz ardı edilmeyecek olsa da, daha büyük görev başarılarıyla çok daha fazla ilgileniyoruz.\n\nBunu söyledikten sonra, bir set teslim etmeye hazırsanız mühürlerinizi memnuniyetle alırım.",
+    ["Completion"]="Mükemmel! Bu mühürleri kazanmak için yaptığınız fedakarlık az değil ve hizmetiniz uygun şekilde tanınacak. Gerçekten fark yaratan senin gibi macera severlerdir, YOUR_NAME.\n\nTeslim edilecek ek mühürleriniz varsa bana bildirin; değiştirmek istediğiniz mühürler konusunda size memnuniyetle yardımcı olurum.",
+    ["minlevel"]="1",
+    ["questlevel"]="60",
+    }, -- end Ten Commendation Signets
+
+    -- One Commendation Signet
+    -- Stormwind -> Fırtınasancak (ZoneData.lua)
+    ["8836"] = {
+    ["Title"]="Bir Takdir Mührü",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Yalnızca tek bir takdir mührü olan macera severler için, bunu Fırtınasancak nezdinde küçük bir miktar tanınma ile değiştireceğim.\n\nAynı anda on mühürlük bir yığın teslim etmenin daha iyi olduğunu lütfen unutmayın; bunu yaparak çabalarınız daha büyük bir tanınma görecektir. Onlu tam bir yığın için yeterli mührü olmayanlara bir hizmet olarak tek mühür değişimi sunuyoruz.\n\nBunu söyledikten sonra, hala tek bir mühür teslim etmek istiyorsanız size yardımcı olmaya hazırım.",
+    ["Completion"]="Pekala - eylemleriniz kayıtlara geçirildi ve çabalarınız için usulünce tanındınız. İyi çalışmaya devam et, $C.\n\nTeslim edecek daha fazla mührünüz varsa, bu konuda size daha fazla yardımcı olabilirim.",
+    ["minlevel"]="1",
+    ["questlevel"]="60",
+    }, -- end One Commendation Signet
+
+    -- Ten Commendation Signets
+    -- Stormwind -> Fırtınasancak (ZoneData.lua)
+    ["8837"] = {
+    ["Title"]="On Takdir Mührü",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Görev sırasında mühür alan macera severlerin takdir mühürlerini kabul ediyorum. Bana teslim ettiğiniz her onlu set için, Fırtınasancak nezdinde eylemlerinizin önemli ölçüde tanınmasını sağlayacağım. Tek Mühürleri de kabul ediyorum ama çok daha düşük bir tanınma oranında. Hiçbir başarı göz ardı edilmeyecek olsa da, daha büyük görev başarılarıyla çok daha fazla ilgileniyoruz.\n\nBunu söyledikten sonra, bir set teslim etmeye hazırsanız mühürlerinizi memnuniyetle alırım.",
+    ["Completion"]="Mükemmel! Bu mühürleri kazanmak için yaptığınız fedakarlık az değil ve hizmetiniz uygun şekilde tanınacak. Gerçekten fark yaratan senin gibi macera severlerdir, YOUR_NAME.\n\nTeslim edilecek ek mühürleriniz varsa bana bildirin; değiştirmek istediğiniz mühürler konusunda size memnuniyetle yardımcı olurum.",
+    ["minlevel"]="1",
+    ["questlevel"]="60",
+    }, -- end Ten Commendation Signets
+
+    -- One Commendation Signet
+    -- Gnomeregan Exiles -> Gnomeregan Sürgünleri
+    ["8838"] = {
+    ["Title"]="Bir Takdir Mührü",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Yalnızca tek bir takdir mührü olan macera severler için, bunu Gnomeregan Sürgünleri nezdinde küçük bir miktar tanınma ile değiştireceğim.\n\nAynı anda on mühürlük bir yığın teslim etmenin daha iyi olduğunu lütfen unutmayın; bunu yaparak çabalarınız daha büyük bir tanınma görecektir. Onlu tam bir yığın için yeterli mührü olmayanlara bir hizmet olarak tek mühür değişimi sunuyoruz.\n\nBunu söyledikten sonra, hala tek bir mühür teslim etmek istiyorsanız size yardımcı olmaya hazırım.",
+    ["Completion"]="Pekala - eylemleriniz kayıtlara geçirildi ve çabalarınız için usulünce tanındınız. İyi çalışmaya devam et, $C.\n\nTeslim edecek daha fazla mührünüz varsa, bu konuda size daha fazla yardımcı olabilirim.",
+    ["minlevel"]="1",
+    ["questlevel"]="60",
+    }, -- end One Commendation Signet
+
+    -- Ten Commendation Signets
+    -- Gnomeregan Exiles -> Gnomeregan Sürgünleri
+    ["8839"] = {
+    ["Title"]="On Takdir Mührü",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Görev sırasında mühür alan macera severlerin takdir mühürlerini kabul ediyorum. Bana teslim ettiğiniz her onlu set için, Gnomeregan Sürgünleri nezdinde eylemlerinizin önemli ölçüde tanınmasını sağlayacağım. Tek Mühürleri de kabul ediyorum ama çok daha düşük bir tanınma oranında. Hiçbir başarı göz ardı edilmeyecek olsa da, daha büyük görev başarılarıyla çok daha fazla ilgileniyoruz.\n\nBunu söyledikten sonra, bir set teslim etmeye hazırsanız mühürlerinizi memnuniyetle alırım.",
+    ["Completion"]="Mükemmel! Bu mühürleri kazanmak için yaptığınız fedakarlık az değil ve hizmetiniz uygun şekilde tanınacak. Gerçekten fark yaratan senin gibi macera severlerdir, YOUR_NAME.\n\nTeslim edilecek ek mühürleriniz varsa bana bildirin; değiştirmek istediğiniz mühürler konusunda size memnuniyetle yardımcı olurum.",
+    ["minlevel"]="1",
+    ["questlevel"]="60",
+    }, -- end Ten Commendation Signets
+
+    -- One Commendation Signet
+    -- Orgrimmar -> Orgrimmar (ZoneData.lua)
+    ["8840"] = {
+    ["Title"]="Bir Takdir Mührü",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Yalnızca tek bir takdir mührü olan macera severler için, bunu Orgrimmar nezdinde küçük bir miktar tanınma ile değiştireceğim.\n\nAynı anda on mühürlük bir yığın teslim etmenin daha iyi olduğunu lütfen unutmayın; bunu yaparak çabalarınız daha büyük bir tanınma görecektir. Onlu tam bir yığın için yeterli mührü olmayanlara bir hizmet olarak tek mühür değişimi sunuyoruz.\n\nBunu söyledikten sonra, hala tek bir mühür teslim etmek istiyorsanız size yardımcı olmaya hazırım.",
+    ["Completion"]="Pekala - eylemleriniz kayıtlara geçirildi ve çabalarınız için usulünce tanındınız. İyi çalışmaya devam et, $C.\n\nTeslim edecek daha fazla mührünüz varsa, bu konuda size daha fazla yardımcı olabilirim.",
+    ["minlevel"]="1",
+    ["questlevel"]="60",
+    }, -- end One Commendation Signet
+
+    -- Ten Commendation Signets
+    -- Orgrimmar -> Orgrimmar (ZoneData.lua)
+    ["8841"] = {
+    ["Title"]="On Takdir Mührü",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Görev sırasında mühür alan macera severlerin takdir mühürlerini kabul ediyorum. Bana teslim ettiğiniz her onlu set için, Orgrimmar nezdinde eylemlerinizin önemli ölçüde tanınmasını sağlayacağım. Tek Mühürleri de kabul ediyorum ama çok daha düşük bir tanınma oranında. Hiçbir başarı göz ardı edilmeyecek olsa da, daha büyük görev başarılarıyla çok daha fazla ilgileniyoruz.\n\nBunu söyledikten sonra, bir set teslim etmeye hazırsanız mühürlerinizi memnuniyetle alırım.",
+    ["Completion"]="Mükemmel! Bu mühürleri kazanmak için yaptığınız fedakarlık az değil ve hizmetiniz uygun şekilde tanınacak. Gerçekten fark yaratan senin gibi macera severlerdir, YOUR_NAME.\n\nTeslim edilecek ek mühürleriniz varsa bana bildirin; değiştirmek istediğiniz mühürler konusunda size memnuniyetle yardımcı olurum.",
+    ["minlevel"]="1",
+    ["questlevel"]="60",
+    }, -- end Ten Commendation Signets
+
+    -- One Commendation Signet
+    -- Thunder Bluff -> Gürleyen Yarlar (ZoneData.lua)
+    ["8842"] = {
+    ["Title"]="Bir Takdir Mührü",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Yalnızca tek bir takdir mührü olan macera severler için, bunu Gürleyen Yarlar nezdinde küçük bir miktar tanınma ile değiştireceğim.\n\nAynı anda on mühürlük bir yığın teslim etmenin daha iyi olduğunu lütfen unutmayın; bunu yaparak çabalarınız daha büyük bir tanınma görecektir. Onlu tam bir yığın için yeterli mührü olmayanlara bir hizmet olarak tek mühür değişimi sunuyoruz.\n\nBunu söyledikten sonra, hala tek bir mühür teslim etmek istiyorsanız size yardımcı olmaya hazırım.",
+    ["Completion"]="Pekala - eylemleriniz kayıtlara geçirildi ve çabalarınız için usulünce tanındınız. İyi çalışmaya devam et, $C.\n\nTeslim edecek daha fazla mührünüz varsa, bu konuda size daha fazla yardımcı olabilirim.",
+    ["minlevel"]="1",
+    ["questlevel"]="60",
+    }, -- end One Commendation Signet
+
+    -- Ten Commendation Signets
+    -- Thunder Bluff -> Gürleyen Yarlar (ZoneData.lua)
+    ["8843"] = {
+    ["Title"]="On Takdir Mührü",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Görev sırasında mühür alan macera severlerin takdir mühürlerini kabul ediyorum. Bana teslim ettiğiniz her onlu set için, Gürleyen Yarlar nezdinde eylemlerinizin önemli ölçüde tanınmasını sağlayacağım. Tek Mühürleri de kabul ediyorum ama çok daha düşük bir tanınma oranında. Hiçbir başarı göz ardı edilmeyecek olsa da, daha büyük görev başarılarıyla çok daha fazla ilgileniyoruz.\n\nBunu söyledikten sonra, bir set teslim etmeye hazırsanız mühürlerinizi memnuniyetle alırım.",
+    ["Completion"]="Mükemmel! Bu mühürleri kazanmak için yaptığınız fedakarlık az değil ve hizmetiniz uygun şekilde tanınacak. Gerçekten fark yaratan senin gibi macera severlerdir, YOUR_NAME.\n\nTeslim edilecek ek mühürleriniz varsa bana bildirin; değiştirmek istediğiniz mühürler konusunda size memnuniyetle yardımcı olurum.",
+    ["minlevel"]="1",
+    ["questlevel"]="60",
+    }, -- end Ten Commendation Signets
+
+    -- One Commendation Signet
+    -- Darkspear -> Karamızrak
+    ["8844"] = {
+    ["Title"]="Bir Takdir Mührü",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Yalnızca tek bir takdir mührü olan macera severler için, bunu Karamızrak kabilesi nezdinde küçük bir miktar tanınma ile değiştireceğim.\n\nAynı anda on mühürlük bir yığın teslim etmenin daha iyi olduğunu lütfen unutmayın; bunu yaparak çabalarınız daha büyük bir tanınma görecektir. Onlu tam bir yığın için yeterli mührü olmayanlara bir hizmet olarak tek mühür değişimi sunuyoruz.\n\nBunu söyledikten sonra, hala tek bir mühür teslim etmek istiyorsanız size yardımcı olmaya hazırım.",
+    ["Completion"]="Pekala - eylemleriniz",
+    },
     
+["8985"] = {
+    ["Title"]="Önemli Diğer Bileşenler",
+    ["Description"]="$C, dikkatlice dinle. Artık son muska parçasının yerini bildiğimize göre, buhurdanlığı doldurmak için başka bir bileşene daha ihtiyacımız var; ölmüş, eski yoldaşımın ruhunu cezbedecek kadar güçlü bir odak noktası sağlayacak bir şey.NEW_LINENEW_Lİsalien, rahibemiz, Kışspring'de Starbreeze Köyü'nde büyüdü. Güney Kışspring'deki Frostwhisper Geçidi'nin Frostmaul devlerinden bir Starbreeze Köyü Yadigarı toplamanı istiyorum, bu devlerin zaman zaman kuzeye baskın yaptığı bilinir.",
+    ["Objectives"]="Bir Starbreeze Köyü Yadigarı elde et ve Kara Kaya Dağı içindeki Bodley'ye geri dön.",
+    ["Progress"]="Seni toplamaya gönderdiğim şeyle hemen döndün mü $C?",
+    ["Completion"]="Harika bir iş, YOUR_NAME. Yadigârın özünü buhurdanlığa aşılayacağım.NEW_LINENEW_Lİşte şimdi geriye kalan tek şey Dire Maul'un doğu kanadındaki Eldretharr Tapınağı'na gitmek ve buhurdanlığı kullanarak eski yoldaşım Isalien'in ruhunu çağırmak. Valthalak'ın muska parçasına ve içindeki ruh parçasına sahip olduğu için ruhu bozuldu.NEW_LINENEW_LBu arada, Alcaz Adası gezinden kalan biraz kan yosunum vardı, bu yüzden senin için birkaç iksir yaptım. Seçimini yap!",
+    ["minlevel"]="58",
+    ["questlevel"]="60"
+},
 
-    --123456789
+["8986"] = {
+    ["Title"]="Önemli Diğer Bileşenler",
+    ["Description"]="$C, dikkatlice dinle. Artık son muska parçasının yerini bildiğimize göre, buhurdanlığı doldurmak için başka bir bileşene daha ihtiyacımız var; ölmüş, eski yoldaşımın ruhunu cezbedecek kadar güçlü bir odak noktası sağlayacak bir şey.NEW_LINENEW_LÖncelikli druidimiz Mor Bozboynuz'un Cenarion Çemberi arasında birçok yakın dostu vardı, bazıları silithidlere yenik düştü. Güneydoğu Silithus'taki Hive'Regal çevresinde yaşayan silithidlerden Druid Kalıntıları getirmeni istiyorum.",
+    ["Objectives"]="Druid Kalıntıları elde et ve Kara Kaya Dağı içindeki Bodley'ye geri dön.",
+    ["Progress"]="Seni toplamaya gönderdiğim şeyle hemen döndün mü $C?",
+    ["Completion"]="Harika bir iş, YOUR_NAME. Kalıntıların özünü buhurdanlığa aşılayacağım.NEW_LINENEW_Lİşte şimdi geriye kalan tek şey Kara Kaya Tepesi'nin alt kısmına, Tazz'Alaor'da Savaş Ustası Voone'un ikamet ettiği odaya gitmek ve buhurdanlığı kullanarak eski yoldaşım Mor Bozboynuz'un bozulmuş ruhunu çağırmak. Muska parçası ondan alınana kadar huzur bulamaz.NEW_LINENEW_LBu arada, Alcaz Adası gezinden kalan biraz kan yosunum vardı, bu yüzden senin için birkaç iksir yaptım. Seçimini yap!",
+    ["minlevel"]="58",
+    ["questlevel"]="60"
+},
 
+["8987"] = {
+    ["Title"]="Önemli Diğer Bileşenler",
+    ["Description"]="$C, dikkatlice dinle. Artık son muska parçasının yerini bildiğimize göre, buhurdanlığı doldurmak için başka bir bileşene daha ihtiyacımız var; ölmüş, eski yoldaşlarımın kalıntılarını çağırmak için yeterince güçlü bir odak noktası sağlayacak bir şey.NEW_LINENEW_LKardeşler, Jarien ve Sothos, Kızıl Haçlı Seferi yoluna inananlardı. O aşağılık örgüt içinde şövalyeliğe özeniyorlardı. Doğu Veba Toprakları'ndaki Tyr'in Eli'ne git ve oradaki muhafızlardan Görkemli Taassup Kılıcı al.",
+    ["Objectives"]="Görkemli Taassup Kılıcı getir ve Kara Kaya Dağı içindeki Bodley'ye dön.",
+    ["Progress"]="Seni toplamaya gönderdiğim şeyle hemen döndün mü $C?",
+    ["Completion"]="Harika bir iş, YOUR_NAME. Kılıcın özünü buhurdanlığa aşılayacağım.NEW_LINENEW_LŞimdi geriye kalan tek şey Stratholme'daki Kızıl Tabyası'nın içindeki Al Taht'a girmek ve eski yoldaşlarım Jarien ve Sothos'un kalıntılarını çağırmak için buhurdanlığı kullanmak. Valthalak'ın muska parçasına ve içindeki ruhuna sahip olmaları yüzünden ruhları daha da bozuldu.NEW_LINENEW_LBu arada, Alcaz Adası gezinden kalan biraz kan yosunum vardı, bu yüzden senin için birkaç iksir yaptım. Seçimini yap!",
+    ["minlevel"]="58",
+    ["questlevel"]="60"
+},
+
+["8988"] = {
+    ["Title"]="Önemli Diğer Bileşenler",
+    ["Description"]="$C, dikkatlice dinle. Artık son muska parçasının yerini bildiğimize göre, buhurdanlığı doldurmak için başka bir bileşene daha ihtiyacımız var; ölmüş, eski yoldaşımın ruhunu cezbedecek kadar güçlü bir odak noktası sağlayacak bir şey.NEW_LINENEW_LBizimle seyahat eden bir ogre ölüçağıran olan Kormok, Tepelik Araziler'in güney kıyısındaki Purgation Adası'nın sürgün edilmiş ölülerinin ruhlarını çağırmaktan keyif alırdı. Oraya git ve kalıntılarından Sürgün Edilmişlerin Ruh Küllerini al.",
+    ["Objectives"]="Sürgün Edilmişlerin Ruh Küllerini elde et ve Kara Kaya Dağı içindeki Bodley'ye dön.",
+    ["Progress"]="Seni toplamaya gönderdiğim şeyle hemen döndün mü $C?",
+    ["Completion"]="Harika bir iş, YOUR_NAME. Küllerin özünü buhurdanlığa aşılayacağım.NEW_LINENEW_LŞimdi geriye kalan tek şey Scholomance'a, Ras Frostwhisper'ın odasına girmek ve buhurdanlığı kullanarak eski yoldaşım Kormok'un ruhunu çağırmak. Muska parçası ve içindeki Valthalak'ın ruhu onu daha da bozdu ve sen onu zorla ondan alana kadar huzur bulamayacak.NEW_LINENEW_LBu arada, Alcaz Adası gezinden kalan biraz kan yosunum vardı, bu yüzden senin için birkaç iksir yaptım. Seçimini yap!",
+    ["minlevel"]="58",
+    ["questlevel"]="60"
+},
+
+["8989"] = {
+    ["Title"]="Lord Valthalak'ın Muskasının Doğru Parçası",
+    ["Description"]="Dostum, Mor Bozboynuz, Lord Valthalak'ın muskasının bir parçasına ve içerdiği bozucu ruh kırıntısına kurban giden ilk kişiydi. Valthalak'ın büyü kitabını ve muskasını çaldıktan sonra, Kara Kaya Tepesi'nin üst kısmından canımızı kurtarmak için kaçtık. Yol boyunca Mor, tepenin alt kısmına düştü.NEW_LINENEW_LDaha sonra öğrendik ki düşüşten sağ kurtulmuş, ancak Savaş Ustası Voone tarafından yakalanıp işkence görmüş. Birkaç tayf suikastçı içeri sızdı ve onu Voone'un tam önünde katletti.",
+    ["Objectives"]="Mor Bozboynuz'un ruhunu çağırmak için Çağrı Buhurdanlığı'nı kullan ve onu katlet. Birleştirilmiş Lord Valthalak'ın Muskası ve Çağrı Buhurdanlığı ile Kara Kaya Dağı içindeki Bodley'ye geri dön.",
+    ["Progress"]="Öyleyse bitti mi? Lord Valthalak'ın muskasının doğru parçasını aldın, muskayı tek bir bütün halinde birleştirdin ve eski yoldaşım Mor Bozboynuz'un ruhunu nihayet huzura erdirdin mi?",
+    ["Completion"]="Mor Bozboynuz'a yardım ettiğin için teşekkür ederim, YOUR_NAME. Başka bir ruh huzur içinde yatıyor ve artık yeniden birleştirilmiş muskaya sahibiz! Ancak önümüzde hâlâ en zorlu test var.NEW_LINENEW_LBuhurdanlığın Lord Valthalak'ı çağırmaya uyum sağlanması için birkaç eşyanın daha toplanıp buraya bana getirilmesi gerekiyor.",
+    ["minlevel"]="58",
+    ["questlevel"]="60"
+},
+
+["8990"] = {
+    ["Title"]="Lord Valthalak'ın Muskasının Doğru Parçası",
+    ["Description"]="Hayatta kalmak için elimizden geleni yaptığımız sonraki günlerde öğrendik ki, birliğimizin gecelefi rahibesi Isalien, artık Dire Maul olarak bilinen gece elflerinin ata şehrine gitmiş. Topladığımız bilgilere göre, hem kişisel nedenlerle hem de elinde bulunan muska parçasının sırlarını çözmek için oraya gitmiş.NEW_LINENEW_LAncak tam olarak başaramadı. Vahşi_şekillendiren Alzzin ve kuvvetleri tarafından Eldretharr Tapınağı'nda pusuya düşürüldüğünün haberi bize ulaştı.",
+    ["Objectives"]="Isalien'in ruhunu çağırmak için Çağrı Buhurdanlığı'nı kullan ve onu katlet. Birleştirilmiş Lord Valthalak'ın Muskası ve Çağrı Buhurdanlığı ile Kara Kaya Dağı içindeki Bodley'ye geri dön.",
+    ["Progress"]="Isalien'in ruhunun kurtarılması ve Lord Valthalak'ın muskasının doğru parçasının alınması işini çoktan halletmiş olamazsın, değil mi YOUR_NAME? Muskayı bana vermeden önce parçalarını birleştirdiğinden emin ol.",
+    ["Completion"]="Isalien'in ruhunu huzura kavuşturduğun için teşekkür ederim, YOUR_NAME. Şimdi, belki de tanrıçasıyla huzuru bulacaktır. Ve yeniden birleştirilmiş muskaya da sahibiz! Ancak önümüzde hâlâ en zorlu test var.NEW_LINENEW_LBuhurdanlığın Lord Valthalak'ı çağırmaya uyum sağlanması için birkaç eşyanın daha toplanıp buraya bana getirilmesi gerekiyor.",
+    ["minlevel"]="58",
+    ["questlevel"]="60"
+},
+
+["8991"] = {
+    ["Title"]="Lord Valthalak'ın Muskasının Doğru Parçası",
+    ["Description"]="Kardeşler, Jarien ve Sothos, paralı asker şirketimizin dağılması üzerine Kızıl Haçlı Seferi'ne katılmaya karar verdiler. Lord Valthalak'ın muskasının doğru parçasını da yanlarına aldılar. Kurtulduğumuza sevindim derim, ama o parçaya ihtiyacımız var.NEW_LINENEW_LÖğrenebildiğimiz kadarıyla, Kızıl Tabyası'ndaki odasında kabul törenlerinde başarısız oldukları için Büyük Haçlı Dathrohan'ın kendisi tarafından katledilmişler.NEW_LINENEW_LHer halükarda, biz... yani sen, muskanın o parçasını hâlâ alman gerekecek.",
+    ["Objectives"]="Jarien ve Sothos'u çağırmak için Çağrı Buhurdanlığı'nı kullan ve onları katlet. Birleştirilmiş Lord Valthalak'ın Muskası ve Çağrı Buhurdanlığı ile Kara Kaya Dağı içindeki Bodley'ye geri dön.",
+    ["Progress"]="Bu durumda $C, bu iki aptalın ruhunu çoktan huzura kavuşturduğun ve Lord Valthalak'ın muskasının parçalarını birleştirdiğin anlamına mı geliyor?",
+    ["Completion"]="Sanırım o ikisinin ruhlarının nihayet huzura kavuşması en iyisi oldu, yaşarlarken onlardan hoşlanmasam bile. Her halükarda peşinde olduğumuz şeyi aldık ve artık muska yeniden birleşti! Ancak önümüzde hâlâ en zorlu test var.NEW_LINENEW_LBuhurdanlığın Lord Valthalak'ı çağırmaya uyum sağlanması için birkaç eşyanın daha toplanıp buraya bana getirilmesi gerekiyor.",
+    ["minlevel"]="58",
+    ["questlevel"]="60"
+},
+
+["8992"] = {
+    ["Title"]="Lord Valthalak'ın Muskasının Doğru Parçası",
+    ["Description"]="Şimdi ihtiyacımız olan şeye sahibiz, bu yüzden sırada kimi çağıracağını tartışma vakti geldi.NEW_LINENEW_LKormok ölüçağırmaya yönelene kadar bir ogre için iyiydi. Ondan sonra, ekipteki hemen hemen herkes için işler ürkütücü bir hal aldı. Muska parçasını alıp yeni evi olan Scholomance'a döndüğünde hiç şaşırmadık.NEW_LINENEW_LAncak orada bile, ya da belki özellikle orada, tayf suikastçılardan güvende değildi. Onu ustası Ras Frostwhisper'ın gözleri önünde katlettiler.",
+    ["Objectives"]="Kormok'un ruhunu çağırmak için Çağrı Buhurdanlığı'nı kullan ve onu katlet. Birleştirilmiş Lord Valthalak'ın Muskası ve Çağrı Buhurdanlığı ile Kara Kaya Dağı içindeki Bodley'ye geri dön.",
+    ["Progress"]="Tamamlanmış muska ile döndüysen seni tebrik ederim YOUR_NAME. Eğer dönmediysen, lütfen bununla ilgilen çünkü kaybedecek vakit yok, seni temin ederim!",
+    ["Completion"]="İyi iş, YOUR_NAME! Kormok bir ogre için o kadar da kötü değildi, en azından hâlâ yaşarken, bu yüzden hak ettiği huzuru bulacağını umuyorum. Ve şimdi tamamlanmış muskaya sahibiz! Ancak önümüzde hâlâ en zorlu test var.NEW_LINENEW_LBuhurdanlığın Lord Valthalak'ı çağırmaya uyum sağlanması için birkaç eşyanın daha toplanıp buraya bana getirilmesi gerekiyor.",
+    ["minlevel"]="58",
+    ["questlevel"]="60"
+},
+
+["8994"] = {
+    ["Title"]="Son Hazırlıklar",
+    ["Description"]="Neredeyse vardık $c. Geriye kalan tek şey, buhurdanlığı uyumlayıp Lord Valthalak'ı çağırmasını sağlayabilmem için birkaç bileşen daha getirmek.NEW_LINENEW_LBaşlamak için senden Kara Kaya Tepesi'ne gitmeni ve oradaki orkları katletmeni istemeliyim. İhtiyacım olan iz metalleri içeren kolluklar takıyorlar, bu yüzden onlardan doğru miktarı çıkarmak için epeyce bir miktara ihtiyacım olacak. Ardından, aşılatma sürecini tamamlamak için bana bir Yüce Güç Şişesi getirmen gerekecek.NEW_LINENEW_Lİyi şanslar, YOUR_NAME!",
+    ["Objectives"]="40 Kara Kaya Kolluğu topla ve bir Yüce Güç Şişesi elde et. Onları Kara Kaya Dağı içindeki Bodley'ye geri getir.",
+    ["Progress"]="Uzun bir yol katettik YOUR_NAME ve ne olursa olsun sana teşekkür etmek istedim! Paralı asker şirketimizin, Örtülü Bıçak'ın, hayatta kalan üyelerine yardım etmek için kendini ölümcül tehlikeye attın ve bana kalırsa artık bizden birisin.",
+    ["Completion"]="İşte bu kadar. Kolluklardan metali çıkaracağım ve buhurdanlığı bu son bileşenlerle donatacağım. Ardından Lord Valthalak'ı çağırman ve nihayet ruh muskasını ona geri vermen için hazır olacak.NEW_LINENEW_LEpeyce bir yol katettin YOUR_NAME, sonu görünmüşken şimdi bocalama!",
+    ["minlevel"]="58",
+    ["questlevel"]="60"
+},
+
+["8995"] = {
+    ["Title"]="Mea Culpa, Lord Valthalak",
+    ["Description"]="Artık her şey hazır, YOUR_NAME.NEW_LINENEW_LŞimdi Canavar'ın odası olan yerde, Lord Valthalak yaşarken ikamet ederdi. Oraya git ve Lord Valthalak'ı çağırmak için Çağrı Buhurdanlığı'nı kullan. Onu yeniden bedenleştirecek, bu yüzden tekrar öldürülmesi gerekecek. Önce Canavar'ın icabına bakardım ve Kara Kaya Tepesi'nin üst kısmında hayatta kalmak için yanına yeterince arkadaş aldığından emin ol.NEW_LINENEW_LValthalak'ı ortadan kaldırdığında, muskayı cesedinin üzerinde kullan. Ruhu yeniden birleştiğinde, muhtemelen muskasını da geri isteyecektir.NEW_LINENEW_Lİyi şanslar!",
+    ["Objectives"]="Lord Valthalak'ı çağırmak için Çağrı Buhurdanlığı'nı kullan. Onu ortadan kaldır ve cesedin üzerinde Lord Valthalak'ın Muskanı kullan. Ardından Lord Valthalak'ın Muskanı Lord Valthalak'ın Ruhu'na geri ver.",
+    ["Progress"]="$C, uykumu bölmeye nasıl cüret edersin!",
+    ["Completion"]="Bunu benden çalan orijinal grubun bir parçası olmadığını bilmem senin için ne büyük şans.NEW_LINENEW_LŞimdi benim olanı geri alacağım, fani! Muskayı bana ver!",
+    ["minlevel"]="58",
+    ["questlevel"]="60"
+},
+
+["8996"] = {
+    ["Title"]="Bodley'ye Dönüş",
+    ["Description"]="Saygısızlığını bu seferlik görmezden geleceğim $c, çünkü bugün soylu bir şey yaptın; çalınan ruhumun geri kalanını bana teslim ettin. Zayıf doğana rağmen, YOUR_RACE, benden çalanların gösteremediği ve muhtemelen asla gösteremeyeceği bir cesaret sergiledin!NEW_LINENEW_LFikrimi değiştirip seni durduğun yerde katletmeden önce onların yanına dön. Geri git ve güvende olduklarını söyle... şimdilik.",
+    ["Objectives"]="Kara Kaya Dağı içindeki Bodley'ye dön ve ona Çağrı Buhurdanlığı'nı ver.",
+    ["Progress"]="YOUR_NAME, döndün ve hâlâ hayattasın! En azından bu durum ikimizden birini hayatta yapıyor.NEW_LINENEW_LBana her şeyi anlatman gerekecek!",
+    ["Completion"]="Gerçekten tüm bunları söyledi mi? Vay canına, gelecekte yaşayan yoldaşlarıma daha fazla zarar vereceğini ima etmiş olsa bile, tayf suikastçıları ve takipçileri geri çekeceğine inanamıyorum.NEW_LINENEW_LBu harika bir gün, YOUR_NAME! Çok az kişinin başarabileceği bir şeyi başardın ve bizi, en azından kısmen, geçmiş günahlarımızdan arındırdın.NEW_LINENEW_LTeşekkür ederim! Bir minnet göstergesi olarak sana bunu vermek istiyorum. Zaten bulunduğun aynı lanetli konumlarda ve diğer birkaç yerde ruhları çağırmak için bunu kullanabilirsin.",
+    ["minlevel"]="58",
+    ["questlevel"]="60"
+},
+
+["9015"] = {
+    ["Title"]="Meydan Okuma",
+    ["Description"]="Beni iyi dinle, YOUR_NAME. Sancağın istenen şekilde çalışması için Kara Kaya Derinlikleri'ndeki Kanun Halkası'na adım atman gerekecek. Yüksek Yargıç Grimstone tarafından mahkûm edilmene izin ver ve bir meydan okuma göstergesi olarak sancağı yere sıkıca dik.NEW_LINENEW_LKurbanın kendini tutamayacak ve seninle dövüşme arzusuyla dolu bir şekilde mücadeleye atılacaktır. Aradığın şeyi elde ettiğinde Anthion'a geri dön.",
+    ["Objectives"]="Kara Kaya Derinlikleri'ndeki Kanun Halkası'na seyahat et ve Yüksek Yargıç Grimstone tarafından mahkûm edilirken Kışkırtma Sancağı'nı merkeze yerleştir. Theldren ve gladyatörlerini katlet ve Lord Valthalak'ın muskasının ilk parçasıyla Doğu Veba Toprakları'ndaki Anthion Harmon'a dön.",
+    ["Progress"]="Geri döndün, YOUR_NAME!",
+    ["Completion"]="Madalyonun bir parçasını kurtardın mı, YOUR_NAME?",
+    ["minlevel"]="58",
+    ["questlevel"]="60"
+},
+
+["9023"] = {
+    ["Title"]="Mükemmel Zehir",
+    ["Description"]="Kardeşim ve ben Ravenholdt malikanesinden zehir operasyonlarını yürütüyoruz.NEW_LINENEW_LLord Ravenholdt, Zul'Gurub ve Ahn'Qiraj Kalıntıları sakinlerinin zehir keselerinden işlenebilecek yeni ve son derece etkili bir zehir bileşiğinin izini sürmem için beni görevlendirdi.NEW_LINENEW_LBu lanetli yıkıntılarda yaşayan ve aradığımız şeye sahip olabilecek özellikle zehirli iki canavar var, $c. Kurinnaxx ve Venoxis canavarlarından bana bir zehir kesesi getir, sana sonsuza dek minnettar kalalım.",
+    ["Objectives"]="Cenarion Kalesi'ndeki Dirk Yıldırımodunu, Venoxis'in Zehir Kesesi ile Kurinnaxx'ın Zehir Kesesi'ni getirmeni istiyor.",
+    ["Progress"]="Bu iş öyle çabucak halledilecek bir yağma işi değil, YOUR_NAME. Yanında arkadaşlarını getirmen gerekecek.",
+    ["Completion"]="Ravenholdt sana teşekkür eder, kahraman! Seçimini yap!",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9024"] = {
+    ["Title"]="Aristan'ın Sezgisi",
+    ["Description"]="Buldum! Rüzgârda beliren yeni kokuyu duydun mu? Moda olan yeni kolonyaları ve parfümleri? Muhafızlarımız görevlerini bu kadar kolay ihmal etmezdi.NEW_LINENEW_LTabii, düşünceleri bazı kirli simyalarla bulanmadığı sürece.NEW_LINENEW_LEmin olmanın tek bir yolu var - Morgan Pestle'a bir şişe kolonya ve parfüm götür ve ona şüphelerimi anlat. Döndüğünde satın alma masrafını sana ödeyeceğim.",
+    ["Objectives"]="Stormwind'in Ticaret Bölgesi'ndeki Morgan Pestle'a 1 Kolonya Şişesi ve 1 Parfüm Şişesi götür.",
+    ["Progress"]="Yardım edebileceğim bir şey var mı?",
+    ["Completion"]="Aristan'ın endişelerini anlıyorum ama gerçekten aşırı tepki verdiğini düşünüyorum. Bırakın genç erkekler ve kadınlar dilediklerini yapsınlar. Sanırım Aristan genç ve aşık olmanın ne demek olduğunu unutmuş.NEW_LINENEW_LAma bunu ona söylememek daha iyi olur. Onu idare edeceğiz.",
+    ["minlevel"]="1",
+    ["questlevel"]="60"
+},
+
+["9027"] = {
+    ["Title"]="Kaynağın İzini Sürmek",
+    ["Description"]="Kolonyada tuhaf bir şey mi var? Mümkün. Tek bir ürünün peşinde bu kadar çok insanı daha önce hiç görmemiştim.NEW_LINENEW_LBak, eğer bir sorun varsa ben de bilmek isterim. Stoğumu Evert Sorisam adında bir tüccardan satın aldım. Kasabada yeni.NEW_LINENEW_LEn İnce İplik'e teslim edeceği bazı mallar olduğunu söylemişti.",
+    ["Objectives"]="Stormwind Kanalları boyunca En İnce İplik'teki Evert Sorisam ile konuş.",
+    ["Progress"]="",
+    ["Completion"]="Evet, elbette. Bu kokular bu sezonun en popüler ürünleri. Bu saatte onları soran beşinci ya da altıncı kişi olmalısınız.NEW_LINENEW_LKorkarım stoklarımın tamamı tükendi. Biraz istiyorsanız, Yaldızlı Gül'ün hancı kadını Allison ile konuşmalısınız.NEW_LINENEW_LAncak hiç vakit kaybetmemelisiniz. Sanırım parfümün karşı konulmaz olduğunu göreceksiniz.",
+    ["minlevel"]="1",
+    ["questlevel"]="60"
+},
+
+["9028"] = {
+    ["Title"]="Açığa Çıkan Kaynak",
+    ["Description"]="Ne, vatana ihanet mi? Hayır, hayır. Sizi temin ederim, niyetim tamamen zararsız. Flört etmenin sancılı ritüelini kolaylaştırmak isteyenlere yardım etmek çok mu yanlış? Hadi ama, bu bir suç değil.NEW_LINENEW_LVe kötü bir niyetim olmadığını kanıtlamak için kaynağımı bile söyleyeceğim. Bana bir tür eczacı olan Staffron Lerent tarafından gönderildiler. Onunla hiç konuşmadım. Goblin aracımız, o gizemli Ravenholdt Malikanesi'nin ötesinde, Tepelik Araziler üzerindeki tepelerde çalıştığını söyledi. Onu bulma konusunda sana başarılar dilerim.",
+    ["Objectives"]="Ravenholdt Malikanesi'nin arkasındaki Tepelik Araziler'de Eczacı Staffron Lerent'i bul.",
+    ["Progress"]="",
+    ["Completion"]="Evet, o kokuları ben yaptım. Harika bir koku, değil mi? Karşı konulmaz.NEW_LINENEW_LIttifak ve Güruh savaşçıları bu aşk duygularıyla büyülendiğinde, Gölge Konseyi'nin yükselişini durdurmak için çaresiz kalacaklar.NEW_LINENEW_LZayıflayacaklar, hazırlıksız yakalanacaklar. Sevdikleri için endişelenirken güçlerini kaybedecekler.NEW_LINENEW_LÇözüm çok basitti. Buna ulaşmak neden bu kadar uzun sürdü? Herkesin zayıflığı kalpten geçer. Ve kaçınılmaz olanı durdurmak için yapabileceğiniz hiçbir şey yok.",
+    ["minlevel"]="1",
+    ["questlevel"]="60"
+},
+
+["9033"] = {
+    ["Title"]="Savaşın Yankıları",
+    ["Description"]="Son savaştan bu yana beş yıl geçti...NEW_LINENEW_LOn binlerce can kayboldu ve ne için? Tehdit hiçbir zaman tamamen ortadan kaldırılmadı.NEW_LINENEW_LVe böylece Lich Kralı bir kez daha kıpırdanıyor... Onun kuklası Kel'Thuzad, topraklarımıza yeni bir saldırı için güç topluyor.NEW_LINENEW_LBuna izin vermeyeceğiz! Adanmışlığını kanıtla. Bu çılgınlığı durdurmak için canını ve uzuvlarını riske atmaya kararlı olduğunu kanıtla; Şafak ve Haçlı Seferi'nin birleşik gücü emrinde olacaktır.NEW_LINENEW_LNaxxramas'a gir ve içindeki Afet'i yok et...",
+    ["Objectives"]="Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Komutan Eligor Dawnbringer, 5 Yaşayan İğrençlik, 5 Taşderili Gargoyle, 8 Ölüm Şövalyesi Yüzbaşısı ve 3 Zehir Takipçisi katletmeni istiyor.",
+    ["Progress"]="Görev, onur, adanmışlık... Bu kelimeler senin için ne anlam ifade ediyor?",
+    ["Completion"]="Harika bir iş! Işık Umudu'ndaki erkek ve kadınların hizmetleri aracılığıyla ödüllendirileceksin.",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9034"] = {
+    ["Title"]="Dreadnaught Göğüslüğü",
+    ["Description"]="Naxxramas'ta Afet ile yaptığın savaşlar sırasında, saygısızlığa uğramış siperlere ve savaştan yıpranmış plaka hurdalara rastlarsan, onları bana getir; senin için kahramanların giydiği bir zırh parçası işleyeyim.",
+    ["Objectives"]="Şu eşyaları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Korfax sana bir Dreadnaught Göğüslüğü yapacaktır: 1 Saygısızlığa Uğramış Göğüslük, 25 Savaştan Yıpranmış Plaka Hurdası, 4 Arkanit Külçesi ve 2 Kristal Özü.",
+    ["Progress"]="Naxxramas kadim kötülükleri barındırır, YOUR_NAME.",
+    ["Completion"]="Onlara korkuyu bir kez daha hissettir $C. Merhamet göstermelerine izin verme.",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9036"] = {
+    ["Title"]="Dreadnaught Bacaklıkları",
+    ["Description"]="Naxxramas'ta Afet ile yaptığın savaşlar sırasında, saygısızlığa uğramış siperlere ve savaştan yıpranmış plaka hurdalara rastlarsan, onları bana getir; senin için kahramanların giydiği bir zırh parçası işleyeyim.",
+    ["Objectives"]="Şu eşyaları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Korfax sana Dreadnaught Bacaklıkları yapacaktır: 1 Saygısızlığa Uğramış Bacaklık, 20 Savaştan Yıpranmış Plaka Hurdası, 4 Arkanit Külçesi ve 3 İşlenmiş Sert Deri.",
+    ["Progress"]="Senden önce düşenleri hatırla, YOUR_NAME.",
+    ["Completion"]="Onları ayaklarının altında ez.",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9037"] = {
+    ["Title"]="Dreadnaught Miğferi",
+    ["Description"]="Naxxramas'ta Afet ile yaptığın savaşlar sırasında, saygısızlığa uğramış siperlere ve savaştan yıpranmış plaka hurdalara rastlarsan, onları bana getir; senin için kahramanların giydiği bir zırh parçası işleyeyim.",
+    ["Objectives"]="Şu eşyaları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Korfax sana bir Dreadnaught Miğferi yapacaktır: 1 Saygısızlığa Uğramış Miğfer, 15 Savaştan Yıpranmış Plaka Hurdası, 5 Arkanit Külçesi ve 1 Kristal Özü.",
+    ["Progress"]="Kafa, çoğu bedenin en hassas kısmıdır.",
+    ["Completion"]="Unutma, beynin hâlâ kafanın içindeyse gerçekten ölmüş sayılmazsın. Bu şeyi her zaman üzerinde tut...",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9038"] = {
+    ["Title"]="Dreadnaught Omuzlukları",
+    ["Description"]="Naxxramas'ta Afet ile yaptığın savaşlar sırasında, saygısızlığa uğramış siperlere ve savaştan yıpranmış plaka hurdalara rastlarsan, onları bana getir; senin için kahramanların giydiği bir zırh parçası işleyeyim.",
+    ["Objectives"]="Şu eşyaları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Korfax sana Dreadnaught Omuzlukları yapacaktır: 1 Saygısızlığa Uğramış Omuzluk, 12 Savaştan Yıpranmış Plaka Hurdası, 2 Arkanit Külçesi ve 3 İşlenmiş Sert Deri.",
+    ["Progress"]="Sır, bantlamadadır.",
+    ["Completion"]="Her zaman omuzlukların bir zırh takımının en belirgin parçaları olduğunu düşünmüşümdür. Eminim sen de katılıyorsun.",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9039"] = {
+    ["Title"]="Dreadnaught Çizmeleri",
+    ["Description"]="Naxxramas'ta Afet ile yaptığın savaşlar sırasında, saygısızlığa uğramış siperlere ve savaştan yıpranmış plaka hurdalara rastlarsan, onları bana getir; senin için kahramanların giydiği bir zırh parçası işleyeyim.",
+    ["Objectives"]="Şu eşyaları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Korfax sana Dreadnaught Çizmeleri yapacaktır: 1 Saygısızlığa Uğramış Çizme, 12 Savaştan Yıpranmış Plaka Hurdası, 2 Arkanit Külçesi ve 3 İşlenmiş Sert Deri.",
+    ["Progress"]="İyi bir çift çizmeyi asla hafife alma. Özellikle Korfax tarafından yapıldılarsa!",
+    ["Completion"]="Son savaşta, Mograine'in tam da bu çizmelerle yaşayan ölülerin kokmuş kafataslarını parçalamasını izlemiştim.",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9040"] = {
+    ["Title"]="Dreadnaught Eldivenleri",
+    ["Description"]="Naxxramas'ta Afet ile yaptığın savaşlar sırasında, saygısızlığa uğramış siperlere ve savaştan yıpranmış plaka hurdalara rastlarsan, onları bana getir; senin için kahramanların giydiği bir zırh parçası işleyeyim.",
+    ["Objectives"]="Şu eşyaları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Korfax sana Dreadnaught Eldivenleri yapacaktır: 1 Saygısızlığa Uğramış Eldiven, 8 Savaştan Yıpranmış Plaka Hurdası, 1 Arkanit Külçesi ve 5 İşlenmiş Sert Deri.",
+    ["Progress"]="Bu eldivenler iyi bir silahı kavramak için yapılmıştır.",
+    ["Completion"]="Kavrayışın Kel'Thuzad'ın boynunun etrafında sıkılaşsın.NEW_LINENEW_L<Korfax elleriyle burkma hareketi yapar.>",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9041"] = {
+    ["Title"]="Dreadnaught Bel koruması",
+    ["Description"]="Naxxramas'ta Afet ile yaptığın savaşlar sırasında, saygısızlığa uğramış siperlere ve savaştan yıpranmış plaka hurdalara rastlarsan, onları bana getir; senin için kahramanların giydiği bir zırh parçası işleyeyim.",
+    ["Objectives"]="Şu eşyaları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Korfax sana bir Dreadnaught Bel koruması yapacaktır: 1 Saygısızlığa Uğramış Bel koruması, 8 Savaştan Yıpranmış Plaka Hurdası, 1 Arkanit Külçesi ve 5 İşlenmiş Sert Deri.",
+    ["Progress"]="Kemer hem bir moda ifadesi hem de güçlü bir koruyucu teçhizat parçasıdır.",
+    ["Completion"]="Düşmanların için bir ilmik olarak kullan. Ayrıca yerel goblin diskona giderken de tak. Kasabanın dili olacaksın!",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9042"] = {
+    ["Title"]="Dreadnaught Bileklikleri",
+    ["Description"]="Naxxramas'ta Afet ile yaptığın savaşlar sırasında, saygısızlığa uğramış siperlere ve savaştan yıpranmış plaka hurdalara rastlarsan, onları bana getir; senin için kahramanların giydiği bir zırh parçası işleyeyim.",
+    ["Objectives"]="Şu eşyaları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Korfax sana Dreadnaught Bileklikleri yapacaktır: 1 Saygısızlığa Uğramış Bileklik, 6 Savaştan Yıpranmış Plaka Hurdası, 1 Arkanit Külçesi ve 1 Kristal Özü.",
+    ["Progress"]="Bilek bir bedendeki en hassas ikinci noktadır... Yoksa dördüncü müydü?",
+    ["Completion"]="Unutma, bilek bir bedendeki en hassas beşinci noktadır! Bileklerini koru ki onlar da kesinlikle dirseklerini korusun - belki.",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9043"] = {
+    ["Title"]="Kurtuluş Cübbesi",
+    ["Description"]="Düşen kahramanlarımızın kalıntılarını Naxxramas Lordları'nın cesetleri üzerinde bulacaksın. O saygısızlığa uğramış hatıraları, savaştan yıpranmış plaka hurdaları ve lanetli zırhı canlandırabilecek üretim malzemeleriyle birlikte bana getir; senin için güzel bir zırh parçası işleyeyim.",
+    ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Komutan Eligor Dawnbringer sana bir Kurtuluş Cübbesi yapacaktır: 1 Saygısızlığa Uğramış Cübbe, 25 Savaştan Yıpranmış Plaka Hurdası, 4 Arkanit Külçesi ve 3 İşlenmiş Sert Deri.",
+    ["Progress"]="Emirlerim yücelerden geliyor, YOUR_NAME.",
+    ["Completion"]="Sağlıkla giy $C.",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9044"] = {
+    ["Title"]="Kurtuluş Bacak Korumaları",
+    ["Description"]="Düşen kahramanlarımızın kalıntılarını Naxxramas Lordları'nın cesetleri üzerinde bulacaksın. O saygısızlığa uğramış hatıraları, savaştan yıpranmış plaka hurdaları ve lanetli zırhı canlandırabilecek üretim malzemeleriyle birlikte bana getir; senin için güzel bir zırh parçası işleyeyim.",
+    ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Komutan Eligor Dawnbringer sana bir çift Kurtuluş Bacak Koruması yapacaktır: 1 Saygısızlığa Uğramış Bacak Koruması, 20 Savaştan Yıpranmış Plaka Hurdası, 4 Arkanit Külçesi ve 2 Kristal Özü.",
+    ["Progress"]="Kutsal bir savaşçı için daha uygun bir çift bacak koruması bulamazsın.",
+    ["Completion"]="Yakın dövüş ile büyü arasındaki denge bu bacak korumalarıyla sıkı bir şekilde kontrol altında tutulur.",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9045"] = {
+    ["Title"]="Kurtuluş Başlığı",
+    ["Description"]="Düşen kahramanlarımızın kalıntılarını Naxxramas Lordları'nın cesetleri üzerinde bulacaksın. O saygısızlığa uğramış hatıraları, savaştan yıpranmış plaka hurdaları ve lanetli zırhı canlandırabilecek üretim malzemeleriyle birlikte bana getir; senin için güzel bir zırh parçası işleyeyim.",
+    ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Komutan Eligor Dawnbringer sana bir Kurtuluş Başlığı yapacaktır: 1 Saygısızlığa Uğramış Başlık, 15 Savaştan Yıpranmış Plaka Hurdası, 5 Arkanit Külçesi ve 2 İşlenmiş Sert Deri.",
+    ["Progress"]="<Eligor sana bakar ve sonra konuşmasına geri döner.>",
+    ["Completion"]="<Eligor kafasını işaret eder.>NEW_LINENEW_LKapalı tut $C.",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9046"] = {
+    ["Title"]="Kurtuluş Omuzlukları",
+    ["Description"]="Düşen kahramanlarımızın kalıntılarını Naxxramas Lordları'nın cesetleri üzerinde bulacaksın. O saygısızlığa uğramış hatıraları, savaştan yıpranmış plaka hurdaları ve lanetli zırhı canlandırabilecek üretim malzemeleriyle birlikte bana getir; senin için güzel bir zırh parçası işleyeyim.",
+    ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Komutan Eligor Dawnbringer sana bir çift Kurtuluş Omuzluğu yapacaktır: 1 Saygısızlığa Uğramış Omuzluk, 12 Savaştan Yıpranmış Plaka Hurdası, 2 Arkanit Külçesi ve 2 Kristal Özü.",
+    ["Progress"]="Önemli bir şeyin ortasında olduğumuzu görmüyor musun, YOUR_NAME?",
+    ["Completion"]="Herhangi bir $C sana güçlerinin ana kısmının omuzlardan geldiğini söyleyecektir. Ne kadar büyükse o kadar iyi...",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9047"] = {
+    ["Title"]="Kurtuluş Çizmeleri",
+    ["Description"]="Düşen kahramanlarımızın kalıntılarını Naxxramas Lordları'nın cesetleri üzerinde bulacaksın. O saygısızlığa uğramış hatıraları, savaştan yıpranmış plaka hurdaları ve lanetli zırhı canlandırabilecek üretim malzemeleriyle birlikte bana getir; senin için güzel bir zırh parçası işleyeyim.",
+    ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Komutan Eligor Dawnbringer sana Kurtuluş Çizmeleri yapacaktır: 1 Saygısızlığa Uğramış Çizme, 12 Savaştan Yıpranmış Plaka Hurdası, 2 Arkanit Külçesi ve 3 İşlenmiş Sert Deri.",
+    ["Progress"]="Üretime başlayabilmem için istediğim şeyleri bana sağlamalısın.",
+    ["Completion"]="Bu çizmeler ayaklarını çok kısa boylu Afetler'in saldırılarına karşı koruyacaktır.",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9048"] = {
+    ["Title"]="Kurtuluş El Korumaları",
+    ["Description"]="Düşen kahramanlarımızın kalıntılarını Naxxramas Lordları'nın cesetleri üzerinde bulacaksın. O saygısızlığa uğramış hatıraları, savaştan yıpranmış plaka hurdaları ve lanetli zırhı canlandırabilecek üretim malzemeleriyle birlikte bana getir; senin için güzel bir zırh parçası işleyeyim.",
+    ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Komutan Eligor Dawnbringer sana Kurtuluş El Korumaları yapacaktır: 1 Saygısızlığa Uğramış El Koruması, 8 Savaştan Yıpranmış Plaka Hurdası, 1 Arkanit Külçesi ve 5 İşlenmiş Sert Deri.",
+    ["Progress"]="Üretime başlayabilmem için istediğim şeyleri bana sağlamalısın.",
+    ["Completion"]="Işık bu el korumalarından aksın ve düşmanlarını yere sersefil etsin!",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9049"] = {
+    ["Title"]="Kurtuluş Kemeri",
+    ["Description"]="Düşen kahramanlarımızın kalıntılarını Naxxramas Lordları'nın cesetleri üzerinde bulacaksın. O saygısızlığa uğramış hatıraları, savaştan yıpranmış plaka hurdaları ve lanetli zırhı canlandırabilecek üretim malzemeleriyle birlikte bana getir; senin için güzel bir zırh parçası işleyeyim.",
+    ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Komutan Eligor Dawnbringer sana bir Kurtuluş Kemeri yapacaktır: 1 Saygısızlığa Uğramış Kemer, 8 Savaştan Yıpranmış Plaka Hurdası, 1 Arkanit Külçesi ve 3 Kristal Özü.",
+    ["Progress"]="Üretime başlayabilmem için istediğim şeyleri bana sağlamalısın.",
+    ["Completion"]="Bu kemer iki işleve hizmet edecek: 1) Seni Afet'e karşı koruyacak ve yol gösterecek ve 2) Seni 20 libre daha zayıf gösterecek.",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9050"] = {
+    ["Title"]="Kurtuluş Bilek Korumaları",
+    ["Description"]="Düşen kahramanlarımızın kalıntılarını Naxxramas Lordları'nın cesetleri üzerinde bulacaksın. O saygısızlığa uğramış hatıraları, savaştan yıpranmış plaka hurdaları ve lanetli zırhı canlandırabilecek üretim malzemeleriyle birlikte bana getir; senin için güzel bir zırh parçası işleyeyim.",
+    ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Komutan Eligor Dawnbringer sana Kurtuluş Bilek Korumaları yapacaktır: 1 Saygısızlığa Uğramış Bilek Koruması, 6 Savaştan Yıpranmış Plaka Hurdası, 1 Arkanit Külçesi ve 2 İşlenmiş Sert Deri.",
+    ["Progress"]="Üretime başlayabilmem için istediğim şeyleri bana sağlamalısın.",
+    ["Completion"]="Bunların yapımı son derece uygun maliyetlidir, ancak uyarayım, içlerinde çok fazla su sıçratırsan paslanabilirler.",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9054"] = {
+    ["Title"]="Mahzen Avcısı Cübbesi",
+    ["Description"]="Mahzen yaratığının kabuğu için bir kullanım alanı keşfettim. Parçaları Naxxramas'ta kaybolan saygısızlığa uğramış büyülü zırhlardan bazılarıyla birleştirerek son derece hafif ve çok ölümcül bir zırh takımı oluşturabiliyorum.NEW_LINENEW_Lİhtiyaç duyduğum eşyaları bana getir; senin için dünyamızda daha önce hiç görülmemiş türden bir zırh takımı tasarlayayım!",
+    ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Avcı Leopold sana bir Mahzen Avcısı Cübbesi yapacaktır: 1 Saygısızlığa Uğramış Cübbe, 25 Savaştan Yıpranmış Zincir Hurdası, 4 Arkanit Külçesi ve 3 İşlenmiş Sert Deri.",
+    ["Progress"]="İstediğim eşyalara sahip misin $C?",
+    ["Completion"]="Senden korkacaklar, YOUR_NAME.",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9055"] = {
+    ["Title"]="Mahzen Avcısı Bacak Korumaları",
+    ["Description"]="Mahzen yaratığının kabuğu için bir kullanım alanı keşfettim. Parçaları Naxxramas'ta kaybolan saygısızlığa uğramış büyülü zırhlardan bazılarıyla birleştirerek son derece hafif ve çok ölümcül bir zırh takımı oluşturabiliyorum.NEW_LINENEW_Lİhtiyaç duyduğum eşyaları bana getir; senin için dünyamızda daha önce hiç görülmemiş türden bir zırh takımı tasarlayayım!",
+    ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Avcı Leopold sana Mahzen Avcısı Bacak Korumaları yapacaktır: 1 Saygısızlığa Uğramış Bacak Koruması, 20 Savaştan Yıpranmış Zincir Hurdası, 3 Arkanit Külçesi ve 5 İşlenmiş Sert Deri.",
+    ["Progress"]="İstediğim eşyalara sahip misin $C?",
+    ["Completion"]="Bu zırhtan daha fazla giydikçe kişiliğinin değiştiğini fark edeceksin. Öldürmek için doğaüstü bir yetenek kazanacaksın. Belki de bir kan arzusu.NEW_LINENEW_LYol açabileceğin hiçbir karmaşadan sorumlu tutulmayacağımı şimdiden söyleyeyim...",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9056"] = {
+    ["Title"]="Mahzen Avcısı Başlığı",
+    ["Description"]="Mahzen yaratığının kabuğu için bir kullanım alanı keşfettim. Parçaları Naxxramas'ta kaybolan saygısızlığa uğramış büyülü zırhlardan bazılarıyla birleştirerek son derece hafif ve çok ölümcül bir zırh takımı oluşturabiliyorum.NEW_LINENEW_Lİhtiyaç duyduğum eşyaları bana getir; senin için dünyamızda daha önce hiç görülmemiş türden bir zırh takımı tasarlayayım!",
+    ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Avcı Leopold sana bir Mahzen Avcısı Başlığı yapacaktır: 1 Saygısızlığa Uğramış Başlık, 15 Savaştan Yıpranmış Zincir Hurdası, 4 Arkanit Külçesi ve 2 Kristal Özü.",
+    ["Progress"]="İstediğim eşyalara sahip misin $C?",
+    ["Completion"]="Korkunç bir yaratığa dönüşüyorsun, YOUR_NAME.",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9057"] = {
+    ["Title"]="Mahzen Avcısı Omuzlukları",
+    ["Description"]="Mahzen yaratığının kabuğu için bir kullanım alanı keşfettim. Parçaları Naxxramas'ta kaybolan saygısızlığa uğramış büyülü zırhlardan bazılarıyla birleştirerek son derece hafif ve çok ölümcül bir zırh takımı oluşturabiliyorum.NEW_LINENEW_Lİhtiyaç duyduğum eşyaları bana getir; senin için dünyamızda daha önce hiç görülmemiş türden bir zırh takımı tasarlayayım!",
+    ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Avcı Leopold sana Mahzen Avcısı Omuzlukları yapacaktır: 1 Saygısızlığa Uğramış Omuzluk, 12 Savaştan Yıpranmış Zincir Hurdası, 2 Arkanit Külçesi ve 3 İşlenmiş Sert Deri.",
+    ["Progress"]="İstediğim eşyalara sahip misin $C?",
+    ["Completion"]="Bu omuzları mümkün olduğunca büyük ve belirgin yapmaya özen gösterdim.NEW_LINENEW_LSözüme güven; onlara bayılacaksın...",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9058"] = {
+    ["Title"]="Mahzen Avcısı Çizmeleri",
+    ["Description"]="Mahzen yaratığının kabuğu için bir kullanım alanı keşfettim. Parçaları Naxxramas'ta kaybolan saygısızlığa uğramış büyülü zırhlardan bazılarıyla birleştirerek son derece hafif ve çok ölümcül bir zırh takımı oluşturabiliyorum.NEW_LINENEW_Lİhtiyaç duyduğum eşyaları bana getir; senin için dünyamızda daha önce hiç görülmemiş türden bir zırh takımı tasarlayayım!",
+    ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Avcı Leopold sana Mahzen Avcısı Çizmeleri yapacaktır: 1 Saygısızlığa Uğramış Çizme, 12 Savaştan Yıpranmış Zincir Hurdası, 1 Arkanit Külçesi ve 3 Kristal Özü.",
+    ["Progress"]="İstediğim eşyalara sahip misin $C?",
+    ["Completion"]="Çizmeler hazır, YOUR_NAME! Güle güle giy.",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9059"] = {
+    ["Title"]="Mahzen Avcısı El Korumaları",
+    ["Description"]="Mahzen yaratığının kabuğu için bir kullanım alanı keşfettim. Parçaları Naxxramas'ta kaybolan saygısızlığa uğramış büyülü zırhlardan bazılarıyla birleştirerek son derece hafif ve çok ölümcül bir zırh takımı oluşturabiliyorum.NEW_LINENEW_Lİhtiyaç duyduğum eşyaları bana getir; senin için dünyamızda daha önce hiç görülmemiş türden bir zırh takımı tasarlayayım!",
+    ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Avcı Leopold sana Mahzen Avcısı El Korumaları yapacaktır: 1 Saygısızlığa Uğramış El Koruması, 8 Savaştan Yıpranmış Zincir Hurdası, 1 Arkanit Külçesi ve 5 İşlenmiş Sert Deri.",
+    ["Progress"]="İstediğim eşyalara sahip misin $C?",
+    ["Completion"]="Mahzen yaratığının öfkesinin eline rehberlik etmesine izin ver, YOUR_NAME.",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9060"] = {
+    ["Title"]="Mahzen Avcısı Kemeri",
+    ["Description"]="Mahzen yaratığının kabuğu için bir kullanım alanı keşfettim. Parçaları Naxxramas'ta kaybolan saygısızlığa uğramış büyülü zırhlardan bazılarıyla birleştirerek son derece hafif ve çok ölümcül bir zırh takımı oluşturabiliyorum.NEW_LINENEW_Lİhtiyaç duyduğum eşyaları bana getir; senin için dünyamızda daha önce hiç görülmemiş türden bir zırh takımı tasarlayayım!",
+    ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Avcı Leopold sana bir Mahzen Avcısı Kemeri yapacaktır: 1 Saygısızlığa Uğramış Kemer, 8 Savaştan Yıpranmış Zincir Hurdası, 1 Arkanit Külçesi ve 3 Kristal Özü.",
+    ["Progress"]="İstediğim eşyalara sahip misin $C?",
+    ["Completion"]="Soylulara layık bir kemer! Senin için hazır, YOUR_NAME.",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9061"] = {
+    ["Title"]="Mahzen Avcısı Bilek Korumaları",
+    ["Description"]="Mahzen yaratığının kabuğu için bir kullanım alanı keşfettim. Parçaları Naxxramas'ta kaybolan saygısızlığa uğramış büyülü zırhlardan bazılarıyla birleştirerek son derece hafif ve çok ölümcül bir zırh takımı oluşturabiliyorum.NEW_LINENEW_Lİhtiyaç duyduğum eşyaları bana getir; senin için dünyamızda daha önce hiç görülmemiş türden bir zırh takımı tasarlayayım!",
+    ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Avcı Leopold sana Mahzen Avcısı Bilek Korumaları yapacaktır: 1 Saygısızlığa Uğramış Bilek Koruması, 6 Savaştan Yıpranmış Zincir Hurdası, 1 Arkanit Külçesi ve 2 İşlenmiş Sert Deri.",
+    ["Progress"]="İstediğim eşyalara sahip misin $C?",
+    ["Completion"]="Bilek korumaları hazır. Keyfini çıkar!",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9068"] = {
+    ["Title"]="Topraksarsan Cübbesi",
+    ["Description"]="Bu toprakların savunmasında düşenlerin zırhlarını geri getirerek beni onurlandırır mısın?NEW_LINENEW_LZırh saygısızlığa uğradı ve şüphesiz kötülük için kullanılıyor; ancak, savaştan yıpranmış zırh hurdalarıyla, saygısızlığa uğramış zırh yenilenebilir ve bir kez daha savaş için giyilebilir.NEW_LINENEW_LDüşenlerin kalıntılarını arınma malzemeleriyle birlikte bana getir; Topraksarsan giymen için senin olsun.NEW_LINENEW_LNaxxramas'ı ara.",
+    ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Rimblat Topraksarsan sana bir Topraksarsan Cübbesi yapacaktır: 1 Saygısızlığa Uğramış Cübbe, 25 Savaştan Yıpranmış Zincir Hurdası, 4 Arkanit Külçesi ve 3 İşlenmiş Sert Deri.",
+    ["Progress"]="<Rimblat sana horlayarak bakar.>",
+    ["Completion"]="Açık ara Topraksarsan'ın en güçlü ve huşu uyandıran parçası. Atalarım bu başarın için sana gülümsüyor, YOUR_NAME.",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9069"] = {
+    ["Title"]="Topraksarsan Bacak Korumaları",
+    ["Description"]="Bu toprakların savunmasında düşenlerin zırhlarını geri getirerek beni onurlandırır mısın?NEW_LINENEW_LZırh saygısızlığa uğradı ve şüphesiz kötülük için kullanılıyor; ancak, savaştan yıpranmış zırh hurdalarıyla, saygısızlığa uğramış zırh yenilenebilir ve bir kez daha savaş için giyilebilir.NEW_LINENEW_LDüşenlerin kalıntılarını arınma malzemeleriyle birlikte bana getir; Topraksarsan giymen için senin olsun.NEW_LINENEW_LNaxxramas'ı ara.",
+    ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Rimblat Topraksarsan sana Topraksarsan Bacak Korumaları yapacaktır: 1 Saygısızlığa Uğramış Bacak Koruması, 20 Savaştan Yıpranmış Zincir Hurdası, 3 Arkanit Külçesi ve 5 İşlenmiş Sert Deri.",
+    ["Progress"]="Hiçbir şey yapılmasa bile toprak kurtarılmalı.",
+    ["Completion"]="Umarım senden önce gelenlerle aynı kaderi paylaşmazsın, YOUR_NAME.",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9070"] = {
+    ["Title"]="Topraksarsan Başlığı",
+    ["Description"]="Bu toprakların savunmasında düşenlerin zırhlarını geri getirerek beni onurlandırır mısın?NEW_LINENEW_LZırh saygısızlığa uğradı ve şüphesiz kötülük için kullanılıyor; ancak, savaştan yıpranmış zırh hurdalarıyla, saygısızlığa uğramış zırh yenilenebilir ve bir kez daha savaş için giyilebilir.NEW_LINENEW_LDüşenlerin kalıntılarını arınma malzemeleriyle birlikte bana getir; Topraksarsan giymen için senin olsun.NEW_LINENEW_LNaxxramas'ı ara.",
+    ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Rimblat Topraksarsan sana bir Topraksarsan Başlığı yapacaktır: 1 Saygısızlığa Uğramış Başlık, 15 Savaştan Yıpranmış Zincir Hurdası, 4 Arkanit Külçesi ve 2 Kristal Özü.",
+    ["Progress"]="İhtiyacım olan şeyi bana getirdin mi?",
+    ["Completion"]="Sana Topraksarsan kıyafetlerinin başparçasını sunuyorum: Topraksarsan miğferi...",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9071"] = {
+    ["Title"]="Topraksarsan Omuzlukları",
+    ["Description"]="Bu toprakların savunmasında düşenlerin zırhlarını geri getirerek beni onurlandırır mısın?NEW_LINENEW_LZırh saygısızlığa uğradı ve şüphesiz kötülük için kullanılıyor; ancak, savaştan yıpranmış zırh hurdalarıyla, saygısızlığa uğramış zırh yenilenebilir ve bir kez daha savaş için giyilebilir.NEW_LINENEW_LDüşenlerin kalıntılarını arınma malzemeleriyle birlikte bana getir; Topraksarsan giymen için senin olsun.NEW_LINENEW_LNaxxramas'ı ara.",
+    ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Rimblat Topraksarsan sana Topraksarsan Omuzlukları yapacaktır: 1 Saygısızlığa Uğramış Omuzluk, 12 Savaştan Yıpranmış Zincir Hurdası, 2 Arkanit Külçesi ve 2 Ay Kumaşı.",
+    ["Progress"]="İhtiyacım olan şeyi bana getirdin mi?",
+    ["Completion"]="Omuzlardan denge gelir.",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9072"] = {
+    ["Title"]="Topraksarsan Çizmeleri",
+    ["Description"]="Bu toprakların savunmasında düşenlerin zırhlarını geri getirerek beni onurlandırır mısın?NEW_LINENEW_LZırh saygısızlığa uğradı ve şüphesiz kötülük için kullanılıyor; ancak, savaştan yıpranmış zırh hurdalarıyla, saygısızlığa uğramış zırh yenilenebilir ve bir kez daha savaş için giyilebilir.NEW_LINENEW_LDüşenlerin kalıntılarını arınma malzemeleriyle birlikte bana getir; Topraksarsan giymen için senin olsun.NEW_LINENEW_LNaxxramas'ı ara.",
+    ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Rimblat Topraksarsan sana Topraksarsan Çizmeleri yapacaktır: 1 Saygısızlığa Uğramış Çizme, 12 Savaştan Yıpranmış Zincir Hurdası, 1 Arkanit Külçesi ve 3 Kristal Özü.",
+    ["Progress"]="İhtiyacım olan şeyi bana getirdin mi?",
+    ["Completion"]="Bu çizmeler atalarımın gücüyle donatılmıştır! Bilgece adımlar at...",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9073"] = {
+    ["Title"]="Topraksarsan El Korumaları",
+    ["Description"]="Bu toprakların savunmasında düşenlerin zırhlarını geri getirerek beni onurlandırır mısın?NEW_LINENEW_LZırh saygısızlığa uğradı ve şüphesiz kötülük için kullanılıyor; ancak, savaştan yıpranmış zırh hurdalarıyla, saygısızlığa uğramış zırh yenilenebilir ve bir kez daha savaş için giyilebilir.NEW_LINENEW_LDüşenlerin kalıntılarını arınma malzemeleriyle birlikte bana getir; Topraksarsan giymen için senin olsun.NEW_LINENEW_LNaxxramas'ı ara.",
+    ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Rimblat Topraksarsan sana Topraksarsan El Korumaları yapacaktır: 1 Saygısızlığa Uğramış El Koruması, 8 Savaştan Yıpranmış Zincir Hurdası, 1 Arkanit Külçesi ve 5 İşlenmiş Sert Deri.",
+    ["Progress"]="İhtiyacım olan şeyi bana getirdin mi?",
+    ["Completion"]="Bu el korumaları elementlerin gücünü aktarır!",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9074"] = {
+    ["Title"]="Topraksarsan Kemeri",
+    ["Description"]="Bu toprakların savunmasında düşenlerin zırhlarını geri getirerek beni onurlandırır mısın?NEW_LINENEW_LZırh saygısızlığa uğradı ve şüphesiz kötülük için kullanılıyor; ancak, savaştan yıpranmış zırh hurdalarıyla, saygısızlığa uğramış zırh yenilenebilir ve bir kez daha savaş için giyilebilir.NEW_LINENEW_LDüşenlerin kalıntılarını arınma malzemeleriyle birlikte bana getir; Topraksarsan giymen için senin olsun.NEW_LINENEW_LNaxxramas'ı ara.",
+    ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Rimblat Topraksarsan sana bir Topraksarsan Kemeri yapacaktır: 1 Saygısızlığa Uğramış Kemer, 8 Savaştan Yıpranmış Zincir Hurdası, 1 Arkanit Külçesi ve 3 Kristal Özü.",
+    ["Progress"]="İhtiyacım olan şeyi bana getirdin mi?",
+    ["Completion"]="Kemer hazır, YOUR_NAME.",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9075"] = {
+    ["Title"]="Topraksarsan Bilek Korumaları",
+    ["Description"]="Bu toprakların savunmasında düşenlerin zırhlarını geri getirerek beni onurlandırır mısın?NEW_LINENEW_LZırh saygısızlığa uğradı ve şüphesiz kötülük için kullanılıyor; ancak, savaştan yıpranmış zırh hurdalarıyla, saygısızlığa uğramış zırh yenilenebilir ve bir kez daha savaş için giyilebilir.NEW_LINENEW_LDüşenlerin kalıntılarını arınma malzemeleriyle birlikte bana getir; Topraksarsan giymen için senin olsun.NEW_LINENEW_LNaxxramas'ı ara.",
+    ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Rimblat Topraksarsan sana Topraksarsan Bilek Korumaları yapacaktır: 1 Saygısızlığa Uğramış Bilek Koruması, 6 Savaştan Yıpranmış Zincir Hurdası, 1 Arkanit Külçesi ve 2 İşlenmiş Sert Deri.",
+    ["Progress"]="İhtiyacım olan şeyi bana getirdin mi?",
+    ["Completion"]="Bilek korumaları hazır, YOUR_NAME.NEW_LINENEW_L<Rimblat başıyla selamlar.>",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9077"] = {
+    ["Title"]="Kemiktırpan Göğüslüğü",
+    ["Description"]="Kemiktırpan yapılmasını istiyorsan, malzemeleri tedarik etmen gerekecek.NEW_LINENEW_LYukarıdaki gökyüzünde bulunan büyük yüzen ölüm şehri Naxxramas'a gir, saygısızlığa uğramış zırh ile savaştan yıpranmış zırh hurdaları bul. Her şeyi bir araya getirecek malzemelerle birlikte onları geri getir, Kemiktırpan'ına kavuş. Ah, bir de emeklerim için bana ödeme yapman gerekecek... Kemikleri ben temin edeceğim.",
+    ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Suikastçı Rohan sana bir Kemiktırpan Göğüslüğü yapacaktır: 1 Saygısızlığa Uğramış Göğüslük, 25 Savaştan Yıpranmış Deri Hurdası, 2 Arkanit Külçesi ve 6 İşlenmiş Sert Deri.",
+    ["Progress"]="<Rohan sana hünerlerini gösterir.>NEW_LINENEW_LNe var, YOUR_NAME? Sonraki yarışma için bu hareketi mükemmel yapmam lazım.",
+    ["Completion"]="İşte buyur, YOUR_RACE. Söz verildiği gibi, Kemiktırpan göğüslüğü. Umarım etrafta moda polisleri yoktur. Bunu dışarıda giydiğin için hapse atılırdın!",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9078"] = {
+    ["Title"]="Kemiktırpan Bacaklıkları",
+    ["Description"]="Kemiktırpan yapılmasını istiyorsan, malzemeleri tedarik etmen gerekecek.NEW_LINENEW_LYukarıdaki gökyüzünde bulunan büyük yüzen ölüm şehri Naxxramas'a gir, saygısızlığa uğramış zırh ile savaştan yıpranmış zırh hurdaları bul. Her şeyi bir araya getirecek malzemelerle birlikte onları geri getir, Kemiktırpan'ına kavuş. Ah, bir de emeklerim için bana ödeme yapman gerekecek... Kemikleri ben temin edeceğim.",
+    ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Suikastçı Rohan sana Kemiktırpan Bacaklıkları yapacaktır: 1 Saygısızlığa Uğramış Bacaklık, 20 Savaştan Yıpranmış Deri Hurdası, 1 Arkanit Külçesi, 8 İşlenmiş Sert Deri ve 100 altın para.",
+    ["Progress"]="<Rohan güler.>NEW_LINENEW_LTüm bunların içindeki tezatlığı henüz yeni fark ettim.",
+    ["Completion"]="O şeylerin içinde yürürken dikkatli ol. Kendini kesebilirsin.",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9079"] = {
+    ["Title"]="Kemiktırpan Miğferi",
+    ["Description"]="Kemiktırpan yapılmasını istiyorsan, malzemeleri tedarik etmen gerekecek.NEW_LINENEW_LYukarıdaki gökyüzünde bulunan büyük yüzen ölüm şehri Naxxramas'a gir, saygısızlığa uğramış zırh ile savaştan yıpranmış zırh hurdaları bul. Her şeyi bir araya getirecek malzemelerle birlikte onları geri getir, Kemiktırpan'ına kavuş. Ah, bir de emeklerim için bana ödeme yapman gerekecek... Kemikleri ben temin edeceğim.",
+    ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Suikastçı Rohan sana bir Kemiktırpan Miğferi yapacaktır: 1 Saygısızlığa Uğramış Miğfer, 15 Savaştan Yıpranmış Deri Hurdası, 8 İşlenmiş Sert Deri, 1 Kristal Özü ve 75 altın para.",
+    ["Progress"]="Bana para veriyorsun.NEW_LINENEW_L<Rohan güler.>NEW_LINENEW_LBu durum hâlâ beni çok güldürüyor.",
+    ["Completion"]="Benim Kemiktırpan miğfer modelimi Don Julio'nunkinden ayıran şey tarz, YOUR_NAME. Tarz...",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9080"] = {
+    ["Title"]="Kemiktırpan Omuzlukları",
+    ["Description"]="Kemiktırpan yapılmasını istiyorsan, malzemeleri tedarik etmen gerekecek.NEW_LINENEW_LYukarıdaki gökyüzünde bulunan büyük yüzen ölüm şehri Naxxramas'a gir, saygısızlığa uğramış zırh ile savaştan yıpranmış zırh hurdaları bul. Her şeyi bir araya getirecek malzemelerle birlikte onları geri getir, Kemiktırpan'ına kavuş. Ah, bir de emeklerim için bana ödeme yapman gerekecek... Kemikleri ben temin edeceğim.",
+    ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Suikastçı Rohan sana Kemiktırpan Omuzlukları yapacaktır: 1 Saygısızlığa Uğramış Omuzluk, 12 Savaştan Yıpranmış Deri Hurdası, 5 İşlenmiş Sert Deri, 1 Kristal Özü ve 50 altın para.",
+    ["Progress"]="<Rohan sana şüpheyle bakar.>NEW_LINENEW_LSon zamanlarda Tyr'in Eli'nde bulundun mu?",
+    ["Completion"]="<Rohan alnındaki teri siler.>NEW_LINENEW_LBu omuzluklar bayağı uğraştırdı! Dışarı çıkıp acemi gibi kendini öldürtme, YOUR_NAME.",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9081"] = {
+    ["Title"]="Kemiktırpan Çizmeleri",
+    ["Description"]="Kemiktırpan yapılmasını istiyorsan, malzemeleri tedarik etmen gerekecek.NEW_LINENEW_LYukarıdaki gökyüzünde bulunan büyük yüzen ölüm şehri Naxxramas'a gir, saygısızlığa uğramış zırh ile savaştan yıpranmış zırh hurdaları bul. Her şeyi bir araya getirecek malzemelerle birlikte onları geri getir, Kemiktırpan'ına kavuş. Ah, bir de emeklerim için bana ödeme yapman gerekecek... Kemikleri ben temin edeceğim.",
+    ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Suikastçı Rohan sana Kemiktırpan Çizmeleri yapacaktır: 1 Saygısızlığa Uğramış Çizme, 12 Savaştan Yıpranmış Deri Hurdası, 3 İşlenmiş Sert Deri, 2 Kristal Özü ve 25 altın para.",
+    ["Progress"]="Sadece malzemeleri getir ve vaktimi boşa harcamayı bırak, $C.",
+    ["Completion"]="Ayaklarına giyiliyor. Söylesene, yine Tyr'in Eli civarında burnunu sokmadın, değil mi?",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9082"] = {
+    ["Title"]="Kemiktırpan Eldivenleri",
+    ["Description"]="Kemiktırpan yapılmasını istiyorsan, malzemeleri tedarik etmen gerekecek.NEW_LINENEW_LYukarıdaki gökyüzünde bulunan büyük yüzen ölüm şehri Naxxramas'a gir, saygısızlığa uğramış zırh ile savaştan yıpranmış zırh hurdaları bul. Her şeyi bir araya getirecek malzemelerle birlikte onları geri getir, Kemiktırpan'ına kavuş. Ah, bir de emeklerim için bana ödeme yapman gerekecek... Kemikleri ben temin edeceğim.",
+    ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Suikastçı Rohan sana Kemiktırpan Eldivenleri yapacaktır: 1 Saygısızlığa Uğramış Eldiven, 8 Savaştan Yıpranmış Deri Hurdası, 1 Arkanit Külçesi ve 5 İşlenmiş Sert Deri.",
+    ["Progress"]="İstediğim eşyalar olmadan nasıl bir şey yapmamı bekliyorsun?",
+    ["Completion"]="Bu eldivenler kesinlikle gerekirse muhtemelen silah yerine geçebilir. Gururla tak!",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9083"] = {
+    ["Title"]="Kemiktırpan Bel koruması",
+    ["Description"]="Kemiktırpan yapılmasını istiyorsan, malzemeleri tedarik etmen gerekecek.NEW_LINENEW_LYukarıdaki gökyüzünde bulunan büyük yüzen ölüm şehri Naxxramas'a gir, saygısızlığa uğramış zırh ile savaştan yıpranmış zırh hurdaları bul. Her şeyi bir araya getirecek malzemelerle birlikte onları geri getir, Kemiktırpan'ına kavuş. Ah, bir de emeklerim için bana ödeme yapman gerekecek... Kemikleri ben temin edeceğim.",
+    ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Suikastçı Rohan sana bir Kemiktırpan Bel koruması yapacaktır: 1 Saygısızlığa Uğramış Bel koruması, 8 Savaştan Yıpranmış Deri Hurdası, 5 İşlenmiş Sert Deri, 1 Kristal Özü ve 15 altın para.",
+    ["Progress"]="İstediğim eşyalar olmadan nasıl bir şey yapmamı bekliyorsun?",
+    ["Completion"]="Kemer hazır, YOUR_NAME. Hiç bu kadar kaliteli bir eşyanın bu kadar ucuza satıldığını görmüş müydün?",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9084"] = {
+    ["Title"]="Kemiktırpan Bileklikleri",
+    ["Description"]="Kemiktırpan yapılmasını istiyorsan, malzemeleri tedarik etmen gerekecek.NEW_LINENEW_LYukarıdaki gökyüzünde bulunan büyük yüzen ölüm şehri Naxxramas'a gir, saygısızlığa uğramış zırh ile savaştan yıpranmış zırh hurdaları bul. Her şeyi bir araya getirecek malzemelerle birlikte onları geri getir, Kemiktırpan'ına kavuş. Ah, bir de emeklerim için bana ödeme yapman gerekecek... Kemikleri ben temin edeceğim.",
+    ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Suikastçı Rohan sana Kemiktırpan Bileklikleri yapacaktır: 1 Saygısızlığa Uğramış Bileklik, 6 Savaştan Yıpranmış Deri Hurdası, 1 Arkanit Külçesi, 2 İşlenmiş Sert Deri ve 10 altın para.",
+    ["Progress"]="İstediğim eşyalar olmadan nasıl bir şey yapmamı bekliyorsun?",
+    ["Completion"]="Bileklikler hazır, YOUR_NAME.NEW_LINENEW_L<Rohan selam verir.>",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9085"] = {
+    ["Title"]="Kıyamet Gölgeleri",
+    ["Description"]="Saldırı altındaki alanlarda beliren Afet çağırma çemberlerinin savunmasını indirdikten sonra, onları koruyan çömezlerle yüzleşebileceksin.NEW_LINENEW_LDoğrusu, bunlar insan değil. Onlar gölge, Lich Kralı'nın en korkunç yaratıklarından bazıları. Taşıdıkları nekrotik rünler kullanılarak açığa çıkarılabilir ve ardından büyü ya da kol gücüyle yok edilebilirler.",
+    ["Objectives"]="Bir çağırma çemberine git ve bir Kıyamet Gölgesi katlet, ardından Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Komutan Thomas Helleran'a dön.",
+    ["Progress"]="Hiç şansın yaver gitti mi, YOUR_NAME?",
+    ["Completion"]="",
+    ["minlevel"]="50",
+    ["questlevel"]="60"
+},
+
+["9086"] = {
+    ["Title"]="Düşgezgin Cübbesi",
+    ["Description"]="Son savaşta birçok kahraman düştü ve birçoğu da bugün Afet'in ellerinde can vermeye devam ediyor. Düşenlerin cesetlerinden zırhlar sökülüyor ve bilinmeyen amaçlar için kullanılmak üzere Naxxramas'a geri götürülüyor.NEW_LINENEW_LSaygısızlığa uğramış zırhı ve savaştan yıpranmış zırh hurdalarını geri getir ve ihtiyacım olan diğer malzeme bileşenlerini bana sağla, ben de senin için Düşgezgin zırhı işleyeyim.",
+    ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Rayne sana bir Düşgezgin Cübbesi yapacaktır: 1 Saygısızlığa Uğramış Cübbe, 25 Savaştan Yıpranmış Deri Hurdası, 6 İşlenmiş Sert Deri ve 2 Kristal Özü.",
+    ["Progress"]="Malzeme maliyeti yüksek ama yakında unutulur.",
+    ["Completion"]="Düşgezgin Cübben hazır, YOUR_NAME.",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9087"] = {
+    ["Title"]="Düşgezgin Bacak Korumaları",
+    ["Description"]="Son savaşta birçok kahraman düştü ve birçoğu da bugün Afet'in ellerinde can vermeye devam ediyor. Düşenlerin cesetlerinden zırhlar sökülüyor ve bilinmeyen amaçlar için kullanılmak üzere Naxxramas'a geri götürülüyor.NEW_LINENEW_LSaygısızlığa uğramış zırhı ve savaştan yıpranmış zırh hurdalarını geri getir ve ihtiyacım olan diğer malzeme bileşenlerini bana sağla, ben de senin için Düşgezgin zırhı işleyeyim.",
+    ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Rayne sana Düşgezgin Bacak Korumaları yapacaktır: 1 Saygısızlığa Uğramış Bacak Koruması, 20 Savaştan Yıpranmış Deri Hurdası, 8 İşlenmiş Sert Deri ve 1 Kristal Özü.",
+    ["Progress"]="Malzeme maliyeti yüksek ama yakında unutulur.",
+    ["Completion"]="Söz verildiği gibi, Düşgezgin Bacak Korumaları.NEW_LINENEW_L<Rayne zırhı sana uzatır.>",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9088"] = {
+    ["Title"]="Düşgezgin Başlığı",
+    ["Description"]="Son savaşta birçok kahraman düştü ve birçoğu da bugün Afet'in handsinde can vermeye devam ediyor. Düşenlerin cesetlerinden zırhlar sökülüyor ve bilinmeyen amaçlar için kullanılmak üzere Naxxramas'a geri götürülüyor.NEW_LINENEW_LSaygısızlığa uğramış zırhı ve savaştan yıpranmış zırh hurdalarını geri getir ve ihtiyacım olan diğer malzeme bileşenlerini bana sağla, ben de senin için Düşgezgin zırhı işleyeyim.",
+    ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Rayne sana bir Düşgezgin Başlığı yapacaktır: 1 Saygısızlığa Uğramış Başlık, 15 Savaştan Yıpranmış Deri Hurdası, 6 İşlenmiş Sert Deri ve 2 Kristal Özü.",
+    ["Progress"]="Malzeme maliyeti yüksek ama yakında unutulur.",
+    ["Completion"]="Düşgezgin Başlığın hazır, YOUR_NAME.",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9089"] = {
+    ["Title"]="Düşgezgin Omuzlukları",
+    ["Description"]="Son savaşta birçok kahraman düştü ve birçoğu da bugün Afet'in ellerinde can vermeye devam ediyor. Düşenlerin cesetlerinden zırhlar sökülüyor ve bilinmeyen amaçlar için kullanılmak üzere Naxxramas'a geri götürülüyor.NEW_LINENEW_LSaygısızlığa uğramış zırhı ve savaştan yıpranmış zırh hurdalarını geri getir ve ihtiyacım olan diğer malzeme bileşenlerini bana sağla, ben de senin için Düşgezgin zırhı işleyeyim.",
+    ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Rayne sana Düşgezgin Omuzlukları yapacaktır: 1 Saygısızlığa Uğramış Omuzluk, 12 Savaştan Yıpranmış Deri Hurdası, 5 İşlenmiş Sert Deri ve 1 Kristal Özü.",
+    ["Progress"]="Malzeme maliyeti yüksek ama yakında unutulur.",
+    ["Completion"]="Düşgezgin Omuzlukların hazır, YOUR_NAME.",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9090"] = {
+    ["Title"]="Düşgezgin Çizmeleri",
+    ["Description"]="Son savaşta birçok kahraman düştü ve birçoğu da bugün Afet'in ellerinde can vermeye devam ediyor. Düşenlerin cesetlerinden zırhlar sökülüyor ve bilinmeyen amaçlar için kullanılmak üzere Naxxramas'a geri götürülüyor.NEW_LINENEW_LSaygısızlığa uğramış zırhı ve savaştan yıpranmış zırh hurdalarını geri getir ve ihtiyacım olan diğer malzeme bileşenlerini bana sağla, ben de senin için Düşgezgin zırhı işleyeyim.",
+    ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Rayne sana Düşgezgin Çizmeleri yapacaktır: 1 Saygısızlığa Uğramış Çizme, 12 Savaştan Yıpranmış Deri Hurdası, 3 Ay Kumaşı ve 2 İşlenmiş Sert Deri.",
+    ["Progress"]="Malzeme maliyeti yüksek ama yakında unutulur.",
+    ["Completion"]="Düşgezgin Çizmelerin hazır, YOUR_NAME.",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9091"] = {
+    ["Title"]="Düşgezgin El Korumaları",
+    ["Description"]="Son savaşta birçok kahraman düştü ve birçoğu da bugün Afet'in handsinde can vermeye devam ediyor. Düşenlerin cesetlerinden zırhlar sökülüyor ve bilinmeyen amaçlar için kullanılmak üzere Naxxramas'a geri götürülüyor.NEW_LINENEW_LSaygısızlığa uğramış zırhı ve savaştan yıpranmış zırh hurdalarını geri getir ve ihtiyacım olan diğer malzeme bileşenlerini bana sağla, ben de senin için Düşgezgin zırhı işleyeyim.",
+    ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Rayne sana Düşgezgin El Korumaları yapacaktır: 1 Saygısızlığa Uğramış El Koruması, 8 Savaştan Yıpranmış Deri Hurdası, 5 İşlenmiş Sert Deri ve 1 Kristal Özü.",
+    ["Progress"]="Malzeme maliyeti yüksek ama yakında unutulur.",
+    ["Completion"]="Düşgezgin El Korumaların hazır, YOUR_NAME.",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9092"] = {
+    ["Title"]="Düşgezgin Kemeri",
+    ["Description"]="Son savaşta birçok kahraman düştü ve birçoğu da bugün Afet'in handsinde can vermeye devam ediyor. Düşenlerin cesetlerinden zırhlar sökülüyor ve bilinmeyen amaçlar için kullanılmak üzere Naxxramas'a geri götürülüyor.NEW_LINENEW_LSaygısızlığa uğramış zırhı ve savaştan yıpranmış zırh hurdalarını geri getir ve ihtiyacım olan diğer malzeme bileşenlerini bana sağla, ben de senin için Düşgezgin zırhı işleyeyim.",
+    ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Rayne sana bir Düşgezgin Kemeri yapacaktır: 1 Saygısızlığa Uğramış Kemer, 8 Savaştan Yıpranmış Deri Hurdası, 3 Ay Kumaşı ve 2 İşlenmiş Sert Deri.",
+    ["Progress"]="Malzeme maliyeti yüksek ama yakında unutulur.",
+    ["Completion"]="Düşgezgin Kemerin hazır, YOUR_NAME.",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9093"] = {
+    ["Title"]="Düşgezgin Bilek Korumaları",
+    ["Description"]="Son savaşta birçok kahraman düştü ve birçoğu da bugün Afet'in handsinde can vermeye devam ediyor. Düşenlerin cesetlerinden zırhlar sökülüyor ve bilinmeyen amaçlar için kullanılmak üzere Naxxramas'a geri götürülüyor.NEW_LINENEW_LSaygısızlığa uğramış zırhı ve savaştan yıpranmış zırh hurdalarını geri getir ve ihtiyacım olan diğer malzeme bileşenlerini bana sağla, ben de senin için Düşgezgin zırhı işleyeyim.",
+    ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Rayne sana Düşgezgin Bilek Korumaları yapacaktır: 1 Saygısızlığa Uğramış Bilek Koruması, 6 Savaştan Yıpranmış Deri Hurdası, 1 Büyülü Kristal ve 2 İşlenmiş Sert Deri.",
+    ["Progress"]="Malzeme maliyeti yüksek ama yakında unutulur.",
+    ["Completion"]="Düşgezgin Bilek Korumaların hazır, YOUR_NAME.",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9094"] = {
+    ["Title"]="Gümüşi Şafak Eldivenleri",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Bana otuz nekrotik rün getirirsen, karşılığında sana seçtiğin bir el koruması veririm. Bunlar hortlak Afet'e karşı savaşımızda çok değerli olacaktır.",
+    ["Completion"]="İyi iş çıkardın, YOUR_NAME. Çabalarının karşılığı olarak el koruması seçimini yap.",
+    ["minlevel"]="50",
+    ["questlevel"]="60"
+},
+
+["9095"] = {
+    ["Title"]="Buzateşi Bornozu",
+    ["Description"]="Bir Gözcü olarak, Medivh'in birçok kişisel eşyasına erişimime izin verilmişti. O eşyalar arasında en aydınlatıcı olanların büyü kitapları olduğunu gördüm. Kitapların çoğunluğu - açıkça söylemek gerekirse - zırvalıklarla dolu olsa da, bazı mücevherler de vardı. O kitaplardan biri, bir başbüyücüye layık bir zırh takımının yapımını belgeliyordu: Buzateşi.NEW_LINENEW_L<Angela kafasını işaret eder.>NEW_LINENEW_LHepsi burada ve gerekli malzemeleri bana sağladığın sürece bu bilginin meyvelerini seninle paylaşmaya hazırım.",
+    ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Başbüyücü Angela Dosantos sana bir Buzateşi Bornozu yapacaktır: 1 Saygısızlığa Uğramış Bornoz, 25 Savaştan Yıpranmış Kumaş Hurdası, 4 Ay Kumaşı ve 2 Kristal Özü.",
+    ["Progress"]="Uygun malzeme ve reaktiflerle efsanevi Buzateşi zırhını yeniden şekillendirebilirim.",
+    ["Completion"]="Kontrolsüz bırakılan gücün, kullanılmayan güç kadar yıkıcı olduğunu unutma $C. Buzateşi'ni giyerken tedbirli ol.",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9096"] = {
+    ["Title"]="Buzateşi Pantolonu",
+    ["Description"]="Bir Gözcü olarak, Medivh'in birçok kişisel eşyasına erişimime izin verilmişti. O eşyalar arasında en aydınlatıcı olanların büyü kitapları olduğunu gördüm. Kitapların çoğunluğu - açıkça söylemek gerekirse - zırvalıklarla dolu olsa da, bazı mücevherler de vardı. O kitaplardan biri, bir başbüyücüye layık bir zırh takımının yapımını belgeliyordu: Buzateşi.NEW_LINENEW_L<Angela kafasını işaret eder.>NEW_LINENEW_LHepsi burada ve gerekli malzemeleri bana sağladığın sürece bu bilginin meyvelerini seninle paylaşmaya hazırım.",
+    ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Başbüyücü Angela Dosantos sana Buzateşi Pantolonu yapacaktır: 1 Saygısızlığa Uğramış Pantolon, 20 Savaştan Yıpranmış Kumaş Hurdası, 4 Ay Kumaşı ve 2 Kristal Özü.",
+    ["Progress"]="Uygun malzeme ve reaktiflerle efsanevi Buzateşi zırhını yeniden şekillendirebilirim.",
+    ["Completion"]="Kontrolsüz bırakılan gücün, kullanılmayan güç kadar yıkıcı olduğunu unutma $C. Buzateşi'ni giyerken tedbirli ol.",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9097"] = {
+    ["Title"]="Buzateşi Taçı",
+    ["Description"]="Bir Gözcü olarak, Medivh'in birçok kişisel eşyasına erişimime izin verilmişti. O eşyalar arasında en aydınlatıcı olanların büyü kitapları olduğunu gördüm. Kitapların çoğunluğu - açıkça söylemek gerekirse - zırvalıklarla dolu olsa da, bazı mücevherler de vardı. O kitaplardan biri, bir başbüyücüye layık bir zırh takımının yapımını belgeliyordu: Buzateşi.NEW_LINENEW_L<Angela kafasını işaret eder.>NEW_LINENEW_LHepsi burada ve gerekli malzemeleri bana sağladığın sürece bu bilginin meyvelerini seninle paylaşmaya hazırım.",
+    ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Başbüyücü Angela Dosantos sana bir Buzateşi Taçı yapacaktır: 1 Saygısızlığa Uğramış Taç, 15 Savaştan Yıpranmış Kumaş Hurdası, 3 Ay Kumaşı ve 3 Kristal Özü.",
+    ["Progress"]="Uygun malzeme ve reaktiflerle efsanevi Buzateşi zırhını yeniden şekillendirebilirim.",
+    ["Completion"]="Kontrolsüz bırakılan gücün, kullanılmayan güç kadar yıkıcı olduğunu unutma $C. Buzateşi'ni giyerken tedbirli ol.",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9098"] = {
+    ["Title"]="Buzateşi Omuzlukları",
+    ["Description"]="Bir Gözcü olarak, Medivh'in bir çok kişisel eşyasına erişimime izin verilmişti. O eşyalar arasında en aydınlatıcı olanların büyü kitapları olduğunu gördüm. Kitapların çoğunluğu - açıkça söylemek gerekirse - zırvalıklarla dolu olsa da, bazı mücevherler de vardı. O kitaplardan biri, bir başbüyücüye layık bir zırh takımının yapımını belgeliyordu: Buzateşi.NEW_LINENEW_L<Angela kafasını işaret eder.>NEW_LINENEW_LHepsi burada ve gerekli malzemeleri bana sağladığın sürece bu bilginin meyvelerini seninle paylaşmaya hazırım.",
+    ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Başbüyücü Angela Dosantos sana Buzateşi Omuzlukları yapacaktır: 1 Saygısızlığa Uğramış Omuzluk, 12 Savaştan Yıpranmış Kumaş Hurdası, 2 Ay Kumaşı ve 3 İşlenmiş Sert Deri.",
+    ["Progress"]="Uygun malzeme ve reaktiflerle efsanevi Buzateşi zırhını yeniden şekillendirebilirim.",
+    ["Completion"]="Kontrolsüz bırakılan gücün, kullanılmayan güç kadar yıkıcı olduğunu unutma $C. Buzateşi'ni giyerken tedbirli ol.",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9099"] = {
+    ["Title"]="Buzateşi Sandaletleri",
+    ["Description"]="Bir Gözcü olarak, Medivh'in bir çok kişisel eşyasına erişimime izin verilmişti. O eşyalar arasında en aydınlatıcı olanların büyü kitapları olduğunu gördüm. Kitapların çoğunluğu - açıkça söylemek gerekirse - zırvalıklarla dolu olsa da, bazı mücevherler de vardı. O kitaplardan biri, bir başbüyücüye layık bir zırh takımının yapımını belgeliyordu: Buzateşi.NEW_LINENEW_L<Angela kafasını işaret eder.>NEW_LINENEW_LHepsi burada ve gerekli malzemeleri bana sağladığın sürece bu bilginin meyvelerini seninle paylaşmaya hazırım.",
+    ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Başbüyücü Angela Dosantos sana Buzateşi Sandaletleri yapacaktır: 1 Saygısızlığa Uğramış Sandalet, 12 Savaştan Yıpranmış Kumaş Hurdası, 2 Ay Kumaşı ve 3 İşlenmiş Sert Deri.",
+    ["Progress"]="Uygun malzeme ve reaktiflerle efsanevi Buzateşi zırhını yeniden şekillendirebilirim.",
+    ["Completion"]="Kontrolsüz bırakılan gücün, kullanılmayan güç kadar yıkıcı olduğunu unutma $C. Buzateşi'ni giyerken tedbirli ol.",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9100"] = {
+    ["Title"]="Buzateşi Eldivenleri",
+    ["Description"]="Bir Gözcü olarak, Medivh'in bir çok kişisel eşyasına erişimime izin verilmişti. O eşyalar arasında en aydınlatıcı olanların büyü kitapları olduğunu gördüm. Kitapların çoğunluğu - açıkça söylemek gerekirse - zırvalıklarla dolu olsa da, bazı mücevherler de vardı. O kitaplardan biri, bir başbüyücüye layık bir zırh takımının yapımını belgeliyordu: Buzateşi.NEW_LINENEW_L<Angela kafasını işaret eder.>NEW_LINENEW_LHepsi burada ve gerekli malzemeleri bana sağladığın sürece bu bilginin meyvelerini seninle paylaşmaya hazırım.",
+    ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Başbüyücü Angela Dosantos sana Buzateşi Eldivenleri yapacaktır: 1 Saygısızlığa Uğramış Eldiven, 8 Savaştan Yıpranmış Kumaş Hurdası ve 4 Ay Kumaşı.",
+    ["Progress"]="Uygun malzeme ve reaktiflerle efsanevi Buzateşi zırhını yeniden şekillendirebilirim.",
+    ["Completion"]="Kontrolsüz bırakılan gücün, kullanılmayan güç kadar yıkıcı olduğunu unutma $C. Buzateşi'ni giyerken tedbirli ol.",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9101"] = {
+    ["Title"]="Buzateşi Kemeri",
+    ["Description"]="Bir Gözcü olarak, Medivh'in bir çok kişisel eşyasına erişimime izin verilmişti. O eşyalar arasında en aydınlatıcı olanların büyü kitapları olduğunu gördüm. Kitapların çoğunluğu - açıkça söylemek gerekirse - zırvalıklarla dolu olsa da, bazı mücevherler de vardı. O kitaplardan biri, bir başbüyücüye layık bir zırh takımının yapımını belgeliyordu: Buzateşi.NEW_LINENEW_L<Angela kafasını işaret eder.>NEW_LINENEW_LHepsi burada ve gerekli malzemeleri bana sağladığın sürece bu bilginin meyvelerini seninle paylaşmaya hazırım.",
+    ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Başbüyücü Angela Dosantos sana bir Buzateşi Kemeri yapacaktır: 1 Saygısızlığa Uğramış Kemer, 8 Savaştan Yıpranmış Kumaş Hurdası, 2 Büyülü Kristal ve 2 Ay Kumaşı.",
+    ["Progress"]="Uygun malzeme ve reaktiflerle efsanevi Buzateşi zırhını yeniden şekillendirebilirim.",
+    ["Completion"]="Kontrolsüz bırakılan gücün, kullanılmayan güç kadar yıkıcı olduğunu unutma $C. Buzateşi'ni giyerken tedbirli ol.",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9102"] = {
+    ["Title"]="Buzateşi Bağları",
+    ["Description"]="Bir Gözcü olarak, Medivh'in bir çok kişisel eşyasına erişimime izin verilmişti. O eşyalar arasında en aydınlatıcı olanların büyü kitapları olduğunu gördüm. Kitapların çoğunluğu - açıkça söylemek gerekirse - zırvalıklarla dolu olsa da, bazı mücevherler de vardı. O kitaplardan biri, bir başbüyücüye layık bir zırh takımının yapımını belgeliyordu: Buzateşi.NEW_LINENEW_L<Angela kafasını işaret eder.>NEW_LINENEW_LHepsi burada ve gerekli malzemeleri bana sağladığın sürece bu bilginin meyvelerini seninle paylaşmaya hazırım.",
+    ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Başbüyücü Angela Dosantos sana Buzateşi Bağları yapacaktır: 1 Saygısızlığa Uğramış Bağlar, 6 Savaştan Yıpranmış Kumaş Hurdası, 1 Büyülü Kristal ve 1 Kristal Özü.",
+    ["Progress"]="Uygun malzeme ve reaktiflerle efsanevi Buzateşi zırhını yeniden şekillendirebilirim.",
+    ["Completion"]="Kontrolsüz bırakılan gücün, kullanılmayan güç kadar yıkıcı olduğunu unutma $C. Buzateşi'ni giyerken tedbirli ol.",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9103"] = {
+    ["Title"]="Vebakalbi Cübbesi",
+    ["Description"]="Sana numara yapmıyorum, kurtçuk. Vebakalbi eşyalarının barındırdığı karanlık ikimizi de yok edebilir. Fiyatın bu kadar yüksek olmasının nedeni budur. Eğer öleceksem, zengin bir adam olarak öleceğim.NEW_LINENEW_LVe senin nasıl öldüğün umrumda bile değil, yeter ki istediğimi yap. İhtiyacım olanı bana getir ve ikimiz de kazanalım - ya da ölelim; ama bunu zaten açıklamıştım...",
+    ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Gazapbüyücüsü Mataus sana bir Vebakalbi Cübbesi yapacaktır: 1 Saygısızlığa Uğramış Cübbe, 25 Savaştan Yıpranmış Kumaş Hurdası, 4 Ay Kumaşı ve 2 Kristal Özü.",
+    ["Progress"]="Hayırsız kemirgen geri döndü! İhtiyacım olan şey sende var mı?",
+    ["Completion"]="Görüyor musun? Gücü şimdi anlıyor musun? Arınma... Ne aptallar...NEW_LINENEW_L<Mataus kafasını onaylamazca sallar.>NEW_LINENEW_LŞimdi al onu ve gözümün önünden kaybol.",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9104"] = {
+    ["Title"]="Vebakalbi Pantolonu",
+    ["Description"]="Sana numara yapmıyorum, kurtçuk. Vebakalbi eşyalarının barındırdığı karanlık ikimizi de yok edebilir. Fiyatın bu kadar yüksek olmasının nedeni budur. Eğer öleceksem, zengin bir adam olarak öleceğim.NEW_LINENEW_LVe senin nasıl öldüğün umrumda bile değil, yeter ki istediğimi yap. İhtiyacım olanı bana getir ve ikimiz de kazanalım - ya da ölelim; ama bunu zaten açıklamıştım...",
+    ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Gazapbüyücüsü Mataus sana Vebakalbi Pantolonu yapacaktır: 1 Saygısızlığa Uğramış Pantolon, 20 Savaştan Yıpranmış Kumaş Hurdası, 4 Ay Kumaşı ve 2 Kristal Özü.",
+    ["Progress"]="Hayırsız kemirgen geri döndü! İhtiyacım olan şey sende var mı?",
+    ["Completion"]="Görüyor musun? Gücü şimdi anlıyor musun? Arınma... Ne aptallar...NEW_LINENEW_L<Mataus kafasını onaylamazca sallar.>NEW_LINENEW_LŞimdi al onu ve gözümün önünden kaybol.",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9105"] = {
+    ["Title"]="Vebakalbi Taçı",
+    ["Description"]="Sana numara yapmıyorum, kurtçuk. Vebakalbi eşyalarının barındırdığı karanlık ikimizi de yok edebilir. Fiyatın bu kadar yüksek olmasının nedeni budur. Eğer öleceksem, zengin bir adam olarak öleceğim.NEW_LINENEW_LVe senin nasıl öldüğün umrumda bile değil, yeter ki istediğimi yap. İhtiyacım olanı bana getir ve ikimiz de kazanalım - ya da ölelim; ama bunu zaten açıklamıştım...",
+    ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Gazapbüyücüsü Mataus sana bir Vebakalbi Taçı yapacaktır: 1 Saygısızlığa Uğramış Taç, 15 Savaştan Yıpranmış Kumaş Hurdası, 3 Ay Kumaşı ve 3 Kristal Özü.",
+    ["Progress"]="Hayırsız kemirgen geri döndü! İhtiyacım olan şey sende var mı?",
+    ["Completion"]="Görüyor musun? Gücü şimdi anlıyor musun? Arınma... Ne aptallar...NEW_LINENEW_L<Mataus kafasını onaylamazca sallar.>NEW_LINENEW_LŞimdi al onu ve gözümün önünden kaybol.",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9106"] = {
+    ["Title"]="Vebakalbi Omuzlukları",
+    ["Description"]="Sana numara yapmıyorum, kurtçuk. Vebakalbi eşyalarının barındırdığı karanlık ikimizi de yok edebilir. Fiyatın bu kadar yüksek olmasının nedeni budur. Eğer öleceksem, zengin bir adam olarak öleceğim.NEW_LINENEW_LVe senin nasıl öldüğün umrumda bile değil, yeter ki istediğimi yap. İhtiyacım olanı bana getir ve ikimiz de kazanalım - ya da ölelim; ama bunu zaten açıklamıştım...",
+    ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Gazapbüyücüsü Mataus sana Vebakalbi Omuzlukları yapacaktır: 1 Saygısızlığa Uğramış Omuzluk, 12 Savaştan Yıpranmış Kumaş Hurdası, 2 Ay Kumaşı ve 3 İşlenmiş Sert Deri.",
+    ["Progress"]="Hayırsız kemirgen geri döndü! İhtiyacım olan şey sende var mı?",
+    ["Completion"]="Görüyor musun? Gücü şimdi anlıyor musun? Arınma... Ne aptallar...NEW_LINENEW_L<Mataus kafasını onaylamazca sallar.>NEW_LINENEW_LŞimdi al onu ve gözümün önünden kaybol.",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9107"] = {
+    ["Title"]="Vebakalbi Sandaletleri",
+    ["Description"]="Sana numara yapmıyorum, kurtçuk. Vebakalbi eşyalarının barındırdığı karanlık ikimizi de yok edebilir. Fiyatın bu kadar yüksek olmasının nedeni budur. Eğer öleceksem, zengin bir adam olarak öleceğim.NEW_LINENEW_LVe senin nasıl öldüğün umrumda bile değil, yeter ki istediğimi yap. İhtiyacım olanı bana getir ve ikimiz de kazanalım - ya da ölelim; ama bunu zaten açıklamıştım...",
+    ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Gazapbüyücüsü Mataus sana Vebakalbi Sandaletleri yapacaktır: 1 Saygısızlığa Uğramış Sandalet, 12 Savaştan Yıpranmış Kumaş Hurdası, 2 Ay Kumaşı ve 3 İşlenmiş Sert Deri.",
+    ["Progress"]="Hayırsız kemirgen geri döndü! İhtiyacım olan şey sende var mı?",
+    ["Completion"]="Görüyor musun? Gücü şimdi anlıyor musun? Arınma... Ne aptallar...NEW_LINENEW_L<Mataus kafasını onaylamazca sallar.>NEW_LINENEW_LŞimdi al onu ve gözümün önünden kaybol.",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9108"] = {
+    ["Title"]="Vebakalbi Eldivenleri",
+    ["Description"]="Sana numara yapmıyorum, kurtçuk. Vebakalbi eşyalarının barındırdığı karanlık ikimizi de yok edebilir. Fiyatın bu kadar yüksek olmasının nedeni budur. Eğer öleceksem, zengin bir adam olarak öleceğim.NEW_LINENEW_LVe senin nasıl öldüğün umrumda bile değil, yeter ki istediğimi yap. İhtiyacım olanı bana getir ve ikimiz de kazanalım - ya da ölelim; ama bunu zaten açıklamıştım...",
+    ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Gazapbüyücüsü Mataus sana Vebakalbi Eldivenleri yapacaktır: 1 Saygısızlığa Uğramış Eldiven, 8 Savaştan Yıpranmış Kumaş Hurdası ve 4 Ay Kumaşı.",
+    ["Progress"]="Hayırsız kemirgen geri döndü! İhtiyacım olan şey sende var mı?",
+    ["Completion"]="Görüyor musun? Gücü şimdi anlıyor musun? Arınma... Ne aptallar...NEW_LINENEW_L<Mataus kafasını onaylamazca sallar.>NEW_LINENEW_LŞimdi al onu ve gözümün önünden kaybol.",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9109"] = {
+    ["Title"]="Vebakalbi Kemeri",
+    ["Description"]="Sana numara yapmıyorum, kurtçuk. Vebakalbi eşyalarının barındırdığı karanlık ikimizi de yok edebilir. Fiyatın bu kadar yüksek olmasının nedeni budur. Eğer öleceksem, zengin bir adam olarak öleceğim.NEW_LINENEW_LVe senin nasıl öldüğün umrumda bile değil, yeter ki istediğimi yap. İhtiyacım olanı bana getir ve ikimiz de kazanalım - ya da ölelim; ama bunu zaten açıklamıştım...",
+    ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Gazapbüyücüsü Mataus sana bir Vebakalbi Kemeri yapacaktır: 1 Saygısızlığa Uğramış Kemer, 8 Savaştan Yıpranmış Kumaş Hurdası, 2 Büyülü Kristal ve 2 Ay Kumaşı.",
+    ["Progress"]="Hayırsız kemirgen geri döndü! İhtiyacım olan şey sende var mı?",
+    ["Completion"]="Görüyor musun? Gücü şimdi anlıyor musun? Arınma... Ne aptallar...NEW_LINENEW_L<Mataus kafasını onaylamazca sallar.>NEW_LINENEW_LŞimdi al onu ve gözümün önünden kaybol.",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9110"] = {
+    ["Title"]="Vebakalbi Bağları",
+    ["Description"]="Sana numara yapmıyorum, kurtçuk. Vebakalbi eşyalarının barındırdığı karanlık ikimizi de yok edebilir. Fiyatın bu kadar yüksek olmasının nedeni budur. Eğer öleceksem, zengin bir adam olarak öleceğim.NEW_LINENEW_LVe senin nasıl öldüğün umrumda bile değil, yeter ki istediğimi yap. İhtiyacım olanı bana getir ve ikimiz de kazanalım - ya da ölelim; ama bunu zaten açıklamıştım...",
+    ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Gazapbüyücüsü Mataus sana Vebakalbi Bağları yapacaktır: 1 Saygısızlığa Uğramış Bağlar, 6 Savaştan Yıpranmış Kumaş Hurdası, 1 Büyülü Kristal ve 1 Kristal Özü.",
+    ["Progress"]="Hayırsız kemirgen geri döndü! İhtiyacım olan şey sende var mı?",
+    ["Completion"]="Görüyor musun? Gücü şimdi anlıyor musun? Arınma... Ne aptallar...NEW_LINENEW_L<Mataus kafasını onaylamazca sallar.>NEW_LINENEW_LŞimdi al onu ve gözümün önünden kaybol.",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9111"] = {
+    ["Title"]="İnanç Cübbesi",
+    ["Description"]="<Peder Montoy senin önünde havada bazı garip hareketler yapar.>NEW_LINENEW_LKutsanmış $Goğlan:kız, düşenlerin giysilerini buldun mu? Son nefeslerini savaş meydanında veren - onurları dahil her şeyleri sökülüp alınan o zavallı ruhlar.NEW_LINENEW_LAyrılanların saygısızlığa uğramış kalıntılarını arınma reaktifleriyle birlikte bana getir ve inancı tanı.",
+    ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Peder Inigo Montoy sana bir İnanç Cübbesi yapacaktır: 1 Saygısızlığa Uğramış Cübbe, 25 Savaştan Yıpranmış Kumaş Hurdası, 4 Ay Kumaşı ve 2 Kristal Özü.",
+    ["Progress"]="Reaktifleri getirdin mi evladım?",
+    ["Completion"]="Giysiler hazır, YOUR_NAME. Dünyamıza zarar vereceklere doğru ateşiyle vur.",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9112"] = {
+    ["Title"]="İnanç Pantolonu",
+    ["Description"]="<Peder Montoy senin önünde havada bazı garip hareketler yapar.>NEW_LINENEW_LKutsanmış $Goğlan:kız, düşenlerin giysilerini buldun mu? Son nefeslerini savaş meydanında veren - onurları dahil her şeyleri sökülüp alınan o zavallı ruhlar.NEW_LINENEW_LAyrılanların saygısızlığa uğramış kalıntılarını arınma reaktifleriyle birlikte bana getir ve inancı tanı.",
+    ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Peder Inigo Montoy sana İnanç Pantolonu yapacaktır: 1 Saygısızlığa Uğramış Pantolon, 20 Savaştan Yıpranmış Kumaş Hurdası, 4 Ay Kumaşı ve 2 Kristal Özü.",
+    ["Progress"]="Reaktifleri getirdin mi evladım?",
+    ["Completion"]="Giysiler hazır, YOUR_NAME. Dünyamıza zarar vereceklere doğru ateşiyle vur.",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9113"] = {
+    ["Title"]="İnanç Taçı",
+    ["Description"]="<Peder Montoy senin önünde havada bazı garip hareketler yapar.>NEW_LINENEW_LKutsanmış $Goğlan:kız, düşenlerin giysilerini buldun mu? Son nefeslerini savaş meydanında veren - onurları dahil her şeyleri sökülüp alınan o zavallı ruhlar.NEW_LINENEW_LAyrılanların saygısızlığa uğramış kalıntılarını arınma reaktifleriyle birlikte bana getir ve inancı tanı.",
+    ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Peder Inigo Montoy sana bir İnanç Taçı yapacaktır: 1 Saygısızlığa Uğramış Taç, 15 Savaştan Yıpranmış Kumaş Hurdası, 3 Ay Kumaşı ve 3 Kristal Özü.",
+    ["Progress"]="Reaktifleri getirdin mi evladım?",
+    ["Completion"]="Giysiler hazır, YOUR_NAME. Dünyamıza zarar vereceklere doğru ateşiyle vur.",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9114"] = {
+    ["Title"]="İnanç Omuzlukları",
+    ["Description"]="<Peder Montoy senin önünde havada bazı garip hareketler yapar.>NEW_LINENEW_LKutsanmış $Goğlan:kız, düşenlerin giysilerini buldun mu? Son nefeslerini savaş meydanında veren - onurları dahil her şeyleri sökülüp alınan o zavallı ruhlar.NEW_LINENEW_LAyrılanların saygısızlığa uğramış kalıntılarını arınma reaktifleriyle birlikte bana getir ve inancı tanı.",
+    ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Peder Inigo Montoy sana İnanç Omuzlukları yapacaktır: 1 Saygısızlığa Uğramış Omuzluk, 12 Savaştan Yıpranmış Kumaş Hurdası, 2 Ay Kumaşı ve 3 İşlenmiş Sert Deri.",
+    ["Progress"]="Reaktifleri getirdin mi evladım?",
+    ["Completion"]="Giysiler hazır, YOUR_NAME. Dünyamıza zarar vereceklere doğru ateşiyle vur.",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9115"] = {
+    ["Title"]="İnanç Sandaletleri",
+    ["Description"]="<Peder Montoy senin önünde havada bazı garip hareketler yapar.>NEW_LINENEW_LKutsanmış $Goğlan:kız, düşenlerin giysilerini buldun mu? Son nefeslerini savaş meydanında veren - onurları dahil her şeyleri sökülüp alınan o zavallı ruhlar.NEW_LINENEW_LAyrılanların saygısızlığa uğramış kalıntılarını arınma reaktifleriyle birlikte bana getir ve inancı tanı.",
+    ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Peder Inigo Montoy sana İnanç Sandaletleri yapacaktır: 1 Saygısızlığa Uğramış Sandalet, 12 Savaştan Yıpranmış Kumaş Hurdası, 2 Ay Kumaşı ve 3 İşlenmiş Sert Deri.",
+    ["Progress"]="Reaktifleri getirdin mi evladım?",
+    ["Completion"]="Giysiler hazır, YOUR_NAME. Dünyamıza zarar vereceklere doğru ateşiyle vur.",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9116"] = {
+    ["Title"]="İnanç Eldivenleri",
+    ["Description"]="<Peder Montoy senin önünde havada bazı garip hareketler yapar.>NEW_LINENEW_LKutsanmış $Goğlan:kız, düşenlerin giysilerini buldun mu? Son nefeslerini savaş meydanında veren - onurları dahil her şeyleri sökülüp alınan o zavallı ruhlar.NEW_LINENEW_LAyrılanların saygısızlığa uğramış kalıntılarını arınma reaktifleriyle birlikte bana getir ve inancı tanı.",
+    ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Peder Inigo Montoy sana İnanç Eldivenleri yapacaktır: 1 Saygısızlığa Uğramış Eldiven, 8 Savaştan Yıpranmış Kumaş Hurdası ve 4 Ay Kumaşı.",
+    ["Progress"]="Reaktifleri getirdin mi evladım?",
+    ["Completion"]="Giysiler hazır, YOUR_NAME. Dünyamıza zarar vereceklere doğru ateşiyle vur.",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9117"] = {
+    ["Title"]="İnanç Kemeri",
+    ["Description"]="<Peder Montoy senin önünde havada bazı garip hareketler yapar.>NEW_LINENEW_LKutsanmış $Goğlan:kız, düşenlerin giysilerini buldun mu? Son nefeslerini savaş meydanında veren - onurları dahil her şeyleri sökülüp alınan o zavallı ruhlar.NEW_LINENEW_LAyrılanların saygısızlığa uğramış kalıntılarını arınma reaktifleriyle birlikte bana getir ve inancı tanı.",
+    ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Peder Inigo Montoy sana bir İnanç Kemeri yapacaktır: 1 Saygısızlığa Uğramış Kemer, 8 Savaştan Yıpranmış Kumaş Hurdası, 2 Büyülü Kristal ve 2 Ay Kumaşı.",
+    ["Progress"]="Reaktifleri getirdin mi evladım?",
+    ["Completion"]="Giysiler hazır, YOUR_NAME. Dünyamıza zarar vereceklere doğru ateşiyle vur.",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9118"] = {
+    ["Title"]="İnanç Bağları",
+    ["Description"]="<Peder Montoy senin önünde havada bazı garip hareketler yapar.>NEW_LINENEW_LKutsanmış $Goğlan:kız, düşenlerin giysilerini buldun mu? Son nefeslerini savaş meydanında veren - onurları dahil her şeyleri sökülüp alınan o zavallı ruhlar.NEW_LINENEW_LAyrılanların saygısızlığa uğramış kalıntılarını arınma reaktifleriyle birlikte bana getir ve inancı tanı.",
+    ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Peder Inigo Montoy sana İnanç Bağları yapacaktır: 1 Saygısızlığa Uğramış Bağlar, 6 Savaştan Yıpranmış Kumaş Hurdası, 1 Büyülü Kristal ve 1 Kristal Özü.",
+    ["Progress"]="Görev için eksik parçalar var, lütfen gidip hepsini al!",
+    ["Completion"]="Mükemmel YOUR_NAME! Tam istediğim gibi her şeyi getirdin ve şimdi bir İnanç Bağları üretebilirim.",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9120"] = {
+    ["Title"]="Kel'Thuzad'ın Düşüşü",
+    ["Description"]="Ruh muhafazası, Naxxramas efendisinden geriye kalan tek şeydir. Mantığın sana ruh muhafazasını yok etmeni, lichin yeniden oluşmasını engellemeni söyler. Neyse ki, o içsel sesini seyrek dinlersin.NEW_LINENEW_LIşık Umudu'ndan biri sana bu eser için devasa bir ödeme yapacaktır. Kel'Thuzad'ın tam gücüne ulaşması kimin umurunda?",
+    ["Objectives"]="Kel'Thuzad'ın Ruh Muhafazası'nı Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'ne götür.",
+    ["Progress"]="KUTSAL IŞIK! Elinde tuttuğun bu kötülük de ne, evladım?",
+    ["Completion"]="Tüm yaşamım boyunca bunu göreceğimi hiç tahmin etmezdim...NEW_LINENEW_L<Peder Montoy'un ağzının suları akıyor gibi görünüyor.>NEW_LINENEW_LAh yes, büyük bir ödül alacaksın sevgili evladım. Çok büyük bir ödül. Onu buraya ver. Hemen!",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9121"] = {
+    ["Title"]="Dehşet Hisarı - Naxxramas",
+    ["Description"]="Vebakorusu'nun koyu bağrında, korkunç Naxxramas hisarının girişi yatar. Önceden, girmeye yönelik tüm girişimler rün geçidine yerleştirilen büyülü korumalar tarafından engellenmişti. Yani, şimdiye kadar.NEW_LINENEW_LGizli bir arkana pelerini yardımıyla - kendi geliştirdiğim birkaç modifikasyonla Kirin Tor'un eski bir büyüsü - bir giriş yolu tasarladık. Şafak davasına adanmışlığın biraz eksik olduğundan, YOUR_NAME, bedeli yüksek olacaktır. Reddedebilir ve saygıdeğer veya yüce bir repütasyona sahip olduğunda indirim için geri dönebilirsin.",
+    ["Objectives"]="Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Başbüyücü Angela Dosantos 5 Büyülü Kristal, 2 Kristal Özü, 1 Doğruluk Küresi ve 60 altın para istiyor. Ayrıca Gümüşi Şafak ile Hürmet Edilen durumunda olmalısın.",
+    ["Progress"]="Hiç kimse Naxxramas'a girip anlatacak kadar yaşamadı.",
+    ["Completion"]="Hafif bir karıncalanma hissedeceksin, YOUR_NAME. Bu his çalıştığı anlamına gelir. Tamamlandığında, Vebakorusu'ndaki rün geçidine basarak Naxxramas'a girebileceksin.",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9122"] = {
+    ["Title"]="Dehşet Hisarı - Naxxramas",
+    ["Description"]="Vebakorusu'nun koyu bağrında, korkunç Naxxramas hisarının girişi yatar. Önceden, girmeye yönelik tüm girişimler rün geçidine yerleştirilen büyülü korumalar tarafından engellenmişti. Yani, şimdiye kadar.NEW_LINENEW_LBir tür kalıcı gizli arkana pelerini aracılığıyla - kendi geliştirdiğim birkaç modifikasyonla Kirin Tor'un eski bir büyüsü - bir giriş yolu tasarladık. Bununla birlikte, pelerin maliyetlidir. Şafak davasına adanmışlığın takdire şayan olduğundan, bu maliyetlerin bir kısmını üstlenmeye razıyız.",
+    ["Objectives"]="Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Başbüyücü Angela Dosantos 2 Büyülü Kristal, 1 Kristal Özü ve 30 altın para istiyor. Ayrıca Gümüşi Şafak ile Saygıdeğer durumunda olmalısın.",
+    ["Progress"]="Hiç kimse Naxxramas'a girip anlatacak kadar yaşamadı.",
+    ["Completion"]="Hafif bir karıncalanma hissedeceksin, YOUR_NAME. Bu his çalıştığı anlamına gelir. Tamamlandığında, Vebakorusu'ndaki rün geçidine basarak Naxxramas'a girebileceksin.",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9123"] = {
+    ["Title"]="Dehşet Hisarı - Naxxramas",
+    ["Description"]="Vebakorusu'nun koyu bağrında, korkunç Naxxramas hisarının girişi yatar. Önceden, girmeye yönelik tüm girişimler rün geçidine yerleştirilen büyülü korumalar tarafından engellenmişti. Yani, şimdiye kadar.NEW_LINENEW_LBir tür kalıcı gizli arkana pelerini aracılığıyla - kendi geliştirdiğim birkaç modifikasyonla Kirin Tor'un eski bir büyüsü - bir giriş yolu tasarladık. Bununla birlikte, pelerin maliyetlidir; ancak, Şafak davasına adanmışlığın sarsılmaz! Tüm maliyet bağlantılarını kaldıracağız.",
+    ["Objectives"]="Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Başbüyücü Angela Dosantos sana ücretsiz olarak Gizli Arkana Pelerini verecektir. Gümüşi Şafak ile Yüce durumunda olmalısın.",
+    ["Progress"]="Hiç kimse Naxxramas'a girip anlatacak kadar yaşamadı.",
+    ["Completion"]="Hafif bir karıncalanma hissedeceksin, YOUR_NAME. Bu his çalıştığı anlamına gelir. Tamamlandığında, Vebakorusu'ndaki rün geçidine basarak Naxxramas'a girebileceksin.",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9124"] = {
+    ["Title"]="Mahzen Avcısı Zırhı Kendi Kendine Yapılmaz...",
+    ["Description"]="Bu parlak sikkelerden birini kazanmak ister misin?NEW_LINENEW_L<Leopold Haçlı Seferi'nin nişanını havaya kaldırır.>NEW_LINENEW_LBana yardım edebileceğin küçük bir sorunum var, YOUR_NAME. Görüyorsun ya, Naxxramas'a girmeye cüret eden çılgınlar için Mahzen Avcısı zırhı yapıyorum. Bana zırh için temel malzeme gereksinimlerini sağlasalar da, mahzen yaratığı parçalarım her zaman tükeniyor. Bana bir paket parça getir, ben de sana çeyrek ustasında kullanabileceğin bir nişan ödeyeyim.",
+    ["Objectives"]="Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Avcı Leopold 30 Mahzen Yaratığı Parçası istiyor.",
+    ["Progress"]="Av nasıl gidiyor?",
+    ["Completion"]="Ah, bu işimizi görür, YOUR_NAME. Unutma, her zaman daha fazla parça kabul ediyorum. Bana getirdiğin her paket için seni bir Nişan ile ödüllendireceğim.",
+    ["minlevel"]="55",
+    ["questlevel"]="60"
+},
+
+["9125"] = {
+    ["Title"]="Mahzen Yaratığı Parçaları",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="İlk pakette örnek bir iş çıkardın, YOUR_NAME. Daha fazlası varsa, şimdi alabilirim. Teslim ettiğin her paket için seni başka bir nişanla ödüllendireceğim.",
+    ["Completion"]="Çok mükemmel, YOUR_NAME! Bunlar kesinlikle iyi bir işte kullanılacak.",
+    ["minlevel"]="55",
+    ["questlevel"]="60"
+},
+
+["9126"] = {
+    ["Title"]="Kemiktırpan Kazıları",
+    ["Description"]="Don Julio'nun Kemiktırpan zırh deseni kemik kırıntıları gerektirir - hem de çok sayıda kemik kırıntısı. Naxxramas'a girmeye cüret edecek kadar çılgın olanlar zırhı yapmak için yeterli temel malzemeyi sağlasa da, her zaman daha fazla Afet kemik kırıntısı arıyorum.NEW_LINENEW_LNe düşünüyorsun? Ellerin kirlenmesine ve aynı zamanda birkaç Afet yok etmeye ne dersin? Çifte kazançlı bir durum.",
+    ["Objectives"]="Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Suikastçı Rohan 30 Kemik Kırıntısı istiyor.",
+    ["Progress"]="Seni iskeletlerle dolu alanlara yönlendirebilirim $C.",
+    ["Completion"]="Hızlı çalışıyorsun, YOUR_NAME. Tilki gibi hızlı... Söylesene, bir berber dükkanı dörtlüsünde olduğum zamanı sana hiç anlatmış mıydım?NEW_LINENEW_LBu günlerden birinde sana bu hikayeyi anlatmamı hatırlat.",
+    ["minlevel"]="55",
+    ["questlevel"]="60"
+},
+
+["9127"] = {
+    ["Title"]="Kemik Kırıntıları",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Benim işimdeki bir adam asla fazla kemik kırıntısına sahip olamaz, YOUR_NAME. Ne zaman elinde fazladan kırıntı olursa bana getir, seni başka bir nişanla ödüllendireyim.",
+    ["Completion"]="Gadgetzan diskosunda tam zamanlı bir dansçı olma hayalim yakında gerçek olacak! İyi iş çıkarmaya devam et, YOUR_NAME.",
+    ["minlevel"]="55",
+    ["questlevel"]="60"
+},
+
+["9128"] = {
+    ["Title"]="Element Denklemi",
+    ["Description"]="Selamlar macera perest! Biraz işle ilgilenir misin? Yanımda çalışanlara nişan ödemesi yapıyorum. Bu nişanlar Çeyrek Ustasında güç eşyaları satın almak için kullanılabilir.NEW_LINENEW_LTek yapman gereken taşıyabileceğin kadar çok element özü getirmek. Ne kadar çok o kadar iyi!NEW_LINENEW_LOnları dünyamızda var olan çeşitli şekil ve boyutlardaki elementallerin üzerinde bulacaksın.",
+    ["Objectives"]="Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Başbüyücü Angela Dosantos 30 Element Özü istiyor.",
+    ["Progress"]="Sana sadece doğru yönü gösterebilirim, YOUR_NAME.",
+    ["Completion"]="Harika bir iş, YOUR_NAME! Söz verildiği gibi, Nişan senin. Sadece unutma, bunların geldiği yerde daha fazlası var...",
+    ["minlevel"]="55",
+    ["questlevel"]="60"
+},
+
+["9129"] = {
+    ["Title"]="Element Özü",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Doğrusunu söylemek gerekirse, özleri Buzateşi zırhı oluşturmak için kullanıyorum. Naxxramas'ta savaşan büyücüler tarafından kullanılan zırhtır. Sen ve senin gibiler olmasaydı, kesinlikle bu savaşı kaybediyor olurduk.NEW_LINENEW_LBununla birlikte, bana daha fazla öz getir, ben de sana daha fazla nişan vereyim.",
+    ["Completion"]="Bize büyük bir hizmette bulunuyorsun, YOUR_NAME. Aferin!",
+    ["minlevel"]="55",
+    ["questlevel"]="60"
+},
+
+["9131"] = {
+    ["Title"]="Dreadnaught'u Bağlamak",
+    ["Description"]="Hiç Dreadnaught zırhı gördün mü $c? Hayır, tabii ki görmedin. Sen hâlâ bir $goğlan:kız; - bir yumurcaksın. Sana söyleyeyim, o muhteşemdir.NEW_LINENEW_LMuhtemelen kendine tüm bunların seninle ne ilgisi olduğunu soruyorsun, değil mi? Sana ne diyeceğim çömez; Koyu Demir hurdalarına ihtiyacım var ve olabildiğince çoğuna sahip olmak için ödeme yapmaya hazırım.NEW_LINENEW_LŞampiyonlarımız için Dreadnaught takımları oluşturmak üzere hurdalara ihtiyacım var. Bana hurdaları getir ve ödemeni al.",
+    ["Objectives"]="Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Korfax 30 Koyu Demir Hurdası istiyor.",
+    ["Progress"]="<Korfax sana hırıldar.>NEW_LINENEW_LNe istiyorsun? Yol mu? Onları sağlayabilirim...",
+    ["Completion"]="Şimdilik bu iş görür. Daha fazlasını bulursan beni nerede bulacağını biliyorsun.",
+    ["minlevel"]="55",
+    ["questlevel"]="60"
+},
+
+["9132"] = {
+    ["Title"]="Koyu Demir Hurdaları",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Bana getirdiğin her kucak dolusu hurda için sana bir nişan vereceğim - ne kadar çok o kadar iyi. Şimdi seni ikiye bölmeden önce gözümün önünden kaybol!",
+    ["Completion"]="Bana getirdiğin hepsi bu mu? Belki de beni ilk seferde duymadın. DAHA FAZLASINA ihtiyacım var!",
+    ["minlevel"]="55",
+    ["questlevel"]="60"
+},
+
+["9136"] = {
+    ["Title"]="Vahşi Bitki Örtüsü",
+    ["Description"]="Naxxramas'a giren cesur kahramanlar için Düşgezgin olarak bilinen özel bir zırh türü yapıyorum. İhtiyacım olan malzemelerin çoğunu bana sağlayabiliyorlar ama dünyamızın florasından vahşi yapraklar getirebilecek kişileri her zaman arıyorum.NEW_LINENEW_LBu işin sana göre olmadığını düşünebilirsin ama yapraklar olmadan zırh yapılamazdı.NEW_LINENEW_LAyrıca hem Şafak hem de Haçlı Seferi bana fon sağladığından, sana seçtiğin bir nişan ödeme konusunda benzersiz bir konumdayım.",
+    ["Objectives"]="Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Rayne 30 Vahşi Yaprak istiyor.",
+    ["Progress"]="Dünyamızdaki flora hakkında derin bilgiye sahibim. Yönlendirmeye ihtiyacın var mı?",
+    ["Completion"]="Çok minnettarım, YOUR_NAME.NEW_LINENEW_L<Rayne başıyla selamlar.>NEW_LINENEW_LLütfen her zaman yaprak kabul ettiğimi unutma.",
+    ["minlevel"]="55",
+    ["questlevel"]="60"
+},
+
+["9137"] = {
+    ["Title"]="Vahşi Yapraklar",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Bana teslim ettiğin her yaprak paketi için sana Şafak veya Haçlı Seferi nişanı seçeneğiyle ödeme yapacağım.NEW_LINENEW_LNişanlar çeşitli ödüller için Çeyrek Ustasına verilebilir.",
+    ["Completion"]="Teşekkür ederim, YOUR_NAME. Çalışman Afet'e karşı yürüttüğümüz seferin başarısı için hayati önem taşıyor.",
+    ["minlevel"]="55",
+    ["questlevel"]="60"
+},
+
+["9141"] = {
+    ["Title"]="Bana \"Horoz\" Derler",
+    ["Description"]="Bir emir belgesi mi istiyorsun? Ne? Sadece ortaya çıktığın için sana çok aranan bir iş emrini uzatmamı mı bekliyorsun? Sanmıyorum çömez. Dünyanın dört bir yanından zanaatkarlar burada ön saflarda iş kapmak için teklif veriyor.NEW_LINENEW_LEğer bir iş emri istiyorsan, dava için kan dökmeye istekli olduğunu bana göstermen gerekecek. Bana bir yiğitlik jetonu getir, sonra konuşalım.NEW_LINENEW_LVe o kirlenmiş küçük çömez ellerini onlara geçirmenin tek bir yolu var - öldürmeye başla.",
+    ["Objectives"]="Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Sevk Komutanı Metz bir Gümüşi Şafak Yiğitlik Jetonu istiyor.",
+    ["Progress"]="<Komutan Metz purosunu çiğner.>NEW_LINENEW_LNe var? Meşgul bir adamım.",
+    ["Completion"]="Pekala, bu iş şöyle yürüyor: Teslim ettiğin her yiğitlik jetonu için sana başka bir emir belgesi vereceğim. O emir belgesindeki siparişi tamamlar ve siparişi Yük Katırcısı Stonebruiser'a teslim edersin. Anladın mı? Güzel. Şimdi defol buradan.",
+    ["minlevel"]="55",
+    ["questlevel"]="60"
+},
+
+["9153"] = {
+    ["Title"]="Gölgenin Altında",
+    ["Description"]="Afet'in yüzen nekropolleri hem Güruh hem de İttifak topraklarına belâ oluyor. Tanaris, Lanetli Topraklar, Kışspring ve Yanık Bozkırlar uçan kalelerin gölgeleriyle kaplanmış durumda.NEW_LINENEW_LAncak birleşik çabalarımız sayesinde püskürtülecekler.NEW_LINENEW_LNekropoller, işgal edilen bölgelerdeki çeşitli noktalarda büyülü çemberlerle destekleniyor. Bu çemberleri çevreleyen akılsız sürüleri yok etmenin savunmalarını yok edeceğini belirledik.",
+    ["Objectives"]="Afet saldırısı altındaki bir bölgeyi bulmak için haritanı kontrol et. Oraya git ve etraflarındaki Afet'i yenerek bir nekropole zarar ver. Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Komutan Thomas Helleran'a 10 Nekrotik Rün geri getir.",
+    ["Progress"]="Bu tehdide karşı galip gelmek zaman alacak. Nasıl gittin, YOUR_NAME?",
+    ["Completion"]="İyi iş çıkardın, YOUR_NAME. Bu kademeli yenilgiler sayesinde, bu yenilenen Afet tehdidine karşı galip geleceğiz.NEW_LINENEW_LDinlen ve toparlan, ancak daha sonra tekrar cepheye gitmelisin, yoksa bugün kazandığımız mevzileri kaybederiz.NEW_LINENEW_Lİlerleyen savaşlarında sana yardımcı olmak için, daha fazla nekrotik rün takası karşılığında bazı özel eşyalarımızı senin kullanımına sunacağız.",
+    ["minlevel"]="50",
+    ["questlevel"]="60"
+},
+
+["9178"] = {
+    ["Title"]="Zanaatkar Emir Belgesi - Yoğun Bileytaşı",
+    ["Description"]="Bu yazılı emrin taşıyıcısı, sözleşmeli iş emrini tamamlaması üzerine kendi seçeceği bir nişan şeklinde ödeme alma hakkına sahiptir.NEW_LINENEW_Lİş Emri BS-091:NEW_LINENEW_L120 Yoğun Bileytaşı.NEW_LINENEW_LDoldurulan tüm siparişler Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim edilmelidir.NEW_LINENEW_LTahrif edilirse veya hasar görürse sözleşme hükümsüzdür.NEW_LINENEW_L-Sevk Komutanı Metz, Gümüşi Şafak",
+    ["Objectives"]="120 Yoğun Bileytaşı'nı ve Zanaatkar Emir Belgesi - Yoğun Bileytaşı'nı Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim et.",
+    ["Progress"]="Bir iş emri mi dolduruyorsun, $C?",
+    ["Completion"]="Evet, bunlar piyadenin darbe silahları için işe yarayacak.",
+    ["minlevel"]="55",
+    ["questlevel"]="60"
+},
+
+["9179"] = {
+    ["Title"]="Zanaatkar Emir Belgesi - İmparatorluk Plaka Zırhı",
+    ["Description"]="Bu yazılı emrin taşıyıcısı, sözleşmeli iş emrini tamamlaması üzerine kendi seçeceği bir nişan şeklinde ödeme alma hakkına sahiptir.NEW_LINENEW_Lİş Emri BS-428:NEW_LINENEW_L3 İmparatorluk Plaka Zırhı.NEW_LINENEW_LDoldurulan tüm siparişler Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim edilmelidir.NEW_LINENEW_LTahrif edilirse veya hasar görürse sözleşme hükümsüzdür.NEW_LINENEW_L-Sevk Komutanı Metz, Gümüşi Şafak",
+    ["Objectives"]="3 İmparatorluk Plaka Zırhı'nı ve Zanaatkar Emir Belgesi - İmparatorluk Plaka Zırhı'nı Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim et.",
+    ["Progress"]="Bir iş emri mi dolduruyorsun, $C?",
+    ["Completion"]="Birlikler için daha fazla zırh! Harika, YOUR_NAME!",
+    ["minlevel"]="55",
+    ["questlevel"]="60"
+},
+
+["9181"] = {
+    ["Title"]="Zanaatkar Emir Belgesi - Volkanik Balyoz",
+    ["Description"]="Bu yazılı emrin taşıyıcısı, sözleşmeli iş emrini tamamlaması üzerine kendi seçeceği bir nişan şeklinde ödeme alma hakkına sahiptir.NEW_LINENEW_Lİş Emri BS-697:NEW_LINENEW_L3 Volkanik Balyoz.NEW_LINENEW_LDoldurulan tüm siparişler Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim edilmelidir.NEW_LINENEW_LTahrif edilirse veya hasar görürse sözleşme hükümsüzdür.NEW_LINENEW_L-Sevk Komutanı Metz, Gümüşi Şafak",
+    ["Objectives"]="3 Volkanik Balyoz'u ve Zanaatkar Emir Belgesi - Volkanik Balyoz'u Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim et.",
+    ["Progress"]="Bir iş emri mi dolduruyorsun, $C?",
+    ["Completion"]="Bunlar stokladığımız yoğun bileytaşlarıyla iyi gidecektir.",
+    ["minlevel"]="55",
+    ["questlevel"]="60"
+},
+
+["9182"] = {
+    ["Title"]="Zanaatkar Emir Belgesi - Dev Torium Savaş Baltası",
+    ["Description"]="Bu yazılı emrin taşıyıcısı, sözleşmeli iş emrini tamamlaması üzerine kendi seçeceği bir nişan şeklinde ödeme alma hakkına sahiptir.NEW_LINENEW_Lİş Emri BS-6020:NEW_LINENEW_L3 Dev Torium Savaş Baltası.NEW_LINENEW_LDoldurulan tüm siparişler Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim edilmelidir.NEW_LINENEW_LTahrif edilirse veya hasar görürse sözleşme hükümsüzdür.NEW_LINENEW_L-Sevk Komutanı Metz, Gümüşi Şafak",
+    ["Objectives"]="3 Dev Torium Savaş Baltası'nı ve Zanaatkar Emir Belgesi - Dev Torium Savaş Baltası'nı Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim et.",
+    ["Progress"]="Bir iş emri mi dolduruyorsun, $C?",
+    ["Completion"]="Beklediğim kadar devasa değilmiş. Yine de, anlaşma anlaşmadır.",
+    ["minlevel"]="55",
+    ["questlevel"]="60"
+},
+
+["9183"] = {
+    ["Title"]="Zanaatkar Emir Belgesi - Işıltılı Taç",
+    ["Description"]="Bu yazılı emrin taşıyıcısı, sözleşmeli iş emrini tamamlaması üzerine kendi seçeceği bir nişan şeklinde ödeme alma hakkına sahiptir.NEW_LINENEW_Lİş Emri BS-80:NEW_LINENEW_L3 Işıltılı Taç.NEW_LINENEW_LDoldurulan tüm siparişler Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim edilmelidir.NEW_LINENEW_LTahrif edilirse veya hasar görürse sözleşme hükümsüzdür.NEW_LINENEW_L-Sevk Komutanı Metz, Gümüşi Şafak",
+    ["Objectives"]="3 Işıltılı Taç'ı ve Zanaatkar Emir Belgesi - Işıltılı Taç'ı Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim et.",
+    ["Progress"]="Bir iş emri mi dolduruyorsun, $C?",
+    ["Completion"]="Metz'in Afet'in dondurucu saldırılarına karşı korunmak için birliklerimizin bu düşük kaliteli çöpü giymesini beklediğine hâlâ inanamıyorum.",
+    ["minlevel"]="55",
+    ["questlevel"]="60"
+},
+
+["9184"] = {
+    ["Title"]="Zanaatkar Emir Belgesi - Hain Deri Kafa Bandı",
+    ["Description"]="Bu yazılı emrin taşıyıcısı, sözleşmeli iş emrini tamamlaması üzerine kendi seçeceği bir nişan şeklinde ödeme alma hakkına sahiptir.NEW_LINENEW_Lİş Emri LW-971:NEW_LINENEW_L10 Hain Deri Kafa Bandı.NEW_LINENEW_LDoldurulan tüm siparişler Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim edilmelidir.NEW_LINENEW_LTahrif edilirse veya hasar görürse sözleşme hükümsüzdür.NEW_LINENEW_L-Sevk Komutanı Metz, Gümüşi Şafak",
+    ["Objectives"]="10 Hain Deri Kafa Bandı'nı ve Zanaatkar Emir Belgesi - Hain Deri Kafa Bandı'nı Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim et.",
+    ["Progress"]="Bir iş emri mi dolduruyorsun, $C?",
+    ["Completion"]="Bunlar... haince.",
+    ["minlevel"]="55",
+    ["questlevel"]="60"
+},
+
+["9185"] = {
+    ["Title"]="Zanaatkar Emir Belgesi - Sert Zırh Kiti",
+    ["Description"]="Bu yazılı emrin taşıyıcısı, sözleşmeli iş emrini tamamlaması üzerine kendi seçeceği bir nişan şeklinde ödeme alma hakkına sahiptir.NEW_LINENEW_Lİş Emri LW-448:NEW_LINENEW_L25 Sert Zırh Kiti.NEW_LINENEW_LDoldurulan tüm siparişler Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim edilmelidir.NEW_LINENEW_LTahrif edilirse veya hasar görürse sözleşme hükümsüzdür.NEW_LINENEW_L-Sevk Komutanı Metz, Gümüşi Şafak",
+    ["Objectives"]="25 Sert Zırh Kiti'ni ve Zanaatkar Emir Belgesi - Sert Zırh Kiti'ni Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim et.",
+    ["Progress"]="Bir iş emri mi dolduruyorsun, $C?",
+    ["Completion"]="Sert zırh kitlerinin birçok kullanımı vardır, YOUR_NAME. Sadece ilave koruma için belirli zırh parçalarına yapıştırmak için DEĞİLDİR. Buradaki gibi, bunu çaydanlık örtüsü olarak kullanacağım.",
+    ["minlevel"]="55",
+    ["questlevel"]="60"
+},
+
+["9186"] = {
+    ["Title"]="Zanaatkar Emir Belgesi - Hain Deri Kemer",
+    ["Description"]="Bu yazılı emrin taşıyıcısı, sözleşmeli iş emrini tamamlaması üzerine kendi seçeceği bir nişan şeklinde ödeme alma hakkına sahiptir.NEW_LINENEW_Lİş Emri LW-736:NEW_LINENEW_L9 Hain Deri Kemer.NEW_LINENEW_LDoldurulan tüm siparişler Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim edilmelidir.NEW_LINENEW_LTahrif edilirse veya hasar görürse sözleşme hükümsüzdür.NEW_LINENEW_L-Sevk Komutanı Metz, Gümüşi Şafak",
+    ["Objectives"]="9 Hain Deri Kemer'i ve Zanaatkar Emir Belgesi - Hain Deri Kemer'i Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim et.",
+    ["Progress"]="Bir iş emri mi dolduruyorsun, $C?",
+    ["Completion"]="Bu kemerler aslında kafa bantlarından daha haince - böyle bir şeyin mümkün olduğuna inanabiliyorsan.",
+    ["minlevel"]="55",
+    ["questlevel"]="60"
+},
+
+["9187"] = {
+    ["Title"]="Zanaatkar Emir Belgesi - Rünlü Deri Pantolon",
+    ["Description"]="Bu yazılı emrin taşıyıcısı, sözleşmeli iş emrini tamamlaması üzerine kendi seçeceği bir nişan şeklinde ödeme alma hakkına sahiptir.NEW_LINENEW_Lİş Emri LW-8485:NEW_LINENEW_L4 Rünlü Deri Pantolon.NEW_LINENEW_LDoldurulan tüm siparişler Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim edilmelidir.NEW_LINENEW_LTahrif edilirse veya hasar görürse sözleşme hükümsüzdür.NEW_LINENEW_L-Sevk Komutanı Metz, Gümüşi Şafak",
+    ["Objectives"]="4 Rünlü Deri Pantolon'u ve Zanaatkar Emir Belgesi - Rünlü Deri Pantolon'u Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim et.",
+    ["Progress"]="Bir iş emri mi dolduruyorsun, $C?",
+    ["Completion"]="Druidler bu pantolonun yapımına giden işçiliği kesinlikle takdir edeceklerdir. Çok teşekkürler, $C.",
+    ["minlevel"]="55",
+    ["questlevel"]="60"
+},
+
+["9188"] = {
+    ["Title"]="Zanaatkar Emir Belgesi - Parlakkumaş Pantolon",
+    ["Description"]="Bu yazılı emrin taşıyıcısı, sözleşmeli iş emrini tamamlaması üzerine kendi seçeceği bir nişan şeklinde ödeme alma hakkına sahiptir.NEW_LINENEW_Lİş Emri TR-95:NEW_LINENEW_L6 Parlakkumaş Pantolon.NEW_LINENEW_LDoldurulan tüm siparişler Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim edilmelidir.NEW_LINENEW_LTahrif edilirse veya hasar görürse sözleşme hükümsüzdür.NEW_LINENEW_L-Sevk Komutanı Metz, Gümüşi Şafak",
+    ["Objectives"]="6 Parlakkumaş Pantolon'u ve Zanaatkar Emir Belgesi - Parlakkumaş Pantolon'u Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim et.",
+    ["Progress"]="Bir iş emri mi dolduruyorsun, $C?",
+    ["Completion"]="Bunların üzerinde neredeyse kendi yansımamı görebiliyorum! Bu çılgınca.",
+    ["minlevel"]="55",
+    ["questlevel"]="60"
+},
+
+["9190"] = {
+    ["Title"]="Zanaatkar Emir Belgesi - Rünkumaşı Çizmeler",
+    ["Description"]="Bu yazılı emrin taşıyıcısı, sözleşmeli iş emrini tamamlaması üzerine kendi seçeceği bir nişan şeklinde ödeme alma hakkına sahiptir.NEW_LINENEW_Lİş Emri TR-635:NEW_LINENEW_L8 Rünkumaşı Çizmeler.NEW_LINENEW_LDoldurulan tüm siparişler Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim edilmelidir.NEW_LINENEW_LTahrif edilirse veya hasar görürse sözleşme hükümsüzdür.NEW_LINENEW_L-Sevk Komutanı Metz, Gümüşi Şafak",
+    ["Objectives"]="8 Rünkumaşı Çizme'yi ve Zanaatkar Emir Belgesi - Rünkumaşı Çizmeler'i Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim et.",
+    ["Progress"]="Bir iş emri mi dolduruyorsun, $C?",
+    ["Completion"]="Bronzebeard'in sakalı hakkı için! Gerçekten bana rünkumaşı çizmeler getirdin... Sanırım o bahsi kaybettim.",
+    ["minlevel"]="55",
+    ["questlevel"]="60"
+},
+
+["9191"] = {
+    ["Title"]="Zanaatkar Emir Belgesi - Rünkumaşı Çanta",
+    ["Description"]="Bu yazılı emrin taşıyıcısı, sözleşmeli iş emrini tamamlaması üzerine kendi seçeceği bir nişan şeklinde ödeme alma hakkına sahiptir.NEW_LINENEW_Lİş Emri TR-9999:NEW_LINENEW_L8 Rünkumaşı Çanta.NEW_LINENEW_LDoldurulan tüm siparişler Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim edilmelidir.NEW_LINENEW_LTahrif edilirse veya hasar görürse sözleşme hükümsüzdür.NEW_LINENEW_L-Sevk Komutanı Metz, Gümüşi Şafak",
+    ["Objectives"]="8 Rünkumaşı Çanta'yı ve Zanaatkar Emir Belgesi - Rünkumaşı Çanta'yı Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim et.",
+    ["Progress"]="Bir iş emri mi dolduruyorsun, $C?",
+    ["Completion"]="Kutsanmış çizme bağcıkları! Bunlar düşündüğüm şeyler mi? Birlikler sahadayken gereken her şey için depolama alanı eksikliğinden durmadan şikayet ediyorlardı. Hatta içlerinden biri bana bir şema çizdi - tam bir ana kuzusu...NEW_LINENEW_LBunlar kesinlikle sızlanmaların bir kısmını hafifletmeye yardımcı olacak.",
+    ["minlevel"]="55",
+    ["questlevel"]="60"
+},
+
+["9194"] = {
+    ["Title"]="Zanaatkar Emir Belgesi - Rünkumaşı Cübbe",
+    ["Description"]="Bu yazılı emrin taşıyıcısı, sözleşmeli iş emrini tamamlaması üzerine kendi seçeceği bir nişan şeklinde ödeme alma hakkına sahiptir.NEW_LINENEW_Lİş Emri TR-7229:NEW_LINENEW_L8 Rünkumaşı Cübbe.NEW_LINENEW_LDoldurulan tüm siparişler Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim edilmelidir.NEW_LINENEW_LTahrif edilirse veya hasar görürse sözleşme hükümsüzdür.NEW_LINENEW_L-Sevk Komutanı Metz, Gümüşi Şafak",
+    ["Objectives"]="8 Rünkumaşı Cübbe'yi ve Zanaatkar Emir Belgesi - Rünkumaşı Cübbe'yi Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim et.",
+    ["Progress"]="Bir iş emri mi dolduruyorsun, $C?",
+    ["Completion"]="Yapmamalıydın! Hayır gerçekten, yapmamalıydın. Metz ne düşünüyor bilmiyorum ama kimse bu cübbeleri Naxxramas'a giymeyecek.NEW_LINENEW_L<Yük Katırcısı Stonebruiser iç çeker.>NEW_LINENEW_LBah, ön saflara aktarmam gerekecek bir hurda yığını daha ve Chambers'tan yemem gerekecek bir fırça daha.",
+    ["minlevel"]="55",
+    ["questlevel"]="60"
+},
+
+["9195"] = {
+    ["Title"]="Zanaatkar Emir Belgesi - Goblin Lağımcı Patlayıcısı",
+    ["Description"]="Bu yazılı emrin taşıyıcısı, sözleşmeli iş emrini tamamlaması üzerine kendi seçeceği bir nişan şeklinde ödeme alma hakkına sahiptir.NEW_LINENEW_Lİş Emri EN-11:NEW_LINENEW_L20 Goblin Lağımcı Patlayıcısı.NEW_LINENEW_LDoldurulan tüm siparişler Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim edilmelidir.NEW_LINENEW_LTahrif edilirse veya hasar görürse sözleşme hükümsüzdür.NEW_LINENEW_L-Sevk Komutanı Metz, Gümüşi Şafak",
+    ["Objectives"]="20 Goblin Lağımcı Patlayıcısı'nı ve Zanaatkar Emir Belgesi - Goblin Lağımcı Patlayıcısı'nı Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim et.",
+    ["Progress"]="Bir iş emri mi dolduruyorsun, $C?",
+    ["Completion"]="Şimdi benim dilimden konuşuyorsun, $C. GÜMBÜRTÜ çıkaran şeyler!",
+    ["minlevel"]="55",
+    ["questlevel"]="60"
+},
+
+["9196"] = {
+    ["Title"]="Zanaatkar Emir Belgesi - Torium El Bombası",
+    ["Description"]="Bu yazılı emrin taşıyıcısı, sözleşmeli iş emrini tamamlaması üzerine kendi seçeceği bir nişan şeklinde ödeme alma hakkına sahiptir.NEW_LINENEW_Lİş Emri EN-7:NEW_LINENEW_L20 Torium El Bombası.NEW_LINENEW_LDoldurulan tüm siparişler Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim edilmelidir.NEW_LINENEW_LTahrif edilirse veya hasar görürse sözleşme hükümsüzdür.NEW_LINENEW_L-Sevk Komutanı Metz, Gümüşi Şafak",
+    ["Objectives"]="20 Torium El Bombası'nı ve Zanaatkar Emir Belgesi - Torium El Bombası'nı Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim et.",
+    ["Progress"]="Bir iş emri mi dolduruyorsun, $C?",
+    ["Completion"]="Bunların yapımı güzel bir bakır paraya patlamış olmalı. Haklı mıyım yoksa haklı mıyım, YOUR_NAME?",
+    ["minlevel"]="55",
+    ["questlevel"]="60"
+},
+
+["9197"] = {
+    ["Title"]="Zanaatkar Emir Belgesi - Cüce Savaş Tavuğu",
+    ["Description"]="Bu yazılı emrin taşıyıcısı, sözleşmeli iş emrini tamamlaması üzerine kendi seçeceği bir nişan şeklinde ödeme alma hakkına sahiptir.NEW_LINENEW_Lİş Emri EN-0:NEW_LINENEW_L4 Cüce Savaş Tavuğu.NEW_LINENEW_LDoldurulan tüm siparişler Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim edilmelidir.NEW_LINENEW_LTahrif edilirse veya hasar görürse sözleşme hükümsüzdür.NEW_LINENEW_L-Sevk Komutanı Metz, Gümüşi Şafak",
+    ["Objectives"]="4 Cüce Savaş Tavuğu'nu ve Zanaatkar Emir Belgesi - Cüce Savaş Tavuğu'nu Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim et.",
+    ["Progress"]="Bir iş emri mi dolduruyorsun, $C?",
+    ["Completion"]="Neden gülümsüyorsun? Komik olan ne? Dinle bayım, bir Cüce Savaş Tavuğu çok önemli bir birimdir ve hafifçe alınamaz - ASLA. Bunları ağır şekilde vebalı veya istila edilmiş olabilecek alanlara gönderiyoruz ve hâlâ pır pır uçuşan vebalı böcekleri veya leş kurtçuklarını temizliyorlar. Herkes robotların vebaya karşı bağışıklı olduğunu bilir.NEW_LINENEW_LBahse girerim şimdi o kadar da akıllı hissetmiyorsun, değil mi? Büyük mankafa...",
+    ["minlevel"]="55",
+    ["questlevel"]="60"
+},
+
+["9198"] = {
+    ["Title"]="Zanaatkar Emir Belgesi - Torium Tüp",
+    ["Description"]="Bu yazılı emrin taşıyıcısı, sözleşmeli iş emrini tamamlaması üzerine kendi seçeceği bir nişan şeklinde ödeme alma hakkına sahiptir.NEW_LINENEW_Lİş Emri EN-558:NEW_LINENEW_L14 Torium Tüp.NEW_LINENEW_LDoldurulan tüm siparişler Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim edilmelidir.NEW_LINENEW_LTahrif edilirse veya hasar görürse sözleşme hükümsüzdür.NEW_LINENEW_L-Sevk Komutanı Metz, Gümüşi Şafak",
+    ["Objectives"]="14 Torium Tüp'ü ve Zanaatkar Emir Belgesi - Torium Tüp'ü Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim et.",
+    ["Progress"]="Bir iş emri mi dolduruyorsun, $C?",
+    ["Completion"]="Torium tüpleri mi? Vay, teşekkürler.NEW_LINENEW_L<Yük Katırcısı Stonebruiser torium tüp yığınını büyük bir çeşitli çöp yığınına fırlatır.>",
+    ["minlevel"]="55",
+    ["questlevel"]="60"
+},
+
+["9200"] = {
+    ["Title"]="Zanaatkar Emir Belgesi - Büyük Mana İksiri",
+    ["Description"]="Bu yazılı emrin taşıyıcısı, sözleşmeli iş emrini tamamlaması üzerine kendi seçeceği bir nişan şeklinde ödeme alma hakkına sahiptir.NEW_LINENEW_Lİş Emri AL-473:NEW_LINENEW_L10 Büyük Mana İksiri.NEW_LINENEW_LDoldurulan tüm siparişler Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim edilmelidir.NEW_LINENEW_LTahrif edilirse veya hasar görürse sözleşme hükümsüzdür.NEW_LINENEW_L-Sevk Komutanı Metz, Gümüşi Şafak",
+    ["Objectives"]="10 Büyük Mana İksiri'ni ve Zanaatkar Emir Belgesi - Büyük Mana İksiri'ni Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim et.",
+    ["Progress"]="Bir iş emri mi dolduruyorsun, $C?",
+    ["Completion"]="Bunların kullanışlılığı söylenmeye bile gerek duymuyor.",
+    ["minlevel"]="55",
+    ["questlevel"]="60"
+},
+
+["9201"] = {
+    ["Title"]="Zanaatkar Emir Belgesi - Yüce Arkana Koruması İksiri",
+    ["Description"]="Bu yazılı emrin taşıyıcısı, sözleşmeli iş emrini tamamlaması üzerine kendi seçeceği bir nişan şeklinde ödeme alma hakkına sahiptir.NEW_LINENEW_Lİş Emri AL-1420:NEW_LINENEW_L15 Yüce Arkana Koruması İksiri.NEW_LINENEW_LDoldurulan tüm siparişler Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim edilmelidir.NEW_LINENEW_LTahrif edilirse veya hasar görürse sözleşme hükümsüzdür.NEW_LINENEW_L-Sevk Komutanı Metz, Gümüşi Şafak",
+    ["Objectives"]="15 Yüce Arkana Koruması İksiri'ni ve Zanaatkar Emir Belgesi - Yüce Arkana Koruması İksiri'ni Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim et.",
+    ["Progress"]="Bir iş emri mi dolduruyorsun, $C?",
+    ["Completion"]="<Yük Katırcısı Stonebruiser yüce arkana koruması iksirlerinden birini açar ve bir yudum alır.>NEW_LINENEW_LHARİKA! Bunlar bir tekme vuruyor bebeğim! Tekme diyorum!",
+    ["minlevel"]="55",
+    ["questlevel"]="60"
+},
+
+["9202"] = {
+    ["Title"]="Zanaatkar Emir Belgesi - Büyük İyileştirme İksiri",
+    ["Description"]="Bu yazılı emrin taşıyıcısı, sözleşmeli iş emrini tamamlaması üzerine kendi seçeceği bir nişan şeklinde ödeme alma hakkına sahiptir.NEW_LINENEW_Lİş Emri AL-169110:NEW_LINENEW_L20 Büyük İyileştirme İksiri.NEW_LINENEW_LDoldurulan tüm siparişler Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim edilmelidir.NEW_LINENEW_LTahrif edilirse veya hasar görürse sözleşme hükümsüzdür.NEW_LINENEW_L-Sevk Komutanı Metz, Gümüşi Şafak",
+    ["Objectives"]="20 Büyük İyileştirme İksiri'ni ve Zanaatkar Emir Belgesi - Büyük İyileştirme İksiri'ni Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim et.",
+    ["Progress"]="Bir iş emri mi dolduruyorsun, $C?",
+    ["Completion"]="Ön saflardaki birliklerin bunlara ne dediğini biliyor musun? Şişedeki rahipler...NEW_LINENEW_L<Yük Katırcısı Stonebruiser şarkı söyler.>NEW_LINENEW_L\"Ben senin şişedeki rahibinim bebeğim... beni doğru şekilde içmelisin...\"NEW_LINENEW_LSorun ne evlat? Bu buralarda çok popüler bir şarkıdır.",
+    ["minlevel"]="55",
+    ["questlevel"]="60"
+},
+
+["9203"] = {
+    ["Title"]="Zanaatkar Emir Belgesi - Taşlaşma Matarası",
+    ["Description"]="Bu yazılı emrin taşıyıcısı, sözleşmeli iş emrini tamamlaması üzerine kendi seçeceği bir nişan şeklinde ödeme alma hakkına sahiptir.NEW_LINENEW_Lİş Emri AL-90:NEW_LINENEW_L1 Taşlaşma Matarası.NEW_LINENEW_LDoldurulan tüm siparişler Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim edilmelidir.NEW_LINENEW_LTahrif edilirse veya hasar görürse sözleşme hükümsüzdür.NEW_LINENEW_L-Sevk Komutanı Metz, Gümüşi Şafak",
+    ["Objectives"]="1 Taşlaşma Matarası'nı ve Zanaatkar Emir Belgesi - Taşlaşma Matarası'nı Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim et.",
+    ["Progress"]="Bir iş emri mi dolduruyorsun, $C?",
+    ["Completion"]="Yorum yok.NEW_LINENEW_L<Yük Katırcısı Stonebruiser sana dik dik bakar.>NEW_LINENEW_LYorum yok dedim! Şimdi gözümün önünden kaybol!",
+    ["minlevel"]="55",
+    ["questlevel"]="60"
+},
+
+["9204"] = {
+    ["Title"]="Zanaatkar Emir Belgesi - Taşpullu Yılanbalığı",
+    ["Description"]="Bu yazılı emrin taşıyıcısı, sözleşmeli iş emrini tamamlaması üzerine kendi seçeceği bir nişan şeklinde ödeme alma hakkına sahiptir.NEW_LINENEW_Lİş Emri FS-5:NEW_LINENEW_L40 Taşpullu Yılanbalığı.NEW_LINENEW_LDoldurulan tüm siparişler Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim edilmelidir.NEW_LINENEW_LTahrif edilirse veya hasar görürse sözleşme hükümsüzdür.NEW_LINENEW_L-Sevk Komutanı Metz, Gümüşi Şafak",
+    ["Objectives"]="40 Taşpullu Yılanbalığı'nı ve Zanaatkar Emir Belgesi - Taşpullu Yılanbalığı'nı Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim et.",
+    ["Progress"]="Bir iş emri mi dolduruyorsun, $C?",
+    ["Completion"]="Bunu başka bir şey için kullanabilirdin ama yapmadın, değil mi? Artık bunun için ağlamanın alemi yok, YOUR_NAME.",
+    ["minlevel"]="55",
+    ["questlevel"]="60"
+},
+
+["9205"] = {
+    ["Title"]="Zanaatkar Emir Belgesi - Zırhlı Balık",
+    ["Description"]="Bu yazılı emrin taşıyıcısı, sözleşmeli iş emrini tamamlaması üzerine kendi seçeceği bir nişan şeklinde ödeme alma hakkına sahiptir.NEW_LINENEW_Lİş Emri FS-12:NEW_LINENEW_L30 Zırhlı Balık.NEW_LINENEW_LDoldurulan tüm siparişler Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim edilmelidir.NEW_LINENEW_LTahrif edilirse veya hasar görürse sözleşme hükümsüzdür.NEW_LINENEW_L-Sevk Komutanı Metz, Gümüşi Şafak",
+    ["Objectives"]="30 Zırhlı Balık'ı ve Zanaatkar Emir Belgesi - Zırhlı Balık'ı Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim et.",
+    ["Progress"]="Bir iş emri mi dolduruyorsun, $C?",
+    ["Completion"]="Gerçekten bunların ne için olduğunu bilmiyor musun?NEW_LINENEW_L<Yük Katırcısı Stonebruiser güler.>NEW_LINENEW_LSanki sana söyleyecekmişim gibi!",
+    ["minlevel"]="55",
+    ["questlevel"]="60"
+},
+
+["9206"] = {
+    ["Title"]="Zanaatkar Emir Belgesi - Yıldırım Yılanbalığı",
+    ["Description"]="Bu yazılı emrin taşıyıcısı, sözleşmeli iş emrini tamamlaması üzerine kendi seçeceği bir nişan şeklinde ödeme alma hakkına sahiptir.NEW_LINENEW_Lİş Emri FS-9:NEW_LINENEW_L30 Yıldırım Yılanbalığı.NEW_LINENEW_LDoldurulan tüm siparişler Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim edilmelidir.NEW_LINENEW_LTahrif edilirse veya hasar görürse sözleşme hükümsüzdür.NEW_LINENEW_L-Sevk Komutanı Metz, Gümüşi Şafak",
+    ["Objectives"]="30 Yıldırım Yılanbalığı'nı ve Zanaatkar Emir Belgesi - Yıldırım Yılanbalığı'nı Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim et.",
+    ["Progress"]="Bir iş emri mi dolduruyorsun, $C?",
+    ["Completion"]="Bunlar dünyadaki en iyi yılanbalığı rulolarını yapar. Doğru - DÜNYADAKİ.",
+    ["minlevel"]="55",
+    ["questlevel"]="60"
+},
+
+["9208"] = {
+    ["Title"]="Vahşi Muhafız - Koruma Arkana Gizemi",
+    ["Description"]="Zanza, uygun bileşenlerle birçok kadim trol efsununu oluşturabilir! Vahşi Muhafız'ı duydun mu? Hayır, tabii ki duymadın. Zihnin aşağılık elf büyüsüyle bulanmış.NEW_LINENEW_LBana elf yapımı bir gizem getir ki bu sapkınlığı yok edebileyim. Bunu yap ve Vahşi Muhafız senin olsun.",
+    ["Objectives"]="Zul'Gurub'daki Huzursuz Zanza bir Koruma Arkana Gizemi istiyor.",
+    ["Progress"]="Gizem sende var mı?",
+    ["Completion"]="Bu efsunlardaki değersiz büyü öfkemi besliyor. Öfkem bana güç veriyor.NEW_LINENEW_LBana daha fazlasını getir ve başka bir Vahşi Muhafız al.",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9209"] = {
+    ["Title"]="Vahşi Muhafız - Çabukluk Arkana Gizemi",
+    ["Description"]="Zanza, uygun bileşenlerle birçok kadim trol efsununu oluşturabilir! Vahşi Muhafız'ı duydun mu? Hayır, tabii ki duymadın. Zihnin aşağılık elf büyüsüyle bulanmış.NEW_LINENEW_LBana elf yapımı bir gizem getir ki bu sapkınlığı yok edebileyim. Bunu yap ve Vahşi Muhafız senin olsun.",
+    ["Objectives"]="Zul'Gurub'daki Huzursuz Zanza bir Çabukluk Arkana Gizemi istiyor.",
+    ["Progress"]="Gizem sende var mı?",
+    ["Completion"]="Bu efsunlardaki değersiz büyü öfkemi besliyor. Öfkem bana güç veriyor.NEW_LINENEW_LBana daha fazlasını getir ve başka bir Vahşi Muhafız al.",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9210"] = {
+    ["Title"]="Vahşi Muhafız - Odaklanma Arkana Gizemi",
+    ["Description"]="Zanza, uygun bileşenlerle bir çok kadim trol efsununu oluşturabilir! Vahşi Muhafız'ı duydun mu? Hayır, tabii ki duymadın. Zihnin aşağılık elf büyüsüyle bulanmış.NEW_LINENEW_LBana elf yapımı bir gizem getir ki bu sapkınlığı yok edebileyim. Bunu yap ve Vahşi Muhafız senin olsun.",
+    ["Objectives"]="Zul'Gurub'daki Huzursuz Zanza bir Odaklanma Arkana Gizemi istiyor.",
+    ["Progress"]="Gizem sende var mı?",
+    ["Completion"]="Bu efsunlardaki değersiz büyü öfkemi besliyor. Öfkem bana güç veriyor.NEW_LINENEW_LBana daha fazlasını getir ve başka bir Vahşi Muhafız al.",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9211"] = {
+    ["Title"]="Buz Muhafızı",
+    ["Description"]="Ah, Buz Muhafızı. Belirli teçhizat parçalarını kaplayan ince bir koruyucu büyü tabakasıdır. Don ve buz yaratıklarıyla savaşanlar, Buz Muhafızı'nı kullanarak onların saldırılarına karşı artan koruma elde edecekler.NEW_LINENEW_LGazapbüyücüsü'nün oluşturduğu her şeyde olduğu gibi bir bedeli var - ne kadar sızlanırsan sızlan düşürmeyeceğim bir bedel. İlgileniyor musun?",
+    ["Objectives"]="Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Gazapbüyücüsü Mataus 10 Haçlı Seferi Nişanı ve 30 altın istiyor.",
+    ["Progress"]="Bu Gümüşi Şafak muhafızları olmasaydı, bu zeminde bir leke olurdun.",
+    ["Completion"]="<Mataus altını cebine atar.>NEW_LINENEW_LTamir masraflarının tadını çıkar, YOUR_RACE. Naxxramas acemilere 'nazik' davranmaz.",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9221"] = {
+    ["Title"]="Üstün Savaş Silahları - Şafağın Dostu",
+    ["Description"]="Selamlar dostum. Şafak veya Haçlı Seferi nişanların var mı ki güç eşyalarıyla takas etmek istersin?NEW_LINENEW_LSeni uyarmalıyım; Şafak ile dostane bir repütasyonda yapılan satın alımlar ağır bir ek ücretle gelir. Planlarınla ilerlemeden önce Şafak ile daha iyi bir repütasyon kazanmanı tavsiye ederim.",
+    ["Objectives"]="30 Şafak Nişanı ve 30 Haçlı Seferi Nişanı karşılığında Gümüşi Şafak'ın hazine zulasından bir eşya seçebilirsin.",
+    ["Progress"]="Dikkatli seç. İade yoktur.",
+    ["Completion"]="İyi günler, YOUR_NAME. Seninle iş yapmak bir zevkti.",
+    ["minlevel"]="55",
+    ["questlevel"]="60"
+},
+
+["9222"] = {
+    ["Title"]="Destansı Savaş Silahları - Şafağın Dostu",
+    ["Description"]="Selamlar dostum. Şafak veya Haçlı Seferi nişanların var mı ki büyük güç eşyalarıyla takas etmek istersin?NEW_LINENEW_LSeni uyarmalıyım; Şafak ile dostane bir repütasyonda yapılan satın alımlar son derece ağır bir ek ücretle gelir. Planlarınla ilerlemeden önce Şafak ile daha iyi bir repütasyon kazanmanı tavsiye ederim.",
+    ["Objectives"]="110 Şafak Nişanı ve 110 Haçlı Seferi Nişanı karşılığında Gümüşi Şafak'ın hazine zulasından bir eşya seçebilirsin.",
+    ["Progress"]="Dikkatli seç. İade yoktur.",
+    ["Completion"]="İyi günler, YOUR_NAME. Seninle iş yapmak bir zevkti.",
+    ["minlevel"]="55",
+    ["questlevel"]="60"
+},
+
+["9223"] = {
+    ["Title"]="Üstün Savaş Silahları - Şafak Arasında Hürmet Edilen",
+    ["Description"]="Selamlar dostum. Şafak veya Haçlı Seferi nişanların var mı ki güç eşyalarıyla takas etmek istersin?NEW_LINENEW_LSeni uyarmalıyım; Şafak ile hürmet edilen bir repütasyonda yapılan satın alımlar oldukça engelleyici bir ek ücretle gelir. Planlarınla ilerlemeden önce Şafak ile daha iyi bir repütasyon kazanmanı tavsiye ederim.",
+    ["Objectives"]="20 Şafak Nişanı ve 20 Haçlı Seferi Nişanı karşılığında Gümüşi Şafak'ın hazine zulasından bir eşya seçebilirsin.",
+    ["Progress"]="Dikkatli seç. İade yoktur.",
+    ["Completion"]="İyi günler, YOUR_NAME. Seninle iş yapmak bir zevkti.",
+    ["minlevel"]="55",
+    ["questlevel"]="60"
+},
+
+["9224"] = {
+    ["Title"]="Destansı Savaş Silahları - Şafak Arasında Hürmet Edilen",
+    ["Description"]="Selamlar dostum. Şafak veya Haçlı Seferi nişanların var mı ki büyük güç eşyalarıyla takas etmek istersin?NEW_LINENEW_LSeni uyarmalıyım; Şafak ile hürmet edilen bir repütasyonda yapılan satın alımlar son derece ağır bir ek ücretle gelir. Planlarınla ilerlemeden önce Şafak ile daha iyi bir repütasyon kazanmanı tavsiye ederim.",
+    ["Objectives"]="75 Şafak Nişanı ve 75 Haçlı Seferi Nişanı karşılığında Gümüşi Şafak'ın hazine zulasından bir eşya seçebilirsin.",
+    ["Progress"]="Dikkatli seç. İade yoktur.",
+    ["Completion"]="İyi günler, YOUR_NAME. Seninle iş yapmak bir zevkti.",
+    ["minlevel"]="55",
+    ["questlevel"]="60"
+},
+
+["9225"] = {
+    ["Title"]="Destansı Savaş Silahları - Şafak Arasında Saygıdeğer",
+    ["Description"]="Selamlar dostum. Şafak veya Haçlı Seferi nişanların var mı ki büyük güç eşyalarıyla takas etmek istersin?NEW_LINENEW_LSeni uyarmalıyım; Şafak ile saygıdeğer bir repütasyonda yapılan destansı satın alımlar hâlâ oldukça pahalıdır. Planlarınla ilerlemeden önce Şafak ile daha iyi bir repütasyon kazanmanı tavsiye ederim.",
+    ["Objectives"]="45 Şafak Nişanı ve 45 Haçlı Seferi Nişanı karşılığında Gümüşi Şafak'ın hazine zulasından bir eşya seçebilirsin.",
+    ["Progress"]="Dikkatli seç. İade yoktur.",
+    ["Completion"]="İyi günler, YOUR_NAME. Seninle iş yapmak bir zevkti.",
+    ["minlevel"]="55",
+    ["questlevel"]="60"
+},
+
+["9226"] = {
+    ["Title"]="Üstün Savaş Silahları - Şafak Arasında Saygıdeğer",
+    ["Description"]="Selamlar dostum. Şafak veya Haçlı Seferi nişanların var mı ki güç eşyalarıyla takas etmek istersin?NEW_LINENEW_LŞafak arasında saygıdeğer olanlara sunulan eşyalar oldukça makul fiyatlandırılmıştır. Bir satın alım yapmanı teşvik ediyorum!",
+    ["Objectives"]="7 Şafak Nişanı ve 7 Haçlı Seferi Nişanı karşılığında Gümüşi Şafak'ın hazine zulasından bir eşya seçebilirsin.",
+    ["Progress"]="Dikkatli seç. İade yoktur.",
+    ["Completion"]="İyi günler, YOUR_NAME. Seninle iş yapmak bir zevkti.",
+    ["minlevel"]="55",
+    ["questlevel"]="60"
+},
+
+["9227"] = {
+    ["Title"]="Üstün Savaş Silahları - Şafak Arasında Yüce",
+    ["Description"]="Selamlar dostum. Şafak veya Haçlı Seferi nişanların var mı ki güç eşyalarıyla takas etmek istersin?NEW_LINENEW_LŞafak arasında yüce olanlara sunulan eşyalar indirimli. Bir satın alım yapmanı teşvik ediyorum!",
+    ["Objectives"]="6 Şafak Nişanı ve 6 Haçlı Seferi Nişanı karşılığında Gümüşi Şafak'ın hazine zulasından bir eşya seçebilirsin.",
+    ["Progress"]="Dikkatli seç. İade yoktur.",
+    ["Completion"]="İyi günler, YOUR_NAME. Seninle iş yapmak bir zevkti.",
+    ["minlevel"]="55",
+    ["questlevel"]="60"
+},
+
+["9228"] = {
+    ["Title"]="Destansı Savaş Silahları - Şafak Arasında Yüce",
+    ["Description"]="Selamlar dostum. Şafak veya Haçlı Seferi nişanların var mı ki büyük güç eşyalarıyla takas etmek istersin?NEW_LINENEW_LŞafak arasında yüce olanlar en büyük indirimlerimizi alırlar! Bir satın alım yapmanı teşvik ediyorum.",
+    ["Objectives"]="27 Şafak Nişanı ve 27 Haçlı Seferi Nişanı karşılığında Gümüşi Şafak'ın hazine zulasından bir eşya seçebilirsin.",
+    ["Progress"]="Dikkatli seç. İade yoktur.",
+    ["Completion"]="İyi günler, YOUR_NAME. Seninle iş yapmak bir zevkti.",
+    ["minlevel"]="55",
+    ["questlevel"]="60"
+},
+
+["9229"] = {
+    ["Title"]="Ramaladni'nin Kaderi",
+    ["Description"]="Ramaladni Kardeşlik'in bir savaşçısıydı - Şafak var olmadan önce bile Yüce Lord Mograine'in öğrencisiydi! Mograine'in ölüm haberi ona ulaştığında, nefreti ve öfkesi kontrolü ele geçirdi.NEW_LINENEW_LBunu anla, YOUR_NAME, öfke ve intikam dizginleri ele geçirdiğinde, bir adam adam olmaktan çıkar. Adam bunun yerine onu kontrol eden duyguları kişileştirir. Ve böylece intikam ruhu Ramaladni, intikam almak için Naxxramas'a girer... ve asla geri dönmez.NEW_LINENEW_LNaxxramas'a gir ve Ramaladni'ye ne olduğunu bul.",
+    ["Objectives"]="Naxxramas'a gir ve Ramaladni'nin Kaderi'ni açığa çıkar.",
+    ["Progress"]="Ramaladni'den haber var mı?",
+    ["Completion"]="Bu onun yüzüğü! Ama yok edilmiş. Ramaladni'ye dair başka bir kanıt bulunamadı mı?NEW_LINENEW_L<Korfax yüzünü ekşitir.>NEW_LINENEW_LBu Ramaladni için iyiye işaret değil. Yüzük ise... kurtarılabilir olabilir.",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9230"] = {
+    ["Title"]="Ramaladni'nin Buzlu Kavrayışı",
+    ["Description"]="Bu halkayı tamir etmek oldukça zorlu bir iş olabilir, YOUR_NAME. Görüyorsun ya, Naxxramas gibi Afet yapılarının içinde oluşan rünlerin kendisinden yapılmıştı. Ek malzemeler de gerekiyor ama ana endişen o donmuş rünleri almak olmalı. İhtiyacım olanı bana getir, yüzüğü eski ihtişamına kavuşturayım.",
+    ["Objectives"]="Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Korfax ona 1 Donmuş Rün, 1 Mavi Safir ve 1 Arkanit Külçesi getirmeni istiyor.",
+    ["Progress"]="Donmuş rünler muhtemelen Naxxramas'ın içinde bulunabilir.",
+    ["Completion"]="Ramaladni'nin kendisi bile daha iyisini yapamazdı! İşte söz verildiği gibi yüzük.",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9232"] = {
+    ["Title"]="Bildiğim Tek Şarkı...",
+    ["Description"]="Kendini Şafak'ın bir kahramanı sanıyorsun, ha? En büyük askerlerimizin Kel'Thuzad'ın alt tabakası tarafından ezildiğini gördüm! Bu kadar cahil biri Naxxramas'ta ne kadar başarılı olabilir?NEW_LINENEW_L<Wilhelm iç çeker.>NEW_LINENEW_LBah, ne seçeneğim var ki? Yapabileğimin en iyisi sensin; sana yardım etsem iyi olur.NEW_LINENEW_LOmarion bana bir tarif bıraktı. Bildiğim tek şarkı bu... Bu pantolonların birkaç varyasyonunu yapabilirim; sadece malzemeleri sağlaman gerekiyor.",
+    ["Objectives"]="Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Zanaatkar Wilhelm ona 2 Donmuş Rün, 2 Su Özü, 2 Mavi Safir ve 30 altın para getirmeni istiyor.",
+    ["Progress"]="Omarion ile karşılaşmadın, değil mi?",
+    ["Completion"]="<Wilhelm alnındaki teri siler.>NEW_LINENEW_LBu zor bir işti! Pantolonun tadını çıkar $C. En azından artık temiz bir çift giysinin içinde öleceksin.",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9233"] = {
+    ["Title"]="Omarion'un El Kitabı",
+    ["Description"]="Wilhelm,NEW_LINENEW_LBunu okuyorsan, öldüm demektir - nihayet. Can verirkenki düşüncelerimin senin ve zanaat becerileri konusundaki beceriksizliğin etrafında döndüğünü bilmeni isterim. Ne yazık ki, bu el kitabının taşıyıcısı zanaat konusunda senden bile daha kötü durumda.NEW_LINENEW_LKitap hakkında: Bunlar tariflerimin geri kalanı. Bu kitabın taşıyıcısı ne isterse yap. Hizmetlerin için ağır bir ücret talep edeceğinden eminim çünkü sonuçta bir pisliksin.NEW_LINENEW_LHor Görmeyle,NEW_LINENEW_LOmarion",
+    ["Objectives"]="Omarion'un El Kitabı'nı Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Zanaatkar Wilhelm'e götür.",
+    ["Progress"]="Bu düşündüğüm şey mi?NEW_LINENEW_L<Wilhelm'in ağzının suyu akıyor gibi görünüyor.>",
+    ["Completion"]="Bunu yazarken gerçekten aklını kaçırmış olmalı! Omarion ve ben - ayrılmaz ikiliydik!NEW_LINENEW_LHer neyse, bu kesinlikle yeni olasılıklar açıyor, YOUR_NAME. Artık daha fazla eşya işleyebilirim - elbette küçük bir ücret ve malzeme masrafları karşılığında.",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9234"] = {
+    ["Title"]="Buzfelaketi Eldivenleri",
+    ["Description"]="Sana ve Omarion'a (huzur içinde yatsın) teşekkürler, artık Buzfelaketi eldivenleri yapabiliyorum. Tek yapman gereken malzemeleri bana getirmek ve küçük bir işçilik ücreti ödemek.",
+    ["Objectives"]="Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Zanaatkar Wilhelm 5 Donmuş Rün, 12 Torium Külçesi, 2 Arkanit Külçesi, 2 Su Özü ve 200 altın istiyor.",
+    ["Progress"]="Malzemeleri getirdin mi?",
+    ["Completion"]="İşte siparişin, YOUR_NAME. Söz verildiği gibi teslim edildi!",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9235"] = {
+    ["Title"]="Buzfelaketi Bileklikleri",
+    ["Description"]="Sana ve Omarion'a (Huzur içinde yatsın) teşekkürler, artık Buzfelaketi bileklikleri yapabiliyorum. Tek yapman gereken malzemeleri bana getirmek ve küçük bir işçilik ücreti ödemek.",
+    ["Objectives"]="Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Zanaatkar Wilhelm 4 Donmuş Rün, 12 Torium Külçesi, 2 Arkanit Külçesi, 2 Su Özü ve 200 altın istiyor.",
+    ["Progress"]="Malzemeleri getirdin mi?",
+    ["Completion"]="İşte siparişin, YOUR_NAME. Söz verildiği gibi teslim edildi!",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9236"] = {
+    ["Title"]="Buzfelaketi Göğüslüğü",
+    ["Description"]="Sana ve Omarion'a (Huzur içinde yatsın) teşekkürler, artık bir Buzfelaketi göğüslüğü yapabiliyorum. Tek yapman gereken malzemeleri bana getirmek ve küçük bir işçilik ücreti ödemek.",
+    ["Objectives"]="Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Zanaatkar Wilhelm 8 Donmuş Rün, 16 Torium Külçesi, 2 Arkanit Külçesi, 4 Su Özü ve 300 altın istiyor. Ayrıca Gümüşi Şafak ile Yüce repütasyonunda olmalısın.",
+    ["Progress"]="Malzemeleri getirdin mi?",
+    ["Completion"]="İşte siparişin, YOUR_NAME. Söz verildiği gibi teslim edildi!",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9237"] = {
+    ["Title"]="Buzul Pelerini",
+    ["Description"]="Sana ve Omarion'a, huzur içinde yatsın, teşekkürler, artık bir Buzul pelerini yapabiliyorum. Tek yapman gereken malzemeleri bana getirmek ve küçük bir işçilik ücreti ödemek.",
+    ["Objectives"]="Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Zanaatkar Wilhelm 5 Donmuş Rün, 4 Rünkumaşı Topu, 2 Su Özü, 4 Demirağı Örümcek İpeği ve 200 altın istiyor. Ayrıca Gümüşi Şafak ile Yüce repütasyonunda olmalısın.",
+    ["Progress"]="Malzemeleri getirdin mi?",
+    ["Completion"]="İşte siparişin, YOUR_NAME. Söz verildiği gibi teslim edildi!",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9238"] = {
+    ["Title"]="Buzul Bileklikleri",
+    ["Description"]="Sana ve Omarion'a, huzur içinde yatsın, teşekkürler, artık Buzul bileklikleri yapabiliyorum. Tek yapman gereken malzemeleri bana getirmek ve küçük bir işçilik ücreti ödemek.",
+    ["Objectives"]="Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Zanaatkar Wilhelm 4 Donmuş Rün, 2 Rünkumaşı Topu, 2 Su Özü, 2 Demirağı Örümcek İpeği ve 200 altın istiyor.",
+    ["Progress"]="Malzemeleri getirdin mi?",
+    ["Completion"]="İşte siparişin, YOUR_NAME. Söz verildiği gibi teslim edildi!",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9239"] = {
+    ["Title"]="Buzul Eldivenleri",
+    ["Description"]="Sana ve Omarion'a, huzur içinde yatsın, teşekkürler, artık Buzul eldivenleri yapabiliyorum. Tek yapman gereken malzemeleri bana getirmek ve küçük bir işçilik ücreti ödemek.",
+    ["Objectives"]="Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Zanaatkar Wilhelm 5 Donmuş Rün, 4 Rünkumaşı Topu, 4 Su Özü, 2 Demirağı Örümcek İpeği ve 200 altın istiyor.",
+    ["Progress"]="Malzemeleri getirdin mi?",
+    ["Completion"]="İşte siparişin, YOUR_NAME. Söz verildiği gibi teslim edildi!",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9240"] = {
+    ["Title"]="Buzul Yeleği",
+    ["Description"]="Sana ve Omarion'a, huzur içinde yatsın, teşekkürler, artık bir Buzul yeleği yapabiliyorum. Tek yapman gereken malzemeleri bana getirmek ve küçük bir işçilik ücreti ödemek.",
+    ["Objectives"]="Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Zanaatkar Wilhelm 8 Donmuş Rün, 8 Rünkumaşı Topu, 6 Su Özü, 4 Demirağı Örümcek İpeği ve 300 altın istiyor. Ayrıca Gümüşi Şafak ile Yüce repütasyonunda olmalısın.",
+    ["Progress"]="Malzemeleri getirdin mi?",
+    ["Completion"]="İşte siparişin, YOUR_NAME. Söz verildiği gibi teslim edildi!",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9241"] = {
+    ["Title"]="Kutup Bileklikleri",
+    ["Description"]="Sana ve Omarion'a (Huzur içinde yatsın) teşekkürler, artık Kutup bileklikleri yapabiliyorum. Tek yapman gereken malzemeleri bana getirmek ve küçük bir işçilik ücreti ödemek.",
+    ["Objectives"]="Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Zanaatkar Wilhelm 4 Donmuş Rün, 12 Büyülü Deri, 3 Su Özü, 3 İşlenmiş Sert Deri ve 200 altın istiyor.",
+    ["Progress"]="Malzemeleri getirdin mi?",
+    ["Completion"]="İşte siparişin, YOUR_NAME. Söz verildiği gibi teslim edildi!",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9242"] = {
+    ["Title"]="Kutup Eldivenleri",
+    ["Description"]="Sana ve Omarion'a (Huzur içinde yatsın) teşekkürler, artık Kutup eldivenleri yapabiliyorum. Tek yapman gereken malzemeleri bana getirmek ve küçük bir işçilik ücreti ödemek.",
+    ["Objectives"]="Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Zanaatkar Wilhelm 5 Donmuş Rün, 12 Büyülü Deri, 3 Su Özü, 3 İşlenmiş Sert Deri ve 200 altın istiyor.",
+    ["Progress"]="Malzemeleri getirdin mi?",
+    ["Completion"]="İşte siparişin, YOUR_NAME. Söz verildiği gibi teslim edildi!",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9243"] = {
+    ["Title"]="Kutup Cübbesi",
+    ["Description"]="Sana ve Omarion'a, huzur içinde yatsın, teşekkürler, artık bir Kutup cübbesi yapabiliyorum. Tek yapman gereken malzemeleri bana getirmek ve küçük bir işçilik ücreti ödemek.",
+    ["Objectives"]="Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Zanaatkar Wilhelm 8 Donmuş Rün, 16 Büyülü Deri, 5 Su Özü, 5 İşlenmiş Sert Deri ve 300 altın istiyor. Ayrıca Gümüşi Şafak ile Yüce repütasyonunda olmalısın.",
+    ["Progress"]="Malzemeleri getirdin mi?",
+    ["Completion"]="İşte siparişin, YOUR_NAME. Söz verildiği gibi teslim edildi!",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9244"] = {
+    ["Title"]="Buzul Pulu Bileklikleri",
+    ["Description"]="Sana ve Omarion'a, huzur içinde yatsın, teşekkürler, artık Buzul Pulu bileklikleri yapabiliyorum. Tek yapman gereken malzemeleri bana getirmek ve küçük bir işçilik ücreti ödemek.",
+    ["Objectives"]="Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Zanaatkar Wilhelm 4 Donmuş Rün, 16 Ağır Akrep Pulu, 5 Su Özü, 3 İşlenmiş Sert Deri ve 200 altın istiyor.",
+    ["Progress"]="Malzemeleri getirdin mi?",
+    ["Completion"]="İşte siparişin, YOUR_NAME. Söz verildiği gibi teslim edildi!",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9245"] = {
+    ["Title"]="Buzul Pulu Eldivenleri",
+    ["Description"]="Sana ve Omarion'a (Huzur içinde yatsın) teşekkürler, artık Buzul Pulu eldivenleri yapabiliyorum. Tek yapman gereken malzemeleri bana getirmek ve küçük bir işçilik ücreti ödemek.",
+    ["Objectives"]="Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Zanaatkar Wilhelm 5 Donmuş Rün, 16 Ağır Akrep Pulu, 5 Su Özü, 3 İşlenmiş Sert Deri ve 200 altın istiyor.",
+    ["Progress"]="Malzemeleri getirdin mi?",
+    ["Completion"]="İşte siparişin, YOUR_NAME. Söz verildiği gibi teslim edildi!",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9246"] = {
+    ["Title"]="Buzul Pulu Göğüslüğü",
+    ["Description"]="Sana ve Omarion'a (Huzur içinde yatsın) teşekkürler, artık bir Buzul Pulu göğüslüğü yapabiliyorum. Tek yapman gereken malzemeleri bana getirmek ve küçük bir işçilik ücreti ödemek.",
+    ["Objectives"]="Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Zanaatkar Wilhelm 8 Donmuş Rün, 24 Ağır Akrep Pulu, 7 Su Özü, 5 İşlenmiş Sert Deri ve 300 altın istiyor. Ayrıca Gümüşi Şafak ile Yüce repütasyonunda olmalısın.",
+    ["Progress"]="Malzemeleri getirdin mi?",
+    ["Completion"]="İşte siparişin, YOUR_NAME. Söz verildiği gibi teslim edildi!",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9247"] = {
+    ["Title"]="Muhafızın Çağrısı",
+    ["Description"]="YOUR_NAME,NEW_LINENEW_LGeçmiş zamanlarda Gümüşi Şafak'ın çıkarlarına hizmet ettin, her zaman yeteneklerinin en iyisini gösterdin. Şimdi, bir kez daha, en büyük ihtiyaç anımızda borazan çağrımızı çalıyoruz.NEW_LINENEW_LYOUR_NAME, bir kez daha bize yardım etmeye istekliysen lütfen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Parşömen Muhafızı'na rapor ver.",
+    ["Objectives"]="Parşömen Muhafızı'ndan Gelen Mektup'u Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan kendisine götür.",
+    ["Progress"]="",
+    ["Completion"]="",
+    ["minlevel"]="1",
+    ["questlevel"]="60"
+},
+
+["9248"] = {
+    ["Title"]="Mütevazı Bir Teklif",
+    ["Description"]="Ishnu-alah, YOUR_RACE. Bana Abis Konseyi Lordu'nun yok edildiğinin kanıtını göster, ben de seni Qiraji'ye karşı savaşlarında yardımcı olacak bir eşyayla ödüllendireyim.",
+    ["Objectives"]="Silithus'taki Cenarion Kalesi'nde bulunan Aurel Goldleaf 1 Abis Asası getirmeni istiyor. Ayrıca Cenarion Çemberi ile Hürmet Edilen durumunda olmalısın.",
+    ["Progress"]="Fandu-dath-belore? Oh, bağışla beni YOUR_NAME. Seni tanıyamadım. Asa sende var mı?",
+    ["Completion"]="Ande'thoras-ethil. Anadilimde 'Sıkıntıların azalsın' anlamına gelir.NEW_LINENEW_LHalkayı gururla ve sağlıkla tak, YOUR_NAME.",
+    ["minlevel"]="58",
+    ["questlevel"]="60"
+},
+
+["9250"] = {
+    ["Title"]="Atiesh Çerçevesi",
+    ["Description"]="Çerçeve oluşturulmuşken, Atiesh neredeyse tam hâle geldi. Şimdi sadece asanın başı ve tabanı eksik. Ayrıca asanın Sargeras'ın kötülüğü için bir kanal olması gibi küçük bir sorun da var.NEW_LINENEW_LKalan parçaları bulmada ve kötülüğü asadan çıkarmada sana yardımcı olabilecek birini bul.",
+    ["Objectives"]="Kalan iki parçayı kurtarmada ve onu kötülükten arındırmada sana yardımcı olacak birini bul.",
+    ["Progress"]="Onun zamanı gelmişti, fani.",
+    ["Completion"]="Başbüyücüler öldü.NEW_LINENEW_LVefatlarına yas tutma, YOUR_NAME. Tüm bu tür şeyler takdir edilmiştir. Tıpkı Muhafız'ın asasını tutmanın takdir edildiği gibi...",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9251"] = {
+    ["Title"]="Atiesh, Lekelenmiş Yüceasa",
+    ["Description"]="Neden hâlâ hayatta olduğunu sorguluyorsun. Ne de olsa elinde büyük bir kötülüğün eşyası var. Cevap net değil, YOUR_NAME. Ben sadece yapmam gerekeni yapıyorum.NEW_LINENEW_LKel'Thuzad Naxxramas'taki tahtında oturuyor, planlar yapıyor... O senin elindekini arıyor ve seninki de onun elindekini barındırıyor.NEW_LINENEW_LAsanın tabanına gelince; cüce Brann Bronzebeard Ahn'Qiraj'a girdiğinde onu elinde tutuyordu. Ahn'Qiraj'dan ayrıldı ama Atiesh'in tabanı orada kaldı.NEW_LINENEW_LParçaları kurtarmayı başarırsan, onları bana geri getir.",
+    ["Objectives"]="Tanaris'teki Zaman Mağaraları'nda bulunan Anachronos, Atiesh'in Asa Başını ve Atiesh'in Tabanını istiyor.",
+    ["Progress"]="Mevcut formunda asa, bir faninin elinde olması için fazla tehlikeli.",
+    ["Completion"]="İçinde bir varlık var... bu dünyaya ait olmayan bir varlık.",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9269"] = {
+    ["Title"]="Atiesh, Muhafızın Yüceasası",
+    ["Description"]="Bu son görev hepsinin en zoru olacak, YOUR_NAME. Hem bir Eski Tanrı hem de Lich Kralı'nın Generali ile yüzleştin ve onları yendin, ancak şimdi Sargeras'ın eliyle yüzleşmelisin.NEW_LINENEW_LAsayı Stratholme'a götür. Lordaeron'un en büyük şövalyelerinin katledildiği yer olan bir parça kutsanmış toprak parçası orada bulunmaktadır. Lekelenmiş asayı kutsal toprağa koy ve içeriden son derece güçlü bir varlığın kırılmasına hazır ol... Asayı kontrol eden iblis varlığı yen ve bana geri dön.",
+    ["Objectives"]="Tanaris'teki Zaman Mağaraları'nda bulunan Anachronos, Atiesh, Muhafızın Yüceasası'nı Stratholme'a götürmeni ve Kutsanmış Toprak üzerinde kullanmanı istiyor. Asadan çıkarılan varlığı yen ve ona geri dön.",
+    ["Progress"]="Müdahale etmemeliyim, YOUR_RACE.",
+    ["Completion"]="Bu başarının büyüklüğü küçümsenmemeli, YOUR_NAME. Çoğu kişinin imkansız olduğunu düşüneceği şeyi yaptın. Ne yazık ki kader böyleydi. Asa seçimini yaptı.",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9270"] = {
+    ["Title"]="Atiesh, Muhafızın Yüceasası",
+    ["Description"]="Bu son görev hepsinin en zoru olacak, YOUR_NAME. Hem bir Eski Tanrı hem de Lich Kralı'nın Generali ile yüzleştin ve onları yendin, ancak şimdi Sargeras'ın eliyle yüzleşmelisin.NEW_LINENEW_LAsayı Stratholme'a götür. Lordaeron'un en büyük şövalyelerinin katledildiği yer olan bir parça kutsanmış toprak parçası orada bulunmaktadır. Lekelenmiş asayı kutsal toprağa koy ve içeriden son derece güçlü bir varlığın kırılmasına hazır ol... Asayı kontrol eden iblis varlığı yen ve bana geri dön.",
+    ["Objectives"]="Tanaris'teki Zaman Mağaraları'nda bulunan Anachronos, Atiesh, Muhafızın Yüceasası'nı Stratholme'a götürmeni ve Kutsanmış Toprak üzerinde kullanmanı istiyor. Asadan çıkarılan varlığı yen ve ona geri dön.",
+    ["Progress"]="Müdahale etmemeliyim, YOUR_RACE.",
+    ["Completion"]="Bu başarının büyüklüğü küçümsenmemeli, YOUR_NAME. Çoğu kişinin imkansız olduğunu düşüneceği şeyi yaptın. Ne yazık ki kader böyleydi. Asa seçimini yaptı.",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9271"] = {
+    ["Title"]="Atiesh, Muhafızın Yüceasası",
+    ["Description"]="Bu son görev hepsinin en zoru olacak, YOUR_NAME. Hem bir Eski Tanrı hem de Lich Kralı'nın Generali ile yüzleştin ve onları yendin, ancak şimdi Sargeras'ın eliyle yüzleşmelisin.NEW_LINENEW_LAsayı Stratholme'a götür. Lordaeron'un en büyük şövalyelerinin katledildiği yer olan bir parça kutsanmış toprak parçası orada bulunmaktadır. Lekelenmiş asayı kutsal toprağa koy ve içeriden son derece güçlü bir varlığın kırılmasına hazır ol... Asayı kontrol eden iblis varlığı yen ve bana geri dön.",
+    ["Objectives"]="Tanaris'teki Zaman Mağaraları'nda bulunan Anachronos, Atiesh, Muhafızın Yüceasası'nı Stratholme'a götürmeni ve Kutsanmış Toprak üzerinde kullanmanı istiyor. Asadan çıkarılan varlığı yen ve ona geri dön.",
+    ["Progress"]="Müdahale etmemeliyim, YOUR_RACE.",
+    ["Completion"]="Bu başarının büyüklüğü küçümsenmemeli, YOUR_NAME. Çoğu kişinin imkansız olduğunu düşüneceği şeyi yaptın. Ne yazık ki kader böyleydi. Asa seçimini yaptı.",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9292"] = {
+    ["Title"]="Çatlak Nekrotik Kristal",
+    ["Description"]="Düşen iğrençliğin cesedi üzerinde, nekrotik enerjiyle yavaşça çarpan çatlak bir kristal keşfediyorsun.",
+    ["Objectives"]="Çatlak Nekrotik Kristal'i Fırtınasor kapılarının dışındaki Teğmen Orrin'e götür.",
+    ["Progress"]="İhtiyacın olan bir şey var mı?",
+    ["Completion"]="Hm, bunu işgalci iğrençliklerden birinin cesedinden mi aldın?NEW_LINENEW_LAfet tarafından çağrılan nekropol üs kampları hakkında haber aldık. Fırtınasor içinde bir tane oluşturmak istediklerinden şüpheleniyorum. Başarısız olmaları iyi olmuş.",
+    ["minlevel"]="1",
+    ["questlevel"]="60"
+},
+
+["9295"] = {
+    ["Title"]="Cepheden Mektup",
+    ["Description"]="Bu mektubu katlettiğin birçok Afet minyonundan birinin üzerinde buldun. Görünüşünden ve kokusundan, bir süredir hortlakların yanındaydı. Belki de Işık Umudu Şapeli'nden biri bunu daha ayrıntılı incelemekle ilgilenir...",
+    ["Objectives"]="Yırtık Mektup'u Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulanan Parşömen Muhafızı'na götür.",
+    ["Progress"]="",
+    ["Completion"]="",
+    ["minlevel"]="45",
+    ["questlevel"]="60"
+},
+
+["9299"] = {
+    ["Title"]="Cepheden Not",
+    ["Description"]="Bu mektubu katlettiğin birçok Afet minyonundan birinin üzerinde buldun. Görünüşünden ve kokusundan, bir süredir hortlakların yanındaydı. Belki de Işık Umudu Şapeli'nden biri bunu daha ayrıntılı incelemekle ilgilenir...",
+    ["Objectives"]="Eprimiş Not'u Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Parşömen Muhafızı'na götür.",
+    ["Progress"]="Evet? Elindeki nedir?",
+    ["Completion"]="",
+    ["minlevel"]="45",
+    ["questlevel"]="60"
+},
+
+["9300"] = {
+    ["Title"]="Cepheden Sayfa",
+    ["Description"]="Bu mektubu katlettiğin birçok Afet minyonundan birinin üzerinde buldun. Görünüşünden ve kokusundan, bir süredir hortlakların yanındaydı. Belki de Işık Umudu Şapeli'nden biri bunu daha ayrıntılı incelemekle ilgilenir...",
+    ["Objectives"]="Paçavralı Sayfa'yı Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Parşömen Muhafızı'na götür.",
+    ["Progress"]="",
+    ["Completion"]="",
+    ["minlevel"]="45",
+    ["questlevel"]="60"
+},
+
+["9301"] = {
+    ["Title"]="Cepheden Zarf",
+    ["Description"]="Bu mektubu katlettiğin birçok Afet minyonundan birinin üzerinde buldun. Görünüşünden ve kokusundan, bir süredir hortlakların yanındaydı. Belki de Işık Umudu Şapeli'nden biri bunu daha ayrıntılı incelemekle ilgilenir...",
+    ["Objectives"]="Kan Lekeli Zarf'ı Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Parşömen Muhafızı'na götür.",
+    ["Progress"]="Evet? Elindeki nedir?",
+    ["Completion"]="",
+    ["minlevel"]="45",
+    ["questlevel"]="60"
+},
+
+["9302"] = {
+    ["Title"]="Cepheden Resmi Yazı",
+    ["Description"]="Bu mektubu katlettiğin birçok Afet minyonundan birinin üzerinde buldun. Görünüşünden ve kokusundan, bir süredir hortlakların yanındaydı. Belki de Işık Umudu Şapeli'nden biri bunu daha ayrıntılı incelemekle ilgilenir...",
+    ["Objectives"]="Buruşuk Resmi Yazı'yı Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Parşömen Muhafızı'na götür.",
+    ["Progress"]="",
+    ["Completion"]="",
+    ["minlevel"]="45",
+    ["questlevel"]="60"
+},
+
+["9304"] = {
+    ["Title"]="Cepheden Belge",
+    ["Description"]="Bu mektubu katlettiğin birçok Afet minyonundan birinin üzerinde buldun. Görünüşünden ve kokusundan, bir süredir hortlakların yanındaydı. Belki de Işık Umudu Şapeli'nden biri bunu daha ayrıntılı incelemekle ilgilenir...",
+    ["Objectives"]="Lekeli Belge'yi Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Parşömen Muhafızı'na götür.",
+    ["Progress"]="Evet? Elindeki nedir?",
+    ["Completion"]="",
+    ["minlevel"]="45",
+    ["questlevel"]="60"
+},
+
+["9310"] = {
+    ["Title"]="Zayıf Nekrotik Kristal",
+    ["Description"]="Düşen h hortlağın cesedi üzerinde, zayıfça nekrotik enerji yayan bir kristal buluyorsun.",
+    ["Objectives"]="Zayıf Nekrotik Kristal'i Altşehir avlusundaki Teğmen Rukag'a getir.",
+    ["Progress"]="",
+    ["Completion"]="",
+    ["minlevel"]="1",
+    ["questlevel"]="60"
+},
+
+["9317"] = {
+    ["Title"]="Kutsanmış Bileme Taşları",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Bana Afet işgalcilerinden sekiz nekrotik rün getirirsen, sana kutsanmış bir bileme taşı verebilirim. Lich Kralı'nın minyonlarına karşı savaşında çok yardımı olacaktır.",
+    ["Completion"]="Teşekkür ederim, YOUR_NAME. İşte kutsanmış bileme taşların. Onları tedbirli kullan.",
+    ["minlevel"]="50",
+    ["questlevel"]="60"
+},
+
+["9319"] = {
+    ["Title"]="Karanlık Yerlerde Bir Işık",
+    ["Description"]="Bu bayramı kutlayan tek kişiler bizler değiliz, YOUR_NAME. Tüm yaratıklara, tüm kültürlere alev dokunur. En karanlık yerlerde bile ateşler yakılıyor.NEW_LINENEW_LEğer onları kendin görmek istiyorsan derinliklere seyahat et. Stratholme, Scholomance, Dire Maul ogreleri arasındaki ve Kara Kaya Tepesi salonlarının içindeki şenlik ateşlerini ara; dönüşünü bekleyeceğim.",
+    ["Objectives"]="Kara Kaya Tepesi, Dire Maul, Scholomance ve Stratholme içinde bulunan şenlik ateşlerini bul ve dokun, ardından Şenlik Alevi Muhafızı'na dön.",
+    ["Progress"]="",
+    ["Completion"]="Özün bulduğun alevlerin enerjisiyle şarkı söylüyor, YOUR_NAME. Karşılaştığın ateş güçlü ve doğru bilgiyle gücü kullanılabilir...NEW_LINENEW_LAh! İşte buradayız. Nereye basarsan bas bu ışık yolunu aydınlatsın.",
+    ["minlevel"]="50",
+    ["questlevel"]="60"
+},
+
+["9320"] = {
+    ["Title"]="Büyük Mana İksiri",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Diğer erzaklarımıza ek olarak, yararlı bulabileceğin bir miktar büyük mana iksirimiz de var. On beş nekrotik rün karşılığında sana bir tane vereceğim.",
+    ["Completion"]="İşte buyur, YOUR_NAME. Dışarıda dikkatli ol. Sayımız savaş meydanında zayiat vermeyi göze alacak kadar çok değil.",
+    ["minlevel"]="50",
+    ["questlevel"]="60"
+},
+
+["9324"] = {
+    ["Title"]="Orgrimmar'ın Alevini Çalmak",
+    ["Description"]="Orgrimmar'ın kalbinden çalınan bu alev içini sıcaklıkla dolduruyor. Bu ham güç sana yabancı ama İlim Ustası daha fazlasını bilebilir...",
+    ["Objectives"]="Orgrimmar'ın Alevi'ni Şenlik İlim Ustası'na geri götür.",
+    ["Progress"]="Neredeyse parıldıyorsun, YOUR_RACE. Elindeki nedir?",
+    ["Completion"]="Bu da ne? Yanılmıyorsam, bu alev Orgrimmar'ın kalbinden alınmış! Orkların ve trollerin sert kalpleri onun kavurucu sıcaklığında yansıyor. Koleksiyonumuza ne harika bir katkı--kutsal alevi almak için düşmanın inine sızacak kadar ne kadar da cesursun!",
+    ["minlevel"]="50",
+    ["questlevel"]="60"
+},
+
+["9325"] = {
+    ["Title"]="Thunder Bluff'ın Alevini Çalmak",
+    ["Description"]="Thunder Bluff şamanından çalınan bu alev içini sıcaklıkla dolduruyor. Bu ham güç sana yabancı ama İlim Ustası daha fazlasını bilebilir...",
+    ["Objectives"]="Thunder Bluff'ın Alevi'ni Şenlik İlim Ustası'na geri götür.",
+    ["Progress"]="Neredeyse parıldıyorsun, YOUR_RACE. Elindeki nedir?",
+    ["Completion"]="Tahminimde yanılmıyorsam, bu ateş Thunder Bluff kayalıklarından alınmış! Ruhların gücüyle nasıl da şarkı söylüyor! Gerçekten iyi bir hırsızsın, YOUR_NAME. Becerin için bunu adil bir ödeme olarak al. Şimdi, keşke üç şehrin de alevlerine sahip olsaydık...",
+    ["minlevel"]="50",
+    ["questlevel"]="60"
+},
+
+["9326"] = {
+    ["Title"]="Altşehir'in Alevini Çalmak",
+    ["Description"]="Altşehir üzerindeki harabelerden çalınan bu alev içini sıcaklıkla dolduruyor. Bu ham güç sana yabancı ama İlim Ustası daha fazlasını bilebilir...",
+    ["Objectives"]="Altşehir'in Alevi'ni Şenlik İlim Ustası'na geri götür.",
+    ["Progress"]="Neredeyse parıldıyorsun, YOUR_RACE. Elindeki nedir?",
+    ["Completion"]="Hm... ne garip bir ateş! Bastırılmış, neredeyse tüten ama sıcaklık yoğun. Ve bunu Altşehir'den aldığını mı söylüyorsun? Büyüleyici. Üç şehrin de alevleriyle neler başarabileceğimiz kim bilir?",
+    ["minlevel"]="50",
+    ["questlevel"]="60"
+},
+
+["9330"] = {
+    ["Title"]="Fırtınasor'un Alevini Çalmak",
+    ["Description"]="Fırtınasor'un kalbinden çalınan bu alev içini sıcaklıkla dolduruyor. Bu ham güç sana yabancı ama Masal Anlatıcısı daha fazlasını bilebilir...",
+    ["Objectives"]="Fırtınasor'un Alevi'ni Şenlik Masal Anlatıcısı'na geri götür.",
+    ["Progress"]="Neredeyse parıldıyorsun, YOUR_RACE. Elindeki nedir?",
+    ["Completion"]="Ve bu parlak yanan ateş... Fırtınasor'dan geldiğini mi söylüyorsun? Olağanüstü! Muazzam bir macera olmalı! Bunun için sana ödeme yapacağım tabii ki. Buna benzer başka bir şey bulursan benimle tekrar konuştuğundan emin ol.",
+    ["minlevel"]="50",
+    ["questlevel"]="60"
+},
+
+["9331"] = {
+    ["Title"]="Demirörs'ün Alevini Çalmak",
+    ["Description"]="Demirörs'ün kalbinden çalınan bu alev içini sıcaklıkla dolduruyor. Bu ham güç sana yabancı ama Masal Anlatıcısı daha fazlasını bilebilir...",
+    ["Objectives"]="Demirörs'ün Alevi'ni Şenlik Masal Anlatıcısı'na geri götür.",
+    ["Progress"]="Neredeyse parıldıyorsun, YOUR_RACE. Elindeki nedir?",
+    ["Completion"]="Bu samimi alev Demirörs salonlarından olmalı; cücelerin kendileri kadar sadık. Harika bir av, YOUR_NAME. Diğer şehirlerin ateşleri de bende olsaydı... ah, neyse boşver. İşte ödemen.",
+    ["minlevel"]="50",
+    ["questlevel"]="60"
+},
+
+["9332"] = {
+    ["Title"]="Darnassus'un Alevini Çalmak",
+    ["Description"]="Teldrassil kıyılarından çalınan bu alev içini sıcaklıkla dolduruyor. Bu ham güç sana yabancı ama Masal Anlatıcısı daha fazlasını bilebilir...",
+    ["Objectives"]="Darnassus'un Alevi'ni Şenlik Masal Anlatıcısı'na geri götür.",
+    ["Progress"]="Neredeyse parıldıyorsun, YOUR_RACE. Elindeki nedir?",
+    ["Completion"]="Bu ateş kadim bir kederle sızlıyor, YOUR_NAME. Bunu Teldrassil'in köklerinden çektiğini mi söylüyorsun? Büyüleyici! Becerin için işte bir ödül. Buna benzer başka bir şey bulursan bana geri dön; onun için bir kullanım alanım olabilir.",
+    ["minlevel"]="50",
+    ["questlevel"]="60"
+},
+
+["9339"] = {
+    ["Title"]="Bir Hırsızın Ödülü",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="",
+    ["Completion"]="Bugün kendini kanıtladın, YOUR_NAME.",
+    ["minlevel"]="50",
+    ["questlevel"]="60"
+},
+
+["9364"] = {
+    ["Title"]="Parçalanmış Büyü",
+    ["Description"]="Araştırmam prizmatik kabuk için benzersiz bir amaç ortaya çıkardı.NEW_LINENEW_LKabuğu taşı ve Azshara'daki Spitelash üzerinde koyun büyünü yap. Birkaç an beklersen, kabuğun kaotik aurası onların birkaç saniyeliğine birkaç küçük klona bölünmesine neden olacaktır. Bu klonları olabildiğince hızlı katlet, kabuk da onların özünü toplayacaktır.NEW_LINENEW_LKabuk dolduğunda onu bana geri getir.",
+    ["Objectives"]="Azshara'nın Spitelash'ını koyuna dönüştür ve birkaç saniye sonra beliren klonları katlet. 50 Koyun Klonu katlettiğinde Azshara'daki Başbüyücü Xylem'e dön.",
+    ["Progress"]="Büyüyü topladın mı?",
+    ["Completion"]="Mükemmel! Mükemmel!NEW_LINENEW_LŞimdi bu büyüyü yeni bir büyüye dönüştürebiliriz. Bak!",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["9365"] = {
+    ["Title"]="Bir Hırsızın Ödülü",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="",
+    ["Completion"]="Bugün kendini kanıtladın, YOUR_NAME.",
+    ["minlevel"]="50",
+    ["questlevel"]="60"
+},
+
+["9368"] = {
+    ["Title"]="Ateş Festivali",
+    ["Description"]="Yaz Ortası bir kez daha üzerimizde!NEW_LINENEW_LHer yıl, geleneklerin emrettiği gibi, başkentlerimizdeki şenlik ateşleriyle ilgilenmek üzere Alev Muhafızları seçilir. Tüm Azeroth boyunca ateşler yanarken, sezona düzgünce hürmet etmek için bizimkilerin en sıcak ve en parlak olması zorunludur.NEW_LINENEW_LHatta sakıncası yoksa sana bir görevim var. Tüm başkentlerdeki ateşlerin düzgün yanıp yanmadığını henüz duymadım. Kendin oraya seyahat et ve ateşlerin yanında ısın--sıcak olduklarından emin ol!",
+    ["Objectives"]="Orgrimmar, Thunder Bluff ve Altşehir içindeki şenlik ateşlerine dokun, ardından başkentlerdeki bir Şenlik Masal Anlatıcısı ile konuş.",
+    ["Progress"]="Şansın yaver gitti mi, YOUR_NAME?",
+    ["Completion"]="Mükemmel! Şenlik ateşleri iddia ettiğin kadar bakımlıysa bu yıl vazifeli Alev Muhafızları atamışız gibi görünüyor. Onları benim için denetlediğin için teşekkür ederim; al, saygımın küçük bir nişanesi olarak bunu kabul et.",
+    ["minlevel"]="1",
+    ["questlevel"]="60"
+},
+
+["9386"] = {
+    ["Title"]="Karanlık Yerlerde Bir Işık",
+    ["Description"]="İstekli birisin, değil mi? Derinliklere bir kez daha girmeye istekliysen seni memnuniyetle ödüllendiririm.NEW_LINENEW_LStratholme, Scholomance, Dire Maul ve Kara Kaya Tepesi salonlarının içindeki şenlik ateşlerini ara; dönüşünü sabırsızlıkla bekliyorum, YOUR_NAME.",
+    ["Objectives"]="Kara Kaya Tepesi, Dire Maul, Scholomance ve Stratholme içinde bulunan şenlik ateşlerini bul ve dokun, ardından Şenlik Alevi Muhafızı ile konuş.",
+    ["Progress"]="",
+    ["Completion"]="",
+    ["minlevel"]="50",
+    ["questlevel"]="60"
+},
+
+["9415"] = {
+    ["Title"]="Mareşal Maviçeper'e Rapor Ver",
+    ["Description"]="Mareşal Maviçeper'in yeni acemileri misiniz? Elbette öylesiniz.NEW_LINENEW_LNe bekliyorsunuz? İyi askerler çölde ölüyor. Onlara katılmak için heyecanlı değil misiniz?NEW_LINENEW_LŞimdi gidin ve yolda kurumayın.",
+    ["Objectives"]="Hive'Zora yakınındaki İttifak ordugahında bulunan Mareşal Maviçeper ile konuş.",
+    ["Progress"]="",
+    ["Completion"]="İttifak alabileceği her sağlam bedene ihtiyaç duyuyor. Güruh kıtanın kuzey kısmından düzenli bir takviye erzak akışı alıyor ve buna ayak uydurmak bir mücadele oldu.NEW_LINENEW_LSana durumu açıklayayım.",
+    ["minlevel"]="1",
+    ["questlevel"]="60"
+},
+
+["9416"] = {
+    ["Title"]="General Kirika'ya Rapor Ver",
+    ["Description"]="General Kirika'nın yeni acemilerinden biri olmalısın. Ortaya çıkma vaktin gelmişti. Çölde bedenler çabuk yıpranır.NEW_LINENEW_LCüceler her gün takviye alıyor ve Silithus'taki kaynak mücadelemizde mevzi kaybetmeyi göze alamayız.NEW_LINENEW_LTalimatlarını General'den al. Seni eğitmek benim işim değil, sadece seni bulmak.",
+    ["Objectives"]="Hive'Regal yakınındaki Güruh ordugahında bulunan General Kirika ile konuş.",
+    ["Progress"]="",
+    ["Completion"]="Burada olman güzel ama boş konuşarak vakit kaybedecek zaman yok. Talimatlara ihtiyacın var ve ardından dışarı çıkman gerekiyor.NEW_LINENEW_LDinle.",
+    ["minlevel"]="1",
+    ["questlevel"]="60"
+},
+
+["9419"] = {
+    ["Title"]="Çölü Taramak",
+    ["Description"]="Geçenlerde Güruh'un Silithus çölünü kaynaklar için taradığını öğrendik ama pek aldırış etmedik. Bu kavurucu çölde büyük sayılarda konuşlanmaya değmeyeceğini düşündük.NEW_LINENEW_LAncak kaynakların önemi keşfedildi ve şimdi yetişmek için çabalıyoruz.NEW_LINENEW_LYardımın varsa, çöle gitmeli ve silithysti kurtarıp buraya geri getirmelisin.",
+    ["Objectives"]="Silithyst'i bulup Silithyst Sökücüsü'ne teslim et, ardından Hive'Zora yakınındaki İttifak ordugahında buluna Mareşal Maviçeper ile konuş.",
+    ["Progress"]="Dışarıda dikkatli ol ama aynı zamanda hızlı ol. Kaybedecek vaktimiz yok.",
+    ["Completion"]="Işığa şükürler olsun ki başarılı oldun.NEW_LINENEW_LŞimdi buna daha önce başlayabilseydik, ihtiyacımız bu kadar umutsuz olmazdı. Çölün bereketinin Güruh'un eline geçmesini engellemeliyiz.",
+    ["minlevel"]="1",
+    ["questlevel"]="60"
+},
+
+["9422"] = {
+    ["Title"]="Çölü Taramak",
+    ["Description"]="Bir süredir Silithus çölünün kristal kaynaklarını kullanıyoruz. Karşılaştığımız tek tehlikeler burayı evleri yapan yaratıklardan ve ezici kum, toz ve sıcaklıktandı.NEW_LINENEW_LAcak şimdi İttifak burada bulduğumuz şeyi anlamış gibi görünüyor. Doğal kaynakları ele geçirmek ve birbirimizden uzak tutmak artık aramızda bir yarış.NEW_LINENEW_LMevcut olan her el çiftine ihtiyacım var. Seninkilere de sahip olmayı umuyorum.",
+    ["Objectives"]="Silithyst'i bulup Silithyst Sökücüsü'ne teslim et, ardından Hive'Regal yakınındaki Güruh ordugahında bulunan General Kirika ile konuş.",
+    ["Progress"]="Çölün tehlikelerine karşı tetikte ol, YOUR_NAME. Kum tepelerinde pusuda bekleyen İttifak varken, her adımın son adımın olabilir.",
+    ["Completion"]="İyi iş çıkardın, YOUR_NAME. Bu kaynaklar stoklarımıza eklenecek ve her bir kırıntısı bizim kazancımız ve düşmanımızın kaybıdır.",
+    ["minlevel"]="1",
+    ["questlevel"]="60"
+},
+
+["9664"] = {
+    ["Title"]="Yeni Karakollar Kurmak",
+    ["Description"]="Veba Toprakları'na hoş geldin, YOUR_NAME. Bildiğin gibi Terkedilmişler ve müttefikleri buranın batısındaki toprakları tüm çabalarımıza rağmen elinde tutuyor. İttifak komutanları, burada doğuda düşmanlarımızın etrafındaki ilmiği sıkılaştırmak için yeni tahkimatlar kurmamıza karar verdi.NEW_LINENEW_LLordaeron günlerinden beri terk edilmiş kuleler bu amaçla ele geçirilmeli ve yeniden inşa edilmelidir. Bu topraklar tehlikeli ve yardımını kullanabiliriz.",
+    ["Objectives"]="Doğu Veba Toprakları'ndaki Taç Muhafızı Kulesi, Doğu Duvarı Kulesi, Kuzey Geçidi Kulesi ve Vebakorusu Kulesi'ni ele geçir, ardından Işık Umudu Şapeli'ndeki Elçi Aksoylu'ya dön.",
+    ["Progress"]="Kuleler kontrolümüz altına girdiğinde, yakında Terkedilmişler'i kuşatabileceğiz. Ondan sonra onları ezmemiz an meselesi.",
+    ["Completion"]="Çok iyi, YOUR_NAME. Gelecekteki saldırılara karşı bu kuleleri elde tutmamız önemli olacak ve bunun için bölgeyi emniyete almak üzere takviye kuvvetler getirilene kadar yardımına ihtiyacımız olabilir.",
+    ["minlevel"]="55",
+    ["questlevel"]="60"
+},
+
+["9665"] = {
+    ["Title"]="Savunmalarımızı Güçlendirmek",
+    ["Description"]="Terkedilmişler ajanları, İttifak'ın Doğu Veba Toprakları'nda, bölgedeki terk edilmiş kulelerde yeni üsler kurma planını ortaya çıkardı.NEW_LINENEW_LDoğu sınırlarımızda önemli bir varlık göstermelerine izin vermememiz zorunludur ve bu nedenle bu İttifak sızmasını savuşturmalıyız. Mevcut planlarımız onları zaten ele geçirmiş olabilecekleri tüm kulelerden sürmek ve kontrolümüz altında olanları daha fazla saldırıya karşı işgal etmektir.",
+    ["Objectives"]="Doğu Veba Toprakları'ndaki Taç Muhafızı Kulesi, Doğu Duvarı Kulesi, Kuzey Geçidi Kulesi ve Vebakorusu Kulesi'ni ele geçir, ardından Işık Umudu Şapeli'ndeki Elçi Gormok'a dön.",
+    ["Progress"]="Başkentlerimizden birine bu kadar yakın üsler kurmamıza izin vereceğimizi düşünecek kadar aptal olmalılar.NEW_LINENEW_LGeri çekilip güneye kaçana kadar sayılarını eksilteceğiz.",
+    ["Completion"]="Bu iyi bir haber, YOUR_NAME. İttifak kuvvetlerini tamamen püskürtene kadar Veba Toprakları'nda sürekli bir mücadele olacak.NEW_LINENEW_LO güne kadar devam eden yardımını alacağımızı umuyorum.",
+    ["minlevel"]="55",
+    ["questlevel"]="60"
+},
+
+["1289"] = {
+    ["Title"]="Vimes'ın Raporu",
+    ["Description"]="Pekala. Yüzbaşı Vimes'ın raporuna bakılırsa, soruşturmasına büyük yardımın dokunmuş ve bunun için sana teşekkür ederim.NEW_LINENEW_LMesele nin bu kadar yetenekli ellerde olduğunu bilerek içimi daha rahat tutabilirim. İstersen, Yüzbaşı Vimes'a dönmeni ve bu gizemin özüne inmesinde ona yardım etmeni rica edeceğim.",
+    ["Objectives"]="Theramore'daki Yüzbaşı Garran Vimes'a dön.",
+    ["Progress"]="",
+    ["Completion"]="",
+    ["minlevel"]="30",
+    ["questlevel"]="38"
+},
+
+["1390"] = {
+    ["Title"]="Hay aksi, Onları Yine Öldürdük.",
+    ["Description"]="Eksik metin",
+    ["Objectives"]="Eksik metin",
+    ["Progress"]="BOŞ",
+    ["Completion"]="Yapılan iş için teşekkürler!",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["3482"] = {
+    ["Title"]="<NYI> <TXT> Çopur Siyah Kutucuk",
+    ["Description"]="Bu, siyah kutu görevinin Güruh versiyonudur.",
+    ["Objectives"]="Bu kutuyu Kravel'a götür.",
+    ["Progress"]="",
+    ["Completion"]="",
+    ["minlevel"]="30",
+    ["questlevel"]="35"
+},
+
+["5659"] = {
+    ["Title"]="Zayıflık Dokunuşu",
+    ["Description"]="Burası senin için bir yer değil, YOUR_NAME. Bir an önce Altşehir'deki Savaş Bölgesi'ne gitmelisin. Aelthalyste hazır olur olmaz tüm rahip ve rahibelerini oraya çağırdı. Güçleri ve onu nasıl kullanacakları hakkında daha fazla şey öğrenmelerinin vakti geldi.NEW_LINENEW_LGecikmelere veya mazeretlere müsamaha göstermeyecektir, bu yüzden yola koyulsan iyi olur.",
+    ["Objectives"]="Altşehir'deki Aelthalyste ile konuş.",
+    ["Progress"]="",
+    ["Completion"]="Ah, güzel, bir başkası daha geldi. Zaman benim için önemli olmayabilir ama senin için esastır. Öğrenmen gereken çok şey var ve sana öğretmek istediğim çok şey var. Sadece değerini kanıtlamalısın. Bunu yap ve fazlasıyla ödüllendirileceksin.",
+    ["minlevel"]="10",
+    ["questlevel"]="10"
+},
+
+["8792"] = {
+    ["Title"]="Güruh'un Yardımına İhtiyacı Var!",
+    ["Description"]="Merhaba, beni dinlemeye karar verdiğin için sevindim. Güruh'un Ahn'Qiraj Savaşı'na hazırlanmak için alabileceği tüm yardıma ihtiyacı var ve bu da sana ihtiyacımız olduğu anlamına geliyor! Şu an biz konuşurken bile resmi toplayıcılar yaklaşan savaş için gerekli malzemeleri topluyorlar ama senin yardımın olmadan hedeflerimize ulaşamayacağız, YOUR_NAME!NEW_LINENEW_LGidip yetkili kişiyle, Savaşlordu Gorchuk ile konuşmalısın. Ne diyorsun $c? Hayati hazırlıklara yardım edecek misin?",
+    ["Objectives"]="Orgrimmar'ın Ruhlar Vadisi'ndeki Savaşlordu Gorchuk ile konuş.",
+    ["Progress"]="",
+    ["Completion"]="Throm'ka, $C! Yaklaşan Ahn'Qiraj Savaşı'nın altyapısını hazırlamada destek olmak için senin gibi Güruh üyelerinin öne çıktığını görmek güzel, YOUR_NAME. Buradaki çaba, Silithid'lere ve Ahn'Qiraj'ın içinde saklanan kötü efendilerine karşı muzaffer olmamızı sağlayacaktır.NEW_LINENEW_LMadem buradasın, çeşitli toplayıcılarla konuştuğundan ve uygun olduğun malzemeleri toplamada yardım teklif ettiğinden emin ol.",
+    ["minlevel"]="1",
+    ["questlevel"]="60"
+},
+
+["8793"] = {
+    ["Title"]="Güruh'un Yardımına İhtiyacı Var!",
+    ["Description"]="Merhaba, beni dinlemeye karar verdiğin için sevindim. Güruh'un Ahn'Qiraj Savaşı'na hazırlanmak için alabileceği tüm yardıma ihtiyacı var ve bu da sana ihtiyacımız olduğu anlamına geliyor! Şu an biz konuşurken bile resmi toplayıcılar yaklaşan savaş için gerekli malzemeleri topluyorlar ama senin yardımın olmadan hedeflerimize ulaşamayacağız, YOUR_NAME!NEW_LINENEW_LGidip yetkili kişiyle, Savaşlordu Gorchuk ile konuşmalısın. Ne diyorsun $c? Hayati hazırlıklara yardım edecek misin?",
+    ["Objectives"]="Orgrimmar'ın Ruhlar Vadisi'ndeki Savaşlordu Gorchuk ile konuş.",
+    ["Progress"]="",
+    ["Completion"]="Throm'ka, $C! Yaklaşan Ahn'Qiraj Savaşı'nın altyapısını hazırlamada destek olmak için senin gibi Güruh üyelerinin öne çıktığını görmek güzel, YOUR_NAME. Buradaki çaba, Silithid'lere ve Ahn'Qiraj'ın içinde saklanan kötü efendilerine karşı muzaffer olmamızı sağlayacaktır.NEW_LINENEW_LMadem buradasın, çeşitli toplayıcılarla konuştuğundan ve uygun olduğun malzemeleri toplamada yardım teklif ettiğinden emin ol.",
+    ["minlevel"]="1",
+    ["questlevel"]="60"
+},
+
+["8794"] = {
+    ["Title"]="Güruh'un Yardımına İhtiyacı Var!",
+    ["Description"]="Merhaba, beni dinlemeye karar verdiğin için sevindim. Güruh'un Ahn'Qiraj Savaşı'na hazırlanmak için alabileceği tüm yardıma ihtiyacı var ve bu da sana ihtiyacımız olduğu anlamına geliyor! Şu an biz konuşurken bile resmi toplayıcılar yaklaşan savaş için gerekli malzemeleri topluyorlar ama senin yardımın olmadan hedeflerimize ulaşamayacağız, YOUR_NAME!NEW_LINENEW_LGidip yetkili kişiyle, Savaşlordu Gorchuk ile konuşmalısın. Ne diyorsun $c? Hayati hazırlıklara yardım edecek misin?",
+    ["Objectives"]="Orgrimmar'ın Ruhlar Vadisi'ndeki Savaşlordu Gorchuk ile konuş.",
+    ["Progress"]="",
+    ["Completion"]="Throm'ka, $C! Yaklaşan Ahn'Qiraj Savaşı'nın altyapısını hazırlamada destek olmak için senin gibi Güruh üyelerinin öne çıktığını görmek güzel, YOUR_NAME. Buradaki çaba, Silithid'lere ve Ahn'Qiraj'ın içinde saklanan kötü efendilerine karşı muzaffer olmamızı sağlayacaktır.NEW_LINENEW_LMadem buradasın, çeşitli toplayıcılarla konuştuğundan ve uygun olduğun malzemeleri toplamada yardım teklif ettiğinden emin ol.",
+    ["minlevel"]="1",
+    ["questlevel"]="60"
+},
+
+["8846"] = {
+    ["Title"]="Savaş Malzemeleri İçin Beş Mühür",
+    ["Description"]="",
+    ["Objectives"]="Öyleyse anlaştık; işte erzakların $c. Ek bir takas yapmak istersen, bunu yetkilendirmeye hazırım. Sadece kelimeyi söyle, gerçekleşmesini sağlayayım.NEW_LINENEW_Lİyi iş çıkarmaya devam et, YOUR_NAME. Bu işi kazanacaksak toplayabileceğimiz tüm mühimmatlara ihtiyacımız var. Hepimiz üzerimize düşeni yaparsak, zafer bizim olacaktır!",
+    ["Progress"]="Ah, kendin için ek erzak almaya geldin, değil mi? Pekala, ek mühimmat ihtiyacını kesinlikle anlayabiliyorum... Herhangi bir kanıt gerekiyorsa etrafına bir bakman yeterli.NEW_LINENEW_LSana bazı ek erzaklar vereceğim ama karşılığında bana uygun sayıda takdir mührü vermen gerekecek. Mühürleri bu şekilde teslim ettiğin için hiçbir resmi takdir almayacaksın ama savaş nihayet üzerimize çöktüğünde seni hayatta tutmaya yardımcı olacak yararlı bir şey bulabilirsin.",
+    ["Completion"]="Öyleyse anlaştık; işte erzakların $C. Ek bir takas yapmak istersen, bunu yetkilendirmeye hazırım. Sadece kelimeyi söyle, gerçekleşmesini sağlayayım.NEW_LINENEW_Lİyi iş çıkarmaya devam et, YOUR_NAME. Bu işi kazanacaksak toplayabileceğimiz tüm mühimmatlara ihtiyacımız var. Hepimiz üzerimize düşeni yaparsak, zafer bizim olacaktır!",
+    ["minlevel"]="10",
+    ["questlevel"]="19"
+},
+
+["9165"] = {
+    ["Title"]="Güvenli Geçiş İzin Belgesi",
+    ["Description"]="Maceracıların yardımı olmasaydı kervanım asla başaramazdı! Buraya ulaşmamızı engellemek için Afet her yerden çıkıyordu.NEW_LINENEW_L<Muhafız Didier alnını siler.>NEW_LINENEW_LŞimdi burada Saha Mareşali Chambers'ın gelmesini beklememiz gerekiyor. Işık Umudu Şapeli'ndeki Sevk Komutanı Metz'e geri götürmen için güvenli geçiş izin belgeni imzalayacak.NEW_LINENEW_LVe YOUR_NAME, Chambers'ın yanında ne söylediğine dikkat et. Kendisi 'kafanı koparıp nefes borundan aşağı tüküren' türden bir adamdır - ama bunu gerçekten yapacaktır...",
+    ["Objectives"]="İmzalanmış Güvenli Geçiş İzin Belgesi'ni Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Sevk Komutanı Metz'e teslim et.",
+    ["Progress"]="İsim, rütbe ve seri numarası!",
+    ["Completion"]="<Sevk Komutanı Metz izin belgesini alır ve imzalar.>NEW_LINENEW_LHarika iş, YOUR_NAME. Mükemmel bile denebilir! Takdirimizin bir nişanesi olarak bunu al. Çömez, amaçlanan bir espri değildi.",
+    ["minlevel"]="55",
+    ["questlevel"]="60"
+},
+
+["9026"] = {
+    ["Title"]="Kaynağın İzini Sürmek",
+    ["Description"]="Kaynağı bulmalıyız. Yaldızlı Gül'e giren ve çıkan - muhafızlar da dahil - normalden çok daha fazla insan gördüm. Allison ile konuş. Onları satıyorsa nereden geldiklerini söyleyebilir.",
+    ["Objectives"]="Stormwind'in Ticaret Bölgesi'ndeki Yaldızlı Gül'de bulunan Hancı Allison ile konuş.",
+    ["Progress"]="",
+    ["Completion"]="Ah evet, parfüm ve kolonyayı stoklarıma yeni aldım. O kadar iyi satıyor ki raflarda ne kadar tutabilirim bilmiyorum.NEW_LINENEW_LBana sorarsan biraz sıkıcı. Herkesin aynı kokması mı? Harika kokuyor ama yine de.",
+    ["minlevel"]="1",
+    ["questlevel"]="60"
+},
+
+["1657"] = {
+    ["Title"]="Southshore'u Kaskatı Kokutmak",
+    ["Description"]="Cadılar Bayramı'nı tarzınla kutla... Southshore'daki düşmanlarımıza keder getirerek!NEW_LINENEW_LÖzel olarak işlenmiş bu koku bombalarından birini al. Hiçbir insanın - ya da o konuda zayıf iradeli herhangi bir canavarın - dayanamayacağı kokuşmuş bir kokuyla doludur. İşini yapması için onu doğrudan Southshore'un kalbine fırlatman gerekecek, bu yüzden İttifak'a karşı bir dövüşe hazır ol!NEW_LINENEW_LBu görevi... özgürleşmemize yapılan bu hürmeti tamamladığında bana geri dön!",
+    ["Objectives"]="Tirisfal Korusundaki Hasat Festivali'nde bulunan Koyuçağırıcı Yanka'ya dönmeden önce Tepelik Araziler'deki Southshore'un kalbine üç Terkedilmiş Koku Bombası fırlat.",
+    ["Progress"]="Hediyemizi Southshore halkına teslim ettin mi?NEW_LINENEW_LINE<Koyuçağırıcı Yanka haince güler.>",
+    ["Completion"]="Ah, aferin! Umarım İttifak, tıpkı bizim Afet'e kölelik boyunduruğunda boğulmaya zorlandığımız gibi, verdiğimiz bu kokuşmuş hediyeyle boğulur!NEW_LINENEW_LCadılar Bayramı düşüncelerini sadık tuttun, YOUR_NAME ve bunun için seni selamlıyorum. Ek bir bonus olarak, elimdeki bu Cadılar Bayramı ikramlarından bazılarını seninle paylaşmama izin ver. Sanırım onları oldukça keyifli bir eğlence olarak bulabilirsin!",
+    ["minlevel"]="25",
+    ["questlevel"]="60"
+},
+
+["7946"] = {
+    ["Title"]="Jubjub'un Yavrusu",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Jubjub'un artık kayıp olmamasına çok sevindim. Koyu Demir birasını o kadar çok seviyor ki biram bittiğinde... daha fazlasını bulmak için kaçtı!NEW_LINENEW_LŞimdi Jubjub geri döndü, alabildiğim kadar çok bira istiyorum! Tekrar kaçmasını istemiyorum!NEW_LINENEW_LHiç Koyu Demir Birası var mı? Varsa, bir maşrapa için Jubjub'un kurbağa yumurtalarından birini seninle takas edeceğim...",
+    ["Completion"]="Teşekkür ederim, YOUR_NAME. İşte yumurtan! Bir süre yumurtadan çıkmaya hazır olmayacak ama çıktığında harika bir evcil hayvanın olacak!",
+    ["minlevel"]="1",
+    ["questlevel"]="1"
+},
+
+["8193"] = {
+    ["Title"]="Usta Balıkçı",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Bugün saat 14:00 ile 16:00 arasında aralarındaki en büyük balıkçının kim olduğunu belirlemek için bir yarışmamız var! Başka hiç kimseden önce Stranglethorn kıyılarında bulunan Lezzetli Balık sürülerinden avlanan 40 Lezzetli Balık'ı bana getiren İLK KİŞİ ol ve Usta Balıkçı ilan edil!NEW_LINENEW_LBana 40 balık getiren ilk kişi sen olmazsan, buradaki çırağım ona getirdiğin her 5 Lezzetli Balık için seni yine de parayla ödüllendirecektir.NEW_LINENEW_LAh, ve gecikme, Lezzetli Balık çabuk bozulur!",
+    ["Completion"]="Usta Balıkçı ilan edilmek istiyorsan acele et ve onları teslim et! SAATLERDİR yiyecek hiçbir şey olmadan burada dikiliyorum! O enayi balıkları uzat!",
+    ["minlevel"]="1",
+    ["questlevel"]="60"
+},
+
+["8194"] = {
+    ["Title"]="Çırak Balıkçı",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Zaten bir yarışma kazananımız olsa bile, Lezzetli Balıklarını senden makul bir fiyata satın alacağım. Ne diyorsun!",
+    ["Completion"]="Senin için de uygunsa bu anlaşma benim için uygundur!",
+    ["minlevel"]="1",
+    ["questlevel"]="60"
+},
+
+["8196"] = {
+    ["Title"]="Öz Mangoları",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Son derece etkili öz mangosu Güney Denizleri'ndeki adaların çoğunda yetişir. Tek bir mango onu yiyenleri hem fiziksel hem de zihinsel olarak tazeler. Hiç yemediysen kendin için kötülük ediyorsun!NEW_LINENEW_LBir Zandalar Onur Jetonu karşılığında sana bir avuç sunacak kadar adamızda stokumuz var. Jetonları nasıl alacağını öğrenmek istiyorsan Vinchaxa ile konuş; aksi takdirde elimizdeki işe bakalım!",
+    ["Completion"]="Adil bir takas dostum - lütfen kabilenin kutsamasıyla Güney Denizleri'nin lezzetli meyvelerinin tadını çıkar.",
+    ["minlevel"]="58",
+    ["questlevel"]="60"
+},
+
+["8221"] = {
+    ["Title"]="Nadir Balık - Keefer'ın Melekbalığı",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]=[["*Vızzz* *Tık*NEW_LINENEW_LBalıkustası MaviSolungaç'ın kataloglaması için nadir balıklar arıyorum. Bana bir Keefer'ın Melekbalığı getirirsen sana bu güzel ödülü vereceğim.NEW_LINENEW_L*Cızzz* *Vızzz*\"]],
+    ["Completion"]=[["*Vızzz*NEW_LINENEW_LKeefer'ın Melekbalığı tespiti tamamlandı.NEW_LINENEW_LÖdülün artık mevcut.NEW_LINENEW_L*tık-tık* *Bzzzz*\"]],
+    ["minlevel"]="1",
+    ["questlevel"]="60"
+},
+
+["8222"] = {
+    ["Title"]="Pırıldayan Akrep Kanı",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Panayırda çalıştığım tüm zaman boyunca müşteriler hakkında çok şey öğrendim. İşte o bilgelik kırıntılarından biri: Müşteriler parıldayan şeyleri sever! Ne olduğu önemli değil - kırık bir sandalye bacağını alıp parıldatabilirsin ve her çocuk bir tane almak için miller uzaktan gelecektir!NEW_LINENEW_LBu yüzden, YOUR_NAME, pırıldayan akrep kanına ihtiyacım var. Onu Silithus akreplerinden veya Lanetli Topraklar'dan veya Yanık Bozkırlar'dan bulabilirsin.",
+    ["Completion"]="Harika iş, YOUR_NAME! Çok teşekkürler! Bu kandan boya yapacağım ve her türlü ucuz çöpü parıldayan hazineye dönüştüreceğim!NEW_LINENEW_Lİşte biletlerin ve tekrar teşekkürler!",
+    ["minlevel"]="40",
+    ["questlevel"]="60"
+},
+
+["8223"] = {
+    ["Title"]="Daha Fazla Pırıldayan Akrep Kanı",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="O akrep kanı harika iş çıkarıyor, YOUR_NAME! Birazcık ışıltı ve parlaklığın değersiz bir çöp parçasından nasıl değerli bir ziynet eşyası yaratabildiği inanılmaz. Müşteriler bu şeye bayılıyor ve her şey sevgiyle ilgili, öyle düşünmüyor musun...NEW_LINENEW_LBana büyük yardımın dokundu, YOUR_NAME ve daha fazla pırıldayan akrep kanına pek ihtiyacım olmasa da, daha fazla getirirsen seninle yine biraz bilet takas edeceğim.",
+    ["Completion"]="Tekrar teşekkürler, YOUR_NAME. İşte biletlerin!",
+    ["minlevel"]="40",
+    ["questlevel"]="60"
+},
+
+["8224"] = {
+    ["Title"]="Nadir Balık - Dezian Kraliçebalığı",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]=[["*Vızzz* *Tık*NEW_LINENEW_LBalıkustası MaviSolungaç'ın kataloglaması için nadir balıklar arıyorum. Bana bir Dezian Kraliçebalığı getirirsen sana bu güzel ödülü vereceğim.NEW_LINENEW_L*Cızzz* *Vızzz*"]],
+    ["Completion"]=[["*Vızzz*NEW_LINENEW_LDezian Kraliçebalığı tespiti tamamlandı.NEW_LINENEW_LÖdülün artık mevcut.NEW_LINENEW_L*tık-tık* *Bzzzz*\"]],
+    ["minlevel"]="1",
+    ["questlevel"]="60"
+},
+
+["8225"] = {
+    ["Title"]="Nadir Balık - Brownell'ın Mavi Çizgili Yarışçısı",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]=[["*Vızzz* *Tık*NEW_LINENEW_LBalıkustası MaviSolungaç'ın kataloglaması için nadir balıklar arıyorum. Bana bir Brownell'ın Mavi Çizgili Yarışçısı getirirsen sana bu güzel ödülü vereceğim.NEW_LINENEW_L*Cızzz* *Vızzz*"]],
+    ["Completion"]=[["*Vızzz* Brownell'ın Yarışçısı tespiti tamamlandı. Ödülün artık mevcut. *tık* *tık* *Bzzzz*\"]],
+    ["minlevel"]="1",
+    ["questlevel"]="60"
+},
+
+["8170"] = {
+    ["Title"]="Arathi Havzası Savaşı!",
+    ["Description"]="Şüphesiz duyduğun gibi, Arathor Birliği Arathi Havzası'na büyük sayılarda birlik gönderiyor. Yiyecek ve erzak için hevesli olan bu İttifak aptalları oradaki zengin kaynakları almaya ve kontrol etmeye kararlı. Arathi'nin insanlara bir daha asla ev olmayacağını onlara göstermeliyiz!NEW_LINENEW_LArathi Havzası'na git ve madene, kereste fabrikasına, demirciye ve ahırlara saldır. Düşmanların sancaklarını indirerek o bölgeleri Güruh için ilan et.NEW_LINENEW_LGit, YOUR_NAME. Bu görev tamamlandığında bana rapor ver.",
+    ["Objectives"]="Arathi Havzası madenine, kereste fabrikasına, demirciye ve ahıra saldır, ardından Hammerfall'daki Ölümustası Dwire'a dön.",
+    ["Progress"]="",
+    ["Completion"]="Bir Kirletici gözcüsü başarın hakkında bir raporla bana geldi, YOUR_NAME. Aferin.NEW_LINENEW_LÖğreneceğin gibi, Arathi Havzası savaşını kazanmak için her zaman uyanık olmalı ve İttifak'ın her türlü genişleme girişimini ezmeliyiz. Bunu yap, buradaki zaferimiz güvence altına alınsın.",
+    ["minlevel"]="30",
+    ["questlevel"]="35"
+},
+
+["8246"] = {
+    ["Title"]="Zandalar Mühürleri",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="YOUR_NAME - Zandalar arasında senin kadar yüce biri için çok özel bir şeyim var. Doğrudan Güney Denizleri'ndeki evimizden... Zandalar Mühürleri! Bu mühürler sahip olabileceğin herhangi bir omuzluk eşyasını geliştirmek için kullanılır. İster güç, ister mojo, ister huzur ara - ihtiyacın olan şey bende var!NEW_LINENEW_LSeçeceğin bir mühür karşılığında on beş Zandalar Onur Jetonu istiyorum. Jetonlar hazırsa ben de anlaşma yapmaya hazırım!",
+    ["Completion"]="Adil bir takas dostum - lütfen kabilenin kutsamasıyla mühürünü kabul et!",
+    ["minlevel"]="58",
+    ["questlevel"]="60"
+},
+
+["8271"] = {
+    ["Title"]="Stormpike Kahramanı",
+    ["Description"]="Bölgenin yerlisi Kışbaltası trolleri, kemiklerimizin kendi kokuşmuş yahnilerine eklenmesinden başka bir şey istemeyecek acımasız vahşilerdir.NEW_LINENEW_LOnlara gücümüzü göstermeliyiz!NEW_LINENEW_LMağaralarından, liderlik hiyerarşilerini detaylandıran kitaplar kurtardık. Eserler liderleri Öfkeöcalan Korrak'ın varlığını belli etmek için bir sebep verilene kadar saklanma eğiliminde olduğunu gösteriyor.NEW_LINENEW_LKorrak'ın ölümü Kışbaltası Klanı'nın ölümü demektir! Onu katlet ve dön.",
+    ["Objectives"]="Efsaneye göre, güçlü Kışbaltası trollerinin lideri Alterac Vadisi sakinlerine yıkım getirmek için istediği zaman belirir.NEW_LINENEW_LKorrak kendini belli ederse onu yok et ve Alterac Dağları'ndaki Teğmen Haggerdin'e dön.",
+    ["Progress"]="Uyarılmış ol asker: Buzkurdu da Korrak'ı avlıyor.",
+    ["Completion"]="Aferin. Korrak öldüğüne göre tüm dikkatimizi Buzkurdu pisliğini bölgeden temizlemeye odaklayabiliriz.",
+    ["minlevel"]="51",
+    ["questlevel"]="60"
+},
+
+["8273"] = {
+    ["Title"]="Oran'ın Minnettarlığı",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="",
+    ["Completion"]="Şimdi bu ilginç değil mi? Bu tableti Hinterlands'taki Manzara Uçurumları'nda küçük, terk edilmiş bir adada bulduğunu mu söylüyorsun $C? Gerçekten çok ilginç. <Oran dikkatlice tableti kaldırır ve ellerini birbirine sürter.>NEW_LINENEW_LBu meseledeki çabaların için sana teşekkür ederim. Karanlık Leydimiz bu keşiften çok memnun kalacak. Al, oranla seni ödüllendirmeme izin ver.",
+    ["minlevel"]="42",
+    ["questlevel"]="47"
+},
+
+["8316"] = {
+    ["Title"]="Savaş Silahları",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="",
+    ["Completion"]="Savaş geliyor, YOUR_NAME ve beraberinde anlatılamaz dehşetler getiriyor. Senden istenebilecek her şeyi yaptın ve bunun için ödüllendirilmelisin.NEW_LINENEW_LEğer bu... bu kehanet gerçekleşirse...NEW_LINENEW_L<Jeolog Larksbane'in yüzü soluklaşır.>NEW_LINENEW_LHepimizin geleceği son bulabilir.NEW_LINENEW_LBu silahlar bu çölde yürüteceğin seferde çok değerli olacak.",
+    ["minlevel"]="58",
+    ["questlevel"]="60"
+},
+
+["8324"] = {
+    ["Title"]="Hâlâ İnanıyor",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Şifrelenmiş başka metinler buldun mu? Bana iyi bir parti getir, bu şifre çözme işi zaman alıyor.",
+    ["Completion"]="Harika! Bunları okumak için sabırsızlanıyorum. Bulursan şifrelenmiş metinleri buraya getirmeye lütfen devam et.",
+    ["minlevel"]="54",
+    ["questlevel"]="59"
+},
+
+["8333"] = {
+    ["Title"]="Mevki Madalyonu",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Başka bir Alacakaranlık tarikatçısının mevki madalyonuna ihtiyacın varsa, seve seve yardımcı olurum. Ancak başka bir parlak parçaya ve bazı abis armalarına ihtiyacım olacak...",
+    ["Completion"]="İşte buyur, YOUR_NAME. Bir Alacakaranlık mevki madalyonu daha. Onu iyi kullan, Abis Konseyi'ne karşı sana şans dilerim!",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["8342"] = {
+    ["Title"]="Derebeyliğin Alacakaranlık Halkası",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="YOUR_NAME, Yüksek Abis Konseyi'nin peşine tekrar düşmeyi planlıyorsan, başka bir derebeyliğin Alacakaranlık halkasına ihtiyacın olacak. Bana daha fazla parça ve mühür getir, senin için bir tane yapayım.",
+    ["Completion"]="Ah, inançlarının güçlü olduğunu görüyorum. Pek az kişi o iblis konseyiyle yüzleşebilir!NEW_LINENEW_Lİşte yüzüğün, YOUR_NAME. İraden ve şansın daim olsun.",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["8362"] = {
+    ["Title"]="Abis Armaları",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Bir dövüşte başının çaresine bakabileceğini kanıtladın, YOUR_NAME. Alacakaranlığın Çekiçi üzerindeki baskıyı sürdürelim. Git ve birkaç Abis Tapınakçısı ile daha dövüş, Huum ve benim savaşta bulduğumuz bazı şeylerle seni ödüllendireceğim.",
+    ["Completion"]="Aferin! Bu, endişelenmem gereken daha az Tapınakçı demek.NEW_LINENEW_Lİşte buyur, YOUR_NAME. Umarım orada senin için yararlı bir şey vardır.",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["8363"] = {
+    ["Title"]="Abis Mühürleri",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Bir Abis Dükü ile kapışabilecek kapasitede olduğunu gösterdin, YOUR_NAME. İyi alışkanlıkları teşvik etmeyi her zaman severim. Bana daha fazla mühür getir, ben de sana bir ödül vereyim.",
+    ["Completion"]="Harika, YOUR_NAME! O Dükleri yenmek Alacakaranlığın Çekiçi'ni bir süre sarsacak. Söz verildiği gibi işte ödülün. Huum ve benim bulduğumuz daha iyi şeylerden bazıları.",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["8364"] = {
+    ["Title"]="Abis Asaları",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Tüm beklentilerimi gerçekten aştın, YOUR_NAME. Huum ve benim kapışmadan önce uzun uzun düşüneceğimiz rakiplerle yüzleşiyorsun.NEW_LINENEW_LBu noktada yapabileceğimin en iyisi Alacakaranlığın Çekiçi'ne ve onların derebeylerine karşı savaşındaki çabalarını ödüllendirmeye devam etmektir.NEW_LINENEW_LBana daha fazla abis asası getir, ben de sana uygun bir ödül vermek için elimden geleni yapayım.",
+    ["Completion"]="Başaracağını biliyordum, YOUR_NAME! İşte ödülün.",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["8373"] = {
+    ["Title"]="Çamın Gücü",
+    ["Description"]="Cadılar Bayramı hakkında en nefret ettiğim şey Terkedilmişler'in Southshore üzerinde kullandığı koku bombalarıdır. Özgürleşmeyi kutlamanın bu kadar kokuşmuş bir pisliği içereceğini kim bilebilirdi?NEW_LINENEW_LCadılar Bayramı boyunca Güruh'un köyde düşürebileceği çirkin koku bombalarını kaldırmak için bu temizleyiciyi kullan. Kötü kokularla savaşmak için çamın gücünü kullanır.NEW_LINENEW_LSouthshore'u temiz tutmak için üzerine düşeni yap, ben de sana keyif alacağından emin olduğum bazı Cadılar Bayramı ikramları vereyim. Anlaştık mı?",
+    ["Objectives"]="Southshore'a atılmış herhangi bir Terkedilmiş Koku Bombası'nı kaldırmak için Koku Bombası Temizleyicisi'ni kullan. İşin bittiğinde Southshore'daki Çavuş Hartman'a dön.",
+    ["Progress"]="O lanet Terkedilmişler... zaten hortlak olmaları yeterince kötü değilmiş gibi, bir de galeyana gelip BENİM köyümde sorun çıkarmaya başlıyorlar!",
+    ["Completion"]="Ah, buraları şimdiden daha iyi kokmaya başladı bile. Neredeyse.NEW_LINENEW_LSenin sayende, YOUR_NAME, Southshore başka bir Cadılar Bayramı'nı daha atlatabilir. İşte ikramların, teşekkürlerimle! Şekerin biterse sanırım Demirörs'te Katrina Shimmerstar adında bir cüce kadın var ve sana daha fazlasını satabilir; sanırım sadece Cadılar Bayramı sırasında buralarda.",
+    ["minlevel"]="25",
+    ["questlevel"]="60"
+},
+
+["8467"] = {
+    ["Title"]="Nafien İçin Tüyler",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="Kendini bana kanıtlamış olsan da, kabilemin şüpheci kardeşlerine kendini kanıtlama yönünde çalışmaya devam etmen gerekebilir. Bu amaçla sana yardımcı olmaya devam edebilirim.NEW_LINENEW_LÖlüodun furbolglarının bazıları, sayılarını azaltmada bir kanıt olarak kullanılabilecek ayırt edici bir başlık takarlar. Elde ettiğin başlıklardan bana bir tüy getir; getirdiğin her beşli set için Kerestepençe arasında takdir kazanacaksın.",
+    ["Completion"]="Harika iş, YOUR_NAME! Amellerinin kendi soydaşlarım arasında bilinmesini sağlayacağım.NEW_LINENEW_LBulduğun tüyleri bana getirmeyi unutma. Gerekli olduğu sürece onları kabul etmeye devam edeceğim.",
+    ["minlevel"]="45",
+    ["questlevel"]="55"
+},
+
+["8508"] = {
+    ["Title"]="Saha Görevi Evrakları",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="O evrakların imzalanmasını istiyorsun sanırım evlat?",
+    ["Completion"]="Evet, sanırım o küçük arbede bugünlerde saha görevi olarak sayılacaktır. Bunları Cenarion Kalesi'ne geri götür, senin için hazırda rahat bir işleri olduğuna eminim.NEW_LINENEW_LHadi bakayım!",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["8574"] = {
+    ["Title"]="Sadık Savaş Teçhizatı",
+    ["Description"]="Rüzgârçağıran Proudhorn için dövüş, lojistik ve taktik görevleri üstlenerek topladığın rozetler sadece gösteriş için değildir, YOUR_NAME.NEW_LINENEW_LOnları elde tutman akıllıca olur. Örgütümüze sadakatini kanıtladıkça, o rozetler karşılığında en yakın müttefiklerimize ayırdığımız teçhizatlardan bazılarını sana sunabilirim.",
+    ["Objectives"]="15 Cenarion Dövüş Rozeti, 20 Cenarion Lojistik Rozeti, 17 Cenarion Taktik Rozeti ve 1 Remulos Nişanı'nı Silithus'taki Cenarion Kalesi'nde bulunan Vargus'a getir. Bu görevi tamamlayabilmek için Cenarion Çemberi ile Saygıdeğer repütasyon seviyesine ulaşmış olmalısın.",
+    ["Progress"]="En sadık müttefiklerimizi iyi donatılmış tutmak bizim en büyük çıkarımızadır, YOUR_NAME.",
+    ["Completion"]="Harika iş, YOUR_NAME. Lütfen bunu Cenarion Çemberi adına kabul et. Bunu kesinlikle hak ettin dostum!",
+    ["minlevel"]="60",
+    ["questlevel"]="60"
+},
+
+["8619"] = {
+    ["Title"]="Derinderin Kadim Ruh",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="",
+    ["Completion"]="Bu toprakların insanlarının eski ırklara hâlâ hürmet ettiğini bilmek güzel. Sana iyilikler dilerim, YOUR_NAME ve sana bu simgeyi sunuyorum...",
+    ["minlevel"]="1",
+    ["questlevel"]="60"
+},
+
+["8635"] = {
+    ["Title"]="Yarıkkaya Kadim Ruh",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="",
+    ["Completion"]="Geçmiş çağların savaşları efsanelerin büyüdüğü tohumlardır. Seninki kahramanların çağıdır genç olan. Efsanen kök salsın, serpilsin.NEW_LINENEW_LSana iyilikler dilerim, YOUR_NAME ve sana bu simgeyi sunuyorum...",
+    ["minlevel"]="1",
+    ["questlevel"]="60"
+},
+
+["8636"] = {
+    ["Title"]="Gürlekaya Kadim Ruh",
+    ["Description"]="",
+    ["Objectives"]="",
+    ["Progress"]="",
+    ["Completion"]="Yaşamın maddesi ölmeye ve toprağa dönmeye mahkûmdur ama ruhun maddesi sonsuza dek yaşar. Sana iyilikler dilerim, YOUR_NAME",
+},
     
+--123456789
 
-	
-
-	["8504"] = {    ["Title"]="The Alliance Needs More Stranglekelp!",    ["Description"]="Well hello again there... what was it? Ah yes, YOUR_NAME! Come to see if I still need more stranglekelp have you? Well, it's your lucky day, because the answer to that very important question is a very affirmative YES! Think you could gather up twenty more?",    ["Objectives"]="Bring 20 stranglekelp to Private Draxlegauge at the airfield in Dun Morogh.",    ["Progress"]="Well hello again there... what was it? Ah yes, YOUR_NAME! Come to see if I still need more stranglekelp have you? Well, it's your lucky day, because the answer to that very important question is a very affirmative YES! Think you could gather up twenty more?",    ["Completion"]="Oh goodness that's a quite a load of stranglekelp you have there. Quick, let's get that into a box to keep it fresh. You've done me... us, the Alliance a great favor by bringing that batch in. I'll make sure that everyone knows that it was you, the great YOUR_NAME, that helped to tip the scales in the Ahn'Qiraj war effort with your contribution of stranglekelp!",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8505"] = {    ["Title"]="The Alliance Needs Purple Lotus!",    ["Description"]="$C, the purple lotus is a flower with a plentitude of uses. I am here at the request of the Alliance as an authority on those applications, to preserve the herbs collected and to ensure that their war effort acquires enough purple lotus to sustain whatever function they plan for it.NEW_LINENEW_LINEI would like for you to travel out into the world and return to me with some of these flowers. Is that something that you can do?",    ["Objectives"]="Bring 20 Purple Lotus to Master Nightsong at the Military Ward in Ironforge.",    ["Progress"]="Do you have the purple lotus herbs that I requested?",    ["Completion"]="Your contribution is greatly appreciated, $C. It is only through the combined efforts of all that we shall be able to repel the ruthless advance of the silithid and whatever force is driving them forth. Even the Horde is amassing their own collection of purple lotus. Should you come across more, please return to me here.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8506"] = {    ["Title"]="The Alliance Needs More Purple Lotus!",    ["Description"]="Welcome back $c. Our collection grows, but even now we have a need for additional purple lotus. If it is still within your power to gather more of the herb, I entreat you to do so and return them to me here.",    ["Objectives"]="Bring 20 purple lotus to Master Nightsong at the airfield in Dun Morogh.",    ["Progress"]="Welcome back, $C. Our collection grows, but even now we have a need for additional purple lotus. If it is still within your power to gather more of the herb, I entreat you to do so and return them to me here.",    ["Completion"]="",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8507"] = {    ["Title"]="Field Duty",    ["Description"]="Greetings, YOUR_NAME.  Before I assign you to more involved tasks in the war, you'll need to do your share of field duty.  NEW_LINENEW_LINEYou will find Captain Blackanvil's Ironforge Brigade outside Hive'Zora.NEW_LINENEW_LINEReport to him or his lieutenant, Janela Stouthammer and come back to me.  I shall have a more advanced assignment for you ready.NEW_LINENEW_LINEOh and please do us a favor and stay away from the Orgrimmar Legion.  We've been forced to keep the two forces well apart from one another due to mutual animosity.",    ["Objectives"]="Report for duty at the Ironforge Brigade post near Hive'Zora.  Prepare your Unsigned Field Duty Papers and obtain Signed Field Duty Papers from Captain Blackanvil and return to Windcaller Kaldon at Cenarion Hold in Silithus.NEW_LINENEW_LINENote: Healing or casting beneficial spells on a member of the Ironforge Brigade will flag you for PvP.",    ["Progress"]="You'll find Captain Blackanvil's force stationed outside Hive'Zora.  Talk to his lieutenant, Janela Stouthammer, if you can't find him.",    ["Completion"]="Very well, YOUR_NAME  I've prepared a set of tasks that should make optimal use of your skills.NEW_LINENEW_LINEWith the continued efforts of you and people like you, our enemy will soon be vanquished once and for all!NEW_LINENEW_LINEShould you require a new mission briefing, return to Captain Blackanvil.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8509"] = {    ["Title"]="The Alliance Needs Arthas' Tears!",    ["Description"]="I'll keep it simple and to the point, $c. The Alliance needs to collect a large quantity of Arthas' Tears for the Ahn'Qiraj war effort. Don't ask me what for; I'm just following orders. But I'd like you to gather up as many of the herbs as you can and bring them back to me here. Are you willing to do that?",    ["Objectives"]="Bring 20 Arthas' Tears to Sergeant Major Germaine at the Military Ward in Ironforge.",    ["Progress"]="What's that? Speak up, $C! Have you got that shipment of Arthas' Tears I asked for?",    ["Completion"]="Good work, $C. I must say that I'm pleasantly surprised. You would not believe the number of people that have come by, offering to help, but never returning. Let me just get those into a crate and tallied with your name on it, and then we can talk again about whether I need anymore of those plants.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8510"] = {    ["Title"]="The Alliance Needs More Arthas' Tears!",    ["Description"]="Ok, so it looks like I still need more Arthas' Tears. I would imagine that you will be able to find them in the general location that you gathered them up for me last time. The quicker we get these, the faster we can start up the offensive against the forces at Ahn'Qiraj.NEW_LINENEW_LINEYou gonna help us out again $c?",    ["Objectives"]="Bring 20 arthas' tears to Sergeant Major Germaine at the airfield in Dun Morogh.",    ["Progress"]="",    ["Completion"]="",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8511"] = {    ["Title"]="The Alliance Needs Light Leather!",    ["Description"]="We Stoneflayers have a long history of being skinners, $c. That's why the Alliance has asked my family to help out with the collection of light leather for the Ahn'Qiraj war effort. I'm here to see to it that the leather is tanned correctly for whatever they want to put it to use for. But we need your help.NEW_LINENEW_LINESince I have to be here doing that, I need you to go out and collect the skins, returning them to me here. What do you say, $g lad : lass;, will you give it a go?",    ["Objectives"]="Bring 10 Light Leather to Bonnie Stoneflayer at the Military Ward in Ironforge.",    ["Progress"]="$C, I do so hope that's the light leather you promised.",    ["Completion"]="I dare say the Alliance is going to be very happy with your skins here, $C. I'll make sure that not a one goes to waste. Thank you, and make sure that you check back in with me once I've counted them up to see if we need more.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8512"] = {    ["Title"]="The Alliance Needs More Light Leather!",    ["Description"]="Good to see you again YOUR_NAME. It does appear that we need more light leather for the creation of the various war materiel. If you could bring me a stack of ten that would be just perfect.",    ["Objectives"]="Bring 10 light leather to Bonnie Stoneflayer at the airfield in Dun Morogh.",    ["Progress"]="Good to see you again, YOUR_NAME. It does appear that we need more light leather for the creation of the various war materiels. If you would bring me a stack of ten, that would be just perfect.",    ["Completion"]="Thank you for your generous donation, YOUR_NAME. I'm going to get those onto the pile right now, and in no time I'm sure that they'll get changed into a nice set of armor, some leather patches, or used for something else in our preparations. Seems like we're always in need of more light leather. Come back and visit me soon.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8513"] = {    ["Title"]="The Alliance Needs Medium Leather!",    ["Description"]="Yes $g sir : ma'am;, I have been charged with collecting and tracking all of the medium leather gathered for the war effort. If you have the wherewithal to gather medium leather, from whatever source, then please bring them to me here. I sure would appreciate a hand with this if you can spare the time.",    ["Objectives"]="Bring 10 Medium Leather to Private Porter at the Military Ward in Ironforge.",    ["Progress"]="Yes  sir , I remember you. Is that the medium leather you have with you there?",    ["Completion"]="Wow! Seems like you were just here volunteering to help. Thank you very much for the donation. I'll just get those all packed up and counted. You sure do know how to brighten a fella's day.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8514"] = {    ["Title"]="The Alliance Needs More Medium Leather!",    ["Description"]="Yes $g sir : ma'am;, looks like we've collected $2063w pieces of medium leather to date. I know it's a lot to ask, but if you're still willing, I could use your help in attempting to put a dent in the rest of my quota.",    ["Objectives"]="Bring 10 medium leather to Private Porter at the airfield in Dun Morogh.",    ["Progress"]="Yes  sir , looks like we've collected many pieces of medium leather, but we need more. I can assure you that it will all be put to good use; not one piece will get wasted. I know it's a lot to ask, but if you're still willing, I could use your help in attempting to put a dent in the rest of my quota.",    ["Completion"]="Golly, that sure is a lot of medium leather that you've brought round,  sir ! I'm gonna make sure that all of that gets put to proper use, yes indeed. With your help we'll have filled our estimation for medium leather in no time!NEW_LINENEW_LINEThanks, YOUR_NAME!",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8515"] = {    ["Title"]="The Alliance Needs Thick Leather!",    ["Description"]="Oh boy, this is going to be great! $C, the Ahn'Qiraj war effort is in full swing, and I've been put in charge of keeping track of all of the thick leather that comes in. We'll make tons of things with it, but first we need to get a ton of it. And I mean that literally! That's where you come in.NEW_LINENEW_LINESo, do you think you can go out there and bring me back a nice, fat stack of thick leather? Do yah, do yah?!",    ["Objectives"]="Bring 10 Thick Leather to Marta Finespindle at the Military Ward in Ironforge.",    ["Progress"]="Is that the thick leather you have there in your pack, $C? Is it? I can't wait for you to hand it over! Everyone is going to be so pleased with us don't you think?",    ["Completion"]="Oh, I knew you could do it, $C, I just knew it! I'll get these into the right hands as soon as I can. Now, let's see here. Hmm, looks like our tally is coming along rather nicely. You should check back with me in just a moment once I'm done counting to see if we need more.  Cuz if we do, you're the one I want out there gathering it up for me!",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8516"] = {    ["Title"]="The Alliance Needs More Thick Leather!",    ["Description"]="Yep, the stack's still not high enough. YOUR_NAME, we still haven't reached our goal of $2071w thick leather. Just think of all the things that we can make with all of that leather! All kinds of armor and weapons. Stuff for inside the steam tanks and rifle scopes! Engineering goggles, and I bet if it ends up that we collect too much we could give the rest to the Horde for their zeppelins!NEW_LINENEW_LINEYou gonna bring me back some more thick leather?",    ["Objectives"]="Bring 10 thick leather to Marta Finespindle at the airfield in Dun Morogh.",    ["Progress"]="Yep, the stack's still not high enough. YOUR_NAME, we still haven't reached our thick leather goal. Just think of all the things that we can make with all of that leather! All kinds of armor and weapons. Stuff for inside the steam tanks and rifle scopes! And engineering goggles, those are always fun!NEW_LINENEW_LINEYou gonna bring me back some more thick leather?",    ["Completion"]="You did it again! That is simply amazing how you go out there, collect all of this stuff, and then bring it back here and hand it over. I tell ya, when they find out how much you've been helping out around here you're not going to be able to walk down the street without people asking you for your autograph!NEW_LINENEW_LINEThanks again for your very generous donation of thick leather, YOUR_NAME.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8517"] = {    ["Title"]="The Alliance Needs Linen Bandages!",    ["Description"]="The war at Ahn'Qiraj is going to be long and bloody. It is a very wise thing that the Alliance is doing by enlisting the aid of you, and those like you, to build up the materiel necessary before plunging headlong into conflict.NEW_LINENEW_LINEI have been asked to head up the collection of linen bandages for the war, and I am hoping that you are going to assist me in amassing as many as we need. It is no light matter, but at least the linen bandages are the least difficult to create. Are you with us, $c?",    ["Objectives"]="Bring 20 Linen Bandages to Sentinel Silversky at the Military Ward in Ironforge.",    ["Progress"]="Do you have the twenty linen bandages that I require, $C?",    ["Completion"]="Many are the soldiers that will benefit from your contribution here today, $C. I shall see to it personally that the Alliance is made aware of your efforts. Allow me a moment to store these bandages properly and update my count, and then you should check back with me to see if I am in need of more.NEW_LINENEW_LINEMay the Light of Elune shine upon you, YOUR_RACE!",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8518"] = {    ["Title"]="The Alliance Needs More Linen Bandages!",    ["Description"]="Ever am I amazed by the selflessness exhibited when so many would instead turn to selfishness instead. $C, I am still in need of a number of linen bandages before my assignment here is fulfilled. Will you aid me once more in the collection of those bandages?",    ["Objectives"]="Bring 20 linen bandages to Sentinel Silversky at the airfield in Dun Morogh.",    ["Progress"]="Ever am I amazed by the selflessness exhibited when so many would instead turn to selfishness instead. $C, I am still in need of a number of linen bandages before my assignment here is fulfilled. Will you aid me once more in the collection of those bandages?",    ["Completion"]="You are to be commended, YOUR_NAME. While there are those that would take advantage of the economics of our war footing to line their pockets in a fervor of greed, you have proven time and again that your devotion to the Alliance, and indeed to all of Azeroth, comes first.NEW_LINENEW_LINEBlessings of Elune be with you always!",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8519"] = {    ["Title"]="A Pawn on the Eternal Board",    ["Description"]="As you regain your composure and focus your gaze, you notice that something stirs within the crystal. Upon closer inspection, you realize that you are looking into the past... a memory... long forgotten.",    ["Objectives"]="Learn all that you can of the past, then speak with Anachronos at the Caverns of Time in Tanaris.",    ["Progress"]="",    ["Completion"]="After Staghelm's betrayal, I gathered the shattered pieces of the Scepter of the Shifting Sands and returned here. I had every intention of protecting the scepter from those that would seek to use it to cause harm to our world - thus was born the charge of the Dragonflights.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8520"] = {    ["Title"]="The Alliance Needs Silk Bandages!",    ["Description"]="With the Ahn'Qiraj War looming we need to do everything that we can to see to it that our soldiers have everything that they need. We're doing just that right here. For my part I've been placed in charge of seeing to it that we collect enough silk bandages.NEW_LINENEW_LINEDo you think you can help me out, $c?",    ["Objectives"]="Bring 20 Silk Bandages to Nurse Stonefield at the Military Ward in Ironforge.",    ["Progress"]="Hello, $C, have you been able to get those twenty silk bandages yet?",    ["Completion"]="$C, you did it! Thanks to you we are another step closer to achieving our goal with silk bandages. I'll get them stored away, and then we can talk more if you like.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8521"] = {    ["Title"]="The Alliance Needs More Silk Bandages!",    ["Description"]="It is very kind of you to offer to help me again $c. It looks like we've collected $2082w silk bandages, so we'll need more.",    ["Objectives"]="Bring 20 silk bandages to Nurse Stonefield at the airfield in Dun Morogh.",    ["Progress"]="It is very kind of you to offer to help me again, $C. It looks like we've collected a goodly number of the silk bandages we've been tasked with, but we still need more. YOUR_NAME, is there any way that you could see fit to put together another bundle and return them to me here? The Alliance and I will be most grateful.",    ["Completion"]="You are such a selfless person. Thank you very much for your contribution to the war effort. It's people like you that are going to make the difference between success and failure at Ahn'Qiraj. I just hope that all of this will be enough.NEW_LINENEW_LINEThanks again, YOUR_NAME.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8522"] = {    ["Title"]="The Alliance Needs Runecloth Bandages!",    ["Description"]="Argue the merits of the war if you will, $c, but it has already been set in motion. Look around you at your family and friends, and then ask yourself what it is that you can do to see to it that if they are involved, they will have every advantage to survive the conflagration.NEW_LINENEW_LINETo that end, I am collecting runecloth bandages here from whatever source. Would you like to make a donation?",    ["Objectives"]="Bring 20 Runecloth Bandages to Keeper Moonshade at the Military Ward in Ironforge.",    ["Progress"]="The days pass one after the other, and still we go on. $C, have you those runecloth bandages?",    ["Completion"]="You are to be commended, $C, for your perseverance in this task. I shall put these bandages away, and then I should like to talk to you again about the possibility of your collecting even more runecloth bandages.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8523"] = {    ["Title"]="The Alliance Needs More Runecloth Bandages!",    ["Description"]="So it is that we come to discuss pressing matters yet again $c. Once more I thank you for your previous efforts; it is not everyone who would give so selflessly. But there is still more work to do.NEW_LINENEW_LINEYOUR_NAME, will you once more collect runecloth bandages and return them to me here?",    ["Objectives"]="Bring 20 runecloth bandages to Keeper Moonshade at the airfield in Dun Morogh.",    ["Progress"]="So it is that we come to discuss pressing matters yet again, $C. Once more I thank you for your previous efforts; it is not everyone who would give so selflessly. But there is still more work to do.NEW_LINENEW_LINEYOUR_NAME, will you once more collect runecloth bandages and return them to me here?",    ["Completion"]="This is a fine road we are traveling together, YOUR_NAME. You make an excellent working companion. Once more do I give thanks to you for your efforts on behalf of the entire Alliance. Come and talk again with me soon.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8524"] = {    ["Title"]="The Alliance Needs Rainbow Fin Albacore!",    ["Description"]="Hey there, friend! If I were to say to you, 'Don't you think that soldiers should have food to eat like anyone else?', you would of course reply, 'yes'. I agree with you 110%! I'm glad we're in accord. All I need for you to do is to head out there, fish up a whole bunch of raw rainbow fin albacore, and then cook it all up and bring it back to me right here. Mmm, mmm, I can taste it already.",    ["Objectives"]="Bring 20 Rainbow Fin Albacore to Slicky Gastronome at the Military Ward in Ironforge.",    ["Progress"]="I'm willing to lay odds that you've returned with all of that rainbow fin albacore we were talking about before, right, $C?",    ["Completion"]="Two for the Alliance, one for me, two for the Alliance, one for me. Hey there, fishmonger, excellent work. I can see that you're going to be a real credit to the club. Looks to me like we probably need more of that albacore though. Why don't you head on out and rustle up a mite more. I can hear my stomach rumbling already.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8525"] = {    ["Title"]="The Alliance Needs More Rainbow Fin Albacore!",    ["Description"]="What! You again? Well I'll be a monkey's uncle... except that I'm a gnome. Slicky Gastronome to be precise! So you're back to help out again eh? Well, I can't say as I blame you. Don't you just love the smell of all of that food? <drool>NEW_LINENEW_LINEEnough loitering! Get out there and bring me back more rainbow fin albacore!",    ["Objectives"]="Bring 20 rainbow fin albacore to Slicky Gastronome at the airfield in Dun Morogh.",    ["Progress"]="What! You again? Well I'll be a monkey's uncle... except that I'm a gnome. Slicky Gastronome to be precise! So you're back to help out again, eh? Well, I can't say as I blame you. Don't you just love the smell of all of that food? <drool>NEW_LINENEW_LINEEnough loitering! Get out there and bring me back more rainbow fin albacore!",    ["Completion"]="I knew that you had it in you, kid. You've got the look of someone who knows what  he  likes. Specifically that you like pleasing me and the powers that be. And that you have, I guarantee.NEW_LINENEW_LINEHaha, ok, I'll just get these fish properly stashed away, and then you and I can have a little talk concerning you collecting another twenty albacore.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8526"] = {    ["Title"]="The Alliance Needs Roast Raptor!",    ["Description"]="Oh, how's it going, $c? I see that you're interested in maybe gathering up food for the coming war at Ahn'Qiraj? Somehow my dad thought that it would be a good learning experience for me if I were to volunteer to help out here. Big mistake. I don't even like to eat meat.NEW_LINENEW_LINEAnyway, if you feel like it, you could bring me back a lot of roast raptor. Apparently that's what all of the soldiers are going to want.",    ["Objectives"]="Bring 20 Roast Raptor to Sarah Sadwhistle at the Military Ward in Ironforge.",    ["Progress"]="So do you have all of that roast raptor yet?",    ["Completion"]="Gee, that's swell. Thanks for bringing me all of this burnt animal flesh, $C. I'll just put it onto the pile over there. I'm sure that someone will take care of it. I suppose if you have some time on your hands that you might want to bring me more?",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8527"] = {    ["Title"]="The Alliance Needs More Roast Raptor!",    ["Description"]="Hi again $c. I can tell you're very excited about all of this. So I suppose you want to bring me another twenty roast raptor. Great. Well you do that. I guess I'll see you when you get back.",    ["Objectives"]="Bring 20 roast raptor to Sarah Sadwhistle at the airfield in Dun Morogh.",    ["Progress"]="Hi again, $C. I can tell you're very excited about all of this. So I suppose you want to bring me another twenty roast raptor? Great. Well you do that. I guess I'll see you when you get back.",    ["Completion"]="Wow, you're a real go-getter. You make me tired just looking at you. Anyway, thanks from the Alliance and all that. I'll make sure that all of that dead meat gets packed away. I guess you could check back with me later to see if we still need more of it, though it's starting to stink up the place if you ask me.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8528"] = {    ["Title"]="The Alliance Needs Spotted Yellowtail!",    ["Description"]="It may not seem heroic to gather up cooked fish, but do not underestimate the value of preparation, young $c. Soldiers need to eat like anyone else, and we're here to do our part to make sure they have what they need once the war in Ahn'Qiraj commences.NEW_LINENEW_LINEAccordingly, I am stockpiling spotted yellowtail, a versatile source of sustenance that stores well and can be used in many different dishes. It also doesn't have the odor of some other saltwater fish. Are you willing to aid me in this endeavor?",    ["Objectives"]="Bring 20 Spotted Yellowtail to Huntress Swiftriver at the Military Ward in Ironforge.",    ["Progress"]="I am confident that you are returning so soon with the spotted yellowtail we discussed.",    ["Completion"]="Thank you for this gift, $C, and in such a timely manner as well. Our soldiers will surely not lack for something to eat. Just let me get these fish stored away properly and then you and I can discuss a second haul if you're willing.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8529"] = {    ["Title"]="The Alliance Needs More Spotted Yellowtail!",    ["Description"]="If you're still willing I'd like to send you back out to bring in another haul of spotted yellowtail, YOUR_NAME. I'd imagine with the expertise you gained the first time out that this catch should be much faster and easier. Are you game?",    ["Objectives"]="Bring 20 spotted yellowtail to Huntress Swiftriver at the airfield in Dun Morogh.",    ["Progress"]="If you're still willing I'd like to send you back out to bring in another haul of spotted yellowtail, YOUR_NAME. I'd imagine with the expertise you gained the first time out that this catch should be much faster and easier. Are you game?",    ["Completion"]="You are a true member of the Alliance, YOUR_NAME. Your efforts shall not go unnoticed, or unappreciated. And thank you for cooking up the fish as well. I will see to it that they are stored away properly, and then I'll need to update my count. Every one brings us that much closer to catching our goal.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8532"] = {    ["Title"]="The Horde Needs Copper Bars!",    ["Description"]="So glad that you've decided to help out here. Not everyone would, so I need to make sure you understand what it is that I need. Copper bars, not copper ore. We don't have the time or people to do all of the smelting ourselves, so if you would be so kind as to take care of that, your efforts will be duly noted. Is that something that you can handle, $c?",    ["Objectives"]="Bring 20 Copper Bars to Miner Cromwell at the Valley of Spirits in Orgrimmar.",    ["Progress"]="I hope that's the twenty copper bars you have there with you, $C.",    ["Completion"]="These bars will do, and thanks for not shining them. No sense in making them pretty when they're going to be mangled for whatever materiel needs to be built for the war. I'll take care of putting them on the stacks, and I'll make sure that they are put to proper use. Speak to me again if you're interested in bringing in another twenty.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8533"] = {    ["Title"]="The Horde Needs More Copper Bars!",    ["Description"]="Back so soon? You'll be a real miner in no time $c. So, you already know the drill; I need you to go out, mine up a mess of copper ore, smelt it into bars and bring it back to me here. I know that's something you're capable of, the question is, are you willing?",    ["Objectives"]="Bring 20 copper bars to Miner Cromwell in Durotar.",    ["Progress"]="Back so soon? You'll be a real miner in no time, $C. So, you already know the drill; I need you to go out, mine up a mess of copper ore, smelt it into bars and bring it back to me here. I know that's something you're capable of, the question is, are you willing?",    ["Completion"]="You've proven yourself to me yet again, $C. I will see to it that this copper is used in due time. For now though, I need to get these copper bars onto the pallet and tallied. If you still feel inclined, I could probably use your help in gathering even more copper bars.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8534"] = {    ["Title"]="Hive'Zora Scout Report",    ["Description"]="We've sent our best scouts deep into the silithid hives to gather intelligence.  Scout Azenel has been watching the silithid movements at Hive'Zora for several days now.  Find her and obtain a written report.  We need to be able to act on that information as soon as possible, YOUR_NAME.",    ["Objectives"]="Contact Cenarion Scout Azenel inside Hive'Zora and return the Hive'Zora Scout Report to Windcaller Proudhorn at Cenarion Hold.  You must also bring Tactical Task Briefing VI in order to complete this quest.",    ["Progress"]="You'll find Scout Azenel inside Hive'Zora. Hurry, YOUR_NAME! Time is of the essence.",    ["Completion"]="Your efforts are greatly appreciated, YOUR_NAME. I'll read these scouting reports right away, feel free to go over your next assignment.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8535"] = {    ["Title"]="Hoary Templar",    ["Description"]="The Twilight's Hammer and the elemental nobles they worship present a formidable threat to our operations in Silithus.  With the new enemies we're facing inside Ahn'Qiraj, we cannot afford to lower our guard to our enemies outside.NEW_LINENEW_LINEFind a way to summon and destroy a Hoary Templar and report to Bor Wildmane.",    ["Objectives"]="Summon and slay a Hoary Templar and report back to Bor Wildmane in Cenarion Hold.  You must also bring Tactical Task Briefing IV in order to complete this quest.",    ["Progress"]="Is your task done yet, YOUR_NAME?",    ["Completion"]="Good job, YOUR_NAME. Here's your next assignment.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8536"] = {    ["Title"]="Earthen Templar",    ["Description"]="The Twilight's Hammer and the elemental nobles they worship present a formidable threat to our operations in Silithus.  With the new enemies we're facing inside Ahn'Qiraj, we cannot afford to lower our guard to our enemies outside.NEW_LINENEW_LINEFind a way to summon and destroy an Earthen Templar and report to Bor Wildmane.",    ["Objectives"]="Summon and slay an Earthen Templar and report back to Bor Wildmane in Cenarion Hold.  You must also bring Tactical Task Briefing III in order to complete this quest.",    ["Progress"]="Is your task done yet, YOUR_NAME?",    ["Completion"]="Good job, YOUR_NAME.  Here's your next assignment.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8537"] = {    ["Title"]="Crimson Templar",    ["Description"]="The Twilight's Hammer and the elemental nobles they worship present a formidable threat to our operations in Silithus.  With the new enemies we're facing inside Ahn'Qiraj, we cannot afford to lower our guard to our enemies outside.NEW_LINENEW_LINEFind a way to summon and destroy a Crimson Templar and report to Bor Wildmane.",    ["Objectives"]="Summon and slay a Crimson Templar and report back to Bor Wildmane in Cenarion Hold.  You must also bring Tactical Task Briefing II in order to complete this quest.",    ["Progress"]="Is your task done yet, YOUR_NAME?",    ["Completion"]="Good job, YOUR_NAME. Here's your next assignment.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8538"] = {    ["Title"]="The Four Dukes",    ["Description"]="The links between the Twilight's Hammer and the Abyssal Council are proving to be more important than we had expected.NEW_LINENEW_LINEWe believe the elemental nobles known as the Abyssal Dukes are one of the primary force organizing the Twilight's Hammer cultists.  Find a way to lure the four Abyssal Dukes into our plane of existence and destroy them!NEW_LINENEW_LINEYour dedication and prowess in past assignments have led us to choose you for this particular assignment.  We are certain you will succeed in this endeavor.",    ["Objectives"]="Find a way to summon and slay the Duke of Cynders, the Duke of Fathoms, the Duke of Zephyrs and the Duke of Shards and report back to Commander Mar'alith in Cenarion Hold.  You must also bring Tactical Task Briefing V in order to complete this quest.",    ["Progress"]="Is your task done yet, YOUR_NAME?",    ["Completion"]="You have achieved a great accomplishment for our cause today, YOUR_NAME. You've vanquished some of our most powerful enemies. For that I greatly commend you.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8539"] = {    ["Title"]="Target: Hive'Zora Hive Sisters",    ["Description"]="Reinforcements have been called on to join the assault on Hive'Zora.  You have been selected to target Hive'Zora hive sisters.  Report back to Commander Mar'alith after completing your task.",    ["Objectives"]="Slay 30 Hive'Zora Hive Sisters and report back to Commander Mar'alith at Cenarion Hold in Silithus.  You must also bring Combat Task Briefing V in order to complete this quest.",    ["Progress"]="You have something to tell me, $C?",    ["Completion"]="Excellent work, YOUR_NAME. You're a worthy ally.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8540"] = {    ["Title"]="Boots for the Guard",    ["Description"]="The mounted division of the Cenarion Hold guard is in short supply of ornate mithril boots.  Procure a batch and deliver them immediately to Captain Vish Kozus in Cenarion Hold.",    ["Objectives"]="Bring 3 Ornate Mithril Boots to Vish Kozus, Captain of the Guard at Cenarion Hold in Silithus.  You must also bring Logistics Task Briefing II in order to complete this quest.",    ["Progress"]="You have something for me?",    ["Completion"]="Excellent.  We were in need of these, YOUR_NAME.  Good work.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8541"] = {    ["Title"]="Grinding Stones for the Guard",    ["Description"]="The Cenarion Hold guard is in short supply of grinding stones.  Procure a batch and deliver them immediately to Captain Vish Kozus in Cenarion Hold.",    ["Objectives"]="Bring 10 Dense Grinding Stones, 10 Solid Grinding Stones and 10 Heavy Grinding Stones to Vish Kozus, Captain of the Guard at Cenarion Hold in Silithus.  You must also bring Logistics Task Briefing III in order to complete this quest.",    ["Progress"]="You have something for me?",    ["Completion"]="Excellent.  We were in need of these, YOUR_NAME.  Good work.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8542"] = {    ["Title"]="The Horde Needs Tin Bars!",    ["Description"]="Lok'tar, YOUR_RACE, I'm sure you already know that we're going to war at Ahn'Qiraj with the insects. But first the Warchief has decided that we're going to do something called 'prepare'. Though I'd rather be sharpening weapons and hammering armor into shape, I'm proud to have been chosen to be in charge of tin bar collection here. But I cannot do that without your help.NEW_LINENEW_LINESo I need you to go out and make tin bars and bring them back to me here. I think I'm going to need more than I can count.",    ["Objectives"]="Bring 20 Tin Bars to Grunt Maug at the Valley of Spirits in Orgrimmar.",    ["Progress"]="How many tin bars do you have there, $C? After the war I think I'm going to need someone to teach me how to count.",    ["Completion"]="You have my sincere gratitude. Your efforts in helping Cenarion Hold have shown true courage.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8543"] = {    ["Title"]="The Horde Needs More Tin Bars!",    ["Description"]="Very good, I see that you are serious about the war. I'm a little edgy waiting for it to start though, which means I'm going to get angry if you don't start bringing in the goods faster. Maybe I can just practice on you instead.NEW_LINENEW_LINEHar! Maybe not, 'cuz then who would bring me back the tin bars?",    ["Objectives"]="Bring 20 tin bars to Grunt Maug in Durotar.",    ["Progress"]="Very good, I see that you are serious about the war. I'm a little edgy waiting for it to start though, as I'm sure you are as well, $C. It will be glorious when it begins. The Horde running over the sands of the Silithus desert, weapons in hand, charging headlong into the insect masses. Great honor will be had that day by all!NEW_LINENEW_LINEHar! But first we need more tin bars. Funny how such a small thing may make such a huge difference, don't you think?",    ["Completion"]="Throm'ka, YOUR_NAME. You honor me and the Horde with your tin bars. I will put them on the stack and then they will come and make things from them. And then when that is all done we will go to war and show the puny Alliance how to fight the bugs.NEW_LINENEW_LINENow bring me back more tin bars!",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8544"] = {    ["Title"]="Conqueror's Spaulders",    ["Description"]="It is said among us that the ornate shoulder armor worn by the mortal races started as an attempt to emulate the wings of a dragon.NEW_LINENEW_LINEBring me the bindings worn by the highest Qiraji leaders and I shall shape them into a set of pauldrons more dreadful than even the wings of Nefarian himself!",    ["Objectives"]="Bring the Qiraji Bindings of Command, 2 Idols of Night, 5 Stone Scarabs and 5 Clay Scarabs to Andorgos in Ahn'Qiraj.  You must also attain Neutral reputation with the Brood of Nozdormu to complete this quest.",    ["Progress"]="Have you collected the components I require?",    ["Completion"]="From the materials you bring and from the scales of our fallen Qiraji foes I make you these pauldrons, mortal. May they grant you the protection you need and may the sight of them strike fear into our enemies.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8545"] = {    ["Title"]="The Horde Needs Mithril Bars!",    ["Description"]="$C, the war it is comin' and the only thing we can do is prepare for it. That be where you and I can help each other, mon. Ya see, they put me in charge of collectin' all the mithril bars we be needin' ta build for all the things we gonna need. An I still be needin' more!NEW_LINENEW_LINESo, I be hopin' that you can get out there an mine us up some mithril, then smelt it into bars. Sound like something you can do for us?",    ["Objectives"]="Bring 20 Mithril Bars to Senior Sergeant T'kelah at the Valley of Spirits in Orgrimmar.",    ["Progress"]="It sure would be nice to be havin' all of the mithril bars that we be needin' for the Ahn'Qiraj war effort. Is that why you be back, mon? You got my bars?",    ["Completion"]="This be a good start for you an me, $C. That be another twenty mithril bars that I can be puttin' on the stacks an checkin' off of the list. It all gonna be put to good use makin' the war materiel.NEW_LINENEW_LINEBe makin' sure that you check back in with me 'cuz you know it be lookin' like we gonna need even more of those mithril bars.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8546"] = {    ["Title"]="The Horde Needs More Mithril Bars!",    ["Description"]="Yup, I be glad you're here, mon. You helped me before, and now I need your help again. We still lookin' ta bring in more mithril bars for the war effort; gonna build lots of armor and weapons and things to go squish them bugs at Ahn'Qiraj.NEW_LINENEW_LINESo if you be a true friend, you bring me back more stacks of mithril bars. I take all you got until we hit our quota. You have some for me now?",    ["Objectives"]="Bring 20 Mithril Bars to Senior Sergeant T'kelah at the Valley of Spirits in Orgrimmar.",    ["Progress"]="",    ["Completion"]="That be good work YOUR_NAME! Another twenty bars get us that much closer to the goal, and get us more war materiel. I see to it they get put away. And if you get another stack of mithril bars mon, you make sure to be bringin' them here to me.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8548"] = {    ["Title"]="Volunteer's Battlegear",    ["Description"]="The badges you collect from performing combat, logistics and tactical assignments for Cenarion Hold are more than just for show, YOUR_NAME.NEW_LINENEW_LINEYou'd be wise to hold on to them.  As you prove your loyalty to our organization I can offer you some of the gear we reserve for our closest allies in exchange for those badges.",    ["Objectives"]="Bring 5 Cenarion Combat Badges, 3 Cenarion Logistics Badges and 7 Cenarion Tactical Badges to Vargus at Cenarion Hold in Silithus.  You must also attain Friendly reputation with Cenarion Circle to be able to complete this quest.",    ["Progress"]="It's in our best interest to keep our most loyal allies well geared, YOUR_NAME.",    ["Completion"]="Great work, YOUR_NAME. Please accept this on behalf of the Cenarion Circle. You've certainly earned it, friend!",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8549"] = {    ["Title"]="The Horde Needs Peacebloom!",    ["Description"]="It is said that every generation must face a defining trial. I fear the Ahn'Qiraj War will be the crucible in which our mettle is tested. So we prepare, and in so doing find what we are made of.NEW_LINENEW_LINEI have volunteered to help the Horde by gathering as much peacebloom as possible, so that it can be made into potions for the war. I hope that you are here to lend me your aid. If so, then I need you to bring back to me a good quantity of the herb. Will you assist me, $c?",    ["Objectives"]="Bring 20 Peacebloom to Herbalist Proudfeather at the Valley of Spirits in Orgrimmar.",    ["Progress"]="Back so soon with the peacebloom, $C?",    ["Completion"]="This was no easy task, yet you have excelled. But do not be too quick to think you have impressed me, YOUR_NAME.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8550"] = {    ["Title"]="The Horde Needs More Peacebloom!",    ["Description"]="Hello again, Abyssmal. I am glad that you wish to speak to me once more concerning our neverending need for peacebloom. The war effort continues, and with it our production of potions and elixirs to aid in the battles to come. Will you help us again, $C? I am in need of the same amount of peacebloom as before, so if you can gather it up and return it to me here I would be most grateful. Of course, if you already have it on your person, I will be more than happy to accept it from you now",    ["Objectives"]="Bring 20 Peacebloom to Herbalist Proudfeather at the Valley of Spirits in Orgrimmar.",    ["Progress"]="",    ["Completion"]="Thank you for your continued efforts, YOUR_NAME. You bring great honor to yourself and your ancestors with your selfless giving, and it will be known to all! I will store these herbs away so that they stay fresh until they are needed. Once again you reveal the truest spirit of the Horde, the struggle to overcome and the promise that we can work together to do so.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8559"] = {    ["Title"]="Conqueror's Greaves",    ["Description"]="Qiraji magic is strong and ancient.  The most powerful qiraji wield items of such might, they'd give pause even to a dragon.NEW_LINENEW_LINEBring me the qiraji bindings of command and other minor components by and I'll create a set of powerful boots for you.NEW_LINENEW_LINEYou will find them useful in the fight against the enemy.",    ["Objectives"]="Bring the Qiraji Bindings of Command, 2 Idols of War, 5 Ivory Scarabs and 5 Gold Scarabs to Kandrostrasz in Ahn'Qiraj.  This quest also requires Neutral faction with the Brood of Nozdormu.",    ["Progress"]="You've acquired the items I requested, YOUR_NAME?",    ["Completion"]="You've done well, YOUR_NAME. You've proven you're no ordinary mortal.NEW_LINENEW_LINEI give you these with the confidence they'll aid you in crushing the vile qiraji.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8560"] = {    ["Title"]="Conqueror's Legguards",    ["Description"]="You seek to prove your worth to my kind, mortal?  Very well, perhaps we can be of mutual assistance.NEW_LINENEW_LINEThe ancient sandworm, Ouro, is a being of legendary power.  He is rumored to have been created by the Old God himself as a mockery of life.NEW_LINENEW_LINEHis skin is unnatural... thick, nearly impregnable, yet it's flexible and allows him to move with the speed and grace of a much smaller creature.NEW_LINENEW_LINEBring me a sample of his skin along with other minor components and I shall craft you leggings of great power.",    ["Objectives"]="Bring Ouro's Intact Hide, 2 Idols of Death, 5 Bronze Scarabs and 5 Ivory Scarabs to Kandrostrasz inside Ahn'Qiraj. You must also attain Friendly reputation with the Brood of Nozdormu to complete this quest.",    ["Progress"]="Did you bring the components I require, YOUR_NAME?",    ["Completion"]="Yes... the worm's hide will make for an excellent protective layer. Combined with the strongest parts from the Qiraji we've destroyed on our way here, this should make for a formidable piece of armor. May it aid you in facing the unspeakable horrors that await inside!",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8561"] = {    ["Title"]="Conqueror's Crown",    ["Description"]="The Twin Emperors... their incessant whispers are slowly taking a toll on my sanity.  They mock me, knowing I cannot step further into their domain to save my brother Arygos.NEW_LINENEW_LINEIn my visions I see their monstrous faces adorned by powerful crowns.  But I will have my revenge... I will transmute these symbols of Qiraji power to ones better suited to our needs.NEW_LINENEW_LINEBring me the components I require, YOUR_NAME.  I will give you a headpiece of unmatched power.",    ["Objectives"]="Bring Vek'nilash's Circlet, 2 Idols of the Sun, 5 Stone Scarabs and 5 Crystal Scarabs to Andorgos in Ahn'Qiraj.  You must also attain Friendly reputation with the Brood of Nozdormu to complete this quest.",    ["Progress"]="Did you bring me the components I asked for, YOUR_NAME?",    ["Completion"]="You've succeeded! The whispers from the Twin Emperors have ceased.NEW_LINENEW_LINETake this as a reward. The mere sight of it will strike fear in the hearts of the Qiraji... it shall remind them of their fallen leaders and of the mortal that slew them.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8562"] = {    ["Title"]="Conqueror's Breastplate",    ["Description"]="The unmentionable Old God slowly awakens from his slumber beneath Ahn'Qiraj.  The terrible fate that awaits Azeroth could come in days or years; time has no meaning for beings of his power.NEW_LINENEW_LINEWhen the stars are favorable, he will lash out against all living beings with terrible wrath.  You must find him before then and find a way to bring his existence to an end.NEW_LINENEW_LINEDo this and bring me a piece of his husk.  I shall grant you armor no mortal has ever worn... armor fit for one who has slain a god!",    ["Objectives"]="Bring the the Carapace of the Old God, 2 Idols of War, 5 Silver Scarabs and 5 Bone Scarabs to Vethsera inside Ahn'Qiraj.  You must also attain Honored reputation with the Brood of Nozdormu to complete this quest.",    ["Progress"]="At his dwelling in Ahn'Qiraj, dread C'Thun awaits in slumber.",    ["Completion"]="I did not expect you to return from your attempt, YOUR_NAME.NEW_LINENEW_LINEYou've fulfilled a destiny greater than that of most immortal beings.NEW_LINENEW_LINEBy slaying C'Thun you've not only saved all of Azeroth, you've also tipped the scales of cosmic events beyond your comprehension.NEW_LINENEW_LINEAccept this breastplate as a symbol of the glory and burden that will come as a consequence of your actions.NEW_LINENEW_LINEMay its power aid you in the challenges that await you, god-slayer!",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8572"] = {    ["Title"]="Veteran's Battlegear",    ["Description"]="The badges you collect from performing combat, logistics and tactical assignments for Cenarion Hold are more than just for show, YOUR_NAME.NEW_LINENEW_LINEYou'd be wise to hold on to them.  As you prove your loyalty to our organization I can offer you some of the gear we reserve for our closest allies in exchange for those badges.",    ["Objectives"]="Bring 7 Cenarion Combat Badges, 4 Cenarion Logistics Badges and 4 Cenarion Tactical Badges to Vargus at Cenarion Hold in Silithus.  You must also attain Honored reputation with Cenarion Circle to be able to complete this quest.",    ["Progress"]="It's in our best interest to keep our most loyal allies well geared, YOUR_NAME.",    ["Completion"]="Great work, YOUR_NAME. Please accept this on behalf of the Cenarion Circle. You've certainly earned it, friend!",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8573"] = {    ["Title"]="Champion's Battlegear",    ["Description"]="The badges you collect from performing combat, logistics and tactical assignments for Cenarion Hold are more than just for show, YOUR_NAME.NEW_LINENEW_LINEYou'd be wise to hold on to them.  As you prove your loyalty to our organization I can offer you some of the gear we reserve for our closest allies in exchange for those badges.",    ["Objectives"]="Bring 15 Cenarion Combat Badges, 20 Cenarion Logistics Badges, 20 Cenarion Tactical Badges and 1 Mark of Cenarius to Vargus at Cenarion Hold in Silithus.  You must also attain Exalted reputation with Cenarion Circle to be able to complete this quest.",    ["Progress"]="It's in our best interest to keep our most loyal allies well geared, YOUR_NAME.",    ["Completion"]="Great work, YOUR_NAME. Please accept this on behalf of the Cenarion Circle. You've certainly earned it, friend!",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8578"] = {    ["Title"]="Scrying Goggles? No Problem!",    ["Description"]="<You hear a sigh of relief escape the crate.>NEW_LINENEW_LINEYou just want his scrying goggles? Great! That will be no problem... Just give me a minute to... Hey! Where the... Dagnabbit!NEW_LINENEW_LINEWell, there's some bad news and some worse news. The bad news is that I lost the goggles. The worse news is that I lost them when I was nosing around in the Molten Core last month. Yep, the Molten Core... I guess that concludes our business! Bye!",    ["Objectives"]="Find Narain's Scrying Goggles and return them to Narain Soothfancy in Tanaris.",    ["Progress"]="The Molten Core, eh? I hope my goggles are still in one piece!",    ["Completion"]="Outstanding! Now where did I put that 500 pound chicken and Volume II of \"Draconic For Dummies???\" Oh, and here's a little something for all your hard work!",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8579"] = {    ["Title"]="Mortal Champions",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="We sense the presence of our enslaved brethren deeper inside Ahn'Qiraj; yet not even an army of dragons would be enough to rescue them, YOUR_RACE.NEW_LINENEW_LINEThe same spell that imprisoned them would place us firmly under C'Thun's control should we come any closer to him.NEW_LINENEW_LINEThe Old God has foreseen our arrival.  All hope is lost.  What difference could a mere mortal like you possibly make?",    ["Completion"]="I see that you're no ordinary mortal, YOUR_NAME.  Your chances against the Old God, however infinitely small, are greater than ours at this point.  After all, while he expects dragons at his doorstep, he is not prepared for someone like you.NEW_LINENEW_LINEJust as Anachronos and Staghelm defeated the Qiraji a thousand years ago through the alliance of mortal and dragon races, we too shall form a pact.  Gain the trust of the Bronze Dragonflight and you'll gain our trust.  Only then we shall make a true champion out of you.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8580"] = {    ["Title"]="The Horde Needs Firebloom!",    ["Description"]="Hey, $c. Ya you, mon! There be a whole mess of firebloom the Horde thinkin' they need for this Ahn'Qiraj war effort. Maybe they put it in nice things that go boom? Maybe they give it to the Alliance as fuel for their steam tanks? Who knows? Not Pele'keiki!NEW_LINENEW_LINEPele'keiki know this though... he know you gonna help him out and bring back lots of the firebloom, right, mon?",    ["Objectives"]="Bring 20 Firebloom to Batrider Pele'keiki at the Valley of Spirits in Orgrimmar.",    ["Progress"]="You not want to make Pele'keiki mad. You make Pele'keiki happy by bringing him lots of firebloom, real soon.",    ["Completion"]="Cross your fingers, friend! Here's to hoping we can save Noggle!",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8581"] = {    ["Title"]="The Horde Needs More Firebloom!",    ["Description"]="Pele'keiki know you come to help. Bring many firebloom and make him very happy. Pele'keiki might make big bombs with firebloom. Drop them on insects from his bat over Ahn'Qiraj when war come. But Pele'keiki need more firebloom, $C!NEW_LINENEW_LINEYou gonna bring Pele'keiki that firebloom, real quick now. Come back with at least as much as last time, and Pele'keiki be pleased.",    ["Objectives"]="Bring 20 Firebloom to Batrider Pele'keiki at the Valley of Spirits in Orgrimmar.",    ["Progress"]="",    ["Completion"]="This no joke, $C? You bring Pele'keiki firebloom that fast? Pele'keiki count them up right now, mon! You makin' Pele'keiki so happy, he be tellin' everyone, YOUR_NAME best firebloom collector ever! Pele'keiki can't wait for war to start. Now we really light up the sky over Silithus, right, bruddah?!",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8582"] = {    ["Title"]="The Horde Needs Purple Lotus!",    ["Description"]="The purple lotus, $c, is a reagent in a great many potions, elixirs and oils, some of which will be of use to us at Ahn'Qiraj. We're going to need to create an immense number of those potions for the war effort. And I'm going to experiment to find more uses for the lotus as well. But to do all of that I'm going to need a great quantity of the flower.NEW_LINENEW_LINEThat's where you come in. Go out into the field and collect up as many purple lotuses as you can. Is this something that you are willing to do for us?",    ["Objectives"]="Bring 20 Purple Lotus to Apothecary Jezel at the Valley of Spirits in Orgrimmar.",    ["Progress"]="Returned already with the purple lotus that I have requested, $C? It is critical that you do so in as timely as fashion as possible lest all that I am attempting here come to naught.",    ["Completion"]="A commendable effort, $C. I will measure these specimens for their appropriate usage and note your contribution. The purple lotus will then need to be properly stored until I am ready for them. As for you, if you are still available I should imagine that I'll still need more purple lotus. Please check back with me in a moment.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8583"] = {    ["Title"]="The Horde Needs More Purple Lotus!",    ["Description"]="In fact it does appear that we are in need of even more purple lotus, $C. While my own studies have yet to determine a new useful application for the herb, there are tried and true methodologies yet to be employed.NEW_LINENEW_LINEI need you to once again go out into the field and collect at least twenty purple lotus samples. Return them to me here.",    ["Objectives"]="Bring 20 Purple Lotus to Apothecary Jezel at the Valley of Spirits in Orgrimmar.",    ["Progress"]="In fact it does appear that we are in need of even more purple lotus, $C. While my own studies have yet to determine a new useful application for the herb, there are tried and true methodologies yet to be employed.NEW_LINENEW_LINEI need you to once again go out into the field and collect at least twenty purple lotus samples. Return them to me here.",    ["Completion"]="Excellent and precise work, YOUR_NAME. Your diligence is to be commended, as is your celerity. I will personally see to it that none of these purple lotus go to waste.NEW_LINENEW_LINEThank you again, and should you come by more purple lotus do not hesitate to bring them to me with utmost haste.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8588"] = {    ["Title"]="The Horde Needs Heavy Leather!",    ["Description"]="Since we're preparing for war, it might be best if we get all of the goods we need first, don't you think, mon? One of the staples of the war materiel that we're producing is heavy leather. We'll use it for just about everything, from reinforcement to armor, and good old plain tarps too.NEW_LINENEW_LINEBut first we need to get our hands on more of it. That's your job, $c. Sharpen your knife and bring me back a bundle. Then we'll talk further.",    ["Objectives"]="Bring 10 Heavy Leather to Skinner Jamani at the Valley of Spirits in Orgrimmar.",    ["Progress"]="I've got no time for games if you're just here to jibber-jabber, $C. There are too many stacks of heavy leather that need curing. Come back when you have at least ten for me.",    ["Completion"]="Oh, so you do have the heavy leather I needed. Your blade is sharp indeed, $C; these are good skins! Now that we've gotten off on the right foot with one another I'll make sure that your contribution is put to good use. And if you happen to come across more heavy leather, bring it my way.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8589"] = {    ["Title"]="The Horde Needs More Heavy Leather!",    ["Description"]="It's true, $C, I still need more heavy leather. The requests from the generals and their quartermasters seem endless. And that's nothing compared to what the zeppelin masters are asking for!NEW_LINENEW_LINEI need to get my quota collected on the double. Baekun, bring me more stacks of heavy leather as soon as you can!",    ["Objectives"]="Bring 10 Heavy Leather to Skinner Jamani at the Valley of Spirits in Orgrimmar.",    ["Progress"]="It's true, $C, I still need more heavy leather. The requests from the generals and their quartermasters seem endless. And that's nothing compared to what the zeppelin masters are asking for!NEW_LINENEW_LINEI need to get my quota collected on the double. YOUR_NAME, bring me more stacks of heavy leather as soon as you can!",    ["Completion"]="You da mon, mon! Thank you so much for the heavy leather. Every little bit gets us that much closer. I'll just get these onto a pile so that the other leatherworkers can get to work on them.NEW_LINENEW_LINEThanks again, YOUR_NAME, and if you come across more stacks of heavy leather, you know where you can find me.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8590"] = {    ["Title"]="The Horde Needs Thick Leather!",    ["Description"]="I'm glad that you decided to speak to me about this, $c. It looks like the Horde's preparations for the upcoming Ahn'Qiraj War are in full swing. But you and I still need to do our part.NEW_LINENEW_LINEI've been asked to collect a great number of thick leather skins for use in all manner of war materiel, and I need you to help me by going out there and gathering them up. There's honor and the gratitude of the Horde in it for you should you decide to help. Will you?",    ["Objectives"]="Bring 10 Thick Leather to Sergeant Umala at the Valley of Spirits in Orgrimmar.",    ["Progress"]="$C, have you returned so soon with the ten thick leather that we discussed?",    ["Completion"]="Good work, $C. I'm sure that these thick leather skins will be put to use reinforcing zeppelins and making all manner of armor and weaponry. You have my thanks, and that of the Horde. Come back again if you come across more thick leather in your travels, and luck be with you.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8591"] = {    ["Title"]="The Horde Needs More Thick Leather!",    ["Description"]="Druid, as you can see I still need to gather up more thick leather. Once again I ask your help with this task, and promise that if you complete it, you will be recognized for your efforts.NEW_LINENEW_LINETime is of the essence! Return to me with the thick leather so that we can finish our preparations and go to war, hero!",    ["Objectives"]="Bring 10 Thick Leather to Sergeant Umala at the Valley of Spirits in Orgrimmar.",    ["Progress"]="$C, as you can see I still need to gather up more thick leather. Once again I ask your help with this task, and promise that if you complete it, you will be recognized for your efforts.NEW_LINENEW_LINETime is of the essence! Return to me with the thick leather so that we can finish our preparations and go to war,  hero !",    ["Completion"]="You did it, YOUR_NAME, I knew that you would! Once again, thank you on behalf of the entire Horde. Your efforts have been noted and are greatly appreciated. And if you find yourself with more thick leather that you'd like to donate, bring them to me here.NEW_LINENEW_LINELok'tar Ogar, $C!",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8592"] = {    ["Title"]="Tiara of the Oracle",    ["Description"]="The Twin Emperors... their incessant whispers are slowly taking a toll on my sanity.  They mock me, knowing I cannot step further into their domain to save my brother Arygos.NEW_LINENEW_LINEIn my visions I see their monstrous faces adorned by powerful crowns.  But I will have my revenge... I will transmute these symbols of Qiraji power to ones better suited to our needs.NEW_LINENEW_LINEBring me the components I require, YOUR_NAME.  I will give you a headpiece of unmatched power.",    ["Objectives"]="Bring Vek'nilash's Circlet, 2 Idols of the Sage, 5 Silver Scarabs and 5 Bone Scarabs to Andorgos in Ahn'Qiraj.  You must also attain Friendly reputation with the Brood of Nozdormu to complete this quest.",    ["Progress"]="Did you bring me the components I asked for, YOUR_NAME?",    ["Completion"]="You've succeeded! The whispers from the Twin Emperors have ceased.NEW_LINENEW_LINETake this as a reward. The mere sight of it will strike fear in the hearts of the Qiraji... it shall remind them of their fallen leaders and of the mortal that slew them.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8593"] = {    ["Title"]="Trousers of the Oracle",    ["Description"]="You seek to prove your worth to my kind, mortal?  Very well, perhaps we can be of mutual assistance.NEW_LINENEW_LINEThe ancient sandworm, Ouro, is a being of legendary power.  He is rumored to have been created by the Old God himself as a mockery of life.NEW_LINENEW_LINEHis skin is unnatural... thick, nearly impregnable, yet it's flexible and allows him to move with the speed and grace of a much smaller creature.NEW_LINENEW_LINEBring me a sample of his skin along with other minor components and I shall craft you leggings of great power.",    ["Objectives"]="Bring Ouro's Intact Hide, 2 Idols of Life, 5 Gold Scarabs and 5 Clay Scarabs to Kandrostrasz inside Ahn'Qiraj. You must also attain Friendly reputation with the Brood of Nozdormu to complete this quest.",    ["Progress"]="Did you bring the components I require, YOUR_NAME?",    ["Completion"]="Yes... the worm's skin will make for an excellent protective layer.  Combined with the strongest parts from the Qiraji we've destroyed on our way here, this should make for a formidable piece of armor.  May it aid you in facing the unspeakable horrors that await inside!",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8594"] = {    ["Title"]="Mantle of the Oracle",    ["Description"]="It is said among us that the ornate shoulder armor worn by the mortal races started as an attempt to emulate the wings of a dragon.NEW_LINENEW_LINEBring me the bindings worn by the highest Qiraji leaders and I shall shape them into a set of pauldrons more dreadful than even the wings of Nefarian himself!",    ["Objectives"]="Bring the Qiraji Bindings of Command, 2 Idols of Rebirth, 5 Silver Scarabs and 5 Ivory Scarabs to Andorgos in Ahn'Qiraj.  You must also attain Neutral reputation with the Brood of Nozdormu to complete this quest.",    ["Progress"]="Have you collected the components I require?",    ["Completion"]="From the materials you bring and from the scales of our fallen Qiraji foes I make you these pauldrons, mortal. May they grant you the protection you need and may the sight of them strike fear into our enemies.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8595"] = {    ["Title"]="Mortal Champions",    ["Description"]="I see that you're no ordinary mortal, YOUR_NAME. Your chances against the Old God, however infinitely small, are greater than ours at this point. After all, while he expects dragons at his doorstep, he is not prepared for someone like you.NEW_LINENEW_LINEJust as Anachronos and Staghelm defeated the Qiraji a thousand years ago through the alliance of mortal and dragon races, we too shall form a pact. Gain the trust of the Bronze Dragonflight and you'll gain our trust. Only then we shall make a true champion out of you.",    ["Objectives"]="",    ["Progress"]="Killing one Qiraji lord is a notable accomplishment for a mortal, YOUR_NAME.  They are however, numerous and powerful.  Continue to defeat them to prove your worth as our champion.",    ["Completion"]="You continue to serve us well, YOUR_NAME.  Our pact remains in place.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8596"] = {    ["Title"]="Footwraps of the Oracle",    ["Description"]="Qiraji magic is strong and ancient.  The most powerful qiraji wield items of such might, they'd give pause even to a dragon.NEW_LINENEW_LINEBring me the qiraji bindings of command and other minor components by and I'll create a set of powerful boots for you.NEW_LINENEW_LINEYou will find them useful in the fight against the enemy.",    ["Objectives"]="Bring the Qiraji Bindings of Command, 2 Idols of Death, 5 Bronze Scarabs and 5 Gold Scarabs to Kandrostrasz in Ahn'Qiraj.  This quest also requires Neutral faction with the Brood of Nozdormu.",    ["Progress"]="You've acquired the items I requested, YOUR_NAME?",    ["Completion"]="You've done well, YOUR_NAME. You've proven you're no ordinary mortal.NEW_LINENEW_LINEI give you these with the confidence they'll aid you in crushing the vile qiraji.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8600"] = {    ["Title"]="The Horde Needs Rugged Leather!",    ["Description"]="I find that the fit of the knife in your palm is more important than the edge on it. Even the dullest blade can be made to cut if pressure is being properly applied through it, wouldn't you agree, $c? But you and I don't have such problems as we maintain the sharpest of edges, yes? NEW_LINENEW_LINEWell, no matter, I have a task for you. In service to the Horde, and to do your part for the Ahn'Qiraj war effort, I want you to return to me with a number of rugged leather skins. This is something that you will do, no?",    ["Objectives"]="Bring 10 Rugged Leather to Doctor Serratus at the Valley of Spirits in Orgrimmar.",    ["Progress"]="It couldn't possibly be taking you this long to slice off ten rugged leather for me! Perhaps you should sharpen your skinning knife? Or, perhaps I am mistaken and you have them there in your pack?",    ["Completion"]="Very well, it appears you've done a fairly decent job of it, though some of those skins look a bit ragged about the edges. No matter, the task is completed, and you have earned your reward. Should you come across another stack of rugged leather, be sure to bring them to me posthaste.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8601"] = {    ["Title"]="The Horde Needs More Rugged Leather!",    ["Description"]="Preparations for the impending war at Ahn'Qiraj are proceeding, $C. However, to ensure that we do not fall behind, or at least that I am not the one that causes us to fall behind, I want for you to bring back another stack of rugged leather. Your prompt attention to this matter will be greatly appreciated, YOUR_NAME.",    ["Objectives"]="Bring 10 Rugged Leather to Doctor Serratus at the Valley of Spirits in Orgrimmar.",    ["Progress"]="Preparations for the impending war at Ahn'Qiraj are proceeding, $C. However, to ensure that we do not fall behind, or at least that I am not the one that causes us to fall behind, I want for you to bring back another stack of rugged leather. Your prompt attention to this matter will be greatly appreciated, YOUR_NAME.",    ["Completion"]="Practice, practice, practice. A well honed knife and the skill to use it will get you far in this world, YOUR_NAME. Looks like the edges on these skins are better than the last. Did you buy a new knife?NEW_LINENEW_LINEIn any case, we thank you for your efforts. Your donation has been noted, and will be put to good use I can assure you. Should you find yourself in the possession of more rugged leather, be sure to come back and speak with me, as I will probably need it.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8602"] = {    ["Title"]="Stormcaller's Pauldrons",    ["Description"]="It is said among us that the ornate shoulder armor worn by the mortal races started as an attempt to emulate the wings of a dragon.NEW_LINENEW_LINEBring me the bindings worn by the highest Qiraji leaders and I shall shape them into a set of pauldrons more dreadful than even the wings of Nefarian himself!",    ["Objectives"]="Bring the Qiraji Bindings of Dominance, 2 Idols of Life, 5 Gold Scarabs and 5 Crystal Scarabs to Andorgos in Ahn'Qiraj.  You must also attain Neutral reputation with the Brood of Nozdormu to complete this quest.",    ["Progress"]="Have you collected the components I require?",    ["Completion"]="From the materials you bring and from the scales of our fallen Qiraji foes I make you these pauldrons, mortal. May they grant you the protection you need and may the sight of them strike fear into our enemies.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8603"] = {    ["Title"]="Vestments of the Oracle",    ["Description"]="The unmentionable Old God slowly awakens from his slumber beneath Ahn'Qiraj.  The terrible fate that awaits Azeroth could come in days or years; time has no meaning for beings of his power.NEW_LINENEW_LINEWhen the stars are favorable, he will lash out against all living beings with terrible wrath.  You must find him before then and find a way to bring his existence to an end.NEW_LINENEW_LINEDo this and bring me a piece of his husk.  I shall grant you armor no mortal has ever worn... armor fit for one who has slain a god!",    ["Objectives"]="Bring the the Husk of the Old God, 2 Idols of Death, 5 Stone Scarabs and 5 Crystal Scarabs to Vethsera inside Ahn'Qiraj.  You must also attain Honored reputation with the Brood of Nozdormu to complete this quest.",    ["Progress"]="At his dwelling in Ahn'Qiraj, dread C'Thun awaits in slumber.",    ["Completion"]="I did not expect you to return from your attempt, YOUR_NAME.NEW_LINENEW_LINEYou've fulfilled a destiny greater than that of most immortal beings.NEW_LINENEW_LINEBy slaying C'Thun you've not only saved all of Azeroth, you've also tipped the scales of cosmic events beyond your comprehension.NEW_LINENEW_LINEAccept these vestments as a symbol of the glory and burden that will come as a consequence of your actions.NEW_LINENEW_LINEMay their power aid you in the challenges that await you, god-slayer!",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8604"] = {    ["Title"]="The Horde Needs Wool Bandages!",    ["Description"]="Greetings, $c. In preparation for the war at Ahn'Qiraj, I am here coordinating the Horde's efforts at gathering wool bandages. Unfortunately, out in the field, our soldiers cannot afford to rely upon the presence of a healer to keep them alive. Trust me, I know first hand. Thus, we're putting together all of these first aid kits for them.NEW_LINENEW_LINEIf you have the time, I need many wool bandages. Return them to me here and I will see to it that you are properly rewarded.",    ["Objectives"]="Bring 20 Wool Bandages to Healer Longrunner at the Valley of Spirits in Orgrimmar.",    ["Progress"]="Ah, $C, have you returned so quickly with the wool bandages?",    ["Completion"]="You have my sincere gratitude. Your efforts in helping Cenarion Hold have shown true courage.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8605"] = {    ["Title"]="The Horde Needs More Wool Bandages!",    ["Description"]="Good to see you again, $C. We are still working on preparations here for the war effort, and I can still use all of the help that you can give in gathering up wool bandaging. Any assistance at all will be greatly appreciated. I only hope that our efforts will be good enough. I've lost too many noble souls on the battlefields of yesterday to not do everything in my power to see to it that doesn't happen again.",    ["Objectives"]="Bring 20 Wool Bandages to Healer Longrunner at the Valley of Spirits in Orgrimmar.",    ["Progress"]="",    ["Completion"]="You are an honorable $C, YOUR_NAME! I will see to it that these bandages get into the right hands. You have my thanks, and that of the Horde.NEW_LINENEW_LINEGo in peace, and return to me again should you find yourself with excess wool bandaging. We can use all of the help that we can get here.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8607"] = {    ["Title"]="The Horde Needs Mageweave Bandages!",    ["Description"]="I trust that you are speaking to me because you are going to help with the collection I have been entrusted to? Good! By whatever means, and I do mean whatever, I wish for you to gather up a good number of mageweave bandages. Fresh would be nice, but not absolutely necessary. Return them to me here, $c, and I will personally see to it that you are properly rewarded.",    ["Objectives"]="Bring 20 Mageweave Bandages to Lady Callow at the Valley of Spirits in Orgrimmar.",    ["Progress"]="Do not fail and make me look bad, $C! Return here as quickly as possible with the mageweave bandages we discussed.",    ["Completion"]="Surprising, yet acceptable. Perhaps I underestimated your 'abilities', $C. Perhaps. You completed a very simple task, and for doing so you are to be rewarded out of proportion. But don't let it go to your head. If you really want to prove yourself you should get out there and bring me another bundle of mageweave bandages.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8608"] = {    ["Title"]="The Horde Needs More Mageweave Bandages!",    ["Description"]="You returned? Interesting. As you can see I am still collecting for the Ahn'Qiraj 'war effort'. Which means that I need you to once again go out and collect a stack of mageweave bandages for me. I look forward to your return, $C.",    ["Objectives"]="Bring 20 Mageweave Bandages to Lady Callow at the Valley of Spirits in Orgrimmar.",    ["Progress"]="You returned? Interesting. As you can see I am still collecting for the Ahn'Qiraj 'war effort'. Which means that I need you to once again go out and collect a stack of mageweave bandages for me. I look forward to your return, $C.",    ["Completion"]="Astounding, $C, you actually did it again! Well, they do say that I have good taste in those that I choose to place in my service. Very well, your contribution is noted and you will receive the social benefits that your efforts have afforded. I suggest though that you go back out and gather yet another bundle of mageweave bandages if you truly wish to prove your worth.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8609"] = {    ["Title"]="The Horde Needs Runecloth Bandages!",    ["Description"]="It appears inevitable that the Horde and Alliance are on a collision course for war at Ahn'Qiraj. Surprisingly, it is not a war with each other, but rather with the silithid, and whatever force controls them. Also surprisingly, both sides are doing their part to gather the resources necessary to wage a successful war.NEW_LINENEW_LINEI am collecting runecloth bandages to distribute to the soldiers, but I won't be successful without assistance, hopefully yours. Is this something that you can aid me with, $c?",    ["Objectives"]="Bring 20 Runecloth Bandages to Stoneguard Clayhoof at the Valley of Spirits in Orgrimmar.",    ["Progress"]="The war comes soon, I think, $C. I thank you for your time and effort devoted to helping with our gathering tasks. Do you return because you have obtained the runecloth bandages that we spoke of before?",    ["Completion"]="Sweet, you got it!",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8610"] = {    ["Title"]="The Horde Needs More Runecloth Bandages!",    ["Description"]="Ever does the time grow nearer when we shall launch ourselves headlong into the conflagration at Ahn'Qiraj, priest. But first we must gather our strength and prepare so that we can survive the onslaught of the insects and their masters.NEW_LINENEW_LINEIf you are here again, then surely you wish to make another contribution of runecloth bandages to the war effort? Please do so as soon as you can and return to me once more.",    ["Objectives"]="Bring 20 Runecloth Bandages to Stoneguard Clayhoof at the Valley of Spirits in Orgrimmar.",    ["Progress"]="",    ["Completion"]="It is a very selfless act of giving that you perform, YOUR_NAME. One that is likely to save the lives of many combatants at Ahn'Qiraj. Thank you and know that you have the appreciation of the Horde for your donation. Should you create, or come across, more runecloth bandages, please consider bringing them to me here.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8611"] = {    ["Title"]="The Horde Needs Lean Wolf Steaks!",    ["Description"]="I'm not standing here just to get a nice tan, $c. There are war preparations to be made. If we're going to crush those bugs at Ahn'Qiraj then we need to be ready, and that includes food too!NEW_LINENEW_LINEThey have me gathering and salting lean wolf steaks here for the upcoming war. But since I need to stay here to take care of all of this, I need you to go out, kill some wolves and then cook up the meat into lean wolf steaks and bring them back to me here. You got all that?",    ["Objectives"]="Bring 20 Lean Wolf Steaks to Bloodguard Rawtar at the Valley of Spirits in Orgrimmar.",    ["Progress"]="Back with those lean wolf steaks so soon, $C? I don't care if they're overcooked or tartar, just make sure they're tasty and get them to me quick!",    ["Completion"]="Ok, this stack of meat looks good to me. I'll salt them, and then pack them away and hopefully they'll keep fresh enough to be edible when the time comes.NEW_LINENEW_LINEThanks for the contribution, $C. Do you think you could bring me another rack?",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8612"] = {    ["Title"]="The Horde Needs More Lean Wolf Steaks!",    ["Description"]="As you can see, $C, we still need to pack away more food for the soldiers. I don't know if you've ever been in a war before, but once you get past the initial shock of the battlefield, you can get pretty hungry. You did a good job last time, so I expect that you'll do as well, if not a little quicker, in getting me another stack of those lean wolf steaks.",    ["Objectives"]="Bring 20 Lean Wolf Steaks to Bloodguard Rawtar at the Valley of Spirits in Orgrimmar.",    ["Progress"]="As you can see, $C, we still need to pack away more food for the soldiers. I don't know if you've ever been in a war before, but once you get past the initial shock of the battlefield, you can get pretty hungry.  You did a good job last time, so I expect that you'll do as well, if not a little quicker, in getting me another stack of those lean wolf steaks.",    ["Completion"]="Smells like you, or someone you know, are quite the cook, YOUR_NAME. Those lean wolf steaks are making my mouth water; I suppose a few going missing won't be noticed. Anyway, good work. I'll make sure someone packs them away right so that they don't spoil too much.NEW_LINENEW_LINEIf you come across more, you know where to find me.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8613"] = {    ["Title"]="The Horde Needs Spotted Yellowtail!",    ["Description"]="It be a nice day for fishin', don't'cha think mon? Good thing, cuz I be needin' a lot of fish it lookin' like. The Horde, they askin' me to be in charge of collectin' a ton of the spotted yellowtail for them. They say they needin' it for the war they getting' ready for at Ahn'Qiraj. I say to them I do the best I can. So I be needin' to get some help. You gonna be helpin' me, $c?",    ["Objectives"]="Bring 20 Spotted Yellowtail to Fisherman Lin'do at the Valley of Spirits in Orgrimmar.",    ["Progress"]="The sprite darters can be dangerous critters when provoked. Be careful when dealing with them, $C. And be even more careful of any night elves in the area. The pestering fools tend to hold up in the forests also.NEW_LINENEW_LINEWhen you've gotten enough of the wings, let me know, I'll be sure to reward you well!",    ["Completion"]="Wonderful, $C! These will do nicely. There are enough here to make a cloak for Korrin, and possibly even more! Thank you.NEW_LINENEW_LINEI hope the trip wasn't too dangerous? The area of Feralas is not known for being forgiving, but you've obviously done well enough.NEW_LINENEW_LINEThank you again, $C.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8614"] = {    ["Title"]="The Horde Needs More Spotted Yellowtail!",    ["Description"]="So as you can see, we still be needin' a lot of the fishies. The combatants in the upcomin' Ahn'Qiraj War gonna be needin' a lot to eat, so I needin' to get all the spotted yellowtail that I can. You catch 'em, cook 'em, and bringin' 'em back to me here, and I be givin' you thanks, and the thanks of the Horde.",    ["Objectives"]="Bring 20 Spotted Yellowtail to Fisherman Lin'do at the Valley of Spirits in Orgrimmar.",    ["Progress"]="",    ["Completion"]="That be the best catch yet, YOUR_NAME! Good, honest work right there. And no bones too! Thanks goin' out to you for this spotted yellowtail here mon. Come back soon if you cookin' up some more!",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8615"] = {    ["Title"]="The Horde Needs Baked Salmon!",    ["Description"]="The Ahn'Qiraj war effort is an immense undertaking, $c. All of the materials being gathered here, whether it is metal for weapons, or food to eat, are all as important as the other. For, if you haven't eaten in days you will not have the strength to lift your axe when it matters.NEW_LINENEW_LINEThus, we gather what food we can. I am collecting baked salmon, a dish that was chosen both for its sustenance and its ability to keep well. Can you aid me with this task, $c?",    ["Objectives"]="Bring 20 Baked Salmon to Chief Sharpclaw at the Valley of Spirits in Orgrimmar.",    ["Progress"]="The sprite darters can be dangerous critters when provoked. Be careful when dealing with them, $C. And be even more careful of any night elves in the area. The pestering fools tend to hold up in the forests also.NEW_LINENEW_LINEWhen you've gotten enough of the wings, let me know, I'll be sure to reward you well!",    ["Completion"]="Wonderful, $C! These will do nicely. There are enough here to make a cloak for Korrin, and possibly even more! Thank you.NEW_LINENEW_LINEI hope the trip wasn't too dangerous? The area of Feralas is not known for being forgiving, but you've obviously done well enough.NEW_LINENEW_LINEThank you again, $C.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8616"] = {    ["Title"]="The Horde Needs More Baked Salmon!",    ["Description"]="The last batch of baked salmon that you donated to the war effort looked very delicious, $C. I must admit that I was tempted to take a few for myself. As you can tell, we have not yet reached our quota here. I am hoping you have returned because you have another stack of baked salmon with you",    ["Objectives"]="Bring 20 Baked Salmon to Chief Sharpclaw at the Valley of Spirits in Orgrimmar.",    ["Progress"]="",    ["Completion"]="",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8621"] = {    ["Title"]="Stormcaller's Footguards",    ["Description"]="Qiraji magic is strong and ancient.  The most powerful qiraji wield items of such might, they'd give pause even to a dragon.NEW_LINENEW_LINEBring me the qiraji bindings of dominance and other minor components and I'll create a set of powerful boots for you.NEW_LINENEW_LINEYou will find them useful in the fight against the enemy.",    ["Objectives"]="Bring the Qiraji Bindings of Dominance, 2 Idols of the Sage, 5 Bronze Scarabs and 5 Clay Scarabs to Kandrostrasz in Ahn'Qiraj.  This quest also requires Neutral faction with the Brood of Nozdormu.",    ["Progress"]="You've acquired the items I requested, YOUR_NAME?",    ["Completion"]="You've done well, YOUR_NAME.  You've proven you're no ordinary mortal.NEW_LINENEW_LINEI give you these with the confidence they'll aid you in crushing the vile qiraji.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8622"] = {    ["Title"]="Stormcaller's Hauberk",    ["Description"]="The unmentionable Old God slowly awakens from his slumber beneath Ahn'Qiraj.  The terrible fate that awaits Azeroth could come in days or years; time has no meaning for beings of his power.NEW_LINENEW_LINEWhen the stars are favorable, he will lash out against all living beings with terrible wrath.  You must find him before then and find a way to bring his existence to an end.NEW_LINENEW_LINEDo this and bring me a piece of his husk.  I shall grant you armor no mortal has ever worn... armor fit for one who has slain a god!",    ["Objectives"]="Bring the Carapace of the Old God, 2 Idols of the Sage, 5 Silver Scarabs and 5 Bone Scarabs to Vethsera inside Ahn'Qiraj.  You must also attain Honored reputation with the Brood of Nozdormu to complete this quest.",    ["Progress"]="You've acquired the items I requested, YOUR_NAME?",    ["Completion"]="I did not expect you to return from your attempt, YOUR_NAME.NEW_LINENEW_LINEYou've fulfilled a destiny greater than that of most immortal beings.NEW_LINENEW_LINEBy slaying C'Thun you've not only saved all of Azeroth, you've also tipped the scales of cosmic events beyond your comprehension.NEW_LINENEW_LINEAccept this breastplate as a symbol of the glory and burden that will come as a consequence of your actions.NEW_LINENEW_LINEMay its power aid you in the challenges that await you, god-slayer!",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8623"] = {    ["Title"]="Stormcaller's Diadem",    ["Description"]="The Twin Emperors... their incessant whispers are slowly taking a toll on my sanity.  They mock me, knowing I cannot step further into their domain to save my brother Arygos.NEW_LINENEW_LINEIn my visions I see their monstrous faces adorned by powerful crowns.  But I will have my revenge... I will transmute these symbols of Qiraji power to ones better suited to our needs.NEW_LINENEW_LINEBring me the components I require, YOUR_NAME.  I will give you a headpiece of unmatched power.",    ["Objectives"]="Bring Vek'lor's Diadem, 2 Idols of Rebirth, 5 Stone Scarabs and 5 Crystal Scarabs to Andorgos in Ahn'Qiraj.  You must also attain Friendly reputation with the Brood of Nozdormu to complete this quest.",    ["Progress"]="You've acquired the items I requested, YOUR_NAME?",    ["Completion"]="You've succeeded!  The whispers from the Twin Emperors have ceased.NEW_LINENEW_LINETake this as a reward.  The mere sight of it will strike fear in the hearts of the Qiraji... it shall remind them of their fallen leaders and of the mortal that slew them.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8624"] = {    ["Title"]="Stormcaller's Leggings",    ["Description"]="You seek to prove your worth to my kind, mortal?  Very well, perhaps we can be of mutual assistance.NEW_LINENEW_LINEThe ancient sandworm, Ouro, is a being of legendary power.  He is rumored to have been created by the Old God himself as a mockery of life.NEW_LINENEW_LINEHis skin is unnatural... thick, nearly impregnable, yet it's flexible and allows him to move with the speed and grace of a much smaller creature.NEW_LINENEW_LINEBring me a sample of his skin along with other minor components and I shall craft you leggings of great power.",    ["Objectives"]="Bring the Skin of the Great Sandworm, 2 Idols of Strife, 5 Bronze Scarabs and 5 Ivory Scarabs to Kandrostrasz inside Ahn'Qiraj. You must also attain Friendly reputation with the Brood of Nozdormu to complete this quest.",    ["Progress"]="You've acquired the items I requested, YOUR_NAME?",    ["Completion"]="Yes... the worm's skin will make for an excellent protective layer.  Combined with the strongest parts from the Qiraji we've destroyed on our way here, this should make for a formidable piece of armor.  May it aid you in facing the unspeakable horrors that await inside!",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8625"] = {    ["Title"]="Enigma Shoulderpads",    ["Description"]="It is said among us that the ornate shoulder armor worn by the mortal races started as an attempt to emulate the wings of a dragon.NEW_LINENEW_LINEBring me the bindings worn by the highest Qiraji leaders and I shall shape them into a set of pauldrons more dreadful than even the wings of Nefarian himself!",    ["Objectives"]="Bring the Qiraji Bindings of Dominance, 2 Idols of Death, 5 Stone Scarabs and 5 Bronze Scarabs to Andorgos in Ahn'Qiraj.  You must also attain Neutral reputation with the Brood of Nozdormu to complete this quest.",    ["Progress"]="Have you collected the components I require?",    ["Completion"]="From the materials you bring and from the scales of our fallen Qiraji foes I make you these pauldrons, mortal.  May they grant you the protection you need and may the sight of them strike fear into our enemies.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8626"] = {    ["Title"]="Striker's Footguards",    ["Description"]="Qiraji magic is strong and ancient.  The most powerful qiraji wield items of such might, they'd give pause even to a dragon.NEW_LINENEW_LINEBring me the qiraji bindings of command and other minor components by and I'll create a set of powerful boots for you.NEW_LINENEW_LINEYou will find them useful in the fight against the enemy.",    ["Objectives"]="Bring the Qiraji Bindings of Command, 2 Idols of Life, 5 Stone Scarabs and 5 Bone Scarabs to Kandrostrasz in Ahn'Qiraj.  This quest also requires Neutral faction with the Brood of Nozdormu.",    ["Progress"]="You've acquired the items I requested, YOUR_NAME?",    ["Completion"]="You've done well, YOUR_NAME. You've proven you're no ordinary mortal.NEW_LINENEW_LINEI give you these with the confidence they'll aid you in crushing the vile qiraji.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8627"] = {    ["Title"]="Avenger's Breastplate",    ["Description"]="The unmentionable Old God slowly awakens from his slumber beneath Ahn'Qiraj.  The terrible fate that awaits Azeroth could come in days or years; time has no meaning for beings of his power.NEW_LINENEW_LINEWhen the stars are favorable, he will lash out against all living beings with terrible wrath.  You must find him before then and find a way to bring his existence to an end.NEW_LINENEW_LINEDo this and bring me a piece of his husk.  I shall grant you armor no mortal has ever worn... armor fit for one who has slain a god!",    ["Objectives"]="Bring the the Carapace of the Old God, 2 Idols of the Sage, 5 Silver Scarabs and 5 Bone Scarabs to Vethsera inside Ahn'Qiraj.  You must also attain Honored reputation with the Brood of Nozdormu to complete this quest.",    ["Progress"]="At his dwelling in Ahn'Qiraj, dread C'Thun awaits in slumber.",    ["Completion"]="I did not expect you to return from your attempt, YOUR_NAME.NEW_LINENEW_LINEYou've fulfilled a destiny greater than that of most immortal beings.NEW_LINENEW_LINEBy slaying C'Thun you've not only saved all of Azeroth, you've also tipped the scales of cosmic events beyond your comprehension.NEW_LINENEW_LINEAccept this breastplate as a symbol of the glory and burden that will come as a consequence of your actions.NEW_LINENEW_LINEMay its power aid you in the challenges that await you, god-slayer!",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8628"] = {    ["Title"]="Avenger's Crown",    ["Description"]="The Twin Emperors... their incessant whispers are slowly taking a toll on my sanity.  They mock me, knowing I cannot step further into their domain to save my brother Arygos.NEW_LINENEW_LINEIn my visions I see their monstrous faces adorned by powerful crowns.  But I will have my revenge... I will transmute these symbols of Qiraji power to ones better suited to our needs.NEW_LINENEW_LINEBring me the components I require, YOUR_NAME.  I will give you a headpiece of unmatched power.",    ["Objectives"]="Bring Vek'lor's Diadem, 2 Idols of Rebirth, 5 Stone Scarabs and 5 Crystal Scarabs to Andorgos in Ahn'Qiraj.  You must also attain Friendly reputation with the Brood of Nozdormu to complete this quest.",    ["Progress"]="Did you bring me the components I asked for, YOUR_NAME?",    ["Completion"]="From the materials you bring and from the scales of our fallen Qiraji foes I make you these pauldrons, mortal. May they grant you the protection you need and may the sight of them strike fear into our enemies.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8629"] = {    ["Title"]="Avenger's Legguards",    ["Description"]="You seek to prove your worth to my kind, mortal?  Very well, perhaps we can be of mutual assistance.NEW_LINENEW_LINEThe ancient sandworm, Ouro, is a being of legendary power.  He is rumored to have been created by the Old God himself as a mockery of life.NEW_LINENEW_LINEHis skin is unnatural... thick, nearly impregnable, yet it's flexible and allows him to move with the speed and grace of a much smaller creature.NEW_LINENEW_LINEBring me a sample of his skin along with other minor components and I shall craft you leggings of great power.",    ["Objectives"]="Bring the Skin of the Great Sandworm, 2 Idols of Strife, 5 Bronze Scarabs and 5 Ivory Scarabs to Kandrostrasz inside Ahn'Qiraj. You must also attain Friendly reputation with the Brood of Nozdormu to complete this quest.",    ["Progress"]="Did you bring the components I require, YOUR_NAME?",    ["Completion"]="Yes... the worm's skin will make for an excellent protective layer. Combined with the strongest parts from the Qiraji we've destroyed on our way here, this should make for a formidable piece of armor. May it aid you in facing the unspeakable horrors that await inside!",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8630"] = {    ["Title"]="Avenger's Pauldrons",    ["Description"]="It is said among us that the ornate shoulder armor worn by the mortal races started as an attempt to emulate the wings of a dragon.NEW_LINENEW_LINEBring me the bindings worn by the highest Qiraji leaders and I shall shape them into a set of pauldrons more dreadful than even the wings of Nefarian himself!",    ["Objectives"]="Bring the Qiraji Bindings of Dominance, 2 Idols of Life, 5 Crystal Scarabs and 5 Gold Scarabs to Andorgos in Ahn'Qiraj.  You must also attain Neutral reputation with the Brood of Nozdormu to complete this quest.",    ["Progress"]="Have you collected the components I require?",    ["Completion"]="From the materials you bring and from the scales of our fallen Qiraji foes I make you these pauldrons, mortal. May they grant you the protection you need and may the sight of them strike fear into our enemies.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8631"] = {    ["Title"]="Enigma Leggings",    ["Description"]="You seek to prove your worth to my kind, mortal?  Very well, perhaps we can be of mutual assistance.NEW_LINENEW_LINEThe ancient sandworm, Ouro, is a being of legendary power.  He is rumored to have been created by the Old God himself as a mockery of life.NEW_LINENEW_LINEHis skin is unnatural... thick, nearly impregnable, yet it's flexible and allows him to move with the speed and grace of a much smaller creature.NEW_LINENEW_LINEBring me a sample of his skin along with other minor components and I shall craft you leggings of great power.",    ["Objectives"]="Bring Ouro's Intact Hide, 2 Idols of the Sage, 5 Silver Scarabs and 5 Bone Scarabs to Kandrostrasz inside Ahn'Qiraj. You must also attain Friendly reputation with the Brood of Nozdormu to complete this quest.",    ["Progress"]="You've acquired the items I requested, YOUR_NAME?",    ["Completion"]="Yes... the worm's skin will make for an excellent protective layer.  Combined with the strongest parts from the Qiraji we've destroyed on our way here, this should make for a formidable piece of armor.  May it aid you in facing the unspeakable horrors that await inside!",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8632"] = {    ["Title"]="Enigma Circlet",    ["Description"]="The Twin Emperors... their incessant whispers are slowly taking a toll on my sanity.  They mock me, knowing I cannot step further into their domain to save my brother Arygos.NEW_LINENEW_LINEIn my visions I see their monstrous faces adorned by powerful crowns.  But I will have my revenge... I will transmute these symbols of Qiraji power to ones better suited to our needs.NEW_LINENEW_LINEBring me the components I require, YOUR_NAME.  I will give you a headpiece of unmatched power.",    ["Objectives"]="Bring Vek'nilash's Circlet, 2 Idols of Night, 5 Bronze Scarabs and 5 Ivory Scarabs to Andorgos in Ahn'Qiraj.  You must also attain Friendly reputation with the Brood of Nozdormu to complete this quest.",    ["Progress"]="Did you bring me the components I asked for, YOUR_NAME?",    ["Completion"]="You've succeeded! The whispers from the Twin Emperors have ceased.NEW_LINENEW_LINETake this as a reward. The mere sight of it will strike fear in the hearts of the Qiraji... it shall remind them of their fallen leaders and of the mortal that slew them.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8633"] = {    ["Title"]="Enigma Robes",    ["Description"]="The unmentionable Old God slowly awakens from his slumber beneath Ahn'Qiraj.  The terrible fate that awaits Azeroth could come in days or years; time has no meaning for beings of his power.NEW_LINENEW_LINEWhen the stars are favorable, he will lash out against all living beings with terrible wrath.  You must find him before then and find a way to bring his existence to an end.NEW_LINENEW_LINEDo this and bring me a piece of his husk.  I shall grant you armor no mortal has ever worn... armor fit for one who has slain a god!",    ["Objectives"]="Bring the Husk of the Old God, 2 Idols of the Sun, 5 Gold Scarabs and 5 Clay Scarabs to Vethsera inside Ahn'Qiraj.  You must also attain Honored reputation with the Brood of Nozdormu to complete this quest.",    ["Progress"]="At his dwelling in Ahn'Qiraj, dread C'Thun awaits in slumber.",    ["Completion"]="I did not expect you to return from your attempt, YOUR_NAME.NEW_LINENEW_LINEYou've fulfilled a destiny greater than that of most immortal beings.NEW_LINENEW_LINEBy slaying C'Thun you've not only saved all of Azeroth, you've also tipped the scales of cosmic events beyond your comprehension.NEW_LINENEW_LINEAccept these robes as a symbol of the glory and burden that will come as a consequence of your actions.NEW_LINENEW_LINEMay their power aid you in the challenges that await you, god-slayer!",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8634"] = {    ["Title"]="Enigma Boots",    ["Description"]="Qiraji magic is strong and ancient.  The most powerful qiraji wield items of such might, they'd give pause even to a dragon.NEW_LINENEW_LINEBring me the qiraji bindings of dominance and other minor components by and I'll create a set of powerful boots for you.NEW_LINENEW_LINEYou will find them useful in the fight against the enemy.",    ["Objectives"]="Bring the Qiraji Bindings of Dominance, 2 Idols of the Sun, 5 Silver Scarabs and 5 Crystal Scarabs to Kandrostrasz in Ahn'Qiraj.  This quest also requires Neutral faction with the Brood of Nozdormu.",    ["Progress"]="You've acquired the items I requested, YOUR_NAME?",    ["Completion"]="You've done well, YOUR_NAME. You've proven you're no ordinary mortal.NEW_LINENEW_LINEI give you these with the confidence they'll aid you in crushing the vile qiraji.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8637"] = {    ["Title"]="Deathdealer's Boots",    ["Description"]="Qiraji magic is strong and ancient.  The most powerful qiraji wield items of such might, they'd give pause even to a dragon.NEW_LINENEW_LINEBring me the qiraji bindings of command and other minor components by and I'll create a set of powerful boots for you.NEW_LINENEW_LINEYou will find them useful in the fight against the enemy.",    ["Objectives"]="Bring the Qiraji Bindings of Command, 2 Idols of Strife, 5 Crystal Scarabs and 5 Bone Scarabs to Kandrostrasz in Ahn'Qiraj.  This quest also requires Neutral faction with the Brood of Nozdormu.",    ["Progress"]="You've acquired the items I requested, YOUR_NAME?",    ["Completion"]="You've done well, YOUR_NAME. You've proven you're no ordinary mortal.NEW_LINENEW_LINEI give you these with the confidence they'll aid you in crushing the vile qiraji.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8638"] = {    ["Title"]="Deathdealer's Vest",    ["Description"]="The unmentionable Old God slowly awakens from his slumber beneath Ahn'Qiraj.  The terrible fate that awaits Azeroth could come in days or years; time has no meaning for beings of his power.NEW_LINENEW_LINEWhen the stars are favorable, he will lash out against all living beings with terrible wrath.  You must find him before then and find a way to bring his existence to an end.NEW_LINENEW_LINEDo this and bring me a piece of his husk.  I shall grant you armor no mortal has ever worn... armor fit for one who has slain a god!",    ["Objectives"]="Bring the the Carapace of the Old God, 2 Idols of Strife, 5 Bronze Scarabs and 5 Ivory Scarabs to Vethsera inside Ahn'Qiraj.  You must also attain Honored reputation with the Brood of Nozdormu to complete this quest.",    ["Progress"]="At his dwelling in Ahn'Qiraj, dread C'Thun awaits in slumber.",    ["Completion"]="I did not expect you to return from your attempt, YOUR_NAME.NEW_LINENEW_LINEYou've fulfilled a destiny greater than that of most immortal beings.NEW_LINENEW_LINEBy slaying C'Thun you've not only saved all of Azeroth, you've also tipped the scales of cosmic events beyond your comprehension.NEW_LINENEW_LINEAccept this breastplate as a symbol of the glory and burden that will come as a consequence of your actions.NEW_LINENEW_LINEMay its power aid you in the challenges that await you, god-slayer!",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8639"] = {    ["Title"]="Deathdealer's Helm",    ["Description"]="The Twin Emperors... their incessant whispers are slowly taking a toll on my sanity.  They mock me, knowing I cannot step further into their domain to save my brother Arygos.NEW_LINENEW_LINEIn my visions I see their monstrous faces adorned by powerful crowns.  But I will have my revenge... I will transmute these symbols of Qiraji power to ones better suited to our needs.NEW_LINENEW_LINEBring me the components I require, YOUR_NAME.  I will give you a headpiece of unmatched power.",    ["Objectives"]="Bring Vek'lor's Diadem, 2 Idols of the War, 5 Gold Scarabs and 5 Clay Scarabs to Andorgos in Ahn'Qiraj.  You must also attain Friendly reputation with the Brood of Nozdormu to complete this quest.",    ["Progress"]="Did you bring me the components I asked for, YOUR_NAME?",    ["Completion"]="You've succeeded! The whispers from the Twin Emperors have ceased.NEW_LINENEW_LINETake this as a reward. The mere sight of it will strike fear in the hearts of the Qiraji... it shall remind them of their fallen leaders and of the mortal that slew them.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8640"] = {    ["Title"]="Deathdealer's Leggings",    ["Description"]="You seek to prove your worth to my kind, mortal?  Very well, perhaps we can be of mutual assistance.NEW_LINENEW_LINEThe ancient sandworm, Ouro, is a being of legendary power.  He is rumored to have been created by the Old God himself as a mockery of life.NEW_LINENEW_LINEHis skin is unnatural... thick, nearly impregnable, yet it's flexible and allows him to move with the speed and grace of a much smaller creature.NEW_LINENEW_LINEBring me a sample of his skin along with other minor components and I shall craft you leggings of great power.",    ["Objectives"]="Bring Ouro's Intact Hide, 2 Idols of Night, 5 Stone Scarabs and 5 Crystal Scarabs to Kandrostrasz inside Ahn'Qiraj. You must also attain Friendly reputation with the Brood of Nozdormu to complete this quest.",    ["Progress"]="You've acquired the items I requested, YOUR_NAME?",    ["Completion"]="Yes... the worm's skin will make for an excellent protective layer.  Combined with the strongest parts from the Qiraji we've destroyed on our way here, this should make for a formidable piece of armor.  May it aid you in facing the unspeakable horrors that await inside!",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8641"] = {    ["Title"]="Deathdealer's Spaulders",    ["Description"]="It is said among us that the ornate shoulder armor worn by the mortal races started as an attempt to emulate the wings of a dragon.NEW_LINENEW_LINEBring me the bindings worn by the highest Qiraji leaders and I shall shape them into a set of pauldrons more dreadful than even the wings of Nefarian himself!",    ["Objectives"]="Bring the Qiraji Bindings of Command, 2 Idols of the Sun, 5 Silver Scarabs and 5 Clay Scarabs to Andorgos in Ahn'Qiraj.  You must also attain Neutral reputation with the Brood of Nozdormu to complete this quest.",    ["Progress"]="Have you collected the components I require?",    ["Completion"]="From the materials you bring and from the scales of our fallen Qiraji foes I make you these pauldrons, mortal. May they grant you the protection you need and may the sight of them strike fear into our enemies.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8655"] = {    ["Title"]="Avenger's Greaves",    ["Description"]="Qiraji magic is strong and ancient.  The most powerful qiraji wield items of such might, they'd give pause even to a dragon.NEW_LINENEW_LINEBring me the qiraji bindings of dominance and other minor components and I'll create a set of powerful boots for you.NEW_LINENEW_LINEYou will find them useful in the fight against the enemy.",    ["Objectives"]="Bring the Qiraji Bindings of Dominance, 2 Idols of the Sage, 5 Bronze Scarabs and 5 Clay Scarabs to Kandrostrasz in Ahn'Qiraj.  This quest also requires Neutral faction with the Brood of Nozdormu.",    ["Progress"]="You've acquired the items I requested, YOUR_NAME?",    ["Completion"]="You've done well, YOUR_NAME. You've proven you're no ordinary mortal.NEW_LINENEW_LINEI give you these with the confidence they'll aid you in crushing the vile qiraji.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8656"] = {    ["Title"]="Striker's Hauberk",    ["Description"]="The unmentionable Old God slowly awakens from his slumber beneath Ahn'Qiraj.  The terrible fate that awaits Azeroth could come in days or years; time has no meaning for beings of his power.NEW_LINENEW_LINEWhen the stars are favorable, he will lash out against all living beings with terrible wrath.  You must find him before then and find a way to bring his existence to an end.NEW_LINENEW_LINEDo this and bring me a piece of his husk.  I shall grant you armor no mortal has ever worn... armor fit for one who has slain a god!",    ["Objectives"]="Bring the the Carapace of the Old God, 2 Idols of Life, 5 Gold Scarabs and 5 Clay Scarabs to Vethsera inside Ahn'Qiraj.  You must also attain Honored reputation with the Brood of Nozdormu to complete this quest.",    ["Progress"]="At his dwelling in Ahn'Qiraj, dread C'Thun awaits in slumber.",    ["Completion"]="I did not expect you to return from your attempt, YOUR_NAME.NEW_LINENEW_LINEYou've fulfilled a destiny greater than that of most immortal beings.NEW_LINENEW_LINEBy slaying C'Thun you've not only saved all of Azeroth, you've also tipped the scales of cosmic events beyond your comprehension.NEW_LINENEW_LINEAccept this breastplate as a symbol of the glory and burden that will come as a consequence of your actions.NEW_LINENEW_LINEMay its power aid you in the challenges that await you, god-slayer!",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8657"] = {    ["Title"]="Striker's Diadem",    ["Description"]="The Twin Emperors... their incessant whispers are slowly taking a toll on my sanity.  They mock me, knowing I cannot step further into their domain to save my brother Arygos.NEW_LINENEW_LINEIn my visions I see their monstrous faces adorned by powerful crowns.  But I will have my revenge... I will transmute these symbols of Qiraji power to ones better suited to our needs.NEW_LINENEW_LINEBring me the components I require, YOUR_NAME.  I will make you a headpiece of unmatched power.",    ["Objectives"]="Bring Vek'lor's Diadem, 2 Idols of Strife, 5 Bronze Scarabs and 5 Ivory Scarabs to Andorgos in Ahn'Qiraj.  You must also attain Friendly reputation with the Brood of Nozdormu to complete this quest.",    ["Progress"]="Did you bring me the components I asked for, YOUR_NAME?",    ["Completion"]="You've succeeded! The whispers from the Twin Emperors have ceased.NEW_LINENEW_LINETake this as a reward. The mere sight of it will strike fear in the hearts of the Qiraji... it shall remind them of their fallen leaders and of the mortal that slew them.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8658"] = {    ["Title"]="Striker's Leggings",    ["Description"]="You seek to prove your worth to my kind, mortal?  Very well, perhaps we can be of mutual assistance.NEW_LINENEW_LINEThe ancient sandworm, Ouro, is a being of legendary power.  He is rumored to have been created by the Old God himself as a mockery of life.NEW_LINENEW_LINEHis skin is unnatural... thick, nearly impregnable, yet it's flexible and allows him to move with the speed and grace of a much smaller creature.NEW_LINENEW_LINEBring me a sample of his skin along with other minor components and I shall craft you leggings of great power.",    ["Objectives"]="Bring the Skin of the Great Sandworm, 2 Idols of the Sun, 5 Silver Scarabs and 5 Bone Scarabs to Kandrostrasz inside Ahn'Qiraj. You must also attain Friendly reputation with the Brood of Nozdormu to complete this quest.",    ["Progress"]="You've acquired the items I requested, YOUR_NAME?",    ["Completion"]="",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8659"] = {    ["Title"]="Striker's Pauldrons",    ["Description"]="It is said among us that the ornate shoulder armor worn by the mortal races started as an attempt to emulate the wings of a dragon.NEW_LINENEW_LINEBring me the bindings worn by the highest Qiraji leaders and I shall shape them into a set of pauldrons more dreadful than even the wings of Nefarian himself!",    ["Objectives"]="Bring the Qiraji Bindings of Command, 2 Idols of War, 5 Crystal Scarabs and 5 Ivory Scarabs to Andorgos in Ahn'Qiraj.  You must also attain Neutral reputation with the Brood of Nozdormu to complete this quest.",    ["Progress"]="Have you collected the components I require?",    ["Completion"]="From the materials you bring and from the scales of our fallen Qiraji foes I make you these pauldrons, mortal. May they grant you the protection you need and may the sight of them strike fear into our enemies.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8660"] = {    ["Title"]="Doomcaller's Footwraps",    ["Description"]="Qiraji magic is strong and ancient.  The most powerful qiraji wield items of such might, they'd give pause even to a dragon.NEW_LINENEW_LINEBring me the qiraji bindings of dominance and other minor components by and I'll create a set of powerful boots for you.NEW_LINENEW_LINEYou will find them useful in the fight against the enemy.",    ["Objectives"]="Bring the Qiraji Bindings of Dominance, 2 Idols of Night, 5 Clay Scarabs and 5 Ivory Scarabs to Kandrostrasz in Ahn'Qiraj.  This quest also requires Neutral faction with the Brood of Nozdormu.",    ["Progress"]="You've acquired the items I requested, YOUR_NAME?",    ["Completion"]="You've done well, YOUR_NAME. You've proven you're no ordinary mortal.NEW_LINENEW_LINEI give you these with the confidence they'll aid you in crushing the vile qiraji.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8661"] = {    ["Title"]="Doomcaller's Robes",    ["Description"]="The unmentionable Old God slowly awakens from his slumber beneath Ahn'Qiraj.  The terrible fate that awaits Azeroth could come in days or years; time has no meaning for beings of his power.NEW_LINENEW_LINEWhen the stars are favorable, he will lash out against all living beings with terrible wrath.  You must find him before then and find a way to bring his existence to an end.NEW_LINENEW_LINEDo this and bring me a piece of his husk.  I shall grant you armor no mortal has ever worn... armor fit for one who has slain a god!",    ["Objectives"]="Bring the the Husk of the Old God, 2 Idols of Night, 5 Stone Scarabs and 5 Crystal Scarabs to Vethsera inside Ahn'Qiraj.  You must also attain Honored reputation with the Brood of Nozdormu to complete this quest.",    ["Progress"]="At his dwelling in Ahn'Qiraj, dread C'Thun awaits in slumber.",    ["Completion"]="I did not expect you to return from your attempt, YOUR_NAME.NEW_LINENEW_LINEYou've fulfilled a destiny greater than that of most immortal beings.NEW_LINENEW_LINEBy slaying C'Thun you've not only saved all of Azeroth, you've also tipped the scales of cosmic events beyond your comprehension.NEW_LINENEW_LINEAccept these robes as a symbol of the glory and burden that will come as a consequence of your actions.NEW_LINENEW_LINEMay their power aid you in the challenges that await you, god-slayer!",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8662"] = {    ["Title"]="Doomcaller's Circlet",    ["Description"]="The Twin Emperors... their incessant whispers are slowly taking a toll on my sanity.  They mock me, knowing I cannot step further into their domain to save my brother Arygos.NEW_LINENEW_LINEIn my visions I see their monstrous faces adorned by powerful crowns.  But I will have my revenge... I will transmute these symbols of Qiraji power to ones better suited to our needs.NEW_LINENEW_LINEBring me the components I require, YOUR_NAME.  I will give you a headpiece of unmatched power.",    ["Objectives"]="Bring Vek'nilash's Circlet, 2 Idols of Death, 5 Silver Scarabs and 5 Bone Scarabs to Andorgos in Ahn'Qiraj.  You must also attain Friendly reputation with the Brood of Nozdormu to complete this quest.",    ["Progress"]="Did you bring me the components I asked for, YOUR_NAME?",    ["Completion"]="You've succeeded! The whispers from the Twin Emperors have ceased.NEW_LINENEW_LINETake this as a reward. The mere sight of it will strike fear in the hearts of the Qiraji... it shall remind them of their fallen leaders and of the mortal that slew them.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8663"] = {    ["Title"]="Doomcaller's Trousers",    ["Description"]="You seek to prove your worth to my kind, mortal?  Very well, perhaps we can be of mutual assistance.NEW_LINENEW_LINEThe ancient sandworm, Ouro, is a being of legendary power.  He is rumored to have been created by the Old God himself as a mockery of life.NEW_LINENEW_LINEHis skin is unnatural... thick, nearly impregnable, yet it's flexible and allows him to move with the speed and grace of a much smaller creature.NEW_LINENEW_LINEBring me a sample of his skin along with other minor components and I shall craft you leggings of great power.",    ["Objectives"]="Bring the Skin of the Great Sandworm, 2 Idols of Rebirth, 5 Gold Scarabs and 5 Clay Scarabs to Kandrostrasz inside Ahn'Qiraj. You must also attain Friendly reputation with the Brood of Nozdormu to complete this quest.",    ["Progress"]="Did you bring the components I require, YOUR_NAME?",    ["Completion"]="Yes... the worm's skin will make for an excellent protective layer. Combined with the strongest parts from the Qiraji we've destroyed on our way here, this should make for a formidable piece of armor. May it aid you in facing the unspeakable horrors that await inside!",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8664"] = {    ["Title"]="Doomcaller's Mantle",    ["Description"]="It is said among us that the ornate shoulder armor worn by the mortal races started as an attempt to emulate the wings of a dragon.NEW_LINENEW_LINEBring me the bindings worn by the highest Qiraji leaders and I shall shape them into a set of pauldrons more dreadful than even the wings of Nefarian himself!",    ["Objectives"]="Bring the Qiraji Bindings of Dominance, 2 Idols of the Sage, 5 Bronze Scarabs and 5 Bone Scarabs to Andorgos in Ahn'Qiraj.  You must also attain Neutral reputation with the Brood of Nozdormu to complete this quest.",    ["Progress"]="Have you collected the components I require?",    ["Completion"]="From the materials you bring and from the scales of our fallen Qiraji foes I make you these pauldrons, mortal. May they grant you the protection you need and may the sight of them strike fear into our enemies.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8665"] = {    ["Title"]="Genesis Boots",    ["Description"]="Qiraji magic is strong and ancient.  The most powerful qiraji wield items of such might, they'd give pause even to a dragon.NEW_LINENEW_LINEBring me the qiraji bindings of dominance and other minor components by and I'll create a set of powerful boots for you.NEW_LINENEW_LINEYou will find them useful in the fight against the enemy.",    ["Objectives"]="Bring the Qiraji Bindings of Dominance, 2 Idols of Rebirth, 5 Stone Scarabs and 5 Silver Scarabs to Kandrostrasz in Ahn'Qiraj.  This quest also requires Neutral faction with the Brood of Nozdormu.",    ["Progress"]="You've acquired the items I requested, YOUR_NAME?",    ["Completion"]="You've done well, YOUR_NAME. You've proven you're no ordinary mortal.NEW_LINENEW_LINEI give you these with the confidence they'll aid you in crushing the vile qiraji.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8666"] = {    ["Title"]="Genesis Vest",    ["Description"]="The unmentionable Old God slowly awakens from his slumber beneath Ahn'Qiraj.  The terrible fate that awaits Azeroth could come in days or years; time has no meaning for beings of his power.NEW_LINENEW_LINEWhen the stars are favorable, he will lash out against all living beings with terrible wrath.  You must find him before then and find a way to bring his existence to an end.NEW_LINENEW_LINEDo this and bring me a piece of his husk.  I shall grant you armor no mortal has ever worn... armor fit for one who has slain a god!",    ["Objectives"]="Bring the the Husk of the Old God, 2 Idols of Rebirth, 5 Bronze Scarabs and 5 Ivory Scarabs to Vethsera inside Ahn'Qiraj.  You must also attain Honored reputation with the Brood of Nozdormu to complete this quest.",    ["Progress"]="At his dwelling in Ahn'Qiraj, dread C'Thun awaits in slumber.",    ["Completion"]="I did not expect you to return from your attempt, YOUR_NAME.NEW_LINENEW_LINEYou've fulfilled a destiny greater than that of most immortal beings.NEW_LINENEW_LINEBy slaying C'Thun you've not only saved all of Azeroth, you've also tipped the scales of cosmic events beyond your comprehension.NEW_LINENEW_LINEAccept this breastplate as a symbol of the glory and burden that will come as a consequence of your actions.NEW_LINENEW_LINEMay its power aid you in the challenges that await you, god-slayer!",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8667"] = {    ["Title"]="Genesis Helm",    ["Description"]="The Twin Emperors... their incessant whispers are slowly taking a toll on my sanity.  They mock me, knowing I cannot step further into their domain to save my brother Arygos.NEW_LINENEW_LINEIn my visions I see their monstrous faces adorned by powerful crowns.  But I will have my revenge... I will transmute these symbols of Qiraji power to ones better suited to our needs.NEW_LINENEW_LINEBring me the components I require, YOUR_NAME.  I will give you a headpiece of unmatched power.",    ["Objectives"]="Bring Vek'lor's Diadem, 2 Idols of Life, 5 Gold Scarabs and 5 Clay Scarabs to Andorgos in Ahn'Qiraj.  You must also attain Friendly reputation with the Brood of Nozdormu to complete this quest.",    ["Progress"]="Did you bring me the components I asked for, YOUR_NAME?",    ["Completion"]="You've succeeded! The whispers from the Twin Emperors have ceased.NEW_LINENEW_LINETake this as a reward. The mere sight of it will strike fear in the hearts of the Qiraji... it shall remind them of their fallen leaders and of the mortal that slew them.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8668"] = {    ["Title"]="Genesis Trousers",    ["Description"]="You seek to prove your worth to my kind, mortal?  Very well, perhaps we can be of mutual assistance.NEW_LINENEW_LINEThe ancient sandworm, Ouro, is a being of legendary power.  He is rumored to have been created by the Old God himself as a mockery of life.NEW_LINENEW_LINEHis skin is unnatural... thick, nearly impregnable, yet it's flexible and allows him to move with the speed and grace of a much smaller creature.NEW_LINENEW_LINEBring me a sample of his skin along with other minor components and I shall craft you leggings of great power.",    ["Objectives"]="Bring the Skin of the Great Sandworm, 2 Idols of War, 5 Stone Scarabs and 5 Crystal Scarabs to Kandrostrasz inside Ahn'Qiraj. You must also attain Friendly reputation with the Brood of Nozdormu to complete this quest.",    ["Progress"]="Did you bring the components I require, YOUR_NAME?",    ["Completion"]="Yes... the worm's skin will make for an excellent protective layer. Combined with the strongest parts from the Qiraji we've destroyed on our way here, this should make for a formidable piece of armor. May it aid you in facing the unspeakable horrors that await inside!",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8669"] = {    ["Title"]="Genesis Shoulderpads",    ["Description"]="It is said among us that the ornate shoulder armor worn by the mortal races started as an attempt to emulate the wings of a dragon.NEW_LINENEW_LINEBring me the bindings worn by the highest Qiraji leaders and I shall shape them into a set of pauldrons more dreadful than even the wings of Nefarian himself!",    ["Objectives"]="Bring the Qiraji Bindings of Dominance, 2 Idols of Strife, 5 Gold Scarabs and 5 Bone Scarabs to Andorgos in Ahn'Qiraj.  You must also attain Neutral reputation with the Brood of Nozdormu to complete this quest.",    ["Progress"]="Have you collected the components I require?",    ["Completion"]="From the materials you bring and from the scales of our fallen Qiraji foes I make you these pauldrons, mortal. May they grant you the protection you need and may the sight of them strike fear into our enemies.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8687"] = {    ["Title"]="Target: Hive'Zora Tunnelers",    ["Description"]="Reinforcements have been called on to join the assault on Hive'Zora.  You have been selected to target Hive'Zora tunnelers.  Report back to Commander Mar'alith after completing your task.",    ["Objectives"]="Slay 30 Hive'Zora Tunnelers and report back to Commander Mar'alith at Cenarion Hold in Silithus.  You must also bring Combat Task Briefing VII in order to complete this quest.",    ["Progress"]="You have something to tell me, $C?",    ["Completion"]="Excellent work, YOUR_NAME. Without their tunnelers, the silithid will have a hard time repairing any damage inflicted to their hive's structure. I assume you'll want a new task.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8731"] = {    ["Title"]="Field Duty",    ["Description"]="Greetings, YOUR_NAME.  Before I assign you to more involved tasks in the war, you'll need to do your share of field duty.  NEW_LINENEW_LINEYou will find Captain Skullsplit's Orgrimmar Legion outside Hive'Regal.NEW_LINENEW_LINEReport to him and come back to me with proof of your field service.  I shall have a more advanced assignment ready for you.NEW_LINENEW_LINEOh, please do your best to stay away from the Ironforge Brigade.  Tensions are high among our Alliance and Horde volunteers.",    ["Objectives"]="Report to Krug Skullsplit at the Orgrimmar Legion post in front of Hive'Regal.  Prepare your Unsigned Field Duty Papers, obtain Signed Field Duty Papers and bring them to Windcaller Kaldon in Cenarion Hold.NEW_LINENEW_LINENote: Healing or casting beneficial spells on a member of the Orgrimmar Legion will flag you for PvP.",    ["Progress"]="You've completed your field duty, YOUR_NAME?  Captain Skullsplit can be found outside of Hive'Regal.",    ["Completion"]="I can tell that Krug has little use for paperwork. He signed this in silithid blood!NEW_LINENEW_LINEVery well, YOUR_NAME. I've prepared a set of tasks that should make good use of your skills as a $C.NEW_LINENEW_LINEWith the continued efforts of you and people like you, our enemy will soon be crushed!",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8733"] = {    ["Title"]="Eranikus, Tyrant of the Dream",    ["Description"]="This is a journey of redemption, hero. Would it be that I was slain today, I would have died for a just and righteous cause. You must recover the green scepter shard. You must cleanse Eranikus of the taint placed upon him by the Old Gods.NEW_LINENEW_LINETravel to Darnassus. Just outside the city walls you will find one of my agents. This agent will set things in motion for us and inform Tyrande of our plans without alerting Staghelm.NEW_LINENEW_LINE<Malfurion sighs.>NEW_LINENEW_LINEA fall from grace a thousand years in the making...",    ["Objectives"]="Travel to the continent of Teldrassil and find Malfurion's agent somewhere outside the walls of Darnassus.",    ["Progress"]="",    ["Completion"]="The wisp is silent except for a low humming sound. Oddly enough, it is able to communicate with you through thoughts.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8737"] = {    ["Title"]="Azure Templar",    ["Description"]="The Twilight's Hammer and the elemental nobles they worship present a formidable threat to our operations in Silithus.  With the new enemies we're facing inside Ahn'Qiraj, we cannot afford to lower our guard to our enemies outside.NEW_LINENEW_LINEFind a way to summon and destroy an Azure Templar and report to Bor Wildmane.",    ["Objectives"]="Summon and slay an Azure Templar and report back to Bor Wildmane in Cenarion Hold.  You must also bring Tactical Task Briefing I in order to complete this quest.",    ["Progress"]="Is your task done yet, YOUR_NAME?",    ["Completion"]="Good job, YOUR_NAME. Here's your next assignment.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8738"] = {    ["Title"]="Hive'Regal Scout Report",    ["Description"]="We've sent our best scouts deep into the silithid hives to gather intelligence.  Scout Landion has been watching the silithid movements at Hive'Regal for several days now.  Find him and obtain a written report.  We need to be able to act on that information as soon as possible, YOUR_NAME.",    ["Objectives"]="Contact Cenarion Scout Landion inside Hive'Regal and return the Hive'Regal Scout Report to Windcaller Proudhorn at Cenarion Hold.  You must also bring Tactical Task Briefing VII in order to complete this quest.",    ["Progress"]="You'll find Scout Landion inside Hive'Regal. Hurry, YOUR_NAME! Time is of the essence.",    ["Completion"]="Your efforts are greatly appreciated, YOUR_NAME. I'll read these scouting reports right away, feel free to go over your next assignment.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8739"] = {    ["Title"]="Hive'Ashi Scout Report",    ["Description"]="We've sent our best scouts deep into the silithid hives to gather intelligence.  Scout Jalia has been watching the silithid movements at Hive'Ashi for several days now.  Find her and obtain a written report.  We need to be able to act on that information as soon as possible, YOUR_NAME.",    ["Objectives"]="Contact Cenarion Scout Jalia inside Hive'Ashi and return the Hive'Ashi Scout Report to Windcaller Proudhorn at Cenarion Hold.  You must also bring Tactical Task Briefing VIII in order to complete this quest.",    ["Progress"]="You'll find Scout Jalia inside Hive'Ashi.  Hurry, YOUR_NAME!  Time is of the essence.",    ["Completion"]="Your efforts are greatly appreciated, YOUR_NAME. I'll read these scouting reports right away, feel free to go over your next assignment.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8740"] = {    ["Title"]="Twilight Marauders",    ["Description"]="Bands of mounted Twilight's Hammer cultists have been spotted riding outside the reach of our forces in Cenarion Hold, picking off our smaller patrols and caravans.NEW_LINENEW_LINEFind and defeat the twilight marauders along with their leader, a terrible warrior by the name of Morna.  Report to Windcaller Proudhorn after completing the task.",    ["Objectives"]="Slay Twilight Marauder Morna and 5 Twilight Marauders.  Report to Windcaller Proudhorn when your task is finished.  You must also bring Tactical Task Briefing IX in order to complete this quest.",    ["Progress"]="Is your task done yet, YOUR_NAME?",    ["Completion"]="Well done, YOUR_NAME. The twilight marauders were inflicting an unacceptable number of casualties on our patrols. Here's your next assignment.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8770"] = {    ["Title"]="Target: Hive'Ashi Defenders",    ["Description"]="As the war effort mounts, the silithid presence in the area presents an ever increasing threat to our operations.  You've been selected to partake on an assault on Hive'Ashi where your primary target will consist of Hive'Ashi defenders.NEW_LINENEW_LINEReport back to Commander Mar'alith after your task is completed.",    ["Objectives"]="Slay 30 Hive'Ashi Defenders and report back to Commander Mar'alith at Cenarion Hold in Silithus.  You must also bring Combat Task Briefing I in order to complete this quest.",    ["Progress"]="You have something to tell me, $C?",    ["Completion"]="Excellent work, YOUR_NAME. Your diligence is as noteworthy as always.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8771"] = {    ["Title"]="Target: Hive'Ashi Sandstalkers",    ["Description"]="As the war effort mounts, the silithid presence in the area presents an ever increasing threat to our operations.  You've been selected to partake on an assault on Hive'Ashi where your primary target will consist of Hive'Ashi sandstalkers.NEW_LINENEW_LINEReport back to Commander Mar'alith after your task is completed.",    ["Objectives"]="Slay 30 Hive'Ashi Sandstalkers and report back to Commander Mar'alith at Cenarion Hold in Silithus.  You must also bring Combat Task Briefing II in order to complete this quest.",    ["Progress"]="You have something to tell me, $C?",    ["Completion"]="Excellent work, YOUR_NAME. Your part in the attack on Hive'Ashi has been noted.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8772"] = {    ["Title"]="Target: Hive'Zora Waywatchers",    ["Description"]="Reinforcements have been called on to join the assault on Hive'Zora.  You have been selected to target Hive'Zora waywatchers.  Report back to Commander Mar'alith after completing your task.",    ["Objectives"]="Slay 30 Hive'Zora Waywatchers and report back to Commander Mar'alith at Cenarion Hold in Silithus.  You must also bring Combat Task Briefing VI in order to complete this quest.",    ["Progress"]="You have something to tell me, $C?",    ["Completion"]="Excellent work, YOUR_NAME. Your part in the attack on Hive'Zora has been noted.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8773"] = {    ["Title"]="Target: Hive'Zora Reavers",    ["Description"]="Reinforcements have been called on to join the assault on Hive'Zora.  You have been selected to target Hive'Zora reavers.  Report back to Commander Mar'alith after completing your task.",    ["Objectives"]="Slay 30 Hive'Zora Reavers and report back to Commander Mar'alith at Cenarion Hold in Silithus.  You must also bring Combat Task Briefing IV in order to complete this quest.",    ["Progress"]="You have something to tell me, $C?",    ["Completion"]="I've heard good things about your part in the Hive'Zora attack. Keep up the good work and victory will soon be ours.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8774"] = {    ["Title"]="Target: Hive'Regal Ambushers",    ["Description"]="As the war effort mounts, the silithid presence in the area presents an ever increasing threat to our operations.  You've been selected to partake on an assault on Hive'Regal where your primary target will consist of the Hive'Regal ambushers.NEW_LINENEW_LINEReport back to Commander Mar'alith after your task is completed.",    ["Objectives"]="Kill 30 Hive'Regal Ambushers and report back to Commander Mar'alith at Cenarion Hold in Silithus.  You must also bring Combat Task Briefing VIII in order to complete this quest.",    ["Progress"]="You wish to tell me something, YOUR_NAME?",    ["Completion"]="Excellent work, YOUR_NAME. Your part in the attack on Hive'Regal has been noted.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8775"] = {    ["Title"]="Target: Hive'Regal Spitfires",    ["Description"]="As the war effort mounts, the silithid presence in the area presents an ever increasing threat to our operations.  You've been selected to partake on an assault on Hive'Regal where your primary target will consist of the airborne Hive'Regal spitfires.NEW_LINENEW_LINEReport back to Commander Mar'alith after your task is completed.",    ["Objectives"]="Kill 30 Hive'Regal Spitfires and report back to Commander Mar'alith at Cenarion Hold in Silithus.  You must also bring Combat Task Briefing IX in order to complete this quest.",    ["Progress"]="Do you have my materials, YOUR_NAME?",    ["Completion"]="Ah, yes.  Just what I needed!  I'll make a special concoction with this.  The silithid won't like it one bit!",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8776"] = {    ["Title"]="Target: Hive'Regal Slavemakers",    ["Description"]="As the war effort mounts, the silithid presence in the area presents an ever increasing threat to our operations.  You've been selected to partake on an assault on Hive'Regal where your primary target will consist of the Hive'Regal slavemakers.NEW_LINENEW_LINEReport back to Commander Mar'alith after your task is completed.",    ["Objectives"]="Kill 30 Hive'Regal Slavemakers and report back to Commander Mar'alith at Cenarion Hold in Silithus.  You must also bring Combat Task Briefing X in order to complete this quest.",    ["Progress"]="You wish to tell me something, YOUR_NAME?",    ["Completion"]="Excellent work, YOUR_NAME. Your part in the attack on Hive'Regal has been noted.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8777"] = {    ["Title"]="Target: Hive'Regal Burrowers",    ["Description"]="As the war effort mounts, the silithid presence in the area presents an ever increasing threat to our operations.  You've been selected to partake on an assault on Hive'Regal where your primary target will consist of Hive'Regal burrowers.NEW_LINENEW_LINEReport back to Commander Mar'alith after your task is completed.",    ["Objectives"]="Kill 30 Hive'Regal Burrowers and report back to Commander Mar'alith at Cenarion Hold in Silithus.  You must also bring Combat Task Briefing XI in order to complete this quest.",    ["Progress"]="You wish to tell me something, YOUR_NAME?",    ["Completion"]="Excellent work, YOUR_NAME. Your part in the attack on Hive'Regal has been noted.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8778"] = {    ["Title"]="The Ironforge Brigade Needs Explosives!",    ["Description"]="The Ironforge Brigade has put in an unusual request for highly... volatile... components.  Gather them and bring them to Mr. Nozzlespring from the Ironforge Brigade.",    ["Objectives"]="Bring 6 Oils of Immolation, 5 Goblin Rocket Fuel and 10 Dense Blasting Powder to Arcanist Nozzlespring near Hive'Zora in Silithus.  You must also bring Logistics Task Briefing IV in order to complete this quest.",    ["Progress"]="You have something for me, YOUR_NAME?",    ["Completion"]="Ah, yes!  These will come in handy!  Much obliged, YOUR_NAME!",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8779"] = {    ["Title"]="Scrying Materials",    ["Description"]="Geologist Larksbane's studies have proven to be of tremendous value to our operations in Silithus.  She has recently requested scrying materials to be used in her research.NEW_LINENEW_LINEPlease gather these materials and deliver them to her directly so that she may continue her research.",    ["Objectives"]="Bring 1 Large Brilliant Shard, 1 Large Radiant Shard and 1 Huge Emerald to Geologist Larksbane at Cenarion Hold in Silithus.  You must also bring Logistics Task Briefing V in order to complete this quest.",    ["Progress"]="You have something for me, YOUR_NAME?",    ["Completion"]="Why yes... these will be of tremendous aid!  These materials are awfully hard to come by in the desert, YOUR_NAME.  Thank you.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8780"] = {    ["Title"]="Armor Kits for the Field",    ["Description"]="The Ironforge Brigade's supply of armor kits in the battlefield is running dangerously low.  Obtain a batch and deliver them to Janela Stouthammer at the Ironforge Brigade's outpost outside Hive'Zora.",    ["Objectives"]="Bring 8 Rugged Armor Kits and 8 Heavy Armor Kits to Janela Stouthammer at the Ironforge Brigade Outpost near Hive'Zora in Silithus.  You must also bring Logistics Task Briefing VII in order to complete this quest.",    ["Progress"]="You have something for me, YOUR_NAME?",    ["Completion"]="Thanks, I'll hand these out to the lads.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8781"] = {    ["Title"]="Arms for the Field",    ["Description"]="The Ironforge Brigade has been a worthy ally in our fight in Silithus.  Unfortunately, many of their supplies were lost on their way here.  Procure a batch of weapons and deliver them to Janela Stouthammer near Hive'Zora.",    ["Objectives"]="Bring 2 Moonsteel Broadswords to Janela Stouthammer at the Ironforge Brigade Outpost outside of Hive'Zora.  You must also bring Logistics Task Briefing VI in order to complete this quest.",    ["Progress"]="You have something for me, YOUR_NAME?",    ["Completion"]="Oh, excellent!  I won't have to hear complaints about dull blades anymore.  Thank you, YOUR_NAME.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8782"] = {    ["Title"]="Uniform Supplies",    ["Description"]="The latest influx of volunteers has caused a shortage of uniforms.  Procure a batch of uniform materials and bring them to Windcaller Proudhorn.",    ["Objectives"]="Bring 1 Mooncloth, 2 Bolts of Runecloth and 1 Ironweb Spider Silk to Windcaller Proudhorn at Cenarion Hold in Silithus.  You must also bring Logistics Task Briefing VIII in order to complete this quest.",    ["Progress"]="You have something for me, YOUR_NAME?",    ["Completion"]="Ah, we were in need of these.  Your work is appreciated, YOUR_NAME.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8783"] = {    ["Title"]="Extraordinary Materials",    ["Description"]="Vargus, Cenarion Hold's blacksmith, has requested enchanted materials to be used in the crafting of powerful weapons for our forces.  Obtain these and bring them directly to Vargus so that Cenarion Hold's troops may continue to be well equipped.",    ["Objectives"]="Bring 2 Enchanted Thorium Bars and 2 Enchanted Leather to Vargus at Cenarion Hold in Silithus.  You must also bring Logistics Task Briefing IX in order to complete this quest.",    ["Progress"]="You have something for me, YOUR_NAME?",    ["Completion"]="Ah, yes.  These materials are of excellent quality.  Thank you, YOUR_NAME.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8784"] = {    ["Title"]="Secrets of the Qiraji",    ["Description"]="You have discovered an ancient Qiraji artifact! Perhaps one of the dragons near the entrance of the temple would have a use for this relic.",    ["Objectives"]="Take the Ancient Qiraji Artifact to the dragons hiding near the entrance of the temple.",    ["Progress"]="You're glowing! I know what that means...",    ["Completion"]="An exceptional find, YOUR_NAME. Simply marvelous! This will definitely give us some insight into our enemy's twisted minds.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8785"] = {    ["Title"]="The Orgrimmar Legion Needs Mojo!",    ["Description"]="The Orgrimmar Legion has put in a request for several unusual ingredients.  Given their current performance in Silithus, we'd like to comply with their request as soon as possible.  Gather the materials and bring them to the troll called Shai.",    ["Objectives"]="Bring 6 Powerful Mojo, 6 Flasks of Big Mojo and 8 Oils of Immolation to Shadow Priestess Shai near Hive'Regal in Silithus.  You must also bring Logistics Task Briefing IV in order to complete this quest.",    ["Progress"]="Do you have my materials, YOUR_NAME?",    ["Completion"]="Ah, yes. Just what I needed! I'll make a special concoction with this. The silithid won't like it one bit!",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8786"] = {    ["Title"]="Arms for the Field",    ["Description"]="The Orgrimmar Legion has put in a request for additional weapons that we haven't been able to provide at the moment.  Obtain the weapons they've requested and bring them to Merok Longstride outside of Hive'Regal.",    ["Objectives"]="Bring 3 Massive Iron Axes to Merok Longstride at the Orgrimmar Legion camp outside of Hive'Regal.  You must also bring Logistics Task Briefing VI in order to complete this quest.",    ["Progress"]="You have something for me, YOUR_NAME?",    ["Completion"]="Excellent work.  We were in short supply of these, YOUR_NAME.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8787"] = {    ["Title"]="Armor Kits for the Field",    ["Description"]="The brave volunteers of the Orgrimmar Legion have arrived to Silithus to aid us in our cause.  Their supplies of armor kits were somehow lost in the trip.  Obtain a batch of armor kits and deliver them to Merok Longstride at the location of the Orgrimmar Legion camp.",    ["Objectives"]="Bring 8 Rugged Armor Kits and 8 Heavy Armor Kits to Merok Longstride near Hive'Regal.  You must also bring Logistics Task Briefing VII in order to complete this quest.",    ["Progress"]="You have something for me, YOUR_NAME?",    ["Completion"]="Ah, yes... I will distribute these to the troops, YOUR_NAME.  The Orgrimmar Legion thanks you!",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8789"] = {    ["Title"]="Imperial Qiraji Armaments",    ["Description"]="We have not sat idly by for a millennium, YOUR_NAME.NEW_LINENEW_LINEWe have watched these beasts feast on their own when they have exhausted their utility. We have listened as they have plotted and schemed to destroy our world. And we have learned of their own internal treachery.NEW_LINENEW_LINEWeaknesses exist and we know how to use those weaknesses to our advantage.NEW_LINENEW_LINEFind and bring me their ceremonial armaments: Combined with the element created from the volatility of their own God, they will become a force of reckoning.",    ["Objectives"]="Arygos in the Temple of Ahn'Qiraj will create Elementium Infused Armaments for you should you bring him Imperial Qiraji Armaments and 3 Elementium Ore.",    ["Progress"]="Seek out what I requested. You will become greater than the sum of your parts, champion.",    ["Completion"]="Infused with Elementium, these weapons will cut through the Qiraji and their God with incredible ease.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8790"] = {    ["Title"]="Imperial Qiraji Regalia",    ["Description"]="Arygos theorizes that the element which is born of conflicts between the Old Gods and their minions is also extremely deadly to them under the right conditions. I speak of Elementium, mortal.NEW_LINENEW_LINEFind and bring me Imperial Qiraji Regalia and the toxic element and I shall infuse weapons of great power.",    ["Objectives"]="Merithra of the Dream in the Temple of Ahn'Qiraj will create Elementium Infused Armaments for you should you bring her Imperial Qiraji Regalia and 3 Elementium Ore.",    ["Progress"]="You will strike them down and free us of these bonds.",    ["Completion"]="Use the item well, YOUR_NAME. Let them feel the pain that they so dearly wish to inflict upon others.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8791"] = {    ["Title"]="The Fall of Ossirian",    ["Description"]="A terrible menace has been laid to rest. The cruel Ossirian has been vanquished.NEW_LINENEW_LINEThe denizens of Kalimdor would be relieved to know of this victory. Take Ossirian's head and present it to Commander Mar'alith of Cenarion Hold.",    ["Objectives"]="Deliver the Head of Ossirian the Unscarred to Commander Mar'alith at Cenarion Hold in Silithus.",    ["Progress"]="Ah, YOUR_NAME, you have returned! And in one piece, I might add. What news do you bring from Ahn'Qiraj?",    ["Completion"]="I offer you my highest commendation and your choice of an item of power, YOUR_NAME. You have done the people of Kalimdor a great service.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8801"] = {    ["Title"]="C'Thun's Legacy",    ["Description"]="The walls of Ahn'Qiraj tremble. A force of evil, older than the world itself, has been destroyed.NEW_LINENEW_LINEAs you look at the remnants of the colossal abomination your heart nearly freezes. Even in death you can feel the legacy of C'Thun's evil around you.NEW_LINENEW_LINEYou have done what was thought to be impossible.NEW_LINENEW_LINEYou grab at an eye stalk of the fiend, stowing it safely in your pack.NEW_LINENEW_LINETake the Eye of C'Thun to the dragons in the next chamber.",    ["Objectives"]="Take the Eye of C'Thun to Caelastrasz in the Temple of Ahn'Qiraj.",    ["Progress"]="$GLord:Lady; YOUR_NAME, you have freed us of its grasp.",    ["Completion"]="We will leave this place on our own, Lord YOUR_NAME - once we are certain that the evil within has been wholly destroyed. Your journey of legend is almost at an end.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8802"] = {    ["Title"]="The Savior of Kalimdor",    ["Description"]="To the Caverns of Time you go, $G Lord:Lady; YOUR_NAME. Anachronos awaits your return. Give him the eye of C'Thun as he will undoubtedly wish to place it in his master's collection.",    ["Objectives"]="Take the Eye of C'Thun to Anachronos at the Caverns of Time.",    ["Progress"]="$GLord:Lady; YOUR_NAME! It is over...",    ["Completion"]="The Master has left these for you, champion. From the timeless cache: A collection of artifacts spanning thousands of years - the choice is yours.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8804"] = {    ["Title"]="Desert Survival Kits",    ["Description"]="With the arrival of fresh recruits to Cenarion Hold comes the problem of keeping them alive in the desert.  Dehydration as well as numerous poisonous creatures present a serious threat to inexperienced volunteers.  Gather the supplies necessary for a desert survival kit and bring them to Calandrath in Cenarion Hold.",    ["Objectives"]="Bring 4 Globes of Water, 4 Powerful Anti-Venom and 4 Smoked Desert Dumplings to Calandrath at the inn in Cenarion Hold in Silithus.  You must also bring Logistics Task Briefing I in order to complete this quest.",    ["Progress"]="You have something for me?",    ["Completion"]="Excellent!  We were in need of these, YOUR_NAME.  Thanks.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8805"] = {    ["Title"]="Boots for the Guard",    ["Description"]="The mounted division of the Cenarion Hold guard is in short supply of ornate mithril boots.  Procure a batch and deliver them immediately to Captain Vish Kozus in Cenarion Hold.",    ["Objectives"]="Bring 3 Ornate Mithril Boots to Vish Kozus, Captain of the Guard at Cenarion Hold in Silithus.  You must also bring Logistics Task Briefing II in order to complete this quest.",    ["Progress"]="You have something for me?",    ["Completion"]="Excellent.  We were in need of these, YOUR_NAME.  Good work.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8806"] = {    ["Title"]="Grinding Stones for the Guard",    ["Description"]="The Cenarion Hold guard is in short supply of grinding stones.  Procure a batch and deliver them immediately to Captain Vish Kozus in Cenarion Hold.",    ["Objectives"]="Bring 10 Dense Grinding Stones, 10 Solid Grinding Stones and 10 Heavy Grinding Stones to Vish Kozus, Captain of the Guard at Cenarion Hold in Silithus.  You must also bring Logistics Task Briefing III in order to complete this quest.",    ["Progress"]="You have something for me?",    ["Completion"]="Excellent.  We were in need of these, YOUR_NAME.  Good work.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8807"] = {    ["Title"]="Scrying Materials",    ["Description"]="Geologist Larksbane's studies have proven to be of tremendous value to our operations in Silithus.  She has recently requested scrying materials to be used in her research.NEW_LINENEW_LINEPlease gather these materials and deliver them to her directly so that she may continue her research.",    ["Objectives"]="Bring 1 Large Brilliant Shard, 1 Large Radiant Shard and 1 Huge Emerald to Geologist Larksbane at Cenarion Hold in Silithus.  You must also bring Logistics Task Briefing V in order to complete this quest.",    ["Progress"]="You have something for me, YOUR_NAME?",    ["Completion"]="Why yes... these will be of tremendous aid!  These materials are awfully hard to come by in the desert, YOUR_NAME.  Thank you.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8808"] = {    ["Title"]="Uniform Supplies",    ["Description"]="The latest influx of volunteers has caused a shortage of uniforms.  Procure a batch of uniform materials and bring them to Windcaller Proudhorn.",    ["Objectives"]="Bring 1 Mooncloth, 2 Bolts of Runecloth and 1 Ironweb Spider Silk to Windcaller Proudhorn at Cenarion Hold in Silithus.  You must also bring Logistics Task Briefing VIII in order to complete this quest.",    ["Progress"]="You have something for me, YOUR_NAME?",    ["Completion"]="Ah, we were in need of these.  Your work is appreciated, YOUR_NAME.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8809"] = {    ["Title"]="Extraordinary Materials",    ["Description"]="Vargus, Cenarion Hold's blacksmith, has requested enchanted materials to be used in the crafting of powerful weapons for our forces.  Obtain these and bring them directly to Vargus so that Cenarion Hold's troops may continue to be well equipped.",    ["Objectives"]="Bring 2 Enchanted Thorium Bars and 2 Enchanted Leather to Vargus at Cenarion Hold in Silithus.  You must also bring Logistics Task Briefing IX in order to complete this quest.",    ["Progress"]="You have something for me, YOUR_NAME?",    ["Completion"]="Ah, yes.  These materials are of excellent quality.  Thank you, YOUR_NAME.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8810"] = {    ["Title"]="Bandages for the Field",    ["Description"]="Our supply of bandages in the battlefield is running dangerously low after the recent casualties we have incurred.  Obtain a batch of first-aid supplies and deliver them to Windcaller Proudhorn in Cenarion Hold.",    ["Objectives"]="Bring 30 Heavy Runecloth Bandages, 30 Heavy Silk Bandages and 30 Heavy Mageweave Bandages to Windcaller Proudhorn at Cenarion Hold in Silithus.  You must also bring Logistics Task Briefing X in order to complete this quest.",    ["Progress"]="You have something for me, YOUR_NAME?",    ["Completion"]="Just in time.  These supplies will save lives, YOUR_NAME.  Your work is appreciated.  Here's your next assignment.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8829"] = {    ["Title"]="The Ultimate Deception",    ["Description"]="The Twilight's Hammer operates through innumerable layers of secrecy and deceit.  While their actions are carried out in our world, they are planned in a place we have not yet been able to reach.NEW_LINENEW_LINEWe've come to believe that the stones the Twilight's Hammer uses to summon their superiors allow for two-way transportation.  To attempt to use them in this manner, we must replicate - to every last detail - a twilight emissary's robe.NEW_LINENEW_LINEGather the necessary materials and bring them to Aurel Goldleaf, YOUR_NAME.",    ["Objectives"]="Bring a Skin of Shadow, 3 Frayed Abomination Stitchings and 1 Twilight Cultist Robe to Aurel Goldleaf at Cenarion Hold in Silithus.  You must also bring Logistics Task Briefing XI in order to complete this quest.",    ["Progress"]="You have something for me?",    ["Completion"]="Yes, I believe these shall suffice.  I shall craft these into the colors worn by the Twilight Hammer's emissaries.  I pray to Elune that my skills will be able to fool our enemies once more.NEW_LINENEW_LINEBut do not be concerned with that, you've done your part and for that you will be appropriately rewarded.  You are a loyal and worthy ally, YOUR_NAME.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8830"] = {    ["Title"]="One Commendation Signet",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="For those adventurers who have but a single commendation signet, I'll exchange it for a small amount of recognition with Darnassus.NEW_LINENEW_LINEPlease bear in mind that it is better to hand over a stack of ten signets at once; your efforts will receive greater recognition in doing so.  We offer a single signet exchange as a service for those who don't have enough for a full stack of ten.NEW_LINENEW_LINEWith that being said, I stand ready to assist you if you still wish to hand in a single signet.",    ["Completion"]="Very well - your deeds have been entered into the records, and you are duly recognized for your efforts.  Keep up the good work, $C.NEW_LINENEW_LINEIf you have any more signets to hand in, then I am able to assist you further in that regard.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8831"] = {    ["Title"]="Ten Commendation Signets",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="I accept commendation signets from adventurers who have received them in the line of duty.  For each set of ten that you hand to me, I'll make sure that you receive a significant acknowledgement of your deeds with Darnassus.  I also accept single tokens, but at a much reduced rate of recognition.  We are much more interested in greater feats of duty, though no feat will be ignored.NEW_LINENEW_LINEWith that said, I'll gladly take your signets if you are ready to hand in a set.",    ["Completion"]="Excellent!  It is no small sacrifice that you've made to earn these signets, and you will be acknowledged for your service appropriately.  It's adventurers like you, YOUR_NAME, that truly make a difference.NEW_LINENEW_LINELet me know if you have additional signets to hand in; I'll gladly help you out with whatever ones you need exchanged.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8832"] = {    ["Title"]="One Commendation Signet",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="For those adventurers who have but a single commendation signet, I'll exchange it for a small amount of recognition with the Undercity.NEW_LINENEW_LINEPlease bear in mind that it is better to hand over a stack of ten signets at once; your efforts will receive greater recognition in doing so.  We offer a single signet exchange as a service for those who don't have enough for a full stack of ten.NEW_LINENEW_LINEWith that being said, I stand ready to assist you if you still wish to hand in a single signet.",    ["Completion"]="Very well - your deeds have been entered into the records, and you are duly recognized for your efforts. Keep up the good work, $C.NEW_LINENEW_LINEIf you have any more signets to hand in, then I am able to assist you further in that regard.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8833"] = {    ["Title"]="Ten Commendation Signets",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="I accept commendation signets from adventurers who have received them in the line of duty.  For each set of ten that you hand to me, I'll make sure that you receive a significant acknowledgement of your deeds with Undercity.  I also accept single tokens, but at a much reduced rate of recognition.  We are much more interested in greater feats of duty, though no feat will be ignored.NEW_LINENEW_LINEWith that said, I'll gladly take your signets if you are ready to hand in a set.",    ["Completion"]="Excellent! It is no small sacrifice that you've made to earn these signets, and you will be acknowledged for your service appropriately. It's adventurers like you, YOUR_NAME, that truly make a difference.NEW_LINENEW_LINELet me know if you have additional signets to hand in; I'll gladly help you out with whatever ones you need exchanged.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8834"] = {    ["Title"]="One Commendation Signet",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="For those adventurers who have but a single commendation signet, I'll exchange it for a small amount of recognition with Ironforge.NEW_LINENEW_LINEPlease bear in mind that it is better to hand over a stack of ten signets at once; your efforts will receive greater recognition in doing so.  We offer a single signet exchange as a service for those who don't have enough for a full stack of ten.NEW_LINENEW_LINEWith that being said, I stand ready to assist you if you still wish to hand in a single signet.",    ["Completion"]="Very well - your deeds have been entered into the records, and you are duly recognized for your efforts.  Keep up the good work, $C.NEW_LINENEW_LINEIf you have any more signets to hand in, then I am able to assist you further in that regard.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8835"] = {    ["Title"]="Ten Commendation Signets",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="I accept commendation signets from adventurers who have received them in the line of duty.  For each set of ten that you hand to me, I'll make sure that you receive a significant acknowledgement of your deeds with Ironforge.  I also accept single tokens, but at a much reduced rate of recognition.  We are much more interested in greater feats of duty, though no feat will be ignored.NEW_LINENEW_LINEWith that said, I'll gladly take your signets if you are ready to hand in a set.",    ["Completion"]="Excellent!  It is no small sacrifice that you've made to earn these signets, and you will be acknowledged for your service appropriately.  It's adventurers like you, YOUR_NAME, that truly make a difference.NEW_LINENEW_LINELet me know if you have additional signets to hand in; I'll gladly help you out with whatever ones you need exchanged.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8836"] = {    ["Title"]="One Commendation Signet",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="For those adventurers who have but a single commendation signet, I'll exchange it for a small amount of recognition with Stormwind.NEW_LINENEW_LINEPlease bear in mind that it is better to hand over a stack of ten signets at once; your efforts will receive greater recognition in doing so.  We offer a single signet exchange as a service for those who don't have enough for a full stack of ten.NEW_LINENEW_LINEWith that being said, I stand ready to assist you if you still wish to hand in a single signet.",    ["Completion"]="Very well - your deeds have been entered into the records, and you are duly recognized for your efforts. Keep up the good work, $C.NEW_LINENEW_LINEIf you have any more signets to hand in, then I am able to assist you further in that regard.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8837"] = {    ["Title"]="Ten Commendation Signets",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="I accept commendation signets from adventurers who have received them in the line of duty.  For each set of ten that you hand to me, I'll make sure that you receive a significant acknowledgement of your deeds with Stormwind.  I also accept single tokens, but at a much reduced rate of recognition.  We are much more interested in greater feats of duty, though no feat will be ignored.NEW_LINENEW_LINEWith that said, I'll gladly take your signets if you are ready to hand in a set.",    ["Completion"]="Excellent! It is no small sacrifice that you've made to earn these signets, and you will be acknowledged for your service appropriately. It's adventurers like you, YOUR_NAME, that truly make a difference.NEW_LINENEW_LINELet me know if you have additional signets to hand in; I'll gladly help you out with whatever ones you need exchanged.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8838"] = {    ["Title"]="One Commendation Signet",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="For those adventurers who have but a single commendation signet, I'll exchange it for a small amount of recognition with the Gnomeregan Exiles.NEW_LINENEW_LINEPlease bear in mind that it is better to hand over a stack of ten signets at once; your efforts will receive greater recognition in doing so.  We offer a single signet exchange as a service for those who don't have enough for a full stack of ten.NEW_LINENEW_LINEWith that being said, I stand ready to assist you if you still wish to hand in a single signet.",    ["Completion"]="Very well - your deeds have been entered into the records, and you are duly recognized for your efforts. Keep up the good work, $C.NEW_LINENEW_LINEIf you have any more signets to hand in, then I am able to assist you further in that regard.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8839"] = {    ["Title"]="Ten Commendation Signets",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="I accept commendation signets from adventurers who have received them in the line of duty.  For each set of ten that you hand to me, I'll make sure that you receive a significant acknowledgement of your deeds with the Gnomeregan Exiles.  I also accept single tokens, but at a much reduced rate of recognition.  We are much more interested in greater feats of duty, though no feat will be ignored.NEW_LINENEW_LINEWith that said, I'll gladly take your signets if you are ready to hand in a set.",    ["Completion"]="Excellent! It is no small sacrifice that you've made to earn these signets, and you will be acknowledged for your service appropriately. It's adventurers like you, YOUR_NAME, that truly make a difference.NEW_LINENEW_LINELet me know if you have additional signets to hand in; I'll gladly help you out with whatever ones you need exchanged.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8840"] = {    ["Title"]="One Commendation Signet",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="For those adventurers who have but a single commendation signet, I'll exchange it for a small amount of recognition with Orgrimmar.NEW_LINENEW_LINEPlease bear in mind that it is better to hand over a stack of ten signets at once; your efforts will receive greater recognition in doing so.  We offer a single signet exchange as a service for those who don't have enough for a full stack of ten.NEW_LINENEW_LINEWith that being said, I stand ready to assist you if you still wish to hand in a single signet.",    ["Completion"]="Very well - your deeds have been entered into the records, and you are duly recognized for your efforts. Keep up the good work, $C.NEW_LINENEW_LINEIf you have any more signets to hand in, then I am able to assist you further in that regard.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8841"] = {    ["Title"]="Ten Commendation Signets",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="I accept commendation signets from adventurers who have received them in the line of duty.  For each set of ten that you hand to me, I'll make sure that you receive a significant acknowledgement of your deeds with Orgrimmar.  I also accept single tokens, but at a much reduced rate of recognition.  We are much more interested in greater feats of duty, though no feat will be ignored.NEW_LINENEW_LINEWith that said, I'll gladly take your signets if you are ready to hand in a set.",    ["Completion"]="Excellent! It is no small sacrifice that you've made to earn these signets, and you will be acknowledged for your service appropriately. It's adventurers like you, YOUR_NAME, that truly make a difference.NEW_LINENEW_LINELet me know if you have additional signets to hand in; I'll gladly help you out with whatever ones you need exchanged.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8842"] = {    ["Title"]="One Commendation Signet",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="For those adventurers who have but a single commendation signet, I'll exchange it for a small amount of recognition with Thunder Bluff.NEW_LINENEW_LINEPlease bear in mind that it is better to hand over a stack of ten signets at once; your efforts will receive greater recognition in doing so.  We offer a single signet exchange as a service for those who don't have enough for a full stack of ten.NEW_LINENEW_LINEWith that being said, I stand ready to assist you if you still wish to hand in a single signet.",    ["Completion"]="Very well - your deeds have been entered into the records, and you are duly recognized for your efforts. Keep up the good work, $C.NEW_LINENEW_LINEIf you have any more signets to hand in, then I am able to assist you further in that regard.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8843"] = {    ["Title"]="Ten Commendation Signets",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="I accept commendation signets from adventurers who have received them in the line of duty.  For each set of ten that you hand to me, I'll make sure that you receive a significant acknowledgement of your deeds with Thunder Bluff.  I also accept single tokens, but at a much reduced rate of recognition.  We are much more interested in greater feats of duty, though no feat will be ignored.NEW_LINENEW_LINEWith that said, I'll gladly take your signets if you are ready to hand in a set.",    ["Completion"]="Excellent! It is no small sacrifice that you've made to earn these signets, and you will be acknowledged for your service appropriately. It's adventurers like you, YOUR_NAME, that truly make a difference.NEW_LINENEW_LINELet me know if you have additional signets to hand in; I'll gladly help you out with whatever ones you need exchanged.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8844"] = {    ["Title"]="One Commendation Signet",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="For those adventurers who have but a single commendation signet, I'll exchange it for a small amount of recognition with the Darkspear tribe.NEW_LINENEW_LINEPlease bear in mind that it is better to hand over a stack of ten signets at once; your efforts will receive greater recognition in doing so.  We offer a single signet exchange as a service for those who don't have enough for a full stack of ten.NEW_LINENEW_LINEWith that being said, I stand ready to assist you if you still wish to hand in a single signet.",    ["Completion"]="Very well - your deeds have been entered into the records, and you are duly recognized for your efforts. Keep up the good work, $C.NEW_LINENEW_LINEIf you have any more signets to hand in, then I am able to assist you further in that regard.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8845"] = {    ["Title"]="Ten Commendation Signets",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="I accept commendation signets from adventurers who have received them in the line of duty.  For each set of ten that you hand to me, I'll make sure that you receive a significant acknowledgement of your deeds with the Darkspear tribe.  I also accept single tokens, but at a much reduced rate of recognition.  We are much more interested in greater feats of duty, though no feat will be ignored.NEW_LINENEW_LINEWith that said, I'll gladly take your signets if you are ready to hand in a set.",    ["Completion"]="Excellent! It is no small sacrifice that you've made to earn these signets, and you will be acknowledged for your service appropriately. It's adventurers like you, YOUR_NAME, that truly make a difference.NEW_LINENEW_LINELet me know if you have additional signets to hand in; I'll gladly help you out with whatever ones you need exchanged.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8857"] = {    ["Title"]="Secrets of the Colossus - Ashi",    ["Description"]="I'm looking for battle hardened adventurers willing and able to get a fresh husk sample from the fallen Colossus of Ashi to Oglethorpe in Booty Bay. No, no, I wouldn't want you to go anywhere near that thing's corpse. Just take one of my samples and make it snappy. These things are no good to him rotten!",    ["Objectives"]="Take the Colossus of Ashi's Husk to Oglethorpe Obnoticus in Booty Bay.",    ["Progress"]="Yes? What have you got there?",    ["Completion"]="Oh the chickens I will craft from this wondrous husk! Well done, my  boy!",    ["minlevel"]="51",    ["questlevel"]="60"},
-
-	["8858"] = {    ["Title"]="Secrets of the Colossus - Regal",    ["Description"]="There ain't nothin' I'd like more than to stuff this bug husk down Oilfist's fat face... Cept, I'm stuck here collectin' samples from that overgrown cockroach. I'll be here 'till the wee mornin' hours given the size o' that thing.NEW_LINENEW_LINETake this here sample to Oilfist fer me and do it fast, $c. He's payin' BIG!NEW_LINENEW_LINEYar, Thorium Point - it be in the Searin' Gorge.",    ["Objectives"]="Take the Colossus of Regal's Husk to Overseer Oilfist in Searing Gorge.",    ["Progress"]="Hmmm...",    ["Completion"]="Excellent. We could surely devise some incredibly powerful armor from this chitin. Here's the riches you were promised.",    ["minlevel"]="51",    ["questlevel"]="60"},
-
-	["8859"] = {    ["Title"]="Secrets of the Colossus - Zora",    ["Description"]="My servants were nearly killed in their efforts to recover this sample. You absolutely must hurry! Lord Maxwell Tyrosus eagerly awaits a fresh husk sample. He believes that the secrets of this Colossus could help us in the war against the Scourge!NEW_LINENEW_LINEWhy are you still here!? To Light's Hope! Yes, you will be rewarded handsomely for your efforts...",    ["Objectives"]="Take the Colossus of Zora's Husk to Lord Maxwell Tyrosus at Light's Hope Chapel in the Eastern Plaguelands.",    ["Progress"]="You look a bit heavy in the boots, friend.",    ["Completion"]="Excellent and timely! Well done,  lad.",    ["minlevel"]="51",    ["questlevel"]="60"},
-
-	["8860"] = {    ["Title"]="New Year Celebrations!",    ["Description"]="Stormwind is holding a celebration for the new year!  All day long today you can get free booze, and at night they'll put on a firework show!  It should be pretty nice... but Booty Bay is also having a party today; I bet it'll be even better!NEW_LINENEW_LINEWell anyway, Innkeeper Allison in Stormwind needs a supply of Smoky Wood Pasture fare to help feed all the party goers.  Can you do me a favor and deliver it!NEW_LINENEW_LINEThanks, YOUR_NAME!  Innkeeper Allison is in the Gilded Rose, in the Trade District of Stormwind.",    ["Objectives"]="Bring the Smokywood Supplies to Innkeeper Allison in Stormwind.",    ["Progress"]="Greetings! Are you here for the party! Or perhaps you just need to rest those weary feet of yours...",    ["Completion"]="Oh, my Smokywood supplies! Splendid! I'll need these to feed all the people in town for the celebration!NEW_LINENEW_LINEThank you, YOUR_NAME. Please take this as payment, and don't forget to drink and dance with the revelers outside!",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8861"] = {    ["Title"]="New Year Celebrations!",    ["Description"]="Thunder Bluff is holding a celebration for the new year!  All day you'll find free booze there, and at night they'll put on a firework show!NEW_LINENEW_LINEIt should be pretty nice... but Booty Bay is also having a party today; I bet it'll be even better!NEW_LINENEW_LINEWell anyway, Innkeeper Pala in Thunder Bluff needs a supply of Smoky Wood Pasture fare to help feed all the party goers.  Can you do me a favor and deliver it!NEW_LINENEW_LINEThanks, YOUR_NAME!  Innkeeper Pala is in the inn near the bridge to Hunter's Rise.",    ["Objectives"]="Bring the Smokywood Supplies to Innkeeper Pala in Thunder Bluff.",    ["Progress"]="Good day, $C! Did you come to Thunder Bluff for our celebrations?  Or are you here to rest a weary hoof between hunts?",    ["Completion"]="Oh, very good! These supplies will help feed all our people, here to celebrate the new year!NEW_LINENEW_LINEI thank you, YOUR_NAME. You are in my debt. Please, take these coins... and heed my advice - drink heartily from the kegs outside, and join our revelers in a dance of celebration!",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8867"] = {    ["Title"]="Lunar Fireworks",    ["Description"]="Every year the druids of Moonglade hold a celebration of our city's great triumph over an ancient evil.NEW_LINENEW_LINEWe celebrate the wisdom of our elders, share in magnificent feasts and of course... shoot fireworks!NEW_LINENEW_LINEFor a small donation you can purchase colorful rockets from our vendor.  Try using some of the launchers around here, YOUR_NAME.",    ["Objectives"]="Launch 8 Lunar Fireworks and 2 Cluster Fireworks and return to a Lunar Festival Harbinger at any capital city.",    ["Progress"]="Did you find the launchers, YOUR_NAME?",    ["Completion"]="Well done, YOUR_NAME.NEW_LINENEW_LINENow that you're in the spirit of things, why don't you take this invitation to the festival in Moonglade.NEW_LINENEW_LINEIt's quite an enjoyable celebration, if you have the time to spare.  We share food, drink, stories and of course... more fireworks!NEW_LINENEW_LINEOpen the invitation while standing inside the circle of greater moonlight and you'll be transported to Moonglade.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8868"] = {    ["Title"]="Elune's Blessing",    ["Description"]="The beast Omen was once a hero of this world.  A wolf of great strength and fortune, Omen fought beside the heroes of the War of the Ancients until he succumbed to demonic magics.  Turning against his allies, he raged across Azeroth and carried death and terror in his wake.NEW_LINENEW_LINEFinally defeated here, in Moonglade, Omen now sleeps among the silt of Lake Elune'ara.  But each new year, during the festival, he stirs...NEW_LINENEW_LINEGather cohorts, YOUR_NAME, and summon and defeat the beast Omen.  Earn the blessing of Elune!",    ["Objectives"]="Summon Omen, defeat him and gain Elune's Blessing.  Return to Valadar Starsong in Nighthaven",    ["Progress"]="",    ["Completion"]="Very well done, YOUR_NAME. Defeating Omen sent his spirit back to the water of Elune'ara. Although the beast himself is blessed by Elune and so cannot die, his anger will subside for another year.",    ["minlevel"]="40",    ["questlevel"]="60"},
-
-	["8870"] = {    ["Title"]="The Lunar Festival",    ["Description"]="It's that time of the year, YOUR_NAME!  The Cenarion Circle invites all denizens of Azeroth to partake in our celebration of the Lunar Festival.  You will find the Lunar Festival Harbinger in this very city at a location marked by a blessed circle of moonlight.  She can tell you more about the holiday.",    ["Objectives"]="Talk to the Lunar Festival Harbinger in the Mystic Ward of Ironforge.  You can also talk to Lunar Festival Harbingers in other capital cities.",    ["Progress"]="",    ["Completion"]="Welcome, YOUR_NAME. Are you here to join in the festivities?",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8871"] = {    ["Title"]="The Lunar Festival",    ["Description"]="It's that time of the year, YOUR_NAME!  The Cenarion Circle invites all denizens of Azeroth to partake in our celebration of the Lunar Festival.  You will find the Lunar Festival Harbinger in this very city at a location marked by a blessed circle of moonlight.  She can tell you more about the holiday.",    ["Objectives"]="Talk to the Lunar Festival Harbinger in the Park District in Stormwind.  You can also talk to Lunar Festival Harbingers in other capital cities.",    ["Progress"]="",    ["Completion"]="Welcome, YOUR_NAME.  Are you here to join in the festivities?",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8872"] = {    ["Title"]="The Lunar Festival",    ["Description"]="It's that time of the year, YOUR_NAME!  The Cenarion Circle invites all denizens of Azeroth to partake in our celebration of the Lunar Festival.  You will find the Lunar Festival Harbinger in this very city at a location marked by a blessed circle of moonlight.  She can tell you more about the holiday.",    ["Objectives"]="Talk to the Lunar Festival Harbinger at the Cenarion Enclave in Darnassus.  You can also talk to Lunar Festival Harbingers in other capital cities.",    ["Progress"]="",    ["Completion"]="Welcome, YOUR_NAME.  Are you here to join in the festivities?",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8873"] = {    ["Title"]="The Lunar Festival",    ["Description"]="It's that time of the year, YOUR_NAME!  The Cenarion Circle invites all denizens of Azeroth to partake in our celebration of the Lunar Festival.  You will find the Lunar Festival Harbinger in this very city at a location marked by a blessed circle of moonlight.  She can tell you more about the holiday.",    ["Objectives"]="Talk to the Lunar Festival Harbinger in the Valley of Wisdom in Orgrimmar.  You can also talk to Lunar Festival Harbingers in other capital cities.",    ["Progress"]="",    ["Completion"]="Welcome, YOUR_NAME. Are you here to join in the festivities?",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8875"] = {    ["Title"]="The Lunar Festival",    ["Description"]="It's that time of the year, YOUR_NAME!  The Cenarion Circle invites all denizens of Azeroth to partake in our celebration of the Lunar Festival.  You will find the Lunar Festival Harbinger in this very city at a location marked by a blessed circle of moonlight.  She can tell you more about the holiday.",    ["Objectives"]="Talk to the Lunar Festival Harbinger at the Elder Rise in Thunder Bluff.  You can also talk to Lunar Festival Harbingers in other capital cities.",    ["Progress"]="",    ["Completion"]="Welcome, YOUR_NAME. Are you here to join in the festivities?",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8883"] = {    ["Title"]="Valadar Starsong",    ["Description"]="Now that you have your Lunar Festival invitation, you may travel to Moonglade!  There you will find many revelers, and in the village of Nighthaven Valadar Starsong and his sister Fariel await those eager to participate in the celebration.NEW_LINENEW_LINETravel to Moonglade through the greater moonlight and speak with Valadar Starsong; see what prizes you might gain during the festival!",    ["Objectives"]="Use your Lunar Festival Invitation in the moonlight to travel to Moonglade. Speak with Valadar Starsong in Nighthaven when you arrive.",    ["Progress"]="",    ["Completion"]="YOUR_NAME, welcome to Nighthaven, host of the Lunar Festival!  Although our village is normally remote and sequestered from the peoples of Azeroth, during this time of celebration we open our arms and hearts to all.NEW_LINENEW_LINEEnjoy your visit, YOUR_NAME, and speak with me or my sister again when ready.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8897"] = {    ["Title"]="Dearest Colara,",    ["Description"]="I've got to keep watch here at the gate, but I'm always worrying about my sweetheart, Colara. I only get to see her for a few hours, if I'm lucky, and well, just look at me. I've got a minor officer's pay and I could be called to the front any day now.NEW_LINENEW_LINEWould she just forget about me? There are a lot of men in the city. A lot of rich ones.NEW_LINENEW_LINEAnyways, I've scribbled some things down... nothing much, but if you could take it to her for me, that'd be great.",    ["Objectives"]="Deliver Lieutenant Heldric's Carefully Penned Note to Colara Dean outside the bank in Stormwind.",    ["Progress"]="Hello there, handsome. Something I can help you with?",    ["Completion"]="Oh, isn't that sweet! This is the first time he's ever sent me something. Do you suppose he's getting serious?NEW_LINENEW_LINEColara Heldric? I suppose it has a ring to it. Oh, but I'm getting ahead of myself. Thank you.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8898"] = {    ["Title"]="Dearest Colara,",    ["Description"]="I met a lass in Stormwind when I was last there on the bank's business. She stole my heart away. Now, I can't stop thinking about her! I'd like to send her this message - I've rewritten it twelve times!NEW_LINENEW_LINEThe mail is so full now, and I want to make sure it gets there.NEW_LINENEW_LINEIf you're heading that way, could you help me?",    ["Objectives"]="Deliver the Creased Letter to Colara Dean outside the bank in Stormwind.",    ["Progress"]="Hello there, handsome. Something I can help you with?",    ["Completion"]="Tormek? Oh yes, I do remember him. He had quite a nice beard and smile underneath.NEW_LINENEW_LINEAh, I can't believe he remembered me!",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8899"] = {    ["Title"]="Dearest Colara,",    ["Description"]="How to describe her beauty? Thousands of years of words and I am at a loss.NEW_LINENEW_LINEThese mortals confound the mind and leave us babbling fools.NEW_LINENEW_LINEI've stared at these words too long. No more eloquent meaning can I squeeze from them. No, she must have it now, or some other suitor will surely steal her eye.",    ["Objectives"]="Deliver the Immaculate Letter to Colara Dean outside the bank in Stormwind.",    ["Progress"]="Hello there, handsome. Something I can help you with?",    ["Completion"]="I've never received something like this before. How lovely!",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8900"] = {    ["Title"]="Dearest Elenia,",    ["Description"]="She was so sad. I could see that, once I saw past her state. I mean, she seemed sad - wouldn't you?NEW_LINENEW_LINEBut after talking to her, there was a connection. I didn't think anyone could understand what I was thinking, but she could.NEW_LINENEW_LINEWhen I told the others, they laughed at me, so I never spoke with her again. But I miss her. Can you take this letter to her for me? I want to be sure it finds her hands.",    ["Objectives"]="Deliver the Slightly Creased Note to Elenia Haydon near the bank in the Undercity.",    ["Progress"]="Oh, and to what do I owe this pleasure?",    ["Completion"]="You wouldn't expect an orc to be so eloquent. Of course, we never really had a chance to know them before now. Thank you for bringing this to me.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8901"] = {    ["Title"]="Dearest Elenia,",    ["Description"]="Have you ever known love, young one? It was a thing foreign to me until lately, when I met a girl from the Undercity, Elenia. It is rare enough for one of my kind to look outside our own, let alone one of the Forsaken.NEW_LINENEW_LINEBut now thoughts of her occupy my mind both days and nights.NEW_LINENEW_LINEIf you can, could you take this letter to her? I want her to come here to Mulgore. I hope that she will say yes.",    ["Objectives"]="Deliver the Carefully Written Letter to Elenia Haydon near the bank in the Undercity.",    ["Progress"]="Oh, and to what do I owe this pleasure?",    ["Completion"]="What kind words Temma writes for me. But, as much as his words move me, I cannot consider the love of a tauren. In thoughts, body and mind we are too different.NEW_LINENEW_LINEIt is good I do not have to receive these thoughts of his in person. I could not bear to break his heart.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8902"] = {    ["Title"]="Dearest Elenia,",    ["Description"]="A lifetime ago, I was betrothed to marry Elenia, my childhood sweetheart. It's been years since I thought about her last, but of late, she frequently occupies my thoughts.NEW_LINENEW_LINEPerhaps, even with everything that has passed, there can be some room in each other's lives for our love.NEW_LINENEW_LINEI'm sure she has changed, also. Can you deliver this letter to her for me? I am too nervous to give it in person.",    ["Objectives"]="Deliver the Lovingly Composed Letter to Elenia Haydon near the bank in the Undercity.",    ["Progress"]="Oh, and to what do I owe this pleasure?",    ["Completion"]="This brings back memories from a lifetime ago, YOUR_NAME. Elenia Tor. That was going to be my name, you know. We would have a beautiful ceremony out on the shores of the lake. When he retired, we'd find a farm to retire to.NEW_LINENEW_LINESimple dreams, then.NEW_LINENEW_LINEBut if he saw me now, I doubt he'd even see Elenia in me. Only cold flesh and a dead heart...",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8903"] = {    ["Title"]="Dangerous Love",    ["Description"]="There's something unnatural about this epidemic of love. It's not proper, it's an eyesore, and at worst, it could be a threat to the the safety of the Alliance itself.NEW_LINENEW_LINEJust think: what if the guards have been taken in by this strange affliction? Something must be done.NEW_LINENEW_LINEGo to one of the guards here in Stormwind and see if they've been caught up in this foolishness.",    ["Objectives"]="Get a Stormwind Guard's Card and return it to Aristan Mottar in Stormwind.",    ["Progress"]="Was I right to worry? Are the guards afflicted with this lovesickness?",    ["Completion"]="So it is true. This is unbelievable. How could this have happened? Let me think for a moment. There must be a reason behind this.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8929"] = {    ["Title"]="In Search of Anthion",    ["Description"]="Well, nothing left for us to do but try out the goblin's invention.  Word has it that Anthion was mowed down by the undead legions of Stratholme as he tried to enter its gates.NEW_LINENEW_LINETry using the device there and find out whatever Anthion knew.",    ["Objectives"]="Use the Extra-Dimensional Ghost Revealer at the entrance to Stratholme and speak with the ghost of Anthion Harmon.",    ["Progress"]="",    ["Completion"]="Deliana had you contact me? I'll do my best to help you, but first I must ask a great favor of you.",    ["minlevel"]="58",    ["questlevel"]="60"},
-
-	["8930"] = {    ["Title"]="In Search of Anthion",    ["Description"]="Very well, YOUR_NAME.  All that remains is to put the goblin's invention to the test.  Word has it that Anthion was slain by the undead legions of Stratholme as he tried to enter its gates.NEW_LINENEW_LINETry using the device there and see if, indeed, you can speak with the dead!",    ["Objectives"]="Use the Extra-Dimensional Ghost Revealer at the entrance to Stratholme and speak with the ghost of Anthion Harmon.",    ["Progress"]="",    ["Completion"]="Mokvar had you contact me? I'll do my best to help you, but first I must ask a great favor of you.",    ["minlevel"]="58",    ["questlevel"]="60"},
-
-	["8945"] = {    ["Title"]="Dead Man's Plea",    ["Description"]="I'll provide you the information you ask for, YOUR_NAME.  But more pressing matters are at hand.NEW_LINENEW_LINEMy beloved wife has been taken prisoner by Rivendare's undead scum.NEW_LINENEW_LINEI strongly objected to her joining the Argent Dawn's foolish crusade, yet that's not of importance anymore.  You must finish what I attempted to do, you must rescue Ysida from the clutches of the Baron!",    ["Objectives"]="Go into Stratholme and rescue Ysida Harmon from Baron Rivendare.",    ["Progress"]="Tell me, is Ysida alive?",    ["Completion"]="Thank you for rescuing me... I feared for my life. Please accept this as a small token of my gratitude.NEW_LINENEW_LINEAnthion is... no... he can't be...",    ["minlevel"]="58",    ["questlevel"]="60"},
-
-	["8946"] = {    ["Title"]="Proof of Life",    ["Description"]="It is the cruelest of fates that my beloved has perished while trying to rescue me.  Yet, you claim to possess the ability to converse with him.NEW_LINENEW_LINEBring him this locket as proof that I am well.  He must not linger in this world; my heart would not be able to bear it.NEW_LINENEW_LINEFarewell, YOUR_NAME.  I shall be in your debt always.",    ["Objectives"]="Bring Ysida's Locket to Anthion Harmon in Eastern Plaguelands.",    ["Progress"]="Ysida... is she alive?",    ["Completion"]="That locket... you found her! I can rest in peace at long last.NEW_LINENEW_LINEI shall now answer any questions you might have, YOUR_NAME. But make haste, my time in this world is not long.",    ["minlevel"]="58",    ["questlevel"]="60"},
-
-	["8947"] = {    ["Title"]="Anthion's Strange Request",    ["Description"]="We didn't realize the importance of Valthalak's medallion, so it was divided along with the rest of the spoils.  The first piece was taken by a dwarf named Theldren.  I tried to retrieve it from him and he beat me within an inch of my life.  You shall have to take the fragment by force.NEW_LINENEW_LINELast I heard of him, he'd become a gladiator for the Dark Iron dwarves.  Getting him to fight you is going to present a bit of a challenge, though.NEW_LINENEW_LINEGather the following materials for me.  You're going to need them.",    ["Objectives"]="Bring 3 Dark Iron Bars, 20 Enchanted Leather, 3 Mooncloth and 4 Cured Rugged Hides to Anthion Harmon in the Eastern Plaguelands.",    ["Progress"]="Did you obtain the materials I asked for, YOUR_NAME?",    ["Completion"]="Excellent. I shall transmute these into something more suitable to our needs.",    ["minlevel"]="58",    ["questlevel"]="60"},
-
-	["8948"] = {    ["Title"]="Anthion's Old Friend",    ["Description"]="Theldren is not one to willingly participate in a fair fight.  I've shaped this banner to display his family colors.NEW_LINENEW_LINEWith some additional sorcery, this banner shall provoke him in a way he won't be able to resist.NEW_LINENEW_LINEAn old acquaintance of mine named Falrin knows the exact procedure required.  He has a particular way of... aggravating people.  You shall find him at the library in Dire Maul.",    ["Objectives"]="Take the incomplete Banner of Provocation to Falrin Treeshaper at the library in Dire Maul.",    ["Progress"]="Speak up stranger, can't you see I'm busy?",    ["Completion"]="Anthion sent you, you say? I thought he was dead. I guess I've heard stranger things in my life.NEW_LINENEW_LINEVery well, then.  What is it you want me to do with this banner?",    ["minlevel"]="58",    ["questlevel"]="60"},
-
-	["8949"] = {    ["Title"]="Falrin's Vendetta",    ["Description"]="Yes, it is true that I am familiar with this enchantment you require, $c.  Yet I'm not one to give out favors freely, even if you were sent here by an old friend.NEW_LINENEW_LINEI hold nothing but hatred and contempt for our brutish ogre neighbors.  And not only them, I hate the followers of Omokk just as much as I hate those that follow King Gordok.NEW_LINENEW_LINEI want you to kill them.  Kill lots of them!  Bring me the beads they carry around their neck as proof of your work.  Do this and we shall talk about your request.",    ["Objectives"]="Collect 25 Ogre Warbeads from Ogres inside Dire Maul or Blackrock Spire and return to Falrin Treeshaper inside the Athenaeum in Dire Maul.",    ["Progress"]="Have you performed the favor I asked of you, YOUR_NAME?",    ["Completion"]="Hmmm... strangely enough I don't feel any better about my brother's death at the hands of those brutes.NEW_LINENEW_LINEWell, you held your end of the bargain. Let's see what I can do for you.",    ["minlevel"]="58",    ["questlevel"]="60"},
-
-	["8950"] = {    ["Title"]="The Instigator's Enchantment",    ["Description"]="I can place the enchantment you require on the banner quite easily, YOUR_NAME.  Unfortunately I don't have the materials I need as it is very rarely that someone asks for this sort of charm.NEW_LINENEW_LINEI will require the essence of one of the Eldreth ghosts that haunt these halls, a handful of Scholomance dark runes and some large brilliant shards.  Bring me these reagents and I shall perform this task for you.",    ["Objectives"]="Bring the following to Falrin Treeshaper inside Dire Maul: 1 Jeering Spectre's Essence, 4 Dark Runes and 8 Large Brilliant Shards.",    ["Progress"]="Have you gathered the materials I require, YOUR_NAME?",    ["Completion"]="Yes, these will do just fine. After I'm done, no force in the world will be able to stop your victim from accepting your challenge.",    ["minlevel"]="58",    ["questlevel"]="60"},
-
-	["8960"] = {    ["Title"]="Bodley's Unfortunate Fate",    ["Description"]="So we need to recover the rest of the medallion?  Finding Bodley's going to be a bit of a headache.  He went back to Blackrock Mountain to attempt to re-enter Blackrock Spire and never came back.NEW_LINENEW_LINEI'd suggest taking the goblin's ghost revealing device with you, as I fear the worst might have happened.",    ["Objectives"]="Travel to Blackrock Mountain and use the Extra-Dimensional Ghost Revealer to find Bodley near Blackrock Spire.",    ["Progress"]="",    ["Completion"]="I am so glad that you can see me. Finally someone to talk to!NEW_LINENEW_LINEWill you help us, YOUR_NAME? Help to undo the wrong that we perpetrated and put things to right? If it's true that you already have the Top Piece of Lord Valthalak's Amulet, then I think I can point you in the right direction to acquire the other two parts, reunite them and put an end to all of this.NEW_LINENEW_LINEOh, by the way, hello, my name is Bodley. Nice to meet you!",    ["minlevel"]="58",    ["questlevel"]="60"},
-
-	["8961"] = {    ["Title"]="Three Kings of Flame",    ["Description"]="In order to summon Lord Valthalak we're first going to need to gather the other two-thirds of the amulet. To do that we need to get a brazier and some special coals to burn in it.NEW_LINENEW_LINEThere are three nobles of fire, Lord Incedius in Blackrock Depths, Pyroguard Emberseer in Blackrock Spire and The Duke of Cynders in Silithus, with what we need. Collect from each a piece of their remains, and then return to me with a Hallowed Brazier, which can be purchased from the Argent Dawn if you are honored by them.",    ["Objectives"]="Gather the Incendicite of Incendius, the Ember of Emberseer and the Cinder of Cynders, along with a Hallowed Brazier, and return them to Bodley inside Blackrock Mountain.",    ["Progress"]="It was our folly... our doom that we took that last job. If only we hadn't inadvertently stolen Lord Valthalak's spirit, which was contained in the amulet; if only there weren't those in our mercenary group that had been so greedy and divided it up amongst themselves. I'd be alive today, maybe tossing back a beer, or tossing one of my kids into the air.NEW_LINENEW_LINEYOUR_NAME, don't let the avarice of the ignoble in our old mercenary company be your doom as well.",    ["Completion"]="I'm impressed, $C, but there's no time to lose. I will give you your next task, because you will still need to acquire a few more important components before we can proceed.NEW_LINENEW_LINESpeak to me again when you feel that you are ready for the challenge that lies ahead.",    ["minlevel"]="58",    ["questlevel"]="60"},
-
-	["8962"] = {    ["Title"]="Components of Importance",    ["Description"]="$C, listen closely. Now that we have the brazier, and the means to light it, we still need another component to suffuse it with; something that will provide a focus strong enough to entice the spirit of my deceased, former comrade.NEW_LINENEW_LINEMor Grayhoof, our most prominent druid, had many close friends amongst the Cenarion Circle, some of which have fallen to the silithid. I need you to retrieve some Druidical Remains from the silithid that inhabit the environs of Hive'Regal in southeastern Silithus.",    ["Objectives"]="Acquire Druidical Remains and return them to Bodley inside Blackrock Mountain.",    ["Progress"]="Have you returned already then, $C, with what I sent you out to gather?",    ["Completion"]="A job well done, YOUR_NAME. I will imbue the essence of the remains into the brazier.NEW_LINENEW_LINENow all that is left is to go to the lower portion of Blackrock Spire, to the chamber where War Master Voone resides in Tazz'Alaor, and use the brazier to summon forth the corrupted spirit of my former cohort, Mor Grayhoof. He cannot rest until the amulet piece is taken from him.",    ["minlevel"]="58",    ["questlevel"]="60"},
-
-	["8963"] = {    ["Title"]="Components of Importance",    ["Description"]="$C, listen closely. Now that we have the brazier, and the means to light it, we still need another component to suffuse it with; something that will provide a focus strong enough to entice the spirit of my deceased, former comrade.NEW_LINENEW_LINEIsalien, our priestess, grew up in Winterspring at Starbreeze Village. I need you to gather a Starbreeze Village Relic from the Frostmaul giants of Frostwhisper Gorge in southern Winterspring, who are known for raiding to the north from time to time.",    ["Objectives"]="Acquire a Starbreeze Village Relic and return it to Bodley inside Blackrock Mountain.",    ["Progress"]="Have you returned already then, $C, with what I sent you out to gather?",    ["Completion"]="A job well done, YOUR_NAME. I will imbue the essence of the relic into the brazier.NEW_LINENEW_LINENow all that is left is to go to the Shrine of Eldretharr in the east wing of Dire Maul, and use the brazier to summon forth the spirit of my former cohort, Isalien. Her spirit has been corrupted by her possession of the piece of Valthalak's amulet, and the portion of his soul within it.",    ["minlevel"]="58",    ["questlevel"]="60"},
-
-	["8964"] = {    ["Title"]="Components of Importance",    ["Description"]="$C, listen closely. Now that we have the brazier, and the means to light it, we still need another component to suffuse it with; something that will provide a focus strong enough to summon the remains of my deceased, former comrades.NEW_LINENEW_LINEThe siblings, Jarien and Sothos, were believers in the way of the Scarlet Crusade. They aspired to knighthood within that vile organization. Go to Tyr's Hand in Eastern Plaguelands and retrieve a Brilliant Sword of Zealotry from the praetorians there.",    ["Objectives"]="Retrieve a Brilliant Sword of Zealotry and return it to Bodley inside Blackrock Mountain.",    ["Progress"]="Have you returned already then, $C, with what I sent you out to gather?",    ["Completion"]="A job well done, YOUR_NAME. I will imbue the essence of the sword into the brazier.NEW_LINENEW_LINENow all that is left is to get into The Crimson Throne inside The Scarlet Bastion at Stratholme, and use the brazier to summon forth the remains of my former cohorts, Jarien and Sothos. Their souls have been twisted further by their possession of Valthalak's amulet piece and his spirit within.",    ["minlevel"]="58",    ["questlevel"]="60"},
-
-	["8965"] = {    ["Title"]="Components of Importance",    ["Description"]="$C, listen closely. Now that we have the brazier, and the means to light it, we still need another component to suffuse it with; something that will provide a focus strong enough to entice the spirit of my deceased, former comrade.NEW_LINENEW_LINEAn ogre necromancer that traveled with us, Kormok, delighted in summoning forth the souls of the banished dead of Purgation Isle, off the south coast of the Hillsbrad Foothills. Go there and retrieve some Soul Ashes of the Banished from their remains.",    ["Objectives"]="Obtain Soul Ashes of the Banished and return them to Bodley inside Blackrock Mountain.",    ["Progress"]="Have you returned already then, $C, with what I sent you out to gather?",    ["Completion"]="A job well done, YOUR_NAME. I will imbue the essence of the ashes into the brazier.NEW_LINENEW_LINENow all that is left is to get into Scholomance, to Ras Frostwhisper's chamber, and use the brazier to summon forth the spirit of my former cohort, Kormok. The amulet piece, and Valthalak's spirit within, has corrupted him even further, and he will not rest until you forcibly take it from him.",    ["minlevel"]="58",    ["questlevel"]="60"},
-
-	["8966"] = {    ["Title"]="The Left Piece of Lord Valthalak's Amulet",    ["Description"]="My friend, Mor Grayhoof, was the first to fall victim to possession of a piece of Lord Valthalak's amulet, and the corrupting spirit fragment that it contains. After stealing Valthalak's spellbook and amulet, we fled for our lives from the upper portion of Blackrock Spire. Along the way, Mor fell into the lower portion of the spire.NEW_LINENEW_LINELater, we discovered that he survived the fall, only to be captured and tortured by War Master Voone. A few spectral assassins snuck in and slew him right in front of Voone.",    ["Objectives"]="Use the Brazier of Beckoning to summon forth the spirit of Mor Grayhoof and slay him. Return to Bodley inside Blackrock Mountain with the Left Piece of Lord Valthalak's Amulet and the Brazier of Beckoning.",    ["Progress"]="Then it is done? You have retrieved the left piece of Lord Valthalak's amulet and finally put to rest the spirit of my old companion, Mor Grayhoof?",    ["Completion"]="You have done a great thing, YOUR_NAME. One spirit rests in peace, but there is still much work to be done before we can put all of this behind us.NEW_LINENEW_LINEUnfortunately, I do not know the location of the one who died with the right piece of the amulet in their possession. But do not fear; in life I was a dabbler in the art of divination, so I have another task for you, which is going to enable us to ferret out the final piece.",    ["minlevel"]="58",    ["questlevel"]="60"},
-
-	["8967"] = {    ["Title"]="The Left Piece of Lord Valthalak's Amulet",    ["Description"]="It became known to us in later days, as we were doing what we could ourselves to survive, that Isalien, a night elf priestess of our company, had gone to the night elvic ancestral city, now known as Dire Maul. From what we gathered, she went there both for personal reasons and also to unlock the secrets of the piece of the amulet that she had in her possession.NEW_LINENEW_LINEShe didn't quite make it, though. Word got back to us that she was ambushed at the Shrine of Eldretharr by Alzzin the Wildshaper and his forces.",    ["Objectives"]="Use the Brazier of Beckoning to summon forth the spirit of Isalien and slay her. Return to Bodley inside Blackrock Mountain with the Left Piece of Lord Valthalak's Amulet and the Brazier of Beckoning.",    ["Progress"]="Surely you haven't already dealt with the salvation of Isalien's spirit and the retrieval of the left piece of Lord Valthalak's amulet, YOUR_NAME?",    ["Completion"]="Thank you, YOUR_NAME, for putting Isalien's spirit to rest. Now, perhaps, she will find peace with her goddess. But, there is still a great deal of work ahead of us if we are to get out of this fine pickle we find ourselves in.NEW_LINENEW_LINEUnfortunately, I do not know the location of the one who died with the right piece of the amulet in their possession. But do not fear; in life I was a dabbler in the art of divination, so I have another task for you, which is going to enable us to ferret out the final piece.",    ["minlevel"]="58",    ["questlevel"]="60"},
-
-	["8968"] = {    ["Title"]="The Left Piece of Lord Valthalak's Amulet",    ["Description"]="The siblings, Jarien and Sothos, decided to join the Scarlet Crusade upon the disbanding of our mercenary company. They took the left piece of Lord Valthalak's amulet with them. Good riddance, I say, but we need that piece back.NEW_LINENEW_LINEFrom what we could gather, they were actually slain by Grand Crusader Dathrohan himself for failing the initiation rites inside his chamber in the Scarlet Bastion.NEW_LINENEW_LINEIn any case, we... meaning you, are still going to need to retrieve that piece of the amulet.",    ["Objectives"]="Use the Brazier of Beckoning to summon forth Jarien and Sothos and slay them. Return to Bodley inside Blackrock Mountain with the Left Piece of Lord Valthalak's Amulet and the Brazier of Beckoning.",    ["Progress"]="Does this mean then, $C, that you've already put the souls of those two fools to rest and retrieved the left piece of Lord Valthalak's amulet?",    ["Completion"]="I suppose it's for the best that the souls of those two have finally been put to rest, even if I didn't like them while they were alive. In any case, we have what we were after, and that is definitely a good thing!NEW_LINENEW_LINEUnfortunately, I do not know the location of the one who died with the right piece of the amulet in their possession. But do not fear; in life I was a dabbler in the art of divination, so I have another task for you, which is going to enable us to ferret out the final piece.",    ["minlevel"]="58",    ["questlevel"]="60"},
-
-	["8969"] = {    ["Title"]="The Left Piece of Lord Valthalak's Amulet",    ["Description"]="Now we have what we need, so it's time to discuss who it is that you'll be summoning.NEW_LINENEW_LINEKormok was ok for an ogre, right up until he turned to necromancy. After that, things got creepy for just about everyone in the outfit. It was no surprise then when he took his piece of the amulet and returned to his new home, Scholomance.NEW_LINENEW_LINEBut even there, or perhaps especially there, he was not safe from the spectral assassins. They slew him right in front of his master, Ras Frostwhisper.",    ["Objectives"]="Use the Brazier of Beckoning to summon forth the spirit of Kormok and slay him. Return to Bodley inside Blackrock Mountain with the Left Piece of Lord Valthalak's Amulet and the Brazier of Beckoning.",    ["Progress"]="I commend you, YOUR_NAME, if you have returned with the left piece of the amulet. If not, however, please take care of that as there is no time to waste, I assure you!",    ["Completion"]="Good work, YOUR_NAME! Kormok wasn't all that bad for an ogre, at least not while he was still alive, so I hope he gets the rest that he deserves. But, there is more work ahead of us.NEW_LINENEW_LINEUnfortunately, I do not know the location of the one who died with the right piece of the amulet in their possession. But do not fear; in life I was a dabbler in the art of divination, so I have another task for you, which is going to enable us to ferret out the final piece.",    ["minlevel"]="58",    ["questlevel"]="60"},
-
-	["8970"] = {    ["Title"]="I See Alcaz Island In Your Future...",    ["Description"]="As I was saying, $c, in my living years I flirted with becoming a diviner. But, there really wasn't as much profit in it as you might imagine, mostly because it's dangerous and the reagents are rare and expensive. However, I do know enough to be able to pinpoint the final piece of the amulet, and the spirit of my former comrade along with it.NEW_LINENEW_LINEThis is where you come in, YOUR_NAME. I need you to go to Alcaz Island off the coast of Dustwallow Marsh and collect Bloodkelp from the Strashaz naga that live there.",    ["Objectives"]="Gather 20 Bloodkelp from the Strashaz naga and then return to Bodley inside Blackrock Mountain.",    ["Progress"]="Bloodkelp, YOUR_NAME, a big stack of it, that's what I need to power my divinatory spells. You're likely to need to take at least a couple of friends along with you to Alcaz Island to gather it up... those Strashaz are a nasty lot!",    ["Completion"]="To be honest, YOUR_NAME, I'm surprised you made it back in one piece. Then again, I guess Alcaz Island is the least of your worries right now.NEW_LINENEW_LINEOk, give me a moment here... divination isn't something that you can just snap your fingers and expect accurate answers from.",    ["minlevel"]="58",    ["questlevel"]="60"},
-
-	["8979"] = {    ["Title"]="Fenstad's Hunch",    ["Description"]="I believe I know the cause of this recent behavior. Have you smelled the new fragrance on the wind, over the stink of the canals? The new colognes and perfumes that have come into fashion?NEW_LINENEW_LINEOur thinking has been clouded by some foul alchemy.NEW_LINENEW_LINEThere is only one way to be sure - bring a bottle of cologne and perfume to my friend, Apothecary Zinge. The Royal Apothecary Society will find the truth.NEW_LINENEW_LINE I will reimburse you for their purchase when you return.",    ["Objectives"]="Bring 1 Cologne Bottle and 1 Perfume Bottle to Apothecary Zinge in the Undercity's Apothecarium.",    ["Progress"]="How may I serve you?",    ["Completion"]="Another one of Fenstad's obsessions, I see. Does he think that the Royal Apothecary Society has nothing better to do than to perform his little investigations?NEW_LINENEW_LINEVery well, I will humor him once again.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8982"] = {    ["Title"]="Tracing the Source",    ["Description"]="We must find who the supplier is. I noticed Apothecary Katrina with a bottle of the perfume tucked in her pack. She told me that she purchased it from Norman, the innkeeper.",    ["Objectives"]="Speak with Innkeeper Norman in the Undercity.",    ["Progress"]="",    ["Completion"]="Ah yes, I just recently received stock of the perfume and cologne. I don't know how long I can keep it on the shelves - seems like no one can get enough of it.NEW_LINENEW_LINEIf you ask me, I don't see what the big deal is.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8983"] = {    ["Title"]="Tracing the Source",    ["Description"]="Something's wrong with my product? Well, I've never seen so many people wanting something so badly.NEW_LINENEW_LINEI bought my supply from a merchant named Mara Rennick. She's new in town.NEW_LINENEW_LINEShe mentioned she had some goods she had to deliver to the tailor in the Mage Quarter.",    ["Objectives"]="Speak with Mara Rennick at the tailor's shop in the Undercity's Mage Quarter.",    ["Progress"]="",    ["Completion"]="I'm afraid I sold my entire supply of perfume and cologne to Norman, the innkeeper. If you'd like some, you should speak with him - assuming he has any left.NEW_LINENEW_LINEYou shouldn't waste any time, though. I think you'll find the  cologne  irresistible.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8984"] = {    ["Title"]="The Source Revealed",    ["Description"]="Look, the actions of a rogue apothecary are not my concern. If he's undermining our efforts, then let me be the first to point you in the right directionNEW_LINENEW_LINEIf he's innocent, then he's got nothing to hide, right?NEW_LINENEW_LINEI purchased the goods from Apothecary Staffron Lerent. He's working in a secluded area past Ravenholdt Manor in the hills over Hillsbrad. To be honest with you, I thought he was a little odd.",    ["Objectives"]="Find Apothecary Staffron Lerent in the Hillsbrad Foothills past Ravenholdt Manor.",    ["Progress"]="",    ["Completion"]="Yes, I made those fragrances. Wonderful smell, isn't it? Irresistible.NEW_LINENEW_LINEOnce the warriors of Alliance and Horde alike are smitten with these feelings of love, they will be powerless to stop the rise of the Shadow Council.NEW_LINENEW_LINEThey will be weakened, unprepared. As they worry for their loved ones, they will lose their edge.NEW_LINENEW_LINEThe solution was so simple. Why did it take me so long to come upon it? The weakness of all is through the heart. And there is nothing you can do to stop the inevitable.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8985"] = {    ["Title"]="More Components of Importance",    ["Description"]="$C, listen closely. Now that we have the location of the last amulet piece, we still need another component to suffuse the brazier with; something that will provide a focus strong enough to entice the spirit of my deceased, former comrade.NEW_LINENEW_LINEIsalien, our priestess, grew up in Winterspring at Starbreeze Village. I need you to gather a Starbreeze Village Relic from the Frostmaul giants of Frostwhisper Gorge in southern Winterspring, who are known for raiding to the north from time to time.",    ["Objectives"]="Acquire a Starbreeze Village Relic and return it to Bodley inside Blackrock Mountain.",    ["Progress"]="Have you returned already then, $C, with what I sent you out to gather?",    ["Completion"]="A job well done, YOUR_NAME. I will imbue the essence of the relic into the brazier.NEW_LINENEW_LINENow all that is left is to go to the Shrine of Eldretharr in the east wing of Dire Maul, and use the brazier to summon forth the spirit of my former cohort, Isalien. Her spirit has been corrupted by her possession of the piece of Valthalak's amulet, and the portion of his soul within it.NEW_LINENEW_LINEOh, by the way, I had some leftover bloodkelp from your trip to Alcaz Isle, so I made it into some potions for you. Take your pick!",    ["minlevel"]="58",    ["questlevel"]="60"},
-
-	["8986"] = {    ["Title"]="More Components of Importance",    ["Description"]="$C, listen closely. Now that we have the location of the last amulet piece, we still need another component to suffuse the brazier with; something that will provide a focus strong enough to entice the spirit of my deceased, former comrade.NEW_LINENEW_LINEMor Grayhoof, our most prominent druid, had many close friends amongst the Cenarion Circle, some of which have fallen to the silithid. I need you to retrieve some Druidical Remains from the silithid that inhabit the environs of Hive'Regal in southeastern Silithus.",    ["Objectives"]="Acquire Druidical Remains and return them to Bodley inside Blackrock Mountain.",    ["Progress"]="Have you returned already then, $C, with what I sent you out to gather?",    ["Completion"]="A job well done, YOUR_NAME. I will imbue the essence of the remains into the brazier.NEW_LINENEW_LINENow all that is left is to go to the lower portion of Blackrock Spire, to the chamber where War Master Voone resides in Tazz'Alaor, and use the brazier to summon forth the corrupted spirit of my former cohort, Mor Grayhoof. He cannot rest until the amulet piece is taken from him.NEW_LINENEW_LINEOh, by the way, I had some leftover bloodkelp from your trip to Alcaz Isle, so I made it into some potions for you. Take your pick!",    ["minlevel"]="58",    ["questlevel"]="60"},
-
-	["8987"] = {    ["Title"]="More Components of Importance",    ["Description"]="$C, listen closely. Now that we have the location of the last amulet piece, we still need another component to suffuse the brazier with; something that will provide a focus strong enough to summon the remains of my deceased, former comrades.NEW_LINENEW_LINEThe siblings, Jarien and Sothos, were believers in the way of the Scarlet Crusade. They aspired to knighthood within that vile organization. Go to Tyr's Hand in Eastern Plaguelands and retrieve a Brilliant Sword of Zealotry from the praetorians there.",    ["Objectives"]="Retrieve a Brilliant Sword of Zealotry and return it to Bodley inside Blackrock Mountain.",    ["Progress"]="Have you returned already then, $C, with what I sent you out to gather?",    ["Completion"]="A job well done, YOUR_NAME. I will imbue the essence of the sword into the brazier.NEW_LINENEW_LINENow all that is left is to get into The Crimson Throne inside The Scarlet Bastion at Stratholme, and use the brazier to summon forth the remains of my former cohorts, Jarien and Sothos. Their souls have been twisted further by their possession of Valthalak's amulet piece and his spirit within.NEW_LINENEW_LINEOh, by the way, I had some leftover bloodkelp from your trip to Alcaz Isle, so I made it into some potions for you. Take your pick!",    ["minlevel"]="58",    ["questlevel"]="60"},
-
-	["8988"] = {    ["Title"]="More Components of Importance",    ["Description"]="$C, listen closely. Now that we have the location of the last amulet piece, we still need another component to suffuse the brazier with; something that will provide a focus strong enough to entice the spirit of my deceased, former comrade.NEW_LINENEW_LINEAn ogre necromancer that traveled with us, Kormok, delighted in summoning forth the souls of the banished dead of Purgation Isle, off the south coast of the Hillsbrad Foothills. Go there and retrieve some Soul Ashes of the Banished from their remains.",    ["Objectives"]="Obtain Soul Ashes of the Banished and return them to Bodley inside Blackrock Mountain.",    ["Progress"]="Have you returned already then, $C, with what I sent you out to gather?",    ["Completion"]="A job well done, YOUR_NAME. I will imbue the essence of the ashes into the brazier.NEW_LINENEW_LINENow all that is left is to get into Scholomance, to Ras Frostwhisper's chamber, and use the brazier to summon forth the spirit of my former cohort, Kormok. The amulet piece, and Valthalak's spirit within, has corrupted him even further, and he will not rest until you forcibly take it from him.NEW_LINENEW_LINEOh, by the way, I had some leftover bloodkelp from your trip to Alcaz Isle, so I made it into some potions for you. Take your pick!",    ["minlevel"]="58",    ["questlevel"]="60"},
-
-	["8989"] = {    ["Title"]="The Right Piece of Lord Valthalak's Amulet",    ["Description"]="My friend, Mor Grayhoof, was the first to fall victim to possession of a piece of Lord Valthalak's amulet, and the corrupting spirit fragment that it contains. After stealing Valthalak's spellbook and amulet, we fled for our lives from the upper portion of Blackrock Spire. Along the way, Mor fell into the lower portion of the spire.NEW_LINENEW_LINELater, we discovered that he survived the fall, only to be captured and tortured by War Master Voone. A few spectral assassins snuck in and slew him right in front of Voone.",    ["Objectives"]="Use the Brazier of Beckoning to summon forth the spirit of Mor Grayhoof and slay him. Return to Bodley inside Blackrock Mountain with the recombined Lord Valthalak's Amulet and the Brazier of Beckoning.",    ["Progress"]="Then it is done? You have retrieved the right piece of Lord Valthalak's amulet, recombined the amulet into one whole, and finally put to rest the spirit of my old companion, Mor Grayhoof?",    ["Completion"]="Thank you for helping Mor Grayhoof, YOUR_NAME. Another spirit rests in peace, and we now have the reassembled amulet! But we still have the hardest test ahead of us.NEW_LINENEW_LINEIn order for the brazier to be attuned to calling forth Lord Valthalak, there are a few more items that need to be gathered and brought back to me here.",    ["minlevel"]="58",    ["questlevel"]="60"},
-
-	["8990"] = {    ["Title"]="The Right Piece of Lord Valthalak's Amulet",    ["Description"]="It became known to us in later days, as we were doing what we could ourselves to survive, that Isalien, a night elf priestess of our company, had gone to the night elvic ancestral city, now known as Dire Maul. From what we gathered, she went there both for personal reasons and also to unlock the secrets of the piece of the amulet that she had in her possession.NEW_LINENEW_LINEShe didn't quite make it, though. Word got back to us that she was ambushed at the Shrine of Eldretharr by Alzzin the Wildshaper and his forces.",    ["Objectives"]="Use the Brazier of Beckoning to summon forth the spirit of Isalien and slay her. Return to Bodley inside Blackrock Mountain with the recombined Lord Valthalak's Amulet and the Brazier of Beckoning.",    ["Progress"]="Surely you haven't already dealt with the salvation of Isalien's spirit and the retrieval of the right piece of Lord Valthalak's amulet, YOUR_NAME? Be sure to recombine the pieces of the amulet before handing it to me.",    ["Completion"]="Thank you, YOUR_NAME, for putting Isalien's spirit to rest. Now, perhaps, she will find peace with her goddess. And, we have the reassembled amulet, as well! But we still have the hardest test ahead of us.NEW_LINENEW_LINEIn order for the brazier to be attuned to calling forth Lord Valthalak, there are a few more items that need to be gathered and brought back to me here.",    ["minlevel"]="58",    ["questlevel"]="60"},
-
-	["8991"] = {    ["Title"]="The Right Piece of Lord Valthalak's Amulet",    ["Description"]="The siblings, Jarien and Sothos, decided to join the Scarlet Crusade upon the disbanding of our mercenary company. They took the right piece of Lord Valthalak's amulet with them. Good riddance, I say, but we need that piece back.NEW_LINENEW_LINEFrom what we could gather, they were actually slain by Grand Crusader Dathrohan himself for failing the initiation rites inside his chamber in the Scarlet Bastion.NEW_LINENEW_LINEIn any case, we... meaning you, are still going to need to retrieve that piece of the amulet.",    ["Objectives"]="Use the Brazier of Beckoning to summon forth Jarien and Sothos and slay them. Return to Bodley inside Blackrock Mountain with the recombined Lord Valthalak's Amulet and the Brazier of Beckoning.",    ["Progress"]="Does this mean then, $C, that you've already put the souls of those two fools to rest and recombined the pieces of Lord Valthalak's amulet?",    ["Completion"]="I suppose it's for the best that the souls of those two have finally been put to rest, even if I didn't like them while they were alive. In any case, we have what we were after, and now the amulet is reassembled! But we still have the hardest test ahead of us.NEW_LINENEW_LINEIn order for the brazier to be attuned to calling forth Lord Valthalak, there are a few more items that need to be gathered and brought back to me here.",    ["minlevel"]="58",    ["questlevel"]="60"},
-
-	["8992"] = {    ["Title"]="The Right Piece of Lord Valthalak's Amulet",    ["Description"]="Now we have what we need, so it's time to discuss who it is that you'll be summoning next.NEW_LINENEW_LINEKormok was ok for an ogre, right up until he turned to necromancy. After that, things got creepy for just about everyone in the outfit. It was no surprise then when he took his piece of the amulet and returned to his new home, Scholomance.NEW_LINENEW_LINEBut even there, or perhaps especially there, he was not safe from the spectral assassins. They slew him right in front of his master, Ras Frostwhisper.",    ["Objectives"]="Use the Brazier of Beckoning to summon forth the spirit of Kormok and slay him. Return to Bodley inside Blackrock Mountain with the recombined Lord Valthalak's Amulet and the Brazier of Beckoning.",    ["Progress"]="I commend you, YOUR_NAME, if you have returned with the completed amulet. If not, however, please take care of that as there is no time to waste, I assure you!",    ["Completion"]="Good work, YOUR_NAME! Kormok wasn't all that bad for an ogre, at least not while he was still alive, so I hope he gets the rest that he deserves. And now we have the completed amulet! But we still have the hardest test ahead of us.NEW_LINENEW_LINEIn order for the brazier to be attuned to calling forth Lord Valthalak, there are a few more items that need to be gathered and brought back to me here.",    ["minlevel"]="58",    ["questlevel"]="60"},
-
-	["8994"] = {    ["Title"]="Final Preparations",    ["Description"]="We're nearly there, $c. All that is left is to retrieve a few more components so that I can attune the brazier and enable it to beckon forth Lord Valthalak.NEW_LINENEW_LINETo begin I must ask you to journey forth into Blackrock Spire and slay the orcs therein. They wear bracers that contain trace metals that I will need, so I'll need more than a few to extract the right amount out of them. Then, to complete the imbuing process, you'll need to bring me a Flask of Supreme Power.NEW_LINENEW_LINEGood luck, YOUR_NAME!",    ["Objectives"]="Gather 40 Blackrock Bracers and acquire a Flask of Supreme Power. Return them to Bodley inside Blackrock Mountain.",    ["Progress"]="We've come a long way, YOUR_NAME, and I just wanted to say that no matter what happens, thank you! You've put yourself in mortal danger to try to help the surviving members of our mercenary company, The Veiled Blade, and as far as I'm concerned, you're one of us now.",    ["Completion"]="That's it then. I'll extract the metal from the bracers and imbue the brazier with these final components. Then it will be ready for you to summon Lord Valthalak, and finally return his spirit amulet to him.NEW_LINENEW_LINEYou've come quite a distance, YOUR_NAME, don't falter now that the end is in sight!",    ["minlevel"]="58",    ["questlevel"]="60"},
-
-	["8995"] = {    ["Title"]="Mea Culpa, Lord Valthalak",    ["Description"]="All is now ready, YOUR_NAME.NEW_LINENEW_LINEWhen alive, Lord Valthalak used to inhabit what is now The Beast's chamber. Go there and use the Brazier of Beckoning to summon forth Lord Valthalak. It will reincorporate him, so he'll have to be killed again. I'd take care of The Beast first, and be sure take enough friends along to survive the upper portion of Blackrock Spire.NEW_LINENEW_LINEOnce you've dispatched Valthalak, use the amulet on his corpse. With his spirit reunified, he'll likely want his amulet back, as well.NEW_LINENEW_LINEGood luck!",    ["Objectives"]="Use the Brazier of Beckoning to summon Lord Valthalak. Dispatch him, and use Lord Valthalak's Amulet on the corpse. Then, return Lord Valthalak's Amulet to the Spirit of Lord Valthalak.",    ["Progress"]="$C, you dare disturb my rest!",    ["Completion"]="How fortunate for you that I know you're not part of the original group that stole this from me.NEW_LINENEW_LINEI'll take back what is mine now, mortal! Give the amulet to me!",    ["minlevel"]="58",    ["questlevel"]="60"},
-
-	["8996"] = {    ["Title"]="Return to Bodley",    ["Description"]="I will ignore your impertinence this time, $c, because you have done a noble thing today; returning the rest of my stolen spirit to me. Despite your obviously weak nature, YOUR_RACE, you have shown courage where those that stole from me did not, and probably never could!NEW_LINENEW_LINEReturn to them, before I change my mind and slay you where you stand. Go back and tell them that they are safe... for now.",    ["Objectives"]="Return to Bodley inside Blackrock Mountain and give him the Brazier of Beckoning.",    ["Progress"]="YOUR_NAME, you're back and still alive! Well, at least that makes one of us.NEW_LINENEW_LINEYou're going to have to tell me all about it!",    ["Completion"]="He really said all of that? Wow, I can't believe he's going to call off the spectral assassins and stalkers, even if he did hint at causing my living companions further harm in the future.NEW_LINENEW_LINEThis is a great day, YOUR_NAME! You've accomplished what few ever could, and absolved us, at least in part, of some of our past sins.NEW_LINENEW_LINEThank you! As a sign of appreciation, I'd like to give you this. You can use it to summon forth spirits at the same haunted locations that you already have, and a few others, too.",    ["minlevel"]="58",    ["questlevel"]="60"},
-
-	["9015"] = {    ["Title"]="The Challenge",    ["Description"]="Heed me well, YOUR_NAME.  For the banner to work in the desired way, you will need to step into the Ring of the Law in Blackrock Depths.  Allow yourself to be sentenced by High Justice Grimstone and place the banner firmly on the ground in a sign of defiance.NEW_LINENEW_LINEYour victim will not be able to restrain himself and shall enter the fray filled with a desire to fight you.  Once you obtain that which you seek, go back to Anthion.",    ["Objectives"]="Travel to the Ring of the Law in Blackrock Depths and place the Banner of Provocation in its center as you are sentenced by High Justice Grimstone.  Slay Theldren and his gladiators and return to Anthion Harmon in the Eastern Plaguelands with the first piece of Lord Valthalak's amulet.",    ["Progress"]="You're back, YOUR_NAME!",    ["Completion"]="You've recovered part of the medallion, YOUR_NAME?",    ["minlevel"]="58",    ["questlevel"]="60"},
-
-	["9023"] = {    ["Title"]="The Perfect Poison",    ["Description"]="My brother and I run the poison operations out of the manor Ravenholdt.NEW_LINENEW_LINELord Ravenholdt tasked me to track down a new and extremely effective poison compound that can be crafted from the venom sacs of the inhabitants of Zul'Gurub and the Ruins of Ahn'Qiraj.NEW_LINENEW_LINEThere are two particularly venomous beasts residing in those blasted ruins that possess what it is that we might be looking for, $c. Bring me a venom sac from the beasts Kurinnaxx and Venoxis and we would be eternally grateful.",    ["Objectives"]="Dirk Thunderwood at Cenarion Hold wants you to bring him Venoxis's Venom Sac and Kurinnaxx's Venom Sac.",    ["Progress"]="This ain't no smash and grab job, YOUR_NAME. You're gonna need to bring friends.",    ["Completion"]="Ravenholdt thanks you, hero! Take your pick!",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9024"] = {    ["Title"]="Aristan's Hunch",    ["Description"]="I've got it! Have you smelled the new fragrance on the wind? The new colognes and perfumes that have come into fashion? Our guards wouldn't neglect their duties so easily.NEW_LINENEW_LINEThat is, unless their thinking has been clouded by some foul alchemy.NEW_LINENEW_LINEThere is only one way to be sure - bring a bottle of cologne and perfume to Morgan Pestle, and tell him my suspicions. I will reimburse you for their purchase when you return.",    ["Objectives"]="Bring 1 Cologne Bottle and 1 Perfume Bottle to Morgan Pestle in the Trade District of Stormwind.",    ["Progress"]="Something I can help you with?",    ["Completion"]="I understand Aristan's concerns, but I really think he's overreacting. Let young men and women do what they will. I think Aristan has forgotten what it means to be young and in love.NEW_LINENEW_LINEBut it would be better not to tell him that. We'll humor him.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["9027"] = {    ["Title"]="Tracing the Source",    ["Description"]="Something funny about the cologne? It's possible. I've never seen so many people after one product like this.NEW_LINENEW_LINELook, if there's something wrong with it, I want to know, too. I bought my supply from a merchant named Evert Sorisam. He's new in town.NEW_LINENEW_LINEHe mentioned he had some goods he was going to deliver to The Finest Thread.",    ["Objectives"]="Speak with Evert Sorisam at The Finest Thread along Stormwind's Canals.",    ["Progress"]="",    ["Completion"]="Yes, of course. Those fragrances are the hottest items this season. You must be the fifth or sixth person this hour to inquire about them.NEW_LINENEW_LINEI'm afraid my supplies are all sold out. If you'd like some, you should speak with Allison, the innkeeper of The Gilded Rose.NEW_LINENEW_LINEYou shouldn't waste any time, though. I think you'll find the perfume will be irresistible.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["9028"] = {    ["Title"]="The Source Revealed",    ["Description"]="What, treason? No, no. I assure you, my intentions are completely harmless. Is it so wrong to help those who wish to ease the painful ritual of courtship? Come now, that is no crime.NEW_LINENEW_LINEAnd to prove that I mean no harm, I will even tell you my source. They were shipped to me by a Staffron Lerent, an apothecary of some sort. I never spoke with him. Our goblin middle man said that he worked in the foothills over Hillsbrad past that mysterious Ravenholdt Manor. I wish you luck in finding him.",    ["Objectives"]="Find Apothecary Staffron Lerent in the Hillsbrad Foothills behind Ravenholdt Manor.",    ["Progress"]="",    ["Completion"]="Yes, I made those fragrances. Wonderful smell, isn't it? Irresistible.NEW_LINENEW_LINEOnce the warriors of Alliance and Horde alike are smitten with these feelings of love, they will be powerless to stop the rise of the Shadow Council.NEW_LINENEW_LINEThey will be weakened, unprepared. As they worry for their loved ones, they will lose their edge.NEW_LINENEW_LINEThe solution was so simple. Why did it take me so long to come upon it? The weakness of all is through the heart. And there is nothing you can do to stop the inevitable.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["9033"] = {    ["Title"]="Echoes of War",    ["Description"]="Five years since the last war...NEW_LINENEW_LINETens of thousands of lives were lost and for what? The threat was never fully extinguished.NEW_LINENEW_LINEAnd so the Lich King stirs once more... His yes-man, Kel'Thuzad, amassing for another attack upon our lands.NEW_LINENEW_LINEWe will not allow it! Prove your dedication. Prove that you are willing to risk life and limb to stop this madness and the combined might of the Dawn and the Crusade will be at your beck and call.NEW_LINENEW_LINEEnter Naxxramas and destroy the Scourge within...",    ["Objectives"]="Commander Eligor Dawnbringer at Light's Hope Chapel in the Eastern Plaguelands wants you to slay 5 Living Monstrosities, 5 Stoneskin Gargoyles, 8 Deathknight Captains and 3 Venom Stalkers.",    ["Progress"]="Duty, honor, dedication... What do these words mean to you?",    ["Completion"]="A job well done! You will be rewarded via the services of the men and women at Light's Hope.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9034"] = {    ["Title"]="Dreadnaught Breastplate",    ["Description"]="During your battles with the Scourge in Naxxramas, should you come across desecrated battlements and wartorn plate scraps, return them to me and I shall craft for you a piece of armor worn by heroes.",    ["Objectives"]="Korfax at Light's Hope Chapel in the Eastern Plaguelands will make a Dreadnaught Breastplate if you bring him the following items: 1 Desecrated Breastplate, 25 Wartorn Plate Scraps, 4 Arcanite Bars and 2 Nexus Crystals.",    ["Progress"]="Naxxramas holds ancient evils, YOUR_NAME.",    ["Completion"]="Let them know fear once more, $C. Let them feel no mercy.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9036"] = {    ["Title"]="Dreadnaught Legplates",    ["Description"]="During your battles with the Scourge in Naxxramas, should you come across desecrated battlements and wartorn plate scraps, return them to me and I shall craft for you a piece of armor worn by heroes.",    ["Objectives"]="Korfax at Light's Hope Chapel in the Eastern Plaguelands will make Dreadnaught Legplates if you bring him the following items: 1 Desecrated Legplates, 20 Wartorn Plate Scraps, 4 Arcanite Bars and 3 Cured Rugged Hides.",    ["Progress"]="Remember those that fell before you, YOUR_NAME.",    ["Completion"]="Crush them beneath your feet.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9037"] = {    ["Title"]="Dreadnaught Helmet",    ["Description"]="During your battles with the Scourge in Naxxramas, should you come across desecrated battlements and wartorn plate scraps, return them to me and I shall craft for you a piece of armor worn by heroes.",    ["Objectives"]="Korfax at Light's Hope Chapel in the Eastern Plaguelands will make a Dreadnaught Helmet if you bring him the following items: 1 Desecrated Helmet, 15 Wartorn Plate Scraps, 5 Arcanite Bars and 1 Nexus Crystal.",    ["Progress"]="The head is the most sensitive part of most bodies.",    ["Completion"]="Remember, you're not really dead if your brain is still in your head. Keep this thing on at all times...",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9038"] = {    ["Title"]="Dreadnaught Pauldrons",    ["Description"]="During your battles with the Scourge in Naxxramas, should you come across desecrated battlements and wartorn plate scraps, return them to me and I shall craft for you a piece of armor worn by heroes.",    ["Objectives"]="Korfax at Light's Hope Chapel in the Eastern Plaguelands will make Dreadnaught Pauldrons if you bring him the following items: 1 Desecrated Pauldrons, 12 Wartorn Plate Scraps, 2 Arcanite Bars and 3 Cured Rugged Hides.",    ["Progress"]="The secret is in the banding.",    ["Completion"]="I've always thought that the pauldrons are the most pronounced pieces of a suit of armor. I'm sure you agree.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9039"] = {    ["Title"]="Dreadnaught Sabatons",    ["Description"]="During your battles with the Scourge in Naxxramas, should you come across desecrated battlements and wartorn plate scraps, return them to me and I shall craft for you a piece of armor worn by heroes.",    ["Objectives"]="Korfax at Light's Hope Chapel in the Eastern Plaguelands will make Dreadnaught Sabatons if you bring him the following items: 1 Desecrated Sabatons, 12 Wartorn Plate Scraps, 2 Arcanite Bars and 3 Cured Rugged Hides.",    ["Progress"]="Never underestimate a good pair of boots. Especially when they're made by Korfax!",    ["Completion"]="In the last war, I watched Mograine crack open the fetid skulls of the living dead with these very boots.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9040"] = {    ["Title"]="Dreadnaught Gauntlets",    ["Description"]="During your battles with the Scourge in Naxxramas, should you come across desecrated battlements and wartorn plate scraps, return them to me and I shall craft for you a piece of armor worn by heroes.",    ["Objectives"]="Korfax at Light's Hope Chapel in the Eastern Plaguelands will make Dreadnaught Gauntlets if you bring him the following items: 1 Desecrated Gauntlets, 8 Wartorn Plate Scraps, 1 Arcanite Bar and 5 Cured Rugged Hides.",    ["Progress"]="These gauntlets are made to grip a fine weapon.",    ["Completion"]="May your grip tighten around the neck of Kel'Thuzad.NEW_LINENEW_LINE<Korfax makes a wrenching motion with his hands.>",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9041"] = {    ["Title"]="Dreadnaught Waistguard",    ["Description"]="During your battles with the Scourge in Naxxramas, should you come across desecrated battlements and wartorn plate scraps, return them to me and I shall craft for you a piece of armor worn by heroes.",    ["Objectives"]="Korfax at Light's Hope Chapel in the Eastern Plaguelands will make a Dreadnaught Waistguard if you bring him the following items: 1 Desecrated Waistguard, 8 Wartorn Plate Scraps, 1 Arcanite Bar and 5 Cured Rugged Hides.",    ["Progress"]="The belt is both a fashion statement and a powerful piece of protective gear.",    ["Completion"]="Use it as a noose for your enemies. Also, wear it out to your local goblin disco. You will be the talk of the town!",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9042"] = {    ["Title"]="Dreadnaught Bracers",    ["Description"]="During your battles with the Scourge in Naxxramas, should you come across desecrated battlements and wartorn plate scraps, return them to me and I shall craft for you a piece of armor worn by heroes.",    ["Objectives"]="Korfax at Light's Hope Chapel in the Eastern Plaguelands will make Dreadnaught Bracers if you bring him the following items: 1 Desecrated Bracers, 6 Wartorn Plate Scraps, 1 Arcanite Bar and 1 Nexus Crystal.",    ["Progress"]="The wrist is the second most vulnerable spot on a body... Or is it the fourth?",    ["Completion"]="Remember, the wrist is the fifth most vulnerable spot on a body! Protect your wrists and they'll definitely protect your elbows - maybe.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9043"] = {    ["Title"]="Redemption Tunic",    ["Description"]="You will find the remnants of our fallen heroes on the corpses of the Lords of Naxxramas. Bring those desecrated keepsakes to me along with wartorn plate scraps and crafting materials capable of revitalizing the cursed armor and I shall craft a fine piece of armor for you.",    ["Objectives"]="Commander Eligor Dawnbringer at Light's Hope Chapel in the Eastern Plaguelands will make a Redemption Tunic if you bring him the following: 1 Desecrated Tunic, 25 Wartorn Plate Scraps, 4 Arcanite Bars and 3 Cured Rugged Hides.",    ["Progress"]="My orders come from on high, YOUR_NAME.",    ["Completion"]="Wear it in good health, $C.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9044"] = {    ["Title"]="Redemption Legguards",    ["Description"]="You will find the remnants of our fallen heroes on the corpses of the Lords of Naxxramas. Bring those desecrated keepsakes to me along with wartorn plate scraps and crafting materials capable of revitalizing the cursed armor and I shall craft a fine piece of armor for you.",    ["Objectives"]="Commander Eligor Dawnbringer at Light's Hope Chapel in the Eastern Plaguelands will make a pair of Redemption Legguards if you bring him the following: 1 Desecrated Legguards, 20 Wartorn Plate Scraps, 4 Arcanite Bars and 2 Nexus Crystals.",    ["Progress"]="You will not find a better suited pair of legguards for a holy warrior.",    ["Completion"]="The balance between melee and magic is kept tightly in check with these legguards.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9045"] = {    ["Title"]="Redemption Headpiece",    ["Description"]="You will find the remnants of our fallen heroes on the corpses of the Lords of Naxxramas. Bring those desecrated keepsakes to me along with wartorn plate scraps and crafting materials capable of revitalizing the cursed armor and I shall craft a fine piece of armor for you.",    ["Objectives"]="Commander Eligor Dawnbringer at Light's Hope Chapel in the Eastern Plaguelands will make a Redemption Headpiece if you bring him the following: 1 Desecrated Headpiece, 15 Wartorn Plate Scraps, 5 Arcanite Bars and 2 Cured Rugged Hides.",    ["Progress"]="<Eligor looks up at you and then returns to his conversation.>",    ["Completion"]="<Eligor points to his head.>NEW_LINENEW_LINEKeep it covered, $C.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9046"] = {    ["Title"]="Redemption Spaulders",    ["Description"]="You will find the remnants of our fallen heroes on the corpses of the Lords of Naxxramas. Bring those desecrated keepsakes to me along with wartorn plate scraps and crafting materials capable of revitalizing the cursed armor and I shall craft a fine piece of armor for you.",    ["Objectives"]="Commander Eligor Dawnbringer at Light's Hope Chapel in the Eastern Plaguelands will make a pair of Redemption Spaulders if you bring him the following: 1 Desecrated Spaulders, 12 Wartorn Plate Scraps, 2 Arcanite Bars and 2 Nexus Crystals.",    ["Progress"]="Can you not see that we are in the middle of something, YOUR_NAME?",    ["Completion"]="Any $C will tell you that the brunt of their power comes from the shoulders. The bigger the better...",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9047"] = {    ["Title"]="Redemption Boots",    ["Description"]="You will find the remnants of our fallen heroes on the corpses of the Lords of Naxxramas. Bring those desecrated keepsakes to me along with wartorn plate scraps and crafting materials capable of revitalizing the cursed armor and I shall craft a fine piece of armor for you.",    ["Objectives"]="Commander Eligor Dawnbringer at Light's Hope Chapel in the Eastern Plaguelands will make Redemption Boots if you bring him the following: 1 Desecrated Boots, 12 Wartorn Plate Scraps, 2 Arcanite Bars and 3 Cured Rugged Hides.",    ["Progress"]="You must provide me with what I have asked if I am to begin crafting.",    ["Completion"]="These boots will protect your feet against the attacks of very short Scourge.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9048"] = {    ["Title"]="Redemption Handguards",    ["Description"]="You will find the remnants of our fallen heroes on the corpses of the Lords of Naxxramas. Bring those desecrated keepsakes to me along with wartorn plate scraps and crafting materials capable of revitalizing the cursed armor and I shall craft a fine piece of armor for you.",    ["Objectives"]="Commander Eligor Dawnbringer at Light's Hope Chapel in the Eastern Plaguelands will make Redemption Handguards if you bring him the following: 1 Desecrated Handguards, 8 Wartorn Plate Scraps, 1 Arcanite Bar and 5 Cured Rugged Hides.",    ["Progress"]="You must provide me with what I have asked if I am to begin crafting.",    ["Completion"]="Let the Light channel through these handguards and strike down your foes!",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9049"] = {    ["Title"]="Redemption Girdle",    ["Description"]="You will find the remnants of our fallen heroes on the corpses of the Lords of Naxxramas. Bring those desecrated keepsakes to me along with wartorn plate scraps and crafting materials capable of revitalizing the cursed armor and I shall craft a fine piece of armor for you.",    ["Objectives"]="Commander Eligor Dawnbringer at Light's Hope Chapel in the Eastern Plaguelands will make a Redemption Girdle if you bring him the following: 1 Desecrated Girdle, 8 Wartorn Plate Scraps, 1 Arcanite Bar and 3 Nexus Crystals.",    ["Progress"]="You must provide me with what I have asked if I am to begin crafting.",    ["Completion"]="This girdle will serve two functions: 1) It will protect and guide you against the Scourge and 2) Make you look 20 pounds lighter.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9050"] = {    ["Title"]="Redemption Wristguards",    ["Description"]="You will find the remnants of our fallen heroes on the corpses of the Lords of Naxxramas. Bring those desecrated keepsakes to me along with wartorn plate scraps and crafting materials capable of revitalizing the cursed armor and I shall craft a fine piece of armor for you.",    ["Objectives"]="Commander Eligor Dawnbringer at Light's Hope Chapel in the Eastern Plaguelands will make Redemption Wristguards if you bring him the following: 1 Desecrated Wristguards, 6 Wartorn Plate Scraps, 1 Arcanite Bar and 2 Cured Rugged Hides.",    ["Progress"]="You must provide me with what I have asked if I am to begin crafting.",    ["Completion"]="These are exceptionally cost effective to construct, but be warned, they may take on rust if you splash around in them too much.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9054"] = {    ["Title"]="Cryptstalker Tunic",    ["Description"]="I have discovered a use for the carapace of the crypt fiend. I am able to fashion an extremely light and very deadly set of armor by combining the fragments with some of the desecrated magical armors lost in Naxxramas.NEW_LINENEW_LINEBring me the items I require and I shall fashion for you a suit of armor the likes of which has never before been seen in our world!",    ["Objectives"]="Huntsman Leopold at Light's Hope Chapel in the Eastern Plaguelands will make a Cryptstalker Tunic if you bring him the following: 1 Desecrated Tunic, 25 Wartorn Chain Scraps, 4 Arcanite Bars and 3 Cured Rugged Hides.",    ["Progress"]="Do you have the items I asked for, $C?",    ["Completion"]="They will fear you, YOUR_NAME.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9055"] = {    ["Title"]="Cryptstalker Legguards",    ["Description"]="I have discovered a use for the carapace of the crypt fiend. I am able to fashion an extremely light and very deadly set of armor by combining the fragments with some of the desecrated magical armors lost in Naxxramas.NEW_LINENEW_LINEBring me the items I require and I shall fashion for you a suit of armor the likes of which has never before been seen in our world!",    ["Objectives"]="Huntsman Leopold at Light's Hope Chapel in the Eastern Plaguelands will make Cryptstalker Legguards if you bring him the following: 1 Desecrated Legguards, 20 Wartorn Chain Scraps, 3 Arcanite Bars and 5 Cured Rugged Hides.",    ["Progress"]="Do you have the items I asked for, $C?",    ["Completion"]="As you don more of this armor, you will notice that your persona is changing. You will gain a preternatural ability for killing. Perhaps, even, a lust for blood.NEW_LINENEW_LINELet it be said that I will not be held responsible for what chaos you may invoke...",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9056"] = {    ["Title"]="Cryptstalker Headpiece",    ["Description"]="I have discovered a use for the carapace of the crypt fiend. I am able to fashion an extremely light and very deadly set of armor by combining the fragments with some of the desecrated magical armors lost in Naxxramas.NEW_LINENEW_LINEBring me the items I require and I shall fashion for you a suit of armor the likes of which has never before been seen in our world!",    ["Objectives"]="Huntsman Leopold at Light's Hope Chapel in the Eastern Plaguelands will make a Cryptstalker Headpiece if you bring him the following: 1 Desecrated Headpiece, 15 Wartorn Chain Scraps, 4 Arcanite Bars and 2 Nexus Crystals.",    ["Progress"]="Do you have the items I asked for, $C?",    ["Completion"]="You are turning into a fearsome creature, YOUR_NAME.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9057"] = {    ["Title"]="Cryptstalker Spaulders",    ["Description"]="I have discovered a use for the carapace of the crypt fiend. I am able to fashion an extremely light and very deadly set of armor by combining the fragments with some of the desecrated magical armors lost in Naxxramas.NEW_LINENEW_LINEBring me the items I require and I shall fashion for you a suit of armor the likes of which has never before been seen in our world!",    ["Objectives"]="Huntsman Leopold at Light's Hope Chapel in the Eastern Plaguelands will make Cryptstalker Spaulders if you bring him the following: 1 Desecrated Spaulders, 12 Wartorn Chain Scraps, 2 Arcanite Bars and 3 Cured Rugged Hides.",    ["Progress"]="Do you have the items I asked for, $C?",    ["Completion"]="I have taken special care in making these shoulders as large and pronounced as possible.NEW_LINENEW_LINETake my word for it; you're going to love them...",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9058"] = {    ["Title"]="Cryptstalker Boots",    ["Description"]="I have discovered a use for the carapace of the crypt fiend. I am able to fashion an extremely light and very deadly set of armor by combining the fragments with some of the desecrated magical armors lost in Naxxramas.NEW_LINENEW_LINEBring me the items I require and I shall fashion for you a suit of armor the likes of which has never before been seen in our world!",    ["Objectives"]="Huntsman Leopold at Light's Hope Chapel in the Eastern Plaguelands will make Cryptstalker Boots if you bring him the following: 1 Desecrated Boots, 12 Wartorn Chain Scraps, 1 Arcanite Bar and 3 Nexus Crystals.",    ["Progress"]="Do you have the items I asked for, $C?",    ["Completion"]="The boots are ready, YOUR_NAME! Wear them well.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9059"] = {    ["Title"]="Cryptstalker Handguards",    ["Description"]="I have discovered a use for the carapace of the crypt fiend. I am able to fashion an extremely light and very deadly set of armor by combining the fragments with some of the desecrated magical armors lost in Naxxramas.NEW_LINENEW_LINEBring me the items I require and I shall fashion for you a suit of armor the likes of which has never before been seen in our world!",    ["Objectives"]="Huntsman Leopold at Light's Hope Chapel in the Eastern Plaguelands will make Cryptstalker Handguards if you bring him the following: 1 Desecrated Handguards, 8 Wartorn Chain Scraps, 1 Arcanite Bar and 5 Cured Rugged Hides.",    ["Progress"]="Do you have the items I asked for, $C?",    ["Completion"]="Let the rage of the crypt fiend guide your hand, YOUR_NAME.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9060"] = {    ["Title"]="Cryptstalker Girdle",    ["Description"]="I have discovered a use for the carapace of the crypt fiend. I am able to fashion an extremely light and very deadly set of armor by combining the fragments with some of the desecrated magical armors lost in Naxxramas.NEW_LINENEW_LINEBring me the items I require and I shall fashion for you a suit of armor the likes of which has never before been seen in our world!",    ["Objectives"]="Huntsman Leopold at Light's Hope Chapel in the Eastern Plaguelands will make a Cryptstalker Girdle if you bring him the following: 1 Desecrated Girdle, 8 Wartorn Chain Scraps, 1 Arcanite Bar and 3 Nexus Crystals.",    ["Progress"]="Do you have the items I asked for, $C?",    ["Completion"]="A girdle fit for royalty! It's ready for you, YOUR_NAME.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9061"] = {    ["Title"]="Cryptstalker Wristguards",    ["Description"]="I have discovered a use for the carapace of the crypt fiend. I am able to fashion an extremely light and very deadly set of armor by combining the fragments with some of the desecrated magical armors lost in Naxxramas.NEW_LINENEW_LINEBring me the items I require and I shall fashion for you a suit of armor the likes of which has never before been seen in our world!",    ["Objectives"]="Huntsman Leopold at Light's Hope Chapel in the Eastern Plaguelands will make Cryptstalker Wristguards if you bring him the following: 1 Desecrated Wristguards, 6 Wartorn Chain Scraps, 1 Arcanite Bar and 2 Cured Rugged Hides.",    ["Progress"]="Do you have the items I asked for, $C?",    ["Completion"]="The wristguards are ready. Enjoy!",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9068"] = {    ["Title"]="Earthshatter Tunic",    ["Description"]="Would you honor me by returning the armor of those that fell in the defense of these lands?NEW_LINENEW_LINEThe armor has been desecrated and is undoubtedly being used for evil; however, with wartorn armor scraps, the desecrated armor can be renewed and worn for battle once more.NEW_LINENEW_LINEBring me the remnants of the fallen along with purification materials and Earthshatter shall be yours to don.NEW_LINENEW_LINESearch Naxxramas.",    ["Objectives"]="Rimblat Earthshatter at Light's Hope Chapel in the Eastern Plaguelands will make an Earthshatter Tunic if you bring him the following: 1 Desecrated Tunic, 25 Wartorn Chain Scraps, 4 Arcanite Bars and 3 Cured Rugged Hides.",    ["Progress"]="<Rimblat snorts at you.>",    ["Completion"]="Easily the most powerful and awe-inspiring piece of Earthshatter. My ancestors smile down upon you for this achievement, YOUR_NAME.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9069"] = {    ["Title"]="Earthshatter Legguards",    ["Description"]="Would you honor me by returning the armor of those that fell in the defense of these lands?NEW_LINENEW_LINEThe armor has been desecrated and is undoubtedly being used for evil; however, with wartorn armor scraps, the desecrated armor can be renewed and worn for battle once more.NEW_LINENEW_LINEBring me the remnants of the fallen along with purification materials and Earthshatter shall be yours to don.NEW_LINENEW_LINESearch Naxxramas.",    ["Objectives"]="Rimblat Earthshatter at Light's Hope Chapel in the Eastern Plaguelands will make Earthshatter Legguards if you bring him the following: 1 Desecrated Legguards, 20 Wartorn Chain Scraps, 3 Arcanite Bars and 5 Cured Rugged Hides.",    ["Progress"]="If nothing else, the land must be saved.",    ["Completion"]="I hope that you do not share the same fate as those that came before you, YOUR_NAME.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9070"] = {    ["Title"]="Earthshatter Headpiece",    ["Description"]="Would you honor me by returning the armor of those that fell in the defense of these lands?NEW_LINENEW_LINEThe armor has been desecrated and is undoubtedly being used for evil; however, with wartorn armor scraps, the desecrated armor can be renewed and worn for battle once more.NEW_LINENEW_LINEBring me the remnants of the fallen along with purification materials and Earthshatter shall be yours to don.NEW_LINENEW_LINESearch Naxxramas.",    ["Objectives"]="Rimblat Earthshatter at Light's Hope Chapel in the Eastern Plaguelands will make an Earthshatter Headpiece if you bring him the following: 1 Desecrated Headpiece, 15 Wartorn Chain Scraps, 4 Arcanite Bars and 2 Nexus Crystals.",    ["Progress"]="Have you brought me that which I require?",    ["Completion"]="I present you with the centerpiece of Earthshatter vestments: The Earthshatter helmet...",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9071"] = {    ["Title"]="Earthshatter Spaulders",    ["Description"]="Would you honor me by returning the armor of those that fell in the defense of these lands?NEW_LINENEW_LINEThe armor has been desecrated and is undoubtedly being used for evil; however, with wartorn armor scraps, the desecrated armor can be renewed and worn for battle once more.NEW_LINENEW_LINEBring me the remnants of the fallen along with purification materials and Earthshatter shall be yours to don.NEW_LINENEW_LINESearch Naxxramas.",    ["Objectives"]="Rimblat Earthshatter at Light's Hope Chapel in the Eastern Plaguelands will make Earthshatter Spaulders if you bring him the following: 1 Desecrated Spaulders, 12 Wartorn Chain Scraps, 2 Arcanite Bars and 2 Mooncloth.",    ["Progress"]="Have you brought me that which I require?",    ["Completion"]="From the shoulders comes balance.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9072"] = {    ["Title"]="Earthshatter Boots",    ["Description"]="Would you honor me by returning the armor of those that fell in the defense of these lands?NEW_LINENEW_LINEThe armor has been desecrated and is undoubtedly being used for evil; however, with wartorn armor scraps, the desecrated armor can be renewed and worn for battle once more.NEW_LINENEW_LINEBring me the remnants of the fallen along with purification materials and Earthshatter shall be yours to don.NEW_LINENEW_LINESearch Naxxramas.",    ["Objectives"]="Rimblat Earthshatter at Light's Hope Chapel in the Eastern Plaguelands will make Earthshatter Boots if you bring him the following: 1 Desecrated Boots, 12 Wartorn Chain Scraps, 1 Arcanite Bar and 3 Nexus Crystals.",    ["Progress"]="Have you brought me that which I require?",    ["Completion"]="These boots are infused with the power of my ancestors! Tread wisely...",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9073"] = {    ["Title"]="Earthshatter Handguards",    ["Description"]="Would you honor me by returning the armor of those that fell in the defense of these lands?NEW_LINENEW_LINEThe armor has been desecrated and is undoubtedly being used for evil; however, with wartorn armor scraps, the desecrated armor can be renewed and worn for battle once more.NEW_LINENEW_LINEBring me the remnants of the fallen along with purification materials and Earthshatter shall be yours to don.NEW_LINENEW_LINESearch Naxxramas.",    ["Objectives"]="Rimblat Earthshatter at Light's Hope Chapel in the Eastern Plaguelands will make Earthshatter Handguards if you bring him the following: 1 Desecrated Handguards, 8 Wartorn Chain Scraps, 1 Arcanite Bar and 5 Cured Rugged Hides.",    ["Progress"]="Have you brought me that which I require?",    ["Completion"]="These handguards channel the power of the elements!",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9074"] = {    ["Title"]="Earthshatter Girdle",    ["Description"]="Would you honor me by returning the armor of those that fell in the defense of these lands?NEW_LINENEW_LINEThe armor has been desecrated and is undoubtedly being used for evil; however, with wartorn armor scraps, the desecrated armor can be renewed and worn for battle once more.NEW_LINENEW_LINEBring me the remnants of the fallen along with purification materials and Earthshatter shall be yours to don.NEW_LINENEW_LINESearch Naxxramas.",    ["Objectives"]="Rimblat Earthshatter at Light's Hope Chapel in the Eastern Plaguelands will make an Earthshatter Girdle if you bring him the following: 1 Desecrated Girdle, 8 Wartorn Chain Scraps, 1 Arcanite Bar and 3 Nexus Crystals.",    ["Progress"]="Have you brought me that which I require?",    ["Completion"]="The girdle is ready, YOUR_NAME.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9075"] = {    ["Title"]="Earthshatter Wristguards",    ["Description"]="Would you honor me by returning the armor of those that fell in the defense of these lands?NEW_LINENEW_LINEThe armor has been desecrated and is undoubtedly being used for evil; however, with wartorn armor scraps, the desecrated armor can be renewed and worn for battle once more.NEW_LINENEW_LINEBring me the remnants of the fallen along with purification materials and Earthshatter shall be yours to don.NEW_LINENEW_LINESearch Naxxramas.",    ["Objectives"]="Rimblat Earthshatter at Light's Hope Chapel in the Eastern Plaguelands will make Earthshatter Wristguards if you bring him the following: 1 Desecrated Wristguards, 6 Wartorn Chain Scraps, 1 Arcanite Bar and 2 Cured Rugged Hides.",    ["Progress"]="Have you brought me that which I require?",    ["Completion"]="The wristguards are ready, YOUR_NAME.NEW_LINENEW_LINE<Rimblat bows.>",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9077"] = {    ["Title"]="Bonescythe Breastplate",    ["Description"]="If you want Bonescythe made, you're going to have to supply the materials.NEW_LINENEW_LINEEnter Naxxramas, the big floating city of death in the sky up there, and find desecrated armor and wartorn armor scraps. Bring those back along with the materials to put everything together and you'll have your Bonescythe. Oh, and you'll need to pay me for my troubles... I'll supply the bones.",    ["Objectives"]="Rohan the Assassin at Light's Hope Chapel in the Eastern Plaguelands will make a Bonescythe Breastplate if you bring him the following: 1 Desecrated Breastplate, 25 Wartorn Leather Scraps, 2 Arcanite Bars and 6 Cured Rugged Hides.",    ["Progress"]="<Rohan shows you his moves.>NEW_LINENEW_LINEWhat is it, YOUR_NAME? I've got to hit this mark perfectly for the competition later.",    ["Completion"]="There you go, YOUR_RACE. As promised, the Bonescythe breastplate. I hope the fashion authorities aren't around. You'd be thrown in the slammer for wearing that out!",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9078"] = {    ["Title"]="Bonescythe Legplates",    ["Description"]="If you want Bonescythe made, you're going to have to supply the materials.NEW_LINENEW_LINEEnter Naxxramas, the big floating city of death in the sky up there, and find desecrated armor and wartorn armor scraps. Bring those back along with the materials to put everything together and you'll have your Bonescythe. Oh, and you'll need to pay me for my troubles... I'll supply the bones.",    ["Objectives"]="Rohan the Assassin at Light's Hope Chapel in the Eastern Plaguelands will make Bonescythe Legplates if you bring him the following: 1 Desecrated Legplates, 20 Wartorn Leather Scraps, 1 Arcanite Bar, 8 Cured Rugged Hides and 100 gold pieces.",    ["Progress"]="<Rohan laughs.>NEW_LINENEW_LINEI just realized the irony in all of this.",    ["Completion"]="Be careful walking around in those things. You might cut yourself.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9079"] = {    ["Title"]="Bonescythe Helmet",    ["Description"]="If you want Bonescythe made, you're going to have to supply the materials.NEW_LINENEW_LINEEnter Naxxramas, the big floating city of death in the sky up there, and find desecrated armor and wartorn armor scraps. Bring those back along with the materials to put everything together and you'll have your Bonescythe. Oh, and you'll need to pay me for my troubles... I'll supply the bones.",    ["Objectives"]="Rohan the Assassin at Light's Hope Chapel in the Eastern Plaguelands will make a Bonescythe Helmet if you bring him the following: 1 Desecrated Helmet, 15 Wartorn Leather Scraps, 8 Cured Rugged Hides, 1 Nexus Crystal and 75 gold pieces.",    ["Progress"]="You're giving me money.NEW_LINENEW_LINE<Rohan laughs.>NEW_LINENEW_LINEThat still cracks me up.",    ["Completion"]="What separates my Bonescythe helmet model from Don Julio's is style, YOUR_NAME. Style...",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9080"] = {    ["Title"]="Bonescythe Pauldrons",    ["Description"]="If you want Bonescythe made, you're going to have to supply the materials.NEW_LINENEW_LINEEnter Naxxramas, the big floating city of death in the sky up there, and find desecrated armor and wartorn armor scraps. Bring those back along with the materials to put everything together and you'll have your Bonescythe. Oh, and you'll need to pay me for my troubles... I'll supply the bones.",    ["Objectives"]="Rohan the Assassin at Light's Hope Chapel in the Eastern Plaguelands will make Bonescythe Pauldrons if you bring him the following: 1 Desecrated Pauldrons, 12 Wartorn Leather Scraps, 5 Cured Rugged Hides, 1 Nexus Crystal and 50 gold pieces.",    ["Progress"]="<Rohan eyes you suspiciously.>NEW_LINENEW_LINEBeen to Tyr's Hand lately?",    ["Completion"]="<Rohan wipes the sweat from his brow.>NEW_LINENEW_LINEThese shoulders took some work! Don't go out and get yourself killed like a scrub, YOUR_NAME.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9081"] = {    ["Title"]="Bonescythe Sabatons",    ["Description"]="If you want Bonescythe made, you're going to have to supply the materials.NEW_LINENEW_LINEEnter Naxxramas, the big floating city of death in the sky up there, and find desecrated armor and wartorn armor scraps. Bring those back along with the materials to put everything together and you'll have your Bonescythe. Oh, and you'll need to pay me for my troubles... I'll supply the bones.",    ["Objectives"]="Rohan the Assassin at Light's Hope Chapel in the Eastern Plaguelands will make Bonescythe Sabatons if you bring him the following: 1 Desecrated Sabatons, 12 Wartorn Leather Scraps, 3 Cured Rugged Hides, 2 Nexus Crystals and 25 gold pieces.",    ["Progress"]="Just bring me the materials and stop wasting my time, $C.",    ["Completion"]="They go on your feet. Say, you haven't been nosing around in Tyr's Hand again, have you?",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9082"] = {    ["Title"]="Bonescythe Gauntlets",    ["Description"]="If you want Bonescythe made, you're going to have to supply the materials.NEW_LINENEW_LINEEnter Naxxramas, the big floating city of death in the sky up there, and find desecrated armor and wartorn armor scraps. Bring those back along with the materials to put everything together and you'll have your Bonescythe. Oh, and you'll need to pay me for my troubles... I'll supply the bones.",    ["Objectives"]="Rohan the Assassin at Light's Hope Chapel in the Eastern Plaguelands will make Bonescythe Gauntlets if you bring him the following: 1 Desecrated Gauntlets, 8 Wartorn Leather Scraps, 1 Arcanite Bar and 5 Cured Rugged Hides.",    ["Progress"]="How do you expect me to get anything done without the items I requested?",    ["Completion"]="These gauntlets could probably substitute as weapons if absolutely necessary. Wear them with pride!",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9083"] = {    ["Title"]="Bonescythe Waistguard",    ["Description"]="If you want Bonescythe made, you're going to have to supply the materials.NEW_LINENEW_LINEEnter Naxxramas, the big floating city of death in the sky up there, and find desecrated armor and wartorn armor scraps. Bring those back along with the materials to put everything together and you'll have your Bonescythe. Oh, and you'll need to pay me for my troubles... I'll supply the bones.",    ["Objectives"]="Rohan the Assassin at Light's Hope Chapel in the Eastern Plaguelands will make a Bonescythe Waistguard if you bring him the following: 1 Desecrated Waistguard, 8 Wartorn Leather Scraps, 5 Cured Rugged Hides, 1 Nexus Crystal and 15 gold pieces.",    ["Progress"]="How do you expect me to get anything done without the items I requested?",    ["Completion"]="The belt is ready, YOUR_NAME. Have you ever seen such a high-quality item sold for so little?",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9084"] = {    ["Title"]="Bonescythe Bracers",    ["Description"]="If you want Bonescythe made, you're going to have to supply the materials.NEW_LINENEW_LINEEnter Naxxramas, the big floating city of death in the sky up there, and find desecrated armor and wartorn armor scraps. Bring those back along with the materials to put everything together and you'll have your Bonescythe. Oh, and you'll need to pay me for my troubles... I'll supply the bones.",    ["Objectives"]="Rohan the Assassin at Light's Hope Chapel in the Eastern Plaguelands will make Bonescythe Bracers if you bring him the following: 1 Desecrated Bracers, 6 Wartorn Leather Scraps, 1 Arcanite Bar, 2 Cured Rugged Hides and 10 gold pieces.",    ["Progress"]="How do you expect me to get anything done without the items I requested?",    ["Completion"]="The bracers are ready, YOUR_NAME.NEW_LINENEW_LINE<Rohan bows.>",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9085"] = {    ["Title"]="Shadows of Doom",    ["Description"]="After you bring down the defenses of the Scourge summoning circles that have appeared in the zones under attack, you will be able to confront the acolytes who protect them.NEW_LINENEW_LINEIn truth, these are not men. They are shadows, some of the Lich King's most frightening creatures. They can be revealed using the necrotic runes they carry, and then destroyed with magic or strength of arms.",    ["Objectives"]="Go to a summoning circle and kill a Shadow of Doom, then return to Commander Thomas Helleran at Light's Hope Chapel in Eastern Plaguelands.",    ["Progress"]="Have you had any luck, YOUR_NAME?",    ["Completion"]="",    ["minlevel"]="50",    ["questlevel"]="60"},
-
-	["9086"] = {    ["Title"]="Dreamwalker Tunic",    ["Description"]="Many heroes fell in the last war and many continue to perish at the hands of the Scourge to this day. From the corpses of the fallen, the armor is stripped and taken back to Naxxramas to be used for unknown purposes.NEW_LINENEW_LINERecover the desecrated armor and wartorn armor scraps and supply to me the other material components I require and I will craft Dreamwalker armor.",    ["Objectives"]="Rayne at Light's Hope Chapel in the Eastern Plaguelands will make a Dreamwalker Tunic if you bring her the following: 1 Desecrated Tunic, 25 Wartorn Leather Scraps, 6 Cured Rugged Hides and 2 Nexus Crystals.",    ["Progress"]="The material cost is high, but soon forgotten.",    ["Completion"]="Your Dreamwalker Tunic is ready, YOUR_NAME.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9087"] = {    ["Title"]="Dreamwalker Legguards",    ["Description"]="Many heroes fell in the last war and many continue to perish at the hands of the Scourge to this day. From the corpses of the fallen, the armor is stripped and taken back to Naxxramas to be used for unknown purposes.NEW_LINENEW_LINERecover the desecrated armor and wartorn armor scraps and supply to me the other material components I require and I will craft Dreamwalker armor.",    ["Objectives"]="Rayne at Light's Hope Chapel in the Eastern Plaguelands will make Dreamwalker Legguards if you bring her the following: 1 Desecrated Legguards, 20 Wartorn Leather Scraps, 8 Cured Rugged Hides and 1 Nexus Crystal.",    ["Progress"]="The material cost is high, but soon forgotten.",    ["Completion"]="As promised, Dreamwalker Legguards.NEW_LINENEW_LINE<Rayne hands you the armor.>",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9088"] = {    ["Title"]="Dreamwalker Headpiece",    ["Description"]="Many heroes fell in the last war and many continue to perish at the hands of the Scourge to this day. From the corpses of the fallen, the armor is stripped and taken back to Naxxramas to be used for unknown purposes.NEW_LINENEW_LINERecover the desecrated armor and wartorn armor scraps and supply to me the other material components I require and I will craft Dreamwalker armor.",    ["Objectives"]="Rayne at Light's Hope Chapel in the Eastern Plaguelands will make a Dreamwalker Headpiece if you bring her the following: 1 Desecrated Headpiece, 15 Wartorn Leather Scraps, 6 Cured Rugged Hides and 2 Nexus Crystals.",    ["Progress"]="The material cost is high, but soon forgotten.",    ["Completion"]="Your Dreamwalker Headpiece is ready, YOUR_NAME.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9089"] = {    ["Title"]="Dreamwalker Spaulders",    ["Description"]="Many heroes fell in the last war and many continue to perish at the hands of the Scourge to this day. From the corpses of the fallen, the armor is stripped and taken back to Naxxramas to be used for unknown purposes.NEW_LINENEW_LINERecover the desecrated armor and wartorn armor scraps and supply to me the other material components I require and I will craft Dreamwalker armor.",    ["Objectives"]="Rayne at Light's Hope Chapel in the Eastern Plaguelands will make Dreamwalker Spaulders if you bring her the following: 1 Desecrated Spaulders, 12 Wartorn Leather Scraps, 5 Cured Rugged Hides and 1 Nexus Crystal.",    ["Progress"]="The material cost is high, but soon forgotten.",    ["Completion"]="Your Dreamwalker Spaulders are ready, YOUR_NAME.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9090"] = {    ["Title"]="Dreamwalker Boots",    ["Description"]="Many heroes fell in the last war and many continue to perish at the hands of the Scourge to this day. From the corpses of the fallen, the armor is stripped and taken back to Naxxramas to be used for unknown purposes.NEW_LINENEW_LINERecover the desecrated armor and wartorn armor scraps and supply to me the other material components I require and I will craft Dreamwalker armor.",    ["Objectives"]="Rayne at Light's Hope Chapel in the Eastern Plaguelands will make Dreamwalker Boots if you bring her the following: 1 Desecrated Boots, 12 Wartorn Leather Scraps, 3 Mooncloth and 2 Cured Rugged Hides.",    ["Progress"]="The material cost is high, but soon forgotten.",    ["Completion"]="Your Dreamwalker Boots are ready, YOUR_NAME.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9091"] = {    ["Title"]="Dreamwalker Handguards",    ["Description"]="Many heroes fell in the last war and many continue to perish at the hands of the Scourge to this day. From the corpses of the fallen, the armor is stripped and taken back to Naxxramas to be used for unknown purposes.NEW_LINENEW_LINERecover the desecrated armor and wartorn armor scraps and supply to me the other material components I require and I will craft Dreamwalker armor.",    ["Objectives"]="Rayne at Light's Hope Chapel in the Eastern Plaguelands will make Dreamwalker Handguards if you bring her the following: 1 Desecrated Handguards, 8 Wartorn Leather Scraps, 5 Cured Rugged Hides and 1 Nexus Crystal.",    ["Progress"]="The material cost is high, but soon forgotten.",    ["Completion"]="Your Dreamwalker Handguards are ready, YOUR_NAME.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9092"] = {    ["Title"]="Dreamwalker Girdle",    ["Description"]="Many heroes fell in the last war and many continue to perish at the hands of the Scourge to this day. From the corpses of the fallen, the armor is stripped and taken back to Naxxramas to be used for unknown purposes.NEW_LINENEW_LINERecover the desecrated armor and wartorn armor scraps and supply to me the other material components I require and I will craft Dreamwalker armor.",    ["Objectives"]="Rayne at Light's Hope Chapel in the Eastern Plaguelands will make a Dreamwalker Girdle if you bring her the following: 1 Desecrated Girdle, 8 Wartorn Leather Scraps, 3 Mooncloth and 2 Cured Rugged Hides.",    ["Progress"]="The material cost is high, but soon forgotten.",    ["Completion"]="Your Dreamwalker Girdle is ready, YOUR_NAME.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9093"] = {    ["Title"]="Dreamwalker Wristguards",    ["Description"]="Many heroes fell in the last war and many continue to perish at the hands of the Scourge to this day. From the corpses of the fallen, the armor is stripped and taken back to Naxxramas to be used for unknown purposes.NEW_LINENEW_LINERecover the desecrated armor and wartorn armor scraps and supply to me the other material components I require and I will craft Dreamwalker armor.",    ["Objectives"]="Rayne at Light's Hope Chapel in the Eastern Plaguelands will make Dreamwalker Wristguards if you bring her the following: 1 Desecrated Wristguards, 6 Wartorn Leather Scraps, 1 Arcane Crystal and 2 Cured Rugged Hides.",    ["Progress"]="The material cost is high, but soon forgotten.",    ["Completion"]="Your Dreamwalker Wristguards are ready, YOUR_NAME.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9094"] = {    ["Title"]="Argent Dawn Gloves",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="If you bring me thirty necrotic runes, I will give you your choice of hand protection in return. These should prove valuable in our fight against the undead Scourge.",    ["Completion"]="You've done well, YOUR_NAME. Take your pick of hand protection in thanks for your efforts.",    ["minlevel"]="50",    ["questlevel"]="60"},
-
-	["9095"] = {    ["Title"]="Frostfire Robe",    ["Description"]="As a Watcher, I was allowed access to many of Medivh's personal effects. Among those items, I found the tomes most enlightening. While the majority of the books were filled with - to put it bluntly - tripe, there were some gems. One of those tomes documented the creation of a set of armor fit for an archmage: Frostfire.NEW_LINENEW_LINE<Angela points to her head.>NEW_LINENEW_LINEIt's all in here and I am willing to share the fruits of that knowledge with you as long as you are able to provide me with the necessary materials.",    ["Objectives"]="Archmage Angela Dosantos at Light's Hope Chapel in the Eastern Plaguelands will make a Frostfire Robe if you bring her the following: 1 Desecrated Robe, 25 Wartorn Cloth Scraps, 4 Mooncloth and 2 Nexus Crystals.",    ["Progress"]="With the proper materials and reagents, I am able to reform the mythical Frostfire armor.",    ["Completion"]="Do not forget that power left unchecked is as destructive as power left unused, $C. Use discretion when donning Frostfire.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9096"] = {    ["Title"]="Frostfire Leggings",    ["Description"]="As a Watcher, I was allowed access to many of Medivh's personal effects. Among those items, I found the tomes most enlightening. While the majority of the books were filled with - to put it bluntly - tripe, there were some gems. One of those tomes documented the creation of a set of armor fit for an archmage: Frostfire.NEW_LINENEW_LINE<Angela points to her head.>NEW_LINENEW_LINEIt's all in here and I am willing to share the fruits of that knowledge with you as long as you are able to provide me with the necessary materials.",    ["Objectives"]="Archmage Angela Dosantos at Light's Hope Chapel in the Eastern Plaguelands will make Frostfire Leggings if you bring her the following: 1 Desecrated Leggings, 20 Wartorn Cloth Scraps, 4 Mooncloth and 2 Nexus Crystals.",    ["Progress"]="With the proper materials and reagents, I am able to reform the mythical Frostfire armor.",    ["Completion"]="Do not forget that power left unchecked is as destructive as power left unused, $C. Use discretion when donning Frostfire.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9097"] = {    ["Title"]="Frostfire Circlet",    ["Description"]="As a Watcher, I was allowed access to many of Medivh's personal effects. Among those items, I found the tomes most enlightening. While the majority of the books were filled with - to put it bluntly - tripe, there were some gems. One of those tomes documented the creation of a set of armor fit for an archmage: Frostfire.NEW_LINENEW_LINE<Angela points to her head.>NEW_LINENEW_LINEIt's all in here and I am willing to share the fruits of that knowledge with you as long as you are able to provide me with the necessary materials.",    ["Objectives"]="Archmage Angela Dosantos at Light's Hope Chapel in the Eastern Plaguelands will make a Frostfire Circlet if you bring her the following: 1 Desecrated Circlet, 15 Wartorn Cloth Scraps, 3 Mooncloth and 3 Nexus Crystals.",    ["Progress"]="With the proper materials and reagents, I am able to reform the mythical Frostfire armor.",    ["Completion"]="Do not forget that power left unchecked is as destructive as power left unused, $C. Use discretion when donning Frostfire.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9098"] = {    ["Title"]="Frostfire Shoulderpads",    ["Description"]="As a Watcher, I was allowed access to many of Medivh's personal effects. Among those items, I found the tomes most enlightening. While the majority of the books were filled with - to put it bluntly - tripe, there were some gems. One of those tomes documented the creation of a set of armor fit for an archmage: Frostfire.NEW_LINENEW_LINE<Angela points to her head.>NEW_LINENEW_LINEIt's all in here and I am willing to share the fruits of that knowledge with you as long as you are able to provide me with the necessary materials.",    ["Objectives"]="Archmage Angela Dosantos at Light's Hope Chapel in the Eastern Plaguelands will make Frostfire Shoulderpads if you bring her the following: 1 Desecrated Shoulderpads, 12 Wartorn Cloth Scraps, 2 Mooncloth and 3 Cured Rugged Hides.",    ["Progress"]="With the proper materials and reagents, I am able to reform the mythical Frostfire armor.",    ["Completion"]="Do not forget that power left unchecked is as destructive as power left unused, $C. Use discretion when donning Frostfire.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9099"] = {    ["Title"]="Frostfire Sandals",    ["Description"]="As a Watcher, I was allowed access to many of Medivh's personal effects. Among those items, I found the tomes most enlightening. While the majority of the books were filled with - to put it bluntly - tripe, there were some gems. One of those tomes documented the creation of a set of armor fit for an archmage: Frostfire.NEW_LINENEW_LINE<Angela points to her head.>NEW_LINENEW_LINEIt's all in here and I am willing to share the fruits of that knowledge with you as long as you are able to provide me with the necessary materials.",    ["Objectives"]="Archmage Angela Dosantos at Light's Hope Chapel in the Eastern Plaguelands will make Frostfire Sandals if you bring her the following: 1 Desecrated Sandals, 12 Wartorn Cloth Scraps, 2 Mooncloth and 3 Cured Rugged Hides.",    ["Progress"]="With the proper materials and reagents, I am able to reform the mythical Frostfire armor.",    ["Completion"]="Do not forget that power left unchecked is as destructive as power left unused, $C. Use discretion when donning Frostfire.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9100"] = {    ["Title"]="Frostfire Gloves",    ["Description"]="As a Watcher, I was allowed access to many of Medivh's personal effects. Among those items, I found the tomes most enlightening. While the majority of the books were filled with - to put it bluntly - tripe, there were some gems. One of those tomes documented the creation of a set of armor fit for an archmage: Frostfire.NEW_LINENEW_LINE<Angela points to her head.>NEW_LINENEW_LINEIt's all in here and I am willing to share the fruits of that knowledge with you as long as you are able to provide me with the necessary materials.",    ["Objectives"]="Archmage Angela Dosantos at Light's Hope Chapel in the Eastern Plaguelands will make Frostfire Gloves if you bring her the following: 1 Desecrated Gloves, 8 Wartorn Cloth Scraps and 4 Mooncloth.",    ["Progress"]="With the proper materials and reagents, I am able to reform the mythical Frostfire armor.",    ["Completion"]="Do not forget that power left unchecked is as destructive as power left unused, $C. Use discretion when donning Frostfire.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9101"] = {    ["Title"]="Frostfire Belt",    ["Description"]="As a Watcher, I was allowed access to many of Medivh's personal effects. Among those items, I found the tomes most enlightening. While the majority of the books were filled with - to put it bluntly - tripe, there were some gems. One of those tomes documented the creation of a set of armor fit for an archmage: Frostfire.NEW_LINENEW_LINE<Angela points to her head.>NEW_LINENEW_LINEIt's all in here and I am willing to share the fruits of that knowledge with you as long as you are able to provide me with the necessary materials.",    ["Objectives"]="Archmage Angela Dosantos at Light's Hope Chapel in the Eastern Plaguelands will make a Frostfire Belt if you bring her the following: 1 Desecrated Belt, 8 Wartorn Cloth Scraps, 2 Arcane Crystals and 2 Mooncloth.",    ["Progress"]="With the proper materials and reagents, I am able to reform the mythical Frostfire armor.",    ["Completion"]="Do not forget that power left unchecked is as destructive as power left unused, $C. Use discretion when donning Frostfire.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9102"] = {    ["Title"]="Frostfire Bindings",    ["Description"]="As a Watcher, I was allowed access to many of Medivh's personal effects. Among those items, I found the tomes most enlightening. While the majority of the books were filled with - to put it bluntly - tripe, there were some gems. One of those tomes documented the creation of a set of armor fit for an archmage: Frostfire.NEW_LINENEW_LINE<Angela points to her head.>NEW_LINENEW_LINEIt's all in here and I am willing to share the fruits of that knowledge with you as long as you are able to provide me with the necessary materials.",    ["Objectives"]="Archmage Angela Dosantos at Light's Hope Chapel in the Eastern Plaguelands will make Frostfire Bindings if you bring her the following: 1 Desecrated Bindings, 6 Wartorn Cloth Scraps, 1 Arcane Crystal and 1 Nexus Crystal.",    ["Progress"]="With the proper materials and reagents, I am able to reform the mythical Frostfire armor.",    ["Completion"]="Do not forget that power left unchecked is as destructive as power left unused, $C. Use discretion when donning Frostfire.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9103"] = {    ["Title"]="Plagueheart Robe",    ["Description"]="I make no pretenses, maggot. The darkness Plagueheart items hold could very well destroy the both of us. That is why the price is so high. If I'm going to die, it's going to be as a rich man.NEW_LINENEW_LINEAnd I don't give an ounce of gnoll spit how you die, only that you do as I ask. Bring me what I require and we will both benefit - or die; but I've already explained this...",    ["Objectives"]="Mataus the Wrathcaster at Light's Hope Chapel in the Eastern Plaguelands will make a Plagueheart Robe if you bring him the following: 1 Desecrated Robe, 25 Wartorn Cloth Scraps, 4 Mooncloth and 2 Nexus Crystals.",    ["Progress"]="The prodigal rodent returns! Have you what I require?",    ["Completion"]="Do you see? Do you now understand the power? Purification... What fools...NEW_LINENEW_LINE<Mataus shakes his head disapprovingly.>NEW_LINENEW_LINENow take it and get out of my sight.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9104"] = {    ["Title"]="Plagueheart Leggings",    ["Description"]="I make no pretenses, maggot. The darkness Plagueheart items hold could very well destroy the both of us. That is why the price is so high. If I'm going to die, it's going to be as a rich man.NEW_LINENEW_LINEAnd I don't give an ounce of gnoll spit how you die, only that you do as I ask. Bring me what I require and we will both benefit - or die; but I've already explained this...",    ["Objectives"]="Mataus the Wrathcaster at Light's Hope Chapel in the Eastern Plaguelands will make Plagueheart Leggings if you bring him the following: 1 Desecrated Leggings, 20 Wartorn Cloth Scraps, 4 Mooncloth and 2 Nexus Crystals.",    ["Progress"]="The prodigal rodent returns! Have you what I require?",    ["Completion"]="Do you see? Do you now understand the power? Purification... What fools...NEW_LINENEW_LINE<Mataus shakes his head disapprovingly.>NEW_LINENEW_LINENow take it and get out of my sight.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9105"] = {    ["Title"]="Plagueheart Circlet",    ["Description"]="I make no pretenses, maggot. The darkness Plagueheart items hold could very well destroy the both of us. That is why the price is so high. If I'm going to die, it's going to be as a rich man.NEW_LINENEW_LINEAnd I don't give an ounce of gnoll spit how you die, only that you do as I ask. Bring me what I require and we will both benefit - or die; but I've already explained this...",    ["Objectives"]="Mataus the Wrathcaster at Light's Hope Chapel in the Eastern Plaguelands will make a Plagueheart Circlet if you bring him the following: 1 Desecrated Circlet, 15 Wartorn Cloth Scraps, 3 Mooncloth and 3 Nexus Crystals.",    ["Progress"]="The prodigal rodent returns! Have you what I require?",    ["Completion"]="Do you see? Do you now understand the power? Purification... What fools...NEW_LINENEW_LINE<Mataus shakes his head disapprovingly.>NEW_LINENEW_LINENow take it and get out of my sight.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9106"] = {    ["Title"]="Plagueheart Shoulderpads",    ["Description"]="I make no pretenses, maggot. The darkness Plagueheart items hold could very well destroy the both of us. That is why the price is so high. If I'm going to die, it's going to be as a rich man.NEW_LINENEW_LINEAnd I don't give an ounce of gnoll spit how you die, only that you do as I ask. Bring me what I require and we will both benefit - or die; but I've already explained this...",    ["Objectives"]="Mataus the Wrathcaster at Light's Hope Chapel in the Eastern Plaguelands will make Plagueheart Shoulderpads if you bring him the following: 1 Desecrated Shoulderpads, 12 Wartorn Cloth Scraps, 2 Mooncloth and 3 Cured Rugged Hides.",    ["Progress"]="The prodigal rodent returns! Have you what I require?",    ["Completion"]="Do you see? Do you now understand the power? Purification... What fools...NEW_LINENEW_LINE<Mataus shakes his head disapprovingly.>NEW_LINENEW_LINENow take it and get out of my sight.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9107"] = {    ["Title"]="Plagueheart Sandals",    ["Description"]="I make no pretenses, maggot. The darkness Plagueheart items hold could very well destroy the both of us. That is why the price is so high. If I'm going to die, it's going to be as a rich man.NEW_LINENEW_LINEAnd I don't give an ounce of gnoll spit how you die, only that you do as I ask. Bring me what I require and we will both benefit - or die; but I've already explained this...",    ["Objectives"]="Mataus the Wrathcaster at Light's Hope Chapel in the Eastern Plaguelands will make Plagueheart Sandals if you bring him the following: 1 Desecrated Sandals, 12 Wartorn Cloth Scraps, 2 Mooncloth and 3 Cured Rugged Hides.",    ["Progress"]="The prodigal rodent returns! Have you what I require?",    ["Completion"]="Do you see? Do you now understand the power? Purification... What fools...NEW_LINENEW_LINE<Mataus shakes his head disapprovingly.>NEW_LINENEW_LINENow take it and get out of my sight.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9108"] = {    ["Title"]="Plagueheart Gloves",    ["Description"]="I make no pretenses, maggot. The darkness Plagueheart items hold could very well destroy the both of us. That is why the price is so high. If I'm going to die, it's going to be as a rich man.NEW_LINENEW_LINEAnd I don't give an ounce of gnoll spit how you die, only that you do as I ask. Bring me what I require and we will both benefit - or die; but I've already explained this...",    ["Objectives"]="Mataus the Wrathcaster at Light's Hope Chapel in the Eastern Plaguelands will make Plagueheart Gloves if you bring him the following: 1 Desecrated Gloves, 8 Wartorn Cloth Scraps and 4 Mooncloth.",    ["Progress"]="The prodigal rodent returns! Have you what I require?",    ["Completion"]="Do you see? Do you now understand the power? Purification... What fools...NEW_LINENEW_LINE<Mataus shakes his head disapprovingly.>NEW_LINENEW_LINENow take it and get out of my sight.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9109"] = {    ["Title"]="Plagueheart Belt",    ["Description"]="I make no pretenses, maggot. The darkness Plagueheart items hold could very well destroy the both of us. That is why the price is so high. If I'm going to die, it's going to be as a rich man.NEW_LINENEW_LINEAnd I don't give an ounce of gnoll spit how you die, only that you do as I ask. Bring me what I require and we will both benefit - or die; but I've already explained this...",    ["Objectives"]="Mataus the Wrathcaster at Light's Hope Chapel in the Eastern Plaguelands will make a Plagueheart Belt if you bring him the following: 1 Desecrated Belt, 8 Wartorn Cloth Scraps, 2 Arcane Crystals and 2 Mooncloth.",    ["Progress"]="The prodigal rodent returns! Have you what I require?",    ["Completion"]="Do you see? Do you now understand the power? Purification... What fools...NEW_LINENEW_LINE<Mataus shakes his head disapprovingly.>NEW_LINENEW_LINENow take it and get out of my sight.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9110"] = {    ["Title"]="Plagueheart Bindings",    ["Description"]="I make no pretenses, maggot. The darkness Plagueheart items hold could very well destroy the both of us. That is why the price is so high. If I'm going to die, it's going to be as a rich man.NEW_LINENEW_LINEAnd I don't give an ounce of gnoll spit how you die, only that you do as I ask. Bring me what I require and we will both benefit - or die; but I've already explained this...",    ["Objectives"]="Mataus the Wrathcaster at Light's Hope Chapel in the Eastern Plaguelands will make Plagueheart Bindings if you bring him the following: 1 Desecrated Bindings, 6 Wartorn Cloth Scraps, 1 Arcane Crystal and 1 Nexus Crystal.",    ["Progress"]="The prodigal rodent returns! Have you what I require?",    ["Completion"]="Do you see? Do you now understand the power? Purification... What fools...NEW_LINENEW_LINE<Mataus shakes his head disapprovingly.>NEW_LINENEW_LINENow take it and get out of my sight.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9111"] = {    ["Title"]="Robe of Faith",    ["Description"]="<Father Montoy makes some strange gestures in the air in front of you.>NEW_LINENEW_LINEBlessed $Gboy:girl, have you found the vestments of the fallen? The poor souls whose last breaths were taken on the field of battle - stripped of everything including their dignity.NEW_LINENEW_LINEBring me the desecrated remnants of the departed along with reagents of purification and you shall know faith.",    ["Objectives"]="Father Inigo Montoy at Light's Hope Chapel in the Eastern Plaguelands will make a Robe of Faith if you bring him the following: 1 Desecrated Robe, 25 Wartorn Cloth Scraps, 4 Mooncloth and 2 Nexus Crystals.",    ["Progress"]="Have you brought me the reagents, child?",    ["Completion"]="The vestments are ready, YOUR_NAME. Smite those that would harm our world in your righteous fire.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9112"] = {    ["Title"]="Leggings of Faith",    ["Description"]="<Father Montoy makes some strange gestures in the air in front of you.>NEW_LINENEW_LINEBlessed $Gboy:girl, have you found the vestments of the fallen? The poor souls whose last breaths were taken on the field of battle - stripped of everything including their dignity.NEW_LINENEW_LINEBring me the desecrated remnants of the departed along with reagents of purification and you shall know faith.",    ["Objectives"]="Father Inigo Montoy at Light's Hope Chapel in the Eastern Plaguelands will make Leggings of Faith if you bring him the following: 1 Desecrated Leggings, 20 Wartorn Cloth Scraps, 4 Mooncloth and 2 Nexus Crystals.",    ["Progress"]="Have you brought me the reagents, child?",    ["Completion"]="The vestments are ready, YOUR_NAME. Smite those that would harm our world in your righteous fire.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9113"] = {    ["Title"]="Circlet of Faith",    ["Description"]="<Father Montoy makes some strange gestures in the air in front of you.>NEW_LINENEW_LINEBlessed $Gboy:girl, have you found the vestments of the fallen? The poor souls whose last breaths were taken on the field of battle - stripped of everything including their dignity.NEW_LINENEW_LINEBring me the desecrated remnants of the departed along with reagents of purification and you shall know faith.",    ["Objectives"]="Father Inigo Montoy at Light's Hope Chapel in the Eastern Plaguelands will make a Circlet of Faith if you bring him the following: 1 Desecrated Circlet, 15 Wartorn Cloth Scraps, 3 Mooncloth and 3 Nexus Crystals.",    ["Progress"]="Have you brought me the reagents, child?",    ["Completion"]="The vestments are ready, YOUR_NAME. Smite those that would harm our world in your righteous fire.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9114"] = {    ["Title"]="Shoulderpads of Faith",    ["Description"]="<Father Montoy makes some strange gestures in the air in front of you.>NEW_LINENEW_LINEBlessed $Gboy:girl, have you found the vestments of the fallen? The poor souls whose last breaths were taken on the field of battle - stripped of everything including their dignity.NEW_LINENEW_LINEBring me the desecrated remnants of the departed along with reagents of purification and you shall know faith.",    ["Objectives"]="Father Inigo Montoy at Light's Hope Chapel in the Eastern Plaguelands will make Shoulderpads of Faith if you bring him the following: 1 Desecrated Shoulderpads, 12 Wartorn Cloth Scraps, 2 Mooncloth and 3 Cured Rugged Hides.",    ["Progress"]="Have you brought me the reagents, child?",    ["Completion"]="The vestments are ready, YOUR_NAME. Smite those that would harm our world in your righteous fire.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9115"] = {    ["Title"]="Sandals of Faith",    ["Description"]="<Father Montoy makes some strange gestures in the air in front of you.>NEW_LINENEW_LINEBlessed $Gboy:girl, have you found the vestments of the fallen? The poor souls whose last breaths were taken on the field of battle - stripped of everything including their dignity.NEW_LINENEW_LINEBring me the desecrated remnants of the departed along with reagents of purification and you shall know faith.",    ["Objectives"]="Father Inigo Montoy at Light's Hope Chapel in the Eastern Plaguelands will make Sandals of Faith if you bring him the following: 1 Desecrated Sandals, 12 Wartorn Cloth Scraps, 2 Mooncloth and 3 Cured Rugged Hides.",    ["Progress"]="Have you brought me the reagents, child?",    ["Completion"]="The vestments are ready, YOUR_NAME. Smite those that would harm our world in your righteous fire.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9116"] = {    ["Title"]="Gloves of Faith",    ["Description"]="<Father Montoy makes some strange gestures in the air in front of you.>NEW_LINENEW_LINEBlessed $Gboy:girl, have you found the vestments of the fallen? The poor souls whose last breaths were taken on the field of battle - stripped of everything including their dignity.NEW_LINENEW_LINEBring me the desecrated remnants of the departed along with reagents of purification and you shall know faith.",    ["Objectives"]="Father Inigo Montoy at Light's Hope Chapel in the Eastern Plaguelands will make Gloves of Faith if you bring him the following: 1 Desecrated Gloves, 8 Wartorn Cloth Scraps and 4 Mooncloth.",    ["Progress"]="Have you brought me the reagents, child?",    ["Completion"]="The vestments are ready, YOUR_NAME. Smite those that would harm our world in your righteous fire.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9117"] = {    ["Title"]="Belt of Faith",    ["Description"]="<Father Montoy makes some strange gestures in the air in front of you.>NEW_LINENEW_LINEBlessed $Gboy:girl, have you found the vestments of the fallen? The poor souls whose last breaths were taken on the field of battle - stripped of everything including their dignity.NEW_LINENEW_LINEBring me the desecrated remnants of the departed along with reagents of purification and you shall know faith.",    ["Objectives"]="Father Inigo Montoy at Light's Hope Chapel in the Eastern Plaguelands will make a Belt of Faith if you bring him the following: 1 Desecrated Belt, 8 Wartorn Cloth Scraps, 2 Arcane Crystals and 2 Mooncloth.",    ["Progress"]="Have you brought me the reagents, child?",    ["Completion"]="The vestments are ready, YOUR_NAME. Smite those that would harm our world in your righteous fire.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9118"] = {    ["Title"]="Bindings of Faith",    ["Description"]="<Father Montoy makes some strange gestures in the air in front of you.>NEW_LINENEW_LINEBlessed $g boy:girl;, have you found the vestments of the fallen? The poor souls whose last breaths were taken on the field of battle - stripped of everything including their dignity.NEW_LINENEW_LINEBring me the desecrated remnants of the departed along with reagents of purification and you shall know faith.",    ["Objectives"]="Father Inigo Montoy at Light's Hope Chapel in the Eastern Plaguelands will make Bindings of Faith if you bring him the following: 1 Desecrated Bindings, 6 Wartorn Cloth Scraps, 1 Arcane Crystal and 1 Nexus Crystal.",    ["Progress"]="You got some missing parts for the quest please go and get them all!",    ["Completion"]="Exellent YOUR_NAME !NEW_LINENEW_LINE, you got everything just as i asked and now i can make a Bindings of Faith.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9120"] = {    ["Title"]="The Fall of Kel'Thuzad",    ["Description"]="The phylactery is all that remains of the master of Naxxramas. Your better judgment dictates that you destroy the phylactery, preventing the lich from ever reforming. Thankfully, you seldom listen to that internal voice of reason.NEW_LINENEW_LINESomeone at Light's Hope will pay you hugely for this artifact. Who cares if Kel'Thuzad regenerates to full power?",    ["Objectives"]="Take the Phylactery of Kel'Thuzad to Light's Hope Chapel in the Eastern Plaguelands.",    ["Progress"]="BLESSED LIGHT! What foulness do you hold, child?",    ["Completion"]="In all my days of living I would never have expected to see this...NEW_LINENEW_LINE<Father Montoy appears to be salivating.>NEW_LINENEW_LINEOh yes, you will be rewarded dear child. You will be greatly rewarded. Give it here. Now!",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9121"] = {    ["Title"]="The Dread Citadel - Naxxramas",    ["Description"]="In the thick of Plaguewood lies the entrance to the dread citadel of Naxxramas. Previously, all attempts to enter had been stymied by the magical wards placed upon the rune portal. That is, until now.NEW_LINENEW_LINEWe have devised a way to gain entry via arcane cloaking - an old cantrip of the Kirin Tor with a few modifications of my own. Since your dedication to the cause of the Dawn is somewhat lacking, YOUR_NAME, the price will be high. You may decline and choose to return when you are revered or exalted for a discount.",    ["Objectives"]="Archmage Angela Dosantos at Light's Hope Chapel in the Eastern Plaguelands wants 5 Arcane Crystals, 2 Nexus Crystals, 1 Righteous Orb and 60 gold pieces. You must also be Honored with the Argent Dawn.",    ["Progress"]="None have entered Naxxramas and lived to tell the tale.",    ["Completion"]="You will feel a slight tingle, YOUR_NAME. That sensation means it's working. Once complete, you will be able to enter Naxxramas by stepping upon the rune portal in Plaguewood.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9122"] = {    ["Title"]="The Dread Citadel - Naxxramas",    ["Description"]="In the thick of Plaguewood lies the entrance to the dread citadel of Naxxramas. Previously, all attempts to enter had been stymied by the magical wards placed upon the rune portal. That is, until now.NEW_LINENEW_LINEWe have devised a way to gain entry via a permanent arcane cloaking of sorts - an old cantrip of the Kirin Tor with a few modifications of my own. With that said, the cloaking is costly. Since your dedication to the cause of the Dawn is admirable, we are willing to incur some of those costs.",    ["Objectives"]="Archmage Angela Dosantos at Light's Hope Chapel in the Eastern Plaguelands wants 2 Arcane Crystals, 1 Nexus Crystal and 30 gold pieces. You must also be Revered with the Argent Dawn.",    ["Progress"]="None have entered Naxxramas and lived to tell the tale.",    ["Completion"]="You will feel a slight tingle, YOUR_NAME. That sensation means it's working. Once complete, you will be able to enter Naxxramas by stepping upon the rune portal in Plaguewood.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9123"] = {    ["Title"]="The Dread Citadel - Naxxramas",    ["Description"]="In the thick of Plaguewood lies the entrance to the dread citadel of Naxxramas. Previously, all attempts to enter had been stymied by the magical wards placed upon the rune portal. That is, until now.NEW_LINENEW_LINEWe have devised a way to gain entry via a permanent arcane cloaking of sorts - an old cantrip of the Kirin Tor with a few modifications of my own. With that said, the cloaking is costly; however, your dedication to the cause of the Dawn is unwavering! We will waive all cost associations.",    ["Objectives"]="Archmage Angela Dosantos at Light's Hope Chapel in the Eastern Plaguelands will grant you Arcane Cloaking at no cost. You must be Exalted with the Argent Dawn.",    ["Progress"]="None have entered Naxxramas and lived to tell the tale.",    ["Completion"]="You will feel a slight tingle, YOUR_NAME. That sensation means it's working. Once complete, you will be able to enter Naxxramas by stepping upon the rune portal in Plaguewood.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9124"] = {    ["Title"]="Cryptstalker Armor Doesn't Make Itself...",    ["Description"]="How would you like to earn yourself one of these shiny coins?NEW_LINENEW_LINE<Leopold holds up an insignia of the Crusade.>NEW_LINENEW_LINEI've got a little problem that you might be able to help me with, YOUR_NAME. You see, I make Cryptstalker armor for those daft enough to venture into Naxxramas. While they supply me with the core material requirements for the armor, I always run out of the crypt fiend parts. Bring me back a bundle of parts and I'll pay you with an insignia - usable at the quartermaster.",    ["Objectives"]="Huntsman Leopold at Light's Hope Chapel in the Eastern Plaguelands wants 30 Crypt Fiend Parts.",    ["Progress"]="How goes the hunt?",    ["Completion"]="Ah, that'll do nicely, YOUR_NAME. Remember, I'm always acceptINg more parts. For every bundle you brINg me, I'll reward you with an INsignia.",    ["minlevel"]="55",    ["questlevel"]="60"},
-
-	["9125"] = {    ["Title"]="Crypt Fiend Parts",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="You did an exemplary job on the first bundle, YOUR_NAME. If you have more, I will take them now. For every bundle that you turn in, I will reward you with another insignia.",    ["Completion"]="Most excellent, YOUR_NAME! These will definitely come to good use.",    ["minlevel"]="55",    ["questlevel"]="60"},
-
-	["9126"] = {    ["Title"]="Bonescythe Digs",    ["Description"]="Don Julio's Bonescythe armor pattern requires bone fragments - a lot of bone fragments. While those crazy enough to venture into Naxxramas provide me with enough of the core materials to make the armor, I'm always looking for more Scourge bone fragments.NEW_LINENEW_LINESo what do you think? Interested in getting your hands dirty and destroying some Scourge at the same time? It's a win-win situation.",    ["Objectives"]="Rohan the Assassin at Light's Hope Chapel in the Eastern Plaguelands wants 30 Bone Fragments.",    ["Progress"]="I can direct you to skeleton infested locales, $C.",    ["Completion"]="You work fast, YOUR_NAME. Fast like a fox... Say, have I ever told you about the time I was IN a barber shop quartet?NEW_LINENEW_LINERemINd me to tell you that story one of these days.",    ["minlevel"]="55",    ["questlevel"]="60"},
-
-	["9127"] = {    ["Title"]="Bone Fragments",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="A man in my line of work can never have too many bone fragments, YOUR_NAME. Whenever you have a surplus of fragments, bring them to me and I'll reward you with another insignia.",    ["Completion"]="My dream of becoming a full-time dancer at the Gadgetzan disco is soon to become a reality! Keep up the good work, YOUR_NAME.",    ["minlevel"]="55",    ["questlevel"]="60"},
-
-	["9128"] = {    ["Title"]="The Elemental Equation",    ["Description"]="Greetings, adventurer! Are you interested in some work? I pay those under my employ with insignias. These insignias can be used at the Quartermaster to purchase items of power.NEW_LINENEW_LINEAll I need you to do is bring me as many core of elements as you can carry. The more the better!NEW_LINENEW_LINEYou'll find them on elementals of varying shapes and sizes that exist across our world.",    ["Objectives"]="Archmage Angela Dosantos at Light's Hope Chapel in the Eastern Plaguelands wants 30 Core of Elements.",    ["Progress"]="I can only steer you in the right direction, YOUR_NAME.",    ["Completion"]="A job well done, YOUR_NAME! As promised, the INsignia is yours. Just remember, there's more WHERE that came from...",    ["minlevel"]="55",    ["questlevel"]="60"},
-
-	["9129"] = {    ["Title"]="Core of Elements",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="Truth be told, I use the cores to create Frostfire armor. It is the armor used by the mages battling in Naxxramas. Without you and others like you, we would most definitely be losing this war.NEW_LINENEW_LINEWith that said, bring me more cores and I shall grant you more insignias.",    ["Completion"]="You perform a great service for us, YOUR_NAME. Well done!",    ["minlevel"]="55",    ["questlevel"]="60"},
-
-	["9131"] = {    ["Title"]="Binding the Dreadnaught",    ["Description"]="Have you ever seen Dreadnaught armor, $c? No, of course you haven't. You're still a $g boy:girl; - a tyke. Let me tell you, it is glorious.NEW_LINENEW_LINEYou're probably asking yourself what any of this has to do with you, right? I'll tell you what, scrub; I need Dark Iron scraps and I'm willing to pay to get my hands on as many as possible.NEW_LINENEW_LINEI need the scraps to put together sets of Dreadnaught for our champions. Bring me scraps and get paid.",    ["Objectives"]="Korfax at Light's Hope Chapel in the Eastern Plaguelands wants 30 Dark Iron Scraps.",    ["Progress"]="<Korfax growls at you.>NEW_LINENEW_LINEWhat do you want? Directions? I can provide those...",    ["Completion"]="This will do, for now. If you get more, you know WHERE to fINd me.",    ["minlevel"]="55",    ["questlevel"]="60"},
-
-	["9132"] = {    ["Title"]="Dark Iron Scraps",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="For every armful of the scraps, I'll give you an insignia - the more the better. Now get out of my sight before I split you in two!",    ["Completion"]="That's all you brought me? Maybe you didn't hear me the first time. I need MORE!",    ["minlevel"]="55",    ["questlevel"]="60"},
-
-	["9136"] = {    ["Title"]="Savage Flora",    ["Description"]="I make a special type of armor for the brave heroes that enter Naxxramas known as Dreamwalker. They are able to provide me with most of the materials I require but I am always looking for those able to retrieve savage fronds from the flora of our world.NEW_LINENEW_LINEYou may think of this job as beneath you, but without the fronds, the armor could not be made.NEW_LINENEW_LINEI am also in a unique position to pay you with an insignia of your choice as both the Dawn and the Crusade supply me with funds.",    ["Objectives"]="Rayne at Light's Hope Chapel in the Eastern Plaguelands wants 30 Savage Fronds.",    ["Progress"]="I have intimate knowledge of the flora in our world. Do you require direction?",    ["Completion"]="I am much obliged, YOUR_NAME.NEW_LINENEW_LINE<Rayne bows.>NEW_LINENEW_LINEPlease remember that I am always accepting fronds.",    ["minlevel"]="55",    ["questlevel"]="60"},
-
-	["9137"] = {    ["Title"]="Savage Fronds",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="For every bundle of fronds that you deliver to me, I will pay you with your choice of an insignia of the Dawn or the Crusade.NEW_LINENEW_LINEInsignias may be turned in to the Quartermaster for various rewards.",    ["Completion"]="Thank you, YOUR_NAME. Your work is vital to the success of our campaign against the Scourge.",    ["minlevel"]="55",    ["questlevel"]="60"},
-
-	["9141"] = {    ["Title"]="They Call Me \"The Rooster\"",    ["Description"]="You want a writ? What? Do you expect me to hand you a highly sought after work order just for showing up? I think not, scrub. Crafters from around the world bid for jobs here at the front lines.NEW_LINENEW_LINEIf you want a work order, you'll have to show me that you're willing to bleed for the cause. Bring me a valor token and we'll talk.NEW_LINENEW_LINEAnd there's only one way to get your grubby little scrub mitts on those - get to killin'.",    ["Objectives"]="Dispatch Commander Metz at Light's Hope Chapel in the Eastern Plaguelands wants an Argent Dawn Valor Token.",    ["Progress"]="<Commander Metz chews on his cigar.>NEW_LINENEW_LINEWhat is it? I'm a busy man.",    ["Completion"]="Alright, here's how it works: For every valor token that you turn in, I'll give you another writ. You complete the order on that writ and deliver the order to Packmaster Stonebruiser. Got it? Good. Now get out of here.",    ["minlevel"]="55",    ["questlevel"]="60"},
-
-	["9153"] = {    ["Title"]="Under the Shadow",    ["Description"]="The floating necropolises of the Scourge plague the lands of Horde and Alliance alike. Tanaris, the Blasted Lands, Winterspring and the Burning Steppes are blanketed in the shadows of the flying fortresses.NEW_LINENEW_LINEOnly through our combined efforts will they be turned away.NEW_LINENEW_LINEThe necropolises are supported by magical circles at various points in the invaded areas. We have determined that destroying the mindless hordes that surround these circles will destroy their defenses.",    ["Objectives"]="Check your map to find an area under Scourge attack. Go there and damage a necropolis by defeating the Scourge around them. Return 10 of their Necrotic Runes to Commander Thomas Helleran at Light's Hope Chapel in the Eastern Plaguelands.",    ["Progress"]="It will take time to prevail against this threat. How have you fared, YOUR_NAME?",    ["Completion"]="You've done well, YOUR_NAME. Through these incremental defeats, we shall prevail against this renewed Scourge threat.NEW_LINENEW_LINERest and recover, but then you must head out to the front again, lest we lose the ground we have gained today.NEW_LINENEW_LINETo aid you in your further battles, we will make some of our special items available to you in trade for more necrotic runes.",    ["minlevel"]="50",    ["questlevel"]="60"},
-
-	["9178"] = {    ["Title"]="Craftsman's Writ - Dense Weightstone",    ["Description"]="The bearer of this writ is entitled to payment in the form of an insignia of their choice upon completion of the contracted work order.NEW_LINENEW_LINEWork Order BS-091:NEW_LINENEW_LINE120 Dense Weightstones.NEW_LINENEW_LINEAll filled orders should be delivered to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.NEW_LINENEW_LINEContract is null and void if tampered with or damaged.NEW_LINENEW_LINE-Dispatch Commander Metz, The Argent Dawn",    ["Objectives"]="Deliver 120 Dense Weightstones and the Craftsman's Writ - Dense Weightstone - to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.",    ["Progress"]="Filling a work order, $C?",    ["Completion"]="Yep, these will come in handy for the infantry's bashin' weapons.",    ["minlevel"]="55",    ["questlevel"]="60"},
-
-	["9179"] = {    ["Title"]="Craftsman's Writ - Imperial Plate Chest",    ["Description"]="The bearer of this writ is entitled to payment in the form of an insignia of their choice upon completion of the contracted work order.NEW_LINENEW_LINEWork Order BS-428:NEW_LINENEW_LINE3 Imperial Plate Chests.NEW_LINENEW_LINEAll filled orders should be delivered to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.NEW_LINENEW_LINEContract is null and void if tampered with or damaged.NEW_LINENEW_LINE-Dispatch Commander Metz, The Argent Dawn",    ["Objectives"]="Deliver 3 Imperial Plate Chests and the Craftsman's Writ - Imperial Plate Chest - to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.",    ["Progress"]="Filling a work order, $C?",    ["Completion"]="More armor for the troops! Fantastic, YOUR_NAME!",    ["minlevel"]="55",    ["questlevel"]="60"},
-
-	["9181"] = {    ["Title"]="Craftsman's Writ - Volcanic Hammer",    ["Description"]="The bearer of this writ is entitled to payment in the form of an insignia of their choice upon completion of the contracted work order.NEW_LINENEW_LINEWork Order BS-697:NEW_LINENEW_LINE3 Volcanic Hammers.NEW_LINENEW_LINEAll filled orders should be delivered to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.NEW_LINENEW_LINEContract is null and void if tampered with or damaged.NEW_LINENEW_LINE-Dispatch Commander Metz, The Argent Dawn",    ["Objectives"]="Deliver 3 Volcanic Hammers and the Craftsman's Writ - Volcanic Hammer - to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.",    ["Progress"]="Filling a work order, $C?",    ["Completion"]="These should go well with the dense weightstones we're stockpiling.",    ["minlevel"]="55",    ["questlevel"]="60"},
-
-	["9182"] = {    ["Title"]="Craftsman's Writ - Huge Thorium Battleaxe",    ["Description"]="The bearer of this writ is entitled to payment in the form of an insignia of their choice upon completion of the contracted work order.NEW_LINENEW_LINEWork Order BS-6020:NEW_LINENEW_LINE3 Huge Thorium Battleaxes.NEW_LINENEW_LINEAll filled orders should be delivered to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.NEW_LINENEW_LINEContract is null and void if tampered with or damaged.NEW_LINENEW_LINE-Dispatch Commander Metz, The Argent Dawn",    ["Objectives"]="Deliver 3 Huge Thorium Battleaxes and the Craftsman's Writ - Huge Thorium Battleaxe - to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.",    ["Progress"]="Filling a work order, $C?",    ["Completion"]="These aren't as huge as I expected. Regardless, a deal is a deal.",    ["minlevel"]="55",    ["questlevel"]="60"},
-
-	["9183"] = {    ["Title"]="Craftsman's Writ - Radiant Circlet",    ["Description"]="The bearer of this writ is entitled to payment in the form of an insignia of their choice upon completion of the contracted work order.NEW_LINENEW_LINEWork Order BS-80:NEW_LINENEW_LINE3 Radiant Circlets.NEW_LINENEW_LINEAll filled orders should be delivered to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.NEW_LINENEW_LINEContract is null and void if tampered with or damaged.NEW_LINENEW_LINE-Dispatch Commander Metz, The Argent Dawn",    ["Objectives"]="Deliver 3 Radiant Circlets and the Craftsman's Writ - Radiant Circlet - to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.",    ["Progress"]="Filling a work order, $C?",    ["Completion"]="I still can't believe Metz expects our troops to wear this low-quality garbage to protect against the freezing attacks of the Scourge.",    ["minlevel"]="55",    ["questlevel"]="60"},
-
-	["9184"] = {    ["Title"]="Craftsman's Writ - Wicked Leather Headband",    ["Description"]="The bearer of this writ is entitled to payment in the form of an insignia of their choice upon completion of the contracted work order.NEW_LINENEW_LINEWork Order LW-971:NEW_LINENEW_LINE10 Wicked Leather Headbands.NEW_LINENEW_LINEAll filled orders should be delivered to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.NEW_LINENEW_LINEContract is null and void if tampered with or damaged.NEW_LINENEW_LINE-Dispatch Commander Metz, The Argent Dawn",    ["Objectives"]="Deliver 10 Wicked Leather Headbands and the Craftsman's Writ - Wicked Leather Headband - to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.",    ["Progress"]="Filling a work order, $C?",    ["Completion"]="These are... wicked.",    ["minlevel"]="55",    ["questlevel"]="60"},
-
-	["9185"] = {    ["Title"]="Craftsman's Writ - Rugged Armor Kit",    ["Description"]="The bearer of this writ is entitled to payment in the form of an insignia of their choice upon completion of the contracted work order.NEW_LINENEW_LINEWork Order LW-448:NEW_LINENEW_LINE25 Rugged Armor Kits.NEW_LINENEW_LINEAll filled orders should be delivered to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.NEW_LINENEW_LINEContract is null and void if tampered with or damaged.NEW_LINENEW_LINE-Dispatch Commander Metz, The Argent Dawn",    ["Objectives"]="Deliver 25 Rugged Armor Kits and the Craftsman's Writ - Rugged Armor Kit - to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.",    ["Progress"]="Filling a work order, $C?",    ["Completion"]="The rugged armor kits have many uses, YOUR_NAME. They aren't JUST for slapping on certain armor pieces for added protection. Like this one here, I'm going to use it as teapot cozy.",    ["minlevel"]="55",    ["questlevel"]="60"},
-
-	["9186"] = {    ["Title"]="Craftsman's Writ - Wicked Leather Belt",    ["Description"]="The bearer of this writ is entitled to payment in the form of an insignia of their choice upon completion of the contracted work order.NEW_LINENEW_LINEWork Order LW-736:NEW_LINENEW_LINE9 Wicked Leather Belts.NEW_LINENEW_LINEAll filled orders should be delivered to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.NEW_LINENEW_LINEContract is null and void if tampered with or damaged.NEW_LINENEW_LINE-Dispatch Commander Metz, The Argent Dawn",    ["Objectives"]="Deliver 9 Wicked Leather Belts and the Craftsman's Writ - Wicked Leather Belt - to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.",    ["Progress"]="Filling a work order, $C?",    ["Completion"]="These belts are actually more wicked than the headbands - if you can believe such a thing to be possible.",    ["minlevel"]="55",    ["questlevel"]="60"},
-
-	["9187"] = {    ["Title"]="Craftsman's Writ - Runic Leather Pants",    ["Description"]="The bearer of this writ is entitled to payment in the form of an insignia of their choice upon completion of the contracted work order.NEW_LINENEW_LINEWork Order LW-8485:NEW_LINENEW_LINE4 Runic Leather Pants.NEW_LINENEW_LINEAll filled orders should be delivered to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.NEW_LINENEW_LINEContract is null and void if tampered with or damaged.NEW_LINENEW_LINE-Dispatch Commander Metz, The Argent Dawn",    ["Objectives"]="Deliver 4 Runic Leather Pants and the Craftsman's Writ - Runic Leather Pants - to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.",    ["Progress"]="Filling a work order, $C?",    ["Completion"]="The druids will definitely appreciate the craftsmanship that went into the making of these pants. Many thanks, $C.",    ["minlevel"]="55",    ["questlevel"]="60"},
-
-	["9188"] = {    ["Title"]="Craftsman's Writ - Brightcloth Pants",    ["Description"]="The bearer of this writ is entitled to payment in the form of an insignia of their choice upon completion of the contracted work order.NEW_LINENEW_LINEWork Order TR-95:NEW_LINENEW_LINE6 Brightcloth Pants.NEW_LINENEW_LINEAll filled orders should be delivered to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.NEW_LINENEW_LINEContract is null and void if tampered with or damaged.NEW_LINENEW_LINE-Dispatch Commander Metz, The Argent Dawn",    ["Objectives"]="Deliver 6 Brightcloth Pants and the Craftsman's Writ - Brightcloth Pants - to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.",    ["Progress"]="Filling a work order, $C?",    ["Completion"]="I can almost see my reflection in these things! That's crazy.",    ["minlevel"]="55",    ["questlevel"]="60"},
-
-	["9190"] = {    ["Title"]="Craftsman's Writ - Runecloth Boots",    ["Description"]="The bearer of this writ is entitled to payment in the form of an insignia of their choice upon completion of the contracted work order.NEW_LINENEW_LINEWork Order TR-635:NEW_LINENEW_LINE8 Runecloth Boots.NEW_LINENEW_LINEAll filled orders should be delivered to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.NEW_LINENEW_LINEContract is null and void if tampered with or damaged.NEW_LINENEW_LINE-Dispatch Commander Metz, The Argent Dawn",    ["Objectives"]="Deliver 8 Runecloth Boots and the Craftsman's Writ - Runecloth Boots - to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.",    ["Progress"]="Filling a work order, $C?",    ["Completion"]="By Bronzebeard's beard! You actually brought me runecloth boots... I guess I lost that bet.",    ["minlevel"]="55",    ["questlevel"]="60"},
-
-	["9191"] = {    ["Title"]="Craftsman's Writ - Runecloth Bag",    ["Description"]="The bearer of this writ is entitled to payment in the form of an insignia of their choice upon completion of the contracted work order.NEW_LINENEW_LINEWork Order TR-9999:NEW_LINENEW_LINE8 Runecloth Bags.NEW_LINENEW_LINEAll filled orders should be delivered to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.NEW_LINENEW_LINEContract is null and void if tampered with or damaged.NEW_LINENEW_LINE-Dispatch Commander Metz, The Argent Dawn",    ["Objectives"]="Deliver 8 Runecloth Bags and the Craftsman's Writ - Runecloth Bag - to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.",    ["Progress"]="Filling a work order, $C?",    ["Completion"]="Blessed bootstraps! Are those what I think they are? The troops have been complaining non-stop about the lack of storage space for all that is required while in the field. One of them even drew me a diagram - such a pansy...NEW_LINENEW_LINEThese will definitely help alleviate some of the whining.",    ["minlevel"]="55",    ["questlevel"]="60"},
-
-	["9194"] = {    ["Title"]="Craftsman's Writ - Runecloth Robe",    ["Description"]="The bearer of this writ is entitled to payment in the form of an insignia of their choice upon completion of the contracted work order.NEW_LINENEW_LINEWork Order TR-7229:NEW_LINENEW_LINE8 Runecloth Robes.NEW_LINENEW_LINEAll filled orders should be delivered to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.NEW_LINENEW_LINEContract is null and void if tampered with or damaged.NEW_LINENEW_LINE-Dispatch Commander Metz, The Argent Dawn",    ["Objectives"]="Deliver 8 Runecloth Robes and the Craftsman's Writ - Runecloth Robe - to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.",    ["Progress"]="Filling a work order, $C?",    ["Completion"]="You shouldn't have! No really, you shouldn't have. I don't know what Metz is thinking, but nobody is going to be wearing these robes into Naxxramas.NEW_LINENEW_LINE<Packmaster Stonebruiser sighs.>NEW_LINENEW_LINEBah, another pile of junk I'll have to get transferred to the front lines and another berating I'll have to take from Chambers.",    ["minlevel"]="55",    ["questlevel"]="60"},
-
-	["9195"] = {    ["Title"]="Craftsman's Writ - Goblin Sapper Charge",    ["Description"]="The bearer of this writ is entitled to payment in the form of an insignia of their choice upon completion of the contracted work order.NEW_LINENEW_LINEWork Order EN-11:NEW_LINENEW_LINE20 Goblin Sapper Charges.NEW_LINENEW_LINEAll filled orders should be delivered to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.NEW_LINENEW_LINEContract is null and void if tampered with or damaged.NEW_LINENEW_LINE-Dispatch Commander Metz, The Argent Dawn",    ["Objectives"]="Deliver 20 Goblin Sapper Charges and the Craftsman's Writ - Goblin Sapper Charge - to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.",    ["Progress"]="Filling a work order, $C?",    ["Completion"]="Now you're talking my language, $C. Things that go BOOM!",    ["minlevel"]="55",    ["questlevel"]="60"},
-
-	["9196"] = {    ["Title"]="Craftsman's Writ - Thorium Grenade",    ["Description"]="The bearer of this writ is entitled to payment in the form of an insignia of their choice upon completion of the contracted work order.NEW_LINENEW_LINEWork Order EN-7:NEW_LINENEW_LINE20 Thorium Grenades.NEW_LINENEW_LINEAll filled orders should be delivered to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.NEW_LINENEW_LINEContract is null and void if tampered with or damaged.NEW_LINENEW_LINE-Dispatch Commander Metz, The Argent Dawn",    ["Objectives"]="Deliver 20 Thorium Grenades and the Craftsman's Writ - Thorium Grenade - to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.",    ["Progress"]="Filling a work order, $C?",    ["Completion"]="These must have cost a pretty copper piece to make. Am I right or am I right, YOUR_NAME?",    ["minlevel"]="55",    ["questlevel"]="60"},
-
-	["9197"] = {    ["Title"]="Craftsman's Writ - Gnomish Battle Chicken",    ["Description"]="The bearer of this writ is entitled to payment in the form of an insignia of their choice upon completion of the contracted work order.NEW_LINENEW_LINEWork Order EN-0:NEW_LINENEW_LINE4 Gnomish Battle Chickens.NEW_LINENEW_LINEAll filled orders should be delivered to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.NEW_LINENEW_LINEContract is null and void if tampered with or damaged.NEW_LINENEW_LINE-Dispatch Commander Metz, The Argent Dawn",    ["Objectives"]="Deliver 4 Gnomish Battle Chickens and the Craftsman's Writ - Gnomish Battle Chicken - to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.",    ["Progress"]="Filling a work order, $C?",    ["Completion"]="Why are you smiling? What's so funny? Listen, mister, a gnomish battle chicken is a very important unit and not to be taken lightly - EVER. We send these in to areas that might be heavily plagued or infested and they clean up any plagued insects or carrion maggots that might still be fluttering about. Everybody knows that robots are immune to the plague.NEW_LINENEW_LINEI bet you don't feel so smart now, do you? Big dummy...",    ["minlevel"]="55",    ["questlevel"]="60"},
-
-	["9198"] = {    ["Title"]="Craftsman's Writ - Thorium Tube",    ["Description"]="The bearer of this writ is entitled to payment in the form of an insignia of their choice upon completion of the contracted work order.NEW_LINENEW_LINEWork Order EN-558:NEW_LINENEW_LINE14 Thorium Tubes.NEW_LINENEW_LINEAll filled orders should be delivered to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.NEW_LINENEW_LINEContract is null and void if tampered with or damaged.NEW_LINENEW_LINE-Dispatch Commander Metz, The Argent Dawn",    ["Objectives"]="Deliver 14 Thorium Tubes and the Craftsman's Writ - Thorium Tube - to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.",    ["Progress"]="Filling a work order, $C?",    ["Completion"]="Thorium tubes? Gee, thanks.NEW_LINENEW_LINE<Packmaster Stonebruiser throws the stack of thorium tubes into a large pile of assorted junk.>",    ["minlevel"]="55",    ["questlevel"]="60"},
-
-	["9200"] = {    ["Title"]="Craftsman's Writ - Major Mana Potion",    ["Description"]="The bearer of this writ is entitled to payment in the form of an insignia of their choice upon completion of the contracted work order.NEW_LINENEW_LINEWork Order AL-473:NEW_LINENEW_LINE10 Major Mana Potions.NEW_LINENEW_LINEAll filled orders should be delivered to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.NEW_LINENEW_LINEContract is null and void if tampered with or damaged.NEW_LINENEW_LINE-Dispatch Commander Metz, The Argent Dawn",    ["Objectives"]="Deliver 10 Major Mana Potions and the Craftsman's Writ - Major Mana Potion - to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.",    ["Progress"]="Filling a work order, $C?",    ["Completion"]="The utility of these should go without saying.",    ["minlevel"]="55",    ["questlevel"]="60"},
-
-	["9201"] = {    ["Title"]="Craftsman's Writ - Greater Arcane Protection Potion",    ["Description"]="The bearer of this writ is entitled to payment in the form of an insignia of their choice upon completion of the contracted work order.NEW_LINENEW_LINEWork Order AL-1420:NEW_LINENEW_LINE15 Greater Arcane Protection Potions.NEW_LINENEW_LINEAll filled orders should be delivered to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.NEW_LINENEW_LINEContract is null and void if tampered with or damaged.NEW_LINENEW_LINE-Dispatch Commander Metz, The Argent Dawn",    ["Objectives"]="Deliver 15 Greater Arcane Protection Potions and the Craftsman's Writ - Greater Arcane Protection Potion - to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.",    ["Progress"]="Filling a work order, $C?",    ["Completion"]="<Packmaster Stonebruiser pops open one of the greater arcane protection potions and take a swig.>NEW_LINENEW_LINEWOOT! These pack a kick, baby! A kick I say!",    ["minlevel"]="55",    ["questlevel"]="60"},
-
-	["9202"] = {    ["Title"]="Craftsman's Writ - Major Healing Potion",    ["Description"]="The bearer of this writ is entitled to payment in the form of an insignia of their choice upon completion of the contracted work order.NEW_LINENEW_LINEWork Order AL-169110:NEW_LINENEW_LINE20 Major Healing Potions.NEW_LINENEW_LINEAll filled orders should be delivered to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.NEW_LINENEW_LINEContract is null and void if tampered with or damaged.NEW_LINENEW_LINE-Dispatch Commander Metz, The Argent Dawn",    ["Objectives"]="Deliver 20 Major Healing Potions and the Craftsman's Writ - Major Healing Potion - to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.",    ["Progress"]="Filling a work order, $C?",    ["Completion"]="Do you know what the troops on the front lines call these? Priests in a bottle...NEW_LINENEW_LINE<Packmaster Stonebruiser sings.>NEW_LINENEW_LINE\"I'm your priest in a bott-le baby... you gotta drink me the right way...\"NEW_LINENEW_LINEWhat's the matter sonny? It's a very popular song around these parts.",    ["minlevel"]="55",    ["questlevel"]="60"},
-
-	["9203"] = {    ["Title"]="Craftsman's Writ - Flask of Petrification",    ["Description"]="The bearer of this writ is entitled to payment in the form of an insignia of their choice upon completion of the contracted work order.NEW_LINENEW_LINEWork Order AL-90:NEW_LINENEW_LINE1 Flask of Petrification.NEW_LINENEW_LINEAll filled orders should be delivered to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.NEW_LINENEW_LINEContract is null and void if tampered with or damaged.NEW_LINENEW_LINE-Dispatch Commander Metz, The Argent Dawn",    ["Objectives"]="Deliver 1 Flask of Petrification and the Craftsman's Writ - Flask of Petrification - to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.",    ["Progress"]="Filling a work order, $C?",    ["Completion"]="No comment.NEW_LINENEW_LINE<Packmaster Stonebruiser glares at you.>NEW_LINENEW_LINEI said no comment! Now get out of my sight!",    ["minlevel"]="55",    ["questlevel"]="60"},
-
-	["9204"] = {    ["Title"]="Craftsman's Writ - Stonescale Eel",    ["Description"]="The bearer of this writ is entitled to payment in the form of an insignia of their choice upon completion of the contracted work order.NEW_LINENEW_LINEWork Order FS-5:NEW_LINENEW_LINE40 Stonescale Eel.NEW_LINENEW_LINEAll filled orders should be delivered to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.NEW_LINENEW_LINEContract is null and void if tampered with or damaged.NEW_LINENEW_LINE-Dispatch Commander Metz, The Argent Dawn",    ["Objectives"]="Deliver 40 Stonescale Eel and the Craftsman's Writ - Stonescale Eel - to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.",    ["Progress"]="Filling a work order, $C?",    ["Completion"]="You could have used this for something else, but you didn't, did you? No use crying about it now, YOUR_NAME.",    ["minlevel"]="55",    ["questlevel"]="60"},
-
-	["9205"] = {    ["Title"]="Craftsman's Writ - Plated Armorfish",    ["Description"]="The bearer of this writ is entitled to payment in the form of an insignia of their choice upon completion of the contracted work order.NEW_LINENEW_LINEWork Order FS-12:NEW_LINENEW_LINE30 Plated Armorfish.NEW_LINENEW_LINEAll filled orders should be delivered to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.NEW_LINENEW_LINEContract is null and void if tampered with or damaged.NEW_LINENEW_LINE-Dispatch Commander Metz, The Argent Dawn",    ["Objectives"]="Deliver 30 Plated Armorfish and the Craftsman's Writ - Plated Armorfish - to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.",    ["Progress"]="Filling a work order, $C?",    ["Completion"]="You really don't know what these are for?NEW_LINENEW_LINE<Packmaster Stonebruiser laughs.>NEW_LINENEW_LINELike I'm going to tell you!",    ["minlevel"]="55",    ["questlevel"]="60"},
-
-	["9206"] = {    ["Title"]="Craftsman's Writ - Lightning Eel",    ["Description"]="The bearer of this writ is entitled to payment in the form of an insignia of their choice upon completion of the contracted work order.NEW_LINENEW_LINEWork Order FS-9:NEW_LINENEW_LINE30 Lightning Eel.NEW_LINENEW_LINEAll filled orders should be delivered to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.NEW_LINENEW_LINEContract is null and void if tampered with or damaged.NEW_LINENEW_LINE-Dispatch Commander Metz, The Argent Dawn",    ["Objectives"]="Deliver 30 Lightning Eel and the Craftsman's Writ - Lightning Eel - to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.",    ["Progress"]="Filling a work order, $C?",    ["Completion"]="These make the best eel rolls in the world. That's right - IN THE WORLD.",    ["minlevel"]="55",    ["questlevel"]="60"},
-
-	["9208"] = {    ["Title"]="The Savage Guard - Arcanum of Protection",    ["Description"]="Zanza can create many ancient troll enchantments with proper components! Have you heard of the Savage Guard? No, of course you haven't. Your mind is addled with the inferior elven magic.NEW_LINENEW_LINEBring me an arcanum of elven creation so that I may destroy the aberration. Do this and the Savage Guard will be yours.",    ["Objectives"]="Zanza the Restless in Zul'Gurub wants an Arcanum of Protection.",    ["Progress"]="Do you have the arcanum?",    ["Completion"]="The worthless magic in these enchantments fuels my anger. My anger gives me strength.NEW_LINENEW_LINEBring me more and you shall receive another Savage Guard.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9209"] = {    ["Title"]="The Savage Guard - Arcanum of Rapidity",    ["Description"]="Zanza can create many ancient troll enchantments with proper components! Have you heard of the Savage Guard? No, of course you haven't. Your mind is addled with the inferior elven magic.NEW_LINENEW_LINEBring me an arcanum of elven creation so that I may destroy the aberration. Do this and the Savage Guard will be yours.",    ["Objectives"]="Zanza the Restless in Zul'Gurub wants an Arcanum of Rapidity.",    ["Progress"]="Do you have the arcanum?",    ["Completion"]="The worthless magic in these enchantments fuels my anger. My anger gives me strength.NEW_LINENEW_LINEBring me more and you shall receive another Savage Guard.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9210"] = {    ["Title"]="The Savage Guard - Arcanum of Focus",    ["Description"]="Zanza can create many ancient troll enchantments with proper components! Have you heard of the Savage Guard? No, of course you haven't. Your mind is addled with the inferior elven magic.NEW_LINENEW_LINEBring me an arcanum of elven creation so that I may destroy the aberration. Do this and the Savage Guard will be yours.",    ["Objectives"]="Zanza the Restless in Zul'Gurub wants an Arcanum of Focus.",    ["Progress"]="Do you have the arcanum?",    ["Completion"]="The worthless magic in these enchantments fuels my anger. My anger gives me strength.NEW_LINENEW_LINEBring me more and you shall receive another Savage Guard.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9211"] = {    ["Title"]="The Ice Guard",    ["Description"]="Ah, the Ice Guard. It is a thin sheen of protective magic that covers certain pieces of equipment. Those that do battle with creatures of frost and ice will gain increased protection from their attacks by using the Ice Guard.NEW_LINENEW_LINEAs with all things the Wrathcaster creates, there is a price - a price that I will not lower, regardless of how much you whimper. Interested?",    ["Objectives"]="Mataus the Wrathcaster at Light's Hope Chapel in the Eastern Plaguelands wants 10 Insignia of the Crusade and 30 gold.",    ["Progress"]="If it were not for these Argent Dawn guards, you would be a stain upon this floor.",    ["Completion"]="<Mataus pockets the gold.>NEW_LINENEW_LINEEnjoy the repair costs, YOUR_RACE. Naxxramas is 'unkind' to the uninitiated.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9221"] = {    ["Title"]="Superior Armaments of Battle - Friend of the Dawn",    ["Description"]="Greetings, friend. Have you insignias of the Dawn or the Crusade that you would like to redeem for items of power?NEW_LINENEW_LINEI must warn you; purchases made at a friendly reputation with the Dawn come with a hefty surcharge. I would advise that you gain a better reputation with the Dawn before moving forward with your plans.",    ["Objectives"]="For 30 Insignias of the Dawn and 30 Insignias of the Crusade you may choose an item from the Argent Dawn's treasure cache.",    ["Progress"]="Choose carefully. There are no refunds.",    ["Completion"]="Good day, YOUR_NAME. It was a pleasure doing business with you.",    ["minlevel"]="55",    ["questlevel"]="60"},
-
-	["9222"] = {    ["Title"]="Epic Armaments of Battle - Friend of the Dawn",    ["Description"]="Greetings, friend. Have you insignias of the Dawn or the Crusade that you would like to redeem for items of great power?NEW_LINENEW_LINEI must warn you; purchases made at a friendly reputation with the Dawn come with an extremely hefty surcharge. I would advise that you gain a better reputation with the Dawn before moving forward with your plans.",    ["Objectives"]="For 110 Insignias of the Dawn and 110 Insignias of the Crusade you may choose an item from the Argent Dawn's treasure cache.",    ["Progress"]="Choose carefully. There are no refunds.",    ["Completion"]="Good day, YOUR_NAME. It was a pleasure doing business with you.",    ["minlevel"]="55",    ["questlevel"]="60"},
-
-	["9223"] = {    ["Title"]="Superior Armaments of Battle - Honored Amongst the Dawn",    ["Description"]="Greetings, friend. Have you insignias of the Dawn or the Crusade that you would like to redeem for items of power?NEW_LINENEW_LINEI must warn you; purchases made at honored reputation with the Dawn come with a fairly prohibitive surcharge. I would advise that you gain a better reputation with the Dawn before moving forward with your plans.",    ["Objectives"]="For 20 Insignias of the Dawn and 20 Insignias of the Crusade you may choose an item from the Argent Dawn's treasure cache.",    ["Progress"]="Choose carefully. There are no refunds.",    ["Completion"]="Good day, YOUR_NAME. It was a pleasure doing business with you.",    ["minlevel"]="55",    ["questlevel"]="60"},
-
-	["9224"] = {    ["Title"]="Epic Armaments of Battle - Honored Amongst the Dawn",    ["Description"]="Greetings, friend. Have you insignias of the Dawn or the Crusade that you would like to redeem for items of great power?NEW_LINENEW_LINEI must warn you; purchases made at honored reputation with the Dawn come with an extremely hefty surcharge. I would advise that you gain a better reputation with the Dawn before moving forward with your plans.",    ["Objectives"]="For 75 Insignias of the Dawn and 75 Insignias of the Crusade you may choose an item from the Argent Dawn's treasure cache.",    ["Progress"]="Choose carefully. There are no refunds.",    ["Completion"]="Good day, YOUR_NAME. It was a pleasure doing business with you.",    ["minlevel"]="55",    ["questlevel"]="60"},
-
-	["9225"] = {    ["Title"]="Epic Armaments of Battle - Revered Amongst the Dawn",    ["Description"]="Greetings, friend. Have you insignias of the Dawn or the Crusade that you would like to redeem for items of great power?NEW_LINENEW_LINEI must warn you; epic purchases made at revered reputation with the Dawn are still quite expensive. I would advise that you gain a better reputation with the Dawn before moving forward with your plans.",    ["Objectives"]="For 45 Insignias of the Dawn and 45 Insignias of the Crusade you may choose an item from the Argent Dawn's treasure cache.",    ["Progress"]="Choose carefully. There are no refunds.",    ["Completion"]="Good day, YOUR_NAME. It was a pleasure doing business with you.",    ["minlevel"]="55",    ["questlevel"]="60"},
-
-	["9226"] = {    ["Title"]="Superior Armaments of Battle - Revered Amongst the Dawn",    ["Description"]="Greetings, friend. Have you insignias of the Dawn or the Crusade that you would like to redeem for items of power?NEW_LINENEW_LINEItems offered to those revered amongst the Dawn are priced quite reasonably. I encourage you to make a purchase!",    ["Objectives"]="For 7 Insignias of the Dawn and 7 Insignias of the Crusade you may choose an item from the Argent Dawn's treasure cache.",    ["Progress"]="Choose carefully. There are no refunds.",    ["Completion"]="Good day, YOUR_NAME. It was a pleasure doing business with you.",    ["minlevel"]="55",    ["questlevel"]="60"},
-
-	["9227"] = {    ["Title"]="Superior Armaments of Battle - Exalted Amongst the Dawn",    ["Description"]="Greetings, friend. Have you insignias of the Dawn or the Crusade that you would like to redeem for items of power?NEW_LINENEW_LINEItems offered to those exalted amongst the Dawn are discounted. I encourage you to make a purchase!",    ["Objectives"]="For 6 Insignias of the Dawn and 6 Insignias of the Crusade you may choose an item from the Argent Dawn's treasure cache.",    ["Progress"]="Choose carefully. There are no refunds.",    ["Completion"]="Good day, YOUR_NAME. It was a pleasure doing business with you.",    ["minlevel"]="55",    ["questlevel"]="60"},
-
-	["9228"] = {    ["Title"]="Epic Armaments of Battle - Exalted Amongst the Dawn",    ["Description"]="Greetings, friend. Have you insignias of the Dawn or the Crusade that you would like to redeem for items of great power?NEW_LINENEW_LINEThose exalted amongst the Dawn receive our greatest discounts! I encourage you to make a purchase.",    ["Objectives"]="For 27 Insignias of the Dawn and 27 Insignias of the Crusade you may choose an item from the Argent Dawn's treasure cache.",    ["Progress"]="Choose carefully. There are no refunds.",    ["Completion"]="Good day, YOUR_NAME. It was a pleasure doing business with you.",    ["minlevel"]="55",    ["questlevel"]="60"},
-
-	["9229"] = {    ["Title"]="The Fate of Ramaladni",    ["Description"]="Ramaladni was a warrior of the Brotherhood - a pupil of Highlord Mograine before the Dawn even existed! When news of Mograine's death reached him, hatred and anger took over.NEW_LINENEW_LINEUnderstand this, YOUR_NAME, when rage and retribution take the reins, a man ceases to be a man. The man personifies the emotions that control him instead. And so it would be that Ramaladni, the spirit of retribution, would enter Naxxramas to exact vengeance... and never return.NEW_LINENEW_LINEEnter Naxxramas and find what became of Ramaladni.",    ["Objectives"]="Enter Naxxramas and uncover the Fate of Ramaladni.",    ["Progress"]="Any news of Ramaladni?",    ["Completion"]="It is his ring! But it is destroyed. No other evidence of Ramaladni was found?NEW_LINENEW_LINE<Korfax grimaces.>NEW_LINENEW_LINEThis does not bode well for Ramaladni. The ring, however... it might be salvageable.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9230"] = {    ["Title"]="Ramaladni's Icy Grasp",    ["Description"]="Fixing this band may prove to be quite challenging, YOUR_NAME. You see, it was made from the very runes that form inside Scourge structures - like Naxxramas. Additional materials are also required but your main concern should be getting those frozen runes. Bring me what I need and I will restore the ring to its former glory.",    ["Objectives"]="Korfax at Light's Hope Chapel in the Eastern Plaguelands wants you to bring him 1 Frozen Rune, 1 Blue Sapphire and 1 Arcanite Bar.",    ["Progress"]="Frozen runes could probably be found inside Naxxramas.",    ["Completion"]="Ramaladni himself couldn't have done better! Here is the ring, as promised.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9232"] = {    ["Title"]="The Only Song I Know...",    ["Description"]="You fancy yourself a hero of the Dawn, eh? I've seen our greatest soldiers get rolled over by Kel'Thuzad's plebes! How well could someone so clueless possibly fare in Naxxramas?NEW_LINENEW_LINE<Wilhelm sighs.>NEW_LINENEW_LINEBah, what choice do I got? You're the best I can do; I may as well help you.NEW_LINENEW_LINEOmarion left me with one recipe. It's the only song I know... I can make a few variations of these pants; you just gotta supply the materials.",    ["Objectives"]="Craftsman Wilhelm at Light's Hope Chapel in the Eastern Plaguelands wants you to bring him 2 Frozen Runes, 2 Essence of Water, 2 Blue Sapphires and 30 gold pieces.",    ["Progress"]="You haven't run into Omarion, have you?",    ["Completion"]="<Wilhelm wipes the sweat from his brow.>NEW_LINENEW_LINEThat's some hard work! Enjoy the pants, $C. At least you'll die in a clean pair now.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9233"] = {    ["Title"]="Omarion's Handbook",    ["Description"]="Wilhelm,NEW_LINENEW_LINEIf you are reading this, I have perished - finally. I want you to know that my dying thoughts revolved around you and your ineptitude when it comes to tradeskills. Unfortunately, the bearer of this handbook is in even worse shape than you in regards to crafting.NEW_LINENEW_LINEAbout the book: These are the rest of my recipes. Make the bearer of this book whatever they request. I'm sure you will charge a hefty fee for your services because you are, after all, a bastard.NEW_LINENEW_LINEIn Disdain,NEW_LINENEW_LINEOmarion",    ["Objectives"]="Take Omarion's Handbook to Craftsman Wilhelm at Light's Hope Chapel in the Eastern Plaguelands.",    ["Progress"]="Is that what I think it is?NEW_LINENEW_LINE<Wilhelm appears to be drooling.>",    ["Completion"]="He musta really been off his rocker when he wrote this! Omarion and I - we were thick as thieves!NEW_LINENEW_LINEAnyhow, this certainly opens up some new possibilities, YOUR_NAME. I am now able to craft more items - for a small fee and material charges, of course.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9234"] = {    ["Title"]="Icebane Gauntlets",    ["Description"]="Thanks to you and Omarion, may he rest in peace, I am now able to create Icebane gauntlets. All you need to do is bring me the materials and pay a small crafting fee.",    ["Objectives"]="Craftsman Wilhelm at Light's Hope Chapel in the Eastern Plaguelands wants 5 Frozen Runes, 12 Thorium Bars, 2 Arcanite Bars, 2 Essences of Water and 200 gold.",    ["Progress"]="Have you brought the materials?",    ["Completion"]="Here is your order, YOUR_NAME. Delivered as promised!",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9235"] = {    ["Title"]="Icebane Bracers",    ["Description"]="Thanks to you and Omarion (May he rest in peace), I am now able to create Icebane bracers. All you need to do is bring me the materials and pay a small crafting fee.",    ["Objectives"]="Craftsman Wilhelm at Light's Hope Chapel in the Eastern Plaguelands wants 4 Frozen Runes, 12 Thorium Bars, 2 Arcanite Bars, 2 Essence of Water and 200 gold.",    ["Progress"]="Have you brought the materials?",    ["Completion"]="Here is your order, YOUR_NAME. Delivered as promised!",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9236"] = {    ["Title"]="Icebane Breastplate",    ["Description"]="Thanks to you and Omarion (May he rest in peace), I am now able to create an Icebane breastplate. All you need to do is bring me the materials and pay a small crafting fee.",    ["Objectives"]="Craftsman Wilhelm at Light's Hope Chapel in the Eastern Plaguelands wants 8 Frozen Runes, 16 Thorium Bars, 2 Arcanite Bars, 4 Essence of Water and 300 gold. You will also need to be of Exalted reputation with the Argent Dawn.",    ["Progress"]="Have you brought the materials?",    ["Completion"]="Here is your order, YOUR_NAME. Delivered as promised!",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9237"] = {    ["Title"]="Glacial Cloak",    ["Description"]="Thanks to you and Omarion, may he rest in peace, I am now able to create a Glacial cloak. All you need to do is bring me the materials and pay a small crafting fee.",    ["Objectives"]="Craftsman Wilhelm at Light's Hope Chapel in the Eastern Plaguelands wants 5 Frozen Runes, 4 Bolts of Runecloth, 2 Essences of Water, 4 Ironweb Spider Silks and 200 gold. You must also be of Exalted reputation with the Argent Dawn.",    ["Progress"]="Have you brought the materials?",    ["Completion"]="Here is your order, YOUR_NAME. Delivered as promised!",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9238"] = {    ["Title"]="Glacial Wrists",    ["Description"]="Thanks to you and Omarion, may he rest in peace, I am now able to create Glacial wrists. All you need to do is bring me the materials and pay a small crafting fee.",    ["Objectives"]="Craftsman Wilhelm at Light's Hope Chapel in the Eastern Plaguelands wants 4 Frozen Runes, 2 Bolts of Runecloth, 2 Essences of Water, 2 Ironweb Spider Silks and 200 gold.",    ["Progress"]="Have you brought the materials?",    ["Completion"]="Here is your order, YOUR_NAME. Delivered as promised!",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9239"] = {    ["Title"]="Glacial Gloves",    ["Description"]="Thanks to you and Omarion, may he rest in peace, I am now able to create Glacial gloves. All you need to do is bring me the materials and pay a small crafting fee.",    ["Objectives"]="Craftsman Wilhelm at Light's Hope Chapel in the Eastern Plaguelands wants 5 Frozen Runes, 4 Bolts of Runecloth, 4 Essences of Water, 2 Ironweb Spider Silks and 200 gold.",    ["Progress"]="Have you brought the materials?",    ["Completion"]="Here is your order, YOUR_NAME. Delivered as promised!",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9240"] = {    ["Title"]="Glacial Vest",    ["Description"]="Thanks to you and Omarion, may he rest in peace, I am now able to create a Glacial vest. All you need to do is bring me the materials and pay a small crafting fee.",    ["Objectives"]="Craftsman Wilhelm at Light's Hope Chapel in the Eastern Plaguelands wants 8 Frozen Runes, 8 Bolts of Runecloth, 6 Essences of Water, 4 Ironweb Spider Silks and 300 gold. You must also be of Exalted reputation with the Argent Dawn.",    ["Progress"]="Have you brought the materials?",    ["Completion"]="Here is your order, YOUR_NAME. Delivered as promised!",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9241"] = {    ["Title"]="Polar Bracers",    ["Description"]="Thanks to you and Omarion (May he rest in peace), I am now able to create Polar bracers. All you need to do is bring me the materials and pay a small crafting fee.",    ["Objectives"]="Craftsman Wilhelm at Light's Hope Chapel in the Eastern Plaguelands wants 4 Frozen Runes, 12 Enchanted Leather, 3 Essence of Water, 3 Cured Rugged Hides and 200 gold.",    ["Progress"]="Have you brought the materials?",    ["Completion"]="Here is your order, YOUR_NAME. Delivered as promised!",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9242"] = {    ["Title"]="Polar Gloves",    ["Description"]="Thanks to you and Omarion (May he rest in peace), I am now able to create Polar gloves. All you need to do is bring me the materials and pay a small crafting fee.",    ["Objectives"]="Craftsman Wilhelm at Light's Hope Chapel in the Eastern Plaguelands wants 5 Frozen Runes, 12 Enchanted Leather, 3 Essence of Water, 3 Cured Rugged Hides and 200 gold.",    ["Progress"]="Have you brought the materials?",    ["Completion"]="Here is your order, YOUR_NAME. Delivered as promised!",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9243"] = {    ["Title"]="Polar Tunic",    ["Description"]="Thanks to you and Omarion, may he rest in peace, I am now able to create a Polar tunic. All you need to do is bring me the materials and pay a small crafting fee.",    ["Objectives"]="Craftsman Wilhelm at Light's Hope Chapel in the Eastern Plaguelands wants 8 Frozen Runes, 16 Enchanted Leathers, 5 Essences of Water, 5 Cured Rugged Hides and 300 gold. You must also be of Exalted reputation with the Argent Dawn.",    ["Progress"]="Have you brought the materials?",    ["Completion"]="Here is your order, YOUR_NAME. Delivered as promised!",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9244"] = {    ["Title"]="Icy Scale Bracers",    ["Description"]="Thanks to you and Omarion, may he rest in peace, I am now able to create Icy Scale bracers. All you need to do is bring me the materials and pay a small crafting fee.",    ["Objectives"]="Craftsman Wilhelm at Light's Hope Chapel in the Eastern Plaguelands wants 4 Frozen Runes, 16 Heavy Scorpid Scales, 5 Essences of Water, 3 Cured Rugged Hides and 200 gold.",    ["Progress"]="Have you brought the materials?",    ["Completion"]="Here is your order, YOUR_NAME. Delivered as promised!",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9245"] = {    ["Title"]="Icy Scale Gauntlets",    ["Description"]="Thanks to you and Omarion (May he rest in peace), I am now able to create Icy Scale gauntlets. All you need to do is bring me the materials and pay a small crafting fee.",    ["Objectives"]="Craftsman Wilhelm at Light's Hope Chapel in the Eastern Plaguelands wants 5 Frozen Runes, 16 Heavy Scorpid Scale, 5 Essence of Water, 3 Cured Rugged Hides and 200 gold.",    ["Progress"]="Have you brought the materials?",    ["Completion"]="Here is your order, YOUR_NAME. Delivered as promised!",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9246"] = {    ["Title"]="Icy Scale Breastplate",    ["Description"]="Thanks to you and Omarion (May he rest in peace), I am now able to create an Icy Scale breastplate. All you need to do is bring me the materials and pay a small crafting fee.",    ["Objectives"]="Craftsman Wilhelm at Light's Hope Chapel in the Eastern Plaguelands wants 8 Frozen Runes, 24 Heavy Scorpid Scale, 7 Essence of Water, 5 Cured Rugged Hides and 300 gold. You must also be of Exalted reputation with the Argent Dawn.",    ["Progress"]="Have you brought the materials?",    ["Completion"]="Here is your order, YOUR_NAME. Delivered as promised!",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9247"] = {    ["Title"]="The Keeper's Call",    ["Description"]="YOUR_NAME,NEW_LINENEW_LINEIn times past you have served the interests of the Argent Dawn, always to the best of your abilities. Now, once again, we sound the clarion call in our time of greatest need.NEW_LINENEW_LINEYOUR_NAME, please report to the Keeper of the Rolls at Light's Hope Chapel in the Eastern Plaguelands if you are willing to aid us once more.",    ["Objectives"]="Take the Letter from the Keeper of the Rolls to him at Light's Hope Chapel in the Eastern Plaguelands.",    ["Progress"]="",    ["Completion"]="",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["9248"] = {    ["Title"]="A Humble Offering",    ["Description"]="Ishnu-alah, YOUR_RACE. Show me proof of the demise of a Lord of the Abyssal Council and I shall reward you with an item that should aid you in your battles against the Qiraji.",    ["Objectives"]="Aurel Goldleaf at Cenarion Hold in Silithus wants you to bring her 1 Abyssal Scepter. You must also be Honored with the Cenarion Circle.",    ["Progress"]="Fandu-dath-belore? Oh, pardon me, YOUR_NAME. I did not recognize you. Have you the scepter?",    ["Completion"]="Ande'thoras-ethil. It means; 'May your troubles be diminished,' in my native tongue.NEW_LINENEW_LINEWear the band proudly and in good health, YOUR_NAME.",    ["minlevel"]="58",    ["questlevel"]="60"},
-
-	["9250"] = {    ["Title"]="Frame of Atiesh",    ["Description"]="With the frame formed, Atiesh is nearly whole. Only the head and base of the staff are now missing. There is also a minor issue regarding the staff being a conduit for Sargeras's evil.NEW_LINENEW_LINEFind someone that can assist you in locating the remaining pieces and exorcising the evil from the staff.",    ["Objectives"]="Find someone that will help you in recovering the last two pieces of the staff and ridding it of evil.",    ["Progress"]="It was her time, mortal.",    ["Completion"]="The archmages have died.NEW_LINENEW_LINEDo not mourn their passing, YOUR_NAME. All such things are fated. Just as you holding the staff of the Guardian was fated...",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9251"] = {    ["Title"]="Atiesh, the Befouled Greatstaff",    ["Description"]="You question why you are still alive. After all, you have in your possession an item of great evil. The answer is not clear, YOUR_NAME. I only do as I must.NEW_LINENEW_LINEKel'Thuzad sits atop his throne in Naxxramas, plotting... He seeks that which you hold and holds that which you seek.NEW_LINENEW_LINEAs for the base of the staff; the dwarf, Brann Bronzebeard, held it when he entered Ahn'Qiraj. He has left Ahn'Qiraj but the base of Atiesh remains.NEW_LINENEW_LINEShould you succeed in recovering the pieces, return them to me.",    ["Objectives"]="Anachronos at the Caverns of Time in Tanaris wants the Staff Head of Atiesh and the Base of Atiesh.",    ["Progress"]="In its current form, the staff is far too dangerous to be in the hands of a mortal.",    ["Completion"]="There is a being within... a being not of this world.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9269"] = {    ["Title"]="Atiesh, Greatstaff of the Guardian",    ["Description"]="This final task will be the most difficult of all, YOUR_NAME. You have faced and defeated both an Old God and the Lich King's General, but now you must face the hand of Sargeras.NEW_LINENEW_LINETake the staff to Stratholme. It is there that you will find a piece of consecrated earth: ground where the greatest knights of Lordaeron were murdered. Place the befouled staff upon the holy ground and prepare for an entity of immense power to break from within... Defeat the demonic being that controls the staff and return to me.",    ["Objectives"]="Anachronos at the Caverns of Time in Tanaris wants you to take Atiesh, Greatstaff of the Guardian to Stratholme and use it on Consecrated Earth. Defeat the entity that is exorcised from the staff and return to him.",    ["Progress"]="I must not interfere, YOUR_RACE.",    ["Completion"]="The magnitude of this accomplishment must not be understated, YOUR_NAME. You have done what most would have thought to be impossible. Alas, it was fated. The staff has made its choice.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9270"] = {    ["Title"]="Atiesh, Greatstaff of the Guardian",    ["Description"]="This final task will be the most difficult of all, YOUR_NAME. You have faced and defeated both an Old God and the Lich King's General, but now you must face the hand of Sargeras.NEW_LINENEW_LINETake the staff to Stratholme. It is there that you will find a piece of consecrated earth: ground where the greatest knights of Lordaeron were murdered. Place the befouled staff upon the holy ground and prepare for an entity of immense power to break from within... Defeat the demonic being that controls the staff and return to me.",    ["Objectives"]="Anachronos at the Caverns of Time in Tanaris wants you to take Atiesh, Greatstaff of the Guardian to Stratholme and use it on Consecrated Earth. Defeat the entity that is exorcised from the staff and return to him.",    ["Progress"]="I must not interfere, YOUR_RACE.",    ["Completion"]="The magnitude of this accomplishment must not be understated, YOUR_NAME. You have done what most would have thought to be impossible. Alas, it was fated. The staff has made its choice.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9271"] = {    ["Title"]="Atiesh, Greatstaff of the Guardian",    ["Description"]="This final task will be the most difficult of all, YOUR_NAME. You have faced and defeated both an Old God and the Lich King's General, but now you must face the hand of Sargeras.NEW_LINENEW_LINETake the staff to Stratholme. It is there that you will find a piece of consecrated earth: ground where the greatest knights of Lordaeron were murdered. Place the befouled staff upon the holy ground and prepare for an entity of immense power to break from within... Defeat the demonic being that controls the staff and return to me.",    ["Objectives"]="Anachronos at the Caverns of Time in Tanaris wants you to take Atiesh, Greatstaff of the Guardian to Stratholme and use it on Consecrated Earth. Defeat the entity that is exorcised from the staff and return to him.",    ["Progress"]="I must not interfere, YOUR_RACE.",    ["Completion"]="The magnitude of this accomplishment must not be understated, YOUR_NAME. You have done what most would have thought to be impossible. Alas, it was fated. The staff has made its choice.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9292"] = {    ["Title"]="Cracked Necrotic Crystal",    ["Description"]="On the corpse of the fallen abomination, you discover a cracked crystal, slowly pulsing with necrotic energy.",    ["Objectives"]="Bring the Cracked Necrotic Crystal to Lieutenant Orrin outside the gates of Stormwind.",    ["Progress"]="Is there something you need?",    ["Completion"]="Hm, you took this from the corpse of one of the invading abominations?NEW_LINENEW_LINEWe have received word about the necropolis base camps that are being summoned by the Scourge. I suspect they wanted to create one inside Stormwind. It is good that they were unseccessful.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["9295"] = {    ["Title"]="Letter from the Front",    ["Description"]="You found this letter on one of the many Scourge minions you've slain. From its appearance and smell, it has been with the undead for some time. Perhaps someone at Light's Hope Chapel would be interested in examining it further...",    ["Objectives"]="Take the Torn Letter to the Keeper of the Rolls at Light's Hope Chapel in the Eastern Plaguelands.",    ["Progress"]="",    ["Completion"]="",    ["minlevel"]="45",    ["questlevel"]="60"},
-
-	["9299"] = {    ["Title"]="Note from the Front",    ["Description"]="You found this letter on one of the many Scourge minions you've slain. From its appearance and smell, it has been with the undead for some time. Perhaps someone at Light's Hope Chapel would be interested in examining it further...",    ["Objectives"]="Take the Careworn Note to the Keeper of the Rolls at Light's Hope Chapel in the Eastern Plaguelands.",    ["Progress"]="Yes? What do you have there?",    ["Completion"]="",    ["minlevel"]="45",    ["questlevel"]="60"},
-
-	["9300"] = {    ["Title"]="Page from the Front",    ["Description"]="You found this letter on one of the many Scourge minions you've slain. From its appearance and smell, it has been with the undead for some time. Perhaps someone at Light's Hope Chapel would be interested in examining it further...",    ["Objectives"]="Take the Ragged Page to the Keeper of the Rolls at Light's Hope Chapel in the Eastern Plaguelands.",    ["Progress"]="",    ["Completion"]="",    ["minlevel"]="45",    ["questlevel"]="60"},
-
-	["9301"] = {    ["Title"]="Envelope from the Front",    ["Description"]="You found this letter on one of the many Scourge minions you've slain. From its appearance and smell, it has been with the undead for some time. Perhaps someone at Light's Hope Chapel would be interested in examining it further...",    ["Objectives"]="Take the Bloodstained Envelope to the Keeper of the Rolls at Light's Hope Chapel in the Eastern Plaguelands.",    ["Progress"]="Yes? What do you have there?",    ["Completion"]="",    ["minlevel"]="45",    ["questlevel"]="60"},
-
-	["9302"] = {    ["Title"]="Missive from the Front",    ["Description"]="You found this letter on one of the many Scourge minions you've slain. From its appearance and smell, it has been with the undead for some time. Perhaps someone at Light's Hope Chapel would be interested in examining it further...",    ["Objectives"]="Take the Crumpled Missive to the Keeper of the Rolls at Light's Hope Chapel in the Eastern Plaguelands.",    ["Progress"]="",    ["Completion"]="",    ["minlevel"]="45",    ["questlevel"]="60"},
-
-	["9304"] = {    ["Title"]="Document from the Front",    ["Description"]="You found this letter on one of the many Scourge minions you've slain. From its appearance and smell, it has been with the undead for some time. Perhaps someone at Light's Hope Chapel would be interested in examining it further...",    ["Objectives"]="Take the Smudged Document to the Keeper of the Rolls at Light's Hope Chapel in the Eastern Plaguelands.",    ["Progress"]="Yes? What do you have there?",    ["Completion"]="",    ["minlevel"]="45",    ["questlevel"]="60"},
-
-	["9310"] = {    ["Title"]="Faint Necrotic Crystal",    ["Description"]="On the corpse of the fallen wight, you find a crystal that is faintly radiating necrotic energy.",    ["Objectives"]="Bring the Faint Necrotic Crystal to Lieutenant Rukag in the courtyard of the Undercity.",    ["Progress"]="",    ["Completion"]="",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["9317"] = {    ["Title"]="Consecrated Sharpening Stones",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="If you bring me eight necrotic runes from the Scourge invaders, I can give you a consecrated sharpening stone. It should be of great help in your battle against the minions of the Lich King.",    ["Completion"]="Thank you, YOUR_NAME. Here are your consecrated sharpening stones. Use them prudently.",    ["minlevel"]="50",    ["questlevel"]="60"},
-
-	["9319"] = {    ["Title"]="A Light in Dark Places",    ["Description"]="We are not the only ones who celebrate this holiday, YOUR_NAME. All creatures, all cultures, are touched by the flame. Even in the darkest places, the fires are being lit.NEW_LINENEW_LINEIf you wish to see them for yourself, travel into the depths. Seek out the bonfires burning within Stratholme, Scholomance, among the ogres of Dire Maul, and the halls of Blackrock Spire itself; I will await your return.",    ["Objectives"]="Find and touch the bonfires located within Blackrock Spire, Dire Maul, Scholomance, and Stratholme, then return to the Festival Flamekeeper.",    ["Progress"]="",    ["Completion"]="Your essence sings with the energy of the flames you found, YOUR_NAME. The fire you encountered is potent, and with the right knowledge, its power can be harnessed...NEW_LINENEW_LINEAh! Here we are. May this light your path, no matter where you tread.",    ["minlevel"]="50",    ["questlevel"]="60"},
-
-	["9320"] = {    ["Title"]="Major Mana Potion",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="In addition to our other supplies, we also have a number of major mana potions you may find useful. I will give you one in exchange for fifteen necrotic runes.",    ["Completion"]="Here you are, YOUR_NAME. Be careful out there. Our numbers are not so large we can afford many battlefield casualties.",    ["minlevel"]="50",    ["questlevel"]="60"},
-
-	["9324"] = {    ["Title"]="Stealing Orgrimmar's Flame",    ["Description"]="This flame, stolen from the heart of Orgrimmar itself, floods you with warmth. This raw power is foreign to you, but the Loremaster might know more...",    ["Objectives"]="Return the Flame of Orgrimmar to the Festival Loremaster.",    ["Progress"]="You're practically glowing, YOUR_RACE. What do you have there?",    ["Completion"]="What's this? Unless I'm mistaken, this flame has been taken from the heart of Orgrimmar itself! The fierce hearts of the orcs and trolls are reflected in its searing heat. What a fine addition to our collection--how brave you are, stealing into the enemy's lair to retrieve the sacred flame!",    ["minlevel"]="50",    ["questlevel"]="60"},
-
-	["9325"] = {    ["Title"]="Stealing Thunder Bluff's Flame",    ["Description"]="This flame, stolen from the shaman of Thunder Bluff, floods you with warmth. This raw power is foreign to you, but the Loremaster might know more...",    ["Objectives"]="Return the Flame of Thunder Bluff to the Festival Loremaster.",    ["Progress"]="You're practically glowing, YOUR_RACE. What do you have there?",    ["Completion"]="Unless I miss my guess, this fire has been taken from the cliffs of Thunder Bluff! How it sings with the power of the spirits! You are quite the thief, YOUR_NAME. Take this as just payment for your skill. Now, if only we had the flames of all three cities...",    ["minlevel"]="50",    ["questlevel"]="60"},
-
-	["9326"] = {    ["Title"]="Stealing the Undercity's Flame",    ["Description"]="This flame, stolen from the ruins above the Undercity, floods you with warmth. This raw power is foreign to you, but the Loremaster might know more...",    ["Objectives"]="Return the Flame of the Undercity to the Festival Loremaster.",    ["Progress"]="You're practically glowing, YOUR_RACE. What do you have there?",    ["Completion"]="Hm... what a strange fire! It is subdued, nearly smoldering, but the heat is intense. And you received this from the Undercity, you say? Fascinating. With the flames of all three cities, who knows what we could accomplish?",    ["minlevel"]="50",    ["questlevel"]="60"},
-
-	["9330"] = {    ["Title"]="Stealing Stormwind's Flame",    ["Description"]="This flame, stolen from the heart of Stormwind itself, floods you with warmth. This raw power is foreign to you, but the Talespinner might know more...",    ["Objectives"]="Return the Flame of Stormwind to the Festival Talespinner.",    ["Progress"]="You're practically glowing, YOUR_RACE. What do you have there?",    ["Completion"]="And this brightly-burning fire... you say it came from Stormwind? Remarkable! That must have been quite an adventure! I'll pay you for this, of course. If you find anything else like this, be sure to speak with me again.",    ["minlevel"]="50",    ["questlevel"]="60"},
-
-	["9331"] = {    ["Title"]="Stealing Ironforge's Flame",    ["Description"]="This flame, stolen from the heart of Ironforge itself, floods you with warmth. This raw power is foreign to you, but the Talespinner might know more...",    ["Objectives"]="Return the Flame of Ironforge to the Festival Talespinner.",    ["Progress"]="You're practically glowing, YOUR_RACE. What do you have there?",    ["Completion"]="This hearty flame must be from the halls of Ironforge; it's as stalwart as the dwarves themselves. A fine catch, YOUR_NAME. If I had the fires of the other cities... ah, but never mind. Here is your payment.",    ["minlevel"]="50",    ["questlevel"]="60"},
-
-	["9332"] = {    ["Title"]="Stealing Darnassus's Flame",    ["Description"]="This flame, stolen from the shores of Teldrassil, floods you with warmth. This raw power is foreign to you, but the Talespinner might know more...",    ["Objectives"]="Return the Flame of Darnassus to the Festival Talespinner.",    ["Progress"]="You're practically glowing, YOUR_RACE. What do you have there?",    ["Completion"]="This fire aches of ancient sorrow, YOUR_NAME. You pulled this from the roots of Teldrassil, you say? Fascinating! Here is a reward for your skill. Return to me should you find anything else like this; I may have a use for it.",    ["minlevel"]="50",    ["questlevel"]="60"},
-
-	["9339"] = {    ["Title"]="A Thief's Reward",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="You've proven yourself today, YOUR_NAME.",    ["minlevel"]="50",    ["questlevel"]="60"},
-
-	["9364"] = {    ["Title"]="Fragmented Magic",    ["Description"]="My research has revealed a unique purpose for the prismatic shell.NEW_LINENEW_LINECarry the shell and cast your polymorph spell on the Spitelash in Azshara.  If you wait a few moments, the chaotic aura of the shell will cause them to split into several smaller clones for a few moments.  Kill these clones as quickly as possible, and the shell will collect their essence.NEW_LINENEW_LINEWhen the shell is full, return it to me.",    ["Objectives"]="Polymorph the Spitelash of Azshara and kill the clones that appear several seconds later.  When you have slain 50 Polymorph Clones, return to Archmage Xylem in Azshara.",    ["Progress"]="Have you collected the magic?",    ["Completion"]="Splendid! Splendid!NEW_LINENEW_LINENow we are able to reform this magic into a new spell. Behold!",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9365"] = {    ["Title"]="A Thief's Reward",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="You've proven yourself today, YOUR_NAME.",    ["minlevel"]="50",    ["questlevel"]="60"},
-
-	["9368"] = {    ["Title"]="The Festival of Fire",    ["Description"]="Midsummer is upon us once again!NEW_LINENEW_LINEEach year, as tradition dictates, Flamekeepers are chosen to tend the bonfires within our capitals. While fires are burning throughout Azeroth, it is imperative that ours be the hottest and brightest, to properly pay homage to the season.NEW_LINENEW_LINEIn fact, I have a task for you, if you don't mind. I've not yet heard if the fires in all capitals are properly burning. Travel there yourself and warm yourself by the fires--make sure they're hot!",    ["Objectives"]="Touch the bonfires within Orgrimmar, Thunder Bluff, and the Undercity, then speak to a Festival Talespinner within the capital cities.",    ["Progress"]="Have you had any luck, YOUR_NAME?",    ["Completion"]="Excellent! It seems we've appointed dutiful Flamekeepers this year if the bonfires are as well-kept as you claim. Thank you for inspecting them for me; here, take this as a small token of my esteem.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["9386"] = {    ["Title"]="A Light in Dark Places",    ["Description"]="An eager one, aren't you? If you're willing to enter the depths once more, I'll gladly reward you.NEW_LINENEW_LINESeek out the bonfires burning within Stratholme, Scholomance, Dire Maul, and the halls of Blackrock Spire itself; I look forward to your return, YOUR_NAME.",    ["Objectives"]="Find and touch the bonfires located within Blackrock Spire, Dire Maul, Scholomance, and Stratholme, then speak with the Festival Flamekeeper.",    ["Progress"]="",    ["Completion"]="",    ["minlevel"]="50",    ["questlevel"]="60"},
-
-	["9415"] = {    ["Title"]="Report to Marshal Bluewall",    ["Description"]="Are you Marshal Bluewall's new recruits? Of course you are.NEW_LINENEW_LINEWhat are you waiting for? Good soldiers are dying in the desert. Aren't you excited to join them?NEW_LINENEW_LINENow, get going and don't dry out on the way.",    ["Objectives"]="Speak with Marshal Bluewall at the Alliance encampment near Hive'Zora.",    ["Progress"]="",    ["Completion"]="The Alliance needs every able body they can get. The Horde has been receiving a steady supply of reinforcements from the northern part of the continent, and it's been a struggle to keep up.NEW_LINENEW_LINELet me explain the situation to you.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["9416"] = {    ["Title"]="Report to General Kirika",    ["Description"]="You must be one of General Kirika's new recruits. It's about time you showed up. Bodies wear down quick in the desert.NEW_LINENEW_LINEThe dwarves have been getting reinforcements daily, and we can't afford to lose ground in our struggle for resources in Silithus.NEW_LINENEW_LINEGet your instructions from the General. It's not my job to train you, just find you.",    ["Objectives"]="Speak with General Kirika at the Horde encampment near Hive'Regal.",    ["Progress"]="",    ["Completion"]="It's good that you're here, but there's no time to waste making small talk. You need instructions, and then you need to get out there.NEW_LINENEW_LINEListen up.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["9419"] = {    ["Title"]="Scouring the Desert",    ["Description"]="We recently found out that the Horde has been scavenging the Silithus desert for resources, but paid them little mind. We thought it could not be worth it to station large numbers in this sweltering desert.NEW_LINENEW_LINEHowever, it was discovered the importance of the resources, and now we are scrambling to catch up.NEW_LINENEW_LINEIf I have your assistance, you must go into the desert and recover the silithyst and return it here.",    ["Objectives"]="Find and deliver Silithyst to the Silithyst Extractor, then speak with Marshal Bluewall at the Alliance encampment near Hive'Zora.",    ["Progress"]="Be careful out there, but also be quick. We have no time to lose.",    ["Completion"]="Thank the Light you were successful.NEW_LINENEW_LINENow if we could only have started this sooner, our need would not be so desperate. We must keep the bounty of the desert from falling into the hands of the Horde.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["9422"] = {    ["Title"]="Scouring the Desert",    ["Description"]="For some time now, we have been tapping the crystal resources of the Silithus desert. The only dangers we faced were from the creatures that made this place their home and the oppressive sand and dust and heat.NEW_LINENEW_LINEBut now the Alliance seems to have caught on to what we have found here. It is now a race between us to capture the natural resources, and keep them from the other.NEW_LINENEW_LINEI need every set of hands that is available. I hope I have yours.",    ["Objectives"]="Find and deliver Silithyst to the Silithyst Extractor then speak with General Kirika at the Horde encampment near Hive'Regal.",    ["Progress"]="Be wary of the dangers of the desert, YOUR_NAME. With the Alliance lurking in the dunes, any step could be your last.",    ["Completion"]="You've done well, YOUR_NAME. These resources will be added to our stockpiles, and every bit is to our gain and our enemy's loss.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["9664"] = {    ["Title"]="Establishing New Outposts",    ["Description"]="Welcome to the Plaguelands, YOUR_NAME. As you know, the Forsaken and their allies hold the lands to the west of here against our best efforts. The Alliance commanders have decided that here in the east, we will establish new fortifications to tighten the noose around our enemies.NEW_LINENEW_LINETowers long abandoned since the days of Lordaeron are to be seized and rebuilt for this purpose. These lands are dangerous, and we could use your help.",    ["Objectives"]="Capture Crown Guard Tower, Eastwall Tower, Northpass Tower and Plaguewood Tower in the Eastern Plaguelands, then return to Emmisary Whitebeard at Light's Hope Chapel.",    ["Progress"]="When the towers are under our control, we will soon be able to surround the Forsaken. After that, it is only a matter of time before we can crush them.",    ["Completion"]="Very good, YOUR_NAME. It will be important for us to hold these towers against future attacks, and for that we may need your assistance until reinforcements can be brought in to secure the area.",    ["minlevel"]="55",    ["questlevel"]="60"},
-
-	["9665"] = {    ["Title"]="Bolstering Our Defenses",    ["Description"]="Agents of the Forsaken uncovered an Alliance plot to establish new bases here in the Eastern Plaguelands, at abandoned towers throughout the area.NEW_LINENEW_LINEIt is imperative that we not allow them to establish a significant presence on our eastern borders, and so we must stave off this Alliance incursion. Our current plans are to drive them out of any towers they may have already seized, and occupy those that we have under our control against further attacks.",    ["Objectives"]="Capture Crown Guard Tower, Eastwall Tower, Northpass Tower and Plaguewood Tower in the Eastern Plaguelands, then return to Emmisary Gormok at Light's Hope Chapel.",    ["Progress"]="They must be fools to think that we would allow them to establish bases so close to one of our capitals.NEW_LINENEW_LINEWe will bleed their numbers until they turn tail and retreat back to the south.",    ["Completion"]="This is good news, YOUR_NAME. It will be a constant struggle here in the Plaguelands until we have fully driven back the forces of the Alliance.NEW_LINENEW_LINEUntil that day, I hope that we will have your continued assistance.",    ["minlevel"]="55",    ["questlevel"]="60"},
-
-	["1289"] = {    ["Title"]="Vimes's Report",    ["Description"]="Well. judging from Captain Vimes's report. you've been a huge help to his investigation. and for that I thank you.NEW_LINENEW_LINEI can put my mind more at ease knowing that the matter is in such capable hands. If you would. I would request that you return to Captain Vimes and help him in getting to the bottom of this mystery.",    ["Objectives"]="Return to Captain Garran Vimes in Theramore.",    ["Progress"]="",    ["Completion"]="",    ["minlevel"]="30",    ["questlevel"]="38"},
-
-	["1390"] = {    ["Title"]="Oops, We Killed Them Again.",    ["Description"]="Missing text",    ["Objectives"]="Missing text",    ["Progress"]="NULL",    ["Completion"]="Thanks for the done work!",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["3482"] = {    ["Title"]="<NYI> <TXT> The Pocked Black Box",    ["Description"]="This is the horde version of the black box quest.",    ["Objectives"]="Take this box to Kravel.",    ["Progress"]="",    ["Completion"]="",    ["minlevel"]="30",    ["questlevel"]="35"},
-
-	["5659"] = {    ["Title"]="Touch of Weakness",    ["Description"]="This isn't the place for you, YOUR_NAME. You should head to the War Quarter in Undercity as soon as possible. Aelthalyste has called all her priests and priestesses there as soon as they are ready. It's time they learn more about their power and how to harness it.NEW_LINENEW_LINEShe will not tolerate tardiness or excuses, so you'd best be on your way.",    ["Objectives"]="Speak to Aelthalyste in the Undercity.",    ["Progress"]="",    ["Completion"]="Ah, good, another has arrived. Time may not matter to me, but to you it is of the essence. There is much for you to learn and there is much I wish to teach you. You simply must prove your worth. Do that, and you shall be greatly rewarded.",    ["minlevel"]="10",    ["questlevel"]="10"},
-
-	["8792"] = {    ["Title"]="The Horde Needs Your Help!",    ["Description"]="Hello, I'm glad that you've decided to hear me out. The Horde needs all of the help that it can get to prepare for the Ahn'Qiraj War, and that means that we need you! Even now as we speak, official collectors are gathering the necessary material needed for the upcoming war, but we won't be able to meet our goals without your assistance, YOUR_NAME!NEW_LINENEW_LINEYou should go speak with the guy in charge, Warlord Gorchuk. What do you say, $c? Will you help out with the vital preparations?",    ["Objectives"]="Speak with Warlord Gorchuk in Orgrimmar's Valley of Spirits.",    ["Progress"]="",    ["Completion"]="Throm'ka, $C! Good to see so many of the Horde, such as yourself, YOUR_NAME, coming out to lend your support in laying the groundwork for the upcoming Ahn'Qiraj War. The effort here will ensure that we are victorious against the Silithid and their evil masters hidden away inside Ahn'Qiraj.NEW_LINENEW_LINESo now that you are here, be sure to speak with the various collectors and offer your assistance in gathering those materials that you are suited to.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8793"] = {    ["Title"]="The Horde Needs Your Help!",    ["Description"]="Hello, I'm glad that you've decided to hear me out. The Horde needs all of the help that it can get to prepare for the Ahn'Qiraj War, and that means that we need you! Even now as we speak, official collectors are gathering the necessary material needed for the upcoming war, but we won't be able to meet our goals without your assistance, YOUR_NAME!NEW_LINENEW_LINEYou should go speak with the guy in charge, Warlord Gorchuk. What do you say, $c? Will you help out with the vital preparations?",    ["Objectives"]="Speak with Warlord Gorchuk in Orgrimmar's Valley of Spirits.",    ["Progress"]="",    ["Completion"]="Throm'ka, $C! Good to see so many of the Horde, such as yourself, YOUR_NAME, coming out to lend your support in laying the groundwork for the upcoming Ahn'Qiraj War. The effort here will ensure that we are victorious against the Silithid and their evil masters hidden away inside Ahn'Qiraj.NEW_LINENEW_LINESo now that you are here, be sure to speak with the various collectors and offer your assistance in gathering those materials that you are suited to.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8794"] = {    ["Title"]="The Horde Needs Your Help!",    ["Description"]="Hello, I'm glad that you've decided to hear me out. The Horde needs all of the help that it can get to prepare for the Ahn'Qiraj War, and that means that we need you! Even now as we speak, official collectors are gathering the necessary material needed for the upcoming war, but we won't be able to meet our goals without your assistance, YOUR_NAME!NEW_LINENEW_LINEYou should go speak with the guy in charge, Warlord Gorchuk. What do you say, $c? Will you help out with the vital preparations?",    ["Objectives"]="Speak with Warlord Gorchuk in Orgrimmar's Valley of Spirits.",    ["Progress"]="",    ["Completion"]="Throm'ka, $C! Good to see so many of the Horde, such as yourself, YOUR_NAME, coming out to lend your support in laying the groundwork for the upcoming Ahn'Qiraj War. The effort here will ensure that we are victorious against the Silithid and their evil masters hidden away inside Ahn'Qiraj.NEW_LINENEW_LINESo now that you are here, be sure to speak with the various collectors and offer your assistance in gathering those materials that you are suited to.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8846"] = {    ["Title"]="Five Signets for War Supplies",    ["Description"]="",    ["Objectives"]="Well then, it's settled; here are your supplies, $c. If you wish to do an additional exchange, then I am prepared to authorize it. Just give me the word and I'll make it happen.NEW_LINENEW_LINEKeep up the good work, YOUR_NAME. We need all the materiel we can muster if we're going to win this thing. If we all do our part, then victory shall be ours for the taking!",    ["Progress"]="Ah, here for additional supplies for yourself, are you?  Well, I can certainly understand the need for additional materiel... just take a look around if you need any proof.NEW_LINENEW_LINEI'll issue you some additional supplies, but you'll need to give me an appropriate number of commendation signets in exchange.  You won't receive any recognition for surrendering the signets in this manner, but you might find something useful that will help keep you alive when battle is finally upon us.",    ["Completion"]="Well then, it's settled; here are your supplies, $C. If you wish to do an additional exchange, then I am prepared to authorize it. Just give me the word and I'll make it happen.NEW_LINENEW_LINEKeep up the good work, YOUR_NAME. We need all the materiel we can muster if we're going to win this thing. If we all do our part, then victory shall be ours for the taking!",    ["minlevel"]="10",    ["questlevel"]="19"},
-
-	["9165"] = {    ["Title"]="Writ of Safe Passage",    ["Description"]="Without the help of adventurers, my caravan would have never made it! Scourge were coming out of the woodwork to try and stop us from getting here.NEW_LINENEW_LINE<Guard Didier wipes his brow.>NEW_LINENEW_LINENow we need to wait here for Field Marshal Chambers to arrive. He'll sign your writ of safe passage to take back to Dispatch Commander Metz at Light's Hope Chapel.NEW_LINENEW_LINEAnd YOUR_NAME, watch what you say around Chambers. He's the 'bite off your head and spit down your wind pipe' type of guy - except that he'll actually do it...",    ["Objectives"]="Deliver the signed Writ of Safe Passage to Dispatch Commander Metz at Light's Hope Chapel in the Eastern Plaguelands.",    ["Progress"]="Name, rank and serial number!",    ["Completion"]="<Dispatch Commander Metz takes the writ and signs it.>NEW_LINENEW_LINEExcellent work, YOUR_NAME. Outstanding even! Take this as a token of our appreciation. No pun intended, scrub.",    ["minlevel"]="55",    ["questlevel"]="60"},
-
-	["9026"] = {    ["Title"]="Tracing the Source",    ["Description"]="We've got to find the source. I've seen a lot more people than usual - guards included - going in and out of The Gilded Rose. Talk to Allison. If she's selling them, she can tell you where they came from.",    ["Objectives"]="Speak with Innkeeper Allison at The Gilded Rose in Stormwind's Trade District.",    ["Progress"]="",    ["Completion"]="Oh yes, I just got the perfume and cologne in stock recently. It's been selling so well, I don't know how long I can keep it on the shelves.NEW_LINENEW_LINEIf you ask me, it's kind of boring. Everyone smelling the same? It smells great, but still.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["1657"] = {    ["Title"]="Stinking Up Southshore",    ["Description"]="Celebrate Hallow's End in style... by bringing grief to our enemies in Southshore!NEW_LINENEW_LINETake one of these specially crafted stink bombs.  It is filled with an odiferous funk that no human - or any weak-willed beast for that matter - can stand to smell.  You'll need to throw it right in the heart of Southshore for it to do its job, so be prepared for a fight against the Alliance!NEW_LINENEW_LINEWhen you've completed this task... this tribute to our liberation, return to me!",    ["Objectives"]="Toss three Forsaken Stink Bombs into the heart of Southshore in Hillsbrad, and return to Darkcaller Yanka at the Wickerman Festival in Tirisfal Glade.",    ["Progress"]="Have you delivered our \"gift\" to the people of Southshore?NEW_LINENEW_LINE<Darkcaller Yanka laughs wickedly.>",    ["Completion"]="Ah, well done!  I hope the Alliance chokes on the foul gift we've given them, much like we were forced to choke on the yoke of enslavement to the Scourge!NEW_LINENEW_LINEYou've kept the ideas of Hallow's End true, YOUR_NAME, and for that I salute you.  As an extra bonus, let me share some of these Hallow's End treats I have with you.  I think you might find them to be quite the enjoyable diversion!",    ["minlevel"]="25",    ["questlevel"]="60"},
-
-	["7946"] = {    ["Title"]="Spawn of Jubjub",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="I'm so happy Jubjub is no longer lost. She loves Dark Iron ale so much that when I ran out... she ran away to find more!NEW_LINENEW_LINENow that Jubjub's back, I want as much ale as I can get! I won't want her to run away again!NEW_LINENEW_LINEDo you have any Dark Iron Ale? If you do, then I'll trade you one of Jubjub's frog eggs for a mug...",    ["Completion"]="Thank you, YOUR_NAME.  Here is your egg!  It won't be ready to hatch for a little while, but when it does you'll have a great pet!",    ["minlevel"]="1",    ["questlevel"]="1"},
-
-	["8193"] = {    ["Title"]="Master Angler",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="Today between 2pm and 4pm we have a contest to determine who the greatest angler of them all is!   Just be the FIRST PERSON to bring me 40 Tastyfish fished from the Tastyfish schools found along the coast of Stranglethorn before anyone else does and you will be declared the Master Angler!NEW_LINENEW_LINEIf you are not the first person to bring me 40 fish, my apprentice here will still reward you with money for each 5 Tastyfish you bring her.NEW_LINENEW_LINEOh, and don't delay, Tastyfish go bad quickly!",    ["Completion"]="Hurry up and turn those in if you want to be declared the Master Angler!  I have been standing around here for HOURS with nothing to eat!   Hand those suckers over!",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8194"] = {    ["Title"]="Apprentice Angler",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="Even though we already have a contest winner, I will still buy your Tastyfish from you at a reasonable price.   Whadda ya say!",    ["Completion"]="This deal works for me if it works for you!",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8196"] = {    ["Title"]="Essence Mangoes",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="The extremely potent essence mango grows across many of the islands in the South Seas.  A single mango will refresh those who eat it, both physically and mentally.  If you've never had one, you do yourself a disservice!NEW_LINENEW_LINEWe have enough of a supply here on the isle to offer you a handful in exchange for a Zandalar Honor Token.  Speak with Vinchaxa if you need to learn how to get tokens; otherwise, let's get to the business at hand!",    ["Completion"]="A fair trade, my friend - please enjoy the luscious fruits of the South Seas, with the tribe's blessing.",    ["minlevel"]="58",    ["questlevel"]="60"},
-
-	["8221"] = {    ["Title"]="Rare Fish - Keefer's Angelfish",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="*Whir* *Click*NEW_LINENEW_LINEI seek rare fish for Fishmaster Bluegill to catalogue.   If you bring me a Keefer's Angelfish, I will provide you with this fine reward.NEW_LINENEW_LINE*Zzzap* *Whir*",    ["Completion"]="*Whir*NEW_LINENEW_LINEIdentification of Keefer's Angelfish complete.NEW_LINENEW_LINEYour Reward is now available.NEW_LINENEW_LINE*click-click* *Bzzzz*",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8222"] = {    ["Title"]="Glowing Scorpid Blood",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="In all my time working the Faire, I've learned a lot of things about customers. Here's one of those nuggets of wisdom: customers love stuff that glows! It doesn't matter what it is - you could take a broken chair leg and make it glow, and every child will come from miles around to get one!NEW_LINENEW_LINESo, YOUR_NAME, I need glowing scorpid blood. You can find it from the scorpids of Sillithus, or the Blasted Lands, or the Burning Steppes.",    ["Completion"]="Great job, YOUR_NAME!  Thanks a lot!  I'm going to make paint from this blood and turn all kinds of cheap junk into glowing treasure!NEW_LINENEW_LINEHere are your tickets, and thanks again!",    ["minlevel"]="40",    ["questlevel"]="60"},
-
-	["8223"] = {    ["Title"]="More Glowing Scorpid Blood",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="That scorpid blood is working out great, YOUR_NAME! It's amazing how a little sparkle and shine can create a prized bauble out of an otherwise piece of junk. The patrons love the stuff, and love is what it's all about, don't you think...NEW_LINENEW_LINEYou've been a big help to me, YOUR_NAME, and although I don't have a great need for more glowing scorpid blood, if you bring me more then I'll still trade you some tickets.",    ["Completion"]="Thanks again, YOUR_NAME.  Here are your tickets!",    ["minlevel"]="40",    ["questlevel"]="60"},
-
-	["8224"] = {    ["Title"]="Rare Fish - Dezian Queenfish",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="*Whir* *Click*NEW_LINENEW_LINEI seek rare fish for Fishmaster Bluegill to catalogue.   If you bring me a Dezian Queenfish, I will provide you with this fine reward.NEW_LINENEW_LINE*Zzzap* *Whir*",    ["Completion"]="*Whir*NEW_LINENEW_LINEIdentification of Dezian Queenfish complete.NEW_LINENEW_LINEYour Reward is now available.NEW_LINENEW_LINE*click-click* *Bzzzz*",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8225"] = {    ["Title"]="Rare Fish - Brownell's Blue Striped Racer",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="*Whir* *Click*NEW_LINENEW_LINEI seek rare fish for Fishmaster Bluegill to catalogue.   If you bring me a Brownell's Blue Striped Racer, I will provide you with this fine reward.NEW_LINENEW_LINE*Zzzap* *Whir*",    ["Completion"]="*Whir* Identification of Brownell's Racer complete. Your Reward is now available. *click* *click* *Bzzzz*",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8170"] = {    ["Title"]="The Battle for Arathi Basin!",    ["Description"]="As you no doubt have heard, the League of Arathor is sending large numbers of troops into Arathi Basin.  Eager for food and supplies, these Alliance fools are intent to take and control the rich resources there.  We must show them that Arathi will never again be a home for humans!NEW_LINENEW_LINEGo to Arathi Basin and assault the mine, the lumber mill, the blacksmith and the stables.  Pull down the enemies' banners, declaring those territories for the Horde.NEW_LINENEW_LINEGo, YOUR_NAME.  Report back to me when this task is complete.",    ["Objectives"]="Assault the Arathi Basin mine, lumber mill, blacksmith and stable, and then return to Deathmaster Dwire in Hammerfall.",    ["Progress"]="",    ["Completion"]="A Defiler scout came to me with a report of your success, YOUR_NAME.  Well done.NEW_LINENEW_LINEAs you will learn, to win the battle for Arathi Basin, we must be ever vigilant and crush any attempts at Alliance expansion.  Do this, and our victory here is ensured.",    ["minlevel"]="30",    ["questlevel"]="35"},
-
-	["8246"] = {    ["Title"]="Signets of the Zandalar",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="YOUR_NAME - for someone as exalted among the Zandalar as you are, I have something very special for you. Direct from our home in the South Seas... the Signets of the Zandalar! These signets are used to enhance any shoulder item you may possess. Should you seek might, mojo, or serenity - I have what you need!NEW_LINENEW_LINEI ask for fifteen Zandalar Honor Tokens in exchange for your choice of one signet. If you have the tokens ready, then I'm ready to make a deal!",    ["Completion"]="A fair trade, my friend - please accept your signet with the blessing of the tribe!",    ["minlevel"]="58",    ["questlevel"]="60"},
-
-	["8271"] = {    ["Title"]="Hero of the Stormpike",    ["Description"]="The indigenous Winterax trolls of the region are ruthless savages that would love nothing more than to have our bones added to their foul stew.NEW_LINENEW_LINEWe must show them our might!NEW_LINENEW_LINEWe have recovered tomes from their caves that detail their leadership hierarchy. The artifacts indicate that their leader, Korrak the Bloodrager, tends to remain hidden until given a reason to make his presence known.NEW_LINENEW_LINEDeath to Korrak would mean death to Winterax Clan! Slay him and return.",    ["Objectives"]="According to legend, the leader of the mighty Winterax trolls appears at will to wreak havoc on the denizens of Alterac Valley.NEW_LINENEW_LINEShould Korrak make himself known, destroy him and return to Lieutenant Haggerdin in the Alterac Mountains.",    ["Progress"]="Be warned, soldier: The Frostwolf also hunt for Korrak.",    ["Completion"]="Well done. With Korrak dead, our full attention can be focused upon purging the Frostwolf filth from the region.",    ["minlevel"]="51",    ["questlevel"]="60"},
-
-	["8273"] = {    ["Title"]="Oran's Gratitude",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="Now isn't this interesting? You say you found this tablet on a small, deserted island at The Overlook Cliffs in The Hinterlands, $C? Very interesting indeed. <Oran carefully puts the tablet away and rubs her hands together.>NEW_LINENEW_LINEI thank you for your efforts in this matter. Our Dark Lady shall be very pleased with this discovery. Here, allow me to reward you proportionately.",    ["minlevel"]="42",    ["questlevel"]="47"},
-
-	["8316"] = {    ["Title"]="Armaments of War",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="War comes, YOUR_NAME, and with it comes untold horrors. You have done all that could be asked of you and for that you should be rewarded.NEW_LINENEW_LINEShould this... this prophecy ever come to pass...NEW_LINENEW_LINE<Geologist Larksbane turns pale.>NEW_LINENEW_LINEThe future of us all could be at an end.NEW_LINENEW_LINEThese armaments will prove invaluable to your campaign in this desert.",    ["minlevel"]="58",    ["questlevel"]="60"},
-
-	["8324"] = {    ["Title"]="Still Believing",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="Find any more encrypted texts? Bring me a good batch of them, this decoding work takes some time.",    ["Completion"]="Excellent!  I can't wait to read these. Please do keep bringing the encrypted texts here if you find them.",    ["minlevel"]="54",    ["questlevel"]="59"},
-
-	["8333"] = {    ["Title"]="Medallion of Station",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="If you need another Twilight cultist's medallion of station, then I am happy to oblige. I will, however, need another brilliant shard and some abyssal crests...",    ["Completion"]="Here you are, YOUR_NAME. One more Twilight medallion of station. Use it well, and I wish you luck against the Abyssal Council!",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8342"] = {    ["Title"]="Twilight Ring of Lordship",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="YOUR_NAME, if you plan to go after the Abyssal High Council again, then you'll need another Twilight ring of lordship. Bring me more shards and signets and I'll make one for you.",    ["Completion"]="Ah, I see your convictions are strong. Not many will face that council of fiends!NEW_LINENEW_LINEHere's your ring, YOUR_NAME. May your will, and your fortune, stand firm.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8362"] = {    ["Title"]="Abyssal Crests",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="You've proved you can handle yourself in a fight, YOUR_NAME. Let's keep the pressure up on the Twilight's Hammer. Go fight some more Abyssal Templars, I'll reward you with some of the stuff Huum and I have found in battle.",    ["Completion"]="You've done well! That's less Templars for me to worry about.NEW_LINENEW_LINEHere you go, YOUR_NAME. Hope there's something useful in there for you.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8363"] = {    ["Title"]="Abyssal Signets",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="You've shown you're more than capable of taking on an Abyssal Duke, YOUR_NAME. I'm always one to promote good habits. Bring me more signets and I'll give you a reward.",    ["Completion"]="Excellent, YOUR_NAME!  Defeating those Dukes will leave the Twilight's Hammer reeling for a while. As promised, here's your reward. It's some of the better stuff Huum and I have found.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8364"] = {    ["Title"]="Abyssal Scepters",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="You've truly exceeded all my expectations, YOUR_NAME. You've been taking on opponents that Huum and I would think long and hard before engaging.NEW_LINENEW_LINEAt this point the best I can do is to continue rewarding your efforts in the fight against the Twilight's Hammer and their overlords.NEW_LINENEW_LINEBring me more abyssal scepters and I'll do my best to give you a suitable reward.",    ["Completion"]="I knew you'd come through, YOUR_NAME! Here's your reward.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8373"] = {    ["Title"]="The Power of Pine",    ["Description"]="The thing I hate the most about Hallow's End are the stink bombs the Forsaken use on Southshore.  Who knew that celebrating liberation would have to involve such a smelly mess?NEW_LINENEW_LINEDuring Hallow's End, use this cleaner to remove any nasty stink bombs the Horde may drop here in the village.  It uses the power of pine to fight funky smells.NEW_LINENEW_LINEDo your part to keep Southshore clean, and I'll give you some Hallow's End treats I'm sure you'll enjoy.  We have a deal?",    ["Objectives"]="Use a Stink Bomb Cleaner to remove any Forsaken Stink Bomb that's been dropped on Southshore.  Return to Sergeant Hartman in Southshore when you're done.",    ["Progress"]="Those blasted Forsaken... it's already bad enough that they're undead, but then they get all riled up and start causing trouble in MY village!",    ["Completion"]="Ah, it almost smells better around here already.  Almost.NEW_LINENEW_LINEThanks to you, YOUR_NAME, Southshore just might make it through another Hallow's End.  Here's your treats, with my thanks!  If you run out of candy, I think there's a gnome named Katrina Shimmerstar in Ironforge who can sell you more; she's only around during Hallow's End, I believe.",    ["minlevel"]="25",    ["questlevel"]="60"},
-
-	["8467"] = {    ["Title"]="Feathers for Nafien",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="While you have proven yourself to me, you may need to continue to work toward proving yourself to the suspicious brethren of my tribe.  To that end, I may be able to continue assisting you.NEW_LINENEW_LINESome of the Deadwood furbolgs wear a distinctive headdress that may be used as a means of proof in thinning their numbers.  Bring me a feather from any headdresses you acquire; for every set of five you bring me, you will earn recognition amongst the Timbermaw.",    ["Completion"]="Well done, YOUR_NAME!  I will make sure that your deeds are known amongst my kind.NEW_LINENEW_LINERemember to bring any of the feathers you find to me.  I will continue to accept them as long as necessary.",    ["minlevel"]="45",    ["questlevel"]="55"},
-
-	["8508"] = {    ["Title"]="Field Duty Papers",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="I take it you want those papers signed, lad?",    ["Completion"]="Aye, I suppose that little skirmish will pass as field duty nowadays. Take these back to Cenarion Hold, I'm sure they'll have a cushy job ready for you.NEW_LINENEW_LINEOff you go!",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8574"] = {    ["Title"]="Stalwart's Battlegear",    ["Description"]="The badges you collect from performing combat, logistics and tactical assignments for Windcaller Proudhorn are more than just for show, YOUR_NAME.NEW_LINENEW_LINEYou'd be wise to hold on to them.  As you prove your loyalty to our organization I can offer you some of the gear we reserve for our closest allies in exchange for those badges.",    ["Objectives"]="Bring 15 Cenarion Combat Badges, 20 Cenarion Logistics Badges, 17 Cenarion Tactical Badges and 1 Mark of Remulos to Vargus at Cenarion Hold in Silithus.  You must also attain Revered reputation with Cenarion Circle to be able to complete this quest.",    ["Progress"]="It's in our best interest to keep our most loyal allies well geared, YOUR_NAME.",    ["Completion"]="Great work, YOUR_NAME. Please accept this on behalf of the Cenarion Circle. You've certainly earned it, friend!",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8619"] = {    ["Title"]="Morndeep the Elder",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="It is good to know the people of this land still pay homage to the olden races. I bid you well, YOUR_NAME, and offer you this token...",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8635"] = {    ["Title"]="Splitrock the Elder",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="The battles of ages past are seeds from which legends grow. Yours is a time of heroes, young one. May your legend take root, thrive.NEW_LINENEW_LINEI bid you well, YOUR_NAME, and offer you this token...",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8636"] = {    ["Title"]="Rumblerock the Elder",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="The stuff of life is doomed to die and return to the earth, but the stuff of spirit lives eternal. I bid you well, YOUR_NAME, and offer you this token...",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8642"] = {    ["Title"]="Silvervein the Elder",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="It is good to know the people of this land still pay homage to the olden races. I bid you well, YOUR_NAME, and offer you this token...",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8643"] = {    ["Title"]="Highpeak the Elder",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="It is good to know the people of this land still pay homage to the olden races. I bid you well, YOUR_NAME, and offer you this token...",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8644"] = {    ["Title"]="Stonefort the Elder",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="It is good to know the people of this land still pay homage to the olden races. I bid you well, YOUR_NAME, and offer you this token...",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8645"] = {    ["Title"]="Obsidian the Elder",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="It is good to know the people of this land still pay homage to the olden races.  I bid you well, YOUR_NAME, and offer you this token...",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8646"] = {    ["Title"]="Hammershout the Elder",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="It is good to know the people of this land still pay homage to the olden races.  I bid you well, YOUR_NAME, and offer you this token...",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8647"] = {    ["Title"]="Bellowrage the Elder",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="It is good to know the people of this land still pay homage to the olden races. I bid you well, YOUR_NAME, and offer you this token...",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8648"] = {    ["Title"]="Darkcore the Elder",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="It is good to know the people of this land still pay homage to the olden races.  I bid you well, YOUR_NAME, and offer you this token...",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8649"] = {    ["Title"]="Stormbrow the Elder",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="It is good to know the people of this land still pay homage to the olden races. I bid you well, YOUR_NAME, and offer you this token...",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8650"] = {    ["Title"]="Snowcrown the Elder",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="It is good to know the people of this land still pay homage to the olden races.  I bid you well, YOUR_NAME, and offer you this token...",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8651"] = {    ["Title"]="Ironband the Elder",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="It is good to know the people of this land still pay homage to the olden races. I bid you well, YOUR_NAME, and offer you this token...",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8652"] = {    ["Title"]="Graveborn the Elder",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="It is good to know the people of this land still pay homage to the olden races.  I bid you well, YOUR_NAME, and offer you this token...",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8653"] = {    ["Title"]="Goldwell the Elder",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="It is good to know the people of this land still pay homage to the olden races. I bid you well, YOUR_NAME, and offer you this token...",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8654"] = {    ["Title"]="Primestone the Elder",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="It is good to know the people of this land still pay homage to the olden races. I bid you well, YOUR_NAME, and offer you this token...",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8670"] = {    ["Title"]="Runetotem the Elder",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="Your spirit burns with life, young $C. I accept the homage you pay, and offer in return this token...",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8671"] = {    ["Title"]="Ragetotem the Elder",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="Your spirit burns with life, young $C. I accept the homage you pay, and offer in return this token...",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8672"] = {    ["Title"]="Stonespire the Elder",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="Your spirit burns with life, young $C. I accept the homage you pay, and offer in return this token...",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8673"] = {    ["Title"]="Bloodhoof the Elder",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="Your spirit burns with life, young $C. I accept the homage you pay, and offer in return this token...",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8674"] = {    ["Title"]="Winterhoof the Elder",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="Your spirit burns with life, young $C. I accept the homage you pay, and offer in return this token...",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8675"] = {    ["Title"]="Skychaser the Elder",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="Your spirit burns with life, young $C. I accept the homage you pay, and offer in return this token...",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8676"] = {    ["Title"]="Wildmane the Elder",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="Your spirit burns with life, young $C. I accept the homage you pay, and offer in return this token...",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8677"] = {    ["Title"]="Darkhorn the Elder",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="Your spirit burns with life, young $C.  I accept the homage you pay, and offer in return this token...",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8679"] = {    ["Title"]="Grimtotem the Elder",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="Your spirit burns with life, young $C. I accept the homage you pay, and offer in return this token...",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8680"] = {    ["Title"]="Windtotem the Elder",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="Your spirit burns with life, young $C. I accept the homage you pay, and offer in return this token...",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8681"] = {    ["Title"]="Thunderhorn the Elder",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="Your spirit burns with life, young $C. I accept the homage you pay, and offer in return this token...",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8682"] = {    ["Title"]="Skyseer the Elder",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="Your spirit burns with life, young $C. I accept the homage you pay, and offer in return this token...",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8683"] = {    ["Title"]="Dawnstrider the Elder",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="Your spirit burns with life, young $C. I accept the homage you pay, and offer in return this token...",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8684"] = {    ["Title"]="Dreamseer the Elder",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="Your spirit burns with life, young $C. I accept the homage you pay, and offer in return this token...",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8685"] = {    ["Title"]="Mistwalker the Elder",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="Your spirit burns with life, young $C. I accept the homage you pay, and offer in return this token...",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8686"] = {    ["Title"]="High Mountain the Elder",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="Your spirit burns with life, young $C. I accept the homage you pay, and offer in return this token...",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8688"] = {    ["Title"]="Windrun the Elder",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="The heavens, in their countless stars, hold answers to earthly mysteries, YOUR_NAME.  Might, then, the wise, and the lucky, gaze up and find truth?",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8713"] = {    ["Title"]="Starsong the Elder",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="The heavens, in their countless stars, hold answers to earthly mysteries, YOUR_NAME. Might, then, the wise, and the lucky, gaze up and find truth?",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8714"] = {    ["Title"]="Moonstrike the Elder",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="The heavens, in their countless stars, hold answers to earthly mysteries, YOUR_NAME.  Might, then, the wise, and the lucky, gaze up and find truth?",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8715"] = {    ["Title"]="Bladeleaf the Elder",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="The heavens, in their countless stars, hold answers to earthly mysteries, YOUR_NAME. Might, then, the wise, and the lucky, gaze up and find truth?",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8716"] = {    ["Title"]="Starglade the Elder",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="The heavens, in their countless stars, hold answers to earthly mysteries, YOUR_NAME. Might, then, the wise, and the lucky, gaze up and find truth?",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8717"] = {    ["Title"]="Moonwarden the Elder",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="The heavens, in their countless stars, hold answers to earthly mysteries, YOUR_NAME. Might, then, the wise, and the lucky, gaze up and find truth?",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8718"] = {    ["Title"]="Bladeswift the Elder",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="The heavens, in their countless stars, hold answers to earthly mysteries, YOUR_NAME.  Might, then, the wise, and the lucky, gaze up and find truth?",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8719"] = {    ["Title"]="Bladesing the Elder",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="The heavens, in their countless stars, hold answers to earthly mysteries, YOUR_NAME.  Might, then, the wise, and the lucky, gaze up and find truth?",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8720"] = {    ["Title"]="Skygleam the Elder",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="The heavens, in their countless stars, hold answers to earthly mysteries, YOUR_NAME. Might, then, the wise, and the lucky, gaze up and find truth?",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8721"] = {    ["Title"]="Starweave the Elder",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="The heavens, in their countless stars, hold answers to earthly mysteries, YOUR_NAME. Might, then, the wise, and the lucky, gaze up and find truth?",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8722"] = {    ["Title"]="Meadowrun the Elder",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="The heavens, in their countless stars, hold answers to earthly mysteries, YOUR_NAME.  Might, then, the wise, and the lucky, gaze up and find truth?",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8723"] = {    ["Title"]="Nightwind the Elder",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="The heavens, in their countless stars, hold answers to earthly mysteries, YOUR_NAME. Might, then, the wise, and the lucky, gaze up and find truth?",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8724"] = {    ["Title"]="Morningdew the Elder",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="The heavens, in their countless stars, hold answers to earthly mysteries, YOUR_NAME. Might, then, the wise, and the lucky, gaze up and find truth?",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8725"] = {    ["Title"]="Riversong the Elder",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="The heavens, in their countless stars, hold answers to earthly mysteries, YOUR_NAME. Might, then, the wise, and the lucky, gaze up and find truth?",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8726"] = {    ["Title"]="Brightspear the Elder",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="The heavens, in their countless stars, hold answers to earthly mysteries, YOUR_NAME. Might, then, the wise, and the lucky, gaze up and find truth?",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8727"] = {    ["Title"]="Farwhisper the Elder",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="The heavens, in their countless stars, hold answers to earthly mysteries, YOUR_NAME. Might, then, the wise, and the lucky, gaze up and find truth?",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8729"] = {    ["Title"]="The Wrath of Neptulon",    ["Description"]="Did I mention the bad news yet? Its name is Maws: 100 feet of death and destruction. I guess I may have forgotten that little tidbit.NEW_LINENEW_LINEAccording to my superior psycho-psionic clairvoyance, you'll find that the best spot to cast this buoy is off the coast of Azshara, in the Bay of Storms.NEW_LINENEW_LINELook for a swirling maelstrom, most likely cluttered with wreckage.NEW_LINENEW_LINEBy the by, I hope you have friends.NEW_LINENEW_LINENow if you somehow miraculously succeed, take the scepter shard to Anachronos.",    ["Objectives"]="Use the Arcanite Buoy at the Swirling Maelstrom at the Bay of Storms in Azshara.",    ["Progress"]="Time is running out, champion.",    ["Completion"]="Well done, YOUR_NAME. I will be able to reform the Scepter of the Shifting Sands soon.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8743"] = {    ["Title"]="Bang a Gong!",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="The Scarab Gong looms ominously before you. Steel yourself, YOUR_NAME; for once the Scarab Gong is rung, the gates of Ahn'Qiraj will be opened.NEW_LINENEW_LINEFrom the slackened maw of the beast can only come chaos and destruction. Defend your people!",    ["Completion"]="From the ground near the gong springs a special crystal. Perhaps favor from the Brood.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8744"] = {    ["Title"]="A Carefully Wrapped Present",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="The tag on this present reads:NEW_LINENEW_LINETo YOUR_NAME,NEW_LINENEW_LINEMay your feast of Great-Winter be merry and bright!",    ["minlevel"]="1",    ["questlevel"]="1"},
-
-	["8745"] = {    ["Title"]="Treasure of the Timeless One",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="Greetings, champion. I am Jonathan, keeper of the sacred gong and eternal watcher of the Bronze Flight.NEW_LINENEW_LINEI have been empowered by the Timeless One himself to grant you an item of your choosing from his timeless treasure trove. May it aid you in your battles against C'Thun.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8746"] = {    ["Title"]="Metzen the Reindeer",    ["Description"]="DISASTER has struck!  Metzen the Reindeer has been kidnapped!NEW_LINENEW_LINEMetzen is one of Great-father Winter's eight reindeer - and property of Smokywood Pastures.  We've received not one but TWO ransom letters from groups claiming to have Metzen.  With the holiday season well under way, we're strapped to the coin box here!  Please - find Metzen and return him to us!NEW_LINENEW_LINECheck out the ransom letters for clues, and sprinkle this reindeer dust on him - it will free him from any of his bonds!NEW_LINENEW_LINEPlease, hurry!",    ["Objectives"]="Find Metzen the Reindeer.  Use the notes provided to you for clues as to where he is being held.NEW_LINENEW_LINEWhen you find Metzen, have the Pouch of Reindeer Dust in your possession so you can sprinkle some of the dust on him; this should free Metzen from his bonds of captivity.NEW_LINENEW_LINEReturn the Pouch of Reindeer Dust to Kaymard Copperpinch in Orgrimmar once Metzen is freed.",    ["Progress"]="YOUR_NAME!  Did you find him?  Were the notes in the satchel I gave you enough information to locate Metzen?  I hate to think of what those cruel thugs might do to him... but there's no way we can afford to pay such an exorbitant ransom!",    ["Completion"]="You did it!  Huzzah!NEW_LINENEW_LINEMetzen flew back into Great-father Winter's stables - yes Metzen can really fly - just a little while ago!  The dust worked like a charm; I knew it would.  You've saved the Feast of Winter Veil as well as Smokywood Pastures from disaster.  Thank you, YOUR_NAME.NEW_LINENEW_LINEListen... because of what you've done here, I want you to have this.  It's something VERY special; if you have a mount, I think you'll get a kick out of it.  Happy Winter Veil!",    ["minlevel"]="40",    ["questlevel"]="60"},
-
-	["8763"] = {    ["Title"]="The Hero of the Day",    ["Description"]="Listen... I'm not really supposed to be telling you this, but since you're the hero of the day and all...NEW_LINENEW_LINEThere's fresh holly everywhere this time of the year, but it never lasts.  We've got a machine that preserves holly - it never goes bad!  We use it to spice up the holiday... and profits during the summer!NEW_LINENEW_LINEI'll let you use the preserver, but only if you're a master cook.  You'll need some deeprock salt and two, three, oh let's say five gold.  It'll net you a nice batch that's yours to keep.",    ["Objectives"]="Bring 1 Deeprock Salt and 5 gold coins to any Holly Preserver machine, upon which you will receive 5 Preserved Holly.",    ["Progress"]="The \"Holly Preserver\" machine looks like some sort of still at first, but a careful examination of it reveals some goblin-esque changes to it. Still, your skill at cooking seems to allow you to understand how the machine works.NEW_LINENEW_LINEThere is already fresh holly in the machine - you simply need to provide some deeprock salt and five gold coins to get the machine working.",    ["Completion"]="The machine lets off a little rumble and a small amount of steam as it starts working. It is not too long thereafter until it stops, heralded by another small jet of steam erupting from it. A door hatch opens, revealing a batch of preserved holly!",    ["minlevel"]="40",    ["questlevel"]="60"},
-
-	["8767"] = {    ["Title"]="A Gently Shaken Gift",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="This present looks like it has been shaken a few times. The tag on it reads:NEW_LINENEW_LINETo a very special YOUR_RACE $C.",    ["minlevel"]="1",    ["questlevel"]="1"},
-
-	["8768"] = {    ["Title"]="A Gaily Wrapped Present",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="This festively-wrapped present has your name on it.NEW_LINENEW_LINEWait, did it just move?",    ["minlevel"]="20",    ["questlevel"]="20"},
-
-	["8769"] = {    ["Title"]="A Ticking Present",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="Have a joyous Feast of Great-Winter from your friends at Smokeywood Pastures.",    ["minlevel"]="40",    ["questlevel"]="40"},
-
-	["8795"] = {    ["Title"]="The Alliance Needs Your Help!",    ["Description"]="Hello, I'm glad that you've decided to hear me out. The Alliance needs all of the help that it can get to prepare for the Ahn'Qiraj War, and that means that we need you! Even now as we speak, official collectors are gathering the necessary material needed for the upcoming war, but we won't be able to meet our goals without your assistance, YOUR_NAME!NEW_LINENEW_LINEYou should go speak with the guy in charge, Field Marshal Snowfall. What do you say, $c? Will you help out with the vital preparations?",    ["Objectives"]="Speak with Field Marshal Snowfall in Ironforge's Military Ward.",    ["Progress"]="",    ["Completion"]="Hail and well met  lad ! Good to see so many of the Alliance, such as yourself, YOUR_NAME, coming out to lend your support in laying the groundwork for the upcoming Ahn'Qiraj War. The effort here will ensure that we are victorious against the Silithid and their evil masters hidden away inside Ahn'Qiraj.NEW_LINENEW_LINESo now that you are here, be sure to speak with the various collectors and offer your assistance in gathering those materials that you are suited to.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8798"] = {    ["Title"]="A Yeti of Your Own",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="Say! You know what?! You're an engineer too! So, since you helped me teach my friends a lesson, I'm going to teach you how to make your very own mechanical yeti! Now the fun can go on forever and ever, and you can scare whoever you want! Provided that you can scare up the components to make it that is.NEW_LINENEW_LINEWhat do you say, YOUR_NAME? Do you want to learn the secret to making a mechanical yeti?",    ["minlevel"]="55",    ["questlevel"]="60"},
-
-	["8800"] = {    ["Title"]="Cenarion Battlegear",    ["Description"]="As you complete the tasks you're assigned in the war you'll want to talk to Vargus, the blacksmith.  Show him any badges you've earned along the way. He'll provide you with gear to match your level of commitment to our cause.",    ["Objectives"]="Talk to Vargus at Cenarion Hold in Silithus.",    ["Progress"]="",    ["Completion"]="Kaldon sent you? Very well, let's see what we can do for you.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["8803"] = {    ["Title"]="A Festive Gift",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="The note on this present reads:NEW_LINENEW_LINETo YOUR_NAME,NEW_LINENEW_LINEIn hoping this will help you spread warm tidings and holiday cheer to all of Azeroth.NEW_LINENEW_LINEFrom Greatfather Winter",    ["minlevel"]="10",    ["questlevel"]="10"},
-
-	["8827"] = {    ["Title"]="Winter's Presents",    ["Description"]="I hear Greatfather Winter - with the generous support of Smokeywood Pastures - has put presents for everyone under the tree in Ironforge. I wish I could go, but I've got to look after the PX-238 Winter Wondervolt.NEW_LINENEW_LINEBut you should definitely check it out. I'm sure Greatfather Winter has some presents with your name on them.",    ["Objectives"]="Speak with Greatfather Winter. He is located near the Smokywood Pastures vendor area in Ironforge.",    ["Progress"]="",    ["Completion"]="Oh, ho hello there! You can only be here for one reason: to open your Winter Veil presents.NEW_LINENEW_LINENow, don't you worry, Greatfather Winter hasn't forgotten about his favorite YOUR_RACE $C. Look under the tree and you'll find your gifts.NEW_LINENEW_LINEDuring this season of giving, perhaps your friends would also enjoy receiving some of Smokeywood Pasture's excellent products?",    ["minlevel"]="1",    ["questlevel"]="1"},
-
-	["8847"] = {    ["Title"]="Ten Signets for War Supplies",    ["Description"]="",    ["Objectives"]="Well then, it's settled; here are your supplies, $c. If you wish to do an additional exchange, then I am prepared to authorize it. Just give me the word and I'll make it happen.NEW_LINENEW_LINEKeep up the good work, YOUR_NAME. We need all the materiel we can muster if we're going to win this thing. If we all do our part, then victory shall be ours for the taking!",    ["Progress"]="Ah, here for additional supplies for yourself, are you?  Well, I can certainly understand the need for additional materiel... just take a look around if you need any proof.NEW_LINENEW_LINEI'll issue you some additional supplies, but you'll need to give me an appropriate number of commendation signets in exchange.  You won't receive any recognition for surrendering the signets in this manner, but you might find something useful that will help keep you alive when battle is finally upon us.",    ["Completion"]="Well then, it's settled; here are your supplies, $C. If you wish to do an additional exchange, then I am prepared to authorize it. Just give me the word and I'll make it happen.NEW_LINENEW_LINEKeep up the good work, YOUR_NAME. We need all the materiel we can muster if we're going to win this thing. If we all do our part, then victory shall be ours for the taking!",    ["minlevel"]="20",    ["questlevel"]="29"},
-
-	["8848"] = {    ["Title"]="Fifteen Signets for War Supplies",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="Ah, here for additional supplies for yourself, are you?  Well, I can certainly understand the need for additional materiel... just take a look around if you need any proof.NEW_LINENEW_LINEI'll issue you some additional supplies, but you'll need to give me an appropriate number of commendation signets in exchange.  You won't receive any recognition for surrendering the signets in this manner, but you might find something useful that will help keep you alive when battle is finally upon us.",    ["Completion"]="Well then, it's settled; here are your supplies, $C. If you wish to do an additional exchange, then I am prepared to authorize it. Just give me the word and I'll make it happen.NEW_LINENEW_LINEKeep up the good work, YOUR_NAME. We need all the materiel we can muster if we're going to win this thing. If we all do our part, then victory shall be ours for the taking!",    ["minlevel"]="30",    ["questlevel"]="39"},
-
-	["8849"] = {    ["Title"]="Twenty Signets for War Supplies",    ["Description"]="",    ["Objectives"]="Well then, it's settled; here are your supplies, $c. If you wish to do an additional exchange, then I am prepared to authorize it. Just give me the word and I'll make it happen.NEW_LINENEW_LINEKeep up the good work, YOUR_NAME. We need all the materiel we can muster if we're going to win this thing. If we all do our part, then victory shall be ours for the taking!",    ["Progress"]="Ah, here for additional supplies for yourself, are you?  Well, I can certainly understand the need for additional materiel... just take a look around if you need any proof.NEW_LINENEW_LINEI'll issue you some additional supplies, but you'll need to give me an appropriate number of commendation signets in exchange.  You won't receive any recognition for surrendering the signets in this manner, but you might find something useful that will help keep you alive when battle is finally upon us.",    ["Completion"]="Well then, it's settled; here are your supplies, $C. If you wish to do an additional exchange, then I am prepared to authorize it. Just give me the word and I'll make it happen.NEW_LINENEW_LINEKeep up the good work, YOUR_NAME. We need all the materiel we can muster if we're going to win this thing. If we all do our part, then victory shall be ours for the taking!",    ["minlevel"]="40",    ["questlevel"]="49"},
-
-	["8850"] = {    ["Title"]="Thirty Signets for War Supplies",    ["Description"]="",    ["Objectives"]="Well then, it's settled; here are your supplies, $c. If you wish to do an additional exchange, then I am prepared to authorize it. Just give me the word and I'll make it happen.NEW_LINENEW_LINEKeep up the good work, YOUR_NAME. We need all the materiel we can muster if we're going to win this thing. If we all do our part, then victory shall be ours for the taking!",    ["Progress"]="Ah, here for additional supplies for yourself, are you?  Well, I can certainly understand the need for additional materiel... just take a look around if you need any proof.NEW_LINENEW_LINEI'll issue you some additional supplies, but you'll need to give me an appropriate number of commendation signets in exchange.  You won't receive any recognition for surrendering the signets in this manner, but you might find something useful that will help keep you alive when battle is finally upon us.",    ["Completion"]="Well then, it's settled; here are your supplies, $C.  If you wish to do an additional exchange, then I am prepared to authorize it.  Just give me the word and I'll make it happen.NEW_LINENEW_LINEKeep up the good work, YOUR_NAME.  We need all the materiel we can muster if we're going to win this thing.  If we all do our part, then victory shall be ours for the taking!",    ["minlevel"]="50",    ["questlevel"]="60"},
-
-	["8866"] = {    ["Title"]="Bronzebeard the Elder",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="It is good to know the people of this land still pay homage to the olden races.  I bid you well, YOUR_NAME, and offer you this token...",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8980"] = {    ["Title"]="Zinge's Assessment",    ["Description"]="This is unexpected. It looks like Fenstad might be on to something after all. I found traces of substances used in mind control potions.NEW_LINENEW_LINEIt isn't unheard of for perfumes to have some of this, but a few of the ingredients I detected... This is serious alchemy, along the abilities of a member of the Royal Apothecary Society.",    ["Objectives"]="Return to Fenstad Argyle outside the bank in the Undercity.",    ["Progress"]="",    ["Completion"]="So, I was right. We must waste no time. We must determine the source of these tainted fragrances.NEW_LINENEW_LINEHere, to repay you for the purchase of the cologne and perfume.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["8981"] = {    ["Title"]="Gift Giving",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="Have you come to deliver a present of love and adoration to your favorite leader?",    ["Completion"]="Wonderful! Wonderful! I will add this to the pile of other gifts.NEW_LINENEW_LINEI didn't expect so many! You must truly love your leaders.NEW_LINENEW_LINENow, let me just add one more to the count...",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["9025"] = {    ["Title"]="Morgan's Discovery",    ["Description"]="Well, I'll be. It looks like Aristan might be on to something after all. I found traces of substances used in love potions and insidious mind-altering draughts.NEW_LINENEW_LINEIt isn't unheard of for perfumes to have some of them, but a few of the ingredients I detected... Smells funny.",    ["Objectives"]="Return to Aristan Mottar outside the bank in Stormwind's Trade District.",    ["Progress"]="",    ["Completion"]="While I thought this would be the case, finding out that my suspicions were correct is still unsettling. We must carefully consider our next move.NEW_LINENEW_LINEHere, to repay you for the purchase of the cologne and perfume.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["9029"] = {    ["Title"]="A Bubbling Cauldron",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="A pleasant smell wafts up from the cauldron.",    ["minlevel"]="1",    ["questlevel"]="60"},
-
-	["9142"] = {    ["Title"]="Craftsman's Writ",    ["Description"]="You know the drill, kid. One valor token gets you a craftsman's writ.",    ["Objectives"]="",    ["Progress"]="",    ["Completion"]="You earned this, scrub. Now, don't cry about your orders. Fill 'em or destroy 'em.",    ["minlevel"]="55",    ["questlevel"]="60"},
-
-	["9213"] = {    ["Title"]="The Shadow Guard",    ["Description"]="A creation of genius! Much like the Ice Guard, the Shadow Guard employs a thin sheen of protective magic that covers certain pieces of equipment. And like the Ice Guard, the Shadow Guard is going to cost you a good amount of money.NEW_LINENEW_LINE<Mataus holds his hand out and rubs his fingers together.>NEW_LINENEW_LINEInterested?",    ["Objectives"]="Mataus the Wrathcaster at Light's Hope Chapel in the Eastern Plaguelands wants 10 Insignia of the Crusade and 30 gold.",    ["Progress"]="<Mataus yawns.>NEW_LINENEW_LINEBe gone, insect, lest you have something for me.",    ["Completion"]="<Mataus stuffs the gold into his robe.>NEW_LINENEW_LINEWhat are you still standing around for, YOUR_RACE? Our business is done.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["9338"] = {    ["Title"]="Allegiance to Cenarion Circle",    ["Description"]="",    ["Objectives"]="",    ["Progress"]="Even if you have no need for the material rewards we offer, these badges still mark our mutual trust and friendship.NEW_LINENEW_LINEBring them to me.  I'll make due note of your service should your performance go above and beyond the call of duty.",    ["Completion"]="You honor us, YOUR_NAME. With your continued efforts we will overcome all obstacles.",    ["minlevel"]="60",    ["questlevel"]="60"},
-
-	["3111"] = {    ["Title"]="Glyphic Rune",    ["Description"]="While you were helping me out, this glyph was given to me to pass on to you. Take some time to read it when you have a chance. I'm thinkin' it came from the mage trainer Marrek. Take a gander at it and go find him inside Anvilmar when you've a chance.",    ["Objectives"]="Speak to Marrek Stromnur inside Anvilmar.",    ["Progress"]="Yeah, what's that? Speak up, if you don't mind. I don't hear so good after a few ales.",    ["Completion"]="Here's what you need to know: Don't get into too much trouble. Save some coin to buy me an ale... or any spells ya might want. I'll be here if you need me or want to train... or whatever.",    ["minlevel"]="1",    ["questlevel"]="1"},
-
-	["3581"] = {    ["Title"]="Plainsrunning",    ["Description"]="Imagine yourself racing across the plains, through forests and over mountains, the wind in your face... Traveling over unseen territory; the wonder of the road ahead, your destiny resting just over the horizon.NEW_LINENEW_LINEAlways remember that on hoof, many things are achievable; as a Tauren, you will be granted the swiftness of Plainsrunning. There is no limit to the distances you might go.",    ["Objectives"]="Speak to Saern Priderunner to learn the Plainsrunning skill.",    ["Progress"]="",    ["Completion"]="There is no limit to the distances you might go!",    ["minlevel"]="40",    ["questlevel"]="60"},
-
-	["6000"] = {    ["Title"]="Swearing to Gakin",    ["Description"]="YOUR_NAME! I would not have expected to see you in the area were however instructed to hold after you look out.NEW_LINENEW_LINEHighest one time of your training is continued. With the next attendance in Stormwind should you with Gakin clean-look. NEW_LINENEW_LINEIt will expect you.",    ["Objectives"]="Announces you to Gakin the Darkbinder in the Magic quarter of Stormwind.",    ["Progress"]="",    ["Completion"]="",    ["minlevel"]="40",    ["questlevel"]="50"},
 
 	["6165"] = {    ["Title"]="Archmage Timolain's Remains",    ["Description"]="The details about this quest are missing",    ["Objectives"]="The description of this quest is missing",    ["Progress"]="",    ["Completion"]="",    ["minlevel"]="56",    ["questlevel"]="58"},
 
