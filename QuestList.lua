@@ -1293,9 +1293,6 @@ QuestTranslator_QuestList = {
     ["Summon Felsteed"]="4489",
     ["Summon Felsteed"]="4490",
     ["Sunken Treasure"]="665,666,668,669,670",
-
-    ["Suntara Stones"]="3367,3368",
-
     ["Suspicious Hoofprints"]="1268",
     ["Suspicious Hoofprints"]="1268,1284",
     ["Suspicious Hoofprints"]="1284",
@@ -10687,4 +10684,6 @@ QuestTranslator_QuestList = {
 ["The Legend of Stalvan_QTR_DUP_11"]={"80","Show Clerk Daltry the B"},
 ["The Legend of Stalvan_QTR_DUP_12"]={"97","Report the news to Comma"},
 ["The Legend of Stalvan_QTR_DUP_13"]={"98","Kill Stalvan Mistmantle"},
+ ["Suntara Stones_QTR_DUP_1"]={"3367","Help Dorius get back to"},
+  ["Suntara Stones_QTR_DUP_2"]={"3368","Take the Singed Letter t"},
 }

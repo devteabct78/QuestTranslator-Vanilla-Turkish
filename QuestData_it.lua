@@ -80327,8 +80327,8 @@ QuestTranslator_QuestData = {
     
     ["3367"] = {
         ["Title"] = "Suntara Taşları",
-        ["Description"] = "<Dorius inler.>\n\nAğır yaralıyım, <race>. Başım... dönüyor... Dünya dönüyor... İç... kanamam var.\n\nDemirdemircisi'ne geri dönmeliyim. Bana yardım et, <name>.",
-        ["Objectives"] = "Dorius'un Demirdemircisi'ne geri dönmesine yardım et.",
+        ["Description"] = "<Dorius inler.>\n\nAğır yaralıyım, YOUR_RACE. Başım... dönüyor... Dünya dönüyor... İç... kanamam var.\n\nDemirdemircisi'ne geri dönmeliyim. Bana yardım et, YOUR_NAME.",
+        ["Objectives"] = "Dorius'un Ironforge'a geri dönmesine yardım et.",
         ["Progress"] = "Başaramayacağım...",
         ["Completion"] = "Bu mektup vurulduğunda Dorius tarafından düşürülmüştü."
     },
