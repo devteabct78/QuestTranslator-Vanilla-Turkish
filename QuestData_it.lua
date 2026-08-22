@@ -15433,17 +15433,7 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end Parlayan Taş
 
-    -- Suntara Taşları
-    ["3367"] = {
-    ["Title"]="Suntara Taşları",
-    ["Description"]="<Dorius inliyor.>NEW_LINENEW_LINEKötü yaralandım, YOUR_RACE. Başım dönüyor. Dünya dönüyor. Kanıyor... içten.NEW_LINENEW_LINEIronforge'a geri dönmeliyim. Yardım et bana, YOUR_NAME.",
-    ["Objectives"]="Dorius'un Ironforge'a dönmesine yardım et.",
-    ["Progress"]="Bunu yapmayacağım.",
-    ["Completion"]="Bu mektup vurulduğunda Dorius tarafından düşürülmüş.",
-    ["minlevel"]="0",
-    ["questlevel"]="0",
-    }, -- end Suntara Taşları
-
+    
     -- Suntara Taşları
     ["3368"] = {
     ["Title"]="Suntara Taşları",
@@ -80335,6 +80325,13 @@ QuestTranslator_QuestData = {
         ["questlevel"] = "60"
     },
     
+    ["3367"] = {
+        ["Title"] = "Suntara Taşları",
+        ["Description"] = "<Dorius inler.>\n\nAğır yaralıyım, <race>. Başım... dönüyor... Dünya dönüyor... İç... kanamam var.\n\nDemirdemircisi'ne geri dönmeliyim. Bana yardım et, <name>.",
+        ["Objectives"] = "Dorius'un Demirdemircisi'ne geri dönmesine yardım et.",
+        ["Progress"] = "Başaramayacağım...",
+        ["Completion"] = "Bu mektup vurulduğunda Dorius tarafından düşürülmüştü."
+    },
 --123456789
 	
 };
