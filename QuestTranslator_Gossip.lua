@@ -126,34 +126,6 @@ local function ReplaceClassWithTag(text, classLower)
     return text
 end
 
--- Metindeki ingilizce ırk adını (orc vb.) YOUR_RACE ile değiştiren yardımcı fonksiyon
-local function ReplaceRaceWithTag(text, sysRaceLow, locRaceLow)
-    if not text then return text end
-    local lowerText = string.lower(text)
-    
-    -- Önce lokal ırk adını kontrol et (örn: undead)
-    if locRaceLow ~= "" then
-        local s, e = string.find(lowerText, locRaceLow, 1, true)
-        if s and e then
-            local before = string.sub(text, 1, s - 1)
-            local after = string.sub(text, e + 1)
-            return before .. "YOUR_RACE" .. after
-        end
-    end
-
-    -- Eğer sistem adı lokal addan farklıysa (örn: scourge) onu da kontrol et
-    if sysRaceLow ~= "" and sysRaceLow ~= locRaceLow then
-        local s, e = string.find(lowerText, sysRaceLow, 1, true)
-        if s and e then
-            local before = string.sub(text, 1, s - 1)
-            local after = string.sub(text, e + 1)
-            return before .. "YOUR_RACE" .. after
-        end
-    end
-    
-    return text
-end
-
 -------------------------------------------------------------------------------
 -- OPTİMİZASYON: HASH TABLE (ÖNBELLEK) SİSTEMİ
 -------------------------------------------------------------------------------
@@ -193,10 +165,10 @@ local function ApplyGossipTranslations()
         playerName = playerName or UnitName("player")
         playerNameLower = playerNameLower == "" and string.lower(playerName or "") or playerNameLower
         
-        -- 1. Oyundan gelen ham metindeki ad, sınıf ve ırk adını etiketler ile değiştir
+        -- 1. Oyundan gelen ham metindeki ad ve sınıf adını etiketler ile değiştir
         local textWithTag = ReplaceNameWithTag(rawGreetingText, playerNameLower)
         textWithTag = ReplaceClassWithTag(textWithTag, currentClassLower)
-        textWithTag = ReplaceRaceWithTag(textWithTag, systemRaceLower, localizedRaceLower)
+        -- ReplaceRaceWithTag fonksiyonu kullanımdan kaldırıldı
         
         local targetNormalized = NormalizeText(textWithTag)
         
