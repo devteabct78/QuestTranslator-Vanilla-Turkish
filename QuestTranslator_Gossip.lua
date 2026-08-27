@@ -151,11 +151,8 @@ local function ApplyGossipTranslations()
         return; 
     end
     
-    -- EĞER BİRLEŞTİRİLMİŞ TABLO YOKSA İŞLEM YAPMA
     if not QuestTranslator_MergedGossip then return end
 
-    -- Eğer önbellek henüz oluşturulmadıysa ilk kullanımda bir kere oluştur
-    -- Bu sayede her NPC'ye tıkladığında değil, sadece ilkinde çalışır ve indeksler
     if not next(GossipCache) then
         BuildGossipCache()
     end
@@ -165,17 +162,20 @@ local function ApplyGossipTranslations()
         playerName = playerName or UnitName("player")
         playerNameLower = playerNameLower == "" and string.lower(playerName or "") or playerNameLower
         
-        -- 1. Oyundan gelen ham metindeki ad ve sınıf adını etiketler ile değiştir
-        local textWithTag = ReplaceNameWithTag(rawGreetingText, playerNameLower)
-        textWithTag = ReplaceClassWithTag(textWithTag, currentClassLower)
-        -- ReplaceRaceWithTag fonksiyonu kullanımdan kaldırıldı
+        -- 1. ADIM: Önce metnin orijinal halini (etiketlere çevirmeden) normalize edip arayalım
+        local rawNormalized = NormalizeText(rawGreetingText)
+        local trText = GossipCache[rawNormalized]
         
-        local targetNormalized = NormalizeText(textWithTag)
+        -- 2. ADIM: Orijinal haliyle eşleşme yoksa (DB'de YOUR_NAME/CLASS kullanılmış olabilir), etiketli halini arayalım
+        if not trText then
+            local textWithTag = ReplaceNameWithTag(rawGreetingText, playerNameLower)
+            textWithTag = ReplaceClassWithTag(textWithTag, currentClassLower)
+            local targetNormalized = NormalizeText(textWithTag)
+            trText = GossipCache[targetNormalized]
+        end
         
-        -- SADECE ÖNBELLEKTE (HASH TABLE) DOĞRUDAN ARA - O(1) HIZI
-        local trText = GossipCache[targetNormalized]
         if trText then
-            -- 2. Türkçe çevirideki etiketleri karşılıklarıyla değiştir
+            -- Türkçe çevirideki etiketleri karşılıklarıyla değiştir
             local trClass = classTrNames[currentClassLower] or currentClassLower
             local trRace = raceTrNames[systemRace] or raceTrNames[localizedRace] or localizedRace
             
@@ -193,10 +193,17 @@ local function ApplyGossipTranslations()
         if button and button:IsShown() then
             local currentText = button:GetText();
             if currentText then
-                local btnNormalized = NormalizeText(currentText);
+                -- Butonlar için de aynı 2 aşamalı aramayı uyguluyoruz
+                local rawBtnNormalized = NormalizeText(currentText);
+                local trOpt = GossipCache[rawBtnNormalized]
                 
-                -- YİNE AYNI ŞEKİLDE DÖNGÜ YERİNE ÖNBELLEKTE DOĞRUDAN ARA
-                local trOpt = GossipCache[btnNormalized]
+                if not trOpt then
+                    local btnWithTag = ReplaceNameWithTag(currentText, playerNameLower)
+                    btnWithTag = ReplaceClassWithTag(btnWithTag, currentClassLower)
+                    local targetBtnNormalized = NormalizeText(btnWithTag)
+                    trOpt = GossipCache[targetBtnNormalized]
+                end
+                
                 if trOpt then
                     button:SetText(trOpt);
                 end
