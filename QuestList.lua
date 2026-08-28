@@ -73,7 +73,10 @@ QuestTranslator_QuestList = {
     ["A Smokywood Pastures Thank You!"]="6984",
     ["A Smokywood Pastures Thank You!"]="7045",
     ["A Supernatural Device"]="8922,8923",
-    ["A Taste of Flame"]="4022,4023,4024",
+    ["A Taste of Flame_QTR_DUP_1"]={"4022","Show Cyrus Therepentous"},
+    ["A Taste of Flame_QTR_DUP_2"]={"4023","Show Cyrus Therepentous"},
+    ["A Taste of Flame_QTR_DUP_3"]={"4024","Travel to Blackrock Dept"},
+
     ["A Thief's Reward"]="9339,9365",
     ["Again Into the Great Ossuary"]="41715",
     ["Again Into the Great Ossuary"]="7666,7669",
