@@ -1023,7 +1023,7 @@ ZoneTranslator_ZoneData = {
 ["Dark Iron Highway"] = "Koyu Demir Karayolu",
 ["South Seas"] = "Güney Denizleri",
 ["The Black Morass"] = "Kara Bataklık",
-["Morgan's Plot"] = "Morgan's Plot",
+["Morgan's Plot"] = "Morgan Arsası",
 ["The Upside-down Sinners"] = "Ters Yüz Günahkarlar",
 ["Livery Stables"] = "Kiralık At Ahırları",
 ["Karazhan Crypt"] = "Karazhan Mahzeni",
@@ -1526,6 +1526,11 @@ ZoneTranslator_ZoneData = {
 ["Zul'Razar"] = "Zul'Razar",
 ["Zuluhed's Terrace"] = "Zuluhed Terası",
 ["Zun'watha"] = "Zun'watha",
+["Tavern"] = "Taverna",
+["Forgewright's Tomb"] = "Demirci Mezarı",
+["Foulspore Cavern"] = "Kötüspor Mağarası",
+["The Noxious Hollow"] = "Zehirli Oyuk",
+["The Molten Span"] = "Erimiş Köprü",
 --123456789
 
 }

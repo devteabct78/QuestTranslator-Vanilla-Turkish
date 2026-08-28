@@ -2081,7 +2081,6 @@ MobNpcTranslator_Data = {
 [ "Razorfen Battleguard" ] = "Razorfen Savaşmuhafızı",
 [ "Razorfen Thornweaver" ] = "Razorfen Dikendokuyucusu",
 [ "Hadoken Swiftstrider" ] = "Hadoken Swiftstrider",
-[ "Latronicus Moonspear" ] = "Latronicus Moonspear",
 [ "Quintis Jonespyre" ] = "Quintis Jonespyre",
 [ "Stoley" ] = "Stoley",
 [ "Spitelash Battlemaster" ] = "Spitelash Savaş Ustası",
