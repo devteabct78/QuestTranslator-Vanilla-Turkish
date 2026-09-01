@@ -24,6 +24,16 @@ frame:SetScript("OnEvent", function()
         if QuestTranslator_Settings.enableMobNpcTranslator == nil then
             QuestTranslator_Settings.enableMobNpcTranslator = false
         end
+
+        -- Yeni: Minimap butonunun açısını kaydediyoruz ki her girişte
+        -- başka bir addonla aynı noktaya (2.5 rad) düşüp üst üste binmesin
+        if QuestTranslator_Settings.minimapAngle == nil then
+            QuestTranslator_Settings.minimapAngle = 2.5
+        end
+
+        if QTVT_MinimapButton and QTVT_UpdateMinimapButtonPosition then
+            QTVT_UpdateMinimapButtonPosition(QuestTranslator_Settings.minimapAngle)
+        end
     end
 end)
 
@@ -315,45 +325,45 @@ function QTVT_ShowGossipCopy()
     end
 end
 -- ==========================================
--- MINIMAP BUTTON
+-- MINIMAP BUTTON (KESİN ÇÖZÜM)
 -- ==========================================
 
-local minimapButton = CreateFrame(
-    "Button",
-    "QTVT_MinimapButton",
-    Minimap
-)
-
+local minimapButton = CreateFrame("Button", "QTVT_MinimapButton", Minimap)
 minimapButton:SetWidth(32)
 minimapButton:SetHeight(32)
 
+-- Diğer minimap butonları genelde MEDIUM katmanda çizildiği için, LOW'da kalırsak
+-- onların arkasında/altında eziliyoruz (ikon görünmeyip sadece boş halka kalıyor).
+-- Katmanı MEDIUM'a çekip level'ı da belirgin şekilde yüksek tutuyoruz.
 minimapButton:SetFrameStrata("MEDIUM")
 minimapButton:SetFrameLevel(8)
 
--- Başlangıç konumu
-minimapButton:SetPoint(
-    "TOPLEFT",
-    Minimap,
-    "TOPLEFT",
-    -4,
-    -4
-)
+minimapButton:SetMovable(true)
+minimapButton:EnableMouse(true)
+minimapButton:RegisterForDrag("LeftButton")
 
--- Icon
-local icon = minimapButton:CreateTexture(nil, "BACKGROUND")
+-- 1. ADIM: İkonun altının boş kalmaması için siyah bir zemin oluşturuyoruz
+local bg = minimapButton:CreateTexture(nil, "BACKGROUND")
+bg:SetWidth(20)
+bg:SetHeight(20)
+bg:SetPoint("CENTER", minimapButton, "CENTER", -1, 1)
+bg:SetTexture(0, 0, 0, 1) -- Katı siyah zemin
+
+-- İkonu kesin çalışan bir parşömen ikonuyla güncelliyoruz
+local icon = minimapButton:CreateTexture(nil, "ARTWORK")
 icon:SetWidth(20)
 icon:SetHeight(20)
-icon:SetPoint("CENTER", minimapButton, "CENTER", 0, 0)
-icon:SetTexture("Interface\\Icons\\INV_Misc_Book_09")
+icon:SetPoint("CENTER", minimapButton, "CENTER", -1, 1)
+icon:SetTexture("Interface\\Icons\\INV_Misc_Note_01")
 
--- Minimap buton çerçevesi
+-- 3. ADIM: Metal çerçeveyi en üste (OVERLAY) koyuyoruz
 local border = minimapButton:CreateTexture(nil, "OVERLAY")
 border:SetWidth(53)
 border:SetHeight(53)
 border:SetPoint("CENTER", minimapButton, "CENTER", 0, 0)
 border:SetTexture("Interface\\Minimap\\MiniMap-TrackingBorder")
 
--- Mouse üzerine gelince tooltip
+-- Tooltip Eventleri
 minimapButton:SetScript("OnEnter", function()
     GameTooltip:SetOwner(this, "ANCHOR_LEFT")
     GameTooltip:SetText("Quest Translator")
@@ -365,13 +375,55 @@ minimapButton:SetScript("OnLeave", function()
     GameTooltip:Hide()
 end)
 
--- Sol tıklama
 minimapButton:RegisterForClicks("LeftButtonUp")
-
 minimapButton:SetScript("OnClick", function()
     if QTVT_ConfigFrame:IsVisible() then
         QTVT_ConfigFrame:Hide()
     else
         QTVT_ConfigFrame:Show()
+    end
+end)
+
+-- Dairesel Sürükleme (Drag & Drop)
+local currentAngle = 2.5
+
+function QTVT_UpdateMinimapButtonPosition(angle)
+    currentAngle = angle
+    local radius = 80
+    local x = math.cos(angle) * radius
+    local y = math.sin(angle) * radius
+    minimapButton:SetPoint("CENTER", Minimap, "CENTER", x, y)
+end
+
+-- Kayıtlı bir açı varsa onu kullan (yoksa varsayılan 2.5 ile başla).
+-- QuestTranslator_Settings henüz yüklenmediyse (ilk açılış) ADDON_LOADED
+-- tetiklendiğinde yukarıdaki blok pozisyonu tekrar günceller.
+if QuestTranslator_Settings and QuestTranslator_Settings.minimapAngle then
+    QTVT_UpdateMinimapButtonPosition(QuestTranslator_Settings.minimapAngle)
+else
+    QTVT_UpdateMinimapButtonPosition(currentAngle)
+end
+
+minimapButton:SetScript("OnDragStart", function()
+    this:SetScript("OnUpdate", function()
+        local xpos, ypos = GetCursorPosition()
+        local xmin, ymin = Minimap:GetLeft(), Minimap:GetBottom()
+        
+        xpos = xpos / Minimap:GetEffectiveScale()
+        ypos = ypos / Minimap:GetEffectiveScale()
+        
+        local dx = xpos - (xmin + Minimap:GetWidth() / 2)
+        local dy = ypos - (ymin + Minimap:GetHeight() / 2)
+        
+        local angle = math.atan2(dy, dx)
+        QTVT_UpdateMinimapButtonPosition(angle)
+    end)
+end)
+
+minimapButton:SetScript("OnDragStop", function()
+    this:SetScript("OnUpdate", nil)
+    -- Kullanıcının seçtiği konumu kaydet, bir daha başka addonla çakışmasın
+    if QuestTranslator_Settings then
+        QuestTranslator_Settings.minimapAngle = currentAngle
     end
 end)
