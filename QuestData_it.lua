@@ -18,9 +18,9 @@ QuestTranslator_QuestData = {
     ["2"] = {
         ["Title"] = "Sivripençe'nin Pençesi",
         ["Description"] = "Ulu hipogrif Sivripençe katledildi ve devrilen canavarın pençesi zaferinizin bir kanıtı olarak hizmet ediyor. Kıymıkağaç Karakolu'ndaki Senani Gökürktü[cite: 1] bu ganimeti görerek başarılarınızın kanıtına tanık olmaktan şüphesiz heyecan duyacaktır.",
-        ["Objectives"] = "Sivripençe'nin Pençesi'ni Ashenvale'deki[cite: 2] Kıymıkağaç Karakolu'nda bulunan Senani Gökürktü'ye[cite: 1] götür.",
+        ["Objectives"] = "Sivripençe'nin Pençesi'ni Külvadi'deki[cite: 2] Kıymıkağaç Karakolu'nda bulunan Senani Gökürktü'ye[cite: 1] götür.",
         ["Progress"] = "Evet, ulu <class>, gelişini hissettim. Avın hakkında bana rapor edecek daha fazla haberin olduğuna inanıyorum?",
-        ["Completion"] = "En etkileyicisi, <name>... Sivripençe'nin pençesini elde etmek kolay olmuş olamaz! Ashenvale[cite: 2] Avı senin için iyi gidiyor!\n\nSivripençe, buraya Kıymıkağaç Karakolu'na seyahat etmeye çalışan rotasının yakınındaki kereste kamplarından gelen işçileri uzun süredir terörize ediyordu. Canavarı yere serenin sen olduğun haberi yayıldığında, cesaretine dair birçok coşkulu şarkının Ashenvale[cite: 2] genelindeki kamp ateşlerinde ve kereste fabrikalarında duyulacağından hiç şüphe yok!",
+        ["Completion"] = "En etkileyicisi, <name>... Sivripençe'nin pençesini elde etmek kolay olmuş olamaz! Külvadi[cite: 2] Avı senin için iyi gidiyor!\n\nSivripençe, buraya Kıymıkağaç Karakolu'na seyahat etmeye çalışan rotasının yakınındaki kereste kamplarından gelen işçileri uzun süredir terörize ediyordu. Canavarı yere serenin sen olduğun haberi yayıldığında, cesaretine dair birçok coşkulu şarkının Külvadi[cite: 2] genelindeki kamp ateşlerinde ve kereste fabrikalarında duyulacağından hiç şüphe yok!",
         ["minlevel"] = "0",
         ["questlevel"] = "0"
     },
@@ -222,7 +222,7 @@ QuestTranslator_QuestData = {
     ["Description"]="Kudretli ayı Ursangous artık yok!NEW_LINENEW_LINEPençesindeki küçük çeyrek hilal amblemi, bu canavarın gece elfleri tarafından düşmanlarını aramak için ormanda dolaşmak üzere eğitildiğini gösteriyor. Horde müttefiklerinden kaçının bu yaratığa yenik düştüğünü bilemezsin.NEW_LINENEW_LINEPençe, Silverwind Sığınağı'ndaki Tarkan'a götürülmeli. Düşmanın cephaneliğinden böyle bir silahın çıkarılmış olmasından memnun olacaktır.",
     ["Objectives"]="Ursangous'un Pençesi'ni Silverwind Sığınağı'ndaki Kaptan Tarkan'a getir.",
     ["Progress"]="Ah - YOUR_NAME - Ben de tam seni düşünüyordum! Avın nasıl gidiyor?",
-    ["Completion"]="Ah, Ursangous'un pençesi! Yeteneğin etkileyici, YOUR_CLASS ; çok sayıda öldürme ile tanınır. Pençesindeki hilal, hiç şüphesiz Ashenvale'de sinsice dolaşan gece elfleri tarafından eğitildiğinin bir işaretidir. Ursangous... buralarda bulabileceğiniz en güçlü ayılardan biriydi. Böyle bir yaratığı yenmek, iradenizin ve kararlılığınızın bir kanıtıdır.NEW_LINENEW_LINEAtaların seninle gurur duyardı!",
+    ["Completion"]="Ah, Ursangous'un pençesi! Yeteneğin etkileyici, YOUR_CLASS ; çok sayıda öldürme ile tanınır. Pençesindeki hilal, hiç şüphesiz Külvadi'de sinsice dolaşan gece elfleri tarafından eğitildiğinin bir işaretidir. Ursangous... buralarda bulabileceğiniz en güçlü ayılardan biriydi. Böyle bir yaratığı yenmek, iradenizin ve kararlılığınızın bir kanıtıdır.NEW_LINENEW_LINEAtaların seninle gurur duyardı!",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Ursangous'un Pençesi
@@ -230,10 +230,10 @@ QuestTranslator_QuestData = {
     -- Shadumbra'nın Kafası
     ["24"] = {
     ["Title"]="Shadumbra'nın Kafası",
-    ["Description"]="Bir zamanlar hızlı olan Shadumbra, siz ona karşı zafer kazandığınızı iddia ederken artık hareketsiz yatıyor.NEW_LINENEW_LINEBu efsanevi yaratık gece elfleri için çok değerlidir. Kafası göz korkutucu bir ödül ve İttifak'ın Ashenvale'deki sonunun bir işareti olarak hizmet etmeli.NEW_LINENEW_LINEHellscream'in Nöbeti'ndeki Kaptan Goggath, öldürülen gece kılıcının başını almaktan hiç şüphesiz memnun olacaktır.",
+    ["Description"]="Bir zamanlar hızlı olan Shadumbra, siz ona karşı zafer kazandığınızı iddia ederken artık hareketsiz yatıyor.NEW_LINENEW_LINEBu efsanevi yaratık gece elfleri için çok değerlidir. Kafası göz korkutucu bir ödül ve İttifak'ın Külvadi'deki sonunun bir işareti olarak hizmet etmeli.NEW_LINENEW_LINEHellscream'in Nöbeti'ndeki Kaptan Goggath, öldürülen gece kılıcının başını almaktan hiç şüphesiz memnun olacaktır.",
     ["Objectives"]="Shadumbra'nın Kafası'nı Hellscream'in Nöbeti'ndeki Kaptan Goggath'a getir.",
     ["Progress"]="Bir kez daha selamlar, YOUR_NAME! Bana avının kanıtını göstermeye mi geldin?",
-    ["Completion"]="Ashenvale Avı'nda YOUR_NAME için bir zafer! Aferin - Shadumbra'nın kellesi böylesine etkileyici bir dövüş için uygun bir ödül şüphesiz.NEW_LINENEW_LINEShadumbra'nın vahşiliği buradaki görev boyunca iyi biliniyordu. Batıya yapılan her yolculuk, özellikle de Zoram Strand'a yaya olarak çıkmaya çalışmak, bu kaplan yüzünden tehlikelerle doluydu. Sayenizde bu tehlike azaldı.",
+    ["Completion"]="Külvadi Avı'nda YOUR_NAME için bir zafer! Aferin - Shadumbra'nın kellesi böylesine etkileyici bir dövüş için uygun bir ödül şüphesiz.NEW_LINENEW_LINEShadumbra'nın vahşiliği buradaki görev boyunca iyi biliniyordu. Batıya yapılan her yolculuk, özellikle de Zoram Strand'a yaya olarak çıkmaya çalışmak, bu kaplan yüzünden tehlikelerle doluydu. Sayenizde bu tehlike azaldı.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Shadumbra'nın Kafası
@@ -1890,7 +1890,7 @@ QuestTranslator_QuestData = {
     ["Title"]="Kaya ile Devedikeni Arasında",
     ["Description"]="Thistlefur furbolgları genişlememizi tehdit ediyor!  Batımızdaki Thistlefur Köyü, burası ile Splintertree Karakolu arasındaki yolu kapatıyor. Astranaar köyünün etrafından dolanacak bir yol; o olmadan İttifak'a fazladan bir genişleme yolu vermiş oluruz.NEW_LINENEW_LINEN, bir genişleme yolu boşluğuna izin vermemeliyiz!NEW_LINENEW_LINEThistlefur Köyü'ne gidin ve furbolgları seyreltin. Bu görev için size tazminat verilecektir, ancak daha da önemlisi Horde için görevinizi yapmış olacaksınız!",
     ["Objectives"]="Hellscream's Watch'tan Karang Amakkar, Thistlefur Köyü'ndeki 15 Thistlefur furbolgunu öldürmeni istiyor.",
-    ["Progress"]="Thistlefur'a karşı savaştınız mı?  Üslerimiz arasında açık bir yol olması, Ashenvale'in tamamını ele geçirme şansımızı önemli ölçüde artıracaktır.",
+    ["Progress"]="Thistlefur'a karşı savaştınız mı?  Üslerimiz arasında açık bir yol olması, Külvadi'in tamamını ele geçirme şansımızı önemli ölçüde artıracaktır.",
     ["Completion"]="",
     ["minlevel"]="0",
     ["questlevel"]="0",
@@ -2114,16 +2114,16 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end Coldridge Vadisi Posta Dağıtımı
 
-    -- Ashenvale Avı
+    -- Külvadi Avı
     ["235"] = {
-    ["Title"]="Ashenvale Avı",
-    ["Description"]="Dikkat, genç maceracılar!  Ashenvale'in vahşi toprakları sizi bekliyor!NEW_LINENEW_LINEHorde, Barrens'in kuzeyindeki topraklarda güçlü bir varlık oluşturdu. İki karakolumuz - Splintertree Karakolu ve Zoram Strand Karakolu - Horde'a zafer kazandırmak için çabalıyor!  Kendini kanıtlamak isteyenler orada rehberlik aramalıdır. Not: Barrens'ın hemen kuzeyindeki Splintertree Karakolu'ndaki Senani Thunderheart, Ashenvale'in büyük avına katılmak isteyen maceracılar arıyor!",
-    ["Objectives"]="Splintertree Karakolu, Ashenvale'de Senani Thunderheart ile konuş.",
+    ["Title"]="Külvadi Avı",
+    ["Description"]="Dikkat, genç maceracılar!  Külvadi'in vahşi toprakları sizi bekliyor!NEW_LINENEW_LINEHorde, Barrens'in kuzeyindeki topraklarda güçlü bir varlık oluşturdu. İki karakolumuz - Splintertree Karakolu ve Zoram Strand Karakolu - Horde'a zafer kazandırmak için çabalıyor!  Kendini kanıtlamak isteyenler orada rehberlik aramalıdır. Not: Barrens'ın hemen kuzeyindeki Splintertree Karakolu'ndaki Senani Thunderheart, Külvadi'in büyük avına katılmak isteyen maceracılar arıyor!",
+    ["Objectives"]="Splintertree Karakolu, Külvadi'de Senani Thunderheart ile konuş.",
     ["Progress"]="",
-    ["Completion"]="Yeni sınıra hoş geldin, YOUR_NAME. Ashenvale bir fırsatlar ülkesi, senin gibi genç bir YOUR_CLASS'nin cesaretini kanıtlamak için sınırsız şanslar bulabileceği bir yer. Buradaki karakolun etrafına bakın ve Horde'un orada da başka bir karakolu olduğu için Zoram Strand'a gittiğinizden emin olun.NEW_LINENEW_LINEBurada bulunmanız bana av hakkında daha fazla şey öğrenmeye geldiğinizi gösteriyor. İyi dinle, bilmen gerekenleri seninle memnuniyetle paylaşacağım.",
+    ["Completion"]="Yeni sınıra hoş geldin, YOUR_NAME. Külvadi bir fırsatlar ülkesi, senin gibi genç bir YOUR_CLASS'nin cesaretini kanıtlamak için sınırsız şanslar bulabileceği bir yer. Buradaki karakolun etrafına bakın ve Horde'un orada da başka bir karakolu olduğu için Zoram Strand'a gittiğinizden emin olun.NEW_LINENEW_LINEBurada bulunmanız bana av hakkında daha fazla şey öğrenmeye geldiğinizi gösteriyor. İyi dinle, bilmen gerekenleri seninle memnuniyetle paylaşacağım.",
     ["minlevel"]="0",
     ["questlevel"]="0",
-    }, -- end Ashenvale Avı
+    }, -- end Külvadi Avı
 
     -- Kral Topraklarını Savunurken
     ["237"] = {
@@ -2224,7 +2224,7 @@ QuestTranslator_QuestData = {
     ["Description"]="",
     ["Objectives"]="Bu görev Blizzard tarafından geçersiz olarak işaretlendi ve elde edilemez veya tamamlanamaz.",
     ["Progress"]="",
-    ["Completion"]="YOUR_NAME Ashenvale Avı'nı oluşturan üç canavarı da öldürdünüz. Bana onların öldüğüne dair yeterli kanıt getirdin; gücün ve azmin konusunda hiçbir şüphe yok. Damarlarında bir avcının kanı dolaşıyor ve takdir edilmelisin!NEW_LINENEW_LINELütfen bu bibloyu, bugün Ashenvale'de Horde için yaptığınız kudretli işler için bir tebrik işareti olarak kabul edin. Atalarınız sizi izlesin!",
+    ["Completion"]="YOUR_NAME Külvadi Avı'nı oluşturan üç canavarı da öldürdünüz. Bana onların öldüğüne dair yeterli kanıt getirdin; gücün ve azmin konusunda hiçbir şüphe yok. Damarlarında bir avcının kanı dolaşıyor ve takdir edilmelisin!NEW_LINENEW_LINELütfen bu bibloyu, bugün Külvadi'de Horde için yaptığınız kudretli işler için bir tebrik işareti olarak kabul edin. Atalarınız sizi izlesin!",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Av Tamamlandı
@@ -6173,16 +6173,16 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end Dalgın Araştırmacı
 
-    -- Ashenvale Avı
+    -- Külvadi Avı
     ["742"] = {
-    ["Title"]="Ashenvale Avı",
-    ["Description"]="Dikkat, genç maceracılar! Ashenvale'in vahşi doğası sizi bekliyor!NEW_LINENEW_LINEHorde, Barrens'in kuzeyindeki topraklarda güçlü bir varlık oluşturdu. İki karakolumuz - Splintertree Karakolu ve Zoram Strand Karakolu - Horde'a zafer kazandırmak için çabalıyor! Kendini kanıtlamak isteyenler orada rehberlik aramalıdır. Not: Barrens'ın hemen kuzeyindeki Splintertree Karakolu'ndaki Senani Thunderheart, Ashenvale'in büyük avına katılmak isteyen maceracılar arıyor!",
-    ["Objectives"]="Splintertree Karakolu, Ashenvale'de Senani Thunderheart ile konuş.",
+    ["Title"]="Külvadi Avı",
+    ["Description"]="Dikkat, genç maceracılar! Külvadi'in vahşi doğası sizi bekliyor!NEW_LINENEW_LINEHorde, Barrens'in kuzeyindeki topraklarda güçlü bir varlık oluşturdu. İki karakolumuz - Splintertree Karakolu ve Zoram Strand Karakolu - Horde'a zafer kazandırmak için çabalıyor! Kendini kanıtlamak isteyenler orada rehberlik aramalıdır. Not: Barrens'ın hemen kuzeyindeki Splintertree Karakolu'ndaki Senani Thunderheart, Külvadi'in büyük avına katılmak isteyen maceracılar arıyor!",
+    ["Objectives"]="Splintertree Karakolu, Külvadi'de Senani Thunderheart ile konuş.",
     ["Progress"]="",
-    ["Completion"]="Yeni sınıra hoş geldin, YOUR_NAME. Ashenvale bir fırsatlar ülkesi, senin gibi genç bir YOUR_CLASSin cesaretini kanıtlamak için sınırsız şanslar bulabileceği bir yer. Buradaki karakolun etrafına bakın ve Zoram Strand'a gittiğinizden emin olun, çünkü Horde'un orada da başka bir karakolu var.NEW_LINENEW_LINEBuradaki varlığınız bana av hakkında daha fazla şey öğrenmeye geldiğinizi söylüyor. İyi dinle, bilmen gerekenleri seninle memnuniyetle paylaşacağım.",
+    ["Completion"]="Yeni sınıra hoş geldin, YOUR_NAME. Külvadi bir fırsatlar ülkesi, senin gibi genç bir YOUR_CLASSin cesaretini kanıtlamak için sınırsız şanslar bulabileceği bir yer. Buradaki karakolun etrafına bakın ve Zoram Strand'a gittiğinizden emin olun, çünkü Horde'un orada da başka bir karakolu var.NEW_LINENEW_LINEBuradaki varlığınız bana av hakkında daha fazla şey öğrenmeye geldiğinizi söylüyor. İyi dinle, bilmen gerekenleri seninle memnuniyetle paylaşacağım.",
     ["minlevel"]="0",
     ["questlevel"]="0",
-    }, -- end Ashenvale Avı
+    }, -- end Külvadi Avı
 
     -- Windfury'nin Tehlikeleri
     ["743"] = {
@@ -6913,7 +6913,7 @@ QuestTranslator_QuestData = {
     -- Toprak Yüzüğün Je'neu'su
     ["824"] = {
     ["Title"]="Toprak Yüzüğün Je'neu'su",
-    ["Description"]="Toprak Yüzük, kendini elementleri incelemeye ve korumaya adamış şamanist bir gruptur. Çılgın eski tanrılar, kadim efsaneler ve irfan hakkında çoğu akademisyenin bilebileceğinden daha fazlasını unutmuşlardır.NEW_LINENEW_LINEŞanslısın ki, Ashenvale'deki Toprak Halka'da tanıdığım biri var. Zoram Strand kıyısındaki Zoram'gar Outpost'a gidin; Je'neu Sancrea'ya ne bulduğunuzu gösterin. O kürenin önemini anlayabilecek biri varsa, o da odur.",
+    ["Description"]="Toprak Yüzük, kendini elementleri incelemeye ve korumaya adamış şamanist bir gruptur. Çılgın eski tanrılar, kadim efsaneler ve irfan hakkında çoğu akademisyenin bilebileceğinden daha fazlasını unutmuşlardır.NEW_LINENEW_LINEŞanslısın ki, Külvadi'deki Toprak Halka'da tanıdığım biri var. Zoram Strand kıyısındaki Zoram'gar Outpost'a gidin; Je'neu Sancrea'ya ne bulduğunuzu gösterin. O kürenin önemini anlayabilecek biri varsa, o da odur.",
     ["Objectives"]="Kirlenmiş Su Küresi'ni Blackfathom Derinlikleri'ndeki Je'neu Sancrea'ya getirin.",
     ["Progress"]="Ah, merhaba. Suyu - aslında tüm elementleri - incelemek için o kadar çok zaman harcıyorum ki bazen etrafımdaki insanları fark etmiyorum bile.NEW_LINENEW_LINESize yardımcı olabileceğim bir konu var mı?",
     ["Completion"]="Bu küre... çok rahatsız edici. Daha güçlü elementallerin çoğu güçlerini ve enerjilerini bu tür aygıtlardan alırlar. Bunun gibi bir tanesini neredeyse bozulmamış halde bulmak başka bir şey, bu kadar kirlenmiş halde bulmak başka bir şey.NEW_LINENEW_LINEBu kürenin Toprak Yüzük tarafından düzgün bir şekilde incelenmesini sağlayacağım. Belki de elementlerin bu yozlaşmasına bir son verebiliriz. Lütfen bunu, bu küreyi Toprak Yüzük'ün dikkatine sunmanın adil bir karşılığı olarak kabul edin.",
@@ -7728,7 +7728,7 @@ QuestTranslator_QuestData = {
     ["908"] = {
     ["Title"]="Yıkıntılar Arasında",
     ["Description"]="Alacakaranlığın Çekici, Blackfathom Derinlikleri'ndeki Moonshrine Harabeleri'ne taşındı. Onların varlığı sadece elementleri bize karşı çalışmaya zorlamaya yarayabilir. Eğer kontrol edilmezse, bu bölge sonsuza dek onların olacak.NEW_LINENEW_LINEYOUR_NAME Blackfathom'a gidin ve harabenin kulaç taşını bulun; suya yakın bir yerde olmalı. İçinde bir kulaç çekirdeği var - doğru okunduğunda tüm element faaliyetlerinin tarihini anlatacak bir cihaz. Eğer ona sahip olursam, ben ve Toprak Yüzük belki onları durdurmak için bir şeyler yapabiliriz!",
-    ["Objectives"]="Fathom Core'u Zoram'gar Outpost, Ashenvale'deki Je'neu Sancrea'ya getirin.",
+    ["Objectives"]="Fathom Core'u Zoram'gar Outpost, Külvadi'deki Je'neu Sancrea'ya getirin.",
     ["Progress"]="Fathom çekirdeğinin yerini bulabildiniz mi? O olmadan Alacakaranlık Çekici'nin aşağıda tam olarak ne yaptığı hakkında hiçbir fikrimiz olmayacak.",
     ["Completion"]="Bu tam da ihtiyacım olan şey! Fathom çekirdeği, içinden çok iyi şeyler çıkarabileceğimiz inanılmaz bir bilgi kuyusudur. Alacakaranlığın Çekici orada her ne yapıyorsa - ve iyi bir şey olmadığını söylediğimde bana inanın - yoldaşlarım ve ben şimdi ortaya çıkaracağız.NEW_LINENEW_LINEBugün burada iyi iş çıkardınız; Toprak Yüzük bize yardım ettiğiniz için size sıcak bakıyor. Ayrıca Horde'a bir bütün olarak yardım ettiniz ve bunun için gurur duymalısınız.",
     ["minlevel"]="0",
@@ -7738,8 +7738,8 @@ QuestTranslator_QuestData = {
     -- Baron Aquanis
     ["909"] = {
     ["Title"]="Baron Aquanis",
-    ["Description"]="Yenilen su elementali arkasında garip bir su küresi bıraktı. Bu nesnenin bir şekilde canavarın enerjisini beslediğini tahmin ediyorsun. Kürenin içinde, çürümüş görünümlü bir su formu dolaşıyor. Kürenin kendisi her türlü fiziksel güce karşı dayanıklı görünüyor.NEW_LINENEW_LINEBu nesneye anlam verebilecek biri varsa o da Toprak Yüzük'ten Je'neu Sancrea'dır. Kendisi Horde'un Ashenvale'deki Zoram'gar Karakolu'nda bulunuyor.",
-    ["Objectives"]="Tuhaf Su Küresini Zoram'gar Karakolu, Ashenvale'deki Je'neu Sancrea'ya getirin.",
+    ["Description"]="Yenilen su elementali arkasında garip bir su küresi bıraktı. Bu nesnenin bir şekilde canavarın enerjisini beslediğini tahmin ediyorsun. Kürenin içinde, çürümüş görünümlü bir su formu dolaşıyor. Kürenin kendisi her türlü fiziksel güce karşı dayanıklı görünüyor.NEW_LINENEW_LINEBu nesneye anlam verebilecek biri varsa o da Toprak Yüzük'ten Je'neu Sancrea'dır. Kendisi Horde'un Külvadi'deki Zoram'gar Karakolu'nda bulunuyor.",
+    ["Objectives"]="Tuhaf Su Küresini Zoram'gar Karakolu, Külvadi'deki Je'neu Sancrea'ya getirin.",
     ["Progress"]="Ah, tekrar merhaba YOUR_NAME. Her zaman yaptığım gibi denizin dalgalarını okuyordum. Seni karakola getiren nedir?",
     ["Completion"]="Bu... bu tam bir keşif, YOUR_NAME.NEW_LINENEW_LINEBunu Blackfathom'daki Baron Aquanis'ten aldığınızı mı söylüyorsunuz? Baron Aquanis'in uzun zamandır bozulmuş bir elemental güç olduğu düşünülüyordu; bu küre onu tam olarak neyin bozduğunu kanıtlayacak. Bunun Alacakaranlığın Çekici olduğu ortaya çıkarsa sürpriz olmaz, ancak çalışmalarımız bunu nasıl yaptıklarını da gösterecek.NEW_LINENEW_LINEBunu bana getirmekle iyi yaptın. Lütfen bunu Toprak Yüzük'ün en içten selamlarıyla birlikte kabul edin.",
     ["minlevel"]="0",
@@ -8068,7 +8068,7 @@ QuestTranslator_QuestData = {
     -- Therylune'un Kaçışı
     ["945"] = {
     ["Title"]="Therylune'un Kaçışı",
-    ["Description"]="Yardım edin!NEW_LINENEW_LINEUsta'nın Kılıcı'nın etrafında dolaşıyordum ve bu pis tarikatçılar etrafımı sardı. Şanslıyım ki iyi saklanıyorum!!NEW_LINENEW_LINEBuradan çıkmama yardım edebilir misin? Ve kız kardeşim Therysil'e iyi olduğumu haber vermeliyim. Güneydeki Ashenvale'de, Aessina Tapınağı'nda.",
+    ["Description"]="Yardım edin!NEW_LINENEW_LINEUsta'nın Kılıcı'nın etrafında dolaşıyordum ve bu pis tarikatçılar etrafımı sardı. Şanslıyım ki iyi saklanıyorum!!NEW_LINENEW_LINEBuradan çıkmama yardım edebilir misin? Ve kız kardeşim Therysil'e iyi olduğumu haber vermeliyim. Güneydeki Külvadi'de, Aessina Tapınağı'nda.",
     ["Objectives"]="Therylune'un kaçmasına yardım et, sonra Aessina Tapınağı'ndaki Therysil'e kız kardeşinin güvende olduğunu söyle.",
     ["Progress"]="",
     ["Completion"]="Kız kardeşim neredeydi? Therylune kirlenmeyi umursamıyor ama yine de! Dolaşmak için uzun bir yol ve Usta'nın Kılıcı da pek sağlıklı olmayan bir yer...NEW_LINENEW_LINETeşekkür ederim, YOUR_NAME. Bana onun iyi olduğunu söylemen çok hoştu.",
@@ -8288,8 +8288,8 @@ QuestTranslator_QuestData = {
     -- Althalaxx Kulesi
     ["967"] = {
     ["Title"]="Althalaxx Kulesi",
-    ["Description"]="Ustam Arındırıcı Delgren, ormanlarımızı iblislerin ve ölümsüzlerin güçlerine karşı savunmak için yardımını esirgemeyen bir şovalyedir. Bana Kutsal Işık ve savaş sanatı hakkında çok şey öğretti.NEW_LINENEW_LINEDelgren tarikatın operasyonlarından derhal haberdar olmalı.NEW_LINENEW_LINEOnu buradan çok güneyde, Ashenvale Ormanı'ndaki Maestra'nın Karakolu'nda bulacaksın. Acele edin, korkarım Karanlık İplik'in tehdidi her geçen saat büyüyor.",
-    ["Objectives"]="Balthule'un mektubunu Ashenvale Ormanı'ndaki Arındırıcı Delgren'e teslim et.",
+    ["Description"]="Ustam Arındırıcı Delgren, ormanlarımızı iblislerin ve ölümsüzlerin güçlerine karşı savunmak için yardımını esirgemeyen bir şovalyedir. Bana Kutsal Işık ve savaş sanatı hakkında çok şey öğretti.NEW_LINENEW_LINEDelgren tarikatın operasyonlarından derhal haberdar olmalı.NEW_LINENEW_LINEOnu buradan çok güneyde, Külvadi Ormanı'ndaki Maestra'nın Karakolu'nda bulacaksın. Acele edin, korkarım Karanlık İplik'in tehdidi her geçen saat büyüyor.",
+    ["Objectives"]="Balthule'un mektubunu Külvadi Ormanı'ndaki Arındırıcı Delgren'e teslim et.",
     ["Progress"]="Benimle bir işin var, YOUR_CLASS ?",
     ["Completion"]="Söylememde bir sakınca yoksa, bir ulak için biraz donanımlı görünüyorsunuz, değil mi? Sanırım Balthule mektubunun elime ulaştığından emin olmak istedi. Bakalım ne diyecek...NEW_LINENEW_LINEBu rahatsız edici bir haber. Ölümsüz veya şeytani güçler bulunduğunda, Sentinellerin onları yok etmesine yardım ederim.NEW_LINENEW_LINEİlk başlarda gece elflerinin davranışlarına alışkın değildim ama müttefik olarak onlara büyük saygı duymaya başladım.",
     ["minlevel"]="0",
@@ -8323,7 +8323,7 @@ QuestTranslator_QuestData = {
     ["Title"]="Derinlerdeki Bilgi",
     ["Description"]="İlim toplamak benim görevim. Eski bilgiler. Güçlü irfan. Kapıları açan irfan ve yanlış kullanılırsa Uyuyanları daha da uyandırabilecek irfan.NEW_LINENEW_LINEBatıdaki Blackfathom Derinlikleri'nin dibinde Lorgalis El Yazması adında eski bir irfan parçasına dair söylentiler var. Orası uzun zaman önce ölmüş atalarımızın eski meskeni. Şehirleri yıkılmadan önce büyük bir bilgiye sahiptiler.NEW_LINENEW_LINEEl yazması için Blackfathom Deeps'i ara. Bunu yap, ben de unutmayayım. Bu son günlerde bile.",
     ["Objectives"]="Lorgalis El Yazması'nı Blackfathom Kampı'ndaki Nöbetçi adayı Issara'ya getir.",
-    ["Progress"]="Ashenvale'e yolculuk uzun ve göreviniz kolay değil. Ama bana el yazmasını getirirsen, YOUR_NAME...ödülün büyük olacak.",
+    ["Progress"]="Külvadi'e yolculuk uzun ve göreviniz kolay değil. Ama bana el yazmasını getirirsen, YOUR_NAME...ödülün büyük olacak.",
     ["Completion"]="El yazmasını bulmuşsun! Ne kadar sevinçli bir gün! Kopyalar yapılıp dağıtılacak ve Lorgalis'in kadim bilgisi nihayet kardeşlerim tarafından bilinecek!NEW_LINENEW_LINEBize olan hizmetin bildiğinden çok daha fazla, YOUR_NAME. Ama umarım bu hediye size müttefiklerimize duyduğumuz minneti gösterir.",
     ["minlevel"]="0",
     ["questlevel"]="0",
@@ -8343,7 +8343,7 @@ QuestTranslator_QuestData = {
     -- Althalaxx Kulesi
     ["973"] = {
     ["Title"]="Althalaxx Kulesi",
-    ["Description"]="Ilkrud Magthrull. Evet, onun hakkında bilgim var. Ashenvale'in güneybatısında büyük bir kötülük yeri olan Ateş Yarası Tapınağı'nda ikamet eden güçlü bir ork büyücüsüdür.NEW_LINEŞimdiye kadar bir sıkıntıdan biraz daha fazlasıydı ve onunla uğraşmamıştım, ama görünüşe göre zamanı geldi.",
+    ["Description"]="Ilkrud Magthrull. Evet, onun hakkında bilgim var. Külvadi'in güneybatısında büyük bir kötülük yeri olan Ateş Yarası Tapınağı'nda ikamet eden güçlü bir ork büyücüsüdür.NEW_LINEŞimdiye kadar bir sıkıntıdan biraz daha fazlasıydı ve onunla uğraşmamıştım, ama görünüşe göre zamanı geldi.",
     ["Objectives"]="Ilkrud Magthrull'un Tome'unu Maestra'nın Karakolu'ndaki Arındırıcı Delgren'e getir.",
     ["Progress"]="Biraz sarsılmış görünüyorsun, YOUR_NAME. İyi misin?",
     ["Completion"]="Bugün yaptığın büyük bir şeydi, YOUR_NAME. Böylesine güçlü bir büyücüyle yüzleştiğin için kendinle gurur duymalısın.NEW_LINENEW_LINEŞimdi Ilkrud'un yazdıklarından neler öğrenebileceğimize bakalım.",
@@ -8355,7 +8355,7 @@ QuestTranslator_QuestData = {
     ["976"] = {
     ["Title"]="Auberdine için malzemeler",
     ["Description"]="Delgren benden Auberdine'deki Sentinel Starbreeze'e mesaj ve malzeme götürmemi istedi ama tek başıma gitmekten çekiniyorum. Ormanda tehlikeli düşmanlar faaliyet gösteriyor ve bu malzemelerin ve bilgilerin yanlış ellere geçmesi riskini almak istemiyorum.NEW_LINENEW_LINEEğer siz ve diğerleri benim korumam olarak hareket ederseniz, şimdi ayrılabilirim. Sizin korumanızla bu malları güvenli bir şekilde Auberdine'e ulaştırabileceğimizden hiç şüphem yok.",
-    ["Objectives"]="Feero'nun Ashenvale Ormanı'ndan güvenle geçtiğini gördükten sonra Maestra'nın Karakolu'nda Arındırıcı Delgren ile konuşun.",
+    ["Objectives"]="Feero'nun Külvadi Ormanı'ndan güvenle geçtiğini gördükten sonra Maestra'nın Karakolu'nda Arındırıcı Delgren ile konuşun.",
     ["Progress"]="Sentinellerin Darkshore'da kendilerini güçlendirmek için malzemeye büyük ihtiyaçları var.",
     ["Completion"]="Bugün iyi iş çıkardın, YOUR_CLASS. Auberdine'e yardım için gönderdiğimiz eşyalar, ormanı istila eden karanlık tehditlerle mücadelede derhal işe yarayacak.NEW_LINENEW_LINEBunları en içten teşekkürlerimle alın.",
     ["minlevel"]="0",
@@ -8442,7 +8442,7 @@ QuestTranslator_QuestData = {
     -- Kayıp Bir Usta
     ["986"] = {
     ["Title"]="Kayıp Bir Usta",
-    ["Description"]="YOUR_NAME Yetenekleriniz zaten çabalarımda bana yardımcı oldu. Grimclaw ve efendisi Volcor'a yardım etmen için seni tekrar görevlendirebilir miyim? Ayrıca, onu ararken Darkshore'un yaratıkları tarafından engellenmeden yürümeni sağlayacak büyülü bir pelerin de yapabilirim.NEW_LINENEW_LINEPelerini yapmak için, yeterli malzemeye sahip olmak için bir moonstalker efendisinden veya anaerkilinden beş ince moonstalker postuna ihtiyacım olacak. Kediler güneyde Wildbend Nehri yakınlarında veya daha da güneyde Ashenvale yakınlarında bulunabilir.",
+    ["Description"]="YOUR_NAME Yetenekleriniz zaten çabalarımda bana yardımcı oldu. Grimclaw ve efendisi Volcor'a yardım etmen için seni tekrar görevlendirebilir miyim? Ayrıca, onu ararken Darkshore'un yaratıkları tarafından engellenmeden yürümeni sağlayacak büyülü bir pelerin de yapabilirim.NEW_LINENEW_LINEPelerini yapmak için, yeterli malzemeye sahip olmak için bir moonstalker efendisinden veya anaerkilinden beş ince moonstalker postuna ihtiyacım olacak. Kediler güneyde Wildbend Nehri yakınlarında veya daha da güneyde Külvadi yakınlarında bulunabilir.",
     ["Objectives"]="5 İnce Aykesen Postu bulun ve Auberdine'deki Terenthis'e geri götürün.",
     ["Progress"]="Senin için o pelerini hazırlamadan Volcor'u aramana vicdanen izin veremem.",
     ["Completion"]="Bunlar iyi iş görür, YOUR_NAME. Hemen pelerin üzerinde çalışmaya başlayacağım.NEW_LINENEW_LINEBana birkaç dakika ver, sonra bana dön.NEW_LINENEW_LINEOh, bir şey daha: Pelerin üzerindeki büyüyü kullandıktan sonra başkalarıyla etkileşimleriniz sınırlı olacak. Eğer yardım edebilirseniz, başkalarıyla konuşmaktan fazlasını yapmayın. Bundan çok daha fazlası illüzyonu ortadan kaldırabilir.",
@@ -8450,22 +8450,22 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end Kayıp Bir Usta
 
-    -- Ashenvale'e Trek
+    -- Külvadi'e Trek
     ["990"] = {
-    ["Title"]="Ashenvale'e Trek",
-    ["Description"]="YOUR_NAME Hanımım Raene Wolfrunner, Ashenvale'deki Astranaar şehrinde sizi bekliyor. Yardımınla, belki de oradaki yozlaşmayı biraz olsun hafifletebiliriz.NEW_LINENEW_LINEBuradan güneye doğru gidin ve yola yakın durun - bu talimatları takip ederseniz yolunuzu sorunsuz bir şekilde bulacaksınız.",
-    ["Objectives"]="Ashenvale'de Raene Wolfrunner'ı bul.",
+    ["Title"]="Külvadi'e Trek",
+    ["Description"]="YOUR_NAME Hanımım Raene Wolfrunner, Külvadi'deki Astranaar şehrinde sizi bekliyor. Yardımınla, belki de oradaki yozlaşmayı biraz olsun hafifletebiliriz.NEW_LINENEW_LINEBuradan güneye doğru gidin ve yola yakın durun - bu talimatları takip ederseniz yolunuzu sorunsuz bir şekilde bulacaksınız.",
+    ["Objectives"]="Külvadi'de Raene Wolfrunner'ı bul.",
     ["Progress"]="",
     ["Completion"]="Darkshore'dan bir YOUR_CLASS Selarin seni buraya bu kadar çabuk göndermekle iyi yaptı, YOUR_NAME. Keşke buraya gelişiniz bu kadar stresli olmasaydı. Belki senin yardımınla işleri yoluna koyabiliriz.NEW_LINENEW_LINEZiyaretime Astranaar'ın diğer vatandaşlarıyla konuşarak başlamak isterim. Bazılarının yardımınıza ihtiyacı olabilir.",
     ["minlevel"]="0",
     ["questlevel"]="0",
-    }, -- end Ashenvale'e Trek
+    }, -- end Külvadi'e Trek
 
     -- Teronis'i Bulmak
     ["991"] = {
     ["Title"]="Teronis'i Bulmak",
     ["Description"]="Astranaar'dan bir arkadaşım, Raene Wolfrunner, benden Falathim Gölü'nün batısına bir keşif kolu göndermemi istedi. Teronis günler önce, Horde saldırmadan hemen önce ayrıldı.NEW_LINEHalkımıza yönelik furbolg saldırılarını yavaşlatabileceğini düşündüğü bir eşya arıyordu - artık ölmüş, kötü bir büyücü tarafından yaratılmış bir çubuk.NEW_LINENEW_LINEAyrılmadan önce, gölde bir adada bir tapınakta olduğunu bildiği çubuk için bir mücevherden bahsetti.NEW_LINENEW_LINENe yazık ki, gölün kötü bir güç tarafından istila edildiğini biliyoruz. Lütfen, YOUR_NAME Arkadaşımı bul.",
-    ["Objectives"]="Teronis'i Ashenvale'deki Falathim Gölü'nde bul.",
+    ["Objectives"]="Teronis'i Külvadi'deki Falathim Gölü'nde bul.",
     ["Progress"]="",
     ["Completion"]="Teronis'in cesedi adanın tepesinde kırık bir şekilde yatıyor. Bilinmeyen bir nedenden ötürü murloclar onu yalnız bıraktı.NEW_LINENEW_LINECesedinin üzerindeki derin kesikler belli ki murlokların silahları ve pençelerinden kaynaklanıyor.",
     ["minlevel"]="0",
@@ -8618,7 +8618,7 @@ QuestTranslator_QuestData = {
     -- Terk Edilmiş Hastalıklar
     ["1011"] = {
     ["Title"]="Terk Edilmiş Hastalıklar",
-    ["Description"]="Horde'un ölümsüz kolu olan Forsaken, Ashenvale'e sızmış, harabelerimizde ve mezarlıklarımızda pusuya yatmış durumda. Amaçlarının gece elflerinin toprakları arasında hastalık yaymak olduğuna inanıyoruz. Bunu doğrulamalıyız!NEW_LINENEW_LINESahipsizler'in buranın güneyinde, Dor'Danil Barrow İni yakınlarında zehir ve hastalık üretip şişelere koydukları bir kampları var. O kampa savaşarak gir ve bir şişe hastalık çal. Böyle bir şişeyle geri dön. Onu test edip amacını bulacağım.",
+    ["Description"]="Horde'un ölümsüz kolu olan Forsaken, Külvadi'e sızmış, harabelerimizde ve mezarlıklarımızda pusuya yatmış durumda. Amaçlarının gece elflerinin toprakları arasında hastalık yaymak olduğuna inanıyoruz. Bunu doğrulamalıyız!NEW_LINENEW_LINESahipsizler'in buranın güneyinde, Dor'Danil Barrow İni yakınlarında zehir ve hastalık üretip şişelere koydukları bir kampları var. O kampa savaşarak gir ve bir şişe hastalık çal. Böyle bir şişeyle geri dön. Onu test edip amacını bulacağım.",
     ["Objectives"]="Orman Şarkısı'nda Kayneth Stillwind'e bir Şişe Hastalık getir.",
     ["Progress"]="Kampı buldun mu, YOUR_NAME ? Bir şişe hastalığın var mı?",
     ["Completion"]="Çok iyi, YOUR_NAME. Şimdi... bu şişenin içindekileri test ederek, Forsaken'ın hedefleri ortaya çıkacak!",
@@ -8629,7 +8629,7 @@ QuestTranslator_QuestData = {
     -- Çılgın Druidler
     ["1012"] = {
     ["Title"]="Çılgın Druidler",
-    ["Description"]="Druidler öldü, Horde'un Orman Kalbi'ni kirletmesiyle çıldıran liderleri tarafından öldürüldüler! Yozlaşmayı buradan bile hissedebiliyorum ve daha ileri gitmeye cesaret edemiyorum.NEW_LINENEW_LINEBen Ashenvale'e ve Orman Kalbi'ne çok iyi uyum sağlamışken, sen... sen barrow inine inebilir ve yapılması gerekeni yapabilirsin. Orada senin için ekmek kırıntıları bıraktım.NEW_LINENEW_LINEBeni parçalayacak olsa da, Druidlerin bir zamanlarki büyük liderlerini dinlendirmeni istemek zorundayım: Taneel Darkwood, Uthil Mooncall ve Mavoris Cloudsbreak.",
+    ["Description"]="Druidler öldü, Horde'un Orman Kalbi'ni kirletmesiyle çıldıran liderleri tarafından öldürüldüler! Yozlaşmayı buradan bile hissedebiliyorum ve daha ileri gitmeye cesaret edemiyorum.NEW_LINENEW_LINEBen Külvadi'e ve Orman Kalbi'ne çok iyi uyum sağlamışken, sen... sen barrow inine inebilir ve yapılması gerekeni yapabilirsin. Orada senin için ekmek kırıntıları bıraktım.NEW_LINENEW_LINEBeni parçalayacak olsa da, Druidlerin bir zamanlarki büyük liderlerini dinlendirmeni istemek zorundayım: Taneel Darkwood, Uthil Mooncall ve Mavoris Cloudsbreak.",
     ["Objectives"]="Çılgın druidleri öldür: Taneel Darkwood, Uthil Mooncall ve Mavoris Cloudsbreak.",
     ["Progress"]="Dor'danil druidlerinin ıstırabı hala rüyalarıma giriyor, YOUR_NAME. Liderlerini yok etmelisin!",
     ["Completion"]="Dor'danil Barrow'ların acısının azaldığını hissettim ve görevinizi tamamladığınızı anladım.NEW_LINENEW_LINEYaptığın acımasız bir işti, YOUR_NAME Çünkü yok ettiğin ruhlar sadece Terk Edilmiş'in kötülüğünün kurbanlarıydı. Ama onların yok edilmesiyle, umalım ki diğer çıldırmış ruhlar da huzur bulsun.",
@@ -8676,7 +8676,7 @@ QuestTranslator_QuestData = {
     ["Description"]="Mystral Gölü'ndeki su elementi savunucularımızın kontrolünü ele geçirmemiş olsalardı, Silverwind Sığınağı'nı Horde'dan kolayca koruyabilirdik.NEW_LINENEW_LINEŞamanlarından biri Tideress'i çağırdı, ormanın yaşlı ve öfkeli su ruhu elementallerimizi kirletti ve onları bize karşı çevirdi. Göl ve Horde üzerimize gelirken, buradaki kuleye çekilmekten başka seçeneğimiz yoktu.NEW_LINENEW_LINEDoğuya git. Gölü geri alın ki bir gün sığınağı geri alma şansımız olsun.",
     ["Objectives"]="12 Befouled Su Elementali ve Tideress'i öldür.",
     ["Progress"]="Elementalleri öldürmek için bileklikleri yok etmeniz gerektiğinden, kehanet parşömeninin ihtiyaç duyduğu bilgileri içeren belirli bileklikleri bulmak muhtemelen zor olacaktır. İhtiyacınız olanları elde etmek için bileklikleri başkalarıyla takas edebilirsiniz veya belki de kehanet kağıdına zaten sahipsinizdir?",
-    ["Completion"]="Aferin, YOUR_NAME Bu bize suçluyu bulmamız için gereken bilgiyi verecektir. Havuzlarımızı yozlaşmış elementallerle dolduran büyücüyü ortadan kaldırmaya ne dersin? Ashenvale ve ötesindeki yozlaşma midemi bulandırıyor - bir büyücünün aktif olarak bunu yok etmeye çalışması beni daha da rahatsız ediyor. Bunu ona ödeteceğiz.",
+    ["Completion"]="Aferin, YOUR_NAME Bu bize suçluyu bulmamız için gereken bilgiyi verecektir. Havuzlarımızı yozlaşmış elementallerle dolduran büyücüyü ortadan kaldırmaya ne dersin? Külvadi ve ötesindeki yozlaşma midemi bulandırıyor - bir büyücünün aktif olarak bunu yok etmeye çalışması beni daha da rahatsız ediyor. Bunu ona ödeteceğiz.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Mystral Gölü'nün Geri Alınması
@@ -8718,7 +8718,7 @@ QuestTranslator_QuestData = {
     ["1020"] = {
     ["Title"]="Orendil'in Tedavisi",
     ["Description"]="YOUR_NAME Elune'nin kutsanmış ışığıyla yıkandığına göre, bu karışımın hasta çocuğa yardım edeceğine inanıyorum. Lütfen onu Astranaar'a götür ve çocuğun ebeveyni Pelturas Whitemoon'a ver.NEW_LINENEW_LINEAstranaar'a ulaşmak için önce güneye sonra doğuya giden yolu takip edin. Ancak, oraya daha hızlı ulaşmak istiyorsanız, Nöbetçi Avana ile konuşun.",
-    ["Objectives"]="Ashenvale'deki Astranaar'da Pelturas Whitemoon'a Orendil'in Tedavisi'ni getir.",
+    ["Objectives"]="Külvadi'deki Astranaar'da Pelturas Whitemoon'a Orendil'in Tedavisi'ni getir.",
     ["Progress"]="Konuşacak zamanım olmadığı için özür dilemeliyim. Çocuğum, Relara, ölümcül hasta!",
     ["Completion"]="Bu Orendil'den mi?NEW_LINENEW_LINEBitkiler ve şifa konusundaki becerisi harika. Bu tedavi bana umut veriyor, daha önce çok az umudum vardı...",
     ["minlevel"]="0",
@@ -8729,7 +8729,7 @@ QuestTranslator_QuestData = {
     ["1021"] = {
     ["Title"]="Alçak Satir! Dryadlar Tehlikede!",
     ["Description"]="Dinle, kim olduğunu bilmiyorum ama yardımına ihtiyacım var. Kız kardeşlerim Cenarius'un dalını satirden geri almaya gittiler. Yakında döneceklerini söylediler ama tam iki gün oldu!NEW_LINENEW_LINEYOUR_NAME Onları bulmalısın! Kuzeybatıdaki Xavian'da bir gece elfi tapınağının kalıntılarını arıyorlardı. Ne düşüneceğimi bilmiyorum. Anilia'ya bak, onları aramaya o götürüyordu.",
-    ["Objectives"]="Anilia'yı Ashenvale'deki Xavian'da bul.",
+    ["Objectives"]="Anilia'yı Külvadi'deki Xavian'da bul.",
     ["Progress"]="",
     ["Completion"]="Böğründeki yaraya bakılırsa, Anilia ölümün eşiğinde.",
     ["minlevel"]="0",
@@ -8739,7 +8739,7 @@ QuestTranslator_QuestData = {
     -- Uluyan Vadi
     ["1022"] = {
     ["Title"]="Uluyan Vadi",
-    ["Description"]="Kalan iblisleri Felwood'dan kuzeye sürmek için çok fazla kaynak ve çaba harcamamıza rağmen, başarılarımız çok az oldu. Şeytani varlığın çoğunu Ashenvale'den uzak tutmayı başardık.NEW_LINENEW_LINEKuzeyde, Felwood sınırı yakınlarında, Mel'Thandris'in yıkık tapınağı gizemli kurt adamlar tarafından ele geçirildi. Onların ürpertici çağrıları bölgenin Uluyan Vadi olarak bilinmesine neden oldu. Tapınakta saklanan Mel'Thandris'in Tome'u bu kurt-adamların neden geldiğine ışık tutabilir.",
+    ["Description"]="Kalan iblisleri Felwood'dan kuzeye sürmek için çok fazla kaynak ve çaba harcamamıza rağmen, başarılarımız çok az oldu. Şeytani varlığın çoğunu Külvadi'den uzak tutmayı başardık.NEW_LINENEW_LINEKuzeyde, Felwood sınırı yakınlarında, Mel'Thandris'in yıkık tapınağı gizemli kurt adamlar tarafından ele geçirildi. Onların ürpertici çağrıları bölgenin Uluyan Vadi olarak bilinmesine neden oldu. Tapınakta saklanan Mel'Thandris'in Tome'u bu kurt-adamların neden geldiğine ışık tutabilir.",
     ["Objectives"]="Uluyan Vadi'ye gidin ve Mel'Thandris'in Tome'unu inceleyin, ardından Orman Şarkısı'ndaki Nöbetçi Melyria Frostshadow'a dönün.",
     ["Progress"]="Tapınağın kitabı gizemli bir nesnedir. Geleneksel anlamda bir kitap değildir. Kitabın yaprakları Mel'Thandris'in kendisi tarafından kutsanmıştır ve önemli olayları sayfalarına kaydeder.NEW_LINENEW_LINEBunu açıklamak benim için zor. Tapınağa giderseniz, anlayacaksınız.",
     ["Completion"]="Mel'Thandris'in Tome'u tuhaf şekillerde çalışır. Kaydettiği olaylar, gösterdiği olaylar. Kimse yaptığı şeyi neden yaptığını tam olarak anlayamıyor.NEW_LINENEW_LINEYine de, Rahibe Starsong'un aldığı şeyin -bu Elune Tırpanı'nın- daha fazla araştırma gerektirdiği açık.",
@@ -8762,7 +8762,7 @@ QuestTranslator_QuestData = {
     ["1024"] = {
     ["Title"]="Dryad Teslimat",
     ["Description"]="Ah, işte buradasın, YOUR_NAME. Teronis'in tuttuğu notları inceledim ve görünüşe göre bir sonraki adımın Dartol'un çubuğunun diğer parçalarını bulmak olacak.NEW_LINENEW_LINEBen olsam Raynewood Kulesi'ne giden yol boyunca doğuya doğru ilerleyerek başlardım.NEW_LINENEW_LINEOrada Shael'dryn adında bir dryad sana rehberlik etmek için daha uygun. Onu ara.NEW_LINENEW_LINEMücevheri yanında tut - Shael'dryn'un çubuğu yeniden yaratmana yardım etmesi için ona ihtiyacı olacak.",
-    ["Objectives"]="Ashenvale'deki Raynewood Kulesi'nde Shael'dryn ile konuş.",
+    ["Objectives"]="Külvadi'deki Raynewood Kulesi'nde Shael'dryn ile konuş.",
     ["Progress"]="Merhaba. Nasılsınız?",
     ["Completion"]="Seni Raene mi gönderdi? Gerçekten ciddi bir durum olmalı. Size nasıl yardımcı olabilirim?",
     ["minlevel"]="0",
@@ -8772,7 +8772,7 @@ QuestTranslator_QuestData = {
     -- Agresif Bir Savunma
     ["1025"] = {
     ["Title"]="Agresif Bir Savunma",
-    ["Description"]="Ay kuyusuna gitmeden önce yeteneklerinizi test etmek isterseniz Ashenvale halkına yardımcı olacak başka bir görevim var.NEW_LINENEW_LINEFalfarren Nehri'nden önce doğuya giden yol boyunca furbolglar yolculara saldırıyor. İşkence görmüş zihinleri korkuyla besleniyor ve iştahları masumların kanıyla doyuyor.NEW_LINENEW_LINEBu canavarlara bizim türümüze gösterdikleri merhametin aynısını göstererek toprakları korumada Nöbetçilere yardım et.NEW_LINENEW_LINEKamplarının yolun güneyinde olduğuna inanıyorum... dikkatli olun.",
+    ["Description"]="Ay kuyusuna gitmeden önce yeteneklerinizi test etmek isterseniz Külvadi halkına yardımcı olacak başka bir görevim var.NEW_LINENEW_LINEFalfarren Nehri'nden önce doğuya giden yol boyunca furbolglar yolculara saldırıyor. İşkence görmüş zihinleri korkuyla besleniyor ve iştahları masumların kanıyla doyuyor.NEW_LINENEW_LINEBu canavarlara bizim türümüze gösterdikleri merhametin aynısını göstererek toprakları korumada Nöbetçilere yardım et.NEW_LINENEW_LINEKamplarının yolun güneyinde olduğuna inanıyorum... dikkatli olun.",
     ["Objectives"]="Foulweald kabilesinden 1 İn Gözcüsü, 2 Ursa, 10 Totemik ve 12 Savaşçı öldürün ve ardından Astranaar'daki Raene Wolfrunner'a dönün.",
     ["Progress"]="Furbolg her zaman düşmanımız değildi, YOUR_NAME. Ama zaman değişti ve artık bu karanlık ormanda barış zamanı değil.",
     ["Completion"]="İyi iş çıkardın, YOUR_NAME. Teşekkür ederim.",
@@ -8817,7 +8817,7 @@ QuestTranslator_QuestData = {
     ["1029"] = {
     ["Title"]="Raene'ye Geri Dön",
     ["Description"]="Raene'i bulup çubuğun bittiğini haber vermeni öneririm. Eminim bir sonraki rotanızın ne olması gerektiğini biliyordur.NEW_LINENEW_LINEDikkatli ol. İçinde hem iyi hem de kötü yönde büyük bir güç hissediyorum. Umarım sen ve Raene ne yaptığınızı biliyorsunuzdur.NEW_LINENEW_LINEİyi şanslar, YOUR_NAME.",
-    ["Objectives"]="Dartol'un Asası'nı Ashenvale'deki Astranaar'da Raene Wolfrunner'a teslim et.",
+    ["Objectives"]="Dartol'un Asası'nı Külvadi'deki Astranaar'da Raene Wolfrunner'a teslim et.",
     ["Progress"]="",
     ["Completion"]="Teronis'in bulmak için yola çıktığı asayı yeniden mi yarattınız? Bunu duymak harika.NEW_LINENEW_LINETeronis, trajik ölümünden sonra bile arayışının devam ettiğini görmekten gurur duyardı.",
     ["minlevel"]="0",
@@ -8828,7 +8828,7 @@ QuestTranslator_QuestData = {
     ["1030"] = {
     ["Title"]="Dartol'un Asası",
     ["Description"]="Teronis'in bundan sonra aklında ne olduğundan tam olarak emin değilim, ancak çubuğun gücü hakkında söyledikleri doğruysa, o zaman tamamen başka bir forma, muhtemelen bir furbolg formuna girmenize izin verecektir.NEW_LINENEW_LINEBelki de güçlerini onlara yaklaşmak için kullanmak istiyordu ama dikkatli olmazsa bozulmamış yaratıklar bile onu katledebilirdi. Çubuk tarafından dönüştürülen Dartol, bozulmamış bir furbolg ile konuşmak zorunda kalacaktı.NEW_LINENEW_LINEBen olsam Krolg olarak bilinen biriyle başlardım. Mystral Gölü'nün güneydoğusundaki kulübesini ara.",
-    ["Objectives"]="Ashenvale'deki Krolg'un Kulübesinde Krolg ile iletişim kurabilmek için Dartol'un Asasını kullanın.",
+    ["Objectives"]="Külvadi'deki Krolg'un Kulübesinde Krolg ile iletişim kurabilmek için Dartol'un Asasını kullanın.",
     ["Progress"]="",
     ["Completion"]="Evet, evet... Sen benim türümden birisin, ama hala bütünsün. Hala temizsin.NEW_LINENEW_LINEGece elflerinin halkımıza yaptığı zulümden nasıl kurtulduğunu bilmiyorum ama artık yalnız olmadığımı bilmekten memnunum.NEW_LINENEW_LINEYozlaşma artık soyumuzun damarlarında dolaşıyor, genç adam, yozlaşma gururlu gece elfleri tarafından üzerimize getirildi. Bunu halkımıza yapanlar onlar. Kabilemden atıldığım için onları suçluyorum.NEW_LINENEW_LINEGeceleri karanlıkta yanan kamp ateşlerini hâlâ görebiliyorum.",
     ["minlevel"]="0",
@@ -8893,7 +8893,7 @@ QuestTranslator_QuestData = {
     -- Velinde Starsong
     ["1037"] = {
     ["Title"]="Velinde Starsong",
-    ["Description"]="Velinde Starsong benim Ashenvale Ormanı'ndaki selefimdi. İlk başta Felwood'daki durumu kontrol altına almış gibi görünüyordu, ancak çabaları yavaş yavaş azaldı. Bir gün, ortadan kayboldu.NEW_LINEBuraya onun işine devam etmek için gönderildim. Ancak korkarım ki rahibe hakkında hiçbir şey bilmiyorum. Belki de Nöbetçilerin komutanlarından Thyn'tel Bladeweaver onun kayboluşuyla ilgili benim bilmediğim daha fazla ayrıntı biliyordur.NEW_LINENEW_LINEElbette böyle bir bilginin önemini anlayacaktır.",
+    ["Description"]="Velinde Starsong benim Külvadi Ormanı'ndaki selefimdi. İlk başta Felwood'daki durumu kontrol altına almış gibi görünüyordu, ancak çabaları yavaş yavaş azaldı. Bir gün, ortadan kayboldu.NEW_LINEBuraya onun işine devam etmek için gönderildim. Ancak korkarım ki rahibe hakkında hiçbir şey bilmiyorum. Belki de Nöbetçilerin komutanlarından Thyn'tel Bladeweaver onun kayboluşuyla ilgili benim bilmediğim daha fazla ayrıntı biliyordur.NEW_LINENEW_LINEElbette böyle bir bilginin önemini anlayacaktır.",
     ["Objectives"]="Darnassus'taki Savaşçı Terası'nda Thyn'tel Bladeweaver ile konuş.",
     ["Progress"]="",
     ["Completion"]="Velinde Starsong? Rahibenin bir süre önce ortadan kaybolduğu neredeyse herkes tarafından biliniyor. Ayrılışını çevreleyen olaylar hakkında daha fazla ayrıntıya gelince... bu tür bilgileri ifşa etmem için iyi bir neden gerekir.",
@@ -8915,7 +8915,7 @@ QuestTranslator_QuestData = {
     -- Barrens Limanı
     ["1039"] = {
     ["Title"]="Barrens Limanı",
-    ["Description"]="Ratchet, Barrens'taki tek limandır. Büyük ihtimalle Velinde, Ratchet'te kendisini Azeroth'taki Blackwater Cove'a götürecek bir ticaret gemisi buldu. Limanı işleten goblinlerle sınırlı ilişkilerimiz oldu, ancak rıhtımın kaptanı gemi yolcularının geliş ve gidişleri hakkında bilgi sahibi olmalı.NEW_LINENEW_LINEAshenvale'in güneydoğusundaki yolu takip et ve kendini Barrens'te bulacaksın. Adımlarınıza dikkat edin. Horde'un savaşçıları arazide devriye geziyor. Yine de limanda güvende olacaksın.",
+    ["Description"]="Ratchet, Barrens'taki tek limandır. Büyük ihtimalle Velinde, Ratchet'te kendisini Azeroth'taki Blackwater Cove'a götürecek bir ticaret gemisi buldu. Limanı işleten goblinlerle sınırlı ilişkilerimiz oldu, ancak rıhtımın kaptanı gemi yolcularının geliş ve gidişleri hakkında bilgi sahibi olmalı.NEW_LINENEW_LINEKülvadi'in güneydoğusundaki yolu takip et ve kendini Barrens'te bulacaksın. Adımlarınıza dikkat edin. Horde'un savaşçıları arazide devriye geziyor. Yine de limanda güvende olacaksın.",
     ["Objectives"]="Ratchet'te İskele Şefi Dizzywig ile konuş.",
     ["Progress"]="",
     ["Completion"]="YOUR_RACE ha? İtiraf etmeliyim ki, burada sizin gibilere pek rastlamıyoruz. Birini mi arıyorsun? Bana bir dakika verin, eminim defterlerimden birinde yazıyordur.NEW_LINENEW_LINEGerçi buradan çok insan geçiyor, o yüzden bana biraz zaman verin.",
@@ -8981,7 +8981,7 @@ QuestTranslator_QuestData = {
     -- Yeni Bir Süsleme
     ["1045"] = {
     ["Title"]="Yeni Bir Süsleme",
-    ["Description"]="Uzun zaman önce ölmüş olan büyücü Dartol'un asasını gece elfleri ve orkların yaptığı gibi bizi boyunduruk altına almak ve yok etmek için kullanmayı amaçladığından eminim, ama sanırım şimdi o şeyi istenmeyen bir şekilde kullanacağız.NEW_LINENEW_LINERan Bloodtooth tüm Ashenvale furbolglarının kralıdır. Kabilesi Bloodtooth en güçlüleridir ve kendilerini hemen doğudaki bir kampta gözlerden uzak tutarlar.NEW_LINENEW_LINEHepsini öldürün ve kafatasını geri getirin. Bakalım onu iyi kullanabilecek miyiz?",
+    ["Description"]="Uzun zaman önce ölmüş olan büyücü Dartol'un asasını gece elfleri ve orkların yaptığı gibi bizi boyunduruk altına almak ve yok etmek için kullanmayı amaçladığından eminim, ama sanırım şimdi o şeyi istenmeyen bir şekilde kullanacağız.NEW_LINENEW_LINERan Bloodtooth tüm Külvadi furbolglarının kralıdır. Kabilesi Bloodtooth en güçlüleridir ve kendilerini hemen doğudaki bir kampta gözlerden uzak tutarlar.NEW_LINENEW_LINEHepsini öldürün ve kafatasını geri getirin. Bakalım onu iyi kullanabilecek miyiz?",
     ["Objectives"]="Ran Bloodtooth'un Kafatası ve Dartol'un Asası'nı elde edin.",
     ["Progress"]="Ran'ı öldürdün mü dostum?NEW_LINENEW_LINEGece elfleri bile onun gazabını hak etmiyor. Nefreti benimkinden bile daha parlak yanıyor, ama aklı artık kendisine ait değil. O, bu ormandaki tüm doğal yaratıklar için bir tehdit.",
     ["Completion"]="İyi iş çıkardın dostum.NEW_LINENEW_LINEOrman hâlâ lekeli ama en azından onu eski ihtişamına döndürmek için küçük bir rol oynadığımızı biliyoruz. Eğer bana tekrar dönmek istersen, kendi türümün arkadaşlığından keyif alırım.NEW_LINENEW_LINEKendine iyi bak. Belki kabilelerimiz daha az şiddetli zamanlarda tekrar karşılaşır.",
@@ -8994,8 +8994,8 @@ QuestTranslator_QuestData = {
     ["Title"]="Çubuğun Gerçek Gücü",
     ["Description"]="Şimdi asayı al ve gücünü kullanırken kardeşim Ota Wen ile konuş.NEW_LINENEW_LINEOta, orkların yakaladığı ve Silverwind Sığınağı'nın kuzey tarafındaki dev kafese hapsettiği diğer furbolgların arasında. Asa, Ota ve diğer furbolgları ayaklanıp Horde'a saldırmaya ikna etmeni sağlayacak.NEW_LINENEW_LINESonra yolun seni nereye götürürse oraya gidebilirsin. Sadece yaptığın şey için yeni bir arkadaş bulduğunu bil.",
     ["Objectives"]="Dartol'un Asasını kullan ve Ota Wen ile konuş. Onu Horde zalimlerine karşı ayaklanmaya ikna et.",
-    ["Progress"]="Sentineller burada Ashenvale'de ellerinden geleni yapıyorlar, ancak sahip olduğumuz zemini sizin gibi YOUR_RACE sayesinde kazandık.",
-    ["Completion"]="Demek Ashenvale'deki en şiddetli furbolg tehdidinin kafatası bu?NEW_LINENEW_LINEYeteneklerinden çok memnunum, YOUR_NAME. Sentineller sana ne kadar teşekkür etse azdır. Umarım gelecekte de halkımıza yardım etmek için size güvenebiliriz.NEW_LINENEW_LINEBu kafatasını ve Dartol'un Asasını başkalarının görmesi için saygıdeğer bir yere koyacağım.NEW_LINENEW_LINETeronis gurur duyardı. Tekrar teşekkür ederim.",
+    ["Progress"]="Sentineller burada Külvadi'de ellerinden geleni yapıyorlar, ancak sahip olduğumuz zemini sizin gibi YOUR_RACE sayesinde kazandık.",
+    ["Completion"]="Demek Külvadi'deki en şiddetli furbolg tehdidinin kafatası bu?NEW_LINENEW_LINEYeteneklerinden çok memnunum, YOUR_NAME. Sentineller sana ne kadar teşekkür etse azdır. Umarım gelecekte de halkımıza yardım etmek için size güvenebiliriz.NEW_LINENEW_LINEBu kafatasını ve Dartol'un Asasını başkalarının görmesi için saygıdeğer bir yere koyacağım.NEW_LINENEW_LINETeronis gurur duyardı. Tekrar teşekkür ederim.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Çubuğun Gerçek Gücü
@@ -9071,7 +9071,7 @@ QuestTranslator_QuestData = {
     ["Title"]="Tehdidin İtlaf Edilmesi",
     ["Description"]="Astranaar'ın hemen kuzeyinde Thistlefur furbolgları var. Gözcülerim son birkaç ayda sayılarının çok arttığını bildiriyor. Eğer çok büyürlerse, Astranaar'a doğrudan saldıracak cesareti bulabilirler.NEW_LINENEW_LINETürlerinden öldürebildiğin kadarını öldür, ama çabalarının şimdilik bastırıldığının kanıtı olarak bana reislerinin kafatasını getir.NEW_LINENEW_LINEBurada Astranaar'da kalacağım ve senden haber bekleyeceğim. Elune seninle olsun.",
     ["Objectives"]="Dal Bloodclaw'ın Kafatası'nı Astranaar'daki Raene Wolfrunner'a getir.",
-    ["Progress"]="Furbolgların yozlaşması Ashenvale'in eski ihtişamının bir parçasına dönüşmesine neden oldu.",
+    ["Progress"]="Furbolgların yozlaşması Külvadi'in eski ihtişamının bir parçasına dönüşmesine neden oldu.",
     ["Completion"]="Aferin, YOUR_NAME.NEW_LINENEW_LINEFurbolg'un sürekli tehdidi altındayız. Umarım bu onları bir süre daha uzak tutar.",
     ["minlevel"]="0",
     ["questlevel"]="0",
@@ -9248,7 +9248,7 @@ QuestTranslator_QuestData = {
     ["Description"]="Merhaba, YOUR_NAME.NEW_LINENEW_LINEGörünüşe bakılırsa gezme arzusuyla dolusun. Stonetalon Dağları'na hiç gittin mi? Orası Venture Co. ve gece elflerinin diğer düşmanları tarafından rahatsız edilen bir yer.NEW_LINENEW_LINEYakın zamanda, Nöbetçi Wolfrunner arkadaşım Kaela Shadowspear'ı bölgeye neler olduğunu araştırması için oraya gönderdi, ancak ondan henüz bir haber alamadım. Daha da endişeliyim çünkü İttifak onunla birlikte bir gnome büyücüsü gönderdi... bu kesinlikle bir sorun işareti.NEW_LINENEW_LINEOnu bulup bana rapor verir misin?",
     ["Objectives"]="Stonetalon Dağları'ndaki Windshear Kayalığı'na giren vadiye bakan Kaela Shadowspear'ı bulun.",
     ["Progress"]="",
-    ["Completion"]="Thenysil'in emriyle Ashenvale'den gelmişsin -- onu, vatanımı ve dostlarımı nasıl da özledim. Maceracıları başka görevler için ayırdığına göre Nöbetçilerle arası iyi olmalı. Onunla gurur duyuyorum.NEW_LINENEW_LINESeninle tanışmak bir zevk, YOUR_NAME.",
+    ["Completion"]="Thenysil'in emriyle Külvadi'den gelmişsin -- onu, vatanımı ve dostlarımı nasıl da özledim. Maceracıları başka görevler için ayırdığına göre Nöbetçilerle arası iyi olmalı. Onunla gurur duyuyorum.NEW_LINENEW_LINESeninle tanışmak bir zevk, YOUR_NAME.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Stonetalon'da Nöbetçi
@@ -9443,7 +9443,7 @@ QuestTranslator_QuestData = {
     -- Ordanus
     ["1088"] = {
     ["Title"]="Ordanus",
-    ["Description"]="Büyü akışını durdurabileceklerini düşündüler. Yanıldılar. Ordanus'u saklayabileceklerini sandılar ama onun kellesini alacağım!NEW_LINENEW_LINEBüyü bana gerçek görüşü bahşediyor. Evet... işte orada. Bir kavşak. Ashenvale Ormanı'ndaki büyük bir ağacın tepesinde. Bir isim. Raynewood. Orman tanrısının en büyük oğullarından biri. Ben onu bulamadan onu zirveden uzaklaştırdılar, ama zamanı azalıyor.NEW_LINEOnu bana getir ve seninle muazzam bir hediyeyi paylaşayım.",
+    ["Description"]="Büyü akışını durdurabileceklerini düşündüler. Yanıldılar. Ordanus'u saklayabileceklerini sandılar ama onun kellesini alacağım!NEW_LINENEW_LINEBüyü bana gerçek görüşü bahşediyor. Evet... işte orada. Bir kavşak. Külvadi Ormanı'ndaki büyük bir ağacın tepesinde. Bir isim. Raynewood. Orman tanrısının en büyük oğullarından biri. Ben onu bulamadan onu zirveden uzaklaştırdılar, ama zamanı azalıyor.NEW_LINEOnu bana getir ve seninle muazzam bir hediyeyi paylaşayım.",
     ["Objectives"]="Ordanus'un kafasını Güneş Kayası İnzivası yakınındaki Braelyn Firehand'e getir.",
     ["Progress"]="Ustam beni Stonetalon'un zirvesine çağırdığında, tek ihtiyacım olanın kadim Azshara tapınağımızın kutsal kalıntılarında gezinen ve dokunuşlarıyla kutsallığını bozan gece elflerini yerle bir etmek olduğunu sanmıştım... ama Ordanus elimden kaçmıştı.",
     ["Completion"]="Ordanus'u uzun zaman önce tanımıştım. Türünün kibrine sahipti, kendini Highborne'dan bile üstün görüyordu.NEW_LINENEW_LINEBaşı artık o kadar dik değil, değil mi? ?NEW_LINENEW_LINESana bir ödül vaat ettim ve onu alacaksın. Bana kulak ver.",
@@ -9927,7 +9927,7 @@ QuestTranslator_QuestData = {
     -- Althalaxx Kulesi
     ["1140"] = {
     ["Title"]="Althalaxx Kulesi",
-    ["Description"]="Orkların yazıları bir çocuğun karalamalarından biraz daha iyi. Onların dilini öğrenmeyi seçtiğimde emrimdekilerin çoğu alay etti ama düşmanlarımı daha iyi anlamak için bunu faydalı buldum.NEW_LINENEW_LINEIlkrud'un yazdıklarından Athrikus'un hâlâ iki ruhgeme sahip olduğu ve bunların Ashenvale'in kuzeydoğusunda satirlerin elinde bulunan Night Run ve Satyrnaar bölgelerinde tutulduğu anlaşılıyor.NEW_LINENEW_LINEOrada dikkatli ol, YOUR_NAME Satirlerin kana bulanmış tapınakları senin gibi deneyimli bir YOUR_CLASS için bile tedirgin edici olabilir.",
+    ["Description"]="Orkların yazıları bir çocuğun karalamalarından biraz daha iyi. Onların dilini öğrenmeyi seçtiğimde emrimdekilerin çoğu alay etti ama düşmanlarımı daha iyi anlamak için bunu faydalı buldum.NEW_LINENEW_LINEIlkrud'un yazdıklarından Athrikus'un hâlâ iki ruhgeme sahip olduğu ve bunların Külvadi'in kuzeydoğusunda satirlerin elinde bulunan Night Run ve Satyrnaar bölgelerinde tutulduğu anlaşılıyor.NEW_LINENEW_LINEOrada dikkatli ol, YOUR_NAME Satirlerin kana bulanmış tapınakları senin gibi deneyimli bir YOUR_CLASS için bile tedirgin edici olabilir.",
     ["Objectives"]="Gece Koşusu ve Satyrnaar'da kapana kısılmış Highborne ruhlarını serbest bırakın, ardından Maestra'nın Karakolu'ndaki Arındırıcı Delgren'e dönün.",
     ["Progress"]="Bir keresinde satirlerin tarihinin bir şekilde gece elflerinin tarihiyle bağlantılı olduğuna dair fısıltılar duymuştum ama saygıdeğer ev sahiplerimin bu konuda konuşmaktan çekindiklerini gördüm.",
     ["Completion"]="Belki de satirlerin ormanda çok uzun süre kalmasına izin verilmiştir. Bir sonraki Auberdine seyahatimde Elissa ile bu konuyu konuşacağım.NEW_LINENEW_LINEYine de, ruh taşlarının yok edilmesiyle Athrikus'un gücü büyük ölçüde azalacak. Onu ve tarikatını ortadan kaldırmak için bu fırsatı değerlendirmeliyiz.",
@@ -10059,7 +10059,7 @@ QuestTranslator_QuestData = {
     -- İlim Testi
     ["1152"] = {
     ["Title"]="İlim Testi",
-    ["Description"]="Benimle geçireceğin zaman bitmek üzere. Bilgiliyim ama İlim Sınavı'nı ben veremem. Öğrenilecek dersler ve başkalarının üzerinde hak iddia ettiği ziyaret edilecek yerler var.NEW_LINENEW_LINEEğer hazırsan, Braug Dimspirit'i ara, o büyük bilgeliğe sahip bir şamandır. Sizi daha fazla sınayacaktır, bu yüzden sözlerine kulak verin, YOUR_NAME.NEW_LINENEW_LINEHazır olduğunda, Stonetalon Dağları ile Ashenvale'i birbirine bağlayan tüneli bul: Braug oraya yakın bir yerde yaşıyor. Ve dikkatli ol, YOUR_NAME Gece elfleri sınavını engellemek isteyebilir.",
+    ["Description"]="Benimle geçireceğin zaman bitmek üzere. Bilgiliyim ama İlim Sınavı'nı ben veremem. Öğrenilecek dersler ve başkalarının üzerinde hak iddia ettiği ziyaret edilecek yerler var.NEW_LINENEW_LINEEğer hazırsan, Braug Dimspirit'i ara, o büyük bilgeliğe sahip bir şamandır. Sizi daha fazla sınayacaktır, bu yüzden sözlerine kulak verin, YOUR_NAME.NEW_LINENEW_LINEHazır olduğunda, Stonetalon Dağları ile Külvadi'i birbirine bağlayan tüneli bul: Braug oraya yakın bir yerde yaşıyor. Ve dikkatli ol, YOUR_NAME Gece elfleri sınavını engellemek isteyebilir.",
     ["Objectives"]="Braug Dimspirit'i Stonetalon Dağları'ndaki Talondeep Yolu'nun girişinin yakınında bul.",
     ["Progress"]="",
     ["Completion"]="Goblinler topraklara tecavüz ederken ve gece elfleri genç ırkları parmakla gösterirken, günler ve geceler dünyanın her yerinde daha da soğuyor. Kalimdor ve Lordaeron'da yaşanan zorlukların tek sorumlusu Sahipsizler ve orklar değil. Zeki ırkların çoğu dünyanın çektiği acıya katkıda bulunmuştur. Dorn bunu biliyor ve seni bana gönderdi çünkü sen de bunun farkına varmak için gerekli nitelikleri gösteriyorsun.NEW_LINENEW_LINEŞimdi Braug'un önünde duruyorsun.",
@@ -10081,7 +10081,7 @@ QuestTranslator_QuestData = {
     -- İlim Testi
     ["1154"] = {
     ["Title"]="İlim Testi",
-    ["Description"]="Dorn'un testlerini geçtiniz ve şimdi bir sonraki testinizi geçmeye çalışıyorsunuz. Çok iyi. Ama şimdiye kadar meydan okumaların çocukçaydı. Vücudunu test etmek kolay, zihnin ise tamamen başka bir mesele.NEW_LINEBasitçe açıklayacağım: adını verdiğim kitabı bulun, çalışın ve içeriği hakkındaki soruma cevap verin.NEW_LINENEW_LINEHangi kitap diye soruyor olmalısınız? Yönlerin Mirası. Güney Ashenvale'deki Dor'danil'in dibinde, ölü druidler ve onların avcıları tarafından korunuyor.",
+    ["Description"]="Dorn'un testlerini geçtiniz ve şimdi bir sonraki testinizi geçmeye çalışıyorsunuz. Çok iyi. Ama şimdiye kadar meydan okumaların çocukçaydı. Vücudunu test etmek kolay, zihnin ise tamamen başka bir mesele.NEW_LINEBasitçe açıklayacağım: adını verdiğim kitabı bulun, çalışın ve içeriği hakkındaki soruma cevap verin.NEW_LINENEW_LINEHangi kitap diye soruyor olmalısınız? Yönlerin Mirası. Güney Külvadi'deki Dor'danil'in dibinde, ölü druidler ve onların avcıları tarafından korunuyor.",
     ["Objectives"]="Suretlerin Mirası'nı bulun ve Stonetalon Dağları'ndaki Talondeep Yolu'nun girişinin yakınında Braug Dimspirit'e iade edin.",
     ["Progress"]="Kitabı inceledikten sonra bana getir. Kitabı bana verene kadar sana soru sormayacağım.",
     ["Completion"]="Adını verdiğim kitap bu. O halde soruma doğru cevap vereceğinize dair umudum var... tabii içeriğini incelemeyi unutmadıysanız.NEW_LINENEW_LINEHazır olduğunuzda, benimle tekrar konuşun ve ben de size bir soru sorayım.",
@@ -10334,7 +10334,7 @@ QuestTranslator_QuestData = {
     -- Kutsal Alev
     ["1195"] = {
     ["Title"]="Kutsal Alev",
-    ["Description"]="Bin İğne'deki Galak sentorları, sentorların yaratıldığı zamandan kalma bir eseri koruyorlar.NEW_LINENEW_LINEOnu geri almak istiyoruz ama gece elflerinin ay kuyularından birinden bir şişe suya ihtiyacımız var.NEW_LINENEW_LINESuyu toplamak için öncelikle Ashenvale Ormanı'nın kalbindeki Raynewood İnziva Yeri'nin yakınındaki dryadlar tarafından taşınan şişelerden birini edinmeniz gerekecek. Falfarren Nehri'nin batı kıyısında, ana yolun güneyinde, şişeyi doldurabileceğiniz bir ay kuyusu vardır.",
+    ["Description"]="Bin İğne'deki Galak sentorları, sentorların yaratıldığı zamandan kalma bir eseri koruyorlar.NEW_LINENEW_LINEOnu geri almak istiyoruz ama gece elflerinin ay kuyularından birinden bir şişe suya ihtiyacımız var.NEW_LINENEW_LINESuyu toplamak için öncelikle Külvadi Ormanı'nın kalbindeki Raynewood İnziva Yeri'nin yakınındaki dryadlar tarafından taşınan şişelerden birini edinmeniz gerekecek. Falfarren Nehri'nin batı kıyısında, ana yolun güneyinde, şişeyi doldurabileceğiniz bir ay kuyusu vardır.",
     ["Objectives"]="Thunder Bluff'taki Zangen Stonehoof'a bir Dolu Kazınmış Phial iade et.",
     ["Progress"]="Şişeyi doldurduktan sonra Bin İğne'deki ortağım Rau'ya gönderebiliriz. Su şişesini isteyen oydu, bu yüzden onu nasıl kullanabileceğimizi daha iyi bilecektir.",
     ["Completion"]="Çok iyi. Bu Rau'nun isteğini karşılayacaktır. Bunu ona ulaştırabilir misin? Needles'da biraz zaman geçirmek hoşuna gidebilir.",
@@ -10576,7 +10576,7 @@ QuestTranslator_QuestData = {
     -- Yozlaşmayı Araştırmak
     ["1275"] = {
     ["Title"]="Yozlaşmayı Araştırmak",
-    ["Description"]="Aptal blood elf'ler demonik büyüyle uğraşıp duruyorlar. Kalimdor'un naga'larına ve satyr'lerine ne olduğunu hiç görmediler mi?NEW_LINENEW_LINEKorkarım ki blood elf'ler de benzer bir deformasyonla karşı karşıya kalacaklar. Azeroth, iğrenç bir canavar ırkının daha doğmasını kaldıramaz.NEW_LINENEW_LINEElf'lerin nasıl bir kadere doğru sürüklendiğini anlamak için satyr ve naga'ların beyin saplarını incelemek istiyorum. Ashenvale kıyısındaki Blackfathom Deeps'te hem satyr hem de naga bulabilirsin.NEW_LINENEW_LINEBu uzun bir yolculuk, YOUR_NAME.",
+    ["Description"]="Aptal blood elf'ler demonik büyüyle uğraşıp duruyorlar. Kalimdor'un naga'larına ve satyr'lerine ne olduğunu hiç görmediler mi?NEW_LINENEW_LINEKorkarım ki blood elf'ler de benzer bir deformasyonla karşı karşıya kalacaklar. Azeroth, iğrenç bir canavar ırkının daha doğmasını kaldıramaz.NEW_LINENEW_LINEElf'lerin nasıl bir kadere doğru sürüklendiğini anlamak için satyr ve naga'ların beyin saplarını incelemek istiyorum. Külvadi kıyısındaki Blackfathom Deeps'te hem satyr hem de naga bulabilirsin.NEW_LINENEW_LINEBu uzun bir yolculuk, YOUR_NAME.",
     ["Objectives"]="Auberdine'deki Gershala Nightwhisper, 8 adet Corrupted Brain Stem istiyor.",
     ["Progress"]="İncelemek için yeterli örneğe sahip olduğumda, asıl çalışmam başlayabilir. Blackfathom Deeps'teki hem satyr hem de naga'ların Corrupted Brain Stem'leri ile mutasyonlar arasında bir ilişki kurmaya çalışabilirim.NEW_LINENEW_LINEBelki de bu edinilen bilgiyle, blood elf'lerin deformasyonun ve kötülüğün daha da derinlerine inmesini engelleyebiliriz.",
     ["Completion"]="Uzaklara seyahat ettin ve şüphesiz büyük tehlikelerle karşılaştın.NEW_LINENEW_LINEDavranışların bencilce değildi. Araştırmama yardım etmen tüm Azeroth'un iyiliği içindir. Yaptığın her şey için sana teşekkür ederim, YOUR_NAME.NEW_LINENEW_LINEŞimdi izninle, yapacak çok işim var...",
@@ -11027,7 +11027,7 @@ QuestTranslator_QuestData = {
     -- Kor Mücevherini Aramak
     ["1442"] = {
     ["Title"]="Kor Mücevherini Aramak",
-    ["Description"]="Selamlar, YOUR_NAME. Kutsal bir yol izleyen biri için ne yapabilirim?NEW_LINENEW_LINEAh, evet, Stilwell, demirci... uzun zaman önce. Onu iyi hatırlıyorum, yine de bir süredir adını duymamıştım.NEW_LINENEW_LINEBana hiçbir zaman küstah bir adam gibi gelmedi, bu yüzden sadece Kor mücevherine olan arzusunun asil olduğunu varsayabilirim.NEW_LINENEW_LINEEğer mücevherlerden birini gerçekten istiyorsan, Ashenvale'in kuzeybatısına gitmelisin. Orada bazı antik kalıntıların içinde Blackfathom Deeps'i bulacaksın. Hâlâ mücevherleri kullanan nagalar aşağıda. Yalnız gitme, YOUR_CLASS.",
+    ["Description"]="Selamlar, YOUR_NAME. Kutsal bir yol izleyen biri için ne yapabilirim?NEW_LINENEW_LINEAh, evet, Stilwell, demirci... uzun zaman önce. Onu iyi hatırlıyorum, yine de bir süredir adını duymamıştım.NEW_LINENEW_LINEBana hiçbir zaman küstah bir adam gibi gelmedi, bu yüzden sadece Kor mücevherine olan arzusunun asil olduğunu varsayabilirim.NEW_LINENEW_LINEEğer mücevherlerden birini gerçekten istiyorsan, Külvadi'in kuzeybatısına gitmelisin. Orada bazı antik kalıntıların içinde Blackfathom Deeps'i bulacaksın. Hâlâ mücevherleri kullanan nagalar aşağıda. Yalnız gitme, YOUR_CLASS.",
     ["Objectives"]="Darkshore'daki Thundris Windweaver'a bir Kor Mücevheri getir.",
     ["Progress"]="Kutsal yolda olmayan biri gelip bir Kor mücevheri sorsa ona daha az güvenirdim. Ama sizin türünüze bazı akrabalarımdan daha çok güveniyorum. Düşmüş türünüzden sadece birinin yaptıklarına bakarak tüm düzeninizi yargılamam.",
     ["Completion"]="Stilwell'in istediği mücevher gerçekten de bu, ama ona götürmene izin vermeden önce yozlaşmadan arındırılması gerekiyor - naga cadıları mücevherlere güç aşılarlar, bu doğru, ama kendi şeytani türlerinden.NEW_LINENEW_LINEStilwell'e gücünün sağlam olduğunu ve hangi ritüelin parçası olmasını istiyorsa o ritüelde işe yarayacağını söyle.NEW_LINENEW_LINEUmarım ne yaptığını biliyorsundur, YOUR_CLASS Bu sahip olduğun basit bir eşya değil.",
@@ -11654,8 +11654,8 @@ QuestTranslator_QuestData = {
     -- Suyun Çağrısı
     ["1534"] = {
     ["Title"]="Suyun Çağrısı",
-    ["Description"]="Bu su tulumunu al ve gece elflerinin Ashenvale dediği yemyeşil ormanın derinliklerine git. Barrens'in en kuzeyinde.NEW_LINENEW_LINEOrmana girdikten sonra batıya doğru ilerleyin. Stonetalon ve Ashenvale'i ayıran dağlar boyunca ve Mystral Gölü'nün ötesinde kutsal bir yer bulacaksınız: Yıldız Tozu Harabeleri. Gölün ortasında küçük bir çeşme bulacaksınız.NEW_LINENEW_LINEBana çeşmenin suyundan bir örnek getir. Seni Islen'e geri göndermeden önce ihtiyacın olan son bileşen olacak.",
-    ["Objectives"]="Ashenvale'deki Stardust Harabeleri'ndeki Boş Mavi Su Tulumunu doldurun ve Barrens'teki Brine'a dönün.",
+    ["Description"]="Bu su tulumunu al ve gece elflerinin Külvadi dediği yemyeşil ormanın derinliklerine git. Barrens'in en kuzeyinde.NEW_LINENEW_LINEOrmana girdikten sonra batıya doğru ilerleyin. Stonetalon ve Külvadi'i ayıran dağlar boyunca ve Mystral Gölü'nün ötesinde kutsal bir yer bulacaksınız: Yıldız Tozu Harabeleri. Gölün ortasında küçük bir çeşme bulacaksınız.NEW_LINENEW_LINEBana çeşmenin suyundan bir örnek getir. Seni Islen'e geri göndermeden önce ihtiyacın olan son bileşen olacak.",
+    ["Objectives"]="Külvadi'deki Stardust Harabeleri'ndeki Boş Mavi Su Tulumunu doldurun ve Barrens'teki Brine'a dönün.",
     ["Progress"]="Suyun var mı, YOUR_NAME ? Masallar, kalıntıların ziyaretçileri umursamayan büyük doğa yaratıkları tarafından korunduğunu söylüyor, ancak bunlar gece elflerinin düşmanlarını korkutmak için efsaneler olabilir.NEW_LINENEW_LINENe olursa olsun, dikkatli olun.",
     ["Completion"]="Harika, YOUR_NAME. Toplanan üç örnekle, sizin için yaşayan herhangi bir canlının bulabileceği en saf sudan bir şişe yaratabilirim. Geçiş töreninin sonraki adımlarında kullanılacak.NEW_LINENEW_LINESeni türümüzden saydığıma memnunum, YOUR_NAME. Hepimizi gururlandırıyorsun ve gelecekteki maceralarını duymak için sabırsızlanıyorum.",
     ["minlevel"]="0",
@@ -12343,8 +12343,8 @@ QuestTranslator_QuestData = {
     -- Heartswood
     ["1738"] = {
     ["Title"]="Heartswood",
-    ["Description"]="Gelişinize hazırlanırken, görüşümü kullanarak dünyaya ve zamanın sislerine baktım. Aradığın şeyi buldum.NEW_LINENEW_LINEKadimlerin Savaşı'nda, iki aşık savaşta birbirine düştü. Son nefeslerini verdikleri yerde, ölümsüz aşklarının sembolü olarak kalp ağacı olarak bilinen bir ağaç büyüdü.NEW_LINENEW_LINEBu bir succubus'u baştan çıkarmak için yeterli olmalı. Onu Ashenvale ormanının kuzeybatı kısmındaki Ordil'Aran harabelerinde bulacaksın.",
-    ["Objectives"]="Ashenvale'den Heartswood'u alın ve Stormwind'in Büyücü Mahallesi'ndeki Karanlıkbağlayıcı Gakin'e götürün.",
+    ["Description"]="Gelişinize hazırlanırken, görüşümü kullanarak dünyaya ve zamanın sislerine baktım. Aradığın şeyi buldum.NEW_LINENEW_LINEKadimlerin Savaşı'nda, iki aşık savaşta birbirine düştü. Son nefeslerini verdikleri yerde, ölümsüz aşklarının sembolü olarak kalp ağacı olarak bilinen bir ağaç büyüdü.NEW_LINENEW_LINEBu bir succubus'u baştan çıkarmak için yeterli olmalı. Onu Külvadi ormanının kuzeybatı kısmındaki Ordil'Aran harabelerinde bulacaksın.",
+    ["Objectives"]="Külvadi'den Heartswood'u alın ve Stormwind'in Büyücü Mahallesi'ndeki Karanlıkbağlayıcı Gakin'e götürün.",
     ["Progress"]="Araman başarılı oldu mu, YOUR_NAME ?",
     ["Completion"]="Evet, bunun güzel olacağını söyleyebilirim, bir an için bununla çalışmama izin verin...NEW_LINENEW_LINETakar etrafta olması gereken becerikli bir adam, değil mi? Keşke onu medeniyete geri dönmeye ikna edebilseydim.",
     ["minlevel"]="0",
@@ -12816,10 +12816,10 @@ QuestTranslator_QuestData = {
     -- Satir Toynakları
     ["1842"] = {
     ["Title"]="Satir Toynakları",
-    ["Description"]="Sana bir çift acımasız eldiven yapabilirim ve bu eldivenler büyük bir büyü barındıracak. Ama önce, bu büyüyü toplamalı ve bana getirmelisin.NEW_LINENEW_LINESatirler, ormanın gücü nedeniyle kuzeydoğu Ashenvale'de yaşarlar. Ormanın saflığından beslenir, onu emer ve yozlaştırırlar. Hangi satirlerin Ashenvale'in büyüsünden en çok nasibini aldığını şişmiş, örülmemiş toynaklarından anlayabilirsin.NEW_LINENEW_LINEBu toynaklar büyük bir güce sahip. Eldivenlerinin yapımı için onlara ihtiyacım olacak.",
+    ["Description"]="Sana bir çift acımasız eldiven yapabilirim ve bu eldivenler büyük bir büyü barındıracak. Ama önce, bu büyüyü toplamalı ve bana getirmelisin.NEW_LINENEW_LINESatirler, ormanın gücü nedeniyle kuzeydoğu Külvadi'de yaşarlar. Ormanın saflığından beslenir, onu emer ve yozlaştırırlar. Hangi satirlerin Külvadi'in büyüsünden en çok nasibini aldığını şişmiş, örülmemiş toynaklarından anlayabilirsin.NEW_LINENEW_LINEBu toynaklar büyük bir güce sahip. Eldivenlerinin yapımı için onlara ihtiyacım olacak.",
     ["Objectives"]="Durotar'daki Sen'jin Köyü'nde bulunan Ula'elek'e 7 Dokusuz Satir Toynağı getir.",
     ["Progress"]="Toynakların var mı, YOUR_NAME ? İçlerindeki sihir çok güçlü.",
-    ["Completion"]="Ah, onları almışsın! Şimdi, tıpkı Satirlerin Ashenvale'in gücünü emdiği gibi, ben de bu toynakların içindeki gücü emeceğim ve onu işçiliğimde kullanacağım...",
+    ["Completion"]="Ah, onları almışsın! Şimdi, tıpkı Satirlerin Külvadi'in gücünü emdiği gibi, ben de bu toynakların içindeki gücü emeceğim ve onu işçiliğimde kullanacağım...",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Satir Toynakları
@@ -13048,7 +13048,7 @@ QuestTranslator_QuestData = {
     ["1918"] = {
     ["Title"]="Kirlenmiş Unsur",
     ["Description"]="Öldürülen elemental yoğun bir şekilde parlayan bir su küresi üretti. Kürenin içindekiler en iyi ihtimalle iğrenç. Mystral Gölü'nün suyunu kirleten şeyin büyük olasılıkla kürenin suyunda da mevcut olduğunu varsaymak güvenli olacaktır.NEW_LINENEW_LINEBöyle bir buluntuyla kimin ilgilenebileceği tam olarak bilinmiyor; belki Splintertree Post'taki Mastok Wrilehiss'in bir fikri olabilir.",
-    ["Objectives"]="Kirlenmiş Su Küresini Splintertree Post, Ashenvale'deki Mastok Wrilehiss'e getirin.",
+    ["Objectives"]="Kirlenmiş Su Küresini Splintertree Post, Külvadi'deki Mastok Wrilehiss'e getirin.",
     ["Progress"]="Evet, neye ihtiyacın var?",
     ["Completion"]="Kötü bir su topu buldun ve onu bana getirmeye mi karar verdin? Kimim ben, Toprak Yüzük falan mı?NEW_LINENEW_LINEAslında bu bana bir fikir verdi... belki de bunun için Toprak Yüzük'e ihtiyacın vardır. Demek istediğim, eğer göldeki durumu tamamen temizlemeye yardımcı olacaksa, o zaman ben de varım.NEW_LINENEW_LINEToprak Yüzük'ün kim olduğunu biliyorsun, YOUR_NAME ?",
     ["minlevel"]="0",
@@ -13157,7 +13157,7 @@ QuestTranslator_QuestData = {
     -- Xavian'ın Suları
     ["1944"] = {
     ["Title"]="Xavian'ın Suları",
-    ["Description"]="Efsanevi Xavian şehri Ashenvale'in doğusunun derinliklerinde yer alır ve kadim bilgilerine dair hikâyeler bilgili kişiler arasında iyi bilinir. Xavian'ın sularının muazzam büyülü güçlere sahip olduğu söylenir.NEW_LINENEW_LINEBu suların kaynağından bir örnek almak isterdim.NEW_LINENEW_LINEBu şişeyi al ve Xavian'a git. En yüksek şelalenin dibinden su topla ve bana geri dön. Ve o kadim şehirden geçerken dikkatli ol - satirler artık harabeleri ellerinde tutuyor ve büyücülerin işlerine burnunu sokmasından hoşlanmıyorlar.",
+    ["Description"]="Efsanevi Xavian şehri Külvadi'in doğusunun derinliklerinde yer alır ve kadim bilgilerine dair hikâyeler bilgili kişiler arasında iyi bilinir. Xavian'ın sularının muazzam büyülü güçlere sahip olduğu söylenir.NEW_LINENEW_LINEBu suların kaynağından bir örnek almak isterdim.NEW_LINENEW_LINEBu şişeyi al ve Xavian'a git. En yüksek şelalenin dibinden su topla ve bana geri dön. Ve o kadim şehirden geçerken dikkatli ol - satirler artık harabeleri ellerinde tutuyor ve büyücülerin işlerine burnunu sokmasından hoşlanmıyorlar.",
     ["Objectives"]="Xavian Su Örneğini Orgrimmar'daki Deino'ya getir.",
     ["Progress"]="Sağ salim dönmene sevindim, YOUR_NAME. Su örneği sizde mi? Özelliklerini incelemek için sabırsızlanıyorum.",
     ["Completion"]="Ah, çok iyi. Umarım Xavian'ın satirleri sana biraz sorun çıkarmıştır?NEW_LINENEW_LINETeşekkür ederim, YOUR_NAME. Bu Xavian suyu örneğini hemen inceleyeceğim.",
@@ -13168,7 +13168,7 @@ QuestTranslator_QuestData = {
     -- Gülen Kız Kardeşler
     ["1945"] = {
     ["Title"]="Gülen Kız Kardeşler",
-    ["Description"]="Hizmetleriniz karşılığında, gerekli malzemeleri toplayabilmeniz koşuluyla, yeni cübbelerinizin yapımını ayarladım...NEW_LINENEW_LINEBu cübbeler için Ashenvale'e dönüp Raynewood İnziva Yeri yakınlarında toplanan gülüşlü kız kardeşlerden -dryadlardan- saç bukleleri almalısın.NEW_LINENEW_LINEOnların saçlarını aldığında, Barrens'teki Kavşak'ta bir trol terzisi olan Kil'hala'ya getir. Sizi bekliyor olacak ve cübbelerinizi dikecek.",
+    ["Description"]="Hizmetleriniz karşılığında, gerekli malzemeleri toplayabilmeniz koşuluyla, yeni cübbelerinizin yapımını ayarladım...NEW_LINENEW_LINEBu cübbeler için Külvadi'e dönüp Raynewood İnziva Yeri yakınlarında toplanan gülüşlü kız kardeşlerden -dryadlardan- saç bukleleri almalısın.NEW_LINENEW_LINEOnların saçlarını aldığında, Barrens'teki Kavşak'ta bir trol terzisi olan Kil'hala'ya getir. Sizi bekliyor olacak ve cübbelerinizi dikecek.",
     ["Objectives"]="Kil'hala at the Crossroads'a 12 Gülen Kız Kardeşin Saçlarını getirin.",
     ["Progress"]="Selamlar, YOUR_NAME. Deino geleceğini ve gülen kız kardeşlerin saçını getireceğini söyledi. Getirdin mi?",
     ["Completion"]="Ah, bu saçlar ince bir cübbeye dönüşecek, YOUR_NAME. Ne yazık ki gülen kız kardeşler bundan ayrılmak için ölmek zorunda kaldılar, yine de isteyerek vereceklerinden şüpheliyim.NEW_LINENEW_LINEYazık, ama sadece küçük bir tane.",
@@ -15648,7 +15648,7 @@ QuestTranslator_QuestData = {
     -- Runed Scroll
     ["3513"] = {
     ["Title"]="Runed Scroll",
-    ["Description"]="Resmi görünümlü parşömen gümüşi bir kurdeleyle sıkıca sarılmış. Birinin bunu görmek isteyeceğinden eminsiniz, ama kim?NEW_LINENEW_LINEKuzeydeki Ashenvale sınırına yakın bir karakol var ve eğer bu parşömende gece elfleriyle ilgili bir bilgi varsa, götürülecek yer burası olmalı.",
+    ["Description"]="Resmi görünümlü parşömen gümüşi bir kurdeleyle sıkıca sarılmış. Birinin bunu görmek isteyeceğinden eminsiniz, ama kim?NEW_LINENEW_LINEKuzeydeki Külvadi sınırına yakın bir karakol var ve eğer bu parşömende gece elfleriyle ilgili bir bilgi varsa, götürülecek yer burası olmalı.",
     ["Objectives"]="Runed Scroll'u Barrens'teki kuzey muhafız kulesine götür.",
     ["Progress"]="Neyin var?",
     ["Completion"]="Pekala. Bunu nereden buldun?",
@@ -16187,7 +16187,7 @@ QuestTranslator_QuestData = {
     -- Bir Balçık Örneği...
     ["4293"] = {
     ["Title"]="Bir Balçık Örneği...",
-    ["Description"]="Felwood, Barrens'ın çok kuzeyinde, Ashenvale'den bile daha uzakta bir ormandır. Orada, Fel'in dokunuşuyla kutsanmış su havuzlarının etrafında sümüklüböcekler bulunur. Bela, bölgeyi İnfernallerin ve diğer şeytani büyülerin saldırılarıyla yok etti - sümüklüböceklerin bu saldırılar sırasında topraktan süzüldüğü varsayılıyor.NEW_LINENEW_LINEFelwood sümüklüböceklerinden örnekler toplayın ve yanımdaki test ekipmanını kullanarak topladığınız diğer örneklere karşı testlerimiz için bir kontrol grubu oluşturacağız.",
+    ["Description"]="Felwood, Barrens'ın çok kuzeyinde, Külvadi'den bile daha uzakta bir ormandır. Orada, Fel'in dokunuşuyla kutsanmış su havuzlarının etrafında sümüklüböcekler bulunur. Bela, bölgeyi İnfernallerin ve diğer şeytani büyülerin saldırılarıyla yok etti - sümüklüböceklerin bu saldırılar sırasında topraktan süzüldüğü varsayılıyor.NEW_LINENEW_LINEFelwood sümüklüböceklerinden örnekler toplayın ve yanımdaki test ekipmanını kullanarak topladığınız diğer örneklere karşı testlerimiz için bir kontrol grubu oluşturacağız.",
     ["Objectives"]="Felwood'daki herhangi bir balçıktan Felwood Balçık Örnekleri toplayın. Ardından, Undercity'de Kimyager Fuely'nin yanındaki Test Ekipmanını kullanarak hangi numunelerinizin en bozuk olduğuna bakın. Bulduğunuz Bozuk Felwood Örneklerinden 5 tanesini Kimyager Fuely'ye getirin.",
     ["Progress"]="Kontrol grubumuz için en az beş bozuk örneğe ihtiyacım olacak, YOUR_NAME. İhtiyacımız olanı bana verebilene kadar Felwood balçık örnekleri toplamaya devam et. Leydi Sylvanas emrediyor.",
     ["Completion"]="Ah, mükemmel. Bu örnekler işimizi görecektir. Yardımınız için teşekkür ederim.NEW_LINENEW_LINETüm sümüklüböcek örneklerini topladıktan sonra, daha fazlasını belirleyebileceğiz. Leydi Sylvanas'ın önsezisinin sadece doğru değil, aynı zamanda onun bile tahmin edebileceğinden daha anlayışlı olduğundan şüphelenmeye başlıyorum. Bu örnekler çok ilginç. Bileşiklerimle nasıl tepki verdiklerini görmek bile... hmm, evet, kesinlikle daha fazla araştırmamız gerekecek.",
@@ -16396,10 +16396,10 @@ QuestTranslator_QuestData = {
     -- Kayneth Stillwind
     ["4581"] = {
     ["Title"]="Kayneth Stillwind",
-    ["Description"]="Druid Kayneth Stillwind bana haber gönderdi. Kıyılarımızda ve Astranaar'ı çevreleyen ormanlarda olup bitenlerle ilgili bir rapor istiyor. Ashenvale'de bir yozlaşma olmasından korkuyor... ve haklı da olabilir.NEW_LINENEW_LINEİşte, raporumu ona götür. Onu doğudaki Nightsong Ormanı'ndaki Orman Şarkısı Tapınağı'nda bulacaksın.",
+    ["Description"]="Druid Kayneth Stillwind bana haber gönderdi. Kıyılarımızda ve Astranaar'ı çevreleyen ormanlarda olup bitenlerle ilgili bir rapor istiyor. Külvadi'de bir yozlaşma olmasından korkuyor... ve haklı da olabilir.NEW_LINENEW_LINEİşte, raporumu ona götür. Onu doğudaki Nightsong Ormanı'ndaki Orman Şarkısı Tapınağı'nda bulacaksın.",
     ["Objectives"]="Shindrell'in Orman Şarkısı'nda Kayneth Stillwind'e yazdığı notu ele alalım.",
     ["Progress"]="Benim için bir şeyiniz var mı?",
-    ["Completion"]="Ah, Shindrell'in raporu! Çok teşekkürler, YOUR_NAME. Shindrell iyi bir nöbetçi, cesur ve keskin. Ashenvale'de ilerlemesinden korktuğum bir kötülüğün ipuçlarını bulmak için bunu okumalıyım.",
+    ["Completion"]="Ah, Shindrell'in raporu! Çok teşekkürler, YOUR_NAME. Shindrell iyi bir nöbetçi, cesur ve keskin. Külvadi'de ilerlemesinden korktuğum bir kötülüğün ipuçlarını bulmak için bunu okumalıyım.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Kayneth Stillwind
@@ -16586,7 +16586,7 @@ QuestTranslator_QuestData = {
     ["Description"]="Kıyı şeridinde bir başka deniz kaplumbağası kalıntısı daha bulunmaktadır. Bu kalıntı kümesinde kaplumbağanın kabuğuna yarıya kadar bağlanmış terk edilmiş bir araba bulunmaktadır. Belki de bu yaratık, diğer bazı kalıntıların önerdiği gibi kendi kendine karaya vurmak yerine bilinmeyen varlıklar tarafından kıyı şeridine sürüklenmiştir. Güçlü Greymist murloclar bu yaratığın leşini şu anki evleri haline getirmişlerdir.NEW_LINENEW_LINEArabada, üzerinde garip işaretler olan bir kutu buluyorsunuz; belki Auberdine'deki Gwennyth Bly'Leggonde bunu anlamlandırabilir.",
     ["Objectives"]="Garip İşaretli Kutu'yu Auberdine'deki Gwennyth Bly'Leggonde'a götür.",
     ["Progress"]="Tekrar merhaba, YOUR_NAME. Ay Tapınağı adına yaptığınız çalışmalar olağanüstü. Bizim adımıza daha fazla çabanızla kutsanacak mıyız?",
-    ["Completion"]="Kaplumbağanın sırtında ne tür arabalar bulunduğunu duymuştum. Bunların naga arabaları olduğuna inanıyorum, hem savaşta hem de erzaklarını karaya taşımak için kullanılırlar. Bulduğunuz kutunun üzerindeki işaretler naga'ya ait; belki de bulduğunuz yaratık daha güneye giderken öldürülmüştür... Ashenvale'e belki?NEW_LINENEW_LINEBu kutuyu diğer keşiflerinizle birlikte Darnassus'a göndereceğimden emin olabilirsiniz. Bu sizin için - yardımlarınız için tekrar teşekkür ederim.",
+    ["Completion"]="Kaplumbağanın sırtında ne tür arabalar bulunduğunu duymuştum. Bunların naga arabaları olduğuna inanıyorum, hem savaşta hem de erzaklarını karaya taşımak için kullanılırlar. Bulduğunuz kutunun üzerindeki işaretler naga'ya ait; belki de bulduğunuz yaratık daha güneye giderken öldürülmüştür... Külvadi'e belki?NEW_LINENEW_LINEBu kutuyu diğer keşiflerinizle birlikte Darnassus'a göndereceğimden emin olabilirsiniz. Bu sizin için - yardımlarınız için tekrar teşekkür ederim.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Karaya Vurmuş Deniz Kaplumbağası
@@ -17243,8 +17243,8 @@ QuestTranslator_QuestData = {
     -- Uyuyan Uyandı
     ["5321"] = {
     ["Title"]="Uyuyan Uyandı",
-    ["Description"]="Liladris Moonriver ile buluşmak için Maestra'nın Karakolu'na gidiyordum ama burada durup kısa bir şekerleme yapmaya karar verdim. Zümrüt rüyadan uyandığımdan beri çok uykum var...NEW_LINENEW_LINE<yawn>NEW_LINENEW_LINEBana yolu gösterebilir misiniz? Anladığım kadarıyla Maestra'nın Karakolu buranın güneyinde, Ashenvale'deki yol boyunca uzanıyor. Tehlikeli olabilir, bu yüzden umarım bize katılacak arkadaşlarınız vardır.NEW_LINENEW_LINESon olarak, uyuyakalabilirim, bu yüzden beni uyandırmanız gerekirse, lütfen boynuzumu kullanın. Onu buradaki sandıkta bulabilirsin.",
-    ["Objectives"]="Kerlonian Evershade'e Ashenvale'deki Maestra Karakolu'nda Liladris Moonriver'a kadar eşlik edin.",
+    ["Description"]="Liladris Moonriver ile buluşmak için Maestra'nın Karakolu'na gidiyordum ama burada durup kısa bir şekerleme yapmaya karar verdim. Zümrüt rüyadan uyandığımdan beri çok uykum var...NEW_LINENEW_LINE<yawn>NEW_LINENEW_LINEBana yolu gösterebilir misiniz? Anladığım kadarıyla Maestra'nın Karakolu buranın güneyinde, Külvadi'deki yol boyunca uzanıyor. Tehlikeli olabilir, bu yüzden umarım bize katılacak arkadaşlarınız vardır.NEW_LINENEW_LINESon olarak, uyuyakalabilirim, bu yüzden beni uyandırmanız gerekirse, lütfen boynuzumu kullanın. Onu buradaki sandıkta bulabilirsin.",
+    ["Objectives"]="Kerlonian Evershade'e Külvadi'deki Maestra Karakolu'nda Liladris Moonriver'a kadar eşlik edin.",
     ["Progress"]="Kerlonian geldi mi?",
     ["Completion"]="Kerlonian başardığı için çok mutluyum! Ve eminim onu buralarda bir yerde uyurken bulacağım, değil mi?NEW_LINENEW_LINEOna yolu gösterdiğin için teşekkürler, YOUR_NAME.",
     ["minlevel"]="0",
@@ -17893,7 +17893,7 @@ QuestTranslator_QuestData = {
     ["5713"] = {
     ["Title"]="Tek Atış. One Kill.",
     ["Description"]="Furbolg Marosh ve izcileri tarafından saldırıya uğradığımda önemli bir mesajla Lor'danel'e seyahat ediyordum. Saldırı sırasında zehirlendim ve ayakta zor duruyorum. Bir panzehir yapabilirim ama hazır olması zaman alacak.NEW_LINENEW_LINEBen panzehiri uygulayana kadar beni korumanı istiyorum. Elimden geldiğince yayımla sana yardım edeceğim.NEW_LINENEW_LINEHayatta kalırsak, ben Lor'danel'e mesajımı iletirken, sen de Maestra'nın Karakolu'nda Onaeya ile konuşup onu bu olaydan haberdar edebilirsin.",
-    ["Objectives"]="Nöbetçi Aynasha'yı koru, sonra Ashenvale'deki Maestra'nın Karakolu'nda Onaeya ile konuş.",
+    ["Objectives"]="Nöbetçi Aynasha'yı koru, sonra Külvadi'deki Maestra'nın Karakolu'nda Onaeya ile konuş.",
     ["Progress"]="Nöbetçi Aynasha'yı yolda gördünüz mü? Önemli bir görev için ayrıldı ama henüz dönmedi.",
     ["Completion"]="Çok hoş haberler getirdin YOUR_CLASS. Aynasha'nın senin sayende hayatta ve iyi olduğunu duymak çok güzel. Cesaretiniz için bir ödül kabul edebileceğinizi umuyorum. Elune seni izlesin ve yolunu aydınlatsın.",
     ["minlevel"]="0",
@@ -17991,10 +17991,10 @@ QuestTranslator_QuestData = {
     -- Gizli Düşmanlar
     ["5730"] = {
     ["Title"]="Gizli Düşmanlar",
-    ["Description"]="Sen benim teğmenlerimden birisin! Kendini hazırla, YOUR_CLASS. Yakında seni çağıracağım.NEW_LINENEW_LINESearing Blade'de harcadığım zaman artık boşa gitmiş olabilir, ancak bu Gölge Konseyi'nin başka yerlerdeki planlarının zarar görmesi gerektiği anlamına gelmez. Ragefire Chasm'daki hasarı en aza indirmek için elimden geleni yapacağım. Bu arada, Barrens ve Ashenvale'deki ajanlarımın yeni gündemimiz üzerinde çalışmaya başlamalarını sağlayacağım. Yakında bana dönün.",
+    ["Description"]="Sen benim teğmenlerimden birisin! Kendini hazırla, YOUR_CLASS. Yakında seni çağıracağım.NEW_LINENEW_LINESearing Blade'de harcadığım zaman artık boşa gitmiş olabilir, ancak bu Gölge Konseyi'nin başka yerlerdeki planlarının zarar görmesi gerektiği anlamına gelmez. Ragefire Chasm'daki hasarı en aza indirmek için elimden geleni yapacağım. Bu arada, Barrens ve Külvadi'deki ajanlarımın yeni gündemimiz üzerinde çalışmaya başlamalarını sağlayacağım. Yakında bana dönün.",
     ["Objectives"]="Orgrimmar'da Thrall ile konuşun ve ona öğrendiklerinizi anlatın.",
     ["Progress"]="",
-    ["Completion"]="Ashenvale mi? Hmm, Ashenvale'de Konsey'in ya da Yanan Bıçak'ın varlığını duymamıştım. Casuslarım araştıracak, YOUR_NAME. İyi iş çıkardın.NEW_LINENEW_LINEŞimdilik dinlen ve kendini başka işlerle meşgul et. Yakında seni tekrar çağıracağım.NEW_LINENEW_LINELok-Tar Ogar!",
+    ["Completion"]="Külvadi mi? Hmm, Külvadi'de Konsey'in ya da Yanan Bıçak'ın varlığını duymamıştım. Casuslarım araştıracak, YOUR_NAME. İyi iş çıkardın.NEW_LINENEW_LINEŞimdilik dinlen ve kendini başka işlerle meşgul et. Yakında seni tekrar çağıracağım.NEW_LINENEW_LINELok-Tar Ogar!",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Gizli Düşmanlar
@@ -18564,7 +18564,7 @@ QuestTranslator_QuestData = {
     ["6124"] = {
     ["Title"]="Hastaları İyileştirmek",
     ["Description"]="Bana getirdiğin reaktiflerden yapılan merhem miktarı on doz için yeterli, YOUR_NAME. Ben köydekilerle birlikte biraz daha merhem yapmaya çalışırken, senin de bir başlangıç yapmamıza yardım etmeni istiyorum. Darkshore'un her yerinde hastalıklı geyikler var; merhemi onlar üzerinde kullan ve hastalıklarını iyileştir.NEW_LINENEW_LINEİşin bittiğinde Moonglade'deki Dendrite Starblaze seninle konuşmak isteyecektir, eminim. Lütfen Auberdine'in teşekkürlerini oradaki Cenarion Çemberi'ne iletin... ve yardımlarınız için doğrudan size teşekkür etmeme izin verin!",
-    ["Objectives"]="Darkshore'da bulunan 10 Hasta Geyik üzerinde İyileştirici Hayvan Merhemi kullanın; bunu yapmak onları iyileştirecektir. Hastalıklı Geyiklerin Auberdine'in kuzeyindeki Cliffspring Nehri'nin güneyinden başlayıp Ashenvale'in sınırının başladığı güney Darkshore'a kadar uzandığı bildirilmiştir.",
+    ["Objectives"]="Darkshore'da bulunan 10 Hasta Geyik üzerinde İyileştirici Hayvan Merhemi kullanın; bunu yapmak onları iyileştirecektir. Hastalıklı Geyiklerin Auberdine'in kuzeyindeki Cliffspring Nehri'nin güneyinden başlayıp Külvadi'in sınırının başladığı güney Darkshore'a kadar uzandığı bildirilmiştir.",
     ["Progress"]="Alanndarian Nightsong of Auberdine tarafından sizden istenenleri tamamladınız mı? Tamamlamadığınız sürece işiniz tamamlanmış sayılmaz.",
     ["Completion"]="Darkshore'un hastalıklı geyiklerine iyi baktınız; onlar tüm ülkeye yayılan daha büyük bir lekenin ve yozlaşmanın farkında olmayan kurbanları. Darnassus'ta bu tehdidin farkına varmayı seçenler var... ve büyüyen işaretleri görmezden gelenler var. Umarım gerçekleri görmezden gelen biri olmazsın, YOUR_NAME.NEW_LINENEW_LINENe olursa olsun, doğanın ve Çemberin bir dostu olarak değerinizi kanıtladınız - bunu böyle bir sembol olarak kabul edin.",
     ["minlevel"]="0",
@@ -18912,27 +18912,27 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end Yeni Yaşam
 
-    -- Ashenvale Avı
+    -- Külvadi Avı
     ["6382"] = {
-    ["Title"]="Ashenvale Avı",
-    ["Description"]="Gücünüz beni etkiliyor, YOUR_CLASS. Avı benimseme konusundaki istekliliğin bana daha büyük avlara ve daha büyük zorluklara geçebileceğin konusunda güven veriyor.NEW_LINENEW_LINEAshenvale ormanları, Horde'un hem siyasi hem de ruhani olarak kendi iradesini dayatmaya çalıştığı geniş ve evcilleşmemiş bir vahşi doğayı temsil ediyor. Kanıtlanmamış bir toprakta kendinizi kanıtlamak istiyorsanız, Splintertree Karakolu'nda Senani Thunderheart'ın rehberliğini arayın. Karakol, Barrens'ten gelen yolun kuzeyinde.",
-    ["Objectives"]="Splintertree Karakolu, Ashenvale'de Senani Thunderheart ile konuş.",
+    ["Title"]="Külvadi Avı",
+    ["Description"]="Gücünüz beni etkiliyor, YOUR_CLASS. Avı benimseme konusundaki istekliliğin bana daha büyük avlara ve daha büyük zorluklara geçebileceğin konusunda güven veriyor.NEW_LINENEW_LINEKülvadi ormanları, Horde'un hem siyasi hem de ruhani olarak kendi iradesini dayatmaya çalıştığı geniş ve evcilleşmemiş bir vahşi doğayı temsil ediyor. Kanıtlanmamış bir toprakta kendinizi kanıtlamak istiyorsanız, Splintertree Karakolu'nda Senani Thunderheart'ın rehberliğini arayın. Karakol, Barrens'ten gelen yolun kuzeyinde.",
+    ["Objectives"]="Splintertree Karakolu, Külvadi'de Senani Thunderheart ile konuş.",
     ["Progress"]="",
-    ["Completion"]="Yeni sınıra hoş geldin, YOUR_NAME. Ashenvale bir fırsatlar ülkesi, senin gibi genç bir YOUR_CLASS'in cesaretini kanıtlamak için sınırsız şans bulabileceği bir yer. Buradaki karakolun etrafına bakın ve Zoram Strand'a gittiğinizden emin olun, çünkü Horde'un orada da başka bir karakolu var.NEW_LINENEW_LINEBuradaki varlığınız bana av hakkında daha fazla şey öğrenmeye geldiğinizi söylüyor. İyi dinle, bilmen gerekenleri seninle memnuniyetle paylaşacağım.",
+    ["Completion"]="Yeni sınıra hoş geldin, YOUR_NAME. Külvadi bir fırsatlar ülkesi, senin gibi genç bir YOUR_CLASS'in cesaretini kanıtlamak için sınırsız şans bulabileceği bir yer. Buradaki karakolun etrafına bakın ve Zoram Strand'a gittiğinizden emin olun, çünkü Horde'un orada da başka bir karakolu var.NEW_LINENEW_LINEBuradaki varlığınız bana av hakkında daha fazla şey öğrenmeye geldiğinizi söylüyor. İyi dinle, bilmen gerekenleri seninle memnuniyetle paylaşacağım.",
     ["minlevel"]="0",
     ["questlevel"]="0",
-    }, -- end Ashenvale Avı
+    }, -- end Külvadi Avı
 
-    -- Ashenvale Avı
+    -- Külvadi Avı
     ["6383"] = {
-    ["Title"]="Ashenvale Avı",
+    ["Title"]="Külvadi Avı",
     ["Description"]="",
     ["Objectives"]="Bu görev Blizzard tarafından geçersiz olarak işaretlendi ve elde edilemez veya tamamlanamaz.",
     ["Progress"]="",
-    ["Completion"]="Ashenvale Avı'nı oluşturan üç efsanevi yaratık var; onları arayabilir ve kendinizi kurnazlıklarına ve güçlerine karşı test edebilirsiniz. Bu süreçte umarım kendiniz hakkında bir şeyler öğrenirsiniz. Bu yaratıklar: ayı Ursangous, gece kılıcı kedisi Shadumbra ve hipogrif Sharptalon.NEW_LINENEW_LINEAshenvale Avı'nın yaratıkları çok güçlüdür ve onları alt etmek için yardıma ihtiyacın olabilir. Eğer onları yenersen, bana yaptığının kanıtını getir.",
+    ["Completion"]="Külvadi Avı'nı oluşturan üç efsanevi yaratık var; onları arayabilir ve kendinizi kurnazlıklarına ve güçlerine karşı test edebilirsiniz. Bu süreçte umarım kendiniz hakkında bir şeyler öğrenirsiniz. Bu yaratıklar: ayı Ursangous, gece kılıcı kedisi Shadumbra ve hipogrif Sharptalon.NEW_LINENEW_LINEKülvadi Avı'nın yaratıkları çok güçlüdür ve onları alt etmek için yardıma ihtiyacın olabilir. Eğer onları yenersen, bana yaptığının kanıtını getir.",
     ["minlevel"]="0",
     ["questlevel"]="0",
-    }, -- end Ashenvale Avı
+    }, -- end Külvadi Avı
 
     -- Orgrimmar'a yolculuk
     ["6384"] = {
@@ -19091,7 +19091,7 @@ QuestTranslator_QuestData = {
     -- Satir Boynuzları
     ["6441"] = {
     ["Title"]="Satir Boynuzları",
-    ["Description"]="Heya! Ashenvale'den Ratchet'e doğru seyahat ediyordum ve burada Splintertree'de durmaya karar verdim. Her zaman bir fırsat ararım ve görünüşe göre bugünlerde Ratchet'te satir boynuzları çok talep görüyor.NEW_LINENEW_LINEEtrafa sorduktan sonra, Night Run, Satyrnaar ve Xavian'daki satirlerin hepsinde aradığım türde boynuzlar var gibi görünüyor. O satirlerle boy ölçüşemem... ama sen ölçüşebilecek gibi görünüyorsun!NEW_LINENEW_LINEBak ne diyeceğim, sen benim için boynuzları topla, ben de senin zamanına değsin.",
+    ["Description"]="Heya! Külvadi'den Ratchet'e doğru seyahat ediyordum ve burada Splintertree'de durmaya karar verdim. Her zaman bir fırsat ararım ve görünüşe göre bugünlerde Ratchet'te satir boynuzları çok talep görüyor.NEW_LINENEW_LINEEtrafa sorduktan sonra, Night Run, Satyrnaar ve Xavian'daki satirlerin hepsinde aradığım türde boynuzlar var gibi görünüyor. O satirlerle boy ölçüşemem... ama sen ölçüşebilecek gibi görünüyorsun!NEW_LINENEW_LINEBak ne diyeceğim, sen benim için boynuzları topla, ben de senin zamanına değsin.",
     ["Objectives"]="Splintertree Post'ta Piksel için 16 Satir Boynuzu toplayın.",
     ["Progress"]="Umarım o boynuzları almakta acele edersin, YOUR_NAME. Yakında Ratchet'e geri döneceğim!",
     ["Completion"]="Bunlar mükemmel, YOUR_NAME! Bana yardım ettiğin için teşekkürler!NEW_LINENEW_LINEOh, bu da zamanın için...",
@@ -19165,16 +19165,16 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end Ejderhanın Gözü
 
-    -- Ashenvale Outrunners
+    -- Külvadi Outrunners
     ["6503"] = {
-    ["Title"]="Ashenvale Outrunners",
+    ["Title"]="Külvadi Outrunners",
     ["Description"]="Lanet elfler! Bizi nereden vuracaklarını çok iyi biliyorlardı!NEW_LINENEW_LINEKaçanlardı... Onları gözetlendiğimiz konusunda uyarmaya çalıştım ama kimse dinlemedi. Şu halimize bak, tavuk gibi tıkılmışız!NEW_LINENEW_LINEİntikam için asla geç değildir, dostum! Onları avla ve yaptıklarını ödet!",
-    ["Objectives"]="9 Ashenvale Outrunner'ı öldür.",
+    ["Objectives"]="9 Külvadi Outrunner'ı öldür.",
     ["Progress"]="Öldürdüklerinin raporlarını bekliyorum, YOUR_NAME.",
     ["Completion"]="Çok iyi, YOUR_NAME. Avlanma becerilerin etkileyici...NEW_LINENEW_LINEBu avcıların kaybı İttifak'ın gözünü kör etmeye yardımcı oluyor ve istihbarattan yoksun olduklarında saldırı düzenleme olasılıkları azalıyor.",
     ["minlevel"]="0",
     ["questlevel"]="0",
-    }, -- end Ashenvale Outrunners
+    }, -- end Külvadi Outrunners
 
     -- Kayıp Sayfalar
     ["6504"] = {
@@ -19223,10 +19223,10 @@ QuestTranslator_QuestData = {
     -- Kadrak'a rapor verin
     ["6541"] = {
     ["Title"]="Kadrak'a rapor verin",
-    ["Description"]="Hiç kuzeydeki Ashenvale'e gittiniz mi? Horde yakın zamanda Zoram Strand'da bir ileri karakol kurdu ve yeni cephelerimizi savunmaya yardımcı olacak yeni askerler her zaman işimize yarayabilir.NEW_LINENEW_LINEEğer yapabileceğini düşünüyorsan, kuzeydeki Barrens'te, gözetleme kulesinde Kadrak'ı gör. Kendisi Ashenvale seferini yönetiyor ve size daha fazla emir verebilir.",
+    ["Description"]="Hiç kuzeydeki Külvadi'e gittiniz mi? Horde yakın zamanda Zoram Strand'da bir ileri karakol kurdu ve yeni cephelerimizi savunmaya yardımcı olacak yeni askerler her zaman işimize yarayabilir.NEW_LINENEW_LINEEğer yapabileceğini düşünüyorsan, kuzeydeki Barrens'te, gözetleme kulesinde Kadrak'ı gör. Kendisi Külvadi seferini yönetiyor ve size daha fazla emir verebilir.",
     ["Objectives"]="Kuzey Barrens'teki gözetleme kulesinde Kadrak'a rapor verin.",
     ["Progress"]="",
-    ["Completion"]="Ashenvale bölünmüş bir toprak, ancak son çabalarımız çok başarılı oldu. Sadece Zoram Strand'da bir karakolumuz değil, aynı zamanda buranın hemen kuzeyinde Splintertree adında bir karakolumuz daha var.",
+    ["Completion"]="Külvadi bölünmüş bir toprak, ancak son çabalarımız çok başarılı oldu. Sadece Zoram Strand'da bir karakolumuz değil, aynı zamanda buranın hemen kuzeyinde Splintertree adında bir karakolumuz daha var.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Kadrak'a rapor verin
@@ -19234,10 +19234,10 @@ QuestTranslator_QuestData = {
     -- Kadrak'a rapor verin
     ["6542"] = {
     ["Title"]="Kadrak'a rapor verin",
-    ["Description"]="Hiç kuzeydeki Ashenvale'e gittiniz mi? Horde yakın zamanda Zoram Strand'da bir ileri karakol kurdu ve yeni cephelerimizi savunmaya yardımcı olacak yeni askerler her zaman işimize yarayabilir.NEW_LINENEW_LINEEğer yapabileceğini düşünüyorsan, kuzeydeki Barrens'te, gözetleme kulesinde Kadrak'ı gör. Kendisi Ashenvale seferini yönetiyor ve size daha fazla emir verebilir.",
+    ["Description"]="Hiç kuzeydeki Külvadi'e gittiniz mi? Horde yakın zamanda Zoram Strand'da bir ileri karakol kurdu ve yeni cephelerimizi savunmaya yardımcı olacak yeni askerler her zaman işimize yarayabilir.NEW_LINENEW_LINEEğer yapabileceğini düşünüyorsan, kuzeydeki Barrens'te, gözetleme kulesinde Kadrak'ı gör. Kendisi Külvadi seferini yönetiyor ve size daha fazla emir verebilir.",
     ["Objectives"]="Kuzey Barrens'teki gözetleme kulesinde Kadrak'a rapor verin.",
     ["Progress"]="",
-    ["Completion"]="Ashenvale bölünmüş bir toprak, ancak son çabalarımız çok başarılı oldu. Sadece Zoram Strand'da bir karakolumuz değil, aynı zamanda buranın hemen kuzeyinde Splintertree adında bir karakolumuz daha var.",
+    ["Completion"]="Külvadi bölünmüş bir toprak, ancak son çabalarımız çok başarılı oldu. Sadece Zoram Strand'da bir karakolumuz değil, aynı zamanda buranın hemen kuzeyinde Splintertree adında bir karakolumuz daha var.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Kadrak'a rapor verin
@@ -19245,10 +19245,10 @@ QuestTranslator_QuestData = {
     -- Warsong Raporları
     ["6543"] = {
     ["Title"]="Warsong Raporları",
-    ["Description"]="Yakın zamanda Ashenvale'e birkaç gözcü gönderdim ve onlara emirlerini iletecek ve gözlemledikleri şeylerin raporunu bana getirecek bir koşucuya ihtiyacım var.NEW_LINENEW_LINEİlk durağınız Zoram'gar Outpost olmalı, sahil boyunca batıya doğru, Zoram Strand'da, ilk koşucuyu bulmak için. Ayrıca kuzeyde Splintertree Karakolu'nda ve doğuda Azshara yakınlarındaki yol boyunca durmanız gerekir. Orada bir gözcü ve bir öncü bulacaksın.NEW_LINENEW_LINEHer birine bir rapor verin ve onlardan bulguları hakkında bir güncelleme alın.",
+    ["Description"]="Yakın zamanda Külvadi'e birkaç gözcü gönderdim ve onlara emirlerini iletecek ve gözlemledikleri şeylerin raporunu bana getirecek bir koşucuya ihtiyacım var.NEW_LINENEW_LINEİlk durağınız Zoram'gar Outpost olmalı, sahil boyunca batıya doğru, Zoram Strand'da, ilk koşucuyu bulmak için. Ayrıca kuzeyde Splintertree Karakolu'nda ve doğuda Azshara yakınlarındaki yol boyunca durmanız gerekir. Orada bir gözcü ve bir öncü bulacaksın.NEW_LINENEW_LINEHer birine bir rapor verin ve onlardan bulguları hakkında bir güncelleme alın.",
     ["Objectives"]="Rapor Paketini açın. Warsong Raporlarını Warsong Gözcüsü, Warsong Koşucusu ve Warsong Gezgini'ne götürün. Size verdikleri güncellemeleri çoraklıktaki kuzey gözetleme kulesinde bulunan Kadrak'a geri getirin.",
     ["Progress"]="Acele et, YOUR_NAME. Raporlarını almaları gerekiyor; bu acil.",
-    ["Completion"]="Size güvenilebileceğini görebiliyorum. Bu güncellemeler Ashenvale'deki varlığımızı ilerletme planlarımız için çok önemli. Artık bir sonraki hamlemizi planlayabiliriz.",
+    ["Completion"]="Size güvenilebileceğini görebiliyorum. Bu güncellemeler Külvadi'deki varlığımızı ilerletme planlarımız için çok önemli. Artık bir sonraki hamlemizi planlayabiliriz.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Warsong Raporları
@@ -19280,7 +19280,7 @@ QuestTranslator_QuestData = {
     ["Title"]="Warsong Outrider Güncellemesi",
     ["Description"]="",
     ["Objectives"]="Bu görev artık oyun içinde mevcut değildir.",
-    ["Progress"]="Bu yolda çok tehlike var, YOUR_NAME. Bu topraklarda seyahat ederken bunu hatırlamak en iyisi olacaktır. İttifak tehdidi oldukça yakın.NEW_LINENEW_LINETüm cephelerde düşmanlarla karşı karşıyayız. Satirler, Ashenvale'in doğusunda korkunç ve yaygın bir güç. Ayrıca naga'ların Azshara topraklarının büyük bir bölümünü ele geçirdiğini keşfettim.NEW_LINENEW_LINEHâlâ sayımızı artırdığımızı görmek güzel -- ileride olacaklara hazır ol, YOUR_NAME.",
+    ["Progress"]="Bu yolda çok tehlike var, YOUR_NAME. Bu topraklarda seyahat ederken bunu hatırlamak en iyisi olacaktır. İttifak tehdidi oldukça yakın.NEW_LINENEW_LINETüm cephelerde düşmanlarla karşı karşıyayız. Satirler, Külvadi'in doğusunda korkunç ve yaygın bir güç. Ayrıca naga'ların Azshara topraklarının büyük bir bölümünü ele geçirdiğini keşfettim.NEW_LINENEW_LINEHâlâ sayımızı artırdığımızı görmek güzel -- ileride olacaklara hazır ol, YOUR_NAME.",
     ["Completion"]="Güncellememi Kadrak'a götürün. Hızlıca, YOUR_NAME.",
     ["minlevel"]="0",
     ["questlevel"]="0",
@@ -19322,8 +19322,8 @@ QuestTranslator_QuestData = {
     -- Derinlerdeki Bela
     ["6562"] = {
     ["Title"]="Derinlerdeki Bela",
-    ["Description"]="Je'neu Sancrea'nın yardıma ihtiyacı var. Ashenvale'deki Blackfathom Deeps'in hemen içinde bekliyor. Gece elfi ormanı Stonetalon dağlarının kuzeyindedir. Rüzgargülü Kayalığı'ndan geçerek veya Barrens'ten kuzeye doğru ilerleyerek ulaşabilirsiniz. Zoram Strand ormanın batısında yer alır. Dikkatli ol, YOUR_NAME. Orada senin varlığını hoş karşılamayacak güçler var.",
-    ["Objectives"]="Ashenvale'de Je'neu Sancrea ile konuş.",
+    ["Description"]="Je'neu Sancrea'nın yardıma ihtiyacı var. Külvadi'deki Blackfathom Deeps'in hemen içinde bekliyor. Gece elfi ormanı Stonetalon dağlarının kuzeyindedir. Rüzgargülü Kayalığı'ndan geçerek veya Barrens'ten kuzeye doğru ilerleyerek ulaşabilirsiniz. Zoram Strand ormanın batısında yer alır. Dikkatli ol, YOUR_NAME. Orada senin varlığını hoş karşılamayacak güçler var.",
+    ["Objectives"]="Külvadi'de Je'neu Sancrea ile konuş.",
     ["Progress"]="",
     ["Completion"]="Seni Tsunaman mı gönderdi? Mükemmel. O zaman konuşmamız gereken konular var.",
     ["minlevel"]="0",
@@ -19334,7 +19334,7 @@ QuestTranslator_QuestData = {
     ["6563"] = {
     ["Title"]="Aku'Mai'nin Özü",
     ["Description"]="Blackfathom Deeps'in başlangıç tünellerinde, mağara duvarları boyunca büyük safir kümeleri bulunabilir. Son zamanlarda nagaların kristalleri topladığı fark edildi. Nedenini anlayana kadar, nagaların başarılı olmasını engellememiz gerektiğini hissediyorum. Kristallerin büyük bir elemental gücü var ve uygunsuz bir şekilde kullanılırsa, güçlü bir arcane bileşeni oluşturabilir.NEW_LINENEW_LINEBana yardım edecek misin, YOUR_NAME ? Blackfathom Deeps, karakolumuzun kuzeyindeki Zoram Strand boyunca bulunabilir.",
-    ["Objectives"]="Ashenvale'deki Je'neu Sancrea'ya 20 Aku'Mai Safiri getir.",
+    ["Objectives"]="Külvadi'deki Je'neu Sancrea'ya 20 Aku'Mai Safiri getir.",
     ["Progress"]="Kristalleri arayışın nasıl gidiyor, YOUR_NAME ? Naga'nın onları topladığına şahit oldun mu? Atalarıma böyle şeyleri toplamalarının nedenini bulmamız için dua ediyorum.",
     ["Completion"]="Aferin, YOUR_NAME. Bunlar bahsettiğim kristaller. İlginç.NEW_LINENEW_LINEİçlerindeki gücü hissedebiliyorum. Suyun ruhları onlara yapışmış. Naga bunları her ne için kullanacaksa... artık ellerinde olmadıkları için mutlu olalım.",
     ["minlevel"]="0",
@@ -19345,7 +19345,7 @@ QuestTranslator_QuestData = {
     ["6564"] = {
     ["Title"]="Eski Tanrılara Bağlılık",
     ["Description"]="Buruşturulmuş notun üzerine kötü bir el yazısı karalanmış:NEW_LINENEW_LINE\\",
-    ["Objectives"]="Nemli Not'u Ashenvale'deki Je'neu Sancrea'ya getirin.",
+    ["Objectives"]="Nemli Not'u Külvadi'deki Je'neu Sancrea'ya getirin.",
     ["Progress"]="Evet, YOUR_NAME ? Neye ihtiyacın var? Naga'nın topladığı kristaller hakkında hala öğrenmem gereken çok şey var.",
     ["Completion"]="Bu gerçekten de ilginç. Bunu dikkatime sunduğunuz için memnunum.NEW_LINENEW_LINEArtık sorunlarımız için bir ismimiz var. Lorgus Jett.",
     ["minlevel"]="0",
@@ -19576,7 +19576,7 @@ QuestTranslator_QuestData = {
     ["6921"] = {
     ["Title"]="Yıkıntılar Arasında",
     ["Description"]="Alacakaranlığın Çekici, Blackfathom Derinlikleri'ndeki Moonshrine Harabeleri'ne taşındı. Onların varlığı sadece elementleri bize karşı çalışmaya zorlamaya yarayabilir. Kontrol edilmezse, bu bölge sonsuza dek onların olacak.NEW_LINENEW_LINEYOUR_NAME Blackfathom'a gidin ve harabenin kulaç taşını bulun; suya yakın bir yerde olmalı. İçinde bir kulaç çekirdeği var - doğru okunduğunda tüm element faaliyetlerinin tarihini anlatacak bir cihaz. Eğer ona sahip olursam, ben ve Toprak Yüzük belki onları durdurmak için bir şeyler yapabiliriz!",
-    ["Objectives"]="Fathom Core'u Zoram'gar Outpost, Ashenvale'deki Je'neu Sancrea'ya getirin.",
+    ["Objectives"]="Fathom Core'u Zoram'gar Outpost, Külvadi'deki Je'neu Sancrea'ya getirin.",
     ["Progress"]="Fathom çekirdeğinin yerini bulabildiniz mi? O olmadan Alacakaranlık Çekici'nin aşağıda tam olarak ne yaptığı hakkında hiçbir fikrimiz olmayacak.",
     ["Completion"]="Bu tam da ihtiyacım olan şey! Fathom çekirdeği, içinden çok iyi şeyler çıkarabileceğimiz inanılmaz bir bilgi kuyusudur. Alacakaranlığın Çekici orada her ne yapıyorsa - ve iyi bir şey olmadığını söylediğimde bana inanın - yoldaşlarım ve ben şimdi ortaya çıkaracağız.NEW_LINENEW_LINEBugün burada iyi iş çıkardınız; Toprak Yüzük bize yardım ettiğiniz için size sıcak bakıyor. Ayrıca Horde'a bir bütün olarak yardım ettiniz ve bunun için gurur duymalısınız.",
     ["minlevel"]="0",
@@ -19586,8 +19586,8 @@ QuestTranslator_QuestData = {
     -- Baron Aquanis
     ["6922"] = {
     ["Title"]="Baron Aquanis",
-    ["Description"]="Yenilen su elementali arkasında garip bir su küresi bıraktı. Bu nesnenin bir şekilde canavarın enerjisini beslediğini tahmin ediyorsun. Kürenin içinde, çürümüş görünümlü bir su formu dolaşıyor. Kürenin kendisi her türlü fiziksel güce karşı dayanıklı görünüyor.NEW_LINENEW_LINEBu nesneye anlam verebilecek biri varsa o da Toprak Yüzük'ten Je'neu Sancrea'dır. Kendisi Horde'un Ashenvale'deki Zoram'gar Karakolu'nda bulunuyor.",
-    ["Objectives"]="Tuhaf Su Küresini Zoram'gar Karakolu, Ashenvale'deki Je'neu Sancrea'ya getirin.",
+    ["Description"]="Yenilen su elementali arkasında garip bir su küresi bıraktı. Bu nesnenin bir şekilde canavarın enerjisini beslediğini tahmin ediyorsun. Kürenin içinde, çürümüş görünümlü bir su formu dolaşıyor. Kürenin kendisi her türlü fiziksel güce karşı dayanıklı görünüyor.NEW_LINENEW_LINEBu nesneye anlam verebilecek biri varsa o da Toprak Yüzük'ten Je'neu Sancrea'dır. Kendisi Horde'un Külvadi'deki Zoram'gar Karakolu'nda bulunuyor.",
+    ["Objectives"]="Tuhaf Su Küresini Zoram'gar Karakolu, Külvadi'deki Je'neu Sancrea'ya getirin.",
     ["Progress"]="Ah, tekrar merhaba YOUR_NAME. Her zaman yaptığım gibi denizin dalgalarını okuyordum. Seni karakola getiren nedir?",
     ["Completion"]="Bu... bu tam bir keşif, YOUR_NAME.NEW_LINENEW_LINEBunu Blackfathom'daki Baron Aquanis'ten aldığınızı mı söylüyorsunuz? Baron Aquanis'in uzun zamandır bozulmuş bir elemental güç olduğu düşünülüyordu; bu küre onu tam olarak neyin bozduğunu kanıtlayacak. Bunun Alacakaranlığın Çekici olduğu ortaya çıkarsa sürpriz olmaz, ancak çalışmalarımız bunu nasıl yaptıklarını da gösterecek.NEW_LINENEW_LINEBunu bana getirmekle iyi yaptın. Lütfen bunu Toprak Yüzük'ün en içten selamlarıyla birlikte kabul edin.",
     ["minlevel"]="0",
@@ -21137,7 +21137,7 @@ QuestTranslator_QuestData = {
     -- Warsong Gulch için savaşın
     ["8372"] = {
     ["Title"]="Warsong Gulch için savaşın",
-    ["Description"]="Silverwing Sentinelleri, Orkların ormana verdiği zarar nedeniyle Warsong Outriders ile savaş halindedir. Ancak bu özel ormanı savunmak için doğa sevgisinden daha fazla neden var.NEW_LINENEW_LINEOrman, Ashenvale'i geniş çaplı bir saldırıya karşı savunulabilir kılan stratejik bir bariyer oluşturuyor. Orman olmasaydı, Astranaar Barrens'e ilhak edilmeden önce bir ya da iki gün dayanabilirdi.NEW_LINENEW_LINEWarsong Outriders'la savaşmak için üzerine düşeni yap, YOUR_NAME! İttifak için!",
+    ["Description"]="Silverwing Sentinelleri, Orkların ormana verdiği zarar nedeniyle Warsong Outriders ile savaş halindedir. Ancak bu özel ormanı savunmak için doğa sevgisinden daha fazla neden var.NEW_LINENEW_LINEOrman, Külvadi'i geniş çaplı bir saldırıya karşı savunulabilir kılan stratejik bir bariyer oluşturuyor. Orman olmasaydı, Astranaar Barrens'e ilhak edilmeden önce bir ya da iki gün dayanabilirdi.NEW_LINENEW_LINEWarsong Outriders'la savaşmak için üzerine düşeni yap, YOUR_NAME! İttifak için!",
     ["Objectives"]="Savaş alanlarının dışındaki bir İttifak Tuğgeneraline 3 Warsong Gulch Onur İşareti getirin.",
     ["Progress"]="",
     ["Completion"]="",
@@ -23052,7 +23052,7 @@ QuestTranslator_QuestData = {
     ["Description"]="Selamlar, YOUR_CLASS. High Sentinel Adaena Oakleaf, Teldrassil bünyesindeki daha endişe verici bazı olayları ele almak üzere yetenekli maceracıları gözlemlemek ve saflarımıza katmakla beni görevlendirdi. Uygun ve istekli olanları daha fazla emir almaları için ona yönlendiriyorum. High Sentinel'ı bu yolun yukarısında, Darnassus kapılarının tepesinde, sınırlarımızı gözetlerken bulacaksın.",
     ["Objectives"]="Darnassus'taki Adaena Oakleaf ile konuşun.",
     ["Progress"]="",
-    ["Completion"]="Darnassus çevresinin güvenliğini sağlamaya yardım etmek için mi geldin? Bunu duymak güzel. Kuvvetlerim bu kadar dağılmışken mevcut tüm yardımlara ihtiyacımız var. Son olaylar kaynaklarımızı oldukça zorladı; çünkü artık sadece Ashenvale ve Darkshore'u savunmakla kalmıyoruz, Renaissance buradaki Teldrassil evlerimizin dört bir yanında müfrezeler bulundurmak zorundayız.",
+    ["Completion"]="Darnassus çevresinin güvenliğini sağlamaya yardım etmek için mi geldin? Bunu duymak güzel. Kuvvetlerim bu kadar dağılmışken mevcut tüm yardımlara ihtiyacımız var. Son olaylar kaynaklarımızı oldukça zorladı; çünkü artık sadece Külvadi ve Darkshore'u savunmakla kalmıyoruz, Renaissance buradaki Teldrassil evlerimizin dört bir yanında müfrezeler bulundurmak zorundayız.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end A Meeting With Adaena
@@ -23740,7 +23740,7 @@ QuestTranslator_QuestData = {
     ["40120"] = {
     ["Title"]="Saldırgan Yaban Hayatı",
     ["Description"]="Gittikçe yaklaşan yaban hayatı hem benim hem de karım için bir sorun haline geldi. Geçmişte ormandaki hayvanlarla barış içinde yaşardık, ancak şimdi görünüşe göre her zaman hareketlerimize dikkat etmeli ve avını gözleyen yırtıcıların gözleri için ormanı kollamalıyız. Hayaletpençeler özellikle sorun çıkarıyorlar ve günlerdir bir zayıflık belirtisi bulmak için evimizin etrafında dolanıyorlar. Onlara hiç fırsat vermedim ama yaban hayatını çok daha saldırgan bir şekilde davranmaya iten bir şeyler olduğundan korkuyorum. Ne olursa olsun, bana onların postlarından beş tane topla. Sayılarını azalt ki saldırılarında bu kadar küstah olamasınlar. Hayaletpençe Kurtlarını ormanın her yerinde bulabilirsin.",
-    ["Objectives"]="Yerel Hayaletpençe Kurdu nüfusundan 5 Hayaletpençe Postu topla ve bunları Ashenvale'deki (Külvadi) Ardaen Sonsuzay'a getir.",
+    ["Objectives"]="Yerel Hayaletpençe Kurdu nüfusundan 5 Hayaletpençe Postu topla ve bunları Külvadi'deki  Ardaen Sonsuzay'a getir.",
     ["Progress"]="Ormanları daha güvenli bir yer haline getirdin mi, dostum?",
     ["Completion"]="Yaptığın çalışmalar için sana yürekten teşekkür ederim. Buradaki işimizi kolaylaştırdın ama bir şey daha yapman gerektiğini hissediyorum.",
     ["minlevel"]="0",
@@ -24195,7 +24195,7 @@ QuestTranslator_QuestData = {
 -- Gizemcinin Başı
     ["41476"] = {
     ["Title"]="Gizemcinin Başı",
-    ["Description"]="Bir Gizemcinin (Arcanist) kıyafetlerini giyiyorsun, YOUR_CLASS. Gizemli gücünü hissedebiliyorum ama oldukça sönük görünüyor. Belki de taşıdıkların, yapmaya istekli olduğun görevler için uygun değildir. <Melus birkaç saniye mırıldanır.> Onu buraya uzat ve söyle bana, düzen mi arıyorsun yoksa kaos mu?",
+    ["Description"]="Bir Gizemcinin kıyafetlerini giyiyorsun, YOUR_CLASS. Gizemli gücünü hissedebiliyorum ama oldukça sönük görünüyor. Belki de taşıdıkların, yapmaya istekli olduğun görevler için uygun değildir. <Melus birkaç saniye mırıldanır.> Onu buraya uzat ve söyle bana, düzen mi arıyorsun yoksa kaos mu?",
     ["Objectives"]="Mevcut eşyanı ihtiyaçlarına en uygun olan eşyayla takas et.",
     ["Progress"]="Dikkatli seç, kararın kesindir.",
     ["Completion"]="Bu kıyafetler senin gerçek doğana çok daha iyi uyuyor gibi görünüyor. Sahip olduğun güce dikkat et, YOUR_CLASS.",
@@ -24206,7 +24206,7 @@ QuestTranslator_QuestData = {
 -- Gizemcinin Bacakları
     ["41482"] = {
     ["Title"]="Gizemcinin Bacakları",
-    ["Description"]="Bir Gizemcinin (Arcanist) kıyafetlerini giyiyorsun, YOUR_CLASS. Gizemli gücünü hissedebiliyorum ama oldukça sönük görünüyor. Belki de taşıdıkların, yapmaya istekli olduğun görevler için uygun değildir. <Melus birkaç saniye mırıldanır.> Onu buraya uzat ve söyle bana, düzen mi arıyorsun yoksa kaos mu?",
+    ["Description"]="Bir Gizemcinin kıyafetlerini giyiyorsun, YOUR_CLASS. Gizemli gücünü hissedebiliyorum ama oldukça sönük görünüyor. Belki de taşıdıkların, yapmaya istekli olduğun görevler için uygun değildir. <Melus birkaç saniye mırıldanır.> Onu buraya uzat ve söyle bana, düzen mi arıyorsun yoksa kaos mu?",
     ["Objectives"]="Mevcut eşyanı ihtiyaçlarına en uygun olan eşyayla takas et.",
     ["Progress"]="Dikkatli seç, kararın kesindir.",
     ["Completion"]="Bu kıyafetler senin gerçek doğana çok daha iyi uyuyor gibi görünüyor. Sahip olduğun güce dikkat et, YOUR_CLASS.",
@@ -24217,7 +24217,7 @@ QuestTranslator_QuestData = {
 -- Gizemcinin Omuzları
     ["41477"] = {
     ["Title"]="Gizemcinin Omuzları",
-    ["Description"]="Bir Gizemcinin (Arcanist) kıyafetlerini giyiyorsun, YOUR_CLASS. Gizemli gücünü hissedebiliyorum ama oldukça sönük görünüyor. Belki de taşıdıkların, yapmaya istekli olduğun görevler için uygun değildir. <Melus birkaç saniye mırıldanır.> Onu buraya uzat ve söyle bana, düzen mi arıyorsun yoksa kaos mu?",
+    ["Description"]="Bir Gizemcinin kıyafetlerini giyiyorsun, YOUR_CLASS. Gizemli gücünü hissedebiliyorum ama oldukça sönük görünüyor. Belki de taşıdıkların, yapmaya istekli olduğun görevler için uygun değildir. <Melus birkaç saniye mırıldanır.> Onu buraya uzat ve söyle bana, düzen mi arıyorsun yoksa kaos mu?",
     ["Objectives"]="Mevcut eşyanı ihtiyaçlarına en uygun olan eşyayla takas et.",
     ["Progress"]="Dikkatli seç, kararın kesindir.",
     ["Completion"]="Bu kıyafetler senin gerçek doğana çok daha iyi uyuyor gibi görünüyor. Sahip olduğun güce dikkat et, YOUR_CLASS.",
@@ -24228,7 +24228,7 @@ QuestTranslator_QuestData = {
 -- Gizemcinin Beli
     ["41481"] = {
     ["Title"]="Gizemcinin Beli",
-    ["Description"]="Bir Gizemcinin (Arcanist) kıyafetlerini giyiyorsun, YOUR_CLASS. Gizemli gücünü hissedebiliyorum ama oldukça sönük görünüyor. Belki de taşıdıkların, yapmaya istekli olduğun görevler için uygun değildir. <Melus birkaç saniye mırıldanır.> Onu buraya uzat ve söyle bana, düzen mi arıyorsun yoksa kaos mu?",
+    ["Description"]="Bir Gizemcinin kıyafetlerini giyiyorsun, YOUR_CLASS. Gizemli gücünü hissedebiliyorum ama oldukça sönük görünüyor. Belki de taşıdıkların, yapmaya istekli olduğun görevler için uygun değildir. <Melus birkaç saniye mırıldanır.> Onu buraya uzat ve söyle bana, düzen mi arıyorsun yoksa kaos mu?",
     ["Objectives"]="Mevcut eşyanı ihtiyaçlarına en uygun olan eşyayla takas et.",
     ["Progress"]="Dikkatli seç, kararın kesindir.",
     ["Completion"]="Bu kıyafetler senin gerçek doğana çok daha iyi uyuyor gibi görünüyor. Sahip olduğun güce dikkat et, YOUR_CLASS.",
@@ -24239,7 +24239,7 @@ QuestTranslator_QuestData = {
 -- Gizemcinin Bilekleri
     ["41479"] = {
     ["Title"]="Gizemcinin Bilekleri",
-    ["Description"]="Bir Gizemcinin (Arcanist) kıyafetlerini giyiyorsun, YOUR_CLASS. Gizemli gücünü hissedebiliyorum ama oldukça sönük görünüyor. Belki de taşıdıkların, yapmaya istekli olduğun görevler için uygun değildir. <Melus birkaç saniye mırıldanır.> Onu buraya uzat ve söyle bana, düzen mi arıyorsun yoksa kaos mu?",
+    ["Description"]="Bir Gizemcinin kıyafetlerini giyiyorsun, YOUR_CLASS. Gizemli gücünü hissedebiliyorum ama oldukça sönük görünüyor. Belki de taşıdıkların, yapmaya istekli olduğun görevler için uygun değildir. <Melus birkaç saniye mırıldanır.> Onu buraya uzat ve söyle bana, düzen mi arıyorsun yoksa kaos mu?",
     ["Objectives"]="Mevcut eşyanı ihtiyaçlarına en uygun olan eşyayla takas et.",
     ["Progress"]="Dikkatli seç, kararın kesindir.",
     ["Completion"]="Bu kıyafetler senin gerçek doğana çok daha iyi uyuyor gibi görünüyor. Sahip olduğun güce dikkat et, YOUR_CLASS.",
@@ -24295,23 +24295,23 @@ QuestTranslator_QuestData = {
     ["41183"] = {
     ["Title"]="Külrengi Postlar",
     ["Description"]="Gece gündüz buradaki pompayı gözlüyorum. Günün her saati burada dikilip bu huysuz yaşlı şeyin hayata tutunmasını izliyorum ve öngörülebilir gelecekte de bunu yapmaya devam etmesini sağlamaya çalışıyorum. Eğer bu bebek durursa, kendimi tamamen yeni bir bela dünyasının içinde bulurum; kaçınmak istediğim bir bela. Geceler günden güne daha da soğuyor ve pompayı yakma ihtimaline karşı kamp ateşi yakmama izin verilmiyor. Neyse ki yetkin bir deri işçisiyim ve kendime soğuğa karşı güzel bir palto yapabilirim. Buradaki sırtlanların postlarını bana getirirsen, senin için de bir şeyler yaparım. Anlaştık mı?",
-    ["Objectives"]="6 Külpençe Postunu Su Deliği'ndeki (The Water Hole) Pompa İşçisi Fizzlo'ya getir.",
+    ["Objectives"]="6 Külpençe Postunu Su Deliği'ndeki Pompa İşçisi Fizzlo'ya getir.",
     ["Progress"]="Pasgeçit tarafında biraz daha fazla ödeme olsaydı o kadar şikayet etmezdim. Ama işlerin şu anki durumuna bakılırsa kesinlikle şikayet etmem gerekiyor.",
     ["Completion"]="Bunlar iş görür, mükemmel değiller ama sorun değil. Çok makbule geçti dostum. Al bakalım, emeğinin karşılığı olarak bunu al. Sen iyi bir goblinsin, az sayıdakilerden biri.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Külrengi Postlar
 
--- Ashenvale Yozlaşması
+-- Külvadi Yozlaşması
     ["40193"] = {
-    ["Title"]="Ashenvale Yozlaşması",
-    ["Description"]="Ashenvale (Külvadi) ormanında sinsi bir yozlaşma barınıyor, ancak tam olarak nerede olduğunu veya buna neyin sebep olduğunu tespit edemiyorum. Furbolgların bir delilik haline sürüklendiğine dair işaretler düşüncelerimi doğruluyor ve doğudaki ormanda neyin gizlendiğine dair raporları duymak zihnimi kurcalıyor. Eğer yapılabilecek bir şey varsa, bu Darnassus'taki Baş Druid Fandral Staghelm (Fandral Geyikboynuzu) aracılığıyla olacaktır. Halkımızı yeni bir başlangıca taşıdı ve belki de Ashenvale'deki bu yozlaşmayı çözecek olan odur. Onun için bu mektubu hazırladım. Lütfen bunu acilen teslim et, çünkü Ashenvale'in tüm güzelliği tehlikede olabilir.",
+    ["Title"]="Külvadi Yozlaşması",
+    ["Description"]="Külvadi  ormanında sinsi bir yozlaşma barınıyor, ancak tam olarak nerede olduğunu veya buna neyin sebep olduğunu tespit edemiyorum. Furbolgların bir delilik haline sürüklendiğine dair işaretler düşüncelerimi doğruluyor ve doğudaki ormanda neyin gizlendiğine dair raporları duymak zihnimi kurcalıyor. Eğer yapılabilecek bir şey varsa, bu Darnassus'taki Baş Druid Fandral Staghelm (Fandral Geyikboynuzu) aracılığıyla olacaktır. Halkımızı yeni bir başlangıca taşıdı ve belki de Külvadi'deki bu yozlaşmayı çözecek olan odur. Onun için bu mektubu hazırladım. Lütfen bunu acilen teslim et, çünkü Külvadi'in tüm güzelliği tehlikede olabilir.",
     ["Objectives"]="Faldan'ın Mesajını Darnassus'taki Baş Druid Fandral Staghelm'e teslim et.",
     ["Progress"]="Evet, ne var? Meşgulüm, benim için bir şeyin olmalı.",
-    ["Completion"]="Faldan bu kadar uzakta olmama rağmen Ashenvale'de yardımcı olabileceğime mi inanıyor? Buradaki furbolglar zaten benzer bir şekilde davranmaya başladılar ve Ashenvale'in derin ormanlarındaki bir vahşi kabilesinden çok daha büyük sorunlar var ortada. Bu şu anda yardımcı olabileceğim bir konu değil, ellerim bağlı ve ilgilenmem gereken daha önemli şeyler var. Mevcut görevlerim tamamlandığında Ashenvale'deki sorunlara yardım etmeye başlayacağım. İyi günler.",
+    ["Completion"]="Faldan bu kadar uzakta olmama rağmen Külvadi'de yardımcı olabileceğime mi inanıyor? Buradaki furbolglar zaten benzer bir şekilde davranmaya başladılar ve Külvadi'in derin ormanlarındaki bir vahşi kabilesinden çok daha büyük sorunlar var ortada. Bu şu anda yardımcı olabileceğim bir konu değil, ellerim bağlı ve ilgilenmem gereken daha önemli şeyler var. Mevcut görevlerim tamamlandığında Külvadi'deki sorunlara yardım etmeye başlayacağım. İyi günler.",
     ["minlevel"]="0",
     ["questlevel"]="0",
-    }, -- end Ashenvale Yozlaşması
+    }, -- end Külvadi Yozlaşması
 
 -- Kar Altında Uykuda
     ["41356"] = {
@@ -25187,7 +25187,7 @@ QuestTranslator_QuestData = {
 -- Eğitim İçin İkramlar
     ["40798"] = {
     ["Title"]="Eğitim İçin İkramlar",
-    ["Description"]="Selamlar, YOUR_CLASS. Kız kardeşim mi gönderdi seni? Erkek kardeşim mi? Hayır? O halde kim olabilirsin? YOUR_NAME, öyle mi? Kendimi tanıtmama izin ver: Ben Alleana Ayyele (Alleana Moonfeather), Ayyele ailesinin en küçüğüyüm. Kardeşlerim şimdiden Hipogrif Üstadı (Hippogryph Master) unvanını taşıyorlar ama akıl hocamdan beri eğitimime odaklanmakta zorlanıyorum... Yine de ailemin itibarı ve akıl hocamın anısı için devam etmeliyim! Ancak düzgün bir rehberlik olmadan yöntemlerimi ölçmek oldukça zor. Genç yaştan itibaren hipogrif yavruları yetiştiriyoruz, böylece bize bağlanıyorlar ve tamamen bizim rehberliğimize güveniyorlar. Yanlış anlama, bu çocuklar her şeyden önce doğaya aittir ama Kaldorei doğayla öyle bir bağ paylaşır ki bu yavrularla etkili bir şekilde iletişim kurmamızı sağlar. Yine de bu yavrular bana karşı ilgisiz görünüyor. Belki de beslenme şekilleridir. Benim için Darkshore (Karanlık kıyı) ve Ashenvale'deki (Külvadi) yaratıklardan biraz yiyecek toplayabilirsen büyük bir yardım olur.",
+    ["Description"]="Selamlar, YOUR_CLASS. Kız kardeşim mi gönderdi seni? Erkek kardeşim mi? Hayır? O halde kim olabilirsin? YOUR_NAME, öyle mi? Kendimi tanıtmama izin ver: Ben Alleana Ayyele (Alleana Moonfeather), Ayyele ailesinin en küçüğüyüm. Kardeşlerim şimdiden Hipogrif Üstadı (Hippogryph Master) unvanını taşıyorlar ama akıl hocamdan beri eğitimime odaklanmakta zorlanıyorum... Yine de ailemin itibarı ve akıl hocamın anısı için devam etmeliyim! Ancak düzgün bir rehberlik olmadan yöntemlerimi ölçmek oldukça zor. Genç yaştan itibaren hipogrif yavruları yetiştiriyoruz, böylece bize bağlanıyorlar ve tamamen bizim rehberliğimize güveniyorlar. Yanlış anlama, bu çocuklar her şeyden önce doğaya aittir ama Kaldorei doğayla öyle bir bağ paylaşır ki bu yavrularla etkili bir şekilde iletişim kurmamızı sağlar. Yine de bu yavrular bana karşı ilgisiz görünüyor. Belki de beslenme şekilleridir. Benim için Darkshore (Karanlık kıyı) ve Külvadi'deki  yaratıklardan biraz yiyecek toplayabilirsen büyük bir yardım olur.",
     ["Objectives"]="Forest Song'daki (Orman Şarkısı) Alleana Ayyele'ye 5 Sinsi İliği Parçası, 5 Cennet Şeftalisi, 5 Ayı Sakatatı ve 5 Dev Koşucu Kanadı getir.",
     ["Progress"]="Tekrar hoş geldin. Hipogrif yiyeceklerini getirdin mi?",
     ["Completion"]="Çabaların için çok teşekkürler, YOUR_NAME. Bunların hepsini sırt çantanda mı taşıdın? Kokusu... Neyse, boşver.",
@@ -26923,10 +26923,10 @@ QuestTranslator_QuestData = {
 
 -- Çelişen Sorular
     ["40698"] = {
-    -- Faldan Moonshatter -> Faldan Aydarması, Astranaar -> Astranaar, Ashenvale -> Ashenvale.
+    -- Faldan Moonshatter -> Faldan Aydarması, Astranaar -> Astranaar, Külvadi -> Külvadi.
     ["Title"]="Çelişen Sorular",
-    ["Description"]="<Maloran'ın yüzünde bir hoşnutsuzluk ifadesi belirir> Görünüşe göre araştırmam beni haklı çıkardı. Derinyosun (Deepmoss) nüfusu artan bir saldırganlık durumundayken, tüm bunların altında yatan daha başka bir şey var. Büyüsel türden bir yozlaşma seziyorum ve bu bulgu beni cevaplardan çok sorularla baş başa bıraktı. Faldan Aydarması (Faldan Moonshatter) adında bir arkadaşım, Ashenvale'deki furbolg yozlaşmasını incelemeyi kendine görev edindi. Belki böyle bir şeyin nasıl meydana gelebileceğine dair bazı cevapları vardır. Faldan'ı Ashenvale'in  kalbinde, Astranaar'da bulabilirsin.",
-    ["Objectives⮚"]="Derinyosun Örümceği (Deepmoss Spider) nüfusunda neden yozlaşma izleri olabileceğini görmek için Ashenvale'deki Astranaar'da bulunan Faldan Aydarması'na danış.",
+    ["Description"]="<Maloran'ın yüzünde bir hoşnutsuzluk ifadesi belirir> Görünüşe göre araştırmam beni haklı çıkardı. Derinyosun (Deepmoss) nüfusu artan bir saldırganlık durumundayken, tüm bunların altında yatan daha başka bir şey var. Büyüsel türden bir yozlaşma seziyorum ve bu bulgu beni cevaplardan çok sorularla baş başa bıraktı. Faldan Aydarması (Faldan Moonshatter) adında bir arkadaşım, Külvadi'deki furbolg yozlaşmasını incelemeyi kendine görev edindi. Belki böyle bir şeyin nasıl meydana gelebileceğine dair bazı cevapları vardır. Faldan'ı Külvadi'in  kalbinde, Astranaar'da bulabilirsin.",
+    ["Objectives⮚"]="Derinyosun Örümceği (Deepmoss Spider) nüfusunda neden yozlaşma izleri olabileceğini görmek için Külvadi'deki Astranaar'da bulunan Faldan Aydarması'na danış.",
     ["Progress"]="Bir haber duydun mu?",
     ["Completion"]="Bir kez daha daha fazla soruyla baş başa kaldım... <Maloran çenesini tutar, kendi kendine düşüncelere dalar.> Soruna bir çözüm bulmak için daha fazla çalışma gerekecek.",
     ["minlevel"]="0",
@@ -32165,12 +32165,12 @@ QuestTranslator_QuestData = {
 
 -- Savaş Alanında Karmaşa
     -- Warsong Lumber Camp -> Savaşşarkısı Kereste Kampı (War + Song). Peons -> Ameleler, Shamans -> Şamanlar. Kaldorei kalmıştır.
-    -- Commander Starwind -> Komutan Yıldızrüzgârı (Star + Wind). Forest Song -> Orman Şarkısı, Ashenvale -> Külvadisi. Elune kalmıştır.
+    -- Commander Starwind -> Komutan Yıldızrüzgârı (Star + Wind). Forest Song -> Orman Şarkısı, Külvadi -> Külvadisi. Elune kalmıştır.
     -- Tor ilisar'thera'nal! (Elfçe kalıptır). Crimson -> Kıpkırmızı / Kan kırmızısı.
     ["40808"] = {
     ["Title"]="Savaş Alanında Karmaşa",
     ["Description"]="İyi dinle, YOUR_NAME. Orada tek başına savaşmayacaksın, bu yüzden savaşırken biraz gayret göster. Ve onların kanıyla kıpkırmızı olana kadar geri dönmeye cüret etme. Sıradan işçiler mi, ameleler (peons) mi, muhafızlar mı yoksa şamanlar mı olduğu umurumda değil. Ayrım gözetmeksizin onları öldür. Savaş alanına karmaşa getir. Her bir Kaldorei ölümü on katıyla ödetilecek, sözlerimi iyi dinle.\n\nEğer buradan sağ dönersen ve onurla savaşırsan adını unutmayacağız, YOUR_NAME. Eğer dönmezsen, Elune  bedenine bakışlarını fırlatsın. Tor ilisar'thera'nal!",
-    ["Objectives"]="Ashenvale'deki Orman Şarkısı'nda (Forest Song) bulunan Komutan Yıldızrüzgârı (Commander Starwind) için Savaşşarkısı Kereste Kampı (Warsong Lumber Camp) etrafındaki güruh istilacılarıyla savaş.",
+    ["Objectives"]="Külvadi'deki Orman Şarkısı'nda (Forest Song) bulunan Komutan Yıldızrüzgârı (Commander Starwind) için Savaşşarkısı Kereste Kampı (Warsong Lumber Camp) etrafındaki güruh istilacılarıyla savaş.",
     ["Progress"]="Şimdiden döndün mü?",
     ["Completion"]="Resmen kan, ter ve pislik kokuyorsun. Onları geri püskürttün mü?",
     ["minlevel"]="0",
@@ -32178,12 +32178,12 @@ QuestTranslator_QuestData = {
     }, -- end Havoc on the Battlefield
 
 -- Şahinin Gagası
-    -- Norvok Hawkspear -> Norvok Şahinmızrağı (Hawk + Spear). Ashenvale -> Külvadisi.
+    -- Norvok Hawkspear -> Norvok Şahinmızrağı (Hawk + Spear). Külvadi -> Külvadisi.
     -- Heirloom -> Aile yadigarı. Tribe -> Kabile. Hawk's wings -> Şahinin kanatları.
     ["70034"] = {
     ["Title"]="Şahinin Gagası",
     ["Description"]="Norvok bir aile yadigarını aramak için dışarı çıkacak durumda değil, ama tamamen iyileşmeden önce dışarı fırlamaya yeleneceğinden endişe duyuyorum.\n\nArkasında bıraktığı mızrağa dair herhangi bir iz arayabilirsen, hem Norvok hem de kendim adına epey minnettar kalırım.\n\nDoğudaki iblisler onu bulman için en iyi şansındır, o yüzden hızla git!",
-    ["Objectives"]="Ashenvale'deki Norvok Şahinmızrağı (Norvok Hawkspear) için Norvok'un Silahına dair herhangi bir iz geri al.",
+    ["Objectives"]="Külvadi'deki Norvok Şahinmızrağı (Norvok Hawkspear) için Norvok'un Silahına dair herhangi bir iz geri al.",
     ["Progress"]="E-evet?",
     ["Completion"]="Bu mızrak aileme birçok nesil boyunca hizmet etti. Onun sonunu getiren kişi olduğum ve kabileme utanç yaşattığım için üzgünüm.\n\n<Norvok devasa burun deliklerinden derin bir nefes alır ve bir gülümsemeyle havayı dışarı verir.>\n\nDertli görünme yeni dostum, bana bilmediğin kadar yardım ettin; bu bir son değil, yalnızca bir başlangıçtır.\n\nNamulayı yeniden döveceğim ve daha sağlam hale getireceğim; ne de olsa bir şahinin kanatlarını kessen bile, gagası her zamanki kadar tehlikelidir.",
     ["minlevel"]="0",
@@ -33538,12 +33538,12 @@ QuestTranslator_QuestData = {
     }, -- end Kaelin's Gift
 
 -- Kalanar'ın Tokmağı
-    -- Ashenvale -> Külvadisi. The Crescent Grove -> Hilal Korusu (Crescent + Grove). Druids -> Druidler.
+    -- Külvadi -> Külvadisi. The Crescent Grove -> Hilal Korusu (Crescent + Grove). Druids -> Druidler.
     -- Furbolg -> Furbolg. Groveweald -> Koruormanı / Groveweald kalmıştır.
     -- Kalanar Brightshine -> Kalanar Parlakışık (Bright + Shine). Astranaar kalmıştır. Mallet -> Tokmak.
     ["40326"] = {
     ["Title"]="Kalanar'ın Tokmağı",
-    ["Description"]="Uzun zaman önce ev diyebileceğim bir yer arayışıyla Külvadisi (Ashenvale) ormanlarında seyahat etmiştim. Druidler Hilal Korusu (The Crescent Grove) ile ilgilenirken, böylesine sakin bir yerin mükemmel bir ev olacağını düşündüm. Yüzyıllar boyunca bahçemle ilgilendim ve druidlere her türlü ihtiyaçlarında yardımcı oldum.\n\nSon zamanlarda, kendilerine Groveweald diyen bir grup Furbolg buraya yerleşti. Beni evimden kovdular ve hatta onu tamamen yakıp yıkacak kadar küstahlaştılar. Panik içinde arkamda birçok değerli yadigar ve hazine bıraktım. Şüphesiz çoğu kül oldu.\n\nLütfen Hilal Korusu'ndaki yanan evime seyahat et ve evin arkasından tokmağımı (mallet) topla. Bana babam tarafından verilmişti ve evimi inşa etmek için onu kullanmıştım. Onu geri al, çünkü benim için çok şey ifade ediyor.",
+    ["Description"]="Uzun zaman önce ev diyebileceğim bir yer arayışıyla Külvadisi (Külvadi) ormanlarında seyahat etmiştim. Druidler Hilal Korusu (The Crescent Grove) ile ilgilenirken, böylesine sakin bir yerin mükemmel bir ev olacağını düşündüm. Yüzyıllar boyunca bahçemle ilgilendim ve druidlere her türlü ihtiyaçlarında yardımcı oldum.\n\nSon zamanlarda, kendilerine Groveweald diyen bir grup Furbolg buraya yerleşti. Beni evimden kovdular ve hatta onu tamamen yakıp yıkacak kadar küstahlaştılar. Panik içinde arkamda birçok değerli yadigar ve hazine bıraktım. Şüphesiz çoğu kül oldu.\n\nLütfen Hilal Korusu'ndaki yanan evime seyahat et ve evin arkasından tokmağımı (mallet) topla. Bana babam tarafından verilmişti ve evimi inşa etmek için onu kullanmıştım. Onu geri al, çünkü benim için çok şey ifade ediyor.",
     ["Objectives"]="Hilal Korusu'na (Crescent Grove) seyahat et ve Kalanar Parlakışık'ın (Kalanar Brightshine) yanan evini bul. Ardından Kalanar'ın Tokmağı'nı (Kalanar's Mallet) geri al ve Astranaar'daki kendisine götür.",
     ["Progress"]="Hilal Korusu tehlikeli bir yerdir, eğer oraya gideceksen yanına yardım almanı öneririm.",
     ["Completion"]="İşte bu, hâlâ orada olacağını tahmin etmiyordum. Teşekkürlerimi sunarım; bu tokmakla yeni bir ev yaratacağım ve yerleşecek yeni bir yer bulacağım.",
@@ -33638,9 +33638,9 @@ QuestTranslator_QuestData = {
     ["40091"] = {
     -- Crescent Grove -> Hilal Korusu. Keeper Ranathos -> Gözcü Ranathos.
     -- Arch Druid Staghelm -> Baş Druid Staghelm, Cenarion Circle -> Cenarion Çemberi.
-    -- Ashenvale -> Külvadisi, Mystral Lake -> Mystral Gölü, Denatharion, Teldrassil kalmıştır.
+    -- Külvadi -> Külvadisi, Mystral Lake -> Mystral Gölü, Denatharion, Teldrassil kalmıştır.
     ["Title"]="Hilal Korusu",
-    ["Description"]="Hilal Korusu (The Crescent Grove) bir zamanlar uzun yıllar boyunca bizim türümüzden druidlerin sığınağıydı. Son zamanlarda, orada karanlık bir kötülük pusuda bekliyor. Gözcü Ranathos, bölgeyi kasıp kavuran lekeyi geri tutmakla görevlendirilmişti, ancak son zamanlarda ondan hiçbir haber alamadık. Geri gönderdiği son mesajı da oldukça tutarsızdı ve Ranathos'a hiç benzemiyordu. Biz druidlerin, Hilal Korusu'nun içinde çok daha karanlık bir şeyin kök saldığına dair şüphelerimiz vardı. Yakın zamanda, druidlerinizden birinin yozlaştığına ve çarpıtıldığına dair bir rapor aldık. Baş Druid Staghelm (Arch Druid Staghelm) druidlerden Hilal Korusu'nda kontrolü yeniden sağlamak için yardım istedi, ancak bunu yapamıyoruz. Belki sen yardımcı olabilirsin.\n\nKorunun girişini Külvadisi'nin (Ashenvale) güneyinde, Mystral Gölü'ne (Mystral Lake) dökülen şelalede bulabilirsin. Mağaranın girişi yukarıda yer alıyor; bu yüzden ileri atıl ve o yerde pusuda bekleyen kötülüğü yok et. Yanına yardım getirdiğinden emin ol. İçeride pek çok zorlukla karşılaşacaksın.",
+    ["Description"]="Hilal Korusu (The Crescent Grove) bir zamanlar uzun yıllar boyunca bizim türümüzden druidlerin sığınağıydı. Son zamanlarda, orada karanlık bir kötülük pusuda bekliyor. Gözcü Ranathos, bölgeyi kasıp kavuran lekeyi geri tutmakla görevlendirilmişti, ancak son zamanlarda ondan hiçbir haber alamadık. Geri gönderdiği son mesajı da oldukça tutarsızdı ve Ranathos'a hiç benzemiyordu. Biz druidlerin, Hilal Korusu'nun içinde çok daha karanlık bir şeyin kök saldığına dair şüphelerimiz vardı. Yakın zamanda, druidlerinizden birinin yozlaştığına ve çarpıtıldığına dair bir rapor aldık. Baş Druid Staghelm (Arch Druid Staghelm) druidlerden Hilal Korusu'nda kontrolü yeniden sağlamak için yardım istedi, ancak bunu yapamıyoruz. Belki sen yardımcı olabilirsin.\n\nKorunun girişini Külvadisi'nin (Külvadi) güneyinde, Mystral Gölü'ne (Mystral Lake) dökülen şelalede bulabilirsin. Mağaranın girişi yukarıda yer alıyor; bu yüzden ileri atıl ve o yerde pusuda bekleyen kötülüğü yok et. Yanına yardım getirdiğinden emin ol. İçeride pek çok zorlukla karşılaşacaksın.",
     ["Objectives"]="Hilal Korusu'nun (Crescent Grove) içindeki yozlaşmanın kaynağını yok et ve Teldrassil'deki Denatharion'a geri dön.",
     ["Progress"]="Koruya henüz adım attın mı?",
     ["Completion"]="Baş Druid Staghelm bu haberleri duyunca çok sevinecek! Lütfen Cenarion Çemberi (Cenarion Circle) adına bu eşyalardan birini kabul et.",
@@ -34031,11 +34031,11 @@ QuestTranslator_QuestData = {
 
 -- Bıçak Kulaklı Takipçiler
     -- Knife eared -> Bıçak kulaklı (Elfler için argo). Peons -> Irgatlar / İşçiler.
-    -- Ashenvale Stalkers -> Ashenvale Takipçiler / Külvadisi Takipçileri. Elves -> Elfler.
+    -- Külvadi Stalkers -> Külvadi Takipçiler / Külvadisi Takipçileri. Elves -> Elfler.
     ["70025"] = {
     ["Title"]="Bıçak Kulaklı Takipçiler",
     ["Description"]="O bıçak kulaklı pislikler bizi ormandan dışarı zorlamaya çalışıyor; tarlalarımızın etrafında saklanan ve ırgatlarımızı (peons) katleden bir takipçi müfrezesi gönderdiler, durdurulmaları gerekiyor!\n\nGit ve ellerini kirlet, hiçbirini canlı bırakma ve ne pahasına olursa olsun daha fazla ırgatın ölmediğinden emin ol.",
-    ["Objectives"]="20 Külvadisi Takipçisi (Ashenvale Stalkers) öldür.",
+    ["Objectives"]="20 Külvadisi Takipçisi (Külvadi Stalkers) öldür.",
     ["Progress"]="Git ve ellerini kirlet, hiçbirini canlı bırakma ve ne pahasına olursa olsun daha fazla ırgatın ölmediğinden emin ol.",
     ["Completion"]="Elflerin araya girmesi sona erdiğine göre görevimize huzur içinde devam edebiliriz. Teşekkürler YOUR_NAME, sandığımdan daha yetenekliymişsin.",
     ["minlevel"]="0",
@@ -35462,11 +35462,11 @@ QuestTranslator_QuestData = {
 
 -- Korunun Gizemleri
     -- Druids -> Druidler. Elvish grove -> Elflerin korusu, corrupted -> yozlaşmış. Darkness -> Karanlık.
-    -- Scout -> Gözcü, Ashenvale = Ashenvale. Feran Strongwind -> Feran Güçlürüzgar (Strong + Wind) kalmıştır.
+    -- Scout -> Gözcü, Külvadi = Külvadi. Feran Strongwind -> Feran Güçlürüzgar (Strong + Wind) kalmıştır.
     -- Splintertree Post = Splintertree Karakolu, Crescent Grove -> Hilal Korusu (Crescent + Grove). Loruk kalmıştır.
     ["40145"] = {
     ["Title"]="Korunun Gizemleri",
-    ["Description"]="Bölgedeki bazı druidlerden (druids), saklı kalmış ve yozlaşmış (corrupted) bir elf korusuna (elvish grove) dair söylentiler duydum. Farz edelim ki böyle bir karanlık pusuda bekleyip rahatsız edilmeden kalabiliyor; bu durumda ormanın ve doğanın  kendisi için korkunç şeyler anlamına gelebilir.\n\nYakınlarda böyle bir kargaşayı kontrol etmiş olan bir gözcüm var. Ashenvale (Ashenvale) içindeki yozlaşmayı ortadan kaldırmaya kaynak ayırmadan önce onun raporunu almak istiyorum. Onu hemen güneybatıdaki yolun aşağısında, küçük bir kampta bulabilirsin. Feran Strongwind adıyla bilinir ve bildiklerini sana anlatacaktır.",
+    ["Description"]="Bölgedeki bazı druidlerden (druids), saklı kalmış ve yozlaşmış (corrupted) bir elf korusuna (elvish grove) dair söylentiler duydum. Farz edelim ki böyle bir karanlık pusuda bekleyip rahatsız edilmeden kalabiliyor; bu durumda ormanın ve doğanın  kendisi için korkunç şeyler anlamına gelebilir.\n\nYakınlarda böyle bir kargaşayı kontrol etmiş olan bir gözcüm var. Külvadi (Külvadi) içindeki yozlaşmayı ortadan kaldırmaya kaynak ayırmadan önce onun raporunu almak istiyorum. Onu hemen güneybatıdaki yolun aşağısında, küçük bir kampta bulabilirsin. Feran Strongwind adıyla bilinir ve bildiklerini sana anlatacaktır.",
     ["Objectives"]="Splintertree Karakolu'nun (Splintertree Post) dışındaki Feran Strongwind ile konuş.",
     ["Progress"]="Evet? Benden istediğin bir şey var mı?",
     ["Completion"]="Seni Loruk gönderdi. Hilal Korusu (Crescent Grove) hakkında haberler duymak istediğini varsayıyorum.",
@@ -36004,13 +36004,13 @@ QuestTranslator_QuestData = {
 
 -- İhtiyar Greypaw
     ["40197"] = {
-    -- Furbolg = Furbolg (Yaratık türü). Ashenvale = Ashenvale. Daela Evermoon -> Daela Dolunay kalmıştır.
+    -- Furbolg = Furbolg (Yaratık türü). Külvadi = Külvadi. Daela Evermoon -> Daela Dolunay kalmıştır.
     -- Ardaen kalmıştır. Old Greypaw -> İhtiyar Kırpençe (Grey + Paw) -> İhtiyar Greypaw kalmıştır.
     ["Title"]="İhtiyar Greypaw",
     ["Description"]="Uzun yıllar boyunca komşumuz bir furbolgdu; son birkaç yılda yaşlandı ama son derece bilgeydi. İhtiyar Greypaw genellikle kendi başına buyruk yaşar, kendi işine bakardı; eğer arkadaşlığa ihtiyacı olursa sık sık gece vaktinde sohbet etmek için buralara uğrardı.\n\nSon zamanlarda onun akıl sağlığından endişe ediyorum, ormandaki diğer furbolglar mantıksızca davranmaya başladı ve Greypaw'un da benzer bir kadere boyun eğmesinden korkuyorum. Aylardır buralara uğramadı ve kuzeydeki evine kapandı.\n\nBana ya da yaklaşmak ve konuşmak isteyen Ardaen'e karşı saldırgan davrandı, ama belki sen onunla konuşabilir ve iyi olup olmadığını sorabilirsin. Eski bir dostun iyi olduğunu bilmek kesinlikle içimi rahatlatacaktır.",
-    ["Objectives"]="Daela Evermoon için Ashenvale'deki İhtiyar Greypaw ile konuş.",
+    ["Objectives"]="Daela Evermoon için Külvadi'deki İhtiyar Greypaw ile konuş.",
     ["Progress"]="Düşmanca davranabilir ama seni temin ederim ki bu onun doğasında yok ve derinlerde bir yerde o gerçekten nazik bir ruh.",
-    ["Completion"]="Tüm Ashenvale için böyle bir şeyin yaşanması büyük bir trajedi. Orman, ağaçlarda pusuya yatan pis bir deliliğe yenik düşerek bugün gerçekten parlak bir zihnini kaybetti.\n\nKötü hissetme, İhtiyar Greypaw için bu kaderi engellemenin bir yolu yoktu; hem kendisi hem de yakınındaki herkes için bir tehlikeydi. Ruhunun Elune'a yükselmesi ve sonsuza dek gözetilmesi için dua ediyorum.\n\nHer ne kadar bu şekilde bitmesinden nefret etsem de yine de sana teşekkürlerimi sunmalıyız; zira Greypaw kendisinde değildi, eğer buralarda olsaydı deliliğinden kurtulmak için böyle bir merhamet dilerdi.",
+    ["Completion"]="Tüm Külvadi için böyle bir şeyin yaşanması büyük bir trajedi. Orman, ağaçlarda pusuya yatan pis bir deliliğe yenik düşerek bugün gerçekten parlak bir zihnini kaybetti.\n\nKötü hissetme, İhtiyar Greypaw için bu kaderi engellemenin bir yolu yoktu; hem kendisi hem de yakınındaki herkes için bir tehlikeydi. Ruhunun Elune'a yükselmesi ve sonsuza dek gözetilmesi için dua ediyorum.\n\nHer ne kadar bu şekilde bitmesinden nefret etsem de yine de sana teşekkürlerimi sunmalıyız; zira Greypaw kendisinde değildi, eğer buralarda olsaydı deliliğinden kurtulmak için böyle bir merhamet dilerdi.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Old Greypaw
@@ -36704,13 +36704,13 @@ QuestTranslator_QuestData = {
 -- Victory, Such as it is
     -- Forest Song = Orman Şarkısı. Fandral Staghelm -> Fandral Geyikmiğferi kalmıştır.
     -- Teldrassil = Teldrassil. Arch Druid -> Baş Druid, Cenarion Enclave = Cenarion Bölgesi.
-    -- Southern Ashenvale -> Güney Ashenvale. Brolthan Ironglade -> Brolthan Demirkoru kalmıştır. Report -> Rapor.
+    -- Southern Külvadi -> Güney Külvadi. Brolthan Ironglade -> Brolthan Demirkoru kalmıştır. Report -> Rapor.
     ["40804"] = {
     ["Title"]="Zafer, İşte Olduğu Kadar",
     ["Description"]="Orman Şarkısı'na (Forest Song) yardım etme ve bu çıkmaza son verme görevin sona erdi. Ancak, Fandral Staghelm'e (Fandral Staghelm) haber göndermek için senden daha uygun birini düşünemiyorum, YOUR_NAME. İşin önemli bir kısmını sen yaptın ve övgünün o kısmını da hak ediyorsun. Git, şimdi. Teldrassil'e (Teldrassil) giden yol uzun, her ne kadar güzel olsa da. Biraz dinlenmek ve rahatlamak için zaman ayır, belki de kadim meşelerimizin yemyeşil örtüsünün tadını çıkarırsın. Gemiye binip Teldrassil'e ulaştığında, Baş Druid'i (the Arch Druid) güzel başkentimizin Cenarion Bölgesi'nde (Cenarion Enclave) bulacaksın. Al bakalım, bu rapor neyin ortaya çıktığını açıklamalı. Bunu ona ver, ama öfkesine karşı biraz temkinli ol.",
     ["Objectives"]="Mühürlü Orman Şarkısı Raporu'nu (Sealed Forest Song Report) Darnassus'taki Baş Druid Fandral Staghelm'e ulaştır.",
     ["Progress"]="Hızlıca konuş, omuzlarımda sayısız başka yük var; eğer onlara yenisini ekleyeceksen, en azından bunu yapmanı ve hemen gitmeni talep ediyorum.",
-    ["Completion"]="Ah, Güney Ashenvale'deki (Southern Ashenvale) o pis iş sona erdi, öyle mi? Bakalım Brolthan Ironglade neler başarmış.",
+    ["Completion"]="Ah, Güney Külvadi'deki (Southern Külvadi) o pis iş sona erdi, öyle mi? Bakalım Brolthan Ironglade neler başarmış.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Victory, Such as it is
@@ -37153,11 +37153,11 @@ QuestTranslator_QuestData = {
 -- Peon's Wardrobe Makeover
     -- Peons -> Peonlar / İşçiler, forest -> orman, rags -> paçavralar.
     -- Bears -> Ayılar, Splintertree Post = Splintertree Karakolu, leatherworker -> deri işleme ustası / tabakçı.
-    -- Elder Ashenvale Bear Pelts -> Yaşlı Ashenvale Ayısı Postları.
+    -- Elder Külvadi Bear Pelts -> Yaşlı Külvadi Ayısı Postları.
     ["70026"] = {
     ["Title"]="Peon'un Gardırop Yenilemesi",
     ["Description"]="Çoğu görev tamamlanmışken, senden sadece bir iyilik isteyeceğim; zavallı peonlarımız (peons) bu lanet olası ormana geldiğimizden beri aynı yırtık pırtık kıyafetleri giyiyorlar, o paçavralarla (rags) bir gün daha geçiremezler ve odun kesen çıplak peonlar yüzünden suçlanacak kişi kesinlikle ben olmayacağım!\n\nBenimle birlikte biraz ayı avlamanı ve yüzmeni istiyorum; Splintertree Karakolu'nun (Splintertree Post) kuzeyinde ve hemen sol bitişiğinde ayıları bulabileceksin, deri işleme ustamızın (leatherworker) o zavallı sefil ruhlar için yeni kıyafetler işlemesine yetecek kadar topla; ama unutma YOUR_NAME, sadece ayıların en yaşlı olanlarını avla.",
-    ["Objectives"]="10 Yaşlı Ashenvale Ayısı Postu (Elder Ashenvale Bear Pelts) topla.",
+    ["Objectives"]="10 Yaşlı Külvadi Ayısı Postu (Elder Külvadi Bear Pelts) topla.",
     ["Progress"]="Unutma, sadece ayıların en yaşlı olanlarını avla.",
     ["Completion"]="Teşekkürlerimi kabul et YOUR_NAME, çalışman bana ve adamlarıma tahmin edeceğinden daha fazla yardımcı oldu; bir minnettarlık göstergesi olarak deri işleme ustası bunu senin için yaptı.",
     ["minlevel"]="0",
@@ -37539,14 +37539,14 @@ QuestTranslator_QuestData = {
 
 -- Rampant Weeds
     -- Alanndrian kalmıştır. Wailing Caverns = Sızlanan Mağaralar (Wailing Caverns). Maze -> Labirent / Dolambaç, caves -> mağaralar.
-    -- Barrens -> Çorak Topraklar, Ashenvale = Ashenvale. Naralex kalmıştır. Kalimdor = Kalimdor.
+    -- Barrens -> Çorak Topraklar, Külvadi = Külvadi. Naralex kalmıştır. Kalimdor = Kalimdor.
     -- Rampant growths -> Azgın büyümeler / bitkiler. Stone labyrinth -> Taş labirent. Cenarion Circle -> Cenarion Çemberi (Cenarion Circle).
     -- Samples -> Örnekler. Thundris Windweaver -> Thundris Rüzgardokuyan kalmıştır. Auberdine = Auberdine.
     -- Unnatural Overgrowths -> Doğal Olmayan Aşırı Büyümeler. Den of nightmares -> Kabuslar ini. Horde territory -> Horde bölgesi.
     -- Magic -> Büyü, druidic magic -> druid büyüsü. Druids -> Druidler, volatile growth -> devingen büyüme. Compensation -> Tazminat / Bedel.
     ["41363"] = {
     ["Title"]="Azgın Yabani Otlar",
-    ["Description"]="Öğrencim Alanndrian ile çoktan bir araya gelmiş olabilirsin; Ashenvale'in güneyindeki Çorak Topraklar'da (the Barrens) bulunan lanetli bir mağara labirenti olan Sızlanan Mağaralar'dan (Wailing Caverns) dışarı sürünen tehlikeleri araştırmayı  üstlendi. Soylu -ve kesinlikle safça- olsa da, Naralex'in ahmaklığı Kalimdor'un (Kalimdor) dengesine onarılamaz bir zarar verdi; bu durum en belirgin şekilde taş labirentten fışkıran azgın büyümelerde (rampant growths) ayırt edilebiliyor. Bu bitkilerden bazıları kendi başlarına hareket etmeye başladı, bu da Naralex'in istemsiz güçlerinin potansiyelinin bir kanıtıdır. Cenarion Çemberi (Cenarion Circle) ile bir karşı önlem tasarlayabilmem için bu bitkileri incelemek istiyorum. Sızlanan Mağaralar içinde bulabileceğin en vahşi bitkilerden bana yeterince örnek getir, karşılığını fazlasıyla alacaksın.",
+    ["Description"]="Öğrencim Alanndrian ile çoktan bir araya gelmiş olabilirsin; Külvadi'in güneyindeki Çorak Topraklar'da (the Barrens) bulunan lanetli bir mağara labirenti olan Sızlanan Mağaralar'dan (Wailing Caverns) dışarı sürünen tehlikeleri araştırmayı  üstlendi. Soylu -ve kesinlikle safça- olsa da, Naralex'in ahmaklığı Kalimdor'un (Kalimdor) dengesine onarılamaz bir zarar verdi; bu durum en belirgin şekilde taş labirentten fışkıran azgın büyümelerde (rampant growths) ayırt edilebiliyor. Bu bitkilerden bazıları kendi başlarına hareket etmeye başladı, bu da Naralex'in istemsiz güçlerinin potansiyelinin bir kanıtıdır. Cenarion Çemberi (Cenarion Circle) ile bir karşı önlem tasarlayabilmem için bu bitkileri incelemek istiyorum. Sızlanan Mağaralar içinde bulabileceğin en vahşi bitkilerden bana yeterince örnek getir, karşılığını fazlasıyla alacaksın.",
     ["Objectives"]="Auberdine'deki Thundris Windweaver, Sızlanan Mağaralar'daki (Wailing Caverns) Doğal Olmayan Aşırı Büyümelerin (Unnatural Overgrowths) örneklerine ihtiyaç duyuyor.",
     ["Progress"]="Dikkatli ol. Bu kabuslar ini (den of nightmares) sadece son derece tehlikeli olmakla kalmıyor, aynı zamanda Horde bölgesindeki (Horde territory) yolculuğun da öyle.",
     ["Completion"]="Merak uyandırıcı. Bu örnekler bana hiç de yabancı olmayan bir büyü yayıyor, ilk bakışta hatta druid büyüsü (druidic magic) yaydıklarını söyleyebilirim. Tabii ki aceleci sonuçlara varmamalıyız. Cenarion Çemberi (Cenarion Circle) içinde daha fazla araştırma yapılması gerekecek. Muhterem druidleri kesinlikle onların bu devingen büyümelerinin (volatile growth) kökenini çözebilir. YOUR_NAME, takdirimi kazandın. Lütfen, zahmetlerin için bir bedel (compensation) olarak bunlardan birini al.",
@@ -38950,15 +38950,15 @@ QuestTranslator_QuestData = {
 
 -- Scars of the Past
     -- Betrayed -> İhanet edilmek, dooming -> felakete sürüklemek. Blood of the demon Mannoroth -> İblis Mannoroth'un kanı.
-    -- Companion Korvir -> Yoldaş Korvir kalmıştır, Truthseeker -> Doğruarayan kalmıştır (Özel kılıç veya NPC adı). Forests -> ormanlar, Ashenvale = Ashenvale.
+    -- Companion Korvir -> Yoldaş Korvir kalmıştır, Truthseeker -> Doğruarayan kalmıştır (Özel kılıç veya NPC adı). Forests -> ormanlar, Külvadi = Külvadi.
     -- Logrash kalmıştır, scars -> yaralar, chest -> göğüs, painful expression -> acılı ifade.
     -- Spirits -> Ruhlar, demon scum -> iblis pisliği. Naxiar kalmıştır, eastern lakes -> doğu gölleri.
     -- Wolf totem -> kurt totemi. Hunt -> av, Barrens -> Çorak Topraklar.
     -- Mok'ra -> Mok'ra (Ork selamlaması), accursed demon -> lanetli iblis, rage -> öfke, revenge -> intikam, motive -> dürtü / sebep.
     ["40109"] = {
     ["Title"]="Geçmişin Yaraları",
-    ["Description"]="Dört yıl önce, kendi halkım, bizi ilk başta felakete sürükleyen (dooming) şeyin aynısını —iblis Mannoroth'un kanını (blood of the demon Mannoroth) içmeyi— reddettiğim için bana ihanet etti. Yoldaşım Korvir (Korvir) ve Doğruarayan (Truthseeker) olmasaydı, bedenim Ashenvale ormanlarında çoktan çürüyüp gitmişti. <Logrash göğsündeki (chest) yaraları acılı bir ifadeyle okşar.> Ruhlar (the spirits), Ashenvale'in doğu göllerinin etrafında saklanan Naxiar adlı bir iblis pisliğinden fısıldıyor. Eğer yardımıma sahip olmak istiyorsan, onu öldürmene ve kurt totemimi (wolf totem) geri almana ihtiyacım var.",
-    ["Objectives"]="Doğu Ashenvale'deki Naxiar'ı öldür ve kurt totemini Çorak Topraklar'daki Logrash'a geri getir.",
+    ["Description"]="Dört yıl önce, kendi halkım, bizi ilk başta felakete sürükleyen (dooming) şeyin aynısını —iblis Mannoroth'un kanını (blood of the demon Mannoroth) içmeyi— reddettiğim için bana ihanet etti. Yoldaşım Korvir (Korvir) ve Doğruarayan (Truthseeker) olmasaydı, bedenim Külvadi ormanlarında çoktan çürüyüp gitmişti. <Logrash göğsündeki (chest) yaraları acılı bir ifadeyle okşar.> Ruhlar (the spirits), Külvadi'in doğu göllerinin etrafında saklanan Naxiar adlı bir iblis pisliğinden fısıldıyor. Eğer yardımıma sahip olmak istiyorsan, onu öldürmene ve kurt totemimi (wolf totem) geri almana ihtiyacım var.",
+    ["Objectives"]="Doğu Külvadi'deki Naxiar'ı öldür ve kurt totemini Çorak Topraklar'daki Logrash'a geri getir.",
     ["Progress"]="Av (hunt) nasıl gidiyor?",
     ["Completion"]="Mok'ra, YOUR_NAME. Lanetli iblisin (accursed demon) öldüğünü varsayıyorum. Güzel, onun gibiler ölümden fazlasını hak etmiyor. Onlara karşı öfkem (rage) derinden gelse de, intikam (revenge) tek sebebim (motive) değildi.",
     ["minlevel"]="0",
@@ -39443,15 +39443,15 @@ QuestTranslator_QuestData = {
 
 -- Scars of the Past
     -- Betrayed -> İhanet edilmek, dooming -> felakete sürüklemek. Blood of the demon Mannoroth -> İblis Mannoroth'un kanı.
-    -- Companion Korvir -> Yoldaş Korvir kalmıştır, Truthseeker -> Doğruarayan kalmıştır (Özel kılıç veya NPC adı). Forests -> ormanlar, Ashenvale = Ashenvale.
+    -- Companion Korvir -> Yoldaş Korvir kalmıştır, Truthseeker -> Doğruarayan kalmıştır (Özel kılıç veya NPC adı). Forests -> ormanlar, Külvadi = Külvadi.
     -- Logrash kalmıştır, scars -> yaralar, chest -> göğüs, painful expression -> acılı ifade.
     -- Spirits -> Ruhlar, demon scum -> iblis pisliği. Naxiar kalmıştır, eastern lakes -> doğu gölleri.
     -- Wolf totem -> kurt totemi. Hunt -> av, Barrens -> Çorak Topraklar.
     -- Mok'ra -> Mok'ra (Ork selamlaması), accursed demon -> lanetli iblis, rage -> öfke, revenge -> intikam, motive -> dürtü / sebep.
     ["40109"] = {
     ["Title"]="Geçmişin Yaraları",
-    ["Description"]="Dört yıl önce, kendi halkım, bizi ilk başta felakete sürükleyen (dooming) şeyin aynısını —iblis Mannoroth'un kanını (blood of the demon Mannoroth) içmeyi— reddettiğim için bana ihanet etti. Yoldaşım Korvir (Korvir) ve Doğruarayan (Truthseeker) olmasaydı, bedenim Ashenvale ormanlarında çoktan çürüyüp gitmişti. <Logrash göğsündeki (chest) yaraları acılı bir ifadeyle okşar.> Ruhlar (the spirits), Ashenvale'in doğu göllerinin etrafında saklanan Naxiar adlı bir iblis pisliğinden fısıldıyor. Eğer yardımıma sahip olmak istiyorsan, onu öldürmene ve kurt totemimi (wolf totem) geri almana ihtiyacım var.",
-    ["Objectives"]="Doğu Ashenvale'deki Naxiar'ı öldür ve kurt totemini Çorak Topraklar'daki Logrash'a geri getir.",
+    ["Description"]="Dört yıl önce, kendi halkım, bizi ilk başta felakete sürükleyen (dooming) şeyin aynısını —iblis Mannoroth'un kanını (blood of the demon Mannoroth) içmeyi— reddettiğim için bana ihanet etti. Yoldaşım Korvir (Korvir) ve Doğruarayan (Truthseeker) olmasaydı, bedenim Külvadi ormanlarında çoktan çürüyüp gitmişti. <Logrash göğsündeki (chest) yaraları acılı bir ifadeyle okşar.> Ruhlar (the spirits), Külvadi'in doğu göllerinin etrafında saklanan Naxiar adlı bir iblis pisliğinden fısıldıyor. Eğer yardımıma sahip olmak istiyorsan, onu öldürmene ve kurt totemimi (wolf totem) geri almana ihtiyacım var.",
+    ["Objectives"]="Doğu Külvadi'deki Naxiar'ı öldür ve kurt totemini Çorak Topraklar'daki Logrash'a geri getir.",
     ["Progress"]="Av (hunt) nasıl gidiyor?",
     ["Completion"]="Mok'ra, YOUR_NAME. Lanetli iblisin (accursed demon) öldüğünü varsayıyorum. Güzel, onun gibiler ölümden fazlasını hak etmiyor. Onlara karşı öfkem (rage) derinden gelse de, intikam (revenge) tek sebebim (motive) değildi.",
     ["minlevel"]="0",
@@ -39631,12 +39631,12 @@ QuestTranslator_QuestData = {
 
 -- Scythe of the Goddess
     -- Shrine of Mel'Thandris -> Mel'Thandris Sunağı, Felwood = Felwood.
-    -- Ashenvale = Ashenvale, Arugal = Arugal. Arch Druid Dreamwind -> Baş Druid Rüyarüzgarı kalmıştır.
+    -- Külvadi = Külvadi, Arugal = Arugal. Arch Druid Dreamwind -> Baş Druid Rüyarüzgarı kalmıştır.
     -- Kalimdor = Kalimdor, Nordrassil = Nordrassil. Velinde = Velinde.
     -- Nordanaar = Nordanaar.
     ["41066"] = {
     ["Title"]="Tanrıça'nın Tırpanı",
-    ["Description"]="Tırpan bana Mel'Thandris Sunağı'nda (Shrine of Mel'Thandris) hediye edildi. Worgenları çağırma yeteneği, Felwood'un yozlaşmasına karşı verilen savaşta gidişatı tersine çevirmeme yardımcı oldu. Yine de onların üzerindeki kontrolümü kaybediyordum. Yardıma ihtiyacım vardı. Ashenvale ormanlarından belirli bir amaçla ayrıldım — kendisi de worgenları çağırmış olan büyücü Arugal'dan akıl danışmak için. Bu yaratıklar ile Elune'un onlara bahşettiği teveccüh arasındaki bağlantıyı anlamayı çok istiyordum. Ama... Arugal... ölü mü? Elune'un gözyaşları adına, bu haber beni kedere boğuyor. Bu anda yönelebileceğimiz tek bir kişi var, bize daha fazla rehberlik edecek bilgeliğe ve bilgiye sahip olan biri. Baş Druid Rüyarüzgarı (Arch Druid Dreamwind), öte dünyalara ait olanın bir bilgini olarak, alemlerimizin ve ötesinin gizemlerini çözmenin anahtarını elinde tutuyor olabilir. Onu bul ve başıma gelen hikayeyi ona anlat. Kalimdor'dan (Kalimdor) ayrıldığımda, Nordrassil'i (Nordrassil) iyileştirme çabalarının en ön safhasında yer alıyordu.",
+    ["Description"]="Tırpan bana Mel'Thandris Sunağı'nda (Shrine of Mel'Thandris) hediye edildi. Worgenları çağırma yeteneği, Felwood'un yozlaşmasına karşı verilen savaşta gidişatı tersine çevirmeme yardımcı oldu. Yine de onların üzerindeki kontrolümü kaybediyordum. Yardıma ihtiyacım vardı. Külvadi ormanlarından belirli bir amaçla ayrıldım — kendisi de worgenları çağırmış olan büyücü Arugal'dan akıl danışmak için. Bu yaratıklar ile Elune'un onlara bahşettiği teveccüh arasındaki bağlantıyı anlamayı çok istiyordum. Ama... Arugal... ölü mü? Elune'un gözyaşları adına, bu haber beni kedere boğuyor. Bu anda yönelebileceğimiz tek bir kişi var, bize daha fazla rehberlik edecek bilgeliğe ve bilgiye sahip olan biri. Baş Druid Rüyarüzgarı (Arch Druid Dreamwind), öte dünyalara ait olanın bir bilgini olarak, alemlerimizin ve ötesinin gizemlerini çözmenin anahtarını elinde tutuyor olabilir. Onu bul ve başıma gelen hikayeyi ona anlat. Kalimdor'dan (Kalimdor) ayrıldığımda, Nordrassil'i (Nordrassil) iyileştirme çabalarının en ön safhasında yer alıyordu.",
     ["Objectives"]="Nordanaar'daki Baş Druid Rüyarüzgarı'nı (Arch Druid Dreamwind) bul.",
     ["Progress"]="Nordanaar'a hoş geldin. Sana nasıl yardımcı olabilirim?",
     ["Completion"]="Demek kız kardeş Velinde'nin kaderi buydu. Gerçekten trajik bir hikaye.",
@@ -41045,12 +41045,12 @@ QuestTranslator_QuestData = {
 
 -- Sweet Dreams are Made of This
     -- Task -> görev, free -> bedava, materials -> malzemeler, predicament -> çıkmaz / zor durum. Connection to the void -> boşluğa (void) bir bağlantı, tonic -> tonik, lucid dreaming -> berrak rüya görme, night-demon -> gece iblisi, banish -> sürgün etmek / defetmek. Colleagues -> meslektaşlar. Smerks wickedly -> haince sırıtır.
-    -- Fire Scar Shrine -> Ateş Yarası Sığınağı (Fire + Scar + Shrine), Ashenvale = Ashenvale, Astranaar = Astranaar. Beasts -> canavarlar, demonic -> iblisimsi. Hearts -> kalpler.
+    -- Fire Scar Shrine -> Ateş Yarası Sığınağı (Fire + Scar + Shrine), Külvadi = Külvadi, Astranaar = Astranaar. Beasts -> canavarlar, demonic -> iblisimsi. Hearts -> kalpler.
     -- Gakin the Darkbinder -> Karanlıkbağlayan Gakin kalmıştır, Slaughtered Lamb -> Katledilmiş Kuzu Meyhanesi (Slaughtered + Lamb), Stormwind City = Fırtınayeli Şehri (Stormwind City).
     ["40569"] = {
     ["Title"]="Tatlı Rüyalar Bundan İbarettir",
-    ["Description"]="Pekala o zaman, benim için ilk görevin (task). Ne, bunu bedavaya (free) yapacağımı mı sandın? Hayır, hayır hayır! Oh, fel adına hayır. Normal bir durumda buraya kadar tökezlediğin için seni öldürtürdüm, ama tesadüf bu ya, benim de bazı malzemelere (materials) ihtiyacım var ve bunlardan bazıları senin şu zor durumunu (predicament) çözmek için de gerekecek. Boşluğa (void) bir bağlantı gerekecek, artı şu gece iblisini ortaya çıkarıp onu defetmek (banish) için berrak rüya görmeyi (lucid dreaming) tetikleyen bir tür tonik. Meslektaşlarım (colleagues) tam da bu işi görebilecek belirli bir konum hakkında fısıldaşıyorlardı!\n\n<Haince sırıtır.>\n\nAteş Yarası Sığınağı (Fire Scar Shrine). Bu isim bir yerlerden tanıdık geliyor mu? Hiç sanmam. Onu Ashenvale'de, Astranaar'ın güneybatısında bulabilirsin. Orada yaşayan köpeğe benzer, açgözlü ve iblisimsi tekinsiz canavarlar var. Oraya gitmeni, onları öldürmeni ve bana kalplerini (hearts) getirmeni istiyorum. Senin için bir tanesine ihtiyacım olacak, ama ben asla ama asla bedavaya çalışmam. On tane yap onu.",
-    ["Objectives"]="Ashenvale'deki Ateş Yarası Sığınağı'na (Fire Scar Shrine) git ve orada tarif edilen iblislerin kalplerini Firtinayeli Şehri'ndeki Katledilmiş Kuzu Meyhanesi'nde bulunan Gakin the Darkbinder'a ulaştır.",
+    ["Description"]="Pekala o zaman, benim için ilk görevin (task). Ne, bunu bedavaya (free) yapacağımı mı sandın? Hayır, hayır hayır! Oh, fel adına hayır. Normal bir durumda buraya kadar tökezlediğin için seni öldürtürdüm, ama tesadüf bu ya, benim de bazı malzemelere (materials) ihtiyacım var ve bunlardan bazıları senin şu zor durumunu (predicament) çözmek için de gerekecek. Boşluğa (void) bir bağlantı gerekecek, artı şu gece iblisini ortaya çıkarıp onu defetmek (banish) için berrak rüya görmeyi (lucid dreaming) tetikleyen bir tür tonik. Meslektaşlarım (colleagues) tam da bu işi görebilecek belirli bir konum hakkında fısıldaşıyorlardı!\n\n<Haince sırıtır.>\n\nAteş Yarası Sığınağı (Fire Scar Shrine). Bu isim bir yerlerden tanıdık geliyor mu? Hiç sanmam. Onu Külvadi'de, Astranaar'ın güneybatısında bulabilirsin. Orada yaşayan köpeğe benzer, açgözlü ve iblisimsi tekinsiz canavarlar var. Oraya gitmeni, onları öldürmeni ve bana kalplerini (hearts) getirmeni istiyorum. Senin için bir tanesine ihtiyacım olacak, ama ben asla ama asla bedavaya çalışmam. On tane yap onu.",
+    ["Objectives"]="Külvadi'deki Ateş Yarası Sığınağı'na (Fire Scar Shrine) git ve orada tarif edilen iblislerin kalplerini Firtinayeli Şehri'ndeki Katledilmiş Kuzu Meyhanesi'nde bulunan Gakin the Darkbinder'a ulaştır.",
     ["Progress"]="Henüz pes etmedin mi?",
     ["Completion"]="Bak sen şuna, şu güzelce yozlaşmış kalplere bak. Mükemmel. Bugün bana büyük bir hizmette bulundun, YOUR_RACE. Al bakalım... Kendini yeterince güçlü hissettiğinde, bir teşekkür nişanı olarak benim özel kreasyonlarımdan birini alırsın.",
     ["minlevel"]="0",
@@ -41570,13 +41570,13 @@ QuestTranslator_QuestData = {
 -- Tethered Memories
     -- Nightmare -> Kabus (Emerald Nightmare), fragment -> parçası, spirit -> ruh, Emerald Dream = Zümrüt Rüya (Emerald Dream).
     -- Waywatcher -> Yolgözetici (Malorne unvanı), fraction -> küçük bir parçası, insurmountable advantage -> aşılmaz bir avantaj, war -> savaş. Grandfather -> büyükbaba, taint -> yozlaşma / leke, relics -> yadigarlar, kin -> soydaşlar.
-    -- Bough of Cenarius -> Cenarius'un Dalı (Bough + of + Cenarius). Father's antlers -> babamın boynuzları. Fall in Ashenvale -> Ashenvale'deki düşüşü. Bough Shadow -> Dal Gölgesi (Bough Shadow), Moonglade = Moonglade, burial -> gömülme. Dragonkin -> ejderha soyundan gelenler / ejderimsiler.
+    -- Bough of Cenarius -> Cenarius'un Dalı (Bough + of + Cenarius). Father's antlers -> babamın boynuzları. Fall in Külvadi -> Külvadi'deki düşüşü. Bough Shadow -> Dal Gölgesi (Bough Shadow), Moonglade = Moonglade, burial -> gömülme. Dragonkin -> ejderha soyundan gelenler / ejderimsiler.
     -- Ysera = Ysera kalmıştır, foster mother -> koruyucu anne. Scale -> pul, jade skin -> yeşim derisi, cause -> dava / amaç. Dwell -> barınmak.
     -- Remembrance of Elune -> Elune'un bir hatırası. Guardians -> koruyucular, Moonkin -> Moonkin (Aymelekleri), artifacts -> yapay yadigarlar, Winterspring = Winterspring (Kışpınarı).
     -- Keeper Remulos -> Koruyucu Remulos kalmıştır. Care for nature -> doğaya olan sevgi ve özen. Powerful trinkets -> güçlü muskalar / tılsımlar, mortals -> ölümlüler. Forces -> güçler, comprehension -> kavrayış, role -> rol, fate -> kader. Consequences -> sonuçlar.
     ["41341"] = {
     ["Title"]="Bağlı Anılar",
-    ["Description"]="Malorne, Kabus'a (the Nightmare) yenik düşemez. Bizim için şanslıyız ki, ruhunun Zümrüt Rüya'daki (Emerald Dream)  kendisinden sadece bir parçası ayrılmış gibi görünüyor ve Kabus'un kontrolünü ele geçirdiği şey de tam olarak budur. Yine de Yolgözetici'nin (the Waywatcher) küçük bir parçası bile, zaten bize karşı yığılmış olan bu savaşta (war) onun aşılmaz bir avantaj elde etmesi için yeterlidir. Büyükbabayı bu yozlaşmadan (taint) temizlemek için ona soydaşlarını (kin) hatırlatan yadigarlara (relics) ihtiyacımız var. Cenarius'un Dalı (The Bough of Cenarius) babamın boynuzlarının (antlers) bir parçasıdır. Ashenvale'deki düşüşünden sonra, naaşını gömülmek üzere Moonglade'e geri götürmeden önce Dal Gölgesi'ne getirdik. Belki onu oradaki ejderha soyundan gelenlerin (dragonkin) arasında bulabilirsin. Ysera, Malorne'un sevgili bir dostu ve babamızın koruyucu annesidir (foster mother). Yeşim derisinden (jade skin) bir pul kesinlikle davamıza (cause) yardımcı olacaktır. En çok kayırdığı çocuklarının hepsi buna sahiptir. Ne yazık ki, hepsi olmasa da çoğu Zümrüt Rüya'da (Emerald Dream) barınmaktadır. Son olarak, Elune'un bir hatırası (remembrance of Elune). Onun seçilmiş koruyucuları olan Moonkinler, Winterspring'de onun birçok yapay yadigarını (artifacts) barındırıyor, onları orada arayın.",
+    ["Description"]="Malorne, Kabus'a (the Nightmare) yenik düşemez. Bizim için şanslıyız ki, ruhunun Zümrüt Rüya'daki (Emerald Dream)  kendisinden sadece bir parçası ayrılmış gibi görünüyor ve Kabus'un kontrolünü ele geçirdiği şey de tam olarak budur. Yine de Yolgözetici'nin (the Waywatcher) küçük bir parçası bile, zaten bize karşı yığılmış olan bu savaşta (war) onun aşılmaz bir avantaj elde etmesi için yeterlidir. Büyükbabayı bu yozlaşmadan (taint) temizlemek için ona soydaşlarını (kin) hatırlatan yadigarlara (relics) ihtiyacımız var. Cenarius'un Dalı (The Bough of Cenarius) babamın boynuzlarının (antlers) bir parçasıdır. Külvadi'deki düşüşünden sonra, naaşını gömülmek üzere Moonglade'e geri götürmeden önce Dal Gölgesi'ne getirdik. Belki onu oradaki ejderha soyundan gelenlerin (dragonkin) arasında bulabilirsin. Ysera, Malorne'un sevgili bir dostu ve babamızın koruyucu annesidir (foster mother). Yeşim derisinden (jade skin) bir pul kesinlikle davamıza (cause) yardımcı olacaktır. En çok kayırdığı çocuklarının hepsi buna sahiptir. Ne yazık ki, hepsi olmasa da çoğu Zümrüt Rüya'da (Emerald Dream) barınmaktadır. Son olarak, Elune'un bir hatırası (remembrance of Elune). Onun seçilmiş koruyucuları olan Moonkinler, Winterspring'de onun birçok yapay yadigarını (artifacts) barındırıyor, onları orada arayın.",
     ["Objectives"]="Moonglade'deki Koruyucu Remulos (Keeper Remulos) için gerekli yadigarları topla.",
     ["Progress"]="Doğaya olan sevgi ve özeni (care for nature) bildiğimiz her şeyin önüne geçen Malorne gibi asil bir varlık korunmalıdır.",
     ["Completion"]="Bu güçlü tılsımlara (trinkets) göz dikmek, senin gibi ölümlülere (mortals) bu dünyada mevcut olan güçleri hatırlatır. Bunlar birinin kavrayışının (comprehension) ötesinde olabilse de, tüm bunlardaki rolünü küçümseme. Ölümlüler, Azeroth'ta kaderin (fate) değiştirilmesinde hayati öneme sahip olduklarını defalarca kanıtladılar. Yaptığın her şeyin ya anında ya da en nihayetinde sonuçları (consequences) olur.",
@@ -41894,11 +41894,11 @@ QuestTranslator_QuestData = {
 -- The Battlebeard Legacy
     -- Battlebeard Legacy -> Savaşsakalı Mirası (Battlebeard + Legacy).
     -- Family's history -> ailemin tarihi, heirlooms lost -> yadigarlar kayboldu, axe -> balta, orc -> ork, kin -> soydaş. Fall for a dwarf -> bir cüce için daha büyük bir düşüş, right the wrongs -> yanlışları düzeltmek.
-    -- Tracking -> izini sürmek, 'Scartusk' -> 'Yaralıdiş' kalmıştır, Warsong -> Savaşşarkısı (Warsong), forest of Ashenvale -> Ashenvale ormanı (forest + of + Ashenvale), Talondeep Path -> Pençederin Geçidi (Talondeep + Path), north -> kuzey. Ruins of Stardust = Yıldıztozu Harabeleri (Ruins + of + Stardust), scouting for the enemy -> düşman için keşif yapıyor. Family's axe -> ailemin baltası, honor my brother -> kardeşimi onurlandır.
+    -- Tracking -> izini sürmek, 'Scartusk' -> 'Yaralıdiş' kalmıştır, Warsong -> Savaşşarkısı (Warsong), forest of Külvadi -> Külvadi ormanı (forest + of + Külvadi), Talondeep Path -> Pençederin Geçidi (Talondeep + Path), north -> kuzey. Ruins of Stardust = Yıldıztozu Harabeleri (Ruins + of + Stardust), scouting for the enemy -> düşman için keşif yapıyor. Family's axe -> ailemin baltası, honor my brother -> kardeşimi onurlandır.
     -- Battlebeard Axe -> Savaşsakalı Baltası, Grumnir Battlebeard -> Grumnir Savaşsakalı kalmıştır, Bael Hardul = Bael Hardul, Stonetalon Mountains = Taşpençe Dağları (Stonetalon Mountains). Breaths -> nefes aldığı, dishonored -> onursuzlaştırılmış. Sight -> manzara, tear -> gözyaşı, justice, and relief -> adalet ve rahatlama. Moment -> an, YOUR_NAME -> YOUR_NAME.
     ["40692"] = {
     ["Title"]="Savaşsakalı Mirası",
-    ["Description"]="Ailemin tarihi lekeli, yadigarlarımız zaman içinde kayboldu ve baltamız soydaşımı (kin) katleden bir orkun ellerinde. Bir cüce (dwarf) için bundan daha büyük bir düşüş olamaz ve ben bu yanlışları düzeltmeliyim. Bu 'Yaralıdiş'in ('Scartusk') izini sürmede biraz şansım yaver gitti, zira kendisi kuzeydeki Pençederin Geçidi'nin (Talondeep Path) hemen ötesinde, Ashenvale ormanında oyalanan bir Savaşşarkısı'dır (Warsong). Pençederin Geçidi'ni geçtikten sonra batıya, Yıldıztozu Harabeleri'ne (Ruins of Stardust) doğru yönel; düşman için keşif yaparak barındığı yer orasıdır. Ailemin baltasını (family's axe) bana getir ve kardeşimi onurlandır.",
+    ["Description"]="Ailemin tarihi lekeli, yadigarlarımız zaman içinde kayboldu ve baltamız soydaşımı (kin) katleden bir orkun ellerinde. Bir cüce (dwarf) için bundan daha büyük bir düşüş olamaz ve ben bu yanlışları düzeltmeliyim. Bu 'Yaralıdiş'in ('Scartusk') izini sürmede biraz şansım yaver gitti, zira kendisi kuzeydeki Pençederin Geçidi'nin (Talondeep Path) hemen ötesinde, Külvadi ormanında oyalanan bir Savaşşarkısı'dır (Warsong). Pençederin Geçidi'ni geçtikten sonra batıya, Yıldıztozu Harabeleri'ne (Ruins of Stardust) doğru yönel; düşman için keşif yaparak barındığı yer orasıdır. Ailemin baltasını (family's axe) bana getir ve kardeşimi onurlandır.",
     ["Objectives"]="Ork Yaralıdiş'ı (Scartusk) bulup katlet ve Taşpençe Dağları'ndaki Bael Hardul'da bulunan Grumnir Battlebeard için Savaşsakalı Baltası'nı (Battlebeard Axe) geri al.",
     ["Progress"]="O orkun nefes aldığı (breaths) her saniye, ailemin onursuzlaştırılmış (dishonored) kaldığı süreyi uzatıyor.",
     ["Completion"]="<Baltanın manzarası Grumnir'in gözlerine neredeyse bir damla yaş getiriyor.> Bunca yıldan sonra inanamıyorum, sonunda yeniden karşımda. Ailemizi inancın ötesinde onurlandırdın, bana adaleti ve rahatlamayı (justice, and relief) bahşettin. Bu anı asla unutmayacağım, YOUR_NAME.",
@@ -42635,12 +42635,12 @@ QuestTranslator_QuestData = {
 
 -- The Family Name
     -- Moonfeather -> Ayüyü kalmıştır (Alleana Moonfeather). Gift -> yetenek, Shan'do -> Şan'do kalmıştır (Malfurion unvanı), legacy -> miras.
-    -- Sharptalon -> Keskinpençe kalmıştır, mighty hippogryph patriarch -> güçlü bir hipogrif reisi, forest glades -> orman açıklıkları, twilight -> alacakaranlık. Elune'un favored -> Elune'un kayırdıklarından. Hatchlings -> yavrulardan, southwest -> güneybatı. Horde -> Horde, eyesore of an encampment -> çirkin ordugahı / kampı, sisters keep vigil -> kız kardeşlerimiz nöbet tutuyor, trees -> ağaçlar, ambush -> pusuya düşürmek, invaders -> istilacılar. Defense of Ashenvale -> Ashenvale'in savunması (Ashenvale Forest). Family name -> aile adı, response -> yanıt, pray -> dua etmek.
+    -- Sharptalon -> Keskinpençe kalmıştır, mighty hippogryph patriarch -> güçlü bir hipogrif reisi, forest glades -> orman açıklıkları, twilight -> alacakaranlık. Elune'un favored -> Elune'un kayırdıklarından. Hatchlings -> yavrulardan, southwest -> güneybatı. Horde -> Horde, eyesore of an encampment -> çirkin ordugahı / kampı, sisters keep vigil -> kız kardeşlerimiz nöbet tutuyor, trees -> ağaçlar, ambush -> pusuya düşürmek, invaders -> istilacılar. Defense of Külvadi -> Külvadi'in savunması (Külvadi Forest). Family name -> aile adı, response -> yanıt, pray -> dua etmek.
     -- Commune -> bağ kur / konuş. Fledglings -> yavrularla, presence -> varlık, hard work -> sıkı çalışma, fortune -> şans. Lineage -> soy, Hippogryph Master -> Hipogrif Üstadı. Care for and look after -> bakıp ilgilenmek, child -> çocuk. Behalf -> adıma, Elune smiles upon us -> Elune ikimize de gülümsüyor.
     ["40800"] = {
     ["Title"]="Aile Adı",
-    ["Description"]="Bu doğru, ben bir Moonfeather'ım! Bir yeteneğim (gift) var, sadece onu nasıl kullanacağımı öğrenmem gerekiyor. Şan'do (Shan'do) da öyle söylemişti ve ben onun mirasını (legacy) onurlandıracağım! Keskinpençe (Sharptalon), daha önce hiç karşılaşmamış olsak da, alacakaranlıkta (twilight) orman açıklıklarında dolaşırken gördüğüm güçlü bir hipogrif reisidir (hippogryph patriarch). Böyle görkemli bir yaratık kesinlikle Elune'un kayırdıklarından (favored) biridir. Lütfen yavruların (hatchlings) en gencini al ve buranın güneybatısına doğru yönel. Horde'dan elinden geldiğince kaçın ve çocuğu hayatın pahasına koru. Orkların o göz zevkini bozan çirkin ordugahının (eyesore of an encampment) güneyinde, kız kardeşlerimizin nöbet tuttuğu (keep vigil), istilacıları pusuya düşürmek için ağaçlarda beklediği o güzel açıklıkları bulacaksın. Keskinpençe'nin oralarda Ashenvale'in savunmasına (defense of Ashenvale) yardım ettiği bildiriliyor. Küçük olanı ona götür ve Moonfeather aile adını (family name) ilet. Yanıtının olumlu olması için dua ediyorum.",
-    ["Objectives"]="Ashenvale Ormanı'nda (Ashenvale Forest) Keskinpençe'yi (Sharptalon) bulup onunla bağ kur, ardından Alleana Moonfeather'a geri dön.",
+    ["Description"]="Bu doğru, ben bir Moonfeather'ım! Bir yeteneğim (gift) var, sadece onu nasıl kullanacağımı öğrenmem gerekiyor. Şan'do (Shan'do) da öyle söylemişti ve ben onun mirasını (legacy) onurlandıracağım! Keskinpençe (Sharptalon), daha önce hiç karşılaşmamış olsak da, alacakaranlıkta (twilight) orman açıklıklarında dolaşırken gördüğüm güçlü bir hipogrif reisidir (hippogryph patriarch). Böyle görkemli bir yaratık kesinlikle Elune'un kayırdıklarından (favored) biridir. Lütfen yavruların (hatchlings) en gencini al ve buranın güneybatısına doğru yönel. Horde'dan elinden geldiğince kaçın ve çocuğu hayatın pahasına koru. Orkların o göz zevkini bozan çirkin ordugahının (eyesore of an encampment) güneyinde, kız kardeşlerimizin nöbet tuttuğu (keep vigil), istilacıları pusuya düşürmek için ağaçlarda beklediği o güzel açıklıkları bulacaksın. Keskinpençe'nin oralarda Külvadi'in savunmasına (defense of Külvadi) yardım ettiği bildiriliyor. Küçük olanı ona götür ve Moonfeather aile adını (family name) ilet. Yanıtının olumlu olması için dua ediyorum.",
+    ["Objectives"]="Külvadi Ormanı'nda (Külvadi Forest) Keskinpençe'yi (Sharptalon) bulup onunla bağ kur, ardından Alleana Moonfeather'a geri dön.",
     ["Progress"]="Merhaba, YOUR_NAME. Keskinpençe'yi (Sharptalon) buldun mu?",
     ["Completion"]="Başını mı eğdi? Elune adına, bu harika bir haber! Anlıyorum. Keskinpençe'nin varlığında yavrularla (fledglings) daha fazla zaman geçireceğim ve sıkı çalışma ile biraz da şansla ailemi gururlandıracağım. Moonfeather soyunda (lineage) bir Hipogrif Üstadı (Hippogryph Master) daha olacak! Görünüşe göre bu küçük ufaklık senin yanından ayrılmak istemiyor. Sanırım bu çocuğa bakıp onunla ilgileneceğine (care for and look after) söz verirsen, seni takip etmesine izin vermekte bir sorun olmamalı, değil mi? Adıma (on my behalf) yaptığın her şeyden sonra sunabileceğim en küçük şey budur. Elune bugün ikimize de gülümsüyor, YOUR_NAME.",
     ["minlevel"]="0",
@@ -42698,11 +42698,11 @@ QuestTranslator_QuestData = {
     }, -- end The Final Cut
 
 -- The Final Strike
-    -- Enemies are reeling -> düşmanlar bocalıyor, compatriots' blood -> soydaşlarının kanı, death-rattles -> ölüm hırıltıları, ears -> kulaklar. Pressure -> baskı, YOUR_CLASS -> YOUR_CLASS. Brutish -> gaddar, Commander Grushak -> Komutan Grushak kalmıştır, south of the keep -> kalenin güneyinde, towers -> kuleler. Bulk of the forces -> kuvvetlerin büyük kısmından, venomous -> zehirli, Farseer Grimeye -> Ufukgören Çamurlugöz kalmıştır, keep -> kale, plotting -> planlar yapıyor. Warrior's swift death -> bir savaşçının hızlı ölümü, slow and painful -> yavaş ve acı verici, Elune -> Elune. Commander Starwind -> Komutan Yıldız rüzgar kalmıştır, Forest Song = Orman Şarkısı, Ashenvale = Ashenvale. Southern forests -> güney ormanları, Horde -> Horde. Teeth -> dişler, grin -> sırıtış, sentinels -> gözcüler / koruyucular, celebrate -> kutlama yapacağız, Elun'adore -> Elun'adore (Elf selamı), YOUR_NAME -> YOUR_NAME.
+    -- Enemies are reeling -> düşmanlar bocalıyor, compatriots' blood -> soydaşlarının kanı, death-rattles -> ölüm hırıltıları, ears -> kulaklar. Pressure -> baskı, YOUR_CLASS -> YOUR_CLASS. Brutish -> gaddar, Commander Grushak -> Komutan Grushak kalmıştır, south of the keep -> kalenin güneyinde, towers -> kuleler. Bulk of the forces -> kuvvetlerin büyük kısmından, venomous -> zehirli, Farseer Grimeye -> Ufukgören Çamurlugöz kalmıştır, keep -> kale, plotting -> planlar yapıyor. Warrior's swift death -> bir savaşçının hızlı ölümü, slow and painful -> yavaş ve acı verici, Elune -> Elune. Commander Starwind -> Komutan Yıldız rüzgar kalmıştır, Forest Song = Orman Şarkısı, Külvadi = Külvadi. Southern forests -> güney ormanları, Horde -> Horde. Teeth -> dişler, grin -> sırıtış, sentinels -> gözcüler / koruyucular, celebrate -> kutlama yapacağız, Elun'adore -> Elun'adore (Elf selamı), YOUR_NAME -> YOUR_NAME.
     ["40809"] = {
     ["Title"]="Son Vuruş",
     ["Description"]="Düşmanlar bocalıyor, gözlerinde soydaşlarının kanı (compatriots' blood) ve kulaklarında ölüm hırıltıları (death-rattles) var. Baskıyı şimdi azaltma, YOUR_CLASS. Kalenin güneyinde, muhtemelen kulelerinden birinden izleyen gaddar Komutan Grushak'ı (Commander Grushak) ara. Kuvvetlerin büyük kısmından ayrılmış olmalı. Ve kalede, bir sonraki hamlesinin planlarını yapan (plotting) zehirli Ufukgören Grimeye'ı (Farseer Grimeye) bul. Onlara bir savaşçının hızlı ölümünü mü (warrior's swift death), yoksa yavaş ve acı verici bir ölümü mü bahşedeceğini sana bırakıyorum. Ölüp gittikleri sürece, Elune yapacağın her iki seçime de gülümseyecektir.",
-    ["Objectives"]="Ashenvale'deki Orman Şarkısı'nda (Forest Song) bulunan Komutan Starwind (Commander Starwind) için Komutan Grushak ve Ufukgören Grimeye'ı katlet.",
+    ["Objectives"]="Külvadi'deki Orman Şarkısı'nda (Forest Song) bulunan Komutan Starwind (Commander Starwind) için Komutan Grushak ve Ufukgören Grimeye'ı katlet.",
     ["Progress"]="Tamamlandı mı? Güney ormanları nihayet Horde'dan (Horde) kurtuldu mu?",
     ["Completion"]="<Dişlerini gösterir ve genişçe sırıtır (grin).> Harika. Gözcüler (sentinels) nihayet geri çağrılacak ve bu gece kutlama yapacağız. Elun'adore, YOUR_NAME!",
     ["minlevel"]="0",
@@ -44024,14 +44024,14 @@ QuestTranslator_QuestData = {
 
 -- The Means To Heal
     -- Means To Heal -> İyileşme Yolları (Means + To + Heal). Trolls blessed loa great regeneration mon scratch entire limb able heal -> biz troller loa (loa) tarafından büyük bir rejenerasyonla (regeneration) kutsandık dostum (mon) ister küçük bir çizik ister koca bir uzuv olsun iyileşebiliriz.
-    -- Takes much too long no shame prepared times allies Splintertree Post Ashenvale -> yine de rejenerasyonun çok uzun sürdüğü zamanlar olur ve o zamanlar için hazırlıklı olmakta hiçbir ayıp yoktur Ashenvale'deki Kıymıkağaç Karargahı'ndaki (Splintertree Post) müttefiklerimiz.
+    -- Takes much too long no shame prepared times allies Splintertree Post Külvadi -> yine de rejenerasyonun çok uzun sürdüğü zamanlar olur ve o zamanlar için hazırlıklı olmakta hiçbir ayıp yoktur Külvadi'deki Kıymıkağaç Karargahı'ndaki (Splintertree Post) müttefiklerimiz.
     -- Little voodoo solution without realizing toads roaming Mystral Lake edge forest Talondeep Path -> farkında bile olmadan küçük bir voodoo çözümü keşfettiler ormanın kıyısında Pençederin Geçidi'nin (Talondeep Path) yakınındaki Mystral Gölü'nde (Mystral Lake) dolaşan kurbağalar (toads) var.
     -- Slippery oil brewed powerful salve friend squeeze toads mon oil rewarded time -> kurbağalar güçlü bir merheme (salve) dönüştürülebilecek kaygan bir yağla (oil) kaplıdır bir dost olup o kurbağaları benim için sıkar mısın dostum bana yağlarını getir ben de zamanın için ödüllendirildiğini göreyim.
     -- Toad Oil -> Kurbağa Yağı, Warleader Zol'majin -> Savaşlideri Zol'majin kalmıştır, Amani'Alor = Amani'Alor. Squeezing mon -> sıkma işleri nasıl gidiyor dostum.
     -- Spirits with ya YOUR_RACE efforts keep trolls healing nicely Horde kind repaid kind -> Ruhlar seninle olsun, YOUR_RACE. Çabaların biz trollerin güzelce iyileşmesini (healing) sağlayacak Horde (the Horde) bize nazik davranmaktan başka bir şey yapmadı ve biz de  karşılığını aynı şekilde ödeyeceğiz.
     ["80304"] = {
     ["Title"]="İyileşme Yolları",
-    ["Description"]="Biz troller loa (loa) tarafından büyük bir rejenerasyonla (regeneration) kutsandık, dostum (mon). İster sadece bir çizik ister koca bir uzuv (limb) olsun, iyileşebiliriz. Yine de, rejenerasyonun çok uzun sürdüğü zamanlar olur ve o zamanlar için hazırlıklı olmakta hiçbir ayıp yoktur. Ashenvale'deki (Ashenvale) Kıymıkağaç Karargahı'ndaki (Splintertree Post) müttefiklerimiz, farkında bile olmadan küçük bir voodoo çözümü keşfettiler. Ormanın kıyısında, Pençederin Geçidi'nin (Talondeep Path) yakınındaki Mystral Gölü'nde (Mystral Lake) dolaşan kurbağalar (toads) var. Güçlü bir merheme (salve) dönüştürülebilecek kaygan bir yağla (oil) kaplıdırlar. Bir dost olup o kurbağaları benim için sıkar mısın dostum (mon)? Bana yağlarını getir, ben de zamanın için  ödüllendirildiğini göreyim.",
+    ["Description"]="Biz troller loa (loa) tarafından büyük bir rejenerasyonla (regeneration) kutsandık, dostum (mon). İster sadece bir çizik ister koca bir uzuv (limb) olsun, iyileşebiliriz. Yine de, rejenerasyonun çok uzun sürdüğü zamanlar olur ve o zamanlar için hazırlıklı olmakta hiçbir ayıp yoktur. Külvadi'deki (Külvadi) Kıymıkağaç Karargahı'ndaki (Splintertree Post) müttefiklerimiz, farkında bile olmadan küçük bir voodoo çözümü keşfettiler. Ormanın kıyısında, Pençederin Geçidi'nin (Talondeep Path) yakınındaki Mystral Gölü'nde (Mystral Lake) dolaşan kurbağalar (toads) var. Güçlü bir merheme (salve) dönüştürülebilecek kaygan bir yağla (oil) kaplıdırlar. Bir dost olup o kurbağaları benim için sıkar mısın dostum (mon)? Bana yağlarını getir, ben de zamanın için  ödüllendirildiğini göreyim.",
     ["Objectives"]="Amani'Alor'daki Savaşlideri Zol'majin'e (Warleader Zol'majin) 10 Kurbağa Yağı (Toad Oil) getir.",
     ["Progress"]="Sıkma işleri (squeezing) nasıl gidiyor, dostum (mon)?",
     ["Completion"]="Ruhlar seninle olsun, YOUR_RACE. Çabaların biz trollerin güzelce iyileşmesini (healing) sağlayacak. Horde (The Horde) bize nazik davranmaktan başka bir şey yapmadı ve biz de  karşılığını aynı şekilde ödeyeceğiz.",
@@ -44168,11 +44168,11 @@ QuestTranslator_QuestData = {
     -- Leaders operation -> bu operasyonun liderleri, brought low executed -> dize getirilmeli ve idam edilmeli, glades -> açıklıklar / korular.
     -- Commander Grushak -> Komutan Grushak kalmıştır, brutish orc -> vahşi bir ork, Camp -> Kamp. Shaman -> şaman, Grimeye -> Çamurlugöz kalmıştır (Önceki çevirilerde Farseer Grimeye / Grimeye kalmıştır, isme sadık kalınır).
     -- Companions assassinate targets -> hedeflere suikast düzenlemek için yoldaşlar, failed attempt life difficult -> her başarısız girişim daha sonra hayatımızı  çok daha zorlaştıracaktır.
-    -- Farseer Grimeye -> Ufukgören Grimeye kalmıştır, Brolthan Ironglade -> Brolthan Demirkoru kalmıştır (Iron + glade), Forest Song = Orman Şarkısı (Forest Song), Ashenvale = Ashenvale. Elune's favor -> Elune'un lütfunu, deeds -> eylemlerin.
+    -- Farseer Grimeye -> Ufukgören Grimeye kalmıştır, Brolthan Ironglade -> Brolthan Demirkoru kalmıştır (Iron + glade), Forest Song = Orman Şarkısı (Forest Song), Külvadi = Külvadi. Elune's favor -> Elune'un lütfunu, deeds -> eylemlerin.
     ["40803"] = {
     ["Title"]="Ölümcül Darbe",
     ["Description"]="Bu çatışmayı tek bir belirleyici darbe (decisive blow) ile bitirmenin zamanı geldi. Şey, aslında iki darbe. Sen yokken ve gözcüler (sentinels) dışarıda kahramancılık oynarken  kendim de bazı araştırmalar yaptım. Bu operasyonun iki lideri var ve bu korularda (glades) yeniden huzuru bulacaksak her ikisinin de dize getirilmesi ve idam edilmesi gerekecek. Kampın hemen güneyinde bir yerlerde, Grushak adında vahşi bir ork olan Komutanlarını bulmalısın. Ve  Kale'nin içinden komplolar kuran, Grimeye adında bir şamandır. Bu hedeflere suikast düzenlemene (assassinate) yardımcı olacak yoldaşlara (companions) ihtiyacın varsa seni kesinlikle suçlamam. Hatta bunu gerçekten çok akıllıca görürüm - çünkü her başarısız girişim (failed attempt) daha sonra hayatımızı  çok daha zorlaştıracaktır.",
-    ["Objectives"]="Brolthan Ironglade için Ashenvale'deki Orman Şarkısı'nda (Forest Song) Komutan Grushak'ı ve Ufukgören Grimeye'ı (Farseer Grimeye) katlet.",
+    ["Objectives"]="Brolthan Ironglade için Külvadi'deki Orman Şarkısı'nda (Forest Song) Komutan Grushak'ı ve Ufukgören Grimeye'ı (Farseer Grimeye) katlet.",
     ["Progress"]="İyi haberlerle  döndüğünü umuyorum, YOUR_NAME?",
     ["Completion"]="Konuşmaya başladığımız ilk andan itibaren sana güvenebileceğimi  biliyordum. Bugün Elune'un lütfunu (Elune's favor) gerçekten hak ettin ve eylemlerinin (deeds) herkesçe duyulmasını sağlayacağım. Teşekkürlerimi sunarım, YOUR_NAME.",
     ["minlevel"]="0",
@@ -44360,15 +44360,15 @@ QuestTranslator_QuestData = {
     }, -- end The Pie Delivery
 
 -- The Power of Aqua
-    -- Power of Aqua -> Aqua'nın Gücü (Power + of + Aqua). Arduous campaign struggle implements Boralus stocks running dangerously low -> hepimiz için uzun ve çetin (arduous) bir harekat oldu aylarca süren mücadele boyunca Boralus'tan getirdiğim aletlerle idare ettim ancak stoklarım tehlikeli derecede  azalıyor. Ashenvale = Ashenvale.
-    -- Dominion water expedite fleet return journey require new source northwest foreign bewitched Ashenvale -> dönüş yolculuğunda filoyu hızlandırmak (expedite) için su üzerindeki hakimiyetimi yeterince uzun süre koruyacaksam yeni bir kaynağa ihtiyacım olacak kuzeybatıda yabancı ve büyülenmiş Ashenvale ormanı uzanır.
+    -- Power of Aqua -> Aqua'nın Gücü (Power + of + Aqua). Arduous campaign struggle implements Boralus stocks running dangerously low -> hepimiz için uzun ve çetin (arduous) bir harekat oldu aylarca süren mücadele boyunca Boralus'tan getirdiğim aletlerle idare ettim ancak stoklarım tehlikeli derecede  azalıyor. Külvadi = Külvadi.
+    -- Dominion water expedite fleet return journey require new source northwest foreign bewitched Külvadi -> dönüş yolculuğunda filoyu hızlandırmak (expedite) için su üzerindeki hakimiyetimi yeterince uzun süre koruyacaksam yeni bir kaynağa ihtiyacım olacak kuzeybatıda yabancı ve büyülenmiş Külvadi ormanı uzanır.
     -- Scryed presence strong volatile elemental spirits region's heart Mystral Lake travel claim rare Refined Aqua Core beings Kul Tiras forget service -> bölgenin kalbinde Mystral Gölü'nde (Mystral Lake) güçlü ama  değişken elementel ruhların varlığını kehanetle gördüm (scryed) oraya seyahat et o varlıklardan nadir bir Arıtılmış Aqua Çekirdeği (Refined Aqua Core) al ve Kul Tiras hizmetini kolay kolay unutmayacaktır.
     -- Refined Aqua Core -> Arıtılmış Aqua Çekirdeği (Refined + Aqua + Core), Su Büyücüsü Shaleborn -> Hidromansır Kayasoy kalmıştır (Shale + born), Anchor's Edge -> Çıpa Kıyısı kalmıştır (Anchor + 's + Edge), Barrens = Barrens.
     -- Recovered time find imperative possession core over peace dawning -> Aqua Çekirdeği geri alındı mı bulmanın biraz zaman alabileceğini biliyorum ama  mülkiyetime geçmesi zorunludur (imperative) işte bu işte bu bir çekirdek bitti mi evet huzurun bir kez daha şafak söktüğünü hissedebiliyorum. Arid land beasts mongrels demi-humans assistance tidal elements secured -> bu kurak canavarlar melezler ve yarı-insanlar diyarında kimseden yardım  geleceğine inanmaya cüret edemezdim ama artık gelgit elementlerinin kontrolü güvende teşekkürlerimi sunarım.
     ["40792"] = {
     ["Title"]="Aqua'nın Gücü",
-    ["Description"]="Hepimiz için uzun ve çetin (arduous) bir harekat oldu. Aylarca süren mücadele boyunca Boralus'tan (Boralus) getirdiğim aletlerle idare ettim, ancak stoklarım tehlikeli derecede  azalıyor. Dönüş yolculuğumuzda filoyu hızlandırmak (expedite) için su üzerindeki hakimiyetimi yeterince uzun süre koruyacaksam, yeni bir kaynağa ihtiyacım olacak. Kuzeybatıda yabancı, büyülenmiş Ashenvale ormanı uzanır. Bölgenin kalbinde, Mystral Gölü'nde (Mystral Lake) güçlü ama değişken elementel ruhların (elemental spirits) varlığını kehanetle gördüm (scryed). Oraya seyahat et, o varlıklardan nadir bir Arıtılmış Aqua Çekirdeği (Refined Aqua Core) al ve Kul Tiras (Kul Tiras) hizmetini kolay kolay unutmayacaktır.",
-    ["Objectives"]="Barrens'daki Çıpa Kıyısı'nda (Anchor's Edge) bulunan Hidromansır Shaleborn için Ashenvale'in su elementellerinden bir Arıtılmış Aqua Çekirdeği (Refined Aqua Core) topla.",
+    ["Description"]="Hepimiz için uzun ve çetin (arduous) bir harekat oldu. Aylarca süren mücadele boyunca Boralus'tan (Boralus) getirdiğim aletlerle idare ettim, ancak stoklarım tehlikeli derecede  azalıyor. Dönüş yolculuğumuzda filoyu hızlandırmak (expedite) için su üzerindeki hakimiyetimi yeterince uzun süre koruyacaksam, yeni bir kaynağa ihtiyacım olacak. Kuzeybatıda yabancı, büyülenmiş Külvadi ormanı uzanır. Bölgenin kalbinde, Mystral Gölü'nde (Mystral Lake) güçlü ama değişken elementel ruhların (elemental spirits) varlığını kehanetle gördüm (scryed). Oraya seyahat et, o varlıklardan nadir bir Arıtılmış Aqua Çekirdeği (Refined Aqua Core) al ve Kul Tiras (Kul Tiras) hizmetini kolay kolay unutmayacaktır.",
+    ["Objectives"]="Barrens'daki Çıpa Kıyısı'nda (Anchor's Edge) bulunan Hidromansır Shaleborn için Külvadi'in su elementellerinden bir Arıtılmış Aqua Çekirdeği (Refined Aqua Core) topla.",
     ["Progress"]="Aqua Çekirdeği (Aqua Core) geri alındı mı? Bulmanın biraz zaman alabileceğini biliyorum ama mülkiyetime (possession) geçmesi  zorunludur (imperative).",
     ["Completion"]="Aqua Çekirdeği, üstelik umduğumdan çok daha güçlü (potent)! Canavarların, melezlerin ve yarı-insanların (demi-humans) bu kurak diyarında, kimseden yardım geleceğine inanmaya cüret edemezdim. Ama artık gelgit elementlerinin (tidal elements) kontrolü güvende. Teşekkürlerimi sunarım (You have my thanks), YOUR_CLASS .",
     ["minlevel"]="0",
@@ -44413,12 +44413,12 @@ QuestTranslator_QuestData = {
 -- The Price of Cowardice
     -- Price of Cowardice -> Korkaklığın Bedeli (Price + of + Cowardice). Horde kills name impressive jubilant period Brolthan Ironglade coordinating druids area report states refused help cowardice claims worry worse involved -> adına kaç tane Horde öldürmesi  sayıyorsun ne kadar etkileyici coşkulu bir dönemde olunmasına rağmen beni endişelendiren bir şey var bölgedeki druidleri koordine eden bu Brolthan Ironglade raporda yardım etmeyi tamamen reddettiği mi belirtiliyor burada korkaklık olduğu iddia ediliyor ama ben burada korkaklıktan çok daha kötü bir şeyin  olmasından endişe duyuyorum.
     -- Druid staunchly loyal Arch Druid Fandral Staghelm see eye to eye acted assurance support Darnassus imagine knowingly endangered Kaldorei lives prove political point -> anlarsın ya o druid Baş Druid Fandral Staghelm'e (Arch Druid Fandral Staghelm) yürekten sadıktır ve biz tam olarak aynı fikirde değiliz Darnassus'tan (Darnassus) bir güvence veya destek almasaydı bu şekilde  hareket etmezdi tahmin ediyorum bu da siyasi bir noktayı kanıtlamak için Kaldorei hayatlarını bilerek tehlikeye attığı anlamına gelir ne için. Arch Druid Fandral Staghelm -> Baş Druid Fandral Alageyik kalmıştır (Stag + helm), Darnassus = Darnassus.
-    -- Deliver message frankly better deserves leave fate Elune decide forget ask commander reward -> lütfen bu mesajı ona ilet açıkçası hak ettiğinden  daha iyi olduğunu düşünüyorum ama kaderini karar vermesi için Elune'a (Elune) bırakacağım ve YOUR_NAME daha sonra komutandan bir ödül istemeyi unutma. Forest Song = Orman Şarkısı (Forest Song), Ashenvale = Ashenvale.
+    -- Deliver message frankly better deserves leave fate Elune decide forget ask commander reward -> lütfen bu mesajı ona ilet açıkçası hak ettiğinden  daha iyi olduğunu düşünüyorum ama kaderini karar vermesi için Elune'a (Elune) bırakacağım ve YOUR_NAME daha sonra komutandan bir ödül istemeyi unutma. Forest Song = Orman Şarkısı (Forest Song), Külvadi = Külvadi.
     -- Hero of hour speak quickly rather wish left alone currently drunken singing sentinels making hard meditate -> saatin kahramanı hızlı konuş  şu anda yalnız bırakılmayı tercih ederim gözcülerin sarhoş şarkı söylemesi meditasyon yapmayı oldukça zorlaştırıyor. Tyrande directamente me curious -> doğrudan Tyrande'den bir mesaj mı bana mı ilginç . Tyrande -> Tyrande kalmıştır.
     ["40811"] = {
     ["Title"]="Korkaklığın Bedeli",
     ["Description"]="Adına kaç tane Horde öldürmesi  sayıyorsun? Ne kadar etkileyici, YOUR_NAME. Coşkulu bir dönemde olunmasına rağmen beni endişelendiren bir şey var. Bölgedeki druidleri koordine eden bu Brolthan Ironglade, raporda yardım etmeyi tamamen reddettiği mi belirtiliyor? Burada korkaklık (cowardice) olduğu iddia ediliyor ama ben burada korkaklıktan çok daha kötü bir şeyin  olmasından endişe duyuyorum. Anlarsın ya, o druid Baş Druid Fandral Staghelm'e (Arch Druid Fandral Staghelm) yürekten sadıktır. Ve biz tam olarak aynı fikirde değiliz. Darnassus'tan (Darnassus) bir güvence veya destek almasaydı bu şekilde hareket etmezdi, tahmin ediyorum. Bu da siyasi bir noktayı kanıtlamak için Kaldorei hayatlarını bilerek tehlikeye attığı anlamına gelir, ne için? Lütfen bu mesajı ona ilet. Açıkçası hak ettiğinden daha iyi olduğunu düşünüyorum ama kaderini karar vermesi için Elune'a bırakacağım. Ve YOUR_NAME, daha sonra komutandan bir ödül (reward) istemeyi unutma!",
-    ["Objectives"]="Tyrande'nin Mesajı'nı (Tyrande's Message) Ashenvale'deki Orman Şarkısı'nda (Forest Song) bulunan Brolthan Ironglade'e ulaştır.",
+    ["Objectives"]="Tyrande'nin Mesajı'nı (Tyrande's Message) Külvadi'deki Orman Şarkısı'nda (Forest Song) bulunan Brolthan Ironglade'e ulaştır.",
     ["Progress"]="Ah, saatin kahramanı. Hızlı konuş, YOUR_NAME, şu anda yalnız bırakılmayı tercih ederim . Gözcülerin (sentinels) sarhoş şarkı söylemesi meditasyon yapmayı (meditate) oldukça zorlaştırıyor.",
     ["Completion"]="Doğrudan Tyrande'den bir mesaj mı? Bana mı? İlginç .",
     ["minlevel"]="0",
@@ -45762,12 +45762,12 @@ QuestTranslator_QuestData = {
     -- Demon Fall Canyon = İblis Düşüşü Kanyonu (Demon + Fall + Canyon), Sentinels -> Nöbetçiler kalmıştır (Sentinels: Gece Elfi askeri birliği).
     -- Twisting Nether = Çarpık Boşluk (Twisting + Nether).
     -- Searing Infernals -> Yakıcı Cehennemlikler (Searing + Infernals), Felguards -> Belabekçileri (Fel + guards), Mannoroc Lashers -> Mannoroc Kırbaçlayıcıları.
-    -- Delos Talonheart -> Delos Pençeyürek kalmıştır (Talon + heart), Forest Song = Orman Şarkısı (Forest + Song), Ashenvale = Ashenvale.
+    -- Delos Talonheart -> Delos Pençeyürek kalmıştır (Talon + heart), Forest Song = Orman Şarkısı (Forest + Song), Külvadi = Külvadi.
     -- Legion = Lejyon (The Burning Legion anlamında), millennia -> milenyumlar / bin yıllar. Warden Kiri Starstalker -> Muhafız Kiri Yıldızavcısı kalmıştır (Star + stalker), Niremius -> Niremius kalmıştır.
     ["40842"] = {
     ["Title"]="Gerçek Düşman",
     ["Description"]="Uğursuz iblisler, Orman Şarkısı'nın (Forest Song) güneyindeki o rezil İblis Düşüşü Kanyonu'nda (Demon Fall Canyon) bir kaleyi işgal ederek bize meydan okumaya  cüret ediyorlar. Ne yazık ki, Nöbetçiler (the Sentinels) bana yardım etmeyi inatla  reddediyor, bu sırada gerçek düşmanımız  güçleniyor ve başka bir istila için  hazırlanıyor. Harekete geçmemiz  zorunludur: Onların bölgesine seyahat etmeni ve rütbelerini  seyreltmeni rica ediyorum. Karşılaştığın her türden en az on iblisi  ortadan kaldırmak güçlü bir mesaj gönderecektir. Bu caniler kutsal korularımıza bir daha  saygısızlık edemesinler diye Çarpık Boşluk'a (Twisting Nether) geri sürülmelidir.",
-    ["Objectives"]="Ashenvale'deki Orman Şarkısı'nda (Forest Song) bulunan Delos Talonheart için 10 Yakıcı Cehennemlik (Searing Infernals), 10 Belabekçisi (Felguards) ve 10 Mannoroc Kırbaçlayıcısı (Mannoroc Lashers) katlet.",
+    ["Objectives"]="Külvadi'deki Orman Şarkısı'nda (Forest Song) bulunan Delos Talonheart için 10 Yakıcı Cehennemlik (Searing Infernals), 10 Belabekçisi (Felguards) ve 10 Mannoroc Kırbaçlayıcısı (Mannoroc Lashers) katlet.",
     ["Progress"]="Lejyon (the Legion) ile olan savaşımız sayısız savaş alanı boyunca, birçok bin yıl (millennia) boyunca  yürütüldü. Biz bu dünyanın muhafızlarıyız ve onların burayı  lekelemesine müsaade etmeyeceğiz.",
     ["Completion"]="Ağaçlar, yaban hayvanları, rüzgar; doğanın tamamı  neşeyle doluyor. Onun şarkısında, kendisine teşekkür borçlu  olunan sensin, YOUR_NAME. İblis Düşüşü Kanyonu'nu (Demon Fall Canyon) temizlemedeki cesaretin ve kararlılığın, nihai yüzleşmeye  hazırlanmamız için bize değerli bir zaman kazandırdı. Eylemlerin  gözden kaçmadı ve bu toprakları korumaya yönelik kutsal savaşımızda sana yoldaş  demekten gurur duyuyorum.",
     ["minlevel"]="0",
@@ -45820,11 +45820,11 @@ QuestTranslator_QuestData = {
 -- The Unwise Elders
     -- Unwise Elders -> Bilge olmayan Yaşlılar / Akılsız Yaşlılar (Unwise + Elders).
     -- Foulweald -> Foulweald furbolgları kalmıştır, Furbolg -> Furbolglar, Crescent Grove = Hilal Korusu (Crescent + Grove).
-    -- Groveweald -> Groveweald furbolgları kalmıştır, Ashenvale = Ashenvale.
+    -- Groveweald -> Groveweald furbolgları kalmıştır, Külvadi = Külvadi.
     -- Grovetenders -> Koru Gözetleyicileri (Grove + tenders). Elder 'One Eye' -> Yaşlı 'Tek Göz' kalmıştır (One + Eye), Elder Blackmaw -> Yaşlı Karabağız kalmıştır (Black + maw: kara ağız / boğaz). Grol the Exile -> Sürgün Grol kalmıştır (Exile).
     ["40090"] = {
     ["Title"]="Akılsız Yaşlılar",
-    ["Description"]="Foulweald yaşlıları, işler kötüye  gitmeye başladığında oradan ayrılacak kadar akıllıydı. Kaçan Furbolg kabilelerine güneydeki Hilal Korusu'na (Crescent Grove) doğru liderlik etmeye  yardım ettiler. İşte orada deliliğe  sürüklendiler ve kendi gözetimleri altındaki kabileleri daha da derin bir çılgınlığa  ittiler. Oradaki furbolglar için ruhani liderler, hakikatin sesi ve  bir rehber olarak görülüyorlar. Sanrıları ve çılgınlıkları, Groveweald'ın etraflarındakiler için her zamankinden daha büyük bir tehdit  haline gelmesini körükledi ve Ashenvale'deki (Ashenvale) doğa için daha da fazla  sefalete yol açtı. Eğer Groveweald durdurulacaksa, Yaşlılar Koru Gözetleyicilerinin (Grovetenders) kulaklarına fısıldamayı  kesmelidir. Onları durdurmana izin  vereceğinden şüpheliyim ve onun da  yok edilmesi gerekecek. Bu yıkım döngüsüne  son verdiğin için ödüllendirileceksin; ölümlerinin kanıtı olarak bana Yaşlı 'Tek Göz' (Elder 'One Eye') ve Yaşlı Karabağız'ın (Elder Blackmaw) pençesini getir.",
+    ["Description"]="Foulweald yaşlıları, işler kötüye  gitmeye başladığında oradan ayrılacak kadar akıllıydı. Kaçan Furbolg kabilelerine güneydeki Hilal Korusu'na (Crescent Grove) doğru liderlik etmeye  yardım ettiler. İşte orada deliliğe  sürüklendiler ve kendi gözetimleri altındaki kabileleri daha da derin bir çılgınlığa  ittiler. Oradaki furbolglar için ruhani liderler, hakikatin sesi ve  bir rehber olarak görülüyorlar. Sanrıları ve çılgınlıkları, Groveweald'ın etraflarındakiler için her zamankinden daha büyük bir tehdit  haline gelmesini körükledi ve Külvadi'deki (Külvadi) doğa için daha da fazla  sefalete yol açtı. Eğer Groveweald durdurulacaksa, Yaşlılar Koru Gözetleyicilerinin (Grovetenders) kulaklarına fısıldamayı  kesmelidir. Onları durdurmana izin  vereceğinden şüpheliyim ve onun da  yok edilmesi gerekecek. Bu yıkım döngüsüne  son verdiğin için ödüllendirileceksin; ölümlerinin kanıtı olarak bana Yaşlı 'Tek Göz' (Elder 'One Eye') ve Yaşlı Karabağız'ın (Elder Blackmaw) pençesini getir.",
     ["Objectives"]="Hilal Korusu'nun (Crescent Grove) içinden Yaşlı 'Tek Göz' ve Yaşlı Karabağız'ın pençelerini Sürgün Grol'a (Grol the Exile) ulaştır.",
     ["Progress"]="Susturuldular mı ? Yaşlıların o fısıltıları  son buldu mu?",
     ["Completion"]="Bir zamanlar bilge olan bu yaşlıların  yaydığı sanrıların durdurulduğunu bilmek bir  rahatlama. Umarım ölümden sonraki yaşamda (afterlife) daha iyi bir yer  bulurlar.",
@@ -47040,16 +47040,16 @@ QuestTranslator_QuestData = {
     }, -- end Flickering Flames in the Eastern Kingdoms
     -- Flickering Flames in Kalimdor
     -- Flickering Flames in Kalimdor -> Kalimdor'daki Titreyen Alevler (Flickering + Flames + Kalimdor).
-    -- Ashenvale = Ashenvale, the Barrens = Barrens, Darkshore = Karasahil kalmıştır (Dark + shore), Stonetalon Mountains = Taşkesen Dağları kalmıştır (Stone + talon).
+    -- Külvadi = Külvadi, the Barrens = Barrens, Darkshore = Karasahil kalmıştır (Dark + shore), Stonetalon Mountains = Taşkesen Dağları kalmıştır (Stone + talon).
     -- Festival Flamekeeper -> Festival Alevmuhafızı (Festival + Flame + keeper).
-    -- Flame of Ashenvale, the Barrens, Darkshore, Stonetalon -> Ashenvale Alevi, Barrens Alevi, Karasahil Alevi, Taşkesen Alevi.
+    -- Flame of Külvadi, the Barrens, Darkshore, Stonetalon -> Külvadi Alevi, Barrens Alevi, Karasahil Alevi, Taşkesen Alevi.
     -- Ratchet = Dişliçark, Master's Glaive = Ustanın Kargısı kalmıştır (Master's + Glaive).
     -- Silverwing Outpost = Gümüşkanat Karargahı kalmıştır (Silver + wing + Outpost), Windshear Crag = Rüzgarkıran Kayalığı kalmıştır (Wind + shear + Crag).
     -- Elderberry Pie -> Mürver Meyveli Turta, Fire-toasted Bun -> Ateşte Kızarmış Çörek, Midsummer Sausage -> Yazortası Sucuğu, Toasted Smorc -> Kızarmış Smorc.
     ["9388"] = { -- Quest ID varsayılan olarak yerleştirilmiştir.
     ["Title"]="Kalimdor'daki Titreyen Alevler",
-    ["Description"]="Bugün dünya genelinde yanan pek çok alev var, YOUR_NAME. Bakımı en çetrefilli olan ateşler, yeşil yananlardır; denetim  olmadan uzun süre yanık kalmazlar. O zümrüt ateşlerin Alevmuhafızımız (Flamekeeper) için Kalimdor'da (Kalimdor) hala yandığından emin  ol, tamam mı?\n\nOnları Barrens'daki Dişliçark (Ratchet) yakınlarında, Karasahil'deki (Darkshore) Ustanın Kargısı'nın (Master's Glaive) hemen yanında, Ashenvale (Ashenvale) ormanındaki Gümüşkanat Karargahı (Silverwing Outpost) yakınlarındaki köprünün yanında ve Taşkesen Dağları'ndaki (Stonetalon Mountains) ana yol boyunca uzanan Rüzgarkıran Kayalığı (Windshear Crag) yolunun yakınında  bulacaksın.",
-    ["Objectives"]="Ashenvale, Barrens, Karasahil (Darkshore) ve Taşkesen Dağları (Stonetalon Mountains) içindeki şenlik ateşlerini  ziyaret et, ardından Festival Alevmuhafızı (Festival Flamekeeper) ile konuş.",
+    ["Description"]="Bugün dünya genelinde yanan pek çok alev var, YOUR_NAME. Bakımı en çetrefilli olan ateşler, yeşil yananlardır; denetim  olmadan uzun süre yanık kalmazlar. O zümrüt ateşlerin Alevmuhafızımız (Flamekeeper) için Kalimdor'da (Kalimdor) hala yandığından emin  ol, tamam mı?\n\nOnları Barrens'daki Dişliçark (Ratchet) yakınlarında, Karasahil'deki (Darkshore) Ustanın Kargısı'nın (Master's Glaive) hemen yanında, Külvadi (Külvadi) ormanındaki Gümüşkanat Karargahı (Silverwing Outpost) yakınlarındaki köprünün yanında ve Taşkesen Dağları'ndaki (Stonetalon Mountains) ana yol boyunca uzanan Rüzgarkıran Kayalığı (Windshear Crag) yolunun yakınında  bulacaksın.",
+    ["Objectives"]="Külvadi, Barrens, Karasahil (Darkshore) ve Taşkesen Dağları (Stonetalon Mountains) içindeki şenlik ateşlerini  ziyaret et, ardından Festival Alevmuhafızı (Festival Flamekeeper) ile konuş.",
     ["Progress"]="Festival bitene kadar ateşler  sönemez!",
     ["Completion"]="Ahhh, demek hala  yanıyorlar. Sevindim; bu ateşlerin vakitlerinden önce sönmesi hiç  iyi olmazdı. İyi iş çıkardın, YOUR_NAME. Bunu takdisimle birlikte  al.",
     ["minlevel"]="0",
@@ -52282,15 +52282,15 @@ QuestTranslator_QuestData = {
     }, -- end Down at the Docks
 
     -- Gateway to the Frontier
-    -- Ashenvale -> Ashenvale (ZoneData.lua)
+    -- Külvadi -> Külvadi (ZoneData.lua)
     -- Mor'shan Rampart -> Mor'shan Surları
     -- The Barrens -> Çorak Topraklar (ZoneData.lua)
     ["911"] = {
     ["Title"]="Sınıra Açılan Kapı",
-    ["Description"]="Ashenvale'in yeni sınır olduğunu ve Çorak Topraklar'daki Mor'shan Surları'nın oraya açılan kapı olduğunu söylüyorlar. Evcilleştirilmemiş vahşi doğadan ihtiyacın olan her şeyi yontarak çıkaran bir öncü olmak çok havalı olurdu! Gelecekte Horde ve Alliance'ın en çok burada çatışacağını söylüyorlar ve ben de orada olmak istiyorum YOUR_NAME!\n\nSınırın neye benzediğini görebilmem için beni Mor'shan Surları'na götürür müsün lütfen? Horde'un o kokmuş gece elflerini nereden kovduğunu görmek istiyorum!",
-    ["Objectives"]="Vesayetin altındaki çocuğu Ashenvale'e girmeden hemen önce, Çorak Topraklar'ın kuzey kısmındaki Mor'shan Surları'na götür.",
+    ["Description"]="Külvadi'in yeni sınır olduğunu ve Çorak Topraklar'daki Mor'shan Surları'nın oraya açılan kapı olduğunu söylüyorlar. Evcilleştirilmemiş vahşi doğadan ihtiyacın olan her şeyi yontarak çıkaran bir öncü olmak çok havalı olurdu! Gelecekte Horde ve Alliance'ın en çok burada çatışacağını söylüyorlar ve ben de orada olmak istiyorum YOUR_NAME!\n\nSınırın neye benzediğini görebilmem için beni Mor'shan Surları'na götürür müsün lütfen? Horde'un o kokmuş gece elflerini nereden kovduğunu görmek istiyorum!",
+    ["Objectives"]="Vesayetin altındaki çocuğu Külvadi'e girmeden hemen önce, Çorak Topraklar'ın kuzey kısmındaki Mor'shan Surları'na götür.",
     ["Progress"]="Geldik mi?",
-    ["Completion"]="Vay canına, Ashenvale gerçek maceranın yaşandığı yer! Hiç Ashenvale'de savaştın mı, YOUR_NAME? Büyüdüğümde bir kahraman olduğumda, Ashenvale'e gelip Horde'un zaferi için savaşmak istiyorum!\n\nBeni sınıra götürdüğün için teşekkür ederim, YOUR_NAME. Sen en iyisisin!",
+    ["Completion"]="Vay canına, Külvadi gerçek maceranın yaşandığı yer! Hiç Külvadi'de savaştın mı, YOUR_NAME? Büyüdüğümde bir kahraman olduğumda, Külvadi'e gelip Horde'un zaferi için savaşmak istiyorum!\n\nBeni sınıra götürdüğün için teşekkür ederim, YOUR_NAME. Sen en iyisisin!",
     ["minlevel"]="10",
     ["questlevel"]="60",
     }, -- end Gateway to the Frontier
@@ -52477,7 +52477,7 @@ QuestTranslator_QuestData = {
 		["Description"] = "Eğer Menethil'den gemiden yeni indiysen yapman gereken ilk şey... Astranaar'a gitmektir. Senin gibi istekli bir İttifak [Alliance] üyesinin orada gerçekten işe yarayabileceğinden eminim. Shindrell Hızlıateş [Shindrell Swiftfire] ile konuş ve hizmetlerini sun.NEW_LINENEW_LINEAma seni kimin gönderdiğinden bahsetme. Shindrell beni tanımaz...",
 		["Objectives"] = "Astranaar'daki Shindrell Hızlıateş [Shindrell Swiftfire] ile konuş.",
 		["Progress"] = "",
-		["Completion"] = "İttifak [Alliance]'a hizmetlerini sunmak için mi buradasın, YOUR_NAME? Yardımı memnuniyetle karşılıyoruz, çünkü güzelliği hâlâ sürse de... Ashenvale Ormanı [Ashenvale Forest] artık eskisi gibi huzurlu bir yer değil.",
+		["Completion"] = "İttifak [Alliance]'a hizmetlerini sunmak için mi buradasın, YOUR_NAME? Yardımı memnuniyetle karşılıyoruz, çünkü güzelliği hâlâ sürse de... Külvadi Ormanı [Külvadi Forest] artık eskisi gibi huzurlu bir yer değil.",
 		["minlevel"] = "18",
 		["questlevel"] = "20"
 	},
@@ -56312,10 +56312,10 @@ QuestTranslator_QuestData = {
     -- Camp Mojache -> Mojache Kampı (ZoneData.lua)
     -- Feralas -> Feralas (ZoneData.lua)
     -- Felwood -> Felwood (ZoneData.lua)
-    -- Ashenvale -> Ashenvale (ZoneData.lua)
+    -- Külvadi -> Külvadi (ZoneData.lua)
     ["4120"] = {
     ["Title"]="Yozlaşmanın Gücü",
-    ["Description"]="Bir avcı olarak, rakiplerimde gördüğüm güçleri örnek almaya çabalıyorum. Sadece düşmanını iyi tanıyarak savaşı kendi lehine çevirmek mümkündür, YOUR_NAME.\n\nAshenvale'in kuzeyindeki Felwood denen bir yerde yaratıklar iblis denen bir maddeyle lekelendi. Ayılar ve kurtlar onun yüzünden çıldırdı ama aynı zamanda daha da güçlendiklerine inanıyorum.\n\nGit, YOUR_NAME. Felwood'a seyahat et ve bu canavarlarla yüzleş. Gerçekten inandığım kadar güçlü olup olmadıklarını kendin öğren.",
+    ["Description"]="Bir avcı olarak, rakiplerimde gördüğüm güçleri örnek almaya çabalıyorum. Sadece düşmanını iyi tanıyarak savaşı kendi lehine çevirmek mümkündür, YOUR_NAME.\n\nKülvadi'in kuzeyindeki Felwood denen bir yerde yaratıklar iblis denen bir maddeyle lekelendi. Ayılar ve kurtlar onun yüzünden çıldırdı ama aynı zamanda daha da güçlendiklerine inanıyorum.\n\nGit, YOUR_NAME. Felwood'a seyahat et ve bu canavarlarla yüzleş. Gerçekten inandığım kadar güçlü olup olmadıklarını kendin öğren.",
     ["Objectives"]="Feralas'taki Mojache Kampı'nda bulunan Talo Dikenli Toynak, Felwood'daki 12 Öfke Pençesi Bozayısı ve 12 İblispençe Yağmacısı öldürmeni istiyor.",
     ["Progress"]="İblis tarafından dokunulan her şey garip bir yeşil ışıltı yayıyor... Kötü olduğunu hissediyorum ama aynı zamanda çok güçlü.",
     ["Completion"]="Tanımlamalarından yaratıkların akılsızca bir vahşet sergilediği anlaşılıyor...\n\nTetikte ol, YOUR_NAME. Yozlaşma hakkında daha fazla şey öğrenmek senin yararına olacaktır. Düşmanını her zaman tanı.",
@@ -56919,11 +56919,11 @@ QuestTranslator_QuestData = {
     -- Arei -> Arei (MobNpcData.lua)[cite: 1]
     -- Forest Song -> Orman Şarkısı (ZoneData.lua)
     -- Felwood -> Felwood (ZoneData.lua)
-    -- Ashenvale -> Ashenvale (ZoneData.lua)
+    -- Külvadi -> Külvadi (ZoneData.lua)
     ["4261"] = {
     ["Title"]="Kadim Ruh",
-    ["Description"]="Felwood bir zamanlar huzurlu ve sakin bir topraktı... Lejyon ele geçirene kadar. İblisler, yıkım, kaos...\n\nGul'dan'ın kafatası burada kimsenin bağışlanmamasını sağladı. Hepsi yozlaşmaya yenik düştü.\n\nŞimdi bile bir ruh olarak kendimi hâlâ kapana kısılmış, bu toprağın acısını taşırken buluyorum. Eve giden yolumu bulmama yardım et. Lütfen, YOUR_NAME, kadim bir ruha buradan uzaklaşması için rehberlik edeceğini söyle, böylece sonunda dinlenebileyim.\n\nÖzgür kaldığımda doğuda, Ashenvale'deki Orman Şarkısı'nda ikamet eden bir druid olan Kayneth Durgunrüzgar'ı ara.",
-    ["Objectives"]="Arei'ye güvenli bir yere kadar eşlik et, ardından doğu Ashenvale'deki Orman Şarkısı'nda bulunan Kayneth Durgunrüzgar ile konuş.",
+    ["Description"]="Felwood bir zamanlar huzurlu ve sakin bir topraktı... Lejyon ele geçirene kadar. İblisler, yıkım, kaos...\n\nGul'dan'ın kafatası burada kimsenin bağışlanmamasını sağladı. Hepsi yozlaşmaya yenik düştü.\n\nŞimdi bile bir ruh olarak kendimi hâlâ kapana kısılmış, bu toprağın acısını taşırken buluyorum. Eve giden yolumu bulmama yardım et. Lütfen, YOUR_NAME, kadim bir ruha buradan uzaklaşması için rehberlik edeceğini söyle, böylece sonunda dinlenebileyim.\n\nÖzgür kaldığımda doğuda, Külvadi'deki Orman Şarkısı'nda ikamet eden bir druid olan Kayneth Durgunrüzgar'ı ara.",
+    ["Objectives"]="Arei'ye güvenli bir yere kadar eşlik et, ardından doğu Külvadi'deki Orman Şarkısı'nda bulunan Kayneth Durgunrüzgar ile konuş.",
     ["Progress"]="Bu yozlaşmış toprakta ne gördün?",
     ["Completion"]="Evet, YOUR_NAME. Felwood çok sıkıntı çekti. Yaptıkların için teşekkür ederim.\n\nBir gün Felwood'u yozlaşmadan geri alabiliriz; her iyi eylem yardımcı olur.",
     ["minlevel"]="49",
@@ -59498,12 +59498,12 @@ QuestTranslator_QuestData = {
     -- Lightforge -> Işıkdövmesi
     -- Shadow Hold -> Gölge Tabyası (ZoneData.lua)
     -- Darnassus -> Darnassus (ZoneData.lua)
-    -- Ashenvale -> Ashenvale (ZoneData.lua)
+    -- Külvadi -> Külvadi (ZoneData.lua)
     -- Emerald Circle -> Zümrüt Çember
     -- Felwood -> Felwood (ZoneData.lua)
     ["5203"] = {
     ["Title"]="Jaedenar'dan Kurtarma",
-    ["Description"]="Ama beni ne kadar üzse de önce yapılması gereken bir şey var: Trey'in kılıcı Işıkdövmesi'ni bulmalı ve burada ne olduğunu üstlerime anlatmak için Gölge Tabyası'ndan kaçmalıyım. Bana yardım edebilir misin, YOUR_NAME?\n\nEkipmanımız buradan pek uzak değil ve en üste giden yoldan hayatta kalabileceğini zaten kanıtladın.\n\nKaçtıktan sonra, arkadaşım Jessir'i Ashenvale sınırı yakınında bulabilirsen Darnassus'a gideceğim. Bizimle oradaki Zümrüt Çemberi'nin ordugahında buluşacaktı.\n\nNe diyorsun, YOUR_NAME? Bana tekrar yardım edebilir misin?",
+    ["Description"]="Ama beni ne kadar üzse de önce yapılması gereken bir şey var: Trey'in kılıcı Işıkdövmesi'ni bulmalı ve burada ne olduğunu üstlerime anlatmak için Gölge Tabyası'ndan kaçmalıyım. Bana yardım edebilir misin, YOUR_NAME?\n\nEkipmanımız buradan pek uzak değil ve en üste giden yoldan hayatta kalabileceğini zaten kanıtladın.\n\nKaçtıktan sonra, arkadaşım Jessir'i Külvadi sınırı yakınında bulabilirsen Darnassus'a gideceğim. Bizimle oradaki Zümrüt Çemberi'nin ordugahında buluşacaktı.\n\nNe diyorsun, YOUR_NAME? Bana tekrar yardım edebilir misin?",
     ["Objectives"]="Arko'narin'e Işıkdövmesi ve ekipmanının tutulduğu yere kadar eşlik et, ardından Gölge Tabyası'ndan kaçarken onu koru. Ardından, arkadaşlarına ne olduğunu bildirmek için Felwood'daki Jessir Ayyayı'nı ara.",
     ["Progress"]="Nefessiz kalmış gibisin, YOUR_NAME. İyi misin, yoksa bir sorun mu var?",
     ["Completion"]="Arko'nun kaçmasına yardım eden sen miydin? Beni bulduğuna çok sevindim. Çok kısa bir süre önce Darnassus yolunda buradan geçti. Yanında Işıkdövmesi vardı ve iyileştirilmek için druidlerle konuşmaya bile vakit ayırmadı. Çok acil olduğunu söyledi.\n\nAma bana Trey'in ruhuyla karşılaşmandan bahsetti. Gümüş El Şövalyesi için ne korkunç bir kader. Belli etmedi ama en yakın arkadaşlarından birini kaybetme düşüncesinin içini kemirdiğini biliyorum.",
@@ -60438,11 +60438,11 @@ QuestTranslator_QuestData = {
     -- Jessir Moonbow -> Jessir Ayyayı (MobNpcData.lua)
     -- Arko'narin -> Arko'narin (MobNpcData.lua)
     -- Felwood -> Felwood (ZoneData.lua)
-    -- Ashenvale -> Ashenvale (ZoneData.lua)
+    -- Külvadi -> Külvadi (ZoneData.lua)
     -- Jaedenar -> Jaedenar (ZoneData.lua)
     ["5385"] = {
     ["Title"]="Trey Işıkdövmesi'nin Kalıntıları",
-    ["Description"]="Çuvalı dikkatlice kaldırıyorsun ve Felwood ile Ashenvale sınırındaki Jessir Ayyayı'na dönmek için yola koyuluyorsun. Umuyoruz ki paladinin kalıntılarını arkadaşlarına ulaştırdığında ona gereken saygı gösterilecektir.",
+    ["Description"]="Çuvalı dikkatlice kaldırıyorsun ve Felwood ile Külvadi sınırındaki Jessir Ayyayı'na dönmek için yola koyuluyorsun. Umuyoruz ki paladinin kalıntılarını arkadaşlarına ulaştırdığında ona gereken saygı gösterilecektir.",
     ["Objectives"]="Trey Işıkdövmesi'nin Kalıntıları'nı Felwood'daki Jessir Ayyayı'na geri götür.",
     ["Progress"]="Jaedenar'da işler nasıl gitti, YOUR_NAME?",
     ["Completion"]="Başardın! Elune'a ve taptığın hangi güçler varsa onlara övgüler olsun, YOUR_NAME. Bugün onurlu ve soylu bir şey yaptın. Arko'narin'in sadece onu kurtarmak için vakit ayırmana değil, aynı zamanda en iyi arkadaşlarından birine işkence eden yaratığı öldürmene de sevineceğinden eminim.\n\nKeşke senin için daha fazlasını yapabilseydim ama lütfen, bunu al.",
@@ -61010,11 +61010,11 @@ QuestTranslator_QuestData = {
     -- A Land Filled with Hatred
     -- Cenarius -> Cenarius (MobNpcData.lua)
     -- Loh'atu -> Loh'atu (MobNpcData.lua)
-    -- Ashenvale -> Ashenvale (ZoneData.lua)
+    -- Külvadi -> Külvadi (ZoneData.lua)
     ["5536"] = {
     ["Title"]="Nefretle Dolu Bir Diyar",
     ["Description"]="Gece elflerinin şekilsiz, kötü bir yönü olan satir, bir zamanlar Cenarius'un dolaştığı kutsal toprakları enfekte ediyor. O iblis yaratıkların işlediği tüm vahşet söz konusu olduğunda Gece elfleri adına konuşamam, ancak elflere toprağı böyle bir beladan kurtarmada yardım etmek için Toprakana'ya yemin ettim.\n\nOnları temizlememde bana yardım edersen kendini kanıtlayacağından eminim.\n\nBuranın kuzeydoğusunda Haldarr klanını bulabilirsin. Güçlerine karşı kendini test ettikten sonra bana dön.",
-    ["Objectives"]="6 Haldarr Satiri, 2 Haldarr Hilekarı, 2 Haldarr İblisadanmışı öldür ve ardından Ashenvale sınırındaki Loh'atu'ya dön.",
+    ["Objectives"]="6 Haldarr Satiri, 2 Haldarr Hilekarı, 2 Haldarr İblisadanmışı öldür ve ardından Külvadi sınırındaki Loh'atu'ya dön.",
     ["Progress"]="Satirlere karşı savaşın nasıl gidiyor, YOUR_CLASS?\n\nDüşündüğün kadar güçlüler mi? Daha mı güçlüler? Yoksa senin kendi gücün karşısında bir hiç miydiler?",
     ["Completion"]="Aferin, YOUR_CLASS. Sadece yetenekli değil, aynı zamanda kurnaz olduğunu da görüyorum. Böyle yaratıkları yenmek, onu kendi ilahın olarak tanımasan bile Toprakana'nın ilkelerine olan sadakatinin bir kanıtıdır. O, bu gezegendeki ve ötesindeki her şeyin içindedir. Biri karanlık diğeri aydınlık olan gözleri gökyüzünde dolaşır, her zaman bize bakar.\n\nYaptığın şeyin takdiri olarak lütfen bu küçük miktardaki parayı al.",
     ["minlevel"]="45",
@@ -62062,10 +62062,10 @@ QuestTranslator_QuestData = {
     -- Felwood -> Felwood (ZoneData.lua)
     -- Shadow Council -> Gölge Konseyi
     -- Bloodvenom Post -> Kanzehri Karakolu (ZoneData.lua)
-    -- Ashenvale -> Ashenvale (ZoneData.lua)
+    -- Külvadi -> Külvadi (ZoneData.lua)
     ["6162"] = {
     ["Title"]="Bir Kocanın Son Savaşı",
-    ["Description"]="Kocam, klanımızın onuru için Felwood'da seyahat etti, Gölge Konseyi'ne ve diğer yozlaşmış acımasızlıklara karşı savaştı!\n\nÖlümden defalarca kaçtıktan sonra, bir druidin Derebeyi Ror adındaki büyük, kirletilmiş bir furbolga karşı kendisinden yardım istediğini söyleyen bir mektup aldım - ikisinden de bir daha haber alınamadı.\n\nBu Ror'un pençeli elini istiyorum, YOUR_NAME. Beni dul bıraktığı için bunun bedelini ödemesini istiyorum! Yaratığın güneyde... Ashenvale sınırı yakınında olduğuna inanıyorum.",
+    ["Description"]="Kocam, klanımızın onuru için Felwood'da seyahat etti, Gölge Konseyi'ne ve diğer yozlaşmış acımasızlıklara karşı savaştı!\n\nÖlümden defalarca kaçtıktan sonra, bir druidin Derebeyi Ror adındaki büyük, kirletilmiş bir furbolga karşı kendisinden yardım istediğini söyleyen bir mektup aldım - ikisinden de bir daha haber alınamadı.\n\nBu Ror'un pençeli elini istiyorum, YOUR_NAME. Beni dul bıraktığı için bunun bedelini ödemesini istiyorum! Yaratığın güneyde... Külvadi sınırı yakınında olduğuna inanıyorum.",
     ["Objectives"]="Derebeyi Ror'u öldür ve pençesini Felwood'daki Kanzehri Karakolu'nda bulunan Dreka'Sur'a götür.",
     ["Progress"]="Canavarın kafasını aldın mı, YOUR_NAME? İşlediği suçların bedelini ödeyecek. Yozlaşmış olması ya da böylesine kasvetli bir ormanda yaşadığı için öfkeli olması umurumda değil. Hiçbir furbolg aileme karşı böyle suçlar işleyerek uzun süre yaşayamaz!",
     ["Completion"]="Sözünü tutarak bana onur getirdin. Kocam savaşta öldü - bundan gurur duyardı. Ama beni hayatımı yalnız yaşamaya zorlayan yaratığın yaptıklarının bedelini ödediğini bilene kadar rahat edemezdim.\n\nTekrar teşekkür ederim, YOUR_NAME.",
@@ -63252,15 +63252,15 @@ QuestTranslator_QuestData = {
     -- Silverwing Sentinels -> Gümüşkanat Nöbetçileri
     -- Warsong Outriders -> Savaşşarkısı Avcıları
     -- Warsong Gulch -> Savaşşarkısı Kanyonu (ZoneData.lua)
-    -- Ashenvale -> Ashenvale (ZoneData.lua)
+    -- Külvadi -> Külvadi (ZoneData.lua)
     -- Astranaar -> Astranaar (ZoneData.lua)
     -- Barrens -> Barrens (ZoneData.lua)
     ["8407"] = {
     ["Title"]="Savaşşarkısı Kanyonu İçin Savaş",
-    ["Description"]="Gümüşkanat Nöbetçileri, Orklarn ormana verdiği zarar nedeniyle Savaşşarkısı Avcıları ile savaş halindedir. Ancak bu özel ormanı savunmak için doğaya duyulan yalın sevgiden daha fazla neden var.\n\nOrman, Ashenvale'i büyük ölçekli bir saldırıya karşı savunulabilir kılan stratejik bir engel oluşturur. O olmadan Astranaar, Barrens'a ilhak edilmeden önce bir iki gün dayanırdı.\n\nSavaşşarkısı Avcıları ile savaşmada üzerine düşeni yap, YOUR_NAME! İttifak için!",
+    ["Description"]="Gümüşkanat Nöbetçileri, Orklarn ormana verdiği zarar nedeniyle Savaşşarkısı Avcıları ile savaş halindedir. Ancak bu özel ormanı savunmak için doğaya duyulan yalın sevgiden daha fazla neden var.\n\nOrman, Külvadi'i büyük ölçekli bir saldırıya karşı savunulabilir kılan stratejik bir engel oluşturur. O olmadan Astranaar, Barrens'a ilhak edilmeden önce bir iki gün dayanırdı.\n\nSavaşşarkısı Avcıları ile savaşmada üzerine düşeni yap, YOUR_NAME! İttifak için!",
     ["Objectives"]="Savaş alanlarının dışındaki bir İttifak Tuğgenerali'ne 3 Savaşşarkısı Kanyonu Onur Nişanı getir.",
-    ["Progress"]="Savaşşarkısı Kanyonu savaşının sadece ağaçları korumaktan ibaret olmadığını unutma. Ashenvale ile Barrens arasında doğal bir engeli korumakla ilgili. Savaş alanından herhangi bir haber getiriyor musun, YOUR_NAME?",
-    ["Completion"]="İyi iş, YOUR_NAME. Sayende Ashenvale'deki doğal savunmamız bir gün daha bozulmadan kalacak.",
+    ["Progress"]="Savaşşarkısı Kanyonu savaşının sadece ağaçları korumaktan ibaret olmadığını unutma. Külvadi ile Barrens arasında doğal bir engeli korumakla ilgili. Savaş alanından herhangi bir haber getiriyor musun, YOUR_NAME?",
+    ["Completion"]="İyi iş, YOUR_NAME. Sayende Külvadi'deki doğal savunmamız bir gün daha bozulmadan kalacak.",
     ["minlevel"]="50",
     ["questlevel"]="59",
     }, -- end Fight for Warsong Gulch
@@ -63269,15 +63269,15 @@ QuestTranslator_QuestData = {
     -- Silverwing Sentinels -> Gümüşkanat Nöbetçileri
     -- Warsong Outriders -> Savaşşarkısı Avcıları
     -- Warsong Gulch -> Savaşşarkısı Kanyonu (ZoneData.lua)
-    -- Ashenvale -> Ashenvale (ZoneData.lua)
+    -- Külvadi -> Külvadi (ZoneData.lua)
     -- Astranaar -> Astranaar (ZoneData.lua)
     -- Barrens -> Barrens (ZoneData.lua)
     ["8408"] = {
     ["Title"]="Savaşşarkısı Kanyonu İçin Savaş",
-    ["Description"]="Gümüşkanat Nöbetçileri, Orklarn ormana verdiği zarar nedeniyle Savaşşarkısı Avcıları ile savaş halindedir. Ancak bu özel ormanı savunmak için doğaya duyulan yalın sevgiden daha fazla neden var.\n\nOrman, Ashenvale'i büyük ölçekli bir saldırıya karşı savunulabilir kılan stratejik bir engel oluşturur. O olmadan Astranaar, Barrens'a ilhak edilmeden önce bir iki gün dayanırdı.\n\nSavaşşarkısı Avcıları ile savaşmada üzerine düşeni yap, YOUR_NAME! İttifak için!",
+    ["Description"]="Gümüşkanat Nöbetçileri, Orklarn ormana verdiği zarar nedeniyle Savaşşarkısı Avcıları ile savaş halindedir. Ancak bu özel ormanı savunmak için doğaya duyulan yalın sevgiden daha fazla neden var.\n\nOrman, Külvadi'i büyük ölçekli bir saldırıya karşı savunulabilir kılan stratejik bir engel oluşturur. O olmadan Astranaar, Barrens'a ilhak edilmeden önce bir iki gün dayanırdı.\n\nSavaşşarkısı Avcıları ile savaşmada üzerine düşeni yap, YOUR_NAME! İttifak için!",
     ["Objectives"]="Savaş alanlarının dışındaki bir İttifak Tuğgenerali'ne 3 Savaşşarkısı Kanyonu Onur Nişanı getir.",
-    ["Progress"]="Savaşşarkısı Kanyonu savaşının sadece ağaçları korumaktan ibaret olmadığını unutma. Ashenvale ile Barrens arasında doğal bir engeli korumakla ilgili. Savaş alanından herhangi bir haber getiriyor musun, YOUR_NAME?",
-    ["Completion"]="İyi iş, YOUR_NAME. Sayende Ashenvale'deki doğal savunmamız bir gün daha bozulmadan kalacak.",
+    ["Progress"]="Savaşşarkısı Kanyonu savaşının sadece ağaçları korumaktan ibaret olmadığını unutma. Külvadi ile Barrens arasında doğal bir engeli korumakla ilgili. Savaş alanından herhangi bir haber getiriyor musun, YOUR_NAME?",
+    ["Completion"]="İyi iş, YOUR_NAME. Sayende Külvadi'deki doğal savunmamız bir gün daha bozulmadan kalacak.",
     ["minlevel"]="60",
     ["questlevel"]="60",
     }, -- end Fight for Warsong Gulch
@@ -63286,15 +63286,15 @@ QuestTranslator_QuestData = {
     -- Silverwing Sentinels -> Gümüşkanat Nöbetçileri
     -- Warsong Outriders -> Savaşşarkısı Avcıları
     -- Warsong Gulch -> Savaşşarkısı Kanyonu (ZoneData.lua)
-    -- Ashenvale -> Ashenvale (ZoneData.lua)
+    -- Külvadi -> Külvadi (ZoneData.lua)
     -- Astranaar -> Astranaar (ZoneData.lua)
     -- Barrens -> Barrens (ZoneData.lua)
     ["8406"] = {
     ["Title"]="Savaşşarkısı Kanyonu İçin Savaş",
-    ["Description"]="Gümüşkanat Nöbetçileri, Orklarn ormana verdiği zarar nedeniyle Savaşşarkısı Avcıları ile savaş halindedir. Ancak bu özel ormanı savunmak için doğaya duyulan yalın sevgiden daha fazla neden var.\n\nOrman, Ashenvale'i büyük ölçekli bir saldırıya karşı savunulabilir kılan stratejik bir engel oluşturur. O olmadan Astranaar, Barrens'a ilhak edilmeden önce bir iki gün dayanırdı.\n\nSavaşşarkısı Avcıları ile savaşmada üzerine düşeni yap, YOUR_NAME! İttifak için!",
+    ["Description"]="Gümüşkanat Nöbetçileri, Orklarn ormana verdiği zarar nedeniyle Savaşşarkısı Avcıları ile savaş halindedir. Ancak bu özel ormanı savunmak için doğaya duyulan yalın sevgiden daha fazla neden var.\n\nOrman, Külvadi'i büyük ölçekli bir saldırıya karşı savunulabilir kılan stratejik bir engel oluşturur. O olmadan Astranaar, Barrens'a ilhak edilmeden önce bir iki gün dayanırdı.\n\nSavaşşarkısı Avcıları ile savaşmada üzerine düşeni yap, YOUR_NAME! İttifak için!",
     ["Objectives"]="Savaş alanlarının dışındaki bir İttifak Tuğgenerali'ne 3 Savaşşarkısı Kanyonu Onur Nişanı getir.",
     ["Progress"]="Cepheden haberlerle mi döndün, YOUR_NAME?",
-    ["Completion"]="İyi iş, YOUR_NAME. Sayende Ashenvale'deki doğal savunmamız bir gün daha bozulmadan kalacak.",
+    ["Completion"]="İyi iş, YOUR_NAME. Sayende Külvadi'deki doğal savunmamız bir gün daha bozulmadan kalacak.",
     ["minlevel"]="40",
     ["questlevel"]="49",
     }, -- end Fight for Warsong Gulch
@@ -63303,15 +63303,15 @@ QuestTranslator_QuestData = {
     -- Silverwing Sentinels -> Gümüşkanat Nöbetçileri
     -- Warsong Outriders -> Savaşşarkısı Avcıları
     -- Warsong Gulch -> Savaşşarkısı Kanyonu (ZoneData.lua)
-    -- Ashenvale -> Ashenvale (ZoneData.lua)
+    -- Külvadi -> Külvadi (ZoneData.lua)
     -- Astranaar -> Astranaar (ZoneData.lua)
     -- Barrens -> Barrens (ZoneData.lua)
     ["8405"] = {
     ["Title"]="Savaşşarkısı Kanyonu İçin Savaş",
-    ["Description"]="Gümüşkanat Nöbetçileri, Orklarn ormana verdiği zarar nedeniyle Savaşşarkısı Avcıları ile savaş halindedir. Ancak bu özel ormanı savunmak için doğaya duyulan yalın sevgiden daha fazla neden var.\n\nOrman, Ashenvale'i büyük ölçekli bir saldırıya karşı savunulabilir kılan stratejik bir engel oluşturur. O olmadan Astranaar, Barrens'a ilhak edilmeden önce bir iki gün dayanırdı.\n\nSavaşşarkısı Avcıları ile savaşmada üzerine düşeni yap, YOUR_NAME! İttifak için!",
+    ["Description"]="Gümüşkanat Nöbetçileri, Orklarn ormana verdiği zarar nedeniyle Savaşşarkısı Avcıları ile savaş halindedir. Ancak bu özel ormanı savunmak için doğaya duyulan yalın sevgiden daha fazla neden var.\n\nOrman, Külvadi'i büyük ölçekli bir saldırıya karşı savunulabilir kılan stratejik bir engel oluşturur. O olmadan Astranaar, Barrens'a ilhak edilmeden önce bir iki gün dayanırdı.\n\nSavaşşarkısı Avcıları ile savaşmada üzerine düşeni yap, YOUR_NAME! İttifak için!",
     ["Objectives"]="Savaş alanlarının dışındaki bir İttifak Tuğgenerali'ne 3 Savaşşarkısı Kanyonu Onur Nişanı getir.",
     ["Progress"]="Cepheden haberlerle mi döndün, YOUR_NAME?",
-    ["Completion"]="İyi iş, YOUR_NAME. Sayende Ashenvale'deki doğal savunmamız bir gün daha bozulmadan kalacak.",
+    ["Completion"]="İyi iş, YOUR_NAME. Sayende Külvadi'deki doğal savunmamız bir gün daha bozulmadan kalacak.",
     ["minlevel"]="30",
     ["questlevel"]="39",
     }, -- end Fight for Warsong Gulch
@@ -63320,15 +63320,15 @@ QuestTranslator_QuestData = {
     -- Silverwing Sentinels -> Gümüşkanat Nöbetçileri
     -- Warsong Outriders -> Savaşşarkısı Avcıları
     -- Warsong Gulch -> Savaşşarkısı Kanyonu (ZoneData.lua)
-    -- Ashenvale -> Ashenvale (ZoneData.lua)
+    -- Külvadi -> Külvadi (ZoneData.lua)
     -- Astranaar -> Astranaar (ZoneData.lua)
     -- Barrens -> Barrens (ZoneData.lua)
     ["8404"] = {
     ["Title"]="Savaşşarkısı Kanyonu İçin Savaş",
-    ["Description"]="Gümüşkanat Nöbetçileri, Orklarn ormana verdiği zarar nedeniyle Savaşşarkısı Avcıları ile savaş halindedir. Ancak bu özel ormanı savunmak için doğaya duyulan yalın sevgiden daha fazla neden var.\n\nOrman, Ashenvale'i büyük ölçekli bir saldırıya karşı savunulabilir kılan stratejik bir engel oluşturur. O olmadan Astranaar, Barrens'a ilhak edilmeden önce bir iki gün dayanırdı.\n\nSavaşşarkısı Avcıları ile savaşmada üzerine düşeni yap, YOUR_NAME! İttifak için!",
+    ["Description"]="Gümüşkanat Nöbetçileri, Orklarn ormana verdiği zarar nedeniyle Savaşşarkısı Avcıları ile savaş halindedir. Ancak bu özel ormanı savunmak için doğaya duyulan yalın sevgiden daha fazla neden var.\n\nOrman, Külvadi'i büyük ölçekli bir saldırıya karşı savunulabilir kılan stratejik bir engel oluşturur. O olmadan Astranaar, Barrens'a ilhak edilmeden önce bir iki gün dayanırdı.\n\nSavaşşarkısı Avcıları ile savaşmada üzerine düşeni yap, YOUR_NAME! İttifak için!",
     ["Objectives"]="Savaş alanlarının dışındaki bir İttifak Tuğgenerali'ne 3 Savaşşarkısı Kanyonu Onur Nişanı getir.",
     ["Progress"]="Cepheden haberlerle mi döndün, YOUR_NAME?",
-    ["Completion"]="İyi iş, YOUR_NAME. Sayende Ashenvale'deki doğal savunmamız bir gün daha bozulmadan kalacak.",
+    ["Completion"]="İyi iş, YOUR_NAME. Sayende Külvadi'deki doğal savunmamız bir gün daha bozulmadan kalacak.",
     ["minlevel"]="20",
     ["questlevel"]="29",
     }, -- end Fight for Warsong Gulch
@@ -63337,12 +63337,12 @@ QuestTranslator_QuestData = {
     -- Silverwing Sentinels -> Gümüşkanat Nöbetçileri
     -- Warsong Outriders -> Savaşşarkısı Avcıları
     -- Warsong Gulch -> Savaşşarkısı Kanyonu (ZoneData.lua)
-    -- Ashenvale -> Ashenvale (ZoneData.lua)
+    -- Külvadi -> Külvadi (ZoneData.lua)
     -- Astranaar -> Astranaar (ZoneData.lua)
     -- Barrens -> Barrens (ZoneData.lua)
     ["8403"] = {
     ["Title"]="Savaşşarkısı Kanyonu İçin Savaş",
-    ["Description"]="Gümüşkanat Nöbetçileri, Orklarn ormana verdiği zarar nedeniyle Savaşşarkısı Avcıları ile savaş halindedir. Ancak bu özel ormanı savunmak için doğaya duyulan yalın sevgiden daha fazla neden var.\n\nOrman, Ashenvale'i büyük ölçekli bir saldırıya karşı savunulabilir kılan stratejik bir engel oluşturur. O olmadan Astranaar, Barrens'a ilhak edilmeden önce bir iki gün dayanırdı.\n\nSavaşşarkısı Avcıları ile savaşmada üzerine düşeni yap, YOUR_NAME! İttifak için!",
+    ["Description"]="Gümüşkanat Nöbetçileri, Orklarn ormana verdiği zarar nedeniyle Savaşşarkısı Avcıları ile savaş halindedir. Ancak bu özel ormanı savunmak için doğaya duyulan yalın sevgiden daha fazla neden var.\n\nOrman, Külvadi'i büyük ölçekli bir saldırıya karşı savunulabilir kılan stratejik bir engel oluşturur. O olmadan Astranaar, Barrens'a ilhak edilmeden önce bir iki gün dayanırdı.\n\nSavaşşarkısı Avcıları ile savaşmada üzerine düşeni yap, YOUR_NAME! İttifak için!",
     ["Objectives"]="Savaş alanlarının dışındaki bir İttifak Tuğgenerali'ne 3 Savaşşarkısı Kanyonu Onur Nişanı getir.",
     ["Progress"]="Cepheden haberlerle mi döndün, YOUR_NAME?",
     ["Completion"]="Aferin, YOUR_NAME! İttifak'a iyi hizmet ettin.",
@@ -63354,12 +63354,12 @@ QuestTranslator_QuestData = {
     -- Silverwing Sentinels -> Gümüşkanat Nöbetçileri
     -- Warsong Outriders -> Savaşşarkısı Avcıları
     -- Warsong Gulch -> Savaşşarkısı Kanyonu (ZoneData.lua)
-    -- Ashenvale -> Ashenvale (ZoneData.lua)
+    -- Külvadi -> Külvadi (ZoneData.lua)
     -- Astranaar -> Astranaar (ZoneData.lua)
     -- Barrens -> Barrens (ZoneData.lua)
     ["8402"] = {
     ["Title"]="Savaşşarkısı Kanyonu İçin Savaş",
-    ["Description"]="Gümüşkanat Nöbetçileri, Orklarn ormana verdiği zarar nedeniyle Savaşşarkısı Avcıları ile savaş halindedir. Ancak bu özel ormanı savunmak için doğaya duyulan yalın sevgiden daha fazla neden var.\n\nOrman, Ashenvale'i büyük ölçekli bir saldırıya karşı savunulabilir kılan stratejik bir engel oluşturur. O olmadan Astranaar, Barrens'a ilhak edilmeden önce bir iki gün dayanırdı.\n\nSavaşşarkısı Avcıları ile savaşmada üzerine düşeni yap, YOUR_NAME! İttifak için!",
+    ["Description"]="Gümüşkanat Nöbetçileri, Orklarn ormana verdiği zarar nedeniyle Savaşşarkısı Avcıları ile savaş halindedir. Ancak bu özel ormanı savunmak için doğaya duyulan yalın sevgiden daha fazla neden var.\n\nOrman, Külvadi'i büyük ölçekli bir saldırıya karşı savunulabilir kılan stratejik bir engel oluşturur. O olmadan Astranaar, Barrens'a ilhak edilmeden önce bir iki gün dayanırdı.\n\nSavaşşarkısı Avcıları ile savaşmada üzerine düşeni yap, YOUR_NAME! İttifak için!",
     ["Objectives"]="Savaş alanlarının dışındaki bir İttifak Tuğgenerali'ne 3 Savaşşarkısı Kanyonu Onur Nişanı getir.",
     ["Progress"]="Cepheden haberlerle mi döndün, YOUR_NAME?",
     ["Completion"]="Aferin, YOUR_NAME! İttifak'a iyi hizmet ettin.",
@@ -63371,15 +63371,15 @@ QuestTranslator_QuestData = {
     -- Silverwing Sentinels -> Gümüşkanat Nöbetçileri
     -- Warsong Outriders -> Savaşşarkısı Avcıları
     -- Warsong Gulch -> Savaşşarkısı Kanyonu (ZoneData.lua)
-    -- Ashenvale -> Ashenvale (ZoneData.lua)
+    -- Külvadi -> Külvadi (ZoneData.lua)
     -- Astranaar -> Astranaar (ZoneData.lua)
     -- Barrens -> Barrens (ZoneData.lua)
     ["8401"] = {
     ["Title"]="Savaşşarkısı Kanyonu İçin Savaş",
-    ["Description"]="Gümüşkanat Nöbetçileri, Orklarn ormana verdiği zarar nedeniyle Savaşşarkısı Avcıları ile savaş halindedir. Ancak bu özel ormanı savunmak için Gümüşkanatlar'ın savunduğu korumacılık felsefesinden daha fazla neden var.\n\nOrman, Ashenvale'i büyük ölçekli bir saldırıya karşı savunulabilir kılan stratejik bir engel oluşturur. O olmadan Astranaar, Barrens'a ilhak edilmeden önce bir iki gün dayanırdı. Savaşşarkısı Avcıları ile savaşmada üzerine düşeni yap! İttifak için!",
+    ["Description"]="Gümüşkanat Nöbetçileri, Orklarn ormana verdiği zarar nedeniyle Savaşşarkısı Avcıları ile savaş halindedir. Ancak bu özel ormanı savunmak için Gümüşkanatlar'ın savunduğu korumacılık felsefesinden daha fazla neden var.\n\nOrman, Külvadi'i büyük ölçekli bir saldırıya karşı savunulabilir kılan stratejik bir engel oluşturur. O olmadan Astranaar, Barrens'a ilhak edilmeden önce bir iki gün dayanırdı. Savaşşarkısı Avcıları ile savaşmada üzerine düşeni yap! İttifak için!",
     ["Objectives"]="Savaş alanlarının dışındaki bir İttifak Tuğgenerali'ne 3 Savaşşarkısı Kanyonu Onur Nişanı getir.",
     ["Progress"]="Cepheden haberlerle mi döndün, YOUR_NAME?",
-    ["Completion"]="İyi iş, YOUR_NAME. Sayende Ashenvale'deki doğal savunmamız bir gün daha bozulmadan kalacak.",
+    ["Completion"]="İyi iş, YOUR_NAME. Sayende Külvadi'deki doğal savunmamız bir gün daha bozulmadan kalacak.",
     ["minlevel"]="40",
     ["questlevel"]="49",
     }, -- end Fight for Warsong Gulch
@@ -63402,15 +63402,15 @@ QuestTranslator_QuestData = {
     -- Silverwing Sentinels -> Gümüşkanat Nöbetçileri
     -- Warsong Outriders -> Savaşşarkısı Avcıları
     -- Warsong Gulch -> Savaşşarkısı Kanyonu (ZoneData.lua)
-    -- Ashenvale -> Ashenvale (ZoneData.lua)
+    -- Külvadi -> Külvadi (ZoneData.lua)
     -- Astranaar -> Astranaar (ZoneData.lua)
     -- Barrens -> Barrens (ZoneData.lua)
     ["8400"] = {
     ["Title"]="Savaşşarkısı Kanyonu İçin Savaş",
-    ["Description"]="Gümüşkanat Nöbetçileri, Orkların ormana verdiği zarar nedeniyle Savaşşarkısı Avcıları ile savaş halindedir. Ancak bu özel ormanı savunmak için doğaya duyulan yalın sevgiden daha fazla neden var.\n\nOrman, Ashenvale'i büyük ölçekli bir saldırıya karşı savunulabilir kılan stratejik bir engel oluşturur. O olmadan Astranaar, Barrens'a ilhak edilmeden önce bir iki gün dayanırdı.\n\nSavaşşarkısı Avcıları ile savaşmada üzerine düşeni yap, YOUR_NAME! İttifak için!",
+    ["Description"]="Gümüşkanat Nöbetçileri, Orkların ormana verdiği zarar nedeniyle Savaşşarkısı Avcıları ile savaş halindedir. Ancak bu özel ormanı savunmak için doğaya duyulan yalın sevgiden daha fazla neden var.\n\nOrman, Külvadi'i büyük ölçekli bir saldırıya karşı savunulabilir kılan stratejik bir engel oluşturur. O olmadan Astranaar, Barrens'a ilhak edilmeden önce bir iki gün dayanırdı.\n\nSavaşşarkısı Avcıları ile savaşmada üzerine düşeni yap, YOUR_NAME! İttifak için!",
     ["Objectives"]="Savaş alanlarının dışındaki bir İttifak Tuğgenerali'ne 3 Savaşşarkısı Kanyonu Onur Nişanı getir.",
     ["Progress"]="Cepheden haberlerle mi döndün, YOUR_NAME?",
-    ["Completion"]="İyi iş, YOUR_NAME. Sayende Ashenvale'deki doğal savunmamız bir gün daha bozulmadan kalacak.",
+    ["Completion"]="İyi iş, YOUR_NAME. Sayende Külvadi'deki doğal savunmamız bir gün daha bozulmadan kalacak.",
     ["minlevel"]="30",
     ["questlevel"]="39",
     }, -- end Fight for Warsong Gulch
@@ -63701,15 +63701,15 @@ QuestTranslator_QuestData = {
     -- Silverwing Sentinels -> Gümüşkanat Nöbetçileri
     -- Warsong Outriders -> Savaşşarkısı Avcıları
     -- Warsong Gulch -> Savaşşarkısı Kanyonu (ZoneData.lua)
-    -- Ashenvale -> Ashenvale (ZoneData.lua)
+    -- Külvadi -> Külvadi (ZoneData.lua)
     -- Astranaar -> Astranaar (ZoneData.lua)
     -- Barrens -> Barrens (ZoneData.lua)
     ["8399"] = {
     ["Title"]="Savaşşarkısı Kanyonu İçin Savaş",
-    ["Description"]="Gümüşkanat Nöbetçileri, Orkların ormana verdiği zarar nedeniyle Savaşşarkısı Avcıları ile savaş halindedir. Ancak bu özel ormanı savunmak için doğaya duyulan yalın sevgiden daha fazla neden var.\n\nOrman, Ashenvale'i büyük ölçekli bir saldırıya karşı savunulabilir kılan stratejik bir engel oluşturur. O olmadan Astranaar, Barrens'a ilhak edilmeden önce bir iki gün dayanırdı.\n\nSavaşşarkısı Avcıları ile savaşmada üzerine düşeni yap, YOUR_NAME! İttifak için!",
+    ["Description"]="Gümüşkanat Nöbetçileri, Orkların ormana verdiği zarar nedeniyle Savaşşarkısı Avcıları ile savaş halindedir. Ancak bu özel ormanı savunmak için doğaya duyulan yalın sevgiden daha fazla neden var.\n\nOrman, Külvadi'i büyük ölçekli bir saldırıya karşı savunulabilir kılan stratejik bir engel oluşturur. O olmadan Astranaar, Barrens'a ilhak edilmeden önce bir iki gün dayanırdı.\n\nSavaşşarkısı Avcıları ile savaşmada üzerine düşeni yap, YOUR_NAME! İttifak için!",
     ["Objectives"]="Savaş alanlarının dışındaki bir İttifak Tuğgenerali'ne 3 Savaşşarkısı Kanyonu Onur Nişanı getir.",
     ["Progress"]="Cepheden haberlerle mi döndün, YOUR_NAME?",
-    ["Completion"]="İyi iş, YOUR_NAME. Sayende Ashenvale'deki doğal savunmamız bir gün daha bozulmadan kalacak.",
+    ["Completion"]="İyi iş, YOUR_NAME. Sayende Külvadi'deki doğal savunmamız bir gün daha bozulmadan kalacak.",
     ["minlevel"]="20",
     ["questlevel"]="29",
     }, -- end Fight for Warsong Gulch
@@ -64840,12 +64840,12 @@ QuestTranslator_QuestData = {
     -- Silverwing Sentinels -> Gümüşkanat Nöbetçileri
     -- Warsong Outriders -> Savaşşarkısı Avcıları
     -- Warsong Gulch -> Savaşşarkısı Kanyonu (ZoneData.lua)
-    -- Ashenvale -> Ashenvale (ZoneData.lua)
+    -- Külvadi -> Külvadi (ZoneData.lua)
     -- Astranaar -> Astranaar (ZoneData.lua)
     -- Barrens -> Barrens (ZoneData.lua)
     ["8386"] = {
     ["Title"]="Savaşşarkısı Kanyonu İçin Savaş",
-    ["Description"]="Gümüşkanat Nöbetçileri, Orkların ormana verdiği zarar nedeniyle Savaşşarkısı Avcıları ile savaş halindedir. Ancak bu özel ormanı savunmak için doğaya duyulan yalın sevgiden daha fazla neden var.\n\nOrman, Ashenvale'i büyük ölçekli bir saldırıya karşı savunulabilir kılan stratejik bir engel oluşturur. O olmadan Astranaar, Barrens'a ilhak edilmeden önce bir iki gün dayanırdı.\n\nSavaşşarkısı Avcıları ile savaşmada üzerine düşeni yap, YOUR_NAME! İttifak için!",
+    ["Description"]="Gümüşkanat Nöbetçileri, Orkların ormana verdiği zarar nedeniyle Savaşşarkısı Avcıları ile savaş halindedir. Ancak bu özel ormanı savunmak için doğaya duyulan yalın sevgiden daha fazla neden var.\n\nOrman, Külvadi'i büyük ölçekli bir saldırıya karşı savunulabilir kılan stratejik bir engel oluşturur. O olmadan Astranaar, Barrens'a ilhak edilmeden önce bir iki gün dayanırdı.\n\nSavaşşarkısı Avcıları ile savaşmada üzerine düşeni yap, YOUR_NAME! İttifak için!",
     ["Objectives"]="Savaş alanlarının dışındaki bir İttifak Tuğgenerali'ne 3 Savaşşarkısı Kanyonu Onur Nişanı getir.",
     ["Progress"]="Cepheden haberlerle mi döndün, YOUR_NAME?",
     ["Completion"]="Aferin, YOUR_NAME! İttifak'a iyi hizmet ettin.",
@@ -65226,7 +65226,7 @@ QuestTranslator_QuestData = {
     ["Description"]="",
     ["Objectives"]="Son görevin için bir Gümüşkanat Liyakat Tılsımı elde ettin, benimle tekrar konuş ve ödülünü kazan.",
     ["Progress"]="",
-    ["Completion"]="Teşekkür ederim, YOUR_NAME. Savaşşarkısı Kanyonu'ndaki başarıların Ashenvale Ormanı boyunca yankılanıyor.",
+    ["Completion"]="Teşekkür ederim, YOUR_NAME. Savaşşarkısı Kanyonu'ndaki başarıların Külvadi Ormanı boyunca yankılanıyor.",
     ["minlevel"]="20",
     ["questlevel"]="25",
     }, -- end Talismans of Merit
@@ -65441,7 +65441,7 @@ QuestTranslator_QuestData = {
     ["Title"]="Yırtık Ayı Postları",
     ["Description"]="",
     ["Objectives"]="",
-    ["Progress"]="Çocuklar oyuncaklara bayılır! Ve hangi ırktan olursa olsun, tüm çocukların yırtık ayı postlarından yapılmış tüylü, peluş oyuncakları sevdiğini keşfettim!\n\nO postları Ashenvale veya Hillsbrad ayılarından alabilirsin. Bana bir yığın getir ve kendine bir yığın Karanlık Ay Panayırı bileti kazan!",
+    ["Progress"]="Çocuklar oyuncaklara bayılır! Ve hangi ırktan olursa olsun, tüm çocukların yırtık ayı postlarından yapılmış tüylü, peluş oyuncakları sevdiğini keşfettim!\n\nO postları Külvadi veya Hillsbrad ayılarından alabilirsin. Bana bir yığın getir ve kendine bir yığın Karanlık Ay Panayırı bileti kazan!",
     ["Completion"]="Güzel postlar, YOUR_NAME! Bunları bir sürü peluş oyuncak haline getirmesi için birine vereceğim. Biraz dolgu ve biraz boya ile bence Azeroth'taki tüm çocukların kıskançlığı olacaklar!\n\nBiletler mi? Ah evet, ödemen!\n\nİşte buradalar!",
     ["minlevel"]="10",
     ["questlevel"]="60",
@@ -66110,13 +66110,13 @@ QuestTranslator_QuestData = {
 
     -- Talismans of Merit
     -- Warsong Gulch -> Savaşşarkısı Kanyonu (ZoneData.lua)
-    -- Ashenvale -> Ashenvale (ZoneData.lua)
+    -- Külvadi -> Külvadi (ZoneData.lua)
     ["7888"] = {
     ["Title"]="Liyakat Tılsımları",
     ["Description"]="Savaşşarkısı Kanyonu'ndaki çabalarımıza olan değerini kanıtladın. Davaya yardım etmeye devam et ve bana daha fazla liyakat tılsımı getir. Bunu yap, güvenimizi daha da fazla kazanacaksın.",
     ["Objectives"]="Son görevin için bir Gümüşkanat Liyakat Tılsımı elde ettin, benimle tekrar konuş ve ödülünü kazan.",
     ["Progress"]="",
-    ["Completion"]="Teşekkür ederim, YOUR_NAME. Savaşşarkısı Kanyonu'ndaki başarıların Ashenvale Ormanı boyunca yankılanıyor.",
+    ["Completion"]="Teşekkür ederim, YOUR_NAME. Savaşşarkısı Kanyonu'ndaki başarıların Külvadi Ormanı boyunca yankılanıyor.",
     ["minlevel"]="40",
     ["questlevel"]="45",
     }, -- end Talismans of Merit
@@ -66419,26 +66419,26 @@ QuestTranslator_QuestData = {
 
     -- Talismans of Merit
     -- Warsong Gulch -> Savaşşarkısı Kanyonu (ZoneData.lua)
-    -- Ashenvale -> Ashenvale (ZoneData.lua)
+    -- Külvadi -> Külvadi (ZoneData.lua)
     ["7886"] = {
     ["Title"]="Liyakat Tılsımları",
     ["Description"]="",
     ["Objectives"]="Son görevin için bir Gümüşkanat Liyakat Tılsımı elde ettin, benimle tekrar konuş ve ödülünü kazan.",
     ["Progress"]="",
-    ["Completion"]="Teşekkür ederim, YOUR_NAME. Savaşşarkısı Kanyonu'ndaki başarıların Ashenvale Ormanı boyunca yankılanıyor.",
+    ["Completion"]="Teşekkür ederim, YOUR_NAME. Savaşşarkısı Kanyonu'ndaki başarıların Külvadi Ormanı boyunca yankılanıyor.",
     ["minlevel"]="50",
     ["questlevel"]="55",
     }, -- end Talismans of Merit
 
     -- Talismans of Merit
     -- Warsong Gulch -> Savaşşarkısı Kanyonu (ZoneData.lua)
-    -- Ashenvale -> Ashenvale (ZoneData.lua)
+    -- Külvadi -> Külvadi (ZoneData.lua)
     ["7887"] = {
     ["Title"]="Liyakat Tılsımları",
     ["Description"]="Savaşşarkısı Kanyonu'ndaki çabalarımıza olan değerini kanıtladın. Davaya yardım etmeye devam et ve bana daha fazla liyakat tılsımı getir. Bunu yap, güvenimizi daha da fazla kazanacaksın.",
     ["Objectives"]="Son görevin için bir Gümüşkanat Liyakat Tılsımı elde ettin, benimle tekrar konuş ve ödülünü kazan.",
     ["Progress"]="",
-    ["Completion"]="Teşekkür ederim, YOUR_NAME. Savaşşarkısı Kanyonu'ndaki başarıların Ashenvale Ormanı boyunca yankılanıyor.",
+    ["Completion"]="Teşekkür ederim, YOUR_NAME. Savaşşarkısı Kanyonu'ndaki başarıların Külvadi Ormanı boyunca yankılanıyor.",
     ["minlevel"]="30",
     ["questlevel"]="35",
     }, -- end Talismans of Merit
@@ -66570,7 +66570,7 @@ QuestTranslator_QuestData = {
     -- Honoring a Hero
     -- Grom Hellscream -> Grom Cehennembağırışı (MobNpcData.lua)
     -- Demon Fall Canyon -> İblis Düşüşü Kanyonu (ZoneData.lua)
-    -- Ashenvale -> Ashenvale (ZoneData.lua)
+    -- Külvadi -> Külvadi (ZoneData.lua)
     -- Javnir Nashak -> Javnir Nashak (MobNpcData.lua)
     -- Orgrimmar -> Orgrimmar (ZoneData.lua)
     -- Burning Legion -> Yanan Lejyon
@@ -66579,8 +66579,8 @@ QuestTranslator_QuestData = {
     -- Grom -> Grom (MobNpcData.lua)
     ["8150"] = {
     ["Title"]="Bir Kahramanı Onurlandırmak",
-    ["Description"]="Azeroth Hasat Festivali sırasında, bizim adımıza verdikleri fedakarlıklar -bazı durumlarda nihai fedakarlıklar- için kahramanlara teşekkür ederiz. Horde birçok kahramanı kabul eder, ancak hiçbiri Grom Cehennembağırışı kadar gücü ve fedakarlığı örneklendirmez.\n\nBu adağı Ashenvale'in İblis Düşüşü Kanyonu'ndaki anıtına götürerek Grom'u onurlandırmamıza yardım et. Onu kaideye yerleştir ve sonra bana geri dön. Festivalin sonuna kadar sadece burada olacağım, bu yüzden Grom'a hürmetini sunmak için zaman kaybetme.",
-    ["Objectives"]="Ashenvale'in İblis Düşüşü Kanyonu'ndaki Grom Anıtı'na seyahat et ve anıtın kaidesinde Grom Adağı'nı kullan. Hasat Festivali bitmeden Orgrimmar dışındaki Javnir Nashak'a dön.",
+    ["Description"]="Azeroth Hasat Festivali sırasında, bizim adımıza verdikleri fedakarlıklar -bazı durumlarda nihai fedakarlıklar- için kahramanlara teşekkür ederiz. Horde birçok kahramanı kabul eder, ancak hiçbiri Grom Cehennembağırışı kadar gücü ve fedakarlığı örneklendirmez.\n\nBu adağı Külvadi'in İblis Düşüşü Kanyonu'ndaki anıtına götürerek Grom'u onurlandırmamıza yardım et. Onu kaideye yerleştir ve sonra bana geri dön. Festivalin sonuna kadar sadece burada olacağım, bu yüzden Grom'a hürmetini sunmak için zaman kaybetme.",
+    ["Objectives"]="Külvadi'in İblis Düşüşü Kanyonu'ndaki Grom Anıtı'na seyahat et ve anıtın kaidesinde Grom Adağı'nı kullan. Hasat Festivali bitmeden Orgrimmar dışındaki Javnir Nashak'a dön.",
     ["Progress"]="Grom Anıtı'na yolculuk yapıp adağını oraya koydun mu?\n\nAnıtın bulunduğu alan hala Yanan Lejyon'un lekesiyle dokunulmuş durumda. Maceracılık yollarında daha az deneyimliysen, anıta yaklaşırken tetikte ol.",
     ["Completion"]="Grom'un tam adı -Grommash- \"Devin Kalbi\" anlamına gelir; Mannoroth'a karşı tek başına durmak bundan fazlasını gerektirdi. Sanırım Savaşşefi en iyisini orkların laneti Grom ile başlayıp bittiğinde söyledi. Grom'un fedakarlığının -ve belki de kefaretinin- bugün Horde'un aktığı pınar olması uygun.\n\nTeşekkür ederim, YOUR_NAME. Bugün büyük bir kahramana saygını sundun, onun ruhunu ve Hasat Festivali'nin ruhunu onurlandırdın.",
     ["minlevel"]="30",
@@ -66588,7 +66588,7 @@ QuestTranslator_QuestData = {
     }, -- end Honoring a Hero
 
     -- Quell the Silverwing Usurpers
-    -- Ashenvale -> Ashenvale (ZoneData.lua)
+    -- Külvadi -> Külvadi (ZoneData.lua)
     -- Silverwing -> Gümüşkanat
     -- Kalimdor -> Kalimdor (ZoneData.lua)
     -- Silverwing Sentinels -> Gümüşkanat Nöbetçileri
@@ -66598,7 +66598,7 @@ QuestTranslator_QuestData = {
     -- Mor'shan Base Camp -> Mor'shan Üs Kampı (ZoneData.lua)
     ["7876"] = {
     ["Title"]="Gümüşkanat Gaspçılarını Bastırmak",
-    ["Description"]="Ashenvale ormanının yaban hayatı Horde'un gücüne boyun eğecek, YOUR_RACE. Gümüşkanat'ın söylediği veya yaptığı hiçbir şey egemen gerekliliğimizi durduramaz. Kalimdor Horde'a aittir. Haklı olarak bize ait olanı hasat etmemizi engellemeye nasıl cüret ederler!\n\nİlerlememizi yavaşlatmaya yönelik zayıf girişimlerini keserken göğsündeki gururun kabarmasına izin ver. Gümüşkanat Nöbetçileri'ni yok et ve bir Savaşşarkısı onur nişanı kazan. Böyle bir nişanla bana geri dön, YOUR_NAME ve ödüllendirileceksin.\n",
+    ["Description"]="Külvadi ormanının yaban hayatı Horde'un gücüne boyun eğecek, YOUR_RACE. Gümüşkanat'ın söylediği veya yaptığı hiçbir şey egemen gerekliliğimizi durduramaz. Kalimdor Horde'a aittir. Haklı olarak bize ait olanı hasat etmemizi engellemeye nasıl cüret ederler!\n\nİlerlememizi yavaşlatmaya yönelik zayıf girişimlerini keserken göğsündeki gururun kabarmasına izin ver. Gümüşkanat Nöbetçileri'ni yok et ve bir Savaşşarkısı onur nişanı kazan. Böyle bir nişanla bana geri dön, YOUR_NAME ve ödüllendirileceksin.\n",
     ["Objectives"]="Savaşşarkısı Kanyonu'na gir ve İttifak'ı yen, bir Savaşşarkısı Kanyonu Onur Nişanı al ve onu Mor'shan Üs Kampı'ndaki Kaptan Kafatasıkıran'a getir.",
     ["Progress"]="Düşmanlarımızın kanı bir onur nişanıdır. Sende böyle bir nişan var mı?",
     ["Completion"]="<Kaptan Kafatasıkıran zaferle kükrer>\n\nDaha ne kadar dayanabilirler? Geri çekilmeleri için Horde'un elinden daha kaç İttifak pisliği ölmeli? Bunu sadece zaman gösterecek, YOUR_RACE...",
@@ -66607,7 +66607,7 @@ QuestTranslator_QuestData = {
     }, -- end Quell the Silverwing Usurpers
 
     -- Quell the Silverwing Usurpers
-    -- Ashenvale -> Ashenvale (ZoneData.lua)
+    -- Külvadi -> Külvadi (ZoneData.lua)
     -- Silverwing -> Gümüşkanat
     -- Kalimdor -> Kalimdor (ZoneData.lua)
     -- Silverwing Sentinels -> Gümüşkanat Nöbetçileri
@@ -66617,7 +66617,7 @@ QuestTranslator_QuestData = {
     -- Mor'shan Base Camp -> Mor'shan Üs Kampı (ZoneData.lua)
     ["7874"] = {
     ["Title"]="Gümüşkanat Gaspçılarını Bastırmak",
-    ["Description"]="Ashenvale ormanının yaban hayatı Horde'un gücüne boyun eğecek, YOUR_RACE. Gümüşkanat'ın söylediği veya yaptığı hiçbir şey egemen gerekliliğimizi durduramaz. Kalimdor Horde'a aittir. Haklı olarak bize ait olanı hasat etmemizi engellemeye nasıl cüret ederler!\n\nİlerlememizi yavaşlatmaya yönelik zayıf girişimlerini keserken göğsündeki gururun kabarmasına izin ver. Gümüşkanat Nöbetçileri'ni yok et ve bir Savaşşarkısı onur nişanı kazan. Böyle bir nişanla bana geri dön, YOUR_NAME ve ödüllendirileceksin.\n",
+    ["Description"]="Külvadi ormanının yaban hayatı Horde'un gücüne boyun eğecek, YOUR_RACE. Gümüşkanat'ın söylediği veya yaptığı hiçbir şey egemen gerekliliğimizi durduramaz. Kalimdor Horde'a aittir. Haklı olarak bize ait olanı hasat etmemizi engellemeye nasıl cüret ederler!\n\nİlerlememizi yavaşlatmaya yönelik zayıf girişimlerini keserken göğsündeki gururun kabarmasına izin ver. Gümüşkanat Nöbetçileri'ni yok et ve bir Savaşşarkısı onur nişanı kazan. Böyle bir nişanla bana geri dön, YOUR_NAME ve ödüllendirileceksin.\n",
     ["Objectives"]="Savaşşarkısı Kanyonu'na gir ve İttifak'ı yen, bir Savaşşarkısı Kanyonu Onur Nişanı al ve onu Mor'shan Üs Kampı'ndaki Kaptan Kafatasıkıran'a getir.",
     ["Progress"]="Düşmanlarımızın kanı bir onur nişanıdır. Sende böyle bir nişan var mı?",
     ["Completion"]="<Kaptan Kafatasıkıran zaferle kükrer>\n\nDaha ne kadar dayanabilirler? Geri çekilmeleri için Horde'un elinden daha kaç İttifak pisliği ölmeli? Bunu sadece zaman gösterecek, YOUR_RACE...",
@@ -67088,7 +67088,7 @@ QuestTranslator_QuestData = {
     }, -- end Vanquish the Invaders!
 
     -- Quell the Silverwing Usurpers
-    -- Ashenvale -> Ashenvale (ZoneData.lua)
+    -- Külvadi -> Külvadi (ZoneData.lua)
     -- Silverwing -> Gümüşkanat
     -- Kalimdor -> Kalimdor (ZoneData.lua)
     -- Silverwing Sentinels -> Gümüşkanat Nöbetçileri
@@ -67098,7 +67098,7 @@ QuestTranslator_QuestData = {
     -- Mor'shan Base Camp -> Mor'shan Üs Kampı (ZoneData.lua)
     ["7789"] = {
     ["Title"]="Gümüşkanat Gaspçılarını Bastırmak",
-    ["Description"]="Ashenvale ormanının yaban hayatı Horde'un gücüne boyun eğecek, YOUR_RACE. Gümüşkanat'ın söylediği veya yaptığı hiçbir şey egemen gerekliliğimizi durduramaz. Kalimdor Horde'a aittir. Haklı olarak bize ait olanı hasat etmemizi engellemeye nasıl cüret ederler!\n\nİlerlememizi yavaşlatmaya yönelik zayıf girişimlerini keserken göğsündeki gururun kabarmasına izin ver. Gümüşkanat Nöbetçileri'ni yok et ve bir Savaşşarkısı onur nişanı kazan. Böyle bir nişanla bana geri dön, YOUR_NAME ve ödüllendirileceksin.\n",
+    ["Description"]="Külvadi ormanının yaban hayatı Horde'un gücüne boyun eğecek, YOUR_RACE. Gümüşkanat'ın söylediği veya yaptığı hiçbir şey egemen gerekliliğimizi durduramaz. Kalimdor Horde'a aittir. Haklı olarak bize ait olanı hasat etmemizi engellemeye nasıl cüret ederler!\n\nİlerlememizi yavaşlatmaya yönelik zayıf girişimlerini keserken göğsündeki gururun kabarmasına izin ver. Gümüşkanat Nöbetçileri'ni yok et ve bir Savaşşarkısı onur nişanı kazan. Böyle bir nişanla bana geri dön, YOUR_NAME ve ödüllendirileceksin.\n",
     ["Objectives"]="Savaşşarkısı Kanyonu'na gir ve İttifak'ı yen, bir Savaşşarkısı Kanyonu Onur Nişanı al ve onu Mor'shan Üs Kampı'ndaki Kaptan Kafatasıkıran'a getir.",
     ["Progress"]="Düşmanlarımızın kanı bir onur nişanıdır. Sende böyle bir nişan var mı?",
     ["Completion"]="<Kaptan Kafatasıkıran zaferle kükrer>\n\nDaha ne kadar dayanabilirler? Geri çekilmeleri için Horde'un elinden daha kaç İttifak pisliği ölmeli? Bunu sadece zaman gösterecek, YOUR_RACE...",
@@ -75741,7 +75741,7 @@ QuestTranslator_QuestData = {
 
 ["8295"] = {
     ["Title"] = "Silverwing Gaspçılarını Bastır",
-    ["Description"] = "Ashenvale ormanının yabanı Horde'un gücüne boyun eğecek, YOUR_RACE. Silverwing'in söylediği veya yaptığı hiçbir şey egemen zorunluluğumuzu durduramaz. Kalimdor Horde'a aittir. Haklı olarak bize ait olanı hasat etmemizi engellemeye nasıl cüret ederler!NEW_LINENEW_LINEİlerlememizi yavaşlatmaya yönelik zayıf girişimlerini katlederken göğsündeki gururun kabarmasına izin ver. Silverwing Nöbetçilerini yok et ve bir Warsong onur nişanı kazan. Bana böyle bir nişanla dön, YOUR_NAME, ödüllendirileceksin.NEW_LINE",
+    ["Description"] = "Külvadi ormanının yabanı Horde'un gücüne boyun eğecek, YOUR_RACE. Silverwing'in söylediği veya yaptığı hiçbir şey egemen zorunluluğumuzu durduramaz. Kalimdor Horde'a aittir. Haklı olarak bize ait olanı hasat etmemizi engellemeye nasıl cüret ederler!NEW_LINENEW_LINEİlerlememizi yavaşlatmaya yönelik zayıf girişimlerini katlederken göğsündeki gururun kabarmasına izin ver. Silverwing Nöbetçilerini yok et ve bir Warsong onur nişanı kazan. Bana böyle bir nişanla dön, YOUR_NAME, ödüllendirileceksin.NEW_LINE",
     ["Objectives"] = "Warsong Gulch'a girin ve Alliance'ı yenin, bir Warsong Gulch Onur Nişanı kazanın ve bunu Mor'shan Kampı'ndaki Kaptan Shatterskull'a getirin.",
     ["Progress"] = "Düşmanlarımızın kanı bir onur nişanıdır. Böyle bir nişanın var mı?",
     ["Completion"] = "<Kaptan Shatterskull zaferle kükrer>NEW_LINENEW_LINEDaha ne kadar dayanabilirler? Geri çekilmeleri için Horde'un elinde daha kaç Alliance pisliğinin can vermesi gerekiyor? Bunu sadece zaman gösterecek, YOUR_RACE...",
@@ -75781,7 +75781,7 @@ QuestTranslator_QuestData = {
 
 ["40796"] = {
     ["Title"] = "Gizli Ama Yok Olmamış",
-    ["Description"] = "Bana zarar verebilecek çok şey var. Yılların geçip gittiğini gördükten sonra, fiziksel acının bunların en azı arasında olduğunu söylediğimde bana inan.NEW_LINENEW_LINEAshenvale'de yaşadığımız sorunlara yabancı olmadığını varsayıyorum, YOUR_CLASS? Horde ve Sayaad'lar arasında ormanın huzuru hızla sadece bir anı haline geliyor. Ama biz bu zorluğun ve sayılamayacak kadar çoğunun üstesinden geldik - ve geleceğiz - sözlerimi unutma.NEW_LINENEW_LINEBize ürkütücü bir şekilde benzeyen tiksindirici iblisler doğaya yapılan en büyük hakarettir. İnlerinde saklanıp yozlaşma planları yapıyorlar ve hepimize işkence ediyorlar. Her bir kuytu köşelerine gitmeni ve onları azaltmada payına düşeni yapmanı istiyorum. Bana onların budaklı ve bükülmüş boynuzlarından oluşan bir koleksiyon getir, Kaldorei cesaretini bilsin.",
+    ["Description"] = "Bana zarar verebilecek çok şey var. Yılların geçip gittiğini gördükten sonra, fiziksel acının bunların en azı arasında olduğunu söylediğimde bana inan.NEW_LINENEW_LINEKülvadi'de yaşadığımız sorunlara yabancı olmadığını varsayıyorum, YOUR_CLASS? Horde ve Sayaad'lar arasında ormanın huzuru hızla sadece bir anı haline geliyor. Ama biz bu zorluğun ve sayılamayacak kadar çoğunun üstesinden geldik - ve geleceğiz - sözlerimi unutma.NEW_LINENEW_LINEBize ürkütücü bir şekilde benzeyen tiksindirici iblisler doğaya yapılan en büyük hakarettir. İnlerinde saklanıp yozlaşma planları yapıyorlar ve hepimize işkence ediyorlar. Her bir kuytu köşelerine gitmeni ve onları azaltmada payına düşeni yapmanı istiyorum. Bana onların budaklı ve bükülmüş boynuzlarından oluşan bir koleksiyon getir, Kaldorei cesaretini bilsin.",
     ["Objectives"] = "Satyr kamplarının her birinden 6 boynuz toplayın.",
     ["Progress"] = "Topraktaki felaketler kolayca gizlenebilir ancak zorlukla iyileştirilebilir. Bunu unutma.",
     ["Completion"] = "Olağanüstü. Savaşlarınız sırasında hiç yaralanmadığınızı umuyorum? Tek bir çatışmada o çocukça nöbetçilerin geldiklerinden beri yaptıklarından daha fazla yardım ettiniz.",
@@ -78226,7 +78226,7 @@ QuestTranslator_QuestData = {
 ["41812"] = {
     ["Title"]="Ay Tapınağı Kalıntıları",
     ["Description"]="Ayaklarımızın çok derinlerinde bir zamanlar Elune'a adanmış kadim bir tapınak yatıyor; doğayı yeniden canlandırmak için doğaüstü güce sahip büyülü bir ağacı oraya dikmişlerdi. Bu ağacın güzelliğini sadece birkaç kişi gördü, fakat şimdi kötülüğün ellerine düştüğünden korkuyorum.NEW_LINENEW_LINEŞimdi ise satyrlerin Karaderin Derinlikleri'nin (Blackfathom Deeps) derinliklerindeki bu bir zamanlar kutsal olan salonlarda sinsice dolaştığına dair söylentiler duydum. Seni bu ağaçtan bir tohum kurtarıp bana getirmen için görevlendiriyorum, böylece druid yoldaşlarım belki de kadim druidlerin gücünü keşfedebilirler.",
-    ["Objectives"]="Karaderin Derinlikleri'nin (Blackfathom Deeps) derinliklerine in ve Ay Tapınağı Kalıntıları içinden bir 'Filiz Tohumu' ele geçir. Elde ettikten sonra Ashenvale'deki Zoram Kumsalı'nın (The Zoram Strand) doğusundaki Aelennia Yıldızfilizi'ne (Aelennia Starbloom) geri dön.",
+    ["Objectives"]="Karaderin Derinlikleri'nin (Blackfathom Deeps) derinliklerine in ve Ay Tapınağı Kalıntıları içinden bir 'Filiz Tohumu' ele geçir. Elde ettikten sonra Külvadi'deki Zoram Kumsalı'nın (The Zoram Strand) doğusundaki Aelennia Yıldızfilizi'ne (Aelennia Starbloom) geri dön.",
     ["Progress"]="Dikkatli seyahat et, Karaderin'in (Blackfathom) derinlikleri kötülükle kaynıyor.",
     ["Completion"]="Böylesi bir güzellik... böylesi bir ihtişam. Kadim ağacı şahsen görebilmeyi çok isterdim, yine de bunu kurtarmak için gösterdiğin çabalar için teşekkür ederim. Sana borçlandım. Lütfen, biz druidlerin adına bunu bir teşekkür olarak kabul et.",
     ["minlevel"]="18",
@@ -78924,7 +78924,7 @@ QuestTranslator_QuestData = {
 },
 
 ["41923"] = {
-    ["Title"]="Rüyalar Taşı, Ashenvale",
+    ["Title"]="Rüyalar Taşı, Külvadi",
     ["Description"]="",
     ["Objectives"]="",
     ["Progress"]="<Taş mülkiyetindeki idol ile rezonansa giriyor. Onula uyumlanmak için can atıyor ama bunu tek başına yapamıyor. Yosun kaplı taşa yaklaştıkça zihnine yazdırmaya çalıştığı kelimeler daha netleşiyor: LETHON. Belki biraz rüya enerjisi gerekli gücü sunabilir.>",
@@ -79235,7 +79235,7 @@ QuestTranslator_QuestData = {
 
 ["41956"] = {
     ["Title"]="Yalnız Değil",
-    ["Description"]="Selamlar YOUR_CLASS. Benim adım Timbermaw Kabilesi'nden Nathok. Ya da en azından ondan geriye ne kaldıysa. Düşmüş kardeşlerimiz Solukçene (Withermaw) tarafından ata evimiz Keresteçene Tutamağı'ndan (Timbermaw Hold) çıkarıldık. Kuzey Kalimdor boyunca ölçülemez bir süredir sürünen korkunç bir karanlığa kapıldılar. Pek çoğu çoktan yenik düştü, yine de diğerleri hâlâ ona karşı savaşmaya devam ediyor. Çok öncesinde furbolg kabileleri birbirleriyle sürekli iletişim halindeydi. Ancak şimdi sessizleştiler ve en kötüsünden şüpheleniyoruz.NEW_LINENEW_LINEHangi kabilelerin hâlâ özgür olduğunu bilmemiz gerekiyor ve yardımını takdir ederim. Bildiklerimizden son umudumuzu Winterspring'in Winterfall'una, Ashenvale'in Yeşilpençe'sine (Greenpaw) ve Aydüzlüğü'nün (Moonglade) güneyindeki tünellerde bulunan diğer Timbermaw furbolg'larının küçük bir enklavına bağlıyoruz. Onları ara ve Timbermaw'un hâlâ doğanın gururlu savunucuları olarak durduğunu bilmelerini sağla.",
+    ["Description"]="Selamlar YOUR_CLASS. Benim adım Timbermaw Kabilesi'nden Nathok. Ya da en azından ondan geriye ne kaldıysa. Düşmüş kardeşlerimiz Solukçene (Withermaw) tarafından ata evimiz Keresteçene Tutamağı'ndan (Timbermaw Hold) çıkarıldık. Kuzey Kalimdor boyunca ölçülemez bir süredir sürünen korkunç bir karanlığa kapıldılar. Pek çoğu çoktan yenik düştü, yine de diğerleri hâlâ ona karşı savaşmaya devam ediyor. Çok öncesinde furbolg kabileleri birbirleriyle sürekli iletişim halindeydi. Ancak şimdi sessizleştiler ve en kötüsünden şüpheleniyoruz.NEW_LINENEW_LINEHangi kabilelerin hâlâ özgür olduğunu bilmemiz gerekiyor ve yardımını takdir ederim. Bildiklerimizden son umudumuzu Winterspring'in Winterfall'una, Külvadi'in Yeşilpençe'sine (Greenpaw) ve Aydüzlüğü'nün (Moonglade) güneyindeki tünellerde bulunan diğer Timbermaw furbolg'larının küçük bir enklavına bağlıyoruz. Onları ara ve Timbermaw'un hâlâ doğanın gururlu savunucuları olarak durduğunu bilmelerini sağla.",
     ["Objectives"]="Yeşilpençe (Greenpaw), Winterfall ve Timbermaw Furbolg kabilelerini bul. Üçünü de bulduktan sonra Azshara'daki Ursoc'un Boğazı'nda bulunan Nathok'a dön.",
     ["Progress"]="Biz Furbolg'lar bir zamanlar Kalimdor'un büyülü ormanlarında dolaşır, yaban hayatı ve florayla ilgilenir ve dengelerini korurduk. Ancak Lejyon’un ikinci işgalinden beri neredeyse tüm kardeşlerimiz o iblislerin kutsal Yıldızlar Diyarımızda çürümeye bıraktığı karanlığın çağrısına kulak veriyor.",
     ["Completion"]="Yeşilpençe kurtuluşun ötesinde mi? Ve kardeşlerimizin enklavı Winterfall kabilesini karanlık prangalarından kurtarmak için savaşıyor mu? Zaman gerçekten tükeniyor. Acele etmeli ve kuzeydeki diğer Timbermaw'lar ile mümkün olduğunca çabuk uzlaşmalıyız.NEW_LINENEW_LINE$n, bize bu umut ışığını gösterdiğin için teşekkür ederim. Diğerleriyle bir tartışma yapacağım ve umarım yakında kuzeydeki kardeşlerimize küçük bir elçi göndereceğim. Bu sonsuz gecede yalnız bırakılmayacaklar.",
@@ -79307,7 +79307,7 @@ QuestTranslator_QuestData = {
     ["Title"]="On Bin Yılın Bilgeliği",
     ["Description"]="",
     ["Objectives"]="",
-    ["Progress"]="Selamlar $n. Görevinin acil olduğunu görüyorum. Fangorn, Kadimler Savaşı sırasında halkımızın bir müttefikiydi, güçlü büyüsü ve bilgeliği asilzade hainlere karşı zafer kazanmada kilit rol oynadı. Bölünme'nin (Sundering) ardından, Kalidar adasında bu güne kadar uykuda kaldı, etrafındaki dünyayı her zamanki gibi tetikte etkiledi.NEW_LINENEW_LINEFurbolg haklıydı, çoktan unutulmuş bir dili konuşuyor. Aydüzlüğü druidlerinin bile artık neredeyse hiç konuşmadığı bir dil. Bunu sana öğretmek yıllar alır ama en azından bir süreliğine anlamana yardımcı olabilirim. Dünya Ağacı'nın eteklerinden bana bir Nordrassil Palamudu, Ashenvale'deki Aessina Mabedi'nden özsuyu ve beş Rüya Görüşü İksiri getir. Bana bu malzemeleri getir, yardımımla görevinde ilerleyebilirsin.",
+    ["Progress"]="Selamlar $n. Görevinin acil olduğunu görüyorum. Fangorn, Kadimler Savaşı sırasında halkımızın bir müttefikiydi, güçlü büyüsü ve bilgeliği asilzade hainlere karşı zafer kazanmada kilit rol oynadı. Bölünme'nin (Sundering) ardından, Kalidar adasında bu güne kadar uykuda kaldı, etrafındaki dünyayı her zamanki gibi tetikte etkiledi.NEW_LINENEW_LINEFurbolg haklıydı, çoktan unutulmuş bir dili konuşuyor. Aydüzlüğü druidlerinin bile artık neredeyse hiç konuşmadığı bir dil. Bunu sana öğretmek yıllar alır ama en azından bir süreliğine anlamana yardımcı olabilirim. Dünya Ağacı'nın eteklerinden bana bir Nordrassil Palamudu, Külvadi'deki Aessina Mabedi'nden özsuyu ve beş Rüya Görüşü İksiri getir. Bana bu malzemeleri getir, yardımımla görevinde ilerleyebilirsin.",
     ["Completion"]="İyi iş. Artık her şey toplandığına göre, palamuttan doğanın kendi kelimelerini anlamanı sağlayacak bir kutsama çıkarabilirim. Ancak dikkatli ol. Büyü sonsuza dek sürmeyecek, bu yüzden sabit bir hızla Fangorn'a acele et.",
     ["minlevel"]="60",
     ["questlevel"]="60"
