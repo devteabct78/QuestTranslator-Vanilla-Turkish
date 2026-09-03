@@ -3535,14 +3535,14 @@ QuestTranslator_QuestData = {
     -- What Comes Around...
     -- What Comes Around... -> Ne Ekersen... / Ne Bulursan... (What Goes Around Comes Around anlamında).
     -- Targorr the Dread -> Dehşetengiz Targorr kalmıştır (Targorr + the + Dread).
-    -- Guard Berton -> Gözcü Berton kalmıştır, Lakeshire = Gölgölü.
+    -- Guard Berton -> Gözcü Berton kalmıştır, Lakeshire = Gölbölgesi.
     -- Gath'Ilzogg -> Gath'Ilzogg kalmıştır, supreme Executioner -> yüce Cellat.
     -- Stormwind Stockade = Fırtınayeli Hapishanesi (The Stockade), courtroom -> mahkeme salonu.
     -- Lucine Longsword -> Lüsin Uzunkılıç (Lucine + Longsword), Hardened Root Staff -> Sertleşmiş Kök Asası (Hardened + Root + Staff).
     ["386"] = { -- Quest ID varsayılan olarak yerleştirilmiştir.
     ["Title"]="Ne Ekersen...",
     ["Description"]="Dehşetengiz Targorr (Targorr the Dread), Gath'Ilzogg'un emri altında yüce Cellat (supreme Executioner) olarak hizmet  etti. Yöntemleri, o pis ork standartlarına göre bile  acımasızdı. Krallığı savunmak için cesurca savaşan adamlar onun keyfine göre  işkence gördü. Şimdi ise Fırtınayeli Hapishanesi'nde (Stormwind Stockade) tutuluyor ve ölüme  mahkum edilmiş durumda. Yine de bir şeyler  ters gidiyor. Bürokratik soylulardan biri onun infazını  askıya aldı. İşin içinde kirli bir oyun  döndüğünden eminim.\n\nDehşetengiz Targorr'un işini bitir, YOUR_NAME. Üzerimizde hile hurda  dönmeden önce Hapishane'ye (The Stockade) seyahat et ve onun kellesini  uçur.",
-    ["Objectives"]="Dehşetengiz Targorr'un (Targorr the Dread) kellesini Gölgölü'ndeki (Lakeshire) Gözcü Berton'a (Guard Berton) ulaştır.",
+    ["Objectives"]="Dehşetengiz Targorr'un (Targorr the Dread) kellesini Gölbölgesi'ndeki (Lakeshire) Gözcü Berton'a (Guard Berton) ulaştır.",
     ["Progress"]="Henüz Fırtınayeli'ne (Stormwind), Hapishane'ye  gittin mi? Dehşetengiz Targorr'u bu kadar süre  hayatta tutan her ne hile hurda varsa, nihayetinde onun özgürlüğünü  getireceğinden korkuyorum. O ölüme  mahkum edildi, YOUR_NAME, bir soylunun keyfine göre siyasi bir piyon  olarak hareket etmeye değil.",
     ["Completion"]="Dehşetengiz Targorr nihayet kaderiyle  yüzleşti. Canavarın artık Ölüm'ün o acımasız pençesinin hedefinde  olmanın nasıl bir şey olduğunu öğrendiğini  duymaktan kendi adıma sevindim. İyi iş çıkardın, YOUR_NAME. Bazen en gerçek adalet yalnızca mahkeme salonunun (courtroom) dışında ve siyasetin o bulanık vizyonunun  ötesinde bulunabilir.",
     ["minlevel"]="0",
@@ -56717,11 +56717,11 @@ QuestTranslator_QuestData = {
     -- The True Masters
     -- Magistrate Solomon -> Yargıç Solomon (MobNpcData.lua)[cite: 1]
     -- Helendis -> Helendis (MobNpcData.lua)[cite: 1]
-    -- Lakeshire -> Gölgölü (ZoneData.lua)
+    -- Lakeshire -> Gölbölgesi (ZoneData.lua)
     ["4183"] = {
     ["Title"]="Gerçek Efendiler",
     ["Description"]="Karakaya orklarının her zaman vahşi yetişme tarzlarının bir ürünü olduğunu varsaymıştık. Burada, memleketlerinde bulduğumuz şey ise bize başka bir hikaye anlatıyor.\n\nGerçekten de onları güçlendiren şey kan arzusu ve çatışma hırsıdır, ancak Karakaya orklarını kontrol eden varlıklar siyah ejderhasoyudur. Orkları öfke ve düşmanlıkla besleyen şeyin siyah ejderhasoyu olduğundan şüpheleniyoruz.\n\nBu mektubu Yargıç Solomon'a götür. Ne yapılması gerektiğini bilecektir.\n\n<Helendis sana mühürlü bir mektup uzatır.>",
-    ["Objectives"]="Gölgölü'ne seyahat et ve Helendis Nehirboynuzu'nun Mektubu'nu Yargıç Solomon'a teslim et.",
+    ["Objectives"]="Gölbölgesi'ne seyahat et ve Helendis Nehirboynuzu'nun Mektubu'nu Yargıç Solomon'a teslim et.",
     ["Progress"]="Selamlar, YOUR_NAME. Daha önce karşılaşmış mıydık? Bir yerlerden tanıdık geliyorsun.",
     ["Completion"]="<Yargıç Solomon Helendis'ten gelen mühürlü mektubu açar ve okumaya başlar.>",
     ["minlevel"]="48",
@@ -56730,15 +56730,15 @@ QuestTranslator_QuestData = {
 
     -- The True Masters
     -- Highlord Bolvar Fordragon -> Yüksek Derebeyi Bolvar Fordragon (MobNpcData.lua)[cite: 1]
-    -- Lakeshire -> Gölgölü (ZoneData.lua)
+    -- Lakeshire -> Gölbölgesi (ZoneData.lua)
     -- Darkshire -> Karanlıkdiyar (ZoneData.lua)
     -- Goldshire -> Altındiyar (ZoneData.lua)
-    -- Stormwind -> Fırtınaşehri (ZoneData.lua)
+    -- Stormwind -> Fırtınayeli (ZoneData.lua)
     ["4184"] = {
     ["Title"]="Gerçek Efendiler",
-    ["Description"]="Bu kasvetli bir haber, YOUR_NAME. Can düşmanlarımızın daha büyük bir tehdidin piyonları olduğunu keşfetmek cesaret kırıcı. Gölgölü'nün hem Karakaya orklarından hem de siyah ejderhasoyundan gelen bir saldırıdan sağ çıkmasının imkanı yok. Gölgölü bu tehdide yenik düşerse, sırada Karanlıkdiyar düşer ve sonra ne olur? Altındiyar mı? Fırtınaşehri'nin kendisi mi?\n\nBu bilgiyi derhal Fırtınaşehri'ndeki Yüksek Derebeyi Bolvar Fordragon'a götürmelisin! Bu Fırtınaşehri'nin yardımını hak etmiyorsa, hiçbir şey etmez ve her şey kaybolur.",
-    ["Objectives"]="Fırtınaşehri'ne seyahat et ve Solomon'un Yalvarması'nı Yüksek Derebeyi Bolvar Fordragon'a teslim et.\n\nBolvar Fırtınaşehri Kalesi'nde ikamet eder.",
-    ["Progress"]="Seni Fırtınaşehri Kalesi'ne getiren nedir?",
+    ["Description"]="Bu kasvetli bir haber, YOUR_NAME. Can düşmanlarımızın daha büyük bir tehdidin piyonları olduğunu keşfetmek cesaret kırıcı. Gölbölgesi'nün hem Karakaya orklarından hem de siyah ejderhasoyundan gelen bir saldırıdan sağ çıkmasının imkanı yok. Gölbölgesi bu tehdide yenik düşerse, sırada Karanlıkdiyar düşer ve sonra ne olur? Altındiyar mı? Fırtınayeli'nin kendisi mi?\n\nBu bilgiyi derhal Fırtınayeli'ndeki Yüksek Derebeyi Bolvar Fordragon'a götürmelisin! Bu Fırtınayeli'nin yardımını hak etmiyorsa, hiçbir şey etmez ve her şey kaybolur.",
+    ["Objectives"]="Fırtınayeli'ne seyahat et ve Solomon'un Yalvarması'nı Yüksek Derebeyi Bolvar Fordragon'a teslim et.\n\nBolvar Fırtınayeli Kalesi'nde ikamet eder.",
+    ["Progress"]="Seni Fırtınayeli Kalesi'ne getiren nedir?",
     ["Completion"]="Ejderhalar mı? İmkansız!",
     ["minlevel"]="48",
     ["questlevel"]="54",
@@ -56748,10 +56748,10 @@ QuestTranslator_QuestData = {
     -- Lady Prestor -> Leydi Prestor (MobNpcData.lua)[cite: 1]
     -- Lady Katrana Prestor -> Leydi Katrana Prestor (MobNpcData.lua)[cite: 1]
     -- Bolvar -> Bolvar (MobNpcData.lua)[cite: 1]
-    -- Lakeshire -> Gölgölü (ZoneData.lua)
+    -- Lakeshire -> Gölbölgesi (ZoneData.lua)
     ["4185"] = {
     ["Title"]="Gerçek Efendiler",
-    ["Description"]="Solomon karamsar bir tablo çiziyor. Yine de seyreltilmiş birliklerimizi sadece tahminlere dayanarak Gölgölü'nün yardımına gönderemeyiz. Harekete geçmeden önce bu iddiaların kanıtına ihtiyacım olacak.\n\nLeydi Prestor ile konuş, YOUR_NAME. O bilgili bir kadındır ve ejderhalar ile ejderhasoyu hakkında çok şey bilir. Bu duruma biraz ışık tutabilir.",
+    ["Description"]="Solomon karamsar bir tablo çiziyor. Yine de seyreltilmiş birliklerimizi sadece tahminlere dayanarak Gölbölgesi'nün yardımına gönderemeyiz. Harekete geçmeden önce bu iddiaların kanıtına ihtiyacım olacak.\n\nLeydi Prestor ile konuş, YOUR_NAME. O bilgili bir kadındır ve ejderhalar ile ejderhasoyu hakkında çok şey bilir. Bu duruma biraz ışık tutabilir.",
     ["Objectives"]="Leydi Katrana Prestor ile konuştuktan sonra Yüksek Derebeyi Bolvar Fordragon ile konuş.[cite: 1]",
     ["Progress"]="<Bolvar seni pürdikkat izler.>",
     ["Completion"]="<Bolvar derin düşüncelere dalmış gibi çenesini avuçlar.>\n\nLeydi Prestor'un duruşuna saygı duymakla birlikte, tüm endişelerimizi giderebilecek bir çözüm olduğuna inanıyorum.",
@@ -56762,13 +56762,13 @@ QuestTranslator_QuestData = {
     -- The True Masters
     -- Magistrate Solomon -> Yargıç Solomon (MobNpcData.lua)[cite: 1]
     -- Bolvar -> Bolvar (MobNpcData.lua)[cite: 1]
-    -- Lakeshire -> Gölgölü (ZoneData.lua)
+    -- Lakeshire -> Gölbölgesi (ZoneData.lua)
     ["4186"] = {
     ["Title"]="Gerçek Efendiler",
-    ["Description"]="Seni Fırtınaşehri'nin vekil temsilcisi olarak yetkilendireceğim, YOUR_NAME.\n\nGölgölü'ndeki Yargıç Solomon'a dön ve bu fermanı teslim et.",
-    ["Objectives"]="Bolvar'ın Fermanı'nı Gölgölü'ndeki Yargıç Solomon'a götür.",
+    ["Description"]="Seni Fırtınayeli'nin vekil temsilcisi olarak yetkilendireceğim, YOUR_NAME.\n\nGölbölgesi'ndeki Yargıç Solomon'a dön ve bu fermanı teslim et.",
+    ["Objectives"]="Bolvar'ın Fermanı'nı Gölbölgesi'ndeki Yargıç Solomon'a götür.",
     ["Progress"]="Bolvar'dan bir haber var mı?",
-    ["Completion"]="Daha kötüsü de olabilirdi sanırım...\n\n<Yargıç Solomon seni baştan aşağı süzer.>\n\nGörünüşe göre Gölgölü'nün kaderi tamamen senin omuzlarına biniyor.\n\n<Yargıç Solomon'un gözlerini hızlıca kırpıştırdığını fark ediyorsun. Ağlıyor gibi görünüyor.>",
+    ["Completion"]="Daha kötüsü de olabilirdi sanırım...\n\n<Yargıç Solomon seni baştan aşağı süzer.>\n\nGörünüşe göre Gölbölgesi'nün kaderi tamamen senin omuzlarına biniyor.\n\n<Yargıç Solomon'un gözlerini hızlıca kırpıştırdığını fark ediyorsun. Ağlıyor gibi görünüyor.>",
     ["minlevel"]="48",
     ["questlevel"]="54",
     }, -- end The True Masters
@@ -56818,7 +56818,7 @@ QuestTranslator_QuestData = {
     -- Burning Steppes -> Yanardağ Bozkırları (ZoneData.lua)
     ["4223"] = {
     ["Title"]="Gerçek Efendiler",
-    ["Description"]="<Yargıç Solomon iç çeker.>\n\nYanardağ Bozkırları'na geri dönmelisin, YOUR_NAME. Fırtınaşehri'nin bir vekili olarak Mareşal Maxwell'e rapor vermen gerekecek. Bol şans.",
+    ["Description"]="<Yargıç Solomon iç çeker.>\n\nYanardağ Bozkırları'na geri dönmelisin, YOUR_NAME. Fırtınayeli'nin bir vekili olarak Mareşal Maxwell'e rapor vermen gerekecek. Bol şans.",
     ["Objectives"]="Yanardağ Bozkırları'ndaki Mareşal Maxwell ile konuş.",
     ["Progress"]="",
     ["Completion"]="<Mareşal Maxwell güler.>",
@@ -56830,10 +56830,10 @@ QuestTranslator_QuestData = {
     -- Marshal Windsor -> Mareşal Windsor (MobNpcData.lua)[cite: 1]
     -- Ragged John -> Üstü Başı Yırtık John (MobNpcData.lua)[cite: 1]
     -- Windsor -> Windsor (MobNpcData.lua)[cite: 1]
-    -- Stormwind -> Fırtınaşehri (ZoneData.lua)
+    -- Stormwind -> Fırtınayeli (ZoneData.lua)
     ["4224"] = {
     ["Title"]="Gerçek Efendiler",
-    ["Description"]="Ne? İlk olduğunu mu sandın? Fırtınaşehri Harekete geçmeden önce daha kaç asker kaybetmeliyiz?\n\nKomutanımız Mareşal Windsor'u kaybetmeden önce Karakaya tehdidiyle ilgili muazzam miktarda istihbarat toplamıştık. Mareşal Windsor ile birlikte tüm değerli bilgilerimiz de gitti.\n\nİhtiyacımız olan şey o belgeler. Üstü Başı Yırtık John ile konuş, YOUR_NAME. Bir Karakaya baskın birliği tarafından saldırıya uğradıklarında Windsor'ın yanındaydı. En son kuzeydeki bir mağarada görüldü.",
+    ["Description"]="Ne? İlk olduğunu mu sandın? Fırtınayeli Harekete geçmeden önce daha kaç asker kaybetmeliyiz?\n\nKomutanımız Mareşal Windsor'u kaybetmeden önce Karakaya tehdidiyle ilgili muazzam miktarda istihbarat toplamıştık. Mareşal Windsor ile birlikte tüm değerli bilgilerimiz de gitti.\n\nİhtiyacımız olan şey o belgeler. Üstü Başı Yırtık John ile konuş, YOUR_NAME. Bir Karakaya baskın birliği tarafından saldırıya uğradıklarında Windsor'ın yanındaydı. En son kuzeydeki bir mağarada görüldü.",
     ["Objectives"]="Mareşal Windsor'ın kaderini öğrenmek için Üstü Başı Yırtık John ile konuş ve bu görevi tamamladığında Mareşal Maxwell'e dön.\n\nMareşal Maxwell'in onu kuzeydeki bir mağarada aramanı söylediğini hatırlıyorsun.[cite: 1]",
     ["Progress"]="John ile henüz konuştun mu?",
     ["Completion"]="Seni uyarabilirdim ama bunda ne eğlence var ki?",
@@ -56860,7 +56860,7 @@ QuestTranslator_QuestData = {
     -- Abandoned Hope
     -- Bolvar -> Bolvar (MobNpcData.lua)[cite: 1]
     -- Ironfoe -> Demirhasım
-    -- Stormwind -> Fırtınaşehri (ZoneData.lua)
+    -- Stormwind -> Fırtınayeli (ZoneData.lua)
     ["4242"] = {
     ["Title"]="Terk Edilmiş Umut",
     ["Description"]="Bolvar bir aptal. Onun o değerli 'kanıtını' toplayıp boğazından aşağı tıkmak üzereydim.\n\nO kör bir palyaço. Kanıt iki adım ötesinde duruyor ama görmüyor.\n\nVerilerime gelince, onlar kayboldu. Gitti. Kurtarılamaz.\n\nBir gün Demirhasım'ı bulup bu labirentten çıkarsam, ilk durağım Firtınaşehri olacak, çekicimi o sürüngenin gözlerinin tam arasına oturtmak için.\n\nBeni yalnız bırak, YOUR_NAME.",
@@ -57276,13 +57276,13 @@ QuestTranslator_QuestData = {
     -- Bolvar -> Bolvar (MobNpcData.lua)[cite: 1]
     -- Lady Prestor -> Leydi Prestor (MobNpcData.lua)[cite: 1]
     -- Morgan's Vigil -> Morgan Karakolu (ZoneData.lua)
-    -- Stormwind -> Fırtınaşehri (ZoneData.lua)
+    -- Stormwind -> Fırtınayeli (ZoneData.lua)
     ["4322"] = {
     ["Title"]="Hapishaneden Kaçış!",
     ["Description"]="Buradan çıkmamız gerek, YOUR_NAME. Ekipmanımı ikmal alanından geri almama ve arkadaşlarımı özgür bırakmama yardım et. Buradan çıkarsak, Morgan Karakolu'na ilerlemeli ve Mareşal Maxwell ile konuşmalısın. Sana daha fazla talimat verecektir.",
     ["Objectives"]="Mareşal Windsor'ın ekipmanını geri almasına ve arkadaşlarını özgür bırakmasına yardım et. Başarılı olursan Mareşal Maxwell'e dön.",
     ["Progress"]="Yorgun görünüyorsun, YOUR_NAME. Belki de ateşin yanında bir sandalye alıp rahatlamalısın.",
-    ["Completion"]="İnanılmaz, YOUR_NAME. Tek kelimeyle inanılmaz. Windsor beş dakika önce buradan fırtına gibi geçti. Büyük iddialarda bulunuyor ama bunların kanıtlarıyla desteklendiğini ileri sürüyor. Bolvar ve... Leydi Prestor ile yüzleşmek için Fırtınaşehri'ne doğru yola çıktı.",
+    ["Completion"]="İnanılmaz, YOUR_NAME. Tek kelimeyle inanılmaz. Windsor beş dakika önce buradan fırtına gibi geçti. Büyük iddialarda bulunuyor ama bunların kanıtlarıyla desteklendiğini ileri sürüyor. Bolvar ve... Leydi Prestor ile yüzleşmek için Fırtınayeli'ne doğru yola çıktı.",
     ["minlevel"]="50",
     ["questlevel"]="58",
     }, -- end Jail Break!
@@ -57965,12 +57965,12 @@ QuestTranslator_QuestData = {
     -- Delivery to Ridgewell
     -- Count Remington Ridgewell -> Kont Remington Ridgewell (MobNpcData.lua)[cite: 1]
     -- Remington Ridgewell -> Remington Ridgewell (MobNpcData.lua)[cite: 1]
-    -- Stormwind -> Fırtınaşehri (ZoneData.lua)
+    -- Stormwind -> Fırtınayeli (ZoneData.lua)
     -- Blackrock Spire -> Karakaya Zirvesi (ZoneData.lua)
     ["4765"] = {
     ["Title"]="Ridgewell'a Teslimat",
-    ["Description"]="Doomrigger Tokası'nı Fırtınaşehri'ne sevk edilmeye uygun bir sandığa paketledim. YOUR_NAME, son derece yardımcı oldun -- senden son bir iyilik isteyebilir miyim?\n\nSandığı Kont Remington Ridgewell'a teslim et. Onu Fırtınaşehri Kalesi'nde bulacaksın. Onun için ne getirdiğini görmekten çok memnun olacağından eminim.",
-    ["Objectives"]="Ridgewell'ın Sandığı'nı Fırtınaşehri'ndeki Remington Ridgewell'a getir.",
+    ["Description"]="Doomrigger Tokası'nı Fırtınayeli'ne sevk edilmeye uygun bir sandığa paketledim. YOUR_NAME, son derece yardımcı oldun -- senden son bir iyilik isteyebilir miyim?\n\nSandığı Kont Remington Ridgewell'a teslim et. Onu Fırtınayeli Kalesi'nde bulacaksın. Onun için ne getirdiğini görmekten çok memnun olacağından eminim.",
+    ["Objectives"]="Ridgewell'ın Sandığı'nı Fırtınayeli'ndeki Remington Ridgewell'a getir.",
     ["Progress"]="Bana bir habercinin geleceği söylendi. Karakaya Zirvesi'nden bir hediye getiren biri.\n\nO kişi sen misin?",
     ["Completion"]="Ah, demek o sensin! Teşekkürlerimi sunarım, YOUR_NAME. Ve... Henüz bilmiyorsan... Ridgewell hanesinden bir soylunun minneti neredeyse bir kralın fedyasına değerdir.",
     ["minlevel"]="57",
@@ -57984,13 +57984,13 @@ QuestTranslator_QuestData = {
     -- Burning Steppes -> Yanardağ Bozkırları (ZoneData.lua)
     -- Thaurissan -> Thaurissan (ZoneData.lua)
     -- Blackrock Spire -> Karakaya Zirvesi (ZoneData.lua)
-    -- Stormwind -> Fırtınaşehri (ZoneData.lua)
+    -- Stormwind -> Fırtınayeli (ZoneData.lua)
     ["4766"] = {
     ["Title"]="Mayara Parlakkanat",
     ["Description"]="Bir ajanım olan Mayara Parlakkanat, harabe şehir Thaurissan'ı keşfetmesi için Yanardağ Bozkırları'na gönderildi. Kara Demir cücelerinin bu yıkılmış şehri çok değerli eşyaları gizliyor olabilir... Aile müzemize çok yakışacak eşyalar.\n\nMayara bir şey bulduğunu ve onu geri çıkarmak için yardıma ihtiyacı olacağını söylüyor ama bu Thaurissan'da değil. Bunun yerine Karakaya Zirvesi'ne bir baskın gerekecek.\n\nAntıntıları bilmiyorum ama ilgileniyorsan Yanardağ Bozkırları'ndaki Mayara ile konuş.",
     ["Objectives"]="Yanardağ Bozkırları'ndaki Mayara Parlakkanat ile konuş.",
     ["Progress"]="",
-    ["Completion"]="Fırtınaşehri'nden mi geldin? Harika -- Remington'ın müzesinde bulundurmak için uğruna adam öldürebileceği bir sanat eseri biliyorum ama onu çıkarmak kolay olmayacak.\n\nİşte sen burada devreye giriyorsun.",
+    ["Completion"]="Fırtınayeli'nden mi geldin? Harika -- Remington'ın müzesinde bulundurmak için uğruna adam öldürebileceği bir sanat eseri biliyorum ama onu çıkarmak kolay olmayacak.\n\nİşte sen burada devreye giriyorsun.",
     ["minlevel"]="57",
     ["questlevel"]="60",
     }, -- end Mayara Brightwing
@@ -58555,14 +58555,14 @@ QuestTranslator_QuestData = {
 
     -- Better Late Than Never
     -- Emma Felstone -> Emma Felstone (MobNpcData.lua)[cite: 1]
-    -- Stormwind -> Fırtınaşehri (ZoneData.lua)
-    -- Stormwind City Hall -> Fırtınaşehri Belediye Binası
+    -- Stormwind -> Fırtınayeli (ZoneData.lua)
+    -- Stormwind City Hall -> Fırtınayeli Belediye Binası
     ["5022"] = {
     ["Title"]="Geç Olsun Temiz Olsun",
-    ["Description"]="Üzerinde birikmiş küçük bir toz ve kir tabakasını silerek paketi alıyorsun. Aceleci bir elle Fırtınaşehri'nden Emma Felstone adına adreslenmiş; paketin teslimat tarihi dört yıldan fazla bir süre öncesine ait.\n\nEmma Felstone'un hayatta olup olmadığı belirsiz olsa da, Fırtınaşehri Belediye Binası'nın şehir halkı hakkında kayıt tuttuğu yaygın olarak bilinmektedir. Bu, Fırtınaşehri Nüfus Sayımı'nın Kraliyet Görevlileri aracılığıyla yürütülür.",
-    ["Objectives"]="Emma Felstone'un nerede olduğunu öğrenmek için Fırtınaşehri Kraliyet Görevlileri ile iletişime geç. Belediye Binası'nda genellikle bir nüfus sayım görevlisi bulunur.",
-    ["Progress"]="Fırtınaşehri nüfus sayım bürosuna hoş geldin. Halkımız hakkında bilgiye ihtiyacın varsa sana yardımcı olabilirim.",
-    ["Completion"]="Emma Felstone adına bir paket mi dedin? Bilinen son adresi Fırtınaşehri, dört yıl önce mi? Şey, buraya bakayım...\n\nBildiğimize göre yaklaşık dört yıl önce şehirde bir Emma Felstone vardı. Şey, muhtemelen demeliyim - bahsettiğim bu nüfus sayımı beş yıl öncesine ait ve şehri boşalttığına dair bir raporum yok. Ancak bu hâlâ burada olduğu anlamına gelmez.\n\nBir saniye bekle... Bu paket İhtiyar Emma için olmasın?",
+    ["Description"]="Üzerinde birikmiş küçük bir toz ve kir tabakasını silerek paketi alıyorsun. Aceleci bir elle Fırtınayeli'nden Emma Felstone adına adreslenmiş; paketin teslimat tarihi dört yıldan fazla bir süre öncesine ait.\n\nEmma Felstone'un hayatta olup olmadığı belirsiz olsa da, Fırtınayeli Belediye Binası'nın şehir halkı hakkında kayıt tuttuğu yaygın olarak bilinmektedir. Bu, Fırtınayeli Nüfus Sayımı'nın Kraliyet Görevlileri aracılığıyla yürütülür.",
+    ["Objectives"]="Emma Felstone'un nerede olduğunu öğrenmek için Fırtınayeli Kraliyet Görevlileri ile iletişime geç. Belediye Binası'nda genellikle bir nüfus sayım görevlisi bulunur.",
+    ["Progress"]="Fırtınayeli nüfus sayım bürosuna hoş geldin. Halkımız hakkında bilgiye ihtiyacın varsa sana yardımcı olabilirim.",
+    ["Completion"]="Emma Felstone adına bir paket mi dedin? Bilinen son adresi Fırtınayeli, dört yıl önce mi? Şey, buraya bakayım...\n\nBildiğimize göre yaklaşık dört yıl önce şehirde bir Emma Felstone vardı. Şey, muhtemelen demeliyim - bahsettiğim bu nüfus sayımı beş yıl öncesine ait ve şehri boşalttığına dair bir raporum yok. Ancak bu hâlâ burada olduğu anlamına gelmez.\n\nBir saniye bekle... Bu paket İhtiyar Emma için olmasın?",
     ["minlevel"]="50",
     ["questlevel"]="52",
     }, -- end Better Late Than Never
@@ -58845,13 +58845,13 @@ QuestTranslator_QuestData = {
     -- Sorrow Hill -> Keder Tepesi
     -- Chillwind Camp -> Serinrüzgar Karakolu (ZoneData.lua)
     -- Western Plaguelands -> Batı Veba Toprakları (ZoneData.lua)
-    -- Stormwind -> Fırtınaşehri (ZoneData.lua)
+    -- Stormwind -> Fırtınayeli (ZoneData.lua)
     ["5092"] = {
     ["Title"]="Yolu Temizle",
     ["Description"]="Andorhal'ın şehre giden batı ve kuzey yolları iyi güçlendirilmiş olduğundan, ona daha az savunulan doğu yolundan saldırmayı hedefliyorum. Afet, ilk savunma hattı olarak Keder Tepesi'ni istila eden zombi tamponuna güveniyor. Andorhal'a ilerleyeceksek, bunu Keder Tepesi üzerinden yapmamız gerekecek.\n\nİlk görevin Keder Tepesi üzerinden giden yolu temizlemek olacak. Bölgede dolaşan iskeletleri ve hortlakları azalt; bu bittiğinde bana rapor ver!",
     ["Objectives"]="Keder Tepesi'nde 10 İskelet Yüzücü ve 10 Salya Akıtan Hortlak öldür.\n\nBatı Veba Toprakları'ndaki Serinrüzgar Karakolu'nda bulunan Komutan Ashlam Yiğityumruk'a dön.",
     ["Progress"]="En kötüsüne hazırlanmanı istiyorum, YOUR_NAME - derinlere in. Önümüzdeki görev kolay olmayacak. Kuvvetlerimizi nihayetinde Afet'e karşı saldırmak üzere burada toplarken, savaşı onlara taşıyan ön çabamızın bir parçası olacaksın! Keder Tepesi'ndeki atanan görevin zafere giden yolumuzu başlatacak!",
-    ["Completion"]="Görev tamamlandı, YOUR_NAME! Güzel hamle, güzel hamle.\n\nŞimdiye kadarki çalışmanı Fırtınaşehri kasalarından çıkan bazı sikkelerle ödüllendirmeme izin ver. Onu bir sonraki görevinde sana yardımcı olacak teçhizatlara harcamanı öneririm... Seni Andorhal harabelerinin içine götürecek bir görev.\n\nHazır ol! Uyanık ol!",
+    ["Completion"]="Görev tamamlandı, YOUR_NAME! Güzel hamle, güzel hamle.\n\nŞimdiye kadarki çalışmanı Fırtınayeli kasalarından çıkan bazı sikkelerle ödüllendirmeme izin ver. Onu bir sonraki görevinde sana yardımcı olacak teçhizatlara harcamanı öneririm... Seni Andorhal harabelerinin içine götürecek bir görev.\n\nHazır ol! Uyanık ol!",
     ["minlevel"]="50",
     ["questlevel"]="52",
     }, -- end Clear the Way
@@ -58958,12 +58958,12 @@ QuestTranslator_QuestData = {
     -- General Drakkisath's Demise
     -- General Drakkisath -> General Drakkisath (MobNpcData.lua)[cite: 1]
     -- Marshal Maxwell -> Mareşal Maxwell (MobNpcData.lua)[cite: 1]
-    -- Stormwind -> Fırtınaşehri (ZoneData.lua)
+    -- Stormwind -> Fırtınayeli (ZoneData.lua)
     -- Burning Steppes -> Yanardağ Bozkırları (ZoneData.lua)
     -- Blackrock Spire -> Karakaya Zirvesi (ZoneData.lua)
     ["5102"] = {
     ["Title"]="General Drakkisath'ın Ölümü",
-    ["Description"]="Bu canavarlarla iki cephede savaşıyoruz: Başkentimiz Fırtınaşehri'nden onlarla içeriden dışarıya doğru savaşıyoruz ve burada, Yanardağ Bozkırları'nda, savaşı kapılarına kadar götürüyoruz. Uyanık olmalıyız, YOUR_NAME. Evlerimize ve ailelerimize saldırdıklarında kendi ailelerimizden kimse bağışlanmadığı gibi, kimse gazabımızdan bağışlanmamalıdır.\n\nBu General Drakkisath'ı bul ve onu yok et!\n\nGörev kesinlikle basit bir görev olmayacak ama ödüller abartılı olacak.",
+    ["Description"]="Bu canavarlarla iki cephede savaşıyoruz: Başkentimiz Fırtınayeli'nden onlarla içeriden dışarıya doğru savaşıyoruz ve burada, Yanardağ Bozkırları'nda, savaşı kapılarına kadar götürüyoruz. Uyanık olmalıyız, YOUR_NAME. Evlerimize ve ailelerimize saldırdıklarında kendi ailelerimizden kimse bağışlanmadığı gibi, kimse gazabımızdan bağışlanmamalıdır.\n\nBu General Drakkisath'ı bul ve onu yok et!\n\nGörev kesinlikle basit bir görev olmayacak ama ödüller abartılı olacak.",
     ["Objectives"]="Karakaya Zirvesi'ne seyahat et ve General Drakkisath'ı yok et. İş bittiğinde Mareşal Maxwell'e dön.",
     ["Progress"]="Tamamlandı mı?",
     ["Completion"]="Kesinlikle, bir sonraki hamlemiz onların ejderha lordlarına karşı olacak. Aferin, İttifak'ın cesur askeri! Gerçekten çok iyi iş.",
@@ -59953,7 +59953,7 @@ QuestTranslator_QuestData = {
     ["Description"]="",
     ["Objectives"]="",
     ["Progress"]="",
-    ["Completion"]="YOUR_NAME, kazanları başarıyla yeniden mühendislikten geçirmen bizim için muazzam bir zafer!\n\n<Komutan boğazını temizler ve yüksek sesle kükremeye başlar.>\n\nHuzurumdaki herkes duysun: Fırtınaşehri Krallığı'na ve İttifak'a görev çağrısının çok ötesinde hizmet ettiği için - ezici engeller ve inanılmaz tehlikeler karşısında, eklemeliyim ki - YOUR_NAME kişisine bunu veriyorum ve İttifak'ın gerçek bir kahramanı olarak ölümsüz minnetimizi sunuyorum. Yaşasın diyorum!",
+    ["Completion"]="YOUR_NAME, kazanları başarıyla yeniden mühendislikten geçirmen bizim için muazzam bir zafer!\n\n<Komutan boğazını temizler ve yüksek sesle kükremeye başlar.>\n\nHuzurumdaki herkes duysun: Fırtınayeli Krallığı'na ve İttifak'a görev çağrısının çok ötesinde hizmet ettiği için - ezici engeller ve inanılmaz tehlikeler karşısında, eklemeliyim ki - YOUR_NAME kişisine bunu veriyorum ve İttifak'ın gerçek bir kahramanı olarak ölümsüz minnetimizi sunuyorum. Yaşasın diyorum!",
     ["minlevel"]="50",
     ["questlevel"]="58",
     }, -- end Mission Accomplished!
@@ -61619,13 +61619,13 @@ QuestTranslator_QuestData = {
     -- Kirsta Deepshadow -> Kirsta Deringölge (MobNpcData.lua)
     -- Hearthglen -> Hearthglen (ZoneData.lua)
     -- Western Plaguelands -> Batı Veba Toprakları (ZoneData.lua)
-    -- Stormwind -> Fırtınaşehri (ZoneData.lua)
+    -- Stormwind -> Fırtınayeli (ZoneData.lua)
     ["6004"] = {
     ["Title"]="Bitmemiş İş",
     ["Description"]="Biraz hasar vermek ve Hearthglen'in savunmasının gücünü ölçmek için gözcü olarak gönderildim. İttifak'taki bazı insanlar bu küçük kasabanın tarihi önemden daha fazlasına sahip olduğunu düşünüyor. Bu önemin ne olduğunu sorgulamak benim işim değil, ama ne olursa olsun dinlenene kadar devam edecek durumda değilim.\n\nRazıysan yardım için cömertçe ödeme yaparım. Buranın güneyinden, kurdukları küçük siper yakınındaki ordugahlarından başla. Yeterince güçlü olduğunu kanıtlarsan ana hedefim konusunda yardımını alabilirim.",
     ["Objectives"]="Batı Veba Toprakları'ndaki Kirsta Deringölge'ye dönmeden önce 2 Kızıl Tabip, 2 Kızıl Avcı, 2 Kızıl Büyücü ve 2 Kızıl Şövalye öldür.",
     ["Progress"]="Nasıl gidiyor, YOUR_NAME? Düşündüğünden daha mı güçlüler? Umarım değildir. Burada devam edeceksem bu senden zaten istediğimden çok daha fazla güç gerektirecek.",
-    ["Completion"]="Aferin, YOUR_NAME. Onlarla bu kadar hızlı ilgilenmene şaşırdım. Teşekkür ederim.\n\nKızıl Haçlı Seferi'ni ve yöntemlerini onaylayan biriyle henüz karşılaşmadım. Fırtınaşehri'ndeki diğer herkes kadar Işık'a inanıyorum ama hareketlerine sadık olmayan herkesi... masumları bile öldürmek istediklerini gösterdiler.",
+    ["Completion"]="Aferin, YOUR_NAME. Onlarla bu kadar hızlı ilgilenmene şaşırdım. Teşekkür ederim.\n\nKızıl Haçlı Seferi'ni ve yöntemlerini onaylayan biriyle henüz karşılaşmadım. Fırtınayeli'ndeki diğer herkes kadar Işık'a inanıyorum ama hareketlerine sadık olmayan herkesi... masumları bile öldürmek istediklerini gösterdiler.",
     ["minlevel"]="50",
     ["questlevel"]="56",
     }, -- end Unfinished Business
@@ -61699,13 +61699,13 @@ QuestTranslator_QuestData = {
     -- Kirsta Deepshadow -> Kirsta Deringölge (MobNpcData.lua)
     -- Hearthglen -> Hearthglen (ZoneData.lua)
     -- Western Plaguelands -> Batı Veba Toprakları (ZoneData.lua)
-    -- Stormwind -> Fırtınaşehri (ZoneData.lua)
+    -- Stormwind -> Fırtınayeli (ZoneData.lua)
     ["6025"] = {
     ["Title"]="Bitmemiş İş",
     ["Description"]="Ne? Gerçekten mi? Daha fazlasını mı bilmek istiyorsun? Ama benim için zaten çok şey yaptın, YOUR_NAME. Benim adıma Hearthglen'in kendisine girmene muhtemelen isteyemezdim.\n\nEmin misin, YOUR_NAME? Hearthglen Geçit'ten çok daha tehlikelidir--sana herhangi bir koruma hatta karşılaşabileceğin şeyler hakkında bilgi bile sağlayamam.\n\nŞey, gerçekten yardım etmeye razıysan kasabaya gir ve kasabanın iyi bir manzarasını elde etmek için yüksek bir yer bul. Oradan sayılarını ölçebilir ve onları bana rapor edebilirsin. Ama dikkatli ol....",
     ["Objectives"]="Hearthglen'e gir ve kasabayı görebileceğin ve Kızıl Haçlı Seferi kuvvetlerini ölçebileceğin yüksek bir gözlem noktası bul, ardından Batı Veba Toprakları'ndaki Kirsta Deringölge'ye dön.",
     ["Progress"]="Tehlikeli bir görev, YOUR_NAME. Cesaretini kıskanıyorum.",
-    ["Completion"]="Başardın, YOUR_NAME! Teşekkür ederim!\n\nElling'e dönüyorum... Yani Fırtınaşehri'ne olabildiğince kısa sürede. Al, bu sikkeyi al, senin için yapabileceğim en az şey bu. Halkın için bir gurur kaynağısın, YOUR_NAME. Teşekkürler ve iyi şanslar.",
+    ["Completion"]="Başardın, YOUR_NAME! Teşekkür ederim!\n\nElling'e dönüyorum... Yani Fırtınayeli'ne olabildiğince kısa sürede. Al, bu sikkeyi al, senin için yapabileceğim en az şey bu. Halkın için bir gurur kaynağısın, YOUR_NAME. Teşekkürler ve iyi şanslar.",
     ["minlevel"]="50",
     ["questlevel"]="58",
     }, -- end Unfinished Business
