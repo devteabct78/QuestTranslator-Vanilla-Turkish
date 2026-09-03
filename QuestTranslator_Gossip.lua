@@ -73,12 +73,19 @@ local function NormalizeText(str)
     str = string.gsub(str, "|c%x%x%x%x%x%x%x%x", "")
     str = string.gsub(str, "|r", "")
 
-    -- 2. WoW DB Satır Başı ve Değişken Etiketlerini ($B, $b, $N, $C, $R, $g/G vb.) Temizle
+    -- YENİ: Cinsiyet ($g / $G) etiketini WoW istemcisinin yaptığı gibi çöz
+    -- UnitSex("player") -> 2: Erkek, 3: Kadın
+    local sex = UnitSex("player")
+    str = string.gsub(str, "%$[gG]%s*(.-):(.-);", function(maleWord, femaleWord)
+        return (sex == 3) and femaleWord or maleWord
+    end)
+
+    -- 2. WoW DB Satır Başı ve Değer Etiketlerini Temizle
     str = string.gsub(str, "%$[bB]", "")
     str = string.gsub(str, "%$[nN]", "")
     str = string.gsub(str, "%$[cC]", "")
     str = string.gsub(str, "%$[rR]", "")
-    str = string.gsub(str, "%$[gG]", "")
+    -- NOT: "%$[gG]" satırını kaldırdık, işlemi yukarıda hallettik.
 
     -- 3. Tipografik/akıllı tırnak işaretlerini standart tırnağa dönüştür
     str = string.gsub(str, "’", "'")
