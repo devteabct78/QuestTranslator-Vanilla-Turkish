@@ -24349,8 +24349,8 @@ QuestTranslator_QuestData = {
 -- Hateforge'a Saldırı
     ["40489"] = {
     ["Title"]="Nefretocağına Saldırı",
-    ["Description"]="Görünüşe göre Nefretocağı Taş Ocağı (The Hateforge Quarry) Kral için büyük bir endişe kaynağı ve bana krallık adına herkesi askere alma yetkisi verdi. Eğer Magni'nin gözüne girmek istiyorsan bu iyi bir fırsat olmalı. Nefretocağı Taş Ocağı'nın derinliklerine inecek ve içindeki Alacakaranlık Çekici'nin (Twilight Hammer) varlığını ortadan kaldıracak kadar cesur birini arıyorum. Eğer ilgileniyorsan, yanına diğer maceracıları, bir paralı asker grubunu veya bir tür tugay getirmeni öneririm. Görevi tamamlarsan Magni'ye geri dön, o seni ödüllendirecektir.",
-    ["Objectives"]="Nefretocağı Taş Ocağı'na (The Hateforge Quarry) gir ve derinliklerdeki Alacakaranlık Çekici'nin varlığını ortadan kaldır; tamamlandığında Ironforge'daki (Demirdövüm) Kral Magni Bronzsaqal'a (King Magni Bronzebeard) geri dön.",
+    ["Description"]="Görünüşe göre Nefretocağı Madeni (The Hateforge Quarry) Kral için büyük bir endişe kaynağı ve bana krallık adına herkesi askere alma yetkisi verdi. Eğer Magni'nin gözüne girmek istiyorsan bu iyi bir fırsat olmalı. Nefretocağı Madeni'nın derinliklerine inecek ve içindeki Alacakaranlık Çekici'nin (Twilight Hammer) varlığını ortadan kaldıracak kadar cesur birini arıyorum. Eğer ilgileniyorsan, yanına diğer maceracıları, bir paralı asker grubunu veya bir tür tugay getirmeni öneririm. Görevi tamamlarsan Magni'ye geri dön, o seni ödüllendirecektir.",
+    ["Objectives"]="Nefretocağı Madeni'na (The Hateforge Quarry) gir ve derinliklerdeki Alacakaranlık Çekici'nin varlığını ortadan kaldır; tamamlandığında Ironforge'daki (Demirdövüm) Kral Magni Bronzsaqal'a (King Magni Bronzebeard) geri dön.",
     ["Progress"]="Sana yardımcı olabileceğim bir şey var mı?",
     ["Completion"]="<Kral Magni Bronzsakal başını güçlü bir şekilde sallar.> Krallığın savunması her konuda kararlı olmamızı gerektirir; düşmanımızın düzenini gerçekten sarstığına ve planlarına son verdiğine şüphem yok. Halkım adına seni cephaneliğimizden bir eşyayla ödüllendiriyorum, sana iyi hizmet etmesi dileğiyle.",
     ["minlevel"]="0",
@@ -25861,7 +25861,7 @@ QuestTranslator_QuestData = {
 -- Nefret Dolu Derinliklerin Çağrısı
     ["40920"] = {
     ["Title"]="Nefret Dolu Derinliklerin Çağrısı",
-    ["Description"]="Oh, ne zavallıca bir taklit bu böyle. Bilerek mi bulabileceğin en amatör örneği geri getirdin? Madem kendi mutlak beceriksizliğinle kendi görev listene yenilerini eklemekten keyif alıyorsun, o zaman dinle: kristalin kusurlarından arındırılması gerekiyor. Bu kolay bir görev değil ve çok özel araçlar gerektirecek. İki çekiç: Biri Nefretocağı Taş Ocağı'nın (Hateforge Quarry) derinliklerinde dövülmüş, diğeri ise Kara Demir'lerin (Dark Irons) Kara kaya Derinliklerinde (Karakaya(Blackrock) Depths) kullandığı çekiç. Onları bana getir, o zaman hataların affedilebilir.",
+    ["Description"]="Oh, ne zavallıca bir taklit bu böyle. Bilerek mi bulabileceğin en amatör örneği geri getirdin? Madem kendi mutlak beceriksizliğinle kendi görev listene yenilerini eklemekten keyif alıyorsun, o zaman dinle: kristalin kusurlarından arındırılması gerekiyor. Bu kolay bir görev değil ve çok özel araçlar gerektirecek. İki çekiç: Biri Nefretocağı Madeni'nın (Hateforge Quarry) derinliklerinde dövülmüş, diğeri ise Kara Demir'lerin (Dark Irons) Kara kaya Derinliklerinde (Karakaya(Blackrock) Depths) kullandığı çekiç. Onları bana getir, o zaman hataların affedilebilir.",
     ["Objectives"]="Bir adet Nefret Çekici (Hammer of Hate) ve bir adet Derinliklerin Çekici (Hammer of the Depths) elde et ve onları Gizemli Posta Kutusu'na (Mysterious Mailbox) getir.",
     ["Progress"]="Döndün demek.",
     ["Completion"]="Bunlarla odağı düzeltebilirim. Yakında kristal, bir zamanlar olduğu gibi ham güçle dolup taşacak...",
@@ -27115,10 +27115,10 @@ QuestTranslator_QuestData = {
 
 -- Madenciler Birliği İsyanı II
     ["40468"] = {
-    -- Hateforge Quarry -> Nefretocağı Taş Ocağı, Karakaya(Blackrock) Pass -> Karataş Geçidi, Burning Steppes -> Yanık Bozkırlar. Morgrim Firepike -> Morgrim Ateşmızrak.
+    -- Hateforge Quarry -> Nefretocağı Madeni, Karakaya(Blackrock) Pass -> Karataş Geçidi, Burning Steppes -> Yanık Bozkırlar. Morgrim Firepike -> Morgrim Ateşmızrak.
     ["Title"]="Madenciler Birliği İsyanı II",
-    ["Description"]="Şimdi Madenciler Birliği'nin kalbine vuracağız. Onların ana projesi kazı alanının hemen ötesinde ve Taş Ocağı'nın derinliklerinde yer alıyor. Orvak'ın görevden alınması için isyanlarını orada başlattılar ve Morgrim Ateşmızrak'ın gazabını orada hissedecekler. Oh, ve tabii ki onun paralı askerlerinin gazabını da. Doğudaki Nefretocağı Taş Ocağı'na (Hateforge Quarry) git ve onlardan yirmi kişiyi öldür, eylemlerinin sonuçlarına katlanacaklar.",
-    ["Objectives"]="Nefretocağı Taş Ocağı'nda 20 adet Nefretocağı Madencisini katlet ve Yanık Bozkırlar'daki (Burning Steppes) Karataş Geçidi'nde (Karakaya(Blackrock) Pass) bulunan Morgrim Ateşmızrak'a geri dön.",
+    ["Description"]="Şimdi Madenciler Birliği'nin kalbine vuracağız. Onların ana projesi kazı alanının hemen ötesinde ve Taş Ocağı'nın derinliklerinde yer alıyor. Orvak'ın görevden alınması için isyanlarını orada başlattılar ve Morgrim Ateşmızrak'ın gazabını orada hissedecekler. Oh, ve tabii ki onun paralı askerlerinin gazabını da. Doğudaki Nefretocağı Madeni'na (Hateforge Quarry) git ve onlardan yirmi kişiyi öldür, eylemlerinin sonuçlarına katlanacaklar.",
+    ["Objectives"]="Nefretocağı Madeni'nda 20 adet Nefretocağı Madencisini katlet ve Yanık Bozkırlar'daki (Burning Steppes) Karataş Geçidi'nde (Karakaya(Blackrock) Pass) bulunan Morgrim Ateşmızrak'a geri dön.",
     ["Progress"]="Adalet giderek yaklaşıyor, bunu pratik olarak hissedebilirsin.",
     ["Completion"]="Benim adıma iyi iş çıkardın ve onlara gerçekten kan ağlattın. Adalet yerini buldu ve işleri muazzam ölçüde yavaşlatıldı. Tüm bu sıkı çalışman için sana bir ödül sunmak istiyorum, al bunu; bir adalet elçisi olarak bunu hak ettin.",
     ["minlevel"]="0",
@@ -30038,12 +30038,12 @@ QuestTranslator_QuestData = {
 
 -- Neden İkisi Birden Olmasın?
     ["41142"] = {
-    -- Landslide -> Heyelan, Maraudon, Desolace. Hateforge Quarry -> Nefretocağı Taş Ocağı, Burning Steppes -> Yanık Bozkırlar.
+    -- Landslide -> Heyelan, Maraudon, Desolace. Hateforge Quarry -> Nefretocağı Madeni, Burning Steppes -> Yanık Bozkırlar.
     -- Essence of Corrosis -> Aşınma Özü, Frig Thunderforge -> Frig Yıldırımocağı (Thunder + Forge). Aerie Peak -> Yuva Doruğu.
     -- Brok, Sindri isimleri kalmıştır. Dwarven smithin' -> Cüce demirciliği.
     ["Title"]="Neden İkisi Birden Olmasın?",
-    ["Description"]="Çocuklarımı sevmeme rağmen, onları böyle gördüğümde çekicimle kafalarına vurmak istiyorum. Eğer didişmeyi bıraksalar, çok daha fazlasını başarabilirlerdi. Onları pışpışlayacak bir hatun değilim, belki babaları yapardı ama o hayal kırıklığı adam çoktan gitti. İkisine de gerçek cüce demirciliğinin (dwarven smithin') neye benzediğini hatırlatacak kendi silahımızı yapacağız. Doğru yoldaydılar ama ne yazık ki vizyondan yoksundurlar. İkisinin de fikirlerini birleştireceğiz. Maceracı arkadaşların en akıl almaz yaratıklar hakkında en çılgın hikayeleri anlatırlar. Desolace'taki Maraudon'un beyaz uçurumlarında, saf mermer taştan yapılmış dev Heyelan (Landslide) yaşar. Söylentilere göre Yanık Bozkırlar'daki (Burning Steppes) Nefretocağı Taş Ocağı'nın (Hateforge Quarry) asit havuzları o kadar güçlüymüş ki, onlardan bir varlık tezahür etmiş! Gerçekten güçlü bir silah dövmek için bana her ikisinin de bedenlerinden parçalar getir.",
-    ["Objectives"]="Maraudon'un derinliklerinden Heyelan'ın Kalbi'ni (Heart of Landslide) ve Yuva Doruğu'ndaki (Aerie Peak) Frig Yıldırımocağı (Frig Thunderforge) için Nefretocağı Taş Ocağı'ndan Aşınma Özü'nü (Essence of Corrosis) elde et.",
+    ["Description"]="Çocuklarımı sevmeme rağmen, onları böyle gördüğümde çekicimle kafalarına vurmak istiyorum. Eğer didişmeyi bıraksalar, çok daha fazlasını başarabilirlerdi. Onları pışpışlayacak bir hatun değilim, belki babaları yapardı ama o hayal kırıklığı adam çoktan gitti. İkisine de gerçek cüce demirciliğinin (dwarven smithin') neye benzediğini hatırlatacak kendi silahımızı yapacağız. Doğru yoldaydılar ama ne yazık ki vizyondan yoksundurlar. İkisinin de fikirlerini birleştireceğiz. Maceracı arkadaşların en akıl almaz yaratıklar hakkında en çılgın hikayeleri anlatırlar. Desolace'taki Maraudon'un beyaz uçurumlarında, saf mermer taştan yapılmış dev Heyelan (Landslide) yaşar. Söylentilere göre Yanık Bozkırlar'daki (Burning Steppes) Nefretocağı Madeni'nın (Hateforge Quarry) asit havuzları o kadar güçlüymüş ki, onlardan bir varlık tezahür etmiş! Gerçekten güçlü bir silah dövmek için bana her ikisinin de bedenlerinden parçalar getir.",
+    ["Objectives"]="Maraudon'un derinliklerinden Heyelan'ın Kalbi'ni (Heart of Landslide) ve Yuva Doruğu'ndaki (Aerie Peak) Frig Yıldırımocağı (Frig Thunderforge) için Nefretocağı Madeni'ndan Aşınma Özü'nü (Essence of Corrosis) elde et.",
     ["Progress"]="Çocuklarımı tekrar dünyaya döndürelim.",
     ["Completion"]="İnanılmaz malzemeler, ikisi de. Harika bir iş çıkardın. Al bakalım, zahmetlerin için biraz sikke. Brok ve Sindri uzmanlığa sahipler, ne de olsa benim oğullarım! Bir gün farklılıklarını aşmak ve diğerinin ne yaptığını, kendilerinin ise neyi yapamadığını düşünmek zorundalar. Brok işinde fazla duygusal, ani bir fikir gelirse, en başta bunun işe yaramayacağını görmek yerine hemen koşup denemeye kalkıyor. Sindri ise kendisine karşı çok katı - yeteneklerine güvenmiyor - bu yüzden yaptığı her şeyi her zaman kitabına göre takip ediyor. Ve bu da onun ufkunu daraltıyor. Bu kadar duygusal muhabbet yeter, hadi onları yerlerine oturtalım!",
     ["minlevel"]="0",
@@ -32444,11 +32444,11 @@ QuestTranslator_QuestData = {
 -- Mühendis Figgles Avı
     ["40539"] = {
     -- Engineer Figgles -> Mühendis Figgles. Nefarian, Worg Mistress Katalla -> Worg Azizesi Katalla kalmıştır.
-    -- Dark irons -> Kara Demirler, Hateforge Quarry -> Nefretocağı Taş Ocağı (Hate + Forge).
+    -- Dark irons -> Kara Demirler, Hateforge Quarry -> Nefretocağı Madeni (Hate + Forge).
     -- Karfang, Karakaya(Blackrock) Clan -> Karataş Kabilesi kalmıştır.
     ["Title"]="Mühendis Figgles Avı",
     ["Description"]="Mühendis Figgles. Bu yaratık  Nefarian'ın kibrine sahip. Şimdiye kadar yarattığı her şeyin üzerine kendi adını koyacak kadar küstah kim olabilir ki. Heyhat, bu bizim lehimize. Kara Demirlerin (dark irons) bu eniklerle ne planladığından emin değilim ama onları kesinlikle durdurmalıyız. Başlayacak hiçbir yerimiz olmamasına rağmen, kabilemin saygısını kazanmış senin gibi cesur bir savaşçının bu Figgles'ı kesinlikle bulabileceğinden eminim. Bir worg'un hızıyla git ve damarlarındaki kan bin lav havuzunun öfkesiyle yansın.",
-    ["Objectives"]="Worg Azizesi Katalla (Worg Mistress Katalla) için Nefretocağı Taş Ocağı'ndaki (Hateforge Quarry) Mühendis Figgles'ı öldür.",
+    ["Objectives"]="Worg Azizesi Katalla (Worg Mistress Katalla) için Nefretocağı Madeni'ndaki (Hateforge Quarry) Mühendis Figgles'ı öldür.",
     ["Progress"]="Onun işini bitirdin mi?",
     ["Completion"]="Kara Demirlerin yeni bir taş ocağı mı var? Ne kazıyorlardı ki? Sen buna bir son verdiğin için artık bir önemi olmasa da, bunu Karfang'a bildirmeliyim. Çabalarının ödüllendirildiğini görmek isteyen istekli kabile üyelerinden birkaç şey toplamayı başardım ama sadece birini seçebilirsin. Karataş Kabilesi'nin (Karakaya(Blackrock) Clan) yöntemi böyledir.",
     ["minlevel"]="0",
@@ -33263,12 +33263,12 @@ QuestTranslator_QuestData = {
     }, -- end Investigating Corinth
 
 -- Nefretocağı'nı Araştırmak
-    -- Dark Iron -> Kara Demir. Ironforge -> Demirörs. Hateforge Quarry -> Nefretocağı Taş Ocağı.
+    -- Dark Iron -> Kara Demir. Ironforge -> Demirörs. Hateforge Quarry -> Nefretocağı Madeni.
     -- Senator Granitebeard -> Senatör Granitsakal (Granite + Beard). Morgan's Vigil -> Morgan'ın Nöbeti, Burning Steppes -> Yanan Bozkırlar.
     ["40486"] = {
     ["Title"]="Nefretocağı'nı Araştırmak",
     ["Description"]="Peh, görevlendirilmek için ne berbat bir çorak toprak, hakaret gibi. Buradan olabildiğince çabuk kurtulmak istiyorum ve bunu yapmak için bazı işlerin halledilmesi gerekiyor, yardım etmeye isteklisin sanırım, ha? Kara Demirler (Dark Iron) bir işler çeviriyor ve o -bir şeylerin- ne olduğunu doğrulamak benim işim. Senden yapmanı istediğim şey, Taş Ocağı'nın girişinde gözcülük yapman ve Demirörs'ün (Ironforge) şüphelerini doğrulaman. Oraya seyahat et, girişten içeri bir göz at ve geri dön, kolay değil mi?",
-    ["Objectives"]="Nefretocağı Taş Ocağı'nın (Hateforge Quarry) girişini keşfet ve Yanan Bozkırlar'daki (Burning Steppes) Morgan'ın Nöbeti'nde (Morgan's Vigil) bulunan Senatör Granitsakal'a (Senator Granitebeard) geri dön.",
+    ["Objectives"]="Nefretocağı Madeni'nın (Hateforge Quarry) girişini keşfet ve Yanan Bozkırlar'daki (Burning Steppes) Morgan'ın Nöbeti'nde (Morgan's Vigil) bulunan Senatör Granitsakal'a (Senator Granitebeard) geri dön.",
     ["Progress"]="Eee, sırtın yukarısına atıldın mı?",
     ["Completion"]="Hmm, demek orada yukarıda bir şeyler dönüyor. Bir dakika bekle, bulgularımın bir raporunu yazmalı ve bunu en yüksek makama göndermeliyim.",
     ["minlevel"]="0",
@@ -38377,12 +38377,12 @@ QuestTranslator_QuestData = {
 -- Rival Presence
     -- Lookout reports -> Gözcü raporları. Brotherhood -> Kardeşlik (Defias veya benzer grup iması).
     -- Shadowforge -> Gölgedemiri kastediliyor (Shadowforge Dark Irons klanı). Quarry -> Taş ocağı, mountain -> dağ, mystery -> gizem.
-    -- Mercenaries -> Paralı askerler. Hateforge Quarry -> Nefretocağı Taş Ocağı (Hate + Forge + Quarry). Hounds -> Tazılar.
+    -- Mercenaries -> Paralı askerler. Hateforge Quarry -> Nefretocağı Madeni (Hate + Forge + Quarry). Hounds -> Tazılar.
     -- Green liquid -> Yeşil sıvı, flask -> matara / şişe. Overseer -> Başgözetmen. Acidic -> Asidik. Nose hairs -> Burun kılları.
     ["40458"] = {
     ["Title"]="Rakip Varlık",
     ["Description"]="Pekala, gözcü raporları (lookout reports) az önce geldi. Görünüşe göre o eski kardeşlik (brotherhood) artık dışarıda yalnız değil. Raporlar, Gölgedemiri'nin (Shadowforge) dağın diğer tarafında bir şeyler kurduğunu gösteriyor, bir tür taş ocağı (quarry). Ne kazdıkları bir gizem (mystery) çünkü onlardan biri olmadıkça içeri giren hiç kimse canlı çıkamıyor. İşte burada sen devreye giriyorsun. Arkadaşlarından veya bazı paralı askerlerden (mercenaries) topla ve o taş ocağına atıl, orada ne kazdıklarını öğren. Şimdi git!",
-    ["Objectives"]="Nefretocağı Taş Ocağı'nda (Hateforge Quarry) ne kazıldığını öğren.",
+    ["Objectives"]="Nefretocağı Madeni'nda (Hateforge Quarry) ne kazıldığını öğren.",
     ["Progress"]="İçeri sızma girişimlerinin tümü başarısız oldu, tazıları (hounds) her şeyin kokusunu alabiliyor.",
     ["Completion"]="Bu... yeşil sıvı mı orada kaynattıkları şey? <Başgözetmen (Overseer) matarayı açar ve koklar.> Och, oldukça asidik (acidic)! Bu kesinlikle çok endişe verici, eğer sadece kokusu bile burun kıllarını (nose hairs) yakıyorsa, ete ne yaptığını düşünmekten ürperiyorum. Diğerlerini bu konuda uyaracağım, kardeşliğe karşı yetenekli olduğunu kanıtladın.",
     ["minlevel"]="0",
@@ -38544,13 +38544,13 @@ QuestTranslator_QuestData = {
     -- Rumors -> Söylentiler. Hateforge Brew -> Nefretocağı Birası (Hate + Forge + Brew - Bira kılıflı kimyasal silah adı).
     -- Dark Iron -> Kara Demir (Dark Iron Dwarves). Reverance -> Saygı. Cover up -> Kılıf / Örtbas. Ale -> bira.
     -- Chemists -> Kimyagerler. Quarry -> Taş ocağı. Dark Iron Vial -> Kara Demir Şişesi / Tüpü. Documents -> Dokümanlar / Belgeler.
-    -- Hateforge Chemistry Documents -> Nefretocağı Kimya Belgeleri. Hateforge Quarry -> Nefretocağı Taş Ocağı.
+    -- Hateforge Chemistry Documents -> Nefretocağı Kimya Belgeleri. Hateforge Quarry -> Nefretocağı Madeni.
     -- Varlag Duskbeard -> Varlag Akşamsakalı kalmıştır. Morgan's Vigil -> Morgan'ın Nöbeti (Morgan's Vigil), Burning Steppes = Yanık Bozkırlar.
     -- Whiff -> Koku / Havadis. Secret -> Sır, Ironforge = Ironforge. Thunder Ale -> Gök gürültüsü Birası. Gloves -> eldivenler.
     ["40490"] = {
     ["Title"]="Nefretocağı Birası Söylentileri",
     ["Description"]="Etrafta 'Nefretocağı Birası' (Hateforge Brew) denen bir şey hakkında söylentiler (rumors) dolaşıyor. Kara Demir'ler (Dark Iron) ondan saygıyla bahsediyor ve orada hiç de bira (ale) yapmadıklarını biliyorum. Bu isim başka bir şey için kılıftır (cover up) ve bizim o başka şeyin ne olduğunu öğrenmemiz gerekiyor, anlıyor musun beni? Taş ocağının (Quarry) içinde kimyagerleri (chemists) olduğunu biliyorum ve tahminimce bu Nefretocağı Birası ile bağlantılılar. Oraya girmene, bana bir Kara Demir Şişesi (Dark Iron Vial) ve bazı Nefretocağı Kimya Belgeleri (Hateforge Chemistry Documents) toplamana ihtiyacım var. Orada neler döndüğüne dair bunları bir yerlere sakladıklarına bahse girerim.",
-    ["Objectives"]="Nefretocağı Taş Ocağı'na (Hateforge Quarry) sız; bir Kara Demir Şişesi (Dark Iron Vial) ile Nefretocağı Kimya Belgeleri'ni (Hateforge Chemistry Documents) kurtar, ardından Yanık Bozkırlar'daki Morgan'ın Nöbeti'nde bulunan Varlag Duskbeard'e geri dön.",
+    ["Objectives"]="Nefretocağı Madeni'na (Hateforge Quarry) sız; bir Kara Demir Şişesi (Dark Iron Vial) ile Nefretocağı Kimya Belgeleri'ni (Hateforge Chemistry Documents) kurtar, ardından Yanık Bozkırlar'daki Morgan'ın Nöbeti'nde bulunan Varlag Duskbeard'e geri dön.",
     ["Progress"]="Orada neler döndüğüne dair bir koku (whiff) alabildin mi henüz?",
     ["Completion"]="Ahh, şunların hepsine baksana ha!\n\nO kurnaz pislikler sırlarını (secrets) kesinlikle saklıyorlardı; fırsat bulduğumda bunu Ironforge'a (Ironforge) geri göndereceğimden emin olabilirsiniz, onlar da her şeyi inceleyebilirler, güzel iş değil mi? Senin için biraz fazladan Gök gürültüsü Birası (Thunder Ale) var, oh ve benim eski eldivenler (gloves), sana iyi hizmet edeceklerdir, kendime yeni bir çift aldım.",
     ["minlevel"]="0",
@@ -45777,11 +45777,11 @@ QuestTranslator_QuestData = {
 -- The True High Foreman
     -- High Foreman -> Yüce Kahya / Ustabaşı kalmıştır (High + Foreman).
     -- Bargul Blackhammer -> Bargul Karatoki kalmıştır (Black + hammer: kara çekiç / toki / tokmak).
-    -- Hateforge Quarry -> Nefretocağı Taş Ocağı kalmıştır (Hate + forge + Quarry), Orvak Sternrock -> Orvak Sternrock kalmıştır, Black Vault -> Kara Mahzen (Black + Vault).
+    -- Hateforge Quarry -> Nefretocağı Madeni kalmıştır (Hate + forge + Quarry), Orvak Sternrock -> Orvak Sternrock kalmıştır, Black Vault -> Kara Mahzen (Black + Vault).
     -- Karakaya(Blackrock) Pass = Karataş Geçidi, Burning Steppes = Yanan Bozkırlar.
     ["40463"] = {
     ["Title"]="Gerçek Yüce Kahya",
-    ["Description"]="Bargul Blackhammer. O iğrenç pislik, aklına gelebilecek her türlü  sinsi taktiği deneyerek yıllardır Yüce Kahya (High Foreman) pozisyonunu elde etmek için  çalışıyor. Şiddetten tut hilekarlığa kadar, onun gibi bir pislik için  hiçbir şey masanın dışında değildi. Nefretocağı Taş Ocağı (Hateforge Quarry) fikri Bargul'un  bulduğu ve senatoya gönderdiği bir fikirdi. Sonunda hepsini  ikna etmeyi başardı ve beni pozisyonumdan  dışarı attırmak için el birliğiyle çalıştılar. Bargul Blackhammer unvanımı şimdi sinsi bir sahtekarlıkla  elinde tutuyor ve ben onun bunu daha fazla elinde  tutmasını istemiyorum.",
+    ["Description"]="Bargul Blackhammer. O iğrenç pislik, aklına gelebilecek her türlü  sinsi taktiği deneyerek yıllardır Yüce Kahya (High Foreman) pozisyonunu elde etmek için  çalışıyor. Şiddetten tut hilekarlığa kadar, onun gibi bir pislik için  hiçbir şey masanın dışında değildi. Nefretocağı Madeni (Hateforge Quarry) fikri Bargul'un  bulduğu ve senatoya gönderdiği bir fikirdi. Sonunda hepsini  ikna etmeyi başardı ve beni pozisyonumdan  dışarı attırmak için el birliğiyle çalıştılar. Bargul Blackhammer unvanımı şimdi sinsi bir sahtekarlıkla  elinde tutuyor ve ben onun bunu daha fazla elinde  tutmasını istemiyorum.",
     ["Objectives"]="Bargul Blackhammer'ı katlet ve Yanan Bozkırlar'daki (Burning Steppes) Karataş Geçidi'nde (Blackrock Pass) bulunan Orvak Sternrock için Senato'nun Emirleri'ni (Senate's Orders) geri al.",
     ["Progress"]="O sefili bu dünyadan henüz  ayıkladın mı?",
     ["Completion"]="Ayrıca, bu anahtarı al, dağa  geri dönmeye niyetim yok. Eğer çoktan  alıp götürmedilerse, Kara Mahzen (Black Vault) içindeki bir sandığı açıyor olmalı.",
