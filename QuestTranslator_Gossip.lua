@@ -73,19 +73,17 @@ local function NormalizeText(str)
     str = string.gsub(str, "|c%x%x%x%x%x%x%x%x", "")
     str = string.gsub(str, "|r", "")
 
-    -- YENİ: Cinsiyet ($g / $G) etiketini WoW istemcisinin yaptığı gibi çöz
-    -- UnitSex("player") -> 2: Erkek, 3: Kadın
+    -- YENİ VE GELİŞMİŞ: Tüm $g varyasyonlarını (boşluklu, noktalı virgülsüz) yakala
     local sex = UnitSex("player")
-    str = string.gsub(str, "%$[gG]%s*(.-):(.-);", function(maleWord, femaleWord)
+    str = string.gsub(str, "%$[gG]%s*([^%s:;%p]+)%s*:%s*([^%s:;%p]+)%s*;?", function(maleWord, femaleWord)
         return (sex == 3) and femaleWord or maleWord
     end)
 
-    -- 2. WoW DB Satır Başı ve Değer Etiketlerini Temizle
+    -- 2. WoW DB Satır Başı ve Diğer Etiketleri Temizle
     str = string.gsub(str, "%$[bB]", "")
     str = string.gsub(str, "%$[nN]", "")
     str = string.gsub(str, "%$[cC]", "")
     str = string.gsub(str, "%$[rR]", "")
-    -- NOT: "%$[gG]" satırını kaldırdık, işlemi yukarıda hallettik.
 
     -- 3. Tipografik/akıllı tırnak işaretlerini standart tırnağa dönüştür
     str = string.gsub(str, "’", "'")
@@ -101,20 +99,27 @@ local function NormalizeText(str)
     return str
 end
 
+
 -- Metindeki oyuncu adını YOUR_NAME ile değiştiren yardımcı fonksiyon
 local function ReplaceNameWithTag(text, nameLower)
     if not text or nameLower == "" then return text end
     
     local lowerText = string.lower(text)
+    local result = ""
+    local lastPos = 1
     local s, e = string.find(lowerText, nameLower, 1, true)
     
-    if s and e then
-        local before = string.sub(text, 1, s - 1)
-        local after = string.sub(text, e + 1)
-        return before .. "YOUR_NAME" .. after
+    while s do
+        -- Bulunan yere kadar olan kısmı ve YOUR_NAME etiketini sonuca ekle
+        result = result .. string.sub(text, lastPos, s - 1) .. "YOUR_NAME"
+        lastPos = e + 1
+        -- Kalan metinde aramaya devam et
+        s, e = string.find(lowerText, nameLower, lastPos, true)
     end
     
-    return text
+    -- Kalan kısmı da sonuca ekle
+    result = result .. string.sub(text, lastPos)
+    return result
 end
 
 -- Metindeki ingilizce sınıf adını (hunter vb.) YOUR_CLASS ile değiştiren yardımcı fonksiyon
@@ -122,15 +127,18 @@ local function ReplaceClassWithTag(text, classLower)
     if not text or classLower == "" then return text end
     
     local lowerText = string.lower(text)
+    local result = ""
+    local lastPos = 1
     local s, e = string.find(lowerText, classLower, 1, true)
     
-    if s and e then
-        local before = string.sub(text, 1, s - 1)
-        local after = string.sub(text, e + 1)
-        return before .. "YOUR_CLASS" .. after
+    while s do
+        result = result .. string.sub(text, lastPos, s - 1) .. "YOUR_CLASS"
+        lastPos = e + 1
+        s, e = string.find(lowerText, classLower, lastPos, true)
     end
     
-    return text
+    result = result .. string.sub(text, lastPos)
+    return result
 end
 
 -------------------------------------------------------------------------------

@@ -1458,5 +1458,9 @@ QuestTranslator_BookData = {
 	["Tinkee's Letter"] = {
     	["Title"] = "Tinkee'nin Mektubu",
     	["Text"] = "Selam Felnok!NEW_LINEYakıcı Bozkırlar'daki çalışmalarım harika ilerliyor. Ve yaptığı tüm yardımlar için Barbar'a çok şey borçluyum! Devam edebilmem için ihtiyacım olanlar şunlar:NEW_LINEBir adet çelik sarmal tampon-ingiliz anahtarıNEW_LINEBir adet 17 numara buz anahtarıNEW_LINE12 libre ördek tüyüNEW_LINEYaptığın o yapıştırıcıdan bir kavanozNEW_LINEÇok teşekkürler Felnok, tekrar görüştüğümüzde çizmelerine kömür koymamamı bana hatırlat!NEW_LINE-Tinkee"
+	},
+	["Bolvar's Decree"] = {
+    	["Title"] = "Bolvar'ın Fermanı",
+    	["Text"] = "Solomon,NEW_LINEBu fermanı taşıyan kişiye Fırtınarüzgarı'nın vekil temsilcisi olarak resmi statü verilmiştir. Siyah Ejderhasoyu'nun Karakaya Orkları ile olan ilişkisine dair kanıt bulmak için kendisini kullanabilirsin. Eğer böyle bir kanıt bulunursa, söz konusu temsilci bu kanıtı Fırtınarüzgarı'nda bana geri getirecektir; o zaman Gölkasabası'na yardım etmek üzere yeterli askeri gücü sevk etme emrini çıkaracağım.NEW_LINESaygılarımla,NEW_LINEYüce Derebeyi Bolvar Fordragon"
 	}
 }
