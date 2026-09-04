@@ -73,72 +73,53 @@ local function NormalizeText(str)
     str = string.gsub(str, "|c%x%x%x%x%x%x%x%x", "")
     str = string.gsub(str, "|r", "")
 
-    -- YENİ VE GELİŞMİŞ: Tüm $g varyasyonlarını (boşluklu, noktalı virgülsüz) yakala
+    -- 2. Cinsiyet etiketlerini çöz (Tüm $g varyasyonları)
     local sex = UnitSex("player")
     str = string.gsub(str, "%$[gG]%s*([^%s:;%p]+)%s*:%s*([^%s:;%p]+)%s*;?", function(maleWord, femaleWord)
         return (sex == 3) and femaleWord or maleWord
     end)
 
-    -- 2. WoW DB Satır Başı ve Diğer Etiketleri Temizle
-    str = string.gsub(str, "%$[bB]", "")
-    str = string.gsub(str, "%$[nN]", "")
-    str = string.gsub(str, "%$[cC]", "")
-    str = string.gsub(str, "%$[rR]", "")
-
-    -- 3. Tipografik/akıllı tırnak işaretlerini standart tırnağa dönüştür
-    str = string.gsub(str, "’", "'")
-    str = string.gsub(str, "‘", "'")
-    str = string.gsub(str, "`", "'")
+    -- 3. WoW DB Satır Başı ve Değişken Etiketlerini Temizle ($B, $N, $C, $R vb.)
+    str = string.gsub(str, "%$[a-zA-Z]", "")
     
     -- 4. Hepsini küçük harfe çevir
     str = string.lower(str)
     
-    -- 5. Tüm boşlukları, satır başlarını (\n, \r) ve kontrol karakterlerini sil
-    str = string.gsub(str, "[%s%c]", "")
+    -- 5. NÜKLEER SEÇENEK: Sadece harfler ve rakamlar kalsın!
+    -- Tüm boşluklar, görünmez karakterler ve noktalama işaretleri silinir.
+    str = string.gsub(str, "[^a-z0-9]", "")
     
     return str
 end
 
-
--- Metindeki oyuncu adını YOUR_NAME ile değiştiren yardımcı fonksiyon
+-- Metindeki oyuncu adını, kelime bütünlüğünü koruyarak değiştiren fonksiyon
 local function ReplaceNameWithTag(text, nameLower)
     if not text or nameLower == "" then return text end
-    
-    local lowerText = string.lower(text)
-    local result = ""
-    local lastPos = 1
-    local s, e = string.find(lowerText, nameLower, 1, true)
-    
-    while s do
-        -- Bulunan yere kadar olan kısmı ve YOUR_NAME etiketini sonuca ekle
-        result = result .. string.sub(text, lastPos, s - 1) .. "YOUR_NAME"
-        lastPos = e + 1
-        -- Kalan metinde aramaya devam et
-        s, e = string.find(lowerText, nameLower, lastPos, true)
-    end
-    
-    -- Kalan kısmı da sonuca ekle
-    result = result .. string.sub(text, lastPos)
-    return result
+    local paddedText = " " .. string.lower(text) .. " "
+    local pattern = "(%A)" .. nameLower .. "(%A)"
+    paddedText = string.gsub(paddedText, pattern, "%1YOUR_NAME%2")
+    paddedText = string.gsub(paddedText, pattern, "%1YOUR_NAME%2")
+    return string.sub(paddedText, 2, -2)
 end
 
--- Metindeki ingilizce sınıf adını (hunter vb.) YOUR_CLASS ile değiştiren yardımcı fonksiyon
+-- Metindeki ingilizce sınıf adını, kelime bütünlüğünü koruyarak değiştiren fonksiyon
 local function ReplaceClassWithTag(text, classLower)
     if not text or classLower == "" then return text end
-    
-    local lowerText = string.lower(text)
-    local result = ""
-    local lastPos = 1
-    local s, e = string.find(lowerText, classLower, 1, true)
-    
-    while s do
-        result = result .. string.sub(text, lastPos, s - 1) .. "YOUR_CLASS"
-        lastPos = e + 1
-        s, e = string.find(lowerText, classLower, lastPos, true)
-    end
-    
-    result = result .. string.sub(text, lastPos)
-    return result
+    local paddedText = " " .. string.lower(text) .. " "
+    local pattern = "(%A)" .. classLower .. "(%A)"
+    paddedText = string.gsub(paddedText, pattern, "%1YOUR_CLASS%2")
+    paddedText = string.gsub(paddedText, pattern, "%1YOUR_CLASS%2")
+    return string.sub(paddedText, 2, -2)
+end
+
+-- Metindeki ingilizce ırk adını, kelime bütünlüğünü koruyarak değiştiren fonksiyon
+local function ReplaceRaceWithTag(text, raceLower)
+    if not text or raceLower == "" then return text end
+    local paddedText = " " .. string.lower(text) .. " "
+    local pattern = "(%A)" .. raceLower .. "(%A)"
+    paddedText = string.gsub(paddedText, pattern, "%1YOUR_RACE%2")
+    paddedText = string.gsub(paddedText, pattern, "%1YOUR_RACE%2")
+    return string.sub(paddedText, 2, -2)
 end
 
 -------------------------------------------------------------------------------
@@ -181,10 +162,12 @@ local function ApplyGossipTranslations()
         local rawNormalized = NormalizeText(rawGreetingText)
         local trText = GossipCache[rawNormalized]
         
-        -- 2. ADIM: Orijinal haliyle eşleşme yoksa (DB'de YOUR_NAME/CLASS kullanılmış olabilir), etiketli halini arayalım
+        -- 2. ADIM: Orijinal haliyle eşleşme yoksa (DB'de YOUR_NAME/CLASS/RACE kullanılmış olabilir), etiketli halini arayalım
         if not trText then
             local textWithTag = ReplaceNameWithTag(rawGreetingText, playerNameLower)
             textWithTag = ReplaceClassWithTag(textWithTag, currentClassLower)
+            textWithTag = ReplaceRaceWithTag(textWithTag, localizedRaceLower)
+            
             local targetNormalized = NormalizeText(textWithTag)
             trText = GossipCache[targetNormalized]
         end
@@ -197,6 +180,12 @@ local function ApplyGossipTranslations()
             local finalTrText = string.gsub(trText, "YOUR_NAME", playerName or "")
             finalTrText = string.gsub(finalTrText, "YOUR_CLASS", trClass)
             finalTrText = string.gsub(finalTrText, "YOUR_RACE", trRace)
+            
+            -- Türkçe çeviride $g kullanılmışsa onu da cinsiyete göre ekrana bas
+            local sex = UnitSex("player")
+            finalTrText = string.gsub(finalTrText, "%$[gG]%s*([^%s:;%p]+)%s*:%s*([^%s:;%p]+)%s*;?", function(maleWord, femaleWord)
+                return (sex == 3) and femaleWord or maleWord
+            end)
             
             GossipGreetingText:SetText(finalTrText);
         end
@@ -215,12 +204,27 @@ local function ApplyGossipTranslations()
                 if not trOpt then
                     local btnWithTag = ReplaceNameWithTag(currentText, playerNameLower)
                     btnWithTag = ReplaceClassWithTag(btnWithTag, currentClassLower)
+                    btnWithTag = ReplaceRaceWithTag(btnWithTag, localizedRaceLower)
+                    
                     local targetBtnNormalized = NormalizeText(btnWithTag)
                     trOpt = GossipCache[targetBtnNormalized]
                 end
                 
                 if trOpt then
-                    button:SetText(trOpt);
+                    local trClass = classTrNames[currentClassLower] or currentClassLower
+                    local trRace = raceTrNames[systemRace] or raceTrNames[localizedRace] or localizedRace
+                    
+                    local finalTrOpt = string.gsub(trOpt, "YOUR_NAME", playerName or "")
+                    finalTrOpt = string.gsub(finalTrOpt, "YOUR_CLASS", trClass)
+                    finalTrOpt = string.gsub(finalTrOpt, "YOUR_RACE", trRace)
+                    
+                    -- Butonlarda $g etiketleri varsa cinsiyete göre düzenle
+                    local sex = UnitSex("player")
+                    finalTrOpt = string.gsub(finalTrOpt, "%$[gG]%s*([^%s:;%p]+)%s*:%s*([^%s:;%p]+)%s*;?", function(maleWord, femaleWord)
+                        return (sex == 3) and femaleWord or maleWord
+                    end)
+                    
+                    button:SetText(finalTrOpt);
                 end
             end
         end
