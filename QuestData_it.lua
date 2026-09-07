@@ -57786,12 +57786,12 @@ QuestTranslator_QuestData = {
 
     -- Wild Guardians
     -- Trull Failbane -> Trull Felaketyıkımı (MobNpcData.lua)[cite: 1]
-    -- Timbermaw -> Keresteçene
+    -- Timbermaw -> Odunağız
     -- Felwood -> Felwood (ZoneData.lua)
     -- Winterspring -> Kışbeşiği (ZoneData.lua)
     ["4521"] = {
     ["Title"]="Vahşi Muhafızlar",
-    ["Description"]="Kışbeşiği, Felwood'un kuzeydoğusunda, Keresteçene'nin hemen ötesinde yer alır. Orada bulundun mu?\n\nBölgenin vahşicins adı verilen yaratıklarla dolu olduğunu duydum. Bu canavarların sırları koruduğu bilinir; Gece elflerinin sırlarını.\n\nKışbeşiği'nde neyin gizlenmiş olabileceğini çözmeliyiz.\n\nÜstü başı yırtık baykuş ayıların yolun hemen güneyinde bulunabileceğini ve Kışbeşiği'nin merkezinde bulunabilecek öfkeli baykuş ayılar adında başkalarının da olduğunu duydum. Onları temizle ve toprağa erişim sağla.",
+    ["Description"]="Kışbeşiği, Felwood'un kuzeydoğusunda, Odunağız'nin hemen ötesinde yer alır. Orada bulundun mu?\n\nBölgenin vahşicins adı verilen yaratıklarla dolu olduğunu duydum. Bu canavarların sırları koruduğu bilinir; Gece elflerinin sırlarını.\n\nKışbeşiği'nde neyin gizlenmiş olabileceğini çözmeliyiz.\n\nÜstü başı yırtık baykuş ayıların yolun hemen güneyinde bulunabileceğini ve Kışbeşiği'nin merkezinde bulunabilecek öfkeli baykuş ayılar adında başkalarının da olduğunu duydum. Onları temizle ve toprağa erişim sağla.",
     ["Objectives"]="Felwood'daki Trull Felaketyıkımı 15 Öfkeli Baykuş Ayı ve 15 Yırtık Baykuş Ayı öldürmeni istiyor.",
     ["Progress"]="Sana verdiğim görevi tamamladıktan sonra bana rapor ver.",
     ["Completion"]="Bu mükemmel bir haber, YOUR_NAME. Bu canavarlar ortadan kalktığına göre Kışbeşiği'nin daha da derinlerine macera yürütmeye başlayabiliriz. Daha fazlasına hazır mısın?",
@@ -58765,13 +58765,13 @@ QuestTranslator_QuestData = {
     -- Falling to Corruption
     -- Donova -> Donova (MobNpcData.lua)[cite: 1]
     -- Felwood -> Felwood (ZoneData.lua)
-    -- Timbermaw -> Keresteçene
-    -- Timbermaw Hold -> Keresteçene Hisarı
+    -- Timbermaw -> Odunağız
+    -- Timbermaw Hold -> Odunağız Hisarı
     -- Winterfall -> Kışdüşüşü
     -- Deadwood -> Ölüodun
     ["5084"] = {
     ["Title"]="Yozlaşmaya Yenik Düşüş",
-    ["Description"]="Bu yeşilimsi sıvı... Bana Felwood boyunca seyahat ederken gördüğüm çamuru biraz hatırlatıyor. Ve Keresteçene'den geçen bazı Kışdüşüşü Habercileri gördüm... Belki de bu şeylerin bulduğun matarayla bir ilgisi vardır, YOUR_NAME.\n\nKeresteçene Hisarı'nın hemen ötesinde, Felwood'da büyük bir furbolg grubu var. Ölüodun kabilesi olarak adlandırılan bu kabile iblis tarafından yozlaştırıldı ve çıldırtıldı. Neden oraya bakıp Kışdüşüşü ile Ölüodun arasındaki ilişkilere dair bir kanıt bulabilecek misin bir bakmıyorsun?",
+    ["Description"]="Bu yeşilimsi sıvı... Bana Felwood boyunca seyahat ederken gördüğüm çamuru biraz hatırlatıyor. Ve Odunağız'den geçen bazı Kışdüşüşü Habercileri gördüm... Belki de bu şeylerin bulduğun matarayla bir ilgisi vardır, YOUR_NAME.\n\nOdunağız Hisarı'nın hemen ötesinde, Felwood'da büyük bir furbolg grubu var. Ölüodun kabilesi olarak adlandırılan bu kabile iblis tarafından yozlaştırıldı ve çıldırtıldı. Neden oraya bakıp Kışdüşüşü ile Ölüodun arasındaki ilişkilere dair bir kanıt bulabilecek misin bir bakmıyorsun?",
     ["Objectives"]="Kuzey Felwood'daki Ölüodun furbolg ordugahında bir ipucu ara.",
     ["Progress"]="",
     ["Completion"]="Kazanın içinde çürüyen, iğrenç kokulu bir madde köpürüyor...",
@@ -67945,30 +67945,30 @@ QuestTranslator_QuestData = {
     }, -- end Waking Legends
 
     -- Deadwood of the North
-    -- Timbermaw Hold -> Keresteçene Hisarı (ZoneData.lua)
+    -- Timbermaw Hold -> Odunağız Hisarı (ZoneData.lua)
     -- Felwood -> Felwood (ZoneData.lua)
     -- Nafien -> Nafien (MobNpcData.lua)
-    -- Timbermaw -> Keresteçene
+    -- Timbermaw -> Odunağız
     ["8461"] = {
     ["Title"]="Kuzeyin Ölüodun'u",
     ["Description"]="Doğrudan güneybatımızda bir Ölüodun furbolg kampı var. Kampın her yerine yozlaşma nüfuz etmiş durumda ve sorun olmadan buna bir son vermek istiyorum.\n\nÖlüodun kabilesi kötüdür, ancak zihinlerini kirleten felin etkileridir. Düşmanlıkları doğuştan gelen bir nitelik değildir ama yardım da edilemezler. Kendi kardeşlerimizle savaşmak zorunda olmamız beni üzüyor.\n\nLütfen, YOUR_NAME - yapılması gerekeni yapmanı rica ediyorum. Detayları bana verme; bu tür rahatsız edici görüntüler beni çok fazla üzüyor.",
-    ["Objectives"]="Nafien 6 Ölüodun İni Nöbetçisi, 6 Ölüodun İntikamcısı ve 6 Ölüodun Şamanı öldürmeni istiyor. Kuzey Felwood'da, Keresteçene Hisarı girişinin yakınındaki yanına dön.",
-    ["Progress"]="Keresteçene'nin güvenini kazandıktan sonra, senin için yapabileceğimiz bir şey olacağından eminim. Keresteçene müttefiklerini unutmaz, özellikle de böyle karanlık zamanlarda.",
-    ["Completion"]="Zafer elde ettiğini hissediyorum. Zafer... yapılması gerekenler düşünüldüğünde ne kadar da boş bir kelime. Ne olursa olsun, güvenimize layık olduğunu kanıtladın.\n\nKeresteçene'nin seni Hisar içinde düşmanlık duymadan karşılaması biraz zaman alabilir. Yine de azmin, kardeşlerimin senin hakkında duyabileceği her türlü şüpheyi aşındıracaktır. Bize asla ihanet etmediğin ve bize karşı silah kaldırmadığın sürece ortak bir nokta bulacağız.",
+    ["Objectives"]="Nafien 6 Ölüodun İni Nöbetçisi, 6 Ölüodun İntikamcısı ve 6 Ölüodun Şamanı öldürmeni istiyor. Kuzey Felwood'da, Odunağız Hisarı girişinin yakınındaki yanına dön.",
+    ["Progress"]="Odunağız'nin güvenini kazandıktan sonra, senin için yapabileceğimiz bir şey olacağından eminim. Odunağız müttefiklerini unutmaz, özellikle de böyle karanlık zamanlarda.",
+    ["Completion"]="Zafer elde ettiğini hissediyorum. Zafer... yapılması gerekenler düşünüldüğünde ne kadar da boş bir kelime. Ne olursa olsun, güvenimize layık olduğunu kanıtladın.\n\nOdunağız'nin seni Hisar içinde düşmanlık duymadan karşılaması biraz zaman alabilir. Yine de azmin, kardeşlerimin senin hakkında duyabileceği her türlü şüpheyi aşındıracaktır. Bize asla ihanet etmediğin ve bize karşı silah kaldırmadığın sürece ortak bir nokta bulacağız.",
     ["minlevel"]="45",
     ["questlevel"]="55",
     }, -- end Deadwood of the North
 
     -- Speak to Nafien
-    -- Timbermaw -> Keresteçene
-    -- Timbermaw Hold -> Keresteçene Hisarı (ZoneData.lua)
+    -- Timbermaw -> Odunağız
+    -- Timbermaw Hold -> Odunağız Hisarı (ZoneData.lua)
     -- Nafien -> Nafien (MobNpcData.lua)
     ["8462"] = {
     ["Title"]="Nafien ile Konuş",
-    ["Description"]="Belki de biz Keresteçene'nin karşı karşıya olduğu daha büyük bir tehdidin üstesinden gelebilirsin. Burada yetenekli olduğunu kesinlikle gösterdin...\n\nTürümden bir başkası kuzeydeki bu yol boyunca, Keresteçene Hisarı girişinin dışında nöbet tutuyor. Adı Nafien; vahşi ve tatsız bir canavar gibi görünse de ondan korkma. O sadece evimizi tehdit eden kötü güçlere karşı yardım arıyor.",
-    ["Objectives"]="Felwood'daki ana yol boyunca kuzeye seyahat et ve Nafien adındaki furbolg ile konuş. Keresteçene Hisarı girişinin dışında nöbet tutuyor.",
+    ["Description"]="Belki de biz Odunağız'nin karşı karşıya olduğu daha büyük bir tehdidin üstesinden gelebilirsin. Burada yetenekli olduğunu kesinlikle gösterdin...\n\nTürümden bir başkası kuzeydeki bu yol boyunca, Odunağız Hisarı girişinin dışında nöbet tutuyor. Adı Nafien; vahşi ve tatsız bir canavar gibi görünse de ondan korkma. O sadece evimizi tehdit eden kötü güçlere karşı yardım arıyor.",
+    ["Objectives"]="Felwood'daki ana yol boyunca kuzeye seyahat et ve Nafien adındaki furbolg ile konuş. Odunağız Hisarı girişinin dışında nöbet tutuyor.",
     ["Progress"]="",
-    ["Completion"]="Ah... Keresteçene furbolgları ile müttefik olmak isteyen kabilemizden olmayanlar hakkında rüzgardan haberler aldım. Seni karşılıyorum ama kabilemin yabancılara kötü tepki verdiği konusunda uyarılmalısın.\n\nZorlu zamanlardayız ve yalnızca toprakların yozlaşmasına karşı bizimle birlikte savaşmayı seçen... ve kendilerini bize kanıtlayan kişilere güvenebiliriz. Bunu yapmayanlar, Hisar'a girerlerse açık bir düşmanlıkla karşılaşacaklardır.",
+    ["Completion"]="Ah... Odunağız furbolgları ile müttefik olmak isteyen kabilemizden olmayanlar hakkında rüzgardan haberler aldım. Seni karşılıyorum ama kabilemin yabancılara kötü tepki verdiği konusunda uyarılmalısın.\n\nZorlu zamanlardayız ve yalnızca toprakların yozlaşmasına karşı bizimle birlikte savaşmayı seçen... ve kendilerini bize kanıtlayan kişilere güvenebiliriz. Bunu yapmayanlar, Hisar'a girerlerse açık bir düşmanlıkla karşılaşacaklardır.",
     ["minlevel"]="45",
     ["questlevel"]="55",
     }, -- end Speak to Nafien
@@ -67977,27 +67977,27 @@ QuestTranslator_QuestData = {
     -- Winterfall -> Kışdüşüşü
     -- Winterspring -> Kışpınarı (ZoneData.lua)
     -- Salfa -> Salfa (MobNpcData.lua)
-    -- Timbermaw Hold -> Keresteçene Hisarı (ZoneData.lua)
-    -- Timbermaw -> Keresteçene
+    -- Timbermaw Hold -> Odunağız Hisarı (ZoneData.lua)
+    -- Timbermaw -> Odunağız
     -- Felwood -> Felwood (ZoneData.lua)
     ["8465"] = {
     ["Title"]="Salfa ile Konuş",
-    ["Description"]="Yozlaşma tehdidi sadece güneydeki Ölüodun furbolglarından değil, aynı zamanda doğudan ve Kışpınarı'nın Kışdüşüşü furbolglarından da geliyor. Bize daha fazla yardım etmek istiyorsan, Hisar'ın diğer tarafındaki Kışpınarı girişinde bulunan Salfa ile konuş. Ulaşmak için soldaki patikayı takip et.\n\nUyarılmalısın - içerideki türüm seni düşman veya nefret edilen biri olarak görürse saldıracaktır. Çatışmadan kaçınarak olabildiğince hızlı seyahat et. Bir Keresteçene'yi öldürmek -meşru müdafaada bile olsa- seni daha da uzaklaştıracaktır.",
-    ["Objectives"]="Keresteçene Hisarı'ndan geçerek Kışpınarı'na çık. Keresteçene Hisarı girişinin dışında nöbet tutan Salfa ile konuş.",
+    ["Description"]="Yozlaşma tehdidi sadece güneydeki Ölüodun furbolglarından değil, aynı zamanda doğudan ve Kışpınarı'nın Kışdüşüşü furbolglarından da geliyor. Bize daha fazla yardım etmek istiyorsan, Hisar'ın diğer tarafındaki Kışpınarı girişinde bulunan Salfa ile konuş. Ulaşmak için soldaki patikayı takip et.\n\nUyarılmalısın - içerideki türüm seni düşman veya nefret edilen biri olarak görürse saldıracaktır. Çatışmadan kaçınarak olabildiğince hızlı seyahat et. Bir Odunağız'yi öldürmek -meşru müdafaada bile olsa- seni daha da uzaklaştıracaktır.",
+    ["Objectives"]="Odunağız Hisarı'ndan geçerek Kışpınarı'na çık. Odunağız Hisarı girişinin dışında nöbet tutan Salfa ile konuş.",
     ["Progress"]="",
-    ["Completion"]="Selamlar - Buradaki Kışpınarı'ndaki Keresteçene'nin sözcüsü ve kabilenin savunucusu olarak nöbet tutuyorum.\n\nBu dondurucu topraktaki Kışdüşüşü kardeşlerimiz, Felwood furbolglarıyla aynı yozlaştırıcı etki altına girdiler. Keresteçene furbolglarına yardım teklif etmek için geldiysen, böyle bir teklifi kabul etmeye hazırız.",
+    ["Completion"]="Selamlar - Buradaki Kışpınarı'ndaki Odunağız'nin sözcüsü ve kabilenin savunucusu olarak nöbet tutuyorum.\n\nBu dondurucu topraktaki Kışdüşüşü kardeşlerimiz, Felwood furbolglarıyla aynı yozlaştırıcı etki altına girdiler. Odunağız furbolglarına yardım teklif etmek için geldiysen, böyle bir teklifi kabul etmeye hazırız.",
     ["minlevel"]="45",
     ["questlevel"]="55",
     }, -- end Speak to Salfa
 
     -- Feathers for Grazle
     -- Deadwood -> Ölüodun
-    -- Timbermaw -> Keresteçene
+    -- Timbermaw -> Odunağız
     ["8466"] = {
     ["Title"]="Grazle İçin Tüyler",
     ["Description"]="",
     ["Objectives"]="",
-    ["Progress"]="Kendini bana kanıtlamış olsan da, kabilemin şüpheci kardeşlerine kendini kanıtlamak için çalışmaya devam etmen gerekebilir. Bu amaca yönelik olarak sana yardım etmeye devam edebilirim.\n\nÖlüodun furbolglarının bazıları sayılarını azaltmada bir kanıt aracı olarak kullanılabilecek belirgin bir başlık takıyor. Edindiğin her başlıktan bana bir tüy getir; bana getirdiğin her beşli set için Keresteçene arasında tanınma kazanacaksın.",
+    ["Progress"]="Kendini bana kanıtlamış olsan da, kabilemin şüpheci kardeşlerine kendini kanıtlamak için çalışmaya devam etmen gerekebilir. Bu amaca yönelik olarak sana yardım etmeye devam edebilirim.\n\nÖlüodun furbolglarının bazıları sayılarını azaltmada bir kanıt aracı olarak kullanılabilecek belirgin bir başlık takıyor. Edindiğin her başlıktan bana bir tüy getir; bana getirdiğin her beşli set için Odunağız arasında tanınma kazanacaksın.",
     ["Completion"]="Aferin, YOUR_NAME! Yaptıklarının türüm arasında bilinmesini sağlayacağım.\n\nBulduğun tüyleri bana getirmeyi unutma. Gerekli olduğu sürece kabul etmeye devam edeceğim.",
     ["minlevel"]="45",
     ["questlevel"]="55",
@@ -68005,12 +68005,12 @@ QuestTranslator_QuestData = {
 
     -- Beads for Salfa
     -- Winterfall -> Kışdüşüşü
-    -- Timbermaw -> Keresteçene
+    -- Timbermaw -> Odunağız
     ["8469"] = {
     ["Title"]="Salfa İçin Boncuklar",
     ["Description"]="",
     ["Objectives"]="",
-    ["Progress"]="Güvenimi kesinlikle kazandın, YOUR_NAME, ancak güvenmeyen kabileimin güvenini kazanmaya devam etmen gerekebilir. Bu güveni kazanmak için yapabileceğin bir şey var.\n\nKışdüşüşü'nün kötü ruhlardan korunmak için ruh boncukları taşıdığı bilinmektedir. Bu boncuklar amaçlarında açıkça başarısız olmuştur, çünkü Kışdüşüşü'nün kendileri yozlaşmanın ajanlarıdır. Düşmüş Kışdüşüşü furbolglarından bu ruh boncuklarını bana getir; bana getirdiğin her beşli set için Keresteçene arasında tanınma kazanacaksın.",
+    ["Progress"]="Güvenimi kesinlikle kazandın, YOUR_NAME, ancak güvenmeyen kabileimin güvenini kazanmaya devam etmen gerekebilir. Bu güveni kazanmak için yapabileceğin bir şey var.\n\nKışdüşüşü'nün kötü ruhlardan korunmak için ruh boncukları taşıdığı bilinmektedir. Bu boncuklar amaçlarında açıkça başarısız olmuştur, çünkü Kışdüşüşü'nün kendileri yozlaşmanın ajanlarıdır. Düşmüş Kışdüşüşü furbolglarından bu ruh boncuklarını bana getir; bana getirdiğin her beşli set için Odunağız arasında tanınma kazanacaksın.",
     ["Completion"]="Bir kez daha bize onurunu kanıtladın! Yaptıklarının türüm arasında bilinmesini sağlayacağım.\n\nBulduğun Kışdüşüşü boncuklarını bana getirmeyi unutma. Bana getirmeye devam ettiğin her set için kabileye senin adına konuşacağım.",
     ["minlevel"]="50",
     ["questlevel"]="56",
@@ -68018,11 +68018,11 @@ QuestTranslator_QuestData = {
 
     -- Deadwood Ritual Totem
     -- Deadwood -> Ölüodun
-    -- Timbermaw Hold -> Keresteçene Hisarı (ZoneData.lua)
+    -- Timbermaw Hold -> Odunağız Hisarı (ZoneData.lua)
     ["8470"] = {
     ["Title"]="Ölüodun Ritüel Totemi",
-    ["Description"]="Ölüodun furbolg ritüel totemlerinden birini buldun. Totemin kendisi belirsiz bir yapıya sahip ama ondan somut bir çaresizlik hissi yayılıyor. Ölüodun furbolglarının maruz kaldığı yozlaşmayı en iyi simgeleyebilecek herhangi bir nesne olsaydı, bu eşya kesinlikle o olurdu.\n\nKeresteçene Hisarı içindeki furbolglardan birinin böyle bir eşya için bir kullanımı olabilir... tabii seninle konuşacak kadar güvenlerini kazandıysan.",
-    ["Objectives"]="Ölüodun Ritüel Totemi'ni Keresteçene Hisarı içine götür ve oradaki furbolglardan birinin eşyayı kullanıp kullanamayacağını gör. Keresteçene, onlarla Tarafsız veya daha yüksek bir itibara sahip olmadığın sürece seninle konuşmayacaktır.",
+    ["Description"]="Ölüodun furbolg ritüel totemlerinden birini buldun. Totemin kendisi belirsiz bir yapıya sahip ama ondan somut bir çaresizlik hissi yayılıyor. Ölüodun furbolglarının maruz kaldığı yozlaşmayı en iyi simgeleyebilecek herhangi bir nesne olsaydı, bu eşya kesinlikle o olurdu.\n\nOdunağız Hisarı içindeki furbolglardan birinin böyle bir eşya için bir kullanımı olabilir... tabii seninle konuşacak kadar güvenlerini kazandıysan.",
+    ["Objectives"]="Ölüodun Ritüel Totemi'ni Odunağız Hisarı içine götür ve oradaki furbolglardan birinin eşyayı kullanıp kullanamayacağını gör. Odunağız, onlarla Tarafsız veya daha yüksek bir itibara sahip olmadığın sürece seninle konuşmayacaktır.",
     ["Progress"]="Evet, sana nasıl yardımcı olabilirim? Aramızda barış içinde yürüyorsun ama kesinlikle yolunda gitmeyen bir şey var. Bir şey hissediyorum... rahatsız edici bir şey...",
     ["Completion"]="Bu totem... Onu Ölüodun'unkilerden biri olarak tanıyorum ama yoğun bir çürüme kokusu taşıyor. Kardeşlerimizi bize karşı çeviren her ne kötülükse kesinlikle bu nesnede mevcut.\n\nBunu bize getirmekle akıllılık ettin, YOUR_NAME. Belki inceleme ve ritüel yoluyla kardeşlerimizin zihinlerini kirleten şeyin ne olduğunu ortaya çıkarabiliriz. Teşekkür ederim dostum - bulgunun karşılığında lütfen bu adakları kabul et.",
     ["minlevel"]="45",
@@ -68031,11 +68031,11 @@ QuestTranslator_QuestData = {
 
     -- Winterfall Ritual Totem
     -- Winterfall -> Kışdüşüşü
-    -- Timbermaw Hold -> Keresteçene Hisarı (ZoneData.lua)
+    -- Timbermaw Hold -> Odunağız Hisarı (ZoneData.lua)
     ["8471"] = {
     ["Title"]="Kışdüşüşü Ritüel Totemi",
-    ["Description"]="Kışdüşüşü furbolg ritüel totemlerinden birini buldun. Totemin kendisi belirsiz bir yapıya sahip ama neredeyse somut bir dehşet ve çaresizlik hissi yayıyor gibi görünüyor. Kışdüşüşü furbolglarının çoğu gerçekten de bunları taşıyorsa, mevcut durumlarını açıklamada kesinlikle uzun bir yol kat edecektir.\n\nKeresteçene Hisarı içindeki furbolglardan birinin böyle bir eşya için bir kullanımı olabilir... tabii seninle konuşacak kadar güvenlerini kazandıysan.",
-    ["Objectives"]="Kışdüşüşü Ritüel Totemi'ni Keresteçene Hisarı içine götür ve oradaki furbolglardan birinin eşyayı kullanıp kullanamayacağını gör. Keresteçene, onlarla Tarafsız veya daha yüksek bir itibara sahip olmadığın sürece seninle konuşmayacaktır.",
+    ["Description"]="Kışdüşüşü furbolg ritüel totemlerinden birini buldun. Totemin kendisi belirsiz bir yapıya sahip ama neredeyse somut bir dehşet ve çaresizlik hissi yayıyor gibi görünüyor. Kışdüşüşü furbolglarının çoğu gerçekten de bunları taşıyorsa, mevcut durumlarını açıklamada kesinlikle uzun bir yol kat edecektir.\n\nOdunağız Hisarı içindeki furbolglardan birinin böyle bir eşya için bir kullanımı olabilir... tabii seninle konuşacak kadar güvenlerini kazandıysan.",
+    ["Objectives"]="Kışdüşüşü Ritüel Totemi'ni Odunağız Hisarı içine götür ve oradaki furbolglardan birinin eşyayı kullanıp kullanamayacağını gör. Odunağız, onlarla Tarafsız veya daha yüksek bir itibara sahip olmadığın sürece seninle konuşmayacaktır.",
     ["Progress"]="Bize barışçıl bir şekilde yaklaşıyorsun ama hem furbolglar hem de YOUR_RACE için vahim ve ciddi konularda burada olduğunu hissediyorum... Bize ne söylemeye geldin?",
     ["Completion"]="Bu şey... Bir Kışdüşüşü Ritüel Totemi şeklinde ama kavrayamayacağım güçler tarafından çarpıtılmış. Kışdüşüşü'nü bize karşı çeviren leke ne olursa olsun kesinlikle bu nesnede mevcut.\n\nİlahi bilgelik hem bunu hem de seni bize getirdi, YOUR_NAME. Bu nesneyi pür dikkat inceleyeceğiz; belki bir gün Kışdüşüşü artık bize karşı gazap duymayacak.\n\nTeşekkür ederim dostum - hayırseverliğinin karşılığında lütfen bu adakları kabul et.",
     ["minlevel"]="50",
@@ -68047,13 +68047,13 @@ QuestTranslator_QuestData = {
     -- High Chief Winterfall -> Yüksek Şef Kışdüşüşü (MobNpcData.lua)
     -- Essence of Xandivious -> Xandivious Özü
     -- Gorn One Eye -> Tek Göz Gorn (MobNpcData.lua)
-    -- Timbermaw Hold -> Keresteçene Hisarı (ZoneData.lua)
+    -- Timbermaw Hold -> Odunağız Hisarı (ZoneData.lua)
     ["8481"] = {
     ["Title"]="Tüm Kötülüklerin Kökü",
-    ["Description"]="YOUR_NAME, sayende Kışdüşüşü kabilesi için tüm kötülüklerin kökünü -onlara hükmeden yozlaştırıcı iblisi- çağırmanın bir yolunu tasarladık!\n\nBu meşaleyi Yüksek Şef Kışdüşüşü'nün kişisel mağarasının ağzına götür ve oraya dik. Bunu yapmak iblisi ortaya çıkmaya ve incelemeye zorlayacaktır. İşte o zaman sen ve müttefiklerin onu yere sermelisiniz! Yalnızca düşen iblisin özü Kışdüşüşü kabilesinin uzun iyileşme sürecini... ve Keresteçene Hisarı'nın kurtuluşunu başlatacaktır.",
-    ["Objectives"]="İblis Çağırma Meşalesi'ni Kışdüşüşü furbolg köyündeki Yüksek Şef Kışdüşüşü'nün mağarasının ağzına dik. İblisi yen ve Keresteçene Hisarı'ndaki Tek Göz Gorn için Xandivious Özü'nü al.",
+    ["Description"]="YOUR_NAME, sayende Kışdüşüşü kabilesi için tüm kötülüklerin kökünü -onlara hükmeden yozlaştırıcı iblisi- çağırmanın bir yolunu tasarladık!\n\nBu meşaleyi Yüksek Şef Kışdüşüşü'nün kişisel mağarasının ağzına götür ve oraya dik. Bunu yapmak iblisi ortaya çıkmaya ve incelemeye zorlayacaktır. İşte o zaman sen ve müttefiklerin onu yere sermelisiniz! Yalnızca düşen iblisin özü Kışdüşüşü kabilesinin uzun iyileşme sürecini... ve Odunağız Hisarı'nın kurtuluşunu başlatacaktır.",
+    ["Objectives"]="İblis Çağırma Meşalesi'ni Kışdüşüşü furbolg köyündeki Yüksek Şef Kışdüşüşü'nün mağarasının ağzına dik. İblisi yen ve Odunağız Hisarı'ndaki Tek Göz Gorn için Xandivious Özü'nü al.",
     ["Progress"]="Bize geri döndün, YOUR_NAME... bu iblisin katledildiği anlamına mı geliyor?",
-    ["Completion"]="Sen... bizi kurtardın! İblis Xandivious'u yenmen, Keresteçene Hisarı'nın yıllar boyunca güvenliğini sağladı. Türümüz arasında gerçekten bir kahramansın.\n\nLütfen bunu kutsamamızla kabul et. İyileşme süreci furbolglar arasında yavaş olacak olsa da -ve çatışma hala devam edecek olsa da- Kışdüşüşü'ne bugün öncesinde hiç sahip olmadıkları bir şey verdin.\n\nHayatta kalma şansları var.",
+    ["Completion"]="Sen... bizi kurtardın! İblis Xandivious'u yenmen, Odunağız Hisarı'nın yıllar boyunca güvenliğini sağladı. Türümüz arasında gerçekten bir kahramansın.\n\nLütfen bunu kutsamamızla kabul et. İyileşme süreci furbolglar arasında yavaş olacak olsa da -ve çatışma hala devam edecek olsa da- Kışdüşüşü'ne bugün öncesinde hiç sahip olmadıkları bir şey verdin.\n\nHayatta kalma şansları var.",
     ["minlevel"]="45",
     ["questlevel"]="60",
     }, -- end The Root of All Evil
@@ -68063,11 +68063,11 @@ QuestTranslator_QuestData = {
     -- King Magni Bronzebeard -> Kral Magni Tunçsakal (MobNpcData.lua)
     -- Kalimdor -> Kalimdor (ZoneData.lua)
     -- Night Elves -> Gece Elfleri
-    -- Timbermaw -> Keresteçene
+    -- Timbermaw -> Odunağız
     ["8484"] = {
     ["Title"]="Barışın Sağlanması",
     ["Description"]="Yaptıkların basit bir kahraman hikayesinin ötesine geçiyor, YOUR_NAME. Halkının bir temsilcisiysen, halkın barış yapmak için çalışacağımız kişilerden oluşuyor demektir.\n\nLütfen - bu adağı demirden bir dağda oturan cüce krala götür; sanırım bu şehre Demirörs diyorsunuz. Geçmiş zamanlarda, İttifak'ı adına bizimle temas kurmaya çalışmıştı. İttifak'ınızın barış sağlama çabalarında sizi anahtar olarak kabul etmek son derece uygundur.",
-    ["Objectives"]="Keresteçene Barış Adağı'nı Demirörs'teki Kral Magni Tunçsakal'a götür.",
+    ["Objectives"]="Odunağız Barış Adağı'nı Demirörs'teki Kral Magni Tunçsakal'a götür.",
     ["Progress"]="Bölgeme hoş geldin. Demirörs senin gibi bir kahramana her zaman bir ev olarak görülmelidir. Şimdi benimle ne işin var?",
     ["Completion"]="Gerçekten de bu son derece talihli bir olaylar silsilesi. Bu yaratıklarla kalıcı bir barış yapılsa, bu kesinlikle Kalimdor'un işlerinde bize bir avantaj sağlar... Gece Elfleri'nin tek başlarına destekleyemeyeceği bir avantaj. İttifak'ın diğer liderlerine derhal haber vereceğim ve daha fazla diplomat sevk edilecek!\n\nSana gelince, YOUR_NAME... hem diplomaside hem de eylemde cesaret gösterdin. Bütün İttifak adına sana teşekkür ederim.",
     ["minlevel"]="45",
@@ -78676,7 +78676,7 @@ QuestTranslator_QuestData = {
 ["41898"] = {
     ["Title"]="Çarpık İlişkiler",
     ["Description"]="Bu yemyeşil tepeler bir zamanlar Timbermaw ve müttefikimiz Siyahkök'ün (Blackroot) ticaret yaptığı ve büyük törenler düzenlediği dostane bir yerdi.NEW_LINENEW_LINEYanan Lejyon (Burning Legion) Azeroth'a geri döndüğünden beri, eski müttefiklerimiz çılgınlığa sürüklendi ve şimdi tepelerde ve tarlalarda sinsice geziyorlar. Kendilerini deliliğe kaybettiler ve artık onlarla mantıklı konuşulamaz.NEW_LINENEW_LINETimbermaw'u güvende tutmak için türümüzün devam etmesi adına ne gerekiyorsa yapmanı, burada kalan yozlaşmayı ayıklamanı istemeliyim. Liderleri Grawlsh'ı ve onun çarpık soyunu katlet.",
-    ["Objectives"]="Ayfısıltısı Kıyısı'nın (Moonwhisper Coast) güney ucundaki Keresteçene Tutamağı (Timbermaw Hold) girişinde bulunan Raghol için 8 Siyahkök Savaşçısı, 8 Siyahkök Şamanı, 8 Siyahkök Ursası ve Çılgın Grawlsh'ı katlet.",
+    ["Objectives"]="Ayfısıltısı Kıyısı'nın (Moonwhisper Coast) güney ucundaki Odunağız Tutamağı (Timbermaw Hold) girişinde bulunan Raghol için 8 Siyahkök Savaşçısı, 8 Siyahkök Şamanı, 8 Siyahkök Ursası ve Çılgın Grawlsh'ı katlet.",
     ["Progress"]="Yozlaşmanın kökü kazındı mı?",
     ["Completion"]="Böyle şeyler istemek beni üzüyor... Siyahkök bir zamanlar dostlarımız ve en sevgili müttefiklerimizdi. Tanıdık yüzlere bakıp dostları görmek ne kadar acı verse de, artık kalplerini kavrayan kötülükten kurtulduklarını bilmek güzel. Timbermaw'u gururlandırdın ve bunun için ödüllendirileceksin dostum.",
     ["minlevel"]="48",
@@ -78686,7 +78686,7 @@ QuestTranslator_QuestData = {
 ["41899"] = {
     ["Title"]="Siyahkök Totemleri",
     ["Description"]="Sana görev vermeye geldim, ben büyük görev veren, ben furbolg.",
-    ["Objectives"]="Güney Ayfısıltısı Kıyısı'ndaki Keresteçene Tutamağı (Timbermaw Hold) Girişi'nde bulunan Raghol için yerel Siyahkök Furbolg'larından 10 Siyahkök Totemi topla.",
+    ["Objectives"]="Güney Ayfısıltısı Kıyısı'ndaki Odunağız Tutamağı (Timbermaw Hold) Girişi'nde bulunan Raghol için yerel Siyahkök Furbolg'larından 10 Siyahkök Totemi topla.",
     ["Progress"]="Siyahkök ile barış olamaz, deliliğe döndüklerinden beri mahvımızı aradılar. Timbermaw'un sevgisini kazanmak istiyorsan, belki onlar adına bizim için savaşabilirsin. Kutsal saydıkları totemlerden on tanesini topla, eylemlerini bu şekilde takip edeceğim.",
     ["Completion"]="Yozlaşmanın daha fazlası temizlendi. Katledilen her Siyahkök, ırkımızın bizi bu kadar ağır bir şekilde lanetleyen faul kirlilikten arınmasına bir adım daha yaklaşmaktır. Timbermaw çabaların için minnettardır.",
     ["minlevel"]="48",
@@ -78696,9 +78696,9 @@ QuestTranslator_QuestData = {
 ["41900"] = {
     ["Title"]="Huzur Sapta'sı",
     ["Description"]="En kutsal Sapta'larımız benim ellerimde ve onları nasıl yapacağını bilen tek kişi benim. Sapta'larımdan birini arzuluyorsan bana gerekli malzemeleri getir, senin olsun!",
-    ["Objectives"]="Azshara'daki Grathnol için 1 Keresteçene Özsuyu ve 1 Elementer Hava getir.",
+    ["Objectives"]="Azshara'daki Grathnol için 1 Odunağız Özsuyu ve 1 Elementer Hava getir.",
     ["Progress"]="İlgime layık olduğunu kanıtladın ve bunun için sana en değerli tariflerime erişim hakkı tanıyacağım. Bana gerekli malzemeleri getir, seni buna göre ödüllendireyim.",
-    ["Completion"]="İşte, halkımın yaratımı, harika Huzur Sapta'sı. Hız ve zarafetle hareketlere rehberlik edebilir. Keresteçene Özsuyu'nun tam özü gücümüzle aşılandı ve bu dünyada sahip olduğumuz nimetleri bize verdi.NEW_LINENEW_LINEKabilemize yardım etme çabaların sana en geleneksel Sapta'mızın hakkını kazandırdı.",
+    ["Completion"]="İşte, halkımın yaratımı, harika Huzur Sapta'sı. Hız ve zarafetle hareketlere rehberlik edebilir. Odunağız Özsuyu'nun tam özü gücümüzle aşılandı ve bu dünyada sahip olduğumuz nimetleri bize verdi.NEW_LINENEW_LINEKabilemize yardım etme çabaların sana en geleneksel Sapta'mızın hakkını kazandırdı.",
     ["minlevel"]="55",
     ["questlevel"]="60"
 },
@@ -78706,9 +78706,9 @@ QuestTranslator_QuestData = {
 ["41901"] = {
     ["Title"]="Komünyon Sapta'sı",
     ["Description"]="En kutsal Sapta'larımız benim ellerimde ve onları nasıl yapacağını bilen tek kişi benim. Sapta'larımdan birini arzuluyorsan bana gerekli malzemeleri getir, senin olsun!",
-    ["Objectives"]="Azshara'daki Grathnol için 1 Keresteçene Özsuyu ve 1 Buzörtüsü (Icecap) getir.",
+    ["Objectives"]="Azshara'daki Grathnol için 1 Odunağız Özsuyu ve 1 Buzörtüsü (Icecap) getir.",
     ["Progress"]="İlgime layık olduğunu kanıtladın ve bunun için sana en değerli tariflerime erişim hakkı tanıyacağım. Bana gerekli malzemeleri getir, seni buna göre ödüllendireyim.",
-    ["Completion"]="İşte, halkımın yaratımı, harika Komünyon Sapta'sı. Rehberlik aramak için doğal dünyaya karşı direnci güçlendirebilir. Keresteçene Özsuyu'nun tam özü gücümüzle aşılandı ve bu dünyada sahip olduğumuz nimetleri bize verdi.NEW_LINENEW_LINEKabilemize yardım etme çabaların sana en geleneksel Sapta'mızın hakkını kazandırdı.",
+    ["Completion"]="İşte, halkımın yaratımı, harika Komünyon Sapta'sı. Rehberlik aramak için doğal dünyaya karşı direnci güçlendirebilir. Odunağız Özsuyu'nun tam özü gücümüzle aşılandı ve bu dünyada sahip olduğumuz nimetleri bize verdi.NEW_LINENEW_LINEKabilemize yardım etme çabaların sana en geleneksel Sapta'mızın hakkını kazandırdı.",
     ["minlevel"]="55",
     ["questlevel"]="60"
 },
@@ -78716,9 +78716,9 @@ QuestTranslator_QuestData = {
 ["41902"] = {
     ["Title"]="Uyum Sapta'sı",
     ["Description"]="En kutsal Sapta'larımız benim ellerimde ve onları nasıl yapacağını bilen tek kişi benim. Sapta'larımdan birini arzuluyorsan bana gerekli malzemeleri getir, senin olsun!",
-    ["Objectives"]="Azshara'daki Grathnol için 1 Keresteçene Özsuyu ve 1 Yabanın Kalbi (Heart of the Wild) getir.",
+    ["Objectives"]="Azshara'daki Grathnol için 1 Odunağız Özsuyu ve 1 Yabanın Kalbi (Heart of the Wild) getir.",
     ["Progress"]="İlgime layık olduğunu kanıtladın ve bunun için sana en değerli tariflerime erişim hakkı tanıyacağım. Bana gerekli malzemeleri getir, seni buna göre ödüllendireyim.",
-    ["Completion"]="İşte, halkımın yaratımı, harika Uyum Sapta'sı. Doğanın köklerini güçlendirebilir ve cesaretlendirebilir. Keresteçene Özsuyu'nun tam özü gücümüzle aşılandı ve bu dünyada sahip olduğumuz nimetleri bize verdi.NEW_LINENEW_LINEKabilemize yardım etme çabaların sana en geleneksel Sapta'mızın hakkını kazandırdı.",
+    ["Completion"]="İşte, halkımın yaratımı, harika Uyum Sapta'sı. Doğanın köklerini güçlendirebilir ve cesaretlendirebilir. Odunağız Özsuyu'nun tam özü gücümüzle aşılandı ve bu dünyada sahip olduğumuz nimetleri bize verdi.NEW_LINENEW_LINEKabilemize yardım etme çabaların sana en geleneksel Sapta'mızın hakkını kazandırdı.",
     ["minlevel"]="55",
     ["questlevel"]="60"
 },
@@ -78726,9 +78726,9 @@ QuestTranslator_QuestData = {
 ["41903"] = {
     ["Title"]="Arabalık Sapta'sı",
     ["Description"]="En kutsal Sapta'larımız benim ellerimde ve onları nasıl yapacağını bilen tek kişi benim. Sapta'larımdan birini arzuluyorsan bana gerekli malzemeleri getir, senin olsun!",
-    ["Objectives"]="Azshara'daki Grathnol için 1 Keresteçene Özsuyu ve 1 Güneşotu (Sungrass) getir.",
+    ["Objectives"]="Azshara'daki Grathnol için 1 Odunağız Özsuyu ve 1 Güneşotu (Sungrass) getir.",
     ["Progress"]="İlgime layık olduğunu kanıtladın ve bunun için sana en değerli tariflerime erişim hakkı tanıyacağım. Bana gerekli malzemeleri getir, seni buna göre ödüllendireyim.",
-    ["Completion"]="İşte, halkımın yaratımı, harika Akrabalık Sapta'sı. En kırık ruhları yeniden canlandırabilir ve morali yükseltebilir. Keresteçene Özsuyu'nun tam özü gücümüzle aşılandı ve bu dünyada sahip olduğumuz nimetleri bize verdi.NEW_LINENEW_LINEKabilemize yardım etme çabaların sana en geleneksel Sapta'mızın hakkını kazandırdı.",
+    ["Completion"]="İşte, halkımın yaratımı, harika Akrabalık Sapta'sı. En kırık ruhları yeniden canlandırabilir ve morali yükseltebilir. Odunağız Özsuyu'nun tam özü gücümüzle aşılandı ve bu dünyada sahip olduğumuz nimetleri bize verdi.NEW_LINENEW_LINEKabilemize yardım etme çabaların sana en geleneksel Sapta'mızın hakkını kazandırdı.",
     ["minlevel"]="55",
     ["questlevel"]="60"
 },
@@ -78736,9 +78736,9 @@ QuestTranslator_QuestData = {
 ["41904"] = {
     ["Title"]="Dayanıklılık Sapta'sı",
     ["Description"]="En kutsal Sapta'larımız benim ellerimde ve onları nasıl yapacağını bilen tek kişi benim. Sapta'larımdan birini arzuluyorsan bana gerekli malzemeleri getir, senin olsun!",
-    ["Objectives"]="Azshara'daki Grathnol için 1 Keresteçene Özsuyu ve 1 Ölümsüzlük Özü (Essence of Undeath) getir.",
+    ["Objectives"]="Azshara'daki Grathnol için 1 Odunağız Özsuyu ve 1 Ölümsüzlük Özü (Essence of Undeath) getir.",
     ["Progress"]="İlgime layık olduğunu kanıtladın ve bunun için sana en değerli tariflerime erişim hakkı tanıyacağım. Bana gerekli malzemeleri getir, seni buna göre ödüllendireyim.",
-    ["Completion"]="İşte, halkımın yaratımı, harika Dayanıklılık Sapta'sı. Ormanların derinliklerinde ikamet eden yozlaşmaya ve zehire karşı koruma sunabilir. Keresteçene Özsuyu'nun tam özü gücümüzle aşılandı ve bu dünyada sahip olduğumuz nimetleri bize verdi.NEW_LINENEW_LINEKabilemize yardım etme çabaların sana en geleneksel Sapta'mızın hakkını kazandırdı.",
+    ["Completion"]="İşte, halkımın yaratımı, harika Dayanıklılık Sapta'sı. Ormanların derinliklerinde ikamet eden yozlaşmaya ve zehire karşı koruma sunabilir. Odunağız Özsuyu'nun tam özü gücümüzle aşılandı ve bu dünyada sahip olduğumuz nimetleri bize verdi.NEW_LINENEW_LINEKabilemize yardım etme çabaların sana en geleneksel Sapta'mızın hakkını kazandırdı.",
     ["minlevel"]="55",
     ["questlevel"]="60"
 },
@@ -78995,18 +78995,18 @@ QuestTranslator_QuestData = {
 
 ["41930"] = {
     ["Title"]="Inanç Kanıtı",
-    ["Description"]="Ursolan'ın kalan Keresteçene'lerinin (Timbermaw) konuşmacısı Karanlık Narkogg'un önünde duruyorsun. Kardeşlerim ve ben parçalandık ve yok olmanın eşiğindeyiz. Keresteçene Tutamağı'nın (Timbermaw Hold) üzerine karanlık çöktü ve kapılarından sızan yozlaşma dalgası karşısında çaresiziz. Pisliğini üzerimizden atmayı umuyorsak, müttefiklere çaresizce ihtiyacımız var. Sen ve türün çabamızda bize yardım edecek olanlar mısınız? Bunun için kanıta ihtiyacım var.NEW_LINENEW_LINEEski evimizin tünellerine gir ve geçidi yar. Muhafız Karrsh'ı katlet; bir zamanlar gururlu bir savunucuydu, şimdi kan dışında hiçbir şey aramayan çıldırmış bir vahşi. Dehşet saçmasının durdurulması gerekiyor.",
-    ["Objectives"]="Azshara'daki Ursoc'un Boğazı'nda bulunan Karanlık Narkogg'a, Keresteçene Tutamağı'ndaki Muhafız Karrsh'ı katlettiğinin kanıtını sun.",
-    ["Progress"]="Keresteçene Tutamağı'ndan kaçalı uzun zaman olmamış olabilir ama içerideki dehşetler ışık hızıyla gelişiyor. İçeride ne tür iğrenç yaratıklarla karşılaşacağını kim bilir?",
+    ["Description"]="Ursolan'ın kalan Odunağız'lerinin (Timbermaw) konuşmacısı Karanlık Narkogg'un önünde duruyorsun. Kardeşlerim ve ben parçalandık ve yok olmanın eşiğindeyiz. Odunağız Tutamağı'nın (Timbermaw Hold) üzerine karanlık çöktü ve kapılarından sızan yozlaşma dalgası karşısında çaresiziz. Pisliğini üzerimizden atmayı umuyorsak, müttefiklere çaresizce ihtiyacımız var. Sen ve türün çabamızda bize yardım edecek olanlar mısınız? Bunun için kanıta ihtiyacım var.NEW_LINENEW_LINEEski evimizin tünellerine gir ve geçidi yar. Muhafız Karrsh'ı katlet; bir zamanlar gururlu bir savunucuydu, şimdi kan dışında hiçbir şey aramayan çıldırmış bir vahşi. Dehşet saçmasının durdurulması gerekiyor.",
+    ["Objectives"]="Azshara'daki Ursoc'un Boğazı'nda bulunan Karanlık Narkogg'a, Odunağız Tutamağı'ndaki Muhafız Karrsh'ı katlettiğinin kanıtını sun.",
+    ["Progress"]="Odunağız Tutamağı'ndan kaçalı uzun zaman olmamış olabilir ama içerideki dehşetler ışık hızıyla gelişiyor. İçeride ne tür iğrenç yaratıklarla karşılaşacağını kim bilir?",
     ["Completion"]="Karrsh'ın kolyesiyle döndün. Onun ölümü pişmanlık verici ve beni derin bir şekilde üzüyor. Bir esneklik ve güç fenerinin bu kadar kısa sürede çürüyüp gitmesini görmek korkunç. Onu acısından kurtardığın için teşekkür ederim.",
     ["minlevel"]="60",
     ["questlevel"]="60"
 },
 
 ["41931"] = {
-    ["Title"]="Keresteçene Tutamağı'nın Yozlaşması",
-    ["Description"]="Yaban üzerindeki nöbetimiz her zaman kadimdi, ancak Yanan Lejyon'un (Burning Legion) ikinci işgalinden beri en kutsal mabedimizin içinde faul bir hastalık çimleniyor. Kabiledaşlarımız birer birer aşağılık etkiye yenik düştü. Şimdi sadece biz kaldık ve Keresteçene Tutamağı'nı (Timbermaw Hold) kötülüğün pençelerinden kurtarmak bize düşüyor. Evimizi temelli temizleyebilmemiz için önce neyle karşı karşıya olduğumuzu anlamamız gerekiyor. Onu mağaraların içinde incelemek çok tehlikeli, bu yüzden yerine bir ikame bulmamız gerekiyor.NEW_LINENEW_LINEKeresteçene Tutamağı'na dön ve yanlış yola sapmış şamanların totemlerini topla, onlarla halkıma musallat olan rahatsızlıkla savaşmanın bir yolunu bulabiliriz.",
-    ["Objectives"]="Keresteçene Tutamağı içindeki Solukçene Şamanlarından (Withermaw Shaman) Solukçene Totemleri topla ve onları Azshara'daki Ursoc'un Boğazı'nda bulunan Karanlık Narkogg'a getir.",
+    ["Title"]="Odunağız Tutamağı'nın Yozlaşması",
+    ["Description"]="Yaban üzerindeki nöbetimiz her zaman kadimdi, ancak Yanan Lejyon'un (Burning Legion) ikinci işgalinden beri en kutsal mabedimizin içinde faul bir hastalık çimleniyor. Kabiledaşlarımız birer birer aşağılık etkiye yenik düştü. Şimdi sadece biz kaldık ve Odunağız Tutamağı'nı (Timbermaw Hold) kötülüğün pençelerinden kurtarmak bize düşüyor. Evimizi temelli temizleyebilmemiz için önce neyle karşı karşıya olduğumuzu anlamamız gerekiyor. Onu mağaraların içinde incelemek çok tehlikeli, bu yüzden yerine bir ikame bulmamız gerekiyor.NEW_LINENEW_LINEOdunağız Tutamağı'na dön ve yanlış yola sapmış şamanların totemlerini topla, onlarla halkıma musallat olan rahatsızlıkla savaşmanın bir yolunu bulabiliriz.",
+    ["Objectives"]="Odunağız Tutamağı içindeki Solukçene Şamanlarından (Withermaw Shaman) Solukçene Totemleri topla ve onları Azshara'daki Ursoc'un Boğazı'nda bulunan Karanlık Narkogg'a getir.",
     ["Progress"]="Solukçene içinde toplanan öngörülemeyen güç; yeni buldukları güç vücutları için fazla geldi ve parçalanmalarına neden oldu.",
     ["Completion"]="Bu totemler beklediğimden daha kötü. Salıverdikleri dumanlar dayanılmaz ve sadece dokunmak bile pençelerimde yanık izleri bırakıyor. Onlarla düzgünce ilgilenebilmemiz için mühürlemem gerekecek.",
     ["minlevel"]="60",
@@ -79025,20 +79025,20 @@ QuestTranslator_QuestData = {
 
 ["41933"] = {
     ["Title"]="Dizginlenemeyen Karanlık",
-    ["Description"]="Görünüşe göre Solukçene'yi küçümsemişim. Bu totemleri ele geçiren her ne ise sadece iblis kökenli değil. Bunların üzerindeki laneti kırmak için elimizdekilerin yeterli olmamasından korkuyorum.NEW_LINENEW_LINE$n, başarılı olmak istiyorsak Keresteçene Tutamağı'na (Timbermaw Hold) bir kez daha girmemiz gerekiyor. Keresteçene Köyü'nün derinliklerinde Rüyalar Oyuğu yatıyor. Eskiden ruhanilerimiz tarafından Zümrüt Rüya (Emerald Dream) ile komünyon için kullanılan yer, şimdi meşum bir miyazmaya ev sahipliği yapıyor. Eski evimizden kaçtığımızda ilaç kesemi orada terk ettim. Daha uygun bir büyü yapmak için içindeki araca ihtiyacım var. Ayrıca Keresteçene Tutamağı içinde bulunan kirlilikten bir numune. Merheme karıştırıldığında totemlerin içindeki bedduaya panzehir görevi görecek. Kesinlikle içindeki su yolları boyunca bulunan birçok çatlakta böyle bir numune bulacaksın.",
-    ["Objectives"]="Azshara'daki Ursoc'un Boğazı'nda bulunan Karanlık Narkogg için Narkogg'un İlaç Kesesi'ni ve Keresteçene Tutamağı içinden Çürük Çiçek'i ele geçir.",
-    ["Progress"]="Keresteçene Köyü ağır bir şekilde korunuyor olacak. En iyi şekilde hazırlan, çünkü Solukçene tüm ahlakı terk etti.",
-    ["Completion"]="Ne iğrenç bir yaratım. Harika mabedimizin içindeki yaşamın her dakika çürüdüğünün daha fazla kanıtı. Yine de bir amaca hizmet ediyor. Timbermaw'un zalim failler tarafından bizden koparılan şeyi geri almasının yolunu açacak. Şimdi kutsal totemlerimizi temizleyecek kadar güçlü bir merhem hazırlayabilirim.NEW_LINENEW_LINE$n, bu mütevazı meclis sana minnettarlığını ifade eder. Cesaretin sayesinde Keresteçene Tutamağı'nı arındırmada ilk adımı attık. Bu özü al ve bu kötülük yuvasına yapacağın derin dalışlarda kullan. Yeterince aldığında içerideki engeli kırabilir ve nihayet her şeyin köküne gelebilirsin.",
+    ["Description"]="Görünüşe göre Solukçene'yi küçümsemişim. Bu totemleri ele geçiren her ne ise sadece iblis kökenli değil. Bunların üzerindeki laneti kırmak için elimizdekilerin yeterli olmamasından korkuyorum.NEW_LINENEW_LINE$n, başarılı olmak istiyorsak Odunağız Tutamağı'na (Timbermaw Hold) bir kez daha girmemiz gerekiyor. Odunağız Köyü'nün derinliklerinde Rüyalar Oyuğu yatıyor. Eskiden ruhanilerimiz tarafından Zümrüt Rüya (Emerald Dream) ile komünyon için kullanılan yer, şimdi meşum bir miyazmaya ev sahipliği yapıyor. Eski evimizden kaçtığımızda ilaç kesemi orada terk ettim. Daha uygun bir büyü yapmak için içindeki araca ihtiyacım var. Ayrıca Odunağız Tutamağı içinde bulunan kirlilikten bir numune. Merheme karıştırıldığında totemlerin içindeki bedduaya panzehir görevi görecek. Kesinlikle içindeki su yolları boyunca bulunan birçok çatlakta böyle bir numune bulacaksın.",
+    ["Objectives"]="Azshara'daki Ursoc'un Boğazı'nda bulunan Karanlık Narkogg için Narkogg'un İlaç Kesesi'ni ve Odunağız Tutamağı içinden Çürük Çiçek'i ele geçir.",
+    ["Progress"]="Odunağız Köyü ağır bir şekilde korunuyor olacak. En iyi şekilde hazırlan, çünkü Solukçene tüm ahlakı terk etti.",
+    ["Completion"]="Ne iğrenç bir yaratım. Harika mabedimizin içindeki yaşamın her dakika çürüdüğünün daha fazla kanıtı. Yine de bir amaca hizmet ediyor. Timbermaw'un zalim failler tarafından bizden koparılan şeyi geri almasının yolunu açacak. Şimdi kutsal totemlerimizi temizleyecek kadar güçlü bir merhem hazırlayabilirim.NEW_LINENEW_LINE$n, bu mütevazı meclis sana minnettarlığını ifade eder. Cesaretin sayesinde Odunağız Tutamağı'nı arındırmada ilk adımı attık. Bu özü al ve bu kötülük yuvasına yapacağın derin dalışlarda kullan. Yeterince aldığında içerideki engeli kırabilir ve nihayet her şeyin köküne gelebilirsin.",
     ["minlevel"]="60",
     ["questlevel"]="60"
 },
 
 ["41934"] = {
     ["Title"]="Geriye Kalanlar",
-    ["Description"]="$n, davamıza olan sadakatin ve kararlılığın sınır tanımıyor. Dikkat çekici bir cesaretle çarpık Solukçene ile yüzleştin ve hilelerini durdurdun. Senin ve müttefiklerinin sergilediği güç ve irade, tam da bu yüzden senden imkansızı isteyeceğim kişisin.NEW_LINENEW_LINESana daha önce açıkladığım gibi Keresteçene Tutamağı tüm Furbolg'lar için kutsal bir alandır. Kadimler Savaşı sırasında Yanan Lejyon'un ellerinde düşüşünden beri bin yıllardır koruduğumuz Yaban Tanrısı Ursol'un kalıntılarına hürmet ettiğimiz yerdir. Solukçene ele geçirdiğinde onun dinlenme yerinde değildim, yine de kadim koruyucunun bedeninin yozlaşmaya kurban gitmesinden korkuyorum.NEW_LINENEW_LINECesur müttefikimiz, lütfen Keresteçene Tutamağı'na dön ve harika tanrımıza ne olduğuna bak. Aşağılık kirlilik onun leşini kontrol altına aldıysa... Gücünü topla ve Zümrüt Rüya'ya bir kez daha dönmesini sağla.",
-    ["Objectives"]="Keresteçene Tutamağı'ndaki Ursol'u katlet. Ardından Azshara'daki Ursoc'un Boğazı'nda bulunan Karanlık Narkogg'a rapor ver.",
+    ["Description"]="$n, davamıza olan sadakatin ve kararlılığın sınır tanımıyor. Dikkat çekici bir cesaretle çarpık Solukçene ile yüzleştin ve hilelerini durdurdun. Senin ve müttefiklerinin sergilediği güç ve irade, tam da bu yüzden senden imkansızı isteyeceğim kişisin.NEW_LINENEW_LINESana daha önce açıkladığım gibi Odunağız Tutamağı tüm Furbolg'lar için kutsal bir alandır. Kadimler Savaşı sırasında Yanan Lejyon'un ellerinde düşüşünden beri bin yıllardır koruduğumuz Yaban Tanrısı Ursol'un kalıntılarına hürmet ettiğimiz yerdir. Solukçene ele geçirdiğinde onun dinlenme yerinde değildim, yine de kadim koruyucunun bedeninin yozlaşmaya kurban gitmesinden korkuyorum.NEW_LINENEW_LINECesur müttefikimiz, lütfen Odunağız Tutamağı'na dön ve harika tanrımıza ne olduğuna bak. Aşağılık kirlilik onun leşini kontrol altına aldıysa... Gücünü topla ve Zümrüt Rüya'ya bir kez daha dönmesini sağla.",
+    ["Objectives"]="Odunağız Tutamağı'ndaki Ursol'u katlet. Ardından Azshara'daki Ursoc'un Boğazı'nda bulunan Karanlık Narkogg'a rapor ver.",
     ["Progress"]="<Narkogg dua pozisyonunda kalmış. Boğazından çıkan kaba fısıltılardan ritüelistik bir şarkı söylediğini çıkarabilirsin.>",
-    ["Completion"]="Kadim öğretilerimizde tüm furbolg kabilelerini birbirine bağlayan bir efsane vardır. Yaratılışımızdan bahseder, ikiz tanrıların dünya henüz gençken bizi dünyaya getirdiği söylenir. Genç yavrular olarak Kalimdor'un el değmemiş yabanında koşup oynadılar, sabahın erken saatlerinin çiy yüklü çimenlerinde yuvarlandılar. Kahkahalar havayı doldurdu ve sınır tanımayan enerjileri etraflarında yüzdü. Güçleriyle patlayarak ıslak çimenlerin damlaları devasa ağaçların köklerine düştü, kabuktan sızdı ve toprakla bir oldu. Zamanla bu damlalar büyüdü ve genç ayı tanrılarının benzersiz görünümünü aldı.NEW_LINENEW_LINEBiz furbolg'lar için ata tanrılarımıza yabanı korumada yardım etmekten daha önemli bir şey yoktur. Ursol'un ikinci kez öldüğünü görmek kalbimi keder ve acıyla dolduruyor, onun kadar soylu bir varlık bu kaderi hak etmiyordu. $n, Timbermaw sana sonsuza kadar borçlu kalacak. Lütfen bu güçlü merhemi al ve Keresteçene Tutamağı'nda kalan yozlaşmayı temizle.",
+    ["Completion"]="Kadim öğretilerimizde tüm furbolg kabilelerini birbirine bağlayan bir efsane vardır. Yaratılışımızdan bahseder, ikiz tanrıların dünya henüz gençken bizi dünyaya getirdiği söylenir. Genç yavrular olarak Kalimdor'un el değmemiş yabanında koşup oynadılar, sabahın erken saatlerinin çiy yüklü çimenlerinde yuvarlandılar. Kahkahalar havayı doldurdu ve sınır tanımayan enerjileri etraflarında yüzdü. Güçleriyle patlayarak ıslak çimenlerin damlaları devasa ağaçların köklerine düştü, kabuktan sızdı ve toprakla bir oldu. Zamanla bu damlalar büyüdü ve genç ayı tanrılarının benzersiz görünümünü aldı.NEW_LINENEW_LINEBiz furbolg'lar için ata tanrılarımıza yabanı korumada yardım etmekten daha önemli bir şey yoktur. Ursol'un ikinci kez öldüğünü görmek kalbimi keder ve acıyla dolduruyor, onun kadar soylu bir varlık bu kaderi hak etmiyordu. $n, Timbermaw sana sonsuza kadar borçlu kalacak. Lütfen bu güçlü merhemi al ve Odunağız Tutamağı'nda kalan yozlaşmayı temizle.",
     ["minlevel"]="60",
     ["questlevel"]="60"
 },
@@ -79206,7 +79206,7 @@ QuestTranslator_QuestData = {
 ["41953"] = {
     ["Title"]="Draenetist Kurtarma",
     ["Description"]="Ayı halkı lekelenmiş draenetist ile ne başarmayı amaçlarsa amaçlasın, bunun olmasına izin veremeyiz. Haince nedenlerle kötüye kullanılmayacak ve Draenei olarak bunun bu şekilde kalmasını sağlamak bizim görevimizdir.NEW_LINENEW_LINE$n, yardımına bir kez daha ihtiyacımız var. Cesur müttefikler topla ve ayı halkının mabedine hücum et. Dikkatli ol: Kristalleri kullanarak beklenmedik güçler elde etmiş olabilecekleri meşum ritüeller gerçekleştirmeleri çok muhtemeldir. Lekelenmiş kristallerin nerede olduğunu bulduğunda failleri cezalandır ve kalan draenetist ile köye geri dön. Onları kirlerinden arındırmak için bir yöntem hazırlayacağım.",
-    ["Objectives"]="Keresteçene Tutamağı'na (Timbermaw Hold) gir ve yozlaştırılmış draenetist'i ele geçir. Başarılı olursan onları Ayfısıltısı Kıyısı'nın Moro'gai Köyü'ndeki Yarıkustası Ral'pekta'ya getir.",
+    ["Objectives"]="Odunağız Tutamağı'na (Timbermaw Hold) gir ve yozlaştırılmış draenetist'i ele geçir. Başarılı olursan onları Ayfısıltısı Kıyısı'nın Moro'gai Köyü'ndeki Yarıkustası Ral'pekta'ya getir.",
     ["Progress"]="Ayı halkı hakkında az şey biliyoruz, zamanın çoğunda kendilerine çekildiler. Ne sebeple olduğunu sadece tahmin edebiliriz. Moro’gai'ye karşı komplo kurmak her zaman hedefleri miydi? Draenetist'in gücü gerçekten peşinde oldukları tek şey mi?",
     ["Completion"]="Boynuzlu canavar; bu satir Selenaxx mı dedin? Jeottan enerjiyi emdi ve vücudunu onunla aşıladı, draenetist ile bir mi oldu?! Yeni dünyada bile böylesi bir dinsizliğe tanık olmak. YOUR_CLASS, draenetist'in gücü derinlemesine cezbedicidir ve bir kez onun atan enerjisine dokunulduğunda yenik düşmemek için muazzam bir irade gerektirir. Draenei'lerin draenetist bağımlılıklarına kurban gidip nihayetinde kristalleştiği, en sonunda kendileri draenetist haline geldiği... hikayeler vardır. Böylece Draenor'a geri dönerler ve can damarı döngüsüne girerler.NEW_LINENEW_LINEŞimdilik getirdiğin jeot kıymıkları için temizleme ritüelini hazırlamam gerekecek. Zaman ve çaba gerektirecek ama ben ve dahası Moro’gai sana derin borçluyuz. Kabilemizin hayatta kalmasına verdiğin sürekli destek ödülsüz kalmayacak. Lütfen bu bileziklerden birini seç, böylece henüz gelecek olan kötülüklere karşı seni koruyabilirler.",
     ["minlevel"]="50",
@@ -79235,7 +79235,7 @@ QuestTranslator_QuestData = {
 
 ["41956"] = {
     ["Title"]="Yalnız Değil",
-    ["Description"]="Selamlar YOUR_CLASS. Benim adım Timbermaw Kabilesi'nden Nathok. Ya da en azından ondan geriye ne kaldıysa. Düşmüş kardeşlerimiz Solukçene (Withermaw) tarafından ata evimiz Keresteçene Tutamağı'ndan (Timbermaw Hold) çıkarıldık. Kuzey Kalimdor boyunca ölçülemez bir süredir sürünen korkunç bir karanlığa kapıldılar. Pek çoğu çoktan yenik düştü, yine de diğerleri hâlâ ona karşı savaşmaya devam ediyor. Çok öncesinde furbolg kabileleri birbirleriyle sürekli iletişim halindeydi. Ancak şimdi sessizleştiler ve en kötüsünden şüpheleniyoruz.NEW_LINENEW_LINEHangi kabilelerin hâlâ özgür olduğunu bilmemiz gerekiyor ve yardımını takdir ederim. Bildiklerimizden son umudumuzu Winterspring'in Winterfall'una, Külvadi'in Yeşilpençe'sine (Greenpaw) ve Aydüzlüğü'nün (Moonglade) güneyindeki tünellerde bulunan diğer Timbermaw furbolg'larının küçük bir enklavına bağlıyoruz. Onları ara ve Timbermaw'un hâlâ doğanın gururlu savunucuları olarak durduğunu bilmelerini sağla.",
+    ["Description"]="Selamlar YOUR_CLASS. Benim adım Timbermaw Kabilesi'nden Nathok. Ya da en azından ondan geriye ne kaldıysa. Düşmüş kardeşlerimiz Solukçene (Withermaw) tarafından ata evimiz Odunağız Tutamağı'ndan (Timbermaw Hold) çıkarıldık. Kuzey Kalimdor boyunca ölçülemez bir süredir sürünen korkunç bir karanlığa kapıldılar. Pek çoğu çoktan yenik düştü, yine de diğerleri hâlâ ona karşı savaşmaya devam ediyor. Çok öncesinde furbolg kabileleri birbirleriyle sürekli iletişim halindeydi. Ancak şimdi sessizleştiler ve en kötüsünden şüpheleniyoruz.NEW_LINENEW_LINEHangi kabilelerin hâlâ özgür olduğunu bilmemiz gerekiyor ve yardımını takdir ederim. Bildiklerimizden son umudumuzu Winterspring'in Winterfall'una, Külvadi'in Yeşilpençe'sine (Greenpaw) ve Aydüzlüğü'nün (Moonglade) güneyindeki tünellerde bulunan diğer Timbermaw furbolg'larının küçük bir enklavına bağlıyoruz. Onları ara ve Timbermaw'un hâlâ doğanın gururlu savunucuları olarak durduğunu bilmelerini sağla.",
     ["Objectives"]="Yeşilpençe (Greenpaw), Winterfall ve Timbermaw Furbolg kabilelerini bul. Üçünü de bulduktan sonra Azshara'daki Ursoc'un Boğazı'nda bulunan Nathok'a dön.",
     ["Progress"]="Biz Furbolg'lar bir zamanlar Kalimdor'un büyülü ormanlarında dolaşır, yaban hayatı ve florayla ilgilenir ve dengelerini korurduk. Ancak Lejyon’un ikinci işgalinden beri neredeyse tüm kardeşlerimiz o iblislerin kutsal Yıldızlar Diyarımızda çürümeye bıraktığı karanlığın çağrısına kulak veriyor.",
     ["Completion"]="Yeşilpençe kurtuluşun ötesinde mi? Ve kardeşlerimizin enklavı Winterfall kabilesini karanlık prangalarından kurtarmak için savaşıyor mu? Zaman gerçekten tükeniyor. Acele etmeli ve kuzeydeki diğer Timbermaw'lar ile mümkün olduğunca çabuk uzlaşmalıyız.NEW_LINENEW_LINE$n, bize bu umut ışığını gösterdiğin için teşekkür ederim. Diğerleriyle bir tartışma yapacağım ve umarım yakında kuzeydeki kardeşlerimize küçük bir elçi göndereceğim. Bu sonsuz gecede yalnız bırakılmayacaklar.",
@@ -79245,17 +79245,17 @@ QuestTranslator_QuestData = {
 
 ["41957"] = {
     ["Title"]="Her Şeyin Kökü",
-    ["Description"]="Timbermaw'u yozlaşmadan arındırmak için yorulmadan çalışıyoruz ve çabaların şüphesiz çok değerli, yine de görevimizde hâlâ az ilerleme var. Karanlık etkiyi kaldırmak yerine tutamak boyunca daha fazla yayılmasını durduruyoruz. Eksik olduğumuz bir şey olmalı, Keresteçene Tutamağı'nın bir zamanlar olduğu misafirperver eve dönmesini istiyorsak ele almamız gereken kritik bir bileşen.NEW_LINENEW_LINEAydüzlüğü (Moonglade), Felwood ve Winterspring arasındaki Timbermaw Tünelleri'nin Timbermaw'ları bize Winterfall’un yozlaşmasının kaynağı olan Xandivious adında bir iblisi ortadan kaldırmada nasıl yardımcı olduğunu anlattı. Onlara danışalım ve Keresteçene Tutamağı'na hâlâ neyin musallat olabileceğine dair bir ipucuna sahip olmalarını umalım.",
-    ["Objectives"]="Aydüzlüğü'nün güneyindeki Timbermaw Tünelleri'nde bulunan Tek Gözlü Gorn (Gorn One Eye) ile Keresteçene Tutamağı içindeki kalıcı karanlık hakkında konuş.",
+    ["Description"]="Timbermaw'u yozlaşmadan arındırmak için yorulmadan çalışıyoruz ve çabaların şüphesiz çok değerli, yine de görevimizde hâlâ az ilerleme var. Karanlık etkiyi kaldırmak yerine tutamak boyunca daha fazla yayılmasını durduruyoruz. Eksik olduğumuz bir şey olmalı, Odunağız Tutamağı'nın bir zamanlar olduğu misafirperver eve dönmesini istiyorsak ele almamız gereken kritik bir bileşen.NEW_LINENEW_LINEAydüzlüğü (Moonglade), Felwood ve Winterspring arasındaki Timbermaw Tünelleri'nin Timbermaw'ları bize Winterfall’un yozlaşmasının kaynağı olan Xandivious adında bir iblisi ortadan kaldırmada nasıl yardımcı olduğunu anlattı. Onlara danışalım ve Odunağız Tutamağı'na hâlâ neyin musallat olabileceğine dair bir ipucuna sahip olmalarını umalım.",
+    ["Objectives"]="Aydüzlüğü'nün güneyindeki Timbermaw Tünelleri'nde bulunan Tek Gözlü Gorn (Gorn One Eye) ile Odunağız Tutamağı içindeki kalıcı karanlık hakkında konuş.",
     ["Progress"]="",
-    ["Completion"]="Uzun zaman oldu $n. Keresteçene Tutamağı içindeki başarılarını duyduk ve halkımız için yaptığın fedakarlıklar için sonsuz minnettarlık gösteriyoruz. Başardığın şey doğal bir durum değil, başkaları kendi soyundan olmayan bir ırka böyle bir merhamet göstermezdi. Şimdi söyle bana, seni bana getiren nedir?",
+    ["Completion"]="Uzun zaman oldu $n. Odunağız Tutamağı içindeki başarılarını duyduk ve halkımız için yaptığın fedakarlıklar için sonsuz minnettarlık gösteriyoruz. Başardığın şey doğal bir durum değil, başkaları kendi soyundan olmayan bir ırka böyle bir merhamet göstermezdi. Şimdi söyle bana, seni bana getiren nedir?",
     ["minlevel"]="60",
     ["questlevel"]="60"
 },
 
 ["41958"] = {
     ["Title"]="Zümrüt Yardımı",
-    ["Description"]="Ursolan'daki kardeşlerimiz bulgularını kısa süre önce bizimle paylaştı, Keresteçene Tutamağı içindeki yozlaşmayı temizlemek için kutsal bir merhem oluşturmak bilgece bir karar. Ama yeterli değil. Kalimdor'u ele geçiren miyazmanın gerçek nedeni derinlerde gizli, ancak tam olarak ne olabileceğini bilmiyoruz. İblis Xandivious Winterfall’un yozlaşmasından sorumluydu, ancak Narkogg yozlaşmadan gelen hissi tamamen iblisani olmayan bir şey olarak tanımladı. Bu muammanın çözümüne nasıl yaklaşabileceğimiz konusunda bir içgüdüm var ama bunun için yardıma ihtiyacımız var.NEW_LINENEW_LINEYOUR_CLASS, Ysera’nın Ejderha Sürüsü'ne (Dragonflight) danış. Onların pek azı bize dost canlısıdır ama bazıları ihtiyaç içindeki bir ölümlüye kulak vermeye razıdır. Büyük Deniz'in ötesinde, Keder Bataklığı'nda (Swamp of Sorrows) güçlü bir yeşil ejderha Rüyasından uyandı ve senin ve benim gibi ölümlüleri bekliyor. Belki farklı bir nedendendir ama pekala bu amaç için de olabilir. Onları ara ve Ruh Flütü hakkında soru sor.",
+    ["Description"]="Ursolan'daki kardeşlerimiz bulgularını kısa süre önce bizimle paylaştı, Odunağız Tutamağı içindeki yozlaşmayı temizlemek için kutsal bir merhem oluşturmak bilgece bir karar. Ama yeterli değil. Kalimdor'u ele geçiren miyazmanın gerçek nedeni derinlerde gizli, ancak tam olarak ne olabileceğini bilmiyoruz. İblis Xandivious Winterfall’un yozlaşmasından sorumluydu, ancak Narkogg yozlaşmadan gelen hissi tamamen iblisani olmayan bir şey olarak tanımladı. Bu muammanın çözümüne nasıl yaklaşabileceğimiz konusunda bir içgüdüm var ama bunun için yardıma ihtiyacımız var.NEW_LINENEW_LINEYOUR_CLASS, Ysera’nın Ejderha Sürüsü'ne (Dragonflight) danış. Onların pek azı bize dost canlısıdır ama bazıları ihtiyaç içindeki bir ölümlüye kulak vermeye razıdır. Büyük Deniz'in ötesinde, Keder Bataklığı'nda (Swamp of Sorrows) güçlü bir yeşil ejderha Rüyasından uyandı ve senin ve benim gibi ölümlüleri bekliyor. Belki farklı bir nedendendir ama pekala bu amaç için de olabilir. Onları ara ve Ruh Flütü hakkında soru sor.",
     ["Objectives"]="Keder Bataklığı'nda kooperatif bir yeşil ejderha ara ve ona Ruh Flütü'nü sor.",
     ["Progress"]="",
     ["Completion"]="İşte buradasın, beklendiği gibi. Kader kavrayışımızın ötesinde bir güçtür ve eylemlerinin kader tarafından belirlenmediğini inkar etmeye çalışırsan korkarım hâlâ öğrenecek çok şeyin var ölümlü.",
@@ -79265,7 +79265,7 @@ QuestTranslator_QuestData = {
 
 ["41959"] = {
     ["Title"]="Ruh Flütü",
-    ["Description"]="Keresteçene Tutamağı'nı karanlığından arındırmayı amaçlıyorsun, değil mi? Senin ve benim çıkarlarım düşündüğünden daha fazla örtüşüyor. Onu yozlaşmasından arındırmak benim de en büyük çıkarıma ve her şeyin nedenini ortaya çıkarma arayışında kritik olabileceğimi biliyorum. Furbolg arkadaşın varsayımında haklıydı: Ruh Flütü hakkında bilgi sahibiyim. Doğrudan Yaban Tanrıçası Aessina'nın kendisine ait kadim bir kalıntıdır. Kaldorei, Kadimler Savaşı'nın başlangıcında kalıntıyı Ysera’nın Ejderha Sürüsü'ne emanet etti. Hain Insomnius onu çalana kadar orada bin yıllarca yattı. Suçu yüzünden sürgün edildi, flüt sonsuza dek kayboldu.NEW_LINENEW_LINEOnu talep etmek istiyorsan Insomnius'u bulmalısın. Şansına, kurnaz sefili öldürmek zordur. Şimdi Insom’ni adını kullanıyor. Kuruntuları dünyayı yönetme yönündeki soylu görevimize bir hakaretti, yine de çabaladığı tek şey onu sahte bir tanrı gibi yönetmektir. Onu Gilijim Adası'nın kuzeyindeki adada bulacaksın.",
+    ["Description"]="Odunağız Tutamağı'nı karanlığından arındırmayı amaçlıyorsun, değil mi? Senin ve benim çıkarlarım düşündüğünden daha fazla örtüşüyor. Onu yozlaşmasından arındırmak benim de en büyük çıkarıma ve her şeyin nedenini ortaya çıkarma arayışında kritik olabileceğimi biliyorum. Furbolg arkadaşın varsayımında haklıydı: Ruh Flütü hakkında bilgi sahibiyim. Doğrudan Yaban Tanrıçası Aessina'nın kendisine ait kadim bir kalıntıdır. Kaldorei, Kadimler Savaşı'nın başlangıcında kalıntıyı Ysera’nın Ejderha Sürüsü'ne emanet etti. Hain Insomnius onu çalana kadar orada bin yıllarca yattı. Suçu yüzünden sürgün edildi, flüt sonsuza dek kayboldu.NEW_LINENEW_LINEOnu talep etmek istiyorsan Insomnius'u bulmalısın. Şansına, kurnaz sefili öldürmek zordur. Şimdi Insom’ni adını kullanıyor. Kuruntuları dünyayı yönetme yönündeki soylu görevimize bir hakaretti, yine de çabaladığı tek şey onu sahte bir tanrı gibi yönetmektir. Onu Gilijim Adası'nın kuzeyindeki adada bulacaksın.",
     ["Objectives"]="Hain yeşil ejderha Insomnius'u bul. Itharius onun artık Gilijim Adası yakınındaki Kazon Adası'nda ikamet ettiğini belirtti.",
     ["Progress"]="",
     ["Completion"]="Itharius beni bu kadar çok mu özlüyor? Neredeyse gözyaşlarına boğulacağım. Yaşlı aptalın kendi rızasıyla inime ölümlüleri göndermesine ne değişti? Umalım ki annesi bunu duymasın.NEW_LINENEW_LINE<Insom’ni histerik bir kahkahaya boğulur.>",
@@ -79295,7 +79295,7 @@ QuestTranslator_QuestData = {
 
 ["41962"] = {
     ["Title"]="Sonsuzluk Lordu Fangorn",
-    ["Description"]="Sen flütü aramaya gittiğinde ben de kendi araştırmamı yaptım. Ursoc'un Boğazı'nda Narkogg ile bir araya geldik ve yozlaşmanın sırlarını nasıl ortaya çıkaracağımıza dair bir plan tasarladık.NEW_LINENEW_LINEKaldorei'lerin Dünya Ağacı Teldrassil'i diktiği adada, dikkate değer bir yaştaki bir Kadim Azeroth toprağına kök saldı, Sonsuzluk Lordu Fangorn. Gece Elfleri Teldrassil tohumunu diktikten sonra bile doğa üzerindeki sonsuz nöbetinde eonlarca orada durdu. Onun kadar yaşlı ve bilge biri umarım Keresteçene Tutamağı içinde ne tür bir karanlığın ikamet ettiğini bize söyleyebilir.NEW_LINENEW_LINEBu mühürlü totemi yanına al. Kadim'i Ruh Flütü ile uyandır ve ona totemi göster. Gitmeden önce bilmen gereken bir şey var. Onun gibi kadim bir varlık çoktan unutulmuş bir dili konuşur. Sözlerini kesinlikle anlamayacaksın. Dilini öğrenmek için Aydüzlüğü druidleriyle konuşmanı öneririm.",
+    ["Description"]="Sen flütü aramaya gittiğinde ben de kendi araştırmamı yaptım. Ursoc'un Boğazı'nda Narkogg ile bir araya geldik ve yozlaşmanın sırlarını nasıl ortaya çıkaracağımıza dair bir plan tasarladık.NEW_LINENEW_LINEKaldorei'lerin Dünya Ağacı Teldrassil'i diktiği adada, dikkate değer bir yaştaki bir Kadim Azeroth toprağına kök saldı, Sonsuzluk Lordu Fangorn. Gece Elfleri Teldrassil tohumunu diktikten sonra bile doğa üzerindeki sonsuz nöbetinde eonlarca orada durdu. Onun kadar yaşlı ve bilge biri umarım Odunağız Tutamağı içinde ne tür bir karanlığın ikamet ettiğini bize söyleyebilir.NEW_LINENEW_LINEBu mühürlü totemi yanına al. Kadim'i Ruh Flütü ile uyandır ve ona totemi göster. Gitmeden önce bilmen gereken bir şey var. Onun gibi kadim bir varlık çoktan unutulmuş bir dili konuşur. Sözlerini kesinlikle anlamayacaksın. Dilini öğrenmek için Aydüzlüğü druidleriyle konuşmanı öneririm.",
     ["Objectives"]="Teldrassil kıyısındaki kadim Fangorn ile konuş. Gizemli konuşmasını anlamak için Aydüzlüğü Druidleri ile görüş.",
     ["Progress"]="Kadim hareket etmiyor. Taşınmaz bir nesne gibi sadece ufka bakıyor.",
     ["Completion"]="Sohbet sona erer ve Fangorn sonsuz nöbetine geri döner.",
@@ -79328,15 +79328,15 @@ QuestTranslator_QuestData = {
     ["Description"]="İblis Xandivious'u Winterfall Şefi'nin mağarasından çıkarmak için işlediğim meşaleyi hatırlıyor musun? O aşağılık canavar Peroth’arn'ı saklandığı yerden çıkarmak istiyorsak tekrar böyle bir meşaleye ihtiyacımız olacak ama muazzam derecede daha güçlüsüne. Bunun için arındırıcı bir alev gerekiyor.NEW_LINENEW_LINEYer kabuğunun çok altında Erimiş Çekirdek (Molten Core) yatıyor. Mağaraları magma nehirleri ve haşlayıcı taşlar doldururken, ateşli elementaller kendi aralarında kaos yayıyor. Bu yerde en büyük saflıkta bir alev bulunabilir. Sadece bu yoğunluktaki bir parlama planımızın başarılı olmasını sağlamak için yeterli olacaktır.NEW_LINENEW_LINEBana onu ve yirmi Yıldız Odunu kütüğü getir. İkisi de yeterince güçlü bir meşale oluşturmak için gereklidir.",
     ["Objectives"]="Temizleme meşalesini işlemek için Aydüzlüğü'nün güneyindeki Timbermaw Tünelleri'nde bulunan Tek Gözlü Gorn bir Arındırıcı Alev ve Yıldız Odunu kütüklerine ihtiyaç duyuyor.",
     ["Progress"]="Lütfen dikkatli kal. Erimiş Çekirdek tehlikeli bir yerdir ve müttefiklerin içerideki tehlikelere yeterince hazırlıklı olamaz.",
-    ["Completion"]="Harika! Alevlerin en safı, ilkel bir kalp atışı bu belirsiz alev topunun içinde yankılanıyor. Bu dünyadaki veya başka bir dünyadaki hiçbir kötülük onun ortaya çıkaran ışığından saklanamaz.NEW_LINENEW_LINE$n, zamanı geldi. Keresteçene Tutamağı içindeki karanlığı bir kez ve herkes için sileceğiz.",
+    ["Completion"]="Harika! Alevlerin en safı, ilkel bir kalp atışı bu belirsiz alev topunun içinde yankılanıyor. Bu dünyadaki veya başka bir dünyadaki hiçbir kötülük onun ortaya çıkaran ışığından saklanamaz.NEW_LINENEW_LINE$n, zamanı geldi. Odunağız Tutamağı içindeki karanlığı bir kez ve herkes için sileceğiz.",
     ["minlevel"]="60",
     ["questlevel"]="60"
 },
 
 ["41966"] = {
     ["Title"]="Peroth’arn, Kâbus'un Habercisi",
-    ["Description"]="Çabuk, kaybedecek az zaman var. Meşaleyi al, en güçlü müttefiklerini topla ve Keresteçene Tutamağı'na dön. Tanrımız Ursol'un en içteki mabedinde aydınlatıcı feneri ortaya koy ve kendini hazırla. Bu iblis hayal gücünün ötesinde bir güce sahip ve onun zalimliğine ve kurnazlığına saygı duymalısın. Bu kötülüğü Azeroth'tan ve Zümrüt Rüya'dan sil! Bu dünya onun gibi aşağılık bir canavara ait değil!",
-    ["Objectives"]="Keresteçene Tutamağı'na gir ve Peroth’arn'ı yok et. Kalimdor'a musallat olan yozlaşma ve vebayı temizledikten sonra Azshara'daki Ursoc'un Boğazı'nda bulunan Karanlık Narkogg'a dön!",
+    ["Description"]="Çabuk, kaybedecek az zaman var. Meşaleyi al, en güçlü müttefiklerini topla ve Odunağız Tutamağı'na dön. Tanrımız Ursol'un en içteki mabedinde aydınlatıcı feneri ortaya koy ve kendini hazırla. Bu iblis hayal gücünün ötesinde bir güce sahip ve onun zalimliğine ve kurnazlığına saygı duymalısın. Bu kötülüğü Azeroth'tan ve Zümrüt Rüya'dan sil! Bu dünya onun gibi aşağılık bir canavara ait değil!",
+    ["Objectives"]="Odunağız Tutamağı'na gir ve Peroth’arn'ı yok et. Kalimdor'a musallat olan yozlaşma ve vebayı temizledikten sonra Azshara'daki Ursoc'un Boğazı'nda bulunan Karanlık Narkogg'a dön!",
     ["Progress"]="Geri döndün! Söyle bana, çabuk! Planlarımız başarılı oldu mu? Halkım nihayet özgür mü?",
     ["Completion"]="<Narkogg'un yüzüne yırtık bir bakış yayılıyor. İlk başta düzgünce çıkaramıyorsun ama ondan gelen feryat ve hıçkırık şüpheni doğruluyor: Ağlıyor.>\"NEW_LINENEW_LINEBunca yıl süren acı ve eziyetten sonra halkım nihayet bir rahatlama nefesi verebilir. Türümüzün çoğuna ve kutsal tanrılarımızdan birine musallat olan yozlaşma nihayet dindirildi. Hepsi senin gibi valörlü koruyucuların cesur çabaları sayesinde. Kelimelerim sana ve soyuna karşı duyduğumuz minnettarlığı düzgünce iletemez. Furbolg'ların sevilen kahramanı olarak Timbermaw ile her zaman memnuniyetle karşılanacaksın.",
     ["minlevel"]="60",
@@ -79635,9 +79635,9 @@ QuestTranslator_QuestData = {
 
 ["42009"] = {
     ["Title"]="Mübarek Loktanag",
-    ["Description"]="Belki kendin hissettin ya da tezahürlerinden biriyle çoktan karşılaştın ama Kalimdor ormanlarında cirit atan bir istila var. Florayı ve faunayı enfekte ederek onları deliliğe sürüklüyor, dost ve düşmana aynı şekilde saldırıyor. Doğanın ruhları arasında meşum fısıltılar susuyor, dengenin savunucularını söz konusu yozlaşmaya karşı topluyor.NEW_LINENEW_LINEBunlardan biri soylu Loktanag, büyüme ve uyum sağlayabilirliğin yaşayan enkarnasyonu. Mount Hyjal'in derin karın boşluğunda, Keresteçene Tutamağı'nın (Timbermaw Hold) kutsal salonlarında bir huzursuzluk sezdiler. Furbolg'un kutsal evinin çok derinlerine giren Loktanag miyazmanın yayılmasını durdurmaya çalıştı, yine de güçlerinin yeterli olmadığı görülüyor. Şimdi ruhlar toksik çamur sızdıran ve durdurmak istedikleri yozlaşmayı yayan çürüyen bedenlerinin yasını tutuyor.NEW_LINENEW_LINE$n, senden Loktanag'ı huzura kavuşturmanı istiyorum. Onlar gibi soylu bir yaratık döngüye bir kez daha dönmeli. Denge restore edilmeli.",
-    ["Objectives"]="Keresteçene Tutamağı içindeki Kötücül Loktanag'ı bozguna uğrat ve Taşçatana Dağları'ndaki Toprak Çemberi'nde bulunan Muln Topraköfkesi'ne (Muln Earthfury) dön.",
-    ["Progress"]="Keresteçene Tutamağı içindeki yolculuğunda önünde ne yattığını söyleyemem. Ruhlar o yer hakkında konuşmaya cesaret edemiyor ve bana hiçbir bilgelik vermiyor.",
+    ["Description"]="Belki kendin hissettin ya da tezahürlerinden biriyle çoktan karşılaştın ama Kalimdor ormanlarında cirit atan bir istila var. Florayı ve faunayı enfekte ederek onları deliliğe sürüklüyor, dost ve düşmana aynı şekilde saldırıyor. Doğanın ruhları arasında meşum fısıltılar susuyor, dengenin savunucularını söz konusu yozlaşmaya karşı topluyor.NEW_LINENEW_LINEBunlardan biri soylu Loktanag, büyüme ve uyum sağlayabilirliğin yaşayan enkarnasyonu. Mount Hyjal'in derin karın boşluğunda, Odunağız Tutamağı'nın (Timbermaw Hold) kutsal salonlarında bir huzursuzluk sezdiler. Furbolg'un kutsal evinin çok derinlerine giren Loktanag miyazmanın yayılmasını durdurmaya çalıştı, yine de güçlerinin yeterli olmadığı görülüyor. Şimdi ruhlar toksik çamur sızdıran ve durdurmak istedikleri yozlaşmayı yayan çürüyen bedenlerinin yasını tutuyor.NEW_LINENEW_LINE$n, senden Loktanag'ı huzura kavuşturmanı istiyorum. Onlar gibi soylu bir yaratık döngüye bir kez daha dönmeli. Denge restore edilmeli.",
+    ["Objectives"]="Odunağız Tutamağı içindeki Kötücül Loktanag'ı bozguna uğrat ve Taşçatana Dağları'ndaki Toprak Çemberi'nde bulunan Muln Topraköfkesi'ne (Muln Earthfury) dön.",
+    ["Progress"]="Odunağız Tutamağı içindeki yolculuğunda önünde ne yattığını söyleyemem. Ruhlar o yer hakkında konuşmaya cesaret edemiyor ve bana hiçbir bilgelik vermiyor.",
     ["Completion"]="Korkunç bir eylem yapıldı. Loktanag’ın bedeni ayrışacak, tekrar toprakla bir olacak. Yaptığın şeyin kalplerimize ağır geldiğini biliyorum ama gerekliydi. Zamanla tekrar ortaya çıkacaklar ve doğanın büyümesini bir kez daha besleyecekler.",
     ["minlevel"]="60",
     ["questlevel"]="60"
