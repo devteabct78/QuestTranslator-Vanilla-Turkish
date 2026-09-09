@@ -14083,5 +14083,16 @@ QuestTranslator_MergedGossip = {
     ["The more flickering time sparks you turn in, the weaker their leader will become. Holding the central island is the key to victory, as you cannot turn in sparks otherwise."] = "Ne kadar çok titreyen zaman kıvılcımı teslim ederseniz, liderleri o kadar zayıflayacaktır. Merkezi adayı tutmak zaferin anahtarıdır, çünkü aksi takdirde kıvılcımları teslim edemezsiniz.",
     ["Good luck, heroes. The future depends on you."] = "İyi şanslar, kahramanlar. Gelecek size bağlı.",
     ["I have lost the will to live. Let the wild beasts take me.\n\nWhat do you mean there are no beasts in the city? What else do you call the monsters in government!\n\nI could have been rich beyond my wildest dreams, but they took it from me! It's a conspiracy to keep us poor forever."] = "Yaşama isteğimi kaybettim. Bırakın vahşi hayvanlar beni alsın.\n\nŞehirde hiç canavar yok mu diyorsunuz? Hükümetteki canavarlara başka ne diyorsunuz!\n\nHayallerimin ötesinde zengin olabilirdim, ama benden aldılar! Bizi sonsuza dek fakir tutmak için bir komplo bu.",
+    ["CAN VOTE - RMT prescription/statute of limitations"] = "OY KULLANABİLİR - Gerçek Para Ticareti (RMT) zaman aşımı",
     
+    ["The jungle is merciless. The law of nature submits every beast; a daily struggle for survival."] = "Cangıl merhametsizdir. Doğanın kanunu her canavarı boyun eğdirir; günlük bir hayatta kalma mücadelesidir.",
+    
+    --Server specific temporary
+    ["RMT prescription/statute of limitations\n\nWhat should the prescription/statute of limitations be for RMT related bans?"] = "Gerçek Para Ticareti (RMT) zaman aşımı\n\nRMT kaynaklı ban için zaman aşımı süresi ne olmalıdır?",
+    ["VOTED (CLICK TO CHANGE) - RMT prescription/statute of limitations"] = "OY KULLANILDI (DEĞİŞTİRMEK İÇİN TIKLAYIN) - Gerçek Para Ticareti (RMT) zaman aşımı",
+    ["1 Month"]="1 Ay",
+    ["3 Months"]="3 Ay",
+    ["6 Months"]="6 Ay",
+    ["No Expiry as long as sufficient evidence is still available"] = "Yeterli kanıt mevcut olduğu sürece Zaman Aşımı Yoktur",
+
 }
