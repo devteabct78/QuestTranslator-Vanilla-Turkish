@@ -1,6 +1,6 @@
 -- ZoneTranslator Bölge Veritabanı
 ZoneTranslator_ZoneData = {
-   ["Abyssal Sands"] = "Abis Kumsalları",
+["Abyssal Sands"] = "Abis Kumsalları",
 ["Addle's Stead"] = "Addle Çiftliği",
 ["Aerie Peak"] = "Kartal Yuvası Tepesi",
 ["Agama'gor"] = "Agama'gor",

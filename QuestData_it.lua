@@ -68,7 +68,7 @@ QuestTranslator_QuestData = {
     ["Description"]="Hey, dostum! Akılsız zombiler ve örümceklerle gereğinden fazla savaşmış genç bir adam için bir iyilik yapar mısın?NEW_LINENEW_LINEBrill'e gitmesi gereken bir mektup var... Renee bilmem ne adında bir hancıya. Soyadının ne olduğu hiç önemli değil.NEW_LINENEW_LINEHer neyse, vebanın kurbanlarıyla dolu, dünyada kendi yollarını çizmeye çalışan küçük, şirin bir yer. Ve eğer ihtiyaç duyarsanız sizin de dinlenmeniz için harika bir yer olabilir. Bir bakmalısın... bakarsan sana iyi para veririm.",
     ["Objectives"]="Sıradan Mektubu Tirisfal Glades'teki Hancı Renee'ye teslim et.",
     ["Progress"]="Evet mi? Evet mi? Nedir o?NEW_LINENEW_LINETerk edilmişler; kesinlikle büyük iştahları var. Kendinizi evinizde hissedin... evet, yorgun kemiklerinizi dinlendirin. Bir şeye ihtiyacınız olursa benim adım Renee.",
-    ["Completion"]="Oh? Bir mektup mu? Harika bir haber! Deathknell'deki sevgili yaşlı annemden haber bekliyordum. Tam bir azize. Nasıl olduğunu merak ediyorum.NEW_LINENEW_LINENe oldu? Çok mu neşeli? Yemedin, değil mi?NEW_LINENEW_LINEO zaman kaybol... Mektubun kimden geldiği önemli değil zaten. Git hadi! Kaybol!NEW_LINENEW_LINEHarcayacak paran olduğunda geri gel... aylak.NEW_LINENEW_LINESonra bir bakmışsın, uzun bir maceradan sonra dinlenmek için geri geliyorsun ya da bunun gibi aptalca bir şey.",
+    ["Completion"]="Oh? Bir mektup mu? Harika bir haber! Ölümçanı'deki sevgili yaşlı annemden haber bekliyordum. Tam bir azize. Nasıl olduğunu merak ediyorum.NEW_LINENEW_LINENe oldu? Çok mu neşeli? Yemedin, değil mi?NEW_LINENEW_LINEO zaman kaybol... Mektubun kimden geldiği önemli değil zaten. Git hadi! Kaybol!NEW_LINENEW_LINEHarcayacak paran olduğunda geri gel... aylak.NEW_LINENEW_LINESonra bir bakmışsın, uzun bir maceradan sonra dinlenmek için geri geliyorsun ya da bunun gibi aptalca bir şey.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Bir Düzenbazın Anlaşması
@@ -222,7 +222,7 @@ QuestTranslator_QuestData = {
     ["Description"]="Kudretli ayı Ursangous artık yok!NEW_LINENEW_LINEPençesindeki küçük çeyrek hilal amblemi, bu canavarın gece elfleri tarafından düşmanlarını aramak için ormanda dolaşmak üzere eğitildiğini gösteriyor. Horde müttefiklerinden kaçının bu yaratığa yenik düştüğünü bilemezsin.NEW_LINENEW_LINEPençe, Silverwind Sığınağı'ndaki Tarkan'a götürülmeli. Düşmanın cephaneliğinden böyle bir silahın çıkarılmış olmasından memnun olacaktır.",
     ["Objectives"]="Ursangous'un Pençesi'ni Silverwind Sığınağı'ndaki Kaptan Tarkan'a getir.",
     ["Progress"]="Ah - YOUR_NAME - Ben de tam seni düşünüyordum! Avın nasıl gidiyor?",
-    ["Completion"]="Ah, Ursangous'un pençesi! Yeteneğin etkileyici, YOUR_CLASS ; çok sayıda öldürme ile tanınır. Pençesindeki hilal, hiç şüphesiz Külvadi'de sinsice dolaşan gece elfleri tarafından eğitildiğinin bir işaretidir. Ursangous... buralarda bulabileceğiniz en güçlü ayılardan biriydi. Böyle bir yaratığı yenmek, iradenizin ve kararlılığınızın bir kanıtıdır.NEW_LINENEW_LINEAtaların seninle gurur duyardı!",
+    ["Completion"]="Ah, Ursangous'un pençesi! Yeteneğin etkileyici, YOUR_CLASS; çok sayıda öldürme ile tanınır. Pençesindeki hilal, hiç şüphesiz Külvadi'de sinsice dolaşan gece elfleri tarafından eğitildiğinin bir işaretidir. Ursangous... buralarda bulabileceğiniz en güçlü ayılardan biriydi. Böyle bir yaratığı yenmek, iradenizin ve kararlılığınızın bir kanıtıdır.NEW_LINENEW_LINEAtaların seninle gurur duyardı!",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Ursangous'un Pençesi
@@ -3285,7 +3285,7 @@ QuestTranslator_QuestData = {
     ["Description"]="",
     ["Objectives"]="Yvette Farthing'i bul ve Thurman Agamand'dan gelen mektubu ona teslim et.",
     ["Progress"]="Evet mi? Evet mi?",
-    ["Completion"]="Oh... benim zavallı Thurman'ım! Agamand Mills'i benimle ve babamla birlikte terk etmesi için ona yalvardım ama aile sadakati çok güçlüydü! Ve bunu biliyordum! Brand'in ona zarar vermek istediğini biliyordum! Lanet olsun bu vebaya ve belaya!NEW_LINENEW_LINE<Yvette'in yüzü yumuşar ve soğuklaşır>NEW_LINENEW_LINEAma pişmanlıklar zayıflar içindir. Bir Forsaken olarak yeni hedeflerim var ve aşk bunlardan biri değil. Bu mektubu bana ulaştırdığın için sana teşekkür ederim, çünkü geçmişteki aşkıma ne olduğunu merak ediyordum.NEW_LINENEW_LINEAma o hayat sona erdi. Sonsuza kadar.",
+    ["Completion"]="Oh... benim zavallı Thurman'ım! Agamand Değirmenlerini benimle ve babamla birlikte terk etmesi için ona yalvardım ama aile sadakati çok güçlüydü! Ve bunu biliyordum! Brand'in ona zarar vermek istediğini biliyordum! Lanet olsun bu vebaya ve belaya!NEW_LINENEW_LINE<Yvette'in yüzü yumuşar ve soğuklaşır>NEW_LINENEW_LINEAma pişmanlıklar zayıflar içindir. Bir Forsaken olarak yeni hedeflerim var ve aşk bunlardan biri değil. Bu mektubu bana ulaştırdığın için sana teşekkür ederim, çünkü geçmişteki aşkıma ne olduğunu merak ediyordum.NEW_LINENEW_LINEAma o hayat sona erdi. Sonsuza kadar.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Teslim Edilmemiş Bir Mektup
@@ -3304,7 +3304,7 @@ QuestTranslator_QuestData = {
     -- Kaba Uyanış
     ["363"] = {
     ["Title"]="Kaba Uyanış",
-    ["Description"]="Uyandığına sevindim. Seni de diğerleriyle birlikte ateşe atmaya hazırdık ama sen kurtuldun.NEW_LINENEW_LINEBen Mordo, Deathknell mahzeninin bekçisiyim. Ve artık Lich King'in kölesi değilsin.NEW_LINENEW_LINETepenin dibindeki şapelde Gölge Rahip Sarvis ile konuşun, size bilmeniz gereken daha fazla şey söyleyecektir.NEW_LINENEW_LINEBu mahzenden çıkmak için yüzeye çıkan basamakları kullanın. Sarvis'i bulmak için şapele giden yolu takip et.",
+    ["Description"]="Uyandığına sevindim. Seni de diğerleriyle birlikte ateşe atmaya hazırdık ama sen kurtuldun.NEW_LINENEW_LINEBen Mordo, Ölümçanı mahzeninin bekçisiyim. Ve artık Lich King'in kölesi değilsin.NEW_LINENEW_LINETepenin dibindeki şapelde Gölge Rahip Sarvis ile konuşun, size bilmeniz gereken daha fazla şey söyleyecektir.NEW_LINENEW_LINEBu mahzenden çıkmak için yüzeye çıkan basamakları kullanın. Sarvis'i bulmak için şapele giden yolu takip et.",
     ["Objectives"]="Gölge Rahip Sarvis ile konuş.",
     ["Progress"]="",
     ["Completion"]="Yürüyen ölülerden biri daha, ha? Mahzende sadece soğuk ve Mordo'nun seni karşılamasıyla uyanmak büyük bir şok olmalı...NEW_LINENEW_LINEYüzündeki şaşkınlığı görüyorum. Sana durumumuzu açıklamaya çalışayım.NEW_LINENEW_LINEYeni liderimiz Leydi Sylvanas tarafından Lich King'in kontrolünden kurtarıldık. Karanlık Leydi, nefret edilen Lanetlilere(Scourge) ve her adımımıza köpeklik eden insanlık kalıntılarına karşı savaşımızda bize rehberlik ediyor.",
@@ -3327,7 +3327,7 @@ QuestTranslator_QuestData = {
     ["365"] = {
     ["Title"]="Keder Tarlaları",
     ["Description"]="Burada neyimiz varmış?  Acemi bir YOUR_CLASS'ye benziyorsun. Kendini Karanlık Leydi'ye kanıtlamak istiyorsan, Terk Edilmişlerin yöntemlerini öğrenmelisin.NEW_LINENEW_LINEBatıda bir çiftlik bulacaksınız. İnsanlar çürüyen bir cesedin üzerindeki küf gibi toprağı istila ediyor. Daha da kötüsü, Scarlet Crusade kulelerinden yakınlarda devriye geziyor. Bu pisliklere bir ders verin ve değerli balkabaklarından 10 tane çalın.NEW_LINENEW_LINE10 tane bulunca, onları Brill'deki Eczacı Johaan'a götürün.",
-    ["Objectives"]="Deathknell'in hemen kuzeyinde, batıdaki çiftlikten 10 balkabağı çalın ve onları Brill'deki Eczacı Johaan'a götürün.",
+    ["Objectives"]="Ölümçanı'nın hemen kuzeyinde, batıdaki çiftlikten 10 balkabağı çalın ve onları Brill'deki Eczacı Johaan'a götürün.",
     ["Progress"]="Ölüm Muhafızı Simmer bana çok ihtiyacım olan bazı reaktifleri sağlayacağını söyledi. On balkabağı toplayabildin mi, YOUR_NAME?",
     ["Completion"]="Teklifini iyi yerine getirdin, genç YOUR_CLASS. Karanlık Leydi'nin ordusu için ne kadar değerli olduğunu kanıtlıyorsun.",
     ["minlevel"]="0",
@@ -3502,7 +3502,7 @@ QuestTranslator_QuestData = {
     -- Kızıl Elçi
     ["382"] = {
     ["Title"]="Kızıl Elçi",
-    ["Description"]="Brill'deki üstlerimden gelen raporlar, Kızıl Haçlı Seferi'nin bir ajanının Kızıl Manastır'dan buraya, Deathknell'e gönderildiğini gösteriyor. Raporlara göre, habercinin üzerinde önemli bilgiler varmış. Daha fazla ayrıntıya sahip değilim, ama her ne ise, onu almalıyız!NEW_LINENEW_LINEGöndermem gereken en nitelikli kişi sensin, YOUR_NAME. O haberciyi bul ve bulabildiğin her bilgiyi bana getir.",
+    ["Description"]="Brill'deki üstlerimden gelen raporlar, Kızıl Haçlı Seferi'nin bir ajanının Kızıl Manastır'dan buraya, Ölümçanı'e gönderildiğini gösteriyor. Raporlara göre, habercinin üzerinde önemli bilgiler varmış. Daha fazla ayrıntıya sahip değilim, ama her ne ise, onu almalıyız!NEW_LINENEW_LINEGöndermem gereken en nitelikli kişi sensin, YOUR_NAME. O haberciyi bul ve bulabildiğin her bilgiyi bana getir.",
     ["Objectives"]="Haçlı kampındaki haberci Meven Korgal'ı öldür, sonra bulduğun her bilgiyi Cellat Arren'e geri ver.",
     ["Progress"]="Görevin nasıl gidiyor, YOUR_NAME?",
     ["Completion"]="Hmm... Bakalım sende ne varmış.NEW_LINENEW_LINE<Kurtarmış olduğunuz belgeleri karıştırmaya başlar.>NEW_LINENEW_LINEBize karşı yaptıklarıyla ilgili bazı haberler. Değersiz. Keşif raporları. Yeni emirler, \\",
@@ -3513,7 +3513,7 @@ QuestTranslator_QuestData = {
     -- Hayati Zeka
     ["383"] = {
     ["Title"]="Hayati Zeka",
-    ["Description"]="Bunların Brill'deki amirim Cellat Zygand'a götürülmesi gerekecek. Bu bilgiyle, Kızıl Haçlı Seferi'ne kesin bir darbe indirebileceğiz. Hizmetlerin burada, Deathknell'de faydalı oldu ama bunları Zygand'a ulaştıracak birine ihtiyacım var ve inanıyorum ki o sana daha uygun bir iş bulacaktır.NEW_LINENEW_LINEDeathknell'den kuzeye giden yola girin. Tirisfal'e girdikten kısa bir süre sonra bir yol ayrımına geleceksiniz. Doğu çatalına girin ve doğuya doğru devam edin. Yol boyunca Soğuk Ocak Malikanesi'ni geçeceksiniz.",
+    ["Description"]="Bunların Brill'deki amirim Cellat Zygand'a götürülmesi gerekecek. Bu bilgiyle, Kızıl Haçlı Seferi'ne kesin bir darbe indirebileceğiz. Hizmetlerin burada, Ölümçanı'de faydalı oldu ama bunları Zygand'a ulaştıracak birine ihtiyacım var ve inanıyorum ki o sana daha uygun bir iş bulacaktır.NEW_LINENEW_LINEÖlümçanı'den kuzeye giden yola girin. Tirisfal'e girdikten kısa bir süre sonra bir yol ayrımına geleceksiniz. Doğu çatalına girin ve doğuya doğru devam edin. Yol boyunca Soğuk Ocak Malikanesi'ni geçeceksiniz.",
     ["Objectives"]="Kızıl Haçlı Seferi Belgelerini Brill'deki İnfazcı Zygand'a teslim et.",
     ["Progress"]="Evet, ne istiyorsun?",
     ["Completion"]="Evet, bu çok iyi. Bu bilgiyi elde etmekle iyi iş çıkardın, YOUR_NAME. Hmm... Tirisfal Glades'teki subayların isimleri...NEW_LINENEW_LINELiderlerini tek bir hamlede öldürürsek, o kanlı bağnazların moraline indireceğimiz darbeyi bir düşünsene.",
@@ -3678,10 +3678,10 @@ QuestTranslator_QuestData = {
     -- Mütevazı Başlangıçlar
     ["399"] = {
     ["Title"]="Mütevazı Başlangıçlar",
-    ["Description"]="Westfall'da çiftlikte çalışan bir çocuk olduğumdan beri çok zaman geçmiş gibi geliyor. Asla geri dönemezsin derler ve bu doğru. Benim durumumda iki kat daha doğru, ailemin evi yandı ve geçici göçmenler tarafından ele geçirildi.NEW_LINENEW_LINEİlk pusulam da dahil olmak üzere bazı eşyalarımın akıbeti hakkında babamla konuştum. Onları kurtarmayı başaramadı. Bununla birlikte, çiftlikte saklanmaları gerektiğini de söyledi.NEW_LINENEW_LINEAlexston Çiftliği'ni Sentinel Tepesi'nin batısında bulacaksın. Belki de benim için gidip onu geri alabilirsin?",
-    ["Objectives"]="Baros Alexston'ın Westfall'daki evine gidin ve pusulasını arayın, ardından Stormwind Katedral Meydanında ona geri verin.",
+    ["Description"]="Batıdiyar(westfall)'da çiftlikte çalışan bir çocuk olduğumdan beri çok zaman geçmiş gibi geliyor. Asla geri dönemezsin derler ve bu doğru. Benim durumumda iki kat daha doğru, ailemin evi yandı ve geçici göçmenler tarafından ele geçirildi.NEW_LINENEW_LINEİlk pusulam da dahil olmak üzere bazı eşyalarımın akıbeti hakkında babamla konuştum. Onları kurtarmayı başaramadı. Bununla birlikte, çiftlikte saklanmaları gerektiğini de söyledi.NEW_LINENEW_LINEAlexston Çiftliği'ni Sentinel Tepesi'nin batısında bulacaksın. Belki de benim için gidip onu geri alabilirsin?",
+    ["Objectives"]="Baros Alexston'ın Batıdiyar(westfall)'daki evine gidin ve pusulasını arayın, ardından Stormwind Katedral Meydanında ona geri verin.",
     ["Progress"]="YOUR_NAME! Şansınız yaver gitti mi?",
-    ["Completion"]="Teşekkür ederim, YOUR_NAME! Benim için pratik bir faydası yok ama manevi değeri var. Söylemeye gerek yok, bunu bana getirdiğin için teşekkür ederim... Westfall'a kadar gitmek için harcadığın zamandan bahsetmiyorum bile. Size minnettarım ve bunu da teşekkürümün bir nişanesi olarak kabul edin.",
+    ["Completion"]="Teşekkür ederim, YOUR_NAME! Benim için pratik bir faydası yok ama manevi değeri var. Söylemeye gerek yok, bunu bana getirdiğin için teşekkür ederim... Batıdiyar(westfall)'a kadar gitmek için harcadığın zamandan bahsetmiyorum bile. Size minnettarım ve bunu da teşekkürümün bir nişanesi olarak kabul edin.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Mütevazı Başlangıçlar
@@ -5473,7 +5473,7 @@ QuestTranslator_QuestData = {
     ["590"] = {
     ["Title"]="Bir Düzenbazın Anlaşması",
     ["Description"]="Ne?NEW_LINENEW_LINENe?!NEW_LINENEW_LINEPara mı istiyorsun? Sana borcum yok.NEW_LINENEW_LINEMektup mu? Ne mektubu? Dövüşmek mi istiyorsun? Pekala, dostum... Hadi yapalım şunu! Sana borçluyum.",
-    ["Objectives"]="Deathknell'de Calvin Montague'u yen.",
+    ["Objectives"]="Ölümçanı'de Calvin Montague'u yen.",
     ["Progress"]="",
     ["Completion"]="İnanılmaz! Ne yetenek ama!NEW_LINENEW_LINEKolay bir av olacağını düşünmüştüm, YOUR_NAME. Beni iyi yakaladın.NEW_LINENEW_LINEİşte söz verdiğim para... Söylediğim kadar çok değil, ama bu en başta sana yalan söylediğime bağlı.",
     ["minlevel"]="0",
@@ -9308,16 +9308,16 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end Mauren'den Bir Parşömen
 
-    -- Westfall'daki Şeytanlar
+    -- Batıdiyar(westfall)'daki Şeytanlar
     ["1076"] = {
-    ["Title"]="Westfall'daki Şeytanlar",
-    ["Description"]="Ah, sanırım buldum. Bir mesajlaşma büyüsü. Sanırım aradığı etki bu.NEW_LINENEW_LINEÜzerinde büyü olan bir parşömen yaratmam gerekecek. Bunun için bir toz şeytanının enkazına ihtiyacım olacak.NEW_LINENEW_LINEBen bileşenlerin geri kalanını toplarken, sen de Westfall'a gidip iğrenç yaratıklardan birini bulmaya ne dersin? Tehlikeliler ama eminim Gaxim'in deneylerinden birine maruz kalmak istiyorsan üstesinden gelemeyeceğin bir şey değildir.NEW_LINENEW_LINEDöndüğünde burada olacağım.",
+    ["Title"]="Batıdiyar(westfall)'daki Şeytanlar",
+    ["Description"]="Ah, sanırım buldum. Bir mesajlaşma büyüsü. Sanırım aradığı etki bu.NEW_LINENEW_LINEÜzerinde büyü olan bir parşömen yaratmam gerekecek. Bunun için bir toz şeytanının enkazına ihtiyacım olacak.NEW_LINENEW_LINEBen bileşenlerin geri kalanını toplarken, sen de Batıdiyar(westfall)'a gidip iğrenç yaratıklardan birini bulmaya ne dersin? Tehlikeliler ama eminim Gaxim'in deneylerinden birine maruz kalmak istiyorsan üstesinden gelemeyeceğin bir şey değildir.NEW_LINENEW_LINEDöndüğünde burada olacağım.",
     ["Objectives"]="Stormwind'deki Collin Mauren'e Toz Şeytan Enkazı getir.",
     ["Progress"]="Merhaba, YOUR_NAME. İhtiyacım olan bileşeni buldunuz mu?",
     ["Completion"]="Bana birkaç dakika izin verin, parşömeninizi sizin için hazırlayayım.",
     ["minlevel"]="0",
     ["questlevel"]="0",
-    }, -- end Westfall'daki Şeytanlar
+    }, -- end Batıdiyar(westfall)'daki Şeytanlar
 
     -- Gaxim için Özel Teslimat
     ["1077"] = {
@@ -10444,7 +10444,7 @@ QuestTranslator_QuestData = {
     -- Kayıp Diplomat
     ["1244"] = {
     ["Title"]="Kayıp Diplomat",
-    ["Description"]="Defias faaliyeti mi? Her zaman bir hareketlilik vardır; kendi içlerinde kalsalar bile biz onları bir tehdit olarak görüyoruz.NEW_LINENEW_LINEAma şimdi düşünüyorum da, yakın zamanda tuhaf görünen bir olay oldu. Birkaç hafta önce olmalı, ama bazı ajanları Addle's Stead'in etrafında toplanmıştı. Rapordan, büyük bir şey olduğunu tahmin etmiştim.NEW_LINENeden önce orayı kontrol edip bulduklarını bana getirmiyorsun?NEW_LINENEW_LINEÇiftlik Westfall'dan Alacakaranlık Ormanı'a girerken yolun güneyinde.",
+    ["Description"]="Defias faaliyeti mi? Her zaman bir hareketlilik vardır; kendi içlerinde kalsalar bile biz onları bir tehdit olarak görüyoruz.NEW_LINENEW_LINEAma şimdi düşünüyorum da, yakın zamanda tuhaf görünen bir olay oldu. Birkaç hafta önce olmalı, ama bazı ajanları Addle's Stead'in etrafında toplanmıştı. Rapordan, büyük bir şey olduğunu tahmin etmiştim.NEW_LINENeden önce orayı kontrol edip bulduklarını bana getirmiyorsun?NEW_LINENEW_LINEÇiftlik Batıdiyar(westfall)'dan Alacakaranlık Ormanı'a girerken yolun güneyinde.",
     ["Objectives"]="Defias Dosyasını bulun ve Alacakaranlık Ormanı'daki Gözcü Backus'a iade edin.",
     ["Progress"]="Dışarıda dikkatli ol, YOUR_NAME. Seni buraya gönderenin Trias olduğunu biliyorum, ama bu ormanda sana sorun çıkarmayacak bir şey olmadığı anlamına gelmez... özellikle de Defias'ı araştırırken.",
     ["Completion"]="Sağ salim döndün. Bundan daha fazlasını isteyemezdin, değil mi?NEW_LINENEW_LINEBakalım burada ne varmış. Bu gördüğüm Defias belgelerine göre oldukça resmi görünüyor. Ama aradığınız her neyse, sizi yanıltmak için sahte olabilir.",
@@ -11841,8 +11841,8 @@ QuestTranslator_QuestData = {
     -- Cesaret Taşı
     ["1650"] = {
     ["Title"]="Cesaret Taşı",
-    ["Description"]="Güzel! Tereddüt etmemeniz, kendinizi test etmeye hazır ve istekli olduğunuzun kesin bir işaretidir. Öyle olsun.NEW_LINENEW_LINEWestfall's Longshore'un en uç noktasında, okyanusa bakan küçük bir ev var. Orada bir çift yaşıyor, Stilwell'ler. Jordan inanılmaz bir demircidir ve bir süreliğine cücelerle buluşmak için Ironforge'a gitmiştir. Ancak bu durum karısı Daphne'yi yalnız ve korumasız bırakmıştır.NEW_LINENEW_LINERaporlar Defias'ın bölgeyi tamamen ele geçirdiğini gösteriyor, Daphne'nin kötü adamlardan korunmaya ihtiyacı olabilir. Oraya git.",
-    ["Objectives"]="Westfall'da Daphne Stilwell'i bul.",
+    ["Description"]="Güzel! Tereddüt etmemeniz, kendinizi test etmeye hazır ve istekli olduğunuzun kesin bir işaretidir. Öyle olsun.NEW_LINENEW_LINEBatıdiyar(westfall)'s Longshore'un en uç noktasında, okyanusa bakan küçük bir ev var. Orada bir çift yaşıyor, Stilwell'ler. Jordan inanılmaz bir demircidir ve bir süreliğine cücelerle buluşmak için Ironforge'a gitmiştir. Ancak bu durum karısı Daphne'yi yalnız ve korumasız bırakmıştır.NEW_LINENEW_LINERaporlar Defias'ın bölgeyi tamamen ele geçirdiğini gösteriyor, Daphne'nin kötü adamlardan korunmaya ihtiyacı olabilir. Oraya git.",
+    ["Objectives"]="Batıdiyar(westfall)'da Daphne Stilwell'i bul.",
     ["Progress"]="",
     ["Completion"]="Merhaba, YOUR_NAME. Zırhına ve silahlarına bakılırsa ya topraklarımı ele geçirmek için buradasın ya da Kilise sonunda Jordan'ım yokken beni koruması için birini gönderdi.NEW_LINENEW_LINEPekala, kendimi tanıtmama izin verin: Ben Daphne Stilwell. Benim için bir zevk.NEW_LINENEW_LINEÇok geç kalmış sayılmazsın. Son güneş doğduğundan beri sadece yarım düzine pislik öldürdüm. Oradaki virajı almakta biraz yavaş davrandılar, ama muhtemelen senin geldiğini gördüler, yani her an burada olabilirler.",
     ["minlevel"]="0",
@@ -13674,7 +13674,7 @@ QuestTranslator_QuestData = {
     -- Kapma ve Yakalama
     ["2206"] = {
     ["Title"]="Kapma ve Yakalama",
-    ["Description"]="Sahadaki ajanlarımız Goldshire'ın güneyinde yoğun bir haydut faaliyeti olduğunu bildiriyor. Raporlar, haydutların Jerod's Landing'i ele geçirdiklerini ve şimdi Kızılkaya'dan Westfall'a büyük miktarlarda kaçak mal kaçırmak için bir yol olarak kullandıklarını gösteriyor.NEW_LINENEW_LINELimana sızıp bana o sevkiyat programını getirmeni istiyorum, YOUR_NAME. Muhtemelen Liman Müdürü'nün ceplerinin derinliklerinde gömülü olarak bulacaksın.NEW_LINENEW_LINE...ve YOUR_NAME Eğer fark edilirseniz, SI:7 varlığınızla ilgili tüm bilgileri reddedecektir.",
+    ["Description"]="Sahadaki ajanlarımız Goldshire'ın güneyinde yoğun bir haydut faaliyeti olduğunu bildiriyor. Raporlar, haydutların Jerod's Landing'i ele geçirdiklerini ve şimdi Kızılkaya'dan Batıdiyar(westfall)'a büyük miktarlarda kaçak mal kaçırmak için bir yol olarak kullandıklarını gösteriyor.NEW_LINENEW_LINELimana sızıp bana o sevkiyat programını getirmeni istiyorum, YOUR_NAME. Muhtemelen Liman Müdürü'nün ceplerinin derinliklerinde gömülü olarak bulacaksın.NEW_LINENEW_LINE...ve YOUR_NAME Eğer fark edilirseniz, SI:7 varlığınızla ilgili tüm bilgileri reddedecektir.",
     ["Objectives"]="Liman Başkanını bulun ve Kaptan Mathias Shaw'ın Nakliye Programını kurtarın.",
     ["Progress"]="Kışlada oyalanarak geçirdiğin her an ölümlülüğün azalıyor, YOUR_CLASS.",
     ["Completion"]="Şaşırdım. Keryn'in sonunda uygun bir YOUR_CLASS olabilecek bir acemi bulmasına şaşırdım. . Al şu bıçağı, YOUR_NAME. SI:7'ye hizmet etmek için tekrar çağrılacağın bir gün gelecek. Yeteneklerinizi geliştirin, gözlerinizi açık ve bıçağınızı keskin tutun.NEW_LINENEW_LINEGeldiğimizi görmeyeceksin ama oraya vardığımızda hissedeceksin...",
@@ -13982,7 +13982,7 @@ QuestTranslator_QuestData = {
     -- Mathias ve Defias
     ["2360"] = {
     ["Title"]="Mathias ve Defias",
-    ["Description"]="Bir an bile erken değil, YOUR_NAME. SI:7 keşif ekibi Westfall'da alışılmadık derecede yoğun Defias faaliyeti rapor ediyor.NEW_LINENEW_LINEGörünüşe göre Defias, Sentinel Tepesi'nin güneydoğusunda terk edilmiş bir İttifak gözetleme kulesini ele geçirmiş ve Kızılkaya ikmal yolundan mal kaçırmak için burayı bir operasyon üssü olarak kullanıyor.NEW_LINENEW_LINEWestfall'a git ve sorgulama için Ajan Kearnen ile bağlantı kur. Onu kulenin yakınında saklanmış olarak bulacaksın.NEW_LINENEW_LINE...ve YOUR_NAME Eğer fark edilirseniz, SI:7 varlığınızla ilgili tüm bilgileri reddedecektir.",
+    ["Description"]="Bir an bile erken değil, YOUR_NAME. SI:7 keşif ekibi Batıdiyar(westfall)'da alışılmadık derecede yoğun Defias faaliyeti rapor ediyor.NEW_LINENEW_LINEGörünüşe göre Defias, Sentinel Tepesi'nin güneydoğusunda terk edilmiş bir İttifak gözetleme kulesini ele geçirmiş ve Kızılkaya ikmal yolundan mal kaçırmak için burayı bir operasyon üssü olarak kullanıyor.NEW_LINENEW_LINEBatıdiyar(westfall)'a git ve sorgulama için Ajan Kearnen ile bağlantı kur. Onu kulenin yakınında saklanmış olarak bulacaksın.NEW_LINENEW_LINE...ve YOUR_NAME Eğer fark edilirseniz, SI:7 varlığınızla ilgili tüm bilgileri reddedecektir.",
     ["Objectives"]="Westfall'a git ve sorgulama için Ajan Kearnen'ı bul.",
     ["Progress"]="",
     ["Completion"]="Mathias sonunda beni desteklemesi için başka bir ajan gönderdi, ha? Umarım kötü haberleri duymaya hazırdır.",
@@ -15032,7 +15032,7 @@ QuestTranslator_QuestData = {
     ["3095"] = {
     ["Title"]="Basit Kaydırma",
     ["Description"]="Ah, sen akılsız Bela ile uğraşırken, bu parşömen sana geldi. Savaşçı eğitmeni Dannal'ın mührünü taşıyor gibi göründüğü için önemli bir mesele olduğunu düşünebilirim. Tekrar yola çıkmadan önce okumak için biraz zaman ayırırdım.",
-    ["Objectives"]="Basit Parşömeni okuyun ve Deathknell'de Dannal Stern ile konuşun.",
+    ["Objectives"]="Basit Parşömeni okuyun ve Ölümçanı'de Dannal Stern ile konuşun.",
     ["Progress"]="Demek geldin. Güzel. Duyduğuma göre birkaç kişi daha \\",
     ["Completion"]="Deneyiminiz arttıkça sizi eğitmek için burada olacağım... beni istediğiniz sıklıkta bulun. Cüzi bir ücret talep ediyorum, ancak size öğretebileceğim her şeyin değerli olduğunu göreceksiniz.NEW_LINENEW_LINEŞimdi gidin ve becerinizi test edin. Deneyim kazandıkça daha birçok şey öğreneceksin, bazılarını burada seninle tartışamam. Sadece şunu bil ki Sylvanas'ın gelecekte senin gibi güçlü savaşçılara ihtiyacı olacak. Kurtuluşumuzun bel kemiği siz olacaksınız. Bunu sakın unutma.",
     ["minlevel"]="0",
@@ -15043,7 +15043,7 @@ QuestTranslator_QuestData = {
     ["3096"] = {
     ["Title"]="Şifreli Kaydırma",
     ["Description"]="Ah, sen akılsız Scourge ile uğraşırken, bu parşömen sana geldi. Haydut eğitmen David Trias'ın mührünü taşıyor gibi göründüğü için önemli bir mesele olduğunu düşünürdüm. Tekrar yola çıkmadan önce okumak için biraz zaman ayırırdım.",
-    ["Objectives"]="Şifreli Parşömeni okuyun ve Deathknell'de David Trias ile konuşun.",
+    ["Objectives"]="Şifreli Parşömeni okuyun ve Ölümçanı'de David Trias ile konuşun.",
     ["Progress"]="Demek başardın? Güzel, zaman geçtikçe daha fazla hayduta ihtiyacımız olacak. Shadowstalker'lar doğru zamanın geldiğini düşündüklerinde muhtemelen sizi bulacaklardır, bu yüzden gidip hata yapmayın ya da pişman olabileceğiniz bir şey yapmayın. Yetenekli ajanlara ihtiyaçları var... yankesicilere ve aptallara değil.",
     ["Completion"]="Zamanımın çoğunu burada, handa yeni yüzlere göz kulak olarak ve gelecek vaat edenleri takip ederek geçiriyorum. Burnunu temiz tutarsan sana birkaç şey öğretmek için elimden geleni yaparım. Ne zaman istersen bana geri gel ve yeni bir iki beceri için hazır olup olmadığını görelim.",
     ["minlevel"]="0",
@@ -15054,7 +15054,7 @@ QuestTranslator_QuestData = {
     ["3097"] = {
     ["Title"]="Kutsal Parşömen",
     ["Description"]="Ah, sen akılsız Bela ile uğraşırken, bu parşömen sana geldi. Rahip eğitmen Duesten'in mührünü taşıyor gibi göründüğü için önemli bir mesele olduğunu düşünebilirim. Tekrar yola çıkmadan önce okumak için biraz zaman ayırırdım.",
-    ["Objectives"]="Kutsal Parşömeni okuyun ve Deathknell'deki kilisede Kara Rahip Duesten ile konuşun.",
+    ["Objectives"]="Kutsal Parşömeni okuyun ve Ölümçanı'deki kilisede Kara Rahip Duesten ile konuşun.",
     ["Progress"]="Yangın, veba, isyan ve çok daha kötüsü arasında \\",
     ["Completion"]="Bilmeniz gereken tek bir şey var: Biz sadece irademizle hayatta kaldık. Bizi diğerlerinden ayıran şey kendimize olan inancımızdır ve güçlerimizle tüm Azeroth'ta büyük bir değişime neden olacağız. Zayıflar gelip sana yaslanacak. Cüzzamlılar sana Rab diyecek. Ve cahiller rehberlik için sana bakacak. Zamanı geldiğinde hazırlıklı olmanız için gerekli araçlara sahip olduğunuzdan emin olmak benim görevim. Deneyiminiz arttıkça beni arayın. Eğer hazırsanız size daha büyük güçler öğreteceğim.",
     ["minlevel"]="0",
@@ -15065,7 +15065,7 @@ QuestTranslator_QuestData = {
     ["3098"] = {
     ["Title"]="Glifik Parşömen",
     ["Description"]="Ah, sen akılsız Scourge ile uğraşırken, bu parşömen senin için geldi. Büyücü eğitmeni Isabella'nın mührünü taşıyor gibi göründüğü için önemli bir konu olduğunu düşünüyorum. Tekrar yola çıkmadan önce okumak için biraz zaman ayırırdım.",
-    ["Objectives"]="Glif Parşömenini okuyun ve Deathknell'deki kilisede Isabella ile konuşun.",
+    ["Objectives"]="Glif Parşömenini okuyun ve Ölümçanı'deki kilisede Isabella ile konuşun.",
     ["Progress"]="Bana geleceğini biliyordum, YOUR_NAME. Kendi yolunuzu takip edecek iradeye sahip olmadığınız için değil, benzer ruhlara sahip olduğumuz için. İkimiz de acı çektik. İkimiz de acı çektik. Ve şimdi bizim olduğunu bildiğimiz şeyi geri almak için güç istiyoruz: bu toprakları, hayatlarımızı, kaderlerimizi. Ama hala öğrenmeniz gereken çok şey var.",
     ["Completion"]="Bize karşı çıkanları yok edecek kadar güçlü olmak istiyorsan bana sık sık dönmelisin. Büyü kuralları hala senin için geçerli, YOUR_NAME. Yozlaşmanın seni geceleri aç kurtlar gibi takip ettiğini göreceksin. Onun okşamasının bir bağımlılıktan farklı olmadığını göreceksiniz, eski bir sevgili hala yanınızda olmak istiyor. Ama bunlar engellenebilir. Bu şeyler ancak siz izin verirseniz sizi kontrol eder.NEW_LINENEW_LINEŞimdi git, daha güçlü olduğunda bana dön.",
     ["minlevel"]="0",
@@ -15076,7 +15076,7 @@ QuestTranslator_QuestData = {
     ["3099"] = {
     ["Title"]="Lekeli Parşömen",
     ["Description"]="Ah, sen akılsız Scourge ile uğraşırken, bu parşömen sana geldi. Büyücü eğitmeni Maximillion'un mührünü taşıyor gibi göründüğü için önemli bir mesele olduğunu düşünebilirim. Tekrar yola çıkmadan önce okumak için biraz zaman ayırırdım.",
-    ["Objectives"]="Lekeli Parşömeni okuyun ve Deathknell'de Maximillion ile konuşun.",
+    ["Objectives"]="Lekeli Parşömeni okuyun ve Ölümçanı'de Maximillion ile konuşun.",
     ["Progress"]="Sana hoş geldin diyorum dostum. Geleceğini biliyordum. Sadece an meselesiydi.NEW_LINENEW_LINESöylediklerim ilgini çekti, değil mi? Akordu tutturdum... İçinde bir şey iddia ettiğim şeyin gerçek olduğunu biliyordu. Güzel. Şunu bil ki, ben Sylvanas'a ihanet eden biri değilim. Aksine, Forsaken'ı şu anki konumuna getiren şeyin kendi inançları olduğunu düşünürsek, iddialarımı takdir edecektir.",
     ["Completion"]="Bir kölenin, efendisi ne olursa olsun hala köle olduğundan bahsetmiştim. Hatırladın mı? İkimiz de biliyoruz ki bu tür bir kontrol -bu tür bir güç- artık bizi yönlendiriyor. Yaratıkların bize hizmet etmesini istiyoruz. Daha güçlü olduğumuzu ve başkalarının bize gösterdiğinden daha fazla saygıyı hak ettiğimizi biliyoruz ... ve şimdi bunu almaya bakıyoruz. Kendi özgürlüğümüz için verdiğimiz bu mücadelede sizin müttefikiniz olacağım. Kendi bağlılıklarımızı arama özgürlüğü. Kendinizi hazır hissettiğinizde bana dönün ve size bildiğim her şeyi öğreteyim.",
     ["minlevel"]="0",
@@ -16077,8 +16077,8 @@ QuestTranslator_QuestData = {
     -- Çöpçü Ölümböceği
     ["3902"] = {
     ["Title"]="Çöpçü Ölümböceği",
-    ["Description"]="Sen oradaki! Kendinizi işe yarar kılacak bir şey arıyorsanız, dinleyin!NEW_LINENEW_LINEDeathknell'e gidip işe yarar her türlü ekipmanı arayacak yeni acemilere ihtiyacımız var. Büyük olasılıkla kutu yığınları içinde olacaklardır. Yakında daha fazla aceminin gelmesini bekliyoruz ve onların çıplak dolaşmasını istemiyorsak, çöpleri karıştırmaya başlasak iyi olur!NEW_LINENEW_LINEO zaman işe koyul, seni sefil kemik torbası! Acele etmeyenleri ödüllendirmeyeceğim.",
-    ["Objectives"]="Deathknell ve çevresinde 6 parça Leş Mal arayın ve bunları Deathguard Saltain'e geri verin.",
+    ["Description"]="Sen oradaki! Kendinizi işe yarar kılacak bir şey arıyorsanız, dinleyin!NEW_LINENEW_LINEÖlümçanı'e gidip işe yarar her türlü ekipmanı arayacak yeni acemilere ihtiyacımız var. Büyük olasılıkla kutu yığınları içinde olacaklardır. Yakında daha fazla aceminin gelmesini bekliyoruz ve onların çıplak dolaşmasını istemiyorsak, çöpleri karıştırmaya başlasak iyi olur!NEW_LINENEW_LINEO zaman işe koyul, seni sefil kemik torbası! Acele etmeyenleri ödüllendirmeyeceğim.",
+    ["Objectives"]="Ölümçanı ve çevresinde 6 parça Leş Mal arayın ve bunları Deathguard Saltain'e geri verin.",
     ["Progress"]="Bizim için işe yarar eşyalar bulmayı başardınız mı? Bir kenara atılmış bir şeyi yeniden kullanmakta utanılacak bir şey yok. Kimse bize sadaka vermeyecek - biz Unutulmuşlar kendi başımızın çaresine bakacağız!",
     ["Completion"]="Harika iş YOUR_NAME İşe yaramaz olmadığını biliyordum. İşte - şimdiye kadar toplananlar arasında bulduğum en iyi parçalardan biri.",
     ["minlevel"]="0",
@@ -19036,7 +19036,7 @@ QuestTranslator_QuestData = {
     -- Marla'nın Son Dileği
     ["6395"] = {
     ["Title"]="Marla'nın Son Dileği",
-    ["Description"]="Arkadaşım Marla Fipps vebadan önce kocası Samuel ile birlikte yaşıyordu, ancak veba geldiğinde Samuel yenik düştü ve Scourge'un saflarına katıldı.NEW_LINENEW_LINEMarla ölümden kurtulmuş ancak artık akılsız olan kocasının ellerinde ölmüştür. Ancak aşkı o kadar güçlüydü ki, son arzusu sevgili Samuel'iyle birlikte gömülmekti.NEW_LINENEW_LINESamuel Fipps, Deathknell'in kuzeydoğusundaki yol boyunca harabe bir kampta dolaşıyor. Onu alt edin ve Marla'nın dileğini yerine getirin: Onu mezarlığımızın ilk sırasındaki mezarına gömün.",
+    ["Description"]="Arkadaşım Marla Fipps vebadan önce kocası Samuel ile birlikte yaşıyordu, ancak veba geldiğinde Samuel yenik düştü ve Scourge'un saflarına katıldı.NEW_LINENEW_LINEMarla ölümden kurtulmuş ancak artık akılsız olan kocasının ellerinde ölmüştür. Ancak aşkı o kadar güçlüydü ki, son arzusu sevgili Samuel'iyle birlikte gömülmekti.NEW_LINENEW_LINESamuel Fipps, Ölümçanı'in kuzeydoğusundaki yol boyunca harabe bir kampta dolaşıyor. Onu alt edin ve Marla'nın dileğini yerine getirin: Onu mezarlığımızın ilk sırasındaki mezarına gömün.",
     ["Objectives"]="Samuel Fipps'in Kalıntılarını Marla'nın Mezarına getirin, sonra Acemi Elreth'e dönün.",
     ["Progress"]="Ölülerimize saygı göstermeliyiz, YOUR_NAME. Beladan farklı olduğumuz yönlerden biri de bu.",
     ["Completion"]="Bugün iyi bir iş yaptın Nerthiliuz. Bela'ya karşı mücadelemiz devam etse de, Marla ve Samuel'in ebedi istirahatgahlarında birlikte huzur bulacaklarını umalım.",
@@ -22505,7 +22505,7 @@ QuestTranslator_QuestData = {
     ["Description"]="Ah, gelecek vaat eden bir avcısın, ancak Forsaken'a ve kraliçemize hizmet etmek için görevlerini yapmaya devam ettiğin sürece sana öğretebileceğim başka bir şey kalmadığından korkuyorum; sanırım senin için Brill'e ilerleme vakti geldi. Buradaki tüm işlerini bitirdikten sonra Dark Ranger Lanissa'yı ara, Brill kasabasındaki bir çadırda olacak. Görevine devam etmek için bilmen gereken her şeyi sana öğretecektir; bu dark ranger'lar Leydimiz Sylvanas ile birlikte Quel'thalas'tan getirildiler, isimlerinin hakkını verdikleri gibi nişancılık söz konusu olduğunda son derece yeteneklidirler. Elveda ve gölgelere sadık kalmayı unutma, Forsaken adına.",
     ["Objectives"]="Brill'deki Dark Ranger Lanissa ile konuşun.",
     ["Progress"]="İşini çabuk hallet, bütün gün burada kalacak lüksüm yok.",
-    ["Completion"]="Morpheus seni Deathknell'den mi gönderdi? Bu yolda yürümek isteyen birini görmeyeli uzun zaman olmuştu. Eğitime ayak uydurabildiğin sürece başımın üstünde yerin var.",
+    ["Completion"]="Morpheus seni Ölümçanı'den mi gönderdi? Bu yolda yürümek isteyen birini görmeyeli uzun zaman olmuştu. Eğitime ayak uydurabildiğin sürece başımın üstünde yerin var.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end A Dark Ranger's Mastery
@@ -25820,7 +25820,7 @@ QuestTranslator_QuestData = {
     ["Description"]="Ah, sen akılsız Afet (Scourge) ile uğraşırken bu parşömen senin için geldi. Avcı eğitmeni Morpheus Göğüskafesi'nin (Morpheus Ribcage) mührünü taşıdığı için önemli bir mesele olduğunu düşünüyorum. Tekrar yola çıkmadan önce okumak için biraz zaman ayır derim.",
     ["Objectives"]="Morpheus Göğüskafesi ile konuş.",
     ["Progress"]="Seni neden çağırttığımı biliyor olmalısın, YOUR_NAME. Düşmüş bir nişancının yeniden yükseldiğini görmek, bu lanetli topraklarda çok nadir görülen bir umut ışığıdır. Leydi Sylvanas, yakında komutası altında yeniden korucu saflarına sahip olabileceği için şüphesiz memnun olacaktır. Bu rüyayı gerçekleştirmek için uygun bir kap haline gelmeni sağlayacağım. Şimdi bir Karanlık Korucu (Dark Ranger) olarak kaderini kucakla.",
-    ["Completion"]="Bu silahı iyi taşıyorsun ama yeterli bir nişancı olmak için bu kafi değil. Karanlık Leydi, Sylvanas Windrunner, seni Lich Kral'ın iradesine bağlayan prangalardan kurtardı. Onun bu nazik hediyesine, onun davası için kendinden vererek karşılık vereceksin. Eğer kendini adayamazsan, emekleyerek çıktığın o deliğe seni  tekrar gömeceğim. Seni düşmanlarının kalbini vuran birçok oktan biri olman için eğiteceğim. Bana sık sık gel ki sana yeni beceriler öğretebileyim. Ölümçanı'ndaki (Deathknell) gelişimini dikkatle izliyor ve ölçüyor olacağım.",
+    ["Completion"]="Bu silahı iyi taşıyorsun ama yeterli bir nişancı olmak için bu kafi değil. Karanlık Leydi, Sylvanas Windrunner, seni Lich Kral'ın iradesine bağlayan prangalardan kurtardı. Onun bu nazik hediyesine, onun davası için kendinden vererek karşılık vereceksin. Eğer kendini adayamazsan, emekleyerek çıktığın o deliğe seni  tekrar gömeceğim. Seni düşmanlarının kalbini vuran birçok oktan biri olman için eğiteceğim. Bana sık sık gel ki sana yeni beceriler öğretebileyim. Ölümçanı'ndaki (Ölümçanı) gelişimini dikkatle izliyor ve ölçüyor olacağım.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Batskin Letter
@@ -30368,10 +30368,10 @@ QuestTranslator_QuestData = {
     ["60112"] = {
     -- Marla, Samuel, Scourge -> Afet, Tirisfal.
     -- Novice Elreth -> Çömez Elreth, Karrel Grayves -> Karrel Mezarkazan (Grayves -> Graves sesletimiyle Mezarkazan), Daniel Ulfman -> Daniel Kurtadam (Ulf + Man -> Kurtadam), Stephen Bhartec -> Stephen Bhartec.
-    -- Deathknell's gate -> Ölümçanı'nın kapısı.
+    -- Ölümçanı's gate -> Ölümçanı'nın kapısı.
     ["Title"]="Düşmüş Maceracılar",
     ["Description"]="Marla'nın dileğini yerine getirmekle yükümlü olsam da Samuel'ın arkadaşlarını düşünmeden edemiyorum. Bedenleri ve zihinleri kurtarılamayacak şekilde Afet'in (the Scourge) ebedi hizmetine lanetlendiler. Lütfen, onları görürseniz... huzura kavuşturun.",
-    ["Objectives"]="Çömez Elreth (Novice Elreth), Karrel Mezarkazan'ı (Karrel Grayves), Daniel Kurtadam'ı (Daniel Ulfman) ve Stephen Bhartec'i öldürmeni istiyor. En son Ölümçanı'nın (Deathknell) kapısının yakınındaki bir kampta görüldüler.",
+    ["Objectives"]="Çömez Elreth (Novice Elreth), Karrel Mezarkazan'ı (Karrel Grayves), Daniel Kurtadam'ı (Daniel Ulfman) ve Stephen Bhartec'i öldürmeni istiyor. En son Ölümçanı'nın (Ölümçanı) kapısının yakınındaki bir kampta görüldüler.",
     ["Progress"]="Hep birlikte Tirisfal'ı keşfederlerdi. Karrel bir demirciydi, Daniel bir avcıydı ve Stephen'ın bilgeliği hepsine rehberlik ederdi. Onları böyle görmek kalbimi kırıyor.",
     ["Completion"]="Teşekkür ederim, YOUR_NAME. Afet'in kontrolünden asla kurtulamamış olmaları tam bir utanç kaynağı. Güçlü müttefikler olabilirlerdi.",
     ["minlevel"]="0",
@@ -73841,7 +73841,7 @@ QuestTranslator_QuestData = {
 
 ["8356"] = {
     ["Title"] = "Nuga İçin Kas Germe",
-    ["Description"] = "Üzerinde... ilginç bir kostüm var. Bu yıl hasta bir çocuğa şeker mi şaka mı konusunda yardım edip iyilik yapıyor olsan bile, korkarım benim için bir numara yapmanı istemek zorunda kalacağım!NEW_LINENEW_LINEBakalım... o... kostümün içinde çok güçlü ve kaslı görünüyorsun... bakalım kaslarını göster! Evet, devam et ve benim için kaslarını göster, güçlü $g adam : kadın;!NEW_LINENEW_LINESadece ve sadece kaslarını gösterdiğinde sana lezzetli Fırtınarüzgarı Nugası vereceğim. Harika bir Cadılar Bayramı ikramıdır.",
+    ["Description"] = "Üzerinde... ilginç bir kostüm var. Bu yıl hasta bir çocuğa şeker mi şaka mı konusunda yardım edip iyilik yapıyor olsan bile, korkarım benim için bir numara yapmanı istemek zorunda kalacağım!NEW_LINENEW_LINEBakalım... o... kostümün içinde çok güçlü ve kaslı görünüyorsun... bakalım kaslarını göster! Evet, devam et ve benim için kaslarını göster, güçlü !NEW_LINENEW_LINESadece ve sadece kaslarını gösterdiğinde sana lezzetli Fırtınarüzgarı Nugası vereceğim. Harika bir Cadılar Bayramı ikramıdır.",
     ["Objectives"] = "Hancı Allison'a kas gösterme (flex) emotesi yap, karşılığında Fırtınarüzgarı Nugası alacaksın!",
     ["Progress"] = "Kaslarını benim için gösterene kadar şeker yok, YOUR_NAME...",
     ["Completion"] = "Gerçekten de çok güçlüsün, haha! Aferin ve bu kadar iyi bir sporcu olduğun için teşekkürler. İşte şekerin.NEW_LINENEW_LINEMutlu Cadılar Bayramı, YOUR_NAME!",
@@ -73871,7 +73871,7 @@ QuestTranslator_QuestData = {
 
 ["8359"] = {
     ["Title"] = "Nuga İçin Kas Germe",
-    ["Description"] = "Üzerinde... ilginç bir kostüm var. Bu yıl hasta bir çocuğa şeker mi şaka mı konusunda yardım edip iyilik yapıyor olsan bile, korkarım benim için bir numara yapmanı istemek zorunda kalacağım!NEW_LINENEW_LINEBakalım... o... kostümün içinde çok güçlü ve kaslı görünüyorsun... bakalım kaslarını göster! Evet, devam et ve benim için kaslarını göster, güçlü $g adam : kadın;!NEW_LINENEW_LINESadece ve sadece kaslarını gösterdiğinde sana lezzetli Orgrimmar Nugası vereceğim. Harika bir Cadılar Bayramı ikramıdır.",
+    ["Description"] = "Üzerinde... ilginç bir kostüm var. Bu yıl hasta bir çocuğa şeker mi şaka mı konusunda yardım edip iyilik yapıyor olsan bile, korkarım benim için bir numara yapmanı istemek zorunda kalacağım!NEW_LINENEW_LINEBakalım... o... kostümün içinde çok güçlü ve kaslı görünüyorsun... bakalım kaslarını göster! Evet, devam et ve benim için kaslarını göster!NEW_LINENEW_LINESadece ve sadece kaslarını gösterdiğinde sana lezzetli Orgrimmar Nugası vereceğim. Harika bir Cadılar Bayramı ikramıdır.",
     ["Objectives"] = "Hancı Gryshka'ya kas gösterme (flex) emotesi yap, karşılığında Orgrimmar Nugası alacaksın!",
     ["Progress"] = "Kaslarını benim için gösterene kadar şeker yok, YOUR_NAME...",
     ["Completion"] = "Gerçekten de çok güçlüsün, haha! Aferin ve bu kadar iyi bir sporcu olduğun için teşekkürler. İşte şekerin.NEW_LINENEW_LINEMutlu Cadılar Bayramı, YOUR_NAME!",
@@ -74861,7 +74861,7 @@ QuestTranslator_QuestData = {
 
 ["8700"] = {
     ["Title"] = "Bitmeyen Yaşamın Halkası",
-    ["Description"] = "Qiraji teğmenleri tarafından takılan yüzüklerin onlara muazzam yetenekler kazandırdığı söylenir. Onları süsleyen bozunmuş mücevherler, teorik olarak, yüzüklerin bozunmamış versiyonlarını oluşturmak için daha saf malzemelerle değiştirilebilir.NEW_LINENEW_LINEQiraji putlarını süsleyen mücevherler, kaliteleri üstün olduğu için oldukça işe yarayacaktır.NEW_LINENEW_LINEBana yüzüğü ve putları getir, sana güçlü bir yüzük yapayım, $g yoldaşım : kız kardeşim; druid.",
+    ["Description"] = "Qiraji teğmenleri tarafından takılan yüzüklerin onlara muazzam yetenekler kazandırdığı söylenir. Onları süsleyen bozunmuş mücevherler, teorik olarak, yüzüklerin bozunmamış versiyonlarını oluşturmak için daha saf malzemelerle değiştirilebilir.NEW_LINENEW_LINEQiraji putlarını süsleyen mücevherler, kaliteleri üstün olduğu için oldukça işe yarayacaktır.NEW_LINENEW_LINEBana yüzüğü ve putları getir, sana güçlü bir yüzük yapayım.",
     ["Objectives"] = "Silithus'taki Rüzgarçağıran Yessendra'ya 1 Qiraji Hükümran Yüzüğü, 2 Su mermeri Put, 5 Bronz Bokböceği ve 5 Fildişi Bokböceği getir. Bu görevi tamamlamak için Cenarion Süvarisi ile Hürmetli itibar kazanmalısın.",
     ["Progress"] = "Bana yüzüğü ve malzemeleri getirdin mi, YOUR_NAME?",
     ["Completion"] = "Yüzükteki mücevherleri senin için değiştireceğim. Bitmiş parçayı çok daha... makul bulacaksın.",
@@ -78308,7 +78308,7 @@ QuestTranslator_QuestData = {
     ["Description"]="Görevim burada kalıp Gölge Konseyi'nin (Shadow Council) sonunun getirildiğini görmektir. Yine de bunun gerçekten ne anlama geldiğini düşünmekten kendimi alamıyorum. Deniz Cadısı'nın bu kadar uzun zaman sonra yeniden ortaya çıkması ürpertici. Anlamalısın, halkım onun yüzünden çok şey kaybetti. Kendimi tekrar ediyor olsam da, bunun sebebi senin empati kurmanı istememdir.NEW_LINENEW_LINEBuradan ayrılamıyorum. Ayaklarım hareket etmek için sızlasa da, Kilrogg ve müttefiklerimizi bununla tek başlarına yüzleşmeye bırakma düşüncesine katlanamıyorum. Ben sadece tek bir trolüm, doğru, ama dürüst olmak gerekirse yaşlı şefe karşı bir sevgi beslemeye başladım. Korkunç ama bilge biri. Tutkulu ve patlayıcı, ondan öğrenebileceğim çok şey var. Bir gün Darkspear şefliği makamını üstleneceğim ve bununla birlikte büyük bir sorumluluk gelecek.NEW_LINENEW_LINEBu ork pek çok zorluğa katlandı ve omuzları hâlâ ağır. Ona Horde'un gelecek neslini benim aracılığımla besleme şansı vereceğim. Ve böylece senden bu parşömeni Grommash Kalesi'ndeki babama ulaştırmanı istiyorum.",
     ["Objectives"]="Mektubu Orgrimmar'daki Grommash Kalesi'nde bulunan Vol'jin'e ulaştır.",
     ["Progress"]="Ayıracak fazla zaman yok. Konuş.",
-    ["Completion"]="O'jin doğru yolda; kendisi gelmek yerine seni göndermekle iyi etti. Bir şef nasıl doğru seçim yapacağını bilmelidir. Bu değerli bir bilgi ve zahmetin için bir ödül gerekiyor. Bu sorunla ilgilenmek için yardımını isteyeceğim bir zaman gelebilir. Görevlerime geri döneceğim ve yakında Savaşşefi (Warchief) ile konuşacağım. Gölgelere dikkat et $n, özellikle de özgürce dans ettikleri yerlerde.",
+    ["Completion"]="O'jin doğru yolda; kendisi gelmek yerine seni göndermekle iyi etti. Bir şef nasıl doğru seçim yapacağını bilmelidir. Bu değerli bir bilgi ve zahmetin için bir ödül gerekiyor. Bu sorunla ilgilenmek için yardımını isteyeceğim bir zaman gelebilir. Görevlerime geri döneceğim ve yakında Savaşşefi (Warchief) ile konuşacağım. Gölgelere dikkat et YOUR_NAME, özellikle de özgürce dans ettikleri yerlerde.",
     ["minlevel"]="25",
     ["questlevel"]="31"
 },
@@ -78488,17 +78488,17 @@ QuestTranslator_QuestData = {
     ["Description"]="<Elimde, çıldırmış Cho'gall'ın öğrencisi Ighal'for tarafından iğrenç gözcü Mergothid'i Azeroth'a çağırmak için kullanılan kırık Kan Taşı Kolyesi var. İblise karşı yapılan çetin savaşın yaraları hâlâ vücuduna saçılmış durumda. Kan kolundan avucuna doğru akıyor. Aniden kolye şiddetle sarsılıyor, kırmızı sıvıyı içeri çekerken çarpık bir çığlık atıyor. Kısa süre sonra kan kaybolur - ve kolye atmaya başlar.NEW_LINENEW_LINETarren Değirmeni'nde (Tarren Mill) bir Forsaken muhafızına benzer eserleri kurtarırken yardım ettiğini hatırlıyorsun; Karanlık Leydi Sylvanas Windrunner'a ait kalıntılar. Çalınan süs eşyalarını ona geri vermek en iyisi olurdu.>",
     ["Objectives"]="Kan Taşı Kolyesi'ni Yeraltı Şehri'ndeki (Undercity) Leydi Sylvanas Windrunner'a ulaştır.",
     ["Progress"]="Hızlı konuş. Zamanımı haşerelerle boşa harcamaya niyetim yok.",
-    ["Completion"]="Kedi buraya ne sürüklemiş bak. Wordeen'in vücudunda en azından bir gıdım yeterlilik kaldığını varsayıyordum ama fena halde yanılmışım gibi görünüyor. Eserlerimden birinin o sinir bozucu büyücülerden kaçıp Gölge Konseyi'nin (Shadow Council) pençelerine düşeceğini düşünmek. Gerçekten merak uyandırıcı...NEW_LINENEW_LINE$n, kolyenin geri dönmesiyle, astlarım arasındaki bu talihsiz durumun defterini kapatıyorum. Hainlerin icabına bakıldı, kalıntılarım emniyete alındı ve sen... Eşyalarımı kötüye kullananlara karşı belirleyici bir darbe indirdiğin için ödüllendirileceksin.",
+    ["Completion"]="Kedi buraya ne sürüklemiş bak. Wordeen'in vücudunda en azından bir gıdım yeterlilik kaldığını varsayıyordum ama fena halde yanılmışım gibi görünüyor. Eserlerimden birinin o sinir bozucu büyücülerden kaçıp Gölge Konseyi'nin (Shadow Council) pençelerine düşeceğini düşünmek. Gerçekten merak uyandırıcı...NEW_LINENEW_LINEYOUR_NAME, kolyenin geri dönmesiyle, astlarım arasındaki bu talihsiz durumun defterini kapatıyorum. Hainlerin icabına bakıldı, kalıntılarım emniyete alındı ve sen... Eşyalarımı kötüye kullananlara karşı belirleyici bir darbe indirdiğin için ödüllendirileceksin.",
     ["minlevel"]="32",
     ["questlevel"]="38"
 },
 
 ["41842"] = {
     ["Title"]="Eski Eserler",
-    ["Description"]="Fırtınaişlemeli Kalesi'ne (Stormwrought Castle) giriyorsan mütevazı bir ricam var. Balor ailesi, adada yetki sahibi oldukları uzun yıllar boyunca sayısız kitap ve cilt biriktirdi. Onlarca yıl süren ticaretin ardından kütüphanelerinde hayal bile edilemeyecek miktarda bilgi topladılar. Bunlardan biri, ikinci Balor Dükü'nün küçük kardeşi Sir Walton Balor'un gizli ticaret uygulamaları üzerine kişisel öğretileri ve dersleri, hem benim hem de Fırtınarüzgarı'nın (Stormwind) çok ilgilendiği bir kitap.NEW_LINENEW_LINEFırtınaişlemeli Kalesi'nin engin kütüphanesine rastlarsan, onu söz konusu kitap için ara. Ve $n: İçerideki tehlikelere karşı dikkatli ol. O aşağılık salonların içinde seni bekleyen dehşetleri düşünmeye cesaret edemiyorum.",
+    ["Description"]="Fırtınaişlemeli Kalesi'ne (Stormwrought Castle) giriyorsan mütevazı bir ricam var. Balor ailesi, adada yetki sahibi oldukları uzun yıllar boyunca sayısız kitap ve cilt biriktirdi. Onlarca yıl süren ticaretin ardından kütüphanelerinde hayal bile edilemeyecek miktarda bilgi topladılar. Bunlardan biri, ikinci Balor Dükü'nün küçük kardeşi Sir Walton Balor'un gizli ticaret uygulamaları üzerine kişisel öğretileri ve dersleri, hem benim hem de Fırtınarüzgarı'nın (Stormwind) çok ilgilendiği bir kitap.NEW_LINENEW_LINEFırtınaişlemeli Kalesi'nin engin kütüphanesine rastlarsan, onu söz konusu kitap için ara. Ve YOUR_NAME: İçerideki tehlikelere karşı dikkatli ol. O aşağılık salonların içinde seni bekleyen dehşetleri düşünmeye cesaret edemiyorum.",
     ["Objectives"]="Balor'daki SI:7 Karargâhı'nda bulunan Noppsy Spickerspan için Fırtınaişlemeli Kalesi (Stormwrought Castle) içindeki 'Başarılı Ticaret Derlemesi'ni ele geçir.",
     ["Progress"]="Fırtınarüzgarı (Stormwind) sadece kendileriyle değil, diğer birkaç ulusla da başarılı ticaret sanatını mükemmelleştirdikleri için Balor'luları her zaman kıskanmıştır. Bu bilginin zamanla kaybolması yazık olur, değil mi?",
-    ["Completion"]="Tıpkı Demirocağı'ndaki (Ironforge) büyükannemden daha tozlu. Zaman bu eski cilde pek nazik davranmamış ve nemli hava da pek yardımcı olmuyor. Onu sandığımda düzgünce mühürleyeceğim ve SI:7 karargahında analizine başlayacağım. Senin için $n, içten teşekkürlerimi sunarım. Lütfen hizmetine uygun bir ödül seç.",
+    ["Completion"]="Tıpkı Demirocağı'ndaki (Ironforge) büyükannemden daha tozlu. Zaman bu eski cilde pek nazik davranmamış ve nemli hava da pek yardımcı olmuyor. Onu sandığımda düzgünce mühürleyeceğim ve SI:7 karargahında analizine başlayacağım. Senin için YOUR_NAME, içten teşekkürlerimi sunarım. Lütfen hizmetine uygun bir ödül seç.",
     ["minlevel"]="29",
     ["questlevel"]="35"
 },
@@ -78518,7 +78518,7 @@ QuestTranslator_QuestData = {
     ["Description"]="Bu adaya zorunlu iniş yaptığımızda kargomuzun çoğunun okyanusun geniş enginliklerine düştüğünü fark ettik. Hâlâ iyi bir kısmını güvenceye almış olsak da, Ganimet Körfezi'ndeki (Booty Bay) alıcılarımızı tatmin etmeye neredeyse yetmiyor. Yunie ve diğerlerinin zeplini tamir etmekle ve devasa kabuklular tarafından yenilmediğimizden emin olmakla elleri dolu. Ben ise bir süre önce Verix'i ararken adayı keşfetmek için altın bir fırsata sahip oldum. Ve bilirsin ya: kayalıkların tepesinde devasa bir kale var. Muhtemelen neyi ima ettiğimi tahmin edebilirsin. Verix kadar çılgın ve intihara meyilli olmasam da, daha önce hiçbir goblin'in görmediği bazı değerli eşyaları kapmak için bu fırsatı kaçırmak istemem.NEW_LINENEW_LINEİşte burada devreye sen giriyorsun. Birkaç arkadaş kap veya hiç yoksa birine ödeme yap ve Balor'un diğer tarafındaki o kalenin içinden alabildiğin kadar değerli eşya kap. Karşılığını verecektir, güven bana!",
     ["Objectives"]="Rikki Fizmask, Balor'daki Fırtınaişlemeli Kalıntıları'nı (Stormwrought Ruins) yağmalamanı ve Martıkanat Enkazı'ndaki (Gullwing Wreckage) kendisine geri dönmeni istiyor.",
     ["Progress"]="Bu lanetli yere tek başına gelecek kadar sert—ya da aptal—olduğuna göre, oraya girip zarar görmeden—en azından çoğunlukla—çıkmakta sorun yaşamayacağından eminim.",
-    ["Completion"]="Vay canına, ne ganimet ama. Teslim etmemiz gereken şey olmayabilir ama o korsan koyundaki açgözlü pisliklerin o kadar şikayet edeceğinden şüpheliyim. Çok teşekkür ederim $n. Sana büyük borçlandık. Bu zorlukların için bunu alabilirsin, bana her zaman en iyi şansı getirdi - hâlâ burada olmam bunun kanıtıdır.",
+    ["Completion"]="Vay canına, ne ganimet ama. Teslim etmemiz gereken şey olmayabilir ama o korsan koyundaki açgözlü pisliklerin o kadar şikayet edeceğinden şüpheliyim. Çok teşekkür ederim YOUR_NAME. Sana büyük borçlandık. Bu zorlukların için bunu alabilirsin, bana her zaman en iyi şansı getirdi - hâlâ burada olmam bunun kanıtıdır.",
     ["minlevel"]="28",
     ["questlevel"]="34"
 },
@@ -78555,7 +78555,7 @@ QuestTranslator_QuestData = {
 
 ["41860"] = {
     ["Title"]="Zümrüt Çağrısı",
-    ["Description"]="$n, seni görmek güzel. Kısa süre önce bir yabancı varlığını arıyordu. Onlara bir mesaj iletebileceğimi söyledim, ardından bana şunları söylediler:NEW_LINENEW_LINE“Bizimle başdruid'in höyük ininde buluş. Gelişini bekleyeceğiz.”NEW_LINENEW_LINEGizemli, ama onlardan gelen bir kötülük yoktu. Korkacak bir şeyin olmadığına eminim.",
+    ["Description"]="YOUR_NAME, seni görmek güzel. Kısa süre önce bir yabancı varlığını arıyordu. Onlara bir mesaj iletebileceğimi söyledim, ardından bana şunları söylediler:NEW_LINENEW_LINE“Bizimle başdruid'in höyük ininde buluş. Gelişini bekleyeceğiz.”NEW_LINENEW_LINEGizemli, ama onlardan gelen bir kötülük yoktu. Korkacak bir şeyin olmadığına eminim.",
     ["Objectives"]="Aydüzlüğü'nde (Moonglade) yabancıyla buluş.",
     ["Progress"]="",
     ["Completion"]="Aydüzlüğü'nün (Moonglade) huzuru bugün çok dingin, sen de öyle düşünmüyor musun?",
@@ -78565,7 +78565,7 @@ QuestTranslator_QuestData = {
 
 ["41861"] = {
     ["Title"]="Rüya Görenin Sınavı",
-    ["Description"]="Mesajımızın sana ulaştığını görüyoruz, $n. Yaptıklarının haberi uzaklara, Zümrüt Rüya'nın (Emerald Dream) yeşil uzantılarına kadar seyahat etti. Malorne'a olan kahramanca hizmetin gözden kaçmadı. Kardeşleri Yaban Tanrıları ve sevgili dostu Ysera, onu Kâbus'un pençelerinden kurtardığın için sana çok şey borçlu. Formunu yeniden kazandığında, Kâbus'un miyazması içindeki karanlık varlığa karşı güçlü bir müttefik daha kazanacağız.NEW_LINENEW_LINEAnnemiz Ysera bizi Kâbus'a ilk elden karşı çıkan tek druidi aramak için kutsal Aydüzlüğü'ne (Moonglade) gönderdi. Hyjal ve Alacakaranlık Koruluğu'ndaki (Twilight Grove) eylemleri için onu ödüllendirmek üzere. Bunu yapacağız. Ancak, önce bir test. Neler yapabileceğinizi biliyoruz - zekan, gücün ve azmin eşsizdir. Bize yeteneklerinin kapsamını bir kez daha kanıtla ve Yolizleyen'in (Waywatcher) sana bahşettiği kutsamaya daha fazla güç verelim.NEW_LINENEW_LINEGeri durmayacağız; Yeşil Ejderha Sürüsü'nün (Green Dragonflight) gücüyle yüzleşmeye hazır ol!",
+    ["Description"]="Mesajımızın sana ulaştığını görüyoruz, YOUR_NAME. Yaptıklarının haberi uzaklara, Zümrüt Rüya'nın (Emerald Dream) yeşil uzantılarına kadar seyahat etti. Malorne'a olan kahramanca hizmetin gözden kaçmadı. Kardeşleri Yaban Tanrıları ve sevgili dostu Ysera, onu Kâbus'un pençelerinden kurtardığın için sana çok şey borçlu. Formunu yeniden kazandığında, Kâbus'un miyazması içindeki karanlık varlığa karşı güçlü bir müttefik daha kazanacağız.NEW_LINENEW_LINEAnnemiz Ysera bizi Kâbus'a ilk elden karşı çıkan tek druidi aramak için kutsal Aydüzlüğü'ne (Moonglade) gönderdi. Hyjal ve Alacakaranlık Koruluğu'ndaki (Twilight Grove) eylemleri için onu ödüllendirmek üzere. Bunu yapacağız. Ancak, önce bir test. Neler yapabileceğinizi biliyoruz - zekan, gücün ve azmin eşsizdir. Bize yeteneklerinin kapsamını bir kez daha kanıtla ve Yolizleyen'in (Waywatcher) sana bahşettiği kutsamaya daha fazla güç verelim.NEW_LINENEW_LINEGeri durmayacağız; Yeşil Ejderha Sürüsü'nün (Green Dragonflight) gücüyle yüzleşmeye hazır ol!",
     ["Objectives"]="Rethevus'un sana sunduğu sınavlarda ustalaş!",
     ["Progress"]="Başarısızlık bir zayıflık değil, sadece gerçekleşmeyi bekleyen bir büyüme işaretidir.",
     ["Completion"]="<Rethevus ağır ağır nefes alıyor. Dövüş onu derin bir bitkinlik içinde bıraktı.>\"NEW_LINENEW_LINEİnanılmaz! Senin hakkında duyduklarımız bir understatement değildi, Cenarius'un öğretileri üzerindeki ustalığın yıldızlı bir gökyüzü kadar net! Senin gibi yetenekli bir bireyin bizim tarafımızda olduğunu bilmek kalbimizi rahatlatıyor. Sana ve annene bir söz verdik, tutacağımız bir söz. İşte, Yeşil Ejderha Sürüsü'nün (Green Dragonflight) kutsamasını al. Buna fazlasıyla layıksın.NEW_LINENEW_LINEŞimdilik sana veda ediyoruz. Annem savaşın hâlâ sürdüğü Zümrüt Rüya'da (Emerald Dream) bizi bekliyor. Yeşilliklerle kaplı enginliklerde birbirimizi göreceğimiz gün daha erken gelemez.",
@@ -78745,7 +78745,7 @@ QuestTranslator_QuestData = {
 
 ["41905"] = {
     ["Title"]="Koyu Demir Saldırganlığı",
-    ["Description"]="Kervanların çoğu Fırtınarüzgarı'na (Stormwind) ve nihayetinde Alah'thalas'a gitmiş olsa da, hâlâ burada Yabangezen Kulübesi'nde (Farstrider Lodge) bize yardım etmek isteyen ya da hâlâ yolculuklarına hazırlanan birçok mülteci var.NEW_LINENEW_LINEÇevre dağ sıralarında dolaşan Koyu Demir (Dark Iron) için de aynı şeyi söyleyebilmeyi isterdim. Yüksek Elfler'in Loch Modan'a gelişi sırasındaki korkunç eylemleri bugün de devam ediyor. Daha geçenlerde Demirocağı'na (Ironforge) giden son konvoyu basıp en çok ihtiyacı olanlardan değerli erzakları çaldılar. $n, çalınanları hak sahiplerine geri vermen için iyi kalbine başvuruyorum.NEW_LINENEW_LINEKoyu Demir güneybatıda kamp kurdu, onların sinsice hilelerine karşı dikkatli ol. Hiçbir koşulda onlara güvenilemez.",
+    ["Description"]="Kervanların çoğu Fırtınarüzgarı'na (Stormwind) ve nihayetinde Alah'thalas'a gitmiş olsa da, hâlâ burada Yabangezen Kulübesi'nde (Farstrider Lodge) bize yardım etmek isteyen ya da hâlâ yolculuklarına hazırlanan birçok mülteci var.NEW_LINENEW_LINEÇevre dağ sıralarında dolaşan Koyu Demir (Dark Iron) için de aynı şeyi söyleyebilmeyi isterdim. Yüksek Elfler'in Loch Modan'a gelişi sırasındaki korkunç eylemleri bugün de devam ediyor. Daha geçenlerde Demirocağı'na (Ironforge) giden son konvoyu basıp en çok ihtiyacı olanlardan değerli erzakları çaldılar. YOUR_NAME, çalınanları hak sahiplerine geri vermen için iyi kalbine başvuruyorum.NEW_LINENEW_LINEKoyu Demir güneybatıda kamp kurdu, onların sinsice hilelerine karşı dikkatli ol. Hiçbir koşulda onlara güvenilemez.",
     ["Objectives"]="Koyu Demir'den soyulan erzakları kurtar ve Yabangezen Kulübesi'ndeki (Farstrider Lodge) Kelt Thomasin'e getir.",
     ["Progress"]="Bronzssakal'ın Koyu Demir'e duyduğu nefret daha önce anlayamadığım bir şeydi. Ancak ahlaka ve yaşama olan saygısızlıklarına ilk elden tanık olmak, bu hor görmenin nereden kaynaklandığını anlamamı sağladı.",
     ["Completion"]="Başardın! Seni sağ salim gördüğüme de sevindim. Bunların geri dönmesiyle grup bir kez daha yeni evlerine giden yolculuğa devam edebilir.",
@@ -78755,10 +78755,10 @@ QuestTranslator_QuestData = {
 
 ["41906"] = {
     ["Title"]="Kötülere Merhamet Yok",
-    ["Description"]="Avladığımız vahşi canavarlardan hiçbir farkları yok. Koyu Demir, katlandıkları her şeyden sonra yeni bir ev bulmalarını reddederek halkımın huzurunu ihlal ediyor. Demirocağı'na (Ironforge) giden kervanlarımıza pusu kurmakla kalmıyor, son zamanlarda masumları da kaçırmaya başladılar.NEW_LINENEW_LINE$n, bu zavallı ruhları kurtarmada bize yardım eder misin? Tutsakların arasında bir çocuk bile olduğu düşünülürse, cücelerin onlarla ne yapmayı kastettiğini düşünmeye cesaret edemiyorum. Dağcıların bize söylediği gibi Karakaya Dağı'nın (Blackrock Mountain) derin madenlerinde köle işçi olarak mı çalıştırılacaklar? Bu gerçekleşirse hayatta kalamazlar.NEW_LINENEW_LINELütfen, Menethil'in haçlı seferinin dehşetinden sonra daha parlak bir gelecek şansına sahip olmalarını sağla. Onları hapishanelerinden kurtar, Koyu Demir'den birinin üzerinde anahtarının olduğuna eminim.NEW_LINENEW_LINEGüneybatıdaki kamplarına götürüldüler.",
+    ["Description"]="Avladığımız vahşi canavarlardan hiçbir farkları yok. Koyu Demir, katlandıkları her şeyden sonra yeni bir ev bulmalarını reddederek halkımın huzurunu ihlal ediyor. Demirocağı'na (Ironforge) giden kervanlarımıza pusu kurmakla kalmıyor, son zamanlarda masumları da kaçırmaya başladılar.NEW_LINENEW_LINEYOUR_NAME, bu zavallı ruhları kurtarmada bize yardım eder misin? Tutsakların arasında bir çocuk bile olduğu düşünülürse, cücelerin onlarla ne yapmayı kastettiğini düşünmeye cesaret edemiyorum. Dağcıların bize söylediği gibi Karakaya Dağı'nın (Blackrock Mountain) derin madenlerinde köle işçi olarak mı çalıştırılacaklar? Bu gerçekleşirse hayatta kalamazlar.NEW_LINENEW_LINELütfen, Menethil'in haçlı seferinin dehşetinden sonra daha parlak bir gelecek şansına sahip olmalarını sağla. Onları hapishanelerinden kurtar, Koyu Demir'den birinin üzerinde anahtarının olduğuna eminim.NEW_LINENEW_LINEGüneybatıdaki kamplarına götürüldüler.",
     ["Objectives"]="Kaçırılan Yüksek Elfi ailesini Koyu Demir kampından kurtar.",
     ["Progress"]="Onlara söz verdiğimiz kader bu değildi.",
-    ["Completion"]="$n! Buradasın! Kulübeye döndüklerini görür görmez başarılı olduğunu anladım ama yine de güvenliğin için korktum. En derin minnettarlığımı kabul et. Sadece masumlar için hayatını riske atmakla kalmadın, aynı zamanda sıradan bir maceracının karşılaştığının ötesindeki tehlikelere de göğüs gerdin.NEW_LINENEW_LINELütfen bugün yerine getirdiğin iyi işlerin bir nişanesi olarak bunlardan birini al. $n!",
+    ["Completion"]="YOUR_NAME! Buradasın! Kulübeye döndüklerini görür görmez başarılı olduğunu anladım ama yine de güvenliğin için korktum. En derin minnettarlığımı kabul et. Sadece masumlar için hayatını riske atmakla kalmadın, aynı zamanda sıradan bir maceracının karşılaştığının ötesindeki tehlikelere de göğüs gerdin.NEW_LINENEW_LINELütfen bugün yerine getirdiğin iyi işlerin bir nişanesi olarak bunlardan birini al. YOUR_NAME!",
     ["minlevel"]="12",
     ["questlevel"]="18"
 },
@@ -78777,8 +78777,8 @@ QuestTranslator_QuestData = {
     ["Title"]="Ham Draenetist Oluşumu",
     ["Description"]="",
     ["Objectives"]="",
-    ["Progress"]="Draenetist talebimiz yüksek kalmaya devam ediyor. Kabilem, Draenor'dan gelen maneviyatının çoğunu koruyor ki bu çok gurur duyduğumuz bir şey. Ancak bunun bir bedeli var. Kadim ritüellerimiz için gerekli olan draenetist kıttır ve ağır riskler almadan köyden neredeyse ayrılamıyoruz. Sana bencilce ve sürdürülemez gelebilir ama geleneklerimiz olmadan biz neyiz ki?NEW_LINENEW_LINE$n, kıyıdaki yaratıklar, bizden pek farklı olmayarak yabancı kristallere çekiliyor. Güçleri cezbedici, bu yüzden ışığa çekilen pervaneler gibi bu baştan çıkarıcı enerjiye yöneliyorlar. Bulduğun her draenetist parçası için halkıma yaptıklarını anlatacağım, sana söz veriyorum.",
-    ["Completion"]="İşlenmemiş ve ilkel ama şüphesiz tesirli. $n, bugünkü özverili eylemlerin unutulmayacak. Köylüler bunu duyacak, buna dikkat edeceğim. Daha fazlasını bulursan bana getirmekten çekinme.",
+    ["Progress"]="Draenetist talebimiz yüksek kalmaya devam ediyor. Kabilem, Draenor'dan gelen maneviyatının çoğunu koruyor ki bu çok gurur duyduğumuz bir şey. Ancak bunun bir bedeli var. Kadim ritüellerimiz için gerekli olan draenetist kıttır ve ağır riskler almadan köyden neredeyse ayrılamıyoruz. Sana bencilce ve sürdürülemez gelebilir ama geleneklerimiz olmadan biz neyiz ki?NEW_LINENEW_LINEYOUR_NAME, kıyıdaki yaratıklar, bizden pek farklı olmayarak yabancı kristallere çekiliyor. Güçleri cezbedici, bu yüzden ışığa çekilen pervaneler gibi bu baştan çıkarıcı enerjiye yöneliyorlar. Bulduğun her draenetist parçası için halkıma yaptıklarını anlatacağım, sana söz veriyorum.",
+    ["Completion"]="İşlenmemiş ve ilkel ama şüphesiz tesirli. YOUR_NAME, bugünkü özverili eylemlerin unutulmayacak. Köylüler bunu duyacak, buna dikkat edeceğim. Daha fazlasını bulursan bana getirmekten çekinme.",
     ["minlevel"]="50",
     ["questlevel"]="55"
 },
@@ -78788,7 +78788,7 @@ QuestTranslator_QuestData = {
     ["Description"]="",
     ["Objectives"]="",
     ["Progress"]="Kıyı boyunca büyük kristal oluşumları saçılmış durumda. Güçlerinin çoğu çoktan boşaltılmış, onları doğan güneşte ışıldayan güzel bir aynadan başka bir şeye dönüştürmemiş. Yine de Draenetist, tüm Ayfısıltısı genelinde küçük, pırıldayan kümeler halinde oluşmaya başlıyor. Nadir bir manzara ama karşılığında bir o kadar da güçlüler.NEW_LINENEW_LINEBir mucize eseri bu oluşumlara rastlar ve onları köye getirirsen halkım sana son derece borçlu kalacaktır.",
-    ["Completion"]="<Heghala'nın boncuk gibi gözleri, çok fazla olmasa da genişler. İki sıra dişini çıkarırken açık ağzı neredeyse korkutucu görünüyor.>\"NEW_LINENEW_LINEPoresh Toralar! Çarpık Hudut (Twisting Nether) kutsansın! Bize getirdiğin şey nefes kesici, minnettarlığımızı gösterecek doğru kelimeler benden kaçıyor. $n, adın bugünden itibaren zamanın sonuna kadar her Moro'gai tarafından bilinecek.",
+    ["Completion"]="<Heghala'nın boncuk gibi gözleri, çok fazla olmasa da genişler. İki sıra dişini çıkarırken açık ağzı neredeyse korkutucu görünüyor.>\"NEW_LINENEW_LINEPoresh Toralar! Çarpık Hudut (Twisting Nether) kutsansın! Bize getirdiğin şey nefes kesici, minnettarlığımızı gösterecek doğru kelimeler benden kaçıyor. YOUR_NAME, adın bugünden itibaren zamanın sonuna kadar her Moro'gai tarafından bilinecek.",
     ["minlevel"]="50",
     ["questlevel"]="55"
 },
@@ -78815,7 +78815,7 @@ QuestTranslator_QuestData = {
 
 ["41912"] = {
     ["Title"]="Kötü Bir Kehanet",
-    ["Description"]="Demek Nar'lan'ın üzerinde bulduğun kristal bu? Canıyla ödediği eşya bu mu? Yüzeyi kaba ve şaşırtıcı derecede sıcak, neredeyse haşlayıcı. Yine de hakkında bir tanıdıklık havası var… Bu kristalin ne olabileceğine dair bir şüphem olabilir mi…?NEW_LINENEW_LINE$n, bu kristalin ne olabileceğine dair bir şüphem var ama onaya ihtiyacımız var. Lütfen şefin kulübesinin dışındaki akıl hocam Yarıkustası Ral'pekta (Riftmaster Ral'pekta) ile konuş. Onun kadar bilgili bir adam bu gizeme ışık tutabilir.",
+    ["Description"]="Demek Nar'lan'ın üzerinde bulduğun kristal bu? Canıyla ödediği eşya bu mu? Yüzeyi kaba ve şaşırtıcı derecede sıcak, neredeyse haşlayıcı. Yine de hakkında bir tanıdıklık havası var… Bu kristalin ne olabileceğine dair bir şüphem olabilir mi…?NEW_LINENEW_LINEYOUR_NAME, bu kristalin ne olabileceğine dair bir şüphem var ama onaya ihtiyacımız var. Lütfen şefin kulübesinin dışındaki akıl hocam Yarıkustası Ral'pekta (Riftmaster Ral'pekta) ile konuş. Onun kadar bilgili bir adam bu gizeme ışık tutabilir.",
     ["Objectives"]="Kırmızı kristali Moro'gai Köyü'ndeki Yarıkustası Ral'pekta'ya teslim et.",
     ["Progress"]="Nedir Parash'ka? Çocuksu merakınla benim değerli zamanımı boşa harcama.",
     ["Completion"]="Bu kutsal şeylere saygısızlık! Bu kristale ne yapmışlar böyle?!",
@@ -78845,10 +78845,10 @@ QuestTranslator_QuestData = {
 
 ["41915"] = {
     ["Title"]="Babadan Cevaplar",
-    ["Description"]="Bhu'robi'nin mektupta bahsettiği bu yeni tanrı... biz draenei'ler hiçbir tanrıya dua etmedik, bunun yerine memleketimizin can damarının sembolü olan Draenetist'in ihtişamına taptık. Bir draenei'nin kendisini tek bir varlığa adayacağını düşünmek bile açıkça söylemek gerekirse şaşırtıcı.NEW_LINENEW_LINEBabam, Yaşlı'nın Draenetist'e olan inancını terk ettiğini bilmiş olmalıydı, bilmiş olmalıydı. $n, öğrendiklerimiz hakkında onunla yüzleşmeliyiz. Belki de onu bize gerçeği söylemesi için ikna edebiliriz. Devam et, ben birazdan geleceğim.",
+    ["Description"]="Bhu'robi'nin mektupta bahsettiği bu yeni tanrı... biz draenei'ler hiçbir tanrıya dua etmedik, bunun yerine memleketimizin can damarının sembolü olan Draenetist'in ihtişamına taptık. Bir draenei'nin kendisini tek bir varlığa adayacağını düşünmek bile açıkça söylemek gerekirse şaşırtıcı.NEW_LINENEW_LINEBabam, Yaşlı'nın Draenetist'e olan inancını terk ettiğini bilmiş olmalıydı, bilmiş olmalıydı. YOUR_NAME, öğrendiklerimiz hakkında onunla yüzleşmeliyiz. Belki de onu bize gerçeği söylemesi için ikna edebiliriz. Devam et, ben birazdan geleceğim.",
     ["Objectives"]="Moro'gai Köyü'ndeki Moro'gai K'la ile yeni edindiğin fikirler hakkında yüzleş.",
     ["Progress"]="<Şef hüzünlü bir ifadeyle ufka bakıyor.>",
-    ["Completion"]="Oğlum bu son birkaç yılda çok olgunlaşmış gibi görünüyor. FARK ETMEDİĞİM pi̇şmanlik veri̇ci̇ bir başka şey. Bana hak tanıdığımdan çok daha erken bir zamanda adam oluyor.NEW_LINENEW_LINEAr’lia haklı. Ağıt yakma ve boş durma zamanı bitti. Kendi soyumuz tarafından yürütülen bir başkasına yenik düşmek için bir soykırımdan hayatta kalmadık. Silahlarını kaldır $n. Bu yalancı peygamberi susturacağız.",
+    ["Completion"]="Oğlum bu son birkaç yılda çok olgunlaşmış gibi görünüyor. FARK ETMEDİĞİM pi̇şmanlik veri̇ci̇ bir başka şey. Bana hak tanıdığımdan çok daha erken bir zamanda adam oluyor.NEW_LINENEW_LINEAr’lia haklı. Ağıt yakma ve boş durma zamanı bitti. Kendi soyumuz tarafından yürütülen bir başkasına yenik düşmek için bir soykırımdan hayatta kalmadık. Silahlarını kaldır YOUR_NAME. Bu yalancı peygamberi susturacağız.",
     ["minlevel"]="48",
     ["questlevel"]="56"
 },
@@ -78865,10 +78865,10 @@ QuestTranslator_QuestData = {
 
 ["41917"] = {
     ["Title"]="Bir Öğrencinin Kararlılığı",
-    ["Description"]="Adın $n mıydı? Moro'gai arasında bir yer kazandın. Yardımınla halkımız için grim bir kaderi önleyebildik ve daha parlak bir gelecek için bir kez daha bir yol çizme fırsatı verildi. Gelişin Çarpık Hudut'un (Twisting Nether) rüzgarları tarafından önceden takdir edilmiş olmalı ve bunun için minnettarım. Senin sayende oğlum benimle yüzleşme cesaretini buldu, böylece melankolimden kaçabildim. Tanıdığım küçük çocuğun ötesinde büyüdü.NEW_LINENEW_LINEAr'lia her zamanki gibi pazaryerinde bekliyor. Neler olduğunu ona anlatmandan memnun kalacaktır. Kutsamamla git $n. Enkil Toralar - Çarpık Hudut'un rüzgarları lehinize olsun.",
+    ["Description"]="Adın YOUR_NAME mıydı? Moro'gai arasında bir yer kazandın. Yardımınla halkımız için grim bir kaderi önleyebildik ve daha parlak bir gelecek için bir kez daha bir yol çizme fırsatı verildi. Gelişin Çarpık Hudut'un (Twisting Nether) rüzgarları tarafından önceden takdir edilmiş olmalı ve bunun için minnettarım. Senin sayende oğlum benimle yüzleşme cesaretini buldu, böylece melankolimden kaçabildim. Tanıdığım küçük çocuğun ötesinde büyüdü.NEW_LINENEW_LINEAr'lia her zamanki gibi pazaryerinde bekliyor. Neler olduğunu ona anlatmandan memnun kalacaktır. Kutsamamla git YOUR_NAME. Enkil Toralar - Çarpık Hudut'un rüzgarları lehinize olsun.",
     ["Objectives"]="Moro'gai Köyü pazaryerindeki Ar'lia ile konuş.",
     ["Progress"]="",
-    ["Completion"]="Bhu'robi durdurulmuş olabilir ama bu çile henüz bitmedi. Babamın dediği gibi, dışarıda hâlâ kaybolmuş Düşmüş Olanlar'dan birçoğu var ve onları sürümüze geri getirmek bizim görevimiz. Bu zorlu bir görev ve bunun sevdiklerimizi kaybettiğimiz son gün olmayacağından korkuyorum, ancak tam da bu yüzden bunun olmasını önlemek için elimizden gelen her şeyi yapmak zorundayız. Henüz tecrübesiz olsam ve hâlâ eğitimde olsam da babama ve yaşlılara elimden geldiğince destek olacağım.NEW_LINENEW_LINEBu konu üzerinde uzun uzun düşündüm ve burada yapacak daha çok şeyim olsa da, eylemlerin içimde daha önce hissetmediğim bir ateş tutuşturdu. Tüm bu zaman boyunca bu kıyıda kendimizi tecrit ettik, kendimizi tuttuk ve elimizden geldiğince gizli kaldık. Ama hayatımın bu şekilde geçmesini istemiyorum. Ancak köyün güvenliğini sağlayana kadar ayrılamam. Bu yüzden lütfen bu kristali al. Tehlikede olursan onu gökyüzüne doğru tut, savaşta sana yardım edeceğim. Bana güvenebilirsin $n.",
+    ["Completion"]="Bhu'robi durdurulmuş olabilir ama bu çile henüz bitmedi. Babamın dediği gibi, dışarıda hâlâ kaybolmuş Düşmüş Olanlar'dan birçoğu var ve onları sürümüze geri getirmek bizim görevimiz. Bu zorlu bir görev ve bunun sevdiklerimizi kaybettiğimiz son gün olmayacağından korkuyorum, ancak tam da bu yüzden bunun olmasını önlemek için elimizden gelen her şeyi yapmak zorundayız. Henüz tecrübesiz olsam ve hâlâ eğitimde olsam da babama ve yaşlılara elimden geldiğince destek olacağım.NEW_LINENEW_LINEBu konu üzerinde uzun uzun düşündüm ve burada yapacak daha çok şeyim olsa da, eylemlerin içimde daha önce hissetmediğim bir ateş tutuşturdu. Tüm bu zaman boyunca bu kıyıda kendimizi tecrit ettik, kendimizi tuttuk ve elimizden geldiğince gizli kaldık. Ama hayatımın bu şekilde geçmesini istemiyorum. Ancak köyün güvenliğini sağlayana kadar ayrılamam. Bu yüzden lütfen bu kristali al. Tehlikede olursan onu gökyüzüne doğru tut, savaşta sana yardım edeceğim. Bana güvenebilirsin YOUR_NAME.",
     ["minlevel"]="52",
     ["questlevel"]="58"
 },
@@ -78905,7 +78905,7 @@ QuestTranslator_QuestData = {
 
 ["41921"] = {
     ["Title"]="Tanıdık Bir Huzursuzluk",
-    ["Description"]="Gücümü yeniden kazandığıma göre duyularım bir kez daha keskinleşti ve dünyanızın büyüsünü eskisinden çok daha iyi hissedebiliyorum. Hissettiğim şey ise şaşırtıcıydı, içinde bir tanıdıklık havası olan bir his. Kuzeyden geldi, çelişen bir enerji kasırgası. İdealler çatışıyor, duygular belirsiz ve büyük bir değişim yakın. Zaten görmüş olabilirsin, kuzeydeki kayalıkların ötesinde maviye bürünmüş bir kara var, safir tonu kıyıyı dingin bir gece yarısıyla örtüyor. Zihnimde harika, pırıldayan bir göl görüntüsü var, hissi en güçlü orada hissetmiştim.NEW_LINENEW_LINE$n, halkımın güvenliğini sağladıktan sonra buranın kuzeyindeki topraklara seyahat eder ve sezdiğim bu tuhaflığı arar mısın? Kalbim bunun büyük önem taşıdığını söylüyor.",
+    ["Description"]="Gücümü yeniden kazandığıma göre duyularım bir kez daha keskinleşti ve dünyanızın büyüsünü eskisinden çok daha iyi hissedebiliyorum. Hissettiğim şey ise şaşırtıcıydı, içinde bir tanıdıklık havası olan bir his. Kuzeyden geldi, çelişen bir enerji kasırgası. İdealler çatışıyor, duygular belirsiz ve büyük bir değişim yakın. Zaten görmüş olabilirsin, kuzeydeki kayalıkların ötesinde maviye bürünmüş bir kara var, safir tonu kıyıyı dingin bir gece yarısıyla örtüyor. Zihnimde harika, pırıldayan bir göl görüntüsü var, hissi en güçlü orada hissetmiştim.NEW_LINENEW_LINEYOUR_NAME, halkımın güvenliğini sağladıktan sonra buranın kuzeyindeki topraklara seyahat eder ve sezdiğim bu tuhaflığı arar mısın? Kalbim bunun büyük önem taşıdığını söylüyor.",
     ["Objectives"]="Azshara'nın kuzeyindeki Ayfısıltısı Kıyısı'na (Moonwhisper Coast) seyahat et ve pırıldayan gölü bul.",
     ["Progress"]="",
     ["Completion"]="Ne diyorsun? Buraya başka bir draenei, bir yarıkyürüyen tarafından mı gönderildin?!",
@@ -78917,7 +78917,7 @@ QuestTranslator_QuestData = {
     ["Title"]="Eve Dönüş",
     ["Description"]="Asla hayal edemezdim. Çok uzun zamandır memleketimizin yıkılışından hayatta kalan tek draenei olduğumuz düşüncesiyle yaşadık. Başka bir kabilenin de sizin dünyanıza kaçmayı başardığını düşünmek…NEW_LINENEW_LINEYOUR_CLASS, onlarla iletişime geçmeliyiz. Moro'gai için bir yabancı olabilirsin ama başka bir draenei kabilesini tanıyorsun, bu yüzden sana güveniyorum. Bu kristali al ve şeflerine götür. Resmimi içine depoladığım bir projeksiyon kristalidir. Onlara söyle, nasıl ilerleyeceklerini bileceklerdir.",
     ["Objectives"]="Yaşlı Krasheen'in projeksiyon kristalini Keder Bataklığı'ndaki (Swamp of Sorrows) Sığınak'ta (Harborage) bulunan Sanv K'la'ya getir.",
-    ["Progress"]="$n, seni Sığınak'ta (Harborage) tekrar görmek güzel. Sana nasıl yardımcı olabilirim?",
+    ["Progress"]="YOUR_NAME, seni Sığınak'ta (Harborage) tekrar görmek güzel. Sana nasıl yardımcı olabilirim?",
     ["Completion"]="Bir projeksiyon kristali... başka bir draenei'den mi?! Lütfen çabuk bana ver!",
     ["minlevel"]="46",
     ["questlevel"]="52"
@@ -78968,7 +78968,7 @@ QuestTranslator_QuestData = {
     ["Description"]="<Ellerinde Medivh'in eser avcılarının lideri Lord Blackwald II'nin biniş düdüğü var. Nesneden gelen karanlık hâlâ güçlü ve tesirli ve onu defetmenin bir yolunu göremiyorsun. Belki Morgan'ın Arsa'sındaki (Morgan’s Plot) hayalet sakinler sana yardımcı olabilir.>",
     ["Objectives"]="Biniş Düdüğü'nü Ölüruzgar Geçidi'ndeki (Deadwind Pass) Morgan'ın Arsa'sında (Morgan’s Plot) bulunan hayalete getir.",
     ["Progress"]="Lord Blackwald'dan bir biniş düdüğü mü? Demek zorbalıkları sona erdi. Karanlık Süvariler bir zamanlar tüccardı, Medivh tarafından zamanın sonuna kadar kendisi için eser avlamak üzere lanetlendiler. Liderlerinin devrildiğini görmek beni rahatlatıyor; ancak dünyada masumları terörize eden daha fazlasının olmadığından emin olamayız. Şimdilik bu düdüğü parçalayabilirim ama bunun için ek yardıma ihtiyacım var. Bana bu dünyanın hortlaklarından özler getir, ben de bu faul şeyi ezebilirim.",
-    ["Completion"]="Döndüğünü görüyorum. Karazhan'ın bu bölümünün kapanma zamanı geldi. Karanlık Süvariler korkunç saltanatları sırasında yeterince can aldılar; bu şimdi sona erecek. Düdük yok edildiğinde, kimse Lord Blackwald'ın yerini bir sonraki olarak alamaz ve nihayetinde varlıkları rüzgara dağılır. Hazırlıklı ol $n, bu kötülük tasvirini parçaladığımda ne olacağını bilmiyorum.",
+    ["Completion"]="Döndüğünü görüyorum. Karazhan'ın bu bölümünün kapanma zamanı geldi. Karanlık Süvariler korkunç saltanatları sırasında yeterince can aldılar; bu şimdi sona erecek. Düdük yok edildiğinde, kimse Lord Blackwald'ın yerini bir sonraki olarak alamaz ve nihayetinde varlıkları rüzgara dağılır. Hazırlıklı ol YOUR_NAME, bu kötülük tasvirini parçaladığımda ne olacağını bilmiyorum.",
     ["minlevel"]="60",
     ["questlevel"]="60"
 },
@@ -78977,7 +78977,7 @@ QuestTranslator_QuestData = {
     ["Title"]="Mahzen Efendisi'nin Çağrısı",
     ["Description"]="<Mahzen Efendisi ayaklarının dibinde ölü yatıyor. Northrend'in buzlu derinliklerinden gelen iblis artık yaşayanlar arasında terör estirmeyecek. Ancak ellerinde tuttuğun şey, deneyimli maceracı duyularına iyi şeyler vadetmiyor. Taş tablet dokunulduğunda buz gibi ve içinden kısık fısıltılar duyulabiliyor. Tek başına onu parçalayamaz ve kötü aurasını dağıtamazsın. Işık'ın güçlü bir kullanıcısı ihtiyaç anında sana yardım edebilir.>",
     ["Objectives"]="Mahzen Efendisi'nin Çağrısı'nı Işık'ın güçlü bir kullanıcısına ulaştır.",
-    ["Progress"]="Işık adına! Senden gelen bu çürümüş miyazma da nedir? YOUR_CLASS, üzerinde ne varsa teslim et, çabuk!NEW_LINENEW_LINE<Tablet Tirion'a verilir, o da hemen örümcek ağı kaplı yüzeye kutsal bir büyü yapar.>NEW_LINENEW_LINEKorktuğum gibi, bu tabletin üzerindeki koruyucu lanet kırılmayacak kadar güçlü. Onu kutsal güçle takdis etmemiz gerekiyor. Bunun için fanatik Kızıl Haçlı Seferi'nden (Scarlet Crusade) kutsal haçlar yeterli olacaktır. Bu kutsal kalıntılar lekelenmiş elleri için zaten uygun değil. $n, onları bana en kısa sürede ulaştır!",
+    ["Progress"]="Işık adına! Senden gelen bu çürümüş miyazma da nedir? YOUR_CLASS, üzerinde ne varsa teslim et, çabuk!NEW_LINENEW_LINE<Tablet Tirion'a verilir, o da hemen örümcek ağı kaplı yüzeye kutsal bir büyü yapar.>NEW_LINENEW_LINEKorktuğum gibi, bu tabletin üzerindeki koruyucu lanet kırılmayacak kadar güçlü. Onu kutsal güçle takdis etmemiz gerekiyor. Bunun için fanatik Kızıl Haçlı Seferi'nden (Scarlet Crusade) kutsal haçlar yeterli olacaktır. Bu kutsal kalıntılar lekelenmiş elleri için zaten uygun değil. YOUR_NAME, onları bana en kısa sürede ulaştır!",
     ["Completion"]="Haçlar, onlara sahipsin! Kutsal ışıltıları buradan bile hissedilebiliyor. YOUR_CLASS, bu tableti temizlememiz şart. Bilmiyor olabilirsin ama bunlar Veba'nın aşağılık Mahzen Efendileri tarafından Nerubian sürülerine cezbedici bir büyü altında komuta etmek ve yeteneklerini artırmak için kullanılır. Bu dünyadan derhal temizlenmelidir. Ne olursa olsun tetikte olun. Değerli kalıntılarından birini yok ettiğimiz için misilleme yapacaklarından eminim.NEW_LINENEW_LINEKendinizi hazırlayın!",
     ["minlevel"]="60",
     ["questlevel"]="60"
@@ -79017,7 +79017,7 @@ QuestTranslator_QuestData = {
     ["Title"]="Kadim Furbolg İlaçları",
     ["Description"]="Kalimdor'da yaşadığımız bin yıllar boyunca halkım tıbbi ve ruhani iyileşme için sayısız karışım ve merhem geliştirdi. Ancak bu kötü totemleri temizlemek için tamamen yeni bir karışımın oluşturulması gerekiyor.NEW_LINENEW_LINEYaban tarafından kutsanmış topraklarda, türünüzün Un'goro Krateri dediği yerde, Çürüksarmaşık (Rotvine) adında, doğal enerjilerle ve güçlü çiy ile yüklü bir canavar ikamet ediyor. Söylentiye göre kuzeybatıdaki nehrin sonu onun evi. Bana çiy yüklü kalbini getir.NEW_LINENEW_LINEFeralas'taki Dehşet Adası'nın güney kıyılarında ilkel bir varlık, eski zamanlardan kalma bir deniz devi bulacaksın. Örtülü Deniz'in (Veiled Sea) gelgitlerini gözetledi ama zihninin dost ve düşmanı ayırt edemediği bir noktaya ulaştı. Onu huzura kavuştur ve dilini bana teslim et.NEW_LINENEW_LINEArınma Şişeleri Tidelord Rrurgaz'da yatıyor. Bir zamanlar kadim Kalimdor'daki gece elflerinin bir kalıntısıydı, Tozbalçık Bataklığı (Dustwallow Marsh) kıyılarının kuzeydoğusundaki Alcaz Adası'nda komplo kuran Shahraz naga'larının eline düştü.",
     ["Objectives"]="Azshara'daki Ursoc'un Boğazı'nda bulunan Karanlık Narkogg, arınma merhemi için belirli malzemeler gerektiriyor. Onları ona getir.",
-    ["Progress"]="Mührüm uzun süre dayanmayacak $n. Lütfen çabalarını hızlandır.",
+    ["Progress"]="Mührüm uzun süre dayanmayacak YOUR_NAME. Lütfen çabalarını hızlandır.",
     ["Completion"]="Bu eşyaların gücü karşısında dehşete düştüm. Canavarın kalbiyle totemlerin etrafındaki faul engeli kıracağız. Grammon'un dili doğru konuşmalarını sağlayacak ve arınma suları tüm kirleri yıkayıp götürecek.",
     ["minlevel"]="60",
     ["questlevel"]="60"
@@ -79025,20 +79025,20 @@ QuestTranslator_QuestData = {
 
 ["41933"] = {
     ["Title"]="Dizginlenemeyen Karanlık",
-    ["Description"]="Görünüşe göre Solukçene'yi küçümsemişim. Bu totemleri ele geçiren her ne ise sadece iblis kökenli değil. Bunların üzerindeki laneti kırmak için elimizdekilerin yeterli olmamasından korkuyorum.NEW_LINENEW_LINE$n, başarılı olmak istiyorsak Odunağız Tutamağı'na (Timbermaw Hold) bir kez daha girmemiz gerekiyor. Odunağız Köyü'nün derinliklerinde Rüyalar Oyuğu yatıyor. Eskiden ruhanilerimiz tarafından Zümrüt Rüya (Emerald Dream) ile komünyon için kullanılan yer, şimdi meşum bir miyazmaya ev sahipliği yapıyor. Eski evimizden kaçtığımızda ilaç kesemi orada terk ettim. Daha uygun bir büyü yapmak için içindeki araca ihtiyacım var. Ayrıca Odunağız Tutamağı içinde bulunan kirlilikten bir numune. Merheme karıştırıldığında totemlerin içindeki bedduaya panzehir görevi görecek. Kesinlikle içindeki su yolları boyunca bulunan birçok çatlakta böyle bir numune bulacaksın.",
+    ["Description"]="Görünüşe göre Solukçene'yi küçümsemişim. Bu totemleri ele geçiren her ne ise sadece iblis kökenli değil. Bunların üzerindeki laneti kırmak için elimizdekilerin yeterli olmamasından korkuyorum.NEW_LINENEW_LINEYOUR_NAME, başarılı olmak istiyorsak Odunağız Tutamağı'na (Timbermaw Hold) bir kez daha girmemiz gerekiyor. Odunağız Köyü'nün derinliklerinde Rüyalar Oyuğu yatıyor. Eskiden ruhanilerimiz tarafından Zümrüt Rüya (Emerald Dream) ile komünyon için kullanılan yer, şimdi meşum bir miyazmaya ev sahipliği yapıyor. Eski evimizden kaçtığımızda ilaç kesemi orada terk ettim. Daha uygun bir büyü yapmak için içindeki araca ihtiyacım var. Ayrıca Odunağız Tutamağı içinde bulunan kirlilikten bir numune. Merheme karıştırıldığında totemlerin içindeki bedduaya panzehir görevi görecek. Kesinlikle içindeki su yolları boyunca bulunan birçok çatlakta böyle bir numune bulacaksın.",
     ["Objectives"]="Azshara'daki Ursoc'un Boğazı'nda bulunan Karanlık Narkogg için Narkogg'un İlaç Kesesi'ni ve Odunağız Tutamağı içinden Çürük Çiçek'i ele geçir.",
     ["Progress"]="Odunağız Köyü ağır bir şekilde korunuyor olacak. En iyi şekilde hazırlan, çünkü Solukçene tüm ahlakı terk etti.",
-    ["Completion"]="Ne iğrenç bir yaratım. Harika mabedimizin içindeki yaşamın her dakika çürüdüğünün daha fazla kanıtı. Yine de bir amaca hizmet ediyor. Timbermaw'un zalim failler tarafından bizden koparılan şeyi geri almasının yolunu açacak. Şimdi kutsal totemlerimizi temizleyecek kadar güçlü bir merhem hazırlayabilirim.NEW_LINENEW_LINE$n, bu mütevazı meclis sana minnettarlığını ifade eder. Cesaretin sayesinde Odunağız Tutamağı'nı arındırmada ilk adımı attık. Bu özü al ve bu kötülük yuvasına yapacağın derin dalışlarda kullan. Yeterince aldığında içerideki engeli kırabilir ve nihayet her şeyin köküne gelebilirsin.",
+    ["Completion"]="Ne iğrenç bir yaratım. Harika mabedimizin içindeki yaşamın her dakika çürüdüğünün daha fazla kanıtı. Yine de bir amaca hizmet ediyor. Timbermaw'un zalim failler tarafından bizden koparılan şeyi geri almasının yolunu açacak. Şimdi kutsal totemlerimizi temizleyecek kadar güçlü bir merhem hazırlayabilirim.NEW_LINENEW_LINEYOUR_NAME, bu mütevazı meclis sana minnettarlığını ifade eder. Cesaretin sayesinde Odunağız Tutamağı'nı arındırmada ilk adımı attık. Bu özü al ve bu kötülük yuvasına yapacağın derin dalışlarda kullan. Yeterince aldığında içerideki engeli kırabilir ve nihayet her şeyin köküne gelebilirsin.",
     ["minlevel"]="60",
     ["questlevel"]="60"
 },
 
 ["41934"] = {
     ["Title"]="Geriye Kalanlar",
-    ["Description"]="$n, davamıza olan sadakatin ve kararlılığın sınır tanımıyor. Dikkat çekici bir cesaretle çarpık Solukçene ile yüzleştin ve hilelerini durdurdun. Senin ve müttefiklerinin sergilediği güç ve irade, tam da bu yüzden senden imkansızı isteyeceğim kişisin.NEW_LINENEW_LINESana daha önce açıkladığım gibi Odunağız Tutamağı tüm Furbolg'lar için kutsal bir alandır. Kadimler Savaşı sırasında Yanan Lejyon'un ellerinde düşüşünden beri bin yıllardır koruduğumuz Yaban Tanrısı Ursol'un kalıntılarına hürmet ettiğimiz yerdir. Solukçene ele geçirdiğinde onun dinlenme yerinde değildim, yine de kadim koruyucunun bedeninin yozlaşmaya kurban gitmesinden korkuyorum.NEW_LINENEW_LINECesur müttefikimiz, lütfen Odunağız Tutamağı'na dön ve harika tanrımıza ne olduğuna bak. Aşağılık kirlilik onun leşini kontrol altına aldıysa... Gücünü topla ve Zümrüt Rüya'ya bir kez daha dönmesini sağla.",
+    ["Description"]="YOUR_NAME, davamıza olan sadakatin ve kararlılığın sınır tanımıyor. Dikkat çekici bir cesaretle çarpık Solukçene ile yüzleştin ve hilelerini durdurdun. Senin ve müttefiklerinin sergilediği güç ve irade, tam da bu yüzden senden imkansızı isteyeceğim kişisin.NEW_LINENEW_LINESana daha önce açıkladığım gibi Odunağız Tutamağı tüm Furbolg'lar için kutsal bir alandır. Kadimler Savaşı sırasında Yanan Lejyon'un ellerinde düşüşünden beri bin yıllardır koruduğumuz Yaban Tanrısı Ursol'un kalıntılarına hürmet ettiğimiz yerdir. Solukçene ele geçirdiğinde onun dinlenme yerinde değildim, yine de kadim koruyucunun bedeninin yozlaşmaya kurban gitmesinden korkuyorum.NEW_LINENEW_LINECesur müttefikimiz, lütfen Odunağız Tutamağı'na dön ve harika tanrımıza ne olduğuna bak. Aşağılık kirlilik onun leşini kontrol altına aldıysa... Gücünü topla ve Zümrüt Rüya'ya bir kez daha dönmesini sağla.",
     ["Objectives"]="Odunağız Tutamağı'ndaki Ursol'u katlet. Ardından Azshara'daki Ursoc'un Boğazı'nda bulunan Karanlık Narkogg'a rapor ver.",
     ["Progress"]="<Narkogg dua pozisyonunda kalmış. Boğazından çıkan kaba fısıltılardan ritüelistik bir şarkı söylediğini çıkarabilirsin.>",
-    ["Completion"]="Kadim öğretilerimizde tüm furbolg kabilelerini birbirine bağlayan bir efsane vardır. Yaratılışımızdan bahseder, ikiz tanrıların dünya henüz gençken bizi dünyaya getirdiği söylenir. Genç yavrular olarak Kalimdor'un el değmemiş yabanında koşup oynadılar, sabahın erken saatlerinin çiy yüklü çimenlerinde yuvarlandılar. Kahkahalar havayı doldurdu ve sınır tanımayan enerjileri etraflarında yüzdü. Güçleriyle patlayarak ıslak çimenlerin damlaları devasa ağaçların köklerine düştü, kabuktan sızdı ve toprakla bir oldu. Zamanla bu damlalar büyüdü ve genç ayı tanrılarının benzersiz görünümünü aldı.NEW_LINENEW_LINEBiz furbolg'lar için ata tanrılarımıza yabanı korumada yardım etmekten daha önemli bir şey yoktur. Ursol'un ikinci kez öldüğünü görmek kalbimi keder ve acıyla dolduruyor, onun kadar soylu bir varlık bu kaderi hak etmiyordu. $n, Timbermaw sana sonsuza kadar borçlu kalacak. Lütfen bu güçlü merhemi al ve Odunağız Tutamağı'nda kalan yozlaşmayı temizle.",
+    ["Completion"]="Kadim öğretilerimizde tüm furbolg kabilelerini birbirine bağlayan bir efsane vardır. Yaratılışımızdan bahseder, ikiz tanrıların dünya henüz gençken bizi dünyaya getirdiği söylenir. Genç yavrular olarak Kalimdor'un el değmemiş yabanında koşup oynadılar, sabahın erken saatlerinin çiy yüklü çimenlerinde yuvarlandılar. Kahkahalar havayı doldurdu ve sınır tanımayan enerjileri etraflarında yüzdü. Güçleriyle patlayarak ıslak çimenlerin damlaları devasa ağaçların köklerine düştü, kabuktan sızdı ve toprakla bir oldu. Zamanla bu damlalar büyüdü ve genç ayı tanrılarının benzersiz görünümünü aldı.NEW_LINENEW_LINEBiz furbolg'lar için ata tanrılarımıza yabanı korumada yardım etmekten daha önemli bir şey yoktur. Ursol'un ikinci kez öldüğünü görmek kalbimi keder ve acıyla dolduruyor, onun kadar soylu bir varlık bu kaderi hak etmiyordu. YOUR_NAME, Timbermaw sana sonsuza kadar borçlu kalacak. Lütfen bu güçlü merhemi al ve Odunağız Tutamağı'nda kalan yozlaşmayı temizle.",
     ["minlevel"]="60",
     ["questlevel"]="60"
 },
@@ -79065,10 +79065,10 @@ QuestTranslator_QuestData = {
 
 ["41939"] = {
     ["Title"]="Vortalus'un Fermanı",
-    ["Description"]="Özür dilerim, birkaç pasajı okuyabileceğimi söylemiştim ama o zaman bile oldukça gizemli. Bir emirden, karışan ölümlülere saldırma emrinden bahsediyor. Bunu işgalci hava elementallerinden birinin üzerinde mi buldun? Greka üyelerimizin çoğu yokken yaşananları bana anlattı. Görünüşe göre bu basit bir tesadüf değil, savunmamızdaki bir zayıflık anını kullanan koordineli bir saldırıydı. Daha aşağıda şöyle yazıyor:NEW_LINENEW_LINE”Sayısız sivri kayanın rüzgarlı kanyonunda geri dönmeni bekleyeceğim. Boynuzlu müttefiklerimiz başarıdan başka bir şey beklemiyor.”NEW_LINENEW_LINE$n, bu kasvetli bir tablo çiziyor. Toprak Çemberi'ne (Earthen Ring) karşı komplo kuran daha fazla güç var ve korkarım bu “boynuzlu müttefiklerin” kim olduğunu biliyorum. Bin İğne'nin (Thousand Needles) derinliklerinde, geçmişte birçok tauren kabilesine barınak sağlayan kadim bir taş kale olan Rüzgârboynuzu Kanyonu (Windhorn Canyon) var. Şu anda Kara Rüzgâr kabilesi ve büyük olasılıkla onların elementer komplocuları tarafından işgal edilmiş durumda. İttifaklarını derhal durdurmalıyız.",
+    ["Description"]="Özür dilerim, birkaç pasajı okuyabileceğimi söylemiştim ama o zaman bile oldukça gizemli. Bir emirden, karışan ölümlülere saldırma emrinden bahsediyor. Bunu işgalci hava elementallerinden birinin üzerinde mi buldun? Greka üyelerimizin çoğu yokken yaşananları bana anlattı. Görünüşe göre bu basit bir tesadüf değil, savunmamızdaki bir zayıflık anını kullanan koordineli bir saldırıydı. Daha aşağıda şöyle yazıyor:NEW_LINENEW_LINE”Sayısız sivri kayanın rüzgarlı kanyonunda geri dönmeni bekleyeceğim. Boynuzlu müttefiklerimiz başarıdan başka bir şey beklemiyor.”NEW_LINENEW_LINEYOUR_NAME, bu kasvetli bir tablo çiziyor. Toprak Çemberi'ne (Earthen Ring) karşı komplo kuran daha fazla güç var ve korkarım bu “boynuzlu müttefiklerin” kim olduğunu biliyorum. Bin İğne'nin (Thousand Needles) derinliklerinde, geçmişte birçok tauren kabilesine barınak sağlayan kadim bir taş kale olan Rüzgârboynuzu Kanyonu (Windhorn Canyon) var. Şu anda Kara Rüzgâr kabilesi ve büyük olasılıkla onların elementer komplocuları tarafından işgal edilmiş durumda. İttifaklarını derhal durdurmalıyız.",
     ["Objectives"]="Rüzgârboynuzu Kanyonu içindeki elementer elebaşını sür ve Taşçatana Dağları'ndaki Toprak Çemberi'nde bulunan Shovu'ya rapor ver.",
     ["Progress"]="Uzak Görenlerimiz ve konuşmacılarımız etrafımızda kaynayan elementer huzursuzluktan endişeli. Stajyerler ve yeni başlayanlar bile bu huzursuzluğu hissediyor. Bu işin kökenine inmek için daha da fazla sebep.",
-    ["Completion"]="Vortalus mu dedin? Elementallerin ölümlü ırklarla bu kadar büyük sayılarda bir pakt yapmasını görmek endişe verici. Özellikle burada, Toprak Çemberi'nde olanlardan sonra. Bu da başka bir soruyu akla getiriyor. Elementler böyle bir koalisyondan ne bekliyor? Kara Rüzgâr kabilesinin hizmetkarları mıydılar yoksa tam tersi miydi? Rüzgar lordları diğer güçleri de kendi aralarına alıyorlarsa, daha büyük bir şeye hazırlanıyor olmalılar.NEW_LINENEW_LINE$n, cesaretin için teşekkür ederim. Bugün inanılmaz bir şey yaptın ve düzenimizin gelecek vaat eden bir şamanı olarak potansiyelini gösterdin. Diğerleri kesinlikle senden daha büyük şeyler bekliyor.",
+    ["Completion"]="Vortalus mu dedin? Elementallerin ölümlü ırklarla bu kadar büyük sayılarda bir pakt yapmasını görmek endişe verici. Özellikle burada, Toprak Çemberi'nde olanlardan sonra. Bu da başka bir soruyu akla getiriyor. Elementler böyle bir koalisyondan ne bekliyor? Kara Rüzgâr kabilesinin hizmetkarları mıydılar yoksa tam tersi miydi? Rüzgar lordları diğer güçleri de kendi aralarına alıyorlarsa, daha büyük bir şeye hazırlanıyor olmalılar.NEW_LINENEW_LINEYOUR_NAME, cesaretin için teşekkür ederim. Bugün inanılmaz bir şey yaptın ve düzenimizin gelecek vaat eden bir şamanı olarak potansiyelini gösterdin. Diğerleri kesinlikle senden daha büyük şeyler bekliyor.",
     ["minlevel"]="20",
     ["questlevel"]="26"
 },
@@ -79085,7 +79085,7 @@ QuestTranslator_QuestData = {
 
 ["41941"] = {
     ["Title"]="Alevin İkiliği",
-    ["Description"]="Doğa kaotiktir $n. Hiçbir kuralı, belirlenmiş bir yolu, kesin bir geleceği takip etmez. Bu kaosun içinde yaşam fışkırır, elementler tarafından beslenir. Besini olarak toprak, nefesi olarak hava ve yönü olarak su ile ateş, hem onun yetişmesi hem de mahvıdır. Bir yangın rahatlatıcı, davetkar, hatta sıcaklığın nazik kucağında boğucu olabilir. Öte yandan, sınırsız alev amansızdır, içine çekip tüketmek için sonsuzca daha fazla yaşam arar.NEW_LINENEW_LINEAteş elementi yaşam ve ölüm döngüsüne, eskinin yeniden doğuşuna ancak bir parlamanın koruduğu yıkıcı güç ve besleyici tutuşturma yoluyla sıkı sıkıya dokunmuştur. Un'goro Krateri'nde, güney Kalimdor'un derinliklerinde böyle bir birleşime Yangın Tüyü Sırtı'nda (Fire Plume Ridge) tanık olunabilir. Volkan kaynar ve yok eder, toprak ise yanan her şeyde yeni bir güç bulur. Bu volkanik topraktan numuneler topla ve onları Doğu Plaguelands'teki Rimblat Topraksarsan'a (Rimblat Earthshatter) getir. Onlarla ne yapacağını bilecektir.",
+    ["Description"]="Doğa kaotiktir YOUR_NAME. Hiçbir kuralı, belirlenmiş bir yolu, kesin bir geleceği takip etmez. Bu kaosun içinde yaşam fışkırır, elementler tarafından beslenir. Besini olarak toprak, nefesi olarak hava ve yönü olarak su ile ateş, hem onun yetişmesi hem de mahvıdır. Bir yangın rahatlatıcı, davetkar, hatta sıcaklığın nazik kucağında boğucu olabilir. Öte yandan, sınırsız alev amansızdır, içine çekip tüketmek için sonsuzca daha fazla yaşam arar.NEW_LINENEW_LINEAteş elementi yaşam ve ölüm döngüsüne, eskinin yeniden doğuşuna ancak bir parlamanın koruduğu yıkıcı güç ve besleyici tutuşturma yoluyla sıkı sıkıya dokunmuştur. Un'goro Krateri'nde, güney Kalimdor'un derinliklerinde böyle bir birleşime Yangın Tüyü Sırtı'nda (Fire Plume Ridge) tanık olunabilir. Volkan kaynar ve yok eder, toprak ise yanan her şeyde yeni bir güç bulur. Bu volkanik topraktan numuneler topla ve onları Doğu Plaguelands'teki Rimblat Topraksarsan'a (Rimblat Earthshatter) getir. Onlarla ne yapacağını bilecektir.",
     ["Objectives"]="Toprak Çemberi'nden Ateşkonuşucu Bewali, Un'goro Krateri'ndeki Yangın Tüyü Sırtı çevresinden Volkanik Toprak'ı Doğu Plaguelands'teki Işık Umudu Şapeli'nde (Light's Hope Chapel) bulunan Rimblat Topraksarsan'a getirmeni istiyor.",
     ["Progress"]="Selamlar cesur gezgin. Seni bu rahatsız topraklara getiren nedir?",
     ["Completion"]="Yaşamın kokusu bu topraktan akıyor. Bununla bol miktarda yaşam beslenebilir, hatta sonsuza dek kaybolduğu düşünülen şeyleri bile restore edebilir. Bewali seni bu toprağı kurtarmakla görevlendirmekle iyi etti.",
@@ -79105,10 +79105,10 @@ QuestTranslator_QuestData = {
 
 ["41943"] = {
     ["Title"]="Faul Sular",
-    ["Description"]="Buradan çok uzak olmayan Desolace'ın dik yamaçlı çölünde Maraudon Salonları yatıyor. Uğursuz Kentavorlar'ın doğum yeri, halkı ve ataları için kutsal bir yer olduğu söylenir. Bu salonlar kirletildi, hastalık ve çürümüşlüğün zararlı bir inine dönüştürüldü. Toprağı çürüten ve suyu kirleten bu hastalık, aşağıdaki mağara sisteminde derin kökler saldı ve ruhlara ve doğaya muazzam miktarda acı verdi.NEW_LINENEW_LINE$n, Maraudon'a girmeni ve Noxxion adındaki kirlilik bileşimini yok etmeni istiyorum. On icabına bakıldıktan sonra, sefaletin kaynağını, meşum satir Lord Vyletongue'u bozguna uğrat. Onun saltanatı caydırılmadığı sürece Maraudon içindeki elementlere denge geri dönemez.",
+    ["Description"]="Buradan çok uzak olmayan Desolace'ın dik yamaçlı çölünde Maraudon Salonları yatıyor. Uğursuz Kentavorlar'ın doğum yeri, halkı ve ataları için kutsal bir yer olduğu söylenir. Bu salonlar kirletildi, hastalık ve çürümüşlüğün zararlı bir inine dönüştürüldü. Toprağı çürüten ve suyu kirleten bu hastalık, aşağıdaki mağara sisteminde derin kökler saldı ve ruhlara ve doğaya muazzam miktarda acı verdi.NEW_LINENEW_LINEYOUR_NAME, Maraudon'a girmeni ve Noxxion adındaki kirlilik bileşimini yok etmeni istiyorum. On icabına bakıldıktan sonra, sefaletin kaynağını, meşum satir Lord Vyletongue'u bozguna uğrat. Onun saltanatı caydırılmadığı sürece Maraudon içindeki elementlere denge geri dönemez.",
     ["Objectives"]="Maraudon içindeki bozulmuş suları ve kaynağını temizle ve Taşçatana Dağları'ndaki Toprak Çemberi'nde bulunan Ohona Nehirbükü'ne (Ohona Riverbend) geri dön.",
     ["Progress"]="Satirler Azeroth üzerinde bir vebadır. Karanlık lordları için yaptıkları hileler dengeyi sayısız kez bozdu.",
-    ["Completion"]="Elementler döndüğünü söyledi $n. Suların tekrar saf olması zaman alacak. Ancak Maraudon'a artık daha fazla yozlaşma aktarılmadığı için doğa bunu dinginlik ve huzur içinde yapabilir.NEW_LINENEW_LINEAzeroth'a dengeyi geri kazandırma eylemlerin için bunu al.",
+    ["Completion"]="Elementler döndüğünü söyledi YOUR_NAME. Suların tekrar saf olması zaman alacak. Ancak Maraudon'a artık daha fazla yozlaşma aktarılmadığı için doğa bunu dinginlik ve huzur içinde yapabilir.NEW_LINENEW_LINEAzeroth'a dengeyi geri kazandırma eylemlerin için bunu al.",
     ["minlevel"]="41",
     ["questlevel"]="47"
 },
@@ -79205,7 +79205,7 @@ QuestTranslator_QuestData = {
 
 ["41953"] = {
     ["Title"]="Draenetist Kurtarma",
-    ["Description"]="Ayı halkı lekelenmiş draenetist ile ne başarmayı amaçlarsa amaçlasın, bunun olmasına izin veremeyiz. Haince nedenlerle kötüye kullanılmayacak ve Draenei olarak bunun bu şekilde kalmasını sağlamak bizim görevimizdir.NEW_LINENEW_LINE$n, yardımına bir kez daha ihtiyacımız var. Cesur müttefikler topla ve ayı halkının mabedine hücum et. Dikkatli ol: Kristalleri kullanarak beklenmedik güçler elde etmiş olabilecekleri meşum ritüeller gerçekleştirmeleri çok muhtemeldir. Lekelenmiş kristallerin nerede olduğunu bulduğunda failleri cezalandır ve kalan draenetist ile köye geri dön. Onları kirlerinden arındırmak için bir yöntem hazırlayacağım.",
+    ["Description"]="Ayı halkı lekelenmiş draenetist ile ne başarmayı amaçlarsa amaçlasın, bunun olmasına izin veremeyiz. Haince nedenlerle kötüye kullanılmayacak ve Draenei olarak bunun bu şekilde kalmasını sağlamak bizim görevimizdir.NEW_LINENEW_LINEYOUR_NAME, yardımına bir kez daha ihtiyacımız var. Cesur müttefikler topla ve ayı halkının mabedine hücum et. Dikkatli ol: Kristalleri kullanarak beklenmedik güçler elde etmiş olabilecekleri meşum ritüeller gerçekleştirmeleri çok muhtemeldir. Lekelenmiş kristallerin nerede olduğunu bulduğunda failleri cezalandır ve kalan draenetist ile köye geri dön. Onları kirlerinden arındırmak için bir yöntem hazırlayacağım.",
     ["Objectives"]="Odunağız Tutamağı'na (Timbermaw Hold) gir ve yozlaştırılmış draenetist'i ele geçir. Başarılı olursan onları Ayfısıltısı Kıyısı'nın Moro'gai Köyü'ndeki Yarıkustası Ral'pekta'ya getir.",
     ["Progress"]="Ayı halkı hakkında az şey biliyoruz, zamanın çoğunda kendilerine çekildiler. Ne sebeple olduğunu sadece tahmin edebiliriz. Moro’gai'ye karşı komplo kurmak her zaman hedefleri miydi? Draenetist'in gücü gerçekten peşinde oldukları tek şey mi?",
     ["Completion"]="Boynuzlu canavar; bu satir Selenaxx mı dedin? Jeottan enerjiyi emdi ve vücudunu onunla aşıladı, draenetist ile bir mi oldu?! Yeni dünyada bile böylesi bir dinsizliğe tanık olmak. YOUR_CLASS, draenetist'in gücü derinlemesine cezbedicidir ve bir kez onun atan enerjisine dokunulduğunda yenik düşmemek için muazzam bir irade gerektirir. Draenei'lerin draenetist bağımlılıklarına kurban gidip nihayetinde kristalleştiği, en sonunda kendileri draenetist haline geldiği... hikayeler vardır. Böylece Draenor'a geri dönerler ve can damarı döngüsüne girerler.NEW_LINENEW_LINEŞimdilik getirdiğin jeot kıymıkları için temizleme ritüelini hazırlamam gerekecek. Zaman ve çaba gerektirecek ama ben ve dahası Moro’gai sana derin borçluyuz. Kabilemizin hayatta kalmasına verdiğin sürekli destek ödülsüz kalmayacak. Lütfen bu bileziklerden birini seç, böylece henüz gelecek olan kötülüklere karşı seni koruyabilirler.",
@@ -79238,7 +79238,7 @@ QuestTranslator_QuestData = {
     ["Description"]="Selamlar YOUR_CLASS. Benim adım Timbermaw Kabilesi'nden Nathok. Ya da en azından ondan geriye ne kaldıysa. Düşmüş kardeşlerimiz Solukçene (Withermaw) tarafından ata evimiz Odunağız Tutamağı'ndan (Timbermaw Hold) çıkarıldık. Kuzey Kalimdor boyunca ölçülemez bir süredir sürünen korkunç bir karanlığa kapıldılar. Pek çoğu çoktan yenik düştü, yine de diğerleri hâlâ ona karşı savaşmaya devam ediyor. Çok öncesinde furbolg kabileleri birbirleriyle sürekli iletişim halindeydi. Ancak şimdi sessizleştiler ve en kötüsünden şüpheleniyoruz.NEW_LINENEW_LINEHangi kabilelerin hâlâ özgür olduğunu bilmemiz gerekiyor ve yardımını takdir ederim. Bildiklerimizden son umudumuzu Winterspring'in Winterfall'una, Külvadi'in Yeşilpençe'sine (Greenpaw) ve Aydüzlüğü'nün (Moonglade) güneyindeki tünellerde bulunan diğer Timbermaw furbolg'larının küçük bir enklavına bağlıyoruz. Onları ara ve Timbermaw'un hâlâ doğanın gururlu savunucuları olarak durduğunu bilmelerini sağla.",
     ["Objectives"]="Yeşilpençe (Greenpaw), Winterfall ve Timbermaw Furbolg kabilelerini bul. Üçünü de bulduktan sonra Azshara'daki Ursoc'un Boğazı'nda bulunan Nathok'a dön.",
     ["Progress"]="Biz Furbolg'lar bir zamanlar Kalimdor'un büyülü ormanlarında dolaşır, yaban hayatı ve florayla ilgilenir ve dengelerini korurduk. Ancak Lejyon’un ikinci işgalinden beri neredeyse tüm kardeşlerimiz o iblislerin kutsal Yıldızlar Diyarımızda çürümeye bıraktığı karanlığın çağrısına kulak veriyor.",
-    ["Completion"]="Yeşilpençe kurtuluşun ötesinde mi? Ve kardeşlerimizin enklavı Winterfall kabilesini karanlık prangalarından kurtarmak için savaşıyor mu? Zaman gerçekten tükeniyor. Acele etmeli ve kuzeydeki diğer Timbermaw'lar ile mümkün olduğunca çabuk uzlaşmalıyız.NEW_LINENEW_LINE$n, bize bu umut ışığını gösterdiğin için teşekkür ederim. Diğerleriyle bir tartışma yapacağım ve umarım yakında kuzeydeki kardeşlerimize küçük bir elçi göndereceğim. Bu sonsuz gecede yalnız bırakılmayacaklar.",
+    ["Completion"]="Yeşilpençe kurtuluşun ötesinde mi? Ve kardeşlerimizin enklavı Winterfall kabilesini karanlık prangalarından kurtarmak için savaşıyor mu? Zaman gerçekten tükeniyor. Acele etmeli ve kuzeydeki diğer Timbermaw'lar ile mümkün olduğunca çabuk uzlaşmalıyız.NEW_LINENEW_LINEYOUR_NAME, bize bu umut ışığını gösterdiğin için teşekkür ederim. Diğerleriyle bir tartışma yapacağım ve umarım yakında kuzeydeki kardeşlerimize küçük bir elçi göndereceğim. Bu sonsuz gecede yalnız bırakılmayacaklar.",
     ["minlevel"]="50",
     ["questlevel"]="55"
 },
@@ -79248,7 +79248,7 @@ QuestTranslator_QuestData = {
     ["Description"]="Timbermaw'u yozlaşmadan arındırmak için yorulmadan çalışıyoruz ve çabaların şüphesiz çok değerli, yine de görevimizde hâlâ az ilerleme var. Karanlık etkiyi kaldırmak yerine tutamak boyunca daha fazla yayılmasını durduruyoruz. Eksik olduğumuz bir şey olmalı, Odunağız Tutamağı'nın bir zamanlar olduğu misafirperver eve dönmesini istiyorsak ele almamız gereken kritik bir bileşen.NEW_LINENEW_LINEAydüzlüğü (Moonglade), Felwood ve Winterspring arasındaki Timbermaw Tünelleri'nin Timbermaw'ları bize Winterfall’un yozlaşmasının kaynağı olan Xandivious adında bir iblisi ortadan kaldırmada nasıl yardımcı olduğunu anlattı. Onlara danışalım ve Odunağız Tutamağı'na hâlâ neyin musallat olabileceğine dair bir ipucuna sahip olmalarını umalım.",
     ["Objectives"]="Aydüzlüğü'nün güneyindeki Timbermaw Tünelleri'nde bulunan Tek Gözlü Gorn (Gorn One Eye) ile Odunağız Tutamağı içindeki kalıcı karanlık hakkında konuş.",
     ["Progress"]="",
-    ["Completion"]="Uzun zaman oldu $n. Odunağız Tutamağı içindeki başarılarını duyduk ve halkımız için yaptığın fedakarlıklar için sonsuz minnettarlık gösteriyoruz. Başardığın şey doğal bir durum değil, başkaları kendi soyundan olmayan bir ırka böyle bir merhamet göstermezdi. Şimdi söyle bana, seni bana getiren nedir?",
+    ["Completion"]="Uzun zaman oldu YOUR_NAME. Odunağız Tutamağı içindeki başarılarını duyduk ve halkımız için yaptığın fedakarlıklar için sonsuz minnettarlık gösteriyoruz. Başardığın şey doğal bir durum değil, başkaları kendi soyundan olmayan bir ırka böyle bir merhamet göstermezdi. Şimdi söyle bana, seni bana getiren nedir?",
     ["minlevel"]="60",
     ["questlevel"]="60"
 },
@@ -79288,7 +79288,7 @@ QuestTranslator_QuestData = {
     ["Description"]="Bu canlandırıcı hissettirdi. Sana borçluyum YOUR_CLASS ve bu borcu ödeyeceğim. Boyunduruk altına alacak duyarlı ırkları arayışımda bu dünyanın engin düzlüklerini dolaştım. Bunlardan biri de şimdi çorak bir arazi olan Desolace'ın tarlalarıydı. Ne yazık ki kokumu her aldıklarında Ysera’nın haşereleri beni takip ettiği için kendi halime bırakılmadım. Flütü kurtarma umuduyla peşimdeydiler. Ne yararsız bir çaba. Takipçilerimden kaçarken flütü güneydoğu dağlarındaki Kaldorei kalıntılarının derinliklerinde büyülü bir şekilde mühürlenmiş bir sandığın içine koydum, onu güçlü bir kalkanla örttüm, layık olmayan gözlerden gizledim.NEW_LINENEW_LINE<Insom’ni elini tutarken kendi eli zümrüt bir pençeye dönüşür. Onunla avcuna yeşil bir rün kazır. Acı dayanılmazdır.>NEW_LINENEW_LINEŞimdi git. Sabrım sonuna yaklaşıyor. Bu rünle sandığı görebilecek, açabilecek ve dövüştüğün şeyi ele geçirebileceksin.",
     ["Objectives"]="Ruh Flütü'nü ele geçir ve Aydüzlüğü'nün güneyindeki Timbermaw Tünelleri'nde bulunan Tek Gözlü Gorn'a getir.",
     ["Progress"]="Zamanında dönmeni bekledim. Söyle bana, Yeşil Ejderha Sürüsü arayışında sana yardımcı olabildi mi?",
-    ["Completion"]="Mitler doğruydu. Zaman içinde kaybolduğu düşünülen böylesine güçlü bir kalıntı. Elımdeyken ben... Halkıma musallat olan tüm bu sefaletin arkasında ne tür bir kötülük olduğunu ortaya çıkarabileceğimizden eminim. $n, sürekli yardımın için teşekkür ederim ama henüz dinlenme. Hâlâ yapacak çok şeyimiz var.",
+    ["Completion"]="Mitler doğruydu. Zaman içinde kaybolduğu düşünülen böylesine güçlü bir kalıntı. Elımdeyken ben... Halkıma musallat olan tüm bu sefaletin arkasında ne tür bir kötülük olduğunu ortaya çıkarabileceğimizden eminim. YOUR_NAME, sürekli yardımın için teşekkür ederim ama henüz dinlenme. Hâlâ yapacak çok şeyimiz var.",
     ["minlevel"]="60",
     ["questlevel"]="60"
 },
@@ -79307,7 +79307,7 @@ QuestTranslator_QuestData = {
     ["Title"]="On Bin Yılın Bilgeliği",
     ["Description"]="",
     ["Objectives"]="",
-    ["Progress"]="Selamlar $n. Görevinin acil olduğunu görüyorum. Fangorn, Kadimler Savaşı sırasında halkımızın bir müttefikiydi, güçlü büyüsü ve bilgeliği asilzade hainlere karşı zafer kazanmada kilit rol oynadı. Bölünme'nin (Sundering) ardından, Kalidar adasında bu güne kadar uykuda kaldı, etrafındaki dünyayı her zamanki gibi tetikte etkiledi.NEW_LINENEW_LINEFurbolg haklıydı, çoktan unutulmuş bir dili konuşuyor. Aydüzlüğü druidlerinin bile artık neredeyse hiç konuşmadığı bir dil. Bunu sana öğretmek yıllar alır ama en azından bir süreliğine anlamana yardımcı olabilirim. Dünya Ağacı'nın eteklerinden bana bir Nordrassil Palamudu, Külvadi'deki Aessina Mabedi'nden özsuyu ve beş Rüya Görüşü İksiri getir. Bana bu malzemeleri getir, yardımımla görevinde ilerleyebilirsin.",
+    ["Progress"]="Selamlar YOUR_NAME. Görevinin acil olduğunu görüyorum. Fangorn, Kadimler Savaşı sırasında halkımızın bir müttefikiydi, güçlü büyüsü ve bilgeliği asilzade hainlere karşı zafer kazanmada kilit rol oynadı. Bölünme'nin (Sundering) ardından, Kalidar adasında bu güne kadar uykuda kaldı, etrafındaki dünyayı her zamanki gibi tetikte etkiledi.NEW_LINENEW_LINEFurbolg haklıydı, çoktan unutulmuş bir dili konuşuyor. Aydüzlüğü druidlerinin bile artık neredeyse hiç konuşmadığı bir dil. Bunu sana öğretmek yıllar alır ama en azından bir süreliğine anlamana yardımcı olabilirim. Dünya Ağacı'nın eteklerinden bana bir Nordrassil Palamudu, Külvadi'deki Aessina Mabedi'nden özsuyu ve beş Rüya Görüşü İksiri getir. Bana bu malzemeleri getir, yardımımla görevinde ilerleyebilirsin.",
     ["Completion"]="İyi iş. Artık her şey toplandığına göre, palamuttan doğanın kendi kelimelerini anlamanı sağlayacak bir kutsama çıkarabilirim. Ancak dikkatli ol. Büyü sonsuza dek sürmeyecek, bu yüzden sabit bir hızla Fangorn'a acele et.",
     ["minlevel"]="60",
     ["questlevel"]="60"
@@ -79317,7 +79317,7 @@ QuestTranslator_QuestData = {
     ["Title"]="Kadim Kalıntılara Gömülü",
     ["Description"]="Fangorn’un sözleri hâlâ kafanda çınlıyor. Tyrandas'taki harap şehir Elun’aran ve tapınağının altındaki mağara sistemi. Bu yolculuğun sonucunun yaklaştığını hissedebiliyorsun.",
     ["Objectives"]="Ayfısıltısı Kıyısı'na seyahat et ve Tyrandas adasındaki Elunaris Tapınağı altındaki mağaraları keşfet. Bulgularınla Aydüzlüğü'nün güneyindeki Timbermaw Tünelleri'nde bulunan Tek Gözlü Gorn'a dön.",
-    ["Progress"]="Tekrar hoş geldin $n. Yaşlı Fangorn ile bir başarın oldu mu?",
+    ["Progress"]="Tekrar hoş geldin YOUR_NAME. Yaşlı Fangorn ile bir başarın oldu mu?",
     ["Completion"]="<Gorn getirdiğin haberler karşısında titriyor. Kendini toplamaya çalışırken öfkeli bir hırlama keskin dişlerini ortaya çıkarıyor.>\"NEW_LINENEW_LINEPeroth’arn. Xavius'un ikinci eli, Satir Lordu. Hiç şüphe yok. Bu boynuz parçası ve Solukçene totemleri aynı türden kötücül enerjiyi paylaşıyor. İblisani özlerin ve... bilinmeyen bir dehşetin faul bir karışımı. Öyle ezici bir varlık ki bakmak bile inanılmaz derecede dinsizce.",
     ["minlevel"]="60",
     ["questlevel"]="60"
@@ -79328,7 +79328,7 @@ QuestTranslator_QuestData = {
     ["Description"]="İblis Xandivious'u Winterfall Şefi'nin mağarasından çıkarmak için işlediğim meşaleyi hatırlıyor musun? O aşağılık canavar Peroth’arn'ı saklandığı yerden çıkarmak istiyorsak tekrar böyle bir meşaleye ihtiyacımız olacak ama muazzam derecede daha güçlüsüne. Bunun için arındırıcı bir alev gerekiyor.NEW_LINENEW_LINEYer kabuğunun çok altında Erimiş Çekirdek (Molten Core) yatıyor. Mağaraları magma nehirleri ve haşlayıcı taşlar doldururken, ateşli elementaller kendi aralarında kaos yayıyor. Bu yerde en büyük saflıkta bir alev bulunabilir. Sadece bu yoğunluktaki bir parlama planımızın başarılı olmasını sağlamak için yeterli olacaktır.NEW_LINENEW_LINEBana onu ve yirmi Yıldız Odunu kütüğü getir. İkisi de yeterince güçlü bir meşale oluşturmak için gereklidir.",
     ["Objectives"]="Temizleme meşalesini işlemek için Aydüzlüğü'nün güneyindeki Timbermaw Tünelleri'nde bulunan Tek Gözlü Gorn bir Arındırıcı Alev ve Yıldız Odunu kütüklerine ihtiyaç duyuyor.",
     ["Progress"]="Lütfen dikkatli kal. Erimiş Çekirdek tehlikeli bir yerdir ve müttefiklerin içerideki tehlikelere yeterince hazırlıklı olamaz.",
-    ["Completion"]="Harika! Alevlerin en safı, ilkel bir kalp atışı bu belirsiz alev topunun içinde yankılanıyor. Bu dünyadaki veya başka bir dünyadaki hiçbir kötülük onun ortaya çıkaran ışığından saklanamaz.NEW_LINENEW_LINE$n, zamanı geldi. Odunağız Tutamağı içindeki karanlığı bir kez ve herkes için sileceğiz.",
+    ["Completion"]="Harika! Alevlerin en safı, ilkel bir kalp atışı bu belirsiz alev topunun içinde yankılanıyor. Bu dünyadaki veya başka bir dünyadaki hiçbir kötülük onun ortaya çıkaran ışığından saklanamaz.NEW_LINENEW_LINEYOUR_NAME, zamanı geldi. Odunağız Tutamağı içindeki karanlığı bir kez ve herkes için sileceğiz.",
     ["minlevel"]="60",
     ["questlevel"]="60"
 },
@@ -79418,7 +79418,7 @@ QuestTranslator_QuestData = {
     ["Description"]="Selamlar donan yabancı! Maceraların nasıl gidiyor? Kaneq’nuun'daki konaklamandan keyif alıyor musun? Sunacak çok şeyimiz olmayabilir ama sahip olduğumuz şey en içten konukseverlikle paylaşılır. Şans eseri hikayeler paylaşmakla ilgilenir misin, biz Tuskarr'ların paylaşacak çok sayıda efsanesi ve folkloru var. Kaneq’nuun'a balıkçılık becerilerini bileylemek için mi geldin belki de? O halde seninle Iqa’quluk'un, Aybalığı'nın (Moonfish) hikayesini paylaşayım!NEW_LINENEW_LINEÇok, çok ay önce, karnım henüz bu kadar yuvarlak değilken, yaşlı adam Kuzey Denizi'nde balık tutarken gizemli bir balıkla karşılaştı. Sakin, ay ışıklı bir gecede balıkçı teknesinde oturuyordu ki, okyanusun derinliklerinden parlayan bir şey ortaya çıktı! Buz kütlesi kadar düz ve güzel beyaz pullarla kaplı devasa bir balık. Ay ışığı pullarında pırıldayan bir ışıkla yansıdı. Ortaya çıktığı kadar hızlı bir şekilde gözden kayboldu ve arkasında şaşkın olanları bıraktı.NEW_LINENEW_LINEBu çok heyecan verici bir hikaye değil mi?",
     ["Objectives"]="Kuzey Denizi'nde harika Iqa’quluk'u yakalayarak genç Tonlok'u etkile. Balıkla birlikte Buznoktası Kayası'ndaki (Icepoint Rock) Kaneq’nuun'da bulunan ona dön.",
     ["Progress"]="Daha fazla hikaye için mi dönüyorsun?",
-    ["Completion"]="Bu Iqa’quluk mu?! Bir yabancının harika Aybalığı'nı tutacağını asla düşünmezdim. Panukuki’nin bunu duyduğundaki yüz ifadesini hayal edebiliyorum, ne kadar eğlenceli!NEW_LINENEW_LINE$n, ziyaretinle gerçekten günümü, belki de bütün haftamı güzelleştirdin. Seni değerli bir sırrımla ödüllendirmek istiyorum. Mükemmel bir balıkçı olduğuna göre kendi balıkçılık paketini nasıl işleyeceğini göstereyim, okyanustaki o çok uzun günler için mükemmel bir arkadaş. Tuskarr kültüründe temel bir unsur!",
+    ["Completion"]="Bu Iqa’quluk mu?! Bir yabancının harika Aybalığı'nı tutacağını asla düşünmezdim. Panukuki’nin bunu duyduğundaki yüz ifadesini hayal edebiliyorum, ne kadar eğlenceli!NEW_LINENEW_LINEYOUR_NAME, ziyaretinle gerçekten günümü, belki de bütün haftamı güzelleştirdin. Seni değerli bir sırrımla ödüllendirmek istiyorum. Mükemmel bir balıkçı olduğuna göre kendi balıkçılık paketini nasıl işleyeceğini göstereyim, okyanustaki o çok uzun günler için mükemmel bir arkadaş. Tuskarr kültüründe temel bir unsur!",
     ["minlevel"]="50",
     ["questlevel"]="55"
 },
@@ -79468,7 +79468,7 @@ QuestTranslator_QuestData = {
     ["Description"]="Kadim bir elementer kalıntının, Neptulon İdolü'nün izlerini bu kalıntılara kadar takip ettim, ancak nagalar tarafından istila edildiklerini gördüm. Bu kayan fiendlerin umursamaz veya iyi niyetli oldukları bilinmez, bu yüzden bizimle aynı nedenden ötürü burada olmaları muhtemeldir. Savaştaki becerilerim sınırlı ve umduğum kadar güçlü değil, bu yüzden buradaki varlığını gerçekten takdir ediyorum. Gücünün, nagalar sulu evlerine onunla geri dönmeden önce kalıntıyı zamanında güvenceye almak için yeterli olabileceğine inanıyorum. Bilgilerime göre, tam bu kalıntıların ötesindeki mağaranın içinde yatıyor olmalı. Dışarıda iyi şanslar, ihtiyacın olursa burada olacağım.",
     ["Objectives"]="Feralas'taki Dehşet Adası'nda bulunan Makya Ayışığı için Neptulon İdolü'nü ele geçir.",
     ["Progress"]="Neptulon İdolü'nün su elementi üzerinde muazzam bir güce sahip olduğu, kullanıcısının girdaplar, yükselen dalgalar ve diğer tehlikeli fenomenleri çağırmasına izin verdiği söylenir. Bu dünyaya kargaşa dileyen kötülüklerin ellerine düşmesine izin veremeyiz.",
-    ["Completion"]="Ona sahipsin! Ama… Hasar görmüş gibi görünüyor. Ne kadar talihsiz ama muhtemelen en iyisi. Bu şekilde bu dünyaya kargaşa dileyenlerin iğrenç eylemleri için kötüye kullanılamaz. Şimdi bakımımdaki güvenle Toprak Çemberi'ne geri döneceğim. Sana tekrar teşekkür ederim $n. Yardımınız olmasaydı nagalar onu kendileri için ele geçirebilirdi. Lütfen bunu Toprak Çemberi'nden bir hediye olarak al.",
+    ["Completion"]="Ona sahipsin! Ama… Hasar görmüş gibi görünüyor. Ne kadar talihsiz ama muhtemelen en iyisi. Bu şekilde bu dünyaya kargaşa dileyenlerin iğrenç eylemleri için kötüye kullanılamaz. Şimdi bakımımdaki güvenle Toprak Çemberi'ne geri döneceğim. Sana tekrar teşekkür ederim YOUR_NAME. Yardımınız olmasaydı nagalar onu kendileri için ele geçirebilirdi. Lütfen bunu Toprak Çemberi'nden bir hediye olarak al.",
     ["minlevel"]="39",
     ["questlevel"]="45"
 },
@@ -79525,7 +79525,7 @@ QuestTranslator_QuestData = {
 
 ["41995"] = {
     ["Title"]="Akılsız Canavar",
-    ["Description"]="Eylemlerin akılsız bir canavarınkiler olduğunda bile dik duruyorsun $n. Söyle bana, babamın sana verdiği görevleri sorgulamayı hiç düşündün mü? Sanmıyorum. Sonuçta kendi çıkarın için burada olan kanlı bir kırmadan başka bir şey değilsin. Ellerin halkımın kanıyla lekelenmiş.NEW_LINENEW_LINEHâlâ şef rolünü iddia eden korkak sana kimi öldürmen için gönderdiğini söyledi mi? Biraz olsun pişman mıydı? Hayır, olduğundan şüpheliyim. Öyleyse sana ben söyleyeyim. Aptal babam yanlış hedefi seçti. Nehirboynuzu'nu ateşe veren Düşmüş Olanlar'ı katletmeni sağlamak yerine en eski dostunu öldürmeni sağladı.NEW_LINENEW_LINEYüzümden defol Horde üyesi. Ve bu günah gerçek hainin kanıyla ödenene kadar geri dönme. Güneybatıdaki Nehirboynuzu kalıntılarını bul ve Baxdi’zha dediklerini katlet. O hâlâ eziyet çeken toprakta seğirtiyor.",
+    ["Description"]="Eylemlerin akılsız bir canavarınkiler olduğunda bile dik duruyorsun YOUR_NAME. Söyle bana, babamın sana verdiği görevleri sorgulamayı hiç düşündün mü? Sanmıyorum. Sonuçta kendi çıkarın için burada olan kanlı bir kırmadan başka bir şey değilsin. Ellerin halkımın kanıyla lekelenmiş.NEW_LINENEW_LINEHâlâ şef rolünü iddia eden korkak sana kimi öldürmen için gönderdiğini söyledi mi? Biraz olsun pişman mıydı? Hayır, olduğundan şüpheliyim. Öyleyse sana ben söyleyeyim. Aptal babam yanlış hedefi seçti. Nehirboynuzu'nu ateşe veren Düşmüş Olanlar'ı katletmeni sağlamak yerine en eski dostunu öldürmeni sağladı.NEW_LINENEW_LINEYüzümden defol Horde üyesi. Ve bu günah gerçek hainin kanıyla ödenene kadar geri dönme. Güneybatıdaki Nehirboynuzu kalıntılarını bul ve Baxdi’zha dediklerini katlet. O hâlâ eziyet çeken toprakta seğirtiyor.",
     ["Objectives"]="Nehirboynuzu Köyü'ndeki Baxdi’zha'yı öldür. İşin bittiğinde Aytoynak Köyü'ndeki Genç Aytoynak'a dön.",
     ["Progress"]="Sözlerim ve öfkem senin üzerinde boşa gidiyor, katil.",
     ["Completion"]="Kanı daha fazla kan dökerek ödüyorsun. Bunun seni eylemlerinden muaf tuttuğunu sanma. Ama en azından yanlışını düzeltme kararlılığına sahipmişsin.",
@@ -79635,7 +79635,7 @@ QuestTranslator_QuestData = {
 
 ["42009"] = {
     ["Title"]="Mübarek Loktanag",
-    ["Description"]="Belki kendin hissettin ya da tezahürlerinden biriyle çoktan karşılaştın ama Kalimdor ormanlarında cirit atan bir istila var. Florayı ve faunayı enfekte ederek onları deliliğe sürüklüyor, dost ve düşmana aynı şekilde saldırıyor. Doğanın ruhları arasında meşum fısıltılar susuyor, dengenin savunucularını söz konusu yozlaşmaya karşı topluyor.NEW_LINENEW_LINEBunlardan biri soylu Loktanag, büyüme ve uyum sağlayabilirliğin yaşayan enkarnasyonu. Mount Hyjal'in derin karın boşluğunda, Odunağız Tutamağı'nın (Timbermaw Hold) kutsal salonlarında bir huzursuzluk sezdiler. Furbolg'un kutsal evinin çok derinlerine giren Loktanag miyazmanın yayılmasını durdurmaya çalıştı, yine de güçlerinin yeterli olmadığı görülüyor. Şimdi ruhlar toksik çamur sızdıran ve durdurmak istedikleri yozlaşmayı yayan çürüyen bedenlerinin yasını tutuyor.NEW_LINENEW_LINE$n, senden Loktanag'ı huzura kavuşturmanı istiyorum. Onlar gibi soylu bir yaratık döngüye bir kez daha dönmeli. Denge restore edilmeli.",
+    ["Description"]="Belki kendin hissettin ya da tezahürlerinden biriyle çoktan karşılaştın ama Kalimdor ormanlarında cirit atan bir istila var. Florayı ve faunayı enfekte ederek onları deliliğe sürüklüyor, dost ve düşmana aynı şekilde saldırıyor. Doğanın ruhları arasında meşum fısıltılar susuyor, dengenin savunucularını söz konusu yozlaşmaya karşı topluyor.NEW_LINENEW_LINEBunlardan biri soylu Loktanag, büyüme ve uyum sağlayabilirliğin yaşayan enkarnasyonu. Mount Hyjal'in derin karın boşluğunda, Odunağız Tutamağı'nın (Timbermaw Hold) kutsal salonlarında bir huzursuzluk sezdiler. Furbolg'un kutsal evinin çok derinlerine giren Loktanag miyazmanın yayılmasını durdurmaya çalıştı, yine de güçlerinin yeterli olmadığı görülüyor. Şimdi ruhlar toksik çamur sızdıran ve durdurmak istedikleri yozlaşmayı yayan çürüyen bedenlerinin yasını tutuyor.NEW_LINENEW_LINEYOUR_NAME, senden Loktanag'ı huzura kavuşturmanı istiyorum. Onlar gibi soylu bir yaratık döngüye bir kez daha dönmeli. Denge restore edilmeli.",
     ["Objectives"]="Odunağız Tutamağı içindeki Kötücül Loktanag'ı bozguna uğrat ve Taşçatana Dağları'ndaki Toprak Çemberi'nde bulunan Muln Topraköfkesi'ne (Muln Earthfury) dön.",
     ["Progress"]="Odunağız Tutamağı içindeki yolculuğunda önünde ne yattığını söyleyemem. Ruhlar o yer hakkında konuşmaya cesaret edemiyor ve bana hiçbir bilgelik vermiyor.",
     ["Completion"]="Korkunç bir eylem yapıldı. Loktanag’ın bedeni ayrışacak, tekrar toprakla bir olacak. Yaptığın şeyin kalplerimize ağır geldiğini biliyorum ama gerekliydi. Zamanla tekrar ortaya çıkacaklar ve doğanın büyümesini bir kez daha besleyecekler.",
