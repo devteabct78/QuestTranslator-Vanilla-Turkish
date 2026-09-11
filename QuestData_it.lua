@@ -23598,7 +23598,7 @@ QuestTranslator_QuestData = {
     ["80369"] = {
     ["Title"]="Sıcak Bir His",
     ["Description"]="Ah, bir kez daha yolunu buraya düşürdün, YOUR_NAME. Bu kesinlikle harika, çünkü senin için bir görevim daha olabilir. Uzak güneyde, Baykuşcanavarlar olarak bilinen son derece yırtıcı yaratıkların bir klanı yer alıyor. Onların yaşadığı yer olan Baykuş Kanadı Çalılığı, özellikle tuhaf bir bitkinin yuvası olmasıyla ünlüdür. Benim için bu değerli bitkilerden yaklaşık yirmi tane toplama zahmetine katlanabilir misin lütfen? Baykuşcanavarlar hafif bir atıştırmalık olarak bunları üzerlerinde taşıyor olmalılar.",
-    ["Objectives"]="20 Kışpınarı Çay Yaprağı topla.",
+    ["Objectives"]="20 Kışbaharı Çay Yaprağı topla.",
     ["Progress"]="Avın iyi geçti mi?",
     ["Completion"]="Ah, mükemmel. Bir içki hazırlamam için bana bir dakika ver. Bir tadına bak.",
     ["minlevel"]="0",
@@ -24415,7 +24415,7 @@ QuestTranslator_QuestData = {
     ["41358"] = {
     ["Title"]="Gün Doğumunda Uyandı",
     ["Description"]="Bu nesneler toplandığına göre artık ikimizin de aradığı cevapları bulabilirim. Büyülerimi yapmam için bana birkaç dakika ver. <Al'Dorel gözleri kapalı bir şekilde mırıldanır.> Bunu kabul etmek oldukça zor. Nasıl tepki vereceğimi bilemiyorum. Ben - sanırım kaçınmaya değmez. Arygos, Kule'nin Ley Hattı'nı arıyordu çünkü Maviler, Azeroth'un ölümlü ırklarını Gizemli (Arcane) sanatlara layık görmüyor. Görünüşe göre Malygos'un kendisi de... Buna ne bir savaş ne de bir muharebe diyebilirim, hazırlanıyor. Karıncalar senin ayağını bir savaş ya da çatışma ilanı olarak görür müydü? Yoksa sadece saf bir yok oluş mu. Herkesin bunun doğru yol olduğuna inanıp inanmadığını bilmeliyim. Buradan ayrılamam, o yüzden lütfen. Lütfen benim adıma Haleh ile konuş. O, Kalimdor'un Kuluçkaanasıdır (Broodmother). Mazthoril'in tepesinde dinleniyor ve içinde ona ulaşmak için kullanabileceğin bir rün var.",
-    ["Objectives"]="Mazthoril'in tepesindeki Haleh ile Al'Dorel'in Winterspring'de (Kışpınarı) ortaya çıkardığı gerçek hakkında konuş.",
+    ["Objectives"]="Mazthoril'in tepesindeki Haleh ile Al'Dorel'in Winterspring'de (Kışbaharı) ortaya çıkardığı gerçek hakkında konuş.",
     ["Progress"]="Seni buraya getiren nedir?",
     ["Completion"]="Adil bir endişe. Sana bir açıklama borçlu değilim – ama sanırım Al'Dorel farklı.",
     ["minlevel"]="0",
@@ -26671,10 +26671,10 @@ QuestTranslator_QuestData = {
 
     -- Ayazyeli Zırhı
     ["40769"] = {
-    -- "Chillwind" terimi oyun evreninde soğuk rüzgarları temsil ettiği için "Ayazyeli" olarak Türkçeleştirilmiştir. Razin Brasslight -> Razin Pirinçışık, Winterspring -> Kışpınarı.
+    -- "Chillwind" terimi oyun evreninde soğuk rüzgarları temsil ettiği için "Ayazyeli" olarak Türkçeleştirilmiştir. Razin Brasslight -> Razin Pirinçışık, Winterspring -> Kışbaharı.
     ["Title"]="Ayazyeli Zırhı",
-    ["Description"]="Kayda değer bir şey üzerinde çalışmayalı uzun zaman oldu ve sana şöyle söyleyeyim, gerçek bir iş için yanıp tutuşuyorum. Bir süredir burada, Tel'Abim'de el üstünde tutulan bir tamirciden ötesi olamayarak mahsur kaldım. İçimdeki demirci bana sesleniyor ve aklımı kaçırmadan önce benzersiz bir şey üzerinde çalışmak istiyorum. Çok uzun zaman önce, Everlook'ta (Herdaimbakış) çalışırken, karlı tundralarda dolaşan son derece güçlü yaratıklar olan Ayazyeli Kimeraları (Chillwind Chimaera) beni büyülemişti. Bu yaratıkların birkaçında büyüyen nadir Ayazdokuma (Frostwoven) boynuzları hakkında söylentiler dolaşıyordu; onlardan birini ele geçirmek ve onu bir zırha işlemek istiyorum, bunu benim için yapabileceğini düşünüyor musun? Ayazyeli Kimeralarını buradan çok uzakta, kuzeydeki Kışpınarı'nda (Winterspring) bulabilirsin.",
-    ["Objectives"]="Kışpınarı'ndaki (Winterspring) Ayazyeli Kimeralarını katlet ve Tel'Abim'deki Bixxle'ın Deposu'nda bulunan Razin Pirinçışık (Razin Brasslight) için bir adet Ayazdokuma Ayazyeli Boynuzu topla.",
+    ["Description"]="Kayda değer bir şey üzerinde çalışmayalı uzun zaman oldu ve sana şöyle söyleyeyim, gerçek bir iş için yanıp tutuşuyorum. Bir süredir burada, Tel'Abim'de el üstünde tutulan bir tamirciden ötesi olamayarak mahsur kaldım. İçimdeki demirci bana sesleniyor ve aklımı kaçırmadan önce benzersiz bir şey üzerinde çalışmak istiyorum. Çok uzun zaman önce, Everlook'ta (Herdaimbakış) çalışırken, karlı tundralarda dolaşan son derece güçlü yaratıklar olan Ayazyeli Kimeraları (Chillwind Chimaera) beni büyülemişti. Bu yaratıkların birkaçında büyüyen nadir Ayazdokuma (Frostwoven) boynuzları hakkında söylentiler dolaşıyordu; onlardan birini ele geçirmek ve onu bir zırha işlemek istiyorum, bunu benim için yapabileceğini düşünüyor musun? Ayazyeli Kimeralarını buradan çok uzakta, kuzeydeki Kışbaharı'nda (Winterspring) bulabilirsin.",
+    ["Objectives"]="Kışbaharı'ndaki (Winterspring) Ayazyeli Kimeralarını katlet ve Tel'Abim'deki Bixxle'ın Deposu'nda bulunan Razin Pirinçışık (Razin Brasslight) için bir adet Ayazdokuma Ayazyeli Boynuzu topla.",
     ["Progress"]="Henüz bir şansın oldu mu, yoksa buraya soğuk havaya göğüs germek için bir palto aramaya mı geldin?",
     ["Completion"]="Pekala, bu kesinlikle nadir bulunan bir parça; sen yokken bu boynuzu bir zırha nasıl dahil edebileceğimize dair birkaç fikir düşündüm ve sanırım mükemmel fikri buldum. Yardım ettiğin için bunu al!",
     ["minlevel"]="0",
@@ -41572,7 +41572,7 @@ QuestTranslator_QuestData = {
     -- Waywatcher -> Yolgözetici (Malorne unvanı), fraction -> küçük bir parçası, insurmountable advantage -> aşılmaz bir avantaj, war -> savaş. Grandfather -> büyükbaba, taint -> yozlaşma / leke, relics -> yadigarlar, kin -> soydaşlar.
     -- Bough of Cenarius -> Cenarius'un Dalı (Bough + of + Cenarius). Father's antlers -> babamın boynuzları. Fall in Külvadi -> Külvadi'deki düşüşü. Bough Shadow -> Dal Gölgesi (Bough Shadow), Moonglade = Moonglade, burial -> gömülme. Dragonkin -> ejderha soyundan gelenler / ejderimsiler.
     -- Ysera = Ysera kalmıştır, foster mother -> koruyucu anne. Scale -> pul, jade skin -> yeşim derisi, cause -> dava / amaç. Dwell -> barınmak.
-    -- Remembrance of Elune -> Elune'un bir hatırası. Guardians -> koruyucular, Moonkin -> Moonkin (Aymelekleri), artifacts -> yapay yadigarlar, Winterspring = Winterspring (Kışpınarı).
+    -- Remembrance of Elune -> Elune'un bir hatırası. Guardians -> koruyucular, Moonkin -> Moonkin (Aymelekleri), artifacts -> yapay yadigarlar, Winterspring = Winterspring (Kışbaharı).
     -- Keeper Remulos -> Koruyucu Remulos kalmıştır. Care for nature -> doğaya olan sevgi ve özen. Powerful trinkets -> güçlü muskalar / tılsımlar, mortals -> ölümlüler. Forces -> güçler, comprehension -> kavrayış, role -> rol, fate -> kader. Consequences -> sonuçlar.
     ["41341"] = {
     ["Title"]="Bağlı Anılar",
@@ -43211,10 +43211,10 @@ QuestTranslator_QuestData = {
     }, -- end The Hermit's Wrath
 
 -- The Horn of Binding
-    -- Trainee druids Hyjal Third War scarred land nuanced teachings druidic magic craft Horn of Binding -> Üçüncü Savaş toprakları yaralamadan çok önce Hyjal druidleriyle bir stajyerdim druid büyüsünün daha incelikli öğretilerini öğrenme şansım oldu 'Bağlama Boynuzu' adında bir eşya işlemeyi öğrendim. Work craft new horn bind natural energies Winterspring require materials lands Hyjal -> yeni bir boynuz işlemek ve onu buradaki Winterspring'in doğal enerjilerine bağlamak için çalışıyorum ancak hem bu topraklardan hem de Hyjal'dan daha fazla malzemeye ihtiyacım var. Beaks Greathorn Owls native Hyjal Vilemusk Horn Satyr dwell titled 'Bracing of Nature' Nordanaar Moontouched Amulet local Owlbeasts Winterspring -> Hyjal'a özgü Büyükboynuz Baykuşlarının gagaları orada barınan Satırlardan bir Tekinsizmiski Boynuzu Nordanaar'da bulunabilecek 'Doğanın Canlandırılışı' başlıklı bir kitap ve son olarak buradaki yerel Baykuş canavarlardan bir Ay dokunuşlu Muska Winterspring. Greathorn Beaks -> Büyükboynuz Gagaları, Vilemusk Horn -> Tekinsizmiski Boynuzu, 'Bracing of Nature' -> 'Doğanın Canlandırılışı', Moontouched Amulet -> Aydokunuşlu Muska. Everwyl Moonseeker -> Everwyl Ayearayan kalmıştır, Starfall Village -> Yıldızdüşüşü Köyü (Starfall Village), Winterspring = Kışpınarı (Winterspring). Materials dangerous obtain implore caution searching -> malzemeleri elde etmek tehlikeli olacaktır ararken dikkatli olmanı rica ediyorum. Creation finally begin courageous selfless efforts YOUR_NAME many days weeks read old book remember steps finish ordeal -> Bağlama Boynuzu'nun yaratılışı nihayet başlayacak cesur ve bencil olmayan çabaların sayesinde günlerce haftalarca bu eski kitabı okuyup bu çileyi bitirmek için gerekli adımları hatırlamam gerekecek. Thank tokens time spent Hyjal long years ago serve better collecting dust Starfall Village -> teşekkür etmeliyim uzun yıllar önce Hyjal'da geçirdiğim zamanın nişanlarıdır burada benimle Yıldızdüşüşü Köyü'nde toz toplamak yerine sana daha iyi hizmet etsinler.
+    -- Trainee druids Hyjal Third War scarred land nuanced teachings druidic magic craft Horn of Binding -> Üçüncü Savaş toprakları yaralamadan çok önce Hyjal druidleriyle bir stajyerdim druid büyüsünün daha incelikli öğretilerini öğrenme şansım oldu 'Bağlama Boynuzu' adında bir eşya işlemeyi öğrendim. Work craft new horn bind natural energies Winterspring require materials lands Hyjal -> yeni bir boynuz işlemek ve onu buradaki Winterspring'in doğal enerjilerine bağlamak için çalışıyorum ancak hem bu topraklardan hem de Hyjal'dan daha fazla malzemeye ihtiyacım var. Beaks Greathorn Owls native Hyjal Vilemusk Horn Satyr dwell titled 'Bracing of Nature' Nordanaar Moontouched Amulet local Owlbeasts Winterspring -> Hyjal'a özgü Büyükboynuz Baykuşlarının gagaları orada barınan Satırlardan bir Tekinsizmiski Boynuzu Nordanaar'da bulunabilecek 'Doğanın Canlandırılışı' başlıklı bir kitap ve son olarak buradaki yerel Baykuş canavarlardan bir Ay dokunuşlu Muska Winterspring. Greathorn Beaks -> Büyükboynuz Gagaları, Vilemusk Horn -> Tekinsizmiski Boynuzu, 'Bracing of Nature' -> 'Doğanın Canlandırılışı', Moontouched Amulet -> Aydokunuşlu Muska. Everwyl Moonseeker -> Everwyl Ayearayan kalmıştır, Starfall Village -> Yıldızdüşüşü Köyü (Starfall Village), Winterspring = Kışbaharı (Winterspring). Materials dangerous obtain implore caution searching -> malzemeleri elde etmek tehlikeli olacaktır ararken dikkatli olmanı rica ediyorum. Creation finally begin courageous selfless efforts YOUR_NAME many days weeks read old book remember steps finish ordeal -> Bağlama Boynuzu'nun yaratılışı nihayet başlayacak cesur ve bencil olmayan çabaların sayesinde günlerce haftalarca bu eski kitabı okuyup bu çileyi bitirmek için gerekli adımları hatırlamam gerekecek. Thank tokens time spent Hyjal long years ago serve better collecting dust Starfall Village -> teşekkür etmeliyim uzun yıllar önce Hyjal'da geçirdiğim zamanın nişanlarıdır burada benimle Yıldızdüşüşü Köyü'nde toz toplamak yerine sana daha iyi hizmet etsinler.
     ["40876"] = {
     ["Title"]="Bağlama Boynuzu",
-    ["Description"]="Üçüncü Savaş (Third War) toprakları yaralamadan çok önce Hyjal (Hyjal) druidleriyle bir stajyerdim (trainee). Druid büyüsünün (druidic magic) daha incelikli öğretilerinin çoğunu öğrenme şansım oldu ve orada 'Bağlama Boynuzu' (The Horn of Binding) adında bir Eşya işlemeyi öğrendim. Yeni bir boynuz işlemek ve onu buradaki Kışpınarı'nın (Winterspring) doğal enerjilerine bağlamak (bind) için çalışıyorum, ancak hem bu topraklardan hem de Hyjal'dan daha fazla malzemeye (materials) ihtiyacım var. Şunlara ihtiyacım var: Hyjal'a özgü Büyükboynuz Baykuşlarının gagaları (beaks of Greathorn Owls), yine orada barınan Satırlardan (Satyr) bir Tekinsizmiski Boynuzu (Vilemusk Horn), Nordanaar'da bulunabilecek 'Doğanın Canlandırılışı' ('Bracing of Nature') başlıklı bir kitap ve son olarak buradaki yerel Baykuş canavarlardan (Owlbeasts) bir Aydokunuşlu Muska (Moontouched Amulet).",
+    ["Description"]="Üçüncü Savaş (Third War) toprakları yaralamadan çok önce Hyjal (Hyjal) druidleriyle bir stajyerdim (trainee). Druid büyüsünün (druidic magic) daha incelikli öğretilerinin çoğunu öğrenme şansım oldu ve orada 'Bağlama Boynuzu' (The Horn of Binding) adında bir Eşya işlemeyi öğrendim. Yeni bir boynuz işlemek ve onu buradaki Kışbaharı'nın (Winterspring) doğal enerjilerine bağlamak (bind) için çalışıyorum, ancak hem bu topraklardan hem de Hyjal'dan daha fazla malzemeye (materials) ihtiyacım var. Şunlara ihtiyacım var: Hyjal'a özgü Büyükboynuz Baykuşlarının gagaları (beaks of Greathorn Owls), yine orada barınan Satırlardan (Satyr) bir Tekinsizmiski Boynuzu (Vilemusk Horn), Nordanaar'da bulunabilecek 'Doğanın Canlandırılışı' ('Bracing of Nature') başlıklı bir kitap ve son olarak buradaki yerel Baykuş canavarlardan (Owlbeasts) bir Aydokunuşlu Muska (Moontouched Amulet).",
     ["Objectives"]="Yıldızdüşüşü Köyü'ndeki (Starfall Village) Everwyl Moonseeker'a 6 Büyükboynuz Gagası (Greathorn Beaks), 1 Tekinsizmiski Boynuzu (Vilemusk Horn), 'Doğanın Canlandırılışı' ('Bracing of Nature') kitabını ve bir Aydokunuşlu Muska (Moontouched Amulet) ulaştır.",
     ["Progress"]="Bu malzemeleri (materials) elde etmek tehlikeli olacaktır, bu yüzden onları ararken dikkatli olmanı rica ediyorum (implore you to use caution).",
     ["Completion"]="Bağlama Boynuzu'nun (Horn of Binding) yaratılışı nihayet başlayacak, bunda  senin cesur ve bencil olmayan çabalarının (courageous and selfless efforts) payı hiç de az değil, YOUR_NAME. Bu eski kitabı (old book) baştan sona okumam ve bu çileyi (ordeal) bitirmek için gerekli adımları hatırlamam şüphesiz günlerimi, hatta haftalarımı alacaktır. Benim için yaptıklarından ötürü sana teşekkür etmeliyim. Lütfen bu eşyaları al. Bunlar uzun yıllar önce Hyjal'da geçirdiğim zamanın nişanlarıdır (tokens)... Burada benimle Yıldızdüşüşü Köyü'nde (Starfall Village) toz toplamak yerine sana daha iyi hizmet etsinler.",
@@ -44870,12 +44870,12 @@ QuestTranslator_QuestData = {
 -- The Runestone Scepter
     -- Runestone Scepter -> Rünbatağı Asası (Runestone + Scepter). creaking ancient grumble Buthok proven successful re-energizing Runestone of Cenarius last problem offers trouble -> <çatırdayan kadim bir homurtu çıkarır.> Görünüşe göre Buthok, Cenarius'un Rün Taşı'na yeniden enerji verme konusunda başarılı  olmuş. Yine de, hala sorun yaratan son bir problem var.
     -- druid Enthelar Valebranch overseeing Runestones years scepter activates magic possession succumbed whim corruption -> bilirsin, birkaç yıl önce Enthelar Valebranch adında bir druidi Rün Taşlarını denetlemekle görevlendirmiştim. Büyüyü aktif hale getiren Rünbatağı Asası (Runestone Scepter), yozlaşmanın  fantezisine boyun eğdiğinde onun mülkiyetindeydi.
-    -- Enthelar Valebranch -> Enthelar Vadidal kalmıştır (Vale + branch: vadi dalı), Winterspring = Kışpınarı (Winter + spring), mind addled lost access Runestones Hyjal -> son duyduğuma göre Enthelar Valebranch'in Kışpınarı'nda (Winterspring) zihni bulanmış ve kaybolmuş bir şekilde  dolaştığı görülmüş. Rünbatağı Asası'nı geri al, ben de sana Hyjal'ın Rün Taşlarına erişim  bahşedeyim.
+    -- Enthelar Valebranch -> Enthelar Vadidal kalmıştır (Vale + branch: vadi dalı), Winterspring = Kışbaharı (Winter + spring), mind addled lost access Runestones Hyjal -> son duyduğuma göre Enthelar Valebranch'in Kışbaharı'nda (Winterspring) zihni bulanmış ve kaybolmuş bir şekilde  dolaştığı görülmüş. Rünbatağı Asası'nı geri al, ben de sana Hyjal'ın Rün Taşlarına erişim  bahşedeyim.
     -- Glanthas the Ancient -> Kadim Glanthas kalmıştır, Nordanaar = Nordanaar. creaking exhale approval eases mind peace suffered hardships relieved transport suitable commendation -> <Kadim Glanthas onaylayan çatırdayan bir nefes verir.> Bunu bulmakta iyi iş çıkardın. Enthelar'a huzur getirdiğini bilmek zihnimi  rahatlatıyor. Büyük zorluklar çekti ve eylemlerinden ötürü şüphesiz rahatlamıştır. Söz verdiğim gibi, artık aralarında ulaşım sağlayan Hyjal'ın Rün Taşlarına erişebilirsin. Bu gücü bilgece kullan, YOUR_CLASS. Rün Taşlarını restore etmedeki büyük çabaların için  uygun bir takdir belgesi (commendation) hazırladım.
     ["40990"] = {
     ["Title"]="Rünbatağı Asası",
-    ["Description"]="<Çatırdayan kadim bir homurtu (grumble) çıkarır.> Görünüşe göre Buthok, Cenarius'un Rün Taşı'na (Runestone of Cenarius) yeniden enerji verme konusunda başarılı  olmuş. Yine de, hala sorun yaratan son bir problem var. Bilirsin, birkaç yıl önce Enthelar Valebranch adında bir druidi Rün Taşlarını (Runestones) denetlemekle görevlendirmiştim. Büyüyü aktif hale getiren Rünbatağı Asası (Runestone Scepter), yozlaşmanın (corruption) fantezisine boyun eğdiğinde onun mülkiyetindeydi. Son duyduğuma göre Enthelar Valebranch'in Kışpınarı'nda (Winterspring), zihni bulanmış ve kaybolmuş bir şekilde  dolaştığı görülmüş. Rünbatağı Asası'nı (Runestone Scepter) geri al, ben de sana Hyjal'ın Rün Taşlarına erişim  bahşedeyim.",
-    ["Objectives"]="Son olarak Kışpınarı'nda (Winterspring) zihni bulanmış şekilde dolaşırken görülen Enthelar Valebranch'ten Rünbatağı Asası'nı (Runestone Scepter) geri al ve Hyjal'daki Nordanaar'da bulunan Glanthas the Ancient'a getir.",
+    ["Description"]="<Çatırdayan kadim bir homurtu (grumble) çıkarır.> Görünüşe göre Buthok, Cenarius'un Rün Taşı'na (Runestone of Cenarius) yeniden enerji verme konusunda başarılı  olmuş. Yine de, hala sorun yaratan son bir problem var. Bilirsin, birkaç yıl önce Enthelar Valebranch adında bir druidi Rün Taşlarını (Runestones) denetlemekle görevlendirmiştim. Büyüyü aktif hale getiren Rünbatağı Asası (Runestone Scepter), yozlaşmanın (corruption) fantezisine boyun eğdiğinde onun mülkiyetindeydi. Son duyduğuma göre Enthelar Valebranch'in Kışbaharı'nda (Winterspring), zihni bulanmış ve kaybolmuş bir şekilde  dolaştığı görülmüş. Rünbatağı Asası'nı (Runestone Scepter) geri al, ben de sana Hyjal'ın Rün Taşlarına erişim  bahşedeyim.",
+    ["Objectives"]="Son olarak Kışbaharı'nda (Winterspring) zihni bulanmış şekilde dolaşırken görülen Enthelar Valebranch'ten Rünbatağı Asası'nı (Runestone Scepter) geri al ve Hyjal'daki Nordanaar'da bulunan Glanthas the Ancient'a getir.",
     ["Progress"]="Evet ?",
     ["Completion"]="<Kadim Glanthas onaylayan çatırdayan bir nefes (creaking exhale of approval) verir.> Bunu bulmakta iyi iş çıkardın. Enthelar'a huzur getirdiğini bilmek zihnimi  rahatlatıyor. Büyük zorluklar (hardships) çekti ve eylemlerinden ötürü şüphesiz rahatlamıştır. Söz verdiğim gibi, artık aralarında ulaşım sağlayan Hyjal'ın Rün Taşlarına erişebilirsin. Bu gücü bilgece kullan, YOUR_CLASS. Rün Taşlarını restore etmedeki büyük çabaların için  uygun bir takdir belgesi (commendation) hazırladım.",
     ["minlevel"]="0",
@@ -45564,11 +45564,11 @@ QuestTranslator_QuestData = {
 -- The Terrible Krampus
     -- Terrible Krampus -> Korkunç Krampus (Terrible + Krampus).
     -- Tinsel -> Tinsel kalmıştır, revelers -> şenlikçiler, grell -> grell yaratıkları kalmıştır. Vale = Vadi (Winter Veil Vale: Kış Festivali Vadisi anlamında).
-    -- Greatfather Winter = Kış Dedesi (Great + father + Winter), Winterspring = Kışpınarı (Winter + spring).
+    -- Greatfather Winter = Kış Dedesi (Great + father + Winter), Winterspring = Kışbaharı (Winter + spring).
     -- Sack of Stolen Gifts -> Çalınan Hediyeler Çuvalı, Mr. Mistle Toe -> Ökseotu Bey kalmıştır (Mistletoe: Ökseotu), Winter Veil Vale -> Kış Festivali Vadisi.
     ["40779"] = {
     ["Title"]="Korkunç Krampus",
-    ["Description"]="Tinsel bir süre önce eldivenlerini  kaybetmişti ve bir grup cana yakın şenlikçi (revelers) onları geri almasına  yardım etti! Ancak eldivenlerinin geri dönmesiyle şüphelerim  doğrulandı. Bu dünyada grell'leri buraya, Vadi'ye (Vale)  çağırabilecek tek bir yaratık var ve görünüşe göre Azeroth'a (Azeroth) musallat olma zamanı bir kez daha  geldi. Kış Dedesi'nin (Greatfather Winter) can düşmanı, Krampus! Her kış Azeroth'taki tüm hediyeleri  çalmak için ortaya çıkan öfkeli bir ruh! Şansımıza, Vadi'de kendini tam  gösteremiyor ve Kış Dedesi bana onun yerini bulmam için aşağı yukarı  doğru olan araçları verdi. Hediyeleri bize geri getirmelisin, kutlamalar  son bulmamalı! Ama unutma, Krampus bir ruhtur, gerçekten  ölmeyecektir ve gelecek yıl geri döneceğinden  emin olabilirsin. Kışpınarı'nda (Winterspring) bir yerlerde, büyük ihtimalle karanlık ve onun iblis soyunun (demonic kin)  kaynadığı bir yerlerde bulunabilir.",
+    ["Description"]="Tinsel bir süre önce eldivenlerini  kaybetmişti ve bir grup cana yakın şenlikçi (revelers) onları geri almasına  yardım etti! Ancak eldivenlerinin geri dönmesiyle şüphelerim  doğrulandı. Bu dünyada grell'leri buraya, Vadi'ye (Vale)  çağırabilecek tek bir yaratık var ve görünüşe göre Azeroth'a (Azeroth) musallat olma zamanı bir kez daha  geldi. Kış Dedesi'nin (Greatfather Winter) can düşmanı, Krampus! Her kış Azeroth'taki tüm hediyeleri  çalmak için ortaya çıkan öfkeli bir ruh! Şansımıza, Vadi'de kendini tam  gösteremiyor ve Kış Dedesi bana onun yerini bulmam için aşağı yukarı  doğru olan araçları verdi. Hediyeleri bize geri getirmelisin, kutlamalar  son bulmamalı! Ama unutma, Krampus bir ruhtur, gerçekten  ölmeyecektir ve gelecek yıl geri döneceğinden  emin olabilirsin. Kışbaharı'nda (Winterspring) bir yerlerde, büyük ihtimalle karanlık ve onun iblis soyunun (demonic kin)  kaynadığı bir yerlerde bulunabilir.",
     ["Objectives"]="Kötü Krampus'u katlet ve Kış Festivali Vadisi'ndeki (Winter Veil Vale) Ökseotu Bey (Mr. Mistle Toe) için Çalınan Hediyeler Çuvalı'nı (Sack of Stolen Gifts) geri al.",
     ["Progress"]="Onlara henüz  sahip misin?",
     ["Completion"]="Teşekkür ederim, teşekkür ederim! Artık kutlamalar planlandığı gibi  gidebilir. Al bakalım, benden sana özel bir hediye  olarak buradan bir şey seçebilirsin!",
@@ -47057,16 +47057,16 @@ QuestTranslator_QuestData = {
     }, -- end Flickering Flames in Kalimdor
     -- Wild Fires in Kalimdor
     -- Wild Fires in Kalimdor -> Kalimdor'daki Yaban Ateşleri (Wild + Fires + Kalimdor).
-    -- Azshara = Azshara, Silithus = Silithus, Un'Goro Crater = Un'Goro Krateri, Winterspring = Kışpınarı kalmıştır (Winter + spring).
+    -- Azshara = Azshara, Silithus = Silithus, Un'Goro Crater = Un'Goro Krateri, Winterspring = Kışbaharı kalmıştır (Winter + spring).
     -- Festival Flamekeeper -> Festival Alevmuhafızı (Festival + Flame + keeper).
-    -- Flame of Azshara, Silithus, Un'Goro, Winterspring -> Azshara Alevi, Silithus Alevi, Un'Goro Alevi, Kışpınarı Alevi.
+    -- Flame of Azshara, Silithus, Un'Goro, Winterspring -> Azshara Alevi, Silithus Alevi, Un'Goro Alevi, Kışbaharı Alevi.
     -- Midsummer Fire Festival = Yazortası Ateş Festivali (Midsummer + Fire + Festival).
     -- Ruins of Eldarath = Eldarath Harabeleri (Ruins + of + Eldarath), Valor's Rest = Yiğitlik İstirahatgahı kalmıştır (Valor + 's + Rest).
     -- Cinder Bracers -> Köz Bileklikleri, Burning Blossom -> Yanan Çiçek.
     ["9322"] = { -- Quest ID varsayılan olarak yerleştirilmiştir.
     ["Title"]="Kalimdor'daki Yaban Ateşleri",
-    ["Description"]="Yazortası Ateş Festivali (Midsummer Fire Festival) Azeroth'un (Azeroth) her yerinde kutlanır ve Kalimdor'un (Kalimdor) o muhtelif toprakları da buna istisna  değildir. Seyahat etmek için  zinde görünüyorsun — belki de bir yolculuğun  vaktidir.\n\nYurt dışındaki o kavurucu mavi ateşleri  görmediğin sürece Yazortası'nın (Midsummer) değeri hakkıyla  bilinemez. Kutlamacılar ateşleri o serin, batıdaki Kışpınarı'nda (Winterspring), Azshara'daki Eldarath Harabeleri'nin (Ruins of Eldarath) kuzeydoğusunda, Silithus'un çorak topraklarındaki Yiğitlik İstirahatgahı (Valor's Rest) yakınlarında ve o gür Un'Goro girişinin  yanında yaktılar. Yolculuğun tamamlandığında  geri dön.",
-    ["Objectives"]="Azshara, Silithus, Un'Goro Krateri (Un'Goro Crater) ve Kışpınarı (Winterspring) içinde bulunan Yazortası kamplarını  ziyaret et, ardından Festival Alevmuhafızı'na (Festival Flamekeeper) geri dön.",
+    ["Description"]="Yazortası Ateş Festivali (Midsummer Fire Festival) Azeroth'un (Azeroth) her yerinde kutlanır ve Kalimdor'un (Kalimdor) o muhtelif toprakları da buna istisna  değildir. Seyahat etmek için  zinde görünüyorsun — belki de bir yolculuğun  vaktidir.\n\nYurt dışındaki o kavurucu mavi ateşleri  görmediğin sürece Yazortası'nın (Midsummer) değeri hakkıyla  bilinemez. Kutlamacılar ateşleri o serin, batıdaki Kışbaharı'nda (Winterspring), Azshara'daki Eldarath Harabeleri'nin (Ruins of Eldarath) kuzeydoğusunda, Silithus'un çorak topraklarındaki Yiğitlik İstirahatgahı (Valor's Rest) yakınlarında ve o gür Un'Goro girişinin  yanında yaktılar. Yolculuğun tamamlandığında  geri dön.",
+    ["Objectives"]="Azshara, Silithus, Un'Goro Krateri (Un'Goro Crater) ve Kışbaharı (Winterspring) içinde bulunan Yazortası kamplarını  ziyaret et, ardından Festival Alevmuhafızı'na (Festival Flamekeeper) geri dön.",
     ["Progress"]="Kalimdor'un alevleri  parlak bir şekilde yanıyor mu?",
     ["Completion"]="Ruhun, Kalimdor ateşlerinin sıcaklığıyla  parıldıyor, dostum. Bu ısı  canlandırıcı değil mi? Güç senden  çekildiğinde, belki bunlar o hissi yeniden  canlandırmaya yardımcı olur.",
     ["minlevel"]="0",
@@ -50325,7 +50325,7 @@ QuestTranslator_QuestData = {
     -- The Only Prescription
     ["8620"] = {
     ["Title"]="Tek Reçete",
-    ["Description"]="Bilmeliydim. Ezeli düşmanım Doktor Weavil eski numaralarını sergiliyor! Ve şimdi, Kışpınarı'ndaki başarısızlığın yüzünden Doktor Weavil kitabımı yok etti! Şimdi dünyayı nasıl kurtaracaksın kahraman?\n\nAldığım notta 'Mankafalar için Ejderce: Cilt II'nin bilinen tek kopyasının 8 parçaya bölündüğü ve rüzgara savrulduğu yazıyordu! Eğer o kayıp bölümleri bir şekilde bulmayı başarırsan, onları tekrar bir araya getirmek için bu büyülü ciltlemeyi kullan ve bana geri dön.",
+    ["Description"]="Bilmeliydim. Ezeli düşmanım Doktor Weavil eski numaralarını sergiliyor! Ve şimdi, Kışbaharı'ndaki başarısızlığın yüzünden Doktor Weavil kitabımı yok etti! Şimdi dünyayı nasıl kurtaracaksın kahraman?\n\nAldığım notta 'Mankafalar için Ejderce: Cilt II'nin bilinen tek kopyasının 8 parçaya bölündüğü ve rüzgara savrulduğu yazıyordu! Eğer o kayıp bölümleri bir şekilde bulmayı başarırsan, onları tekrar bir araya getirmek için bu büyülü ciltlemeyi kullan ve bana geri dön.",
     ["Objectives"]="Mankafalar için Ejderce'nin kayıp 8 bölümünü kurtar, onları Büyülü Kitap Cildi ile birleştir ve tamamlanmış Mankafalar için Ejderce: Cilt II kitabını Tanaris'teki Narain Soothfancy'ye götür.",
     ["Progress"]="Ben de pantolonumu tıpkı senin gibi giyiyorum - her seferinde bir bacak. Ancak pantolonum üzerimdeyken arkanit şamandıralar yapıyorum. Arkanit şamandıralar, bebeğim!",
     ["Completion"]="Harika! Bu zahmete girdiğine inanamıyorum! Sen bir tür makine misin? Ben olsaydım muhtemelen dünyanın çöküşüne izin verirdim.\n\nSarığıma dokunup seni selamlıyorum efendim. Ve hiçbir iyi davranış ödülsüz kalmamalı.",
@@ -50490,8 +50490,8 @@ QuestTranslator_QuestData = {
     -- Hunting for Ectoplasm
     ["8924"] = {
     ["Title"]="Ektoplazma Avı",
-    ["Description"]="Mühendislik harikası bir parça, kendim söyledim diye demiyorum! İhtiyacımız olan bedensiz hortlakları bulmak için biraz seyahat etmeniz gerekecek, korkarım.\n\nGörüyorsunuz ya, farklı iklimler ölülerin ruhani dokusuna farklı kıvamlar verir. Silithus'un işkence görmüş gece elf ruhları, Kışpınarı'nın soylu ruhları ve Doğu Doğu Veba Toprakları'nın hayaletleri ve banşileri bize ihtiyacımız olan farklı ektoplazma türlerini vermelidir. Onları toplamadan önce damıtıcıyı yakına yerleştirdiğinizden emin olun!",
-    ["Objectives"]="Bedensiz hortlakların yakınında Ektoplazmik Damıtıcı'yı kullanarak Silithus'ta 12 Kavrulmuş Ektoplazma, Kışpınarı'nda 12 Donmuş Ektoplazma ve Doğu Veba Toprakları'nda 12 Kararlı Ektoplazma topla. Bunları Ektoplazmik Damıtıcı ile birlikte Gadgetzan'daki Mux Manascrambler'a geri getir.",
+    ["Description"]="Mühendislik harikası bir parça, kendim söyledim diye demiyorum! İhtiyacımız olan bedensiz hortlakları bulmak için biraz seyahat etmeniz gerekecek, korkarım.\n\nGörüyorsunuz ya, farklı iklimler ölülerin ruhani dokusuna farklı kıvamlar verir. Silithus'un işkence görmüş gece elf ruhları, Kışbaharı'nın soylu ruhları ve Doğu Doğu Veba Toprakları'nın hayaletleri ve banşileri bize ihtiyacımız olan farklı ektoplazma türlerini vermelidir. Onları toplamadan önce damıtıcıyı yakına yerleştirdiğinizden emin olun!",
+    ["Objectives"]="Bedensiz hortlakların yakınında Ektoplazmik Damıtıcı'yı kullanarak Silithus'ta 12 Kavrulmuş Ektoplazma, Kışbaharı'nda 12 Donmuş Ektoplazma ve Doğu Veba Toprakları'nda 12 Kararlı Ektoplazma topla. Bunları Ektoplazmik Damıtıcı ile birlikte Gadgetzan'daki Mux Manascrambler'a geri getir.",
     ["Progress"]="Ektoplazmayı topladın mı, YOUR_RACE?",
     ["Completion"]="Evet, bunlar harika iş görecek!\n\nBu maddelerin içinde barındırdığı ötealem enerjilerinden yararlanarak, ruhları henüz bu dünyayı terk etmemiş olanlara ulaşabileceğiz!",
     ["minlevel"]="0",
@@ -50637,8 +50637,8 @@ QuestTranslator_QuestData = {
     -- Decoy!
     ["8606"] = {
     ["Title"]="Tuzak!",
-    ["Description"]="Buldum! İşte şöyle yapacağız. Bir çuvalı taşlarla dolduracağım ve teslimatı sen yapacaksın. Bırakmam gerektiğini söylediğini biliyorum ve yapacağım da - sayılır.\n\n<Narain seni tepeden tırnağa süzer.>\n\nEvet, gayet iyi iş görürsün. Bu sarığı, cübbeyi ve taş çuvalını alıp Kışpınarı'ndaki teslim noktasına git.\n\nİhtiyacın olan her şeyi bu özel kite dahil ettim. Malları almaya geldiklerinde işlerini bitir! Narain ile uğraşmanın ne demek olduğunu anlasınlar!",
-    ["Objectives"]="Tanaris'teki Narain Soothfancy, Kışpınarı'na seyahat etmeni ve Altın Çuvalı'nı kitap hırsızları tarafından belgelenen teslim noktasına bırakmanı istiyor.",
+    ["Description"]="Buldum! İşte şöyle yapacağız. Bir çuvalı taşlarla dolduracağım ve teslimatı sen yapacaksın. Bırakmam gerektiğini söylediğini biliyorum ve yapacağım da - sayılır.\n\n<Narain seni tepeden tırnağa süzer.>\n\nEvet, gayet iyi iş görürsün. Bu sarığı, cübbeyi ve taş çuvalını alıp Kışbaharı'ndaki teslim noktasına git.\n\nİhtiyacın olan her şeyi bu özel kite dahil ettim. Malları almaya geldiklerinde işlerini bitir! Narain ile uğraşmanın ne demek olduğunu anlasınlar!",
+    ["Objectives"]="Tanaris'teki Narain Soothfancy, Kışbaharı'na seyahat etmeni ve Altın Çuvalı'nı kitap hırsızları tarafından belgelenen teslim noktasına bırakmanı istiyor.",
     ["Progress"]="",
     ["Completion"]="Sanırım bu kitap hırsızlarını hafife almış olabiliriz.",
     ["minlevel"]="0",
@@ -51128,8 +51128,8 @@ QuestTranslator_QuestData = {
     -- A Shifty Merchant
     ["8928"] = {
     ["Title"]="Kurnaz Bir Tüccar",
-    ["Description"]="Çekirdek cihazımıza güç sağlamak için bize yeterli enerjiyi sağlayacak; şimdi tek yapmamız gereken bu enerjiyi erimeden yönlendirebilecek bir asa inşa etmek.\n\nKışpınarı'nda her türlü egzotik mal satan bir iblisle tanışmıştım. Elinde mükemmel iş görecek bir elemental asa vardı. Onu satın almadığım için şu anda kafamı duvarlara vuruyorum.\n\nKaranlıkfısıltı Kanyonu'nun girişindeki bir mağaranın içinde yaşıyor. Oraya gizlice girip onu bulmaya çalış.\n\nSenden sadece kırk altın talep ettiğinden emin ol; bana söylediği fiyat buydu!",
-    ["Objectives"]="Güney Kışpınarı'ndaki Karanlıkfısıltı Kanyonu'nun girişindeki bir mağarada bir iblis ara, bir İblis Elemental Asası satın al ve Gadgetzan'daki Mux Manascrambler'a dön.",
+    ["Description"]="Çekirdek cihazımıza güç sağlamak için bize yeterli enerjiyi sağlayacak; şimdi tek yapmamız gereken bu enerjiyi erimeden yönlendirebilecek bir asa inşa etmek.\n\nKışbaharı'nda her türlü egzotik mal satan bir iblisle tanışmıştım. Elinde mükemmel iş görecek bir elemental asa vardı. Onu satın almadığım için şu anda kafamı duvarlara vuruyorum.\n\nKaranlıkfısıltı Kanyonu'nun girişindeki bir mağaranın içinde yaşıyor. Oraya gizlice girip onu bulmaya çalış.\n\nSenden sadece kırk altın talep ettiğinden emin ol; bana söylediği fiyat buydu!",
+    ["Objectives"]="Güney Kışbaharı'ndaki Karanlıkfısıltı Kanyonu'nun girişindeki bir mağarada bir iblis ara, bir İblis Elemental Asası satın al ve Gadgetzan'daki Mux Manascrambler'a dön.",
     ["Progress"]="Karanlıkfısıltı Kanyonu'ndaki iblisi bulmakta şansın yaver gitti mi?",
     ["Completion"]="Başardın! Bu asa mükemmel iş görecek. Şimdi hepsini bir araya getirme zamanı...",
     ["minlevel"]="0",
@@ -52396,11 +52396,11 @@ QuestTranslator_QuestData = {
     -- The New Springs
     -- Donova Snowden -> Donova Snowden (MobNpcData.lua)[cite: 1]
     -- Krakle -> Krakle (MobNpcData.lua)[cite: 1]
-    -- Winterspring -> Kışpınarı (ZoneData.lua)
+    -- Winterspring -> Kışbaharı (ZoneData.lua)
     ["980"] = {
     ["Title"]="Yeni Pınarlar",
-    ["Description"]="Buranın çok kuzeyinde, Kışpınarı denen bir yerdeki diğer kaplıcaları duymuştum. Garip olan şu ki, yakınlarda hiç yanardağ yok. İlginç, biliyorum.\n\nDaha fazlasını öğrenmek istiyorsan Kışpınarı'na gitmeli ve bir arkadaşımla konuşmalısın. Adı Donova Snowden ve şu anda oradaki kaplıcaların yanında kalıyor.\n\nTermometremde bana yardım ettiğin için tekrar teşekkürler! Sonra görüşürüz!",
-    ["Objectives"]="Kışpınarı'na seyahat et ve Donova Snowden ile konuş.",
+    ["Description"]="Buranın çok kuzeyinde, Kışbaharı denen bir yerdeki diğer kaplıcaları duymuştum. Garip olan şu ki, yakınlarda hiç yanardağ yok. İlginç, biliyorum.\n\nDaha fazlasını öğrenmek istiyorsan Kışbaharı'na gitmeli ve bir arkadaşımla konuşmalısın. Adı Donova Snowden ve şu anda oradaki kaplıcaların yanında kalıyor.\n\nTermometremde bana yardım ettiğin için tekrar teşekkürler! Sonra görüşürüz!",
+    ["Objectives"]="Kışbaharı'na seyahat et ve Donova Snowden ile konuş.",
     ["Progress"]="",
     ["Completion"]="Selam, YOUR_NAME. Evet, Krakle'ın sana söylediği şey doğru...",
     ["minlevel"]="51",
@@ -55701,11 +55701,11 @@ QuestTranslator_QuestData = {
     -- It's a Secret to Everybody
     -- Linken -> Linken (MobNpcData.lua)[cite: 1]
     -- Donova Snowden -> Donova Snowden (MobNpcData.lua)[cite: 1]
-    -- Winterspring -> Kışpınarı (ZoneData.lua)
+    -- Winterspring -> Kışbaharı (ZoneData.lua)
     ["3908"] = {
     ["Title"]="Bu Herkes İçin Bir Sır",
-    ["Description"]="Görüyorsun ya, buraya nasıl geldiğim hakkında hiçbir fikrim yok. Kimse gerçekten bilmiyor -- bu herkes için bir sır! Hiçbir şeyi hatırlayamıyor gibiyim...\n\nBana getirdiğin bu eşyalar ama... Bir şey hatırlıyorum.\n\nKılıcım. Onu bir şekilde güçlendirmem gerekiyor ama neden olduğundan gerçekten emin değilim. Sana daha fazlasını anlatamadığım için üzgünüm ama hatırlamıyorum işte!\n\nHer neyse, onu nereye götürebileceğini biliyorum -- Kışpınarı'ndaki Donova Snowden. Onu kaplıcaların yanında bulacaksın. Kılıca oradaki havuzların yanında su verebilir.",
-    ["Objectives"]="Linken'ın Kılıcı'nı Kışpınarı'ndaki Donova Snowden'a götür.",
+    ["Description"]="Görüyorsun ya, buraya nasıl geldiğim hakkında hiçbir fikrim yok. Kimse gerçekten bilmiyor -- bu herkes için bir sır! Hiçbir şeyi hatırlayamıyor gibiyim...\n\nBana getirdiğin bu eşyalar ama... Bir şey hatırlıyorum.\n\nKılıcım. Onu bir şekilde güçlendirmem gerekiyor ama neden olduğundan gerçekten emin değilim. Sana daha fazlasını anlatamadığım için üzgünüm ama hatırlamıyorum işte!\n\nHer neyse, onu nereye götürebileceğini biliyorum -- Kışbaharı'ndaki Donova Snowden. Onu kaplıcaların yanında bulacaksın. Kılıca oradaki havuzların yanında su verebilir.",
+    ["Objectives"]="Linken'ın Kılıcı'nı Kışbaharı'ndaki Donova Snowden'a götür.",
     ["Progress"]="Vay, vay... Demek Linken sonunda kılıcını bana göndermeye fırsat buldu.",
     ["Completion"]="Şey, elbette bu kılıca su verebilirim. Ben çalışırken, Linken'ın bunu bana getirmesinin neden bu kadar uzun sürdüğünü açıklayabilirsin. Genellikle bir şeyleri unutan biri değildir...",
     ["minlevel"]="47",
@@ -55716,11 +55716,11 @@ QuestTranslator_QuestData = {
     -- Linken -> Linken (MobNpcData.lua)[cite: 1]
     -- Gregan Brewspewer -> Gregan Demlemeatıcı (MobNpcData.lua)[cite: 1]
     -- Feralas -> Feralas (ZoneData.lua)
-    -- Winterspring -> Kışpınarı (ZoneData.lua)
+    -- Winterspring -> Kışbaharı (ZoneData.lua)
     ["3909"] = {
     ["Title"]="Videre İksiri",
     ["Description"]="Şimdi, bu da ne? Linken... UNUTTU MU?\n\nOh, anlıyorum... Hafızasını kaybetti...\n\nŞey, işte kılıcı. Yine de tamamlanmış değil. Onu bitirebilecek kişiyi biliyorum ama... Onunla konuşmak zor olabilir.\n\nDinle, sana yardım edebilecek birini biliyorum. Şu anda açıklamak çok fazla ama bir şekilde bir Videre İksiri elde etmelisin. Bu konuda sana yardım edebilecek bildiğim tek kişi Gregan Demlemeatıcı. İzini sürmek zor ama en son Feralas'ın vahşi doğasında kamp yaptığını biliyordum.",
-    ["Objectives"]="Kuzey Feralas'taki Gregan Demlemeatıcı'yı ara. Ondan Videre İksiri'ni nasıl elde edebileceğini öğren, ardından Kışpınarı'ndaki Donova Snowden'a dön.",
+    ["Objectives"]="Kuzey Feralas'taki Gregan Demlemeatıcı'yı ara. Ondan Videre İksiri'ni nasıl elde edebileceğini öğren, ardından Kışbaharı'ndaki Donova Snowden'a dön.",
     ["Progress"]="Hemen döndün mü?",
     ["Completion"]="Bunun gerçekten iksir olduğundan emin olmak için bir şişeye ihtiyacım olacak... Evet... Aranan şey bu.",
     ["minlevel"]="47",
@@ -61755,23 +61755,15 @@ QuestTranslator_QuestData = {
     ["questlevel"]="52",
     }, -- end The Everlook Report
 
-    -- The Everlook Report
-    -- Gregor -> Gregor (MobNpcData.lua)
-    -- Argent Officer Garush -> Gümüş Subay Garush (MobNpcData.lua)
-    -- Everlook -> Zamansız Bakış (ZoneData.lua)
-    -- Bulwark -> Siper
-    -- Western Plaguelands -> Batı Veba Toprakları (ZoneData.lua)
-    -- Tirisfal Glades -> Tirisfal Korusu (ZoneData.lua)
-    -- Steamwheedle Cartel -> Steamwheedle Karteli
     ["6029"] = {
-    ["Title"]="Zamansız Bakış Raporu",
-    ["Description"]="Küçük ama yine de önemli bir konuda bana yardım edecek sorumlu bir birey arıyorum. Gümüş Şafak'ın çıkarlarının Zamansız Bakış'ın yerel yönetimine bir temsilcisi olarak buradayım. Siper'deki Gümüş Subay Garush'a bir ilerleme raporu ulaştırmam gerekiyor; buraya epey mesafede, Batı Veba Toprakları'nın batı sınırı boyunca, Tirisfal Korusu'nun doğusunda yer alıyor.\n\nKüstahtça görünmeyecekse - bu kendini üstüme tanıtmak ve belki de ondan biraz iş kapmak için mükemmel bir araç olurdu!",
-    ["Objectives"]="Zamansız Bakış Raporu'nu Batı Veba Toprakları'ndaki Siper'de bulunan Gümüş Subay Garush'a teslim et.",
-    ["Progress"]="Selamlar, YOUR_CLASS. Gümüş Şafak adına, Siper'deykensana güvenlik ve barınak sunuyorum. Ayrıca sana uğruna savaşmaya değer bir dava için savaşma şansı da sunabilirim!",
-    ["Completion"]="Bir insan için becerikli, Gregor. Bir süredir Steamwheedle Karteli ile ilgileniyor ve goblin müzakerelerinin 'sanatı' konusunda uzmanlaştı. Goblinlerin birincil sadakatlerinin en büyük para keselerine sahip olanlarda yattığı doğru olsa da, diplomasinin değerini de bilir ve buna saygı duyarlar. En azından bu onlara tekrar eden müşteriler sağlar...\n\nHer halükarda, Gümüş Şafak çaban için seni takdir ediyor. Lütfen teşekkürlerimizle birlikte bunu al.",
-    ["minlevel"]="50",
-    ["questlevel"]="52",
-    }, -- end The Everlook Report
+        ["Title"] = "Everlook Raporu",
+        ["Description"] = "Küçük ama yine de önemli bir konuda bana yardım edecek sorumlu birini arıyorum. Gümüş Şafak'ın Everlook yerel yönetimi nezdindeki temsilcisi olarak buradayım. Sığınak'taki Gümüş Subayı Garush'a bir ilerleme raporu ulaştırmam gerekiyor; buraya biraz uzak, Batı Veba Toprakları'nın batı ucunda, Tirisfal Koruları'nın doğusunda yer alıyor.\n\nCüretimi bağışla ama bu, kendini üstüme tanıtmak ve belki de ondan bir iş kapmak için mükemmel bir fırsat olurdu!",
+        ["Objectives"] = "Everlook Raporu'nu Batı Veba Toprakları'ndaki Sığınak'ta bulunan Gümüş Subayı Garush'a ulaştır.",
+        ["Progress"] = "Selamlar, YOUR_CLASS. Gümüş Şafak adına, Sığınak'ta bulunduğun süre boyunca sana güvenlik ve sığınak sunuyorum. Ayrıca sana uğruna savaşmaya değer bir dava uğruna savaşma şansı da sunabilirim!",
+        ["Completion"] = "Gregor bir insan için beceriklidir. Bir süredir Steamwheedle Karteli ile ilgileniyor ve goblin müzakerelerinin \"sanatı\" konusunda uzmanlaştı. Goblinlerin asıl sadakatlerinin en büyük para keselerine sahip olanlarda yattığı doğru olsa da, diplomasinin değerini de bilir ve buna saygı duyarlar. Hatta bu onlara tekrar gelen müşteriler kazandırır...\n\nHer halükarda, Gümüş Şafak çabalarından dolayı seni takdir ediyor. Lütfen teşekkürlerimizle birlikte bunu al.",
+        ["minlevel"] = "0",
+        ["questlevel"] = "0"
+    },
 
     -- Duke Nicholas Zverenhoff
     -- Umbranse -> Umbranse (MobNpcData.lua)
@@ -67975,17 +67967,17 @@ QuestTranslator_QuestData = {
 
     -- Speak to Salfa
     -- Winterfall -> Kışdüşüşü
-    -- Winterspring -> Kışpınarı (ZoneData.lua)
+    -- Winterspring -> Kışbaharı (ZoneData.lua)
     -- Salfa -> Salfa (MobNpcData.lua)
     -- Timbermaw Hold -> Odunağız Hisarı (ZoneData.lua)
     -- Timbermaw -> Odunağız
     -- Felwood -> Felwood (ZoneData.lua)
     ["8465"] = {
     ["Title"]="Salfa ile Konuş",
-    ["Description"]="Yozlaşma tehdidi sadece güneydeki Ölüodun furbolglarından değil, aynı zamanda doğudan ve Kışpınarı'nın Kışdüşüşü furbolglarından da geliyor. Bize daha fazla yardım etmek istiyorsan, Hisar'ın diğer tarafındaki Kışpınarı girişinde bulunan Salfa ile konuş. Ulaşmak için soldaki patikayı takip et.\n\nUyarılmalısın - içerideki türüm seni düşman veya nefret edilen biri olarak görürse saldıracaktır. Çatışmadan kaçınarak olabildiğince hızlı seyahat et. Bir Odunağız'yi öldürmek -meşru müdafaada bile olsa- seni daha da uzaklaştıracaktır.",
-    ["Objectives"]="Odunağız Hisarı'ndan geçerek Kışpınarı'na çık. Odunağız Hisarı girişinin dışında nöbet tutan Salfa ile konuş.",
+    ["Description"]="Yozlaşma tehdidi sadece güneydeki Ölüodun furbolglarından değil, aynı zamanda doğudan ve Kışbaharı'nın Kışdüşüşü furbolglarından da geliyor. Bize daha fazla yardım etmek istiyorsan, Hisar'ın diğer tarafındaki Kışbaharı girişinde bulunan Salfa ile konuş. Ulaşmak için soldaki patikayı takip et.\n\nUyarılmalısın - içerideki türüm seni düşman veya nefret edilen biri olarak görürse saldıracaktır. Çatışmadan kaçınarak olabildiğince hızlı seyahat et. Bir Odunağız'yi öldürmek -meşru müdafaada bile olsa- seni daha da uzaklaştıracaktır.",
+    ["Objectives"]="Odunağız Hisarı'ndan geçerek Kışbaharı'na çık. Odunağız Hisarı girişinin dışında nöbet tutan Salfa ile konuş.",
     ["Progress"]="",
-    ["Completion"]="Selamlar - Buradaki Kışpınarı'ndaki Odunağız'nin sözcüsü ve kabilenin savunucusu olarak nöbet tutuyorum.\n\nBu dondurucu topraktaki Kışdüşüşü kardeşlerimiz, Felwood furbolglarıyla aynı yozlaştırıcı etki altına girdiler. Odunağız furbolglarına yardım teklif etmek için geldiysen, böyle bir teklifi kabul etmeye hazırız.",
+    ["Completion"]="Selamlar - Buradaki Kışbaharı'ndaki Odunağızın sözcüsü ve kabilenin savunucusu olarak nöbet tutuyorum.\n\nBu dondurucu topraktaki Kışdüşüşü kardeşlerimiz, Felwood furbolglarıyla aynı yozlaştırıcı etki altına girdiler. Odunağız furbolglarına yardım teklif etmek için geldiysen, böyle bir teklifi kabul etmeye hazırız.",
     ["minlevel"]="45",
     ["questlevel"]="55",
     }, -- end Speak to Salfa
@@ -73112,7 +73104,7 @@ QuestTranslator_QuestData = {
 ["8485"] = {
     ["Title"] = "Barışın Aracılığı",
     ["Description"] = "Yaptıkların basit bir kahramanın masalının çok ötesine geçiyor, YOUR_NAME. Eğer kendi halkının bir temsilcisiysen, o zaman senin halkın barış yapmak için birlikte çalışacağımız bir halktır.NEW_LINENEW_LÜTFEN - bu adayı Durotar topraklarında ikamet eden ork savaş şefine götür; sanırım bu şehre Orgrimmar diyorsunuz. Geçmişte, kendi Hordesi adına bizimle temas kurmaya çalışmıştı. Şimdi Hordenin barışı sağlama çabalarındaki kilit isim olarak seni kabul etmek son derece uygundur.",
-    ["Objectives"] = "Tahtasaqalı Barış Adayışını Orgrimmar'daki Thrall'a götür.",
+    ["Objectives"] = "Odunağızı Barış Adayışını Orgrimmar'daki Thrall'a götür.",
     ["Progress"] = "Savaş şefinin selamları senin üzerine olsun, YOUR_CLASS. Yaptıkların bu sıkıntılı zamanlarda Hordeyi daha da güçlendiriyor. Şimdi, benimle ne işin var?",
     ["Completion"] = "Gerçekten de bu çok hayırlı bir olaylar silsilesi. Bu yaratıklarla kalıcı bir barış yapılabilseydi, bu kesinlikle Kalimdor'u dış tehditlerden korumada bize bir avantaj sağlardı. Hordenin diğer liderlerine bunu derhal bildireceğim ve daha fazla diplomat sevk edilecek!NEW_LINENEW_LINESana gelince, YOUR_NAME... hem diplomaside hem de eylemde cesaret gösterdin. Hordenin tamamı gibi ben de sana teşekkür ederim.",
     ["minlevel"] = "45",
@@ -73651,9 +73643,9 @@ QuestTranslator_QuestData = {
 
 ["6241"] = {
     ["Title"] = "Kışdüşüşü Faaliyeti",
-    ["Description"] = "Tahtasaqallılar kendi başlarına takılma eğilimindedir, YOUR_NAME. Güvenilirliğini kanıtlamış olanlara güvenli geçiş izni versek de, mümkünse diğer furbolg kabilelerinden kaçınmaya çalışırız.NEW_LINENEW_LINESon zamanlarda Kışdüşüşü kabilesinin bize karşı giderek daha düşmanca bir tavır sergilediğini fark ettim. Anlamadıkları her şeye karşı kendi korku ve nefretleriyle tamamen sürüklenmiş, bir öfke durumunda gibiler.NEW_LINENEW_LINESayılarını azaltabilirsen bu bize büyük ölçüde yardımcı olur, YOUR_NAME.",
+    ["Description"] = "Odunağızlılar kendi başlarına takılma eğilimindedir, YOUR_NAME. Güvenilirliğini kanıtlamış olanlara güvenli geçiş izni versek de, mümkünse diğer furbolg kabilelerinden kaçınmaya çalışırız.NEW_LINENEW_LINESon zamanlarda Kışdüşüşü kabilesinin bize karşı giderek daha düşmanca bir tavır sergilediğini fark ettim. Anlamadıkları her şeye karşı kendi korku ve nefretleriyle tamamen sürüklenmiş, bir öfke durumunda gibiler.NEW_LINENEW_LINESayılarını azaltabilirsen bu bize büyük ölçüde yardımcı olur, YOUR_NAME.",
     ["Objectives"] = "Salfa 6 Kışdüşüşü Totemcisi, 6 Kışdüşüşü İni Nöbetçisi ve 6 Kışdüşüşü İzcisi öldürmeni istiyor.",
-    ["Progress"] = "Tahtasaqallılar için yaptıklarını çok takdir ediyoruz, YOUR_NAME. Devam eden çabaların kesinlikle kabilemin güvenini ve saygısını kazanacaktır.",
+    ["Progress"] = "Odunağızlılar için yaptıklarını çok takdir ediyoruz, YOUR_NAME. Devam eden çabaların kesinlikle kabilemin güvenini ve saygısını kazanacaktır.",
     ["Completion"] = "Yaptıkların için teşekkür ederim. Lütfen bize yardım etmeye devam et, YOUR_NAME. Çağırabileceğimiz çok az müttefikimiz var.",
     ["minlevel"] = "52",
     ["questlevel"] = "56"
@@ -73790,11 +73782,11 @@ QuestTranslator_QuestData = {
 },
 
 ["6131"] = {
-    ["Title"] = "Tahtasaqalı Müttefiki",
-    ["Description"] = "Tahtasaqallılar yozlaşmadan kaçan tek furbolg kabilesidir. Ancak, diğer birçok ırk artık dost mu yoksa düşman mı olduğunu anlamaya zahmet etmeden furbolgları körü körüne öldürüyor. Bu nedenle, Tahtasaqalı furbolgları çok az kişiye güvenir.NEW_LINENEW_LINEKendini kanıtlamakla ilgileniyor musun? Felahşap'ın yozlaşmış Ölüodun kabilesini püskürtün ve bir gün sizi müttefik olarak değerlendirebiliriz. İlk Ölüodun kabilesini - savaşçıları, izcileri ve bahçıvanları - batımda bulacaksın.",
+    ["Title"] = "Odunağızı Müttefiki",
+    ["Description"] = "Odunağızlılar yozlaşmadan kaçan tek furbolg kabilesidir. Ancak, diğer birçok ırk artık dost mu yoksa düşman mı olduğunu anlamaya zahmet etmeden furbolgları körü körüne öldürüyor. Bu nedenle, Odunağızı furbolgları çok az kişiye güvenir.NEW_LINENEW_LINEKendini kanıtlamakla ilgileniyor musun? Felahşap'ın yozlaşmış Ölüodun kabilesini püskürtün ve bir gün sizi müttefik olarak değerlendirebiliriz. İlk Ölüodun kabilesini - savaşçıları, izcileri ve bahçıvanları - batımda bulacaksın.",
     ["Objectives"] = "Grazle, 5 Ölüodun Savaşçısı, 5 Ölüodun İzcisi ve 5 Ölüodun Bahçıvanı öldürerek kendini kanıtlamanı istiyor.",
     ["Progress"] = "Devam et, YOUR_NAME. Güvenimizi kazanmak istiyorsan, kendini bize kanıtlaman gerekecek.",
-    ["Completion"] = "Geçmişteki olaylardan çok çekiyoruz. Tahtasaqalı'yı korumaya yardımcı olmak için yaptıkların için teşekkür ederiz.",
+    ["Completion"] = "Geçmişteki olaylardan çok çekiyoruz. Odunağızı'yı korumaya yardımcı olmak için yaptıkların için teşekkür ederiz.",
     ["minlevel"] = "45",
     ["questlevel"] = "48"
 },
@@ -74411,9 +74403,9 @@ QuestTranslator_QuestData = {
 
 ["8464"] = {
     ["Title"] = "Kışdüşüşü Faaliyeti",
-    ["Description"] = "Tahtasaqallılar kendi başlarına takılma eğilimindedir, YOUR_NAME. Güvendiğimiz kişilere güvenli geçiş izni versek de, mümkünse diğer furbolg kabilelerinden kaçınmaya çalışırız.NEW_LINENEW_LINEKışdüşüşü kabilesi son zamanlarda bize karşı giderek daha düşmanca bir tavır sergilemeye başladı. Anlamadıkları her şeye karşı kendi korku ve nefretleriyle tamamen sürüklenmiş, bir öfke durumunda gibiler.NEW_LINENEW_LINEBize yönelik tehdidi azaltmak için onların sayılarını azaltmanı istemeliyim. Onları buradan oldukça uzakta, doğudaki Kışdüşüşü Köyü'nde ara.",
-    ["Objectives"] = "Salfa 8 Kışdüşüşü Şamanı, 8 Kışdüşüşü İni Nöbetçisi ve 8 Kışdüşüşü Ursa'sı öldürmeni istiyor. Salfa, Kışyöresi'ndeki Tahtasaqalı Kalesi girişinin hemen dışında bulunur.",
-    ["Progress"] = "Tahtasaqallılar için yaptıklarını çok takdir ediyoruz, YOUR_NAME. Devam eden çabaların kesinlikle kabilemin güvenini ve saygısını kazanacaktır.",
+    ["Description"] = "Odunağızlılar kendi başlarına takılma eğilimindedir, YOUR_NAME. Güvendiğimiz kişilere güvenli geçiş izni versek de, mümkünse diğer furbolg kabilelerinden kaçınmaya çalışırız.NEW_LINENEW_LINEKışdüşüşü kabilesi son zamanlarda bize karşı giderek daha düşmanca bir tavır sergilemeye başladı. Anlamadıkları her şeye karşı kendi korku ve nefretleriyle tamamen sürüklenmiş, bir öfke durumunda gibiler.NEW_LINENEW_LINEBize yönelik tehdidi azaltmak için onların sayılarını azaltmanı istemeliyim. Onları buradan oldukça uzakta, doğudaki Kışdüşüşü Köyü'nde ara.",
+    ["Objectives"] = "Salfa 8 Kışdüşüşü Şamanı, 8 Kışdüşüşü İni Nöbetçisi ve 8 Kışdüşüşü Ursa'sı öldürmeni istiyor. Salfa, Kışyöresi'ndeki Odunağızı Kalesi girişinin hemen dışında bulunur.",
+    ["Progress"] = "Odunağızlılar için yaptıklarını çok takdir ediyoruz, YOUR_NAME. Devam eden çabaların kesinlikle kabilemin güvenini ve saygısını kazanacaktır.",
     ["Completion"] = "Üzücü de olsa yaptıkların için teşekkür ederim. Bunu bir teşekkür nişanesi olarak kabul et.NEW_LINENEW_LINESandan bize yardım etmeye devam etmeni rica ediyorum, YOUR_NAME. Yardım isteyeceğimiz çok az müttefikimiz var ve senin yardımın olmadan kabileme yönelik tehditler tek başımıza başa çıkamayacağımız kadar büyük olurdu.",
     ["minlevel"] = "45",
     ["questlevel"] = "58"
