@@ -70784,7 +70784,7 @@ QuestTranslator_QuestData = {
 
 ["8986"] = {
     ["Title"]="Önemli Diğer Bileşenler",
-    ["Description"]="YOUR_CLASS, dikkatlice dinle. Artık son muska parçasının yerini bildiğimize göre, buhurdanlığı doldurmak için başka bir bileşene daha ihtiyacımız var; ölmüş, eski yoldaşımın ruhunu cezbedecek kadar güçlü bir odak noktası sağlayacak bir şey.NEW_LINENEW_LÖncelikli druidimiz Mor Bozboynuz'un Cenarion Çemberi arasında birçok yakın dostu vardı, bazıları silithidlere yenik düştü. Güneydoğu Silithus'taki Hive'Regal çevresinde yaşayan silithidlerden Druid Kalıntıları getirmeni istiyorum.",
+    ["Description"]="YOUR_CLASS, dikkatlice dinle. Artık son muska parçasının yerini bildiğimize göre, buhurdanlığı doldurmak için başka bir bileşene daha ihtiyacımız var; ölmüş, eski yoldaşımın ruhunu cezbedecek kadar güçlü bir odak noktası sağlayacak bir şey.NEW_LINENEW_LINEÖncelikli druidimiz Mor Bozboynuz'un Cenarion Çemberi arasında birçok yakın dostu vardı, bazıları silithidlere yenik düştü. Güneydoğu Silithus'taki Hive'Regal çevresinde yaşayan silithidlerden Druid Kalıntıları getirmeni istiyorum.",
     ["Objectives"]="Druid Kalıntıları elde et ve Kara Kaya Dağı içindeki Bodley'ye geri dön.",
     ["Progress"]="Seni toplamaya gönderdiğim şeyle hemen döndün mü YOUR_CLASS?",
     ["Completion"]="Harika bir iş, YOUR_NAME. Kalıntıların özünü buhurdanlığa aşılayacağım.NEW_LINENEW_Lİşte şimdi geriye kalan tek şey Kara Kaya Tepesi'nin alt kısmına, Tazz'Alaor'da Savaş Ustası Voone'un ikamet ettiği odaya gitmek ve buhurdanlığı kullanarak eski yoldaşım Mor Bozboynuz'un bozulmuş ruhunu çağırmak. Muska parçası ondan alınana kadar huzur bulamaz.NEW_LINENEW_LBu arada, Alcaz Adası gezinden kalan biraz kan yosunum vardı, bu yüzden senin için birkaç iksir yaptım. Seçimini yap!",
@@ -70834,7 +70834,7 @@ QuestTranslator_QuestData = {
 
 ["8991"] = {
     ["Title"]="Lord Valthalak'ın Muskasının Doğru Parçası",
-    ["Description"]="Kardeşler, Jarien ve Sothos, paralı asker şirketimizin dağılması üzerine Kızıl Haçlı Seferi'ne katılmaya karar verdiler. Lord Valthalak'ın muskasının doğru parçasını da yanlarına aldılar. Kurtulduğumuza sevindim derim, ama o parçaya ihtiyacımız var.NEW_LINENEW_LÖğrenebildiğimiz kadarıyla, Kızıl Tabyası'ndaki odasında kabul törenlerinde başarısız oldukları için Büyük Haçlı Dathrohan'ın kendisi tarafından katledilmişler.NEW_LINENEW_LHer halükarda, biz... yani sen, muskanın o parçasını hâlâ alman gerekecek.",
+    ["Description"]="Kardeşler, Jarien ve Sothos, paralı asker şirketimizin dağılması üzerine Kızıl Haçlı Seferi'ne katılmaya karar verdiler. Lord Valthalak'ın muskasının doğru parçasını da yanlarına aldılar. Kurtulduğumuza sevindim derim, ama o parçaya ihtiyacımız var.NEW_LINENEW_LINEÖğrenebildiğimiz kadarıyla, Kızıl Tabyası'ndaki odasında kabul törenlerinde başarısız oldukları için Büyük Haçlı Dathrohan'ın kendisi tarafından katledilmişler.NEW_LINENEW_LHer halükarda, biz... yani sen, muskanın o parçasını hâlâ alman gerekecek.",
     ["Objectives"]="Jarien ve Sothos'u çağırmak için Çağrı Buhurdanlığı'nı kullan ve onları katlet. Birleştirilmiş Lord Valthalak'ın Muskası ve Çağrı Buhurdanlığı ile Kara Kaya Dağı içindeki Bodley'ye geri dön.",
     ["Progress"]="Bu durumda YOUR_CLASS, bu iki aptalın ruhunu çoktan huzura kavuşturduğun ve Lord Valthalak'ın muskasının parçalarını birleştirdiğin anlamına mı geliyor?",
     ["Completion"]="Sanırım o ikisinin ruhlarının nihayet huzura kavuşması en iyisi oldu, yaşarlarken onlardan hoşlanmasam bile. Her halükarda peşinde olduğumuz şeyi aldık ve artık muska yeniden birleşti! Ancak önümüzde hâlâ en zorlu test var.NEW_LINENEW_LBuhurdanlığın Lord Valthalak'ı çağırmaya uyum sağlanması için birkaç eşyanın daha toplanıp buraya bana getirilmesi gerekiyor.",
@@ -72824,7 +72824,7 @@ QuestTranslator_QuestData = {
 
 ["1657"] = {
     ["Title"]="Southshore'u Kaskatı Kokutmak",
-    ["Description"]="Cadılar Bayramı'nı tarzınla kutla... Southshore'daki düşmanlarımıza keder getirerek!NEW_LINENEW_LÖzel olarak işlenmiş bu koku bombalarından birini al. Hiçbir insanın - ya da o konuda zayıf iradeli herhangi bir canavarın - dayanamayacağı kokuşmuş bir kokuyla doludur. İşini yapması için onu doğrudan Southshore'un kalbine fırlatman gerekecek, bu yüzden İttifak'a karşı bir dövüşe hazır ol!NEW_LINENEW_LBu görevi... özgürleşmemize yapılan bu hürmeti tamamladığında bana geri dön!",
+    ["Description"]="Cadılar Bayramı'nı tarzınla kutla... Southshore'daki düşmanlarımıza keder getirerek!NEW_LINENEW_LINEÖzel olarak işlenmiş bu koku bombalarından birini al. Hiçbir insanın - ya da o konuda zayıf iradeli herhangi bir canavarın - dayanamayacağı kokuşmuş bir kokuyla doludur. İşini yapması için onu doğrudan Southshore'un kalbine fırlatman gerekecek, bu yüzden İttifak'a karşı bir dövüşe hazır ol!NEW_LINENEW_LBu görevi... özgürleşmemize yapılan bu hürmeti tamamladığında bana geri dön!",
     ["Objectives"]="Tirisfal Korusundaki Hasat Festivali'nde bulunan Koyuçağırıcı Yanka'ya dönmeden önce Tepelik Araziler'deki Southshore'un kalbine üç Terkedilmiş Koku Bombası fırlat.",
     ["Progress"]="Hediyemizi Southshore halkına teslim ettin mi?NEW_LINENEW_LINE<Koyuçağırıcı Yanka haince güler.>",
     ["Completion"]="Ah, aferin! Umarım İttifak, tıpkı bizim Afet'e kölelik boyunduruğunda boğulmaya zorlandığımız gibi, verdiğimiz bu kokuşmuş hediyeyle boğulur!NEW_LINENEW_LCadılar Bayramı düşüncelerini sadık tuttun, YOUR_NAME ve bunun için seni selamlıyorum. Ek bir bonus olarak, elimdeki bu Cadılar Bayramı ikramlarından bazılarını seninle paylaşmama izin ver. Sanırım onları oldukça keyifli bir eğlence olarak bulabilirsin!",
@@ -72877,7 +72877,7 @@ QuestTranslator_QuestData = {
     ["Description"]="",
     ["Objectives"]="",
     ["Progress"]=[["*Vızzz* *Tık*NEW_LINENEW_LBalıkustası MaviSolungaç'ın kataloglaması için nadir balıklar arıyorum. Bana bir Keefer'ın Melekbalığı getirirsen sana bu güzel ödülü vereceğim.NEW_LINENEW_L*Cızzz* *Vızzz*\"]],
-    ["Completion"]=[["*Vızzz*NEW_LINENEW_LKeefer'ın Melekbalığı tespiti tamamlandı.NEW_LINENEW_LÖdülün artık mevcut.NEW_LINENEW_L*tık-tık* *Bzzzz*\"]],
+    ["Completion"]=[["*Vızzz*NEW_LINENEW_LKeefer'ın Melekbalığı tespiti tamamlandı.NEW_LINENEW_LINEÖdülün artık mevcut.NEW_LINENEW_L*tık-tık* *Bzzzz*\"]],
     ["minlevel"]="1",
     ["questlevel"]="60"
 },
@@ -72907,7 +72907,7 @@ QuestTranslator_QuestData = {
     ["Description"]="",
     ["Objectives"]="",
     ["Progress"]=[["*Vızzz* *Tık*NEW_LINENEW_LBalıkustası MaviSolungaç'ın kataloglaması için nadir balıklar arıyorum. Bana bir Dezian Kraliçebalığı getirirsen sana bu güzel ödülü vereceğim.NEW_LINENEW_L*Cızzz* *Vızzz*"]],
-    ["Completion"]=[["*Vızzz*NEW_LINENEW_LDezian Kraliçebalığı tespiti tamamlandı.NEW_LINENEW_LÖdülün artık mevcut.NEW_LINENEW_L*tık-tık* *Bzzzz*\"]],
+    ["Completion"]=[["*Vızzz*NEW_LINENEW_LDezian Kraliçebalığı tespiti tamamlandı.NEW_LINENEW_LINEÖdülün artık mevcut.NEW_LINENEW_L*tık-tık* *Bzzzz*\"]],
     ["minlevel"]="1",
     ["questlevel"]="60"
 },
@@ -72927,7 +72927,7 @@ QuestTranslator_QuestData = {
     ["Description"]="Şüphesiz duyduğun gibi, Arathor Birliği Arathi Havzası'na büyük sayılarda birlik gönderiyor. Yiyecek ve erzak için hevesli olan bu İttifak aptalları oradaki zengin kaynakları almaya ve kontrol etmeye kararlı. Arathi'nin insanlara bir daha asla ev olmayacağını onlara göstermeliyiz!NEW_LINENEW_LArathi Havzası'na git ve madene, kereste fabrikasına, demirciye ve ahırlara saldır. Düşmanların sancaklarını indirerek o bölgeleri Güruh için ilan et.NEW_LINENEW_LGit, YOUR_NAME. Bu görev tamamlandığında bana rapor ver.",
     ["Objectives"]="Arathi Havzası madenine, kereste fabrikasına, demirciye ve ahıra saldır, ardından Hammerfall'daki Ölümustası Dwire'a dön.",
     ["Progress"]="",
-    ["Completion"]="Bir Kirletici gözcüsü başarın hakkında bir raporla bana geldi, YOUR_NAME. Aferin.NEW_LINENEW_LÖğreneceğin gibi, Arathi Havzası savaşını kazanmak için her zaman uyanık olmalı ve İttifak'ın her türlü genişleme girişimini ezmeliyiz. Bunu yap, buradaki zaferimiz güvence altına alınsın.",
+    ["Completion"]="Bir Kirletici gözcüsü başarın hakkında bir raporla bana geldi, YOUR_NAME. Aferin.NEW_LINENEW_LINEÖğreneceğin gibi, Arathi Havzası savaşını kazanmak için her zaman uyanık olmalı ve İttifak'ın her türlü genişleme girişimini ezmeliyiz. Bunu yap, buradaki zaferimiz güvence altına alınsın.",
     ["minlevel"]="30",
     ["questlevel"]="35"
 },
@@ -73046,7 +73046,7 @@ QuestTranslator_QuestData = {
     ["Title"]="Nafien İçin Tüyler",
     ["Description"]="",
     ["Objectives"]="",
-    ["Progress"]="Kendini bana kanıtlamış olsan da, kabilemin şüpheci kardeşlerine kendini kanıtlama yönünde çalışmaya devam etmen gerekebilir. Bu amaçla sana yardımcı olmaya devam edebilirim.NEW_LINENEW_LÖlüodun furbolglarının bazıları, sayılarını azaltmada bir kanıt olarak kullanılabilecek ayırt edici bir başlık takarlar. Elde ettiğin başlıklardan bana bir tüy getir; getirdiğin her beşli set için Kerestepençe arasında takdir kazanacaksın.",
+    ["Progress"]="Kendini bana kanıtlamış olsan da, kabilemin şüpheci kardeşlerine kendini kanıtlama yönünde çalışmaya devam etmen gerekebilir. Bu amaçla sana yardımcı olmaya devam edebilirim.NEW_LINENEW_LINEÖlüodun furbolglarının bazıları, sayılarını azaltmada bir kanıt olarak kullanılabilecek ayırt edici bir başlık takarlar. Elde ettiğin başlıklardan bana bir tüy getir; getirdiğin her beşli set için Kerestepençe arasında takdir kazanacaksın.",
     ["Completion"]="Harika iş, YOUR_NAME! Amellerinin kendi soydaşlarım arasında bilinmesini sağlayacağım.NEW_LINENEW_LBulduğun tüyleri bana getirmeyi unutma. Gerekli olduğu sürece onları kabul etmeye devam edeceğim.",
     ["minlevel"]="45",
     ["questlevel"]="55"
