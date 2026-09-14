@@ -1753,13 +1753,13 @@ QuestTranslator_QuestData = {
     ["176"] = {
     -- Hogger (özel isim/lakap olarak mantıklı kalması için "Hogger" olarak bırakılmıştır, ork/gnoll isim kalıbıdır).
     -- Elwynn -> Elwynn Ormanı. Stormwind Army -> Fırtınayeli Ordusu. 
-    -- Marshal Dughan -> Mareşal Dughan, Goldshire -> Altınbucak, Karakaya(Blackrock) Spire -> Karataş Doruğu.
+    -- Marshal Dughan -> Mareşal Dughan, Goldshire -> Altınbucak, Karakaya(Blackrock) Spire -> Karakaya Doruğu.
     -- Footman Tunic -> Piyade Atgısı / Piyade Tunikleri, Stormwind Guard Leggings -> Fırtınayeli Muhafız Pantolonu, Balanced Fighting Stick -> Dengeli Dövüş Sopası.
     ["Title"]="Aranıyor: Hogger",
     ["Description"]="Devasa bir gnoll olan Hogger, Elwynn'in güneybatısındaki ormanlarda sinsice dolaşıyor. Kendisini yakalamaya yönelik tüm girişimleri alt etmeyi başardı.\n\nFırtınayeli Ordusu (Stormwind Army), bu Gnoll'un başına cömert bir ödül koydu. Ödülü kazanmak için ödül avcılarının Hogger'ın ölümünün kanıtını Altınbucak'taki (Goldshire) Mareşal Dughan'a götürmesi gerekiyor.",
     ["Objectives"]="Gnoll Hogger'ı katlet ve onun Devasa Gnoll Pençesi'ni Mareşal Dughan'a ulaştır.",
     ["Progress"]="Evet, Hogger benim ve adamlarım için gerçek bir baş belası oldu. Canavar hakkında bildirecek bir şeyin var mı?",
-    ["Completion"]="Hah! Aferin! Artık o canavarı kimsenin indiremeyeceğini düşünmeye başlamıştım!\n\nİşte buradasın, YOUR_NAME. Ve teşekkürler - o Gnoll bana Karataş Doruğu (Karakaya(Blackrock) Spire) büyüklüğünde bir baş ağrısı veriyordu!",
+    ["Completion"]="Hah! Aferin! Artık o canavarı kimsenin indiremeyeceğini düşünmeye başlamıştım!\n\nİşte buradasın, YOUR_NAME. Ve teşekkürler - o Gnoll bana Karakaya Doruğu (Karakaya(Blackrock) Spire) büyüklüğünde bir baş ağrısı veriyordu!",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Wanted: Hogger
@@ -24721,7 +24721,7 @@ QuestTranslator_QuestData = {
     ["41158"] = {
     ["Title"]="Derinlerin İntikamı",
     ["Description"]="Seferlerimizde pek çok korkunç yaratıkla karşılaştık. Murloclardan nagalara, köpekbalıklarından hydralara kadar. Ama kişisel olarak, derinliklerden gelen hiçbir şey beni o devasa, şakırdayan kıskaçlarıyla bu kabuklu musibetler kadar ürkütmüyor! Şunlara bir baksana: o uzun, boncuk gibi gözler, jilet gibi keskin bacaklar ve kaya midyeleriyle kaplı kabukları - REZALET! YOUR_NAME, git oraya ve gemimi batırıp mürettebatımdan kendilerine ziyafet çekmenin bedeli neymiş onlara göster!",
-    ["Objectives"]="Karataş Adası'nın (Blackstone Island) güneybatı kıyısındaki makruralardan intikamını al ve Dazlon Pirinçkazan'a (Dazlon Brassdigger) rapor ver.",
+    ["Objectives"]="Karakaya Adası'nın (Blackstone Island) güneybatı kıyısındaki makruralardan intikamını al ve Dazlon Pirinçkazan'a (Dazlon Brassdigger) rapor ver.",
     ["Progress"]="Kıvılcımsuyu Limanı'ndaki (Sparkwater Port) hiç kimse bana bu suların makrura ve murloc kaynadığını söylememişti. Yine de dürüst olmak gerekirse bunu tahmin etmeliydim.",
     ["Completion"]="Hepsinden kurtulduk ya, derin bir nefes aldım. Bu onlara Celladın Ganimeti (Hangmans Plunder) üyelerine bulaşmamaları gerektiğini öğretecektir.",
     ["minlevel"]="0",
@@ -24744,7 +24744,7 @@ QuestTranslator_QuestData = {
     -- "Pit-Iful Work" görevindeki "Scavenger" düzeltme defterindeki gibi ayırt edici şekilde "Akbaba" anlamında aktarılmıştır.
     ["Title"]="Ustabaşı Borukilidi",
     ["Description"]="Sen oradaki, ufaklık! Burada tamamlamam gereken iş emirleri ve sürelerim var ama şu lanet Külbüyüleri (Ashfeathers) sürekli ayak bağı oluyor. Sonuç görmek istiyorum, hem de çabuk. Buradaki akbaba nüfusunu temizle ki adamlarım düzgünce ve bölünmeden çalışabilsin. Sen otoriteni ne kadar çabuk gösterirsen, ben de bu şişirilmiş zaman çizelgelerini o kadar çabuk bitirebilirim.",
-    ["Objectives"]="Karataş Adası'ndaki (Blackstone Island) Kara Kül Kömür Ocakları'nda Ustabaşı Borukilidi (Foreman Pipelatch) için 10 Külbüyü Akbabası katlet.",
+    ["Objectives"]="Karakaya Adası'ndaki (Blackstone Island) Kara Kül Kömür Ocakları'nda Ustabaşı Borukilidi (Foreman Pipelatch) için 10 Külbüyü Akbabası katlet.",
     ["Progress"]="Ne var?",
     ["Completion"]="Sonunda güzel bir haber! Şimdi şunlardan birini al ve önümden çekil, olur mu?",
     ["minlevel"]="0",
@@ -25412,7 +25412,7 @@ QuestTranslator_QuestData = {
     ["40459"] = {
     ["Title"]="Orvak'ın Güvenini Kazanmak",
     ["Description"]="Bize yardım etmek istiyorsun, öyle mi? Şey, sana güvenebileceğimizi bilmemiz gerekiyor; ne de olsa bu bölgede ve muhtemelen dünyanın çoğu bölgesinde çok sayıda düşmanımız var. Thaurissan Harabeleri'ndeki Kara Demir (Dark Iron) cücelerinin taşıdığı Thaurissan Nişanlarını toplayarak başlayabilirsin. Onlardan 15 tane topla ve Orvak Sertkaya'ya (Orvak Sternrock) getir, o zaman niyetinin ciddi olduğunu anlayacaktır.",
-    ["Objectives"]="Yanık Bozkırlar'daki (Burning Steppes) Karataş Geçidi'nde (Karakaya(Blackrock) Pass) bulunan Orvak Sertkaya için 15 Thaurissan Nişanı topla.",
+    ["Objectives"]="Yanık Bozkırlar'daki (Burning Steppes) Karakaya Geçidi'nde (Karakaya(Blackrock) Pass) bulunan Orvak Sertkaya için 15 Thaurissan Nişanı topla.",
     ["Progress"]="İstediğin nedir, YOUR_RACE?",
     ["Completion"]="Hmm, demek niyetin ciddi ha, Gölgemetal (Shadowforge) ile çalışıyor olmana imkan yok zaten. Asla emin olamazsın, ne de olsa Alacakaranlık Çekici (Twilight Hammer) ile bir ittifakları var.",
     ["minlevel"]="0",
@@ -25829,7 +25829,7 @@ QuestTranslator_QuestData = {
     ["41163"] = {
     ["Title"]="Savaşrobotu Felaketi",
     ["Description"]="Adada görünmeye başlayan Risk Ortaklığı (Venture Co.) ile savaşması amacıyla Taxxlo için birkaç savaş robotu yapmakla görevlendirilmiştim. Bu savaş robotlarını üretirken kullandığım malzemelerin  savaştığımız kişiler tarafından yapıldığını neredeyse hiç bilmiyordum. Yeni savaşçılarımızın her birinin bir can sıkıntısı durumuna düştüğünü söylesem kafidir. Taxxlo biraz altın biriktirmeye çalıştı ve tüm adayı riske attı, doğrudan bize dönmedikleri için şanslıydık. Ne olursa olsun bu pisliği temizlememiz gerekiyor ve başıboş robotlar hâlâ sorun yaratabilir. Çoğunu buranın batısındaki Pasgeçit Sırtı'nın (Rustgate Ridge) hemen güneyinde dolanırken bulabilirsin, düşmanımızın eline geçmemeleri için onları yok et.",
-    ["Objectives"]="Karataş Adası'ndaki (Blackstone Island) Gazzik'in Atölyesi'nde Gazzik için 10 adet Kusurlu Savaşrobotu 1000'i (Faulty Battletron 1000) yok et.",
+    ["Objectives"]="Karakaya Adası'ndaki (Blackstone Island) Gazzik'in Atölyesi'nde Gazzik için 10 adet Kusurlu Savaşrobotu 1000'i (Faulty Battletron 1000) yok et.",
     ["Progress"]="Ee, o kusurlu botları kırdın mı?",
     ["Completion"]="İyi iş ufaklık, bir değişiklik yapıp güvenilir birine sahip olmak güzel; Taxxlo ile gerçekten ne istediğini alıp almayacağını bilemiyorsun.",
     ["minlevel"]="0",
@@ -25992,36 +25992,36 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end Blackhorn Village
 
--- Karataş ve Rock n Roll
+-- Karakaya ve Rock n Roll
     ["40256"] = {
-    -- "Karakaya(Blackrock) and Roll" kelime oyunu başlığı "Karataş ve Rock n Roll" olarak uyarlanmıştır.
-    ["Title"]="Karataş ve Rock n Roll",
-    ["Description"]="Karazaş Klanı (Karakaya(Blackrock) Clan), Orgrimmar için çok büyük ve tehlikeli bir düşman olan Eski Güruh'a (Old Horde) aittir. Karataş Dağı ile Orgrimmar arasındaki mesafeye aldanma. Karataş Klanı ne zaman hatırı sayılır bir güç kazanacak olsa, bizi de yok etmeye geleceklerdir. Eski Güruh, Birinci ve İkinci Savaşlardaki mücadeleleri sırasında Doğu Krallıkları'nda (Eastern Kingdoms) kalan birçok fraksiyondan oluşuyor ve küçümsenmemesi gereken çetin bir düşmandır. Karataş Klanı'na bir engel olmam için doğrudan Orgrimmar'dan buraya gönderildim ve sen de yardım edeceksin. Ne de olsa tehlikede olan Güruh'un (Horde) onurudur. Bölgedeki tüm Karataş Klanı üyeleri tarafından taşınan 20 adet Karataş Nişanı topla. Onları öldür, nişanlarını al ve bana getir.",
-    ["Objectives"]="Alev Doruğu'ndaki (Flame Crest) Tarsokk için Karataş Orclarından 20 adet Karataş Nişanı (Karakaya(Blackrock) Signets) topla.",
+    -- "Karakaya(Blackrock) and Roll" kelime oyunu başlığı "Karakaya ve Rock n Roll" olarak uyarlanmıştır.
+    ["Title"]="Karakaya ve Rock n Roll",
+    ["Description"]="Karazaş Klanı (Karakaya(Blackrock) Clan), Orgrimmar için çok büyük ve tehlikeli bir düşman olan Eski Güruh'a (Old Horde) aittir. Karakaya Dağı ile Orgrimmar arasındaki mesafeye aldanma. Karakaya Klanı ne zaman hatırı sayılır bir güç kazanacak olsa, bizi de yok etmeye geleceklerdir. Eski Güruh, Birinci ve İkinci Savaşlardaki mücadeleleri sırasında Doğu Krallıkları'nda (Eastern Kingdoms) kalan birçok fraksiyondan oluşuyor ve küçümsenmemesi gereken çetin bir düşmandır. Karakaya Klanı'na bir engel olmam için doğrudan Orgrimmar'dan buraya gönderildim ve sen de yardım edeceksin. Ne de olsa tehlikede olan Güruh'un (Horde) onurudur. Bölgedeki tüm Karakaya Klanı üyeleri tarafından taşınan 20 adet Karakaya Nişanı topla. Onları öldür, nişanlarını al ve bana getir.",
+    ["Objectives"]="Alev Doruğu'ndaki (Flame Crest) Tarsokk için Karakaya Orclarından 20 adet Karakaya Nişanı (Karakaya(Blackrock) Signets) topla.",
     ["Progress"]="İstediğimi yaptın mı?",
     ["Completion"]="Eski Güruh'a bir darbe indirdik ve ilerlemelerini geciktirdik. Görevlerinin karşılığını sana altınla ödemem emredildi. Düşmanımızdan daha fazlasını görürsen, onları öldürdüğünden emin ol.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Karakaya(Blackrock) and Roll
 
--- Karataş Barutu
+-- Karakaya Barutu
     ["41526"] = {
-    ["Title"]="Karataş Barutu",
-    ["Description"]="Doğruyu söylemek gerekirse kafam oldukça karışık. Silahların gürültülü ama yine de etkili olduğu doğru, ama insan bunu nasıl kabul edip isteyerek kullanır? Birinin bunu iş üstünde kullandığını görmeliyiz, belki bu seni de kullanmaya teşvik eder. Elimdeki bilgiler, bir silah kullanıcısını bulmak için en mantıklı yerin Kara Demir (Dark Iron) cücelerinin başkentini barındıran Karataş Derinlikleri (Karakaya(Blackrock) Depths) olduğunu açıkça söylüyor. En az bir silah kullanıcısı barındırması kaçınılmazdır, ancak seni içeriye körü körüne göndermemek adına avlaman gereken adamın adını biliyorum. Karataş Derinlikleri'ne seyahat et, Tazıcıbaşı Grebmar'ı (Houndmaster Grebmar) bulup katlet ve eğer denk gelirsen ustaya biraz karataş barutu getir.",
-    ["Objectives"]="Karataş Barutu'nu (Karakaya(Blackrock) Powder) Çatışma Adası'ndaki (Fray Island) Mathias Parlakkalp'e (Mathias Brightheart) geri getir.",
+    ["Title"]="Karakaya Barutu",
+    ["Description"]="Doğruyu söylemek gerekirse kafam oldukça karışık. Silahların gürültülü ama yine de etkili olduğu doğru, ama insan bunu nasıl kabul edip isteyerek kullanır? Birinin bunu iş üstünde kullandığını görmeliyiz, belki bu seni de kullanmaya teşvik eder. Elimdeki bilgiler, bir silah kullanıcısını bulmak için en mantıklı yerin Kara Demir (Dark Iron) cücelerinin başkentini barındıran Karakaya Derinlikleri (Karakaya(Blackrock) Depths) olduğunu açıkça söylüyor. En az bir silah kullanıcısı barındırması kaçınılmazdır, ancak seni içeriye körü körüne göndermemek adına avlaman gereken adamın adını biliyorum. Karakaya Derinlikleri'ne seyahat et, Tazıcıbaşı Grebmar'ı (Houndmaster Grebmar) bulup katlet ve eğer denk gelirsen ustaya biraz Karakaya barutu getir.",
+    ["Objectives"]="Karakaya Barutu'nu (Karakaya(Blackrock) Powder) Çatışma Adası'ndaki (Fray Island) Mathias Parlakkalp'e (Mathias Brightheart) geri getir.",
     ["Progress"]="Öğrencim, seni hararetle çalışırken görmek bir zevk. Nora bana her şeyi anlattı. Seni yapman için gönderdiği görevi bitirdin mi?",
-    ["Completion"]="Karataş Dağı'ndan gelen barut, nefis. Patlayıcı gücü normalden daha yıkıcı. Eee, silahlı biriyle yüzleşmek nasıldı? <Mathias cevabına kaşlarını çatar.> Savaşmak için bir balta ve tazılar mı kullandı? Ne hayal kırıklığı, Nora'yı daha sonra azarlamam gerekecek. Önemli değil, gel öğrencim, sana o çok can attığın şeyi vereyim.",
+    ["Completion"]="Karakaya Dağı'ndan gelen barut, nefis. Patlayıcı gücü normalden daha yıkıcı. Eee, silahlı biriyle yüzleşmek nasıldı? <Mathias cevabına kaşlarını çatar.> Savaşmak için bir balta ve tazılar mı kullandı? Ne hayal kırıklığı, Nora'yı daha sonra azarlamam gerekecek. Önemli değil, gel öğrencim, sana o çok can attığın şeyi vereyim.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Karakaya(Blackrock) Powder
 
--- Karataş Katliamcıları
+-- Karakaya Katliamcıları
     ["40257"] = {
-    ["Title"]="Karataş Katliamcıları",
-    ["Description"]="Karataş katliamcıları (Karakaya(Blackrock) slayers) en korkunç düşmanlardan biridir. Geçmişte, eski savaş sırasında insan piyadelerinden oluşan klanları tamamen biçmeleriyle bilinirlerdi. Savaş alanında herkesten çok onlardan korkarım. Onlarla ilgilenilmeli, hem de çabucak. Onları Yanık Bozkırlar'ın (Burning Steppes) her yerinde bulabilirsin, çoğunlukla batıdaki Karataş Kalesi'nde (Karakaya(Blackrock) Stronghold) yoğunlaşmışlardır ama onları Kül Sütunu'nda (Pillar of Ash) da görebilirsin. Onurunla git ve onları Thrall adına öldür.",
-    ["Objectives"]="10 adet Karataş Katliamcısını öldür ve Alev Doruğu'ndaki (Flame Crest) Tarsokk'a geri dön.",
+    ["Title"]="Karakaya Katliamcıları",
+    ["Description"]="Karakaya katliamcıları (Karakaya(Blackrock) slayers) en korkunç düşmanlardan biridir. Geçmişte, eski savaş sırasında insan piyadelerinden oluşan klanları tamamen biçmeleriyle bilinirlerdi. Savaş alanında herkesten çok onlardan korkarım. Onlarla ilgilenilmeli, hem de çabucak. Onları Yanık Bozkırlar'ın (Burning Steppes) her yerinde bulabilirsin, çoğunlukla batıdaki Karakaya Kalesi'nde (Karakaya(Blackrock) Stronghold) yoğunlaşmışlardır ama onları Kül Sütunu'nda (Pillar of Ash) da görebilirsin. Onurunla git ve onları Thrall adına öldür.",
+    ["Objectives"]="10 adet Karakaya Katliamcısını öldür ve Alev Doruğu'ndaki (Flame Crest) Tarsokk'a geri dön.",
     ["Progress"]="Ortadan kaldırıldılar mı?",
-    ["Completion"]="Karataş Katliamcıları gerçekten korkunç bir düşmandı, iyi iş çıkardın.",
+    ["Completion"]="Karakaya Katliamcıları gerçekten korkunç bir düşmandı, iyi iş çıkardın.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Karakaya(Blackrock) Slayers
@@ -27103,10 +27103,10 @@ QuestTranslator_QuestData = {
 
 -- Madenciler Birliği İsyanı
     ["40441"] = {
-    -- High Foreman -> Yüksek Ustabaşı, Orvak özel adı korunmuş, Hateforge Excavation -> Nefretocağı Kazı Alanı. Karakaya(Blackrock) Pass -> Karataş Geçidi, Burning Steppes -> Yanık Bozkırlar.
+    -- High Foreman -> Yüksek Ustabaşı, Orvak özel adı korunmuş, Hateforge Excavation -> Nefretocağı Kazı Alanı. Karakaya(Blackrock) Pass -> Karakaya Geçidi, Burning Steppes -> Yanık Bozkırlar.
     ["Title"]="Madenciler Birliği İsyanı",
     ["Description"]="Madenciler Birliği, Yüksek Ustabaşı'na ihanet etti ve Orvak'a sadık olanları köleliğe mahkum etti. Adaletten başka bir adım yok ve o, geriye kalan her bir kişiye dağıtılmalı! Doğuda Nefretocağı Kazı Alanı (Hateforge Excavation) yer alıyor; Taş Ocağı'na çıkan bir dizi tabyada ve savunmada çalışan kazıcılarla (Excavators) ilgilenerek işe başlayacağız. Onlardan 10 tanesini katlet ve bana geri dön.",
-    ["Objectives"]="Nefretocağı Kazı Alanı'nda 10 adet Nefretocağı Kazıcısını katlet ve Yanık Bozkırlar'daki (Burning Steppes) Karataş Geçidi'nde (Karakaya(Blackrock) Pass) bulunan Morgrim Ateşmızrak'a (Morgrim Firepike) geri dön.",
+    ["Objectives"]="Nefretocağı Kazı Alanı'nda 10 adet Nefretocağı Kazıcısını katlet ve Yanık Bozkırlar'daki (Burning Steppes) Karakaya Geçidi'nde (Karakaya(Blackrock) Pass) bulunan Morgrim Ateşmızrak'a (Morgrim Firepike) geri dön.",
     ["Progress"]="Adalete giden yoldayız, bunu hissedebiliyor musun?",
     ["Completion"]="Bu dünyada o pisliklerden daha az olduğunu bilmek iyi hissettiriyor ama hâlâ yapılması gereken çok şey var.",
     ["minlevel"]="0",
@@ -27115,10 +27115,10 @@ QuestTranslator_QuestData = {
 
 -- Madenciler Birliği İsyanı II
     ["40468"] = {
-    -- Hateforge Quarry -> Nefretocağı Madeni, Karakaya(Blackrock) Pass -> Karataş Geçidi, Burning Steppes -> Yanık Bozkırlar. Morgrim Firepike -> Morgrim Ateşmızrak.
+    -- Hateforge Quarry -> Nefretocağı Madeni, Karakaya(Blackrock) Pass -> Karakaya Geçidi, Burning Steppes -> Yanık Bozkırlar. Morgrim Firepike -> Morgrim Ateşmızrak.
     ["Title"]="Madenciler Birliği İsyanı II",
     ["Description"]="Şimdi Madenciler Birliği'nin kalbine vuracağız. Onların ana projesi kazı alanının hemen ötesinde ve Taş Ocağı'nın derinliklerinde yer alıyor. Orvak'ın görevden alınması için isyanlarını orada başlattılar ve Morgrim Ateşmızrak'ın gazabını orada hissedecekler. Oh, ve tabii ki onun paralı askerlerinin gazabını da. Doğudaki Nefretocağı Madeni'na (Hateforge Quarry) git ve onlardan yirmi kişiyi öldür, eylemlerinin sonuçlarına katlanacaklar.",
-    ["Objectives"]="Nefretocağı Madeni'nda 20 adet Nefretocağı Madencisini katlet ve Yanık Bozkırlar'daki (Burning Steppes) Karataş Geçidi'nde (Karakaya(Blackrock) Pass) bulunan Morgrim Ateşmızrak'a geri dön.",
+    ["Objectives"]="Nefretocağı Madeni'nda 20 adet Nefretocağı Madencisini katlet ve Yanık Bozkırlar'daki (Burning Steppes) Karakaya Geçidi'nde (Karakaya(Blackrock) Pass) bulunan Morgrim Ateşmızrak'a geri dön.",
     ["Progress"]="Adalet giderek yaklaşıyor, bunu pratik olarak hissedebilirsin.",
     ["Completion"]="Benim adıma iyi iş çıkardın ve onlara gerçekten kan ağlattın. Adalet yerini buldu ve işleri muazzam ölçüde yavaşlatıldı. Tüm bu sıkı çalışman için sana bir ödül sunmak istiyorum, al bunu; bir adalet elçisi olarak bunu hak ettin.",
     ["minlevel"]="0",
@@ -27598,9 +27598,9 @@ QuestTranslator_QuestData = {
 
 -- Karanlığa Bulaşmak
     ["41201"] = {
-    -- Blackstone -> Karataş, Orgrimmar, Cleft of Shadow -> Gölge Yarığı aynen korunmuştur. Gan'rul Bloodeye -> Gan'rul Kanyarığı/Kanlıgöz.
+    -- Blackstone -> Karakaya, Orgrimmar, Cleft of Shadow -> Gölge Yarığı aynen korunmuştur. Gan'rul Bloodeye -> Gan'rul Kanyarığı/Kanlıgöz.
     ["Title"]="Karanlığa Bulaşmak",
-    ["Description"]="Oh, oho! YOUR_NAME, mükemmel zamanlama; ben de tam seni düşünüyordum, benim o çok sevgili kara büyücü (warlock) ortağım! Kulendeki o tez canlı herif için çözdüğün tüm sorunlarla Karataş'ı (Blackstone) altüst ettiğini duydum. Elbette umurumda değil, daha ilginç... girişimlerin peşinden koşmam için arkamı kolluyor. İlginç demişken - bence ikinci çağırma büyün için fazlasıyla hazırsın. Tehlikeli bir yakarış, birçok genç kara büyücünün kurbanı olduğu cinsten. Onu sana öğretmem için gereken malzemeler maalesef burada, Karataş'ta değil; ancak Orgrimmar'daki Gan'rul Kanlıgöz (Gan'rul Bloodeye) eğitiminiz için gerekli bileşenleri sağlayabilir. Ona selamlarımı ilet, bana hâlâ bir çuval reaktif borcu var. Genellikle zamanını başkentin merkezindeki Gölge Yarığı'nda (Cleft of Shadow) geçirir.",
+    ["Description"]="Oh, oho! YOUR_NAME, mükemmel zamanlama; ben de tam seni düşünüyordum, benim o çok sevgili kara büyücü (warlock) ortağım! Kulendeki o tez canlı herif için çözdüğün tüm sorunlarla Karakaya'ı (Blackstone) altüst ettiğini duydum. Elbette umurumda değil, daha ilginç... girişimlerin peşinden koşmam için arkamı kolluyor. İlginç demişken - bence ikinci çağırma büyün için fazlasıyla hazırsın. Tehlikeli bir yakarış, birçok genç kara büyücünün kurbanı olduğu cinsten. Onu sana öğretmem için gereken malzemeler maalesef burada, Karakaya'ta değil; ancak Orgrimmar'daki Gan'rul Kanlıgöz (Gan'rul Bloodeye) eğitiminiz için gerekli bileşenleri sağlayabilir. Ona selamlarımı ilet, bana hâlâ bir çuval reaktif borcu var. Genellikle zamanını başkentin merkezindeki Gölge Yarığı'nda (Cleft of Shadow) geçirir.",
     ["Objectives"]="Orgrimmar'daki Gan'rul Kanlıgöz (Gan'rul Bloodeye) ile konuş.",
     ["Progress"]="Seni Gölge Yarığı'na getiren nedir?",
     ["Completion"]="Bir goblin mi? Sizin türünüz son zamanlarda şehirde daha sık fır dönmeye başladı. Ama benim için hava hoş, güç arayışında ufkunu genişletmek isteyen herkes başımın üstüne.",
@@ -28089,10 +28089,10 @@ QuestTranslator_QuestData = {
 
 -- Tüm İzleri Yok Et...
     ["40507"] = {
-    -- Karfang Hold -> Karpençe Hisarı, Karakaya(Blackrock) Stronghold -> Karataş Kalesi. Burning Steppes -> Yanık Bozkırlar. Molk ismi kalmıştır.
+    -- Karfang Hold -> Karpençe Hisarı, Karakaya(Blackrock) Stronghold -> Karakaya Kalesi. Burning Steppes -> Yanık Bozkırlar. Molk ismi kalmıştır.
     ["Title"]="Tüm İzleri Yok Et...",
-    ["Description"]="Umarım seni kendi çıkarımız için kullandığımızı anlıyorsun. Bunu yanlış anlama, çünkü seni dolandırmak ya da aldatmak niyetinde değiliz. Sadece hedeflerimize ulaşmak için yardıma ihtiyacımız var; bir Karataş (Karakaya(Blackrock)) Orkunun yaparken görülmemesi gereken hedefler, yoksa ihanetimiz keşfedilir. Karpençe Hisarı'nın (Karfang Hold) tüm izlerini yok etmemiz gerekiyor; inşaat ve garnizon kayıtları batıdaki Karataş Kalesi'nin (Karakaya(Blackrock) Stronghold) içinde yer alıyor. Bu belgeleri topla ve düzgün bir şekilde ortadan kaldırıldıklarından emin olabilmem için bana geri getir. Dikkatli ol, iyi savunulan bir yerdir.",
-    ["Objectives"]="Karataş Kalesi'nden 'Garnizon ve Tedarik Belgeleri'ni geri al ve Yanık Bozkırlar'daki (Burning Steppes) Karpençe Hisarı'nda bulunan Karpençe'ye (Karfang) geri dön.",
+    ["Description"]="Umarım seni kendi çıkarımız için kullandığımızı anlıyorsun. Bunu yanlış anlama, çünkü seni dolandırmak ya da aldatmak niyetinde değiliz. Sadece hedeflerimize ulaşmak için yardıma ihtiyacımız var; bir Karakaya (Karakaya(Blackrock)) Orkunun yaparken görülmemesi gereken hedefler, yoksa ihanetimiz keşfedilir. Karpençe Hisarı'nın (Karfang Hold) tüm izlerini yok etmemiz gerekiyor; inşaat ve garnizon kayıtları batıdaki Karakaya Kalesi'nin (Karakaya(Blackrock) Stronghold) içinde yer alıyor. Bu belgeleri topla ve düzgün bir şekilde ortadan kaldırıldıklarından emin olabilmem için bana geri getir. Dikkatli ol, iyi savunulan bir yerdir.",
+    ["Objectives"]="Karakaya Kalesi'nden 'Garnizon ve Tedarik Belgeleri'ni geri al ve Yanık Bozkırlar'daki (Burning Steppes) Karpençe Hisarı'nda bulunan Karpençe'ye (Karfang) geri dön.",
     ["Progress"]="Senin yerinde olsaydım yanımda destek getirmeyi düşünürdüm.",
     ["Completion"]="Kemikleri iyice ayıkladın, değil mi? <Karfang hafifçe güler.> Aradığımız şey tam olarak buydu, dışarıdan gelen biri için mükemmel bir iş; Molk senin soyundan birinden baştan savma bir iş bekliyordu ama sen iyi iş çıkardın.",
     ["minlevel"]="0",
@@ -28230,10 +28230,10 @@ QuestTranslator_QuestData = {
 -- Golem Sırlarını Keşfetmek
     ["40465"] = {
     -- Shadowforge -> Gölgedemiri, Golem Cores -> Golem Çekirdekleri. Orvak, Ruins of Thaurissan -> Thaurissan Harabeleri.
-    -- Dark Irons -> Kara Demirler, War Reaver -> Savaş Yağmacısı. Radgan Deepblaze -> Radgan Derinalaz. Karakaya(Blackrock) Pass -> Karataş Geçidi, Burning Steppes -> Yanık Bozkırlar.
+    -- Dark Irons -> Kara Demirler, War Reaver -> Savaş Yağmacısı. Radgan Deepblaze -> Radgan Derinalaz. Karakaya(Blackrock) Pass -> Karakaya Geçidi, Burning Steppes -> Yanık Bozkırlar.
     ["Title"]="Golem Sırlarını Keşfetmek",
     ["Description"]="Selam, eğer yardım etmek istemezsen senin için tuhaf bir isteğim var. Eskiden Gölgedemiri'nde (Shadowforge) bir Gizemli Demirci (Arcanasmith) idim ve her türlü Golem Çekirdeği (Golem Core) ile çalıştım. Eski Orvak'a olan sadakatim, diğer madencilerle birlikte beni de dışarı fırlattı. Bu kamptan ne zaman çıksak işime devam etmek istiyorum ve bir adım önde başlamak hoş olurdu. Kuzeyde Thaurissan Harabeleri (Ruins of Thaurissan) var. Oradaki Kara Demirler (Dark Irons), güçlerini Golem Çekirdeklerinden alan Savaş Yağmacısı (War Reaver) devriyelerine sahip. Bana onlardan üç tane getir, böylece ne tür bir güç barındırdıklarını görelim.",
-    ["Objectives"]="Yanık Bozkırlar'daki (Burning Steppes) Karataş Geçidi'nde (Karakaya(Blackrock) Pass) bulunan Radgan Derinalaz (Radgan Deepblaze) için 3 adet Golem Çekirdeği topla.",
+    ["Objectives"]="Yanık Bozkırlar'daki (Burning Steppes) Karakaya Geçidi'nde (Karakaya(Blackrock) Pass) bulunan Radgan Derinalaz (Radgan Deepblaze) için 3 adet Golem Çekirdeği topla.",
     ["Progress"]="O Golem Çekirdeklerini elde etmede bir şansın yaver gitti mi?",
     ["Completion"]="<Radgan çekirdekleri incelemek için zaman ayırır.> Kusurlar, çatlaklar, hmm.. Bunlar ikinci sınıf güç çekirdekleri, aradığım türden şeyler değil.",
     ["minlevel"]="0",
@@ -28267,10 +28267,10 @@ QuestTranslator_QuestData = {
 -- Pasgeçit Kereste Fabrikasındaki Kargaşa
     ["41265"] = {
     -- Rustgate Lumber Yard -> Pasgeçit Kereste Fabrikası, Venture Co. -> Risk Ortaklığı, Durotar Labor Union -> Durotar İşçi Sendikası.
-    -- Supervisor Ozzick -> Gözetmen Ozzick. Rustgate Ridge -> Pasgeçit Sırtı, Blackstone Island -> Karataş Adası.
+    -- Supervisor Ozzick -> Gözetmen Ozzick. Rustgate Ridge -> Pasgeçit Sırtı, Blackstone Island -> Karakaya Adası.
     ["Title"]="Pasgeçit Kereste Fabrikasındaki Kargaşa",
     ["Description"]="Bu adaya ilk geldiğimizde, burası ağaçlar ve yaban hayatıyla dolu yemyeşil, gür bir vahasıydı. Buranın hemen kuzeydoğusundaki Pasgeçit Kereste Fabrikası (Rustgate Lumber Yard) ile büyük bir kâr elde ediyorduk ve tüm bu kâr feci bir şekilde durma noktasına geldi. İster inan ister inanma, hâlâ hasat edebileceğimiz epey ağaç var, yine de Risk Ortaklığı (Venture Co.) en kazançlı gelir kaynaklarımızdan birine el koydu! Hatta  kendilerinin orada çalıştığını duydum, ne cüret ama! Pasgeçit Kereste Fabrikası'na gitmeni ve birkaç kafa kırmaya başlamanı istiyorum; Risk Ortaklığı, Durotar İşçi Sendikası (Durotar Labor Union) ile bir daha uğraşmadan önce iki kez düşünsün.",
-    ["Objectives"]="Karataş Adası'ndaki (Blackstone Island) Pasgeçit Sırtı'nda (Rustgate Ridge) bulunan Gözetmen Ozzick için Pasgeçit Kereste Fabrikası civarındaki Risk Ortaklığı üyelerini katlet.",
+    ["Objectives"]="Karakaya Adası'ndaki (Blackstone Island) Pasgeçit Sırtı'nda (Rustgate Ridge) bulunan Gözetmen Ozzick için Pasgeçit Kereste Fabrikası civarındaki Risk Ortaklığı üyelerini katlet.",
     ["Progress"]="Kereste Fabrikasını kendimiz için geri almamız uzun sürmeyecek.",
     ["Completion"]="Güzel iş evlat, yıkıcı ellerine rehberlik etme konusunda içgüdülerime güvenebileceğimi biliyordum. Tekrar ağaç kesmeye ve hasat etmeye başlamamız uzun sürmeyecek.",
     ["minlevel"]="0",
@@ -28618,11 +28618,11 @@ QuestTranslator_QuestData = {
 
 -- Hayati Varlıkları Ortadan Kaldırmak
     ["40500"] = {
-    -- Karakaya(Blackrock) Mountain -> Karataş Dağı, Karakaya(Blackrock) Stronghold -> Karataş Kalesi, Battlemasters -> Savaşustaları.
+    -- Karakaya(Blackrock) Mountain -> Karakaya Dağı, Karakaya(Blackrock) Stronghold -> Karakaya Kalesi, Battlemasters -> Savaşustaları.
     -- Molk, Karfang Hold -> Karpençe Hisarı. Whelpling -> Ejdercik (Burada aşağılama anlamında "enik/yeni yetme" olarak aktarılmıştır).
     ["Title"]="Hayati Varlıkları Ortadan Kaldırmak",
-    ["Description"]="Meşgul olduğumu görmüyor musun? Oh, yeni yetme (whelpling) bir işe yaramak istiyor demek, o halde senin için bir görevim var. Batıya, Karataş Dağı'nın (Karakaya(Blackrock) Mountain) eşiğine doğru atıl ve o manipülatif efendilerine karşı çıkacak olanlara yönelik saldırılara hazırlandıkları Karataş Kalesi'ni (Karakaya(Blackrock) Stronghold) bulacaksın; onlara körü körüne itaat eden tam bir aptal sürüsü. Savaşustalarını (battlemasters) katlet ve saldırılarını planladıkları kale belgelerini ele geçir. Şimdi git ve bir işe yara!",
-    ["Objectives"]="10 Karataş Savaşustasını öldür ve Kale Belgelerini ele geçir. İşin bittiğinde Karpençe Hisarı'ndaki (Karfang Hold) Molk'a geri dön.",
+    ["Description"]="Meşgul olduğumu görmüyor musun? Oh, yeni yetme (whelpling) bir işe yaramak istiyor demek, o halde senin için bir görevim var. Batıya, Karakaya Dağı'nın (Karakaya(Blackrock) Mountain) eşiğine doğru atıl ve o manipülatif efendilerine karşı çıkacak olanlara yönelik saldırılara hazırlandıkları Karakaya Kalesi'ni (Karakaya(Blackrock) Stronghold) bulacaksın; onlara körü körüne itaat eden tam bir aptal sürüsü. Savaşustalarını (battlemasters) katlet ve saldırılarını planladıkları kale belgelerini ele geçir. Şimdi git ve bir işe yara!",
+    ["Objectives"]="10 Karakaya Savaşustasını öldür ve Kale Belgelerini ele geçir. İşin bittiğinde Karpençe Hisarı'ndaki (Karfang Hold) Molk'a geri dön.",
     ["Progress"]="Yapılacak işler varken çene çalacak vaktim yok, o yüzden harekete geç.",
     ["Completion"]="Demek istediğimi yaptın. Bakalım o belgelerde ne varmış. <Molk belgeleri senden alır ve birkaç saniye dikkatle bakar.> Pekala, bu kesinlikle planlarına ket vuracaktır; buradaki bilgileri edinmeleri muhtemelen epey zaman almıştır ve bu bilgiler olmadan hiçbir ipuçları kalmaz. Göründüğünden daha yararlısın, yeni yetme. Kendimden bir teşekkür olarak bu altını al.",
     ["minlevel"]="0",
@@ -29163,10 +29163,10 @@ QuestTranslator_QuestData = {
 
 -- Çöl Kadar Kuru
     ["41165"] = {
-    -- Taxxlo, Blackstone's waterhole -> Karataş su birikintisi, Pumpmaster Galvax -> Pompa Ustası Galvax.
+    -- Taxxlo, Blackstone's waterhole -> Karakaya su birikintisi, Pumpmaster Galvax -> Pompa Ustası Galvax.
     -- Rustgate Ridge -> Pasgeçit Sırtı.
     ["Title"]="Çöl Kadar Kuru",
-    ["Description"]="Sence bu adadaki en önemli şey nedir? Su, elbette! Taxxlo iyi bir cevaptı dostum, ama o bile derin yağda kızartılmış bir muz gibi kuruyup giderlerse işçileri çalıştıramayacağımızı kabul etmek zorunda. Kuzeyde, madenlerin ötesinde Karataş'ın su birikintisini (Blackstone's waterhole) bulacaksın. Pompa Ustası Galvax'a (Pumpmaster Galvax) Pasgeçit Sırtı'na (Rustgate Ridge) bir su sevkıyatı göndermesi emredildi, ancak bu istediğimden daha uzun sürdü. Ona bu kadar uzun sürenin ne olduğunu sor!",
+    ["Description"]="Sence bu adadaki en önemli şey nedir? Su, elbette! Taxxlo iyi bir cevaptı dostum, ama o bile derin yağda kızartılmış bir muz gibi kuruyup giderlerse işçileri çalıştıramayacağımızı kabul etmek zorunda. Kuzeyde, madenlerin ötesinde Karakaya'ın su birikintisini (Blackstone's waterhole) bulacaksın. Pompa Ustası Galvax'a (Pumpmaster Galvax) Pasgeçit Sırtı'na (Rustgate Ridge) bir su sevkıyatı göndermesi emredildi, ancak bu istediğimden daha uzun sürdü. Ona bu kadar uzun sürenin ne olduğunu sor!",
     ["Objectives"]="Su Birikintisi'ndeki Pompa Ustası Galvax kayıp su teslimatı hakkında size daha fazla şey söyleyebilir.",
     ["Progress"]="Pasgeçit'ten çok uzaktasın dostum.",
     ["Completion"]="Su sevkıyatı mı? Evet, o meseleyi biliyorum, arkandaki uçuruma bakarsan nerede son bulduğunu görebilirsin.",
@@ -29215,10 +29215,10 @@ QuestTranslator_QuestData = {
 -- DV-500
     ["41152"] = {
     -- DV-500 mekanik kod ismi kalmıştır. Mainframes -> Ana bilgisayarlar. 
-    -- Balnack Copperlight -> Balnack Bakırişik, Black Ash Coalpits -> Kara Kül Kömür Ocakları, Blackstone Island -> Karataş Adası.
+    -- Balnack Copperlight -> Balnack Bakırişik, Black Ash Coalpits -> Kara Kül Kömür Ocakları, Blackstone Island -> Karakaya Adası.
     ["Title"]="DV-500",
     ["Description"]="Artık o devre dışı kalmış ana bilgisayarları kurtarabildiğine göre, senden isteyeceğim daha önemli bir görevim var. En büyük eserim, DV-500 delirdi. Ne inşa etmiş olursam olayım, şimdi bana karşı dönmüş durumda gibi görünüyor. DV-500'ü ne kadar sevsem de, daha çok sevdiğim bir şey var. Altın. Gelişmiş işlem birimi bana bir servete mal oldu ve onun herhangi bir zavallı ahmak gidip yeniden amaçlandırsın diye amaçsızca dolaştığını görmek beni delirtiyor! DV-500'deki işlem birimini toplamanı ve derhal bana getirmeni istiyorum. Onu en son buranın kuzeyinde adımlarken görmüştüm.",
-    ["Objectives"]="DV-500'deki Gelişmiş İşlem Birimi'ni kurtar ve Karataş Adası'ndaki Kara Kül Kömür Ocakları'nda (Black Ash Coalpits) bulunan Balnack Bakırişik'e (Balnack Copperlight) geri getir.",
+    ["Objectives"]="DV-500'deki Gelişmiş İşlem Birimi'ni kurtar ve Karakaya Adası'ndaki Kara Kül Kömür Ocakları'nda (Black Ash Coalpits) bulunan Balnack Bakırişik'e (Balnack Copperlight) geri getir.",
     ["Progress"]="Ee, DV-500'ü buldun mi?",
     ["Completion"]="Ahh, nihayet. Bu şey bana bir servete mal oldu ve onu değiştirecek param yok. Bana gerçekten büyük bir iyilik yaptın. Al bakalım, bunlardan birini al. Belki sana yardımcı olabilir.",
     ["minlevel"]="0",
@@ -30091,11 +30091,11 @@ QuestTranslator_QuestData = {
 
 -- Kış Festivali İksiri
     ["40748"] = {
-    -- Winter Veil Brew -> Kış Festivali İksiri / Birası, Dark Irons -> Kara Demirler, Karakaya(Blackrock) Depths -> Karataş Derinlikleri.
+    -- Winter Veil Brew -> Kış Festivali İksiri / Birası, Dark Irons -> Kara Demirler, Karakaya(Blackrock) Depths -> Karakaya Derinlikleri.
     -- Bomarn Fireaxe -> Bomarn Ateşbaltası (Fire + Axe). Winter Veil Vale -> Kış Festivali Vadisi. Wee life -> Küçük hayatım.
     ["Title"]="Kış Festivali İksiri",
-    ["Description"]="Uzun bir yılın sonunu içki içmekten daha iyi taçlandıracak ne olabilir ki? Elbette, yalnızca en iyilerin en iyisi kutlamaları daha iyi hale getirir. Birkaç mevsim önce yaptığım Kış Festivali İksiri'nin (Winter Veil Brew) hikayelerini duydun mu? Oh, kesinlikle büyüleyiciydi, muhtemelen şu küçük hayatımda (wee life) yaptığım en iyi partiydi. O hain Kara Demirler (Dark Irons) onu çaldı, şüphesiz Karataş Derinlikleri'nin (Karakaya(Blackrock) Depths) derinliklerindeki meyhanelerinde bir yere sakladılar. Sen onu kurtar, ben de seninle birazını paylaşayım, kulağa bir anlaşma gibi geliyor, değil mi?",
-    ["Objectives"]="Kış Festivali Vadisi'ndeki (Winter Veil Vale) Bomarn Ateşbaltası (Bomarn Fireaxe) için Karataş Derinlikleri'nin mağaralarındaki Kış Festivali Fıçısı'nı kurtar.",
+    ["Description"]="Uzun bir yılın sonunu içki içmekten daha iyi taçlandıracak ne olabilir ki? Elbette, yalnızca en iyilerin en iyisi kutlamaları daha iyi hale getirir. Birkaç mevsim önce yaptığım Kış Festivali İksiri'nin (Winter Veil Brew) hikayelerini duydun mu? Oh, kesinlikle büyüleyiciydi, muhtemelen şu küçük hayatımda (wee life) yaptığım en iyi partiydi. O hain Kara Demirler (Dark Irons) onu çaldı, şüphesiz Karakaya Derinlikleri'nin (Karakaya(Blackrock) Depths) derinliklerindeki meyhanelerinde bir yere sakladılar. Sen onu kurtar, ben de seninle birazını paylaşayım, kulağa bir anlaşma gibi geliyor, değil mi?",
+    ["Objectives"]="Kış Festivali Vadisi'ndeki (Winter Veil Vale) Bomarn Ateşbaltası (Bomarn Fireaxe) için Karakaya Derinlikleri'nin mağaralarındaki Kış Festivali Fıçısı'nı kurtar.",
     ["Progress"]="Aşağıda fıçıyı bulmada şansın yaver gitti mi?",
     ["Completion"]="<Bomarn heyecanla parıldar.> Oh, işte bu, Kış Festivali İksiri'nin (Winter Veil Brew) o gizemli fıçısı! Geçmiş çağlardan beri bir şey içmemiştim. <Bomarn bir hevesle fıçıdan hızlıca içer.> Oh, nezaketim nereye gitti böyle, al bakalım söz verdiğim gibi, birkaç maşrapa al; senin gibi cesur bir maceracı için sadece en iyisi.",
     ["minlevel"]="0",
@@ -30317,9 +30317,9 @@ QuestTranslator_QuestData = {
 
 -- Göze Göz
     ["40917"] = {
-    -- Well of Eternity -> Ebediyet Kuyusu, Karakaya(Blackrock) Spire -> Karataş Doruğu, Overlord Wyrmthalak -> Derebeyi Wyrmthalak.
+    -- Well of Eternity -> Ebediyet Kuyusu, Karakaya(Blackrock) Spire -> Karakaya Doruğu, Overlord Wyrmthalak -> Derebeyi Wyrmthalak.
     ["Title"]="Göze Göz",
-    ["Description"]="Bu posta kutusunun içinde muazzam büyüklükte ve eşsiz öneme sahip bir kristali güvenle saklıyorum, §N. Bu kristal bir zamanlar  Ebediyet Kuyusu'ndan (Well of Eternity) çekilen güçleri barındırıyordu. Ve gücü çoktan tükenmiş olsa da, yeniden canlandırılma şansı her zaman var, sen de katılmaz mısın? Onun gücüne ihtiyacım var ve eğer açlığının dindirilmesini istiyorsan, onu canlandırmama yardım edeceksin. Onu eski ihtişamına kavuşturmak için yardım etmeye karar verirsen, emin ol ki çabalarının karşılığı adaletten de öte şekilde ödenecektir. İlk olarak, Karataş Dağı'nın (Karakaya(Blackrock) Mountain) derinliklerine inmeli ve Karataş Doruğu'nun (Karakaya(Blackrock) Spire) alt salonlarında dolanan Derebeyi Wyrmthalak'ın (Overlord Wyrmthalak) gözünü kapmalısın.",
+    ["Description"]="Bu posta kutusunun içinde muazzam büyüklükte ve eşsiz öneme sahip bir kristali güvenle saklıyorum, §N. Bu kristal bir zamanlar  Ebediyet Kuyusu'ndan (Well of Eternity) çekilen güçleri barındırıyordu. Ve gücü çoktan tükenmiş olsa da, yeniden canlandırılma şansı her zaman var, sen de katılmaz mısın? Onun gücüne ihtiyacım var ve eğer açlığının dindirilmesini istiyorsan, onu canlandırmama yardım edeceksin. Onu eski ihtişamına kavuşturmak için yardım etmeye karar verirsen, emin ol ki çabalarının karşılığı adaletten de öte şekilde ödenecektir. İlk olarak, Karakaya Dağı'nın (Karakaya(Blackrock) Mountain) derinliklerine inmeli ve Karakaya Doruğu'nun (Karakaya(Blackrock) Spire) alt salonlarında dolanan Derebeyi Wyrmthalak'ın (Overlord Wyrmthalak) gözünü kapmalısın.",
     ["Objectives"]="Wyrmthalak'ın Gözü'nü ele geçir ve onu Gizemli Posta Kutusu'na getir.",
     ["Progress"]="Geri döndün.",
     ["Completion"]="Güzel...",
@@ -30893,10 +30893,10 @@ QuestTranslator_QuestData = {
 
 -- Parmakkıran
     ["41541"] = {
-    -- Dark Irons -> Kara Demirler, Karakaya(Blackrock) Mountain -> Karataş Dağı, Bargul.
+    -- Dark Irons -> Kara Demirler, Karakaya(Blackrock) Mountain -> Karakaya Dağı, Bargul.
     -- Fingerbreaker -> Parmakkıran (balyoz ismi). Mathias Brightheart -> Mathias Aydınlıkbüyü, Fray Island -> Kavga Adası, Nora. High Foreman -> Baş Ustabaşı.
     ["Title"]="Parmakkıran",
-    ["Description"]="Tüm cüceler takdir edilmeye layık değildir, bu yüzden bazıları onur ve ahlaktan yoksundur. Başkaları hakkında böyle konuşmak beni üzse de, Kara Demirler (the Dark Irons) çoğunun kurtarılamaz olarak göreceği bir itibar kazandı. Bunun doğru olup olmayacağını sadece gelecek söyleyebilir – yarının endişesi, o halde. Efendilerinin iradesine hizmet etmek için fütursuz bir girişimde bulunan Karataş Dağı (the Karakaya(Blackrock) Mountain) cüceleri, alacakaranlık müttefiklerini çağırdılar ve topraklarının doğusuna bir taş ocağı kazdılar. Bargul adında aşağılık bir adam oradaki işleri denetliyor. Söylentilere göre Parmakkıran (Fingerbreaker) adında bir balyoz taşıyor – çünkü bunu kotasını doldurmayanların parmaklarını kırmak için kullanıyor. Onun kemiklerini kıracak ve o balyozu geri alacaksın. Genelde başkalarının sonunun gelmesini istemesem de, o adam başına geleceği hak ediyor.",
+    ["Description"]="Tüm cüceler takdir edilmeye layık değildir, bu yüzden bazıları onur ve ahlaktan yoksundur. Başkaları hakkında böyle konuşmak beni üzse de, Kara Demirler (the Dark Irons) çoğunun kurtarılamaz olarak göreceği bir itibar kazandı. Bunun doğru olup olmayacağını sadece gelecek söyleyebilir – yarının endişesi, o halde. Efendilerinin iradesine hizmet etmek için fütursuz bir girişimde bulunan Karakaya Dağı (the Karakaya(Blackrock) Mountain) cüceleri, alacakaranlık müttefiklerini çağırdılar ve topraklarının doğusuna bir taş ocağı kazdılar. Bargul adında aşağılık bir adam oradaki işleri denetliyor. Söylentilere göre Parmakkıran (Fingerbreaker) adında bir balyoz taşıyor – çünkü bunu kotasını doldurmayanların parmaklarını kırmak için kullanıyor. Onun kemiklerini kıracak ve o balyozu geri alacaksın. Genelde başkalarının sonunun gelmesini istemesem de, o adam başına geleceği hak ediyor.",
     ["Objectives"]="Parmakkıran'ı (Fingerbreaker) Kavga Adası'ndaki (Fray Island) Mathias Aydınlıkbüyü'ye (Mathias Brightheart) geri götür.",
     ["Progress"]="Öğrencim, seni harıl harıl çalışırken görmek bir zevk. Nora bana her şeyi anlattı. Seni yapman için gönderdiği görevi bitirdin mi?",
     ["Completion"]="Nora'nın iş Baş Ustabaşı'na (the High Foreman) geldiğinde biraz kişisel davrandığını anlayabildiğini tahmin ediyorum ama o hikayesini paylaşmadıysa ben kesinlikle paylaşmayacağım. Parmakkıran'ı geri getirerek iyi iş çıkardın. Dersimize başlayalım ve sonrasında bana Bargul'un o balyozla nasıl olduğunu anlatırsın.",
@@ -31113,11 +31113,11 @@ QuestTranslator_QuestData = {
 
 -- Orman Trollü Pislikleri
     ["40495"] = {
-    -- Karfang Hold -> Karadiş Hisarı (Kar + Fang), Blackhands -> Karayeller (Klan soyadı), Gul'dan, Maim, Rend, Karakaya(Blackrock) Clan -> Karataş Klanı.
+    -- Karfang Hold -> Karadiş Hisarı (Kar + Fang), Blackhands -> Karayeller (Klan soyadı), Gul'dan, Maim, Rend, Karakaya(Blackrock) Clan -> Karakaya Klanı.
     -- War Master Voone -> Savaş Üstadı Voone, Taskmaster Ok'gog -> Baştgözcü Ok'gog, Burning Steppes -> Yanık Bozkırlar. Horde -> Güruh, Humans -> İnsanlar, True Horde -> Gerçek Güruh.
     ["Title"]="Orman Trollü Pislikleri",
-    ["Description"]="Güzel, Karadiş Hisarı'ndaki (Karfang Hold) havayı soluma hakkını kazandın. Ama senin için son bir imtihanım var. Bir kin, evet, tam olarak bu işte. Tüm Karayeller (Blackhands) ahmaktan başka bir şey değildi; babaları, lanet olası Gul'dan tarafından kandırılmış, yolunu şaşırmış bir kırmaydı. Maim'den bahsetmeye değmez bile, tam bir ahmak gibi can verdi, soyuna bundan daha fazlası yaraşmazdı zaten. Ya Rend? Rend, şu aşağılık ejderhanın önünde diz çöküyor ve Karataş Klanı'nın (Karakaya(Blackrock) Clan) tamamını felakete sürükledi. Ama bu onun en kötü kararı bile değil henüz. Bir orman kurbağasını stratejisti yaptı. Savaş Üstadı Voone (War Master Voone)? <Ok'gog bu ismi öfkeyle haykırır.> Savaş Üstadı mı? O, sonu gelmesi gereken iğrenç bir kurbağadan başka bir şey değil. Bana onun fildişlerini getir ve İnsanlar (Humans) arasında büyümüş bir sefil tarafından yönetilen Horde'un, Gerçek Horde'un eski ihtişamının en azından dörtte birine sahip olduğunu bir kez ve tamamen kanıtla.",
-    ["Objectives"]="Aşağı Karataş Doruğu'ndaki (Lower Karakaya(Blackrock) Spire) Savaş Üstadı Voone'u öldür ve fildişlerini Yanık Bozkırlar'daki (Burning Steppes) Karadiş Hisarı'nda bulunan Baştgözcü Ok'gog'a (Taskmaster Ok'gog) geri getir.",
+    ["Description"]="Güzel, Karadiş Hisarı'ndaki (Karfang Hold) havayı soluma hakkını kazandın. Ama senin için son bir imtihanım var. Bir kin, evet, tam olarak bu işte. Tüm Karayeller (Blackhands) ahmaktan başka bir şey değildi; babaları, lanet olası Gul'dan tarafından kandırılmış, yolunu şaşırmış bir kırmaydı. Maim'den bahsetmeye değmez bile, tam bir ahmak gibi can verdi, soyuna bundan daha fazlası yaraşmazdı zaten. Ya Rend? Rend, şu aşağılık ejderhanın önünde diz çöküyor ve Karakaya Klanı'nın (Karakaya(Blackrock) Clan) tamamını felakete sürükledi. Ama bu onun en kötü kararı bile değil henüz. Bir orman kurbağasını stratejisti yaptı. Savaş Üstadı Voone (War Master Voone)? <Ok'gog bu ismi öfkeyle haykırır.> Savaş Üstadı mı? O, sonu gelmesi gereken iğrenç bir kurbağadan başka bir şey değil. Bana onun fildişlerini getir ve İnsanlar (Humans) arasında büyümüş bir sefil tarafından yönetilen Horde'un, Gerçek Horde'un eski ihtişamının en azından dörtte birine sahip olduğunu bir kez ve tamamen kanıtla.",
+    ["Objectives"]="Aşağı Karakaya Doruğu'ndaki (Lower Karakaya(Blackrock) Spire) Savaş Üstadı Voone'u öldür ve fildişlerini Yanık Bozkırlar'daki (Burning Steppes) Karadiş Hisarı'nda bulunan Baştgözcü Ok'gog'a (Taskmaster Ok'gog) geri getir.",
     ["Progress"]="Hmph, Savaş Üstadı.",
     ["Completion"]="Kibirli ahmak nalları dikti. Ah, hayatta olmak ne güzel YOUR_RACE. Sana söylüyorum, hâlâ yiyip içebilecek ve öldürebilecek kadar iyiyken nefret ettiklerinin ölümünü duymak, soğuk ve acımasız bir kaderin kucaklaması gibi hissettiriyor. Ama onu kollarımızda gururla tutuyoruz ve asla bırakmayız. Güruh'un adı altında yaşamak böyle bir hayattır işte; ölümü açık kollarla ve silahlar hazır karşılarız.",
     ["minlevel"]="0",
@@ -31265,9 +31265,9 @@ QuestTranslator_QuestData = {
     ["41319"] = {
     -- Fanzy Sparkspring -> Fanzy Kıvılcımbınarı (Spark + Spring), Steamwheedle Port -> Buharlıteker Limanı.
     -- Blood of the Mountain -> Dağın Kanı, Fineous Darkvire -> Fineous Karadamar (Dark + Vire/Vein çağrışımı).
-    -- Karakaya(Blackrock) Depths -> Karataş Derinlikleri, Dark Iron Prospecting Lens -> Kara Demir Maden Merceği.
+    -- Karakaya(Blackrock) Depths -> Karakaya Derinlikleri, Dark Iron Prospecting Lens -> Kara Demir Maden Merceği.
     ["Title"]="Usta İşi Elmas Bilezikler",
-    ["Description"]="Okudukça - daha doğrusu OKUYAMADIKÇA - bu kitaplar hakkındaki tüm o gizemin, hızlıca köşeyi dönmeye çalışan burnu sümüklü bir goblinin oyunundan ibaret olduğuna daha çok inanıyorum. Sadece iki zavallı sayfada bir şeyler yazılı ve bu sayfada ise sadece tek bir cümle var! 'Güneşi kristalleşmiş kan aracılığıyla yönlendir.' Bunun ne anlama gelmesi gerekiyor ki... Dur bir dakika! Bana ilham geldi!\n\n<Fanzy eşyalarını karıştırır ve bir taslak çıkarır.>\n\nBunlar, bir türlü yapmaya fırsat bulamadığım bir mücevher merceğinin planları. Işığı, metale kazımak için kullanılan son derece güçlü bir ışın halinde toplamak üzere tasarlandı. Çok özel malzemeler gerektiriyor - ki burada sen devreye giriyorsun. 'Kristalleşmiş kan', Karataş'ın (Karakaya(Blackrock)) derinliklerinde bulunan, ele geçirilmesi son derece zor olan Dağın Kanı (Blood of the Mountain) anlamına geliyor olmalı. Mercekler için bir çerçeveye de ihtiyacım var; Karataş Derinlikleri'ndeki (Karakaya(Blackrock) Depths) Fineous Karadamar'ın (Fineous Darkvire) dağın en güçlü ısısına bile dayanıklı bir merceğe sahip olduğu bilinir. Bana ikisini de getir, ben de sayfayı deşifre edecek bir alet kurcalayayım!",
+    ["Description"]="Okudukça - daha doğrusu OKUYAMADIKÇA - bu kitaplar hakkındaki tüm o gizemin, hızlıca köşeyi dönmeye çalışan burnu sümüklü bir goblinin oyunundan ibaret olduğuna daha çok inanıyorum. Sadece iki zavallı sayfada bir şeyler yazılı ve bu sayfada ise sadece tek bir cümle var! 'Güneşi kristalleşmiş kan aracılığıyla yönlendir.' Bunun ne anlama gelmesi gerekiyor ki... Dur bir dakika! Bana ilham geldi!\n\n<Fanzy eşyalarını karıştırır ve bir taslak çıkarır.>\n\nBunlar, bir türlü yapmaya fırsat bulamadığım bir mücevher merceğinin planları. Işığı, metale kazımak için kullanılan son derece güçlü bir ışın halinde toplamak üzere tasarlandı. Çok özel malzemeler gerektiriyor - ki burada sen devreye giriyorsun. 'Kristalleşmiş kan', Karakaya'ın (Karakaya(Blackrock)) derinliklerinde bulunan, ele geçirilmesi son derece zor olan Dağın Kanı (Blood of the Mountain) anlamına geliyor olmalı. Mercekler için bir çerçeveye de ihtiyacım var; Karakaya Derinlikleri'ndeki (Karakaya(Blackrock) Depths) Fineous Karadamar'ın (Fineous Darkvire) dağın en güçlü ısısına bile dayanıklı bir merceğe sahip olduğu bilinir. Bana ikisini de getir, ben de sayfayı deşifre edecek bir alet kurcalayayım!",
     ["Objectives"]="Buharlıteker Limanı'ndaki (Steamwheedle Port) Fanzy Kıvılcımbınarı (Fanzy Sparkspring), üretim için Dağın Kanı (Blood of the Mountain) ve Fineous Karadamar'dan Kara Demir Maden Merceği (Dark Iron Prospecting Lens) talep ediyor.",
     ["Progress"]="Bu yükseltici için başlangıçta hayal ettiğim mercekler yoğun ısıya dayanacak şekilde kesilmemişti. Ancak dağın kanı ve kara demir muhafaza ile başarılı olmak için iyi bir şansımız olabilir.",
     ["Completion"]="Mükemmel iş. Bu mücevherlerden birini ele geçirmek bile başlı başına bir başarıyken, üç tane getirmek için ne kadar çaba sarf ettiğini hayal bile edemiyorum! Tamam, her şeyi teslim et, bir BAŞYAPIT yaratacak havadayım!\n\n<Fanzy malzemeleri kapar ve minik ellerini aceleyle hareket ettirir. Birkaç dakika sonra, narin merceği doğrudan boş sayfanın önünde güneş ışığına doğru tutar. Şaşırtıcı bir şekilde, odaklanmış ışık ışını sayfayı yakmak yerine, önceden bomboş olan kağıt üzerinde özenli cümleler oluşturur.>\n\nBULDUM! Tam bir başarı! Emeğimizin meyvelerini toplama zamanı! Gel buraya, birlikte okuyalım!",
@@ -31647,12 +31647,12 @@ QuestTranslator_QuestData = {
 -- Parlayan Kan
     ["41361"] = {
     -- Blood of the Mountain -> Dağın Kanı. Thaurissan kalmıştır.
-    -- Karakaya(Blackrock) -> Karataş Dağı.
+    -- Karakaya(Blackrock) -> Karakaya Dağı.
     ["Title"]="Parlayan Kan",
     ["Description"]="<Dayanılmaz dumanlar görmeyi zorlaştırıyor, ancak kaynayan toprakta bulduğun şey dokunulduğunda yakıcı olan, can canlı bir kristaldir. Değerinin muazzam derecede yüksek olduğunu tahmin etsen de, taşı düzgün bir şekilde kesecek uzmanlığa sahip olmadığın için mücevher üzerinde çalışmaya cesaret edemiyorsun. Görünüşe göre sana bu tür becerileri öğretebilecek birini bulman gerekiyor.>",
     ["Objectives"]="Sana bu yakıcı değerli taş hakkında öğretecek birini bul.",
     ["Progress"]="Yabancı, umarım burada iyi bir sebepten ötürü bulunuyorsundur.",
-    ["Completion"]="Dağın Kanı (Blood of the Mountain) mı! Thaurissan'ın sadık adamları Karataş (Karakaya(Blackrock)) ve çevresindeki tüm madencilik operasyonlarının kontrolünü ele geçirdiğinden beri, bu güzelliklerden birini ele geçirmek gerçekten çok zor oldu. Ve bu sanki özel bir türe benziyor...",
+    ["Completion"]="Dağın Kanı (Blood of the Mountain) mı! Thaurissan'ın sadık adamları Karakaya (Karakaya(Blackrock)) ve çevresindeki tüm madencilik operasyonlarının kontrolünü ele geçirdiğinden beri, bu güzelliklerden birini ele geçirmek gerçekten çok zor oldu. Ve bu sanki özel bir türe benziyor...",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Gleaming Blood
@@ -32445,12 +32445,12 @@ QuestTranslator_QuestData = {
     ["40539"] = {
     -- Engineer Figgles -> Mühendis Figgles. Nefarian, Worg Mistress Katalla -> Worg Azizesi Katalla kalmıştır.
     -- Dark irons -> Kara Demirler, Hateforge Quarry -> Nefretocağı Madeni (Hate + Forge).
-    -- Karfang, Karakaya(Blackrock) Clan -> Karataş Kabilesi kalmıştır.
+    -- Karfang, Karakaya(Blackrock) Clan -> Karakaya Kabilesi kalmıştır.
     ["Title"]="Mühendis Figgles Avı",
     ["Description"]="Mühendis Figgles. Bu yaratık  Nefarian'ın kibrine sahip. Şimdiye kadar yarattığı her şeyin üzerine kendi adını koyacak kadar küstah kim olabilir ki. Heyhat, bu bizim lehimize. Kara Demirlerin (dark irons) bu eniklerle ne planladığından emin değilim ama onları kesinlikle durdurmalıyız. Başlayacak hiçbir yerimiz olmamasına rağmen, kabilemin saygısını kazanmış senin gibi cesur bir savaşçının bu Figgles'ı kesinlikle bulabileceğinden eminim. Bir worg'un hızıyla git ve damarlarındaki kan bin lav havuzunun öfkesiyle yansın.",
     ["Objectives"]="Worg Azizesi Katalla (Worg Mistress Katalla) için Nefretocağı Madeni'ndaki (Hateforge Quarry) Mühendis Figgles'ı öldür.",
     ["Progress"]="Onun işini bitirdin mi?",
-    ["Completion"]="Kara Demirlerin yeni bir taş ocağı mı var? Ne kazıyorlardı ki? Sen buna bir son verdiğin için artık bir önemi olmasa da, bunu Karfang'a bildirmeliyim. Çabalarının ödüllendirildiğini görmek isteyen istekli kabile üyelerinden birkaç şey toplamayı başardım ama sadece birini seçebilirsin. Karataş Kabilesi'nin (Karakaya(Blackrock) Clan) yöntemi böyledir.",
+    ["Completion"]="Kara Demirlerin yeni bir taş ocağı mı var? Ne kazıyorlardı ki? Sen buna bir son verdiğin için artık bir önemi olmasa da, bunu Karfang'a bildirmeliyim. Çabalarının ödüllendirildiğini görmek isteyen istekli kabile üyelerinden birkaç şey toplamayı başardım ama sadece birini seçebilirsin. Karakaya Kabilesi'nin (Karakaya(Blackrock) Clan) yöntemi böyledir.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Hunting Engineer Figgles
@@ -38669,13 +38669,13 @@ QuestTranslator_QuestData = {
     -- Renegade gnolls -> Haydut gnollar / Dönek gnollar. Small dog brains -> Küçük köpek beyinleri.
     -- Logistics guy -> Lojistikçi. Supply convoys -> Erzak kervanları, weapons -> silahlar, tools -> aletler.
     -- Vultures and hyenas -> Akbabalar ve sırtlanlar, wrecked carts -> enkaz kervan arabaları.
-    -- Blackstone Island -> Karataş Adası (Black + Stone). Rustgate Tools -> Paslıkapı Aletleri.
+    -- Blackstone Island -> Karakaya Adası (Black + Stone). Rustgate Tools -> Paslıkapı Aletleri.
     -- Supplymaster Maxlo -> İaşe Amiri Maxlo kalmıştır. Rustgate Ridge -> Paslıkapı Sırtı.
     -- Sparkwater = Kıvılcımsuyu. Salvage -> Kurtarmak / Hurda toplamak. Normalcy -> Normallik / Eski düzen.
     ["41164"] = {
     ["Title"]="Kervanları Kurtarmak",
     ["Description"]="Aşağıdaki kömür ocaklarındaki (coalpits) tüm pislikleri temizleyen o gelecek vaat eden işçi sen misin? Adına yakışır bir şeylerin olmalı, kardeşim kulesine gizlice sızmaya çalışan ocaktaki herkesi genellikle dışarı atar. Dürüst olmak gerekirse, yeteneklerini (abilities) kullanabilirim. Son haftalarda haydut gnollar (renegade gnolls) tarafından giderek daha fazla pusuya düşürüldük. Küçük köpek beyinleri (small dog brains) şiddet ve kaos arıyor, bir lojistikçi olarak anlayamadığım bir şey. Erzak kervanlarımıza (supply convoys) baskın düzenlediler ve çoğunlukla yiyecek ve silah çaldılar, ancak aletlerin çoğunu etrafta bıraktılar. Onlar için fazla gelişmiş olduğuna eminim. O aletlere mümkün olan en kısa sürede ihtiyacımız var. Akbabalar ve sırtlanlar (vultures and hyenas) enkaz halindeki arabaların etrafında dolanıyor, buraya geri dönemeyenlerin üzerinde ziyafet çekiyorlar. Onları adanın her yerine dağılmış halde bulabilirsin, gözden kaçırmanın imkanı yok.",
-    ["Objectives"]="Karataş Adası'nın (Blackstone Island) dört bir yanındaki kırık kervanlardan Paslıkapı Aletleri'ni (Rustgate Tools) geri al. Onları Paslıkapı Sırtı'ndaki İaşe Amiri Maxlo'ya (Supplymaster Maxlo) ulaştır.",
+    ["Objectives"]="Karakaya Adası'nın (Blackstone Island) dört bir yanındaki kırık kervanlardan Paslıkapı Aletleri'ni (Rustgate Tools) geri al. Onları Paslıkapı Sırtı'ndaki İaşe Amiri Maxlo'ya (Supplymaster Maxlo) ulaştır.",
     ["Progress"]="Kıvılcımsuyu'ndan (Sparkwater) istediğimiz sıklıkta yeni erzak alamıyoruz, bu yüzden kurtarabildiğimiz (salvage) kadar çok şeyi kurtarmalıyız.",
     ["Completion"]="Hm, hava durumu onlara pek iyi gelmemiş. Ama işçilerin onaramayacağı hiçbir şey yok. Orada iyi iş çıkardın. Böyle devam edersen yakında bu adada eski düzeni (normalcy) yeniden sağlayabiliriz.",
     ["minlevel"]="0",
@@ -39162,13 +39162,13 @@ QuestTranslator_QuestData = {
     -- Renegade gnolls -> Haydut gnollar / Dönek gnollar. Small dog brains -> Küçük köpek beyinleri.
     -- Logistics guy -> Lojistikçi. Supply convoys -> Erzak kervanları, weapons -> silahlar, tools -> aletler.
     -- Vultures and hyenas -> Akbabalar ve sırtlanlar, wrecked carts -> enkaz kervan arabaları.
-    -- Blackstone Island -> Karataş Adası (Black + Stone). Rustgate Tools -> Paslıkapı Aletleri.
+    -- Blackstone Island -> Karakaya Adası (Black + Stone). Rustgate Tools -> Paslıkapı Aletleri.
     -- Supplymaster Maxlo -> İaşe Amiri Maxlo kalmıştır. Rustgate Ridge -> Paslıkapı Sırtı.
     -- Sparkwater = Kıvılcımsuyu. Salvage -> Kurtarmak / Hurda toplamak. Normalcy -> Normallik / Eski düzen.
     ["41164"] = {
     ["Title"]="Kervanları Kurtarmak",
     ["Description"]="Aşağıdaki kömür ocaklarındaki (coalpits) tüm pislikleri temizleyen o gelecek vaat eden işçi sen misin? Adına yakışır bir şeylerin olmalı, kardeşim kulesine gizlice sızmaya çalışan ocaktaki herkesi genellikle dışarı atar. Dürüst olmak gerekirse, yeteneklerini (abilities) kullanabilirim. Son haftalarda haydut gnollar (renegade gnolls) tarafından giderek daha fazla pusuya düşürüldük. Küçük köpek beyinleri (small dog brains) şiddet ve kaos arıyor, bir lojistikçi olarak anlayamadığım bir şey. Erzak kervanlarımıza (supply convoys) baskın düzenlediler ve çoğunlukla yiyecek ve silah çaldılar, ancak aletlerin çoğunu etrafta bıraktılar. Onlar için fazla gelişmiş olduğuna eminim. O aletlere mümkün olan en kısa sürede ihtiyacımız var. Akbabalar ve sırtlanlar (vultures and hyenas) enkaz halindeki arabaların etrafında dolanıyor, buraya geri dönemeyenlerin üzerinde ziyafet çekiyorlar. Onları adanın her yerine dağılmış halde bulabilirsin, gözden kaçırmanın imkanı yok.",
-    ["Objectives"]="Karataş Adası'nın (Blackstone Island) dört bir yanındaki kırık kervanlardan Paslıkapı Aletleri'ni (Rustgate Tools) geri al. Onları Paslıkapı Sırtı'ndaki İaşe Amiri Maxlo'ya (Supplymaster Maxlo) ulaştır.",
+    ["Objectives"]="Karakaya Adası'nın (Blackstone Island) dört bir yanındaki kırık kervanlardan Paslıkapı Aletleri'ni (Rustgate Tools) geri al. Onları Paslıkapı Sırtı'ndaki İaşe Amiri Maxlo'ya (Supplymaster Maxlo) ulaştır.",
     ["Progress"]="Kıvılcımsuyu'ndan (Sparkwater) istediğimiz sıklıkta yeni erzak alamıyoruz, bu yüzden kurtarabildiğimiz (salvage) kadar çok şeyi kurtarmalıyız.",
     ["Completion"]="Hm, hava durumu onlara pek iyi gelmemiş. Ama işçilerin onaramayacağı hiçbir şey yok. Orada iyi iş çıkardın. Böyle devam edersen yakında bu adada eski düzeni (normalcy) yeniden sağlayabiliriz.",
     ["minlevel"]="0",
@@ -39717,12 +39717,12 @@ QuestTranslator_QuestData = {
 -- Searching Wreckage
     -- Diving wreckages -> enkaz dalışları. Bruiser -> fedai, gold coin -> altın sikke.
     -- Sparkwater Port -> Kıvılcımsuyu Limanı (Sparkwater + Port). Crates -> kasalar, logbook -> seyir defteri.
-    -- Goblins -> goblinler, Blackstone -> Karataş Adası (Blackstone Island kastediliyor). Murlocs -> murloclar.
+    -- Goblins -> goblinler, Blackstone -> Karakaya Adası (Blackstone Island kastediliyor). Murlocs -> murloclar.
     -- Taxxlo Rustgate -> Taxxlo Paslıkapı kalmıştır. Maxlo -> Maxlo kalmıştır.
     -- Venture Co. Logbook -> Venture Şirketi Seyir Defteri.
     ["41171"] = {
     ["Title"]="Enkazı Aramak",
-    ["Description"]="Enkaz dalışlarına (diving wreckages) aşina olduğunu duydum? Oh, şaşırdın mı? Benim kulağımdan hiçbir şey kaçmaz, ufaklık; bu yüzden buralarda şüpheli bir şeyler yapmayı düşünme bile. Daha sen 'altın sikke' (gold coin) diyemeden arkana bir fedai (bruiser) takarım. Doğu kıyısında başka bir gemi battı, korsan gemisi değil,  Kıvılcımsuyu Limanı'ndan (Sparkwater Port) gelen bir gemi. Üzerinde çok sayıda kasa (crates) ve yeni işçiler vardı. Kullanışlı erzakların çoğunu zaten kurtardık ama seyir defterini (logbook) bulacak kadar şanslı değildik. Ne? Evet, gemideki bazı goblinler (goblins) de kayboldu; ama bana sorarsan, eğer basit bir enkazdan sağ çıkamıyorlarsa, Karataş (Blackstone) onlar için uygun bir yer değildir. Bana o seyir defterini getir ve oradaki murloclara (murlocs) dikkat et. Bu lanet şeyi geri alırken daha fazla iş gücü kaybetmek istemiyorum.",
+    ["Description"]="Enkaz dalışlarına (diving wreckages) aşina olduğunu duydum? Oh, şaşırdın mı? Benim kulağımdan hiçbir şey kaçmaz, ufaklık; bu yüzden buralarda şüpheli bir şeyler yapmayı düşünme bile. Daha sen 'altın sikke' (gold coin) diyemeden arkana bir fedai (bruiser) takarım. Doğu kıyısında başka bir gemi battı, korsan gemisi değil,  Kıvılcımsuyu Limanı'ndan (Sparkwater Port) gelen bir gemi. Üzerinde çok sayıda kasa (crates) ve yeni işçiler vardı. Kullanışlı erzakların çoğunu zaten kurtardık ama seyir defterini (logbook) bulacak kadar şanslı değildik. Ne? Evet, gemideki bazı goblinler (goblins) de kayboldu; ama bana sorarsan, eğer basit bir enkazdan sağ çıkamıyorlarsa, Karakaya (Blackstone) onlar için uygun bir yer değildir. Bana o seyir defterini getir ve oradaki murloclara (murlocs) dikkat et. Bu lanet şeyi geri alırken daha fazla iş gücü kaybetmek istemiyorum.",
     ["Objectives"]="Venture Şirketi Seyir Defteri'ni (Venture Co. Logbook) ele geçir ve onu Taxxlo Paslıkapı'ya (Taxxlo Rustgate) getir.",
     ["Progress"]="Zaman daralıyor.",
     ["Completion"]="İşte görmek istediğim şey bu. Sadece on iki denememizi aldı. Bu listelere sahip olmak Maxlo'yu (Maxlo) fazlasıyla neşelendirecek.",
@@ -40111,7 +40111,7 @@ QuestTranslator_QuestData = {
     -- Duty -> görev, politics -> siyaset, Horde and Alliance -> Horde ve Alliance. Honor -> onur, Kaldorei -> Kaldorei.
     -- Innocent blood -> masum kanı, diplomat -> diplomat. Precarious situation -> riskli / istikrarsiz durum.
     -- Centaur -> centaur / kentavr, Freewind -> Özgürrüzgar (Freewind Post kastediliyor). Defenses -> savunmalar, bracers -> kolluklar, deed -> eylem / iş.
-    -- Elune's light -> Elune'un ışığı. Galak Bracers -> Galak Kollukları. Commander Anashya Starfall -> Komutan Anashya Yıldızdüşüşü kalmıştır.
+    -- Elune's light -> Elune'un ışığı. Galak Bracers -> Galak Kollukları. Commander Anashya Starfall -> Komutan Anashya Yıldızyağmuru kalmıştır.
     -- Thalanaar = Thalanaar. Thousand Needles = Bin İğne (Thousand Needles). Crucial time -> kritik zaman. Gratitude -> şükran, hearts -> kalpler.
     ["41054"] = {
     ["Title"]="Bir Daha Asla Utanç Duyulmasın",
@@ -40185,13 +40185,13 @@ QuestTranslator_QuestData = {
     }, -- end Shatterblade Stew
     -- She Sells Sea Shells
     -- Shellcoin -> Kabukpara (Shell + Coin). Trade prince -> ticaret prensi.
-    -- Rustgate's tower -> Paslıkapı'nın kulesi. Blackstone Island -> Karataş Adası.
+    -- Rustgate's tower -> Paslıkapı'nın kulesi. Blackstone Island -> Karakaya Adası.
     -- Schera Framesnap -> Schera Kareşipşak kalmıştır. Gazzik's Workshop -> Gazzik'in Atölyesi (Gazzik + Workshop).
-    -- Blackstone Sea Shells -> Karataş Deniz Kabukları. Eastern beach -> doğu sahili. Goldforsaken island -> altın tarafından terk edilmiş ada.
+    -- Blackstone Sea Shells -> Karakaya Deniz Kabukları. Eastern beach -> doğu sahili. Goldforsaken island -> altın tarafından terk edilmiş ada.
     ["41176"] = {
     ["Title"]="Deniz Kabuğu Satar",
     ["Description"]="Hey, ortak, hiç Kabukpara (Shellcoin) diye bir şey duydun mu? Parasal girişimlerinde yüksekleri hedeflemek isteyenler arasında tam bir çılgınlık. Kendi ticaret prensin (trade prince) olma yolunda hızlı ve güvenilir bir başlangıç yapmanın başka bir yolu yok! Bu işin tek pürüzü şu: Kabukpara ticaretine başlamak için bile bir bütçeye ihtiyacın var! Ve Paslıkapı'nın (Rustgate) kulesindekiler hariç hiç kimsede bunun için yeterli altın yok. Ancak, ben olduğum o dahi deha sayesinde, şimdiden parlak bir çözüm buldum! Bu adada karaya vuran kabuklar, Kabukpara ile neredeyse tamamen aynı görünüyor! Tamam, teklif şu: Bana o kabuklardan yeteri kadar getir ve onları yarı yarıya bölüşelim. Onları buranın hemen kuzeyindeki plaj boyunca veya sahilde dolaşıp onları topluyor gibi görünen gnollardan bulabilirsin. Yirmi tane topladığında bana geri dön, zengin olabiliriz!",
-    ["Objectives"]="Schera Framesnap için Gazzik'in Atölyesi'ndeki (Gazzik's Workshop) doğu sahili boyunca 20 Karataş Deniz Kabuğu (Blackstone Sea Shells) topla.",
+    ["Objectives"]="Schera Framesnap için Gazzik'in Atölyesi'ndeki (Gazzik's Workshop) doğu sahili boyunca 20 Karakaya Deniz Kabuğu (Blackstone Sea Shells) topla.",
     ["Progress"]="O güzelim, güzelim altın sikkelerin tadını şimdiden alabiliyorum! Haha!",
     ["Completion"]="Ah, deniz ganimeti, sanki bir asmadaki üzümler gibi toplanmak için karaya vurmuş! Eğer bu altın tarafından terk edilmiş adadan kurtulabilirsek, zengin olacağız! ZENGİN DİYORUM SANA!<Schera bir sırtlan gibi kıkırdamaya başlar.>",
     ["minlevel"]="0",
@@ -40535,13 +40535,13 @@ QuestTranslator_QuestData = {
     }, -- end Snowball Wars: Episode II
 
 -- Solutions On Their Way
-    -- Disaster -> felaket, span of time -> zaman dilimi. Monetary failure -> parasal başarısızlık, alliance -> ittifak, Horde = Horde. Benefactors -> velinimetler, Orgrimmar = Orgrimmar, resources -> kaynaklar. Blackstone Island -> Karataş Adası. Wishful thinking -> hüsnükuruntu. Trip -> yolculuk, Rustgate -> Paslıkapı, chaos -> kaos.
+    -- Disaster -> felaket, span of time -> zaman dilimi. Monetary failure -> parasal başarısızlık, alliance -> ittifak, Horde = Horde. Benefactors -> velinimetler, Orgrimmar = Orgrimmar, resources -> kaynaklar. Blackstone Island -> Karakaya Adası. Wishful thinking -> hüsnükuruntu. Trip -> yolculuk, Rustgate -> Paslıkapı, chaos -> kaos.
     -- Taxxlo Rustgate -> Taxxlo Paslıkapı kalmıştır. Ugly mug -> çirkin surat.
     -- Blastentom -> Blastentom kalmıştır (Nert Blastentom kastediliyor). Tower -> kule. Both of our sakes -> ikimizin iyiliği için.
     ["41170"] = {
     ["Title"]="Çözümler Yolda",
-    ["Description"]="Bu tam bir felaket (disaster)! Bu kadar kısa bir zaman diliminde bu nasıl olabilir? Bu sadece parasal bir başarısızlık değil, aynı zamanda Horde ile olan ittifakımıza karşı da potansiyel bir tehdit! Orgrimmar'daki (Orgrimmar) velinimetlerimize sabit bir oranda yeni kaynaklar sözü vermiştim, ancak Karataş Adası'nda (Blackstone Island) olanlarla birlikte, bu sadece hüsnükuruntudan ibaret kalacak. YOUR_NAME, Karataş Adası'na bir sonraki yolculuğa çık ve bu berbat operasyonu kurtarmada Paslıkapı'ya (Rustgate) yardım et. Şimdi git, sonuç görmek istiyorum!",
-    ["Objectives"]="Karataş Adası'ndaki Taxxlo Paslıkapı'ya (Taxxlo Rustgate) geri dön.",
+    ["Description"]="Bu tam bir felaket (disaster)! Bu kadar kısa bir zaman diliminde bu nasıl olabilir? Bu sadece parasal bir başarısızlık değil, aynı zamanda Horde ile olan ittifakımıza karşı da potansiyel bir tehdit! Orgrimmar'daki (Orgrimmar) velinimetlerimize sabit bir oranda yeni kaynaklar sözü vermiştim, ancak Karakaya Adası'nda (Blackstone Island) olanlarla birlikte, bu sadece hüsnükuruntudan ibaret kalacak. YOUR_NAME, Karakaya Adası'na bir sonraki yolculuğa çık ve bu berbat operasyonu kurtarmada Paslıkapı'ya (Rustgate) yardım et. Şimdi git, sonuç görmek istiyorum!",
+    ["Objectives"]="Karakaya Adası'ndaki Taxxlo Paslıkapı'ya (Taxxlo Rustgate) geri dön.",
     ["Progress"]="Bekle, bu çirkin suratı (ugly mug) tanıyorum.",
     ["Completion"]="Blastentom burada neler döndüğünden memnun değil mi? Şaşırmış gibi yapayım bari. İkimizin de iyiliği için, kulemden (tower) çık ve şu kaosu temizlemeye başla!",
     ["minlevel"]="0",
@@ -41978,12 +41978,12 @@ QuestTranslator_QuestData = {
 
 -- The Big Man
     -- Big man -> büyük adam / büyük patron. Report -> rapor, Taxxlo Rustgate -> Taxxlo Paslıkapı kalmıştır.
-    -- Rustgate Ridge -> Paslıkapı Sırtı, Blackstone Island -> Karataş Adası. Venture Company -> Risk Şirketi (Venture Co.).
+    -- Rustgate Ridge -> Paslıkapı Sırtı, Blackstone Island -> Karakaya Adası. Venture Company -> Risk Şirketi (Venture Co.).
     -- Mudpaw Gnolls -> Çamurlupençe Gnolları (Mud + Paw). Gold -> altın. Tower -> kule.
     ["41266"] = {
     ["Title"]="Büyük Patron",
     ["Description"]="Bak, seninle açık konuşacağım, işler hiç de iyi görünmüyor ve büyük adamın (the big man) bunu duyması gerekecek. Şu anda en iyi durumda olmadığımıza dair zaten bir fikri var ama bunu duyduğunda tepesi tamamen atacaktır. Bu yüzden küçük bir eski iyiliğe ihtiyacım olacak. Neden bu raporu (report) alıp kasabadaki kulenin tepesindeki Taxxlo Rustgate'e götürmüyorsun? Bu konuda aceleci davrandığından emin ol, beklemeyi hiç sevmez.",
-    ["Objectives"]="Ozzick'in Raporu'nu (Ozzick's Report) Karataş Adası'ndaki (Blackstone Island) Paslıkapı Sırtı'nda (Rustgate Ridge) bulunan Taxxlo Rustgate'e ulaştır.",
+    ["Objectives"]="Ozzick'in Raporu'nu (Ozzick's Report) Karakaya Adası'ndaki (Blackstone Island) Paslıkapı Sırtı'nda (Rustgate Ridge) bulunan Taxxlo Rustgate'e ulaştır.",
     ["Progress"]="Beni rahatsız etmek için iyi bir sebebin olsa iyi olur.",
     ["Completion"]="<Taxxlo raporu okumaya başlar, geçen her saniyeyle birlikte yüzü daha da öfkelenir.> Risk Şirketi (Venture Company) Çamurlupençe Gnollarıyla (Mudpaw Gnolls) mı çalışıyor?! Önce arkamızdan altın (gold) saçıyoruz, şimdi de bu mu! <Taxxlo düşünmek için uzun bir süre ayırır> Ben seni bu kuleden (tower) aşağı fırlatmadan önce defol git buradan.",
     ["minlevel"]="0",
@@ -43211,13 +43211,13 @@ QuestTranslator_QuestData = {
     }, -- end The Hermit's Wrath
 
 -- The Horn of Binding
-    -- Trainee druids Hyjal Third War scarred land nuanced teachings druidic magic craft Horn of Binding -> Üçüncü Savaş toprakları yaralamadan çok önce Hyjal druidleriyle bir stajyerdim druid büyüsünün daha incelikli öğretilerini öğrenme şansım oldu 'Bağlama Boynuzu' adında bir eşya işlemeyi öğrendim. Work craft new horn bind natural energies Winterspring require materials lands Hyjal -> yeni bir boynuz işlemek ve onu buradaki Winterspring'in doğal enerjilerine bağlamak için çalışıyorum ancak hem bu topraklardan hem de Hyjal'dan daha fazla malzemeye ihtiyacım var. Beaks Greathorn Owls native Hyjal Vilemusk Horn Satyr dwell titled 'Bracing of Nature' Nordanaar Moontouched Amulet local Owlbeasts Winterspring -> Hyjal'a özgü Büyükboynuz Baykuşlarının gagaları orada barınan Satırlardan bir Tekinsizmiski Boynuzu Nordanaar'da bulunabilecek 'Doğanın Canlandırılışı' başlıklı bir kitap ve son olarak buradaki yerel Baykuş canavarlardan bir Ay dokunuşlu Muska Winterspring. Greathorn Beaks -> Büyükboynuz Gagaları, Vilemusk Horn -> Tekinsizmiski Boynuzu, 'Bracing of Nature' -> 'Doğanın Canlandırılışı', Moontouched Amulet -> Aydokunuşlu Muska. Everwyl Moonseeker -> Everwyl Ayearayan kalmıştır, Starfall Village -> Yıldızdüşüşü Köyü (Starfall Village), Winterspring = Kışbaharı (Winterspring). Materials dangerous obtain implore caution searching -> malzemeleri elde etmek tehlikeli olacaktır ararken dikkatli olmanı rica ediyorum. Creation finally begin courageous selfless efforts YOUR_NAME many days weeks read old book remember steps finish ordeal -> Bağlama Boynuzu'nun yaratılışı nihayet başlayacak cesur ve bencil olmayan çabaların sayesinde günlerce haftalarca bu eski kitabı okuyup bu çileyi bitirmek için gerekli adımları hatırlamam gerekecek. Thank tokens time spent Hyjal long years ago serve better collecting dust Starfall Village -> teşekkür etmeliyim uzun yıllar önce Hyjal'da geçirdiğim zamanın nişanlarıdır burada benimle Yıldızdüşüşü Köyü'nde toz toplamak yerine sana daha iyi hizmet etsinler.
+    -- Trainee druids Hyjal Third War scarred land nuanced teachings druidic magic craft Horn of Binding -> Üçüncü Savaş toprakları yaralamadan çok önce Hyjal druidleriyle bir stajyerdim druid büyüsünün daha incelikli öğretilerini öğrenme şansım oldu 'Bağlama Boynuzu' adında bir eşya işlemeyi öğrendim. Work craft new horn bind natural energies Winterspring require materials lands Hyjal -> yeni bir boynuz işlemek ve onu buradaki Winterspring'in doğal enerjilerine bağlamak için çalışıyorum ancak hem bu topraklardan hem de Hyjal'dan daha fazla malzemeye ihtiyacım var. Beaks Greathorn Owls native Hyjal Vilemusk Horn Satyr dwell titled 'Bracing of Nature' Nordanaar Moontouched Amulet local Owlbeasts Winterspring -> Hyjal'a özgü Büyükboynuz Baykuşlarının gagaları orada barınan Satırlardan bir Tekinsizmiski Boynuzu Nordanaar'da bulunabilecek 'Doğanın Canlandırılışı' başlıklı bir kitap ve son olarak buradaki yerel Baykuş canavarlardan bir Ay dokunuşlu Muska Winterspring. Greathorn Beaks -> Büyükboynuz Gagaları, Vilemusk Horn -> Tekinsizmiski Boynuzu, 'Bracing of Nature' -> 'Doğanın Canlandırılışı', Moontouched Amulet -> Aydokunuşlu Muska. Everwyl Moonseeker -> Everwyl Ayearayan kalmıştır, Starfall Village -> Yıldızyağmuru Köyü (Starfall Village), Winterspring = Kışbaharı (Winterspring). Materials dangerous obtain implore caution searching -> malzemeleri elde etmek tehlikeli olacaktır ararken dikkatli olmanı rica ediyorum. Creation finally begin courageous selfless efforts YOUR_NAME many days weeks read old book remember steps finish ordeal -> Bağlama Boynuzu'nun yaratılışı nihayet başlayacak cesur ve bencil olmayan çabaların sayesinde günlerce haftalarca bu eski kitabı okuyup bu çileyi bitirmek için gerekli adımları hatırlamam gerekecek. Thank tokens time spent Hyjal long years ago serve better collecting dust Starfall Village -> teşekkür etmeliyim uzun yıllar önce Hyjal'da geçirdiğim zamanın nişanlarıdır burada benimle Yıldızyağmuru Köyü'nde toz toplamak yerine sana daha iyi hizmet etsinler.
     ["40876"] = {
     ["Title"]="Bağlama Boynuzu",
     ["Description"]="Üçüncü Savaş (Third War) toprakları yaralamadan çok önce Hyjal (Hyjal) druidleriyle bir stajyerdim (trainee). Druid büyüsünün (druidic magic) daha incelikli öğretilerinin çoğunu öğrenme şansım oldu ve orada 'Bağlama Boynuzu' (The Horn of Binding) adında bir Eşya işlemeyi öğrendim. Yeni bir boynuz işlemek ve onu buradaki Kışbaharı'nın (Winterspring) doğal enerjilerine bağlamak (bind) için çalışıyorum, ancak hem bu topraklardan hem de Hyjal'dan daha fazla malzemeye (materials) ihtiyacım var. Şunlara ihtiyacım var: Hyjal'a özgü Büyükboynuz Baykuşlarının gagaları (beaks of Greathorn Owls), yine orada barınan Satırlardan (Satyr) bir Tekinsizmiski Boynuzu (Vilemusk Horn), Nordanaar'da bulunabilecek 'Doğanın Canlandırılışı' ('Bracing of Nature') başlıklı bir kitap ve son olarak buradaki yerel Baykuş canavarlardan (Owlbeasts) bir Aydokunuşlu Muska (Moontouched Amulet).",
-    ["Objectives"]="Yıldızdüşüşü Köyü'ndeki (Starfall Village) Everwyl Moonseeker'a 6 Büyükboynuz Gagası (Greathorn Beaks), 1 Tekinsizmiski Boynuzu (Vilemusk Horn), 'Doğanın Canlandırılışı' ('Bracing of Nature') kitabını ve bir Aydokunuşlu Muska (Moontouched Amulet) ulaştır.",
+    ["Objectives"]="Yıldızyağmuru Köyü'ndeki (Starfall Village) Everwyl Moonseeker'a 6 Büyükboynuz Gagası (Greathorn Beaks), 1 Tekinsizmiski Boynuzu (Vilemusk Horn), 'Doğanın Canlandırılışı' ('Bracing of Nature') kitabını ve bir Aydokunuşlu Muska (Moontouched Amulet) ulaştır.",
     ["Progress"]="Bu malzemeleri (materials) elde etmek tehlikeli olacaktır, bu yüzden onları ararken dikkatli olmanı rica ediyorum (implore you to use caution).",
-    ["Completion"]="Bağlama Boynuzu'nun (Horn of Binding) yaratılışı nihayet başlayacak, bunda  senin cesur ve bencil olmayan çabalarının (courageous and selfless efforts) payı hiç de az değil, YOUR_NAME. Bu eski kitabı (old book) baştan sona okumam ve bu çileyi (ordeal) bitirmek için gerekli adımları hatırlamam şüphesiz günlerimi, hatta haftalarımı alacaktır. Benim için yaptıklarından ötürü sana teşekkür etmeliyim. Lütfen bu eşyaları al. Bunlar uzun yıllar önce Hyjal'da geçirdiğim zamanın nişanlarıdır (tokens)... Burada benimle Yıldızdüşüşü Köyü'nde (Starfall Village) toz toplamak yerine sana daha iyi hizmet etsinler.",
+    ["Completion"]="Bağlama Boynuzu'nun (Horn of Binding) yaratılışı nihayet başlayacak, bunda  senin cesur ve bencil olmayan çabalarının (courageous and selfless efforts) payı hiç de az değil, YOUR_NAME. Bu eski kitabı (old book) baştan sona okumam ve bu çileyi (ordeal) bitirmek için gerekli adımları hatırlamam şüphesiz günlerimi, hatta haftalarımı alacaktır. Benim için yaptıklarından ötürü sana teşekkür etmeliyim. Lütfen bu eşyaları al. Bunlar uzun yıllar önce Hyjal'da geçirdiğim zamanın nişanlarıdır (tokens)... Burada benimle Yıldızyağmuru Köyü'nde (Starfall Village) toz toplamak yerine sana daha iyi hizmet etsinler.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end The Horn of Binding
@@ -43323,11 +43323,11 @@ QuestTranslator_QuestData = {
 
 -- The Hunter's Path
     -- Hunter's Path -> Avcının Yolu (Hunter + Path). Young hunter -> genç avcı, skilled -> yetenekli, handle a beast -> bir canavarla başa çıkmak, train companion -> yoldaş olarak eğitmek.
-    -- Pet -> evcil hayvan / yoldaş, unorthodox methods -> alışılmadık yöntemler. Mayten Boomrifle -> Mayten Patlarşarjör kalmıştır, Rustgate Ridge -> Paslıkapı Sırtı, Blackstone Island -> Karataş Adası. Tame -> evcilleştirmek. Business -> sadede gelmek / işe koyulmak. Experience -> Deneyim.
+    -- Pet -> evcil hayvan / yoldaş, unorthodox methods -> alışılmadık yöntemler. Mayten Boomrifle -> Mayten Patlarşarjör kalmıştır, Rustgate Ridge -> Paslıkapı Sırtı, Blackstone Island -> Karakaya Adası. Tame -> evcilleştirmek. Business -> sadede gelmek / işe koyulmak. Experience -> Deneyim.
     ["80330"] = {
     ["Title"]="Avcının Yolu",
-    ["Description"]="Merhaba, genç avcı (young hunter). Bir canavarla başa çıkacak (handle a beast) ve onu bir yoldaş olarak eğitecek kadar yetenekli görünüyorsun. Biz avcılar yanımızda bir yoldaş (pet) bulundurmaya meyilliyizdir, ancak senin gibilerin bazı... alışılmadık yöntemleri (unorthodox methods) olduğunu duyuyorum. Yine de,  bir yoldaş evcilleştirmeyi öğrenmek istiyorsan, Karataş Adası'ndaki (Blackstone Island) Paslıkapı Sırtı'nda (Rustgate Ridge) bulunan Mayten Boomrifle ile konuşmalısın. NEW_LINE NEW_LINE Tamamlama NEW_LINE İşte buradasın! Nereye kaçtığını merak ediyordum. Ortadan kaybolduğunu fark etmeyeceğimi mi sandın? Şey, en azından artık buradasın, o yüzden sadede gelelim (get down to business). NEW_LINE NEW_LINE Ödüller NEW_LINE Görevler tamamlandığında, kazanılan: NEW_LINE 850 Deneyim (Experience)",
-    ["Objectives"]="Karataş Adası'ndaki (Blackstone Island) Paslıkapı Sırtı'nda (Rustgate Ridge) bulunan Mayten Boomrifle ile konuş.",
+    ["Description"]="Merhaba, genç avcı (young hunter). Bir canavarla başa çıkacak (handle a beast) ve onu bir yoldaş olarak eğitecek kadar yetenekli görünüyorsun. Biz avcılar yanımızda bir yoldaş (pet) bulundurmaya meyilliyizdir, ancak senin gibilerin bazı... alışılmadık yöntemleri (unorthodox methods) olduğunu duyuyorum. Yine de,  bir yoldaş evcilleştirmeyi öğrenmek istiyorsan, Karakaya Adası'ndaki (Blackstone Island) Paslıkapı Sırtı'nda (Rustgate Ridge) bulunan Mayten Boomrifle ile konuşmalısın. NEW_LINE NEW_LINE Tamamlama NEW_LINE İşte buradasın! Nereye kaçtığını merak ediyordum. Ortadan kaybolduğunu fark etmeyeceğimi mi sandın? Şey, en azından artık buradasın, o yüzden sadede gelelim (get down to business). NEW_LINE NEW_LINE Ödüller NEW_LINE Görevler tamamlandığında, kazanılan: NEW_LINE 850 Deneyim (Experience)",
+    ["Objectives"]="Karakaya Adası'ndaki (Blackstone Island) Paslıkapı Sırtı'nda (Rustgate Ridge) bulunan Mayten Boomrifle ile konuş.",
     ["Progress"]="",
     ["Completion"]="İşte buradasın! Nereye kaçtığını merak ediyordum. Ortadan kaybolduğunu fark etmeyeceğimi mi sandın? Şey, en azından artık buradasın, o yüzden sadede gelelim (get down to business).",
     ["minlevel"]="0",
@@ -44198,12 +44198,12 @@ QuestTranslator_QuestData = {
 -- The Murloc Threat
     -- Murloc Threat -> Murloc Tehdidi (Murloc + Threat). Buddy, hate murlocs meal real fast responsible workers midnight snack -> dostum murloclardan nefret ediyorsun değil mi mükemmel herkes murloclardan nefret eder etmeyenler çok hızlı bir şekilde onların yemeği olur ve ben  işçilerimizden herhangi birinin bir murlocun gece yarısı atıştırmalığı olmasından sorumlu tutulmak istemem.
     -- Coast kill fishy fiends busy beating slobs back working shape slimy creatures pretend Supreme Overseer reliable scales -> kıyıya inmeni ve olabildiğince çok o balığımsı canileri (fishy fiends) öldürmeni istiyorum tembel pislikleri döverek tekrar çalışma formuna sokmakla meşgul olmayı o sümüklü yaratıklarla uğraşmaya  tercih ederim ve onları sadece öldürmüş gibi yapmayı aklından bile geçirme yoksa seni  Yüce Denetleyici'ye (Supreme Overseer) kendim sürüklerim bana pullarını (scales) getirerek güvenilir olduğunu kanıtla.
-    -- Blackstone Island -> Karataş Adası, Bruiser Rakklan -> Fedai Rakklan kalmıştır. Threatening impatiently bludgeon hand again and again -> Rakklan elindeki topuzunu (bludgeon) sabırsızca tekrar tekrar eline vurarak seni tehdit ediyor .
+    -- Blackstone Island -> Karakaya Adası, Bruiser Rakklan -> Fedai Rakklan kalmıştır. Threatening impatiently bludgeon hand again and again -> Rakklan elindeki topuzunu (bludgeon) sabırsızca tekrar tekrar eline vurarak seni tehdit ediyor .
     -- Runt freetime whip slacking coworkers pits appreciated -> fena değil bücür (runt) bu bana kaytaran iş arkadaşlarını (coworkers) tekrar maden ocaklarına  kırbaçlayıp sokmak için biraz daha boş zaman (freetime) kazandırıyor oldukça makbule geçti.
     ["41167"] = {
     ["Title"]="Murloc Tehdidi",
     ["Description"]="Pekala, dinle bakalım dostum. Murloclardan nefret ediyorsun, değil mi? Mükemmel. Herkes murloclardan nefret eder, etmeyenler çok hızlı bir şekilde onların yemeği olur. Ve ben  işçilerimizden herhangi birinin bir murlocun gece yarısı atıştırmalığı (midnight snack) olmasından sorumlu tutulmak istemem. Kıyıya inmeni ve olabildiğince çok o balığımsı caniyi (fishy fiends) öldürmeni istiyorum. Tembel pislikleri (slobs) döverek tekrar çalışma formuna sokmakla meşgul olmayı, o sümüklü yaratıklarla uğraşmaya tercih ederim. Ve onları sadece öldürmüş gibi yapmayı (pretending to kill) aklından bile geçirme, yoksa seni  Yüce Denetleyici'ye (Supreme Overseer) kendim sürüklerim. Bana pullarını (scales) getirerek güvenilir olduğunu kanıtla.",
-    ["Objectives"]="Karataş Adası (Blackstone Island) kıyılarında murloc avla ve yirmi pullarını Fedai Rakklan'a (Bruiser Rakklan) sun.",
+    ["Objectives"]="Karakaya Adası (Blackstone Island) kıyılarında murloc avla ve yirmi pullarını Fedai Rakklan'a (Bruiser Rakklan) sun.",
     ["Progress"]="<Rakklan, elindeki topuzunu (bludgeon) sabırsızca tekrar tekrar eline vurarak seni  tehdit ediyor.>",
     ["Completion"]="Fena değil bücür (runt). Bu bana kaytaran iş arkadaşlarını (slacking coworkers) tekrar maden ocaklarına (pits) kırbaçlayıp sokmak için biraz daha boş zaman kazandırıyor. Oldukça makbule geçti .",
     ["minlevel"]="0",
@@ -45414,11 +45414,11 @@ QuestTranslator_QuestData = {
 -- The Sternrock Stash
     -- Sternrock Stash -> Katıkaya Zulası kalmıştır (Stern + rock + Stash).
     -- test of loyalty -> sadakat testi, grand revenge -> büyük intikam, buried a large stash of items and gold -> büyük bir eşya ve altın zulası gömmüştüm.
-    -- Orvak Sternrock -> Orvak Katıkaya kalmıştır, Karakaya(Blackrock) Mountain/Pass = Karataş Dağı / Geçidi, Burning Steppes = Yanan Bozkırlar (Burning + Steppes).
+    -- Orvak Sternrock -> Orvak Katıkaya kalmıştır, Karakaya(Blackrock) Mountain/Pass = Karakaya Dağı / Geçidi, Burning Steppes = Yanan Bozkırlar (Burning + Steppes).
     ["40461"] = {
     ["Title"]="Katıkaya Zulası",
-    ["Description"]="Artık aynı fikirde (same page) olduğumuzu ve aynı düşmanla savaştığımızı  anladığına göre, bana son bir sadakat testi (test of loyalty) kanıtlamanı istiyorum. Büyük intikamımıza  başlayabilmemizden önce, gelecek için plan yapmalıyım. Çok uzun zaman önce, herhangi bir güç pozisyonuna  sahip olmadan önce, ayrılmam ya da kaçmam gerekirse diye büyük bir eşya ve altın zulası (stash) gömmüştüm; işte, o zaman  geldi. Eğer ben ve yoldaşlarım bu macerayı  yaşayacaksak o zulaya ihtiyacım olacak. Karataş Dağı'nın (Blackrock Mountain) girişine seyahat et ve köprü yolunun altını, iki sütunun arasını  ara; zulayı orada bulacaksın.",
-    ["Objectives"]="Katıkaya Zulası'nı (Sternrock Stash) geri al ve Yanan Bozkırlar'daki (Burning Steppes) Karataş Geçidi'nde (Blackrock Pass) bulunan Orvak Sternrock'a (Orvak Sternrock) getir.",
+    ["Description"]="Artık aynı fikirde (same page) olduğumuzu ve aynı düşmanla savaştığımızı  anladığına göre, bana son bir sadakat testi (test of loyalty) kanıtlamanı istiyorum. Büyük intikamımıza  başlayabilmemizden önce, gelecek için plan yapmalıyım. Çok uzun zaman önce, herhangi bir güç pozisyonuna  sahip olmadan önce, ayrılmam ya da kaçmam gerekirse diye büyük bir eşya ve altın zulası (stash) gömmüştüm; işte, o zaman  geldi. Eğer ben ve yoldaşlarım bu macerayı  yaşayacaksak o zulaya ihtiyacım olacak. Karakaya Dağı'nın (Blackrock Mountain) girişine seyahat et ve köprü yolunun altını, iki sütunun arasını  ara; zulayı orada bulacaksın.",
+    ["Objectives"]="Katıkaya Zulası'nı (Sternrock Stash) geri al ve Yanan Bozkırlar'daki (Burning Steppes) Karakaya Geçidi'nde (Blackrock Pass) bulunan Orvak Sternrock'a (Orvak Sternrock) getir.",
     ["Progress"]="Kayıp eşyalarımı  geri aldın mı?",
     ["Completion"]="Bununla geleceğimiz  güvende ama intikamın o tatlı hissini  tatmadan ayrılmayacağım. Diğerlerine sana güvenilmesi  gerektiğini bildireceğim, onlarla konuş, senin için görevleri  olmalı.",
     ["minlevel"]="0",
@@ -45778,11 +45778,11 @@ QuestTranslator_QuestData = {
     -- High Foreman -> Yüce Kahya / Ustabaşı kalmıştır (High + Foreman).
     -- Bargul Blackhammer -> Bargul Karatoki kalmıştır (Black + hammer: kara çekiç / toki / tokmak).
     -- Hateforge Quarry -> Nefretocağı Madeni kalmıştır (Hate + forge + Quarry), Orvak Sternrock -> Orvak Sternrock kalmıştır, Black Vault -> Kara Mahzen (Black + Vault).
-    -- Karakaya(Blackrock) Pass = Karataş Geçidi, Burning Steppes = Yanan Bozkırlar.
+    -- Karakaya(Blackrock) Pass = Karakaya Geçidi, Burning Steppes = Yanan Bozkırlar.
     ["40463"] = {
     ["Title"]="Gerçek Yüce Kahya",
     ["Description"]="Bargul Blackhammer. O iğrenç pislik, aklına gelebilecek her türlü  sinsi taktiği deneyerek yıllardır Yüce Kahya (High Foreman) pozisyonunu elde etmek için  çalışıyor. Şiddetten tut hilekarlığa kadar, onun gibi bir pislik için  hiçbir şey masanın dışında değildi. Nefretocağı Madeni (Hateforge Quarry) fikri Bargul'un  bulduğu ve senatoya gönderdiği bir fikirdi. Sonunda hepsini  ikna etmeyi başardı ve beni pozisyonumdan  dışarı attırmak için el birliğiyle çalıştılar. Bargul Blackhammer unvanımı şimdi sinsi bir sahtekarlıkla  elinde tutuyor ve ben onun bunu daha fazla elinde  tutmasını istemiyorum.",
-    ["Objectives"]="Bargul Blackhammer'ı katlet ve Yanan Bozkırlar'daki (Burning Steppes) Karataş Geçidi'nde (Blackrock Pass) bulunan Orvak Sternrock için Senato'nun Emirleri'ni (Senate's Orders) geri al.",
+    ["Objectives"]="Bargul Blackhammer'ı katlet ve Yanan Bozkırlar'daki (Burning Steppes) Karakaya Geçidi'nde (Blackrock Pass) bulunan Orvak Sternrock için Senato'nun Emirleri'ni (Senate's Orders) geri al.",
     ["Progress"]="O sefili bu dünyadan henüz  ayıkladın mı?",
     ["Completion"]="Ayrıca, bu anahtarı al, dağa  geri dönmeye niyetim yok. Eğer çoktan  alıp götürmedilerse, Kara Mahzen (Black Vault) içindeki bir sandığı açıyor olmalı.",
     ["minlevel"]="0",
@@ -45836,11 +45836,11 @@ QuestTranslator_QuestData = {
     -- Upper Binding I -> Üst Bağlayış I / Üst Efsun I (Upper + Binding + I).
     -- artifact -> yadigar, ley-lines -> ley hatları, Azeroth = Azeroth. paper-weight -> kağıt ağırlığı.
     -- Dragonkin Charge -> Ejderha soyu Yükü (Dragonkin + Charge), draconic magic -> ejderha büyüsü.
-    -- Karakaya(Blackrock) Spire = Karataş Kulesi (Blackrock + Spire). Parnabus -> Parnabus kalmıştır, Gilneas = Gilneas.
+    -- Karakaya(Blackrock) Spire = Karakaya Kulesi (Blackrock + Spire). Parnabus -> Parnabus kalmıştır, Gilneas = Gilneas.
     ["41011"] = {
     ["Title"]="Üst Bağlayış I",
-    ["Description"]="Çok uzun yıllar önce, Azeroth (Azeroth) genelindeki ley hatlarından (ley-lines) muazzam güçler çeken güçlü bir yadigarla  temasa geçtim. Bu yadigarı araştırmayı  amaçlamıştım ama güçleri yıllar içinde yavaşça  tükendi. Yürütebildiğim araştırmalar oldukça  hayal kırıklığı yaratmıştı ve şimdi elimde oldukça zarif bir kağıt ağırlığı (paper-weight) kaldı. Eğer bu eski yadigarı eski gücüne  döndürmemde bana yardım edersen, belki onunla  benden daha fazla şansın olur. İhtiyacım olan ilk şey, harika bir ejderha büyüsü (draconic magic) barındıran bir Ejderha soyu Yükü'dür (Dragonkin Charge). Karataş Kulesi'ndeki (Blackrock Spire) ejderha soylarının böyle eşyalara sahip  olmakla bilindiğini duymuştum.",
-    ["Objectives"]="Parnabus için Karataş Kulesi'ndeki (Blackrock Spire) Kara Ejderha soylarından (Black Dragonkin) bir Ejderha soyu Yükü (Dragonkin Charge) topla.",
+    ["Description"]="Çok uzun yıllar önce, Azeroth (Azeroth) genelindeki ley hatlarından (ley-lines) muazzam güçler çeken güçlü bir yadigarla  temasa geçtim. Bu yadigarı araştırmayı  amaçlamıştım ama güçleri yıllar içinde yavaşça  tükendi. Yürütebildiğim araştırmalar oldukça  hayal kırıklığı yaratmıştı ve şimdi elimde oldukça zarif bir kağıt ağırlığı (paper-weight) kaldı. Eğer bu eski yadigarı eski gücüne  döndürmemde bana yardım edersen, belki onunla  benden daha fazla şansın olur. İhtiyacım olan ilk şey, harika bir ejderha büyüsü (draconic magic) barındıran bir Ejderha soyu Yükü'dür (Dragonkin Charge). Karakaya Kulesi'ndeki (Blackrock Spire) ejderha soylarının böyle eşyalara sahip  olmakla bilindiğini duymuştum.",
+    ["Objectives"]="Parnabus için Karakaya Kulesi'ndeki (Blackrock Spire) Kara Ejderha soylarından (Black Dragonkin) bir Ejderha soyu Yükü (Dragonkin Charge) topla.",
     ["Progress"]="Epeydir bu kadar heyecan  duymamıştım. Ejderha soyu Yükü'nü  geri aldın mı?",
     ["Completion"]="Böyle küçük bir nişanın  içinde barınan muazzam bir güç; ejderha büyüsü kesinlikle büyüleyici !",
     ["minlevel"]="0",
@@ -45973,14 +45973,14 @@ QuestTranslator_QuestData = {
 -- The Will of Lorthiras
     -- Will of Lorthiras -> Lorthiras'ın İradesi (Will + of + Lorthiras).
     -- Shadowbreak Ravine -> Gölgebozan Yarısı kalmıştır (Shadow + break + Ravine), Runeblade -> Rünbıçağı (Rune + blade).
-    -- Upper Karakaya(Blackrock) Spire -> Üst Karataş Kulesi (Blackrock + Spire), Rage Talon Fire Tongues -> Öfkepençe Ateşdilleri.
+    -- Upper Karakaya(Blackrock) Spire -> Üst Karakaya Kulesi (Blackrock + Spire), Rage Talon Fire Tongues -> Öfkepençe Ateşdilleri.
     -- Rage Talon Charm -> Öfkepençe Tılsımı, Dire Maul = Dire Maul, Ogre Mage-Lords -> Ogre Büyücü Lordları, Gordok Beads -> Gordok Boncukları.
-    -- Karakaya(Blackrock) Depths = Karataş Derinlikleri, Doomforge Arcanasmith -> Kıyametocağı Arkanademircisi (Doom + forge + Arcana + smith), Doomforge Rod -> Kıyametocağı Değneği.
+    -- Karakaya(Blackrock) Depths = Karakaya Derinlikleri, Doomforge Arcanasmith -> Kıyametocağı Arkanademircisi (Doom + forge + Arcana + smith), Doomforge Rod -> Kıyametocağı Değneği.
     -- Tempered Runeblade -> Tavlanmış Rünbıçağı.
     ["40239"] = {
     ["Title"]="Lorthiras'ın İradesi",
-    ["Description"]="Gölgebozan Yarısı'ndaki (Shadowbreak Ravine) bu zamanım bir düşünme ve araştırma dönemi oldu. Azeroth'taki (Azeroth) çeşitli hiziplerin büyü alanlarında bilgi edinmek ve  ne kadar ilerlediklerini görmek istiyorum. Zaman içinde fitne ve kaos  ekmek amacıyla her birine sızıp  erişim sağlamak için ne kadar çaba sarf edebilecek olsam da, bunun yerine benim için bunları yapman adına seni  görevlendirmeyi tercih ederim. Eğer bu Rünbıçağı'nı (Runeblade) tavlamak (temper) için gerçekten bilgi edinmek  arzuluyorsan, bunu sana geçici olarak  bahşedeceğim. İlk olarak, Üst Karataş Kulesi'ne (Upper Blackrock Spire) seyahat et ve Öfkepençe Ateşdillerinden (Rage Talon Fire Tongues) bana bir Öfkepençe Tılsımı (Rage Talon Charm) topla; ikinci olarak, Dire Maul'a seyahat et, Ogre Büyücü Lordlarından bana bir takım Gordok Boncukları (Gordok Beads) getir. Son olarak, Karataş Derinlikleri'nin (Blackrock Depths) çukurlarından, bir Kıyametocağı Arkanademircisinden (Doomforge Arcanasmith) onların Kıyametocağı Değneği'ni (Doomforge Rod) topla.",
-    ["Objectives"]="Gölgebozan Yarısı'ndaki (Shadowbreak Ravine) Lorthiras için Üst Karataş Kulesi'nden bir Öfkepençe Tılsımı (Rage Talon Charm), Dire Maul'dan Gordok Boncukları (Gordok Beads) ve Karataş Derinlikleri'nden bir Kıyametocağı Değneği (Doomforge Rod) topla.",
+    ["Description"]="Gölgebozan Yarısı'ndaki (Shadowbreak Ravine) bu zamanım bir düşünme ve araştırma dönemi oldu. Azeroth'taki (Azeroth) çeşitli hiziplerin büyü alanlarında bilgi edinmek ve  ne kadar ilerlediklerini görmek istiyorum. Zaman içinde fitne ve kaos  ekmek amacıyla her birine sızıp  erişim sağlamak için ne kadar çaba sarf edebilecek olsam da, bunun yerine benim için bunları yapman adına seni  görevlendirmeyi tercih ederim. Eğer bu Rünbıçağı'nı (Runeblade) tavlamak (temper) için gerçekten bilgi edinmek  arzuluyorsan, bunu sana geçici olarak  bahşedeceğim. İlk olarak, Üst Karakaya Kulesi'ne (Upper Blackrock Spire) seyahat et ve Öfkepençe Ateşdillerinden (Rage Talon Fire Tongues) bana bir Öfkepençe Tılsımı (Rage Talon Charm) topla; ikinci olarak, Dire Maul'a seyahat et, Ogre Büyücü Lordlarından bana bir takım Gordok Boncukları (Gordok Beads) getir. Son olarak, Karakaya Derinlikleri'nin (Blackrock Depths) çukurlarından, bir Kıyametocağı Arkanademircisinden (Doomforge Arcanasmith) onların Kıyametocağı Değneği'ni (Doomforge Rod) topla.",
+    ["Objectives"]="Gölgebozan Yarısı'ndaki (Shadowbreak Ravine) Lorthiras için Üst Karakaya Kulesi'nden bir Öfkepençe Tılsımı (Rage Talon Charm), Dire Maul'dan Gordok Boncukları (Gordok Beads) ve Karakaya Derinlikleri'nden bir Kıyametocağı Değneği (Doomforge Rod) topla.",
     ["Progress"]="Emrimi yerine getir ölümlü ve düşmanlarımı  ortadan kaldır. Bu büyülerin daha aşağılık varlıkların elinden  alınması bu dünyanın daha büyük iyiliği (greater good) içindir.",
     ["Completion"]="İyi iş çıkardın, inanılmaz derecede iyi, başlangıçta  umduğumdan çok daha fazlası. Eğer Tavlanmış bir Rünbıçağı (Tempered Runeblade) nasıl yaratılacağını öğrenmek  istiyorsan, sana bu bilgiyi bahşedeceğim.",
     ["minlevel"]="0",
@@ -46713,13 +46713,13 @@ QuestTranslator_QuestData = {
     -- Woodpaw Gnolls -> Odunpençe Gnolları (Wood + paw).
     -- Thalanaar -> Thalanaar kalmıştır.
     -- Woodpaw Hills -> Odunpençe Tepeleri (Wood + paw + Hills).
-    -- Commander Anashya Starfall -> Komutan Anashya Yıldızdüşüşü (Star + fall).
+    -- Commander Anashya Starfall -> Komutan Anashya Yıldızyağmuru (Star + fall).
     -- Feralas = Feralas.
     -- Shandris -> Shandris kalmıştır (Shandris Feathermoon).
     ["41040"] = {
     ["Title"]="Odunpençe Kargaşası",
     ["Description"]="Odunpençe Gnolları (The Woodpaw Gnolls) kutsal topraklarımızı tehdit ediyor, kervanlarımızı ve gözcülerimizi avlıyor. Güçlenmelerine ve Thalanaar'a (Thalanaar) bir saldırı planlamalarına izin veremeyiz. Vurma zamanı geldi. Görevin açık: Odunpençe tehdidini daha fazla büyümeden ortadan kaldırmak. Tehlikeli Odunpençe Tepeleri'ndeki (Woodpaw Hills) kamplarını ara, çıkardıkları o iğrenç kokudan yollarını kolayca bulabilirsin. On tuzakçı ve kırma köpeği katlet, sekiz akıncıyı alt et ve altı alfayı yere ser. Bu belirleyici darbe onları kargaşaya sürükleyecek ve bize değerli bir soluklanma süresi kazandıracak.",
-    ["Objectives"]="Feralas'taki Thalanaar'da (Thalanaar) bulunan Komutan Anashya Yıldızdüşüşü (Commander Anashya Starfall) için 10 Odunpençe Tuzakçısı, 10 Odunpençe Kırma Köpeği, 8 Odunpençe Akıncısı ve 6 Odunpençe Alfası katlet.",
+    ["Objectives"]="Feralas'taki Thalanaar'da (Thalanaar) bulunan Komutan Anashya Yıldızyağmuru (Commander Anashya Starfall) için 10 Odunpençe Tuzakçısı, 10 Odunpençe Kırma Köpeği, 8 Odunpençe Akıncısı ve 6 Odunpençe Alfası katlet.",
     ["Progress"]="Bu beni düşündürüyor... gnollar her zaman orada mıydı?",
     ["Completion"]="Hızlı ve kararlı, görevi olağanüstü bir verimlilikle tamamladın. Eylemlerindeki başarın çok şey anlatıyor, yabancı. Hızlı hareket etmenin önemini kavramadaki basiretin ve boş laftan kaçınman seni farklı kılıyor. Bu, saflarımızda çok değer verdiğimiz bir özelliktir. Shandris gibi son ana kadar tereddüt eden ve sonra... Ama şimdilik bu tür meseleler üzerinde durmayalım.",
     ["minlevel"]="0",
@@ -46762,17 +46762,17 @@ QuestTranslator_QuestData = {
     }, -- end Work Overdue
 
 -- Workplace Hazard
-    -- Blackstone -> Karataş (Black + stone).
+    -- Blackstone -> Karakaya (Black + stone).
     -- mining robots -> maden robotları, Mine-Bots -> Maden Botları.
     -- Technician Reyvo -> Teknisyen Reyvo kalmıştır.
     -- Rustgate Ridge -> Paslıkapı Sırtı (Rust + gate + Ridge).
-    -- Blackstone Island -> Karataş Adası (Blackstone + Island).
+    -- Blackstone Island -> Karakaya Adası (Blackstone + Island).
     -- Taxxlo -> Taxxlo kalmıştır (Taxxlo Rustgate).
     -- Black Ash Mine -> Kara Kül Madeni (Black + Ash + Mine).
     ["41174"] = {
     ["Title"]="İşyeri Tehlikesi",
-    ["Description"]="Karataş'ın (Blackstone) durumu tahmin ettiğimden çok daha kötü. Bu adaya gelip iş yüküne yardımcı olması için bazı maden robotları üretmem ilk istendiğinde, buradaki ilerlemeyi görmekten fazlasıyla mutlu olmuştum. Bunun yerine bulduğum şey düşmanca bir çalışma ortamı ve sözleşmem için yeterince iyi bir iş çıkaracak kadar malzeme bile olmamasıydı. Şimdi burada sıkışıp kaldım, sorunu çözene kadar rehin tutuluyorum. Anlarsın ya, çalışmam için bana berbat malzemeler verildi ve bakır teller çürüdükçe, Maden Botlarım da (Mine-Bots) çöktü. Şimdi adanın etrafında başıboş geziniyorlar. Bana çok büyük bir iyilik yapabileceğini düşünüyor musun? O arızalı Maden Botlarını bul ve benim için yok et. Görünüşe göre bir işyeri tehlikesine yol açıyorlar. Onları adanın etrafında bulabilirsin ama çoğu buranın kuzeyindeki Kara Kül Madeni'nde (Black Ash Mine) çalışmaya gönderilmişti.",
-    ["Objectives"]="Karataş Adası'ndaki (Blackstone Island) Paslıkapı Sırtı'nda (Rustgate Ridge) bulunan Teknisyen Reyvo (Technician Reyvo) için 8 Arızalı Maden Botu (Malfunctioning Mine-Bots) katlet.",
+    ["Description"]="Karakaya'ın (Blackstone) durumu tahmin ettiğimden çok daha kötü. Bu adaya gelip iş yüküne yardımcı olması için bazı maden robotları üretmem ilk istendiğinde, buradaki ilerlemeyi görmekten fazlasıyla mutlu olmuştum. Bunun yerine bulduğum şey düşmanca bir çalışma ortamı ve sözleşmem için yeterince iyi bir iş çıkaracak kadar malzeme bile olmamasıydı. Şimdi burada sıkışıp kaldım, sorunu çözene kadar rehin tutuluyorum. Anlarsın ya, çalışmam için bana berbat malzemeler verildi ve bakır teller çürüdükçe, Maden Botlarım da (Mine-Bots) çöktü. Şimdi adanın etrafında başıboş geziniyorlar. Bana çok büyük bir iyilik yapabileceğini düşünüyor musun? O arızalı Maden Botlarını bul ve benim için yok et. Görünüşe göre bir işyeri tehlikesine yol açıyorlar. Onları adanın etrafında bulabilirsin ama çoğu buranın kuzeyindeki Kara Kül Madeni'nde (Black Ash Mine) çalışmaya gönderilmişti.",
+    ["Objectives"]="Karakaya Adası'ndaki (Blackstone Island) Paslıkapı Sırtı'nda (Rustgate Ridge) bulunan Teknisyen Reyvo (Technician Reyvo) için 8 Arızalı Maden Botu (Malfunctioning Mine-Bots) katlet.",
     ["Progress"]="Eğer Taxxlo ve adamları bana düzgün malzemeler verseydi, bu en başta bir sorun bile olmazdı!",
     ["Completion"]="Sonunda güzel bir haber! Artık bu lanet olası kayadan kurtulabilir ve ait olduğum yere geri dönebilirim. Bana burada gerçekten çok yardımcı oldun. Bunları al. Bu berbat yerde yolunu bulmana yardım edeceklerdir.",
     ["minlevel"]="0",
@@ -47078,11 +47078,11 @@ QuestTranslator_QuestData = {
     -- Hinterlands = Hinterland kalmıştır (The Hinterlands), Searing Gorge = Kavurucu Yarık kalmıştır (Searing + Gorge).
     -- Festival Flamekeeper -> Festival Alevmuhafızı (Festival + Flame + keeper).
     -- Flame of the Blasted Lands, Plaguelands, Hinterlands, Searing Gorge -> Lanetli Topraklar Alevi, Veba Toprakları Alevi, Hinterland Alevi, Kavurucu Yarık Alevi.
-    -- Blackrock Spire = Karataş Kulesi (Blackrock + Spire), Dark Portal = Kara Geçit (Dark + Portal).
+    -- Blackrock Spire = Karakaya Kulesi (Blackrock + Spire), Dark Portal = Kara Geçit (Dark + Portal).
     -- Mantle of the Fire Festival -> Ateş Festivali Örtüsü, Burning Blossom -> Yanan Çiçek.
     ["9323"] = { -- Quest ID varsayılan olarak yerleştirilmiştir.
     ["Title"]="Doğu Krallıkları'ndaki Yaban Ateşleri",
-    ["Description"]="Alev kutlamamız tüm topraklara  yayıldı, YOUR_CLASS. Bu bayramın ısısının  dokunmadığı tek bir yer bile kalmadı ve en güçlü ateşler  parlak bir maviyle yanıyor. Onları ara.\n\nKarataş Kulesi'nin (Blackrock Spire) hemen kuzeyinde bir tane  bulacaksın. Diğerleri ise Doğu Veba Toprakları'nın (Eastern Plaguelands) derinliklerinde, köhne bir kasabanın yakınlarında; dağlık Hinterland (the Hinterlands) içindeki uçurumlara giden yol boyunca ve Lanetli Topraklar'daki (Blasted Lands) Kara Geçit'e (Dark Portal) giden yol üzerinde  bulunuyor.\n\nYolculuğun  bittiğinde geri dön.",
+    ["Description"]="Alev kutlamamız tüm topraklara  yayıldı, YOUR_CLASS. Bu bayramın ısısının  dokunmadığı tek bir yer bile kalmadı ve en güçlü ateşler  parlak bir maviyle yanıyor. Onları ara.\n\nKarakaya Kulesi'nin (Blackrock Spire) hemen kuzeyinde bir tane  bulacaksın. Diğerleri ise Doğu Veba Toprakları'nın (Eastern Plaguelands) derinliklerinde, köhne bir kasabanın yakınlarında; dağlık Hinterland (the Hinterlands) içindeki uçurumlara giden yol boyunca ve Lanetli Topraklar'daki (Blasted Lands) Kara Geçit'e (Dark Portal) giden yol üzerinde  bulunuyor.\n\nYolculuğun  bittiğinde geri dön.",
     ["Objectives"]="Lanetli Topraklar (Blasted Lands), Doğu Veba Toprakları (Eastern Plaguelands), Hinterland (the Hinterlands) ve Kavurucu Yarık (Searing Gorge) içinde bulunan Ateş Festivali kamplarını  ziyaret et, ardından Festival Alevmuhafızı (Festival Flamekeeper) ile konuş.",
     ["Progress"]="Kıtayı henüz  gezdin mi? Aydınlanma seni  bekliyor.",
     ["Completion"]="Ah, işte buradasın. Biraz daha yorgun, biraz daha  tozlu ama aydınlanmış! Bu mevsimde ısı hepimize  dokunur ve bizi birleştirir; varlığın,  dokunduğun ateşlerin gücüyle parıldıyor. Ah, ama bugünlerde aydınlanma, bir göreve  gönderilmek karşılığında oldukça zayıf bir ödül olarak  kabul ediliyor sanırım. O halde bunları al ve kutlamanın  tadını çıkar.",
@@ -50286,13 +50286,13 @@ QuestTranslator_QuestData = {
     }, -- end Hollow Web Silk
     -- Shrillfluke's Early Retirement
     -- Venture Co. -> Macera Şirketi
-    -- Blackstone Island -> Karataş Adası
+    -- Blackstone Island -> Karakaya Adası
     -- Boss Slickwick -> Patron Slickwick
     -- Slickwick Oil Rig -> Slickwick Petrol Platformu
     -- Undermine -> Undermine
     ["41766"] = {
     ["Title"]="Shrillfluke'un Erken Emekliliği",
-    ["Description"]="Goblinter, başlarında komut veren biri olmadan pek de iyi çalışamazlar; bu defalarca denendi. Suçu atacak biri olmadığında tek yaptıkları birbirlerini parçalamaktır. Dolayısıyla, tüm bu tetikçileri komuta eden biri olmalı. Bu sabotajın boyutuna bakılırsa Macera Şirketi'nin üst kademelerinden önemli biri olmalı. Karataş Adası'nda olanlara benziyor, sadece çok daha az gizli.\n\nSahile dön, o kalleşi bul ve adil cezasına çarptır. Kimse işlerime müdahale edip cezasız kalamaz.",
+    ["Description"]="Goblinter, başlarında komut veren biri olmadan pek de iyi çalışamazlar; bu defalarca denendi. Suçu atacak biri olmadığında tek yaptıkları birbirlerini parçalamaktır. Dolayısıyla, tüm bu tetikçileri komuta eden biri olmalı. Bu sabotajın boyutuna bakılırsa Macera Şirketi'nin üst kademelerinden önemli biri olmalı. Karakaya Adası'nda olanlara benziyor, sadece çok daha az gizli.\n\nSahile dön, o kalleşi bul ve adil cezasına çarptır. Kimse işlerime müdahale edip cezasız kalamaz.",
     ["Objectives"]="Macera Şirketi işgalinin liderini bul ve onu ortadan kaldır. Slickwick Petrol Platformu'ndaki Patron Slickwick'e üzerinde bulduğun kullanışlı her şeyi getir.",
     ["Progress"]="İşçilerim izinlerinin tadını biraz fazla çıkarmaya başladılar. Buna bir son verelim ve kotamıza geri dönelim.",
     ["Completion"]="Shrillfluke, ha? Kesinlikle en büyük balık değil ama adı Undermine'da zaman zaman geçiyordu. Buradan okuyabildiğim kadarıyla dahi planları, ev yapımı bir büyü kullanarak pompa istasyonlarına aşırı yük yüklemekmiş - elbette bu tipik goblin tarzıyla geri tepti. Bunun yerine tek yaptığı petrolün kendisini güçlendirmek oldu ve etrafta balçıklanan bu sorunlu petrol balçıklarını başımıza bela etti. En hafif deyimle can sıkıcı. Her neyse, bu işin kurdelesini bağlayalım, Babür'ün yalakaları hakkında düşünerek bir dakika bile kaybetmek istemiyorum.",
@@ -50878,7 +50878,7 @@ QuestTranslator_QuestData = {
     ["Description"]="Bize büyük yardımların dokunduğu için sanırım seninle küçük bir sır paylaşabilirim. Geçmişte pek çok goblin Durotar İşçi Birliği'ne katıldı ve pek çoğu hâlâ katılıyor. Undermine'da büyük bir çalkantı yarattı. Otoriter Macera Şirketi'ne karşı tek başına duran genç ve gelecek vaat eden bir işçi sendikası mı? Bütün gazetelerdeydi! Biri diğerinden daha çılgın dedikodular yayılmaya başladı, sonunda patronum bana yeni bir iş verdi: Durotar İşçi Birliği'ne katıl ve gerçekten neler olduğunu gör. Bu kadar çabuk eyleme geçirileceğimi tahmin etmemiştim.\n\nVe şimdi buradayız. Şunu söylemeliyim ki hem İşçi Birliği hem de Horde beklentilerimi aştı. Garip bir topluluksunuz ama güçlü bir topluluksunuz. Fon yönetimiz ve genel ekonominiz felaket ama sonunda başaracaksınız. Nert harika bir varlık, inan bana. Lafı gelmişken, bu raporu ona iletebilir misin? Zavallı adam Sparkwater Limanı'nda onu beklerken bayağı endişeleniyor olmalı. Onu gördüğünde benden iyi bir dürtme ver, anlaştık mı?",
     ["Objectives"]="Patron Slickwick'in Raporu'nu Durotar'daki Sparkwater Limanı'nda bulunan Nert Blastentom'a teslim et.",
     ["Progress"]="Ya iyi haber ya da haber yok, dostum. Başka bir kötü iş sonum olur!",
-    ["Completion"]="Tanaris'teydin ve Celdi'ye yardım mı ettin? Ne harika, o kadın gerçek bir lütuf! Sparkwater Limanı'nda ilk kez salındığında gözlerim fırlayacaktı. Bilgewater Karteli'nin yüksek düzey bir yöneticisi burada, bizim küçük kasabamızda ha?! Ve bize katılmak mı istiyor?! Casinodaki son denememde tüm hayat birikimimi ikiye katlamış gibi hissettim. Karataş Adası felaketinden sonra Durotar İşçi Birliği'nin KÂR VE moral açısından acilen bir yükselişe ihtiyacı vardı. Mütevazı olmak gerekirse Tanaris'teki petrol platformu mükemmel bir fikirdi. Dümende Slickwick varken bunun bir başarı olacağını biliyordum.\n\nBuna rağmen Macera Şirketi'nin devam eden sabotaj ve sızmaları beni endişelendiriyor. Sabırlarının tükendiğinden korkuyorum, Razdunk istediğini elde edemediğinde asla sakin kalabilen biri olmadı. Kulaklarını ve gözlerini keskin tut, YOUR_NAME. Gelecek bizim için kolay olmayacak.",
+    ["Completion"]="Tanaris'teydin ve Celdi'ye yardım mı ettin? Ne harika, o kadın gerçek bir lütuf! Sparkwater Limanı'nda ilk kez salındığında gözlerim fırlayacaktı. Bilgewater Karteli'nin yüksek düzey bir yöneticisi burada, bizim küçük kasabamızda ha?! Ve bize katılmak mı istiyor?! Casinodaki son denememde tüm hayat birikimimi ikiye katlamış gibi hissettim. Karakaya Adası felaketinden sonra Durotar İşçi Birliği'nin KÂR VE moral açısından acilen bir yükselişe ihtiyacı vardı. Mütevazı olmak gerekirse Tanaris'teki petrol platformu mükemmel bir fikirdi. Dümende Slickwick varken bunun bir başarı olacağını biliyordum.\n\nBuna rağmen Macera Şirketi'nin devam eden sabotaj ve sızmaları beni endişelendiriyor. Sabırlarının tükendiğinden korkuyorum, Razdunk istediğini elde edemediğinde asla sakin kalabilen biri olmadı. Kulaklarını ve gözlerini keskin tut, YOUR_NAME. Gelecek bizim için kolay olmayacak.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Rise of the Venture Co.
@@ -51227,7 +51227,7 @@ QuestTranslator_QuestData = {
     -- Venture Co. Hatred
     ["41765"] = {
     ["Title"]="Macera Şirketi Nefreti",
-    ["Description"]="Undermine'da işler kızışıyor evlat. Oraya hiçbir zaman sakin denemezdi ama Macera Şirketi Azeroth'un her yerinde her türlü ticarette fark edilir bir güç kazanmaya başladı. İş uygulamalarında her zaman daha... diyelim ki 'alışılmadık' oldular ama planladıkları şey pek de iç açıcı görünmüyor. Tek yapman gereken sahilden aşağı inip kendin görmek.\n\nGörüyorsun ya, ben de kısa süre önce Durotar İşçi Birliği'ne katıldım; Karataş Adası'nda yaşananlar ve Kezan'a döndüğümde kâr optimizasyonu konusundaki kusursuz geçmişim göz önüne alındığında, Nert bana tek başıma bir proje vermekte gecikmedi. Tekerleği döndürmeye başladığımızda Macera Şirketi'nin sinsice yaklaşıp yapacağını yapması uzun sürmedi. Bana sorarsan hak edilmiş bir intikam zamanı geldi. Bırakalım kendi ilaçlarının tadına baksınlar, ne dersin?",
+    ["Description"]="Undermine'da işler kızışıyor evlat. Oraya hiçbir zaman sakin denemezdi ama Macera Şirketi Azeroth'un her yerinde her türlü ticarette fark edilir bir güç kazanmaya başladı. İş uygulamalarında her zaman daha... diyelim ki 'alışılmadık' oldular ama planladıkları şey pek de iç açıcı görünmüyor. Tek yapman gereken sahilden aşağı inip kendin görmek.\n\nGörüyorsun ya, ben de kısa süre önce Durotar İşçi Birliği'ne katıldım; Karakaya Adası'nda yaşananlar ve Kezan'a döndüğümde kâr optimizasyonu konusundaki kusursuz geçmişim göz önüne alındığında, Nert bana tek başıma bir proje vermekte gecikmedi. Tekerleği döndürmeye başladığımızda Macera Şirketi'nin sinsice yaklaşıp yapacağını yapması uzun sürmedi. Bana sorarsan hak edilmiş bir intikam zamanı geldi. Bırakalım kendi ilaçlarının tadına baksınlar, ne dersin?",
     ["Objectives"]="Slickwick Petrol Platformu'ndaki Macera Şirketi davetsiz misafirlerini temizle ve ardından Patron Slickwick'e dön.",
     ["Progress"]="Hşere temizliği bitti mi?",
     ["Completion"]="Çocuk oyuncağı olmuş olmalı, ha? Göründüğünden daha yetkinsin. Nert, Horde ile ittifak kurmakta haklıydı; en başta pek seçeneği olduğu da söylenemezdi. Artık yemler aradan çekildiğine göre elebaşlarını dumanla dışarı çıkarma vakti.",
@@ -57788,13 +57788,13 @@ QuestTranslator_QuestData = {
     -- Trull Failbane -> Trull Felaketyıkımı (MobNpcData.lua)[cite: 1]
     -- Timbermaw -> Odunağız
     -- Felwood -> Felwood (ZoneData.lua)
-    -- Winterspring -> Kışbeşiği (ZoneData.lua)
+    -- Winterspring -> Kışbaharı (ZoneData.lua)
     ["4521"] = {
     ["Title"]="Vahşi Muhafızlar",
-    ["Description"]="Kışbeşiği, Felwood'un kuzeydoğusunda, Odunağız'nin hemen ötesinde yer alır. Orada bulundun mu?\n\nBölgenin vahşicins adı verilen yaratıklarla dolu olduğunu duydum. Bu canavarların sırları koruduğu bilinir; Gece elflerinin sırlarını.\n\nKışbeşiği'nde neyin gizlenmiş olabileceğini çözmeliyiz.\n\nÜstü başı yırtık baykuş ayıların yolun hemen güneyinde bulunabileceğini ve Kışbeşiği'nin merkezinde bulunabilecek öfkeli baykuş ayılar adında başkalarının da olduğunu duydum. Onları temizle ve toprağa erişim sağla.",
+    ["Description"]="Kışbaharı, Felwood'un kuzeydoğusunda, Odunağız'nin hemen ötesinde yer alır. Orada bulundun mu?\n\nBölgenin vahşicins adı verilen yaratıklarla dolu olduğunu duydum. Bu canavarların sırları koruduğu bilinir; Gece elflerinin sırlarını.\n\nKışbaharı'nde neyin gizlenmiş olabileceğini çözmeliyiz.\n\nÜstü başı yırtık baykuş ayıların yolun hemen güneyinde bulunabileceğini ve Kışbaharı'nin merkezinde bulunabilecek öfkeli baykuş ayılar adında başkalarının da olduğunu duydum. Onları temizle ve toprağa erişim sağla.",
     ["Objectives"]="Felwood'daki Trull Felaketyıkımı 15 Öfkeli Baykuş Ayı ve 15 Yırtık Baykuş Ayı öldürmeni istiyor.",
     ["Progress"]="Sana verdiğim görevi tamamladıktan sonra bana rapor ver.",
-    ["Completion"]="Bu mükemmel bir haber, YOUR_NAME. Bu canavarlar ortadan kalktığına göre Kışbeşiği'nin daha da derinlerine macera yürütmeye başlayabiliriz. Daha fazlasına hazır mısın?",
+    ["Completion"]="Bu mükemmel bir haber, YOUR_NAME. Bu canavarlar ortadan kalktığına göre Kışbaharı'nin daha da derinlerine macera yürütmeye başlayabiliriz. Daha fazlasına hazır mısın?",
     ["minlevel"]="52",
     ["questlevel"]="56",
     }, -- end Wild Guardians
@@ -57815,13 +57815,13 @@ QuestTranslator_QuestData = {
 
     -- Wild Guardians
     -- Trull Failbane -> Trull Felaketyıkımı (MobNpcData.lua)[cite: 1]
-    -- Winterspring -> Kışbeşiği (ZoneData.lua)
+    -- Winterspring -> Kışbaharı (ZoneData.lua)
     ["4721"] = {
     ["Title"]="Vahşi Muhafızlar",
-    ["Description"]="Haberciler Kışbeşiği'nin güney bölgesinde bir dizi küçük mağara olduğuna dair raporlarla Kışbeşiği'nden döndüler. Bu mağaraların etrafındaki alanda konumlanmış vahşicinsler var gibi görünüyor. Korudukları değerli bir şey varsa, onu bulacağımız yerin burası olduğuna inanıyorum.\n\nBunların önceki türlerden daha zorlu bir mücadele olduğunu göreceksin, YOUR_NAME. Yaratıklar korumaya çalıştıkları şeye maruz kalmaktan çıldırmış gibi görünüyor.",
-    ["Objectives"]="Felwood'daki Trull Felaketyıkımı Kışbeşiği'nde 10 Çılgın Baykuş Ayı avlamanı istiyor.",
+    ["Description"]="Haberciler Kışbaharı'nin güney bölgesinde bir dizi küçük mağara olduğuna dair raporlarla Kışbaharı'nden döndüler. Bu mağaraların etrafındaki alanda konumlanmış vahşicinsler var gibi görünüyor. Korudukları değerli bir şey varsa, onu bulacağımız yerin burası olduğuna inanıyorum.\n\nBunların önceki türlerden daha zorlu bir mücadele olduğunu göreceksin, YOUR_NAME. Yaratıklar korumaya çalıştıkları şeye maruz kalmaktan çıldırmış gibi görünüyor.",
+    ["Objectives"]="Felwood'daki Trull Felaketyıkımı Kışbaharı'nde 10 Çılgın Baykuş Ayı avlamanı istiyor.",
     ["Progress"]="Emirlerini biliyorsun, YOUR_NAME.",
-    ["Completion"]="Zorlu çalışmaya büyük saygı duyarım, YOUR_NAME. Artık Kışbeşiği için planlarımızla ilerleyebiliriz.",
+    ["Completion"]="Zorlu çalışmaya büyük saygı duyarım, YOUR_NAME. Artık Kışbaharı için planlarımızla ilerleyebiliriz.",
     ["minlevel"]="52",
     ["questlevel"]="59",
     }, -- end Wild Guardians
@@ -57900,10 +57900,10 @@ QuestTranslator_QuestData = {
 
     -- Wild Guardians
     -- Trull Failbane -> Trull Felaketyıkımı (MobNpcData.lua)[cite: 1]
-    -- Winterspring -> Kışbeşiği (ZoneData.lua)
+    -- Winterspring -> Kışbaharı (ZoneData.lua)
     ["4741"] = {
     ["Title"]="Vahşi Muhafızlar",
-    ["Description"]="Kışbeşiği'nin kuzey bölgelerinde Vahşicins daha da vahşileşiyor. Önlemlerimize orada devam etmeliyiz.\n\nKışbeşiği'ndeki ay dokunmuş baykuş ayıları avla ve yaşadıkları bölgeyi keşfet.\n\nBurası tehlikeli bir arazi ama zorluğun üstesinden gelebileceğini biliyorum. Vahşicinslerden 13 tanesini katlettikten sonra bana dön.",
+    ["Description"]="Kışbaharı'nin kuzey bölgelerinde Vahşicins daha da vahşileşiyor. Önlemlerimize orada devam etmeliyiz.\n\nKışbaharı'ndeki ay dokunmuş baykuş ayıları avla ve yaşadıkları bölgeyi keşfet.\n\nBurası tehlikeli bir arazi ama zorluğun üstesinden gelebileceğini biliyorum. Vahşicinslerden 13 tanesini katlettikten sonra bana dön.",
     ["Objectives"]="Felwood'daki Trull Felaketyıkımı 13 Ay Dokunmuş Baykuş Ayı avlamanı istiyor.",
     ["Progress"]="Çok korktuğunu söyleme bana! Git hadi!",
     ["Completion"]="İşinden zevk aldığını hissediyorum. Ve burada bir şeylerin peşinde olduğumuza inanıyorum.",
@@ -58083,12 +58083,12 @@ QuestTranslator_QuestData = {
     -- Tinkee -> Tinkee (MobNpcData.lua)[cite: 1]
     -- Felnok Steelspring -> Felnok Çelikyayı (MobNpcData.lua)[cite: 1]
     -- Felnok -> Felnok (MobNpcData.lua)[cite: 1]
-    -- Winterspring -> Kışbeşiği (ZoneData.lua)
+    -- Winterspring -> Kışbaharı (ZoneData.lua)
     -- Everlook -> Zamansız Bakış (ZoneData.lua)
     -- Burning Steppes -> Yanardağ Bozkırları (ZoneData.lua)
     ["4808"] = {
     ["Title"]="Felnok Çelikyayı",
-    ["Description"]="Senden bir iyilik daha isteyeceğim.\n\nTopladığın öz üzerindeki ilk incelemem, ejderha yavrusu yumurtalarını dondurmanın ve onları korumanın mümkün olabileceğini gösteriyor! Bu teoriyi test etmek istiyorum ama önce özel olarak üretilmiş mühendislik bileşenlerine ihtiyacım var. Meslektaşım Felnok Çelikyayı bunları yapabilir.\n\nİşte, bu mektubu Felnok'a götür. Ona neye ihtiyacım olduğunu anlatıyor. Felnok'u Kışbeşiği'nde, Zamansız Bakış kasabasında bulacaksın.",
+    ["Description"]="Senden bir iyilik daha isteyeceğim.\n\nTopladığın öz üzerindeki ilk incelemem, ejderha yavrusu yumurtalarını dondurmanın ve onları korumanın mümkün olabileceğini gösteriyor! Bu teoriyi test etmek istiyorum ama önce özel olarak üretilmiş mühendislik bileşenlerine ihtiyacım var. Meslektaşım Felnok Çelikyayı bunları yapabilir.\n\nİşte, bu mektubu Felnok'a götür. Ona neye ihtiyacım olduğunu anlatıyor. Felnok'u Kışbaharı'nde, Zamansız Bakış kasabasında bulacaksın.",
     ["Objectives"]="Tinkee'nin Mektubu'nu Felnok Çelikyayı'na ver.[cite: 1]",
     ["Progress"]="Burası çok soğuk! Umarım bana bir battaniye getirmişsindir!",
     ["Completion"]="Bu battaniye değil! Ama burada neyimiz var? Tinkee'den bir mektup mu? Ne söyleyeceğini merak ediyorum...\n\nAh, Yanardağ Bozkırları'nda çalışıyor. Bu mantıklı--ejderhasoyu için iyi bir kaynak. Oh, ama bak! Burada inşa etmek istediği bir cihaz için bazı parçalara ihtiyacı olduğu yazıyor. Sanırım burada ben devreye giriyorum, ha?",
@@ -58099,10 +58099,10 @@ QuestTranslator_QuestData = {
     -- Chillwind Horns
     -- Tinkee -> Tinkee (MobNpcData.lua)[cite: 1]
     -- Felnok Steelspring -> Felnok Çelikyayı (MobNpcData.lua)[cite: 1]
-    -- Winterspring -> Kışbeşiği (ZoneData.lua)
+    -- Winterspring -> Kışbaharı (ZoneData.lua)
     ["4809"] = {
     ["Title"]="Serinrüzgar Boynuzları",
-    ["Description"]="Tinkee'nin ihtiyacı olan şeylerin çoğuna sahibim ama önemli bir bileşeni kaçırıyorum, o da serinrüzgar boynuzları. Kışbeşiği'ndeki serinrüzgar kimera boynuzları yoğunlaştırılmış bir soğuk kaynağıdır ancak sadece el değmemiş, çatlamamış boynuzlar iş görecektir! Tinkee'nin siparişini tamamlamak için bunlardan bir stoğa ihtiyacım olacak.\n\nBana çatlamamış serinrüzgar boynuzlarını getir, ben de Tinkee için bir paket hazırlayayım.",
+    ["Description"]="Tinkee'nin ihtiyacı olan şeylerin çoğuna sahibim ama önemli bir bileşeni kaçırıyorum, o da serinrüzgar boynuzları. Kışbaharı'ndeki serinrüzgar kimera boynuzları yoğunlaştırılmış bir soğuk kaynağıdır ancak sadece el değmemiş, çatlamamış boynuzlar iş görecektir! Tinkee'nin siparişini tamamlamak için bunlardan bir stoğa ihtiyacım olacak.\n\nBana çatlamamış serinrüzgar boynuzlarını getir, ben de Tinkee için bir paket hazırlayayım.",
     ["Objectives"]="8 Çatlamamış Serinrüzgar Boynuzu'nu Felnok Çelikyayı'na getir.[cite: 1]",
     ["Progress"]="Serinrüzgar boynuzları yanında mı, YOUR_NAME?",
     ["Completion"]="Bunlar iyi örnekler. Soğukla dolular! Biraz eldiven giyeyim, sonra onları Tinkee'nin ihtiyaç duyduğu diğer şeylerle birlikte paketleyeyim...",
@@ -58141,11 +58141,11 @@ QuestTranslator_QuestData = {
 
     -- Strange Sources
     -- Donova Snowden -> Donova Snowden (MobNpcData.lua)[cite: 1]
-    -- Winterspring -> Kışbeşiği (ZoneData.lua)
+    -- Winterspring -> Kışbaharı (ZoneData.lua)
     -- Darkwhisper Gorge -> Karanlıkfısıltı Yarığı
     ["4842"] = {
     ["Title"]="Garip Kaynaklar",
-    ["Description"]="Sana gerçeği söylemek gerekirse, burada Kışbeşiği'nde yanardağ olmamasına rağmen bu kaplıcaların çok daha tehditkar nedenleri olduğuna inanıyorum...\n\nŞey, bunu kendin görmek isteyeceğini düşünüyorum. Kışbeşiği'nin uzunluğu boyunca seyahat etmeli ve en güneye gitmelisin. Hava ağırlaşıp nemlendiğinde ve gökyüzü karardığında, kaplıcaların kaynağı olduğuna inandığım şeyi bulmuş olacaksın.\n\nBir göz at. Döndüğünde birçok sorun olacağından eminim.",
+    ["Description"]="Sana gerçeği söylemek gerekirse, burada Kışbaharı'nde yanardağ olmamasına rağmen bu kaplıcaların çok daha tehditkar nedenleri olduğuna inanıyorum...\n\nŞey, bunu kendin görmek isteyeceğini düşünüyorum. Kışbaharı'nin uzunluğu boyunca seyahat etmeli ve en güneye gitmelisin. Hava ağırlaşıp nemlendiğinde ve gökyüzü karardığında, kaplıcaların kaynağı olduğuna inandığım şeyi bulmuş olacaksın.\n\nBir göz at. Döndüğünde birçok sorun olacağından eminim.",
     ["Objectives"]="Donova Snowden'ın talimatlarını takip et, ardından rapor ver.[cite: 1]",
     ["Progress"]="Kaplıcalardaki su çok tuhaf özelliklere sahip gibi görünüyor... Hâlâ ne anlama geldiğinden emin değilim...",
     ["Completion"]="Evet, Karanlıkfısıltı Yarığı'ndaki iblisler; toprağı bu şekilde etkileyen şeyin onların varlığı olduğuna inanıyorum. Buradaki kaplıcaları gözlemlemeye devam edeceğim ve daha fazla şey öğrenip öğrenemeyeceğime bakacağım.\n\nKaranlıkfısıltı Yarığı'nın daha da derinlerine gitme planların varsa biraz daha güçlenene kadar bekle derim.",
@@ -58155,11 +58155,11 @@ QuestTranslator_QuestData = {
 
     -- Enraged Wildkin
     -- Jaron Stoneshaper -> Jaron Taşşekillendiren (MobNpcData.lua)[cite: 1]
-    -- Winterspring -> Kışbeşiği (ZoneData.lua)
+    -- Winterspring -> Kışbaharı (ZoneData.lua)
     ["4861"] = {
     ["Title"]="Öfkelenmiş Vahşicins",
-    ["Description"]="Selam, YOUR_GENDER:delikanlı:kız;! Güney Kışbeşiği'ndeki ordugahımdan kana susamış bazı vahşicinsler tarafından kovalandım! Şey, sanırım vahşicinslerin koruduğu bir şeye fazla yaklaştım.\n\nGüvenli bir şekilde kaçmayı zar zor başardım; bir arkadaşımın o kadar şanslı olmadığından korkuyorum. Vahşicinslere göğüs germeyi ve ordugaha gitmeyi sakıncası yoksa kabul eder misin? Malzemelerime gerçekten ihtiyacım var ve ayrıca dün kazı alanında çıkardığım muskayı geri almak istiyorum.",
-    ["Objectives"]="Güney Kışbeşiği'nde Jaron Taşşekillendiren'in enkaz haline gelmiş ordugahını ve malzemelerini bul.",
+    ["Description"]="Selam, YOUR_GENDER:delikanlı:kız;! Güney Kışbaharı'ndeki ordugahımdan kana susamış bazı vahşicinsler tarafından kovalandım! Şey, sanırım vahşicinslerin koruduğu bir şeye fazla yaklaştım.\n\nGüvenli bir şekilde kaçmayı zar zor başardım; bir arkadaşımın o kadar şanslı olmadığından korkuyorum. Vahşicinslere göğüs germeyi ve ordugaha gitmeyi sakıncası yoksa kabul eder misin? Malzemelerime gerçekten ihtiyacım var ve ayrıca dün kazı alanında çıkardığım muskayı geri almak istiyorum.",
+    ["Objectives"]="Güney Kışbaharı'nde Jaron Taşşekillendiren'in enkaz haline gelmiş ordugahını ve malzemelerini bul.",
     ["Progress"]="",
     ["Completion"]="Ordugahtaki tahrip edilmiş diğer eşyaların arasında ağır hasar görmüş bir sandık öne çıkıyor...",
     ["minlevel"]="53",
@@ -58195,11 +58195,11 @@ QuestTranslator_QuestData = {
     -- Enraged Wildkin
     -- Jaron -> Jaron (MobNpcData.lua)[cite: 1]
     -- Jaron Stoneshaper -> Jaron Taşşekillendiren (MobNpcData.lua)[cite: 1]
-    -- Winterspring -> Kışbeşiği (ZoneData.lua)
+    -- Winterspring -> Kışbaharı (ZoneData.lua)
     ["4864"] = {
     ["Title"]="Öfkelenmiş Vahşicins",
     ["Description"]="Kutunun içindekileri inceledikten sonra Jaron'un içindeki aletleri ve diğer eşyaları kullanabileceğine karar veriyorsun. Ancak muskanın hiçbir izi yok.\n\nVahşicinslerin buranın kuzeyindeki ve doğusundaki topraklarda yaşadığı görülüyor, bu yüzden bir sonraki adımın yaratıklarla yüzleşmek ve muskayı onlardan geri almak olduğuna karar veriyorsun.",
-    ["Objectives"]="Jaron'un Malzemeleri'ni kardan al, ardından Jaron'un bahsettiği muskayı çalan vahşicinsi bul.\n\nJaron'un Malzemeleri'ni ve Mavi Tüylü Muska'yı Kışbeşiği'ndeki kulübede bulunan Jaron Taşşekillendiren'e getir.",
+    ["Objectives"]="Jaron'un Malzemeleri'ni kardan al, ardından Jaron'un bahsettiği muskayı çalan vahşicinsi bul.\n\nJaron'un Malzemeleri'ni ve Mavi Tüylü Muska'yı Kışbaharı'ndeki kulübede bulunan Jaron Taşşekillendiren'e getir.",
     ["Progress"]="Evet... Bana haberleri ver, evlat.",
     ["Completion"]="Şey, bu kadarını duymayı bekliyordum evlat. Çıldırmış canavarların tüm eşyalarımı yok ettiğini düşünmüştüm...\n\nAma aletlerimi ve en önemlisi muskayı buldun! Vahşicinslerin bu eşyayı neden bu kadar şiddetle savunduğunu merak ediyorum... Her halükarda, bir daha o tarafa gitmeden önce iki kez düşüneceğim!",
     ["minlevel"]="53",
@@ -58252,10 +58252,10 @@ QuestTranslator_QuestData = {
     -- Nara Wildmane -> Nara Vahşiyele (MobNpcData.lua)[cite: 1]
     -- Thunder Bluff -> Gürültü Uçurumu (ZoneData.lua)
     -- Elune -> Elune
-    -- Winterspring -> Kışbeşiği (ZoneData.lua)
+    -- Winterspring -> Kışbaharı (ZoneData.lua)
     ["4883"] = {
     ["Title"]="Sırları Korumak",
-    ["Description"]="Kışbeşiği'nde yendiğin baykuş ayılar hakkında çok fazla bilgiye sahip olsam da, kullandıkları büyüler konusunda pek bilgili değilim. Ama kolyeyi inceleyebilecek ve büyük olasılıkla ne olduğunu sana söyleyebilecek birini bildiğime inanıyorum.\n\nGürültü Uçurumu'ndaki Nara Vahşiyele bu alanda bir uzmandır; onu gör. Bol şans, YOUR_NAME.",
+    ["Description"]="Kışbaharı'nde yendiğin baykuş ayılar hakkında çok fazla bilgiye sahip olsam da, kullandıkları büyüler konusunda pek bilgili değilim. Ama kolyeyi inceleyebilecek ve büyük olasılıkla ne olduğunu sana söyleyebilecek birini bildiğime inanıyorum.\n\nGürültü Uçurumu'ndaki Nara Vahşiyele bu alanda bir uzmandır; onu gör. Bol şans, YOUR_NAME.",
     ["Objectives"]="Mavi Tüylü Kolye'yi Nara Vahşiyele'ye götür.[cite: 1]",
     ["Progress"]="Sana nasıl yardımcı olabilirim, YOUR_NAME?",
     ["Completion"]="Bu kolyenin enerjisi, YOUR_NAME. Sadece tek bir kaynağı olduğuna inanıyorum.\n\n<Nara gözlerini kapatır ve bir an sessiz kalır.>\n\nŞimdi yanlış yola sapmış ve kafası karışmış olan vahşicinsler bir zamanlar öyle değildi. Bir zamanlar bir amaçları vardı ve hizmet etmek için yönlendiriliyorlardı. Gece elfi tanrıçası Elune bu yaratıkları en kutsal alanlarını korumak için yarattı.\n\nBu gerçek az bir değere sahipmiş gibi görünse de; seni daha derine bakmaya teşvik ediyorum.\n\nZamanla öğreneceksin. Bunu bana getirdiğin için teşekkür ederim, YOUR_NAME.",
@@ -58346,11 +58346,11 @@ QuestTranslator_QuestData = {
 
     -- Frostsaber Provisions
     -- Rivern Frostwind -> Rivern Dondururüzgar (MobNpcData.lua)[cite: 1]
-    -- Winterspring -> Kışbeşiği (ZoneData.lua)
+    -- Winterspring -> Kışbaharı (ZoneData.lua)
     ["4970"] = {
     ["Title"]="Buzkılıç Azıkları",
     ["Description"]="Kendini kanıtlamak istiyorsan çok basit ama çok önemli bir görevi yaparak başlayabilirsin.\n\nBölgedeki kimeradan ve kıymıktış ayılardan et topla. Eğitilmekte olan buzkılıçları beslemek için kullanabileyim diye onları bana getir.",
-    ["Objectives"]="Kışbeşiği'ndeki Rivern Dondururüzgar için 5 Kıymıktış Eti ve 5 Serinrüzgar Eti topla.",
+    ["Objectives"]="Kışbaharı'ndeki Rivern Dondururüzgar için 5 Kıymıktış Eti ve 5 Serinrüzgar Eti topla.",
     ["Progress"]="Disiplin ve kararlılık senin hedeflerindir. Senden basit bir görevi defalarca yapmanı isteyebilirim; her seferinde elinden gelenin en iyisini yapmalısın.",
     ["Completion"]="Bana yardımcı olduğun için teşekkür ederim, YOUR_NAME. Zaman geçtikçe senin hakkındaki düşüncem büyüyor.",
     ["minlevel"]="58",
@@ -58586,10 +58586,10 @@ QuestTranslator_QuestData = {
     -- Malyfous Darkhammer -> Malyfous Karabalyoz (MobNpcData.lua)[cite: 1]
     -- Finkle -> Finkle (MobNpcData.lua)[cite: 1]
     -- Everlook -> Zamansız Bakış (ZoneData.lua)
-    -- Winterspring -> Kışbeşiği (ZoneData.lua)
+    -- Winterspring -> Kışbaharı (ZoneData.lua)
     ["5047"] = {
     ["Title"]="Finkle Einhorn, Hizmetinizde!",
-    ["Description"]="Zamansız Bakış'ta Malyfous Karabalyoz'u bulacaksın, YOUR_CLASS. Ona 'Finkle gayet iyi' de ve elbisenin mükemmel çalıştığını söyle.\n\nSonra ona bunu uzat:\n\n<Finkle sana parlayan bir et parçası uzatır.>\n\nOnu 'tatilim' sırasında canavarın iç organlarından kaptım.\n\nMalyfous'un bunun gibi bir canavarın parçalarıyla ne yapabileceği konusunda sana oldukça doğru bir değerlendirme yapabileceğine bahse girerim!\n\nOh, Zamansız Bakış'ın nerede olduğunu bilmiyorsun, değil mi? Kışbeşiği'ne git, güzel delikanlı/kız!",
+    ["Description"]="Zamansız Bakış'ta Malyfous Karabalyoz'u bulacaksın, YOUR_CLASS. Ona 'Finkle gayet iyi' de ve elbisenin mükemmel çalıştığını söyle.\n\nSonra ona bunu uzat:\n\n<Finkle sana parlayan bir et parçası uzatır.>\n\nOnu 'tatilim' sırasında canavarın iç organlarından kaptım.\n\nMalyfous'un bunun gibi bir canavarın parçalarıyla ne yapabileceği konusunda sana oldukça doğru bir değerlendirme yapabileceğine bahse girerim!\n\nOh, Zamansız Bakış'ın nerede olduğunu bilmiyorsun, değil mi? Kışbaharı'ne git, güzel delikanlı/kız!",
     ["Objectives"]="Zamansız Bakış'taki Malyfous Karabalyoz ile konuş.",
     ["Progress"]="Evet?",
     ["Completion"]="Hayatta mı? Elbise çalıştı mı? Ve burada neyimiz var?",
@@ -58735,13 +58735,13 @@ QuestTranslator_QuestData = {
 
     -- Threat of the Winterfall
     -- Donova Snowden -> Donova Snowden (MobNpcData.lua)[cite: 1]
-    -- Winterspring -> Kışbeşiği (ZoneData.lua)
+    -- Winterspring -> Kışbaharı (ZoneData.lua)
     -- Frostfire -> Buzateşi
     -- Winterfall -> Kışdüşüşü
     ["5082"] = {
     ["Title"]="Kışdüşüşü Tehdidi",
-    ["Description"]="Buzateşi Kaplıcaları'nı incelemek için Kışbeşiği'ne geldim. Suyun... Garip özelliklere sahip olduğunu fark ettim. Kaynağı henüz keşfedemedim ve sana gerçeği söylemek gerekirse, Kışdüşüşü furbolgları yüzünden son zamanlarda bazı zorluklar yaşadım.\n\nTıpkı benim gibi onlar da kaplıcalara çekiliyor gibi görünüyor. Su konusunda son derece korumacı hale geldiler ve buranın kuzeyindeki iki büyük kaplıcanın yakınına gelmeme izin vermiyorlar.\n\nÇalışmalarıma devam etmek istiyorum, bana yardım etmez misin?",
-    ["Objectives"]="Kışbeşiği'ndeki Donova Snowden 8 Kışdüşüşü İzci, 8 Kışdüşüşü İn Nöbetçisi ve 8 Kışdüşüşü Totemcisi öldürmeni istiyor.",
+    ["Description"]="Buzateşi Kaplıcaları'nı incelemek için Kışbaharı'ne geldim. Suyun... Garip özelliklere sahip olduğunu fark ettim. Kaynağı henüz keşfedemedim ve sana gerçeği söylemek gerekirse, Kışdüşüşü furbolgları yüzünden son zamanlarda bazı zorluklar yaşadım.\n\nTıpkı benim gibi onlar da kaplıcalara çekiliyor gibi görünüyor. Su konusunda son derece korumacı hale geldiler ve buranın kuzeyindeki iki büyük kaplıcanın yakınına gelmeme izin vermiyorlar.\n\nÇalışmalarıma devam etmek istiyorum, bana yardım etmez misin?",
+    ["Objectives"]="Kışbaharı'ndeki Donova Snowden 8 Kışdüşüşü İzci, 8 Kışdüşüşü İn Nöbetçisi ve 8 Kışdüşüşü Totemcisi öldürmeni istiyor.",
     ["Progress"]="Yardımın için minnettarım!",
     ["Completion"]="Çok teşekkürler, YOUR_NAME! Artık burada tekrar işime dönebilirim.\n\nKışdüşüşü ordugahında ilgi çekici bir şey buldun mu?",
     ["minlevel"]="52",
@@ -58751,11 +58751,11 @@ QuestTranslator_QuestData = {
     -- Winterfall Firewater
     -- Donova Snowden -> Donova Snowden (MobNpcData.lua)[cite: 1]
     -- Winterfall -> Kışdüşüşü
-    -- Winterspring -> Kışbeşiği (ZoneData.lua)
+    -- Winterspring -> Kışbaharı (ZoneData.lua)
     ["5083"] = {
     ["Title"]="Kışdüşüşü Ateşsuyu",
-    ["Description"]="Kışdüşüşü furbolgundan aldığın bu şişe boş ama içinde garip yeşil bir sıvının birkaç damlasını tespit edebiliyorsun; neredeyse parlıyor.\n\nÖnemli bir şey mi?\n\nDonova Snowden sana daha fazla şey söyleyebilir, çünkü bir süredir Kışbeşiği'ndeki kaplıcaların yanında kamp kurmuş durumda.",
-    ["Objectives"]="Boş Ateşsuyu Matarası'nı Kışbeşiği'ndeki Donova Snowden'a getir.",
+    ["Description"]="Kışdüşüşü furbolgundan aldığın bu şişe boş ama içinde garip yeşil bir sıvının birkaç damlasını tespit edebiliyorsun; neredeyse parlıyor.\n\nÖnemli bir şey mi?\n\nDonova Snowden sana daha fazla şey söyleyebilir, çünkü bir süredir Kışbaharı'ndeki kaplıcaların yanında kamp kurmuş durumda.",
+    ["Objectives"]="Boş Ateşsuyu Matarası'nı Kışbaharı'ndeki Donova Snowden'a getir.",
     ["Progress"]="Bulduğun şey nedir?",
     ["Completion"]="Bunu Kışdüşüşü'nden mi aldın?",
     ["minlevel"]="52",
@@ -58799,11 +58799,11 @@ QuestTranslator_QuestData = {
     -- Deadwood -> Ölüodun
     -- Felwood -> Felwood (ZoneData.lua)
     -- Irontree Woods -> Demirağaç Ormanları (ZoneData.lua)
-    -- Winterspring -> Kışbeşiği (ZoneData.lua)
+    -- Winterspring -> Kışbaharı (ZoneData.lua)
     ["5086"] = {
     ["Title"]="Zehirli Dehşetler",
     ["Description"]="Döndüğün örneği inceledim ve kesin olarak söyleyemesem de zehirli unsurlar izleri içerdiğine inanıyorum. Ancak kesin olarak bilmenin tek yolu bir karşılaştırma olarak biraz toplamak.\n\nÖlüodun furbolglarının bu unsurları Felwood'daki diğer yozlaşmış yaratıklardan topluyor olabileceğine inanıyorum; özellikle Demirağaç Ormanları'nda yaşayan ve zehirli dehşetler olarak adlandırılan elementallerden.\n\nKarşılaştırmam için bana birkaç örnek topla ama dikkatli ol -- orası çok tehlikeli!",
-    ["Objectives"]="Kışbeşiği'ndeki Donova Snowden için 3 Zehirli Dehşet Damlası topla.",
+    ["Objectives"]="Kışbaharı'ndeki Donova Snowden için 3 Zehirli Dehşet Damlası topla.",
     ["Progress"]="Burada ne olduğunu ortaya çıkarmaya başladığımızı düşünüyorum, YOUR_NAME.",
     ["Completion"]="Bunu kazanda bulduğun maddeyle karşılaştırmam gerekiyor, sonra daha fazlasını bileceğimizden eminim.",
     ["minlevel"]="52",
@@ -58985,13 +58985,13 @@ QuestTranslator_QuestData = {
     -- High Chief Winterfall
     -- High Chief Winterfall -> Yüksek Şef Kışdüşüşü (MobNpcData.lua)[cite: 1]
     -- Donova Snowden -> Donova Snowden (MobNpcData.lua)[cite: 1]
-    -- Winterspring -> Kışbeşiği (ZoneData.lua)
+    -- Winterspring -> Kışbaharı (ZoneData.lua)
     -- Winterfall -> Kışdüşüşü
     -- Winterfall Village -> Kışdüşüşü Köyü
     ["5121"] = {
     ["Title"]="Yüksek Şef Kışdüşüşü",
     ["Description"]="Furbolgların neden bu garip maddeyi tükettiği hakkında hâlâ çok az şey bilsek de, kontrolden çıkmadan önce buna bir son vermemizin en iyisi olduğunu düşünüyorum.\n\nKışdüşüşü furbolgları normalde saldırgan bir kabile değildir ve davranışlarındaki bu değişiklik, şeflerinden emir alıyor olmaları gerektiğini düşünmeme neden oluyor. Büyük olasılıkla yapılmış olan hasarı geri alamayız ama liderleri katledilirse daha da kötüye gitmeyeceklerini düşünüyorum.\n\nDoğuya, Kışdüşüşü Köyü'ne git.",
-    ["Objectives"]="Kışbeşiği'ndeki Donova Snowden Yüksek Şef Kışdüşüşü'nü yenmeni istiyor.",
+    ["Objectives"]="Kışbaharı'ndeki Donova Snowden Yüksek Şef Kışdüşüşü'nü yenmeni istiyor.",
     ["Progress"]="Belki Kışdüşüşü Köyü'nde daha fazlasını öğrenirsin, YOUR_NAME.",
     ["Completion"]="Çok teşekkürler, YOUR_NAME. Pusuya düşürülme endişesi duymadan çalışmalarıma geri dönmeyi umuyorum. Lütfen bunu ödül olarak kabul et.",
     ["minlevel"]="52",
@@ -59017,11 +59017,11 @@ QuestTranslator_QuestData = {
     -- The Final Piece
     -- Donova -> Donova (MobNpcData.lua)[cite: 1]
     -- Donova Snowden -> Donova Snowden (MobNpcData.lua)[cite: 1]
-    -- Winterspring -> Kışbeşiği (ZoneData.lua)
+    -- Winterspring -> Kışbaharı (ZoneData.lua)
     ["5123"] = {
     ["Title"]="Son Parça",
     ["Description"]="Yüksek şefin üzerinde bulduğun seyir defteri kapsamlı görünüyor ancak sayfaların birkaçına baktıktan sonra metni okuyamadığını fark ediyorsun. İşaretler o kadar ilkel ve kötü biçimlendirilmiş ki kimsenin onları okuyabileceğinden emin değilsin.\n\nAma belki Donova sana ne yazdığını söyleyebilir...",
-    ["Objectives"]="Kabaca Yazılmış Seyir Defteri'ni Kışbeşiği'ndeki Donova Snowden'a getir.",
+    ["Objectives"]="Kabaca Yazılmış Seyir Defteri'ni Kışbaharı'ndeki Donova Snowden'a getir.",
     ["Progress"]="Şimdi, bu da nedir, YOUR_NAME?",
     ["Completion"]="Bütün bunların ne anlama geldiğini merak ediyorum... Hiçbir şey çıkaramıyorum...",
     ["minlevel"]="52",
@@ -59068,11 +59068,11 @@ QuestTranslator_QuestData = {
     -- Lorax -> Lorax (MobNpcData.lua)[cite: 1]
     -- Goraluk Anvilcrack -> Goraluk Örsçatlağı (MobNpcData.lua)[cite: 1]
     -- Blackrock Spire -> Karakaya Zirvesi (ZoneData.lua)
-    -- Winterspring -> Kışbeşiği (ZoneData.lua)
+    -- Winterspring -> Kışbaharı (ZoneData.lua)
     ["5127"] = {
     ["Title"]="İblis Ocağı",
     ["Description"]="Lorax anlaşmalar yapar, önemsiz ölümlülerden gelenleri kabul etmez.\n\nYine de seninle bir anlaşma yapacağım... Bu kargıyı al, güçlü İblis enerjileriyle aşılanmıştır. Goraluk Örsçatlağı'nı bulduğunda onu katlet ve bu kargıyı onun ölmekte olan kalbine sapla. Ruhunu takas etti, ruhunu alacağım. Kargıyı geri getir ve hırsızın çaldığı göğüslüğü geri getir, ben de sana öğreneceği şeyi öğreteyim.",
-    ["Objectives"]="Karakaya Zirvesi'ne seyahat et ve Goraluk Örsçatlağı'nı bul. Onu katlet ve ardından cesedi üzerinde Kan Leke Kapan Kargı'yı kullan. Ruhu emildikten sonra kargı Ruh Leke Kapan olacak.\n\nAyrıca Dövülmemiş Rün Kaplı Göğüslük'ü de bulmalısın.\n\nHem Ruh Leke Kapan Kargı'yı hem de Dövülmemiş Rün Kaplı Göğüslük'ü Kışbeşiği'ndeki Lorax'a geri getir.",
+    ["Objectives"]="Karakaya Zirvesi'ne seyahat et ve Goraluk Örsçatlağı'nı bul. Onu katlet ve ardından cesedi üzerinde Kan Leke Kapan Kargı'yı kullan. Ruhu emildikten sonra kargı Ruh Leke Kapan olacak.\n\nAyrıca Dövülmemiş Rün Kaplı Göğüslük'ü de bulmalısın.\n\nHem Ruh Leke Kapan Kargı'yı hem de Dövülmemiş Rün Kaplı Göğüslük'ü Kışbaharı'ndeki Lorax'a geri getir.",
     ["Progress"]="Ayartma...",
     ["Completion"]="Ahtimizi bozmadın. Ruhu aldım. Ödülü vereceğim.",
     ["minlevel"]="55",
@@ -59318,12 +59318,12 @@ QuestTranslator_QuestData = {
     -- Awbee -> Awbee (MobNpcData.lua)
     -- Haleh -> Haleh (MobNpcData.lua)
     -- Kalimdor -> Kalimdor (ZoneData.lua)
-    -- Winterspring -> Kışbeşiği (ZoneData.lua)
+    -- Winterspring -> Kışbaharı (ZoneData.lua)
     -- Mazthoril -> Mazthoril (ZoneData.lua)
     ["5160"] = {
     ["Title"]="Koruyucu Matron",
-    ["Description"]="Kalimdor'a seyahat et, YOUR_RACE. Sürümüz evini Kışbeşiği'nin dondurucu coğrafyasında kurar. Kışbeşiği'ne ulaştığında Mazthoril mağaralarını bul.\n\nMazthoril'in buzlu zeminlerinde kobalt rünler bulacaksın. Pullarımdan birini tut ve bir rünün üzerinde dur; koruyucu matronumuz Haleh'in yanına ışınlanacaksın.\n\nBu felaketle dolu yerde gördüğüm ve hissettiğim şeyleri fal yoluyla görebilmesi için ona pulu ver.",
-    ["Objectives"]="Kışbeşiği'ne seyahat et ve Haleh'i bul. Ona Awbee'nin pulunu ver.",
+    ["Description"]="Kalimdor'a seyahat et, YOUR_RACE. Sürümüz evini Kışbaharı'nin dondurucu coğrafyasında kurar. Kışbaharı'ne ulaştığında Mazthoril mağaralarını bul.\n\nMazthoril'in buzlu zeminlerinde kobalt rünler bulacaksın. Pullarımdan birini tut ve bir rünün üzerinde dur; koruyucu matronumuz Haleh'in yanına ışınlanacaksın.\n\nBu felaketle dolu yerde gördüğüm ve hissettiğim şeyleri fal yoluyla görebilmesi için ona pulu ver.",
+    ["Objectives"]="Kışbaharı'ne seyahat et ve Haleh'i bul. Ona Awbee'nin pulunu ver.",
     ["Progress"]="Seni görmek güzel, YOUR_NAME.",
     ["Completion"]="Ajanlar ölümlülerin işlerinden uzak durmamız konusunda ısrar ediyor. Ancak bu dünyada böyle bir şey her zaman mümkün olmuyor - özellikle de bizden biri bu tür fermanları küstahça görmezden geldiğinde.",
     ["minlevel"]="57",
@@ -59363,7 +59363,7 @@ QuestTranslator_QuestData = {
     -- Sprinkle -> Sprinkle (MobNpcData.lua)
     -- Quixxil -> Quixxil (MobNpcData.lua)
     -- Everlook -> Zamansız Bakış (ZoneData.lua)
-    -- Winterspring -> Kışbeşiği (ZoneData.lua)
+    -- Winterspring -> Kışbaharı (ZoneData.lua)
     -- Gadgetzan -> Gadgetzan (ZoneData.lua)
     -- Tanaris -> Tanaris (ZoneData.lua)
     -- Marshal's Refuge -> Marshal Sığınağı (ZoneData.lua)
@@ -59371,7 +59371,7 @@ QuestTranslator_QuestData = {
     ["5163"] = {
     ["Title"]="Geldik mi Yeti?",
     ["Description"]="Her şey hazır, YOUR_NAME!\n\nŞimdi, arkadaşlarıma onlar için bir sürprizim olduğunu belirten birkaç mektup gönderdim bile. Sen burada devreye giriyorsun!\n\nSana mekanik yetişimi vereceğim ve arkadaşlarımdan her birine bir ziyaret yapıp yetiyi çalıştırarak ve üzerlerine sürerek onları şaşırtman gerekiyor.\n\nZamansız Bakış'taki Legacki'ye, Gadgetzan'daki Sprinkle'a ve Marshal Sığınağı'ndaki Quixxil'e gösterdikten sonra geri gel ve bana ne olduğunu anlat!\n\nLütfen o zaman yetişimi de bana geri getir.",
-    ["Objectives"]="Umi'nin Mekanik Yeti'sini al ve arkadaşlarıyla onu korkut:\n\nZamansız Bakış'taki Legacki (Kışbeşiği)\nGadgetzan'daki Sprinkle (Tanaris)\nMarshal Sığınağı'ndaki Quixxil (Un'Goro Krateri)\n\nİşin bittiğinde Mekanik Yeti'yi Umi'ye geri getir.",
+    ["Objectives"]="Umi'nin Mekanik Yeti'sini al ve arkadaşlarıyla onu korkut:\n\nZamansız Bakış'taki Legacki (Kışbaharı)\nGadgetzan'daki Sprinkle (Tanaris)\nMarshal Sığınağı'ndaki Quixxil (Un'Goro Krateri)\n\nİşin bittiğinde Mekanik Yeti'yi Umi'ye geri getir.",
     ["Progress"]="Arkadaşlarımın nasıl tepki vereceğini duymak için sabırsızlanıyorum!\n\nBunu hiç beklemiyor olacaklar!",
     ["Completion"]="Ha! Fikirlerimle bir daha dalga geçmeden önce iki kez düşünecekler!\n\nYardımın için teşekkürler, YOUR_NAME. Sensin bu kadar eğlenemezdim!",
     ["minlevel"]="52",
@@ -59466,11 +59466,11 @@ QuestTranslator_QuestData = {
 
     -- Winterfall Intrusion
     -- Rivern Frostwind -> Rivern Dondururüzgar (MobNpcData.lua)
-    -- Winterspring -> Kışbeşiği (ZoneData.lua)
+    -- Winterspring -> Kışbaharı (ZoneData.lua)
     -- Winterfall -> Kışdüşüşü
     ["5201"] = {
     ["Title"]="Kışdüşüşü Tacizi",
-    ["Description"]="Varlığım çoğu kişi tarafından fark edilmiyor, YOUR_NAME. Ancak Kışbeşiği'nde kök salmış gibi görünen bir rahatsızlık var: Kışdüşüşü furbolgları.\n\nFurbolglara hiç doğrudan saldırmamış olsam da, çıldırmış gibi görünüyorlar, yollarına çıkan her şeyden korkuyorlar. Sadece yanlış zamanda yanlış yerde olma talihsizliğine erişen sayısız yaratığı katletmelerini izledim.\n\nOnların işlerimize karışmasından bıktım -- lütfen karşılık vererek bana yardım et. Furbolgları katlet ve onları Buzkılıç Kayası'ndan uzak tut.",
+    ["Description"]="Varlığım çoğu kişi tarafından fark edilmiyor, YOUR_NAME. Ancak Kışbaharı'nde kök salmış gibi görünen bir rahatsızlık var: Kışdüşüşü furbolgları.\n\nFurbolglara hiç doğrudan saldırmamış olsam da, çıldırmış gibi görünüyorlar, yollarına çıkan her şeyden korkuyorlar. Sadece yanlış zamanda yanlış yerde olma talihsizliğine erişen sayısız yaratığı katletmelerini izledim.\n\nOnların işlerimize karışmasından bıktım -- lütfen karşılık vererek bana yardım et. Furbolgları katlet ve onları Buzkılıç Kayası'ndan uzak tut.",
     ["Objectives"]="Rivern Dondururüzgar 5 Kışdüşüşü Şamanı ve 5 Kışdüşüşü Ayısı öldürmeni istiyor.",
     ["Progress"]="Furbolglar böylesine bir paranoyadan muzdarip gibi görünüyor...",
     ["Completion"]="Kısa bir an için de olsa Kışdüşüşü tacizi konusunda endişelenmemize gerek kalmayacağını duyduğuma rahatladım.\n\nAzmini göstermeye başladın, YOUR_NAME.",
@@ -60009,11 +60009,11 @@ QuestTranslator_QuestData = {
     -- Jaron Stoneshaper -> Jaron Taşşekillendiren (MobNpcData.lua)
     -- Kel'Theril -> Kel'Theril (ZoneData.lua)
     -- Felwood -> Felwood (ZoneData.lua)
-    -- Winterspring -> Kışbeşiği (ZoneData.lua)
+    -- Winterspring -> Kışbaharı (ZoneData.lua)
     ["5244"] = {
     ["Title"]="Kel'Theril Harabeleri",
     ["Description"]="Kel'Theril'in arkasındaki hikaye, talihsiz bir ritüeli denedikleri yere bağlı olan lanetli bir ırkın hikayesidir...\n\nOrada bulacağın soylular bir zamanlar kutsal bir emaneti çalmış, onun gücünü kendileri için çekip daha da güçlenebileceklerine inanmışlardı. Çabalarında emanet büyük bir patlamayla parçalandı ve parçaları gölün buzunun altına fırlattı...\n\nDaha fazlasını öğrenmek istiyorsan Jaron Taşşekillendiren ile konuş; yakın zamanda bölgeyi ziyaret etti ve sana daha fazla şey anlatabilir.",
-    ["Objectives"]="Yıldızdüşüşü Köyü'ndeki Jaron Taşşekillendiren ile konuş.",
+    ["Objectives"]="Yıldızyağmuru Köyü'ndeki Jaron Taşşekillendiren ile konuş.",
     ["Progress"]="",
     ["Completion"]="Pekala, elbette sana Kel'Theril hakkında daha fazla şey anlatabilirim. Unutma ama ben bir tarihçi değilim, ama sana orada ne gördüğümü anlatabilirim...",
     ["minlevel"]="53",
@@ -60077,7 +60077,7 @@ QuestTranslator_QuestData = {
     ["5248"] = {
     ["Title"]="Geçmişin Eziyeti",
     ["Description"]="YOUR_NAME, geçmişte olanlar için ağlıyorum. Bu kristal gibi, elfler de bir ırk olarak parçalandı. Parçaların bir gün tekrar bir araya gelip gelmeyeceğini bilmiyorum ama bu küçük görevde sana yardım edebilmiş olmak üzüntümü hafifletti.\n\nGeçmişi unutmamalıyız, YOUR_NAME...\n\nLütfen Zin-Malor Kristali'ni Kel'Theril Gölü'ne geri götür. Çok uzun zaman önce yapılan hatanın farkına varan soylu bir ruh bulmalısın. Ruha işleri tekrar düzelttiğimizi göster.",
-    ["Objectives"]="Zin-Malor Kristali'ni Kışbeşiği'ndeki Kel'Theril Gölü'ne götür ve seninle konuşacak soylu bir ruh bul.",
+    ["Objectives"]="Zin-Malor Kristali'ni Kışbaharı'ndeki Kel'Theril Gölü'ne götür ve seninle konuşacak soylu bir ruh bul.",
     ["Progress"]="Lanettttlanişşş... Sonsuzaaa dekkk...",
     ["Completion"]="Lütttfennn, beniii yalnızzz bırakkk...",
     ["minlevel"]="53",
@@ -60087,13 +60087,13 @@ QuestTranslator_QuestData = {
     -- To Winterspring!
     -- Wynd Nightchaser -> Wynd Gecegezen (MobNpcData.lua)
     -- Ivy Leafrunner -> Ivy Yaprakkoşan (MobNpcData.lua)
-    -- Winterspring -> Kışbeşiği (ZoneData.lua)
+    -- Winterspring -> Kışbaharı (ZoneData.lua)
     -- Felwood -> Felwood (ZoneData.lua)
-    -- Starfall Village -> Yıldızdüşüşü Köyü (ZoneData.lua)
+    -- Starfall Village -> Yıldızyağmuru Köyü (ZoneData.lua)
     ["5249"] = {
-    ["Title"]="Kışbeşiği'ne!",
-    ["Description"]="Kışbeşiği'nde, buranın kuzeyinde birçok antik elf harabesi var. Sert bir diyardır ama keşfedilecek birçok sır ve yer barındırır.\n\nFelwood'da yapacak bu kadar işim varken Kışbeşiği'ne seyahat etme fırsatım olmadı. Ama senin gitmemen için hiçbir sebep yok!\n\nOradayken Wynd Gecegezen'i ara. Zamanının çoğunu Yıldızdüşüşü Köyü'nde geçirir ve bölge hakkında çok şey bilir.",
-    ["Objectives"]="Kışbeşiği'ndeki Yıldızdüşüşü Köyü'nü bul ve Wynd Gecegezen ile konuş.",
+    ["Title"]="Kışbaharı'ne!",
+    ["Description"]="Kışbaharı'nde, buranın kuzeyinde birçok antik elf harabesi var. Sert bir diyardır ama keşfedilecek birçok sır ve yer barındırır.\n\nFelwood'da yapacak bu kadar işim varken Kışbaharı'ne seyahat etme fırsatım olmadı. Ama senin gitmemen için hiçbir sebep yok!\n\nOradayken Wynd Gecegezen'i ara. Zamanının çoğunu Yıldızyağmuru Köyü'nde geçirir ve bölge hakkında çok şey bilir.",
+    ["Objectives"]="Kışbaharı'ndeki Yıldızyağmuru Köyü'nü bul ve Wynd Gecegezen ile konuş.",
     ["Progress"]="",
     ["Completion"]="Ivy Yaprakkoşan'ın bir arkadaşı mı? Tanıştığıma memnun oldum, YOUR_NAME.",
     ["minlevel"]="53",
@@ -60116,11 +60116,11 @@ QuestTranslator_QuestData = {
     -- Remorseful Highborne
     -- Zin-Malor -> Zin-Malor
     -- Wynd Nightchaser -> Wynd Gecegezen (MobNpcData.lua)
-    -- Starfall Village -> Yıldızdüşüşü Köyü (ZoneData.lua)
+    -- Starfall Village -> Yıldızyağmuru Köyü (ZoneData.lua)
     ["5252"] = {
     ["Title"]="Pişman Soylu",
     ["Description"]="Kristal... kristal...\n\nBuradaki soylular kendi sefıllikleriyle körelmişşş...\n\nÜzgünüm, ama çok uzun zaman önce ne olduğunun hatasını anlayabiliyorummm. Geçmişi değiştirecek bir yol olmasa da Zin-Malor Kristali'ni geri aldığını bildiğim için artık huzur içindeyimmm...\n\nOnu geri götürmelisin... Geri götürülmeli.",
-    ["Objectives"]="Yıldızdüşüşü Köyü'ndeki Wynd Gecegezen ile konuş ve Zin-Malor Kristali için uygun yeri sor.",
+    ["Objectives"]="Yıldızyağmuru Köyü'ndeki Wynd Gecegezen ile konuş ve Zin-Malor Kristali için uygun yeri sor.",
     ["Progress"]="Ayrılalı epey zaman oldu, YOUR_NAME. Nasıl gittin?",
     ["Completion"]="Bu... düşündüğüm şey mi?",
     ["minlevel"]="53",
@@ -62345,11 +62345,11 @@ QuestTranslator_QuestData = {
 
     -- Enraged Wildkin
     -- Jaron Stoneshaper -> Jaron Taşbiçimlendiren (MobNpcData.lua)
-    -- Starfall Village -> Yıldızdüşüşü Köyü (ZoneData.lua)
+    -- Starfall Village -> Yıldızyağmuru Köyü (ZoneData.lua)
     ["6604"] = {
     ["Title"]="Öfkelenmiş Yabansoyu",
-    ["Description"]="Buranın güneyindeki terk edilmiş kampı fark ettin mi? Yabansoyu çıldırmış ve bulabildikleri her şeyi yok etmiş gibi görünüyor!\n\nSaldırıdan kurtulanlardan birinin buranın batısındaki Yıldızdüşüşü Köyü'nde dinlendiğine dair bir söylenti duydum. Ne olduğunu kesinlikle merak ediyorum... sen etmiyor musun?",
-    ["Objectives"]="Yıldızdüşüşü Köyü'ndeki Jaron Taşbiçimlendiren ile konuş.",
+    ["Description"]="Buranın güneyindeki terk edilmiş kampı fark ettin mi? Yabansoyu çıldırmış ve bulabildikleri her şeyi yok etmiş gibi görünüyor!\n\nSaldırıdan kurtulanlardan birinin buranın batısındaki Yıldızyağmuru Köyü'nde dinlendiğine dair bir söylenti duydum. Ne olduğunu kesinlikle merak ediyorum... sen etmiyor musun?",
+    ["Objectives"]="Yıldızyağmuru Köyü'ndeki Jaron Taşbiçimlendiren ile konuş.",
     ["Progress"]="",
     ["Completion"]="Evet, senin için ne yapabilirim?",
     ["minlevel"]="53",
