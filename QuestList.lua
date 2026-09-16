@@ -1,9 +1,4 @@
 QuestTranslator_QuestList = {
-    ["_QTR_DUP_1"]={"40051",""},
-    ["_QTR_DUP_2"]={"40052",""},
-    ["_QTR_DUP_3"]={"40053",""},
-    ["_QTR_DUP_4"]={"40054",""},
-    ["_QTR_DUP_5"]={"40056",""},
     ["'Fair Trade' Is Not Legally Defined in Azeroth_QTR_DUP_1"]={"41269",""},
     ["'Fair Trade' Is Not Legally Defined in Azeroth_QTR_DUP_2"]={"41272",""},
     ["[CANCELLED] Piercing Light_QTR_DUP_1"]={"60011",""},
