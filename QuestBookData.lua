@@ -1462,5 +1462,9 @@ QuestTranslator_BookData = {
 	["Bolvar's Decree"] = {
     	["Title"] = "Bolvar'ın Fermanı",
     	["Text"] = "Solomon,NEW_LINEBu fermanı taşıyan kişiye Fırtınarüzgarı'nın vekil temsilcisi olarak resmi statü verilmiştir. Siyah Ejderhasoyu'nun Karakaya Orkları ile olan ilişkisine dair kanıt bulmak için kendisini kullanabilirsin. Eğer böyle bir kanıt bulunursa, söz konusu temsilci bu kanıtı Fırtınarüzgarı'nda bana geri getirecektir; o zaman Gölkasabası'na yardım etmek üzere yeterli askeri gücü sevk etme emrini çıkaracağım.NEW_LINESaygılarımla,NEW_LINEYüce Derebeyi Bolvar Fordragon"
+	},
+	["Hateforge Chemistry Documents"] = {
+    	["Title"] = "Nefret Ocağı Kimya Dokümanları",
+    	["Text"] = "<Karmaşık şemalar, erimiş lavla karıştırılan çeşitli büyü özelliklerini göstermektedir.>NEW_LINENEFRET OCAĞI İKSİRİ, üst sınıfın gizli tutmak istediği gizli projenin takma adıdır; bu dokümanı inceleyen herkes çenesini kapalı tutmalıdır.NEW_LINEBu dokümandan sır sızdırmanın cezası Kanun Halkası'nda yargılanmaktır.NEW_LINESANA GELİNCE, NEFRET OCAĞI KİMYAGERİ; ÇİZELGELERİ VE ŞEMALARI İNCELE, DENEYLERE DEVAM ET. BAŞARISIZLIK BİR SEÇENEK -DEĞİLDİR-!!!"
 	}
 }
