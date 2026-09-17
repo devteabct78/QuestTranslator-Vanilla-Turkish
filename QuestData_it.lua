@@ -43142,7 +43142,7 @@ QuestTranslator_QuestData = {
     -- Senator Granitebeard -> Senatör Granitsakal kalmıştır, report seal Ironforge -> raporunu yazar mühürler Demirörs mührüyle damgalar. King Magni Bronzebeard -> Kral Magni Bronzsakal kalmıştır, relevant information -> ilgili bilgileri barındırıyor, reported back -> rapor ettiğin bilgilere dayanarak. Enemies plot against us -> düşmanlarımız bize karşı entrika çeviriyor. Assistance -> yardım.
     ["40487"] = {
     ["Title"]="Nefretocağı Raporu",
-    ["Description"]="<Senatör Granitebeard raporunu hızlıca yazar (makes quick work), onu mühürler ve Demirörs (Ironforge) mührüyle damgalar.> Al bakalım, bunu hemen Demirörs'e götürmeni ve Kral Magni Bronzebeard'e (King Magni Bronzebeard) rapor etmeni istiyorum; gördüklerime ve  bana rapor ettiğin bilgilere (reported back) dayanarak ilgili tüm bilgileri barındırıyor olmalı. Çabuk ol, düşmanlarımız bize karşı entrika çeviriyor (plot against us).",
+    ["Description"]="<Senatör Granitebeard raporunu hızlıca yazar, onu mühürler ve Demirörs (Ironforge) mührüyle damgalar.> Al bakalım, bunu hemen Demirörs'e götürmeni ve Kral Magni Bronzebeard'e (King Magni Bronzebeard) rapor etmeni istiyorum; gördüklerime ve  bana rapor ettiğin bilgilere dayanarak ilgili tüm bilgileri barındırıyor olmalı. Çabuk ol, düşmanlarımız bize karşı entrika çeviriyor.",
     ["Objectives"]="Nefretocağı Raporu'nu (Hateforge Report) Demirörs'deki Kral Magni Bronzebeard'e ulaştır.",
     ["Progress"]="Evet?",
     ["Completion"]="Seni Demirörs'e (Ironforge) getiren nedir, Bronzsakal'a (the Bronzebeard) nasıl yardımcı olabilirsin?",
