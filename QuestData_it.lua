@@ -38381,10 +38381,10 @@ QuestTranslator_QuestData = {
     -- Green liquid -> Yeşil sıvı, flask -> matara / şişe. Overseer -> Başgözetmen. Acidic -> Asidik. Nose hairs -> Burun kılları.
     ["40458"] = {
     ["Title"]="Rakip Varlık",
-    ["Description"]="Pekala, gözcü raporları (lookout reports) az önce geldi. Görünüşe göre o eski kardeşlik (brotherhood) artık dışarıda yalnız değil. Raporlar, Gölgedemiri'nin (Shadowforge) dağın diğer tarafında bir şeyler kurduğunu gösteriyor, bir tür taş ocağı (quarry). Ne kazdıkları bir gizem (mystery) çünkü onlardan biri olmadıkça içeri giren hiç kimse canlı çıkamıyor. İşte burada sen devreye giriyorsun. Arkadaşlarından veya bazı paralı askerlerden (mercenaries) topla ve o taş ocağına atıl, orada ne kazdıklarını öğren. Şimdi git!",
+    ["Description"]="Pekala, gözcü raporları az önce geldi. Görünüşe göre o eski kardeşlik artık dışarıda yalnız değil. Raporlar, Gölgedemiri'nin (Shadowforge) dağın diğer tarafında bir şeyler kurduğunu gösteriyor, bir tür taş ocağı. Ne kazdıkları bir gizem çünkü onlardan biri olmadıkça içeri giren hiç kimse canlı çıkamıyor. İşte burada sen devreye giriyorsun. Arkadaşlarından veya bazı paralı askerlerden topla ve o taş ocağına atıl, orada ne kazdıklarını öğren. Şimdi git!",
     ["Objectives"]="Nefretocağı Madeni'nda (Hateforge Quarry) ne kazıldığını öğren.",
     ["Progress"]="İçeri sızma girişimlerinin tümü başarısız oldu, tazıları (hounds) her şeyin kokusunu alabiliyor.",
-    ["Completion"]="Bu... yeşil sıvı mı orada kaynattıkları şey? <Başgözetmen (Overseer) matarayı açar ve koklar.> Och, oldukça asidik (acidic)! Bu kesinlikle çok endişe verici, eğer sadece kokusu bile burun kıllarını (nose hairs) yakıyorsa, ete ne yaptığını düşünmekten ürperiyorum. Diğerlerini bu konuda uyaracağım, kardeşliğe karşı yetenekli olduğunu kanıtladın.",
+    ["Completion"]="Bu... yeşil sıvı mı orada kaynattıkları şey? <Başgözetmen (Overseer) matarayı açar ve koklar.> Och, oldukça asidik! Bu kesinlikle çok endişe verici, eğer sadece kokusu bile burun kıllarını yakıyorsa, ete ne yaptığını düşünmekten ürperiyorum. Diğerlerini bu konuda uyaracağım, kardeşliğe karşı yetenekli olduğunu kanıtladın.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Rival Presence
