@@ -5,7 +5,7 @@
 
 
 -- Global Variables
-local QTR_version = "1.0.20260909.1647";
+local QTR_version = "1.0.20260917.2031";
 local QTR_name = UnitName("player");
 local QTR_class= UnitClass("player");
 local QTR_race = UnitRace("player");
