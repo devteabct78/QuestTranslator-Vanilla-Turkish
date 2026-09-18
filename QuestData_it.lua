@@ -36152,7 +36152,7 @@ QuestTranslator_QuestData = {
     ["40756"] = {
     ["Title"]="Operasyon Tamir: Screwfuse 1000",
     ["Description"]="O, tam anlamıyla aptallar (idiots)! Tüm mekanizma (mechanism) kırılmış; yedek Arkan Düzenleyicim (Arcane Regulator) ve Yaylıdüzenek Flanşım (Spingadge Flange) ikisi de kırık. Kezan'dan (Kezan) özel olarak sipariş edilen bu kadar nadir parçaları (rare parts) edinmenin ne kadar sürdüğünü biliyor musun?\n\nKeşke hâlâ hayatta olsalardı, onları çürüdükleri (rotting) hangi hak edilmemiş öbür dünyaya (misgotten afterlife) gönderecek kişi  ben olurdum. Kezan'dan nadir mallar için sadece tek bir kaynağım var ve onunla konuşmanı istiyorum. Bir nevi takma ad (alias) olan 'Jabbey' adıyla bilinir; Kezan'dan gelen gizli bir ajandır (undercover operative) ve çeşitli arka kanallar (back channels) aracılığıyla çalışır; git onunla konuş ve seni -Bixxle-'ın gönderdiğini bildiri, ona bu eşya listesini ulaştır.",
-    ["Objectives"]="Tanaris'teki Buhardil Limanı'nda (Steamwheedle Port) bulunan Jabbey ile konuş.",
+    ["Objectives"]="Tanaris'teki Buharçarkı Limanı'nda (Steamwheedle Port) bulunan Jabbey ile konuş.",
     ["Progress"]="Evet?",
     ["Completion"]="Huh, istediğin nedir, özel bir şey için mi buradasın? Oh, seni Bixxle gönderdi ha, şu aptal? Bir muz ayıklayıcı yapmak için koca beş yılını harcadı, neye ihtiyacı varmış?",
     ["minlevel"]="0",
@@ -36164,12 +36164,12 @@ QuestTranslator_QuestData = {
     -- Dark Iron types -> Kara Demir tipleri, Darneg Darkbeard -> Darneg Karasakal kalmıştır. High-value goods -> Yüksek değerli mallar.
     -- Swindled -> Dolandırdı. Karakaya(Blackrock) Depths = Blackrock Derinlikleri. Shadowforge City = Shadowforge.
     -- Domicile -> İkametgah / Yerleşim alanı. Extremely Potent Snuff -> Son Derece Güçlü Enfiye (Snuff -> Enfiye).
-    -- Steamwheedle Port = Buhardil Limanı, Tanaris = Tanaris. Pile of snuff -> Enfiye yığını, displeasure -> memnuniyetsizlik.
+    -- Steamwheedle Port = Buharçarkı Limanı, Tanaris = Tanaris. Pile of snuff -> Enfiye yığını, displeasure -> memnuniyetsizlik.
     ["40757"] = {
     -- Thief -> Hırsız, justice -> adalet.
     ["Title"]="Operasyon Jabbey'ye Yardım",
     ["Description"]="<Jabbey inanmaz bir ifadeyle listeye bakar ve güler.> \"Haha! Bu kadar değerli eşyaları (valuable items) öyle kolayca teslim edeceğimi mi sanıyor? Bak çocuk, bu şeyler nadirdir ve bir servet (fortune) değerindedir. Eğer onlara gerçekten ihtiyacı varsa ve yardımımı istiyorsa, önce ilgilenilmesi gereken küçük bir iyiliğim var. Adil bir anlaşma, değil mi?\n\nYani, anlaşma şu: Şu Kara Demir tiplerinden (Dark Iron types) biriyle bir iş yaptım—Darneg Darkbeard adıyla bilinir. Satması için ona yüksek değerli mallardan oluşan hatırı sayılır bir zula ödünç verdiğimi varsayalım. Sorun şu ki, tek bir çıt bile duymadım ve şimdi adamın beni dolandırdığına (swindled) dair teyit aldım. Blackrock Derinlikleri'ne (Blackrock Depths), Shadowforge Şehri'ne (Shadowforge City) gitmeni ve onu Yerleşim Alanı'nda (the Domicile) bulup izini sürmeni istiyorum. Bana borçlu olduğu 'Son Derece Güçlü Enfiye'yi (Extremely Potent Snuff) geri getir. Bunun üstesinden gelebileceğini düşünüyor musun? Kolay, değil mi?\"",
-    ["Objectives"]="Blackrock Derinlikleri'ne (Blackrock Depths) atıl ve Tanaris'teki Buhardil Limanı'nda (Steamwheedle Port) bulunan Jabbey için Yerleşim Alanı yakınlarındaki Darneg Darkbeard'dan 'Son Derece Güçlü Enfiye'yi (Extremely Potent Snuff) geri getir.",
+    ["Objectives"]="Blackrock Derinlikleri'ne (Blackrock Depths) atıl ve Tanaris'teki Buharçarkı Limanı'nda (Steamwheedle Port) bulunan Jabbey için Yerleşim Alanı yakınlarındaki Darneg Darkbeard'dan 'Son Derece Güçlü Enfiye'yi (Extremely Potent Snuff) geri getir.",
     ["Progress"]="O işe yaramaz hırsızı (thieving) bulup ona adaletini (justice) teslim ettin mi henüz? Daha da iyisi, mallarımı geri aldın mı?",
     ["Completion"]="<Jabbey küçük enfiye yığınına (pile of snuff) memnuniyetsizlikle bakar.> Şey, bu kesinlikle bir hayal kırıklığı.",
     ["minlevel"]="0",
@@ -36180,14 +36180,14 @@ QuestTranslator_QuestData = {
     -- Dwarf -> Cüce, snuff -> enfiye, parts -> parçalar. Clients -> Müşteriler, research -> araştırmak.
     -- Toxic materials -> Toksik maddeler, scientific purposes -> bilimsel amaçlar. Blighted Essence -> Vebalı Öz (Blighted -> Vebalı / Hastalıklı).
     -- Blighted Horrors -> Vebalı Dehşetler (Yaratık türü). Eastern Plaguelands = Doğu Veba Toprakları.
-    -- Jabbey, Steamwheedle Port = Buhardil Limanı, Tanaris = Tanaris. Steamwheedle = Buhardil, super disease -> süper hastalık.
+    -- Jabbey, Steamwheedle Port = Buharçarkı Limanı, Tanaris = Tanaris. Steamwheedle = Buharçarkı, super disease -> süper hastalık.
     -- Goblins word -> Bir goblinin sözü.
     ["40758"] = {
     -- Bummer -> Hayal kırıklığı / Şanssızlık.
     ["Title"]="Operasyon Jabbey'ye Yardım 2",
     ["Description"]="Şey, bunu sana yapmaktan nefret ediyorum çocuk ama o cüce (dwarf) gidip... enfiyenin (snuff) çoğunu 'kullandı', şansın biraz yaver gitmemiş gibi görünüyor. Bu, aradığın parçaların (parts) maliyetinin küçük bir kısmını bile karşılamak için kesinlikle yeterli değil, ancak geri kalanını ödeyecek başka bir iyiliğim var. Diyelim ki bilimsel amaçlarla (scientific purposes) toksic maddeleri 'araştırmak' (research) isteyen bazı müşterilerim var. Doğu Veba Toprakları'ndaki Vebalı Dehşetlerden (Blighted Horrors) elde edilebilecek bir 'Vebalı Öz' (Blighted Essence) üzerine ellerini geçirmek istiyorlar. Yani, bana Vebalı Öz'ü getir ve bu geri kalan parçaların bedelini ödeyecektir, kolay değil mi?",
-    ["Objectives"]="Doğu Veba Toprakları'na (Eastern Plaguelands) atıl ve Tanaris'teki Buhardil Limanı'nda (Steamwheedle Port) bulunan Jabbey için Vebalı Dehşetlerden (Blighted Horrors) bir 'Vebalı Öz' (Blighted Essence) topla.",
-    ["Progress"]="O Vebalı Öz'ü (Blighted Essence) buralara getirirken taşırken dikkatli ol, Buhardil'de (Steamwheedle) en son istediğim şey bir süper hastalıktır (super disease).",
+    ["Objectives"]="Doğu Veba Toprakları'na (Eastern Plaguelands) atıl ve Tanaris'teki Buharçarkı Limanı'nda (Steamwheedle Port) bulunan Jabbey için Vebalı Dehşetlerden (Blighted Horrors) bir 'Vebalı Öz' (Blighted Essence) topla.",
+    ["Progress"]="O Vebalı Öz'ü (Blighted Essence) buralara getirirken taşırken dikkatli ol, Buharçarkı'de (Steamwheedle) en son istediğim şey bir süper hastalıktır (super disease).",
     ["Completion"]="Şey, gerçekten geri döneceğini tahmin etmemiştim, bu bir şanssızlık (bummer). Her neyse, bir goblinin sözü (goblins word) bu dünyada bir şeyler ifade eder, bazı insanlar için en azından.",
     ["minlevel"]="0",
     ["questlevel"]="0",
@@ -36557,13 +36557,13 @@ QuestTranslator_QuestData = {
 }, -- end To Numb the Pain
 
 -- Cores -> Çekirdekler, pebbles -> çakıl taşları. Goblin -> Goblin, Jabbey kalmıştır.
--- Steamwheedle Port = Buhardil Limanı, arcane golem cores -> arkan golem çekirdekleri.
+-- Steamwheedle Port = Buharçarkı Limanı, arcane golem cores -> arkan golem çekirdekleri.
 -- Radgan Deepblaze -> Radgan Derinalaz kalmıştır. Karakaya(Blackrock) Pass = Blackrock Geçidi.
 -- Burning Steppes = Yanık Bozkırlar. Coin -> Sikke.
 ["40466"] = {
 ["Title"]="Gizli Bilgileri Satın Almak İçin",
-["Description"]="Şey, artık çekirdeklere (cores) sahibim. Ama onlarla ne yapacağımı bilmediğim için çakıl taşları (pebbles) kadar kullanışlılar. Kabul etmek istersen senin için yeni bir görevim var.\n\nBuhardil Limanı'nda (the Steamwheedle Port) yaşayan tanıdığım bir goblin (goblin) var, Jabbey. Arkan golem çekirdekleri (arcane golem cores) hakkında bir tür bilgiye sahip olduğundan eminim.",
-["Objectives"]="Buhardil Limanı'ndaki (Steamwheedle Port) Jabbey'den Arkan Golem Çekirdeği Bilgisi'ni topla ve Yanık Bozkırlar'daki (Burning Steppes) Blackrock Geçidi'nde (Blackrock Pass) bulunan Radgan Deepblaze'e geri dön.",
+["Description"]="Şey, artık çekirdeklere (cores) sahibim. Ama onlarla ne yapacağımı bilmediğim için çakıl taşları (pebbles) kadar kullanışlılar. Kabul etmek istersen senin için yeni bir görevim var.\n\nBuharçarkı Limanı'nda (the Steamwheedle Port) yaşayan tanıdığım bir goblin (goblin) var, Jabbey. Arkan golem çekirdekleri (arcane golem cores) hakkında bir tür bilgiye sahip olduğundan eminim.",
+["Objectives"]="Buharçarkı Limanı'ndaki (Steamwheedle Port) Jabbey'den Arkan Golem Çekirdeği Bilgisi'ni topla ve Yanık Bozkırlar'daki (Burning Steppes) Blackrock Geçidi'nde (Blackrock Pass) bulunan Radgan Deepblaze'e geri dön.",
 ["Progress"]="Jabbey ile konuştun mu?",
 ["Completion"]="Bak buraya, benim için tüm o mesafeyi katetmen çok şey ifade ediyor, harcadığın zamana değmesi için sana sikke (coin) verdim, şimdi bir bakalım...",
 ["minlevel"]="0",
