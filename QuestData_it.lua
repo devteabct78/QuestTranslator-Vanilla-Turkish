@@ -58545,7 +58545,7 @@ QuestTranslator_QuestData = {
     -- Janice Felstone -> Janice Felstone (MobNpcData.lua)[cite: 1]
     ["5021"] = {
     ["Title"]="Geç Olsun Temiz Olsun",
-    ["Description"]=[[\"Paket teslim edilmeli... Buraya hapsolmadan önce teslim edilmeli!\"\n\nPanik içindeki bir kadının çığlıkları sanki evin içinde süzülen bir fısıltı gibi hissettiriyor. Üst kattaki köşede sinmiş bir kadın hayaleti duruyor. Çevresinin tamamen farkında görünmüyor ve senden sadece belirsiz bir şekilde haberdar.\n\n\"Paketimi teslim etmek için mi buradasın? Lütfen, daha da kötüleşmeden önce! Buradan sürüp gidecektim. Hâlâ atımın yanında olmalı... Yoksa çok mu geç kaldım?\"]],
+    ["Description"]="Paket teslim edilmeli... Buraya hapsolmadan önce teslim edilmeli!\n\n<Panik içindeki bir kadının çığlıkları sanki evin içinde süzülen bir fısıltı gibi hissettiriyor. Üst kattaki köşede sinmiş bir kadın hayaleti duruyor. Çevresinin tamamen farkında görünmüyor ve senden sadece belirsiz bir şekilde haberdar.>\nPaketimi teslim etmek için mi buradasın? Lütfen, daha da kötüleşmeden önce! Buradan sürüp gidecektim. Hâlâ atımın yanında olmalı... Yoksa çok mu geç kaldım?",
     ["Objectives"]="Hayalet kadının saçmalamaları bir paketin teslim edilmesi gerektiğini gösteriyordu. Atının olduğu yerde olduğunu iddia etti. Atın nerede olduğuna veya paketin nereye teslim edileceğine gelince - hayalet anlaşılmaz kalmaya devam ediyor.",
     ["Progress"]="",
     ["Completion"]="Ahırda aksi takdirde gözden kaçırabileceğin bir paket artık çürüme ve harabe arasında öne çıkıyor. Belki de Janice Felstone'un hayaletinin feryat ettiği paket budur...",
