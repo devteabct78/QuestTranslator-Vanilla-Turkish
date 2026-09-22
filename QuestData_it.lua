@@ -32024,11 +32024,11 @@ QuestTranslator_QuestData = {
 
 -- Grizzlore Gürleme İstiyor
     ["50326"] = {
-    -- Thunderbrew Lager -> Gürlemebira Birası / Thunderbrew Birası. Grimbooze Thunderbrew -> Grimbooze Gürlemebira.
+    -- Thunderbrew Lager -> Gürleyenbira Birası / Thunderbrew Birası. Grimbooze Thunderbrew -> Grimbooze Gürleyenbira.
     -- Karakul, Westfall -> Batıdiyar, Swamp of Sorrows -> Çile Bataklığı. Dagger Hills -> Hançer Tepeleri.
     ["Title"]="Grizzlore Gürleme İstiyor",
     ["Description"]="Grizzlore - yani ben! Daha çok içki istiyorum! <hık!> Gürleme... <hık!> ...birası! Bira... <hık!> Grimbooze bunu iyi demler. Oraya git. Batıdiyar (Westfall)! <hık!>",
-    ["Objectives"]="Grizzlore için Batıdiyar'daki (Westfall) Grimbooze Gürlemebira'dan (Grimbooze Thunderbrew) veya Çile Bataklığı'ndaki (Swamp of Sorrows) Han Sahibi Karakul'dan Gürlemebira Birası (Thunderbrew Lager) edin.",
+    ["Objectives"]="Grizzlore için Batıdiyar'daki (Westfall) Grimbooze Gürleyenbira'dan (Grimbooze Thunderbrew) veya Çile Bataklığı'ndaki (Swamp of Sorrows) Han Sahibi Karakul'dan Gürleyenbira Birası (Thunderbrew Lager) edin.",
     ["Progress"]="Batıdiyar'daki Hançer Tepeleri (Dagger Hills), Grimbooze'un birasını demlediği yerdir... hey, ona sahip misin?",
     ["Completion"]="Rawwrr!! Daha çok içki! Ben sevmek!!",
     ["minlevel"]="0",
@@ -51614,12 +51614,12 @@ QuestTranslator_QuestData = {
     }, -- end Down the Scarlet Path
 
     -- Beer Basted Boar Ribs
-    -- Ragnar Thunderbrew -> Ragnar Yıldırımbira (MobNpcData.lua)[cite: 1]
+    -- Ragnar Thunderbrew -> Ragnar Gürleyenbira (MobNpcData.lua)[cite: 1]
     -- Kharanos -> Kharanos (ZoneData.lua)
     ["384"] = {
     ["Title"]="Birada Pişmiş Yaban Domuzu Kaburgası",
     ["Description"]="Meyhane müşterilerimin Birada Pişmiş Yaban Domuzu Kaburgasından daha çok keyif aldığı hiçbir şey yok! Tek sorun, bana malzeme getiren yerel tuzakçı, Alliance cephesindeki savaşta yardım etmek için Kral'ın Ordusu'na yazıldı.\n\nBelki bana yardım edebilirsin? Bana altı dağ yaban domuzu kaburgası ve buradaki meyhaneden bir Rhapsody Maltı getirirsen, ünlü Birada Pişmiş Yaban Domuzu Kaburgamın aile tarifini sana veririm, ücretsiz bir tadım örneği de cabası! Sır Malt'ta!",
-    ["Objectives"]="Kharanos'taki Ragnar Yıldırımbira 6 Dağ Yaban Domuzu Kaburgası ve bir maşrapa Rhapsody Maltı istiyor.",
+    ["Objectives"]="Kharanos'taki Ragnar Gürleyenbira 6 Dağ Yaban Domuzu Kaburgası ve bir maşrapa Rhapsody Maltı istiyor.",
     ["Progress"]="Altı dağ yaban domuzu kaburgasına ve bir maşrapa Rhapsody Maltına ihtiyacım olacak, YOUR_NAME.",
     ["Completion"]="Malt demlendi, Yaban Domuzları öldü\nVe her şey bitmeden ve bir şey söylenmeden önce\nİlk hakkı elde etmek için savaşmamız gerekecek\nBu lezzetli Birada Pişmiş Yaban Domuzu Kaburgaları üzerinde!",
     ["minlevel"]="5",
@@ -56402,16 +56402,16 @@ QuestTranslator_QuestData = {
 
     -- Hurley Blackbreath
     -- Hurley Blackbreath -> Hurley Karanefes (MobNpcData.lua)[cite: 1]
-    -- Ragnar Thunderbrew -> Ragnar Yıldırımbira (MobNpcData.lua)[cite: 1]
+    -- Ragnar Thunderbrew -> Ragnar Gürleyenbira (MobNpcData.lua)[cite: 1]
     -- Blackrock Depths -> Karakaya Derinlikleri (ZoneData.lua)
     -- Burning Steppes -> Yanardağ Bozkırları (ZoneData.lua)
     -- Kharanos -> Kharanos (ZoneData.lua)
     ["4126"] = {
     ["Title"]="Hurley Karanefes",
-    ["Description"]="Kötü adam Hurley Karanefes liderliğindeki Kara Demir cüceleri, Yıldırımbira ailesinin en iyi tariflerinden biri olan Yıldırımbira Birası'nı çaldı. Aşağılık herifler! Böyle harika bir birayı hak etmiyorlar!\n\nYOUR_NAME, senin için zor bir görevim var. Yanardağ Bozkırları'ndaki Karakaya Derinlikleri'ne git, bulduğun tüm Yıldırımbira Birası fıçılarını yok et ve Yıldırımbira Birası tarifimizi geri getir!\n\nLütfen, Karakaya Derinlikleri'ni altüst etmek zorunda kalsan bile o tarifi geri al!",
-    ["Objectives"]="Kayıp Yıldırımbira Tarifi'ni Kharanos'taki Ragnar Yıldırımbira'ya getir.",
+    ["Description"]="Kötü adam Hurley Karanefes liderliğindeki Kara Demir cüceleri, Gürleyenbira ailesinin en iyi tariflerinden biri olan Gürleyenbira Birası'nı çaldı. Aşağılık herifler! Böyle harika bir birayı hak etmiyorlar!\n\nYOUR_NAME, senin için zor bir görevim var. Yanardağ Bozkırları'ndaki Karakaya Derinlikleri'ne git, bulduğun tüm Gürleyenbira Birası fıçılarını yok et ve Gürleyenbira Birası tarifimizi geri getir!\n\nLütfen, Karakaya Derinlikleri'ni altüst etmek zorunda kalsan bile o tarifi geri al!",
+    ["Objectives"]="Kayıp Gürleyenbira Tarifi'ni Kharanos'taki Ragnar Gürleyenbira'ya getir.",
     ["Progress"]="Tarif yanında mı, YOUR_NAME? O Kara Demir cücelerinin ailemin içkisini içmesi fikrine katlanamıyorum!",
-    ["Completion"]="Buldun! Aferin! Ve umarım o Kara Demirler ile Hurley Karanefes'e iyi bir kötek atmışsındır!\n\nYıldırımbira ailesi hizmetindedir, YOUR_NAME. Kahramanlar kahramanısın!",
+    ["Completion"]="Buldun! Aferin! Ve umarım o Kara Demirler ile Hurley Karanefes'e iyi bir kötek atmışsındır!\n\nGürleyenbira ailesi hizmetindedir, YOUR_NAME. Kahramanlar kahramanısın!",
     ["minlevel"]="50",
     ["questlevel"]="55",
     }, -- end Hurley Blackbreath
@@ -56430,13 +56430,13 @@ QuestTranslator_QuestData = {
     }, -- end Boat Wreckage
 
     -- Ragnar Thunderbrew
-    -- Ragnar Thunderbrew -> Ragnar Yıldırımbira (MobNpcData.lua)[cite: 1]
+    -- Ragnar Thunderbrew -> Ragnar Gürleyenbira (MobNpcData.lua)[cite: 1]
     -- Kharanos -> Kharanos (ZoneData.lua)
     -- Dun Morogh -> Dun Morogh (ZoneData.lua)
     ["4128"] = {
-    ["Title"]="Ragnar Yıldırımbira",
-    ["Description"]="Selam, YOUR_NAME. Ragnar Yıldırımbira'nın birisinin birasını çalmasına köpürdüğünü duydum. Sadık maceracılar arıyor ve bolca ödeme yapmaya razı.\n\nİlgileniyorsan Ragnar ile konuş. Dun Morogh'daki Kharanos'ta bulunan Yıldırımbira İmalathanesi'nde.",
-    ["Objectives"]="Ragnar Yıldırımbira ile konuş.[cite: 1]",
+    ["Title"]="Ragnar Gürleyenbira",
+    ["Description"]="Selam, YOUR_NAME. Ragnar Gürleyenbira'nın birisinin birasını çalmasına köpürdüğünü duydum. Sadık maceracılar arıyor ve bolca ödeme yapmaya razı.\n\nİlgileniyorsan Ragnar ile konuş. Dun Morogh'daki Kharanos'ta bulunan Gürleyenbira İmalathanesi'nde.",
+    ["Objectives"]="Ragnar Gürleyenbira ile konuş.[cite: 1]",
     ["Progress"]="",
     ["Completion"]="Kızgın olmakta haklıyım! Soyuldum! Aile tariflerimizden biri çalındı! Nasıl cüret ederler! Sanki Kara Demir cücelerinden nefret etmek için yeterli sebebim yokmuş gibi! Şimdi, oh... Şimdi yandılar!",
     ["minlevel"]="50",
@@ -56522,10 +56522,10 @@ QuestTranslator_QuestData = {
     -- Blackrock Depths -> Karakaya Derinlikleri (ZoneData.lua)
     -- Kargath -> Kargath (ZoneData.lua)
     ["4134"] = {
-    ["Title"]="Kayıp Yıldırımbira Tarifi",
-    ["Description"]="Kara Demir Hurley Karanefes'in bir bira tarifini çaldığı söyleniyor. Yıldırımbira Birası olan bu biranın, içen kişiye büyük bir güç ve cesaret aşıladığı söylenir. Bu içkiyi incelemek istiyoruz. Belki de onun meziyetleri için başka uygulamalar bulabiliriz... Terkedilmişlerin hedefleriyle daha uyumlu uygulamalar.\n\nKarakaya Derinlikleri'ne in, Hurley'i bul, Yıldırımbira Birası tarifini ondan al ve bana getir.\n\nVe onu bulmak için değerli birasını tehdit ederek onu cezbetmen gerekebilir.",
-    ["Objectives"]="Kayıp Yıldırımbira Tarifi'ni Kargath'taki Vivian Lagrave'e getir.",
-    ["Progress"]="Yıldırımbira Birası tarifi yanında mı, YOUR_NAME?",
+    ["Title"]="Kayıp Gürleyenbira Tarifi",
+    ["Description"]="Kara Demir Hurley Karanefes'in bir bira tarifini çaldığı söyleniyor. Gürleyenbira Birası olan bu biranın, içen kişiye büyük bir güç ve cesaret aşıladığı söylenir. Bu içkiyi incelemek istiyoruz. Belki de onun meziyetleri için başka uygulamalar bulabiliriz... Terkedilmişlerin hedefleriyle daha uyumlu uygulamalar.\n\nKarakaya Derinlikleri'ne in, Hurley'i bul, Gürleyenbira Birası tarifini ondan al ve bana getir.\n\nVe onu bulmak için değerli birasını tehdit ederek onu cezbetmen gerekebilir.",
+    ["Objectives"]="Kayıp Gürleyenbira Tarifi'ni Kargath'taki Vivian Lagrave'e getir.",
+    ["Progress"]="Gürleyenbira Birası tarifi yanında mı, YOUR_NAME?",
     ["Completion"]="Çok iyi. İncelenmesi için bu tarifi Eczane'ye göndereceğim ve zamanla sırlarını çözeceğiz. Bir gün İttifak'ın cüceleri bu içeceğin meziyetlerinin kendilerine karşı kullanıldığını görebilirler!\n\nBunu son derece eğlenceli buluyorum. Belki de ölüm insanın mizah anlayışını etkiliyordur... Ne dersin?",
     ["minlevel"]="50",
     ["questlevel"]="55",
