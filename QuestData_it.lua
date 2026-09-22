@@ -20,7 +20,7 @@ QuestTranslator_QuestData = {
         ["Description"] = "Ulu hipogrif Sivripençe katledildi ve devrilen canavarın pençesi zaferinizin bir kanıtı olarak hizmet ediyor. Kıymıkağaç Karakolu'ndaki Senani Gökürktü[cite: 1] bu ganimeti görerek başarılarınızın kanıtına tanık olmaktan şüphesiz heyecan duyacaktır.",
         ["Objectives"] = "Sivripençe'nin Pençesi'ni Külvadi'deki[cite: 2] Kıymıkağaç Karakolu'nda bulunan Senani Gökürktü'ye[cite: 1] götür.",
         ["Progress"] = "Evet, ulu <class>, gelişini hissettim. Avın hakkında bana rapor edecek daha fazla haberin olduğuna inanıyorum?",
-        ["Completion"] = "En etkileyicisi, <name>... Sivripençe'nin pençesini elde etmek kolay olmuş olamaz! Külvadi[cite: 2] Avı senin için iyi gidiyor!\n\nSivripençe, buraya Kıymıkağaç Karakolu'na seyahat etmeye çalışan rotasının yakınındaki kereste kamplarından gelen işçileri uzun süredir terörize ediyordu. Canavarı yere serenin sen olduğun haberi yayıldığında, cesaretine dair birçok coşkulu şarkının Külvadi[cite: 2] genelindeki kamp ateşlerinde ve kereste fabrikalarında duyulacağından hiç şüphe yok!",
+        ["Completion"] = "En etkileyicisi, YOUR_NAME... Sivripençe'nin pençesini elde etmek kolay olmuş olamaz! Külvadi[cite: 2] Avı senin için iyi gidiyor!\n\nSivripençe, buraya Kıymıkağaç Karakolu'na seyahat etmeye çalışan rotasının yakınındaki kereste kamplarından gelen işçileri uzun süredir terörize ediyordu. Canavarı yere serenin sen olduğun haberi yayıldığında, cesaretine dair birçok coşkulu şarkının Külvadi[cite: 2] genelindeki kamp ateşlerinde ve kereste fabrikalarında duyulacağından hiç şüphe yok!",
         ["minlevel"] = "0",
         ["questlevel"] = "0"
     },
@@ -4324,16 +4324,15 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end Orman Koruyucusu
 
-    -- Şeytani Hırsızlar
     ["459"] = {
-    ["Title"]="Şeytani Hırsızlar",
-    ["Description"]="Vicious little grell! Yine yiyecek dükkanlarımızdan çalıyorlar.NEW_LINENEW_LINEEğer yardım etmenizin bir sakıncası yoksa, çaldıkları her şeyin batıdaki Grell kamplarına dağılmış olduğundan eminim. Hepsini bana geri getirebilirseniz sizi ödüllendirmekten memnuniyet duyarım.",
-    ["Objectives"]="Dellylah'ın Çalınan Fasulyelerini, Dellylah'ın Çalınan Suyunu ve Dellylah'ın Çalınan Çantalarını kurtarın.",
-    ["Progress"]="Şüphelerimi gider, YOUR_NAME. Bana 8 Fel Moss getir.",
-    ["Completion"]="Shadowglen'in yaratıklarına hizmetiniz ödüllendirilmeye değer, YOUR_NAME.NEW_LINENEW_LINEYine de korkularımı doğruladın. Eğer Grell'ler Fel Yosunu tarafından kirletildiyse, bir zamanlar burada yaşayan Gnarlpine furbolg kabilesinin ne hale geldiğini ancak hayal edebiliriz.NEW_LINENEW_LINEKendinizi Dolanaar'da bulursanız, mümkün YOUR_CLASS bilgili druid Athridas Bearmantle'ı arayın. Ormanın refahı için endişelerimizi paylaşıyor.",
-    ["minlevel"]="0",
-    ["questlevel"]="0",
-    }, -- end Şeytani Hırsızlar
+        ["Title"] = "Orman Muhafızı",
+        ["Description"] = "Teldrassil ormanlarında kötü bir şeyler dönüyor. Tepeler boyunca huzurlu furbolgların bir zamanlar yaşadığı yerlere uzun uzun bak. Evlerini terk ettiler ve Düğümçam kabilesi adı altında toplanıyorlar.\n\nBöyle bir dönüşüme yalnızca kötücül İblis Yosunu'nun yozlaşması sebep olabilir. Grelller ve grellsoyları bölgeyi istila etti ve Gölgevadi sakinlerini tehdit ediyorlar.\n\nBu grelller ve grellsoylarıyla savaş, YOUR_NAME, ve gerçekten kötücül İblis Yosunu'nun büyüsü altında olup olmadıklarına bak.",
+        ["Objectives"] = "8 İblis Yosunu topla ve onları Tarindrella'ya getir.",
+        ["Progress"] = "Şüphelerimi gider, YOUR_NAME. Bana 8 İblis Yosunu getir.",
+        ["Completion"] = "Gölgevadi yaratıklarına hizmetin ödüle değer, YOUR_NAME.\n\nYine de korkularımı doğruladın. Eğer grelller İblis Yosunu tarafından lekelendiyse, bir zamanlar burada yaşayan Düğümçam furbolg kabilesine ne olduğunu ancak hayal edebiliriz.\n\nYolun Dolanaar'a düşerse, becerikli <class>, bilgili druid Athridas Ayıörtüsü'nü ara. O da ormanın refahı için bizimle aynı endişeyi paylaşıyor.",
+        ["minlevel"] = "0",
+        ["questlevel"] = "0"
+    },
 
     -- Parçalar Halinde Dinlenmek
     ["460"] = {
@@ -32024,11 +32023,11 @@ QuestTranslator_QuestData = {
 
 -- Grizzlore Gürleme İstiyor
     ["50326"] = {
-    -- Thunderbrew Lager -> Gürleyenbira Birası / Thunderbrew Birası. Grimbooze Thunderbrew -> Grimbooze Gürleyenbira.
+    -- Thunderbrew Lager -> Gökbira Birası / Thunderbrew Birası. Grimbooze Thunderbrew -> Grimbooze Gökbira.
     -- Karakul, Westfall -> Batıdiyar, Swamp of Sorrows -> Çile Bataklığı. Dagger Hills -> Hançer Tepeleri.
     ["Title"]="Grizzlore Gürleme İstiyor",
     ["Description"]="Grizzlore - yani ben! Daha çok içki istiyorum! <hık!> Gürleme... <hık!> ...birası! Bira... <hık!> Grimbooze bunu iyi demler. Oraya git. Batıdiyar (Westfall)! <hık!>",
-    ["Objectives"]="Grizzlore için Batıdiyar'daki (Westfall) Grimbooze Gürleyenbira'dan (Grimbooze Thunderbrew) veya Çile Bataklığı'ndaki (Swamp of Sorrows) Han Sahibi Karakul'dan Gürleyenbira Birası (Thunderbrew Lager) edin.",
+    ["Objectives"]="Grizzlore için Batıdiyar'daki (Westfall) Grimbooze Gökbira'dan (Grimbooze Thunderbrew) veya Çile Bataklığı'ndaki (Swamp of Sorrows) Han Sahibi Karakul'dan Gökbira Birası (Thunderbrew Lager) edin.",
     ["Progress"]="Batıdiyar'daki Hançer Tepeleri (Dagger Hills), Grimbooze'un birasını demlediği yerdir... hey, ona sahip misin?",
     ["Completion"]="Rawwrr!! Daha çok içki! Ben sevmek!!",
     ["minlevel"]="0",
@@ -39769,7 +39768,7 @@ QuestTranslator_QuestData = {
     -- Adaena Oakleaf -> Adaena Meşeyaprağı kalmıştır. Kaldorei -> Kaldorei (Gece Elfleri). Elune = Elune.
     ["40205"] = {
     ["Title"]="Darnassus'u Güvenceye Almak",
-    ["Description"]="Teldrassil'deki Yamruçam (Gnarlpine) kabilesi hayal edebileceğimden çok daha büyük bir tehdit haline geldi. Bir zamanlar ormanlara (forests) zarar verecek herkese karşı müttefikimiz olduklarını düşünmek... Ay Rahibesi Amara (Moon Priestess Amara), Darnassus ile Dolanaar arasındaki yollarda (roads) devriye gezerek yolcuları (travelers) güvende tutuyor ve köyün yakınında saldıran Yamruçam'a karşı savunmada onların yardımını alıyor. Ne yazık ki, bu önlemlerin furbolgların (Furbolgs) taarruz kabiliyetlerini (offensive capabilities) azaltmada yeterli olmadığı görülüyor. Dolanaar ve Gölgelidiar'e (Shadowglen) karşı harekete geçme girişimlerini engellemek istiyorsak kabilenin kalbine darbe indirmeliyiz; ne kadar cüretkarlaştıkları düşünüldüğünde bu artık haklı bir endişedir. Güneydeki Yamruçam Hisarı'na (Gnarlpine Hold) seyahat et ve katledebildiğin kadar İntikamcı (Avengers) ve Yolbaskıncısı (Pathstalkers) katlet.",
+    ["Description"]="Teldrassil'deki Yamruçam (Gnarlpine) kabilesi hayal edebileceğimden çok daha büyük bir tehdit haline geldi. Bir zamanlar ormanlara zarar verecek herkese karşı müttefikimiz olduklarını düşünmek... Ay Rahibesi Amara, Darnassus ile Dolanaar arasındaki yollarda devriye gezerek yolcuları güvende tutuyor ve köyün yakınında saldıran Yamruçam'a karşı savunmada onların yardımını alıyor. Ne yazık ki, bu önlemlerin furbolgların (Furbolgs) taarruz kabiliyetlerini (offensive capabilities) azaltmada yeterli olmadığı görülüyor. Dolanaar ve Gölgevadisi'e (Shadowglen) karşı harekete geçme girişimlerini engellemek istiyorsak kabilenin kalbine darbe indirmeliyiz; ne kadar cüretkarlaştıkları düşünüldüğünde bu artık haklı bir endişedir. Güneydeki Yamruçam Hisarı'na (Gnarlpine Hold) seyahat et ve katledebildiğin kadar İntikamcı (Avengers) ve Yolbaskıncısı (Pathstalkers) katlet.",
     ["Objectives"]="10 Yamruçam İntikamcısı (Gnarlpine Avengers) ve 5 Yamruçam İzci (Gnarlpine Pathfinders) katlet, ardından Darnassus'taki Adaena Oakleaf'e geri dön.",
     ["Progress"]="Tamamlandı mı, YOUR_NAME? Burada başarısız olmayı göze alamayız, aksi takdirde Darnassus'un (Darnassus) kendisi risk altında kalır.",
     ["Completion"]="Bugün Kaldorei halkına büyük bir hizmette bulundun, YOUR_NAME. Eski müttefiklerimizin kaderi için ağlasam da, keder zayıflığa yol açamaz. Elune, halkımızın topraklarını savunurken eline rehberlik etti ve onun iradesini yerine getirdiğin için ödüllendirileceksin.",
@@ -50265,7 +50264,7 @@ QuestTranslator_QuestData = {
     ["Description"]="Harika, sonunda beni yemek istemeyen biri!\n\nBuralardaki mahluklarla başa çıkmak için yardıma ihtiyacım var ve sen de tam bu işe uygunsun dostum.\n\nAşçı Morgan Stern yeni bir yemek tarifi araştırıyor ve bataklık fasulyesi yaprakları toplamam için beni buraya gönderdi. Sanırım onların lezzetli olduğunu düşünüyor.\n\nHer neyse, bir bataklık fasulyesi bitkisi ararken... Etrafımı sardılar! Buradan çıkmama yardım edip ben bataklık fasulyesini ararken arkamı kollar mısın?",
     ["Objectives"]='"Kokuşmuş" Ignatz\'a eşlik et, ardından Theramore\'daki Morgan Stern ile konuş.',
     ["Progress"]="Bay Ignatz'ı gördün mü? Onu bir süre önce bataklığa gönderdim ve henüz geri dönmedi!",
-    ["Completion"]="Bay Ignatz az önce bataklık fasulyesi yapraklarıyla buradaydı ve ona gerçekten büyük bir beladan kurtulması için yardım ettiğini söyledi.\n\nTeşekkür ederim, <name>. Fırtınadiyarı'ndaki Mavi Keşiş'i bir sonraki ziyaretinde sana bir ziyafet çekmesi için amcamdan ricada bulunacağım.",
+    ["Completion"]="Bay Ignatz az önce bataklık fasulyesi yapraklarıyla buradaydı ve ona gerçekten büyük bir beladan kurtulması için yardım ettiğini söyledi.\n\nTeşekkür ederim, YOUR_NAME. Fırtınadiyarı'ndaki Mavi Keşiş'i bir sonraki ziyaretinde sana bir ziyafet çekmesi için amcamdan ricada bulunacağım.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Stinky's Escape
@@ -51614,12 +51613,12 @@ QuestTranslator_QuestData = {
     }, -- end Down the Scarlet Path
 
     -- Beer Basted Boar Ribs
-    -- Ragnar Thunderbrew -> Ragnar Gürleyenbira (MobNpcData.lua)[cite: 1]
+    -- Ragnar Thunderbrew -> Ragnar Gökbira (MobNpcData.lua)[cite: 1]
     -- Kharanos -> Kharanos (ZoneData.lua)
     ["384"] = {
     ["Title"]="Birada Pişmiş Yaban Domuzu Kaburgası",
     ["Description"]="Meyhane müşterilerimin Birada Pişmiş Yaban Domuzu Kaburgasından daha çok keyif aldığı hiçbir şey yok! Tek sorun, bana malzeme getiren yerel tuzakçı, Alliance cephesindeki savaşta yardım etmek için Kral'ın Ordusu'na yazıldı.\n\nBelki bana yardım edebilirsin? Bana altı dağ yaban domuzu kaburgası ve buradaki meyhaneden bir Rhapsody Maltı getirirsen, ünlü Birada Pişmiş Yaban Domuzu Kaburgamın aile tarifini sana veririm, ücretsiz bir tadım örneği de cabası! Sır Malt'ta!",
-    ["Objectives"]="Kharanos'taki Ragnar Gürleyenbira 6 Dağ Yaban Domuzu Kaburgası ve bir maşrapa Rhapsody Maltı istiyor.",
+    ["Objectives"]="Kharanos'taki Ragnar Gökbira 6 Dağ Yaban Domuzu Kaburgası ve bir maşrapa Rhapsody Maltı istiyor.",
     ["Progress"]="Altı dağ yaban domuzu kaburgasına ve bir maşrapa Rhapsody Maltına ihtiyacım olacak, YOUR_NAME.",
     ["Completion"]="Malt demlendi, Yaban Domuzları öldü\nVe her şey bitmeden ve bir şey söylenmeden önce\nİlk hakkı elde etmek için savaşmamız gerekecek\nBu lezzetli Birada Pişmiş Yaban Domuzu Kaburgaları üzerinde!",
     ["minlevel"]="5",
@@ -56402,16 +56401,16 @@ QuestTranslator_QuestData = {
 
     -- Hurley Blackbreath
     -- Hurley Blackbreath -> Hurley Karanefes (MobNpcData.lua)[cite: 1]
-    -- Ragnar Thunderbrew -> Ragnar Gürleyenbira (MobNpcData.lua)[cite: 1]
+    -- Ragnar Thunderbrew -> Ragnar Gökbira (MobNpcData.lua)[cite: 1]
     -- Blackrock Depths -> Karakaya Derinlikleri (ZoneData.lua)
     -- Burning Steppes -> Yanardağ Bozkırları (ZoneData.lua)
     -- Kharanos -> Kharanos (ZoneData.lua)
     ["4126"] = {
     ["Title"]="Hurley Karanefes",
-    ["Description"]="Kötü adam Hurley Karanefes liderliğindeki Kara Demir cüceleri, Gürleyenbira ailesinin en iyi tariflerinden biri olan Gürleyenbira Birası'nı çaldı. Aşağılık herifler! Böyle harika bir birayı hak etmiyorlar!\n\nYOUR_NAME, senin için zor bir görevim var. Yanardağ Bozkırları'ndaki Karakaya Derinlikleri'ne git, bulduğun tüm Gürleyenbira Birası fıçılarını yok et ve Gürleyenbira Birası tarifimizi geri getir!\n\nLütfen, Karakaya Derinlikleri'ni altüst etmek zorunda kalsan bile o tarifi geri al!",
-    ["Objectives"]="Kayıp Gürleyenbira Tarifi'ni Kharanos'taki Ragnar Gürleyenbira'ya getir.",
+    ["Description"]="Kötü adam Hurley Karanefes liderliğindeki Kara Demir cüceleri, Gökbira ailesinin en iyi tariflerinden biri olan Gökbira Birası'nı çaldı. Aşağılık herifler! Böyle harika bir birayı hak etmiyorlar!\n\nYOUR_NAME, senin için zor bir görevim var. Yanardağ Bozkırları'ndaki Karakaya Derinlikleri'ne git, bulduğun tüm Gökbira Birası fıçılarını yok et ve Gökbira Birası tarifimizi geri getir!\n\nLütfen, Karakaya Derinlikleri'ni altüst etmek zorunda kalsan bile o tarifi geri al!",
+    ["Objectives"]="Kayıp Gökbira Tarifi'ni Kharanos'taki Ragnar Gökbira'ya getir.",
     ["Progress"]="Tarif yanında mı, YOUR_NAME? O Kara Demir cücelerinin ailemin içkisini içmesi fikrine katlanamıyorum!",
-    ["Completion"]="Buldun! Aferin! Ve umarım o Kara Demirler ile Hurley Karanefes'e iyi bir kötek atmışsındır!\n\nGürleyenbira ailesi hizmetindedir, YOUR_NAME. Kahramanlar kahramanısın!",
+    ["Completion"]="Buldun! Aferin! Ve umarım o Kara Demirler ile Hurley Karanefes'e iyi bir kötek atmışsındır!\n\nGökbira ailesi hizmetindedir, YOUR_NAME. Kahramanlar kahramanısın!",
     ["minlevel"]="50",
     ["questlevel"]="55",
     }, -- end Hurley Blackbreath
@@ -56430,13 +56429,13 @@ QuestTranslator_QuestData = {
     }, -- end Boat Wreckage
 
     -- Ragnar Thunderbrew
-    -- Ragnar Thunderbrew -> Ragnar Gürleyenbira (MobNpcData.lua)[cite: 1]
+    -- Ragnar Thunderbrew -> Ragnar Gökbira (MobNpcData.lua)[cite: 1]
     -- Kharanos -> Kharanos (ZoneData.lua)
     -- Dun Morogh -> Dun Morogh (ZoneData.lua)
     ["4128"] = {
-    ["Title"]="Ragnar Gürleyenbira",
-    ["Description"]="Selam, YOUR_NAME. Ragnar Gürleyenbira'nın birisinin birasını çalmasına köpürdüğünü duydum. Sadık maceracılar arıyor ve bolca ödeme yapmaya razı.\n\nİlgileniyorsan Ragnar ile konuş. Dun Morogh'daki Kharanos'ta bulunan Gürleyenbira İmalathanesi'nde.",
-    ["Objectives"]="Ragnar Gürleyenbira ile konuş.[cite: 1]",
+    ["Title"]="Ragnar Gökbira",
+    ["Description"]="Selam, YOUR_NAME. Ragnar Gökbira'nın birisinin birasını çalmasına köpürdüğünü duydum. Sadık maceracılar arıyor ve bolca ödeme yapmaya razı.\n\nİlgileniyorsan Ragnar ile konuş. Dun Morogh'daki Kharanos'ta bulunan Gökbira İmalathanesi'nde.",
+    ["Objectives"]="Ragnar Gökbira ile konuş.[cite: 1]",
     ["Progress"]="",
     ["Completion"]="Kızgın olmakta haklıyım! Soyuldum! Aile tariflerimizden biri çalındı! Nasıl cüret ederler! Sanki Kara Demir cücelerinden nefret etmek için yeterli sebebim yokmuş gibi! Şimdi, oh... Şimdi yandılar!",
     ["minlevel"]="50",
@@ -56522,10 +56521,10 @@ QuestTranslator_QuestData = {
     -- Blackrock Depths -> Karakaya Derinlikleri (ZoneData.lua)
     -- Kargath -> Kargath (ZoneData.lua)
     ["4134"] = {
-    ["Title"]="Kayıp Gürleyenbira Tarifi",
-    ["Description"]="Kara Demir Hurley Karanefes'in bir bira tarifini çaldığı söyleniyor. Gürleyenbira Birası olan bu biranın, içen kişiye büyük bir güç ve cesaret aşıladığı söylenir. Bu içkiyi incelemek istiyoruz. Belki de onun meziyetleri için başka uygulamalar bulabiliriz... Terkedilmişlerin hedefleriyle daha uyumlu uygulamalar.\n\nKarakaya Derinlikleri'ne in, Hurley'i bul, Gürleyenbira Birası tarifini ondan al ve bana getir.\n\nVe onu bulmak için değerli birasını tehdit ederek onu cezbetmen gerekebilir.",
-    ["Objectives"]="Kayıp Gürleyenbira Tarifi'ni Kargath'taki Vivian Lagrave'e getir.",
-    ["Progress"]="Gürleyenbira Birası tarifi yanında mı, YOUR_NAME?",
+    ["Title"]="Kayıp Gökbira Tarifi",
+    ["Description"]="Kara Demir Hurley Karanefes'in bir bira tarifini çaldığı söyleniyor. Gökbira Birası olan bu biranın, içen kişiye büyük bir güç ve cesaret aşıladığı söylenir. Bu içkiyi incelemek istiyoruz. Belki de onun meziyetleri için başka uygulamalar bulabiliriz... Terkedilmişlerin hedefleriyle daha uyumlu uygulamalar.\n\nKarakaya Derinlikleri'ne in, Hurley'i bul, Gökbira Birası tarifini ondan al ve bana getir.\n\nVe onu bulmak için değerli birasını tehdit ederek onu cezbetmen gerekebilir.",
+    ["Objectives"]="Kayıp Gökbira Tarifi'ni Kargath'taki Vivian Lagrave'e getir.",
+    ["Progress"]="Gökbira Birası tarifi yanında mı, YOUR_NAME?",
     ["Completion"]="Çok iyi. İncelenmesi için bu tarifi Eczane'ye göndereceğim ve zamanla sırlarını çözeceğiz. Bir gün İttifak'ın cüceleri bu içeceğin meziyetlerinin kendilerine karşı kullanıldığını görebilirler!\n\nBunu son derece eğlenceli buluyorum. Belki de ölüm insanın mizah anlayışını etkiliyordur... Ne dersin?",
     ["minlevel"]="50",
     ["questlevel"]="55",
