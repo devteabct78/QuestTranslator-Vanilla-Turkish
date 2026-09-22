@@ -1532,5 +1532,22 @@ ZoneTranslator_ZoneData = {
 ["The Noxious Hollow"] = "Zehirli Oyuk",
 ["The Molten Span"] = "Erimiş Köprü",
 --123456789
+["Hall of Crafting"] = "Zanaat Salonu",
+["The Domicile"] = "İkametgah",
+["East Garrison"] = "Doğu Garnizonu",
+["The Masonary"] = "Taşçı Atölyesi",
+["The Imperial Seat"] = "İmparatorluk Makamı",
+["Shrine of Thaurissan"] = "Thaurissan Sunağı",
+["The Iron Hall"] = "Demir Salon",
+["Shadowforge City"] = "Shadowforge Şehri",
+["The Lyceum"] = "Lyceum",
+["The Black Vault"] = "Kara Mahzen",
+["The High Seat"] = "Yüksek Makam",
+["Halls of the Law"] = "Adalet Salonları",
+["Mold Foundry"] = "Kalıp Dökümhanesi",
+["Talonbranch Glade"] = "Pençebranç Açıklığı",
+["The Grinding Quarry"] = "Öğütme Taş Ocağı",
+["Summoners' Tomb"] = "Çağırıcılar Mezarı",
+["West Garrison"] = "Batı Garnizonu",
 
 }

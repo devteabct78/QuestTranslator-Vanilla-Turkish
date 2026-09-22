@@ -16540,6 +16540,8 @@ MobNpcTranslator_Data = {
 ["[Deprecated] Bebri Coifcurl"] = "[Kullanımdan Kaldırıldı] Bebri Coifcurl",
 ["[Deprecated] Zeez Fluxlight"] = "[Kullanımdan Kaldırıldı] Zeez Akışışığı",
 ["[Test] Custom spell cast"] = "[Test] Özel büyü kullanımı",
+
+["Karfang Grunt"] = "Karpençe Irgat",
 --123456789
 
 }                           
