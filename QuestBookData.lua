@@ -1262,81 +1262,81 @@ QuestTranslator_BookData = {
 		["Text"] = "By Magni's beard, there's much to discuss, and little time to do it, $N. Find me in Anvilmar overlooking Coldridge Valley as soon as you can. We gotta get started.NEW_LINENEW_LINEThere's a mess of things I can tell you about to get you caught up to speed, but all that's got nothing to do with us... for now. What we need to focus on is the grip of an axe, the weight of our armor, and the smell of our own sweat beadin' down our foreheads as we fight our enemies. We'll start with that.NEW_LINENEW_LINE-Thran Khorman, Warrior Trainer"
 	},
 	["Simple Memorandum"] = {
-		["Title"] = "Simple Memorandum",
-		["Text"] = "ATTENTION:NEW_LINEYou must report to Thran Khorman immediately. He is located within building A3; also known as Anvilmar to local inhabitants. After successfully making contact with Khorman, you will proceed to prepare yourself for the coming war--the war to take back our home of Gnomeregan!NEW_LINENEW_LINEAll efforts and essential tasks should be focused on achieving this directive. Once accomplished, a new task will be given to you."
-	},
-	["Simple Sigil"] = {
-		["Title"] = "Simple Sigil",
-		["Text"] = "I hope my sigil finds you well, $c. I write to you because our people have need for those strong with the blade, the glaive, and all other weapons. So much has happened since our people have been reintroduced to the other races of Azeroth that we have an even greater need for protectors of all kinds.NEW_LINENEW_LINEThis is where you come in. I would tell you more, but I feel it should be in person. Find me inside Aldrassil... on the lower levels.NEW_LINENEW_LINE-Alyissia, Warrior Trainer"
-	},
-	["Simple Scroll"] = {
-		["Title"] = "Simple Scroll",
-		["Text"] = "Many of our kind resort to the arcane and divine as a means to give themselves strength, but we know better, don't we, $c? We know that our weapons are our holy symbols, our shield is our spell book, and our mail is our wisdom.NEW_LINENEW_LINEEven in undeath we are strong, and we will only become stronger.NEW_LINENEW_LINEFind me in the inn in Deathknell. I will speak to you more of these matters and other things.NEW_LINENEW_LINE-Dannal Stern, Warrior Trainer"
-	},
-	["Simple Note"] = {
-		["Title"] = "Simple Note",
-		["Text"] = "Many tribes claim that it is a gift to be blessed with the aptitude to use magic or to talk to our ancestors, but you should know this as well, $c, you are just as gifted. Some do not have the strength in their arms to wield mighty weapons. Some do not have the skill to parry a blow from an assassin, or to even suffer the physical punishments from an arcane spellcaster, but you do. You are strong. And I will help you become stronger. Find me in Camp Narache.NEW_LINENEW_LINE-Harutt Thunderhorn, Warrior Trainer"
-	},
-	["Hallowed Letter"] = {
-		["Title"] = "Hallowed Letter",
-		["Text"] = "Your connection to the world, and its connection to you, are paramount to your success as a priest. Wisdom and compassion will allow you to help those who have a true need. Overeagerness and clumsy decisions only prevent others from becoming stronger or cause harm.NEW_LINENEW_LINEAs you begin to understand what this means, you will need new abilities and spells to help you. That is where my role begins: find me in the library wing of Northshire Abbey when you are ready to train.NEW_LINENEW_LINE-Priestess Anetta, Priest Trainer"
-	},
-	["Encrypted Rune"] = {
-		["Title"] = "Encrypted Rune",
-		["Text"] = "Brother:Sister;, I hope this rune finds you well. I wanted to take a moment to let you know that I'm inside Anvilmar above Coldridge Valley.NEW_LINENEW_LINEI know how important it is we all stick together, and in this time of strained peace it's becoming even more important to have our kind around. Look for me when you have the time. NEW_LINENEW_LINE-Solm Hargrin, Rogue Trainer"
-	},
-	["Encrypted Sigil"] = {
-		["Title"] = "Encrypted Sigil",
-		["Text"] = "Sael'ah, my friend. I hope this sigil finds you well. I was asked to offer you my services. I too am in Shadowglen, in the great tree of Aldrassil, and I wanted you to know that if you need any training that you could seek me out.NEW_LINENEW_LINEIn these questionable times, I thought it prudent that those dealing in stealth remain even closer to one another. How else will we be able to protect Teldrassil and our ways?NEW_LINENEW_LINEFind me when you can.NEW_LINENEW_LINE-Frahun Shadewhisper, Rogue Trainer"
-	},
-	["Rune-Inscribed Note"] = {
-		["Title"] = "Rune-Inscribed Note",
-		["Text"] = "I greet you, young $c. The winds told me of your coming. The earth gave praise of your strength. And now the ancient spirits whisper of your accomplishments to come. Our people always need wise and great leaders. They often turn to our kind for both virtues. If you are willing, I would teach you more of our ways.NEW_LINENEW_LINESeek me out in Camp Narache on Red Cloud Mesa--we will speak more then.NEW_LINENEW_LINE-Meela Dawnstrider, Shaman Trainer"
-	},
-	["Etched Parchment"] = {
-		["Title"] = "Etched Parchment",
-		["Text"] = "Ya be in good hands now, mon. Jen'shan know you be lookin' to learn da ways of da hunter, and she be ready to teach you... if you be ready to listen.NEW_LINENEW_LINECome find me in da Valley of Trials. Jen'shan start your trainin' and show you just how powerful da ways of da hunter is.NEW_LINENEW_LINE-Jen'shan, Hunter Trainer"
-	},
-	["Encrypted Tablet"] = {
-		["Title"] = "Encrypted Tablet",
-		["Text"] = "Greetings, brother:sister;. The Shattered Hand sends its regards and hopes you find the Valley a comfortable place to apply your trade. This is a time of testing for you, so do not think you are not being watched constantly.NEW_LINENEW_LINEIt is my duty to appraise the Hand of your skills, and to then inform them when I feel you are ready to move on to greater challenges.NEW_LINENEW_LINEWhen you are ready, come find me deep inside the Den. I'll be waiting for you there.NEW_LINENEW_LINE-Rwag, Rogue Trainer"
-	},
-	["Encrypted Letter"] = {
-		["Title"] = "Encrypted Letter",
-		["Text"] = "Never been more proud to be part of the trade as I am in these last few years. The need for assassins, spies, and scouts has never been more prevelant. You'd think war-time would have had higher demand, but suprisingly, war isn't a time we flourish like we do now--the times after peace starts to deteriorate.NEW_LINENEW_LINEI was told you'd be in the area looking to learn a few things. When you have time, come see me by the stables in back of the abbey.NEW_LINENEW_LINE-Jorik Kerridan, Rogue Trainer"
-	},
-	["Hallowed Rune"] = {
-		["Title"] = "Hallowed Rune",
-		["Text"] = "With the Holy Light warmin' our backs and new discoveries being made every day, 'tis an exciting time to be one of Ironforge's sons:daughters;. The Explorer's League makes headway every day in its search for long-lost answers to even older questions. And now we have you among our faithful to aid in the battle against the troggs and any other threat to our borders.NEW_LINENEW_LINEFind me when ya have the time. I'll be in the back of Anvilmar, just up the hill. NEW_LINENEW_LINE- Branstock Khalder, Priest Trainer"
-	},
-	["Hallowed Sigil"] = {
-		["Title"] = "Hallowed Sigil",
-		["Text"] = "I hope this sigil finds you well, $N. The spirits told me of your coming and I sent word immediately. I look forward to sharing my experiences with you, and helping guide you as you prepare to leave Teldrassil for more important matters.NEW_LINENEW_LINEWith all that has happened in the last few years, there is much we can do to aid the other races of Azeroth. When you are ready, find me inside Aldrassil, on the second level.NEW_LINENEW_LINE-Shanda, Priest Trainer"
-	},
-	["Encrypted Memorandum"] = {
-		["Title"] = "Encrypted Memorandum",
-		["Text"] = "You were expecting this to be a normal note from your king or whoever, I'm betting. Well, let's just say that I know a thing or two about forging notes and wanted to make sure you got this one. Can't go calling attention to myself, now could I?NEW_LINENEW_LINEI've holed myself up inside Anvilmar--you'll find me in the firepit area. When you're ready, come talk to me. I just want to introduce myself while we have time.NEW_LINENEW_LINE-Solm Hargrin, Rogue Trainer"
-	},
-	["Encrypted Scroll"] = {
-		["Title"] = "Encrypted Scroll",
-		["Text"] = "Take care not to ignore my words, $N. This is the time for subterfuge and deceit throughout all nations... even our great Undercity. Everyone loyal to Sylvanas is working towards creating a new era, one controlled by the Forsaken. And even though we posses no magical skills, nor will we take up weapons along our borders, we still have our own role to play.NEW_LINENEW_LINESeek me out in the inn in Deathknell. We'll speak more then.NEW_LINENEW_LINE-David Trias, Rogue Trainer"
-	},
-	["Encrypted Parchment"] = {
-		["Title"] = "Encrypted Parchment",
-		["Text"] = "I send greetings, $N. I was lost in thought when it came to my attention that I needed to write to you.NEW_LINENEW_LINEMany in our culture praise our shamans for being our spiritual leaders, like our great Warchief. Others think the sword and axe are even more noble pursuits, but never forget that battles--even wars--are won on the backs of those with more specialized skills. That is what I wish to speak to you about, $N. Find me deep within the Den in the Valley of Trials.NEW_LINENEW_LINE-Rwag, Rogue Trainer"
-	},
-	["Hallowed Tablet"] = {
-		["Title"] = "Hallowed Tablet",
-		["Text"] = "Ah hope da spirits have protected ya thus far, mon. Ya have many tests ahead of ya, and ah be willin' to share me experiences witcha when yer ready. It be up to ya to decide how quickly and how powerful ya become. Ah can only guide ya once yer ready.NEW_LINENEW_LINEFor some, dat be real quick-like; for others... not so fast. But doncha be worryin' 'bout dat none. We can talk more when ya come to see me.NEW_LINENEW_LINE-Ken'jai, Priest Trainer"
-	},
-	["Rune-Inscribed Tablet"] = {
-		["Title"] = "Rune-Inscribed Tablet",
-		["Text"] = "Greetings to you, brotha:sista;. Da spirits say you be ready to aid our allies. You have great ties to da elements, an' you be much more powerful den when you first started your lessons wit me.NEW_LINENEW_LINENow I be sendin' you to meet wit Shikrik, da orc shaman trainer in da Valley of Trials. She know you be comin' to study wit her already. Make our ancestors proud. Until we meet again, may da flame keep you warm, and da wind be at your back.NEW_LINENEW_LINE-Ishi-yo"
-	},
-	["Consecrated Rune"] = {
-		["Title"] = "Consecrated Rune",
-		["Text"] = "Some fear our kind more than dragons. Some envy us more than the most skilled blacksmiths. Some praise our strength in battle. Others revel in our faith. Some are just jealous that we can drink them under the table! But know this, $c, you are among the most elite protectors in all of Azeroth. The Holy Light gives us strength as much as we strengthen it.NEW_LINENEW_LINEI would tell you more when you've gotten acquainted with the land some. Find me inside Anvilmar above the Valley.NEW_LINENEW_LINE-Bromos Grummner, Paladin Trainer"
-	},
+        ["Title"] = "Basit Muhtıra",
+        ["Text"] = "DİKKAT:NEW_LINEDerhal Thran Khorman'a rapor vermelisin. Kendisi A3 binasının içindedir; yerel halk burayı Örsdağı olarak da bilir. Khorman ile temas kurduktan sonra, yaklaşan savaşa--evimiz Gnomeregan'ı geri alma savaşına hazırlanmaya başlayacaksın!NEW_LINENEW_LINETüm çabalar ve temel görevler bu talimatı başarmaya odaklanmalıdır. Tamamlandığında sana yeni bir görev verilecektir."
+    },
+    ["Simple Sigil"] = {
+        ["Title"] = "Basit Mühür",
+        ["Text"] = "Mührümün seni iyi bulmasını umuyorum, $c. Sana yazıyorum çünkü halkımızın kılıcı, kargıyı ve diğer tüm silahları iyi kullanan güçlü kişilere ihtiyacı var. Halkımız Azeroth'un diğer ırklarıyla yeniden tanıştığından beri o kadar çok şey oldu ki, her türlü koruyucuya daha da fazla ihtiyaç duyuyoruz.NEW_LINENEW_LINEİşte burada sen devreye giriyorsun. Sana daha fazlasını anlatırdım ama bunun yüz yüze olması gerektiğini hissediyorum. Beni Aldrassil'in içinde... alt seviyelerde bul.NEW_LINENEW_LINE-Alyissia, Savaşçı Eğitmeni"
+    },
+    ["Simple Scroll"] = {
+        ["Title"] = "Basit Parşömen",
+        ["Text"] = "Soydaşlarımızın birçoğu kendilerine güç sağlamak için gizemli ve kutsal güçlere başvurur, ancak biz doğrusunu biliyoruz, değil mi $c? Silahlarımızın kutsal sembollerimiz, kalkanımızın büyü kitabımız ve zırhımızın da bilgeliğimiz olduğunu biliyoruz.NEW_LINENEW_LINEÖlmüş olsak bile güçlüyüz ve sadece daha da güçleneceğiz.NEW_LINENEW_LINEBeni ÖLümçanı'ndaki handa bul. Seninle bu konular ve diğer şeyler hakkında daha ayrıntılı konuşacağım.NEW_LINENEW_LINE-Dannal Stern, Savaşçı Eğitmeni"
+    },
+    ["Simple Note"] = {
+        ["Title"] = "Basit Not",
+        ["Text"] = "Birçok kabile büyü kullanma ya da atalarımızla konuşma yeteneğiyle kutsanmanın bir lütuf olduğunu iddia eder, ancak sen de şunu bilmelisin ki $c, sen de en az onlar kadar yeteneklisin. Bazılarının kollarında kudretli silahları savuracak güç yoktur. Bazılarının bir suikastçının darbesini savuşturacak, hatta gizemli bir büyücünün fiziki cezalarına katlanacak becerisi yoktur ama sende var. Sen güçlüsün. Ve daha da güçlenmene yardım edeceğim. Beni Narache Kampı'nda bul.NEW_LINENEW_LINE-Harutt Yıldırımboynuz, Savaşçı Eğitmeni"
+    },
+    ["Hallowed Letter"] = {
+        ["Title"] = "Kutsal Mektup",
+        ["Text"] = "Dünyayla olan bağın ve onun seninle olan bağı, bir rahip olarak başarının en temel unsurudur. Bilgelik ve merhamet, gerçekten ihtiyacı olanlara yardım etmeni sağlayacaktır. Aşırı heveslilik ve sakar kararlar yalnızca başkalarının güçlenmesini engeller ya da zarar verir.NEW_LINENEW_LINEBunun ne anlama geldiğini anlamaya başladıkça, sana yardımcı olacak yeni yeteneklere ve büyülere ihtiyaç duyacaksın. Benim rolüm de burada başlıyor: Eğitime hazır olduğunda beni Kuzeyşamandıra Manastırı'nın kütüphane kanadında bul.NEW_LINENEW_LINE-Rahibe Anetta, Rahip Eğitmeni"
+    },
+    ["Encrypted Rune"] = {
+        ["Title"] = "Şifreli Rün",
+        ["Text"] = "Kardeşim, bu rünün seni iyi bulmasını umuyorum. Soğukvadi'nin üzerindeki Örsdağı'nın içinde olduğumu haber vermek için bir dakikamı ayırmak istedim.NEW_LINENEW_LINEHepimizin bir arada durmasının ne kadar önemli olduğunu biliyorum ve bu zoraki barış döneminde kendi türümüzün etrafta olması daha da önemli hale geliyor. Vaktin olduğunda beni ara.NEW_LINENEW_LINE-Solm Hargrin, Düzenbaz Eğitmeni"
+    },
+    ["Encrypted Sigil"] = {
+        ["Title"] = "Şifreli Mühür",
+        ["Text"] = "Sael'ah dostum. Bu mührün seni iyi bulmasını umuyorum. Sana hizmetlerimi sunmam istendi. Ben de Gölgevadi'de, Aldrassil'in büyük ağacındayım ve herhangi bir eğitime ihtiyacın olursa beni arayabileceğini bilmeni istedim.NEW_LINENEW_LINEBu tekinsiz zamanlarda, gizlilikle uğraşanların birbirine daha da yakın kalmasını temkinli bir davranış olarak gördüm. Teldrassil'i ve geleneklerimizi başka nasıl koruyabiliriz ki?NEW_LINENEW_LINEFırsat bulduğunda beni bul.NEW_LINENEW_LINE-Frahun Gölgefısıltısı, Düzenbaz Eğitmeni"
+    },
+    ["Rune-Inscribed Note"] = {
+        ["Title"] = "Rün İşlemeli Not",
+        ["Text"] = "Seni selamlıyorum genç $c. Rüzgarlar bana gelişini söyledi. Toprak senin gücünü övdü. Ve şimdi kadim ruhlar gelecekteki başarılarını fısıldıyor. Halkımızın her zaman bilge ve büyük liderlere ihtiyacı vardır. Her iki erdem için de sık sık bizim türümüze başvururlar. Eğer istekliysen, sana yollarımızı daha detaylı öğretmek isterim.NEW_LINENEW_LINEBeni Kızıl Bulut Yaylası'ndaki Narache Kampı'nda bul--o zaman daha detaylı konuşacağız.NEW_LINENEW_LINE-Meela Şafakadımı, Şaman Eğitmeni"
+    },
+    ["Etched Parchment"] = {
+        ["Title"] = "Oyma Parşömen",
+        ["Text"] = "Artık emin ellerdesin dostum. Jen'shan avcılık yollarını öğrenmek istediğini biliyor ve eğer dinlemeye hazırsan sana öğretmeye hazır...NEW_LINENEW_LINESınamalar Vadisi'nde gel beni bul. Jen'shan eğitimine başlasın ve avcılık yollarının ne kadar güçlü olduğunu sana göstersin.NEW_LINENEW_LINE-Jen'shan, Avcı Eğitmeni"
+    },
+    ["Encrypted Tablet"] = {
+        ["Title"] = "Şifreli Tablet",
+        ["Text"] = "Selamlar kardeşim. Parçalanmış El saygılarını sunar ve zanaatını icra etmek için Vadi'yi rahat bir yer olarak bulmanı umar. Bu senin için bir test zamanıdır, bu yüzden sürekli izlenmediğini düşünme.NEW_LINENEW_LINEBecerilerini El'e değerlendirmek ve daha büyük zorluklara ilerlemeye hazır olduğunu hissettiğimde onları bilgilendirmek benim görevimdir.NEW_LINENEW_LINEHazır olduğunda gel beni İn'in derinliklerinde bul. Seni orada bekliyor olacağım.NEW_LINENEW_LINE-Rwag, Düzenbaz Eğitmeni"
+    },
+    ["Encrypted Letter"] = {
+        ["Title"] = "Şifreli Mektup",
+        ["Text"] = "Şu son birkaç yılda olduğu kadar bu zanaatın bir parçası olmaktan hiç bu kadar gurur duymamıştım. Suikastçılara, casuslara ve gözcülere olan ihtiyaç hiç bu kadar yaygın olmamıştı. Savaş zamanında talebin daha yüksek olacağını düşünürsün ama şaşırtıcı bir şekilde savaş, bizim şu anki gibi geliştiğimiz bir zaman değildir--barışın bozulmaya başladığı sonraki zamanlardır.NEW_LINENEW_LINEBölgede birkaç şey öğrenmek isteyeceğini söylediler. Vaktin olduğunda manastırın arkasındaki ahırların yanında beni görmeye gel.NEW_LINENEW_LINE-Jorik Kerridan, Düzenbaz Eğitmeni"
+    },
+    ["Hallowed Rune"] = {
+        ["Title"] = "Kutsal Rün",
+        ["Text"] = "Kutsal Işık sırtımızı ısıtırken ve her gün yeni keşifler yapılırken, Demirörs'ün evlatlarından biri olmak heyecan verici bir zaman. Kaşifler Ligi, daha da eski sorulara uzun süredir kayıp olan yanıtları arama yolunda her gün mesafe katediyor. Ve şimdi trogglara ve sınırlarımıza yönelik diğer tehditlere karşı mücadelede bize yardım edecek inançlılarımız arasında sen de varsın.NEW_LINENEW_LINEVaktin olduğunda beni bul. Örsdağı'nın arkasında, tepenin hemen yukarısında olacağım.NEW_LINENEW_LINE- Branstock Khalder, Rahip Eğitmeni"
+    },
+    ["Hallowed Sigil"] = {
+        ["Title"] = "Kutsal Mühür",
+        ["Text"] = "Bu mührün seni iyi bulmasını umuyorum, $N. Ruhlar bana gelişini söyledi ve ben de hemen haber gönderdim. Deneyimlerimi seninle paylaşmayı ve daha önemli meseleler için Teldrassil'den ayrılmaya hazırlanırken sana rehberlik etmeyi sabırsızlıkla bekliyorum.NEW_LINENEW_LINESon birkaç yılda yaşanan bunca şeyle birlikte, Azeroth'un diğer ırklarına yardım etmek için yapabileceğimiz çok şey var. Hazır olduğunda beni Aldrassil'in içinde, ikinci seviyede bul.NEW_LINENEW_LINE-Shanda, Rahip Eğitmeni"
+    },
+    ["Encrypted Memorandum"] = {
+        ["Title"] = "Şifreli Muhtıra",
+        ["Text"] = "Bahse girerim bunun kralından ya da her kimse ondan gelen normal bir not olmasını bekliyordun. Şöyle diyelim, sahte not yazma konusunda bir iki şey biliyorum ve bu notu aldığından emin olmak istedim. Şimdi dikkatleri üzerime çekemezdim, değil mi?NEW_LINENEW_LINEKendimi Örsdağı'nın içine kapattım--beni ateş çukuru alanında bulacaksın. Hazır olduğunda gel benimle konuş. Sadece vaktimiz varken kendimi tanıtmak istiyorum.NEW_LINENEW_LINE-Solm Hargrin, Düzenbaz Eğitmeni"
+    },
+    ["Encrypted Scroll"] = {
+        ["Title"] = "Şifreli Parşömen",
+        ["Text"] = "Sözlerimi göz ardı etmemeye dikkat et, $N. Şimdi tüm uluslarda hile ve düzenbazlık zamanı... ulu Yeraltışehri'mizde bile. Sylvanas'a sadık olan herkes yeni bir çağ, Terk Edilmişler tarafından kontrol edilen bir çağ yaratmak için çalışıyor. Ve sihirli becerilerimiz olmasa da sınırlarımız boyunca silahlanmayacak olsak da halâ oynayacak kendi rolümüz var.NEW_LINENEW_LINEBeni ÖLümçanı'ndaki handa bul. O zaman daha detaylı konuşacağız.NEW_LINENEW_LINE-David Trias, Düzenbaz Eğitmeni"
+    },
+    ["Encrypted Parchment"] = {
+        ["Title"] = "Şifreli Parşömen",
+        ["Text"] = "Selamlarımı gönderiyorum, $N. Sana yazmam gerektiği aklıma geldiğinde derin düşüncelere dalmış durumdaydım.NEW_LINENEW_LINEKültürümüzdeki pek çok kişi şamanlarımızı, ulu Savaşşefi'miz gibi ruhani liderlerimiz oldukları için över. Diğerleri kılıç ve baltanın daha da soylu uğraşlar olduğunu düşünür ama savaşların--hatta harplerin--daha uzmanlaşmış becerilere sahip kişilerin sırtında kazanıldığını asla unutma. Seninle konuşmak istediğim konu da bu, $N. Beni Sınamalar Vadisi'ndeki İn'in derinliklerinde bul.NEW_LINENEW_LINE-Rwag, Düzenbaz Eğitmeni"
+    },
+    ["Hallowed Tablet"] = {
+        ["Title"] = "Kutsal Tablet",
+        ["Text"] = "Umarım ruhlar seni şimdiye kadar korumuştur dostum. Önünde pek çok sınav var ve sen hazır olduğunda deneyimlerimi seninle paylaşmaya istekliyim. Ne kadar hızlı ve ne kadar güçlü olacağına karar vermek sana kalmış. Ben sadece sen hazır olduğunda sana rehberlik edebilirim.NEW_LINENEW_LINEBazıları için bu çok hızlı olur; diğerleri için... o kadar hızlı değil. Ama sen hiç endişelenme. Beni görmeye geldiğinde daha fazla konuşabiliriz.NEW_LINENEW_LINE-Ken'jai, Rahip Eğitmeni"
+    },
+    ["Rune-Inscribed Tablet"] = {
+        ["Title"] = "Rün İşlemeli Tablet",
+        ["Text"] = "Sana selam olsun kardeşim. Ruhlar müttefiklerimize yardım etmeye hazır olduğunu söylüyor. Elementlerle büyük bağların var ve derslerine benimle ilk başladığın zamankinden çok daha güçlüsün.NEW_LINENEW_LINEŞimdi seni Sınamalar Vadisi'ndeki ork şaman eğitmeni Shikrik ile buluşmaya gönderiyorum. Zaten onunla çalışmaya geleceğini biliyor. Atalarımızı gururlandır. Tekrar karşılaşıncaya dek alev seni sıcak tutsun ve rüzgar arkanda olsun.NEW_LINENEW_LINE-Ishi-yo"
+    },
+    ["Consecrated Rune"] = {
+        ["Title"] = "Kutsanmış Rün",
+        ["Text"] = "Bazıları bizim türümüzden ejderhalardan daha çok korkar. Bazıları bizi en yetenekli demircilerden daha çok kıskanır. Bazıları savaştaki gücümüzü över. Diğerleri inancımızdan keyif alır. Bazılarıysa sadece onları masanın altına içebildiğimiz için kıskançtır! Ama şunu bil ki $c, sen tüm Azeroth'taki en seçkin koruyucular arasındasın. Kutsal Işık bizi güçlendirdiği kadar biz de onu güçlendiririz.NEW_LINENEW_LINEAraziye biraz alıştıktan sonra sana daha fazlasını anlatırım. Beni Vadi'nin üzerindeki Örsdağı'nın içinde bul.NEW_LINENEW_LINE-Bromos Grummner, Paladin Eğitmeni"
+    },
 	["Horatio Montgomery, M.D."] = {
 		["Title"] = "Horatio Montgomery, M.D.",
 		["Text"] = "<HTML>\n<BODY>\n<BR/>\n<BR/>\n<P>\nIn memory of my dear mentor, Horatio M. Montgomery, M.D. Healer, Teacher, Friend.\n</P>\n<BR/>\n<H1 align=\"center\">\n50 BTFT - 25 ATFT\n</H1>\n<BR/>\n<P>\n\"The world is full of the sick and weary. It is our job, as healers, NAY, as men and women of medicine, to cleanse them ALL of the 'itis.'\" \n</P>\n<BR/>\n<P>\n- H.M.M., M.D., PhD, JD, Grandmaster Farmer, Dancer Extraordinaire, Friend to the Animals\n</P>\n<BR/>\n</BODY>\n</HTML>"
@@ -1396,61 +1396,61 @@ QuestTranslator_BookData = {
 		["Text"] = "<HTML>\n<BODY>\n<H1 align=\"center\">\nAnthony Ray Stark\n</H1>\n<H2 align=\"center\">\n1961 - 2005\n</H2>\n</BODY>\n</HTML>"
 	},
 	["The Founding of Balor"] = {
-		["Title"] = "The Founding of Balor",
-		["Text"] = "After migrating south following the fall of the Empire of Arathor, a large congregation of Arathi settled in the fertile valley of Elwynn, founding the Kingdom of Stormwind. While under the leadership of House Wrynn, the populace enjoyed prosperity and peace, having survived the countless perils and enemies that threw themselves at the young nation."
-	},
-	["Queen Tiffin Ellerian Wrynn - The Light of our Kingdom"] = {
-		["Title"] = "Queen Tiffin Ellerian Wrynn - The Light of our Kingdom",
-		["Text"] = "Our beloved queen, mother, wife and daughterNEW_LINENEW_LINEYour radiance was as brightNEW_LINEas the Sun and just as warmNEW_LINENEW_LINEOur hearts turned cold and heavyNEW_LINE the day you were taken from usNEW_LINENEW_LINEMay you find eternal restNEW_LINEunder the rays of the LightNEW_LINENEW_LINE- King Varian Wrynn"
-	},
-	["In Honor of our Fallen Heroes"] = {
-		["Title"] = "In Honor of our Fallen Heroes",
-		["Text"] = "Praised are the courageous heroesNEW_LINEthat died in service of the AllianceNEW_LINENEW_LINEDon’t forget their selfless sacrificesNEW_LINEand remember what they stood for in lifeNEW_LINENEW_LINE- Archbishop Benedictus"
-	},
-	["Legacy of Stormwind's Court Magicians"] = {
-		["Title"] = "Legacy of Stormwind's Court Magicians",
-		["Text"] = "Trusted advisors to His HighnessNEW_LINELoyal servants to the KingdomNEW_LINETheir enlightened guidance led theseNEW_LINElands to heights thought unreachableNEW_LINENEW_LINE- High Sorcerer Andromath"
-	},
-	["Sir Wolram Notleigh"] = {
-		["Title"] = "Sir Wolram Notleigh",
-		["Text"] = "Here lies Sir Wolram Notleigh,NEW_LINEson of Vergil Notleigh, noble of Northwind.NEW_LINENEW_LINEA beacon of virtue, his sacrifices in service of the kingdom will not be forgotten.NEW_LINENEW_LINEMay his final rest be left undisturbed.NEW_LINENEW_LINE- Sir Edrin Vellas"
-	},
-	["Royal Seal Letter"] = {
-		["Title"] = "Royal Seal Letter",
-		["Text"] = "To my most trusted friend Medivh,NEW_LINENEW_LINENEW_LINENEW_LINEIt has been too long since we last met. I hope this letter finds you in good health. Our last meeting did not end as it should have, and I regret the distance that has grown between us. Must you truly remain alone atop your tower?NEW_LINENEW_LINEWere it not for Moroes, I would fear you lost. You have become so distant, my friend—so distant that I wonder if you even read my letters. Yet this message bears great importance.NEW_LINENEW_LINEThe Light has blessed my family with an heir. My son has been born, a beacon of hope for Stormwind. I beg you—leave your tower, meet him, hold him, and celebrate with me. It is my deepest wish that you grant him a name.NEW_LINENEW_LINEYour absence weighs heavy on my heart, yet I believe you would not forsake me. Come, my friend, and let us mend what has been lost.NEW_LINENEW_LINENEW_LINEYour king and friend,NEW_LINELlane Wrynn."
-	},
-	["Arc'Tiras – Study"] = {
-		["Title"] = "Arc'Tiras – Study",
-		["Text"] = "It cannot be explained. This thing—this twisted, cold amalgamation of pure evil. I have read almost every book in my library, yet I have found no answer. Could Karazhan truly hold no information on this alien thing? No, I must not lose composure. I need to keep going."
-	},
-	["Daria Balor, Protector of our Home"] = {
-		["Title"] = "Daria Balor, Protector of our Home",
-		["Text"] = "In honor of our savior, the brave and fearless woman who defended her home with unparalleled courage.NEW_LINENEW_LINEWere it not for her selfless deeds in times of peril and turmoil, we would not stand here commemorating her heroic sacrifice.NEW_LINENEW_LINEMay your name be forever whispered among the cliffs of Balor.NEW_LINENEW_LINE- Lord Victor Grahan"
-	},
-	["Earthen Ring Memorial"] = {
-		["Title"] = "Earthen Ring Memorial",
-		["Text"] = "By Storm, Earth, and Fire - our races have been united and returned the Horde to its shamanistic roots. This stone stands as a testament to our unity and as a memorial to those who fell protecting it."
-	},
-	["Logbook of The Rat's Nest"] = {
-		["Title"] = "Logbook of The Rat's Nest",
-		["Text"] = "<Several entries of this logbook date back to a successful streak of plundering and raiding in the past. The crew of this ship, the Bilgerats, seem to be living lavishly in high abundance of their loot on the prolific Plunder Isle, led by their competent captain - whom you haven't come across yet.>"
-	},
-	["Forgotten Diary"] = {
-		["Title"] = "Forgotten Diary",
-		["Text"] = "<The diary is incomplete, but mostly intact. Strange, given how long it must've been laying in the fireplace.>"
-	},
-	["A Memory of a Life Well Traveled"] = {
-		["Title"] = "A Memory of a Life Well Traveled",
-		["Text"] = "In Loving Memory of NatNEW_LINENEW_LINEYou were an amazing leader and friend who always put others first.NEW_LINENEW_LINEFrom the players from guilds <Spicy Dwarfburgers> and <Ultima Ratio>"
-	},
-	["Mu’sha, the Left Eye of the Earthmother"] = {
-		["Title"] = "Mu’sha, the Left Eye of the Earthmother",
-		["Text"] = "Blessed are you, Matron of Night, for you shine over our heads each cycle. Your warmth and kindness have allowed us, the children of the earth, to survive each turmoil that was sent upon us.NEW_LINENEW_LINEBlessed are you, Matron of Night, for it was your tear that was wept at the cruelty of the world, and from it you gave birth to Lo’sho, our hope. Benevolent Matron, to you we bring praise.NEW_LINENEW_LINEBlessed are you, Matron of Night, for it was you who blessed our tribe. Whether it be grass, mud, or snow, we of the Moonhoof Tribe walk with you still, our hooves leaving trails of crescent moons wherever we step, the symbol of our bond."
-	},
-	["An’she, the Right Eye of the Earthmother"] = {
-		["Title"] = "An’she, the Right Eye of the Earthmother",
-		["Text"] = "Blessed are you, Patron of Day, for your light keeps Mu’sha shining in the night sky, showing us the blessed bond of siblings and teaching us selfless love.NEW_LINENEW_LINEBlessed are you, Patron of Day, for it is your radiant warmth that blesses the earth, our fur, and our crops. As blinding as your light may be, it still guides us onward.NEW_LINENEW_LINEBlessed are you, Patron of Day, for it was your duty to accept the Tear of Mu’sha as your younger sibling, and it was you who guided Lo’sho toward hope eternal."
-	},
+        ["Title"] = "Balor'un Kuruluşu",
+        ["Text"] = "Arathor İmparatorluğu'nun çöküşünün ardından güneye göç eden büyük bir Arathi topluluğu, verimli Elwynn Vadisi'ne yerleşerek Fırtınarüzgarı Krallığı'nı kurdu. Wrynn Hanedanı'nın liderliği altındaki halk, genç ulusa saldıran sayısız tehlike ve düşmandan sağ çıkarak refah ve barışın tadını çıkardı."
+    },
+    ["Queen Tiffin Ellerian Wrynn - The Light of our Kingdom"] = {
+        ["Title"] = "Kraliçe Tiffin Ellerian Wrynn - Krallığımızın Işığı",
+        ["Text"] = "Sevgili kraliçemiz, annemiz, eşimiz ve kızımızNEW_LINENEW_LINEIşıltın Güneş kadarNEW_LINEparlak ve bir o kadar sıcaktıNEW_LINENEW_LINEBizden alındığın günNEW_LINEkalplerimiz soğudu ve ağırlaştıNEW_LINENEW_LINEIşığın ışınları altındaNEW_LINEsonsuz huzuru bulasınNEW_LINENEW_LINE- Kral Varian Wrynn"
+    },
+    ["In Honor of our Fallen Heroes"] = {
+        ["Title"] = "Düşen Kahramanlarımızın Anısına",
+        ["Text"] = "İttifak'ın hizmetinde ölenNEW_LINEcesur kahramanlar övülmüştürNEW_LINENEW_LINEOnların özverili fedakarlıklarını unutmayınNEW_LINEve hayattayken neyi savunduklarını hatırlayınNEW_LINENEW_LINE- Başpiskopos Benedictus"
+    },
+    ["Legacy of Stormwind's Court Magicians"] = {
+        ["Title"] = "Fırtınarüzgarı Saray Büyücülerinin Mirası",
+        ["Text"] = "Aşmetmeaplarının güvenilir danışmanlarıNEW_LINEKrallığın sadık hizmetkarlarıNEW_LINEAydınlanmış rehberlikleri bu topraklarıNEW_LINEulaşılamaz sanılan yüceliklere taşıdıNEW_LINENEW_LINE- Yüce Büyücü Andromath"
+    },
+    ["Sir Wolram Notleigh"] = {
+        ["Title"] = "Sir Wolram Notleigh",
+        ["Text"] = "Burada Kuzeyrüzgarı soylusu Vergil Notleigh'nin oğluNEW_LINESir Wolram Notleigh yatıyor.NEW_LINENEW_LINEBir erdem feneri olan kendisinin krallık hizmetindeki fedakarlıkları unutulmayacaktır.NEW_LINENEW_LINESon uykusu rahatsız edilmesin.NEW_LINENEW_LINE- Sir Edrin Vellas"
+    },
+    ["Royal Seal Letter"] = {
+        ["Title"] = "Kraliyet Mührü Mektubu",
+        ["Text"] = "En güvenilir dostum Medivh'e,NEW_LINENEW_LINENEW_LINENEW_LINESon görüşmemizden bu yana çok uzun zaman geçti. Bu mektubun seni sağ salim bulmasını umuyorum. Son karşılaşmamız olması gerektiği gibi bitmedi ve aramızda büyüyen mesafeden dolayı pişmanım. Gerçekten kulenin tepesinde yapayalnız kalmak zorunda mısın?NEW_LINENEW_LINEKuledeki hizmetkarın Moroes olmasaydı kaybolduğundan korkardım. O kadar uzaklaştın ki dostum—mektuplarımı okuyup okumadığını bile merak eder oldum. Yine de bu mesaj büyük önem taşıyor.NEW_LINENEW_LINEIşık, ailemi bir veliahtla kutsadı. Oğlum doğdu, Fırtınarüzgarı için bir umut feneri. Sana yalvarıyorum—kuleni terk et, onunla tanış, onu kucağına al ve benimle kutla. Ona bir isim vermen en derin dileğimdir.NEW_LINENEW_LINEYokluğun yüreğime ağır geliyor ama beni yüzüstü bırakmayacağına inanıyorum. Gel dostum, kaybolan şeyleri onaralım.NEW_LINENEW_LINENEW_LINEKralın ve dostun,NEW_LINELlane Wrynn."
+    },
+    ["Arc'Tiras – Study"] = {
+        ["Title"] = "Arc'Tiras – Çalışma Oda",
+        ["Text"] = "Açıklanamıyor. Bu şey—saf kötülüğün bu çarpık, soğuk birleşimi. Kütüphanemdeki neredeyse her kitabı okudum ama yine de bir yanıt bulamadım. Karazhan bu yabancı şey hakkında gerçekten hiçbir bilgi barındırmıyor olabilir mi? Hayır, soğukkanlılığımı kaybetmemeliyim. Devam etmem gerekiyor."
+    },
+    ["Daria Balor, Protector of our Home"] = {
+        ["Title"] = "Daria Balor, Evimizin Koruyucusu",
+        ["Text"] = "Kurtarıcımızın, evini eşsiz bir cesaretle savunan cesur ve korkusuz kadının anısına.NEW_LINENEW_LINETehlike ve kargaşa zamanlarındaki özverili eylemleri olmasaydı, bugün burada onun kahramanca fedakarlığını anıyor olmazdık.NEW_LINENEW_LINEAdın Balor kayalıklarında sonsuza dek fısıldansın.NEW_LINENEW_LINE- Lort Victor Grahan"
+    },
+    ["Earthen Ring Memorial"] = {
+        ["Title"] = "Toprak Halkası Anıtı",
+        ["Text"] = "Fırtına, Toprak ve Ateş adına - ırklarımız birleşti ve Horde'u şamanik köklerine döndürdü. Bu taş, birliğimizin bir kanıtı ve onu korurken düşenlerin anısına dikilmiş bir anıttır."
+    },
+    ["Logbook of The Rat's Nest"] = {
+        ["Title"] = "Sıçan Yuvası Seyir Defteri",
+        ["Text"] = "<Bu seyir defterinin birkaç girdisi, geçmişteki başarılı bir yağma ve baskın serisine dayanıyor. Bu geminin mürettebatı olan Sintine Sıçanları, henüz karşılaşmadığın yetkin kaptanlarının önderliğinde, bereketi bol Yağma Adası'nda ganimetlerinin lüksü ve bolluğu içinde yaşıyor gibi görünüyor.>"
+    },
+    ["Forgotten Diary"] = {
+        ["Title"] = "Unutulmuş Günlük",
+        ["Text"] = "<Günlük eksik ama büyük ölçüde sağlam. Şöminede ne kadar süredir yatıyor olduğu düşünülürse garip.>"
+    },
+    ["A Memory of a Life Well Traveled"] = {
+        ["Title"] = "Dolu Dolu Yaşanmış Bir Hayatın Anısına",
+        ["Text"] = "Nat'in Sevgi Dolu AnısınaNEW_LINENEW_LINEBaşka insanları her zaman öne koyan harika bir lider ve dosttun.NEW_LINENEW_LINE<Spicy Dwarfburgers> ve <Ultima Ratio> loncalarındaki oyunculardan"
+    },
+    ["Mu’sha, the Left Eye of the Earthmother"] = {
+        ["Title"] = "Mu’sha, Toprak Ana'nın Sol Gözü",
+        ["Text"] = "Kutsanmış olasın Gece Hanımı, çünkü her döngüde başımızın üstünde parıldıyorsun. Sıcaklığın ve nezaketin, biz toprak çocuklarının üzerimize gönderilen her türlü kargaşadan sağ çıkmasını sağladı.NEW_LINENEW_LINEKutsanmış olasın Gece Hanımı, çünkü dünyanın acımasızlığına ağlanan senin gözyaşındı ve ondan umudumuz Lo’sho'yu doğurdun. Merhametli Hanım, sana övgüler getiriyoruz.NEW_LINENEW_LINEKutsanmış olasın Gece Hanımı, çünkü kabilemizi kutsayan sensin. Çimen, çamur ya da kar olsun, Aytırnağı Kabilesi'nden bizler halâ seninle yürüyoruz; bastığımız her yerde toynaklarımız bağımızın simgesi olan hilal izleri bırakıyor."
+    },
+    ["An’she, the Right Eye of the Earthmother"] = {
+        ["Title"] = "An’she, Toprak Ana'nın Sağ Gözü",
+        ["Text"] = "Kutsanmış olasın Gündüz Efendisi, çünkü ışığın Mu’sha'nın gece gökyüzünde parlamasını sağlayarak bize kardeşlerin kutsal bağını gösteriyor ve özverili sevgiyi öğretiyor.NEW_LINENEW_LINEKutsanmış olasın Gündüz Efendisi, çünkü toprağı, kürkümüzü ve ekinlerimizi kutsayan senin ışıltılı sıcaklığındır. Işığın kör edici olsa da halâ bize yol gösteriyor.NEW_LINENEW_LINEKutsanmış olasın Gündüz Efendisi, çünkü Mu’sha'nın Gözyaşı'nı küçük kardeşin olarak kabul etmek senin görevindi ve Lo’sho'ya sonsuz umuda doğru rehberlik eden sensin."
+    },
 	["The Pariah's Instructions"] = {
     	["Title"] = "Parya'nın Talimatları",
     	["Text"] = "Mızraklar Vadisi'nin gerisinde Maraudon'un kutsal tapınağı yer alır. Bu bile tek başına bir ihlal değilmiş gibi, sıkıntımda bana yardım etmesi için neden kentaur olmayan birini seçtiğimi yakında anlayacaksın. Sadece ruhların ve en kutsal rahip ile rahibelerimizin geçebileceği kapıların hemen ötesinde, İsimsiz Kahin adında biri bulunur. O, ruhani konularda tüm kabilelerin en yücesi ve hepsinin en eskisidir.NEW_LINEKahin güçlüdür ve atalarımızın ruhlarıyla iletişim kurar. Ama o bir aptaldır! Sahip olduğu gerçek güçten haberi bile yok. Üzerinde Ruhlar Muskası durur--gücünün büyük kısmı bundan gelir. Muskanın güçlü olduğunu ama eksik kaldığını öğrendim.NEW_LINEMuskada beş mücevher eksik. Eğer bu mücevherler bulunup sembolün üzerine geri yerleştirilirse, gücü mevcut halinin çok ötesine geçer. Beş mücevheri buldum ama onları toplamaya yardım edecek senin gibi yetenekli birine ihtiyacım var. İsimsiz Kahin'i katletmek kesinlikle bir dinsizliktir, cesedinden hırsızlık yapmak da öyle; ama bundan sonra senden isteyeceğim şey, bunu düşünmekten bile herhangi bir kentauru lanetler.NEW_LINEMaraudon mağaraları boyunca ilk Hanlarımızın ruhları gezinir. Annemiz ve Babamızın ilk çocukları ve en büyük liderlerimiz--onlar Gelk, Kolk, Magra, Maraudos ve Veng'dir. Bu ruhların her biri eksik mücevherlerden birini tutar.NEW_LINERuhlar Muskası'nın gücünü kullanarak onları görünür olmaya zorla ve mücevherleri onlardan al! Ardından mücevherleri Ruhlar Muskası'nın içine yerleştir ve onu bana getir. Birlik Muskası'na sahip olduğumda, kabileleri yeniden birleştirecek kadar güçlü olacağım, böylece nihayet atalarımızın bizden istediği gibi olabileceğiz!"

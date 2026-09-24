@@ -4304,7 +4304,7 @@ QuestTranslator_QuestData = {
 
     -- Doğanın Aidatları
     ["457"] = {
-    ["Title"]="Doğanın Aidatları",
+    ["Title"]="Doğanın Dengesi",
     ["Description"]="Shadowglen'deki genç yaratık nüfusunu azaltmak iyi bir başlangıçtı, YOUR_NAME ama hala yapılması gereken işler var.NEW_LINENEW_LINESorunun üzerine gidilmezse ormanın kaynakları çok çabuk tükenecek. Doğanın canavarlarını öldürmek, bu toprakları paylaşan herkesin iyiliği için gerekli bir kötülüktür. Shadowglen'de kuzeydoğuya doğru ilerleyin ve denge adına uyuz gece kılıcı ve devedikeni domuzlarını öldürün.",
     ["Objectives"]="6 Mangy Nightsabers ve 6 Thistle Domuzu öldür.",
     ["Progress"]="Görevin henüz tamamlanmadı, YOUR_NAME. 7 uyuz gece kılıcı ve 7 devedikeni domuzu öldürüldükten sonra bana dön.",
