@@ -842,7 +842,7 @@ end
 
 function QuestTranslator_ExpandUnitInfo(msg)
   if (not msg) then return ""; end
-  msg = string.gsub(msg, "NEW_LINE", "\n");
+  msg = string.gsub(msg, "NEW_LINE", "\n\n");
   msg = string.gsub(msg, "YOUR_NAME", QTR_name);
   msg = string.gsub(msg, "YOUR_CLASS", QTR_class);
   msg = string.gsub(msg, "YOUR_RACE", QTR_race);
