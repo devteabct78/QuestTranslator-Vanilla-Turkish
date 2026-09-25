@@ -3,12 +3,12 @@ QTR_lang = "TR";       -- language
 QuestTranslator_Messages = {
     loaded  = "yüklendi.",
     missing = "çeviri eksik",
-    details = "AÇIKLAMA:",
+    details = "AÇIKLAMA",
     progress= "İLERLEME:",
     objectives = "HEDEFLER:",
     completion = "TAMAMLAMA:",
     translator = "ÇEVİRMEN:",
-    multipleID = "Bu çeviri orijinaliyle uyumlu olamaz",
+    multipleID = "Bu id ile birden fazla görev bulunmaktadır",
 };
 
 QTR_Font = "Interface\\AddOns\\QuestTranslator\\Fonts\\ipagui.ttf";
@@ -25499,7 +25499,7 @@ QuestTranslator_QuestData = {
     -- Mülteciler İçin Erzak
     ["41188"] = {
     ["Title"]="Mülteciler İçin Erzak",
-    ["Description"]="Vekil Meclisi (Regency Council), bu topraklara sığınan herkes için geçim ve barınak sağlama sorumluluğunu bana bahşetti. Niyet olarak soylu, ancak bariz bir kaynak sıkıntısının yükü altında ezilen bir görev. Buranın yerel yaban domuzu nüfusu oldukça bol, halkımız için potansiyel bir besin kaynağı. Ancak gerçekler acı—buradaki pek çok kişi onları avlamak için gerekli teçhizattan veya beceriden yoksun. Bu açığı kapatmak istekli ve muktedir omuzlara düşüyor. Eğer imkanın ve yeteneğin varsa, davamız için en azından on adet genç yaban domuzu eti toplayabilir misin? Burada güvenliği arayanların ruhlarını kemiren açlığı hafifletmede muazzam bir yardım olurdu.",
+    ["Description"]="Vekil Meclisi (Regency Council), bu topraklara sığınan herkes için geçim ve barınak sağlama sorumluluğunu bana bahşetti. Niyet olarak soylu, ancak bariz bir kaynak sıkıntısının yükü altında ezilen bir görev. NEW_LINEBuranın yerel yaban domuzu nüfusu oldukça bol, halkımız için potansiyel bir besin kaynağı. Ancak gerçekler acı—buradaki pek çok kişi onları avlamak için gerekli teçhizattan veya beceriden yoksun. Bu açığı kapatmak istekli ve muktedir omuzlara düşüyor. NEW_LINEEğer imkanın ve yeteneğin varsa, davamız için en azından on adet genç yaban domuzu eti toplayabilir misin? Burada güvenliği arayanların ruhlarını kemiren açlığı hafifletmede muazzam bir yardım olurdu.",
     ["Objectives"]="Brinthillien'deki Komutan Anarileth'e 10 adet Genç Thalas Yaban Domuzu Eti (Young Thalassian Boar Flank) getir.",
     ["Progress"]="Bu vadinin her yerinde yaban domuzları bulabilirsin.",
     ["Completion"]="Teşekkür ederim, YOUR_CLASS. Katkıda bulunma isteğin, ihtiyaçlarımızın uçsuz bucaksız denizinde küçük bir umut ışığı gibi. Karşılaştığımız zorluklar okyanusunda sadece bir damla gibi görünebilir, ancak her nazik hareketle eski ihtişamımızın yeniden tesis edilmesine bir adım daha yaklaşıyoruz.",

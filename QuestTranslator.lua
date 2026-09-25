@@ -822,7 +822,9 @@ function QuestTranslator_UpdateQuestInfo()
      if QTR_CopyButton then QTR_CopyButton:Hide() end
      QTR_objectives  = QuestTranslator_ExpandUnitInfo(QuestTranslator_QuestData[str_id]["Objectives"]);
      QTR_description = QuestTranslator_ExpandUnitInfo(QuestTranslator_QuestData[str_id]["Description"]);
-     QTR_descripFull = QuestTranslator_Messages.details .. "\n" .. QTR_description;
+     --QTR_descripFull = QuestTranslator_Messages.details .. "\n" .. QTR_description;
+     -- |cffFFD100 klasik WoW başlık sarısıdır, |r ise rengi sıfırlayıp normal metne döndürür. \n\n ile fazladan boşluk bırakıyoruz.
+    QTR_descripFull = "|cffFFD100" .. QuestTranslator_Messages.details .. "|r\n\n" .. QTR_description;
      QTR_translator = "";
      if (QuestTranslator_QuestData[str_id]["Translator"]) then
         if (QuestTranslator_QuestData[str_id]["Translator"]>"") then
