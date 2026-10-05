@@ -256,10 +256,19 @@ end
 function QuestTranslator_OnEvent1()
   if (event == "ADDON_LOADED") then
      QuestTranslator_CheckVars();
+     
+     -- SavedVariables tablolarının boş olup olmadığını kontrol edip başlatıyoruz
+     if not DiscoveredMobsAndNpcs then DiscoveredMobsAndNpcs = {} end
+     if not DiscoveredZones then DiscoveredZones = {} end
+     if not DiscoveredQuestIds then DiscoveredQuestIds = {} end
+     
+     -- Yeni Karşılama Mesajı
+     local loadMsg = "|cffffff00QuestTranslator-Vanilla-Turkish addonu yüklenmiştir. Güncellemeler için sürekli kontrol etmeyi unutmayın.|r"
+     
      if (DEFAULT_CHAT_FRAME) then
-         DEFAULT_CHAT_FRAME:AddMessage("|cffffff00QuestTranslator ver. "..QTR_version.." "..QTR_lang.." - " .. QuestTranslator_Messages.loaded);
+         DEFAULT_CHAT_FRAME:AddMessage(loadMsg);
      else
-         UIErrorsFrame:AddMessage("|cffffff00QuestTranslator ver. "..QTR_version.." "..QTR_lang.." - " .. QuestTranslator_Messages.loaded, 1.0, 1.0, 1.0, 1.0, UIERRORS_HOLD_TIME);
+         UIErrorsFrame:AddMessage(loadMsg, 1.0, 1.0, 1.0, 1.0, UIERRORS_HOLD_TIME);
      end
      QuestTranslator.frame1:UnregisterEvent("ADDON_LOADED");
      if (not isGetQuestID) then
@@ -470,6 +479,15 @@ function QuestTranslator_OnEvent2()
               QuestTranslator_ShowFrame2(QTR_event, str_id);
            end
         else
+           -- [DÜZELTME] Tablo henüz oluşmamışsa anında oluştur
+           if not DiscoveredQuestIds then DiscoveredQuestIds = {} end
+
+           -- Eğer Görev ID'si veritabanında yoksa listeye ekle ve ekrana yaz
+           if not DiscoveredQuestIds[str_id] then
+               DiscoveredQuestIds[str_id] = ""
+               DEFAULT_CHAT_FRAME:AddMessage("|cff00ffff[QTVT]|r " .. str_id .. " numaralı görev (quest) eklendi.")
+           end
+           
            QTR_SAVED[str_id.." TITLE"]=GetTitleText();
            if (QTR_event=="QUEST_DETAIL") then
               QTR_SAVED[str_id.." DESCRIPTION"]=GetQuestText();
@@ -822,7 +840,6 @@ function QuestTranslator_UpdateQuestInfo()
      if QTR_CopyButton then QTR_CopyButton:Hide() end
      QTR_objectives  = QuestTranslator_ExpandUnitInfo(QuestTranslator_QuestData[str_id]["Objectives"]);
      QTR_description = QuestTranslator_ExpandUnitInfo(QuestTranslator_QuestData[str_id]["Description"]);
-     --QTR_descripFull = QuestTranslator_Messages.details .. "\n" .. QTR_description;
      -- |cffFFD100 klasik WoW başlık sarısıdır, |r ise rengi sıfırlayıp normal metne döndürür. \n\n ile fazladan boşluk bırakıyoruz.
     QTR_descripFull = "|cffFFD100" .. QuestTranslator_Messages.details .. "|r\n\n" .. QTR_description;
      QTR_translator = "";
@@ -834,6 +851,15 @@ function QuestTranslator_UpdateQuestInfo()
      QuestTranslator_QuestTitle:SetText(QuestTranslator_ExpandUnitInfo(QuestTranslator_QuestData[str_id]["Title"]));
      QuestTranslator_QuestDetail:SetText(QTR_objectives .. "\n\n" .. QTR_descripFull .. QTR_translator);
   else
+     -- [DÜZELTME] Tablo henüz oluşmamışsa anında oluştur
+     if not DiscoveredQuestIds then DiscoveredQuestIds = {} end
+
+     -- Görev Logunda bilinmeyen bir görev açıldığında
+     if str_id ~= "0" and not DiscoveredQuestIds[str_id] then
+         DiscoveredQuestIds[str_id] = ""
+         DEFAULT_CHAT_FRAME:AddMessage("|cff00ffff[QTVT]|r " .. str_id .. " numaralı görev (quest) eklendi.")
+     end
+
      QuestTranslator_QuestTitle:SetText(questTitle);
      QuestTranslator_QuestDetail:SetText("|cffff0000" .. QuestTranslator_Messages.missing .. "|r\n\nBu görevin temiz Lua şablonunu panoya kopyalamak için sağ alttaki butona tıklayın.");
      if QTR_CopyButton then QTR_CopyButton:Show() end
@@ -862,5 +888,3 @@ function QuestTranslator_Toggle()
     end
 
 end
-
-

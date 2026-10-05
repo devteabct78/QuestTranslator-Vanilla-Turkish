@@ -1,10 +1,25 @@
 -- Ana Çeviri Fonksiyonu
-local function TranslateUnitName(originalName)
+local function TranslateUnitName(originalName, isPlayer)
     if not originalName or not MobNpcTranslator_Data then return originalName; end
     
     if MobNpcTranslator_Data[originalName] then
         return MobNpcTranslator_Data[originalName]
+    else
+        -- [DÜZELTME] Eğer bu bir oyuncuysa (player), listeye ekleme yapmadan orijinal ismi geri dön
+        if isPlayer then
+            return originalName
+        end
+
+        -- Tablo henüz oluşmamışsa anında oluştur
+        if not DiscoveredMobsAndNpcs then DiscoveredMobsAndNpcs = {} end
+        
+        -- Mob veya NPC çevirisi bulunamazsa listeye ekle
+        if not DiscoveredMobsAndNpcs[originalName] then
+            DiscoveredMobsAndNpcs[originalName] = ""
+            DEFAULT_CHAT_FRAME:AddMessage("|cff00ffff[QTVT]|r " .. originalName .. " mob/npc eklendi.")
+        end
     end
+    
     return originalName
 end
 
@@ -76,7 +91,8 @@ local function DoTargetTranslation()
             -- Yazı nesnesi yakalandıysa Türkçe karakter ayarını yapıp ismi basıyoruz
             if nameFrame and nameFrame.SetText then
                 ApplySafeFont(nameFrame, 13) -- Karakter fix uygulandı
-                nameFrame:SetText(TranslateUnitName(rawName))
+                -- [DÜZELTME] Hedefin oyuncu olup olmadığını API'den sorgulayıp fonksiyona iletiyoruz
+                nameFrame:SetText(TranslateUnitName(rawName, UnitIsPlayer("target")))
             end
         end
     end
@@ -122,7 +138,8 @@ MNT_Frame:SetScript("OnEvent", function()
         if UnitExists("mouseover") and GameTooltipTextLeft1 then
             local rawName = UnitName("mouseover")
             if rawName then
-                local trName = TranslateUnitName(rawName)
+                -- [DÜZELTME] Üzerine gelinen birimin oyuncu olup olmadığını iletiyoruz
+                local trName = TranslateUnitName(rawName, UnitIsPlayer("mouseover"))
                 if GameTooltipTextLeft1:GetText() ~= trName then
                     ApplySafeFont(GameTooltipTextLeft1, 14) -- Karakter fix uygulandı
                     GameTooltipTextLeft1:SetText(trName)
@@ -133,7 +150,14 @@ MNT_Frame:SetScript("OnEvent", function()
     else
         local npcName = UnitName("npc") or UnitName("target")
         if npcName then
-            local trName = TranslateUnitName(npcName)
+            -- Görev ve etkileşim pencerelerinde genelde hep NPC vardır ama target'in oyuncu olması ihtimaline karşı ekstra kontrol:
+            local isPlayer = false
+            if UnitIsPlayer("target") and UnitName("target") == npcName then
+                isPlayer = true
+            end
+            
+            local trName = TranslateUnitName(npcName, isPlayer)
+            
             if event == "GOSSIP_SHOW" and GossipFrameNpcNameText then
                 ApplySafeFont(GossipFrameNpcNameText, 16) -- Karakter fix uygulandı
                 GossipFrameNpcNameText:SetText(trName)

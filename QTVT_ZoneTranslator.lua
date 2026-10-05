@@ -8,24 +8,41 @@ local function ApplyTurkishFontToZones()
     SubZoneTextString:SetFont(fontPath, 24, "OUTLINE")
 end
 
+-- Bölgeleri kontrol eden ve ekleyen yardımcı fonksiyon
+local function CheckAndLogZone(zName)
+    if zName and zName ~= "" then
+        -- [DÜZELTME] Tablo henüz oluşmamışsa anında oluştur
+        if not DiscoveredZones then DiscoveredZones = {} end
+        
+        -- Eğer veri tabanında çevirisi yoksa ve daha önce eklenmemişse
+        if not ZoneTranslator_ZoneData[zName] and not DiscoveredZones[zName] then
+            DiscoveredZones[zName] = ""
+            DEFAULT_CHAT_FRAME:AddMessage("|cff00ffff[QTVT]|r " .. zName .. " bölgesi eklendi.")
+        end
+    end
+end
+
 -- ANA ÇEVİRİ VE EKRANA BASMA FONKSİYONU
 local function UpdateZoneTexts()
     if not ZoneTranslator_ZoneData then return; end
 
     -- A) MİNİMAP ÇEVİRİSİ
     local miniMapName = GetMinimapZoneText()
+    CheckAndLogZone(miniMapName)
     if miniMapName and ZoneTranslator_ZoneData[miniMapName] then
         MinimapZoneText:SetText(ZoneTranslator_ZoneData[miniMapName])
     end
 
     -- B) EKRAN ORTASI BÜYÜK YAZI (Ana Bölge)
     local zoneName = GetZoneText()
+    CheckAndLogZone(zoneName)
     if zoneName and ZoneTranslator_ZoneData[zoneName] then
         ZoneTextString:SetText(ZoneTranslator_ZoneData[zoneName])
     end
 
     -- C) EKRAN ORTASI KÜÇÜK YAZI (Alt Bölge)
     local subZoneName = GetSubZoneText()
+    CheckAndLogZone(subZoneName)
     if subZoneName and ZoneTranslator_ZoneData[subZoneName] then
         SubZoneTextString:SetText(ZoneTranslator_ZoneData[subZoneName])
     end
