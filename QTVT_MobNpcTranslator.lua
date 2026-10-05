@@ -5,18 +5,19 @@ local function TranslateUnitName(originalName, isPlayer)
     if MobNpcTranslator_Data[originalName] then
         return MobNpcTranslator_Data[originalName]
     else
-        -- [DÜZELTME] Eğer bu bir oyuncuysa (player), listeye ekleme yapmadan orijinal ismi geri dön
+        -- Eğer bu bir oyuncuysa veya debug modu kapalıysa kaydetme
         if isPlayer then
             return originalName
         end
 
-        -- Tablo henüz oluşmamışsa anında oluştur
-        if not DiscoveredMobsAndNpcs then DiscoveredMobsAndNpcs = {} end
-        
-        -- Mob veya NPC çevirisi bulunamazsa listeye ekle
-        if not DiscoveredMobsAndNpcs[originalName] then
-            DiscoveredMobsAndNpcs[originalName] = ""
-            DEFAULT_CHAT_FRAME:AddMessage("|cff00ffff[QTVT]|r " .. originalName .. " mob/npc eklendi.")
+        -- [YENİ EKLENEN KISIM] Sadece Debug Modu aktifse kaydet
+        if QuestTranslator_Settings and QuestTranslator_Settings.enableDebugMode then
+            if not DiscoveredMobsAndNpcs then DiscoveredMobsAndNpcs = {} end
+            
+            if not DiscoveredMobsAndNpcs[originalName] then
+                DiscoveredMobsAndNpcs[originalName] = ""
+                DEFAULT_CHAT_FRAME:AddMessage("|cff00ffff[QTVT]|r " .. originalName .. " mob/npc eklendi.")
+            end
         end
     end
     
@@ -27,8 +28,6 @@ end
 local function ApplySafeFont(fontStringObject, size)
     if not fontStringObject then return end
     
-    -- Harici font dosyası yüklemek yerine, oyunun kendi içindeki 
-    -- en geniş karakter kümesine sahip (Chat/System) font şablonunu referans alıyoruz.
     if ChatFontNormal and fontStringObject.SetFont then
         local fontPath, _, fontFlags = ChatFontNormal:GetFont()
         if fontPath then
@@ -37,7 +36,6 @@ local function ApplySafeFont(fontStringObject, size)
         end
     end
     
-    -- Alternatif Fallback (Eğer üstteki başarısız olursa oyun standartına sadık kal)
     if GameFontNormal and fontStringObject.SetFontObject then
         fontStringObject:SetFontObject(GameFontNormal)
     end
@@ -48,7 +46,6 @@ end
 local function FindNameObject(frame, nameToFind)
     if not frame then return nil end
     
-    -- 1. Kademe: Çerçevenin kendi yazı elementlerini (Regions) tara
     if frame.GetRegions then
         local regions = { frame:GetRegions() }
         for i = 1, table.getn(regions) do
@@ -59,7 +56,6 @@ local function FindNameObject(frame, nameToFind)
         end
     end
     
-    -- 2. Kademe: Eğer özel bir addon alt kırılıma gizlediyse pencereleri (Children) tara
     if frame.GetChildren then
         local children = { frame:GetChildren() }
         for i = 1, table.getn(children) do
@@ -77,10 +73,8 @@ local function DoTargetTranslation()
     if UnitExists("target") then
         local rawName = UnitName("target")
         if rawName then
-            -- Öncelik: Standart Blizzard arayüz ismini kontrol et
             local nameFrame = getglobal("TargetFrameName")
             
-            -- Eğer bulunamadıysa, TargetFrame içindeki yazıyı dinamik olarak avla
             if not nameFrame then
                 local baseFrame = getglobal("TargetFrame")
                 if baseFrame then
@@ -88,17 +82,14 @@ local function DoTargetTranslation()
                 end
             end
             
-            -- Yazı nesnesi yakalandıysa Türkçe karakter ayarını yapıp ismi basıyoruz
             if nameFrame and nameFrame.SetText then
-                ApplySafeFont(nameFrame, 13) -- Karakter fix uygulandı
-                -- [DÜZELTME] Hedefin oyuncu olup olmadığını API'den sorgulayıp fonksiyona iletiyoruz
+                ApplySafeFont(nameFrame, 13)
                 nameFrame:SetText(TranslateUnitName(rawName, UnitIsPlayer("target")))
             end
         end
     end
 end
 
--- Oyunun kendi ismini basmasını bekleyen mikro zamanlayıcı
 local function TriggerDelayedTranslation()
     local delayFrame = CreateFrame("Frame")
     delayFrame.t = 0
@@ -138,10 +129,9 @@ MNT_Frame:SetScript("OnEvent", function()
         if UnitExists("mouseover") and GameTooltipTextLeft1 then
             local rawName = UnitName("mouseover")
             if rawName then
-                -- [DÜZELTME] Üzerine gelinen birimin oyuncu olup olmadığını iletiyoruz
                 local trName = TranslateUnitName(rawName, UnitIsPlayer("mouseover"))
                 if GameTooltipTextLeft1:GetText() ~= trName then
-                    ApplySafeFont(GameTooltipTextLeft1, 14) -- Karakter fix uygulandı
+                    ApplySafeFont(GameTooltipTextLeft1, 14)
                     GameTooltipTextLeft1:SetText(trName)
                     GameTooltip:Show()
                 end
@@ -150,7 +140,6 @@ MNT_Frame:SetScript("OnEvent", function()
     else
         local npcName = UnitName("npc") or UnitName("target")
         if npcName then
-            -- Görev ve etkileşim pencerelerinde genelde hep NPC vardır ama target'in oyuncu olması ihtimaline karşı ekstra kontrol:
             local isPlayer = false
             if UnitIsPlayer("target") and UnitName("target") == npcName then
                 isPlayer = true
@@ -159,10 +148,10 @@ MNT_Frame:SetScript("OnEvent", function()
             local trName = TranslateUnitName(npcName, isPlayer)
             
             if event == "GOSSIP_SHOW" and GossipFrameNpcNameText then
-                ApplySafeFont(GossipFrameNpcNameText, 16) -- Karakter fix uygulandı
+                ApplySafeFont(GossipFrameNpcNameText, 16)
                 GossipFrameNpcNameText:SetText(trName)
             elseif (event == "QUEST_GREETING" or event == "QUEST_DETAIL" or event == "QUEST_PROGRESS" or event == "QUEST_COMPLETE") and QuestFrameNpcNameText then
-                ApplySafeFont(QuestFrameNpcNameText, 16) -- Karakter fix uygulandı
+                ApplySafeFont(QuestFrameNpcNameText, 16)
                 QuestFrameNpcNameText:SetText(trName)
             end
         end

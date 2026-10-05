@@ -35507,7 +35507,7 @@ QuestTranslator_QuestData = {
     -- Nagas -> Nagalar, satyrs -> satirler. Blue Dragonflight -> Mavi Ejderha Sürüsü.
     ["40295"] = {
     ["Title"]="Mennar Gölü'nün Gizemi",
-    ["Description"]="Legion'ın yozlaşmışlığının (Legion's corruption) kalıntılarından bu toprakları iyileştirmek için Azshara'ya (Azshara) geldik. Ancak burada bulduğumuz şey beklenenden farklıydı. Görüyorsun ya, genç YOUR_RACE, iblis yozlaşması (demonic corruption) buradaki en büyük sorun değil.\n\nToprak yardım için haykırıyor. Bir tür kötü güçler Mennar Gölü'nün (Lake Mennar) yakınına yerleşmiş. Büyüyü ve doğayı (magic and nature) aynı şekilde tüketerek, Dünyanın  özünü (essence of the Earth) emiyorlar. Nagalar (nagas) ya da satirler (satyrs) o kadar güçlü değiller, bunu yapamazlardı. Mavi Ejderha Sürüsü (Blue Dragonflight) ise, öte yandan...NEW_LİNLütfen git ve Mennar Gölü'nde neler olduğunu gör, Azshara'nın geleceği senin ellerinde olabilir.",
+    ["Description"]="Legion'ın yozlaşmışlığının (Legion's corruption) kalıntılarından bu toprakları iyileştirmek için Azshara'ya (Azshara) geldik. Ancak burada bulduğumuz şey beklenenden farklıydı. Görüyorsun ya, genç YOUR_RACE, iblis yozlaşması (demonic corruption) buradaki en büyük sorun değil.\n\nToprak yardım için haykırıyor. Bir tür kötü güçler Mennar Gölü'nün (Lake Mennar) yakınına yerleşmiş. Büyüyü ve doğayı (magic and nature) aynı şekilde tüketerek, Dünyanın  özünü (essence of the Earth) emiyorlar. Nagalar (nagas) ya da satirler (satyrs) o kadar güçlü değiller, bunu yapamazlardı. Mavi Ejderha Sürüsü (Blue Dragonflight) ise, öte yandan...NEW_LINEİNLütfen git ve Mennar Gölü'nde neler olduğunu gör, Azshara'nın geleceği senin ellerinde olabilir.",
     ["Objectives"]="Mennar Gölü'nü (Lake Mennar) keşfet.",
     ["Progress"]="Mennar Gölü'ne henüz gittin mi? Azshara'nın güney kısmında yer alıyor.",
     ["Completion"]="Ne kadar çok? Bu beklediğimizden daha kötü.",
@@ -70765,10 +70765,10 @@ QuestTranslator_QuestData = {
     
 ["8985"] = {
     ["Title"]="Önemli Diğer Bileşenler",
-    ["Description"]="YOUR_CLASS, dikkatlice dinle. Artık son muska parçasının yerini bildiğimize göre, buhurdanlığı doldurmak için başka bir bileşene daha ihtiyacımız var; ölmüş, eski yoldaşımın ruhunu cezbedecek kadar güçlü bir odak noktası sağlayacak bir şey.NEW_LINENEW_Lİsalien, rahibemiz, Kışspring'de Starbreeze Köyü'nde büyüdü. Güney Kışspring'deki Frostwhisper Geçidi'nin Frostmaul devlerinden bir Starbreeze Köyü Yadigarı toplamanı istiyorum, bu devlerin zaman zaman kuzeye baskın yaptığı bilinir.",
+    ["Description"]="YOUR_CLASS, dikkatlice dinle. Artık son muska parçasının yerini bildiğimize göre, buhurdanlığı doldurmak için başka bir bileşene daha ihtiyacımız var; ölmüş, eski yoldaşımın ruhunu cezbedecek kadar güçlü bir odak noktası sağlayacak bir şey.NEW_LINENEW_LINEİsalien, rahibemiz, Kışspring'de Starbreeze Köyü'nde büyüdü. Güney Kışspring'deki Frostwhisper Geçidi'nin Frostmaul devlerinden bir Starbreeze Köyü Yadigarı toplamanı istiyorum, bu devlerin zaman zaman kuzeye baskın yaptığı bilinir.",
     ["Objectives"]="Bir Starbreeze Köyü Yadigarı elde et ve Kara Kaya Dağı içindeki Bodley'ye geri dön.",
     ["Progress"]="Seni toplamaya gönderdiğim şeyle hemen döndün mü YOUR_CLASS?",
-    ["Completion"]="Harika bir iş, YOUR_NAME. Yadigârın özünü buhurdanlığa aşılayacağım.NEW_LINENEW_Lİşte şimdi geriye kalan tek şey Dire Maul'un doğu kanadındaki Eldretharr Tapınağı'na gitmek ve buhurdanlığı kullanarak eski yoldaşım Isalien'in ruhunu çağırmak. Valthalak'ın muska parçasına ve içindeki ruh parçasına sahip olduğu için ruhu bozuldu.NEW_LINENEW_LBu arada, Alcaz Adası gezinden kalan biraz kan yosunum vardı, bu yüzden senin için birkaç iksir yaptım. Seçimini yap!",
+    ["Completion"]="Harika bir iş, YOUR_NAME. Yadigârın özünü buhurdanlığa aşılayacağım.NEW_LINENEW_LINEİşte şimdi geriye kalan tek şey Dire Maul'un doğu kanadındaki Eldretharr Tapınağı'na gitmek ve buhurdanlığı kullanarak eski yoldaşım Isalien'in ruhunu çağırmak. Valthalak'ın muska parçasına ve içindeki ruh parçasına sahip olduğu için ruhu bozuldu.NEW_LINENEW_LINEBu arada, Alcaz Adası gezinden kalan biraz kan yosunum vardı, bu yüzden senin için birkaç iksir yaptım. Seçimini yap!",
     ["minlevel"]="58",
     ["questlevel"]="60"
 },
@@ -70778,84 +70778,84 @@ QuestTranslator_QuestData = {
     ["Description"]="YOUR_CLASS, dikkatlice dinle. Artık son muska parçasının yerini bildiğimize göre, buhurdanlığı doldurmak için başka bir bileşene daha ihtiyacımız var; ölmüş, eski yoldaşımın ruhunu cezbedecek kadar güçlü bir odak noktası sağlayacak bir şey.NEW_LINENEW_LINEÖncelikli druidimiz Mor Bozboynuz'un Cenarion Çemberi arasında birçok yakın dostu vardı, bazıları silithidlere yenik düştü. Güneydoğu Silithus'taki Hive'Regal çevresinde yaşayan silithidlerden Druid Kalıntıları getirmeni istiyorum.",
     ["Objectives"]="Druid Kalıntıları elde et ve Kara Kaya Dağı içindeki Bodley'ye geri dön.",
     ["Progress"]="Seni toplamaya gönderdiğim şeyle hemen döndün mü YOUR_CLASS?",
-    ["Completion"]="Harika bir iş, YOUR_NAME. Kalıntıların özünü buhurdanlığa aşılayacağım.NEW_LINENEW_Lİşte şimdi geriye kalan tek şey Kara Kaya Tepesi'nin alt kısmına, Tazz'Alaor'da Savaş Ustası Voone'un ikamet ettiği odaya gitmek ve buhurdanlığı kullanarak eski yoldaşım Mor Bozboynuz'un bozulmuş ruhunu çağırmak. Muska parçası ondan alınana kadar huzur bulamaz.NEW_LINENEW_LBu arada, Alcaz Adası gezinden kalan biraz kan yosunum vardı, bu yüzden senin için birkaç iksir yaptım. Seçimini yap!",
+    ["Completion"]="Harika bir iş, YOUR_NAME. Kalıntıların özünü buhurdanlığa aşılayacağım.NEW_LINENEW_LINEİşte şimdi geriye kalan tek şey Kara Kaya Tepesi'nin alt kısmına, Tazz'Alaor'da Savaş Ustası Voone'un ikamet ettiği odaya gitmek ve buhurdanlığı kullanarak eski yoldaşım Mor Bozboynuz'un bozulmuş ruhunu çağırmak. Muska parçası ondan alınana kadar huzur bulamaz.NEW_LINENEW_LINEBu arada, Alcaz Adası gezinden kalan biraz kan yosunum vardı, bu yüzden senin için birkaç iksir yaptım. Seçimini yap!",
     ["minlevel"]="58",
     ["questlevel"]="60"
 },
 
 ["8987"] = {
     ["Title"]="Önemli Diğer Bileşenler",
-    ["Description"]="YOUR_CLASS, dikkatlice dinle. Artık son muska parçasının yerini bildiğimize göre, buhurdanlığı doldurmak için başka bir bileşene daha ihtiyacımız var; ölmüş, eski yoldaşlarımın kalıntılarını çağırmak için yeterince güçlü bir odak noktası sağlayacak bir şey.NEW_LINENEW_LKardeşler, Jarien ve Sothos, Kızıl Haçlı Seferi yoluna inananlardı. O aşağılık örgüt içinde şövalyeliğe özeniyorlardı. Doğu Veba Toprakları'ndaki Tyr'in Eli'ne git ve oradaki muhafızlardan Görkemli Taassup Kılıcı al.",
+    ["Description"]="YOUR_CLASS, dikkatlice dinle. Artık son muska parçasının yerini bildiğimize göre, buhurdanlığı doldurmak için başka bir bileşene daha ihtiyacımız var; ölmüş, eski yoldaşlarımın kalıntılarını çağırmak için yeterince güçlü bir odak noktası sağlayacak bir şey.NEW_LINENEW_LINEKardeşler, Jarien ve Sothos, Kızıl Haçlı Seferi yoluna inananlardı. O aşağılık örgüt içinde şövalyeliğe özeniyorlardı. Doğu Veba Toprakları'ndaki Tyr'in Eli'ne git ve oradaki muhafızlardan Görkemli Taassup Kılıcı al.",
     ["Objectives"]="Görkemli Taassup Kılıcı getir ve Kara Kaya Dağı içindeki Bodley'ye dön.",
     ["Progress"]="Seni toplamaya gönderdiğim şeyle hemen döndün mü YOUR_CLASS?",
-    ["Completion"]="Harika bir iş, YOUR_NAME. Kılıcın özünü buhurdanlığa aşılayacağım.NEW_LINENEW_LŞimdi geriye kalan tek şey Stratholme'daki Kızıl Tabyası'nın içindeki Al Taht'a girmek ve eski yoldaşlarım Jarien ve Sothos'un kalıntılarını çağırmak için buhurdanlığı kullanmak. Valthalak'ın muska parçasına ve içindeki ruhuna sahip olmaları yüzünden ruhları daha da bozuldu.NEW_LINENEW_LBu arada, Alcaz Adası gezinden kalan biraz kan yosunum vardı, bu yüzden senin için birkaç iksir yaptım. Seçimini yap!",
+    ["Completion"]="Harika bir iş, YOUR_NAME. Kılıcın özünü buhurdanlığa aşılayacağım.NEW_LINENEW_LŞimdi geriye kalan tek şey Stratholme'daki Kızıl Tabyası'nın içindeki Al Taht'a girmek ve eski yoldaşlarım Jarien ve Sothos'un kalıntılarını çağırmak için buhurdanlığı kullanmak. Valthalak'ın muska parçasına ve içindeki ruhuna sahip olmaları yüzünden ruhları daha da bozuldu.NEW_LINENEW_LINEBu arada, Alcaz Adası gezinden kalan biraz kan yosunum vardı, bu yüzden senin için birkaç iksir yaptım. Seçimini yap!",
     ["minlevel"]="58",
     ["questlevel"]="60"
 },
 
 ["8988"] = {
     ["Title"]="Önemli Diğer Bileşenler",
-    ["Description"]="YOUR_CLASS, dikkatlice dinle. Artık son muska parçasının yerini bildiğimize göre, buhurdanlığı doldurmak için başka bir bileşene daha ihtiyacımız var; ölmüş, eski yoldaşımın ruhunu cezbedecek kadar güçlü bir odak noktası sağlayacak bir şey.NEW_LINENEW_LBizimle seyahat eden bir ogre ölüçağıran olan Kormok, Tepelik Araziler'in güney kıyısındaki Purgation Adası'nın sürgün edilmiş ölülerinin ruhlarını çağırmaktan keyif alırdı. Oraya git ve kalıntılarından Sürgün Edilmişlerin Ruh Küllerini al.",
+    ["Description"]="YOUR_CLASS, dikkatlice dinle. Artık son muska parçasının yerini bildiğimize göre, buhurdanlığı doldurmak için başka bir bileşene daha ihtiyacımız var; ölmüş, eski yoldaşımın ruhunu cezbedecek kadar güçlü bir odak noktası sağlayacak bir şey.NEW_LINENEW_LINEBizimle seyahat eden bir ogre ölüçağıran olan Kormok, Tepelik Araziler'in güney kıyısındaki Purgation Adası'nın sürgün edilmiş ölülerinin ruhlarını çağırmaktan keyif alırdı. Oraya git ve kalıntılarından Sürgün Edilmişlerin Ruh Küllerini al.",
     ["Objectives"]="Sürgün Edilmişlerin Ruh Küllerini elde et ve Kara Kaya Dağı içindeki Bodley'ye dön.",
     ["Progress"]="Seni toplamaya gönderdiğim şeyle hemen döndün mü YOUR_CLASS?",
-    ["Completion"]="Harika bir iş, YOUR_NAME. Küllerin özünü buhurdanlığa aşılayacağım.NEW_LINENEW_LŞimdi geriye kalan tek şey Scholomance'a, Ras Frostwhisper'ın odasına girmek ve buhurdanlığı kullanarak eski yoldaşım Kormok'un ruhunu çağırmak. Muska parçası ve içindeki Valthalak'ın ruhu onu daha da bozdu ve sen onu zorla ondan alana kadar huzur bulamayacak.NEW_LINENEW_LBu arada, Alcaz Adası gezinden kalan biraz kan yosunum vardı, bu yüzden senin için birkaç iksir yaptım. Seçimini yap!",
+    ["Completion"]="Harika bir iş, YOUR_NAME. Küllerin özünü buhurdanlığa aşılayacağım.NEW_LINENEW_LŞimdi geriye kalan tek şey Scholomance'a, Ras Frostwhisper'ın odasına girmek ve buhurdanlığı kullanarak eski yoldaşım Kormok'un ruhunu çağırmak. Muska parçası ve içindeki Valthalak'ın ruhu onu daha da bozdu ve sen onu zorla ondan alana kadar huzur bulamayacak.NEW_LINENEW_LINEBu arada, Alcaz Adası gezinden kalan biraz kan yosunum vardı, bu yüzden senin için birkaç iksir yaptım. Seçimini yap!",
     ["minlevel"]="58",
     ["questlevel"]="60"
 },
 
 ["8989"] = {
     ["Title"]="Lord Valthalak'ın Muskasının Doğru Parçası",
-    ["Description"]="Dostum, Mor Bozboynuz, Lord Valthalak'ın muskasının bir parçasına ve içerdiği bozucu ruh kırıntısına kurban giden ilk kişiydi. Valthalak'ın büyü kitabını ve muskasını çaldıktan sonra, Kara Kaya Tepesi'nin üst kısmından canımızı kurtarmak için kaçtık. Yol boyunca Mor, tepenin alt kısmına düştü.NEW_LINENEW_LDaha sonra öğrendik ki düşüşten sağ kurtulmuş, ancak Savaş Ustası Voone tarafından yakalanıp işkence görmüş. Birkaç tayf suikastçı içeri sızdı ve onu Voone'un tam önünde katletti.",
+    ["Description"]="Dostum, Mor Bozboynuz, Lord Valthalak'ın muskasının bir parçasına ve içerdiği bozucu ruh kırıntısına kurban giden ilk kişiydi. Valthalak'ın büyü kitabını ve muskasını çaldıktan sonra, Kara Kaya Tepesi'nin üst kısmından canımızı kurtarmak için kaçtık. Yol boyunca Mor, tepenin alt kısmına düştü.NEW_LINENEW_LINEDaha sonra öğrendik ki düşüşten sağ kurtulmuş, ancak Savaş Ustası Voone tarafından yakalanıp işkence görmüş. Birkaç tayf suikastçı içeri sızdı ve onu Voone'un tam önünde katletti.",
     ["Objectives"]="Mor Bozboynuz'un ruhunu çağırmak için Çağrı Buhurdanlığı'nı kullan ve onu katlet. Birleştirilmiş Lord Valthalak'ın Muskası ve Çağrı Buhurdanlığı ile Kara Kaya Dağı içindeki Bodley'ye geri dön.",
     ["Progress"]="Öyleyse bitti mi? Lord Valthalak'ın muskasının doğru parçasını aldın, muskayı tek bir bütün halinde birleştirdin ve eski yoldaşım Mor Bozboynuz'un ruhunu nihayet huzura erdirdin mi?",
-    ["Completion"]="Mor Bozboynuz'a yardım ettiğin için teşekkür ederim, YOUR_NAME. Başka bir ruh huzur içinde yatıyor ve artık yeniden birleştirilmiş muskaya sahibiz! Ancak önümüzde hâlâ en zorlu test var.NEW_LINENEW_LBuhurdanlığın Lord Valthalak'ı çağırmaya uyum sağlanması için birkaç eşyanın daha toplanıp buraya bana getirilmesi gerekiyor.",
+    ["Completion"]="Mor Bozboynuz'a yardım ettiğin için teşekkür ederim, YOUR_NAME. Başka bir ruh huzur içinde yatıyor ve artık yeniden birleştirilmiş muskaya sahibiz! Ancak önümüzde hâlâ en zorlu test var.NEW_LINENEW_LINEBuhurdanlığın Lord Valthalak'ı çağırmaya uyum sağlanması için birkaç eşyanın daha toplanıp buraya bana getirilmesi gerekiyor.",
     ["minlevel"]="58",
     ["questlevel"]="60"
 },
 
 ["8990"] = {
     ["Title"]="Lord Valthalak'ın Muskasının Doğru Parçası",
-    ["Description"]="Hayatta kalmak için elimizden geleni yaptığımız sonraki günlerde öğrendik ki, birliğimizin gecelefi rahibesi Isalien, artık Dire Maul olarak bilinen gece elflerinin ata şehrine gitmiş. Topladığımız bilgilere göre, hem kişisel nedenlerle hem de elinde bulunan muska parçasının sırlarını çözmek için oraya gitmiş.NEW_LINENEW_LAncak tam olarak başaramadı. Vahşi_şekillendiren Alzzin ve kuvvetleri tarafından Eldretharr Tapınağı'nda pusuya düşürüldüğünün haberi bize ulaştı.",
+    ["Description"]="Hayatta kalmak için elimizden geleni yaptığımız sonraki günlerde öğrendik ki, birliğimizin gecelefi rahibesi Isalien, artık Dire Maul olarak bilinen gece elflerinin ata şehrine gitmiş. Topladığımız bilgilere göre, hem kişisel nedenlerle hem de elinde bulunan muska parçasının sırlarını çözmek için oraya gitmiş.NEW_LINENEW_LINEAncak tam olarak başaramadı. Vahşi_şekillendiren Alzzin ve kuvvetleri tarafından Eldretharr Tapınağı'nda pusuya düşürüldüğünün haberi bize ulaştı.",
     ["Objectives"]="Isalien'in ruhunu çağırmak için Çağrı Buhurdanlığı'nı kullan ve onu katlet. Birleştirilmiş Lord Valthalak'ın Muskası ve Çağrı Buhurdanlığı ile Kara Kaya Dağı içindeki Bodley'ye geri dön.",
     ["Progress"]="Isalien'in ruhunun kurtarılması ve Lord Valthalak'ın muskasının doğru parçasının alınması işini çoktan halletmiş olamazsın, değil mi YOUR_NAME? Muskayı bana vermeden önce parçalarını birleştirdiğinden emin ol.",
-    ["Completion"]="Isalien'in ruhunu huzura kavuşturduğun için teşekkür ederim, YOUR_NAME. Şimdi, belki de tanrıçasıyla huzuru bulacaktır. Ve yeniden birleştirilmiş muskaya da sahibiz! Ancak önümüzde hâlâ en zorlu test var.NEW_LINENEW_LBuhurdanlığın Lord Valthalak'ı çağırmaya uyum sağlanması için birkaç eşyanın daha toplanıp buraya bana getirilmesi gerekiyor.",
+    ["Completion"]="Isalien'in ruhunu huzura kavuşturduğun için teşekkür ederim, YOUR_NAME. Şimdi, belki de tanrıçasıyla huzuru bulacaktır. Ve yeniden birleştirilmiş muskaya da sahibiz! Ancak önümüzde hâlâ en zorlu test var.NEW_LINENEW_LINEBuhurdanlığın Lord Valthalak'ı çağırmaya uyum sağlanması için birkaç eşyanın daha toplanıp buraya bana getirilmesi gerekiyor.",
     ["minlevel"]="58",
     ["questlevel"]="60"
 },
 
 ["8991"] = {
     ["Title"]="Lord Valthalak'ın Muskasının Doğru Parçası",
-    ["Description"]="Kardeşler, Jarien ve Sothos, paralı asker şirketimizin dağılması üzerine Kızıl Haçlı Seferi'ne katılmaya karar verdiler. Lord Valthalak'ın muskasının doğru parçasını da yanlarına aldılar. Kurtulduğumuza sevindim derim, ama o parçaya ihtiyacımız var.NEW_LINENEW_LINEÖğrenebildiğimiz kadarıyla, Kızıl Tabyası'ndaki odasında kabul törenlerinde başarısız oldukları için Büyük Haçlı Dathrohan'ın kendisi tarafından katledilmişler.NEW_LINENEW_LHer halükarda, biz... yani sen, muskanın o parçasını hâlâ alman gerekecek.",
+    ["Description"]="Kardeşler, Jarien ve Sothos, paralı asker şirketimizin dağılması üzerine Kızıl Haçlı Seferi'ne katılmaya karar verdiler. Lord Valthalak'ın muskasının doğru parçasını da yanlarına aldılar. Kurtulduğumuza sevindim derim, ama o parçaya ihtiyacımız var.NEW_LINENEW_LINEÖğrenebildiğimiz kadarıyla, Kızıl Tabyası'ndaki odasında kabul törenlerinde başarısız oldukları için Büyük Haçlı Dathrohan'ın kendisi tarafından katledilmişler.NEW_LINENEW_LINEHer halükarda, biz... yani sen, muskanın o parçasını hâlâ alman gerekecek.",
     ["Objectives"]="Jarien ve Sothos'u çağırmak için Çağrı Buhurdanlığı'nı kullan ve onları katlet. Birleştirilmiş Lord Valthalak'ın Muskası ve Çağrı Buhurdanlığı ile Kara Kaya Dağı içindeki Bodley'ye geri dön.",
     ["Progress"]="Bu durumda YOUR_CLASS, bu iki aptalın ruhunu çoktan huzura kavuşturduğun ve Lord Valthalak'ın muskasının parçalarını birleştirdiğin anlamına mı geliyor?",
-    ["Completion"]="Sanırım o ikisinin ruhlarının nihayet huzura kavuşması en iyisi oldu, yaşarlarken onlardan hoşlanmasam bile. Her halükarda peşinde olduğumuz şeyi aldık ve artık muska yeniden birleşti! Ancak önümüzde hâlâ en zorlu test var.NEW_LINENEW_LBuhurdanlığın Lord Valthalak'ı çağırmaya uyum sağlanması için birkaç eşyanın daha toplanıp buraya bana getirilmesi gerekiyor.",
+    ["Completion"]="Sanırım o ikisinin ruhlarının nihayet huzura kavuşması en iyisi oldu, yaşarlarken onlardan hoşlanmasam bile. Her halükarda peşinde olduğumuz şeyi aldık ve artık muska yeniden birleşti! Ancak önümüzde hâlâ en zorlu test var.NEW_LINENEW_LINEBuhurdanlığın Lord Valthalak'ı çağırmaya uyum sağlanması için birkaç eşyanın daha toplanıp buraya bana getirilmesi gerekiyor.",
     ["minlevel"]="58",
     ["questlevel"]="60"
 },
 
 ["8992"] = {
     ["Title"]="Lord Valthalak'ın Muskasının Doğru Parçası",
-    ["Description"]="Şimdi ihtiyacımız olan şeye sahibiz, bu yüzden sırada kimi çağıracağını tartışma vakti geldi.NEW_LINENEW_LKormok ölüçağırmaya yönelene kadar bir ogre için iyiydi. Ondan sonra, ekipteki hemen hemen herkes için işler ürkütücü bir hal aldı. Muska parçasını alıp yeni evi olan Scholomance'a döndüğünde hiç şaşırmadık.NEW_LINENEW_LAncak orada bile, ya da belki özellikle orada, tayf suikastçılardan güvende değildi. Onu ustası Ras Frostwhisper'ın gözleri önünde katlettiler.",
+    ["Description"]="Şimdi ihtiyacımız olan şeye sahibiz, bu yüzden sırada kimi çağıracağını tartışma vakti geldi.NEW_LINENEW_LINEKormok ölüçağırmaya yönelene kadar bir ogre için iyiydi. Ondan sonra, ekipteki hemen hemen herkes için işler ürkütücü bir hal aldı. Muska parçasını alıp yeni evi olan Scholomance'a döndüğünde hiç şaşırmadık.NEW_LINENEW_LINEAncak orada bile, ya da belki özellikle orada, tayf suikastçılardan güvende değildi. Onu ustası Ras Frostwhisper'ın gözleri önünde katlettiler.",
     ["Objectives"]="Kormok'un ruhunu çağırmak için Çağrı Buhurdanlığı'nı kullan ve onu katlet. Birleştirilmiş Lord Valthalak'ın Muskası ve Çağrı Buhurdanlığı ile Kara Kaya Dağı içindeki Bodley'ye geri dön.",
     ["Progress"]="Tamamlanmış muska ile döndüysen seni tebrik ederim YOUR_NAME. Eğer dönmediysen, lütfen bununla ilgilen çünkü kaybedecek vakit yok, seni temin ederim!",
-    ["Completion"]="İyi iş, YOUR_NAME! Kormok bir ogre için o kadar da kötü değildi, en azından hâlâ yaşarken, bu yüzden hak ettiği huzuru bulacağını umuyorum. Ve şimdi tamamlanmış muskaya sahibiz! Ancak önümüzde hâlâ en zorlu test var.NEW_LINENEW_LBuhurdanlığın Lord Valthalak'ı çağırmaya uyum sağlanması için birkaç eşyanın daha toplanıp buraya bana getirilmesi gerekiyor.",
+    ["Completion"]="İyi iş, YOUR_NAME! Kormok bir ogre için o kadar da kötü değildi, en azından hâlâ yaşarken, bu yüzden hak ettiği huzuru bulacağını umuyorum. Ve şimdi tamamlanmış muskaya sahibiz! Ancak önümüzde hâlâ en zorlu test var.NEW_LINENEW_LINEBuhurdanlığın Lord Valthalak'ı çağırmaya uyum sağlanması için birkaç eşyanın daha toplanıp buraya bana getirilmesi gerekiyor.",
     ["minlevel"]="58",
     ["questlevel"]="60"
 },
 
 ["8994"] = {
     ["Title"]="Son Hazırlıklar",
-    ["Description"]="Neredeyse vardık YOUR_CLASS. Geriye kalan tek şey, buhurdanlığı uyumlayıp Lord Valthalak'ı çağırmasını sağlayabilmem için birkaç bileşen daha getirmek.NEW_LINENEW_LBaşlamak için senden Kara Kaya Tepesi'ne gitmeni ve oradaki orkları katletmeni istemeliyim. İhtiyacım olan iz metalleri içeren kolluklar takıyorlar, bu yüzden onlardan doğru miktarı çıkarmak için epeyce bir miktara ihtiyacım olacak. Ardından, aşılatma sürecini tamamlamak için bana bir Yüce Güç Şişesi getirmen gerekecek.NEW_LINENEW_Lİyi şanslar, YOUR_NAME!",
+    ["Description"]="Neredeyse vardık YOUR_CLASS. Geriye kalan tek şey, buhurdanlığı uyumlayıp Lord Valthalak'ı çağırmasını sağlayabilmem için birkaç bileşen daha getirmek.NEW_LINENEW_LINEBaşlamak için senden Kara Kaya Tepesi'ne gitmeni ve oradaki orkları katletmeni istemeliyim. İhtiyacım olan iz metalleri içeren kolluklar takıyorlar, bu yüzden onlardan doğru miktarı çıkarmak için epeyce bir miktara ihtiyacım olacak. Ardından, aşılatma sürecini tamamlamak için bana bir Yüce Güç Şişesi getirmen gerekecek.NEW_LINENEW_LINEİyi şanslar, YOUR_NAME!",
     ["Objectives"]="40 Kara Kaya Kolluğu topla ve bir Yüce Güç Şişesi elde et. Onları Kara Kaya Dağı içindeki Bodley'ye geri getir.",
     ["Progress"]="Uzun bir yol katettik YOUR_NAME ve ne olursa olsun sana teşekkür etmek istedim! Paralı asker şirketimizin, Örtülü Bıçak'ın, hayatta kalan üyelerine yardım etmek için kendini ölümcül tehlikeye attın ve bana kalırsa artık bizden birisin.",
-    ["Completion"]="İşte bu kadar. Kolluklardan metali çıkaracağım ve buhurdanlığı bu son bileşenlerle donatacağım. Ardından Lord Valthalak'ı çağırman ve nihayet ruh muskasını ona geri vermen için hazır olacak.NEW_LINENEW_LEpeyce bir yol katettin YOUR_NAME, sonu görünmüşken şimdi bocalama!",
+    ["Completion"]="İşte bu kadar. Kolluklardan metali çıkaracağım ve buhurdanlığı bu son bileşenlerle donatacağım. Ardından Lord Valthalak'ı çağırman ve nihayet ruh muskasını ona geri vermen için hazır olacak.NEW_LINENEW_LINEEpeyce bir yol katettin YOUR_NAME, sonu görünmüşken şimdi bocalama!",
     ["minlevel"]="58",
     ["questlevel"]="60"
 },
 
 ["8995"] = {
     ["Title"]="Mea Culpa, Lord Valthalak",
-    ["Description"]="Artık her şey hazır, YOUR_NAME.NEW_LINENEW_LŞimdi Canavar'ın odası olan yerde, Lord Valthalak yaşarken ikamet ederdi. Oraya git ve Lord Valthalak'ı çağırmak için Çağrı Buhurdanlığı'nı kullan. Onu yeniden bedenleştirecek, bu yüzden tekrar öldürülmesi gerekecek. Önce Canavar'ın icabına bakardım ve Kara Kaya Tepesi'nin üst kısmında hayatta kalmak için yanına yeterince arkadaş aldığından emin ol.NEW_LINENEW_LValthalak'ı ortadan kaldırdığında, muskayı cesedinin üzerinde kullan. Ruhu yeniden birleştiğinde, muhtemelen muskasını da geri isteyecektir.NEW_LINENEW_Lİyi şanslar!",
+    ["Description"]="Artık her şey hazır, YOUR_NAME.NEW_LINENEW_LŞimdi Canavar'ın odası olan yerde, Lord Valthalak yaşarken ikamet ederdi. Oraya git ve Lord Valthalak'ı çağırmak için Çağrı Buhurdanlığı'nı kullan. Onu yeniden bedenleştirecek, bu yüzden tekrar öldürülmesi gerekecek. Önce Canavar'ın icabına bakardım ve Kara Kaya Tepesi'nin üst kısmında hayatta kalmak için yanına yeterince arkadaş aldığından emin ol.NEW_LINENEW_LValthalak'ı ortadan kaldırdığında, muskayı cesedinin üzerinde kullan. Ruhu yeniden birleştiğinde, muhtemelen muskasını da geri isteyecektir.NEW_LINENEW_LINEİyi şanslar!",
     ["Objectives"]="Lord Valthalak'ı çağırmak için Çağrı Buhurdanlığı'nı kullan. Onu ortadan kaldır ve cesedin üzerinde Lord Valthalak'ın Muskanı kullan. Ardından Lord Valthalak'ın Muskanı Lord Valthalak'ın Ruhu'na geri ver.",
     ["Progress"]="YOUR_CLASS, uykumu bölmeye nasıl cüret edersin!",
     ["Completion"]="Bunu benden çalan orijinal grubun bir parçası olmadığını bilmem senin için ne büyük şans.NEW_LINENEW_LŞimdi benim olanı geri alacağım, fani! Muskayı bana ver!",
@@ -70865,17 +70865,17 @@ QuestTranslator_QuestData = {
 
 ["8996"] = {
     ["Title"]="Bodley'ye Dönüş",
-    ["Description"]="Saygısızlığını bu seferlik görmezden geleceğim YOUR_CLASS, çünkü bugün soylu bir şey yaptın; çalınan ruhumun geri kalanını bana teslim ettin. Zayıf doğana rağmen, YOUR_RACE, benden çalanların gösteremediği ve muhtemelen asla gösteremeyeceği bir cesaret sergiledin!NEW_LINENEW_LFikrimi değiştirip seni durduğun yerde katletmeden önce onların yanına dön. Geri git ve güvende olduklarını söyle... şimdilik.",
+    ["Description"]="Saygısızlığını bu seferlik görmezden geleceğim YOUR_CLASS, çünkü bugün soylu bir şey yaptın; çalınan ruhumun geri kalanını bana teslim ettin. Zayıf doğana rağmen, YOUR_RACE, benden çalanların gösteremediği ve muhtemelen asla gösteremeyeceği bir cesaret sergiledin!NEW_LINENEW_LINEFikrimi değiştirip seni durduğun yerde katletmeden önce onların yanına dön. Geri git ve güvende olduklarını söyle... şimdilik.",
     ["Objectives"]="Kara Kaya Dağı içindeki Bodley'ye dön ve ona Çağrı Buhurdanlığı'nı ver.",
-    ["Progress"]="YOUR_NAME, döndün ve hâlâ hayattasın! En azından bu durum ikimizden birini hayatta yapıyor.NEW_LINENEW_LBana her şeyi anlatman gerekecek!",
-    ["Completion"]="Gerçekten tüm bunları söyledi mi? Vay canına, gelecekte yaşayan yoldaşlarıma daha fazla zarar vereceğini ima etmiş olsa bile, tayf suikastçıları ve takipçileri geri çekeceğine inanamıyorum.NEW_LINENEW_LBu harika bir gün, YOUR_NAME! Çok az kişinin başarabileceği bir şeyi başardın ve bizi, en azından kısmen, geçmiş günahlarımızdan arındırdın.NEW_LINENEW_LTeşekkür ederim! Bir minnet göstergesi olarak sana bunu vermek istiyorum. Zaten bulunduğun aynı lanetli konumlarda ve diğer birkaç yerde ruhları çağırmak için bunu kullanabilirsin.",
+    ["Progress"]="YOUR_NAME, döndün ve hâlâ hayattasın! En azından bu durum ikimizden birini hayatta yapıyor.NEW_LINENEW_LINEBana her şeyi anlatman gerekecek!",
+    ["Completion"]="Gerçekten tüm bunları söyledi mi? Vay canına, gelecekte yaşayan yoldaşlarıma daha fazla zarar vereceğini ima etmiş olsa bile, tayf suikastçıları ve takipçileri geri çekeceğine inanamıyorum.NEW_LINENEW_LINEBu harika bir gün, YOUR_NAME! Çok az kişinin başarabileceği bir şeyi başardın ve bizi, en azından kısmen, geçmiş günahlarımızdan arındırdın.NEW_LINENEW_LTeşekkür ederim! Bir minnet göstergesi olarak sana bunu vermek istiyorum. Zaten bulunduğun aynı lanetli konumlarda ve diğer birkaç yerde ruhları çağırmak için bunu kullanabilirsin.",
     ["minlevel"]="58",
     ["questlevel"]="60"
 },
 
 ["9015"] = {
     ["Title"]="Meydan Okuma",
-    ["Description"]="Beni iyi dinle, YOUR_NAME. Sancağın istenen şekilde çalışması için Kara Kaya Derinlikleri'ndeki Kanun Halkası'na adım atman gerekecek. Yüksek Yargıç Grimstone tarafından mahkûm edilmene izin ver ve bir meydan okuma göstergesi olarak sancağı yere sıkıca dik.NEW_LINENEW_LKurbanın kendini tutamayacak ve seninle dövüşme arzusuyla dolu bir şekilde mücadeleye atılacaktır. Aradığın şeyi elde ettiğinde Anthion'a geri dön.",
+    ["Description"]="Beni iyi dinle, YOUR_NAME. Sancağın istenen şekilde çalışması için Kara Kaya Derinlikleri'ndeki Kanun Halkası'na adım atman gerekecek. Yüksek Yargıç Grimstone tarafından mahkûm edilmene izin ver ve bir meydan okuma göstergesi olarak sancağı yere sıkıca dik.NEW_LINENEW_LINEKurbanın kendini tutamayacak ve seninle dövüşme arzusuyla dolu bir şekilde mücadeleye atılacaktır. Aradığın şeyi elde ettiğinde Anthion'a geri dön.",
     ["Objectives"]="Kara Kaya Derinlikleri'ndeki Kanun Halkası'na seyahat et ve Yüksek Yargıç Grimstone tarafından mahkûm edilirken Kışkırtma Sancağı'nı merkeze yerleştir. Theldren ve gladyatörlerini katlet ve Lord Valthalak'ın muskasının ilk parçasıyla Doğu Veba Toprakları'ndaki Anthion Harmon'a dön.",
     ["Progress"]="Geri döndün, YOUR_NAME!",
     ["Completion"]="Madalyonun bir parçasını kurtardın mı, YOUR_NAME?",
@@ -70885,7 +70885,7 @@ QuestTranslator_QuestData = {
 
 ["9023"] = {
     ["Title"]="Mükemmel Zehir",
-    ["Description"]="Kardeşim ve ben Ravenholdt malikanesinden zehir operasyonlarını yürütüyoruz.NEW_LINENEW_LLord Ravenholdt, Zul'Gurub ve Ahn'Qiraj Kalıntıları sakinlerinin zehir keselerinden işlenebilecek yeni ve son derece etkili bir zehir bileşiğinin izini sürmem için beni görevlendirdi.NEW_LINENEW_LBu lanetli yıkıntılarda yaşayan ve aradığımız şeye sahip olabilecek özellikle zehirli iki canavar var, YOUR_CLASS. Kurinnaxx ve Venoxis canavarlarından bana bir zehir kesesi getir, sana sonsuza dek minnettar kalalım.",
+    ["Description"]="Kardeşim ve ben Ravenholdt malikanesinden zehir operasyonlarını yürütüyoruz.NEW_LINENEW_LINELord Ravenholdt, Zul'Gurub ve Ahn'Qiraj Kalıntıları sakinlerinin zehir keselerinden işlenebilecek yeni ve son derece etkili bir zehir bileşiğinin izini sürmem için beni görevlendirdi.NEW_LINENEW_LINEBu lanetli yıkıntılarda yaşayan ve aradığımız şeye sahip olabilecek özellikle zehirli iki canavar var, YOUR_CLASS. Kurinnaxx ve Venoxis canavarlarından bana bir zehir kesesi getir, sana sonsuza dek minnettar kalalım.",
     ["Objectives"]="Cenarion Kalesi'ndeki Dirk Yıldırımodunu, Venoxis'in Zehir Kesesi ile Kurinnaxx'ın Zehir Kesesi'ni getirmeni istiyor.",
     ["Progress"]="Bu iş öyle çabucak halledilecek bir yağma işi değil, YOUR_NAME. Yanında arkadaşlarını getirmen gerekecek.",
     ["Completion"]="Ravenholdt sana teşekkür eder, kahraman! Seçimini yap!",
@@ -70895,20 +70895,20 @@ QuestTranslator_QuestData = {
 
 ["9024"] = {
     ["Title"]="Aristan'ın Sezgisi",
-    ["Description"]="Buldum! Rüzgârda beliren yeni kokuyu duydun mu? Moda olan yeni kolonyaları ve parfümleri? Muhafızlarımız görevlerini bu kadar kolay ihmal etmezdi.NEW_LINENEW_LTabii, düşünceleri bazı kirli simyalarla bulanmadığı sürece.NEW_LINENEW_LEmin olmanın tek bir yolu var - Morgan Pestle'a bir şişe kolonya ve parfüm götür ve ona şüphelerimi anlat. Döndüğünde satın alma masrafını sana ödeyeceğim.",
+    ["Description"]="Buldum! Rüzgârda beliren yeni kokuyu duydun mu? Moda olan yeni kolonyaları ve parfümleri? Muhafızlarımız görevlerini bu kadar kolay ihmal etmezdi.NEW_LINENEW_LTabii, düşünceleri bazı kirli simyalarla bulanmadığı sürece.NEW_LINENEW_LINEEmin olmanın tek bir yolu var - Morgan Pestle'a bir şişe kolonya ve parfüm götür ve ona şüphelerimi anlat. Döndüğünde satın alma masrafını sana ödeyeceğim.",
     ["Objectives"]="Stormwind'in Ticaret Bölgesi'ndeki Morgan Pestle'a 1 Kolonya Şişesi ve 1 Parfüm Şişesi götür.",
     ["Progress"]="Yardım edebileceğim bir şey var mı?",
-    ["Completion"]="Aristan'ın endişelerini anlıyorum ama gerçekten aşırı tepki verdiğini düşünüyorum. Bırakın genç erkekler ve kadınlar dilediklerini yapsınlar. Sanırım Aristan genç ve aşık olmanın ne demek olduğunu unutmuş.NEW_LINENEW_LAma bunu ona söylememek daha iyi olur. Onu idare edeceğiz.",
+    ["Completion"]="Aristan'ın endişelerini anlıyorum ama gerçekten aşırı tepki verdiğini düşünüyorum. Bırakın genç erkekler ve kadınlar dilediklerini yapsınlar. Sanırım Aristan genç ve aşık olmanın ne demek olduğunu unutmuş.NEW_LINENEW_LINEAma bunu ona söylememek daha iyi olur. Onu idare edeceğiz.",
     ["minlevel"]="1",
     ["questlevel"]="60"
 },
 
 ["9027"] = {
     ["Title"]="Kaynağın İzini Sürmek",
-    ["Description"]="Kolonyada tuhaf bir şey mi var? Mümkün. Tek bir ürünün peşinde bu kadar çok insanı daha önce hiç görmemiştim.NEW_LINENEW_LBak, eğer bir sorun varsa ben de bilmek isterim. Stoğumu Evert Sorisam adında bir tüccardan satın aldım. Kasabada yeni.NEW_LINENEW_LEn İnce İplik'e teslim edeceği bazı mallar olduğunu söylemişti.",
+    ["Description"]="Kolonyada tuhaf bir şey mi var? Mümkün. Tek bir ürünün peşinde bu kadar çok insanı daha önce hiç görmemiştim.NEW_LINENEW_LINEBak, eğer bir sorun varsa ben de bilmek isterim. Stoğumu Evert Sorisam adında bir tüccardan satın aldım. Kasabada yeni.NEW_LINENEW_LINEEn İnce İplik'e teslim edeceği bazı mallar olduğunu söylemişti.",
     ["Objectives"]="Stormwind Kanalları boyunca En İnce İplik'teki Evert Sorisam ile konuş.",
     ["Progress"]="",
-    ["Completion"]="Evet, elbette. Bu kokular bu sezonun en popüler ürünleri. Bu saatte onları soran beşinci ya da altıncı kişi olmalısınız.NEW_LINENEW_LKorkarım stoklarımın tamamı tükendi. Biraz istiyorsanız, Yaldızlı Gül'ün hancı kadını Allison ile konuşmalısınız.NEW_LINENEW_LAncak hiç vakit kaybetmemelisiniz. Sanırım parfümün karşı konulmaz olduğunu göreceksiniz.",
+    ["Completion"]="Evet, elbette. Bu kokular bu sezonun en popüler ürünleri. Bu saatte onları soran beşinci ya da altıncı kişi olmalısınız.NEW_LINENEW_LINEKorkarım stoklarımın tamamı tükendi. Biraz istiyorsanız, Yaldızlı Gül'ün hancı kadını Allison ile konuşmalısınız.NEW_LINENEW_LINEAncak hiç vakit kaybetmemelisiniz. Sanırım parfümün karşı konulmaz olduğunu göreceksiniz.",
     ["minlevel"]="1",
     ["questlevel"]="60"
 },
@@ -70918,14 +70918,14 @@ QuestTranslator_QuestData = {
     ["Description"]="Ne, vatana ihanet mi? Hayır, hayır. Sizi temin ederim, niyetim tamamen zararsız. Flört etmenin sancılı ritüelini kolaylaştırmak isteyenlere yardım etmek çok mu yanlış? Hadi ama, bu bir suç değil.NEW_LINENEW_LVe kötü bir niyetim olmadığını kanıtlamak için kaynağımı bile söyleyeceğim. Bana bir tür eczacı olan Staffron Lerent tarafından gönderildiler. Onunla hiç konuşmadım. Goblin aracımız, o gizemli Ravenholdt Malikanesi'nin ötesinde, Tepelik Araziler üzerindeki tepelerde çalıştığını söyledi. Onu bulma konusunda sana başarılar dilerim.",
     ["Objectives"]="Ravenholdt Malikanesi'nin arkasındaki Tepelik Araziler'de Eczacı Staffron Lerent'i bul.",
     ["Progress"]="",
-    ["Completion"]="Evet, o kokuları ben yaptım. Harika bir koku, değil mi? Karşı konulmaz.NEW_LINENEW_LIttifak ve Güruh savaşçıları bu aşk duygularıyla büyülendiğinde, Gölge Konseyi'nin yükselişini durdurmak için çaresiz kalacaklar.NEW_LINENEW_LZayıflayacaklar, hazırlıksız yakalanacaklar. Sevdikleri için endişelenirken güçlerini kaybedecekler.NEW_LINENEW_LÇözüm çok basitti. Buna ulaşmak neden bu kadar uzun sürdü? Herkesin zayıflığı kalpten geçer. Ve kaçınılmaz olanı durdurmak için yapabileceğiniz hiçbir şey yok.",
+    ["Completion"]="Evet, o kokuları ben yaptım. Harika bir koku, değil mi? Karşı konulmaz.NEW_LINENEW_LIttifak ve Güruh savaşçıları bu aşk duygularıyla büyülendiğinde, Gölge Konseyi'nin yükselişini durdurmak için çaresiz kalacaklar.NEW_LINENEW_LINEZayıflayacaklar, hazırlıksız yakalanacaklar. Sevdikleri için endişelenirken güçlerini kaybedecekler.NEW_LINENEW_LINEÇözüm çok basitti. Buna ulaşmak neden bu kadar uzun sürdü? Herkesin zayıflığı kalpten geçer. Ve kaçınılmaz olanı durdurmak için yapabileceğiniz hiçbir şey yok.",
     ["minlevel"]="1",
     ["questlevel"]="60"
 },
 
 ["9033"] = {
     ["Title"]="Savaşın Yankıları",
-    ["Description"]="Son savaştan bu yana beş yıl geçti...NEW_LINENEW_LOn binlerce can kayboldu ve ne için? Tehdit hiçbir zaman tamamen ortadan kaldırılmadı.NEW_LINENEW_LVe böylece Lich Kralı bir kez daha kıpırdanıyor... Onun kuklası Kel'Thuzad, topraklarımıza yeni bir saldırı için güç topluyor.NEW_LINENEW_LBuna izin vermeyeceğiz! Adanmışlığını kanıtla. Bu çılgınlığı durdurmak için canını ve uzuvlarını riske atmaya kararlı olduğunu kanıtla; Şafak ve Haçlı Seferi'nin birleşik gücü emrinde olacaktır.NEW_LINENEW_LNaxxramas'a gir ve içindeki Afet'i yok et...",
+    ["Description"]="Son savaştan bu yana beş yıl geçti...NEW_LINENEW_LINEOn binlerce can kayboldu ve ne için? Tehdit hiçbir zaman tamamen ortadan kaldırılmadı.NEW_LINENEW_LVe böylece Lich Kralı bir kez daha kıpırdanıyor... Onun kuklası Kel'Thuzad, topraklarımıza yeni bir saldırı için güç topluyor.NEW_LINENEW_LINEBuna izin vermeyeceğiz! Adanmışlığını kanıtla. Bu çılgınlığı durdurmak için canını ve uzuvlarını riske atmaya kararlı olduğunu kanıtla; Şafak ve Haçlı Seferi'nin birleşik gücü emrinde olacaktır.NEW_LINENEW_LNaxxramas'a gir ve içindeki Afet'i yok et...",
     ["Objectives"]="Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Komutan Eligor Dawnbringer, 5 Yaşayan İğrençlik, 5 Taşderili Gargoyle, 8 Ölüm Şövalyesi Yüzbaşısı ve 3 Zehir Takipçisi katletmeni istiyor.",
     ["Progress"]="Görev, onur, adanmışlık... Bu kelimeler senin için ne anlam ifade ediyor?",
     ["Completion"]="Harika bir iş! Işık Umudu'ndaki erkek ve kadınların hizmetleri aracılığıyla ödüllendirileceksin.",
@@ -71038,7 +71038,7 @@ QuestTranslator_QuestData = {
     ["Description"]="Düşen kahramanlarımızın kalıntılarını Naxxramas Lordları'nın cesetleri üzerinde bulacaksın. O saygısızlığa uğramış hatıraları, savaştan yıpranmış plaka hurdaları ve lanetli zırhı canlandırabilecek üretim malzemeleriyle birlikte bana getir; senin için güzel bir zırh parçası işleyeyim.",
     ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Komutan Eligor Dawnbringer sana bir Kurtuluş Başlığı yapacaktır: 1 Saygısızlığa Uğramış Başlık, 15 Savaştan Yıpranmış Plaka Hurdası, 5 Arkanit Külçesi ve 2 İşlenmiş Sert Deri.",
     ["Progress"]="<Eligor sana bakar ve sonra konuşmasına geri döner.>",
-    ["Completion"]="<Eligor kafasını işaret eder.>NEW_LINENEW_LKapalı tut YOUR_CLASS.",
+    ["Completion"]="<Eligor kafasını işaret eder.>NEW_LINENEW_LINEKapalı tut YOUR_CLASS.",
     ["minlevel"]="60",
     ["questlevel"]="60"
 },
@@ -71095,7 +71095,7 @@ QuestTranslator_QuestData = {
 
 ["9054"] = {
     ["Title"]="Mahzen Avcısı Cübbesi",
-    ["Description"]="Mahzen yaratığının kabuğu için bir kullanım alanı keşfettim. Parçaları Naxxramas'ta kaybolan saygısızlığa uğramış büyülü zırhlardan bazılarıyla birleştirerek son derece hafif ve çok ölümcül bir zırh takımı oluşturabiliyorum.NEW_LINENEW_Lİhtiyaç duyduğum eşyaları bana getir; senin için dünyamızda daha önce hiç görülmemiş türden bir zırh takımı tasarlayayım!",
+    ["Description"]="Mahzen yaratığının kabuğu için bir kullanım alanı keşfettim. Parçaları Naxxramas'ta kaybolan saygısızlığa uğramış büyülü zırhlardan bazılarıyla birleştirerek son derece hafif ve çok ölümcül bir zırh takımı oluşturabiliyorum.NEW_LINENEW_LINEİhtiyaç duyduğum eşyaları bana getir; senin için dünyamızda daha önce hiç görülmemiş türden bir zırh takımı tasarlayayım!",
     ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Avcı Leopold sana bir Mahzen Avcısı Cübbesi yapacaktır: 1 Saygısızlığa Uğramış Cübbe, 25 Savaştan Yıpranmış Zincir Hurdası, 4 Arkanit Külçesi ve 3 İşlenmiş Sert Deri.",
     ["Progress"]="İstediğim eşyalara sahip misin YOUR_CLASS?",
     ["Completion"]="Senden korkacaklar, YOUR_NAME.",
@@ -71105,7 +71105,7 @@ QuestTranslator_QuestData = {
 
 ["9055"] = {
     ["Title"]="Mahzen Avcısı Bacak Korumaları",
-    ["Description"]="Mahzen yaratığının kabuğu için bir kullanım alanı keşfettim. Parçaları Naxxramas'ta kaybolan saygısızlığa uğramış büyülü zırhlardan bazılarıyla birleştirerek son derece hafif ve çok ölümcül bir zırh takımı oluşturabiliyorum.NEW_LINENEW_Lİhtiyaç duyduğum eşyaları bana getir; senin için dünyamızda daha önce hiç görülmemiş türden bir zırh takımı tasarlayayım!",
+    ["Description"]="Mahzen yaratığının kabuğu için bir kullanım alanı keşfettim. Parçaları Naxxramas'ta kaybolan saygısızlığa uğramış büyülü zırhlardan bazılarıyla birleştirerek son derece hafif ve çok ölümcül bir zırh takımı oluşturabiliyorum.NEW_LINENEW_LINEİhtiyaç duyduğum eşyaları bana getir; senin için dünyamızda daha önce hiç görülmemiş türden bir zırh takımı tasarlayayım!",
     ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Avcı Leopold sana Mahzen Avcısı Bacak Korumaları yapacaktır: 1 Saygısızlığa Uğramış Bacak Koruması, 20 Savaştan Yıpranmış Zincir Hurdası, 3 Arkanit Külçesi ve 5 İşlenmiş Sert Deri.",
     ["Progress"]="İstediğim eşyalara sahip misin YOUR_CLASS?",
     ["Completion"]="Bu zırhtan daha fazla giydikçe kişiliğinin değiştiğini fark edeceksin. Öldürmek için doğaüstü bir yetenek kazanacaksın. Belki de bir kan arzusu.NEW_LINENEW_LYol açabileceğin hiçbir karmaşadan sorumlu tutulmayacağımı şimdiden söyleyeyim...",
@@ -71115,7 +71115,7 @@ QuestTranslator_QuestData = {
 
 ["9056"] = {
     ["Title"]="Mahzen Avcısı Başlığı",
-    ["Description"]="Mahzen yaratığının kabuğu için bir kullanım alanı keşfettim. Parçaları Naxxramas'ta kaybolan saygısızlığa uğramış büyülü zırhlardan bazılarıyla birleştirerek son derece hafif ve çok ölümcül bir zırh takımı oluşturabiliyorum.NEW_LINENEW_Lİhtiyaç duyduğum eşyaları bana getir; senin için dünyamızda daha önce hiç görülmemiş türden bir zırh takımı tasarlayayım!",
+    ["Description"]="Mahzen yaratığının kabuğu için bir kullanım alanı keşfettim. Parçaları Naxxramas'ta kaybolan saygısızlığa uğramış büyülü zırhlardan bazılarıyla birleştirerek son derece hafif ve çok ölümcül bir zırh takımı oluşturabiliyorum.NEW_LINENEW_LINEİhtiyaç duyduğum eşyaları bana getir; senin için dünyamızda daha önce hiç görülmemiş türden bir zırh takımı tasarlayayım!",
     ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Avcı Leopold sana bir Mahzen Avcısı Başlığı yapacaktır: 1 Saygısızlığa Uğramış Başlık, 15 Savaştan Yıpranmış Zincir Hurdası, 4 Arkanit Külçesi ve 2 Kristal Özü.",
     ["Progress"]="İstediğim eşyalara sahip misin YOUR_CLASS?",
     ["Completion"]="Korkunç bir yaratığa dönüşüyorsun, YOUR_NAME.",
@@ -71125,7 +71125,7 @@ QuestTranslator_QuestData = {
 
 ["9057"] = {
     ["Title"]="Mahzen Avcısı Omuzlukları",
-    ["Description"]="Mahzen yaratığının kabuğu için bir kullanım alanı keşfettim. Parçaları Naxxramas'ta kaybolan saygısızlığa uğramış büyülü zırhlardan bazılarıyla birleştirerek son derece hafif ve çok ölümcül bir zırh takımı oluşturabiliyorum.NEW_LINENEW_Lİhtiyaç duyduğum eşyaları bana getir; senin için dünyamızda daha önce hiç görülmemiş türden bir zırh takımı tasarlayayım!",
+    ["Description"]="Mahzen yaratığının kabuğu için bir kullanım alanı keşfettim. Parçaları Naxxramas'ta kaybolan saygısızlığa uğramış büyülü zırhlardan bazılarıyla birleştirerek son derece hafif ve çok ölümcül bir zırh takımı oluşturabiliyorum.NEW_LINENEW_LINEİhtiyaç duyduğum eşyaları bana getir; senin için dünyamızda daha önce hiç görülmemiş türden bir zırh takımı tasarlayayım!",
     ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Avcı Leopold sana Mahzen Avcısı Omuzlukları yapacaktır: 1 Saygısızlığa Uğramış Omuzluk, 12 Savaştan Yıpranmış Zincir Hurdası, 2 Arkanit Külçesi ve 3 İşlenmiş Sert Deri.",
     ["Progress"]="İstediğim eşyalara sahip misin YOUR_CLASS?",
     ["Completion"]="Bu omuzları mümkün olduğunca büyük ve belirgin yapmaya özen gösterdim.NEW_LINENEW_LSözüme güven; onlara bayılacaksın...",
@@ -71135,7 +71135,7 @@ QuestTranslator_QuestData = {
 
 ["9058"] = {
     ["Title"]="Mahzen Avcısı Çizmeleri",
-    ["Description"]="Mahzen yaratığının kabuğu için bir kullanım alanı keşfettim. Parçaları Naxxramas'ta kaybolan saygısızlığa uğramış büyülü zırhlardan bazılarıyla birleştirerek son derece hafif ve çok ölümcül bir zırh takımı oluşturabiliyorum.NEW_LINENEW_Lİhtiyaç duyduğum eşyaları bana getir; senin için dünyamızda daha önce hiç görülmemiş türden bir zırh takımı tasarlayayım!",
+    ["Description"]="Mahzen yaratığının kabuğu için bir kullanım alanı keşfettim. Parçaları Naxxramas'ta kaybolan saygısızlığa uğramış büyülü zırhlardan bazılarıyla birleştirerek son derece hafif ve çok ölümcül bir zırh takımı oluşturabiliyorum.NEW_LINENEW_LINEİhtiyaç duyduğum eşyaları bana getir; senin için dünyamızda daha önce hiç görülmemiş türden bir zırh takımı tasarlayayım!",
     ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Avcı Leopold sana Mahzen Avcısı Çizmeleri yapacaktır: 1 Saygısızlığa Uğramış Çizme, 12 Savaştan Yıpranmış Zincir Hurdası, 1 Arkanit Külçesi ve 3 Kristal Özü.",
     ["Progress"]="İstediğim eşyalara sahip misin YOUR_CLASS?",
     ["Completion"]="Çizmeler hazır, YOUR_NAME! Güle güle giy.",
@@ -71145,7 +71145,7 @@ QuestTranslator_QuestData = {
 
 ["9059"] = {
     ["Title"]="Mahzen Avcısı El Korumaları",
-    ["Description"]="Mahzen yaratığının kabuğu için bir kullanım alanı keşfettim. Parçaları Naxxramas'ta kaybolan saygısızlığa uğramış büyülü zırhlardan bazılarıyla birleştirerek son derece hafif ve çok ölümcül bir zırh takımı oluşturabiliyorum.NEW_LINENEW_Lİhtiyaç duyduğum eşyaları bana getir; senin için dünyamızda daha önce hiç görülmemiş türden bir zırh takımı tasarlayayım!",
+    ["Description"]="Mahzen yaratığının kabuğu için bir kullanım alanı keşfettim. Parçaları Naxxramas'ta kaybolan saygısızlığa uğramış büyülü zırhlardan bazılarıyla birleştirerek son derece hafif ve çok ölümcül bir zırh takımı oluşturabiliyorum.NEW_LINENEW_LINEİhtiyaç duyduğum eşyaları bana getir; senin için dünyamızda daha önce hiç görülmemiş türden bir zırh takımı tasarlayayım!",
     ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Avcı Leopold sana Mahzen Avcısı El Korumaları yapacaktır: 1 Saygısızlığa Uğramış El Koruması, 8 Savaştan Yıpranmış Zincir Hurdası, 1 Arkanit Külçesi ve 5 İşlenmiş Sert Deri.",
     ["Progress"]="İstediğim eşyalara sahip misin YOUR_CLASS?",
     ["Completion"]="Mahzen yaratığının öfkesinin eline rehberlik etmesine izin ver, YOUR_NAME.",
@@ -71155,7 +71155,7 @@ QuestTranslator_QuestData = {
 
 ["9060"] = {
     ["Title"]="Mahzen Avcısı Kemeri",
-    ["Description"]="Mahzen yaratığının kabuğu için bir kullanım alanı keşfettim. Parçaları Naxxramas'ta kaybolan saygısızlığa uğramış büyülü zırhlardan bazılarıyla birleştirerek son derece hafif ve çok ölümcül bir zırh takımı oluşturabiliyorum.NEW_LINENEW_Lİhtiyaç duyduğum eşyaları bana getir; senin için dünyamızda daha önce hiç görülmemiş türden bir zırh takımı tasarlayayım!",
+    ["Description"]="Mahzen yaratığının kabuğu için bir kullanım alanı keşfettim. Parçaları Naxxramas'ta kaybolan saygısızlığa uğramış büyülü zırhlardan bazılarıyla birleştirerek son derece hafif ve çok ölümcül bir zırh takımı oluşturabiliyorum.NEW_LINENEW_LINEİhtiyaç duyduğum eşyaları bana getir; senin için dünyamızda daha önce hiç görülmemiş türden bir zırh takımı tasarlayayım!",
     ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Avcı Leopold sana bir Mahzen Avcısı Kemeri yapacaktır: 1 Saygısızlığa Uğramış Kemer, 8 Savaştan Yıpranmış Zincir Hurdası, 1 Arkanit Külçesi ve 3 Kristal Özü.",
     ["Progress"]="İstediğim eşyalara sahip misin YOUR_CLASS?",
     ["Completion"]="Soylulara layık bir kemer! Senin için hazır, YOUR_NAME.",
@@ -71165,7 +71165,7 @@ QuestTranslator_QuestData = {
 
 ["9061"] = {
     ["Title"]="Mahzen Avcısı Bilek Korumaları",
-    ["Description"]="Mahzen yaratığının kabuğu için bir kullanım alanı keşfettim. Parçaları Naxxramas'ta kaybolan saygısızlığa uğramış büyülü zırhlardan bazılarıyla birleştirerek son derece hafif ve çok ölümcül bir zırh takımı oluşturabiliyorum.NEW_LINENEW_Lİhtiyaç duyduğum eşyaları bana getir; senin için dünyamızda daha önce hiç görülmemiş türden bir zırh takımı tasarlayayım!",
+    ["Description"]="Mahzen yaratığının kabuğu için bir kullanım alanı keşfettim. Parçaları Naxxramas'ta kaybolan saygısızlığa uğramış büyülü zırhlardan bazılarıyla birleştirerek son derece hafif ve çok ölümcül bir zırh takımı oluşturabiliyorum.NEW_LINENEW_LINEİhtiyaç duyduğum eşyaları bana getir; senin için dünyamızda daha önce hiç görülmemiş türden bir zırh takımı tasarlayayım!",
     ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Avcı Leopold sana Mahzen Avcısı Bilek Korumaları yapacaktır: 1 Saygısızlığa Uğramış Bilek Koruması, 6 Savaştan Yıpranmış Zincir Hurdası, 1 Arkanit Külçesi ve 2 İşlenmiş Sert Deri.",
     ["Progress"]="İstediğim eşyalara sahip misin YOUR_CLASS?",
     ["Completion"]="Bilek korumaları hazır. Keyfini çıkar!",
@@ -71175,7 +71175,7 @@ QuestTranslator_QuestData = {
 
 ["9068"] = {
     ["Title"]="Topraksarsan Cübbesi",
-    ["Description"]="Bu toprakların savunmasında düşenlerin zırhlarını geri getirerek beni onurlandırır mısın?NEW_LINENEW_LZırh saygısızlığa uğradı ve şüphesiz kötülük için kullanılıyor; ancak, savaştan yıpranmış zırh hurdalarıyla, saygısızlığa uğramış zırh yenilenebilir ve bir kez daha savaş için giyilebilir.NEW_LINENEW_LDüşenlerin kalıntılarını arınma malzemeleriyle birlikte bana getir; Topraksarsan giymen için senin olsun.NEW_LINENEW_LNaxxramas'ı ara.",
+    ["Description"]="Bu toprakların savunmasında düşenlerin zırhlarını geri getirerek beni onurlandırır mısın?NEW_LINENEW_LINEZırh saygısızlığa uğradı ve şüphesiz kötülük için kullanılıyor; ancak, savaştan yıpranmış zırh hurdalarıyla, saygısızlığa uğramış zırh yenilenebilir ve bir kez daha savaş için giyilebilir.NEW_LINENEW_LINEDüşenlerin kalıntılarını arınma malzemeleriyle birlikte bana getir; Topraksarsan giymen için senin olsun.NEW_LINENEW_LNaxxramas'ı ara.",
     ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Rimblat Topraksarsan sana bir Topraksarsan Cübbesi yapacaktır: 1 Saygısızlığa Uğramış Cübbe, 25 Savaştan Yıpranmış Zincir Hurdası, 4 Arkanit Külçesi ve 3 İşlenmiş Sert Deri.",
     ["Progress"]="<Rimblat sana horlayarak bakar.>",
     ["Completion"]="Açık ara Topraksarsan'ın en güçlü ve huşu uyandıran parçası. Atalarım bu başarın için sana gülümsüyor, YOUR_NAME.",
@@ -71185,7 +71185,7 @@ QuestTranslator_QuestData = {
 
 ["9069"] = {
     ["Title"]="Topraksarsan Bacak Korumaları",
-    ["Description"]="Bu toprakların savunmasında düşenlerin zırhlarını geri getirerek beni onurlandırır mısın?NEW_LINENEW_LZırh saygısızlığa uğradı ve şüphesiz kötülük için kullanılıyor; ancak, savaştan yıpranmış zırh hurdalarıyla, saygısızlığa uğramış zırh yenilenebilir ve bir kez daha savaş için giyilebilir.NEW_LINENEW_LDüşenlerin kalıntılarını arınma malzemeleriyle birlikte bana getir; Topraksarsan giymen için senin olsun.NEW_LINENEW_LNaxxramas'ı ara.",
+    ["Description"]="Bu toprakların savunmasında düşenlerin zırhlarını geri getirerek beni onurlandırır mısın?NEW_LINENEW_LINEZırh saygısızlığa uğradı ve şüphesiz kötülük için kullanılıyor; ancak, savaştan yıpranmış zırh hurdalarıyla, saygısızlığa uğramış zırh yenilenebilir ve bir kez daha savaş için giyilebilir.NEW_LINENEW_LINEDüşenlerin kalıntılarını arınma malzemeleriyle birlikte bana getir; Topraksarsan giymen için senin olsun.NEW_LINENEW_LNaxxramas'ı ara.",
     ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Rimblat Topraksarsan sana Topraksarsan Bacak Korumaları yapacaktır: 1 Saygısızlığa Uğramış Bacak Koruması, 20 Savaştan Yıpranmış Zincir Hurdası, 3 Arkanit Külçesi ve 5 İşlenmiş Sert Deri.",
     ["Progress"]="Hiçbir şey yapılmasa bile toprak kurtarılmalı.",
     ["Completion"]="Umarım senden önce gelenlerle aynı kaderi paylaşmazsın, YOUR_NAME.",
@@ -71195,7 +71195,7 @@ QuestTranslator_QuestData = {
 
 ["9070"] = {
     ["Title"]="Topraksarsan Başlığı",
-    ["Description"]="Bu toprakların savunmasında düşenlerin zırhlarını geri getirerek beni onurlandırır mısın?NEW_LINENEW_LZırh saygısızlığa uğradı ve şüphesiz kötülük için kullanılıyor; ancak, savaştan yıpranmış zırh hurdalarıyla, saygısızlığa uğramış zırh yenilenebilir ve bir kez daha savaş için giyilebilir.NEW_LINENEW_LDüşenlerin kalıntılarını arınma malzemeleriyle birlikte bana getir; Topraksarsan giymen için senin olsun.NEW_LINENEW_LNaxxramas'ı ara.",
+    ["Description"]="Bu toprakların savunmasında düşenlerin zırhlarını geri getirerek beni onurlandırır mısın?NEW_LINENEW_LINEZırh saygısızlığa uğradı ve şüphesiz kötülük için kullanılıyor; ancak, savaştan yıpranmış zırh hurdalarıyla, saygısızlığa uğramış zırh yenilenebilir ve bir kez daha savaş için giyilebilir.NEW_LINENEW_LINEDüşenlerin kalıntılarını arınma malzemeleriyle birlikte bana getir; Topraksarsan giymen için senin olsun.NEW_LINENEW_LNaxxramas'ı ara.",
     ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Rimblat Topraksarsan sana bir Topraksarsan Başlığı yapacaktır: 1 Saygısızlığa Uğramış Başlık, 15 Savaştan Yıpranmış Zincir Hurdası, 4 Arkanit Külçesi ve 2 Kristal Özü.",
     ["Progress"]="İhtiyacım olan şeyi bana getirdin mi?",
     ["Completion"]="Sana Topraksarsan kıyafetlerinin başparçasını sunuyorum: Topraksarsan miğferi...",
@@ -71205,7 +71205,7 @@ QuestTranslator_QuestData = {
 
 ["9071"] = {
     ["Title"]="Topraksarsan Omuzlukları",
-    ["Description"]="Bu toprakların savunmasında düşenlerin zırhlarını geri getirerek beni onurlandırır mısın?NEW_LINENEW_LZırh saygısızlığa uğradı ve şüphesiz kötülük için kullanılıyor; ancak, savaştan yıpranmış zırh hurdalarıyla, saygısızlığa uğramış zırh yenilenebilir ve bir kez daha savaş için giyilebilir.NEW_LINENEW_LDüşenlerin kalıntılarını arınma malzemeleriyle birlikte bana getir; Topraksarsan giymen için senin olsun.NEW_LINENEW_LNaxxramas'ı ara.",
+    ["Description"]="Bu toprakların savunmasında düşenlerin zırhlarını geri getirerek beni onurlandırır mısın?NEW_LINENEW_LINEZırh saygısızlığa uğradı ve şüphesiz kötülük için kullanılıyor; ancak, savaştan yıpranmış zırh hurdalarıyla, saygısızlığa uğramış zırh yenilenebilir ve bir kez daha savaş için giyilebilir.NEW_LINENEW_LINEDüşenlerin kalıntılarını arınma malzemeleriyle birlikte bana getir; Topraksarsan giymen için senin olsun.NEW_LINENEW_LNaxxramas'ı ara.",
     ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Rimblat Topraksarsan sana Topraksarsan Omuzlukları yapacaktır: 1 Saygısızlığa Uğramış Omuzluk, 12 Savaştan Yıpranmış Zincir Hurdası, 2 Arkanit Külçesi ve 2 Ay Kumaşı.",
     ["Progress"]="İhtiyacım olan şeyi bana getirdin mi?",
     ["Completion"]="Omuzlardan denge gelir.",
@@ -71215,7 +71215,7 @@ QuestTranslator_QuestData = {
 
 ["9072"] = {
     ["Title"]="Topraksarsan Çizmeleri",
-    ["Description"]="Bu toprakların savunmasında düşenlerin zırhlarını geri getirerek beni onurlandırır mısın?NEW_LINENEW_LZırh saygısızlığa uğradı ve şüphesiz kötülük için kullanılıyor; ancak, savaştan yıpranmış zırh hurdalarıyla, saygısızlığa uğramış zırh yenilenebilir ve bir kez daha savaş için giyilebilir.NEW_LINENEW_LDüşenlerin kalıntılarını arınma malzemeleriyle birlikte bana getir; Topraksarsan giymen için senin olsun.NEW_LINENEW_LNaxxramas'ı ara.",
+    ["Description"]="Bu toprakların savunmasında düşenlerin zırhlarını geri getirerek beni onurlandırır mısın?NEW_LINENEW_LINEZırh saygısızlığa uğradı ve şüphesiz kötülük için kullanılıyor; ancak, savaştan yıpranmış zırh hurdalarıyla, saygısızlığa uğramış zırh yenilenebilir ve bir kez daha savaş için giyilebilir.NEW_LINENEW_LINEDüşenlerin kalıntılarını arınma malzemeleriyle birlikte bana getir; Topraksarsan giymen için senin olsun.NEW_LINENEW_LNaxxramas'ı ara.",
     ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Rimblat Topraksarsan sana Topraksarsan Çizmeleri yapacaktır: 1 Saygısızlığa Uğramış Çizme, 12 Savaştan Yıpranmış Zincir Hurdası, 1 Arkanit Külçesi ve 3 Kristal Özü.",
     ["Progress"]="İhtiyacım olan şeyi bana getirdin mi?",
     ["Completion"]="Bu çizmeler atalarımın gücüyle donatılmıştır! Bilgece adımlar at...",
@@ -71225,7 +71225,7 @@ QuestTranslator_QuestData = {
 
 ["9073"] = {
     ["Title"]="Topraksarsan El Korumaları",
-    ["Description"]="Bu toprakların savunmasında düşenlerin zırhlarını geri getirerek beni onurlandırır mısın?NEW_LINENEW_LZırh saygısızlığa uğradı ve şüphesiz kötülük için kullanılıyor; ancak, savaştan yıpranmış zırh hurdalarıyla, saygısızlığa uğramış zırh yenilenebilir ve bir kez daha savaş için giyilebilir.NEW_LINENEW_LDüşenlerin kalıntılarını arınma malzemeleriyle birlikte bana getir; Topraksarsan giymen için senin olsun.NEW_LINENEW_LNaxxramas'ı ara.",
+    ["Description"]="Bu toprakların savunmasında düşenlerin zırhlarını geri getirerek beni onurlandırır mısın?NEW_LINENEW_LINEZırh saygısızlığa uğradı ve şüphesiz kötülük için kullanılıyor; ancak, savaştan yıpranmış zırh hurdalarıyla, saygısızlığa uğramış zırh yenilenebilir ve bir kez daha savaş için giyilebilir.NEW_LINENEW_LINEDüşenlerin kalıntılarını arınma malzemeleriyle birlikte bana getir; Topraksarsan giymen için senin olsun.NEW_LINENEW_LNaxxramas'ı ara.",
     ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Rimblat Topraksarsan sana Topraksarsan El Korumaları yapacaktır: 1 Saygısızlığa Uğramış El Koruması, 8 Savaştan Yıpranmış Zincir Hurdası, 1 Arkanit Külçesi ve 5 İşlenmiş Sert Deri.",
     ["Progress"]="İhtiyacım olan şeyi bana getirdin mi?",
     ["Completion"]="Bu el korumaları elementlerin gücünü aktarır!",
@@ -71235,7 +71235,7 @@ QuestTranslator_QuestData = {
 
 ["9074"] = {
     ["Title"]="Topraksarsan Kemeri",
-    ["Description"]="Bu toprakların savunmasında düşenlerin zırhlarını geri getirerek beni onurlandırır mısın?NEW_LINENEW_LZırh saygısızlığa uğradı ve şüphesiz kötülük için kullanılıyor; ancak, savaştan yıpranmış zırh hurdalarıyla, saygısızlığa uğramış zırh yenilenebilir ve bir kez daha savaş için giyilebilir.NEW_LINENEW_LDüşenlerin kalıntılarını arınma malzemeleriyle birlikte bana getir; Topraksarsan giymen için senin olsun.NEW_LINENEW_LNaxxramas'ı ara.",
+    ["Description"]="Bu toprakların savunmasında düşenlerin zırhlarını geri getirerek beni onurlandırır mısın?NEW_LINENEW_LINEZırh saygısızlığa uğradı ve şüphesiz kötülük için kullanılıyor; ancak, savaştan yıpranmış zırh hurdalarıyla, saygısızlığa uğramış zırh yenilenebilir ve bir kez daha savaş için giyilebilir.NEW_LINENEW_LINEDüşenlerin kalıntılarını arınma malzemeleriyle birlikte bana getir; Topraksarsan giymen için senin olsun.NEW_LINENEW_LNaxxramas'ı ara.",
     ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Rimblat Topraksarsan sana bir Topraksarsan Kemeri yapacaktır: 1 Saygısızlığa Uğramış Kemer, 8 Savaştan Yıpranmış Zincir Hurdası, 1 Arkanit Külçesi ve 3 Kristal Özü.",
     ["Progress"]="İhtiyacım olan şeyi bana getirdin mi?",
     ["Completion"]="Kemer hazır, YOUR_NAME.",
@@ -71245,7 +71245,7 @@ QuestTranslator_QuestData = {
 
 ["9075"] = {
     ["Title"]="Topraksarsan Bilek Korumaları",
-    ["Description"]="Bu toprakların savunmasında düşenlerin zırhlarını geri getirerek beni onurlandırır mısın?NEW_LINENEW_LZırh saygısızlığa uğradı ve şüphesiz kötülük için kullanılıyor; ancak, savaştan yıpranmış zırh hurdalarıyla, saygısızlığa uğramış zırh yenilenebilir ve bir kez daha savaş için giyilebilir.NEW_LINENEW_LDüşenlerin kalıntılarını arınma malzemeleriyle birlikte bana getir; Topraksarsan giymen için senin olsun.NEW_LINENEW_LNaxxramas'ı ara.",
+    ["Description"]="Bu toprakların savunmasında düşenlerin zırhlarını geri getirerek beni onurlandırır mısın?NEW_LINENEW_LINEZırh saygısızlığa uğradı ve şüphesiz kötülük için kullanılıyor; ancak, savaştan yıpranmış zırh hurdalarıyla, saygısızlığa uğramış zırh yenilenebilir ve bir kez daha savaş için giyilebilir.NEW_LINENEW_LINEDüşenlerin kalıntılarını arınma malzemeleriyle birlikte bana getir; Topraksarsan giymen için senin olsun.NEW_LINENEW_LNaxxramas'ı ara.",
     ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Rimblat Topraksarsan sana Topraksarsan Bilek Korumaları yapacaktır: 1 Saygısızlığa Uğramış Bilek Koruması, 6 Savaştan Yıpranmış Zincir Hurdası, 1 Arkanit Külçesi ve 2 İşlenmiş Sert Deri.",
     ["Progress"]="İhtiyacım olan şeyi bana getirdin mi?",
     ["Completion"]="Bilek korumaları hazır, YOUR_NAME.NEW_LINENEW_L<Rimblat başıyla selamlar.>",
@@ -71277,7 +71277,7 @@ QuestTranslator_QuestData = {
     ["Title"]="Kemiktırpan Miğferi",
     ["Description"]="Kemiktırpan yapılmasını istiyorsan, malzemeleri tedarik etmen gerekecek.NEW_LINENEW_LYukarıdaki gökyüzünde bulunan büyük yüzen ölüm şehri Naxxramas'a gir, saygısızlığa uğramış zırh ile savaştan yıpranmış zırh hurdaları bul. Her şeyi bir araya getirecek malzemelerle birlikte onları geri getir, Kemiktırpan'ına kavuş. Ah, bir de emeklerim için bana ödeme yapman gerekecek... Kemikleri ben temin edeceğim.",
     ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Suikastçı Rohan sana bir Kemiktırpan Miğferi yapacaktır: 1 Saygısızlığa Uğramış Miğfer, 15 Savaştan Yıpranmış Deri Hurdası, 8 İşlenmiş Sert Deri, 1 Kristal Özü ve 75 altın para.",
-    ["Progress"]="Bana para veriyorsun.NEW_LINENEW_L<Rohan güler.>NEW_LINENEW_LBu durum hâlâ beni çok güldürüyor.",
+    ["Progress"]="Bana para veriyorsun.NEW_LINENEW_L<Rohan güler.>NEW_LINENEW_LINEBu durum hâlâ beni çok güldürüyor.",
     ["Completion"]="Benim Kemiktırpan miğfer modelimi Don Julio'nunkinden ayıran şey tarz, YOUR_NAME. Tarz...",
     ["minlevel"]="60",
     ["questlevel"]="60"
@@ -71288,7 +71288,7 @@ QuestTranslator_QuestData = {
     ["Description"]="Kemiktırpan yapılmasını istiyorsan, malzemeleri tedarik etmen gerekecek.NEW_LINENEW_LYukarıdaki gökyüzünde bulunan büyük yüzen ölüm şehri Naxxramas'a gir, saygısızlığa uğramış zırh ile savaştan yıpranmış zırh hurdaları bul. Her şeyi bir araya getirecek malzemelerle birlikte onları geri getir, Kemiktırpan'ına kavuş. Ah, bir de emeklerim için bana ödeme yapman gerekecek... Kemikleri ben temin edeceğim.",
     ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Suikastçı Rohan sana Kemiktırpan Omuzlukları yapacaktır: 1 Saygısızlığa Uğramış Omuzluk, 12 Savaştan Yıpranmış Deri Hurdası, 5 İşlenmiş Sert Deri, 1 Kristal Özü ve 50 altın para.",
     ["Progress"]="<Rohan sana şüpheyle bakar.>NEW_LINENEW_LSon zamanlarda Tyr'in Eli'nde bulundun mu?",
-    ["Completion"]="<Rohan alnındaki teri siler.>NEW_LINENEW_LBu omuzluklar bayağı uğraştırdı! Dışarı çıkıp acemi gibi kendini öldürtme, YOUR_NAME.",
+    ["Completion"]="<Rohan alnındaki teri siler.>NEW_LINENEW_LINEBu omuzluklar bayağı uğraştırdı! Dışarı çıkıp acemi gibi kendini öldürtme, YOUR_NAME.",
     ["minlevel"]="60",
     ["questlevel"]="60"
 },
@@ -71335,7 +71335,7 @@ QuestTranslator_QuestData = {
 
 ["9085"] = {
     ["Title"]="Kıyamet Gölgeleri",
-    ["Description"]="Saldırı altındaki alanlarda beliren Afet çağırma çemberlerinin savunmasını indirdikten sonra, onları koruyan çömezlerle yüzleşebileceksin.NEW_LINENEW_LDoğrusu, bunlar insan değil. Onlar gölge, Lich Kralı'nın en korkunç yaratıklarından bazıları. Taşıdıkları nekrotik rünler kullanılarak açığa çıkarılabilir ve ardından büyü ya da kol gücüyle yok edilebilirler.",
+    ["Description"]="Saldırı altındaki alanlarda beliren Afet çağırma çemberlerinin savunmasını indirdikten sonra, onları koruyan çömezlerle yüzleşebileceksin.NEW_LINENEW_LINEDoğrusu, bunlar insan değil. Onlar gölge, Lich Kralı'nın en korkunç yaratıklarından bazıları. Taşıdıkları nekrotik rünler kullanılarak açığa çıkarılabilir ve ardından büyü ya da kol gücüyle yok edilebilirler.",
     ["Objectives"]="Bir çağırma çemberine git ve bir Kıyamet Gölgesi katlet, ardından Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Komutan Thomas Helleran'a dön.",
     ["Progress"]="Hiç şansın yaver gitti mi, YOUR_NAME?",
     ["Completion"]="",
@@ -71435,7 +71435,7 @@ QuestTranslator_QuestData = {
 
 ["9095"] = {
     ["Title"]="Buzateşi Bornozu",
-    ["Description"]="Bir Gözcü olarak, Medivh'in birçok kişisel eşyasına erişimime izin verilmişti. O eşyalar arasında en aydınlatıcı olanların büyü kitapları olduğunu gördüm. Kitapların çoğunluğu - açıkça söylemek gerekirse - zırvalıklarla dolu olsa da, bazı mücevherler de vardı. O kitaplardan biri, bir başbüyücüye layık bir zırh takımının yapımını belgeliyordu: Buzateşi.NEW_LINENEW_L<Angela kafasını işaret eder.>NEW_LINENEW_LHepsi burada ve gerekli malzemeleri bana sağladığın sürece bu bilginin meyvelerini seninle paylaşmaya hazırım.",
+    ["Description"]="Bir Gözcü olarak, Medivh'in birçok kişisel eşyasına erişimime izin verilmişti. O eşyalar arasında en aydınlatıcı olanların büyü kitapları olduğunu gördüm. Kitapların çoğunluğu - açıkça söylemek gerekirse - zırvalıklarla dolu olsa da, bazı mücevherler de vardı. O kitaplardan biri, bir başbüyücüye layık bir zırh takımının yapımını belgeliyordu: Buzateşi.NEW_LINENEW_L<Angela kafasını işaret eder.>NEW_LINENEW_LINEHepsi burada ve gerekli malzemeleri bana sağladığın sürece bu bilginin meyvelerini seninle paylaşmaya hazırım.",
     ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Başbüyücü Angela Dosantos sana bir Buzateşi Bornozu yapacaktır: 1 Saygısızlığa Uğramış Bornoz, 25 Savaştan Yıpranmış Kumaş Hurdası, 4 Ay Kumaşı ve 2 Kristal Özü.",
     ["Progress"]="Uygun malzeme ve reaktiflerle efsanevi Buzateşi zırhını yeniden şekillendirebilirim.",
     ["Completion"]="Kontrolsüz bırakılan gücün, kullanılmayan güç kadar yıkıcı olduğunu unutma YOUR_CLASS. Buzateşi'ni giyerken tedbirli ol.",
@@ -71445,7 +71445,7 @@ QuestTranslator_QuestData = {
 
 ["9096"] = {
     ["Title"]="Buzateşi Pantolonu",
-    ["Description"]="Bir Gözcü olarak, Medivh'in birçok kişisel eşyasına erişimime izin verilmişti. O eşyalar arasında en aydınlatıcı olanların büyü kitapları olduğunu gördüm. Kitapların çoğunluğu - açıkça söylemek gerekirse - zırvalıklarla dolu olsa da, bazı mücevherler de vardı. O kitaplardan biri, bir başbüyücüye layık bir zırh takımının yapımını belgeliyordu: Buzateşi.NEW_LINENEW_L<Angela kafasını işaret eder.>NEW_LINENEW_LHepsi burada ve gerekli malzemeleri bana sağladığın sürece bu bilginin meyvelerini seninle paylaşmaya hazırım.",
+    ["Description"]="Bir Gözcü olarak, Medivh'in birçok kişisel eşyasına erişimime izin verilmişti. O eşyalar arasında en aydınlatıcı olanların büyü kitapları olduğunu gördüm. Kitapların çoğunluğu - açıkça söylemek gerekirse - zırvalıklarla dolu olsa da, bazı mücevherler de vardı. O kitaplardan biri, bir başbüyücüye layık bir zırh takımının yapımını belgeliyordu: Buzateşi.NEW_LINENEW_L<Angela kafasını işaret eder.>NEW_LINENEW_LINEHepsi burada ve gerekli malzemeleri bana sağladığın sürece bu bilginin meyvelerini seninle paylaşmaya hazırım.",
     ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Başbüyücü Angela Dosantos sana Buzateşi Pantolonu yapacaktır: 1 Saygısızlığa Uğramış Pantolon, 20 Savaştan Yıpranmış Kumaş Hurdası, 4 Ay Kumaşı ve 2 Kristal Özü.",
     ["Progress"]="Uygun malzeme ve reaktiflerle efsanevi Buzateşi zırhını yeniden şekillendirebilirim.",
     ["Completion"]="Kontrolsüz bırakılan gücün, kullanılmayan güç kadar yıkıcı olduğunu unutma YOUR_CLASS. Buzateşi'ni giyerken tedbirli ol.",
@@ -71455,7 +71455,7 @@ QuestTranslator_QuestData = {
 
 ["9097"] = {
     ["Title"]="Buzateşi Taçı",
-    ["Description"]="Bir Gözcü olarak, Medivh'in birçok kişisel eşyasına erişimime izin verilmişti. O eşyalar arasında en aydınlatıcı olanların büyü kitapları olduğunu gördüm. Kitapların çoğunluğu - açıkça söylemek gerekirse - zırvalıklarla dolu olsa da, bazı mücevherler de vardı. O kitaplardan biri, bir başbüyücüye layık bir zırh takımının yapımını belgeliyordu: Buzateşi.NEW_LINENEW_L<Angela kafasını işaret eder.>NEW_LINENEW_LHepsi burada ve gerekli malzemeleri bana sağladığın sürece bu bilginin meyvelerini seninle paylaşmaya hazırım.",
+    ["Description"]="Bir Gözcü olarak, Medivh'in birçok kişisel eşyasına erişimime izin verilmişti. O eşyalar arasında en aydınlatıcı olanların büyü kitapları olduğunu gördüm. Kitapların çoğunluğu - açıkça söylemek gerekirse - zırvalıklarla dolu olsa da, bazı mücevherler de vardı. O kitaplardan biri, bir başbüyücüye layık bir zırh takımının yapımını belgeliyordu: Buzateşi.NEW_LINENEW_L<Angela kafasını işaret eder.>NEW_LINENEW_LINEHepsi burada ve gerekli malzemeleri bana sağladığın sürece bu bilginin meyvelerini seninle paylaşmaya hazırım.",
     ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Başbüyücü Angela Dosantos sana bir Buzateşi Taçı yapacaktır: 1 Saygısızlığa Uğramış Taç, 15 Savaştan Yıpranmış Kumaş Hurdası, 3 Ay Kumaşı ve 3 Kristal Özü.",
     ["Progress"]="Uygun malzeme ve reaktiflerle efsanevi Buzateşi zırhını yeniden şekillendirebilirim.",
     ["Completion"]="Kontrolsüz bırakılan gücün, kullanılmayan güç kadar yıkıcı olduğunu unutma YOUR_CLASS. Buzateşi'ni giyerken tedbirli ol.",
@@ -71465,7 +71465,7 @@ QuestTranslator_QuestData = {
 
 ["9098"] = {
     ["Title"]="Buzateşi Omuzlukları",
-    ["Description"]="Bir Gözcü olarak, Medivh'in bir çok kişisel eşyasına erişimime izin verilmişti. O eşyalar arasında en aydınlatıcı olanların büyü kitapları olduğunu gördüm. Kitapların çoğunluğu - açıkça söylemek gerekirse - zırvalıklarla dolu olsa da, bazı mücevherler de vardı. O kitaplardan biri, bir başbüyücüye layık bir zırh takımının yapımını belgeliyordu: Buzateşi.NEW_LINENEW_L<Angela kafasını işaret eder.>NEW_LINENEW_LHepsi burada ve gerekli malzemeleri bana sağladığın sürece bu bilginin meyvelerini seninle paylaşmaya hazırım.",
+    ["Description"]="Bir Gözcü olarak, Medivh'in bir çok kişisel eşyasına erişimime izin verilmişti. O eşyalar arasında en aydınlatıcı olanların büyü kitapları olduğunu gördüm. Kitapların çoğunluğu - açıkça söylemek gerekirse - zırvalıklarla dolu olsa da, bazı mücevherler de vardı. O kitaplardan biri, bir başbüyücüye layık bir zırh takımının yapımını belgeliyordu: Buzateşi.NEW_LINENEW_L<Angela kafasını işaret eder.>NEW_LINENEW_LINEHepsi burada ve gerekli malzemeleri bana sağladığın sürece bu bilginin meyvelerini seninle paylaşmaya hazırım.",
     ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Başbüyücü Angela Dosantos sana Buzateşi Omuzlukları yapacaktır: 1 Saygısızlığa Uğramış Omuzluk, 12 Savaştan Yıpranmış Kumaş Hurdası, 2 Ay Kumaşı ve 3 İşlenmiş Sert Deri.",
     ["Progress"]="Uygun malzeme ve reaktiflerle efsanevi Buzateşi zırhını yeniden şekillendirebilirim.",
     ["Completion"]="Kontrolsüz bırakılan gücün, kullanılmayan güç kadar yıkıcı olduğunu unutma YOUR_CLASS. Buzateşi'ni giyerken tedbirli ol.",
@@ -71475,7 +71475,7 @@ QuestTranslator_QuestData = {
 
 ["9099"] = {
     ["Title"]="Buzateşi Sandaletleri",
-    ["Description"]="Bir Gözcü olarak, Medivh'in bir çok kişisel eşyasına erişimime izin verilmişti. O eşyalar arasında en aydınlatıcı olanların büyü kitapları olduğunu gördüm. Kitapların çoğunluğu - açıkça söylemek gerekirse - zırvalıklarla dolu olsa da, bazı mücevherler de vardı. O kitaplardan biri, bir başbüyücüye layık bir zırh takımının yapımını belgeliyordu: Buzateşi.NEW_LINENEW_L<Angela kafasını işaret eder.>NEW_LINENEW_LHepsi burada ve gerekli malzemeleri bana sağladığın sürece bu bilginin meyvelerini seninle paylaşmaya hazırım.",
+    ["Description"]="Bir Gözcü olarak, Medivh'in bir çok kişisel eşyasına erişimime izin verilmişti. O eşyalar arasında en aydınlatıcı olanların büyü kitapları olduğunu gördüm. Kitapların çoğunluğu - açıkça söylemek gerekirse - zırvalıklarla dolu olsa da, bazı mücevherler de vardı. O kitaplardan biri, bir başbüyücüye layık bir zırh takımının yapımını belgeliyordu: Buzateşi.NEW_LINENEW_L<Angela kafasını işaret eder.>NEW_LINENEW_LINEHepsi burada ve gerekli malzemeleri bana sağladığın sürece bu bilginin meyvelerini seninle paylaşmaya hazırım.",
     ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Başbüyücü Angela Dosantos sana Buzateşi Sandaletleri yapacaktır: 1 Saygısızlığa Uğramış Sandalet, 12 Savaştan Yıpranmış Kumaş Hurdası, 2 Ay Kumaşı ve 3 İşlenmiş Sert Deri.",
     ["Progress"]="Uygun malzeme ve reaktiflerle efsanevi Buzateşi zırhını yeniden şekillendirebilirim.",
     ["Completion"]="Kontrolsüz bırakılan gücün, kullanılmayan güç kadar yıkıcı olduğunu unutma YOUR_CLASS. Buzateşi'ni giyerken tedbirli ol.",
@@ -71485,7 +71485,7 @@ QuestTranslator_QuestData = {
 
 ["9100"] = {
     ["Title"]="Buzateşi Eldivenleri",
-    ["Description"]="Bir Gözcü olarak, Medivh'in bir çok kişisel eşyasına erişimime izin verilmişti. O eşyalar arasında en aydınlatıcı olanların büyü kitapları olduğunu gördüm. Kitapların çoğunluğu - açıkça söylemek gerekirse - zırvalıklarla dolu olsa da, bazı mücevherler de vardı. O kitaplardan biri, bir başbüyücüye layık bir zırh takımının yapımını belgeliyordu: Buzateşi.NEW_LINENEW_L<Angela kafasını işaret eder.>NEW_LINENEW_LHepsi burada ve gerekli malzemeleri bana sağladığın sürece bu bilginin meyvelerini seninle paylaşmaya hazırım.",
+    ["Description"]="Bir Gözcü olarak, Medivh'in bir çok kişisel eşyasına erişimime izin verilmişti. O eşyalar arasında en aydınlatıcı olanların büyü kitapları olduğunu gördüm. Kitapların çoğunluğu - açıkça söylemek gerekirse - zırvalıklarla dolu olsa da, bazı mücevherler de vardı. O kitaplardan biri, bir başbüyücüye layık bir zırh takımının yapımını belgeliyordu: Buzateşi.NEW_LINENEW_L<Angela kafasını işaret eder.>NEW_LINENEW_LINEHepsi burada ve gerekli malzemeleri bana sağladığın sürece bu bilginin meyvelerini seninle paylaşmaya hazırım.",
     ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Başbüyücü Angela Dosantos sana Buzateşi Eldivenleri yapacaktır: 1 Saygısızlığa Uğramış Eldiven, 8 Savaştan Yıpranmış Kumaş Hurdası ve 4 Ay Kumaşı.",
     ["Progress"]="Uygun malzeme ve reaktiflerle efsanevi Buzateşi zırhını yeniden şekillendirebilirim.",
     ["Completion"]="Kontrolsüz bırakılan gücün, kullanılmayan güç kadar yıkıcı olduğunu unutma YOUR_CLASS. Buzateşi'ni giyerken tedbirli ol.",
@@ -71495,7 +71495,7 @@ QuestTranslator_QuestData = {
 
 ["9101"] = {
     ["Title"]="Buzateşi Kemeri",
-    ["Description"]="Bir Gözcü olarak, Medivh'in bir çok kişisel eşyasına erişimime izin verilmişti. O eşyalar arasında en aydınlatıcı olanların büyü kitapları olduğunu gördüm. Kitapların çoğunluğu - açıkça söylemek gerekirse - zırvalıklarla dolu olsa da, bazı mücevherler de vardı. O kitaplardan biri, bir başbüyücüye layık bir zırh takımının yapımını belgeliyordu: Buzateşi.NEW_LINENEW_L<Angela kafasını işaret eder.>NEW_LINENEW_LHepsi burada ve gerekli malzemeleri bana sağladığın sürece bu bilginin meyvelerini seninle paylaşmaya hazırım.",
+    ["Description"]="Bir Gözcü olarak, Medivh'in bir çok kişisel eşyasına erişimime izin verilmişti. O eşyalar arasında en aydınlatıcı olanların büyü kitapları olduğunu gördüm. Kitapların çoğunluğu - açıkça söylemek gerekirse - zırvalıklarla dolu olsa da, bazı mücevherler de vardı. O kitaplardan biri, bir başbüyücüye layık bir zırh takımının yapımını belgeliyordu: Buzateşi.NEW_LINENEW_L<Angela kafasını işaret eder.>NEW_LINENEW_LINEHepsi burada ve gerekli malzemeleri bana sağladığın sürece bu bilginin meyvelerini seninle paylaşmaya hazırım.",
     ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Başbüyücü Angela Dosantos sana bir Buzateşi Kemeri yapacaktır: 1 Saygısızlığa Uğramış Kemer, 8 Savaştan Yıpranmış Kumaş Hurdası, 2 Büyülü Kristal ve 2 Ay Kumaşı.",
     ["Progress"]="Uygun malzeme ve reaktiflerle efsanevi Buzateşi zırhını yeniden şekillendirebilirim.",
     ["Completion"]="Kontrolsüz bırakılan gücün, kullanılmayan güç kadar yıkıcı olduğunu unutma YOUR_CLASS. Buzateşi'ni giyerken tedbirli ol.",
@@ -71505,7 +71505,7 @@ QuestTranslator_QuestData = {
 
 ["9102"] = {
     ["Title"]="Buzateşi Bağları",
-    ["Description"]="Bir Gözcü olarak, Medivh'in bir çok kişisel eşyasına erişimime izin verilmişti. O eşyalar arasında en aydınlatıcı olanların büyü kitapları olduğunu gördüm. Kitapların çoğunluğu - açıkça söylemek gerekirse - zırvalıklarla dolu olsa da, bazı mücevherler de vardı. O kitaplardan biri, bir başbüyücüye layık bir zırh takımının yapımını belgeliyordu: Buzateşi.NEW_LINENEW_L<Angela kafasını işaret eder.>NEW_LINENEW_LHepsi burada ve gerekli malzemeleri bana sağladığın sürece bu bilginin meyvelerini seninle paylaşmaya hazırım.",
+    ["Description"]="Bir Gözcü olarak, Medivh'in bir çok kişisel eşyasına erişimime izin verilmişti. O eşyalar arasında en aydınlatıcı olanların büyü kitapları olduğunu gördüm. Kitapların çoğunluğu - açıkça söylemek gerekirse - zırvalıklarla dolu olsa da, bazı mücevherler de vardı. O kitaplardan biri, bir başbüyücüye layık bir zırh takımının yapımını belgeliyordu: Buzateşi.NEW_LINENEW_L<Angela kafasını işaret eder.>NEW_LINENEW_LINEHepsi burada ve gerekli malzemeleri bana sağladığın sürece bu bilginin meyvelerini seninle paylaşmaya hazırım.",
     ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Başbüyücü Angela Dosantos sana Buzateşi Bağları yapacaktır: 1 Saygısızlığa Uğramış Bağlar, 6 Savaştan Yıpranmış Kumaş Hurdası, 1 Büyülü Kristal ve 1 Kristal Özü.",
     ["Progress"]="Uygun malzeme ve reaktiflerle efsanevi Buzateşi zırhını yeniden şekillendirebilirim.",
     ["Completion"]="Kontrolsüz bırakılan gücün, kullanılmayan güç kadar yıkıcı olduğunu unutma YOUR_CLASS. Buzateşi'ni giyerken tedbirli ol.",
@@ -71595,7 +71595,7 @@ QuestTranslator_QuestData = {
 
 ["9111"] = {
     ["Title"]="İnanç Cübbesi",
-    ["Description"]="<Peder Montoy senin önünde havada bazı garip hareketler yapar.>NEW_LINENEW_LINEKutsanmış, düşenlerin giysilerini buldun mu? Son nefeslerini savaş meydanında veren - onurları dahil her şeyleri sökülüp alınan o zavallı ruhlar.NEW_LINENEW_LAyrılanların saygısızlığa uğramış kalıntılarını arınma reaktifleriyle birlikte bana getir ve inancı tanı.",
+    ["Description"]="<Peder Montoy senin önünde havada bazı garip hareketler yapar.>NEW_LINENEW_LINEKutsanmış, düşenlerin giysilerini buldun mu? Son nefeslerini savaş meydanında veren - onurları dahil her şeyleri sökülüp alınan o zavallı ruhlar.NEW_LINENEW_LINEAyrılanların saygısızlığa uğramış kalıntılarını arınma reaktifleriyle birlikte bana getir ve inancı tanı.",
     ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Peder Inigo Montoy sana bir İnanç Cübbesi yapacaktır: 1 Saygısızlığa Uğramış Cübbe, 25 Savaştan Yıpranmış Kumaş Hurdası, 4 Ay Kumaşı ve 2 Kristal Özü.",
     ["Progress"]="Reaktifleri getirdin mi evladım?",
     ["Completion"]="Giysiler hazır, YOUR_NAME. Dünyamıza zarar vereceklere doğru ateşiyle vur.",
@@ -71605,7 +71605,7 @@ QuestTranslator_QuestData = {
 
 ["9112"] = {
     ["Title"]="İnanç Pantolonu",
-    ["Description"]="<Peder Montoy senin önünde havada bazı garip hareketler yapar.>NEW_LINENEW_LINEKutsanmış, düşenlerin giysilerini buldun mu? Son nefeslerini savaş meydanında veren - onurları dahil her şeyleri sökülüp alınan o zavallı ruhlar.NEW_LINENEW_LAyrılanların saygısızlığa uğramış kalıntılarını arınma reaktifleriyle birlikte bana getir ve inancı tanı.",
+    ["Description"]="<Peder Montoy senin önünde havada bazı garip hareketler yapar.>NEW_LINENEW_LINEKutsanmış, düşenlerin giysilerini buldun mu? Son nefeslerini savaş meydanında veren - onurları dahil her şeyleri sökülüp alınan o zavallı ruhlar.NEW_LINENEW_LINEAyrılanların saygısızlığa uğramış kalıntılarını arınma reaktifleriyle birlikte bana getir ve inancı tanı.",
     ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Peder Inigo Montoy sana İnanç Pantolonu yapacaktır: 1 Saygısızlığa Uğramış Pantolon, 20 Savaştan Yıpranmış Kumaş Hurdası, 4 Ay Kumaşı ve 2 Kristal Özü.",
     ["Progress"]="Reaktifleri getirdin mi evladım?",
     ["Completion"]="Giysiler hazır, YOUR_NAME. Dünyamıza zarar vereceklere doğru ateşiyle vur.",
@@ -71615,7 +71615,7 @@ QuestTranslator_QuestData = {
 
 ["9113"] = {
     ["Title"]="İnanç Taçı",
-    ["Description"]="<Peder Montoy senin önünde havada bazı garip hareketler yapar.>NEW_LINENEW_LINEKutsanmış, düşenlerin giysilerini buldun mu? Son nefeslerini savaş meydanında veren - onurları dahil her şeyleri sökülüp alınan o zavallı ruhlar.NEW_LINENEW_LAyrılanların saygısızlığa uğramış kalıntılarını arınma reaktifleriyle birlikte bana getir ve inancı tanı.",
+    ["Description"]="<Peder Montoy senin önünde havada bazı garip hareketler yapar.>NEW_LINENEW_LINEKutsanmış, düşenlerin giysilerini buldun mu? Son nefeslerini savaş meydanında veren - onurları dahil her şeyleri sökülüp alınan o zavallı ruhlar.NEW_LINENEW_LINEAyrılanların saygısızlığa uğramış kalıntılarını arınma reaktifleriyle birlikte bana getir ve inancı tanı.",
     ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Peder Inigo Montoy sana bir İnanç Taçı yapacaktır: 1 Saygısızlığa Uğramış Taç, 15 Savaştan Yıpranmış Kumaş Hurdası, 3 Ay Kumaşı ve 3 Kristal Özü.",
     ["Progress"]="Reaktifleri getirdin mi evladım?",
     ["Completion"]="Giysiler hazır, YOUR_NAME. Dünyamıza zarar vereceklere doğru ateşiyle vur.",
@@ -71625,7 +71625,7 @@ QuestTranslator_QuestData = {
 
 ["9114"] = {
     ["Title"]="İnanç Omuzlukları",
-    ["Description"]="<Peder Montoy senin önünde havada bazı garip hareketler yapar.>NEW_LINENEW_LINEKutsanmış, düşenlerin giysilerini buldun mu? Son nefeslerini savaş meydanında veren - onurları dahil her şeyleri sökülüp alınan o zavallı ruhlar.NEW_LINENEW_LAyrılanların saygısızlığa uğramış kalıntılarını arınma reaktifleriyle birlikte bana getir ve inancı tanı.",
+    ["Description"]="<Peder Montoy senin önünde havada bazı garip hareketler yapar.>NEW_LINENEW_LINEKutsanmış, düşenlerin giysilerini buldun mu? Son nefeslerini savaş meydanında veren - onurları dahil her şeyleri sökülüp alınan o zavallı ruhlar.NEW_LINENEW_LINEAyrılanların saygısızlığa uğramış kalıntılarını arınma reaktifleriyle birlikte bana getir ve inancı tanı.",
     ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Peder Inigo Montoy sana İnanç Omuzlukları yapacaktır: 1 Saygısızlığa Uğramış Omuzluk, 12 Savaştan Yıpranmış Kumaş Hurdası, 2 Ay Kumaşı ve 3 İşlenmiş Sert Deri.",
     ["Progress"]="Reaktifleri getirdin mi evladım?",
     ["Completion"]="Giysiler hazır, YOUR_NAME. Dünyamıza zarar vereceklere doğru ateşiyle vur.",
@@ -71635,7 +71635,7 @@ QuestTranslator_QuestData = {
 
 ["9115"] = {
     ["Title"]="İnanç Sandaletleri",
-    ["Description"]="<Peder Montoy senin önünde havada bazı garip hareketler yapar.>NEW_LINENEW_LINEKutsanmış, düşenlerin giysilerini buldun mu? Son nefeslerini savaş meydanında veren - onurları dahil her şeyleri sökülüp alınan o zavallı ruhlar.NEW_LINENEW_LAyrılanların saygısızlığa uğramış kalıntılarını arınma reaktifleriyle birlikte bana getir ve inancı tanı.",
+    ["Description"]="<Peder Montoy senin önünde havada bazı garip hareketler yapar.>NEW_LINENEW_LINEKutsanmış, düşenlerin giysilerini buldun mu? Son nefeslerini savaş meydanında veren - onurları dahil her şeyleri sökülüp alınan o zavallı ruhlar.NEW_LINENEW_LINEAyrılanların saygısızlığa uğramış kalıntılarını arınma reaktifleriyle birlikte bana getir ve inancı tanı.",
     ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Peder Inigo Montoy sana İnanç Sandaletleri yapacaktır: 1 Saygısızlığa Uğramış Sandalet, 12 Savaştan Yıpranmış Kumaş Hurdası, 2 Ay Kumaşı ve 3 İşlenmiş Sert Deri.",
     ["Progress"]="Reaktifleri getirdin mi evladım?",
     ["Completion"]="Giysiler hazır, YOUR_NAME. Dünyamıza zarar vereceklere doğru ateşiyle vur.",
@@ -71645,7 +71645,7 @@ QuestTranslator_QuestData = {
 
 ["9116"] = {
     ["Title"]="İnanç Eldivenleri",
-    ["Description"]="<Peder Montoy senin önünde havada bazı garip hareketler yapar.>NEW_LINENEW_LINEKutsanmış, düşenlerin giysilerini buldun mu? Son nefeslerini savaş meydanında veren - onurları dahil her şeyleri sökülüp alınan o zavallı ruhlar.NEW_LINENEW_LAyrılanların saygısızlığa uğramış kalıntılarını arınma reaktifleriyle birlikte bana getir ve inancı tanı.",
+    ["Description"]="<Peder Montoy senin önünde havada bazı garip hareketler yapar.>NEW_LINENEW_LINEKutsanmış, düşenlerin giysilerini buldun mu? Son nefeslerini savaş meydanında veren - onurları dahil her şeyleri sökülüp alınan o zavallı ruhlar.NEW_LINENEW_LINEAyrılanların saygısızlığa uğramış kalıntılarını arınma reaktifleriyle birlikte bana getir ve inancı tanı.",
     ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Peder Inigo Montoy sana İnanç Eldivenleri yapacaktır: 1 Saygısızlığa Uğramış Eldiven, 8 Savaştan Yıpranmış Kumaş Hurdası ve 4 Ay Kumaşı.",
     ["Progress"]="Reaktifleri getirdin mi evladım?",
     ["Completion"]="Giysiler hazır, YOUR_NAME. Dünyamıza zarar vereceklere doğru ateşiyle vur.",
@@ -71655,7 +71655,7 @@ QuestTranslator_QuestData = {
 
 ["9117"] = {
     ["Title"]="İnanç Kemeri",
-    ["Description"]="<Peder Montoy senin önünde havada bazı garip hareketler yapar.>NEW_LINENEW_LINEKutsanmış, düşenlerin giysilerini buldun mu? Son nefeslerini savaş meydanında veren - onurları dahil her şeyleri sökülüp alınan o zavallı ruhlar.NEW_LINENEW_LAyrılanların saygısızlığa uğramış kalıntılarını arınma reaktifleriyle birlikte bana getir ve inancı tanı.",
+    ["Description"]="<Peder Montoy senin önünde havada bazı garip hareketler yapar.>NEW_LINENEW_LINEKutsanmış, düşenlerin giysilerini buldun mu? Son nefeslerini savaş meydanında veren - onurları dahil her şeyleri sökülüp alınan o zavallı ruhlar.NEW_LINENEW_LINEAyrılanların saygısızlığa uğramış kalıntılarını arınma reaktifleriyle birlikte bana getir ve inancı tanı.",
     ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Peder Inigo Montoy sana bir İnanç Kemeri yapacaktır: 1 Saygısızlığa Uğramış Kemer, 8 Savaştan Yıpranmış Kumaş Hurdası, 2 Büyülü Kristal ve 2 Ay Kumaşı.",
     ["Progress"]="Reaktifleri getirdin mi evladım?",
     ["Completion"]="Giysiler hazır, YOUR_NAME. Dünyamıza zarar vereceklere doğru ateşiyle vur.",
@@ -71665,7 +71665,7 @@ QuestTranslator_QuestData = {
 
 ["9118"] = {
     ["Title"]="İnanç Bağları",
-    ["Description"]="<Peder Montoy senin önünde havada bazı garip hareketler yapar.>NEW_LINENEW_LINEKutsanmış, düşenlerin giysilerini buldun mu? Son nefeslerini savaş meydanında veren - onurları dahil her şeyleri sökülüp alınan o zavallı ruhlar.NEW_LINENEW_LAyrılanların saygısızlığa uğramış kalıntılarını arınma reaktifleriyle birlikte bana getir ve inancı tanı.",
+    ["Description"]="<Peder Montoy senin önünde havada bazı garip hareketler yapar.>NEW_LINENEW_LINEKutsanmış, düşenlerin giysilerini buldun mu? Son nefeslerini savaş meydanında veren - onurları dahil her şeyleri sökülüp alınan o zavallı ruhlar.NEW_LINENEW_LINEAyrılanların saygısızlığa uğramış kalıntılarını arınma reaktifleriyle birlikte bana getir ve inancı tanı.",
     ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Peder Inigo Montoy sana İnanç Bağları yapacaktır: 1 Saygısızlığa Uğramış Bağlar, 6 Savaştan Yıpranmış Kumaş Hurdası, 1 Büyülü Kristal ve 1 Kristal Özü.",
     ["Progress"]="Görev için eksik parçalar var, lütfen gidip hepsini al!",
     ["Completion"]="Mükemmel YOUR_NAME! Tam istediğim gibi her şeyi getirdin ve şimdi bir İnanç Bağları üretebilirim.",
@@ -71678,14 +71678,14 @@ QuestTranslator_QuestData = {
     ["Description"]="Ruh muhafazası, Naxxramas efendisinden geriye kalan tek şeydir. Mantığın sana ruh muhafazasını yok etmeni, lichin yeniden oluşmasını engellemeni söyler. Neyse ki, o içsel sesini seyrek dinlersin.NEW_LINENEW_LIşık Umudu'ndan biri sana bu eser için devasa bir ödeme yapacaktır. Kel'Thuzad'ın tam gücüne ulaşması kimin umurunda?",
     ["Objectives"]="Kel'Thuzad'ın Ruh Muhafazası'nı Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'ne götür.",
     ["Progress"]="KUTSAL IŞIK! Elinde tuttuğun bu kötülük de ne, evladım?",
-    ["Completion"]="Tüm yaşamım boyunca bunu göreceğimi hiç tahmin etmezdim...NEW_LINENEW_LINE<Peder Montoy'un ağzının suları akıyor gibi görünüyor.>NEW_LINENEW_LAh yes, büyük bir ödül alacaksın sevgili evladım. Çok büyük bir ödül. Onu buraya ver. Hemen!",
+    ["Completion"]="Tüm yaşamım boyunca bunu göreceğimi hiç tahmin etmezdim...NEW_LINENEW_LINE<Peder Montoy'un ağzının suları akıyor gibi görünüyor.>NEW_LINENEW_LINEAh yes, büyük bir ödül alacaksın sevgili evladım. Çok büyük bir ödül. Onu buraya ver. Hemen!",
     ["minlevel"]="60",
     ["questlevel"]="60"
 },
 
 ["9121"] = {
     ["Title"]="Dehşet Hisarı - Naxxramas",
-    ["Description"]="Vebakorusu'nun koyu bağrında, korkunç Naxxramas hisarının girişi yatar. Önceden, girmeye yönelik tüm girişimler rün geçidine yerleştirilen büyülü korumalar tarafından engellenmişti. Yani, şimdiye kadar.NEW_LINENEW_LGizli bir arkana pelerini yardımıyla - kendi geliştirdiğim birkaç modifikasyonla Kirin Tor'un eski bir büyüsü - bir giriş yolu tasarladık. Şafak davasına adanmışlığın biraz eksik olduğundan, YOUR_NAME, bedeli yüksek olacaktır. Reddedebilir ve saygıdeğer veya yüce bir repütasyona sahip olduğunda indirim için geri dönebilirsin.",
+    ["Description"]="Vebakorusu'nun koyu bağrında, korkunç Naxxramas hisarının girişi yatar. Önceden, girmeye yönelik tüm girişimler rün geçidine yerleştirilen büyülü korumalar tarafından engellenmişti. Yani, şimdiye kadar.NEW_LINENEW_LINEGizli bir arkana pelerini yardımıyla - kendi geliştirdiğim birkaç modifikasyonla Kirin Tor'un eski bir büyüsü - bir giriş yolu tasarladık. Şafak davasına adanmışlığın biraz eksik olduğundan, YOUR_NAME, bedeli yüksek olacaktır. Reddedebilir ve saygıdeğer veya yüce bir repütasyona sahip olduğunda indirim için geri dönebilirsin.",
     ["Objectives"]="Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Başbüyücü Angela Dosantos 5 Büyülü Kristal, 2 Kristal Özü, 1 Doğruluk Küresi ve 60 altın para istiyor. Ayrıca Gümüşi Şafak ile Hürmet Edilen durumunda olmalısın.",
     ["Progress"]="Hiç kimse Naxxramas'a girip anlatacak kadar yaşamadı.",
     ["Completion"]="Hafif bir karıncalanma hissedeceksin, YOUR_NAME. Bu his çalıştığı anlamına gelir. Tamamlandığında, Vebakorusu'ndaki rün geçidine basarak Naxxramas'a girebileceksin.",
@@ -71695,7 +71695,7 @@ QuestTranslator_QuestData = {
 
 ["9122"] = {
     ["Title"]="Dehşet Hisarı - Naxxramas",
-    ["Description"]="Vebakorusu'nun koyu bağrında, korkunç Naxxramas hisarının girişi yatar. Önceden, girmeye yönelik tüm girişimler rün geçidine yerleştirilen büyülü korumalar tarafından engellenmişti. Yani, şimdiye kadar.NEW_LINENEW_LBir tür kalıcı gizli arkana pelerini aracılığıyla - kendi geliştirdiğim birkaç modifikasyonla Kirin Tor'un eski bir büyüsü - bir giriş yolu tasarladık. Bununla birlikte, pelerin maliyetlidir. Şafak davasına adanmışlığın takdire şayan olduğundan, bu maliyetlerin bir kısmını üstlenmeye razıyız.",
+    ["Description"]="Vebakorusu'nun koyu bağrında, korkunç Naxxramas hisarının girişi yatar. Önceden, girmeye yönelik tüm girişimler rün geçidine yerleştirilen büyülü korumalar tarafından engellenmişti. Yani, şimdiye kadar.NEW_LINENEW_LINEBir tür kalıcı gizli arkana pelerini aracılığıyla - kendi geliştirdiğim birkaç modifikasyonla Kirin Tor'un eski bir büyüsü - bir giriş yolu tasarladık. Bununla birlikte, pelerin maliyetlidir. Şafak davasına adanmışlığın takdire şayan olduğundan, bu maliyetlerin bir kısmını üstlenmeye razıyız.",
     ["Objectives"]="Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Başbüyücü Angela Dosantos 2 Büyülü Kristal, 1 Kristal Özü ve 30 altın para istiyor. Ayrıca Gümüşi Şafak ile Saygıdeğer durumunda olmalısın.",
     ["Progress"]="Hiç kimse Naxxramas'a girip anlatacak kadar yaşamadı.",
     ["Completion"]="Hafif bir karıncalanma hissedeceksin, YOUR_NAME. Bu his çalıştığı anlamına gelir. Tamamlandığında, Vebakorusu'ndaki rün geçidine basarak Naxxramas'a girebileceksin.",
@@ -71705,7 +71705,7 @@ QuestTranslator_QuestData = {
 
 ["9123"] = {
     ["Title"]="Dehşet Hisarı - Naxxramas",
-    ["Description"]="Vebakorusu'nun koyu bağrında, korkunç Naxxramas hisarının girişi yatar. Önceden, girmeye yönelik tüm girişimler rün geçidine yerleştirilen büyülü korumalar tarafından engellenmişti. Yani, şimdiye kadar.NEW_LINENEW_LBir tür kalıcı gizli arkana pelerini aracılığıyla - kendi geliştirdiğim birkaç modifikasyonla Kirin Tor'un eski bir büyüsü - bir giriş yolu tasarladık. Bununla birlikte, pelerin maliyetlidir; ancak, Şafak davasına adanmışlığın sarsılmaz! Tüm maliyet bağlantılarını kaldıracağız.",
+    ["Description"]="Vebakorusu'nun koyu bağrında, korkunç Naxxramas hisarının girişi yatar. Önceden, girmeye yönelik tüm girişimler rün geçidine yerleştirilen büyülü korumalar tarafından engellenmişti. Yani, şimdiye kadar.NEW_LINENEW_LINEBir tür kalıcı gizli arkana pelerini aracılığıyla - kendi geliştirdiğim birkaç modifikasyonla Kirin Tor'un eski bir büyüsü - bir giriş yolu tasarladık. Bununla birlikte, pelerin maliyetlidir; ancak, Şafak davasına adanmışlığın sarsılmaz! Tüm maliyet bağlantılarını kaldıracağız.",
     ["Objectives"]="Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Başbüyücü Angela Dosantos sana ücretsiz olarak Gizli Arkana Pelerini verecektir. Gümüşi Şafak ile Yüce durumunda olmalısın.",
     ["Progress"]="Hiç kimse Naxxramas'a girip anlatacak kadar yaşamadı.",
     ["Completion"]="Hafif bir karıncalanma hissedeceksin, YOUR_NAME. Bu his çalıştığı anlamına gelir. Tamamlandığında, Vebakorusu'ndaki rün geçidine basarak Naxxramas'a girebileceksin.",
@@ -71715,7 +71715,7 @@ QuestTranslator_QuestData = {
 
 ["9124"] = {
     ["Title"]="Mahzen Avcısı Zırhı Kendi Kendine Yapılmaz...",
-    ["Description"]="Bu parlak sikkelerden birini kazanmak ister misin?NEW_LINENEW_L<Leopold Haçlı Seferi'nin nişanını havaya kaldırır.>NEW_LINENEW_LBana yardım edebileceğin küçük bir sorunum var, YOUR_NAME. Görüyorsun ya, Naxxramas'a girmeye cüret eden çılgınlar için Mahzen Avcısı zırhı yapıyorum. Bana zırh için temel malzeme gereksinimlerini sağlasalar da, mahzen yaratığı parçalarım her zaman tükeniyor. Bana bir paket parça getir, ben de sana çeyrek ustasında kullanabileceğin bir nişan ödeyeyim.",
+    ["Description"]="Bu parlak sikkelerden birini kazanmak ister misin?NEW_LINENEW_L<Leopold Haçlı Seferi'nin nişanını havaya kaldırır.>NEW_LINENEW_LINEBana yardım edebileceğin küçük bir sorunum var, YOUR_NAME. Görüyorsun ya, Naxxramas'a girmeye cüret eden çılgınlar için Mahzen Avcısı zırhı yapıyorum. Bana zırh için temel malzeme gereksinimlerini sağlasalar da, mahzen yaratığı parçalarım her zaman tükeniyor. Bana bir paket parça getir, ben de sana çeyrek ustasında kullanabileceğin bir nişan ödeyeyim.",
     ["Objectives"]="Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Avcı Leopold 30 Mahzen Yaratığı Parçası istiyor.",
     ["Progress"]="Av nasıl gidiyor?",
     ["Completion"]="Ah, bu işimizi görür, YOUR_NAME. Unutma, her zaman daha fazla parça kabul ediyorum. Bana getirdiğin her paket için seni bir Nişan ile ödüllendireceğim.",
@@ -71738,7 +71738,7 @@ QuestTranslator_QuestData = {
     ["Description"]="Don Julio'nun Kemiktırpan zırh deseni kemik kırıntıları gerektirir - hem de çok sayıda kemik kırıntısı. Naxxramas'a girmeye cüret edecek kadar çılgın olanlar zırhı yapmak için yeterli temel malzemeyi sağlasa da, her zaman daha fazla Afet kemik kırıntısı arıyorum.NEW_LINENEW_LNe düşünüyorsun? Ellerin kirlenmesine ve aynı zamanda birkaç Afet yok etmeye ne dersin? Çifte kazançlı bir durum.",
     ["Objectives"]="Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Suikastçı Rohan 30 Kemik Kırıntısı istiyor.",
     ["Progress"]="Seni iskeletlerle dolu alanlara yönlendirebilirim YOUR_CLASS.",
-    ["Completion"]="Hızlı çalışıyorsun, YOUR_NAME. Tilki gibi hızlı... Söylesene, bir berber dükkanı dörtlüsünde olduğum zamanı sana hiç anlatmış mıydım?NEW_LINENEW_LBu günlerden birinde sana bu hikayeyi anlatmamı hatırlat.",
+    ["Completion"]="Hızlı çalışıyorsun, YOUR_NAME. Tilki gibi hızlı... Söylesene, bir berber dükkanı dörtlüsünde olduğum zamanı sana hiç anlatmış mıydım?NEW_LINENEW_LINEBu günlerden birinde sana bu hikayeyi anlatmamı hatırlat.",
     ["minlevel"]="55",
     ["questlevel"]="60"
 },
@@ -71755,7 +71755,7 @@ QuestTranslator_QuestData = {
 
 ["9128"] = {
     ["Title"]="Element Denklemi",
-    ["Description"]="Selamlar macera perest! Biraz işle ilgilenir misin? Yanımda çalışanlara nişan ödemesi yapıyorum. Bu nişanlar Çeyrek Ustasında güç eşyaları satın almak için kullanılabilir.NEW_LINENEW_LTek yapman gereken taşıyabileceğin kadar çok element özü getirmek. Ne kadar çok o kadar iyi!NEW_LINENEW_LOnları dünyamızda var olan çeşitli şekil ve boyutlardaki elementallerin üzerinde bulacaksın.",
+    ["Description"]="Selamlar macera perest! Biraz işle ilgilenir misin? Yanımda çalışanlara nişan ödemesi yapıyorum. Bu nişanlar Çeyrek Ustasında güç eşyaları satın almak için kullanılabilir.NEW_LINENEW_LTek yapman gereken taşıyabileceğin kadar çok element özü getirmek. Ne kadar çok o kadar iyi!NEW_LINENEW_LINEOnları dünyamızda var olan çeşitli şekil ve boyutlardaki elementallerin üzerinde bulacaksın.",
     ["Objectives"]="Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Başbüyücü Angela Dosantos 30 Element Özü istiyor.",
     ["Progress"]="Sana sadece doğru yönü gösterebilirim, YOUR_NAME.",
     ["Completion"]="Harika bir iş, YOUR_NAME! Söz verildiği gibi, Nişan senin. Sadece unutma, bunların geldiği yerde daha fazlası var...",
@@ -71767,7 +71767,7 @@ QuestTranslator_QuestData = {
     ["Title"]="Element Özü",
     ["Description"]="",
     ["Objectives"]="",
-    ["Progress"]="Doğrusunu söylemek gerekirse, özleri Buzateşi zırhı oluşturmak için kullanıyorum. Naxxramas'ta savaşan büyücüler tarafından kullanılan zırhtır. Sen ve senin gibiler olmasaydı, kesinlikle bu savaşı kaybediyor olurduk.NEW_LINENEW_LBununla birlikte, bana daha fazla öz getir, ben de sana daha fazla nişan vereyim.",
+    ["Progress"]="Doğrusunu söylemek gerekirse, özleri Buzateşi zırhı oluşturmak için kullanıyorum. Naxxramas'ta savaşan büyücüler tarafından kullanılan zırhtır. Sen ve senin gibiler olmasaydı, kesinlikle bu savaşı kaybediyor olurduk.NEW_LINENEW_LINEBununla birlikte, bana daha fazla öz getir, ben de sana daha fazla nişan vereyim.",
     ["Completion"]="Bize büyük bir hizmette bulunuyorsun, YOUR_NAME. Aferin!",
     ["minlevel"]="55",
     ["questlevel"]="60"
@@ -71775,7 +71775,7 @@ QuestTranslator_QuestData = {
 
 ["9131"] = {
     ["Title"]="Dreadnaught'u Bağlamak",
-    ["Description"]="Hiç Dreadnaught zırhı gördün mü YOUR_CLASS? Hayır, tabii ki görmedin. Sen hâlâ bir ; - bir yumurcaksın. Sana söyleyeyim, o muhteşemdir.NEW_LINENEW_LMuhtemelen kendine tüm bunların seninle ne ilgisi olduğunu soruyorsun, değil mi? Sana ne diyeceğim çömez; kara demir hurdalarına ihtiyacım var ve olabildiğince çoğuna sahip olmak için ödeme yapmaya hazırım.NEW_LINENEW_LŞampiyonlarımız için Dreadnaught takımları oluşturmak üzere hurdalara ihtiyacım var. Bana hurdaları getir ve ödemeni al.",
+    ["Description"]="Hiç Dreadnaught zırhı gördün mü YOUR_CLASS? Hayır, tabii ki görmedin. Sen hâlâ bir ; - bir yumurcaksın. Sana söyleyeyim, o muhteşemdir.NEW_LINENEW_LINEMuhtemelen kendine tüm bunların seninle ne ilgisi olduğunu soruyorsun, değil mi? Sana ne diyeceğim çömez; kara demir hurdalarına ihtiyacım var ve olabildiğince çoğuna sahip olmak için ödeme yapmaya hazırım.NEW_LINENEW_LŞampiyonlarımız için Dreadnaught takımları oluşturmak üzere hurdalara ihtiyacım var. Bana hurdaları getir ve ödemeni al.",
     ["Objectives"]="Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Korfax 30 kara demir Hurdası istiyor.",
     ["Progress"]="<Korfax sana hırıldar.>NEW_LINENEW_LNe istiyorsun? Yol mu? Onları sağlayabilirim...",
     ["Completion"]="Şimdilik bu iş görür. Daha fazlasını bulursan beni nerede bulacağını biliyorsun.",
@@ -71795,10 +71795,10 @@ QuestTranslator_QuestData = {
 
 ["9136"] = {
     ["Title"]="Vahşi Bitki Örtüsü",
-    ["Description"]="Naxxramas'a giren cesur kahramanlar için Düşgezgin olarak bilinen özel bir zırh türü yapıyorum. İhtiyacım olan malzemelerin çoğunu bana sağlayabiliyorlar ama dünyamızın florasından vahşi yapraklar getirebilecek kişileri her zaman arıyorum.NEW_LINENEW_LBu işin sana göre olmadığını düşünebilirsin ama yapraklar olmadan zırh yapılamazdı.NEW_LINENEW_LAyrıca hem Şafak hem de Haçlı Seferi bana fon sağladığından, sana seçtiğin bir nişan ödeme konusunda benzersiz bir konumdayım.",
+    ["Description"]="Naxxramas'a giren cesur kahramanlar için Düşgezgin olarak bilinen özel bir zırh türü yapıyorum. İhtiyacım olan malzemelerin çoğunu bana sağlayabiliyorlar ama dünyamızın florasından vahşi yapraklar getirebilecek kişileri her zaman arıyorum.NEW_LINENEW_LINEBu işin sana göre olmadığını düşünebilirsin ama yapraklar olmadan zırh yapılamazdı.NEW_LINENEW_LINEAyrıca hem Şafak hem de Haçlı Seferi bana fon sağladığından, sana seçtiğin bir nişan ödeme konusunda benzersiz bir konumdayım.",
     ["Objectives"]="Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Rayne 30 Vahşi Yaprak istiyor.",
     ["Progress"]="Dünyamızdaki flora hakkında derin bilgiye sahibim. Yönlendirmeye ihtiyacın var mı?",
-    ["Completion"]="Çok minnettarım, YOUR_NAME.NEW_LINENEW_L<Rayne başıyla selamlar.>NEW_LINENEW_LLütfen her zaman yaprak kabul ettiğimi unutma.",
+    ["Completion"]="Çok minnettarım, YOUR_NAME.NEW_LINENEW_L<Rayne başıyla selamlar.>NEW_LINENEW_LINELütfen her zaman yaprak kabul ettiğimi unutma.",
     ["minlevel"]="55",
     ["questlevel"]="60"
 },
@@ -71815,7 +71815,7 @@ QuestTranslator_QuestData = {
 
 ["9141"] = {
     ["Title"]="Bana \"Horoz\" Derler",
-    ["Description"]="Bir emir belgesi mi istiyorsun? Ne? Sadece ortaya çıktığın için sana çok aranan bir iş emrini uzatmamı mı bekliyorsun? Sanmıyorum çömez. Dünyanın dört bir yanından zanaatkarlar burada ön saflarda iş kapmak için teklif veriyor.NEW_LINENEW_LEğer bir iş emri istiyorsan, dava için kan dökmeye istekli olduğunu bana göstermen gerekecek. Bana bir yiğitlik jetonu getir, sonra konuşalım.NEW_LINENEW_LVe o kirlenmiş küçük çömez ellerini onlara geçirmenin tek bir yolu var - öldürmeye başla.",
+    ["Description"]="Bir emir belgesi mi istiyorsun? Ne? Sadece ortaya çıktığın için sana çok aranan bir iş emrini uzatmamı mı bekliyorsun? Sanmıyorum çömez. Dünyanın dört bir yanından zanaatkarlar burada ön saflarda iş kapmak için teklif veriyor.NEW_LINENEW_LINEEğer bir iş emri istiyorsan, dava için kan dökmeye istekli olduğunu bana göstermen gerekecek. Bana bir yiğitlik jetonu getir, sonra konuşalım.NEW_LINENEW_LVe o kirlenmiş küçük çömez ellerini onlara geçirmenin tek bir yolu var - öldürmeye başla.",
     ["Objectives"]="Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Sevk Komutanı Metz bir Gümüşi Şafak Yiğitlik Jetonu istiyor.",
     ["Progress"]="<Komutan Metz purosunu çiğner.>NEW_LINENEW_LNe var? Meşgul bir adamım.",
     ["Completion"]="Pekala, bu iş şöyle yürüyor: Teslim ettiğin her yiğitlik jetonu için sana başka bir emir belgesi vereceğim. O emir belgesindeki siparişi tamamlar ve siparişi Yük Katırcısı Stonebruiser'a teslim edersin. Anladın mı? Güzel. Şimdi defol buradan.",
@@ -71825,17 +71825,17 @@ QuestTranslator_QuestData = {
 
 ["9153"] = {
     ["Title"]="Gölgenin Altında",
-    ["Description"]="Afet'in yüzen nekropolleri hem Güruh hem de İttifak topraklarına belâ oluyor. Tanaris, Lanetli Topraklar, Kışspring ve Yanık Bozkırlar uçan kalelerin gölgeleriyle kaplanmış durumda.NEW_LINENEW_LAncak birleşik çabalarımız sayesinde püskürtülecekler.NEW_LINENEW_LNekropoller, işgal edilen bölgelerdeki çeşitli noktalarda büyülü çemberlerle destekleniyor. Bu çemberleri çevreleyen akılsız sürüleri yok etmenin savunmalarını yok edeceğini belirledik.",
+    ["Description"]="Afet'in yüzen nekropolleri hem Güruh hem de İttifak topraklarına belâ oluyor. Tanaris, Lanetli Topraklar, Kışspring ve Yanık Bozkırlar uçan kalelerin gölgeleriyle kaplanmış durumda.NEW_LINENEW_LINEAncak birleşik çabalarımız sayesinde püskürtülecekler.NEW_LINENEW_LNekropoller, işgal edilen bölgelerdeki çeşitli noktalarda büyülü çemberlerle destekleniyor. Bu çemberleri çevreleyen akılsız sürüleri yok etmenin savunmalarını yok edeceğini belirledik.",
     ["Objectives"]="Afet saldırısı altındaki bir bölgeyi bulmak için haritanı kontrol et. Oraya git ve etraflarındaki Afet'i yenerek bir nekropole zarar ver. Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Komutan Thomas Helleran'a 10 Nekrotik Rün geri getir.",
     ["Progress"]="Bu tehdide karşı galip gelmek zaman alacak. Nasıl gittin, YOUR_NAME?",
-    ["Completion"]="İyi iş çıkardın, YOUR_NAME. Bu kademeli yenilgiler sayesinde, bu yenilenen Afet tehdidine karşı galip geleceğiz.NEW_LINENEW_LDinlen ve toparlan, ancak daha sonra tekrar cepheye gitmelisin, yoksa bugün kazandığımız mevzileri kaybederiz.NEW_LINENEW_Lİlerleyen savaşlarında sana yardımcı olmak için, daha fazla nekrotik rün takası karşılığında bazı özel eşyalarımızı senin kullanımına sunacağız.",
+    ["Completion"]="İyi iş çıkardın, YOUR_NAME. Bu kademeli yenilgiler sayesinde, bu yenilenen Afet tehdidine karşı galip geleceğiz.NEW_LINENEW_LINEDinlen ve toparlan, ancak daha sonra tekrar cepheye gitmelisin, yoksa bugün kazandığımız mevzileri kaybederiz.NEW_LINENEW_LINEİlerleyen savaşlarında sana yardımcı olmak için, daha fazla nekrotik rün takası karşılığında bazı özel eşyalarımızı senin kullanımına sunacağız.",
     ["minlevel"]="50",
     ["questlevel"]="60"
 },
 
 ["9178"] = {
     ["Title"]="Zanaatkar Emir Belgesi - Yoğun Bileytaşı",
-    ["Description"]="Bu yazılı emrin taşıyıcısı, sözleşmeli iş emrini tamamlaması üzerine kendi seçeceği bir nişan şeklinde ödeme alma hakkına sahiptir.NEW_LINENEW_Lİş Emri BS-091:NEW_LINENEW_L120 Yoğun Bileytaşı.NEW_LINENEW_LDoldurulan tüm siparişler Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim edilmelidir.NEW_LINENEW_LTahrif edilirse veya hasar görürse sözleşme hükümsüzdür.NEW_LINENEW_L-Sevk Komutanı Metz, Gümüşi Şafak",
+    ["Description"]="Bu yazılı emrin taşıyıcısı, sözleşmeli iş emrini tamamlaması üzerine kendi seçeceği bir nişan şeklinde ödeme alma hakkına sahiptir.NEW_LINENEW_LINEİş Emri BS-091:NEW_LINENEW_L120 Yoğun Bileytaşı.NEW_LINENEW_LINEDoldurulan tüm siparişler Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim edilmelidir.NEW_LINENEW_LTahrif edilirse veya hasar görürse sözleşme hükümsüzdür.NEW_LINENEW_L-Sevk Komutanı Metz, Gümüşi Şafak",
     ["Objectives"]="120 Yoğun Bileytaşı'nı ve Zanaatkar Emir Belgesi - Yoğun Bileytaşı'nı Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim et.",
     ["Progress"]="Bir iş emri mi dolduruyorsun, YOUR_CLASS?",
     ["Completion"]="Evet, bunlar piyadenin darbe silahları için işe yarayacak.",
@@ -71845,7 +71845,7 @@ QuestTranslator_QuestData = {
 
 ["9179"] = {
     ["Title"]="Zanaatkar Emir Belgesi - İmparatorluk Plaka Zırhı",
-    ["Description"]="Bu yazılı emrin taşıyıcısı, sözleşmeli iş emrini tamamlaması üzerine kendi seçeceği bir nişan şeklinde ödeme alma hakkına sahiptir.NEW_LINENEW_Lİş Emri BS-428:NEW_LINENEW_L3 İmparatorluk Plaka Zırhı.NEW_LINENEW_LDoldurulan tüm siparişler Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim edilmelidir.NEW_LINENEW_LTahrif edilirse veya hasar görürse sözleşme hükümsüzdür.NEW_LINENEW_L-Sevk Komutanı Metz, Gümüşi Şafak",
+    ["Description"]="Bu yazılı emrin taşıyıcısı, sözleşmeli iş emrini tamamlaması üzerine kendi seçeceği bir nişan şeklinde ödeme alma hakkına sahiptir.NEW_LINENEW_LINEİş Emri BS-428:NEW_LINENEW_L3 İmparatorluk Plaka Zırhı.NEW_LINENEW_LINEDoldurulan tüm siparişler Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim edilmelidir.NEW_LINENEW_LTahrif edilirse veya hasar görürse sözleşme hükümsüzdür.NEW_LINENEW_L-Sevk Komutanı Metz, Gümüşi Şafak",
     ["Objectives"]="3 İmparatorluk Plaka Zırhı'nı ve Zanaatkar Emir Belgesi - İmparatorluk Plaka Zırhı'nı Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim et.",
     ["Progress"]="Bir iş emri mi dolduruyorsun, YOUR_CLASS?",
     ["Completion"]="Birlikler için daha fazla zırh! Harika, YOUR_NAME!",
@@ -71855,7 +71855,7 @@ QuestTranslator_QuestData = {
 
 ["9181"] = {
     ["Title"]="Zanaatkar Emir Belgesi - Volkanik Balyoz",
-    ["Description"]="Bu yazılı emrin taşıyıcısı, sözleşmeli iş emrini tamamlaması üzerine kendi seçeceği bir nişan şeklinde ödeme alma hakkına sahiptir.NEW_LINENEW_Lİş Emri BS-697:NEW_LINENEW_L3 Volkanik Balyoz.NEW_LINENEW_LDoldurulan tüm siparişler Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim edilmelidir.NEW_LINENEW_LTahrif edilirse veya hasar görürse sözleşme hükümsüzdür.NEW_LINENEW_L-Sevk Komutanı Metz, Gümüşi Şafak",
+    ["Description"]="Bu yazılı emrin taşıyıcısı, sözleşmeli iş emrini tamamlaması üzerine kendi seçeceği bir nişan şeklinde ödeme alma hakkına sahiptir.NEW_LINENEW_LINEİş Emri BS-697:NEW_LINENEW_L3 Volkanik Balyoz.NEW_LINENEW_LINEDoldurulan tüm siparişler Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim edilmelidir.NEW_LINENEW_LTahrif edilirse veya hasar görürse sözleşme hükümsüzdür.NEW_LINENEW_L-Sevk Komutanı Metz, Gümüşi Şafak",
     ["Objectives"]="3 Volkanik Balyoz'u ve Zanaatkar Emir Belgesi - Volkanik Balyoz'u Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim et.",
     ["Progress"]="Bir iş emri mi dolduruyorsun, YOUR_CLASS?",
     ["Completion"]="Bunlar stokladığımız yoğun bileytaşlarıyla iyi gidecektir.",
@@ -71865,7 +71865,7 @@ QuestTranslator_QuestData = {
 
 ["9182"] = {
     ["Title"]="Zanaatkar Emir Belgesi - Dev Torium Savaş Baltası",
-    ["Description"]="Bu yazılı emrin taşıyıcısı, sözleşmeli iş emrini tamamlaması üzerine kendi seçeceği bir nişan şeklinde ödeme alma hakkına sahiptir.NEW_LINENEW_Lİş Emri BS-6020:NEW_LINENEW_L3 Dev Torium Savaş Baltası.NEW_LINENEW_LDoldurulan tüm siparişler Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim edilmelidir.NEW_LINENEW_LTahrif edilirse veya hasar görürse sözleşme hükümsüzdür.NEW_LINENEW_L-Sevk Komutanı Metz, Gümüşi Şafak",
+    ["Description"]="Bu yazılı emrin taşıyıcısı, sözleşmeli iş emrini tamamlaması üzerine kendi seçeceği bir nişan şeklinde ödeme alma hakkına sahiptir.NEW_LINENEW_LINEİş Emri BS-6020:NEW_LINENEW_L3 Dev Torium Savaş Baltası.NEW_LINENEW_LINEDoldurulan tüm siparişler Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim edilmelidir.NEW_LINENEW_LTahrif edilirse veya hasar görürse sözleşme hükümsüzdür.NEW_LINENEW_L-Sevk Komutanı Metz, Gümüşi Şafak",
     ["Objectives"]="3 Dev Torium Savaş Baltası'nı ve Zanaatkar Emir Belgesi - Dev Torium Savaş Baltası'nı Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim et.",
     ["Progress"]="Bir iş emri mi dolduruyorsun, YOUR_CLASS?",
     ["Completion"]="Beklediğim kadar devasa değilmiş. Yine de, anlaşma anlaşmadır.",
@@ -71875,7 +71875,7 @@ QuestTranslator_QuestData = {
 
 ["9183"] = {
     ["Title"]="Zanaatkar Emir Belgesi - Işıltılı Taç",
-    ["Description"]="Bu yazılı emrin taşıyıcısı, sözleşmeli iş emrini tamamlaması üzerine kendi seçeceği bir nişan şeklinde ödeme alma hakkına sahiptir.NEW_LINENEW_Lİş Emri BS-80:NEW_LINENEW_L3 Işıltılı Taç.NEW_LINENEW_LDoldurulan tüm siparişler Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim edilmelidir.NEW_LINENEW_LTahrif edilirse veya hasar görürse sözleşme hükümsüzdür.NEW_LINENEW_L-Sevk Komutanı Metz, Gümüşi Şafak",
+    ["Description"]="Bu yazılı emrin taşıyıcısı, sözleşmeli iş emrini tamamlaması üzerine kendi seçeceği bir nişan şeklinde ödeme alma hakkına sahiptir.NEW_LINENEW_LINEİş Emri BS-80:NEW_LINENEW_L3 Işıltılı Taç.NEW_LINENEW_LINEDoldurulan tüm siparişler Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim edilmelidir.NEW_LINENEW_LTahrif edilirse veya hasar görürse sözleşme hükümsüzdür.NEW_LINENEW_L-Sevk Komutanı Metz, Gümüşi Şafak",
     ["Objectives"]="3 Işıltılı Taç'ı ve Zanaatkar Emir Belgesi - Işıltılı Taç'ı Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim et.",
     ["Progress"]="Bir iş emri mi dolduruyorsun, YOUR_CLASS?",
     ["Completion"]="Metz'in Afet'in dondurucu saldırılarına karşı korunmak için birliklerimizin bu düşük kaliteli çöpü giymesini beklediğine hâlâ inanamıyorum.",
@@ -71885,7 +71885,7 @@ QuestTranslator_QuestData = {
 
 ["9184"] = {
     ["Title"]="Zanaatkar Emir Belgesi - Hain Deri Kafa Bandı",
-    ["Description"]="Bu yazılı emrin taşıyıcısı, sözleşmeli iş emrini tamamlaması üzerine kendi seçeceği bir nişan şeklinde ödeme alma hakkına sahiptir.NEW_LINENEW_Lİş Emri LW-971:NEW_LINENEW_L10 Hain Deri Kafa Bandı.NEW_LINENEW_LDoldurulan tüm siparişler Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim edilmelidir.NEW_LINENEW_LTahrif edilirse veya hasar görürse sözleşme hükümsüzdür.NEW_LINENEW_L-Sevk Komutanı Metz, Gümüşi Şafak",
+    ["Description"]="Bu yazılı emrin taşıyıcısı, sözleşmeli iş emrini tamamlaması üzerine kendi seçeceği bir nişan şeklinde ödeme alma hakkına sahiptir.NEW_LINENEW_LINEİş Emri LW-971:NEW_LINENEW_L10 Hain Deri Kafa Bandı.NEW_LINENEW_LINEDoldurulan tüm siparişler Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim edilmelidir.NEW_LINENEW_LTahrif edilirse veya hasar görürse sözleşme hükümsüzdür.NEW_LINENEW_L-Sevk Komutanı Metz, Gümüşi Şafak",
     ["Objectives"]="10 Hain Deri Kafa Bandı'nı ve Zanaatkar Emir Belgesi - Hain Deri Kafa Bandı'nı Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim et.",
     ["Progress"]="Bir iş emri mi dolduruyorsun, YOUR_CLASS?",
     ["Completion"]="Bunlar... haince.",
@@ -71895,7 +71895,7 @@ QuestTranslator_QuestData = {
 
 ["9185"] = {
     ["Title"]="Zanaatkar Emir Belgesi - Sert Zırh Kiti",
-    ["Description"]="Bu yazılı emrin taşıyıcısı, sözleşmeli iş emrini tamamlaması üzerine kendi seçeceği bir nişan şeklinde ödeme alma hakkına sahiptir.NEW_LINENEW_Lİş Emri LW-448:NEW_LINENEW_L25 Sert Zırh Kiti.NEW_LINENEW_LDoldurulan tüm siparişler Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim edilmelidir.NEW_LINENEW_LTahrif edilirse veya hasar görürse sözleşme hükümsüzdür.NEW_LINENEW_L-Sevk Komutanı Metz, Gümüşi Şafak",
+    ["Description"]="Bu yazılı emrin taşıyıcısı, sözleşmeli iş emrini tamamlaması üzerine kendi seçeceği bir nişan şeklinde ödeme alma hakkına sahiptir.NEW_LINENEW_LINEİş Emri LW-448:NEW_LINENEW_L25 Sert Zırh Kiti.NEW_LINENEW_LINEDoldurulan tüm siparişler Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim edilmelidir.NEW_LINENEW_LTahrif edilirse veya hasar görürse sözleşme hükümsüzdür.NEW_LINENEW_L-Sevk Komutanı Metz, Gümüşi Şafak",
     ["Objectives"]="25 Sert Zırh Kiti'ni ve Zanaatkar Emir Belgesi - Sert Zırh Kiti'ni Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim et.",
     ["Progress"]="Bir iş emri mi dolduruyorsun, YOUR_CLASS?",
     ["Completion"]="Sert zırh kitlerinin birçok kullanımı vardır, YOUR_NAME. Sadece ilave koruma için belirli zırh parçalarına yapıştırmak için DEĞİLDİR. Buradaki gibi, bunu çaydanlık örtüsü olarak kullanacağım.",
@@ -71905,7 +71905,7 @@ QuestTranslator_QuestData = {
 
 ["9186"] = {
     ["Title"]="Zanaatkar Emir Belgesi - Hain Deri Kemer",
-    ["Description"]="Bu yazılı emrin taşıyıcısı, sözleşmeli iş emrini tamamlaması üzerine kendi seçeceği bir nişan şeklinde ödeme alma hakkına sahiptir.NEW_LINENEW_Lİş Emri LW-736:NEW_LINENEW_L9 Hain Deri Kemer.NEW_LINENEW_LDoldurulan tüm siparişler Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim edilmelidir.NEW_LINENEW_LTahrif edilirse veya hasar görürse sözleşme hükümsüzdür.NEW_LINENEW_L-Sevk Komutanı Metz, Gümüşi Şafak",
+    ["Description"]="Bu yazılı emrin taşıyıcısı, sözleşmeli iş emrini tamamlaması üzerine kendi seçeceği bir nişan şeklinde ödeme alma hakkına sahiptir.NEW_LINENEW_LINEİş Emri LW-736:NEW_LINENEW_L9 Hain Deri Kemer.NEW_LINENEW_LINEDoldurulan tüm siparişler Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim edilmelidir.NEW_LINENEW_LTahrif edilirse veya hasar görürse sözleşme hükümsüzdür.NEW_LINENEW_L-Sevk Komutanı Metz, Gümüşi Şafak",
     ["Objectives"]="9 Hain Deri Kemer'i ve Zanaatkar Emir Belgesi - Hain Deri Kemer'i Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim et.",
     ["Progress"]="Bir iş emri mi dolduruyorsun, YOUR_CLASS?",
     ["Completion"]="Bu kemerler aslında kafa bantlarından daha haince - böyle bir şeyin mümkün olduğuna inanabiliyorsan.",
@@ -71915,7 +71915,7 @@ QuestTranslator_QuestData = {
 
 ["9187"] = {
     ["Title"]="Zanaatkar Emir Belgesi - Rünlü Deri Pantolon",
-    ["Description"]="Bu yazılı emrin taşıyıcısı, sözleşmeli iş emrini tamamlaması üzerine kendi seçeceği bir nişan şeklinde ödeme alma hakkına sahiptir.NEW_LINENEW_Lİş Emri LW-8485:NEW_LINENEW_L4 Rünlü Deri Pantolon.NEW_LINENEW_LDoldurulan tüm siparişler Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim edilmelidir.NEW_LINENEW_LTahrif edilirse veya hasar görürse sözleşme hükümsüzdür.NEW_LINENEW_L-Sevk Komutanı Metz, Gümüşi Şafak",
+    ["Description"]="Bu yazılı emrin taşıyıcısı, sözleşmeli iş emrini tamamlaması üzerine kendi seçeceği bir nişan şeklinde ödeme alma hakkına sahiptir.NEW_LINENEW_LINEİş Emri LW-8485:NEW_LINENEW_L4 Rünlü Deri Pantolon.NEW_LINENEW_LINEDoldurulan tüm siparişler Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim edilmelidir.NEW_LINENEW_LTahrif edilirse veya hasar görürse sözleşme hükümsüzdür.NEW_LINENEW_L-Sevk Komutanı Metz, Gümüşi Şafak",
     ["Objectives"]="4 Rünlü Deri Pantolon'u ve Zanaatkar Emir Belgesi - Rünlü Deri Pantolon'u Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim et.",
     ["Progress"]="Bir iş emri mi dolduruyorsun, YOUR_CLASS?",
     ["Completion"]="Druidler bu pantolonun yapımına giden işçiliği kesinlikle takdir edeceklerdir. Çok teşekkürler, YOUR_CLASS.",
@@ -71925,7 +71925,7 @@ QuestTranslator_QuestData = {
 
 ["9188"] = {
     ["Title"]="Zanaatkar Emir Belgesi - Parlakkumaş Pantolon",
-    ["Description"]="Bu yazılı emrin taşıyıcısı, sözleşmeli iş emrini tamamlaması üzerine kendi seçeceği bir nişan şeklinde ödeme alma hakkına sahiptir.NEW_LINENEW_Lİş Emri TR-95:NEW_LINENEW_L6 Parlakkumaş Pantolon.NEW_LINENEW_LDoldurulan tüm siparişler Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim edilmelidir.NEW_LINENEW_LTahrif edilirse veya hasar görürse sözleşme hükümsüzdür.NEW_LINENEW_L-Sevk Komutanı Metz, Gümüşi Şafak",
+    ["Description"]="Bu yazılı emrin taşıyıcısı, sözleşmeli iş emrini tamamlaması üzerine kendi seçeceği bir nişan şeklinde ödeme alma hakkına sahiptir.NEW_LINENEW_LINEİş Emri TR-95:NEW_LINENEW_L6 Parlakkumaş Pantolon.NEW_LINENEW_LINEDoldurulan tüm siparişler Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim edilmelidir.NEW_LINENEW_LTahrif edilirse veya hasar görürse sözleşme hükümsüzdür.NEW_LINENEW_L-Sevk Komutanı Metz, Gümüşi Şafak",
     ["Objectives"]="6 Parlakkumaş Pantolon'u ve Zanaatkar Emir Belgesi - Parlakkumaş Pantolon'u Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim et.",
     ["Progress"]="Bir iş emri mi dolduruyorsun, YOUR_CLASS?",
     ["Completion"]="Bunların üzerinde neredeyse kendi yansımamı görebiliyorum! Bu çılgınca.",
@@ -71935,7 +71935,7 @@ QuestTranslator_QuestData = {
 
 ["9190"] = {
     ["Title"]="Zanaatkar Emir Belgesi - Rünkumaşı Çizmeler",
-    ["Description"]="Bu yazılı emrin taşıyıcısı, sözleşmeli iş emrini tamamlaması üzerine kendi seçeceği bir nişan şeklinde ödeme alma hakkına sahiptir.NEW_LINENEW_Lİş Emri TR-635:NEW_LINENEW_L8 Rünkumaşı Çizmeler.NEW_LINENEW_LDoldurulan tüm siparişler Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim edilmelidir.NEW_LINENEW_LTahrif edilirse veya hasar görürse sözleşme hükümsüzdür.NEW_LINENEW_L-Sevk Komutanı Metz, Gümüşi Şafak",
+    ["Description"]="Bu yazılı emrin taşıyıcısı, sözleşmeli iş emrini tamamlaması üzerine kendi seçeceği bir nişan şeklinde ödeme alma hakkına sahiptir.NEW_LINENEW_LINEİş Emri TR-635:NEW_LINENEW_L8 Rünkumaşı Çizmeler.NEW_LINENEW_LINEDoldurulan tüm siparişler Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim edilmelidir.NEW_LINENEW_LTahrif edilirse veya hasar görürse sözleşme hükümsüzdür.NEW_LINENEW_L-Sevk Komutanı Metz, Gümüşi Şafak",
     ["Objectives"]="8 Rünkumaşı Çizme'yi ve Zanaatkar Emir Belgesi - Rünkumaşı Çizmeler'i Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim et.",
     ["Progress"]="Bir iş emri mi dolduruyorsun, YOUR_CLASS?",
     ["Completion"]="Bronzebeard'in sakalı hakkı için! Gerçekten bana rünkumaşı çizmeler getirdin... Sanırım o bahsi kaybettim.",
@@ -71945,27 +71945,27 @@ QuestTranslator_QuestData = {
 
 ["9191"] = {
     ["Title"]="Zanaatkar Emir Belgesi - Rünkumaşı Çanta",
-    ["Description"]="Bu yazılı emrin taşıyıcısı, sözleşmeli iş emrini tamamlaması üzerine kendi seçeceği bir nişan şeklinde ödeme alma hakkına sahiptir.NEW_LINENEW_Lİş Emri TR-9999:NEW_LINENEW_L8 Rünkumaşı Çanta.NEW_LINENEW_LDoldurulan tüm siparişler Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim edilmelidir.NEW_LINENEW_LTahrif edilirse veya hasar görürse sözleşme hükümsüzdür.NEW_LINENEW_L-Sevk Komutanı Metz, Gümüşi Şafak",
+    ["Description"]="Bu yazılı emrin taşıyıcısı, sözleşmeli iş emrini tamamlaması üzerine kendi seçeceği bir nişan şeklinde ödeme alma hakkına sahiptir.NEW_LINENEW_LINEİş Emri TR-9999:NEW_LINENEW_L8 Rünkumaşı Çanta.NEW_LINENEW_LINEDoldurulan tüm siparişler Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim edilmelidir.NEW_LINENEW_LTahrif edilirse veya hasar görürse sözleşme hükümsüzdür.NEW_LINENEW_L-Sevk Komutanı Metz, Gümüşi Şafak",
     ["Objectives"]="8 Rünkumaşı Çanta'yı ve Zanaatkar Emir Belgesi - Rünkumaşı Çanta'yı Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim et.",
     ["Progress"]="Bir iş emri mi dolduruyorsun, YOUR_CLASS?",
-    ["Completion"]="Kutsanmış çizme bağcıkları! Bunlar düşündüğüm şeyler mi? Birlikler sahadayken gereken her şey için depolama alanı eksikliğinden durmadan şikayet ediyorlardı. Hatta içlerinden biri bana bir şema çizdi - tam bir ana kuzusu...NEW_LINENEW_LBunlar kesinlikle sızlanmaların bir kısmını hafifletmeye yardımcı olacak.",
+    ["Completion"]="Kutsanmış çizme bağcıkları! Bunlar düşündüğüm şeyler mi? Birlikler sahadayken gereken her şey için depolama alanı eksikliğinden durmadan şikayet ediyorlardı. Hatta içlerinden biri bana bir şema çizdi - tam bir ana kuzusu...NEW_LINENEW_LINEBunlar kesinlikle sızlanmaların bir kısmını hafifletmeye yardımcı olacak.",
     ["minlevel"]="55",
     ["questlevel"]="60"
 },
 
 ["9194"] = {
     ["Title"]="Zanaatkar Emir Belgesi - Rünkumaşı Cübbe",
-    ["Description"]="Bu yazılı emrin taşıyıcısı, sözleşmeli iş emrini tamamlaması üzerine kendi seçeceği bir nişan şeklinde ödeme alma hakkına sahiptir.NEW_LINENEW_Lİş Emri TR-7229:NEW_LINENEW_L8 Rünkumaşı Cübbe.NEW_LINENEW_LDoldurulan tüm siparişler Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim edilmelidir.NEW_LINENEW_LTahrif edilirse veya hasar görürse sözleşme hükümsüzdür.NEW_LINENEW_L-Sevk Komutanı Metz, Gümüşi Şafak",
+    ["Description"]="Bu yazılı emrin taşıyıcısı, sözleşmeli iş emrini tamamlaması üzerine kendi seçeceği bir nişan şeklinde ödeme alma hakkına sahiptir.NEW_LINENEW_LINEİş Emri TR-7229:NEW_LINENEW_L8 Rünkumaşı Cübbe.NEW_LINENEW_LINEDoldurulan tüm siparişler Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim edilmelidir.NEW_LINENEW_LTahrif edilirse veya hasar görürse sözleşme hükümsüzdür.NEW_LINENEW_L-Sevk Komutanı Metz, Gümüşi Şafak",
     ["Objectives"]="8 Rünkumaşı Cübbe'yi ve Zanaatkar Emir Belgesi - Rünkumaşı Cübbe'yi Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim et.",
     ["Progress"]="Bir iş emri mi dolduruyorsun, YOUR_CLASS?",
-    ["Completion"]="Yapmamalıydın! Hayır gerçekten, yapmamalıydın. Metz ne düşünüyor bilmiyorum ama kimse bu cübbeleri Naxxramas'a giymeyecek.NEW_LINENEW_L<Yük Katırcısı Stonebruiser iç çeker.>NEW_LINENEW_LBah, ön saflara aktarmam gerekecek bir hurda yığını daha ve Chambers'tan yemem gerekecek bir fırça daha.",
+    ["Completion"]="Yapmamalıydın! Hayır gerçekten, yapmamalıydın. Metz ne düşünüyor bilmiyorum ama kimse bu cübbeleri Naxxramas'a giymeyecek.NEW_LINENEW_L<Yük Katırcısı Stonebruiser iç çeker.>NEW_LINENEW_LINEBah, ön saflara aktarmam gerekecek bir hurda yığını daha ve Chambers'tan yemem gerekecek bir fırça daha.",
     ["minlevel"]="55",
     ["questlevel"]="60"
 },
 
 ["9195"] = {
     ["Title"]="Zanaatkar Emir Belgesi - Goblin Lağımcı Patlayıcısı",
-    ["Description"]="Bu yazılı emrin taşıyıcısı, sözleşmeli iş emrini tamamlaması üzerine kendi seçeceği bir nişan şeklinde ödeme alma hakkına sahiptir.NEW_LINENEW_Lİş Emri EN-11:NEW_LINENEW_L20 Goblin Lağımcı Patlayıcısı.NEW_LINENEW_LDoldurulan tüm siparişler Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim edilmelidir.NEW_LINENEW_LTahrif edilirse veya hasar görürse sözleşme hükümsüzdür.NEW_LINENEW_L-Sevk Komutanı Metz, Gümüşi Şafak",
+    ["Description"]="Bu yazılı emrin taşıyıcısı, sözleşmeli iş emrini tamamlaması üzerine kendi seçeceği bir nişan şeklinde ödeme alma hakkına sahiptir.NEW_LINENEW_LINEİş Emri EN-11:NEW_LINENEW_L20 Goblin Lağımcı Patlayıcısı.NEW_LINENEW_LINEDoldurulan tüm siparişler Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim edilmelidir.NEW_LINENEW_LTahrif edilirse veya hasar görürse sözleşme hükümsüzdür.NEW_LINENEW_L-Sevk Komutanı Metz, Gümüşi Şafak",
     ["Objectives"]="20 Goblin Lağımcı Patlayıcısı'nı ve Zanaatkar Emir Belgesi - Goblin Lağımcı Patlayıcısı'nı Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim et.",
     ["Progress"]="Bir iş emri mi dolduruyorsun, YOUR_CLASS?",
     ["Completion"]="Şimdi benim dilimden konuşuyorsun, YOUR_CLASS. GÜMBÜRTÜ çıkaran şeyler!",
@@ -71975,7 +71975,7 @@ QuestTranslator_QuestData = {
 
 ["9196"] = {
     ["Title"]="Zanaatkar Emir Belgesi - Torium El Bombası",
-    ["Description"]="Bu yazılı emrin taşıyıcısı, sözleşmeli iş emrini tamamlaması üzerine kendi seçeceği bir nişan şeklinde ödeme alma hakkına sahiptir.NEW_LINENEW_Lİş Emri EN-7:NEW_LINENEW_L20 Torium El Bombası.NEW_LINENEW_LDoldurulan tüm siparişler Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim edilmelidir.NEW_LINENEW_LTahrif edilirse veya hasar görürse sözleşme hükümsüzdür.NEW_LINENEW_L-Sevk Komutanı Metz, Gümüşi Şafak",
+    ["Description"]="Bu yazılı emrin taşıyıcısı, sözleşmeli iş emrini tamamlaması üzerine kendi seçeceği bir nişan şeklinde ödeme alma hakkına sahiptir.NEW_LINENEW_LINEİş Emri EN-7:NEW_LINENEW_L20 Torium El Bombası.NEW_LINENEW_LINEDoldurulan tüm siparişler Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim edilmelidir.NEW_LINENEW_LTahrif edilirse veya hasar görürse sözleşme hükümsüzdür.NEW_LINENEW_L-Sevk Komutanı Metz, Gümüşi Şafak",
     ["Objectives"]="20 Torium El Bombası'nı ve Zanaatkar Emir Belgesi - Torium El Bombası'nı Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim et.",
     ["Progress"]="Bir iş emri mi dolduruyorsun, YOUR_CLASS?",
     ["Completion"]="Bunların yapımı güzel bir bakır paraya patlamış olmalı. Haklı mıyım yoksa haklı mıyım, YOUR_NAME?",
@@ -71985,17 +71985,17 @@ QuestTranslator_QuestData = {
 
 ["9197"] = {
     ["Title"]="Zanaatkar Emir Belgesi - Cüce Savaş Tavuğu",
-    ["Description"]="Bu yazılı emrin taşıyıcısı, sözleşmeli iş emrini tamamlaması üzerine kendi seçeceği bir nişan şeklinde ödeme alma hakkına sahiptir.NEW_LINENEW_Lİş Emri EN-0:NEW_LINENEW_L4 Cüce Savaş Tavuğu.NEW_LINENEW_LDoldurulan tüm siparişler Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim edilmelidir.NEW_LINENEW_LTahrif edilirse veya hasar görürse sözleşme hükümsüzdür.NEW_LINENEW_L-Sevk Komutanı Metz, Gümüşi Şafak",
+    ["Description"]="Bu yazılı emrin taşıyıcısı, sözleşmeli iş emrini tamamlaması üzerine kendi seçeceği bir nişan şeklinde ödeme alma hakkına sahiptir.NEW_LINENEW_LINEİş Emri EN-0:NEW_LINENEW_L4 Cüce Savaş Tavuğu.NEW_LINENEW_LINEDoldurulan tüm siparişler Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim edilmelidir.NEW_LINENEW_LTahrif edilirse veya hasar görürse sözleşme hükümsüzdür.NEW_LINENEW_L-Sevk Komutanı Metz, Gümüşi Şafak",
     ["Objectives"]="4 Cüce Savaş Tavuğu'nu ve Zanaatkar Emir Belgesi - Cüce Savaş Tavuğu'nu Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim et.",
     ["Progress"]="Bir iş emri mi dolduruyorsun, YOUR_CLASS?",
-    ["Completion"]="Neden gülümsüyorsun? Komik olan ne? Dinle bayım, bir Cüce Savaş Tavuğu çok önemli bir birimdir ve hafifçe alınamaz - ASLA. Bunları ağır şekilde vebalı veya istila edilmiş olabilecek alanlara gönderiyoruz ve hâlâ pır pır uçuşan vebalı böcekleri veya leş kurtçuklarını temizliyorlar. Herkes robotların vebaya karşı bağışıklı olduğunu bilir.NEW_LINENEW_LBahse girerim şimdi o kadar da akıllı hissetmiyorsun, değil mi? Büyük mankafa...",
+    ["Completion"]="Neden gülümsüyorsun? Komik olan ne? Dinle bayım, bir Cüce Savaş Tavuğu çok önemli bir birimdir ve hafifçe alınamaz - ASLA. Bunları ağır şekilde vebalı veya istila edilmiş olabilecek alanlara gönderiyoruz ve hâlâ pır pır uçuşan vebalı böcekleri veya leş kurtçuklarını temizliyorlar. Herkes robotların vebaya karşı bağışıklı olduğunu bilir.NEW_LINENEW_LINEBahse girerim şimdi o kadar da akıllı hissetmiyorsun, değil mi? Büyük mankafa...",
     ["minlevel"]="55",
     ["questlevel"]="60"
 },
 
 ["9198"] = {
     ["Title"]="Zanaatkar Emir Belgesi - Torium Tüp",
-    ["Description"]="Bu yazılı emrin taşıyıcısı, sözleşmeli iş emrini tamamlaması üzerine kendi seçeceği bir nişan şeklinde ödeme alma hakkına sahiptir.NEW_LINENEW_Lİş Emri EN-558:NEW_LINENEW_L14 Torium Tüp.NEW_LINENEW_LDoldurulan tüm siparişler Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim edilmelidir.NEW_LINENEW_LTahrif edilirse veya hasar görürse sözleşme hükümsüzdür.NEW_LINENEW_L-Sevk Komutanı Metz, Gümüşi Şafak",
+    ["Description"]="Bu yazılı emrin taşıyıcısı, sözleşmeli iş emrini tamamlaması üzerine kendi seçeceği bir nişan şeklinde ödeme alma hakkına sahiptir.NEW_LINENEW_LINEİş Emri EN-558:NEW_LINENEW_L14 Torium Tüp.NEW_LINENEW_LINEDoldurulan tüm siparişler Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim edilmelidir.NEW_LINENEW_LTahrif edilirse veya hasar görürse sözleşme hükümsüzdür.NEW_LINENEW_L-Sevk Komutanı Metz, Gümüşi Şafak",
     ["Objectives"]="14 Torium Tüp'ü ve Zanaatkar Emir Belgesi - Torium Tüp'ü Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim et.",
     ["Progress"]="Bir iş emri mi dolduruyorsun, YOUR_CLASS?",
     ["Completion"]="Torium tüpleri mi? Vay, teşekkürler.NEW_LINENEW_L<Yük Katırcısı Stonebruiser torium tüp yığınını büyük bir çeşitli çöp yığınına fırlatır.>",
@@ -72005,7 +72005,7 @@ QuestTranslator_QuestData = {
 
 ["9200"] = {
     ["Title"]="Zanaatkar Emir Belgesi - Büyük Mana İksiri",
-    ["Description"]="Bu yazılı emrin taşıyıcısı, sözleşmeli iş emrini tamamlaması üzerine kendi seçeceği bir nişan şeklinde ödeme alma hakkına sahiptir.NEW_LINENEW_Lİş Emri AL-473:NEW_LINENEW_L10 Büyük Mana İksiri.NEW_LINENEW_LDoldurulan tüm siparişler Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim edilmelidir.NEW_LINENEW_LTahrif edilirse veya hasar görürse sözleşme hükümsüzdür.NEW_LINENEW_L-Sevk Komutanı Metz, Gümüşi Şafak",
+    ["Description"]="Bu yazılı emrin taşıyıcısı, sözleşmeli iş emrini tamamlaması üzerine kendi seçeceği bir nişan şeklinde ödeme alma hakkına sahiptir.NEW_LINENEW_LINEİş Emri AL-473:NEW_LINENEW_L10 Büyük Mana İksiri.NEW_LINENEW_LINEDoldurulan tüm siparişler Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim edilmelidir.NEW_LINENEW_LTahrif edilirse veya hasar görürse sözleşme hükümsüzdür.NEW_LINENEW_L-Sevk Komutanı Metz, Gümüşi Şafak",
     ["Objectives"]="10 Büyük Mana İksiri'ni ve Zanaatkar Emir Belgesi - Büyük Mana İksiri'ni Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim et.",
     ["Progress"]="Bir iş emri mi dolduruyorsun, YOUR_CLASS?",
     ["Completion"]="Bunların kullanışlılığı söylenmeye bile gerek duymuyor.",
@@ -72015,17 +72015,17 @@ QuestTranslator_QuestData = {
 
 ["9201"] = {
     ["Title"]="Zanaatkar Emir Belgesi - Yüce Arkana Koruması İksiri",
-    ["Description"]="Bu yazılı emrin taşıyıcısı, sözleşmeli iş emrini tamamlaması üzerine kendi seçeceği bir nişan şeklinde ödeme alma hakkına sahiptir.NEW_LINENEW_Lİş Emri AL-1420:NEW_LINENEW_L15 Yüce Arkana Koruması İksiri.NEW_LINENEW_LDoldurulan tüm siparişler Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim edilmelidir.NEW_LINENEW_LTahrif edilirse veya hasar görürse sözleşme hükümsüzdür.NEW_LINENEW_L-Sevk Komutanı Metz, Gümüşi Şafak",
+    ["Description"]="Bu yazılı emrin taşıyıcısı, sözleşmeli iş emrini tamamlaması üzerine kendi seçeceği bir nişan şeklinde ödeme alma hakkına sahiptir.NEW_LINENEW_LINEİş Emri AL-1420:NEW_LINENEW_L15 Yüce Arkana Koruması İksiri.NEW_LINENEW_LINEDoldurulan tüm siparişler Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim edilmelidir.NEW_LINENEW_LTahrif edilirse veya hasar görürse sözleşme hükümsüzdür.NEW_LINENEW_L-Sevk Komutanı Metz, Gümüşi Şafak",
     ["Objectives"]="15 Yüce Arkana Koruması İksiri'ni ve Zanaatkar Emir Belgesi - Yüce Arkana Koruması İksiri'ni Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim et.",
     ["Progress"]="Bir iş emri mi dolduruyorsun, YOUR_CLASS?",
-    ["Completion"]="<Yük Katırcısı Stonebruiser yüce arkana koruması iksirlerinden birini açar ve bir yudum alır.>NEW_LINENEW_LHARİKA! Bunlar bir tekme vuruyor bebeğim! Tekme diyorum!",
+    ["Completion"]="<Yük Katırcısı Stonebruiser yüce arkana koruması iksirlerinden birini açar ve bir yudum alır.>NEW_LINENEW_LINEHARİKA! Bunlar bir tekme vuruyor bebeğim! Tekme diyorum!",
     ["minlevel"]="55",
     ["questlevel"]="60"
 },
 
 ["9202"] = {
     ["Title"]="Zanaatkar Emir Belgesi - Büyük İyileştirme İksiri",
-    ["Description"]="Bu yazılı emrin taşıyıcısı, sözleşmeli iş emrini tamamlaması üzerine kendi seçeceği bir nişan şeklinde ödeme alma hakkına sahiptir.NEW_LINENEW_Lİş Emri AL-169110:NEW_LINENEW_L20 Büyük İyileştirme İksiri.NEW_LINENEW_LDoldurulan tüm siparişler Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim edilmelidir.NEW_LINENEW_LTahrif edilirse veya hasar görürse sözleşme hükümsüzdür.NEW_LINENEW_L-Sevk Komutanı Metz, Gümüşi Şafak",
+    ["Description"]="Bu yazılı emrin taşıyıcısı, sözleşmeli iş emrini tamamlaması üzerine kendi seçeceği bir nişan şeklinde ödeme alma hakkına sahiptir.NEW_LINENEW_LINEİş Emri AL-169110:NEW_LINENEW_L20 Büyük İyileştirme İksiri.NEW_LINENEW_LINEDoldurulan tüm siparişler Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim edilmelidir.NEW_LINENEW_LTahrif edilirse veya hasar görürse sözleşme hükümsüzdür.NEW_LINENEW_L-Sevk Komutanı Metz, Gümüşi Şafak",
     ["Objectives"]="20 Büyük İyileştirme İksiri'ni ve Zanaatkar Emir Belgesi - Büyük İyileştirme İksiri'ni Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim et.",
     ["Progress"]="Bir iş emri mi dolduruyorsun, YOUR_CLASS?",
     ["Completion"]="Ön saflardaki birliklerin bunlara ne dediğini biliyor musun? Şişedeki rahipler...NEW_LINENEW_L<Yük Katırcısı Stonebruiser şarkı söyler.>NEW_LINENEW_L\"Ben senin şişedeki rahibinim bebeğim... beni doğru şekilde içmelisin...\"NEW_LINENEW_LSorun ne evlat? Bu buralarda çok popüler bir şarkıdır.",
@@ -72035,7 +72035,7 @@ QuestTranslator_QuestData = {
 
 ["9203"] = {
     ["Title"]="Zanaatkar Emir Belgesi - Taşlaşma Matarası",
-    ["Description"]="Bu yazılı emrin taşıyıcısı, sözleşmeli iş emrini tamamlaması üzerine kendi seçeceği bir nişan şeklinde ödeme alma hakkına sahiptir.NEW_LINENEW_Lİş Emri AL-90:NEW_LINENEW_L1 Taşlaşma Matarası.NEW_LINENEW_LDoldurulan tüm siparişler Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim edilmelidir.NEW_LINENEW_LTahrif edilirse veya hasar görürse sözleşme hükümsüzdür.NEW_LINENEW_L-Sevk Komutanı Metz, Gümüşi Şafak",
+    ["Description"]="Bu yazılı emrin taşıyıcısı, sözleşmeli iş emrini tamamlaması üzerine kendi seçeceği bir nişan şeklinde ödeme alma hakkına sahiptir.NEW_LINENEW_LINEİş Emri AL-90:NEW_LINENEW_L1 Taşlaşma Matarası.NEW_LINENEW_LINEDoldurulan tüm siparişler Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim edilmelidir.NEW_LINENEW_LTahrif edilirse veya hasar görürse sözleşme hükümsüzdür.NEW_LINENEW_L-Sevk Komutanı Metz, Gümüşi Şafak",
     ["Objectives"]="1 Taşlaşma Matarası'nı ve Zanaatkar Emir Belgesi - Taşlaşma Matarası'nı Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim et.",
     ["Progress"]="Bir iş emri mi dolduruyorsun, YOUR_CLASS?",
     ["Completion"]="Yorum yok.NEW_LINENEW_L<Yük Katırcısı Stonebruiser sana dik dik bakar.>NEW_LINENEW_LYorum yok dedim! Şimdi gözümün önünden kaybol!",
@@ -72045,7 +72045,7 @@ QuestTranslator_QuestData = {
 
 ["9204"] = {
     ["Title"]="Zanaatkar Emir Belgesi - Taşpullu Yılanbalığı",
-    ["Description"]="Bu yazılı emrin taşıyıcısı, sözleşmeli iş emrini tamamlaması üzerine kendi seçeceği bir nişan şeklinde ödeme alma hakkına sahiptir.NEW_LINENEW_Lİş Emri FS-5:NEW_LINENEW_L40 Taşpullu Yılanbalığı.NEW_LINENEW_LDoldurulan tüm siparişler Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim edilmelidir.NEW_LINENEW_LTahrif edilirse veya hasar görürse sözleşme hükümsüzdür.NEW_LINENEW_L-Sevk Komutanı Metz, Gümüşi Şafak",
+    ["Description"]="Bu yazılı emrin taşıyıcısı, sözleşmeli iş emrini tamamlaması üzerine kendi seçeceği bir nişan şeklinde ödeme alma hakkına sahiptir.NEW_LINENEW_LINEİş Emri FS-5:NEW_LINENEW_L40 Taşpullu Yılanbalığı.NEW_LINENEW_LINEDoldurulan tüm siparişler Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim edilmelidir.NEW_LINENEW_LTahrif edilirse veya hasar görürse sözleşme hükümsüzdür.NEW_LINENEW_L-Sevk Komutanı Metz, Gümüşi Şafak",
     ["Objectives"]="40 Taşpullu Yılanbalığı'nı ve Zanaatkar Emir Belgesi - Taşpullu Yılanbalığı'nı Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim et.",
     ["Progress"]="Bir iş emri mi dolduruyorsun, YOUR_CLASS?",
     ["Completion"]="Bunu başka bir şey için kullanabilirdin ama yapmadın, değil mi? Artık bunun için ağlamanın alemi yok, YOUR_NAME.",
@@ -72055,7 +72055,7 @@ QuestTranslator_QuestData = {
 
 ["9205"] = {
     ["Title"]="Zanaatkar Emir Belgesi - Zırhlı Balık",
-    ["Description"]="Bu yazılı emrin taşıyıcısı, sözleşmeli iş emrini tamamlaması üzerine kendi seçeceği bir nişan şeklinde ödeme alma hakkına sahiptir.NEW_LINENEW_Lİş Emri FS-12:NEW_LINENEW_L30 Zırhlı Balık.NEW_LINENEW_LDoldurulan tüm siparişler Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim edilmelidir.NEW_LINENEW_LTahrif edilirse veya hasar görürse sözleşme hükümsüzdür.NEW_LINENEW_L-Sevk Komutanı Metz, Gümüşi Şafak",
+    ["Description"]="Bu yazılı emrin taşıyıcısı, sözleşmeli iş emrini tamamlaması üzerine kendi seçeceği bir nişan şeklinde ödeme alma hakkına sahiptir.NEW_LINENEW_LINEİş Emri FS-12:NEW_LINENEW_L30 Zırhlı Balık.NEW_LINENEW_LINEDoldurulan tüm siparişler Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim edilmelidir.NEW_LINENEW_LTahrif edilirse veya hasar görürse sözleşme hükümsüzdür.NEW_LINENEW_L-Sevk Komutanı Metz, Gümüşi Şafak",
     ["Objectives"]="30 Zırhlı Balık'ı ve Zanaatkar Emir Belgesi - Zırhlı Balık'ı Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim et.",
     ["Progress"]="Bir iş emri mi dolduruyorsun, YOUR_CLASS?",
     ["Completion"]="Gerçekten bunların ne için olduğunu bilmiyor musun?NEW_LINENEW_L<Yük Katırcısı Stonebruiser güler.>NEW_LINENEW_LSanki sana söyleyecekmişim gibi!",
@@ -72065,7 +72065,7 @@ QuestTranslator_QuestData = {
 
 ["9206"] = {
     ["Title"]="Zanaatkar Emir Belgesi - Yıldırım Yılanbalığı",
-    ["Description"]="Bu yazılı emrin taşıyıcısı, sözleşmeli iş emrini tamamlaması üzerine kendi seçeceği bir nişan şeklinde ödeme alma hakkına sahiptir.NEW_LINENEW_Lİş Emri FS-9:NEW_LINENEW_L30 Yıldırım Yılanbalığı.NEW_LINENEW_LDoldurulan tüm siparişler Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim edilmelidir.NEW_LINENEW_LTahrif edilirse veya hasar görürse sözleşme hükümsüzdür.NEW_LINENEW_L-Sevk Komutanı Metz, Gümüşi Şafak",
+    ["Description"]="Bu yazılı emrin taşıyıcısı, sözleşmeli iş emrini tamamlaması üzerine kendi seçeceği bir nişan şeklinde ödeme alma hakkına sahiptir.NEW_LINENEW_LINEİş Emri FS-9:NEW_LINENEW_L30 Yıldırım Yılanbalığı.NEW_LINENEW_LINEDoldurulan tüm siparişler Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim edilmelidir.NEW_LINENEW_LTahrif edilirse veya hasar görürse sözleşme hükümsüzdür.NEW_LINENEW_L-Sevk Komutanı Metz, Gümüşi Şafak",
     ["Objectives"]="30 Yıldırım Yılanbalığı'nı ve Zanaatkar Emir Belgesi - Yıldırım Yılanbalığı'nı Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim et.",
     ["Progress"]="Bir iş emri mi dolduruyorsun, YOUR_CLASS?",
     ["Completion"]="Bunlar dünyadaki en iyi yılanbalığı rulolarını yapar. Doğru - DÜNYADAKİ.",
@@ -72075,37 +72075,37 @@ QuestTranslator_QuestData = {
 
 ["9208"] = {
     ["Title"]="Vahşi Muhafız - Koruma Arkana Gizemi",
-    ["Description"]="Zanza, uygun bileşenlerle birçok kadim trol efsununu oluşturabilir! Vahşi Muhafız'ı duydun mu? Hayır, tabii ki duymadın. Zihnin aşağılık elf büyüsüyle bulanmış.NEW_LINENEW_LBana elf yapımı bir gizem getir ki bu sapkınlığı yok edebileyim. Bunu yap ve Vahşi Muhafız senin olsun.",
+    ["Description"]="Zanza, uygun bileşenlerle birçok kadim trol efsununu oluşturabilir! Vahşi Muhafız'ı duydun mu? Hayır, tabii ki duymadın. Zihnin aşağılık elf büyüsüyle bulanmış.NEW_LINENEW_LINEBana elf yapımı bir gizem getir ki bu sapkınlığı yok edebileyim. Bunu yap ve Vahşi Muhafız senin olsun.",
     ["Objectives"]="Zul'Gurub'daki Huzursuz Zanza bir Koruma Arkana Gizemi istiyor.",
     ["Progress"]="Gizem sende var mı?",
-    ["Completion"]="Bu efsunlardaki değersiz büyü öfkemi besliyor. Öfkem bana güç veriyor.NEW_LINENEW_LBana daha fazlasını getir ve başka bir Vahşi Muhafız al.",
+    ["Completion"]="Bu efsunlardaki değersiz büyü öfkemi besliyor. Öfkem bana güç veriyor.NEW_LINENEW_LINEBana daha fazlasını getir ve başka bir Vahşi Muhafız al.",
     ["minlevel"]="60",
     ["questlevel"]="60"
 },
 
 ["9209"] = {
     ["Title"]="Vahşi Muhafız - Çabukluk Arkana Gizemi",
-    ["Description"]="Zanza, uygun bileşenlerle birçok kadim trol efsununu oluşturabilir! Vahşi Muhafız'ı duydun mu? Hayır, tabii ki duymadın. Zihnin aşağılık elf büyüsüyle bulanmış.NEW_LINENEW_LBana elf yapımı bir gizem getir ki bu sapkınlığı yok edebileyim. Bunu yap ve Vahşi Muhafız senin olsun.",
+    ["Description"]="Zanza, uygun bileşenlerle birçok kadim trol efsununu oluşturabilir! Vahşi Muhafız'ı duydun mu? Hayır, tabii ki duymadın. Zihnin aşağılık elf büyüsüyle bulanmış.NEW_LINENEW_LINEBana elf yapımı bir gizem getir ki bu sapkınlığı yok edebileyim. Bunu yap ve Vahşi Muhafız senin olsun.",
     ["Objectives"]="Zul'Gurub'daki Huzursuz Zanza bir Çabukluk Arkana Gizemi istiyor.",
     ["Progress"]="Gizem sende var mı?",
-    ["Completion"]="Bu efsunlardaki değersiz büyü öfkemi besliyor. Öfkem bana güç veriyor.NEW_LINENEW_LBana daha fazlasını getir ve başka bir Vahşi Muhafız al.",
+    ["Completion"]="Bu efsunlardaki değersiz büyü öfkemi besliyor. Öfkem bana güç veriyor.NEW_LINENEW_LINEBana daha fazlasını getir ve başka bir Vahşi Muhafız al.",
     ["minlevel"]="60",
     ["questlevel"]="60"
 },
 
 ["9210"] = {
     ["Title"]="Vahşi Muhafız - Odaklanma Arkana Gizemi",
-    ["Description"]="Zanza, uygun bileşenlerle bir çok kadim trol efsununu oluşturabilir! Vahşi Muhafız'ı duydun mu? Hayır, tabii ki duymadın. Zihnin aşağılık elf büyüsüyle bulanmış.NEW_LINENEW_LBana elf yapımı bir gizem getir ki bu sapkınlığı yok edebileyim. Bunu yap ve Vahşi Muhafız senin olsun.",
+    ["Description"]="Zanza, uygun bileşenlerle bir çok kadim trol efsununu oluşturabilir! Vahşi Muhafız'ı duydun mu? Hayır, tabii ki duymadın. Zihnin aşağılık elf büyüsüyle bulanmış.NEW_LINENEW_LINEBana elf yapımı bir gizem getir ki bu sapkınlığı yok edebileyim. Bunu yap ve Vahşi Muhafız senin olsun.",
     ["Objectives"]="Zul'Gurub'daki Huzursuz Zanza bir Odaklanma Arkana Gizemi istiyor.",
     ["Progress"]="Gizem sende var mı?",
-    ["Completion"]="Bu efsunlardaki değersiz büyü öfkemi besliyor. Öfkem bana güç veriyor.NEW_LINENEW_LBana daha fazlasını getir ve başka bir Vahşi Muhafız al.",
+    ["Completion"]="Bu efsunlardaki değersiz büyü öfkemi besliyor. Öfkem bana güç veriyor.NEW_LINENEW_LINEBana daha fazlasını getir ve başka bir Vahşi Muhafız al.",
     ["minlevel"]="60",
     ["questlevel"]="60"
 },
 
 ["9211"] = {
     ["Title"]="Buz Muhafızı",
-    ["Description"]="Ah, Buz Muhafızı. Belirli teçhizat parçalarını kaplayan ince bir koruyucu büyü tabakasıdır. Don ve buz yaratıklarıyla savaşanlar, Buz Muhafızı'nı kullanarak onların saldırılarına karşı artan koruma elde edecekler.NEW_LINENEW_LGazapbüyücüsü'nün oluşturduğu her şeyde olduğu gibi bir bedeli var - ne kadar sızlanırsan sızlan düşürmeyeceğim bir bedel. İlgileniyor musun?",
+    ["Description"]="Ah, Buz Muhafızı. Belirli teçhizat parçalarını kaplayan ince bir koruyucu büyü tabakasıdır. Don ve buz yaratıklarıyla savaşanlar, Buz Muhafızı'nı kullanarak onların saldırılarına karşı artan koruma elde edecekler.NEW_LINENEW_LINEGazapbüyücüsü'nün oluşturduğu her şeyde olduğu gibi bir bedeli var - ne kadar sızlanırsan sızlan düşürmeyeceğim bir bedel. İlgileniyor musun?",
     ["Objectives"]="Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Gazapbüyücüsü Mataus 10 Haçlı Seferi Nişanı ve 30 altın istiyor.",
     ["Progress"]="Bu Gümüşi Şafak muhafızları olmasaydı, bu zeminde bir leke olurdun.",
     ["Completion"]="<Mataus altını cebine atar.>NEW_LINENEW_LTamir masraflarının tadını çıkar, YOUR_RACE. Naxxramas acemilere 'nazik' davranmaz.",
@@ -72195,10 +72195,10 @@ QuestTranslator_QuestData = {
 
 ["9229"] = {
     ["Title"]="Ramaladni'nin Kaderi",
-    ["Description"]="Ramaladni Kardeşlik'in bir savaşçısıydı - Şafak var olmadan önce bile Yüce Lord Mograine'in öğrencisiydi! Mograine'in ölüm haberi ona ulaştığında, nefreti ve öfkesi kontrolü ele geçirdi.NEW_LINENEW_LBunu anla, YOUR_NAME, öfke ve intikam dizginleri ele geçirdiğinde, bir adam adam olmaktan çıkar. Adam bunun yerine onu kontrol eden duyguları kişileştirir. Ve böylece intikam ruhu Ramaladni, intikam almak için Naxxramas'a girer... ve asla geri dönmez.NEW_LINENEW_LNaxxramas'a gir ve Ramaladni'ye ne olduğunu bul.",
+    ["Description"]="Ramaladni Kardeşlik'in bir savaşçısıydı - Şafak var olmadan önce bile Yüce Lord Mograine'in öğrencisiydi! Mograine'in ölüm haberi ona ulaştığında, nefreti ve öfkesi kontrolü ele geçirdi.NEW_LINENEW_LINEBunu anla, YOUR_NAME, öfke ve intikam dizginleri ele geçirdiğinde, bir adam adam olmaktan çıkar. Adam bunun yerine onu kontrol eden duyguları kişileştirir. Ve böylece intikam ruhu Ramaladni, intikam almak için Naxxramas'a girer... ve asla geri dönmez.NEW_LINENEW_LNaxxramas'a gir ve Ramaladni'ye ne olduğunu bul.",
     ["Objectives"]="Naxxramas'a gir ve Ramaladni'nin Kaderi'ni açığa çıkar.",
     ["Progress"]="Ramaladni'den haber var mı?",
-    ["Completion"]="Bu onun yüzüğü! Ama yok edilmiş. Ramaladni'ye dair başka bir kanıt bulunamadı mı?NEW_LINENEW_L<Korfax yüzünü ekşitir.>NEW_LINENEW_LBu Ramaladni için iyiye işaret değil. Yüzük ise... kurtarılabilir olabilir.",
+    ["Completion"]="Bu onun yüzüğü! Ama yok edilmiş. Ramaladni'ye dair başka bir kanıt bulunamadı mı?NEW_LINENEW_L<Korfax yüzünü ekşitir.>NEW_LINENEW_LINEBu Ramaladni için iyiye işaret değil. Yüzük ise... kurtarılabilir olabilir.",
     ["minlevel"]="60",
     ["questlevel"]="60"
 },
@@ -72215,20 +72215,20 @@ QuestTranslator_QuestData = {
 
 ["9232"] = {
     ["Title"]="Bildiğim Tek Şarkı...",
-    ["Description"]="Kendini Şafak'ın bir kahramanı sanıyorsun, ha? En büyük askerlerimizin Kel'Thuzad'ın alt tabakası tarafından ezildiğini gördüm! Bu kadar cahil biri Naxxramas'ta ne kadar başarılı olabilir?NEW_LINENEW_L<Wilhelm iç çeker.>NEW_LINENEW_LBah, ne seçeneğim var ki? Yapabileğimin en iyisi sensin; sana yardım etsem iyi olur.NEW_LINENEW_LOmarion bana bir tarif bıraktı. Bildiğim tek şarkı bu... Bu pantolonların birkaç varyasyonunu yapabilirim; sadece malzemeleri sağlaman gerekiyor.",
+    ["Description"]="Kendini Şafak'ın bir kahramanı sanıyorsun, ha? En büyük askerlerimizin Kel'Thuzad'ın alt tabakası tarafından ezildiğini gördüm! Bu kadar cahil biri Naxxramas'ta ne kadar başarılı olabilir?NEW_LINENEW_L<Wilhelm iç çeker.>NEW_LINENEW_LINEBah, ne seçeneğim var ki? Yapabileğimin en iyisi sensin; sana yardım etsem iyi olur.NEW_LINENEW_LINEOmarion bana bir tarif bıraktı. Bildiğim tek şarkı bu... Bu pantolonların birkaç varyasyonunu yapabilirim; sadece malzemeleri sağlaman gerekiyor.",
     ["Objectives"]="Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Zanaatkar Wilhelm ona 2 Donmuş Rün, 2 Su Özü, 2 Mavi Safir ve 30 altın para getirmeni istiyor.",
     ["Progress"]="Omarion ile karşılaşmadın, değil mi?",
-    ["Completion"]="<Wilhelm alnındaki teri siler.>NEW_LINENEW_LBu zor bir işti! Pantolonun tadını çıkar YOUR_CLASS. En azından artık temiz bir çift giysinin içinde öleceksin.",
+    ["Completion"]="<Wilhelm alnındaki teri siler.>NEW_LINENEW_LINEBu zor bir işti! Pantolonun tadını çıkar YOUR_CLASS. En azından artık temiz bir çift giysinin içinde öleceksin.",
     ["minlevel"]="60",
     ["questlevel"]="60"
 },
 
 ["9233"] = {
     ["Title"]="Omarion'un El Kitabı",
-    ["Description"]="Wilhelm,NEW_LINENEW_LBunu okuyorsan, öldüm demektir - nihayet. Can verirkenki düşüncelerimin senin ve zanaat becerileri konusundaki beceriksizliğin etrafında döndüğünü bilmeni isterim. Ne yazık ki, bu el kitabının taşıyıcısı zanaat konusunda senden bile daha kötü durumda.NEW_LINENEW_LKitap hakkında: Bunlar tariflerimin geri kalanı. Bu kitabın taşıyıcısı ne isterse yap. Hizmetlerin için ağır bir ücret talep edeceğinden eminim çünkü sonuçta bir pisliksin.NEW_LINENEW_LHor Görmeyle,NEW_LINENEW_LOmarion",
+    ["Description"]="Wilhelm,NEW_LINENEW_LINEBunu okuyorsan, öldüm demektir - nihayet. Can verirkenki düşüncelerimin senin ve zanaat becerileri konusundaki beceriksizliğin etrafında döndüğünü bilmeni isterim. Ne yazık ki, bu el kitabının taşıyıcısı zanaat konusunda senden bile daha kötü durumda.NEW_LINENEW_LINEKitap hakkında: Bunlar tariflerimin geri kalanı. Bu kitabın taşıyıcısı ne isterse yap. Hizmetlerin için ağır bir ücret talep edeceğinden eminim çünkü sonuçta bir pisliksin.NEW_LINENEW_LINEHor Görmeyle,NEW_LINENEW_LINEOmarion",
     ["Objectives"]="Omarion'un El Kitabı'nı Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Zanaatkar Wilhelm'e götür.",
     ["Progress"]="Bu düşündüğüm şey mi?NEW_LINENEW_L<Wilhelm'in ağzının suyu akıyor gibi görünüyor.>",
-    ["Completion"]="Bunu yazarken gerçekten aklını kaçırmış olmalı! Omarion ve ben - ayrılmaz ikiliydik!NEW_LINENEW_LHer neyse, bu kesinlikle yeni olasılıklar açıyor, YOUR_NAME. Artık daha fazla eşya işleyebilirim - elbette küçük bir ücret ve malzeme masrafları karşılığında.",
+    ["Completion"]="Bunu yazarken gerçekten aklını kaçırmış olmalı! Omarion ve ben - ayrılmaz ikiliydik!NEW_LINENEW_LINEHer neyse, bu kesinlikle yeni olasılıklar açıyor, YOUR_NAME. Artık daha fazla eşya işleyebilirim - elbette küçük bir ücret ve malzeme masrafları karşılığında.",
     ["minlevel"]="60",
     ["questlevel"]="60"
 },
@@ -72365,7 +72365,7 @@ QuestTranslator_QuestData = {
 
 ["9247"] = {
     ["Title"]="Muhafızın Çağrısı",
-    ["Description"]="YOUR_NAME,NEW_LINENEW_LGeçmiş zamanlarda Gümüşi Şafak'ın çıkarlarına hizmet ettin, her zaman yeteneklerinin en iyisini gösterdin. Şimdi, bir kez daha, en büyük ihtiyaç anımızda borazan çağrımızı çalıyoruz.NEW_LINENEW_LYOUR_NAME, bir kez daha bize yardım etmeye istekliysen lütfen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Parşömen Muhafızı'na rapor ver.",
+    ["Description"]="YOUR_NAME,NEW_LINENEW_LINEGeçmiş zamanlarda Gümüşi Şafak'ın çıkarlarına hizmet ettin, her zaman yeteneklerinin en iyisini gösterdin. Şimdi, bir kez daha, en büyük ihtiyaç anımızda borazan çağrımızı çalıyoruz.NEW_LINENEW_LYOUR_NAME, bir kez daha bize yardım etmeye istekliysen lütfen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Parşömen Muhafızı'na rapor ver.",
     ["Objectives"]="Parşömen Muhafızı'ndan Gelen Mektup'u Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan kendisine götür.",
     ["Progress"]="",
     ["Completion"]="",
@@ -72378,14 +72378,14 @@ QuestTranslator_QuestData = {
     ["Description"]="Ishnu-alah, YOUR_RACE. Bana Abis Konseyi Lordu'nun yok edildiğinin kanıtını göster, ben de seni Qiraji'ye karşı savaşlarında yardımcı olacak bir eşyayla ödüllendireyim.",
     ["Objectives"]="Silithus'taki Cenarion Kalesi'nde bulunan Aurel Goldleaf 1 Abis Asası getirmeni istiyor. Ayrıca Cenarion Çemberi ile Hürmet Edilen durumunda olmalısın.",
     ["Progress"]="Fandu-dath-belore? Oh, bağışla beni YOUR_NAME. Seni tanıyamadım. Asa sende var mı?",
-    ["Completion"]="Ande'thoras-ethil. Anadilimde 'Sıkıntıların azalsın' anlamına gelir.NEW_LINENEW_LHalkayı gururla ve sağlıkla tak, YOUR_NAME.",
+    ["Completion"]="Ande'thoras-ethil. Anadilimde 'Sıkıntıların azalsın' anlamına gelir.NEW_LINENEW_LINEHalkayı gururla ve sağlıkla tak, YOUR_NAME.",
     ["minlevel"]="58",
     ["questlevel"]="60"
 },
 
 ["9250"] = {
     ["Title"]="Atiesh Çerçevesi",
-    ["Description"]="Çerçeve oluşturulmuşken, Atiesh neredeyse tam hâle geldi. Şimdi sadece asanın başı ve tabanı eksik. Ayrıca asanın Sargeras'ın kötülüğü için bir kanal olması gibi küçük bir sorun da var.NEW_LINENEW_LKalan parçaları bulmada ve kötülüğü asadan çıkarmada sana yardımcı olabilecek birini bul.",
+    ["Description"]="Çerçeve oluşturulmuşken, Atiesh neredeyse tam hâle geldi. Şimdi sadece asanın başı ve tabanı eksik. Ayrıca asanın Sargeras'ın kötülüğü için bir kanal olması gibi küçük bir sorun da var.NEW_LINENEW_LINEKalan parçaları bulmada ve kötülüğü asadan çıkarmada sana yardımcı olabilecek birini bul.",
     ["Objectives"]="Kalan iki parçayı kurtarmada ve onu kötülükten arındırmada sana yardımcı olacak birini bul.",
     ["Progress"]="Onun zamanı gelmişti, fani.",
     ["Completion"]="Başbüyücüler öldü.NEW_LINENEW_LVefatlarına yas tutma, YOUR_NAME. Tüm bu tür şeyler takdir edilmiştir. Tıpkı Muhafız'ın asasını tutmanın takdir edildiği gibi...",
@@ -72395,7 +72395,7 @@ QuestTranslator_QuestData = {
 
 ["9251"] = {
     ["Title"]="Atiesh, Lekelenmiş Yüceasa",
-    ["Description"]="Neden hâlâ hayatta olduğunu sorguluyorsun. Ne de olsa elinde büyük bir kötülüğün eşyası var. Cevap net değil, YOUR_NAME. Ben sadece yapmam gerekeni yapıyorum.NEW_LINENEW_LKel'Thuzad Naxxramas'taki tahtında oturuyor, planlar yapıyor... O senin elindekini arıyor ve seninki de onun elindekini barındırıyor.NEW_LINENEW_LAsanın tabanına gelince; cüce Brann Bronzebeard Ahn'Qiraj'a girdiğinde onu elinde tutuyordu. Ahn'Qiraj'dan ayrıldı ama Atiesh'in tabanı orada kaldı.NEW_LINENEW_LParçaları kurtarmayı başarırsan, onları bana geri getir.",
+    ["Description"]="Neden hâlâ hayatta olduğunu sorguluyorsun. Ne de olsa elinde büyük bir kötülüğün eşyası var. Cevap net değil, YOUR_NAME. Ben sadece yapmam gerekeni yapıyorum.NEW_LINENEW_LINEKel'Thuzad Naxxramas'taki tahtında oturuyor, planlar yapıyor... O senin elindekini arıyor ve seninki de onun elindekini barındırıyor.NEW_LINENEW_LINEAsanın tabanına gelince; cüce Brann Bronzebeard Ahn'Qiraj'a girdiğinde onu elinde tutuyordu. Ahn'Qiraj'dan ayrıldı ama Atiesh'in tabanı orada kaldı.NEW_LINENEW_LINEParçaları kurtarmayı başarırsan, onları bana geri getir.",
     ["Objectives"]="Tanaris'teki Zaman Mağaraları'nda bulunan Anachronos, Atiesh'in Asa Başını ve Atiesh'in Tabanını istiyor.",
     ["Progress"]="Mevcut formunda asa, bir faninin elinde olması için fazla tehlikeli.",
     ["Completion"]="İçinde bir varlık var... bu dünyaya ait olmayan bir varlık.",
@@ -72405,7 +72405,7 @@ QuestTranslator_QuestData = {
 
 ["9269"] = {
     ["Title"]="Atiesh, Muhafızın Yüceasası",
-    ["Description"]="Bu son görev hepsinin en zoru olacak, YOUR_NAME. Hem bir Eski Tanrı hem de Lich Kralı'nın Generali ile yüzleştin ve onları yendin, ancak şimdi Sargeras'ın eliyle yüzleşmelisin.NEW_LINENEW_LAsayı Stratholme'a götür. Lordaeron'un en büyük şövalyelerinin katledildiği yer olan bir parça kutsanmış toprak parçası orada bulunmaktadır. Lekelenmiş asayı kutsal toprağa koy ve içeriden son derece güçlü bir varlığın kırılmasına hazır ol... Asayı kontrol eden iblis varlığı yen ve bana geri dön.",
+    ["Description"]="Bu son görev hepsinin en zoru olacak, YOUR_NAME. Hem bir Eski Tanrı hem de Lich Kralı'nın Generali ile yüzleştin ve onları yendin, ancak şimdi Sargeras'ın eliyle yüzleşmelisin.NEW_LINENEW_LINEAsayı Stratholme'a götür. Lordaeron'un en büyük şövalyelerinin katledildiği yer olan bir parça kutsanmış toprak parçası orada bulunmaktadır. Lekelenmiş asayı kutsal toprağa koy ve içeriden son derece güçlü bir varlığın kırılmasına hazır ol... Asayı kontrol eden iblis varlığı yen ve bana geri dön.",
     ["Objectives"]="Tanaris'teki Zaman Mağaraları'nda bulunan Anachronos, Atiesh, Muhafızın Yüceasası'nı Stratholme'a götürmeni ve Kutsanmış Toprak üzerinde kullanmanı istiyor. Asadan çıkarılan varlığı yen ve ona geri dön.",
     ["Progress"]="Müdahale etmemeliyim, YOUR_RACE.",
     ["Completion"]="Bu başarının büyüklüğü küçümsenmemeli, YOUR_NAME. Çoğu kişinin imkansız olduğunu düşüneceği şeyi yaptın. Ne yazık ki kader böyleydi. Asa seçimini yaptı.",
@@ -72415,7 +72415,7 @@ QuestTranslator_QuestData = {
 
 ["9270"] = {
     ["Title"]="Atiesh, Muhafızın Yüceasası",
-    ["Description"]="Bu son görev hepsinin en zoru olacak, YOUR_NAME. Hem bir Eski Tanrı hem de Lich Kralı'nın Generali ile yüzleştin ve onları yendin, ancak şimdi Sargeras'ın eliyle yüzleşmelisin.NEW_LINENEW_LAsayı Stratholme'a götür. Lordaeron'un en büyük şövalyelerinin katledildiği yer olan bir parça kutsanmış toprak parçası orada bulunmaktadır. Lekelenmiş asayı kutsal toprağa koy ve içeriden son derece güçlü bir varlığın kırılmasına hazır ol... Asayı kontrol eden iblis varlığı yen ve bana geri dön.",
+    ["Description"]="Bu son görev hepsinin en zoru olacak, YOUR_NAME. Hem bir Eski Tanrı hem de Lich Kralı'nın Generali ile yüzleştin ve onları yendin, ancak şimdi Sargeras'ın eliyle yüzleşmelisin.NEW_LINENEW_LINEAsayı Stratholme'a götür. Lordaeron'un en büyük şövalyelerinin katledildiği yer olan bir parça kutsanmış toprak parçası orada bulunmaktadır. Lekelenmiş asayı kutsal toprağa koy ve içeriden son derece güçlü bir varlığın kırılmasına hazır ol... Asayı kontrol eden iblis varlığı yen ve bana geri dön.",
     ["Objectives"]="Tanaris'teki Zaman Mağaraları'nda bulunan Anachronos, Atiesh, Muhafızın Yüceasası'nı Stratholme'a götürmeni ve Kutsanmış Toprak üzerinde kullanmanı istiyor. Asadan çıkarılan varlığı yen ve ona geri dön.",
     ["Progress"]="Müdahale etmemeliyim, YOUR_RACE.",
     ["Completion"]="Bu başarının büyüklüğü küçümsenmemeli, YOUR_NAME. Çoğu kişinin imkansız olduğunu düşüneceği şeyi yaptın. Ne yazık ki kader böyleydi. Asa seçimini yaptı.",
@@ -72425,7 +72425,7 @@ QuestTranslator_QuestData = {
 
 ["9271"] = {
     ["Title"]="Atiesh, Muhafızın Yüceasası",
-    ["Description"]="Bu son görev hepsinin en zoru olacak, YOUR_NAME. Hem bir Eski Tanrı hem de Lich Kralı'nın Generali ile yüzleştin ve onları yendin, ancak şimdi Sargeras'ın eliyle yüzleşmelisin.NEW_LINENEW_LAsayı Stratholme'a götür. Lordaeron'un en büyük şövalyelerinin katledildiği yer olan bir parça kutsanmış toprak parçası orada bulunmaktadır. Lekelenmiş asayı kutsal toprağa koy ve içeriden son derece güçlü bir varlığın kırılmasına hazır ol... Asayı kontrol eden iblis varlığı yen ve bana geri dön.",
+    ["Description"]="Bu son görev hepsinin en zoru olacak, YOUR_NAME. Hem bir Eski Tanrı hem de Lich Kralı'nın Generali ile yüzleştin ve onları yendin, ancak şimdi Sargeras'ın eliyle yüzleşmelisin.NEW_LINENEW_LINEAsayı Stratholme'a götür. Lordaeron'un en büyük şövalyelerinin katledildiği yer olan bir parça kutsanmış toprak parçası orada bulunmaktadır. Lekelenmiş asayı kutsal toprağa koy ve içeriden son derece güçlü bir varlığın kırılmasına hazır ol... Asayı kontrol eden iblis varlığı yen ve bana geri dön.",
     ["Objectives"]="Tanaris'teki Zaman Mağaraları'nda bulunan Anachronos, Atiesh, Muhafızın Yüceasası'nı Stratholme'a götürmeni ve Kutsanmış Toprak üzerinde kullanmanı istiyor. Asadan çıkarılan varlığı yen ve ona geri dön.",
     ["Progress"]="Müdahale etmemeliyim, YOUR_RACE.",
     ["Completion"]="Bu başarının büyüklüğü küçümsenmemeli, YOUR_NAME. Çoğu kişinin imkansız olduğunu düşüneceği şeyi yaptın. Ne yazık ki kader böyleydi. Asa seçimini yaptı.",
@@ -72438,7 +72438,7 @@ QuestTranslator_QuestData = {
     ["Description"]="Düşen iğrençliğin cesedi üzerinde, nekrotik enerjiyle yavaşça çarpan çatlak bir kristal keşfediyorsun.",
     ["Objectives"]="Çatlak Nekrotik Kristal'i Fırtınasor kapılarının dışındaki Teğmen Orrin'e götür.",
     ["Progress"]="İhtiyacın olan bir şey var mı?",
-    ["Completion"]="Hm, bunu işgalci iğrençliklerden birinin cesedinden mi aldın?NEW_LINENEW_LAfet tarafından çağrılan nekropol üs kampları hakkında haber aldık. Fırtınasor içinde bir tane oluşturmak istediklerinden şüpheleniyorum. Başarısız olmaları iyi olmuş.",
+    ["Completion"]="Hm, bunu işgalci iğrençliklerden birinin cesedinden mi aldın?NEW_LINENEW_LINEAfet tarafından çağrılan nekropol üs kampları hakkında haber aldık. Fırtınasor içinde bir tane oluşturmak istediklerinden şüpheleniyorum. Başarısız olmaları iyi olmuş.",
     ["minlevel"]="1",
     ["questlevel"]="60"
 },
@@ -72525,10 +72525,10 @@ QuestTranslator_QuestData = {
 
 ["9319"] = {
     ["Title"]="Karanlık Yerlerde Bir Işık",
-    ["Description"]="Bu bayramı kutlayan tek kişiler bizler değiliz, YOUR_NAME. Tüm yaratıklara, tüm kültürlere alev dokunur. En karanlık yerlerde bile ateşler yakılıyor.NEW_LINENEW_LEğer onları kendin görmek istiyorsan derinliklere seyahat et. Stratholme, Scholomance, Dire Maul ogreleri arasındaki ve Kara Kaya Tepesi salonlarının içindeki şenlik ateşlerini ara; dönüşünü bekleyeceğim.",
+    ["Description"]="Bu bayramı kutlayan tek kişiler bizler değiliz, YOUR_NAME. Tüm yaratıklara, tüm kültürlere alev dokunur. En karanlık yerlerde bile ateşler yakılıyor.NEW_LINENEW_LINEEğer onları kendin görmek istiyorsan derinliklere seyahat et. Stratholme, Scholomance, Dire Maul ogreleri arasındaki ve Kara Kaya Tepesi salonlarının içindeki şenlik ateşlerini ara; dönüşünü bekleyeceğim.",
     ["Objectives"]="Kara Kaya Tepesi, Dire Maul, Scholomance ve Stratholme içinde bulunan şenlik ateşlerini bul ve dokun, ardından Şenlik Alevi Muhafızı'na dön.",
     ["Progress"]="",
-    ["Completion"]="Özün bulduğun alevlerin enerjisiyle şarkı söylüyor, YOUR_NAME. Karşılaştığın ateş güçlü ve doğru bilgiyle gücü kullanılabilir...NEW_LINENEW_LAh! İşte buradayız. Nereye basarsan bas bu ışık yolunu aydınlatsın.",
+    ["Completion"]="Özün bulduğun alevlerin enerjisiyle şarkı söylüyor, YOUR_NAME. Karşılaştığın ateş güçlü ve doğru bilgiyle gücü kullanılabilir...NEW_LINENEW_LINEAh! İşte buradayız. Nereye basarsan bas bu ışık yolunu aydınlatsın.",
     ["minlevel"]="50",
     ["questlevel"]="60"
 },
@@ -72615,7 +72615,7 @@ QuestTranslator_QuestData = {
 
 ["9364"] = {
     ["Title"]="Parçalanmış Büyü",
-    ["Description"]="Araştırmam prizmatik kabuk için benzersiz bir amaç ortaya çıkardı.NEW_LINENEW_LKabuğu taşı ve Azshara'daki Spitelash üzerinde koyun büyünü yap. Birkaç an beklersen, kabuğun kaotik aurası onların birkaç saniyeliğine birkaç küçük klona bölünmesine neden olacaktır. Bu klonları olabildiğince hızlı katlet, kabuk da onların özünü toplayacaktır.NEW_LINENEW_LKabuk dolduğunda onu bana geri getir.",
+    ["Description"]="Araştırmam prizmatik kabuk için benzersiz bir amaç ortaya çıkardı.NEW_LINENEW_LINEKabuğu taşı ve Azshara'daki Spitelash üzerinde koyun büyünü yap. Birkaç an beklersen, kabuğun kaotik aurası onların birkaç saniyeliğine birkaç küçük klona bölünmesine neden olacaktır. Bu klonları olabildiğince hızlı katlet, kabuk da onların özünü toplayacaktır.NEW_LINENEW_LINEKabuk dolduğunda onu bana geri getir.",
     ["Objectives"]="Azshara'nın Spitelash'ını koyuna dönüştür ve birkaç saniye sonra beliren klonları katlet. 50 Koyun Klonu katlettiğinde Azshara'daki Başbüyücü Xylem'e dön.",
     ["Progress"]="Büyüyü topladın mı?",
     ["Completion"]="Mükemmel! Mükemmel!NEW_LINENEW_LŞimdi bu büyüyü yeni bir büyüye dönüştürebiliriz. Bak!",
@@ -72635,7 +72635,7 @@ QuestTranslator_QuestData = {
 
 ["9368"] = {
     ["Title"]="Ateş Festivali",
-    ["Description"]="Yaz Ortası bir kez daha üzerimizde!NEW_LINENEW_LHer yıl, geleneklerin emrettiği gibi, başkentlerimizdeki şenlik ateşleriyle ilgilenmek üzere Alev Muhafızları seçilir. Tüm Azeroth boyunca ateşler yanarken, sezona düzgünce hürmet etmek için bizimkilerin en sıcak ve en parlak olması zorunludur.NEW_LINENEW_LHatta sakıncası yoksa sana bir görevim var. Tüm başkentlerdeki ateşlerin düzgün yanıp yanmadığını henüz duymadım. Kendin oraya seyahat et ve ateşlerin yanında ısın--sıcak olduklarından emin ol!",
+    ["Description"]="Yaz Ortası bir kez daha üzerimizde!NEW_LINENEW_LINEHer yıl, geleneklerin emrettiği gibi, başkentlerimizdeki şenlik ateşleriyle ilgilenmek üzere Alev Muhafızları seçilir. Tüm Azeroth boyunca ateşler yanarken, sezona düzgünce hürmet etmek için bizimkilerin en sıcak ve en parlak olması zorunludur.NEW_LINENEW_LINEHatta sakıncası yoksa sana bir görevim var. Tüm başkentlerdeki ateşlerin düzgün yanıp yanmadığını henüz duymadım. Kendin oraya seyahat et ve ateşlerin yanında ısın--sıcak olduklarından emin ol!",
     ["Objectives"]="Orgrimmar, Thunder Bluff ve Altşehir içindeki şenlik ateşlerine dokun, ardından başkentlerdeki bir Şenlik Masal Anlatıcısı ile konuş.",
     ["Progress"]="Şansın yaver gitti mi, YOUR_NAME?",
     ["Completion"]="Mükemmel! Şenlik ateşleri iddia ettiğin kadar bakımlıysa bu yıl vazifeli Alev Muhafızları atamışız gibi görünüyor. Onları benim için denetlediğin için teşekkür ederim; al, saygımın küçük bir nişanesi olarak bunu kabul et.",
@@ -72665,17 +72665,17 @@ QuestTranslator_QuestData = {
 
 ["9416"] = {
     ["Title"]="General Kirika'ya Rapor Ver",
-    ["Description"]="General Kirika'nın yeni acemilerinden biri olmalısın. Ortaya çıkma vaktin gelmişti. Çölde bedenler çabuk yıpranır.NEW_LINENEW_LCüceler her gün takviye alıyor ve Silithus'taki kaynak mücadelemizde mevzi kaybetmeyi göze alamayız.NEW_LINENEW_LTalimatlarını General'den al. Seni eğitmek benim işim değil, sadece seni bulmak.",
+    ["Description"]="General Kirika'nın yeni acemilerinden biri olmalısın. Ortaya çıkma vaktin gelmişti. Çölde bedenler çabuk yıpranır.NEW_LINENEW_LINECüceler her gün takviye alıyor ve Silithus'taki kaynak mücadelemizde mevzi kaybetmeyi göze alamayız.NEW_LINENEW_LTalimatlarını General'den al. Seni eğitmek benim işim değil, sadece seni bulmak.",
     ["Objectives"]="Hive'Regal yakınındaki Güruh ordugahında bulunan General Kirika ile konuş.",
     ["Progress"]="",
-    ["Completion"]="Burada olman güzel ama boş konuşarak vakit kaybedecek zaman yok. Talimatlara ihtiyacın var ve ardından dışarı çıkman gerekiyor.NEW_LINENEW_LDinle.",
+    ["Completion"]="Burada olman güzel ama boş konuşarak vakit kaybedecek zaman yok. Talimatlara ihtiyacın var ve ardından dışarı çıkman gerekiyor.NEW_LINENEW_LINEDinle.",
     ["minlevel"]="1",
     ["questlevel"]="60"
 },
 
 ["9419"] = {
     ["Title"]="Çölü Taramak",
-    ["Description"]="Geçenlerde Güruh'un Silithus çölünü kaynaklar için taradığını öğrendik ama pek aldırış etmedik. Bu kavurucu çölde büyük sayılarda konuşlanmaya değmeyeceğini düşündük.NEW_LINENEW_LAncak kaynakların önemi keşfedildi ve şimdi yetişmek için çabalıyoruz.NEW_LINENEW_LYardımın varsa, çöle gitmeli ve silithysti kurtarıp buraya geri getirmelisin.",
+    ["Description"]="Geçenlerde Güruh'un Silithus çölünü kaynaklar için taradığını öğrendik ama pek aldırış etmedik. Bu kavurucu çölde büyük sayılarda konuşlanmaya değmeyeceğini düşündük.NEW_LINENEW_LINEAncak kaynakların önemi keşfedildi ve şimdi yetişmek için çabalıyoruz.NEW_LINENEW_LYardımın varsa, çöle gitmeli ve silithysti kurtarıp buraya geri getirmelisin.",
     ["Objectives"]="Silithyst'i bulup Silithyst Sökücüsü'ne teslim et, ardından Hive'Zora yakınındaki İttifak ordugahında buluna Mareşal Maviçeper ile konuş.",
     ["Progress"]="Dışarıda dikkatli ol ama aynı zamanda hızlı ol. Kaybedecek vaktimiz yok.",
     ["Completion"]="Işığa şükürler olsun ki başarılı oldun.NEW_LINENEW_LŞimdi buna daha önce başlayabilseydik, ihtiyacımız bu kadar umutsuz olmazdı. Çölün bereketinin Güruh'un eline geçmesini engellemeliyiz.",
@@ -72685,7 +72685,7 @@ QuestTranslator_QuestData = {
 
 ["9422"] = {
     ["Title"]="Çölü Taramak",
-    ["Description"]="Bir süredir Silithus çölünün kristal kaynaklarını kullanıyoruz. Karşılaştığımız tek tehlikeler burayı evleri yapan yaratıklardan ve ezici kum, toz ve sıcaklıktandı.NEW_LINENEW_LAcak şimdi İttifak burada bulduğumuz şeyi anlamış gibi görünüyor. Doğal kaynakları ele geçirmek ve birbirimizden uzak tutmak artık aramızda bir yarış.NEW_LINENEW_LMevcut olan her el çiftine ihtiyacım var. Seninkilere de sahip olmayı umuyorum.",
+    ["Description"]="Bir süredir Silithus çölünün kristal kaynaklarını kullanıyoruz. Karşılaştığımız tek tehlikeler burayı evleri yapan yaratıklardan ve ezici kum, toz ve sıcaklıktandı.NEW_LINENEW_LINEAcak şimdi İttifak burada bulduğumuz şeyi anlamış gibi görünüyor. Doğal kaynakları ele geçirmek ve birbirimizden uzak tutmak artık aramızda bir yarış.NEW_LINENEW_LINEMevcut olan her el çiftine ihtiyacım var. Seninkilere de sahip olmayı umuyorum.",
     ["Objectives"]="Silithyst'i bulup Silithyst Sökücüsü'ne teslim et, ardından Hive'Regal yakınındaki Güruh ordugahında bulunan General Kirika ile konuş.",
     ["Progress"]="Çölün tehlikelerine karşı tetikte ol, YOUR_NAME. Kum tepelerinde pusuda bekleyen İttifak varken, her adımın son adımın olabilir.",
     ["Completion"]="İyi iş çıkardın, YOUR_NAME. Bu kaynaklar stoklarımıza eklenecek ve her bir kırıntısı bizim kazancımız ve düşmanımızın kaybıdır.",
@@ -72695,7 +72695,7 @@ QuestTranslator_QuestData = {
 
 ["9664"] = {
     ["Title"]="Yeni Karakollar Kurmak",
-    ["Description"]="Veba Toprakları'na hoş geldin, YOUR_NAME. Bildiğin gibi Terkedilmişler ve müttefikleri buranın batısındaki toprakları tüm çabalarımıza rağmen elinde tutuyor. İttifak komutanları, burada doğuda düşmanlarımızın etrafındaki ilmiği sıkılaştırmak için yeni tahkimatlar kurmamıza karar verdi.NEW_LINENEW_LLordaeron günlerinden beri terk edilmiş kuleler bu amaçla ele geçirilmeli ve yeniden inşa edilmelidir. Bu topraklar tehlikeli ve yardımını kullanabiliriz.",
+    ["Description"]="Veba Toprakları'na hoş geldin, YOUR_NAME. Bildiğin gibi Terkedilmişler ve müttefikleri buranın batısındaki toprakları tüm çabalarımıza rağmen elinde tutuyor. İttifak komutanları, burada doğuda düşmanlarımızın etrafındaki ilmiği sıkılaştırmak için yeni tahkimatlar kurmamıza karar verdi.NEW_LINENEW_LINELordaeron günlerinden beri terk edilmiş kuleler bu amaçla ele geçirilmeli ve yeniden inşa edilmelidir. Bu topraklar tehlikeli ve yardımını kullanabiliriz.",
     ["Objectives"]="Doğu Veba Toprakları'ndaki Taç Muhafızı Kulesi, Doğu Duvarı Kulesi, Kuzey Geçidi Kulesi ve Vebakorusu Kulesi'ni ele geçir, ardından Işık Umudu Şapeli'ndeki Elçi Aksoylu'ya dön.",
     ["Progress"]="Kuleler kontrolümüz altına girdiğinde, yakında Terkedilmişler'i kuşatabileceğiz. Ondan sonra onları ezmemiz an meselesi.",
     ["Completion"]="Çok iyi, YOUR_NAME. Gelecekteki saldırılara karşı bu kuleleri elde tutmamız önemli olacak ve bunun için bölgeyi emniyete almak üzere takviye kuvvetler getirilene kadar yardımına ihtiyacımız olabilir.",
@@ -72705,17 +72705,17 @@ QuestTranslator_QuestData = {
 
 ["9665"] = {
     ["Title"]="Savunmalarımızı Güçlendirmek",
-    ["Description"]="Terkedilmişler ajanları, İttifak'ın Doğu Veba Toprakları'nda, bölgedeki terk edilmiş kulelerde yeni üsler kurma planını ortaya çıkardı.NEW_LINENEW_LDoğu sınırlarımızda önemli bir varlık göstermelerine izin vermememiz zorunludur ve bu nedenle bu İttifak sızmasını savuşturmalıyız. Mevcut planlarımız onları zaten ele geçirmiş olabilecekleri tüm kulelerden sürmek ve kontrolümüz altında olanları daha fazla saldırıya karşı işgal etmektir.",
+    ["Description"]="Terkedilmişler ajanları, İttifak'ın Doğu Veba Toprakları'nda, bölgedeki terk edilmiş kulelerde yeni üsler kurma planını ortaya çıkardı.NEW_LINENEW_LINEDoğu sınırlarımızda önemli bir varlık göstermelerine izin vermememiz zorunludur ve bu nedenle bu İttifak sızmasını savuşturmalıyız. Mevcut planlarımız onları zaten ele geçirmiş olabilecekleri tüm kulelerden sürmek ve kontrolümüz altında olanları daha fazla saldırıya karşı işgal etmektir.",
     ["Objectives"]="Doğu Veba Toprakları'ndaki Taç Muhafızı Kulesi, Doğu Duvarı Kulesi, Kuzey Geçidi Kulesi ve Vebakorusu Kulesi'ni ele geçir, ardından Işık Umudu Şapeli'ndeki Elçi Gormok'a dön.",
-    ["Progress"]="Başkentlerimizden birine bu kadar yakın üsler kurmamıza izin vereceğimizi düşünecek kadar aptal olmalılar.NEW_LINENEW_LGeri çekilip güneye kaçana kadar sayılarını eksilteceğiz.",
-    ["Completion"]="Bu iyi bir haber, YOUR_NAME. İttifak kuvvetlerini tamamen püskürtene kadar Veba Toprakları'nda sürekli bir mücadele olacak.NEW_LINENEW_LO güne kadar devam eden yardımını alacağımızı umuyorum.",
+    ["Progress"]="Başkentlerimizden birine bu kadar yakın üsler kurmamıza izin vereceğimizi düşünecek kadar aptal olmalılar.NEW_LINENEW_LINEGeri çekilip güneye kaçana kadar sayılarını eksilteceğiz.",
+    ["Completion"]="Bu iyi bir haber, YOUR_NAME. İttifak kuvvetlerini tamamen püskürtene kadar Veba Toprakları'nda sürekli bir mücadele olacak.NEW_LINENEW_LINEO güne kadar devam eden yardımını alacağımızı umuyorum.",
     ["minlevel"]="55",
     ["questlevel"]="60"
 },
 
 ["1289"] = {
     ["Title"]="Vimes'ın Raporu",
-    ["Description"]="Pekala. Yüzbaşı Vimes'ın raporuna bakılırsa, soruşturmasına büyük yardımın dokunmuş ve bunun için sana teşekkür ederim.NEW_LINENEW_LMesele nin bu kadar yetenekli ellerde olduğunu bilerek içimi daha rahat tutabilirim. İstersen, Yüzbaşı Vimes'a dönmeni ve bu gizemin özüne inmesinde ona yardım etmeni rica edeceğim.",
+    ["Description"]="Pekala. Yüzbaşı Vimes'ın raporuna bakılırsa, soruşturmasına büyük yardımın dokunmuş ve bunun için sana teşekkür ederim.NEW_LINENEW_LINEMesele nin bu kadar yetenekli ellerde olduğunu bilerek içimi daha rahat tutabilirim. İstersen, Yüzbaşı Vimes'a dönmeni ve bu gizemin özüne inmesinde ona yardım etmeni rica edeceğim.",
     ["Objectives"]="Theramore'daki Yüzbaşı Garran Vimes'a dön.",
     ["Progress"]="",
     ["Completion"]="",
@@ -72745,7 +72745,7 @@ QuestTranslator_QuestData = {
 
 ["5659"] = {
     ["Title"]="Zayıflık Dokunuşu",
-    ["Description"]="Burası senin için bir yer değil, YOUR_NAME. Bir an önce Altşehir'deki Savaş Bölgesi'ne gitmelisin. Aelthalyste hazır olur olmaz tüm rahip ve rahibelerini oraya çağırdı. Güçleri ve onu nasıl kullanacakları hakkında daha fazla şey öğrenmelerinin vakti geldi.NEW_LINENEW_LGecikmelere veya mazeretlere müsamaha göstermeyecektir, bu yüzden yola koyulsan iyi olur.",
+    ["Description"]="Burası senin için bir yer değil, YOUR_NAME. Bir an önce Altşehir'deki Savaş Bölgesi'ne gitmelisin. Aelthalyste hazır olur olmaz tüm rahip ve rahibelerini oraya çağırdı. Güçleri ve onu nasıl kullanacakları hakkında daha fazla şey öğrenmelerinin vakti geldi.NEW_LINENEW_LINEGecikmelere veya mazeretlere müsamaha göstermeyecektir, bu yüzden yola koyulsan iyi olur.",
     ["Objectives"]="Altşehir'deki Aelthalyste ile konuş.",
     ["Progress"]="",
     ["Completion"]="Ah, güzel, bir başkası daha geldi. Zaman benim için önemli olmayabilir ama senin için esastır. Öğrenmen gereken çok şey var ve sana öğretmek istediğim çok şey var. Sadece değerini kanıtlamalısın. Bunu yap ve fazlasıyla ödüllendirileceksin.",
@@ -72755,30 +72755,30 @@ QuestTranslator_QuestData = {
 
 ["8792"] = {
     ["Title"]="Güruh'un Yardımına İhtiyacı Var!",
-    ["Description"]="Merhaba, beni dinlemeye karar verdiğin için sevindim. Güruh'un Ahn'Qiraj Savaşı'na hazırlanmak için alabileceği tüm yardıma ihtiyacı var ve bu da sana ihtiyacımız olduğu anlamına geliyor! Şu an biz konuşurken bile resmi toplayıcılar yaklaşan savaş için gerekli malzemeleri topluyorlar ama senin yardımın olmadan hedeflerimize ulaşamayacağız, YOUR_NAME!NEW_LINENEW_LGidip yetkili kişiyle, Savaşlordu Gorchuk ile konuşmalısın. Ne diyorsun YOUR_CLASS? Hayati hazırlıklara yardım edecek misin?",
+    ["Description"]="Merhaba, beni dinlemeye karar verdiğin için sevindim. Güruh'un Ahn'Qiraj Savaşı'na hazırlanmak için alabileceği tüm yardıma ihtiyacı var ve bu da sana ihtiyacımız olduğu anlamına geliyor! Şu an biz konuşurken bile resmi toplayıcılar yaklaşan savaş için gerekli malzemeleri topluyorlar ama senin yardımın olmadan hedeflerimize ulaşamayacağız, YOUR_NAME!NEW_LINENEW_LINEGidip yetkili kişiyle, Savaşlordu Gorchuk ile konuşmalısın. Ne diyorsun YOUR_CLASS? Hayati hazırlıklara yardım edecek misin?",
     ["Objectives"]="Orgrimmar'ın Ruhlar Vadisi'ndeki Savaşlordu Gorchuk ile konuş.",
     ["Progress"]="",
-    ["Completion"]="Throm'ka, YOUR_CLASS! Yaklaşan Ahn'Qiraj Savaşı'nın altyapısını hazırlamada destek olmak için senin gibi Güruh üyelerinin öne çıktığını görmek güzel, YOUR_NAME. Buradaki çaba, Silithid'lere ve Ahn'Qiraj'ın içinde saklanan kötü efendilerine karşı muzaffer olmamızı sağlayacaktır.NEW_LINENEW_LMadem buradasın, çeşitli toplayıcılarla konuştuğundan ve uygun olduğun malzemeleri toplamada yardım teklif ettiğinden emin ol.",
+    ["Completion"]="Throm'ka, YOUR_CLASS! Yaklaşan Ahn'Qiraj Savaşı'nın altyapısını hazırlamada destek olmak için senin gibi Güruh üyelerinin öne çıktığını görmek güzel, YOUR_NAME. Buradaki çaba, Silithid'lere ve Ahn'Qiraj'ın içinde saklanan kötü efendilerine karşı muzaffer olmamızı sağlayacaktır.NEW_LINENEW_LINEMadem buradasın, çeşitli toplayıcılarla konuştuğundan ve uygun olduğun malzemeleri toplamada yardım teklif ettiğinden emin ol.",
     ["minlevel"]="1",
     ["questlevel"]="60"
 },
 
 ["8793"] = {
     ["Title"]="Güruh'un Yardımına İhtiyacı Var!",
-    ["Description"]="Merhaba, beni dinlemeye karar verdiğin için sevindim. Güruh'un Ahn'Qiraj Savaşı'na hazırlanmak için alabileceği tüm yardıma ihtiyacı var ve bu da sana ihtiyacımız olduğu anlamına geliyor! Şu an biz konuşurken bile resmi toplayıcılar yaklaşan savaş için gerekli malzemeleri topluyorlar ama senin yardımın olmadan hedeflerimize ulaşamayacağız, YOUR_NAME!NEW_LINENEW_LGidip yetkili kişiyle, Savaşlordu Gorchuk ile konuşmalısın. Ne diyorsun YOUR_CLASS? Hayati hazırlıklara yardım edecek misin?",
+    ["Description"]="Merhaba, beni dinlemeye karar verdiğin için sevindim. Güruh'un Ahn'Qiraj Savaşı'na hazırlanmak için alabileceği tüm yardıma ihtiyacı var ve bu da sana ihtiyacımız olduğu anlamına geliyor! Şu an biz konuşurken bile resmi toplayıcılar yaklaşan savaş için gerekli malzemeleri topluyorlar ama senin yardımın olmadan hedeflerimize ulaşamayacağız, YOUR_NAME!NEW_LINENEW_LINEGidip yetkili kişiyle, Savaşlordu Gorchuk ile konuşmalısın. Ne diyorsun YOUR_CLASS? Hayati hazırlıklara yardım edecek misin?",
     ["Objectives"]="Orgrimmar'ın Ruhlar Vadisi'ndeki Savaşlordu Gorchuk ile konuş.",
     ["Progress"]="",
-    ["Completion"]="Throm'ka, YOUR_CLASS! Yaklaşan Ahn'Qiraj Savaşı'nın altyapısını hazırlamada destek olmak için senin gibi Güruh üyelerinin öne çıktığını görmek güzel, YOUR_NAME. Buradaki çaba, Silithid'lere ve Ahn'Qiraj'ın içinde saklanan kötü efendilerine karşı muzaffer olmamızı sağlayacaktır.NEW_LINENEW_LMadem buradasın, çeşitli toplayıcılarla konuştuğundan ve uygun olduğun malzemeleri toplamada yardım teklif ettiğinden emin ol.",
+    ["Completion"]="Throm'ka, YOUR_CLASS! Yaklaşan Ahn'Qiraj Savaşı'nın altyapısını hazırlamada destek olmak için senin gibi Güruh üyelerinin öne çıktığını görmek güzel, YOUR_NAME. Buradaki çaba, Silithid'lere ve Ahn'Qiraj'ın içinde saklanan kötü efendilerine karşı muzaffer olmamızı sağlayacaktır.NEW_LINENEW_LINEMadem buradasın, çeşitli toplayıcılarla konuştuğundan ve uygun olduğun malzemeleri toplamada yardım teklif ettiğinden emin ol.",
     ["minlevel"]="1",
     ["questlevel"]="60"
 },
 
 ["8794"] = {
     ["Title"]="Güruh'un Yardımına İhtiyacı Var!",
-    ["Description"]="Merhaba, beni dinlemeye karar verdiğin için sevindim. Güruh'un Ahn'Qiraj Savaşı'na hazırlanmak için alabileceği tüm yardıma ihtiyacı var ve bu da sana ihtiyacımız olduğu anlamına geliyor! Şu an biz konuşurken bile resmi toplayıcılar yaklaşan savaş için gerekli malzemeleri topluyorlar ama senin yardımın olmadan hedeflerimize ulaşamayacağız, YOUR_NAME!NEW_LINENEW_LGidip yetkili kişiyle, Savaşlordu Gorchuk ile konuşmalısın. Ne diyorsun YOUR_CLASS? Hayati hazırlıklara yardım edecek misin?",
+    ["Description"]="Merhaba, beni dinlemeye karar verdiğin için sevindim. Güruh'un Ahn'Qiraj Savaşı'na hazırlanmak için alabileceği tüm yardıma ihtiyacı var ve bu da sana ihtiyacımız olduğu anlamına geliyor! Şu an biz konuşurken bile resmi toplayıcılar yaklaşan savaş için gerekli malzemeleri topluyorlar ama senin yardımın olmadan hedeflerimize ulaşamayacağız, YOUR_NAME!NEW_LINENEW_LINEGidip yetkili kişiyle, Savaşlordu Gorchuk ile konuşmalısın. Ne diyorsun YOUR_CLASS? Hayati hazırlıklara yardım edecek misin?",
     ["Objectives"]="Orgrimmar'ın Ruhlar Vadisi'ndeki Savaşlordu Gorchuk ile konuş.",
     ["Progress"]="",
-    ["Completion"]="Throm'ka, YOUR_CLASS! Yaklaşan Ahn'Qiraj Savaşı'nın altyapısını hazırlamada destek olmak için senin gibi Güruh üyelerinin öne çıktığını görmek güzel, YOUR_NAME. Buradaki çaba, Silithid'lere ve Ahn'Qiraj'ın içinde saklanan kötü efendilerine karşı muzaffer olmamızı sağlayacaktır.NEW_LINENEW_LMadem buradasın, çeşitli toplayıcılarla konuştuğundan ve uygun olduğun malzemeleri toplamada yardım teklif ettiğinden emin ol.",
+    ["Completion"]="Throm'ka, YOUR_CLASS! Yaklaşan Ahn'Qiraj Savaşı'nın altyapısını hazırlamada destek olmak için senin gibi Güruh üyelerinin öne çıktığını görmek güzel, YOUR_NAME. Buradaki çaba, Silithid'lere ve Ahn'Qiraj'ın içinde saklanan kötü efendilerine karşı muzaffer olmamızı sağlayacaktır.NEW_LINENEW_LINEMadem buradasın, çeşitli toplayıcılarla konuştuğundan ve uygun olduğun malzemeleri toplamada yardım teklif ettiğinden emin ol.",
     ["minlevel"]="1",
     ["questlevel"]="60"
 },
@@ -72786,9 +72786,9 @@ QuestTranslator_QuestData = {
 ["8846"] = {
     ["Title"]="Savaş Malzemeleri İçin Beş Mühür",
     ["Description"]="",
-    ["Objectives"]="Öyleyse anlaştık; işte erzakların YOUR_CLASS. Ek bir takas yapmak istersen, bunu yetkilendirmeye hazırım. Sadece kelimeyi söyle, gerçekleşmesini sağlayayım.NEW_LINENEW_Lİyi iş çıkarmaya devam et, YOUR_NAME. Bu işi kazanacaksak toplayabileceğimiz tüm mühimmatlara ihtiyacımız var. Hepimiz üzerimize düşeni yaparsak, zafer bizim olacaktır!",
+    ["Objectives"]="Öyleyse anlaştık; işte erzakların YOUR_CLASS. Ek bir takas yapmak istersen, bunu yetkilendirmeye hazırım. Sadece kelimeyi söyle, gerçekleşmesini sağlayayım.NEW_LINENEW_LINEİyi iş çıkarmaya devam et, YOUR_NAME. Bu işi kazanacaksak toplayabileceğimiz tüm mühimmatlara ihtiyacımız var. Hepimiz üzerimize düşeni yaparsak, zafer bizim olacaktır!",
     ["Progress"]="Ah, kendin için ek erzak almaya geldin, değil mi? Pekala, ek mühimmat ihtiyacını kesinlikle anlayabiliyorum... Herhangi bir kanıt gerekiyorsa etrafına bir bakman yeterli.NEW_LINENEW_LSana bazı ek erzaklar vereceğim ama karşılığında bana uygun sayıda takdir mührü vermen gerekecek. Mühürleri bu şekilde teslim ettiğin için hiçbir resmi takdir almayacaksın ama savaş nihayet üzerimize çöktüğünde seni hayatta tutmaya yardımcı olacak yararlı bir şey bulabilirsin.",
-    ["Completion"]="Öyleyse anlaştık; işte erzakların YOUR_CLASS. Ek bir takas yapmak istersen, bunu yetkilendirmeye hazırım. Sadece kelimeyi söyle, gerçekleşmesini sağlayayım.NEW_LINENEW_Lİyi iş çıkarmaya devam et, YOUR_NAME. Bu işi kazanacaksak toplayabileceğimiz tüm mühimmatlara ihtiyacımız var. Hepimiz üzerimize düşeni yaparsak, zafer bizim olacaktır!",
+    ["Completion"]="Öyleyse anlaştık; işte erzakların YOUR_CLASS. Ek bir takas yapmak istersen, bunu yetkilendirmeye hazırım. Sadece kelimeyi söyle, gerçekleşmesini sağlayayım.NEW_LINENEW_LINEİyi iş çıkarmaya devam et, YOUR_NAME. Bu işi kazanacaksak toplayabileceğimiz tüm mühimmatlara ihtiyacımız var. Hepimiz üzerimize düşeni yaparsak, zafer bizim olacaktır!",
     ["minlevel"]="10",
     ["questlevel"]="19"
 },
@@ -72798,7 +72798,7 @@ QuestTranslator_QuestData = {
     ["Description"]="Maceracıların yardımı olmasaydı kervanım asla başaramazdı! Buraya ulaşmamızı engellemek için Afet her yerden çıkıyordu.NEW_LINENEW_L<Muhafız Didier alnını siler.>NEW_LINENEW_LŞimdi burada Saha Mareşali Chambers'ın gelmesini beklememiz gerekiyor. Işık Umudu Şapeli'ndeki Sevk Komutanı Metz'e geri götürmen için güvenli geçiş izin belgeni imzalayacak.NEW_LINENEW_LVe YOUR_NAME, Chambers'ın yanında ne söylediğine dikkat et. Kendisi 'kafanı koparıp nefes borundan aşağı tüküren' türden bir adamdır - ama bunu gerçekten yapacaktır...",
     ["Objectives"]="İmzalanmış Güvenli Geçiş İzin Belgesi'ni Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Sevk Komutanı Metz'e teslim et.",
     ["Progress"]="İsim, rütbe ve seri numarası!",
-    ["Completion"]="<Sevk Komutanı Metz izin belgesini alır ve imzalar.>NEW_LINENEW_LHarika iş, YOUR_NAME. Mükemmel bile denebilir! Takdirimizin bir nişanesi olarak bunu al. Çömez, amaçlanan bir espri değildi.",
+    ["Completion"]="<Sevk Komutanı Metz izin belgesini alır ve imzalar.>NEW_LINENEW_LINEHarika iş, YOUR_NAME. Mükemmel bile denebilir! Takdirimizin bir nişanesi olarak bunu al. Çömez, amaçlanan bir espri değildi.",
     ["minlevel"]="55",
     ["questlevel"]="60"
 },
@@ -72808,17 +72808,17 @@ QuestTranslator_QuestData = {
     ["Description"]="Kaynağı bulmalıyız. Yaldızlı Gül'e giren ve çıkan - muhafızlar da dahil - normalden çok daha fazla insan gördüm. Allison ile konuş. Onları satıyorsa nereden geldiklerini söyleyebilir.",
     ["Objectives"]="Stormwind'in Ticaret Bölgesi'ndeki Yaldızlı Gül'de bulunan Hancı Allison ile konuş.",
     ["Progress"]="",
-    ["Completion"]="Ah evet, parfüm ve kolonyayı stoklarıma yeni aldım. O kadar iyi satıyor ki raflarda ne kadar tutabilirim bilmiyorum.NEW_LINENEW_LBana sorarsan biraz sıkıcı. Herkesin aynı kokması mı? Harika kokuyor ama yine de.",
+    ["Completion"]="Ah evet, parfüm ve kolonyayı stoklarıma yeni aldım. O kadar iyi satıyor ki raflarda ne kadar tutabilirim bilmiyorum.NEW_LINENEW_LINEBana sorarsan biraz sıkıcı. Herkesin aynı kokması mı? Harika kokuyor ama yine de.",
     ["minlevel"]="1",
     ["questlevel"]="60"
 },
 
 ["1657"] = {
     ["Title"]="Southshore'u Kaskatı Kokutmak",
-    ["Description"]="Cadılar Bayramı'nı tarzınla kutla... Southshore'daki düşmanlarımıza keder getirerek!NEW_LINENEW_LINEÖzel olarak işlenmiş bu koku bombalarından birini al. Hiçbir insanın - ya da o konuda zayıf iradeli herhangi bir canavarın - dayanamayacağı kokuşmuş bir kokuyla doludur. İşini yapması için onu doğrudan Southshore'un kalbine fırlatman gerekecek, bu yüzden İttifak'a karşı bir dövüşe hazır ol!NEW_LINENEW_LBu görevi... özgürleşmemize yapılan bu hürmeti tamamladığında bana geri dön!",
+    ["Description"]="Cadılar Bayramı'nı tarzınla kutla... Southshore'daki düşmanlarımıza keder getirerek!NEW_LINENEW_LINEÖzel olarak işlenmiş bu koku bombalarından birini al. Hiçbir insanın - ya da o konuda zayıf iradeli herhangi bir canavarın - dayanamayacağı kokuşmuş bir kokuyla doludur. İşini yapması için onu doğrudan Southshore'un kalbine fırlatman gerekecek, bu yüzden İttifak'a karşı bir dövüşe hazır ol!NEW_LINENEW_LINEBu görevi... özgürleşmemize yapılan bu hürmeti tamamladığında bana geri dön!",
     ["Objectives"]="Tirisfal Korusundaki Hasat Festivali'nde bulunan Koyuçağırıcı Yanka'ya dönmeden önce Tepelik Araziler'deki Southshore'un kalbine üç Terkedilmiş Koku Bombası fırlat.",
     ["Progress"]="Hediyemizi Southshore halkına teslim ettin mi?NEW_LINENEW_LINE<Koyuçağırıcı Yanka haince güler.>",
-    ["Completion"]="Ah, aferin! Umarım İttifak, tıpkı bizim Afet'e kölelik boyunduruğunda boğulmaya zorlandığımız gibi, verdiğimiz bu kokuşmuş hediyeyle boğulur!NEW_LINENEW_LCadılar Bayramı düşüncelerini sadık tuttun, YOUR_NAME ve bunun için seni selamlıyorum. Ek bir bonus olarak, elimdeki bu Cadılar Bayramı ikramlarından bazılarını seninle paylaşmama izin ver. Sanırım onları oldukça keyifli bir eğlence olarak bulabilirsin!",
+    ["Completion"]="Ah, aferin! Umarım İttifak, tıpkı bizim Afet'e kölelik boyunduruğunda boğulmaya zorlandığımız gibi, verdiğimiz bu kokuşmuş hediyeyle boğulur!NEW_LINENEW_LINECadılar Bayramı düşüncelerini sadık tuttun, YOUR_NAME ve bunun için seni selamlıyorum. Ek bir bonus olarak, elimdeki bu Cadılar Bayramı ikramlarından bazılarını seninle paylaşmama izin ver. Sanırım onları oldukça keyifli bir eğlence olarak bulabilirsin!",
     ["minlevel"]="25",
     ["questlevel"]="60"
 },
@@ -72827,7 +72827,7 @@ QuestTranslator_QuestData = {
     ["Title"]="Jubjub'un Yavrusu",
     ["Description"]="",
     ["Objectives"]="",
-    ["Progress"]="Jubjub'un artık kayıp olmamasına çok sevindim. kara demir birasını o kadar çok seviyor ki biram bittiğinde... daha fazlasını bulmak için kaçtı!NEW_LINENEW_LŞimdi Jubjub geri döndü, alabildiğim kadar çok bira istiyorum! Tekrar kaçmasını istemiyorum!NEW_LINENEW_LHiç kara demir Birası var mı? Varsa, bir maşrapa için Jubjub'un kurbağa yumurtalarından birini seninle takas edeceğim...",
+    ["Progress"]="Jubjub'un artık kayıp olmamasına çok sevindim. kara demir birasını o kadar çok seviyor ki biram bittiğinde... daha fazlasını bulmak için kaçtı!NEW_LINENEW_LŞimdi Jubjub geri döndü, alabildiğim kadar çok bira istiyorum! Tekrar kaçmasını istemiyorum!NEW_LINENEW_LINEHiç kara demir Birası var mı? Varsa, bir maşrapa için Jubjub'un kurbağa yumurtalarından birini seninle takas edeceğim...",
     ["Completion"]="Teşekkür ederim, YOUR_NAME. İşte yumurtan! Bir süre yumurtadan çıkmaya hazır olmayacak ama çıktığında harika bir evcil hayvanın olacak!",
     ["minlevel"]="1",
     ["questlevel"]="1"
@@ -72837,7 +72837,7 @@ QuestTranslator_QuestData = {
     ["Title"]="Usta Balıkçı",
     ["Description"]="",
     ["Objectives"]="",
-    ["Progress"]="Bugün saat 14:00 ile 16:00 arasında aralarındaki en büyük balıkçının kim olduğunu belirlemek için bir yarışmamız var! Başka hiç kimseden önce Stranglethorn kıyılarında bulunan Lezzetli Balık sürülerinden avlanan 40 Lezzetli Balık'ı bana getiren İLK KİŞİ ol ve Usta Balıkçı ilan edil!NEW_LINENEW_LBana 40 balık getiren ilk kişi sen olmazsan, buradaki çırağım ona getirdiğin her 5 Lezzetli Balık için seni yine de parayla ödüllendirecektir.NEW_LINENEW_LAh, ve gecikme, Lezzetli Balık çabuk bozulur!",
+    ["Progress"]="Bugün saat 14:00 ile 16:00 arasında aralarındaki en büyük balıkçının kim olduğunu belirlemek için bir yarışmamız var! Başka hiç kimseden önce Stranglethorn kıyılarında bulunan Lezzetli Balık sürülerinden avlanan 40 Lezzetli Balık'ı bana getiren İLK KİŞİ ol ve Usta Balıkçı ilan edil!NEW_LINENEW_LINEBana 40 balık getiren ilk kişi sen olmazsan, buradaki çırağım ona getirdiğin her 5 Lezzetli Balık için seni yine de parayla ödüllendirecektir.NEW_LINENEW_LINEAh, ve gecikme, Lezzetli Balık çabuk bozulur!",
     ["Completion"]="Usta Balıkçı ilan edilmek istiyorsan acele et ve onları teslim et! SAATLERDİR yiyecek hiçbir şey olmadan burada dikiliyorum! O enayi balıkları uzat!",
     ["minlevel"]="1",
     ["questlevel"]="60"
@@ -72857,7 +72857,7 @@ QuestTranslator_QuestData = {
     ["Title"]="Öz Mangoları",
     ["Description"]="",
     ["Objectives"]="",
-    ["Progress"]="Son derece etkili öz mangosu Güney Denizleri'ndeki adaların çoğunda yetişir. Tek bir mango onu yiyenleri hem fiziksel hem de zihinsel olarak tazeler. Hiç yemediysen kendin için kötülük ediyorsun!NEW_LINENEW_LBir Zandalar Onur Jetonu karşılığında sana bir avuç sunacak kadar adamızda stokumuz var. Jetonları nasıl alacağını öğrenmek istiyorsan Vinchaxa ile konuş; aksi takdirde elimizdeki işe bakalım!",
+    ["Progress"]="Son derece etkili öz mangosu Güney Denizleri'ndeki adaların çoğunda yetişir. Tek bir mango onu yiyenleri hem fiziksel hem de zihinsel olarak tazeler. Hiç yemediysen kendin için kötülük ediyorsun!NEW_LINENEW_LINEBir Zandalar Onur Jetonu karşılığında sana bir avuç sunacak kadar adamızda stokumuz var. Jetonları nasıl alacağını öğrenmek istiyorsan Vinchaxa ile konuş; aksi takdirde elimizdeki işe bakalım!",
     ["Completion"]="Adil bir takas dostum - lütfen kabilenin kutsamasıyla Güney Denizleri'nin lezzetli meyvelerinin tadını çıkar.",
     ["minlevel"]="58",
     ["questlevel"]="60"
@@ -72867,8 +72867,8 @@ QuestTranslator_QuestData = {
     ["Title"]="Nadir Balık - Keefer'ın Melekbalığı",
     ["Description"]="",
     ["Objectives"]="",
-    ["Progress"]=[["*Vızzz* *Tık*NEW_LINENEW_LBalıkustası MaviSolungaç'ın kataloglaması için nadir balıklar arıyorum. Bana bir Keefer'ın Melekbalığı getirirsen sana bu güzel ödülü vereceğim.NEW_LINENEW_L*Cızzz* *Vızzz*\"]],
-    ["Completion"]=[["*Vızzz*NEW_LINENEW_LKeefer'ın Melekbalığı tespiti tamamlandı.NEW_LINENEW_LINEÖdülün artık mevcut.NEW_LINENEW_L*tık-tık* *Bzzzz*\"]],
+    ["Progress"]=[["*Vızzz* *Tık*NEW_LINENEW_LINEBalıkustası MaviSolungaç'ın kataloglaması için nadir balıklar arıyorum. Bana bir Keefer'ın Melekbalığı getirirsen sana bu güzel ödülü vereceğim.NEW_LINENEW_L*Cızzz* *Vızzz*\"]],
+    ["Completion"]=[["*Vızzz*NEW_LINENEW_LINEKeefer'ın Melekbalığı tespiti tamamlandı.NEW_LINENEW_LINEÖdülün artık mevcut.NEW_LINENEW_L*tık-tık* *Bzzzz*\"]],
     ["minlevel"]="1",
     ["questlevel"]="60"
 },
@@ -72877,8 +72877,8 @@ QuestTranslator_QuestData = {
     ["Title"]="Pırıldayan Akrep Kanı",
     ["Description"]="",
     ["Objectives"]="",
-    ["Progress"]="Panayırda çalıştığım tüm zaman boyunca müşteriler hakkında çok şey öğrendim. İşte o bilgelik kırıntılarından biri: Müşteriler parıldayan şeyleri sever! Ne olduğu önemli değil - kırık bir sandalye bacağını alıp parıldatabilirsin ve her çocuk bir tane almak için miller uzaktan gelecektir!NEW_LINENEW_LBu yüzden, YOUR_NAME, pırıldayan akrep kanına ihtiyacım var. Onu Silithus akreplerinden veya Lanetli Topraklar'dan veya Yanık Bozkırlar'dan bulabilirsin.",
-    ["Completion"]="Harika iş, YOUR_NAME! Çok teşekkürler! Bu kandan boya yapacağım ve her türlü ucuz çöpü parıldayan hazineye dönüştüreceğim!NEW_LINENEW_Lİşte biletlerin ve tekrar teşekkürler!",
+    ["Progress"]="Panayırda çalıştığım tüm zaman boyunca müşteriler hakkında çok şey öğrendim. İşte o bilgelik kırıntılarından biri: Müşteriler parıldayan şeyleri sever! Ne olduğu önemli değil - kırık bir sandalye bacağını alıp parıldatabilirsin ve her çocuk bir tane almak için miller uzaktan gelecektir!NEW_LINENEW_LINEBu yüzden, YOUR_NAME, pırıldayan akrep kanına ihtiyacım var. Onu Silithus akreplerinden veya Lanetli Topraklar'dan veya Yanık Bozkırlar'dan bulabilirsin.",
+    ["Completion"]="Harika iş, YOUR_NAME! Çok teşekkürler! Bu kandan boya yapacağım ve her türlü ucuz çöpü parıldayan hazineye dönüştüreceğim!NEW_LINENEW_LINEİşte biletlerin ve tekrar teşekkürler!",
     ["minlevel"]="40",
     ["questlevel"]="60"
 },
@@ -72887,7 +72887,7 @@ QuestTranslator_QuestData = {
     ["Title"]="Daha Fazla Pırıldayan Akrep Kanı",
     ["Description"]="",
     ["Objectives"]="",
-    ["Progress"]="O akrep kanı harika iş çıkarıyor, YOUR_NAME! Birazcık ışıltı ve parlaklığın değersiz bir çöp parçasından nasıl değerli bir ziynet eşyası yaratabildiği inanılmaz. Müşteriler bu şeye bayılıyor ve her şey sevgiyle ilgili, öyle düşünmüyor musun...NEW_LINENEW_LBana büyük yardımın dokundu, YOUR_NAME ve daha fazla pırıldayan akrep kanına pek ihtiyacım olmasa da, daha fazla getirirsen seninle yine biraz bilet takas edeceğim.",
+    ["Progress"]="O akrep kanı harika iş çıkarıyor, YOUR_NAME! Birazcık ışıltı ve parlaklığın değersiz bir çöp parçasından nasıl değerli bir ziynet eşyası yaratabildiği inanılmaz. Müşteriler bu şeye bayılıyor ve her şey sevgiyle ilgili, öyle düşünmüyor musun...NEW_LINENEW_LINEBana büyük yardımın dokundu, YOUR_NAME ve daha fazla pırıldayan akrep kanına pek ihtiyacım olmasa da, daha fazla getirirsen seninle yine biraz bilet takas edeceğim.",
     ["Completion"]="Tekrar teşekkürler, YOUR_NAME. İşte biletlerin!",
     ["minlevel"]="40",
     ["questlevel"]="60"
@@ -72897,8 +72897,8 @@ QuestTranslator_QuestData = {
     ["Title"]="Nadir Balık - Dezian Kraliçebalığı",
     ["Description"]="",
     ["Objectives"]="",
-    ["Progress"]=[["*Vızzz* *Tık*NEW_LINENEW_LBalıkustası MaviSolungaç'ın kataloglaması için nadir balıklar arıyorum. Bana bir Dezian Kraliçebalığı getirirsen sana bu güzel ödülü vereceğim.NEW_LINENEW_L*Cızzz* *Vızzz*"]],
-    ["Completion"]=[["*Vızzz*NEW_LINENEW_LDezian Kraliçebalığı tespiti tamamlandı.NEW_LINENEW_LINEÖdülün artık mevcut.NEW_LINENEW_L*tık-tık* *Bzzzz*\"]],
+    ["Progress"]=[["*Vızzz* *Tık*NEW_LINENEW_LINEBalıkustası MaviSolungaç'ın kataloglaması için nadir balıklar arıyorum. Bana bir Dezian Kraliçebalığı getirirsen sana bu güzel ödülü vereceğim.NEW_LINENEW_L*Cızzz* *Vızzz*"]],
+    ["Completion"]=[["*Vızzz*NEW_LINENEW_LINEDezian Kraliçebalığı tespiti tamamlandı.NEW_LINENEW_LINEÖdülün artık mevcut.NEW_LINENEW_L*tık-tık* *Bzzzz*\"]],
     ["minlevel"]="1",
     ["questlevel"]="60"
 },
@@ -72907,7 +72907,7 @@ QuestTranslator_QuestData = {
     ["Title"]="Nadir Balık - Brownell'ın Mavi Çizgili Yarışçısı",
     ["Description"]="",
     ["Objectives"]="",
-    ["Progress"]=[["*Vızzz* *Tık*NEW_LINENEW_LBalıkustası MaviSolungaç'ın kataloglaması için nadir balıklar arıyorum. Bana bir Brownell'ın Mavi Çizgili Yarışçısı getirirsen sana bu güzel ödülü vereceğim.NEW_LINENEW_L*Cızzz* *Vızzz*"]],
+    ["Progress"]=[["*Vızzz* *Tık*NEW_LINENEW_LINEBalıkustası MaviSolungaç'ın kataloglaması için nadir balıklar arıyorum. Bana bir Brownell'ın Mavi Çizgili Yarışçısı getirirsen sana bu güzel ödülü vereceğim.NEW_LINENEW_L*Cızzz* *Vızzz*"]],
     ["Completion"]=[["*Vızzz* Brownell'ın Yarışçısı tespiti tamamlandı. Ödülün artık mevcut. *tık* *tık* *Bzzzz*\"]],
     ["minlevel"]="1",
     ["questlevel"]="60"
@@ -72915,7 +72915,7 @@ QuestTranslator_QuestData = {
 
 ["8170"] = {
     ["Title"]="Arathi Havzası Savaşı!",
-    ["Description"]="Şüphesiz duyduğun gibi, Arathor Birliği Arathi Havzası'na büyük sayılarda birlik gönderiyor. Yiyecek ve erzak için hevesli olan bu İttifak aptalları oradaki zengin kaynakları almaya ve kontrol etmeye kararlı. Arathi'nin insanlara bir daha asla ev olmayacağını onlara göstermeliyiz!NEW_LINENEW_LArathi Havzası'na git ve madene, kereste fabrikasına, demirciye ve ahırlara saldır. Düşmanların sancaklarını indirerek o bölgeleri Güruh için ilan et.NEW_LINENEW_LGit, YOUR_NAME. Bu görev tamamlandığında bana rapor ver.",
+    ["Description"]="Şüphesiz duyduğun gibi, Arathor Birliği Arathi Havzası'na büyük sayılarda birlik gönderiyor. Yiyecek ve erzak için hevesli olan bu İttifak aptalları oradaki zengin kaynakları almaya ve kontrol etmeye kararlı. Arathi'nin insanlara bir daha asla ev olmayacağını onlara göstermeliyiz!NEW_LINENEW_LINEArathi Havzası'na git ve madene, kereste fabrikasına, demirciye ve ahırlara saldır. Düşmanların sancaklarını indirerek o bölgeleri Güruh için ilan et.NEW_LINENEW_LINEGit, YOUR_NAME. Bu görev tamamlandığında bana rapor ver.",
     ["Objectives"]="Arathi Havzası madenine, kereste fabrikasına, demirciye ve ahıra saldır, ardından Hammerfall'daki Ölümustası Dwire'a dön.",
     ["Progress"]="",
     ["Completion"]="Bir Kirletici gözcüsü başarın hakkında bir raporla bana geldi, YOUR_NAME. Aferin.NEW_LINENEW_LINEÖğreneceğin gibi, Arathi Havzası savaşını kazanmak için her zaman uyanık olmalı ve İttifak'ın her türlü genişleme girişimini ezmeliyiz. Bunu yap, buradaki zaferimiz güvence altına alınsın.",
@@ -72935,8 +72935,8 @@ QuestTranslator_QuestData = {
 
 ["8271"] = {
     ["Title"]="Stormpike Kahramanı",
-    ["Description"]="Bölgenin yerlisi Kışbaltası trolleri, kemiklerimizin kendi kokuşmuş yahnilerine eklenmesinden başka bir şey istemeyecek acımasız vahşilerdir.NEW_LINENEW_LOnlara gücümüzü göstermeliyiz!NEW_LINENEW_LMağaralarından, liderlik hiyerarşilerini detaylandıran kitaplar kurtardık. Eserler liderleri Öfkeöcalan Korrak'ın varlığını belli etmek için bir sebep verilene kadar saklanma eğiliminde olduğunu gösteriyor.NEW_LINENEW_LKorrak'ın ölümü Kışbaltası Klanı'nın ölümü demektir! Onu katlet ve dön.",
-    ["Objectives"]="Efsaneye göre, güçlü Kışbaltası trollerinin lideri Alterac Vadisi sakinlerine yıkım getirmek için istediği zaman belirir.NEW_LINENEW_LKorrak kendini belli ederse onu yok et ve Alterac Dağları'ndaki Teğmen Haggerdin'e dön.",
+    ["Description"]="Bölgenin yerlisi Kışbaltası trolleri, kemiklerimizin kendi kokuşmuş yahnilerine eklenmesinden başka bir şey istemeyecek acımasız vahşilerdir.NEW_LINENEW_LINEOnlara gücümüzü göstermeliyiz!NEW_LINENEW_LINEMağaralarından, liderlik hiyerarşilerini detaylandıran kitaplar kurtardık. Eserler liderleri Öfkeöcalan Korrak'ın varlığını belli etmek için bir sebep verilene kadar saklanma eğiliminde olduğunu gösteriyor.NEW_LINENEW_LINEKorrak'ın ölümü Kışbaltası Klanı'nın ölümü demektir! Onu katlet ve dön.",
+    ["Objectives"]="Efsaneye göre, güçlü Kışbaltası trollerinin lideri Alterac Vadisi sakinlerine yıkım getirmek için istediği zaman belirir.NEW_LINENEW_LINEKorrak kendini belli ederse onu yok et ve Alterac Dağları'ndaki Teğmen Haggerdin'e dön.",
     ["Progress"]="Uyarılmış ol asker: Buzkurdu da Korrak'ı avlıyor.",
     ["Completion"]="Aferin. Korrak öldüğüne göre tüm dikkatimizi Buzkurdu pisliğini bölgeden temizlemeye odaklayabiliriz.",
     ["minlevel"]="51",
@@ -72948,7 +72948,7 @@ QuestTranslator_QuestData = {
     ["Description"]="",
     ["Objectives"]="",
     ["Progress"]="",
-    ["Completion"]="Şimdi bu ilginç değil mi? Bu tableti Hinterlands'taki Manzara Uçurumları'nda küçük, terk edilmiş bir adada bulduğunu mu söylüyorsun YOUR_CLASS? Gerçekten çok ilginç. <Oran dikkatlice tableti kaldırır ve ellerini birbirine sürter.>NEW_LINENEW_LBu meseledeki çabaların için sana teşekkür ederim. Karanlık Leydimiz bu keşiften çok memnun kalacak. Al, oranla seni ödüllendirmeme izin ver.",
+    ["Completion"]="Şimdi bu ilginç değil mi? Bu tableti Hinterlands'taki Manzara Uçurumları'nda küçük, terk edilmiş bir adada bulduğunu mu söylüyorsun YOUR_CLASS? Gerçekten çok ilginç. <Oran dikkatlice tableti kaldırır ve ellerini birbirine sürter.>NEW_LINENEW_LINEBu meseledeki çabaların için sana teşekkür ederim. Karanlık Leydimiz bu keşiften çok memnun kalacak. Al, oranla seni ödüllendirmeme izin ver.",
     ["minlevel"]="42",
     ["questlevel"]="47"
 },
@@ -72958,7 +72958,7 @@ QuestTranslator_QuestData = {
     ["Description"]="",
     ["Objectives"]="",
     ["Progress"]="",
-    ["Completion"]="Savaş geliyor, YOUR_NAME ve beraberinde anlatılamaz dehşetler getiriyor. Senden istenebilecek her şeyi yaptın ve bunun için ödüllendirilmelisin.NEW_LINENEW_LEğer bu... bu kehanet gerçekleşirse...NEW_LINENEW_L<Jeolog Larksbane'in yüzü soluklaşır.>NEW_LINENEW_LHepimizin geleceği son bulabilir.NEW_LINENEW_LBu silahlar bu çölde yürüteceğin seferde çok değerli olacak.",
+    ["Completion"]="Savaş geliyor, YOUR_NAME ve beraberinde anlatılamaz dehşetler getiriyor. Senden istenebilecek her şeyi yaptın ve bunun için ödüllendirilmelisin.NEW_LINENEW_LINEEğer bu... bu kehanet gerçekleşirse...NEW_LINENEW_L<Jeolog Larksbane'in yüzü soluklaşır.>NEW_LINENEW_LINEHepimizin geleceği son bulabilir.NEW_LINENEW_LINEBu silahlar bu çölde yürüteceğin seferde çok değerli olacak.",
     ["minlevel"]="58",
     ["questlevel"]="60"
 },
@@ -72988,7 +72988,7 @@ QuestTranslator_QuestData = {
     ["Description"]="",
     ["Objectives"]="",
     ["Progress"]="YOUR_NAME, Yüksek Abis Konseyi'nin peşine tekrar düşmeyi planlıyorsan, başka bir derebeyliğin Alacakaranlık halkasına ihtiyacın olacak. Bana daha fazla parça ve mühür getir, senin için bir tane yapayım.",
-    ["Completion"]="Ah, inançlarının güçlü olduğunu görüyorum. Pek az kişi o iblis konseyiyle yüzleşebilir!NEW_LINENEW_Lİşte yüzüğün, YOUR_NAME. İraden ve şansın daim olsun.",
+    ["Completion"]="Ah, inançlarının güçlü olduğunu görüyorum. Pek az kişi o iblis konseyiyle yüzleşebilir!NEW_LINENEW_LINEİşte yüzüğün, YOUR_NAME. İraden ve şansın daim olsun.",
     ["minlevel"]="60",
     ["questlevel"]="60"
 },
@@ -72998,7 +72998,7 @@ QuestTranslator_QuestData = {
     ["Description"]="",
     ["Objectives"]="",
     ["Progress"]="Bir dövüşte başının çaresine bakabileceğini kanıtladın, YOUR_NAME. Alacakaranlığın Çekiçi üzerindeki baskıyı sürdürelim. Git ve birkaç Abis Tapınakçısı ile daha dövüş, Huum ve benim savaşta bulduğumuz bazı şeylerle seni ödüllendireceğim.",
-    ["Completion"]="Aferin! Bu, endişelenmem gereken daha az Tapınakçı demek.NEW_LINENEW_Lİşte buyur, YOUR_NAME. Umarım orada senin için yararlı bir şey vardır.",
+    ["Completion"]="Aferin! Bu, endişelenmem gereken daha az Tapınakçı demek.NEW_LINENEW_LINEİşte buyur, YOUR_NAME. Umarım orada senin için yararlı bir şey vardır.",
     ["minlevel"]="60",
     ["questlevel"]="60"
 },
@@ -73017,7 +73017,7 @@ QuestTranslator_QuestData = {
     ["Title"]="Abis Asaları",
     ["Description"]="",
     ["Objectives"]="",
-    ["Progress"]="Tüm beklentilerimi gerçekten aştın, YOUR_NAME. Huum ve benim kapışmadan önce uzun uzun düşüneceğimiz rakiplerle yüzleşiyorsun.NEW_LINENEW_LBu noktada yapabileceğimin en iyisi Alacakaranlığın Çekiçi'ne ve onların derebeylerine karşı savaşındaki çabalarını ödüllendirmeye devam etmektir.NEW_LINENEW_LBana daha fazla abis asası getir, ben de sana uygun bir ödül vermek için elimden geleni yapayım.",
+    ["Progress"]="Tüm beklentilerimi gerçekten aştın, YOUR_NAME. Huum ve benim kapışmadan önce uzun uzun düşüneceğimiz rakiplerle yüzleşiyorsun.NEW_LINENEW_LINEBu noktada yapabileceğimin en iyisi Alacakaranlığın Çekiçi'ne ve onların derebeylerine karşı savaşındaki çabalarını ödüllendirmeye devam etmektir.NEW_LINENEW_LINEBana daha fazla abis asası getir, ben de sana uygun bir ödül vermek için elimden geleni yapayım.",
     ["Completion"]="Başaracağını biliyordum, YOUR_NAME! İşte ödülün.",
     ["minlevel"]="60",
     ["questlevel"]="60"
@@ -73025,7 +73025,7 @@ QuestTranslator_QuestData = {
 
 ["8373"] = {
     ["Title"]="Çamın Gücü",
-    ["Description"]="Cadılar Bayramı hakkında en nefret ettiğim şey Terkedilmişler'in Southshore üzerinde kullandığı koku bombalarıdır. Özgürleşmeyi kutlamanın bu kadar kokuşmuş bir pisliği içereceğini kim bilebilirdi?NEW_LINENEW_LCadılar Bayramı boyunca Güruh'un köyde düşürebileceği çirkin koku bombalarını kaldırmak için bu temizleyiciyi kullan. Kötü kokularla savaşmak için çamın gücünü kullanır.NEW_LINENEW_LSouthshore'u temiz tutmak için üzerine düşeni yap, ben de sana keyif alacağından emin olduğum bazı Cadılar Bayramı ikramları vereyim. Anlaştık mı?",
+    ["Description"]="Cadılar Bayramı hakkında en nefret ettiğim şey Terkedilmişler'in Southshore üzerinde kullandığı koku bombalarıdır. Özgürleşmeyi kutlamanın bu kadar kokuşmuş bir pisliği içereceğini kim bilebilirdi?NEW_LINENEW_LINECadılar Bayramı boyunca Güruh'un köyde düşürebileceği çirkin koku bombalarını kaldırmak için bu temizleyiciyi kullan. Kötü kokularla savaşmak için çamın gücünü kullanır.NEW_LINENEW_LSouthshore'u temiz tutmak için üzerine düşeni yap, ben de sana keyif alacağından emin olduğum bazı Cadılar Bayramı ikramları vereyim. Anlaştık mı?",
     ["Objectives"]="Southshore'a atılmış herhangi bir Terkedilmiş Koku Bombası'nı kaldırmak için Koku Bombası Temizleyicisi'ni kullan. İşin bittiğinde Southshore'daki Çavuş Hartman'a dön.",
     ["Progress"]="O lanet Terkedilmişler... zaten hortlak olmaları yeterince kötü değilmiş gibi, bir de galeyana gelip BENİM köyümde sorun çıkarmaya başlıyorlar!",
     ["Completion"]="Ah, buraları şimdiden daha iyi kokmaya başladı bile. Neredeyse.NEW_LINENEW_LSenin sayende, YOUR_NAME, Southshore başka bir Cadılar Bayramı'nı daha atlatabilir. İşte ikramların, teşekkürlerimle! Şekerin biterse sanırım Demirörs'te Katrina Shimmerstar adında bir cüce kadın var ve sana daha fazlasını satabilir; sanırım sadece Cadılar Bayramı sırasında buralarda.",
@@ -73038,7 +73038,7 @@ QuestTranslator_QuestData = {
     ["Description"]="",
     ["Objectives"]="",
     ["Progress"]="Kendini bana kanıtlamış olsan da, kabilemin şüpheci kardeşlerine kendini kanıtlama yönünde çalışmaya devam etmen gerekebilir. Bu amaçla sana yardımcı olmaya devam edebilirim.NEW_LINENEW_LINEÖlüodun furbolglarının bazıları, sayılarını azaltmada bir kanıt olarak kullanılabilecek ayırt edici bir başlık takarlar. Elde ettiğin başlıklardan bana bir tüy getir; getirdiğin her beşli set için Kerestepençe arasında takdir kazanacaksın.",
-    ["Completion"]="Harika iş, YOUR_NAME! Amellerinin kendi soydaşlarım arasında bilinmesini sağlayacağım.NEW_LINENEW_LBulduğun tüyleri bana getirmeyi unutma. Gerekli olduğu sürece onları kabul etmeye devam edeceğim.",
+    ["Completion"]="Harika iş, YOUR_NAME! Amellerinin kendi soydaşlarım arasında bilinmesini sağlayacağım.NEW_LINENEW_LINEBulduğun tüyleri bana getirmeyi unutma. Gerekli olduğu sürece onları kabul etmeye devam edeceğim.",
     ["minlevel"]="45",
     ["questlevel"]="55"
 },
@@ -73048,14 +73048,14 @@ QuestTranslator_QuestData = {
     ["Description"]="",
     ["Objectives"]="",
     ["Progress"]="O evrakların imzalanmasını istiyorsun sanırım evlat?",
-    ["Completion"]="Evet, sanırım o küçük arbede bugünlerde saha görevi olarak sayılacaktır. Bunları Cenarion Kalesi'ne geri götür, senin için hazırda rahat bir işleri olduğuna eminim.NEW_LINENEW_LHadi bakayım!",
+    ["Completion"]="Evet, sanırım o küçük arbede bugünlerde saha görevi olarak sayılacaktır. Bunları Cenarion Kalesi'ne geri götür, senin için hazırda rahat bir işleri olduğuna eminim.NEW_LINENEW_LINEHadi bakayım!",
     ["minlevel"]="60",
     ["questlevel"]="60"
 },
 
 ["8574"] = {
     ["Title"]="Sadık Savaş Teçhizatı",
-    ["Description"]="Rüzgârçağıran Proudhorn için dövüş, lojistik ve taktik görevleri üstlenerek topladığın rozetler sadece gösteriş için değildir, YOUR_NAME.NEW_LINENEW_LOnları elde tutman akıllıca olur. Örgütümüze sadakatini kanıtladıkça, o rozetler karşılığında en yakın müttefiklerimize ayırdığımız teçhizatlardan bazılarını sana sunabilirim.",
+    ["Description"]="Rüzgârçağıran Proudhorn için dövüş, lojistik ve taktik görevleri üstlenerek topladığın rozetler sadece gösteriş için değildir, YOUR_NAME.NEW_LINENEW_LINEOnları elde tutman akıllıca olur. Örgütümüze sadakatini kanıtladıkça, o rozetler karşılığında en yakın müttefiklerimize ayırdığımız teçhizatlardan bazılarını sana sunabilirim.",
     ["Objectives"]="15 Cenarion Dövüş Rozeti, 20 Cenarion Lojistik Rozeti, 17 Cenarion Taktik Rozeti ve 1 Remulos Nişanı'nı Silithus'taki Cenarion Kalesi'nde bulunan Vargus'a getir. Bu görevi tamamlayabilmek için Cenarion Çemberi ile Saygıdeğer repütasyon seviyesine ulaşmış olmalısın.",
     ["Progress"]="En sadık müttefiklerimizi iyi donatılmış tutmak bizim en büyük çıkarımızadır, YOUR_NAME.",
     ["Completion"]="Harika iş, YOUR_NAME. Lütfen bunu Cenarion Çemberi adına kabul et. Bunu kesinlikle hak ettin dostum!",
@@ -73102,7 +73102,7 @@ QuestTranslator_QuestData = {
 
 ["8485"] = {
     ["Title"] = "Barışın Aracılığı",
-    ["Description"] = "Yaptıkların basit bir kahramanın masalının çok ötesine geçiyor, YOUR_NAME. Eğer kendi halkının bir temsilcisiysen, o zaman senin halkın barış yapmak için birlikte çalışacağımız bir halktır.NEW_LINENEW_LÜTFEN - bu adayı Durotar topraklarında ikamet eden ork savaş şefine götür; sanırım bu şehre Orgrimmar diyorsunuz. Geçmişte, kendi Hordesi adına bizimle temas kurmaya çalışmıştı. Şimdi Hordenin barışı sağlama çabalarındaki kilit isim olarak seni kabul etmek son derece uygundur.",
+    ["Description"] = "Yaptıkların basit bir kahramanın masalının çok ötesine geçiyor, YOUR_NAME. Eğer kendi halkının bir temsilcisiysen, o zaman senin halkın barış yapmak için birlikte çalışacağımız bir halktır.NEW_LINENEW_LINELÜTFEN - bu adayı Durotar topraklarında ikamet eden ork savaş şefine götür; sanırım bu şehre Orgrimmar diyorsunuz. Geçmişte, kendi Hordesi adına bizimle temas kurmaya çalışmıştı. Şimdi Hordenin barışı sağlama çabalarındaki kilit isim olarak seni kabul etmek son derece uygundur.",
     ["Objectives"] = "Odunağızı Barış Adayışını Orgrimmar'daki Thrall'a götür.",
     ["Progress"] = "Savaş şefinin selamları senin üzerine olsun, YOUR_CLASS. Yaptıkların bu sıkıntılı zamanlarda Hordeyi daha da güçlendiriyor. Şimdi, benimle ne işin var?",
     ["Completion"] = "Gerçekten de bu çok hayırlı bir olaylar silsilesi. Bu yaratıklarla kalıcı bir barış yapılabilseydi, bu kesinlikle Kalimdor'u dış tehditlerden korumada bize bir avantaj sağlardı. Hordenin diğer liderlerine bunu derhal bildireceğim ve daha fazla diplomat sevk edilecek!NEW_LINENEW_LINESana gelince, YOUR_NAME... hem diplomaside hem de eylemde cesaret gösterdin. Hordenin tamamı gibi ben de sana teşekkür ederim.",
@@ -73145,7 +73145,7 @@ QuestTranslator_QuestData = {
     ["Description"] = "FELAKET vuruldu! Ren Geyiği Metzen kaçırıldı!NEW_LINENEW_LINEMetzen, Büyük Baba Kış'ın sekiz ren geyiğinden biridir - ve Dumanlıodun Otlakları'nın mülküdür. Metzen'i elinde tuttuğunu iddia eden gruplardan bir değil TAM İKİ fidye mektubu aldık. Tatil sezonu iyice başlamışken, burada para kasasına kilitlendik! Lütfen - Metzen'i bul ve onu bize geri getir!NEW_LINENEW_LINEIpucu için fidye mektuplarını incele ve bu ren geyiği tozunu onun üzerine serp - bu onu tüm bağlarından kurtaracaktır!NEW_LINENEW_LINELütfen acele et!",
     ["Objectives"] = "Ren Geyiği Metzen'i bul. Nerede tutulduğuna dair ipuçları için sana sağlanan notları kullan.NEW_LINENEW_LINEMetzen'i bulduğunda, üzerine biraz toz serpebilmek için Ren Geyiği Tozu Kesesi yanında olsun; bu Metzen'i esaret bağlarından kurtaracaktır.NEW_LINENEW_LINEMetzen kurtarıldığında Ren Geyiği Tozu Kesesi'ni Demirocağı'ndaki Wulmort Jinglepocket'a geri götür.",
     ["Progress"] = "YOUR_NAME! Onu buldun mu? Sana verdiğim heybedeki notlar Metzen'in yerini tespit etmek için yeterli bilgi sağladı mı? O acımasız haydutların ona ne yapabileceğini düşünmek bile istemiyorum... ama böylesine fahiş bir fidyeyi ödememizin imkanı yok!",
-    ["Completion"] = "Başardın! Yaşasın!NEW_LINENEW_LINEMetzen az önce Büyük Baba Kış'ın ahırlarına geri uçtu - evet Metzen gerçekten uçabiliyor! Toz bir mucize gibi işe yaradı; öyle olacağını biliyordum. Kış Örtüsü Ziyafeti'ni ve Dumanlıodun Otlakları'na felaketten kurtardın. Teşekkür ederim, YOUR_NAME.NEW_LINENEW_LİSİN DİNLE... Burada yaptıklarından dolayı buna sahip olmanı istiyorum. Bu ÇOK özel bir şey; eğer bir binek hayvanın varsa, bundan çok keyif alacağını düşünüyorum. Mutlu Kış Örtüleri!",
+    ["Completion"] = "Başardın! Yaşasın!NEW_LINENEW_LINEMetzen az önce Büyük Baba Kış'ın ahırlarına geri uçtu - evet Metzen gerçekten uçabiliyor! Toz bir mucize gibi işe yaradı; öyle olacağını biliyordum. Kış Örtüsü Ziyafeti'ni ve Dumanlıodun Otlakları'na felaketten kurtardın. Teşekkür ederim, YOUR_NAME.NEW_LINENEW_LINEİSİN DİNLE... Burada yaptıklarından dolayı buna sahip olmanı istiyorum. Bu ÇOK özel bir şey; eğer bir binek hayvanın varsa, bundan çok keyif alacağını düşünüyorum. Mutlu Kış Örtüleri!",
     ["minlevel"] = "40",
     ["questlevel"] = "60"
 },
@@ -80170,7 +80170,7 @@ QuestTranslator_QuestData = {
 
     ["42089"] = {
         ["Title"] = "Gelgitbıçağı’nın Pulları",
-        ["Description"] = "Nagalar Nendis harabelerini parazitler gibi istila etti. Bir zamanlar halkımızın sessiz bir yerleşimiydi. Şimdi sokaklar Hain'e sadık yılanlarla dolu. Savaşçıları kendilerine Gelgitbıçağı diyor. Illidan bu kıyılara ilk saldırdığında serbest bıraktığı ordunun gazi askerleri.NEW_LINENEW_LINEHaftalardır onlarla çatışıyoruz ama inatçılar. Öldürdüğümüz her naga için iki tanesi daha dalgalardan sürünerek çıkıyor gibi görünüyor. Buradaki varlıklarını zayıflatacaksak, saflarını doğrudan seyreltmeliyiz.NEW_LINENEW_LİENendis harabelerine git ve Gelgitbıçağı nagalarını avla. Ölümlerinin kanıtı olarak bana otuz pullarını getir.",
+        ["Description"] = "Nagalar Nendis harabelerini parazitler gibi istila etti. Bir zamanlar halkımızın sessiz bir yerleşimiydi. Şimdi sokaklar Hain'e sadık yılanlarla dolu. Savaşçıları kendilerine Gelgitbıçağı diyor. Illidan bu kıyılara ilk saldırdığında serbest bıraktığı ordunun gazi askerleri.NEW_LINENEW_LINEHaftalardır onlarla çatışıyoruz ama inatçılar. Öldürdüğümüz her naga için iki tanesi daha dalgalardan sürünerek çıkıyor gibi görünüyor. Buradaki varlıklarını zayıflatacaksak, saflarını doğrudan seyreltmeliyiz.NEW_LINENEW_LINEİENendis harabelerine git ve Gelgitbıçağı nagalarını avla. Ölümlerinin kanıtı olarak bana otuz pullarını getir.",
         ["Objectives"] = "Narvalis Noktası'ndaki Gözcü Komutanı Gümüşiz'e 30 Gelgitbıçağı Pul getir.",
         ["Progress"] = "Suyu izle. Nagalar pusuyu sever. Kıyıya çok yakın adım atana kadar yüzeyin altında bekleyecekler. Birden fazla devriye bu dersi acı yoldan öğrendi.",
         ["Completion"] = "Otuz pul.NEW_LINENEW_LINE<Zırhlı elinde birini çevirir, derin yeşil parlaklığını inceler.>NEW_LINENEW_LINEBunlar deneyimli savaşçılara aitti. Bu kadarını öldürmek safları arasında fark edilmiş olacaktır.NEW_LINENEW_LINEGüzel.NEW_LINENEW_LINEYine de... gerçek liderleri kalıyor. Ve onlar düşene kadar, Gelgitbıçağı bu harabeleri terk etmeyecek.",
