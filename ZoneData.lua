@@ -567,7 +567,7 @@ ZoneTranslator_ZoneData = {
 ["Shadow Hold"] = "Gölge Kalesi",
 ["Shadowbreak Ravine"] = "Gölgekesen Kanyonu",
 ["Shadowfang Keep"] = "Shadowfang Kalesi",
-["Shadowforge"] = "Shadowforge",
+["Shadowforge"] = "Gölgeocağı",
 ["Shadowglen"] = "Gölgevadisi",
 ["Shadowprey Village"] = "Shadowprey Köyü",
 ["Shadowsong Shrine"] = "Shadowsong Sunağı",
@@ -1531,6 +1531,7 @@ ZoneTranslator_ZoneData = {
 ["Foulspore Cavern"] = "Kötüspor Mağarası",
 ["The Noxious Hollow"] = "Zehirli Oyuk",
 ["The Molten Span"] = "Erimiş Köprü",
+
 --123456789
 ["Hall of Crafting"] = "Zanaat Salonu",
 ["The Domicile"] = "İkametgah",
@@ -1539,7 +1540,7 @@ ZoneTranslator_ZoneData = {
 ["The Imperial Seat"] = "İmparatorluk Makamı",
 ["Shrine of Thaurissan"] = "Thaurissan Sunağı",
 ["The Iron Hall"] = "Demir Salon",
-["Shadowforge City"] = "Shadowforge Şehri",
+["Shadowforge City"] = "Gölgeocağı Şehri",
 ["The Lyceum"] = "Lyceum",
 ["The Black Vault"] = "Kara Mahzen",
 ["The High Seat"] = "Yüksek Makam",
