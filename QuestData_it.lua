@@ -18658,16 +18658,15 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end İlk ve Son
 
-    -- Ölüleri Onurlandırın
-    ["6183"] = {
-    ["Title"]="Ölüleri Onurlandırın",
-    ["Description"]="En iyi beş saha ajanıma Marris davası verildi. Biri geri döndü ama üç gün sonra uykusunda öldü.NEW_LINENEW_LINEOndan almayı başardığımız azıcık bilgi de anlamsızdı. İki kelime çıkarabildik: \\",
-    ["Objectives"]="Görevini kabul etmek istiyorsanız Mathias Shaw ile tekrar konuşun.",
-    ["Progress"]="",
-    ["Completion"]="<Mathias başını sallar.>NEW_LINENEW_LINEWrynn'in bana İttifak'ın en sadık askerleri olan onurlu kadın ve erkekleri göndereceğine inancım vardı.",
-    ["minlevel"]="0",
-    ["questlevel"]="0",
-    }, -- end Ölüleri Onurlandırın
+   ["6183"] = {
+        ["Title"] = "Ölülere Saygı",
+        ["Description"] = "En iyi saha ajanlarımdan beşi Marris vakasına atanmıştı. Sadece biri geri döndü, o da üç gün sonra uykusunda ölü bulundu.\n\nAğzından almayı başardığımız azıcık bilgi ise tutarsız saçmalıklardan ibaretti. Sadece iki kelimeyi seçebildik: \"Nathanos\" ve \"Vebaçağıran\".\n\nBu soruşturmayı sürdürmek için elimde yeterli insan gücü yok ve Ravenholdt da bize yardım etmeyecek. En azından ölenlerin ailelerine bir teselli sağlamak için bile olsa bu işin özüne inmeliyiz. Yardım edecek misin?",
+        ["Objectives"] = "Görevini kabul etmek istiyorsan Mathias Shaw ile tekrar konuş.",
+        ["Progress"] = "",
+        ["Completion"] = "<Mathias başıyla onaylar.>\n\nBolvar'ın bana onurlu erkekler ve kadınlar —İttifak'ın en adanmış askerlerini— göndereceğine inancım tamdı.",
+        ["minlevel"] = "0",
+        ["questlevel"] = "0"
+    },
 
     -- Blightcaller Geliyor
     ["6186"] = {
@@ -34020,7 +34019,7 @@ QuestTranslator_QuestData = {
     -- Sneel Fizzwack kalmıştır. Bounty board -> Ödül panosu. Paw -> Pençe / Ayak.
     ["40785"] = {
     ["Title"]="Kral Morogo Yıldırımayak!",
-    ["Description"]="Maymunların liderinin başına ödül konuldu! Tel'Abim'in ve  Tel Co.'nun güvenliği için savaşmaya istekli olan herkes bir araya gelsin ve en son Yüksekvadi Yamacı'nın (Highvale Rise) yükseklerinde görülen Kral Morogo Yıldırımayak'ı (King Morogo Thunderfoot) avlasın.\n\n(Birlikte çalışmanızı öneririz, o maymun gerçekten çok büyük.)NEW_LINE        NEW_LINE                    ÖdülNEW_LINE        NEW_LINE                    Şunları alacaksın:NEW_LINE            NEW_LINETelraz'ın Mücevherli Asası (Telraz's Jeweled Staff)Altın Tel Co. Sikkesi (The Golden Tel Co. Coin)NEW_LINEİlerlemeNEW_LINE            Eee, ne lazım ahbap?NEW_LINE        NEW_LINE                    TamamlamaNEW_LINE            Aman tanrım, bu gerçekten DEVASA bir maymun ayağı; bu Morogo Yıldırımayak'ın arka pençesi olamaz, değil mi?<Sneel Fizzwack sana boş boş bakar.>O ödül panosunu (bounty board) koyduğumuzda birinin gerçekten ödül talep edeceğini hiç tahmin etmemiştim, birinin bunu yapacak kadar çılgın olacağını da beklemiyordum! Bak, burada bir şeyler bulabiliryim.NEW_LINE        NEW_LINE                    KazanımlarNEW_LINE            Görevler tamamlandığında şunları al:NEW_LINE            6500 DeneyimNEW_LINEAyrıca bakınız",
+    ["Description"]="Maymunların liderinin başına ödül konuldu! Tel'Abim'in ve  Tel Co.'nun güvenliği için savaşmaya istekli olan herkes bir araya gelsin ve en son Yüksekvadi Yamacı'nın (Highvale Rise) yükseklerinde görülen Kral Morogo Yıldırımayak'ı (King Morogo Thunderfoot) avlasın.\n\n(Birlikte çalışmanızı öneririz, o maymun gerçekten çok büyük.)NEW_LINE",
     ["Objectives"]="Morogo Thunderfoot'u katlet ve onun 'Yıldırımayak'ını (Thunderfoot) topla. Tamamlandığında ödülünü Tel'Abim'deki Tel Co. Üssü'nde (Tel. Co Basecamp) bulunan Sneel Fizzwack'ten talep et.",
     ["Progress"]="Eee, ne lazım ahbap?",
     ["Completion"]="Aman tanrım, bu gerçekten DEVASA bir maymun ayağı; bu Morogo Yıldırımayak'ın arka pençesi olamaz, değil mi?\n\n<Sneel Fizzwack sana boş boş bakar.>\n\nO ödül panosunu koyduğumuzda birinin gerçekten ödül talep edeceğini hiç tahmin etmemiştim, birinin bunu yapacak kadar çılgın olacağını da beklemiyordum! Bak, burada bir şeyler bulabiliryim.",
