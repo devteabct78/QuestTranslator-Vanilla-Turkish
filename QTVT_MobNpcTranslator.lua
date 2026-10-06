@@ -84,7 +84,8 @@ local function DoTargetTranslation()
             
             if nameFrame and nameFrame.SetText then
                 ApplySafeFont(nameFrame, 13)
-                nameFrame:SetText(TranslateUnitName(rawName, UnitIsPlayer("target")))
+                -- [DÜZELTME] UnitIsPlayer yerine UnitPlayerControlled kullanıldı
+                nameFrame:SetText(TranslateUnitName(rawName, UnitPlayerControlled("target")))
             end
         end
     end
@@ -129,7 +130,8 @@ MNT_Frame:SetScript("OnEvent", function()
         if UnitExists("mouseover") and GameTooltipTextLeft1 then
             local rawName = UnitName("mouseover")
             if rawName then
-                local trName = TranslateUnitName(rawName, UnitIsPlayer("mouseover"))
+                -- [DÜZELTME] UnitIsPlayer yerine UnitPlayerControlled kullanıldı
+                local trName = TranslateUnitName(rawName, UnitPlayerControlled("mouseover"))
                 if GameTooltipTextLeft1:GetText() ~= trName then
                     ApplySafeFont(GameTooltipTextLeft1, 14)
                     GameTooltipTextLeft1:SetText(trName)
@@ -141,7 +143,11 @@ MNT_Frame:SetScript("OnEvent", function()
         local npcName = UnitName("npc") or UnitName("target")
         if npcName then
             local isPlayer = false
-            if UnitIsPlayer("target") and UnitName("target") == npcName then
+            
+            -- [DÜZELTME] Hedef veya NPC bir oyuncu kontrolündeyse (pet dahil) isPlayer = true yap
+            if UnitExists("target") and UnitName("target") == npcName and UnitPlayerControlled("target") then
+                isPlayer = true
+            elseif UnitExists("npc") and UnitName("npc") == npcName and UnitPlayerControlled("npc") then
                 isPlayer = true
             end
             

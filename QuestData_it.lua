@@ -70855,7 +70855,7 @@ QuestTranslator_QuestData = {
 
 ["8995"] = {
     ["Title"]="Mea Culpa, Lord Valthalak",
-    ["Description"]="Artık her şey hazır, YOUR_NAME.NEW_LINENEW_LŞimdi Canavar'ın odası olan yerde, Lord Valthalak yaşarken ikamet ederdi. Oraya git ve Lord Valthalak'ı çağırmak için Çağrı Buhurdanlığı'nı kullan. Onu yeniden bedenleştirecek, bu yüzden tekrar öldürülmesi gerekecek. Önce Canavar'ın icabına bakardım ve Kara Kaya Tepesi'nin üst kısmında hayatta kalmak için yanına yeterince arkadaş aldığından emin ol.NEW_LINENEW_LValthalak'ı ortadan kaldırdığında, muskayı cesedinin üzerinde kullan. Ruhu yeniden birleştiğinde, muhtemelen muskasını da geri isteyecektir.NEW_LINENEW_LINEİyi şanslar!",
+    ["Description"]="Artık her şey hazır, YOUR_NAME.NEW_LINENEW_LŞimdi Canavar'ın odası olan yerde, Lord Valthalak yaşarken ikamet ederdi. Oraya git ve Lord Valthalak'ı çağırmak için Çağrı Buhurdanlığı'nı kullan. Onu yeniden bedenleştirecek, bu yüzden tekrar öldürülmesi gerekecek. Önce Canavar'ın icabına bakardım ve Kara Kaya Tepesi'nin üst kısmında hayatta kalmak için yanına yeterince arkadaş aldığından emin ol.NEW_LINENEW_LINEValthalak'ı ortadan kaldırdığında, muskayı cesedinin üzerinde kullan. Ruhu yeniden birleştiğinde, muhtemelen muskasını da geri isteyecektir.NEW_LINENEW_LINEİyi şanslar!",
     ["Objectives"]="Lord Valthalak'ı çağırmak için Çağrı Buhurdanlığı'nı kullan. Onu ortadan kaldır ve cesedin üzerinde Lord Valthalak'ın Muskanı kullan. Ardından Lord Valthalak'ın Muskanı Lord Valthalak'ın Ruhu'na geri ver.",
     ["Progress"]="YOUR_CLASS, uykumu bölmeye nasıl cüret edersin!",
     ["Completion"]="Bunu benden çalan orijinal grubun bir parçası olmadığını bilmem senin için ne büyük şans.NEW_LINENEW_LŞimdi benim olanı geri alacağım, fani! Muskayı bana ver!",
@@ -70915,7 +70915,7 @@ QuestTranslator_QuestData = {
 
 ["9028"] = {
     ["Title"]="Açığa Çıkan Kaynak",
-    ["Description"]="Ne, vatana ihanet mi? Hayır, hayır. Sizi temin ederim, niyetim tamamen zararsız. Flört etmenin sancılı ritüelini kolaylaştırmak isteyenlere yardım etmek çok mu yanlış? Hadi ama, bu bir suç değil.NEW_LINENEW_LVe kötü bir niyetim olmadığını kanıtlamak için kaynağımı bile söyleyeceğim. Bana bir tür eczacı olan Staffron Lerent tarafından gönderildiler. Onunla hiç konuşmadım. Goblin aracımız, o gizemli Ravenholdt Malikanesi'nin ötesinde, Tepelik Araziler üzerindeki tepelerde çalıştığını söyledi. Onu bulma konusunda sana başarılar dilerim.",
+    ["Description"]="Ne, vatana ihanet mi? Hayır, hayır. Sizi temin ederim, niyetim tamamen zararsız. Flört etmenin sancılı ritüelini kolaylaştırmak isteyenlere yardım etmek çok mu yanlış? Hadi ama, bu bir suç değil.NEW_LINENEW_LINEVe kötü bir niyetim olmadığını kanıtlamak için kaynağımı bile söyleyeceğim. Bana bir tür eczacı olan Staffron Lerent tarafından gönderildiler. Onunla hiç konuşmadım. Goblin aracımız, o gizemli Ravenholdt Malikanesi'nin ötesinde, Tepelik Araziler üzerindeki tepelerde çalıştığını söyledi. Onu bulma konusunda sana başarılar dilerim.",
     ["Objectives"]="Ravenholdt Malikanesi'nin arkasındaki Tepelik Araziler'de Eczacı Staffron Lerent'i bul.",
     ["Progress"]="",
     ["Completion"]="Evet, o kokuları ben yaptım. Harika bir koku, değil mi? Karşı konulmaz.NEW_LINENEW_LIttifak ve Güruh savaşçıları bu aşk duygularıyla büyülendiğinde, Gölge Konseyi'nin yükselişini durdurmak için çaresiz kalacaklar.NEW_LINENEW_LINEZayıflayacaklar, hazırlıksız yakalanacaklar. Sevdikleri için endişelenirken güçlerini kaybedecekler.NEW_LINENEW_LINEÇözüm çok basitti. Buna ulaşmak neden bu kadar uzun sürdü? Herkesin zayıflığı kalpten geçer. Ve kaçınılmaz olanı durdurmak için yapabileceğiniz hiçbir şey yok.",
@@ -70925,7 +70925,7 @@ QuestTranslator_QuestData = {
 
 ["9033"] = {
     ["Title"]="Savaşın Yankıları",
-    ["Description"]="Son savaştan bu yana beş yıl geçti...NEW_LINENEW_LINEOn binlerce can kayboldu ve ne için? Tehdit hiçbir zaman tamamen ortadan kaldırılmadı.NEW_LINENEW_LVe böylece Lich Kralı bir kez daha kıpırdanıyor... Onun kuklası Kel'Thuzad, topraklarımıza yeni bir saldırı için güç topluyor.NEW_LINENEW_LINEBuna izin vermeyeceğiz! Adanmışlığını kanıtla. Bu çılgınlığı durdurmak için canını ve uzuvlarını riske atmaya kararlı olduğunu kanıtla; Şafak ve Haçlı Seferi'nin birleşik gücü emrinde olacaktır.NEW_LINENEW_LNaxxramas'a gir ve içindeki Afet'i yok et...",
+    ["Description"]="Son savaştan bu yana beş yıl geçti...NEW_LINENEW_LINEOn binlerce can kayboldu ve ne için? Tehdit hiçbir zaman tamamen ortadan kaldırılmadı.NEW_LINENEW_LINEVe böylece Lich Kralı bir kez daha kıpırdanıyor... Onun kuklası Kel'Thuzad, topraklarımıza yeni bir saldırı için güç topluyor.NEW_LINENEW_LINEBuna izin vermeyeceğiz! Adanmışlığını kanıtla. Bu çılgınlığı durdurmak için canını ve uzuvlarını riske atmaya kararlı olduğunu kanıtla; Şafak ve Haçlı Seferi'nin birleşik gücü emrinde olacaktır.NEW_LINENEW_LNaxxramas'a gir ve içindeki Afet'i yok et...",
     ["Objectives"]="Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Komutan Eligor Dawnbringer, 5 Yaşayan İğrençlik, 5 Taşderili Gargoyle, 8 Ölüm Şövalyesi Yüzbaşısı ve 3 Zehir Takipçisi katletmeni istiyor.",
     ["Progress"]="Görev, onur, adanmışlık... Bu kelimeler senin için ne anlam ifade ediyor?",
     ["Completion"]="Harika bir iş! Işık Umudu'ndaki erkek ve kadınların hizmetleri aracılığıyla ödüllendirileceksin.",
@@ -71515,7 +71515,7 @@ QuestTranslator_QuestData = {
 
 ["9103"] = {
     ["Title"]="Vebakalbi Cübbesi",
-    ["Description"]="Sana numara yapmıyorum, kurtçuk. Vebakalbi eşyalarının barındırdığı karanlık ikimizi de yok edebilir. Fiyatın bu kadar yüksek olmasının nedeni budur. Eğer öleceksem, zengin bir adam olarak öleceğim.NEW_LINENEW_LVe senin nasıl öldüğün umrumda bile değil, yeter ki istediğimi yap. İhtiyacım olanı bana getir ve ikimiz de kazanalım - ya da ölelim; ama bunu zaten açıklamıştım...",
+    ["Description"]="Sana numara yapmıyorum, kurtçuk. Vebakalbi eşyalarının barındırdığı karanlık ikimizi de yok edebilir. Fiyatın bu kadar yüksek olmasının nedeni budur. Eğer öleceksem, zengin bir adam olarak öleceğim.NEW_LINENEW_LINEVe senin nasıl öldüğün umrumda bile değil, yeter ki istediğimi yap. İhtiyacım olanı bana getir ve ikimiz de kazanalım - ya da ölelim; ama bunu zaten açıklamıştım...",
     ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Gazapbüyücüsü Mataus sana bir Vebakalbi Cübbesi yapacaktır: 1 Saygısızlığa Uğramış Cübbe, 25 Savaştan Yıpranmış Kumaş Hurdası, 4 Ay Kumaşı ve 2 Kristal Özü.",
     ["Progress"]="Hayırsız kemirgen geri döndü! İhtiyacım olan şey sende var mı?",
     ["Completion"]="Görüyor musun? Gücü şimdi anlıyor musun? Arınma... Ne aptallar...NEW_LINENEW_L<Mataus kafasını onaylamazca sallar.>NEW_LINENEW_LŞimdi al onu ve gözümün önünden kaybol.",
@@ -71525,7 +71525,7 @@ QuestTranslator_QuestData = {
 
 ["9104"] = {
     ["Title"]="Vebakalbi Pantolonu",
-    ["Description"]="Sana numara yapmıyorum, kurtçuk. Vebakalbi eşyalarının barındırdığı karanlık ikimizi de yok edebilir. Fiyatın bu kadar yüksek olmasının nedeni budur. Eğer öleceksem, zengin bir adam olarak öleceğim.NEW_LINENEW_LVe senin nasıl öldüğün umrumda bile değil, yeter ki istediğimi yap. İhtiyacım olanı bana getir ve ikimiz de kazanalım - ya da ölelim; ama bunu zaten açıklamıştım...",
+    ["Description"]="Sana numara yapmıyorum, kurtçuk. Vebakalbi eşyalarının barındırdığı karanlık ikimizi de yok edebilir. Fiyatın bu kadar yüksek olmasının nedeni budur. Eğer öleceksem, zengin bir adam olarak öleceğim.NEW_LINENEW_LINEVe senin nasıl öldüğün umrumda bile değil, yeter ki istediğimi yap. İhtiyacım olanı bana getir ve ikimiz de kazanalım - ya da ölelim; ama bunu zaten açıklamıştım...",
     ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Gazapbüyücüsü Mataus sana Vebakalbi Pantolonu yapacaktır: 1 Saygısızlığa Uğramış Pantolon, 20 Savaştan Yıpranmış Kumaş Hurdası, 4 Ay Kumaşı ve 2 Kristal Özü.",
     ["Progress"]="Hayırsız kemirgen geri döndü! İhtiyacım olan şey sende var mı?",
     ["Completion"]="Görüyor musun? Gücü şimdi anlıyor musun? Arınma... Ne aptallar...NEW_LINENEW_L<Mataus kafasını onaylamazca sallar.>NEW_LINENEW_LŞimdi al onu ve gözümün önünden kaybol.",
@@ -71535,7 +71535,7 @@ QuestTranslator_QuestData = {
 
 ["9105"] = {
     ["Title"]="Vebakalbi Taçı",
-    ["Description"]="Sana numara yapmıyorum, kurtçuk. Vebakalbi eşyalarının barındırdığı karanlık ikimizi de yok edebilir. Fiyatın bu kadar yüksek olmasının nedeni budur. Eğer öleceksem, zengin bir adam olarak öleceğim.NEW_LINENEW_LVe senin nasıl öldüğün umrumda bile değil, yeter ki istediğimi yap. İhtiyacım olanı bana getir ve ikimiz de kazanalım - ya da ölelim; ama bunu zaten açıklamıştım...",
+    ["Description"]="Sana numara yapmıyorum, kurtçuk. Vebakalbi eşyalarının barındırdığı karanlık ikimizi de yok edebilir. Fiyatın bu kadar yüksek olmasının nedeni budur. Eğer öleceksem, zengin bir adam olarak öleceğim.NEW_LINENEW_LINEVe senin nasıl öldüğün umrumda bile değil, yeter ki istediğimi yap. İhtiyacım olanı bana getir ve ikimiz de kazanalım - ya da ölelim; ama bunu zaten açıklamıştım...",
     ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Gazapbüyücüsü Mataus sana bir Vebakalbi Taçı yapacaktır: 1 Saygısızlığa Uğramış Taç, 15 Savaştan Yıpranmış Kumaş Hurdası, 3 Ay Kumaşı ve 3 Kristal Özü.",
     ["Progress"]="Hayırsız kemirgen geri döndü! İhtiyacım olan şey sende var mı?",
     ["Completion"]="Görüyor musun? Gücü şimdi anlıyor musun? Arınma... Ne aptallar...NEW_LINENEW_L<Mataus kafasını onaylamazca sallar.>NEW_LINENEW_LŞimdi al onu ve gözümün önünden kaybol.",
@@ -71545,7 +71545,7 @@ QuestTranslator_QuestData = {
 
 ["9106"] = {
     ["Title"]="Vebakalbi Omuzlukları",
-    ["Description"]="Sana numara yapmıyorum, kurtçuk. Vebakalbi eşyalarının barındırdığı karanlık ikimizi de yok edebilir. Fiyatın bu kadar yüksek olmasının nedeni budur. Eğer öleceksem, zengin bir adam olarak öleceğim.NEW_LINENEW_LVe senin nasıl öldüğün umrumda bile değil, yeter ki istediğimi yap. İhtiyacım olanı bana getir ve ikimiz de kazanalım - ya da ölelim; ama bunu zaten açıklamıştım...",
+    ["Description"]="Sana numara yapmıyorum, kurtçuk. Vebakalbi eşyalarının barındırdığı karanlık ikimizi de yok edebilir. Fiyatın bu kadar yüksek olmasının nedeni budur. Eğer öleceksem, zengin bir adam olarak öleceğim.NEW_LINENEW_LINEVe senin nasıl öldüğün umrumda bile değil, yeter ki istediğimi yap. İhtiyacım olanı bana getir ve ikimiz de kazanalım - ya da ölelim; ama bunu zaten açıklamıştım...",
     ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Gazapbüyücüsü Mataus sana Vebakalbi Omuzlukları yapacaktır: 1 Saygısızlığa Uğramış Omuzluk, 12 Savaştan Yıpranmış Kumaş Hurdası, 2 Ay Kumaşı ve 3 İşlenmiş Sert Deri.",
     ["Progress"]="Hayırsız kemirgen geri döndü! İhtiyacım olan şey sende var mı?",
     ["Completion"]="Görüyor musun? Gücü şimdi anlıyor musun? Arınma... Ne aptallar...NEW_LINENEW_L<Mataus kafasını onaylamazca sallar.>NEW_LINENEW_LŞimdi al onu ve gözümün önünden kaybol.",
@@ -71555,7 +71555,7 @@ QuestTranslator_QuestData = {
 
 ["9107"] = {
     ["Title"]="Vebakalbi Sandaletleri",
-    ["Description"]="Sana numara yapmıyorum, kurtçuk. Vebakalbi eşyalarının barındırdığı karanlık ikimizi de yok edebilir. Fiyatın bu kadar yüksek olmasının nedeni budur. Eğer öleceksem, zengin bir adam olarak öleceğim.NEW_LINENEW_LVe senin nasıl öldüğün umrumda bile değil, yeter ki istediğimi yap. İhtiyacım olanı bana getir ve ikimiz de kazanalım - ya da ölelim; ama bunu zaten açıklamıştım...",
+    ["Description"]="Sana numara yapmıyorum, kurtçuk. Vebakalbi eşyalarının barındırdığı karanlık ikimizi de yok edebilir. Fiyatın bu kadar yüksek olmasının nedeni budur. Eğer öleceksem, zengin bir adam olarak öleceğim.NEW_LINENEW_LINEVe senin nasıl öldüğün umrumda bile değil, yeter ki istediğimi yap. İhtiyacım olanı bana getir ve ikimiz de kazanalım - ya da ölelim; ama bunu zaten açıklamıştım...",
     ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Gazapbüyücüsü Mataus sana Vebakalbi Sandaletleri yapacaktır: 1 Saygısızlığa Uğramış Sandalet, 12 Savaştan Yıpranmış Kumaş Hurdası, 2 Ay Kumaşı ve 3 İşlenmiş Sert Deri.",
     ["Progress"]="Hayırsız kemirgen geri döndü! İhtiyacım olan şey sende var mı?",
     ["Completion"]="Görüyor musun? Gücü şimdi anlıyor musun? Arınma... Ne aptallar...NEW_LINENEW_L<Mataus kafasını onaylamazca sallar.>NEW_LINENEW_LŞimdi al onu ve gözümün önünden kaybol.",
@@ -71565,7 +71565,7 @@ QuestTranslator_QuestData = {
 
 ["9108"] = {
     ["Title"]="Vebakalbi Eldivenleri",
-    ["Description"]="Sana numara yapmıyorum, kurtçuk. Vebakalbi eşyalarının barındırdığı karanlık ikimizi de yok edebilir. Fiyatın bu kadar yüksek olmasının nedeni budur. Eğer öleceksem, zengin bir adam olarak öleceğim.NEW_LINENEW_LVe senin nasıl öldüğün umrumda bile değil, yeter ki istediğimi yap. İhtiyacım olanı bana getir ve ikimiz de kazanalım - ya da ölelim; ama bunu zaten açıklamıştım...",
+    ["Description"]="Sana numara yapmıyorum, kurtçuk. Vebakalbi eşyalarının barındırdığı karanlık ikimizi de yok edebilir. Fiyatın bu kadar yüksek olmasının nedeni budur. Eğer öleceksem, zengin bir adam olarak öleceğim.NEW_LINENEW_LINEVe senin nasıl öldüğün umrumda bile değil, yeter ki istediğimi yap. İhtiyacım olanı bana getir ve ikimiz de kazanalım - ya da ölelim; ama bunu zaten açıklamıştım...",
     ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Gazapbüyücüsü Mataus sana Vebakalbi Eldivenleri yapacaktır: 1 Saygısızlığa Uğramış Eldiven, 8 Savaştan Yıpranmış Kumaş Hurdası ve 4 Ay Kumaşı.",
     ["Progress"]="Hayırsız kemirgen geri döndü! İhtiyacım olan şey sende var mı?",
     ["Completion"]="Görüyor musun? Gücü şimdi anlıyor musun? Arınma... Ne aptallar...NEW_LINENEW_L<Mataus kafasını onaylamazca sallar.>NEW_LINENEW_LŞimdi al onu ve gözümün önünden kaybol.",
@@ -71575,7 +71575,7 @@ QuestTranslator_QuestData = {
 
 ["9109"] = {
     ["Title"]="Vebakalbi Kemeri",
-    ["Description"]="Sana numara yapmıyorum, kurtçuk. Vebakalbi eşyalarının barındırdığı karanlık ikimizi de yok edebilir. Fiyatın bu kadar yüksek olmasının nedeni budur. Eğer öleceksem, zengin bir adam olarak öleceğim.NEW_LINENEW_LVe senin nasıl öldüğün umrumda bile değil, yeter ki istediğimi yap. İhtiyacım olanı bana getir ve ikimiz de kazanalım - ya da ölelim; ama bunu zaten açıklamıştım...",
+    ["Description"]="Sana numara yapmıyorum, kurtçuk. Vebakalbi eşyalarının barındırdığı karanlık ikimizi de yok edebilir. Fiyatın bu kadar yüksek olmasının nedeni budur. Eğer öleceksem, zengin bir adam olarak öleceğim.NEW_LINENEW_LINEVe senin nasıl öldüğün umrumda bile değil, yeter ki istediğimi yap. İhtiyacım olanı bana getir ve ikimiz de kazanalım - ya da ölelim; ama bunu zaten açıklamıştım...",
     ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Gazapbüyücüsü Mataus sana bir Vebakalbi Kemeri yapacaktır: 1 Saygısızlığa Uğramış Kemer, 8 Savaştan Yıpranmış Kumaş Hurdası, 2 Büyülü Kristal ve 2 Ay Kumaşı.",
     ["Progress"]="Hayırsız kemirgen geri döndü! İhtiyacım olan şey sende var mı?",
     ["Completion"]="Görüyor musun? Gücü şimdi anlıyor musun? Arınma... Ne aptallar...NEW_LINENEW_L<Mataus kafasını onaylamazca sallar.>NEW_LINENEW_LŞimdi al onu ve gözümün önünden kaybol.",
@@ -71585,7 +71585,7 @@ QuestTranslator_QuestData = {
 
 ["9110"] = {
     ["Title"]="Vebakalbi Bağları",
-    ["Description"]="Sana numara yapmıyorum, kurtçuk. Vebakalbi eşyalarının barındırdığı karanlık ikimizi de yok edebilir. Fiyatın bu kadar yüksek olmasının nedeni budur. Eğer öleceksem, zengin bir adam olarak öleceğim.NEW_LINENEW_LVe senin nasıl öldüğün umrumda bile değil, yeter ki istediğimi yap. İhtiyacım olanı bana getir ve ikimiz de kazanalım - ya da ölelim; ama bunu zaten açıklamıştım...",
+    ["Description"]="Sana numara yapmıyorum, kurtçuk. Vebakalbi eşyalarının barındırdığı karanlık ikimizi de yok edebilir. Fiyatın bu kadar yüksek olmasının nedeni budur. Eğer öleceksem, zengin bir adam olarak öleceğim.NEW_LINENEW_LINEVe senin nasıl öldüğün umrumda bile değil, yeter ki istediğimi yap. İhtiyacım olanı bana getir ve ikimiz de kazanalım - ya da ölelim; ama bunu zaten açıklamıştım...",
     ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Gazapbüyücüsü Mataus sana Vebakalbi Bağları yapacaktır: 1 Saygısızlığa Uğramış Bağlar, 6 Savaştan Yıpranmış Kumaş Hurdası, 1 Büyülü Kristal ve 1 Kristal Özü.",
     ["Progress"]="Hayırsız kemirgen geri döndü! İhtiyacım olan şey sende var mı?",
     ["Completion"]="Görüyor musun? Gücü şimdi anlıyor musun? Arınma... Ne aptallar...NEW_LINENEW_L<Mataus kafasını onaylamazca sallar.>NEW_LINENEW_LŞimdi al onu ve gözümün önünden kaybol.",
@@ -71815,7 +71815,7 @@ QuestTranslator_QuestData = {
 
 ["9141"] = {
     ["Title"]="Bana \"Horoz\" Derler",
-    ["Description"]="Bir emir belgesi mi istiyorsun? Ne? Sadece ortaya çıktığın için sana çok aranan bir iş emrini uzatmamı mı bekliyorsun? Sanmıyorum çömez. Dünyanın dört bir yanından zanaatkarlar burada ön saflarda iş kapmak için teklif veriyor.NEW_LINENEW_LINEEğer bir iş emri istiyorsan, dava için kan dökmeye istekli olduğunu bana göstermen gerekecek. Bana bir yiğitlik jetonu getir, sonra konuşalım.NEW_LINENEW_LVe o kirlenmiş küçük çömez ellerini onlara geçirmenin tek bir yolu var - öldürmeye başla.",
+    ["Description"]="Bir emir belgesi mi istiyorsun? Ne? Sadece ortaya çıktığın için sana çok aranan bir iş emrini uzatmamı mı bekliyorsun? Sanmıyorum çömez. Dünyanın dört bir yanından zanaatkarlar burada ön saflarda iş kapmak için teklif veriyor.NEW_LINENEW_LINEEğer bir iş emri istiyorsan, dava için kan dökmeye istekli olduğunu bana göstermen gerekecek. Bana bir yiğitlik jetonu getir, sonra konuşalım.NEW_LINENEW_LINEVe o kirlenmiş küçük çömez ellerini onlara geçirmenin tek bir yolu var - öldürmeye başla.",
     ["Objectives"]="Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Sevk Komutanı Metz bir Gümüşi Şafak Yiğitlik Jetonu istiyor.",
     ["Progress"]="<Komutan Metz purosunu çiğner.>NEW_LINENEW_LNe var? Meşgul bir adamım.",
     ["Completion"]="Pekala, bu iş şöyle yürüyor: Teslim ettiğin her yiğitlik jetonu için sana başka bir emir belgesi vereceğim. O emir belgesindeki siparişi tamamlar ve siparişi Yük Katırcısı Stonebruiser'a teslim edersin. Anladın mı? Güzel. Şimdi defol buradan.",
@@ -72388,7 +72388,7 @@ QuestTranslator_QuestData = {
     ["Description"]="Çerçeve oluşturulmuşken, Atiesh neredeyse tam hâle geldi. Şimdi sadece asanın başı ve tabanı eksik. Ayrıca asanın Sargeras'ın kötülüğü için bir kanal olması gibi küçük bir sorun da var.NEW_LINENEW_LINEKalan parçaları bulmada ve kötülüğü asadan çıkarmada sana yardımcı olabilecek birini bul.",
     ["Objectives"]="Kalan iki parçayı kurtarmada ve onu kötülükten arındırmada sana yardımcı olacak birini bul.",
     ["Progress"]="Onun zamanı gelmişti, fani.",
-    ["Completion"]="Başbüyücüler öldü.NEW_LINENEW_LVefatlarına yas tutma, YOUR_NAME. Tüm bu tür şeyler takdir edilmiştir. Tıpkı Muhafız'ın asasını tutmanın takdir edildiği gibi...",
+    ["Completion"]="Başbüyücüler öldü.NEW_LINENEW_LINEVefatlarına yas tutma, YOUR_NAME. Tüm bu tür şeyler takdir edilmiştir. Tıpkı Muhafız'ın asasını tutmanın takdir edildiği gibi...",
     ["minlevel"]="60",
     ["questlevel"]="60"
 },
@@ -72795,7 +72795,7 @@ QuestTranslator_QuestData = {
 
 ["9165"] = {
     ["Title"]="Güvenli Geçiş İzin Belgesi",
-    ["Description"]="Maceracıların yardımı olmasaydı kervanım asla başaramazdı! Buraya ulaşmamızı engellemek için Afet her yerden çıkıyordu.NEW_LINENEW_L<Muhafız Didier alnını siler.>NEW_LINENEW_LŞimdi burada Saha Mareşali Chambers'ın gelmesini beklememiz gerekiyor. Işık Umudu Şapeli'ndeki Sevk Komutanı Metz'e geri götürmen için güvenli geçiş izin belgeni imzalayacak.NEW_LINENEW_LVe YOUR_NAME, Chambers'ın yanında ne söylediğine dikkat et. Kendisi 'kafanı koparıp nefes borundan aşağı tüküren' türden bir adamdır - ama bunu gerçekten yapacaktır...",
+    ["Description"]="Maceracıların yardımı olmasaydı kervanım asla başaramazdı! Buraya ulaşmamızı engellemek için Afet her yerden çıkıyordu.NEW_LINENEW_L<Muhafız Didier alnını siler.>NEW_LINENEW_LŞimdi burada Saha Mareşali Chambers'ın gelmesini beklememiz gerekiyor. Işık Umudu Şapeli'ndeki Sevk Komutanı Metz'e geri götürmen için güvenli geçiş izin belgeni imzalayacak.NEW_LINENEW_LINEVe YOUR_NAME, Chambers'ın yanında ne söylediğine dikkat et. Kendisi 'kafanı koparıp nefes borundan aşağı tüküren' türden bir adamdır - ama bunu gerçekten yapacaktır...",
     ["Objectives"]="İmzalanmış Güvenli Geçiş İzin Belgesi'ni Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Sevk Komutanı Metz'e teslim et.",
     ["Progress"]="İsim, rütbe ve seri numarası!",
     ["Completion"]="<Sevk Komutanı Metz izin belgesini alır ve imzalar.>NEW_LINENEW_LINEHarika iş, YOUR_NAME. Mükemmel bile denebilir! Takdirimizin bir nişanesi olarak bunu al. Çömez, amaçlanan bir espri değildi.",
