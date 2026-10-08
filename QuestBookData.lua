@@ -1470,5 +1470,9 @@ QuestTranslator_BookData = {
 	["Libram of Constitution"] = {
     	["Title"] = "Anayasa El Kitabı",
     	["Text"] = "<Sayfalar kadim elf rünleriyle kaplıdır.>NEW_LINEBuradaki sayfalar, Küçük Arcanum üretmek için gereken bileşenlerin toplanması ve oluşturulması sırasında gerçekleşen olayların anılarını içermektedir.NEW_LINEDüşmanlarımız bu el kitabına asla erişemesin.NEW_LINEAyın soluk ışığının bir kez daha Quel'Thalas üzerine doğduğunu görecek kadar yaşayayım.NEW_LINEKael'thas'ın lütfu uğruna öleyim.NEW_LINEIllidan'ın şanı uğruna öldüreyim.NEW_LINE-Üstat Kariel Rüzgarthalus"
+	},
+	["Tainted Memorandum"] = {
+    	["Title"] = "Lekeli Muhtıra",
+    	["Text"] = "DİKKAT:NEW_LINESessiz Kal! Etrafında Kimseye Bakma! Şu Anda Birileri Seni İzliyor Olabilir.NEW_LINEBenim Adım Alamar Kasvet, Pelus. Bilgiyi Ve Daha Büyük Gücü... Öte Dünyalardan Arayanları Eğitiyorum. Seninle Gizlice İletişime Geçmem Ve Seni Büyünün Gerçek Bir Biçiminde Daha Da Eğitebileceğimi Bildirmem İstendi.NEW_LINEFırsat Bulduğunda Gel Beni Örsdağı'nın Arkasında Bul.NEW_LINE-Alamar Kasvet, Cadı Eğitmeni"
 }
 }
