@@ -71127,7 +71127,7 @@ QuestTranslator_QuestData = {
     ["Description"]="Mahzen yaratığının kabuğu için bir kullanım alanı keşfettim. Parçaları Naxxramas'ta kaybolan saygısızlığa uğramış büyülü zırhlardan bazılarıyla birleştirerek son derece hafif ve çok ölümcül bir zırh takımı oluşturabiliyorum.NEW_LINEİhtiyaç duyduğum eşyaları bana getir; senin için dünyamızda daha önce hiç görülmemiş türden bir zırh takımı tasarlayayım!",
     ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Avcı Leopold sana Mahzen Avcısı Omuzlukları yapacaktır: 1 Saygısızlığa Uğramış Omuzluk, 12 Savaştan Yıpranmış Zincir Hurdası, 2 Arkanit Külçesi ve 3 İşlenmiş Sert Deri.",
     ["Progress"]="İstediğim eşyalara sahip misin YOUR_CLASS?",
-    ["Completion"]="Bu omuzları mümkün olduğunca büyük ve belirgin yapmaya özen gösterdim.NEW_LINENEW_LSözüme güven; onlara bayılacaksın...",
+    ["Completion"]="Bu omuzları mümkün olduğunca büyük ve belirgin yapmaya özen gösterdim.NEW_LINENEW_LINESözüme güven; onlara bayılacaksın...",
     ["minlevel"]="60",
     ["questlevel"]="60"
 },
@@ -71286,7 +71286,7 @@ QuestTranslator_QuestData = {
     ["Title"]="Kemiktırpan Omuzlukları",
     ["Description"]="Kemiktırpan yapılmasını istiyorsan, malzemeleri tedarik etmen gerekecek.NEW_LINENEW_LYukarıdaki gökyüzünde bulunan büyük yüzen ölüm şehri Naxxramas'a gir, saygısızlığa uğramış zırh ile savaştan yıpranmış zırh hurdaları bul. Her şeyi bir araya getirecek malzemelerle birlikte onları geri getir, Kemiktırpan'ına kavuş. Ah, bir de emeklerim için bana ödeme yapman gerekecek... Kemikleri ben temin edeceğim.",
     ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Suikastçı Rohan sana Kemiktırpan Omuzlukları yapacaktır: 1 Saygısızlığa Uğramış Omuzluk, 12 Savaştan Yıpranmış Deri Hurdası, 5 İşlenmiş Sert Deri, 1 Kristal Özü ve 50 altın para.",
-    ["Progress"]="<Rohan sana şüpheyle bakar.>NEW_LINENEW_LSon zamanlarda Tyr'in Eli'nde bulundun mu?",
+    ["Progress"]="<Rohan sana şüpheyle bakar.>NEW_LINENEW_LINESon zamanlarda Tyr'in Eli'nde bulundun mu?",
     ["Completion"]="<Rohan alnındaki teri siler.>NEW_LINEBu omuzluklar bayağı uğraştırdı! Dışarı çıkıp acemi gibi kendini öldürtme, YOUR_NAME.",
     ["minlevel"]="60",
     ["questlevel"]="60"
@@ -71344,7 +71344,7 @@ QuestTranslator_QuestData = {
 
 ["9086"] = {
     ["Title"]="Düşgezgin Cübbesi",
-    ["Description"]="Son savaşta birçok kahraman düştü ve birçoğu da bugün Afet'in ellerinde can vermeye devam ediyor. Düşenlerin cesetlerinden zırhlar sökülüyor ve bilinmeyen amaçlar için kullanılmak üzere Naxxramas'a geri götürülüyor.NEW_LINENEW_LSaygısızlığa uğramış zırhı ve savaştan yıpranmış zırh hurdalarını geri getir ve ihtiyacım olan diğer malzeme bileşenlerini bana sağla, ben de senin için Düşgezgin zırhı işleyeyim.",
+    ["Description"]="Son savaşta birçok kahraman düştü ve birçoğu da bugün Afet'in ellerinde can vermeye devam ediyor. Düşenlerin cesetlerinden zırhlar sökülüyor ve bilinmeyen amaçlar için kullanılmak üzere Naxxramas'a geri götürülüyor.NEW_LINENEW_LINESaygısızlığa uğramış zırhı ve savaştan yıpranmış zırh hurdalarını geri getir ve ihtiyacım olan diğer malzeme bileşenlerini bana sağla, ben de senin için Düşgezgin zırhı işleyeyim.",
     ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Rayne sana bir Düşgezgin Cübbesi yapacaktır: 1 Saygısızlığa Uğramış Cübbe, 25 Savaştan Yıpranmış Deri Hurdası, 6 İşlenmiş Sert Deri ve 2 Kristal Özü.",
     ["Progress"]="Malzeme maliyeti yüksek ama yakında unutulur.",
     ["Completion"]="Düşgezgin Cübben hazır, YOUR_NAME.",
@@ -71354,7 +71354,7 @@ QuestTranslator_QuestData = {
 
 ["9087"] = {
     ["Title"]="Düşgezgin Bacak Korumaları",
-    ["Description"]="Son savaşta birçok kahraman düştü ve birçoğu da bugün Afet'in ellerinde can vermeye devam ediyor. Düşenlerin cesetlerinden zırhlar sökülüyor ve bilinmeyen amaçlar için kullanılmak üzere Naxxramas'a geri götürülüyor.NEW_LINENEW_LSaygısızlığa uğramış zırhı ve savaştan yıpranmış zırh hurdalarını geri getir ve ihtiyacım olan diğer malzeme bileşenlerini bana sağla, ben de senin için Düşgezgin zırhı işleyeyim.",
+    ["Description"]="Son savaşta birçok kahraman düştü ve birçoğu da bugün Afet'in ellerinde can vermeye devam ediyor. Düşenlerin cesetlerinden zırhlar sökülüyor ve bilinmeyen amaçlar için kullanılmak üzere Naxxramas'a geri götürülüyor.NEW_LINENEW_LINESaygısızlığa uğramış zırhı ve savaştan yıpranmış zırh hurdalarını geri getir ve ihtiyacım olan diğer malzeme bileşenlerini bana sağla, ben de senin için Düşgezgin zırhı işleyeyim.",
     ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Rayne sana Düşgezgin Bacak Korumaları yapacaktır: 1 Saygısızlığa Uğramış Bacak Koruması, 20 Savaştan Yıpranmış Deri Hurdası, 8 İşlenmiş Sert Deri ve 1 Kristal Özü.",
     ["Progress"]="Malzeme maliyeti yüksek ama yakında unutulur.",
     ["Completion"]="Söz verildiği gibi, Düşgezgin Bacak Korumaları.NEW_LINENEW_L<Rayne zırhı sana uzatır.>",
@@ -71364,7 +71364,7 @@ QuestTranslator_QuestData = {
 
 ["9088"] = {
     ["Title"]="Düşgezgin Başlığı",
-    ["Description"]="Son savaşta birçok kahraman düştü ve birçoğu da bugün Afet'in handsinde can vermeye devam ediyor. Düşenlerin cesetlerinden zırhlar sökülüyor ve bilinmeyen amaçlar için kullanılmak üzere Naxxramas'a geri götürülüyor.NEW_LINENEW_LSaygısızlığa uğramış zırhı ve savaştan yıpranmış zırh hurdalarını geri getir ve ihtiyacım olan diğer malzeme bileşenlerini bana sağla, ben de senin için Düşgezgin zırhı işleyeyim.",
+    ["Description"]="Son savaşta birçok kahraman düştü ve birçoğu da bugün Afet'in handsinde can vermeye devam ediyor. Düşenlerin cesetlerinden zırhlar sökülüyor ve bilinmeyen amaçlar için kullanılmak üzere Naxxramas'a geri götürülüyor.NEW_LINENEW_LINESaygısızlığa uğramış zırhı ve savaştan yıpranmış zırh hurdalarını geri getir ve ihtiyacım olan diğer malzeme bileşenlerini bana sağla, ben de senin için Düşgezgin zırhı işleyeyim.",
     ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Rayne sana bir Düşgezgin Başlığı yapacaktır: 1 Saygısızlığa Uğramış Başlık, 15 Savaştan Yıpranmış Deri Hurdası, 6 İşlenmiş Sert Deri ve 2 Kristal Özü.",
     ["Progress"]="Malzeme maliyeti yüksek ama yakında unutulur.",
     ["Completion"]="Düşgezgin Başlığın hazır, YOUR_NAME.",
@@ -71374,7 +71374,7 @@ QuestTranslator_QuestData = {
 
 ["9089"] = {
     ["Title"]="Düşgezgin Omuzlukları",
-    ["Description"]="Son savaşta birçok kahraman düştü ve birçoğu da bugün Afet'in ellerinde can vermeye devam ediyor. Düşenlerin cesetlerinden zırhlar sökülüyor ve bilinmeyen amaçlar için kullanılmak üzere Naxxramas'a geri götürülüyor.NEW_LINENEW_LSaygısızlığa uğramış zırhı ve savaştan yıpranmış zırh hurdalarını geri getir ve ihtiyacım olan diğer malzeme bileşenlerini bana sağla, ben de senin için Düşgezgin zırhı işleyeyim.",
+    ["Description"]="Son savaşta birçok kahraman düştü ve birçoğu da bugün Afet'in ellerinde can vermeye devam ediyor. Düşenlerin cesetlerinden zırhlar sökülüyor ve bilinmeyen amaçlar için kullanılmak üzere Naxxramas'a geri götürülüyor.NEW_LINENEW_LINESaygısızlığa uğramış zırhı ve savaştan yıpranmış zırh hurdalarını geri getir ve ihtiyacım olan diğer malzeme bileşenlerini bana sağla, ben de senin için Düşgezgin zırhı işleyeyim.",
     ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Rayne sana Düşgezgin Omuzlukları yapacaktır: 1 Saygısızlığa Uğramış Omuzluk, 12 Savaştan Yıpranmış Deri Hurdası, 5 İşlenmiş Sert Deri ve 1 Kristal Özü.",
     ["Progress"]="Malzeme maliyeti yüksek ama yakında unutulur.",
     ["Completion"]="Düşgezgin Omuzlukların hazır, YOUR_NAME.",
@@ -71384,7 +71384,7 @@ QuestTranslator_QuestData = {
 
 ["9090"] = {
     ["Title"]="Düşgezgin Çizmeleri",
-    ["Description"]="Son savaşta birçok kahraman düştü ve birçoğu da bugün Afet'in ellerinde can vermeye devam ediyor. Düşenlerin cesetlerinden zırhlar sökülüyor ve bilinmeyen amaçlar için kullanılmak üzere Naxxramas'a geri götürülüyor.NEW_LINENEW_LSaygısızlığa uğramış zırhı ve savaştan yıpranmış zırh hurdalarını geri getir ve ihtiyacım olan diğer malzeme bileşenlerini bana sağla, ben de senin için Düşgezgin zırhı işleyeyim.",
+    ["Description"]="Son savaşta birçok kahraman düştü ve birçoğu da bugün Afet'in ellerinde can vermeye devam ediyor. Düşenlerin cesetlerinden zırhlar sökülüyor ve bilinmeyen amaçlar için kullanılmak üzere Naxxramas'a geri götürülüyor.NEW_LINENEW_LINESaygısızlığa uğramış zırhı ve savaştan yıpranmış zırh hurdalarını geri getir ve ihtiyacım olan diğer malzeme bileşenlerini bana sağla, ben de senin için Düşgezgin zırhı işleyeyim.",
     ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Rayne sana Düşgezgin Çizmeleri yapacaktır: 1 Saygısızlığa Uğramış Çizme, 12 Savaştan Yıpranmış Deri Hurdası, 3 Ay Kumaşı ve 2 İşlenmiş Sert Deri.",
     ["Progress"]="Malzeme maliyeti yüksek ama yakında unutulur.",
     ["Completion"]="Düşgezgin Çizmelerin hazır, YOUR_NAME.",
@@ -71394,7 +71394,7 @@ QuestTranslator_QuestData = {
 
 ["9091"] = {
     ["Title"]="Düşgezgin El Korumaları",
-    ["Description"]="Son savaşta birçok kahraman düştü ve birçoğu da bugün Afet'in handsinde can vermeye devam ediyor. Düşenlerin cesetlerinden zırhlar sökülüyor ve bilinmeyen amaçlar için kullanılmak üzere Naxxramas'a geri götürülüyor.NEW_LINENEW_LSaygısızlığa uğramış zırhı ve savaştan yıpranmış zırh hurdalarını geri getir ve ihtiyacım olan diğer malzeme bileşenlerini bana sağla, ben de senin için Düşgezgin zırhı işleyeyim.",
+    ["Description"]="Son savaşta birçok kahraman düştü ve birçoğu da bugün Afet'in handsinde can vermeye devam ediyor. Düşenlerin cesetlerinden zırhlar sökülüyor ve bilinmeyen amaçlar için kullanılmak üzere Naxxramas'a geri götürülüyor.NEW_LINENEW_LINESaygısızlığa uğramış zırhı ve savaştan yıpranmış zırh hurdalarını geri getir ve ihtiyacım olan diğer malzeme bileşenlerini bana sağla, ben de senin için Düşgezgin zırhı işleyeyim.",
     ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Rayne sana Düşgezgin El Korumaları yapacaktır: 1 Saygısızlığa Uğramış El Koruması, 8 Savaştan Yıpranmış Deri Hurdası, 5 İşlenmiş Sert Deri ve 1 Kristal Özü.",
     ["Progress"]="Malzeme maliyeti yüksek ama yakında unutulur.",
     ["Completion"]="Düşgezgin El Korumaların hazır, YOUR_NAME.",
@@ -71404,7 +71404,7 @@ QuestTranslator_QuestData = {
 
 ["9092"] = {
     ["Title"]="Düşgezgin Kemeri",
-    ["Description"]="Son savaşta birçok kahraman düştü ve birçoğu da bugün Afet'in handsinde can vermeye devam ediyor. Düşenlerin cesetlerinden zırhlar sökülüyor ve bilinmeyen amaçlar için kullanılmak üzere Naxxramas'a geri götürülüyor.NEW_LINENEW_LSaygısızlığa uğramış zırhı ve savaştan yıpranmış zırh hurdalarını geri getir ve ihtiyacım olan diğer malzeme bileşenlerini bana sağla, ben de senin için Düşgezgin zırhı işleyeyim.",
+    ["Description"]="Son savaşta birçok kahraman düştü ve birçoğu da bugün Afet'in handsinde can vermeye devam ediyor. Düşenlerin cesetlerinden zırhlar sökülüyor ve bilinmeyen amaçlar için kullanılmak üzere Naxxramas'a geri götürülüyor.NEW_LINENEW_LINESaygısızlığa uğramış zırhı ve savaştan yıpranmış zırh hurdalarını geri getir ve ihtiyacım olan diğer malzeme bileşenlerini bana sağla, ben de senin için Düşgezgin zırhı işleyeyim.",
     ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Rayne sana bir Düşgezgin Kemeri yapacaktır: 1 Saygısızlığa Uğramış Kemer, 8 Savaştan Yıpranmış Deri Hurdası, 3 Ay Kumaşı ve 2 İşlenmiş Sert Deri.",
     ["Progress"]="Malzeme maliyeti yüksek ama yakında unutulur.",
     ["Completion"]="Düşgezgin Kemerin hazır, YOUR_NAME.",
@@ -71414,7 +71414,7 @@ QuestTranslator_QuestData = {
 
 ["9093"] = {
     ["Title"]="Düşgezgin Bilek Korumaları",
-    ["Description"]="Son savaşta birçok kahraman düştü ve birçoğu da bugün Afet'in handsinde can vermeye devam ediyor. Düşenlerin cesetlerinden zırhlar sökülüyor ve bilinmeyen amaçlar için kullanılmak üzere Naxxramas'a geri götürülüyor.NEW_LINENEW_LSaygısızlığa uğramış zırhı ve savaştan yıpranmış zırh hurdalarını geri getir ve ihtiyacım olan diğer malzeme bileşenlerini bana sağla, ben de senin için Düşgezgin zırhı işleyeyim.",
+    ["Description"]="Son savaşta birçok kahraman düştü ve birçoğu da bugün Afet'in handsinde can vermeye devam ediyor. Düşenlerin cesetlerinden zırhlar sökülüyor ve bilinmeyen amaçlar için kullanılmak üzere Naxxramas'a geri götürülüyor.NEW_LINENEW_LINESaygısızlığa uğramış zırhı ve savaştan yıpranmış zırh hurdalarını geri getir ve ihtiyacım olan diğer malzeme bileşenlerini bana sağla, ben de senin için Düşgezgin zırhı işleyeyim.",
     ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Rayne sana Düşgezgin Bilek Korumaları yapacaktır: 1 Saygısızlığa Uğramış Bilek Koruması, 6 Savaştan Yıpranmış Deri Hurdası, 1 Büyülü Kristal ve 2 İşlenmiş Sert Deri.",
     ["Progress"]="Malzeme maliyeti yüksek ama yakında unutulur.",
     ["Completion"]="Düşgezgin Bilek Korumaların hazır, YOUR_NAME.",
@@ -72027,7 +72027,7 @@ QuestTranslator_QuestData = {
     ["Description"]="Bu yazılı emrin taşıyıcısı, sözleşmeli iş emrini tamamlaması üzerine kendi seçeceği bir nişan şeklinde ödeme alma hakkına sahiptir.NEW_LINEİş Emri AL-169110:NEW_LINENEW_L20 Büyük İyileştirme İksiri.NEW_LINEDoldurulan tüm siparişler Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim edilmelidir.NEW_LINENEW_LTahrif edilirse veya hasar görürse sözleşme hükümsüzdür.NEW_LINENEW_L-Sevk Komutanı Metz, Gümüşi Şafak",
     ["Objectives"]="20 Büyük İyileştirme İksiri'ni ve Zanaatkar Emir Belgesi - Büyük İyileştirme İksiri'ni Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim et.",
     ["Progress"]="Bir iş emri mi dolduruyorsun, YOUR_CLASS?",
-    ["Completion"]="Ön saflardaki birliklerin bunlara ne dediğini biliyor musun? Şişedeki rahipler...NEW_LINENEW_L<Yük Katırcısı Stonebruiser şarkı söyler.>NEW_LINENEW_L\"Ben senin şişedeki rahibinim bebeğim... beni doğru şekilde içmelisin...\"NEW_LINENEW_LSorun ne evlat? Bu buralarda çok popüler bir şarkıdır.",
+    ["Completion"]="Ön saflardaki birliklerin bunlara ne dediğini biliyor musun? Şişedeki rahipler...NEW_LINENEW_L<Yük Katırcısı Stonebruiser şarkı söyler.>NEW_LINENEW_L\"Ben senin şişedeki rahibinim bebeğim... beni doğru şekilde içmelisin...\"NEW_LINENEW_LINESorun ne evlat? Bu buralarda çok popüler bir şarkıdır.",
     ["minlevel"]="55",
     ["questlevel"]="60"
 },
@@ -72057,7 +72057,7 @@ QuestTranslator_QuestData = {
     ["Description"]="Bu yazılı emrin taşıyıcısı, sözleşmeli iş emrini tamamlaması üzerine kendi seçeceği bir nişan şeklinde ödeme alma hakkına sahiptir.NEW_LINEİş Emri FS-12:NEW_LINENEW_L30 Zırhlı Balık.NEW_LINEDoldurulan tüm siparişler Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim edilmelidir.NEW_LINENEW_LTahrif edilirse veya hasar görürse sözleşme hükümsüzdür.NEW_LINENEW_L-Sevk Komutanı Metz, Gümüşi Şafak",
     ["Objectives"]="30 Zırhlı Balık'ı ve Zanaatkar Emir Belgesi - Zırhlı Balık'ı Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde Yük Katırcısı Stonebruiser'a teslim et.",
     ["Progress"]="Bir iş emri mi dolduruyorsun, YOUR_CLASS?",
-    ["Completion"]="Gerçekten bunların ne için olduğunu bilmiyor musun?NEW_LINENEW_L<Yük Katırcısı Stonebruiser güler.>NEW_LINENEW_LSanki sana söyleyecekmişim gibi!",
+    ["Completion"]="Gerçekten bunların ne için olduğunu bilmiyor musun?NEW_LINENEW_L<Yük Katırcısı Stonebruiser güler.>NEW_LINENEW_LINESanki sana söyleyecekmişim gibi!",
     ["minlevel"]="55",
     ["questlevel"]="60"
 },
@@ -72114,7 +72114,7 @@ QuestTranslator_QuestData = {
 
 ["9221"] = {
     ["Title"]="Üstün Savaş Silahları - Şafağın Dostu",
-    ["Description"]="Selamlar dostum. Şafak veya Haçlı Seferi nişanların var mı ki güç eşyalarıyla takas etmek istersin?NEW_LINENEW_LSeni uyarmalıyım; Şafak ile dostane bir repütasyonda yapılan satın alımlar ağır bir ek ücretle gelir. Planlarınla ilerlemeden önce Şafak ile daha iyi bir repütasyon kazanmanı tavsiye ederim.",
+    ["Description"]="Selamlar dostum. Şafak veya Haçlı Seferi nişanların var mı ki güç eşyalarıyla takas etmek istersin?NEW_LINENEW_LINESeni uyarmalıyım; Şafak ile dostane bir repütasyonda yapılan satın alımlar ağır bir ek ücretle gelir. Planlarınla ilerlemeden önce Şafak ile daha iyi bir repütasyon kazanmanı tavsiye ederim.",
     ["Objectives"]="30 Şafak Nişanı ve 30 Haçlı Seferi Nişanı karşılığında Gümüşi Şafak'ın hazine zulasından bir eşya seçebilirsin.",
     ["Progress"]="Dikkatli seç. İade yoktur.",
     ["Completion"]="İyi günler, YOUR_NAME. Seninle iş yapmak bir zevkti.",
@@ -72124,7 +72124,7 @@ QuestTranslator_QuestData = {
 
 ["9222"] = {
     ["Title"]="Destansı Savaş Silahları - Şafağın Dostu",
-    ["Description"]="Selamlar dostum. Şafak veya Haçlı Seferi nişanların var mı ki büyük güç eşyalarıyla takas etmek istersin?NEW_LINENEW_LSeni uyarmalıyım; Şafak ile dostane bir repütasyonda yapılan satın alımlar son derece ağır bir ek ücretle gelir. Planlarınla ilerlemeden önce Şafak ile daha iyi bir repütasyon kazanmanı tavsiye ederim.",
+    ["Description"]="Selamlar dostum. Şafak veya Haçlı Seferi nişanların var mı ki büyük güç eşyalarıyla takas etmek istersin?NEW_LINENEW_LINESeni uyarmalıyım; Şafak ile dostane bir repütasyonda yapılan satın alımlar son derece ağır bir ek ücretle gelir. Planlarınla ilerlemeden önce Şafak ile daha iyi bir repütasyon kazanmanı tavsiye ederim.",
     ["Objectives"]="110 Şafak Nişanı ve 110 Haçlı Seferi Nişanı karşılığında Gümüşi Şafak'ın hazine zulasından bir eşya seçebilirsin.",
     ["Progress"]="Dikkatli seç. İade yoktur.",
     ["Completion"]="İyi günler, YOUR_NAME. Seninle iş yapmak bir zevkti.",
@@ -72134,7 +72134,7 @@ QuestTranslator_QuestData = {
 
 ["9223"] = {
     ["Title"]="Üstün Savaş Silahları - Şafak Arasında Hürmet Edilen",
-    ["Description"]="Selamlar dostum. Şafak veya Haçlı Seferi nişanların var mı ki güç eşyalarıyla takas etmek istersin?NEW_LINENEW_LSeni uyarmalıyım; Şafak ile hürmet edilen bir repütasyonda yapılan satın alımlar oldukça engelleyici bir ek ücretle gelir. Planlarınla ilerlemeden önce Şafak ile daha iyi bir repütasyon kazanmanı tavsiye ederim.",
+    ["Description"]="Selamlar dostum. Şafak veya Haçlı Seferi nişanların var mı ki güç eşyalarıyla takas etmek istersin?NEW_LINENEW_LINESeni uyarmalıyım; Şafak ile hürmet edilen bir repütasyonda yapılan satın alımlar oldukça engelleyici bir ek ücretle gelir. Planlarınla ilerlemeden önce Şafak ile daha iyi bir repütasyon kazanmanı tavsiye ederim.",
     ["Objectives"]="20 Şafak Nişanı ve 20 Haçlı Seferi Nişanı karşılığında Gümüşi Şafak'ın hazine zulasından bir eşya seçebilirsin.",
     ["Progress"]="Dikkatli seç. İade yoktur.",
     ["Completion"]="İyi günler, YOUR_NAME. Seninle iş yapmak bir zevkti.",
@@ -72144,7 +72144,7 @@ QuestTranslator_QuestData = {
 
 ["9224"] = {
     ["Title"]="Destansı Savaş Silahları - Şafak Arasında Hürmet Edilen",
-    ["Description"]="Selamlar dostum. Şafak veya Haçlı Seferi nişanların var mı ki büyük güç eşyalarıyla takas etmek istersin?NEW_LINENEW_LSeni uyarmalıyım; Şafak ile hürmet edilen bir repütasyonda yapılan satın alımlar son derece ağır bir ek ücretle gelir. Planlarınla ilerlemeden önce Şafak ile daha iyi bir repütasyon kazanmanı tavsiye ederim.",
+    ["Description"]="Selamlar dostum. Şafak veya Haçlı Seferi nişanların var mı ki büyük güç eşyalarıyla takas etmek istersin?NEW_LINENEW_LINESeni uyarmalıyım; Şafak ile hürmet edilen bir repütasyonda yapılan satın alımlar son derece ağır bir ek ücretle gelir. Planlarınla ilerlemeden önce Şafak ile daha iyi bir repütasyon kazanmanı tavsiye ederim.",
     ["Objectives"]="75 Şafak Nişanı ve 75 Haçlı Seferi Nişanı karşılığında Gümüşi Şafak'ın hazine zulasından bir eşya seçebilirsin.",
     ["Progress"]="Dikkatli seç. İade yoktur.",
     ["Completion"]="İyi günler, YOUR_NAME. Seninle iş yapmak bir zevkti.",
@@ -72154,7 +72154,7 @@ QuestTranslator_QuestData = {
 
 ["9225"] = {
     ["Title"]="Destansı Savaş Silahları - Şafak Arasında Saygıdeğer",
-    ["Description"]="Selamlar dostum. Şafak veya Haçlı Seferi nişanların var mı ki büyük güç eşyalarıyla takas etmek istersin?NEW_LINENEW_LSeni uyarmalıyım; Şafak ile saygıdeğer bir repütasyonda yapılan destansı satın alımlar hâlâ oldukça pahalıdır. Planlarınla ilerlemeden önce Şafak ile daha iyi bir repütasyon kazanmanı tavsiye ederim.",
+    ["Description"]="Selamlar dostum. Şafak veya Haçlı Seferi nişanların var mı ki büyük güç eşyalarıyla takas etmek istersin?NEW_LINENEW_LINESeni uyarmalıyım; Şafak ile saygıdeğer bir repütasyonda yapılan destansı satın alımlar hâlâ oldukça pahalıdır. Planlarınla ilerlemeden önce Şafak ile daha iyi bir repütasyon kazanmanı tavsiye ederim.",
     ["Objectives"]="45 Şafak Nişanı ve 45 Haçlı Seferi Nişanı karşılığında Gümüşi Şafak'ın hazine zulasından bir eşya seçebilirsin.",
     ["Progress"]="Dikkatli seç. İade yoktur.",
     ["Completion"]="İyi günler, YOUR_NAME. Seninle iş yapmak bir zevkti.",
@@ -72644,7 +72644,7 @@ QuestTranslator_QuestData = {
 
 ["9386"] = {
     ["Title"]="Karanlık Yerlerde Bir Işık",
-    ["Description"]="İstekli birisin, değil mi? Derinliklere bir kez daha girmeye istekliysen seni memnuniyetle ödüllendiririm.NEW_LINENEW_LStratholme, Scholomance, Dire Maul ve Kara Kaya Tepesi salonlarının içindeki şenlik ateşlerini ara; dönüşünü sabırsızlıkla bekliyorum, YOUR_NAME.",
+    ["Description"]="İstekli birisin, değil mi? Derinliklere bir kez daha girmeye istekliysen seni memnuniyetle ödüllendiririm.NEW_LINENEW_LINEStratholme, Scholomance, Dire Maul ve Kara Kaya Tepesi salonlarının içindeki şenlik ateşlerini ara; dönüşünü sabırsızlıkla bekliyorum, YOUR_NAME.",
     ["Objectives"]="Kara Kaya Tepesi, Dire Maul, Scholomance ve Stratholme içinde bulunan şenlik ateşlerini bul ve dokun, ardından Şenlik Alevi Muhafızı ile konuş.",
     ["Progress"]="",
     ["Completion"]="",
@@ -72657,7 +72657,7 @@ QuestTranslator_QuestData = {
     ["Description"]="Mareşal Maviçeper'in yeni acemileri misiniz? Elbette öylesiniz.NEW_LINENEW_LINENe bekliyorsunuz? İyi askerler çölde ölüyor. Onlara katılmak için heyecanlı değil misiniz?NEW_LINENEW_LINEŞimdi gidin ve yolda kurumayın.",
     ["Objectives"]="Hive'Zora yakınındaki İttifak ordugahında bulunan Mareşal Maviçeper ile konuş.",
     ["Progress"]="",
-    ["Completion"]="İttifak alabileceği her sağlam bedene ihtiyaç duyuyor. Güruh kıtanın kuzey kısmından düzenli bir takviye erzak akışı alıyor ve buna ayak uydurmak bir mücadele oldu.NEW_LINENEW_LSana durumu açıklayayım.",
+    ["Completion"]="İttifak alabileceği her sağlam bedene ihtiyaç duyuyor. Güruh kıtanın kuzey kısmından düzenli bir takviye erzak akışı alıyor ve buna ayak uydurmak bir mücadele oldu.NEW_LINENEW_LINESana durumu açıklayayım.",
     ["minlevel"]="1",
     ["questlevel"]="60"
 },
@@ -72786,7 +72786,7 @@ QuestTranslator_QuestData = {
     ["Title"]="Savaş Malzemeleri İçin Beş Mühür",
     ["Description"]="",
     ["Objectives"]="Öyleyse anlaştık; işte erzakların YOUR_CLASS. Ek bir takas yapmak istersen, bunu yetkilendirmeye hazırım. Sadece kelimeyi söyle, gerçekleşmesini sağlayayım.NEW_LINEİyi iş çıkarmaya devam et, YOUR_NAME. Bu işi kazanacaksak toplayabileceğimiz tüm mühimmatlara ihtiyacımız var. Hepimiz üzerimize düşeni yaparsak, zafer bizim olacaktır!",
-    ["Progress"]="Ah, kendin için ek erzak almaya geldin, değil mi? Pekala, ek mühimmat ihtiyacını kesinlikle anlayabiliyorum... Herhangi bir kanıt gerekiyorsa etrafına bir bakman yeterli.NEW_LINENEW_LSana bazı ek erzaklar vereceğim ama karşılığında bana uygun sayıda takdir mührü vermen gerekecek. Mühürleri bu şekilde teslim ettiğin için hiçbir resmi takdir almayacaksın ama savaş nihayet üzerimize çöktüğünde seni hayatta tutmaya yardımcı olacak yararlı bir şey bulabilirsin.",
+    ["Progress"]="Ah, kendin için ek erzak almaya geldin, değil mi? Pekala, ek mühimmat ihtiyacını kesinlikle anlayabiliyorum... Herhangi bir kanıt gerekiyorsa etrafına bir bakman yeterli.NEW_LINENEW_LINESana bazı ek erzaklar vereceğim ama karşılığında bana uygun sayıda takdir mührü vermen gerekecek. Mühürleri bu şekilde teslim ettiğin için hiçbir resmi takdir almayacaksın ama savaş nihayet üzerimize çöktüğünde seni hayatta tutmaya yardımcı olacak yararlı bir şey bulabilirsin.",
     ["Completion"]="Öyleyse anlaştık; işte erzakların YOUR_CLASS. Ek bir takas yapmak istersen, bunu yetkilendirmeye hazırım. Sadece kelimeyi söyle, gerçekleşmesini sağlayayım.NEW_LINEİyi iş çıkarmaya devam et, YOUR_NAME. Bu işi kazanacaksak toplayabileceğimiz tüm mühimmatlara ihtiyacımız var. Hepimiz üzerimize düşeni yaparsak, zafer bizim olacaktır!",
     ["minlevel"]="10",
     ["questlevel"]="19"
@@ -72926,7 +72926,7 @@ QuestTranslator_QuestData = {
     ["Title"]="Zandalar Mühürleri",
     ["Description"]="",
     ["Objectives"]="",
-    ["Progress"]="YOUR_NAME - Zandalar arasında senin kadar yüce biri için çok özel bir şeyim var. Doğrudan Güney Denizleri'ndeki evimizden... Zandalar Mühürleri! Bu mühürler sahip olabileceğin herhangi bir omuzluk eşyasını geliştirmek için kullanılır. İster güç, ister mojo, ister huzur ara - ihtiyacın olan şey bende var!NEW_LINENEW_LSeçeceğin bir mühür karşılığında on beş Zandalar Onur Jetonu istiyorum. Jetonlar hazırsa ben de anlaşma yapmaya hazırım!",
+    ["Progress"]="YOUR_NAME - Zandalar arasında senin kadar yüce biri için çok özel bir şeyim var. Doğrudan Güney Denizleri'ndeki evimizden... Zandalar Mühürleri! Bu mühürler sahip olabileceğin herhangi bir omuzluk eşyasını geliştirmek için kullanılır. İster güç, ister mojo, ister huzur ara - ihtiyacın olan şey bende var!NEW_LINENEW_LINESeçeceğin bir mühür karşılığında on beş Zandalar Onur Jetonu istiyorum. Jetonlar hazırsa ben de anlaşma yapmaya hazırım!",
     ["Completion"]="Adil bir takas dostum - lütfen kabilenin kutsamasıyla mühürünü kabul et!",
     ["minlevel"]="58",
     ["questlevel"]="60"
@@ -73024,10 +73024,10 @@ QuestTranslator_QuestData = {
 
 ["8373"] = {
     ["Title"]="Çamın Gücü",
-    ["Description"]="Cadılar Bayramı hakkında en nefret ettiğim şey Terkedilmişler'in Southshore üzerinde kullandığı koku bombalarıdır. Özgürleşmeyi kutlamanın bu kadar kokuşmuş bir pisliği içereceğini kim bilebilirdi?NEW_LINECadılar Bayramı boyunca Güruh'un köyde düşürebileceği çirkin koku bombalarını kaldırmak için bu temizleyiciyi kullan. Kötü kokularla savaşmak için çamın gücünü kullanır.NEW_LINENEW_LSouthshore'u temiz tutmak için üzerine düşeni yap, ben de sana keyif alacağından emin olduğum bazı Cadılar Bayramı ikramları vereyim. Anlaştık mı?",
+    ["Description"]="Cadılar Bayramı hakkında en nefret ettiğim şey Terkedilmişler'in Southshore üzerinde kullandığı koku bombalarıdır. Özgürleşmeyi kutlamanın bu kadar kokuşmuş bir pisliği içereceğini kim bilebilirdi?NEW_LINECadılar Bayramı boyunca Güruh'un köyde düşürebileceği çirkin koku bombalarını kaldırmak için bu temizleyiciyi kullan. Kötü kokularla savaşmak için çamın gücünü kullanır.NEW_LINENEW_LINESouthshore'u temiz tutmak için üzerine düşeni yap, ben de sana keyif alacağından emin olduğum bazı Cadılar Bayramı ikramları vereyim. Anlaştık mı?",
     ["Objectives"]="Southshore'a atılmış herhangi bir Terkedilmiş Koku Bombası'nı kaldırmak için Koku Bombası Temizleyicisi'ni kullan. İşin bittiğinde Southshore'daki Çavuş Hartman'a dön.",
     ["Progress"]="O lanet Terkedilmişler... zaten hortlak olmaları yeterince kötü değilmiş gibi, bir de galeyana gelip BENİM köyümde sorun çıkarmaya başlıyorlar!",
-    ["Completion"]="Ah, buraları şimdiden daha iyi kokmaya başladı bile. Neredeyse.NEW_LINENEW_LSenin sayende, YOUR_NAME, Southshore başka bir Cadılar Bayramı'nı daha atlatabilir. İşte ikramların, teşekkürlerimle! Şekerin biterse sanırım Demirörs'te Katrina Shimmerstar adında bir cüce kadın var ve sana daha fazlasını satabilir; sanırım sadece Cadılar Bayramı sırasında buralarda.",
+    ["Completion"]="Ah, buraları şimdiden daha iyi kokmaya başladı bile. Neredeyse.NEW_LINENEW_LINESenin sayende, YOUR_NAME, Southshore başka bir Cadılar Bayramı'nı daha atlatabilir. İşte ikramların, teşekkürlerimle! Şekerin biterse sanırım Demirörs'te Katrina Shimmerstar adında bir cüce kadın var ve sana daha fazlasını satabilir; sanırım sadece Cadılar Bayramı sırasında buralarda.",
     ["minlevel"]="25",
     ["questlevel"]="60"
 },
@@ -73077,7 +73077,7 @@ QuestTranslator_QuestData = {
     ["Description"]="",
     ["Objectives"]="",
     ["Progress"]="",
-    ["Completion"]="Geçmiş çağların savaşları efsanelerin büyüdüğü tohumlardır. Seninki kahramanların çağıdır genç olan. Efsanen kök salsın, serpilsin.NEW_LINENEW_LSana iyilikler dilerim, YOUR_NAME ve sana bu simgeyi sunuyorum...",
+    ["Completion"]="Geçmiş çağların savaşları efsanelerin büyüdüğü tohumlardır. Seninki kahramanların çağıdır genç olan. Efsanen kök salsın, serpilsin.NEW_LINENEW_LINESana iyilikler dilerim, YOUR_NAME ve sana bu simgeyi sunuyorum...",
     ["minlevel"]="1",
     ["questlevel"]="60"
 },
