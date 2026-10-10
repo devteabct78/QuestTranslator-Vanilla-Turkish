@@ -1311,7 +1311,7 @@ QuestTranslator_BookData = {
     },
     ["Hallowed Sigil"] = {
         ["Title"] = "Kutsal Mühür",
-        ["Text"] = "Bu mührün seni iyi bulmasını umuyorum, $N. Ruhlar bana gelişini söyledi ve ben de hemen haber gönderdim. Deneyimlerimi seninle paylaşmayı ve daha önemli meseleler için Teldrassil'den ayrılmaya hazırlanırken sana rehberlik etmeyi sabırsızlıkla bekliyorum.NEW_LINENEW_LINESon birkaç yılda yaşanan bunca şeyle birlikte, Azeroth'un diğer ırklarına yardım etmek için yapabileceğimiz çok şey var. Hazır olduğunda beni Aldrassil'in içinde, ikinci seviyede bul.NEW_LINENEW_LINE-Shanda, Rahip Eğitmeni"
+        ["Text"] = "Bu mührün seni iyi bulmasını umuyorum, YOUR_NAME. Ruhlar bana gelişini söyledi ve ben de hemen haber gönderdim. Deneyimlerimi seninle paylaşmayı ve daha önemli meseleler için Teldrassil'den ayrılmaya hazırlanırken sana rehberlik etmeyi sabırsızlıkla bekliyorum.NEW_LINESon birkaç yılda yaşanan bunca şeyle birlikte, Azeroth'un diğer ırklarına yardım etmek için yapabileceğimiz çok şey var. Hazır olduğunda beni Aldrassil'in içinde, ikinci seviyede bul.NEW_LINENEW_LINE-Shanda, Rahip Eğitmeni"
     },
     ["Encrypted Memorandum"] = {
         ["Title"] = "Şifreli Muhtıra",

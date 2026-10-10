@@ -4318,8 +4318,8 @@ QuestTranslator_QuestData = {
     ["Title"]="Orman Koruyucusu",
     ["Description"]="Tanrıya şükür buradasın, YOUR_CLASS. Tuhaf haberler orman ruhlarının fısıltılarıyla bana ulaştı.NEW_LINEGizemli orman koruyucusu Tarindrella tekrar Shadowglen'e döndü. Kurbağanın varlığı Teldrassil'in kutsanmasından bu yana ormanlarda hissedilmiyordu. Eğer bu topraklara geri döndüyse kesinlikle bir terslik var demektir.NEW_LINETarindrella'yı ara ve korumuzda ne işle uğraştığını öğren. Nöbetçilerden biri onu Aldrassil'in güneybatısında gördüğünü bildirdi.",
     ["Objectives"]="Tarindrella olarak bilinen dryad'ı ara.",
-    ["Progress"]="",
-    ["Completion"]="Görüyorum ki beni bulmuşsun, genç YOUR_RACE. Melithar seni gönderdiğine göre bilge bir büyücü.",
+    ["Progress"]="Şüphelerimi doğrula ve bana 8 tane Fel yosunu getir.",
+    ["Completion"]="Shadowglen yaratıklarına sunduğun hizmet ödüle değer, Canatan. Ancak korkularımı doğruladın. Eğer grell'ler Fel Moss yüzünden bozulduysa, bir zamanlar burada yaşayan Gnarlpine furbolg kabilesinin ne hale geldiğini hayal bile edemiyorum.NEW_LINEYolun Dolanaar'a düşerse yetenekli Rahip, bilgili druid Athridas Bearmantle'ı bul. O da ormanın refahı konusundaki endişelerimizi paylaşıyor.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Orman Koruyucusu
@@ -7778,16 +7778,15 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end Webwood Yolsuzluğu
 
-    -- Webwood Yumurtası
-    ["917"] = {
-    ["Title"]="Webwood Yumurtası",
-    ["Description"]="Aslında düşündüm de, belki bana biraz daha yardımcı olabilirsin. Buraya mağaranın derinliklerinden bir ağ ağacı yumurtası almaya geldim ama örümcekler buna izin vermedi. Eğer yumurtayı alıp Dirania'ya geri getirebilirsen, ikimiz de çok minnettar oluruz.",
-    ["Objectives"]="Bir Webwood Yumurtası alın.",
-    ["Progress"]="Shadowthread Mağarası'na girdin mi, YOUR_NAME ? Örümcek yumurtası buldun mu?",
-    ["Completion"]="Ah, çok iyi. Bu yumurtayı ve zehri Darnassus'a naklettirip, buradaki çalışmalarım bitince oraya döneceğim. Bu örneklerden çok şey öğrenmeyi umuyorum, YOUR_NAME. Bana çok yardımcı oldunuz.",
-    ["minlevel"]="0",
-    ["questlevel"]="0",
-    }, -- end Webwood Yumurtası
+   ["917"] = {
+        ["Title"] = "Ağorman Yumurtası",
+        ["Description"] = "Örümceklerin zehrini aldığıma göre, artık incelemek için canlı numuneler istiyorum. Ne yazık ki, canlı ve devasa bir örümceği yakalamak senden isteyebileceğimden çok daha fazlası, genç YOUR_RACE. Ve devasa bir örümcek benim de tek başıma başa çıkabileceğimin ötesinde!\n\nAncak henüz yumurtadan çıkmamış bir yumurta bulabilirsen, numuneleri teslim etmek çok daha kolay olacaktır ve ben de yumurtadan çıkmamış örümceklerin kontrol altına alınmasını sağlayabilirim.\n\nGölgeiplik Mağarası'nın derinliklerinde bir yuva olmalı. Lütfen yuvada bir yumurta ara ve onu bana getir.",
+        ["Objectives"] = "Aldrassil'deki Gilshalan'a bir Ağorman Yumurtası getir.",
+        ["Progress"] = "Gölgeiplik Mağarası'nın içinde bulundun mu, YOUR_NAME? Bir örümcek yumurtası buldun mu?",
+        ["Completion"] = "Ah, çok iyi. Bu yumurtayı ve zehri Darnassus'a naklettireceğim, ardından buradaki çalışmalarım bittiğinde ben de oraya döneceğim. Bu numunelerden pek çok şey öğrenmeyi umuyorum, YOUR_NAME. Bana büyük yardımın dokundu.",
+        ["minlevel"] = "0",
+        ["questlevel"] = "0"
+    },
 
     -- Timberling Tohumları
     ["918"] = {
@@ -7824,7 +7823,7 @@ QuestTranslator_QuestData = {
 
     -- Teldrassil: Azeroth'un Tacı
     ["921"] = {
-    ["Title"]="Teldrassil: Azeroth'un Tacı",
+    ["Title"]="Dünyanın Tacı",
     ["Description"]="Kaderini aramak için yola çıkma vaktin geldi, YOUR_NAME. Ancak büyülü ormanlarımızın ötesindeki dünyaya açılmaya hazır olmadan önce, yakın tarihimiz hakkında öğrenmeniz gereken çok şey var.NEW_LINEYapman gereken bir görev var. Aldrassil'in kuzeyindeki ay kuyusuna git ve suyundan bir şişe al. Oradayken büyülerimize bir anlığına tanık olacak ve geçmişimizi öğreneceksin.NEW_LINEOrada işin bittiğinde suyu Tenaron Fırtınakıran'a getir. Onu Aldrassil'in tepesindeki batı rampasında bulacaksın.",
     ["Objectives"]="Kristal Şişeyi doldurun.",
     ["Progress"]="Ay kuyuları, dünyamızda pek çok dehşete yol açan kadim büyü kaynağı Sonsuzluk Kuyusu'nun sularını barındırır.NEW_LINEDruidler onun özelliklerinden yararlanır ve Sentineller kuyulara Elune tapınakları olarak saygı gösterir, ancak büyücülük herkes için yasaktır.",
@@ -7890,7 +7889,7 @@ QuestTranslator_QuestData = {
 
     -- Teldrassil: Farkındalık Geçişi
     ["928"] = {
-    ["Title"]="Teldrassil: Farkındalık Geçişi",
+    ["Title"]="Dünyanın Tacı",
     ["Description"]="Seninle ay kuyuları ve Teldrassil hakkında konuşabileceğim daha çok şey olsa da, seni göndermeliyim. Corithras Moonrage seni bekliyor olacak. Bana getirdiğin su şişesini ona götürmek üzere bu kaba boşalttım.NEW_LINECorithras'ı ara. Onu Dolanaar'daki ay kuyusunda bulacaksın. Shadowglen'den çıkıp Aldrassil'den güneye giden yolu takip et ve yol batıya dönerken kaldırım taşlarını takip etmeye devam et.NEW_LINEYolda kalmaya dikkat edin, YOUR_NAME. Son zamanlarda ormanlarda tehlikeli yaratıklar var.",
     ["Objectives"]="Kısmen Dolu Kabı Dolanaar'daki Corithras Moonrage'a getirin.",
     ["Progress"]="Selamlar, YOUR_CLASS. Tanışmamızın zevkini neye borçluyum?",
@@ -7901,7 +7900,7 @@ QuestTranslator_QuestData = {
 
     -- Teldrassil: Görünüşlerin Reddi
     ["929"] = {
-    ["Title"]="Teldrassil: Görünüşlerin Reddi",
+    ["Title"]="Dünyanın Tacı",
     ["Description"]="Size tamamlamanız gereken görevden biraz daha bahsedeyim. Darnassus'taki druidler Teldrassil'in ay kuyularının suyunu kullanır ve ay kuyularının zaman zaman yenilenmesi gerekir. Özel olarak hazırlanmış bu şişeleri kullanarak ay kuyularının suyunu toplayabilirsiniz.NEW_LINEBu kabı doğudaki Starbreeze Köyü'nün dışındaki ay kuyusuna götür ve suyundan bir miktar doldur, sonra bana dön. Ay kuyularının derslerine kulak verin, yoksa kendimizi eksikliklerimizi artırırken bulabiliriz.",
     ["Objectives"]="Jade Phial'ı doldurun.",
     ["Progress"]="Tekrar merhaba, YOUR_NAME. Görevinizi tamamladınız mı?",
@@ -7945,7 +7944,7 @@ QuestTranslator_QuestData = {
 
     -- Teldrassil: Yaklaşan Şafak
     ["933"] = {
-    ["Title"]="Teldrassil: Yaklaşan Şafak",
+    ["Title"]="Dünyanın Tacı",
     ["Description"]="Ziyaret etmenizi istediğim son bir ay kuyusu var. Buranın hemen güneyinde, Arlithrien Havuzları'nın kıyısında. Kuyuyu ararken dikkatli olun ve silahlarınızı elinizin altında tutun. Güney Teldrassil'in dallarında büyüyen bir yozlaşma seziyorum.NEW_LINESuyu aldığında, onu havuzlarda göreceğin tanıdık bir yüze götürmeni istiyorum. Yozlaşmayla savaşmak istiyor ve seni şahsen istedi.",
     ["Objectives"]="Turmalin Phial'ı doldurun.",
     ["Progress"]="Seni tekrar görmek güzel, YOUR_NAME. Görüyorum ki Corithras Moonrage adına ay kuyularının sularını toplamayı başarmışsın. Umarım yol boyunca çok şey öğrenmişsindir.",
@@ -7967,7 +7966,7 @@ QuestTranslator_QuestData = {
 
     -- Teldrassil'in Suları
     ["935"] = {
-    ["Title"]="Teldrassil'in Suları",
+    ["Title"]="Dünyanın Tacı",
     ["Description"]="Görevlerimiz şimdilik burada bitti. Bu suyun çok önemli olduğu ortaya çıktı ama aslında benim için değildi. Devam edin ve onu kavşaktaki Corithras'a geri götürün, eminim onu asıl hedefine ulaştırmanızı ister.",
     ["Objectives"]="Dolu Kabı Darnassus'un önündeki kavşakta bulunan Corithras Moonrage'a getirin.",
     ["Progress"]="Sizi tekrar görmek güzel. Tarindrella'nın görevinin senin yanındayken sorunsuz geçtiğini hissediyorum.",
@@ -17349,16 +17348,15 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end Ay'ın Giysileri
 
-    -- Elune Lehine
     ["5622"] = {
-    ["Title"]="Elune Lehine",
-    ["Description"]="",
-    ["Objectives"]="",
-    ["Progress"]="",
-    ["Completion"]="",
-    ["minlevel"]="0",
-    ["questlevel"]="0",
-    }, -- end Elune Lehine
+        ["Title"] = "Elune'un Lütfuyla",
+        ["Description"] = "YOUR_NAME, Gölgevadi'deki işlerin bittiğinde Dolanaar'a seyahat etmelisin. Orada Laurna Sabahışığı'nı bulacaksın. Sana Elune'un yollarını öğretmeye devam edecek ve bir Elune rahibi olarak konumunu belirten ilk giysilerini onun yanında kazanacaksın.\n\nKendine dikkat et ve yolculuklarında korunasın.",
+        ["Objectives"] = "Teldrassil'deki Laurna Sabahışığı ile konuş.",
+        ["Progress"] = "",
+        ["Completion"] = "Shanda'nın seni beni bulman için gönderdiğini gördüğüme sevindim, YOUR_NAME. Genç rahiplere Elune'un yollarını öğretmek bana büyük bir tatmin veriyor.",
+        ["minlevel"] = "0",
+        ["questlevel"] = "0"
+    },
 
     -- Işık Lehine
     ["5623"] = {
@@ -19627,7 +19625,7 @@ QuestTranslator_QuestData = {
 
     -- Teldrassil: Kaldorei'nin Yükü
     ["7383"] = {
-    ["Title"]="Teldrassil: Kaldorei'nin Yükü",
+    ["Title"]="Dünyanın Tacı",
     ["Description"]="Şimdi kuzeybatıdaki Kehanet Ağacı'nın dalları altında bulunan ay kuyusunu ziyaret etmelisiniz. Kuyularımızın ilki ve en güçlüsü olan bu kuyunun sularının Elune'nin Güçlerinin özüne sahip olduğu söylenir.NEW_LINESuyundan bir şişe al ve bana dön. Görevin tamamlandığında seninle Darnassus'un önündeki kavşakta buluşacağız.",
     ["Objectives"]="Ametist Phial'ı doldurun.",
     ["Progress"]="Kehanet Ağacı'nın huzurunda olmak... neredeyse bilgeliğin şekil aldığını hissetmektir.",
@@ -31634,8 +31632,8 @@ QuestTranslator_QuestData = {
     -- Webwood spiders -> Ağaç ağı örümcekleri. Shadowglen -> Gölgevadi (Shadow + Glen).
     -- Teldrassil kalmıştır. Gilshalan Windwalker -> Gilshalan Rüzgâryürüyen (Wind + Walker).
     ["Title"]="Habis Githyiss",
-    ["Description"]="Iverron'un saldırıya uğradığını mı söylüyorsun? Hem de Gölgeiplik Mağarası'nın (Shadowthread Cave) dışında,  Githyiss tarafından mı? Bu vahim bir haber... Ağaç ağı örümceklerinin (webwood spiders) kuluçka anasının bu kadar düşmanca davranacağını düşünmek... Onun buralardaki yaban hayatını acımasızca ve aşırı avladığına dair söylentileri zaten duymuştum. Ancak halkımıza saldıracak kadar ileri gittiyse... Bunu söylemek bana acı veriyor ama korkarım ki ortadan kaldırılması gerekiyor. Onun bu vahşi doğası artık Gölgevadi'nin (Shadowglen)  dengesini tehdit ediyor. Eğer onu avlayacaksan çok dikkatli ol, YOUR_NAME; zehri kendi soyununkilerden çok daha güçlüdür. Yapabilirsen, araştırmamı ilerletebilmem için lütfen onun zehir kesesini geri getir. Sadece Teldrassil genelinde ne olup bittiğine dair bazı cevaplar sunmasını umuyorum.",
-    ["Objectives"]="Habis Githyiss'i (Githyiss the Vile) öldür ve Zehir Kesesini ele geçir, ardından Gilshalan Rüzgâryürüyen'e (Gilshalan Windwalker) geri dön.",
+    ["Description"]="Iverron'un saldırıya uğradığını mı söylüyorsun? Hem de Gölgeiplik Mağarası'nın (Shadowthread Cave) dışında,  Githyiss tarafından mı? Bu vahim bir haber... Ağaç ağı örümceklerinin (webwood spiders) kuluçka anasının bu kadar düşmanca davranacağını düşünmek... NEW_LINEOnun buralardaki yaban hayatını acımasızca ve aşırı avladığına dair söylentileri zaten duymuştum. Ancak halkımıza saldıracak kadar ileri gittiyse... Bunu söylemek bana acı veriyor ama korkarım ki ortadan kaldırılması gerekiyor. Onun bu vahşi doğası artık Gölgevadi'nin (Shadowglen)  dengesini tehdit ediyor. NEW_LINEEğer onu avlayacaksan çok dikkatli ol, YOUR_NAME; zehri kendi soyununkilerden çok daha güçlüdür. Yapabilirsen, araştırmamı ilerletebilmem için lütfen onun zehir kesesini geri getir. Sadece Teldrassil genelinde ne olup bittiğine dair bazı cevaplar sunmasını umuyorum.",
+    ["Objectives"]="Habis Githyiss'i öldür ve Zehir Kesesini ele geçir, ardından Gilshalan Rüzgâryürüyen'e (Gilshalan Windwalker) geri dön.",
     ["Progress"]="Kuluçka anasını ortadan kaldırmalıyız. Korkarım başka seçeneğimiz kalmadı...",
     ["Completion"]="Yapılması gereken şey yüzünden canını sıkma, YOUR_NAME. Githyiss, idare etme yeteneğimizin ötesinde saldırgandı. Bunun sebebini bilmiyorum ama araştırmalarımda bunu gün yüzüne çıkarmayı umuyorum. Başını dik tut; Gölgevadi'nin (Shadowglen) güvenliğinin sürmesini sağladın.",
     ["minlevel"]="0",
