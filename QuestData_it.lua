@@ -4497,8 +4497,8 @@ QuestTranslator_QuestData = {
     -- Sıkıntılı Bir Esinti
     ["475"] = {
     ["Title"]="Sıkıntılı Bir Esinti",
-    ["Description"]="Ormanda rahatsız edici bir rüzgar esiyor.NEW_LINEGaerolas Talvethren, Ban'ethil Barrow Den'de Talon'un kış uykusundaki Druidlerine Büyük Gardiyan olarak hizmet ediyor. Uyuyanların seçilmiş koruyucusu olarak görevi, Ysera ile yaptıkları anlaşmanın yerine getirilmesi için onların güvenliğini sağlamaktır.NEW_LINEAma Gaerolas'tan haber gecikti ve ben gerildim. Doğuya, Starbreeze Köyü'ne git ve Gaerolas'tan bir rapor getir ki rüya gören kardeşlerimin güvenle uyuduğunu bilerek endişelerimi giderebileyim.",
-    ["Objectives"]="Starbreeze Köyü'nde Gaerolas Talvethren'i ara.",
+    ["Description"]="Ormanda rahatsız edici bir rüzgar esiyor.NEW_LINEGaerolas Talvethren, Ban'ethil Höyük İnleri(Ban'ethil Barrow Den)'de Talon'un kış uykusundaki Druidlerine Büyük Gardiyan olarak hizmet ediyor. Uyuyanların seçilmiş koruyucusu olarak görevi, Ysera ile yaptıkları anlaşmanın yerine getirilmesi için onların güvenliğini sağlamaktır.NEW_LINEAma Gaerolas'tan haber gecikti ve ben gerildim. Doğuya, Yıldızrüzgarı(Starbreeze) Köyü'ne git ve Gaerolas'tan bir rapor getir ki rüya gören kardeşlerimin güvenle uyuduğunu bilerek endişelerimi giderebileyim.",
+    ["Objectives"]="Yıldızrüzgarı(Starbreeze) Köyü'nde Gaerolas Talvethren'i ara.",
     ["Progress"]="",
     ["Completion"]="Orman ruhlarına şükürler olsun ki buradasınız! Athridas'ın sorunu sezip yardım göndereceğini biliyordum.",
     ["minlevel"]="0",
@@ -4507,11 +4507,11 @@ QuestTranslator_QuestData = {
 
     -- Gnarlpine Yolsuzluk
     ["476"] = {
-    ["Title"]="Gnarlpine Yolsuzluk",
-    ["Description"]="Gnarlpine kabilesinin yozlaşması geri döndü!NEW_LINEBan'ethil Barrow İni'ne giderken beni pusuya düşürdüler ve Starbreeze Köyü'nü yağmalamaya başladılar. Ormandaki bir şey reisleri Mauler Ursal'ı bozmuş ve onları delirtmek için fel yosununun şeytani güçlerini kullanıyor.NEW_LINEAthridas'a bu vahim haberi vermek için dönemeyecek kadar yaralıyım. Bu görev sana kaldı, genç YOUR_CLASS. Tek umudumuz dengesiz Gnarlpines'in henüz Ban'ethil'e ulaşmamış olması!",
+    ["Title"]="Gnarlpine Yozlaşması",
+    ["Description"]="Gnarlpine kabilesinin yozlaşması geri döndü!NEW_LINEBan'ethil Barrow İni'ne giderken beni pusuya düşürdüler ve Yıldızrüzgarı Köyü'nü yağmalamaya başladılar. Ormandaki bir şey reisleri Mauler Ursal'ı bozmuş ve onları delirtmek için fel yosununun şeytani güçlerini kullanıyor.NEW_LINEAthridas'a bu vahim haberi vermek için dönemeyecek kadar yaralıyım. Bu görev sana kaldı, genç YOUR_CLASS. Tek umudumuz dengesiz Gnarlpines'in henüz Ban'ethil'e ulaşmamış olması!",
     ["Objectives"]="Dolanaar'daki Athridas Bearmantle'a dönün.",
     ["Progress"]="",
-    ["Completion"]="Yıldızlar adına! Bu gerçekten çok rahatsız edici!NEW_LINEGeçmişte furbolgların yozlaşmasıyla ilgili sıkıntılar yaşadık, ancak Teldrassil'in temizlenmesinden bu yana bu tür sıkıntılar çoktan geçmiş olmalı. Eğer yönlerin kutsamaları ulu ağacımızı kurtaramazsa tüm halkımız için endişeleniyorum.",
+    ["Completion"]="Yıldızlar adına! Bu gerçekten çok rahatsız edici!",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Gnarlpine Yolsuzluk
@@ -4585,9 +4585,9 @@ QuestTranslator_QuestData = {
     -- Uyanış Emanetleri
     ["483"] = {
     ["Title"]="Uyanış Emanetleri",
-    ["Description"]="Gnarlpine istilacıları, batıdaki tepeye sıkışmış Ban'ethil Barrow Den'i tahrip ederken görüldü.NEW_LINEUyuyan druidler, biz yardım etmezsek kaderlerinden habersiz sonsuza dek Zümrüt Rüyası'nda mahsur kalacaklar. Hassas kış uykusu ritüeli, Uyanış Yadigarları olmadan kırılamaz.NEW_LINEİn'e gidin ve Kuzgun Pençesi Tılsımı, Siyah Tüy Tüy, Gökyüzü Safiri ve Yuva Rünü'nü alın. Druidler onları kutsal sandıklarda saklıyor. Onları bana geri getir ve ben de uyandırma ayinini hazırlayayım.",
+    ["Description"]="Gnarlpine istilacıları, batıdaki tepeye sıkışmış Ban'ethil Höyük İnleri(Ban'ethil Barrow Den)'i tahrip ederken görüldü.NEW_LINEUyuyan druidler, biz yardım etmezsek kaderlerinden habersiz sonsuza dek Zümrüt Rüyası'nda mahsur kalacaklar. Hassas kış uykusu ritüeli, Uyanış Yadigarları olmadan kırılamaz.NEW_LINEİn'e gidin ve Kuzgun Pençesi Tılsımı, Siyah Tüy Tüy, Gökyüzü Safiri ve Yuva Rünü'nü alın. Druidler onları kutsal sandıklarda saklıyor. Onları bana geri getir ve ben de uyandırma ayinini hazırlayayım.",
     ["Objectives"]="Uyanış Yadigarlarını geri al.",
-    ["Progress"]="YOUR_NAME Eğer batıdaki Ban'ethil Barrow Den'den Uyanış Yadigarlarını alamazsak, Talon'un kaçırılan Druidleri sonsuza dek Zümrüt Rüya'da hapsolacak.NEW_LINEGeciktiğimiz her dakika onların kaderi ebedi kıyamete bir adım daha yaklaşıyor.",
+    ["Progress"]="YOUR_NAME Eğer batıdaki Ban'ethil Höyük İnleri(Ban'ethil Barrow Den)'den Uyanış Yadigarlarını alamazsak, Talon'un kaçırılan Druidleri sonsuza dek Zümrüt Rüya'da hapsolacak.NEW_LINEGeciktiğimiz her dakika onların kaderi ebedi kıyamete bir adım daha yaklaşıyor.",
     ["Completion"]="Başardın, genç YOUR_CLASS! Aferin sana. Ve eklemeliyim ki tam zamanında.",
     ["minlevel"]="0",
     ["questlevel"]="0",
@@ -4632,7 +4632,7 @@ QuestTranslator_QuestData = {
     ["Description"]="Görüyorum ki iş için heveslisin. Şanslısınız ki bir gün bile keşke benim emirlerimi yerine getirecek yeni yetme bir YOUR_CLASS olsaydı demiyorum.NEW_LINEGörüyorsun, YOUR_NAME Seni çok mutlu edebilirim ve sahip olmayı hayal bile edemeyeceğin şeyleri sana sağlayabilirim. Ama bunun gerçekleşmesi için bana bazı şeyler getirmelisin.NEW_LINEOrmandaki işim genellikle bazı reaktiflere ihtiyaç duyar. Bana gece kılıcı dişleri, strigid baykuş tüyleri ve webwood örümcek ipeği parçaları getir.NEW_LINEBunu küçük sırrımız olarak saklayalım, YOUR_RACE.",
     ["Objectives"]="2 Nightsaber Dişi, 2 Strigid Baykuş Tüyü ve 2 parça Webwood Örümcek İpeği al.",
     ["Progress"]="Meşgul bir arı mıydın, YOUR_NAME ? Bana ihtiyacım olan şeyi getirmeni bekliyordum.",
-    ["Completion"]="Ha ha! Aferin gerçekten.NEW_LINEBen Zenn Foulhoof'un emirlerimi yerine getirecek bir YOUR_RACE olacağını kim tahmin edebilirdi ki? Kesinlikle ben değil! Ama öyle işte... Bu sevgili dünyamız sürprizlerle dolu...NEW_LINESaf ve safdil için üç kez şerefe!",
+    ["Completion"]="Ha ha! Aferin gerçekten.NEW_LINEBen Zenn Pisliktoynak(Foulhoof)'un emirlerimi yerine getirecek bir YOUR_RACE olacağını kim tahmin edebilirdi ki? Kesinlikle ben değil! Ama öyle işte... Bu sevgili dünyamız sürprizlerle dolu...NEW_LINESaf ve safdil için üç kez şerefe!",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Zenn'in Teklifi
@@ -4640,7 +4640,7 @@ QuestTranslator_QuestData = {
     -- Kefaret Arayın!
     ["489"] = {
     ["Title"]="Kefaret Arayın!",
-    ["Description"]="Orman Konseyi'nin Zenn Foulhoof'a yardım ettiğinize dair haberleri var. Satir ormanın düşmanıdır. Bir YOUR_RACE olarak. Doğa'nın yaratıklarını öldürerek ormanı kirletmekten daha iyisini bilmelisin.NEW_LINETeldrassil'in dostu olarak kalmak istiyorsan Konsey'in gözünde kendini affettirmelisin.NEW_LINEFoulhoof'a bir ders ver ve kendini affettir. Fel Kozalakları ağaçlardan düşen bozulmuş tohumlardır. Yeşil dumanlar çıkarırlar.NEW_LINEFoulhoof'a biraz ver. Ona zararsız bir atıştırmalık getirdiğini düşünecek.",
+    ["Description"]="Orman Konseyi'nin Zenn Pisliktoynak(Foulhoof)'a yardım ettiğinize dair haberleri var. Satir ormanın düşmanıdır. Bir YOUR_RACE olarak. Doğa'nın yaratıklarını öldürerek ormanı kirletmekten daha iyisini bilmelisin.NEW_LINETeldrassil'in dostu olarak kalmak istiyorsan Konsey'in gözünde kendini affettirmelisin.NEW_LINEPisliktoynak(Foulhoof)'a bir ders ver ve kendini affettir. Fel Kozalakları ağaçlardan düşen bozulmuş tohumlardır. Yeşil dumanlar çıkarırlar.NEW_LINEPisliktoynak(Foulhoof)'a biraz ver. Ona zararsız bir atıştırmalık getirdiğini düşünecek.",
     ["Objectives"]="3 Fel Konisi toplayın.",
     ["Progress"]="Benim için neyin var, YOUR_NAME ? Sanırım güzel bir atıştırmalık?",
     ["Completion"]="Ah, ne tatlı bir YOUR_RACE! İşe yarayacağını biliyordum!",
@@ -7901,7 +7901,7 @@ QuestTranslator_QuestData = {
     -- Teldrassil: Görünüşlerin Reddi
     ["929"] = {
     ["Title"]="Dünyanın Tacı",
-    ["Description"]="Size tamamlamanız gereken görevden biraz daha bahsedeyim. Darnassus'taki druidler Teldrassil'in ay kuyularının suyunu kullanır ve ay kuyularının zaman zaman yenilenmesi gerekir. Özel olarak hazırlanmış bu şişeleri kullanarak ay kuyularının suyunu toplayabilirsiniz.NEW_LINEBu kabı doğudaki Starbreeze Köyü'nün dışındaki ay kuyusuna götür ve suyundan bir miktar doldur, sonra bana dön. Ay kuyularının derslerine kulak verin, yoksa kendimizi eksikliklerimizi artırırken bulabiliriz.",
+    ["Description"]="Size tamamlamanız gereken görevden biraz daha bahsedeyim. Darnassus'taki druidler Teldrassil'in ay kuyularının suyunu kullanır ve ay kuyularının zaman zaman yenilenmesi gerekir. Özel olarak hazırlanmış bu şişeleri kullanarak ay kuyularının suyunu toplayabilirsiniz.NEW_LINEBu kabı doğudaki Yıldızrüzgarı(Starbreeze) Köyü'nün dışındaki ay kuyusuna götür ve suyundan bir miktar doldur, sonra bana dön. Ay kuyularının derslerine kulak verin, yoksa kendimizi eksikliklerimizi artırırken bulabiliriz.",
     ["Objectives"]="Jade Phial'ı doldurun.",
     ["Progress"]="Tekrar merhaba, YOUR_NAME. Görevinizi tamamladınız mı?",
     ["Completion"]="Bir zamanlar ölümsüz ve saygıdeğer olan ırkımızın, kendimizi olması gerektiği gibi alçakgönüllü bir şekilde görmekte zorlanması son derece doğaldır. Doğayla ve Elune ile olan bağımızı kucaklamayı ve ölümlü kusurlarımızı bir kenara itmeyi unutmamalıyız.",
@@ -8264,7 +8264,7 @@ QuestTranslator_QuestData = {
     -- Althalaxx Kulesi
     ["965"] = {
     ["Title"]="Althalaxx Kulesi",
-    ["Description"]="Selam, genç YOUR_RACE. Ben Elissa Starbreeze, ve Auberdine'i zarar görmekten korumak benim görevim.NEW_LINEBu amaçla, Balthule Shadowstrike'ı kuzeydoğudaki Althalaxx Kulesi çevresinde meydana gelen garip olayları gözlemlemesi için gönderdim.NEW_LINEGeri dönmesinin zamanı geldi de geçiyor. Ormanda beklenmedik bir tehlikeyle karşılaşmış olmasından endişe ediyorum. Onu bulup iyi olup olmadığını öğrenirseniz çok memnun olurum.",
+    ["Description"]="Selam, genç YOUR_RACE. Ben Elissa Yıldızrüzgarı(Starbreeze), ve Auberdine'i zarar görmekten korumak benim görevim.NEW_LINEBu amaçla, Balthule Shadowstrike'ı kuzeydoğudaki Althalaxx Kulesi çevresinde meydana gelen garip olayları gözlemlemesi için gönderdim.NEW_LINEGeri dönmesinin zamanı geldi de geçiyor. Ormanda beklenmedik bir tehlikeyle karşılaşmış olmasından endişe ediyorum. Onu bulup iyi olup olmadığını öğrenirseniz çok memnun olurum.",
     ["Objectives"]="Darkshore'daki Althalaxx Kulesi yakınlarında Balthule Shadowstrike'ı bul.",
     ["Progress"]="",
     ["Completion"]="Seni Elissa mı gönderdi? O zaman iyi haberler getirmişsin. Ona bildirmem gereken sıkıntılı bir haberim var ve bunu iletecek bir aracım yok.",
@@ -8352,7 +8352,7 @@ QuestTranslator_QuestData = {
     -- Auberdine için malzemeler
     ["976"] = {
     ["Title"]="Auberdine için malzemeler",
-    ["Description"]="Delgren benden Auberdine'deki Sentinel Starbreeze'e mesaj ve malzeme götürmemi istedi ama tek başıma gitmekten çekiniyorum. Ormanda tehlikeli düşmanlar faaliyet gösteriyor ve bu malzemelerin ve bilgilerin yanlış ellere geçmesi riskini almak istemiyorum.NEW_LINEEğer siz ve diğerleri benim korumam olarak hareket ederseniz, şimdi ayrılabilirim. Sizin korumanızla bu malları güvenli bir şekilde Auberdine'e ulaştırabileceğimizden hiç şüphem yok.",
+    ["Description"]="Delgren benden Auberdine'deki Sentinel Yıldızrüzgarı(Starbreeze)'e mesaj ve malzeme götürmemi istedi ama tek başıma gitmekten çekiniyorum. Ormanda tehlikeli düşmanlar faaliyet gösteriyor ve bu malzemelerin ve bilgilerin yanlış ellere geçmesi riskini almak istemiyorum.NEW_LINEEğer siz ve diğerleri benim korumam olarak hareket ederseniz, şimdi ayrılabilirim. Sizin korumanızla bu malları güvenli bir şekilde Auberdine'e ulaştırabileceğimizden hiç şüphem yok.",
     ["Objectives"]="Feero'nun Külvadi Ormanı'ndan güvenle geçtiğini gördükten sonra Maestra'nın Karakolu'nda Arındırıcı Delgren ile konuşun.",
     ["Progress"]="Sentinellerin Darkshore'da kendilerini güçlendirmek için malzemeye büyük ihtiyaçları var.",
     ["Completion"]="Bugün iyi iş çıkardın, YOUR_CLASS. Auberdine'e yardım için gönderdiğimiz eşyalar, ormanı istila eden karanlık tehditlerle mücadelede derhal işe yarayacak.NEW_LINEBunları en içten teşekkürlerimle alın.",
@@ -12015,7 +12015,7 @@ QuestTranslator_QuestData = {
     -- Vorlus Vilehoof
     ["1683"] = {
     ["Title"]="Vorlus Vilehoof",
-    ["Description"]="Sana öğretebilmem için önce bana kararlılığını göstermelisin.NEW_LINESatir Vorlus Vilehoof, Ban'ethil Barrow Den'in güneydoğusundaki uzak ay kuyularımızdan birini buldu. Şimdi içine sıçrıyor ve saf sularını pisliğiyle kirletiyor.NEW_LINEVorlus'u ay kuyusunda bul ve yok et. Bana kanıt olarak boynuzunu getir, ben de seni bir savaşçı olarak ileri seviyede eğitmeye başlayayım.NEW_LINEAy kuyusuna giden yol çok iyi gizlenmiş YOUR_NAME Ama dikkatini topla ve tetikte ol, onu bulacaksın.",
+    ["Description"]="Sana öğretebilmem için önce bana kararlılığını göstermelisin.NEW_LINESatir Vorlus Vilehoof, Ban'ethil Höyük İnleri(Ban'ethil Barrow Den)'in güneydoğusundaki uzak ay kuyularımızdan birini buldu. Şimdi içine sıçrıyor ve saf sularını pisliğiyle kirletiyor.NEW_LINEVorlus'u ay kuyusunda bul ve yok et. Bana kanıt olarak boynuzunu getir, ben de seni bir savaşçı olarak ileri seviyede eğitmeye başlayayım.NEW_LINEAy kuyusuna giden yol çok iyi gizlenmiş YOUR_NAME Ama dikkatini topla ve tetikte ol, onu bulacaksın.",
     ["Objectives"]="Vorlus'un Boynuzu'nu Darnassus'taki Elanaria'ya getir.",
     ["Progress"]="Korna var mı, YOUR_NAME ? Ay kuyumuz şeytan Vorlus'tan arınmış mı?",
     ["Completion"]="Aferin, YOUR_NAME. Vorlus'un yenildiğini ve ay kuyumuzun temizlendiğini bilmek güzel ve sevgili Teldrassil'imizi yozlaşmadan uzak tutmaya hevesli genç savaşçılar görmek güzel.NEW_LINEŞimdi eğitiminize başlayalım...",
@@ -14101,7 +14101,7 @@ QuestTranslator_QuestData = {
     -- Zümrüt Düş Kapanı
     ["2438"] = {
     ["Title"]="Zümrüt Düş Kapanı",
-    ["Description"]="Bir zamanlar Ban'ethil Barrow Den'deki druidlerin bekçisi Gaerolas Talvethen bana zümrüt bir rüya kapanı vermişti. Bu güçlü tılsım, Zümrüt Rüya'dan enerji çekebiliyor ve onu taşıyanlara şans bahşediyorNEW_LINENe yazık ki, onu Starbreeze Köyü'ndeki şifonyerimden geri alamadım... Starbreeze bir zamanlar sakin bir yer olmasına rağmen, şimdi orada yaşayan furbolgların yozlaşmasına yenik düştü.NEW_LINEBelki de rüya kapanım YOUR_CLASS'i kurtarmaya istekli olursun?",
+    ["Description"]="Bir zamanlar Ban'ethil Höyük İnleri(Ban'ethil Barrow Den)'deki druidlerin bekçisi Gaerolas Talvethen bana zümrüt bir rüya kapanı vermişti. Bu güçlü tılsım, Zümrüt Rüya'dan enerji çekebiliyor ve onu taşıyanlara şans bahşediyorNEW_LINENe yazık ki, onu Yıldızrüzgarı(Starbreeze) Köyü'ndeki şifonyerimden geri alamadım... Yıldızrüzgarı(Starbreeze) bir zamanlar sakin bir yer olmasına rağmen, şimdi orada yaşayan furbolgların yozlaşmasına yenik düştü.NEW_LINEBelki de rüya kapanım YOUR_CLASS'i kurtarmaya istekli olursun?",
     ["Objectives"]="Zümrüt Düş Kapanı'nı al.",
     ["Progress"]="Lütfen hızlı hareket edin. Tek umudum zümrüt rüya kapanımın furbolg tarafından zarar görmemiş olması.NEW_LINEOnu henüz kurtaramadın mı, YOUR_NAME ?",
     ["Completion"]="Zümrüt rüya kapanım benim için büyük önem taşıyor. Sadece birkaç kişiye verilen bir hediyedir. Geri getirdiğin için teşekkürler, YOUR_NAME.",
@@ -14145,7 +14145,7 @@ QuestTranslator_QuestData = {
     -- Rüya Yiyen Ferocitas
     ["2459"] = {
     ["Title"]="Rüya Yiyen Ferocitas",
-    ["Description"]="Zümrüt. Kayıp! Rüya kapanım hasar gördü!NEW_LINEStarbreeze'in kuzeyinde bir grup Gnarlpine mistiği var. Liderleri Rüya Yiyen Ferocitas'ın geceleri yeşil renkte parlayan bir kolye taktığına dair haberler duydum. Şimdi rüya kapanımla, zümrütümü çaldığından eminim... Gücünün onun işine yaramadığını asla fark etmeyecektir.NEW_LINEBu kayıp mücevheri bul, YOUR_NAME. Oraya gitmişken, yozlaşmış mistiklerden bazılarını da temizle.",
+    ["Description"]="Zümrüt. Kayıp! Rüya kapanım hasar gördü!NEW_LINEYıldızrüzgarı(Starbreeze)'in kuzeyinde bir grup Gnarlpine mistiği var. Liderleri Rüya Yiyen Ferocitas'ın geceleri yeşil renkte parlayan bir kolye taktığına dair haberler duydum. Şimdi rüya kapanımla, zümrütümü çaldığından eminim... Gücünün onun işine yaramadığını asla fark etmeyecektir.NEW_LINEBu kayıp mücevheri bul, YOUR_NAME. Oraya gitmişken, yozlaşmış mistiklerden bazılarını da temizle.",
     ["Objectives"]="7 Gnarlpine Mystics'i öldür ve kayıp mücevheri bul.",
     ["Progress"]="Ferocitas ve Gnarlpine gizemcileri benim olanı geri vermeli. Lütfen zümrüdü geri getirin ki zümrüt rüya kapanım tamir edebileyim.",
     ["Completion"]="Şimdi rüya kapanımın tamirini yapabilirim. Teşekkürler, YOUR_NAME.",
@@ -14277,7 +14277,7 @@ QuestTranslator_QuestData = {
     -- Uyuyan Druid
     ["2541"] = {
     ["Title"]="Uyuyan Druid",
-    ["Description"]="Bu yerde yaşayan Gnarlpine şamanları, uyuyan bir druidin ruhunu fiziksel bedeninden ayırmanın bir yolunu keşfetti. Furbolglar fiziksel formumu canlandırdılar ve Ban'ethil Barrow Den'i keşfetmeye çalışan herkese saldırmak için kullanıyorlar. Şu anda Zümrüt Rüya'da kapana kısılmış durumdayım ve bunu durduracak gücüm yok.NEW_LINEBana yardım etmelisin. Gnarlpine şamanı bu ritüeli gerçekleştirmek için kullanılan garip bir tılsım taşıyor ve ben onu incelemek istiyorum. Lütfen, YOUR_NAME Bana bir tane getir.",
+    ["Description"]="Bu yerde yaşayan Gnarlpine şamanları, uyuyan bir druidin ruhunu fiziksel bedeninden ayırmanın bir yolunu keşfetti. Furbolglar fiziksel formumu canlandırdılar ve Ban'ethil Höyük İnleri(Ban'ethil Barrow Den)'i keşfetmeye çalışan herkese saldırmak için kullanıyorlar. Şu anda Zümrüt Rüya'da kapana kısılmış durumdayım ve bunu durduracak gücüm yok.NEW_LINEBana yardım etmelisin. Gnarlpine şamanı bu ritüeli gerçekleştirmek için kullanılan garip bir tılsım taşıyor ve ben onu incelemek istiyorum. Lütfen, YOUR_NAME Bana bir tane getir.",
     ["Objectives"]="Ban'ethil Barrow İni'ndeki Oben Rageclaw'a bir Şaman Voodoo Büyüsü getir.",
     ["Progress"]="Eğer tılsımı inceleyebilirsem, büyüyü nasıl bozacağımı bulabilirim. Bir tane buldun mu?",
     ["Completion"]="Teşekkürler, YOUR_NAME.NEW_LINENe garip bir biblo bu... Üzerinden yayılan iğrenç aurayı hissedebiliyorum; bu çok güçlü bir büyü.",
@@ -22509,8 +22509,8 @@ QuestTranslator_QuestData = {
 -- A Decisive Blow
     ["60111"] = {
     ["Title"]="Belirleyici Bir Darbe",
-    ["Description"]="Yollarımızın ve halkımızın yetenekli bir savunucusu olduğunu kanıtladın, YOUR_CLASS. Bu saldırılardan sorumlu olanlara kesin olarak bir son vermede büyük bir katkın olacağına inanıyorum. Gözcülerimiz Gnarlpine liderlerinden ikisinin, Agal ve Greenpaw'un yerlerini tespit etti. Darnassus'a giden yolda seyahat edenlere pusular kuran Agal, yolun hemen altındaki bir mağarada yaşıyor. Greenpaw ise kendisini ve soyunu Ban'ethil Barrow Den'in derinliklerine köklemiş, kutsal topraklarımızı kirleten, inin içindeki ve çevresindeki topraklardaki insanlara dehşet saçan güçlü bir şaman. Dikkatli ol, çünkü kabile arkadaşları tarafından çok iyi korunuyorlar. Bu ikisine darbe indirmeyi düşünüyorsan, güvenilir bir müttefikin yardımını almanı öneririm. Elune seni korusun ve yolunda rehberlik etsin.",
-    ["Objectives"]="Moon Priestess Amara, Darnassus yolunun altındaki mağarada bulunan Agal'ı ve Ban'ethil Barrow Den'in içindeki Greenpaw'u öldürmeni istedi.",
+    ["Description"]="Yollarımızın ve halkımızın yetenekli bir savunucusu olduğunu kanıtladın, YOUR_CLASS. Bu saldırılardan sorumlu olanlara kesin olarak bir son vermede büyük bir katkın olacağına inanıyorum. Gözcülerimiz Gnarlpine liderlerinden ikisinin, Agal ve Greenpaw'un yerlerini tespit etti. Darnassus'a giden yolda seyahat edenlere pusular kuran Agal, yolun hemen altındaki bir mağarada yaşıyor. Greenpaw ise kendisini ve soyunu Ban'ethil Höyük İnleri(Ban'ethil Barrow Den)'in derinliklerine köklemiş, kutsal topraklarımızı kirleten, inin içindeki ve çevresindeki topraklardaki insanlara dehşet saçan güçlü bir şaman. Dikkatli ol, çünkü kabile arkadaşları tarafından çok iyi korunuyorlar. Bu ikisine darbe indirmeyi düşünüyorsan, güvenilir bir müttefikin yardımını almanı öneririm. Elune seni korusun ve yolunda rehberlik etsin.",
+    ["Objectives"]="Moon Priestess Amara, Darnassus yolunun altındaki mağarada bulunan Agal'ı ve Ban'ethil Höyük İnleri(Ban'ethil Barrow Den)'in içindeki Greenpaw'u öldürmeni istedi.",
     ["Progress"]="Agal ve Greenpaw bir zamanlar onurlu ve güçlü müttefiklerdi. Şimdi ise çılgınlıkları içinde, bu yolda seyahat eden herkes için büyük bir tehdit oluşturuyorlar. Onlar yaşadığı sürece barış olamaz, YOUR_CLASS.",
     ["Completion"]="Demek bitti mi? İşin bu noktaya gelmesi beni derinden yaralıyor ama bugün gösterdiğin çaba halkımız için Darnassus'a güvenli geçiş sağladı. Cesaretin ödülsüz kalmayacak, YOUR_CLASS. Elune'un lütfu her zaman üzerinde olsun.",
     ["minlevel"]="0",
@@ -70762,8 +70762,8 @@ QuestTranslator_QuestData = {
     
 ["8985"] = {
     ["Title"]="Önemli Diğer Bileşenler",
-    ["Description"]="YOUR_CLASS, dikkatlice dinle. Artık son muska parçasının yerini bildiğimize göre, buhurdanlığı doldurmak için başka bir bileşene daha ihtiyacımız var; ölmüş, eski yoldaşımın ruhunu cezbedecek kadar güçlü bir odak noktası sağlayacak bir şey.NEW_LINEİsalien, rahibemiz, Kışspring'de Starbreeze Köyü'nde büyüdü. Güney Kışspring'deki Frostwhisper Geçidi'nin Frostmaul devlerinden bir Starbreeze Köyü Yadigarı toplamanı istiyorum, bu devlerin zaman zaman kuzeye baskın yaptığı bilinir.",
-    ["Objectives"]="Bir Starbreeze Köyü Yadigarı elde et ve Kara Kaya Dağı içindeki Bodley'ye geri dön.",
+    ["Description"]="YOUR_CLASS, dikkatlice dinle. Artık son muska parçasının yerini bildiğimize göre, buhurdanlığı doldurmak için başka bir bileşene daha ihtiyacımız var; ölmüş, eski yoldaşımın ruhunu cezbedecek kadar güçlü bir odak noktası sağlayacak bir şey.NEW_LINEİsalien, rahibemiz, Kışspring'de Yıldızrüzgarı(Starbreeze) Köyü'nde büyüdü. Güney Kışspring'deki Frostwhisper Geçidi'nin Frostmaul devlerinden bir Yıldızrüzgarı(Starbreeze) Köyü Yadigarı toplamanı istiyorum, bu devlerin zaman zaman kuzeye baskın yaptığı bilinir.",
+    ["Objectives"]="Bir Yıldızrüzgarı(Starbreeze) Köyü Yadigarı elde et ve Kara Kaya Dağı içindeki Bodley'ye geri dön.",
     ["Progress"]="Seni toplamaya gönderdiğim şeyle hemen döndün mü YOUR_CLASS?",
     ["Completion"]="Harika bir iş, YOUR_NAME. Yadigârın özünü buhurdanlığa aşılayacağım.NEW_LINEİşte şimdi geriye kalan tek şey Dire Maul'un doğu kanadındaki Eldretharr Tapınağı'na gitmek ve buhurdanlığı kullanarak eski yoldaşım Isalien'in ruhunu çağırmak. Valthalak'ın muska parçasına ve içindeki ruh parçasına sahip olduğu için ruhu bozuldu.NEW_LINEBu arada, Alcaz Adası gezinden kalan biraz kan yosunum vardı, bu yüzden senin için birkaç iksir yaptım. Seçimini yap!",
     ["minlevel"]="58",
