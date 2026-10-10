@@ -242,12 +242,34 @@ function QuestTranslator_OnLoad1()
   QTR_CopyButton:Hide();
 
   if hooksecurefunc then
-       hooksecurefunc("QuestLogTitleButton_OnClick", function() QuestTranslator_UpdateQuestInfo() end);
+       hooksecurefunc("QuestLogTitleButton_OnClick", function() 
+           -- Gecikmeli tetikleme: İstemcinin sunucudan doğru metni almasını bekler
+           local delay = CreateFrame("Frame")
+           delay.t = 0
+           delay:SetScript("OnUpdate", function()
+               this.t = this.t + arg1
+               if this.t >= 0.05 then
+                   this:SetScript("OnUpdate", nil)
+                   QuestTranslator_UpdateQuestInfo()
+               end
+           end)
+       end);
   else
        local QTR_QuestLogTitleButton_OnClik = QuestLogTitleButton_OnClick;
        function QuestLogTitleButton_OnClick(button)
-          QuestTranslator_UpdateQuestInfo();
+          -- 1. ADIM: Önce oyunun kendi "görev seçme" işlemini (orijinal fonksiyonu) yapmasına izin ver
           QTR_QuestLogTitleButton_OnClik(button);
+          
+          -- 2. ADIM: Çok kısa bir süre (0.05 sn) bekleyip çeviriyi ondan sonra tetikle
+          local delayFrame = CreateFrame("Frame")
+          delayFrame.t = 0
+          delayFrame:SetScript("OnUpdate", function()
+              this.t = this.t + arg1
+              if this.t >= 0.05 then
+                  this:SetScript("OnUpdate", nil)
+                  QuestTranslator_UpdateQuestInfo();
+              end
+          end)
        end
   end
 end
@@ -278,7 +300,16 @@ function QuestTranslator_OnEvent1()
 
   if (event == "QUEST_LOG_UPDATE") then
      if (QuestTranslatorFrame1:IsVisible()) then
-        QuestTranslator_UpdateQuestInfo();
+        -- Görev güncellemelerinde de metnin tam yüklenmesini garanti altına alıyoruz
+        local delayFrame = CreateFrame("Frame")
+        delayFrame.t = 0
+        delayFrame:SetScript("OnUpdate", function()
+            this.t = this.t + arg1
+            if this.t >= 0.05 then
+                this:SetScript("OnUpdate", nil)
+                QuestTranslator_UpdateQuestInfo();
+            end
+        end)
      end
   end
 end

@@ -7900,14 +7900,14 @@ QuestTranslator_QuestData = {
 
     -- Teldrassil: Görünüşlerin Reddi
     ["929"] = {
-    ["Title"]="Dünyanın Tacı",
-    ["Description"]="Size tamamlamanız gereken görevden biraz daha bahsedeyim. Darnassus'taki druidler Teldrassil'in ay kuyularının suyunu kullanır ve ay kuyularının zaman zaman yenilenmesi gerekir. Özel olarak hazırlanmış bu şişeleri kullanarak ay kuyularının suyunu toplayabilirsiniz.NEW_LINEBu kabı doğudaki Yıldızrüzgarı(Starbreeze) Köyü'nün dışındaki ay kuyusuna götür ve suyundan bir miktar doldur, sonra bana dön. Ay kuyularının derslerine kulak verin, yoksa kendimizi eksikliklerimizi artırırken bulabiliriz.",
-    ["Objectives"]="Jade Phial'ı doldurun.",
-    ["Progress"]="Tekrar merhaba, YOUR_NAME. Görevinizi tamamladınız mı?",
-    ["Completion"]="Bir zamanlar ölümsüz ve saygıdeğer olan ırkımızın, kendimizi olması gerektiği gibi alçakgönüllü bir şekilde görmekte zorlanması son derece doğaldır. Doğayla ve Elune ile olan bağımızı kucaklamayı ve ölümlü kusurlarımızı bir kenara itmeyi unutmamalıyız.",
-    ["minlevel"]="0",
-    ["questlevel"]="0",
-    }, -- end Teldrassil: Görünüşlerin Reddi
+        ["Title"] = "Dünya Tacı",
+        ["Description"] = "İlk olarak, tamamlaman gereken görev hakkında sana daha fazla bilgi vereyim. Darnassus'taki druidler Teldrassil'in aykuyularının suyunu kullanırlar ve onların aykuyusunun zaman zaman yenilenmesi gerekir. Özel olarak üretilmiş bu şişeleri kullanarak aykuyularının suyunu toplayabilirsin.\n\nBu kabı doğudaki Yıldızmeltemi Köyü'nün dışındaki aykuyusuna götür, sularından biraz doldur ve sonra bana geri dön. Görevini tamamladığında, hikayeye Tenaron'un bıraktığı yerden devam edeceğim...",
+        ["Objectives"] = "Yeşim Şişe'yi doldur ve Dolanaar'daki Corithras Aydilki'ne geri getir.",
+        ["Progress"] = "Tekrar merhaba, YOUR_NAME. Görevini tamamladın mı?",
+        ["Completion"] = "Hyjal Dağı Savaşı'ndan sonra yönsüz kaldık. Nordrassil açığa çıkardığı yangından tüttü ve ölümsüzlüğümüz—varlığımızın asıl özü!—kayboldu.\n\nHain'in zindanından serbest bırakıldığı ve Shan'do Fırtınaöfkesi(Stormrage)'nin ortadan kaybolduğu zaman işte bu zorlu zamandı. Herkes için karanlık bir dönem.",
+        ["minlevel"] = "0",
+        ["questlevel"] = "0"
+    },
 
     -- Parlayan Meyve
     ["930"] = {
