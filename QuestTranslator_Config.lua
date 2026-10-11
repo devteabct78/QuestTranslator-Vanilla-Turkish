@@ -351,7 +351,7 @@ function QTVT_ShowGossipCopy()
 end
 
 -- ==========================================
--- MINIMAP BUTTON
+-- MINIMAP BUTTON (KESİN ÇÖZÜM - STANDART VANILLA ŞABLONU)
 -- ==========================================
 local minimapButton = CreateFrame("Button", "QTVT_MinimapButton", Minimap)
 minimapButton:SetWidth(32)
@@ -362,23 +362,34 @@ minimapButton:SetMovable(true)
 minimapButton:EnableMouse(true)
 minimapButton:RegisterForDrag("LeftButton")
 
+-- Siyah Arka Plan
 local bg = minimapButton:CreateTexture(nil, "BACKGROUND")
+bg:SetTexture(0, 0, 0, 1)
 bg:SetWidth(20)
 bg:SetHeight(20)
-bg:SetPoint("CENTER", minimapButton, "CENTER", -1, 1)
-bg:SetTexture(0, 0, 0, 1)
+-- Vanilla standardı: İkon boşluğu çerçevenin (7, -6) noktasından başlar.
+bg:SetPoint("TOPLEFT", minimapButton, "TOPLEFT", 7, -6)
 
+-- Eklenti İkonu
 local icon = minimapButton:CreateTexture(nil, "ARTWORK")
+icon:SetTexture("Interface\\Icons\\INV_Misc_Note_01")
 icon:SetWidth(20)
 icon:SetHeight(20)
-icon:SetPoint("CENTER", minimapButton, "CENTER", -1, 1)
-icon:SetTexture("Interface\\Icons\\INV_Misc_Note_01")
+-- İkonu tam altın çerçevenin boşluğuna oturtuyoruz
+icon:SetPoint("TOPLEFT", minimapButton, "TOPLEFT", 7, -6)
+-- ÇÖZÜM: İkonun etrafındaki gri/kare çerçeveyi kırpıp içe yakınlaştırır. Böylece yuvarlaktan kare köşeler taşmaz.
+icon:SetTexCoord(0.07, 0.93, 0.07, 0.93)
 
+-- Altın Yuvarlak Çerçeve
 local border = minimapButton:CreateTexture(nil, "OVERLAY")
-border:SetWidth(53)
-border:SetHeight(53)
-border:SetPoint("CENTER", minimapButton, "CENTER", 0, 0)
 border:SetTexture("Interface\\Minimap\\MiniMap-TrackingBorder")
+border:SetWidth(54)
+border:SetHeight(54)
+-- Çerçeveyi butonun tam sol üstüne (0,0) sıfırlıyoruz.
+border:SetPoint("TOPLEFT", minimapButton, "TOPLEFT", 0, 0)
+
+-- Üzerine gelince yanan standart parlama efekti (Opsiyonel, daha şık durur)
+minimapButton:SetHighlightTexture("Interface\\Minimap\\UI-Minimap-ZoomButton-Highlight")
 
 minimapButton:SetScript("OnEnter", function()
     GameTooltip:SetOwner(this, "ANCHOR_LEFT")
@@ -402,6 +413,7 @@ end)
 
 local currentAngle = 2.5
 
+-- Pozisyon Güncelleyici
 function QTVT_UpdateMinimapButtonPosition(angle)
     currentAngle = angle
     local radius = 80
@@ -416,6 +428,7 @@ else
     QTVT_UpdateMinimapButtonPosition(currentAngle)
 end
 
+-- Drag (Sürükleme) Mantığı
 minimapButton:SetScript("OnDragStart", function()
     this:SetScript("OnUpdate", function()
         local xpos, ypos = GetCursorPosition()
