@@ -7942,16 +7942,15 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end Çarpık Nefret
 
-    -- Teldrassil: Yaklaşan Şafak
     ["933"] = {
-    ["Title"]="Dünyanın Tacı",
-    ["Description"]="Ziyaret etmenizi istediğim son bir ay kuyusu var. Buranın hemen güneyinde, Arlithrien Havuzları'nın kıyısında. Kuyuyu ararken dikkatli olun ve silahlarınızı elinizin altında tutun. Güney Teldrassil'in dallarında büyüyen bir yozlaşma seziyorum.NEW_LINESuyu aldığında, onu havuzlarda göreceğin tanıdık bir yüze götürmeni istiyorum. Yozlaşmayla savaşmak istiyor ve seni şahsen istedi.",
-    ["Objectives"]="Turmalin Phial'ı doldurun.",
-    ["Progress"]="Seni tekrar görmek güzel, YOUR_NAME. Görüyorum ki Corithras Moonrage adına ay kuyularının sularını toplamayı başarmışsın. Umarım yol boyunca çok şey öğrenmişsindir.",
-    ["Completion"]="Gerçekten de buraya gelirken Corithras'la konuştum ve topladığınız suları bana hediye etti. Düşündüğümüzden daha kısa sürede işe yarayabilirler.NEW_LINEGarip bir şekilde, hissettiğimiz artan yozlaşma aslında iyiye işaret. Teldrassil uzun zamandır bu lekeyle yüklüydü ve ejderha yönlerinin kutsaması sayesinde, ancak şimdi karşı koyabileceğimiz bir biçimde yüzeye çıkıyor.",
-    ["minlevel"]="0",
-    ["questlevel"]="0",
-    }, -- end Teldrassil: Yaklaşan Şafak
+        ["Title"] = "Dünyanın Tacı",
+        ["Description"] = "Darnassus girişinin güneydoğusunda, Arlithrien Göletleri'nin kıyısında bir aykuyusu daha var. Düğümçam furbolglarının saldırıları ve giderek artan huysuzlukları nedeniyle Gözcüler bölgede devriye gezmekte zorlanıyor.\n\nKuyuyu ararken dikkatli ol ve silahlarını elinin altında tut.",
+        ["Objectives"] = "Turmalin Şişe'yi doldur ve Dolanaar'daki Corithras Aygazabı'na geri getir.",
+        ["Progress"] = "İlk başta çıldırmış furbolg saldırılarına dair raporlar göz ardı edilmişti. Barışsever ayı-adamların akılsızca bir öfkeye kapılacağını kim düşünebilirdi ki? Yeni evimizde bize musallat olan sorunlardan bir başkası daha.",
+        ["Completion"] = "Shan'do Fırtınaöfkesi asla geri dönmedi ve druidler kargaşa içindeydi; bu güne kadar ona ne olduğunu hâlâ bilmiyoruz. Malfurion kayıpken, Baş Druid Fandral Staghelm druidlerin liderliğini devraldı, Karanlıkkıyı'daki Kadimler Çemberi'ni halkımızın yeniden inşa etme zamanının geldiğine ve ölümsüzlüklerini yeniden kazanma zamanının geldiğine ikna etti.\n\nÇember'in onayıyla, Staghelm ve en güçlü druidler yeni Dünya Ağacı Teldrassil'i yetiştirdiler.",
+        ["minlevel"] = "0",
+        ["questlevel"] = "0"
+    },
 
     -- Dünyanın Tacı
     ["934"] = {
