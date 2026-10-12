@@ -28793,7 +28793,7 @@ QuestTranslator_QuestData = {
     -- "The Harvest Golem Mystery" -> Hasat Golem Gizemi. Westfall -> Westfall, Sentinel Hill -> Gözcü Tepesi.
     -- Christopher Hewen özel ismi korunmuştur.
     ["Title"]="Hasat Golemi Gizemi",
-    ["Description"]="Şu gizemli canlandırma rünleri... Bir süredir elime bir tane geçirmeye çalışıyorum ama bir dükkan sahibi olarak mekanik canavarlarla savaşmaya pek uygun değilim. Westfall'ndeki (Westfall) hasat golemlerini araştıran... belirli biri için çalışıyorum. Eğer bir rün ele geçirebilirsen, bu zahmetine değmesini sağlarım! Onları bölgedeki herhangi bir hasat goleminin içinde bulabilirsin.",
+    ["Description"]="Şu gizemli canlandırma rünleri... Bir süredir elime bir tane geçirmeye çalışıyorum ama bir dükkan sahibi olarak mekanik canavarlarla savaşmaya pek uygun değilim. NEW_LINEWestfall'ndeki (Westfall) hasat golemlerini araştıran... belirli biri için çalışıyorum. Eğer bir rün ele geçirebilirsen, bu zahmetine değmesini sağlarım! NEW_LINEOnları bölgedeki herhangi bir hasat goleminin içinde bulabilirsin.",
     ["Objectives"]="Gözcü Tepesi'ndeki (Sentinel Hill) Christopher Hewen için bir adet Çatlak Canlandırma Rünü (Cracked Animation Rune) topla.",
     ["Progress"]="Bir tane ele geçirebildin mi?",
     ["Completion"]="Ne harika bir örnek! Biraz çatlamış ama bu gayet iyi iş görür. Müşterim bu golemlerin neden çıldırdığının aslına inmeye çalışıyor ve alabileceği tüm örneklere ihtiyacı var. Senin için başka bir görevim daha var ve eğer ilgilenirsen bu koşturman için biraz sikke ayırmaya hazırım.",
