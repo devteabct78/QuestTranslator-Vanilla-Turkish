@@ -455,12 +455,30 @@ function QuestTranslator_OnEvent2()
      QuestTranslator_QuestDetail2:SetText(QuestTranslator_Messages.missing);
      QuestTranslator_QuestWarning2:SetText("");
      
-     -- Eğer GetQuestID API'si varsa yine de bir şans veriyoruz
+     -- 1. Eğer GetQuestID API'si varsa yine de bir şans veriyoruz
      if GetQuestID then
         q_ID = GetQuestID();
      end
      
-     -- Eğer API boş döndüyse (NPC pencerelerinde) QuestList.lua üzerinden arama yapıyoruz
+     -- 2. [KRİTİK DÜZELTME] Progress veya Complete aşamasında görev zaten günlüktedir (Quest Log).
+     -- Quest Log'daki ID'yi çekerek seri görevlerdeki isim çakışmasını (DUP) kesin olarak çözüyoruz.
+     if (not q_ID or q_ID == 0) and (QTR_event == "QUEST_PROGRESS" or QTR_event == "QUEST_COMPLETE") then
+         if C_QuestLog and C_QuestLog.GetQuestIDForLogIndex then
+             local numEntries = GetNumQuestLogEntries() or 0;
+             for i = 1, numEntries do
+                 local title, _, _, isHeader = GetQuestLogTitle(i);
+                 if not isHeader and title == q_title then
+                     local log_id = C_QuestLog.GetQuestIDForLogIndex(i);
+                     if log_id and log_id > 0 then
+                         q_ID = log_id;
+                         break;
+                     end
+                 end
+             end
+         end
+     end
+     
+     -- 3. Eğer API boş döndüyse ve Günlükten de bulamadıysak (örneğin QUEST_DETAIL aşaması yeni görev alırken) QuestList.lua üzerinden arama yapıyoruz
      if (not q_ID or q_ID == 0) then
          q_ID = QuestTranslator_SearchIDforName(q_title);
      end
