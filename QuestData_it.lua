@@ -28796,7 +28796,7 @@ QuestTranslator_QuestData = {
     ["Description"]="Şu gizemli canlandırma rünleri... Bir süredir elime bir tane geçirmeye çalışıyorum ama bir dükkan sahibi olarak mekanik canavarlarla savaşmaya pek uygun değilim. NEW_LINEWestfall'ndeki (Westfall) hasat golemlerini araştıran... belirli biri için çalışıyorum. Eğer bir rün ele geçirebilirsen, bu zahmetine değmesini sağlarım! NEW_LINEOnları bölgedeki herhangi bir hasat goleminin içinde bulabilirsin.",
     ["Objectives"]="Gözcü Tepesi'ndeki (Sentinel Hill) Christopher Hewen için bir adet Çatlak Canlandırma Rünü (Cracked Animation Rune) topla.",
     ["Progress"]="Bir tane ele geçirebildin mi?",
-    ["Completion"]="Ne harika bir örnek! Biraz çatlamış ama bu gayet iyi iş görür. Müşterim bu golemlerin neden çıldırdığının aslına inmeye çalışıyor ve alabileceği tüm örneklere ihtiyacı var. Senin için başka bir görevim daha var ve eğer ilgilenirsen bu koşturman için biraz sikke ayırmaya hazırım.",
+    ["Completion"]="Ne harika bir örnek! Biraz çatlamış ama bu gayet iyi iş görür. Müşterim bu golemlerin neden çıldırdığının aslına inmeye çalışıyor ve alabileceği tüm örneklere ihtiyacı var. NEW_LINESenin için başka bir görevim daha var ve eğer ilgilenirsen bu koşturman için biraz sikke ayırmaya hazırım.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end The Harvest Golem Mystery
@@ -28805,10 +28805,10 @@ QuestTranslator_QuestData = {
     ["40471"] = {
     -- Redridge -> Kızıltepe. Intact -> Hasarsız/Bozulmamış.
     ["Title"]="Hasat Golemi Gizemi",
-    ["Description"]="Pekala! Ek iş için can atıyoruz, değil mi? Şey, benim... işverenim deneyleri için daha da fazla canlandırma rünü arıyor. Bana fazladan on rün daha getir, büyük ölçüde ödüllendirileceksin. Ama dikkatli ol. Yalnızca hasarsız rünleri kabul edecekler. Şu silahınla onlara çok fazla zarar vermemeye çalış. Bir şey daha. Kendini öldürtme. O hasat makineleri sağlam vurur ve benim için daha fazla ayak işine koşmana ihtiyacım var. Hah, şaka yapıyorum. Ama cidden. Kendine dikkat et.",
+    ["Description"]="Pekala! Ek iş için can atıyoruz, değil mi? Şey, benim... işverenim deneyleri için daha da fazla canlandırma rünü arıyor. Bana fazladan on rün daha getir, büyük ölçüde ödüllendirileceksin. Ama dikkatli ol. Yalnızca hasarsız rünleri kabul edecekler. Şu silahınla onlara çok fazla zarar vermemeye çalış. NEW_LINEBir şey daha. Kendini öldürtme. O hasat makineleri sağlam vurur ve benim için daha fazla ayak işine koşmana ihtiyacım var. NEW_LINEHah, şaka yapıyorum. Ama cidden. Kendine dikkat et.",
     ["Objectives"]="Gözcü Tepesi'ndeki (Sentinel Hill) Christopher Hewen için Westfall'ndeki (Westfall) Hasat Golemlerinden 10 adet Hasarsız Canlandırma Rünü (Intact Animation Runes) topla.",
     ["Progress"]="Rünleri çoktan topladın mı?",
-    ["Completion"]="İyi iş! Üstelik hepsinin kalitesi de olağanüstü! Doğrusunu söylemek gerekirse bunu yapabileceğini düşünmemiştim. Bana yardım eden son maceracı... Ne demek istediğimi anlıyorsan, diyelim ki kendisi hasat edildi. Sonunda ne yaptığını bilen birine sahip olmak harika. Peki, bana bir kez daha yardım etmek ister misin? Yapılması gereken başka bir şey var ve şu an için Gözcü Tepesi'nden ayrılamam. Bilirsin ya, Kızıltepe'den (Redridge) bir erzak sevkıyatı bekliyorum ve her an gelebilir.",
+    ["Completion"]="İyi iş! Üstelik hepsinin kalitesi de olağanüstü! Doğrusunu söylemek gerekirse bunu yapabileceğini düşünmemiştim. Bana yardım eden son maceracı... Ne demek istediğimi anlıyorsan, diyelim ki kendisi hasat edildi. Sonunda ne yaptığını bilen birine sahip olmak harika. NEW_LINEPeki, bana bir kez daha yardım etmek ister misin? Yapılması gereken başka bir şey var ve şu an için Gözcü Tepesi'nden ayrılamam. Bilirsin ya, Kızıltepe'den (Redridge) bir erzak sevkıyatı bekliyorum ve her an gelebilir.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end The Harvest Golem Mystery
@@ -28818,7 +28818,7 @@ QuestTranslator_QuestData = {
     -- Stormwind City -> Fırtınayeli Şehri, High Elves -> Yüksek Elfler.
     -- Lilliam Sparkspindle -> Lilliam Kıvılcımçarkı (Spark + Spindle). Trogg aynen korunmuştur.
     ["Title"]="Hasat Golemi Gizemi",
-    ["Description"]="Biraz sikke kazanmak için başka bir fırsatı kaçırmayacağını biliyordum. Hiç Fırtınayeli Şehri'nde (Stormwind City) bulundun mu? Oh, ne diyorum ben, elbette bulunmuşsundur. Şehrin kuzey kısmında, çoğunlukla insan dışı ırkların yaşadığı bir bölge var. Cüceler, gnomelar, hatta son zamanlarda yüksek elfler (high elves) bile. Sevgili dostlarımdan biri, harika bir ismi olan gnomish bir mühendis: Lilliam, orada yaşıyor. Ona seni Hewen'ın gönderdiğini söylemene ihtiyacım var. Sana bir kağıt verecek: bir taslak, hatta bir proje planı. Proje planının (blueprint) ne olduğunu bilirsin değil mi? Güzel. O planı al, bana geri dön, ben de sana ödemeni yapayım. Oldukça kolay! Bol şans.",
+    ["Description"]="Biraz sikke kazanmak için başka bir fırsatı kaçırmayacağını biliyordum. Hiç Fırtınayeli Şehri'nde (Stormwind City) bulundun mu? NEW_LINEOh, ne diyorum ben, elbette bulunmuşsundur. NEW_LINEŞehrin kuzey kısmında, çoğunlukla insan dışı ırkların yaşadığı bir bölge var. Cüceler, gnomelar, hatta son zamanlarda yüksek elfler (high elves) bile. NEW_LINESevgili dostlarımdan biri, harika bir ismi olan gnomish bir mühendis: Lilliam, orada yaşıyor. Ona seni Hewen'ın gönderdiğini söylemene ihtiyacım var. NEW_LINESana bir kağıt verecek: bir taslak, hatta bir proje planı. Proje planının ne olduğunu bilirsin değil mi? Güzel. O planı al, bana geri dön, ben de sana ödemeni yapayım. Oldukça kolay! Bol şans.",
     ["Objectives"]="Fırtınayeli Şehri'ndeki Lilliam Kıvılcımçarkı'ndan (Lilliam Sparkspindle) Hasat Makinesi Planı'nı (Harvester Blueprint) al.",
     ["Progress"]="Ne var? Görüyorsun ya, YOUR_RACE, biraz meşgulüm?",
     ["Completion"]="Seni Hewen mı gönderdi? Bu trogg dölü kendisi bile beni ziyaret edemedi mi? Küstahlık! Planı yanımda ama bana ne kadar zahmete mal olduğunu bir bilsen! Bir bilsen! Hewen'a söyle, bir dahaki sefere benden bir şey sipariş ettiğinde iki katı öder!",
@@ -30162,7 +30162,7 @@ QuestTranslator_QuestData = {
     -- Westfall -> Westfall, Gryan Stoutmantle -> Gryan Gürpelerin, Sentinel Hill -> Gözcü Tepesi.
     -- Carver, David, Stormwind özel isimleri kurala göre uyarlandı.
     ["Title"]="Eski Westfall Kilisesi",
-    ["Description"]="Sandığı açtığında birkaç eski ve yıpranmış eşya, çeşitli kilise kitapları ve yazıları ile en üstte duran, yersiz duran küçük bir mektup keşfediyorsun; mektup eskimiş görünüyor ve özensiz bir el yazısıyla yazılmış, şunlar okunuyor:<Oymacı (Carver), istediğin gibi yaptık ve yaşlı adamı dışarı çıkmaya zorladık, David biraz sert davrandı ve onu yaraladı. Gerçekten iyi bir mesaj verdiğimizden emin olduk, bir daha geri gelmeyecek. Hatta anahtarı da aldık ve kapıları sıkıca kilitledik; eğer birileri geri gelirse, yakında onların da gitme vaktinin geldiğini anlayacaklar.> Bu bilgiyi daha yüksek bir makama ulaştırmalısın.NEW_LINE",
+    ["Description"]="Sandığı açtığında birkaç eski ve yıpranmış eşya, çeşitli kilise kitapları ve yazıları ile en üstte duran, yersiz duran küçük bir mektup keşfediyorsun; mektup eskimiş görünüyor ve özensiz bir el yazısıyla yazılmış, şunlar okunuyor:NEW_LINE<Oymacı (Carver), istediğin gibi yaptık ve yaşlı adamı dışarı çıkmaya zorladık, David biraz sert davrandı ve onu yaraladı. Gerçekten iyi bir mesaj verdiğimizden emin olduk, bir daha geri gelmeyecek. Hatta anahtarı da aldık ve kapıları sıkıca kilitledik; eğer birileri geri gelirse, yakında onların da gitme vaktinin geldiğini anlayacaklar.> NEW_LINEBu bilgiyi daha yüksek bir makama ulaştırmalısın.NEW_LINE",
     ["Objectives"]="Terk Edilmiş Mektup'u Westfall'ndeki (Westfall) Gözcü Tepesi'nde (Sentinel Hill) bulunan Gryan Gürpelerin'e (Gryan Stoutmantle) götür.",
     ["Progress"]="Evet?",
     ["Completion"]="Bu da ne, bir mektup mu?",
@@ -30175,7 +30175,7 @@ QuestTranslator_QuestData = {
     -- Baros Alexston -> Baros İskentel (Alex + Stone -> İskender/Maden/Taş çağrışımıyla İskentel). 
     -- Cathedral Square -> Katedral Meydanı, Stormwind City -> Fırtınayeli Şehri.
     ["Title"]="Eski Westfall Kilisesi II",
-    ["Description"]="Bunu Westfall Kilisesi'nde mi buldun? O yer hakkında bir şeyler duymayalı uzun zaman olmuştu... potansiyel olarak parlak bir geçmişin terk edilmiş bir başka yadigarından ibaret. Orada olanlar tam bir utanç kaynağı ama bölgenin geri kalanına çok benzeyen bir hikaye bu. Westfall'nün batı yakası ilk el çekilen yer oldu ve bize bilgi verebilecek pek kimse kalmadı. O çiftçilerin çoğu ya katledildi ya da gizemli bir şekilde ortadan kayboldu. Aklıma gelen biri var: Baros İskentel (Baros Alexston). Her şey altüst olduktan sonra bir yerlere gelmeyi başardı ve Fırtınayeli Şehri'nde (Stormwind City) bir Mimar oldu. Eğer bu meseleyi araştırmaktan çekinmiyorsan onu Katedral Meydanı'nda (Cathedral Square) bulabilirsin. Belki kiliseyi kimin yönettiği, hatta ona ne olduğu hakkında bize bazı detaylar verebilir.",
+    ["Description"]="Bunu Westfall Kilisesi'nde mi buldun? NEW_LINEO yer hakkında bir şeyler duymayalı uzun zaman olmuştu... potansiyel olarak parlak bir geçmişin terk edilmiş bir başka yadigarından ibaret. Orada olanlar tam bir utanç kaynağı ama bölgenin geri kalanına çok benzeyen bir hikaye bu. NEW_LINEWestfall'nün batı yakası ilk el çekilen yer oldu ve bize bilgi verebilecek pek kimse kalmadı. O çiftçilerin çoğu ya katledildi ya da gizemli bir şekilde ortadan kayboldu. NEW_LINEAklıma gelen biri var: Baros İskentel (Baros Alexston). Her şey altüst olduktan sonra bir yerlere gelmeyi başardı ve Fırtınayeli Şehri'nde (Stormwind City) bir Mimar oldu. Eğer bu meseleyi araştırmaktan çekinmiyorsan onu Katedral Meydanı'nda (Cathedral Square) bulabilirsin. Belki kiliseyi kimin yönettiği, hatta ona ne olduğu hakkında bize bazı detaylar verebilir.",
     ["Objectives"]="Fırtınayeli'ndeki (Stormwind) Baros Alexston ile konuş.",
     ["Progress"]="Evet?",
     ["Completion"]="Ooo, merhaba. Fırtınayeli şehrindeki sivil mimari hakkında bilgi almak için mi buradasınız?",
@@ -30188,7 +30188,7 @@ QuestTranslator_QuestData = {
     -- Bishop Farthing -> Piskopos Metelik (Farthing eski küçük madeni para birimidir, dilimizde Metelik olarak uyarlanmıştır).
     -- Cathedral of Light -> Işık Katedrali.
     ["Title"]="Eski Westfall Kilisesi III",
-    ["Description"]="Oh, demek Westfalldaki o eski kiliseden bahsediyorsun? Oraya gitmeyeli uzun zaman oldu... inanılmaz derecede uzun bir zaman. Pek yardımcı olabileceğimi sanmadığımı söylemeliyim. Hatırlayabildiğim şeylerin çoğu, oraya yürüyüp geri dönerken üzerime çöken güneşten ibaret. <Baros Alexston bu anıya kıkırdar.> Yine de orayı yöneten yaşlı bir adamdı. Her zaman oldukça nazik ve neşeliydi. O zamanlar pek çok ezilen çiftçinin moralini yükseltir ve elinden geldiğince yardım ederdi. Saygıdeğer bir adamın başına böyle bir şey gelmesi tam bir utanç kaynağı. Eğer bilgi arıyorsan, en iyi seçeneğin muhtemelen buradaki şehirde bulunan Katedral olacaktır. Piskopos Metelik'i (Bishop Farthing) bul. Onun bir fikri olabilir.",
+    ["Description"]="Oh, demek Westfalldaki o eski kiliseden bahsediyorsun? Oraya gitmeyeli uzun zaman oldu... inanılmaz derecede uzun bir zaman. Pek yardımcı olabileceğimi sanmadığımı söylemeliyim. Hatırlayabildiğim şeylerin çoğu, oraya yürüyüp geri dönerken üzerime çöken güneşten ibaret. NEW_LINE<Baros Alexston bu anıya kıkırdar.> NEW_LINEYine de orayı yöneten yaşlı bir adamdı. Her zaman oldukça nazik ve neşeliydi. O zamanlar pek çok ezilen çiftçinin moralini yükseltir ve elinden geldiğince yardım ederdi. NEW_LINESaygıdeğer bir adamın başına böyle bir şey gelmesi tam bir utanç kaynağı. Eğer bilgi arıyorsan, en iyi seçeneğin muhtemelen buradaki şehirde bulunan Katedral olacaktır. Piskopos Metelik'i (Bishop Farthing) bul. Onun bir fikri olabilir.",
     ["Objectives"]="Fırtınayeli'ndeki (Stormwind) Işık Katedrali'nde bulunan Piskopos Metelik (Bishop Farthing) ile konuş.",
     ["Progress"]="Evet?",
     ["Completion"]="Ooo, merhaba. Yardımcı olabileceğim bir şey var mı, YOUR_RACE?",
@@ -30201,10 +30201,10 @@ QuestTranslator_QuestData = {
     -- Northshire Abbey -> Kuzeybucak Manastırı, Elwynn Forest -> Elwynn Ormanı.
     -- Brother Neals -> Neals Birader.
     ["Title"]="Eski Westfall Kilisesi IV",
-    ["Description"]="Westfalldan bir rahip, ha? Şey, bu kesinlikle tanıdık geliyor. Orada sadece bir kilise vardı ve onun hayatına son vermekle tehdit eden haydutlardan serserilere kadar her türlü belayla uğraştığını hatırlıyorum. Işık (The Light) zaman zaman sınayıcı olabilir ama hiç kimse böyle bir şey yaşamamalı. Kuzeybucak Manastırı'na (Northshire Abbey) taşınmadan önce bu Işık Katedrali'nde biraz zaman geçirdi. Zaman zaman buralarda yardım ediyor ve Neals Birader (Brother Neals) adını kullanıyor.",
+    ["Description"]="Westfalldan bir rahip, ha? Şey, bu kesinlikle tanıdık geliyor. Orada sadece bir kilise vardı ve onun hayatına son vermekle tehdit eden haydutlardan serserilere kadar her türlü belayla uğraştığını hatırlıyorum. Işık zaman zaman sınayıcı olabilir ama hiç kimse böyle bir şey yaşamamalı. NEW_LINEKuzeybucak Manastırı'na (Northshire Abbey) taşınmadan önce bu Işık Katedrali'nde biraz zaman geçirdi. Zaman zaman buralarda yardım ediyor ve Kardeş Neals (Brother Neals) adını kullanıyor.",
     ["Objectives"]="Elwynn Ormanı'ndaki (Elwynn Forest) Kuzeybucak Manastırı'nda (Northshire Abbey) bulunan Neals Birader ile konuş.",
     ["Progress"]="Evet?",
-    ["Completion"]="Oh, demek bu yüzden buradasın. Westfall günlerimin üzerinden uzun zaman geçti ama umarım bir yardımım dokunabilir.",
+    ["Completion"]="Oh, demek bu yüzden buradasın. NEW_LINEWestfall günlerimin üzerinden uzun zaman geçti ama umarım bir yardımım dokunabilir.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end The Old Church of Westfall IV
@@ -30227,7 +30227,7 @@ QuestTranslator_QuestData = {
     ["40597"] = {
     -- Brother Neals -> Neals Birader, Northshire -> Kuzeybucak.
     ["Title"]="Eski Westfall Kilisesi V",
-    ["Description"]="Demek Westfall'ndeki (Westfall) Eski Kilise için buradasın, ha? Şey, birileri böyle bir şeyi sormayalı epey zaman oldu. Katedral ne olduğunu araştırdı ama sonuçta hiçbir şey çıkmadı. Düzenbazlar yaptıkları yanlarına kâr kalarak kaçtılar ve ben de huzurlu bir köşeye çekilmeye karar verdim, ta ki onların şimdi burada, Kuzeybucak'ta (Northshire) da olduklarını duyana kadar. <Neals Birader hafif bir iç çeker.> Hazır olduğunda ne olduğunu gözden geçireceğim; biraz uzun sürebilir.",
+    ["Description"]="Demek Westfall'daki Eski Kilise için buradasın, ha? Şey, birileri böyle bir şeyi sormayalı epey zaman oldu. Katedral ne olduğunu araştırdı ama sonuçta hiçbir şey çıkmadı. NEW_LINEDüzenbazlar yaptıkları yanlarına kâr kalarak kaçtılar ve ben de huzurlu bir köşeye çekilmeye karar verdim, ta ki onların şimdi burada, Kuzeybucak'ta (Northshire) da olduklarını duyana kadar. NEW_LINE<Neals Birader hafif bir iç çeker.> NEW_LINEHazır olduğunda neler olduğunu anlatacağım; biraz uzun sürebilir.",
     ["Objectives"]="Neals Birader'in Westfall'nde geçirdiği zamana dair anlattıklarını dinle.",
     ["Progress"]="Evet?",
     ["Completion"]="Peki, ne olduğunu ve şimdi her şeyin arkasında kimin olduğunu anladın mı?",
@@ -30239,7 +30239,7 @@ QuestTranslator_QuestData = {
     ["40598"] = {
     -- Easton Family -> Doğuovası Ailesi. People's Militia -> Halk Milisleri.
     ["Title"]="Eski Westfall Kilisesi VI",
-    ["Description"]="Artık hikayemi duyduğuna göre ne olduğunu anlayabilirsin. Kilisenin kapatılmasından ve Doğuovası Ailesi'nin (Easton Family) katledilmesinden birileri sorumluysa, şüphelerim Oymacı Molsen'e (Carver Molsen) çıkıyor. O çiftlik evini miras olarak aldı ve her zaman daha fazlası için açgözlüydü, hatta Defias'a katılacak kadar ileri gitti. Umarım bilgilerim senin için değerlidir. Belki bunu Gryan Gürpelerin'e (Gryan Stoutmantle) ulaştırabilirsin. Oradaki Halk Milislerinin (People's Militia) başında kendisi var.",
+    ["Description"]="Artık hikayemi duyduğuna göre ne olduğunu anlayabilirsin. Kilisenin kapatılmasından ve Doğuovası Ailesi'nin (Easton Family) katledilmesinden birileri sorumluysa, şüphelerim Oymacı Molsen'e (Carver Molsen) çıkıyor. O çiftlik evini miras olarak aldı ve her zaman daha fazlası için açgözlüydü, hatta Defias'a katılacak kadar ileri gitti. NEW_LINEUmarım bilgilerim senin için değerlidir. Belki bunu Gryan Gürpelerin'e (Gryan Stoutmantle) ulaştırabilirsin. Oradaki Halk Milislerinin (People's Militia) başında kendisi var.",
     ["Objectives"]="Bulgularını Westfall'ndeki (Westfall) Gözcü Tepesi'nde (Sentinel Hill) bulunan Gryan Gürpelerin'e (Gryan Stoutmantle) ulaştır.",
     ["Progress"]="Evet?",
     ["Completion"]="Demek kiliseyi yöneten rahibi buldun. Ne olduğunu dair bir şey söyledi mi?",
@@ -65618,12 +65618,12 @@ QuestTranslator_QuestData = {
 
     -- Your Fortune Awaits You...
     -- Deadmines -> Ölümadenler (ZoneData.lua)
-    -- Westfall -> Batıdüşüşü (ZoneData.lua)
+    -- Westfall -> Batıdiyar (ZoneData.lua)
     -- Moonbrook -> Ayderesi (ZoneData.lua)
     ["7938"] = {
     ["Title"]="Kaderin Seni Bekliyor...",
-    ["Description"]="\"Kaderin Ölümadenler'in içinde seni bekliyor.\"\n\nSayge'in sana uzattığı kader dokunuşa hafif ılık geliyor. Onu sıkıca kavradığında, Batıdüşüşü'nün harabe mezrası Ayderesi'ndeki Ölümadenler'in bir görüntüsünü görüyorsun. Görüntüye daha yakından odaklandığında, madenlerin kalbine giden ışıldayan bir portala ulaşana kadar dolambaçlı yollarda kıvrılıyorsun... Ondan içeri adım attığında, aniden tuhaf bir sandık beliriyor.",
-    ["Objectives"]="Batıdüşüşü'ndeki Ölümadenler'e seyahat et ve kaderini ara.",
+    ["Description"]="\"Kaderin Ölümadenler'in içinde seni bekliyor.\"\n\nSayge'in sana uzattığı kader dokunuşa hafif ılık geliyor. Onu sıkıca kavradığında, Batıdiyar'nün harabe mezrası Ayderesi'ndeki Ölümadenler'in bir görüntüsünü görüyorsun. Görüntüye daha yakından odaklandığında, madenlerin kalbine giden ışıldayan bir portala ulaşana kadar dolambaçlı yollarda kıvrılıyorsun... Ondan içeri adım attığında, aniden tuhaf bir sandık beliriyor.",
+    ["Objectives"]="Batıdiyar'ndeki Ölümadenler'e seyahat et ve kaderini ara.",
     ["Progress"]="Bu sandık vizyonundaki gibi görünüyor...",
     ["Completion"]="Sandıkta hızlı bir arama, içinden bir kilitli kutu çıkarıyor! Görünüşe göre kaderini bulmuşsun!",
     ["minlevel"]="10",
@@ -78192,7 +78192,7 @@ QuestTranslator_QuestData = {
     },
     ["41799"] = {
     ["Title"]="Bir Hidromanserin Merakı",
-    ["Description"]="İşe yaramaz Finnigan! Yemin ederim bir gün bu maceralarından biri onun sonu olacak. Bak, kısa süre önce bir grup SI:7 ajanı rıhtımda toplandı. Görünüşe göre, kulak misafiri olabildiğimiz kadarıyla, Batıdüşüşü (Westfall) kıyısının hemen açığındaki adada tehlikeli bir görevi tamamlamaya gidiyorlardı. Adı Balor. O ada, biz daha Davenburg'a yerleşmeden çok önce bile hiç bitmeyen bir fırtınayla ıslanıyordu. Kul Tiras geçmişte Balor ve insanlarıyla temas halindeydi, bu yüzden orası bizim için bilinmeyen bir yer değil.NEW_LINENEW_HER NE İSE, yerel hidromanserimiz Finnigan, SI:7'ın Balor'daki görevine yardım etmek için gönüllü oldu ve şu an onların karargâhında. Diplomatik görevimizi tehlikeye atmamak için ona en kısa sürede Davenburg'da ihtiyacımız var. YOUR_CLASS, başladığı işi bitirmesine yardım etmeye razı mısın, böylece bize geri dönebilir? Ajanlardan biri güney rıhtımında kaldı, seni adaya götürebileceğinden eminim.",
+    ["Description"]="İşe yaramaz Finnigan! Yemin ederim bir gün bu maceralarından biri onun sonu olacak. Bak, kısa süre önce bir grup SI:7 ajanı rıhtımda toplandı. Görünüşe göre, kulak misafiri olabildiğimiz kadarıyla, Batıdiyar (Westfall) kıyısının hemen açığındaki adada tehlikeli bir görevi tamamlamaya gidiyorlardı. Adı Balor. O ada, biz daha Davenburg'a yerleşmeden çok önce bile hiç bitmeyen bir fırtınayla ıslanıyordu. Kul Tiras geçmişte Balor ve insanlarıyla temas halindeydi, bu yüzden orası bizim için bilinmeyen bir yer değil.NEW_LINENEW_HER NE İSE, yerel hidromanserimiz Finnigan, SI:7'ın Balor'daki görevine yardım etmek için gönüllü oldu ve şu an onların karargâhında. Diplomatik görevimizi tehlikeye atmamak için ona en kısa sürede Davenburg'da ihtiyacımız var. YOUR_CLASS, başladığı işi bitirmesine yardım etmeye razı mısın, böylece bize geri dönebilir? Ajanlardan biri güney rıhtımında kaldı, seni adaya götürebileceğinden eminim.",
     ["Objectives"]="Balor'daki SI:7 Karargâhı'nda bulunan Hidromanser Finnigan ile konuş.",
     ["Progress"]="Balor'daki SI:7 Karargâhı'nda bulunan Hidromanser Finnigan ile konuş.",
     ["Completion"]="Seni Hornby mi gönderdi? O aptal kendi iyiliği için fazla yumuşak kalpli. Düşüncesini takdir ediyorum ama burada yaşananlar benim Davenburg'da görevlendirildiğim şeyleri fazlasıyla aşıyor. Söz konusu bile olamaz. Yine de bir konuda haklı. Eğer araştırmamda bana yardım edersen, ana karaya dönmem daha hızlı olur. Ee, ne diyorsun?",

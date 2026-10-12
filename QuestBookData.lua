@@ -1474,5 +1474,9 @@ QuestTranslator_BookData = {
 	["Tainted Memorandum"] = {
     	["Title"] = "Lekeli Muhtıra",
     	["Text"] = "DİKKAT:NEW_LINESessiz Kal! Etrafında Kimseye Bakma! Şu Anda Birileri Seni İzliyor Olabilir.NEW_LINEBenim Adım Alamar Kasvet, Pelus. Bilgiyi Ve Daha Büyük Gücü... Öte Dünyalardan Arayanları Eğitiyorum. Seninle Gizlice İletişime Geçmem Ve Seni Büyünün Gerçek Bir Biçiminde Daha Da Eğitebileceğimi Bildirmem İstendi.NEW_LINEFırsat Bulduğunda Gel Beni Örsdağı'nın Arkasında Bul.NEW_LINE-Alamar Kasvet, Cadı Eğitmeni"
-}
+	},
+	["Lewis' Note"] = {
+    	["Title"] = "Lewis'in Notu",
+    	["Text"] = "Osric,NEW_LINEİhtiyacımız olan zırhların listesini aşağıda bulabilirsin:NEW_LINE10 Halka Zırh GömlekNEW_LINE20 MiğferNEW_LINE30 Zırh YamasıNEW_LINE15 Halka Zırh ÇizmeNEW_LINEÖnceden olduğu gibi sana borçluyuz. Ve eğer Batıdüşüşü kendisini tehdit eden hırsızlardan bir gün kurtulursa, seni ailemin evinde bir zamanlar bu toprakların nam saldığı bereketli ürünlerle hazırlanmış güzel bir yemeğe davet edebilirsem kalbimdeki suçluluk duygusu hafifleyecektir.NEW_LINE-LewisNEW_LINELevazım Subayı, Gözcü Tepesi"
+	},
 }

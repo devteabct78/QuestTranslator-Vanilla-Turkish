@@ -1,8 +1,7 @@
--- Addon: QuestTranslator-Vanilla-Turkish for Vanilla Wow (classic 1.12.1) 2015.02.12
--- Description: Türkçe çeviri addonu.
+-- Addon: QuestTranslator-Vanilla-Turkish for Vanilla Wow (classic 1.12.1) 
+-- Description: Türkçe çeviri addonu. (Karma Eşleştirme Güncellemesi)
 -- Autor: Platine  (e-mail: fuat.tatar@hotmail.com)
--- Based on addon "QuestJapanizer" v.0.5.8 by lalha and QuestTranslator from Platine  (e-mail: platine.wow@gmail.com)
-
+-- Based on addon "QuestJapanizer" v.0.5.8 by lalha and QuestTranslator from Platine
 
 -- Global Variables
 local QTR_version = "1.0.20261005.1944";
@@ -27,14 +26,14 @@ local QuestTranslator_MessOrig = {
 local Original_Font1 = "Fonts\\MORPHEUS.ttf";
 local Original_Font2 = "Fonts\\FRIZQT__.ttf";
 
--- [DÜZELTME] Türkçe font yolunu eklenti klasörünüzü hedefleyecek şekilde buraya tanımlıyoruz.
+-- Türkçe font yolunu eklenti klasörünüzü hedefleyecek şekilde buraya tanımlıyoruz.
 local QTR_Font = "Interface\\AddOns\\QuestTranslator-Vanilla-Turkish\\Fonts\\ipagui.ttf";
 
 if not QuestTranslator then
    QuestTranslator = { };
 end
 
--- [DÜZELTME] Eklenti pencerelerindeki yazı elemanlarına fontu güvenli bir şekilde basan yardımcı fonksiyon.
+-- Eklenti pencerelerindeki yazı elemanlarına fontu güvenli bir şekilde basan yardımcı fonksiyon.
 local function ApplyTurkishFont()
     if (QuestTranslator_QuestTitle) then QuestTranslator_QuestTitle:SetFont(QTR_Font, 17) end
     if (QuestTranslator_QuestDetail) then QuestTranslator_QuestDetail:SetFont(QTR_Font, 14) end
@@ -50,21 +49,17 @@ end
 -- İç metinlerdeki tırnak ve ters slaşları korur, satır sonlarını doğrudan tek tırnak içinde NEW_LINE yapar
 local function QTR_CleanLuaText(txt)
     if (not txt or txt == "") then return ""; end
-    -- 1. Ters slaşları çiftle
     txt = string.gsub(txt, "\\", "\\\\");
-    -- 2. Çift tırnakları escape et
     txt = string.gsub(txt, '"', '\\"');
-    -- 3. Satır sonlarını doğrudan tırnağı kapatmadan metin içi düz NEW_LINE kelimesine çevir
     txt = string.gsub(txt, "\r\n", "NEW_LINE");
     txt = string.gsub(txt, "\n", "NEW_LINE");
-    -- 4. Oyuncu değişkenlerini şablonlaştır
     txt = string.gsub(txt, QTR_name, "YOUR_NAME");
     txt = string.gsub(txt, QTR_class, "YOUR_CLASS");
     txt = string.gsub(txt, QTR_race, "YOUR_RACE");
     return txt;
 end
 
--- Vanilla WoW 1.12 API uyumlu çalışan kopyalama fonksiyonu
+-- Eksik görevleri panoya kopyalama
 function QuestTranslator_CopyMissingToClipboard()
     local questSelected = GetQuestLogSelection();
     if (questSelected == 0) then 
@@ -73,11 +68,8 @@ function QuestTranslator_CopyMissingToClipboard()
     end
     
     local q_title = GetQuestLogTitle(questSelected) or "Bilinmeyen Gorev";
-    
-    -- Metinleri al ve temizle
     local desc = QTR_CleanLuaText(GetQuestLogQuestText());
     
-    -- Hedef metni (Eğer GetObjectiveText boşsa oyun logundaki asıl hedefleri seç)
     local rawObj = GetObjectiveText();
     if (not rawObj or rawObj == "") then
         _, rawObj = GetQuestLogQuestText();
@@ -87,11 +79,13 @@ function QuestTranslator_CopyMissingToClipboard()
     local prog = "";
     local comp = "";
 
-    -- ID'yi eklentinin kendi İngilizce başlık listesinden arıyoruz
-    local qid = QuestTranslator_SearchIDforName(q_title);
+    -- ID'yi yeni API ile doğrudan alıyoruz
+    local qid = 0;
+    if C_QuestLog and C_QuestLog.GetQuestIDForLogIndex then
+        qid = C_QuestLog.GetQuestIDForLogIndex(questSelected);
+    end
     local str_id = tostring(qid or "0");
 
-    -- İstenen tam ve hatasız Lua format şablonu (Tek bütün tırnak içinde NEW_LINE formatı)
     local template = "-- " .. q_title .. "\n" ..
                      '    ["' .. str_id .. '"] = {\n' ..
                      '    ["Title"]="' .. q_title .. '",\n' ..
@@ -101,9 +95,8 @@ function QuestTranslator_CopyMissingToClipboard()
                      '    ["Completion"]="' .. comp .. '",\n' ..
                      '    ["minlevel"]="0",\n' ..
                      '    ["questlevel"]="0",\n' ..
-                     '    }, -- end ' .. q_title;
+                     '    },';
 
-    -- Kopyalama Penceresi Oluşturma
     if (not QTR_CopyFrame) then
         QTR_CopyFrame = CreateFrame("Frame", "QTR_CopyFrame", UIParent);
         QTR_CopyFrame:SetWidth(400);
@@ -149,7 +142,6 @@ function QuestTranslator_CopyMissingToClipboard()
     QTR_CopyEditBox:SetFocus();
 end
 
-
 function QuestTranslator_CheckVars()
   if (not QTR_PS) then QTR_PS = {}; end
   if (not QTR_PC) then QTR_PC = {}; end
@@ -177,9 +169,7 @@ function QuestTranslator_CheckVars()
      QuestTranslator_QuestTitle:SetWidth(495);
      QTR_ToggleButton3:SetText("<");
   end
-  if (QTR_PS["isGetQuestID"]) then isGetQuestID=QTR_PS["isGetQuestID"]; end;
 end
-
 
 function QuestTranslator_SetCheckButtonState()
   QuestTranslatorCheckButton0:SetChecked(QTR_PS["active"]=="1");
@@ -191,7 +181,6 @@ function QuestTranslator_SetCheckButtonState()
   QuestTranslatorCheckButton6:SetChecked(QTR_PS["width"]=="1");
   QuestTranslatorCheckButton7:SetChecked(QTR_PS["width"]=="2");
 end
-
 
 function QuestTranslator_OnLoad1()
   QuestTranslator.frame1 = CreateFrame("Frame");
@@ -243,7 +232,6 @@ function QuestTranslator_OnLoad1()
 
   if hooksecurefunc then
        hooksecurefunc("QuestLogTitleButton_OnClick", function() 
-           -- Gecikmeli tetikleme: İstemcinin sunucudan doğru metni almasını bekler
            local delay = CreateFrame("Frame")
            delay.t = 0
            delay:SetScript("OnUpdate", function()
@@ -257,10 +245,7 @@ function QuestTranslator_OnLoad1()
   else
        local QTR_QuestLogTitleButton_OnClik = QuestLogTitleButton_OnClick;
        function QuestLogTitleButton_OnClick(button)
-          -- 1. ADIM: Önce oyunun kendi "görev seçme" işlemini (orijinal fonksiyonu) yapmasına izin ver
           QTR_QuestLogTitleButton_OnClik(button);
-          
-          -- 2. ADIM: Çok kısa bir süre (0.05 sn) bekleyip çeviriyi ondan sonra tetikle
           local delayFrame = CreateFrame("Frame")
           delayFrame.t = 0
           delayFrame:SetScript("OnUpdate", function()
@@ -274,33 +259,25 @@ function QuestTranslator_OnLoad1()
   end
 end
 
-
 function QuestTranslator_OnEvent1()
   if (event == "ADDON_LOADED") then
      QuestTranslator_CheckVars();
      
-     -- SavedVariables tablolarının boş olup olmadığını kontrol edip başlatıyoruz
      if not DiscoveredMobsAndNpcs then DiscoveredMobsAndNpcs = {} end
      if not DiscoveredZones then DiscoveredZones = {} end
      if not DiscoveredQuestIds then DiscoveredQuestIds = {} end
      
-     -- Yeni Karşılama Mesajı
-     local loadMsg = "|cffffff00QuestTranslator-Vanilla-Turkish addonu yüklenmiştir. Güncellemeler için sürekli kontrol etmeyi unutmayın.|r"
-     
+     local loadMsg = "|cffffff00QuestTranslator-Vanilla-Turkish eklentisi (Karma Eşleştirme) yüklendi.|r"
      if (DEFAULT_CHAT_FRAME) then
          DEFAULT_CHAT_FRAME:AddMessage(loadMsg);
      else
          UIErrorsFrame:AddMessage(loadMsg, 1.0, 1.0, 1.0, 1.0, UIERRORS_HOLD_TIME);
      end
      QuestTranslator.frame1:UnregisterEvent("ADDON_LOADED");
-     if (not isGetQuestID) then
-        DetectEmuServer();
-     end;
   end
 
   if (event == "QUEST_LOG_UPDATE") then
      if (QuestTranslatorFrame1:IsVisible()) then
-        -- Görev güncellemelerinde de metnin tam yüklenmesini garanti altına alıyoruz
         local delayFrame = CreateFrame("Frame")
         delayFrame.t = 0
         delayFrame:SetScript("OnUpdate", function()
@@ -314,18 +291,14 @@ function QuestTranslator_OnEvent1()
   end
 end
   
-
 function QuestTranslator_OnLoad2()
   QuestTranslator.frame2 = CreateFrame("Frame");
   QuestTranslator.frame2:RegisterEvent("QUEST_GREETING");
   QuestTranslator.frame2:RegisterEvent("QUEST_DETAIL");
   QuestTranslator.frame2:RegisterEvent("QUEST_PROGRESS");
   QuestTranslator.frame2:RegisterEvent("QUEST_COMPLETE");
-  
-  -- Kitap/Mektup Eventleri Eklendi
   QuestTranslator.frame2:RegisterEvent("ITEM_TEXT_READY");
   QuestTranslator.frame2:RegisterEvent("ITEM_TEXT_CLOSED");
-  
   QuestTranslator.frame2:SetScript("OnEvent", QuestTranslator_OnEvent3);
   
   ApplyTurkishFont();
@@ -334,18 +307,10 @@ function QuestTranslator_OnLoad2()
   QuestTranslatorFrame2:SetPoint("TOPLEFT", QuestFrame, "TOPRIGHT", -31, -19);
   QuestFrame:SetScript("OnHide", QuestTranslator_Frame2Close);
   
-  -- Kitap Arayüzü Kapanma Kancası
   if ItemTextFrame then
       ItemTextFrame:SetScript("OnHide", QuestTranslator_BookFrameClose);
   end
 end
-
-
-function DetectEmuServer()
-  QTR_PS["isGetQuestID"]="0";
-  isGetQuestID="0";
-end
-
 
 function QuestTranslator_OnEvent3()
   if (event == "QUEST_GREETING") then
@@ -380,7 +345,6 @@ function QuestTranslator_OnEvent3()
      ApplyTurkishFont();
   end
   
-  -- Kitap Okunduğunda Tetiklenen Alan
   if (event == "ITEM_TEXT_READY") then
      QuestTranslator_ProcessBookText();
   end
@@ -390,8 +354,7 @@ function QuestTranslator_OnEvent3()
   end
 end
 
-
--- [KESİN ÇÖZÜM] Zincir Görevler ve Kısa Metinler İçin Optimize Edilmiş Arama Motoru
+-- Eski Sisteme Dönüş: QuestList.lua kullanarak isim ve metin eşleştirme
 function QuestTranslator_SearchIDforName(qqq_title)
     local qqq_ID = 0;
     local qqq_lists = nil;
@@ -408,47 +371,44 @@ function QuestTranslator_SearchIDforName(qqq_title)
         currentText = string.gsub(currentText, QTR_name, "YOUR_NAME");
         currentText = string.gsub(currentText, QTR_class, "YOUR_CLASS");
         currentText = string.gsub(currentText, QTR_race, "YOUR_RACE");
-        -- Başındaki ve sonundaki boşlukları temizle (Garantili eşleşme için)
         currentText = string.gsub(currentText, "^%s*(.-)%s*$", "%1");
     end
 
-    -- 1. Aşama: Birebir Metin Eşleşmesi Arama
-    for questKey, questData in pairs(QuestTranslator_QuestList) do
-        if type(questData) == "table" and string.find(questKey, qqq_title, 1, true) == 1 then
-            
-            local targetMatchText = questData[2] or "";
-            targetMatchText = string.gsub(targetMatchText, "<name>", "YOUR_NAME");
-            targetMatchText = string.gsub(targetMatchText, "<class>", "YOUR_CLASS");
-            targetMatchText = string.gsub(targetMatchText, "<race>", "YOUR_RACE");
-            targetMatchText = string.gsub(targetMatchText, "^%s*(.-)%s*$", "%1"); -- Trim
+    -- 1. Aşama: Birebir Metin Eşleşmesi Arama (QuestList.lua üzerinden)
+    if QuestTranslator_QuestList then
+        for questKey, questData in pairs(QuestTranslator_QuestList) do
+            if type(questData) == "table" and string.find(questKey, qqq_title, 1, true) == 1 then
+                
+                local targetMatchText = questData[2] or "";
+                targetMatchText = string.gsub(targetMatchText, "<name>", "YOUR_NAME");
+                targetMatchText = string.gsub(targetMatchText, "<class>", "YOUR_CLASS");
+                targetMatchText = string.gsub(targetMatchText, "<race>", "YOUR_RACE");
+                targetMatchText = string.gsub(targetMatchText, "^%s*(.-)%s*$", "%1");
 
-            if targetMatchText ~= "" and currentText ~= "" then
-                local matchLength = string.len(targetMatchText);
-                local currentCutText = string.sub(currentText, 1, matchLength);
+                if targetMatchText ~= "" and currentText ~= "" then
+                    local matchLength = string.len(targetMatchText);
+                    local currentCutText = string.sub(currentText, 1, matchLength);
 
-                -- Hem dinamik kırpılmış metni hem de kısmi aramayı aynı anda doğrula
-                if currentCutText == targetMatchText or string.find(currentText, targetMatchText, 1, true) then
-                    qqq_lists = questData[1];
-                    found_match = true;
-                    break; -- Tam eşleşme bulundu, döngüden çık!
+                    if currentCutText == targetMatchText or string.find(currentText, targetMatchText, 1, true) then
+                        qqq_lists = questData[1];
+                        found_match = true;
+                        break;
+                    end
                 end
             end
         end
-    end
 
-    -- 2. Aşama: Eğer oyundan metin BOŞ geldiyse veya hiçbir metin eşleşmediyse, 
-    -- Yanlış görevi göstermek yerine DUP_1 olan ilk ana göreve düşür (Güvenli Fallback)
-    if not found_match then
-        -- Rastgele bir DUP yerine, isme en yakın düz anahtarı kontrol et
-        if QuestTranslator_QuestList[qqq_title] then
-            qqq_lists = QuestTranslator_QuestList[qqq_title];
-            found_match = true;
-        else
-            -- Eğer o da yoksa listenin ilk elemanını (DUP_1) bulmaya çalış
-            local fallbackKey = qqq_title .. "_QTR_DUP_1";
-            if QuestTranslator_QuestList[fallbackKey] then
-                qqq_lists = QuestTranslator_QuestList[fallbackKey][1];
+        -- 2. Aşama: Fallback (Sadece başlık eşleşmesi)
+        if not found_match then
+            if QuestTranslator_QuestList[qqq_title] then
+                qqq_lists = QuestTranslator_QuestList[qqq_title];
                 found_match = true;
+            else
+                local fallbackKey = qqq_title .. "_QTR_DUP_1";
+                if QuestTranslator_QuestList[fallbackKey] then
+                    qqq_lists = QuestTranslator_QuestList[fallbackKey][1];
+                    found_match = true;
+                end
             end
         end
     end
@@ -474,7 +434,9 @@ function QuestTranslator_SearchIDforName(qqq_title)
                 qqq_ID=tonumber(QTR_Center);
                 if ( string.len(QTR_multiple)>0 ) then
                     QTR_multiple = " (" .. string.sub(QTR_multiple, 3) .. ")";
-                    QuestTranslator_QuestWarning2:SetText(QuestTranslator_Messages.multipleID .. QTR_multiple);
+                    if QuestTranslator_QuestWarning2 then
+                        QuestTranslator_QuestWarning2:SetText(QuestTranslator_Messages.multipleID .. QTR_multiple);
+                    end
                 end
             end
         end
@@ -482,7 +444,7 @@ function QuestTranslator_SearchIDforName(qqq_title)
     return qqq_ID;
 end
 
-
+-- NPC ile konuşurken Görev çevirilerini çeken fonksiyon (Eski sistem QuestList.lua kullanır)
 function QuestTranslator_OnEvent2()
   local q_ID = 0;
   local q_title = GetTitleText();
@@ -493,30 +455,31 @@ function QuestTranslator_OnEvent2()
      QuestTranslator_QuestDetail2:SetText(QuestTranslator_Messages.missing);
      QuestTranslator_QuestWarning2:SetText("");
      
-     if ( q_ID == 0 ) then
-        if ( isGetQuestID=="1" ) then
-           q_ID = GetQuestID();
-        end
-        if ( q_ID == 0 ) then
-         q_ID = QuestTranslator_SearchIDforName(q_title);
-        end
+     -- Eğer GetQuestID API'si varsa yine de bir şans veriyoruz
+     if GetQuestID then
+        q_ID = GetQuestID();
      end
+     
+     -- Eğer API boş döndüyse (NPC pencerelerinde) QuestList.lua üzerinden arama yapıyoruz
+     if (not q_ID or q_ID == 0) then
+         q_ID = QuestTranslator_SearchIDforName(q_title);
+     end
+     
      if ( q_ID > 0 ) then
         local str_id = tostring(q_ID);
         QuestTranslator_QuestID2:SetText("QuestID: " .. str_id);
         QuestTranslator_QuestTitle2:SetText(q_title);
+        
+        -- Doğrudan ID bazlı arama yapıyoruz
         if (QuestTranslator_QuestData[str_id]) then
            if (QTR_PS["mode"]=="2") then
               QuestTranslator_ShowFrame2(QTR_event, str_id);
            end
         else
-           -- [DÜZELTME] Tablo henüz oluşmamışsa anında oluştur
            if not DiscoveredQuestIds then DiscoveredQuestIds = {} end
-
-           -- Eğer Görev ID'si veritabanında yoksa listeye ekle ve ekrana yaz
            if not DiscoveredQuestIds[str_id] then
                DiscoveredQuestIds[str_id] = ""
-               DEFAULT_CHAT_FRAME:AddMessage("|cff00ffff[QTVT]|r " .. str_id .. " numaralı görev (quest) eklendi.")
+               DEFAULT_CHAT_FRAME:AddMessage("|cff00ffff[QTVT]|r " .. str_id .. " numaralı görev (quest) veritabanında bulunamadı, eklendi.")
            end
            
            QTR_SAVED[str_id.." TITLE"]=GetTitleText();
@@ -535,13 +498,12 @@ function QuestTranslator_OnEvent2()
      end
   end
   if (QTR_event == "QUEST_COMPLETE") then
-     if ( q_ID > 0) then
+     if ( q_ID and q_ID > 0) then
         local str_id = tostring(q_ID);
         QTR_PC[str_id]="OK";
      end
   end
 end
-
 
 function QuestTranslator_ShowFrame2(eventStr, qid)
   QuestTranslator_QuestID2:SetText("QuestID: " .. qid);
@@ -581,18 +543,15 @@ function QuestTranslator_ShowFrame2(eventStr, qid)
   end
 end
 
-
--- Dahili Kitap Sayfalama Değişkenleri
-local QTR_BookPagesData = {}; -- Otomatik bölünen sayfa metinlerini tutacak tablo
+-- Kitap Sayfalama
+local QTR_BookPagesData = {}; 
 local QTR_BookPage = 1;
 local QTR_MaxBookPages = 1;
 
--- [DÜZELTİLDİ] NEW_LINE Etiketlerini ve Gerçek Alt Satırları Korumalı Şekilde Sayfalayan Akıllı Bölücü
 local function QTR_AutoWrapText(text, maxCharsPerPage)
     local pages = {};
     local currentPageText = "";
     
-    -- Önce gerçek alt satır komutlarını eklentinin kendi standart etiketi olan NEW_LINE ifadesine çevirelim
     text = string.gsub(text, "\r\n", " NEW_LINE ");
     text = string.gsub(text, "\n", " NEW_LINE ");
     
@@ -600,16 +559,13 @@ local function QTR_AutoWrapText(text, maxCharsPerPage)
     
     for _, word in ipairs(words) do
         if word ~= "" then
-            -- Eğer kelime doğrudan bir alt satır emriyse (NEW_LINE)
             if word == "NEW_LINE" then
-                -- Mevcut sayfada metin varsa sonuna iliştiriyoruz, sayfa kesmiyoruz
                 if currentPageText == "" then
                     currentPageText = "NEW_LINE";
                 else
                     currentPageText = currentPageText .. " NEW_LINE";
                 end
             else
-                -- Normal kelimeler için sınır hesabı yap (NEW_LINE kelimelerini temiz görüntü boyutuna dahil etmiyoruz)
                 local cleanLength = string.len(string.gsub(currentPageText, "NEW_LINE", ""));
                 if cleanLength + string.len(word) + 1 > maxCharsPerPage then
                     table.insert(pages, currentPageText);
@@ -632,7 +588,6 @@ local function QTR_AutoWrapText(text, maxCharsPerPage)
     return pages;
 end
 
--- [HEM GECİKMELİ HEM GARANTİLİ TARAYICILI] Dahili Sayfalamalı Kitap İşleyicisi
 function QuestTranslator_ProcessBookText()
     if (QTR_PS["active"] == "0") then return; end
     
@@ -641,11 +596,9 @@ function QuestTranslator_ProcessBookText()
     delayFrame:SetScript("OnUpdate", function()
         this.timeSinceUpdate = this.timeSinceUpdate + arg1
         if this.timeSinceUpdate >= 0.05 then
-            this:SetScript("OnUpdate", nil) -- Zamanlayıcıyı kapat
+            this:SetScript("OnUpdate", nil) 
             
             local book_title = nil;
-            
-            -- [RESİM_6'DAKİ BAŞARIYLA YAKALAYAN KESİN ALGORİTMA]
             if ItemTextFrameTitleText and ItemTextFrameTitleText.GetText then
                 book_title = ItemTextFrameTitleText:GetText();
             end
@@ -671,15 +624,10 @@ function QuestTranslator_ProcessBookText()
 
             book_title = book_title or "Bilinmeyen Kitap";
             
-            -- Veritabanında doğrudan isimle düz arama
             if QuestTranslator_BookData and QuestTranslator_BookData[book_title] then
                 QuestTranslator_BookTitle:SetText(QuestTranslator_ExpandUnitInfo(QuestTranslator_BookData[book_title]["Title"] or book_title));
-                
-                -- Ham düz metni çek ve oyuncu değişkenlerini genişlet
                 local full_text = QuestTranslator_BookData[book_title]["Text"] or "";
                 full_text = QuestTranslator_ExpandUnitInfo(full_text);
-                
-                -- Metni kelimeleri bozmadan ve NEW_LINE emrini ezmeden ~650 karakterlik sayfalara bölüyoruz
                 QTR_BookPagesData = QTR_AutoWrapText(full_text, 650);
                 
                 QTR_MaxBookPages = table.getn(QTR_BookPagesData);
@@ -703,25 +651,18 @@ function QuestTranslator_ProcessBookText()
     end)
 end
 
--- Sayfa Gösterim Güncelleyici
 function QuestTranslator_UpdateBookPageDisplay()
     local page_text = QTR_BookPagesData[QTR_BookPage] or "";
-    
-    -- [KRİTİK] Sayfadaki metni ekrana basmadan önce tüm NEW_LINE etiketlerini gerçek alt satıra (\n) çeviriyoruz
     page_text = QuestTranslator_ExpandUnitInfo(page_text);
-    
-    -- Sayfa numarasını en alta şık bir şekilde iliştir
     page_text = page_text .. "\n\n|cffffff00Sayfa: " .. QTR_BookPage .. " / " .. QTR_MaxBookPages .. "|r";
     QuestTranslator_BookDetail:SetText(page_text);
     
-    -- Butonların görünürlük durumları
     if QTR_BookPrevBtn and QTR_BookNextBtn then
         if QTR_BookPage > 1 then QTR_BookPrevBtn:Show() else QTR_BookPrevBtn:Hide() end
         if QTR_BookPage < QTR_MaxBookPages then QTR_BookNextBtn:Show() else QTR_BookNextBtn:Hide() end
     end
 end
 
--- Buton Tıklama Aksiyonları
 function QuestTranslator_BookPageNext()
     if QTR_BookPage < QTR_MaxBookPages then
         QTR_BookPage = QTR_BookPage + 1;
@@ -736,26 +677,21 @@ function QuestTranslator_BookPagePrev()
     end
 end
 
-
 function QuestTranslator_QuestLog_OnHide()
   if QTR_CopyButton then QTR_CopyButton:Hide() end
   if QTR_CopyFrame then QTR_CopyFrame:Hide() end
 end
-
 
 function QuestTranslator_Frame2Close()
   QuestTranslatorFrame2:Hide();
   QuestFrame_OnHide();
 end
 
-
--- Kitap Penceresi Kapandığında Çağrılır
 function QuestTranslator_BookFrameClose()
   if QuestTranslatorFrame3 then
       QuestTranslatorFrame3:Hide();
   end
 end
-
 
 function QTR_split(str, c)
   local aCount = 0;
@@ -772,18 +708,6 @@ function QTR_split(str, c)
   return array;
 end
 
-
-function QTR_findlast(source, char)
-  if (not source) then return 0; end
-  local lastpos = 0;
-  local byte_char = string.byte(char);
-  for i=1, table.getn(source) do
-     if (string.byte(source,i)==byte_char) then lastpos = i; end
-  end
-  return lastpos;
-end
-
-
 function QuestTranslator_ChangeFrameHeight()
   if (QuestTranslator_SizeH == 1) then
      QuestTranslatorFrame1:SetHeight(525);
@@ -799,7 +723,6 @@ function QuestTranslator_ChangeFrameHeight()
      QTR_PS["size"] = "1";
   end
 end
-
 
 function QuestTranslator_ChangeFrameWidth()
   if (QuestTranslator_SizeW == 1) then
@@ -819,17 +742,12 @@ function QuestTranslator_ChangeFrameWidth()
   end
 end
 
-
 function QuestTranslator_OnMouseDown1() QuestTranslatorFrame1:StartMoving(); end
 function QuestTranslator_OnMouseUp1() QuestTranslatorFrame1:StopMovingOrSizing(); end
 function QuestTranslator_OnMouseDown2() QuestTranslatorFrame2:StartMoving(); end
 function QuestTranslator_OnMouseUp2() QuestTranslatorFrame2:StopMovingOrSizing(); end
-
-
--- Üçüncü Pencerenin (Kitap) Taşınma Scriptleri
 function QuestTranslator_OnMouseDown3() QuestTranslatorFrame3:StartMoving(); end
 function QuestTranslator_OnMouseUp3() QuestTranslatorFrame3:StopMovingOrSizing(); end
-
 
 function QuestTranslator_ToggleVisibility()
   if (QTR_PS["active"]=="0") then
@@ -841,13 +759,11 @@ function QuestTranslator_ToggleVisibility()
   end
 end
 
-
 function QuestTranslator_ShowAndUpdateQuestInfo()
   if (QTR_PS["active"]=="0") then return; end
   if (QTR_PS["mode"]=="2") then QuestTranslatorFrame1:Show(); end;
   QuestTranslator_UpdateQuestInfo();
 end
-
 
 function QuestTranslator_HideQuestInfo()
   if QTR_CopyButton then QTR_CopyButton:Hide() end
@@ -855,15 +771,21 @@ function QuestTranslator_HideQuestInfo()
   QuestTranslatorFrame1:Hide();
 end
 
-
+-- Görev Günlüğünde (Quest Log) çevirileri çeken fonksiyon
 function QuestTranslator_UpdateQuestInfo()
   if (QTR_PS["active"]=="0") then return; end
   local questSelected = GetQuestLogSelection();
-  if (GetQuestLogTitle(questSelected) == nil) then return; end
-  local questTitle = GetQuestLogTitle(questSelected);
-  if (isHeader) then return; end
+  local questTitle, _, _, isHeader = GetQuestLogTitle(questSelected);
+  if (questTitle == nil or isHeader) then return; end
 
-  local qid = QuestTranslator_SearchIDforName(questTitle);
+  -- Yeni API ile ID'yi çekiyoruz
+  local qid = 0;
+  if C_QuestLog and C_QuestLog.GetQuestIDForLogIndex then
+      qid = C_QuestLog.GetQuestIDForLogIndex(questSelected);
+  elseif GetQuestID then
+      qid = GetQuestID();
+  end
+  
   local str_id = tostring(qid or "0");
   QuestTranslator_QuestID:SetText("QuestID: " .. str_id);
 
@@ -871,7 +793,6 @@ function QuestTranslator_UpdateQuestInfo()
      if QTR_CopyButton then QTR_CopyButton:Hide() end
      QTR_objectives  = QuestTranslator_ExpandUnitInfo(QuestTranslator_QuestData[str_id]["Objectives"]);
      QTR_description = QuestTranslator_ExpandUnitInfo(QuestTranslator_QuestData[str_id]["Description"]);
-     -- |cffFFD100 klasik WoW başlık sarısıdır, |r ise rengi sıfırlayıp normal metne döndürür. \n\n ile fazladan boşluk bırakıyoruz.
     QTR_descripFull = "|cffFFD100" .. QuestTranslator_Messages.details .. "|r\n\n" .. QTR_description;
      QTR_translator = "";
      if (QuestTranslator_QuestData[str_id]["Translator"]) then
@@ -882,10 +803,8 @@ function QuestTranslator_UpdateQuestInfo()
      QuestTranslator_QuestTitle:SetText(QuestTranslator_ExpandUnitInfo(QuestTranslator_QuestData[str_id]["Title"]));
      QuestTranslator_QuestDetail:SetText(QTR_objectives .. "\n\n" .. QTR_descripFull .. QTR_translator);
   else
-     -- [DÜZELTME] Tablo henüz oluşmamışsa anında oluştur
      if not DiscoveredQuestIds then DiscoveredQuestIds = {} end
 
-     -- Görev Logunda bilinmeyen bir görev açıldığında
      if str_id ~= "0" and not DiscoveredQuestIds[str_id] then
          DiscoveredQuestIds[str_id] = ""
          DEFAULT_CHAT_FRAME:AddMessage("|cff00ffff[QTVT]|r " .. str_id .. " numaralı görev (quest) eklendi.")
@@ -898,7 +817,6 @@ function QuestTranslator_UpdateQuestInfo()
   ApplyTurkishFont();
 end
 
-
 function QuestTranslator_ExpandUnitInfo(msg)
   if (not msg) then return ""; end
   msg = string.gsub(msg, "NEW_LINE", "\n\n");
@@ -908,14 +826,11 @@ function QuestTranslator_ExpandUnitInfo(msg)
   return msg;
 end
 
--- Eklenti durumunu kontrol eden ve arayüzü güncelleyen Toggle fonksiyonu
 function QuestTranslator_Toggle()
     QuestTranslator_Config.enabled = not QuestTranslator_Config.enabled
     if QuestTranslator_Config.enabled then
         DEFAULT_CHAT_FRAME:AddMessage("|cff00ff00QuestTranslator aktif edildi.|r")
-        -- Burada eğer hook (kanca) veya verileri yenileme fonksiyonun varsa onu çağırabilirsin.
     else
         DEFAULT_CHAT_FRAME:AddMessage("|cffff0000QuestTranslator pasif edildi. (Orijinal metinler gösterilecek)|r")
     end
-
 end
