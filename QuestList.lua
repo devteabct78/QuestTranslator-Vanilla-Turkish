@@ -11346,7 +11346,7 @@ QuestTranslator_QuestList = {
     ["A Taste of Flame_QTR_DUP_3"]={"4024","Travel to Blackrock Dept"},
     ["Echoes of a Salesman"]="5214",
 
-    ["The Harvest Golem Mystery_QTR_DUP_1"]={"40470","Collect a Cracked Animati"},
+["The Harvest Golem Mystery_QTR_DUP_1"]={"40470","Collect a Cracked Animati"},
 ["The Harvest Golem Mystery_QTR_DUP_2"]={"40471","Gather 10 Intact Animatio"},
 ["The Harvest Golem Mystery_QTR_DUP_3"]={"40472","Collect the Harvester Blu"},
 ["The Harvest Golem Mystery_QTR_DUP_4"]={"40473","Bring the Harvester Bluep"},
