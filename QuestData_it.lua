@@ -28915,7 +28915,7 @@ QuestTranslator_QuestData = {
     ["40480"] = {
     -- Lakeshire -> Gölhisar(Lakeshire). Franklin Hamar -> Franklin Çekiç.
     ["Title"]="Hasat Golemi Gizemi",
-    ["Description"]="Şu şifre meselesine gelirsek... Ben onu okuyamıyorum. Ama Gölhisar(Lakeshire)da yaşayan sevgili meslektaşım Franklin Çekiç (Franklin Hamar), Defias ile ticaret yaparken aynı şifreyi kullanırdı. Bana öyle bakma! Bendim değil, oydu. Bu sefil insanlarla asla ama asla ticaret yapmazdım... Ne olursa olsun, onu senin için okuyabilecektir. Muhtemelen biraz ikna edilmesi gerekecek ama bunu kesinlikle yapabilirsin. Ve madem Gölobası'na gidiyorsun... Benim şu lanet olası sevkıyatımı da sorabilir misin lütfen?",
+    ["Description"]="Şu şifre meselesine gelirsek... Ben onu okuyamıyorum. Ama Gölhisar(Lakeshire)da yaşayan sevgili meslektaşım Franklin Çekiç (Franklin Hamar), Defias ile ticaret yaparken aynı şifreyi kullanırdı. NEW_LINEBana öyle bakma! Bendim değil, oydu. Bu sefil insanlarla asla ama asla ticaret yapmazdım... NEW_LINENe olursa olsun, onu senin için okuyabilecektir. Muhtemelen biraz ikna edilmesi gerekecek ama bunu kesinlikle yapabilirsin. Ve madem Gölbölgesi'na gidiyorsun... Benim şu lanet olası sevkıyatımı da sorabilir misin lütfen?",
     ["Objectives"]="Gölhisar(Lakeshire)daki Franklin Çekiç (Franklin Hamar) ile konuş.",
     ["Progress"]="Yalnızca en kaliteli malları sunarım.",
     ["Completion"]="Ne? Ver sunu bana. <Franklin Çekiç nota bakar.> Evet, bunu okuyabilirim. Ama her şeyin bir bedeli vardır.",
@@ -28928,7 +28928,7 @@ QuestTranslator_QuestData = {
     -- Duskwood -> Kasvetliorman, Moonlight Silk -> Mehtap İpeği.
     ["Title"]="Hasat Golemi Gizemi",
     ["Description"]="Bunu senin için deşifre edebilirim, elbette. Ama ilk olarak: kasabadaki herhangi bir muhafıza bunu yapabileceğime dair tek bir kelime edersen, bittin. Ve ikincisi: bu sana pahalıya patlayacak. Şanslısın ki bazı kolay ve basit görevleri yerine getirecek bir maceracıya ihtiyacım var... İlk olarak, ipeğe ihtiyacım var. Ama sıradan bir ipek değil. Ay ışığında yıkanmış, olağanüstü güzellikte mehtap ipeği (moonlight silk). Alması zordur. Bildiğim kadarıyla sadece Kasvetliorman'da (Duskwood) bulunur. Bana en az on örnek getir, yeterince iyi mi bakarız.",
-    ["Objectives"]="Gölobası'ndaki Franklin Çekiç için 10 adet Mehtap İpeği örneği topla.",
+    ["Objectives"]="Gölbölgesi'ndaki Franklin Çekiç için 10 adet Mehtap İpeği örneği topla.",
     ["Progress"]="İpeği aldın mı? Bütün günüm yok.",
     ["Completion"]="Olağanüstü. Bunlar yeterince iyi.",
     ["minlevel"]="0",
@@ -28940,7 +28940,7 @@ QuestTranslator_QuestData = {
     -- Lordaeron Needles -> Lordaeron İğneleri.
     ["Title"]="Hasat Golemi Gizemi",
     ["Description"]="Pekala, bana iyi yardım ettin. Seni ayak işlerine koşmaktan kurtaracağım ve sadece en iyi yaptığın şeyi yapmaya göndereceğim. Öldürmek. Kızıltepe (Redridge) tepelerindeki gnollar son zamanlarda bana ve diğer tüccarlara zor anlar yaşatıyor. İş için kötü bir durum. Sadece bu ay nadir malzemeler içeren iki sevkıyat kaybettim! Muhtemelen onları hâlâ kuzeydeki kamplarında bir yerlerde istifliyorlar. Bir kontrol et. Özellikle kayıp bir sevkıyatı aramanı istiyorum - Lordaeron'dan gelen nadir iğneler (Lordaeron Needles). Onları gördüğünde anlayacaksın.",
-    ["Objectives"]="Gnoll kulübeleri arasında Lordaeron İğneleri'ni bul ve onları Gölobası'daki Franklin Çekiç'e (Franklin Hamar) getir.",
+    ["Objectives"]="Gnoll kulübeleri arasında Lordaeron İğneleri'ni bul ve onları Gölbölgesi'daki Franklin Çekiç'e (Franklin Hamar) getir.",
     ["Progress"]="Az laf, çok iş.",
     ["Completion"]="Olağanüstü. Harika iş. O iğneler bana çok iyi hizmet edecek. Çok ince, çok dayanıklı. Ama acele ediyorum. Bir söz vermiştim. İzin ver şu mesajın şifresini çözeyim.",
     ["minlevel"]="0",
