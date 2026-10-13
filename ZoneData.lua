@@ -1550,5 +1550,12 @@ ZoneTranslator_ZoneData = {
 ["The Grinding Quarry"] = "Öğütme Taş Ocağı",
 ["Summoners' Tomb"] = "Çağırıcılar Mezarı",
 ["West Garrison"] = "Batı Garnizonu",
+["Hordemar City"] = "Hordemar Şehri",
+["Hall of Blackhand"] = "Karasakal Salonu",
+["Tazz'Alaor"] = "Tazz'Alaor",
+["Mok'Doom"] = "Mok'Doom",
+["Talonbranch Glade "] = "Pençedal Açıklığı",
+["City of Ironforge"] = "Demirörs Şehri",
+["Temple of the Moon"] = "Ay Tapınağı",
 
 }
