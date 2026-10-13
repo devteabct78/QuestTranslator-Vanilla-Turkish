@@ -25094,10 +25094,10 @@ QuestTranslator_QuestData = {
 -- Torta'nın Yumurtası
     ["40302"] = {
     ["Title"]="Torta'nın Yumurtası",
-    ["Description"]="Merhaba maceracı! Bileceğin üzere Karaay Panayırı (Darkmoon Faire) her hafta Kalimdor'dan Doğu Krallıkları'na (Eastern Kingdoms) taşınır. Hatta fraksiyon engeli olmadan çoğu şehirden geçebiliyoruz. Darkshore'dan (Karanlık kıyı) Stormwind'e (Fırtınayeli) giden yeni tekneyle rotamızı büyük ölçüde değiştirdik. Açıklamayı çabucak bitirmek gerekirse, bu hafta gece Darkshore'a ulaşmadan önce Zoram Kıyısı (Zoram's Strand) yakınlarında kamp kurduk ve o Nagalardan biri bir zamanlar Tanaris'te aldığım çok değerli bir hediyeyi çaldı! Ah evet, mucizeler ve gizemler aradığım günlerde kıyıya yakın tuhaf bir kaplumbağa bulmuştum, adı Torta'ydı ve konuşabiliyordu! Düşünsene, konuşan bir kaplumbağa, ne kadar muhteşem! Benden kocası Tooga'yı bulmamı istemeyi. Görünüşe göre adam çok kayboluyordu ama o da konuşabiliyordu! Hayatımda böyle bir şey görmedim. Ama maalesef Panayıra katılmak istemediler, yine de Torta bana yumurtalarından birini sundu ve bahsettiğim o değerli hediye işte bu; sanırım çatlamak üzereydi de. Lütfen yumurtamı geri getir.",
+    ["Description"]="Merhaba maceracı! Bileceğin üzere Karaay Panayırı (Darkmoon Faire) her hafta Kalimdor'dan Doğu Krallıkları'na (Eastern Kingdoms) taşınır. Hatta fraksiyon engeli olmadan çoğu şehirden geçebiliyoruz. NEW_LINEDarkshore'dan (Karanlık kıyı) Stormwind'e (Fırtınayeli) giden yeni tekneyle rotamızı büyük ölçüde değiştirdik. NEW_LINEAçıklamayı çabucak bitirmek gerekirse, bu hafta gece Darkshore'a ulaşmadan önce Zoram Kıyısı (Zoram's Strand) yakınlarında kamp kurduk ve o Nagalardan biri bir zamanlar Tanaris'te aldığım çok değerli bir hediyeyi çaldı! NEW_LINEAh evet, mucizeler ve gizemler aradığım günlerde kıyıya yakın tuhaf bir kaplumbağa bulmuştum, adı Torta'ydı ve konuşabiliyordu! Düşünsene, konuşan bir kaplumbağa, ne kadar muhteşem! NEW_LINEBenden kocası Tooga'yı bulmamı istemeyi. Görünüşe göre adam çok kayboluyordu ama o da konuşabiliyordu! Hayatımda böyle bir şey görmedim. Ama maalesef Panayıra katılmak istemediler, yine de Torta bana yumurtalarından birini sundu ve bahsettiğim o değerli hediye işte bu; sanırım çatlamak üzereydi de. Lütfen yumurtamı geri getir.",
     ["Objectives"]="Zoram Kıyısı'nda (Zoram Strand) Torta'nın Yumurtası'nı bul.",
     ["Progress"]="Ona sahip misin?",
-    ["Completion"]="Bulmuşsun! Aman tanrım, sanırım çatlıyor, YOUR_NAME! Çabuk, ne kadar güzel küçük bir bebek kaplu-- bu bir bebek değil mi?! <Kaplumbağa aniden büyüme atağı geçirmiş gibi görünüyor ve sana bakıyor>. Sanırım o Nagalar bu zavallı bebek kaplumbağa üzerinde büyülerini kullandılar, seni ebeveyni sanıyor gibi görünüyor; Panayırda konuşan bir kaplumbağaya sahip olma şansım da böylece uçup gitti. Şey, yeni yoldaşının tadını çıkar dostum ve zaman zaman bizi ziyaret et, gerçekten hiç konuşup konuşmayacağını merak ediyorum.",
+    ["Completion"]="Bulmuşsun! Aman tanrım, sanırım çatlıyor, YOUR_NAME! Çabuk, ne kadar güzel küçük bir bebek kaplu-- bu bir bebek değil mi?! NEW_LINE<Kaplumbağa aniden büyüme atağı geçirmiş gibi görünüyor ve sana bakıyor>. NEW_LINESanırım o Nagalar bu zavallı bebek kaplumbağa üzerinde büyülerini kullandılar, seni ebeveyni sanıyor gibi görünüyor; Panayırda konuşan bir kaplumbağaya sahip olma şansım da böylece uçup gitti. NEW_LINEŞey, yeni yoldaşının tadını çıkar dostum ve zaman zaman bizi ziyaret et, gerçekten hiç konuşup konuşmayacağını merak ediyorum.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Torta's Egg
@@ -28894,7 +28894,7 @@ QuestTranslator_QuestData = {
     ["Description"]="Defias goblinleri yer altı sığınaklarının derinliklerinde hasat golemleri üretiyor. Gözcü Tepesi'ndeki Halk Milisleri son zamanlarda buranın yerini bulmaya çalışıyor. Belki de yerini keşfetmişlerdir. Keşfetmedilerse, muhtemelen yardımına ihtiyaçları olacak. NEW_LINEİçeri girdiğinde atölyeyi bul, tamircileri ve onların en büyük eserini katlet. Bu, üretim faaliyetlerini tamamen durduracaktır. NEW_LINEBu sırada ben de Hewen'a ulaşacağım. Eğer bu notun şifresini çözebilecek biri varsa, o da odur ya da en azından bağlantılarından biridir.",
     ["Objectives"]="Ölümadenler'e (Deadmines) atıl ve Şaheser Hasatçı'yı (Masterpiece Harvester) katlet. İş bittiğinde Westfall'ndeki Bahçekenarı Arazisi'nde bulunan Maltimor Bahçekenarı'na geri dön.",
     ["Progress"]="Defias sığınağını buldun mu?",
-    ["Completion"]="Ölümadenler... İlginç. Oradan canlı çıkmana sevindim. Liderleri öldüğüne göre, ben de geri kalan golemleri yeniden kablolamaya odaklanabilirim. Buna, ve tüm bunlardan sorumlu kişiyi bulmaya.",
+    ["Completion"]="Ölümadenler... İlginç. Oradan canlı çıkmana sevindim. Liderleri öldüğüne göre, ben de geri kalan golemleri yeniden kablolamaya odaklanabilirim. NEW_LINEBuna, ve tüm bunlardan sorumlu kişiyi bulmaya.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end The Harvest Golem Mystery
@@ -28903,10 +28903,10 @@ QuestTranslator_QuestData = {
     ["40479"] = {
     -- Cypher -> Şifre. People's Militia -> Halk Milisleri.
     ["Title"]="Hasat Golemi Gizemi",
-    ["Description"]="Sen yokken, Hewen ile bu gizemli not hakkında konuştum. Beklediğim gibi, bunun bir tür şifre (cypher) olduğu ortaya çıktı. Merak etme, onu tanıdı. Gözcü Tepesi'ne (Sentinel Hill) geri dön ve onunla konuş. Bunu sana benden daha iyi açıklayacaktır. Sonunda, Westfall halkına haksızlık edenlere karşı intikamımızı almaya yaklaşıyoruz.",
+    ["Description"]="Sen yokken, Hewen ile bu gizemli not hakkında konuştum. Beklediğim gibi, bunun bir tür şifre (cypher) olduğu ortaya çıktı. Merak etme, onu tanıdı. Gözcü Tepesi'ne (Sentinel Hill) geri dön ve onunla konuş. Bunu sana benden daha iyi açıklayacaktır. NEW_LINESonunda, Westfall halkına haksızlık edenlere karşı intikamımızı almaya yaklaşıyoruz.",
     ["Objectives"]="Westfall'ndeki Gözcü Tepesi'nde (Sentinel Hill) bulunan Christopher Hewen ile konuş.",
     ["Progress"]="Sensin, YOUR_NAME! Seni özlemiştim! Nasıl gidiyor?",
-    ["Completion"]="Şu golemlerle harika iş çıkardın, Defias'ı durdurmak falan filan. Sen ve Maltimor bu topraklar için Halk Milislerinin (People's Militia) şimdiye kadar yaptığından daha fazlasını yaptınız ve hiç kimse başarılarınızı bilmeyecek… Tarihin cilveleri işte böyle ahbap. Ama buraya dostça bir sohbet için gelmedin, değil mi?",
+    ["Completion"]="Şu golemlerle harika iş çıkardın, Defias'ı durdurmak falan filan. Sen ve Maltimor bu topraklar için Halk Milislerinin (People's Militia) şimdiye kadar yaptığından daha fazlasını yaptınız ve hiç kimse başarılarınızı bilmeyecek… NEW_LINETarihin cilveleri işte böyle ahbap. Ama buraya dostça bir sohbet için gelmedin, değil mi?",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end The Harvest Golem Mystery
