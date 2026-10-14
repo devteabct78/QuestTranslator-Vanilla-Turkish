@@ -28913,12 +28913,12 @@ QuestTranslator_QuestData = {
 
 -- Hasat Golemi Gizemi
     ["40480"] = {
-    -- Lakeshire -> Gölhisar(Lakeshire). Franklin Hamar -> Franklin Çekiç.
+    -- Lakeshire -> Gölbölgesi(Lakeshire). Franklin Hamar -> Franklin Çekiç.
     ["Title"]="Hasat Golemi Gizemi",
-    ["Description"]="Şu şifre meselesine gelirsek... Ben onu okuyamıyorum. Ama Gölhisar(Lakeshire)da yaşayan sevgili meslektaşım Franklin Çekiç (Franklin Hamar), Defias ile ticaret yaparken aynı şifreyi kullanırdı. NEW_LINEBana öyle bakma! Bendim değil, oydu. Bu sefil insanlarla asla ama asla ticaret yapmazdım... NEW_LINENe olursa olsun, onu senin için okuyabilecektir. Muhtemelen biraz ikna edilmesi gerekecek ama bunu kesinlikle yapabilirsin. Ve madem Gölbölgesi'na gidiyorsun... Benim şu lanet olası sevkıyatımı da sorabilir misin lütfen?",
-    ["Objectives"]="Gölhisar(Lakeshire)daki Franklin Çekiç (Franklin Hamar) ile konuş.",
+    ["Description"]="Şu şifre meselesine gelirsek... Ben onu okuyamıyorum. Ama Gölbölgesi(Lakeshire)da yaşayan sevgili meslektaşım Franklin Çekiç (Franklin Hamar), Defias ile ticaret yaparken aynı şifreyi kullanırdı. NEW_LINEBana öyle bakma! Bendim değil, oydu. Bu sefil insanlarla asla ama asla ticaret yapmazdım... NEW_LINENe olursa olsun, onu senin için okuyabilecektir. Muhtemelen biraz ikna edilmesi gerekecek ama bunu kesinlikle yapabilirsin. Ve madem Gölbölgesi'na gidiyorsun... Benim şu lanet olası sevkıyatımı da sorabilir misin lütfen?",
+    ["Objectives"]="Gölbölgesi(Lakeshire)daki Franklin Hamar ile konuş.",
     ["Progress"]="Yalnızca en kaliteli malları sunarım.",
-    ["Completion"]="Ne? Ver sunu bana. <Franklin Çekiç nota bakar.> Evet, bunu okuyabilirim. Ama her şeyin bir bedeli vardır.",
+    ["Completion"]="Ne? Ver sunu bana. NEW_LINE<Franklin Hamar nota bakar.> NEW_LINEEvet, bunu okuyabilirim. Ama her şeyin bir bedeli vardır.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end The Harvest Golem Mystery
@@ -28927,7 +28927,7 @@ QuestTranslator_QuestData = {
     ["40481"] = {
     -- Duskwood -> Kasvetliorman, Moonlight Silk -> Mehtap İpeği.
     ["Title"]="Hasat Golemi Gizemi",
-    ["Description"]="Bunu senin için deşifre edebilirim, elbette. Ama ilk olarak: kasabadaki herhangi bir muhafıza bunu yapabileceğime dair tek bir kelime edersen, bittin. Ve ikincisi: bu sana pahalıya patlayacak. Şanslısın ki bazı kolay ve basit görevleri yerine getirecek bir maceracıya ihtiyacım var... İlk olarak, ipeğe ihtiyacım var. Ama sıradan bir ipek değil. Ay ışığında yıkanmış, olağanüstü güzellikte mehtap ipeği (moonlight silk). Alması zordur. Bildiğim kadarıyla sadece Kasvetliorman'da (Duskwood) bulunur. Bana en az on örnek getir, yeterince iyi mi bakarız.",
+    ["Description"]="Bunu senin için deşifre edebilirim, elbette. Ama ilk olarak: kasabadaki herhangi bir muhafıza bunu yapabileceğime dair tek bir kelime edersen, bittin. Ve ikincisi: bu sana pahalıya patlayacak. Şanslısın ki bazı kolay ve basit görevleri yerine getirecek bir maceracıya ihtiyacım var... NEW_LINEİlk olarak, ipeğe ihtiyacım var. Ama sıradan bir ipek değil. Ay ışığında yıkanmış, olağanüstü güzellikte mehtap ipeği (moonlight silk). Alması zordur. Bildiğim kadarıyla sadece Kasvetliorman'da (Duskwood) bulunur. Bana en az on örnek getir, yeterince iyi mi bakarız.",
     ["Objectives"]="Gölbölgesi'ndaki Franklin Çekiç için 10 adet Mehtap İpeği örneği topla.",
     ["Progress"]="İpeği aldın mı? Bütün günüm yok.",
     ["Completion"]="Olağanüstü. Bunlar yeterince iyi.",
