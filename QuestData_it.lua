@@ -28939,7 +28939,7 @@ QuestTranslator_QuestData = {
     ["40482"] = {
     -- Lordaeron Needles -> Lordaeron İğneleri.
     ["Title"]="Hasat Golemi Gizemi",
-    ["Description"]="Pekala, bana iyi yardım ettin. Seni ayak işlerine koşmaktan kurtaracağım ve sadece en iyi yaptığın şeyi yapmaya göndereceğim. Öldürmek. Kızıltepe (Redridge) tepelerindeki gnollar son zamanlarda bana ve diğer tüccarlara zor anlar yaşatıyor. İş için kötü bir durum. Sadece bu ay nadir malzemeler içeren iki sevkıyat kaybettim! Muhtemelen onları hâlâ kuzeydeki kamplarında bir yerlerde istifliyorlar. Bir kontrol et. Özellikle kayıp bir sevkıyatı aramanı istiyorum - Lordaeron'dan gelen nadir iğneler (Lordaeron Needles). Onları gördüğünde anlayacaksın.",
+    ["Description"]="Pekala, bana iyi yardım ettin. Seni ayak işlerine koşmaktan kurtaracağım ve sadece en iyi yaptığın şeyi yapmaya göndereceğim. Öldürmek. NEW_LINEKızıltepe (Redridge) tepelerindeki gnollar son zamanlarda bana ve diğer tüccarlara zor anlar yaşatıyor. İş için kötü bir durum. Sadece bu ay nadir malzemeler içeren iki sevkıyat kaybettim! Muhtemelen onları hâlâ kuzeydeki kamplarında bir yerlerde istifliyorlar. Bir kontrol et. NEW_LINEÖzellikle kayıp bir sevkıyatı aramanı istiyorum - Lordaeron'dan gelen nadir iğneler (Lordaeron Needles). Onları gördüğünde anlayacaksın.",
     ["Objectives"]="Gnoll kulübeleri arasında Lordaeron İğneleri'ni bul ve onları Gölbölgesi'daki Franklin Çekiç'e (Franklin Hamar) getir.",
     ["Progress"]="Az laf, çok iş.",
     ["Completion"]="Olağanüstü. Harika iş. O iğneler bana çok iyi hizmet edecek. Çok ince, çok dayanıklı. Ama acele ediyorum. Bir söz vermiştim. İzin ver şu mesajın şifresini çözeyim.",
@@ -28962,7 +28962,7 @@ QuestTranslator_QuestData = {
     ["40484"] = {
     -- Night Watch -> Gece Nöbeti. F.W. (Karakter baş harfleri aynen korunmuştur). Stormwind -> Fırtınayeli.
     ["Title"]="Hasat Golemi Gizemi",
-    ["Description"]="Karanlıkdiyar'a (Darkshire) git ve Gece Nöbeti'ne (Night Watch) F.W.'nin nerede olduğunu sor. Eğer şüphelerinde haklıysa, onu nerede bulacaklarını bileceklerdir. Işık'a dua ediyorum ki hâlâ Kasvetliorman'dan (Duskwood) taşınmamış olsun. Onu sorgula ve eğer suçlu bulursan... Fırtınayeli'nin (Stormwind) adaletini bekleme. Onu öldür. Westfall halkının intikamını al.",
+    ["Description"]="Karanlıkdiyar'a (Darkshire) git ve Gece Nöbeti'ne F.W.'nin nerede olduğunu sor. Eğer şüphelerinde haklıysa, onu nerede bulacaklarını bileceklerdir. NEW_LINEIşık'a dua ediyorum ki hâlâ Kasvetliorman'dan (Duskwood) taşınmamış olsun. NEW_LINEOnu sorgula ve eğer suçlu bulursan... Fırtınayeli'nin (Stormwind) adaletini bekleme. Onu öldür. Westfall halkının intikamını al.",
     ["Objectives"]="F.W.'nin yeri hakkında Gece Nöbeti ile konuş.",
     ["Progress"]="Gece Nöbeti bizi çevreleyen karanlığa karşı dimdik ayakta duruyor.",
     ["Completion"]="F.W. mi? Bu baş harflere sahip kimseyi tanımıyorum ama bana anlattıkların doğruysa kim olabileceğine dair bir tahminim var.",
@@ -28974,7 +28974,7 @@ QuestTranslator_QuestData = {
     ["40485"] = {
     -- Single Watcher -> Tek bir Gözcü. F.W. baş harfleri kalmıştır.
     ["Title"]="Hasat Golemi Gizemi",
-    ["Description"]="Birkaç ay önce, gizemli kör bir adam Karanlıkdiyar'ın (Darkshire) güneyindeki terk edilmiş bir kulübeye taşındı. Bir goblin ona eşlik ediyor, akıl hocalığı karşılığında günlük işlerinde ona yardım ediyordu. Bir tür ünlü mühendisti. Tuhaf bir çift oldukları kesin, gerçi sadece sığınacak yer aradıklarını iddia ettiler. Kasvetliorman (Duskwood) genelindeki tüm endişelerimiz nedeniyle, işlerini gözetlemek için yalnızca tek bir Gözcü (Watcher) ayırabildim ve duyduğum azıcık şey şüphelerimi bastırmaya yetmedi. Oraya gider ve işini yaparken elinden geldiğince bir şeyler öğrenirsen, Gece Nöbeti'ne büyük bir hizmette bulunmuş olursun.",
+    ["Description"]="Birkaç ay önce, gizemli kör bir adam Karanlıkdiyar'ın (Darkshire) güneyindeki terk edilmiş bir kulübeye taşındı. Bir goblin ona eşlik ediyor, akıl hocalığı karşılığında günlük işlerinde ona yardım ediyordu. Bir tür ünlü mühendisti. NEW_LINETuhaf bir çift oldukları kesin, gerçi sadece sığınacak yer aradıklarını iddia ettiler. NEW_LINEKasvetliorman (Duskwood) genelindeki tüm endişelerimiz nedeniyle, işlerini gözetlemek için yalnızca tek bir Gözcü ayırabildim ve duyduğum azıcık şey şüphelerimi bastırmaya yetmedi. NEW_LINEOraya gider ve işini yaparken elinden geldiğince bir şeyler öğrenirsen, Gece Nöbeti'ne büyük bir hizmette bulunmuş olursun.",
     ["Objectives"]="Karanlıkdiyar'ın güneyindeki kulübede F.W. ile konuş, ardından Westfall'ndeki Maltimor'a rapor ver.",
     ["Progress"]="Onu buldun mu?",
     ["Completion"]="Westfall halkı güvende. Teşekkür ederim, YOUR_NAME. Bu topraklar zamanla iyileşecek.",
