@@ -1445,7 +1445,7 @@ QuestTranslator_QuestData = {
     -- Karanlıkdiyar'a Haberci
     ["146"] = {
     ["Title"]="Karanlıkdiyar'a Haberci",
-    ["Description"]="Yargıç Solomon'u şahsen tanımıyor olsaydım, adamın delirdiğini söylerdim. Stormwind yardımı reddediyor diye Gece Nöbeti'ni Lakeshire'a mı gönderelim? Gece Nöbeti, bu iğrenç büyü topraklarımıza sızdığında Fırtınagücü bizi terk ettiği için kuruldu. Eğer Gece Nöbeti'ni gönderseydim, muhafızlar daha ormanın sınırına ulaşamadan bu kasaba kötülük tarafından istila edilirdi.NEW_LINEBu cevap mektubunu Lakeshire'daki efendinize götürün.",
+    ["Description"]="Yargıç Solomon'u şahsen tanımıyor olsaydım, adamın delirdiğini söylerdim. Stormwind yardımı reddediyor diye Gece Nöbeti'ni Lakeshire'a mı gönderelim? Gece Nöbeti, bu iğrenç büyü topraklarımıza sızdığında Fırtınayeli bizi terk ettiği için kuruldu. Eğer Gece Nöbeti'ni gönderseydim, muhafızlar daha ormanın sınırına ulaşamadan bu kasaba kötülük tarafından istila edilirdi.NEW_LINEBu cevap mektubunu Lakeshire'daki efendinize götürün.",
     ["Objectives"]="Lord Ebonlocke'un cevap mektubuyla birlikte Yargıç Solomon'a dönün.",
     ["Progress"]="Seni tekrar görmek güzel haberci. Mareşal'e Gece Nöbeti'nin Karanlıkdiyar'dan yola çıktığını haber vereyim mi?",
     ["Completion"]="Işık adına! Stormwind Ordusu Westfall'dan geri çekildi. Ve Muhafızlar artık Karanlıkdiyar'ı korumuyor mu? Ortalıkta bir ihanet var. Bu nasıl olabilir?NEW_LINEOh, hizmetini ödüllendirmeyi unuttum, YOUR_CLASS. İşte biraz bozuk para. Şimdi izninizle. Stormwind'de yanlış giden bir şeyler var ve bunu öğrenmeliyim.",
@@ -30215,7 +30215,7 @@ QuestTranslator_QuestData = {
     -- 'The Dead Acre' -> 'Ölü Dönüm', Easton Fields -> Doğuovası Tarlaları. 
     -- Marven Horsen, Larsen Wormen, Larry karakterleri kalmıştır.
     ["Title"]="Eski Westfall Kilisesi IX",
-    ["Description"]="Ee, bu kimin hakkındaydı, Marven Horsen mı? Larsen Wormen mı? <Larry yüzünde kaba bir sırıtış bırakır.> Oymacı Molsen (Carver Molsen), kesinlikle nevi şahsına münhasır biridir; şu eski çiftlik evinin etrafında takılır, bugünlerde adı 'Ölü Dönüm' (The Dead Acre) diye geçer, eskiden Doğuovası Tarlaları (Easton Fields) denirdi. İhtiyacını aldın, şimdi devam et ve anlatman gereken kişiye anlat.",
+    ["Description"]="Ee, bu kimin hakkındaydı, Marven Horsen mı? Larsen Wormen mı? NEW_LINE<Larry yüzünde kaba bir sırıtış bırakır.> NEW_LINEOymacı Molsen (Carver Molsen), kesinlikle nevi şahsına münhasır biridir; şu eski çiftlik evinin etrafında takılır, bugünlerde adı 'Ölü Dönüm' (The Dead Acre) diye geçer, eskiden Doğuovası Tarlaları (Easton Fields) denirdi. NEW_LINEİhtiyacını aldın, şimdi devam et ve anlatman gereken kişiye anlat.",
     ["Objectives"]="Oymacı Molsen'in yerini Westfall'ndeki (Westfall) Gözcü Tepesi'nde (Sentinel Hill) bulunan Gryan Gürpelerin'e (Gryan Stoutmantle) bildir.",
     ["Progress"]="Evet?",
     ["Completion"]="Ölü Dönüm demek ha, ilginç.",
@@ -30277,10 +30277,10 @@ QuestTranslator_QuestData = {
     -- Dead Acre -> Ölü Dönüm, Deed of Easton Fields -> Doğuovası Tarlaları Tapusu, Deed of Molsen Farm -> Molsen Çiftliği Tapusu.
     -- Westfall Church Key -> Westfall Kilise Anahtarı. Criminal -> Suçlu.
     ["Title"]="Eski Westfall Kilisesi X",
-    ["Description"]="Adaletin dağıtılma vakti geldi. Doğuovası ailesinin katledilmesi ve Westfall'ndeki (Westfall) huzurun bozulması nedeniyle, Oymacı Molsen'e (Carver Molsen) bu topraklarda hiçbir merhamet gösterilmeyecektir. Westfall'nden geriye kalan insanlara güzel haberler getir ve hemen güneydoğudaki Ölü Dönüm'e (Dead Acre) seyahat et. Onu öldür; Doğuovası Tarlaları Tapusu'nu (Deed of Easton Fields), Molsen Çiftliği Tapusu'nu (Deed of Molsen Farm) ve Westfall Kilise Anahtarı'nı (Westfall Church Key) geri al. O ortadan kalktığında, bu topraklarda bir gelecek için hâlâ umut olabilir.",
+    ["Description"]="Adaletin dağıtılma vakti geldi. Doğuovası ailesinin katledilmesi ve Westfall'daki huzurun bozulması nedeniyle, Oymacı Molsen'e (Carver Molsen) bu topraklarda hiçbir merhamet gösterilmeyecektir. NEW_LINEWestfall'nden geriye kalan insanlara güzel haberler getir ve hemen güneydoğudaki Ölü Dönüm'e (Dead Acre) seyahat et. Onu öldür; Doğuovası Tarlaları Tapusu'nu (Deed of Easton Fields), Molsen Çiftliği Tapusu'nu (Deed of Molsen Farm) ve Westfall Kilise Anahtarı'nı (Westfall Church Key) geri al. NEW_LINEO ortadan kalktığında, bu topraklarda bir gelecek için hâlâ umut olabilir.",
     ["Objectives"]="Ölü Dönüm'e seyahat edip Carver Molsen'i öldür; Westfall'ndeki Gözcü Tepesi'nde bulunan Gryan Gürpelerin için Doğuovası Tarlaları Tapusu'nu, Molsen Çiftliği Tapusu'nu ve Westfall Kilise Anahtarı'nı ele geçir.",
     ["Progress"]="Adalete teslim edildi mi, YOUR_NAME?",
-    ["Completion"]="Doğuovası ailesine adaleti getirdin ve topraklarımızdan tehlikeli bir suçluyu (criminal) temizledin, bunun için minnettar olmaktan başka bir şey yapamayız. Bu tapularla birlikte, Defias tehdidi ortadan kalktığında toprakları yeniden yerleşime açabileceğimize dair bir umut var. Umalım ki böyle bir gelecek yakında gelsin, YOUR_NAME. Çabaların için bazı eşyalar hazırladım, sana iyi hizmet edeceklerdir.",
+    ["Completion"]="Doğuovası ailesine adaleti getirdin ve topraklarımızdan tehlikeli bir suçluyu temizledin, bunun için minnettar olmaktan başka bir şey yapamayız. NEW_LINEBu tapularla birlikte, Defias tehdidi ortadan kalktığında toprakları yeniden yerleşime açabileceğimize dair bir umut var. Umalım ki böyle bir gelecek yakında gelsin, YOUR_NAME. NEW_LINEÇabaların için bazı eşyalar hazırladım, sana iyi hizmet edeceklerdir.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end The Old Church of Westfall X
@@ -30289,10 +30289,10 @@ QuestTranslator_QuestData = {
     ["40603"] = {
     -- Westfall Church Key -> Westfall Kilise Anahtarı, Northshire Abbey -> Kuzeybucak Manastırı.
     ["Title"]="Eski Westfall Kilisesi XI",
-    ["Description"]="Eski Westfall Kilisesi meselesiyle ilgili olarak senden istediğim son bir şey var. Keşfettiğimiz bilgilerin çoğundan Neals Birader sorumludur, ona gönderilmek üzere bir mektup hazırladım. İçine Westfall Kilise Anahtarı'nı (Westfall Church Key) da dahil ettim; bu topraklar tekrar düzene kavuştuğunda, orayı tekrar çalışır vaziyete getirmesi için ondan daha iyisini düşünemiyorum. Kuzeybucak Manastırı'na (Northshire Abbey) yönel ve mektubumla birlikte ona ulaştır.",
+    ["Description"]="Eski Westfall Kilisesi meselesiyle ilgili olarak senden istediğim son bir şey var. Keşfettiğimiz bilgilerin çoğundan Neals Birader sorumludur, ona gönderilmek üzere bir mektup hazırladım. NEW_LINEİçine Westfall Kilise Anahtarı'nı (Westfall Church Key) da dahil ettim; bu topraklar tekrar düzene kavuştuğunda, orayı tekrar çalışır vaziyete getirmesi için ondan daha iyisini düşünemiyorum. NEW_LINEKuzeybucak Manastırı'na (Northshire Abbey) yönel ve mektubumla birlikte ona ulaştır.",
     ["Objectives"]="Mektubu ve Westfall Kilise Anahtarı'nu Elwynn Ormanı'ndaki (Elwynn Forest) Kuzeybucak Manastırı'nda (Northshire Abbey) bulunan Neals Birader'e teslim et.",
     ["Progress"]="Ee, Westfall'nden ne haberler geliyor?",
-    ["Completion"]="<Neals Birader mektubu okur, yüzü yumuşar ve üzerinde bir rahatlama ifadesi belirir.> Neden olduğu tüm o sefaletten sonra, o serserinin adalete kavuştuğunu bilmek iyi hissettiriyor. Bilgilerimin o kanunsuz topraklara yardımcı olabilmesinden ve adaleti getirebilmesinden dolayı mutluyum. <Neals Birader Westfall Kilise Anahtarı'nı alır ve cübbesinin bir cebine dikkatlice yerleştirir.>",
+    ["Completion"]="<Neals Birader mektubu okur, yüzü yumuşar ve üzerinde bir rahatlama ifadesi belirir.> NEW_LINENeden olduğu tüm o sefaletten sonra, o serserinin adalete kavuştuğunu bilmek iyi hissettiriyor. NEW_LINEBilgilerimin o kanunsuz topraklara yardımcı olabilmesinden ve adaleti getirebilmesinden dolayı mutluyum. NEW_LINE<Neals Birader Westfall Kilise Anahtarı'nı alır ve cübbesinin bir cebine dikkatlice yerleştirir.>",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end The Old Church of Westfall XI
@@ -43265,7 +43265,7 @@ QuestTranslator_QuestData = {
     -- Relieving -> rahatlatıcı. Troubles subside -> sorunlar dindiğinde, pay her a visit -> onu ziyaret edeceğim. Overdue -> vadesi çoktan geçmiş. Coins -> paralar.
     ["41797"] = { 
     ["Title"]="Sevgili Bir Dost",
-    ["Description"]="Alacakaranlık Ormanı (Duskwood) geçen her gün daha da tehlikeli bir hal alıyor. İster kudurmuş worgenlar (rabid worgen), ister gezici ölüler (wandering dead) ya da hırsız haydutlar (thieving cutthroats) olsun - burada her zaman hayatına kasteden bir şeyler vardır. En nihayetinde insan neden hala hepimizin burada olduğunu merak edebilir. Cevap basit: Bu ormanlar bizim evimiz ve bu ucubelerin (monstrosities) burayı elimizden almasına izin vermeyeceğiz.\n\nYine de burada olmam dostlarımın yüreğine, en çok da Barbara'nınkine ağır bir yük bindiriyor. Kendisi Fırtınayeli'nin (Stormwind) kuzeyindeki Kuzeyrüzgarı'nın (Northwind) yönetici soylusu olan Lord Amberwood'un ok ustasıdır (fletcher). Uzun zamandır onu görmedim, bırakın iyi olduğuma dair ona yazmayı bile yapmadım. Benim için deli gibi endişeleniyor olmalı ve bu beni derinden utandırıyor. Eğer ayıracak bir anın varsa, bu mektubu ona ulaştırabilir misin? İçinde ona çok uzun zaman önce söylemem gereken şeyler yazılı, bu yüzden sana çok önemli bir görev emanet ediyorum. Bunu benim için yapabilirsen, sana sonsuza dek minnettar kalırım.\n\nKuzeyrüzgarı'na (Northwind) giden en hızlı yol Fırtınayeli Limanı'ndan (Stormwind Harbor) geçmektir.",
+    ["Description"]="Alacakaranlık Ormanı (Duskwood) geçen her gün daha da tehlikeli bir hal alıyor. İster kudurmuş worgenlar, ister gezici ölüler ya da hırsız haydutlar olsun - burada her zaman hayatına kasteden bir şeyler vardır. En nihayetinde insan neden hala hepimizin burada olduğunu merak edebilir. Cevap basit: Bu ormanlar bizim evimiz ve bu ucubelerin burayı elimizden almasına izin vermeyeceğiz.\n\nYine de burada olmam dostlarımın yüreğine, en çok da Barbara'nınkine ağır bir yük bindiriyor. Kendisi Fırtınayeli'nin (Stormwind) kuzeyindeki Kuzeyrüzgarı'nın (Northwind) yönetici soylusu olan Lord Amberwood'un ok ustasıdır. Uzun zamandır onu görmedim, bırakın iyi olduğuma dair ona yazmayı bile yapmadım. Benim için deli gibi endişeleniyor olmalı ve bu beni derinden utandırıyor. Eğer ayıracak bir anın varsa, bu mektubu ona ulaştırabilir misin? İçinde ona çok uzun zaman önce söylemem gereken şeyler yazılı, bu yüzden sana çok önemli bir görev emanet ediyorum. Bunu benim için yapabilirsen, sana sonsuza dek minnettar kalırım.\n\nKuzeyrüzgarı'na (Northwind) giden en hızlı yol Fırtınayeli Limanı'ndan (Stormwind Harbor) geçmektir.",
     ["Objectives"]="Avette Fellwood'un Mektubu'nu (Avette Fellwood's Letter) Kuzeyrüzgarı'ndaki (Northwind) Kehribarodun Kalesi'nde (Amberwood Keep) bulunan Barbara Lee'ye ulaştır.",
     ["Progress"]="Sana nasıl yardımcı olabilirim? Sadığını (quiver) yeniden doldurmaya mı ihtiyacın var?",
     ["Completion"]="Avette'ten bir mektup mu? Kendisi nasıl? Alacakaranlık Ormanı'nın (Duskwood) bugünlerde tekinsiz bir yer olduğunu, sıradan halktan (common folk) hiç kimse için güvenli olmadığını duymuştum.\n\n<Barbara mektubu açar ve hızlıca birkaç satıra göz gezdirir. Bunu yaparken kendisinden bir kıkırdama kaçar.>\n\nGörüyorum ki endişelenecek bir şeyim yokmuş, ne kadar rahatlatıcı (relieving). Ondan haber almayalı çok uzun zaman olmuştu ve en kötüsünü varsaymaya başlıyordum. Kuzeyrüzgarı'nın (Northwind) sorunları dindiğinde, onu ziyaret edeceğim. Bu çoktan gecikmiş (overdue) bir ziyaret. Al bakalım, Avette ve benden bir teşekkür olarak bu birkaç parayı kabul et. Güven bana, ikimiz için de düşündüğünden çok daha fazlasını yaptın. Yolculuklarında güvende kal, YOUR_NAME.",
@@ -47775,7 +47775,7 @@ QuestTranslator_QuestData = {
     -- Agent Flynn / Agent Cherys / Agent Elroy -> Ajan Flynn / Ajan Cherys / Ajan Elroy.
     -- Stormreaver Scroll -> Fırtınayağmacısı Parşömeni (Stormreaver -> Fırtınayağmacısı, Scroll -> Parşömen).
     -- Croaking Plateau -> Vraklayan Plato (Croaking -> Vraklayan/Kurbağa gibi ses çıkaran, Plateau -> Plato).
-    -- Stormwind -> Fırtınarüzgarı (Yer adı lokalizasyon kuralına göre: Storm + wind -> Fırtınarüzgarı).
+    -- Stormwind -> Fırtınayeli (Yer adı lokalizasyon kuralına göre: Storm + wind -> Fırtınayeli).
     -- Half-dissolved Wedding Ring -> Yarı Erimiş Alyans (Half-dissolved + Wedding Ring).
     -- Pantaloons of Torture -> İşkence Şalvarı / İşkence Pantolonu (Torture -> İşkence, Pantaloons -> Şalvar/Geniş Pantolon).
     -- Kingdom -> Krallık.
@@ -47783,7 +47783,7 @@ QuestTranslator_QuestData = {
     ["Title"]="En Karanlık Yerlere",
     ["Description"]="Birliğim, Vraklayan Plato'nun (Croaking Plateau) etrafındaki çevreyi gözetleyen on operatiften oluşuyordu. Hayatta kalan birkaç kişiden bu hana kilitlenen tek kişi bendim. Ne sebeple olduğunu bilmiyorum. Ancak görebildiğim kadarıyla üç yoldaşım —Flynn, Elroy ve Cherys— buranın güneyindeki savaş alanının ötesine doğru sürükleniyordu. Şans eseri konuştukları Orkça (orcish) kelimelerden birkaçını anladım. Konuşmalarından deşifre edebildiklerim 'mağara', 'tepe' ve 'efendi' oldu. Çok fazla şey olmayabilir ama hiç yoktan iyidir sanırım. Kusura bakma ama bu yaralarla sana pek yardımım dokunmayacak; Ajan Gillian'a (Operative Gillian) geri dönüp olanları anlatacağım, bu kadarını herhalde becerebilirim. Dua ediyorum ki daha fazlasını açığa çıkarasın ve ileri karakola güvenle geri dönesin.",
     ["Objectives"]="Ajan Deryl'in (Agent Deryl) sana verdiği ipuçlarını kullanarak yoldaşlarını ve düşmanların hakkında olası bilgileri bul. Ardından Balor adasındaki SI:7 İleri Karakolu'nda (SI:7 Outpost) bulunan Verona Gillian'a geri dön.",
-    ["Progress"]="YOUR_NAME, geri mi döndün? Ajan Deryl senden çok kısa bir süre önce buraya vardı, vücudu ağır yaralarla doluydu. İyileşmesi için onu Fırtınarüzgarı'na (Stormwind) geri gönderdik. Ama söyle bana, bulabildiğin bir şey var mı?",
+    ["Progress"]="YOUR_NAME, geri mi döndün? Ajan Deryl senden çok kısa bir süre önce buraya vardı, vücudu ağır yaralarla doluydu. İyileşmesi için onu Fırtınayeli'na (Stormwind) geri gönderdik. Ama söyle bana, bulabildiğin bir şey var mı?",
     ["Completion"]="Ne yazık ki bugün kaybettiğimiz ajanlar çok değerliydi. Ailelerine resmi yazılar göndereceğim, Krallığa (Kingdom) olan hizmetleri unutulmayacak. Şimdi, bu parşömene gelecek olursak...",
     ["minlevel"]="0",
     ["questlevel"]="0",
@@ -48150,11 +48150,11 @@ QuestTranslator_QuestData = {
     -- Baron Revilgaz -> Baron Revilgaz kalmıştır (MobNpcData.lua).
     -- Booty Bay -> Ganimet Koyu (ZoneData.lua).
     -- Stone of the Tides -> Gelgitlerin Taşı (Stone -> Taş, Tides -> Gelgitler).
-    -- Stormwind Library -> Fırtınarüzgarı Kütüphanesi (Stormwind -> Fırtınarüzgarı, Library -> Kütüphane).
+    -- Stormwind Library -> Fırtınayeli Kütüphanesi (Stormwind -> Fırtınayeli, Library -> Kütüphane).
     -- Gazban -> Gazban kalmıştır (Özel isim / MobNpcData.lua).
     ["578"] = { 
     ["Title"]="Gelgitlerin Taşı",
-    ["Description"]="Eğer adada gerçekten de mesken tutmuş bir goblin büyücüsü ve su elementalleri varsa, bu durum Gelgitlerin Taşı'nın (Stone of the Tides) benim olabileceği anlamına gelebilir!\n\nBu lanetli adanın yerini tespit etmeni... orada neler döndüğünü öğrenmeni istiyorum. Oh, ve eğer Gelgitlerin Taşı hakkında daha fazla şey öğrenmek istersen, bu belgeyi Fırtınarüzgarı Kütüphanesi'ne (Stormwind Library) götür; efsaneye ilk rastladığım kitabın bir kopyasını sana bulabilmeleri gerekir.\n\nGazban gerçekten de Taşı keşfetmiş olabilir mi...?",
+    ["Description"]="Eğer adada gerçekten de mesken tutmuş bir goblin büyücüsü ve su elementalleri varsa, bu durum Gelgitlerin Taşı'nın (Stone of the Tides) benim olabileceği anlamına gelebilir!\n\nBu lanetli adanın yerini tespit etmeni... orada neler döndüğünü öğrenmeni istiyorum. Oh, ve eğer Gelgitlerin Taşı hakkında daha fazla şey öğrenmek istersen, bu belgeyi Fırtınayeli Kütüphanesi'ne (Stormwind Library) götür; efsaneye ilk rastladığım kitabın bir kopyasını sana bulabilmeleri gerekir.\n\nGazban gerçekten de Taşı keşfetmiş olabilir mi...?",
     ["Objectives"]="Ganimet Koyu'ndaki (Booty Bay) Baron Revilgaz için lanetli adayı bul.",
     ["Progress"]="Troller gerçekten de inanılmaz büyülü nesnelere sahiptiler, YOUR_NAME. Ve şimdi, belki de geniş koleksiyonuma bir yenisini ekleme fırsatına sahibim. Söylentinin kaynağını bulma konusunda bir şansın yaver gitti mi?",
     ["Completion"]="Demek hikayeler doğruymuş! İnanılmaz!\n\nAncak, eğer onu geri getireceksek Gelgitlerin Taşı'nın lanetini yenmenin bir yolunu bulmamız gerekecek. Lanet meselesi büyü işidir, bize yardım etmesi için şu sihirbazlardan birine ihtiyacımız olacak.",
@@ -73407,9 +73407,9 @@ QuestTranslator_QuestData = {
 },
 
 ["9260"] = {
-    ["Title"] = "Fırtınarüzgarı Afetini Araştır",
-    ["Description"] = "Afet tam kapımızın önünde kamp kurmuş durumda; boş duramayız! Bu lanetli işgalcilere karşı Fırtınarüzgarı'nı savunmak için öne çıkmayacak mısın?NEW_LINE NEW_LINEDışarıda, hortlakları ve yukarıdaki Nekropol'ü çevreleyen aynı enerjiyle parlayan garip runik halkalar var. Bir anlam taşıdıklarına eminim ve ne olduğunu öğrenmeni istiyorum. Bu esnada o sapkınlıkların sayılarını da azalt; sonuçlarınla birlikte ölümlerinin kanıtını bana getir, ben de seni ödüllendireyim. Git!",
-    ["Objectives"] = "Fırtınarüzgarı dışındaki Afet'ten üç Soluk Nekrotik Taş topla ve ordugahlarının yakınındaki parlayan runik halkaları araştır.",
+    ["Title"] = "Fırtınayeli Afetini Araştır",
+    ["Description"] = "Afet tam kapımızın önünde kamp kurmuş durumda; boş duramayız! Bu lanetli işgalcilere karşı Fırtınayeli'nı savunmak için öne çıkmayacak mısın?NEW_LINE NEW_LINEDışarıda, hortlakları ve yukarıdaki Nekropol'ü çevreleyen aynı enerjiyle parlayan garip runik halkalar var. Bir anlam taşıdıklarına eminim ve ne olduğunu öğrenmeni istiyorum. Bu esnada o sapkınlıkların sayılarını da azalt; sonuçlarınla birlikte ölümlerinin kanıtını bana getir, ben de seni ödüllendireyim. Git!",
+    ["Objectives"] = "Fırtınayeli dışındaki Afet'ten üç Soluk Nekrotik Taş topla ve ordugahlarının yakınındaki parlayan runik halkaları araştır.",
     ["Progress"] = "İşgali henüz araştırdın mı? Vakit kaybetmeye gelmez!",
     ["Completion"] = "Hmm. Bana anlattıklarına göre, halkaların içindeki sesler... bir tür iletişim için kullanılıyor olmalı. Bu tür bir büyü aracılığıyla hangi doğal olmayan zihinlerle temas kurulduğunu düşününce ürperiyorum. Ne olursa olsun, tek parça ve aklı başında çıkmış gibisin. Gümüş Şafak hizmetlerin için teşekkür eder.",
     ["minlevel"] = "1",
@@ -73828,8 +73828,8 @@ QuestTranslator_QuestData = {
 
 ["8356"] = {
     ["Title"] = "Nuga İçin Kas Germe",
-    ["Description"] = "Üzerinde... ilginç bir kostüm var. Bu yıl hasta bir çocuğa şeker mi şaka mı konusunda yardım edip iyilik yapıyor olsan bile, korkarım benim için bir numara yapmanı istemek zorunda kalacağım!NEW_LINEBakalım... o... kostümün içinde çok güçlü ve kaslı görünüyorsun... bakalım kaslarını göster! Evet, devam et ve benim için kaslarını göster, güçlü !NEW_LINESadece ve sadece kaslarını gösterdiğinde sana lezzetli Fırtınarüzgarı Nugası vereceğim. Harika bir Cadılar Bayramı ikramıdır.",
-    ["Objectives"] = "Hancı Allison'a kas gösterme (flex) emotesi yap, karşılığında Fırtınarüzgarı Nugası alacaksın!",
+    ["Description"] = "Üzerinde... ilginç bir kostüm var. Bu yıl hasta bir çocuğa şeker mi şaka mı konusunda yardım edip iyilik yapıyor olsan bile, korkarım benim için bir numara yapmanı istemek zorunda kalacağım!NEW_LINEBakalım... o... kostümün içinde çok güçlü ve kaslı görünüyorsun... bakalım kaslarını göster! Evet, devam et ve benim için kaslarını göster, güçlü !NEW_LINESadece ve sadece kaslarını gösterdiğinde sana lezzetli Fırtınayeli Nugası vereceğim. Harika bir Cadılar Bayramı ikramıdır.",
+    ["Objectives"] = "Hancı Allison'a kas gösterme (flex) emotesi yap, karşılığında Fırtınayeli Nugası alacaksın!",
     ["Progress"] = "Kaslarını benim için gösterene kadar şeker yok, YOUR_NAME...",
     ["Completion"] = "Gerçekten de çok güçlüsün, haha! Aferin ve bu kadar iyi bir sporcu olduğun için teşekkürler. İşte şekerin.NEW_LINEMutlu Cadılar Bayramı, YOUR_NAME!",
     ["minlevel"] = "10",
@@ -74200,7 +74200,7 @@ QuestTranslator_QuestData = {
     ["Title"] = "Tek Takdir Nişanı",
     ["Description"] = "",
     ["Objectives"] = "",
-    ["Progress"] = "Yalnızca tek bir takdir nişanına sahip olan maceracılar için, bunu Fırtınarüzgarı nezdinde küçük bir miktar tanınma ile takas edeceğim.NEW_LINELütfen tek seferde onluk bir nişan yığınını teslim etmenin daha iyi olduğunu unutmayın; bunu yaparak çabalarınız daha büyük bir tanınma alacaktır. Tam bir onluk yığın için yeterli nişanı olmayanlara hizmet olarak tekli nişan takası sunuyoruz.NEW_LINEBununla birlikte, yine de tek bir nişan teslim etmek istiyorsan sana yardım etmeye hazırım.",
+    ["Progress"] = "Yalnızca tek bir takdir nişanına sahip olan maceracılar için, bunu Fırtınayeli nezdinde küçük bir miktar tanınma ile takas edeceğim.NEW_LINELütfen tek seferde onluk bir nişan yığınını teslim etmenin daha iyi olduğunu unutmayın; bunu yaparak çabalarınız daha büyük bir tanınma alacaktır. Tam bir onluk yığın için yeterli nişanı olmayanlara hizmet olarak tekli nişan takası sunuyoruz.NEW_LINEBununla birlikte, yine de tek bir nişan teslim etmek istiyorsan sana yardım etmeye hazırım.",
     ["Completion"] = "Çok iyi - yaptıkların kayıtlara işlendi ve çabaların hak ettiği şekilde tanındı. İyi çalışmaya devam et, YOUR_CLASS.NEW_LINEEğer teslim edecek başka nişanın varsa, o konuda da sana yardımcı olabilirim.",
     ["minlevel"] = "1",
     ["questlevel"] = "60"
@@ -74280,7 +74280,7 @@ QuestTranslator_QuestData = {
     ["Title"] = "On Takdir Nişanı",
     ["Description"] = "",
     ["Objectives"] = "",
-    ["Progress"] = "Görev başında olan maceracılardan takdir nişanlarını kabul ediyorum. Bana teslim ettiğin her onluk set için, Fırtınarüzgarı nezdinde yaptıklarının önemli ölçüde tanınmasını sağlayacağım. Tekli nişanları da kabul ediyorum, ancak çok daha düşük bir tanınma oranında. Hiçbir görev göz ardı edilmeyecek olsa da, daha büyük görev başarılarıyla çok daha fazla ilgileniyoruz.NEW_LINEBununla birlikte, bir set teslim etmeye hazırsan nişanlarını memnuniyetle alırım.",
+    ["Progress"] = "Görev başında olan maceracılardan takdir nişanlarını kabul ediyorum. Bana teslim ettiğin her onluk set için, Fırtınayeli nezdinde yaptıklarının önemli ölçüde tanınmasını sağlayacağım. Tekli nişanları da kabul ediyorum, ancak çok daha düşük bir tanınma oranında. Hiçbir görev göz ardı edilmeyecek olsa da, daha büyük görev başarılarıyla çok daha fazla ilgileniyoruz.NEW_LINEBununla birlikte, bir set teslim etmeye hazırsan nişanlarını memnuniyetle alırım.",
     ["Completion"] = "Mükemmel! Bu nişanları kazanmak için yaptığın küçük bir fedakarlık değil ve hizmetin için uygun şekilde takdir edileceksin. Gerçekten fark yaratan senin gibi maceracılardır, YOUR_NAME.NEW_LINETakas edilecek ek nişanların varsa bana haber ver; değiştirilmesi gerekenler konusunda sana memnuniyetle yardımcı olurum.",
     ["minlevel"] = "1",
     ["questlevel"] = "60"
@@ -78372,7 +78372,7 @@ QuestTranslator_QuestData = {
 
 ["41828"] = {
     ["Title"]="Adamdaki Böcekler",
-    ["Description"]="Yıllar önce, halkımız bu dünyaya ilk ayak bastığında, kendimizi yenilmez sanırdık. Birinci Savaş gerçekten başlamadan önce, o pis iki kafalı kırma Cho'gall'ın da katılımıyla insan topraklarına yıkım getirdik. Ordularımız Fırtınarüzgarı Şehri'nin (Stormwind City) kapılarına kadar yürüdü ve zafer elinizin altındaydı. Üstün savaşçılar olduğumuz açıktı.NEW_LINEKibir, genç olan. Kendini güçlü sananların en büyük düşmanı. Kapılardan, süvari savaşçılar yıldırım gibi çarptı. Büyüyle desteklenen bu şövalyeler, bu gururlu şefi kuyruğunu bacaklarının arasına alıp geri çekilmeye zorladı. Alçakgönüllülük—savaşta ölmeye hazır her savaşçının taşıması gereken bir nitelik. Her zaman düşmanının daha güçlü olduğunu varsay. Hayatta kalırsan, eskisine kıyasla daha güçlü olacağına her zaman inan.NEW_LINEİnsanlığı hafife alma. Bu kampı tedbirsiz terk et, sırtında bir hançer bulabilirsin. Gölgelerde sinsice dolanıyorlar, rahat edebileceğimizden daha yakınlar. Ana odağımız olmayabilirler ama onları bul ve katlet.",
+    ["Description"]="Yıllar önce, halkımız bu dünyaya ilk ayak bastığında, kendimizi yenilmez sanırdık. Birinci Savaş gerçekten başlamadan önce, o pis iki kafalı kırma Cho'gall'ın da katılımıyla insan topraklarına yıkım getirdik. Ordularımız Fırtınayeli Şehri'nin (Stormwind City) kapılarına kadar yürüdü ve zafer elinizin altındaydı. Üstün savaşçılar olduğumuz açıktı.NEW_LINEKibir, genç olan. Kendini güçlü sananların en büyük düşmanı. Kapılardan, süvari savaşçılar yıldırım gibi çarptı. Büyüyle desteklenen bu şövalyeler, bu gururlu şefi kuyruğunu bacaklarının arasına alıp geri çekilmeye zorladı. Alçakgönüllülük—savaşta ölmeye hazır her savaşçının taşıması gereken bir nitelik. Her zaman düşmanının daha güçlü olduğunu varsay. Hayatta kalırsan, eskisine kıyasla daha güçlü olacağına her zaman inan.NEW_LINEİnsanlığı hafife alma. Bu kampı tedbirsiz terk et, sırtında bir hançer bulabilirsin. Gölgelerde sinsice dolanıyorlar, rahat edebileceğimizden daha yakınlar. Ana odağımız olmayabilirler ama onları bul ve katlet.",
     ["Objectives"]="7 SI:7 İzcisi katlet ve Fırtınakıran Noktası'ndaki (Stormbreaker Point) Kilrogg Körgöz'e (Kilrogg Deadeye) geri dön.",
     ["Progress"]="Bitti mi?",
     ["Completion"]="Gururla dur Horde'un evladı. Zafer, kanında güç ve gök gürültüsü olanlar tarafından onurla elde edilir.",
@@ -78482,9 +78482,9 @@ QuestTranslator_QuestData = {
 
 ["41842"] = {
     ["Title"]="Eski Eserler",
-    ["Description"]="Fırtınaişlemeli Kalesi'ne (Stormwrought Castle) giriyorsan mütevazı bir ricam var. Balor ailesi, adada yetki sahibi oldukları uzun yıllar boyunca sayısız kitap ve cilt biriktirdi. Onlarca yıl süren ticaretin ardından kütüphanelerinde hayal bile edilemeyecek miktarda bilgi topladılar. Bunlardan biri, ikinci Balor Dükü'nün küçük kardeşi Sir Walton Balor'un gizli ticaret uygulamaları üzerine kişisel öğretileri ve dersleri, hem benim hem de Fırtınarüzgarı'nın (Stormwind) çok ilgilendiği bir kitap.NEW_LINEFırtınaişlemeli Kalesi'nin engin kütüphanesine rastlarsan, onu söz konusu kitap için ara. Ve YOUR_NAME: İçerideki tehlikelere karşı dikkatli ol. O aşağılık salonların içinde seni bekleyen dehşetleri düşünmeye cesaret edemiyorum.",
+    ["Description"]="Fırtınaişlemeli Kalesi'ne (Stormwrought Castle) giriyorsan mütevazı bir ricam var. Balor ailesi, adada yetki sahibi oldukları uzun yıllar boyunca sayısız kitap ve cilt biriktirdi. Onlarca yıl süren ticaretin ardından kütüphanelerinde hayal bile edilemeyecek miktarda bilgi topladılar. Bunlardan biri, ikinci Balor Dükü'nün küçük kardeşi Sir Walton Balor'un gizli ticaret uygulamaları üzerine kişisel öğretileri ve dersleri, hem benim hem de Fırtınayeli'nın (Stormwind) çok ilgilendiği bir kitap.NEW_LINEFırtınaişlemeli Kalesi'nin engin kütüphanesine rastlarsan, onu söz konusu kitap için ara. Ve YOUR_NAME: İçerideki tehlikelere karşı dikkatli ol. O aşağılık salonların içinde seni bekleyen dehşetleri düşünmeye cesaret edemiyorum.",
     ["Objectives"]="Balor'daki SI:7 Karargâhı'nda bulunan Noppsy Spickerspan için Fırtınaişlemeli Kalesi (Stormwrought Castle) içindeki 'Başarılı Ticaret Derlemesi'ni ele geçir.",
-    ["Progress"]="Fırtınarüzgarı (Stormwind) sadece kendileriyle değil, diğer birkaç ulusla da başarılı ticaret sanatını mükemmelleştirdikleri için Balor'luları her zaman kıskanmıştır. Bu bilginin zamanla kaybolması yazık olur, değil mi?",
+    ["Progress"]="Fırtınayeli (Stormwind) sadece kendileriyle değil, diğer birkaç ulusla da başarılı ticaret sanatını mükemmelleştirdikleri için Balor'luları her zaman kıskanmıştır. Bu bilginin zamanla kaybolması yazık olur, değil mi?",
     ["Completion"]="Tıpkı Demirocağı'ndaki (Ironforge) büyükannemden daha tozlu. Zaman bu eski cilde pek nazik davranmamış ve nemli hava da pek yardımcı olmuyor. Onu sandığımda düzgünce mühürleyeceğim ve SI:7 karargahında analizine başlayacağım. Senin için YOUR_NAME, içten teşekkürlerimi sunarım. Lütfen hizmetine uygun bir ödül seç.",
     ["minlevel"]="29",
     ["questlevel"]="35"
@@ -78732,7 +78732,7 @@ QuestTranslator_QuestData = {
 
 ["41905"] = {
     ["Title"]="Koyu Demir Saldırganlığı",
-    ["Description"]="Kervanların çoğu Fırtınarüzgarı'na (Stormwind) ve nihayetinde Alah'thalas'a gitmiş olsa da, hâlâ burada Yabangezen Kulübesi'nde (Farstrider Lodge) bize yardım etmek isteyen ya da hâlâ yolculuklarına hazırlanan birçok mülteci var.NEW_LINEÇevre dağ sıralarında dolaşan Koyu Demir (Dark Iron) için de aynı şeyi söyleyebilmeyi isterdim. Yüksek Elfler'in Loch Modan'a gelişi sırasındaki korkunç eylemleri bugün de devam ediyor. Daha geçenlerde Demirocağı'na (Ironforge) giden son konvoyu basıp en çok ihtiyacı olanlardan değerli erzakları çaldılar. YOUR_NAME, çalınanları hak sahiplerine geri vermen için iyi kalbine başvuruyorum.NEW_LINEKoyu Demir güneybatıda kamp kurdu, onların sinsice hilelerine karşı dikkatli ol. Hiçbir koşulda onlara güvenilemez.",
+    ["Description"]="Kervanların çoğu Fırtınayeli'na (Stormwind) ve nihayetinde Alah'thalas'a gitmiş olsa da, hâlâ burada Yabangezen Kulübesi'nde (Farstrider Lodge) bize yardım etmek isteyen ya da hâlâ yolculuklarına hazırlanan birçok mülteci var.NEW_LINEÇevre dağ sıralarında dolaşan Koyu Demir (Dark Iron) için de aynı şeyi söyleyebilmeyi isterdim. Yüksek Elfler'in Loch Modan'a gelişi sırasındaki korkunç eylemleri bugün de devam ediyor. Daha geçenlerde Demirocağı'na (Ironforge) giden son konvoyu basıp en çok ihtiyacı olanlardan değerli erzakları çaldılar. YOUR_NAME, çalınanları hak sahiplerine geri vermen için iyi kalbine başvuruyorum.NEW_LINEKoyu Demir güneybatıda kamp kurdu, onların sinsice hilelerine karşı dikkatli ol. Hiçbir koşulda onlara güvenilemez.",
     ["Objectives"]="Koyu Demir'den soyulan erzakları kurtar ve Yabangezen Kulübesi'ndeki (Farstrider Lodge) Kelt Thomasin'e getir.",
     ["Progress"]="Bronzssakal'ın Koyu Demir'e duyduğu nefret daha önce anlayamadığım bir şeydi. Ancak ahlaka ve yaşama olan saygısızlıklarına ilk elden tanık olmak, bu hor görmenin nereden kaynaklandığını anlamamı sağladı.",
     ["Completion"]="Başardın! Seni sağ salim gördüğüme de sevindim. Bunların geri dönmesiyle grup bir kez daha yeni evlerine giden yolculuğa devam edebilir.",
