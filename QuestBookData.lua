@@ -550,7 +550,7 @@ QuestTranslator_BookData = {
 	},
 	["Muddy Journal Pages"] = {
 		["Title"] = "Çamurlu Günlük Sayfaları",
-		["Text"] = "...Şu an benimle aynı duyguları paylaştığından tamamen eminim. Hatta bu sabah elini elimin üzerine koydu. Gülümsediğinde, gözleri parıldayan elmaslar gibi aydınlanıyor. Aramızda dile gelmeyen kelimeler geçiyor. Onu küt küt atan kalbimde ve ısınan damarlarımda hissedebiliyorum."
+		["Text"] = ". . .artık onun da benimle aynı duyguları paylaştığından neredeyse eminim. Bu sabah elini elimin üzerine bile koydu. Gülümserken gözleri ışıl ışıl elmaslar gibi parıldıyor. Aramızdan söylenmemiş sözler geçiyor. Onu küt küt atan kalbimde ve kaynayan damarlarımda hissedebiliyorum.NEW_LINENEW_LINE. . .varlığından bile haberdar olmadığım türden bir öfke ve gazap! Buna nasıl cüret eder. Giles'a sayıların anlamını öğrettiğim sırada Tilloa önümde bir talibiyle belirdi, üstelik herkesin içinde el ele tutuşuyorlardı! Ne kadar da terbiye yoksunu genç bir adam. Beni düzgünce tanıtmak yerine Tilloa sadece, \"Öğretmenim Stalvan Amca işte. İyi bir yaşlı adamdır.\" dedi. Yaşlı! Bu kelimeyle yanaklarım ateş gibi yandı. Ben sadece birkaç yaş büyüğüm, yine de o ihanet ediyor. . ."
 	},
 	["A Bloodstained Journal Page"] = {
 		["Title"] = "Kan Lekeli Bir Günlük Sayfası",
