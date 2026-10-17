@@ -27910,13 +27910,13 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end Deepwood Pipe
 
--- Kasvetliorman'ın Defiasları
+-- Alacakaranlık Ormanı'ın Defiasları
     ["70055"] = {
-    -- Duskwood -> Kasvetliorman, Westfall -> Westfall. Sven Yorgen, Defias Brotherhood (Defias Kardeşliği) korunmuştur.
+    -- Duskwood -> Alacakaranlık Ormanı, Westfall -> Westfall. Sven Yorgen, Defias Brotherhood (Defias Kardeşliği) korunmuştur.
     -- Night Watch -> Gece Nöbeti. Addle's Stead -> Addle Yerleşkesi. Watcher Paige -> Gözcü Paige.
-    ["Title"]="Kasvetliorman'ın Defiasları",
-    ["Description"]="Bu baş harflere sahip tek bir kişi düşünebiliyorum, o da Sven Yorgen olurdu. Eskiden Yorgen Çiftliği'nin (Yorgen Farmstead) sahibiydi. Tüm bu kaosun içinde çiftlik, Westfall'nden (Westfall) yavaş yavaş yol alan Defias Kardeşliği'ne (Defias Brotherhood) kaybedildi. Sven'ın mezar soyguncularıyla hiçbir ilgisi olmadığını varsayıyorum ama Defias'ın olabilir. Bana kalırsa bu sadece bir tesadüf. Her halükarda, Defias'ın sonu getirilmelidir. Düşmanlar söz konusu olduğunda zaten başımız fazlasıyla dolu ve onların sayısını biraz azaltmak, evlerinden henüz vazgeçmemiş olanlara huzur getirecektir. Bu yüzden yoluna çıkan her Defias'ı katletmeni istiyorum. Gece Nöbeti (The Night Watch), senin araştırmalarından önce Addle Yerleşkesi'nde (Addle's Stead) onların faaliyetlerini görmüştü, bu yüzden belki de oradan başlamak en iyisi olurdu, YOUR_NAME.",
-    ["Objectives"]="Kasvetliorman'daki (Duskwood) Defias Kardeşliği üyelerini katlet ve Gözcü Paige'e geri dön.",
+    ["Title"]="Alacakaranlık Ormanı'ın Defiasları",
+    ["Description"]="Bu baş harflere sahip tek bir kişi düşünebiliyorum, o da Sven Yorgen olurdu. Eskiden Yorgen Çiftliği'nin (Yorgen Farmstead) sahibiydi. Tüm bu kaosun içinde çiftlik, Westfall'nden (Westfall) yavaş yavaş yol alan Defias Kardeşliği'ne (Defias Brotherhood) kaybedildi. NEW_LINESven'ın mezar soyguncularıyla hiçbir ilgisi olmadığını varsayıyorum ama Defias'ın olabilir. Bana kalırsa bu sadece bir tesadüf. Her halükarda, Defias'ın sonu getirilmelidir. Düşmanlar söz konusu olduğunda zaten başımız fazlasıyla dolu ve onların sayısını biraz azaltmak, evlerinden henüz vazgeçmemiş olanlara huzur getirecektir. NEW_LINEBu yüzden yoluna çıkan her Defias'ı katletmeni istiyorum. Gece Nöbeti (The Night Watch), senin araştırmalarından önce Addle Yerleşkesi'nde (Addle's Stead) onların faaliyetlerini görmüştü, bu yüzden belki de oradan başlamak en iyisi olurdu, YOUR_NAME.",
+    ["Objectives"]="Alacakaranlık Ormanındaki (Duskwood) Defias Kardeşliği üyelerini katlet ve Gözcü Paige'e geri dön.",
     ["Progress"]="Güvenim sana emanet, YOUR_NAME. Lütfen beni hayal kırıklığına uğratma.",
     ["Completion"]="Sayılarını azalttığımız için memnun olsam da, doğrudan veya dolaylı olarak can almak beni asla mutlu etmez.",
     ["minlevel"]="0",
@@ -28766,10 +28766,10 @@ QuestTranslator_QuestData = {
 
 -- Karanlıkdiyar'a Rapor
     ["70056"] = {
-    -- Duskwood -> Kasvetliorman, Defias, Watcher Paige -> Gözcü Paige. Darkshire -> Karanlıkdiyar.
+    -- Duskwood -> Alacakaranlık Ormanı, Defias, Watcher Paige -> Gözcü Paige. Darkshire -> Karanlıkdiyar.
     -- Commander Althea Ebonlocke -> Komutan Althea Karalüle.
     ["Title"]="Karanlıkdiyar'a Rapor",
-    ["Description"]="Bana ve Kasvetliorman (Duskwood) halkına büyük bir iyilik yaptın, bunu komutanıma rapor etmeni istiyorum. Defias'a karşı kazandığın başarıyı duymaktan fazlasıyla memnun olacağına eminim ve muhtemelen senin için başka bir işi daha olacaktır. Bu parşömeni Komutan Althea Karalüle'ye (Commander Althea Ebonlocke) götür. Belediye binasının önünde konuşlanmıştır, bu yüzden onu gözden kaçırmak zor olacaktır. Oh, ve, YOUR_NAME, teşekkür ederim.",
+    ["Description"]="Bana ve Alacakaranlık Ormanı (Duskwood) halkına büyük bir iyilik yaptın, bunu komutanıma rapor etmeni istiyorum. Defias'a karşı kazandığın başarıyı duymaktan fazlasıyla memnun olacağına eminim ve muhtemelen senin için başka bir işi daha olacaktır. Bu parşömeni Komutan Althea Karalüle'ye (Commander Althea Ebonlocke) götür. Belediye binasının önünde konuşlanmıştır, bu yüzden onu gözden kaçırmak zor olacaktır. Oh, ve, YOUR_NAME, teşekkür ederim.",
     ["Objectives"]="Gözcü Paige'in (Watcher Paige) raporunu Karanlıkdiyar'daki (Darkshire) Komutan Althea Karalüle'ye ulaştır.",
     ["Progress"]="Evet, YOUR_CLASS?",
     ["Completion"]="Paige'e yardım ettiğin için minnettarlığımı sunarım. Çok uzun zamandır o kamptaydı. Ne yazık ki, içinde bulunduğumuz durumda yapabileceğimiz pek bir şey yok.",
@@ -28925,9 +28925,9 @@ QuestTranslator_QuestData = {
 
 -- Hasat Golemi Gizemi
     ["40481"] = {
-    -- Duskwood -> Kasvetliorman, Moonlight Silk -> Mehtap İpeği.
+    -- Duskwood -> Alacakaranlık Ormanı, Moonlight Silk -> Mehtap İpeği.
     ["Title"]="Hasat Golemi Gizemi",
-    ["Description"]="Bunu senin için deşifre edebilirim, elbette. Ama ilk olarak: kasabadaki herhangi bir muhafıza bunu yapabileceğime dair tek bir kelime edersen, bittin. Ve ikincisi: bu sana pahalıya patlayacak. Şanslısın ki bazı kolay ve basit görevleri yerine getirecek bir maceracıya ihtiyacım var... NEW_LINEİlk olarak, ipeğe ihtiyacım var. Ama sıradan bir ipek değil. Ay ışığında yıkanmış, olağanüstü güzellikte mehtap ipeği (moonlight silk). Alması zordur. Bildiğim kadarıyla sadece Kasvetliorman'da (Duskwood) bulunur. Bana en az on örnek getir, yeterince iyi mi bakarız.",
+    ["Description"]="Bunu senin için deşifre edebilirim, elbette. Ama ilk olarak: kasabadaki herhangi bir muhafıza bunu yapabileceğime dair tek bir kelime edersen, bittin. Ve ikincisi: bu sana pahalıya patlayacak. Şanslısın ki bazı kolay ve basit görevleri yerine getirecek bir maceracıya ihtiyacım var... NEW_LINEİlk olarak, ipeğe ihtiyacım var. Ama sıradan bir ipek değil. Ay ışığında yıkanmış, olağanüstü güzellikte mehtap ipeği (moonlight silk). Alması zordur. Bildiğim kadarıyla sadece Alacakaranlık Ormanı'da (Duskwood) bulunur. Bana en az on örnek getir, yeterince iyi mi bakarız.",
     ["Objectives"]="Gölbölgesi'ndaki Franklin Çekiç için 10 adet Mehtap İpeği örneği topla.",
     ["Progress"]="İpeği aldın mı? Bütün günüm yok.",
     ["Completion"]="Olağanüstü. Bunlar yeterince iyi.",
@@ -28962,7 +28962,7 @@ QuestTranslator_QuestData = {
     ["40484"] = {
     -- Night Watch -> Gece Nöbeti. F.W. (Karakter baş harfleri aynen korunmuştur). Stormwind -> Fırtınayeli.
     ["Title"]="Hasat Golemi Gizemi",
-    ["Description"]="Karanlıkdiyar'a (Darkshire) git ve Gece Nöbeti'ne F.W.'nin nerede olduğunu sor. Eğer şüphelerinde haklıysa, onu nerede bulacaklarını bileceklerdir. NEW_LINEIşık'a dua ediyorum ki hâlâ Kasvetliorman'dan (Duskwood) taşınmamış olsun. NEW_LINEOnu sorgula ve eğer suçlu bulursan... Fırtınayeli'nin (Stormwind) adaletini bekleme. Onu öldür. Westfall halkının intikamını al.",
+    ["Description"]="Karanlıkdiyar'a (Darkshire) git ve Gece Nöbeti'ne F.W.'nin nerede olduğunu sor. Eğer şüphelerinde haklıysa, onu nerede bulacaklarını bileceklerdir. NEW_LINEIşık'a dua ediyorum ki hâlâ Alacakaranlık Ormanı'dan (Duskwood) taşınmamış olsun. NEW_LINEOnu sorgula ve eğer suçlu bulursan... Fırtınayeli'nin (Stormwind) adaletini bekleme. Onu öldür. Westfall halkının intikamını al.",
     ["Objectives"]="F.W.'nin yeri hakkında Gece Nöbeti ile konuş.",
     ["Progress"]="Gece Nöbeti bizi çevreleyen karanlığa karşı dimdik ayakta duruyor.",
     ["Completion"]="F.W. mi? Bu baş harflere sahip kimseyi tanımıyorum ama bana anlattıkların doğruysa kim olabileceğine dair bir tahminim var.",
@@ -28974,7 +28974,7 @@ QuestTranslator_QuestData = {
     ["40485"] = {
     -- Single Watcher -> Tek bir Gözcü. F.W. baş harfleri kalmıştır.
     ["Title"]="Hasat Golemi Gizemi",
-    ["Description"]="Birkaç ay önce, gizemli kör bir adam Karanlıkdiyar'ın (Darkshire) güneyindeki terk edilmiş bir kulübeye taşındı. Bir goblin ona eşlik ediyor, akıl hocalığı karşılığında günlük işlerinde ona yardım ediyordu. Bir tür ünlü mühendisti. NEW_LINETuhaf bir çift oldukları kesin, gerçi sadece sığınacak yer aradıklarını iddia ettiler. NEW_LINEKasvetliorman (Duskwood) genelindeki tüm endişelerimiz nedeniyle, işlerini gözetlemek için yalnızca tek bir Gözcü ayırabildim ve duyduğum azıcık şey şüphelerimi bastırmaya yetmedi. NEW_LINEOraya gider ve işini yaparken elinden geldiğince bir şeyler öğrenirsen, Gece Nöbeti'ne büyük bir hizmette bulunmuş olursun.",
+    ["Description"]="Birkaç ay önce, gizemli kör bir adam Karanlıkdiyar'ın (Darkshire) güneyindeki terk edilmiş bir kulübeye taşındı. Bir goblin ona eşlik ediyor, akıl hocalığı karşılığında günlük işlerinde ona yardım ediyordu. Bir tür ünlü mühendisti. NEW_LINETuhaf bir çift oldukları kesin, gerçi sadece sığınacak yer aradıklarını iddia ettiler. NEW_LINEAlacakaranlık Ormanı (Duskwood) genelindeki tüm endişelerimiz nedeniyle, işlerini gözetlemek için yalnızca tek bir Gözcü ayırabildim ve duyduğum azıcık şey şüphelerimi bastırmaya yetmedi. NEW_LINEOraya gider ve işini yaparken elinden geldiğince bir şeyler öğrenirsen, Gece Nöbeti'ne büyük bir hizmette bulunmuş olursun.",
     ["Objectives"]="Karanlıkdiyar'ın güneyindeki kulübede F.W. ile konuş, ardından Westfall'ndeki Maltimor'a rapor ver.",
     ["Progress"]="Onu buldun mu?",
     ["Completion"]="Westfall halkı güvende. Teşekkür ederim, YOUR_NAME. Bu topraklar zamanla iyileşecek.",
@@ -29119,10 +29119,10 @@ QuestTranslator_QuestData = {
 -- Westfall'ndeki Muhbirler
     ["41390"] = {
     -- Westfall -> Westfall, SI:7 -> İstihbarat Teşkilatı (SI:7 orijinal kısaltmadır), Defias bandıtaları kalmıştır.
-    -- Stormwind -> Fırtınayeli, Eastern Kingdoms -> Doğu Krallıkları. Duskwood -> Alacakaranlık Ormanı/Kasvetliorman. 
+    -- Stormwind -> Fırtınayeli, Eastern Kingdoms -> Doğu Krallıkları. Duskwood -> Alacakaranlık Ormanı/Alacakaranlık Ormanı. 
     -- Kearnen, Renzik kalmıştır.
     ["Title"]="Westfall'ndeki Muhbirler",
-    ["Description"]="Hey, sen. Şans eseri Westfall'ne (Westfall) mi gidiyorsun? İstihbarat Teşkilatı (SI:7), Defias'ın Westfall dışındaki bireyleri içeren dolapları hakkında büyük bir ipucunun peşinde. Sadece Fırtınayeli (Stormwind) için değil, Doğu Krallıkları'nın (Eastern Kingdoms) geri kalanı için de tehdit oluşturabilecek son derece uçucu bir kimyasalla uğraştıklarından şüpheleniyoruz. Bu iş pekala gizlilik türünde bir anlaşma olmayabileceğinden, tabiri caizse biraz... 'ekstra kas gücüne' ihtiyacımız olabilir. NEW_LINEAjanlarımızdan biri Westfall'nün aşağısında, terk edilmiş büyücü kulesinin yakınında, Kasvetliorman'a (Duskwood) çıkan köprüde konuşlanmış durumda. Gidip onunla buluşmanı ve bu konuda hızlı olmanı istiyorum. Araştırmaya değer ani bir gelişme yaşandı. Adı Kearnen; onu bulduğunda ne derse yap.",
+    ["Description"]="Hey, sen. Şans eseri Westfall'ne (Westfall) mi gidiyorsun? İstihbarat Teşkilatı (SI:7), Defias'ın Westfall dışındaki bireyleri içeren dolapları hakkında büyük bir ipucunun peşinde. Sadece Fırtınayeli (Stormwind) için değil, Doğu Krallıkları'nın (Eastern Kingdoms) geri kalanı için de tehdit oluşturabilecek son derece uçucu bir kimyasalla uğraştıklarından şüpheleniyoruz. Bu iş pekala gizlilik türünde bir anlaşma olmayabileceğinden, tabiri caizse biraz... 'ekstra kas gücüne' ihtiyacımız olabilir. NEW_LINEAjanlarımızdan biri Westfall'nün aşağısında, terk edilmiş büyücü kulesinin yakınında, Alacakaranlık Ormanı'a (Duskwood) çıkan köprüde konuşlanmış durumda. Gidip onunla buluşmanı ve bu konuda hızlı olmanı istiyorum. Araştırmaya değer ani bir gelişme yaşandı. Adı Kearnen; onu bulduğunda ne derse yap.",
     ["Objectives"]="Güney Westfall'nde Ajan Kearnen ile buluş.",
     ["Progress"]="",
     ["Completion"]="Seni Renzik mi gönderdi? Güzel. Biraz daha insan gücü işime yarayabilir.",
