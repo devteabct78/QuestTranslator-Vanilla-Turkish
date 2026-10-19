@@ -17,10 +17,10 @@ QTR_Font = "Interface\\AddOns\\QuestTranslator\\Fonts\\ipagui.ttf";
 QuestTranslator_QuestData = {
     ["2"] = {
         ["Title"] = "Sivripençe'nin Pençesi",
-        ["Description"] = "Ulu hipogrif Sivripençe katledildi ve devrilen canavarın pençesi zaferinizin bir kanıtı olarak hizmet ediyor. Kıymıkağaç Karakolu'ndaki Senani Gökürktü[cite: 1] bu ganimeti görerek başarılarınızın kanıtına tanık olmaktan şüphesiz heyecan duyacaktır.",
-        ["Objectives"] = "Sivripençe'nin Pençesi'ni Külvadi'deki[cite: 2] Kıymıkağaç Karakolu'nda bulunan Senani Gökürktü'ye[cite: 1] götür.",
-        ["Progress"] = "Evet, ulu <class>, gelişini hissettim. Avın hakkında bana rapor edecek daha fazla haberin olduğuna inanıyorum?",
-        ["Completion"] = "En etkileyicisi, YOUR_NAME... Sivripençe'nin pençesini elde etmek kolay olmuş olamaz! Külvadi[cite: 2] Avı senin için iyi gidiyor!\n\nSivripençe, buraya Kıymıkağaç Karakolu'na seyahat etmeye çalışan rotasının yakınındaki kereste kamplarından gelen işçileri uzun süredir terörize ediyordu. Canavarı yere serenin sen olduğun haberi yayıldığında, cesaretine dair birçok coşkulu şarkının Külvadi[cite: 2] genelindeki kamp ateşlerinde ve kereste fabrikalarında duyulacağından hiç şüphe yok!",
+        ["Description"] = "Ulu hipogrif Sivripençe katledildi ve devrilen canavarın pençesi zaferinizin bir kanıtı olarak hizmet ediyor. Kıymıkağaç Karakolu'ndaki Senani Gökürktü bu ganimeti görerek başarılarınızın kanıtına tanık olmaktan şüphesiz heyecan duyacaktır.",
+        ["Objectives"] = "Sivripençe'nin Pençesi'ni Külvadi'deki Kıymıkağaç Karakolu'nda bulunan Senani Gökürktü'ye götür.",
+        ["Progress"] = "Evet, ulu YOUR_CLASS, gelişini hissettim. Avın hakkında bana rapor edecek daha fazla haberin olduğuna inanıyorum?",
+        ["Completion"] = "En etkileyicisi, YOUR_NAME... Sivripençe'nin pençesini elde etmek kolay olmuş olamaz! Külvadi Avı senin için iyi gidiyor!\n\nSivripençe, buraya Kıymıkağaç Karakolu'na seyahat etmeye çalışan rotasının yakınındaki kereste kamplarından gelen işçileri uzun süredir terörize ediyordu. Canavarı yere serenin sen olduğun haberi yayıldığında, cesaretine dair birçok coşkulu şarkının Külvadi genelindeki kamp ateşlerinde ve kereste fabrikalarında duyulacağından hiç şüphe yok!",
         ["minlevel"] = "0",
         ["questlevel"] = "0"
     },
@@ -177,7 +177,7 @@ QuestTranslator_QuestData = {
     ["Title"]="Tharil'zun",
     ["Description"]="Karakaya(Blackrock) Kaçkınları ve Hainler burası ile Taşnöbeti Kalesi arasında pusu kuruyorlar. Kaçakların lideri Tharil'zun adında bir ork. Bu orku istiyoruz. Bana Tharil'zun'un kellesini getirin!",
     ["Objectives"]="Tharil'zun'un Kafasını Kızılkaya'daki Mareşal Marris'e getir.",
-    ["Progress"]="Karakaya(Blackrock)'tan gelen Ork baskısı hâlâ gergin. Ama en azından bizi Tharil'zun'dan kurtardın mı?",
+    ["Progress"]="Karakaya(Blackrock)'dan gelen Ork baskısı hâlâ gergin. Ama en azından bizi Tharil'zun'dan kurtardın mı?",
     ["Completion"]="Tharil'zun acımasız, kurnaz bir orktu. Aferin, eminim kolay yenilmemiştir. İşte ödülün, YOUR_NAME.",
     ["minlevel"]="0",
     ["questlevel"]="0",
@@ -4329,7 +4329,7 @@ QuestTranslator_QuestData = {
         ["Description"] = "Teldrassil ormanlarında kötü bir şeyler dönüyor. Tepeler boyunca huzurlu furbolgların bir zamanlar yaşadığı yerlere uzun uzun bak. Evlerini terk ettiler ve Düğümçam kabilesi adı altında toplanıyorlar.\n\nBöyle bir dönüşüme yalnızca kötücül İblis Yosunu'nun yozlaşması sebep olabilir. Grelller ve grellsoyları bölgeyi istila etti ve Gölgevadi sakinlerini tehdit ediyorlar.\n\nBu grelller ve grellsoylarıyla savaş, YOUR_NAME, ve gerçekten kötücül İblis Yosunu'nun büyüsü altında olup olmadıklarına bak.",
         ["Objectives"] = "8 İblis Yosunu topla ve onları Tarindrella'ya getir.",
         ["Progress"] = "Şüphelerimi gider, YOUR_NAME. Bana 8 İblis Yosunu getir.",
-        ["Completion"] = "Gölgevadi yaratıklarına hizmetin ödüle değer, YOUR_NAME.\n\nYine de korkularımı doğruladın. Eğer grelller İblis Yosunu tarafından lekelendiyse, bir zamanlar burada yaşayan Düğümçam furbolg kabilesine ne olduğunu ancak hayal edebiliriz.\n\nYolun Dolanaar'a düşerse, becerikli <class>, bilgili druid Athridas Ayıörtüsü'nü ara. O da ormanın refahı için bizimle aynı endişeyi paylaşıyor.",
+        ["Completion"] = "Gölgevadi yaratıklarına hizmetin ödüle değer, YOUR_NAME.\n\nYine de korkularımı doğruladın. Eğer grelller İblis Yosunu tarafından lekelendiyse, bir zamanlar burada yaşayan Düğümçam furbolg kabilesine ne olduğunu ancak hayal edebiliriz.\n\nYolun Dolanaar'a düşerse, becerikli YOUR_CLASS, bilgili druid Athridas Ayıörtüsü'nü ara. O da ormanın refahı için bizimle aynı endişeyi paylaşıyor.",
         ["minlevel"] = "0",
         ["questlevel"] = "0"
     },
@@ -28769,8 +28769,8 @@ QuestTranslator_QuestData = {
     -- Duskwood -> Alacakaranlık Ormanı, Defias, Watcher Paige -> Gözcü Paige. Darkshire -> Karanlıkdiyar.
     -- Commander Althea Ebonlocke -> Komutan Althea Karalüle.
     ["Title"]="Karanlıkdiyar'a Rapor",
-    ["Description"]="Bana ve Alacakaranlık Ormanı (Duskwood) halkına büyük bir iyilik yaptın, bunu komutanıma rapor etmeni istiyorum. Defias'a karşı kazandığın başarıyı duymaktan fazlasıyla memnun olacağına eminim ve muhtemelen senin için başka bir işi daha olacaktır. Bu parşömeni Komutan Althea Karalüle'ye (Commander Althea Ebonlocke) götür. Belediye binasının önünde konuşlanmıştır, bu yüzden onu gözden kaçırmak zor olacaktır. Oh, ve, YOUR_NAME, teşekkür ederim.",
-    ["Objectives"]="Gözcü Paige'in (Watcher Paige) raporunu Karanlıkdiyar'daki (Darkshire) Komutan Althea Karalüle'ye ulaştır.",
+    ["Description"]="Bana ve Alacakaranlık Ormanı (Duskwood) halkına büyük bir iyilik yaptın, bunu komutanıma rapor etmeni istiyorum. NEW_LINEDefias'a karşı kazandığın başarıyı duymaktan fazlasıyla memnun olacağına eminim ve muhtemelen senin için başka bir işi daha olacaktır. NEW_LINEBu parşömeni Komutan Althea Karalüle'ye (Commander Althea Ebonlocke) götür. Belediye binasının önünde konuşlanmıştır, bu yüzden onu gözden kaçırmak zor olacaktır. Oh, ve, YOUR_NAME, teşekkür ederim.",
+    ["Objectives"]="Gözcü Paige'in raporunu Karanlıkdiyar'daki (Darkshire) Komutan Althea Karalüle'ye ulaştır.",
     ["Progress"]="Evet, YOUR_CLASS?",
     ["Completion"]="Paige'e yardım ettiğin için minnettarlığımı sunarım. Çok uzun zamandır o kamptaydı. Ne yazık ki, içinde bulunduğumuz durumda yapabileceğimiz pek bir şey yok.",
     ["minlevel"]="0",
@@ -28794,7 +28794,7 @@ QuestTranslator_QuestData = {
     -- Christopher Hewen özel ismi korunmuştur.
     ["Title"]="Hasat Golemi Gizemi",
     ["Description"]="Şu gizemli canlandırma rünleri... Bir süredir elime bir tane geçirmeye çalışıyorum ama bir dükkan sahibi olarak mekanik canavarlarla savaşmaya pek uygun değilim. NEW_LINEWestfall'ndeki (Westfall) hasat golemlerini araştıran... belirli biri için çalışıyorum. Eğer bir rün ele geçirebilirsen, bu zahmetine değmesini sağlarım! NEW_LINEOnları bölgedeki herhangi bir hasat goleminin içinde bulabilirsin.",
-    ["Objectives"]="Gözcü Tepesi'ndeki (Sentinel Hill) Christopher Hewen için bir adet Çatlak Canlandırma Rünü (Cracked Animation Rune) topla.",
+    ["Objectives"]="Gözcü Tepesi'ndeki (Sentinel Hill) Christopher Hewen için bir adet Çatlak Canlandırma Rünü topla.",
     ["Progress"]="Bir tane ele geçirebildin mi?",
     ["Completion"]="Ne harika bir örnek! Biraz çatlamış ama bu gayet iyi iş görür. Müşterim bu golemlerin neden çıldırdığının aslına inmeye çalışıyor ve alabileceği tüm örneklere ihtiyacı var. NEW_LINESenin için başka bir görevim daha var ve eğer ilgilenirsen bu koşturman için biraz sikke ayırmaya hazırım.",
     ["minlevel"]="0",
@@ -43268,7 +43268,7 @@ QuestTranslator_QuestData = {
     ["Description"]="Alacakaranlık Ormanı (Duskwood) geçen her gün daha da tehlikeli bir hal alıyor. İster kudurmuş worgenlar, ister gezici ölüler ya da hırsız haydutlar olsun - burada her zaman hayatına kasteden bir şeyler vardır. En nihayetinde insan neden hala hepimizin burada olduğunu merak edebilir. Cevap basit: Bu ormanlar bizim evimiz ve bu ucubelerin burayı elimizden almasına izin vermeyeceğiz.\n\nYine de burada olmam dostlarımın yüreğine, en çok da Barbara'nınkine ağır bir yük bindiriyor. Kendisi Fırtınayeli'nin (Stormwind) kuzeyindeki Kuzeyrüzgarı'nın (Northwind) yönetici soylusu olan Lord Amberwood'un ok ustasıdır. Uzun zamandır onu görmedim, bırakın iyi olduğuma dair ona yazmayı bile yapmadım. Benim için deli gibi endişeleniyor olmalı ve bu beni derinden utandırıyor. Eğer ayıracak bir anın varsa, bu mektubu ona ulaştırabilir misin? İçinde ona çok uzun zaman önce söylemem gereken şeyler yazılı, bu yüzden sana çok önemli bir görev emanet ediyorum. Bunu benim için yapabilirsen, sana sonsuza dek minnettar kalırım.\n\nKuzeyrüzgarı'na (Northwind) giden en hızlı yol Fırtınayeli Limanı'ndan (Stormwind Harbor) geçmektir.",
     ["Objectives"]="Avette Fellwood'un Mektubu'nu (Avette Fellwood's Letter) Kuzeyrüzgarı'ndaki (Northwind) Kehribarodun Kalesi'nde (Amberwood Keep) bulunan Barbara Lee'ye ulaştır.",
     ["Progress"]="Sana nasıl yardımcı olabilirim? Sadığını (quiver) yeniden doldurmaya mı ihtiyacın var?",
-    ["Completion"]="Avette'ten bir mektup mu? Kendisi nasıl? Alacakaranlık Ormanı'nın (Duskwood) bugünlerde tekinsiz bir yer olduğunu, sıradan halktan (common folk) hiç kimse için güvenli olmadığını duymuştum.\n\n<Barbara mektubu açar ve hızlıca birkaç satıra göz gezdirir. Bunu yaparken kendisinden bir kıkırdama kaçar.>\n\nGörüyorum ki endişelenecek bir şeyim yokmuş, ne kadar rahatlatıcı (relieving). Ondan haber almayalı çok uzun zaman olmuştu ve en kötüsünü varsaymaya başlıyordum. Kuzeyrüzgarı'nın (Northwind) sorunları dindiğinde, onu ziyaret edeceğim. Bu çoktan gecikmiş (overdue) bir ziyaret. Al bakalım, Avette ve benden bir teşekkür olarak bu birkaç parayı kabul et. Güven bana, ikimiz için de düşündüğünden çok daha fazlasını yaptın. Yolculuklarında güvende kal, YOUR_NAME.",
+    ["Completion"]="Avette'ten bir mektup mu? Kendisi nasıl? Alacakaranlık Ormanı'nın (Duskwood) bugünlerde tekinsiz bir yer olduğunu, sıradan halktan hiç kimse için güvenli olmadığını duymuştum.\n\n<Barbara mektubu açar ve hızlıca birkaç satıra göz gezdirir. Bunu yaparken kendisinden bir kıkırdama kaçar.>\n\nGörüyorum ki endişelenecek bir şeyim yokmuş, ne kadar rahatlatıcı (relieving). Ondan haber almayalı çok uzun zaman olmuştu ve en kötüsünü varsaymaya başlıyordum. Kuzeyrüzgarı'nın (Northwind) sorunları dindiğinde, onu ziyaret edeceğim. Bu çoktan gecikmiş (overdue) bir ziyaret. Al bakalım, Avette ve benden bir teşekkür olarak bu birkaç parayı kabul et. Güven bana, ikimiz için de düşündüğünden çok daha fazlasını yaptın. Yolculuklarında güvende kal, YOUR_NAME.",
     ["Gains"]="Görevler tamamlandığında, kazanılan:\n420 Deneyim (Experience)",
     }, -- end A Dear Friend
     -- The Human Anatomy
@@ -50568,7 +50568,7 @@ QuestTranslator_QuestData = {
     ["Title"]="ARANIYOR: Halife Akrepiğnesi",
     ["Description"]="ARANIYOR: Halife Akrepiğnesi!\n\nTanaris, Gadgetzan'ın Gadgetzan Su Şirketi, Çölgezer kanunsuzlarının lideri Halife Akrepiğnesi'nin kafası için büyük bir ödül ödeyecektir. İşlediği suçlar şunlardır:\n\n1. Gadgetzan Su Şirketi çalışanlarını katletmek!\n2. Gadgetzan Su Şirketi kaynaklarını çalmak!\n3. Gadgetzan Su Şirketi mülkünü gasp etmek!\n\nAnında ödül almak için Başmühendis Bilgewhizzle'a Halife Akrepiğnesi'nin ölümünün kanıtını getir!",
     ["Objectives"]="Halife Akrepiğnesi'nin Kafası'nı Gadgetzan'daki Başmühendis Bilgewhizzle'a getir.",
-    ["Progress"]="Evet <class>, Gadgetzan Su Şirketi'nin bir yetkilisiyim. Sana nasıl yardımcı olabilirim?",
+    ["Progress"]="Evet YOUR_CLASS, Gadgetzan Su Şirketi'nin bir yetkilisiyim. Sana nasıl yardımcı olabilirim?",
     ["Completion"]="Sonunda - adalet yerini buldu! O aşağılık göçebelere büyük bir darbe indirdin! Akrepiğnesi'nin ölümüyle birlikte, bu durum o işgalcileri en sonunda Gadgetzan'ın su kuyularından defetmek için tam da ihtiyacımız olan şey olabilir!\n\nGadgetzan Su Şirketi'nin yetkisiyle bu ödülü sana memnuniyetle takdim ediyorum. Hepimiz için büyük bir hizmette bulundun.",
     ["minlevel"]="0",
     ["questlevel"]="0",
