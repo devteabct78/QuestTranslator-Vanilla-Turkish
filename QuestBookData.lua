@@ -1479,4 +1479,12 @@ QuestTranslator_BookData = {
     	["Title"] = "Lewis'in Notu",
     	["Text"] = "Osric,NEW_LINEİhtiyacımız olan zırhların listesini aşağıda bulabilirsin:NEW_LINE10 Halka Zırh GömlekNEW_LINE20 MiğferNEW_LINE30 Zırh YamasıNEW_LINE15 Halka Zırh ÇizmeNEW_LINEÖnceden olduğu gibi sana borçluyuz. Ve eğer Batıdüşüşü kendisini tehdit eden hırsızlardan bir gün kurtulursa, seni ailemin evinde bir zamanlar bu toprakların nam saldığı bereketli ürünlerle hazırlanmış güzel bir yemeğe davet edebilirsem kalbimdeki suçluluk duygusu hafifleyecektir.NEW_LINE-LewisNEW_LINELevazım Subayı, Gözcü Tepesi"
 	},
+	["Queen Tiffin Ellerian Wrynn - The Light of our Kingdom"] = {
+    	["Title"] = "Kraliçe Tiffin Ellerian Wrynn - Krallığımızın Işığı",
+    	["Text"] = "Sevgili kraliçemiz, annemiz, eşimiz ve kızımızNEW_LINEIşıltın Güneş kadar parlak ve bir o kadar sıcaktıNEW_LINEBizden alındığın gün kalplerimiz soğudu ve ağırlaştıNEW_LINEIşığın ışınları altında sonsuz huzuru bulasınNEW_LINE- Kral Varian Wrynn"
+	},
+	["Groceries List"] = {
+		["Title"] = "Bakkal Listesi",
+		["Text"] = "Ulrich Buckert'ten Maya ve Basit Un.NEW_LINENEW_LINEThomas Arello'dan Bal ve Maden Suyu."
+	}
 }
