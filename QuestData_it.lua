@@ -23376,7 +23376,7 @@ QuestTranslator_QuestData = {
     ["Description"]="Oh, Stormwind şehrinde bulunmayalı çok, çok uzun zaman oldu, sanki kendi içinde bir ömür gibi! NEW_LINEYaklaşık üç yıl önce başka bir iş için filoyla bu şehre seyahat etmiş ve 'Charys Yserian' adında oldukça çekici ve gizemli bir kadınla tanışmıştım. O zamandan beri hiçbir kadın üzerimde bu kadar büyüleyici bir izlenim bırakmadı ve zamanımı burada, kıyıda önemsiz işlerle heba ediyormuşum, onu göremiyormuşum gibi hissediyorum. NEW_LINESenden yardım istiyorum, karalı; birkaç gün daha boş vaktim olmayacak ve bir izlenim bırakmak istiyorum... Eğer beni hatırlayabilirse. NEW_LINEÇiçekçi Bernard Gump'a git, Old Town ile Trade District arasındaki kanallarda 'Fragrant Flowers' adında bir dükkan işletiyor, bir adet Red Rose satın al ve Charys'e teslim et, söylentilere göre şimdi Mage Quarter'da bir dükkan işletiyormuş.",
     ["Objectives"]="Sailor Borus adına bir gül satın alın ve onu Stormwind City'deki Charys Yserian'a teslim edin.",
     ["Progress"]="Evet?",
-    ["Completion"]="Bir gül mü? Vay canına, bu gerçekten bambaşka bir şey.. Sailor Borus'tan mı? <Kadın açıkça sırıtırken hafifçe kıkırdar.> İsmi ve o Kul Tiran adamını iyi hatırlıyorum, onun bu kadar romantik biri olduğunu hiç tahmin etmezdim.",
+    ["Completion"]="Bir gül mü? Vay canına, bu gerçekten bambaşka bir şey.. NEW_LINESailor Borus'tan mı? NEW_LINE<Kadın açıkça sırıtırken hafifçe kıkırdar.> NEW_LINEİsmi ve o Kul Tiras adamını iyi hatırlıyorum, onun bu kadar romantik biri olduğunu hiç tahmin etmezdim.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end A Sailor's Love
