@@ -4,7 +4,7 @@
 -- Based on addon "QuestJapanizer" v.0.5.8 by lalha and QuestTranslator from Platine
 
 -- Global Variables
-local QTR_version = "1.0.20261013.2124";
+local QTR_version = "1.0.20261026.2307";
 local QTR_name = UnitName("player");
 local QTR_class= UnitClass("player");
 local QTR_race = UnitRace("player");
