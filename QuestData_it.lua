@@ -23099,7 +23099,7 @@ QuestTranslator_QuestData = {
 -- A Mother's Concern
     ["40448"] = {
     ["Title"]="Bir Annenin Endişesi",
-    ["Description"]="Brian'ı şehirdeki bazı kuzenlerimin yanına yaşaması için göndereli birkaç hafta oldu. En güvenli yer sayılmaz ama buralardan, özellikle de Gallant Square çevresindeki tüm o savunucuların yanından çok daha güvenli. Gittiğinden beri çok endişelendim ve sadece iyi olduğundan emin olmak istiyorum. Kaldığı süre boyunca kendisini biraz daha rahat hissetmesi için ona gönderilecek pek comic şeyler hazırladım, bunları benim için götürüp aldığından emin olmak ister misin? Onu Stromgarde'da, Gallant Square'de, şehrin inşaat halindeki kısmında bulabilirsin.",
+    ["Description"]="Brian'ı şehirdeki bazı kuzenlerimin yanına yaşaması için göndereli birkaç hafta oldu. En güvenli yer sayılmaz ama buralardan, özellikle de Gallant Square çevresindeki tüm o savunucuların yanından çok daha güvenli. NEW_LINEGittiğinden beri çok endişelendim ve sadece iyi olduğundan emin olmak istiyorum. Kaldığı süre boyunca kendisini biraz daha rahat hissetmesi için ona gönderilecek pek comic şeyler hazırladım, bunları benim için götürüp aldığından emin olmak ister misin? NEW_LINEOnu Stromgarde'da, Gallant Square'de, şehrin inşaat halindeki kısmında bulabilirsin.",
     ["Objectives"]="Arathi Highlands'teki Gallant Square'de bulunan Brian Livingstone'a 'Packed Goods for Brian' eşyasını götürün.",
     ["Progress"]="Yes, can I help you?",
     ["Completion"]="Oh, hello there, this is from mom? I miss her quite a bit, but it's nice seeing family! The city is kind of fascinating too.",
@@ -25016,7 +25016,7 @@ QuestTranslator_QuestData = {
 -- Karşı Saldırı: Zul'Rasaz Harabeleri
     ["40452"] = {
     ["Title"]="Karşı Saldırı: Zul'Rasaz Harabeleri",
-    ["Description"]="Zul'Rasaz trol şehrinde, ya da en azından ondan geriye kalan yerde gerçekleşen bir savaşa dair bilgi aldık. Kuzeydeki tepelerin derinliklerinde, çatışma ve zamanla yok olmuş gizli bir trol şehri var. Görünüşe göre Solukkabuklar (Witherbark) Vahşidişlerle (Wildtusk) savaşmış ve onları yenmiş. Oraya git ve sayılarını azalt ki burada, Stromgarde'da (Stromhisarı) bize zarar veremeseler.",
+    ["Description"]="Zul'Rasaz trol şehrinde, ya da en azından ondan geriye kalan yerde gerçekleşen bir savaşa dair bilgi aldık. Kuzeydeki tepelerin derinliklerinde, çatışma ve zamanla yok olmuş gizli bir trol şehri var. Görünüşe göre Solukkabuklar (Witherbark) Vahşidişlerle (Wildtusk) savaşmış ve onları yenmiş. NEW_LINEOraya git ve sayılarını azalt ki burada, Stromgarde'da (Stromhisarı) bize zarar veremeseler.",
     ["Objectives"]="Zul'Rasaz Harabeleri'ne seyahat et ve Stromhisarı Kalesi'ndeki (Stromgarde Keep) Yiğitler Meydanı'nda (Gallant Square) bulunan Trol Avcısı Penthar için 8 Solukkabuk Haydutu, 10 Solukkabuk Akıncısı ve 5 Solukkabuk Kahini katlet.",
     ["Progress"]="Geçidi bulmak zor olabilir ama gerekeni yapacağından eminim.",
     ["Completion"]="İyi iş çıkardın, beklediğimden çok daha iyi. Teşekkür olarak bunu kabul et.",
@@ -25027,7 +25027,7 @@ QuestTranslator_QuestData = {
 -- Karşı Saldırı: Solukkabuk Köyü
     ["40451"] = {
     ["Title"]="Karşı Saldırı: Solukkabuk Köyü",
-    ["Description"]="Stromhisarı'nın (Stromgarde) Trol Avcılarının zanaatlarını icra etme şansı bulmalarının üzerinden epey zaman geçti. Şehrin bizim payımıza düşen kısmını savunmak için çok uzun süredir, sürekli tehdit altında kapalı kaldık. Asıl düşmanımız pusuda bekliyor ve gücünü topluyor. Troller nesillerdir bizimle savaş halinde. Babalarım, onların babaları ve hatta onlarınkiler bile trollerle savaştı. Stromhisarı'nın boş durmayacağını onlara göstermek için onlara saldıracağız. Uzak doğuda Solukkabuk Köyü (Witherbark Village) var, oraya git ve on Solukkabuk Gölge Avcısı öldür.",
+    ["Description"]="Stromhisarı'nın (Stromgarde) Trol Avcılarının zanaatlarını icra etme şansı bulmalarının üzerinden epey zaman geçti. Şehrin bizim payımıza düşen kısmını savunmak için çok uzun süredir, sürekli tehdit altında kapalı kaldık. NEW_LINEAsıl düşmanımız pusuda bekliyor ve gücünü topluyor. Troller nesillerdir bizimle savaş halinde. Babalarım, onların babaları ve hatta onlarınkiler bile trollerle savaştı. NEW_LINEStromhisarı'nın boş durmayacağını onlara göstermek için onlara saldıracağız. Uzak doğuda Solukkabuk Köyü (Witherbark Village) var, oraya git ve on Solukkabuk Gölge Avcısı öldür.",
     ["Objectives"]="Solukkabuk Köyü'ne seyahat et ve Stromhisarı Kalesi'ndeki Yiğitler Meydanı'nda bulunan Trol Avcısı Penthar için 10 Solukkabuk Gölge Avcısı katlet.",
     ["Progress"]="İş tamamlandı mı, YOUR_CLASS?",
     ["Completion"]="Stromhisarı'nı gururlandırıyorsun, ne kadar az trol, nihai hayatta kalmamız için o kadar iyi.",
@@ -28536,12 +28536,12 @@ QuestTranslator_QuestData = {
 
 -- Kılıcı Beslemek
     ["40288"] = {
-    -- Blademaster -> Kılıçustası. Felwood -> Kasvetfel Ormanı, Jaedenar, Fel Energies -> Fel Enerjileri, Fel Conduits -> Fel Kanalları.
+    -- Blademaster -> Kılıçustası. Felwood -> Felormanı, Jaedenar, Fel Energies -> Fel Enerjileri, Fel Conduits -> Fel Kanalları.
     -- Katokar Bladewind -> Katokar Kılıçmeltemi. Bloodfist Point -> Kanlıyumruk Noktası, Azshara.
     ["Title"]="Kılıcı Beslemek",
-    ["Description"]="Şimdi, son bir adım kaldı; Kılıcın yeniden dövülmesi gerekiyor. Kılıcı tekrar bütün hale getirmek için güçlü bir kanala, hayal edilemez bir fel enerjisi kaynağına ihtiyacımız olacak. Kılıçustası'nın (Blademaster) yolu budur. İblislerin hâlâ pusuda beklediği Kasvetfel Ormanı (Felwood) ormanlarına atıl. Onların Fel enerjilerini topla ve Kılıcı yeniden dövebilmemiz için bana geri dön. Jaedenar'ın iblis sığınağı bu tür enerjileri barındıran bir yer olacaktır, oraya bak.",
-    ["Objectives"]="Azshara'daki Kanlıyumruk Noktası'nda (Bloodfist Point) bulunan Katokar Kılıçmeltemi (Katokar Bladewind) için Kasvetfel Ormanı'ndaki iblislerden 10 adet Fel Kanalı topla.",
-    ["Progress"]="Jaedenar Kalesi, Lejyon'un Kasvetfel Ormanı'ndaki en güçlü kalesidir, onları yerle bir et.",
+    ["Description"]="Şimdi, son bir adım kaldı; Kılıcın yeniden dövülmesi gerekiyor. Kılıcı tekrar bütün hale getirmek için güçlü bir kanala, hayal edilemez bir fel enerjisi kaynağına ihtiyacımız olacak. Kılıçustası'nın (Blademaster) yolu budur. İblislerin hâlâ pusuda beklediği Felormanı (Felwood) ormanlarına atıl. Onların Fel enerjilerini topla ve Kılıcı yeniden dövebilmemiz için bana geri dön. Jaedenar'ın iblis sığınağı bu tür enerjileri barındıran bir yer olacaktır, oraya bak.",
+    ["Objectives"]="Azshara'daki Kanlıyumruk Noktası'nda (Bloodfist Point) bulunan Katokar Kılıçmeltemi (Katokar Bladewind) için Felormanı'ndaki iblislerden 10 adet Fel Kanalı topla.",
+    ["Progress"]="Jaedenar Kalesi, Lejyon'un Felormanı'ndaki en güçlü kalesidir, onları yerle bir et.",
     ["Completion"]="<Katokar Kılıçmeltemi, rahatlama dolu bir iç çekiş koyuvermeden önce fel enerjisini incelemek için zaman ayırır>. Bu kadarı yeterli olmalı, iyi iş çıkardın.",
     ["minlevel"]="0",
     ["questlevel"]="0",
@@ -29666,7 +29666,7 @@ QuestTranslator_QuestData = {
     -- Magical Grains -> Sihirli Tahıllar. Go'shek Farm -> Go'shek Çiftliği, Arathi Highlands -> Arathi Alandiyarı.
     -- Tarrel Holk, Stromgarde Keep -> Stromgarde Kalesi.
     ["Title"]="Eperius'un Tahıla İhtiyacı Var",
-    ["Description"]="Sihirli tahıllar (magical grains) demek ha? Şey, onları çok uzun zaman önce efsunlayan bendim. Süvarilere yardım etmek ve hayvanların tarlaları daha hızlı ve daha uzun süre sürmesine yardımcı olmak için yapılmışlardı, ama sonra trajedi vurdu. Orklar şu an Go'shek Çiftliği (Go'shek Farm) olarak bilinen yeri istila ettiler ve tahılın tüm stoku o zamandan beri kayboldu. Eğer şanslıysan, orkların o pis ellerini üzerlerine geçirmediğini varsayarak hâlâ bir çuval bulabilirsin. Sana bol şans diliyorum ve umarım bir gün tekrar karşılaşırız.",
+    ["Description"]="Sihirli tahıllar demek ha? Şey, onları çok uzun zaman önce efsunlayan bendim. Süvarilere yardım etmek ve hayvanların tarlaları daha hızlı ve daha uzun süre sürmesine yardımcı olmak için yapılmışlardı, ama sonra trajedi vurdu. NEW_LINEOrklar şu an Go'shek Çiftliği (Go'shek Farm) olarak bilinen yeri istila ettiler ve tahılın tüm stoku o zamandan beri kayboldu. NEW_LINEEğer şanslıysan, orkların o pis ellerini üzerlerine geçirmediğini varsayarak hâlâ bir çuval bulabilirsin. Sana bol şans diliyorum ve umarım bir gün tekrar karşılaşırız.",
     ["Objectives"]="Arathi Alandiyarı'ndaki (Arathi Highlands) Go'shek Çiftliği'nde bir çuval Sihirli Tahıl bul ve bunları Stromgarde Kalesi'ndeki (Stromgarde Keep) Tarrel Holk'a getir.",
     ["Progress"]="Daha ne kadar dayanabilir bilmiyorum.",
     ["Completion"]="Onu bulmuşsun! İyileşmesi yavaş olacak ama süvarilerimizle birlikte kısa sürede yollarda troll avlamaya geri döneceğine inanıyorum. Cebimdekilerin hepsi bu, çok olmasa bile bugün bu yaşlı bakıcıyı mutlu ettin. Teşekkür ederim.",
@@ -30414,7 +30414,7 @@ QuestTranslator_QuestData = {
     -- Old Farwell -> İhtiyar Farwell, Farwell stead -> Farwell Çiftliği, Kirin Tor. 
     -- Arathi Highlands -> Arathi Alandiyarı. Sergeant Karster -> Çavuş Karster.
     ["Title"]="Farwell Siparişi",
-    ["Description"]="Birkaç hafta önce, uzak kuzeydeki Farwell çiftliğinde oturan İhtiyar Farwell'e bir yüzük siparişi vermiştim. İhtiyar Farwell bir zamanlar Kirin Tor'un seçkin ve güçlü bir büyücüsüydü, şimdiyse emekli oldu. Yüzüğün, şehrin içinde kalan o habis ve karanlık büyüye karşı koruma sağlaması gerekiyor. Arathi Alandiyarı'nın (Arathi Highlands) kuzeybatı köşesinde, dağların arasından onun çiftliğine (Stead) çıkan geçidi bulabilirsin.",
+    ["Description"]="Birkaç hafta önce, uzak kuzeydeki Farwell çiftliğinde oturan İhtiyar Farwell'e bir yüzük siparişi vermiştim. İhtiyar Farwell bir zamanlar Kirin Tor'un seçkin ve güçlü bir büyücüsüydü, şimdiyse emekli oldu. NEW_LINEYüzüğün, şehrin içinde kalan o habis ve karanlık büyüye karşı koruma sağlaması gerekiyor. NEW_LINEArathi Dağlık Bölgesi'nin (Arathi Highlands) kuzeybatı köşesinde, dağların arasından onun çiftliğine çıkan geçidi bulabilirsin.",
     ["Objectives"]="Farwell Çiftliği'ndeki (Farwell Stead) İhtiyar Farwell ile konuş.",
     ["Progress"]="Evet?",
     ["Completion"]="Seni tanıyor muyum, yardımcı olabileceğim bir şey var mı?",
@@ -30738,10 +30738,10 @@ QuestTranslator_QuestData = {
 
 -- Feralas'ın Yabanisoyu
     ["41047"] = {
-    -- Feralkin -> Yabanisoy (Feral + Kin). Felwood -> Kasvetfel Ormanı, World Tree -> Dünya Ağacı.
+    -- Feralkin -> Yabanisoy (Feral + Kin). Felwood -> Felormanı, World Tree -> Dünya Ağacı.
     -- Cenerron, Zalmos özel isimleri kalmıştır. Wild God -> Yaban Tanrısı.
     ["Title"]="Feralas'ın Yabanisoyu",
-    ["Description"]="Değerli bir müttefik olduğunu kanıtladın ve bu yüzden sana gerçeği açıklayacağım. Topladığımız yadigarlar, dünyaya dengeyi yeniden getirmek için yapılan daha büyük bir planın sadece bir parçası. Zalmos, eşsiz bir güçle kendini yenileme (regenerate) yeteneğine sahipti. Onun özünü dizginleyerek, Kasvetfel Ormanı'nın (Felwood) yozlaşmış topraklarını iyileştirebilecek ve ölmekte olan Dünya Ağacı'nı canlandırabilecek bir şifa gücü ortaya çıkarabiliriz. Ancak, bu görevi başarmak için sadece yadigarlar yeterli değil. Cenerron'un rehberliğine ihtiyacımız var. O, bir zamanlar Zalmos'un altında eğitim görmüş bir druiddi. Zamanın akışı Cenerron üzerinde ağır bir bedel ödetmiş olsa da, hâlâ Feralas'ın kadim ormanlarında dolaştığına inanıyoruz. Yaban Tanrısı (the Wild God) ile olan bağı, onu bu yadigarların potansiyelini açığa çıkaracak anahtar kılıyor. Feralas'ın yaban hayatı arasında Cenerron'u ara. Dikkatli ol, çünkü o artık ilkel içgüdülerinde kaybolmuş bir yabanisoydur (feralkin). Eğer onun güvenini kazanabilirsen, bu yadigarların gücünü artıracak bilgiye sahip olacaktır.",
+    ["Description"]="Değerli bir müttefik olduğunu kanıtladın ve bu yüzden sana gerçeği açıklayacağım. Topladığımız yadigarlar, dünyaya dengeyi yeniden getirmek için yapılan daha büyük bir planın sadece bir parçası. Zalmos, eşsiz bir güçle kendini yenileme (regenerate) yeteneğine sahipti. Onun özünü dizginleyerek, Felormanı'nın (Felwood) yozlaşmış topraklarını iyileştirebilecek ve ölmekte olan Dünya Ağacı'nı canlandırabilecek bir şifa gücü ortaya çıkarabiliriz. Ancak, bu görevi başarmak için sadece yadigarlar yeterli değil. Cenerron'un rehberliğine ihtiyacımız var. O, bir zamanlar Zalmos'un altında eğitim görmüş bir druiddi. Zamanın akışı Cenerron üzerinde ağır bir bedel ödetmiş olsa da, hâlâ Feralas'ın kadim ormanlarında dolaştığına inanıyoruz. Yaban Tanrısı (the Wild God) ile olan bağı, onu bu yadigarların potansiyelini açığa çıkaracak anahtar kılıyor. Feralas'ın yaban hayatı arasında Cenerron'u ara. Dikkatli ol, çünkü o artık ilkel içgüdülerinde kaybolmuş bir yabanisoydur (feralkin). Eğer onun güvenini kazanabilirsen, bu yadigarların gücünü artıracak bilgiye sahip olacaktır.",
     ["Objectives"]="Feralas'taki yabanisoyu bul.",
     ["Progress"]="<Yabanisoy Cenerron, kadim gözlerle size bakar; vahşi formu çevreleyen yaban hayatıyla kusursuz bir şekilde bütünleşir. O, sizin varlığınızı dikkatle değerlendirirken havada ağır bir sessizlik asılı kalır.>",
     ["Completion"]="Demek bilgeliğimi arıyorsun, öyle mi? Benim bölgeme adım atmaya cesaret eden pek az kişi olur, benimle görüşmek istemelerini saymıyorum bile. Amacını söyle ama sözlerine dikkat et, çünkü boş laflara hiç sabrım yoktur. <Cenerron'un bakışları keskinleşir, ilkel içgüdüleri en ufak bir aldatmaca veya saygısızlık belirtisinde üzerinize atlamaya hazırdır. Gölgelerde saklanan sürüsü huzursuzca kıpırdanır, vahşi enerjileri havada somut bir şekilde hissedilir.> Unutma ölümlü, insan ve doğa arasındaki bağ hassas bir bağdır. Tek bir yanlış adımında, sürüm üzerinize öfkelerini salmaktan çekinmeyecektir. Şimdi, niyetini belirt.",
@@ -30814,10 +30814,10 @@ QuestTranslator_QuestData = {
 
 -- Bir İblis Avcısı Bulmak
     ["41091"] = {
-    -- Demon Hunter -> İblis Avcısı, Night elves -> Gece elfleri, Felwood -> Kasvetfel Ormanı, Hyjal.
+    -- Demon Hunter -> İblis Avcısı, Night elves -> Gece elfleri, Felwood -> Felormanı, Hyjal.
     -- Niremius Darkwind -> Niremius Karayel (Dark + Wind). Demonic Missive -> İblis Resmi Yazısı.
     ["Title"]="Bir İblis Avcısı Bulmak",
-    ["Description"]="Bu resmi yazıyı çevirmek, düşmanın ne peşinde olduğunu keşfetmek için önemli olduğu kadar, bu resmi yazıyı nasıl aldıklarını çözmek için de gereklidir. Bize yardım etmek için en yetkin kişinin bir İblis Avcısı (Demon Hunter) olduğuna inanıyorum. Onlar fel enerjisini kuşanmış ve iblislerle savaşmaya yemin etmiş Gece elfleridir (Night elves). Burada hoş karşılanmazlar, ancak yine de görebilecekleri küçümsemeye rağmen kendilerini davaya adamışlardır. Son zamanlarda kuzey Kasvetfel Ormanı'nda (Felwood) Niremius Karayel (Niremius Darkwind) adında birinin görüldüğünü duydum. Onu bul ve bu resmi yazıyı ona göster.",
+    ["Description"]="Bu resmi yazıyı çevirmek, düşmanın ne peşinde olduğunu keşfetmek için önemli olduğu kadar, bu resmi yazıyı nasıl aldıklarını çözmek için de gereklidir. Bize yardım etmek için en yetkin kişinin bir İblis Avcısı (Demon Hunter) olduğuna inanıyorum. Onlar fel enerjisini kuşanmış ve iblislerle savaşmaya yemin etmiş Gece elfleridir (Night elves). Burada hoş karşılanmazlar, ancak yine de görebilecekleri küçümsemeye rağmen kendilerini davaya adamışlardır. Son zamanlarda kuzey Felormanı'nda (Felwood) Niremius Karayel (Niremius Darkwind) adında birinin görüldüğünü duydum. Onu bul ve bu resmi yazıyı ona göster.",
     ["Objectives"]="Niremius Karayel'i ara ve ona İblis Resmi Yazısı'nı (Demonic Missive) göster.",
     ["Progress"]="Benden ne istiyorsun?",
     ["Completion"]="Hyjal'da iblisler mi var? Ver bakalım şu Resmi Yazıyı! <Metne kısaca göz atar ve ardından başını sallar> Bu şifrelenmiş, bir anahtara (cipher) ihtiyacımız olacak.",
@@ -37480,7 +37480,7 @@ QuestTranslator_QuestData = {
     -- Arathi Highlands = Arathi Dağlık Bölgesi. Wife -> Eşim / Karım. Spare -> Yedek.
     ["40449"] = {
     ["Title"]="Ekinleri Korumak!",
-    ["Description"]="Selam dostum! Buraya ilk yerleşmeye başladığımızdan beri raptorundan dev örümceğine, ogresine kadar her türlü sorunla uğraşıyoruz! Chaser yerel yaban hayatını (wildlife) korkutup kaçırmada yeterince iyi iş çıkardı ancak son zamanlarda tarlalarımızı çiğnemekten bizimle savaşmaya kadar çok saldırganlaştılar. İşler o kadar kötüye gitti ki, durum sakinleşene kadar oğlumu Stromgarde'a (Stromgarde) göndermek zorunda kaldım. Eğer şu yaratıklardan (critters) bazılarını temizleyebilirsen, ben ve karım adına çok minnettar kalırız. O Ova Sürüngenlerinden (Plains Creeper) yaklaşık on tane ve Dağlık Bölge Kamçılılarından (Highland Thrasher) on tane daha yeterli olacaktır.",
+    ["Description"]="Selam dostum! Buraya ilk yerleşmeye başladığımızdan beri raptorundan dev örümceğine, ogresine kadar her türlü sorunla uğraşıyoruz! NEW_LINEChaser yerel yaban hayatını korkutup kaçırmada yeterince iyi iş çıkardı ancak son zamanlarda tarlalarımızı çiğnemekten bizimle savaşmaya kadar çok saldırganlaştılar. İşler o kadar kötüye gitti ki, durum sakinleşene kadar oğlumu Stromgarde'a (Stromgarde) göndermek zorunda kaldım. NEW_LINEEğer şu yaratıklardan bazılarını temizleyebilirsen, ben ve karım adına çok minnettar kalırız. O Ova Sürüngenlerinden (Plains Creeper) yaklaşık on tane ve Dağlık Bölge Kamçılılarından (Highland Thrasher) on tane daha yeterli olacaktır.",
     ["Objectives"]="Arathi Dağlık Bölgesi'ndeki (Arathi Highlands) Livingstone Çiftliği'nde (Livingstone Croft) bulunan Oswald Livingstone için 10 Ova Sürüngeni (Plains Creeper) ve 10 Dağlık Bölge Kamçılısı (Highland Thrasher) katlet.",
     ["Progress"]="Şu ana kadar herhangi bir şansın oldu mı?",
     ["Completion"]="Oh, bak sen, bizim için gerçekten kendini aşmışsın. Belki artık sezon için nihayet bol bir hasat (harvest) elde edebiliriz; al bakalım bunu, teşekkürümün bir nişanesi olarak, bu bir yedektir (spare).",
@@ -37941,7 +37941,7 @@ QuestTranslator_QuestData = {
     -- Arathi Highlands = Arathi Dağlık Bölgesi. Machine -> Makine.
     ["40450"] = {
     ["Title"]="Avcı'ya Yeniden Güç Vermek",
-    ["Description"]="Baksana, mühendislikten (engineering) biraz anlayan birini tanımıyorsun, değil mi? Avcı'yı (Chaser) yaklaşık bir yıl önce Güneykıyısı'ndan (Southshore) almıştık, aslında bir goblin tüccardan. Harikaydı ama yavaş yavaş bozulmaya veya biraz yavaşlamaya başladı. Bir noktada yedek bir Altın Güç Çekirdeği'ne (Gold Power Core) ihtiyacı olacağı söylenmişti ve bence sorun bu olabilir. Ancak sorunun kendisi, burada çok uzakta olmamız ve bir tane üretmek için mühendislik hakkında pek bir şey bilmemem, hatta elimde kaynak olmaması! Eğer bir tane bulabilirsen, Avcı'nın oldukça mutlu olacağından eminim.",
+    ["Description"]="Baksana, mühendislikten biraz anlayan birini tanımıyorsun, değil mi? Avcı'yı yaklaşık bir yıl önce Güneykıyısı'ndan (Southshore) almıştık, aslında bir goblin tüccardan. Harikaydı ama yavaş yavaş bozulmaya veya biraz yavaşlamaya başladı. NEW_LINEBir noktada yedek bir Altın Güç Çekirdeği'ne (Gold Power Core) ihtiyacı olacağı söylenmişti ve bence sorun bu olabilir. Ancak sorunun kendisi, burada çok uzakta olmamız ve bir tane üretmek için mühendislik hakkında pek bir şey bilmemem, hatta elimde kaynak olmaması! Eğer bir tane bulabilirsen, Avcı'nın oldukça mutlu olacağından eminim.",
     ["Objectives"]="Arathi Dağlık Bölgesi'ndeki (Arathi Highlands) Livingstone Çiftliği'nde (Livingstone Croft) bulunan Avcı (Chaser) için bir Altın Güç Çekirdeği (Gold Power Core) topla.",
     ["Progress"]="Biiiiip!",
     ["Completion"]="<Altın Güç Çekirdeği takıldıktan sonra Avcı'nın yeniden çalışması bir an alır; makine (machine) neşeyle bipleyerek hayata döner.>",
@@ -42185,7 +42185,7 @@ QuestTranslator_QuestData = {
     -- Boulderfist Truncheon's -> Kayayumruk Copları. Sergeant Karster -> Çavuş Karster kalmıştır, Gallant Square -> Yiğitler Meydanı (Gallant + Square), Stromgarde Keep = Stromgarde Kalesi (Stromgarde Keep). Mighty foe -> güçlü bir düşman, reward -> ödül.
     ["40453"] = {
     ["Title"]="Kayayumruk Karargahı",
-    ["Description"]="Ogreler bize çok baş ağrısı (headache) çıkardı ve şehrin bir bölümünü elimizden aldı. Son ihtiyacımız olan şey, içeridekilere yardım etmek için surların (walls) dışından daha fazla kuvvetin gelmesidir. Kuzeyde, şehrin hemen dışında, bir ogre sığınağı (ogre sanctuary) olan küçük bir karargah olan Boulder'gor yer alıyor. Şehre daha fazlasının akın etmemesi için oraya gitmeni ve mücadeleyi  ayaklarına götürmeni istiyorum. Kanıt olarak bana yirmi Kayayumruk Copu (Boulderfist Truncheons) getir, Stromgarde seni ödüllendirecektir.",
+    ["Description"]="Ogreler bize çok baş ağrısı çıkardı ve şehrin bir bölümünü elimizden aldı. Son ihtiyacımız olan şey, içeridekilere yardım etmek için surların dışından daha fazla kuvvetin gelmesidir. NEW_LINEKuzeyde, şehrin hemen dışında, bir ogre sığınağı olan küçük bir karargah olan Boulder'gor yer alıyor. Şehre daha fazlasının akın etmemesi için oraya gitmeni ve mücadeleyi  ayaklarına götürmeni istiyorum. NEW_LINEKanıt olarak bana yirmi Kayayumruk Copu (Boulderfist Truncheons) getir, Stromgarde seni ödüllendirecektir.",
     ["Objectives"]="Stromgarde Kalesi'ndeki Yiğitler Meydanı'nda (Gallant Square) bulunan Çavuş Karster (Sergeant Karster) için 20 Kayayumruk Copu (Boulderfist Truncheons) topla.",
     ["Progress"]="İş tamamlandı mı?",
     ["Completion"]="Ogreler güçlü bir düşmandır (mighty foe) ve mükemmel bir iş çıkarmış olsan da korkarım bu yeterli olmayacaktır. İşte, söz verdiğim gibi.",
