@@ -765,7 +765,6 @@ MobNpcTranslator_Data = {
 [ "Grell" ] = "Grel",
 [ "Grellkin" ] = "Grel Soyu",
 [ "Tarindrella" ] = "Tarindrella",
-[ "Greenpaw" ] = "Greenpaw",
 [ "Githyiss the Vile" ] = "Githyiss the Vile",
 [ "Strigid Owl" ] = "Alaca Baykuş",
 [ "Strigid Screecher" ] = "Alaca Çığlıkçı Baykuş",
