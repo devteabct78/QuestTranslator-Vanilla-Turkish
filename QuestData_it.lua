@@ -26277,10 +26277,10 @@ QuestTranslator_QuestData = {
 
 -- Artık Gevrek Cüce Yok
     ["41309"] = {
-    -- "Brittle Gnome More" başlığındaki kelime oyunu temaya uygun olarak "Artık Gevrek Cüce Yok" şeklinde aktarılmıştır. Steamwheedle Port -> Cızbızçark Limanı.
+    -- "Brittle Gnome More" başlığındaki kelime oyunu temaya uygun olarak "Artık Gevrek Cüce Yok" şeklinde aktarılmıştır. Steamwheedle Port -> Buharçarkı Limanı.
     ["Title"]="Artık Gevrek Cüce Yok",
     ["Description"]="<Zalashji yağlı bezleri tüpün içine sıkar. Boğuk nefesi altında anlaşılmaz kelimeler mırıldanarak, yabancı bir büyü yapar ve karışımın canlı bir ışıkla parlamasını sağlar.> Al bunu, yabancı. Bu yağ, taşların yüzeyindeki çatlakları kapatırken hâlâ doğru kesimler yapılmasına izin vermeli. Şimdi git, onun beni sık sık ziyaret etmesine izin veriyor olsam da senin için aynısını söyleyemem. Soydaşlarımdan daha misafirperver olabilirim ama bu sabrımın sonsuz olduğu anlamına gelmez.",
-    ["Objectives"]="Zalashji'nin Değerli Taş Yağı (Gemstone Oil) ile Cızbızçark Limanı'ndaki (Steamwheedle Port) Fanzy Kıvılcımkaynağı'na (Fanzy Sparkspring) geri dön.",
+    ["Objectives"]="Zalashji'nin Değerli Taş Yağı (Gemstone Oil) ile Buharçarkı Limanı'ndaki (Steamwheedle Port) Fanzy Kıvılcımkaynağı'na (Fanzy Sparkspring) geri dön.",
     ["Progress"]="Bu kadar çabuk mu döndün?",
     ["Completion"]="Oho, işte aradığım şey bu. Bu mucizevi karışımla Traxis'in o batırdığı işi kurtarabileceğimizi hemen söyleyebilirim. Zalashji ile birlikte mi geldin? O yalnız bir... adam mı? Yılan mı? Bilmiyorum ama şu ana kadar mücevher işlemeciliğinin tarihi ve sanatı hakkında uzun ve felsefi bir konuşmaya hayır demedi. Kim bilir, belki bir gün ikimizin nasıl tanıştığını sana anlatırım! Rahatsız edici müşteri çatışmalarını önlememde bana yardımcı olduğun için seni ödüllendirmeme izin ver. Senin de mücevher işlemeciliğinde yetkin olduğunu varsaymakta haklı mıyım? Şaşırma, bu zanaatta boşuna usta olmadım. Adil bir ödeme olarak bilgimin bir kısmını ücretsiz olarak paylaşayım.",
     ["minlevel"]="0",
@@ -26595,10 +26595,10 @@ QuestTranslator_QuestData = {
 
 -- Kum Peşinde
     ["40589"] = {
-    -- Baggle Hackrust -> Baggle Paslıbalta. Steamwheedle Port -> Cızbızçark Limanı, Eastmoon Ruins -> Doğudolunayı Harabeleri.
+    -- Baggle Hackrust -> Baggle Paslıbalta. Steamwheedle Port -> Buharçarkı Limanı, Eastmoon Ruins -> Doğudolunayı Harabeleri.
     ["Title"]="Kum Peşinde",
-    ["Description"]="Haftalar önce batıdaki harabeleri incelemeye başlaması için bir ekip göndermiştik ama henüz ortaya çıkmadılar, çıt bile yok. Çöl tehlikeli bir yer, bu yüzden buralarda korkunç bir kadere kurban gitmiş olabileceklerine dair söylentiler dönüyor. Muhtemeldir tabii! Asıl önemli olan, onlarla birlikte ne gönderdiğimiz. Bilirsin ya, birine güvendiğimizde genellikle onlara değerli teçhizatlar veririz. Çok para eden cinsten, anlarsın ya? Dışarı çıkıp o ekibi bulmanı, daha da önemlisi geriye ne kaldıysa ondan Turbo-Tarayıcılı Süzgeçölçer'i (Turbo-Scan Filtronomitor) geri almanı istiyorum! Doğudolunayı Harabeleri'nin (Eastmoon Ruins) yakınlarında aşağıda olmalılardı, o civara bir bak.",
-    ["Objectives"]="Cızbızçark Limanı'ndaki (Steamwheedle Port) Baggle Paslıbalta (Baggle Hackrust) için Cızbızçark Ekibini bul ve Turbo-Tarayıcılı Süzgeçölçer'i geri getir.",
+    ["Description"]="Haftalar önce batıdaki harabeleri incelemeye başlaması için bir ekip göndermiştik ama henüz ortaya çıkmadılar, çıt bile yok. NEW_LINEÇöl tehlikeli bir yer, bu yüzden buralarda korkunç bir kadere kurban gitmiş olabileceklerine dair söylentiler dönüyor. Muhtemeldir tabii! NEW_LINEAsıl önemli olan, onlarla birlikte ne gönderdiğimiz. Bilirsin ya, birine güvendiğimizde genellikle onlara değerli teçhizatlar veririz. Çok para eden cinsten, anlarsın ya? NEW_LINEDışarı çıkıp o ekibi bulmanı, daha da önemlisi geriye ne kaldıysa ondan Turbo-Tarayıcılı Süzgeçölçer'i (Turbo-Scan Filtronomitor) geri almanı istiyorum! NEW_LINEDoğudolunayı Harabeleri'nin (Eastmoon Ruins) yakınlarında aşağıda olmalılardı, o civara bir bak.",
+    ["Objectives"]="Buharçarkı Limanı'ndaki (Steamwheedle Port) Baggle Paslıbalta (Baggle Hackrust) için Buharçarkı Ekibini bul ve Turbo-Tarayıcılı Süzgeçölçer'i geri getir.",
     ["Progress"]="O Turbo-Tarayıcılı Süzgeçölçer son teknolojidir, onu kaybetmek yirmi goblin kaybetmek gibidir.",
     ["Completion"]="Oh bebeğim, hâlâ sapasağlam; şuna bir bak, biraz ısı hasarı var ve olmaması gereken yerlerde biraz kum var ama kırılmamış. Bunu geri getirerek bizi koca bir yığın altından kurtardın, bu onu bana  kendin vermek gibidir! Al bakalım, bu yaptığın işin karşılığı olacaktır.",
     ["minlevel"]="0",
@@ -31795,7 +31795,7 @@ QuestTranslator_QuestData = {
     -- Glasshide Gazer -> Camderi Gözcü. Steamwheedle Port -> Buharlıteker Limanı.
     -- Gelweg Darkbrow -> Gelweg Karakaş (Dark + Brow), Tanaris.
     ["Title"]="Altın Camderi Pulları",
-    ["Description"]="Çöl, öyle eşsiz bir yer ki; amansız ve gaddar kumlar, aşırı sıcak ve su yokluğu yüzünden telef olan insanların söylentilerini duydum. Bana biraz geldiğim yeri hatırlatıyor, ayen? Böyle bir yerde sadece en gaddar yaratıklar hayatta kalabilir, bunlardan biri de tüm ömrünü güneşin altında geçirmiştir. Camderi Gözcü'nün (Glasshide Gazer) velinimetimin ele geçirmek istediği kendine has altın bir pulu var. Onları güneyde, engin çölü mesken tutmuş halde bulabilirsin; bana bu pullardan on iki tane topla, karşılığında iyi bir ödeme almanı sağlayacağım.",
+    ["Description"]="Çöl, öyle eşsiz bir yer ki; amansız ve gaddar kumlar, aşırı sıcak ve su yokluğu yüzünden telef olan insanların söylentilerini duydum. Bana biraz geldiğim yeri hatırlatıyor, ayen? NEW_LINEBöyle bir yerde sadece en gaddar yaratıklar hayatta kalabilir, bunlardan biri de tüm ömrünü güneşin altında geçirmiştir. NEW_LINECamderi Gözcü'nün (Glasshide Gazer) Bağışçımın ele geçirmek istediği kendine has altın bir pulu var. NEW_LINEOnları güneyde, engin çölü mesken tutmuş halde bulabilirsin; bana bu pullardan on iki tane topla, karşılığında iyi bir ödeme almanı sağlayacağım.",
     ["Objectives"]="Tanaris'teki Buharlıteker Limanı'nda (Steamwheedle Port) bulunan Gelweg Karakaş (Gelweg Darkbrow) için 10 adet Altın Camderi Pulu (Golden Glasshide Scales) topla.",
     ["Progress"]="Ayen, dışarısı epey sıcak, ha? Şu pullarla ilgili bir gelişme var mı?",
     ["Completion"]="Oh, şunlara bir baksana; o kadar parlak ve ışıltılılar ki, neredeyse altın sikkelere benziyorlar!",
@@ -43111,10 +43111,10 @@ QuestTranslator_QuestData = {
     -- Desert holds secrets -> çöl birçok sır barındırıyor, magical properties buried sand -> kumun derinliklerine gömülü sihirsel özellikler. Leaking emanations stir ground swirling elementals sand wind -> sızan ışıtmalar toprağı kum ve rüzgardan oluşan girdaplı elementellere dönüştürüyor. Look into anyway ->  araştırmak için buradayım. Concrete proof -> somut kanıt elde etmek, Gusting Vortex -> Esintili Girdap kalmıştır, Tanaris = Tanaris, collection Harmonized Sand -> tek bir Uyumlu Kum birikintisi. Warn rare valuable -> uyarıyorum nadir ve değerlidir, brave travelers died search -> ararken ölen pek çok cesur gezgin. Harmonized state give up looking -> uyumlu bir durumda olmayacaktır aramaktan vazgeçme aramaya devam et. Ginlo Taxxo -> Ginlo Taxxo kalmıştır, Steamwheedle Port -> Steamwheedle Limanı, fabled -> dillerden düşmeyen / efsanevi. Bright shiny golden coins -> parlak ve ışıltılı  altın paralara benziyorlar.
     ["40592"] = {
     ["Title"]="Esintili Girdap",
-    ["Description"]="Bu çöl birçok sır (secrets) barındırıyor ve bunların çoğu kumun derinliklerine gömülü sihirsel özelliklerdir (magical properties). Sızan ışıtmalar (leaking emanations), toprağı kum ve rüzgardan oluşan girdaplı elementellere (elementals) dönüştürmeye başladı! En azından, ben  burayı araştırmak (look into) için geldim! Somut kanıt (concrete proof) elde etmek için, Tanaris'in dört bir yanında dolaşan birçok Esintili Girdap'tan (Gusting Vortex) birini bulmanı, onları öldürmeni ve tek bir Uyumlu Kum (Harmonized Sand) toplamanı istiyorum. Seni uyarıyorum, Uyumlu Kum nadir ve değerlidir; onu ararken ölen pek çok cesur gezgin (brave travelers) oldu. Esintili Girdap elementellerinin hepsi uyumlu bir durumda (harmonized state) olmayacaktır, bu yüzden aramaktan vazgeçme ve bulana kadar aramaya devam et!",
-    ["Objectives"]="Tanaris'teki Steamwheedle Limanı'nda (Steamwheedle Port) bulunan Ginlo Taxxo'ya bir Uyumlu Kum (Harmonized Sand) getir.",
+    ["Description"]="Bu çöl birçok sır barındırıyor ve bunların çoğu kumun derinliklerine gömülü sihirsel özelliklerdir. Sızan ışımalar, toprağı kum ve rüzgardan oluşan girdaplı elementellere dönüştürmeye başladı! NEW_LINEEn azından, ben  burayı araştırmak için geldim! NEW_LINESomut kanıt elde etmek için, Tanaris'in dört bir yanında dolaşan birçok Esintili Girdap'tan (Gusting Vortex) birini bulmanı, onları öldürmeni ve tek bir Uyumlu Kum (Harmonized Sand) toplamanı istiyorum. NEW_LINESeni uyarıyorum, Uyumlu Kum nadir ve değerlidir; onu ararken ölen pek çok cesur gezgin oldu. NEW_LINEEsintili Girdap elementellerinin hepsi uyumlu bir durumda olmayacaktır, bu yüzden aramaktan vazgeçme ve bulana kadar aramaya devam et!",
+    ["Objectives"]="Tanaris'teki Buharçarkı Limanı'nda (Steamwheedle Port) bulunan Ginlo Taxxo'ya bir Uyumlu Kum (Harmonized Sand) getir.",
     ["Progress"]="O dillerden düşmeyen Uyumlu Kum'u (Harmonized Sand) bulma konusunda hiç şansın yaver gitti mi?",
-    ["Completion"]="Oh, şunlara bir bakar mısın, çok parlak ve ışıltılı (bright and shiny), adeta altın paralara (golden coins) benziyorlar!",
+    ["Completion"]="Oh, şunlara bir bakar mısın, çok parlak ve ışıltılı, adeta altın paralara benziyorlar!",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end The Gusting Vortex
@@ -43387,7 +43387,7 @@ QuestTranslator_QuestData = {
     -- Eyepatch -> göz bandı, pearled necklace -> incili kolye, muscle -> kaba kuvvet / fedai, YOUR_NAME -> YOUR_NAME.
     ["60153"] = {
     ["Title"]="Demir Yama",
-    ["Description"]="İkili bir ajan (double agent) olarak, o orku gemiye aldıklarında  gemilerindeydim; muharebede gerçek bir becerisi (skill in combat) olmadığını gördüğüm için pek akıllıca bir fikir değildi ama ne olursa olsun o mükemmel bir korsan; yalancı, kumarbaz, sarhoş, ne ararsan var. Ona küçük bir filonun Kaptanı (Captain) adını verdiler ve muharebe deneyiminin (combat experience) yeni askerlere bulaşmasını umuyorlar, tam bir saçmalık. <Ian yere tükürür (spits).> Onu gemilerden birinde bulacaksın, onu öldür ve kellesini Baron'a getir, ben göze batmayacağım (lay low), şimdi kimse bizi görmeden git!",
+    ["Description"]="İkili bir ajan olarak, o orku gemiye aldıklarında  gemilerindeydim; muharebede gerçek bir becerisi olmadığını gördüğüm için pek akıllıca bir fikir değildi ama ne olursa olsun o mükemmel bir korsan; yalancı, kumarbaz, sarhoş, ne ararsan var. NEW_LINEOna küçük bir filonun Kaptanı adını verdiler ve muharebe deneyiminin yeni askerlere bulaşmasını umuyorlar, tam bir saçmalık. NEW_LINE<Ian yere tükürür.> NEW_LINEOnu gemilerden birinde bulacaksın, onu öldür ve kellesini Baron'a getir, ben göze batmayacağım, şimdi kimse bizi görmeden git!",
     ["Objectives"]="Ironpatch'i öldür ve kellesini Baron Revilgaz'a ulaştır.",
     ["Progress"]="Kımılda biraz, yoksa ikimiz de canımızdan oluruz!",
     ["Completion"]="İyi iş, YOUR_NAME, bunu timsahlara yem edeceğim. <Baron kelleyi bir kovaya fırlatır.> Bu da ne? Hala üzerinde bir göz bandı (eyepatch) var, istersen alabilirsin ya da sana bu incili kolyeyi (pearled necklace) veririm, sadece birini alabilirsin. Hizmetlerin için teşekkürler, buralarda takılmaya devam et, ne zaman daha fazla kaba kuvvete (muscle) ihtiyacım olacağını asla bilemezsin.",
@@ -46120,10 +46120,10 @@ QuestTranslator_QuestData = {
     -- Baron Revilgaz -> Baron Revilgaz kalmıştır, Morgan Storm -> Morgan Storm kalmıştır, shank -> bıçaklamak / şişlemek. reinforcements -> takviyeler.
     ["60152"] = {
     ["Title"]="Ona Fırtına Morgan Derler",
-    ["Description"]="YOUR_NAME, en kötü korsan tayfası olan Kanlıyel Korsanları'nın (Bloodsail Buccaneers) liderleri dedikleri o haydutları katletme yolunda  olduğunu duyuyorum. Görüyorsun ya, bu aptallar yeni bir üye  aldılar ve o gafil zihinlerinde onun kendilerine büyük ölçüde yardım  edeceğini sanıyorlar. <Baron Revilgaz alay eder.> İçeride bir adamım var, adı Morgan Storm; seni  gördüğü yerde şişlemeyecek (shank) bir yoldaş ara.",
+    ["Description"]="YOUR_NAME, en kötü korsan tayfası olan Kanlıyel Korsanları'nın (Bloodsail Buccaneers) liderleri dedikleri o haydutları katletme yolunda  olduğunu duyuyorum. NEW_LINEGörüyorsun ya, bu aptallar yeni bir üye  aldılar ve o gafil zihinlerinde onun kendilerine büyük ölçüde yardım  edeceğini sanıyorlar. NEW_LINE<Baron Revilgaz alay eder.> NEW_LINEİçeride bir adamım var, adı Morgan Storm; seni  gördüğü yerde şişlemeyecek bir yoldaş ara.",
     ["Objectives"]="Fırtına Morgan'ı (Morgan the Storm) bul.",
     ["Progress"]="Beni bu aptallardan  kurtar, benim tayfam diğer herkesten  üstündür.",
-    ["Completion"]="Beni Baron mu gönderdi? Gerçekten takviye (reinforcements) gönderecek kadar ne kibar ama; yaklaş dostum, bana  kulağını ver, bunu öylece yüksek sesle  söyleyemem!",
+    ["Completion"]="Beni Baron mu gönderdi? Gerçekten takviye gönderecek kadar ne kibar ama; yaklaş dostum, bana  kulağını ver, bunu öylece yüksek sesle  söyleyemem!",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end They Call Him Morgan the Storm
