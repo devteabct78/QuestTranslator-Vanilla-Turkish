@@ -681,7 +681,7 @@ QuestTranslator_QuestData = {
     -- Stalvan Efsanesi
     ["70"] = {
     ["Title"]="Stalvan Efsanesi",
-    ["Description"]="Stalvan ismi bir şeyler çağrıştırıyor. Şimdi hatırladım.NEW_LINEYıllar önce, fırtınalı bir gecede, bir ulak geldi, gece için sığınak arıyordu. Gece yarısına doğru adam çığlık atarak merdivenlerden aşağı koştu, yüzü korkudan solmuştu. Üzerinde hala yatak kıyVebaleri vardı ve sağanak yağmurun içinde kayboldu.NEW_LINEAcelesinden mektuplarını üst kattaki sandıkta unuttu. Onları almak için hiç geri dönmedi. Stormwind'deki Kanal Bölgesi'ne gönderilmek üzere Stalvan'dan bir mektup kaldı. Buyurun alın.",
+    ["Description"]="Stalvan ismi bir şeyler çağrıştırıyor. Şimdi hatırladım.NEW_LINEYıllar önce, fırtınalı bir gecede, bir ulak geldi, gece için sığınak arıyordu. Gece yarısına doğru adam çığlık atarak merdivenlerden aşağı koştu, yüzü korkudan solmuştu. Üzerinde hala yatak kıyafetleri vardı ve sağanak yağmurun içinde kayboldu.NEW_LINEAcelesinden mektuplarını üst kattaki sandıkta unuttu. Onları almak için hiç geri dönmedi. Stormwind'deki Kanal Bölgesi'ne gönderilmek üzere Stalvan'dan bir mektup kaldı. Buyurun alın.",
     ["Objectives"]="Stalvan'ın Teslim Edilmemiş Mektubunu sandıktan alın ve Stormwind'deki Kanal Bölgesine teslim edin.",
     ["Progress"]="Orada ne var? Şuna bir bakayım. . .",
     ["Completion"]="Bunu buraya getirecek cesaretin var.",
@@ -3070,7 +3070,7 @@ QuestTranslator_QuestData = {
     -- Harlan'ın İkmale İhtiyacı Var
     ["333"] = {
     ["Title"]="Harlan'ın İkmale İhtiyacı Var",
-    ["Description"]="Son zamanlarda çok iş yapıyoruz. Görünüşe göre herkes zırh ve sağlam giysiler alıyor. Sanki önümüzde soğuk ve sert bir mevsim varmış gibi...NEW_LINEAma bunlar gelecekle ilgili endişeler. Bugünkü endişem, satacak örme giysilerimin tükeniyor olması. Tedarikçimizden yeni bir parti kıyVebae ihtiyacım var.NEW_LINEBu isteğimi Canal Tailor and Fit Shop'taki Rema Schneider'a iletirseniz çok minnettar olurum.",
+    ["Description"]="Son zamanlarda çok iş yapıyoruz. Görünüşe göre herkes zırh ve sağlam giysiler alıyor. Sanki önümüzde soğuk ve sert bir mevsim varmış gibi...NEW_LINEAma bunlar gelecekle ilgili endişeler. Bugünkü endişem, satacak örme giysilerimin tükeniyor olması. Tedarikçimizden yeni bir parti kıyafete ihtiyacım var.NEW_LINEBu isteğimi Canal Tailor and Fit Shop'taki Rema Schneider'a iletirseniz çok minnettar olurum.",
     ["Objectives"]="Kanal Terzi Dükkanına gidin ve Rema Schneider'a Harlan Bagley'den Kumaş Talebini getirin.",
     ["Progress"]="Bay Bagley'den haber getirdin mi?",
     ["Completion"]="Burada Harlan'ın işlerinin iyi gittiği yazıyor. Bu iyi haber, ama insanların neden bu kadar zırha ihtiyaç duyduklarını merak ediyorum. Açık savaş hakkında hiçbir şey duymadım... Soyluların bize söylemediği bir şey mi var?NEW_LINETalebiniz için teşekkür ederim. İşte ödemeniz, ben de Harlan'ın malzemelerini almasını sağlayacağım.",
@@ -3083,7 +3083,7 @@ QuestTranslator_QuestData = {
     ["Title"]="Thurman için paket",
     ["Description"]="Oğlum Thurman, Büyücüler Mahallesi'ndeki Larson Giysi İmalathanesi'nde çıraktır. Bugün acelesi vardı ve makası ile iğnelerini unuttu. Sizin gibi büyük bir YOUR_CLASSin önemli işleri olduğunu biliyorum ama aletleri olmadan Thurman çıraklığını yapamaz!NEW_LINELütfen, YOUR_NAME. Oğlumun dikiş takımını ona götürebilir misin? Larson Clothiers, Mage's Quarter'daki iki giyim mağazasından biri - Mage's Tower'ın yakınında, daha derinde olanı.",
     ["Objectives"]="Stormwind Mage Quarter'daki Larson Clothiers'a gidin ve Thurman Schneider'a Dikiş Takımını verin.",
-    ["Progress"]="KıyVeba almaya mı geldin?",
+    ["Progress"]="kıyafet almaya mı geldin?",
     ["Completion"]="Oh, patlama! Kitimi unutmanın beni işten kurtaracağını sanmıştım. Şimdi sanırım Larson'lara dikiş işlerinde yardım etmem gerekecek...NEW_LINEOh, neyse. Eğlence sonra gelecek sanırım.",
     ["minlevel"]="0",
     ["questlevel"]="0",
@@ -3447,7 +3447,7 @@ QuestTranslator_QuestData = {
     -- Lanetliler
     ["376"] = {
     ["Title"]="Lanetliler",
-    ["Description"]="Görevlerim arasında yaralı savaşçılarımızla ilgilenmek, zırh ve kıyVeba dikmek ve Gölge Rahip Sarvis'e ihtiyaç duyabileceği her konuda yardımcı olmak var.NEW_LINEGörünüşe bakılırsa sen de onun hizmetine gireceksin... Akılsızları avlamak, eğer aklından geçenleri biliyorsam. Eğer tek parça kalmak istiyorsan -ki istediğinden şüphem yok- belki ben yardımcı olabilirim. Pençelerim ve kanatlarım tükeniyor, eğer bana biraz getirirsen sana zırh bulabilirim. Güneyde çok sayıda kurt ve yarasa bulacaksın.",
+    ["Description"]="Görevlerim arasında yaralı savaşçılarımızla ilgilenmek, zırh ve kıyafet dikmek ve Gölge Rahip Sarvis'e ihtiyaç duyabileceği her konuda yardımcı olmak var.NEW_LINEGörünüşe bakılırsa sen de onun hizmetine gireceksin... Akılsızları avlamak, eğer aklından geçenleri biliyorsam. Eğer tek parça kalmak istiyorsan -ki istediğinden şüphem yok- belki ben yardımcı olabilirim. Pençelerim ve kanatlarım tükeniyor, eğer bana biraz getirirsen sana zırh bulabilirim. Güneyde çok sayıda kurt ve yarasa bulacaksın.",
     ["Objectives"]="4 Çöpçü Patisi ve 4 Alacakaranlık Yarasası Kanadı elde et.",
     ["Progress"]="Ben sana zırh getirene kadar zarar görmemek için elinden geleni yap.",
     ["Completion"]="Teşekkürler, YOUR_NAME. Bu zırh sana yardımcı olacaktır.NEW_LINEUmarım son giyenden daha çok işine yarar.",
@@ -5209,7 +5209,7 @@ QuestTranslator_QuestData = {
     ["Title"]="Perenolde Tacı",
     ["Description"]="Perenolde Tacı, o krallık yıkılmadan önce Alterac'ı yöneten aile olan Perenolde \"soylularının\" eski bir aile yadigarıdır. Demirocak'taki usta mücevherciler tarafından yapıldığı ve en kaliteli zümrütlerle süslendiği söylenir.\n\nAlterac yok edildiğinde Taç kayboldu, ancak Cimri Grel'borg adında bir Ogr Büyücüsü'nün tacı bulduğu ve şimdi daha fazla hazine aramak için Alterac Harabeleri'nde gezindiği söylentileri var.\n\nTacı bizim için ele geçirmeni istiyoruz.",
     ["Objectives"]="Perenolde Tacı'nı Fırtınadiyarı'ndaki Remington Ridgewell'a getir.",
-    ["Progress"]="Selamlar, YOUR_NAME. Pantolonumun paçalarına basmamaya çalış lütfen. Bu kıyVeba yeni dikildi.",
+    ["Progress"]="Selamlar, YOUR_NAME. Pantolonumun paçalarına basmamaya çalış lütfen. Bu kıyafet yeni dikildi.",
     ["Completion"]="Ah, bu harika. Tabii ki temizlenmesi gerekecek ama gerçekten kendinizi aştınız, YOUR_NAME. Birinin tacı hazırlamasını ve en kısa sürede koleksiyonumuza yerleştirmesini sağlayacağım.\n\nSizin de katılacağınız üzere, minnettarlığımız da koleksiyonumuz kadar büyük.",
     ["minlevel"]="0",
     ["questlevel"]="0",
@@ -11772,7 +11772,7 @@ QuestTranslator_QuestData = {
     -- İlahiyat Kubbesi
     ["1644"] = {
     ["Title"]="İlahiyat Kubbesi",
-    ["Description"]="Kalplerini kutsa, son on yıldaki Bela saldırıları nedeniyle çoğunun ailesi yok.NEW_LINEKocam John, çocuklar için gömlek ve pantolon yapmam için gerekli malzemeleri topluyor, ancak bunu yapacak zamanım bile olmadı. Tabaklarında yemek ve başlarının üzerinde bir çatı tutmaya çok odaklandım.NEW_LINEO da ne? Yardım etmek ister misin? Işığa şükürler olsun, sana da teşekkürler YOUR_NAME.NEW_LINEÇocuklara kıyVeba dikebilmem için bana biraz keten bezi getirebilirseniz, bu bana çok yardımcı olur.",
+    ["Description"]="Kalplerini kutsa, son on yıldaki Bela saldırıları nedeniyle çoğunun ailesi yok.NEW_LINEKocam John, çocuklar için gömlek ve pantolon yapmam için gerekli malzemeleri topluyor, ancak bunu yapacak zamanım bile olmadı. Tabaklarında yemek ve başlarının üzerinde bir çatı tutmaya çok odaklandım.NEW_LINEO da ne? Yardım etmek ister misin? Işığa şükürler olsun, sana da teşekkürler YOUR_NAME.NEW_LINEÇocuklara kıyafet dikebilmem için bana biraz keten bezi getirebilirseniz, bu bana çok yardımcı olur.",
     ["Objectives"]="Stormwind'deki Stephanie Turner'a 10 Keten Kumaş getir.",
     ["Progress"]="Umarım John'um Ironforge'da daha şanslı olur. Oraya gitmekten hiç hoşlanmıyor çünkü çocukları ve beni yalnız bırakıyor ama bunun yapılması gerektiğini biliyor. Çok iyi kalplidir.NEW_LINEBazı yıllar diğerlerinden daha kolay oldu ama bu seferki çok daha zordu. Sanki havada bir şey büyük bir değişimin sinyalini veriyor. Kim bilir?",
     ["Completion"]="",
@@ -11818,7 +11818,7 @@ QuestTranslator_QuestData = {
     ["Title"]="İlahiyat Kubbesi",
     ["Description"]="Eşim ve ben Stormwind'de bir yetimhane işletiyoruz, çoğunlukla son on yılda Bela'nın saldırıları nedeniyle ailelerini kaybeden çocuklar için. Buradaki vatandaşlardan daha fazla erzak toplamak için her ay Ironforge'a geliyorum ve yardım edebilecekleri bir şey olup olmadığını görmek için çeşitli gruplarla konuşuyorum.NEW_LINEBu yolculuk çok yavaş geçti ve pek verimli olmadı.NEW_LINEKarıma giysi yapması için biraz daha keten bulabilirsem, sonunda eve bir sevkiyat gönderebilirim.",
     ["Objectives"]="Ironforge'daki John Turner'a 10 Keten Kumaş getir.",
-    ["Progress"]="Buradaki ve tüm Azeroth'taki tüccarların akınıyla birlikte, yetimhanemizdeki çocuklara kıyVeba yapmak için kullandığımız eşyalar azaldı. Karımın onlar için yeni kıyVebaler yapabilmesi için keten toplamama yardım etmen çok asilce bir davranış YOUR_NAME. Teşekkür ederim.NEW_LINEUmarım yakında evime, eşimin yanına dönebilirim.",
+    ["Progress"]="Buradaki ve tüm Azeroth'taki tüccarların akınıyla birlikte, yetimhanemizdeki çocuklara kıyafet yapmak için kullandığımız eşyalar azaldı. Karımın onlar için yeni kıyafetler yapabilmesi için keten toplamama yardım etmen çok asilce bir davranış YOUR_NAME. Teşekkür ederim.NEW_LINEUmarım yakında evime, eşimin yanına dönebilirim.",
     ["Completion"]="Bu senin için çok harika, YOUR_NAME. Tekrar teşekkür ederim.NEW_LINEBunu benim için yaptığın için asil bir adamsın. Işığı takip etmeyi seçmiş olman hiç de şaşırtıcı değil. Keşke yaptıklarının karşılığını sana ödeyebilmenin bir yolu olsaydı... Bu ne? En azından bunu mu yapabilirsin? Gördün mü? İşte bundan bahsediyorum, YOUR_NAME Sonuna kadar asil.NEW_LINEGüvende olun ve Işık seyahatlerinizde sizi korusun.",
     ["minlevel"]="0",
     ["questlevel"]="0",
@@ -13396,7 +13396,7 @@ QuestTranslator_QuestData = {
     -- Ticaret Araçları
     ["1999"] = {
     ["Title"]="Ticaret Araçları",
-    ["Description"]="Ambermill'deki Kirin Tor'un büyücüleri, Dalaran'ın mevcut durumuyla ilgili önemli belgeleri sakladılar. Bunu mahkumlarımızdan birinin itiraflarından biliyoruz. Lord Varimathras onları kurtarma görevini Ölüm Avcıları'na verdi.NEW_LINEBu görev sana düşüyor, YOUR_NAME. Ancak bazı ekipmanlara ve kilit açma bilgisine ihtiyacın olacak. Yola çıkmadan önce kıyVebaçimiz Estelle Gendry ile konuşun ve ondan bir takım aletler isteyin.",
+    ["Description"]="Ambermill'deki Kirin Tor'un büyücüleri, Dalaran'ın mevcut durumuyla ilgili önemli belgeleri sakladılar. Bunu mahkumlarımızdan birinin itiraflarından biliyoruz. Lord Varimathras onları kurtarma görevini Ölüm Avcıları'na verdi.NEW_LINEBu görev sana düşüyor, YOUR_NAME. Ancak bazı ekipmanlara ve kilit açma bilgisine ihtiyacın olacak. Yola çıkmadan önce kıyafetçimiz Estelle Gendry ile konuşun ve ondan bir takım aletler isteyin.",
     ["Objectives"]="Dalaran Durum Raporu'nu bulun ve Yeraltı Şehri'nin Haydutlar Mahallesi'ndeki Mennet Carkad'a iade edin.",
     ["Progress"]="Belgelerin yerini tespit ettiniz mi, YOUR_NAME ?",
     ["Completion"]="Çok iyi, YOUR_NAME! Kilit açma sanatını iyi öğrenmişsin, hem de beklediğimden daha hızlı.NEW_LINEGörüyorum ki sana güvenmekte haklıymışım. İnan bana evlat, bu işte çok ilerleyeceğini tahmin ediyorum.",
@@ -17902,7 +17902,7 @@ QuestTranslator_QuestData = {
     ["Description"]="Magatha'nın Ragefire Chasm'da ilgisini çeken tek şey troglar değildir. Hizmetkârlarından Maur Grimtotem'in Uçurum'dayken tuhaf bir şey bulduğuna dair bir haber duymuş, ancak ne olduğunu ona göstermek için asla dışarı çıkamamış. Maur'un cesedinin bulunmasını -eğer hala varsa- ve troglarla konuşmaya çalışırken bulduğu şeye dair herhangi bir işaretin bulunmasını istiyor.NEW_LINEİlgisini çeken her şeyi Magatha'ya geri verin, eminim ödül konusunda çok cömert davranacaktır.NEW_LINEYine, Orgrimmar'ın en karanlık bölgelerinde Uçurum'u ara.",
     ["Objectives"]="Maur Grimtotem'in cesedi için Ragefire Chasm'ı arayın ve ilgilendiğiniz herhangi bir eşya için arayın.",
     ["Progress"]="",
-    ["Completion"]="Ceset sopalarla ya da yumruklarla ciddi şekilde dövülmüş gibi görünüyor, ancak cesedin kıyVebalerinin ve ekipmanlarının çoğu hâlâ mevcut. Görünüşe göre troglar maddi zenginliğe fazla önem vermiyor.NEW_LINECesette Magatha'ya yardım edebilecek ilginç bir şey aramaya başlıyorsun.",
+    ["Completion"]="Ceset sopalarla ya da yumruklarla ciddi şekilde dövülmüş gibi görünüyor, ancak cesedin kıyafetlerinin ve ekipmanlarının çoğu hâlâ mevcut. Görünüşe göre troglar maddi zenginliğe fazla önem vermiyor.NEW_LINECesette Magatha'ya yardım edebilecek ilginç bir şey aramaya başlıyorsun.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Kayıp El Çantası Aranıyor
@@ -22246,7 +22246,7 @@ QuestTranslator_QuestData = {
 -- 'Adil Ticaret' Azeroth'ta Yasal Olarak Tanımlanmamıştır
     ["41269"] = {
     ["Title"]="'Adil Ticaret' Azeroth'ta Yasal Olarak Tanımlanmamıştır",
-    ["Description"]="Vera'ya daha fazlasını göndermekten büyük memnuniyet duyardım, ancak... şey, tatlım, süslemeler için ne kadar kürk harcadığımızı biliyor musun? Hem de öyle sıradan bir kürk değil—gerçek, %100 doğal ortamında yetişmiş Alterac Yeti kürkü! En sıcak tutanı budur. Ne yazık ki elimizde hiç kalmadı ve tedarikçilerimiz zorluk çıkarıyor—kıtlık ve kardan adamla ilgili bir şeyler mi ne? Her neyse, ben—oh, sakın beni yanlış anlama tatlım, ama kıyVebain kesinlikle bir tarzı yansıtıyor. Ve bu tarz, nasıl desek... 'savaş sanatında deneyimli' birini gösteriyor.Bir iyilik yapıp Alterac'a giderek bana birkaç taze yeti derisi getireceğini umuyorum, haksız mıyım? Yeti'ler derilerinden ayrılma konusunda biraz isteksiz olabilirler ama senin bunun üstesinden gelebileceğinden eminim. En kalitelisinden, en kabarığından ve tercihen en temizinden yaklaşık on tane kürklü deriye ihtiyacım var.",
+    ["Description"]="Vera'ya daha fazlasını göndermekten büyük memnuniyet duyardım, ancak... şey, tatlım, süslemeler için ne kadar kürk harcadığımızı biliyor musun? Hem de öyle sıradan bir kürk değil—gerçek, %100 doğal ortamında yetişmiş Alterac Yeti kürkü! En sıcak tutanı budur. Ne yazık ki elimizde hiç kalmadı ve tedarikçilerimiz zorluk çıkarıyor—kıtlık ve kardan adamla ilgili bir şeyler mi ne? Her neyse, ben—oh, sakın beni yanlış anlama tatlım, ama kıyafetin kesinlikle bir tarzı yansıtıyor. Ve bu tarz, nasıl desek... 'savaş sanatında deneyimli' birini gösteriyor.Bir iyilik yapıp Alterac'a giderek bana birkaç taze yeti derisi getireceğini umuyorum, haksız mıyım? Yeti'ler derilerinden ayrılma konusunda biraz isteksiz olabilirler ama senin bunun üstesinden gelebileceğinden eminim. En kalitelisinden, en kabarığından ve tercihen en temizinden yaklaşık on tane kürklü deriye ihtiyacım var.",
     ["Objectives"]="Alix Gres için 10 adet Fine Free-Range Alterac Yeti Hide toplayın.",
     ["Progress"]="Biliyor musun tatlım, bu sezon turuncu yeni mor oldu. Gardırobunu yenilemeyi hiç düşündün mü?",
     ["Completion"]="Tekrar hoş geldin tatlım! Ve bana derileri getirmişsin! Ne kadar da tatlısın. Bunları hemen temizletecek, tabaklatacak, optik olarak beyazlatacak ve vakit kaybetmeden monte ettireceğiz! Yani, nispeten konuşmak gerekirse tabii ki. Ne de olsa yüksek modayı aceleye getiremezsin.",
@@ -22256,7 +22256,7 @@ QuestTranslator_QuestData = {
     -- 'Fair Trade' Is Not Legally Defined in Azeroth
     ["41272"] = {
     ["Title"]="'Adil Ticaret' Azeroth'ta Yasal Olarak Tanımlanmamıştır",
-    ["Description"]="Ralph'e daha fazlasını göndermekten büyük memnuniyet duyardım, ancak... şey, tatlım, süslemeler için ne kadar kürk harcadığımızı biliyor musun? Hem de öyle sıradan bir kürk değil—gerçek, %100 doğal ortamında yetişmiş Alterac Yeti kürkü! En sıcak tutanı budur. Ne yazık ki elimizde hiç kalmadı ve tedarikçilerimiz zorluk çıkarıyor—kıtlık ve kardan adamla ilgili bir şeyler mi ne? Her neyse, ben—oh, sakın beni yanlış anlama tatlım, ama kıyVebain kesinlikle bir tarzı yansıtıyor. Ve bu tarz, nasıl desek... 'savaş sanatında deneyimli' birini gösteriyor.Bir iyilik yapıp Alterac'a giderek bana birkaç taze yeti derisi getireceğini umuyorum, haksız mıyım? Yeti'ler derilerinden ayrılma konusunda biraz isteksiz olabilirler ama senin bunun üstesinden gelebileceğinden eminim. En kalitelisinden, en kabarığından ve tercihen en temizinden yaklaşık on tane kürklü deriye ihtiyacım var.",
+    ["Description"]="Ralph'e daha fazlasını göndermekten büyük memnuniyet duyardım, ancak... şey, tatlım, süslemeler için ne kadar kürk harcadığımızı biliyor musun? Hem de öyle sıradan bir kürk değil—gerçek, %100 doğal ortamında yetişmiş Alterac Yeti kürkü! En sıcak tutanı budur. Ne yazık ki elimizde hiç kalmadı ve tedarikçilerimiz zorluk çıkarıyor—kıtlık ve kardan adamla ilgili bir şeyler mi ne? Her neyse, ben—oh, sakın beni yanlış anlama tatlım, ama kıyafetin kesinlikle bir tarzı yansıtıyor. Ve bu tarz, nasıl desek... 'savaş sanatında deneyimli' birini gösteriyor.Bir iyilik yapıp Alterac'a giderek bana birkaç taze yeti derisi getireceğini umuyorum, haksız mıyım? Yeti'ler derilerinden ayrılma konusunda biraz isteksiz olabilirler ama senin bunun üstesinden gelebileceğinden eminim. En kalitelisinden, en kabarığından ve tercihen en temizinden yaklaşık on tane kürklü deriye ihtiyacım var.",
     ["Objectives"]="Coco Gucci için 10 adet Fine Free-Range Alterac Yeti Hide toplayın.",
     ["Progress"]="Biliyor musun tatlım, bu sezon turuncu yeni mor oldu. Gardırobunu yenilemeyi hiç düşündün mü?",
     ["Completion"]="Tekrar hoş geldin tatlım! Ve bana derileri getirmişsin! Ne kadar da tatlısın. Bunları hemen temizletecek, tabaklatacak, optik olarak beyazlatacak ve vakit kaybetmeden monte ettireceğiz! Yani, nispeten konuşmak gerekirse tabii ki. Ne de olsa yüksek modayı aceleye getiremezsin.Sanırım sana tedarikçi ücretini borçluyum. Ve eğer Ralph'i görecek olursan, bir sevkiyat beklemesini ona haber et. Onunla ne kadar erken iletişime geçsen o kadar iyi—erken kalkan trendi belirler, bilirsin.",
@@ -24157,10 +24157,10 @@ QuestTranslator_QuestData = {
 -- Gizemcinin Sandığı
     ["41478"] = {
     ["Title"]="Gizemcinin Sandığı",
-    ["Description"]="Bir Gizemcinin (Arcanist) kıyVebalerini giyiyorsun, YOUR_CLASS. Gizemli gücünü hissedebiliyorum ama oldukça sönük görünüyor. Belki de taşıdıkların, yapmaya istekli olduğun görevler için uygun değildir. <Melus birkaç saniye mırıldanır.> Onu buraya uzat ve söyle bana, düzen mi arıyorsun yoksa kaos mu?",
+    ["Description"]="Bir Gizemcinin (Arcanist) kıyafetlerini giyiyorsun, YOUR_CLASS. Gizemli gücünü hissedebiliyorum ama oldukça sönük görünüyor. Belki de taşıdıkların, yapmaya istekli olduğun görevler için uygun değildir. <Melus birkaç saniye mırıldanır.> Onu buraya uzat ve söyle bana, düzen mi arıyorsun yoksa kaos mu?",
     ["Objectives"]="Mevcut eşyanı ihtiyaçlarına en uygun olan eşyayla takas et.",
     ["Progress"]="Dikkatli seç, kararın kesindir.",
-    ["Completion"]="Bu kıyVebaler senin gerçek doğana çok daha iyi uyuyor gibi görünüyor. Sahip olduğun güce dikkat et, YOUR_CLASS.",
+    ["Completion"]="Bu kıyafetler senin gerçek doğana çok daha iyi uyuyor gibi görünüyor. Sahip olduğun güce dikkat et, YOUR_CLASS.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Gizemcinin Sandığı
@@ -24168,10 +24168,10 @@ QuestTranslator_QuestData = {
 -- Gizemcinin Ayakları
     ["41483"] = {
     ["Title"]="Gizemcinin Ayakları",
-    ["Description"]="Bir Gizemcinin (Arcanist) kıyVebalerini giyiyorsun, YOUR_CLASS. Gizemli gücünü hissedebiliyorum ama oldukça sönük görünüyor. Belki de taşıdıkların, yapmaya istekli olduğun görevler için uygun değildir. <Melus birkaç saniye mırıldanır.> Onu buraya uzat ve söyle bana, düzen mi arıyorsun yoksa kaos mu?",
+    ["Description"]="Bir Gizemcinin (Arcanist) kıyafetlerini giyiyorsun, YOUR_CLASS. Gizemli gücünü hissedebiliyorum ama oldukça sönük görünüyor. Belki de taşıdıkların, yapmaya istekli olduğun görevler için uygun değildir. <Melus birkaç saniye mırıldanır.> Onu buraya uzat ve söyle bana, düzen mi arıyorsun yoksa kaos mu?",
     ["Objectives"]="Mevcut eşyanı ihtiyaçlarına en uygun olan eşyayla takas et.",
     ["Progress"]="Dikkatli seç, kararın kesindir.",
-    ["Completion"]="Bu kıyVebaler senin gerçek doğana çok daha iyi uyuyor gibi görünüyor. Sahip olduğun güce dikkat et, YOUR_CLASS.",
+    ["Completion"]="Bu kıyafetler senin gerçek doğana çok daha iyi uyuyor gibi görünüyor. Sahip olduğun güce dikkat et, YOUR_CLASS.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Gizemcinin Ayakları
@@ -24179,10 +24179,10 @@ QuestTranslator_QuestData = {
 -- Gizemcinin Elleri
     ["41480"] = {
     ["Title"]="Gizemcinin Elleri",
-    ["Description"]="Bir Gizemcinin (Arcanist) kıyVebalerini giyiyorsun, YOUR_CLASS. Gizemli gücünü hissedebiliyorum ama oldukça sönük görünüyor. Belki de taşıdıkların, yapmaya istekli olduğun görevler için uygun değildir. <Melus birkaç saniye mırıldanır.> Onu buraya uzat ve söyle bana, düzen mi arıyorsun yoksa kaos mu?",
+    ["Description"]="Bir Gizemcinin (Arcanist) kıyafetlerini giyiyorsun, YOUR_CLASS. Gizemli gücünü hissedebiliyorum ama oldukça sönük görünüyor. Belki de taşıdıkların, yapmaya istekli olduğun görevler için uygun değildir. <Melus birkaç saniye mırıldanır.> Onu buraya uzat ve söyle bana, düzen mi arıyorsun yoksa kaos mu?",
     ["Objectives"]="Mevcut eşyanı ihtiyaçlarına en uygun olan eşyayla takas et.",
     ["Progress"]="Dikkatli seç, kararın kesindir.",
-    ["Completion"]="Bu kıyVebaler senin gerçek doğana çok daha iyi uyuyor gibi görünüyor. Sahip olduğun güce dikkat et, YOUR_CLASS.",
+    ["Completion"]="Bu kıyafetler senin gerçek doğana çok daha iyi uyuyor gibi görünüyor. Sahip olduğun güce dikkat et, YOUR_CLASS.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Gizemcinin Elleri
@@ -24190,10 +24190,10 @@ QuestTranslator_QuestData = {
 -- Gizemcinin Başı
     ["41476"] = {
     ["Title"]="Gizemcinin Başı",
-    ["Description"]="Bir Gizemcinin kıyVebalerini giyiyorsun, YOUR_CLASS. Gizemli gücünü hissedebiliyorum ama oldukça sönük görünüyor. Belki de taşıdıkların, yapmaya istekli olduğun görevler için uygun değildir. <Melus birkaç saniye mırıldanır.> Onu buraya uzat ve söyle bana, düzen mi arıyorsun yoksa kaos mu?",
+    ["Description"]="Bir Gizemcinin kıyafetlerini giyiyorsun, YOUR_CLASS. Gizemli gücünü hissedebiliyorum ama oldukça sönük görünüyor. Belki de taşıdıkların, yapmaya istekli olduğun görevler için uygun değildir. <Melus birkaç saniye mırıldanır.> Onu buraya uzat ve söyle bana, düzen mi arıyorsun yoksa kaos mu?",
     ["Objectives"]="Mevcut eşyanı ihtiyaçlarına en uygun olan eşyayla takas et.",
     ["Progress"]="Dikkatli seç, kararın kesindir.",
-    ["Completion"]="Bu kıyVebaler senin gerçek doğana çok daha iyi uyuyor gibi görünüyor. Sahip olduğun güce dikkat et, YOUR_CLASS.",
+    ["Completion"]="Bu kıyafetler senin gerçek doğana çok daha iyi uyuyor gibi görünüyor. Sahip olduğun güce dikkat et, YOUR_CLASS.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Gizemcinin Başı
@@ -24201,10 +24201,10 @@ QuestTranslator_QuestData = {
 -- Gizemcinin Bacakları
     ["41482"] = {
     ["Title"]="Gizemcinin Bacakları",
-    ["Description"]="Bir Gizemcinin kıyVebalerini giyiyorsun, YOUR_CLASS. Gizemli gücünü hissedebiliyorum ama oldukça sönük görünüyor. Belki de taşıdıkların, yapmaya istekli olduğun görevler için uygun değildir. <Melus birkaç saniye mırıldanır.> Onu buraya uzat ve söyle bana, düzen mi arıyorsun yoksa kaos mu?",
+    ["Description"]="Bir Gizemcinin kıyafetlerini giyiyorsun, YOUR_CLASS. Gizemli gücünü hissedebiliyorum ama oldukça sönük görünüyor. Belki de taşıdıkların, yapmaya istekli olduğun görevler için uygun değildir. <Melus birkaç saniye mırıldanır.> Onu buraya uzat ve söyle bana, düzen mi arıyorsun yoksa kaos mu?",
     ["Objectives"]="Mevcut eşyanı ihtiyaçlarına en uygun olan eşyayla takas et.",
     ["Progress"]="Dikkatli seç, kararın kesindir.",
-    ["Completion"]="Bu kıyVebaler senin gerçek doğana çok daha iyi uyuyor gibi görünüyor. Sahip olduğun güce dikkat et, YOUR_CLASS.",
+    ["Completion"]="Bu kıyafetler senin gerçek doğana çok daha iyi uyuyor gibi görünüyor. Sahip olduğun güce dikkat et, YOUR_CLASS.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Gizemcinin Bacakları
@@ -24212,10 +24212,10 @@ QuestTranslator_QuestData = {
 -- Gizemcinin Omuzları
     ["41477"] = {
     ["Title"]="Gizemcinin Omuzları",
-    ["Description"]="Bir Gizemcinin kıyVebalerini giyiyorsun, YOUR_CLASS. Gizemli gücünü hissedebiliyorum ama oldukça sönük görünüyor. Belki de taşıdıkların, yapmaya istekli olduğun görevler için uygun değildir. <Melus birkaç saniye mırıldanır.> Onu buraya uzat ve söyle bana, düzen mi arıyorsun yoksa kaos mu?",
+    ["Description"]="Bir Gizemcinin kıyafetlerini giyiyorsun, YOUR_CLASS. Gizemli gücünü hissedebiliyorum ama oldukça sönük görünüyor. Belki de taşıdıkların, yapmaya istekli olduğun görevler için uygun değildir. <Melus birkaç saniye mırıldanır.> Onu buraya uzat ve söyle bana, düzen mi arıyorsun yoksa kaos mu?",
     ["Objectives"]="Mevcut eşyanı ihtiyaçlarına en uygun olan eşyayla takas et.",
     ["Progress"]="Dikkatli seç, kararın kesindir.",
-    ["Completion"]="Bu kıyVebaler senin gerçek doğana çok daha iyi uyuyor gibi görünüyor. Sahip olduğun güce dikkat et, YOUR_CLASS.",
+    ["Completion"]="Bu kıyafetler senin gerçek doğana çok daha iyi uyuyor gibi görünüyor. Sahip olduğun güce dikkat et, YOUR_CLASS.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Gizemcinin Omuzları
@@ -24223,10 +24223,10 @@ QuestTranslator_QuestData = {
 -- Gizemcinin Beli
     ["41481"] = {
     ["Title"]="Gizemcinin Beli",
-    ["Description"]="Bir Gizemcinin kıyVebalerini giyiyorsun, YOUR_CLASS. Gizemli gücünü hissedebiliyorum ama oldukça sönük görünüyor. Belki de taşıdıkların, yapmaya istekli olduğun görevler için uygun değildir. <Melus birkaç saniye mırıldanır.> Onu buraya uzat ve söyle bana, düzen mi arıyorsun yoksa kaos mu?",
+    ["Description"]="Bir Gizemcinin kıyafetlerini giyiyorsun, YOUR_CLASS. Gizemli gücünü hissedebiliyorum ama oldukça sönük görünüyor. Belki de taşıdıkların, yapmaya istekli olduğun görevler için uygun değildir. <Melus birkaç saniye mırıldanır.> Onu buraya uzat ve söyle bana, düzen mi arıyorsun yoksa kaos mu?",
     ["Objectives"]="Mevcut eşyanı ihtiyaçlarına en uygun olan eşyayla takas et.",
     ["Progress"]="Dikkatli seç, kararın kesindir.",
-    ["Completion"]="Bu kıyVebaler senin gerçek doğana çok daha iyi uyuyor gibi görünüyor. Sahip olduğun güce dikkat et, YOUR_CLASS.",
+    ["Completion"]="Bu kıyafetler senin gerçek doğana çok daha iyi uyuyor gibi görünüyor. Sahip olduğun güce dikkat et, YOUR_CLASS.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Gizemcinin Beli
@@ -24234,10 +24234,10 @@ QuestTranslator_QuestData = {
 -- Gizemcinin Bilekleri
     ["41479"] = {
     ["Title"]="Gizemcinin Bilekleri",
-    ["Description"]="Bir Gizemcinin kıyVebalerini giyiyorsun, YOUR_CLASS. Gizemli gücünü hissedebiliyorum ama oldukça sönük görünüyor. Belki de taşıdıkların, yapmaya istekli olduğun görevler için uygun değildir. <Melus birkaç saniye mırıldanır.> Onu buraya uzat ve söyle bana, düzen mi arıyorsun yoksa kaos mu?",
+    ["Description"]="Bir Gizemcinin kıyafetlerini giyiyorsun, YOUR_CLASS. Gizemli gücünü hissedebiliyorum ama oldukça sönük görünüyor. Belki de taşıdıkların, yapmaya istekli olduğun görevler için uygun değildir. <Melus birkaç saniye mırıldanır.> Onu buraya uzat ve söyle bana, düzen mi arıyorsun yoksa kaos mu?",
     ["Objectives"]="Mevcut eşyanı ihtiyaçlarına en uygun olan eşyayla takas et.",
     ["Progress"]="Dikkatli seç, kararın kesindir.",
-    ["Completion"]="Bu kıyVebaler senin gerçek doğana çok daha iyi uyuyor gibi görünüyor. Sahip olduğun güce dikkat et, YOUR_CLASS.",
+    ["Completion"]="Bu kıyafetler senin gerçek doğana çok daha iyi uyuyor gibi görünüyor. Sahip olduğun güce dikkat et, YOUR_CLASS.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Gizemcinin Bilekleri
@@ -25459,9 +25459,9 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end Gargill the Butcher
 
--- Üç Kardeşin KıyVebaleri
+-- Üç Kardeşin kıyafetleri
     ["42056"] = {
-    ["Title"]="Üç Kardeşin KıyVebaleri",
+    ["Title"]="Üç Kardeşin kıyafetleri",
     ["Description"]="Öğretilerini teste tabi tutalım. Bu çadırın güneyinde, savaşçılarımızın eğitim gördüğü totem çemberini geçince, ağaçların gölgeleri ve yaprakları altında Cesur Çömez'i (Brave Greenhorn) bulacaksın. Yaralı bir halde, Venture Şti. tarafından basılmış olan Kıştoynağı Su Kuyusu'nu (Winterhoof Water Well) gözlüyor. Sadece gözlemlemesi emredilmiş olsa da pek akıllılık edemeyip tam tersini yapmayı seçti. Bu yüzden Venture Şti. ile bir kavga başlattı ve kıl payı kaçmayı başardı. Görevin onu bulmak, yaralarını sarmak, Metanet (Fortitude) ile ruhunu takviye etmek ve ona güvenebileceği müttefikleri olduğunu hatırlatmaktır. Böylece köye geri dönebilir ve önündeki düşmanla yüzleşmek için bir kuvvet toplayabilir. Bunu yap ve döndüğünde Mu’sha'dan konuşacağız.",
     ["Objectives"]="Cesur Çömez'i bul ve Küçük İyileştirme (Lesser Heal - Aşama 2) kullanarak yaralarını sar. Ardından ona Güç Sözü: Metanet (Power Word: Fortitude) bahşet ve Mulgore'daki Kanboynuzu Köyü'nde (Bloodhoof Village) bulunan Pargan Yıldızyürüyen'e (Pargan Starstrider) geri dön.",
     ["Progress"]="Müttefiklerini iyileştirmeyi ve güçlendirmeyi hem An’she hem de Mu’sha'nın birer uzantısı olarak görebilirsin. An’she’nin ışınlarının bir yarayı sıcak bir şekilde yatıştırdığı yerde, Mu’sha’nın her döngüsünde gece gökyüzündeki beyaz çiçeklenme karanlıkta bir rehber görevi görür. Lo’sho yatıştırabilir ama iyileştiremez. Onun sana sunduğu hediyeler bedeni değil, zihni büker ve onarır.",
@@ -25878,7 +25878,7 @@ QuestTranslator_QuestData = {
 -- Duvarın Arkasında
     ["40841"] = {
     ["Title"]="Duvarın Arkasında",
-    ["Description"]="Kuzeyden gelen haberleri duydun mu? Greymane Duvarı (Greymane Wall) nihayet ardına kadar açık. Duyduğum tüm korkunç şeylerden sonra bu günü göreceğimi hiç düşünmezdim ve söylenenlere bakılırsa işler pek iyiye alamet değil. Yine de Gilneas Şehri'nde en sevgili arkadaşlarımdan biri, sadece Gilneas'ın kendi içinde bulunabilen 'Şafaktaşı' (Dawnstone) adlı nadir bir malzemeyle çalışırdı. Şablonlarının hâlâ şehirdeki dükkanında olduğuna zerre şüphe yok ve bunları benim için geri almanı rica ediyorum. Yanına silah arkadaşları almanı tavsiye ederim; worgen ve iç savaşı da beraberinde getiren bir huzursuzluk olduğuna dair söylentiler var, bu yüzden kesinlikle tek başına girilecek güvenli bir yer değil.",
+    ["Description"]="Kuzeyden gelen haberleri duydun mu? Greymane Duvarı nihayet ardına kadar açık. NEW_LINEDuyduğum tüm korkunç şeylerden sonra bu günü göreceğimi hiç düşünmezdim ve söylenenlere bakılırsa işler pek iyiye alamet değil. Yine de Gilneas Şehri'nde en sevgili arkadaşlarımdan biri, sadece Gilneas'ın kendi içinde bulunabilen 'Şafaktaşı' (Dawnstone) adlı nadir bir malzemeyle çalışırdı. NEW_LINEŞablonlarının hâlâ şehirdeki dükkanında olduğuna zerre şüphe yok ve bunları benim için geri almanı rica ediyorum. Yanına silah arkadaşları almanı tavsiye ederim; worgen ve iç savaşı da beraberinde getiren bir huzursuzluk olduğuna dair söylentiler var, bu yüzden kesinlikle tek başına girilecek güvenli bir yer değil.",
     ["Objectives"]="Gilneas Şehri'ne gir ve Stormwind'deki (Fırtınayeli) Therum Derinocak (Therum Deepforge) için Şafaktaşı Planlarını (Dawnstone Plans) geri al.",
     ["Progress"]="Planlarla ilgili bir şansın oldu mu? Senden istediğim şeyin kolay olmadığını biliyorum ama o planlar bir adamın ömürlük işiydi, kaybolmaları bir trajedi olurdu.",
     ["Completion"]="Bunlar onlar mı? Bu planları epeydir okuma fırsatım olmamıştı. Adaman son derece yetenekli bir demirciydi ve vefatından dolayı derin bir üzüntü duyuyorum. Adının her zaman hak ettiği tanınırlığı kazanması için bulgularının burada ve Demirdövüm'de (Ironforge) düzgün bir şekilde kaydedilmesini sağlayacağım. Teşekkür ederim, YOUR_NAME. Kendini soktuğun bu muazzam zahmetin bir karşılığı olarak senin için de bir şeyler hazırladım.",
@@ -26151,9 +26151,9 @@ QuestTranslator_QuestData = {
     ["41466"] = {
     -- "Prophecy" rahip seti ismi olup "Kehanet" olarak aktarılmıştır.
     ["Title"]="Kehanet Botları",
-    ["Description"]="Kehanet'in (Prophecy) kıyVebalerini kuşanmışsın, YOUR_CLASS. Işığını hissedebiliyorum, yine de oldukça sönük görünüyor. Belki de taşıdıkların, yapmaya istekli olduğun görevlere uygun değildir. <Melus birkaç saniye mırıldanır.> Onu buraya uzat ve bana söyle, aradığın şey gölgeler mi?",
+    ["Description"]="Kehanet'in (Prophecy) kıyafetlerini kuşanmışsın, YOUR_CLASS. Işığını hissedebiliyorum, yine de oldukça sönük görünüyor. Belki de taşıdıkların, yapmaya istekli olduğun görevlere uygun değildir. <Melus birkaç saniye mırıldanır.> Onu buraya uzat ve bana söyle, aradığın şey gölgeler mi?",
     ["Objectives"]="Mevcut eşyanı ihtiyaçlarına en uygun olan eşyayla takas et.",
-    ["Progress"]="Bu kıyVebaler senin gerçek doğana çok daha iyi uyuyor gibi görünüyor. Sahip olduğun güce dikkat et, YOUR_CLASS.",
+    ["Progress"]="Bu kıyafetler senin gerçek doğana çok daha iyi uyuyor gibi görünüyor. Sahip olduğun güce dikkat et, YOUR_CLASS.",
     ["Completion"]="Dikkatli seç, kararın kesindir.",
     ["minlevel"]="0",
     ["questlevel"]="0",
@@ -26482,7 +26482,7 @@ QuestTranslator_QuestData = {
     ["41415"] = {
     -- "Cenarion" druid seti ismi olup aynen korunmuştur.
     ["Title"]="Cenarion Botları",
-    ["Description"]="Cenarion'ın kıyVebalerini kuşanmışsın, YOUR_CLASS. Sende Doğanın (Nature) kendisini seziyorum, yine de oldukça sönük görünüyor. Belki de taşıdıkların, yapmaya istekli olduğun görevlere uygun değildir. <Kazud birkaç saniye mırıldanır.> Onu buraya uzat ve bana söyle, doğana sadık mısın?",
+    ["Description"]="Cenarion'ın kıyafetlerini kuşanmışsın, YOUR_CLASS. Sende Doğanın (Nature) kendisini seziyorum, yine de oldukça sönük görünüyor. Belki de taşıdıkların, yapmaya istekli olduğun görevlere uygun değildir. <Kazud birkaç saniye mırıldanır.> Onu buraya uzat ve bana söyle, doğana sadık mısın?",
     ["Objectives"]="Mevcut eşyanı ihtiyaçlarına en uygun olan eşyayla takas et.",
     ["Progress"]="Dikkatli seç, kararın kesindir.",
     ["Completion"]="Rüzgarlar senin yönüne esiyor, görünüşe göre Doğa sana hayran.",
@@ -26493,7 +26493,7 @@ QuestTranslator_QuestData = {
 -- Cenarion Göğüslüğü
     ["41410"] = {
     ["Title"]="Cenarion Göğüslüğü",
-    ["Description"]="Cenarion'ın kıyVebalerini kuşanmışsın, YOUR_CLASS. Sende Doğanın (Nature) kendisini seziyorum, yine de oldukça sönük görünüyor. Belki de taşıdıkların, yapmaya istekli olduğun görevlere uygun değildir. <Kazud birkaç saniye mırıldanır.> Onu buraya uzat ve bana söyle, doğana sadık mısın?",
+    ["Description"]="Cenarion'ın kıyafetlerini kuşanmışsın, YOUR_CLASS. Sende Doğanın (Nature) kendisini seziyorum, yine de oldukça sönük görünüyor. Belki de taşıdıkların, yapmaya istekli olduğun görevlere uygun değildir. <Kazud birkaç saniye mırıldanır.> Onu buraya uzat ve bana söyle, doğana sadık mısın?",
     ["Objectives"]="Mevcut eşyanı ihtiyaçlarına en uygun olan eşyayla takas et.",
     ["Progress"]="Dikkatli seç, kararın kesindir.",
     ["Completion"]="Rüzgarlar senin yönüne esiyor, görünüşe göre Doğa sana hayran.",
@@ -26504,7 +26504,7 @@ QuestTranslator_QuestData = {
 -- Cenarion Eldivenleri
     ["41412"] = {
     ["Title"]="Cenarion Eldivenleri",
-    ["Description"]="Cenarion'ın kıyVebalerini kuşanmışsın, YOUR_CLASS. Sende Doğanın (Nature) kendisini seziyorum, yine de oldukça sönük görünüyor. Belki de taşıdıkların, yapmaya istekli olduğun görevlere uygun değildir. <Kazud birkaç saniye mırıldanır.> Onu buraya uzat ve bana söyle, doğana sadık mısın?",
+    ["Description"]="Cenarion'ın kıyafetlerini kuşanmışsın, YOUR_CLASS. Sende Doğanın (Nature) kendisini seziyorum, yine de oldukça sönük görünüyor. Belki de taşıdıkların, yapmaya istekli olduğun görevlere uygun değildir. <Kazud birkaç saniye mırıldanır.> Onu buraya uzat ve bana söyle, doğana sadık mısın?",
     ["Objectives"]="Mevcut eşyanı ihtiyaçlarına en uygun olan eşyayla takas et.",
     ["Progress"]="Dikkatli seç, kararın kesindir.",
     ["Completion"]="Rüzgarlar senin yönüne esiyor, görünüşe göre Doğa sana hayran.",
@@ -26516,7 +26516,7 @@ QuestTranslator_QuestData = {
     ["41408"] = {
     -- "Cenarion" druid seti ismi olup aynen korunmuştur. "Head" parça olarak Miğfer/Başlık olarak aktarılmıştır.
     ["Title"]="Cenarion Miğferi",
-    ["Description"]="Cenarion'ın kıyVebalerini kuşanmışsın, YOUR_CLASS. Sende Doğanın (Nature) kendisini seziyorum, yine de oldukça sönük görünüyor. Belki de taşıdıkların, yapmaya istekli olduğun görevlere uygun değildir. <Kazud birkaç saniye mırıldanır.> Onu buraya uzat ve bana söyle, doğana sadık mısın?",
+    ["Description"]="Cenarion'ın kıyafetlerini kuşanmışsın, YOUR_CLASS. Sende Doğanın (Nature) kendisini seziyorum, yine de oldukça sönük görünüyor. Belki de taşıdıkların, yapmaya istekli olduğun görevlere uygun değildir. <Kazud birkaç saniye mırıldanır.> Onu buraya uzat ve bana söyle, doğana sadık mısın?",
     ["Objectives"]="Mevcut eşyanı ihtiyaçlarına en uygun olan eşyayla takas et.",
     ["Progress"]="Dikkatli seç, kararın kesindir.",
     ["Completion"]="Rüzgarlar senin yönüne esiyor, görünüşe göre Doğa sana hayran.",
@@ -26527,7 +26527,7 @@ QuestTranslator_QuestData = {
 -- Cenarion Pantolonu
     ["41414"] = {
     ["Title"]="Cenarion Pantolonu",
-    ["Description"]="Cenarion'ın kıyVebalerini kuşanmışsın, YOUR_CLASS. Sende Doğanın (Nature) kendisini seziyorum, yine de oldukça sönük görünüyor. Belki de taşıdıkların, yapmaya istekli olduğun görevlere uygun değildir. <Kazud birkaç saniye mırıldanır.> Onu buraya uzat ve bana söyle, doğana sadık mısın?",
+    ["Description"]="Cenarion'ın kıyafetlerini kuşanmışsın, YOUR_CLASS. Sende Doğanın (Nature) kendisini seziyorum, yine de oldukça sönük görünüyor. Belki de taşıdıkların, yapmaya istekli olduğun görevlere uygun değildir. <Kazud birkaç saniye mırıldanır.> Onu buraya uzat ve bana söyle, doğana sadık mısın?",
     ["Objectives"]="Mevcut eşyanı ihtiyaçlarına en uygun olan eşyayla takas et.",
     ["Progress"]="Dikkatli seç, kararın kesindir.",
     ["Completion"]="Rüzgarlar senin yönüne esiyor, görünüşe göre Doğa sana hayran.",
@@ -26538,7 +26538,7 @@ QuestTranslator_QuestData = {
 -- Cenarion Omuzluğu
     ["41409"] = {
     ["Title"]="Cenarion Omuzluğu",
-    ["Description"]="Cenarion'ın kıyVebalerini kuşanmışsın, YOUR_CLASS. Sende Doğanın (Nature) kendisini seziyorum, yine de oldukça sönük görünüyor. Belki de taşıdıkların, yapmaya istekli olduğun görevlere uygun değildir. <Kazud birkaç saniye mırıldanır.> Onu buraya uzat ve bana söyle, doğana sadık mısın?",
+    ["Description"]="Cenarion'ın kıyafetlerini kuşanmışsın, YOUR_CLASS. Sende Doğanın (Nature) kendisini seziyorum, yine de oldukça sönük görünüyor. Belki de taşıdıkların, yapmaya istekli olduğun görevlere uygun değildir. <Kazud birkaç saniye mırıldanır.> Onu buraya uzat ve bana söyle, doğana sadık mısın?",
     ["Objectives"]="Mevcut eşyanı ihtiyaçlarına en uygun olan eşyayla takas et.",
     ["Progress"]="Dikkatli seç, kararın kesindir.",
     ["Completion"]="Rüzgarlar senin yönüne esiyor, görünüşe göre Doğa sana hayran.",
@@ -26550,7 +26550,7 @@ QuestTranslator_QuestData = {
     ["41413"] = {
     -- "Waist" zırh parçası bağlamında Kemer olarak aktarılmıştır.
     ["Title"]="Cenarion Kemeri",
-    ["Description"]="Cenarion'ın kıyVebalerini kuşanmışsın, YOUR_CLASS. Sende Doğanın (Nature) kendisini seziyorum, yine de oldukça sönük görünüyor. Belki de taşıdıkların, yapmaya istekli olduğun görevlere uygun değildir. <Kazud birkaç saniye mırıldanır.> Onu buraya uzat ve bana söyle, doğana sadık mısın?",
+    ["Description"]="Cenarion'ın kıyafetlerini kuşanmışsın, YOUR_CLASS. Sende Doğanın (Nature) kendisini seziyorum, yine de oldukça sönük görünüyor. Belki de taşıdıkların, yapmaya istekli olduğun görevlere uygun değildir. <Kazud birkaç saniye mırıldanır.> Onu buraya uzat ve bana söyle, doğana sadık mısın?",
     ["Objectives"]="Mevcut eşyanı ihtiyaçlarına en uygun olan eşyayla takas et.",
     ["Progress"]="Dikkatli seç, kararın kesindir.",
     ["Completion"]="Rüzgarlar senin yönüne esiyor, görünüşe göre Doğa sana hayran.",
@@ -26561,7 +26561,7 @@ QuestTranslator_QuestData = {
 -- Cenarion Bileklikleri
     ["41411"] = {
     ["Title"]="Cenarion Bileklikleri",
-    ["Description"]="Cenarion'ın kıyVebalerini kuşanmışsın, YOUR_CLASS. Sende Doğanın (Nature) kendisini seziyorum, yine de oldukça sönük görünüyor. Belki de taşıdıkların, yapmaya istekli olduğun görevlere uygun değildir. <Kazud birkaç saniye mırıldanır.> Onu buraya uzat ve bana söyle, doğana sadık mısın?",
+    ["Description"]="Cenarion'ın kıyafetlerini kuşanmışsın, YOUR_CLASS. Sende Doğanın (Nature) kendisini seziyorum, yine de oldukça sönük görünüyor. Belki de taşıdıkların, yapmaya istekli olduğun görevlere uygun değildir. <Kazud birkaç saniye mırıldanır.> Onu buraya uzat ve bana söyle, doğana sadık mısın?",
     ["Objectives"]="Mevcut eşyanı ihtiyaçlarına en uygun olan eşyayla takas et.",
     ["Progress"]="Dikkatli seç, kararın kesindir.",
     ["Completion"]="Rüzgarlar senin yönüne esiyor, görünüşe göre Doğa sana hayran.",
@@ -26644,9 +26644,9 @@ QuestTranslator_QuestData = {
     ["41461"] = {
     -- "Prophecy" rahip seti ismi olup "Kehanet" olarak aktarılmıştır.
     ["Title"]="Kehanet Göğüslüğü",
-    ["Description"]="Kehanet'in (Prophecy) kıyVebalerini kuşanmışsın, YOUR_CLASS. Işığını hissedebiliyorum, yine de oldukça sönük görünüyor. Belki de taşıdıkların, yapmaya istekli olduğun görevlere uygun değildir. <Melus birkaç saniye mırıldanır.> Onu buraya uzat ve bana söyle, aradığın şey gölgeler mi?",
+    ["Description"]="Kehanet'in (Prophecy) kıyafetlerini kuşanmışsın, YOUR_CLASS. Işığını hissedebiliyorum, yine de oldukça sönük görünüyor. Belki de taşıdıkların, yapmaya istekli olduğun görevlere uygun değildir. <Melus birkaç saniye mırıldanır.> Onu buraya uzat ve bana söyle, aradığın şey gölgeler mi?",
     ["Objectives"]="Mevcut eşyanı ihtiyaçlarına en uygun olan eşyayla takas et.",
-    ["Progress"]="Bu kıyVebaler senin gerçek doğana çok daha iyi uyuyor gibi görünüyor. Sahip olduğun güce dikkat et, YOUR_CLASS.",
+    ["Progress"]="Bu kıyafetler senin gerçek doğana çok daha iyi uyuyor gibi görünüyor. Sahip olduğun güce dikkat et, YOUR_CLASS.",
     ["Completion"]="Dikkatli seç, kararın kesindir.",
     ["minlevel"]="0",
     ["questlevel"]="0",
@@ -27336,7 +27336,7 @@ QuestTranslator_QuestData = {
     ["40970"] = {
     -- Crank Fizzlebub -> Crank Cızırtıgöbek. Booty Bay -> Ganimet Koyu, Crystalvein Mine -> Kristaldamar Madeni. Thrashtail Basilisk -> Çırpınankuyruk Basiliski, Ironjaw Basilisk -> Demiriçene Basiliski.
     ["Title"]="Kristaldamar Madeni Temizliği",
-    ["Description"]="Ah, Todd, o eski güzel demirci herif. Metallerle çalışma konusunda kesinlikle bir yeteneği vardı. Bunu ona teslim ederim. Ama durum şu ki, peşinde olduğu o cevher için yaptığı talebi tam olarak yerine getiremiyorum. Anlarsın ya, biraz sıkıntılı bir durum. Bahsettiği maden, yani Kristaldamar Madeni (Crystalvein Mine), o sinir bozucu basilislerin istilasına uğradı. Çetin yaratıklardır. Onlardan tek bir bakış, ve puf, kristale dönüşürsün! Bu yüzden anlaşılır bir şekilde biz goblinler mesafemizi koruyoruz. Ama hey, eğer kendini ya aptal ya da cesur hissediyorsan ve o mağaradaki basilisleri temizlemeye hazırsan, pekala, bir anlaşma yapabiliriz. Kirli işi sen yaparsın, orada bulduğun her cevher senin olur. Adil ve dürüstçe. Yalnız, sırt çantana sığması gerekiyor ona göre. Dağlar kadar o şeyi taşımana izin veremem. Ee, ne diyorsun maceracı? Meydan okumaya hazır mısın? Eğer öyleyse, buradan kuzeydoğuya doğru git, Kristaldamar Madeni'ni bulacaksın.",
+    ["Description"]="Ah, Todd, o eski güzel demirci herif. Metallerle çalışma konusunda kesinlikle bir yeteneği vardı. Bunu ona teslim ederim. Ama durum şu ki, peşinde olduğu o cevher için yaptığı talebi tam olarak yerine getiremiyorum. Anlarsın ya, biraz sıkıntılı bir durum. NEW_LINEBahsettiği maden, yani Kristaldamar Madeni (Crystalvein Mine), o sinir bozucu basilislerin istilasına uğradı. Çetin yaratıklardır. Onlardan tek bir bakış, ve puf, kristale dönüşürsün! Bu yüzden anlaşılır bir şekilde biz goblinler mesafemizi koruyoruz. NEW_LINEAma hey, eğer kendini ya aptal ya da cesur hissediyorsan ve o mağaradaki basilisleri temizlemeye hazırsan, pekala, bir anlaşma yapabiliriz. Kirli işi sen yaparsın, orada bulduğun her cevher senin olur. Adil ve dürüstçe. Yalnız, sırt çantana sığması gerekiyor ona göre. Dağlar kadar o şeyi taşımana izin veremem. NEW_LINEEe, ne diyorsun maceracı? Meydan okumaya hazır mısın? Eğer öyleyse, buradan kuzeydoğuya doğru git, Kristaldamar Madeni'ni bulacaksın.",
     ["Objectives"]="Ganimet Koyu'ndaki (Booty Bay) Crank Cızırtıgöbek (Crank Fizzlebub) için 10 adet Kristaldamar Cevheri topla, 6 adet Çırpınankuyruk Basiliski ve 6 adet Demiriçene Basiliski katlet.",
     ["Progress"]="Sana zaten söylemiştim. Madeni temizlemen gerekiyor.",
     ["Completion"]="Yavaş ol bakalım dostum! Demek zorundayım ki, oradan tek parça halinde çıkmanı beklemiyordum. Gerçek bir kazazedensin, bunu sana teslim ederim! Yani bana madenin o pis basilislerden temizlendiğini mi söylüyorsun? Pekala, bu harika bir haber! Oraya hemen bir maden ekibi sevk edeceğim! Şimdi, kapmayı başardığın o cevhere gelirsek, onu bana teslim etmen gerekecek. Endişelenme, hepsini çok güzelce paketleyeceğim ve Todd için süslü bir not iliştireceğim. Görüşmeyeli uzun zaman oldu, değil mi? Benden bir paket alacağı için heyecanlanacağına eminim.",
@@ -27456,7 +27456,7 @@ QuestTranslator_QuestData = {
     ["Title"]="Moda Fedakarlık İster",
     ["Description"]="",
     ["Objectives"]="",
-    ["Progress"]="Sadece sana bakarak bile senin, dostum, MODADAN anladığını söyleyebilirim! Gizlemeye çalışma: Bunu, cahil taşralıların alaylarına aldırış etmeyen cesur kıyVebainde görebiliyorum. O ŞAHANE tarzını bir üst seviyeye taşıman için sana, ve sadece sana, birkaç Moda Sikkesi vermeye hazırım. Karşılığında, bir sonraki çığır açacak tasarımım için bana bazı malzemeler sağlamanı isteyeceğim. Birlikte moda dünyasını YAKIP KAVURABİLİRİZ! İşte ihtiyacım olanların listesi. Lütfen hasarsız ve en yüksek kalitede olduklarından emin ol.NEW_LINE NEW_LINE NEW_LINE NEW_LINEKeten Kumaş (5)NEW_LINEHafif Deri (5)NEW_LINEMalahit (5)NEW_LINEKüçük Deri Tasma (5)NEW_LINERewardNEW_LINE NEW_LINE Şunları alacaksınız:NEW_LINE NEW_LINEModa SikkesiNEW_LINECompletionNEW_LINE Görkemli, görkemli! İstediğim her şey ve hem de çok iyi durumda. Sürekli iş birliğimizi sabırsızlıkla beklemeyi umuyorum. Daha fazla sikkeye ihtiyacın olursa, beni nerede bulacağını biliyorsun.NEW_LINE NEW_LINE GainsNEW_LINE Görevler tamamlandığında şunları kazancaksın:NEW_LINE 0 Deneyim Puanı NEW_LINESee also",
+    ["Progress"]="Sadece sana bakarak bile senin, dostum, MODADAN anladığını söyleyebilirim! Gizlemeye çalışma: Bunu, cahil taşralıların alaylarına aldırış etmeyen cesur kıyafetinde görebiliyorum. O ŞAHANE tarzını bir üst seviyeye taşıman için sana, ve sadece sana, birkaç Moda Sikkesi vermeye hazırım. Karşılığında, bir sonraki çığır açacak tasarımım için bana bazı malzemeler sağlamanı isteyeceğim. Birlikte moda dünyasını YAKIP KAVURABİLİRİZ! İşte ihtiyacım olanların listesi. Lütfen hasarsız ve en yüksek kalitede olduklarından emin ol.NEW_LINE NEW_LINE NEW_LINE NEW_LINEKeten Kumaş (5)NEW_LINEHafif Deri (5)NEW_LINEMalahit (5)NEW_LINEKüçük Deri Tasma (5)NEW_LINERewardNEW_LINE NEW_LINE Şunları alacaksınız:NEW_LINE NEW_LINEModa SikkesiNEW_LINECompletionNEW_LINE Görkemli, görkemli! İstediğim her şey ve hem de çok iyi durumda. Sürekli iş birliğimizi sabırsızlıkla beklemeyi umuyorum. Daha fazla sikkeye ihtiyacın olursa, beni nerede bulacağını biliyorsun.NEW_LINE NEW_LINE GainsNEW_LINE Görevler tamamlandığında şunları kazancaksın:NEW_LINE 0 Deneyim Puanı NEW_LINESee also",
     ["Completion"]="Görkemli, görkemli! İstediğim her şey ve hem de çok iyi durumda. Sürekli iş birliğimizi sabırsızlıkla beklemeyi umuyorum. Daha fazla sikkeye ihtiyacın olursa, beni nerede bulacağını biliyorsun.",
     ["minlevel"]="0",
     ["questlevel"]="0",
@@ -27467,7 +27467,7 @@ QuestTranslator_QuestData = {
     ["Title"]="Moda Fedakarlık İster",
     ["Description"]="",
     ["Objectives"]="",
-    ["Progress"]="Sadece sana bakarak bile senin, dostum, MODADAN anladığını söyleyebilirim! Gizlemeye çalışma: Bunu, cahil taşralıların alaylarına aldırış etmeyen cesur kıyVebainde görebiliyorum. O ŞAHANE tarzını bir üst seviyeye taşıman için sana, ve sadece sana, birkaç Moda Sikkesi vermeye hazırım. Karşılığında, bir sonraki çığır açacak tasarımım için bana bazı malzemeler sağlamanı isteyeceğim. Birlikte moda dünyasını YAKIP KAVURABİLİRİZ! İşte ihtiyacım olanların listesi. Lütfen hasarsız ve en yüksek kalitede olduklarından emin ol.NEW_LINE NEW_LINE NEW_LINE NEW_LINEYün Kumaş (5)NEW_LINEOrta Deri (5)NEW_LINEGölgecevheri (5)NEW_LINEKüçük Tüylü Pençe (5)NEW_LINERewardNEW_LINE NEW_LINE Şunları alacaksınız:NEW_LINE NEW_LINEModa SikkesiNEW_LINECompletionNEW_LINE Görkemli, görkemli! İstediğim her şey ve hem de çok iyi durumda. Sürekli iş birliğimizi sabırsızlıkla beklemeyi umuyorum. Daha fazla sikkeye ihtiyacın olursa, beni nerede bulacağını biliyorsun.NEW_LINE NEW_LINE GainsNEW_LINE Görevler tamamlandığında şunları kazancaksın:NEW_LINE 0 Deneyim Puanı NEW_LINESee also",
+    ["Progress"]="Sadece sana bakarak bile senin, dostum, MODADAN anladığını söyleyebilirim! Gizlemeye çalışma: Bunu, cahil taşralıların alaylarına aldırış etmeyen cesur kıyafetinde görebiliyorum. O ŞAHANE tarzını bir üst seviyeye taşıman için sana, ve sadece sana, birkaç Moda Sikkesi vermeye hazırım. Karşılığında, bir sonraki çığır açacak tasarımım için bana bazı malzemeler sağlamanı isteyeceğim. Birlikte moda dünyasını YAKIP KAVURABİLİRİZ! İşte ihtiyacım olanların listesi. Lütfen hasarsız ve en yüksek kalitede olduklarından emin ol.NEW_LINE NEW_LINE NEW_LINE NEW_LINEYün Kumaş (5)NEW_LINEOrta Deri (5)NEW_LINEGölgecevheri (5)NEW_LINEKüçük Tüylü Pençe (5)NEW_LINERewardNEW_LINE NEW_LINE Şunları alacaksınız:NEW_LINE NEW_LINEModa SikkesiNEW_LINECompletionNEW_LINE Görkemli, görkemli! İstediğim her şey ve hem de çok iyi durumda. Sürekli iş birliğimizi sabırsızlıkla beklemeyi umuyorum. Daha fazla sikkeye ihtiyacın olursa, beni nerede bulacağını biliyorsun.NEW_LINE NEW_LINE GainsNEW_LINE Görevler tamamlandığında şunları kazancaksın:NEW_LINE 0 Deneyim Puanı NEW_LINESee also",
     ["Completion"]="Görkemli, görkemli! İstediğim her şey ve hem de çok iyi durumda. Sürekli iş birliğimizi sabırsızlıkla beklemeyi umuyorum. Daha fazla sikkeye ihtiyacın olursa, beni nerede bulacağını biliyorsun.",
     ["minlevel"]="0",
     ["questlevel"]="0",
@@ -27478,7 +27478,7 @@ QuestTranslator_QuestData = {
     ["Title"]="Moda Fedakarlık İster",
     ["Description"]="",
     ["Objectives"]="",
-    ["Progress"]="Sadece sana bakarak bile senin, dostum, MODADAN anladığını söyleyebilirim! Gizlemeye çalışma: Bunu, cahil taşralıların alaylarına aldırış etmeyen cesur kıyVebainde görebiliyorum. O ŞAHANE tarzını bir üst seviyeye taşıman için sana, ve sadece sana, birkaç Moda Sikkesi vermeye hazırım. Karşılığında, bir sonraki çığır açacak tasarımım için bana bazı malzemeler sağlamanı isteyeceğim. Birlikte moda dünyasını YAKIP KAVURABİLİRİZ! İşte ihtiyacım olanların listesi. Lütfen hasarsız ve en yüksek kalitede olduklarından emin ol.NEW_LINE NEW_LINE NEW_LINE NEW_LINEİpek Kumaş (5)NEW_LINEAğır Deri (5)NEW_LINEŞık Yeşil GömlekNEW_LINEYırtık Ayı Postu (5)NEW_LINERewardNEW_LINE NEW_LINE Şunları alacaksınız:NEW_LINE NEW_LINEModa SikkesiNEW_LINECompletionNEW_LINE Görkemli, görkemli! İstediğim her şey ve hem de çok iyi durumda. Sürekli iş birliğimizi sabırsızlıkla beklemeyi umuyorum. Daha fazla sikkeye ihtiyacın olursa, beni nerede bulacağını biliyorsun.NEW_LINE NEW_LINE GainsNEW_LINE Görevler tamamlandığında şunları kazancaksın:NEW_LINE 0 Deneyim Puanı NEW_LINESee also",
+    ["Progress"]="Sadece sana bakarak bile senin, dostum, MODADAN anladığını söyleyebilirim! Gizlemeye çalışma: Bunu, cahil taşralıların alaylarına aldırış etmeyen cesur kıyafetinde görebiliyorum. O ŞAHANE tarzını bir üst seviyeye taşıman için sana, ve sadece sana, birkaç Moda Sikkesi vermeye hazırım. Karşılığında, bir sonraki çığır açacak tasarımım için bana bazı malzemeler sağlamanı isteyeceğim. Birlikte moda dünyasını YAKIP KAVURABİLİRİZ! İşte ihtiyacım olanların listesi. Lütfen hasarsız ve en yüksek kalitede olduklarından emin ol.NEW_LINE NEW_LINE NEW_LINE NEW_LINEİpek Kumaş (5)NEW_LINEAğır Deri (5)NEW_LINEŞık Yeşil GömlekNEW_LINEYırtık Ayı Postu (5)NEW_LINERewardNEW_LINE NEW_LINE Şunları alacaksınız:NEW_LINE NEW_LINEModa SikkesiNEW_LINECompletionNEW_LINE Görkemli, görkemli! İstediğim her şey ve hem de çok iyi durumda. Sürekli iş birliğimizi sabırsızlıkla beklemeyi umuyorum. Daha fazla sikkeye ihtiyacın olursa, beni nerede bulacağını biliyorsun.NEW_LINE NEW_LINE GainsNEW_LINE Görevler tamamlandığında şunları kazancaksın:NEW_LINE 0 Deneyim Puanı NEW_LINESee also",
     ["Completion"]="Görkemli, görkemli! İstediğim her şey ve hem de çok iyi durumda. Sürekli iş birliğimizi sabırsızlıkla beklemeyi umuyorum. Daha fazla sikkeye ihtiyacın olursa, beni nerede bulacağını biliyorsun.",
     ["minlevel"]="0",
     ["questlevel"]="0",
@@ -27489,7 +27489,7 @@ QuestTranslator_QuestData = {
     ["Title"]="Moda Fedakarlık İster",
     ["Description"]="",
     ["Objectives"]="",
-    ["Progress"]="Sadece sana bakarak bile senin, dostum, MODADAN anladığını söyleyebilirim! Gizlemeye çalışma: Bunu, cahil taşralıların alaylarına aldırış etmeyen cesur kıyVebainde görebiliyorum. O ŞAHANE tarzını bir üst seviyeye taşıman için sana, ve sadece sana, birkaç Moda Sikkesi vermeye hazırım. Karşılığında, bir sonraki çığır açacak tasarımım için bana bazı malzemeler sağlamanı isteyeceğim. Birlikte moda dünyasını YAKIP KAVURABİLİRİZ! İşte ihtiyacım olanların listesi. Lütfen hasarsız ve en yüksek kalitede olduklarından emin ol.NEW_LINE NEW_LINE NEW_LINE NEW_LINEİşlenmiş Ağır Post (5)NEW_LINEBüyüdokuma Kumaş (5)NEW_LINEMurloc Pullu BileklikleriNEW_LINEAltın Pullu GöğüslükNEW_LINERewardNEW_LINE NEW_LINE Şunları alacaksınız:NEW_LINE NEW_LINEModa SikkesiNEW_LINECompletionNEW_LINE Görkemli, görkemli! İstediğim her şey ve hem de çok iyi durumda. Sürekli iş birliğimizi sabırsızlıkla beklemeyi umuyorum. Daha fazla sikkeye ihtiyacın olursa, beni nerede bulacağını biliyorsun.NEW_LINE NEW_LINE GainsNEW_LINE Görevler tamamlandığında şunları kazancaksın:NEW_LINE 0 Deneyim Puanı NEW_LINESee also",
+    ["Progress"]="Sadece sana bakarak bile senin, dostum, MODADAN anladığını söyleyebilirim! Gizlemeye çalışma: Bunu, cahil taşralıların alaylarına aldırış etmeyen cesur kıyafetinde görebiliyorum. O ŞAHANE tarzını bir üst seviyeye taşıman için sana, ve sadece sana, birkaç Moda Sikkesi vermeye hazırım. Karşılığında, bir sonraki çığır açacak tasarımım için bana bazı malzemeler sağlamanı isteyeceğim. Birlikte moda dünyasını YAKIP KAVURABİLİRİZ! İşte ihtiyacım olanların listesi. Lütfen hasarsız ve en yüksek kalitede olduklarından emin ol.NEW_LINE NEW_LINE NEW_LINE NEW_LINEİşlenmiş Ağır Post (5)NEW_LINEBüyüdokuma Kumaş (5)NEW_LINEMurloc Pullu BileklikleriNEW_LINEAltın Pullu GöğüslükNEW_LINERewardNEW_LINE NEW_LINE Şunları alacaksınız:NEW_LINE NEW_LINEModa SikkesiNEW_LINECompletionNEW_LINE Görkemli, görkemli! İstediğim her şey ve hem de çok iyi durumda. Sürekli iş birliğimizi sabırsızlıkla beklemeyi umuyorum. Daha fazla sikkeye ihtiyacın olursa, beni nerede bulacağını biliyorsun.NEW_LINE NEW_LINE GainsNEW_LINE Görevler tamamlandığında şunları kazancaksın:NEW_LINE 0 Deneyim Puanı NEW_LINESee also",
     ["Completion"]="Görkemli, görkemli! İstediğim her şey ve hem de çok iyi durumda. Sürekli iş birliğimizi sabırsızlıkla beklemeyi umuyorum. Daha fazla sikkeye ihtiyacın olursa, beni nerede bulacağını biliyorsun.",
     ["minlevel"]="0",
     ["questlevel"]="0",
@@ -27500,7 +27500,7 @@ QuestTranslator_QuestData = {
     ["Title"]="Moda Fedakarlık İster",
     ["Description"]="",
     ["Objectives"]="",
-    ["Progress"]="Sadece sana bakarak bile senin, dostum, MODADAN anladığını söyleyebilirim! Gizlemeye çalışma: Bunu, cahil taşralıların alaylarına aldırış etmeyen cesur kıyVebainde görebiliyorum. O ŞAHANE tarzını bir üst seviyeye taşıman için sana, ve sadece sana, birkaç Moda Sikkesi vermeye hazırım. Karşılığında, bir sonraki çığır açacak tasarımım için bana bazı malzemeler sağlamanı isteyeceğim. Birlikte moda dünyasını YAKIP KAVURABİLİRİZ! İşte ihtiyacım olanların listesi. Lütfen hasarsız ve en yüksek kalitede olduklarından emin ol.NEW_LINE NEW_LINE NEW_LINE NEW_LINEBüyüdokuma Topu (5)NEW_LINEYıldız Yakutu (5)NEW_LINEBeyaz GelinlikNEW_LINEÖlümcül Bronz HançerNEW_LINERewardNEW_LINE NEW_LINE Şunları alacaksınız:NEW_LINE NEW_LINEModa SikkesiNEW_LINECompletionNEW_LINE Görkemli, görkemli! İstediğim her şey ve hem de çok iyi durumda. Sürekli iş birliğimizi sabırsızlıkla beklemeyi umuyorum. Daha fazla sikkeye ihtiyacın olursa, beni nerede bulacağını biliyorsun.NEW_LINE NEW_LINE GainsNEW_LINE Görevler tamamlandığında şunları kazancaksın:NEW_LINE 0 Deneyim Puanı NEW_LINESee also",
+    ["Progress"]="Sadece sana bakarak bile senin, dostum, MODADAN anladığını söyleyebilirim! Gizlemeye çalışma: Bunu, cahil taşralıların alaylarına aldırış etmeyen cesur kıyafetinde görebiliyorum. O ŞAHANE tarzını bir üst seviyeye taşıman için sana, ve sadece sana, birkaç Moda Sikkesi vermeye hazırım. Karşılığında, bir sonraki çığır açacak tasarımım için bana bazı malzemeler sağlamanı isteyeceğim. Birlikte moda dünyasını YAKIP KAVURABİLİRİZ! İşte ihtiyacım olanların listesi. Lütfen hasarsız ve en yüksek kalitede olduklarından emin ol.NEW_LINE NEW_LINE NEW_LINE NEW_LINEBüyüdokuma Topu (5)NEW_LINEYıldız Yakutu (5)NEW_LINEBeyaz GelinlikNEW_LINEÖlümcül Bronz HançerNEW_LINERewardNEW_LINE NEW_LINE Şunları alacaksınız:NEW_LINE NEW_LINEModa SikkesiNEW_LINECompletionNEW_LINE Görkemli, görkemli! İstediğim her şey ve hem de çok iyi durumda. Sürekli iş birliğimizi sabırsızlıkla beklemeyi umuyorum. Daha fazla sikkeye ihtiyacın olursa, beni nerede bulacağını biliyorsun.NEW_LINE NEW_LINE GainsNEW_LINE Görevler tamamlandığında şunları kazancaksın:NEW_LINE 0 Deneyim Puanı NEW_LINESee also",
     ["Completion"]="Görkemli, görkemli! İstediğim her şey ve hem de çok iyi durumda. Sürekli iş birliğimizi sabırsızlıkla beklemeyi umuyorum. Daha fazla sikkeye ihtiyacın olursa, beni nerede bulacağını biliyorsun.",
     ["minlevel"]="0",
     ["questlevel"]="0",
@@ -27511,7 +27511,7 @@ QuestTranslator_QuestData = {
     ["Title"]="Moda Fedakarlık İster",
     ["Description"]="",
     ["Objectives"]="",
-    ["Progress"]="Sadece sana bakarak bile senin, dostum, MODADAN anladığını söyleyebilirim! Gizlemeye çalışma: Bunu, cahil taşralıların alaylarına aldırış etmeyen cesur kıyVebainde görebiliyorum. O ŞAHANE tarzını bir üst seviyeye taşıman için sana, ve sadece sana, birkaç Moda Sikkesi vermeye hazırım. Karşılığında, bir sonraki çığır açacak tasarımım için bana bazı malzemeler sağlamanı isteyeceğim. Birlikte moda dünyasını YAKIP KAVURABİLİRİZ! İşte ihtiyacım olanların listesi. Lütfen hasarsız ve en yüksek kalitede olduklarından emin ol.NEW_LINE NEW_LINE NEW_LINE NEW_LINERündokuma Topu (5)NEW_LINEAltın İnciNEW_LINEUzun Yumuşak Kuyruk (5)NEW_LINENazik Tüy (5)NEW_LINERewardNEW_LINE NEW_LINE Şunları alacaksınız:NEW_LINE NEW_LINEModa SikkesiNEW_LINECompletionNEW_LINE Görkemli, görkemli! İstediğim her şey ve hem de çok iyi durumda. Sürekli iş birliğimizi sabırsızlıkla beklemeyi umuyorum. Daha fazla sikkeye ihtiyacın olursa, beni nerede bulacağını biliyorsun.NEW_LINE NEW_LINE GainsNEW_LINE Görevler tamamlandığında şunları kazancaksın:NEW_LINE 0 Deneyim Puanı NEW_LINESee also",
+    ["Progress"]="Sadece sana bakarak bile senin, dostum, MODADAN anladığını söyleyebilirim! Gizlemeye çalışma: Bunu, cahil taşralıların alaylarına aldırış etmeyen cesur kıyafetinde görebiliyorum. O ŞAHANE tarzını bir üst seviyeye taşıman için sana, ve sadece sana, birkaç Moda Sikkesi vermeye hazırım. Karşılığında, bir sonraki çığır açacak tasarımım için bana bazı malzemeler sağlamanı isteyeceğim. Birlikte moda dünyasını YAKIP KAVURABİLİRİZ! İşte ihtiyacım olanların listesi. Lütfen hasarsız ve en yüksek kalitede olduklarından emin ol.NEW_LINE NEW_LINE NEW_LINE NEW_LINERündokuma Topu (5)NEW_LINEAltın İnciNEW_LINEUzun Yumuşak Kuyruk (5)NEW_LINENazik Tüy (5)NEW_LINERewardNEW_LINE NEW_LINE Şunları alacaksınız:NEW_LINE NEW_LINEModa SikkesiNEW_LINECompletionNEW_LINE Görkemli, görkemli! İstediğim her şey ve hem de çok iyi durumda. Sürekli iş birliğimizi sabırsızlıkla beklemeyi umuyorum. Daha fazla sikkeye ihtiyacın olursa, beni nerede bulacağını biliyorsun.NEW_LINE NEW_LINE GainsNEW_LINE Görevler tamamlandığında şunları kazancaksın:NEW_LINE 0 Deneyim Puanı NEW_LINESee also",
     ["Completion"]="Görkemli, görkemli! İstediğim her şey ve hem de çok iyi durumda. Sürekli iş birliğimizi sabırsızlıkla beklemeyi umuyorum. Daha fazla sikkeye ihtiyacın olursa, beni nerede bulacağını biliyorsun.",
     ["minlevel"]="0",
     ["questlevel"]="0",
@@ -32122,12 +32122,12 @@ QuestTranslator_QuestData = {
     }, -- end Hands of Might
 
 -- Kehanet Elleri
-    -- Garments of Prophecy -> Kehanet kıyVebaleri / giysileri. Melus kalmıştır. Shadows -> Gölgeler.
+    -- Garments of Prophecy -> Kehanet kıyafetleri / giysileri. Melus kalmıştır. Shadows -> Gölgeler.
     ["41463"] = {
     ["Title"]="Kehanet Elleri",
-    ["Description"]="Kehanet'in (Prophecy) kıyVebalerini kuşanmışsın, YOUR_CLASS. Işığını hissedebiliyorum ama oldukça sönük görünüyor. Belki de taşıdıkların, gerçekleştirmek istediğin görevlere uygun değildir.\n\n<Melus birkaç saniye mırıldanır.>\n\nOnu bana uzat ve söyle, aradığın şey gölgeler (the shadows) mi?",
+    ["Description"]="Kehanet'in (Prophecy) kıyafetlerini kuşanmışsın, YOUR_CLASS. Işığını hissedebiliyorum ama oldukça sönük görünüyor. Belki de taşıdıkların, gerçekleştirmek istediğin görevlere uygun değildir.\n\n<Melus birkaç saniye mırıldanır.>\n\nOnu bana uzat ve söyle, aradığın şey gölgeler (the shadows) mi?",
     ["Objectives"]="Mevcut eşyanı ihtiyaçlarına en uygun olan eşyayla takas et.",
-    ["Progress"]="Bu kıyVebaler senin gerçek doğana çok daha iyi uyuyor gibi görünüyor. Sahip olduğun güce dikkat et, YOUR_CLASS.",
+    ["Progress"]="Bu kıyafetler senin gerçek doğana çok daha iyi uyuyor gibi görünüyor. Sahip olduğun güce dikkat et, YOUR_CLASS.",
     ["Completion"]="Dikkatli seç, kararın kesindir.",
     ["minlevel"]="0",
     ["questlevel"]="0",
@@ -32225,11 +32225,11 @@ QuestTranslator_QuestData = {
 
 -- Kehanet Başı
     ["41459"] = {
-    -- Garments of Prophecy -> Kehanet kıyVebaleri / giysileri. Melus kalmıştır. Shadows -> Gölgeler.
+    -- Garments of Prophecy -> Kehanet kıyafetleri / giysileri. Melus kalmıştır. Shadows -> Gölgeler.
     ["Title"]="Kehanet Başı",
-    ["Description"]="Kehanet'in (Prophecy) kıyVebalerini kuşanmışsın, YOUR_CLASS. Işığını hissedebiliyorum ama oldukça sönük görünüyor. Belki de taşıdıkların, gerçekleştirmek istediğin görevlere uygun değildir.\n\n<Melus birkaç saniye mırıldanır.>\n\nOnu bana uzat ve söyle, aradığın şey gölgeler (the shadows) mi?",
+    ["Description"]="Kehanet'in (Prophecy) kıyafetlerini kuşanmışsın, YOUR_CLASS. Işığını hissedebiliyorum ama oldukça sönük görünüyor. Belki de taşıdıkların, gerçekleştirmek istediğin görevlere uygun değildir.\n\n<Melus birkaç saniye mırıldanır.>\n\nOnu bana uzat ve söyle, aradığın şey gölgeler (the shadows) mi?",
     ["Objectives"]="Mevcut eşyanı ihtiyaçlarına en uygun olan eşyayla takas et.",
-    ["Progress"]="Bu kıyVebaler senin gerçek doğana çok daha iyi uyuyor gibi görünüyor. Sahip olduğun güce dikkat et, YOUR_CLASS.",
+    ["Progress"]="Bu kıyafetler senin gerçek doğana çok daha iyi uyuyor gibi görünüyor. Sahip olduğun güce dikkat et, YOUR_CLASS.",
     ["Completion"]="Dikkatli seç, kararın kesindir.",
     ["minlevel"]="0",
     ["questlevel"]="0",
@@ -36778,10 +36778,10 @@ QuestTranslator_QuestData = {
     -- Gold -> Altın, pockets -> cepler. Risa kalmıştır. Beach front -> Sahil kenarı.
     ["80382"] = {
     ["Title"]="VIP Davetiyeleri",
-    ["Description"]="Birkaç ticaret prensi (trade princes) olmadan bir plaj partisi (beach party) neye yarardı ki, ha? Bu etkinlikte büyük isimlere ihtiyacım var, aksi takdirde tam bir fiyasko olur! En şık kıyVebalerini giy ve bu özel davetiyeleri (special invitations) Ratchet'taki (Ratchet) Ticaret Prensi Gazlowe'a ve Booty Bay'deki (Booty Bay) Baron Revilgaz'a ulaştır. Eğer gelirlerse, diğerlerinin de takip edeceğinden emin olabilirsin. Sahilde daha fazla beden, ceplerimi dolduran daha fazla altın (gold) demektir, anladın mı? Karşılığında sana gerçekten güzel bir şey vereceğim.",
+    ["Description"]="Birkaç ticaret prensi (trade princes) olmadan bir plaj partisi (beach party) neye yarardı ki, ha? Bu etkinlikte büyük isimlere ihtiyacım var, aksi takdirde tam bir fiyasko olur! En şık kıyafetlerini giy ve bu özel davetiyeleri (special invitations) Ratchet'taki (Ratchet) Ticaret Prensi Gazlowe'a ve Booty Bay'deki (Booty Bay) Baron Revilgaz'a ulaştır. Eğer gelirlerse, diğerlerinin de takip edeceğinden emin olabilirsin. Sahilde daha fazla beden, ceplerimi dolduran daha fazla altın (gold) demektir, anladın mı? Karşılığında sana gerçekten güzel bir şey vereceğim.",
     ["Objectives"]="Risa'nın plaj partisi davetiyelerini Ratchet'taki Gazlowe'a ve Booty Bay'deki Baron Revilgaz'a ulaştır.",
     ["Progress"]="Acele et yoksa tarzımı bozarsın! Bu adamların, davetiyelerini en sona bıraktığımı düşünmelerini istemiyorum.",
-    ["Completion"]="Harika, partim ortalığı kasıp kavuracak! Bu çocukların ne tür bir nüfuz getireceğini görmek için sabırsızlanıyorum. Eğer gerçekten yüksekten oynayan tiplerse, koca bir bar dolusu içki satın alırlar. Yardımın için tekrar teşekkürler. Neden bu güzel sahil kenarında (beach front) bize katılmıyorsan? Ama bu görünüşle değil tabii. Benimle takılmak için doğru dikişlere (kıyVebalere) sahip olmalısın. Bunları al ve üzerine geçir.",
+    ["Completion"]="Harika, partim ortalığı kasıp kavuracak! Bu çocukların ne tür bir nüfuz getireceğini görmek için sabırsızlanıyorum. Eğer gerçekten yüksekten oynayan tiplerse, koca bir bar dolusu içki satın alırlar. Yardımın için tekrar teşekkürler. Neden bu güzel sahil kenarında (beach front) bize katılmıyorsan? Ama bu görünüşle değil tabii. Benimle takılmak için doğru dikişlere (kıyafetlere) sahip olmalısın. Bunları al ve üzerine geçir.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end VIP Invites
@@ -36847,13 +36847,13 @@ QuestTranslator_QuestData = {
     }, -- end Waist of Might
 
 -- Waist of Prophecy
-    -- Garments of Prophecy -> Kehanet KıyVebaleri. Light -> Işık. Shadows -> Gölgeler.
+    -- Garments of Prophecy -> Kehanet kıyafetleri. Light -> Işık. Shadows -> Gölgeler.
     -- Melus kalmıştır. Current item -> Mevcut eşya, needs -> ihtiyaçlar. True nature -> Gerçek doğa. Power -> Güç.
     ["41464"] = {
     ["Title"]="Kehanet Kuşağı",
-    ["Description"]="Kehanet'in (Prophecy) kıyVebalerini kuşanmışsın, YOUR_CLASS. Onun ışığını hissedebiliyorum, yine de oldukça sönük görünüyor. Belki de taşıdıkların yerine getirmeye istekli olduğun görevler için uygun değildir. <Melus birkaç saniye mırıldanır.> Onu buraya uzat ve bana söyle, aradığın şey gölgeler (shadows) mi?",
+    ["Description"]="Kehanet'in (Prophecy) kıyafetlerini kuşanmışsın, YOUR_CLASS. Onun ışığını hissedebiliyorum, yine de oldukça sönük görünüyor. Belki de taşıdıkların yerine getirmeye istekli olduğun görevler için uygun değildir. <Melus birkaç saniye mırıldanır.> Onu buraya uzat ve bana söyle, aradığın şey gölgeler (shadows) mi?",
     ["Objectives"]="Mevcut eşyanı ihtiyaçlarına en uygun olan eşyayla takas et.",
-    ["Progress"]="Bu kıyVebaler gerçek doğana (true nature) çok daha iyi uyuyor gibi görünüyor. Sahip olduğun güce dikkat et, YOUR_CLASS.",
+    ["Progress"]="Bu kıyafetler gerçek doğana (true nature) çok daha iyi uyuyor gibi görünüyor. Sahip olduğun güce dikkat et, YOUR_CLASS.",
     ["Completion"]="Dikkatli seç, kararın kesindir.",
     ["minlevel"]="0",
     ["questlevel"]="0",
@@ -37151,7 +37151,7 @@ QuestTranslator_QuestData = {
     -- Elder Külvadi Bear Pelts -> Yaşlı Külvadi Ayısı Postları.
     ["70026"] = {
     ["Title"]="Peon'un Gardırop Yenilemesi",
-    ["Description"]="Çoğu görev tamamlanmışken, senden sadece bir iyilik isteyeceğim; zavallı peonlarımız (peons) bu lanet olası ormana geldiğimizden beri aynı yırtık pırtık kıyVebaleri giyiyorlar, o paçavralarla (rags) bir gün daha geçiremezler ve odun kesen çıplak peonlar yüzünden suçlanacak kişi kesinlikle ben olmayacağım!\n\nBenimle birlikte biraz ayı avlamanı ve yüzmeni istiyorum; Splintertree Karakolu'nun (Splintertree Post) kuzeyinde ve hemen sol bitişiğinde ayıları bulabileceksin, deri işleme ustamızın (leatherworker) o zavallı sefil ruhlar için yeni kıyVebaler işlemesine yetecek kadar topla; ama unutma YOUR_NAME, sadece ayıların en yaşlı olanlarını avla.",
+    ["Description"]="Çoğu görev tamamlanmışken, senden sadece bir iyilik isteyeceğim; zavallı peonlarımız (peons) bu lanet olası ormana geldiğimizden beri aynı yırtık pırtık kıyafetleri giyiyorlar, o paçavralarla (rags) bir gün daha geçiremezler ve odun kesen çıplak peonlar yüzünden suçlanacak kişi kesinlikle ben olmayacağım!\n\nBenimle birlikte biraz ayı avlamanı ve yüzmeni istiyorum; Splintertree Karakolu'nun (Splintertree Post) kuzeyinde ve hemen sol bitişiğinde ayıları bulabileceksin, deri işleme ustamızın (leatherworker) o zavallı sefil ruhlar için yeni kıyafetler işlemesine yetecek kadar topla; ama unutma YOUR_NAME, sadece ayıların en yaşlı olanlarını avla.",
     ["Objectives"]="10 Yaşlı Külvadi Ayısı Postu (Elder Külvadi Bear Pelts) topla.",
     ["Progress"]="Unutma, sadece ayıların en yaşlı olanlarını avla.",
     ["Completion"]="Teşekkürlerimi kabul et YOUR_NAME, çalışman bana ve adamlarıma tahmin edeceğinden daha fazla yardımcı oldu; bir minnettarlık göstergesi olarak deri işleme ustası bunu senin için yaptı.",
@@ -37974,8 +37974,8 @@ QuestTranslator_QuestData = {
     -- Undermine Outfitters -> Undermine Hazır Giyim.
     ["41268"] = {
     ["Title"]="Çorapları Yeniden Doldurmak",
-    ["Description"]="Oh hayır, sen de Serendipity Modaevi (Maison Serendipity) Kış Festivali (Winter Veil) kıyVebalerini aramaya mı geldin? Şey, utanç verici ama... Şu anda tamamen tükendim! Görüyorsun ya, Rouge dergisi (Rouge magazine) bizim hakkımızda bir makale yazdı ve, şey... Böyle bir akın beklemiyorduk! Dükkana yeni bir sevkiyata ihtiyacım olduğuna dair haber göndermem gerekiyor ama görev yerimden gerçekten ayrılmamalıyım. Bilirsin, kıyVebalerine bakılırsa çok gezmiş birine benziyorsun. Fırtınayeli'ne (Stormwind) geri koşup onlardan bana daha fazla ürün göndermelerini isteyebilir misin? Atölye (the atelier) Park'ta (the Park), girişin yakınındadır. Sadece Madam Gres'i (Madame Gres) iste ve ona durumu bildir. O halleder!",
-    ["Objectives"]="Fırtınayeli Parkı'ndaki (Stormwind Park) Serendipity Atölyesi dükkanına seyahat et ve Alix Gres'ten Vera Lauren'a yeni bir kıyVeba sevkiyatı göndermesini iste.",
+    ["Description"]="Oh hayır, sen de Serendipity Modaevi (Maison Serendipity) Kış Festivali (Winter Veil) kıyafetlerini aramaya mı geldin? Şey, utanç verici ama... Şu anda tamamen tükendim! Görüyorsun ya, Rouge dergisi (Rouge magazine) bizim hakkımızda bir makale yazdı ve, şey... Böyle bir akın beklemiyorduk! Dükkana yeni bir sevkiyata ihtiyacım olduğuna dair haber göndermem gerekiyor ama görev yerimden gerçekten ayrılmamalıyım. Bilirsin, kıyafetlerine bakılırsa çok gezmiş birine benziyorsun. Fırtınayeli'ne (Stormwind) geri koşup onlardan bana daha fazla ürün göndermelerini isteyebilir misin? Atölye (the atelier) Park'ta (the Park), girişin yakınındadır. Sadece Madam Gres'i (Madame Gres) iste ve ona durumu bildir. O halleder!",
+    ["Objectives"]="Fırtınayeli Parkı'ndaki (Stormwind Park) Serendipity Atölyesi dükkanına seyahat et ve Alix Gres'ten Vera Lauren'a yeni bir kıyafet sevkiyatı göndermesini iste.",
     ["Progress"]="Evet? Ben Madam Gres (Madame Gres). Size nasıl yardımcı olabilirim?",
     ["Completion"]="Vera çoktan tüketti, öyle mi? Şey, sanırım böyle bir olasılığa hazırlıklı olmalıydık ama yüksek terzilik (couture) aceleye getirilemez. Festival modanızın (festiv fashion) Undermine Hazır Giyim'den (Undermine Outfitters) alınmış bir hazır giyim (prêt-à-porter) gibi görünmesini istemezsiniz, değil mi? Sadece küçük bir sorun var...",
     ["minlevel"]="0",
@@ -37988,8 +37988,8 @@ QuestTranslator_QuestData = {
     -- Coco -> Coco kalmıştır. Ralph Jacobs -> Ralph Jacobs kalmıştır.
     ["41271"] = {
     ["Title"]="Çorapları Yeniden Doldurmak",
-    ["Description"]="Gah, sen de Serendipity Modaevi (Maison Serendipity) Kış Festivali (Winter Veil) kıyVebalerini aramaya mı geldin? Şey, söylediğim için üzgünüm ama biraz geç kaldın. Şu anda tamamen tükendim. O Rouge dergisi (Rouge magazine) bizim hakkımızda bir makale yazdı ve, şey... Böyle bir akın beklemiyorduk. Dükkana yeni bir sevkiyata ihtiyacım olduğuna dair haber göndermem gerekiyor ama görev yerimden ayrılmamam gerekiyor. Hey, kıyVebalerine bakılırsa çok gezmiş birine benziyorsun. Eğer Undercity'ye (Undercity) geri koşup onlardan bana daha fazla ürün göndermelerini isteyebilir misin? Atölye (the atelier) Eczane'de (Apothecarium), Tılsım dükkanının yakınındadır. Sadece Coco'yu iste ve ona durumu bildir. Bu karmaşayı o düzeltecektir!",
-    ["Objectives"]="Undercity Eczane (Undercity Apothecarium) alışveriş bölgesindeki Serendipity Atölyesi dükkanına seyahat et ve Coco'dan Ralph Jacobs'a yeni bir kıyVeba sevkiyatı göndermesini iste.",
+    ["Description"]="Gah, sen de Serendipity Modaevi (Maison Serendipity) Kış Festivali (Winter Veil) kıyafetlerini aramaya mı geldin? Şey, söylediğim için üzgünüm ama biraz geç kaldın. Şu anda tamamen tükendim. O Rouge dergisi (Rouge magazine) bizim hakkımızda bir makale yazdı ve, şey... Böyle bir akın beklemiyorduk. Dükkana yeni bir sevkiyata ihtiyacım olduğuna dair haber göndermem gerekiyor ama görev yerimden ayrılmamam gerekiyor. Hey, kıyafetlerine bakılırsa çok gezmiş birine benziyorsun. Eğer Undercity'ye (Undercity) geri koşup onlardan bana daha fazla ürün göndermelerini isteyebilir misin? Atölye (the atelier) Eczane'de (Apothecarium), Tılsım dükkanının yakınındadır. Sadece Coco'yu iste ve ona durumu bildir. Bu karmaşayı o düzeltecektir!",
+    ["Objectives"]="Undercity Eczane (Undercity Apothecarium) alışveriş bölgesindeki Serendipity Atölyesi dükkanına seyahat et ve Coco'dan Ralph Jacobs'a yeni bir kıyafet sevkiyatı göndermesini iste.",
     ["Progress"]="Coco'yu mu arıyorsun? O benim, tatlım, senin için ne yapabilirim?",
     ["Completion"]="Ralph çoktan tüketti, öyle mi? Şey, sanırım böyle bir olasılığa hazırlıklı olmalıydık ama yüksek terzilik (couture) aceleye getirilemez. Festival modanızın (festiv fashion) Undermine Hazır Giyim'den (Undermine Outfitters) alınmış bir hazır giyim (prêt-à-porter) gibi görünmesini istemezsiniz, değil mi? Sadece küçük bir sorun var...",
     ["minlevel"]="0",
@@ -38161,7 +38161,7 @@ QuestTranslator_QuestData = {
     -- Glove -> Eldiven, world -> dünya.
     ["80606"] = {
     ["Title"]="Oyun Yöneticilerinden İntikam!",
-    ["Description"]="Mavi kıyVebaler giyen, kukuletalı ve cübbeli olan, başkaları için işleri tatsız hale getirenleri cezalandırmak amacıyla buralarda gezinen o gizemli kişilerden birini hiç gördün mü? Çok fazla insan onlardan birini görmemiştir ya da onlar hakkında hiçbir şey bilmez. Bir kez olsun cezalandırılan onlar olmalı! Eldivenlerimi alan onlar olmalı, çünkü ellerimden yok olmasından başka kim sorumlu olabilir ki?! Onlardan birini nerede bulabileceğinden emin değilim ama ortaya çıkarlarsa, benim için yüzlerine bir kar topu (snowball) fırlat ve buna müsaade edilmeyeceğini bilmelerini sağ!",
+    ["Description"]="Mavi kıyafetler giyen, kukuletalı ve cübbeli olan, başkaları için işleri tatsız hale getirenleri cezalandırmak amacıyla buralarda gezinen o gizemli kişilerden birini hiç gördün mü? Çok fazla insan onlardan birini görmemiştir ya da onlar hakkında hiçbir şey bilmez. Bir kez olsun cezalandırılan onlar olmalı! Eldivenlerimi alan onlar olmalı, çünkü ellerimden yok olmasından başka kim sorumlu olabilir ki?! Onlardan birini nerede bulabileceğinden emin değilim ama ortaya çıkarlarsa, benim için yüzlerine bir kar topu (snowball) fırlat ve buna müsaade edilmeyeceğini bilmelerini sağ!",
     ["Objectives"]="Bir Oyun Yöneticisi'ni (Game Master) Kar Topu (Snowball) ile Vur!",
     ["Progress"]="Dünyamızın o gizemli yöneticilerinden (masters) birini henüz bulabildin mi?",
     ["Completion"]="Yaptın mı? Harika! Belki şimdi eldivenimi yok etmeden önce iki kez düşünürler. Bekle, eldivenimi onlar almadı mı? Şey, umarım şimdi diğerini de almazlar...",
@@ -40365,13 +40365,13 @@ QuestTranslator_QuestData = {
     }, -- end Sleep Paralysis
 
 -- Sleepwalking at Day
-    -- Fiancé -> nişanlı, dog-tired -> köpek gibi yorgun / bitkin, night -> gece, long black hair -> uzun siyah saç, clothes -> kıyVebaler.
+    -- Fiancé -> nişanlı, dog-tired -> köpek gibi yorgun / bitkin, night -> gece, long black hair -> uzun siyah saç, clothes -> kıyafetler.
     -- Rash -> fevri, bedroom -> yatak odası. Side of things -> işin aslı / onun anlatacağı taraf, lies -> yalanlar. Evidence -> kanıt / delil.
     -- Lumber mill -> kereste fabrikası, wood -> odun. Bert Mano -> Bert Mano kalmıştır.
     -- Hawk's Vigil -> Şahin Nöbeti (Hawk + Vigil). Investigation -> soruşturma. Poison -> zehir, approach -> yaklaşım.
     ["40567"] = {
     ["Title"]="Gündüz Gözüyle Karabasan",
-    ["Description"]="Oh, bunu yapamam. <Yüksek sesle iç çeker ve gözlerine masaj yapar.> Nişanlım (fiancé) her zaman köpek gibi yorgun, gece yarısı rastgele ortadan kayboluyor ve geçenlerde kıyVebalerinde uzun siyah saçlar buldum. Bana bunu nasıl yapabildiğini bir türlü çözemiyorum! Ama emin olmalıyım. Lütfen, YOUR_CLASS, fevri (rash) bir şey yapmadan önce benim için bu konuyu araştırabilir misin? Onunla konuşmaya bile dayanamıyorum, eski yatak odamıza geri dönmek bir yana. Sadece onun şu lanet olası savunmasını öğren ve bana hangi yalanları (lies) söylediğini anlat. Bulabileceğin her türlü ekstra delil (evidence) de iyi olur sanırım. <Yüzünü sıkıca buruşturur.> Muhtemelen benden kaçıyor ve kereste fabrikasının (lumber mill) yanında odun keserek işe yarıyormuş gibi davranıyor. Bert Mano onun adı.",
+    ["Description"]="Oh, bunu yapamam. <Yüksek sesle iç çeker ve gözlerine masaj yapar.> Nişanlım (fiancé) her zaman köpek gibi yorgun, gece yarısı rastgele ortadan kayboluyor ve geçenlerde kıyafetlerinde uzun siyah saçlar buldum. Bana bunu nasıl yapabildiğini bir türlü çözemiyorum! Ama emin olmalıyım. Lütfen, YOUR_CLASS, fevri (rash) bir şey yapmadan önce benim için bu konuyu araştırabilir misin? Onunla konuşmaya bile dayanamıyorum, eski yatak odamıza geri dönmek bir yana. Sadece onun şu lanet olası savunmasını öğren ve bana hangi yalanları (lies) söylediğini anlat. Bulabileceğin her türlü ekstra delil (evidence) de iyi olur sanırım. <Yüzünü sıkıca buruşturur.> Muhtemelen benden kaçıyor ve kereste fabrikasının (lumber mill) yanında odun keserek işe yarıyormuş gibi davranıyor. Bert Mano onun adı.",
     ["Objectives"]="Şahin Nöbeti'ndeki (Hawk's Vigil) Bert Mano ile konuş ve soruşturmanın seni nereye götüreceğini gör.",
     ["Progress"]="Sana yardımcı olabilir miyim?",
     ["Completion"]="Zehir mi (Poison)? Vay canına, bu işleri çok karıştırıyor. Daha doğrudan bir yaklaşım (approach) sergilememiz gerekebilir.",
@@ -42290,7 +42290,7 @@ QuestTranslator_QuestData = {
     ["Description"]="Greymane ya da daha doğrusu Harlow, Kuzgunbucağı'na (Ravenshire) ısrarla saldırılar düzenledi ama nafile. Yiğit askerlerimiz sarsılmaz bir cesaret sergileyerek onların saldırılarını defalarca püskürttü. Ancak, cüretkar gece saldırılarından birinde düşman, belediye binamızın savunmasını yarmayı ve Kuzgunbucağı'nın Tapusu'nu kaçırmayı başardı. NEW_LINEBu parşömen benim için çok az kişisel değer taşısa da, sıradan halk  için meşru yönetimimin bir sembolü olarak büyük bir önem taşıyor. Gilneas'ta düzenin yeniden sağlanması için onu vakit kaybetmeden geri almalıyım. NEW_LINEŞüphesiz düşman kuvvetleri onu Gilneas Şehri'ne geri götürmüştür. Ancak şu anki nerede olduğu konusunda sadece tahmin yürütebiliriz.",
     ["Objectives"]="Gilneas Şehri'ndeki Kuzgunbucağı'nın Tapusu'nu bul ve Caliban Silverlaine'e geri getir.",
     ["Progress"]="Kuzgunbucağı'nın Tapusu geri alınmalıdır.",
-    ["Completion"]="Harika çalışmanı takdir ediyorum. Tapunun bir kez daha güvenli bir şekilde mülkiyetime geçmesiyle, yönetimime meydan okumaya cüret eden her bozguncu  eylemlerini yeniden gözden geçirmek zorunda kalacaktır. Bu belgenin geri dönüşü, otoritemizi  sorgulayacak olanların cüretkarlığına şüphe düşürerek güçlü bir caydırıcı görevi görüyor. Önümüzdeki yol meşakkatli olsa da, Gilneas'ı yeniden inşa etme konusundaki kararlılığımızdan sarsılmayacağız. Önümüzde uzun ve zorlu bir yolculuk var, ancak geçen her gün, sevgili vatanımızı hak ettiği şan ve ihtişam dolu yerine döndürmek için yorulmak bilmeden çalışacağız.",
+    ["Completion"]="Harika çalışmanı takdir ediyorum. Tapunun bir kez daha güvenli bir şekilde mülkiyetime geçmesiyle, yönetimime meydan okumaya cüret eden her bozguncu  eylemlerini yeniden gözden geçirmek zorunda kalacaktır. Bu belgenin geri dönüşü, otoritemizi  sorgulayacak olanların cüretkarlığına şüphe düşürerek güçlü bir caydırıcı görevi görüyor. NEW_LINEÖnümüzdeki yol meşakkatli olsa da, Gilneas'ı yeniden inşa etme konusundaki kararlılığımızdan sarsılmayacağız. Önümüzde uzun ve zorlu bir yolculuk var, ancak geçen her gün, sevgili vatanımızı hak ettiği şan ve ihtişam dolu yerine döndürmek için yorulmak bilmeden çalışacağız.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end The Deed to Ravenshire
@@ -47124,7 +47124,7 @@ QuestTranslator_QuestData = {
     ["Title"]="Yaprağın Bereketi",
     ["Description"]="Birisi Fırtınayeli'nden (Stormwind) Kuzeyrüzgârı'na (Northwind) seyahat etmenin huzurlu bir çaba, parkta ufak bir yürüyüş  olduğunu varsayabilir — kana susamış, ağzından salyalar akan bir gnoll sürüsünden  kaçmak dışında her şey.\n\nKral diplomatik görevine  çıktığından beri koşullar daha da  kötüleşti. Kendi muhafızlarımıza  güvenemeyecek olmamız akıl almaz bir durum! Sıradan halkın  arasından bir milis (militia) toplamak zorunda  kaldık. Bu gerçekten trajik.\n\nBah, yine de Soylular Meclisi'ndeki (House of Nobles) o lanet olası, açgözlü domuzlar vergi  talep etmek için hala ellerini  uzatıyorlar. Ben— bu ani öfkem için  kusura bakma. Buraya gelirken, kapıdaki tehlikeden  kaçarken o çok değer verdiğim yüzüğüm parmağımdan  kayıp gitti!\n\nTicarethanem  mahvoldu, neyse ne. Ama o yüzükten öylece  ayrılamam; o, el üstünde  tutulan bir aile yadigarıdır. Tüccar Anayolu'ndaki (Merchant's Highroad) yaprak yığınlarından birinin içine  düşmüş olmalı. Onu benim için geri alacak kadar  nazik olur musun?",
     ["Objectives"]="Yaprak yığınlarının arasında Leon'un kayıp yüzüğünü  bul.",
-    ["Progress"]="Kir ve gnoll salyası—  bu kıyVebaleri yakmalıyım.",
+    ["Progress"]="Kir ve gnoll salyası—  bu kıyafetleri yakmalıyım.",
     ["Completion"]="Muhafızların  bocaladığı yerde, halk  yetişecektir. Minnettarlığımı  kabul et, maceracı. Çektiğin zahmet için  birkaç madeni para.",
     ["minlevel"]="0",
     ["questlevel"]="0",
@@ -50577,7 +50577,7 @@ QuestTranslator_QuestData = {
     -- Pirate Hats Ahoy!
     ["8365"] = {
     ["Title"]="Korsan Şapkaları Ahoy!",
-    ["Description"]="Kartel'in gönderdiği yardım sen misin? Sanırım iş görürsün. Beni dikkatlice dinle YOUR_CLASS. Bildiğin üzere ben Azeroth toplumunun seçkinleri için moda kıyVebaler temin eden biriyim. Krallar ve Kraliçeler, Savaşşefleri ve Horde kraliçelerine her ne diyorsa, hepsi benim modaya uygun seçtiğim şeyleri giyer. Ve bunun için servet öderler, ki en güzel kısmı da bu.\n\nYani şöyle olacak: Kayıp Armatör Koyak'ına gidecek ve ne şekilde olursa olsun bolca korsan şapkası ele geçireceksin. Bununla başa çıkabileceğini düşünüyor musun?",
+    ["Description"]="Kartel'in gönderdiği yardım sen misin? Sanırım iş görürsün. Beni dikkatlice dinle YOUR_CLASS. Bildiğin üzere ben Azeroth toplumunun seçkinleri için moda kıyafetler temin eden biriyim. Krallar ve Kraliçeler, Savaşşefleri ve Horde kraliçelerine her ne diyorsa, hepsi benim modaya uygun seçtiğim şeyleri giyer. Ve bunun için servet öderler, ki en güzel kısmı da bu.\n\nYani şöyle olacak: Kayıp Armatör Koyak'ına gidecek ve ne şekilde olursa olsun bolca korsan şapkası ele geçireceksin. Bununla başa çıkabileceğini düşünüyor musun?",
     ["Objectives"]="Haughty Modiste 20 Güney Denizi Korsan Şapkası toplamanı ve onları Tanaris'teki Steamwheedle Limanı'nda kendisine teslim etmeni istiyor.",
     ["Progress"]="20 şapkanın hepsi tamam mı? Sana inanmıyorum, görmeme izin ver. Kusursuz durumda olsalar iyi olur!",
     ["Completion"]="Alışkın olduğumdan daha uzun sürmüş olsa da tam bir tatlılıksın. Bu şapkaları temizleyip kişiselleştirdiğimde bu sevkiyat bana epey para kazandıracak. Ve iyi yapılmış bir işi her zaman ödüllendirmeye istekli biri olarak, işte sana küçük bir şey. Bunun bir kısmını banyoya harcamanı tavsiye ederim tatlım.",
@@ -54278,7 +54278,7 @@ QuestTranslator_QuestData = {
 	},
 	["2973"] = {
 		["Title"] = "Yeni Bir Pelerinin Parıltısı",
-		["Description"] = "İyi karşılaştık, YOUR_CLASS. Orgrimmar ustalarımızın bir görevi için yoldaşlarımla birlikte Feralas'a seyahat ettim.NEW_LINEHayat arkadaşım Korrin yeni kıyVebalerden büyük keyif alıyor, ben de ona peri ejderhalarının tül kanatlarıyla süslenmiş yeni bir pelerin yapmayı hedefliyorum. Bana yardım edebilir misin? İstediğim muhteşem kanatlara sahip peri ejderleri Mojache Kampı [Camp Mojache]'nın batısındadır.",
+		["Description"] = "İyi karşılaştık, YOUR_CLASS. Orgrimmar ustalarımızın bir görevi için yoldaşlarımla birlikte Feralas'a seyahat ettim.NEW_LINEHayat arkadaşım Korrin yeni kıyafetlerden büyük keyif alıyor, ben de ona peri ejderhalarının tül kanatlarıyla süslenmiş yeni bir pelerin yapmayı hedefliyorum. Bana yardım edebilir misin? İstediğim muhteşem kanatlara sahip peri ejderleri Mojache Kampı [Camp Mojache]'nın batısındadır.",
 		["Objectives"] = "Mojache Kampı [Camp Mojache]'ndaki Krueg Kafatasıyaran [Krueg Skullsplitter]'a 10 Yanardöner Peri Ejderi Kanadı [Iridescent Sprite Darter Wing] getir.",
 		["Progress"] = "Peri ejderleri kışkırtıldıklarında tehlikeli yaratıklar olabilir. Onlarla ilgilenirken dikkatli ol, YOUR_CLASS. Ve bölgedeki gece elflerine karşı daha da dikkatli ol. Can sıkıcı aptallar ormanlarda tutunma eğilimindedir.NEW_LINEYeterince kanat aldığında bana haber ver, seni iyi ödüllendireceğimden emin olacağım!",
 		["Completion"] = "Harika, YOUR_CLASS! Bunlar iş görür. Burada Korrin için bir pelerin yapmaya yetecek kadar var, hatta belki daha da fazlası! Teşekkür ederim.NEW_LINEUmarım yolculuk çok tehlikeli geçmemiştir? Feralas bölgesi bağışlayıcı olmasıyla bilinmez ama belli ki yeterince iyi iş çıkarmışsın.NEW_LINETekrar teşekkürler, YOUR_CLASS.",
@@ -64501,10 +64501,10 @@ QuestTranslator_QuestData = {
     -- Dark Iron Slaver -> kara demir Köleci
     ["7729"] = {
     ["Title"]="İŞ FIRSATI: Rekabeti Ayıklamak",
-    ["Description"]="İşustası Scrange, Kavurucu Yarak'taki 'rekabeti ayıklamaya' yardımcı olacak birkaç iyi adam ve kadın arıyor.\n\nBu pozisyonla ilgileniyorsan, Kavurucu Yarak'a git ve gördüğün her kara demir İşustası'nı ve kara demir Köleci'yi katlet.\n\nKıyVebalerin yeterince kanlandığında İşustası Scrange'e geri dön.\n\nYeterince kanlandığında anlayacaksın, o yüzden sorma.",
+    ["Description"]="İşustası Scrange, Kavurucu Yarak'taki 'rekabeti ayıklamaya' yardımcı olacak birkaç iyi adam ve kadın arıyor.\n\nBu pozisyonla ilgileniyorsan, Kavurucu Yarak'a git ve gördüğün her kara demir İşustası'nı ve kara demir Köleci'yi katlet.\n\nkıyafetlerin yeterince kanlandığında İşustası Scrange'e geri dön.\n\nYeterince kanlandığında anlayacaksın, o yüzden sorma.",
     ["Objectives"]="15 kara demir İşustası ve 15 kara demir Köleci katlet. Bu görevi başardıktan sonra Kavurucu Yarak'taki İşustası Scrange'e geri dön.",
-    ["Progress"]="Emin olmak için seni kıyVebali ve kıyVebasiz tartmamız gerekecek.",
-    ["Completion"]="15.9 pound! KıyVeba üzerindeki kan ve bağırsak ağırlığı için bu yeni bir rekor olabilir! Tebrikler, YOUR_CLASS!",
+    ["Progress"]="Emin olmak için seni kıyafetli ve kıyafetsiz tartmamız gerekecek.",
+    ["Completion"]="15.9 pound! kıyafet üzerindeki kan ve bağırsak ağırlığı için bu yeni bir rekor olabilir! Tebrikler, YOUR_CLASS!",
     ["minlevel"]="45",
     ["questlevel"]="48",
     }, -- end JOB OPPORTUNITY: Culling the Competition
@@ -71194,7 +71194,7 @@ QuestTranslator_QuestData = {
     ["Description"]="Bu toprakların savunmasında düşenlerin zırhlarını geri getirerek beni onurlandırır mısın?NEW_LINEZırh saygısızlığa uğradı ve şüphesiz kötülük için kullanılıyor; ancak, savaştan yıpranmış zırh hurdalarıyla, saygısızlığa uğramış zırh yenilenebilir ve bir kez daha savaş için giyilebilir.NEW_LINEDüşenlerin kalıntılarını arınma malzemeleriyle birlikte bana getir; Topraksarsan giymen için senin olsun.NEW_LINENEW_LINENaxxramas'ı ara.",
     ["Objectives"]="Şunları getirirsen Doğu Veba Toprakları'ndaki Işık Umudu Şapeli'nde bulunan Rimblat Topraksarsan sana bir Topraksarsan Başlığı yapacaktır: 1 Saygısızlığa Uğramış Başlık, 15 Savaştan Yıpranmış Zincir Hurdası, 4 Arkanit Külçesi ve 2 Kristal Özü.",
     ["Progress"]="İhtiyacım olan şeyi bana getirdin mi?",
-    ["Completion"]="Sana Topraksarsan kıyVebalerinin başparçasını sunuyorum: Topraksarsan miğferi...",
+    ["Completion"]="Sana Topraksarsan kıyafetlerinin başparçasını sunuyorum: Topraksarsan miğferi...",
     ["minlevel"]="60",
     ["questlevel"]="60"
 },
@@ -73550,7 +73550,7 @@ QuestTranslator_QuestData = {
     ["Title"] = "Şenlikli Tarifler",
     ["Description"] = "",
     ["Objectives"] = "",
-    ["Progress"] = "Gördüğün elbiseler ve pantolon takımları uzun yıllar öncesinin geleneksel kıyVebaleridir. Eski yolların ve giden sevdiklerin onuruna giyilirler.NEW_LINEBana ata sikkeleri getirirsen, YOUR_NAME, sana geleneksel kırmızı elbiseler veya takımlar yaratma kalıbını veririm.",
+    ["Progress"] = "Gördüğün elbiseler ve pantolon takımları uzun yıllar öncesinin geleneksel kıyafetleridir. Eski yolların ve giden sevdiklerin onuruna giyilirler.NEW_LINEBana ata sikkeleri getirirsen, YOUR_NAME, sana geleneksel kırmızı elbiseler veya takımlar yaratma kalıbını veririm.",
     ["Completion"] = "İşte kalıplar, YOUR_NAME. Bu bilginin ürününü oldukça güzel bulacağına eminim.",
     ["minlevel"] = "50",
     ["questlevel"] = "60"
@@ -74461,7 +74461,7 @@ QuestTranslator_QuestData = {
     ["Description"] = "",
     ["Objectives"] = "",
     ["Progress"] = "",
-    ["Completion"] = "Maceramı arayanlardan ne istersem isteyebildiğim bir zaman vardı. Ama şimdi, sadece sorman yeterli, seni ona göndereceğim.NEW_LINEBu beni rahatsız ediyor ama emirlerini sorgulamıyorum. Sadece giydiğin gülünç kıyVebalerle ya da yüzündeki zavallı ifadeyle dalga geçmekten keyif alabiliyorum. Bu bile beni sıkıyor...NEW_LINEBu saçmalamam bile beni sıkıyor! Ustamı görmek istiyor musun istemiyor musun?",
+    ["Completion"] = "Maceramı arayanlardan ne istersem isteyebildiğim bir zaman vardı. Ama şimdi, sadece sorman yeterli, seni ona göndereceğim.NEW_LINEBu beni rahatsız ediyor ama emirlerini sorgulamıyorum. Sadece giydiğin gülünç kıyafetlerle ya da yüzündeki zavallı ifadeyle dalga geçmekten keyif alabiliyorum. Bu bile beni sıkıyor...NEW_LINEBu saçmalamam bile beni sıkıyor! Ustamı görmek istiyor musun istemiyor musun?",
     ["minlevel"] = "45",
     ["questlevel"] = "55"
 },
@@ -76880,7 +76880,7 @@ QuestTranslator_QuestData = {
     ["Title"] = "Duruma Uygun Bir Şapka",
     ["Description"] = "Aman Tanrım, ilahi adalet! Muhafız'ı görmeye bu şekilde mi gitmek istiyorsun? Cesurca, söylemeliyim ama belki biraz fazla cesurca. Modayı kapsayan her şeyin aşkına, kuleye bu paçavralarla çıkmana izin veremem. Kulağa ne kadar sert gelse de gerçek bu!NEW_LINETaktığın o başlığa bakmak bile tüylerimi ürpertiyor ve beni titretiyor. Bu rezaleti tasarlayan her kimse yargılanmayı hak ediyor. Kendi erzaklarımdan bazılarıyla bana yardım edersen, sana yeni, daha moda bir tanesinin tasarımlarını alabilirim. Anlaştık mı?",
     ["Objectives"] = "Pietro Paraveno'ya gerekli malzemeleri getirin, kendisi Karazhan Kulesi'nde bekliyor.",
-    ["Progress"] = "Lütfen acele et. Bu iğrenç kıyVebae bakacağım her an kusacağım.",
+    ["Progress"] = "Lütfen acele et. Bu iğrenç kıyafete bakacağım her an kusacağım.",
     ["Completion"] = "Mükemmel malzemeler, gerçekten muhteşem. Şimdi bunlardan birini al ve kendine bakması bu kadar iğrenç olmayan bir şey işle.",
     ["minlevel"] = "60",
     ["questlevel"] = "60"
@@ -76890,7 +76890,7 @@ QuestTranslator_QuestData = {
     ["Title"] = "Günlerce Süren Bacaklar",
     ["Description"] = "Aman Tanrım, ilahi adalet! Muhafız'ı görmeye bu şekilde mi gitmek istiyorsun? Cesurca, söylemeliyim ama belki biraz fazla cesurca. Modayı kapsayan her şeyin aşkına, kuleye bu paçavralarla çıkmana izin veremem. Kulağa ne kadar sert gelse de gerçek bu!NEW_LINEVücuduna giydiğin o bacak giysisine bakmak bile tüylerimi ürpertiyor ve beni titretiyor. Bu rezaleti tasarlayan her kimse yargılanmayı hak ediyor. Kendi erzaklarımdan bazılarıyla bana yardım edersen, sana yeni, daha moda bir tanesinin tasarımlarını alabilirim. Anlaştık mı?",
     ["Objectives"] = "Pietro Paraveno'ya gerekli malzemeleri getirin, kendisi Karazhan Kulesi'nde bekliyor.",
-    ["Progress"] = "Lütfen acele et. Bu iğrenç kıyVebae bakacağım her an kusacağım.",
+    ["Progress"] = "Lütfen acele et. Bu iğrenç kıyafete bakacağım her an kusacağım.",
     ["Completion"] = "Mükemmel malzemeler, gerçekten muhteşem. Şimdi bunlardan birini al ve kendine bakması bu kadar iğrenç olmayan bir şey işle.",
     ["minlevel"] = "60",
     ["questlevel"] = "60"
@@ -76900,7 +76900,7 @@ QuestTranslator_QuestData = {
     ["Title"] = "Omuzlarındaki Modanın Yükü",
     ["Description"] = "Aman Tanrım, ilahi adalet! Muhafız'ı görmeye bu şekilde mi gitmek istiyorsun? Cesurca, söylemeliyim ama belki biraz fazla cesurca. Modayı kapsayan her şeyin aşkına, kuleye bu paçavralarla çıkmana izin veremem. Kulağa ne kadar sert gelse de gerçek bu!NEW_LINETaktığın o omuzluklara bakmak bile tüylerimi ürpertiyor ve beni titretiyor. Bu rezaleti tasarlayan her kimse yargılanmayı hak ediyor. Kendi erzaklarımdan bazılarıyla bana yardım edersen, sana yeni, daha moda bir tanesinin tasarımlarını alabilirim. Anlaştık mı?",
     ["Objectives"] = "Pietro Paraveno'ya gerekli malzemeleri getirin, kendisi Karazhan Kulesi'nde bekliyor.",
-    ["Progress"] = "Lütfen acele et. Bu iğrenç kıyVebae bakacağım her an kusacağım.",
+    ["Progress"] = "Lütfen acele et. Bu iğrenç kıyafete bakacağım her an kusacağım.",
     ["Completion"] = "Mükemmel malzemeler, gerçekten muhteşem. Şimdi bunlardan birini al ve kendine bakması bu kadar iğrenç olmayan bir şey işle.",
     ["minlevel"] = "60",
     ["questlevel"] = "60"
@@ -76910,7 +76910,7 @@ QuestTranslator_QuestData = {
     ["Title"] = "İyi Tadın Kucaklaması",
     ["Description"] = "Aman Tanrım, ilahi adalet! Muhafız'ı görmeye bu şekilde mi gitmek istiyorsun? Cesurca, söylemeliyim ama belki biraz fazla cesurca. Modayı kapsayan her şeyin aşkına, kuleye bu paçavralarla çıkmana izin veremem. Kulağa ne kadar sert gelse de gerçek bu!NEW_LINEGiydiğin o göğüslüğe bakmak bile tüylerimi ürpertiyor ve beni titretiyor. Bu rezaleti tasarlayan her kimse yargılanmayı hak ediyor. Kendi erzaklarımdan bazılarıyla bana yardım edersen, sana yeni, daha moda bir tanesinin tasarımlarını alabilirim. Anlaştık mı?",
     ["Objectives"] = "Pietro Paraveno'ya gerekli malzemeleri getirin, kendisi Karazhan Kulesi'nde bekliyor.",
-    ["Progress"] = "Lütfen acele et. Bu iğrenç kıyVebae bakacağım her an kusacağım.",
+    ["Progress"] = "Lütfen acele et. Bu iğrenç kıyafete bakacağım her an kusacağım.",
     ["Completion"] = "Mükemmel malzemeler, gerçekten muhteşem. Şimdi bunlardan birini al ve kendine bakması bu kadar iğrenç olmayan bir şey işle.",
     ["minlevel"] = "60",
     ["questlevel"] = "60"
@@ -76920,7 +76920,7 @@ QuestTranslator_QuestData = {
     ["Title"] = "Kusursuz Kalitede Bir Pelerin",
     ["Description"] = "Aman Tanrım, ilahi adalet! Muhafız'ı görmeye bu şekilde mi gitmek istiyorsun? Cesurca, söylemeliyim ama belki biraz fazla cesurca. Modayı kapsayan her şeyin aşkına, kuleye bu paçavralarla çıkmana izin veremem. Kulağa ne kadar sert gelse de gerçek bu!NEW_LINEÜzerine örttüğün o pelerine bakmak bile tüylerimi ürpertiyor ve beni titretiyor. Bu rezaleti tasarlayan her kimse yargılanmayı hak ediyor. Kendi erzaklarımdan bazılarıyla bana yardım edersen, sana yeni, daha moda bir tanesinin tasarımlarını alabilirim. Anlaştık mı?",
     ["Objectives"] = "Pietro Paraveno'ya gerekli malzemeleri getirin, kendisi Karazhan Kulesi'nde bekliyor.",
-    ["Progress"] = "Lütfen acele et. Bu iğrenç kıyVebae bakacağım her an kusacağım.",
+    ["Progress"] = "Lütfen acele et. Bu iğrenç kıyafete bakacağım her an kusacağım.",
     ["Completion"] = "Mükemmel malzemeler, gerçekten muhteşem. Şimdi bunu al ve kendine bakması bu kadar iğrenç olmayan bir şey işle.",
     ["minlevel"] = "60",
     ["questlevel"] = "60"
@@ -79342,7 +79342,7 @@ QuestTranslator_QuestData = {
 
 ["41969"] = {
     ["Title"]="Ritüel Giysileri",
-    ["Description"]="Neden merhaba gezgin, ben Erna ve Aytoynak İnziva Yeri'nin kıyVebalerinin çoğundan sorumluyum. Daha spesifik olarak, Yaşlı Yıldızadımlayan (Elder Starstrider) için karmaşık bir Giysi seti yaratmakla görevlendirildim, çünkü mevcut çifti yaşça oldukça büyüyor.NEW_LINESelefimi geride bırakmak ve biraz daha karmaşık bir şey yapmak isterim. Benim yerime Ayfısıltısı Kıyısı'ndan ayrılıp Yanar Dağlar (Burning Steppes) olarak bilinen ateşli topraklara seyahat edebilecek birine ihtiyacım var. Yerel worg'lardan derin bej ve kırmızı tonlarına sahip egzotik bir Köz Worgu Kürkü hikayeleri duydum. İş arıyorsan altı kürk demetine ihtiyacım olacak ve seyahat için cömertçe ödeme yapacağım.",
+    ["Description"]="Neden merhaba gezgin, ben Erna ve Aytoynak İnziva Yeri'nin kıyafetlerinin çoğundan sorumluyum. Daha spesifik olarak, Yaşlı Yıldızadımlayan (Elder Starstrider) için karmaşık bir Giysi seti yaratmakla görevlendirildim, çünkü mevcut çifti yaşça oldukça büyüyor.NEW_LINESelefimi geride bırakmak ve biraz daha karmaşık bir şey yapmak isterim. Benim yerime Ayfısıltısı Kıyısı'ndan ayrılıp Yanar Dağlar (Burning Steppes) olarak bilinen ateşli topraklara seyahat edebilecek birine ihtiyacım var. Yerel worg'lardan derin bej ve kırmızı tonlarına sahip egzotik bir Köz Worgu Kürkü hikayeleri duydum. İş arıyorsan altı kürk demetine ihtiyacım olacak ve seyahat için cömertçe ödeme yapacağım.",
     ["Objectives"]="Ayfısıltısı Kıyısı'ndaki Aytoynak İnziva Yeri'nde bulunan Erna için Yanar Dağlar'ın Köz Worgları'ndan 6 Köz Worgu Kürkü getir",
     ["Progress"]="Kürk temin edildi mi?",
     ["Completion"]="Ne harika bir malzeme, çok parlak ve renkli! Bu gelecek törenler için harikalar yaratacak ve kesinlikle son giysiden daha iyi olacak.NEW_LINETeşekkür ederim YOUR_CLASS ve lütfen bunu bir ödül olarak al.",
@@ -79555,7 +79555,7 @@ QuestTranslator_QuestData = {
     ["Description"]="Kabilenin çoğu rasyonlar ve genel mallar için avlarımız sırasında elde etmeyi başardığımız deriyi giymeyi tercih etse da, bazılarımız daha zarif denebilecek bir şeyi tercih ediyor. Bir aile olarak benimki nesillerdir üzerinde çalıştığımız malzemenin adını taşıdı. Ve seninle şu an bu sohbeti yapmamızın nedeni sadece güvelerden elde edilebilen belirli ipek eksikliğidir.NEW_LINEMoro’gai Köyü'nün güneyinde Ayipeği Oyuğu'nu bulacaksın. Bu Ayipeği güvelerinin ev dediği yeri garip bir güzellik kaplıyor. Tam da çiftleşme sezonu yakın zamanda geçti ve yeni doğan larvaların şimdiye kadar kozalak aşamasına ulaşmış olması gerekiyordu. Benim için o kozalaklardan bazılarını dikkatlice topla; gençleri iyi büyüteceğim ve bundan sonra kabile için ipeklerini toplayacağım.",
     ["Objectives"]="Ayipeği Oyuğu'ndan Güveipeği Kozalakları topla ve onları Aytoynak Köyü'ndeki Shanni İpektoynak'a (Shanni Silkhoof) getir.",
     ["Progress"]="Önce ne terzilik yapmam gerektiğini merak ediyorum.",
-    ["Completion"]="Sana henüz yeni kıyVebaler sağlayamasam da son partiden işlediğim bunlardan seçim yapabilirsin.",
+    ["Completion"]="Sana henüz yeni kıyafetler sağlayamasam da son partiden işlediğim bunlardan seçim yapabilirsin.",
     ["minlevel"]="53",
     ["questlevel"]="54"
 },
@@ -79632,7 +79632,7 @@ QuestTranslator_QuestData = {
 
 ["42010"] = {
     ["Title"]="Güçsüz Rün Taşı",
-    ["Description"]="Ishnu’daldieb yabancı. Yaşayanların Maras’ethil'de kurumlandığını görmek ne kadar nadir. Yoksa zihnim bana oyunlar mı oynuyor? Bağışlayın, yılların tecriti nezaket duygumu köreltti. Şimdilik Muhafız N’las olarak hitap edebilirsiniz, bu şimdilik yeterli olacaktır. Biliyor musun, bu güzel günde seninle karşılaşmak aradığım sorunlarıma tam da çözüm olabilir. Görüyorsun ya, burası yaşamak için birincil yerim değil. Manzara nefes kesici olsa da hayaletimsi komşularım hoşuma gitmeyecek kadar cüretkar, bu yüzden daha kuzeybatıda, bu kıyının dağlarında yaşıyorum. Ne yazık ki oraya tek ulaşım yöntemim şaşırtıcı şekilde aniden sessizleşti. Onu tamir edebilirim ama yolculuk çok büyük bir eziyet olurdu ve kıyVebaine bakılırsa iş için çok daha uygun olurdun.NEW_LINEDağ sırasının yukarısında, Winterspring'in buzlu tarlalarında Baykuş Kanadı Koruluğu'nu (Owl Wing Thicket) bulacaksın. Karın çok altında zamanda donmuş şişeler yatıyor. Onlardan bir avucu bana getir.",
+    ["Description"]="Ishnu’daldieb yabancı. Yaşayanların Maras’ethil'de kurumlandığını görmek ne kadar nadir. Yoksa zihnim bana oyunlar mı oynuyor? Bağışlayın, yılların tecriti nezaket duygumu köreltti. Şimdilik Muhafız N’las olarak hitap edebilirsiniz, bu şimdilik yeterli olacaktır. Biliyor musun, bu güzel günde seninle karşılaşmak aradığım sorunlarıma tam da çözüm olabilir. Görüyorsun ya, burası yaşamak için birincil yerim değil. Manzara nefes kesici olsa da hayaletimsi komşularım hoşuma gitmeyecek kadar cüretkar, bu yüzden daha kuzeybatıda, bu kıyının dağlarında yaşıyorum. Ne yazık ki oraya tek ulaşım yöntemim şaşırtıcı şekilde aniden sessizleşti. Onu tamir edebilirim ama yolculuk çok büyük bir eziyet olurdu ve kıyafetine bakılırsa iş için çok daha uygun olurdun.NEW_LINEDağ sırasının yukarısında, Winterspring'in buzlu tarlalarında Baykuş Kanadı Koruluğu'nu (Owl Wing Thicket) bulacaksın. Karın çok altında zamanda donmuş şişeler yatıyor. Onlardan bir avucu bana getir.",
     ["Objectives"]="Muhafız N’las için Donmuş Asilzade Şişeleri topla ve onları Ayfısıltısı Kıyısı'ndaki Maras’ethil yakınındaki kuledeki evine teslim et.",
     ["Progress"]="Rün taşının arızalanmasından kimin sorumlu olduğunu düşünüyorsun? Bana sorarsan gölün yakınındaki o mavi alçaklar olmalı. Büyüleri o kadar ilkel ki sonunda bir şeylerin ters gitmesi gerekiyordu.",
     ["Completion"]="Eonlarca gömülü kalmış gibi görünebilirler ama aldanma. İçlerindeki suların yüzeye doğru yükselmesine neden olan büyülü bir özelliği var, böylece ayın ışığını bir kez daha kucaklayabilsinler. Winterspring'in ağır karıyla ancak hiçbir zaman gerçekten ortaya çıkamadılar. Daha fazla ilgileniyorsan Baykuş Kanadı Koruluğu bir zamanlar Lura’valas Tapınağı olarak adlandırılırdı ve tanrıça Elune için bir ibadet yeriydi. Onay olan inanç uygulamalarımı azaltmış olabilirim ama hâlâ onun lütfu ve yargısıyla yaşıyorum.NEW_LINEŞimdi, şimdi; benden bu kadar gevezelik yeter. Rün taşını tamir edeceğim ve sana bir teşekkür olarak, ne zaman merakın depreşirse mütevazı ikametgahımı ziyaret etmek için kullanmana izin vereceğim. Çekinme, minnet gösterme yolum bu.",
@@ -80276,17 +80276,17 @@ QuestTranslator_QuestData = {
 
     ["42100"] = {
         ["Title"] = "Anma Günü",
-        ["Description"] = "YOUR_CLASS, tam da ihtiyacım olan kişi olabilirsin. Bugün, Fırtınadiyarı halkının Kuzeyuşağı Manastırı'nın eski Başpiskoposu Alonsus Faol'a, krallıktaki zayıflara, yaşlılara ve diğer talihsiz ruhlara bağışta bulunarak hürmet gösterdiği Anma Günü. Kasaba halkının özverili bağışlarını buraya, Fırtınadiyarı'na taşırken Göletköy'den geliyordum ki bir grup korkunç gnoll arabamı yağmaladı. Bütün kıyVebaler, yiyecekler ve oyuncaklar onlar tarafından ya zarar gördü ya da tamamen mahfedildi.NEW_LINEGösterecek hiçbir şeyim kalmayınca çaresiz kaldım. Ama sanki Başpiskopos Faol kendisi ızdırabımı dinlemiş gibi, gözlerim yakınlarda parlak bir ışıltıya takıldı. Nereden geldiğini kontrol ettiğimde, bir yonca yaması fark ettim, Faol'un iyi niyetinin açık bir işareti! Yonca yolunu takip edenin şanslıların yolunu takip edeceği söylenir.NEW_LINEBelki de iklemimin çözümü budur. Fırtınadiyarı'nın muhtaç insanlarına yardımını sunar mısın?",
+        ["Description"] = "YOUR_CLASS, tam da ihtiyacım olan kişi olabilirsin. Bugün, Fırtınadiyarı halkının Kuzeyuşağı Manastırı'nın eski Başpiskoposu Alonsus Faol'a, krallıktaki zayıflara, yaşlılara ve diğer talihsiz ruhlara bağışta bulunarak hürmet gösterdiği Anma Günü. Kasaba halkının özverili bağışlarını buraya, Fırtınadiyarı'na taşırken Göletköy'den geliyordum ki bir grup korkunç gnoll arabamı yağmaladı. Bütün kıyafetler, yiyecekler ve oyuncaklar onlar tarafından ya zarar gördü ya da tamamen mahfedildi.NEW_LINEGösterecek hiçbir şeyim kalmayınca çaresiz kaldım. Ama sanki Başpiskopos Faol kendisi ızdırabımı dinlemiş gibi, gözlerim yakınlarda parlak bir ışıltıya takıldı. Nereden geldiğini kontrol ettiğimde, bir yonca yaması fark ettim, Faol'un iyi niyetinin açık bir işareti! Yonca yolunu takip edenin şanslıların yolunu takip edeceği söylenir.NEW_LINEBelki de iklemimin çözümü budur. Fırtınadiyarı'nın muhtaç insanlarına yardımını sunar mısın?",
         ["Objectives"] = "Raymond'a ikileminden çıkması için yardım etmek üzere yonca yamaları yolunu takip et! Elwynn Ormanı'ndaki Altınkasaba'da bekliyor.",
         ["Progress"] = "Işık sana rehberlik bahşetsin, böylece fakirler onun cömertliğiyle lütuflansın.",
-        ["Completion"] = "Bu da ne böyle?! Ağzına kadar kıyVeba, yiyecek, oyuncak ve benzerleriyle dolu bir sandık mı? Bunu nerede buldun iyi dostum? Yoksa perde arkasından çömezlerini izleyen Alonsus Faol'un kendisinden bir mucize miydi? Her ne olursa olsun, özverili ve doğru kişilerin karanlıkta yalnız bırakılmayacağını bize bir kez daha gösterdiği için Işık'a teşekkür etmeliyiz.NEW_LINEYOUR_NAME, sana sonsuz teşekkürler. Şimdi daha fazla zaman kaybetmemeliyim. Fakirler beni bekliyor. Lütfen bulduğun lütufkar hediyelerden bunu al, kendin bir ödülü fazlasıyla hak ediyorsun. Işık yolculuğunu kutsasın!",
+        ["Completion"] = "Bu da ne böyle?! Ağzına kadar kıyafet, yiyecek, oyuncak ve benzerleriyle dolu bir sandık mı? Bunu nerede buldun iyi dostum? Yoksa perde arkasından çömezlerini izleyen Alonsus Faol'un kendisinden bir mucize miydi? Her ne olursa olsun, özverili ve doğru kişilerin karanlıkta yalnız bırakılmayacağını bize bir kez daha gösterdiği için Işık'a teşekkür etmeliyiz.NEW_LINEYOUR_NAME, sana sonsuz teşekkürler. Şimdi daha fazla zaman kaybetmemeliyim. Fakirler beni bekliyor. Lütfen bulduğun lütufkar hediyelerden bunu al, kendin bir ödülü fazlasıyla hak ediyorsun. Işık yolculuğunu kutsasın!",
         ["minlevel"] = "5",
         ["questlevel"] = "5"
     },
 
     ["42101"] = {
         ["Title"] = "Dünyaana’yı Onurlandırmak",
-        ["Description"] = "Selamlar, gezgin. İçinde bulunduğum zor durum için tam da doğru kişi olabilirsin. Bize sağladığı nimetler için Dünyaana'ya her gün teşekkür etsek de, bugün özel bir durum. Vaat edilmiş Mulgore topraklarında yaşayan tüm kabileler toplanır ve Gürleyen Yarma'da, şarkı ve dansın Dünyaana tarafından bize verilen bolluğu kutladığı büyük bir ziyafete katkıda bulunur. Ne yazık ki, toplanan malları taşımayı planladığım araba yerel gnollar tarafından yağmalandı. Bütün kıyVebaler, yiyecekler ve enstrümanlar onlar tarafından tamamen mahfedildi. Şimdi elimizde kalanlarla idare etmeye çalışıyoruz.NEW_LINEYine de hâlâ bir umut ışığı var. Tam olarak ne kaldığını görmek için köyü incelerken, gözümün ucuyla Gürleyen Yarma'da doğru koşan bir perinin silik görüntüsünü gördüm. İkinci bir kez baktığımda ise tek görebildiğim bir yonca yamasıydı. YOUR_CLASS, bunun Dünyaana'dan bir işaret olduğuna inanıyorum. Yonca yolunu takip et ve ziyafeti henüz kurtarabiliriz.",
+        ["Description"] = "Selamlar, gezgin. İçinde bulunduğum zor durum için tam da doğru kişi olabilirsin. Bize sağladığı nimetler için Dünyaana'ya her gün teşekkür etsek de, bugün özel bir durum. Vaat edilmiş Mulgore topraklarında yaşayan tüm kabileler toplanır ve Gürleyen Yarma'da, şarkı ve dansın Dünyaana tarafından bize verilen bolluğu kutladığı büyük bir ziyafete katkıda bulunur. Ne yazık ki, toplanan malları taşımayı planladığım araba yerel gnollar tarafından yağmalandı. Bütün kıyafetler, yiyecekler ve enstrümanlar onlar tarafından tamamen mahfedildi. Şimdi elimizde kalanlarla idare etmeye çalışıyoruz.NEW_LINEYine de hâlâ bir umut ışığı var. Tam olarak ne kaldığını görmek için köyü incelerken, gözümün ucuyla Gürleyen Yarma'da doğru koşan bir perinin silik görüntüsünü gördüm. İkinci bir kez baktığımda ise tek görebildiğim bir yonca yamasıydı. YOUR_CLASS, bunun Dünyaana'dan bir işaret olduğuna inanıyorum. Yonca yolunu takip et ve ziyafeti henüz kurtarabiliriz.",
         ["Objectives"] = "Hefhani'ye ikileminden çıkması için yardım etmek üzere yonca yamaları yolunu takip et! Mulgore'daki Kanboynuzu Köyü'nde bekliyor.",
         ["Progress"] = "Doğanın perilerinin şans ve talih elçileri olduğu söylenir. Gördüğüm şeyin bu olduğundan eminim.",
         ["Completion"] = "Yiyecek, kumaş ve enstrümanlarla dolu koca bir sandık mı?! Bu nasıl mümkün olabilir? Bu gerçekten Dünyaana'nın bir lütfu olabilir mi? Öyle olmalı! Bu kadar şanslı olduğumuza inanamıyorum. Defalarca kanıtlandı, halkı ve hayatları boyunca onu el üstünde tutanlar için rızık sağlıyor.NEW_LINEYOUR_NAME, sana kalbimin derinliklerinden teşekkür etmeliyim. Yardımınızla, onun cömertliği onuruna ziyafeti henüz organize edip planlayabiliriz. Lütfen, bize getirdiğin bolluktan bu ödülü al. Bu ödülü fazlasıyla hak ettin. Dünyaana'nın lütfuyla git, YOUR_NAME.",
