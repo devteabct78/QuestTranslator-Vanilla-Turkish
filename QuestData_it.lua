@@ -3444,16 +3444,15 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end Ölümün Soğukluğu
 
-    -- Lanetliler
     ["376"] = {
-    ["Title"]="Lanetliler",
-    ["Description"]="Görevlerim arasında yaralı savaşçılarımızla ilgilenmek, zırh ve kıyafet dikmek ve Gölge Rahip Sarvis'e ihtiyaç duyabileceği her konuda yardımcı olmak var.NEW_LINEGörünüşe bakılırsa sen de onun hizmetine gireceksin... Akılsızları avlamak, eğer aklından geçenleri biliyorsam. Eğer tek parça kalmak istiyorsan -ki istediğinden şüphem yok- belki ben yardımcı olabilirim. Pençelerim ve kanatlarım tükeniyor, eğer bana biraz getirirsen sana zırh bulabilirim. Güneyde çok sayıda kurt ve yarasa bulacaksın.",
-    ["Objectives"]="4 Çöpçü Patisi ve 4 Alacakaranlık Yarasası Kanadı elde et.",
-    ["Progress"]="Ben sana zırh getirene kadar zarar görmemek için elinden geleni yap.",
-    ["Completion"]="Teşekkürler, YOUR_NAME. Bu zırh sana yardımcı olacaktır.NEW_LINEUmarım son giyenden daha çok işine yarar.",
-    ["minlevel"]="0",
-    ["questlevel"]="0",
-    }, -- end Lanetliler
+        ["Title"] = "Lanetliler",
+        ["Description"] = "Görevlerim arasında yaralı savaşçılarımızla ilgilenmek, zırh ve giysi dikmek ve Gölge Rahibi Sarvis'e ihtiyaç duyabileceği her konuda yardımcı olmak yer alıyor.\n\nGörünüşe göre sen de onun hizmetine alınacaksın... Düşüncesiz Olanlar'ı avlayacaksın, eğer onun aklını okuyabiliyorsam. Pekala, eğer tek parça kalmak istiyorsan—ki öyle istediğinden hiç şüphem yok—belki sana yardım edebilirim. Pençelerim ve kanatlarımız tükeniyor ve bana biraz getirirsen sana bir zırh bulurum. Güneyde epey kurt ve yasarasa bulacaksın.",
+        ["Objectives"] = "Acemi Elreth 6 Leşçil Pençesi ve 6 Alacakaranlık Yarasası Kanadı istiyor.",
+        ["Progress"] = "Sana biraz zırh bulana kadar kendini zarar görmeden tutmak için elinden geleni yap.",
+        ["Completion"] = "Teşekkür ederim, YOUR_NAME. Bu zırh sana yardımcı olmalı.\n\nUmarım bunu giyen son kişiden daha fazla işine yarar...",
+        ["minlevel"] = "0",
+        ["questlevel"] = "0"
+    },
 
     -- Suç ve Ceza
     ["377"] = {
@@ -15069,16 +15068,15 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end Glifik Parşömen
 
-    -- Lekeli Parşömen
     ["3099"] = {
-    ["Title"]="Lekeli Parşömen",
-    ["Description"]="Ah, sen akılsız Scourge ile uğraşırken, bu parşömen sana geldi. Büyücü eğitmeni Maximillion'un mührünü taşıyor gibi göründüğü için önemli bir mesele olduğunu düşünebilirim. Tekrar yola çıkmadan önce okumak için biraz zaman ayırırdım.",
-    ["Objectives"]="Lekeli Parşömeni okuyun ve Ölümçanı'de Maximillion ile konuşun.",
-    ["Progress"]="Sana hoş geldin diyorum dostum. Geleceğini biliyordum. Sadece an meselesiydi.NEW_LINESöylediklerim ilgini çekti, değil mi? Akordu tutturdum... İçinde bir şey iddia ettiğim şeyin gerçek olduğunu biliyordu. Güzel. Şunu bil ki, ben Sylvanas'a ihanet eden biri değilim. Aksine, Forsaken'ı şu anki konumuna getiren şeyin kendi inançları olduğunu düşünürsek, iddialarımı takdir edecektir.",
-    ["Completion"]="Bir kölenin, efendisi ne olursa olsun hala köle olduğundan bahsetmiştim. Hatırladın mı? İkimiz de biliyoruz ki bu tür bir kontrol -bu tür bir güç- artık bizi yönlendiriyor. Yaratıkların bize hizmet etmesini istiyoruz. Daha güçlü olduğumuzu ve başkalarının bize gösterdiğinden daha fazla saygıyı hak ettiğimizi biliyoruz ... ve şimdi bunu almaya bakıyoruz. Kendi özgürlüğümüz için verdiğimiz bu mücadelede sizin müttefikiniz olacağım. Kendi bağlılıklarımızı arama özgürlüğü. Kendinizi hazır hissettiğinizde bana dönün ve size bildiğim her şeyi öğreteyim.",
-    ["minlevel"]="0",
-    ["questlevel"]="0",
-    }, -- end Lekeli Parşömen
+        ["Title"] = "Lekeli Parşömen",
+        ["Description"] = "Ah, sen akılsız Afet(Scourge) ile ilgilenirken bu parşömen senin için geldi. Sehhar(warlock) eğitmeni Maximillion'un mührünü taşıyor gibi göründüğü için önemli bir mesele olduğunu düşünüyorum. Yeniden yola çıkmadan önce okumak için biraz zaman ayır.",
+        ["Objectives"] = "Lekeli Parşömen'i oku ve Ölümçanı'ndaki Maximillion ile konuş.",
+        ["Progress"] = "Sana hoş geldin diyorum, kardeşim. Geleceğini biliyordum. Bu sadece bir zaman meselesiydi.\n\nSöylediklerim ilgini çekti, değil mi? Hassas bir noktaya değindim... içindeki bir şey iddia ettiğim şeyin gerçek olduğunu biliyordu. Güzel.\n\nYine de şunu bil: Ben Sylvanas'a hainlik etmiyorum. Bir şey söyleyecek olursam, Terk Edilmişler'i şu anki konumuna getirenin kendi inançları olduğunu düşünürsek, iddialarımdan memnun kalırdı.",
+        ["Completion"] = "Efendisi kim olursa olsun, bir kölenin hâlâ bir köle olduğundan bahsetmiştim. Hatırlıyor musun? İkimiz de şimdi bizi yönlendiren şeyin bu tür bir kontrol—bu tür bir güç—olduğunu biliyoruz. Yaratıkların bize hizmet etmesini istiyoruz. Başkalarının bize gösterdiğinden daha güçlü olduğumuzu ve daha fazla saygıyı hak ettiğimizi biliyoruz... ve işte şimdi bunu almaya bakıyoruz.\n\nBu mücadelede—kendi özgürlüğümüz için verilen mücadelede—senin müttefikin olacağım. Kendi sadakatlerimizi arama özgürlüğü. Kendini hazır hissettiğinde bana geri dön, sana bildiğim her şeyi öğreteceğim.",
+        ["minlevel"] = "0",
+        ["questlevel"] = "0"
+    },
 
     -- Basit Mektup
     ["3100"] = {
@@ -16060,16 +16058,15 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end Dreadmaul Rock
 
-    -- Çıngıraklı Kafesleri Sarsmak
-    ["3901"] = {
-    ["Title"]="Çıngıraklı Kafesleri Sarsmak",
-    ["Description"]="Normal şartlar altında Forsaken'a potansiyelini gösterdin YOUR_NAME - Şimdi seni baskı altında görelim.NEW_LINEDaha akılsız bir tehdit unsuru olan Çıngıraklı İskeletler, şimdiye kadar karşılaştığınız zombilerden daha zorlu bir düşman. Yine sayılarını azaltın ve kendinizi Terk Edilmişlere kanıtlayın. Oyalanma - işin bittiğinde benimle tekrar konuş.",
-    ["Objectives"]="8 Çıngıraklı İskelet öldür.",
-    ["Progress"]="Bu görevde oyalananlar, köydeki şehit kardeşlerimiz gibi amaçsızca dolaşmaya devam edebilirler. Umarım siz onlardan daha iyi olursunuz, değil mi?",
-    ["Completion"]="Seninle işim bitti, YOUR_NAME - Size verilen özgürlüğe layık olduğunuzu gösterdiniz. Birçoğu dönüştüğün şey için sana karşı duracak, ama bil ki bize karşı ne yapmaya çalışırlarsa çalışsınlar, biz özgürüz ve bir daha zincirlenmeyeceğiz.NEW_LINEBunları alın ve yolunuza devam edin. Başarmanız gereken çok şey var, YOUR_CLASS.",
-    ["minlevel"]="0",
-    ["questlevel"]="0",
-    }, -- end Çıngıraklı Kafesleri Sarsmak
+    ["42110"] = {
+        ["Title"] = "Çıngırakkafesleri Sallamak",
+        ["Description"] = "Normal şartlar altında Terk Edilmişler'e(Forsaken) potansiyelini gösterdin YOUR_NAME - şimdi bir de baskı altında görelim seni.\n\nLich King'in daha akılsız köleleri olan Çıngırakkafes iskeletleri, şu ana kadar karşılaştığın zombilerden daha çetin bir düşmandır. Yine sayılarını azalt ve Terk Edilmişler'e(Forsaken) kendini kanıtla. Gecikme - işin bittiğinde benimle tekrar konuş.",
+        ["Objectives"] = "12 Çıngırakkafes İskeleti katlet ve işin bittiğinde Ölümçanı'ndaki Gölge Rahibi Sarvis'e geri dön.",
+        ["Progress"] = "Bu görevde ağırdan alanlar, köydeki düşmüş kardeşlerimiz gibi amaçsızca dolaşıp durabilirler. Umalım da onlardan daha iyi bir performans sergileyebilesin, değil mi?",
+        ["Completion"] = "Seninle işim bitti YOUR_NAME - sana verilen özgürlüğe layık olduğunu gösterdin. Dönüştüğün şey yüzünden pek çok kişi sana karşı duracak, ancak bize karşı ne yapmaya çalışırlarsa çalışsınlar, özgür olduğumuzu ve bir daha asla zincirlenmeyeceğimizi bil.\n\nBunları al ve yoluna bak. Başaracak çok şeyin var, YOUR_CLASS.",
+        ["minlevel"] = "0",
+        ["questlevel"] = "0"
+    },
 
     -- Çöpçü Ölümböceği
     ["3902"] = {

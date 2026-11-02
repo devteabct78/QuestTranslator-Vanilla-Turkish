@@ -1486,5 +1486,9 @@ QuestTranslator_BookData = {
 	["Groceries List"] = {
 		["Title"] = "Bakkal Listesi",
 		["Text"] = "Ulrich Buckert'ten Maya ve Basit Un.NEW_LINENEW_LINEThomas Arello'dan Bal ve Maden Suyu."
+	},
+	["Tainted Scroll"] = {
+    	["Title"] = "Lanetli Parşömen",
+    	["Text"] = "İçinde bulunduğumuz berbat bir durum, değil mi YOUR_NAME? Aşağılık Prens tarafından lanetlendik. Kendi sevdiklerimiz tarafından dışlandık ve hor görüldük. Güzel Sylvanas sayesinde nihayet kendi irademize kavuştuk ama bu bize ne sağlıyor ki? Farklı bir efendinin kölesi olmak halâ köleliktir, ya da ben öyle diyorum.NEW_LINEPeki ya efendiler biz olsaydık? Evet, ne demek istediğimi biliyorsun, değil mi?NEW_LINETerk Edilmişler'in geri kalanından bile daha kopuğuz Sehhar. Ve bu yüzden daha ayrıntılı konuşmalıyız. Beni Ölümçanı'ndaki kilisede bul."
 	}
 }
