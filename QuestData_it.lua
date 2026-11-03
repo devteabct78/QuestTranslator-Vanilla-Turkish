@@ -24089,8 +24089,8 @@ QuestTranslator_QuestData = {
 -- Angor Kalesi
     ["40229"] = {
     ["Title"]="Angor Kalesi",
-    ["Description"]="Angor Kalesi, Çoraktopraklar'da (Badlands) kara bir bulut gibi yükseliyor; Kara Demir (Dark Iron) cüceleri oradan muazzam miktarda güç toplayabiliyorlar. Sırf bu yüzden bölgedeki kilit oyunculardan biriler. Buradaki etkinliklerini biraz olsun kırmak için Demirdövüm'den (Ironforge) gönderildim ve bunu yapmak için sert vurmamız gerekecek. Hemen kuzeybatıdaki Angor Kalesi'ne gitmeni ve orayı koruyanları katletmeni istiyorum. Giydikleri Gölgemetal Prangalarından (Shadowforge Shackles) toplamda 10 tane al ve bana getir.",
-    ["Objectives"]="Angor Kalesi çevresindeki Kara Demir Cücelerini katlet ve Çoraktopraklar'daki Senatör Genişkemer (Senator Broadbelt) için 10 Gölgemetal Prangası topla.",
+    ["Description"]="Angor Kalesi, Çoraktopraklar'da (Badlands) kara bir bulut gibi yükseliyor; Kara Demir (Dark Iron) cüceleri oradan muazzam miktarda güç toplayabiliyorlar. Sırf bu yüzden bölgedeki kilit oyunculardan biriler. Buradaki etkinliklerini biraz olsun kırmak için Demirdövüm'den (Ironforge) gönderildim ve bunu yapmak için sert vurmamız gerekecek. Hemen kuzeybatıdaki Angor Kalesi'ne gitmeni ve orayı koruyanları katletmeni istiyorum. Giydikleri Gölgeocağı Prangalarından (Shadowforge Shackles) toplamda 10 tane al ve bana getir.",
+    ["Objectives"]="Angor Kalesi çevresindeki Kara Demir Cücelerini katlet ve Çoraktopraklar'daki Senatör Genişkemer (Senator Broadbelt) için 10 Gölgeocağı Prangası topla.",
     ["Progress"]="İnanılmaz derecede inatçılar ve savaşmadan pes etmeyecekler.",
     ["Completion"]="Harika iş, Demirdövüm bugün yaptığın eylemlerle gurur duyardı; lütfen şükranlarımızın bir ifadesi olarak bu sikkeleri kabul et. Belki bir gün buradaki çalışmalarımıza daha büyük bir ölçekte yeniden başlayabiliriz!",
     ["minlevel"]="0",
@@ -25403,10 +25403,10 @@ QuestTranslator_QuestData = {
 -- Orvak'ın Güvenini Kazanmak
     ["40459"] = {
     ["Title"]="Orvak'ın Güvenini Kazanmak",
-    ["Description"]="Bize yardım etmek istiyorsun, öyle mi? Şey, sana güvenebileceğimizi bilmemiz gerekiyor; ne de olsa bu bölgede ve muhtemelen dünyanın çoğu bölgesinde çok sayıda düşmanımız var. Thaurissan Harabeleri'ndeki Kara Demir (Dark Iron) cücelerinin taşıdığı Thaurissan Nişanlarını toplayarak başlayabilirsin. Onlardan 15 tane topla ve Orvak Sertkaya'ya (Orvak Sternrock) getir, o zaman niyetinin ciddi olduğunu anlayacaktır.",
-    ["Objectives"]="Yanık Bozkırlar'daki (Burning Steppes) Karakaya Geçidi'nde (Karakaya(Blackrock) Pass) bulunan Orvak Sertkaya için 15 Thaurissan Nişanı topla.",
+    ["Description"]="Bize yardım etmek istiyorsun, öyle mi? Şey, sana güvenebileceğimizi bilmemiz gerekiyor; ne de olsa bu bölgede ve muhtemelen dünyanın çoğu bölgesinde çok sayıda düşmanımız var. Thaurissan Harabeleri'ndeki Kara Demir (Dark Iron) cücelerinin taşıdığı Thaurissan Nişanlarını toplayarak başlayabilirsin. NEW_LINEOnlardan 15 tane topla ve Orvak Sertkaya'ya (Orvak Sternrock) getir, o zaman niyetinin ciddi olduğunu anlayacaktır.",
+    ["Objectives"]="Yanık Bozkırlar'daki (Burning Steppes) Karakaya Geçidi'nde bulunan Orvak Sertkaya için 15 Thaurissan Nişanı topla.",
     ["Progress"]="İstediğin nedir, YOUR_RACE?",
-    ["Completion"]="Hmm, demek niyetin ciddi ha, Gölgemetal (Shadowforge) ile çalışıyor olmana imkan yok zaten. Asla emin olamazsın, ne de olsa Alacakaranlık Çekici (Twilight Hammer) ile bir ittifakları var.",
+    ["Completion"]="Hmm, demek niyetin ciddi ha, Gölgeocağı (Shadowforge) ile çalışıyor olmana imkan yok zaten. Asla emin olamazsın, ne de olsa Alacakaranlık Çekici (Twilight Hammer) ile bir ittifakları var.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Gaining Orvak's Trust
@@ -26339,7 +26339,7 @@ QuestTranslator_QuestData = {
     ["Description"]="<Vyrin senin yönüne bakarken endişeli görünüyor.> Yakınlarda eşlik eden korumaların cesetleriyle birlikte yanmış bir vagon bulduk ve mültecilerden hiçbir iz yok. Bu... korkunç, YOUR_NAME, bu kesinlikle korkunç! Lütfen yoldaşınla konuş, Malvinah'tı değil mi? Biz bunu çözmeye çalışırken insanları sakin tutmaya çalışıyorum ama o çok rahatsız olmuş durumda. Mülteciler arasında panik ve kafa karışıklığı yayıyor.",
     ["Objectives"]="Malvinah Güneşbıçağı (Malvinah Sunblade) ile konuş, ardından Kathy Wake'e geri rapor ver.",
     ["Progress"]="Ne var, YOUR_NAME? Şimdi sırası değil.",
-    ["Completion"]="Demek bunu biliyorsun o zaman? Gözcülerim bunu doğruladı. Bulduğun o lanet Gölgemetal (Shadowforge) baskın grubunun işi. Hemen vurmalıydık ama bunun yerine ben hazırlanmak istedim... lanet olsun! Sanki onların peşinde olduğumuzu biliyorlardı. Onlardan hiçbirine saldırmadın, değil mi? Şey, önemli değil. Pişmanlık için zaman yok. Harekete geçme zamanı! Mülteciler kafeslere kapatıldı ve Kara Demirler (Dark Irons) onları tanrıları Ateş Lordu Ragnaros'a (Firelord Ragnaros) ritüel olarak kurban etmeye hazırlanıyorlar. Buna izin veremeyiz, YOUR_NAME! Bu konuda yardımına ihtiyacım olacak!",
+    ["Completion"]="Demek bunu biliyorsun o zaman? Gözcülerim bunu doğruladı. Bulduğun o lanet Gölgeocağı (Shadowforge) baskın grubunun işi. Hemen vurmalıydık ama bunun yerine ben hazırlanmak istedim... lanet olsun! Sanki onların peşinde olduğumuzu biliyorlardı. Onlardan hiçbirine saldırmadın, değil mi? Şey, önemli değil. Pişmanlık için zaman yok. Harekete geçme zamanı! Mülteciler kafeslere kapatıldı ve Kara Demirler (Dark Irons) onları tanrıları Ateş Lordu Ragnaros'a (Firelord Ragnaros) ritüel olarak kurban etmeye hazırlanıyorlar. Buna izin veremeyiz, YOUR_NAME! Bu konuda yardımına ihtiyacım olacak!",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Burnt Wheels
@@ -26405,9 +26405,9 @@ QuestTranslator_QuestData = {
 
     -- Yüzbaşı Barlgruf
     ["40228"] = {
-    -- Badlands -> Çoraktopraklar, Shadowforge City -> Gölgemetal Şehri, Angor Fortress -> Angor Kalesi. Senator Broadbelt -> Senatör Genişkemir.
+    -- Badlands -> Çoraktopraklar, Shadowforge City -> Gölgeocağı Şehri, Angor Fortress -> Angor Kalesi. Senator Broadbelt -> Senatör Genişkemir.
     ["Title"]="Yüzbaşı Barlgruf",
-    ["Description"]="Kara Demir Cüceleri (Dark Iron Dwarves) uzun zamandır ezeli rakibimiz oldu, halkımıza yönelik saldırıları acımasızcaydı. Bölgedeki gücümüzü artırmak için buraya geldim ve eğer bunun mümkün olmasını istiyorsak, gözümüzü Angor Kalesi'ne (Angor Fortress) dikmeliyiz. Burası Yüzbaşı Barlgruf tarafından yönetiliyor; buradaki eylemleri denetlemek üzere Gölgemetal Şehri'nden (Shadowforge City) Çoraktopraklar'a (Badlands) gönderildi. Onu yere sererseniz, geri kalanlar başıboş kalacaktır. Muhtemelen diğer uşaklarıyla birlikte Angor Kalesi'nin içinde konuşlanmıştır. Onu öldür ve bana geri dön.",
+    ["Description"]="Kara Demir Cüceleri (Dark Iron Dwarves) uzun zamandır ezeli rakibimiz oldu, halkımıza yönelik saldırıları acımasızcaydı. Bölgedeki gücümüzü artırmak için buraya geldim ve eğer bunun mümkün olmasını istiyorsak, gözümüzü Angor Kalesi'ne (Angor Fortress) dikmeliyiz. Burası Yüzbaşı Barlgruf tarafından yönetiliyor; buradaki eylemleri denetlemek üzere Gölgeocağı Şehri'nden (Shadowforge City) Çoraktopraklar'a (Badlands) gönderildi. Onu yere sererseniz, geri kalanlar başıboş kalacaktır. Muhtemelen diğer uşaklarıyla birlikte Angor Kalesi'nin içinde konuşlanmıştır. Onu öldür ve bana geri dön.",
     ["Objectives"]="Çoraktopraklar'daki (Badlands) Senatör Genişkemir (Senator Broadbelt) için Angor Kalesi içindeki Yüzbaşı Barlgruf'u katlet.",
     ["Progress"]="Eğer bir gün barış olacaksa, o zaman süratle hareket etmeliyiz.",
     ["Completion"]="Harika iş, Demirdövüm (Ironforge) bugün sergilediğin eylemlerden gurur duyacaktır; lütfen şükranlarımızın bir nişanesi olarak bu sikkeleri kabul et. Belki bir gün buradaki çalışmalarımıza daha büyük bir ölçekte yeniden başlayabiliriz!",
@@ -33259,7 +33259,7 @@ QuestTranslator_QuestData = {
     -- Senator Granitebeard -> Senatör Granitsakal (Granite + Beard). Morgan's Vigil -> Morgan'ın Nöbeti, Burning Steppes -> Yanan Bozkırlar.
     ["40486"] = {
     ["Title"]="Nefretocağı'nı Araştırmak",
-    ["Description"]="Peh, görevlendirilmek için ne berbat bir çorak toprak, hakaret gibi. Buradan olabildiğince çabuk kurtulmak istiyorum ve bunu yapmak için bazı işlerin halledilmesi gerekiyor, yardım etmeye isteklisin sanırım, ha? Kara Demirler (Dark Iron) bir işler çeviriyor ve o -bir şeylerin- ne olduğunu doğrulamak benim işim. Senden yapmanı istediğim şey, Taş Ocağı'nın girişinde gözcülük yapman ve Demirörs'ün (Ironforge) şüphelerini doğrulaman. Oraya seyahat et, girişten içeri bir göz at ve geri dön, kolay değil mi?",
+    ["Description"]="Peh, görevlendirilmek için ne berbat bir çorak toprak, hakaret gibi. NEW_LINEBuradan olabildiğince çabuk kurtulmak istiyorum ve bunu yapmak için bazı işlerin halledilmesi gerekiyor, yardım etmeye isteklisin sanırım, ha? NEW_LINEKara Demirler (Dark Iron) bir işler çeviriyor ve o -bir şeylerin- ne olduğunu doğrulamak benim işim. NEW_LINESenden yapmanı istediğim şey, Taş Ocağı'nın girişinde gözcülük yapman ve Demirörs'ün (Ironforge) şüphelerini doğrulaman. NEW_LINEOraya seyahat et, girişten içeri bir göz at ve geri dön, kolay değil mi?",
     ["Objectives"]="Nefretocağı Madeni'nın (Hateforge Quarry) girişini keşfet ve Yanan Bozkırlar'daki (Burning Steppes) Morgan'ın Nöbeti'nde (Morgan's Vigil) bulunan Senatör Granitsakal'a (Senator Granitebeard) geri dön.",
     ["Progress"]="Eee, sırtın yukarısına atıldın mı?",
     ["Completion"]="Hmm, demek orada yukarıda bir şeyler dönüyor. Bir dakika bekle, bulgularımın bir raporunu yazmalı ve bunu en yüksek makama göndermeliyim.",
@@ -36775,10 +36775,10 @@ QuestTranslator_QuestData = {
     -- Gold -> Altın, pockets -> cepler. Risa kalmıştır. Beach front -> Sahil kenarı.
     ["80382"] = {
     ["Title"]="VIP Davetiyeleri",
-    ["Description"]="Birkaç ticaret prensi (trade princes) olmadan bir plaj partisi (beach party) neye yarardı ki, ha? Bu etkinlikte büyük isimlere ihtiyacım var, aksi takdirde tam bir fiyasko olur! En şık kıyafetlerini giy ve bu özel davetiyeleri (special invitations) Ratchet'taki (Ratchet) Ticaret Prensi Gazlowe'a ve Booty Bay'deki (Booty Bay) Baron Revilgaz'a ulaştır. Eğer gelirlerse, diğerlerinin de takip edeceğinden emin olabilirsin. Sahilde daha fazla beden, ceplerimi dolduran daha fazla altın (gold) demektir, anladın mı? Karşılığında sana gerçekten güzel bir şey vereceğim.",
+    ["Description"]="Birkaç ticaret prensi olmadan bir plaj partisi neye yarardı ki, ha? Bu etkinlikte büyük isimlere ihtiyacım var, aksi takdirde tam bir fiyasko olur! NEW_LINEEn şık kıyafetlerini giy ve bu özel davetiyeleri Ratchet'taki Ticaret Prensi Gazlowe'a ve Booty Bay'deki Baron Revilgaz'a ulaştır. NEW_LINEEğer gelirlerse, diğerlerinin de takip edeceğinden emin olabilirsin. Sahilde daha fazla beden, ceplerimi dolduran daha fazla altın demektir, anladın mı? Karşılığında sana gerçekten güzel bir şey vereceğim.",
     ["Objectives"]="Risa'nın plaj partisi davetiyelerini Ratchet'taki Gazlowe'a ve Booty Bay'deki Baron Revilgaz'a ulaştır.",
     ["Progress"]="Acele et yoksa tarzımı bozarsın! Bu adamların, davetiyelerini en sona bıraktığımı düşünmelerini istemiyorum.",
-    ["Completion"]="Harika, partim ortalığı kasıp kavuracak! Bu çocukların ne tür bir nüfuz getireceğini görmek için sabırsızlanıyorum. Eğer gerçekten yüksekten oynayan tiplerse, koca bir bar dolusu içki satın alırlar. Yardımın için tekrar teşekkürler. Neden bu güzel sahil kenarında (beach front) bize katılmıyorsan? Ama bu görünüşle değil tabii. Benimle takılmak için doğru dikişlere (kıyafetlere) sahip olmalısın. Bunları al ve üzerine geçir.",
+    ["Completion"]="Harika, partim ortalığı kasıp kavuracak! Bu çocukların ne tür bir nüfuz getireceğini görmek için sabırsızlanıyorum. Eğer gerçekten yüksekten oynayan tiplerse, koca bir bar dolusu içki satın alırlar. Yardımın için tekrar teşekkürler. Neden bu güzel sahil kenarında bize katılmıyorsan? Ama bu görünüşle değil tabii. Benimle takılmak için doğru dikişlere sahip olmalısın. Bunları al ve üzerine geçir.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end VIP Invites
@@ -38541,10 +38541,10 @@ QuestTranslator_QuestData = {
     -- Whiff -> Koku / Havadis. Secret -> Sır, Ironforge = Ironforge. Thunder Ale -> Gök gürültüsü Birası. Gloves -> eldivenler.
     ["40490"] = {
     ["Title"]="Nefretocağı Birası Söylentileri",
-    ["Description"]="Etrafta 'Nefretocağı Birası' (Hateforge Brew) denen bir şey hakkında söylentiler (rumors) dolaşıyor. Kara Demir'ler (Dark Iron) ondan saygıyla bahsediyor ve orada hiç de bira (ale) yapmadıklarını biliyorum. Bu isim başka bir şey için kılıftır (cover up) ve bizim o başka şeyin ne olduğunu öğrenmemiz gerekiyor, anlıyor musun beni? Taş ocağının (Quarry) içinde kimyagerleri (chemists) olduğunu biliyorum ve tahminimce bu Nefretocağı Birası ile bağlantılılar. Oraya girmene, bana bir Kara Demir Şişesi (Dark Iron Vial) ve bazı Nefretocağı Kimya Belgeleri (Hateforge Chemistry Documents) toplamana ihtiyacım var. Orada neler döndüğüne dair bunları bir yerlere sakladıklarına bahse girerim.",
+    ["Description"]="Etrafta 'Nefretocağı Birası' (Hateforge Brew) denen bir şey hakkında söylentiler (rumors) dolaşıyor. Kara Demir'ler (Dark Iron) ondan saygıyla bahsediyor ve orada hiç de bira (ale) yapmadıklarını biliyorum. NEW_LINEBu isim başka bir şey için kılıftır ve bizim o başka şeyin ne olduğunu öğrenmemiz gerekiyor, anlıyor musun beni? Taş ocağının içinde kimyagerleri olduğunu biliyorum ve tahminimce bu Nefretocağı Birası ile bağlantılılar. NEW_LINEOraya girmene, bana bir Kara Demir Şişesi (Dark Iron Vial) ve bazı Nefretocağı Kimya Belgeleri (Hateforge Chemistry Documents) toplamana ihtiyacım var. Orada neler döndüğüne dair bunları bir yerlere sakladıklarına bahse girerim.",
     ["Objectives"]="Nefretocağı Madeni'na (Hateforge Quarry) sız; bir Kara Demir Şişesi (Dark Iron Vial) ile Nefretocağı Kimya Belgeleri'ni (Hateforge Chemistry Documents) kurtar, ardından Yanık Bozkırlar'daki Morgan'ın Nöbeti'nde bulunan Varlag Duskbeard'e geri dön.",
-    ["Progress"]="Orada neler döndüğüne dair bir koku (whiff) alabildin mi henüz?",
-    ["Completion"]="Ahh, şunların hepsine baksana ha!\n\nO kurnaz pislikler sırlarını (secrets) kesinlikle saklıyorlardı; fırsat bulduğumda bunu Ironforge'a (Ironforge) geri göndereceğimden emin olabilirsiniz, onlar da her şeyi inceleyebilirler, güzel iş değil mi? Senin için biraz fazladan Gök gürültüsü Birası (Thunder Ale) var, oh ve benim eski eldivenler (gloves), sana iyi hizmet edeceklerdir, kendime yeni bir çift aldım.",
+    ["Progress"]="Orada neler döndüğüne dair bir koku alabildin mi henüz?",
+    ["Completion"]="Ahh, şunların hepsine baksana ha!\n\nO kurnaz pislikler sırlarını kesinlikle saklıyorlardı; fırsat bulduğumda bunu Ironforge'a geri göndereceğimden emin olabilirsiniz, onlar da her şeyi inceleyebilirler, güzel iş değil mi? Senin için biraz fazladan Gök gürültüsü Birası (Thunder Ale) var, oh ve benim eski eldivenler, sana iyi hizmet edeceklerdir, kendime yeni bir çift aldım.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Rumors of Hateforge Brew
@@ -40151,10 +40151,10 @@ QuestTranslator_QuestData = {
     -- Apex predator -> süper yırtıcı / zirve avcı, sea -> deniz, trophy -> kupa / ganimet, memento -> hatıra, reward -> ödül.
     ["80383"] = {
     ["Title"]="Köpekbalıkları Dosttur, Yemek Değil",
-    ["Description"]="Sudan çıkan şu sırt yüzgecini (dorsal fin) görüyor musun? O bir köpekbalığı (shark). Kıyı şeridine (shoreline) çok fazla yaklaşmış gibi görünüyor ki bu durum bu tür (species) için bir anomalidir. Mesleğim gereği bir deniz biyoloğuyum (marine biologist) ve bir süredir o zavallı yaratığı izliyorum. Burada kapana kısılmasının pek çok sebebi olabilir ancak goblinler (goblins) onu boğazlanmış bir domuz (stuck pig) gibi öldürmek istiyor! Sudaki insanlar için bir tehdit (threat) olduğunu düşünüyorlar ama muhtemelen sadece korkmuş ve kafası karışmış durumda. Bunun olmasına izin veremem. Senden suya girmeni ve köpekbalığını uzaklaştırmanı (shoo) rica ediyorum.",
-    ["Objectives"]="Sudaki köpekbalığını kıyıdan (shore) uzaklaştır, ardından Toci Flipper'a geri dön.",
-    ["Progress"]="Köpekbalıklarının kemiklerden değil de kıkırdaktan (cartilage) yapılmış iskeletleri (skeletons) olduğunu biliyor muydun?",
-    ["Completion"]="Başardın! Artık o köpekbalığı, şu goblinlerin ona yapacağı gibi bir ganimet (trophy) gibi asılmak yerine denizde bir zirve avcı (apex predator) olarak yaşam tarzına geri dönebilir. Ödül olarak senin için küçük bir hatıram (memento) var. Ona iyi bak, tamam mı?",
+    ["Description"]="Sudan çıkan şu sırt yüzgecini görüyor musun? O bir köpekbalığı. NEW_LINEKıyı şeridine çok fazla yaklaşmış gibi görünüyor ki bu durum bu tür için bir anomalidir. Mesleğim gereği bir deniz biyoloğuyum ve bir süredir o zavallı yaratığı izliyorum. NEW_LINEBurada kapana kısılmasının pek çok sebebi olabilir ancak goblinler onu boğazlanmış bir domuz gibi öldürmek istiyor! NEW_LINESudaki insanlar için bir tehdit olduğunu düşünüyorlar ama muhtemelen sadece korkmuş ve kafası karışmış durumda. NEW_LINEBunun olmasına izin veremem. Senden suya girmeni ve köpekbalığını uzaklaştırmanı rica ediyorum.",
+    ["Objectives"]="Sudaki köpekbalığını kıyıdan uzaklaştır, ardından Toci Flipper'a geri dön.",
+    ["Progress"]="Köpekbalıklarının kemiklerden değil de kıkırdaktan yapılmış iskeletleri olduğunu biliyor muydun?",
+    ["Completion"]="Başardın! Artık o köpekbalığı, şu goblinlerin ona yapacağı gibi bir ganimet gibi asılmak yerine denizde bir zirve avcı olarak yaşam tarzına geri dönebilir. Ödül olarak senin için küçük bir hatıram var. Ona iyi bak, tamam mı?",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Sharks Are Friends, Not Food
@@ -55479,19 +55479,15 @@ QuestTranslator_QuestData = {
     ["questlevel"]="53",
     }, -- end Krom'Grul
 
-    -- Extinguish the Firegut
-    -- Oralius -> Oralius (MobNpcData.lua)[cite: 1]
-    -- Burning Steppes -> Yanardağ Bozkırları (ZoneData.lua)
-    -- Dreadmaul Rock -> Dehşetbalyoz Kayalığı
-    ["3823"] = {
-    ["Title"]="Ateşbağırsak'ı Söndürmek",
-    ["Description"]="Onlar bize saldırmadan önce biz düşmanlarımıza saldırmalıyız!\n\nBunu kısa keseceğim, asker.\n\nYanardağ Bozkırları'nın Ateşbağırsak ogreleri Karaotrak orklarının müttefikleridir. O aşağılık orklarla yakın çalışır, mineral bakımından zengin Dehşetbalyoz Kayalığı'nı korur ve ikmal hatlarını her zaman açık tutarlar.\n\nİzini bırak, YOUR_NAME. Kuvvetlerini sakatla ve iş bittiğinde bana dön.\n\n<Oralius havayı kavrar ve boğma hareketi yapar.>\n\nSENİ ÖLDÜRECEĞİM, WINKY!",
-    ["Objectives"]="15 Ateşbağırsak Ogre Büyücüsü, 7 Ateşbağırsak Ogre ve 7 Ateşbağırsak Ogre Kaba Kuvveti katlet, işin bittiğinde Oralius'a dön.[cite: 1]",
-    ["Progress"]="Üniformanda neredeyse hiç kan yok, asker!",
-    ["Completion"]="Harika, asker! Orklar ve ogreler bu darbeden dakikalarca, hatta saatlerce sarsılacaklar!",
-    ["minlevel"]="48",
-    ["questlevel"]="52",
-    }, -- end Extinguish the Firegut
+  ["3823"] = {
+        ["Title"] = "Ateşbağırsak'ın Kökünü Kazı",
+        ["Description"] = "Düşmanlarımız bize saldırmadan önce biz onlara saldırmalıyız!\n\nKısa keseceğim, asker.\n\nYanan Bozkırlar'ın Ateşbağırsak ogreleri, Karakaya orklarının müttefikleridir. Bu aşağılık orklarla yakın çalışarak, mineral bakımından zengin Dehşetbalyozu Kayalığı'nı koruma altında tutuyorlar ve ikmal hatlarını her daim açık tutuyorlar.\n\nİzini bırak, YOUR_NAME. Kuvvetlerini sakatla ve iş bittiğinde bana geri dön.\n\n<Oralius havayı yakalar ve boğma hareketi yapar.>\n\nSENİ ÖLDÜRECEĞİM, WINKY!",
+        ["Objectives"] = "15 Ateşbağırsak Ogre Büyücüsü, 7 Ateşbağırsak Ogre ve 7 Ateşbağırsak Ogre İriyarısı katlet, ardından işin bittiğinde Oralius'a geri dön.",
+        ["Progress"] = "Üniformanda neredeyse hiç kan yok, asker!",
+        ["Completion"] = "Olağanüstü, asker! Orkların ve ogrelerin bu darbeden sonra kafaları dakikalarca, hatta belki saatlerce yerinde olmayacak!",
+        ["minlevel"] = "0",
+        ["questlevel"] = "0"
+    },
 
     -- Gor'tesh the Brute Lord
     -- Gor'tesh -> Gor'tesh (MobNpcData.lua)[cite: 1]
@@ -64336,11 +64332,11 @@ QuestTranslator_QuestData = {
     -- Dark Iron -> kara demir
     -- Slag Pit -> Cüruf Çukuru
     -- Cauldron -> Kazan
-    -- Searing Gorge -> Kavurucu Yarak (ZoneData.lua)
+    -- Searing Gorge -> Kavurucu Yarık (ZoneData.lua)
     ["7701"] = {
     ["Title"]="ARANIYOR: Gözetmen Maltorius",
     ["Description"]="Ekselansları Gözetmen Yağyumruk'un emriyle, haydut Torium Kardeşliği ajanı ve Kazan'ın kara demir Cüruf Çukuru ekibinin yeni işe alınan komutanı Gözetmen Maltorius öldürülecek ve kafası yapılan eylemin kanıtı olarak geri getirilecektir.\n\nBu ödül için Gözcü Kaptanı Lolo Uzunvuran'a başvurun.",
-    ["Objectives"]="Kavurucu Yarak'taki Kazan'ın Cüruf Çukuru'nun derinliklerinde Gözetmen Maltorius adındaki hain kara demir cücesini bulacaksın.\n\nGözetmen Maltorius'u katlet ve kafasını al. Ödülün için kafayı Kavurucu Yarak'taki Gözcü Kaptanı Lolo Uzunvuran'a geri götür.",
+    ["Objectives"]="Kavurucu Yarık'taki Kazan'ın Cüruf Çukuru'nun derinliklerinde Gözetmen Maltorius adındaki hain kara demir cücesini bulacaksın.\n\nGözetmen Maltorius'u katlet ve kafasını al. Ödülün için kafayı Kavurucu Yarık'taki Gözcü Kaptanı Lolo Uzunvuran'a geri götür.",
     ["Progress"]="Meşgul olduğumu görmüyor musun? Ne *hık* istiyorsun? *hık*",
     ["Completion"]="Bu çirkin surata tekrar bakacağımı hiç düşünmezdim!\n\nGeri kalanı takılı olmadan aslında daha iyi görünüyor.\n\nİşte ödülün *hık*, YOUR_RACE.",
     ["minlevel"]="45",
@@ -64385,11 +64381,11 @@ QuestTranslator_QuestData = {
     -- Dark Irons -> kara demirler
     -- Slag Pit -> Cüruf Çukuru
     -- Cauldron -> Kazan
-    -- Searing Gorge -> Kavurucu Yarak (ZoneData.lua)
+    -- Searing Gorge -> Kavurucu Yarık (ZoneData.lua)
     ["7722"] = {
     ["Title"]="Hangi Akı?",
     ["Description"]="O pislik, Maltorius klanımızdan ayrıldığında el değmemiş bir arkan kristalinden daha değerli bir şeyle ayrıldı: Ateşli akı tarifimiz! Tarifin kara demirler arasındaki yeni terfi anlaşmasının bir parçası olduğuna dair her şey üzerine bahse girerim.\n\nGizli planlarımızı geri almanı istiyorum, YOUR_NAME. Cüruf Çukuru'nun derinliklerinde, Maltorius'un yakınlarında bir yerlerde olduklarından eminim.",
-    ["Objectives"]="Kazan'ın Cüruf Çukuru'nda bir yerde Gözetmen Maltorius'un çaldığı Gizli Planlar: Ateşli Akı'yı bulacaksın. O planları bul ve Kavurucu Yarak'taki Usta Demirci Yakıcı'ya geri getir.",
+    ["Objectives"]="Kazan'ın Cüruf Çukuru'nda bir yerde Gözetmen Maltorius'un çaldığı Gizli Planlar: Ateşli Akı'yı bulacaksın. O planları bul ve Kavurucu Yarık'taki Usta Demirci Yakıcı'ya geri getir.",
     ["Progress"]="Planları buldun mu?",
     ["Completion"]="Umarım sen de onun dişlerini tekmelemişsindir, YOUR_NAME. Ragnaros bilir ki bunu hak etti.\n\nŞimdi işimize bakabiliriz.",
     ["minlevel"]="45",
@@ -64402,11 +64398,11 @@ QuestTranslator_QuestData = {
     -- Thelsamar Blood Sausages -> Thelsamar Kan Sosisleri
     -- Gorge -> Yarak (ZoneData.lua)
     -- Cauldron -> Kazan
-    -- Searing Gorge -> Kavurucu Yarak (ZoneData.lua)
+    -- Searing Gorge -> Kavurucu Yarık (ZoneData.lua)
     ["7723"] = {
     ["Title"]="Bu Şişman Parmaklara Lanet Olsun",
     ["Description"]="Ne yazık ki buradaki şu şişman parmak sorunu yüzünden eskisi gibi dayak atamıyorum. Görüyorsun ya, buradaki iklim hava basıncı eksikliğiyle birleştiğinde parmaklarımı genişletiyor. Devasa Thelsamar Kan Sosisleri gibiler...\n\nİş emirlerimi ve neyin varsa sen yerine getireceksin.\n\nGündemimdeki ilk şey: Yarak'ın ağır savaş golemlerinin pestilini çıkarmak. İşe koyul.",
-    ["Objectives"]="Hansel Ağıreller 20 Ağır Savaş Golemi öldürmeni istiyor.\n\nAğır Savaş Golemleri Kavurucu Yarak'taki Kazan'ı çevreleyen alanlarda dolaşır. Yeterince öldürdüğünde Kavurucu Yarak'taki Hansel'e dön.",
+    ["Objectives"]="Hansel Ağıreller 20 Ağır Savaş Golemi öldürmeni istiyor.\n\nAğır Savaş Golemleri Kavurucu Yarık'taki Kazan'ı çevreleyen alanlarda dolaşır. Yeterince öldürdüğünde Kavurucu Yarık'taki Hansel'e dön.",
     ["Progress"]="Pestillerini çıkardın mı?",
     ["Completion"]="İyi bir evlatsın. Dertlerin için sana küçük bir hediye aldım.",
     ["minlevel"]="45",
@@ -64417,11 +64413,11 @@ QuestTranslator_QuestData = {
     -- Hansel Heavyhands -> Hansel Ağıreller (MobNpcData.lua)
     -- Hansel -> Hansel (MobNpcData.lua)
     -- Oilfist -> Yağyumruk (MobNpcData.lua)
-    -- Searing Gorge -> Kavurucu Yarak (ZoneData.lua)
+    -- Searing Gorge -> Kavurucu Yarık (ZoneData.lua)
     ["7724"] = {
     ["Title"]="Ateşli Tehdit!",
     ["Description"]="Bilemezsin ki, yaşlı Hansel ne zaman rahatlamak ve hayatı üzerine düşünmek için bir an ayırmak istese, yetkililer ona başka bir iş veriyor.\n\nDüşünmem lazım, hadi ama! Ne dediğimi biliyor musun? Hadi. Ama.\n\nYani, buradaki büyük lav örümcekleri bir tür patırtıya neden oluyor. Yağyumruk onların... şey, evet her neyse, ateş püskürttüğünü söylüyor, bu tür şeyler çocukları üzüyor.\n\nSanırım onları öldürmemiz gerekiyor. Daha doğrusu sen öldürmelisin.",
-    ["Objectives"]="Hansel Ağıreller Kavurucu Yarak'ta 20 Büyük Lav Örümceği öldürmeni istiyor. Büyük Lav Örümcekleri'ni Kavurucu Yarak'ın platolarında ve lav havuzlarında bulabilirsin.\n\nYeterince Büyük Lav Örümceği öldürdüğünde Kavurucu Yarak'taki Hansel Ağıreller'e dön.",
+    ["Objectives"]="Hansel Ağıreller Kavurucu Yarık'ta 20 Büyük Lav Örümceği öldürmeni istiyor. Büyük Lav Örümcekleri'ni Kavurucu Yarık'ın platolarında ve lav havuzlarında bulabilirsin.\n\nYeterince Büyük Lav Örümceği öldürdüğünde Kavurucu Yarık'taki Hansel Ağıreller'e dön.",
     ["Progress"]="Haklı mıydı? Kıçlarından mı çıkıyor?",
     ["Completion"]="<Hansel hapşırır.>\n\nSanırım nezle oluyorum. Lanet olsun bu dondurucu iklime!",
     ["minlevel"]="45",
@@ -64466,11 +64462,11 @@ QuestTranslator_QuestData = {
     -- Burninate -> Yakıcı (MobNpcData.lua)
     -- Slag Pit -> Cüruf Çukuru
     -- Cauldron -> Kazan
-    -- Searing Gorge -> Kavurucu Yarak (ZoneData.lua)
+    -- Searing Gorge -> Kavurucu Yarık (ZoneData.lua)
     ["7727"] = {
     ["Title"]="Ateşdinozorları mı? Neyse-dinozor Demek Daha Doğru",
     ["Description"]="Bünyonlar, evlat. Bünyonlarımın bünyonları var. Ayaklarım bu kadar darmadağınıkken nasıl bir tür öldürme yapmam bekleniyor? Bu yüzden yardım edeceksin.\n\nScrange ve Yakıcı, biraz keşif yapmak için Cüruf Çukuru lav havuzlarına bazı keşif ekipleri gönderebilmek adına beni bu şeyleri öldürmekle görevlendirdi. Güya oradaki bazı ateşdinozorları veya benzeri saçmalıklar her türlü soruna neden oluyormuş. Şimdi ilerle ve ateşdinozor nüfusu tükenene kadar geri gelme.",
-    ["Objectives"]="Hansel Ağıreller 20 Ateşdinozoru öldürmeni istiyor.\n\nCüruf Çukuru içindeki lav havuzlarını işgal eden Ateşdinozorları bulacaksın. Cüruf Çukuru Kavurucu Yarak'ın Kazan bölgesinde bulunabilir.\n\nYeterince Ateşdinozoru öldürdüğünde Kavurucu Yarak'taki Hansel Ağıreller'e dön.",
+    ["Objectives"]="Hansel Ağıreller 20 Ateşdinozoru öldürmeni istiyor.\n\nCüruf Çukuru içindeki lav havuzlarını işgal eden Ateşdinozorları bulacaksın. Cüruf Çukuru Kavurucu Yarık'ın Kazan bölgesinde bulunabilir.\n\nYeterince Ateşdinozoru öldürdüğünde Kavurucu Yarık'taki Hansel Ağıreller'e dön.",
     ["Progress"]="<Hansel meşgul bir şekilde bünyonlarını ovuyor.>\n\nÖylece durma, biraz yağ ile lif kabağı kap ve şu bünyonları fırçalamaya başla.\n\nLif kabağın yok mu? Öyleyse! Belki de seni bir lif kabağı bulman için dışarı gönderme zamanım gelmiştir?\n\nHey, nereye gidiyorsun?",
     ["Completion"]="Oh ağrıyan ayaklarım.\n\nLif kabağın olmadığını düşündüm...",
     ["minlevel"]="45",
@@ -64478,13 +64474,13 @@ QuestTranslator_QuestData = {
     }, -- end Incendosaurs? Whateverosaur is More Like It
     -- STOLEN: Smithing Tuyere and Lookout's Spyglass
     -- Dark Iron -> kara demir
-    -- Searing Gorge -> Kavurucu Yarak (ZoneData.lua)
+    -- Searing Gorge -> Kavurucu Yarık (ZoneData.lua)
     -- Thorium Brotherhood -> Torium Kardeşliği
     -- Scrange -> Scrange (MobNpcData.lua)
     ["7728"] = {
     ["Title"]="ÇALINDI: Demirci Üfleci ve Gözcü Dürbünü",
-    ["Description"]="Aşağıdaki eşyalar çalındı:\n\n*Bir adet kara demir Üfleç.\n*Bir adet Gözcü Dürbünü.\n\nBu çalınmış eşyaları bulup geri getiren şahıslara ödül verilecektir.\n\nTorium Kardeşliği, bu eşyaların Kavurucu Yarak'ta yaşayan vicdansız ve kıskanç kara demir cüceleri tarafından çalındığından emindir.\n\nSöz konusu dürbün gözcüler için mükemmel bir araçtı ve üfleç ise yeri doldurulamaz bir demircilik aracıydı.\n\nKayıp eşyaları bulursan, onları Scrange'e geri getir.",
-    ["Objectives"]="Demirci Üfleci'ni ve Gözcü Dürbünü'nü bul ve Kavurucu Yarak'taki İşustası Scrange'e geri getir.\n\nBu eşyalar hakkında sahip olduğun tek bilgi şudur: Kesinlikle kara demir cüceleri tarafından çalınmışlar. Demirci Üfleci demirciler tarafından kullanılan bir demircilik aracıdır ve Gözcü Dürbünü gözcüler için paha biçilmez bir izleme aracıdır.",
+    ["Description"]="Aşağıdaki eşyalar çalındı:\n\n*Bir adet kara demir Üfleç.\n*Bir adet Gözcü Dürbünü.\n\nBu çalınmış eşyaları bulup geri getiren şahıslara ödül verilecektir.\n\nTorium Kardeşliği, bu eşyaların Kavurucu Yarık'ta yaşayan vicdansız ve kıskanç kara demir cüceleri tarafından çalındığından emindir.\n\nSöz konusu dürbün gözcüler için mükemmel bir araçtı ve üfleç ise yeri doldurulamaz bir demircilik aracıydı.\n\nKayıp eşyaları bulursan, onları Scrange'e geri getir.",
+    ["Objectives"]="Demirci Üfleci'ni ve Gözcü Dürbünü'nü bul ve Kavurucu Yarık'taki İşustası Scrange'e geri getir.\n\nBu eşyalar hakkında sahip olduğun tek bilgi şudur: Kesinlikle kara demir cüceleri tarafından çalınmışlar. Demirci Üfleci demirciler tarafından kullanılan bir demircilik aracıdır ve Gözcü Dürbünü gözcüler için paha biçilmez bir izleme aracıdır.",
     ["Progress"]="Ödül için geldiysen, çalıntı malları bana vermelisin.",
     ["Completion"]="Harika iş! Şimdi ödülün için.",
     ["minlevel"]="45",
@@ -64493,13 +64489,13 @@ QuestTranslator_QuestData = {
 
     -- JOB OPPORTUNITY: Culling the Competition
     -- Taskmaster Scrange -> İşustası Scrange (MobNpcData.lua)
-    -- Searing Gorge -> Kavurucu Yarak (ZoneData.lua)
+    -- Searing Gorge -> Kavurucu Yarık (ZoneData.lua)
     -- Dark Iron Taskmaster -> kara demir İşustası
     -- Dark Iron Slaver -> kara demir Köleci
     ["7729"] = {
     ["Title"]="İŞ FIRSATI: Rekabeti Ayıklamak",
-    ["Description"]="İşustası Scrange, Kavurucu Yarak'taki 'rekabeti ayıklamaya' yardımcı olacak birkaç iyi adam ve kadın arıyor.\n\nBu pozisyonla ilgileniyorsan, Kavurucu Yarak'a git ve gördüğün her kara demir İşustası'nı ve kara demir Köleci'yi katlet.\n\nkıyafetlerin yeterince kanlandığında İşustası Scrange'e geri dön.\n\nYeterince kanlandığında anlayacaksın, o yüzden sorma.",
-    ["Objectives"]="15 kara demir İşustası ve 15 kara demir Köleci katlet. Bu görevi başardıktan sonra Kavurucu Yarak'taki İşustası Scrange'e geri dön.",
+    ["Description"]="İşustası Scrange, Kavurucu Yarık'taki 'rekabeti ayıklamaya' yardımcı olacak birkaç iyi adam ve kadın arıyor.\n\nBu pozisyonla ilgileniyorsan, Kavurucu Yarık'a git ve gördüğün her kara demir İşustası'nı ve kara demir Köleci'yi katlet.\n\nkıyafetlerin yeterince kanlandığında İşustası Scrange'e geri dön.\n\nYeterince kanlandığında anlayacaksın, o yüzden sorma.",
+    ["Objectives"]="15 kara demir İşustası ve 15 kara demir Köleci katlet. Bu görevi başardıktan sonra Kavurucu Yarık'taki İşustası Scrange'e geri dön.",
     ["Progress"]="Emin olmak için seni kıyafetli ve kıyafetsiz tartmamız gerekecek.",
     ["Completion"]="15.9 pound! kıyafet üzerindeki kan ve bağırsak ağırlığı için bu yeni bir rekor olabilir! Tebrikler, YOUR_CLASS!",
     ["minlevel"]="45",
