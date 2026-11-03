@@ -1113,6 +1113,7 @@ QuestTranslator_MergedGossip = {
     ["The People of Westfall salute YOUR_NAME, a brave and valiant defender of freedom."] = "Westfall Halkı özgürlüğün cesur ve yiğit savunucusu YOUR_NAME'i selamlıyor.",
     ["Three cheers for YOUR_NAME! This land shall be ours once again!"] = "YOUR_NAME için üç kez hurra! Bu topraklar bir kez daha bizim olacak!",
     ["Thanks for the cask of booze, YOUR_NAME. I think I'll open up a bottle right now!"] = "İçki fıçısı için teşekkürler, YOUR_NAME. Sanırım hemen bir şişe açacağım!",
+    ["I hope you're well, all things considered.\n\nSit for a spell, and hear my tale. It's a tragedy, of course, but one I hope will end in revenge!"] = "Her şeye rağmen iyi olduğunu umuyorum.\n\nBiraz otur da hikayemi dinle. Tabii ki bir trajedi, ama umuyorum ki intikamla son bulacak!",
     --123456789
     ["Curse you, YOUR_NAME! One day, vengeance will be mine!"] = "Lanet olsun sana, YOUR_NAME! Bir gün intikamım alınacak!",
     ["Alright, we've just gotten word that a caravan is leaving from Thelsamar. It's time to move! Go go go!"] = "Tamam, Thelsamar'dan bir kervanın ayrıldığı haberini aldık. Harekete geçme zamanı! Hadi hadi hadi!",

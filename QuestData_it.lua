@@ -3433,16 +3433,15 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end Ölüm Kanıtı
 
-    -- Ölümün Soğukluğu
     ["375"] = {
-    ["Title"]="Ölümün Soğukluğu",
-    ["Description"]="",
-    ["Objectives"]="",
-    ["Progress"]="",
-    ["Completion"]="",
-    ["minlevel"]="0",
-    ["questlevel"]="0",
-    }, -- end Ölümün Soğukluğu
+        ["Title"] = "Ölümün Soğuğu",
+        ["Description"] = "Şimdi hava çok soğuk. Ölümün Vebası damarlarımda buz gibi bir yılan gibi geziniyor. Akılsızlık Hali yakında üzerime çökecek. Ama hiçbir uğursuz kader beni Karanlık Leydimize hizmet etmekten alıkoyamayacak. Çağrı geldiğinde Sylvanas'ın yüce ordusunun düşmüş askerleri için ceset torbaları dikmiştim.\n\nŞimdi soğuktan ellerim titriyor. Bana beş Alacakaranlık Yarasası Postu ve biraz Kaba İplik getirirsen kendime bir battaniye dikebilirim. Bana yardım et, YOUR_NAME, böylece bu davaya hizmet etmeye devam edebileyim.",
+        ["Objectives"] = "Brill'deki Gretchen Ölüdeniz'e beş Alacakaranlık Yarasası Postu ve biraz Kaba İplik getir.",
+        ["Progress"] = "Beş Alacakaranlık Yarasası Postu ve biraz Kaba İplik buldun mu, YOUR_NAME?",
+        ["Completion"] = "Çabalarını takdir ediyorum, YOUR_NAME. Umarım Sylvanas bir gün cesaretini ödüllendirir. . . .",
+        ["minlevel"] = "0",
+        ["questlevel"] = "0"
+    },
 
     ["376"] = {
         ["Title"] = "Lanetliler",
@@ -3498,9 +3497,9 @@ QuestTranslator_QuestData = {
 
    ["382"] = {
         ["Title"] = "Kızıl Ulak",
-        ["Description"] = "Brill'deki üstlerimden gelen raporlar, Kızıl Haçlılar'ne ait bir ajanın Kızıl Manastır'dan yola çıkarak buraya, Ölümçanı'na gönderildiğini gösteriyor. Raporlara göre ulağın üzerinde önemli bilgiler bulunuyor. Daha fazla detayım yok ama her neyse, ona kesinlikle sahip olmalıyız!\n\nGönderebileceğim en nitelikli kişi sensin, <name>. O ulağı bul ve bulabildiğin her türlü bilgiyi bana getir.",
+        ["Description"] = "Brill'deki üstlerimden gelen raporlar, Kızıl Haçlılar'ne ait bir ajanın Kızıl Manastır'dan yola çıkarak buraya, Ölümçanı'na gönderildiğini gösteriyor. Raporlara göre ulağın üzerinde önemli bilgiler bulunuyor. Daha fazla detayım yok ama her neyse, ona kesinlikle sahip olmalıyız!\n\nGönderebileceğim en nitelikli kişi sensin, YOUR_NAME. O ulağı bul ve bulabildiğin her türlü bilgiyi bana getir.",
         ["Objectives"] = "Haçlı kampındaki ulak Meven Korgal'ı katlet, ardından bulduğun tüm bilgileri İnfazcı Arren'e geri getir.",
-        ["Progress"] = "Görev nasıl gidiyor, <name>?",
+        ["Progress"] = "Görev nasıl gidiyor, YOUR_NAME?",
         ["Completion"] = "Hmm... Bakalım elinde ne varmış...\n\n<Ele geçirdiğin belgeleri karıştırmaya başlar.>\n\nBize karşı gerçekleştirdikleri eylemlere dair bazı haberler... Değersiz. Keşif raporları... Yeni emirler, \"Yıkılmış şehrin yakınlarında kamp kurmaya devam edin...\" Zaten bilmediğimiz bir şey yok... Ah, bu da ne? Bazı saha komutanlarının ve ajanlarının konuşlanma haritası! Bunu kullanabiliriz.",
         ["minlevel"] = "0",
         ["questlevel"] = "0"
@@ -3957,16 +3956,15 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end Faul Ivar
 
-    -- Mills Taşması
     ["426"] = {
-    ["Title"]="Mills Taşması",
-    ["Description"]="Scourge Agamand Değirmenlerinde bir üs kurmaya çalışıyor. Bunu başarırlarsa, Tirisfal'de daha fazla saldırı düzenleyebilirler.NEW_LINEEmirler verildi. Değirmenlerdeki Bela yok edilmeli.NEW_LINEDeğirmenlere gidin. Çıngıraklı Kafes ve Çatlak Kafatası Askerlerinden Çentikli Kaburgalar ve Karagöz Kemikkıranlardan Kararmış Kafatasları toplayın.NEW_LINEDeğirmenlere ulaşmak için batıya giden yolu takip edin. Köprüyü geçtikten sonra, bir sonraki çataldan kuzeye dönün ve kuzeye doğru devam edin. Yel değirmenlerini gördüğünüzde savaş başlayacaktır.",
-    ["Objectives"]="5 Çentikli Kaburga ve 3 Kararmış Kafatası toplayın, sonra Brill'deki Ölüm Muhafızı Dillinger'a dönün.",
-    ["Progress"]="Bela ile savaşımız devam ediyor, YOUR_NAME. Sen de üzerine düşeni yap ve o lanetli, akılsız ölümsüzleri Plaguelands'e geri gönder!",
-    ["Completion"]="Savaştaki çabaların aramızda hissediliyor, YOUR_NAME. Gerekeni yaptığın için sana teşekkür etmeyeceğim ama Tirisfal'in Ölüm Muhafızları adını unutmayacak.",
-    ["minlevel"]="0",
-    ["questlevel"]="0",
-    }, -- end Mills Taşması
+        ["Title"] = "Değirmenler İstila Edildi",
+        ["Description"] = "Afet, Agamand Değirmenleri'nde bir üs kurmaya çalışıyor. Eğer kurarlarsa, Tirisfal içinde daha ileri saldırılar düzenleyebilirler.\n\nEmirler verildi. Değirmenler'deki Afet yok edilmeli.\n\nDeğirmenler'e git. Çıngırakkafes ve Çatlak Kafatası Askerleri'nden Çentikli Kaburga, Karagöz Kemikbüyücüleri'nden ise Kararmış Kafatası topla.\n\nDeğirmenler'e ulaşmak için yolu batıya doğru takip et. Köprüyü geçtikten sonra kuzeye dönen ilk yol ayrımını al ve kuzeye gitmeye devam et. Rüzgar değirmenlerini gördüğünde savaş başlayacak.",
+        ["Objectives"] = "5 Çentikli Kaburga ve 3 Kararmış Kafatası topla, ardından Brill'deki Ölümmuhafızı Dillinger'a geri dön.",
+        ["Progress"] = "Afet ile olan savaşlarımız sürüyor, YOUR_NAME. Üzerine düşeni yap ve o lanetli, akılsız hortlakları Veba Toprakları'na geri püskürt!",
+        ["Completion"] = "Savaştaki çabaların aramızda hissediliyor, YOUR_NAME. Gerekeni yaptığın için sana teşekkür etmeyeceğim ama Tirisfal'ın Ölümmuhafızları adını hatırlayacak.",
+        ["minlevel"] = "0",
+        ["questlevel"] = "0"
+    },
 
    ["427"] = {
         ["Title"] = "Kızıl Haçlılar ile Savaşta",
@@ -36785,10 +36783,10 @@ QuestTranslator_QuestData = {
     -- Apothecaries -> Eczacılar.
     ["60113"] = {
     ["Title"]="Zehirlilik",
-    ["Description"]="Eğer teorilerim (theories) doğruysa, o zaman insan kanı (human blood) hazırlamakta olduğum vebaya (plague) tepki vermeli. Dışarıda Murloc pullarını toplarken, Solliden Çiftliği'ne (Solliden Farmstead) git ve Çiftlik İşçileri ile Çiftçilerden kan getir.",
-    ["Objectives"]="Eczacı Johaan (Apothecary Johaan), Solliden Çiftliği'nde bulunan Tirisfal Çiftçilerinden 5 Şişe İnsan Kanı (Vials of Human Blood) toplamanı istedi.",
-    ["Progress"]="Solliden Çiftliği'ni bulmak zor olmamalı. Balkabaklarını (pumpkins) aldığın yer orasıydı... Eğer bunu hatırlayamıyorsan, o zaman bir beyin nakli (brain replacement) yaptırmanı öneririm.",
-    ["Completion"]="Güzel. Çooook güzel. Vebamı mükemmelleştirmek için bu bolca kan yeterli olacaktır. Diğer eczacılar (apothecaries) bu avantajı kıskanacaklar.",
+    ["Description"]="Eğer teorilerim doğruysa, o zaman insan kanı hazırlamakta olduğum vebaya tepki vermeli. Dışarıda Murloc pullarını toplarken, Solliden Çiftliği'ne git ve Çiftlik İşçileri ile Çiftçilerden kan getir.",
+    ["Objectives"]="Eczacı Johaan, Solliden Çiftliği'nde bulunan Tirisfal Çiftçilerinden 5 Şişe İnsan Kanı (Vials of Human Blood) toplamanı istedi.",
+    ["Progress"]="Solliden Çiftliği'ni bulmak zor olmamalı. Balkabaklarını aldığın yer orasıydı... Eğer bunu hatırlayamıyorsan, o zaman bir beyin nakli yaptırmanı öneririm.",
+    ["Completion"]="Güzel. Çooook güzel. Vebamı mükemmelleştirmek için bu bolca kan yeterli olacaktır. Diğer eczacılar bu avantajı kıskanacaklar.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Virulence
