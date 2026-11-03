@@ -570,30 +570,26 @@ local function QTR_AutoWrapText(text, maxCharsPerPage)
     local pages = {};
     local currentPageText = "";
     
-    text = string.gsub(text, "\r\n", " NEW_LINE ");
-    text = string.gsub(text, "\n", " NEW_LINE ");
+    -- Önce NEW_LINE ifadelerini gerçek satır sonlarına çevirelim
+    text = string.gsub(text, "NEW_LINE", "\n");
     
+    -- Metni kelime kelime (boşluklara göre) bölüyoruz
     local words = QTR_split(text, " ");
     
     for _, word in ipairs(words) do
         if word ~= "" then
-            if word == "NEW_LINE" then
-                if currentPageText == "" then
-                    currentPageText = "NEW_LINE";
-                else
-                    currentPageText = currentPageText .. " NEW_LINE";
-                end
+            -- Görünür karakter uzunluğunu hesapla (satır sonlarını saymadan)
+            local testText = currentPageText == "" and word or (currentPageText .. " " .. word);
+            local cleanLength = string.len(string.gsub(testText, "\n", ""));
+            
+            if cleanLength > maxCharsPerPage and currentPageText ~= "" then
+                table.insert(pages, currentPageText);
+                currentPageText = word;
             else
-                local cleanLength = string.len(string.gsub(currentPageText, "NEW_LINE", ""));
-                if cleanLength + string.len(word) + 1 > maxCharsPerPage then
-                    table.insert(pages, currentPageText);
+                if currentPageText == "" then
                     currentPageText = word;
                 else
-                    if currentPageText == "" then
-                        currentPageText = word;
-                    else
-                        currentPageText = currentPageText .. " " .. word;
-                    end
+                    currentPageText = currentPageText .. " " .. word;
                 end
             end
         end

@@ -874,8 +874,8 @@ QuestTranslator_BookData = {
 		["Text"] = "Dearest Yvette,\n\nI will entrust this letter to our fastest runner.  I pray he can find a way through the forces surrounding us.  And I pray you read these words, for they are the last you will hear of me.\n\nMy only comfort in these dark days is the relief I feel, knowing that you are free of my fate."
 	},
 	["Scarlet Crusade Documents"] = {
-		["Title"] = "Scarlet Crusade Documents",
-		["Text"] = "Disperse information as you deem necessary.\n\nTirisfal Regional Command\nCaptain Melrose\nCaptain Vachon\nCaptain Perrine\n\nDirectives by the order of the Highlord.\n\nCaptain Perrine, further fortify your position at the southwest tower (as designated). Additional supplies will be dispatched at a later date. In the meantime, materiel should be obtainable from the surrounding farms. Also, further reconnaissance and information"
+    	["Title"] = "Kızıl Haçlı Seferi Dokümanları",
+    	["Text"] = "Gerekli gördüğün bilgileri dağıt.NEW_LINETirisfal Bölge KomutanlığıNEW_LINEKaptan MelgülüNEW_LINEKaptan VachonNEW_LINEKaptan PerrineNEW_LINEYüce Derebeyi'nin emriyle direktifler.NEW_LINEKaptan Perrine, güneybatı kulesindeki (belirtildiği şekilde) mevzini daha da tahkim et. Ek ikmal malzemeleri ileri bir tarihte sevk edilecektir. Bu süre zarfında mühimmat ve teçhizat çevre çiftliklerden temin edilmelidir. Ayrıca, Brill'deki hortlakların örgütlenmesi hakkında daha fazla keşif ve bilgi toplanmalıdır.NEW_LINENEW_LINEKaptan Vachon, kuzey kulesinin yakınında hortlakların hareketliliğinde bir artış olduğu görülüyor. Bu isyanla hızlı ve kararlı bir şekilde ilgilenilmelidir.NEW_LINEKaptan Melgülü, Veba Toprakları sınırları yakınındaki hortlakların örgütlenme seviyesiyle ilgili endişeler var. Önümüzdeki haftalarda konumuna taze bir adam grubu sevk edilecektir.NEW_LINENEW_LINEIşık Altında Şan Olsun"
 	},
 	["Letter to the City Architect"] = {
 		["Title"] = "Letter to the City Architect",

@@ -3378,38 +3378,38 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end Yeni Bir Veba
 
-    -- Kızıl Haçlı Seferi ile Savaşta
+    -- Kızıl Haçlılar ile Savaşta
     ["370"] = {
-    ["Title"]="Kızıl Haçlı Seferi ile Savaşta",
-    ["Description"]="Yönetici Arren'den gelen stratejik belgeler, insan istilasını topraklardan temizlemek için ihtiyacımız olan tüm ayrıntıları içeriyor. Bilgiye göre, Kızıl Haçlı Seferi Yüzbaşı Perrine ve bir tugayı Brill'in güneybatısındaki yıkık kuleye atamış.NEW_LINEPerrine'i 3 Zealot ve 3 Misyoner ile birlikte öldür ve bana rapor ver.",
+    ["Title"]="Kızıl Haçlılar ile Savaşta",
+    ["Description"]="Yönetici Arren'den gelen stratejik belgeler, insan istilasını topraklardan temizlemek için ihtiyacımız olan tüm ayrıntıları içeriyor. Bilgiye göre, Kızıl Haçlılar Yüzbaşı Perrine ve bir tugayı Brill'in güneybatısındaki yıkık kuleye atamış.NEW_LINEPerrine'i 3 Zealot ve 3 Misyoner ile birlikte öldür ve bana rapor ver.",
     ["Objectives"]="Brill'deki Yönetici Zygand Kaptan Perrine, 3 Kızıl Zealot ve 3 Kızıl Misyoneri öldürmenizi istiyor.",
     ["Progress"]="",
     ["Completion"]="",
     ["minlevel"]="0",
     ["questlevel"]="0",
-    }, -- end Kızıl Haçlı Seferi ile Savaşta
+    }, -- end Kızıl Haçlılar ile Savaşta
 
-    -- Kızıl Haçlı Seferi ile Savaşta
+    -- Kızıl Haçlılar ile Savaşta
     ["371"] = {
-    ["Title"]="Kızıl Haçlı Seferi ile Savaşta",
-    ["Description"]="Hâlâ savaştayız ve Kızıl Haçlı Seferi'nin gücü giderek artıyor. Yönetici Arren'in bana gönderdiği rapora göre Kızıl Haçlılar, Kaptan Vachon komutasında Tirisfal'in güneydoğusunda, Balnir Çiftliği yakınlarındaki yıkık kuleden akınlar düzenliyor.NEW_LINEVachon'u 5 Scarlet Friar ile birlikte öldürün. Bu Haçlı Seferi için yıkıcı bir darbe olacak!",
+    ["Title"]="Kızıl Haçlılar ile Savaşta",
+    ["Description"]="Hâlâ savaştayız ve Kızıl Haçlılar'nin gücü giderek artıyor. Yönetici Arren'in bana gönderdiği rapora göre Kızıl Haçlılar, Kaptan Vachon komutasında Tirisfal'in güneydoğusunda, Balnir Çiftliği yakınlarındaki yıkık kuleden akınlar düzenliyor.NEW_LINEVachon'u 5 Scarlet Friar ile birlikte öldürün. Bu Haçlı Seferi için yıkıcı bir darbe olacak!",
     ["Objectives"]="Brill'deki Yönetici Zygand, Kaptan Vachon ve 5 Kızıl Keşiş'i öldürmeni istedi.",
     ["Progress"]="Görüyorum ki dönmüşsün ama görevin tamamlanmamış. Belki de sadece insanların Karanlık Leydi'nin planına müdahale etmesinden rahatsız olmuyorsundur? Ya da belki görev çağrısına kulak verip Yüzbaşı Vachon ve onun Kızıl Rahipler çetesini öldürebilirsin!",
-    ["Completion"]="Yüzbaşı Vachon'un ölümü Kızıl Haçlı Seferi'nin Tirisfal'deki ilerleyişini biraz yavaşlatacak. Ama başka tehditler de var.",
+    ["Completion"]="Yüzbaşı Vachon'un ölümü Kızıl Haçlılar'nin Tirisfal'deki ilerleyişini biraz yavaşlatacak. Ama başka tehditler de var.",
     ["minlevel"]="0",
     ["questlevel"]="0",
-    }, -- end Kızıl Haçlı Seferi ile Savaşta
+    }, -- end Kızıl Haçlılar ile Savaşta
 
-    -- Kızıl Haçlı Seferi ile Savaşta
+    -- Kızıl Haçlılar ile Savaşta
     ["372"] = {
-    ["Title"]="Kızıl Haçlı Seferi ile Savaşta",
+    ["Title"]="Kızıl Haçlılar ile Savaşta",
     ["Description"]="Kızıl Haçlılar, Tirisfal'in kuzeyindeki yıkık kuleden, Faol'un Dinlenme Yeri'ni geçerek baskınlar düzenliyor. Elimizdeki bilgilere göre, bu şeytani ekibin başında Kaptan Melrache adında acımasız bir komutan var.NEW_LINEŞimdi size özel ve tehlikeli bir görev veriyorum. Melrache ve iki korumasını Karanlık Leydi adına öldürün.",
     ["Objectives"]="Brill kasabasındaki Yönetici Zygand, Yüzbaşı Melrache ve iki korumasını öldürmenizi istiyor.",
-    ["Progress"]="Henüz görevini yerine getirmedin, YOUR_CLASS. Kızıl Haçlı Seferi askerlerimizi rahatsız ederken Karanlık Leydi'nin planını gerçekleştirmeyi bekleyemeyiz. Onların ölümünü sağlayın ve Sylvanas'a karşı görevinizi yerine getirin!",
+    ["Progress"]="Henüz görevini yerine getirmedin, YOUR_CLASS. Kızıl Haçlılar askerlerimizi rahatsız ederken Karanlık Leydi'nin planını gerçekleştirmeyi bekleyemeyiz. Onların ölümünü sağlayın ve Sylvanas'a karşı görevinizi yerine getirin!",
     ["Completion"]="Son derece iyi iş çıkardın, YOUR_CLASS. Senin gibi acımasız savaşçıların Sahipsizler adına fethetmesiyle ırkımız Arthas'ı sonsuza dek yenmeye bir adım daha yaklaştı. Senin hakkında iyi hislerim var, yoldaş.",
     ["minlevel"]="0",
     ["questlevel"]="0",
-    }, -- end Kızıl Haçlı Seferi ile Savaşta
+    }, -- end Kızıl Haçlılar ile Savaşta
 
     -- Gönderilmemiş Mektup
     ["373"] = {
@@ -3425,7 +3425,7 @@ QuestTranslator_QuestData = {
     -- Ölüm Kanıtı
     ["374"] = {
     ["Title"]="Ölüm Kanıtı",
-    ["Description"]="Cellat Zygand bana dışarıda Kızıl Haçlıları öldürdüğünüzü söyledi. Tirisfal Glades onlarla kaynıyor.NEW_LINEKaranlık Leydi'nin teğmeni Varimathras, Azeroth'un pisliği olan İnsan ırkının unutulup gitmesi için  uğraşıyor. Burada, Tirisfal Glades'te özellikle sinir bozucu bir insan türüyle karşı karşıyayız: Kızıl Haçlı Seferi.NEW_LINEİleri atıl ve Kızıl Haçlı Seferi'ne saldır, YOUR_CLASS. Varimathras ve Karanlık Leydi'ye sadakatinin kanıtı olarak bana 10 Kızıl Nişan Yüzüğü getir.",
+    ["Description"]="Cellat Zygand bana dışarıda Kızıl Haçlıları öldürdüğünüzü söyledi. Tirisfal Glades onlarla kaynıyor.NEW_LINEKaranlık Leydi'nin teğmeni Varimathras, Azeroth'un pisliği olan İnsan ırkının unutulup gitmesi için  uğraşıyor. Burada, Tirisfal Glades'te özellikle sinir bozucu bir insan türüyle karşı karşıyayız: Kızıl Haçlılar.NEW_LINEİleri atıl ve Kızıl Haçlılar'ne saldır, YOUR_CLASS. Varimathras ve Karanlık Leydi'ye sadakatinin kanıtı olarak bana 10 Kızıl Nişan Yüzüğü getir.",
     ["Objectives"]="Brill'deki Ölüm Muhafızı Burgess'e 10 Kızıl Nişan Yüzüğü getirin.",
     ["Progress"]="10 Kızıl Nişan Yüzüğü topladın mı, YOUR_CLASS?",
     ["Completion"]="Varimathras gurur duyardı. Liderlerine iyi hizmet ediyorsun, YOUR_CLASS.",
@@ -3487,8 +3487,8 @@ QuestTranslator_QuestData = {
     },
 
     ["381"] = {
-        ["Title"] = "Kızıl Haçlı Seferi",
-        ["Description"] = "Büyük ölçüde senin çabaların sayesinde madende ilerleme kaydediyor gibi göründüğümüzü bilmek seni mutlu edecektir. Artık gözlerimizi diğer endişelere çevirebiliriz.\n\nİzcilerim, Kızıl Haçlı Seferi'ne bağlı bir müfrezenin buranın güneydoğusunda bir kamp kurduğunu bildirdi. Kızıl Haçlı Seferi bizi avlayan aşağılık bir örgüttür ve her bir hortlak—Lich King'in Afeti olsun ya da olmasın—yok edilene kadar durmayacaklardır. İlk biz vurmalıyız!\n\nDikkatli ol, onların kutsal olmayan taassupları onları tehlikeli düşmanlar kılıyor.",
+        ["Title"] = "Kızıl Haçlılar",
+        ["Description"] = "Büyük ölçüde senin çabaların sayesinde madende ilerleme kaydediyor gibi göründüğümüzü bilmek seni mutlu edecektir. Artık gözlerimizi diğer endişelere çevirebiliriz.\n\nİzcilerim, Kızıl Haçlılar'ne bağlı bir müfrezenin buranın güneydoğusunda bir kamp kurduğunu bildirdi. Kızıl Haçlılar bizi avlayan aşağılık bir örgüttür ve her bir hortlak—Lich King'in Afeti olsun ya da olmasın—yok edilene kadar durmayacaklardır. İlk biz vurmalıyız!\n\nDikkatli ol, onların kutsal olmayan taassupları onları tehlikeli düşmanlar kılıyor.",
         ["Objectives"] = "İnfazcı Arren'e, Kızıl Mühtediler ve Kızıl Acemiler'den alacağın 12 Kızıl Kol Bandı getir.",
         ["Progress"] = "O aptallar... Kendi mezarlarına seve seve gidiyorlar.",
         ["Completion"] = "Keşke mantığın sesini dinleselerdi, ha, YOUR_NAME? Belki oturup onlarla makul bir söyleşi yapabilirdik... ha!\n\nIşık'tan kör olmuş aptallar.",
@@ -3496,22 +3496,21 @@ QuestTranslator_QuestData = {
         ["questlevel"] = "0"
     },
 
-    -- Kızıl Elçi
-    ["382"] = {
-    ["Title"]="Kızıl Elçi",
-    ["Description"]="Brill'deki üstlerimden gelen raporlar, Kızıl Haçlı Seferi'nin bir ajanının Kızıl Manastır'dan buraya, Ölümçanı'e gönderildiğini gösteriyor. Raporlara göre, habercinin üzerinde önemli bilgiler varmış. Daha fazla ayrıntıya sahip değilim, ama her ne ise, onu almalıyız!NEW_LINEGöndermem gereken en nitelikli kişi sensin, YOUR_NAME. O haberciyi bul ve bulabildiğin her bilgiyi bana getir.",
-    ["Objectives"]="Haçlı kampındaki haberci Meven Korgal'ı öldür, sonra bulduğun her bilgiyi Cellat Arren'e geri ver.",
-    ["Progress"]="Görevin nasıl gidiyor, YOUR_NAME?",
-    ["Completion"]="Hmm... Bakalım sende ne varmış.NEW_LINE<Kurtarmış olduğunuz belgeleri karıştırmaya başlar.>NEW_LINEBize karşı yaptıklarıyla ilgili bazı haberler. Değersiz. Keşif raporları. Yeni emirler, \\",
-    ["minlevel"]="0",
-    ["questlevel"]="0",
-    }, -- end Kızıl Elçi
+   ["382"] = {
+        ["Title"] = "Kızıl Ulak",
+        ["Description"] = "Brill'deki üstlerimden gelen raporlar, Kızıl Haçlılar'ne ait bir ajanın Kızıl Manastır'dan yola çıkarak buraya, Ölümçanı'na gönderildiğini gösteriyor. Raporlara göre ulağın üzerinde önemli bilgiler bulunuyor. Daha fazla detayım yok ama her neyse, ona kesinlikle sahip olmalıyız!\n\nGönderebileceğim en nitelikli kişi sensin, <name>. O ulağı bul ve bulabildiğin her türlü bilgiyi bana getir.",
+        ["Objectives"] = "Haçlı kampındaki ulak Meven Korgal'ı katlet, ardından bulduğun tüm bilgileri İnfazcı Arren'e geri getir.",
+        ["Progress"] = "Görev nasıl gidiyor, <name>?",
+        ["Completion"] = "Hmm... Bakalım elinde ne varmış...\n\n<Ele geçirdiğin belgeleri karıştırmaya başlar.>\n\nBize karşı gerçekleştirdikleri eylemlere dair bazı haberler... Değersiz. Keşif raporları... Yeni emirler, \"Yıkılmış şehrin yakınlarında kamp kurmaya devam edin...\" Zaten bilmediğimiz bir şey yok... Ah, bu da ne? Bazı saha komutanlarının ve ajanlarının konuşlanma haritası! Bunu kullanabiliriz.",
+        ["minlevel"] = "0",
+        ["questlevel"] = "0"
+    },
 
     -- Hayati Zeka
     ["383"] = {
     ["Title"]="Hayati Zeka",
-    ["Description"]="Bunların Brill'deki amirim Cellat Zygand'a götürülmesi gerekecek. Bu bilgiyle, Kızıl Haçlı Seferi'ne kesin bir darbe indirebileceğiz. Hizmetlerin burada, Ölümçanı'de faydalı oldu ama bunları Zygand'a ulaştıracak birine ihtiyacım var ve inanıyorum ki o sana daha uygun bir iş bulacaktır.NEW_LINEÖlümçanı'den kuzeye giden yola girin. Tirisfal'e girdikten kısa bir süre sonra bir yol ayrımına geleceksiniz. Doğu çatalına girin ve doğuya doğru devam edin. Yol boyunca Soğuk Ocak Malikanesi'ni geçeceksiniz.",
-    ["Objectives"]="Kızıl Haçlı Seferi Belgelerini Brill'deki İnfazcı Zygand'a teslim et.",
+    ["Description"]="Bunların Brill'deki amirim Cellat Zygand'a götürülmesi gerekecek. Bu bilgiyle, Kızıl Haçlılara kesin bir darbe indirebileceğiz. Hizmetlerin burada, Ölümçanı'de faydalı oldu ama bunları Zygand'a ulaştıracak birine ihtiyacım var ve inanıyorum ki o sana daha uygun bir iş bulacaktır.NEW_LINEÖlümçanı'den kuzeye giden yola girin. Tirisfal'e girdikten kısa bir süre sonra bir yol ayrımına geleceksiniz. Doğu çatalına girin ve doğuya doğru devam edin. Yol boyunca Soğuk Ocak Malikanesi'ni geçeceksiniz.",
+    ["Objectives"]="Kızıl Haçlıların Belgelerini Brill'deki İnfazcı Zygand'a teslim et.",
     ["Progress"]="Evet, ne istiyorsun?",
     ["Completion"]="Evet, bu çok iyi. Bu bilgiyi elde etmekle iyi iş çıkardın, YOUR_NAME. Hmm... Tirisfal Glades'teki subayların isimleri...NEW_LINELiderlerini tek bir hamlede öldürürsek, o kanlı bağnazların moraline indireceğimiz darbeyi bir düşünsene.",
     ["minlevel"]="0",
@@ -3754,7 +3753,7 @@ QuestTranslator_QuestData = {
     ["Title"]="Keder Tarlaları",
     ["Description"]="Zararsız balkabakları, değil mi?  Ya da öyle görünüyor. Arthas'ın kuzeyden ilerleyişini ve güneyden gelen insan istilasını yenmek istiyorsak, ölümsüzlük yeteneğimizin tam potansiyelini fark etmeye başlamalıyız.NEW_LINEBiraz ustalıkla basit bir balkabağı Karanlık Leydi'miz için bir ajan haline gelir. Bu balkabağı, en son formülümle birlikte, oldukça iyi bir muamele olduğunu kanıtlayacak.NEW_LINEBir Kızıl Zelot daha yakalandı ve Gallow's End Tavernası'nın mahzeninde tutuluyor. Bu balkabağını aptala götürün.",
     ["Objectives"]="Bağcıklı Balkabağı'nı Gallow's End Tavernası'nın mahzeninde esir tutulan Scarlet Zealot'a götürün.",
-    ["Progress"]="Uzak dur, iğrenç ve kutsal olmayan yaratık!  Işık beni korusun!  Kızıl Haçlı Seferi Azeroth'u senden kurtaracak. .NEW_LINE. . .oh bekle. O yemek benim için mi?  Çok acıktım. .",
+    ["Progress"]="Uzak dur, iğrenç ve kutsal olmayan yaratık!  Işık beni korusun!  Kızıl Haçlılar Azeroth'u senden kurtaracak. .NEW_LINE. . .oh bekle. O yemek benim için mi?  Çok acıktım. .",
     ["Completion"]="Işık adına!  Sonunda biraz yiyecek!  Tatlı, tatlı balkabağı. . .",
     ["minlevel"]="0",
     ["questlevel"]="0",
@@ -3969,16 +3968,15 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end Mills Taşması
 
-    -- Kızıl Haçlı Seferi ile Savaşta
-    ["427"] = {
-    ["Title"]="Kızıl Haçlı Seferi ile Savaşta",
-    ["Description"]="Cellat Arren'in verdiği belgeler, Kızıl Haçlı Seferi'yle savaşımızda tam da ihtiyacımız olan kırılma noktasıydı. Artık Tirisfal Glades'teki tam yerlerini biliyoruz.NEW_LINEAma Ölüm Muhafızları'nın daha büyük endişeleri var. Lich King'in ordusunun sayısı her gece artıyor. Kızıl Haçlı Seferi'ni mezara götürmek için senin gibi \\",
-    ["Objectives"]="Brill'deki Yönetici Zygand 10 Kızıl Savaşçıyı öldürmenizi istiyor.",
-    ["Progress"]="Eğer Karanlık Leydi'ye değerini kanıtlamak istiyorsan, 10 Kızıl Savaşçı öldür, YOUR_CLASS.",
-    ["Completion"]="Mükemmel, YOUR_CLASS. Dövüş sanatındaki yeteneğiniz inkar edilemez.",
-    ["minlevel"]="0",
-    ["questlevel"]="0",
-    }, -- end Kızıl Haçlı Seferi ile Savaşta
+   ["427"] = {
+        ["Title"] = "Kızıl Haçlılar ile Savaşta",
+        ["Description"] = "İnfazcı Arren'in sağladığı belgeler, sefil Kızıl Haçlılar ile olan savaşımızda tam da ihtiyacımız olan fırsattı. Artık Tirisfal Koruları boyunca tam konumlarını biliyoruz.\n\nAncak Ölümmuhafızı'nın daha büyük kaygıları var. Lich King'in ordusu her gece sayıca büyüyor. Kızıl Haçlılar'ni mezara sürüklemek için senin gibi \"inisiyatif\" sahibi birine ihtiyacımız var.\n\nSolliden Çiftliği'nin ötesindeki kuleye, batıya seyahat edip 10 Kızıl Savaşçı katlederek Karanlık Leydi'ye hizmet etmeye muktedir olduğunu bana kanıtla.",
+        ["Objectives"] = "Brill'deki İnfazcı Zygand 10 Kızıl Savaşçı katletmeni istiyor.",
+        ["Progress"] = "Karanlık Leydi'ye değerini kanıtlamak istiyorsan 10 Kızıl Savaşçı katlet, <class>.",
+        ["Completion"] = "Fevkalade, <class>. Dövüş sanatındaki becerin tartışılmaz.",
+        ["minlevel"] = "0",
+        ["questlevel"] = "0"
+    },
 
     -- Kayıp Ölüm Avcıları
     ["428"] = {
@@ -9008,7 +9006,7 @@ QuestTranslator_QuestData = {
     -- Kızıl Manastırın İçine
     ["1048"] = {
     ["Title"]="Kızıl Manastırın İçine",
-    ["Description"]="Karanlık Leydi, Lich King'in kuzeye doğru ilerleyişiyle ilgili acil meselelerle ilgilenirken, ben de eve daha yakın meselelerin uygun şekilde halledildiğini görüyorum.NEW_LINEHiç şüphesiz, kendilerine Kızıl Haçlı Seferi adını veren insan zararlıları, yurt içinde başımıza bela olan en keskin diken olduklarını kanıtlıyorlar. Tirisfal Glades kelimenin tam anlamıyla küçük kırmızı karıncalarla kaynıyor.NEW_LINEManastıra git, YOUR_CLASS ve Yüksek Engizisyoncu Whitemane ve üst düzey teğmenlerini yerle bir edin.",
+    ["Description"]="Karanlık Leydi, Lich King'in kuzeye doğru ilerleyişiyle ilgili acil meselelerle ilgilenirken, ben de eve daha yakın meselelerin uygun şekilde halledildiğini görüyorum.NEW_LINEHiç şüphesiz, kendilerine Kızıl Haçlılar adını veren insan zararlıları, yurt içinde başımıza bela olan en keskin diken olduklarını kanıtlıyorlar. Tirisfal Glades kelimenin tam anlamıyla küçük kırmızı karıncalarla kaynıyor.NEW_LINEManastıra git, YOUR_CLASS ve Yüksek Engizisyoncu Whitemane ve üst düzey teğmenlerini yerle bir edin.",
     ["Objectives"]="Yüksek Engizisyoncu Whitemane, Kızıl Kumandan Mograine, Herod, Kızıl Şampiyon ve Tazı Ustası Loksey'i öldür ve sonra Yeraltı Şehri'ndeki Varimathras'a geri rapor ver.",
     ["Progress"]="Belki de emirlerimde açık değildim, YOUR_CLASS. Yüksek Soruşturmacı Whitemane'in sonsuza dek öldürülmesini istiyorum. Ve bunu yaparken, onun üst rütbelilerini de öldürün.NEW_LINEO bağnaz Scarlet Kumandanı Mograine'i öldürün. Kızıl Şampiyon Herod'u yok edin. Ve Houndmaster Loksey ve onun pis itlerini de katledin.NEW_LINEŞimdi defolun!",
     ["Completion"]="Karanlık Leydi'ye iyi hizmet ettin, YOUR_CLASS. Senden istediğim küçük bir görev değildi.NEW_LINEForsaken'a olan sadakatin not edildi. Ve savaştaki azmin hatırlanacak.",
@@ -9032,7 +9030,7 @@ QuestTranslator_QuestData = {
     ["Title"]="Titanların Mitolojisi",
     ["Description"]="Gelecek kaçınılmazdır! Büyük Deniz'e düşen yağmur damlaları gibi kendimizi ona doğru fırlatıyoruz.NEW_LINEAma belki de geçmişi inceleyerek ne beklememiz gerektiğini bilebilir ve bilinmeyene karşı daha hazırlıklı olabiliriz.NEW_LINELordaeron'un başına korkunç belalar gelmeden önce, Tirisfal Glades'te saklanmış bir bilgi kalesi vardı. Eski Manastır'ın kütüphanesinde Titanların Mitolojisi adlı bir kitabın bulunduğu rivayet edilir.NEW_LINEOnu bana getir ve belki birlikte geçmişin sırlarını çözebiliriz!",
     ["Objectives"]="Titanların Mitolojisi'ni Manastır'dan al ve Ironforge'daki Kütüphaneci Mae Paledust'a getir.",
-    ["Progress"]="Manastır, eğitimdeki Şovalyeler için bir seminerdi. Bir zamanlar Işığın kalesi olan manastır, Kızıl Haçlı Seferi'nin çılgın fanatiklerinin eline geçti.NEW_LINEHaçlı Seferi amaçlarının asil olduğuna inanıyordu: ülkeyi ölümsüz vebadan arındırmak. Ancak delilik, onların durumunu lekeledi ve şimdi herkese düşman oldular.NEW_LINETitanların Mitolojisi'ni bana getir ki üzerinde çalışıp Ironforge'a yerleştirebileyim.NEW_LINEManastırın yozlaşmış salonları böyle tarihi bir hazine için uygun değil.",
+    ["Progress"]="Manastır, eğitimdeki Şovalyeler için bir seminerdi. Bir zamanlar Işığın kalesi olan manastır, Kızıl Haçlılar'nin çılgın fanatiklerinin eline geçti.NEW_LINEHaçlı Seferi amaçlarının asil olduğuna inanıyordu: ülkeyi ölümsüz vebadan arındırmak. Ancak delilik, onların durumunu lekeledi ve şimdi herkese düşman oldular.NEW_LINETitanların Mitolojisi'ni bana getir ki üzerinde çalışıp Ironforge'a yerleştirebileyim.NEW_LINEManastırın yozlaşmış salonları böyle tarihi bir hazine için uygun değil.",
     ["Completion"]="Kutsal metni kurtardınız!NEW_LINEYolculuğunuz uzun sürdü ve kitabı ele geçirmek hiç şüphesiz kolay bir iş değildi. Ama Ironforge cüceleri başarınızdan faydalanacak.NEW_LINETeşekkürler, YOUR_NAME Kaşifler Birliği adına.",
     ["minlevel"]="0",
     ["questlevel"]="0",
@@ -9052,7 +9050,7 @@ QuestTranslator_QuestData = {
     -- Işık Adına
     ["1053"] = {
     ["Title"]="Işık Adına",
-    ["Description"]="Bir zamanlar Scarlet Crusade'e onur, sadakat ve gururla hizmet ettim. Davalarının asil bir dava olduğuna inanıyordum: Azeroth'u ölümsüzlerden kurtarmak.NEW_LINEAncak Tirisfal Glades'teki Manastır'da zaman geçirdikçe, gerçekliği kavrayışlarının kaydığını fark ettim. Artık Haçlı Seferi sancağı takmayan herkesin lanetli olduğunu düşünüyorlar. Masum erkek ve kadınlar sözde lanetli oldukları için işkence gördüler.NEW_LINEKızıl Haçlı Seferi, Işık adına yok edilmeli. Sen, YOUR_NAME bu dengesiz rejimi yok etmelisiniz.",
+    ["Description"]="Bir zamanlar Scarlet Crusade'e onur, sadakat ve gururla hizmet ettim. Davalarının asil bir dava olduğuna inanıyordum: Azeroth'u ölümsüzlerden kurtarmak.NEW_LINEAncak Tirisfal Glades'teki Manastır'da zaman geçirdikçe, gerçekliği kavrayışlarının kaydığını fark ettim. Artık Haçlı Seferi sancağı takmayan herkesin lanetli olduğunu düşünüyorlar. Masum erkek ve kadınlar sözde lanetli oldukları için işkence gördüler.NEW_LINEKızıl Haçlılar, Işık adına yok edilmeli. Sen, YOUR_NAME bu dengesiz rejimi yok etmelisiniz.",
     ["Objectives"]="Yüksek Engizisyoncu Whitemane, Kızıl Kumandan Mograine, Herod, Kızıl Şampiyon ve Tazı Ustası Loksey'i öldür ve sonra Güney Kıyısı'ndaki Dindar Raleigh'e rapor ver.",
     ["Progress"]="Manastırdaki yolsuzluk, en üst düzey yetkililer görevden alınana kadar sona ermeyecektir.NEW_LINEIşık adına, Yüksek Engizisyoncu Whitemane, Kızıl Kumandan Mograine, Kızıl Şampiyon Herod ve Tazı Ustası Loksey'i öldürün. Onlar düştükten sonra, belki de gerçek dava yeniden alevlenebilir. O zamana kadar, Haçlı Seferi'nin yolunu kesen herkes tehlikededir.NEW_LINESouthshore'dan yola çıkın ve bunu başarın!",
     ["Completion"]="Işığın müritleri hiçbir zaman can kaybından zevk almasa da, Krallığın ve gezegenin daha büyük iyiliği için zaman zaman bu tür fedakârlıkların yapılması gerektiğini kabul etmeliyiz.NEW_LINEManastırda yaptıklarınızla pek çok masum hayatı kurtardınız, YOUR_NAME. Azminizi selamlıyorum.",
@@ -9701,7 +9699,7 @@ QuestTranslator_QuestData = {
     -- Gayretli Kalpler
     ["1113"] = {
     ["Title"]="Gayretli Kalpler",
-    ["Description"]="Neden nadir bulunan bir guano türüne ihtiyacım var diye sorabilirsiniz. Bu deney için birbirine taban tabana zıt iki kimyasal maddenin birbirleri üzerinde nasıl bir etki yaratabileceğini görmek istiyorum, özellikle de her ikisi de en korkunç sonuçları elde etmek için sürekli zehirli bir madde ile birleştirildiğinde.NEW_LINETirisfal Glades'in kuzeydoğu zirvelerinde Kızıl Manastır yer alır. Orada, Kızıl Haçlı Seferi'nin çılgın müritleri hem salonların içinde hem de dışında toplanır. Hangisini öldürdüğün önemli değil, içlerinden herhangi biri ihtiyacım olan kalbe sahip olabilir.",
+    ["Description"]="Neden nadir bulunan bir guano türüne ihtiyacım var diye sorabilirsiniz. Bu deney için birbirine taban tabana zıt iki kimyasal maddenin birbirleri üzerinde nasıl bir etki yaratabileceğini görmek istiyorum, özellikle de her ikisi de en korkunç sonuçları elde etmek için sürekli zehirli bir madde ile birleştirildiğinde.NEW_LINETirisfal Glades'in kuzeydoğu zirvelerinde Kızıl Manastır yer alır. Orada, Kızıl Haçlılar'nin çılgın müritleri hem salonların içinde hem de dışında toplanır. Hangisini öldürdüğün önemli değil, içlerinden herhangi biri ihtiyacım olan kalbe sahip olabilir.",
     ["Objectives"]="Yeraltı Şehri'ndeki Usta Eczacı Faranell 20 Gayret Kalbi istiyor.",
     ["Progress"]="Kızıl Manastır'dan döndün mü? Bu keyifli deney için çok sayıda kalbe ihtiyacım olacak!NEW_LINEHiç şüphe yok ki Varimathras ve Karanlık Leydi de Kızıl Pislik'ten kurtuldukları için memnun olacaklardır...",
     ["Completion"]="Bana ne kadar çok kan getirdin, YOUR_NAME! Çabalarınız mükemmeldi!",
@@ -11141,7 +11139,7 @@ QuestTranslator_QuestData = {
     -- Boşluğun Yaratığı
     ["1473"] = {
     ["Title"]="Boşluğun Yaratığı",
-    ["Description"]="Bir voidwalker çağırmayı öğrenmeye hazır olduğunuz konusunda fikir birliği var gibi görünüyor.NEW_LINEÖtede yatan kaostan yaratılmış bir varlık, eğer bir tane çağırırsanız ama onu kontrol edemezseniz, paramparça olursunuz.NEW_LINEİlk voidwalker Egalin tarafından çağrıldı ve grimoire'ında süreç açıklandı.NEW_LINENe yazık ki, onu batıdaki bir kuledeki üssünde saklayan Kızıl Haçlı Seferi'nin bir ajanı tarafından bizden çalındı. Onu bana getirin, ben de size bilgiyi aktarayım.",
+    ["Description"]="Bir voidwalker çağırmayı öğrenmeye hazır olduğunuz konusunda fikir birliği var gibi görünüyor.NEW_LINEÖtede yatan kaostan yaratılmış bir varlık, eğer bir tane çağırırsanız ama onu kontrol edemezseniz, paramparça olursunuz.NEW_LINEİlk voidwalker Egalin tarafından çağrıldı ve grimoire'ında süreç açıklandı.NEW_LINENe yazık ki, onu batıdaki bir kuledeki üssünde saklayan Kızıl Haçlılar'nin bir ajanı tarafından bizden çalındı. Onu bana getirin, ben de size bilgiyi aktarayım.",
     ["Objectives"]="Egalin'in Grimoire'unu kurtar ve Lanetliler Tapınağı'ndaki Carendin Halgar'a getir.",
     ["Progress"]="Egalin bana öğreten öğretmenimdi. Zor bir bakışla, çağırdığı boşluk gezginine komut verebildi.NEW_LINEDeneme sırası bana geldiğinde, kendime aşırı güveniyordum. Sahip olduğun güçleri hafife alma, YOUR_NAME Onlar uyanık olanları bile tüketebilir.",
     ["Completion"]="Ah, bu mükemmel. Sanki Perrine bizden çaldığı küflü kitabın gerçek gücünden habersizmiş gibi.NEW_LINEBir daha elimizden düşmeyecek. Dikkat et, YOUR_NAME Büyünün yapısını, gücünüzün nasıl kanalize edilmesi gerektiğini.",
@@ -17276,7 +17274,7 @@ QuestTranslator_QuestData = {
 
     -- Doom Weed
     ["5482"] = {
-    ["Title"]="Doom Weed",
+    ["Title"]="Kıyamet Otu(Doom Weed)",
     ["Description"]="İçinde bulunduğum çıkmazı görebiliyorsun, YOUR_NAME. Bu şey dışarıda yanlış otları topluyor! İhtiyacım olanı toplamak için harcadığın zamana değmesini sağlayacağım. Bana yeterince kıyamet otu getir, ben de sana uygun bir ödül vereyim.NEW_LINEAnladığım kadarıyla Brill mezarlığının kuzeyindeki toplu mezarlığın yakınındaki bitki örtüsüne musallat olmayı seviyorlar. Acele edin ve bölgedeki gnoll'lara dikkat edin.",
     ["Objectives"]="10 Doom Weed toplayın ve Junior Apothecary Holland'a geri teslim edin.",
     ["Progress"]="Bu iyi olsa iyi olur. İhtiyacım olan tüm doom otunun sende olduğuna inanıyorum.",
@@ -18024,7 +18022,7 @@ QuestTranslator_QuestData = {
     -- Üzerinize Bir Veba
     ["5901"] = {
     ["Title"]="Üzerinize Bir Veba",
-    ["Description"]="Bu yüzden, Kızıl Haçlı Seferi'ne acı ve sıkıntı vermek için, değerli kereste fabrikalarını ellerinden almak istiyorum. Eminim ki böyle bir kaynağın kaybı, kasabayı savunurken ve yeniden inşa ederken kendi nedenleriyle onlara büyük zarar verecektir. Bana yardım edecek misin, YOUR_NAME ?NEW_LINEBu kavanozu Doğu Plaguelands'daki Plaguewood'a götürerek başlayın. Ormandaki höyüklerinde bulduğun termitlerle doldur. Yeterince olduğunda geri gel.",
+    ["Description"]="Bu yüzden, Kızıl Haçlılar'ne acı ve sıkıntı vermek için, değerli kereste fabrikalarını ellerinden almak istiyorum. Eminim ki böyle bir kaynağın kaybı, kasabayı savunurken ve yeniden inşa ederken kendi nedenleriyle onlara büyük zarar verecektir. Bana yardım edecek misin, YOUR_NAME ?NEW_LINEBu kavanozu Doğu Plaguelands'daki Plaguewood'a götürerek başlayın. Ormandaki höyüklerinde bulduğun termitlerle doldur. Yeterince olduğunda geri gel.",
     ["Objectives"]="Boş Termit Kavanozunu Doğu Plagueland'daki Termit Höyüklerinde kullanın. 100 Plagueland Termiti topladıktan sonra Tirisfal Glades'teki Bulwark'ta Mickey Levine'a dönün.",
     ["Progress"]="Termitler henüz gelmedi mi, YOUR_NAME ? Eminim senin gibi zeki bir YOUR_CLASS için çok açıktır.NEW_LINEOnlardan yeterince aldığımızda, kimsenin kereste fabrikasını bir daha kullanamayacağından emin olacağız!",
     ["Completion"]="Bunlar iyi iş görür, YOUR_NAME. Teşekkür ederim.NEW_LINEHazırsanız, bir sonraki adıma geçebiliriz.",
@@ -23804,7 +23802,7 @@ QuestTranslator_QuestData = {
 -- Ölümle Mücadele Müttefikleri
     ["40934"] = {
     ["Title"]="Ölümle Mücadele Müttefikleri",
-    ["Description"]="Ölümün iğrenç lekesi en habis ve korkunç şeydir. Gilneas toprakları birkaç yıl önce toprakları kötücül büyüsüyle yaralayan bir lich tarafından istila edilmişti. NEW_LINEBu, benim kendi topraklarımın başına gelenlere benzer bir hikaye. Görüyorsun ya, Scarlet Crusade (Kızıl Haçlı Seferi) bir düşman değil, çünkü hepimiz aynı amaca hizmet ediyoruz. NEW_LINESenden nekromansi karşıtı bir ajan olarak kendini kanıtlamanı istiyorum. Külleriköy'e, ya da ondan geriye ne kaldıysa oraya seyahat et. Orada hâlâ yürüyen ölü şeyleri katlet.",
+    ["Description"]="Ölümün iğrenç lekesi en habis ve korkunç şeydir. Gilneas toprakları birkaç yıl önce toprakları kötücül büyüsüyle yaralayan bir lich tarafından istila edilmişti. NEW_LINEBu, benim kendi topraklarımın başına gelenlere benzer bir hikaye. Görüyorsun ya, Scarlet Crusade (Kızıl Haçlılar) bir düşman değil, çünkü hepimiz aynı amaca hizmet ediyoruz. NEW_LINESenden nekromansi karşıtı bir ajan olarak kendini kanıtlamanı istiyorum. Külleriköy'e, ya da ondan geriye ne kaldıysa oraya seyahat et. Orada hâlâ yürüyen ölü şeyleri katlet.",
     ["Objectives"]="Gilneas'taki Gölgelidul Meyhanesi'nde bulunan Elias Kardeş için 7 Süregelen İskelet ve 7 Sendeleyen Ölü katlet.",
     ["Progress"]="Kutsal cezayı kestin mi?",
     ["Completion"]="Öyle görünüyor ki, gölge tarafından gerçekten yozlaştırılmamışsın.",
@@ -28309,7 +28307,7 @@ QuestTranslator_QuestData = {
     -- Austil de Mon -> Austil de Mon, Coleman Farthing -> Coleman Metelik. Plague -> Veba.
     -- Linen Bandages -> Keten Bandajlar, First Aid -> İlk Yardım. Gallows' End Tavern -> Ağaçaltı / İlmekucu Meyhanesi, Brill -> Brill.
     ["Title"]="Aklını (ve Çeneni) Kaçırma",
-    ["Description"]="Bazı insanlarda da ne şans var ama! <Austil, meyhanenin diğer ucundaki Coleman Metelik'e (Coleman Farthing) dik dik bakar.> \"Oh, ailemi kaybettim, veba evimi elimden aldı.\" Durmadan konuşup duruyor! Anladık! Veba hepimizin evini ve hepimizin ailesini aldı. Ama en azından bazılarımız bu işten çenesi sağlam çıktı! <Austil bir kemiği tekrar yerine oturtur.> Eğer bir işe yaramak istiyorsan bana biraz bandaj getir de benden geriye kalanları bir arada tutabileyim!",
+    ["Description"]="Bazı insanlarda da ne şans var ama! NEW_LINE<Austil, meyhanenin diğer ucundaki Coleman Metelik'e (Coleman Farthing) dik dik bakar.> NEW_LINE\"Oh, ailemi kaybettim, veba evimi elimden aldı.\" Durmadan konuşup duruyor! Anladık! Veba hepimizin evini ve hepimizin ailesini aldı. Ama en azından bazılarımız bu işten çenesi sağlam çıktı! NEW_LINE<Austil bir kemiği tekrar yerine oturtur.> NEW_LINEEğer bir işe yaramak istiyorsan bana biraz bandaj getir de benden geriye kalanları bir arada tutabileyim!",
     ["Objectives"]="Brill'deki İlmekucu Meyhanesi'nde (Gallows' End Tavern) bulunan Austil de Mon'a 10 adet Keten Bandaj (Linen Bandages) getir. Bandajları İlk Yardım (First Aid) yeteneğiyle yapabilir veya yeteneğe sahip birinden satın alabilirsin.",
     ["Progress"]="Geçen her dakika, parçalarımın benden kopup düşmesi için başka bir dakika, YOUR_NAME!",
     ["Completion"]="<Austil bandajları alır ve gevşek duran bazı uzuvlarını yerine bağlamak için kullanır.> Ah, teşekkür ederim. Bu çok işe yarayacak. Daha önce sana çıkıştıysam kusura bakma. İnsanın bazı parçalarının her an kaçmakla tehdit etmesi, onu biraz huysuzlaştırmaya meyilli kılıyor haliyle. Ama şimdi çok daha iyi hissediyorum. Belki gidip şu ihtiyar Metelik ile bile konuşurum.",
@@ -38091,12 +38089,12 @@ QuestTranslator_QuestData = {
     }, -- end Return to Yor'thegg
     -- Returning Property
     -- Third war -> Üçüncü Savaş, rogue wizards -> haydut büyücüler, necromancers -> nekromanslar.
-    -- Vishas family -> Vishas ailesi, Scarlet Crusade -> Kızıl Haçlı Seferi (Scarlet Crusade), ruins of Lordaeron -> Lordaeron harabeleri.
+    -- Vishas family -> Vishas ailesi, Scarlet Crusade -> Kızıl Haçlılar (Scarlet Crusade), ruins of Lordaeron -> Lordaeron harabeleri.
     -- Water-Weaving and Command -> Su Dokuma ve Komuta (Kitap adı).
     -- Ansirem Runeweaver -> Ansirem Ründokuyan kalmıştır. Dalaran = Dalaran.
     ["55040"] = {
     ["Title"]="Mülkü İade Etmek",
-    ["Description"]="Üçüncü Savaş (third war) sırasında Dalaran kütüphanelerinden pek çok harika büyük cilt, kitap ve arşiv kayboldu. Bilgi mekanlarımız yerle bir edildi ve dünyanın dört bir yanına saçıldı; şimdi ise hem haydut büyücülerin (rogue wizards) hem de nekromansların (necromancers) elindeler. Bu güç kitaplarından biri buradan çok uzak olmayan bir yerde, kıyı şeridinin yukarısında bulunuyor. Vishas ailesi (The Vishas family), Üçüncü Savaş'tan önce kütüphanemizden, büyüde yeni yetme olan oğulları için bir kitap almıştı. Şimdi onların Lordaeron harabelerindeki (ruins of Lordaeron) Kızıl Haçlı Seferi'nin (Scarlet Crusade) yozlaşmışlığına bulaştıklarına inanıyorum. Onu geri almak için birkaç kez uğraştım ancak işler sadece şiddete döküldü. Bu insanlarla mantıklı bir şekilde konuşmak için elinden geleni yap; eğer uzlaşma sağlanamazsa, bizim için başka yollarla geri al.",
+    ["Description"]="Üçüncü Savaş (third war) sırasında Dalaran kütüphanelerinden pek çok harika büyük cilt, kitap ve arşiv kayboldu. Bilgi mekanlarımız yerle bir edildi ve dünyanın dört bir yanına saçıldı; şimdi ise hem haydut büyücülerin (rogue wizards) hem de nekromansların (necromancers) elindeler. Bu güç kitaplarından biri buradan çok uzak olmayan bir yerde, kıyı şeridinin yukarısında bulunuyor. Vishas ailesi (The Vishas family), Üçüncü Savaş'tan önce kütüphanemizden, büyüde yeni yetme olan oğulları için bir kitap almıştı. Şimdi onların Lordaeron harabelerindeki (ruins of Lordaeron) Kızıl Haçlılar'nin (Scarlet Crusade) yozlaşmışlığına bulaştıklarına inanıyorum. Onu geri almak için birkaç kez uğraştım ancak işler sadece şiddete döküldü. Bu insanlarla mantıklı bir şekilde konuşmak için elinden geleni yap; eğer uzlaşma sağlanamazsa, bizim için başka yollarla geri al.",
     ["Objectives"]="Ansirem Ründokuyan (Ansirem Runeweaver) için Dalaran'daki (Dalaran) Su Dokuma ve Komuta (Water-Weaving and Command) kitabını topla.",
     ["Progress"]="Kitap Dalaran için büyük önem taşıyor ve geri alınmalı.",
     ["Completion"]="Dalaran Kütüphanesi bir zamanlar olduğu hale gelmeye bir adım daha yaklaşıyor; çabaların için sana çok teşekkür ederiz, kahraman.",
@@ -38893,12 +38891,12 @@ QuestTranslator_QuestData = {
     -- Prisoner -> Mahkum, Stormwind = Fırtınayeli. Jurisdiction -> Yargı alanı / Yetki alanı.
     -- Lead -> İpucu. Cathedral District's Chapel -> Katedral Bölgesi Şapeli (Cathedral + District). Priest -> rahip, red robes -> kırmızı cübbeler.
     -- Shaw's men -> Shaw'ın adamları (Mathias Shaw). Brother Crowley -> Crowley Kardeş kalmıştır.
-    -- Scarlet Crusade -> Kızıl Haçlı Seferi (Scarlet Crusade). City -> Şehir, ambassador -> elçi / büyükelçi.
+    -- Scarlet Crusade -> Kızıl Haçlılar (Scarlet Crusade). City -> Şehir, ambassador -> elçi / büyükelçi.
     -- Light -> Işık, stupid lie -> aptalca yalan. Blokes -> Adamlar.
     -- Cathedral's District -> Katedral Bölgesi. Bold accusation -> Küstahça suçlama / Cesurca suçlama.
     ["80708"] = {
     ["Title"]="Kızıl Yardım",
-    ["Description"]="Çocuklarım mahkumun (prisoner) Fırtınayeli'ne (Stormwind) ulaşması için hazırlık yaptı. Onların yetki alanının (jurisdiction) bir parçası olduğu için kaderine orada karar verilecek. Büyük yardımın dokundu ve eminim bu meseleyi daha da fazla kurcalamak istersin. Senin için bir ipucum (lead) olabilir, gerçi ne kadar yardımcı olacağından emin değilim. Katedral Bölgesi'nin (Cathedral District) Şapeli'nin altında kırmızı cübbeli (red robes) bir rahip var. Shaw'ın adamlarından aldığım istihbarat onun adının Crowley Kardeş (Brother Crowley) olduğunu ve Kızıl Haçlı Seferi (the Scarlet Crusade) tarafından şehir içine bir nevi elçi (ambassador) olarak gönderildiğini söylüyor. Görevi, Işık (the Light) adına savaşmaya istekli olanları toplamak ya da bu Kızıl'ların kendi kendilerine söylediği her neyse o aptalca yalandı. Her halükarda, Crowley o kadar aktif değildi. Bu adamları toplayan kişinin o olup olmadığından emin değiliz ama denemeye değer.",
+    ["Description"]="Çocuklarım mahkumun (prisoner) Fırtınayeli'ne (Stormwind) ulaşması için hazırlık yaptı. Onların yetki alanının (jurisdiction) bir parçası olduğu için kaderine orada karar verilecek. Büyük yardımın dokundu ve eminim bu meseleyi daha da fazla kurcalamak istersin. Senin için bir ipucum (lead) olabilir, gerçi ne kadar yardımcı olacağından emin değilim. Katedral Bölgesi'nin (Cathedral District) Şapeli'nin altında kırmızı cübbeli (red robes) bir rahip var. Shaw'ın adamlarından aldığım istihbarat onun adının Crowley Kardeş (Brother Crowley) olduğunu ve Kızıl Haçlılar (the Scarlet Crusade) tarafından şehir içine bir nevi elçi (ambassador) olarak gönderildiğini söylüyor. Görevi, Işık (the Light) adına savaşmaya istekli olanları toplamak ya da bu Kızıl'ların kendi kendilerine söylediği her neyse o aptalca yalandı. Her halükarda, Crowley o kadar aktif değildi. Bu adamları toplayan kişinin o olup olmadığından emin değiliz ama denemeye değer.",
     ["Objectives"]="Fırtınayeli Katedral Bölgesi'ne (Cathedral's District of Stormwind) seyahat et ve Crowley Kardeş (Brother Crowley) ile konuş.",
     ["Progress"]="Nasıl yardımcı olabilirim?",
     ["Completion"]="Küstahça bir suçlama (bold accusation), YOUR_RACE, neredeyse alınmış hissediyorum. Korkarım o ben değildim, işler daha basit olurdu. Mahkumundan bir isim aldığını varsayıyorum. Bana ne olduğunu anlat.",
@@ -39386,12 +39384,12 @@ QuestTranslator_QuestData = {
     -- Prisoner -> Mahkum, Stormwind = Fırtınayeli. Jurisdiction -> Yargı alanı / Yetki alanı.
     -- Lead -> İpucu. Cathedral District's Chapel -> Katedral Bölgesi Şapeli (Cathedral + District). Priest -> rahip, red robes -> kırmızı cübbeler.
     -- Shaw's men -> Shaw'ın adamları (Mathias Shaw). Brother Crowley -> Crowley Kardeş kalmıştır.
-    -- Scarlet Crusade -> Kızıl Haçlı Seferi (Scarlet Crusade). City -> Şehir, ambassador -> elçi / büyükelçi.
+    -- Scarlet Crusade -> Kızıl Haçlılar (Scarlet Crusade). City -> Şehir, ambassador -> elçi / büyükelçi.
     -- Light -> Işık, stupid lie -> aptalca yalan. Blokes -> Adamlar.
     -- Cathedral's District -> Katedral Bölgesi. Bold accusation -> Küstahça suçlama / Cesurca suçlama.
     ["80708"] = {
     ["Title"]="Kızıl Yardım",
-    ["Description"]="Çocuklarım mahkumun (prisoner) Fırtınayeli'ne (Stormwind) ulaşması için hazırlık yaptı. Onların yetki alanının (jurisdiction) bir parçası olduğu için kaderine orada karar verilecek. Büyük yardımın dokundu ve eminim bu meseleyi daha da fazla kurcalamak istersin. Senin için bir ipucum (lead) olabilir, gerçi ne kadar yardımcı olacağından emin değilim. Katedral Bölgesi'nin (Cathedral District) Şapeli'nin altında kırmızı cübbeli (red robes) bir rahip var. Shaw'ın adamlarından aldığım istihbarat onun adının Crowley Kardeş (Brother Crowley) olduğunu ve Kızıl Haçlı Seferi (the Scarlet Crusade) tarafından şehir içine bir nevi elçi (ambassador) olarak gönderildiğini söylüyor. Görevi, Işık (the Light) adına savaşmaya istekli olanları toplamak ya da bu Kızıl'ların kendi kendilerine söylediği her neyse o aptalca yalandı. Her halükarda, Crowley o kadar aktif değildi. Bu adamları toplayan kişinin o olup olmadığından emin değiliz ama denemeye değer.",
+    ["Description"]="Çocuklarım mahkumun (prisoner) Fırtınayeli'ne (Stormwind) ulaşması için hazırlık yaptı. Onların yetki alanının (jurisdiction) bir parçası olduğu için kaderine orada karar verilecek. Büyük yardımın dokundu ve eminim bu meseleyi daha da fazla kurcalamak istersin. Senin için bir ipucum (lead) olabilir, gerçi ne kadar yardımcı olacağından emin değilim. Katedral Bölgesi'nin (Cathedral District) Şapeli'nin altında kırmızı cübbeli (red robes) bir rahip var. Shaw'ın adamlarından aldığım istihbarat onun adının Crowley Kardeş (Brother Crowley) olduğunu ve Kızıl Haçlılar (the Scarlet Crusade) tarafından şehir içine bir nevi elçi (ambassador) olarak gönderildiğini söylüyor. Görevi, Işık (the Light) adına savaşmaya istekli olanları toplamak ya da bu Kızıl'ların kendi kendilerine söylediği her neyse o aptalca yalandı. Her halükarda, Crowley o kadar aktif değildi. Bu adamları toplayan kişinin o olup olmadığından emin değiliz ama denemeye değer.",
     ["Objectives"]="Fırtınayeli Katedral Bölgesi'ne (Cathedral's District of Stormwind) seyahat et ve Crowley Kardeş (Brother Crowley) ile konuş.",
     ["Progress"]="Nasıl yardımcı olabilirim?",
     ["Completion"]="Küstahça bir suçlama (bold accusation), YOUR_RACE, neredeyse alınmış hissediyorum. Korkarım o ben değildim, işler daha basit olurdu. Mahkumundan bir isim aldığını varsayıyorum. Bana ne olduğunu anlat.",
@@ -39871,11 +39869,11 @@ QuestTranslator_QuestData = {
 
 -- Seeking Justice or Vengeance?
     -- Adventures -> maceralar, Azeroth = Azeroth. Scum -> pislikler, peace -> barış / huzur.
-    -- Scarlet Crusade -> Kızıl Haçlı Seferi (Scarlet Crusade). Justice or vengeance -> adalet mi yoksa intikam mı.
+    -- Scarlet Crusade -> Kızıl Haçlılar (Scarlet Crusade). Justice or vengeance -> adalet mi yoksa intikam mı.
     -- Demons -> iblisler / karanlık taraf. Vladeus kalmıştır, report -> rapor. Quill and ink -> tüy kalem ve mürekkep.
     ["80706"] = {
     ["Title"]="Adalet mi Yoksa İntikam mı Aramak?",
-    ["Description"]="Azeroth (Azeroth) genelindeki çeşitli maceralarında pek çok düşmanla karşılaştın, ilk defa içinde bir şeyler yerine oturdu. Bu çarpık dünyanın o lanet olası huzuruna (peace) kavuşması için daha kaç pisliği (scum) dövmek, sakatlamak ve öldürmek zorundasın? Kızıl Haçlı Seferi (The Scarlet Crusade) senin için de kişisel bir karın ağrısı oldu, belki de bir tür adalet ya da intikam vaktidir? İhtiyacın olanı elde etmene yardımcı olacak aletlerle dolu bir masayla, kendi iblislerini (demons) kucaklamaya hazırsın.",
+    ["Description"]="Azeroth (Azeroth) genelindeki çeşitli maceralarında pek çok düşmanla karşılaştın, ilk defa içinde bir şeyler yerine oturdu. Bu çarpık dünyanın o lanet olası huzuruna (peace) kavuşması için daha kaç pisliği (scum) dövmek, sakatlamak ve öldürmek zorundasın? Kızıl Haçlılar (The Scarlet Crusade) senin için de kişisel bir karın ağrısı oldu, belki de bir tür adalet ya da intikam vaktidir? İhtiyacın olanı elde etmene yardımcı olacak aletlerle dolu bir masayla, kendi iblislerini (demons) kucaklamaya hazırsın.",
     ["Objectives"]="Ne pahasına olursa olsun her şeyi öğren.",
     ["Progress"]="Rapor eksik görünüyor, mahkumun bazı temel bilgileri dışında gerçekten yararlı hiçbir şey yok.",
     ["Completion"]="Tüy kalem ve mürekkebe (quill and ink) uzanarak, Vladeus'tan kopardığın bilgileri not ediyor ve böylece raporu nihayete erdiriyorsun.",
@@ -41619,12 +41617,12 @@ QuestTranslator_QuestData = {
 -- Thandol Span
     -- Thandol Span = Thandol Geçidi (Thandol Span).
     -- Bub -> ahbap / moruk, compensation -> tazminat / bedel, information -> bilgi. Holds open his palm -> avucunu açık tutar, refuse to pay -> ödemeyi reddediyorsunuz. Bridge -> köprü. Scarlets -> Kızıllar (Scarlet Crusade), prick -> hergele / hıyar.
-    -- Vladeus Springriver -> Vladeus Baharnehri kalmıştır, Menethil Harbor = Menethil Limanı (Menethil Harbor), Captain Stoutfist -> Kaptan Kalın yumruk kalmıştır. Scarlet Crusade -> Kızıl Haçlı Seferi (Scarlet Crusade). Idiots -> aptallar, murdered -> katleden, caravan -> kervan. Dungeon -> zindan, job -> iş.
+    -- Vladeus Springriver -> Vladeus Baharnehri kalmıştır, Menethil Harbor = Menethil Limanı (Menethil Harbor), Captain Stoutfist -> Kaptan Kalın yumruk kalmıştır. Scarlet Crusade -> Kızıl Haçlılar (Scarlet Crusade). Idiots -> aptallar, murdered -> katleden, caravan -> kervan. Dungeon -> zindan, job -> iş.
     ["80703"] = {
     ["Title"]="Thandol Geçidi",
     ["Description"]="Evet ahbap (bub), bildiğim tek şey bu; şimdi bu bilgi (information) için herhangi bir bedel (compensation) hak ettiğimi söylemiyorum ama verilirse çok makbule geçer. <Kixxle avucunu açık tutuyor ama siz ödemeyi reddediyorsunuz.> Pekala o zaman, git ve şu köprüye (bridge) giden yolu takip et, Thandol Geçidi (Thandol Span) midir nedir, umarım o Kızıllar (Scarlets) böyle bir hıyar (prick) olduğun için seni yakalar!",
     ["Objectives"]="Vladeus Springriver'ı Menethil Limanı'na (Menethil Harbor) geri götür ve Kaptan Stoutfist'e rapor ver.",
-    ["Progress"]="Kızıl Haçlı Seferi'ne (Scarlet Crusade) bir son verilmeli.",
+    ["Progress"]="Kızıl Haçlılar'ne (Scarlet Crusade) bir son verilmeli.",
     ["Completion"]="Demek kervanımızı (caravan) isteyerek katleden o aptallardan (idiots) kurtarabildiğin tek şey bu, ha? Onu zindana (dungeon) götüreceğim, iyi iş (good job).",
     ["minlevel"]="0",
     ["questlevel"]="0",
@@ -51596,7 +51594,7 @@ QuestTranslator_QuestData = {
     ["Description"]="Açık konuşacağım. Scourge ile savaştayız. Bu, halkımızı yozlaştıran ve toprağımızı enfekte eden bir kötülüktür. Bizi ezmeden ve dünyamızı gölgeye sürüklemeden önce durdurulmalıdır. Biz Kızıl Haçlılar Scourge ile bedenimiz ve ruhumuzla savaşmaya yemin ettik.\n\nEğer bizimleysen, cesaretini topla ve sadakatini kanıtla--güneydeki Kemik Vadisi'nde bulunan Desolace'ın hortlak yağmacılarını yok et.\n\nBunu yap, Haçlı Seferi seni bağrına bassın.",
     ["Objectives"]="30 Hortlak Yağmacı yok et, ardından Nijel Karakolu'ndaki Anton Kardeş'e dön.",
     ["Progress"]="Scourge her geçen gün güçleniyor. İlerlemesini gerçekten durdurmak istiyorsan, göster bana.",
-    ["Completion"]="Kararlılığını kanıtladın ve Kızıl Haçlı Seferi seni takdir ediyor.\n\nEğer haklı bir katliamdan çekinmiyorsan, belki de senin yolun bizimledir...",
+    ["Completion"]="Kararlılığını kanıtladın ve Kızıl Haçlılar seni takdir ediyor.\n\nEğer haklı bir katliamdan çekinmiyorsan, belki de senin yolun bizimledir...",
     ["minlevel"]="34",
     ["questlevel"]="39",
     }, -- end Down the Scarlet Path
@@ -52432,7 +52430,7 @@ QuestTranslator_QuestData = {
     ["Description"]="Biz Kızıl Haçlılar, Hearthglen'den Tirisfal Koruları'na kadar olan kaleler üzerinde hak iddia ediyoruz. Lordaeron genelindeki temizlenme kalelerimizle gurur duyuyoruz.\n\nDesolace'taki hortlaklara karşı kendini kanıtladın. Ancak vebanın gerçek tehdidi Lordaeron'da yatıyor.\n\nDoğu Krallıkları'ndaki Güneykıyısı kasabasına seyahat et. Sadık Raleigh adındaki bir haçlıyı ara. Mührümü taşıyan bu takdir mektubunu ona ver, o da seni Kızıl Manastır'ımızdaki onurlu bir yere götürecektir.",
     ["Objectives"]="Anton Kardeş'in Takdir Mektubu'nu Güneykıyısı'ndaki Sadık Raleigh'e götür.",
     ["Progress"]="Oradaki kim? Benden ne istiyorsun?",
-    ["Completion"]="Anton Kardeş hâlâ Kızıl Haçlı Seferi'nin sözünü yayıyor mu? Oh vay....",
+    ["Completion"]="Anton Kardeş hâlâ Kızıl Haçlılar'nin sözünü yayıyor mu? Oh vay....",
     ["minlevel"]="34",
     ["questlevel"]="40",
     }, -- end Down the Scarlet Path
@@ -58901,10 +58899,10 @@ QuestTranslator_QuestData = {
     -- Andorhal -> Andorhal (ZoneData.lua)
     ["5096"] = {
     ["Title"]="Kızıl Saşırtmacalar",
-    ["Description"]="Andorhal'dan önce Hearthglen'den ilerleyen Kızıl Haçlı Seferi tehdidini ele almalıyız. Felstone Tarlası ile Dalson'ın Gözyaşları arasında kamp kurdular, bu da hem Veba hem de Haçlı Seferi ile aynı anda çatışmayı göze almamıza neden oluyor.\n\nPlanım, seni kurdukları komuta çadırını yok etmeye göndererek onları birbirine düşürmek; bu yangın çıkarıcı kutusundan biraz Şişedeki Alev kullan. Bir kez yerle bir edildikten sonra, bu Veba sancağını çadırın yanına dik. Biraz şansla bizi görmezden gelecekler ve intikam için Veba'e odaklanacaklar.",
-    ["Objectives"]="Felstone Tarlası ile Dalson'ın Gözyaşları arasındaki Kızıl Haçlı Seferi ana ordugahına git ve komuta çadırlarını yok et.\n\nVeba sancağını ordugaha yerleştir, ardından Batı Veba Toprakları'ndaki Siper'de bulunan Yüksek Cellat Derrington'a dön.",
+    ["Description"]="Andorhal'dan önce Hearthglen'den ilerleyen Kızıl Haçlılar tehdidini ele almalıyız. Felstone Tarlası ile Dalson'ın Gözyaşları arasında kamp kurdular, bu da hem Veba hem de Haçlı Seferi ile aynı anda çatışmayı göze almamıza neden oluyor.\n\nPlanım, seni kurdukları komuta çadırını yok etmeye göndererek onları birbirine düşürmek; bu yangın çıkarıcı kutusundan biraz Şişedeki Alev kullan. Bir kez yerle bir edildikten sonra, bu Veba sancağını çadırın yanına dik. Biraz şansla bizi görmezden gelecekler ve intikam için Veba'e odaklanacaklar.",
+    ["Objectives"]="Felstone Tarlası ile Dalson'ın Gözyaşları arasındaki Kızıl Haçlılar ana ordugahına git ve komuta çadırlarını yok et.\n\nVeba sancağını ordugaha yerleştir, ardından Batı Veba Toprakları'ndaki Siper'de bulunan Yüksek Cellat Derrington'a dön.",
     ["Progress"]="",
-    ["Completion"]="Güzelce icra edildi, YOUR_NAME. Kızıl Haçlı Seferi'ne yapılan saldırın bize zaman kazandıracak. En iyi izcilerimden birini ordugahı izlemesi ve pozisyonu takviye etmeye gelen Haçlı Seferi kuvvetlerinin yemi alacağından emin olması için gönderdim.\n\nÜzerimizdeki baskı azaldığına göre, artık Andorhal'ın kendisine bir görevi ve önemli bir görevi göze alabilmeliyiz. Bugüne kadarki başarına dayanarak bunu da gerçekleştirirsen çok sevinirim.",
+    ["Completion"]="Güzelce icra edildi, YOUR_NAME. Kızıl Haçlılar'ne yapılan saldırın bize zaman kazandıracak. En iyi izcilerimden birini ordugahı izlemesi ve pozisyonu takviye etmeye gelen Haçlı Seferi kuvvetlerinin yemi alacağından emin olması için gönderdim.\n\nÜzerimizdeki baskı azaldığına göre, artık Andorhal'ın kendisine bir görevi ve önemli bir görevi göze alabilmeliyiz. Bugüne kadarki başarına dayanarak bunu da gerçekleştirirsen çok sevinirim.",
     ["minlevel"]="50",
     ["questlevel"]="53",
     }, -- end Scarlet Diversions
@@ -60089,10 +60087,10 @@ QuestTranslator_QuestData = {
     -- Stratholme -> Stratholme (ZoneData.lua)
     ["5251"] = {
     ["Title"]="Arşivci",
-    ["Description"]="Aşırıya kaçan her şey dünyamız için tehlikelidir, YOUR_NAME. Örneğin Kızıl Haçlı Seferi'ni ele alalım. Kör bağnazlıklarının daha büyük bir iyiliğe hizmet ettiğine inanıyor musun? Işık adına kaç masumu yok ettiler?\n\nHepsi saygısız, hepsi!\n\nYine de biri özellikle ilgimi çekiyor; Stratholme'dan Arşivci Galford: Haçlı Seferi'nin en değerli belgelerini koruyan bir adam. Onu yok et ve arşivlerini yak! Başarılı olursan bana dön ve ödüllendiril.",
-    ["Objectives"]="Stratholme'a seyahat et ve Kızıl Haçlı Seferi'nden Arşivci Galford'u bul. Onu yok et ve Kızıl Arşivi yak.",
+    ["Description"]="Aşırıya kaçan her şey dünyamız için tehlikelidir, YOUR_NAME. Örneğin Kızıl Haçlılar'ni ele alalım. Kör bağnazlıklarının daha büyük bir iyiliğe hizmet ettiğine inanıyor musun? Işık adına kaç masumu yok ettiler?\n\nHepsi saygısız, hepsi!\n\nYine de biri özellikle ilgimi çekiyor; Stratholme'dan Arşivci Galford: Haçlı Seferi'nin en değerli belgelerini koruyan bir adam. Onu yok et ve arşivlerini yak! Başarılı olursan bana dön ve ödüllendiril.",
+    ["Objectives"]="Stratholme'a seyahat et ve Kızıl Haçlılar'nden Arşivci Galford'u bul. Onu yok et ve Kızıl Arşivi yak.",
     ["Progress"]="Unutma, YOUR_NAME - inançlarımızda hoşgörülü ama katı olmalıyız!",
-    ["Completion"]="Mükemmel, YOUR_NAME! Yılların istihbaratı kayboldu! Kızıl Haçlı Seferi önümüzdeki haftalarda kesinlikle bu darbeyi hissedecektir.",
+    ["Completion"]="Mükemmel, YOUR_NAME! Yılların istihbaratı kayboldu! Kızıl Haçlılar önümüzdeki haftalarda kesinlikle bu darbeyi hissedecektir.",
     ["minlevel"]="55",
     ["questlevel"]="60",
     }, -- end The Archivist
@@ -60133,7 +60131,7 @@ QuestTranslator_QuestData = {
     -- Eastern Plaguelands -> Doğu Veba Toprakları (ZoneData.lua)
     ["5262"] = {
     ["Title"]="Gerçek Çöküyor",
-    ["Description"]="Oda boyunca tozlar yatışırken düşüncelerini toplamaya çalışıyorsun. Az önce meydana gelen olayları gözden geçiriyorsun ve durumun ciddiyetini hâlâ kavrayamıyorsun.\n\nKızıl Haçlı Seferi'nin Büyük Haçlı'sı bir iblis mi? Ve sadece herhangi bir iblis değil, Mahzenşehir'in baş lordu Varimathras'ın kardeşi mi?\n\nKorkunç lordun kesik kafasını dikkatlice çantana yerleştiriyorsun. Anlatacağın hikayeye kanıt olmadan kimsenin inanmayacağı kesin.\n\nDük Nicholas Zverenhoff'a hemen haber verilmeli!",
+    ["Description"]="Oda boyunca tozlar yatışırken düşüncelerini toplamaya çalışıyorsun. Az önce meydana gelen olayları gözden geçiriyorsun ve durumun ciddiyetini hâlâ kavrayamıyorsun.\n\nKızıl Haçlılar'nin Büyük Haçlı'sı bir iblis mi? Ve sadece herhangi bir iblis değil, Mahzenşehir'in baş lordu Varimathras'ın kardeşi mi?\n\nKorkunç lordun kesik kafasını dikkatlice çantana yerleştiriyorsun. Anlatacağın hikayeye kanıt olmadan kimsenin inanmayacağı kesin.\n\nDük Nicholas Zverenhoff'a hemen haber verilmeli!",
     ["Objectives"]="Balnazzar'ın Kafası'nı Doğu Veba Toprakları'ndaki Dük Nicholas Zverenhoff'a götür.",
     ["Progress"]="Elinde ne var, YOUR_NAME?",
     ["Completion"]="Bu Haçlı Seferi için ne anlama gelecek? Bu iblisin kontrolü altında olmaları mümkün olabilir mi? Bilmeden daha büyük bir kötülüğün piyonları olarak mı hizmet ediyorlar?",
@@ -60202,7 +60200,7 @@ QuestTranslator_QuestData = {
     -- Stratholme -> Stratholme (ZoneData.lua)
     ["5282"] = {
     ["Title"]="Huzursuz Ruhlar",
-    ["Description"]="Gücümü - yaşamaya ve nefes almaya devam etme irademi - Veba'e ve yaptıklarına duyduğum mutlak nefretten alıyorum. Yine de ben bağnaz biri değilim. Masum hortlaklara bir gram merhamet göstermektense onları yok etmeyi tercih eden Kızıl Haçlı Seferi gibi olanlar var.\n\nBu da beni şuna getiriyor: Silahım. Stratholme'dan eziyet çeken ruhları özgür bırakacak.\n\nYağmalanmış sokaklarda dolaşan hayaletler üzerinde kullan. Ruhlarını özgür bırak.",
+    ["Description"]="Gücümü - yaşamaya ve nefes almaya devam etme irademi - Veba'e ve yaptıklarına duyduğum mutlak nefretten alıyorum. Yine de ben bağnaz biri değilim. Masum hortlaklara bir gram merhamet göstermektense onları yok etmeyi tercih eden Kızıl Haçlılar gibi olanlar var.\n\nBu da beni şuna getiriyor: Silahım. Stratholme'dan eziyet çeken ruhları özgür bırakacak.\n\nYağmalanmış sokaklarda dolaşan hayaletler üzerinde kullan. Ruhlarını özgür bırak.",
     ["Objectives"]="Egan'ın Silahı'nı Stratholme'un hayaletimsi vatandaşları üzerinde kullan. Huzursuz ruhlar hayaletimsi kabuklarından kurtulduğunda silahı tekrar kullan - özgürlük onların olacak!\n\n15 Huzursuz Ruhu özgür bırak ve Egan'a dön.",
     ["Progress"]="Bizi hayvanlardan ayıran şey merhamettir, YOUR_NAME. Bunu unutma...",
     ["Completion"]="<Egan gözünden bir damla yaşı siler.>\n\nAnnemi gördün mü, YOUR_NAME? Onu özgür bıraktın mı?\n\nSen edebin parlayan bir örneğisin. Çabaların için...",
@@ -61054,7 +61052,7 @@ QuestTranslator_QuestData = {
     -- Plaguelands -> Veba Toprakları (ZoneData.lua)
     ["5543"] = {
     ["Title"]="Kana Bulanmış Gökyüzü",
-    ["Description"]="Veba Toprakları'na aptalca girenlerin vay haline. Bu ormanlarda her türlü kötülük ikamet ediyor - Haçlı Seferi işaretini taşımayan herkesi öldürecek olan bağnaz Kızıl Haçlı Seferi'nden, saflarına daha fazla hortlak ekleyerek sayılarını artırmaktan başka bir şey istemeyen cani Veba'e kadar.\n\nYaban hayatı bile yırtıcı, insan yiyen canavarlara dönüştü. Gökyüzünden vuracak olanları yok etmeni istiyorum: Veba Yarasaları.",
+    ["Description"]="Veba Toprakları'na aptalca girenlerin vay haline. Bu ormanlarda her türlü kötülük ikamet ediyor - Haçlı Seferi işaretini taşımayan herkesi öldürecek olan bağnaz Kızıl Haçlılar'nden, saflarına daha fazla hortlak ekleyerek sayılarını artırmaktan başka bir şey istemeyen cani Veba'e kadar.\n\nYaban hayatı bile yırtıcı, insan yiyen canavarlara dönüştü. Gökyüzünden vuracak olanları yok etmeni istiyorum: Veba Yarasaları.",
     ["Objectives"]="30 Veba Yarasası katlet ve Tirion Fordring'e dön.",
     ["Progress"]="Kanatlı haşereleri küçümseme, YOUR_RACE. Veba onlara doğaüstü yetenekler kazandırdı.",
     ["Completion"]="Sen edep abidesi bir örneksin, YOUR_RACE! Kahramanların kanının damarlarımda pompalandığını hissetmeyeli uzun zaman olmuştu. Cesaret eylemlerin ilham verici!",
@@ -61504,7 +61502,7 @@ QuestTranslator_QuestData = {
     -- Western Plaguelands -> Batı Veba Toprakları (ZoneData.lua)
     ["5903"] = {
     ["Title"]="Üzerinize Bir Veba",
-    ["Description"]="Kızıl Haçlı Seferi'ni sadece kaba kuvvetle püskürtmeyi defalarca denedim ama bir sonuç alamadım. Alternatif olarak hayatlarını daha da zorlaştırmaya karar verdim.\n\nYardım etmeye razıysan, o bıçkı hanesini şimdiye kadar bulunmuş en korkunç termit türüyle istila etmek istiyorum.\n\nVebaormanı'nda, bir zamanlar yüce olan Stratholme yakınlarında, vebadan ve Veba'ten bir arada sağ çıkan bir tür var. Höyüklerini bul ve bu kavanozu onlarla doldur, böylece onları Haçlı Seferi üzerine salmaya hazırlayabilelim.",
+    ["Description"]="Kızıl Haçlılar'ni sadece kaba kuvvetle püskürtmeyi defalarca denedim ama bir sonuç alamadım. Alternatif olarak hayatlarını daha da zorlaştırmaya karar verdim.\n\nYardım etmeye razıysan, o bıçkı hanesini şimdiye kadar bulunmuş en korkunç termit türüyle istila etmek istiyorum.\n\nVebaormanı'nda, bir zamanlar yüce olan Stratholme yakınlarında, vebadan ve Veba'ten bir arada sağ çıkan bir tür var. Höyüklerini bul ve bu kavanozu onlarla doldur, böylece onları Haçlı Seferi üzerine salmaya hazırlayabilelim.",
     ["Objectives"]="Doğu Veba Toprakları'ndaki Termit Höyükleri üzerinde Boş Termit Kavanozu'nu kullan. 100 Veba Toprakları Termiti topladıktan sonra Batı Veba Toprakları'ndaki Serinrüzgar Karakolu'nda bulunan Nathaniel Dumah'a dön.",
     ["Progress"]="Termit höyüklerini buldun mu, YOUR_NAME? Vebaormanı'nın her yerinde olduklarını duydum.",
     ["Completion"]="Bunlar işe yarayacak, YOUR_NAME. Teşekkür ederim. Şunlara bir bak... Hepsi birbirine sokulmuş kaç taneler. Haçlı Seferi için neredeyse üzülüyorum ama yine de alacakları bıçkı hanesi asla onların değildi, öyle değil mi?",
@@ -61577,7 +61575,7 @@ QuestTranslator_QuestData = {
     -- Lordaeron -> Lordaeron (ZoneData.lua)
     ["5944"] = {
     ["Title"]="Rüyalarda",
-    ["Description"]="Çok uzun zamandır Büyük Haçlı'nın bir kuklasıydım. Kızıl Haçlı Seferi'nin dönüştüğü şeye karşı savaşmak için ne sebep vardı? On yıllar oldu ama babamın anıları; o değerli anılar, beni hayatta tutan şey oldu.\n\nRüyalar görüyorum, yabancı. Bu rüyalarda babam yanımda. Tarikat'a kabul edilirken gururla yanımda duruyor. Veba lejyonuyla omuz omuza savaşıyoruz. İttifak'a, Lordaeron'a onur getiriyoruz.\n\nArtık rüya görmek istemiyorum.\n\nBeni ona götür.",
+    ["Description"]="Çok uzun zamandır Büyük Haçlı'nın bir kuklasıydım. Kızıl Haçlılar'nin dönüştüğü şeye karşı savaşmak için ne sebep vardı? On yıllar oldu ama babamın anıları; o değerli anılar, beni hayatta tutan şey oldu.\n\nRüyalar görüyorum, yabancı. Bu rüyalarda babam yanımda. Tarikat'a kabul edilirken gururla yanımda duruyor. Veba lejyonuyla omuz omuza savaşıyoruz. İttifak'a, Lordaeron'a onur getiriyoruz.\n\nArtık rüya görmek istemiyorum.\n\nBeni ona götür.",
     ["Objectives"]="Taelan Fordring'e Hearthglen dışına kadar eşlik et.",
     ["Progress"]="<Tirion soğukkanlılığını yeniden kazanır.>",
     ["Completion"]="Oğlumun bu canavarların elindeki ölümü olaysız geçmeyecek. Tarikat'ın yeniden doğduğunu bilerek teselli bul.\n\nŞimdi yeni Gümüş El Tarikatı'nın Yüce Lordu olarak yerimi alıyorum.\n\nGeçmişimin bu mülkleri - yaptığın her şey için sunabileceğim tek şey bunlar. Lütfen bunları minnettarlığımın bir sembolü olarak kabul et; hepsi yıllar boyunca bana iyi hizmet etti.\n\nDaha iyi zamanlarda tekrar karşılaşmak ve geçmiş günleri... zorlu savaşları... kurtarılan rüyaları yad etmek dileğiyle...",
@@ -61609,7 +61607,7 @@ QuestTranslator_QuestData = {
     ["Description"]="Biraz hasar vermek ve Hearthglen'in savunmasının gücünü ölçmek için gözcü olarak gönderildim. İttifak'taki bazı insanlar bu küçük kasabanın tarihi önemden daha fazlasına sahip olduğunu düşünüyor. Bu önemin ne olduğunu sorgulamak benim işim değil, ama ne olursa olsun dinlenene kadar devam edecek durumda değilim.\n\nRazıysan yardım için cömertçe ödeme yaparım. Buranın güneyinden, kurdukları küçük siper yakınındaki ordugahlarından başla. Yeterince güçlü olduğunu kanıtlarsan ana hedefim konusunda yardımını alabilirim.",
     ["Objectives"]="Batı Veba Toprakları'ndaki Kirsta Deringölge'ye dönmeden önce 2 Kızıl Tabip, 2 Kızıl Avcı, 2 Kızıl Büyücü ve 2 Kızıl Şövalye öldür.",
     ["Progress"]="Nasıl gidiyor, YOUR_NAME? Düşündüğünden daha mı güçlüler? Umarım değildir. Burada devam edeceksem bu senden zaten istediğimden çok daha fazla güç gerektirecek.",
-    ["Completion"]="Aferin, YOUR_NAME. Onlarla bu kadar hızlı ilgilenmene şaşırdım. Teşekkür ederim.\n\nKızıl Haçlı Seferi'ni ve yöntemlerini onaylayan biriyle henüz karşılaşmadım. Fırtınayeli'ndeki diğer herkes kadar Işık'a inanıyorum ama hareketlerine sadık olmayan herkesi... masumları bile öldürmek istediklerini gösterdiler.",
+    ["Completion"]="Aferin, YOUR_NAME. Onlarla bu kadar hızlı ilgilenmene şaşırdım. Teşekkür ederim.\n\nKızıl Haçlılar'ni ve yöntemlerini onaylayan biriyle henüz karşılaşmadım. Fırtınayeli'ndeki diğer herkes kadar Işık'a inanıyorum ama hareketlerine sadık olmayan herkesi... masumları bile öldürmek istediklerini gösterdiler.",
     ["minlevel"]="50",
     ["questlevel"]="56",
     }, -- end Unfinished Business
@@ -61655,10 +61653,10 @@ QuestTranslator_QuestData = {
     -- Western Plaguelands -> Batı Veba Toprakları (ZoneData.lua)
     ["6023"] = {
     ["Title"]="Bitmemiş İş",
-    ["Description"]="Gerçek görevim Kızıl Haçlı Seferi'nin uçtaki kuvvetlerini zayıflatmak ve ardından sayılarını ölçmek için Hearthglen'e sızmaktı. Kendi başıma yapacak durumda hâlâ değilim, bu yüzden senden bana tekrar yardım etmeni istesem olur mu, YOUR_NAME? Keşfedilmeden önce topladığım bilgilere göre Haçlı Seferi'nin kasaba dışındaki kuvvetlerinin belkemiği olan iki önemli üyesi var: Avcı Radley ve Süvari Durgen. Onları öldürürsek ilerleme kaydederiz. Doğru kasabanın dışındaki Hearthglen Geçidi boyunca olmalıdırlar.",
+    ["Description"]="Gerçek görevim Kızıl Haçlılar'nin uçtaki kuvvetlerini zayıflatmak ve ardından sayılarını ölçmek için Hearthglen'e sızmaktı. Kendi başıma yapacak durumda hâlâ değilim, bu yüzden senden bana tekrar yardım etmeni istesem olur mu, YOUR_NAME? Keşfedilmeden önce topladığım bilgilere göre Haçlı Seferi'nin kasaba dışındaki kuvvetlerinin belkemiği olan iki önemli üyesi var: Avcı Radley ve Süvari Durgen. Onları öldürürsek ilerleme kaydederiz. Doğru kasabanın dışındaki Hearthglen Geçidi boyunca olmalıdırlar.",
     ["Objectives"]="Batı Veba Toprakları'ndaki Kirsta Deringölge'ye dönmeden önce Avcı Radley ve Süvari Durgen'i öldür.",
     ["Progress"]="Onları henüz buldun mu, YOUR_NAME? İkisinin icabına bakıldığında düzeneklerine daha yakından bakmak için Hearthglen'e girmeye devam edebilirim. Yardımın olmadan bunu yapamam. Lütfen benim için Radley ve Durgen'i bul.",
-    ["Completion"]="Teşekkür ederim, YOUR_NAME. Umabileceğinden daha fazla yardımcı oldun. Buradaki hava irademi emiyor gibi görünüyor. Yorgun hissediyorum ve burada kaldıkça daha iyiye gitmediğimi söyleyebilirim.\n\nHearthglen'in kendisine nasıl sızacağımı ve Kızıl Haçlı Seferi mevcudiyetinin ne kadar güçlü olduğunu nasıl rapor edeceğimi gerçekten bilmiyorum.\n\nAma bu başka bir konu, ayrılmadan önce al, bunu al... yardımının karşılığı olarak. Tekrar teşekkürler.",
+    ["Completion"]="Teşekkür ederim, YOUR_NAME. Umabileceğinden daha fazla yardımcı oldun. Buradaki hava irademi emiyor gibi görünüyor. Yorgun hissediyorum ve burada kaldıkça daha iyiye gitmediğimi söyleyebilirim.\n\nHearthglen'in kendisine nasıl sızacağımı ve Kızıl Haçlılar mevcudiyetinin ne kadar güçlü olduğunu nasıl rapor edeceğimi gerçekten bilmiyorum.\n\nAma bu başka bir konu, ayrılmadan önce al, bunu al... yardımının karşılığı olarak. Tekrar teşekkürler.",
     ["minlevel"]="50",
     ["questlevel"]="57",
     }, -- end Unfinished Business
@@ -61687,7 +61685,7 @@ QuestTranslator_QuestData = {
     ["6025"] = {
     ["Title"]="Bitmemiş İş",
     ["Description"]="Ne? Gerçekten mi? Daha fazlasını mı bilmek istiyorsun? Ama benim için zaten çok şey yaptın, YOUR_NAME. Benim adıma Hearthglen'in kendisine girmene muhtemelen isteyemezdim.\n\nEmin misin, YOUR_NAME? Hearthglen Geçit'ten çok daha tehlikelidir--sana herhangi bir koruma hatta karşılaşabileceğin şeyler hakkında bilgi bile sağlayamam.\n\nŞey, gerçekten yardım etmeye razıysan kasabaya gir ve kasabanın iyi bir manzarasını elde etmek için yüksek bir yer bul. Oradan sayılarını ölçebilir ve onları bana rapor edebilirsin. Ama dikkatli ol....",
-    ["Objectives"]="Hearthglen'e gir ve kasabayı görebileceğin ve Kızıl Haçlı Seferi kuvvetlerini ölçebileceğin yüksek bir gözlem noktası bul, ardından Batı Veba Toprakları'ndaki Kirsta Deringölge'ye dön.",
+    ["Objectives"]="Hearthglen'e gir ve kasabayı görebileceğin ve Kızıl Haçlılar kuvvetlerini ölçebileceğin yüksek bir gözlem noktası bul, ardından Batı Veba Toprakları'ndaki Kirsta Deringölge'ye dön.",
     ["Progress"]="Tehlikeli bir görev, YOUR_NAME. Cesaretini kıskanıyorum.",
     ["Completion"]="Başardın, YOUR_NAME! Teşekkür ederim!\n\nElling'e dönüyorum... Yani Fırtınayeli'ne olabildiğince kısa sürede. Al, bu sikkeyi al, senin için yapabileceğim en az şey bu. Halkın için bir gurur kaynağısın, YOUR_NAME. Teşekkürler ve iyi şanslar.",
     ["minlevel"]="50",
@@ -61966,7 +61964,7 @@ QuestTranslator_QuestData = {
     -- Eastern Plaguelands -> Doğu Veba Toprakları (ZoneData.lua)
     ["6145"] = {
     ["Title"]="Kızıl Kurye",
-    ["Description"]="Tıpkı beden baş olmadan yaşayamayacağı gibi, baş da beden olmadan yaşayamaz. Kızıl Haçlı Seferi'nin Stratholme içindeki komutasının savunması neredeyse nüfuz edilemezdir. Bunun yerine gövdeyi başın altından kesmeliyiz.\n\nÖlümizcilerim Haçlı Seferi'nin Stratholme dışındaki faaliyetleri hakkında veri topluyor. Her gün merkez komutalarından Tyr'in Eli'ne bir rapor gönderiliyor. Bu rapor anahtardır, YOUR_RACE! Kızıl Kurye'yi bul ve o raporu ele geçir. Onu Nathanos'a geri getir.",
+    ["Description"]="Tıpkı beden baş olmadan yaşayamayacağı gibi, baş da beden olmadan yaşayamaz. Kızıl Haçlılar'nin Stratholme içindeki komutasının savunması neredeyse nüfuz edilemezdir. Bunun yerine gövdeyi başın altından kesmeliyiz.\n\nÖlümizcilerim Haçlı Seferi'nin Stratholme dışındaki faaliyetleri hakkında veri topluyor. Her gün merkez komutalarından Tyr'in Eli'ne bir rapor gönderiliyor. Bu rapor anahtardır, YOUR_RACE! Kızıl Kurye'yi bul ve o raporu ele geçir. Onu Nathanos'a geri getir.",
     ["Objectives"]="Doğu Veba Toprakları'na dön ve Kızıl Kurye'nin izini sür. Kurye'yi öldür ve Büyük Haçlı'nın Komutası'nı geri al.\n\nDaha fazla talimat için komutayı Nathanos Vebalanetleyen'e götür.",
     ["Progress"]="Şimdi başarılı ol ve saygımı neredeyse kazan, YOUR_CLASS.",
     ["Completion"]="<Nathanos güler.>\n\nMükemmel! Nihayet! Kızıl Kâhin'i yok etmek için bir fırsat!",
@@ -61982,7 +61980,7 @@ QuestTranslator_QuestData = {
     ["6146"] = {
     ["Title"]="Nathanos'un Hilesi",
     ["Description"]="Bu komutada bazı ayarlamalar yaptım. Küçük hilemiz işe yararsa Kızıl Kâhin'i ifşa edecekler ve biz de vuracağız!\n\nŞimdi dikkat et, YOUR_CLASS. Bu komutayı Haçlı Lordu Valdelmar'a teslim edeceksin.\n\nNasıl mı? Ona uzatıp vereceksin, aptal.\n\nKomutayı ve bu çürük elmayı alıp Tyr'in Eli'ne götür. Şehre girdiğinde elmayı ye. İnsanlara daha... sevimli bir şeye dönüşeceksin. Komutayı al ve Haçlı Lordu Valdelmar'a teslim et.",
-    ["Objectives"]="Marris Çiftliği'nin güneydoğusundaki Tyr'in Eli'ne seyahat et. Oraya vardığında Çürük Elma'dan bir ısırık al. Kızıl Haçlı Seferi kılığı altındayken Büyük Haçlı'nın Komutası'nı Haçlı Lordu Valdelmar'a teslim et.",
+    ["Objectives"]="Marris Çiftliği'nin güneydoğusundaki Tyr'in Eli'ne seyahat et. Oraya vardığında Çürük Elma'dan bir ısırık al. Kızıl Haçlılar kılığı altındayken Büyük Haçlı'nın Komutası'nı Haçlı Lordu Valdelmar'a teslim et.",
     ["Progress"]="Bu kabul edilemez, asker!",
     ["Completion"]="Neredeydin? Veba'in seni ele geçirdiğini düşünmüştük.",
     ["minlevel"]="56",
@@ -62012,7 +62010,7 @@ QuestTranslator_QuestData = {
     ["6148"] = {
     ["Title"]="Kızıl Kâhin, Demetria",
     ["Description"]="Demetria, Büyük Haçlı'nın baş danışmanıdır. 'Öteki dünyaya ait' hisleri nedeniyle Kâhin olarak adlandırılır. Haçlı Seferi'nin Veba'e karşı kazandığı birkaç zaferde onlara başarıyla yardım etmiştir.\n\nBu hile onu ifşa etmede başarılı olsa da, eğer gerçekten psişik güçlere sahipse, şüphesiz bir tür sorun bekliyor olacaktır. O 'sorunu' sen sağlayacaksın.\n\nKâhin'in izini sür ve onun işini bitir. Biz konuşurken Tyr'in Eli'nden ayrılıyor olmalılar. Beni gururlandır, solucan.",
-    ["Objectives"]="Kızıl Haçlı Seferi harekete geçti. Tyr'in Eli'nden Stratholme'a giden yol üzerinde bir yerde Kâhin Demetria'yı ve maiyetini bulacaksın. Onu avla ve katlet. Başarılı olursan Nathanos Vebalanetleyen'e dön.",
+    ["Objectives"]="Kızıl Haçlılar harekete geçti. Tyr'in Eli'nden Stratholme'a giden yol üzerinde bir yerde Kâhin Demetria'yı ve maiyetini bulacaksın. Onu avla ve katlet. Başarılı olursan Nathanos Vebalanetleyen'e dön.",
     ["Progress"]="Durumun nedir, YOUR_NAME?",
     ["Completion"]="Yıllarca bu darbenin sarsıntısını hissedecekler! Aferin, YOUR_NAME! Sadece saygımı değil, aynı zamanda bu ödülü de hak ettin.",
     ["minlevel"]="56",
@@ -62137,7 +62135,7 @@ QuestTranslator_QuestData = {
     ["Title"]="Üzerinize Bir Veba",
     ["Description"]="Fıçıyı açmak için uygun bir şey aramak üzere bıçkı hanesinin etrafına bakıyorsun. İş görecek gibi duran bir manivela buluyorsun.\n\nAyaklarını sabitliyor ve termitler sana ulaşmadan önce bıçkı hanesinden çıkabilmek için dua ediyorsun.",
     ["Objectives"]="Northridge Bıçkı Hanesi'ndeki Veba Toprakları Termitleri'ni serbest bırak, ardından Veba Toprakları Termit Fıçısı ile birlikte Batı Veba Toprakları'ndaki Serinrüzgar Karakolu'nda bulunan Nathaniel Dumah'a dön.",
-    ["Progress"]="Yaptın mı, YOUR_NAME? Termitleri serbest bıraktın mı? Kızıl Haçlı Seferi hem bıçkı hanesini hem de Hearthglen'i elinde tutabilseydi Işık yardımcımız olsun. İkisine de sahip olmamalılar. Sadece son savaşın kurbanlarından faydalanıyorlar ve kuduz hayvanlar gibi itlaf edilmeliler!",
+    ["Progress"]="Yaptın mı, YOUR_NAME? Termitleri serbest bıraktın mı? Kızıl Haçlılar hem bıçkı hanesini hem de Hearthglen'i elinde tutabilseydi Işık yardımcımız olsun. İkisine de sahip olmamalılar. Sadece son savaşın kurbanlarından faydalanıyorlar ve kuduz hayvanlar gibi itlaf edilmeliler!",
     ["Completion"]="Haha! Teşekkür ederim, YOUR_NAME! Başardın! Babamın ruhu artık dinlenebilir ve ben de huzur içinde yaşayabilirim.\n\nTekrar teşekkürler. Senin için yapabileceğim bir şey varsa lütfen sorman yeterli.",
     ["minlevel"]="48",
     ["questlevel"]="55",
@@ -62153,7 +62151,7 @@ QuestTranslator_QuestData = {
     ["Description"]="Fıçıyı açmak için uygun bir şey aramak üzere bıçkı hanesinin etrafına bakıyorsun. İş görecek gibi duran bir manivela buluyorsun.\n\nAyaklarını sabitliyor ve termitler sana ulaşmadan önce bıçkı hanesinden çıkabilmek için dua ediyorsun.",
     ["Objectives"]="Northridge Bıçkı Hanesi'ndeki Veba Toprakları Termitleri'ni serbest bırak, ardından Veba Toprakları Termit Fıçısı ile birlikte Tirisfal Korusu'ndaki Siper'de bulunan Mickey Levine'e dön.",
     ["Progress"]="Yaptın mı, YOUR_NAME? Bıçkı hanesindeki termitleri serbest bıraktın mı?\n\nAilemin işlerini ve hayatlarını kaybetmesi yeterince kötüydü, ama çocukluğumun geçtiği yerin o iğrenç sözde kutsal adamlar tarafından ele geçirildiğini görmek... pff!!",
-    ["Completion"]="Teşekkür ederim, YOUR_NAME. Al, bu parayı al. Daha fazla olmadığı için üzgünüm, ama Kızıl Haçlı Seferi'nin çabalarını yok etmeye yardım etmekten keyif almaya bak!",
+    ["Completion"]="Teşekkür ederim, YOUR_NAME. Al, bu parayı al. Daha fazla olmadığı için üzgünüm, ama Kızıl Haçlılar'nin çabalarını yok etmeye yardım etmekten keyif almaya bak!",
     ["minlevel"]="48",
     ["questlevel"]="55",
     }, -- end A Plague Upon Thee
@@ -62200,7 +62198,7 @@ QuestTranslator_QuestData = {
     ["Title"]="Göz İllüzyonları",
     ["Description"]="Demek YOUR_RACE Siyah Sürü'den biri olmak istiyor, ha?\n\nİhtiyacın olan illüzyonun yaratılması önemsizdir, ancak kehanet için gerekli bileşenlerin elde edilmesi oldukça zordur. Rexxar ve Savaşşefi bu görevi sana emanet ettiklerine göre, Myranda senin yetenekli olduğunu varsaymalı.\n\nKarakaya Zirvesi'nin üst kalesine seyahat et ve çantalarından birini gözleriyle dolduracak kadar siyah ejderhasoyunu katlet.\n\nYeterince reaktif topladığında Myranda'ya dön.",
     ["Objectives"]="Karakaya Zirvesi'ne seyahat et ve 20 Siyah Ejderhasoyu Gözü topla. Görev tamamlandığında Büyücü Myranda'ya dön.",
-    ["Progress"]="Taklit etmek istediğimiz şeyin gözleri, her illüzyonun en önemli bileşenidir, YOUR_NAME.\n\n<Myranda 'Kızıl Haçlı Seferi' etiketli ve göz küreleriyle neredeyse taşan bir çantayı gösterir.>\n\n<Myranda güler.>",
+    ["Progress"]="Taklit etmek istediğimiz şeyin gözleri, her illüzyonun en önemli bileşenidir, YOUR_NAME.\n\n<Myranda 'Kızıl Haçlılar' etiketli ve göz küreleriyle neredeyse taşan bir çantayı gösterir.>\n\n<Myranda güler.>",
     ["Completion"]="Myranda'nın bir bakmasına izin ver, YOUR_RACE.\n\nOh evet, bunlar gayet güzel iş görür.\n\nBu reaktiflerle Myranda, siyah ejderha sürüsünün kapı muhafızını kandırabilecek bir illüzyon sağlayan bir madalyon yaratacak.",
     ["minlevel"]="55",
     ["questlevel"]="60",
@@ -70770,7 +70768,7 @@ QuestTranslator_QuestData = {
 
 ["8987"] = {
     ["Title"]="Önemli Diğer Bileşenler",
-    ["Description"]="YOUR_CLASS, dikkatlice dinle. Artık son muska parçasının yerini bildiğimize göre, buhurdanlığı doldurmak için başka bir bileşene daha ihtiyacımız var; ölmüş, eski yoldaşlarımın kalıntılarını çağırmak için yeterince güçlü bir odak noktası sağlayacak bir şey.NEW_LINEKardeşler, Jarien ve Sothos, Kızıl Haçlı Seferi yoluna inananlardı. O aşağılık örgüt içinde şövalyeliğe özeniyorlardı. Doğu Veba Toprakları'ndaki Tyr'in Eli'ne git ve oradaki muhafızlardan Görkemli Taassup Kılıcı al.",
+    ["Description"]="YOUR_CLASS, dikkatlice dinle. Artık son muska parçasının yerini bildiğimize göre, buhurdanlığı doldurmak için başka bir bileşene daha ihtiyacımız var; ölmüş, eski yoldaşlarımın kalıntılarını çağırmak için yeterince güçlü bir odak noktası sağlayacak bir şey.NEW_LINEKardeşler, Jarien ve Sothos, Kızıl Haçlılar yoluna inananlardı. O aşağılık örgüt içinde şövalyeliğe özeniyorlardı. Doğu Veba Toprakları'ndaki Tyr'in Eli'ne git ve oradaki muhafızlardan Görkemli Taassup Kılıcı al.",
     ["Objectives"]="Görkemli Taassup Kılıcı getir ve Kara Kaya Dağı içindeki Bodley'ye dön.",
     ["Progress"]="Seni toplamaya gönderdiğim şeyle hemen döndün mü YOUR_CLASS?",
     ["Completion"]="Harika bir iş, YOUR_NAME. Kılıcın özünü buhurdanlığa aşılayacağım.NEW_LINENEW_LINEŞimdi geriye kalan tek şey Stratholme'daki Kızıl Tabyası'nın içindeki Al Taht'a girmek ve eski yoldaşlarım Jarien ve Sothos'un kalıntılarını çağırmak için buhurdanlığı kullanmak. Valthalak'ın muska parçasına ve içindeki ruhuna sahip olmaları yüzünden ruhları daha da bozuldu.NEW_LINEBu arada, Alcaz Adası gezinden kalan biraz kan yosunum vardı, bu yüzden senin için birkaç iksir yaptım. Seçimini yap!",
@@ -70810,7 +70808,7 @@ QuestTranslator_QuestData = {
 
 ["8991"] = {
     ["Title"]="Lord Valthalak'ın Muskasının Doğru Parçası",
-    ["Description"]="Kardeşler, Jarien ve Sothos, paralı asker şirketimizin dağılması üzerine Kızıl Haçlı Seferi'ne katılmaya karar verdiler. Lord Valthalak'ın muskasının doğru parçasını da yanlarına aldılar. Kurtulduğumuza sevindim derim, ama o parçaya ihtiyacımız var.NEW_LINEÖğrenebildiğimiz kadarıyla, Kızıl Tabyası'ndaki odasında kabul törenlerinde başarısız oldukları için Büyük Haçlı Dathrohan'ın kendisi tarafından katledilmişler.NEW_LINEHer halükarda, biz... yani sen, muskanın o parçasını hâlâ alman gerekecek.",
+    ["Description"]="Kardeşler, Jarien ve Sothos, paralı asker şirketimizin dağılması üzerine Kızıl Haçlılar'ne katılmaya karar verdiler. Lord Valthalak'ın muskasının doğru parçasını da yanlarına aldılar. Kurtulduğumuza sevindim derim, ama o parçaya ihtiyacımız var.NEW_LINEÖğrenebildiğimiz kadarıyla, Kızıl Tabyası'ndaki odasında kabul törenlerinde başarısız oldukları için Büyük Haçlı Dathrohan'ın kendisi tarafından katledilmişler.NEW_LINEHer halükarda, biz... yani sen, muskanın o parçasını hâlâ alman gerekecek.",
     ["Objectives"]="Jarien ve Sothos'u çağırmak için Çağrı Buhurdanlığı'nı kullan ve onları katlet. Birleştirilmiş Lord Valthalak'ın Muskası ve Çağrı Buhurdanlığı ile Kara Kaya Dağı içindeki Bodley'ye geri dön.",
     ["Progress"]="Bu durumda YOUR_CLASS, bu iki aptalın ruhunu çoktan huzura kavuşturduğun ve Lord Valthalak'ın muskasının parçalarını birleştirdiğin anlamına mı geliyor?",
     ["Completion"]="Sanırım o ikisinin ruhlarının nihayet huzura kavuşması en iyisi oldu, yaşarlarken onlardan hoşlanmasam bile. Her halükarda peşinde olduğumuz şeyi aldık ve artık muska yeniden birleşti! Ancak önümüzde hâlâ en zorlu test var.NEW_LINEBuhurdanlığın Lord Valthalak'ı çağırmaya uyum sağlanması için birkaç eşyanın daha toplanıp buraya bana getirilmesi gerekiyor.",
@@ -76717,7 +76715,7 @@ QuestTranslator_QuestData = {
 
 ["41557"] = {
     ["Title"] = "Kızıl Şnaps",
-    ["Description"] = "Şuradaki Thaldon, Doğu Krallıkları'ndan gelen Lordaeron Birası hakkında çığır açan bir şey keşfettiğini geveleyip durdu. Bu küçük adamın benden üstünlük sağlamasına izin veremem, bu yüzden daha da yükseğe çıkacağız! O ezik ve sıkıcı Lordaeron Birası ile yetinirken, bizim hedefimiz çok az kişinin içme şansı bulduğu, efsane olduğu söylenen gizemli Kızıl Şnaps.NEW_LINEKızıl Haçlı Seferi'nin gastronomik bir tuhaflığı olarak, Tirisfal Korusu'ndaki manastırlarında bir tür ışık saçan içecek olarak demlendiklerini duydum. Eğer bu içki gerçekten bu büyülü özelliklere sahipse, o zaman onu ele geçirmem gerek!",
+    ["Description"] = "Şuradaki Thaldon, Doğu Krallıkları'ndan gelen Lordaeron Birası hakkında çığır açan bir şey keşfettiğini geveleyip durdu. Bu küçük adamın benden üstünlük sağlamasına izin veremem, bu yüzden daha da yükseğe çıkacağız! O ezik ve sıkıcı Lordaeron Birası ile yetinirken, bizim hedefimiz çok az kişinin içme şansı bulduğu, efsane olduğu söylenen gizemli Kızıl Şnaps.NEW_LINEKızıl Haçlılar'nin gastronomik bir tuhaflığı olarak, Tirisfal Korusu'ndaki manastırlarında bir tür ışık saçan içecek olarak demlendiklerini duydum. Eğer bu içki gerçekten bu büyülü özelliklere sahipse, o zaman onu ele geçirmem gerek!",
     ["Objectives"] = "Bir şişe Kızıl Şnaps ele geçirin ve onu Ratchet'taki Hal'togg Hornfang'e getirin.",
     ["Progress"] = "Bu bağnazlar sırlarını acımasızca koruyorlar ama biz nihai içki arayışımızda daha da acımasızız.",
     ["Completion"] = "Gerçekten bulmuşsun! Dış dünya tarafından nadiren görülen veya tadılan efsanevi bir şnaps. Bir deneyelim!NEW_LINE<Derin bir yudum ve şnapsın yarısı yok olur. Hal'togg'un yeşil yüzü hafifçe kızarır. Bu içki bayağı sert görünüyor!>NEW_LINEVay canına, bu içki gerçekten çok etkili, şimdi neden insanı ateşlediğini söylediklerini anlıyorum. Tatlı bir art tatla birleşen yakıcı bir lezzet. Daha iyisini bilmeseydim içine özel bir tür şerbetçiotu karıştırdıklarını söylerdim. Hangi tür şerbetçiotu kullandıklarını öğrenmek zor olabilir ama...",
@@ -78953,7 +78951,7 @@ QuestTranslator_QuestData = {
     ["Title"]="Mahzen Efendisi'nin Çağrısı",
     ["Description"]="<Mahzen Efendisi ayaklarının dibinde ölü yatıyor. Northrend'in buzlu derinliklerinden gelen iblis artık yaşayanlar arasında terör estirmeyecek. Ancak ellerinde tuttuğun şey, deneyimli maceracı duyularına iyi şeyler vadetmiyor. Taş tablet dokunulduğunda buz gibi ve içinden kısık fısıltılar duyulabiliyor. Tek başına onu parçalayamaz ve kötü aurasını dağıtamazsın. Işık'ın güçlü bir kullanıcısı ihtiyaç anında sana yardım edebilir.>",
     ["Objectives"]="Mahzen Efendisi'nin Çağrısı'nı Işık'ın güçlü bir kullanıcısına ulaştır.",
-    ["Progress"]="Işık adına! Senden gelen bu çürümüş miyazma da nedir? YOUR_CLASS, üzerinde ne varsa teslim et, çabuk!NEW_LINE<Tablet Tirion'a verilir, o da hemen örümcek ağı kaplı yüzeye kutsal bir büyü yapar.>NEW_LINEKorktuğum gibi, bu tabletin üzerindeki koruyucu lanet kırılmayacak kadar güçlü. Onu kutsal güçle takdis etmemiz gerekiyor. Bunun için fanatik Kızıl Haçlı Seferi'nden (Scarlet Crusade) kutsal haçlar yeterli olacaktır. Bu kutsal kalıntılar lekelenmiş elleri için zaten uygun değil. YOUR_NAME, onları bana en kısa sürede ulaştır!",
+    ["Progress"]="Işık adına! Senden gelen bu çürümüş miyazma da nedir? YOUR_CLASS, üzerinde ne varsa teslim et, çabuk!NEW_LINE<Tablet Tirion'a verilir, o da hemen örümcek ağı kaplı yüzeye kutsal bir büyü yapar.>NEW_LINEKorktuğum gibi, bu tabletin üzerindeki koruyucu lanet kırılmayacak kadar güçlü. Onu kutsal güçle takdis etmemiz gerekiyor. Bunun için fanatik Kızıl Haçlılar'nden (Scarlet Crusade) kutsal haçlar yeterli olacaktır. Bu kutsal kalıntılar lekelenmiş elleri için zaten uygun değil. YOUR_NAME, onları bana en kısa sürede ulaştır!",
     ["Completion"]="Haçlar, onlara sahipsin! Kutsal ışıltıları buradan bile hissedilebiliyor. YOUR_CLASS, bu tableti temizlememiz şart. Bilmiyor olabilirsin ama bunlar Veba'nın aşağılık Mahzen Efendileri tarafından Nerubian sürülerine cezbedici bir büyü altında komuta etmek ve yeteneklerini artırmak için kullanılır. Bu dünyadan derhal temizlenmelidir. Ne olursa olsun tetikte olun. Değerli kalıntılarından birini yok ettiğimiz için misilleme yapacaklarından eminim.NEW_LINEKendinizi hazırlayın!",
     ["minlevel"]="60",
     ["questlevel"]="60"
@@ -80309,6 +80307,15 @@ QuestTranslator_QuestData = {
         ["Objectives"] = "Dorius'un Ironforge'a geri dönmesine yardım et.",
         ["Progress"] = "Başaramayacağım...",
         ["Completion"] = "Bu mektup vurulduğunda Dorius tarafından düşürülmüştü."
+    },
+    ["700001"] = {
+        ["Title"] = "Çiftlik Sesleri!",
+        ["Description"] = "Viy! Viy viy!\n\n<Domuz ayaklarınızı koklar, ardından umutla çantanıza doğru burnunu sürter.>",
+        ["Objectives"] = "Elwynn Ormanı'ndaki Domuz'a 1 İşlenmemiş Siyah Trüf Getir.",
+        ["Progress"] = "Viy!",
+        ["Completion"] = "Viy! <Domuz trüfü hırsla yer, neşeyle horuldar ve bir an için garip bir domuz büyüsünün üzerinize çöktüğünü hissedersiniz.>",
+        ["minlevel"] = "0",
+        ["questlevel"] = "0"
     },
 --123456789
 	
