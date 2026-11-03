@@ -3446,7 +3446,7 @@ QuestTranslator_QuestData = {
 
     ["376"] = {
         ["Title"] = "Lanetliler",
-        ["Description"] = "Görevlerim arasında yaralı savaşçılarımızla ilgilenmek, zırh ve giysi dikmek ve Gölge Rahibi Sarvis'e ihtiyaç duyabileceği her konuda yardımcı olmak yer alıyor.\n\nGörünüşe göre sen de onun hizmetine alınacaksın... Düşüncesiz Olanlar'ı avlayacaksın, eğer onun aklını okuyabiliyorsam. Pekala, eğer tek parça kalmak istiyorsan—ki öyle istediğinden hiç şüphem yok—belki sana yardım edebilirim. Pençelerim ve kanatlarımız tükeniyor ve bana biraz getirirsen sana bir zırh bulurum. Güneyde epey kurt ve yasarasa bulacaksın.",
+        ["Description"] = "Görevlerim arasında yaralı savaşçılarımızla ilgilenmek, zırh ve giysi dikmek ve Gölge Rahibi Sarvis'e ihtiyaç duyabileceği her konuda yardımcı olmak yer alıyor.\n\nGörünüşe göre sen de onun hizmetine alınacaksın... Akılsız Olanlar'ı avlayacaksın, eğer onun aklını okuyabiliyorsam. Pekala, eğer tek parça kalmak istiyorsan—ki öyle istediğinden hiç şüphem yok—belki sana yardım edebilirim. Pençelerim ve kanatlarımız tükeniyor ve bana biraz getirirsen sana bir zırh bulurum. Güneyde epey kurt ve yasarasa bulacaksın.",
         ["Objectives"] = "Acemi Elreth 6 Leşçil Pençesi ve 6 Alacakaranlık Yarasası Kanadı istiyor.",
         ["Progress"] = "Sana biraz zırh bulana kadar kendini zarar görmeden tutmak için elinden geleni yap.",
         ["Completion"] = "Teşekkür ederim, YOUR_NAME. Bu zırh sana yardımcı olmalı.\n\nUmarım bunu giyen son kişiden daha fazla işine yarar...",
@@ -3476,27 +3476,25 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end Öfke Derinlerde
 
-    -- Night Web's Hollow
-    ["380"] = {
-    ["Title"]="Night Web's Hollow",
-    ["Description"]="En büyük mücadelelerimizden biri hayatta kalmak için ihtiyaç duyduğumuz doğal kaynakları elde etmektir. İttifak'ın gücünün zirvesindeyken bile altın kıttı.NEW_LINEKuzeybatıda örümceklerin istila ettiği bir altın madeni var. Madenden altına ihtiyacımız var, ancak örümcekler orada gezinirken onu alamayız. Bu iş için ayıracak fazla insan gücüm yok, o yüzden yavaş yavaş yapmamız gerekecek.NEW_LINEOraya çık ve bizim için ne yapabileceğine bak, YOUR_NAME.",
-    ["Objectives"]="Yönetici Arren 8 Genç Gece Ağı Örümceği ve 5 Gece Ağı Örümceği öldürmeni istiyor.",
-    ["Progress"]="Örümceklerin zehrine karşı dikkatli ol, YOUR_NAME. Eğer keskin bir yanma hissedersen, baktırmak isteyebilirsin.",
-    ["Completion"]="",
-    ["minlevel"]="0",
-    ["questlevel"]="0",
-    }, -- end Night Web's Hollow
+   ["380"] = {
+        ["Title"] = "Geceağı Kovuğu",
+        ["Description"] = "En büyük mücadelelerimizden biri, hayatta kalmak için ihtiyaç duyduğumuz doğal kaynakları elde etmektir. İttifak'ın gücünün zirvesinde olduğu zamanlarda bile altın kıttı.\n\nKuzeybatıda örümcekler tarafından istila edilmiş bir altın madeni var. Madenden altına ihtiyacımız var ama örümcekler orada etrafta gezinirken bunu pek elde edemeyiz. Bu göreve ayıracak fazla insan gücüm yok, bu yüzden bu işi azar azar yapmak zorunda kalacağız.\n\nOraya çık ve bizim için ne yapabileceğine bak, YOUR_NAME.",
+        ["Objectives"] = "İnfazcı Arren 10 Genç Geceağı Örümceği ve 8 Geceağı Örümceği katletmeni istiyor.",
+        ["Progress"] = "Örümceklerin zehrine karşı dikkatli ol, YOUR_NAME. Keskin bir yanma hissedersen bir baktırmak isteyebilirsin.",
+        ["Completion"] = "Hmm, pekala, bu bir başlangıç. İstilayı tamamen temizlemek birkaç hafta veya ay sürecek. Ondan sonra, ağları yakmak için meşalelerle oraya inmemiz gerekecek.\n\nGörevini iyi yaptın, YOUR_NAME, sana yaptıracak başka bir şey bulabileceğime eminim.",
+        ["minlevel"] = "0",
+        ["questlevel"] = "0"
+    },
 
-    -- Kızıl Haçlı Seferi
     ["381"] = {
-    ["Title"]="Kızıl Haçlı Seferi",
-    ["Description"]="Çabalarınız sayesinde madende ilerleme kaydettiğimizi bilmek sizi mutlu edecektir. Artık gözlerimizi diğer endişelerimize çevirebiliriz.NEW_LINEGözcülerim Scarlet Crusade'in bir müfrezesinin buranın güneydoğusunda kamp kurduğunu rapor etti. Scarlet Crusade bizi avlayan aşağılık bir örgüt ve tüm ölümsüzler -Lich King's Scourge olsun ya da olmasın- yok edilene kadar durmayacaklar. Önce biz saldırmalıyız!NEW_LINEDikkatli olun, kutsal olmayan gayretleri onları tehlikeli düşmanlar yapar.",
-    ["Objectives"]="Cellat Arren'e Kızıl Dönüşümler ve Kızıl İnisiyelerden 12 Kızıl Kolluk getirin.",
-    ["Progress"]="Şu aptallar. Kendilerini mutlu bir şekilde kendi mezarlarına gönderiyorlar.",
-    ["Completion"]="Keşke mantığa kulak verseler, değil mi YOUR_NAME? Belki de onları makul bir konuşma için oturtabiliriz... ha!NEW_LINEIşık körü aptallar.",
-    ["minlevel"]="0",
-    ["questlevel"]="0",
-    }, -- end Kızıl Haçlı Seferi
+        ["Title"] = "Kızıl Haçlı Seferi",
+        ["Description"] = "Büyük ölçüde senin çabaların sayesinde madende ilerleme kaydediyor gibi göründüğümüzü bilmek seni mutlu edecektir. Artık gözlerimizi diğer endişelere çevirebiliriz.\n\nİzcilerim, Kızıl Haçlı Seferi'ne bağlı bir müfrezenin buranın güneydoğusunda bir kamp kurduğunu bildirdi. Kızıl Haçlı Seferi bizi avlayan aşağılık bir örgüttür ve her bir hortlak—Lich King'in Afeti olsun ya da olmasın—yok edilene kadar durmayacaklardır. İlk biz vurmalıyız!\n\nDikkatli ol, onların kutsal olmayan taassupları onları tehlikeli düşmanlar kılıyor.",
+        ["Objectives"] = "İnfazcı Arren'e, Kızıl Mühtediler ve Kızıl Acemiler'den alacağın 12 Kızıl Kol Bandı getir.",
+        ["Progress"] = "O aptallar... Kendi mezarlarına seve seve gidiyorlar.",
+        ["Completion"] = "Keşke mantığın sesini dinleselerdi, ha, YOUR_NAME? Belki oturup onlarla makul bir söyleşi yapabilirdik... ha!\n\nIşık'tan kör olmuş aptallar.",
+        ["minlevel"] = "0",
+        ["questlevel"] = "0"
+    },
 
     -- Kızıl Elçi
     ["382"] = {
@@ -11108,16 +11106,15 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end Ateş Sapta
 
-    -- Peçeyi Delmek
     ["1470"] = {
-    ["Title"]="Peçeyi Delmek",
-    ["Description"]="Selamlar, çocuk. Büyücülükte hâlâ genç olduğunu görebiliyorum, güç hâlâ kavrayışından kaçıyor. Öğrenme hevesini hissedebiliyorum.NEW_LINEVe öğreneceksin.NEW_LINECehalette güç yoktur. Bilgi bizim en büyük gücümüzdür. Bunu uygulayarak, boşluğun kaotik büyülerini ve varlıklarını kontrol edebilir, onları isteğimize göre bükebiliriz.NEW_LINESana bir hizmetkârı iradene nasıl bağlayacağını göstereceğim, ama önce bana terk edilmiş demirci dükkânının yakınındaki çıngıraklı iskeletlerden üç kafatası getirmelisin.",
-    ["Objectives"]="Venya Marthand'a 3 Çıngıraklı Kafatası getirin.",
-    ["Progress"]="Gücün artık çok az, yine de şimdiden olasılıkları hissettiğinden şüpheleniyorum.NEW_LINEİçimizde dolaşan bu güçle ölüler bile canlı hissedebilir.",
-    ["Completion"]="Henüz denenmemiş ve genç olmanıza rağmen, bir şeytan çağırma ve bağlama konusunda ustalaşmak için yeterli yeteneğe sahip olduğunuzu kanıtladınız. İfritin büyüklüğü sizi yanıltmasın. Fiziksel güçten yoksun olsa da, size iyi hizmet edecek güçlere ve zekâya sahiptir.NEW_LINEBeni dikkatle dinle, YOUR_NAME Çünkü bu dersi tekrarlamayacağım ve ustalığını sana bırakacağım.",
-    ["minlevel"]="0",
-    ["questlevel"]="0",
-    }, -- end Peçeyi Delmek
+        ["Title"] = "Perdeyi Aralamak",
+        ["Description"] = "Selamlar, evladım. Cadı sanatlarında henüz yeni olduğunu, gücün hâlâ kavrayışından kaçtığını görebiliyorum. Öğrenme arzunu hissedebiliyorum.\n\nVe öğreneceksin de.\n\nCahillikte güç yoktur. Bilgi bizim en büyük gücümüzdür. Onu kullanarak, boşluğun kaotik büyülerini ve varlıklarını kontrol edebilir, onları irademize boyun eğdirebiliriz.\n\nSana bir hizmetkarı iradene nasıl bağlayacağını göstereceğim, ancak önce bana terk edilmiş demirhanenin yakınındaki çıngırakkafes iskeletlerinin üç kafatasını getirmelisin.",
+        ["Objectives"] = "Venya Martüy'e 3 Çıngırakkafes Kafatası getir.",
+        ["Progress"] = "Şu anda gücün az, ancak olasılıkları şimdiden hissettiğini düşünüyorum.\n\nİçimizden geçen o güçle, ölüler bile kendilerini canlı hissedebilir.",
+        ["Completion"] = "Henüz sınanmamış ve öğreniminde yeni olsan da, bir iblisçik(imp) çağırma ve bağlama konusunda ustalaşmak için yeterli yeteneğe sahip olduğunu kanıtladın. Bir iblisçiğin boyutuna aldanma. Fiziksel güçten yoksun olsa da, sana iyi hizmet edecek güçlere ve bir zekaya sahiptir.\n\nBeni dikkatlice dinle, YOUR_NAME, çünkü bu dersi tekrarlamayacağım ve bu konuda ustalaşmayı sana bırakacağım.",
+        ["minlevel"] = "0",
+        ["questlevel"] = "0"
+    },
 
     -- Bağlama
     ["1471"] = {
@@ -16058,7 +16055,7 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end Dreadmaul Rock
 
-    ["42110"] = {
+    ["3901"] = {
         ["Title"] = "Çıngırakkafesleri Sallamak",
         ["Description"] = "Normal şartlar altında Terk Edilmişler'e(Forsaken) potansiyelini gösterdin YOUR_NAME - şimdi bir de baskı altında görelim seni.\n\nLich King'in daha akılsız köleleri olan Çıngırakkafes iskeletleri, şu ana kadar karşılaştığın zombilerden daha çetin bir düşmandır. Yine sayılarını azalt ve Terk Edilmişler'e(Forsaken) kendini kanıtla. Gecikme - işin bittiğinde benimle tekrar konuş.",
         ["Objectives"] = "12 Çıngırakkafes İskeleti katlet ve işin bittiğinde Ölümçanı'ndaki Gölge Rahibi Sarvis'e geri dön.",
@@ -16068,16 +16065,15 @@ QuestTranslator_QuestData = {
         ["questlevel"] = "0"
     },
 
-    -- Çöpçü Ölümböceği
     ["3902"] = {
-    ["Title"]="Çöpçü Ölümböceği",
-    ["Description"]="Sen oradaki! Kendinizi işe yarar kılacak bir şey arıyorsanız, dinleyin!NEW_LINEÖlümçanı'e gidip işe yarar her türlü ekipmanı arayacak yeni acemilere ihtiyacımız var. Büyük olasılıkla kutu yığınları içinde olacaklardır. Yakında daha fazla aceminin gelmesini bekliyoruz ve onların çıplak dolaşmasını istemiyorsak, çöpleri karıştırmaya başlasak iyi olur!NEW_LINEO zaman işe koyul, seni sefil kemik torbası! Acele etmeyenleri ödüllendirmeyeceğim.",
-    ["Objectives"]="Ölümçanı ve çevresinde 6 parça Leş Mal arayın ve bunları Deathguard Saltain'e geri verin.",
-    ["Progress"]="Bizim için işe yarar eşyalar bulmayı başardınız mı? Bir kenara atılmış bir şeyi yeniden kullanmakta utanılacak bir şey yok. Kimse bize sadaka vermeyecek - biz Unutulmuşlar kendi başımızın çaresine bakacağız!",
-    ["Completion"]="Harika iş YOUR_NAME İşe yaramaz olmadığını biliyordum. İşte - şimdiye kadar toplananlar arasında bulduğum en iyi parçalardan biri.",
-    ["minlevel"]="0",
-    ["questlevel"]="0",
-    }, -- end Çöpçü Ölümböceği
+        ["Title"] = "Ölümçanı'nda Yağmacılık",
+        ["Description"] = "Hey sen! Kendini işe yarar kılacak bir şey arıyorsan dinle!\n\nÖlümçanı'na gidip kullanışlı herhangi bir teçhizat arayacak topraktan yeni çıkmış acemilere ihtiyacımız var. Büyük ihtimalle kutu yığınlarının içinde olacaklardır. Yakında daha fazla aceminin doğmasını bekliyoruz ve onların etrafta çıplak dolaşmalarını istemiyorsak yağmalama işine başlasak iyi olur!\n\nHadi işinin başına geç, seni sefil kemik torbası! Biraz acele etmeyenleri ödüllendirecek değilim.",
+        ["Objectives"] = "6 adet Yağmalanmış Eşya için Ölümçanı'nı ve çevresini ara, ardından onları Ölümmuhafızı Saltain'e geri getir.",
+        ["Progress"] = "Bizim için kullanışlı birkaç eşya yağmalamayı başardın mı? Kenara atılmış şeyleri yeniden kullanmakta utanılacak bir şey yoktur. Kimse bize karşılıksız bir şey vermeyecek — biz Terk Edilmişler kendi başımızın çaresine bakacağız!",
+        ["Completion"] = "Harika iş YOUR_NAME, işe yaramaz olmadığını biliyordum. Al — şimdiye kadar toplanan yığınların arasından bulduğum daha iyi eşyalardan birini seç.",
+        ["minlevel"] = "0",
+        ["questlevel"] = "0"
+    },
 
     -- Milly Osworth
     ["3903"] = {
@@ -17284,7 +17280,7 @@ QuestTranslator_QuestData = {
     ["Description"]="İçinde bulunduğum çıkmazı görebiliyorsun, YOUR_NAME. Bu şey dışarıda yanlış otları topluyor! İhtiyacım olanı toplamak için harcadığın zamana değmesini sağlayacağım. Bana yeterince kıyamet otu getir, ben de sana uygun bir ödül vereyim.NEW_LINEAnladığım kadarıyla Brill mezarlığının kuzeyindeki toplu mezarlığın yakınındaki bitki örtüsüne musallat olmayı seviyorlar. Acele edin ve bölgedeki gnoll'lara dikkat edin.",
     ["Objectives"]="10 Doom Weed toplayın ve Junior Apothecary Holland'a geri teslim edin.",
     ["Progress"]="Bu iyi olsa iyi olur. İhtiyacım olan tüm doom otunun sende olduğuna inanıyorum.",
-    ["Completion"]="Ah, benim kıyamet otum. Mükemmel!NEW_LINE<Junior Apothecary Holland açgözlülükle ellerini ovuşturuyor>NEW_LINEBunlar oldukça kullanışlı olacak. Bugün bana, yani Leydi'ye iyi bir hizmette bulundun Nerthiliuz. Söz verdiğim gibi, işte hak ettiğin ödül.",
+    ["Completion"]="Ah, benim kıyamet otum. Mükemmel!NEW_LINE<Junior Apothecary Holland açgözlülükle ellerini ovuşturuyor>NEW_LINEBunlar oldukça kullanışlı olacak. Bugün bana, yani Leydi'ye iyi bir hizmette bulundun YOUR_NAME. Söz verdiğim gibi, işte hak ettiğin ödül.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Doom Weed
@@ -19031,7 +19027,7 @@ QuestTranslator_QuestData = {
     ["Description"]="Arkadaşım Marla Fipps vebadan önce kocası Samuel ile birlikte yaşıyordu, ancak veba geldiğinde Samuel yenik düştü ve Scourge'un saflarına katıldı.NEW_LINEMarla ölümden kurtulmuş ancak artık akılsız olan kocasının ellerinde ölmüştür. Ancak aşkı o kadar güçlüydü ki, son arzusu sevgili Samuel'iyle birlikte gömülmekti.NEW_LINESamuel Fipps, Ölümçanı'in kuzeydoğusundaki yol boyunca harabe bir kampta dolaşıyor. Onu alt edin ve Marla'nın dileğini yerine getirin: Onu mezarlığımızın ilk sırasındaki mezarına gömün.",
     ["Objectives"]="Samuel Fipps'in Kalıntılarını Marla'nın Mezarına getirin, sonra Acemi Elreth'e dönün.",
     ["Progress"]="Ölülerimize saygı göstermeliyiz, YOUR_NAME. Beladan farklı olduğumuz yönlerden biri de bu.",
-    ["Completion"]="Bugün iyi bir iş yaptın Nerthiliuz. Bela'ya karşı mücadelemiz devam etse de, Marla ve Samuel'in ebedi istirahatgahlarında birlikte huzur bulacaklarını umalım.",
+    ["Completion"]="Bugün iyi bir iş yaptın YOUR_NAME. Bela'ya karşı mücadelemiz devam etse de, Marla ve Samuel'in ebedi istirahatgahlarında birlikte huzur bulacaklarını umalım.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Marla'nın Son Dileği
