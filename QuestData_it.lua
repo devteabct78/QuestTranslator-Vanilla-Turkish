@@ -26801,10 +26801,10 @@ QuestTranslator_QuestData = {
     ["60107"] = {
     -- Solliden Farmstead -> Solliden Çiftliği. Scarlets -> Kızılsunlar, Dark lady -> Karanlık Leydi.
     ["Title"]="Üşüyen Ayaklar",
-    ["Description"]="Bu lanet soğuk beni bir türlü bırakmıyor. Postlar için sana teşekkür ederim, YOUR_NAME ama acaba seni tekrar rahatsız edebilir miyim? Sen çıkıp gelmeden önce, Solliden Çiftliği'ne (Solliden Farmstead) gidip terliklerimi getirmesi için Calvin adında yardımsever bir ruha para ödemiştim. Geri dönmedi ve onun pek dürüst olmayabileceğini duydum. Zombilik (undeath) bir fırsatçıyı değiştirmiyor anlaşılan. Terliklerim çiftlikteki bir ayaklı sandığın (footlocker) içinde. Bölgedeki Kızılsunlar (Scarlets) hakkında kulak misafiri olduğum raporlar en az endişe verici olanı. Murlocların parlak olan her şeyi sevdiğini duymuştum ve ben o sandığı hep cilalı tutardım...",
-    ["Objectives"]="Gretchen'ın terliklerini Solliden Çiftliği'nin (Solliden Farmstead) kuzeyindeki parlak ayaklı sandıktan geri al.",
+    ["Description"]="Bu lanet soğuk beni bir türlü bırakmıyor. Postlar için sana teşekkür ederim, YOUR_NAME ama acaba seni tekrar rahatsız edebilir miyim? NEW_LINESen çıkıp gelmeden önce, Solliden Çiftliği'ne gidip terliklerimi getirmesi için Calvin adında yardımsever bir ruha para ödemiştim. Geri dönmedi ve onun pek dürüst olmayabileceğini duydum. Zombilik bir fırsatçıyı değiştirmiyor anlaşılan. Terliklerim çiftlikteki bir ayaklı sandığın içinde. NEW_LINEBölgedeki Kızıllar hakkında kulak misafiri olduğum raporlar en az endişe verici olanı. Murlocların parlak olan her şeyi sevdiğini duymuştum ve ben o sandığı hep cilalı tutardım...",
+    ["Objectives"]="Gretchen'ın terliklerini Solliden Çiftliği'nin kuzeyindeki parlak ayaklı sandıktan geri al.",
     ["Progress"]="Tekrar merhaba, YOUR_NAME. Solliden Çiftliği'nin kuzeyindeki kıyıya henüz gittin mi?",
-    ["Completion"]="Terliklerim! Çok teşekkür ederim! Bana büyük bir nezaket gösterdin. Lütfen bu koşturmaca için bu parayı kabul et. Karanlık Leydi (Dark lady) seni gözetsin.",
+    ["Completion"]="Terliklerim! Çok teşekkür ederim! Bana büyük bir nezaket gösterdin. Lütfen bu koşturmaca için bu parayı kabul et. Karanlık Leydi seni gözetsin.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Cold Feet
