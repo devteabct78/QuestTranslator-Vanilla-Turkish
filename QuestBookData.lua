@@ -882,8 +882,8 @@ QuestTranslator_BookData = {
 		["Text"] = "Missing Text"
 	},
 	["Sevren's Orders"] = {
-		["Title"] = "Sevren's Orders",
-		["Text"] = "Lord Bethor Iceshard,\n\nAs per your instructions, I send to you the agent you requested.  It is the bearer of this note.\n\nThis person has shown to be dependable and able to follow orders, is proven against the forces of the Scourge, and is my choice for your mission.\n\nMay She reign supreme,\n-Magistrate Sevren\n\n"
+    	["Title"] = "Sevren'in Emirleri",
+    	["Text"] = "Lort Bethor Buzparçası,\n\nTalimatlarınız doğrultusunda talep ettiğiniz ajanı size gönderiyorum. Bu notun taşıyıcısı kendisidir.\n\nBu kişinin güvenilir olduğu ve emirlere uyabildiği kanıtlanmıştır; Kamçı kuvvetlerine karşı kendini kanıtlamıştır ve göreviniz için benim seçimimdir.\n\nHükümranlığı Daim Olsun,\n-Yargıç Sevren\n\n"
 	},
 	["Hildelve's Journal"] = {
 		["Title"] = "Hildelve's Journal",

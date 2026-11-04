@@ -3213,16 +3213,15 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end Aile İçi Ölümler
 
-    -- Sevren ile konuşun
     ["355"] = {
-    ["Title"]="Sevren ile konuşun",
-    ["Description"]="Karakaya(Blackrock) casuslarıyla uğraşmaktan döner dönmez bunu dikkatinize sunmam istendi, YOUR_NAME. Uzak bir diyardan bizi ziyarete gelen bir pandaren olan Bao'nun amblemiyle mühürlenmiş bir mektup gibi görünüyor. Burada, Manastır'da başka bir iş yapmadan önce okumakta tereddüt etmezdim.",
-    ["Objectives"]="Brill'de Yargıç Sevren ile konuşun.",
-    ["Progress"]="",
-    ["Completion"]="Coleman senden iyi bahsediyor, YOUR_NAME Agamand Değirmenleri'ndeki başarılı çalışmalarınızı anlatıyor.NEW_LINETerkedilmişlerin senin yeteneklerine bir kez daha ihtiyacı var.",
-    ["minlevel"]="0",
-    ["questlevel"]="0",
-    }, -- end Sevren ile konuşun
+        ["Title"] = "Sevren ile Konuş",
+        ["Description"] = "Bana Agamandların kalıntılarını verdin ve intikam arzumu tatmin ettin. Ancak Agamand Değirmenleri sadece benim için değil, tüm Terk Edilmişler için bir tehdit barındırıyor.\n\nYargıç Sevren ile Agamandlara karşı gösterdiğin başarılar hakkında konuştum ve seninle görüşmek istiyor.",
+        ["Objectives"] = "Brill'deki Yargıç Sevren ile konuş.",
+        ["Progress"] = "",
+        ["Completion"] = "Coleman senden övgüyle bahsediyor, <name>, Agamand Değirmenleri'ne düzenlediğin başarılı baskınlardan anlatıyor.\n\nTerk Edilmişler'in yeteneklerine bir kez daha ihtiyacı var...",
+        ["minlevel"] = "0",
+        ["questlevel"] = "0"
+    },
 
     -- Arka Koruma Devriyesi
     ["356"] = {
@@ -3235,16 +3234,15 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end Arka Koruma Devriyesi
 
-    -- Lich'in Kimliği
     ["357"] = {
-    ["Title"]="Lich'in Kimliği",
-    ["Description"]="Kuzeydeki Parlaksu Gölü'ndeki adada yaşayan bir lich var. Özgür iradeli bir Korkmuş olmasına rağmen, diğer tüm Hortlakların Bela köleleri olduğuna inanır ve kölelerinin ona yaklaşan herkese saldırmasını sağlar.NEW_LINEAma Terkedilmiş olduğu için Kraliçe onu isteyecektir. Ve eğer Ölü Çağırma konusunda yetenekliyse, o zaman bilgisi bizim için... oldukça faydalı olacaktır.NEW_LINEKimliğini ve yeteneklerini keşfetmek için büyü kitabını görmeliyim. Kampına gir ve onu ele geçir, sonra da bana geri dön.",
-    ["Objectives"]="Lich'in Büyü Kitabı'nı Yeraltı Şehri'ndeki Bethor Iceshard'a getir.",
-    ["Progress"]="",
-    ["Completion"]="",
-    ["minlevel"]="0",
-    ["questlevel"]="0",
-    }, -- end Lich'in Kimliği
+        ["Title"] = "Lich'in Kimliği",
+        ["Description"] = "Kuzeydeki Parlaksu Gölü'ndeki adada yaşayan bir lich var. Özgür iradeli bir Terk Edilmiş olmasına rağmen, diğer tüm Hortlaklar'ın Afet kölesi olduğuna inanıyor ve minyonlarına kendisine yaklaşan herkese saldırmalarını emrediyor.\n\nAma Terk Edilmiş olduğu için Kraliçe onu isteyecektir. Ve eğer Necromancy sanatında becerikliyse, bilgisi bizim için... oldukça yararlı olacaktır.\n\nKimliğini ve yeteneklerini keşfetmek için büyü kitabını görmeliyim. Kampına gizlice sız ve kitabı ele geçir, ardından bana geri dön.",
+        ["Objectives"] = "Lich'in Büyü Kitabı'nı Yeraltı Şehri'ndeki Bethor Buzparçası'na getir.",
+        ["Progress"] = "<name>, kitabı ele geçirdin mi?",
+        ["Completion"] = "Çok iyi, <name>. Bu kitabı inceleyeceğim ve o lich'in kimliğini belirleyeceğim. Kraliçene iyi hizmet ettin.\n\n<Bethor kitabı açar ve parlayan sayfalarına dikkatle bakar...>\n\nŞaşırtıcı! Getirdiğin kitap Gunther Arcanus'tan başkasına ait değil!\n\nGunther yaşamındayken becerikli bir Necromancer'dı; Veba'dan önce onunla arkadaştık ve silah arkadaşıydık. Ve kitabından anlaşıldığı kadarıyla ölümünde daha da güçlenmiş.\n\nYetenekleri bizim için büyük bir lütuf olurdu.",
+        ["minlevel"] = "0",
+        ["questlevel"] = "0"
+    },
 
     -- Graverobbers
     ["358"] = {
@@ -3279,16 +3277,15 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end Yargıca Geri Dönüş
 
-    -- Teslim Edilmemiş Bir Mektup
     ["361"] = {
-    ["Title"]="Teslim Edilmemiş Bir Mektup",
-    ["Description"]="",
-    ["Objectives"]="Yvette Farthing'i bul ve Thurman Agamand'dan gelen mektubu ona teslim et.",
-    ["Progress"]="Evet mi? Evet mi?",
-    ["Completion"]="Oh... benim zavallı Thurman'ım! Agamand Değirmenlerini benimle ve babamla birlikte terk etmesi için ona yalvardım ama aile sadakati çok güçlüydü! Ve bunu biliyordum! Brand'in ona zarar vermek istediğini biliyordum! Lanet olsun bu vebaya ve belaya!NEW_LINE<Yvette'in yüzü yumuşar ve soğuklaşır>NEW_LINEAma pişmanlıklar zayıflar içindir. Bir Forsaken olarak yeni hedeflerim var ve aşk bunlardan biri değil. Bu mektubu bana ulaştırdığın için sana teşekkür ederim, çünkü geçmişteki aşkıma ne olduğunu merak ediyordum.NEW_LINEAma o hayat sona erdi. Sonsuza kadar.",
-    ["minlevel"]="0",
-    ["questlevel"]="0",
-    }, -- end Teslim Edilmemiş Bir Mektup
+        ["Title"] = "Teslim Edilmemiş Bir Mektup",
+        ["Description"] = "Bu mektup, Gregor Agamand'ın en büyük oğlu Thurman tarafından yazılmış. Yvette Farthing adına yazılmış ama görünüşe göre ona hiç ulaşmamış...",
+        ["Objectives"] = "Yvette Farthing'i bul ve ona Thurman Agamand'ın mektubunu teslim et.",
+        ["Progress"] = "Evet?",
+        ["Completion"] = "Oh... zavallı Thurman'ım! Agamand Değirmenleri'ni benimle ve babamla birlikte terk etmesi için ona yalvarmıştım, ama ailesine olan sadakati çok güçlüydü! Ve bunu biliyordum! Brand'in ona zarar vermek istediğini biliyordum!! Oh, lanet olsun bu Veba'ya ve Afet'e!\n\n<Yvette'in yüzü ardından yatışır ve soğuk bir hal alır.>\n\nAma pişmanlıklar zayıflar içindir. Bir Terk Edilmiş olarak yeni hedeflerim var ve aşk bunlardan biri değil. Bu mektubu teslim ettiğin için sana teşekkür ederim, çünkü geçmişteki aşkıma ne olduğunu merak ediyordum.\n\nAma o hayat bitti. Sonsuza dek.",
+        ["minlevel"] = "0",
+        ["questlevel"] = "0"
+    },
 
     -- Perili Değirmenler
     ["362"] = {
@@ -3378,16 +3375,15 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end Yeni Bir Veba
 
-    -- Kızıl Haçlılar ile Savaşta
     ["370"] = {
-    ["Title"]="Kızıl Haçlılar ile Savaşta",
-    ["Description"]="Yönetici Arren'den gelen stratejik belgeler, insan istilasını topraklardan temizlemek için ihtiyacımız olan tüm ayrıntıları içeriyor. Bilgiye göre, Kızıl Haçlılar Yüzbaşı Perrine ve bir tugayı Brill'in güneybatısındaki yıkık kuleye atamış.NEW_LINEPerrine'i 3 Zealot ve 3 Misyoner ile birlikte öldür ve bana rapor ver.",
-    ["Objectives"]="Brill'deki Yönetici Zygand Kaptan Perrine, 3 Kızıl Zealot ve 3 Kızıl Misyoneri öldürmenizi istiyor.",
-    ["Progress"]="",
-    ["Completion"]="",
-    ["minlevel"]="0",
-    ["questlevel"]="0",
-    }, -- end Kızıl Haçlılar ile Savaşta
+        ["Title"] = "Kızıl Haçlılar ile Savaşta",
+        ["Description"] = "İnfazcı Arren'den gelen stratejik belgeler, insan istilasını bu topraklardan silmek için ihtiyacımız olan tüm detayları barındırıyor. Bilgilere göre, Kızıl Haçlılar Brill'in güneybatısındaki yıkık kuleye Kaptan Perrine'i ve bir tugayı görevlendirmiş.\n\n3 Taassupçu ve 3 Misyoner ile birlikte Perrine'i katlet ve bana rapor ver.",
+        ["Objectives"] = "Brill'deki İnfazcı Zygand; Kaptan Perrine'i, 3 Kızıl Taassupçu'yu ve 3 Kızıl Misyoner'i katletmeni istiyor.",
+        ["Progress"] = "Genç <class>, halkının kendi davaları için savaşmana ihtiyacı varken burada Brill'de vaktini boşa harcamamalısın. Şimdi silahlan ve güneybatıya, yıkık kuleye seyahat et; 3 Kızıl Taassupçu ve 3 Kızıl Misyoner ile birlikte Kaptan Perrine'i katlet. Kızıl Haçlılar'ni bir sığır sürüsü gibi yok oluşlarına süreceğiz.",
+        ["Completion"] = "Kaptan Perrine'in ölümü hiç şüphesiz Karanlık Leydi'yi memnun edecektir. Görevini iyi yerine getirdin, <class>.",
+        ["minlevel"] = "0",
+        ["questlevel"] = "0"
+    },
 
     -- Kızıl Haçlılar ile Savaşta
     ["371"] = {
@@ -3736,16 +3732,15 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end Kokuşmuş Bir Görev
 
-    -- Savurgan Lich
-    ["405"] = {
-    ["Title"]="Savurgan Lich",
-    ["Description"]="",
-    ["Objectives"]="",
-    ["Progress"]="",
-    ["Completion"]="",
-    ["minlevel"]="0",
-    ["questlevel"]="0",
-    }, -- end Savurgan Lich
+   ["405"] = {
+        ["Title"] = "Hayırsız Lich",
+        ["Description"] = "Güneydeki Yeraltı Şehri'nde üst düzey ve güçlü bir büyücü olan Bethor Buzparçası, Afet'e karşı rüştünü ispatlamış bir ajanı kendisine göndermemi emrediyor. Sen, YOUR_NAME, o ajan olacaksın.\n\nBu emirleri Bethor'a sun. Ardından sana görevin hakkında talimat verecektir. Detaylarını bilmiyorum ama asi bir Lich'i bünyemize katmakla ilgili. Ve tehlikeli olacak.\n\nHazırlan, YOUR_CLASS. Başarısız olmamalısın.\n\nBethor'u Yeraltı Şehri'nin Büyü Mahallesi'nde bulabilirsin.",
+        ["Objectives"] = "Sevren'in Emirleri'ni Yeraltı Şehri'ndeki Bethor Buzparçası'na Sun.",
+        ["Progress"] = "Selamlar. Ya kim olduğumu bilmiyorsun ya da benimle olan işin acil.\n\nÇünkü bu ikisi de doğru olmasaydı, beni rahatsız edecek kadar aptal olmazdın...",
+        ["Completion"] = "Ah, Yargıç Sevren tarafından gönderilen ajansın. O halde evet, benimle olan işin kritik.\n\nSevren'in görevim için uygun birini topladığını umuyorum... ama göreceğiz.",
+        ["minlevel"] = "0",
+        ["questlevel"] = "0"
+    },
 
     -- Keder Tarlaları
     ["407"] = {
@@ -3970,8 +3965,8 @@ QuestTranslator_QuestData = {
         ["Title"] = "Kızıl Haçlılar ile Savaşta",
         ["Description"] = "İnfazcı Arren'in sağladığı belgeler, sefil Kızıl Haçlılar ile olan savaşımızda tam da ihtiyacımız olan fırsattı. Artık Tirisfal Koruları boyunca tam konumlarını biliyoruz.\n\nAncak Ölümmuhafızı'nın daha büyük kaygıları var. Lich King'in ordusu her gece sayıca büyüyor. Kızıl Haçlılar'ni mezara sürüklemek için senin gibi \"inisiyatif\" sahibi birine ihtiyacımız var.\n\nSolliden Çiftliği'nin ötesindeki kuleye, batıya seyahat edip 10 Kızıl Savaşçı katlederek Karanlık Leydi'ye hizmet etmeye muktedir olduğunu bana kanıtla.",
         ["Objectives"] = "Brill'deki İnfazcı Zygand 10 Kızıl Savaşçı katletmeni istiyor.",
-        ["Progress"] = "Karanlık Leydi'ye değerini kanıtlamak istiyorsan 10 Kızıl Savaşçı katlet, <class>.",
-        ["Completion"] = "Fevkalade, <class>. Dövüş sanatındaki becerin tartışılmaz.",
+        ["Progress"] = "Karanlık Leydi'ye değerini kanıtlamak istiyorsan 10 Kızıl Savaşçı katlet, YOUR_CLASS.",
+        ["Completion"] = "Fevkalade, YOUR_CLASS. Dövüş sanatındaki becerin tartışılmaz.",
         ["minlevel"] = "0",
         ["questlevel"] = "0"
     },
@@ -11181,7 +11176,7 @@ QuestTranslator_QuestData = {
     -- Halgar'ın Çağrısı
     ["1478"] = {
     ["Title"]="Halgar'ın Çağrısı",
-    ["Description"]="Ah, YOUR_NAME! Az önce Carendin Halgar'dan daha fazla eğitim için seni görmek istediğine dair bir haber aldım.NEW_LINEKendinle gurur duymalısın, YOUR_NAME. Üstat Halgar'ın genç bir büyücüyü  eğitmeye uygun gördüğü her gün olmuyor.NEW_LINEOnu Yeraltı Şehri'nin Sihirli Mahallesi'nde, Lanetliler Tapınağı'nın yakınında bulabilirsin.",
+    ["Description"]="Ah, YOUR_NAME! Az önce Carendin Halgar'dan daha fazla eğitim için seni görmek istediğine dair bir haber aldım.NEW_LINEKendinle gurur duymalısın, YOUR_NAME. Üstat Halgar'ın genç bir warlocku eğitmeye uygun gördüğü her gün olmuyor.NEW_LINEOnu Yeraltı Şehri'nin Sihirli Mahallesi'nde, Lanetliler Tapınağı'nın yakınında bulabilirsin.",
     ["Objectives"]="Yeraltı Şehri'nde Carendin Halgar ile konuş.",
     ["Progress"]="",
     ["Completion"]="Güzel, Ageron seni bulmayı başarmış, YOUR_NAME. Küçük konuşmalar ve şakalaşmalarla biraz zaman kaybedelim ve eğitimine odaklanalım. Hâlâ öğrenmen gereken çok şey var.",
@@ -28308,7 +28303,7 @@ QuestTranslator_QuestData = {
     ["Description"]="Bazı insanlarda da ne şans var ama! NEW_LINE<Austil, meyhanenin diğer ucundaki Coleman Metelik'e (Coleman Farthing) dik dik bakar.> NEW_LINE\"Oh, ailemi kaybettim, veba evimi elimden aldı.\" Durmadan konuşup duruyor! Anladık! Veba hepimizin evini ve hepimizin ailesini aldı. Ama en azından bazılarımız bu işten çenesi sağlam çıktı! NEW_LINE<Austil bir kemiği tekrar yerine oturtur.> NEW_LINEEğer bir işe yaramak istiyorsan bana biraz bandaj getir de benden geriye kalanları bir arada tutabileyim!",
     ["Objectives"]="Brill'deki İlmekucu Meyhanesi'nde (Gallows' End Tavern) bulunan Austil de Mon'a 10 adet Keten Bandaj (Linen Bandages) getir. Bandajları İlk Yardım (First Aid) yeteneğiyle yapabilir veya yeteneğe sahip birinden satın alabilirsin.",
     ["Progress"]="Geçen her dakika, parçalarımın benden kopup düşmesi için başka bir dakika, YOUR_NAME!",
-    ["Completion"]="<Austil bandajları alır ve gevşek duran bazı uzuvlarını yerine bağlamak için kullanır.> Ah, teşekkür ederim. Bu çok işe yarayacak. Daha önce sana çıkıştıysam kusura bakma. İnsanın bazı parçalarının her an kaçmakla tehdit etmesi, onu biraz huysuzlaştırmaya meyilli kılıyor haliyle. Ama şimdi çok daha iyi hissediyorum. Belki gidip şu ihtiyar Metelik ile bile konuşurum.",
+    ["Completion"]="<Austil bandajları alır ve gevşek duran bazı uzuvlarını yerine bağlamak için kullanır.> NEW_LINEAh, teşekkür ederim. Bu çok işe yarayacak. NEW_LINEDaha önce sana çıkıştıysam kusura bakma. İnsanın bazı parçalarının her an kaçmakla tehdit etmesi, onu biraz huysuzlaştırmaya meyilli kılıyor haliyle. Ama şimdi çok daha iyi hissediyorum. NEW_LINEBelki gidip şu ihtiyar Metelik ile bile konuşurum.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Don't Lose (Part Of) Your Head
