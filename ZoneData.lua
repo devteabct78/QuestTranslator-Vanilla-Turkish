@@ -1531,6 +1531,14 @@ ZoneTranslator_ZoneData = {
 ["Foulspore Cavern"] = "Kötüspor Mağarası",
 ["The Noxious Hollow"] = "Zehirli Oyuk",
 ["The Molten Span"] = "Erimiş Köprü",
+["Royal Quarter"] = "Kraliyet Mahallesi",
+["Sewers"] = "Lağımlar",
+["Hall of the Brave"] = "Cesurlar Salonu",
+["Magic Quarter"] = "Büyü Mahallesi",
+["Valley of Strength"] = "Kuvvet Vadisi",
+["Valley of Honor"] = "Onur Vadisi",
+["War Quarter"] = "Savaş Mahallesi",
+["Canals"] = "Kanallar",
 
 --123456789
 ["Hall of Crafting"] = "Zanaat Salonu",

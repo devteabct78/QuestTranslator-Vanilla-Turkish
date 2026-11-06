@@ -48,7 +48,7 @@ local raceTrNames = {
     ["Gnome"] = "Gnom",
     ["Orc"] = "Ork",
     ["Undead"] = "Ölümsüz",
-    ["Scourge"] = "Ölümsüz", -- Vanilla API'sinde Undead için sistem "Scourge" döndürür
+    ["Scourge"] = "Afet", -- Vanilla API'sinde Undead için sistem "Scourge" döndürür
     ["Tauren"] = "Tauren",
     ["Troll"] = "Trol"
 }
@@ -60,7 +60,7 @@ local classTrNames = {
     ["mage"] = "büyücü",
     ["rogue"] = "hırsız",
     ["priest"] = "rahip",
-    ["warlock"] = "cadı",
+    ["warlock"] = "sehhar",
     ["paladin"] = "paladin",
     ["druid"] = "druid",
     ["shaman"] = "şaman"

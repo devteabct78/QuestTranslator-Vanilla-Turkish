@@ -3971,16 +3971,15 @@ QuestTranslator_QuestData = {
         ["questlevel"] = "0"
     },
 
-    -- Kayıp Ölüm Avcıları
     ["428"] = {
-    ["Title"]="Kayıp Ölüm Avcıları",
-    ["Description"]="Tapınağımızı, onu korumak için kurduğumuz güvenliği parçalayarak kurtaracağım hiç aklıma gelmezdi ama işte buradayız! Zaman elementalleri temizlenmiş, Zaman Gezginlerimiz serbest kalmış ve Gardiyanlarımız hazır durumdayken, nihayet bu son durağanlık baloncuğunu da indirip Eternus'la başa çıkma zamanı geldi. Zamanla aşılanmış bu güvecimizin en önemli malzemesi sendin ve masamda YOUR_NAME olmadan son yemeğin tadını çıkarmaktan nefret ediyorum.",
-    ["Objectives"]="Ölüm Avcıları Quinn ve Rane Yorick'i bul.",
-    ["Progress"]="",
-    ["Completion"]="Bizi buldun! Ve bir an bile erken değil.",
-    ["minlevel"]="0",
-    ["questlevel"]="0",
-    }, -- end Kayıp Ölüm Avcıları
+        ["Title"] = "Kayıp Ölümizcileri",
+        ["Description"] = "Neredeyse iki hafta önce Ölümizcilerimizden ikisi, Rane ve Quinn Yorick, kuzey Gümüşçam boyunca bir keşif görevine gönderildi. Onlardan haber alamadık.\n\nAfet'in kurbanı olmuş olabilirler; eğer bu doğruysa bunu doğrulatmak istiyorum. Bu Ölümizcileri bul.\n\nİlk hedefleri kuzey Gümüşçam'daki çiftlikleri gözlemlemekti. Aramana oradan başlamalısın.",
+        ["Objectives"] = "Ölümizcileri Quinn ve Rane Yorick'i bul.",
+        ["Progress"] = "",
+        ["Completion"] = "Bizi buldun! Hem de tam zamanında...",
+        ["minlevel"] = "0",
+        ["questlevel"] = "0"
+    },
 
     -- Vahşi Kalpler
     ["429"] = {
@@ -4647,16 +4646,15 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end Bethor'a Değnek
 
-    -- Yeni Bir Veba
     ["492"] = {
-    ["Title"]="Yeni Bir Veba",
-    ["Description"]="Ölüm Muhafızlarına göre, şu aptal Cüce Dağlılardan biri daha az önce yakalanmış. Ölüm Muhafızları, Darağacı Ucu Meyhanesi'nin mahzenini, mahkumlarla \\",
-    ["Objectives"]="Johaan'ın özel içkisini yakalanan dağcıya getirin.",
-    ["Progress"]="Güvenilir tüfeğimi alsaydım, ölmüş olurdun, YOUR_CLASS. Buharlı Tank Tugayı beni kurtarmak için gelene kadar bekle!",
-    ["Completion"]="Ah, sonunda bir içki. Rhapsody Malt olmadığına eminim ama bu noktada eski düdüğümü çalmak için her şeyi kabul ederim.",
-    ["minlevel"]="0",
-    ["questlevel"]="0",
-    }, -- end Yeni Bir Veba
+        ["Title"] = "Yeni Bir Veba",
+        ["Description"] = "Ölümmuhafızı'nın söylediğine göre, o aptal Cüce Dağcılar'dan biri daha henüz yakalanmış. Ölümmuhafızı, tutsaklarla \"gerektiği gibi\" ilgilenilene kadar Darağacı Sonu Meyhanesi'nin mahzenini nezarethane olarak kullanmayı seviyor.\n\nGidip Yakalanan Dağcı'nın kendisi için hazırladığım bu özel içecekten nasıl keyif aldığına baksana? İçecek, Karanlık Leydi'nin Azeroth'un geri kalanı için planladıklarının küçük bir ipucunu barındırıyor.",
+        ["Objectives"] = "Johaan'ın Özel İçeceği'ni Yakalanan Dağcı'ya getir.",
+        ["Progress"] = "Güvenilir tüfeğim yanımda olsaydı çoktan ölmüştün, <class>. Buhar Tankı Tugayı beni kurtarmaya gelene kadar bekle sen!",
+        ["Completion"] = "Ah, nihayet bir içecek. Rapsodi Maltı olmadığını biliyorum ama bu raddede boğazımı ıslatacak her şeyi kabul ederim.",
+        ["minlevel"] = "0",
+        ["questlevel"] = "0"
+    },
 
     -- Hillsbrad Foothills'e Yolculuk
     ["493"] = {
@@ -17913,16 +17911,15 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end Kayıp El Çantasını Geri Getirme
 
-    -- Yok Etme Gücü...
     ["5725"] = {
-    ["Title"]="Yok Etme Gücü...",
-    ["Description"]="Bildiğiniz gibi Lejyon'un pek çok sakini takipçilerine hediyeler bahşeder. Karanlık Leydi bu hediyelerden bazılarının daha az vizyon sahibi kişilerin elinde olmasındansa kendi elinde olmasının daha iyi olacağını düşünüyor.NEW_LINEGölge Konseyi'nin Orgrimmar'ın altındaki mağaralarda saklanan ve Keskin Bıçak olarak bilinen bir mezhebi buna en iyi örnektir. Leydi bana Yanan Bıçak üyelerinin iki güçlü büyü kitabına sahip olduğunu söyledi - bu kitapları onlardan \\",
-    ["Objectives"]="Gölgenin Büyüleri ve Cehennemden Büyüler kitaplarını Yeraltı Şehri'ndeki Varimathras'a getirin.",
-    ["Progress"]="İlgimi bekleyen yüzlerce başka görev var, YOUR_CLASS. Kitaplar sende mi?",
-    ["Completion"]="Güzel, YOUR_CLASS. Karanlık Leydi'ye hizmet ederek iyi iş çıkardınız. Devam eden azmin ve hırsın Leydi'nin tebaası için çok faydalı olacak. Gelecekte bana tekrar gel. Belki senin için Karanlık Leydi'nin Lich King'i alt etme ve Bela'yı tamamen özgür bırakma çabalarına yardımcı olacak başka görevlerim de olur.",
-    ["minlevel"]="0",
-    ["questlevel"]="0",
-    }, -- end Yok Etme Gücü...
+        ["Title"] = "Yok Etme Gücü...",
+        ["Description"] = "Bilebileceğin üzere, Lejyon'un pek çok sakini takipçilerine hediyeler bahşeder. Karanlık Leydi, bu hediyelerin bazılarının... daha dar görüşlü kişilerin ellerinden ziyade kendi ellerinde olmasının daha iyi olacağını düşünüyor.\n\nOrgrimmar'ın altındaki mağaralarda gizlenen ve Yakıcı Bıçak olarak bilinen Gölge Konseyi mezhebi bunun en belirgin örneğidir. Leydi, Yakıcı Bıçak üyelerinin iki güçlü büyü kitabını ele geçirdiğini söyledi--bu kitapları onlardan \"ödünç almak\" istiyor. Onları onun için alacaksın.",
+        ["Objectives"] = "Gölge Büyüleri ve Feza Duaları kitaplarını Yeraltı Şehri'ndeki Varimathras'a getir.",
+        ["Progress"] = "Dikkatimi bekleyen yüzlerce başka görev var, <class>. Kitapları aldın mı?",
+        ["Completion"] = "Güzel, <class>. Karanlık Leydi'ye hizmet etme konusunda iyi iş çıkardın. Süregelen azmin ve hırsın, Leydi'nin tebaası için büyük yarar sağlayacaktır. Gelecekte tekrar yanıma gel. Belki Karanlık Leydi'nin Lich King'i alt etme ve Afet'i tamamen özgürleştirme çabalarına yardımcı olacak başka görevlerim olur senin için.",
+        ["minlevel"] = "0",
+        ["questlevel"] = "0"
+    },
 
     -- Gizli Düşmanlar
     ["5726"] = {
@@ -18737,16 +18734,15 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end Yeniden Doğuş Döngüsü
 
-    -- Brill'e Tedarik
     ["6321"] = {
-    ["Title"]="Brill'e Tedarik",
-    ["Description"]="Yönetici Zygand benden Brill'deki teçhizatımızı gözden geçirmemi istedi. Bela ve daha kötüsü ormanda gizlenirken, Ölüm Muhafızlarının ihtiyaç duyabilecekleri teçhizattan yoksun kalmasını istemiyor.NEW_LINEGenel olarak iyi stoklanmış olduğumuzu gördüm, ancak sahada kaybettiklerimizin yerine daha fazla silaha ihtiyacımız var.NEW_LINEİşte Yeraltı Şehri'ndeki silah tüccarı Gordon Wendham için ihtiyaç duyulan şeylerin bir talep emri. Siparişi Yarasa İdarecisi Anette'e götürün ve onunla Yeraltı Şehri'ne nakil hakkında konuşun.",
-    ["Objectives"]="Morris'in emrini Yarasa İdarecisi Anette'ye getirin.",
-    ["Progress"]="Resmi bir iş için gelmiş gibi görünüyorsun.",
-    ["Completion"]="Erzak siparişi. Şüphesiz bunu Yeraltı Şehri'ne götürmek isteyeceksiniz. Ve çabuk, çünkü Brill stoksuz bırakılmamalı.",
-    ["minlevel"]="0",
-    ["questlevel"]="0",
-    }, -- end Brill'e Tedarik
+        ["Title"] = "Kabristan'a İkmal",
+        ["Description"] = "İnfazcı Hadrec benden Kabristan'daki teçhizatımızın envanterini çıkarmamı istedi. Ormanda gizlenen Afet ve daha da kötüsü varken, Ölümmuhafızları'nın ihtiyaç duyabilecekleri teçhizattan yoksun kalmasını istemiyor.\n\nGenel olarak stoklarımızın iyi durumda olduğunu gördüm, ancak sahada kaybedilenlerin yerine daha fazla silaha ihtiyacımız var.\n\nİşte Yeraltı Şehri'ndeki silah tüccarı Gordon Rüzgarham'a iletilmek üzere ihtiyaç duyulanların talep emri. Bu emri yarasa ustamız Karos Razok'a götür ve Yeraltı Şehri'ne ulaşım hakkında onunla konuş.",
+        ["Objectives"] = "Podrig'in Emri'ni Karos Razok'a getir.",
+        ["Progress"] = "Resmi bir görevde gibisin...",
+        ["Completion"] = "Ah, malzemenin talep emri. Şüphe yok ki bunu Yeraltı Şehri'ne götürmek isteyeceksin. Hem de hızlıca, çünkü Kabristan stoksuz bırakılmamalı.",
+        ["minlevel"] = "0",
+        ["questlevel"] = "0"
+    },
 
     -- Michael Garrett
     ["6322"] = {
@@ -22755,7 +22751,7 @@ QuestTranslator_QuestData = {
 -- A Friend in Glenshire
     ["40086"] = {
     ["Title"]="Glenshire'da Bir Dost",
-    ["Description"]="Böyle kendinden emin adımlarla yürümenizden dünyayı iyi bildiğiniz anlaşılıyor. Sizin gibi birine ihtiyacım var. Glenshire'da bir arkadaşım var. Tirisfal'ın uzak batısında, Uplands'in içindedir. Teslim edilmesi gereken biraz metali var ve siz tam bu işe uygun birine benziyorsunuz. Girişi Solliden's Farmstead'in batısında bulabilirsiniz. Kapıdan geçin ve Glenshire'a ulaşana kadar yolu düz takip edin. En güvenli yol olmayabilir ama bunun üstesinden gelebilirsiniz. Yolda bir yol ayrımı olabilir, sanırım sola dönüyorsunuz... eğer doğru hatırlıyorsam. Marlow Neggle kasabada bir yerlerde olmalı. Bu sevkiyatı ona götürün.",
+    ["Description"]="Böyle kendinden emin adımlarla yürümenizden dünyayı iyi bildiğiniz anlaşılıyor. Sizin gibi birine ihtiyacım var. Glenshire'da bir arkadaşım var. Tirisfal'ın uzak batısında, Uplands'in içindedir. Teslim edilmesi gereken biraz metali var ve siz tam bu işe uygun birine benziyorsunuz. NEW_LINEGirişi Solliden's Farmstead'in batısında bulabilirsiniz. Kapıdan geçin ve Glenshire'a ulaşana kadar yolu düz takip edin. En güvenli yol olmayabilir ama bunun üstesinden gelebilirsiniz. NEW_LINEYolda bir yol ayrımı olabilir, sanırım sola dönüyorsunuz... eğer doğru hatırlıyorsam. Marlow Neggle kasabada bir yerlerde olmalı. Bu sevkiyatı ona götürün.",
     ["Objectives"]="Marlow's Ore Shipment'ı Glenshire'da bulunan Marlow Neggle'a teslim edin.",
     ["Progress"]="Merhaba, yardımcı olabilir miyim?",
     ["Completion"]="Seni Gordon göndermiş olmalı, hem de tam zamanında. Burada, Glenshire'da her zaman istikrarlı bir yardım yardımı dokunmuştur. O olmasaydı, çalışırken tamamen şanssız kalırdım.",
@@ -44755,10 +44751,10 @@ QuestTranslator_QuestData = {
     -- Rogue Enforcers -> Haydut Fedaileri, Rogue Conjurers -> Haydut Sihirbazları, Harry Upperson -> Harry Yukarioğlu kalmıştır, Glenshire = Glenshire. harness magical power dent -> sihirsel güçlerini dizginlemeye başlamadan önce hızlı hareket etmeliyiz. Haydut Büyücülere kesinlikle bir darbe  vurduk (put a dent), ama hala yapılacak daha çok şey olduğunu hissediyorum.
     ["40083"] = {
     ["Title"]="Haydut Tepeleri",
-    ["Description"]="Lordaeron (Lordaeron) çöküşün eşiğindeyken, kendimi arkana büyüsüne (arcane magic) yeteneği olan bir grup gezgin büyücü ve yankesiciyle (footpads) birlikte buldum. Kendilerine Haydut Büyücüler (Rogue Wizards) diyorlardı ve sonum onlarla  oldu. Dost saydıklarım, devrilmiş bir ağacın altında mahsur kalmış yatarken yardım etmeye bile yeltenmeden beni ölüme terk ettiler. Bu insanları cezalandırmak istiyorum ve sen de bana bunu yapmamda yardım edeceksin! Bir süredir Haydut Tepeleri'nde (Rogue Heights)  barınan büyüyen bir güç hissediyorum. Bu arkana gücünün büyüdüğünü hissettiğim için şüphesiz bir şeyler planlıyorlar. Katledilemeyecek kadar güçlenmeden önce onlarla ilgilenmemiz gerekiyor. Onları Glenshire'ın hemen kuzeydoğusunda bulabilirsin. Haydut Tepeleri'nden geçen küçük bir patika (pathway) var. Oraya seyahat et ve onları benim için katlet.",
+    ["Description"]="Lordaeron çöküşün eşiğindeyken, kendimi arkana büyüsüne yeteneği olan bir grup gezgin büyücü ve yankesiciyle birlikte buldum. Kendilerine Haydut Büyücüler (Rogue Wizards) diyorlardı ve sonum onlarla  oldu. Dost saydıklarım, devrilmiş bir ağacın altında mahsur kalmış yatarken yardım etmeye bile yeltenmeden beni ölüme terk ettiler. NEW_LINEBu insanları cezalandırmak istiyorum ve sen de bana bunu yapmamda yardım edeceksin! Bir süredir Haydut Tepeleri'nde (Rogue Heights)  barınan büyüyen bir güç hissediyorum. Bu arkana gücünün büyüdüğünü hissettiğim için şüphesiz bir şeyler planlıyorlar. Katledilemeyecek kadar güçlenmeden önce onlarla ilgilenmemiz gerekiyor. Onları Glenshire'ın hemen kuzeydoğusunda bulabilirsin. Haydut Tepeleri'nden geçen küçük bir patika var. Oraya seyahat et ve onları benim için katlet.",
     ["Objectives"]="Haydut Tepeleri'ne (Rogue Heights) seyahat et ve Glenshire'daki Harry Upperson için 6 Haydut Fedaisi (Rogue Enforcers) ve 6 Haydut Sihirbazı (Rogue Conjurers) katlet.",
-    ["Progress"]="Sihirsel güçlerini dizginlemeye (harness) başlamadan önce hızlı hareket etmeliyiz .",
-    ["Completion"]="Mükemmel iş. O Haydut Büyücülere kesinlikle bir darbe  vurduk (put a dent), ama hala yapılacak daha çok şey olduğunu hissediyorum.",
+    ["Progress"]="Sihirsel güçlerini dizginlemeye başlamadan önce hızlı hareket etmeliyiz .",
+    ["Completion"]="Mükemmel iş. O Haydut Büyücülere kesinlikle bir darbe vurduk, ama hala yapılacak daha çok şey olduğunu hissediyorum.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end The Rogue Heights
