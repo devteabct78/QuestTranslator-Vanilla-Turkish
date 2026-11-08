@@ -3218,7 +3218,7 @@ QuestTranslator_QuestData = {
         ["Description"] = "Bana Agamandların kalıntılarını verdin ve intikam arzumu tatmin ettin. Ancak Agamand Değirmenleri sadece benim için değil, tüm Terk Edilmişler için bir tehdit barındırıyor.\n\nYargıç Sevren ile Agamandlara karşı gösterdiğin başarılar hakkında konuştum ve seninle görüşmek istiyor.",
         ["Objectives"] = "Brill'deki Yargıç Sevren ile konuş.",
         ["Progress"] = "",
-        ["Completion"] = "Coleman senden övgüyle bahsediyor, <name>, Agamand Değirmenleri'ne düzenlediğin başarılı baskınlardan anlatıyor.\n\nTerk Edilmişler'in yeteneklerine bir kez daha ihtiyacı var...",
+        ["Completion"] = "Coleman senden övgüyle bahsediyor, YOUR_NAME, Agamand Değirmenleri'ne düzenlediğin başarılı baskınlardan anlatıyor.\n\nTerk Edilmişler'in yeteneklerine bir kez daha ihtiyacı var...",
         ["minlevel"] = "0",
         ["questlevel"] = "0"
     },
@@ -3238,8 +3238,8 @@ QuestTranslator_QuestData = {
         ["Title"] = "Lich'in Kimliği",
         ["Description"] = "Kuzeydeki Parlaksu Gölü'ndeki adada yaşayan bir lich var. Özgür iradeli bir Terk Edilmiş olmasına rağmen, diğer tüm Hortlaklar'ın Afet kölesi olduğuna inanıyor ve minyonlarına kendisine yaklaşan herkese saldırmalarını emrediyor.\n\nAma Terk Edilmiş olduğu için Kraliçe onu isteyecektir. Ve eğer Necromancy sanatında becerikliyse, bilgisi bizim için... oldukça yararlı olacaktır.\n\nKimliğini ve yeteneklerini keşfetmek için büyü kitabını görmeliyim. Kampına gizlice sız ve kitabı ele geçir, ardından bana geri dön.",
         ["Objectives"] = "Lich'in Büyü Kitabı'nı Yeraltı Şehri'ndeki Bethor Buzparçası'na getir.",
-        ["Progress"] = "<name>, kitabı ele geçirdin mi?",
-        ["Completion"] = "Çok iyi, <name>. Bu kitabı inceleyeceğim ve o lich'in kimliğini belirleyeceğim. Kraliçene iyi hizmet ettin.\n\n<Bethor kitabı açar ve parlayan sayfalarına dikkatle bakar...>\n\nŞaşırtıcı! Getirdiğin kitap Gunther Arcanus'tan başkasına ait değil!\n\nGunther yaşamındayken becerikli bir Necromancer'dı; Veba'dan önce onunla arkadaştık ve silah arkadaşıydık. Ve kitabından anlaşıldığı kadarıyla ölümünde daha da güçlenmiş.\n\nYetenekleri bizim için büyük bir lütuf olurdu.",
+        ["Progress"] = "YOUR_NAME, kitabı ele geçirdin mi?",
+        ["Completion"] = "Çok iyi, YOUR_NAME. Bu kitabı inceleyeceğim ve o lich'in kimliğini belirleyeceğim. Kraliçene iyi hizmet ettin.\n\n<Bethor kitabı açar ve parlayan sayfalarına dikkatle bakar...>\n\nŞaşırtıcı! Getirdiğin kitap Gunther Arcanus'tan başkasına ait değil!\n\nGunther yaşamındayken becerikli bir Necromancer'dı; Veba'dan önce onunla arkadaştık ve silah arkadaşıydık. Ve kitabından anlaşıldığı kadarıyla ölümünde daha da güçlenmiş.\n\nYetenekleri bizim için büyük bir lütuf olurdu.",
         ["minlevel"] = "0",
         ["questlevel"] = "0"
     },
@@ -3379,8 +3379,8 @@ QuestTranslator_QuestData = {
         ["Title"] = "Kızıl Haçlılar ile Savaşta",
         ["Description"] = "İnfazcı Arren'den gelen stratejik belgeler, insan istilasını bu topraklardan silmek için ihtiyacımız olan tüm detayları barındırıyor. Bilgilere göre, Kızıl Haçlılar Brill'in güneybatısındaki yıkık kuleye Kaptan Perrine'i ve bir tugayı görevlendirmiş.\n\n3 Taassupçu ve 3 Misyoner ile birlikte Perrine'i katlet ve bana rapor ver.",
         ["Objectives"] = "Brill'deki İnfazcı Zygand; Kaptan Perrine'i, 3 Kızıl Taassupçu'yu ve 3 Kızıl Misyoner'i katletmeni istiyor.",
-        ["Progress"] = "Genç <class>, halkının kendi davaları için savaşmana ihtiyacı varken burada Brill'de vaktini boşa harcamamalısın. Şimdi silahlan ve güneybatıya, yıkık kuleye seyahat et; 3 Kızıl Taassupçu ve 3 Kızıl Misyoner ile birlikte Kaptan Perrine'i katlet. Kızıl Haçlılar'ni bir sığır sürüsü gibi yok oluşlarına süreceğiz.",
-        ["Completion"] = "Kaptan Perrine'in ölümü hiç şüphesiz Karanlık Leydi'yi memnun edecektir. Görevini iyi yerine getirdin, <class>.",
+        ["Progress"] = "Genç YOUR_CLASS, halkının kendi davaları için savaşmana ihtiyacı varken burada Brill'de vaktini boşa harcamamalısın. Şimdi silahlan ve güneybatıya, yıkık kuleye seyahat et; 3 Kızıl Taassupçu ve 3 Kızıl Misyoner ile birlikte Kaptan Perrine'i katlet. Kızıl Haçlılar'ni bir sığır sürüsü gibi yok oluşlarına süreceğiz.",
+        ["Completion"] = "Kaptan Perrine'in ölümü hiç şüphesiz Karanlık Leydi'yi memnun edecektir. Görevini iyi yerine getirdin, YOUR_CLASS.",
         ["minlevel"] = "0",
         ["questlevel"] = "0"
     },
@@ -3907,16 +3907,15 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end Değerinizi Kanıtlayın
 
-    -- Arugal'ın Aptallığı
     ["422"] = {
-    ["Title"]="Arugal'ın Aptallığı",
-    ["Description"]="Arugal'ın Kirin Tor'da nasıl kabul gördüğü beni aşıyor. Büyü yapma bilgisi üflenmiş bir cam biblo kadar şeffaf görünüyordu.NEW_LINEŞimdi önemli olan Arugal'ın tam olarak hangi büyüyü kullandığını öğrenmek, böylece büyüyü ona karşı kullanabilir ve Silverpine Ormanı'nı Karanlık Leydi için güvence altına alabilirim.NEW_LINEArugal önce köprünün hemen kuzeyindeki buğday çiftliğinde kaldı. Ölüm Avcılarından biri bazı büyü kitapları gördüğünü söyledi ama onları ele geçiremedi. Benim için o kitaplardan Arugal'ın Çaresi adlı büyüyü getir.",
-    ["Objectives"]="Mezar'daki Dalar Şafak Dokuyucusu için Arugal'ın İlacını al.",
-    ["Progress"]="",
-    ["Completion"]="",
-    ["minlevel"]="0",
-    ["questlevel"]="0",
-    }, -- end Arugal'ın Aptallığı
+        ["Title"] = "Arugal'ın Çılgınlığı",
+        ["Description"] = "Arugal'ın Kirin Tor bünyesinde kabul görmesini aklım almıyor. Büyü yapma bilgisi üfleme camdan bir süs eşyası kadar şeffaf görünüyordu.\n\nŞimdi önemli olan, Arugal'ın tam olarak hangi büyüyü kullandığını öğrenmek; böylece onu kendisine karşı çevirebilir ve Gümüşçam Ormanı'nı Karanlık Leydi için emniyete alabilirim.\n\nArugal ilk olarak köprünün hemen kuzeyindeki buğday çiftliğinde kaldı. Ölümizcilerinden biri bazı büyü kitapları gördüğünü bildirdi ancak onları ele geçiremedi. O kitaplardan Arugal'ın İlacı etiketli büyüyü getir bana.",
+        ["Objectives"] = "Kabristan'daki Dalar Şafakdokuyan için Arugal'ın İlacı'nı getir.",
+        ["Progress"] = "Burada neyle karşı karşıya olduğumuzu öğrenmeden önce, YOUR_CLASS, Arugal'ın İlacı olarak bilinen büyüyü incelemem gerekiyor. Onu bana hemen getir, yoksa kendime kayda değer bir hizmetkar bulmak zorunda kalacağım.",
+        ["Completion"] = "Tam olarak aradığım büyü buydu, YOUR_CLASS. Eğer Karanlık Leydi'nin davasına olan bağlılığın kusursuz kalırsa, Terk Edilmişler arasında epey parlak bir geleceğe sahip olacağını göreceksin.",
+        ["minlevel"] = "0",
+        ["questlevel"] = "0"
+    },
 
     -- Arugal'ın Aptallığı
     ["423"] = {
@@ -3940,16 +3939,15 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end Arugal'ın Aptallığı
 
-    -- Faul Ivar
-    ["425"] = {
-    ["Title"]="Faul Ivar",
-    ["Description"]="Kardeşim Quinn ve ben Silverpine Ormanı'nda keşif yapıp Yüce Yönetici Hadrec'e rapor vermekle görevlendirilmiştik. Ama fazla uzağa gidemedik -- bu çiftlikten geçerken Gulyabani Ivar tarafından saldırıya uğradık.NEW_LINEIvar'dan kaçtık ama Quinn'i ciddi şekilde yaraladı. Ona verdiğin iksir sayesinde iyileşiyor ama Quinn iyileşmeden Ivar geri dönebilir.NEW_LINEIvar'ı öldür ki Quinn'in iyileşmek için zamanı olsun. Ivar genellikle ahırda gardımın düşmesini bekler.",
-    ["Objectives"]="İğrenç Ivar'ı öldür ve Ivar'ın Kafasını Ivar Yaması'ndaki Rane Yorick'e getir.",
-    ["Progress"]="Ivar the Foul'u öldürdün mü? Eğer bunu benim ve kardeşim için yapmayacaksan, o zaman Forsaken için yap.",
-    ["Completion"]="Ah, teşekkür ederim. Sana minnettarım, YOUR_NAME.NEW_LINEVe üstlerime vereceğim rapora seni de ekleyeceğim.",
-    ["minlevel"]="0",
-    ["questlevel"]="0",
-    }, -- end Faul Ivar
+   ["425"] = {
+        ["Title"] = "Aşağılık Ivar",
+        ["Description"] = "Erkek kardeşim Quinn ve ben Gümüşçam Ormanı'nı keşfetmek ve Yüce İnfazcı Hadrec'e rapor vermekle görevlendirildik. Ama fazla uzaklaşamadık -- bu çiftlikten geçerken hortlak Aşağılık Ivar'ın saldırısına uğradık.\n\nIvar'dan kaçmayı başardık ama Quinn'i ağır bir şekilde parçaladı. Ona verdiğin iksir sayesinde iyileşiyor ancak Quinn toparlanamadan Ivar geri dönebilir.\n\nQuinn'in iyileşmeye vakti olması için Ivar'ı öldür. Ivar genellikle ötedeki samandağında, gardımın düşmesini bekliyor.",
+        ["Objectives"] = "Aşağılık Ivar'ı katlet ve Ivar'ın Kafası'nı Ivar Tarlası'ndaki Rane Yorick'e getir.",
+        ["Progress"] = "Aşağılık Ivar'ı öldürdün mü? Kardeşim ve benim için yapmayacaksan, Terk Edilmişler için yap.",
+        ["Completion"] = "Ah, teşekkür ederim. Minnetimi kazandın, <name>.\n\nVe üstlerime sunacağım raporda senden de bahsedeceğim.",
+        ["minlevel"] = "0",
+        ["questlevel"] = "0"
+    },
 
     ["426"] = {
         ["Title"] = "Değirmenler İstila Edildi",
@@ -3981,16 +3979,15 @@ QuestTranslator_QuestData = {
         ["questlevel"] = "0"
     },
 
-    -- Vahşi Kalpler
-    ["429"] = {
-    ["Title"]="Vahşi Kalpler",
-    ["Description"]="Kardeşim Quinn, Gulyabani Ivar tarafından kötü bir şekilde yaralandı ve büyülü yardım olmadan düzgün bir şekilde iyileşip iyileşmeyeceğini bilmiyorum. Bir eczacı olmasam da, eczacılarımızın kurtların rengi atmış kalplerinden iyileştirici iksirler yapabildiğini biliyorum.NEW_LINEBu kalpleri toplayın ve güneydeki Mezarlık'ta bulunan Eczacı Renferrel'e götürün. Sonra iksirle buraya dön.NEW_LINEBurası ile doğudaki Malden's Orchard arasında bir sürü dünya bulabilirsin.",
-    ["Objectives"]="6 renksiz kurt kalbi toplayın ve bunları Mezarlık'taki Eczacı Renferrel'e götürün.",
-    ["Progress"]="",
-    ["Completion"]="",
-    ["minlevel"]="0",
-    ["questlevel"]="0",
-    }, -- end Vahşi Kalpler
+   ["429"] = {
+        ["Title"] = "Vahşi Kalpler",
+        ["Description"] = "Erkek kardeşim Quinn, Aşağılık Ivar adlı hortlak tarafından ağır şekilde yaralandı ve büyü yardımı olmadan düzgünce iyileşip iyileşmeyeceğini bilmiyorum. Ben bir eczacı olmasam da, eczacılarımızın worgların rengi atmış kalplerinden iyileştirme iksirleri yapabildiğini biliyorum.\n\nBu tür kalplerden topla ve güneydeki Kabristan'da bulunan Eczacı Renferrel'e götür. Ardından iksirle birlikte buraya geri dön.\n\nBurası ile doğudaki Malden'ın Meyve Bahçesi arasında bolca worg bulabilirsin.",
+        ["Objectives"] = "6 adet rengi atmış worg kalbi topla ve onları Kabristan'daki Eczacı Renferrel'e getir.",
+        ["Progress"] = "Vaktim az, YOUR_CLASS, çünkü Karanlık Leydi beni ağır bir görevle görevlendirdi.",
+        ["Completion"] = "<Renferrel kalpleri alır.>\n\nÖlümizcilerimizin görevlerinde başarısız olduğunu duymak endişe verici.\n\nUmalım da bu başarısızlıklar nadir olsun.\n\nSana iksiri birazdan vereceğim ama işte tarifi — eğer o Ölümizciler gelecekte tekrar yardıma ihtiyaç duyarlarsa, belki yardımı kendin yapabilirsin.",
+        ["minlevel"] = "0",
+        ["questlevel"] = "0"
+    },
 
     -- Quinn'e geri dön
     ["430"] = {
@@ -4080,27 +4077,25 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end Ölü Tarlalar
 
-    -- Çürümüş Feribot
     ["438"] = {
-    ["Title"]="Çürümüş Feribot",
-    ["Description"]="YOUR_NAME Bela için yeni bir kovan keşfettik: Çürümüş Feribot. Feribot, Mezar'ın doğusunda yer alıyor ve çürümüş deriler ve diğer ölümsüzler tarafından yoğun bir şekilde devriye geziliyor.NEW_LINEScourge'un bölgeyi işgal etmesinin bir sebebi olmalı. Çürümüş Feribot'a git ve Scourge'ların neden orada olduğunu öğren.",
-    ["Objectives"]="Çürümüş Feribot'a git.NEW_LINEScourge'un orada olma sebebini araştır.",
-    ["Progress"]="",
-    ["Completion"]="Bu teknenin içinde bir yığın sarılmış ceset var. Lordamere Gölü'nün doğusuna bakıldığında Fenris Adası'ndaki karşı iskele görülebilir.NEW_LINECesetlerin kaderi Fenris Adası'nda yatıyor olmalı.",
-    ["minlevel"]="0",
-    ["questlevel"]="0",
-    }, -- end Çürümüş Feribot
+        ["Title"] = "Harap Feribot",
+        ["Description"] = "YOUR_NAME, Afet için yeni bir yuva keşfettik: Harap Feribot. Feribot, Kabristan'ın doğusunda yer alıyor ve çürükderiler ile diğer hortlaklar tarafından yoğun şekilde devriye geziliyor.\n\nAfet'in bölgeyi işgal etmesinin bir nedeni olmalı. Harap Feribot'a git ve Afet'in neden orada olduğunu öğren.",
+        ["Objectives"] = "Harap Feribot'a git.\n\nAfet'in orada bulunma nedenini araştır.",
+        ["Progress"] = "",
+        ["Completion"] = "Bu teknenin içinde sarılmış cesetlerden oluşan bir yığın var. Ve Lordamere Gölü'nün doğusuna doğru bakıldığında, Fenris Adası'ndaki karşı iskele görülebiliyor.\n\nCesetlerin kaderi Fenris Adası'nda yatıyor olmalı.",
+        ["minlevel"] = "0",
+        ["questlevel"] = "0"
+    },
 
-    -- Rot İpuçlarını Gizle
     ["439"] = {
-    ["Title"]="Rot İpuçlarını Gizle",
-    ["Description"]="Cesetlerin arasından açılmış bir el çıkıyor. Bu bir kadının eli, vebadan dolayı çukurlaşmış ama nispeten taze.NEW_LINEElin üzerinde bir yüzük var. Yüzük çıkarılıp incelendiğinde bir oyma ortaya çıkıyor:NEW_LINE\\",
-    ["Objectives"]="Deliah'ın Yüzüğü'nü Mezar'daki Yüksek Yönetici Hadrec'e getirin.",
-    ["Progress"]="YOUR_NAME. Döndüğünüze göre araştırmalarınız sonuç vermiş olmalı.",
-    ["Completion"]="Bu yüzüğün yakın zamanda öldürülen bir kadın tarafından takıldığını mı söylüyorsun? Böyle bir cesedin yakınlardaki tek kaynağı Tirisfal'deki toplu mezarlar olabilir. Çürük Saklı Gnolllar o cesetleri Fenris Adası'na götürüyor olmalı!",
-    ["minlevel"]="0",
-    ["questlevel"]="0",
-    }, -- end Rot İpuçlarını Gizle
+        ["Title"] = "Çürükderi İpuçları",
+        ["Description"] = "Cesetlerin arasından sarılmamış bir el dışarı uzanıyor. Bu bir kadının eli, vebadan delik deşik olmuş ama nispeten taze.\n\nElin parmağında bir yüzük var. Yüzüğü çıkarıp incelediğinde bir işlemeyle karşılaşıyorsun:\n\n\"Deliah İçin\"",
+        ["Objectives"] = "Deliah'nın Yüzüğü'nü Kabristan'daki Yüce İnfazcı Hadrec'e getir.",
+        ["Progress"] = "YOUR_NAME. Geri döndün, araştırmalarının meyve verdiğini varsayıyorum?",
+        ["Completion"] = "Bu yüzüğün yakın zamanda öldürülmüş bir kadın tarafından takıldığını mı söylüyorsun?\n\nBöyle bir cesedin yakındaki tek kaynağı Tirisfal'daki toplu mezarlar olurdu. Çürükderi Gnolları o cesetleri Fenris Adası'na götürüyor olmalı!",
+        ["minlevel"] = "0",
+        ["questlevel"] = "0"
+    },
 
     -- Oymalı Yüzük
     ["440"] = {
@@ -4650,7 +4645,7 @@ QuestTranslator_QuestData = {
         ["Title"] = "Yeni Bir Veba",
         ["Description"] = "Ölümmuhafızı'nın söylediğine göre, o aptal Cüce Dağcılar'dan biri daha henüz yakalanmış. Ölümmuhafızı, tutsaklarla \"gerektiği gibi\" ilgilenilene kadar Darağacı Sonu Meyhanesi'nin mahzenini nezarethane olarak kullanmayı seviyor.\n\nGidip Yakalanan Dağcı'nın kendisi için hazırladığım bu özel içecekten nasıl keyif aldığına baksana? İçecek, Karanlık Leydi'nin Azeroth'un geri kalanı için planladıklarının küçük bir ipucunu barındırıyor.",
         ["Objectives"] = "Johaan'ın Özel İçeceği'ni Yakalanan Dağcı'ya getir.",
-        ["Progress"] = "Güvenilir tüfeğim yanımda olsaydı çoktan ölmüştün, <class>. Buhar Tankı Tugayı beni kurtarmaya gelene kadar bekle sen!",
+        ["Progress"] = "Güvenilir tüfeğim yanımda olsaydı çoktan ölmüştün, YOUR_CLASS. Buhar Tankı Tugayı beni kurtarmaya gelene kadar bekle sen!",
         ["Completion"] = "Ah, nihayet bir içecek. Rapsodi Maltı olmadığını biliyorum ama bu raddede boğazımı ıslatacak her şeyi kabul ederim.",
         ["minlevel"] = "0",
         ["questlevel"] = "0"
@@ -17915,8 +17910,8 @@ QuestTranslator_QuestData = {
         ["Title"] = "Yok Etme Gücü...",
         ["Description"] = "Bilebileceğin üzere, Lejyon'un pek çok sakini takipçilerine hediyeler bahşeder. Karanlık Leydi, bu hediyelerin bazılarının... daha dar görüşlü kişilerin ellerinden ziyade kendi ellerinde olmasının daha iyi olacağını düşünüyor.\n\nOrgrimmar'ın altındaki mağaralarda gizlenen ve Yakıcı Bıçak olarak bilinen Gölge Konseyi mezhebi bunun en belirgin örneğidir. Leydi, Yakıcı Bıçak üyelerinin iki güçlü büyü kitabını ele geçirdiğini söyledi--bu kitapları onlardan \"ödünç almak\" istiyor. Onları onun için alacaksın.",
         ["Objectives"] = "Gölge Büyüleri ve Feza Duaları kitaplarını Yeraltı Şehri'ndeki Varimathras'a getir.",
-        ["Progress"] = "Dikkatimi bekleyen yüzlerce başka görev var, <class>. Kitapları aldın mı?",
-        ["Completion"] = "Güzel, <class>. Karanlık Leydi'ye hizmet etme konusunda iyi iş çıkardın. Süregelen azmin ve hırsın, Leydi'nin tebaası için büyük yarar sağlayacaktır. Gelecekte tekrar yanıma gel. Belki Karanlık Leydi'nin Lich King'i alt etme ve Afet'i tamamen özgürleştirme çabalarına yardımcı olacak başka görevlerim olur senin için.",
+        ["Progress"] = "Dikkatimi bekleyen yüzlerce başka görev var, YOUR_CLASS. Kitapları aldın mı?",
+        ["Completion"] = "Güzel, YOUR_CLASS. Karanlık Leydi'ye hizmet etme konusunda iyi iş çıkardın. Süregelen azmin ve hırsın, Leydi'nin tebaası için büyük yarar sağlayacaktır. Gelecekte tekrar yanıma gel. Belki Karanlık Leydi'nin Lich King'i alt etme ve Afet'i tamamen özgürleştirme çabalarına yardımcı olacak başka görevlerim olur senin için.",
         ["minlevel"] = "0",
         ["questlevel"] = "0"
     },
