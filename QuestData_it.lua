@@ -3402,7 +3402,7 @@ QuestTranslator_QuestData = {
     ["Description"]="Kızıl Haçlılar, Tirisfal'in kuzeyindeki yıkık kuleden, Faol'un Dinlenme Yeri'ni geçerek baskınlar düzenliyor. Elimizdeki bilgilere göre, bu şeytani ekibin başında Kaptan Melrache adında acımasız bir komutan var.NEW_LINEŞimdi size özel ve tehlikeli bir görev veriyorum. Melrache ve iki korumasını Karanlık Leydi adına öldürün.",
     ["Objectives"]="Brill kasabasındaki Yönetici Zygand, Yüzbaşı Melrache ve iki korumasını öldürmenizi istiyor.",
     ["Progress"]="Henüz görevini yerine getirmedin, YOUR_CLASS. Kızıl Haçlılar askerlerimizi rahatsız ederken Karanlık Leydi'nin planını gerçekleştirmeyi bekleyemeyiz. Onların ölümünü sağlayın ve Sylvanas'a karşı görevinizi yerine getirin!",
-    ["Completion"]="Son derece iyi iş çıkardın, YOUR_CLASS. Senin gibi acımasız savaşçıların Sahipsizler adına fethetmesiyle ırkımız Arthas'ı sonsuza dek yenmeye bir adım daha yaklaştı. Senin hakkında iyi hislerim var, yoldaş.",
+    ["Completion"]="Son derece iyi iş çıkardın, YOUR_CLASS. Senin gibi acımasız savaşçıların Terk Edilmişler adına fethetmesiyle ırkımız Arthas'ı sonsuza dek yenmeye bir adım daha yaklaştı. Senin hakkında iyi hislerim var, yoldaş.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Kızıl Haçlılar ile Savaşta
@@ -3759,7 +3759,7 @@ QuestTranslator_QuestData = {
     ["Description"]="Agamand Değirmenleri bölgesi Bela için bir dayanak noktası haline geldi. En güçlü noktaları, yerel askeri liderleri Yüzbaşı Dargol adlı bir iskeletin karargâh kurduğu Agamand Ailesi Mahzeni. Ölü çağırma büyüsüyle Agamandların atalarını diriltti ve onları bize karşı kullanmayı planlıyor.NEW_LINEBu geçemez ve bunu durdurmalısınız. Agamand Aile Mahzenine git ve Agamand atalarını yen.NEW_LINEVe bana Kaptan Dargol'un kafatasını getirin.",
     ["Objectives"]="8 Ağlayan Atayı ve 8 Çürüyen Atayı öldür.NEW_LINEKaptan Dargol'u öldürün ve kafatasını Brill'deki Yargıç Sevren'e götürün.",
     ["Progress"]="Zaman sahip olduğumuz bir lüks değil, YOUR_NAME. Her geçen saat, Scourge'un Tirisfal Glades'teki hakimiyeti daha da sağlamlaşıyor.",
-    ["Completion"]="Hareketleriniz Scourge'a karşı anlamlı bir darbe vurdu. Ve zaferiniz ne Sahipsizler ne de düşmanlarımız tarafından fark edilmeyecek.NEW_LINEHepimizin yaptığı gibi mücadeleye devam et YOUR_NAME ve bir gün Lich King'in kendisini Azeroth'tan kovacağız!",
+    ["Completion"]="Hareketleriniz Scourge'a karşı anlamlı bir darbe vurdu. Ve zaferiniz ne Terk Edilmişler ne de düşmanlarımız tarafından fark edilmeyecek.NEW_LINEHepimizin yaptığı gibi mücadeleye devam et YOUR_NAME ve bir gün Lich King'in kendisini Azeroth'tan kovacağız!",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Aile Mahzeni
@@ -3792,7 +3792,7 @@ QuestTranslator_QuestData = {
     ["Description"]="Bu Cehennem Mücevherini eski yoldaşım Bethor'a götür. İletişim kurmamızı sağlayacak... ve ona söyleyecek çok şeyim var.",
     ["Objectives"]="Cehennem Mücevherini Yeraltı Şehrindeki Bethor Iceshard'a getir.",
     ["Progress"]="Gunther'in kitabını geri verdin mi? Cevap verdi mi?",
-    ["Completion"]="Onu bize katılmaya ikna ettiniz! Sahipsizler için büyük bir iş başardın, YOUR_NAME. Karanlık Leydi bilgilendirilecek.",
+    ["Completion"]="Onu bize katılmaya ikna ettiniz! Terk Edilmişler için büyük bir iş başardın, YOUR_NAME. Karanlık Leydi bilgilendirilecek.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Savurgan Lich Geri Dönüyor
@@ -5419,7 +5419,7 @@ QuestTranslator_QuestData = {
     -- ARANIYOR: Baron Vardus
     ["566"] = {
     ["Title"]="ARANIYOR: Baron Vardus",
-    ["Description"]="Yüksek Yönetici Darthalia'nın emriyle, Baron Vardus olarak bilinen insan, Sahipsizlere karşı işlediği suçlardan dolayı aranıyor. Vardus'un Sendika olarak bilinen örgütün yüksek rütbeli bir üyesi olduğu biliniyor.NEW_LINEEn son Tarren Değirmeni'nin kuzeyinde, Alterac Dağları'ndaki Yaylalar'da görüldü.NEW_LINEÖlüsü aranıyor. Ödülü almak için Yüksek Yönetici Darthalia'ya öldüğüne dair kanıt getir.",
+    ["Description"]="Yüksek Yönetici Darthalia'nın emriyle, Baron Vardus olarak bilinen insan, Terk Edilmişlere karşı işlediği suçlardan dolayı aranıyor. Vardus'un Sendika olarak bilinen örgütün yüksek rütbeli bir üyesi olduğu biliniyor.NEW_LINEEn son Tarren Değirmeni'nin kuzeyinde, Alterac Dağları'ndaki Yaylalar'da görüldü.NEW_LINEÖlüsü aranıyor. Ödülü almak için Yüksek Yönetici Darthalia'ya öldüğüne dair kanıt getir.",
     ["Objectives"]="Baron Vardus'u öldürün ve kellesini Tarren Değirmeni'ndeki Yüksek Yönetici Darthalia'ya teslim edin.",
     ["Progress"]="Ah, YOUR_NAME. Belki de Baron Vardus'un başına konan ödülü almaya gelmişsinizdir?",
     ["Completion"]="Verimli bir iş yapıyorsun, YOUR_NAME. Baron Vardus'un ölümüyle, Sendika liderlerinin sayısı azalıyor. Direnişleri ve kızgınlıkları kısa sürecek.",
@@ -8596,7 +8596,7 @@ QuestTranslator_QuestData = {
     -- Terk Edilmiş Hastalıklar
     ["1011"] = {
     ["Title"]="Terk Edilmiş Hastalıklar",
-    ["Description"]="Horde'un ölümsüz kolu olan Forsaken, Külvadi'e sızmış, harabelerimizde ve mezarlıklarımızda pusuya yatmış durumda. Amaçlarının gece elflerinin toprakları arasında hastalık yaymak olduğuna inanıyoruz. Bunu doğrulamalıyız!NEW_LINESahipsizler'in buranın güneyinde, Dor'Danil Barrow İni yakınlarında zehir ve hastalık üretip şişelere koydukları bir kampları var. O kampa savaşarak gir ve bir şişe hastalık çal. Böyle bir şişeyle geri dön. Onu test edip amacını bulacağım.",
+    ["Description"]="Horde'un ölümsüz kolu olan Forsaken, Külvadi'e sızmış, harabelerimizde ve mezarlıklarımızda pusuya yatmış durumda. Amaçlarının gece elflerinin toprakları arasında hastalık yaymak olduğuna inanıyoruz. Bunu doğrulamalıyız!NEW_LINETerk Edilmişler'in buranın güneyinde, Dor'Danil Barrow İni yakınlarında zehir ve hastalık üretip şişelere koydukları bir kampları var. O kampa savaşarak gir ve bir şişe hastalık çal. Böyle bir şişeyle geri dön. Onu test edip amacını bulacağım.",
     ["Objectives"]="Orman Şarkısı'nda Kayneth Stillwind'e bir Şişe Hastalık getir.",
     ["Progress"]="Kampı buldun mu, YOUR_NAME ? Bir şişe hastalığın var mı?",
     ["Completion"]="Çok iyi, YOUR_NAME. Şimdi... bu şişenin içindekileri test ederek, Forsaken'ın hedefleri ortaya çıkacak!",
@@ -9003,7 +9003,7 @@ QuestTranslator_QuestData = {
     -- Düşmüşlerin Özeti
     ["1049"] = {
     ["Title"]="Düşmüşlerin Özeti",
-    ["Description"]="Toprak Yüzük'ün musibete uğramış kardeşlerimize karşı saf niyetleri vardı. Ama Yaşlılar Konseyi'nin kulağına fısıldayanların motivasyonlarını kim bilebilir?NEW_LINEİttifak kurduğumuz Sahipsizlerin geçmişi hileyle dolu. Anlaşmamız çok aceleciydi. Belki de Cairne, Orgrimmar'dan gelen uyarılara kulak verseydi daha akıllıca davranmış olurdu.NEW_LINEKızıl Manastır'ın derinliklerinde, çılgın insan fanatikler tarafından korunan Düşmüşlerin Özeti yatıyor. Yöntemleri delilikten kaynaklanıyor ama araştırmaları faydalı olabilir.",
+    ["Description"]="Toprak Yüzük'ün musibete uğramış kardeşlerimize karşı saf niyetleri vardı. Ama Yaşlılar Konseyi'nin kulağına fısıldayanların motivasyonlarını kim bilebilir?NEW_LINEİttifak kurduğumuz Terk Edilmişlerin geçmişi hileyle dolu. Anlaşmamız çok aceleciydi. Belki de Cairne, Orgrimmar'dan gelen uyarılara kulak verseydi daha akıllıca davranmış olurdu.NEW_LINEKızıl Manastır'ın derinliklerinde, çılgın insan fanatikler tarafından korunan Düşmüşlerin Özeti yatıyor. Yöntemleri delilikten kaynaklanıyor ama araştırmaları faydalı olabilir.",
     ["Objectives"]="Tirisfal Glades'teki Manastırdan Düşmüşlerin Özeti'ni alın ve Thunder Bluff'taki Sage Truthseeker'a geri dönün.",
     ["Progress"]="Cairne cesur ve asil bir liderdir ve ona hayatım pahasına güvenirim. Ancak bu siyasi ortamda güvenmediğim kişiler başkalarıdır.NEW_LINEElimdeki tüm bilgileri toplama fırsatı bulduğumda Reis'e sağlam bir danışmanlık sunabilirim.NEW_LINETirisfal Glades'e seyahat etme şansın oldu mu? Kızıl Manastır'a? Düşmüşlerin Özeti bu karmaşık bulmacanın sadece bir parçası...",
     ["Completion"]="Düşmüşlerin Özeti! Böyle bir kitabın var olup olmadığını merak etmeye başlamıştım!NEW_LINEThunder Bluff'un Tauren'lerine iyi hizmet ettin, YOUR_NAME. Adanmışlığın unutulmayacak.",
@@ -9160,7 +9160,7 @@ QuestTranslator_QuestData = {
     ["Description"]="Taurenlerin toprakla bir bağı vardır ve Stonetalon'un kötü durumunu duymak bana acı veriyor. Ama korkarım ki toprağı iyileştirmek için önce üzerindeki hastalığı temizlemeliyiz.NEW_LINEO halde, Unutulmuşların bizimle müttefik olması bir şans değil mi? Hastalık hakkında çok şey biliyorlar. Bize yardım edebileceklerine ve bunu yaparak halklarımız arasındaki güveni güçlendireceklerine inanıyorum.NEW_LINEEczacı Zamah ile konuş. Kendisi bir bilgin ve Unutulmuşların elçisi. Onu Ruh Yükselişi'nin altındaki Görüş Havuzları'nda bulabilirsin.",
     ["Objectives"]="Thunder Bluff'taki Görüş Havuzlarında Eczacı Zamah ile konuşun.",
     ["Progress"]="",
-    ["Completion"]="Magatha geleceğini haber verdi, YOUR_NAME. Kalbim artık atmıyor olsa da, Stonetalon'un ruhları için hala üzüntü duyuyorum.NEW_LINESahipsizler elimizden gelen yardımı sunmaya can atıyor.",
+    ["Completion"]="Magatha geleceğini haber verdi, YOUR_NAME. Kalbim artık atmıyor olsa da, Stonetalon'un ruhları için hala üzüntü duyuyorum.NEW_LINETerk Edilmişler elimizden gelen yardımı sunmaya can atıyor.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Terk Edilmiş Yardım
@@ -10040,7 +10040,7 @@ QuestTranslator_QuestData = {
     ["Description"]="Benimle geçireceğin zaman bitmek üzere. Bilgiliyim ama İlim Sınavı'nı ben veremem. Öğrenilecek dersler ve başkalarının üzerinde hak iddia ettiği ziyaret edilecek yerler var.NEW_LINEEğer hazırsan, Braug Dimspirit'i ara, o büyük bilgeliğe sahip bir şamandır. Sizi daha fazla sınayacaktır, bu yüzden sözlerine kulak verin, YOUR_NAME.NEW_LINEHazır olduğunda, Stonetalon Dağları ile Külvadi'i birbirine bağlayan tüneli bul: Braug oraya yakın bir yerde yaşıyor. Ve dikkatli ol, YOUR_NAME Gece elfleri sınavını engellemek isteyebilir.",
     ["Objectives"]="Braug Dimspirit'i Stonetalon Dağları'ndaki Talondeep Yolu'nun girişinin yakınında bul.",
     ["Progress"]="",
-    ["Completion"]="Goblinler topraklara tecavüz ederken ve gece elfleri genç ırkları parmakla gösterirken, günler ve geceler dünyanın her yerinde daha da soğuyor. Kalimdor ve Lordaeron'da yaşanan zorlukların tek sorumlusu Sahipsizler ve orklar değil. Zeki ırkların çoğu dünyanın çektiği acıya katkıda bulunmuştur. Dorn bunu biliyor ve seni bana gönderdi çünkü sen de bunun farkına varmak için gerekli nitelikleri gösteriyorsun.NEW_LINEŞimdi Braug'un önünde duruyorsun.",
+    ["Completion"]="Goblinler topraklara tecavüz ederken ve gece elfleri genç ırkları parmakla gösterirken, günler ve geceler dünyanın her yerinde daha da soğuyor. Kalimdor ve Lordaeron'da yaşanan zorlukların tek sorumlusu Terk Edilmişler ve orklar değil. Zeki ırkların çoğu dünyanın çektiği acıya katkıda bulunmuştur. Dorn bunu biliyor ve seni bana gönderdi çünkü sen de bunun farkına varmak için gerekli nitelikleri gösteriyorsun.NEW_LINEŞimdi Braug'un önünde duruyorsun.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end İlim Testi
@@ -12936,7 +12936,7 @@ QuestTranslator_QuestData = {
     -- Anastasia ile konuşun
     ["1881"] = {
     ["Title"]="Anastasia ile konuşun",
-    ["Description"]="YOUR_NAME Anastasia Hartwell'in senin gibi yetenekli biri için bir görevi var. Yeraltı Şehri'nin Sihirli Mahallesi'nde onunla konuş ve kendini Sahipsizlerin büyücüleri için ilk görevine hazırla.",
+    ["Description"]="YOUR_NAME Anastasia Hartwell'in senin gibi yetenekli biri için bir görevi var. Yeraltı Şehri'nin Sihirli Mahallesi'nde onunla konuş ve kendini Terk Edilmişlerin büyücüleri için ilk görevine hazırla.",
     ["Objectives"]="Anastasia Hartwell ile konuşun.",
     ["Progress"]="",
     ["Completion"]="Selamlar, YOUR_NAME. Çağrıma cevap vermekle akıllıca davrandın ve bundan sonra söyleyeceklerime kulak verirsen daha da akıllıca davranmış olursun...",
@@ -20604,7 +20604,7 @@ QuestTranslator_QuestData = {
     ["Description"]="",
     ["Objectives"]="Bu görev artık oyun içinde mevcut değildir.",
     ["Progress"]="Bir kez daha selamlar, YOUR_NAME! Runecloth'a olan ihtiyacımız sürekli ve eğer elinizden çıkarmak isterseniz her zaman ek kaynaklar kullanabiliriz. Ek bir yirmi runecloth yığını karşılığında, Yeraltı Şehri adına devam eden çabalarınız için takdir edilmenizi sağlayacağım.NEW_LINETiftik yığınını teslim etmeye hazır olduğunuzda, kabul edeceğim.",
-    ["Completion"]="YOUR_NAME - Sizin gibi kahramanlar Sahipsizler adına çalışmasaydı, kesinlikle acı çekerdik. Devam eden çabalarınız için teşekkür ederiz!",
+    ["Completion"]="YOUR_NAME - Sizin gibi kahramanlar Terk Edilmişler adına çalışmasaydı, kesinlikle acı çekerdik. Devam eden çabalarınız için teşekkür ederiz!",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end İlave Runecloth
