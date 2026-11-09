@@ -27275,7 +27275,7 @@ QuestTranslator_QuestData = {
     ["40087"] = {
     -- "Crumblepoint" unvanı harabe temasına istinaden "Yıkıkkuyu" olarak aktarılmıştır. Silverpine -> Gümüşçam, Volgrin, Worgen unvanları korunmuştur. Tirisclaw -> Tiriskazan (Tiris + Claw).
     ["Title"]="Yıkıkkuyu Kulesi",
-    ["Description"]="Gümüşçam'daki (Silverpine) kuvvetlerimizi nasıl geçmeyi başardıklarına dair hiçbir fikrim yok. Bu Worgenler çok büyük sayılarla geldiler! Kule kontrolümüzde olmadan, buradaki faaliyetleri izleme yeteneğimiz azalıyor, bu yüzden senin gibi bir maceracının yardımını kullanabilirim. Onu geri almamıza yardım et. Henüz kaçmadın, bu yüzden etkilendiğimi söyleyebilirim. Güzel. Oraya git ve o bitli sefilleri öldür.",
+    ["Description"]="Gümüşçam'daki (Silverpine) kuvvetlerimizi nasıl geçmeyi başardıklarına dair hiçbir fikrim yok. Bu Worgenler çok büyük sayılarla geldiler! Kule kontrolümüzde olmadan, buradaki faaliyetleri izleme yeteneğimiz azalıyor, bu yüzden senin gibi bir maceracının yardımını kullanabilirim. Onu geri almamıza yardım et. NEW_LINE Henüz kaçmadın, bu yüzden etkilendiğimi söyleyebilirim. Güzel. Oraya git ve o bitli sefilleri öldür.",
     ["Objectives"]="Volgrin'e geri dönmeden önce Yıkıkkuyu Kulesi'ndeki (Crumblepoint Tower) 6 adet Yirikazan Yağmacısı'nı (Tirisclaw Ravager) ve 6 adet Yirikazan Gölgemüridini (Tirisclaw Shadowcaster) katlet.",
     ["Progress"]="Bu kadar çabuk mu döndün, YOUR_CLASS?",
     ["Completion"]="Başardın mı? Pekala, dürüst olmak gerekirse geri dönmeni beklemiyordum! Keşke birkaç gün önce gelmiş olsaydın, o zaman en başından beri bu durumun tamamından kaçınabilirdik.",
@@ -32231,8 +32231,8 @@ QuestTranslator_QuestData = {
     -- Tirisclaw Scavengers -> Tirispence Akbabaları / Tirispence Atıkçıları. Volgrin kalmıştır.
     ["40088"] = {
     ["Title"]="Sürünün Başı",
-    ["Description"]="Kulededeki kuvvetlerinin zayıflamasıyla birlikte, liderlerini öldürme vaktimiz geldi. Evet, biz derken seni kastediyorum. Liderleri yakın zamanda madeni istila etti ve o daha büyük worgenlarını da yanında oraya götürdü. Gracestone madeni en yüksek önceliğe sahip. Onun kaynakları olmadan Vadiköy'ün (Glenshire) insanlara karşı hiç şansı kalmaz; worgenların Gümüşçam (Silverpine) ve Yüksek topraklar (Uplands) arasında seyahat eden yolculara saldırması için madenlerin mükemmel bir pusu noktası sağlamasından bahsetmiyorum bile. Oraya in ve bana liderlerinin kafasını getir. Oh, ve adamlarından olabildiğince çoğunu öldürmekten çekinme.",
-    ["Objectives"]="Sürü Lideri Sharn'ın (Pack Leader Sharn) kafasını getir ve Volgrin'e dönmeden önce 5 Tirispence Pusucusu (Tirisclaw Ambushers) ile 4 Tirispence Atıkçısı (Tirisclaw Scavengers) katlet.",
+    ["Description"]="Kulededeki kuvvetlerinin zayıflamasıyla birlikte, liderlerini öldürme vaktimiz geldi. Evet, biz derken seni kastediyorum. Liderleri yakın zamanda madeni istila etti ve o daha büyük worgenlarını da yanında oraya götürdü. Gracestone madeni en yüksek önceliğe sahip. Onun kaynakları olmadan Vadiköy'ün (Glenshire) insanlara karşı hiç şansı kalmaz; worgenların Gümüşçam (Silverpine) ve Yüksek topraklar (Uplands) arasında seyahat eden yolculara saldırması için madenlerin mükemmel bir pusu noktası sağlamasından bahsetmiyorum bile. NEW_LINEOraya in ve bana liderlerinin kafasını getir. Oh, ve adamlarından olabildiğince çoğunu öldürmekten çekinme.",
+    ["Objectives"]="Sürü Lideri Sharn'ın kafasını getir ve Volgrin'e dönmeden önce 5 Tirispence Pusucusu (Tirisclaw Ambushers) ile 4 Tirispence Atıkçısı (Tirisclaw Scavengers) katlet.",
     ["Progress"]="Saldırı nasıl gidiyor?",
     ["Completion"]="Oh, çantandan gelen kan kokusunu alabiliyorum. Bu o kırmanın kafası mı? Güzel, çok güzel. Maden ve kulenin yeniden kontrolümüz altında olmasıyla, Tirisfal Yüksek toprakları (Tirisfal Uplands) üzerinde tam bir hakimiyet kurmaya bir adım daha yaklaştık.",
     ["minlevel"]="0",
