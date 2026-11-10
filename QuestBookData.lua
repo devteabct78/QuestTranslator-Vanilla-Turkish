@@ -894,8 +894,8 @@ QuestTranslator_BookData = {
 		["Text"] = "Deathstalker Mission ReportNEW_LINENEW_LINEAgents: Rane Yorick, Quinn Yorick, Erland McKreeNEW_LINENEW_LINEPrimary mission: perform reconnaissance through northern silverpine, and determine threat levels of wildlife and Scourge."
 	},
 	["Berard's Journal"] = {
-		["Title"] = "Berard's Journal",
-		["Text"] = "Through study of various fossilized creatures I have deduced that in ancient times, a great plague swept through the waters of Lake Lordamere.  What caused this?  We might never know.  But the rate of contamination appears to be extremely high based on dense concentrations of remains distributed across the lake bed."
+		["Title"] = "Berard'ın Günlüğü",
+		["Text"] = "Çeşitli fosilleşmiş yaratıkların incelenmesi yoluyla, kadim zamanlarda büyük bir vebanın Lordamere Gölü'nün sularını kasıp kavurduğu sonucuna vardım. Buna ne sebep oldu? Bunu hiçbir zaman bilemeyebiliriz. Ancak göl yatağı boyunca dağılmış yoğun kalıntı birikintilerine bakılırsa bulaşma oranının son derece yüksek olduğu görülüyor.NEW_LINEGeçmişi ortaya çıkarma çabasıyla, bu gizemin eksik ipucunu bulma umuduyla günümüz yaratıklarını incelemeye başladım. Göl Sinsileri ve Göl Sürüngenleri, Lordamere Gölü'nün merkezindeki adalarda yaşayan kadim canavarlardır. Üzerlerinde büyüyen ve bazı fosillerdeki iz materyallerine benzeyen bir yosun var. Bu bağlantının ne anlama geldiğine dair tahminde bulunmadan önce daha fazla araştırma yapılması gerekiyor.NEW_LINEYosun örnekleri toplamaya çalışırken kanlı bir savaş alanına denk geldim. Murlocların Aşağılık Yüzgeç kabilesi, yağmacı bir Gnoll çetesi tarafından kuşatılmıştı. Savaş alanına hem Gnoll hem de Murloc cesetleri saçılmıştı. Parçalanmış bir Murloc cesedinin yanından geçerken, yaradan dışarı fırlayan tuhaf, sertleşmiş bir tümör fark ettim. Tümörü incelemeye başladığımda, topladığım yosunla benzer özelliklere sahip olduğu açıkça ortaya çıktı. Ne yazık ki bu tümörden başka bir tümör bulamadım."
 	},
 	["Decrypted Letter"] = {
 		["Title"] = "Decrypted Letter",

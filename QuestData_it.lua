@@ -4316,16 +4316,15 @@ QuestTranslator_QuestData = {
         ["questlevel"] = "0"
     },
 
-    -- Parçalar Halinde Dinlenmek
     ["460"] = {
-    ["Title"]="Parçalar Halinde Dinlenmek",
-    ["Description"]="Çürük deriye benzemiyorsun. Güzel. Umudumu kaybetmiştim.NEW_LINEBenim adım Alaric ve bir zamanlar Thule'un baş hizmetkârı ve muhafızıydım. Büyüsünü beni Ölümsüzlük Vebası'ndan \\",
-    ["Objectives"]="Alaric'in Kafasını mezarına götürün.",
-    ["Progress"]="Bu mezar aceleyle kazılmış.",
-    ["Completion"]="Teşekkürler, YOUR_NAME. Gnoll'ların bedenimi yok etmesinden korkuyordum. Yok etmediklerini bilmek güzel.",
-    ["minlevel"]="0",
-    ["questlevel"]="0",
-    }, -- end Parçalar Halinde Dinlenmek
+        ["Title"] = "Parçalar Halinde İstirahat",
+        ["Description"] = "Çürükderi gibi görünmüyorsun. Güzel. Umudumu kaybetmiştim...\n\nBenim adım Alaric, bir zamanlar Thule'un baş hizmetkarı ve korumasıydım. Beni Ölümün Vebası'ndan \"korumak\" için büyüsünü kullandı ama büyüsü bunun yerine bana kaçamadığım bir yaşamötesi verdi. Ve lanetli çürükderi gnolları yarattıktan sonra Thule başımı kesti... ve kafamı gnollara bir oyuncak olarak verdi!\n\nLütfen beni bedenime götür. Gnolların onu burada, Fenris Kalesi'nde, ahırın yakınındaki işaretsiz bir mezara gömdüğüne inanıyorum.",
+        ["Objectives"] = "Alaric'in Kafası'nı onun mezarına getir.",
+        ["Progress"] = "Bu mezar alelacele kazılmış.",
+        ["Completion"] = "Teşekkür ederim, <name>. Gnolların bedenimi yok etmesinden korkuyordum. Etmediklerini bilmek güzel.",
+        ["minlevel"] = "0",
+        ["questlevel"] = "0"
+    },
 
     -- Gizli Niş
     ["461"] = {
