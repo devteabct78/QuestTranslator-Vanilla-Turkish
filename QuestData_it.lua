@@ -26702,10 +26702,10 @@ QuestTranslator_QuestData = {
     ["40140"] = {
     -- Corinth Farm -> Corinth Çiftliği, Tirisfal Glades -> Tirisfal Kırları.
     ["Title"]="Çiftliği Temizlemek",
-    ["Description"]="Zombilerin büyük kısmı gittiğine göre, yeni askerlerimizi elimizden almaktan sorumlu olan kişiyle yüzleşme zamanı geldi. Bir kez daha Corinth Çiftliği'ne (Corinth Farm) git ve bundan sorumlu olan nekromansiyi (necromancer) öldür. Ve dikkatli ol. Farz et ki nekromansi küçük bir zombi ordusu çağırabiliyor; bu durumda, kesinlikle küçümsenmemesi gereken biridir.",
-    ["Objectives"]="Corinth Çiftliği'ndeki (Corinth Farm) nekromansiyi öldür.",
+    ["Description"]="Zombilerin büyük kısmı gittiğine göre, yeni askerlerimizi elimizden almaktan sorumlu olan kişiyle yüzleşme zamanı geldi. Bir kez daha Corinth Çiftliği'ne git ve bundan sorumlu olan nekromansiyi öldür. \nVe dikkatli ol. Farz et ki nekromansi küçük bir zombi ordusu çağırabiliyor; bu durumda, kesinlikle küçümsenmemesi gereken biridir.",
+    ["Objectives"]="Corinth Çiftliği'ndeki nekromansiyi öldür.",
     ["Progress"]="Evet?",
-    ["Completion"]="Demek nekromansi öldü, bu gerçekten rahatlatıcı bir haber. Sen olmasaydın Tirisfal Kırları'na (Tirisfal Glades) çekilmek zorunda kalabilirdik ve daha da kötüsü, Veba (Scourge) Terkedilmişlere (Forsaken) hem batıdan hem de doğudan saldırabilirdi. Bize büyük bir hizmette bulundun. Eylemlerinin adil bir ödülü olarak buna sahip olman gerektiğini düşünüyorum.",
+    ["Completion"]="Demek nekromansi öldü, bu gerçekten rahatlatıcı bir haber. Sen olmasaydın Tirisfal Kırları'na çekilmek zorunda kalabilirdik ve daha da kötüsü, Veba (Scourge) Terkedilmişlere (Forsaken) hem batıdan hem de doğudan saldırabilirdi. Bize büyük bir hizmette bulundun. Eylemlerinin adil bir ödülü olarak buna sahip olman gerektiğini düşünüyorum.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Cleaning The Farm
@@ -27728,7 +27728,7 @@ QuestTranslator_QuestData = {
     -- Tirisfal Uplands -> Tirisfal Yaylaları. Grelda, Nargelas, James Clark (bu serideki bağlantı) adları korunmuştur.
     -- Vathras Millson -> Vathras Değirmencioğlu. Steepcliff Port -> Sarpuçurum Limanı.
     ["Title"]="Darlthos Mirası",
-    ["Description"]="YOUR_RACE, senin için bir görevim var. Oldukça önemli bir görev. <Nargelas sana iyi süslenmiş bir mücevher kutusu gösterir>. Burada Tirisfal Yaylaları'nın (Tirisfal Uplands) tapusu yatıyor. Görüyorsun ya, Veba istila etmeden önce eşim Grelda'nın bu toprakları babasından miras alması gerekiyordu. Taç giyme gününde, bu kutunun içindekilerin onun mülkiyetine geçmesi gerekiyordu. Birçok dolunay geçti ama saraylılarım ve ben bu şeyin kilidini açmada başarılı olamadık. Ancak araştırmam sırasında bir isim ortaya çıktı. Vathras Değirmencioğlu (Vathras Millson). Bu tür şeylerde uzmanlaşmıştır. Sarpuçurum Limanı'na (Steepcliff Port) git ve onu bul; şimdi bir han işlettiğini duydum. Oh, ve dikkatli ol. Kutu senin hayatından daha değerli.",
+    ["Description"]="YOUR_RACE, senin için bir görevim var. Oldukça önemli bir görev. NEW_LINE<Nargelas sana iyi süslenmiş bir mücevher kutusu gösterir>. NEW_LINEBurada Tirisfal Yaylaları'nın (Tirisfal Uplands) tapusu yatıyor. Görüyorsun ya, Veba istila etmeden önce eşim Grelda'nın bu toprakları babasından miras alması gerekiyordu. Taç giyme gününde, bu kutunun içindekilerin onun mülkiyetine geçmesi gerekiyordu. NEW_LINEBirçok dolunay geçti ama saraylılarım ve ben bu şeyin kilidini açmada başarılı olamadık. Ancak araştırmam sırasında bir isim ortaya çıktı. Vathras Değirmencioğlu (Vathras Millson). Bu tür şeylerde uzmanlaşmıştır. Sarpuçurum Limanı'na (Steepcliff Port) git ve onu bul; şimdi bir han işlettiğini duydum. NEW_LINEOh, ve dikkatli ol. Kutu senin hayatından daha değerli.",
     ["Objectives"]="Darlthos'un Mücevher Kutusu'nu Sarpuçurum Limanı'ndaki Vathras Değirmencioğlu'na (Vathras Millson) götür.",
     ["Progress"]="Meşgulüm.",
     ["Completion"]="Peki sen kimsin? Seni Dük mü gönderdi? O zaman sadede gel, ben meşgul bir adamım.",
@@ -29211,8 +29211,8 @@ QuestTranslator_QuestData = {
     ["40136"] = {
     -- Cragtusk Boars -> Kayadişi Yaban Domuzları. Butcher Reeves -> Kasap Reeves.
     ["Title"]="Azalan Erzaklar",
-    ["Description"]="Sen oradaki! Evet, sen. Kasabada yenisin, değil mi? Bak, farkında mısın emin değilim ama şu anda insanlarla savaştayız ve tahmin edebileceğin gibi bu durum azalan erzaklarımız üzerinde epey bir yük oluşturdu. İşte bu yüzden yerel Kayadişi Yaban Domuzlarından (Cragtusk Boars) domuz eti toplayacak birini arıyorum. Peki, kendini buna hazır hissediyor musun?",
-    ["Objectives"]="Kasap Reeves'e (Butcher Reeves) 8 Parça Et getir.",
+    ["Description"]="Sen oradaki! Evet, sen. Kasabada yenisin, değil mi? Bak, farkında mısın emin değilim ama şu anda insanlarla savaştayız ve tahmin edebileceğin gibi bu durum azalan erzaklarımız üzerinde epey bir yük oluşturdu. NEW_LINEİşte bu yüzden yerel Kayadişi Yaban Domuzlarından (Cragtusk Boars) domuz eti toplayacak birini arıyorum. Peki, kendini buna hazır hissediyor musun?",
+    ["Objectives"]="Kasap Reeves'e 8 Parça Et getir.",
     ["Progress"]="Geri döndün bile mi?",
     ["Completion"]="Şuna bak, ince kesilmiş bir parça et. Gündüzleri maceracı, geceleri ise gizemli bir şef falan olmadığından emin misin? Her neyse, çok teşekkürler. Bu kesinlikle yardımcı olacaktır. Ve al bakalım, umarım bu yeterince uygun bir ödüldür.",
     ["minlevel"]="0",
@@ -32947,10 +32947,10 @@ QuestTranslator_QuestData = {
     -- Humans -> İnsanlar.
     ["40097"] = {
     ["Title"]="Karanlıkta",
-    ["Description"]="Gözcülerinin gitmesiyle, nihayet saldırıya geçebiliriz. Ancak ana kamplarına bir saldırı düzenlemeden önce, hareketlerimizi izleme yeteneklerini azaltmalıyız. Fısıldayan Ormanlar'ın (the Whispering Woods) hemen kuzeyinde Shatteridge adında bir kule var. Kalıntı Gözcüleri (The Remnant's Sentries) o kuleyi operasyon merkezleri haline getirdiler ve ana üslerini her türlü potansiyel tehlikeye karşı uyarmak için oradalar. Shatteridge'deki sayıları çok fazla, bu da  kendilerine doğrudan saldırmak için tek ama güçlü bir düşman beklememelerinin tam olarak sebebidir. Peki göreve hazır mısın?",
-    ["Objectives"]="Shatteridge Kulesi'ndeki 10 Kalıntı Gözcüsü'nü (Remnant Sentries) katlet ve Dük Nargelas'a (Duke Nargelas) geri dön.",
+    ["Description"]="Gözcülerinin gitmesiyle, nihayet saldırıya geçebiliriz. Ancak ana kamplarına bir saldırı düzenlemeden önce, hareketlerimizi izleme yeteneklerini azaltmalıyız. \nFısıldayan Ormanlar'ın (the Whispering Woods) hemen kuzeyinde Shatteridge adında bir kule var. Kalıntı Gözcüleri (The Remnant's Sentries) o kuleyi operasyon merkezleri haline getirdiler ve ana üslerini her türlü potansiyel tehlikeye karşı uyarmak için oradalar. Shatteridge'deki sayıları çok fazla, bu da  kendilerine doğrudan saldırmak için tek ama güçlü bir düşman beklememelerinin tam olarak sebebidir. Peki göreve hazır mısın?",
+    ["Objectives"]="Shatteridge Kulesi'ndeki 10 Kalıntı Gözcüsü'nü (Remnant Sentries) katlet ve Dük Nargelas'a geri dön.",
     ["Progress"]="Söyle bana, saldırı nasıl gidiyor?",
-    ["Completion"]="Ah, evet. En büyük varlığım başarıyla geri dönüyor, üstelik eksiksiz. Gözcüler gittiğinde, o zavallı insanlarla (humans) uğraşmak çok daha kolay bir hal alacak.",
+    ["Completion"]="Ah, evet. En büyük varlığım başarıyla geri dönüyor, üstelik eksiksiz. Gözcüler gittiğinde, o zavallı insanlarla uğraşmak çok daha kolay bir hal alacak.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end In the Dark
@@ -36450,7 +36450,7 @@ QuestTranslator_QuestData = {
 -- Arugal kalmıştır. Tirisfal Glades = Tirisfal Ormanları, Solliden Farmstead = Solliden Çiftliği.
 ["41364"] = {
 ["Title"]="Zombileri Korumak İçin",
-["Description"]="Selam YOUR_NAME. Hâlâ daha fazla iş mi arıyorsun? Glenshire'daki (Glenshire) Dük Nargelas'a ulaşması gereken bir raporum var.\n\nTasalanma, onu  kendi ellerine teslim etmeyeceksin. Tek yapman gereken bu parşömeni (scroll) Ölümmuhafızı Markus'a (Deathguard Markus) ulaştırmak; Dük Nargelas'ın musallat olduğu kilisenin hemen dışında konuşlanmış olmalı.\n\nBu sadece onlara maceracıları Shadowfang Kalesi'ne (Shadowforge Keep) göndermeye karar verdiğimizi bildirmek içindir. Arugal canlı bırakılmamalı. Glenshire'a ulaşmak o kadar zor olmamalı. Ya yolu kuzeye doğru takip edebilirsin ya da Tirisfal Ormanları'na (Tirisfal Glades) geri dönüp Solliden Çiftliği'ni (Solliden Farmstead) geçerek oraya ulaşabilirsin. Sana kalmış.",
+["Description"]="Selam YOUR_NAME. Hâlâ daha fazla iş mi arıyorsun? Glenshire'daki Dük Nargelas'a ulaşması gereken bir raporum var.\n\nTasalanma, onu  kendi ellerine teslim etmeyeceksin. Tek yapman gereken bu parşömeni (scroll) Ölümmuhafızı Markus'a (Deathguard Markus) ulaştırmak; Dük Nargelas'ın musallat olduğu kilisenin hemen dışında konuşlanmış olmalı.\n\nBu sadece onlara maceracıları Shadowfang Kalesi'ne (Shadowforge Keep) göndermeye karar verdiğimizi bildirmek içindir. Arugal canlı bırakılmamalı. Glenshire'a ulaşmak o kadar zor olmamalı. Ya yolu kuzeye doğru takip edebilirsin ya da Tirisfal Kırları'na (Tirisfal Glades) geri dönüp Solliden Çiftliği'ni (Solliden Farmstead) geçerek oraya ulaşabilirsin. Sana kalmış.",
 ["Objectives"]="Raporunu Glenshire'daki Ölümmuhafızı Markus'a (Deathguard Markus) ulaştır.",
 ["Progress"]="Hanımımızın emirlerini yerine getiriyoruz.",
 ["Completion"]="Demek yakında Shadowfang Kalesi'ne (Shadowfang Keep) baskın yapılacak. Güzel. Buradayken benim için bir iyilik yapmaktan rahatsız olmazsın, değil mi?",
@@ -36958,7 +36958,7 @@ QuestTranslator_QuestData = {
     -- Glenshire = Glenshire.
     ["40096"] = {
     ["Title"]="Sayıca Az Olmak",
-    ["Description"]="Ah, iş bitirebilecek birine benziyorsan, YOUR_CLASS. Beni iyi dinle, çünkü kendimi tekrar etmekten hoşlanmam. İnsanlar (the humans) sayıca bizden beşe bir üstünler. Ancak henüz bunun farkında değiller ve ben de bu şekilde kalmasını istiyorum. Hizmetkarlarım, Lordaeron gözcülerinin (Lordaeron scouts) kuzeyden Glenshire'a (Glenshire) doğru ilerlediğini bildirdi. Ve sen, dostum, onların efendilerine asla geri dönememelerini sağlayacaksın.",
+    ["Description"]="Ah, iş bitirebilecek birine benziyorsan, YOUR_CLASS. Beni iyi dinle, çünkü kendimi tekrar etmekten hoşlanmam. İnsanlar sayıca bizden beşe bir üstünler. Ancak henüz bunun farkında değiller ve ben de bu şekilde kalmasını istiyorum. Hizmetkarlarım, Lordaeron gözcülerinin kuzeyden Glenshire'a doğru ilerlediğini bildirdi. Ve sen, dostum, onların efendilerine asla geri dönememelerini sağlayacaksın.",
     ["Objectives"]="Fısıldayan Orman'daki (Whispering Forest) 8 Kalıntı Gözcüsünü (Remnants Scouts) katlet ve Dük Nargelas'a geri dön.",
     ["Progress"]="Tamamlandı mı?",
     ["Completion"]="İyi iş. O gözcüler gidince, Glenshire'a bir saldırı gücü göndermeden önce iki kez düşüneceklerdir.",
@@ -37642,8 +37642,8 @@ QuestTranslator_QuestData = {
     -- Corinth Farm -> Corinth Çiftliği.
     ["40139"] = {
     ["Title"]="Lanetlilerin Yeniden Belirmesi",
-    ["Description"]="Glenshire'a (Glenshire) hoş geldin. Bize yardım etmek için geldiğini umuyorum. Düşmanlar (enemies) her bir yanımızı sarmış durumda ve kesinlikle bulabileceğimiz her türlü yardımı kullanabiliriz. Buranın batısında, yakın zamanda birliklerimiz (troops) ile Lordaeron insanları (humans of Lordaeron) arasında büyük bir savaşın yaşandığı bir çiftlik var. Birliklerimizi güçlendirmek için oradaki ölüleri kullanmayı planlıyorduk ancak Lanetliler Kültü (the Cult of the Damned) aynı fikirle bizden önce belirdi. Eğer kendi haline bırakılırsa, Scourge (the Scourge) yakında batıdan saldırmak için büyük bir kuvvete sahip olacak ve buna izin veremeyiz. Eğer kendini hazır hissediyorsan, Scourge ilerleyişine son vermek isteyen herkes için hazır bir ödülüm (reward) var.",
-    ["Objectives"]="Peder Brightcopf (Father Brightcopf), Corinth Çiftliği'ndeki (Corinth Farm) Scourge ilerleyişine bir son vermek istiyor.",
+    ["Description"]="Glenshire'a hoş geldin. Bize yardım etmek için geldiğini umuyorum. Düşmanlar her bir yanımızı sarmış durumda ve kesinlikle bulabileceğimiz her türlü yardımı kullanabiliriz. Buranın batısında, yakın zamanda birliklerimiz ile Lordaeron insanları arasında büyük bir savaşın yaşandığı bir çiftlik var. Birliklerimizi güçlendirmek için oradaki ölüleri kullanmayı planlıyorduk ancak Lanetliler Kültü (the Cult of the Damned) aynı fikirle bizden önce belirdi. NEW_LINEEğer kendi haline bırakılırsa, Scourge yakında batıdan saldırmak için büyük bir kuvvete sahip olacak ve buna izin veremeyiz. Eğer kendini hazır hissediyorsan, Scourge ilerleyişine son vermek isteyen herkes için hazır bir ödülüm var.",
+    ["Objectives"]="Peder Brightcopf, Corinth Çiftliği'ndekiScourge ilerleyişine bir son vermek istiyor.",
     ["Progress"]="Başarılı oldun mu?",
     ["Completion"]="Nihayet, güzel bir haber. Söz verildiği gibi, işte ödülün.",
     ["minlevel"]="0",
