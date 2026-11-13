@@ -16585,6 +16585,13 @@ MobNpcTranslator_Data = {
 ["Braxo Gearfuse"] = "Braxo Çarkfitil",
 ["Goblin Brainwashing Device"] = "Goblin Beyin Yıkama Cihazı",
 ["Kimberly Hiett"] = "Kimberly Hiett",
+["Dalaran Crate"] = "Dalaran Sandığı",
+["Killian Sanatha"] = "Killian Sanatha",
+["Katrina Alliestar"] = "Katrina Müttefikyıldız",
+["Riccarda Thillamore"] = "Riccarda Thillamore",
+["Corpse Laden Boat"] = "Ceset Yüklü Tekne",
+["A Talking Head"] = "Konuşan Bir Kafa",
+["Buccaneer Bubbles"] = "Korsan Bubbles",
 --123456789
 
 }                           

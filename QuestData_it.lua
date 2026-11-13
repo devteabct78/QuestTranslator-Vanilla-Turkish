@@ -7065,27 +7065,25 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end Gann'ın Islahı
 
-    -- Plainstrider Tehdidi
     ["844"] = {
-    ["Title"]="Plainstrider Tehdidi",
-    ["Description"]="plainstrider'ları bilir misin? İşe yaramaz hayvanlar. Uçamazlar. Gamey. Beyinleri parmak eklemim kadar. Hareket eden bir arabanın önünden çekilemeyecek kadar aptal. Kalın kafatasları sayesinde daha çok dingil kırdım. Bazen quilboarların pusu kurmadan önce kasıtlı olarak sürüler halinde kervanlarımızın yoluna çıktıklarını düşünüyorum.NEW_LINEBeni gururlandır, YOUR_CLASS. Yolları özgür tutmak için o pis kuşları kesip biçin ve kanıt olarak gagalarını bana getirin.",
-    ["Objectives"]="7 Plainstrider Gagası topla.",
-    ["Progress"]="Sade ördek gagalarını topladın mı?",
-    ["Completion"]="Çok iyi, YOUR_NAME. Yolda endişelenecek bir şey daha azaldı.",
-    ["minlevel"]="0",
-    ["questlevel"]="0",
-    }, -- end Plainstrider Tehdidi
+        ["Title"] = "Ovadiken Tehdidi",
+        ["Description"] = "İlk avın kolay olacak.\n\nDoğudaki Düzlükkoşucuları erzak depolarımızı taciz edip duruyor ve baş belası haline geldiler.\n\Düzlükkoşucuları yere ser ve gagalarıyla birlikte bana geri dön.",
+        ["Objectives"] = "7 Düzlükkoşucusu Gagası topla ve Dörtyol'daki Sergra Karadiken'e geri getir.",
+        ["Progress"] = "Düzlükkoşucuları gagalarını topladın mı?",
+        ["Completion"] = "Çok iyi, YOUR_NAME. Düzlükkoşucuları gittiğine göre ikmal zincirlerimizi sağlam tutmak daha kolay olacak. Ve umarım Çoraklar'da birkaç numara öğrenmişsindir, çünkü bir sonraki avının kanında ovadikenlerden biraz daha fazla ateş var...",
+        ["minlevel"] = "0",
+        ["questlevel"] = "0"
+    },
 
-    -- Zhevra
-    ["845"] = {
-    ["Title"]="Zhevra",
-    ["Description"]="Sevgili sürüme hizmet etmek istiyorsan, gücünü bana kanıtlaman gerekecek, yavrum. Zhevra avlayarak dişlerini gösterebilirsin. Barrens'taki en güçlü hayvanlar olmayabilirler ama tekmelerinden uzak dur yoksa pişman olursun.NEW_LINEKuzey ve güneydeki zhevra'ları avla ve toynaklarını topla. Onları bana getir, belki bir dahaki sefere seni daha sert bir şeye karşı göndeririz.",
-    ["Objectives"]="Zhevra Koşucularını öldürerek 4 Zhevra Toynağı toplayın.",
-    ["Progress"]="Kaç tane Zhevra öldürdün?",
-    ["Completion"]="Fena değil, YOUR_NAME. Bu zhevra'ların bacakları çok güçlüdür. Onlardan gelen keskin bir tekme bir taureni bile yere serebilir!NEW_LINEGörünüşe göre sende de biraz güç var. Gerçek bir meydan okumaya hazır mısın?",
-    ["minlevel"]="0",
-    ["questlevel"]="0",
-    }, -- end Zhevra
+  ["845"] = {
+        ["Title"] = "Zevra",
+        ["Description"] = "Zevralar, Çoraklar'daki en vahşi yaratık olmasalar da ovadikenlerden bir tık daha çetindirler. Endişelenme -- zamanı gelince seni daha büyük avların üzerine göndereceğiz, ancak şimdilik dişlerinin biraz daha bilenmeye ihtiyacı var.\n\nKuzeyde ve güneyde zevra avla ve toynaklarını topla. Onları bana getir, belki bir dahakine seni daha zorlu bir şeyin üzerine göndeririz.",
+        ["Objectives"] = "Dörtyol'daki Sergra Karadiken için 4 Zevra Toynağı toplamak üzere Zevra Koşucuları'nı katlet.",
+        ["Progress"] = "Kaç zevra katlettin?",
+        ["Completion"] = "Kötü değil, <name>. O zevraların bacaklarında büyük bir güç var. Keskin bir tekmeleri bir taureni bile kıçının üzerine oturtabilir!\n\nGörünüşe göre sende de biraz güç var. Gerçek bir meydan okumaya hazır mısın?",
+        ["minlevel"] = "0",
+        ["questlevel"] = "0"
+    },
 
     -- Gann'ın İntikamı
     ["846"] = {
@@ -7175,16 +7173,15 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end Kavşağa Yolculuk
 
-    -- Centaur Bracers
     ["855"] = {
-    ["Title"]="Centaur Bracers",
-    ["Description"]="Sentor liderliği, diğerlerini hizada tutmak için güvenilir, disiplinli savaşçılardan oluşan bir çekirdeğe güvenir. Eğer sayılarını azaltırsak, Kolkar'ın öfkesini destekleyecek gücü kalmayacak. Ve bu yüzden, senin için bir ödül görevim var.NEW_LINEGüneydeki Lushwater Vahası civarında Kolkar Yağmacılarını ve Fırtınacılarını öldürerek braketlerini topla. Bu ödüllerden bir yığın elde ettiğinizde geri dönün ve Horde sizi iyi bir şekilde ödüllendirecektir.",
-    ["Objectives"]="Kolkar Yağmacıları ve Fırtınacılarından 10 Centaur Bracer toplayın.",
-    ["Progress"]="Avın nasıl gidiyor, YOUR_NAME ?",
-    ["Completion"]="İyi iş çıkardın. Eminim hayatta kalan centaurlara korku salmışsındır, YOUR_NAME. Akılları varsa, şimdi sakinleşip saldırılarını durduracaklardır.NEW_LINEAma duracaklarını sanmıyorum ve bu çok talihsiz bir durum.NEW_LINETalihsizlik... onlar için.",
-    ["minlevel"]="0",
-    ["questlevel"]="0",
-    }, -- end Centaur Bracers
+        ["Title"] = "Sentor Bileklikleri",
+        ["Description"] = "Kolkar, Horde'nin Çorak Topraklar'daki hak iddialarına karşı bir tehdit; birliklerinin sayılarını azaltmalıyız. Bu yüzden senin için ödüllü bir görevim var.\n\nKolkar topraklarındayken savaşçılarını katlet ve sentor bileklikleri topla. Elinde bir yığın bileklikle geri döndüğünde Orda seni iyi ödüllendirecektir.",
+        ["Objectives"] = "Dörtyol'un batısındaki Regthar Ölümkapısı'na 15 Sentor Bilekliği getir.",
+        ["Progress"] = "Avın nasıl gidiyor, <name>?",
+        ["Completion"] = "Güzel iş. Hayatta kalan sentorların yüreğine korku saldığından eminim, <name>. Eğer akılları varsa, artık sakinleşir ve ilerleyişlerini durdururlar.\n\nAma durduracaklarını sanmıyorum ve bu talihsiz bir durum.\n\nTalihsiz... onlar için.",
+        ["minlevel"] = "0",
+        ["questlevel"] = "0"
+    },
 
     -- Ayların Gözyaşı
     ["857"] = {
@@ -7285,27 +7282,25 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end Yumurta Avı
 
-    -- Bir Hırsızın İzini Sürmek
     ["869"] = {
-    ["Title"]="Bir Hırsızın İzini Sürmek",
-    ["Description"]="Hayvan izleri enkazı çevreliyor, devasa kıvrık pençelerin oluşturduğu izler. Yırtıcı kuş izleri gibi görünüyorlar.NEW_LINEİlk içgüdünüz yırtıcı kuş sürücülerinin kervana saldırdığı yönünde, ancak izler derin değil ve görülebilecek hayvan dışı izler de yok.NEW_LINEİzler buradan kuzeydoğuya, Thorn Hill'in doğu tarafına doğru gidiyor. Bu gizemin cevabı onun gölgesinde yatıyor olmalı.",
-    ["Objectives"]="İzler Thorn Hill'in doğu tarafına gidiyor. Onları takip edin ve ne bulacağınıza bakın.",
-    ["Progress"]="O kafalardan sende var mı, YOUR_NAME ?",
-    ["Completion"]="Önünüzde, kulübelere girip çıkan, birbirlerine hırlayan ve ilkel kulübeler inşa etmek için birlikte çalışan bir yırtıcı kuş topluluğu uzanıyor. Yuvalarını parlak şeylerden oluşan koleksiyonlar çevreliyor. Gizem çözüldü!",
-    ["minlevel"]="0",
-    ["questlevel"]="0",
-    }, -- end Bir Hırsızın İzini Sürmek
+        ["Title"] = "Raptor Hırsızları",
+        ["Description"] = "Çok uzun zaman önce değil, nöbetçi kulemizden bir gümüş sevkiyatı çalındı. Dörtyol'daki muhafızlarının maaşı olarak ayrılmıştı ve o gümüşü geri istiyoruz.\n\nGarip olan şu ki... hırsızlık gecesi hırsızlardan birini yakaladık. Ve... o bir raptordu! İnanılmaz!\n\nRaptorların gümüşle ne yapacağını bilmiyorum. Ama umurumda da değil -- raptorların ölmesini istiyorum ki bir daha bizden çalmasınlar!\n\nÇoraklar'da raptor avla. Bana onların kafalarını topla!",
+        ["Objectives"] = "Dörtyol'daki Gazrog'a 12 Raptor Kafası getir.",
+        ["Progress"] = "O kafaları getirdin mi, <name>?",
+        ["Completion"] = "Raptorlardan kurtuldun!\n\nTeşekkür ederim, <name>. Sen değerli bir <class>'sın.",
+        ["minlevel"] = "0",
+        ["questlevel"] = "0"
+    },
 
-    -- Unutulmuş Havuzlar
-    ["870"] = {
-    ["Title"]="Unutulmuş Havuzlar",
-    ["Description"]="Sarsıntıları hissettin mi, YOUR_CLASS? Bir şey bu toprakları ikiye böldü. Ama biz druidler başka sarsıntıları da hissedebiliriz.NEW_LINEBir zamanlar kuru ve cansız olan topraklarda hayat canlanıyor. Kavşağın etrafındaki vahalar aniden çiçek açıyor. Yüzeye doğru sızan bir güç hissedebiliyorum, ama nereden? Barrens'ı paramparça eden felaketle bir ilgisi var mı?NEW_LINEKaynağı bulmalıyız. Kavşağın kuzeybatısındaki Unutulmuş Havuzlar'a git. Sularında bir güç kaynağı arayın, sonra buraya dönün.",
-    ["Objectives"]="Kavşağın kuzeybatısındaki Unutulmuş Havuzların dibini arayın.",
-    ["Progress"]="Forgotten Pools'a gittiniz mi, YOUR_NAME? Bir şey bulabildiniz mi?",
-    ["Completion"]="Yeryüzünde içinden gazlar fışkıran bir yarık mı buldun? Tuhaf. Bu sorularımıza bir cevap olabilir, ama henüz emin olamıyoruz.NEW_LINEAma bu bir ipucu. Ve onu bulduğunuz için minnettarım.",
-    ["minlevel"]="0",
-    ["questlevel"]="0",
-    }, -- end Unutulmuş Havuzlar
+   ["42142"] = {
+        ["Title"] = "Unutulmuş Havuzlar",
+        ["Description"] = "Uzun zaman önce Çoraklar, yaşamla dolup taşan yemyeşil bir yerdi. Ancak savaş ve felaket bu topraklarda hüküm sürdü, burayı kavurarak geriye kuru bir kovan bıraktı. İşlerin gidişatı böyle ve bu yüreğimi burkuyor.\n\nFakat son birkaç yıl içinde Çoraklar'da yeni vahalar oluştu ve yaşam yeniden kıpırdanıyor. Ve derinlerde biz druidler, yüzeye sızan bir gücü hissediyoruz.\n\nOnun kaynağını bulmalıyız. Dörtyolun kuzeybatısındaki Unutulmuş Havuzlar'a seyahat et. Sularında bir güç kaynağı ara, ardından buraya geri dön.",
+        ["Objectives"] = "Bulgularınla birlikte Tonga RünTotemi'ne rapor ver.",
+        ["Progress"] = "Unutulmuş Havuzlar'da bulundun mu, <name>? Bir şey bulabildin mi?",
+        ["Completion"] = "Toprakta içinden gazlar kabaran bir çatlak mı buldun? Garip. Bu sorularımıza bir yanıt olabilir ama henüz emin olamayız.\n\nYine de bu bir ipucu. Ve onu bulduğun için sana minnettarım.",
+        ["minlevel"] = "0",
+        ["questlevel"] = "0"
+    },
 
     -- Uzak İzleme Savunmasında
     ["871"] = {
@@ -7318,16 +7313,15 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end Uzak İzleme Savunmasında
 
-    -- Uzak İzleme Saldırısı
     ["872"] = {
-    ["Title"]="Uzak İzleme Saldırısı",
-    ["Description"]="Durotar sınırında domuzlar mı cirit atıyor? Benim gözetimimde olmaz! Dedikleri gibi, YOUR_NAME : En iyi savunma, sana karşı çıkan herkesi ezmektir.NEW_LINEGözcülerimden biri son kervan baskınından sonra quilboar'ı takip etti, bu yüzden nereye saldıracağımızı biliyoruz. Kreenig Snarlsnout nehir boyunca yapılan saldırıların arkasındaki beyin. Ez onu, YOUR_CLASS. Onu yen ve kuvvetlerinin bağırsaklarını deş ki bu kampa yapılan saldırılar dursun.NEW_LINEAhırlarımızın hemen güneyinde, nehir boyunca quilboar istilasına uğramış bir mağara arayın.",
-    ["Objectives"]="5 Razormane Savunucusu, 5 Razormane Diken Dokuyucusu ve Kreenig Snarlsnout'u öldür. Snarlsnout'un Dişini al.",
-    ["Progress"]="Liderlerinin kafasını kesin ve kaos başlasın, YOUR_NAME. Bu dersi iyi öğrenin. Gelecekte size yardımcı olacaktır.NEW_LINEYaban domuzları yönsüz kalacak ve biz de Barrens'ı geri alabileceğiz.",
-    ["Completion"]="Aferin, YOUR_NAME. Kreenig'in ölümüyle, karavanlarımıza yapılan saldırılarda kesin bir azalma olacak.NEW_LINEHalkın seni aralarında görmekten gurur duymalı.",
-    ["minlevel"]="0",
-    ["questlevel"]="0",
-    }, -- end Uzak İzleme Saldırısı
+        ["Title"] = "Kargaşa Sona Eriyor",
+        ["Description"] = "Gözcülerimden biri Durotar'dan gelen bir kervana yapılan saldırıya tanık oldu, <name>. Suçlular gerçekten de Ustura Yelesi okokuyuz kabilesi. Özellikle okokuyuzlardan biri baskınlara liderlik ediyor: Kreenig Hırıldayanburun. Buranın kuzeydoğusunda, Durotar'dan gelen yolun hemen güneyinde görüldü. Tehdit son bulacaksa Kreenig ölmeli.\n\nYine de saldırıların duracağından emin olmak için yaralarına tuz biber ekelim diyorum. Kreenig'i kabilesinden daha fazlasıyla birlikte katlet ve elinde onun azı dişiyle bana geri dön.",
+        ["Objectives"] = "8 Ustura Yelesi Geomancer'ı, 8 Ustura Yelesi Savunucusu'nu ve Kreenig Hırıldayanburun'u katlet.\n\nArdından Kreenig Hırıldayanburun'un Azı Dişi'ni Çaprazyollar'daki Thork'a getir.",
+        ["Progress"] = "Liderlerinin başını kesersen karmaşa baş gösterir, <name>. Bu dersi iyi öğren. Gelecekte sana yardımcı olacaktır.\n\nYaban domuzları yönsüz kalıp bocalayacak ve biz de Çoraklar'ı geri alabileceğiz.",
+        ["Completion"] = "Aferin, <name>. Kreenig'in ölümüyle birlikte kervanlarımıza yapılan saldırılarda kesin bir düşüş yaşanacak.\n\nHalkın seni aralarında saymaktan gurur duymalı.",
+        ["minlevel"] = "0",
+        ["questlevel"] = "0"
+    },
 
     -- Isha Awak
     ["873"] = {
@@ -7659,16 +7653,15 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end Samophlange
 
-    -- Dişi Avcıyı Avlamak
-    ["903"] = {
-    ["Title"]="Dişi Avcıyı Avlamak",
-    ["Description"]="Cesaretinizi bana gerçekten göstermek istiyorsanız, sizi gerçekten ısıran bir şeyin peşinden göndermeme izin verin. Barrens'in savana avcıları geldikleri gibi sinsidirler. Sert, becerikli, hızlı... ve ölümcül. Son zamanlarda şehrin dış mahallelerinde, özellikle de kuzeydoğuda gözcülerimizi rahatsız ediyorlar.NEW_LINEOnları avlarken dikkatli olun, YOUR_NAME Yoksa kendini artık avcı değil, av olarak bulabilirsin.",
-    ["Objectives"]="Savannah Dişi Avcılarından 5 Dişi Avcı Pençesi toplayın.",
-    ["Progress"]="Avın nasıl gidiyor, YOUR_NAME ?",
-    ["Completion"]="Ah, görüyorum ki meşgulmüşsün. Umarım bu avdan çok şey öğrenmişsindir, YOUR_NAME. Sevgili Horde'uma hizmet etmek için bunun gibi canavarların gücüne ve kurnazlığına ihtiyacın olacak.",
-    ["minlevel"]="0",
-    ["questlevel"]="0",
-    }, -- end Dişi Avcıyı Avlamak
+   ["903"] = {
+        ["Title"] = "Çorak Toprakların Sinsi Avcıları",
+        ["Description"] = "Şimdi gerçekten ısıran bir şeyin peşine düşme vakti. Çoraklar'ın sinsi avcıları sert bir soydan gelir. Çetin, becerikli, kurnaz... ve ölümcül. Onları yüksek otların arasında bulacaksın. Dörtyolun güneybatısında pek çoğunu bulabilirsin.\n\nOnları avlarken dikkatli ol, <name>, yoksa kendini bir anda avcı değil, av olarak bulabilirsin.",
+        ["Objectives"] = "Dörtyol'daki Sergra Karadiken için Savana Sinsi Avcıları'ndan 7 Sinsi Avcı Pençesi topla.",
+        ["Progress"] = "Avın nasıl gidiyor, <name>? Sinsi avcıları bulabildin mi?",
+        ["Completion"] = "Ah, otların arasında pusuya yatıp sinsi avcıları avlamakla meşgul olduğunu görüyorum. Öyleyse, aralarından bir şampiyonla yüzleşme zamanının geldiğini düşünüyor musun?",
+        ["minlevel"] = "0",
+        ["questlevel"] = "0"
+    },
 
     -- Yırtıcı Kuşun İnine
     ["905"] = {
@@ -15335,15 +15328,14 @@ QuestTranslator_QuestData = {
 
     -- Çalıntı Gümüş
     ["3281"] = {
-    ["Title"]="Çalıntı Gümüş",
-    ["Description"]="Yırtıcı kuşları öldürmüş olabilirsiniz ama çaldıkları gümüş geri alınmalı! Raptorların Ratchet'in güneyinde Raptor Alanı olarak bilinen büyük bir yuva grubu olduğuna dair raporlar aldım. Çalınan gümüşlerimizi oraya getirmiş olmaları muhtemel.NEW_LINEBu yırtıcı kuş cennetine git ve çalınan gümüşü ara. Bulduğunuzda bana geri getirin.",
-    ["Objectives"]="Çalınan Gümüş'ü Kavşak'taki Gazrog'a getirin.",
-    ["Progress"]="Gümüş var mı?",
-    ["Completion"]="Aha! Demek yırtıcılar gümüşü inlerinde saklamışlar. Bu yaratıkların gümüş için arzu duyduklarına inanmak zor. Belki de zekâlarıyla ilgili hikâyeler sandığım kadar gerçek dışı değildir!NEW_LINETeşekkürler, YOUR_NAME. Bunu bize verdiğin hizmetin bir ödülü olarak kabul et ve bil ki kavşaktaki muhafızlar gelecek ayki maaşlarını sana borçlular.",
-    ["minlevel"]="0",
-    ["questlevel"]="0",
-    }, -- end Çalıntı Gümüş
-
+        ["Title"] = "Çalınan Gümüş",
+        ["Description"] = "Raptorları öldürmüş olabilirsin ama çaldıkları gümüşlerin geri alınması gerek! Raptorların Cırcır'ın(Ratchet) güneyinde Raptor Arazileri olarak bilinen büyük bir yuva kümelenmesine sahip olduğuna dair raporlar var. Çalınan gümüşümüzü oraya götürmüş olmaları muhtemel.\n\nBu raptor sığınağına git ve çalınan gümüşü ara. Bulduğunda onu bana geri getir.",
+        ["Objectives"] = "Çalınan Gümüş'ü Dörtyol'daki Gazrog'a getir.",
+        ["Progress"] = "Gümüşü buldun mu?",
+        ["Completion"] = "Aha! Demek raptorlar gümüşü gerçekten de inlerinde saklamış. Bu yaratıkların gümüş arzusu taşıdığına inanmak zor. Belki de zekalarına dair anlatılan hikayeler düşündüğüm kadar gerçek dışı değildir!\n\nTeşekkür ederim, <name>. Bize verdiğin hizmetin ödülü olarak bunu al ve bil ki Dörtyoldaki muhafızlar önümüzdeki ayın maaşını sana borçlu.",
+        ["minlevel"] = "0",
+        ["questlevel"] = "0"
+    },
     -- Mura Runetotem
     ["3301"] = {
     ["Title"]="Mura Runetotem",
@@ -22789,7 +22781,7 @@ QuestTranslator_QuestData = {
 -- A Glittering Opportunity
     ["80395"] = {
     ["Title"]="Parıldayan Bir Fırsat",
-    ["Description"]="Hey, YOUR_RACE! Stoklarımdaki alışılmış silahların yanı sıra, senin için bir fırsatım var. Ratchet'tan Crossroads'a doğru yol alırken, Ratchet'ın hemen güneyindeki dağda tuhaf bir ışık gördüm. Ratchet'ın hemen dışında yukarı doğru çıkan bir rampa var gibi görünüyor. Ancak bazı raptor'lar orayı mesken edinmiş, bu yüzden dikkatli ol. Şimdi ne olduğunu bilmiyorum ama siz maceracı tipler tehlikeli durumlar söz konusu olduğunda hemen balıklama atlamayı seversiniz, değil mi? Bildiğim kadarıyla bir demon tarikatı falan gibi devasa bir mesele olabilir ve Ratchet'a kötü şeyler yapmaları BENİM işlerim için çok kötü olur. Bulacağın her türlü ganimeti bir ödeme olarak kabul et.",
+    ["Description"]="Hey, YOUR_RACE! Stoklarımdaki alışılmış silahların yanı sıra, senin için bir fırsatım var. NEW_LINERatchet'tan Crossroads'a doğru yol alırken, Ratchet'ın hemen güneyindeki dağda tuhaf bir ışık gördüm. Ratchet'ın hemen dışında yukarı doğru çıkan bir rampa var gibi görünüyor. Ancak bazı raptor'lar orayı mesken edinmiş, bu yüzden dikkatli ol. NEW_LINEŞimdi ne olduğunu bilmiyorum ama siz maceracı tipler tehlikeli durumlar söz konusu olduğunda hemen balıklama atlamayı seversiniz, değil mi? Bildiğim kadarıyla bir demon tarikatı falan gibi devasa bir mesele olabilir ve Ratchet'a kötü şeyler yapmaları BENİM işlerim için çok kötü olur. Bulacağın her türlü ganimeti bir ödeme olarak kabul et.",
     ["Objectives"]="Ratchet'ın güneyindeki dağı araştırın.",
     ["Progress"]="Aman tanrım, selamlar! Kimsiniz?",
     ["Completion"]="Oh, sen ışıkları araştırmak için gelen bir maceracısın, değil mi? Endişelenme, sadece özel bir madde vericisiyle deneyler yapıyordum ve bunun kimseye bir zararı yok! Korkma, deneyim başarılı olduğunda herkesin işine yarayacak! Öte yandan, eğer bu bölgeyi daha güvenli tutmak istersen senin için bir görevim var!",
@@ -25269,10 +25261,10 @@ QuestTranslator_QuestData = {
 -- Zehirlenmeyi Önlemek
     ["60134"] = {
     ["Title"]="Zehirlenmeyi Önlemek",
-    ["Description"]="Başardık, YOUR_NAME! Druidlerin yardımıyla, Çoraktopraklar'ı (Barrens) etkileyen Dehşetsisi Zehri'ne (Dreadmist Poison) bir çare bulduk. Ancak toprağın zehrin zarar verici etkilerinden kurtulması zaman alacaktır. Druidlar kalan hastalıklı hayvanları iyileştiriyor, ancak toprak tamamen iyileşene kadar sürüleri süregelen zehirden korumak için biz de harekete geçebiliriz. Bu merhemi al. Gazelleri zehirli otlara karşı güçlendirmek için onlara yedir.",
+    ["Description"]="Başardık, YOUR_NAME! Druidlerin yardımıyla, Çoraktopraklar'ı (Barrens) etkileyen Dehşetsisi Zehri'ne (Dreadmist Poison) bir çare bulduk. Ancak toprağın zehrin zarar verici etkilerinden kurtulması zaman alacaktır. NEW_LINEDruidlar kalan hastalıklı hayvanları iyileştiriyor, ancak toprak tamamen iyileşene kadar sürüleri süregelen zehirden korumak için biz de harekete geçebiliriz. NEW_LINEBu merhemi al. Gazelleri zehirli otlara karşı güçlendirmek için onlara yedir.",
     ["Objectives"]="Zarardan korumak için Çoraktopraklar'daki 10 Gazeli aşıla.",
     ["Progress"]="Bitti mi? Sadece otçullar bu zehre karşı korunursa, Toprakana'nın tüm yaratıklarına gelecek zararı önleyebiliriz.",
-    ["Completion"]="Sen yokken Crossroads'tan (Yolayrımı) geçen küçük bir gazel sürüsü gördüm. Rüzgarın kendisi toynaklarını daha yükseğe taşıyormuş gibi koşturuyorlardı ve onları özgürce koşarken görmek beni çok mutlu etti. Yardımın için teşekkürler, YOUR_NAME.",
+    ["Completion"]="Sen yokken Crossroads'tan geçen küçük bir gazel sürüsü gördüm. Rüzgarın kendisi toynaklarını daha yükseğe taşıyormuş gibi koşturuyorlardı ve onları özgürce koşarken görmek beni çok mutlu etti. Yardımın için teşekkürler, YOUR_NAME.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Preventing Poison
@@ -28340,7 +28332,7 @@ QuestTranslator_QuestData = {
     ["60133"] = {
     -- Gazelle -> Ceylan, Thunder Bluff -> Gürleyentepe, Moonglade -> Ayyarığı. Cenarion Circle -> Cenarion Çemberi. Barrens -> Çoraktopraklar.
     ["Title"]="İlletle Başa Çıkmak",
-    ["Description"]="Seni buradaki yaşamın o mucizevi kaynağını keşfetmen için gönderirken bile toprakları lekeleyen bir kötülük var. Uysal ceylan sürüleri hastalanıyor. Hastaları iyileştirme ve yaşam çemberine denge getirme çabalarımız engelleniyor. Gürleyentepe'deki (Thunder Bluff) evime ve oradaki kardeşlerim aracılığıyla Ayyarığı'na (Moonglade) haber gönderdim. Yakında Cenarion Çemberi'nden (Cenarion Circle) yardım alacağız. Ancak yardım etmeye hevesliysen, seni kesinlikle işe koşarım! Sürülerinin gerisinde kalan zavallı hayvanları takip et. Dişi aslanlar sürilerini beslemek için hastalıklı ceylanları indirmeden önce onları avlamalısın. Hayvan dostlarımızın neyi olduğunu inceleyebilmem için bana örneklerle geri dön.",
+    ["Description"]="Seni buradaki yaşamın o mucizevi kaynağını keşfetmen için gönderirken bile toprakları lekeleyen bir kötülük var. Uysal ceylan sürüleri hastalanıyor. Hastaları iyileştirme ve yaşam çemberine denge getirme çabalarımız engelleniyor. NEW_LINEGürleyentepe'deki (Thunder Bluff) evime ve oradaki kardeşlerim aracılığıyla Ayyarığı'na (Moonglade) haber gönderdim. Yakında Cenarion Çemberi'nden (Cenarion Circle) yardım alacağız. Ancak yardım etmeye hevesliysen, seni kesinlikle işe koşarım! NEW_LINESürülerinin gerisinde kalan zavallı hayvanları takip et. Dişi aslanlar sürilerini beslemek için hastalıklı ceylanları indirmeden önce onları avlamalısın. Hayvan dostlarımızın neyi olduğunu inceleyebilmem için bana örneklerle geri dön.",
     ["Objectives"]="Çoraktopraklar'da (the Barrens) dolaşan Hastalıklı Ceylanlardan 10 örnek topla.",
     ["Progress"]="Seni bu eylemi yapmaya göndermek kalbimi burkuyor, YOUR_NAME. Gecikme, sürüler giderek daha da zayıflıyor.",
     ["Completion"]="Teşekkür ederim, YOUR_NAME. Bu zavallı hayvanların fedakarlığı, çayırlara sızan bu gizemli lekeyi çözmeme ve etkileri için bir çare geliştirmeme yardımcı olacak.",
@@ -32309,8 +32301,8 @@ QuestTranslator_QuestData = {
     -- Orc -> Ork. Guards -> Muhafızlar.
     ["39994"] = {
     ["Title"]="Güruh Savunucusunun Baltası",
-    ["Description"]="Cesur savaşçılarımız için güçlü ve yeni bir silah dövmem gerekiyordu. Düşmanın ilk gördüğünde içine korku salacak bir silah. Neden onun üzerinde çalışmak yerine boş boş oturduğumu mu soruyorsun? Ne yazık ki, bu silahın planları Yolayrımı'na (the Crossroads) ulaşmadan önce çalındı. Planları taşıyan ork (orc) saldırıdan sağ çıkamadı, ama belki de başka biri buna tanık olmuştur ve failleri teşhis edebilir. Yolayrımı etrafındaki muhafızlara kim olduğunu görüp görmediklerini sor. O planları geri almalıyız.",
-    ["Objectives"]="Yolayrımı'ndaki (The Crossroads) bir Güruh Muhafızı ile konuş.",
+    ["Description"]="Cesur savaşçılarımız için güçlü ve yeni bir silah dövmem gerekiyordu. Düşmanın ilk gördüğünde içine korku salacak bir silah. Neden onun üzerinde çalışmak yerine boş boş oturduğumu mu soruyorsun? NEW_LINENe yazık ki, bu silahın planları Dörtyol'a (the Crossroads) ulaşmadan önce çalındı. Planları taşıyan ork saldırıdan sağ çıkamadı, ama belki de başka biri buna tanık olmuştur ve failleri teşhis edebilir. NEW_LINEYolayrımında etrafındaki muhafızlara kim olduğunu görüp görmediklerini sor. O planları geri almalıyız.",
+    ["Objectives"]="Yolayrımındaki (The Crossroads) bir Güruh Muhafızı ile konuş.",
     ["Progress"]="",
     ["Completion"]="Doğrudur. Şüpheli bir şeye tanık olmuştum.",
     ["minlevel"]="0",
@@ -32322,7 +32314,7 @@ QuestTranslator_QuestData = {
     -- Crossroads -> Yolayrımı / Crossroads. Human soldiers -> İnsan askerleri.
     ["39995"] = {
     ["Title"]="Horde Savunucusunun Baltası",
-    ["Description"]="Saldırının  kendisine tanık olmadım ama yolda devriye gezerken şüpheli bir şey gördüm. Bir grup insan askeri (human soldiers) güneydoğuya doğru ilerliyordu. Binekliydiler, bu yüzden onlara yetişemedim. Bahsettiğin orku öldürdüklerinden ve ardından ganimetle birlikte Kuzeygözetleme Kalesi'ne (Northwatch Hold) döndüklerinden şüpheleniyorum. Belki de aramana oradan başlamalısın. Elimden gelse seninle gelirdim ama görev yerimde kalmalıyım.",
+    ["Description"]="Saldırının kendisine tanık olmadım ama yolda devriye gezerken şüpheli bir şey gördüm. Bir grup insan askeri güneydoğuya doğru ilerliyordu. Binekliydiler, bu yüzden onlara yetişemedim. NEW_LINEBahsettiğin orku öldürdüklerinden ve ardından ganimetle birlikte Kuzeygözetleme Kalesi'ne (Northwatch Hold) döndüklerinden şüpheleniyorum. Belki de aramana oradan başlamalısın. Elimden gelse seninle gelirdim ama görev yerimde kalmalıyım.",
     ["Objectives"]="Çalınan Silah Planları'nı Yolayrımı'ndaki (Crossroads) Nargal Deatheye'a ulaştır.",
     ["Progress"]="Çalınan planların nerede tutulduğunu öğrenebildin mi?",
     ["Completion"]="Başardın! Yardımın için minnettarım, YOUR_NAME. Şimdi bu silah için gerekli olan malzemeleri toplamaya başlayabiliriz.",
@@ -33177,12 +33169,12 @@ QuestTranslator_QuestData = {
 
 -- Çenelerin İçine
     -- House Darlthos -> Darlthos Hanesi. Melenas kalmıştır. Blood magic -> Kan büyüsü.
-    -- Shadowfang Keep -> Gölgebiçem Kalesi (Shadow + Fang). Worgen -> Worgen.
+    -- Shadowfang Keep -> Gölgediş Kalesi (Shadow + Fang). Worgen -> Worgen.
     -- Pierce Shackleton, Undercity -> Yeraltışehri kalmıştır.
     ["40281"] = {
     ["Title"]="Çenelerin İçine",
-    ["Description"]="Kesinlikle bu tür bir kilidi epey bir zamandır görmemiştim. Ve şimdi Darlthos Hanesi'nin (House Darlthos) tüm bu meseleyi neden gizlilikle çevrelediğini anlayabiliyorum. Burada sahip olduğumuz şey bir tür kan büyüsüdür (blood magic). Bazıları kadar tehlikeli olmasa da, onu etkinleştirmek için kesinlikle aile üyesinin kanı gerekiyor. Bu büyüyü nasıl kuşanıp kullanacağını pek kimse bilmez; bunu kullandığını bildiyim son büyücü çoktan öldü! Melenas'ın, Gölgebiçem Kalesi (Shadowfang Keep) kütüphanesinin derinliklerinde kendine ait bir bölümü vardı. Belki orada işe yarar bir şeyler bulabilirsin. Ama dikkatli ol, o yer vahşi Worgenlar tarafından istila edilmiş durumda, bu yüzden dönene kadar bu kutuyu elimde tutmam daha iyi. Başarısız olursan hem seni hem de kutuyu kaybetmek istemeyiz, değil mi?",
-    ["Objectives"]="Gölgebiçem Kalesi (Shadowfang Keep) Kütüphanesi'nde Melenas'ın Eşyalarını bul ve onları Yeraltışehri'ndeki (the Undercity) Pierce Shackleton'a geri getir.",
+    ["Description"]="Kesinlikle bu tür bir kilidi epey bir zamandır görmemiştim. Ve şimdi Darlthos Hanesi'nin (House Darlthos) tüm bu meseleyi neden gizlilikle çevrelediğini anlayabiliyorum. Burada sahip olduğumuz şey bir tür kan büyüsüdür. Bazıları kadar tehlikeli olmasa da, onu etkinleştirmek için kesinlikle aile üyesinin kanı gerekiyor. Bu büyüyü nasıl kuşanıp kullanacağını pek kimse bilmez; bunu kullandığını bildiğim son büyücü çoktan öldü! NEW_LINEMelenas'ın, Gölgediş Kalesi (Shadowfang Keep) kütüphanesinin derinliklerinde kendine ait bir bölümü vardı. Belki orada işe yarar bir şeyler bulabilirsin. Ama dikkatli ol, o yer vahşi Worgenlar tarafından istila edilmiş durumda, bu yüzden dönene kadar bu kutuyu elimde tutmam daha iyi. Başarısız olursan hem seni hem de kutuyu kaybetmek istemeyiz, değil mi?",
+    ["Objectives"]="Gölgediş Kalesi (Shadowfang Keep) Kütüphanesi'nde Melenas'ın Eşyalarını bul ve onları Yeraltışehri'ndeki Pierce Shackleton'a geri getir.",
     ["Progress"]="Hmm...",
     ["Completion"]="En hafif tabirle ısrarcısın. Bakalım Melenas bizim için neler saklamış.",
     ["minlevel"]="0",
@@ -37170,7 +37162,7 @@ QuestTranslator_QuestData = {
     -- Steepcliff Port -> Dik Uçurum Limanı. Shaman -> Şaman, critters -> yaratıklar, paws -> pençeler. Silver -> Gümüş.
     ["40082"] = {
     ["Title"]="Musallatpostlulara Musallat Olmak",
-    ["Description"]="Engebeli Tepeler'in (The Jagged Hills) tepesinden Şef Rnarl, Musallatpostluların birleşmiş kabilelerine hükmediyor. Geçmişte onunla ilgilenmeye çalıştığımızda bile oldukça inatçı davrandı. Eğer Musallatpostlu Gnollarını (Pesterhide Gnolls) gerçekten dağıtmak ve onları kaosa sürüklemek istiyorsak, o zaman liderliklerinin kalbine darbe vurmalıyız.\n\nGnolları birleştiren kişi Şef Rnarl oldu ve o olmadan çökecekler. Orayadayken Belgar'ı da öldürdüğünden emin ol. O, yaratıkları (critters) güçlendiren ve eylemlerini daha da fazla kışkırtan bir şamandır (shaman). Bu ikisi düştüğünde sürüler dağılacaktır. Bana her ikisinin de pençelerini (paws) getir, karşılığında gümüş (silver) bir ödül alacaksın.",
+    ["Description"]="Engebeli Tepeler'in (The Jagged Hills) tepesinden Şef Rnarl, Musallatpostluların birleşmiş kabilelerine hükmediyor. Geçmişte onunla ilgilenmeye çalıştığımızda bile oldukça inatçı davrandı. Eğer Musallatpostlu Gnollarını (Pesterhide Gnolls) gerçekten dağıtmak ve onları kaosa sürüklemek istiyorsak, o zaman liderliklerinin kalbine darbe vurmalıyız.\n\nGnolları birleştiren kişi Şef Rnarl oldu ve o olmadan çökecekler. Orayadayken Belgar'ı da öldürdüğünden emin ol. O, yaratıkları güçlendiren ve eylemlerini daha da fazla kışkırtan bir şamandır (shaman). Bu ikisi düştüğünde sürüler dağılacaktır. Bana her ikisinin de pençelerini getir, karşılığında gümüş bir ödül alacaksın.",
     ["Objectives"]="Belgar ve Şef Rnarl'ın pençesini Dik Uçurum Limanı'ndaki (Steepcliff Port) Ölümmuhafızı Mike'a ulaştır.",
     ["Progress"]="Mahlukları katlettin mi yoksa sadece gitmelerini mi bekliyorsun?",
     ["Completion"]="Şef Rnarl, benden çok uzun süre kaçtın ama artık değil. Aferin, YOUR_NAME, benim yapamadığımı yaptın. Sen yetenekli bir savaşçısın ve övgüyü hak ediyorsun. Dik Uçurum Limanı (Steepcliff Port) daha fazla kurulduğunda geri dön, bir cesedi paylaşabiliriz.",
@@ -38238,8 +38230,8 @@ QuestTranslator_QuestData = {
     -- Manor -> Malikane. Letter -> Mektup, recommendation -> tavsiye. Duke Nargelas -> Dük Nargelas kalmıştır.
     ["40098"] = {
     ["Title"]="Hak Sahibi Mirasçı",
-    ["Description"]="Senin hakkında haklı çıktığıma sevindim. Yakındaki tehlikenin ortadan kalkmasıyla, Darlthos Hanedanı (House Darlthos) hakkında bilgi edinme vaktin geldi. Scourge (the Scourge) bu toprakları kasıp kavurmadan önce, hanedanımız tüm Lordaeron'daki (Lordaeron) en seçkin hanedanlardan biriydi. Yine de şimdi bölünmüş durumdayız, çünkü yengem (sister-in-law) hala yaşayanların hükümdarı gibi davranıyor. Ve sorunumuz da tam burada yatıyor, çünkü bu toprakların tek gerçek mirasçısı (heir) karımdır. Kesinlikle yeteneklisin, bu yüzden Düşes Grelda'nın (Duchess Grelda) huzuruna çıkma (audience) hakkını kazandın. Glenshire'ın (Glenshire) güneyindeki yolu, Tirisfal Yaylaları'nın (Tirisfal Uplands) kapılarını geçerek takip et; karımı yolun kenarındaki malikanede (manor) bulacaksın. Oh, ve bu mektubu ona verdiğinden emin ol. Bu bir... diyelim ki, bir tür tavsiye (recommendation) mektubudur.",
-    ["Objectives"]="Malikanesindeki Düşes Grelda (Duchess Grelda) ile konuş ve ona Dük Nargelas'tan (Duke Nargelas) gelen mektubu ver.",
+    ["Description"]="Senin hakkında haklı çıktığıma sevindim. Yakındaki tehlikenin ortadan kalkmasıyla, Darlthos Hanedanı (House Darlthos) hakkında bilgi edinme vaktin geldi. Scourge bu toprakları kasıp kavurmadan önce, hanedanımız tüm Lordaeron'daki en seçkin hanedanlardan biriydi. Yine de şimdi bölünmüş durumdayız, çünkü üvey kız kardeşim hala yaşayanların hükümdarı gibi davranıyor. NEW_LINEVe sorunumuz da tam burada yatıyor, çünkü bu toprakların tek gerçek mirasçısı karımdır. Kesinlikle yeteneklisin, bu yüzden Düşes Grelda'nın huzuruna çıkma hakkını kazandın. Glenshire'ın güneyindeki yolu, Tirisfal Yaylaları'nın (Tirisfal Uplands) kapılarını geçerek takip et; karımı yolun kenarındaki malikanede bulacaksın. NEW_LINEOh, ve bu mektubu ona verdiğinden emin ol. Bu bir... diyelim ki, bir tür tavsiye mektubudur.",
+    ["Objectives"]="Malikanesindeki Düşes Grelda ile konuş ve ona Dük Nargelas'tan gelen mektubu ver.",
     ["Progress"]="Evet?",
     ["Completion"]="Hmmm, kocamı etkilemeyi başardın mı? Bakalım aynısını benim için de yapabilecek misin?",
     ["minlevel"]="0",
