@@ -2391,16 +2391,15 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end Kral Topraklarını Savunurken
 
-    -- Ölüm Bizi Ayırana Dek
     ["264"] = {
-    ["Title"]="Ölüm Bizi Ayırana Dek",
-    ["Description"]="Pislik herif! Lanet haçlı seferi için beni terk ediyor. Çünkü \\",
-    ["Objectives"]="Clarice'in Kolyesini Silverpine'deki Yuriv'in Mezarına yerleştir.",
-    ["Progress"]="Taşa dokunulduğunda soğuk, ama belli ki istismar edilmiş. Çöpler alanı kirletiyor; çentikler ve yarıklar tabutun üstündeki kabartmayı süslüyor; ve mezarın etrafındaki yeşillik alanın üzerinde büyümeye başladı.NEW_LINEBuraya gömülenler kimsenin umurunda değil, özellikle de veba kurbanlarının.",
-    ["Completion"]="Değersiz kolyeyi mezarın üzerine yerleştiriyorsunuz ve ayarın içindeki değerli taş gözle görülür şekilde donuklaşıyor.NEW_LINEAyrılmak için ayağa kalktığınızda kolyeye bakıyorsunuz; tabutun tepesine yontulmuş kabartmanın ellerinin üzerinde cansız bir şekilde yatıyor. Düşünceleriniz Kabir'in üzerinden geçen sert ve serin bir esintiyle bölünüyor. Bir an için etrafınızdaki her şey sessizleşiyor.",
-    ["minlevel"]="0",
-    ["questlevel"]="0",
-    }, -- end Ölüm Bizi Ayırana Dek
+        ["Title"] = "Ölüm Bizi Ayırana Dek",
+        ["Description"] = "Aşağılık pislik! Lanet haçlı seferi için beni terk etti. Çünkü \"hortlakların oluşturduğu tehditlere karşı sahip olduğumuz en önemli şey Işık'mış.\" \n\nPeki ya çocukları?! Peki ya BEN?! Gece boyunca sabırla onu bekleyerek oturdum... Her zaman onun lanet olası görevinin ardından ikinci planda kaldım!\n\nİşte \"adaletin\" sana ne getirdiğine tanık ol, <name>! O öldü ve ben tam da onun durdurmaya çalıştığı şeyin ta kendisini taşıyorum!\n\nBu çöp parçasını al ve Kabristan'daki mezarına koy. Artık onunla da bununla da hiçbir ilgim olsun istemiyorum!",
+        ["Objectives"] = "Clarice'in Kolyesi'ni Gümüşçam'daki Yuriv'in Mezarı'na yerleştir.",
+        ["Progress"] = "Taş dokunulamayacak kadar soğuk ama bariz bir şekilde tahrip edilmiş. Etrafta çöpler var; tabutun üzerindeki kabartmayı çizikler ve yarıklar süslüyor; mezarın etrafındaki bitkiler alanın üzerini kaplamaya başlamış.\n\nHiç kimse burada kimin gömülü olduğunu umursamıyor, özellikle de veba kurbanları.",
+        ["Completion"] = "Değersiz kolyeyi mezarın üzerine yerleştiriyorsun ve yuvasındaki değerli taş belirgin bir şekilde sönükleşiyor gibi görünüyor.\n\nAyrılmak için ayağa kalktığında kolyeye aşağı doğru bakıyorsun; tabutun üstüne oyulmuş kabartmanın elleri üzerinde cansız bir şekilde yatıyor. Düşüncelerin, Kabristan'ın üzerinden geçen sert, serin bir rüzgarla kesiliyor. Bir an için etrafındaki her şey sessizleşiyor.",
+        ["minlevel"] = "0",
+        ["questlevel"] = "0"
+    },
 
    -- The Shadowy Search Continues
     -- Shadowy Search Continues -> Gölgeli Arayış Devam Ediyor (Shadowy + Search + Continues).
@@ -5759,8 +5758,8 @@ QuestTranslator_QuestData = {
     -- İnci Dalışı
     ["705"] = {
     ["Title"]="İnci Dalışı",
-    ["Description"]="Çorak Topraklar, acımasız yırtıcılar ve cesur leş yiyicilerle dolu sert bir yerdir. Korkutucu, özellikle de kısa boylu bir goblin için. Hayatta kalmak için kurnaz olmalıyım!NEW_LINEFlaş bombalarının tarifini biliyorum. Onları vahşi yaşamı korkutmak için kullanıyorum. Ama malzemelerden biri azalıyor: ezilmiş mavi inci tozu. Bana biraz getirin, çabalarınıza değsin.NEW_LINEUmarım iyi çizmeler giyiyorsundur. İhtiyacım olan Mavi İnciler Vile Resifi'ndeki istiridyelerden elde ediliyor.NEW_LINEEvet, Stranglethorn'daki Vile Resifi!",
-    ["Objectives"]="Çorak Topraklar'daki Rigglefuzz'a 9 Mavi İnci getir.",
+    ["Description"]="Çoraklar, acımasız yırtıcılar ve cesur leş yiyicilerle dolu sert bir yerdir. Korkutucu, özellikle de kısa boylu bir goblin için. Hayatta kalmak için kurnaz olmalıyım!NEW_LINEFlaş bombalarının tarifini biliyorum. Onları vahşi yaşamı korkutmak için kullanıyorum. Ama malzemelerden biri azalıyor: ezilmiş mavi inci tozu. Bana biraz getirin, çabalarınıza değsin.NEW_LINEUmarım iyi çizmeler giyiyorsundur. İhtiyacım olan Mavi İnciler Vile Resifi'ndeki istiridyelerden elde ediliyor.NEW_LINEEvet, Stranglethorn'daki Vile Resifi!",
+    ["Objectives"]="Çoraklar'daki Rigglefuzz'a 9 Mavi İnci getir.",
     ["Progress"]="İncilerimi aldın mı? Flaş bombalarım bitmek üzere!",
     ["Completion"]="Bunlar çok işe yarayacak! Sadece onları toz haline getirmem gerekiyor... sonra biraz ondan biraz bundan karıştırmam gerekiyor.NEW_LINEDikkat edin, leş yiyiciler! Parlamaya hazır olun!",
     ["minlevel"]="0",
@@ -5814,8 +5813,8 @@ QuestTranslator_QuestData = {
     -- Elementlerin İncelenmesi: Kaya
     ["710"] = {
     ["Title"]="Elementlerin İncelenmesi: Kaya",
-    ["Description"]="Burada, Çorak Topraklar'da son projem üzerinde çalışmayı bıraktım: elemental bağlama prangalarım.NEW_LINETamamlandıklarında, büyücülerin daha da büyük kapasitelerde kullanmak üzere daha da güçlü elementalleri çağırmalarına izin verecekler. İşe başlamak için, en yeni saldırı büyülerimden bazılarını test etmek için küçük taş parçalarına ve bir araya getirdiğim birkaç aygıta ihtiyacım var.NEW_LINEParçalar, buranın batısındaki küçük kaya elementallerinden kolayca toplanabilir. Bana biraz getirebilir misin?",
-    ["Objectives"]="10 Küçük Taş Parçası bul ve onları Çorak Topraklar'daki Lotwil Veriatus'a getir.",
+    ["Description"]="Burada, Çoraklar'da son projem üzerinde çalışmayı bıraktım: elemental bağlama prangalarım.NEW_LINETamamlandıklarında, büyücülerin daha da büyük kapasitelerde kullanmak üzere daha da güçlü elementalleri çağırmalarına izin verecekler. İşe başlamak için, en yeni saldırı büyülerimden bazılarını test etmek için küçük taş parçalarına ve bir araya getirdiğim birkaç aygıta ihtiyacım var.NEW_LINEParçalar, buranın batısındaki küçük kaya elementallerinden kolayca toplanabilir. Bana biraz getirebilir misin?",
+    ["Objectives"]="10 Küçük Taş Parçası bul ve onları Çoraklar'daki Lotwil Veriatus'a getir.",
     ["Progress"]="Bu alan mükemmel. Şunları bir an için yerinde tutabilir misiniz? Evet, aynen böyle, normal vektör boyunca. Şimdi, ben ne... Doğru. Son projemi test etmek için mükemmel. Hammaddeler, açık alan... zeki ve aydınlanmış bir sanat uygulayıcısı daha ne isteyebilir ki?",
     ["Completion"]="Bunlar iyi iş görür, YOUR_NAME. Teşekkür ederim. Hmm, beklediğimden biraz daha fazla kum var. Sürtünme katsayısını ayarlamalıyım. Hayır, bekle; don yağıyla yine de ihmal edilebilir olmalı.\\",
     ["minlevel"]="0",
@@ -5826,7 +5825,7 @@ QuestTranslator_QuestData = {
     ["711"] = {
     ["Title"]="Elementlerin İncelenmesi: Kaya",
     ["Description"]="YOUR_NAME Şimdiden tüm çıraklarımın toplamından daha yetenekli olduğunu kanıtladın.NEW_LINEİhtiyacım olan sonraki parçalar biraz daha güç gerektiriyor. Yeterince dikkatli olursan kaya elementallerinde büyük taş levhalar bulabilirsin. Vücutları daha güçlü ve daha büyüktür ve bu nedenle testlerim için yeterince büyük parçalara sahip olmaya daha yatkındır. Onları buradan daha batıda veya dağların kenarları boyunca güneydoğuda bulabilirsiniz.NEW_LINEAcele etmeyin; bana getirdiğiniz bu küçük parçaları test etmek için bir süreye ihtiyacım olacak.",
-    ["Objectives"]="Çorak Topraklar'daki Lotwil Veriatus'a 3 Büyük Taş Levha getirin.",
+    ["Objectives"]="Çoraklar'daki Lotwil Veriatus'a 3 Büyük Taş Levha getirin.",
     ["Progress"]="Çok memnun oldum, YOUR_NAME. Büyülerim tıpkı tahmin ettiğim gibi küçük parçaları etkiledi. Eğer bu deney öngördüğüm kadar başarılı olursa, kontrol edebileceğim elementaller bundan önce çağrılan her şeyi utandıracak.",
     ["Completion"]="YOUR_NAME tek kelimeyle inanılmaz! Tüm bunları bana getirmek için yarım düzine tauren gerekir diye düşünürdüm.",
     ["minlevel"]="0",
@@ -5836,8 +5835,8 @@ QuestTranslator_QuestData = {
     -- Elementlerin İncelenmesi: Kaya
     ["712"] = {
     ["Title"]="Elementlerin İncelenmesi: Kaya",
-    ["Description"]="YOUR_NAME Çorak Topraklar'daki elementallerden almam gereken bir parça daha var: Büyük kaya elementallerinin kaya bağlama bilezikleri. Hesaplarıma göre, bu bilezikler kendi zincirlerimin gücünü ölçmek için yeterli olmalı.NEW_LINEBüyük kaya elementallerini gözleme girişimlerim, buranın güneybatısında, hatırladığım kadarıyla bazı devlerin yakınında bir grup olduğunu gösterdi.NEW_LINEBana 5 tane bileklik getir ki fazladan olsun. Servo reaktiflerimi ve araştırmalarımı yanlış yere koymasıyla ünlüdür.",
-    ["Objectives"]="Çorak Topraklar'daki Lotwil Veriatus'a 5 Taş Bağlama Bileziği getir.",
+    ["Description"]="YOUR_NAME Çoraklar'daki elementallerden almam gereken bir parça daha var: Büyük kaya elementallerinin kaya bağlama bilezikleri. Hesaplarıma göre, bu bilezikler kendi zincirlerimin gücünü ölçmek için yeterli olmalı.NEW_LINEBüyük kaya elementallerini gözleme girişimlerim, buranın güneybatısında, hatırladığım kadarıyla bazı devlerin yakınında bir grup olduğunu gösterdi.NEW_LINEBana 5 tane bileklik getir ki fazladan olsun. Servo reaktiflerimi ve araştırmalarımı yanlış yere koymasıyla ünlüdür.",
+    ["Objectives"]="Çoraklar'daki Lotwil Veriatus'a 5 Taş Bağlama Bileziği getir.",
     ["Progress"]="Bulduğunuz taş levhalar idealdi, YOUR_NAME. Burada işimiz bittiğinde Lucien fazlalıkları Kharanos'a geri götürecek. Ne de olsa tekrar işe yarayabilirler.NEW_LINEÖrneğin, yüksek verimli patlayıcılara multidisipliner bir yaklaşım araştırmaya başladığımda kullanışlı küçük bir sığınak için güzel bir temel olabilirler...",
     ["Completion"]="YOUR_NAME Hiç araştırma görevlisi olmayı düşündünüz mü? Hayır mı? Senin yeteneklerin olmadan ne yapacağımdan emin değilim. Zeka, merak ve güç. Hepsi tek bir pakette toplanmış.",
     ["minlevel"]="0",
@@ -5859,7 +5858,7 @@ QuestTranslator_QuestData = {
     ["714"] = {
     ["Title"]="Gyro. Ne?",
     ["Description"]="YOUR_NAME işinizi tüm standartların ötesinde iyi yaptınız.NEW_LINE<Lotwil'in işinden dolayı dikkatinin dağıldığı belli oluyor.>NEW_LINEEğer Kharanos'ta karşılaşırsak, gelip iş başvurusunda bulunmaktan çekinme.NEW_LINEHoppala! Çabuk, şunu al... evet, şunu. Teşekkürler.NEW_LINEŞimdi sadece bir şeye daha ihtiyacım var. Korkarım küçük bir parça ama oldukça önemli: bir jirokronatom.NEW_LINEGidip bir tane alıp bana getirebilirsen, bunu tamamlamaya hazır olurum.",
-    ["Objectives"]="Çorak Topraklar'daki Lotwil Veriatus'a bir Gyrochronatom getirin.",
+    ["Objectives"]="Çoraklar'daki Lotwil Veriatus'a bir Gyrochronatom getirin.",
     ["Progress"]="Evet, evet, evet. Bir dakika.",
     ["Completion"]="HA!NEW_LINE<Lotwil senden gyrochronatom'u alır.>NEW_LINEMükemmel... neredeyse bitti. Hayır, gerçekten. Neredeyse bitirdim. Bu proje şu anda benim önceliğim. Şunu yerine yerleştireyim ve yaratmama yardım ettiğin şeyi kendin gör. Sadece birkaç dakika daha sürecek... belki... muhtemelen daha uzun. Belki de çok daha uzun. Göreceğiz.",
     ["minlevel"]="0",
@@ -5869,10 +5868,10 @@ QuestTranslator_QuestData = {
     -- Sıvı Taş
     ["715"] = {
     ["Title"]="Sıvı Taş",
-    ["Description"]="Lotwil için aldığın eşyaların endişelerimizin en küçüğü olacağını düşünüyorum, YOUR_NAME. Öte yandan, Lotwil'in kutsal saydığı bilimlerde fazlasıyla becerikli olduğunu kanıtladın, o halde bana yardım etmeye ne dersin?NEW_LINEBir görünmezlik iksirine ve bir iyileştirici iksire ihtiyacım var; bu işi başarırsa ikisi de çok yakında işe yarayabilir.NEW_LINEKarşılığında sana Lotwil'den öğrenirken geliştirmekte olduğum iksirin tarifini vereceğim. Çorak Topraklar'da yaptığı bazı araştırmalara dayanıyor.",
-    ["Objectives"]="Çorak Topraklar'daki Lucien Tosselwrench'e bir İyileştirici İksir ve bir Küçük Görünmezlik İksiri getir.",
+    ["Description"]="Lotwil için aldığın eşyaların endişelerimizin en küçüğü olacağını düşünüyorum, YOUR_NAME. Öte yandan, Lotwil'in kutsal saydığı bilimlerde fazlasıyla becerikli olduğunu kanıtladın, o halde bana yardım etmeye ne dersin?NEW_LINEBir görünmezlik iksirine ve bir iyileştirici iksire ihtiyacım var; bu işi başarırsa ikisi de çok yakında işe yarayabilir.NEW_LINEKarşılığında sana Lotwil'den öğrenirken geliştirmekte olduğum iksirin tarifini vereceğim. Çoraklar'da yaptığı bazı araştırmalara dayanıyor.",
+    ["Objectives"]="Çoraklar'daki Lucien Tosselwrench'e bir İyileştirici İksir ve bir Küçük Görünmezlik İksiri getir.",
     ["Progress"]="Bitirmeye yaklaşıyor. Sende işler nasıl gidiyor?",
-    ["Completion"]="EVET!NEW_LINEYani, teşekkür ederim, YOUR_NAME. Bunlar Çorak Topraklar'da seyahat ederken yardımcı olacak.",
+    ["Completion"]="EVET!NEW_LINEYani, teşekkür ederim, YOUR_NAME. Bunlar Çoraklar'da seyahat ederken yardımcı olacak.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Sıvı Taş
@@ -5881,7 +5880,7 @@ QuestTranslator_QuestData = {
     ["716"] = {
     ["Title"]="Taş Kumaştan Daha İyidir",
     ["Description"]="Lotwil'in ne kadar ucuz olabileceğini biliyorum. Bu yüzden tüm sıkıntılarınız için size bir şey yapmama izin verin. Belki sizi Lotwil'in en yeni icadı olan vahşetten korumaya bile yardımcı olur.NEW_LINEOnun için topladığın fazladan taşlarla çalışıyordum ve kullanmak isteyebileceğin güzel bilezikler yapabilirim. Elbette büyülüdürler.NEW_LINESenin için yaptığım bileklikleri tamamlayabilmem için bir demirci tarafından işlenmiş desenli bronz bilekliklere ihtiyacım var.",
-    ["Objectives"]="Çorak Topraklar'daki Lucien Tosselwrench'e Desenli Bronz Bileklikler getir.",
+    ["Objectives"]="Çoraklar'daki Lucien Tosselwrench'e Desenli Bronz Bileklikler getir.",
     ["Progress"]="Ben olsam o bilekliği almak için çok beklemezdim Orthanc.NEW_LINEBundan sonra ne olacağını kim bilebilir?",
     ["Completion"]="Al bakalım, YOUR_NAME. Bunları dene.",
     ["minlevel"]="0",
@@ -5958,8 +5957,8 @@ QuestTranslator_QuestData = {
     ["723"] = {
     ["Title"]="İnanç Beklentisi",
     ["Description"]="<Hammertoe yaralarını tutuyor ve tekrar konuşmadan önce soğukkanlılığını toparlamak için bir an bekliyor.>NEW_LINERyedol'u bul, YOUR_NAME. Ona tılsımı getir. <cough cough> O... <cough> ne yapacağını bulacaktır. Halkımızın kökenlerini aradığımı biliyor ve... <öksürük>... Shadowforge klanını durdurmanın da benim görevim olduğunu biliyor. Parşömenleri bulmalarına izin verilmemeli... <cough>",
-    ["Objectives"]="Hammertoe'nun Tılsımı'nı Çorak Topraklar'daki Arayıcı Ryedol'a götür.",
-    ["Progress"]="Kötü bir gündü diyeceğim ama burası Çorak Topraklar: her gün kötü bir gündür.",
+    ["Objectives"]="Hammertoe'nun Tılsımı'nı Çoraklar'daki Arayıcı Ryedol'a götür.",
+    ["Progress"]="Kötü bir gündü diyeceğim ama burası Çoraklar: her gün kötü bir gündür.",
     ["Completion"]="Hammertoe'nun muskası mı? Sanırım onun öldüğünü düşündüğümde moralim daha yüksekti. Emin olmak acıyı daha da kötüleştiriyor. Bu tılsım onun hayatının eseriydi. Ölümünün boşa gitmesine izin veremem.",
     ["minlevel"]="0",
     ["questlevel"]="0",
@@ -5979,7 +5978,7 @@ QuestTranslator_QuestData = {
     -- Bir Tehdit Haberinin İletilmesi
     ["725"] = {
     ["Title"]="Bir Tehdit Haberinin İletilmesi",
-    ["Description"]="YOUR_NAME Koş ve Danışman Belgrum'u bulabildiğin kadar çabuk bul. Ona tanık olduklarını anlat ve nasıl ilerlememizi istediğini sor. Bu not ona daha fazlasını açıklayacaktır.NEW_LINEBu arada, Hammertoe'nun ruhuyla konuşmak için zaman ayıracağım. Belki o Shadowforge kretenlerinin Çorak Topraklar'daki faaliyetlerini durdurmamıza yardımcı olacak bir şey biliyordur. Sadece dua edebiliriz.",
+    ["Description"]="YOUR_NAME Koş ve Danışman Belgrum'u bulabildiğin kadar çabuk bul. Ona tanık olduklarını anlat ve nasıl ilerlememizi istediğini sor. Bu not ona daha fazlasını açıklayacaktır.NEW_LINEBu arada, Hammertoe'nun ruhuyla konuşmak için zaman ayıracağım. Belki o Shadowforge kretenlerinin Çoraklar'daki faaliyetlerini durdurmamıza yardımcı olacak bir şey biliyordur. Sadece dua edebiliriz.",
     ["Objectives"]="Danışman Belgrum'u bul ve ona notunu ver.",
     ["Progress"]="Hmm? Evet, YOUR_CLASS.",
     ["Completion"]="Tarihçi Karnik'ten haber var. Mükemmel.NEW_LINEOnun işleri için her zaman vaktim vardır.NEW_LINE<Danışman Belgrum notu açar ve okumaya başlar.>",
@@ -5990,7 +5989,7 @@ QuestTranslator_QuestData = {
     -- Bir Tehdit Haberinin İletilmesi
     ["726"] = {
     ["Title"]="Bir Tehdit Haberinin İletilmesi",
-    ["Description"]="<Danışman Belgrum notun sonuna ulaşır ve gözleri bir an için büyür.>NEW_LINEOch, bunlar kötü haberler.NEW_LINEYOUR_NAME Lütfen Tarihçi Karnik'e dönün ve kralın yetkisiyle ona bu bilgi üzerine hızlı ve kararlı bir şekilde harekete geçmesini söyleyin. Shadowforge'un Çorak Topraklar'daki faaliyetlerini durdurmalı.",
+    ["Description"]="<Danışman Belgrum notun sonuna ulaşır ve gözleri bir an için büyür.>NEW_LINEOch, bunlar kötü haberler.NEW_LINEYOUR_NAME Lütfen Tarihçi Karnik'e dönün ve kralın yetkisiyle ona bu bilgi üzerine hızlı ve kararlı bir şekilde harekete geçmesini söyleyin. Shadowforge'un Çoraklar'daki faaliyetlerini durdurmalı.",
     ["Objectives"]="Tarihçi Karnik ile konuşun.",
     ["Progress"]="",
     ["Completion"]="Bu meseleye kralın kendisinden bekleyeceğim bir aciliyetle yaklaşıyorsun, YOUR_NAME.NEW_LINETamam o zaman. Shadowforge'u neyin yıkacağını biliyorum.NEW_LINEUldaman'daki varlıkları, onları operasyon üslerinden vurursak yavaşlatılabilir: Angor Kalesi.",
@@ -6058,7 +6057,7 @@ QuestTranslator_QuestData = {
     ["Title"]="Dünyanın Sarsıntıları",
     ["Description"]="Sigrun'dan duyduğuma göre ona çok yardımcı olmuşsunuz. Belki yardımınızı isteyebilirim. Buraya efendimiz Kirin Tor'lu Krasus tarafından Lethlor Vadisi'nde baş gösteren belaya bir son vermek için gönderildim.NEW_LINEBuradaki görevimin tam niteliğini ya da üstlenmem gereken görevleri açıklayamam, ancak bunun hayati bir öneme sahip olduğundan emin olabilirsiniz.NEW_LINEBazen Boff Kampı yakınlarında görülen bir grup gezgin dev, Dünya'nın İşareti adı verilen bir nesneyi çaldı; onu almalıyım. Onu bana getir, sana daha fazlasını anlatacağım.",
     ["Objectives"]="Garek için Dünya'nın İşareti'ni al.",
-    ["Progress"]="Göçebe dev grubu Çorak Topraklar'daki kampları arasında seyahat ediyor; kuru topraktan yükselen ısı ve dönen rüzgarlar ilerlemelerini takip etmeyi zorlaştıracak. Bazen Boff Kampı'ndan geçtiklerini duydum. Kaybolursan, aramayı orada deneyebilirsin.",
+    ["Progress"]="Göçebe dev grubu Çoraklar'daki kampları arasında seyahat ediyor; kuru topraktan yükselen ısı ve dönen rüzgarlar ilerlemelerini takip etmeyi zorlaştıracak. Bazen Boff Kampı'ndan geçtiklerini duydum. Kaybolursan, aramayı orada deneyebilirsin.",
     ["Completion"]="İşaret'i taşıyan iyi haberler getirdin YOUR_NAME. Dünyanın İşareti, Angor Kalesi'nin Kara Demir cüceleri tarafından Deathwing'in iki acımasız teğmenini, ikizler Blacklash ve Hematus'u bağlamak için yaratıldı.",
     ["minlevel"]="0",
     ["questlevel"]="0",
@@ -6067,7 +6066,7 @@ QuestTranslator_QuestData = {
     -- Scrounging
     ["733"] = {
     ["Title"]="Scrounging",
-    ["Description"]="Eğer savunma ve diğer ihtiyaçlarımı karşılamak için biraz malzeme bulamazsam burada işim zor olacak. Bölgedeki devlerin hurda metalle iyi donanımlı olduklarını fark ettim. Belki de Çorak Topraklar'daki kuşatma motorları hikayeleri o kadar da uzak değildir...NEW_LINEHer neyse, Prospector küçük kampımızın durumu hakkında endişelenmeye başladı, bu yüzden mümkünse yakında çalışmak istiyorum.NEW_LINEAna ogre kampı Dustbelch Grotto'da, buradan batıya doğru iyi bir yürüyüş mesafesinde.",
+    ["Description"]="Eğer savunma ve diğer ihtiyaçlarımı karşılamak için biraz malzeme bulamazsam burada işim zor olacak. Bölgedeki devlerin hurda metalle iyi donanımlı olduklarını fark ettim. Belki de Çoraklar'daki kuşatma motorları hikayeleri o kadar da uzak değildir...NEW_LINEHer neyse, Prospector küçük kampımızın durumu hakkında endişelenmeye başladı, bu yüzden mümkünse yakında çalışmak istiyorum.NEW_LINEAna ogre kampı Dustbelch Grotto'da, buradan batıya doğru iyi bir yürüyüş mesafesinde.",
     ["Objectives"]="Sigrun için 7 parça Hurda Metal alın.",
     ["Progress"]="Yapabildiğim kadarıyla idare ettim, ama... fazla değil. Başka malzeme buldun mu?",
     ["Completion"]="Bu bir başlangıç, YOUR_NAME Ironforge ya da Kaşifler Birliği'nden bir haber gelene kadar idare eder.NEW_LINEŞimdi, keşke söndürme fıçım için bir yerlerde biraz tuz bulabilseydim...",
@@ -6079,7 +6078,7 @@ QuestTranslator_QuestData = {
     ["734"] = {
     ["Title"]="Bu Zor Olacak",
     ["Description"]="Harika, harika.NEW_LINE<Lotwil zincirlerine geri dönmeden önce bir an için sana bakıyor>NEW_LINEGit Lucien'le konuş, YOUR_NAME. 5 numaralı çarka ihtiyacım var. Onu bana getir, olur mu?",
-    ["Objectives"]="Çorak Topraklar'da Lucien Tosselwrench ile konuş.",
+    ["Objectives"]="Çoraklar'da Lucien Tosselwrench ile konuş.",
     ["Progress"]="",
     ["Completion"]="Cog #5, ha? Evet, bu hiç iyi olmayacak.",
     ["minlevel"]="0",
@@ -6122,7 +6121,7 @@ QuestTranslator_QuestData = {
     -- Agmond'u bulun
     ["738"] = {
     ["Title"]="Agmond'u bulun",
-    ["Description"]="Araştırmacı Agmond güneybatıdaki Çorak Topraklar'daki kazı alanlarımızdan sorumluydu. \\",
+    ["Description"]="Araştırmacı Agmond güneybatıdaki Çoraklar'daki kazı alanlarımızdan sorumluydu. \\",
     ["Objectives"]="Agmond'u bul.",
     ["Progress"]="",
     ["Completion"]="Bu iskelet Agmond'un talihsiz kalıntıları olmalı. Vücudu kırılmış, hırpalanmış ve kemikleri temizlenmiş.",
@@ -6375,10 +6374,10 @@ QuestTranslator_QuestData = {
     -- Bir Kötülük Elçisi
     ["762"] = {
     ["Title"]="Bir Kötülük Elçisi",
-    ["Description"]="Büyükelçi Infernus, Uldaman'da kayıp eserleri arayan Shadowforge'a göz kulak olması için  Ragnaros tarafından Angor Kalesi'ne gönderildi.NEW_LINEHalkımız için zaten çok büyük kayıplar anlamına geliyordu, ama belli ki daha da kötüleşti. Ne kadar eser bulabileceklerini ve Ironforge'a karşı kullanabileceklerini tahmin etmekte tereddüt ediyorum.NEW_LINEAmacımız basit, YOUR_CLASS. Çorak Topraklar'a dönüp Büyükelçi Infernus'u yok etmek. Tehdit ortadan kalktığında, zaferinizin kanıtı ile Danışman Belgrum'a dönün.NEW_LINEArtık her şey senin elinde.",
+    ["Description"]="Büyükelçi Infernus, Uldaman'da kayıp eserleri arayan Shadowforge'a göz kulak olması için  Ragnaros tarafından Angor Kalesi'ne gönderildi.NEW_LINEHalkımız için zaten çok büyük kayıplar anlamına geliyordu, ama belli ki daha da kötüleşti. Ne kadar eser bulabileceklerini ve Ironforge'a karşı kullanabileceklerini tahmin etmekte tereddüt ediyorum.NEW_LINEAmacımız basit, YOUR_CLASS. Çoraklar'a dönüp Büyükelçi Infernus'u yok etmek. Tehdit ortadan kalktığında, zaferinizin kanıtı ile Danışman Belgrum'a dönün.NEW_LINEArtık her şey senin elinde.",
     ["Objectives"]="Angor Kalesi'nde Büyükelçi Infernus'u öldür ve Ironforge'daki Danışman Belgrum'a ölümünün kanıtını getir.",
     ["Progress"]="Zaman çok önemli, YOUR_NAME. Ragnaros hazırlanmamızı beklemeyecek.",
-    ["Completion"]="YOUR_NAME Ironforge'a ve cüce halkına olan bağlılığınız yadsınamaz. Bu konudaki yardımlarınız için teşekkür ederim.NEW_LINETarihçi Karnik'e başarılı olduğunuzu bildiren bir haber göndereceğim ve ayrıca kazı alanının kurtarılmasına yardımcı olmak için Çorak Topraklar'a mümkün olan en kısa sürede yardım gönderilmesini sağlayacağım. Tekrar teşekkür ederim.NEW_LINEGitmeden önce, Kral Bronzsakal adına senden bir şey daha isteyeceğim.",
+    ["Completion"]="YOUR_NAME Ironforge'a ve cüce halkına olan bağlılığınız yadsınamaz. Bu konudaki yardımlarınız için teşekkür ederim.NEW_LINETarihçi Karnik'e başarılı olduğunuzu bildiren bir haber göndereceğim ve ayrıca kazı alanının kurtarılmasına yardımcı olmak için Çoraklar'a mümkün olan en kısa sürede yardım gönderilmesini sağlayacağım. Tekrar teşekkür ederim.NEW_LINEGitmeden önce, Kral Bronzsakal adına senden bir şey daha isteyeceğim.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Bir Kötülük Elçisi
@@ -6694,7 +6693,7 @@ QuestTranslator_QuestData = {
     -- Bozuk İttifaklar
     ["793"] = {
     ["Title"]="Bozuk İttifaklar",
-    ["Description"]="Dünyanın Mührü, Lethlor Ravine'deki Elmas, Opal ve Ametist Sütunlarında tutulan üç rün taşı tarafından tutulmaktadır. Dünya'nın İşareti'ni kullanarak rün taşlarını kaldırabilir ve Dünya'nın Mührü'nün kilidini açabilirsiniz.NEW_LINEYine de dikkatli ol, YOUR_NAME Kara ejderhalar Blacklash ve Hematus hafife alınmamalı. Onları öldür ve bağlarını bana geri ver.NEW_LINEVadiye ulaşmak için Çorak Topraklar'ın en doğu kısmına git. Yine de dikkatli ol, çünkü geçit sayısız ejderhaya ev sahipliği yapıyor.",
+    ["Description"]="Dünyanın Mührü, Lethlor Ravine'deki Elmas, Opal ve Ametist Sütunlarında tutulan üç rün taşı tarafından tutulmaktadır. Dünya'nın İşareti'ni kullanarak rün taşlarını kaldırabilir ve Dünya'nın Mührü'nün kilidini açabilirsiniz.NEW_LINEYine de dikkatli ol, YOUR_NAME Kara ejderhalar Blacklash ve Hematus hafife alınmamalı. Onları öldür ve bağlarını bana geri ver.NEW_LINEVadiye ulaşmak için Çoraklar'ın en doğu kısmına git. Yine de dikkatli ol, çünkü geçit sayısız ejderhaya ev sahipliği yapıyor.",
     ["Objectives"]="Elmas, Opal ve Ametist Sütunlarını etkinleştirmek ve Rün Taşlarını elde etmek için Dünya İşaretini kullanın.NEW_LINEBlacklash ve Hematus'u serbest bırakmak için rün taşlarını Dünyanın Mührü'ne yerleştirin.NEW_LINEOnları öldür ve Blacklash'in Bağlarını, Hematus'un Zincirlerini ve Dünyanın İşaretini Gorn'a geri ver.",
     ["Progress"]="Ejderha türünden daha ölümcül çok az düşman vardır ve Blacklash ve Hematus kadar acımasızca savaşan çok az ejderha vardı.",
     ["Completion"]="Siyah Dragonflight, hain Karakaya(Blackrock) orklarıyla ittifak yapmaya devam ediyor ve her ikisi de hizaya getirilmeli ya da ortadan kaldırılmalı. Blacklash ve Hematus öldüğüne göre, dikkatimizi batıya, Karakaya(Blackrock) Spire'a çevirebiliriz.",
@@ -7129,16 +7128,15 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end Kolkar Liderleri
 
-    -- Derviş Verog
     ["851"] = {
-    ["Title"]="Derviş Verog",
-    ["Description"]="Verog'u bulmak zor olabilir ama topladığınız bilgilere bakılırsa, eşi Wyneth her zaman buranın batısındaki komuta çadırında. Eğer onu öldürürsek, Verog koşarak gelecektir.NEW_LINERegthar bizi buraya keşif için gönderdi, ama aynı zamanda centaur komuta zincirini bozmak için elimize geçen her fırsatı değerlendirmemizi söyledi. Verog'u tuzağa düşürün ve öldürün!",
-    ["Objectives"]="Derviş Verog'u tuzağa düşürmek için Wyneth'i öldürün, sonra onu katledin ve kafasını alın.",
-    ["Progress"]="Verog'u buldun mu, YOUR_NAME ?",
-    ["Completion"]="Çok iyi. Sentorları gerçekten heyecanlandırmış olmalısın -- muhafızlarımız Durgun Vaha'nın yakınlarında bir hareketlilik tespit etti, muhtemelen sendin.NEW_LINEYaptığınla gurur duymalısın, YOUR_NAME. İçinde büyük bir cesaret var.",
-    ["minlevel"]="0",
-    ["questlevel"]="0",
-    }, -- end Derviş Verog
+        ["Title"] = "Derviş Verog",
+        ["Description"] = "Derviş Verog adındaki sentor Çoraklar'da dolanıyor ve onu bulmak zor olacaktır. Ancak güneydoğudaki Durgun Vaha'da bulunan sentor komuta çadırında üslenmiştir. Onu kendine doğru çekmek mümkün olabilir.\n\nGüneydoğudaki Durgun Vaha'ya seyahat et ve komuta çadırının yakınındaki sentorlara saldır. Tehlikeli olacak ama yeterince sentor katledebilirsen alarmları çalacaktır. Ve Verog gelecektir.\n\nBana onun kafasını getir, ben de onu Barak Kodotazısı'nınkinin yanına koyayım.",
+        ["Objectives"] = "Dörtyol'ın batısındaki Regthar Ölümkapısı'na Verog'un Kafası'nı getir.",
+        ["Progress"] = "Verog'u buldun mu, <name>?",
+        ["Completion"] = "Çok iyi. O sentorları gerçekten kışkırtmış olmalısın -- muhafızlarımız Durgun Vaha yakınlarında bir hareketlilik tespit etti, muhtemelen sendin.\n\nYaptığın şeyle gurur duymalısın, <name>. İçinde büyük bir cesaret var.",
+        ["minlevel"] = "0",
+        ["questlevel"] = "0"
+    },
 
     -- Hezrul Bloodmark
     ["852"] = {
@@ -7175,7 +7173,7 @@ QuestTranslator_QuestData = {
 
     ["855"] = {
         ["Title"] = "Sentor Bileklikleri",
-        ["Description"] = "Kolkar, Horde'nin Çorak Topraklar'daki hak iddialarına karşı bir tehdit; birliklerinin sayılarını azaltmalıyız. Bu yüzden senin için ödüllü bir görevim var.\n\nKolkar topraklarındayken savaşçılarını katlet ve sentor bileklikleri topla. Elinde bir yığın bileklikle geri döndüğünde Orda seni iyi ödüllendirecektir.",
+        ["Description"] = "Kolkar, Horde'nin Çoraklar'daki hak iddialarına karşı bir tehdit; birliklerinin sayılarını azaltmalıyız. Bu yüzden senin için ödüllü bir görevim var.\n\nKolkar topraklarındayken savaşçılarını katlet ve sentor bileklikleri topla. Elinde bir yığın bileklikle geri döndüğünde Orda seni iyi ödüllendirecektir.",
         ["Objectives"] = "Dörtyol'un batısındaki Regthar Ölümkapısı'na 15 Sentor Bilekliği getir.",
         ["Progress"] = "Avın nasıl gidiyor, <name>?",
         ["Completion"] = "Güzel iş. Hayatta kalan sentorların yüreğine korku saldığından eminim, <name>. Eğer akılları varsa, artık sakinleşir ve ilerleyişlerini durdururlar.\n\nAma durduracaklarını sanmıyorum ve bu talihsiz bir durum.\n\nTalihsiz... onlar için.",
@@ -7208,7 +7206,7 @@ QuestTranslator_QuestData = {
     -- Sergra Darkthorn
     ["860"] = {
     ["Title"]="Sergra Darkthorn",
-    ["Description"]="Eğer avcının yolunda yürümek istiyorsanız, yolculuğunuz Barrens'a çıkar. Oradaki hayvanlar güçlü iradeli ve vahşidir. Orada avlanarak çok şey öğrenecek ve ruhunuz gelişecektir.NEW_LINESergra Darkthorn ile konuş. O senin Barrens'teki ilk rehberin olacak.NEW_LINESergra Kavşak'ta. Ona ulaşmak için Bloodhoof Köyü'nden doğuya, Çoraklığa doğru git, sonra yol çatallaşınca kuzeye dön. Yolculuğunuz sırasında dikkatli olun; Çorak Topraklar hazırlıksız ve dikkatsiz olanlar için büyük tehlikeler barındırır.",
+    ["Description"]="Eğer avcının yolunda yürümek istiyorsanız, yolculuğunuz Barrens'a çıkar. Oradaki hayvanlar güçlü iradeli ve vahşidir. Orada avlanarak çok şey öğrenecek ve ruhunuz gelişecektir.NEW_LINESergra Darkthorn ile konuş. O senin Barrens'teki ilk rehberin olacak.NEW_LINESergra Kavşak'ta. Ona ulaşmak için Bloodhoof Köyü'nden doğuya, Çoraklığa doğru git, sonra yol çatallaşınca kuzeye dön. Yolculuğunuz sırasında dikkatli olun; Çoraklar hazırlıksız ve dikkatsiz olanlar için büyük tehlikeler barındırır.",
     ["Objectives"]="Kavşak'ta Sergra Darkthorn ile konuş.",
     ["Progress"]="",
     ["Completion"]="Barrens'ta avlanmak mı istiyorsun?NEW_LINEGözlerin hevesli ve genç. Bu toprakların kuru düzlüklerinde avının izini sürmekten henüz kısılmamışlar.NEW_LINEAma endişelenme. Bedenini ve zihnini güçlendireceğiz. Ve size avlanmanın avınızı bulup öldürmekten daha fazlası olduğunu öğreteceğiz.NEW_LINEKendinizi hazırlayın. Yolculuğunuz başlıyor. Şimdi.",
@@ -7260,16 +7258,15 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end Korna Olmalı
 
-    -- Harpy Akıncıları
     ["867"] = {
-    ["Title"]="Harpy Akıncıları",
-    ["Description"]="Madem buradasın, YOUR_CLASS belki küçük bir sorun için bana yardım edebilirsin. Lanet harpiler çok uzun zamandır kervan malzemelerimizi yağmalıyorlar. Birkaçının boğazını kesip sayılarını azaltmanın zamanı geldi.NEW_LINEEn yıkıcı saldırı, alt komuta zincirlerinin iyi bir bölümünü yok edecek ve sonra tepeye doğru ilerleyebiliriz.NEW_LINEKuzeybatıdaki her türlü Cadı Kanadı harpisini yok edin ve bana 6 Cadı Kanadı Pençesi getirin. Bu iyi bir başlangıç olur.",
-    ["Objectives"]="Cadı Kanadı harpilerinden 6 Cadı Kanadı Pençesi topla.",
-    ["Progress"]="Yeterince kestiniz mi? Kesmeye ve ödül almaya devam et. 8 Witchwing pençesi istiyorum.",
-    ["Completion"]="Oh, bunlar güzel. Gerçekten güzel. İyi iş, YOUR_NAME. Gelecekte daha fazla çalışmanızı görmeyi dört gözle bekliyorum.",
-    ["minlevel"]="0",
-    ["questlevel"]="0",
-    }, -- end Harpy Akıncıları
+        ["Title"] = "Harpi Yağmacıları",
+        ["Description"] = "Lanet harpiler çok uzun zamandır kervan erzaklarımızı yağmalıyor. Birkaçının boğazını kesip sayılarını azaltmamızın vakti geldi.\n\nYuvalarının etrafında dolanıp kimin kimi yönettiğini çözdüm. En yıkıcı saldırı, alt komuta zincirlerinin büyük bir kısmını yok edecek ve ardından zirveye doğru yol alabileceğiz.\n\nSeni ağırdan başlatacağım; kuzeybatıdaki Cadıkanat Harpileri ile Cadıkanat Hayduttüylerini ortadan kaldır ve bana 8 Cadıkanat pençesi getir. Bu iyi bir başlangıç olmalı...",
+        ["Objectives"] = "8 Cadıkanat Pençesi topla.\n\nOnları Dörtyoldaki'daki Darsok Hızlıhançer'e geri getir.",
+        ["Progress"] = "Yeterince doğradın mı henüz? Dilimlemeye ve ganimet toplamaya devam et. 8 Cadıkanat pençesi istiyorum.",
+        ["Completion"] = "Oh, bunlar çok güzel. Gerçekten çok güzel... İyi iş, <name>. Gelecekte çalışmalarının devamını görmeyi iple çekiyorum.",
+        ["minlevel"] = "0",
+        ["questlevel"] = "0"
+    },
 
     -- Yumurta Avı
     ["868"] = {
@@ -7292,7 +7289,7 @@ QuestTranslator_QuestData = {
         ["questlevel"] = "0"
     },
 
-   ["42142"] = {
+   ["870"] = {
         ["Title"] = "Unutulmuş Havuzlar",
         ["Description"] = "Uzun zaman önce Çoraklar, yaşamla dolup taşan yemyeşil bir yerdi. Ancak savaş ve felaket bu topraklarda hüküm sürdü, burayı kavurarak geriye kuru bir kovan bıraktı. İşlerin gidişatı böyle ve bu yüreğimi burkuyor.\n\nFakat son birkaç yıl içinde Çoraklar'da yeni vahalar oluştu ve yaşam yeniden kıpırdanıyor. Ve derinlerde biz druidler, yüzeye sızan bir gücü hissediyoruz.\n\nOnun kaynağını bulmalıyız. Dörtyolun kuzeybatısındaki Unutulmuş Havuzlar'a seyahat et. Sularında bir güç kaynağı ara, ardından buraya geri dön.",
         ["Objectives"] = "Bulgularınla birlikte Tonga RünTotemi'ne rapor ver.",
@@ -7316,7 +7313,7 @@ QuestTranslator_QuestData = {
     ["872"] = {
         ["Title"] = "Kargaşa Sona Eriyor",
         ["Description"] = "Gözcülerimden biri Durotar'dan gelen bir kervana yapılan saldırıya tanık oldu, <name>. Suçlular gerçekten de Ustura Yelesi okokuyuz kabilesi. Özellikle okokuyuzlardan biri baskınlara liderlik ediyor: Kreenig Hırıldayanburun. Buranın kuzeydoğusunda, Durotar'dan gelen yolun hemen güneyinde görüldü. Tehdit son bulacaksa Kreenig ölmeli.\n\nYine de saldırıların duracağından emin olmak için yaralarına tuz biber ekelim diyorum. Kreenig'i kabilesinden daha fazlasıyla birlikte katlet ve elinde onun azı dişiyle bana geri dön.",
-        ["Objectives"] = "8 Ustura Yelesi Geomancer'ı, 8 Ustura Yelesi Savunucusu'nu ve Kreenig Hırıldayanburun'u katlet.\n\nArdından Kreenig Hırıldayanburun'un Azı Dişi'ni Çaprazyollar'daki Thork'a getir.",
+        ["Objectives"] = "8 Ustura Yelesi Geomancer'ı, 8 Ustura Yelesi Savunucusu'nu ve Kreenig Hırıldayanburun'u katlet.\n\nArdından Kreenig Hırıldayanburun'un Azı Dişi'ni Dörtyol'daki Thork'a getir.",
         ["Progress"] = "Liderlerinin başını kesersen karmaşa baş gösterir, <name>. Bu dersi iyi öğren. Gelecekte sana yardımcı olacaktır.\n\nYaban domuzları yönsüz kalıp bocalayacak ve biz de Çoraklar'ı geri alabileceğiz.",
         ["Completion"] = "Aferin, <name>. Kreenig'in ölümüyle birlikte kervanlarımıza yapılan saldırılarda kesin bir düşüş yaşanacak.\n\nHalkın seni aralarında saymaktan gurur duymalı.",
         ["minlevel"] = "0",
@@ -7400,16 +7397,15 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end İçeriden Gelen İhanet
 
-    -- Değişmiş Varlıklar
     ["880"] = {
-    ["Title"]="Değişmiş Varlıklar",
-    ["Description"]="Vahalardan ve keşfettiğiniz olağandışı enerjilerden etkilenen hem bitki hem de hayvan yaşamını incelemek önemli olacaktır. Altımızdaki Durgun Vaha bir tür snapjaw kaplumbağasına ev sahipliği yapıyor. Son zamanlarda nüfusları patladı. Dahası, bir zamanlar barışçıl olan bu hayvanlar, buraya gelmeden önce zor yoldan öğrendiğim gibi, giderek saldırganlaşıyor.NEW_LINE<Jerrik bandajlı bir parmağını kaldırıyor.>NEW_LINEVahalar tarafından değiştirildiklerinden şüpheleniyorum. Kabuklarını toplayın ve daha fazla çalışma için Crossroads'taki Tonga'ya götürün.",
-    ["Objectives"]="Durgun Vaha'daki Snapjaw'lardan 6 Değiştirilmiş Snapjaw Kabuğu toplayın.",
-    ["Progress"]="Koleksiyonunuz nasıl gidiyor? Deniz kabuklarını aldın mı?",
-    ["Completion"]="Teşekkürler, YOUR_NAME. Bir bölgenin hayvanlarını incelemek, bölgenin kendisi hakkında çok şey anlatabilir. Bu kabukların nasıl bir hikaye anlattığını göreceğiz.NEW_LINELütfen yardımınız için minnettarlığımı kabul edin... ve belki bu paraları kullanabilirsiniz. Onlara ihtiyacım olmadığını fark ettim.",
-    ["minlevel"]="0",
-    ["questlevel"]="0",
-    }, -- end Değişmiş Varlıklar
+        ["Title"] = "Değişime Uğramış Varlıklar",
+        ["Description"] = "Bulguların inanılmaz, <name>. Bu vahalar, dış bir kaynaktan geliyor olması gereken özellikler barındırıyor. Ya da belki de içten gelen bir kaynaktan.\n\nBu çatlakların vahaların suyundan içen canavarları nasıl etkilediğini bilmek istiyorum.\n\nGürsu ve Durgun Vahalarda bulunan vaha kapankanatlarını avla. Onları inceleyebilmem için bana kabuklarını getir.",
+        ["Objectives"] = "8 Değişime Uğramış Kapankanat Kabuğu'nu Çaprazyollar'daki Tonga RünTotemi'ne getir.",
+        ["Progress"] = "Toplama işin nasıl gidiyor? Kabukları aldın mı?",
+        ["Completion"] = "Teşekkür ederim, <name>. Bir bölgenin canavarlarını incelemek, bölgenin kendisi hakkında pek çok şey anlatabilir. Bu kabukların nasıl bir hikaye anlatacağını göreceğiz.\n\nYardımın için lütfen minnettarlığımı kabul et... Ve belki bu madeni paraları kullanabilirsin. Onlara ihtiyacım olmadığını görüyorum.",
+        ["minlevel"] = "0",
+        ["questlevel"] = "0"
+    },
 
     -- Echeyakee
     ["881"] = {
@@ -7654,7 +7650,7 @@ QuestTranslator_QuestData = {
     }, -- end Samophlange
 
    ["903"] = {
-        ["Title"] = "Çorak Toprakların Sinsi Avcıları",
+        ["Title"] = "Çorakların Sinsi Avcıları",
         ["Description"] = "Şimdi gerçekten ısıran bir şeyin peşine düşme vakti. Çoraklar'ın sinsi avcıları sert bir soydan gelir. Çetin, becerikli, kurnaz... ve ölümcül. Onları yüksek otların arasında bulacaksın. Dörtyolun güneybatısında pek çoğunu bulabilirsin.\n\nOnları avlarken dikkatli ol, <name>, yoksa kendini bir anda avcı değil, av olarak bulabilirsin.",
         ["Objectives"] = "Dörtyol'daki Sergra Karadiken için Savana Sinsi Avcıları'ndan 7 Sinsi Avcı Pençesi topla.",
         ["Progress"] = "Avın nasıl gidiyor, <name>? Sinsi avcıları bulabildin mi?",
@@ -7663,16 +7659,15 @@ QuestTranslator_QuestData = {
         ["questlevel"] = "0"
     },
 
-    -- Yırtıcı Kuşun İnine
-    ["905"] = {
-    ["Title"]="Yırtıcı Kuşun İnine",
-    ["Description"]="Av derinleşiyor, YOUR_NAME. Şimdi avını ininde bulmalı ve yenmelisin.NEW_LINEGüneyde, yolun hemen dışındaki tepelerin arasında bir sığınak inşa ettikleri yerde Güneşölçeği yırtıcı kuşlarını avla. Onları öldürün ve üzerlerindeki tüyleri çıkarın. Tüyleri, kardeşlerine onlardan korkmadığınızı göstermek için sunscale raptor yuvalarına yerleştirin!NEW_LINEDikkatli ol, YOUR_CLASS. Yırtıcı kuşlar sürüler halinde avlanır ve dikkatli olmazsanız üzerinize üşüşürler.",
-    ["Objectives"]="Sunscale raptorlarını öldürün ve tüylerini toplayın. Tüyleri 3 Sunscale Yuvasında kullanın.",
-    ["Progress"]="Yuvalara gittin mi, YOUR_NAME ?",
-    ["Completion"]="Görevin bitti mi? Bunu yaparken Scytheclaw'ın hayatını düşünün. Her yaratığın yaşamında önemli dersler vardır.NEW_LINEDiğerlerinden bazıları dersimi çok ağır verdiğimi düşünüyor. Sadece emirlerimi yerine getirdiğinizi biliyorum, ancak katlettiğiniz yaratıkların hayatlarını göz önünde bulundurmanızı istiyorum.NEW_LINEZaman zaman baş belası olsalar da, sadece katledilmelerini istediğimizde tehdit edici hale gelirler. Bu günkü kirletme bize sorun çözmekten çok sorun yaratacak...",
-    ["minlevel"]="0",
-    ["questlevel"]="0",
-    }, -- end Yırtıcı Kuşun İnine
+   ["905"] = {
+        ["Title"] = "Öfkeli Tırpanpençeler",
+        ["Description"] = "Şimdi, <name>, av derinleşiyor. Şimdi avını yenmeli ve ardından onun inine giden yolu bulmalısın.\n\nGüneydeki günpulu raptorları avla. Onları katlet ve taşıdıkları tüyleri sök. Tüyleri Durgun Vaha'nın güneybatısındaki tırpanpençe yuvalarına yerleştir. Kardeşlerine onlardan korkmadığını göster!",
+        ["Objectives"] = "Günpulu raptorları katlet ve tüylerini topla. Tüyleri 3 Tırpanpençe yuvasında kullan. Çaprazyollar'daki Sergra Karadiken'e geri dön.",
+        ["Progress"] = "Yuvalara gittin mi, <name>?",
+        ["Completion"] = "Demek yuvalara gittin ve avının tüylerini içlerine yerleştirdin. Şüphe yok ki bu iyi bir cesaret gerektiriyordu.\n\nKendini biraz daha çetin hissediyor musun, <name>? Çünkü buraya ilk geldiğin ana kıyasla şimdi daha çetin görünüyorsun. Sanırım Çoraklar görevini yapıyor.",
+        ["minlevel"] = "0",
+        ["questlevel"] = "0"
+    },
 
     -- İçeriden Gelen İhanet
     ["906"] = {
@@ -9600,8 +9595,8 @@ QuestTranslator_QuestData = {
     -- Sürgün Martek
     ["1106"] = {
     ["Title"]="Sürgün Martek",
-    ["Description"]="Arabanın çok hızlı gitmesini sağlayacak yeni bir motor geliştiriyorum! Uçacak kadar hızlı, biliyorum! Sadece çok çok ağır stresi kaldırabilecek pistonlar yapmam gerekiyor. Tüm denemelerim başarısız oldu çünkü yeterince sert pistonlar yapamıyorum!NEW_LINEAma nasıl yapılacağını bilen biri var.NEW_LINEAdı Sürgün Martek. O büyük bir demirci ve metal hakkında herkesten daha çok şey biliyor. Bu mektubu ona götür, yardım edebileceğini biliyorum!NEW_LINEAma o çok uzaklarda -- Azeroth'ta, Çorak Topraklar'da, bir kampta, bir goblinle birlikte!NEW_LINEBul onu!",
-    ["Objectives"]="Fizzle'ın Mektubu'nu Çorak Topraklar'daki Sürgün Martek'e götür.",
+    ["Description"]="Arabanın çok hızlı gitmesini sağlayacak yeni bir motor geliştiriyorum! Uçacak kadar hızlı, biliyorum! Sadece çok çok ağır stresi kaldırabilecek pistonlar yapmam gerekiyor. Tüm denemelerim başarısız oldu çünkü yeterince sert pistonlar yapamıyorum!NEW_LINEAma nasıl yapılacağını bilen biri var.NEW_LINEAdı Sürgün Martek. O büyük bir demirci ve metal hakkında herkesten daha çok şey biliyor. Bu mektubu ona götür, yardım edebileceğini biliyorum!NEW_LINEAma o çok uzaklarda -- Azeroth'ta, Çoraklar'da, bir kampta, bir goblinle birlikte!NEW_LINEBul onu!",
+    ["Objectives"]="Fizzle'ın Mektubu'nu Çoraklar'daki Sürgün Martek'e götür.",
     ["Progress"]="Beni bulmuşsun. Aferin sana.NEW_LINEGath'Ilzogg için yaptığım balta için mi buradasın? Yoksa Düşes Pamay'ın onurunu geri almak için mi buradasın?NEW_LINEAslında, hangisi olduğu umurumda değil. Eğer dövüşmek için buradaysanız, o zaman şu işi bitirelim...",
     ["Completion"]="Seni Fizzle mı gönderdi? Bu işleri değiştirir! Tabii ki sana yardım edeceğim. Fizzle ve kardeşi ölmemi istemeyen birkaç kişiden ikisi!NEW_LINEDemek Fizzle piston yapmak istiyor, ha? Planladığı her türlü baskıyı kaldırabilecek kadar güçlü pistonlar ve eğer Fizzle'ı tanıyorsam, o zaman bu yeni arabası tekerlekli bir volkan!",
     ["minlevel"]="0",
@@ -9622,8 +9617,8 @@ QuestTranslator_QuestData = {
     -- İnduryum
     ["1108"] = {
     ["Title"]="İnduryum",
-    ["Description"]="Buraya sadece insanlardan uzak durmak için gelmedim. Çorak Topraklar'da metal zenginliği var, YOUR_NAME Eğer onu alacak cesaretiniz varsa.NEW_LINEMetalin adı indurium ve şans eseri ısıya ve strese karşı yüksek dirençli olduğu söyleniyor. Fizzle'ın arabası için işe yarayabilir.NEW_LINEAma emin olalım. Bana indurium örnekleri getirin ve özelliklerini test edeyim.NEW_LINEGerçek induryum cevheri Uldaman'ın derinliklerinde yatıyor, ama Çorak Topraklar'daki Stonevault troglarının üzerinde bazen ondan parçalar oluyor. O pulları bana getir.",
-    ["Objectives"]="Çorak Topraklar'daki Sürgün Martek'e 10 Indurium Gevreği getir.",
+    ["Description"]="Buraya sadece insanlardan uzak durmak için gelmedim. Çoraklar'da metal zenginliği var, YOUR_NAME Eğer onu alacak cesaretiniz varsa.NEW_LINEMetalin adı indurium ve şans eseri ısıya ve strese karşı yüksek dirençli olduğu söyleniyor. Fizzle'ın arabası için işe yarayabilir.NEW_LINEAma emin olalım. Bana indurium örnekleri getirin ve özelliklerini test edeyim.NEW_LINEGerçek induryum cevheri Uldaman'ın derinliklerinde yatıyor, ama Çoraklar'daki Stonevault troglarının üzerinde bazen ondan parçalar oluyor. O pulları bana getir.",
+    ["Objectives"]="Çoraklar'daki Sürgün Martek'e 10 Indurium Gevreği getir.",
     ["Progress"]="Hiç indurium gevreği buldun mu, YOUR_NAME. Ocağımı ısıttım ve onları test etmeye hazırım.",
     ["Completion"]="Evet, bunlar iyi iş görür. Şimdi onları biraz ısıya sokalım ve ne yapacaklarına bakalım...",
     ["minlevel"]="0",
@@ -9795,16 +9790,16 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end Rabine Saturna
 
-    -- Çorak Topraklar
+    -- Çoraklar
     ["1124"] = {
-    ["Title"]="Çorak Topraklar",
+    ["Title"]="Çoraklar",
     ["Description"]="Un'Goro Krateri'nin batısında, kuzeybatı sırtı boyunca, sert bir çorak arazi olan Silithus yer alır. Orada gece elfleri ile kötücül, uzaylı bir güç arasında kadim bir savaş yaşandığını çok az kişi bilir. Kötülük mühürlendi, ama şimdi güçlerin bu tarifsiz dehşeti uyandırmak için çalıştığından şüpheleniyoruz.NEW_LINESilithus'taki ajanlarımızdan biri olan Layo Starstrike'ı ara; onu Valor's Rest'te, çöllerde ölenlerin son dinlenme yerinde bul. Ona bu mektubu ver, o da sana gereken güveni verecektir.",
     ["Objectives"]="Silithus'taki Valor's Rest mezarlığının yakınında Layo Starstrike ile konuşun ve ona Rabine'in Mektubunu gösterin.",
     ["Progress"]="Burası bu kadar rahat olmak için tehlikeli bir yer, YOUR_CLASS. Seni Silithus'un atıklarına getiren nedir?",
     ["Completion"]="Seni Rabine gönderdi, değil mi? Kendini burada hoş karşılanmış say... Bu ıssız ve terk edilmiş topraklar birini ne kadar hoş karşılayabilirse.NEW_LINEBurada yaşanan büyük sıkıntılar sırasında hayatta değildim, ancak bu çölün bazı kısımları o unutulmuş geçmişin ürkütücü resimleri olabilir. Sizin yardımınızla Cenarion Çemberi, nesiller önce ölmüş olması gereken bir tehdide son noktayı koyabilir.",
     ["minlevel"]="0",
     ["questlevel"]="0",
-    }, -- end Çorak Topraklar
+    }, -- end Çoraklar
 
     -- Melor Haber Gönderdi
     ["1130"] = {
@@ -9864,7 +9859,7 @@ QuestTranslator_QuestData = {
     -- Fizzle için haberler
     ["1137"] = {
     ["Title"]="Fizzle için haberler",
-    ["Description"]="İnduryumun ısıya karşı inanılmaz bir direnci vardır! Fizzle'ın pistonları için işe yarayacağına eminim. Ama gerçek induryum cevherine ihtiyacı olacak, sadece pullara değil.NEW_LINECevheri elde etmek için Uldaman'ın derinliklerinden, Çorak Topraklar'ın kuzey sınırlarından çıkarılması gerekir. Indurium'un gerçek kaynağı orasıdır.NEW_LINEFizzle Brassbolts'a selamlarımı ilet ve sana söylediklerimi ona da söyle.NEW_LINEİyi yolculuklar, YOUR_NAME. Ve tekrar karşılaşırsak hiç şaşırmam -- Fizzle indurium'u öğrendiğinde muhtemelen seni onu elde etmen için Uldaman'a gönderecektir!",
+    ["Description"]="İnduryumun ısıya karşı inanılmaz bir direnci vardır! Fizzle'ın pistonları için işe yarayacağına eminim. Ama gerçek induryum cevherine ihtiyacı olacak, sadece pullara değil.NEW_LINECevheri elde etmek için Uldaman'ın derinliklerinden, Çoraklar'ın kuzey sınırlarından çıkarılması gerekir. Indurium'un gerçek kaynağı orasıdır.NEW_LINEFizzle Brassbolts'a selamlarımı ilet ve sana söylediklerimi ona da söyle.NEW_LINEİyi yolculuklar, YOUR_NAME. Ve tekrar karşılaşırsak hiç şaşırmam -- Fizzle indurium'u öğrendiğinde muhtemelen seni onu elde etmen için Uldaman'a gönderecektir!",
     ["Objectives"]="Thousand Needles'daki Parıldayan Düzlüklerde Fizzle Brassbolts ile konuşun.",
     ["Progress"]="",
     ["Completion"]="YOUR_NAME Geri döndün! Martek'i buldun mu? Onunla konuştun mu? Ne söyledi? Yardım edebilir mi?NEW_LINESöyle bana, söyle bana, söyle bana!",
@@ -10284,7 +10279,7 @@ QuestTranslator_QuestData = {
     ["Title"]="İnduryum Cevheri",
     ["Description"]="",
     ["Objectives"]="Bu görev Blizzard tarafından geçersiz olarak işaretlendi ve elde edilemez veya tamamlanamaz.",
-    ["Progress"]="Indurium'u yarışçılarımızın farklı parçalarına entegre etmek istiyorum, ancak bu parçaları oluşturmak için büyük miktarlarda ham indurium'a ihtiyacım var.NEW_LINEInduryum cevherini Khaz Modan'da denizin karşısındaki Çorak Topraklar'da bulunan Uldaman kazısında bulabilirsiniz.NEW_LINECüceler kendi kaynaklarını elde ediyorlar, bu yüzden onlara ayak uydurmak için kendimizinkini elde etmemiz önemli.",
+    ["Progress"]="Indurium'u yarışçılarımızın farklı parçalarına entegre etmek istiyorum, ancak bu parçaları oluşturmak için büyük miktarlarda ham indurium'a ihtiyacım var.NEW_LINEInduryum cevherini Khaz Modan'da denizin karşısındaki Çoraklar'da bulunan Uldaman kazısında bulabilirsiniz.NEW_LINECüceler kendi kaynaklarını elde ediyorlar, bu yüzden onlara ayak uydurmak için kendimizinkini elde etmemiz önemli.",
     ["Completion"]="Harika! Bir sonraki yarış için ihtiyacımız olan parçalar üzerinde ekibi hemen çalışmaya başlatacağım.",
     ["minlevel"]="0",
     ["questlevel"]="0",
@@ -10293,7 +10288,7 @@ QuestTranslator_QuestData = {
     -- Rizzle'ın Şemaları
     ["1194"] = {
     ["Title"]="Rizzle'ın Şemaları",
-    ["Description"]="Rizzle'ın şemaları induryum cevherinin rafine edilme sürecini tarif ediyor. Çizimlerinden, induryum cevherinin Çorak Topraklar'daki Uldaman cüce kazı alanından elde edildiği anlaşılıyor.NEW_LINEDiğer notların çoğu ısıya dayanıklılık özellikleriyle ilgili.NEW_LINEPlanlar için kağıt ağırlığı olarak kullanılan, rafine edilmemiş indüryum cevheri gibi görünen bir parça.",
+    ["Description"]="Rizzle'ın şemaları induryum cevherinin rafine edilme sürecini tarif ediyor. Çizimlerinden, induryum cevherinin Çoraklar'daki Uldaman cüce kazı alanından elde edildiği anlaşılıyor.NEW_LINEDiğer notların çoğu ısıya dayanıklılık özellikleriyle ilgili.NEW_LINEPlanlar için kağıt ağırlığı olarak kullanılan, rafine edilmemiş indüryum cevheri gibi görünen bir parça.",
     ["Objectives"]="İnduryum Cevheri Örneğini Bin İğne'deki Parıldayan Düzlüklerde bulunan Pozzik'e getirin.",
     ["Progress"]="",
     ["Completion"]="İnduryum mu? İlginç... Eğer söylediğiniz derecede ısıya dayanabiliyorsa, bu cücelerin son zamanlarda sergiledikleri performans artışını açıklayabilir.NEW_LINEBana getirdiğiniz bu örnek de çok değerli olacak. Bunun üzerinde bazı testler yapabileceğim, ancak bunun gerçekten işimize yaraması için daha fazlasına ihtiyacım olacak.",
@@ -10612,7 +10607,7 @@ QuestTranslator_QuestData = {
     -- Helbrim için örnek
     ["1358"] = {
     ["Title"]="Helbrim için örnek",
-    ["Description"]="Kalimdor'daki bir meslektaşım, Eczacı Helbrim, Lordaeron toksinlerinin Kalimdor'un hayvanları üzerindeki etkilerini araştırıyor. Renferrel'in bana gönderdiği kurt kalplerinden bir örnekle çok ilgilenecektir.NEW_LINEHelbrim, Barrens'te, Crossroads olarak bilinen bir köyde konuşlanmıştır. Ona ulaşmak için zeplinle ork başkenti Orgrimmar'a gitmeli, ardından güneye, Durotar'a yaya olarak seyahat etmelisiniz. Batıya, Çorak Topraklar'a doğru ilerleyin ve yakında Kavşak'a ulaşacaksınız.",
+    ["Description"]="Kalimdor'daki bir meslektaşım, Eczacı Helbrim, Lordaeron toksinlerinin Kalimdor'un hayvanları üzerindeki etkilerini araştırıyor. Renferrel'in bana gönderdiği kurt kalplerinden bir örnekle çok ilgilenecektir.NEW_LINEHelbrim, Barrens'te, Crossroads olarak bilinen bir köyde konuşlanmıştır. Ona ulaşmak için zeplinle ork başkenti Orgrimmar'a gitmeli, ardından güneye, Durotar'a yaya olarak seyahat etmelisiniz. Batıya, Çoraklar'a doğru ilerleyin ve yakında Kavşak'a ulaşacaksınız.",
     ["Objectives"]="Kurt Kalbi Örneğini Barrens'taki Eczacı Helbrim'e getirin.",
     ["Progress"]="Benim için bir paketin mi var?",
     ["Completion"]="Ah, çok iyi. İlk raporlar doğruysa, bu kalplerin toksisitesi zehirler hakkındaki bilgilerimizde daha fazla ilerlemeye yol açabilir.NEW_LINEBu hoş bir teslimat, YOUR_NAME. Ödülünüzü hak ettiniz.",
@@ -10634,7 +10629,7 @@ QuestTranslator_QuestData = {
     -- Geri Kazanılmış Hazineler
     ["1360"] = {
     ["Title"]="Geri Kazanılmış Hazineler",
-    ["Description"]="Çorak Topraklar'daki Uldaman kazı alanında kazıcı olarak iyi bir işim vardı... ta ki o lanet troglar ortaya çıkana kadar. Postuma zar zor zarar vererek kaçtım, başka da bir şeyim yoktu. Kaosun içinde en değerli eşyamı bıraktım. Göğsümde troglardan güvende, elbette, ama tam da onların ortasında.NEW_LINEOnu benim için getirebilirseniz, size hem onur hem de para olarak borçlu olurum! Kuzey Ortak Salon'un sonunda üzerinde adımın yazılı olduğu bir sandık var. İçeri girmek için ihtiyacın olan o.",
+    ["Description"]="Çoraklar'daki Uldaman kazı alanında kazıcı olarak iyi bir işim vardı... ta ki o lanet troglar ortaya çıkana kadar. Postuma zar zor zarar vererek kaçtım, başka da bir şeyim yoktu. Kaosun içinde en değerli eşyamı bıraktım. Göğsümde troglardan güvende, elbette, ama tam da onların ortasında.NEW_LINEOnu benim için getirebilirseniz, size hem onur hem de para olarak borçlu olurum! Kuzey Ortak Salon'un sonunda üzerinde adımın yazılı olduğu bir sandık var. İçeri girmek için ihtiyacın olan o.",
     ["Objectives"]="Krom Stoutarm'ın değerli eşyasını Uldaman'ın Kuzey Ortak Salonu'ndaki sandığından al ve Ironforge'da ona getir.",
     ["Progress"]="Peki şimdi, sandığıma girip hazinemi almak için o trogları yeterince uzun süre tokatlayabilecek misin?",
     ["Completion"]="Ah, kendimi yeniden tamamlanmış hissediyorum - teşekkür ederim.NEW_LINEBazı cüceler metalin parlaklığına, bazıları da mücevherlerin ışıltısına değer verebilir... ama elinde değerli bir stein olmayan bir Stoutarm, Stoutarm bile sayılmaz!",
@@ -10788,7 +10783,7 @@ QuestTranslator_QuestData = {
     -- Neeka Bloodscar
     ["1418"] = {
     ["Title"]="Neeka Bloodscar",
-    ["Description"]="Çorak Topraklar serttir ve İttifak'ın elindeki Loch Modan topraklarına yakındır, bu nedenle Stonard ile Kargath'ın Çorak Topraklar ileri karakolu arasındaki iletişim sık sık kesilir.NEW_LINEKendini kanıtla, YOUR_NAME. Çorak Topraklar'a git ve Kargath karakolunun baş gözcüsü Neeka Bloodscar ile konuş. Onunla konuş ve raporunu bana geri gönder.",
+    ["Description"]="Çoraklar serttir ve İttifak'ın elindeki Loch Modan topraklarına yakındır, bu nedenle Stonard ile Kargath'ın Çoraklar ileri karakolu arasındaki iletişim sık sık kesilir.NEW_LINEKendini kanıtla, YOUR_NAME. Çoraklar'a git ve Kargath karakolunun baş gözcüsü Neeka Bloodscar ile konuş. Onunla konuş ve raporunu bana geri gönder.",
     ["Objectives"]="Neeka Bloodscar ile konuş.",
     ["Progress"]="",
     ["Completion"]="Helgrum rapor istiyor, ha? Üç gün önce Stonard'a bir öncü gönderdim. Görevinde başarısız mı oldu? Stonard raporumu almadıysa, başarısız olmuş demektir.NEW_LINEUmalım da bir sonraki göndereceğim koşucu daha yetenekli ya da daha şanslı olsun.",
@@ -10799,10 +10794,10 @@ QuestTranslator_QuestData = {
     -- Çakal Hırsızları
     ["1419"] = {
     ["Title"]="Çakal Hırsızları",
-    ["Description"]="Çorak Topraklar'da çok gün geçirdin mi, YOUR_CLASS ? Sıcaklığını hissettiniz mi? Tozlu düzlüklerinde dolaşan canavarlarla yüzleştiniz mi? Bunu yapmanın zamanı geldi.NEW_LINECrag çakalları sert bir türdür. Sert ve Kargath'a girip yiyecek kaynaklarımızı çalacak kadar cesur. Karakolu bu hırsızlardan kurtarmaya yardım edin!NEW_LINEÇakalları avla, YOUR_NAME. Onları avla ve bana çene kemiklerini getir. Bana yeterince getir, belki Çorak Topraklar'ı bildiğini söylediğinde inanırım.",
+    ["Description"]="Çoraklar'da çok gün geçirdin mi, YOUR_CLASS ? Sıcaklığını hissettiniz mi? Tozlu düzlüklerinde dolaşan canavarlarla yüzleştiniz mi? Bunu yapmanın zamanı geldi.NEW_LINECrag çakalları sert bir türdür. Sert ve Kargath'a girip yiyecek kaynaklarımızı çalacak kadar cesur. Karakolu bu hırsızlardan kurtarmaya yardım edin!NEW_LINEÇakalları avla, YOUR_NAME. Onları avla ve bana çene kemiklerini getir. Bana yeterince getir, belki Çoraklar'ı bildiğini söylediğinde inanırım.",
     ["Objectives"]="Kargath'taki Neeka Bloodscar'a 30 Çakal Çene Kemiği getir.",
     ["Progress"]="Çene kemiklerin var mı?",
-    ["Completion"]="Güzel bir çene kemiği koleksiyonu, YOUR_NAME. Artık o çakallar artıklar için malzemelerimizi parçalamayacaklar.NEW_LINEİyi iş çıkardın. Çorak Topraklar'ın çakalları kolay av değildir. Yaptığın şey bana burada hayatta kalabileceğini gösteriyor.",
+    ["Completion"]="Güzel bir çene kemiği koleksiyonu, YOUR_NAME. Artık o çakallar artıklar için malzemelerimizi parçalamayacaklar.NEW_LINEİyi iş çıkardın. Çoraklar'ın çakalları kolay av değildir. Yaptığın şey bana burada hayatta kalabileceğini gösteriyor.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Çakal Hırsızları
@@ -13569,7 +13564,7 @@ QuestTranslator_QuestData = {
     ["Description"]="Ben Ironforge'da büyük üne sahip bir kuyumcuyum! En azından eski şöhretim. Bir rakibimin hilesi yüzünden zor zamanlar geçirdim! Bu işte kötü bir şöhret mali felaket demektir. Sonuç olarak, şu anda lekelenmiş olsa da iyi olan ismim için kendimi bir bakırdan yoksun buluyorum.NEW_LINEAldığım bir siparişi tamamlamak için bana beş gümüş külçe getirmeni istiyorum - sonsuzluk gibi görünen ilk sipariş.NEW_LINESen bana o beş gümüş külçeyi getir, ben de kolyeyle ilgili sorularını cevaplayayım.",
     ["Objectives"]="Ironforge'daki Talvash del Kissel'e beş gümüş külçe getir.",
     ["Progress"]="İstediğim beş gümüş külçeyi aldın mı? Şu anda sahip olduğun kolyeyle ilgili kederli hikayemi seninle paylaşacağım... ama sadece o çubukları aldıktan sonra! Lütfen, bir cüceye yardım et, olur mu?",
-    ["Completion"]="Benim kitabımda haklısın; diğer herkesin ne söylediği umurumda değil... Şaka yapıyorum, şaka yapıyorum! Cidden, teşekkür ederim dostum.NEW_LINESahip olduğun kolye en iyi tasarımlarımdan biri, ancak büyü gücünü ona bağlamaya yardımcı olan üç mücevher eksik. Bir süre önce bir şovalye için yapmıştım. Uldaman adı verilen Çorak Topraklar'daki bir kazı alanında bulunan \\",
+    ["Completion"]="Benim kitabımda haklısın; diğer herkesin ne söylediği umurumda değil... Şaka yapıyorum, şaka yapıyorum! Cidden, teşekkür ederim dostum.NEW_LINESahip olduğun kolye en iyi tasarımlarımdan biri, ancak büyü gücünü ona bağlamaya yardımcı olan üç mücevher eksik. Bir süre önce bir şovalye için yapmıştım. Uldaman adı verilen Çoraklar'daki bir kazı alanında bulunan \\",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Bir Bedel Karşılığında İrfan
@@ -13611,7 +13606,7 @@ QuestTranslator_QuestData = {
     ["2203"] = {
     ["Title"]="Badlands Reaktif Koşusu II",
     ["Description"]="Bana çok yardımcı oldun, YOUR_CLASS. Sana daha önce verdiğim demleme tarifiyle seni ödüllendirirdim... ama senden oldukça tehlikeli bir görev isteyeceğim. İsteğimi dinle.NEW_LINEBu kilitli kutuda üç boş thaumaturji kabı var; bunlar yanmış bir muhafız ejderhanın kanını akıtacak bir uyumlama aurasıyla dolu. Bir tanesini canavarın üzerinde kullanmak onu çok kızdıracaktır, bu yüzden dikkatli olun. Üçünü de doldurduktan sonra bana getir.NEW_LINEBunu yap ve tarif senin olsun.",
-    ["Objectives"]="Boş thaumaturji kaplarını Çorak Topraklar'da bulunan yanmış muhafız ejderhalar üzerinde kullanın. Onları doldurduktan sonra Kargath'taki Jarkal Mossmeld'e getirin.",
+    ["Objectives"]="Boş thaumaturji kaplarını Çoraklar'da bulunan yanmış muhafız ejderhalar üzerinde kullanın. Onları doldurduktan sonra Kargath'taki Jarkal Mossmeld'e getirin.",
     ["Progress"]="İhtiyacım olan yanmış muhafız ejderha kanını bulmak için kapları kullandın mı? Evet, bunun tehlikeli bir görev olduğunu biliyorum... ama onarıcı demlememin tarifi senin başarını bekliyor. Risk ve ödül, dostum... Risk ve ödül...",
     ["Completion"]="Bir simyacıdan diğerine, sizi selamlıyorum. İşte, bu tarifi alın ve bilginize sunun. Yıllar boyunca bana getirdiği başarı ve ödülleri size de getirsin.",
     ["minlevel"]="0",
@@ -13720,8 +13715,8 @@ QuestTranslator_QuestData = {
     -- Badlands Reaktif Koşusu
     ["2258"] = {
     ["Title"]="Badlands Reaktif Koşusu",
-    ["Description"]="YOUR_NAME Eğer istersen yardımına ihtiyacım olabilir. Ben önemli bir simyacıyım ve Çorak Topraklar'da bulunan bazı reaktifleri elde etmek için yardımınızı istiyorum.NEW_LINEStoklarımı yenilemek için şu maddelere ihtiyacım var: beş akbaba taşlığı, on çakal dişi ve beş kaya elementi parçası. Açıkçası, bunları canavarların kendilerinden alabilirsin; eğer dövüşen bir tip değilsen, o zaman dövüşen arkadaşlar bul.NEW_LINEBu eşyaları benim için al, anlaşmadan biraz para kazanacaksın. Ne yapmak istersin?",
-    ["Objectives"]="Kargath, Çorak Topraklar'daki Jarkal Mossmeld'e 5 Akbaba Gizzard, 10 Çakal Dişi ve 5 Kaya Elementi Parçası getir.",
+    ["Description"]="YOUR_NAME Eğer istersen yardımına ihtiyacım olabilir. Ben önemli bir simyacıyım ve Çoraklar'da bulunan bazı reaktifleri elde etmek için yardımınızı istiyorum.NEW_LINEStoklarımı yenilemek için şu maddelere ihtiyacım var: beş akbaba taşlığı, on çakal dişi ve beş kaya elementi parçası. Açıkçası, bunları canavarların kendilerinden alabilirsin; eğer dövüşen bir tip değilsen, o zaman dövüşen arkadaşlar bul.NEW_LINEBu eşyaları benim için al, anlaşmadan biraz para kazanacaksın. Ne yapmak istersin?",
+    ["Objectives"]="Kargath, Çoraklar'daki Jarkal Mossmeld'e 5 Akbaba Gizzard, 10 Çakal Dişi ve 5 Kaya Elementi Parçası getir.",
     ["Progress"]="İhtiyacım olan şeyleri aldın mı? Bana o reaktifleri getirmezsen paranı alamazsın.",
     ["Completion"]="Aferin! Bunlar bana en azından bir süre yeter. İşte söz verdiğim gibi ödemen.NEW_LINEEğer ilgilenirsen, kullanabileceğim başka reaktiflerim de var. Ancak bunlar sadece Uldaman kazılarının derinliklerinde bulunuyor. Onları elde etmek kolay olmayacak, ancak bana tekrar yardım etmekle ilgilenirseniz, zamanınıza değmesini sağlayacağım.NEW_LINEBelki de birkaç parlak sikkeden daha fazlasıdır, değil mi?",
     ["minlevel"]="0",
@@ -13808,7 +13803,7 @@ QuestTranslator_QuestData = {
     -- Kolye Kurtarma
     ["2283"] = {
     ["Title"]="Kolye Kurtarma",
-    ["Description"]="Sizin için bir işimiz var, tabii bunu yapacak cesaretiniz varsa!NEW_LINEÇorak Topraklar'ın derinliklerinde Uldaman kazı alanı var. Yakın zamanda orada ölen aptal bir şovalye hakkında bir hikaye duyduk. Neden umursuyoruz ki, üzerinde çok değerli bir kolye vardı. Sözde üç büyük mücevheri varmış: bir yakut, bir safir ve bir topaz.NEW_LINEAtış: Onu istiyoruz ve almak için en yüksek gümüşü ödeyeceğiz. Hasarlı olabilir, ama bu ne burada ne de orada; üzerindeki çizikleri düzelteceğiz.",
+    ["Description"]="Sizin için bir işimiz var, tabii bunu yapacak cesaretiniz varsa!NEW_LINEÇoraklar'ın derinliklerinde Uldaman kazı alanı var. Yakın zamanda orada ölen aptal bir şovalye hakkında bir hikaye duyduk. Neden umursuyoruz ki, üzerinde çok değerli bir kolye vardı. Sözde üç büyük mücevheri varmış: bir yakut, bir safir ve bir topaz.NEW_LINEAtış: Onu istiyoruz ve almak için en yüksek gümüşü ödeyeceğiz. Hasarlı olabilir, ama bu ne burada ne de orada; üzerindeki çizikleri düzelteceğiz.",
     ["Objectives"]="Uldaman kazı alanında değerli bir kolye arayın ve onu Orgrimmar'daki Dran Droffers'a geri getirin. Kolye hasar görmüş olabilir.",
     ["Progress"]="Kolye sende mi? O kolyeyi almazsan bizden bir bakır bile göremezsin!",
     ["Completion"]="Mmmm hurda! Kolyenin kokusunu buradan alabiliyorum. Şimdi şu güzelliğe bakalım.NEW_LINEHey, burada ne yapmaya çalıştığını sanıyorsun? Bu kolyenin taşları eksik! Fark etmeyeceğimizi mi sanıyorsun? Malton bile mücevherlerin gittiğini görebiliyor.NEW_LINEBelki onları çalmadınız... ama bu kolye o taşlar olmadan değersiz! İşiniz henüz bitmedi, hem de hiç!",
@@ -13863,10 +13858,10 @@ QuestTranslator_QuestData = {
     -- Derginin Çevirisi
     ["2318"] = {
     ["Title"]="Derginin Çevirisi",
-    ["Description"]="Bir tür çıkmaza girdiğinizde, kitabın anlayabileceğiniz bir dile çevrilmesi gerektiğini biliyorsunuz. Dünyada bunu yapabilecek çok sayıda insan olduğu kesin; ancak bunu yapabilecek birine sahip olabilecek en yakın yer Çorak Topraklar'daki Kargath karakolu. Belki de orası başlamak için iyi bir yerdir.",
-    ["Objectives"]="Şovalyenin günlüğünü tercüme edebilecek birini bul. Birinin bulunabileceği en yakın yer Çorak Topraklar'daki Kargath.",
+    ["Description"]="Bir tür çıkmaza girdiğinizde, kitabın anlayabileceğiniz bir dile çevrilmesi gerektiğini biliyorsunuz. Dünyada bunu yapabilecek çok sayıda insan olduğu kesin; ancak bunu yapabilecek birine sahip olabilecek en yakın yer Çoraklar'daki Kargath karakolu. Belki de orası başlamak için iyi bir yerdir.",
+    ["Objectives"]="Şovalyenin günlüğünü tercüme edebilecek birini bul. Birinin bulunabileceği en yakın yer Çoraklar'daki Kargath.",
     ["Progress"]="",
-    ["Completion"]="Mighty YOUR_CLASS Burada, Çorak Topraklar'da ne yaptığınızı biliyorum. Benim dil yeteneğimi aradığınızı biliyorum. Uldaman'da bulduğun kolyenin parçalarının peşindesin.NEW_LINEŞaşırdın mı? Şaşırma. Böyle şeyleri bilmek benim işim. Bunun yerine, tercüme edilmiş bir günlük için ne yapacağınızı tartışalım. Bana güvenin - bunu çevirebilecek tek kişi benim.NEW_LINEDaha da iyisi, size Dran Droffers'tan daha iyi bir teklif yapmama izin verin, böylece onlarla olan anlaşmanızı tamamlayabilirsiniz. Şimdi ilgileniyor musunuz?",
+    ["Completion"]="Mighty YOUR_CLASS Burada, Çoraklar'da ne yaptığınızı biliyorum. Benim dil yeteneğimi aradığınızı biliyorum. Uldaman'da bulduğun kolyenin parçalarının peşindesin.NEW_LINEŞaşırdın mı? Şaşırma. Böyle şeyleri bilmek benim işim. Bunun yerine, tercüme edilmiş bir günlük için ne yapacağınızı tartışalım. Bana güvenin - bunu çevirebilecek tek kişi benim.NEW_LINEDaha da iyisi, size Dran Droffers'tan daha iyi bir teklif yapmama izin verin, böylece onlarla olan anlaşmanızı tamamlayabilirsiniz. Şimdi ilgileniyor musunuz?",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Derginin Çevirisi
@@ -13907,7 +13902,7 @@ QuestTranslator_QuestData = {
     -- Kolye Kurtarma, Çekim 3
     ["2341"] = {
     ["Title"]="Kolye Kurtarma, Çekim 3",
-    ["Description"]="Dran ve Malton Droffer'ları yeni hurdaları için didişmeye başlarken, anlaşmanın yarısı artık tamamlandı. Kargath'taki Jarkal Mossmeld'in sizi orada bekleyen özel bir ödülü olabileceğinden, işleri bitirmek için şimdi Çorak Topraklara bir yolculuk yapmak gerekiyor.",
+    ["Description"]="Dran ve Malton Droffer'ları yeni hurdaları için didişmeye başlarken, anlaşmanın yarısı artık tamamlandı. Kargath'taki Jarkal Mossmeld'in sizi orada bekleyen özel bir ödülü olabileceğinden, işleri bitirmek için şimdi Çoraklara bir yolculuk yapmak gerekiyor.",
     ["Objectives"]="Başarılı olup olmadığını görmek için Kargath'ta Jarkal Mossmeld'i ziyaret edin.",
     ["Progress"]="",
     ["Completion"]="Bana verdiğiniz güç kaynağı tüm beklentilerimi aştı. Hem sana hem de kendime bir kolye yapabildim ve en az üç tane daha yapmaya yetecek kadar kaldı. Droffers ve Son Salvage'ın haberi olmadan oldukça iyi para edecekler.NEW_LINEAl bakalım dostum. Harika bir iş çıkardığın için sana teşekkürlerimi sunuyorum... ve zahmetin için oldukça özel bir şey.",
@@ -14062,7 +14057,7 @@ QuestTranslator_QuestData = {
     ["2418"] = {
     ["Title"]="Güç Taşları",
     ["Description"]="Bir süre önce Shadowforge Cüceleri ile bir olay yaşadım. Uldaman'dan gelen iki tür garip taşı incelemem için beni Angor Kalesi'ne getirdiler. Taşların doğru şekilde işlendiğinde sürekli ve istikrarlı güç kaynakları olduğunu keşfettim. İnsanın o eski kazı alanında bulabileceği şeyler inanılmaz!NEW_LINEHer neyse, onlara taşların sırrını anlattıktan sonra beni Angor Kalesi'nden kovdular ve Uldaman'da daha fazlasını kazmaya başladılar.NEW_LINEO taşları kendim için istiyorum! Bana iki türünü de getirin ve size bolca ödeme yapayım!",
-    ["Objectives"]="Çorak Topraklar'daki Rigglefuzz'a 8 Dentrium Güç Taşı ve 8 An'Alleum Güç Taşı getirin.",
+    ["Objectives"]="Çoraklar'daki Rigglefuzz'a 8 Dentrium Güç Taşı ve 8 An'Alleum Güç Taşı getirin.",
     ["Progress"]="Güç taşların var mı, YOUR_NAME ? Güç kaynağına ihtiyacı olan robotik bir kemirgenim var.",
     ["Completion"]="Bu harika, biraz bulmuşsun! Çok teşekkürler, YOUR_NAME. Sen tanıdığım en güvenilir YOUR_RACE olmalısın. Tanıştığım!NEW_LINEBunları kurcaladığım bazı cihazlarda denemek için sabırsızlanıyorum. Bahse girerim, doğru koşullar altında, bu taşlarla çalışan cihazlar devam edecek, devam edecek ve devam edecek...",
     ["minlevel"]="0",
@@ -14193,8 +14188,8 @@ QuestTranslator_QuestData = {
     -- Badlands Reaktif Koşusu
     ["2500"] = {
     ["Title"]="Badlands Reaktif Koşusu",
-    ["Description"]="YOUR_CLASS Hizmetlerinizden yararlanmak istiyorum. Ben önemli bir simyacıyım ve Çorak Topraklar'da bulunan bazı reaktifleri elde etmek için yardımınızı istiyorum.NEW_LINEStoklarımı yenilemek için şu maddelere ihtiyacım var: beş akbaba taşlığı, on çakal dişi ve beş kaya elementi parçası. Açıkçası, bunları canavarların kendilerinden alabilirsin; eğer dövüşen bir tip değilsen, o zaman dövüşen arkadaşlar bul.NEW_LINEBu eşyaları benim için al, anlaşmadan biraz para kazanacaksın.NEW_LINEPeki, ne diyorsun?",
-    ["Objectives"]="Ghak Healtouch'ın ihtiyacı olan reaktifleri Çorak Topraklar'dan alın ve Thelsamar'da ona geri dönün.",
+    ["Description"]="YOUR_CLASS Hizmetlerinizden yararlanmak istiyorum. Ben önemli bir simyacıyım ve Çoraklar'da bulunan bazı reaktifleri elde etmek için yardımınızı istiyorum.NEW_LINEStoklarımı yenilemek için şu maddelere ihtiyacım var: beş akbaba taşlığı, on çakal dişi ve beş kaya elementi parçası. Açıkçası, bunları canavarların kendilerinden alabilirsin; eğer dövüşen bir tip değilsen, o zaman dövüşen arkadaşlar bul.NEW_LINEBu eşyaları benim için al, anlaşmadan biraz para kazanacaksın.NEW_LINEPeki, ne diyorsun?",
+    ["Objectives"]="Ghak Healtouch'ın ihtiyacı olan reaktifleri Çoraklar'dan alın ve Thelsamar'da ona geri dönün.",
     ["Progress"]="İhtiyacım olan şeyleri aldın mı? Bana o reaktifleri getirmezsen paranı alamazsın.",
     ["Completion"]="Aferin YOUR_NAME. Bunlar bana en azından bir süre yeter. İşte söz verdiğim gibi ödemen.NEW_LINEEğer ilgilenirsen, kullanabileceğim başka reaktiflerim de var. Ancak bunlar sadece Uldaman kazılarının derinliklerinde bulunuyor. Onları elde etmek kolay olmayacak, ancak bana tekrar yardım etmekle ilgilenirseniz, zamanınıza değmesini sağlayacağım.NEW_LINEBelki de birkaç parlak sikkeden daha fazlasıdır, değil mi?",
     ["minlevel"]="0",
@@ -14205,7 +14200,7 @@ QuestTranslator_QuestData = {
     ["2501"] = {
     ["Title"]="Badlands Reaktif Koşusu II",
     ["Description"]="Bana çok yardımcı oldun, YOUR_NAME. Sizi daha önce verdiğim demleme tarifi ile ödüllendirmek isterdim, ancak sizden oldukça tehlikeli bir iyilik istemek zorundayım.NEW_LINEBu kilitli kutuda üç boş thaumaturji kabı var; bunlar yanmış bir muhafız ejderhanın kanını emecek bir uyumlama aurasıyla dolu. Bir tanesini canavarın üzerinde kullanmak onu çok kızdıracaktır, bu yüzden dikkatli olun. Üçünü de doldurduktan sonra bana getir.NEW_LINEBunu yap ve tarif senin olsun.",
-    ["Objectives"]="Boş thaumaturji kaplarını Çorak Topraklar'da bulunan yanmış muhafız ejderhalar üzerinde kullanın. Onları doldurduktan sonra Thelsamar'daki Ghak Healtouch'a getirin.",
+    ["Objectives"]="Boş thaumaturji kaplarını Çoraklar'da bulunan yanmış muhafız ejderhalar üzerinde kullanın. Onları doldurduktan sonra Thelsamar'daki Ghak Healtouch'a getirin.",
     ["Progress"]="İhtiyacım olan yanmış muhafız ejderha kanını bulmak için kapları kullandın mı? Evet, bunun tehlikeli bir görev olduğunu biliyorum... ama onarıcı demlememin tarifi senin başarını bekliyor. Risk ve ödül, dostum... Risk ve ödül...",
     ["Completion"]="Bir simyacıdan diğerine, sizi selamlıyorum. İşte, bu tarifi alın ve bilginize işleyin. Yıllar boyunca bana getirdiği başarı ve ödülleri size de getirsin!",
     ["minlevel"]="0",
@@ -17274,7 +17269,7 @@ QuestTranslator_QuestData = {
     -- Bir Saflık Reliquary'si
     ["5527"] = {
     ["Title"]="Bir Saflık Reliquary'si",
-    ["Description"]="İlk adım, son derece yozlaşmış bir maddeyi, kullanıcısı kötü etkilere maruz kalmadan tutabilecek bir kap bulmaktır. Bildiğim kadarıyla Felvine kadar iğrenç bir şeyi tutabilecek tek bir tür cihaz var: Saflık Emaneti.NEW_LINESilithus'un çorak topraklarının derinliklerinde Southwind olarak bilinen gece elfi köyünün kalıntıları var. Yıllar önce bir tanesinin orada olduğunu biliyorum. Eğer başarılı olmak istiyorsak, onu geri almak umuduyla o kalıntıları araştırmanı istiyorum.",
+    ["Description"]="İlk adım, son derece yozlaşmış bir maddeyi, kullanıcısı kötü etkilere maruz kalmadan tutabilecek bir kap bulmaktır. Bildiğim kadarıyla Felvine kadar iğrenç bir şeyi tutabilecek tek bir tür cihaz var: Saflık Emaneti.NEW_LINESilithus'un Çoraklarının derinliklerinde Southwind olarak bilinen gece elfi köyünün kalıntıları var. Yıllar önce bir tanesinin orada olduğunu biliyorum. Eğer başarılı olmak istiyorsak, onu geri almak umuduyla o kalıntıları araştırmanı istiyorum.",
     ["Objectives"]="Silithus'a seyahat edin ve Southwind Köyü harabelerinde bir Saflık Emaneti arayın. Eğer bulabilirseniz, onunla birlikte Nighthaven, Moonglade'deki Rabine Saturna'ya dönün.",
     ["Progress"]="Saflık Emaneti başlı başına bir eserdir. Çok az sayıda üretilmiştir ve neredeyse tamamının zaman içinde kaybolduğu düşünülmektedir.NEW_LINESouthwind'dekini bir süredir bildiğimi itiraf etmeliyim. Dürüst olmak gerekirse, Silithus'ta artan kargaşayla birlikte, sırlarımızı sadece bir sır olarak saklamayı düşündüm. Dürtmek ve kışkırtmak sadece düşmanlarımızın şüphelerinin artmasına neden olur.NEW_LINENe yazık ki, özellikle Eldre'Thalas'taki durum göz önüne alındığında, rehavete kapılma zamanı sona erdi.",
     ["Completion"]="Gerçekten de birçoklarının iddia ettiği kadar beceriklisiniz. Cenarion Çemberi, bizim yerimize çalıştığınız için kutsanmıştır.NEW_LINEReliquary bir kez daha elimizdeyken, içim rahat. Sizden sadece kötü niyetli bir iblisle yüzleşmenizi değil, aynı zamanda tehlikeli bir eşyayı da geri getirmenizi isterken kendimi daha rahat hissediyorum...",
@@ -31872,7 +31867,7 @@ QuestTranslator_QuestData = {
     ["Title"]="Kum'isha'nın Minnettarlığı",
     ["Description"]="Al, bu parşömeni al. Onun üzerinde sen ve o saf Sanv K'la, Draenethist (Draenethyst) ve kullanım alanları hakkındaki bilgimi bulacaksınız. Planlarımı baltalamadığı sürece onunla ne yapmak istiyorsa onu yapsın. Uyarımı dikkate alması kendi yararına olur, aksi takdirde sonu Mato'gar gibi biter. Sana ise şunu söylüyorum: Bana daha fazla yardım etmek istemediğin sürece, seni bir daha görmek istemiyorum. Eğer durum buysa defol git.",
     ["Objectives"]="Kum'isha'nın parşömeniyle birlikte Çile Bataklığı'ndaki (Swamp of Sorrows) Sanv K'la'ya geri dön.",
-    ["Progress"]="Lanetlenmiş çorak topraklardan geri döndün; hem de yapayalnız. Lütfen ne olduğunu anlat bana.",
+    ["Progress"]="Lanetlenmiş Çoraklardan geri döndün; hem de yapayalnız. Lütfen ne olduğunu anlat bana.",
     ["Completion"]="Duymak trajik ve ıstırap verici. Hem ana dünyamızdan gelen draeneilerin müdahalesi hem de Kum'isha'nın bahsi geçen yere dönmek için duyduğu çaresiz arzu. Halkımı bir gün tekrar evleri olarak adlandırabilecekleri bir sığınak, bir kutsal alan arayışıyla bu yere kadar getirdim. Bu parşömendeki bilgelik ve Draenethist'in büyüsüyle bunu başarabiliriz - birlikte. Müsterih ol, halkım için yaptığın ameller unutulmayacaktır. Sayfalarını kendin okuyamadığın için bu yazıtlar hakkındaki anlayışımı seninle paylaşmama izin ver.",
     ["minlevel"]="0",
     ["questlevel"]="0",
@@ -33895,7 +33890,7 @@ QuestTranslator_QuestData = {
     -- Raider Fargosh, Karfang Hold -> Karpençe Hisarı.
     ["40496"] = {
     ["Title"]="Akıncının İntikamı",
-    ["Description"]="İttifak'a (Alliance), orklara, iblislere, ogrelere karşı pek çok savaşta dövüştüm... Yine de kendi klanımla karşı karşıya geleceğimi hiç tahmin etmezdim. Artık benim klanım değiller. Birkaç gün önce sadık kurdum Kafatasıçatlatan (Skullshatter) üzerinde çorak topraklarda devriye geziyordum. Rend'in askerleriyle karşılaştım. Daha ben bir şey yapamadan saldırdılar! Sayıca üstündüler. Kaçmayı başardım ama kurdumu yaraladılar. Birçok kez daha kötülerini atlattığı için bunun sadece bir çizik olduğunu düşünmüştüm. Ne yazık ki ok zehirliymiş (poisoned) ve birkaç saat sonra öldü.\n\nÖlümünün arkasından yas tutmuyorum. Ne de olsa onun amacı buyurdu. Kardeşlerine katıldı ve artık ataların (ancestors) arasında avlanacak. Ama intikam istiyorum. Keşke burada bana bu kadar şiddetle ihtiyaç duyulmasaydı... YOUR_RACE, buranın güneyine, Kül Sütunu'na (the Pillar of Ash) git ve katledebildiğin kadar Karakaya(Blackrock) katlet. Bana onların kafalarını getir. Kırk tanesi iş görür.",
+    ["Description"]="İttifak'a (Alliance), orklara, iblislere, ogrelere karşı pek çok savaşta dövüştüm... Yine de kendi klanımla karşı karşıya geleceğimi hiç tahmin etmezdim. Artık benim klanım değiller. Birkaç gün önce sadık kurdum Kafatasıçatlatan (Skullshatter) üzerinde Çoraklarda devriye geziyordum. Rend'in askerleriyle karşılaştım. Daha ben bir şey yapamadan saldırdılar! Sayıca üstündüler. Kaçmayı başardım ama kurdumu yaraladılar. Birçok kez daha kötülerini atlattığı için bunun sadece bir çizik olduğunu düşünmüştüm. Ne yazık ki ok zehirliymiş (poisoned) ve birkaç saat sonra öldü.\n\nÖlümünün arkasından yas tutmuyorum. Ne de olsa onun amacı buyurdu. Kardeşlerine katıldı ve artık ataların (ancestors) arasında avlanacak. Ama intikam istiyorum. Keşke burada bana bu kadar şiddetle ihtiyaç duyulmasaydı... YOUR_RACE, buranın güneyine, Kül Sütunu'na (the Pillar of Ash) git ve katledebildiğin kadar Karakaya(Blackrock) katlet. Bana onların kafalarını getir. Kırk tanesi iş görür.",
     ["Objectives"]="Karpençe Hisarı'ndaki (Karfang Hold) Akıncı Fargosh'a 40 Karakaya(Blackrock) Kafası getir.",
     ["Progress"]="Benim adıma intikam aldın mı?",
     ["Completion"]="Güzel. Şimdi daha iyi hissediyorum. Yine de, hâlâ yapılacak çok şey var.",
@@ -34060,15 +34055,15 @@ QuestTranslator_QuestData = {
 
 -- Kul Tiran Erzakları: Yiyecek
     -- Recruit -> Yeni üye / Asker, Tabard -> Tabard (Klan amblemli kumaş).
-    -- Kul Tirans, Barrens -> Çorak Topraklar kalmıştır. Navy -> Donanma.
+    -- Kul Tirans, Barrens -> Çoraklar kalmıştır. Navy -> Donanma.
     -- Kodo Meat -> Kodo Eti, Pack mules -> Yük katırları. Flanks -> Böğürler.
     -- Deckmaster Darkhollow -> Güverteüstadı Karanlıkçukur (Deck + Master + Dark + Hollow), Anchor's Edge -> Çapa Kenarı.
     -- Old Alliance -> Eski İttifak. Horde = Horde.
     ["40700"] = { -- Verilen metinde 40790 yazıyor ancak tablo sırasına göre işlenmiştir.
     -- Maggot -> Kurtçuk (Hakaret amlamında).
     ["Title"]="Kul Tiran Erzakları: Yiyecek",
-    ["Description"]="Sen oradaki, ASKER! Üzerinde tabardını göremiyorum, neyin—bir saniye bekle. Burada ne işin var YOUR_RACE, biz Kul Tiranların bir savaşta olduğunu görmüyor musun?\n\nPeh, neden kendini yararlı kılmıyorsun; hesaba katabileceğimiz tüm erzaklara ihtiyacımız olacak, belki birkaç gece daha bazı mideleri doyurmak için fazladan yiyecek bulabilirsin. Horde'u (Horde) uzakta tuttuğumuz her gün, geceleri güvenle uyuyabileceğin başka bir gündür. Çorak Topraklar'daki (the Barrens) yaratıklardan gelecek biraz Kodo Etine (Kodo Meat) ne dersin? Horde bu yaratıkları yük katırı, savaş canavarı olarak kullanıyor ve onları yiyecek için yetiştiriyor; onların ağır böğürleri (flanks) birkaç müfrezeyi doyurmak için epey iş görecektir.",
-    ["Objectives"]="Çorak Topraklar'daki (the Barrens) Çapa Kenarı'nda (Anchor's Edge) bulunan Güverteüstadı Karanlıkçukur (Deckmaster Darkhollow) için Çorak Topraklar'daki yaban kodolarından 5 Kodo Eti topla.",
+    ["Description"]="Sen oradaki, ASKER! Üzerinde tabardını göremiyorum, neyin—bir saniye bekle. Burada ne işin var YOUR_RACE, biz Kul Tiranların bir savaşta olduğunu görmüyor musun?\n\nPeh, neden kendini yararlı kılmıyorsun; hesaba katabileceğimiz tüm erzaklara ihtiyacımız olacak, belki birkaç gece daha bazı mideleri doyurmak için fazladan yiyecek bulabilirsin. Horde'u (Horde) uzakta tuttuğumuz her gün, geceleri güvenle uyuyabileceğin başka bir gündür. Çoraklar'daki (the Barrens) yaratıklardan gelecek biraz Kodo Etine (Kodo Meat) ne dersin? Horde bu yaratıkları yük katırı, savaş canavarı olarak kullanıyor ve onları yiyecek için yetiştiriyor; onların ağır böğürleri (flanks) birkaç müfrezeyi doyurmak için epey iş görecektir.",
+    ["Objectives"]="Çoraklar'daki (the Barrens) Çapa Kenarı'nda (Anchor's Edge) bulunan Güverteüstadı Karanlıkçukur (Deckmaster Darkhollow) için Çoraklar'daki yaban kodolarından 5 Kodo Eti topla.",
     ["Progress"]="Yiyeceği henüz aldın mı kurtçuk (maggot)?!",
     ["Completion"]="Pekâlâ, şuna bir bak; Eski İttifak'ın (Old Alliance) bir parçası bile değilsin ve hâlâ bir YOUR_RACE olarak kendini yararlı kılıyorsun. Belki de donanmanın (navy) bir parçası olmak için biçilmiş kaftansındır.",
     ["minlevel"]="0",
@@ -34076,14 +34071,14 @@ QuestTranslator_QuestData = {
     }, -- end Kul Tiran Provisions: Food
 
 -- Kul Tiran Erzakları: Özel Mallar
-    -- Deckmaster Darkhollow -> Güverteüstadı Karanlıkçukur, Anchor's Edge -> Çapa Kenarı, Barrens -> Çorak Topraklar.
+    -- Deckmaster Darkhollow -> Güverteüstadı Karanlıkçukur, Anchor's Edge -> Çapa Kenarı, Barrens -> Çoraklar.
     -- Ratchet, Theramore kalmıştır. Barrel of Gunpowder -> Barut Fıçısı. Bank -> Banka.
     -- Crate -> Sandık, green anchor -> yeşil çapa. Smuggled Gunpowder -> Kaçak Barut, Smuggled Procurements -> Kaçak Tedarikler.
     -- New Alliance -> Yeni İttifak. Navy -> Donanma. Commendation -> Övgü nişanı / Takdirname.
     ["40791"] = {
     ["Title"]="Kul Tiran Erzakları: Özel Mallar",
     ["Description"]="O yiyecekleri toplamakla güzel iş çıkardın, asker. Donanmamızın bir parçası olmasan bile iyi iş çıkardın. Eğer hâlâ buralarda yardım etmek istiyorsan, ihtiyacım olan son bir şey daha var.\n\nGörüyorsun ya, bir Güverteüstadı (Deckmaster) olarak geminin erzaklarını güvence altına almak ve garanti etmek benim işim ve bir süredir burada demirlediğimiz için, sadece gidip alınması gereken birkaç iyilik hakkımı kullandım.\n\nRatchet'ta bir barut fıçısı (barrel of Gunpowder) için bekleyen bir siparişim var, gidip onu benim için kap. Oradaki bankanın sol tarafına sıkıştırılmış olmalı. Son olarak, hâlâ pek çok sadık müttefiki barındıran bir yer olan Theramore'a git. Rıhtıma ulaştığında oradaki gemileri keşfet. Yeşil bir çapa damgası basılmış bir sandık bulman gerekiyor, onu bana geri getir.",
-    ["Objectives"]="Çorak Topraklar'daki (the Barrens) Çapa Kenarı'nda (Anchor's Edge) bulunan Güverteüstadı Karanlıkçukur (Deckmaster Darkhollow) için Ratchet'tan Kaçak Barutu (Smuggled Gunpowder) ve Theramore'dan Kaçak Tedarikleri (Smuggled Procurements) topla.",
+    ["Objectives"]="Çoraklar'daki (the Barrens) Çapa Kenarı'nda (Anchor's Edge) bulunan Güverteüstadı Karanlıkçukur (Deckmaster Darkhollow) için Ratchet'tan Kaçak Barutu (Smuggled Gunpowder) ve Theramore'dan Kaçak Tedarikleri (Smuggled Procurements) topla.",
     ["Progress"]="Eee, bir gelişme var mı?",
     ["Completion"]="Şey, ellerimi sana teslim etmekle haklıymışım. Belki de bu 'Yeni İttifak'ta (New Alliance) her şey o kadar da kötü değildir, ya da tüm bunları bu savaş adına çalışamayacak kadar tembel olduğunuzu düşünmeye itilmiştim.\n\nİyi iş çıkardın ve bu sıkı çalışman için bu övgü nişanını (commendation) kazandın, onu gururla taşı asker.",
     ["minlevel"]="0",
@@ -34802,11 +34797,11 @@ QuestTranslator_QuestData = {
 -- Ratchet'ta Kaybolanlar
     -- Monetary apocalypse -> Parasal kıyamet. Jewelry -> Mücevher, ring -> yüzük.
     -- Port city -> Liman şehri. Ratchet, Booty Bay, Grizzby kalmıştır. Contractors -> Üstleniciler.
-    -- Merchants -> Tüccarlar, auctioneers -> müzayedeciler. Cargo -> Kargo / Yük. Barrens = Çorak Topraklar.
+    -- Merchants -> Tüccarlar, auctioneers -> müzayedeciler. Cargo -> Kargo / Yük. Barrens = Çoraklar.
     ["41303"] = {
     ["Title"]="Ratchet'ta Kaybolanlar",
     ["Description"]="Bir felaket, işte tam olarak bu! Parasal bir kıyamet (monetary apocalypse) üzerimde; adım lekelendi ve şöhretim gitti. Kıymetli mücevherlerim Booty Bay'deki bir müzayedeye doğru yola çıkmıştı, aralarında özellikle değerli ve ağır bir yüzük de vardı. Liman şehrine (port city) güvenle ulaştığına inanarak, Ratchet'tan hiç ayrılmadığını bilmeden, çok fazla düşünmeden işime devam ettim! Şimdi saygın tüccarların (merchants) ve müzayedecilerin (auctioneers) alay konusuyum, yetersizliğime gülüp duruyorlar.\n\nAhbap, bu açmazı çözmemde bana yardımcı olabilir misin? Güvendiğim üstlenicim Grizzby hiçbir yerde görünmüyor ve paha biçilemez eserlerimi kaybetmeyi göze alamam. Elimizde hiçbir ipucu olmadığından, bilgi almak için Ratchet etrafına sormak en iyisi olabilir.",
-    ["Objectives"]="Çorak Topraklar'daki (The Barrens) Ratchet'a seyahat et ve etraftakilere Grizzby'nin ve kargosunun nerede olduğunu sor.",
+    ["Objectives"]="Çoraklar'daki (The Barrens) Ratchet'a seyahat et ve etraftakilere Grizzby'nin ve kargosunun nerede olduğunu sor.",
     ["Progress"]=" ",
     ["Completion"]="Grizzby mi? Hayır, Ratchet'tan ayrılmadı, en azından tekneyle gitmedi. Ama buraya kadar ulaştı, orası kesin.",
     ["minlevel"]="0",
@@ -35156,12 +35151,12 @@ QuestTranslator_QuestData = {
     -- Benevolent -> Hayırsever, charity -> hayır işi. Contribution -> Katkı.
     -- Texts -> Metinler, ancient times -> kadim zamanlar. Gold -> Altın, battle strategies -> savaş stratejileri.
     -- Ancient Warfare Text -> Kadim Savaş Metni. Sakgoth, Nora kalmıştır. Fray Island = Fray Adası.
-    -- Barrens = Çorak Topraklar. Martial arts -> Dövüş sanatları.
+    -- Barrens = Çoraklar. Martial arts -> Dövüş sanatları.
     ["41539"] = {
     -- Access -> Erişim. Ample use -> Bolca fayda.
     ["Title"]="Çekiçlerde Ustalaşma",
     ["Description"]="Şimdi söyle bana: Üstad tarafından layık görülmek nasıl bir his? Beni çırağı (apprentice) olarak seçtiğinde, hissettiğim en büyük onurdu (honor), eminim sen de aynı şeyi hissediyorsundur.\n\nEğer üstad bilgisini seninle paylaşmak isterse, bu konuda sana yardımcı olabilirim - bir bedel karşılığında tabii ki. Hayırsever (benevolent) biri olabilir ama hayır işi (charity) yapacak kadar da ahmak değil, senin de  işin üzerine düşen payı katkı olarak sunman gerekiyor. Azeroth'un en tehlikeli yerlerinde gizlenmiş, kadim zamanlardan (ancient times) kalma, uzun süredir unutulmuş öğretileri barındıran metinler (texts) bulacaksın. Onları bul ve senin tarafından eklenecek biraz altınla, senin için yeni savaş stratejilerinin (battle strategies) kilidini açacak doğru yola girmesini sağlarım.",
-    ["Objectives"]="Dövüş sanatları (martial arts) bilgisine erişim kazanmak için Çorak Topraklar'daki (the Barrens) Fray Adası'nda (Fray Island) bekleyen Sakgoth'a bir Kadim Savaş Metni (Ancient Warfare Text) ve 250 Altın sun.",
+    ["Objectives"]="Dövüş sanatları (martial arts) bilgisine erişim kazanmak için Çoraklar'daki (the Barrens) Fray Adası'nda (Fray Island) bekleyen Sakgoth'a bir Kadim Savaş Metni (Ancient Warfare Text) ve 250 Altın sun.",
     ["Progress"]="Bu dünyada hiçbir şey bedava değildir. Gelişimini hak etmelisin.",
     ["Completion"]="Akıllıca bir katkı (contribution). Bu metin üstad için bolca fayda (ample use) sağlayacaktır. Ödülüne gelirsek, bu kitabı al; üstadın yıllar boyunca biriktirdiği bilgisinin bir özeti. Çalışman bittiğinde, onu üst kattaki Nora'ya geri götür.",
     ["minlevel"]="0",
@@ -35172,13 +35167,13 @@ QuestTranslator_QuestData = {
     -- Master -> Üstad, apprentice -> çırak, honor -> onur, knowledge -> bilgi.
     -- Benevolent -> Hayırsever, charity -> hayır işi, texts -> metinler, ancient times -> kadim zamanlar.
     -- Gold -> Altın, battle strategies -> savaş stratejileri. Ancient Warfare Text -> Kadim Savaş Metni.
-    -- Sakgoth, Nora kalmıştır. Fray Island = Fray Adası, Barrens = Çorak Topraklar.
+    -- Sakgoth, Nora kalmıştır. Fray Island = Fray Adası, Barrens = Çoraklar.
     -- Martial arts -> Dövüş sanatları. Mastery of Polearms -> Gönderli Silahlarda Ustalaşma.
     ["41533"] = {
     -- Contribution -> Katkı. Ample use -> Bolca fayda.
     ["Title"]="Gönderli Silahlarda Ustalaşma",
     ["Description"]="Şimdi söyle bana: Üstad tarafından layık görülmek nasıl bir his? Beni çırağı (apprentice) olarak seçtiğinde, hissettiğim en büyük onurdu (honor), eminim sen de aynı şeyi hissediyorsundur.\n\nEğer üstad bilgisini seninle paylaşmak isterse, bu konuda sana yardımcı olabilirim - bir bedel karşılığında tabii ki. Hayırsever (benevolent) biri olabilir ama hayır işi (charity) yapacak kadar da ahmak değil, senin de  işin üzerine düşen payı katkı olarak sunman gerekiyor. Azeroth'un en tehlikeli yerlerinde gizlenmiş, kadim zamanlardan (ancient times) kalma, uzun süredir unutulmuş öğretileri barındıran metinler (texts) bulacaksın. Onları bul ve senin tarafından eklenecek biraz altınla, senin için yeni savaş stratejilerinin (battle strategies) kilidini açacak doğru yola girmesini sağlarım.",
-    ["Objectives"]="Dövüş sanatları (martial arts) bilgisine erişim kazanmak için Çorak Topraklar'daki (the Barrens) Fray Adası'nda (Fray Island) bekleyen Sakgoth'a bir Kadim Savaş Metni (Ancient Warfare Text) ve 250 Altın sun.",
+    ["Objectives"]="Dövüş sanatları (martial arts) bilgisine erişim kazanmak için Çoraklar'daki (the Barrens) Fray Adası'nda (Fray Island) bekleyen Sakgoth'a bir Kadim Savaş Metni (Ancient Warfare Text) ve 250 Altın sun.",
     ["Progress"]="Bu dünyada hiçbir şey bedava değildir. Gelişimini hak etmelisin.",
     ["Completion"]="Akıllıca bir katkı (contribution). Bu metin üstad için bolca fayda (ample use) sağlayacaktır. Ödülüne gelirsek, bu kitabı al; üstadın yıllar boyunca biriktirdiği bilgisinin bir özeti. Çalışman bittiğinde, onu üst kattaki Nora'ya geri götür.",
     ["minlevel"]="0",
@@ -35186,12 +35181,12 @@ QuestTranslator_QuestData = {
     }, -- end Mastery of Polearms
     -- Asa Ustalığı
     -- Mastery of Staves -> Asa Ustalığı (Staff/Staves -> Asa/Asalar). Sakgoth, Nora kalmıştır.
-    -- Fray Island = Fray Adası, The Barrens = Çorak Topraklar. Ancient Warfare Text -> Kadim Savaş Metni.
+    -- Fray Island = Fray Adası, The Barrens = Çoraklar. Ancient Warfare Text -> Kadim Savaş Metni.
     -- Gold -> Altın. Martial arts -> Dövüş sanatları, battle strategies -> savaş stratejileri.
     ["41518"] = {
     ["Title"]="Asa Ustalığı",
     ["Description"]="Şimdi söyle bana: Üstad tarafından layık görülmek nasıl bir his? Beni çırağı (apprentice) olarak seçtiğinde, hissettiğim en büyük onurdu, eminim sen de aynı şeyi hissediyorsundur.\n\nEğer üstad bilgisini seninle paylaşmak isterse, bu konuda sana yardımcı olabilirim - bir bedel karşılığında tabii ki. Hayırsever biri olabilir ama hayır işi yapacak kadar da ahmak değil, senin de  işin üzerine düşen payı katkı olarak sunman gerekiyor. Azeroth'un en tehlikeli yerlerinde gizlenmiş, kadim zamanlardan kalma, uzun süredir unutulmuş öğretileri barındıran metinler bulacaksın. Onları bul ve senin tarafından eklenecek biraz altınla, senin için yeni savaş stratejilerinin kilidini açacak doğru yola girmesini sağlarım.",
-    ["Objectives"]="Dövüş sanatları (martial arts) bilgisine erişim kazanmak için Çorak Topraklar'daki (the Barrens) Fray Adası'nda (Fray Island) bekleyen Sakgoth'a bir Kadim Savaş Metni (Ancient Warfare Text) ve 250 Altın sun.",
+    ["Objectives"]="Dövüş sanatları (martial arts) bilgisine erişim kazanmak için Çoraklar'daki (the Barrens) Fray Adası'nda (Fray Island) bekleyen Sakgoth'a bir Kadim Savaş Metni (Ancient Warfare Text) ve 250 Altın sun.",
     ["Progress"]="Bu dünyada hiçbir şey bedava değildir. Gelişimini hak etmelisin.",
     ["Completion"]="Akıllıca bir katkı. Bu metin üstad için bolca fayda sağlayacaktır. Ödülüne gelirsek, bu kitabı al; üstadın yıllar boyunca biriktirdiği bilgisinin bir özeti. Çalışman bittiğinde, onu üst kattaki Nora'ya geri götür.",
     ["minlevel"]="0",
@@ -35200,11 +35195,11 @@ QuestTranslator_QuestData = {
 
 -- Kılıç Ustalığı
     -- Mastery of Swords -> Kılıç Ustalığı. Sakgoth, Nora kalmıştır.
-    -- Fray Island = Fray Adası, The Barrens = Çorak Topraklar. Ancient Warfare Text -> Kadim Savaş Metni.
+    -- Fray Island = Fray Adası, The Barrens = Çoraklar. Ancient Warfare Text -> Kadim Savaş Metni.
     ["41536"] = {
     ["Title"]="Kılıç Ustalığı",
     ["Description"]="Şimdi söyle bana: Üstad tarafından layık görülmek nasıl bir his? Beni çırağı (apprentice) olarak seçtiğinde, hissettiğim en büyük onurdu, eminim sen de aynı şeyi hissediyorsundur.\n\nEğer üstad bilgisini seninle paylaşmak isterse, bu konuda sana yardımcı olabilirim - bir bedel karşılığında tabii ki. Hayırsever biri olabilir ama hayır işi yapacak kadar da ahmak değil, senin de  işin üzerine düşen payı katkı olarak sunman gerekiyor. Azeroth'un en tehlikeli yerlerinde gizlenmiş, kadim zamanlardan kalma, uzun süredir unutulmuş öğretileri barındıran metinler bulacaksın. Onları bul ve senin tarafından eklenecek biraz altınla, senin için yeni savaş stratejilerinin kilidini açacak doğru yola girmesini sağlarım.",
-    ["Objectives"]="Dövüş sanatları (martial arts) bilgisine erişim kazanmak için Çorak Topraklar'daki (the Barrens) Fray Adası'nda (Fray Island) bekleyen Sakgoth'a bir Kadim Savaş Metni (Ancient Warfare Text) ve 250 Altın sun.",
+    ["Objectives"]="Dövüş sanatları (martial arts) bilgisine erişim kazanmak için Çoraklar'daki (the Barrens) Fray Adası'nda (Fray Island) bekleyen Sakgoth'a bir Kadim Savaş Metni (Ancient Warfare Text) ve 250 Altın sun.",
     ["Progress"]="Bu dünyada hiçbir şey bedava değildir. Gelişimini hak etmelisin.",
     ["Completion"]="Akıllıca bir katkı. Bu metin üstad için bolca fayda sağlayacaktır. Ödülüne gelirsek, bu kitabı al; üstadın yıllar boyunca biriktirdiği bilgisinin bir özeti. Çalışman bittiğinde, onu üst kattaki Nora'ya geri götür.",
     ["minlevel"]="0",
@@ -35366,12 +35361,12 @@ QuestTranslator_QuestData = {
     -- Bayan Tamirci!
     -- Ms. Fix-it! -> Bayan Tamirci! / Bayan Onarıcı!. Drunken fool -> Sarhoş ahmak.
     -- Intellect -> Entelektüel zeka / Akıl. Laborsome chore -> Zahmetli iş.
-    -- Lumber -> Kereste, dry fire wood -> kuru yakacak odun. Badlands = Çorak Topraklar.
+    -- Lumber -> Kereste, dry fire wood -> kuru yakacak odun. Badlands = Çoraklar.
     -- Noli, dwarf -> cüce kalmıştır. Desolate place -> Issız yer.
     ["70005"] = { -- Tablo düzenine göre indeks eşleştirilmiştir
     ["Title"]="Bayan Tamirci!",
     ["Description"]="O sarhoş ahmak! Kesinlikle haddini aşıyor! Ben buraya ciddi meseleler için geldim, dünyevi, anlamsız görevler için değil. Buna katlanmayacağım, hayır, hayır!\n\nLütfen bana yardım et. O adama benim gibi entelektüel zekaya (intellect) sahip birini bu zahmetli işi (laborsome chore) yapmaya ikna ettiğinin tatminini vermektense sana ödeme yapmayı tercih ederim.\n\nEtraflarda biraz eski kereste (lumber) olmalı. Bu ıssız yerde hiç ağaç yok, görebildiğim kadarıyla sadece çorak bir araziden ibaret! Ateş hazırlayabilmemiz için bulabileceğin her türlü keresteyi bulmaya çalış ve bana geri getir.",
-    ["Objectives"]="Biraz kuru yakacak odun (dry fire wood) topla ve Çorak Topraklar'daki (the Badlands) Noli'ye geri dön.",
+    ["Objectives"]="Biraz kuru yakacak odun (dry fire wood) topla ve Çoraklar'daki (the Badlands) Noli'ye geri dön.",
     ["Progress"]="O sarhoş ihtiyar cüce (dwarf). Ugh! Lütfen mümkün olan en kısa sürede geri dön.",
     ["Completion"]="Yardımının benim için ne kadar önemli olduğu hakkında hiçbir fikrin yok. İşte minnettarlığımın küçük bir nişanesi.",
     ["minlevel"]="0",
@@ -35979,11 +35974,11 @@ QuestTranslator_QuestData = {
 -- Bir Yabandomuzunun İzinde
     ["40573"] = {
     -- Quilboar = Quilboar (Yaratık türü). Razorfen Kraul = Razorfen Kraul.
-    -- Barrens -> Çorak Topraklar. Kagoro, Krog, Dustwallow Marsh -> Dustwallow Bataklığı.
+    -- Barrens -> Çoraklar. Kagoro, Krog, Dustwallow Marsh -> Dustwallow Bataklığı.
     -- Quilboar Tablet -> Quilboar Tableti. Human -> İnsan.
     ["Title"]="Bir Yabandomuzunun İzinde",
     ["Description"]="Krog'un şüpheleri yerindeydi, quilboar'ların hanın yakılmasıyla bir ilgisi olabileceğine inanmakta haklıydı.\n\nSen gelmeden önce ben de vardım. Bir izi, daha doğrusu kokuyu takip ederek bir grup quilboar'a ulaştım; savaş renklerine bürünmüşlerdi ve ana inleri olan Razorfen Kraul'a (Razorfen Kraul) doğru ilerliyorlardı.\n\nŞansımıza, yolun yakınında, ona yakın patikalarda durdular.\n\nGörevin, eğer varsa onlardan bilgi koparmak olacak. İz sürme becerilerime son derece güvensem de, kaba kuvvetimin eksik olduğunu görüyorum. Beni yargılamak istersen yargıla ama bu işin halledilmesini sağla. Ve şu insan... O da araştırmak için burada. Şimdilik onu rahat bıraksan iyi olur.",
-    ["Objectives"]="Çorak Topraklar'daki (The Barrens) Razorfen Kraul yakınlarında bulunan quilboar grubunu avla ve Dustwallow Bataklığı'ndaki (Dustwallow Marsh) Kagoro için Quilboar Tableti'ni (Quilboar Tablet) ele geçir.",
+    ["Objectives"]="Çoraklar'daki (The Barrens) Razorfen Kraul yakınlarında bulunan quilboar grubunu avla ve Dustwallow Bataklığı'ndaki (Dustwallow Marsh) Kagoro için Quilboar Tableti'ni (Quilboar Tablet) ele geçir.",
     ["Progress"]="Bir şey bulabildin mi?",
     ["Completion"]="Bu çok fazla bir şey değil YOUR_NAME, ama idare edeceğiz. Bu tabletin üzerine bir şeyler karalanmış gibi görünüyor, bunu onlardan birinin üzerinde bulduğunu mu söylemiştin?",
     ["minlevel"]="0",
@@ -36853,12 +36848,12 @@ QuestTranslator_QuestData = {
 
 -- WANTED: Hole Escapee
     -- Prisoner -> Mahkum, Baxxil kalmıştır. Tunneling incident -> Tünel kazma olayı.
-    -- Far Watch Post -> Uzak Gözcü Karakolu. Barrens -> Çorak Topraklar.
+    -- Far Watch Post -> Uzak Gözcü Karakolu. Barrens -> Çoraklar.
     -- Hizzle kalmıştır. Dead or alive -> Ölü veya diri.
     ["55048"] = {
     ["Title"]="ARANIYOR: Çukur Firarisi",
-    ["Description"]="Bu mesajı okuyanların dikkatine; Baxxil adında yerel bir mahkum, tünel kazma olayına benzer bir şeyin ardından yakın zamanda çukurdan kaçmış ve kıyı açıklarına firar etmiştir. Kendisinin, batıdaki Çorak Topraklar'da (the Barrens) bulunan Uzak Gözcü Karakolu'nda (Far Watch Post) görüldüğü bildirilmiştir. Adalet yerini bulmalı. Bu mahkumu ölü veya diri geri getirin ve Hizzle'a dönün!NEW_LINE        NEW_LINE        NEW_LINE                    İlerlemeNEW_LINE            Şimdi ne var?NEW_LINE        NEW_LINE                    TamamlamaNEW_LINE            Panonun çağrısına cevap verdin, değil mi? Lanet olası mahkum son çukurdan tünel kazarak çıkmayı başardı. O okyanusa kaçtıktan sonra orayı tahtalarla kapatmak zorunda kaldık. Onunla ilgilenilmiş olması güzel bir şey.NEW_LINE        NEW_LINE                    KazançlarNEW_LINE            Görevler tamamlandığında şunları alırsınız:NEW_LINE            1119 Deneyim 75 İtibar (Şununla: ) NEW_LINEAyrıca bakınız",
-    ["Objectives"]="Çorak Topraklar'daki (the Barrens) Uzak Gözcü Karakolu'nda (Far Watch Post) mahkum Baxxil'i bul.",
+    ["Description"]="Bu mesajı okuyanların dikkatine; Baxxil adında yerel bir mahkum, tünel kazma olayına benzer bir şeyin ardından yakın zamanda çukurdan kaçmış ve kıyı açıklarına firar etmiştir. Kendisinin, batıdaki Çoraklar'da (the Barrens) bulunan Uzak Gözcü Karakolu'nda (Far Watch Post) görüldüğü bildirilmiştir. Adalet yerini bulmalı. Bu mahkumu ölü veya diri geri getirin ve Hizzle'a dönün!NEW_LINE        NEW_LINE        NEW_LINE                    İlerlemeNEW_LINE            Şimdi ne var?NEW_LINE        NEW_LINE                    TamamlamaNEW_LINE            Panonun çağrısına cevap verdin, değil mi? Lanet olası mahkum son çukurdan tünel kazarak çıkmayı başardı. O okyanusa kaçtıktan sonra orayı tahtalarla kapatmak zorunda kaldık. Onunla ilgilenilmiş olması güzel bir şey.NEW_LINE        NEW_LINE                    KazançlarNEW_LINE            Görevler tamamlandığında şunları alırsınız:NEW_LINE            1119 Deneyim 75 İtibar (Şununla: ) NEW_LINEAyrıca bakınız",
+    ["Objectives"]="Çoraklar'daki (the Barrens) Uzak Gözcü Karakolu'nda (Far Watch Post) mahkum Baxxil'i bul.",
     ["Progress"]="Şimdi ne var?",
     ["Completion"]="Panonun çağrısına cevap verdin, değil mi? Lanet olası mahkum son çukurdan tünel kazarak çıkmayı başardı. O okyanusa kaçtıktan sonra orayı tahtalarla kapatmak zorunda kaldık. Onunla ilgilenilmiş olması güzel bir şey.",
     ["minlevel"]="0",
@@ -37199,11 +37194,11 @@ QuestTranslator_QuestData = {
 -- Pitch a Tent
     -- Drunkard -> Sarhoş, pocket -> cep, dwarf -> cüce. Tents -> Çadırlar.
     -- Ogre -> ogre, cloth -> kumaş, Sturdy Tent Cloth -> Dayanıklı Çadır Kumaşı.
-    -- Noli kalmıştır. Badlands = Çorak Topraklar (Mekan adı). Reward -> Ödül.
+    -- Noli kalmıştır. Badlands = Çoraklar (Mekan adı). Reward -> Ödül.
     ["70049"] = {
     ["Title"]="Bir Çadır Kurmak",
     ["Description"]="Görünen o ki o sarhoş (drunkard), ödemeni kendi cebimden (pocket) yapıyor olmamdan epey keyif alıyor, YOUR_NAME. Bu cüce (dwarf) benden bazı çadırları (tents) tamir etmemi istiyor! Çadır tamir etmekten anlar gibi bir halim mi var?! Ve bir ogrenin (ogre) bile nasıl çadır kuracağını bildiğine dair şakalar patlatıyor!\n\nBak, YOUR_NAME, kendimi tamamen rezil etmemem için burada bana yardımcı ol. Bu çadırları tamir etmek için biraz kumaşa (cloth) ihtiyacımız olacak ve görünüşe göre batıdaki o ogreler aradığımız şeye sahip olabilir. Ama inan bana, o cücenin neyden bahsettiği hakkında hiçbir fikrim yok!",
-    ["Objectives"]="Çorak Topraklar'daki (Badlands) Noli'ye 10 parça Dayanıklı Çadır Kumaşı (Sturdy Tent Cloth) topla.",
+    ["Objectives"]="Çoraklar'daki (Badlands) Noli'ye 10 parça Dayanıklı Çadır Kumaşı (Sturdy Tent Cloth) topla.",
     ["Progress"]="İhtiyacım olan o kumaşı bulmada bir şans var mı?",
     ["Completion"]="Teşekkür ederim, YOUR_NAME. Bilirsin, o cücenin ogrelerin çadır kurması hakkında söylediklerini düşünüyordum ve şimdi aklıma geldi! Artık çadır kuramayan en az bir cüce olmasını sağlayacağım! Her neyse, işte ödülün (reward).",
     ["minlevel"]="0",
@@ -37329,14 +37324,14 @@ QuestTranslator_QuestData = {
 -- Preparation
     -- Continent -> Kıta, Kalimdor = Kalimdor, Desolace = Desolace.
     -- Maraudon = Maraudon, Landslide -> Heyelan (Dev yaratık adı).
-    -- Ruins of Corthan -> Corthan Harabeleri, Badlands = Çorak Topraklar.
+    -- Ruins of Corthan -> Corthan Harabeleri, Badlands = Çoraklar.
     -- Thegren kalmıştır. Amber eyes -> Kehribar gözler.
     ["41281"] = {
     ["Title"]="Hazırlık",
     ["Description"]="<Herhangi bir jest yapmaya gerek kalmadan, yeni üstadının öğretilerinin bir sonraki görüsünü kabul etmek için diz çöküyorsun. Bozulmamış beyaz salonlar, sonsuz şelaleler ve sıcak bir his zihnini kaplıyor. Uzak batıda, Kalimdor (Kalimdor) kıtasında, Desolace'ın (Desolace) dağlarına gizlenmiş olan şey, serabının kökenidir. Maraudon'un (Maraudon) bir zamanlar kutsal olan mağaraları, bir sonraki görevinin hedefini barındırıyor: başka bir dev, bu kez kusursuz mermer taştan biri. Onun taş gövdesinden bir parça taş gerekiyor. Tekrar ayağa kalkıyorsun ve Thegren'e baş sallıyorsun; o ise işine geri dönmeden önce yumruğunu göğsüne yerleştiriyor.>",
-    ["Objectives"]="Maraudon'dan (Maraudon) Heyelan'ın (Landslide) gövdesinden bir parça taş ele geçir ve onu Çorak Topraklar'daki (Badlands) Corthan Harabeleri (Ruins of Corthan) yakınlarında bulunan Thegren'e ulaştır.",
+    ["Objectives"]="Maraudon'dan (Maraudon) Heyelan'ın (Landslide) gövdesinden bir parça taş ele geçir ve onu Çoraklar'daki (Badlands) Corthan Harabeleri (Ruins of Corthan) yakınlarında bulunan Thegren'e ulaştır.",
     ["Progress"]="<Thegren birkaç mücevheri kurcalıyor.>",
-    ["Completion"]="<Ağır taş parçasını Thegren'e sunmak, onun kehribar gözlerinin (amber eyes) heyecanla parladığını gördüğünde içinde bir gurur hissi uyandırıyor. Taşın kristal parıltısı, Çorak Topraklar'ın (the Badlands) sert güneşi altında güzelce yansıyor ve tüm bu sıkı çalışmanın karşılığını fazlasıyla veriyor. Thegren sana döner ve onaylayarak baş sallar. Son adım önünde uzanıyor.>",
+    ["Completion"]="<Ağır taş parçasını Thegren'e sunmak, onun kehribar gözlerinin (amber eyes) heyecanla parladığını gördüğünde içinde bir gurur hissi uyandırıyor. Taşın kristal parıltısı, Çoraklar'ın (the Badlands) sert güneşi altında güzelce yansıyor ve tüm bu sıkı çalışmanın karşılığını fazlasıyla veriyor. Thegren sana döner ve onaylayarak baş sallar. Son adım önünde uzanıyor.>",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Preparation
@@ -37500,14 +37495,14 @@ QuestTranslator_QuestData = {
 
 -- Rampant Weeds
     -- Alanndrian kalmıştır. Wailing Caverns = Sızlanan Mağaralar (Wailing Caverns). Maze -> Labirent / Dolambaç, caves -> mağaralar.
-    -- Barrens -> Çorak Topraklar, Külvadi = Külvadi. Naralex kalmıştır. Kalimdor = Kalimdor.
+    -- Barrens -> Çoraklar, Külvadi = Külvadi. Naralex kalmıştır. Kalimdor = Kalimdor.
     -- Rampant growths -> Azgın büyümeler / bitkiler. Stone labyrinth -> Taş labirent. Cenarion Circle -> Cenarion Çemberi (Cenarion Circle).
     -- Samples -> Örnekler. Thundris Windweaver -> Thundris Rüzgardokuyan kalmıştır. Auberdine = Auberdine.
     -- Unnatural Overgrowths -> Doğal Olmayan Aşırı Büyümeler. Den of nightmares -> Kabuslar ini. Horde territory -> Horde bölgesi.
     -- Magic -> Büyü, druidic magic -> druid büyüsü. Druids -> Druidler, volatile growth -> devingen büyüme. Compensation -> Tazminat / Bedel.
     ["41363"] = {
     ["Title"]="Azgın Yabani Otlar",
-    ["Description"]="Öğrencim Alanndrian ile çoktan bir araya gelmiş olabilirsin; Külvadi'in güneyindeki Çorak Topraklar'da (the Barrens) bulunan lanetli bir mağara labirenti olan Sızlanan Mağaralar'dan (Wailing Caverns) dışarı sürünen tehlikeleri araştırmayı  üstlendi. Soylu -ve kesinlikle safça- olsa da, Naralex'in ahmaklığı Kalimdor'un (Kalimdor) dengesine onarılamaz bir zarar verdi; bu durum en belirgin şekilde taş labirentten fışkıran azgın büyümelerde (rampant growths) ayırt edilebiliyor. Bu bitkilerden bazıları kendi başlarına hareket etmeye başladı, bu da Naralex'in istemsiz güçlerinin potansiyelinin bir kanıtıdır. Cenarion Çemberi (Cenarion Circle) ile bir karşı önlem tasarlayabilmem için bu bitkileri incelemek istiyorum. Sızlanan Mağaralar içinde bulabileceğin en vahşi bitkilerden bana yeterince örnek getir, karşılığını fazlasıyla alacaksın.",
+    ["Description"]="Öğrencim Alanndrian ile çoktan bir araya gelmiş olabilirsin; Külvadi'in güneyindeki Çoraklar'da (the Barrens) bulunan lanetli bir mağara labirenti olan Sızlanan Mağaralar'dan (Wailing Caverns) dışarı sürünen tehlikeleri araştırmayı  üstlendi. Soylu -ve kesinlikle safça- olsa da, Naralex'in ahmaklığı Kalimdor'un (Kalimdor) dengesine onarılamaz bir zarar verdi; bu durum en belirgin şekilde taş labirentten fışkıran azgın büyümelerde (rampant growths) ayırt edilebiliyor. Bu bitkilerden bazıları kendi başlarına hareket etmeye başladı, bu da Naralex'in istemsiz güçlerinin potansiyelinin bir kanıtıdır. Cenarion Çemberi (Cenarion Circle) ile bir karşı önlem tasarlayabilmem için bu bitkileri incelemek istiyorum. Sızlanan Mağaralar içinde bulabileceğin en vahşi bitkilerden bana yeterince örnek getir, karşılığını fazlasıyla alacaksın.",
     ["Objectives"]="Auberdine'deki Thundris Windweaver, Sızlanan Mağaralar'daki (Wailing Caverns) Doğal Olmayan Aşırı Büyümelerin (Unnatural Overgrowths) örneklerine ihtiyaç duyuyor.",
     ["Progress"]="Dikkatli ol. Bu kabuslar ini (den of nightmares) sadece son derece tehlikeli olmakla kalmıyor, aynı zamanda Horde bölgesindeki (Horde territory) yolculuğun da öyle.",
     ["Completion"]="Merak uyandırıcı. Bu örnekler bana hiç de yabancı olmayan bir büyü yayıyor, ilk bakışta hatta druid büyüsü (druidic magic) yaydıklarını söyleyebilirim. Tabii ki aceleci sonuçlara varmamalıyız. Cenarion Çemberi (Cenarion Circle) içinde daha fazla araştırma yapılması gerekecek. Muhterem druidleri kesinlikle onların bu devingen büyümelerinin (volatile growth) kökenini çözebilir. YOUR_NAME, takdirimi kazandın. Lütfen, zahmetlerin için bir bedel (compensation) olarak bunlardan birini al.",
@@ -37613,14 +37608,14 @@ QuestTranslator_QuestData = {
     -- Dwarf -> Cüce, components -> bileşenler, invention -> icat. Camp -> Kamp, troggs -> trogglar.
     -- Book -> Kitap, pages -> sayfalar, patterns and schematics -> kalıplar ve şemalar.
     -- Kobolds -> koboldlar, packs -> sürüler. Dwarven Writings -> Cüce Yazıları.
-    -- Prospector Brotalus -> Maden Arayıcısı Brotalus kalmıştır. Badlands = Çorak Topraklar.
+    -- Prospector Brotalus -> Maden Arayıcısı Brotalus kalmıştır. Badlands = Çoraklar.
     -- Haggis -> sakatat yahnisi (İskoç yemeği metindeki kültürel cüce ağzı ifadesi). Camp ablaze -> Kampın ateşe verilmesi.
     -- Gryphon with clipped wings -> Kanatları kırpılmış grifon. Scunnered bampots -> Lanet olası sersemler (Cüce argosu).
     -- Dedication -> İthaf.
     ["80400"] = {
     ["Title"]="Yeniden Birleştirici!",
     ["Description"]="<Cüce (the dwarf) burnunun altından mırıldanırken telaşlı görünüyor.> Şu baş belası yaratıkların hepsini paramparça edesim var... Oh, selam oradaki. Mükemmel zamanlama dostum. Tabii ya, yardım eline kesinlikle çok ihtiyacım var! Dinle beni, geçenlerde kitabımı bitirmiştim ve yeni icadım (invention) için ihtiyacım olan bazı bileşenleri (components) almak üzereydim. Kısa bir süreliğine kampımdan (camp) ayrıldım ve bak sen şu işe! Lanet olası trogglar (troggs) gelip eşyalarımla alem yapmışlar! Heyhat, kitabım paramparça edilmiş ve geriye kalanlara bakılırsa, mükemmel şekilde çizilmiş kalıplar ve şemalarla (patterns and schematics) dolu 25 sayfanın hepsi kaybolmuş. Şu an tek umursadığım kitap sayfalarımın geri gelmesi ve o pis troggların bu süreçte acı çekmesi. Onlar tıpkı koboldlar (kobolds) gibi aptaldırlar, ama tıpkı koboldlar gibi sürüler (packs) halinde dolaşma eğilimindedirler — bu yüzden onları bulduğunda dikkatli ol!",
-    ["Objectives"]="10 Cüce Yazısı (Dwarven Writings) bul ve onları Çorak Topraklar'daki (the Badlands) Maden Arayıcısı Brotalus'a (Prospector Brotalus) ulaştır.",
+    ["Objectives"]="10 Cüce Yazısı (Dwarven Writings) bul ve onları Çoraklar'daki (the Badlands) Maden Arayıcısı Brotalus'a (Prospector Brotalus) ulaştır.",
     ["Progress"]="Kampımı yerle bir etmek, eşyalarımı çalmak, sakatat yahnimi (haggis) yemek ve hatta kampımı ateşe vermek (camp ablaze), o canım kitabımı çalmak kadar korkunç bir suç olamaz! Onlara kanatları kırpılmış bir grifondan (gryphon with clipped wings) daha beter acı çektir!",
     ["Completion"]="Oh, canım, kıymetlim, biricik kitabım! O lanet olası sersemler (scunnered bampots) sana ne yaptı böyle? Teşekkür ederim, YOUR_CLASS, iyiliğini asla unutmayacağım. Kitabımı yeniden bir araya getirdiğimde adını bir ithaf (dedication) olarak ekleyeceğimden emin olabilirsin!",
     ["minlevel"]="0",
@@ -37919,11 +37914,11 @@ QuestTranslator_QuestData = {
     -- Power source -> Güç kaynağı, generator -> jeneratör. Compatible -> Uyumlu.
     -- Ruins -> Harabe. Uldaman = Uldaman. Titanics -> Titanlar / Titanik yapılar.
     -- Ancient Treasures -> Kadim Hazineler. Kex Blowmaster -> Kex Dinamitustası kalmıştır.
-    -- Barrens -> Çorak Topraklar. Labor Union -> İşçi Sendikası. Intact Power Core -> Sağlam Güç Çekirdeği.
+    -- Barrens -> Çoraklar. Labor Union -> İşçi Sendikası. Intact Power Core -> Sağlam Güç Çekirdeği.
     ["40131"] = {
     ["Title"]="Bir Çekirdek Talep Etmek",
     ["Description"]="Selam! Seni görmek güzel dostum! İlerleme kaydettim ama görüyorsun ya, bir şeyler eksik ve burada bulunabileceğinden şüpheliyim — en azından sağlam bir durumda. Normal bir güç kaynağı (power source) iş görmez, bu bebek için olmaz. Büyük bir enerji gerektiriyor, bu yüzden onu ya şu an elde edemeyeceğim bir ev büyüklüğündeki devasa bir jeneratöre (generator) bağlamalıyız... Ya da uyumlu bir güç çekirdeği toplamalıyız! Kıtanın diğer tarafında bir harabe var — Uldaman (Uldaman) deniyordu galiba, evet! Şu Titanlar (Titanics) ya da her ne karın ağrısıysa onlar tarafından yapılmış. Bu harabeye git ve bana bir çekirdek getir. Kompleksin daha derin kısmı orada açığa çıkmış durumda, bu yüzden bunu yapabilirsin!",
-    ["Objectives"]="Uldaman'ın Kadim Hazineleri'nden (Uldaman's Ancient Treasures) Sağlam bir Güç Çekirdeği'ni (Intact Power Core) güney Çorak Topraklar'daki (the Barrens) Kex Blowmaster'a ulaştır.",
+    ["Objectives"]="Uldaman'ın Kadim Hazineleri'nden (Uldaman's Ancient Treasures) Sağlam bir Güç Çekirdeği'ni (Intact Power Core) güney Çoraklar'daki (the Barrens) Kex Blowmaster'a ulaştır.",
     ["Progress"]="Çekirdeği benim için getirdin mi? Hadi ama, burada sana güveniyorum!",
     ["Completion"]="Mükemmel! Evet, bu uyacaktır. Sadece birkaç modifikasyona ihtiyacı var ve gitmeye hazır olacağız! Sana güvenebileceğimi biliyordum ortak! İşte senin payın! Şimdi git, yapacak işlerim var. Bunu ne kadar çabuk yamarsam, o kadar çabuk zengin olacağız! Bu teknoloji, İşçi Sendikası (Labor Union) içindeki konumumda devrim yaratacak!",
     ["minlevel"]="0",
@@ -38008,14 +38003,14 @@ QuestTranslator_QuestData = {
     }, -- end Retaking The Roadways
 
 -- Return to Kheyna
-    -- Crystal -> Kristal, time crystal -> zaman kristali. Barrens -> Çorak Topraklar.
+    -- Crystal -> Kristal, time crystal -> zaman kristali. Barrens -> Çoraklar.
     -- Gnome -> gnom. Kheyna Spinpistol -> Kheyna Çarktabanca kalmıştır.
     ["80409"] = {
     ["Title"]="Kheyna'ya Geri Dön",
     ["Description"]="Bunlarla talimat verildiği gibi ilgileneceğim. Seni kim gönderdiyse onun yanına dönsen iyi olur.",
     ["Objectives"]="Kristale geri dön ve Kheyna Çarktabanca (Kheyna Spinpistol) ile konuş.",
     ["Progress"]="Merhaba, YOUR_NAME!",
-    ["Completion"]="Yardım ettiğin kişi tarihi değiştirmek için çalışıyor. Sadece bu da değil, kullandığın kristal basit bir icat değil, bir zaman kristali (time crystal) ve bir şekilde yozlaştırılmış ve çarpıtılmış! Bunu ilk olarak Çorak Topraklar'da (the Barrens) zaman değiştirildiğinde fark ettim ve gözlemlemek niyetindeydim, ama şimdi mi? Bunu görmezden gelemem. Bu yozlaşmış zaman kristalini alacağım ve o gnomu (gnome) bulup gözaltına alacağım. Bu tüm meseleyi araştırmak için elimden geleni yapacağım ve daha sonra yardımını isteyebilirim. Artık onun için çalışma yoksa seni cezalandırmak zorunda kalırım. Ayrıca bunu kristalin yanındaki bir kasada buldum, sanırım senin ödülün olması gerekiyordu. Normalde ona el koyardım ama bir dahaki sefere ortaya çıktığında onu yakalamama yardım edersen görmezden gelirim.",
+    ["Completion"]="Yardım ettiğin kişi tarihi değiştirmek için çalışıyor. Sadece bu da değil, kullandığın kristal basit bir icat değil, bir zaman kristali (time crystal) ve bir şekilde yozlaştırılmış ve çarpıtılmış! Bunu ilk olarak Çoraklar'da (the Barrens) zaman değiştirildiğinde fark ettim ve gözlemlemek niyetindeydim, ama şimdi mi? Bunu görmezden gelemem. Bu yozlaşmış zaman kristalini alacağım ve o gnomu (gnome) bulup gözaltına alacağım. Bu tüm meseleyi araştırmak için elimden geleni yapacağım ve daha sonra yardımını isteyebilirim. Artık onun için çalışma yoksa seni cezalandırmak zorunda kalırım. Ayrıca bunu kristalin yanındaki bir kasada buldum, sanırım senin ödülün olması gerekiyordu. Normalde ona el koyardım ama bir dahaki sefere ortaya çıktığında onu yakalamama yardım edersen görmezden gelirim.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Return to Kheyna
@@ -38691,12 +38686,12 @@ QuestTranslator_QuestData = {
 -- Sand In The Cracks
     -- Wilderness -> Yaban hayatı / Çöl yabanı. Short green friends -> Kısa yeşil arkadaşlar (Goblinler kastediliyor). Orgrimmar = Orgrimmar.
     -- Natural resources -> Doğal kaynaklar, lecture -> ders / eğitim dersi. Materials -> Malzemeler.
-    -- Jarkal kalmıştır. Kargath = Kargath. Badlands = Çorak Topraklar. Ogres -> ogreler.
+    -- Jarkal kalmıştır. Kargath = Kargath. Badlands = Çoraklar. Ogres -> ogreler.
     -- Jewelcrafting -> Mücevher işlemeciliği, ingredients -> malzemeler. Gulmire kalmıştır. Trinkets -> ıvır zıvırlar / muskalar.
     ["41287"] = {
     ["Title"]="Çatlaklardaki Kum",
     ["Description"]="Sana karşı dürüst olacağım, burada, çöl yabanında (wilderness), kaynaklarımız sana düzgün bir şekilde eğitim verecek kadar bol değil. Orgrimmar'daki (Orgrimmar) kısa yeşil arkadaşlarımızın sahip olduğu sonsuz kaynaklara sahip değilim. Yine de üzerinde çalışamayacağımız hiçbir şey yok. Şansımıza, bu topraklar doğal kaynaklar (natural resources) açısından zengindir ve bunları dersinin (lecture) malzemesine dönüştürebilirsin. Bunu ne kadar yetenekli olduğunu görmek için bir tür test olarak kabul et.",
-    ["Objectives"]="Çorak Topraklar'daki (the Badlands) Kargath'ta bulunan Jarkal'a gerekli malzemeleri getir.",
+    ["Objectives"]="Çoraklar'daki (the Badlands) Kargath'ta bulunan Jarkal'a gerekli malzemeleri getir.",
     ["Progress"]="Dışarıda dolaşan ogrelere (ogres) dikkat et, hoşuma gitmeyecek kadar çoklar.",
     ["Completion"]="Harika iş, bu yerde mücevher işlemeciliği (jewelcrafting) için aynı anda nadiren bu kadar çok malzemeye sahip olmuştum. Sanırım Gulmire'a bir tür minnet duymak gerekiyor, çünkü yeni raporları beklerken bana pratik yapacak bir şeyler verdi. Ancak sana dönecek olursak; dur sana bu narin muskaların (trinkets) nasıl yaratılacağını göstereyim.",
     ["minlevel"]="0",
@@ -38830,14 +38825,14 @@ QuestTranslator_QuestData = {
 -- Scalebane Ridge
     -- Prattle of adventure -> macera lakırdısı, questing -> görev peşinde koşma.
     -- Scalebane Ridge -> Pulbelası Sırtı (Scale + Bane + Ridge). Lethlor Ravine -> Lethlor Kanyonu (Lethlor Ravine).
-    -- The Badlands = Çorak Topraklar. Dense one -> kalın kafalı biri. Encampment -> ordugah / kamp, base of operations -> operasyon üssü.
+    -- The Badlands = Çoraklar. Dense one -> kalın kafalı biri. Encampment -> ordugah / kamp, base of operations -> operasyon üssü.
     -- Dark Iron Dwarves -> Kara Demir Cüceleri (Dark Iron Dwarves). Whelplings -> ejderha yavruları. Hunters -> avcılar.
     -- Shadowforge Dwarves -> Gölgedemiri Cüceleri (Shadowforge Dwarves). Senator Barin Redstone -> Senatör Barin Kızıltaş kalmıştır.
     -- Ironforge = Ironforge. Conclusion -> Sonuç, task -> görev.
     ["40657"] = {
     ["Title"]="Pulbelası Sırtı",
-    ["Description"]="<Yaklaşmanı engellemek için elini kaldırır.> Bu kadar yakınlık yeter. Ve kısık sesle konuş, macera lakırdılarınla (prattle of adventure) ve görev peşinde koşmanla bizi çileden çıkarma... Aslında, bir ricam var. Pulbelası Sırtı'nı (Scalebane Ridge) duydun mu? Hayır mı? Lethlor Kanyonu (Lethlor Ravine) peki? Hayır mı? Çorak Topraklar (The Badlands)? Sen gerçekten kalın kafalı birisin (dense one)... Senden Pulbelası Sırtı olarak bilinen ordugahı bulmanı istiyorum. O bölgedeki Kara Demir Cüceleri (Dark Iron Dwarves) için yeni bir operasyon üssüdür ve bölgedeki ejderha yavrularını (whelplings) avlamaları bana ne için kullanılabileceklerine dair çok kötü bir his veriyor. Her halükarda, eşeği sağlam kazığa bağlamak (better safe than sorry) en iyisidir. Oraya yönel ve avcılarını katlet.",
-    ["Objectives"]="Ironforge'daki Senatör Barin Kızıltaş (Senator Barin Redstone) için Çorak Topraklar'da, Lethlor Kanyonu içinde gizlenmiş olan Pulbelası Sırtı'ndaki Gölgedemiri Cücelerini katlet.",
+    ["Description"]="<Yaklaşmanı engellemek için elini kaldırır.> Bu kadar yakınlık yeter. Ve kısık sesle konuş, macera lakırdılarınla (prattle of adventure) ve görev peşinde koşmanla bizi çileden çıkarma... Aslında, bir ricam var. Pulbelası Sırtı'nı (Scalebane Ridge) duydun mu? Hayır mı? Lethlor Kanyonu (Lethlor Ravine) peki? Hayır mı? Çoraklar (The Badlands)? Sen gerçekten kalın kafalı birisin (dense one)... Senden Pulbelası Sırtı olarak bilinen ordugahı bulmanı istiyorum. O bölgedeki Kara Demir Cüceleri (Dark Iron Dwarves) için yeni bir operasyon üssüdür ve bölgedeki ejderha yavrularını (whelplings) avlamaları bana ne için kullanılabileceklerine dair çok kötü bir his veriyor. Her halükarda, eşeği sağlam kazığa bağlamak (better safe than sorry) en iyisidir. Oraya yönel ve avcılarını katlet.",
+    ["Objectives"]="Ironforge'daki Senatör Barin Kızıltaş (Senator Barin Redstone) için Çoraklar'da, Lethlor Kanyonu içinde gizlenmiş olan Pulbelası Sırtı'ndaki Gölgedemiri Cücelerini katlet.",
     ["Progress"]="Hızlıca hallet.",
     ["Completion"]="Ah, evet, gerekli bir göreve (task) uygun bir sonuç (conclusion).",
     ["minlevel"]="0",
@@ -38855,7 +38850,7 @@ QuestTranslator_QuestData = {
     ["40655"] = {
     ["Title"]="Sırta Tırmanmak",
     ["Description"]="Söylemeye gerek olmadığına eminim, küçük genç yaratıklara (little young creatures) karşı büyük bir sevgim yok. Örneğin insanlara (humans) ve onların küçük evcil hayvanlarına karşı aşağılamadan başka bir şey beslemiyorum. <Maskesinin altından bıyık altından güler.> Ancak yakın zamanda Lethlor Kanyonu'ndaki (Lethlor Ravine) bir ordugahtan ve güneşte çürümeye (rot) bırakılmış sayısız ejderha yavrusunun derisi yüzülmüş cesetlerinden haberdar edildim. Bir kez daha Kara Demir Cüceleri (Dark Iron Dwarves). Şimdi, birileri önemli bir şeyi toplamak (harvest) için değilse neden ejderha yavrularını ve drakeleri katletmek amacıyla korunan bir kamp kurar ki? Ne elde etmeyi umdukları özellikle umurumda değil, ancak eğer onlar daha fazla tahkim edilmeden önce şimdi vurursak, bu girişimi temelinden baltalamış oluruz. Bu operasyon üssünü bul ve içinde bulduğun cüceleri katlet.",
-    ["Objectives"]="Çorak Topraklar'da, Lethlor Kanyonu içinde gizlenmiş olan Pulbelası Sırtı'ndaki (Scalebane Ridge) Gölgedemiri Cücelerini katlet, tamamlandığında Kargath'taki Lexlort'a geri dön.",
+    ["Objectives"]="Çoraklar'da, Lethlor Kanyonu içinde gizlenmiş olan Pulbelası Sırtı'ndaki (Scalebane Ridge) Gölgedemiri Cücelerini katlet, tamamlandığında Kargath'taki Lexlort'a geri dön.",
     ["Progress"]="Kamp henüz darmadağın edilmedi mi?",
     ["Completion"]="Hmm, bu ordugah tahmin ettiğimden daha hızlı inşa ediliyor gibi görünüyor. Belki de bu durum gerçekten acildir (urgent).",
     ["minlevel"]="0",
@@ -38914,12 +38909,12 @@ QuestTranslator_QuestData = {
     -- Companion Korvir -> Yoldaş Korvir kalmıştır, Truthseeker -> Doğruarayan kalmıştır (Özel kılıç veya NPC adı). Forests -> ormanlar, Külvadi = Külvadi.
     -- Logrash kalmıştır, scars -> yaralar, chest -> göğüs, painful expression -> acılı ifade.
     -- Spirits -> Ruhlar, demon scum -> iblis pisliği. Naxiar kalmıştır, eastern lakes -> doğu gölleri.
-    -- Wolf totem -> kurt totemi. Hunt -> av, Barrens -> Çorak Topraklar.
+    -- Wolf totem -> kurt totemi. Hunt -> av, Barrens -> Çoraklar.
     -- Mok'ra -> Mok'ra (Ork selamlaması), accursed demon -> lanetli iblis, rage -> öfke, revenge -> intikam, motive -> dürtü / sebep.
     ["40109"] = {
     ["Title"]="Geçmişin Yaraları",
     ["Description"]="Dört yıl önce, kendi halkım, bizi ilk başta felakete sürükleyen (dooming) şeyin aynısını —iblis Mannoroth'un kanını (blood of the demon Mannoroth) içmeyi— reddettiğim için bana ihanet etti. Yoldaşım Korvir (Korvir) ve Doğruarayan (Truthseeker) olmasaydı, bedenim Külvadi ormanlarında çoktan çürüyüp gitmişti. <Logrash göğsündeki (chest) yaraları acılı bir ifadeyle okşar.> Ruhlar (the spirits), Külvadi'in doğu göllerinin etrafında saklanan Naxiar adlı bir iblis pisliğinden fısıldıyor. Eğer yardımıma sahip olmak istiyorsan, onu öldürmene ve kurt totemimi (wolf totem) geri almana ihtiyacım var.",
-    ["Objectives"]="Doğu Külvadi'deki Naxiar'ı öldür ve kurt totemini Çorak Topraklar'daki Logrash'a geri getir.",
+    ["Objectives"]="Doğu Külvadi'deki Naxiar'ı öldür ve kurt totemini Çoraklar'daki Logrash'a geri getir.",
     ["Progress"]="Av (hunt) nasıl gidiyor?",
     ["Completion"]="Mok'ra, YOUR_NAME. Lanetli iblisin (accursed demon) öldüğünü varsayıyorum. Güzel, onun gibiler ölümden fazlasını hak etmiyor. Onlara karşı öfkem (rage) derinden gelse de, intikam (revenge) tek sebebim (motive) değildi.",
     ["minlevel"]="0",
@@ -39184,12 +39179,12 @@ QuestTranslator_QuestData = {
 -- Sand In The Cracks
     -- Wilderness -> Yaban hayatı / Çöl yabanı. Short green friends -> Kısa yeşil arkadaşlar (Goblinler kastediliyor). Orgrimmar = Orgrimmar.
     -- Natural resources -> Doğal kaynaklar, lecture -> ders / eğitim dersi. Materials -> Malzemeler.
-    -- Jarkal kalmıştır. Kargath = Kargath. Badlands = Çorak Topraklar. Ogres -> ogreler.
+    -- Jarkal kalmıştır. Kargath = Kargath. Badlands = Çoraklar. Ogres -> ogreler.
     -- Jewelcrafting -> Mücevher işlemeciliği, ingredients -> malzemeler. Gulmire kalmıştır. Trinkets -> ıvır zıvırlar / muskalar.
     ["41287"] = {
     ["Title"]="Çatlaklardaki Kum",
     ["Description"]="Sana karşı dürüst olacağım, burada, çöl yabanında (wilderness), kaynaklarımız sana düzgün bir şekilde eğitim verecek kadar bol değil. Orgrimmar'daki (Orgrimmar) kısa yeşil arkadaşlarımızın sahip olduğu sonsuz kaynaklara sahip değilim. Yine de üzerinde çalışamayacağımız hiçbir şey yok. Şansımıza, bu topraklar doğal kaynaklar (natural resources) açısından zengindir ve bunları dersinin (lecture) malzemesine dönüştürebilirsin. Bunu ne kadar yetenekli olduğunu görmek için bir tür test olarak kabul et.",
-    ["Objectives"]="Çorak Topraklar'daki (the Badlands) Kargath'ta bulunan Jarkal'a gerekli malzemeleri getir.",
+    ["Objectives"]="Çoraklar'daki (the Badlands) Kargath'ta bulunan Jarkal'a gerekli malzemeleri getir.",
     ["Progress"]="Dışarıda dolaşan ogrelere (ogres) dikkat et, hoşuma gitmeyecek kadar çoklar.",
     ["Completion"]="Harika iş, bu yerde mücevher işlemeciliği (jewelcrafting) için aynı anda nadiren bu kadar çok malzemeye sahip olmuştum. Sanırım Gulmire'a bir tür minnet duymak gerekiyor, çünkü yeni raporları beklerken bana pratik yapacak bir şeyler verdi. Ancak sana dönecek olursak; dur sana bu narin muskaların (trinkets) nasıl yaratılacağını göstereyim.",
     ["minlevel"]="0",
@@ -39323,14 +39318,14 @@ QuestTranslator_QuestData = {
 -- Scalebane Ridge
     -- Prattle of adventure -> macera lakırdısı, questing -> görev peşinde koşma.
     -- Scalebane Ridge -> Pulbelası Sırtı (Scale + Bane + Ridge). Lethlor Ravine -> Lethlor Kanyonu (Lethlor Ravine).
-    -- The Badlands = Çorak Topraklar. Dense one -> kalın kafalı biri. Encampment -> ordugah / kamp, base of operations -> operasyon üssü.
+    -- The Badlands = Çoraklar. Dense one -> kalın kafalı biri. Encampment -> ordugah / kamp, base of operations -> operasyon üssü.
     -- Dark Iron Dwarves -> Kara Demir Cüceleri (Dark Iron Dwarves). Whelplings -> ejderha yavruları. Hunters -> avcılar.
     -- Shadowforge Dwarves -> Gölgedemiri Cüceleri (Shadowforge Dwarves). Senator Barin Redstone -> Senatör Barin Kızıltaş kalmıştır.
     -- Ironforge = Ironforge. Conclusion -> Sonuç, task -> görev.
     ["40657"] = {
     ["Title"]="Pulbelası Sırtı",
-    ["Description"]="<Yaklaşmanı engellemek için elini kaldırır.> Bu kadar yakınlık yeter. Ve kısık sesle konuş, macera lakırdılarınla (prattle of adventure) ve görev peşinde koşmanla bizi çileden çıkarma... Aslında, bir ricam var. Pulbelası Sırtı'nı (Scalebane Ridge) duydun mu? Hayır mı? Lethlor Kanyonu (Lethlor Ravine) peki? Hayır mı? Çorak Topraklar (The Badlands)? Sen gerçekten kalın kafalı birisin (dense one)... Senden Pulbelası Sırtı olarak bilinen ordugahı bulmanı istiyorum. O bölgedeki Kara Demir Cüceleri (Dark Iron Dwarves) için yeni bir operasyon üssüdür ve bölgedeki ejderha yavrularını (whelplings) avlamaları bana ne için kullanılabileceklerine dair çok kötü bir his veriyor. Her halükarda, eşeği sağlam kazığa bağlamak (better safe than sorry) en iyisidir. Oraya yönel ve avcılarını katlet.",
-    ["Objectives"]="Ironforge'daki Senatör Barin Kızıltaş (Senator Barin Redstone) için Çorak Topraklar'da, Lethlor Kanyonu içinde gizlenmiş olan Pulbelası Sırtı'ndaki Gölgedemiri Cücelerini katlet.",
+    ["Description"]="<Yaklaşmanı engellemek için elini kaldırır.> Bu kadar yakınlık yeter. Ve kısık sesle konuş, macera lakırdılarınla (prattle of adventure) ve görev peşinde koşmanla bizi çileden çıkarma... Aslında, bir ricam var. Pulbelası Sırtı'nı (Scalebane Ridge) duydun mu? Hayır mı? Lethlor Kanyonu (Lethlor Ravine) peki? Hayır mı? Çoraklar (The Badlands)? Sen gerçekten kalın kafalı birisin (dense one)... Senden Pulbelası Sırtı olarak bilinen ordugahı bulmanı istiyorum. O bölgedeki Kara Demir Cüceleri (Dark Iron Dwarves) için yeni bir operasyon üssüdür ve bölgedeki ejderha yavrularını (whelplings) avlamaları bana ne için kullanılabileceklerine dair çok kötü bir his veriyor. Her halükarda, eşeği sağlam kazığa bağlamak (better safe than sorry) en iyisidir. Oraya yönel ve avcılarını katlet.",
+    ["Objectives"]="Ironforge'daki Senatör Barin Kızıltaş (Senator Barin Redstone) için Çoraklar'da, Lethlor Kanyonu içinde gizlenmiş olan Pulbelası Sırtı'ndaki Gölgedemiri Cücelerini katlet.",
     ["Progress"]="Hızlıca hallet.",
     ["Completion"]="Ah, evet, gerekli bir göreve (task) uygun bir sonuç (conclusion).",
     ["minlevel"]="0",
@@ -39348,7 +39343,7 @@ QuestTranslator_QuestData = {
     ["40655"] = {
     ["Title"]="Sırta Tırmanmak",
     ["Description"]="Söylemeye gerek olmadığına eminim, küçük genç yaratıklara (little young creatures) karşı büyük bir sevgim yok. Örneğin insanlara (humans) ve onların küçük evcil hayvanlarına karşı aşağılamadan başka bir şey beslemiyorum. <Maskesinin altından bıyık altından güler.> Ancak yakın zamanda Lethlor Kanyonu'ndaki (Lethlor Ravine) bir ordugahtan ve güneşte çürümeye (rot) bırakılmış sayısız ejderha yavrusunun derisi yüzülmüş cesetlerinden haberdar edildim. Bir kez daha Kara Demir Cüceleri (Dark Iron Dwarves). Şimdi, birileri önemli bir şeyi toplamak (harvest) için değilse neden ejderha yavrularını ve drakeleri katletmek amacıyla korunan bir kamp kurar ki? Ne elde etmeyi umdukları özellikle umurumda değil, ancak eğer onlar daha fazla tahkim edilmeden önce şimdi vurursak, bu girişimi temelinden baltalamış oluruz. Bu operasyon üssünü bul ve içinde bulduğun cüceleri katlet.",
-    ["Objectives"]="Çorak Topraklar'da, Lethlor Kanyonu içinde gizlenmiş olan Pulbelası Sırtı'ndaki (Scalebane Ridge) Gölgedemiri Cücelerini katlet, tamamlandığında Kargath'taki Lexlort'a geri dön.",
+    ["Objectives"]="Çoraklar'da, Lethlor Kanyonu içinde gizlenmiş olan Pulbelası Sırtı'ndaki (Scalebane Ridge) Gölgedemiri Cücelerini katlet, tamamlandığında Kargath'taki Lexlort'a geri dön.",
     ["Progress"]="Kamp henüz darmadağın edilmedi mi?",
     ["Completion"]="Hmm, bu ordugah tahmin ettiğimden daha hızlı inşa ediliyor gibi görünüyor. Belki de bu durum gerçekten acildir (urgent).",
     ["minlevel"]="0",
@@ -39407,12 +39402,12 @@ QuestTranslator_QuestData = {
     -- Companion Korvir -> Yoldaş Korvir kalmıştır, Truthseeker -> Doğruarayan kalmıştır (Özel kılıç veya NPC adı). Forests -> ormanlar, Külvadi = Külvadi.
     -- Logrash kalmıştır, scars -> yaralar, chest -> göğüs, painful expression -> acılı ifade.
     -- Spirits -> Ruhlar, demon scum -> iblis pisliği. Naxiar kalmıştır, eastern lakes -> doğu gölleri.
-    -- Wolf totem -> kurt totemi. Hunt -> av, Barrens -> Çorak Topraklar.
+    -- Wolf totem -> kurt totemi. Hunt -> av, Barrens -> Çoraklar.
     -- Mok'ra -> Mok'ra (Ork selamlaması), accursed demon -> lanetli iblis, rage -> öfke, revenge -> intikam, motive -> dürtü / sebep.
     ["40109"] = {
     ["Title"]="Geçmişin Yaraları",
     ["Description"]="Dört yıl önce, kendi halkım, bizi ilk başta felakete sürükleyen (dooming) şeyin aynısını —iblis Mannoroth'un kanını (blood of the demon Mannoroth) içmeyi— reddettiğim için bana ihanet etti. Yoldaşım Korvir (Korvir) ve Doğruarayan (Truthseeker) olmasaydı, bedenim Külvadi ormanlarında çoktan çürüyüp gitmişti. <Logrash göğsündeki (chest) yaraları acılı bir ifadeyle okşar.> Ruhlar (the spirits), Külvadi'in doğu göllerinin etrafında saklanan Naxiar adlı bir iblis pisliğinden fısıldıyor. Eğer yardımıma sahip olmak istiyorsan, onu öldürmene ve kurt totemimi (wolf totem) geri almana ihtiyacım var.",
-    ["Objectives"]="Doğu Külvadi'deki Naxiar'ı öldür ve kurt totemini Çorak Topraklar'daki Logrash'a geri getir.",
+    ["Objectives"]="Doğu Külvadi'deki Naxiar'ı öldür ve kurt totemini Çoraklar'daki Logrash'a geri getir.",
     ["Progress"]="Av (hunt) nasıl gidiyor?",
     ["Completion"]="Mok'ra, YOUR_NAME. Lanetli iblisin (accursed demon) öldüğünü varsayıyorum. Güzel, onun gibiler ölümden fazlasını hak etmiyor. Onlara karşı öfkem (rage) derinden gelse de, intikam (revenge) tek sebebim (motive) değildi.",
     ["minlevel"]="0",
@@ -40007,14 +40002,14 @@ QuestTranslator_QuestData = {
     }, -- end Shadowforge Incursions
 
 -- Shadowsworn Altar
-    -- Northwest corner -> kuzeybatı köşesi, Blasted Lands = Lanetli Topraklar, wastes -> çorak topraklar.
+    -- Northwest corner -> kuzeybatı köşesi, Blasted Lands = Lanetli Topraklar, wastes -> Çoraklar.
     -- Altar of Storms -> Fırtınalar Altarı (Altar of Storms), elite soldiers -> elit / seçkin askerler.
     -- Shadowsworn -> Gölgeye yeminliler kastediliyor (Shadowsworn cultists). strength -> güç, task -> görev.
     -- Shadowsworn Warlocks / Shadowsworn Enforcers / Shadowsworn Dreadweavers -> Gölgeye Yeminli Kara Büyücüler / Gölgeye Yeminli İnfazcılar / Gölgeye Yeminli Dehşetdokuyanlar.
     -- Jaiymu kalmıştır, Horde = Horde. Friend -> dostum / arkadaşım.
     ["40422"] = {
     ["Title"]="Gölgeye Yeminli Altarı",
-    ["Description"]="Lanetli Topraklar'ın (Blasted Lands) kuzeybatı köşesinde, eski bir Fırtınalar Altarı (Altar of Storms) çorak toprakların üzerinde yükseliyor. Etrafında, Gölgeye Yeminlilerin (Shadowsworn) seçkin askerleri toplanıyor. Onlara daha fazla yaklaşmayı hiç başaramadım ancak senin gücünle (strength) bu yeterince kolay bir görev (task) olacaktır. Onları öldür ve her ne yapıyorlarsa yarıda kes.",
+    ["Description"]="Lanetli Topraklar'ın (Blasted Lands) kuzeybatı köşesinde, eski bir Fırtınalar Altarı (Altar of Storms) Çorakların üzerinde yükseliyor. Etrafında, Gölgeye Yeminlilerin (Shadowsworn) seçkin askerleri toplanıyor. Onlara daha fazla yaklaşmayı hiç başaramadım ancak senin gücünle (strength) bu yeterince kolay bir görev (task) olacaktır. Onları öldür ve her ne yapıyorlarsa yarıda kes.",
     ["Objectives"]="Lanetli Topraklar'daki Jaiymu için 10 Gölgeye Yeminli Kara Büyücü (Shadowsworn Warlocks), 5 Gölgeye Yeminli İnfazcı (Shadowsworn Enforcers) ve 5 Gölgeye Yeminli Dehşetdokuyan (Shadowsworn Dreadweavers) katlet.",
     ["Progress"]="Fırtınalar Altarı'nı (Altar of Storms) buldun mu?",
     ["Completion"]="Hah, yine iyi iş çıkardın. Teşekkür ederim, arkadaşım (friend). Horde için yaptığın her şey için teşekkür ederim.",
@@ -40900,11 +40895,11 @@ QuestTranslator_QuestData = {
 
 -- Stones Of Radiance
     -- Gems, valuable stones and minerals -> mücevherler, değerli taşlar ve mineraller. Jewelcrafting -> mücevher işlemeciliği, fashionable pieces -> şık parçalar, point -> amaç. Humble opinion -> naçizane fikrim, delicate gem -> narin bir mücevher, ornate one -> süslü olanı, jewelry -> takı / mücevherat, purpose and meaning -> amaç ve anlam. Azeroth = Azeroth, properties -> özellikler.
-    -- Jarkal -> Jarkal kalmıştır, Kargath = Kargath, Badlands = Çorak Topraklar. Pearls -> inciler, thick shelled clams -> kalın kabuklu midyeler, water-dwelling creatures -> suda yaşayan yaratıklar. Power -> güç, mighty essences -> güçlü özler, amplify -> genişletmek / artırmak, heights -> zirveler.
+    -- Jarkal -> Jarkal kalmıştır, Kargath = Kargath, Badlands = Çoraklar. Pearls -> inciler, thick shelled clams -> kalın kabuklu midyeler, water-dwelling creatures -> suda yaşayan yaratıklar. Power -> güç, mighty essences -> güçlü özler, amplify -> genişletmek / artırmak, heights -> zirveler.
     ["41288"] = {
     ["Title"]="Işıltı Taşları",
     ["Description"]="Kesinlikle bileceğin üzere mücevherler, değerli taşlar ve mineraller mücevher işlemeciliği (jewelcrafting) için esastır. Onlar olmadan şık parçalar (fashionable pieces) yaratmak elbette mümkün olabilir — ama dürüst olmak gerekirse, amacı ne olurdu? Benim naçizane fikrime göre, narin bir mücevher (delicate gem) ya da süslü olanı, takılarınıza amaç ve anlam veren elementtir. Bana Azeroth'un (Azeroth) mücevherlerinden yeterince getir ki özelliklerini (properties) birlikte analiz edebilelim.",
-    ["Objectives"]="Çorak Topraklar'daki Kargath'ta bulunan Jarkal'a gerekli malzemeleri sağla.",
+    ["Objectives"]="Çoraklar'daki Kargath'ta bulunan Jarkal'a gerekli malzemeleri sağla.",
     ["Progress"]="İnciler (pearls) genellikle tüm Azeroth genelindeki kalın kabuklu midyelerin (thick shelled clams) içinde bulunur. Suda yaşayan yaratıkların (water-dwelling creatures) birçoğu bunları yanlarında taşır.",
     ["Completion"]="Zayıf olabilir ama bu mücevherlerden yayılan bir güç (power) var. En iyi mücevher işlemecileri, onların güçlü özlerini (mighty essences) çıkarıp eşi benzeri görülmemiş zirvelere (heights) ulaştırabilirler. Ve eğer bunu söylememe izin verirsen: Bir gün  o noktaya ulaşma yolunda iyi bir ilerleme kaydediyorsun.",
     ["minlevel"]="0",
@@ -40928,11 +40923,11 @@ QuestTranslator_QuestData = {
 -- Stormstout Legacy
     -- Theramore = Theramore, soldiers -> askerler, story -> hikaye. Siege -> kuşatma, New Horde -> Yeni Horde, ally -> müttefik. Pandaren Brewmaster -> Pandaren Biraiçici (Brewmaster), Chen Stormstout -> Chen Fırtınabirası. Passion and skill -> tutku ve beceri, whirlwind of power and precision -> güç ve hassasiyet kasırgası. Mastery with his staff -> asası üzerindeki ustalığı, legendary -> efsanevi. Staff -> asa, ground -> toprak, horizon -> ufuk. Gospel -> mutlak gerçek.
     -- Master Brightheart -> Üstad Parlakyürek kalmıştır, Pandaren staff -> Pandaren asası, design and construction -> tasarım ve yapı. Weapon craftsmanship -> silah işçiliği.
-    -- Staff of Chen -> Chen'in Asası, Mathias Brightheart -> Mathias Brightheart kalmıştır, Fray Island -> Kavga Adası, Barrens = Çorak Topraklar (The Barrens). Pupil -> öğrenci, hard at work -> sıkı çalışma, Nora -> Nora kalmıştır (Nora Steamsight), task -> görev. Relic -> yadigar, secrets -> sırlar.
+    -- Staff of Chen -> Chen'in Asası, Mathias Brightheart -> Mathias Brightheart kalmıştır, Fray Island -> Kavga Adası, Barrens = Çoraklar (The Barrens). Pupil -> öğrenci, hard at work -> sıkı çalışma, Nora -> Nora kalmıştır (Nora Steamsight), task -> görev. Relic -> yadigar, secrets -> sırlar.
     ["41520"] = {
     ["Title"]="Fırtınabirası Mirası",
     ["Description"]="Theramore askerleri (Theramore soldiers) bizi sık sık ziyaret eder ve her zaman bu hikayeyi anlatırlar. Şunu gözünde canlandır: Kuşatma (siege) sırasında Jaina ve Thrall'ın Yeni Horde'unun (New Horde) yanında duranların olağanüstü bir müttefiki vardı — Chen Fırtınabirası (Chen Stormstout) adında bir Pandaren Biraiçici (Brewmaster). Öyle bir tutku ve beceriyle (passion and skill) savaşan birinden bahsediyorum ki, onu izlemek adeta bir güç ve hassasiyet kasırgası gibiydi! Chen'in asası üzerindeki ustalığı efsaneviden de öteydi. Ama şunu dinle — savaştan sonra adam Biraiçici asasını öylece toprağa (ground) dikti ve ufka (horizon) doğru yürüyüp gitti. İnanabiliyor musun? Savaşın o kadar acımasız ve yoğun olduğunu, ona bunu hatırlatacak bir şeyi bir daha asla görmeye katlanamadığını söylerler. Şimdi, bu hikaye mutlak gerçek (gospel) demiyorum, ama içinde en ufak bir doğruluk payı varsa, o Pandaren asasını kurtarabilseydik Üstad Parlakyürek (Master Brightheart) havalara uçardı! Sadece tasarımından ve yapısından (design and construction) neler öğrenebileceğimizi bir hayal et. Silah işçiliği (weapon craftsmanship) anlayışımızda tamamen devrim yaratabilir!",
-    ["Objectives"]="Çorak Topraklar'daki Kavga Adası'nda bulunan Mathias Brightheart için Chen'in Asası'nı (Staff of Chen) kurtar.",
+    ["Objectives"]="Çoraklar'daki Kavga Adası'nda bulunan Mathias Brightheart için Chen'in Asası'nı (Staff of Chen) kurtar.",
     ["Progress"]="Öğrenci (Pupil), seni sıkı çalışırken görmek bir zevk. Nora bana her şeyi anlattı. Seni yapman için gönderdiği görevi (task) bitirdin mi?",
     ["Completion"]="Gözlerim beni mi yanıltıyor? Hayır, yanıltıyor olamazlar. Bu gerçekten de efsanevi Chen Fırtınabirası'nın — biraiçici, savaşçı ve birçoklarının dostu — asasıdır. Demek eski hikayeler sonuçta doğruymuş. Aferin, YOUR_NAME. Şimdi, bu yadigarı (relic) kurtarmak için harcadığın çaba düşünüldüğünde, onu öylece rafa kaldırmak bir haksızlık olur, öyle değil mi? Hadi bakalım, içinde ne sırlar saklıyormuş görelim, ne dersin?",
     ["minlevel"]="0",
@@ -42162,12 +42157,12 @@ QuestTranslator_QuestData = {
 -- The Bow of Oaks
     -- Bow of Oaks -> Meşe Yayı (Bow + of + Oaks).
     -- Ancient bow -> kadim bir yay, weapon -> silah, times long forgotten -> çoktan unutulmuş zamanlar, Sundering = Bölünme (The Sundering). Highborne bow -> Yükseksoylu yayı (Highborne bow), technique -> teknik, arrows -> oklar. Archers -> okçular, speed and accuracy -> hız ve isabet, master -> üstad.
-    -- Lesson -> ders, bows -> yaylar, Highborne weapon -> Yükseksoylu silahı, ruins -> harabeler, Kalimdor = Kalimdor, Ruins of Dire Maul = Dire Maul Harabeleri (Ruins of Dire Maul). Zealous student -> ateşli / hevesli öğrenci, Master Mathias -> Üstad Mathias kalmıştır, Fray Island -> Kavga Adası, Barrens = Çorak Topraklar (The Barrens).
+    -- Lesson -> ders, bows -> yaylar, Highborne weapon -> Yükseksoylu silahı, ruins -> harabeler, Kalimdor = Kalimdor, Ruins of Dire Maul = Dire Maul Harabeleri (Ruins of Dire Maul). Zealous student -> ateşli / hevesli öğrenci, Master Mathias -> Üstad Mathias kalmıştır, Fray Island -> Kavga Adası, Barrens = Çoraklar (The Barrens).
     -- Pupil -> öğrenci, hard at work -> sıkı çalışma, Nora -> Nora kalmıştır (Nora Steamsight). Highborne specter -> Yükseksoylu tayfı, training -> eğitim. Tutored -> eğitim almak, time -> zaman, disappoint -> hayal kırıklığına uğratmak.
     ["41532"] = {
     ["Title"]="Meşe Yayı",
     ["Description"]="Kadim bir yay, çoktan unutulmuş zamanlardan (times long forgotten) kalma bir silah hakkında okumuştum. Bölünme'den (the Sundering) önceki döneme kadar uzanıyor! Kullanıcısını belirli bir tekniğe (technique) adapte olmaya zorlayan, aksi takdirde oklarını (arrows) düzgün fırlatmayan belirli bir tür Yükseksoylu yayı (Highborne bow)! O dönemin okçularının inanılmaz hız ve isabet (speed and accuracy) elde etmek için bu yöntemi kullandıkları görülüyor — tam olarak üstadın aradığı şey. Ben üstadla bir ders ayarlarken, o yaylardan birini  ele geçirmek sana kalmış. Ama bir Yükseksoylu silahı... Kalimdor'da onların saçılmış birçok harabesi var, en büyüğü Dire Maul Harabeleri'dir (Ruins of Dire Maul). Onların senin en iyi şansın olduğunu söyleyebilirim. Sana bol şans, hevesli öğrenci (zealous student). Eğer başarılı olursan, lütfen yayı doğrudan Üstad Mathias'a ulaştır!",
-    ["Objectives"]="Yükseksoylu yayını elde et ve Çorak Topraklar'daki Kavga Adası'nda bulunan Mathias Brightheart'a sun.",
+    ["Objectives"]="Yükseksoylu yayını elde et ve Çoraklar'daki Kavga Adası'nda bulunan Mathias Brightheart'a sun.",
     ["Progress"]="Öğrenci (Pupil), seni sıkı çalışırken görmek bir zevk. Nora bana her şeyi anlattı. Seni yapman için gönderdiği görevi bitirdin mi?",
     ["Completion"]="Oh! Ne kadar muhteşem bir silah taşıyorsun. Nora bana her şeyi anlatmıştı. Zaman bu yorgun şeyi ağır bir şekilde kemirmiş (gnawed) ama orada burada yapılacak birkaç düzeltmeyle, yeniden düzgün bir şekilde kuşanılması için gücünü geri kazanacaktır. Onu nerede bulduğunu söylemiştin? Dire Maul Harabeleri'ndeki bir Yükseksoylu tayfının (Highborne specter) üzerinde mi? Ne kadar heyecan verici, eğitimle (training) işimiz bittiğinde lütfen bana her şeyi anlat.\n\nŞimdi o zaman, iyi dinle. Bu konuda eğitim almak (tutored) için başka bir şansın olmayacak. Zamanımı hak ettin ve ben buna çok değer veriyorum — beni hayal kırıklığına uğratma!",
     ["minlevel"]="0",
@@ -42237,11 +42232,11 @@ QuestTranslator_QuestData = {
 
 -- The Deed for Dorthas
     -- Deed for Dorthas -> Dorthas İçin İyilik / Dorthas'ın Tapusu (Deed + for + Dorthas). Azeroth = Azeroth, cost -> bedel. Information -> bilgi, Flame of Dagnoth -> Dagnoth Alevi (Flame of Dagnoth). Enemy agent in disguise -> kılık değiştirmiş bir düşman ajanı, compromise -> uzlaşma.
-    -- Badlands = Çorak Topraklar, southwest -> güneybatı, Black Dragonkin -> Siyah Ejderha Soyu, Lethlor Ravine -> Lethlor Yarığı (Lethlor Ravine). Scales -> pullar, enchanted with latent draconic energy -> gizli ejderimsi enerjiyle efsunlanmış. Ensorcelled Whelp Scale -> Büyülü Ejdercik Pulu, Scalding Whelps -> Haşlayıcı Ejdercikler. Dorthas Read -> Dorthas Read kalmıştır, Grim Reaches = Amansız Menziller. Capable adventurer -> yetenekli bir maceracı, good deed -> iyi bir iyilik / sevap.
+    -- Badlands = Çoraklar, southwest -> güneybatı, Black Dragonkin -> Siyah Ejderha Soyu, Lethlor Ravine -> Lethlor Yarığı (Lethlor Ravine). Scales -> pullar, enchanted with latent draconic energy -> gizli ejderimsi enerjiyle efsunlanmış. Ensorcelled Whelp Scale -> Büyülü Ejdercik Pulu, Scalding Whelps -> Haşlayıcı Ejdercikler. Dorthas Read -> Dorthas Read kalmıştır, Grim Reaches = Amansız Menziller. Capable adventurer -> yetenekli bir maceracı, good deed -> iyi bir iyilik / sevap.
     ["41740"] = {
     ["Title"]="Dorthas İçin Bir İyilik",
-    ["Description"]="Burada, Azeroth'ta (Azeroth) öğrendiğim bir şey varsa, o da her şeyin bir bedeli (cost) olduğudur. Eğer Dagnoth Alevi (Flame of Dagnoth) hakkında bilgi istiyorsan, kılık değiştirmiş bir düşman ajanı (enemy agent in disguise) olmadığını ve benim tarafımda olduğunu gösteren bir şeyler görmem gerekir. Bu adil bir uzlaşma (compromise) gibi görünüyor, değil mi? Güneybatıdaki Çorak Topraklar'a (the Badlands) gitmeni ve Lethlor Yarığı'ndaki (Lethlor Ravine) Siyah Ejderha Soyu'nun (Black Dragonkin) varlığını tespit etmeni istiyorum. Pullarının gizli ejderimsi enerjiyle efsunlandığına dair söylentiler duydum. Bana Haşlayıcı Ejderciklerden (the Scalding Whelps) böyle bir Büyülü Ejdercik Pulu (Ensorcelled Whelp Scale) getir, talep ettiğin bilgiye sahip olacaksın.",
-    ["Objectives"]="Amansız Menziller'deki Dorthas Read için Çorak Topraklar'daki Haşlayıcı Ejderciklerden bir Büyülü Ejdercik Pulu (Ensorcelled Whelp Scale) topla.",
+    ["Description"]="Burada, Azeroth'ta (Azeroth) öğrendiğim bir şey varsa, o da her şeyin bir bedeli (cost) olduğudur. Eğer Dagnoth Alevi (Flame of Dagnoth) hakkında bilgi istiyorsan, kılık değiştirmiş bir düşman ajanı (enemy agent in disguise) olmadığını ve benim tarafımda olduğunu gösteren bir şeyler görmem gerekir. Bu adil bir uzlaşma (compromise) gibi görünüyor, değil mi? Güneybatıdaki Çoraklar'a (the Badlands) gitmeni ve Lethlor Yarığı'ndaki (Lethlor Ravine) Siyah Ejderha Soyu'nun (Black Dragonkin) varlığını tespit etmeni istiyorum. Pullarının gizli ejderimsi enerjiyle efsunlandığına dair söylentiler duydum. Bana Haşlayıcı Ejderciklerden (the Scalding Whelps) böyle bir Büyülü Ejdercik Pulu (Ensorcelled Whelp Scale) getir, talep ettiğin bilgiye sahip olacaksın.",
+    ["Objectives"]="Amansız Menziller'deki Dorthas Read için Çoraklar'daki Haşlayıcı Ejderciklerden bir Büyülü Ejdercik Pulu (Ensorcelled Whelp Scale) topla.",
     ["Progress"]="Pul elde edildi mi?",
     ["Completion"]="Harika iş, yetenekli bir maceracı (capable adventurer) olduğunu kanıtladın! Bana iyi bir iyilik (good deed) yaptın ve bunun karşılığında sana aradığın bilgiyi sunacağım.",
     ["minlevel"]="0",
@@ -42318,7 +42313,7 @@ QuestTranslator_QuestData = {
 -- The Dragonmaw Conflict
     -- Second War -> İkinci Savaş (Second War), Kul Tiras = Kul Tiras, Orgrim Doomhammer -> Orgrim Kıyamettokmağı, ramshackle fleet -> derme çatma filo. Eluded our grasp -> elimizden kaçtı. Craven orcs -> korkak orklar, Dragonmaw Clan -> Ejderhaağzı Klanı, winged slave-beasts -> kanatlı köle canavarlar, flight -> uçuş / kaçış, dark corners of the world -> dünyanın karanlık köşeleri. Vengeance -> intikam, noble comrades -> asil yoldaşlarımız, agonizing deaths at sea -> denizde acı verici ölümler. Father -> baba, forgotten -> unutulmuş.
     -- Wetlands = Sulak Alanlar, animals -> hayvanlar, hide holes -> saklanma delikleri, heads -> kafalar / kelleler. Friend of Kul Tiras -> Kul Tiras'ın dostu.
-    -- Dragonmaw Heads -> Ejderhaağzı Kelleleri, Dragonmaw Orcs -> Ejderhaağzı Orkları. Lieutenant Alverold -> Teğmen Alverold kalmıştır, Anchor's Edge -> Çapa Kenarı kalmıştır, Barrens = Çorak Topraklar (The Barrens). Stakes -> kazıklar, watched the life burn out of them -> hayatın içlerinden yanıp çıkışını izlemek. Burning -> yanış şekli, dead -> ölüler. Lord Daelin -> Lord Daelin kalmıştır, murderers -> katiller, accursed nations -> lanetli uluslar.
+    -- Dragonmaw Heads -> Ejderhaağzı Kelleleri, Dragonmaw Orcs -> Ejderhaağzı Orkları. Lieutenant Alverold -> Teğmen Alverold kalmıştır, Anchor's Edge -> Çapa Kenarı kalmıştır, Barrens = Çoraklar (The Barrens). Stakes -> kazıklar, watched the life burn out of them -> hayatın içlerinden yanıp çıkışını izlemek. Burning -> yanış şekli, dead -> ölüler. Lord Daelin -> Lord Daelin kalmıştır, murderers -> katiller, accursed nations -> lanetli uluslar.
     ["40793"] = {
     ["Title"]="Ejderhaağzı Çatışması",
     ["Description"]="İkinci Savaş (Second War) sırasında Kul Tiras, Orgrim Doomhammer'ın derme çatma filosuna gururla son vermişti. Ancak diğerleri elimizden kaçtı: Kanatlı köle canavarlarının (winged slave-beasts) sırtında bize anlatılmamış yıkımlar getiren Ejderhaağzı Klanı'nın (Dragonmaw Clan) korkak orkları, dünyanın karanlık köşelerine doğru kaçtılar. Tüm Kul Tiras onlara karşı intikam (vengeance) arzusuyla yanıp tutuşuyor, çünkü onların ateşi yüzünden pek çok asil yoldaşımız denizde acı verici ölümlerle yüzleşti. Aynı kader  babama da sunuldu ve ben bunu unutmadım...\n\nSulak Alanlar'da (the Wetlands), bu Ejderhaağzı hayvanları nihayet saklanma deliklerinden dışarı fırlama cüretini gösterdiler. Bu hataları yüzünden onların kellelerini alacağım. Bunu yap, Kul Tiras'ın bir dostu (friend of Kul Tiras) olduğunu kanıtlayacaksın.",
@@ -42844,13 +42839,13 @@ QuestTranslator_QuestData = {
     }, -- end The Gemstone of Naraz
 
 -- The Gemstone of Naraz
-    -- Prospector Hammertoe -> Maden Arayıcısı Çekiçparmak kalmıştır, Badlands = Çorak Topraklar. Makers -> Yaratanlar, treasures -> hazineler.
+    -- Prospector Hammertoe -> Maden Arayıcısı Çekiçparmak kalmıştır, Badlands = Çoraklar. Makers -> Yaratanlar, treasures -> hazineler.
     -- Grim Reaches = Amansız Menziller. Split in two -> ikiye bölünmüş. Excavation site -> kazı alanı, notice -> fark etmek. Restore -> restore etmek / eski haline getirmek.
     -- Angor Fortress -> Angor Kalesi, ancient relics -> kadim yadigarlar. Dark Irons -> Kara Demir cüceleri (Dark Iron dwarves).
     -- Rivals -> rakipler, texts -> metinler. Ironforge = Demirörs (Ironforge). Full glory -> tüm ihtişamı.
     ["41851"] = {
     ["Title"]="Naraz'ın Mücevheri",
-    ["Description"]="Maden Arayıcısı Hammertoe, Yaratanların (Makers) yadigarlarını çıkarmak için Çorak Topraklar'a (the Badlands) gönderilmişti. Aptalın eski hazinelere (treasures) karşı her zaman bir gözü olmuştur ve Naraz'ın Mücevheri'nin orada olabileceğine ikna olmuştu. Bu konuda hemfikir olamadık, bu yüzden kendi yollarımıza gittik—ben aramalarımı bunun yerine Amansız Menziller'e (the Grim Reaches) taşıdım. Görünüşe göre bir bakıma ikimiz de haklıymışız. Mücevher ikiye bölünmüş (split in two). Ama bu artık önemli değil. Önemli olan, Çorak Topraklar'daki kazı alanına (excavation site) gitmene ve mücevheri bulmana ihtiyacım olması. Eğer onu çıkardılarsa, şey... Hammertoe ortadan kaybolduğunu fark etmeyecektir (notice). Onu bana getiriyorsun, anlaşıldı mı? Naraz'ın Mücevheri  benim olmalı—onu gerçek formuna döndürmek için.",
+    ["Description"]="Maden Arayıcısı Hammertoe, Yaratanların (Makers) yadigarlarını çıkarmak için Çoraklar'a (the Badlands) gönderilmişti. Aptalın eski hazinelere (treasures) karşı her zaman bir gözü olmuştur ve Naraz'ın Mücevheri'nin orada olabileceğine ikna olmuştu. Bu konuda hemfikir olamadık, bu yüzden kendi yollarımıza gittik—ben aramalarımı bunun yerine Amansız Menziller'e (the Grim Reaches) taşıdım. Görünüşe göre bir bakıma ikimiz de haklıymışız. Mücevher ikiye bölünmüş (split in two). Ama bu artık önemli değil. Önemli olan, Çoraklar'daki kazı alanına (excavation site) gitmene ve mücevheri bulmana ihtiyacım olması. Eğer onu çıkardılarsa, şey... Hammertoe ortadan kaybolduğunu fark etmeyecektir (notice). Onu bana getiriyorsun, anlaşıldı mı? Naraz'ın Mücevheri  benim olmalı—onu gerçek formuna döndürmek için.",
     ["Objectives"]="Maden Arayıcısı Dustshoulder için Naraz'ın İkinci Mücevheri'ni geri al.",
     ["Progress"]="Hammertoe muhtemelen Angor Kalesi'nin (Angor Fortress) yakınına kamp kurmuştur. En azından ben öyle yapardım. Burası kadim yadigarlarıyla (ancient relics) iyi bilinir.",
     ["Completion"]="Hammertoe... Kara Demirler (Dark Irons) tarafından mı saldırıya uğradı, öyle mi diyorsun? Bah, çoğu zaman hemfikir olamadığımız rakiplerdik (rivals) ama yine de bu haber beni ağır bir şekilde üzdü. Sadece kaçmanın bir yolunu bulduğunu umabilirim. Ama şimdi bunun üzerinde duracak zaman yok! Mücevherin ikinci yarısı —tıpkı eski metinlerin (texts) tarif ettiği gibi! İyi iş çıkardın maceracı, gerçekten iyi iş. Teşekkürler, teşekkürler! Onu hemen Demirörs'e (Ironforge) götüreceğim. Doğru eller ve doğru aletlerle, tüm ihtişamına (full glory) yeniden kavuşacak!",
@@ -43648,11 +43643,11 @@ QuestTranslator_QuestData = {
 -- The Land of Kings
     -- Fist of iron strength eternal -> demir yumruk ve sonsuz güç, landscape -> coğrafya, contest -> rekabet etmek.
     -- Lost city of Corthan -> Corthan'ın kayıp şehri kalmıştır. Mountains -> dağlar, temple gong mallet cycle end -> tapınak gong tokmak döngü son.
-    -- Mallet of Zeth -> Zeth Tokmağı kalmıştır, Gong of Corthan -> Corthan Gongu kalmıştır, Temple of Corthan -> Corthan Tapınağı, Forgotten Keeper -> Unutulmuş Gözetleyici kalmıştır. Ruins of Zeth -> Zeth Harabeleri kalmıştır, Badlands = Çorak Topraklar (Badlands). Echo of past crown last king -> geçmişin yankısı son kral taç giymiş.
+    -- Mallet of Zeth -> Zeth Tokmağı kalmıştır, Gong of Corthan -> Corthan Gongu kalmıştır, Temple of Corthan -> Corthan Tapınağı, Forgotten Keeper -> Unutulmuş Gözetleyici kalmıştır. Ruins of Zeth -> Zeth Harabeleri kalmıştır, Badlands = Çoraklar (Badlands). Echo of past crown last king -> geçmişin yankısı son kral taç giymiş.
     ["40713"] = {
     ["Title"]="Kralların Diyarı",
     ["Description"]="Bu topraklar bir zamanlar, her biri  rekabet edecek kadar güçlü olan ve coğrafyaya (landscape) demir bir yumruk ve sonsuz bir güçle hükmeden birçok kral tarafından yönetiliyordu. Bahsettiğim şeyi anlaman için senden Corthan'ın kayıp şehrine (lost city of Corthan) seyahat etmeni rica ediyorum. Batıda, dağların (mountains) arasında arama yap, bir zamanlar var olanların kalıntılarını  orada bulacaksın. En tepede, tapınağın (temple) ortasında bir gong bulacaksın; bu tokmağı (mallet) al ve sonumuzun döngüsünü (cycle) başlatmak için onu çal. Doğru olanı yapacağına  güveniyorum.",
-    ["Objectives"]="Zeth Tokmağı'nı (Mallet of Zeth) al ve Corthan Tapınağı'ndaki (Temple of Corthan) Corthan Gongu'nu (Gong of Corthan) çal, tamamladığında Çorak Topraklar'daki (Badlands) Zeth Harabeleri'nde (Ruins of Zeth) bulunan Unutulmuş Gözetleyici'ye (Forgotten Keeper) geri dön.",
+    ["Objectives"]="Zeth Tokmağı'nı (Mallet of Zeth) al ve Corthan Tapınağı'ndaki (Temple of Corthan) Corthan Gongu'nu (Gong of Corthan) çal, tamamladığında Çoraklar'daki (Badlands) Zeth Harabeleri'nde (Ruins of Zeth) bulunan Unutulmuş Gözetleyici'ye (Forgotten Keeper) geri dön.",
     ["Progress"]="Artık sadece bir zaman meselesi.",
     ["Completion"]="Döngü (cycle) başladı, gözlerinin önünde geçmişin bir yankısını (an echo of the past) gördüğünden hiç şüphe yok; tapınağın önünde taç giyen son kral. Son bir kez tanıklık etmek bir onurdur.",
     ["minlevel"]="0",
@@ -44595,13 +44590,13 @@ QuestTranslator_QuestData = {
     -- Redbrand Archive -> Kızılmarka Arşivi (Red + brand + Archive).
     -- Redbrand Digsite -> Kızılmarka Kazı Alanı (Red + brand + Digsite). mining, archelogy -> madencilik, arkeoloji.
     -- Torwyn Redbrand -> Torwyn Kızılmarka kalmıştır, Ironforge = Demirörs. Mystic Ward -> Gizem Bölgesi kalmıştır (Mystic + Ward), Redbrand Estate -> Kızılmarka Malikanesi kalmıştır (Redbrand + Estate).
-    -- Badlands = Çorak Topraklar (Badlands). approve -> onaylama.
+    -- Badlands = Çoraklar (Badlands). approve -> onaylama.
     ["40605"] = {
     ["Title"]="Kızılmarka Arşivi",
     ["Description"]="Kızılmarka Kazı Alanı (Redbrand Digsite) hem madencilik hem de arkeoloji yapılan bir konumdu; kayıtlarının ve başarılarının birçoğu Kızılmarka Arşivi adında bir kitapta toplanmıştır. Ben buraya esasen o kitabı geri almak ve Demirörs'deki (Ironforge) Torwyn Redbrand'e  götürmek için gönderildim. Eğer bana bir iyilik yapıp onu benim için toplayabilirsen, ben burada kalıp bu pisliği temizlerken bu çok şey ifade eder. Kazı alanının ana binasında bulunuyor olmalı, onu topla ve Torwyn'e getir; onu Kızılmarka Malikanesi'nin (Redbrand Estate) yakınındaki Gizem Bölgesi'nde (Mystic Ward) bulabilirsin.",
     ["Objectives"]="Kızılmarka Arşivi'ni (Redbrand Archive) topla ve Demirörs'deki Torwyn Redbrand'e ulaştır.",
     ["Progress"]="Sana yardımcı olabileceğim bir şey var mı, YOUR_CLASS?",
-    ["Completion"]="Aman, bu bizim Çorak Topraklar'daki (Badlands) kazı alanımızdan gelen Arşiv, değil mi? <Torwyn küçük bir onaylama (approval) kıkırdaması atar.> Sakalım hakkı için, bunu arıyorduk; raflarımıza  kaydetmek (log) için bir şans, onu geri alarak iyi iş çıkardın, minnettarız.",
+    ["Completion"]="Aman, bu bizim Çoraklar'daki (Badlands) kazı alanımızdan gelen Arşiv, değil mi? <Torwyn küçük bir onaylama (approval) kıkırdaması atar.> Sakalım hakkı için, bunu arıyorduk; raflarımıza  kaydetmek (log) için bir şans, onu geri alarak iyi iş çıkardın, minnettarız.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end The Redbrand Archive
@@ -45090,12 +45085,12 @@ QuestTranslator_QuestData = {
 -- The Shadowforge Captain
     -- Shadowforge Captain -> Gölgedemiri Yüzbaşısı / Komutanı (Shadow + forge + Captain).
     -- Angor Fortress = Angor Kalesi (Angor + Fortress), Barlgruf -> Barlgruf kalmıştır.
-    -- Warlord Goretooth -> Savaşlordu Kankanı kalmıştır (Gore + tooth), Kargath = Kargath, Badlands = Çorak Topraklar.
+    -- Warlord Goretooth -> Savaşlordu Kankanı kalmıştır (Gore + tooth), Kargath = Kargath, Badlands = Çoraklar.
     -- Dark Iron Dwarves = Karademir Cüceleri (Dark + Iron + Dwarves).
     ["40650"] = {
     ["Title"]="Gölgedemiri Yüzbaşısı",
     ["Description"]="Kafası kesilmiş bir tavuk  gördün mü, YOUR_RACE? Sonunda  düşüp ölene kadar amaçsızca, panik içinde  koşuşturur. Kuzeydoğudaki Angor Kalesi'ne (Angor Fortress) gittiğinde, onun derinliklerine darbe  indir. Onları organize eden kişinin peşine düş; hayatta kalan geri kalanlar da kafası kesilmiş o kuş kadar  amaçsız kalacaktır. Adı Barlgruf. Yalnız olmayacak ve  misafirperver de davranmayacak, bu yüzden ilk vuran sen ol ve sert vur. Kendi kan gölünün içinde  yattığında bana geri dön.",
-    ["Objectives"]="Çorak Topraklar'daki (Badlands) Kargath'ta bulunan Savaşlordu Goretooth (Warlord Goretooth) için Angor Kalesi'ndeki (Angor Fortress) Yüzbaşı Barlgruf'u katlet.",
+    ["Objectives"]="Çoraklar'daki (Badlands) Kargath'ta bulunan Savaşlordu Goretooth (Warlord Goretooth) için Angor Kalesi'ndeki (Angor Fortress) Yüzbaşı Barlgruf'u katlet.",
     ["Progress"]="Bitti mi? Öldü mü ? Yoksa görevi yerine getirmesi için daha yetkin birini mi bulmalıyım?",
     ["Completion"]="Evet, izcilerimden oradaki kargaşayı  duydum. Gerçekten iyi iş, Karademir Cüceleri (Dark Iron Dwarves) bu yaradan çabucak  kurtulamayacak.",
     ["minlevel"]="0",
@@ -45109,7 +45104,7 @@ QuestTranslator_QuestData = {
     ["40649"] = {
     ["Title"]="Gölgedemiri Tehdidi",
     ["Description"]="İyi karşılaşma, YOUR_RACE. Becerilerini test edecek ve Kargath Keşif Kuvvetleri'ne (Kargath Expeditionary Force) rüştünü  ispatlayacak bir görevim var. Yanılma, sergileyeceğin performans sadece bize değil, Orgrimmar'daki (Orgrimmar) kardeşlerimize de  duyurulacaktır. Demek öyle. Kuyruğunu  bacaklarının arasına kıstırıp kaçmayacağını varsayarak, kuzeydoğudaki cüce kalesine  yönel. Oranın mızrakla delinmeye hazır bir çıban gibi topraktan fırladığını  fark edeceksin. Oradaki sakinlerin kökünü kazı. Kuvvetlerinin büyük kısmını  katlettiğinde geri dön.",
-    ["Objectives"]="Çorak Topraklar'daki (Badlands) Kargath'ta bulunan Savaşlordu Goretooth için 12 Gölgedemiri Savaşçısı (Shadowforge Warriors) ve 8 Gölgedemiri İlahicisi (Shadowforge Chanters) katlet.",
+    ["Objectives"]="Çoraklar'daki (Badlands) Kargath'ta bulunan Savaşlordu Goretooth için 12 Gölgedemiri Savaşçısı (Shadowforge Warriors) ve 8 Gölgedemiri İlahicisi (Shadowforge Chanters) katlet.",
     ["Progress"]="Herhangi bir ilerleme  kaydettin mi, YOUR_RACE?",
     ["Completion"]="Aferin, seni bu kadar çabuk  beklemiyordum, hatta aslında geri döneceğini  hiç sanmıyordum.",
     ["minlevel"]="0",
@@ -45118,12 +45113,12 @@ QuestTranslator_QuestData = {
 
 -- The Shadowsworn Enemy
     -- Shadowsworn Enemy -> Gölgeyeminli Düşman (Shadow + sworn + Enemy).
-    -- Shadowsworn cultists -> Gölgeyeminli tarikatçılar, wasteland -> çorak topraklar.
+    -- Shadowsworn cultists -> Gölgeyeminli tarikatçılar, wasteland -> Çoraklar.
     -- Shadowsworn Cultists, Shadowsworn Thugs -> Gölgeyeminli Tarikatçılar, Gölgeyeminli Haydutlar.
     -- Jaiymu -> Jaiymu kalmıştır, Blasted Lands = Lanetli Topraklar (Blasted + Lands).
     ["40421"] = {
     ["Title"]="Gölgeyeminli Düşman",
-    ["Description"]="Gölgeyeminli (Shadowsworn) tarikatçılar burada bize  zor anlar yaşatıyor. Son iki günde onlardan üç saldırıyla  yüzleştik. Zayıflardı ve onları savuşturmayı  başardık. Gelecekte daha büyük bir güç göndereceklerinden  korkuyorum. Daha hızlı hareket etmeliyiz. Çorak topraklara (wasteland) atıl, kalelerini bul ve rütbelerini  seyrelt. Bize daha fazla zaman  kazandır.",
+    ["Description"]="Gölgeyeminli (Shadowsworn) tarikatçılar burada bize  zor anlar yaşatıyor. Son iki günde onlardan üç saldırıyla  yüzleştik. Zayıflardı ve onları savuşturmayı  başardık. Gelecekte daha büyük bir güç göndereceklerinden  korkuyorum. Daha hızlı hareket etmeliyiz. Çoraklara (wasteland) atıl, kalelerini bul ve rütbelerini  seyrelt. Bize daha fazla zaman  kazandır.",
     ["Objectives"]="Lanetli Topraklar'daki (Blasted Lands) Jaiymu için 12 Gölgeyeminli Tarikatçı (Shadowsworn Cultists) ve 8 Gölgeyeminli Haydut (Shadowsworn Thugs) katlet.",
     ["Progress"]="Kaç tanesini  öldürdün?",
     ["Completion"]="İyi iş, YOUR_CLASS. Onların  ölürken görmeyi çok isterdim.",
@@ -47026,7 +47021,7 @@ QuestTranslator_QuestData = {
     -- Cinder Bracers -> Köz Bileklikleri, Burning Blossom -> Yanan Çiçek.
     ["9322"] = { -- Quest ID varsayılan olarak yerleştirilmiştir.
     ["Title"]="Kalimdor'daki Yaban Ateşleri",
-    ["Description"]="Yazortası Ateş Festivali (Midsummer Fire Festival) Azeroth'un (Azeroth) her yerinde kutlanır ve Kalimdor'un (Kalimdor) o muhtelif toprakları da buna istisna  değildir. Seyahat etmek için  zinde görünüyorsun — belki de bir yolculuğun  vaktidir.\n\nYurt dışındaki o kavurucu mavi ateşleri  görmediğin sürece Yazortası'nın (Midsummer) değeri hakkıyla  bilinemez. Kutlamacılar ateşleri o serin, batıdaki Kışbaharı'nda (Winterspring), Azshara'daki Eldarath Harabeleri'nin (Ruins of Eldarath) kuzeydoğusunda, Silithus'un çorak topraklarındaki Yiğitlik İstirahatgahı (Valor's Rest) yakınlarında ve o gür Un'Goro girişinin  yanında yaktılar. Yolculuğun tamamlandığında  geri dön.",
+    ["Description"]="Yazortası Ateş Festivali (Midsummer Fire Festival) Azeroth'un (Azeroth) her yerinde kutlanır ve Kalimdor'un (Kalimdor) o muhtelif toprakları da buna istisna  değildir. Seyahat etmek için  zinde görünüyorsun — belki de bir yolculuğun  vaktidir.\n\nYurt dışındaki o kavurucu mavi ateşleri  görmediğin sürece Yazortası'nın (Midsummer) değeri hakkıyla  bilinemez. Kutlamacılar ateşleri o serin, batıdaki Kışbaharı'nda (Winterspring), Azshara'daki Eldarath Harabeleri'nin (Ruins of Eldarath) kuzeydoğusunda, Silithus'un Çoraklarındaki Yiğitlik İstirahatgahı (Valor's Rest) yakınlarında ve o gür Un'Goro girişinin  yanında yaktılar. Yolculuğun tamamlandığında  geri dön.",
     ["Objectives"]="Azshara, Silithus, Un'Goro Krateri (Un'Goro Crater) ve Kışbaharı (Winterspring) içinde bulunan Yazortası kamplarını  ziyaret et, ardından Festival Alevmuhafızı'na (Festival Flamekeeper) geri dön.",
     ["Progress"]="Kalimdor'un alevleri  parlak bir şekilde yanıyor mu?",
     ["Completion"]="Ruhun, Kalimdor ateşlerinin sıcaklığıyla  parıldıyor, dostum. Bu ısı  canlandırıcı değil mi? Güç senden  çekildiğinde, belki bunlar o hissi yeniden  canlandırmaya yardımcı olur.",
@@ -52009,10 +52004,10 @@ QuestTranslator_QuestData = {
     -- Theldurin the Lost -> Kayıp Theldurin (MobNpcData.lua)[cite: 1]
     -- Myzrael -> Myzrael (MobNpcData.lua)[cite: 1]
     -- Twilight's Hammer -> Alacakaranlık Çekici
-    -- Badlands -> Çorak Topraklar (ZoneData.lua)
+    -- Badlands -> Çoraklar (ZoneData.lua)
     ["687"] = {
     ["Title"]="Kayıp Theldurin",
-    ["Description"]="Kayıp Theldurin bir zamanlar tarikatımız Alacakaranlık Çekici'nin bir üyesiydi. Ama aklını yitirdi ve öğretilerimizi hor gördü. Ve bizden kaçmadan önce Myzrael'in parşömenini çaldı! Onu yakalayamadık ama söylentiler Çorak Topraklar'da saklandığını, saçmaladığını ve çıldırdığını söylüyor.\n\nLeydi'yi bize geri getirmek için parşömeni bulmalısın. Ve bunu yapmak için Theldurin'i bulmalısın.",
+    ["Description"]="Kayıp Theldurin bir zamanlar tarikatımız Alacakaranlık Çekici'nin bir üyesiydi. Ama aklını yitirdi ve öğretilerimizi hor gördü. Ve bizden kaçmadan önce Myzrael'in parşömenini çaldı! Onu yakalayamadık ama söylentiler Çoraklar'da saklandığını, saçmaladığını ve çıldırdığını söylüyor.\n\nLeydi'yi bize geri getirmek için parşömeni bulmalısın. Ve bunu yapmak için Theldurin'i bulmalısın.",
     ["Objectives"]="Kayıp Theldurin'i bul.[cite: 1]",
     ["Progress"]="",
     ["Completion"]="Merhaba. Merhaba, merhaba merhaba merhaba merhaba MERHABA!\n\nÜzgünüm - bekle, hayır değilim! Kaba olma!\n\nOh hayır... Bu çılgınca bir konuşmaydı.\n\nAma... Bazen çılgın olmak tek tesellimdir.",
@@ -52201,12 +52196,12 @@ QuestTranslator_QuestData = {
 
     -- Dig Rat Stew
     -- Grub -> Grub (MobNpcData.lua)[cite: 1]
-    -- The Barrens -> Çorak Topraklar (ZoneData.lua)
+    -- The Barrens -> Çoraklar (ZoneData.lua)
     -- Crossroads -> Yolağzı (ZoneData.lua)
     -- Bael Modan -> Bael Modan (ZoneData.lua)
     ["862"] = {
     ["Title"]="Kazı Sıçanı Yahnisi",
-    ["Description"]="Senin gibi bir YOUR_CLASS Çorak Topraklar'da oldukça acıkıyor olmalı. Ben bütün gün açlıktan ölüyorum.\n\nSana ne diyeceğim, sana güzel bir yahni hazırlayayım. Sadece birkaç kazı sıçanına ihtiyacım var.\n\nBael Modan'daki o pis cüceler herkesin en sevdiği ziyafetle dolup taşmış gibi görünüyor. Şimdi güneye, Bael Modan'a git ve bana biraz kazı sıçanı getir.\n\nSıçan öldürmek için biraz zaman harcamadan kendine kıdemli bir maceracı diyemezsin! Haw!",
+    ["Description"]="Senin gibi bir YOUR_CLASS Çoraklar'da oldukça acıkıyor olmalı. Ben bütün gün açlıktan ölüyorum.\n\nSana ne diyeceğim, sana güzel bir yahni hazırlayayım. Sadece birkaç kazı sıçanına ihtiyacım var.\n\nBael Modan'daki o pis cüceler herkesin en sevdiği ziyafetle dolup taşmış gibi görünüyor. Şimdi güneye, Bael Modan'a git ve bana biraz kazı sıçanı getir.\n\nSıçan öldürmek için biraz zaman harcamadan kendine kıdemli bir maceracı diyemezsin! Haw!",
     ["Objectives"]="Yolağzı'nın doğusundaki Grub'a 8 Kazı Sıçanı getir.",
     ["Progress"]="Yeterince kazı sıçanı vurdun mu, YOUR_NAME?",
     ["Completion"]="Normalde bu kemirgenleri bu kadar.... Bu kadar... Olgunken yemeyi sevmem. Aromasını gerçekten ortaya çıkarmak için birkaç hafta çürümelerine izin vermeyi severim. Ama çok aç görünüyorsun.\n\nSana biraz Kazı Sıçanı Yahnisi hazırlayayım. Ah, işte oldu.\n\nBuyur bakalım!",
@@ -52216,11 +52211,11 @@ QuestTranslator_QuestData = {
 
     -- Root Samples
     -- Mebok Mizzyrix -> Mebok Mizzyrix (MobNpcData.lua)[cite: 1]
-    -- The Barrens -> Çorak Topraklar (ZoneData.lua)
+    -- The Barrens -> Çoraklar (ZoneData.lua)
     -- Ratchet -> Ratchet (ZoneData.lua)
     ["866"] = {
     ["Title"]="Kök Örnekleri",
-    ["Description"]="Çorak Topraklar'ın otları diğer topraklardaki otlara pek benzemez. Özellikleri çoğunlukla aynıdır ama buradaki vaha suyu bitkileri değiştirir; sadece biraz farklıdırlar.\n\nBu farklılıkları incelemek istiyorum... Sömürülebilir olup olmadıklarını görmek için!\n\nBitkicilikte yetenekliysen, Çorak Topraklar'da bulduğun otlardan kök örnekleri topla. Bu örnekleri geri getir, ben de onları diğer bölgelerden gelen otlarla karşılaştırabileyim.",
+    ["Description"]="Çoraklar'ın otları diğer topraklardaki otlara pek benzemez. Özellikleri çoğunlukla aynıdır ama buradaki vaha suyu bitkileri değiştirir; sadece biraz farklıdırlar.\n\nBu farklılıkları incelemek istiyorum... Sömürülebilir olup olmadıklarını görmek için!\n\nBitkicilikte yetenekliysen, Çoraklar'da bulduğun otlardan kök örnekleri topla. Bu örnekleri geri getir, ben de onları diğer bölgelerden gelen otlarla karşılaştırabileyim.",
     ["Objectives"]="Ratchet'taki Mebok Mizzyrix'e 8 Kök Örneği getir.",
     ["Progress"]="Merhaba, YOUR_NAME. O kök örneklerini aldın mı?",
     ["Completion"]="Evet evet, bunlar çok güzel! Bu köklerden örnekler yetiştireceğim ve onları inceleyeceğim. Onlardan yeni özellikler bulmayı umuyorum. Gizli, değerli özellikler...!\n\nVe endişelenme -- bulursam ilk öğrenen sen olacaksın. Çünkü daha fazlasını toplayacak birine ihtiyacım olacak!",
@@ -52231,11 +52226,11 @@ QuestTranslator_QuestData = {
     -- Down at the Docks
     -- Ratchet -> Ratchet (ZoneData.lua)
     -- Booty Bay -> Ganimet Körfezi (ZoneData.lua)
-    -- The Barrens -> Çorak Topraklar (ZoneData.lua)
+    -- The Barrens -> Çoraklar (ZoneData.lua)
     ["910"] = {
     ["Title"]="Rıhtımda",
     ["Description"]="Ratchet ve Ganimet Körfezi arasında yelken açan yüce gemilerin hikayelerini duydum! Okyanusta yelken açmak ve birçok büyük deniz savaşında savaşmak çok havalı olurdu. Büyüdüğümde belki de yüce bir Horde denizcisi olurum! Evet!\n\nBeni Ratchet rıhtımlarını görmeye götürür müsün lütfen? Suda durmayacağıma veya herhangi bir soruna yol açmayacağıma söz veriyorum - sadece büyük tekneleri görmek ve tuzlu deniz suyunu koklamak istiyorum! Evet!",
-    ["Objectives"]="Vesayetin altındaki çocuğu Çorak Topraklar'daki Ratchet rıhtımına götür.",
+    ["Objectives"]="Vesayetin altındaki çocuğu Çoraklar'daki Ratchet rıhtımına götür.",
     ["Progress"]="Geldik mi?",
     ["Completion"]="Vay canına, okyanus ÇOK BÜYÜK! Bir sürü martı falan da vardı - Tam da düşündüğüm gibi gürültülü ve hareketli. Yakınlarda korsanlar da var - çok havalı!\n\nBeni Ratchet'a götürdüğün için teşekkür ederim, YOUR_NAME. Bu çok harikaydı!",
     ["minlevel"]="10",
@@ -52245,11 +52240,11 @@ QuestTranslator_QuestData = {
     -- Gateway to the Frontier
     -- Külvadi -> Külvadi (ZoneData.lua)
     -- Mor'shan Rampart -> Mor'shan Surları
-    -- The Barrens -> Çorak Topraklar (ZoneData.lua)
+    -- The Barrens -> Çoraklar (ZoneData.lua)
     ["911"] = {
     ["Title"]="Sınıra Açılan Kapı",
-    ["Description"]="Külvadi'in yeni sınır olduğunu ve Çorak Topraklar'daki Mor'shan Surları'nın oraya açılan kapı olduğunu söylüyorlar. Evcilleştirilmemiş vahşi doğadan ihtiyacın olan her şeyi yontarak çıkaran bir öncü olmak çok havalı olurdu! Gelecekte Horde ve Alliance'ın en çok burada çatışacağını söylüyorlar ve ben de orada olmak istiyorum YOUR_NAME!\n\nSınırın neye benzediğini görebilmem için beni Mor'shan Surları'na götürür müsün lütfen? Horde'un o kokmuş gece elflerini nereden kovduğunu görmek istiyorum!",
-    ["Objectives"]="Vesayetin altındaki çocuğu Külvadi'e girmeden hemen önce, Çorak Topraklar'ın kuzey kısmındaki Mor'shan Surları'na götür.",
+    ["Description"]="Külvadi'in yeni sınır olduğunu ve Çoraklar'daki Mor'shan Surları'nın oraya açılan kapı olduğunu söylüyorlar. Evcilleştirilmemiş vahşi doğadan ihtiyacın olan her şeyi yontarak çıkaran bir öncü olmak çok havalı olurdu! Gelecekte Horde ve Alliance'ın en çok burada çatışacağını söylüyorlar ve ben de orada olmak istiyorum YOUR_NAME!\n\nSınırın neye benzediğini görebilmem için beni Mor'shan Surları'na götürür müsün lütfen? Horde'un o kokmuş gece elflerini nereden kovduğunu görmek istiyorum!",
+    ["Objectives"]="Vesayetin altındaki çocuğu Külvadi'e girmeden hemen önce, Çoraklar'ın kuzey kısmındaki Mor'shan Surları'na götür.",
     ["Progress"]="Geldik mi?",
     ["Completion"]="Vay canına, Külvadi gerçek maceranın yaşandığı yer! Hiç Külvadi'de savaştın mı, YOUR_NAME? Büyüdüğümde bir kahraman olduğumda, Külvadi'e gelip Horde'un zaferi için savaşmak istiyorum!\n\nBeni sınıra götürdüğün için teşekkür ederim, YOUR_NAME. Sen en iyisisin!",
     ["minlevel"]="10",
@@ -52717,7 +52712,7 @@ QuestTranslator_QuestData = {
 		["Description"] = "Toynak izi sıraları, Kuytu İstirahat Hanı [Shady Rest Inn]'nın hâlâ tüten iskeletinden uzağa doğru uzanmaktadır. Bataklığın yumuşak çamurunda neredeyse algılanamayacak kadar silik olan diğer iz sıralarıyla birlikte en azından birkaç görünür iz vardır.",
 		["Objectives"] = "Kuytu İstirahat Hanı [Shady Rest Inn]'ndaki şüpheli izleri Eğreltisipere Köyü [Brackenwall Village]'ndeki Krog'a bildir.",
 		["Progress"] = "",
-		["Completion"] = "Toynak izleri... Kılkuyruklar [quilboar] olabilirdi sanırım. Ya da belki bir sentor. Çorak Topraklar [The Barrens]'daki varlıkları azımsanmayacak derecede ve böyle bir eyleme kalkışmalarını uzak bir ihtimal olarak görmem.",
+		["Completion"] = "Toynak izleri... Kılkuyruklar [quilboar] olabilirdi sanırım. Ya da belki bir sentor. Çoraklar [The Barrens]'daki varlıkları azımsanmayacak derecede ve böyle bir eyleme kalkışmalarını uzak bir ihtimal olarak görmem.",
 		["minlevel"] = "30",
 		["questlevel"] = "35"
 	},
@@ -52771,7 +52766,7 @@ QuestTranslator_QuestData = {
 		["Description"] = "Şu ihtiyar Jim için üzülmeden edemiyorum. Her zaman öyle değildi. Bir süre bataklıkta bir han işletti, harika bir yerdi.NEW_LINEBak, gerçekten bu konu hakkında konuşmak istemiyorum. Çok mecbur kalırsan konuyu Kaptan Vimes'a aç.",
 		["Objectives"] = "Theramore'daki Kaptan Garran Vimes ile konuş.",
 		["Progress"] = "",
-		["Completion"] = "Gerçek adı James Hyal. Çorak Topraklar [The Barrens]'ın kenarında bir han açtı. Gezginlerin uğraması için güzel bir yer yapmak istiyordu...NEW_LINEBelki çok büyük düşünüyordu ama han bir süre iyi gitti. Sonra bataklıktaki yolların kontrolünü kaybettik ve ogreler ele geçirdi.NEW_LINEJames, surlarımızın içindeki güvenlik uğruna hayalinden vazgeçemeyecek kadar inatçıydı ve Kuytu İstirahat Hanı [Shady Rest Inn] yerle bir edildi. Araştırıyoruz ama pek şansımız yaver gitmedi. Yardım etmek istiyorsan, enkazda ne bulabileceğine bir bak.",
+		["Completion"] = "Gerçek adı James Hyal. Çoraklar [The Barrens]'ın kenarında bir han açtı. Gezginlerin uğraması için güzel bir yer yapmak istiyordu...NEW_LINEBelki çok büyük düşünüyordu ama han bir süre iyi gitti. Sonra bataklıktaki yolların kontrolünü kaybettik ve ogreler ele geçirdi.NEW_LINEJames, surlarımızın içindeki güvenlik uğruna hayalinden vazgeçemeyecek kadar inatçıydı ve Kuytu İstirahat Hanı [Shady Rest Inn] yerle bir edildi. Araştırıyoruz ama pek şansımız yaver gitmedi. Yardım etmek istiyorsan, enkazda ne bulabileceğine bir bak.",
 		["minlevel"] = "30",
 		["questlevel"] = "35"
 	},
@@ -52780,7 +52775,7 @@ QuestTranslator_QuestData = {
 		["Description"] = "Toynak izi sıraları, Kuytu İstirahat Hanı [Shady Rest Inn]'nın hâlâ tüten iskeletinden uzağa doğru uzanmaktadır. Bataklığın yumuşak çamurunda neredeyse algılanamayacak kadar silik olan diğer iz sıralarıyla birlikte en azından birkaç görünür iz vardır.",
 		["Objectives"] = "Kuytu İstirahat Hanı [Shady Rest Inn]'ndaki şüpheli izleri Theramore'daki Kaptan Garran Vimes'a bildir.",
 		["Progress"] = "",
-		["Completion"] = "Toynak izleri, ha? Tozluçalı Bataklığı [Dustwallow Marsh] yakınlarındaki topraklarda olağanüstü miktarda sentor hareketliliği olduğu doğru. Çorak Topraklar [The Barrens]'a yapılan kısa seferlerde, kamplarının ve mülklerinin alanı parsellediğini gördük.",
+		["Completion"] = "Toynak izleri, ha? Tozluçalı Bataklığı [Dustwallow Marsh] yakınlarındaki topraklarda olağanüstü miktarda sentor hareketliliği olduğu doğru. Çoraklar [The Barrens]'a yapılan kısa seferlerde, kamplarının ve mülklerinin alanı parsellediğini gördük.",
 		["minlevel"] = "30",
 		["questlevel"] = "35"
 	},
@@ -52867,7 +52862,7 @@ QuestTranslator_QuestData = {
 	},
 	["1361"] = {
 		["Title"] = "Regthar Ölümkapısı",
-		["Description"] = "Horde'un bir savaşçısı olan Regthar Ölümkapısı [Regthar Deathgate], Desolace topraklarına yapılacak bir görev için temsilciler topluyor. Gönüllü olmak istiyorsan onunla konuş. Çorak Topraklar [The Barrens]'da, Yolayrımı [Crossroads]'nın batısındaki sığınaklar dizisinde konuşlanmıştır.NEW_LINEVe silahlarını bile. Desolace savaşla parçalanmış bir yerdir.",
+		["Description"] = "Horde'un bir savaşçısı olan Regthar Ölümkapısı [Regthar Deathgate], Desolace topraklarına yapılacak bir görev için temsilciler topluyor. Gönüllü olmak istiyorsan onunla konuş. Çoraklar [The Barrens]'da, Yolayrımı [Crossroads]'nın batısındaki sığınaklar dizisinde konuşlanmıştır.NEW_LINEVe silahlarını bile. Desolace savaşla parçalanmış bir yerdir.",
 		["Objectives"] = "Regthar Ölümkapısı [Regthar Deathgate] ile konuş.",
 		["Progress"] = "Görevinin tamamlanmadığını görüyorum, YOUR_NAME. Beceriksizliğini Sharlindra'ya bildireyim mi?",
 		["Completion"] = "Evet, adam topluyorum. Bu görev Desolace'a, oradaki sentorlara karşı giden bir görev. Hızlıca başlayabilmen için kısa keseceğim.",
@@ -52876,7 +52871,7 @@ QuestTranslator_QuestData = {
 	},
 	["1362"] = {
 		["Title"] = "Desolace'ın Kolkar'ları",
-		["Description"] = "Kolkar sentorları Desolace'da yaşıyor ve kuvvetleri Çorak Topraklar [The Barrens]'a yayıldı. Bu bilinen bir gerçek ve burada onlarla ilgilenen Horde ajanlarımız var.NEW_LINEAncak sentorlar Desolace'da güçlü olduğu sürece her zaman bir tehdit oluşturacaklar. O tehditten kurtulma vaktimiz geldi.NEW_LINEDesolace'daki Hayaletgezen Karakolu [Ghost Walker Post]'nda Felgur Çiftkesik [Felgur Twocuts] ile konuş. Sentorlar hakkında istihbarat toplamak için gönderilmişti. Desolace Kolkar'ları ile en iyi nasıl başa çıkılacağını o bilecektir.",
+		["Description"] = "Kolkar sentorları Desolace'da yaşıyor ve kuvvetleri Çoraklar [The Barrens]'a yayıldı. Bu bilinen bir gerçek ve burada onlarla ilgilenen Horde ajanlarımız var.NEW_LINEAncak sentorlar Desolace'da güçlü olduğu sürece her zaman bir tehdit oluşturacaklar. O tehditten kurtulma vaktimiz geldi.NEW_LINEDesolace'daki Hayaletgezen Karakolu [Ghost Walker Post]'nda Felgur Çiftkesik [Felgur Twocuts] ile konuş. Sentorlar hakkında istihbarat toplamak için gönderilmişti. Desolace Kolkar'ları ile en iyi nasıl başa çıkılacağını o bilecektir.",
 		["Objectives"] = "Desolace'daki Hayaletgezen Karakolu [Ghost Walker Post]'nda Felgur Çiftkesik [Felgur Twocuts] ile konuş.",
 		["Progress"] = "",
 		["Completion"] = "Regthar'ın emirleriyle mi buradasın? O halde sentorlarla ilgilenmek için buradasın. Güzel.NEW_LINEUmarım dinlenmişsindir. Sentorlara karşı mücadelemizin nasıl biteceğini bilmiyorum ama mücadelenin uzun süreceğini biliyorum.NEW_LINEOtur ve dinle.",
@@ -56460,12 +56455,12 @@ QuestTranslator_QuestData = {
 
     -- Vivian Lagrave
     -- Vivian Lagrave -> Vivian Lagrave (MobNpcData.lua)[cite: 1]
-    -- Badlands -> Çorak Topraklar (ZoneData.lua)
+    -- Badlands -> Çoraklar (ZoneData.lua)
     -- Kargath -> Kargath (ZoneData.lua)
     -- Blackrock Depths -> Karakaya Derinlikleri (ZoneData.lua)
     ["4133"] = {
     ["Title"]="Vivian Lagrave",
-    ["Description"]="Gölgeüstadı Vivian Lagrave'in hizmetlerine ihtiyacı var. Çorak Topraklar'da, ork karakolu Kargath'ta, Karakaya Derinlikleri'nin Kara Demir cüceleri tarafından yapılan belirli bir bira hakkındaki söylentilerin peşinde.\n\nVivian ile konuş. Seni bekliyor.",
+    ["Description"]="Gölgeüstadı Vivian Lagrave'in hizmetlerine ihtiyacı var. Çoraklar'da, ork karakolu Kargath'ta, Karakaya Derinlikleri'nin Kara Demir cüceleri tarafından yapılan belirli bir bira hakkındaki söylentilerin peşinde.\n\nVivian ile konuş. Seni bekliyor.",
     ["Objectives"]="Kargath'taki Gölgeüstadı Vivian Lagrave ile konuş.",
     ["Progress"]="",
     ["Completion"]="Geldiğin için teşekkür ederim, YOUR_NAME. Burası sert bir çekicilikten yoksun değil ama Eczane'nin imkanlarından yoksun.\n\nNezaket cümlelerini bırakalım. İşe dönelim, değil mi?",
@@ -57973,11 +57968,11 @@ QuestTranslator_QuestData = {
     -- Vivian Lagrave -> Vivian Lagrave (MobNpcData.lua)[cite: 1]
     -- Vivian -> Vivian (MobNpcData.lua)[cite: 1]
     -- Kargath -> Kargath (ZoneData.lua)
-    -- Badlands -> Çorak Topraklar (ZoneData.lua)
+    -- Badlands -> Çoraklar (ZoneData.lua)
     -- Blackrock Spire -> Karakaya Zirvesi (ZoneData.lua)
     ["4769"] = {
     ["Title"]="Vivian Lagrave ve Koyutaş Tableti",
-    ["Description"]="Vivian Lagrave bana Çorak Topraklar'daki Kargath'tan haber gönderdi. Çalışmaları aracılığıyla Karakaya Zirvesi'nde araştırmamıza yarayacak antik bir metin olduğuna inanıyor. Bunu doğrulamak için metni zirveden çıkaracak birine ihtiyacı olacak. Kolay bir görev değil.\n\nİlgileniyorsan Kargath'taki Vivian ile konuş.",
+    ["Description"]="Vivian Lagrave bana Çoraklar'daki Kargath'tan haber gönderdi. Çalışmaları aracılığıyla Karakaya Zirvesi'nde araştırmamıza yarayacak antik bir metin olduğuna inanıyor. Bunu doğrulamak için metni zirveden çıkaracak birine ihtiyacı olacak. Kolay bir görev değil.\n\nİlgileniyorsan Kargath'taki Vivian ile konuş.",
     ["Objectives"]="Gölgebüyücüsü Vivian Lagrave ile konuş.[cite: 1]",
     ["Progress"]="",
     ["Completion"]="Bu doğru. Karakaya Zirvesi içinde tutulan bir tablet olduğuna inanıyorum, eski simya tariflerini barındıran bir tablet. Burada olmana sevindim çünkü tableti çıkarmak için yardıma ihtiyacım var.\n\nRahatına bak, daha ayrıntılı açıklayacağım.",
@@ -59106,11 +59101,11 @@ QuestTranslator_QuestData = {
 
     -- Dragonscale Leatherworking
     -- Thorkaf Dragoneye -> Thorkaf Ejdergözü (MobNpcData.lua)
-    -- Badlands -> Çorak Topraklar (ZoneData.lua)
+    -- Badlands -> Çoraklar (ZoneData.lua)
     ["5145"] = {
     ["Title"]="Ejderha Pul İşlemeciliği",
     ["Description"]="Ejderha pulu işlemeciliği kolay değildir ancak son derece tatmin edicidir. Sana bu güzel posta zırhı yapmayı öğreteceğim ancak sadece belirli koşulları kabul edersen.\n\nBu yolu seçerek elemental veya kabilevi deri işlemeciliğini asla öğrenmemeyi kabul edersin; zanaatın zirvesinde üçünden sadece biri için yer vardır. Dahası, akrep zırhını içeren en iyi çalışmalarından bazı örnekler isteyeceğim. Son olarak, ticaretin temelini edinme yeteneğinin kanıtına ihtiyacım olacak: Ejderhasoyunun pulları.",
-    ["Objectives"]="Çorak Topraklar'daki Thorkaf Ejdergözü'ne 2 Sert Akrep Göğüslüğü, 2 Sert Akrep Eldiveni ve 10 Aşınmış Ejderha Pulu getir.\n\nBu görevi tamamlamak sana Ejderha Pulu İşlemeciliği sanatlarına erişim sağlayacaktır.\n\nBu görevin tamamlanması Elemental Deri İşlemeciliği ve Kabilevi Deri İşlemeciliği öğrenmeni engelleyecektir; bunu yapmadan önce takip etmek istediğin yolun bu olduğundan emin ol.",
+    ["Objectives"]="Çoraklar'daki Thorkaf Ejdergözü'ne 2 Sert Akrep Göğüslüğü, 2 Sert Akrep Eldiveni ve 10 Aşınmış Ejderha Pulu getir.\n\nBu görevi tamamlamak sana Ejderha Pulu İşlemeciliği sanatlarına erişim sağlayacaktır.\n\nBu görevin tamamlanması Elemental Deri İşlemeciliği ve Kabilevi Deri İşlemeciliği öğrenmeni engelleyecektir; bunu yapmadan önce takip etmek istediğin yolun bu olduğundan emin ol.",
     ["Progress"]="Ejderha pulu tabakçısı olarak kalıcı bir karar vermeye hazırsan, seni öğrenci olarak almaya hazırım. Sadece istediğim şeyleri bana getir, eğitimine başlayalım.",
     ["Completion"]="Hakkını teslim edeceğim - az önce yaptığın gibi kalıcı bir karar vermek güçlü bir irade gerektirir. Sana temin ederim ki, ejderha pulu tabakçılığı takip etmen için karlı ve tatmin edici bir yol olduğunu kanıtlayacaktır.\n\nGelecekte bu sanatta eğitilmek için benimle konuşman yeterlidir, henüz kendi üzerine üstlenmediğin her türlü bilgiyi kullanıma sunacağım.",
     ["minlevel"]="40",
@@ -59243,12 +59238,12 @@ QuestTranslator_QuestData = {
     -- Seeking Spiritual Aid
     -- Islen Waterseer -> Islen Sukâhini (MobNpcData.lua)
     -- Greta -> Greta (MobNpcData.lua)
-    -- Barrens -> Çorak Topraklar (ZoneData.lua)
+    -- Barrens -> Çoraklar (ZoneData.lua)
     -- Ratchet -> Ratchet (ZoneData.lua)
     ["5158"] = {
     ["Title"]="Ruhani Yardım Arayışı",
-    ["Description"]="Yozlaşmış suyu Çorak Topraklar'a götür, YOUR_NAME. Ratchet'ın güneyinde, kıyı boyunca gizlenmiş eski bir dostum var, Islen Sukâhini adında bir şaman. Bize yardım edecek güçlü bir şamandır. Su ruhlarıyla olan ilişkisi her zaman güçlü olmuştur. Görevimizin soylu bir görev olması onu ve su ruhlarını bu görevde bize yardım etmeye ikna etmeye yetecektir.\n\nOnu tam suyun kenarındaki küçük bir ordugahta bulmalısın. Ve, YOUR_NAME, korsanları görmezden gel... onlar sadece bir baş belası ve senin için bir tehdit değil.",
-    ["Objectives"]="Yozlaşmış Ay Kuyusu Suyu'nu Çorak Topraklar'daki Islen Sukâhini'ne götür.",
+    ["Description"]="Yozlaşmış suyu Çoraklar'a götür, YOUR_NAME. Ratchet'ın güneyinde, kıyı boyunca gizlenmiş eski bir dostum var, Islen Sukâhini adında bir şaman. Bize yardım edecek güçlü bir şamandır. Su ruhlarıyla olan ilişkisi her zaman güçlü olmuştur. Görevimizin soylu bir görev olması onu ve su ruhlarını bu görevde bize yardım etmeye ikna etmeye yetecektir.\n\nOnu tam suyun kenarındaki küçük bir ordugahta bulmalısın. Ve, YOUR_NAME, korsanları görmezden gel... onlar sadece bir baş belası ve senin için bir tehdit değil.",
+    ["Objectives"]="Yozlaşmış Ay Kuyusu Suyu'nu Çoraklar'daki Islen Sukâhini'ne götür.",
     ["Progress"]="Ratchet'a giden yolu arayan basit bir gezgin olmadığını hissediyorum. Gel, ordugahımızda otur ve dinlen. Hazır olduğunda benimle konuş.",
     ["Completion"]="Ah, bu Ay Kuyusu'ndan gelen suyun temizlenmesine ihtiyacın var. Felwood'daki bu kötücül gücü durdurmak yeterince soylu görünüyor ama suyun arındırılıp arındırılmayacağına karar vermek bana düşmez. Su ruhlarına soracağım--davanın adil olup olmadığına karar vermek onlara kalacak.\n\nBana bir dakika ver, onlara dileğini ileteyim. Umarım davana benim kadar sempatik bakarlar.",
     ["minlevel"]="48",
@@ -59259,13 +59254,13 @@ QuestTranslator_QuestData = {
     -- Islen -> Islen (MobNpcData.lua)
     -- Greta -> Greta (MobNpcData.lua)
     -- Greta Mosshoof -> Greta Yosunoynağı (MobNpcData.lua)
-    -- Barrens -> Çorak Topraklar (ZoneData.lua)
+    -- Barrens -> Çoraklar (ZoneData.lua)
     -- Felwood -> Felwood (ZoneData.lua)
     ["5159"] = {
     ["Title"]="Temizlenmiş Suyun Felwood'a Dönüşü",
     ["Description"]="Ruhlara şükürler olsun, YOUR_NAME. Senin yardımına koşanlar onlar, ben değilim.\n\nBu arındırılmış suyu sana veriyorum. Lütfen Greta'ya selamlarımı ve en iyi dileklerimi ilet. Birçoğumuzdan daha büyük bir şeyle mücadele ediyor... yakında öğreneceğinden emin olduğum gibi.\n\nGölge Konseyi hafife alınacak bir güç değil, YOUR_NAME. Bunu unutma.\n\nŞimdi git. Suyu al ve Greta'ya dön.",
     ["Objectives"]="Arındırılmış Ay Kuyusu Suyu'nu Felwood'daki Greta Yosunoynağı'na götür.",
-    ["Progress"]="Ah, döndüğünü görüyorum, YOUR_NAME. Güzel. Çorak Topraklar'da Islen'i buldun mu? Yoksa hedeflerimize ulaşmak için başka bir yol mu bulmalıyız?",
+    ["Progress"]="Ah, döndüğünü görüyorum, YOUR_NAME. Güzel. Çoraklar'da Islen'i buldun mu? Yoksa hedeflerimize ulaşmak için başka bir yol mu bulmalıyız?",
     ["Completion"]="Bu amaçlarımız için fazlasıyla yeterli su olmalı.\n\nIslen'in bize yardım edebildiğini duyduğuma sevindim. Su ruhlarıyla olan gücü her zaman güçlü olmuştur. O da bilgedir ve ruhların onun amacıyla uyuşmadığı nadirdir. İkisinin de görevimizi kutsamış olması bana doğru yolda olduğumuz umudunu veriyor.",
     ["minlevel"]="48",
     ["questlevel"]="54",
@@ -73592,7 +73587,7 @@ QuestTranslator_QuestData = {
     ["Title"] = "Ramstein",
     ["Description"] = "Bunalmış durumdaydım. Tam bu noktada durdum... Lordaeron'u savunmak için yerimi korudum. Çiftlik ve üzerindeki her şey devasa bir Veba dalgası tarafından basıldı.NEW_LINESefil şey. Pislik. Açık göğüs kafesinden sakatatlar sarkarak üzerimde süzüldü.NEW_LINEVeba olarak uyandım. Çok uzun süre çaresiz kaldım. Zihnim Lik Kralı'nınkiyle birleşmişti.NEW_LINEBenim için geldi... bir şekilde, bir yerde geleceğini biliyordum. Özgürüm.NEW_LINEVe şimdi, intikamımı almalıyım - hayatımı benden alan şeyden intikamımı. Onu yok et.",
     ["Objectives"] = "Stratholme'a seyahat et ve Tıkan Nathanos için bir hatıra olarak kafasını al.",
-    ["Progress"] = "Sylvanas beni kurtardıktan sonra, aylarca bu çorak topraklarda canavarı avladım. Stratholme'un güvenliğine kaçtı. Piç...",
+    ["Progress"] = "Sylvanas beni kurtardıktan sonra, aylarca bu Çoraklarda canavarı avladım. Stratholme'un güvenliğine kaçtı. Piç...",
     ["Completion"] = "Merak ediyorum... merhamet dilemiş midir? Merhametin ne olduğunu bilebilir miydi?NEW_LINE<Nathanos tükürür.>NEW_LINEBu canavarın kafasını duvarıma asacağım.NEW_LINESampiyonlarımdan birinin arasında bir yer kazandın, YOUR_NAME.NEW_LINE<Nathanos selam durur.>",
     ["minlevel"] = "56",
     ["questlevel"] = "60"
