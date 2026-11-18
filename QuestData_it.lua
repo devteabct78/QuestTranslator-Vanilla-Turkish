@@ -2393,7 +2393,7 @@ QuestTranslator_QuestData = {
 
     ["264"] = {
         ["Title"] = "Ölüm Bizi Ayırana Dek",
-        ["Description"] = "Aşağılık pislik! Lanet haçlı seferi için beni terk etti. Çünkü \"hortlakların oluşturduğu tehditlere karşı sahip olduğumuz en önemli şey Işık'mış.\" \n\nPeki ya çocukları?! Peki ya BEN?! Gece boyunca sabırla onu bekleyerek oturdum... Her zaman onun lanet olası görevinin ardından ikinci planda kaldım!\n\nİşte \"adaletin\" sana ne getirdiğine tanık ol, <name>! O öldü ve ben tam da onun durdurmaya çalıştığı şeyin ta kendisini taşıyorum!\n\nBu çöp parçasını al ve Kabristan'daki mezarına koy. Artık onunla da bununla da hiçbir ilgim olsun istemiyorum!",
+        ["Description"] = "Aşağılık pislik! Lanet haçlı seferi için beni terk etti. Çünkü \"hortlakların oluşturduğu tehditlere karşı sahip olduğumuz en önemli şey Işık'mış.\" \n\nPeki ya çocukları?! Peki ya BEN?! Gece boyunca sabırla onu bekleyerek oturdum... Her zaman onun lanet olası görevinin ardından ikinci planda kaldım!\n\nİşte \"adaletin\" sana ne getirdiğine tanık ol, YOUR_NAME! O öldü ve ben tam da onun durdurmaya çalıştığı şeyin ta kendisini taşıyorum!\n\nBu çöp parçasını al ve Kabristan'daki mezarına koy. Artık onunla da bununla da hiçbir ilgim olsun istemiyorum!",
         ["Objectives"] = "Clarice'in Kolyesi'ni Gümüşçam'daki Yuriv'in Mezarı'na yerleştir.",
         ["Progress"] = "Taş dokunulamayacak kadar soğuk ama bariz bir şekilde tahrip edilmiş. Etrafta çöpler var; tabutun üzerindeki kabartmayı çizikler ve yarıklar süslüyor; mezarın etrafındaki bitkiler alanın üzerini kaplamaya başlamış.\n\nHiç kimse burada kimin gömülü olduğunu umursamıyor, özellikle de veba kurbanları.",
         ["Completion"] = "Değersiz kolyeyi mezarın üzerine yerleştiriyorsun ve yuvasındaki değerli taş belirgin bir şekilde sönükleşiyor gibi görünüyor.\n\nAyrılmak için ayağa kalktığında kolyeye aşağı doğru bakıyorsun; tabutun üstüne oyulmuş kabartmanın elleri üzerinde cansız bir şekilde yatıyor. Düşüncelerin, Kabristan'ın üzerinden geçen sert, serin bir rüzgarla kesiliyor. Bir an için etrafındaki her şey sessizleşiyor.",
@@ -3943,7 +3943,7 @@ QuestTranslator_QuestData = {
         ["Description"] = "Erkek kardeşim Quinn ve ben Gümüşçam Ormanı'nı keşfetmek ve Yüce İnfazcı Hadrec'e rapor vermekle görevlendirildik. Ama fazla uzaklaşamadık -- bu çiftlikten geçerken hortlak Aşağılık Ivar'ın saldırısına uğradık.\n\nIvar'dan kaçmayı başardık ama Quinn'i ağır bir şekilde parçaladı. Ona verdiğin iksir sayesinde iyileşiyor ancak Quinn toparlanamadan Ivar geri dönebilir.\n\nQuinn'in iyileşmeye vakti olması için Ivar'ı öldür. Ivar genellikle ötedeki samandağında, gardımın düşmesini bekliyor.",
         ["Objectives"] = "Aşağılık Ivar'ı katlet ve Ivar'ın Kafası'nı Ivar Tarlası'ndaki Rane Yorick'e getir.",
         ["Progress"] = "Aşağılık Ivar'ı öldürdün mü? Kardeşim ve benim için yapmayacaksan, Terk Edilmişler için yap.",
-        ["Completion"] = "Ah, teşekkür ederim. Minnetimi kazandın, <name>.\n\nVe üstlerime sunacağım raporda senden de bahsedeceğim.",
+        ["Completion"] = "Ah, teşekkür ederim. Minnetimi kazandın, YOUR_NAME.\n\nVe üstlerime sunacağım raporda senden de bahsedeceğim.",
         ["minlevel"] = "0",
         ["questlevel"] = "0"
     },
@@ -4320,7 +4320,7 @@ QuestTranslator_QuestData = {
         ["Description"] = "Çürükderi gibi görünmüyorsun. Güzel. Umudumu kaybetmiştim...\n\nBenim adım Alaric, bir zamanlar Thule'un baş hizmetkarı ve korumasıydım. Beni Ölümün Vebası'ndan \"korumak\" için büyüsünü kullandı ama büyüsü bunun yerine bana kaçamadığım bir yaşamötesi verdi. Ve lanetli çürükderi gnolları yarattıktan sonra Thule başımı kesti... ve kafamı gnollara bir oyuncak olarak verdi!\n\nLütfen beni bedenime götür. Gnolların onu burada, Fenris Kalesi'nde, ahırın yakınındaki işaretsiz bir mezara gömdüğüne inanıyorum.",
         ["Objectives"] = "Alaric'in Kafası'nı onun mezarına getir.",
         ["Progress"] = "Bu mezar alelacele kazılmış.",
-        ["Completion"] = "Teşekkür ederim, <name>. Gnolların bedenimi yok etmesinden korkuyordum. Etmediklerini bilmek güzel.",
+        ["Completion"] = "Teşekkür ederim, YOUR_NAME. Gnolların bedenimi yok etmesinden korkuyordum. Etmediklerini bilmek güzel.",
         ["minlevel"] = "0",
         ["questlevel"] = "0"
     },
@@ -6231,10 +6231,10 @@ QuestTranslator_QuestData = {
     -- Yıkılmış Karavan
     ["749"] = {
     ["Title"]="Yıkılmış Karavan",
-    ["Description"]="Birkaç gün önce, Stonebull Gölü'nün kuzey kıyısında koruma altında seyahat eden bir Venture Co. kervanı bulduk. Daha önceki bir savaşta iki adamımızı kaybetmiştik, bu yüzden hemen saldırdık ve kervanı yerle bir ettik.NEW_LINEMeşalelerimizin değerli her şeyi yok edeceğini düşünerek erzak sandıklarını bıraktık, ancak Venture Co. kurtarıcılarının yanmış vagonların yakınında görüldüğü göz önüne alındığında, belki de yanıldık.NEW_LINEBelki de karavana gidip sandıkların içindekileri inceleyebilirsiniz.",
+    ["Description"]="Birkaç gün önce, Stonebull Gölü'nün kuzey kıyısında koruma altında seyahat eden bir Girişim Şti.(Venture Co.) kervanı bulduk. Daha önceki bir savaşta iki adamımızı kaybetmiştik, bu yüzden hemen saldırdık ve kervanı yerle bir ettik.NEW_LINEMeşalelerimizin değerli her şeyi yok edeceğini düşünerek erzak sandıklarını bıraktık, ancak Girişim Şti.(Venture Co.) kurtarıcılarının yanmış vagonların yakınında görüldüğü göz önüne alındığında, belki de yanıldık.NEW_LINEBelki de karavana gidip sandıkların içindekileri inceleyebilirsiniz.",
     ["Objectives"]="Morin Cloudstalker, Yıkılmış Karavan'daki bir erzak sandığının içindekileri incelemeni istiyor.",
     ["Progress"]="",
-    ["Completion"]="Sandığın her tarafı Venture Co. işaretiyle damgalanmıştır. Madencilik Bölümü. Kolinin yan tarafına dikkatlice basılmış notlar, içindekilerin merkez tesislerinden birinde işleneceğini gösteriyor.",
+    ["Completion"]="Sandığın her tarafı Girişim Şti.(Venture Co.) işaretiyle damgalanmıştır. Madencilik Bölümü. Kolinin yan tarafına dikkatlice basılmış notlar, içindekilerin merkez tesislerinden birinde işleneceğini gösteriyor.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Yıkılmış Karavan
@@ -6253,10 +6253,10 @@ QuestTranslator_QuestData = {
     -- Yıkılmış Karavan
     ["751"] = {
     ["Title"]="Yıkılmış Karavan",
-    ["Description"]="Kapağı açtığınızda, Venture Co. şirketinin Mulgore'daki maden işletmesine dair daha fazla kanıt olan, sıkıca paketlenmiş bir dizi cevher ve mineral ortaya çıkıyor. Cevher ve minerallerin üstünden sıkıca ciltlenmiş bir tomar kağıt çıkarıyorsunuz.NEW_LINEDoğudaki dağ eteklerinde, çalışma seslerini zar zor duyabiliyorsunuz ve büyük bir ateşten yükselen dumanı görüyorsunuz.",
-    ["Objectives"]="Venture Co. belgelerini Belgeleri Bloodhoof Köyü yakınlarındaki Morin Cloudstalker'a teslim et.",
-    ["Progress"]="Selam, YOUR_NAME. Venture Co.'nun anavatanımızdaki planları ve operasyonları hakkında yeni bir şey öğrendiniz mi?NEW_LINEEğer topraklarımızı da diğerleri gibi sömürmeyi planlıyorlarsa, Aykırılar buna bir son vermekte gecikmeyecektir.",
-    ["Completion"]="Gerçekten de Venture Co. bizi doğal kaynaklarımızdan mahrum bırakmaya çalışıyor gibi görünüyor. Bunun doğru olduğunu bilmek güzel ve şimdi bu konuda bir şeyler yapmamız gerekiyor gibi görünüyor.",
+    ["Description"]="Kapağı açtığınızda, Girişim Şti.(Venture Co.) şirketinin Mulgore'daki maden işletmesine dair daha fazla kanıt olan, sıkıca paketlenmiş bir dizi cevher ve mineral ortaya çıkıyor. Cevher ve minerallerin üstünden sıkıca ciltlenmiş bir tomar kağıt çıkarıyorsunuz.NEW_LINEDoğudaki dağ eteklerinde, çalışma seslerini zar zor duyabiliyorsunuz ve büyük bir ateşten yükselen dumanı görüyorsunuz.",
+    ["Objectives"]="Girişim Şti.(Venture Co.) belgelerini Belgeleri Bloodhoof Köyü yakınlarındaki Morin Cloudstalker'a teslim et.",
+    ["Progress"]="Selam, YOUR_NAME. Girişim Şti.(Venture Co.)'nun anavatanımızdaki planları ve operasyonları hakkında yeni bir şey öğrendiniz mi?NEW_LINEEğer topraklarımızı da diğerleri gibi sömürmeyi planlıyorlarsa, Aykırılar buna bir son vermekte gecikmeyecektir.",
+    ["Completion"]="Gerçekten de Girişim Şti.(Venture Co.) bizi doğal kaynaklarımızdan mahrum bırakmaya çalışıyor gibi görünüyor. Bunun doğru olduğunu bilmek güzel ve şimdi bu konuda bir şeyler yapmamız gerekiyor gibi görünüyor.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Yıkılmış Karavan
@@ -6393,23 +6393,23 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end Toprak Ananın Törenleri
 
-    -- The Venture Co.
+    -- The Girişim Şti.(Venture Co.)
     ["764"] = {
-    ["Title"]="The Venture Co.",
-    ["Description"]="Bu, Mulgore'da gördüğümüz Venture Co. çalışanlarının ve ekipmanlarının birikimini açıklıyor. Şu goblinler... şirketleri kendi iyilikleri için çok hızlı büyüyor. Hani derler ya, bir cine bir şey gösterin, arka planda terazinin sesini duyarsınız.NEW_LINEAçgözlü küçük şeyler bunlar. Ne yazık ki ticari girişimleri için, biz Taurenler topraklarımızda faaliyet göstermelerine izin veremeyiz. Harap olmuş kervanın kuzeydoğusundaki madenlerine git ve onlara bir mesaj gönder.",
-    ["Objectives"]="14 Venture Co. çalışanını ve Bloodhoof Köyü'nde Morin Cloudstalker için 14 işçi ve 6 Venture Co. denetçisini öldürün.",
+    ["Title"]="The Girişim Şti.(Venture Co.)",
+    ["Description"]="Bu, Mulgore'da gördüğümüz Girişim Şti.(Venture Co.) çalışanlarının ve ekipmanlarının birikimini açıklıyor. Şu goblinler... şirketleri kendi iyilikleri için çok hızlı büyüyor. Hani derler ya, bir cine bir şey gösterin, arka planda terazinin sesini duyarsınız.NEW_LINEAçgözlü küçük şeyler bunlar. Ne yazık ki ticari girişimleri için, biz Taurenler topraklarımızda faaliyet göstermelerine izin veremeyiz. Harap olmuş kervanın kuzeydoğusundaki madenlerine git ve onlara bir mesaj gönder.",
+    ["Objectives"]="14 Girişim Şti.(Venture Co.) çalışanını ve Bloodhoof Köyü'nde Morin Cloudstalker için 14 işçi ve 6 Girişim Şti.(Venture Co.) denetçisini öldürün.",
     ["Progress"]="Girişim Şirketi'nin Mulgore'da maden çıkarma hakkı reddedildi, ancak görünen o ki hayır cevabını kabul etmiyorlar. Ancak biz Taurenler lafı dolandıracak kişiler değiliz ve mesajımızı iletmek için başka yollarımız da var.",
-    ["Completion"]="Bu sinyalin çok fazla yanlış yorumlanabileceğini ya da görmezden gelinebileceğini sanmıyorum. Venture Co. taurenleri hafife almamayı ya da etrafımızdaki doğal kaynakları protesto etmeden çalmalarına izin vereceğimizi düşünecek kadar kibirli olmamayı bilecektir.",
+    ["Completion"]="Bu sinyalin çok fazla yanlış yorumlanabileceğini ya da görmezden gelinebileceğini sanmıyorum. Girişim Şti.(Venture Co.) taurenleri hafife almamayı ya da etrafımızdaki doğal kaynakları protesto etmeden çalmalarına izin vereceğimizi düşünecek kadar kibirli olmamayı bilecektir.",
     ["minlevel"]="0",
     ["questlevel"]="0",
-    }, -- end The Venture Co.
+    }, -- end The Girişim Şti.(Venture Co.)
 
     -- Süpervizör Fizsprocket
     ["765"] = {
     ["Title"]="Süpervizör Fizsprocket",
-    ["Description"]="Karavandan kurtardığınız belgelere göre, Venture Co. bizi buradaki topraklarımızdan sürmeye çalışmak için birçok plan yaptı, böylece topraklarımızı yağmalamak için serbestçe hüküm sürebileceklerdi.NEW_LINEAmaçlarına ulaşmak için düşebilecekleri derinlikler beni iğrendiriyor ve dehşete düşürüyor. Planlarının arkasındaki beynin öldürülmesini istiyorum. Adı Süpervizör Fizsprocket, onu harap olmuş karavanın doğusundaki Venture Co. madeninde bulabilirsiniz. Bana onun panosunu getirin, bakalım işe yarar bir şey bulabilecek miyiz.",
+    ["Description"]="Karavandan kurtardığınız belgelere göre, Girişim Şti.(Venture Co.) bizi buradaki topraklarımızdan sürmeye çalışmak için birçok plan yaptı, böylece topraklarımızı yağmalamak için serbestçe hüküm sürebileceklerdi.NEW_LINEAmaçlarına ulaşmak için düşebilecekleri derinlikler beni iğrendiriyor ve dehşete düşürüyor. Planlarının arkasındaki beynin öldürülmesini istiyorum. Adı Süpervizör Fizsprocket, onu harap olmuş karavanın doğusundaki Girişim Şti.(Venture Co.) madeninde bulabilirsiniz. Bana onun panosunu getirin, bakalım işe yarar bir şey bulabilecek miyiz.",
     ["Objectives"]="Supervisor Fizsprocket'ı öldürün ve panosunu Bloodhoof Köyü'ndeki Morin Cloudstalker'a geri verin.",
-    ["Progress"]="Venture Co. şirketinin kâr uğruna bize karşı uygulamak istediği zulmü düşündükçe öfkeden kuduruyorum.",
+    ["Progress"]="Girişim Şti.(Venture Co.) şirketinin kâr uğruna bize karşı uygulamak istediği zulmü düşündükçe öfkeden kuduruyorum.",
     ["Completion"]="Kötü adam Fizsprocket'ın öldüğü haberi öfkemi biraz azalttı. Kişisel eşyalarını inceleyeceğim ve Venture Co'nun gelecek için ne planladığına dair herhangi bir ek bilgi olup olmadığına bakacağım. Çabaların için teşekkürler, YOUR_NAME.",
     ["minlevel"]="0",
     ["questlevel"]="0",
@@ -7079,7 +7079,7 @@ QuestTranslator_QuestData = {
         ["Description"] = "Zevralar, Çoraklar'daki en vahşi yaratık olmasalar da ovadikenlerden bir tık daha çetindirler. Endişelenme -- zamanı gelince seni daha büyük avların üzerine göndereceğiz, ancak şimdilik dişlerinin biraz daha bilenmeye ihtiyacı var.\n\nKuzeyde ve güneyde zevra avla ve toynaklarını topla. Onları bana getir, belki bir dahakine seni daha zorlu bir şeyin üzerine göndeririz.",
         ["Objectives"] = "Dörtyol'daki Sergra Karadiken için 4 Zevra Toynağı toplamak üzere Zevra Koşucuları'nı katlet.",
         ["Progress"] = "Kaç zevra katlettin?",
-        ["Completion"] = "Kötü değil, <name>. O zevraların bacaklarında büyük bir güç var. Keskin bir tekmeleri bir taureni bile kıçının üzerine oturtabilir!\n\nGörünüşe göre sende de biraz güç var. Gerçek bir meydan okumaya hazır mısın?",
+        ["Completion"] = "Kötü değil, YOUR_NAME. O zevraların bacaklarında büyük bir güç var. Keskin bir tekmeleri bir taureni bile kıçının üzerine oturtabilir!\n\nGörünüşe göre sende de biraz güç var. Gerçek bir meydan okumaya hazır mısın?",
         ["minlevel"] = "0",
         ["questlevel"] = "0"
     },
@@ -7132,8 +7132,8 @@ QuestTranslator_QuestData = {
         ["Title"] = "Derviş Verog",
         ["Description"] = "Derviş Verog adındaki sentor Çoraklar'da dolanıyor ve onu bulmak zor olacaktır. Ancak güneydoğudaki Durgun Vaha'da bulunan sentor komuta çadırında üslenmiştir. Onu kendine doğru çekmek mümkün olabilir.\n\nGüneydoğudaki Durgun Vaha'ya seyahat et ve komuta çadırının yakınındaki sentorlara saldır. Tehlikeli olacak ama yeterince sentor katledebilirsen alarmları çalacaktır. Ve Verog gelecektir.\n\nBana onun kafasını getir, ben de onu Barak Kodotazısı'nınkinin yanına koyayım.",
         ["Objectives"] = "Dörtyol'ın batısındaki Regthar Ölümkapısı'na Verog'un Kafası'nı getir.",
-        ["Progress"] = "Verog'u buldun mu, <name>?",
-        ["Completion"] = "Çok iyi. O sentorları gerçekten kışkırtmış olmalısın -- muhafızlarımız Durgun Vaha yakınlarında bir hareketlilik tespit etti, muhtemelen sendin.\n\nYaptığın şeyle gurur duymalısın, <name>. İçinde büyük bir cesaret var.",
+        ["Progress"] = "Verog'u buldun mu, YOUR_NAME?",
+        ["Completion"] = "Çok iyi. O sentorları gerçekten kışkırtmış olmalısın -- muhafızlarımız Durgun Vaha yakınlarında bir hareketlilik tespit etti, muhtemelen sendin.\n\nYaptığın şeyle gurur duymalısın, YOUR_NAME. İçinde büyük bir cesaret var.",
         ["minlevel"] = "0",
         ["questlevel"] = "0"
     },
@@ -7175,8 +7175,8 @@ QuestTranslator_QuestData = {
         ["Title"] = "Sentor Bileklikleri",
         ["Description"] = "Kolkar, Horde'nin Çoraklar'daki hak iddialarına karşı bir tehdit; birliklerinin sayılarını azaltmalıyız. Bu yüzden senin için ödüllü bir görevim var.\n\nKolkar topraklarındayken savaşçılarını katlet ve sentor bileklikleri topla. Elinde bir yığın bileklikle geri döndüğünde Orda seni iyi ödüllendirecektir.",
         ["Objectives"] = "Dörtyol'un batısındaki Regthar Ölümkapısı'na 15 Sentor Bilekliği getir.",
-        ["Progress"] = "Avın nasıl gidiyor, <name>?",
-        ["Completion"] = "Güzel iş. Hayatta kalan sentorların yüreğine korku saldığından eminim, <name>. Eğer akılları varsa, artık sakinleşir ve ilerleyişlerini durdururlar.\n\nAma durduracaklarını sanmıyorum ve bu talihsiz bir durum.\n\nTalihsiz... onlar için.",
+        ["Progress"] = "Avın nasıl gidiyor, YOUR_NAME?",
+        ["Completion"] = "Güzel iş. Hayatta kalan sentorların yüreğine korku saldığından eminim, YOUR_NAME. Eğer akılları varsa, artık sakinleşir ve ilerleyişlerini durdururlar.\n\nAma durduracaklarını sanmıyorum ve bu talihsiz bir durum.\n\nTalihsiz... onlar için.",
         ["minlevel"] = "0",
         ["questlevel"] = "0"
     },
@@ -7198,7 +7198,7 @@ QuestTranslator_QuestData = {
     ["Description"]="Seni Sputtervalve göndermedi herhalde? Başım belada. Parçalayıcının hareket kolonunun kilidini açmak için bir anahtara ihtiyacım olduğunu fark etmeden içeri atladım. Diğer parçalayıcı operatörlerinden biri bana her şeyin yolunda olup olmadığını sordu ve ben panikledim! Ona anahtarımın kayıp olduğunu söylemek yerine, mekanik bir sorun olduğunu söyledim.NEW_LINEBuradan hemen çıkmamız gerekiyor! Derrick'in üst katını arayın, Amir Lugwizzle'da bu parçalayıcı için bir anahtar olmalı.NEW_LINEBana yardım edin!",
     ["Objectives"]="Supervisor Lugwizzle'dan kontak anahtarını alın.",
     ["Progress"]="Çabuk, biri şüphelenmeden buradan gitmeliyiz!",
-    ["Completion"]="Evet, bu doğru anahtar gibi görünüyor. Bu şeyi nasıl çalıştıracağımı bildiğimden emin olayım.NEW_LINEHmm... dönüş kontrolü... Bu hız ve dengeyi düzenler... ince kol hareketi kontrolü. Şuna bir bakın! Venture Şirketi'nin bizimkinden bu kadar iyi bir şey tasarlayabildiğine inanamıyorum. Bunu Ratchet'a geri götürmeliyim!",
+    ["Completion"]="Evet, bu doğru anahtar gibi görünüyor. Bu şeyi nasıl çalıştıracağımı bildiğimden emin olayım.NEW_LINEHmm... dönüş kontrolü... Bu hız ve dengeyi düzenler... ince kol hareketi kontrolü. Şuna bir bakın! Girişim(Venture) Şirketi'nin bizimkinden bu kadar iyi bir şey tasarlayabildiğine inanamıyorum. Bunu Ratchet'a geri götürmeliyim!",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Ateşleme
@@ -7263,7 +7263,7 @@ QuestTranslator_QuestData = {
         ["Description"] = "Lanet harpiler çok uzun zamandır kervan erzaklarımızı yağmalıyor. Birkaçının boğazını kesip sayılarını azaltmamızın vakti geldi.\n\nYuvalarının etrafında dolanıp kimin kimi yönettiğini çözdüm. En yıkıcı saldırı, alt komuta zincirlerinin büyük bir kısmını yok edecek ve ardından zirveye doğru yol alabileceğiz.\n\nSeni ağırdan başlatacağım; kuzeybatıdaki Cadıkanat Harpileri ile Cadıkanat Hayduttüylerini ortadan kaldır ve bana 8 Cadıkanat pençesi getir. Bu iyi bir başlangıç olmalı...",
         ["Objectives"] = "8 Cadıkanat Pençesi topla.\n\nOnları Dörtyoldaki'daki Darsok Hızlıhançer'e geri getir.",
         ["Progress"] = "Yeterince doğradın mı henüz? Dilimlemeye ve ganimet toplamaya devam et. 8 Cadıkanat pençesi istiyorum.",
-        ["Completion"] = "Oh, bunlar çok güzel. Gerçekten çok güzel... İyi iş, <name>. Gelecekte çalışmalarının devamını görmeyi iple çekiyorum.",
+        ["Completion"] = "Oh, bunlar çok güzel. Gerçekten çok güzel... İyi iş, YOUR_NAME. Gelecekte çalışmalarının devamını görmeyi iple çekiyorum.",
         ["minlevel"] = "0",
         ["questlevel"] = "0"
     },
@@ -7283,8 +7283,8 @@ QuestTranslator_QuestData = {
         ["Title"] = "Raptor Hırsızları",
         ["Description"] = "Çok uzun zaman önce değil, nöbetçi kulemizden bir gümüş sevkiyatı çalındı. Dörtyol'daki muhafızlarının maaşı olarak ayrılmıştı ve o gümüşü geri istiyoruz.\n\nGarip olan şu ki... hırsızlık gecesi hırsızlardan birini yakaladık. Ve... o bir raptordu! İnanılmaz!\n\nRaptorların gümüşle ne yapacağını bilmiyorum. Ama umurumda da değil -- raptorların ölmesini istiyorum ki bir daha bizden çalmasınlar!\n\nÇoraklar'da raptor avla. Bana onların kafalarını topla!",
         ["Objectives"] = "Dörtyol'daki Gazrog'a 12 Raptor Kafası getir.",
-        ["Progress"] = "O kafaları getirdin mi, <name>?",
-        ["Completion"] = "Raptorlardan kurtuldun!\n\nTeşekkür ederim, <name>. Sen değerli bir <class>'sın.",
+        ["Progress"] = "O kafaları getirdin mi, YOUR_NAME?",
+        ["Completion"] = "Raptorlardan kurtuldun!\n\nTeşekkür ederim, YOUR_NAME. Sen değerli bir <class>'sın.",
         ["minlevel"] = "0",
         ["questlevel"] = "0"
     },
@@ -7293,7 +7293,7 @@ QuestTranslator_QuestData = {
         ["Title"] = "Unutulmuş Havuzlar",
         ["Description"] = "Uzun zaman önce Çoraklar, yaşamla dolup taşan yemyeşil bir yerdi. Ancak savaş ve felaket bu topraklarda hüküm sürdü, burayı kavurarak geriye kuru bir kovan bıraktı. İşlerin gidişatı böyle ve bu yüreğimi burkuyor.\n\nFakat son birkaç yıl içinde Çoraklar'da yeni vahalar oluştu ve yaşam yeniden kıpırdanıyor. Ve derinlerde biz druidler, yüzeye sızan bir gücü hissediyoruz.\n\nOnun kaynağını bulmalıyız. Dörtyolun kuzeybatısındaki Unutulmuş Havuzlar'a seyahat et. Sularında bir güç kaynağı ara, ardından buraya geri dön.",
         ["Objectives"] = "Bulgularınla birlikte Tonga RünTotemi'ne rapor ver.",
-        ["Progress"] = "Unutulmuş Havuzlar'da bulundun mu, <name>? Bir şey bulabildin mi?",
+        ["Progress"] = "Unutulmuş Havuzlar'da bulundun mu, YOUR_NAME? Bir şey bulabildin mi?",
         ["Completion"] = "Toprakta içinden gazlar kabaran bir çatlak mı buldun? Garip. Bu sorularımıza bir yanıt olabilir ama henüz emin olamayız.\n\nYine de bu bir ipucu. Ve onu bulduğun için sana minnettarım.",
         ["minlevel"] = "0",
         ["questlevel"] = "0"
@@ -7312,10 +7312,10 @@ QuestTranslator_QuestData = {
 
     ["872"] = {
         ["Title"] = "Kargaşa Sona Eriyor",
-        ["Description"] = "Gözcülerimden biri Durotar'dan gelen bir kervana yapılan saldırıya tanık oldu, <name>. Suçlular gerçekten de Ustura Yelesi okokuyuz kabilesi. Özellikle okokuyuzlardan biri baskınlara liderlik ediyor: Kreenig Hırıldayanburun. Buranın kuzeydoğusunda, Durotar'dan gelen yolun hemen güneyinde görüldü. Tehdit son bulacaksa Kreenig ölmeli.\n\nYine de saldırıların duracağından emin olmak için yaralarına tuz biber ekelim diyorum. Kreenig'i kabilesinden daha fazlasıyla birlikte katlet ve elinde onun azı dişiyle bana geri dön.",
+        ["Description"] = "Gözcülerimden biri Durotar'dan gelen bir kervana yapılan saldırıya tanık oldu, YOUR_NAME. Suçlular gerçekten de Ustura Yelesi okokuyuz kabilesi. Özellikle okokuyuzlardan biri baskınlara liderlik ediyor: Kreenig Hırıldayanburun. Buranın kuzeydoğusunda, Durotar'dan gelen yolun hemen güneyinde görüldü. Tehdit son bulacaksa Kreenig ölmeli.\n\nYine de saldırıların duracağından emin olmak için yaralarına tuz biber ekelim diyorum. Kreenig'i kabilesinden daha fazlasıyla birlikte katlet ve elinde onun azı dişiyle bana geri dön.",
         ["Objectives"] = "8 Ustura Yelesi Geomancer'ı, 8 Ustura Yelesi Savunucusu'nu ve Kreenig Hırıldayanburun'u katlet.\n\nArdından Kreenig Hırıldayanburun'un Azı Dişi'ni Dörtyol'daki Thork'a getir.",
-        ["Progress"] = "Liderlerinin başını kesersen karmaşa baş gösterir, <name>. Bu dersi iyi öğren. Gelecekte sana yardımcı olacaktır.\n\nYaban domuzları yönsüz kalıp bocalayacak ve biz de Çoraklar'ı geri alabileceğiz.",
-        ["Completion"] = "Aferin, <name>. Kreenig'in ölümüyle birlikte kervanlarımıza yapılan saldırılarda kesin bir düşüş yaşanacak.\n\nHalkın seni aralarında saymaktan gurur duymalı.",
+        ["Progress"] = "Liderlerinin başını kesersen karmaşa baş gösterir, YOUR_NAME. Bu dersi iyi öğren. Gelecekte sana yardımcı olacaktır.\n\nYaban domuzları yönsüz kalıp bocalayacak ve biz de Çoraklar'ı geri alabileceğiz.",
+        ["Completion"] = "Aferin, YOUR_NAME. Kreenig'in ölümüyle birlikte kervanlarımıza yapılan saldırılarda kesin bir düşüş yaşanacak.\n\nHalkın seni aralarında saymaktan gurur duymalı.",
         ["minlevel"] = "0",
         ["questlevel"] = "0"
     },
@@ -7342,16 +7342,15 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end Mahren Skyseer
 
-    -- Harpy Teğmenleri
     ["875"] = {
-    ["Title"]="Harpy Teğmenleri",
-    ["Description"]="Harpy akıncılarını durdurmanın tek yolu onların emir komuta zincirini yok etmektir. Harpyler korkusuz teğmenleri Cadı Kanadı Avcıları tarafından yönetiliyor. Avcılar düşerse, diğerleri de onları takip eder.NEW_LINEKuru Tepelere git ve Cadı Kanadı Avcılarını kes. Acı çekerek öldüklerinden emin ol, YOUR_NAME. O harpy wenches'in Horde'la kavga etmenin aptallığını öğrenmesini istiyoruz.",
-    ["Objectives"]="Kuzey Barrens'in Kuru Tepeleri'nde 6 Cadı Kanadı Katili öldür.",
-    ["Progress"]="Henüz 6 Harpy Teğmen Yüzüğün var mı? Horde'a yaptıkları acımasız saldırılar için onlara adalet sağlanmalı.",
-    ["Completion"]="Mükemmel iş dostum. Bence Horde'da çok ilerleyeceksin.",
-    ["minlevel"]="0",
-    ["questlevel"]="0",
-    }, -- end Harpy Teğmenleri
+        ["Title"] = "Harpi Teğmenleri",
+        ["Description"] = "Hahaha, YOUR_NAME. Daha fazlası için mi döndün? Güzel, bunu duymaktan hoşlanırım.\n\nBu kez Kuru Tepeler'deki bazı harpi teğmenlerine suikast düzenlemeni istiyorum. Yalnızca Cadıkanat Katillere teğmenlik verilir ve onları taşıdıkları yüzüklerden ayırt edebilirsin. Çetin bir güruhturlar ama o bölgedeki bazı alt kademedekilere liderlik ederler. Onlardan 6 tanesini ortadan kaldırmak, anerkilliklerine karşı belirleyici bir darbe olacaktır.\n\nAcı çekerek öldüklerinden emin ol, YOUR_NAME. O harpi kalptanlarının Horde ile kavga etmenin aptallık olduğunu anlamalarını istiyoruz.",
+        ["Objectives"] = "Cadıkanat Katillerden 6 Harpi Teğmeni Yüzüğü topla ve onları Çaprazyollar'daki Darsok Hızlıhançer'e geri getir.",
+        ["Progress"] = "Henüz 6 Harpi Teğmeni Yüzüğü aldın mı? Horde'ya yönelik acımasız saldırılarının hesabı sorulmalı.",
+        ["Completion"] = "Mükemmel iş dostum. Sanırım Horde bünyesinde epey yükseleceksin.",
+        ["minlevel"] = "0",
+        ["questlevel"] = "0"
+    },
 
     -- Serena Bloodfeather
     ["876"] = {
@@ -7399,10 +7398,10 @@ QuestTranslator_QuestData = {
 
     ["880"] = {
         ["Title"] = "Değişime Uğramış Varlıklar",
-        ["Description"] = "Bulguların inanılmaz, <name>. Bu vahalar, dış bir kaynaktan geliyor olması gereken özellikler barındırıyor. Ya da belki de içten gelen bir kaynaktan.\n\nBu çatlakların vahaların suyundan içen canavarları nasıl etkilediğini bilmek istiyorum.\n\nGürsu ve Durgun Vahalarda bulunan vaha kapankanatlarını avla. Onları inceleyebilmem için bana kabuklarını getir.",
+        ["Description"] = "Bulguların inanılmaz, YOUR_NAME. Bu vahalar, dış bir kaynaktan geliyor olması gereken özellikler barındırıyor. Ya da belki de içten gelen bir kaynaktan.\n\nBu çatlakların vahaların suyundan içen canavarları nasıl etkilediğini bilmek istiyorum.\n\nGürsu ve Durgun Vahalarda bulunan vaha kapankanatlarını avla. Onları inceleyebilmem için bana kabuklarını getir.",
         ["Objectives"] = "8 Değişime Uğramış Kapankanat Kabuğu'nu Çaprazyollar'daki Tonga RünTotemi'ne getir.",
         ["Progress"] = "Toplama işin nasıl gidiyor? Kabukları aldın mı?",
-        ["Completion"] = "Teşekkür ederim, <name>. Bir bölgenin canavarlarını incelemek, bölgenin kendisi hakkında pek çok şey anlatabilir. Bu kabukların nasıl bir hikaye anlatacağını göreceğiz.\n\nYardımın için lütfen minnettarlığımı kabul et... Ve belki bu madeni paraları kullanabilirsin. Onlara ihtiyacım olmadığını görüyorum.",
+        ["Completion"] = "Teşekkür ederim, YOUR_NAME. Bir bölgenin canavarlarını incelemek, bölgenin kendisi hakkında pek çok şey anlatabilir. Bu kabukların nasıl bir hikaye anlatacağını göreceğiz.\n\nYardımın için lütfen minnettarlığımı kabul et... Ve belki bu madeni paraları kullanabilirsin. Onlara ihtiyacım olmadığını görüyorum.",
         ["minlevel"] = "0",
         ["questlevel"] = "0"
     },
@@ -7550,38 +7549,35 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end Tercih Edilen Silahlar
 
-    -- Samophlange
     ["894"] = {
-    ["Title"]="Samophlange",
-    ["Description"]="Venture Şirketi'nin buranın batısında, Sludge Fen'in hemen ötesinde küçük bir araştırma tesisi var. Ne yaptıkları hakkında çok fazla bilgim yok, ancak \\",
-    ["Objectives"]="Venture Company araştırma sahasındaki kontrol konsoluna erişin.",
-    ["Progress"]="",
-    ["Completion"]="Kontrol konsolunun ön yüzünde çeşitli düğmeler, kollar ve yanıp sönen ışıklar biraz düzensiz bir şekilde sıralanmıştır. Küçük bir gösterge, cihazın şu anda optimum seviyelerde çalıştığını ve bir ila üç arasındaki kontrol valflerinin şu anda açık olduğunu gösterir. Kontrol panelinin sağ alt tarafında küçük bir anahtar deliği bulunmaktadır.",
-    ["minlevel"]="0",
-    ["questlevel"]="0",
-    }, -- end Samophlange
+        ["Title"] = "Samoflanç",
+        ["Description"] = "Girişim Şirketi, buranın oldukça kuzeyinde, Balçık Bataklığı'nın güneybatısında küçük bir araştırma tesisi kurdu. Ne yaptıkları hakkında pek bir şey bilmiyorum ama \"samoflanç\" adını verdikleri bir şey üzerinde deney yaptıklarını keşfetmeyi başardım.\n\nPeki ama samoflanç da neyin nesi? Her neyse işte, onu incelemek istiyorum; bu yüzden birinin gidip onu alması gerekiyor.\n\nKontrol sistemi kullanım kılavuzunun bir kopyasını ele geçirdim, oradan samoflançın bağlantısını nasıl keseceğini çözebilmelisin.",
+        ["Objectives"] = "Girişim Şirketi araştırma sahasındaki kontrol konsoluna eriş.",
+        ["Progress"] = "",
+        ["Completion"] = "Kontrol konsolunun yüzeyinde çok çeşitli düğmeler, kollar ve yanıp sönen ışıklar düzensiz bir şekilde dizilmiştir. Küçük bir gösterge, cihazın şu anda en uygun seviyelerde çalıştığını ve bir ila üç arasındaki kontrol vanalarının şu anda açık olduğunu göstermektedir. Kontrol panelinin sağ alt tarafına küçük bir anahtar deliği yerleştirilmiştir.",
+        ["minlevel"] = "0",
+        ["questlevel"] = "0"
+    },
 
-    -- ARANIYOR: Kaptan Garvey
     ["895"] = {
-    ["Title"]="ARANIYOR: Kaptan Garvey",
-    ["Description"]="ARANIYOR!NEW_LINE\\",
-    ["Objectives"]="Ratchet'te Kaptan Garvey'in kafasını Gazlowe'a getir.",
-    ["Progress"]="Ne var ne yok? Yardım edebileceğim bir şey mi? Gönderilecek mallar, belki bir mühendislik işi?",
-    ["Completion"]="Ahhhh! Bu tür bir iş. Biliyor musun, Heedless'i bir keresinde açık denizlerde görmüştüm. Korkunç bir gemiydi, yoksa tekne miydi... Bu denizciler çok özel!NEW_LINEHer neyse, suyun üzerinde süzülüşünü izlemek oldukça güzel bir manzaraydı. Kötü şöhretli kaptanının artık gemilerime sorun çıkarmamasına sevindim.",
-    ["minlevel"]="0",
-    ["questlevel"]="0",
-    }, -- end ARANIYOR: Kaptan Garvey
+        ["Title"] = "ARANIYOR: Baron Uzunkıyı",
+        ["Description"] = "ARANIYOR!\n\nBaron Uzunkıyı, Dikkatsiz'in Kaptanı\n\nGilneaslı Kaptan Uzunkıyı, Güneydenizi Yağmacıları'nın gemilerine liderlik etmektedir ve korsanlık suçlamasıyla aranmaktadır. Kalıntılar teşhis edilebilir durumda olmalıdır!\n\n-- Gazlowe",
+        ["Objectives"] = "Baron Uzunkıyı'nın Kafası'nı Cırcır'daki Gazlowe'a getir.",
+        ["Progress"] = "Ne var ne yok? Yardımcı olabileceğim bir şey var mı? Taşınacak mallar, belki de bir mühendislik işi?",
+        ["Completion"] = "Ahhhh! Şu tarz işlerden. Biliyor musun, Dikkatsiz'i bir zamanlar açık denizlerde görmüştüm. Korkunç bir gemiydi, ya da tekne miydi... Şu denizciler de pek bir titiz!\n\nHer neyse, onun suyun üzerinde süzülüşünü izlemek görülmeye değer bir manzaraydı. Kötü şöhretli kaptanının gemilerimi artık rahatsız etmeyecek oluşuna sevindim.",
+        ["minlevel"] = "0",
+        ["questlevel"] = "0"
+    },
 
-    -- Madencinin Serveti
     ["896"] = {
-    ["Title"]="Madencinin Serveti",
-    ["Description"]="Hey YOUR_RACE Hazineyle ilgileniyor musun? Bunun dikkatini çekeceğini biliyordum.NEW_LINEBuradaki nehir iskelesinden gelen haberlere göre, Venture Şirketi'nin Boulder Lode madenindeki madencilerden biri, buranın hemen kuzeydoğusunda yumruğunuz büyüklüğünde bir zümrüt keşfetmiş.NEW_LINEBöyle bir şeye sahip olmak isteyecek birkaç alıcı tanıyorum ve satışında yarı yarıya anlaşmaya hazırım. Var mısın?",
-    ["Objectives"]="Kedigözü Zümrütü'nü Venture Co. Gözetmenler veya İnfazcılar.",
-    ["Progress"]="Keşke zümrüdü hangi madencinin bulduğunu bilseydik, parkta bir yürüyüş olurdu...",
-    ["Completion"]="Şu şeyin büyüklüğüne bak, YOUR_NAME! Zengin olacağız! Bakalım, Undermine'a giren mücevherlerde gördüğüm oranlara göre, payınızı hesaplayabilmeliyim - yüzde elli, endişelenmeyin!NEW_LINEŞimdi bir bakalım. Sanırım bu doğru olur. Seninle iş yapmak bir zevkti, YOUR_NAME.",
-    ["minlevel"]="0",
-    ["questlevel"]="0",
-    }, -- end Madencinin Serveti
+        ["Title"] = "Madencinin Kısmeti",
+        ["Description"] = "Cırcır gibi yoğun bir limanın İskele Amiri olarak, bilginin nabzını tutarım. Burası ile Ganimet Koyu(Booty Bay) arasındaki mal ve para akışına dair her şeyi bilirim.\n\nDuyduğum en son haber, Balçık Bataklığı'nın kuzeydoğusundaki Girişim Şirket(Venture Company)'in Kaya Damarı madeniyle ilgili. Madencilerden biri yumruğun büyüklüğünde bir zümrüt keşfetmiş. Böyle bir şeyi ele geçirmek isteyecek birkaç alıcı tanıyorum ve satışından elde edilecek geliri yarı yarıya paylaşmaya razıyım.",
+        ["Objectives"] = "Cırcır'daki İskele Amiri Dizzywig için Girişim Şirket(Venture Company) Gözetmenlerinden veya İnfazcılarından birinden Kedi Gözü Zümrütü'nü al.",
+        ["Progress"] = "Keşke madencilerden hangisinin zümrütü bulduğunu bilseydik, çocuk oyuncağı olurdu...",
+        ["Completion"] = "Şu şeyin büyüklüğüne bir bak, YOUR_NAME! Zengin olacağız! Bakalım, Yeraltı Şehri'ne giden mücevherlerin oranlarına göre senin payını hesaplayabilmeliyim--yüzde elli, merak etme!\n\nŞimdi bakalım... Sanırım bu kadarı tam right olur. Seninle iş yapmak bir zevkti, YOUR_NAME.",
+        ["minlevel"] = "0",
+        ["questlevel"] = "0"
+    },
 
     -- Biçerdöver
     ["897"] = {
@@ -7597,7 +7593,7 @@ QuestTranslator_QuestData = {
     -- Tutukluluktan Kurtulun
     ["898"] = {
     ["Title"]="Tutukluluktan Kurtulun",
-    ["Description"]="Nihayet! Biri beni kurtaracak!NEW_LINEMuhafızları geçtiğine inanamıyorum. Theramore'dan gelen bu bağnazlar akıllarını kaçırmışlar. Gemimizi batırdılar ve hayatta kalan tek kişi olan beni hapsettiler. Bana düşman ve İttifak için tehdit dediler.NEW_LINEBen! İttifak gibi büyük bir sahtekârlık için tehdit mi? Ratchet ve Booty Bay arasında kaçak içki taşıyan bir gemide güverte tayfasıydım.NEW_LINEBu kadar konuşma yeter. Ratchet'e dönmeme yardım eder misin? Hazır olduğunda bana haber ver ve kaçışımızı yapalım.",
+    ["Description"]="Nihayet! Biri beni kurtaracak!NEW_LINEMuhafızları geçtiğine inanamıyorum. Theramore'dan gelen bu bağnazlar akıllarını kaçırmışlar. Gemimizi batırdılar ve hayatta kalan tek kişi olan beni hapsettiler. Bana düşman ve İttifak için tehdit dediler.NEW_LINEBen! İttifak gibi büyük bir sahtekârlık için tehdit mi? Ratchet ve Ganimet Koyu(Booty Bay) arasında kaçak içki taşıyan bir gemide güverte tayfasıydım.NEW_LINEBu kadar konuşma yeter. Ratchet'e dönmeme yardım eder misin? Hazır olduğunda bana haber ver ve kaçışımızı yapalım.",
     ["Objectives"]="Gilthares Firebough'ya Ratchet'teki Kaptan Brightsun'a kadar güvenle eşlik edin.",
     ["Progress"]="Evet mi? Evet mi?",
     ["Completion"]="Biz de Firebough'un çoktan öldüğünü sanıyorduk!NEW_LINEKahramanlıkların sana Thalo'dan Askerleri arasında onurlu bir yer kazandırdı, YOUR_NAME.",
@@ -7651,9 +7647,9 @@ QuestTranslator_QuestData = {
 
    ["903"] = {
         ["Title"] = "Çorakların Sinsi Avcıları",
-        ["Description"] = "Şimdi gerçekten ısıran bir şeyin peşine düşme vakti. Çoraklar'ın sinsi avcıları sert bir soydan gelir. Çetin, becerikli, kurnaz... ve ölümcül. Onları yüksek otların arasında bulacaksın. Dörtyolun güneybatısında pek çoğunu bulabilirsin.\n\nOnları avlarken dikkatli ol, <name>, yoksa kendini bir anda avcı değil, av olarak bulabilirsin.",
+        ["Description"] = "Şimdi gerçekten ısıran bir şeyin peşine düşme vakti. Çoraklar'ın sinsi avcıları sert bir soydan gelir. Çetin, becerikli, kurnaz... ve ölümcül. Onları yüksek otların arasında bulacaksın. Dörtyolun güneybatısında pek çoğunu bulabilirsin.\n\nOnları avlarken dikkatli ol, YOUR_NAME, yoksa kendini bir anda avcı değil, av olarak bulabilirsin.",
         ["Objectives"] = "Dörtyol'daki Sergra Karadiken için Savana Sinsi Avcıları'ndan 7 Sinsi Avcı Pençesi topla.",
-        ["Progress"] = "Avın nasıl gidiyor, <name>? Sinsi avcıları bulabildin mi?",
+        ["Progress"] = "Avın nasıl gidiyor, YOUR_NAME? Sinsi avcıları bulabildin mi?",
         ["Completion"] = "Ah, otların arasında pusuya yatıp sinsi avcıları avlamakla meşgul olduğunu görüyorum. Öyleyse, aralarından bir şampiyonla yüzleşme zamanının geldiğini düşünüyor musun?",
         ["minlevel"] = "0",
         ["questlevel"] = "0"
@@ -7661,10 +7657,10 @@ QuestTranslator_QuestData = {
 
    ["905"] = {
         ["Title"] = "Öfkeli Tırpanpençeler",
-        ["Description"] = "Şimdi, <name>, av derinleşiyor. Şimdi avını yenmeli ve ardından onun inine giden yolu bulmalısın.\n\nGüneydeki günpulu raptorları avla. Onları katlet ve taşıdıkları tüyleri sök. Tüyleri Durgun Vaha'nın güneybatısındaki tırpanpençe yuvalarına yerleştir. Kardeşlerine onlardan korkmadığını göster!",
+        ["Description"] = "Şimdi, YOUR_NAME, av derinleşiyor. Şimdi avını yenmeli ve ardından onun inine giden yolu bulmalısın.\n\nGüneydeki günpulu raptorları avla. Onları katlet ve taşıdıkları tüyleri sök. Tüyleri Durgun Vaha'nın güneybatısındaki tırpanpençe yuvalarına yerleştir. Kardeşlerine onlardan korkmadığını göster!",
         ["Objectives"] = "Günpulu raptorları katlet ve tüylerini topla. Tüyleri 3 Tırpanpençe yuvasında kullan. Çaprazyollar'daki Sergra Karadiken'e geri dön.",
-        ["Progress"] = "Yuvalara gittin mi, <name>?",
-        ["Completion"] = "Demek yuvalara gittin ve avının tüylerini içlerine yerleştirdin. Şüphe yok ki bu iyi bir cesaret gerektiriyordu.\n\nKendini biraz daha çetin hissediyor musun, <name>? Çünkü buraya ilk geldiğin ana kıyasla şimdi daha çetin görünüyorsun. Sanırım Çoraklar görevini yapıyor.",
+        ["Progress"] = "Yuvalara gittin mi, YOUR_NAME?",
+        ["Completion"] = "Demek yuvalara gittin ve avının tüylerini içlerine yerleştirdin. Şüphe yok ki bu iyi bir cesaret gerektiriyordu.\n\nKendini biraz daha çetin hissediyor musun, YOUR_NAME? Çünkü buraya ilk geldiğin ana kıyasla şimdi daha çetin görünüyorsun. Sanırım Çoraklar görevini yapıyor.",
         ["minlevel"] = "0",
         ["questlevel"] = "0"
     },
@@ -8176,7 +8172,7 @@ QuestTranslator_QuestData = {
     -- Rıhtımda Sorun
     ["959"] = {
     ["Title"]="Rıhtımda Sorun",
-    ["Description"]="Oops!NEW_LINEGördüğünüz gibi küçük bir aksilik oldu! Booty Bay'den sabah gelen kargo çok büyüktü. Kocaman diyorum! Hiç bu kadar çok kasa görmemiştim. İşleri hızlandırmaya çalışıyordum, bu yüzden kaldırabileceğimden biraz daha fazlasını boşaltmaya başladım. İşte o zaman her şey yerle bir oldu.NEW_LINENe olduğunu anlayamadan, o baş belası Mad Magglish'in 99 yıllık bir porto şişesiyle kaçtığını gördüm. Onu Wailing Caverns'a kadar kovaladım. Oraya asla giremezdim.NEW_LINEBelki onu bulacak kadar cesursun?",
+    ["Description"]="Oops!NEW_LINEGördüğünüz gibi küçük bir aksilik oldu! Ganimet Koyu(Booty Bay)'den sabah gelen kargo çok büyüktü. Kocaman diyorum! Hiç bu kadar çok kasa görmemiştim. İşleri hızlandırmaya çalışıyordum, bu yüzden kaldırabileceğimden biraz daha fazlasını boşaltmaya başladım. İşte o zaman her şey yerle bir oldu.NEW_LINENe olduğunu anlayamadan, o baş belası Mad Magglish'in 99 yıllık bir porto şişesiyle kaçtığını gördüm. Onu Wailing Caverns'a kadar kovaladım. Oraya asla giremezdim.NEW_LINEBelki onu bulacak kadar cesursun?",
     ["Objectives"]="Ratchet'teki Vinç Operatörü Bigglefuzz, Ağlayan Mağaralarda saklanan Mad Magglish'ten 99 Yıllık Liman şişesini almanızı istiyor.",
     ["Progress"]="Deli Magglish 99 yıllık portoyu alıp kaçtığından beri liman müdürü peşimde. Sanırım o şişe, Baron Revilgaz'ın kendisinden başkası tarafından Gazlowe'a hediye olarak tasarlanmıştı.NEW_LINEEğer Mad Magglish'i bulup o portoyu geri alacak kadar cesur ve sabırlıysan, sana güzel bir ödül vereceğim.",
     ["Completion"]="Süper! Ve tam da işimi kaybetmek üzereyken! Gazlowe'un bu hediyeyi hemen almasını sağlayacağım.NEW_LINETeşekkürler, YOUR_NAME. İyi işti, diyorum!",
@@ -8891,7 +8887,7 @@ QuestTranslator_QuestData = {
     -- Ganimet Koyu'na Geçiş
     ["1040"] = {
     ["Title"]="Ganimet Koyu'na Geçiş",
-    ["Description"]="Ah evet, sonunda buldum. Uzun zaman önce buradan geçtiğini bana söylemeliydin. Bir bakalım.NEW_LINEVelinde. Black Osprey'le Booty Bay'e gitmek için rezervasyon yaptırmış. Burada aksini söyleyen bir şey yok, o yüzden limana sağ salim vardığını varsayıyorum.NEW_LINESize daha fazla yardımcı olamam, ama dünyanın o tarafındaki kara yolculuğunu sordu ve ben de Booty Bay'de bulunan bir kervan sürücüsü olan Ruzzgot'tan bahsettim. Bu Velinde onunla seyahat etmiş olabilir.NEW_LINEİlerleyin şimdi. Senin için bütün günüm yok.",
+    ["Description"]="Ah evet, sonunda buldum. Uzun zaman önce buradan geçtiğini bana söylemeliydin. Bir bakalım.NEW_LINEVelinde. Black Osprey'le Ganimet Koyu(Booty Bay)'e gitmek için rezervasyon yaptırmış. Burada aksini söyleyen bir şey yok, o yüzden limana sağ salim vardığını varsayıyorum.NEW_LINESize daha fazla yardımcı olamam, ama dünyanın o tarafındaki kara yolculuğunu sordu ve ben de Ganimet Koyu(Booty Bay)'de bulunan bir kervan sürücüsü olan Ruzzgot'tan bahsettim. Bu Velinde onunla seyahat etmiş olabilir.NEW_LINEİlerleyin şimdi. Senin için bütün günüm yok.",
     ["Objectives"]="Ganimet Koyu'na giden bir tekneye binin ve Kervancı Ruzzgot ile konuşun.",
     ["Progress"]="",
     ["Completion"]="Öyle mi? Şimdi, bana nakliyeye ihtiyaç duyan bir malınız varmış gibi görünmüyor, bu yüzden ya kervanımda bir iş arıyorsunuz - ve şu anda sahip olunacak iş yok - ya da muhtemelen yanlış goblinle konuşuyorsunuz.NEW_LINEPeki hangisi?",
@@ -9122,8 +9118,8 @@ QuestTranslator_QuestData = {
     -- Goblin İstilacıları
     ["1062"] = {
     ["Title"]="Goblin İstilacıları",
-    ["Description"]="Goblinler tarafından yönetilen Venture Şirketi Stonetalon Dağları'na taşındı, ağaçları kesti ve büyük ormanlık alanları yaktı. Buranın ruhları acı ve öfkeden neredeyse kör olmuş durumda. Girişim Şirketi'ni durdurmalıyız!NEW_LINEKuzeybatıya, Greatwood Vadisi'nin ötesine ve Windshear Kayalığı'na doğru ilerleyin. Goblinleri ve hizmetkârlarını iş başında bulacaksın - onlara Horde'un Stonetalon'un sömürülmesine izin vermeyeceğini göster. Onlara en iyi anladıkları dilde göster.NEW_LINEŞiddet.",
-    ["Objectives"]="15 Venture Co. Loggers, ardından Stonetalon ve Barrens sınırındaki Seereth Stonebreak'e dönün.",
+    ["Description"]="Goblinler tarafından yönetilen Girişim(Venture) Şirketi Stonetalon Dağları'na taşındı, ağaçları kesti ve büyük ormanlık alanları yaktı. Buranın ruhları acı ve öfkeden neredeyse kör olmuş durumda. Girişim Şirketi'ni durdurmalıyız!NEW_LINEKuzeybatıya, Greatwood Vadisi'nin ötesine ve Windshear Kayalığı'na doğru ilerleyin. Goblinleri ve hizmetkârlarını iş başında bulacaksın - onlara Horde'un Stonetalon'un sömürülmesine izin vermeyeceğini göster. Onlara en iyi anladıkları dilde göster.NEW_LINEŞiddet.",
+    ["Objectives"]="15 Girişim Şti.(Venture Co.) Loggers, ardından Stonetalon ve Barrens sınırındaki Seereth Stonebreak'e dönün.",
     ["Progress"]="Greatwood Vadisi kuzeybatıda yer alır, YOUR_NAME. Gidin. Bu toprakları yağmalamak isteyenlere korku salın!",
     ["Completion"]="Cesurca, YOUR_NAME.NEW_LINEStonetalon'un ruhlarını sakinleştirmek için tauren yaşlılarının bilgeliğine ihtiyacımız olabilir, ama...NEW_LINEGirişim Şirketi'ni personelinden arındırmak onlara karşı iyi bir ilk adımdır.",
     ["minlevel"]="0",
@@ -9199,10 +9195,10 @@ QuestTranslator_QuestData = {
     -- Deepmoss Örümcek Yumurtaları
     ["1069"] = {
     ["Title"]="Deepmoss Örümcek Yumurtaları",
-    ["Description"]="Örümcek yumurtalı omletler Booty Bay'de yeni bir moda! Sorun şu ki. Booty Bay'de yumurta yok.NEW_LINEBir fırsat kokusu alıyorum!NEW_LINEWindshear Kayalığı ve Sishir Kanyonu'nda, kuzeybatıdaki Stonetalon Dağları'nda, derin yosun örümceği yaşıyor. Bana yumurtalarını getirin, ben de bir tomar para ödeyeyim!NEW_LINERüzgargülü Kayalığı'nda, yumurtalar kalan ağaçların altında kümelenmiş olacak.NEW_LINESishir Kanyonu'nda... eğer mideniz zayıfsa, belki de yumurtaları Windshear Kayalığı'nda toplamalısınız...",
+    ["Description"]="Örümcek yumurtalı omletler Ganimet Koyu(Booty Bay)'de yeni bir moda! Sorun şu ki. Ganimet Koyu(Booty Bay)'de yumurta yok.NEW_LINEBir fırsat kokusu alıyorum!NEW_LINEWindshear Kayalığı ve Sishir Kanyonu'nda, kuzeybatıdaki Stonetalon Dağları'nda, derin yosun örümceği yaşıyor. Bana yumurtalarını getirin, ben de bir tomar para ödeyeyim!NEW_LINERüzgargülü Kayalığı'nda, yumurtalar kalan ağaçların altında kümelenmiş olacak.NEW_LINESishir Kanyonu'nda... eğer mideniz zayıfsa, belki de yumurtaları Windshear Kayalığı'nda toplamalısınız...",
     ["Objectives"]="Ratchet'teki Mebok Mizzyrix'e 15 Deepmoss Yumurtası getir.",
     ["Progress"]="Yumurtaları aldın mı, YOUR_NAME ? Wharfmaster Dizzywig ile bir nakliye anlaşması yaptım bile!",
-    ["Completion"]="Almışsın! Teşekkür ederim!NEW_LINEBunları Dizzywig'e göndereceğim ve Booty Bay'e yollatacağım. Kârın tadını şimdiden alabiliyorum!NEW_LINEİşte senin payın, YOUR_NAME. Sen olmasan bu anlaşmayı yapamazdım.",
+    ["Completion"]="Almışsın! Teşekkür ederim!NEW_LINEBunları Dizzywig'e göndereceğim ve Ganimet Koyu(Booty Bay)'e yollatacağım. Kârın tadını şimdiden alabiliyorum!NEW_LINEİşte senin payın, YOUR_NAME. Sen olmasan bu anlaşmayı yapamazdım.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Deepmoss Örümcek Yumurtaları
@@ -9210,7 +9206,7 @@ QuestTranslator_QuestData = {
     -- Stonetalon'da Nöbetçi
     ["1070"] = {
     ["Title"]="Stonetalon'da Nöbetçi",
-    ["Description"]="Merhaba, YOUR_NAME.NEW_LINEGörünüşe bakılırsa gezme arzusuyla dolusun. Stonetalon Dağları'na hiç gittin mi? Orası Venture Co. ve gece elflerinin diğer düşmanları tarafından rahatsız edilen bir yer.NEW_LINEYakın zamanda, Nöbetçi Wolfrunner arkadaşım Kaela Shadowspear'ı bölgeye neler olduğunu araştırması için oraya gönderdi, ancak ondan henüz bir haber alamadım. Daha da endişeliyim çünkü İttifak onunla birlikte bir gnome büyücüsü gönderdi... bu kesinlikle bir sorun işareti.NEW_LINEOnu bulup bana rapor verir misin?",
+    ["Description"]="Merhaba, YOUR_NAME.NEW_LINEGörünüşe bakılırsa gezme arzusuyla dolusun. Stonetalon Dağları'na hiç gittin mi? Orası Girişim Şti.(Venture Co.) ve gece elflerinin diğer düşmanları tarafından rahatsız edilen bir yer.NEW_LINEYakın zamanda, Nöbetçi Wolfrunner arkadaşım Kaela Shadowspear'ı bölgeye neler olduğunu araştırması için oraya gönderdi, ancak ondan henüz bir haber alamadım. Daha da endişeliyim çünkü İttifak onunla birlikte bir gnome büyücüsü gönderdi... bu kesinlikle bir sorun işareti.NEW_LINEOnu bulup bana rapor verir misin?",
     ["Objectives"]="Stonetalon Dağları'ndaki Windshear Kayalığı'na giren vadiye bakan Kaela Shadowspear'ı bulun.",
     ["Progress"]="",
     ["Completion"]="Thenysil'in emriyle Külvadi'den gelmişsin -- onu, vatanımı ve dostlarımı nasıl da özledim. Maceracıları başka görevler için ayırdığına göre Nöbetçilerle arası iyi olmalı. Onunla gurur duyuyorum.NEW_LINESeninle tanışmak bir zevk, YOUR_NAME.",
@@ -9222,7 +9218,7 @@ QuestTranslator_QuestData = {
     ["1071"] = {
     ["Title"]="Bir Gnome'un Dinlenmesi",
     ["Description"]="Görüyorsun, YOUR_NAME Ben Aydınlanmış Arkanoloji, Simya ve Mühendislik Bilimleri Meclisi'nin bir üyesiyim ve gece elflerine büyü, karışım ve mekanizma karışımının ormanlarını kurtarmaya yardımcı olabileceğini göstermek benim amacım... hayır, GÖREVİM!NEW_LINEAma bu zorlu bir savaş ve goblinler tavşan gibi çoğalıyor. En yeni icatlarımı yapacak zamanım bile olmadı!NEW_LINEPlan yapmak ve organize olmak için biraz zamana ihtiyacım var. Ama bunu yapmak için, doğudaki Windshear Kayalığı'nda goblinleri uzak tutmak için yardımınıza ihtiyacım var...",
-    ["Objectives"]="10 Venture Co. Tomrukçuları ve 10 Venture Co. Deforesters'ı öldürün ve Stonetalon'daki Gaxim Rustfizzle'a dönün.",
+    ["Objectives"]="10 Girişim Şti.(Venture Co.) Tomrukçuları ve 10 Girişim Şti.(Venture Co.) Deforesters'ı öldürün ve Stonetalon'daki Gaxim Rustfizzle'a dönün.",
     ["Progress"]="Senin tarafındaki savaş nasıl gidiyor, YOUR_NAME ?",
     ["Completion"]="Yardımın için çok teşekkürler, YOUR_NAME. Aslında tam zamanında döndün.NEW_LINESanırım mükemmel bir planım var. Patlayıcılar. Hayır, plan bu değil, ama planın bir parçası.NEW_LINEGoblinleri biraz korkutmak için yüksek patlayıcılar kullanıyorum -merak etmeyin, herkesin düşündüğü kadar tehlikeli değiller-. Dağların kenarlarında birkaç önemli patlamayla onları oldukça iyi güdebiliyorum, ama birkaç gündür erzağım azaldı.",
     ["minlevel"]="0",
@@ -9298,7 +9294,7 @@ QuestTranslator_QuestData = {
     -- Mauren için geri alma
     ["1078"] = {
     ["Title"]="Mauren için geri alma",
-    ["Description"]="Yolcular bana sürekli Stonetalon Dağları'nı soruyor. Macera için popüler bir yer gibi görünüyor - wyvern, elemental arıyor olmanız ya da Venture Co. ile işiniz olması fark etmezNEW_LINEKömürlü Vadi'de, Stonetalon'un derinliklerinde, pulları toz haline getirildiğinde yarattığım bazı büyüler için harika bir reaktif yapan bir fesleğen türü vardı. Eğer o fesleğenler hâlâ yaşıyorsa, pullarından birkaç tanesine sahip olmayı çok isterimNEW_LINEAcele etmeyin, acelesi yok ama iyi para verebilirim.",
+    ["Description"]="Yolcular bana sürekli Stonetalon Dağları'nı soruyor. Macera için popüler bir yer gibi görünüyor - wyvern, elemental arıyor olmanız ya da Girişim Şti.(Venture Co.) ile işiniz olması fark etmezNEW_LINEKömürlü Vadi'de, Stonetalon'un derinliklerinde, pulları toz haline getirildiğinde yarattığım bazı büyüler için harika bir reaktif yapan bir fesleğen türü vardı. Eğer o fesleğenler hâlâ yaşıyorsa, pullarından birkaç tanesine sahip olmayı çok isterimNEW_LINEAcele etmeyin, acelesi yok ama iyi para verebilirim.",
     ["Objectives"]="Stormwind'deki Collin Mauren'e 8 Kristalize Pul getir.",
     ["Progress"]="Tekrar merhaba, YOUR_NAME.NEW_LINEStonetalon'daki Vale'den bu terazilerle mi döndünüz?",
     ["Completion"]="Bu mükemmel, YOUR_NAME. Çok teşekkür ederim.NEW_LINEBelki ileride bir gün bana yardım ettiğin gibi ben de sana yardım edebilirim.",
@@ -9309,10 +9305,10 @@ QuestTranslator_QuestData = {
     -- Covert Ops - Alfa
     ["1079"] = {
     ["Title"]="Covert Ops - Alfa",
-    ["Description"]="İşte bu, YOUR_NAME. Çok dikkatli olun. Cihazlar tamamlandı ve kullanıma hazır.NEW_LINEBu sayfaları al - fünyeler ve patlayıcılar ve onları nereye yerleştirmen gerektiği hakkında daha fazla açıklama yapacaklar.NEW_LINEUnutmayın, görevinizin başarısı ne kadar yıkıma neden olduğunuza bağlı değildir. Alfa Planı'nın başarısı, Cragpool Gölü'nün güneyindeki kereste fabrikasının içinden Venture Co. mühendislik planlarını geri getirmenize bağlı.",
-    ["Objectives"]="Windshear Crag'deki kereste fabrikasından Venture Co.'nun Mühendislik Planlarını al.",
+    ["Description"]="İşte bu, YOUR_NAME. Çok dikkatli olun. Cihazlar tamamlandı ve kullanıma hazır.NEW_LINEBu sayfaları al - fünyeler ve patlayıcılar ve onları nereye yerleştirmen gerektiği hakkında daha fazla açıklama yapacaklar.NEW_LINEUnutmayın, görevinizin başarısı ne kadar yıkıma neden olduğunuza bağlı değildir. Alfa Planı'nın başarısı, Cragpool Gölü'nün güneyindeki kereste fabrikasının içinden Girişim Şti.(Venture Co.) mühendislik planlarını geri getirmenize bağlı.",
+    ["Objectives"]="Windshear Crag'deki kereste fabrikasından Girişim Şti.(Venture Co.)'nun Mühendislik Planlarını al.",
     ["Progress"]="Planları aldın mı, YOUR_NAME ?",
-    ["Completion"]="Gerçekten inanılmaz! Bu, Venture Co.NEW_LINEiçin büyük bir darbe. Makinelerindeki zayıflıkları bulabilecek ve tasarımlarını kendi kreasyonlarımıza dahil edebileceğiz. Bugün gerçekten de harika bir gün.",
+    ["Completion"]="Gerçekten inanılmaz! Bu, Girişim Şti.(Venture Co.)NEW_LINEiçin büyük bir darbe. Makinelerindeki zayıflıkları bulabilecek ve tasarımlarını kendi kreasyonlarımıza dahil edebileceğiz. Bugün gerçekten de harika bir gün.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Covert Ops - Alfa
@@ -9321,7 +9317,7 @@ QuestTranslator_QuestData = {
     ["1080"] = {
     ["Title"]="Covert Ops - Beta",
     ["Description"]="Beta Planı da tıpkı Alfa Planı gibi, YOUR_NAME.NEW_LINEDikkatlerini dağıtıp değerli harflerini çalacağız.NEW_LINEAnahtar onların harflerini almak... bunu unutmayın.NEW_LINESana verdiğim sayfalar patlayıcıları nereye yerleştireceğini söyleyecek. Sadece buraya canlı ve o mektuplarla dön....",
-    ["Objectives"]="Venture Co. Windshear Crag'in doğu ucundaki Windshear Madeni'nden mektuplar.",
+    ["Objectives"]="Girişim Şti.(Venture Co.) Windshear Crag'in doğu ucundaki Windshear Madeni'nden mektuplar.",
     ["Progress"]="Nasıl gitti, YOUR_NAME ?",
     ["Completion"]="İnanılmaz, YOUR_NAME! Kaela ve Sentineller çok mutlu olacak. Senin yeteneklerin ve benim yarattıklarımla durdurulamayız.",
     ["minlevel"]="0",
@@ -9353,7 +9349,7 @@ QuestTranslator_QuestData = {
     -- Öfkeli Ruhlar
     ["1083"] = {
     ["Title"]="Öfkeli Ruhlar",
-    ["Description"]="Venture Co.'nun Vale'ye ne yaptığından emin değilim ama oradaki yaratıklar tarafından alt edildikleri çok açık.NEW_LINEOrmanı ateşe verdiler ve Vadi'nin mümkün olduğunca büyük bir kısmını yok etmek için yıkım icatlarını kullandılar.NEW_LINEAma cehaletleriyle başka bir şeyi de serbest bıraktılar: yanan ruhlar, alev elementleri, taş ve öfke.NEW_LINEBu yaratıklar özgürce dolaşırken toprakların Elune'nin gülümsemesini görme şansı yok.NEW_LINESayılarını azalttığınızı göstermek için bana yanan közlerini getirin.",
+    ["Description"]="Girişim Şti.(Venture Co.)'nun Vale'ye ne yaptığından emin değilim ama oradaki yaratıklar tarafından alt edildikleri çok açık.NEW_LINEOrmanı ateşe verdiler ve Vadi'nin mümkün olduğunca büyük bir kısmını yok etmek için yıkım icatlarını kullandılar.NEW_LINEAma cehaletleriyle başka bir şeyi de serbest bıraktılar: yanan ruhlar, alev elementleri, taş ve öfke.NEW_LINEBu yaratıklar özgürce dolaşırken toprakların Elune'nin gülümsemesini görme şansı yok.NEW_LINESayılarını azalttığınızı göstermek için bana yanan közlerini getirin.",
     ["Objectives"]="Stonetalon'daki Kaela Shadowspear'a Kömürlü Vadi'deki herhangi bir ateş elementalinden 8 Yanan Köz getirin.",
     ["Progress"]="Charred Vale'i ilk gördüğümde neredeyse ağlayacaktım, YOUR_NAME.",
     ["Completion"]="Düşmanımızın kalıntıları... Gücün bize iyi hizmet ediyor, YOUR_NAME. Teşekkür ederim.",
@@ -9364,9 +9360,9 @@ QuestTranslator_QuestData = {
     -- Yaralı Eskiler
     ["1084"] = {
     ["Title"]="Yaralı Eskiler",
-    ["Description"]="Bana öyle geliyor ki, Vadi'nin koruyucuları olan treantların Venture Co.'nun geri püskürtülmesiyle bir ilgisi var. Ne yazık ki, bir zamanların bu büyük koruyucuları bile artık yozlaşmış durumda.NEW_LINEGaxim onların yozlaşmasının bir şekilde goblinlerin geri çekilirken kullandıkları silahlarla bağlantılı olduğunu düşünüyor.NEW_LINEOna yaralı bir treanttan bir örnek alacağımı ve bunun doğru olup olmadığını anlamak için incelemesine izin vereceğimi söyledim.NEW_LINEBana biraz şarapnel getir ki cüce bana daha fazlasını anlatabilsin...",
+    ["Description"]="Bana öyle geliyor ki, Vadi'nin koruyucuları olan treantların Girişim Şti.(Venture Co.)'nun geri püskürtülmesiyle bir ilgisi var. Ne yazık ki, bir zamanların bu büyük koruyucuları bile artık yozlaşmış durumda.NEW_LINEGaxim onların yozlaşmasının bir şekilde goblinlerin geri çekilirken kullandıkları silahlarla bağlantılı olduğunu düşünüyor.NEW_LINEOna yaralı bir treanttan bir örnek alacağımı ve bunun doğru olup olmadığını anlamak için incelemesine izin vereceğimi söyledim.NEW_LINEBana biraz şarapnel getir ki cüce bana daha fazlasını anlatabilsin...",
     ["Objectives"]="Stonetalon'daki Kaela Shadowspear'a bir parça Aşınmış Şarapnel getir.",
-    ["Progress"]="Venture Co. geçmişte nasıl kullanmış olursa olsun, Gaxim'in şarapnel için bir kullanım alanı bulacağına dair içimde bir his var.",
+    ["Progress"]="Girişim Şti.(Venture Co.) geçmişte nasıl kullanmış olursa olsun, Gaxim'in şarapnel için bir kullanım alanı bulacağına dair içimde bir his var.",
     ["Completion"]="Teşekkürler, YOUR_NAME.NEW_LINEBu, Gaxim'in treantların nasıl bozulduğunu anlaması için fazlasıyla yeterli olacaktır. Bunu hemen ona vereceğim.",
     ["minlevel"]="0",
     ["questlevel"]="0",
@@ -9375,7 +9371,7 @@ QuestTranslator_QuestData = {
     -- Stonetalon'da Nöbetçi
     ["1085"] = {
     ["Title"]="Stonetalon'da Nöbetçi",
-    ["Description"]="Stonetalon'daki durum bir gece elfi ve gnomun birlikte çalışması için oldukça vahim.NEW_LINEVenture Co. bu toprakları harap etti ve ben de zamanımın çoğunu bu yıkıma bir son vermek için harcadım.NEW_LINEGaxim'i erken yargılama; o birlikte çalışmamız gerektiğini anlıyor.NEW_LINEEğer bize yardım etmek istiyorsan, işe Gaxim ile konuşarak başla.NEW_LINESeni henüz iyi haberlerle Tara'ya geri gönderemediğim için üzgünüm. Belki yakında.",
+    ["Description"]="Stonetalon'daki durum bir gece elfi ve gnomun birlikte çalışması için oldukça vahim.NEW_LINEGirişim Şti.(Venture Co.) bu toprakları harap etti ve ben de zamanımın çoğunu bu yıkıma bir son vermek için harcadım.NEW_LINEGaxim'i erken yargılama; o birlikte çalışmamız gerektiğini anlıyor.NEW_LINEEğer bize yardım etmek istiyorsan, işe Gaxim ile konuşarak başla.NEW_LINESeni henüz iyi haberlerle Tara'ya geri gönderemediğim için üzgünüm. Belki yakında.",
     ["Objectives"]="Stonetalon Dağları'nda Gaxim ile konuş.",
     ["Progress"]="",
     ["Completion"]="Hain... hain ve tehlikeli, işte bu topraklar böyle.NEW_LINEAma ben gece elflerine, iyi bir mühendislik ve bir tutam sihir yardımıyla biraz daha güvenli olduğunu göstermek için buradayım.NEW_LINEBüyüyü tamamen bırakmak gece elflerine yardımcı olmaz. Büyüye ihtiyaçları var. Dünyanın buna ihtiyacı var. Mühendislik ve simya da işin içine girince, yanlış yapamazsınız. Olasılıklar sonsuz.",
@@ -9387,7 +9383,7 @@ QuestTranslator_QuestData = {
     ["1086"] = {
     ["Title"]="Uçan Makine Havaalanı",
     ["Description"]="Toksin hazır. Geriye sadece teslimatı kaldı. Sen, YOUR_NAME bu teslimatı yapmalısın.NEW_LINEGirişim Şirketi'nin merkezi ile Stonetalon'daki operasyonları arasında mesaj ve hafif kargo göndermek için bir aracı olmalı. Muhtemelen küçük bir gökyüzü limanıdır - bir zeplin için yeterince büyük değil, ama belki bir uçan makine için. Stonetalon'da Girişim Şirketi'nin kontrolü altındaki bölgeleri araştırmalı ve eğer varsa bu gökyüzü limanını bulmalısınız. Eğer bulursanız, toksini oraya yerleştirin.NEW_LINEYerleştir ve koş.",
-    ["Objectives"]="Zehirli Sisleyici'yi Venture Co. gökyüzü limanına getirin, ardından Eczacı Zamah'a dönün.",
+    ["Objectives"]="Zehirli Sisleyici'yi Girişim Şti.(Venture Co.) gökyüzü limanına getirin, ardından Eczacı Zamah'a dönün.",
     ["Progress"]="Venture Company havaalanını bulmalısın, eğer varsa, YOUR_NAME.",
     ["Completion"]="Limanı buldun mu? Aferin, YOUR_NAME! Eminim goblinler teslimatınızdan dolayı oldukça şaşırmışlardır! Umalım da toksin onların karargahına ulaşsın.NEW_LINEHalkınıza iyi hizmet ettiniz ve Girişim Şirketi'ni zehirlediğiniz için duyabileceğiniz suçluluk duygusunu görmezden gelmenizi tavsiye ederim. Onlar çok daha kötüsünü hak ediyorlar.NEW_LINEVe eğer Forsaken'ın müttefiklerine öğretebileceği bir bilgelik zerresi varsa, o da şudur:NEW_LINEKaranlık yollardan çekinmeyin... eğer bu yollar zafere götürüyorsa.",
     ["minlevel"]="0",
@@ -9442,7 +9438,7 @@ QuestTranslator_QuestData = {
     ["1091"] = {
     ["Title"]="Kaela'nın Güncellemesi",
     ["Description"]="YOUR_NAME Bu mektupları Kaela'ya götür. Eminim bunu bilmek isteyecektir. Ya da en azından Sentineller isteyecektir.NEW_LINEOna ne kadar başarılı olduğumuzu ve birazcık sihir olmadan bunu başaramayacağımızı söylediğinden emin ol.",
-    ["Objectives"]="Venture Co. Mektupları Stonetalon Dağları'ndaki Kaela Shadowspear'a getirin.",
+    ["Objectives"]="Girişim Şti.(Venture Co.) Mektupları Stonetalon Dağları'ndaki Kaela Shadowspear'a getirin.",
     ["Progress"]="Evet, YOUR_NAME ? Sizin için ne yapabilirim?",
     ["Completion"]="Bu gerçekten ilginç.NEW_LINESen ve Gaxim çok iyi iş çıkardınız, YOUR_NAME. Teşekkür ederim.",
     ["minlevel"]="0",
@@ -9474,7 +9470,7 @@ QuestTranslator_QuestData = {
     -- Diğer Talimatlar
     ["1094"] = {
     ["Title"]="Diğer Talimatlar",
-    ["Description"]="Bu zarfta beni kapı dışarı ettiklerinde alabildiğim tüm bilgiler var. Venture Şirketi'nin iç belgeleri, bazı kılavuzlar, teknik şeyler. Ve tabii ki Süper Reaper 6000 planları.NEW_LINESputtervalve, Barrens'taki Ratchet'i mesken tutmuş. Onu bulmakta zorlanmazsınız, küçük yeşil bir adam.",
+    ["Description"]="Bu zarfta beni kapı dışarı ettiklerinde alabildiğim tüm bilgiler var. Girişim(Venture) Şirketi'nin iç belgeleri, bazı kılavuzlar, teknik şeyler. Ve tabii ki Süper Reaper 6000 planları.NEW_LINESputtervalve, Barrens'taki Ratchet'i mesken tutmuş. Onu bulmakta zorlanmazsınız, küçük yeşil bir adam.",
     ["Objectives"]="Mühürlü Zarfı Barrens'teki Ratchet'te bulunan Sputtervalve'e teslim edin.",
     ["Progress"]="Merhabalar! Size nasıl yardımcı olabilirim?",
     ["Completion"]="Fizziks, ha? Ona güvendiğimi söyleyemem ama bu bilgi yeterince iyi görünüyor. Girişim Şirketi'nin başımdan gitmesi için neler vermezdim.NEW_LINEYine de bazı iyi makinelerle geliyorlar. Tasarladıkları bazı iyileştirmelerden yararlandığımızı inkar edemem.",
@@ -9724,16 +9720,16 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end Kravel için söylentiler
 
-    -- Booty Bay'a geri dön
+    -- Ganimet Koyu(Booty Bay)'a geri dön
     ["1118"] = {
-    ["Title"]="Booty Bay'a geri dön",
-    ["Description"]="YOUR_NAME Sen bir YOUR_CLASSsin. Hem işinizi yapacağınıza hem de işinizi yaparken çenenizi kapalı tutacağınıza güvenebilirim.NEW_LINEYeni bir plan hazırlıyordum. Riskli, ama işe yararsa ikimiz de para kazanabiliriz! Ve bence sen bunu başaracak kişisin.NEW_LINEBaşlamak için, Booty Bay'e geri dönmelisin. Özür dilerim, güzel YOUR_NAME. Son görevimin seni oraya götürdüğünü biliyorum. Ama bu sefer, Crank Fizzlebub ile konuş.NEW_LINEOna bu mektubu ver. Ve eğer yardıma ihtiyacı varsa, ona yardım etmek için elinden geleni yap. Bu çabaya değecektir.",
-    ["Objectives"]="Kravel's Scheme'i Stranglethorn Vale'deki Booty Bay'de bulunan Crank Fizzlebub'a getirin.",
-    ["Progress"]="Merhaba, merhaba. Senin gibi asil bir YOUR_RACEyi Booty Bay'e getiren nedir?",
+    ["Title"]="Ganimet Koyu(Booty Bay)'a geri dön",
+    ["Description"]="YOUR_NAME Sen bir YOUR_CLASSsin. Hem işinizi yapacağınıza hem de işinizi yaparken çenenizi kapalı tutacağınıza güvenebilirim.NEW_LINEYeni bir plan hazırlıyordum. Riskli, ama işe yararsa ikimiz de para kazanabiliriz! Ve bence sen bunu başaracak kişisin.NEW_LINEBaşlamak için, Ganimet Koyu(Booty Bay)'e geri dönmelisin. Özür dilerim, güzel YOUR_NAME. Son görevimin seni oraya götürdüğünü biliyorum. Ama bu sefer, Crank Fizzlebub ile konuş.NEW_LINEOna bu mektubu ver. Ve eğer yardıma ihtiyacı varsa, ona yardım etmek için elinden geleni yap. Bu çabaya değecektir.",
+    ["Objectives"]="Kravel's Scheme'i Stranglethorn Vale'deki Ganimet Koyu(Booty Bay)'de bulunan Crank Fizzlebub'a getirin.",
+    ["Progress"]="Merhaba, merhaba. Senin gibi asil bir YOUR_RACEyi Ganimet Koyu(Booty Bay)'e getiren nedir?",
     ["Completion"]="Anlıyorum. Kravel'in büyük bir planı var. Uğursuz bir zekası var. Bu yönünü seviyorum.NEW_LINEYani aklını karıştıracak bir şeye ihtiyacın olacak, ha? Güçlü bir şey.NEW_LINEAcaba Zanzil'in zombilerini beslediği karışım kullanılabilir mi?",
     ["minlevel"]="0",
     ["questlevel"]="0",
-    }, -- end Booty Bay'a geri dön
+    }, -- end Ganimet Koyu(Booty Bay)'a geri dön
 
     -- Zanzil'in Karışımı ve Fool's Stout
     ["1119"] = {
@@ -9771,8 +9767,8 @@ QuestTranslator_QuestData = {
     -- Fizzlebub'a Geri Bildirimde Bulunun
     ["1122"] = {
     ["Title"]="Fizzlebub'a Geri Bildirimde Bulunun",
-    ["Description"]="O Fool's Stout harika çalıştı! Bir sonraki yarış için bahis oynadım ve... umarım sarhoş ettiğin ekip arabalarına bir numara yapmıştır!NEW_LINESenin için sadece bir görev daha var -- bu notu Booty Bay'deki Crank Fizzlebub'a geri götür. Başarılı testi bilmek isteyecektir.NEW_LINEVe umarım gelecek yarışlar için daha fazla Fool's Stout bulabiliriz!",
-    ["Objectives"]="Fool's Stout raporunu Stranglethorn Vale'deki Booty Bay'de bulunan Crank Fizzlebub'a getirin.",
+    ["Description"]="O Fool's Stout harika çalıştı! Bir sonraki yarış için bahis oynadım ve... umarım sarhoş ettiğin ekip arabalarına bir numara yapmıştır!NEW_LINESenin için sadece bir görev daha var -- bu notu Ganimet Koyu(Booty Bay)'deki Crank Fizzlebub'a geri götür. Başarılı testi bilmek isteyecektir.NEW_LINEVe umarım gelecek yarışlar için daha fazla Fool's Stout bulabiliriz!",
+    ["Objectives"]="Fool's Stout raporunu Stranglethorn Vale'deki Ganimet Koyu(Booty Bay)'de bulunan Crank Fizzlebub'a getirin.",
     ["Progress"]="Merhaba YOUR_NAME. O bira nasıldı? Güçlü bir şey, değil mi?",
     ["Completion"]="Burada aptalın birasının başarılı olduğu yazıyor. Bu iyi bir haber!NEW_LINEEğer daha fazlasını isterseniz, bana haber verin ve size daha fazla Zanzil'in Karışımından toplayayım.",
     ["minlevel"]="0",
@@ -10145,7 +10141,7 @@ QuestTranslator_QuestData = {
     -- Goblin Sponsorluğu
     ["1180"] = {
     ["Title"]="Goblin Sponsorluğu",
-    ["Description"]="Buraya ne için geldiğinize dönelim. Pozzik'e yeni bir yakıt regülatörü teslim edeceğime dair söz verdiğimi biliyorum ama hala elime ulaşmadı. Booty Bay'deki Revilgaz göndereceğini söylemişti ama bir şekilde gözden kaçmış olabilir.NEW_LINEEğer bu doğruysa, bu konuda yapabileceğimiz pek bir şey yok. En azından Booty Bay'den gönderilip gönderilmediğini öğrenebiliriz.NEW_LINEŞuradaki İskele Şefi Lozgil ile görüşün, kargo kayıtlarını kontrol edebilir.",
+    ["Description"]="Buraya ne için geldiğinize dönelim. Pozzik'e yeni bir yakıt regülatörü teslim edeceğime dair söz verdiğimi biliyorum ama hala elime ulaşmadı. Ganimet Koyu(Booty Bay)'deki Revilgaz göndereceğini söylemişti ama bir şekilde gözden kaçmış olabilir.NEW_LINEEğer bu doğruysa, bu konuda yapabileceğimiz pek bir şey yok. En azından Ganimet Koyu(Booty Bay)'den gönderilip gönderilmediğini öğrenebiliriz.NEW_LINEŞuradaki İskele Şefi Lozgil ile görüşün, kargo kayıtlarını kontrol edebilir.",
     ["Objectives"]="Ganimet Koyu'nda İskele Şefi Lozgil ile konuş.",
     ["Progress"]="",
     ["Completion"]="Ratchet'e sevkiyat mı? Kayıt defterlerini kontrol edeyim.NEW_LINEHayır, Ratchet'e gittiğine dair elimde kayıtlı olan en son sevkiyat Drizzlik'ten gelen botlardı. İnşaat malzemeleri ve aletler dışında pek bir şey yoktu. Kesinlikle yarış parçası yok.",
@@ -13938,7 +13934,7 @@ QuestTranslator_QuestData = {
     ["Description"]="Haftalardır bu kuleyi gözetliyordum, YOUR_NAME. Geçenlerde Alacakaranlık Ormanı'dan büyük bir sevkiyat geldi ve beraberinde o muhafızlar da geldi.NEW_LINEOnlar da ne? Senin tahminin de benimki kadar iyi. Sana tek bir şey söyleyebilirim, insan değiller.NEW_LINEHer neyse, sevkiyatta bir sandık vardı - bu iğrenç şeylerin koruduğunu varsaydığım şey bu. Sivri uçlu zombide ihtiyacımız olan bir anahtar var.NEW_LINEAnahtarı al, kuleye gir ve sandığın içinde ne varsa ortaya çıkar. Bulduklarınızı Mathias'a götürün.",
     ["Objectives"]="Defias Kulesi Anahtarını çal, Defias Kulesine gir ve Alacakaranlık Ormanı Sandığının içindekileri ortaya çıkar. Bulduğunuz her bilgiyi Stormwind'deki Mathias Shaw'a götürün. Kule hakkında bilgi edinmek için Kearnen'in Günlüğünü okuyun.",
     ["Progress"]="Ajan Kearnen'dan haber var mı?",
-    ["Completion"]="Bu, senin ve Kearnen'in kulenin dışında gördüğünüz Defias dronlarını açıklıyor, YOUR_NAME. Bu aynı zamanda Venture Şirketi'nin Defias'la olan ilişkisini ve Alacakaranlık Ormanı'dan yapılan garip sevkiyatları da açıklıyor.NEW_LINEBu kitaba göre, Stranglethorn'daki Zanzil trolleri iksirlerle ölüleri diriltmenin bir yolunu keşfetmişler... ya da daha spesifik olmak gerekirse: zehir.NEW_LINEZehirler hakkında sağlam bir anlayışa sahip olmadan SI:7'de hiçbir işe yaramayacaksınız. -- Özellikle de ölümsüzlük reçetesi parmaklarımızın ucundayken.",
+    ["Completion"]="Bu, senin ve Kearnen'in kulenin dışında gördüğünüz Defias dronlarını açıklıyor, YOUR_NAME. Bu aynı zamanda Girişim(Venture) Şirketi'nin Defias'la olan ilişkisini ve Alacakaranlık Ormanı'dan yapılan garip sevkiyatları da açıklıyor.NEW_LINEBu kitaba göre, Stranglethorn'daki Zanzil trolleri iksirlerle ölüleri diriltmenin bir yolunu keşfetmişler... ya da daha spesifik olmak gerekirse: zehir.NEW_LINEZehirler hakkında sağlam bir anlayışa sahip olmadan SI:7'de hiçbir işe yaramayacaksınız. -- Özellikle de ölümsüzlük reçetesi parmaklarımızın ucundayken.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Klaven'in Kulesi
@@ -14100,8 +14096,8 @@ QuestTranslator_QuestData = {
     -- Derin Kapak
     ["2458"] = {
     ["Title"]="Derin Kapak",
-    ["Description"]="The Venture Company. Belki onları duymuşsunuzdur?NEW_LINEBir yıl boyunca onların arasına bir ajan yerleştirmek için çalıştık. Çok sıkı çalışma ve dikkatli planlama sayesinde başardık.NEW_LINESon zamanlarda Venture Co.'nun büyük çapta bir şey planladığına dair bir haber aldık. Sludge Fen'in kuzeyindeki Venture Co. kulesine git ve gizli ajanımız Taskmaster Fizzule ile iletişime geç.NEW_LINEKuleyi bulduğunuzda, bu işaret fişeğini kullanın, sonra Fizzule'ye yaklaşın ve ona Parçalanmış El selamını gösterin.",
-    ["Objectives"]="Sludge Fen'in kuzeyindeki Venture Co. Sludge Fen'in kuzeyindeki Tower'a gidin ve Shattered Hand'in gizli ajanı Taskmaster Fizzule ile iletişime geçin.NEW_LINEKule göründüğünde, İşaret Fişeği Tabancasını kullanarak Taskmaster Fizzule'a varışınızı işaret edin. İKİ işaret fişeği ateşleyin, ardından Taskmaster Fizzule'a yaklaşın ve Parçalanmış /Salute yapın.NEW_LINEBu eylemler doğru sırada gerçekleştirilmelidir, çünkü Fizzule tanımadığı herhangi bir kişiye saldıracak ve onu yok edecektir.",
+    ["Description"]="The Venture Company. Belki onları duymuşsunuzdur?NEW_LINEBir yıl boyunca onların arasına bir ajan yerleştirmek için çalıştık. Çok sıkı çalışma ve dikkatli planlama sayesinde başardık.NEW_LINESon zamanlarda Girişim Şti.(Venture Co.)'nun büyük çapta bir şey planladığına dair bir haber aldık. Sludge Fen'in kuzeyindeki Girişim Şti.(Venture Co.) kulesine git ve gizli ajanımız Taskmaster Fizzule ile iletişime geç.NEW_LINEKuleyi bulduğunuzda, bu işaret fişeğini kullanın, sonra Fizzule'ye yaklaşın ve ona Parçalanmış El selamını gösterin.",
+    ["Objectives"]="Sludge Fen'in kuzeyindeki Girişim Şti.(Venture Co.) Sludge Fen'in kuzeyindeki Tower'a gidin ve Shattered Hand'in gizli ajanı Taskmaster Fizzule ile iletişime geçin.NEW_LINEKule göründüğünde, İşaret Fişeği Tabancasını kullanarak Taskmaster Fizzule'a varışınızı işaret edin. İKİ işaret fişeği ateşleyin, ardından Taskmaster Fizzule'a yaklaşın ve Parçalanmış /Salute yapın.NEW_LINEBu eylemler doğru sırada gerçekleştirilmelidir, çünkü Fizzule tanımadığı herhangi bir kişiye saldıracak ve onu yok edecektir.",
     ["Progress"]="",
     ["Completion"]="Parçalanmış El'in başka bir ajanını buralarda görmek güzel, ancak işaret fişeği biraz fazla kaçmış olabilir!NEW_LINEBir dahaki sefere benimle konuşmak istediğinde, bu düdüğe iki kez üfle ve müttefikim olduğunu bileyim.",
     ["minlevel"]="0",
@@ -14134,7 +14130,7 @@ QuestTranslator_QuestData = {
     ["2478"] = {
     ["Title"]="Görev: Mümkün Ama Muhtemel Değil",
     ["Description"]="Kule anahtarını Foreman Silixiz'den çalman gerekecek, YOUR_NAME. Anahtarı ele geçirdiğinde onu sakla - daha sonra ihtiyacım olabilir.NEW_LINEUnutma, zehir bu kuledeki her şeyi zayıflattı. Sakinlerine kaos ve yıkım getirmek için yeteneklerini kullan. Hepsini öldür, merhamet gösterme!NEW_LINEİçerideki her şey kanlı bir yığın haline geldiğinde, Gallywix'in kilitli kutusunu aç ve içinde bulunan Zanzil'in karışımını çal. Hem Gallywix'in kafasını hem de karışımı Orgrimmar'daki Shenthul'a götür.",
-    ["Objectives"]="Foreman Silixiz'den Silixiz'in Kule Anahtarını çalın, ardından iki Mutasyona uğramış Venture Co. Drone'larını, iki Venture Co. Devriyelerini ve iki Venture Co. Gözcülerini öldür.NEW_LINEBüyük Ustabaşı Gallywix'e suikast düzenleyin ve kellesini alın, ardından Gallywix'in kilitli kutusundaki kilidi açın ve Zanzil'in Değiştirilmiş Karışımının Önbelleğini çalın. Zulayı ve Gallywix'in Kafasını daha fazla talimat için Orgrimmar'daki Shenthul'a geri götürün.",
+    ["Objectives"]="Foreman Silixiz'den Silixiz'in Kule Anahtarını çalın, ardından iki Mutasyona uğramış Girişim Şti.(Venture Co.) Drone'larını, iki Girişim Şti.(Venture Co.) Devriyelerini ve iki Girişim Şti.(Venture Co.) Gözcülerini öldür.NEW_LINEBüyük Ustabaşı Gallywix'e suikast düzenleyin ve kellesini alın, ardından Gallywix'in kilitli kutusundaki kilidi açın ve Zanzil'in Değiştirilmiş Karışımının Önbelleğini çalın. Zulayı ve Gallywix'in Kafasını daha fazla talimat için Orgrimmar'daki Shenthul'a geri götürün.",
     ["Progress"]="Rapor edecek neyin var, YOUR_NAME ?",
     ["Completion"]="Zavallı Fizzule, iyi bir menajerdi - en iyilerimizden biriydi. Ne yazık ki, ödediğimiz bedel bu, YOUR_NAME. Parçalanmış El'in saha ajanı olmak tehlikeli bir iştir.NEW_LINEGörevini iyi yaptın, YOUR_CLASS. Bize tekrar hizmet etmek için yaşamazsan çok yazık olur.",
     ["minlevel"]="0",
@@ -14390,8 +14386,8 @@ QuestTranslator_QuestData = {
     -- Güzel Bir Karışıklık
     ["2904"] = {
     ["Title"]="Güzel Bir Karışıklık",
-    ["Description"]="<Kernobee inliyor.> Ne.. Ne oldu?NEW_LINEHatırladığım son şey, bir grup kara demir cüce tarafından yakalandığım, ölesiye dövüldüğüm ve sonra bu pis troglarla birlikte buraya atıldığım.NEW_LINEÇıkar beni buradan, YOUR_NAME!NEW_LINEİşte planımız: Beni çıkışa götür; eğer canlı çıkarsak, sen Booty Bay'e git ve Scooty'ye Ratchet'e gidip Tinkerwiz'i o süper teçhizatın yapımında kara demirin parmağı olduğu konusunda uyardığımı söyle.NEW_LINEHadi gidelim!",
-    ["Objectives"]="Kernobee'ye Clockwerk Run çıkışına kadar eşlik et ve sonra Booty Bay'deki Scooty'ye rapor ver.",
+    ["Description"]="<Kernobee inliyor.> Ne.. Ne oldu?NEW_LINEHatırladığım son şey, bir grup kara demir cüce tarafından yakalandığım, ölesiye dövüldüğüm ve sonra bu pis troglarla birlikte buraya atıldığım.NEW_LINEÇıkar beni buradan, YOUR_NAME!NEW_LINEİşte planımız: Beni çıkışa götür; eğer canlı çıkarsak, sen Ganimet Koyu(Booty Bay)'e git ve Scooty'ye Ratchet'e gidip Tinkerwiz'i o süper teçhizatın yapımında kara demirin parmağı olduğu konusunda uyardığımı söyle.NEW_LINEHadi gidelim!",
+    ["Objectives"]="Kernobee'ye Clockwerk Run çıkışına kadar eşlik et ve sonra Ganimet Koyu(Booty Bay)'deki Scooty'ye rapor ver.",
     ["Progress"]="Ne? Kernobee yaşıyor mu?",
     ["Completion"]="Sanırım Kernobee'yi bize tek parça halinde getirdiğin için ödüllendirilmelisin, YOUR_NAME. Gnomeregan'a geri dönersen, bunlar sana o işe yaramaz kalleş Mekgineer Thermaplugg'u yenmek için ihtiyacın olan avantajı sağlayabilir.",
     ["minlevel"]="0",
@@ -15327,7 +15323,7 @@ QuestTranslator_QuestData = {
         ["Description"] = "Raptorları öldürmüş olabilirsin ama çaldıkları gümüşlerin geri alınması gerek! Raptorların Cırcır'ın(Ratchet) güneyinde Raptor Arazileri olarak bilinen büyük bir yuva kümelenmesine sahip olduğuna dair raporlar var. Çalınan gümüşümüzü oraya götürmüş olmaları muhtemel.\n\nBu raptor sığınağına git ve çalınan gümüşü ara. Bulduğunda onu bana geri getir.",
         ["Objectives"] = "Çalınan Gümüş'ü Dörtyol'daki Gazrog'a getir.",
         ["Progress"] = "Gümüşü buldun mu?",
-        ["Completion"] = "Aha! Demek raptorlar gümüşü gerçekten de inlerinde saklamış. Bu yaratıkların gümüş arzusu taşıdığına inanmak zor. Belki de zekalarına dair anlatılan hikayeler düşündüğüm kadar gerçek dışı değildir!\n\nTeşekkür ederim, <name>. Bize verdiğin hizmetin ödülü olarak bunu al ve bil ki Dörtyoldaki muhafızlar önümüzdeki ayın maaşını sana borçlu.",
+        ["Completion"] = "Aha! Demek raptorlar gümüşü gerçekten de inlerinde saklamış. Bu yaratıkların gümüş arzusu taşıdığına inanmak zor. Belki de zekalarına dair anlatılan hikayeler düşündüğüm kadar gerçek dışı değildir!\n\nTeşekkür ederim, YOUR_NAME. Bize verdiğin hizmetin ödülü olarak bunu al ve bil ki Dörtyoldaki muhafızlar önümüzdeki ayın maaşını sana borçlu.",
         ["minlevel"] = "0",
         ["questlevel"] = "0"
     },
@@ -16106,7 +16102,7 @@ QuestTranslator_QuestData = {
     ["Description"]="Bu işe yaramadı. Yapısal bütünlüğünü ölçmek için samophlange üzerine bazı ekstra göstergeler koydum ve bütünlüğü tüm zamanların en düşük seviyesinde okudular. Düzeltmek için birkaç kadran ve belki bir iki kol daha ekleyebilirim ama... Bence bu işleri daha da kötüleştirebilir.NEW_LINESamophlange'ı Rilli Greasygob'a götürmelisin. Eskiden Venture Company için çalışıyordu -- bunu nasıl tamir edeceğini bilen biri varsa, o da Rilli'dir.NEW_LINEOnu Orgrimmar'da, Onur Vadisi'ndeki Nogg'un Makine Dükkânı'nda bulabilirsin.",
     ["Objectives"]="Kırık ve Hırpalanmış Samophlange'ı Orgrimmar'daki Rilli Greasygob'a getirin.",
     ["Progress"]="Kafana dikkat et! İşime engel olmasını istemiyorum!",
-    ["Completion"]="Bu da ne? Neden, bu bir samophlange! Bu şeyi nereden buldun? Barrens'taki Venture Şirketi'ni mi karıştırıyordun?NEW_LINEYa çok cesur ya da çok aptal olmalısın.",
+    ["Completion"]="Bu da ne? Neden, bu bir samophlange! Bu şeyi nereden buldun? Barrens'taki Girişim(Venture) Şirketi'ni mi karıştırıyordun?NEW_LINEYa çok cesur ya da çok aptal olmalısın.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Rilli Greasygob
@@ -18863,7 +18859,7 @@ QuestTranslator_QuestData = {
     ["Description"]="Gördüğünüz gibi, YOUR_CLASS Toprak acı içinde olsa da, yaşam döngüsü güçlü bir şeydir. Şimdi biz de üzerimize düşeni yapmalıyız. Bu tohumları yıkımın merkezine, batıya, Kömürleşmiş Vadi'ye ekmelisin. Dikkatli olun, çünkü harpiler ve kızgın ateş elementalleri hala yaralı topraklara musallat.NEW_LINEYOUR_NAME Bu büyülü Gaea tohumlarını al ve verimli topraklara ek. Yaşam döngüsü devam etmeli!",
     ["Objectives"]="Gaea Dirt Mounds'a 10 Gaea Tohumu ekin ve sonra kalan Büyülü Gaea Tohumlarını Sun Rock Retreat'teki Tammra'ya geri verin.",
     ["Progress"]="Ektiğiniz bu tohumlar güçlüdür, yozlaşmaya direnir ve diğer yaşamlar için bir dayanak oluşturur. Onlar büyüyecek, büyüyecek, önce yozlaşmayı önleyecek ve yaralı toprakları iyileştirecek, sonra da bir gün Stonetalon'u yeniden yemyeşil bir ormana dönüştürecekler.NEW_LINETüm Gaea tohumlarını ektiniz mi?",
-    ["Completion"]="Bu toprak için büyük bir zaferdir. Zamanla başka şeyler de gerçekleşecek: Venture Co. testerelerini ve baltalarını toplayacak, öfkeli ateş ruhları sakinleşecek ve harpiler toprak tarafından dışarı atılacak.NEW_LINEAncak o zaman YOUR_NAME Stonetalon gerçekten huzura kavuşacak.NEW_LINEİyi iş çıkardın YOUR_CLASS ; bugün burada yarattığın yeni hayat için teşekkür olarak bu eşyalardan birini al.",
+    ["Completion"]="Bu toprak için büyük bir zaferdir. Zamanla başka şeyler de gerçekleşecek: Girişim Şti.(Venture Co.) testerelerini ve baltalarını toplayacak, öfkeli ateş ruhları sakinleşecek ve harpiler toprak tarafından dışarı atılacak.NEW_LINEAncak o zaman YOUR_NAME Stonetalon gerçekten huzura kavuşacak.NEW_LINEİyi iş çıkardın YOUR_CLASS ; bugün burada yarattığın yeni hayat için teşekkür olarak bu eşyalardan birini al.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Yeni Yaşam
@@ -22746,7 +22742,7 @@ QuestTranslator_QuestData = {
     ["Description"]="Grizzby'yi uzun zamandır tanırım, sosyal bir adamdır bilirsin, bir sürü arkadaşı vardır. Mesleğinin bir getirisi doğal olarak. Rıhtıma geldiğinde lojistik işleriyle meşguldüm, bir sonraki geminin görünmesine daha çok zaman olduğu için biraz sohbet ettik. Biz öylece vakit geçirirken, başka bir goblin sanki uzun zamandır kayıp olan kardeşini bulmuş gibi ona yaklaştı. Yakın olmalılar ki Grizzby de onu yakından tanıyormuş gibi davrandı. Ne konuştuklarını pek yakalayamadım ama her ne sebeple olursa olsun güneye gideceklerini duydum. Üzerinden epey zaman geçti ve Grizzby için en kötüsünden korkuyorum, lütfen güvende olduğundan emin ol.",
     ["Objectives"]="Grizzby'yi arayın ve ardından Sparkwater Port'taki Tacknazz Copperfire'a geri dönün.",
     ["Progress"]="YOUR_NAME, nerelerdeydin? Mücevherlerimi buldun mu ve Grizzby'yi nerede bıraktın?",
-    ["Completion"] ="Barbarian <Tacknazz goblinin üzerinde bulduğun sözleşmeyi okur. Okudukça, yeşil teni daha da kızarır.> Oh, seni arkadan bıçaklayan, pislik yiyen troglodyte'lar! Venture Co.'dan ayrılmak Nert'in yapabileceği en iyi şeydi, onların bu şaibeli taktiklerinden bıktım usandım artık. Sadece tüm değerli mücevherlerimi kaybetmekle kalmadım, aynı zamanda en iyi yüklenicimi de kaybettim; yenisini bulmak asırlar alacak! Oh Grizzby, seni yaşlı piç, daha iyisini hak ediyordun, çok daha iyisini...",
+    ["Completion"] ="Barbarian <Tacknazz goblinin üzerinde bulduğun sözleşmeyi okur. Okudukça, yeşil teni daha da kızarır.> Oh, seni arkadan bıçaklayan, pislik yiyen troglodyte'lar! Girişim Şti.(Venture Co.)'dan ayrılmak Nert'in yapabileceği en iyi şeydi, onların bu şaibeli taktiklerinden bıktım usandım artık. Sadece tüm değerli mücevherlerimi kaybetmekle kalmadım, aynı zamanda en iyi yüklenicimi de kaybettim; yenisini bulmak asırlar alacak! Oh Grizzby, seni yaşlı piç, daha iyisini hak ediyordun, çok daha iyisini...",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end A Friend Of A Friend?
@@ -23432,8 +23428,8 @@ QuestTranslator_QuestData = {
 -- Boğaz Boğaza Bir İyilik
     ["40551"] = {
     ["Title"]="Boğaz Boğaza Bir İyilik",
-    ["Description"]="Ben bunu tercüme etmekle meşgulken, sen de bana yardım et. Kolay. Stranglethorn (Dikenliboğaz) Vadisi'nden bir şeye ihtiyacım var. Biliyorum, uzak ama neyse ki seni doğrudan Booty Bay'e (Ganimet Koyu) götürecek güzel bir gemimiz var! Harika, değil mi? Kuzey bölgesinde, bir gölün falan yakınında bazı madencilik faaliyetlerinin yürütüldüğünü duydum. Hem de rakibimiz Venture Şirketi (Risk Şirketi) tarafından. Oraya gitmeni ve onlardan bazı şeyler, ııı, ödünç almanı istiyorum. Kazı yaptıkları 'şeyden' bana 10 örnek getir. Mavi kristaller olduğunu duydum. Onları cesetlerinin üzerinde bulabileceğini düşünüyorum. Ama bunu benden duymuş olma.",
-    ["Objectives"]="Ratchet'taki (Çarklı) Sputtervalve (Gevşekvalf) için Stranglethorn Vadisi'ndeki Venture Şirketi'nden 10 adet Garip Mavi Parça getir.",
+    ["Description"]="Ben bunu tercüme etmekle meşgulken, sen de bana yardım et. Kolay. Stranglethorn (Dikenliboğaz) Vadisi'nden bir şeye ihtiyacım var. Biliyorum, uzak ama neyse ki seni doğrudan Ganimet Koyu(Booty Bay)'e (Ganimet Koyu) götürecek güzel bir gemimiz var! Harika, değil mi? Kuzey bölgesinde, bir gölün falan yakınında bazı madencilik faaliyetlerinin yürütüldüğünü duydum. Hem de rakibimiz Girişim(Venture) Şirketi (Risk Şirketi) tarafından. Oraya gitmeni ve onlardan bazı şeyler, ııı, ödünç almanı istiyorum. Kazı yaptıkları 'şeyden' bana 10 örnek getir. Mavi kristaller olduğunu duydum. Onları cesetlerinin üzerinde bulabileceğini düşünüyorum. Ama bunu benden duymuş olma.",
+    ["Objectives"]="Ratchet'taki (Çarklı) Sputtervalve (Gevşekvalf) için Stranglethorn Vadisi'ndeki Girişim(Venture) Şirketi'nden 10 adet Garip Mavi Parça getir.",
     ["Progress"]="Aldın mı?",
     ["Completion"]="Hah, iyi iş. Umarım çok fazla Venture Şti. çalışanını ortadan kaldırmak zorunda kalmamışsındır... Ve umarım sigortaları bunu karşılıyordur! <Sputtervalve güler.> Hadi şu şeyi tercüme etmeye başlayalım.",
     ["minlevel"]="0",
@@ -23575,8 +23571,8 @@ QuestTranslator_QuestData = {
 -- Bilgi Edinme
     ["55030"] = {
     ["Title"]="Bilgi Edinme",
-    ["Description"]="Pazzle ve mürettebatı gerçekten de kendilerini bir belaya sokmuşlar, ancak bu durum Kanlıyel Korsanları denilen o haydutları rahatsız edeceğin anlamına geliyorsa yardıma hazırım! Onlar hakkında birçok ipucum var ama BerrakSu mürettebatının kalıntılarını aramaya kimin liderlik ettiğini tam olarak bilemiyorum. Bununla birlikte, bilebilecek birini tanıyorum. Booty Bay'in dışarısında epeydir tanıdığım bir muhbir var, korsanlarla ilişkisi olduğu için onu şehirden kovmuştum. Kellesini kurtardım, bana borçlular, eğer kendileri için neyin iyi olduğunu biliyorlarsa. O Kanlıyel Hainini bul, Revilgaz'ın sorduğunu söyle. O bilgiyi aldığında BerrakSu mürettebatına anlat, onunla ne isterlerse yapsınlar.",
-    ["Objectives"]="Booty Bay dışındaki Kanlıyel Haininden bilgi al ve alt Booty Bay'deki Shalgrig Pipeshack'e (Pobapubosu) geri dön.",
+    ["Description"]="Pazzle ve mürettebatı gerçekten de kendilerini bir belaya sokmuşlar, ancak bu durum Kanlıyel Korsanları denilen o haydutları rahatsız edeceğin anlamına geliyorsa yardıma hazırım! Onlar hakkında birçok ipucum var ama BerrakSu mürettebatının kalıntılarını aramaya kimin liderlik ettiğini tam olarak bilemiyorum. Bununla birlikte, bilebilecek birini tanıyorum. Ganimet Koyu(Booty Bay)'in dışarısında epeydir tanıdığım bir muhbir var, korsanlarla ilişkisi olduğu için onu şehirden kovmuştum. Kellesini kurtardım, bana borçlular, eğer kendileri için neyin iyi olduğunu biliyorlarsa. O Kanlıyel Hainini bul, Revilgaz'ın sorduğunu söyle. O bilgiyi aldığında BerrakSu mürettebatına anlat, onunla ne isterlerse yapsınlar.",
+    ["Objectives"]="Ganimet Koyu(Booty Bay) dışındaki Kanlıyel Haininden bilgi al ve alt Ganimet Koyu(Booty Bay)'deki Shalgrig Pipeshack'e (Pobapubosu) geri dön.",
     ["Progress"]="Eee... Bir şey öğrenebildin mi?",
     ["Completion"]="Vay canına, bu bir rahatlama! Bizi kimin avladığını bulmanın okyanusta bir damla su bulmak gibi olacağını düşünmüştüm ama işte buradayız!",
     ["minlevel"]="0",
@@ -25567,8 +25563,8 @@ QuestTranslator_QuestData = {
 -- Alışılmadık Ortaklık
     ["40100"] = {
     ["Title"]="Alışılmadık Ortaklık",
-    ["Description"]="İşte buradasın, YOUR_NAME! Epey zaman aldığını biliyorum ama sonunda Uldum'un kayıp plakaları hakkında yeni bilgilere ulaştık. Şey, elimizde bir şey \"var\" derken, bunu bizim için elde edebilecek birini bulduğumuzu kastetmiştim. Vess adında bir kaçakçı, en azından bugünlerde kendine öyle diyor. Her neyse, onunla Booty Bay (Ganimet Koyu) hanında buluşman için her şeyi ayarladım. Oraya vardığında onun gözüne girdiğinden emin ol, çünkü bir daha böyle bir fırsat yakalayabileceğimizi sanmıyorum.",
-    ["Objectives"]="Yüksek Kaşif Magellas, Ganimet Koyu Hanı'ndaki (Booty Bay Inn) bağlantısı Vess'i bulmanı istiyor.",
+    ["Description"]="İşte buradasın, YOUR_NAME! Epey zaman aldığını biliyorum ama sonunda Uldum'un kayıp plakaları hakkında yeni bilgilere ulaştık. Şey, elimizde bir şey \"var\" derken, bunu bizim için elde edebilecek birini bulduğumuzu kastetmiştim. Vess adında bir kaçakçı, en azından bugünlerde kendine öyle diyor. Her neyse, onunla Ganimet Koyu(Booty Bay) (Ganimet Koyu) hanında buluşman için her şeyi ayarladım. Oraya vardığında onun gözüne girdiğinden emin ol, çünkü bir daha böyle bir fırsat yakalayabileceğimizi sanmıyorum.",
+    ["Objectives"]="Yüksek Kaşif Magellas, Ganimet Koyu Hanı'ndaki (Ganimet Koyu(Booty Bay) Inn) bağlantısı Vess'i bulmanı istiyor.",
     ["Progress"]="Evet?",
     ["Completion"]="Ah, hakkında çok şey duyduğum meşhur YOUR_NAME sen olmalısın, seninle tanışmak bir zevk. Bana Vess diyebilirsin. Benden bir şeye ihtiyacın olduğunu biliyorum, tesadüfe bak ki benim de senden bir şeye ihtiyacım var. O halde iş konuşalım mı?",
     ["minlevel"]="0",
@@ -25600,7 +25596,7 @@ QuestTranslator_QuestData = {
 
 -- Risk Ortaklığı Genişlemesi
     ["41213"] = {
-    -- "Venture Company" oyun içi şirket adı olup "Risk Ortaklığı" (Venture Co.) olarak uyarlanmıştır.
+    -- "Venture Company" oyun içi şirket adı olup "Risk Ortaklığı" (Girişim Şti.(Venture Co.)) olarak uyarlanmıştır.
     ["Title"]="Risk Ortaklığı Genişlemesi",
     ["Description"]="Hey, sen oradaki, biraz para mı arıyorsun? Yapılması gereken ve çabuk bitmesi gereken büyük, önemli bir işim var. Risk Ortaklığı (Venture Company), Taşpençe'deki (Stonetalon) genişlemesini sürdürerek kaynak savaşımıza daha fazla fedai ve uşak ekledi. Sahaya bastıkları her bir çift botla nüfuz kaybediyoruz! Buranın hemen kuzeydoğusunda Risk Kampı (Venture Camp) denen küçük bir yer var ve orası artık odun kesmek için yeni bir operasyonun merkezi haline geldi. Fazwick Uzunfitil (Fazwick Longfuse) adında tanınmış ve acımasız bir başgözetmen tarafından yönetiliyor; eğer Kezan'dan geliyorsan adı sana tanıdık gelecektir. Barut Kasabası'nın (Powder Town) hayatta kalması gerekiyorsa, onları Taşpençe Dağları'ndan (Stonetalon Mountains) tamamen sürmeli ve geri dönmemeleri için bir mesaj göndermeliyiz! O Risk Kampı'nı bul ve yoluna çıkan fedailerle birlikte o Fazwick Uzunfitil'i öldür, anlaşıldı mı?",
     ["Objectives"]="Taşpençe Dağları'ndaki Barut Kasabası'nda (Powder Town) bulunan Güvenlik Görevlisi Mort Tozzlefume için Risk Kampı yakınlarında 15 Risk Ortaklığı Kol Bandı topla ve Başgözetmen Fazwick Uzunfitil'i katlet.",
@@ -25608,7 +25604,7 @@ QuestTranslator_QuestData = {
     ["Completion"]="Risk Ortaklığı ile olan savaşımız zafere bir adım daha yaklaştı. Tabii senin eylemlerin sayesinde değil. Al bakalım, benden bir teşekkür olarak bunu kabul et.",
     ["minlevel"]="0",
     ["questlevel"]="0",
-    }, -- end Venture Co. Expansion
+    }, -- end Girişim Şti.(Venture Co.) Expansion
 
 -- Şüpheli Teslimat
     ["41391"] = {
@@ -25624,9 +25620,9 @@ QuestTranslator_QuestData = {
 
 -- Şirket Akbabaları
     ["80101"] = {
-    -- "Venture Co." kısaltması nedeniyle "Şirket Akbabaları" olarak uyarlanmıştır.
+    -- "Girişim Şti.(Venture Co.)" kısaltması nedeniyle "Şirket Akbabaları" olarak uyarlanmıştır.
     ["Title"]="Şirket Akbabaları",
-    ["Description"]="Bu en kötüsüüüü! Risk Ortaklığı'nın (Venture Co.) eğlence, macera ve tatlı mı tatlı kârlar getirmesi gerekiyordu ama şu ana kadar tek yaptığımız kuş uçmaz kervan geçmez bir yere uçup hiçbir yiyecek olmadan boş boş oturmak oldu. Dinle, Nert'in ne dediği umurumda değil. Akşam yemeği olmadan daha fazla çalışmam. Ormana çıkıyorsun, değil mi? O zaman bana o akbabalardan biraz et getireceksin. Ganimet Koyu (Booty Bay) bifteği gibi değil ama bırak da ihtiyar Sprat sana bunun nasıl pişirileceğini göstersin!",
+    ["Description"]="Bu en kötüsüüüü! Risk Ortaklığı'nın (Girişim Şti.(Venture Co.)) eğlence, macera ve tatlı mı tatlı kârlar getirmesi gerekiyordu ama şu ana kadar tek yaptığımız kuş uçmaz kervan geçmez bir yere uçup hiçbir yiyecek olmadan boş boş oturmak oldu. Dinle, Nert'in ne dediği umurumda değil. Akşam yemeği olmadan daha fazla çalışmam. Ormana çıkıyorsun, değil mi? O zaman bana o akbabalardan biraz et getireceksin. Ganimet Koyu (Ganimet Koyu(Booty Bay)) bifteği gibi değil ama bırak da ihtiyar Sprat sana bunun nasıl pişirileceğini göstersin!",
     ["Objectives"]="Sprat Nozzleton'a 6 parça Yayla Akbabası Eti (Plateau Vulture Meat) getir.",
     ["Progress"]="Her yerdeki en iyi yemekler bende bulunur!",
     ["Completion"]="Harika! Sen sadece bekle. Sprat Ana şu akbaba parçalarından bir mucize yaratacak. Çürüyen cesetlerle beslenen bir kuş yediğini fark etmeyeceksin bile! Uh... Bunu söylediğimi unut.",
@@ -25784,7 +25780,7 @@ QuestTranslator_QuestData = {
 -- Savaşrobotu Felaketi
     ["41163"] = {
     ["Title"]="Savaşrobotu Felaketi",
-    ["Description"]="Adada görünmeye başlayan Risk Ortaklığı (Venture Co.) ile savaşması amacıyla Taxxlo için birkaç savaş robotu yapmakla görevlendirilmiştim. Bu savaş robotlarını üretirken kullandığım malzemelerin  savaştığımız kişiler tarafından yapıldığını neredeyse hiç bilmiyordum. Yeni savaşçılarımızın her birinin bir can sıkıntısı durumuna düştüğünü söylesem kafidir. Taxxlo biraz altın biriktirmeye çalıştı ve tüm adayı riske attı, doğrudan bize dönmedikleri için şanslıydık. Ne olursa olsun bu pisliği temizlememiz gerekiyor ve başıboş robotlar hâlâ sorun yaratabilir. Çoğunu buranın batısındaki Pasgeçit Sırtı'nın (Rustgate Ridge) hemen güneyinde dolanırken bulabilirsin, düşmanımızın eline geçmemeleri için onları yok et.",
+    ["Description"]="Adada görünmeye başlayan Risk Ortaklığı (Girişim Şti.(Venture Co.)) ile savaşması amacıyla Taxxlo için birkaç savaş robotu yapmakla görevlendirilmiştim. Bu savaş robotlarını üretirken kullandığım malzemelerin  savaştığımız kişiler tarafından yapıldığını neredeyse hiç bilmiyordum. Yeni savaşçılarımızın her birinin bir can sıkıntısı durumuna düştüğünü söylesem kafidir. Taxxlo biraz altın biriktirmeye çalıştı ve tüm adayı riske attı, doğrudan bize dönmedikleri için şanslıydık. Ne olursa olsun bu pisliği temizlememiz gerekiyor ve başıboş robotlar hâlâ sorun yaratabilir. Çoğunu buranın batısındaki Pasgeçit Sırtı'nın (Rustgate Ridge) hemen güneyinde dolanırken bulabilirsin, düşmanımızın eline geçmemeleri için onları yok et.",
     ["Objectives"]="Karakaya Adası'ndaki (Blackstone Island) Gazzik'in Atölyesi'nde Gazzik için 10 adet Kusurlu Savaşrobotu 1000'i (Faulty Battletron 1000) yok et.",
     ["Progress"]="Ee, o kusurlu botları kırdın mı?",
     ["Completion"]="İyi iş ufaklık, bir değişiklik yapıp güvenilir birine sahip olmak güzel; Taxxlo ile gerçekten ne istediğini alıp almayacağını bilemiyorsun.",
@@ -26417,10 +26413,10 @@ QuestTranslator_QuestData = {
 
 -- Kartel Altın Bağışları
     ["41115"] = {
-    -- Clemence the Counter -> Veznedar Clemence. Booty Bay -> Ganimet Koyu.
+    -- Clemence the Counter -> Veznedar Clemence. Ganimet Koyu(Booty Bay) -> Ganimet Koyu.
     ["Title"]="Kartel Altın Bağışları",
     ["Description"]="Dinle, Ufaklık. Kim olduğun ya da ne kadar harika, büyülü yolculuklara çıktığın umurumda değil. Eğer övgü arıyorsan git handaki tüm o oğlanlara ve kızlara anlat. Ben buradaki sistemin çarkını döndüren petrolle ilgileniyorum. Ne demek istediğimi anlıyorsun, değil mi? Kartel olarak günlük faaliyetlerimizi organize etmek ve yürütmek için altına ihtiyacımız var. Ve her zaman yapılması gereken işler vardır, bu hayatın bir gerçeği gibidir, bilirsin. Bu yüzden... bizi fonla, biz de seni fark edelim. Belki arada sırada birinin diz kapağını kırmana izin veririz ve diğer tarafa bakabiliriz. Belki.",
-    ["Objectives"]="Ganimet Koyu'ndaki (Booty Bay) Veznedar Clemence'a (Clemence the Counter) 10 Altın getir.",
+    ["Objectives"]="Ganimet Koyu'ndaki (Ganimet Koyu(Booty Bay)) Veznedar Clemence'a (Clemence the Counter) 10 Altın getir.",
     ["Progress"]="<Altın sikkeleri tezgahın arkasına kaldırmadan önce her seferinde tek tek ısırır. Tek bir kelime dahi etmez, sertçe başını sallar ve defterine bir şeyler not eder.>",
     ["Completion"]="Eee, o parayı getirdin mi?",
     ["minlevel"]="0",
@@ -26939,9 +26935,9 @@ QuestTranslator_QuestData = {
 
 -- Ben Sıradan Bir Orc Değilim
     ["80108"] = {
-    -- Nert Blastentom -> Nert Patlamabomba. deadbeat -> hayta/bahtsız. Venture Co. -> Risk Ortaklığı.
+    -- Nert Blastentom -> Nert Patlamabomba. deadbeat -> hayta/bahtsız. Girişim Şti.(Venture Co.) -> Risk Ortaklığı.
     ["Title"]="Ben Sıradan Bir Orc Değilim",
-    ["Description"]="Zor bir durumdayız. Patron korkutucu ama bir sürü hayaletle ya da kadim bir lanetle savaşmaya değmez. Bu işten kaytardığımızı öğrendiğinde, bizi Azeroth'un öbür ucuna kadar avlatacaktır. Söylemesi ne kadar canımı yaksa da, hepimizin toprağın bir karış altına girmesini istemiyorsak, sinip gerçek bir kas gücünün arkasına saklanmamız gerekecek. Azeroth'ta patronun bile karşı karşıya gelmeye cesaret edemeyeceği tek bir güç var: Güruh (The Horde). Elbette bizden hoşlanmıyorlar ama Güruh ile şansımız patronla olan şansımızdan çok daha yüksek! Pek fazla seçeneğimiz yok. Başka hiç kimse bir sürü hayta Risk Ortaklığı (Venture Co.) mültecisini kabul etmez. Onları kendi tarafımıza çekmek için bir şansımız bile varsa, en azından denemeliyiz. Ya bunu yaparız ya da hayatımızın geri kalanını kaçarak geçiririz. Bizim için doğru yola girme zamanı, YOUR_NAME.",
+    ["Description"]="Zor bir durumdayız. Patron korkutucu ama bir sürü hayaletle ya da kadim bir lanetle savaşmaya değmez. Bu işten kaytardığımızı öğrendiğinde, bizi Azeroth'un öbür ucuna kadar avlatacaktır. Söylemesi ne kadar canımı yaksa da, hepimizin toprağın bir karış altına girmesini istemiyorsak, sinip gerçek bir kas gücünün arkasına saklanmamız gerekecek. Azeroth'ta patronun bile karşı karşıya gelmeye cesaret edemeyeceği tek bir güç var: Güruh (The Horde). Elbette bizden hoşlanmıyorlar ama Güruh ile şansımız patronla olan şansımızdan çok daha yüksek! Pek fazla seçeneğimiz yok. Başka hiç kimse bir sürü hayta Risk Ortaklığı (Girişim Şti.(Venture Co.)) mültecisini kabul etmez. Onları kendi tarafımıza çekmek için bir şansımız bile varsa, en azından denemeliyiz. Ya bunu yaparız ya da hayatımızın geri kalanını kaçarak geçiririz. Bizim için doğru yola girme zamanı, YOUR_NAME.",
     ["Objectives"]="Nert Patlamabomba'ya (Nert Blastentom) katıl ve Güruh'a dahil olmak üzere Durotar'a seyahat et.",
     ["Progress"]="Pekala, Durotar'a ulaştık. Adım 1 tamamlandı. Şimdi sıra dahi planımın 2. Adımında... Yani daha yeni uydurduğum planın...",
     ["Completion"]="Pekala, Durotar'a ulaştık. Adım 1 tamamlandı. Şimdi sıra dahi planımın 2. Adımında... Az önce uydurduğum planın.",
@@ -27295,10 +27291,10 @@ QuestTranslator_QuestData = {
 
 -- Kristaldamar Madeni Temizliği
     ["40970"] = {
-    -- Crank Fizzlebub -> Crank Cızırtıgöbek. Booty Bay -> Ganimet Koyu, Crystalvein Mine -> Kristaldamar Madeni. Thrashtail Basilisk -> Çırpınankuyruk Basiliski, Ironjaw Basilisk -> Demiriçene Basiliski.
+    -- Crank Fizzlebub -> Crank Cızırtıgöbek. Ganimet Koyu(Booty Bay) -> Ganimet Koyu, Crystalvein Mine -> Kristaldamar Madeni. Thrashtail Basilisk -> Çırpınankuyruk Basiliski, Ironjaw Basilisk -> Demiriçene Basiliski.
     ["Title"]="Kristaldamar Madeni Temizliği",
     ["Description"]="Ah, Todd, o eski güzel demirci herif. Metallerle çalışma konusunda kesinlikle bir yeteneği vardı. Bunu ona teslim ederim. Ama durum şu ki, peşinde olduğu o cevher için yaptığı talebi tam olarak yerine getiremiyorum. Anlarsın ya, biraz sıkıntılı bir durum. NEW_LINEBahsettiği maden, yani Kristaldamar Madeni (Crystalvein Mine), o sinir bozucu basilislerin istilasına uğradı. Çetin yaratıklardır. Onlardan tek bir bakış, ve puf, kristale dönüşürsün! Bu yüzden anlaşılır bir şekilde biz goblinler mesafemizi koruyoruz. NEW_LINEAma hey, eğer kendini ya aptal ya da cesur hissediyorsan ve o mağaradaki basilisleri temizlemeye hazırsan, pekala, bir anlaşma yapabiliriz. Kirli işi sen yaparsın, orada bulduğun her cevher senin olur. Adil ve dürüstçe. Yalnız, sırt çantana sığması gerekiyor ona göre. Dağlar kadar o şeyi taşımana izin veremem. NEW_LINEEe, ne diyorsun maceracı? Meydan okumaya hazır mısın? Eğer öyleyse, buradan kuzeydoğuya doğru git, Kristaldamar Madeni'ni bulacaksın.",
-    ["Objectives"]="Ganimet Koyu'ndaki (Booty Bay) Crank Cızırtıgöbek (Crank Fizzlebub) için 10 adet Kristaldamar Cevheri topla, 6 adet Çırpınankuyruk Basiliski ve 6 adet Demiriçene Basiliski katlet.",
+    ["Objectives"]="Ganimet Koyu'ndaki (Ganimet Koyu(Booty Bay)) Crank Cızırtıgöbek (Crank Fizzlebub) için 10 adet Kristaldamar Cevheri topla, 6 adet Çırpınankuyruk Basiliski ve 6 adet Demiriçene Basiliski katlet.",
     ["Progress"]="Sana zaten söylemiştim. Madeni temizlemen gerekiyor.",
     ["Completion"]="Yavaş ol bakalım dostum! Demek zorundayım ki, oradan tek parça halinde çıkmanı beklemiyordum. Gerçek bir kazazedensin, bunu sana teslim ederim! Yani bana madenin o pis basilislerden temizlendiğini mi söylüyorsun? Pekala, bu harika bir haber! Oraya hemen bir maden ekibi sevk edeceğim! Şimdi, kapmayı başardığın o cevhere gelirsek, onu bana teslim etmen gerekecek. Endişelenme, hepsini çok güzelce paketleyeceğim ve Todd için süslü bir not iliştireceğim. Görüşmeyeli uzun zaman oldu, değil mi? Benden bir paket alacağı için heyecanlanacağına eminim.",
     ["minlevel"]="0",
@@ -27480,10 +27476,10 @@ QuestTranslator_QuestData = {
 -- Kristaldamar Cevheri
     ["40969"] = {
     -- "Crystalvein" madeni "Kristaldamar" olarak Türkçeleştirilmiştir. Gilnean -> Gilneaslı, Greymane Walls -> Bozyele Surları.
-    -- Stranglethorn -> Dikenliboğaz, Booty Bay -> Ganimet Koyu. Crank özel ismi korunmuştur.
+    -- Stranglethorn -> Dikenliboğaz, Ganimet Koyu(Booty Bay) -> Ganimet Koyu. Crank özel ismi korunmuştur.
     ["Title"]="Kristaldamar Cevheri",
-    ["Description"]="Sağlam Gilneas cevheriyle çalışmak hiç de kolay bir iş değil, sana söyleyeyim. Ama Bozyele Surları (Greymane Walls) kapandığında daha egzotik bir şeylerin özlemini çektiğim zamanlar oldu. Ah, içimde hissettiğim o hasret! NEW_LINEAma şimdi kader yüzüme güldü. Sonunda o nadir cevherlere bir kez daha maharetli ellerimle dokunma şansı buldum. Kalbimde özel bir yere sahip olan bir cevher var ki o da Kristaldamar (Crystalvein). Çıraklık günlerimde onunla çalışma onuruna erişmiştim. Sana söylüyorum, tam bir güzellikti; güçlü, dayanıklı ve dövmesi bir zevkti. Bu cevherin yanımızda olması isyan için gerçek bir lütuf olurdu. NEW_LINENe yazık ki Kristaldamar, yalnızca uzak Dikenliboğaz (Stranglethorn) topraklarında bulunan bir hazinedir. Eğer bir şans eseri yolun Ganimet Koyu'na (Booty Bay) düşerse, Crank adında bir goblini ara. O değerli cevher için eskiden güvendiğim tedarikçimdi. Ona seni benim gönderdiğimi söyle; belki, sadece belki, sana bir kez daha Kristaldamar ayarlayabilir.",
-    ["Objectives"]="Ganimet Koyu'ndaki (Booty Bay) Crank'i bul.",
+    ["Description"]="Sağlam Gilneas cevheriyle çalışmak hiç de kolay bir iş değil, sana söyleyeyim. Ama Bozyele Surları (Greymane Walls) kapandığında daha egzotik bir şeylerin özlemini çektiğim zamanlar oldu. Ah, içimde hissettiğim o hasret! NEW_LINEAma şimdi kader yüzüme güldü. Sonunda o nadir cevherlere bir kez daha maharetli ellerimle dokunma şansı buldum. Kalbimde özel bir yere sahip olan bir cevher var ki o da Kristaldamar (Crystalvein). Çıraklık günlerimde onunla çalışma onuruna erişmiştim. Sana söylüyorum, tam bir güzellikti; güçlü, dayanıklı ve dövmesi bir zevkti. Bu cevherin yanımızda olması isyan için gerçek bir lütuf olurdu. NEW_LINENe yazık ki Kristaldamar, yalnızca uzak Dikenliboğaz (Stranglethorn) topraklarında bulunan bir hazinedir. Eğer bir şans eseri yolun Ganimet Koyu'na (Ganimet Koyu(Booty Bay)) düşerse, Crank adında bir goblini ara. O değerli cevher için eskiden güvendiğim tedarikçimdi. Ona seni benim gönderdiğimi söyle; belki, sadece belki, sana bir kez daha Kristaldamar ayarlayabilir.",
+    ["Objectives"]="Ganimet Koyu'ndaki (Ganimet Koyu(Booty Bay)) Crank'i bul.",
     ["Progress"]="Ne istiyorsun?",
     ["Completion"]="Demek söylentiler doğru. Gilneas bir kez daha ticarete açıldı.",
     ["minlevel"]="0",
@@ -27935,9 +27931,9 @@ QuestTranslator_QuestData = {
 
 -- Oilfuse'a Teslimat
     ["40224"] = {
-    -- Yig Oilfuse -> Yig Yağsigortası, Venture Co. -> Risk Ortaklığı. Ratchet -> Dişliçark. Booty Bay -> Ganimet Koyu.
+    -- Yig Oilfuse -> Yig Yağsigortası, Girişim Şti.(Venture Co.) -> Risk Ortaklığı. Ratchet -> Dişliçark. Ganimet Koyu(Booty Bay) -> Ganimet Koyu.
     ["Title"]="Oilfuse'a Teslimat",
-    ["Description"]="Her zamanki gibi iyi iş, bir sevkıyat yapman konusunda sana güvenebileceğimi düşünüyorum. Bunun gizli kapaklı olması gerekiyor, bu yüzden seni benim gönderdiğimi ya da onun bir şey aldığını kimsenin bilmesini istemiyorum, anlaşıldı mı? NEW_LINEBir arkadaşım Yig Yağsigortası (Yig Oilfuse), pek de iyi olmayan şartlardan sonra yakın zamanda Girişim Ortaklığı'ndan (Venture Co.) ayrıldı; çok uzun zaman önce tanışmıştık, tam bir kaçakçıydı. Her neyse - bu kasanın ona teslim edilmesi gerekiyor, talep ettiğinin yanı sıra bilgi için bir teşekkür olarak yağmaladığın bazı ganimetleri içeriyor. NEW_LINEYani dostum, bu kadar basit, git ve onunla konuş, ona bu kasayı ver. Onu Dişliçark'ta (Ratchet), kasabadan biraz yukarı yolda bulacaksın; o ve bazı arkadaşları orada metal işleme falan yapılan bir yeri paylaşıyorlar. Buradaki Ganimet Koyu (Booty Bay) iskelesinden kalkan tekneye bin.",
+    ["Description"]="Her zamanki gibi iyi iş, bir sevkıyat yapman konusunda sana güvenebileceğimi düşünüyorum. Bunun gizli kapaklı olması gerekiyor, bu yüzden seni benim gönderdiğimi ya da onun bir şey aldığını kimsenin bilmesini istemiyorum, anlaşıldı mı? NEW_LINEBir arkadaşım Yig Yağsigortası (Yig Oilfuse), pek de iyi olmayan şartlardan sonra yakın zamanda Girişim Ortaklığı'ndan (Girişim Şti.(Venture Co.)) ayrıldı; çok uzun zaman önce tanışmıştık, tam bir kaçakçıydı. Her neyse - bu kasanın ona teslim edilmesi gerekiyor, talep ettiğinin yanı sıra bilgi için bir teşekkür olarak yağmaladığın bazı ganimetleri içeriyor. NEW_LINEYani dostum, bu kadar basit, git ve onunla konuş, ona bu kasayı ver. Onu Dişliçark'ta (Ratchet), kasabadan biraz yukarı yolda bulacaksın; o ve bazı arkadaşları orada metal işleme falan yapılan bir yeri paylaşıyorlar. Buradaki Ganimet Koyu (Ganimet Koyu(Booty Bay)) iskelesinden kalkan tekneye bin.",
     ["Objectives"]="Yağsigortası İçin Malları Dişliçark'taki (Ratchet) Yig Yağsigortası'na teslim et.",
     ["Progress"]="Selam, senin için ne yapabilirim?",
     ["Completion"]="Dur tahmin edeyim, 'Slip' değil mi? Yollarımız ayrıldıktan sonra her zaman ekibi tekrar bir araya getirmek isterdi. Onun dünyanın bir köşesine çekilip kazandığı altınlarla gününü gün edeceğini düşünmüştüm!",
@@ -28084,7 +28080,7 @@ QuestTranslator_QuestData = {
 
 -- Risk Ortaklığı Liderliğini Yok Etmek
     ["41173"] = {
-    -- Venture Co. -> Risk Ortaklığı. Gelwex Goldfingers -> Gelwex Altınparmak, Dex Lodespark -> Dex Damarkıvılcım.
+    -- Girişim Şti.(Venture Co.) -> Risk Ortaklığı. Gelwex Goldfingers -> Gelwex Altınparmak, Dex Lodespark -> Dex Damarkıvılcım.
     -- Taxxlo Rustgate -> Taxxlo Pasgeçit. Rustgate Ridge -> Pasgeçit Sırtı. Durotar Labor Union -> Durotar İşçi Sendikası.
     ["Title"]="Risk Ortaklığı Liderliğini Yok Etmek",
     ["Description"]="Toplayabildiğimiz kadarıyla, bu direniş işçiler arasında basit bir memnuniyetsizlik oyunundan ibaret olamayacak kadar fazla organize olmuş durumda. Biri bunu kışkırtmış olmalı. İşimizde titiz olduğumuz için arkasında kimin olduğuna dair zaten bir şüphelimiz var. Gelwex Altınparmak (Gelwex Goldfingers) ve Dex Damarkıvılcım (Dex Lodespark). Kadir kıymet bilmez bir güruh. İkisinin de baş belası olduğu bilinirdi, fedailerin halledemeyeceği bir şey değildi ama görünüşe göre işten kaytarmaktan çok daha haince planları varmış. Ne planlıyorlarsa planlasınlar, onları tam yolunda durduracaksın. Bir ibret-i alem sergile ve bu adadaki herkese eylemlerinin kabul edilebilir tek cezasının infaz olduğunu göster. Büyük ihtimalle kenar mahallelerdeki komplocularının arasındalar. Bu işi halledene kadar geri gelme.",
@@ -28093,7 +28089,7 @@ QuestTranslator_QuestData = {
     ["Completion"]="<Taxxlo kafaları kulaklarından yakalar ve tüm Pasgeçit Sırtı'nda (Rustgate Ridge) duyulabilecek bir kahkaha patlatır.> Şuna bak, YOUR_NAME. Sadece Durotar İşçi Sendikası'na (Durotar Labor Union) değil, aynı zamanda BANA da ihanet edenleri bekleyen şey işte budur. Bu adada hiç kimse benim otoritemi ve yeterliliğimi bir daha asla sorgulayamayacak! Geleceğin parlak, genç işçi. Sizin gibi goblinler bu makineyi tekrar yoluna sokmanın anahtarı olacak. Seni bu sıkı çalışmandan ötürü ödüllendirmek için bunlardan birini al ve herkese benim gözüme girenlerin ne bekleyebileceğini anlat.",
     ["minlevel"]="0",
     ["questlevel"]="0",
-    }, -- end Destroying Venture Co. Leadership
+    }, -- end Destroying Girişim Şti.(Venture Co.) Leadership
 
 -- Ejderhaağzı'nın Yıkımı
     ["41658"] = {
@@ -28134,10 +28130,10 @@ QuestTranslator_QuestData = {
 
 -- Daha Derine Kazmak
     ["41212"] = {
-    -- Faldan, Venture Co. (Risk Ortaklığı) korunmuştur. Stonetalon Peak -> Taşpençe Zirvesi, Broken Cliff Mine -> Kırık Uçurum Madeni. 
+    -- Faldan, Girişim Şti.(Venture Co.) (Risk Ortaklığı) korunmuştur. Stonetalon Peak -> Taşpençe Zirvesi, Broken Cliff Mine -> Kırık Uçurum Madeni. 
     -- Windshear Crag -> Rüzgârbıçan Kayalığı. Deepmoss Lurker -> Derinyosun Sinsisi. Maloran Oakbranch -> Maloran Meşedalı. Bael Hardul, Stonetalon Mountains -> Taşpençe Dağları. Kalimdor kalmıştır.
     ["Title"]="Daha Derine Kazmak",
-    ["Description"]="Eğer Faldan'ın söylediği doğruysa —ki onun sözlerine güvenirim— o zaman bu tüm mesele benim ilk varsayımımın ötesine geçiyor. Risk Ortaklığı'nın (Venture Co.) doğaya karşı işlediği ihlallerin örümceğin davranış değişikliğinde ana tetikleyici olmadığından emin olsam da, bunu hızlandırmada hayati bir rol oynadıkları kesin. Ancak bu varsayımı doğrulamak için daha fazla örnek ve nihayetinde daha fazla kanıt toplamamız gerekiyor. Taşpençe Zirvesi'nin (Stonetalon Peak) tepesindeki kardeşlerim, Kırık Uçurum Madeni'ni (Broken Cliff Mine) evleri olarak gören yerel örümceklerin artan saldırganlığından bahsediyor. Çıkarabildiğim kadarıyla bu durum, Rüzgârbıçan Kayalığı'nda (Windshear Crag) gözlemlenebilen şeyle tamamen benzerlik gösteriyor. YOUR_NAME, lütfen örümceklerin beyinlerini bana getirerek bana tekrar yardım et; bu sefer daha fazla, sekiz örnek yeterli olacaktır. Tüm bunların arkasındaki gerçek nedeni düşünmeye cesaret edemiyorum —ve dürüst olmak gerekirse, haksız çıkmayı diliyorum. Madeni, Taşpençe Zirvesi'ne varmadan hemen önce batıya dönerek bulabilirsin.",
+    ["Description"]="Eğer Faldan'ın söylediği doğruysa —ki onun sözlerine güvenirim— o zaman bu tüm mesele benim ilk varsayımımın ötesine geçiyor. Risk Ortaklığı'nın (Girişim Şti.(Venture Co.)) doğaya karşı işlediği ihlallerin örümceğin davranış değişikliğinde ana tetikleyici olmadığından emin olsam da, bunu hızlandırmada hayati bir rol oynadıkları kesin. Ancak bu varsayımı doğrulamak için daha fazla örnek ve nihayetinde daha fazla kanıt toplamamız gerekiyor. Taşpençe Zirvesi'nin (Stonetalon Peak) tepesindeki kardeşlerim, Kırık Uçurum Madeni'ni (Broken Cliff Mine) evleri olarak gören yerel örümceklerin artan saldırganlığından bahsediyor. Çıkarabildiğim kadarıyla bu durum, Rüzgârbıçan Kayalığı'nda (Windshear Crag) gözlemlenebilen şeyle tamamen benzerlik gösteriyor. YOUR_NAME, lütfen örümceklerin beyinlerini bana getirerek bana tekrar yardım et; bu sefer daha fazla, sekiz örnek yeterli olacaktır. Tüm bunların arkasındaki gerçek nedeni düşünmeye cesaret edemiyorum —ve dürüst olmak gerekirse, haksız çıkmayı diliyorum. Madeni, Taşpençe Zirvesi'ne varmadan hemen önce batıya dönerek bulabilirsin.",
     ["Objectives"]="Taşpençe Dağları'ndaki Bael Hardul'da bulunan Maloran Meşedalı (Maloran Oakbranch) için 8 adet Derinyosun Sinsisi Beyni (Deepmoss Lurker Brains) topla.",
     ["Progress"]="YOUR_NAME, örnek arayışın nasıl gidiyor?",
     ["Completion"]="Korktuğum gibi çıktı. Habis büyünün o aynı zayıf soluğu bu beyinlere de sinmiş. Yine de Kırık Uçurum Madeni'nin örümceklerinde bu durum muhtemelen daha da güçlüdür. Merak ediyorum, sebebi ne olabilir? Belki de yeraltında yaşıyor olmaları buradaki kilit faktörlerden biridir. Faldan ile bu konuyu ve bulgularımı görüşmem gerekiyor, konuşacak çok şeyimiz var. Yine de araştırmamda bana büyük yardımda bulundun. Hâlâ bu bilmecenin arkasına geçmek için yapılacak çok şey var ve Kalimdor'un iyiliği adına bunu olabildiğince çabuk çözmeliyiz.",
@@ -28210,9 +28206,9 @@ QuestTranslator_QuestData = {
 
 -- Kara Kül Madenindeki Kargaşa
     ["41264"] = {
-    -- Black Ash Mine -> Kara Kül Madeni, Mudpaw Gnolls -> Çamurpençesi Gnolları, Venture Co. -> Risk Ortaklığı. Rustgate Ridge -> Pasgeçit Sırtı.
+    -- Black Ash Mine -> Kara Kül Madeni, Mudpaw Gnolls -> Çamurpençesi Gnolları, Girişim Şti.(Venture Co.) -> Risk Ortaklığı. Rustgate Ridge -> Pasgeçit Sırtı.
     ["Title"]="Kara Kül Madenindeki Kargaşa",
-    ["Description"]="Kara Kül Madeni'ndeki (Black Ash Mine) çalışma operasyonlarımız tamamen durdu. Sadece şu Çamurpençesi Gnolları (Mudpaw Gnolls) yüzünden arkamızı kollamak zorunda kalmıyoruz, şimdi bir de Risk Ortaklığı (Venture Co.) buralarda dolanıyor. Madencilerin bazılarından, Çamurpençesi Gnollarına Kara Kül Madeni'ne yaptıkları saldırıda bir goblinin komuta ettiğini gördüklerine dair bazı raporlar alıyorum. Buranın hemen kuzeyine git ve madenin derinliklerine dal. Risk Ortaklığı ile bağlantısı olan birini bulursan katlet ve sonra bana geri dön.",
+    ["Description"]="Kara Kül Madeni'ndeki (Black Ash Mine) çalışma operasyonlarımız tamamen durdu. Sadece şu Çamurpençesi Gnolları (Mudpaw Gnolls) yüzünden arkamızı kollamak zorunda kalmıyoruz, şimdi bir de Risk Ortaklığı (Girişim Şti.(Venture Co.)) buralarda dolanıyor. Madencilerin bazılarından, Çamurpençesi Gnollarına Kara Kül Madeni'ne yaptıkları saldırıda bir goblinin komuta ettiğini gördüklerine dair bazı raporlar alıyorum. Buranın hemen kuzeyine git ve madenin derinliklerine dal. Risk Ortaklığı ile bağlantısı olan birini bulursan katlet ve sonra bana geri dön.",
     ["Objectives"]="Pasgeçit Sırtı'nın (Rustgate Ridge) kuzeyindeki Kara Kül Madeni'nin derinliklerini keşfet ve Çamurpençesi Gnolları ile Risk Ortaklığı arasında herhangi bir bağ olup olmadığını araştır.",
     ["Progress"]="Umarım bu tür söylentiler doğru değildir.",
     ["Completion"]="Madenin  derinliklerinde bir goblin mi? Bu büyük bir haber ve biraz endişe verici. Bunu amirlerimle görüşeceğim, ancak verdiğin bilgi bize tam olarak ihtiyacımız olan şeyi sağladı. Bugün iyi iş çıkardın, yeni yetme.",
@@ -28222,10 +28218,10 @@ QuestTranslator_QuestData = {
 
 -- Pasgeçit Kereste Fabrikasındaki Kargaşa
     ["41265"] = {
-    -- Rustgate Lumber Yard -> Pasgeçit Kereste Fabrikası, Venture Co. -> Risk Ortaklığı, Durotar Labor Union -> Durotar İşçi Sendikası.
+    -- Rustgate Lumber Yard -> Pasgeçit Kereste Fabrikası, Girişim Şti.(Venture Co.) -> Risk Ortaklığı, Durotar Labor Union -> Durotar İşçi Sendikası.
     -- Supervisor Ozzick -> Gözetmen Ozzick. Rustgate Ridge -> Pasgeçit Sırtı, Blackstone Island -> Karakaya Adası.
     ["Title"]="Pasgeçit Kereste Fabrikasındaki Kargaşa",
-    ["Description"]="Bu adaya ilk geldiğimizde, burası ağaçlar ve yaban hayatıyla dolu yemyeşil, gür bir vahasıydı. Buranın hemen kuzeydoğusundaki Pasgeçit Kereste Fabrikası (Rustgate Lumber Yard) ile büyük bir kâr elde ediyorduk ve tüm bu kâr feci bir şekilde durma noktasına geldi. İster inan ister inanma, hâlâ hasat edebileceğimiz epey ağaç var, yine de Risk Ortaklığı (Venture Co.) en kazançlı gelir kaynaklarımızdan birine el koydu! Hatta  kendilerinin orada çalıştığını duydum, ne cüret ama! Pasgeçit Kereste Fabrikası'na gitmeni ve birkaç kafa kırmaya başlamanı istiyorum; Risk Ortaklığı, Durotar İşçi Sendikası (Durotar Labor Union) ile bir daha uğraşmadan önce iki kez düşünsün.",
+    ["Description"]="Bu adaya ilk geldiğimizde, burası ağaçlar ve yaban hayatıyla dolu yemyeşil, gür bir vahasıydı. Buranın hemen kuzeydoğusundaki Pasgeçit Kereste Fabrikası (Rustgate Lumber Yard) ile büyük bir kâr elde ediyorduk ve tüm bu kâr feci bir şekilde durma noktasına geldi. İster inan ister inanma, hâlâ hasat edebileceğimiz epey ağaç var, yine de Risk Ortaklığı (Girişim Şti.(Venture Co.)) en kazançlı gelir kaynaklarımızdan birine el koydu! Hatta  kendilerinin orada çalıştığını duydum, ne cüret ama! Pasgeçit Kereste Fabrikası'na gitmeni ve birkaç kafa kırmaya başlamanı istiyorum; Risk Ortaklığı, Durotar İşçi Sendikası (Durotar Labor Union) ile bir daha uğraşmadan önce iki kez düşünsün.",
     ["Objectives"]="Karakaya Adası'ndaki (Blackstone Island) Pasgeçit Sırtı'nda (Rustgate Ridge) bulunan Gözetmen Ozzick için Pasgeçit Kereste Fabrikası civarındaki Risk Ortaklığı üyelerini katlet.",
     ["Progress"]="Kereste Fabrikasını kendimiz için geri almamız uzun sürmeyecek.",
     ["Completion"]="Güzel iş evlat, yıkıcı ellerine rehberlik etme konusunda içgüdülerime güvenebileceğimi biliyordum. Tekrar ağaç kesmeye ve hasat etmeye başlamamız uzun sürmeyecek.",
@@ -28377,10 +28373,10 @@ QuestTranslator_QuestData = {
 -- Ejderateşi Bombaları!
     ["41806"] = {
     -- Skardyn canavarları aynen kalmıştır. Oglethorpe Obnoticus -> Oglethorpe Dikbaş. 
-    -- Tinkmaster -> Dişliustası, Booty Bay -> Ganimet Koyu, Gnomeregan aynen korunmuştur.
+    -- Tinkmaster -> Dişliustası, Ganimet Koyu(Booty Bay) -> Ganimet Koyu, Gnomeregan aynen korunmuştur.
     ["Title"]="Ejderateşi Bombaları!",
-    ["Description"]="Tek başına ateş bezleri skardynlerin savunmasını yarmaya yetmeyecektir—hayır, yanından bile geçemez. Onların çarpık etleri gölgeyle sertleşti, sadece aleve karşı korundu. İhtiyacımız olan şey bir katalizör... ejderateşinin öfkesinin düzgün bir şekilde kanalize edilebileceği odaklanmış bir kanal. Ölümlülerin Ganimet Koyu (Booty Bay) dediği o kaotik lağım çukurunda ikamet eden, Oglethorpe Dikbaş (Oglethorpe Obnoticus) adında meraklı ve kurnaz bir gnome var. Gençlik yıllarında, Gnomeregan'ın illetini temizlemek amacıyla uçucu alevlerle uğraşmıştı. Yöntemleri... alışılmadık ve tartışmasız değildi. Dişliustası'nın (Tinkmaster)  kendisi onlara karşı çıkmıştı. Yine de, skardynlerin gölgeyle işlenmiş derisini kırabilecek kadar güçlü bir ejderateşi düzeneği dövme yeteneğine sahip bir zihin varsa, o da onundur. Onu ara. Zaman bizden yana değil.",
-    ["Objectives"]="Ganimet Koyu'ndaki (Booty Bay) Ejderateşi Patlayıcıları uzmanını bul.",
+    ["Description"]="Tek başına ateş bezleri skardynlerin savunmasını yarmaya yetmeyecektir—hayır, yanından bile geçemez. Onların çarpık etleri gölgeyle sertleşti, sadece aleve karşı korundu. İhtiyacımız olan şey bir katalizör... ejderateşinin öfkesinin düzgün bir şekilde kanalize edilebileceği odaklanmış bir kanal. Ölümlülerin Ganimet Koyu (Ganimet Koyu(Booty Bay)) dediği o kaotik lağım çukurunda ikamet eden, Oglethorpe Dikbaş (Oglethorpe Obnoticus) adında meraklı ve kurnaz bir gnome var. Gençlik yıllarında, Gnomeregan'ın illetini temizlemek amacıyla uçucu alevlerle uğraşmıştı. Yöntemleri... alışılmadık ve tartışmasız değildi. Dişliustası'nın (Tinkmaster)  kendisi onlara karşı çıkmıştı. Yine de, skardynlerin gölgeyle işlenmiş derisini kırabilecek kadar güçlü bir ejderateşi düzeneği dövme yeteneğine sahip bir zihin varsa, o da onundur. Onu ara. Zaman bizden yana değil.",
+    ["Objectives"]="Ganimet Koyu'ndaki (Ganimet Koyu(Booty Bay)) Ejderateşi Patlayıcıları uzmanını bul.",
     ["Progress"]="Ne var? Oldukça meşgulüm!",
     ["Completion"]="Ejderateşi bombaları mı? Ha-HA! İşte şimdi benim dilimden konuşuyorsun! Doğru gnome'a geldin, dostum! Oglethorpe Dikbaş hizmetinizde—kimyager, mühendis, yarı zamanlı arkanomekanik teorisyeni ve GÜMLETEN her şeyin tam zamanlı meraklısı! Amaaa acele etmeyelim. Elbette bir ejderateşi bombası hazırlayabilirim—tabii ki yapabilirim! Ama şu haliyle, biraz... diyelim ki, eksik donanımlıyım. Malzemeler, reaktifler, patlamaya dayanıklı gözlükler—her zamanki şeyler! Yani! Eğer yardım etmeye hazırsan, birlikte küçük bir tarih yazabiliriz. Oldukça patlayıcı bir tarih parçası.",
     ["minlevel"]="0",
@@ -29257,11 +29253,11 @@ QuestTranslator_QuestData = {
 
 -- Toprak Gümbürtüsü
     ["40637"] = {
-    -- Venture Co. -> Risk Ortaklığı, Earth Elementals -> Toprak Elementalleri. 
+    -- Girişim Şti.(Venture Co.) -> Risk Ortaklığı, Earth Elementals -> Toprak Elementalleri. 
     -- Mort Tozzlefume -> Mort Memepus. Powder Town -> Barut Kasabası, Stonetalon Mountains -> Taşpençe Dağları.
     -- Goblin konuşma tarzı ("bub", "kid") "ahbap", "evlat" olarak aktarılmıştır. Salrog ismi kalmıştır.
     ["Title"]="Toprak Gümbürtüsü",
-    ["Description"]="Şu kertenkelelerle harika iş çıkardın ahbap! Çocuklarımın da eğlenmesi için geriye yeterince bıraktın. Şey, dürüst olmak gerekirse bazıları yendi. Ama eğlendiler! Değil mi? Bana öyle bakma evlat, ben harika bir patronum! Bu işi birilerinin hoşuna gittiğim için mi aldım sanıyorsun? Oof, bu sözleri geri alamam. Yine de! Sadece senin gibi uh çok yetenekli bir yoldaşım için özenle seçilmiş yeni bir iş, evet, yoldaş. Risk Ortaklığı'nın (Venture Co.) o aşırı patlayıcı doğası, görünüşe göre bazı çok ama çok öfkeli toprak elementallerini (earth elementals) ya da başka bir şeyleri uyandırmış. Salrog orkça ruhani saçmalıklar geveleyip duruyordu. Sen gidip onlarla ilgilen, ben de sana ödeme yapayım; Barut Kasabası'nda (Powder Town) alabileceğin en iyi anlaşma bu! Tabii döndüğünde kasaba hâlâ ayaktaysa. Lanet olası Risk Ortaklığı, açıkça onlardı, değil mi? Bombalarla yaptığımız testler değildi, değil mi?",
+    ["Description"]="Şu kertenkelelerle harika iş çıkardın ahbap! Çocuklarımın da eğlenmesi için geriye yeterince bıraktın. Şey, dürüst olmak gerekirse bazıları yendi. Ama eğlendiler! Değil mi? Bana öyle bakma evlat, ben harika bir patronum! Bu işi birilerinin hoşuna gittiğim için mi aldım sanıyorsun? Oof, bu sözleri geri alamam. Yine de! Sadece senin gibi uh çok yetenekli bir yoldaşım için özenle seçilmiş yeni bir iş, evet, yoldaş. Risk Ortaklığı'nın (Girişim Şti.(Venture Co.)) o aşırı patlayıcı doğası, görünüşe göre bazı çok ama çok öfkeli toprak elementallerini (earth elementals) ya da başka bir şeyleri uyandırmış. Salrog orkça ruhani saçmalıklar geveleyip duruyordu. Sen gidip onlarla ilgilen, ben de sana ödeme yapayım; Barut Kasabası'nda (Powder Town) alabileceğin en iyi anlaşma bu! Tabii döndüğünde kasaba hâlâ ayaktaysa. Lanet olası Risk Ortaklığı, açıkça onlardı, değil mi? Bombalarla yaptığımız testler değildi, değil mi?",
     ["Objectives"]="7 adet Gümbürdeyen Toprak Elementali öldür ve Taşpençe Dağları'ndaki (Stonetalon Mountains) Barut Kasabası'nda (Powder Town) bulunan Güvenlik Görevlisi Mort Memepus'a (Mort Tozzlefume) geri dön.",
     ["Progress"]="Ee, yer sakinleşti mi sonunda?",
     ["Completion"]="Harika iş evlat, bu iş için mükemmel ap- adam olduğunu biliyordum! Çocuklarımdan bazılarının öldüğünü söylediğimi hatırlıyorsun değil mi? Şey, onların bazı eşyalarını alabilirsin sanırım.",
@@ -29461,9 +29457,9 @@ QuestTranslator_QuestData = {
 
 -- Hizmete Koşulan Yardım
     ["55027"] = {
-    -- Venture Co. -> Risk Ortaklığı. Lake Nazferiti -> Nazferiti Gölü. Mechanics -> Tamirciler.
+    -- Girişim Şti.(Venture Co.) -> Risk Ortaklığı. Lake Nazferiti -> Nazferiti Gölü. Mechanics -> Tamirciler.
     ["Title"]="Hizmete Koşulan Yardım",
-    ["Description"]="Elimdeki bilgileri sana vermeden önce karşılığında bir şey istiyorum. Onun \"iyilik\" dediği şeye sadık kalacağım ama bir şeyin halledilmesi gerekiyor. Risk Ortaklığı (Venture Co.) buralarda bazı sorunlara neden oluyor, çoğunlukla ticaretime el koyup bir kısmını kendilerine alıyorlar. İşte burada devreye girmene ve temkinli (discreet) olmana ihtiyacım var. Faaliyetlerimden bazılarına çomak sokuyorlar ve ben de onlarınkine çomak sokmak istiyorum, gizlilik içinde elbette. Nazferiti Gölü'nün (Lake Nazferiti) uzak kuzeydoğusuna seyahat et. Güvenilir kaynaklardan orada bir petrol platformu kurduklarını öğrendim, üzerinde çalışmak üzere sözleşme yaptıkları Tamircilerden (Mechanics) bazılarını öldür. Bu onlara epey zaman ve paraya mal olmalı.",
+    ["Description"]="Elimdeki bilgileri sana vermeden önce karşılığında bir şey istiyorum. Onun \"iyilik\" dediği şeye sadık kalacağım ama bir şeyin halledilmesi gerekiyor. Risk Ortaklığı (Girişim Şti.(Venture Co.)) buralarda bazı sorunlara neden oluyor, çoğunlukla ticaretime el koyup bir kısmını kendilerine alıyorlar. İşte burada devreye girmene ve temkinli (discreet) olmana ihtiyacım var. Faaliyetlerimden bazılarına çomak sokuyorlar ve ben de onlarınkine çomak sokmak istiyorum, gizlilik içinde elbette. Nazferiti Gölü'nün (Lake Nazferiti) uzak kuzeydoğusuna seyahat et. Güvenilir kaynaklardan orada bir petrol platformu kurduklarını öğrendim, üzerinde çalışmak üzere sözleşme yaptıkları Tamircilerden (Mechanics) bazılarını öldür. Bu onlara epey zaman ve paraya mal olmalı.",
     ["Objectives"]="Nazferiti Gölü (Lake Nazferiti) yakınlarındaki Petrol Platformunda bulunan 5 Risk Ortaklığı Tamircisini öldür.",
     ["Progress"]="Planlarına bir çomak sokabildin mi?",
     ["Completion"]="Hakları olmayan şeylere ellerini uzatıyorlardı, bedelini ödeme zamanları geldi; hem de benimle bağdaştıramayacakları bir bedel.",
@@ -29789,10 +29785,10 @@ QuestTranslator_QuestData = {
 
 -- Huzur İçinde Keşfetmek
     ["40702"] = {
-    -- Whitepeak -> Aktepe. Bael Hardul kalmıştır. Venture Co. -> Risk Ortaklığı. Windshear Crag -> Rüzgârbıçan Kayalığı.
+    -- Whitepeak -> Aktepe. Bael Hardul kalmıştır. Girişim Şti.(Venture Co.) -> Risk Ortaklığı. Windshear Crag -> Rüzgârbıçan Kayalığı.
     -- Operators -> Operatörler, Loggers -> Keresteciler, Deforesters -> Ağaçsızlandırıcılar / Ağaç Katilleri.
     ["Title"]="Huzur İçinde Keşfetmek",
-    ["Description"]="Benim adım Aktepe (Whitepeak), buranın hâlâ ayakta olduğuna dair hikayeler duyduktan sonra bu geleceğin kaşifleri grubuna Bael Hardul'a kadar liderlik ettim. Şaşırtıcı bir şekilde, iş görüyordu. Epey bir temizlik vardı ama artık iş bittiğine göre, iyi bir operasyon merkezi olacak. Ancak bir pürüz var. Bekleyeceğim en son şey kapımızda Risk Ortaklığı'nı (Venture Co.) görmekti, bu duymadığımız bir detaydı ve şimdi biz kurulduğumuza göre Rüzgârboynuzu / Rüzgârbıçan Kayalığı'na (Windshear Crag) daha fazla insan taşımaya devam ediyorlar. Eğer bir gün keşfetme şansımız olmasını, bunu sürekli koruma olmadan yapmayı istiyorsak, bu tehdidi ortadan kaldırmamız gerekecek. Tepenin aşağısı Risk Ortaklığı'nın faaliyet gösterdiği Rüzgârbıçan Kayalığı'dır; aşağı in ve benim adıma onların bu tehdidine son ver.",
+    ["Description"]="Benim adım Aktepe (Whitepeak), buranın hâlâ ayakta olduğuna dair hikayeler duyduktan sonra bu geleceğin kaşifleri grubuna Bael Hardul'a kadar liderlik ettim. Şaşırtıcı bir şekilde, iş görüyordu. Epey bir temizlik vardı ama artık iş bittiğine göre, iyi bir operasyon merkezi olacak. Ancak bir pürüz var. Bekleyeceğim en son şey kapımızda Risk Ortaklığı'nı (Girişim Şti.(Venture Co.)) görmekti, bu duymadığımız bir detaydı ve şimdi biz kurulduğumuza göre Rüzgârboynuzu / Rüzgârbıçan Kayalığı'na (Windshear Crag) daha fazla insan taşımaya devam ediyorlar. Eğer bir gün keşfetme şansımız olmasını, bunu sürekli koruma olmadan yapmayı istiyorsak, bu tehdidi ortadan kaldırmamız gerekecek. Tepenin aşağısı Risk Ortaklığı'nın faaliyet gösterdiği Rüzgârbıçan Kayalığı'dır; aşağı in ve benim adıma onların bu tehdidine son ver.",
     ["Objectives"]="Taşpençe Dağları'ndaki Bael Hardul'da bulunan 8 Risk Ortaklığı Operatörünü, 14 Risk Ortaklığı Kerestecisini ve 8 Risk Ortaklığı Ağaç Katilini katlet.",
     ["Progress"]="Risk Ortaklığı bir tehdit olmaktan çıkarıldı mı?",
     ["Completion"]="Sakalıma yemin olsun ki, bunun hayret verici bir iş olduğunu söylemeliyim. Umarım mesajı alırlar ve Rüzgârbıçan Kayalığı'nı temelli terk ederler.",
@@ -31689,11 +31685,11 @@ QuestTranslator_QuestData = {
 
 -- Gnomelar Her Zaman Cüzamlıydı
     ["40635"] = {
-    -- Venture Co. -> Risk Şirketi (Venture Company). Leper gnomes -> Cüzamlı gnomelar.
+    -- Girişim Şti.(Venture Co.) -> Risk Şirketi (Venture Company). Leper gnomes -> Cüzamlı gnomelar.
     -- Head Technician Klazfit -> Baş Teknisyen Klazfit, Powder Town -> Barut Kasabası, Stonetalon Mountains -> Taşpençe Dağları.
     -- Electrical Coils -> Elektrik Bobinleri. Undermine -> Altkazı kalmıştır.
     ["Title"]="Gnomelar Her Zaman Cüzamlıydı",
-    ["Description"]="Hey, nasıl gidiyor ahbap? İş için burada olduğundan kesinlikle eminim ama bir amatörü gördüğüm an kokusunu alırım. İçimdeki ses bana senin beyninden çok kasının olduğunu söylüyor ve senin için mükemmel bir anlaşmam var dostum. O yüzden iyi dinle. Söylentilere göre o güzelim eski gnome şehri yeşille patlatılmış ve bunu yapan biz goblinler bile değilmişiz, düşünebiliyor musun? Aptallar bize intiharcı derdi ama gidip bunu kendileri yaptılar. Şimdi kendilerine cüzamlı gnomelar (leper gnomes) diyorlar, bana kalırsa her zaman cüzamlıydılar zaten. Daha da komik olanı, şimdi Risk Şirketi (Venture Co.) tarafından işe alınmış durumdalar! Altkazı (Undermine) artık eskisi gibi değil galiba. Uzun lafın kısası, git o aptallara üstün yeşilin kim olduğunu göster ve bana şu bobinleri geri getir. Duydun mu? Bobinleri. B-O-B-İ-N-L-E-R-İ.",
+    ["Description"]="Hey, nasıl gidiyor ahbap? İş için burada olduğundan kesinlikle eminim ama bir amatörü gördüğüm an kokusunu alırım. İçimdeki ses bana senin beyninden çok kasının olduğunu söylüyor ve senin için mükemmel bir anlaşmam var dostum. O yüzden iyi dinle. Söylentilere göre o güzelim eski gnome şehri yeşille patlatılmış ve bunu yapan biz goblinler bile değilmişiz, düşünebiliyor musun? Aptallar bize intiharcı derdi ama gidip bunu kendileri yaptılar. Şimdi kendilerine cüzamlı gnomelar (leper gnomes) diyorlar, bana kalırsa her zaman cüzamlıydılar zaten. Daha da komik olanı, şimdi Risk Şirketi (Girişim Şti.(Venture Co.)) tarafından işe alınmış durumdalar! Altkazı (Undermine) artık eskisi gibi değil galiba. Uzun lafın kısası, git o aptallara üstün yeşilin kim olduğunu göster ve bana şu bobinleri geri getir. Duydun mu? Bobinleri. B-O-B-İ-N-L-E-R-İ.",
     ["Objectives"]="Taşpençe Dağları'ndaki (Stonetalon Mountains) Barut Kasabası'nda (Powder Town) bulunan Baş Teknisyen Klazfit'e 10 Elektrik Bobini (Electrical Coils) getir.",
     ["Progress"]="Senin için çok mu zor oldu, ahbap?",
     ["Completion"]="Bunu başarabileceğini hiç düşünmezdim çocuk. Amma velakin, bu birinin sakatatı mı? Öf, amatörlerle çalışmak işte. Sikkeyi al ve gözümün önünden kaybol.",
@@ -31734,7 +31730,7 @@ QuestTranslator_QuestData = {
     ["Description"]="Bu sözleşmeyi  Nert'e götüreceğim, eski işverenlerimizin Kezan'da arkamızdan ne dolaplar çevirdiğini bilmeli. Elimden gelse Altkazı'ya (Undermine) öylece dalar ve onların Ticaret Prensini (Trade Prince) var olan en derin varoşlara fırlatıp atardım. Ama yapamam, bu yüzden şimdi elimden gelenin en iyisini yapmalıyım. Mücevherlerimin çalınması ve erzaklarımın tükenmesiyle, bir sonraki açık artırma için zar zor bir şeyler hazırlayabiliyorum - ve o açık artırmada GÜMBÜRTÜ koparacak bir şeyler sunmalıyım, aksi takdirde itibarım resmen kül olur. Maharetli ve yetenekli olduğunu görüyorum, bana bir kez daha yardım etmek ister misin? İhtiyacım olan şey muazzam boyutlarda bir mücevher; buradan, Kıvılcımsu'dan (Sparkwater) geçen yolcular Haçlı Seferi'nin (the Scarlet Crusade) elinde yumruk büyüklüğünde bir yakut olduğuna dair bir söylenti yaydılar, liderlerinin bunu üzerinde taşıdığını varsayıyorum. Dahası, yakutu içine yerleştirmem için basit bir altın kolye; kendi başına kurcalayıp yapamayacağın bir şey olmamalı.",
     ["Objectives"]="Tacknazz, Haçlı Manastırı'ndan (the Scarlet Monastery) devasa bir yakut ve bir altın kolye talep ediyor.",
     ["Progress"]="Çabuk ol, YOUR_NAME! Başyapıtlar yaratırken aceleye gelmez ve bir sonraki açık artırmaya sadece birkaç gün kaldı!",
-    ["Completion"]="Oh, vay canına! Bu şey neredeyse benim burnum kadar büyük! O maceracılar yalan söylemiyormuş, orası kesin. Ve getirdiğin kolye, inanılmaz derecede ince bir işçilik, gerçekten etkileyici. Sana söylediğim gibi mücevher işlemeye (jewelcrafting) karşı bir yatkınlığın var. Gerçekten bana muazzam bir yardımda bulundun. Booty Bay'deki o kodamanların bu güzellik karşısında ağızlarının suyu akacak, sen sadece bekle! Tüm sıkı çalışman ve yardımın için bir teşekkür olarak, kişisel favori tasarımlarımdan birini seninle paylaşmama izin ver.",
+    ["Completion"]="Oh, vay canına! Bu şey neredeyse benim burnum kadar büyük! O maceracılar yalan söylemiyormuş, orası kesin. Ve getirdiğin kolye, inanılmaz derecede ince bir işçilik, gerçekten etkileyici. Sana söylediğim gibi mücevher işlemeye (jewelcrafting) karşı bir yatkınlığın var. Gerçekten bana muazzam bir yardımda bulundun. Ganimet Koyu(Booty Bay)'deki o kodamanların bu güzellik karşısında ağızlarının suyu akacak, sen sadece bekle! Tüm sıkı çalışman ve yardımın için bir teşekkür olarak, kişisel favori tasarımlarımdan birini seninle paylaşmama izin ver.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Gold Is The Goblin's Heart
@@ -31900,10 +31896,10 @@ QuestTranslator_QuestData = {
 
 -- Yeşilden Kırmızıya
     ["80110"] = {
-    -- Nert, Gar'Thok, Razor Hill -> Jilet Tepesi. Horde -> Güruh. Venture Co. -> Risk Şirketi.
+    -- Nert, Gar'Thok, Razor Hill -> Jilet Tepesi. Horde -> Güruh. Girişim Şti.(Venture Co.) -> Risk Şirketi.
     -- Boarbecue Ribs -> Yaban Domuzu Barbekü Kaburgası. Torka kalmıştır. Warchief's army -> Savaşşefi'nin ordusu.
     ["Title"]="Yeşilden Kırmızıya",
-    ["Description"]="Nert iyi bir dosttur ve iş seçimine rağmen kötü bir insan olduğunu düşünmüyorum. Ancak Gar'Thok'u da aynısına ikna etmek... Ve hepinizi Güruh'a (the Horde) dahil etmek? Bu çetin bir iş! Gar'Thok domuz kaburgalarıma bayılıyor olabilir ama bir yemek karşılığında eski Risk Şirketi (Venture Co.) mürettebatını işe almayacak kadar mantıklı bir kafaya sahip olduğunu düşünmek isterim. En azından bunları senin için pişireceğim. Eğer bu planda kararlıysan tavsiyeme uymaya bak: Gar'Thok'u kendi grubunun hizmet etmeye istekli mülteciler olduğuna inandır. Risk Şirketi'nden (Venture Co.) hiç bahsetme. Nert'e selamlarımı ilet.",
+    ["Description"]="Nert iyi bir dosttur ve iş seçimine rağmen kötü bir insan olduğunu düşünmüyorum. Ancak Gar'Thok'u da aynısına ikna etmek... Ve hepinizi Güruh'a (the Horde) dahil etmek? Bu çetin bir iş! Gar'Thok domuz kaburgalarıma bayılıyor olabilir ama bir yemek karşılığında eski Risk Şirketi (Girişim Şti.(Venture Co.)) mürettebatını işe almayacak kadar mantıklı bir kafaya sahip olduğunu düşünmek isterim. En azından bunları senin için pişireceğim. Eğer bu planda kararlıysan tavsiyeme uymaya bak: Gar'Thok'u kendi grubunun hizmet etmeye istekli mülteciler olduğuna inandır. Risk Şirketi'nden (Girişim Şti.(Venture Co.)) hiç bahsetme. Nert'e selamlarımı ilet.",
     ["Objectives"]="Torka'nın Domuzu Barbekü Kaburgalarını (Torka's Boarbecue Ribs) Jilet Tepesi'ndeki (Razor Hill) Gar'Thok'a götür ve Güruh'a katılmana yardım etmesini iste.",
     ["Progress"]="Ratchet'tan gelen kervana benzemiyorsun. Jilet Tepesi'nde (Razor Hill) ne işin var? <Gar'Thok havayı koklar ve salyası akmaya başlar.> Bu kokladığım Torka'nın yemeği mi? Onun yaban domuzu kaburgalarından birazı için nelerimi vermezdim...",
     ["Completion"]="Senin ve goblin mülteci yoldaşlarının adına bir hediye mi? Güruh'u (the Horde) katılmak mı istiyorsun?! Dinle beni goblin... <Domuz kaburgalarını cazip bir şekilde sunarsın ve bir anlık tereddütten sonra Gar'Thok açlıkla kaburgaları kapar. Yemeği iştahla yiyip bitirir, her yeri batırır ama memnun görünmektedir.> Bir goblin yiyeceği karşılıksız veriyor. Hmm, ne yapabileceğime bakacağım... İlk olarak, resmiyet. Savaşşefi'nin (Warchief) ordusunun saflarında onurla savaşmaya hazır mısın? Bilinmeyen topraklarda onun kılıcı ve kalkanı olmaya?",
@@ -32445,10 +32441,10 @@ QuestTranslator_QuestData = {
     -- Coil springs -> Helezon yaylar, flux regulators -> akı düzenleyicileri, containment gel -> muhafaza jeli.
     -- Solid Blasting Powder -> Katı Patlatma Tozu, Bronze Frameworks -> Bronz İskeletler, Whirring Bronze Gizmos -> Vızıldayan Bronz Düzenekler.
     -- Heat-resistant trigger -> Isıya dayanıklı tetik. Undermine -> Altkazı, Bloodsail pirates -> Kanlıyel korsanları.
-    -- Oglethorpe Obnoticus, Booty Bay, Bomb of the Ages -> Çağların Bombası kalmıştır.
+    -- Oglethorpe Obnoticus, Ganimet Koyu(Booty Bay), Bomb of the Ages -> Çağların Bombası kalmıştır.
     ["Title"]="Azrail Oldum...",
     ["Description"]="Aha! Hmm... şey şimdi, bu tamamen bir felaket sayılmaz. Elimde—bakalım—helezon yaylar, akı düzenleyicileri, muhafaza jeli var... Evet! İhtiyacım olan şeylerin çoğuna sahibim! Ancak! Birkaç kilit bileşende—yani Katı Patlatma Tozu (Solid Blasting Powder), Bronz İskeletler (Bronze Frameworks) ve Vızıldayan Bronz Düzenekler (Whirring Bronze Gizmos) konusunda biraz sıkıntı çekiyorum. Çok da sıra dışı bir şey değil! Yarım yamalak yetenekli herhangi bir mühendis doğru malzemelerle bunları şipşak hazırlayabilir. Tabii ki eğer sadece çeyrek yetenekliysen üzerine alınma! Şimdi, bir şey biraz daha zorlayıcı olabilir... ısıya dayanıklı tetik (heat-resistant trigger). Öyle alelade bir tetik değil, bilesin—bu Altkazı'dan (Undermine) gelen özel bir parça. Aşırı sıcaklıklara dayanacak şekilde üretilmiş. En son duyduğuma göre, Altkazı'dan gelen son sevkiyat o haydut Kanlıyel (Bloodsail) korsanları tarafından ele geçirilmiş. Eğer şanslıysan—ve sonunda hâlâ tüm uzuvlarına sahipsen—güneydoğudaki korsan kamplarında saklanmış bu değerli tetiklerden birini bulabilirsin. Hadi fırla bakalım! Bana malzemeleri getir, ben de gümlemeyi getireyim!",
-    ["Objectives"]="Gerekli malzemeleri Booty Bay'deki Oglethorpe Obnoticus'a getir.",
+    ["Objectives"]="Gerekli malzemeleri Ganimet Koyu(Booty Bay)'deki Oglethorpe Obnoticus'a getir.",
     ["Progress"]="Malzemeleri aldın mı? Acele et!",
     ["Completion"]="<Oglethorpe gözlüklerini düzeltir ve malzemeleri abartılı bir titizlikle inceler> Ooooh, evet! Toz etkili, iskelet sağlam ve düzeneğin tam da doğru miktarda vızzzzıltısı var. Mükemmel iş! Bunlar gayet iş görür—fiyasko yok, pas yok, tuhaf yapışkan kalıntılar yok. Her zaman iyi bir işaret!\n\nŞimdi geride dur dostum—iyice geride— ve eylem halindeki mühendislik dehasına tanıklık etmeye hazırlan! Şimdi döveceğim şey... ÇAĞLARIN BOMBASI (the BOMB OF THE AGES)!... Heh. Son montaja başlamadan önce sadece, uh—küçük bir soru. Bunu kasabada kullanmayı planlamıyorsun, değil mi? Veya, diyelim ki... tanıdığım biri üzerinde? Ya da bende?",
     ["minlevel"]="0",
@@ -32740,12 +32736,12 @@ QuestTranslator_QuestData = {
     -- Jared Voss, William Voss kalmıştır. Old Town -> Eski Şehir.
     -- Stormwind -> Fırtınayeli(Stormwind). Stonemason's Guild -> Taşduvarcılar Loncası.
     -- Deadmines -> Ölümadenleri. Westfall -> Batıdiyar. Voss' Sizzling Brew -> Voss'un Cızırdıyan Karışımı.
-    -- Master Shaw -> Üstad Shaw. Kezan, Venture Co. kalmıştır.
+    -- Master Shaw -> Üstad Shaw. Kezan, Girişim Şti.(Venture Co.) kalmıştır.
     ["Title"]="Musluğu Kapatmak",
     ["Description"]="Jared Voss, son derece yetenekli ve eğitimli bir simyacı olan William Voss'un oğludur. Babasının burada, Eski Şehir'de (Old Town) herkes tarafından çok sevilen bir simya dükkanı vardı. Fırtınayeli(Stormwind) ikinci kez yakılıp yıkıldığında, ailesinin evi de küle dönenler arasındaydı. Şehrin Taşduvarcılar Loncası (Stonemason's Guild) tarafından yeniden inşası sırasında Voss, Fırtınayeli'nin(Stormwind) en ünlü simyacısı olarak taşıdığı önem göz önüne alındığında, evinin doğal olarak restore edileceğini varsaymıştı. Ne ironiktir ki bu gerçekleşmedi.\n\nFırtınayeli'nin(Stormwind) soylularının şehri yeniden inşa etmek için farklı planları vardı ve sonunda Voss ile ailesi evsiz kaldı. Yüreğinde büyüyen bir nefretle, kaderlerinden sorumlu olanları lanetledi. Voss'un ölümünden önce oğlunu, kendisiyle aynı küçümsemeyi paylaşan Taşduvarcılar'a gönderdiğini varsayıyoruz. Görünüşe göre Jared, babasının hem nefretini hem de yeteneklerini devralmayı başarmış.\n\nYOUR_NAME, Voss'un daha fazla faaliyet göstermesine izin verilemez. Getirdiğin listeye göre Ölümadenleri'nde (the Deadmines) ikamet ediyor. Onu tasfiye et ve bana en yeni karışımından örnekler getir.",
     ["Objectives"]="Batıdiyar'daki (Westfall) Ölümadenleri'ne (Deadmines) sız ve Voss'un Cızırdıyan Karışımı'nı (Voss' Sizzling Brew) ele geçir.",
     ["Progress"]="Vakit kaybetme. Üstad Shaw kadar sabırlı değilimdir.",
-    ["Completion"]="Kezan madenleri aşkına! Bu berbat kokuyor. Bunu bir kez koklayan her yetişkin denizci anında yere serilir. YOUR_NAME, mükemmel iş. Operasyonların bu ucunu güvence altına almayı başarmış olsak da, tüm bu malzemeleri tam olarak nereden bulduklarını hâlâ araştırmamız gerekiyor; zira Venture Co.'nun sadece bir aracı olduğundan eminim. Yine de şu ana kadar harika iş çıkardın ve bunun için senin için bir ödülüm var. Beladan uzak dur maceracı, öldürüldüğünü görmek istemem.",
+    ["Completion"]="Kezan madenleri aşkına! Bu berbat kokuyor. Bunu bir kez koklayan her yetişkin denizci anında yere serilir. YOUR_NAME, mükemmel iş. Operasyonların bu ucunu güvence altına almayı başarmış olsak da, tüm bu malzemeleri tam olarak nereden bulduklarını hâlâ araştırmamız gerekiyor; zira Girişim Şti.(Venture Co.)'nun sadece bir aracı olduğundan eminim. Yine de şu ana kadar harika iş çıkardın ve bunun için senin için bir ödülüm var. Beladan uzak dur maceracı, öldürüldüğünü görmek istemem.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Turning Off The Tap
@@ -32848,11 +32844,11 @@ QuestTranslator_QuestData = {
     }, -- end In Memory of Franklin
 
 -- Bilgi İhtiyacı
-    -- Captain -> Kaptan. Booty Bay, Bloodsail Buccaneers -> Kanlıyel Korsanları. Bruisers -> Fedailer.
+    -- Captain -> Kaptan. Ganimet Koyu(Booty Bay), Bloodsail Buccaneers -> Kanlıyel Korsanları. Bruisers -> Fedailer.
     -- Grom'gol kalmıştır. Pazzle, Revilgaz, Baron Revilgaz kalmıştır. Encampment -> Ordugah.
     ["55029"] = {
     ["Title"]="Bilgi İhtiyacı",
-    ["Description"]="Oh, seni Kaptan mı gönderdi? Eh, bu bir rahatlama, neredeyse bir haftadır hiçbir haber alamadan buralarda boş boş oturuyoruz. Booty Bay dışına çıkmanın bir yolunu bulmaya başlamak üzereydim, ancak görünüşe göre bizi güvende tutan tek şey Fedailer (the Bruisers). Kanlıyel Korsanları (The Bloodsail Buccaneers), bir savaşta gemilerinden birini batırdığımızdan beri bizim ölmemizi istiyorlar. Şansları yaver gitti ve Grom'gol yakınlarında bize pusu kurdular diyelim! Hepimizin yok olmasını istiyorlar ve öyle görünüşe göre biz yok olana kadar da durmayacaklar. Kanlıyeller düzensiz bir gruptur ve merkezi olarak komuta edilmezler. Her ordugahın (encampment) veya geminin kendi mürettebatı ve kendi lideri vardır ve bizi avlayan bu grup bunu sadece o adamın kardeşini öldürdüğümüz için yapıyor. Eğer bir şey bilen biri varsa, o da Revilgaz'dır.",
+    ["Description"]="Oh, seni Kaptan mı gönderdi? Eh, bu bir rahatlama, neredeyse bir haftadır hiçbir haber alamadan buralarda boş boş oturuyoruz. Ganimet Koyu(Booty Bay) dışına çıkmanın bir yolunu bulmaya başlamak üzereydim, ancak görünüşe göre bizi güvende tutan tek şey Fedailer (the Bruisers). Kanlıyel Korsanları (The Bloodsail Buccaneers), bir savaşta gemilerinden birini batırdığımızdan beri bizim ölmemizi istiyorlar. Şansları yaver gitti ve Grom'gol yakınlarında bize pusu kurdular diyelim! Hepimizin yok olmasını istiyorlar ve öyle görünüşe göre biz yok olana kadar da durmayacaklar. Kanlıyeller düzensiz bir gruptur ve merkezi olarak komuta edilmezler. Her ordugahın (encampment) veya geminin kendi mürettebatı ve kendi lideri vardır ve bizi avlayan bu grup bunu sadece o adamın kardeşini öldürdüğümüz için yapıyor. Eğer bir şey bilen biri varsa, o da Revilgaz'dır.",
     ["Objectives"]="Baron Revilgaz ile konuş.",
     ["Progress"]="Evet?",
     ["Completion"]="Yine mi sen, bana Pazzle'ın başka bir şey istemek için geri geldiğini söyleme sakın.",
@@ -33041,12 +33037,12 @@ QuestTranslator_QuestData = {
     }, -- end Inquiring About Legend
 
 -- Ele Geçirilen Sevkiyat
-    -- Refined Gem Shipment -> İşlenmiş Mücevher Sevkiyatı. 'Slip' kalmıştır. Booty Bay.
+    -- Refined Gem Shipment -> İşlenmiş Mücevher Sevkiyatı. 'Slip' kalmıştır. Ganimet Koyu(Booty Bay).
     -- Gumption -> Atılganlık / Cesaret. Crate -> Sandık.
     ["40222"] = {
     ["Title"]="Ele Geçirilen Sevkiyat",
     ["Description"]="Selam, buralarda pek ziyaretçi görmeyiz, sanırım iş arıyorsun o halde. Bugün gelmiş olması gereken beklediğim bir sevkiyat var, gidip onu alabilir misin? Şöyle diyelim, rıhtım etrafında belirli kişilere görünmemem gerekiyor. Üzerinde benim adım yazmıyor olabilir ama 'İşlenmiş Mücevher Sevkiyatı' (Refined Gem Shipment) olarak etiketlenmiş olmalı. Oraya indiğinde hiç soru sormamaya çalış, sadece sandığı kap ve geri gel. Ne aradığını bilir gibi görünür ve özgüvenli olursan hiçbir soru sormazlar. Sen bana sandığı getir, ben de senin için daha çok iş bulayım.",
-    ["Objectives"]="Booty Bay'deki 'Slip' için 'İşlenmiş Mücevher Sevkiyatı'nı (Refined Gem Shipment) topla.",
+    ["Objectives"]="Ganimet Koyu(Booty Bay)'deki 'Slip' için 'İşlenmiş Mücevher Sevkiyatı'nı (Refined Gem Shipment) topla.",
     ["Progress"]="Bir gelişme var mı? Bütün gün bekleyemem.",
     ["Completion"]="Evet, işte bu; o sinir bozucu fareler beni durdurabileceklerini mi sandı? Hah! Güzel iş ahbap, kesinlikle epey cesarete (gumption) sahipsin.",
     ["minlevel"]="0",
@@ -33316,11 +33312,11 @@ QuestTranslator_QuestData = {
 
 -- Hepsi Batıyor
     -- Brightwater -> Berraksu (Gemi adı). Bloodsail Buccaneers -> Kanlıyel Korsanları. Starboard side -> Sancak tarafı.
-    -- Booty Bay, Revilgaz kalmıştır. Horde = Horde.
+    -- Ganimet Koyu(Booty Bay), Revilgaz kalmıştır. Horde = Horde.
     ["55026"] = {
     ["Title"]="Hepsi Batıyor",
-    ["Description"]="Hey önüne bak, ahbap! Şu an denizlerde yelken açmış en seçkin ve en güçlü gemilerden biri olan Berraksu'nun (the Brightwater) Kaptanına bakıyorsun... en azından Horde standartlarına göre! Ahh... O bir güzellikti; ta ki o lanet olası Kanlıyel Korsanları (Bloodsail Buccaneers) sancak tarafımıza (starboard side) bir salvo patlatıp bizi batırana kadar. Pek adil bir çatışma sayılmazdı doğrusu, ikiye tek bir angajmandı.\n\nMürettebatım hâlâ Booty Bay'de saklanmış durumda ve tam olarak nerede olduklarından emin değilim. Orada baron olan eski bir dostum Revilgaz'dan isteyebileceğim bir iyiliğim var. Ona seni benim gönderdiğimi söyle ve mürettebatımı bul.",
-    ["Objectives"]="Booty Bay limanına seyahat et ve Baron Revilgaz ile konuş.",
+    ["Description"]="Hey önüne bak, ahbap! Şu an denizlerde yelken açmış en seçkin ve en güçlü gemilerden biri olan Berraksu'nun (the Brightwater) Kaptanına bakıyorsun... en azından Horde standartlarına göre! Ahh... O bir güzellikti; ta ki o lanet olası Kanlıyel Korsanları (Bloodsail Buccaneers) sancak tarafımıza (starboard side) bir salvo patlatıp bizi batırana kadar. Pek adil bir çatışma sayılmazdı doğrusu, ikiye tek bir angajmandı.\n\nMürettebatım hâlâ Ganimet Koyu(Booty Bay)'de saklanmış durumda ve tam olarak nerede olduklarından emin değilim. Orada baron olan eski bir dostum Revilgaz'dan isteyebileceğim bir iyiliğim var. Ona seni benim gönderdiğimi söyle ve mürettebatımı bul.",
+    ["Objectives"]="Ganimet Koyu(Booty Bay) limanına seyahat et ve Baron Revilgaz ile konuş.",
     ["Progress"]="Yardımcı olabileceğim bir şey var mı?",
     ["Completion"]="Evet? Oh.... Seni O mu gönderdi? Ahmak, sikke karşılığında Horde'a yardımını sunmaya pek bir hevesliydi. Bölgedeki korsanları hafife aldı ve  kendini batırdı. Şimdi geçmiş bir zamandan kalan iyilik hakkını kullanmak istiyor, hah. Hadi şu işi bitirelim.",
     ["minlevel"]="0",
@@ -33785,12 +33781,12 @@ QuestTranslator_QuestData = {
 
 -- Uyum Peşinde
     -- Bael Hardul kalmıştır. Dwarf -> Cüce. Maloran Oakbranch -> Maloran Meşedalı (Oak + Branch).
-    -- Stonetalon Peak -> Taşpençe Tepesi. Whitepeak -> Beyaztepe. Venture Co. kalmıştır.
+    -- Stonetalon Peak -> Taşpençe Tepesi. Whitepeak -> Beyaztepe. Girişim Şti.(Venture Co.) kalmıştır.
     -- Deepmoss spiders -> Derinyosun örümcekleri (Deep + Moss). Pristine Deepmoss Brain -> Kusursuz Derinyosun Beyni.
     -- Stonetalon Mountains -> Taşpençe Dağları.
     ["40697"] = {
     ["Title"]="Uyum Peşinde",
-    ["Description"]="Yeni komşularımız kesinlikle oldukça ilginç bir grup. Buradaki Bael Hardul cüceleri (dwarves) ev sahipliği konusunda oldukça lütufkar davrandılar. Ben Maloran; doğal düzenin bozulmadığından emin olmak üzere gönderilen, Taşpençe Tepesi (Stonetalon Peak) adına bir temsilciyim. İlk geldiğimde temkinli yaklaştığımı itiraf etmeliyim, ancak şu ana kadar Beyaztepe (Whitepeak) oldukça saygıdeğer davrandı.\n\nBu durum beni asıl amaçlarımın peşinden gitmekte serbest bıraktı. Batımızda, aşağıda Venture Co. doğanın dokusuna belirsiz bir dehşet saçtı ve ben buralardaki Derinyosunların (Deepmoss) etkilenip etkilenmediğini görmek istiyorum. Batıya seyahat et ve bana bir Kusursuz Derinyosun Beyni (Pristine Deepmoss Brain) topla, onu inceleme için kullanacağım.",
+    ["Description"]="Yeni komşularımız kesinlikle oldukça ilginç bir grup. Buradaki Bael Hardul cüceleri (dwarves) ev sahipliği konusunda oldukça lütufkar davrandılar. Ben Maloran; doğal düzenin bozulmadığından emin olmak üzere gönderilen, Taşpençe Tepesi (Stonetalon Peak) adına bir temsilciyim. İlk geldiğimde temkinli yaklaştığımı itiraf etmeliyim, ancak şu ana kadar Beyaztepe (Whitepeak) oldukça saygıdeğer davrandı.\n\nBu durum beni asıl amaçlarımın peşinden gitmekte serbest bıraktı. Batımızda, aşağıda Girişim Şti.(Venture Co.) doğanın dokusuna belirsiz bir dehşet saçtı ve ben buralardaki Derinyosunların (Deepmoss) etkilenip etkilenmediğini görmek istiyorum. Batıya seyahat et ve bana bir Kusursuz Derinyosun Beyni (Pristine Deepmoss Brain) topla, onu inceleme için kullanacağım.",
     ["Objectives"]="Taşpençe Dağları'ndaki (Stonetalon Mountains) Bael Hardul'da bulunan Maloran Meşedalı (Maloran Oakbranch) için buralardaki Derinyosun örümceklerinden bir Kusursuz Derinyosun Beyni (Pristine Deepmoss Brain) topla.",
     ["Progress"]="Doğanın rahatsız edildiğinden zerre şüphe duymuyorum.",
     ["Completion"]="Şey, söylemeliyim ki kesinlikle benden istediğimin çok daha ötesine geçmişsin; bu oldukça kusursuz bir örnek ve çalışmalarımda bana yardımcı olacak.",
@@ -34380,11 +34376,11 @@ QuestTranslator_QuestData = {
 -- Şafaktaşının Efsanesi
     -- Dawnstone Ore -> Şafaktaşı Madeni / Şafaktaşı Cevheri (Dawn + Stone). Paladins -> Paladinler.
     -- Second War -> İkinci Savaş. Gilneas City -> Gilneas Şehri. Greymane Gate -> Greymane Kapısı.
-    -- Kurnen Oathbrace -> Kurnen Yeminkuşağı (Oath + Brace). Booty Bay, Undermine kalmıştır.
+    -- Kurnen Oathbrace -> Kurnen Yeminkuşağı (Oath + Brace). Ganimet Koyu(Booty Bay), Undermine kalmıştır.
     ["41120"] = {
     ["Title"]="Şafaktaşının Efsanesi",
     ["Description"]="Ah, evlat! Efsanevi Şafaktaşı Madeni'ni (Dawnstone Ore) duydun mu? Destansı boyutlarda bir hikayedir o! İkinci Savaş (Second War) sırasında cesur paladinlerimiz için zırh dövmede kullanılırdı. Gerçekten şanlı günlerdi!\n\nAma sana söyleyeyim, nadir bulunan bir şeydir o! Koca dünyada çıkarılabileceği tek bir yer var – Gilneas Şehri'nin (Gilneas City) altında gizlenmiş bir maden. Evet, orada aşağıda bir lanet ya da onun gibi gizemli bir şey var; bu değerli madeni yüzeye çıkaran bir şey. Ve babamın sakalı hakkı için, onun gerçek doğasını bilmek isteyeceğimi sanmıyorum.\n\nGörüyorsun ya, Greymane Kapısı (the Greymane Gate) bir kez daha açıldı ve Gilneas'taki siyasi karmaşa o madeni muhtemelen terk edilmiş halde bıraktı. Bu yüzden, Undermine'daki müşterilerim için onu toplamayı düşünüyorum. Eğer benim için on iki ağır Şafaktaşı Madeni parçası ele geçirebilirsen, kârın bir yüzdesini seninle paylaşmaya fazlasıyla razıyım. Ee, ne diyorsun? Anlaştık mı?",
-    ["Objectives"]="Booty Bay'deki Kurnen Yeminkuşağı'na (Kurnen Oathbrace) 12 parça Şafaktaşı Madeni (Dawnstone Ore) ulaştır. Maden sadece Gilneas'taki Şafaktaşı Madeni'nde bulunabilir.",
+    ["Objectives"]="Ganimet Koyu(Booty Bay)'deki Kurnen Yeminkuşağı'na (Kurnen Oathbrace) 12 parça Şafaktaşı Madeni (Dawnstone Ore) ulaştır. Maden sadece Gilneas'taki Şafaktaşı Madeni'nde bulunabilir.",
     ["Progress"]="Madeni hâlâ sağlam mı acaba merak ediyorum...",
     ["Completion"]="Ah, maden, tam da tahmin ettiğim gibi! Beni gururlandırdın evlat! Şimdi şu değerli taşları toparlayayım da onları Undermine yolculuğuna hazırlayayım. Ah, kâr düşüncesi bile beni neşeyle dolduruyor! Söz verdiğim gibi bir ödül hak ettin. Al, eğer gerekliyse bunu yanına al.",
     ["minlevel"]="0",
@@ -34507,13 +34503,13 @@ QuestTranslator_QuestData = {
     }, -- end Letter from Maltimor
 
 -- Çamurluçark'a Mektup
-    -- Venture Co. Goblins -> Venture Co. Goblinleri. Horde = Horde.
+    -- Girişim Şti.(Venture Co.) Goblins -> Girişim Şti.(Venture Co.) Goblinleri. Horde = Horde.
     -- Dustwallow Marsh -> Tozluvadi Bataklığı. Mudsprocket -> Çamurluçark (Mud + Sprocket).
     -- Undermine, South Dustwallow Marsh, Gazlowe kalmıştır. Dragon's lair -> Ejderhanın ini.
     -- Durotar Labor Union -> Durotar İşçi Sendikası.
     ["80390"] = {
     ["Title"]="Çamurluçark'a Mektup",
-    ["Description"]="Eski Venture Co. Goblinlerinden oluşan bir grup Horde'a katıldı. Bazıları Tozluvadi Bataklığı'nda (Dustwallow Marsh) şu an Çamurluçark (Mudsprocket) dedikleri bir kasabaya yerleşmeyi seçti; geçmiş günahları henüz affedilmemiş olsa da, patron benden para kazanmaya istekli olan herkesi bu mektubu oradaki yetkili kişiye teslim etmesi için göndermemi istiyor.\n\nUndermine'ın bunu nasıl karşılayacağına dair hiçbir fikrim yok ve açıkçası düşünmek de benim işim değil; her neyse, onları Güney Tozluvadi Bataklığı'nda bulacaksın, dikkat et de burayı Ejderhanın ini (Dragon's lair) ile karıştırma.\n\nKendine iyi bak, çocuk.",
+    ["Description"]="Eski Girişim Şti.(Venture Co.) Goblinlerinden oluşan bir grup Horde'a katıldı. Bazıları Tozluvadi Bataklığı'nda (Dustwallow Marsh) şu an Çamurluçark (Mudsprocket) dedikleri bir kasabaya yerleşmeyi seçti; geçmiş günahları henüz affedilmemiş olsa da, patron benden para kazanmaya istekli olan herkesi bu mektubu oradaki yetkili kişiye teslim etmesi için göndermemi istiyor.\n\nUndermine'ın bunu nasıl karşılayacağına dair hiçbir fikrim yok ve açıkçası düşünmek de benim işim değil; her neyse, onları Güney Tozluvadi Bataklığı'nda bulacaksın, dikkat et de burayı Ejderhanın ini (Dragon's lair) ile karıştırma.\n\nKendine iyi bak, çocuk.",
     ["Objectives"]="Mektubu Çamurluçark'ın (Mudsprocket) liderine ulaştır.",
     ["Progress"]="Durotar İşçi Sendikası (Durotar Labor Union), kulağa hoş geliyor, değil mi?",
     ["Completion"]="Bu da ne, Gazlowe'dan bir mektup mu?",
@@ -34796,11 +34792,11 @@ QuestTranslator_QuestData = {
 
 -- Ratchet'ta Kaybolanlar
     -- Monetary apocalypse -> Parasal kıyamet. Jewelry -> Mücevher, ring -> yüzük.
-    -- Port city -> Liman şehri. Ratchet, Booty Bay, Grizzby kalmıştır. Contractors -> Üstleniciler.
+    -- Port city -> Liman şehri. Ratchet, Ganimet Koyu(Booty Bay), Grizzby kalmıştır. Contractors -> Üstleniciler.
     -- Merchants -> Tüccarlar, auctioneers -> müzayedeciler. Cargo -> Kargo / Yük. Barrens = Çoraklar.
     ["41303"] = {
     ["Title"]="Ratchet'ta Kaybolanlar",
-    ["Description"]="Bir felaket, işte tam olarak bu! Parasal bir kıyamet (monetary apocalypse) üzerimde; adım lekelendi ve şöhretim gitti. Kıymetli mücevherlerim Booty Bay'deki bir müzayedeye doğru yola çıkmıştı, aralarında özellikle değerli ve ağır bir yüzük de vardı. Liman şehrine (port city) güvenle ulaştığına inanarak, Ratchet'tan hiç ayrılmadığını bilmeden, çok fazla düşünmeden işime devam ettim! Şimdi saygın tüccarların (merchants) ve müzayedecilerin (auctioneers) alay konusuyum, yetersizliğime gülüp duruyorlar.\n\nAhbap, bu açmazı çözmemde bana yardımcı olabilir misin? Güvendiğim üstlenicim Grizzby hiçbir yerde görünmüyor ve paha biçilemez eserlerimi kaybetmeyi göze alamam. Elimizde hiçbir ipucu olmadığından, bilgi almak için Ratchet etrafına sormak en iyisi olabilir.",
+    ["Description"]="Bir felaket, işte tam olarak bu! Parasal bir kıyamet (monetary apocalypse) üzerimde; adım lekelendi ve şöhretim gitti. Kıymetli mücevherlerim Ganimet Koyu(Booty Bay)'deki bir müzayedeye doğru yola çıkmıştı, aralarında özellikle değerli ve ağır bir yüzük de vardı. Liman şehrine (port city) güvenle ulaştığına inanarak, Ratchet'tan hiç ayrılmadığını bilmeden, çok fazla düşünmeden işime devam ettim! Şimdi saygın tüccarların (merchants) ve müzayedecilerin (auctioneers) alay konusuyum, yetersizliğime gülüp duruyorlar.\n\nAhbap, bu açmazı çözmemde bana yardımcı olabilir misin? Güvendiğim üstlenicim Grizzby hiçbir yerde görünmüyor ve paha biçilemez eserlerimi kaybetmeyi göze alamam. Elimizde hiçbir ipucu olmadığından, bilgi almak için Ratchet etrafına sormak en iyisi olabilir.",
     ["Objectives"]="Çoraklar'daki (The Barrens) Ratchet'a seyahat et ve etraftakilere Grizzby'nin ve kargosunun nerede olduğunu sor.",
     ["Progress"]=" ",
     ["Completion"]="Grizzby mi? Hayır, Ratchet'tan ayrılmadı, en azından tekneyle gitmedi. Ama buraya kadar ulaştı, orası kesin.",
@@ -35007,12 +35003,12 @@ QuestTranslator_QuestData = {
     -- Head -> Kafa. Courageous -> Cesur, run -> kaçış. Jaguero Island = Jaguero Adası.
     -- Asset -> Varlık / Kazanç, crew -> mürettebat, crewmate -> mürettebat arkadaşı.
     -- Statement -> Beyan / Durumunu belli etme. Blackwater Raiders -> Karasu Akıncıları.
-    -- Booty Bay = Booty Bay. Expendable -> Gözden çıkarılabilir.
+    -- Ganimet Koyu(Booty Bay) = Ganimet Koyu(Booty Bay). Expendable -> Gözden çıkarılabilir.
     ["40180"] = {
     -- Shiver me timbers -> Vay canına / Direklerim çatırdasın (Korsan nidası). Idiots -> Aptallar. Welcome aboard -> Aramıza hoş geldin.
     ["Title"]="Durumunu Belli Etmek",
     ["Description"]="Al dostum, Morgan'ın kafasını bu Neşeli Roger'ın (Jolly Roger) içine koy. Bir sonraki yapacağın şeyden hoşlanmayacaksın ama bu sadece ne kadar çılgın ve cesur (courageous) olduğunu kanıtlayacak. Kafayı Baron'un ve Süvari'nin (First Mate) ayaklarının dibine fırlatacak ve oradan hızla kaçacaksın (run)! Bizi Jaguero Adası'nda (Jaguero Island) bulacaksın; umarım oraya canlı ulaşırsın, mürettebata büyük bir kazanç (asset) olursun. Eğer gelirsen, seni resmi olarak mürettebat arkadaşı (crewmate) yapacağım.",
-    ["Objectives"]="Durumunu belli et (Make a statement).NEW_LINE(Bu eylem Karasu Akıncıları'nı (Blackwater Raiders) ve Booty Bay'i sana düşman yapacaktır, eğer hayatın gözden çıkarılabilir (expendable) değilse bu göreve kalkışma.)",
+    ["Objectives"]="Durumunu belli et (Make a statement).NEW_LINE(Bu eylem Karasu Akıncıları'nı (Blackwater Raiders) ve Ganimet Koyu(Booty Bay)'i sana düşman yapacaktır, eğer hayatın gözden çıkarılabilir (expendable) değilse bu göreve kalkışma.)",
     ["Progress"]="Vay canına (Shiver me timbers), gerçekten başarmışsın. Delirdiler mi?",
     ["Completion"]="Haha aptallar (idiots)! Şimdi bir dahaki sefere bizimle uğraşmaya kalktıklarında ne olacağını biliyorlar, harika iş. Ve aramıza hoş geldin (welcome aboard).",
     ["minlevel"]="0",
@@ -35819,13 +35815,13 @@ QuestTranslator_QuestData = {
 -- İşe Yaramaz Değil!
     -- Nash, Nert kalmıştır. Pockets -> Cepler. Backstory time -> Geçmiş hikaye zamanı. Tax -> Vergi.
     -- Senior Foreman Nazz Firecracker -> Kıdemli Ustabaşı Nazz Maytap kalmıştır. Powder Town -> Barut Kasabası.
-    -- Stonetalon Mountains = Stonetalon Dağları. Venture Co. / Venture Co. Employees -> Venture Co. Çalışanları.
+    -- Stonetalon Mountains = Stonetalon Dağları. Girişim Şti.(Venture Co.) / Girişim Şti.(Venture Co.) Employees -> Girişim Şti.(Venture Co.) Çalışanları.
     -- Blacksand Oil Fields -> Karakum Petrol Sahaları (Black + Sand + Oil + Fields). Info -> Bilgi, info -> bilgi.
     -- Dagger -> Hançer. Maggots -> Kurtçuklar.
     ["40639"] = {
     ["Title"]="İşe Yaramaz Değil!",
-    ["Description"]='Selam çocuk, gerçek bir iş yapmaya hazır mısın? Benim gözetimim altında olacaksın; yerinde olsam ceplerimin (pockets) ne kadar büyük olduğu konusunda endişelenirdim, çünkü eğer yeterince iyi bir iş çıkarıyorsan onları doldurmak üzereyim. Geçmiş hikaye zamanı (backstory time). Bendenizden bir not; çoğu zaman söylemek üzere olduğum şeyler dinleyici için cümle başına bir vergi (tax) gerektirir, ancak  Nert\'ten geldiğin için bunu, eh, görmezden gelmeye razıyım. Her neyse, nerede kalmıştım, ah evet. Kendi dönemimde Undermine\'da büyük bir adamdım; kendi amaçlarım uğruna aldatmayacağım, yalan söylemeyeceğim, öldürmeyeceğim veya çalmayacağım hiç kimse, bak hiç kimse yoktu! <Nash ellerini ovuşturur ve tenin ürpermeye başlarken kendi kendine sessizce kıkırdar.> Yok canım, endişelenme çocuk, o günler geride kaldı. Demek istediğim, ben ve Venture Co.\'nun bir geçmişi var ve özellikle de petrol sahalarını denetlemesi için gönderdikleri bu aptalla. Git şu aptallardan birkaçını patakla ve onlar hakkında herhangi bir bilgi (info) bulup bulamayacağına bak.',
-    ["Objectives"]="Karakum Petrol Sahaları (Blacksand Oil Fields) çevresinde bulunan Venture Co. Çalışanlarından bilgi topla ve bunu Taşpençe Dağları'ndaki (Stonetalon Mountains) Barut Kasabası'nda (Powder Town) bulunan Kıdemli Ustabaşı Nazz Firecracker'a ulaştır.",
+    ["Description"]='Selam çocuk, gerçek bir iş yapmaya hazır mısın? Benim gözetimim altında olacaksın; yerinde olsam ceplerimin (pockets) ne kadar büyük olduğu konusunda endişelenirdim, çünkü eğer yeterince iyi bir iş çıkarıyorsan onları doldurmak üzereyim. Geçmiş hikaye zamanı (backstory time). Bendenizden bir not; çoğu zaman söylemek üzere olduğum şeyler dinleyici için cümle başına bir vergi (tax) gerektirir, ancak  Nert\'ten geldiğin için bunu, eh, görmezden gelmeye razıyım. Her neyse, nerede kalmıştım, ah evet. Kendi dönemimde Undermine\'da büyük bir adamdım; kendi amaçlarım uğruna aldatmayacağım, yalan söylemeyeceğim, öldürmeyeceğim veya çalmayacağım hiç kimse, bak hiç kimse yoktu! <Nash ellerini ovuşturur ve tenin ürpermeye başlarken kendi kendine sessizce kıkırdar.> Yok canım, endişelenme çocuk, o günler geride kaldı. Demek istediğim, ben ve Girişim Şti.(Venture Co.)\'nun bir geçmişi var ve özellikle de petrol sahalarını denetlemesi için gönderdikleri bu aptalla. Git şu aptallardan birkaçını patakla ve onlar hakkında herhangi bir bilgi (info) bulup bulamayacağına bak.',
+    ["Objectives"]="Karakum Petrol Sahaları (Blacksand Oil Fields) çevresinde bulunan Girişim Şti.(Venture Co.) Çalışanlarından bilgi topla ve bunu Taşpençe Dağları'ndaki (Stonetalon Mountains) Barut Kasabası'nda (Powder Town) bulunan Kıdemli Ustabaşı Nazz Firecracker'a ulaştır.",
     ["Progress"]="Acele et ahbap, bu hançeri (dagger) bilemeyi bitirmemi istemezsin.",
     ["Completion"]="İşe yaramaz, tekrar ediyorum: İŞE YARAMAZ DEĞİL. Bunu duyuyor musunuz sizi lanet olası kurtçuklar (maggots)? <Nazz bütün kasabanın duyması için bağırır.> TEKRAR SÖYLÜYORUM, İŞE YARAMAZ DEĞİL! SİZİN GRUBUN AKSİNE.",
     ["minlevel"]="0",
@@ -36243,14 +36239,14 @@ QuestTranslator_QuestData = {
 
 -- Asıl Sahibi
     -- Sweetcheeks -> Tatlı yanak (Argo hitap). Pirate -> Korsan, Bannor kalmıştır. Double-cross -> Aldatmak / Kazık atmak.
-    -- Plates -> Levhalar / Plakalar. Locket -> Madalyon. Island -> Ada, Booty Bay = Booty Bay.
+    -- Plates -> Levhalar / Plakalar. Locket -> Madalyon. Island -> Ada, Ganimet Koyu(Booty Bay) = Ganimet Koyu(Booty Bay).
     -- Black Rose -> Kara Gül. Bargain -> Anlaşma / Pazarlık. Magellas kalmıştır. Royal treasury -> Kraliyet hazinesi, Stormwind = Fırtınayeli.
     -- Menial task -> Önemsiz iş / Angarya.
     ["40101"] = {
     -- Misbegotten afterlife -> Hak edilmemiş öbür dünya. Rotting -> Çürümek.
     ["Title"]="Asas Sahibi",
     ["Description"]="Anlaşma şu, tatlı yanak (sweetcheeks). Bir zamanlar, çok da uzun zaman önce olmayan bir tarihte, Bannor adında pek de akıllı olmayan bir korsan (pirate) bana kazık atabileceğini (double-cross) ve bundan paçayı kurtarabileceğini sandı.\n\nGörüyorsun ya, hiç kimse bana kazık atamaz. Bu yüzden kıymetli levhalarının (plates) yerini bulmam karşılığında, onun zavallı hayatına son vermeni ve madalyonumu (locket) kibarlıkla onun zilyetliğinden geri almanı istiyorum.\n\nBuranın doğusundaki bir adada kampı var, bu yüzden onu büyük olasılıkla orada bulacaksın. Ve endişelenme, sen dönene kadar aradığın şeye sahip olacağım. Ee, anlaştık mı?",
-    ["Objectives"]="Booty Bay'in (Booty Bay) doğusundaki adayı ara ve korsan Bannor'dan Vess'in madalyonunu (locket) geri al.",
+    ["Objectives"]="Ganimet Koyu(Booty Bay)'in (Ganimet Koyu(Booty Bay)) doğusundaki adayı ara ve korsan Bannor'dan Vess'in madalyonunu (locket) geri al.",
     ["Progress"]="Hâlâ burada mısın? Bana birkaç korsandan korktuğunu söyleme.",
     ["Completion"]="Senin ve Magellas'ın, beni o lanet olası levhaların peşinden göndererek neyin içine soktuğunuzu bilmediğinizi varsayacağım. Bana Bannor gibi angarya bir iş (menial task) vermek yerine seni Fırtınayeli'nin (Stormwind) kraliyet hazinesini (royal treasury) soymaya göndermeliydim. Ancak bir anlaşma anlaşmadır ve Kara Gül (the Black Rose) her zaman pazarlığın (bargain) kendi üzerine düşen payını yerine getirir.",
     ["minlevel"]="0",
@@ -36405,13 +36401,13 @@ QuestTranslator_QuestData = {
 }, -- end To Find the Heart
 
 -- Klazfit kalmıştır. Leper gnome -> Cüzzamlı gnom. Chum -> Ahbap.
--- Blacksand Oil Fields -> Karakum Petrol Sahaları. Venture Co. = Venture Co.
+-- Blacksand Oil Fields -> Karakum Petrol Sahaları. Girişim Şti.(Venture Co.) = Girişim Şti.(Venture Co.)
 -- Spare parts -> Yedek parçalar. Technician Steelbolt -> Teknisyen Çelikcıvata kalmıştır.
 -- Powder Town -> Barut Kasabası, Stonetalon Mountains = Stonetalon Dağları.
 -- Shredder -> Parçalayıcı (Mühendislik robotu binek/yaratık türü).
 ["40634"] = {
 ["Title"]="Bir İki Parçalayıcıyı Tamir Etmek İçin",
-["Description"]='BU. BENİM. SÖZLEŞMEMDE. YOKTU.\n\nİnanılmaz bir rezillik!\n\nBuraya gelmek ve çalışacak hiçbir şey olmadığını öğrenmek için savanayı ve bu tozlu kırmızı kayayı emekleyerek geçmek zorunda mı kaldım? Klazfit beni şu sözlerle karşıladı: "Bununla idare et çocuk. Yapacak bir işin var çocuk." Cüzzamlı bir gnomun (leper gnome) oğlu!\n\nBunu söylediğimi ona söyleme. Bu iyi, sorun değil, her şey yolunda. Bu -HİÇ- iyi değil! Dinle beni ahbap (chum), bir şeyler yapmalısın. Karakum Petrol Sahaları (Blacksand Oil Fields), etrafta yatan bir sürü yedek parça, tam klasik Venture Co. (Venture Co.) işi. Bana taşıyabileceğin kadar çok şey getir, karşılığını cömertçe alacaksın.',
+["Description"]='BU. BENİM. SÖZLEŞMEMDE. YOKTU.\n\nİnanılmaz bir rezillik!\n\nBuraya gelmek ve çalışacak hiçbir şey olmadığını öğrenmek için savanayı ve bu tozlu kırmızı kayayı emekleyerek geçmek zorunda mı kaldım? Klazfit beni şu sözlerle karşıladı: "Bununla idare et çocuk. Yapacak bir işin var çocuk." Cüzzamlı bir gnomun (leper gnome) oğlu!\n\nBunu söylediğimi ona söyleme. Bu iyi, sorun değil, her şey yolunda. Bu -HİÇ- iyi değil! Dinle beni ahbap (chum), bir şeyler yapmalısın. Karakum Petrol Sahaları (Blacksand Oil Fields), etrafta yatan bir sürü yedek parça, tam klasik Girişim Şti.(Venture Co.) (Girişim Şti.(Venture Co.)) işi. Bana taşıyabileceğin kadar çok şey getir, karşılığını cömertçe alacaksın.',
 ["Objectives"]="Taşpençe Dağları'ndaki (Stonetalon Mountains) Barut Kasabası'nda (Powder Town) bulunan Teknisyen Steelbolt'a 30 Yedek Parça (Spare Parts) ulaştır.",
 ["Progress"]="Hiç parça olmadan bir değil tam -İKİ- parçalayıcıyı (shredders) nasıl tamir etmem bekleniyor?!?",
 ["Completion"]="Tantana, şimdi gerçekten çalışmam gerekecek.\n\nEvet, evet, işte ödemen.",
@@ -36735,12 +36731,12 @@ QuestTranslator_QuestData = {
 
 -- VIP Invites
     -- Beach party -> Plaj partisi. Trade princes -> Ticaret prensleri. Special invitations -> Özel davetiyeler.
-    -- Trade Prince Gazlowe -> Ticaret Prensi Gazlowe, Ratchet = Ratchet. Baron Revilgaz, Booty Bay = Booty Bay.
+    -- Trade Prince Gazlowe -> Ticaret Prensi Gazlowe, Ratchet = Ratchet. Baron Revilgaz, Ganimet Koyu(Booty Bay) = Ganimet Koyu(Booty Bay).
     -- Gold -> Altın, pockets -> cepler. Risa kalmıştır. Beach front -> Sahil kenarı.
     ["80382"] = {
     ["Title"]="VIP Davetiyeleri",
-    ["Description"]="Birkaç ticaret prensi olmadan bir plaj partisi neye yarardı ki, ha? Bu etkinlikte büyük isimlere ihtiyacım var, aksi takdirde tam bir fiyasko olur! NEW_LINEEn şık kıyafetlerini giy ve bu özel davetiyeleri Ratchet'taki Ticaret Prensi Gazlowe'a ve Booty Bay'deki Baron Revilgaz'a ulaştır. NEW_LINEEğer gelirlerse, diğerlerinin de takip edeceğinden emin olabilirsin. Sahilde daha fazla beden, ceplerimi dolduran daha fazla altın demektir, anladın mı? Karşılığında sana gerçekten güzel bir şey vereceğim.",
-    ["Objectives"]="Risa'nın plaj partisi davetiyelerini Ratchet'taki Gazlowe'a ve Booty Bay'deki Baron Revilgaz'a ulaştır.",
+    ["Description"]="Birkaç ticaret prensi olmadan bir plaj partisi neye yarardı ki, ha? Bu etkinlikte büyük isimlere ihtiyacım var, aksi takdirde tam bir fiyasko olur! NEW_LINEEn şık kıyafetlerini giy ve bu özel davetiyeleri Ratchet'taki Ticaret Prensi Gazlowe'a ve Ganimet Koyu(Booty Bay)'deki Baron Revilgaz'a ulaştır. NEW_LINEEğer gelirlerse, diğerlerinin de takip edeceğinden emin olabilirsin. Sahilde daha fazla beden, ceplerimi dolduran daha fazla altın demektir, anladın mı? Karşılığında sana gerçekten güzel bir şey vereceğim.",
+    ["Objectives"]="Risa'nın plaj partisi davetiyelerini Ratchet'taki Gazlowe'a ve Ganimet Koyu(Booty Bay)'deki Baron Revilgaz'a ulaştır.",
     ["Progress"]="Acele et yoksa tarzımı bozarsın! Bu adamların, davetiyelerini en sona bıraktığımı düşünmelerini istemiyorum.",
     ["Completion"]="Harika, partim ortalığı kasıp kavuracak! Bu çocukların ne tür bir nüfuz getireceğini görmek için sabırsızlanıyorum. Eğer gerçekten yüksekten oynayan tiplerse, koca bir bar dolusu içki satın alırlar. Yardımın için tekrar teşekkürler. Neden bu güzel sahil kenarında bize katılmıyorsan? Ama bu görünüşle değil tabii. Benimle takılmak için doğru dikişlere sahip olmalısın. Bunları al ve üzerine geçir.",
     ["minlevel"]="0",
@@ -36874,12 +36870,12 @@ QuestTranslator_QuestData = {
 
 -- WANTED: Shazknock!
     -- Shazknock, Tradesman Laz -> Esnaf Laz kalmıştır. Sparkwater Port -> Kıvılcımlısu Limanı.
-    -- Union -> Birlik / Sendika, trade secrets -> ticari sırlar. Venture Co. = Venture Co.
+    -- Union -> Birlik / Sendika, trade secrets -> ticari sırlar. Girişim Şti.(Venture Co.) = Girişim Şti.(Venture Co.)
     -- Boulderlode Mine -> Boulder Lode Madeni. Great Hall -> Büyük Salon.
     -- Rat -> Fare, order -> düzen. Experience -> Deneyim, reputation -> itibar.
     ["55049"] = {
     ["Title"]="ARANIYOR: Shazknock!",
-    ["Description"]="Shazknock; Kıvılcımlısu Limanı'na (Sparkwater Port) karşı suç işlemekten, hayati bilgileri paylaşmaktan ve birliğin ticari sırlarını (trade secrets) Venture Co.'ya sızdırmaktan aranıyor. Sızdırdığı bilgilerle kendisine Müdürlük pozisyonu garantiledi. Bu adamı Boulder Lode Madeni'ndeki (Boulder Lode Mine) Büyük Salon'da (Great Hall) bulunan yeni görevinde bul ve onu katlet. Ödülünü almak için Esnaf Laz'a (Tradesman Laz) git.NEW_LINE        NEW_LINE        NEW_LINE                    İlerlemeNEW_LINE            Şimdi ne var?NEW_LINE        NEW_LINE                    TamamlamaNEW_LINE            Senin gibi insanların dünyaya düzen dağıttığını görmek güzel, etrafta bir farenin eksilmesi hepimiz için daha iyi. Al bakalım, iyi iş için bir ödül; Laz iyi işin karşılığını her zaman öder.NEW_LINE        NEW_LINE                    KazançlarNEW_LINE            Görevler tamamlandığında şunları alırsınız:NEW_LINE            1695 Deneyim 75 İtibar (Şununla: ) NEW_LINEAyrıca bakınız",
+    ["Description"]="Shazknock; Kıvılcımlısu Limanı'na (Sparkwater Port) karşı suç işlemekten, hayati bilgileri paylaşmaktan ve birliğin ticari sırlarını (trade secrets) Girişim Şti.(Venture Co.)'ya sızdırmaktan aranıyor. Sızdırdığı bilgilerle kendisine Müdürlük pozisyonu garantiledi. Bu adamı Boulder Lode Madeni'ndeki (Boulder Lode Mine) Büyük Salon'da (Great Hall) bulunan yeni görevinde bul ve onu katlet. Ödülünü almak için Esnaf Laz'a (Tradesman Laz) git.NEW_LINE        NEW_LINE        NEW_LINE                    İlerlemeNEW_LINE            Şimdi ne var?NEW_LINE        NEW_LINE                    TamamlamaNEW_LINE            Senin gibi insanların dünyaya düzen dağıttığını görmek güzel, etrafta bir farenin eksilmesi hepimiz için daha iyi. Al bakalım, iyi iş için bir ödül; Laz iyi işin karşılığını her zaman öder.NEW_LINE        NEW_LINE                    KazançlarNEW_LINE            Görevler tamamlandığında şunları alırsınız:NEW_LINE            1695 Deneyim 75 İtibar (Şununla: ) NEW_LINEAyrıca bakınız",
     ["Objectives"]="Boulder Lode Madeni'nde (Boulder Lode Mine) Shazknock'ı bul ve katlet.",
     ["Progress"]="Şimdi ne var?",
     ["Completion"]="Senin gibi insanların dünyaya düzen dağıttığını görmek güzel, etrafta bir farenin eksilmesi hepimiz için daha iyi. Al bakalım, iyi iş için bir ödül; Laz iyi işin karşılığını her zaman öder.",
@@ -37574,12 +37570,12 @@ QuestTranslator_QuestData = {
 
 -- Razlik's Tools
     -- Razlik kalmıştır. Kezan = Kezan. Assistant -> Asistan, silver -> gümüş. Goblins -> goblinler.
-    -- Oil platform -> Petrol platformu, Venture Co. = Venture Co. Tools -> Aletler.
+    -- Oil platform -> Petrol platformu, Girişim Şti.(Venture Co.) = Girişim Şti.(Venture Co.) Tools -> Aletler.
     -- Sea sucker -> Deniz asalağı. Silver -> Gümüş, port -> liman. Kid -> Çocuk.
     -- Mucking up -> Kirletmek / Berbat etmek. No hard feelings -> Alınmaca gücenmece yok.
     ["55000"] = {
     ["Title"]="Razlik'in Aletleri",
-    ["Description"]="Hey, sen! Evet, sen! Çözülmesi gereken bir sorunum var ve sana söyleyeyim, kendi kendine tekrar çalışmayı bekleyip öylece oturmayacağı kesin! Şu an cennette yaşıyoruz ama bilirsin goblinlerin (goblins) nasıl çalıştığını; er ya da geç, öyle ya da böyle kendimizi yine o petrol platformunda (oil platform) bulacağız. Mesele şu ki, orada yukarıda, ta eski Venture Co. (Venture Co.) günlerinden kalma bir takım aletlerim var. Onlara alışkınım, anlarsın ya; en son istediğim şey bir deniz asalağının (sea sucker) onlara vurup sonsuza dek kaybolmaları için suya düşürmesidir. Yukarı çık, aletlerimi bul ve birkaç gümüş (silver) kazan, ne diyorsun çocuk (kid)?",
+    ["Description"]="Hey, sen! Evet, sen! Çözülmesi gereken bir sorunum var ve sana söyleyeyim, kendi kendine tekrar çalışmayı bekleyip öylece oturmayacağı kesin! Şu an cennette yaşıyoruz ama bilirsin goblinlerin (goblins) nasıl çalıştığını; er ya da geç, öyle ya da böyle kendimizi yine o petrol platformunda (oil platform) bulacağız. Mesele şu ki, orada yukarıda, ta eski Girişim Şti.(Venture Co.) (Girişim Şti.(Venture Co.)) günlerinden kalma bir takım aletlerim var. Onlara alışkınım, anlarsın ya; en son istediğim şey bir deniz asalağının (sea sucker) onlara vurup sonsuza dek kaybolmaları için suya düşürmesidir. Yukarı çık, aletlerimi bul ve birkaç gümüş (silver) kazan, ne diyorsun çocuk (kid)?",
     ["Objectives"]="Limanın doğusundaki Petrol Platformu'nda (Oil Platform) Razlik'in kayıp aletlerini bul.",
     ["Progress"]="Onları aldın mı henüz? Yoksa sadece öylece bekliyor musun?",
     ["Completion"]="Nihayet, korkmaya başlamıştım, onları kaybettiğimi düşünmüştüm! Yine de hatırladığımdan biraz daha kirliler; aletlerimi berbat ettiğin (mucking up) için bir gümüş eksik alacaksın, alınmaca gücenmece yok (no hard feelings)!",
@@ -37755,10 +37751,10 @@ QuestTranslator_QuestData = {
     -- Garfield 'The Fox' Sparkleblast -> Garfield 'Tilki' Kıvılcımpatlaması kalmıştır.
     -- Sea -> Deniz, rum -> rom. Pirates -> Korsanlar. Corsair -> Korsan / Forsalar.
     -- Bloodsail Buccaneers -> Kanlıyel Haydutları (Bloodsail Buccaneers).
-    -- Booty Bay -> Ganimet Koyu (Booty Bay). Savvy -> Anlarsın ya / Kaptın mı?
+    -- Ganimet Koyu(Booty Bay) -> Ganimet Koyu (Ganimet Koyu(Booty Bay)). Savvy -> Anlarsın ya / Kaptın mı?
     ["40172"] = {
     ["Title"]="Deniz Üzerindeki Kızıl Bayrak",
-    ["Description"]="Selam dostum, güzel bir gün, değil mi?\n\n<Garfield derin bir nefes alır.>\n\nEvet, denizin o tuzlu kokusunun zorla burun deliklerine girmesi, dün geceki romdan (rum) kalan ağız kuruluğu ve şu yerel bar kavgasından aldığın o büyük baş ağrısı ile acı. Bundan daha iyi bir hayat yoktur dostum, bunu sana söylerim. Ama bu şehir çok sıkıcı. Gerçek korsanlar (pirates) olmadıklarını düşünüyorum. Eğer maceralarını gerçekten denizde yaşamak ve bir Korsan (Corsair) olmanın gerçekte nasıl bir şey olduğunu görmek istiyorsan gel ve bana ve mübtezel mürettebata katıl!\n\nBen Kanlıyel Haydutları'nın (Bloodsail Buccaneers) bir mürettebat üyesiyim ve bize katılacak yeni insanlar arıyorum. Ganimet Koyu'nun (Booty Bay) can düşmanıyız, bu yüzden bu küçük parçayı kendine sakla, tamam mı? Eğer bize katılmaya karar verirsen senin için bir görevim var, eğer katılmazsan, hiç tanışmadık, kaptın mı (savvy)?",
+    ["Description"]="Selam dostum, güzel bir gün, değil mi?\n\n<Garfield derin bir nefes alır.>\n\nEvet, denizin o tuzlu kokusunun zorla burun deliklerine girmesi, dün geceki romdan (rum) kalan ağız kuruluğu ve şu yerel bar kavgasından aldığın o büyük baş ağrısı ile acı. Bundan daha iyi bir hayat yoktur dostum, bunu sana söylerim. Ama bu şehir çok sıkıcı. Gerçek korsanlar (pirates) olmadıklarını düşünüyorum. Eğer maceralarını gerçekten denizde yaşamak ve bir Korsan (Corsair) olmanın gerçekte nasıl bir şey olduğunu görmek istiyorsan gel ve bana ve mübtezel mürettebata katıl!\n\nBen Kanlıyel Haydutları'nın (Bloodsail Buccaneers) bir mürettebat üyesiyim ve bize katılacak yeni insanlar arıyorum. Ganimet Koyu'nun (Ganimet Koyu(Booty Bay)) can düşmanıyız, bu yüzden bu küçük parçayı kendine sakla, tamam mı? Eğer bize katılmaya karar verirsen senin için bir görevim var, eğer katılmazsan, hiç tanışmadık, kaptın mı (savvy)?",
     ["Objectives"]="Ona yardım etmek istiyorsan Garfield 'Tilki' Kıvılcımpatlaması (Garfield 'The Fox' Sparkleblast) ile konuş.\n\nNEW_LINE(Bu, Kanlıyel Haydutları'nın artık seni bir düşman olarak görmemesini sağlayacaktır.)",
     ["Progress"]="Vaktimi boşa harcama dostum, burada güneşin ve şu güzel romun tadını çıkarmaya çalışıyorum.",
     ["Completion"]="Aramıza hoş geldin demek isterdim ama henüz mürettebat üyesi olmaya hazır değilsin, önce bize bir iyilik yapmalısın.",
@@ -38018,14 +38014,14 @@ QuestTranslator_QuestData = {
 -- Return to Port!
     -- Basement -> Bodrum, cheap liquor -> ucuz içki, expensive stuff -> pahalı şeyler.
     -- Sparkwater Port -> Kıvılcımsuyu Limanı (Sparkwater + Port). Captain -> Kaptan, ship -> gemi.
-    -- Pazzle Brightwrench -> Pazzle Parlakanahtar kalmıştır. Booty Bay = Ganimet Koyu.
+    -- Pazzle Brightwrench -> Pazzle Parlakanahtar kalmıştır. Ganimet Koyu(Booty Bay) = Ganimet Koyu.
     -- Revilgaz kalmıştır. Cutlass -> Pala (Korsan kılıcı). Swashbuckling -> Silahşörlük / Korsanlık maceraları.
     ["55051"] = {
     ["Title"]="Limana Geri Dön!",
     ["Description"]="Sonunda bittiğine inanamıyorum, heh. Artık bu bodrumda (basement) oturup ucuz içkiyle (cheap liquor) sarhoş olmak yok, şimdi kutlama olarak pahalı şeylerle bir sahilde oturabilirim! Gerçek bir zevkti YOUR_NAME ve sen olmasan bunu başaramazdık. Kıvılcımsuyu Limanı'na (Sparkwater Port) git, Kaptan'a bizi oraya götürecek bir gemi organize edebildiğimizde geri döneceğimizi bildir. Bize yardım ettiğin için sana bir tür ödül vereceğinden emin olmalı, kesinlikle.",
     ["Objectives"]="Güzel haberleri Kıvılcımsuyu Limanı'ndaki (Sparkwater Port) Pazzle Brightwrench'e bildir.",
     ["Progress"]="Yardımcı olabilir miyim?",
-    ["Completion"]="Şey, kesinlikle epey zaman oldu, Ganimet Koyu'ndan (Booty Bay) güzel bir haberin var mı? Oh, geri mi dönüyorlar? Oh ve Revilgaz altüst oldu, ha? Onu suçlamıyorum, heh. Mürettebatımı bilinmeyen bir kaderden kurtardın ve bunun için sana teşekkür ederim, YOUR_NAME. Lütfen bu palayı (cutlass) al, eğer gemi gittiyse korsanlık maceraları (swashbuckling) yapmanın bir anlamı yok.",
+    ["Completion"]="Şey, kesinlikle epey zaman oldu, Ganimet Koyu'ndan (Ganimet Koyu(Booty Bay)) güzel bir haberin var mı? Oh, geri mi dönüyorlar? Oh ve Revilgaz altüst oldu, ha? Onu suçlamıyorum, heh. Mürettebatımı bilinmeyen bir kaderden kurtardın ve bunun için sana teşekkür ederim, YOUR_NAME. Lütfen bu palayı (cutlass) al, eğer gemi gittiyse korsanlık maceraları (swashbuckling) yapmanın bir anlamı yok.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Return to Port!
@@ -38132,13 +38128,13 @@ QuestTranslator_QuestData = {
 
 -- Rich and Convicted
     -- Warchief's thugs -> Savaşşefinin haydutları. Marlos Catos kalmıştır.
-    -- Booty Bay -> Ganimet Koyu (Booty Bay), free trade port -> serbest ticaret limanı.
+    -- Ganimet Koyu(Booty Bay) -> Ganimet Koyu (Ganimet Koyu(Booty Bay)), free trade port -> serbest ticaret limanı.
     -- Shell Co. -> Kabuk Şirketi. Mr Tusk -> Bay Diş kalmıştır.
     -- Shellcoin -> Kabukpara (Kripto para esprisi içeren özel terim). Taxation -> Vergilendirme.
     ["39984"] = {
     ["Title"]="Zengin ve Hükümlü",
-    ["Description"]="Özgürüm! Teşekkürler dostum. NEW_LINESavaşşefinin (warchief) haydutları tüm eşyalarımı aldığı için şu anda sana geri ödeyecek hiçbir şeyim yok maalesef, ancak iş ortağım Marlos Catos seni ödüllendirecektir. NEW_LINEOkyanusun karşı tarafındaki serbest ticaret limanı (free trade port) olan Ganimet Koyu'ndaki (Booty Bay) yeni ofisimizde bizimle buluş. Orada hükümetlerin uzanan ellerinden uzaktayız.",
-    ["Objectives"]="Kabuk Şirketi'ne (Shell Co) yaptığın hizmetin karşılığını almak için Ganimet Koyu'ndaki (Booty Bay) Marlos Catos ile konuş.",
+    ["Description"]="Özgürüm! Teşekkürler dostum. NEW_LINESavaşşefinin (warchief) haydutları tüm eşyalarımı aldığı için şu anda sana geri ödeyecek hiçbir şeyim yok maalesef, ancak iş ortağım Marlos Catos seni ödüllendirecektir. NEW_LINEOkyanusun karşı tarafındaki serbest ticaret limanı (free trade port) olan Ganimet Koyu'ndaki (Ganimet Koyu(Booty Bay)) yeni ofisimizde bizimle buluş. Orada hükümetlerin uzanan ellerinden uzaktayız.",
+    ["Objectives"]="Kabuk Şirketi'ne (Shell Co) yaptığın hizmetin karşılığını almak için Ganimet Koyu'ndaki (Ganimet Koyu(Booty Bay)) Marlos Catos ile konuş.",
     ["Progress"]="",
     ["Completion"]="Sevgili dostum Bay Diş'i (Mr Tusk) hapisten kaçıran kahraman yabancı sen olmalısın? NEW_LINEBiz burada, Kabuk Şirketi (Shell Co) olarak yardımını çok takdir ediyoruz; harcadığın altını şu anda geri ödeyecek imkanımız olmasa da, elimizde daha iyi bir şey var. NEW_LINEBu bir kabukpara (shellcoin), geleceğin para birimi! Hükümet müdahalesinden uzak bir ödeme aracı! Hiçbir vergilendirmeye (taxation) uğramayan bir para birimi! Al bakalım, senindir.",
     ["minlevel"]="0",
@@ -38741,7 +38737,7 @@ QuestTranslator_QuestData = {
     }, -- end Sandfury Redemption III
 
 -- Sap Their Strength
-    -- Greed -> Açgözlülük, Venture Company -> Venture Şirketi (Venture Co.). Tainted -> Lekelenmiş, ancient tree -> kadim ağaç.
+    -- Greed -> Açgözlülük, Venture Company -> Girişim(Venture) Şirketi (Girişim Şti.(Venture Co.)). Tainted -> Lekelenmiş, ancient tree -> kadim ağaç.
     -- Troubles -> Dertler / Sıkıntılar. Sap -> Özsu, forest -> orman, sap beasts -> özsu canavarları. Corrosive -> Aşındırıcı.
     -- Stonetalon Peak -> Taşpençe Zirvesi. Herbs -> Şifalı bitkiler, cooking -> yemek pişirme, potions -> iksirler.
     -- Old ruins -> Eski harabeler, ridge -> sırt. Coin -> sikke / para, payment -> ödeme.
@@ -38749,10 +38745,10 @@ QuestTranslator_QuestData = {
     -- Mountaintop -> Dağ zirvesi, mountainous terrain -> dağlık arazi.
     ["80397"] = {
     ["Title"]="Güçlerini Kurutmak",
-    ["Description"]="Hoş geldin, YOUR_CLASS. Bu taraflarda pek fazla maceracı görmeyiz — ve bu sebepsiz de değil. Venture Şirketi'nin (Venture Company) açgözlülüğü toprağın  kendisini lekeledi. Devirdikleri her kadim ağaç (ancient tree) sadece dertlerime dert katıyor. Bu ormanın ağaçlarını bir zamanlar besleyen o güçlü özsu (sap), şimdi o korkunç özsu canavarlarına (sap beasts) dönüşüyor. Onların aşındırıcı (corrosive) doğası, burada sürdürmek için savaştığımız hassas dengeye zarar veriyor. Daha da kötüsü, birçoğu yakın zamanda Taşpençe Zirvesi'ne (Stonetalon Peak) kadar ulaştı! Onların aşındırıcı özsuyu yemek pişirme (cooking) ve basit iksirler için ihtiyacım olan şifalı bitkileri öldürüyor. YOUR_CLASS, ileri atıl ve Zirve'yi bu şeylerden temizle. Birçoğunu hemen buranın güneyinde, eski harabeleri barındıran sırtın (ridge) üzerinde bulacaksın. Burada yukarıda parayla pek işimiz olmaz ama belki birkaç iksir ödeme (payment) yerine geçebilir?",
+    ["Description"]="Hoş geldin, YOUR_CLASS. Bu taraflarda pek fazla maceracı görmeyiz — ve bu sebepsiz de değil. Girişim(Venture) Şirketi'nin (Venture Company) açgözlülüğü toprağın  kendisini lekeledi. Devirdikleri her kadim ağaç (ancient tree) sadece dertlerime dert katıyor. Bu ormanın ağaçlarını bir zamanlar besleyen o güçlü özsu (sap), şimdi o korkunç özsu canavarlarına (sap beasts) dönüşüyor. Onların aşındırıcı (corrosive) doğası, burada sürdürmek için savaştığımız hassas dengeye zarar veriyor. Daha da kötüsü, birçoğu yakın zamanda Taşpençe Zirvesi'ne (Stonetalon Peak) kadar ulaştı! Onların aşındırıcı özsuyu yemek pişirme (cooking) ve basit iksirler için ihtiyacım olan şifalı bitkileri öldürüyor. YOUR_CLASS, ileri atıl ve Zirve'yi bu şeylerden temizle. Birçoğunu hemen buranın güneyinde, eski harabeleri barındıran sırtın (ridge) üzerinde bulacaksın. Burada yukarıda parayla pek işimiz olmaz ama belki birkaç iksir ödeme (payment) yerine geçebilir?",
     ["Objectives"]="10 Özsu Canavarı (Sap Beasts) ve 6 Aşındırıcı Özsu Canavarı (Corrosive Sap Beasts) katlet, ardından Hancı Faralia'ya (Innkeeper Faralia) geri dön.",
     ["Progress"]="Dağ zirvesini (mountaintop) o özsu canavarlarından temizledin mi? Burada bir anlığına dinlen ve gücünü topla.",
-    ["Completion"]="Teşekkür ederim, YOUR_NAME! Venture Şirketi'nin faaliyetleri kontrol altına alınmadıkça bu kesinlikle o özsu canavarlarının sonu olmayacak, ancak şimdilik orman sessiz ve şimdiden iyileşiyor. Al bakalım, sıkı çalışmanın teşekkürü olarak birkaç iksirimden al. Bu dağlık arazide (mountainous terrain) hızla seyahat etmene yardımcı olurlar.",
+    ["Completion"]="Teşekkür ederim, YOUR_NAME! Girişim(Venture) Şirketi'nin faaliyetleri kontrol altına alınmadıkça bu kesinlikle o özsu canavarlarının sonu olmayacak, ancak şimdilik orman sessiz ve şimdiden iyileşiyor. Al bakalım, sıkı çalışmanın teşekkürü olarak birkaç iksirimden al. Bu dağlık arazide (mountainous terrain) hızla seyahat etmene yardımcı olurlar.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Sap Their Strength
@@ -38774,7 +38770,7 @@ QuestTranslator_QuestData = {
     }, -- end Sark's Grudge
 
 -- Satisfaction for Shak
-    -- Venture Co. = Venture Şirketi. Nickname -> Takma ad / lakap. Engineers -> mühendisler. Design -> Tasarım.
+    -- Girişim Şti.(Venture Co.) = Girişim(Venture) Şirketi. Nickname -> Takma ad / lakap. Engineers -> mühendisler. Design -> Tasarım.
     -- Mega shredder -> mega parçalayıcı, deforest -> ormansızlaştırmak. Stonetalon = Taşpençe (Stonetalon Mountains).
     -- Fired -> Kovulmak, Foreman Klix -> Ustabaşı Klix kalmıştır. Hack -> Şarlatan / Beceriksiz.
     -- Windshear crag -> Rüzgarbiçen Kayalığı (Windshear + Crag), old lumber mill -> eski kereste fabrikası.
@@ -38782,7 +38778,7 @@ QuestTranslator_QuestData = {
     -- Shak kalmıştır. Studded Ring -> Çivili Yüzük.
     ["55042"] = {
     ["Title"]="Shak İçin Tatmin",
-    ["Description"]="Bu yere gelmeden çok önce, Venture Şirketi'nin (Venture Co.) oldukça değerli bir üyesiydim. Bu çok uzun zaman önceydi ve farklı bir bendim, ama aklımda kalan bir şey varsa, o da aldığım aptal takma addır (nickname). Mühendislerden (engineers) biriyken, Taşpençe'yi (Stonetalon) ormansızlaştırmak (deforest) için bir mega parçalayıcı tasarımı yapmam istendi. Ortaya çıktı ki başka bir tasarım benimkinden çok daha iyiydi, hem de epey bir farkla. Bununla bir derdim yok, ama derdim olan şey Ustabaşı Klix tarafından \"onu hayal kırıklığına uğrattığım\" gerekçesiyle kovulmaktır (fired). Bana \"şarlatan\" (hack) dedi ve şimdi bu lakap üzerime yapıştı. Pisliğin hak ettiği şey ayağına geliyor. Onu eskiden çalıştığım eski kereste fabrikasındaki Rüzgarbiçen Kayalığı'nda (Windshear crag) bulacaksın. Yaşlı bir moruktur (old coot) ve taşındığından şüpheliyim. Bana yüzüğünü getir, orta parmağına taktığı şu aşırı büyük çivili şeydir.",
+    ["Description"]="Bu yere gelmeden çok önce, Girişim(Venture) Şirketi'nin (Girişim Şti.(Venture Co.)) oldukça değerli bir üyesiydim. Bu çok uzun zaman önceydi ve farklı bir bendim, ama aklımda kalan bir şey varsa, o da aldığım aptal takma addır (nickname). Mühendislerden (engineers) biriyken, Taşpençe'yi (Stonetalon) ormansızlaştırmak (deforest) için bir mega parçalayıcı tasarımı yapmam istendi. Ortaya çıktı ki başka bir tasarım benimkinden çok daha iyiydi, hem de epey bir farkla. Bununla bir derdim yok, ama derdim olan şey Ustabaşı Klix tarafından \"onu hayal kırıklığına uğrattığım\" gerekçesiyle kovulmaktır (fired). Bana \"şarlatan\" (hack) dedi ve şimdi bu lakap üzerime yapıştı. Pisliğin hak ettiği şey ayağına geliyor. Onu eskiden çalıştığım eski kereste fabrikasındaki Rüzgarbiçen Kayalığı'nda (Windshear crag) bulacaksın. Yaşlı bir moruktur (old coot) ve taşındığından şüpheliyim. Bana yüzüğünü getir, orta parmağına taktığı şu aşırı büyük çivili şeydir.",
     ["Objectives"]="Ustabaşı Klix'i (Foreman Klix) öldür ve Çivili Yüzüğü'nü (Studded Ring) Shak'a getir.",
     ["Progress"]="Onu orada dışarıda bulmada bir şans var mı?",
     ["Completion"]="<Shak yüzüğü kendi parmağına geçirir ve kıkırdar.> Sonunda, o salağın hak ettiği şey ayağına geldi. Belki artık insanlar bana o isimle seslenmeyi bırakır!",
@@ -39234,7 +39230,7 @@ QuestTranslator_QuestData = {
     }, -- end Sandfury Redemption III
 
 -- Sap Their Strength
-    -- Greed -> Açgözlülük, Venture Company -> Venture Şirketi (Venture Co.). Tainted -> Lekelenmiş, ancient tree -> kadim ağaç.
+    -- Greed -> Açgözlülük, Venture Company -> Girişim(Venture) Şirketi (Girişim Şti.(Venture Co.)). Tainted -> Lekelenmiş, ancient tree -> kadim ağaç.
     -- Troubles -> Dertler / Sıkıntılar. Sap -> Özsu, forest -> orman, sap beasts -> özsu canavarları. Corrosive -> Aşındırıcı.
     -- Stonetalon Peak -> Taşpençe Zirvesi. Herbs -> Şifalı bitkiler, cooking -> yemek pişirme, potions -> iksirler.
     -- Old ruins -> Eski harabeler, ridge -> sırt. Coin -> sikke / para, payment -> ödeme.
@@ -39242,10 +39238,10 @@ QuestTranslator_QuestData = {
     -- Mountaintop -> Dağ zirvesi, mountainous terrain -> dağlık arazi.
     ["80397"] = {
     ["Title"]="Güçlerini Kurutmak",
-    ["Description"]="Hoş geldin, YOUR_CLASS. Bu taraflarda pek fazla maceracı görmeyiz — ve bu sebepsiz de değil. Venture Şirketi'nin (Venture Company) açgözlülüğü toprağın  kendisini lekeledi. Devirdikleri her kadim ağaç (ancient tree) sadece dertlerime dert katıyor. Bu ormanın ağaçlarını bir zamanlar besleyen o güçlü özsu (sap), şimdi o korkunç özsu canavarlarına (sap beasts) dönüşüyor. Onların aşındırıcı (corrosive) doğası, burada sürdürmek için savaştığımız hassas dengeye zarar veriyor. Daha da kötüsü, birçoğu yakın zamanda Taşpençe Zirvesi'ne (Stonetalon Peak) kadar ulaştı! Onların aşındırıcı özsuyu yemek pişirme (cooking) ve basit iksirler için ihtiyacım olan şifalı bitkileri öldürüyor. YOUR_CLASS, ileri atıl ve Zirve'yi bu şeylerden temizle. Birçoğunu hemen buranın güneyinde, eski harabeleri barındıran sırtın (ridge) üzerinde bulacaksın. Burada yukarıda parayla pek işimiz olmaz ama belki birkaç iksir ödeme (payment) yerine geçebilir?",
+    ["Description"]="Hoş geldin, YOUR_CLASS. Bu taraflarda pek fazla maceracı görmeyiz — ve bu sebepsiz de değil. Girişim(Venture) Şirketi'nin (Venture Company) açgözlülüğü toprağın  kendisini lekeledi. Devirdikleri her kadim ağaç (ancient tree) sadece dertlerime dert katıyor. Bu ormanın ağaçlarını bir zamanlar besleyen o güçlü özsu (sap), şimdi o korkunç özsu canavarlarına (sap beasts) dönüşüyor. Onların aşındırıcı (corrosive) doğası, burada sürdürmek için savaştığımız hassas dengeye zarar veriyor. Daha da kötüsü, birçoğu yakın zamanda Taşpençe Zirvesi'ne (Stonetalon Peak) kadar ulaştı! Onların aşındırıcı özsuyu yemek pişirme (cooking) ve basit iksirler için ihtiyacım olan şifalı bitkileri öldürüyor. YOUR_CLASS, ileri atıl ve Zirve'yi bu şeylerden temizle. Birçoğunu hemen buranın güneyinde, eski harabeleri barındıran sırtın (ridge) üzerinde bulacaksın. Burada yukarıda parayla pek işimiz olmaz ama belki birkaç iksir ödeme (payment) yerine geçebilir?",
     ["Objectives"]="10 Özsu Canavarı (Sap Beasts) ve 6 Aşındırıcı Özsu Canavarı (Corrosive Sap Beasts) katlet, ardından Hancı Faralia'ya (Innkeeper Faralia) geri dön.",
     ["Progress"]="Dağ zirvesini o özsu canavarlarından temizledin mi? Burada bir anlığına dinlen ve gücünü topla.",
-    ["Completion"]="Teşekkür ederim, YOUR_NAME! Venture Şirketi'nin faaliyetleri kontrol altına alınmadıkça bu kesinlikle o özsu canavarlarının sonu olmayacak, ancak şimdilik orman sessiz ve şimdiden iyileşiyor. Al bakalım, sıkı çalışmanın teşekkürü olarak birkaç iksirimden al. Bu dağlık arazide (mountainous terrain) hızla seyahat etmene yardımcı olurlar.",
+    ["Completion"]="Teşekkür ederim, YOUR_NAME! Girişim(Venture) Şirketi'nin faaliyetleri kontrol altına alınmadıkça bu kesinlikle o özsu canavarlarının sonu olmayacak, ancak şimdilik orman sessiz ve şimdiden iyileşiyor. Al bakalım, sıkı çalışmanın teşekkürü olarak birkaç iksirimden al. Bu dağlık arazide (mountainous terrain) hızla seyahat etmene yardımcı olurlar.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Sap Their Strength
@@ -39267,7 +39263,7 @@ QuestTranslator_QuestData = {
     }, -- end Sark's Grudge
 
 -- Satisfaction for Shak
-    -- Venture Co. = Venture Şirketi. Nickname -> Takma ad / lakap. Engineers -> mühendisler. Design -> Tasarım.
+    -- Girişim Şti.(Venture Co.) = Girişim(Venture) Şirketi. Nickname -> Takma ad / lakap. Engineers -> mühendisler. Design -> Tasarım.
     -- Mega shredder -> mega parçalayıcı, deforest -> ormansızlaştırmak. Stonetalon = Taşpençe (Stonetalon Mountains).
     -- Fired -> Kovulmak, Foreman Klix -> Ustabaşı Klix kalmıştır. Hack -> Şarlatan / Beceriksiz.
     -- Windshear crag -> Rüzgarbiçen Kayalığı (Windshear + Crag), old lumber mill -> eski kereste fabrikası.
@@ -39275,7 +39271,7 @@ QuestTranslator_QuestData = {
     -- Shak kalmıştır. Studded Ring -> Çivili Yüzük.
     ["55042"] = {
     ["Title"]="Shak İçin Tatmin",
-    ["Description"]="Bu yere gelmeden çok önce, Venture Şirketi'nin (Venture Co.) oldukça değerli bir üyesiydim. Bu çok uzun zaman önceydi ve farklı bir bendim, ama aklımda kalan bir şey varsa, o da aldığım aptal takma addır (nickname). Mühendislerden (engineers) biriyken, Taşpençe'yi (Stonetalon) ormansızlaştırmak (deforest) için bir mega parçalayıcı tasarımı yapmam istendi. Ortaya çıktı ki başka bir tasarım benimkinden çok daha iyiydi, hem de epey bir farkla. Bununla bir derdim yok, ama derdim olan şey Ustabaşı Klix tarafından \"onu hayal kırıklığına uğrattığım\" gerekçesiyle kovulmaktır (fired). Bana \"şarlatan\" (hack) dedi ve şimdi bu lakap üzerime yapıştı. Pisliğin hak ettiği şey ayağına geliyor. Onu eskiden çalıştığım eski kereste fabrikasındaki Rüzgarbiçen Kayalığı'nda (Windshear crag) bulacaksın. Yaşlı bir moruktur (old coot) ve taşındığından şüpheliyim. Bana yüzüğünü getir, orta parmağına taktığı şu aşırı büyük çivili şeydir.",
+    ["Description"]="Bu yere gelmeden çok önce, Girişim(Venture) Şirketi'nin (Girişim Şti.(Venture Co.)) oldukça değerli bir üyesiydim. Bu çok uzun zaman önceydi ve farklı bir bendim, ama aklımda kalan bir şey varsa, o da aldığım aptal takma addır (nickname). Mühendislerden (engineers) biriyken, Taşpençe'yi (Stonetalon) ormansızlaştırmak (deforest) için bir mega parçalayıcı tasarımı yapmam istendi. Ortaya çıktı ki başka bir tasarım benimkinden çok daha iyiydi, hem de epey bir farkla. Bununla bir derdim yok, ama derdim olan şey Ustabaşı Klix tarafından \"onu hayal kırıklığına uğrattığım\" gerekçesiyle kovulmaktır (fired). Bana \"şarlatan\" (hack) dedi ve şimdi bu lakap üzerime yapıştı. Pisliğin hak ettiği şey ayağına geliyor. Onu eskiden çalıştığım eski kereste fabrikasındaki Rüzgarbiçen Kayalığı'nda (Windshear crag) bulacaksın. Yaşlı bir moruktur (old coot) ve taşındığından şüpheliyim. Bana yüzüğünü getir, orta parmağına taktığı şu aşırı büyük çivili şeydir.",
     ["Objectives"]="Ustabaşı Klix'i (Foreman Klix) öldür ve Çivili Yüzüğü'nü (Studded Ring) Shak'a getir.",
     ["Progress"]="Onu orada dışarıda bulmada bir şans var mı?",
     ["Completion"]="<Shak yüzüğü kendi parmağına geçirir ve kıkırdar.> Sonunda, o salağın hak ettiği şey ayağına geldi. Belki artık insanlar bana o isimle seslenmeyi bırakır!",
@@ -39675,11 +39671,11 @@ QuestTranslator_QuestData = {
     -- Sparkwater Port -> Kıvılcımsuyu Limanı (Sparkwater + Port). Crates -> kasalar, logbook -> seyir defteri.
     -- Goblins -> goblinler, Blackstone -> Karakaya Adası (Blackstone Island kastediliyor). Murlocs -> murloclar.
     -- Taxxlo Rustgate -> Taxxlo Paslıkapı kalmıştır. Maxlo -> Maxlo kalmıştır.
-    -- Venture Co. Logbook -> Venture Şirketi Seyir Defteri.
+    -- Girişim Şti.(Venture Co.) Logbook -> Girişim(Venture) Şirketi Seyir Defteri.
     ["41171"] = {
     ["Title"]="Enkazı Aramak",
     ["Description"]="Enkaz dalışlarına (diving wreckages) aşina olduğunu duydum? Oh, şaşırdın mı? Benim kulağımdan hiçbir şey kaçmaz, ufaklık; bu yüzden buralarda şüpheli bir şeyler yapmayı düşünme bile. Daha sen 'altın sikke' (gold coin) diyemeden arkana bir fedai (bruiser) takarım. Doğu kıyısında başka bir gemi battı, korsan gemisi değil,  Kıvılcımsuyu Limanı'ndan (Sparkwater Port) gelen bir gemi. Üzerinde çok sayıda kasa (crates) ve yeni işçiler vardı. Kullanışlı erzakların çoğunu zaten kurtardık ama seyir defterini (logbook) bulacak kadar şanslı değildik. Ne? Evet, gemideki bazı goblinler (goblins) de kayboldu; ama bana sorarsan, eğer basit bir enkazdan sağ çıkamıyorlarsa, Karakaya (Blackstone) onlar için uygun bir yer değildir. Bana o seyir defterini getir ve oradaki murloclara (murlocs) dikkat et. Bu lanet şeyi geri alırken daha fazla iş gücü kaybetmek istemiyorum.",
-    ["Objectives"]="Venture Şirketi Seyir Defteri'ni (Venture Co. Logbook) ele geçir ve onu Taxxlo Paslıkapı'ya (Taxxlo Rustgate) getir.",
+    ["Objectives"]="Girişim(Venture) Şirketi Seyir Defteri'ni (Girişim Şti.(Venture Co.) Logbook) ele geçir ve onu Taxxlo Paslıkapı'ya (Taxxlo Rustgate) getir.",
     ["Progress"]="Zaman daralıyor.",
     ["Completion"]="İşte görmek istediğim şey bu. Sadece on iki denememizi aldı. Bu listelere sahip olmak Maxlo'yu (Maxlo) fazlasıyla neşelendirecek.",
     ["minlevel"]="0",
@@ -40283,13 +40279,13 @@ QuestTranslator_QuestData = {
     }, -- end Singed Letter
 
 -- Siphoning Oil
-    -- Oil -> Petrol / Yağ. Venture Co. = Venture Şirketi, salvaging -> kurtarmak / toplamak.
+    -- Oil -> Petrol / Yağ. Girişim Şti.(Venture Co.) = Girişim(Venture) Şirketi, salvaging -> kurtarmak / toplamak.
     -- Paid handsomely -> cömertçe ödenmek, dumb questions -> aptalca sorular. Powder Town -> Barut Kasabası (Powder + Town).
     -- Stonetalon Mountains = Taşpençe Dağları. Barrels -> variller. Barrels of Blacksand Oil -> Karasand Petrolü Varilleri / Karasand Yağı Varilleri.
     -- Head Technician Klazfit -> Baş Teknisyen Klazfit kalmıştır. Profit -> kâr. Back -> sırt. Kid -> evlat.
     ["40644"] = {
     ["Title"]="Petrol Çekmek",
-    ["Description"]="Bu adamların burada ne yapmayı planladıklarından emin değilim ama harika bir şeyi kaçırıyorlar. Petrol (Oil). Komik, değil mi? Venture Şirketi (Venture Co.) buraya petrol için gelmiş ve açıkça onu topluyorlar (salvaging). Birisi onlara bunu bizim için de topladıklarını söylemeli. Aptalca sorular sormazsa kendisine cömertçe ödeme (paid handsomely) yapılacak biri gidip bunun için onlara teşekkür etmeli ve aynı zamanda asıl Barut Kasabası'na (Powder Town) ait olanı kapmalı. Hepsini anladın mı yoksa senin için çizmem mi gerekiyor? 6 varile ihtiyacım var.",
+    ["Description"]="Bu adamların burada ne yapmayı planladıklarından emin değilim ama harika bir şeyi kaçırıyorlar. Petrol (Oil). Komik, değil mi? Girişim(Venture) Şirketi (Girişim Şti.(Venture Co.)) buraya petrol için gelmiş ve açıkça onu topluyorlar (salvaging). Birisi onlara bunu bizim için de topladıklarını söylemeli. Aptalca sorular sormazsa kendisine cömertçe ödeme (paid handsomely) yapılacak biri gidip bunun için onlara teşekkür etmeli ve aynı zamanda asıl Barut Kasabası'na (Powder Town) ait olanı kapmalı. Hepsini anladın mı yoksa senin için çizmem mi gerekiyor? 6 varile ihtiyacım var.",
     ["Objectives"]="Taşpençe Dağları'ndaki Barut Kasabası'nda bulunan Baş Teknisyen Klazfit'e 6 Varil Karasand Petrolü (Barrels of Blacksand Oil) geri getir.",
     ["Progress"]="Umarım sırtın (back) dayanır evlat.",
     ["Completion"]="Ah, demek birisi gidip topladı, harika, harika, bu iyi bir kâr (profit) getirmeli.",
@@ -40566,13 +40562,13 @@ QuestTranslator_QuestData = {
 -- South Seas Delicacy
     -- Crab legs -> yengeç bacakları, Undermine Claw Chowder -> Lağımkazan Kıskaç Çorbası (Undermine + Claw + Chowder).
     -- Goldthorn Tea -> Altındiken Çayı (Goldthorn + Tea). Wild Shore -> Vahşi Kıyı (Wild + Shore).
-    -- Booty Bay = Booty Bay (Ganimet Koyu), Bloodsail Buccaneers -> Kanlıyel Korsanları (Bloodsail Buccaneers).
+    -- Ganimet Koyu(Booty Bay) = Ganimet Koyu(Booty Bay) (Ganimet Koyu), Bloodsail Buccaneers -> Kanlıyel Korsanları (Bloodsail Buccaneers).
     -- Supplier -> tedarikçi, customers -> müşteriler.
     -- Southern Sand Crawler Legs -> Güney Kum Sürüngeni Bacakları. Innkeeper Skindle -> Hancı Skindle kalmıştır. Reward -> ödül.
     ["60155"] = {
     ["Title"]="Güneydenizi Lezzeti",
-    ["Description"]="Yengeç bacakları (Crab legs) — çok lezzetli bir şeydir. Her şeyle iyi giderler! Lağımkazan Kıskaç Çorbası (Undermine Claw Chowder), Altındiken Çayı (Goldthorn Tea) ve hatta diğer yengeç bacaklarıyla bile! Belki de onları yakalayacak ve ihtiyacım olan yengeç bacaklarını getirecek kadar güçlüsündür? NEW_LINEOnları Ganimet Koyu'nun (Booty Bay)  güneyinde yer alan Vahşi Kıyı'da (Wild Shore) bulabilirsin. Yine de dikkatli ol. Kıyının Kanlıyel Korsanları (Bloodsail Buccaneers) tarafından istila edildiğini duydum. Bu durum, tedarikçimin (supplier) neden gelmeyi bıraktığını açıklıyor.",
-    ["Objectives"]="Ganimet Koyu'ndaki (Booty Bay) Hancı Skindle'a 10 Güney Kum Sürüngeni Bacağı (Southern Sand Crawler Legs) getir.",
+    ["Description"]="Yengeç bacakları (Crab legs) — çok lezzetli bir şeydir. Her şeyle iyi giderler! Lağımkazan Kıskaç Çorbası (Undermine Claw Chowder), Altındiken Çayı (Goldthorn Tea) ve hatta diğer yengeç bacaklarıyla bile! Belki de onları yakalayacak ve ihtiyacım olan yengeç bacaklarını getirecek kadar güçlüsündür? NEW_LINEOnları Ganimet Koyu'nun (Ganimet Koyu(Booty Bay))  güneyinde yer alan Vahşi Kıyı'da (Wild Shore) bulabilirsin. Yine de dikkatli ol. Kıyının Kanlıyel Korsanları (Bloodsail Buccaneers) tarafından istila edildiğini duydum. Bu durum, tedarikçimin (supplier) neden gelmeyi bıraktığını açıklıyor.",
+    ["Objectives"]="Ganimet Koyu'ndaki (Ganimet Koyu(Booty Bay)) Hancı Skindle'a 10 Güney Kum Sürüngeni Bacağı (Southern Sand Crawler Legs) getir.",
     ["Progress"]="Harekete geç. Müşterilerim (customers) bekliyor!",
     ["Completion"]="Oh, harika bacaklar! Izgara yap, haşla, bir tencereye koy. Sen... bir ödül (reward) mi istiyorsun? Sanırım bu kadarı yeterli olacaktır.",
     ["minlevel"]="0",
@@ -41615,12 +41611,12 @@ QuestTranslator_QuestData = {
 -- The "Hidden" Crew
     -- Fulfill this favor -> bu iyiliği yerine getirelim, move along -> ilerleyelim. Profitable and useful -> kârlı ve yararlı.
     -- Crew of the Brightwater -> Sukıran'ın (Brightwater) mürettebatı / tayfası. Fireworks show of a battle -> bir savaşın havai fişek gösterisi. Disguising -> gizlenmek / kılık değiştirmek, contacts -> bağlantılar.
-    -- Lower levels of Booty Bay -> Booty Bay'in (Ganimet Koyu) alt seviyeleri. Wigcik -> Wigcik kalmıştır.
+    -- Lower levels of Ganimet Koyu(Booty Bay) -> Ganimet Koyu(Booty Bay)'in (Ganimet Koyu) alt seviyeleri. Wigcik -> Wigcik kalmıştır.
     -- "Captain" Pazzle -> \"Kaptan\" Pazzle kalmıştır, silly favor -> aptalca iyilik. Spare copper -> fazladan bakır para.
     ["55028"] = {
     ["Title"]="\"Gizli\" Mürettebat",
-    ["Description"]="Güzel, bu iyiliği (favor) yerine getirelim ve ilerleyelim. İkimizin de zaman ayırabileceği çok daha kârlı ve yararlı (profitable and useful) şeyler var. Sukıran'ın (Brightwater) mürettebatı tüm bu süre boyunca buradaydı ve o savaşın havai fişek gösterisinden sonra ortaya çıktıkları ilk geceden beri bunu biliyordum. Kim veya ne olduklarını gizleme (disguising) konusunda tam olarak en iyi işi çıkarmadılar. Bu ve bağlantılarım (contacts) çok güvenilirdir. Onları Ganimet Koyu'nun (Booty Bay) alt seviyelerinde, Wigcik'in kaldığı yerde bulacaksın. \"Kaptan\" Pazzle'ı bir sonraki görüşünde, onun bu aptalca iyiliğini yerine getirdiğimi söyle.",
-    ["Objectives"]="Sukıran'ın (Brightwater) mürettebatını Ganimet Koyu'nun (Booty Bay) alt seviyelerinde bul.",
+    ["Description"]="Güzel, bu iyiliği (favor) yerine getirelim ve ilerleyelim. İkimizin de zaman ayırabileceği çok daha kârlı ve yararlı (profitable and useful) şeyler var. Sukıran'ın (Brightwater) mürettebatı tüm bu süre boyunca buradaydı ve o savaşın havai fişek gösterisinden sonra ortaya çıktıkları ilk geceden beri bunu biliyordum. Kim veya ne olduklarını gizleme (disguising) konusunda tam olarak en iyi işi çıkarmadılar. Bu ve bağlantılarım (contacts) çok güvenilirdir. Onları Ganimet Koyu'nun (Ganimet Koyu(Booty Bay)) alt seviyelerinde, Wigcik'in kaldığı yerde bulacaksın. \"Kaptan\" Pazzle'ı bir sonraki görüşünde, onun bu aptalca iyiliğini yerine getirdiğimi söyle.",
+    ["Objectives"]="Sukıran'ın (Brightwater) mürettebatını Ganimet Koyu'nun (Ganimet Koyu(Booty Bay)) alt seviyelerinde bul.",
     ["Progress"]="Evet?",
     ["Completion"]="Bak ahbap (bud), zaten hiç fazladan bakır paramız (spare copper) yok, o yüzden yaylan.",
     ["minlevel"]="0",
@@ -41863,11 +41859,11 @@ QuestTranslator_QuestData = {
     }, -- end The Battlebeard Legacy
 
 -- The Bet
-    -- Gold -> altın, fortune -> servet. Bet -> bahis, goblin -> goblin, Nagzel -> Nagzel kalmıştır, crafty little guy -> kurnaz küçük herif. Playing cards -> kart oynamak, Venture Co. -> Risk Şirketi (Venture Co.), base camp -> ana kamp, Lake Nazferiti -> Nazferiti Gölü (Lake + Nazferiti). Ring -> yüzük, iron lug nut -> demir bijon somunu, BIG jade -> KOCAMAN bir yeşim, thumb -> başparmak. Games -> oyunlar, way of life -> yaşam tarzı, lost -> kaybetti, vanished -> gözden kayboldu. Green stone -> yeşil taş, rightfully mine -> hakkıyla benim.
+    -- Gold -> altın, fortune -> servet. Bet -> bahis, goblin -> goblin, Nagzel -> Nagzel kalmıştır, crafty little guy -> kurnaz küçük herif. Playing cards -> kart oynamak, Girişim Şti.(Venture Co.) -> Risk Şirketi (Girişim Şti.(Venture Co.)), base camp -> ana kamp, Lake Nazferiti -> Nazferiti Gölü (Lake + Nazferiti). Ring -> yüzük, iron lug nut -> demir bijon somunu, BIG jade -> KOCAMAN bir yeşim, thumb -> başparmak. Games -> oyunlar, way of life -> yaşam tarzı, lost -> kaybetti, vanished -> gözden kayboldu. Green stone -> yeşil taş, rightfully mine -> hakkıyla benim.
     -- \"Rightful\" Jade -> \"Hak Edilen\" Yeşim, Dirty Jacob -> Pis Jacob kalmıştır. Track him down -> onun izini sürmek. Rock -> taş, silver -> gümüş para, hard work -> sıkı çalışma. Public -> halka açık yer / göz önünde, heh -> heh.
     ["40175"] = {
     ["Title"]="Bahis",
-    ["Description"]="Üzerimde çok fazla altın (gold) olmayabilir ama dışarıda beni bekleyen bir servetim var. Nagzel adında bir goblinle bahis (bet) yapmıştım, kurnaz küçük bir heriftir (crafty little guy). Görüyorsun ya, bir gün kart oynuyorduk (playing cards) ve bana Risk Şirketi'ne (Venture Co.) katılma ve Nazferiti Gölü yanındaki ana kampta çalışma planlarından bahsediyordu. Hayatımda ilk kez gerçekten kazanıyordum ve o bu kocaman halka yüzüğü ortaya koydu. Şimdi, yüzüğün  kendisi pek umurumda değildi, ucuz eski bir demir bijon somunundan başka bir şey değildi ama üzerinde başparmağım büyüklüğünde KOCAMAN bir yeşim (BIG jade) çakılıydı! Bahisler oyunlardan daha fazlasıdır, bir yaşam tarzıdır (way of life) ve bu adam kaybettiğinde yüzüğü aldı ve gözden kayboldu (vanished), bir daha hiç görülmedi. Git bu serseriyi bul ve o yeşil taşı al, o hakkıyla benimdir!",
+    ["Description"]="Üzerimde çok fazla altın (gold) olmayabilir ama dışarıda beni bekleyen bir servetim var. Nagzel adında bir goblinle bahis (bet) yapmıştım, kurnaz küçük bir heriftir (crafty little guy). Görüyorsun ya, bir gün kart oynuyorduk (playing cards) ve bana Risk Şirketi'ne (Girişim Şti.(Venture Co.)) katılma ve Nazferiti Gölü yanındaki ana kampta çalışma planlarından bahsediyordu. Hayatımda ilk kez gerçekten kazanıyordum ve o bu kocaman halka yüzüğü ortaya koydu. Şimdi, yüzüğün  kendisi pek umurumda değildi, ucuz eski bir demir bijon somunundan başka bir şey değildi ama üzerinde başparmağım büyüklüğünde KOCAMAN bir yeşim (BIG jade) çakılıydı! Bahisler oyunlardan daha fazlasıdır, bir yaşam tarzıdır (way of life) ve bu adam kaybettiğinde yüzüğü aldı ve gözden kayboldu (vanished), bir daha hiç görülmedi. Git bu serseriyi bul ve o yeşil taşı al, o hakkıyla benimdir!",
     ["Objectives"]="Pis Jacob (Dirty Jacob) için \"Hak Edilen\" Yeşim'i (\"Rightful\" Jade) geri getir.",
     ["Progress"]="Onun izini sürmek (track him down) zor olabilir ama bunu yapabileceğinden eminim.",
     ["Completion"]="Lanet olsun, şu güzelliğe bir bak, ne kadar güzel bir taş (rock). Al bakalım, onu benim için getirme konusundaki o sıkı çalışman (hard work) için biraz gümüş para. Bazı insanlar pahalı taşlarını ulu orta göz önünde (in public) sergilememeyi gerçekten öğrenmeli, kimin onları arıyor olabileceğini asla bilemezsin, heh.",
@@ -41934,7 +41930,7 @@ QuestTranslator_QuestData = {
 
 -- The Big Man
     -- Big man -> büyük adam / büyük patron. Report -> rapor, Taxxlo Rustgate -> Taxxlo Paslıkapı kalmıştır.
-    -- Rustgate Ridge -> Paslıkapı Sırtı, Blackstone Island -> Karakaya Adası. Venture Company -> Risk Şirketi (Venture Co.).
+    -- Rustgate Ridge -> Paslıkapı Sırtı, Blackstone Island -> Karakaya Adası. Venture Company -> Risk Şirketi (Girişim Şti.(Venture Co.)).
     -- Mudpaw Gnolls -> Çamurlupençe Gnolları (Mud + Paw). Gold -> altın. Tower -> kule.
     ["41266"] = {
     ["Title"]="Büyük Patron",
@@ -44184,12 +44180,12 @@ QuestTranslator_QuestData = {
     -- Old Bonds -> Eski Bağlar (Old + Bonds). Appreciate delivery know means promise long ago uphold end bargain pillage areas goods information -> bu teslimat için ne kadar minnettar olsam da ne anlama geldiğini  biliyorum pazarlığın kendi payına düşen kısmını yerine getirmek için çok uzun zaman önce bir söz verdim bazı mallar ve bilgiler karşılığında ona verdiğim bölgeleri yağmalamasını (pillage) arzuluyordum.
     -- Jade crew fulfilled aint no rat keep bond -> bir süre önce eski ekibimizi (crew) dağıtan Jade'in katilini arıyor ve artık o kendi payına düşeni  yerine getirdiğine göre ben de aynısını yapacağım ben muhbir (rat) değilim bağıma sadık kalırım. Jade kalmıştır.
     -- Hit break up Wally Wisecrack Syndicate Boys 'Slip' revenge weapon unleash miserable prick -> bizi dağıtmak için darbeyi (hit) organize eden kişi Wally Wisecrack adıyla biliniyordu şimdi o Sendika Çocuklarıyla (Syndicate Boys) takılıyor gerçi 'Slip'in bunu bildiğinden eminim bir kez 'Slip'e her şeyin arkasındaki kişinin bu olduğunu söylediğinde şüphesiz intikam isteyecektir.
-    -- Wally Wisecrack -> Wally Şakacı kalmıştır (Wise + crack), Syndicate Boys -> Sendika Çocukları (Syndicate + Boys), 'Slip' -> 'Slip' kalmıştır, Booty Bay = Ganimet Koyu (Booty Bay).
+    -- Wally Wisecrack -> Wally Şakacı kalmıştır (Wise + crack), Syndicate Boys -> Sendika Çocukları (Syndicate + Boys), 'Slip' -> 'Slip' kalmıştır, Ganimet Koyu(Booty Bay) = Ganimet Koyu (Ganimet Koyu(Booty Bay)).
     -- Two faced piece of rat filth weapon unleash miserable prick -> iki yüzlü lağım faresi pisliği (piece of rat filth) intikamımı alacağım ve sen bu sefil pisliğin (miserable prick) üzerine salacağım silah  olacaksın.
     ["40225"] = {
     ["Title"]="Eski Bağlar",
     ["Description"]="Bu teslimat için ne kadar minnettar olsam da ne anlama geldiğini  biliyorum. Pazarlığın (bargain) kendi payına düşen kısmını yerine getirmek için çok uzun zaman önce bir söz verdim. Bazı mallar ve bilgiler karşılığında ona verdiğim bölgeleri yağmalamasını (pillage) arzuluyordum. Bir süre önce eski ekibimizi (crew) dağıtan Jade'in katilini arıyor ve artık o kendi payına düşeni yerine getirdiğine göre ben de aynısını yapacağım, ben muhbir (rat) değilim, bağıma sadık kalırım. Bizi dağıtmak için darbeyi (hit) organize eden kişi Wally Wisecrack adıyla biliniyordu, şimdi o Sendika Çocuklarıyla (Syndicate Boys) takılıyor, gerçi 'Slip'in bunu bildiğinden  eminim. Bir kez 'Slip'e her şeyin arkasındaki kişinin bu olduğunu söylediğinde, şüphesiz intikam isteyecektir.",
-    ["Objectives"]="Bilgileri Ganimet Koyu'ndeki (Booty Bay) 'Slip'e ulaştır.",
+    ["Objectives"]="Bilgileri Ganimet Koyu'ndeki (Ganimet Koyu(Booty Bay)) 'Slip'e ulaştır.",
     ["Progress"]="Evet?",
     ["Completion"]="Demek pazarlığın kendi payına düşen kısmını  yerine getirdi... Wally Wisecrack ha, o iki yüzlü lağım faresi pisliği! NEW_LINEİntikamımı alacağım ve sen bu sefil pisliğin üzerine salacağım silah olacaksın.",
     ["minlevel"]="0",
@@ -44242,13 +44238,13 @@ QuestTranslator_QuestData = {
     }, -- end The Orcish Anatomy
 
 -- The Ornate Windshear Gemstone
-    -- Ornate Windshear Gemstone -> İşlemeli Rüzgarbiçen Değerli Taşı (Ornate + Windshear + Gemstone). Wonder prospectin' rumor Venture Co. hooligans rare crystal deep beneath Stonetalon glimmered deep shiny red -> rüzgar aramanın (prospectin')  bir harikasıdır sana ne diyeceğim söylentilere göre o Venture Şirketi (Venture Co.) serserileri Taşkesen Dağları'nın (Stonetalon) derinliklerinde derin ve parlak bir kırmızıyla parıldayan nadir bir kristal kazıp çıkarmışlar.
-    -- Venture Co. -> Venture Şirketi (Venture Co.), Stonetalon = Taşkesen Dağları / Stonetalon (Stonetalon Mountains).
+    -- Ornate Windshear Gemstone -> İşlemeli Rüzgarbiçen Değerli Taşı (Ornate + Windshear + Gemstone). Wonder prospectin' rumor Girişim Şti.(Venture Co.) hooligans rare crystal deep beneath Stonetalon glimmered deep shiny red -> rüzgar aramanın (prospectin')  bir harikasıdır sana ne diyeceğim söylentilere göre o Girişim(Venture) Şirketi (Girişim Şti.(Venture Co.)) serserileri Taşkesen Dağları'nın (Stonetalon) derinliklerinde derin ve parlak bir kırmızıyla parıldayan nadir bir kristal kazıp çıkarmışlar.
+    -- Girişim Şti.(Venture Co.) -> Girişim(Venture) Şirketi (Girişim Şti.(Venture Co.)), Stonetalon = Taşkesen Dağları / Stonetalon (Stonetalon Mountains).
     -- Westfall = Batıdiyar (Westfall), hell hole Windshear Mine Crag Flinthammer flavor spice up deal -> burası Batıdiyar'nden bile daha çirkin ve güven bana oradaydım eğer bu cehennem çukurundan (hell hole) çıkma şansım varsa o  bu Rüzgarbiçen Değerli Taşı'nda yatıyor ve ellerimi onun üzerinde istiyorum Yarıktaki (Crag) Rüzgarbiçen Madeni'ne (Windshear Mine) inip ihtiyar Flinthammer'a bir iyilik yapmaya ne dersin ha karşılığında sana bir şey veririm bir anlaşmayı tatlandırmaya ne dersin. Crag = Yarık (The Crag), Windshear Mine -> Rüzgarbiçen Madeni (Windshear + Mine), Prospector Flinthammer -> Maden Arayıcısı Çakmakçekiç kalmıştır, Bael Hardul -> Bael Hardul kalmıştır. Stonetalon Mountains = Taşkesen Dağları (Stonetalon Mountains). Beauty aye -> rüzgarbiçen değerli taşı... Oh ne güzellik olurdu ama değil mi.
     -- Goggles fog up sweet Ironforge honest work coin crystals -> Flinthammer'ın gözlükleri buğulanmaya başlar (goggles begin to fog up) ah o tatlı Demirörs adına (sweet Ironforge) işte bu gerçekten o inanamıyorum gidip o şeyi  geri almışsın benim için iyi ve dürüst bir iş çıkardın al bakalım bunları ve üstüne biraz da para belki artık nadir kristaller aramak için yeni bir yer bulabilirim her şey senin sayende elbette.
     ["40693"] = {
     ["Title"]="İşlemeli Rüzgarbiçen Değerli Taşı",
-    ["Description"]="İşlemeli Rüzgarbiçen Değerli Taşı'nın (Ornate Windshear Gemstone) hikayesini duymuş muydun?! Maden aramanın (prospectin')  tam bir harikasıdır, sana öyle söyleyeyim! Söylentilere göre, o Venture Şirketi (Venture Co.) serserileri Taşpençe'nin (Stonetalon) derinliklerinde derin ve parlak bir kırmızıyla parıldayan nadir bir kristal kazıp çıkarmışlar. Anlarsın ya, ben buraya etrafı izlemek için gelmedim, hayır, BAH! Burası Batıdiyardan (Westfall) bile daha çirkin ve güven bana, oradaydım. Eğer bu cehennem çukurundan (hell hole) çıkma şansım varsa o bu Rüzgarbiçen Değerli Taşı'nda yatıyor ve ellerimi onun üzerinde istiyorum. Yarıktaki (the Crag) Rüzgarbiçen Madeni'ne (Windshear Mine) inip ihtiyar Flinthammer'a bir iyilik yapmaya ne dersin ha? Karşılığında sana bir şey veririm, bir anlaşmayı tatlandırmaya (spice up a deal) ne dersin?",
+    ["Description"]="İşlemeli Rüzgarbiçen Değerli Taşı'nın (Ornate Windshear Gemstone) hikayesini duymuş muydun?! Maden aramanın (prospectin')  tam bir harikasıdır, sana öyle söyleyeyim! Söylentilere göre, o Girişim(Venture) Şirketi (Girişim Şti.(Venture Co.)) serserileri Taşpençe'nin (Stonetalon) derinliklerinde derin ve parlak bir kırmızıyla parıldayan nadir bir kristal kazıp çıkarmışlar. Anlarsın ya, ben buraya etrafı izlemek için gelmedim, hayır, BAH! Burası Batıdiyardan (Westfall) bile daha çirkin ve güven bana, oradaydım. Eğer bu cehennem çukurundan (hell hole) çıkma şansım varsa o bu Rüzgarbiçen Değerli Taşı'nda yatıyor ve ellerimi onun üzerinde istiyorum. Yarıktaki (the Crag) Rüzgarbiçen Madeni'ne (Windshear Mine) inip ihtiyar Flinthammer'a bir iyilik yapmaya ne dersin ha? Karşılığında sana bir şey veririm, bir anlaşmayı tatlandırmaya (spice up a deal) ne dersin?",
     ["Objectives"]="Taşkesen Dağları'ndaki (Stonetalon Mountains) Bael Hardul'da bulunan Maden Arayıcısı Flinthammer (Prospector Flinthammer) için İşlemeli Rüzgarbiçen Değerli Taşı'nı (Ornate Windshear Gemstone) çal.",
     ["Progress"]="Rüzgarbiçen Değerli Taşı.... Oh ne güzellik (beauty) olurdu ama değil mi?",
     ["Completion"]="<Flinthammer'ın gözlükleri buğulanmaya başlar (goggles begin to fog up).> Ah o tatlı Demirörs adına (sweet Ironforge)! İşte bu, gerçekten o! Gidip o şeyi  geri aldığına inanamıyorum, benim için iyi ve dürüst bir iş çıkardın. Al bakalım bunları ve üstüne biraz da para (coin). Belki artık nadir kristaller aramak için yeni bir yer bulabilirim. Her şey senin sayende elbette.",
@@ -45840,20 +45836,20 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end The Upper Binding IV
 
--- The Venture Co. Shakedown
-    -- Venture Co. Shakedown -> Risk Şirketi Soyağacı / Sıkıştırması kalmıştır (Venture Co. = Risk Şirketi / Girişim Şirketi).
+-- The Girişim Şti.(Venture Co.) Shakedown
+    -- Girişim Şti.(Venture Co.) Shakedown -> Risk Şirketi Soyağacı / Sıkıştırması kalmıştır (Girişim Şti.(Venture Co.) = Risk Şirketi / Girişim Şirketi).
     -- hayday -> en parlak dönemimde, big mistake -> büyük bir hataydı, big profit -> büyük kar. Gold -> altın, robbed, hoodwinked -> soyuldum, aldatıldım.
     -- reputation -> itibar, Shizwackle -> Shizwackle kalmıştır. Shizwackle Tangrig -> Shizwackle Tangrig kalmıştır.
     -- The Sludge Fen -> Çamurlu Bataklık kalmıştır (Sludge + Fen), Drudgers, Mercenaries -> Irgatlar, Paralı Askerler, refinery -> rafineri.
     ["40216"] = {
     ["Title"]="Risk Şirketi Sıkıştırması",
-    ["Description"]="Merhaba oradaki, intikam almaya  can atan bir gobline yardım etmek  istemezsin değil mi, ha? Bilirsin, en parlak dönemimde (hayday) Risk Şirketi'ne (Venture Co.)  yardım ederdim ve dürüst olmak gerekirse büyük bir hataydı. Dostluğum karşılığında bana hayatımın  teklifini sundular; büyük kar (big profit) için onlara el altından bazı metaller tedarik  edecektim. Şimdi, altının kokusunu  takip etmenin bir goblin kanında olduğunu düşünüyorum, ama soyuldum ve  aldatıldım (hoodwinked). O adamlar için kıçımı  ortaya koydum ve o zamandan beri benimle  iletişime bile geçmediler; onlara bir mesaj iletmeni  istiyorum, hiç kimse Shizwackle ile oynaşıp da bunu anlatacak kadar  yaşayamaz. Ne de olsa buralarda bir gün hayatta  kalacaksam korumam gereken bir itibarım (reputation) var. Ta kuzeydeki Çamurlu Bataklık'a (The Sludge Fen) yönel, onların Irgatlarını (Drudgers) ve Paralı Askerlerini (Mercenaries) öldür; orada bu rafineriyi (refinery)  benim metalimle başlattılar, belki daha az işçiye sahip olduklarında  dikkat ederler.",
-    ["Objectives"]="Çamurlu Bataklık'a (The Sludge Fen) seyahat et ve Shizwackle Tangrig için 10 Risk Şirketi Irgatı (Venture Co. Drudgers) ve 10 Risk Şirketi Paralı Askeri (Venture Co. Mercenaries) katlet.",
+    ["Description"]="Merhaba oradaki, intikam almaya  can atan bir gobline yardım etmek  istemezsin değil mi, ha? Bilirsin, en parlak dönemimde (hayday) Risk Şirketi'ne (Girişim Şti.(Venture Co.))  yardım ederdim ve dürüst olmak gerekirse büyük bir hataydı. Dostluğum karşılığında bana hayatımın  teklifini sundular; büyük kar (big profit) için onlara el altından bazı metaller tedarik  edecektim. Şimdi, altının kokusunu  takip etmenin bir goblin kanında olduğunu düşünüyorum, ama soyuldum ve  aldatıldım (hoodwinked). O adamlar için kıçımı  ortaya koydum ve o zamandan beri benimle  iletişime bile geçmediler; onlara bir mesaj iletmeni  istiyorum, hiç kimse Shizwackle ile oynaşıp da bunu anlatacak kadar  yaşayamaz. Ne de olsa buralarda bir gün hayatta  kalacaksam korumam gereken bir itibarım (reputation) var. Ta kuzeydeki Çamurlu Bataklık'a (The Sludge Fen) yönel, onların Irgatlarını (Drudgers) ve Paralı Askerlerini (Mercenaries) öldür; orada bu rafineriyi (refinery)  benim metalimle başlattılar, belki daha az işçiye sahip olduklarında  dikkat ederler.",
+    ["Objectives"]="Çamurlu Bataklık'a (The Sludge Fen) seyahat et ve Shizwackle Tangrig için 10 Risk Şirketi Irgatı (Girişim Şti.(Venture Co.) Drudgers) ve 10 Risk Şirketi Paralı Askeri (Girişim Şti.(Venture Co.) Mercenaries) katlet.",
     ["Progress"]="Aldıkları her dayağı  hak ediyorlar, bana karşı yumuşama !",
     ["Completion"]="İntikam, ne tatlı bir şey; belki şimdi insanlar Shizwackle'ın  üzerine basılmayacağını bilirler! Sayende değerli bir ders  öğrendim pal, zenginlik sunan bir torba altınlı her yaşlı salağa öylece  güvenmemek gerekiyormuş. Çektiğin zahmet için bu madeni parayı  al, ben insanlara iş karşılığında gerçekten ödeme  yaparım!",
     ["minlevel"]="0",
     ["questlevel"]="0",
-    }, -- end The Venture Co. Shakedown
+    }, -- end The Girişim Şti.(Venture Co.) Shakedown
 
 -- The Wall Comes Crashing Down
     -- Greymane Wall = Greymane Duvarı (Greymane + Wall), Gilnean throne -> Gilneas tahtı, Alteraci nobles -> Alterac soyluları.
@@ -46107,12 +46103,12 @@ QuestTranslator_QuestData = {
 
 -- They Took Our Dragon!
     -- Lunar Festival = Ay Festivali (Lunar + Festival), satyr -> satır, firework -> havai fişek.
-    -- Booty Bay = Ganimet Koyu (Booty + Bay), Pandaria = Pandaria, Moonglade = Ayyarığı, dragon serpent -> ejderha yılanı.
+    -- Ganimet Koyu(Booty Bay) = Ganimet Koyu (Booty + Bay), Pandaria = Pandaria, Moonglade = Ayyarığı, dragon serpent -> ejderha yılanı.
     -- Lorgus Jett -> Lorgus Jett kalmıştır, cultist -> tarikatçı, Blackfathom Deeps = Karaderinlik Yarıkları kalmıştır (Black + fathom + Deeps).
     -- Lunar Festival Vendor -> Ay Festivali Satıcısı.
     ["80740"] = {
     ["Title"]="Ejderhamızı Aldılar!",
-    ["Description"]="YOUR_NAME, Ay Festivali'nin (Lunar Festival) sana  ihtiyacı var! Kutlamalar sırasında sinsi bir satır (satyr) içeri sızdı ve en özel havai fişeğimizi  çaldı. Ganimet Koyu'nin (Booty Bay) Goblinlerinden almayı  başardığım özel bir havai fişek türüydü. Ta Pandaria'dan (Pandaria) geldiğini iddia eden gezgin bir tüccardan bunu  satın almayı başardığını iddia ediyor. NEW_LINE Güzelliği, bir ejderha yılanı (dragon serpent) şeklinde Ayyarığı'nın (Moonglade) tüm gökyüzünü  kaplardı. Onu geri almalısın! Bu yılki Ay Etkinliği için en büyük  sürprizimiz olması gerekiyordu. NEW_LINE Şenlikçilere inanılacak olursa, bu satır Karaderinlik Yarıkları'nda (Blackfathom Deeps) saklanan hırsız bir tarikatçı olan Lorgus Jett'in emriyle  gelmiş. Ödülümü geri al, ben de sana  seninkini sunayım!",
+    ["Description"]="YOUR_NAME, Ay Festivali'nin (Lunar Festival) sana  ihtiyacı var! Kutlamalar sırasında sinsi bir satır (satyr) içeri sızdı ve en özel havai fişeğimizi  çaldı. Ganimet Koyu'nin (Ganimet Koyu(Booty Bay)) Goblinlerinden almayı  başardığım özel bir havai fişek türüydü. Ta Pandaria'dan (Pandaria) geldiğini iddia eden gezgin bir tüccardan bunu  satın almayı başardığını iddia ediyor. NEW_LINE Güzelliği, bir ejderha yılanı (dragon serpent) şeklinde Ayyarığı'nın (Moonglade) tüm gökyüzünü  kaplardı. Onu geri almalısın! Bu yılki Ay Etkinliği için en büyük  sürprizimiz olması gerekiyordu. NEW_LINE Şenlikçilere inanılacak olursa, bu satır Karaderinlik Yarıkları'nda (Blackfathom Deeps) saklanan hırsız bir tarikatçı olan Lorgus Jett'in emriyle  gelmiş. Ödülümü geri al, ben de sana  seninkini sunayım!",
     ["Objectives"]="Ejderha Havai Fişeği'ni (Dragon Firework) Karaderinlik Yarıkları'ndaki (Blackfathom Deeps) Lorgus Jett'ten geri al ve Ayyarığı'ndaki Ay Festivali Satıcısı'na (Lunar Festival Vendor) dön.",
     ["Progress"]="Mutlu Ay Festivalleri !",
     ["Completion"]="Oh, sensin! Ve onu geri  aldın. Elune'un kendisi nezaketin için sana  teşekkür ediyor. İşte senin için  bir sürpriz.",
@@ -46514,11 +46510,11 @@ QuestTranslator_QuestData = {
     -- Syndicate = Sendika (Syndicate).
     -- Large Looped Earring -> Büyük Halka Küpe.
     -- 'Slip' -> 'Slip' kalmıştır.
-    -- Booty Bay = Ganimet Koyu (Booty + Bay).
+    -- Ganimet Koyu(Booty Bay) = Ganimet Koyu (Booty + Bay).
     ["40226"] = {
     ["Title"]="Wally Wisecrack",
     ["Description"]="Bu adam, mürettebatımı alaşağı ettikten sonra bile benimle pazarlık yapmaya ve beni dolandırmaya devam etti, defalarca yüz yüze konuştuk. Jade'i öldürdü ve onu hayatımdan kopardı, mürettebatımızla dünyayı fethedebilirdik. Tel'abim'de bir sarayda yaşamıyor olabilirim ama yine de uzun zamandır can attığım o tatlı adaleti alacağım. NEW_LINEWally Wisecrack, Strahnbrad'da ikamet eden ve o Sendika (Syndicate) takımından adamlarla yakın ilişkileri olan adi bir insandır. Evet, ruhlarını orklara satan o hainler; görünüşe göre bu sadece onların kanında var, ha? NEW_LINEOnu Strahnbrad'da bul, öldür ve kanıt olarak bana Büyük Halka Küpe'sini getir.",
-    ["Objectives"]="Wally Wisecrack'i katlet ve Büyük Halka Küpe'sini Ganimet Koyu'ndaki (Booty Bay) 'Slip'e ulaştır.",
+    ["Objectives"]="Wally Wisecrack'i katlet ve Büyük Halka Küpe'sini Ganimet Koyu'ndaki (Ganimet Koyu(Booty Bay)) 'Slip'e ulaştır.",
     ["Progress"]="O düzenbazın tekidir, geldiğini ona belli etme yoksa onu asla bulamazsın.",
     ["Completion"]="Demek bitti, güzel, bu taş kalpli adi yüzünden hayatını kaybedenlerin ruhları artık kendilerini buldukları mezarlarda huzura erebilir. Tüm yardımların ve beni dünyanın öbür ucundaki eski mürettebatımla yeniden buluşturduğun için sana ne kadar teşekkür etsem azdır. Minnettarlığımın bir göstergesi olarak bu eşyalardan birini seç.",
     ["minlevel"]="0",
@@ -46526,14 +46522,14 @@ QuestTranslator_QuestData = {
     }, -- end Wally Wisecrack
 
 -- War On Mudpaw
-    -- Venture Co. -> Risk Şirketi (Venture + Co.).
+    -- Girişim Şti.(Venture Co.) -> Risk Şirketi (Venture + Co.).
     -- Mudpaw -> Çamurpençe (Mud + paw).
     -- Bruiser Yevo -> Kabadayı Yevo (Bruiser + Yevo).
     -- The Water Hole -> Su Çukuru (Water + Hole).
     -- Mudpaw Armbands -> Çamurpençe Kollukları.
     ["41185"] = {
     ["Title"]="Çamurpençe'ye Karşı Savaş",
-    ["Description"]="Şu yukarıdaki Risk Şirketi (Venture Co.) takımı yetmezmiş gibi, şu zavallı göletin hemen ötesinde gnolların o pis pençeleri var; durmadan bize kıkırdayıp hırlıyorlar. Her. Zaman. Eğer buradaki şu mankafaları korumakla meşgul olmasaydım, topuzumu kapar ve onlara  bir iki ders verirdim. Ama yapamam. Ve bu beni deli ediyor. Biraz para kazanmaya istekli misin? Birkaçının kafasını patlat, ben de ayırdığın zamana değmesini sağlayayım. Kanıt olarak bana kolluklarını getir, buralarda kimsenin sözüne güvenmem — senin için neyin iyi olduğunu biliyorsan sen de aynısını yaparsın.",
+    ["Description"]="Şu yukarıdaki Risk Şirketi (Girişim Şti.(Venture Co.)) takımı yetmezmiş gibi, şu zavallı göletin hemen ötesinde gnolların o pis pençeleri var; durmadan bize kıkırdayıp hırlıyorlar. Her. Zaman. Eğer buradaki şu mankafaları korumakla meşgul olmasaydım, topuzumu kapar ve onlara  bir iki ders verirdim. Ama yapamam. Ve bu beni deli ediyor. Biraz para kazanmaya istekli misin? Birkaçının kafasını patlat, ben de ayırdığın zamana değmesini sağlayayım. Kanıt olarak bana kolluklarını getir, buralarda kimsenin sözüne güvenmem — senin için neyin iyi olduğunu biliyorsan sen de aynısını yaparsın.",
     ["Objectives"]="Su Çukuru'ndaki (The Water Hole) Kabadayı Yevo (Bruiser Yevo) için Çamurpençe Gnollarından Çamurpençe Kollukları (Mudpaw Armbands) topla.",
     ["Progress"]="Bana bu görev verildiğinden beri onları izliyorum. Bazıları şu cırtlak gnomlardan bile daha mantıksız davranıyor.",
     ["Completion"]="Merak ediyorum, bunlar ne işe yarıyor? Bir tür kabile rengi mi? Yoksa daha fazlası mı? Her neyse, benim için pek önemi yok. Teşekkürler dostum. Bunlar tuvalette çok işe yarayacak.",
@@ -46554,19 +46550,19 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end War on the Witherbark
 
--- War on Venture Co.
-    -- Venture Co. -> Risk Şirketi (Venture + Co.).
+-- War on Girişim Şti.(Venture Co.)
+    -- Girişim Şti.(Venture Co.) -> Risk Şirketi (Venture + Co.).
     -- Taxxlo Rustgate -> Taxxlo Paslıkapı (Rust + gate).
     -- Supreme Overseer -> Baş Denetçi.
     ["41172"] = {
     ["Title"]="Risk Şirketi'ne Karşı Savaş",
     ["Description"]="Sende potansiyel görüyorum, YOUR_NAME. Buradaki pek çok kişi bunu göstermiyor. Ama aradığım goblin sen olabilirisin. Belki çoktan şahit olmuşsundur ya da sorundan bihabersindir ama buradaki bazı işçilerin... istekliliği konusunda sorunlar yaşıyoruz. Buna grev de, sabotaj da, isyan da de — umurumda değil. Bana para kazandırmak yerine para kaybettiriyorlar ve buna göz yummayacağım. Bu yetmezmiş gibi, aşırı saldırgan davranışları hâlâ elimizde olan itaatkar işçiler için de bir tehdit oluşturuyor. Kabadayılarımızın buralarda düzeni sağlamakla başı epey kalabalık, bu yüzden benim adalet aracım sen olacaksın. Git ve bu ayaklanmayı derhal bastır. Kanıt olarak madalyonları fazlasıyla iş görür. Raporlara göre, düşmanca faaliyetlerin çoğu kuzeydeki varoşlardan kaynaklanıyor.",
-    ["Objectives"]="Risk Şirketi (Venture Co.) hainlerini katlet ve madalyonlarını Taxxlo Paslıkapı'ya (Taxxlo Rustgate) ulaştır.",
+    ["Objectives"]="Risk Şirketi (Girişim Şti.(Venture Co.)) hainlerini katlet ve madalyonlarını Taxxlo Paslıkapı'ya (Taxxlo Rustgate) ulaştır.",
     ["Progress"]="Bir çayırda çiçek toplayıp şarkılar mırıldanarak Baş Denetçi (Supreme Overseer) olmadım. Hayır, düzeni koruma konusundaki demir yumruğum beni bu konuma getirdi. Ve otoritemin sarsılmasına izin vermeyeceğim.",
     ["Completion"]="Mükemmel. Hızlı, acımasız, verimli. Böyle devam edersen büyük adam olursun, güven bana. Hemen kaçıp gitmeden önce — burada işimiz henüz bitmedi.",
     ["minlevel"]="0",
     ["questlevel"]="0",
-    }, -- end War on Venture Co.
+    }, -- end War on Girişim Şti.(Venture Co.)
 
 -- War on Worgen
     -- Gilneas = Gilneas kalmıştır.
@@ -47786,10 +47782,10 @@ QuestTranslator_QuestData = {
     -- Krazek's Cookery -> Krazek's Cookery -> Krazek'in Aşçılığı / Krazek'in Tenceresi.
     -- Krazek's Crock Pot -> Krazek'in Güveç Tenceresi (Crock Pot -> Güveç Tenceresi / Elektrikli Yavaş Pişirici).
     -- Krazek -> Krazek kalmıştır (Goblin ismi).
-    -- Booty Bay -> Yağma Koyu (Booty -> Yağma/Ganimet, Bay -> Koy).
+    -- Ganimet Koyu(Booty Bay) -> Yağma Koyu (Booty -> Yağma/Ganimet, Bay -> Koy).
     ["210"] = { 
     ["Title"]="Krazek'in Aşçılığı",
-    ["Description"]="Kamptaki yemeklerin çoğunu ben yapıyorum. Ve Yağma Koyu'ndaki (Booty Bay) bir goblin tüccardan mekanik bir pişirme tenceresi satın alana kadar bu iş gerçekten çok zahmetliydi. Bu tencere bir mucize! Bana sayısız saat kazandırdı... Ta ki bozulana kadar!\n\nTencereyi tamir etmesi için benim adıma o gobline geri götürebilir misin? Adı Krazek.",
+    ["Description"]="Kamptaki yemeklerin çoğunu ben yapıyorum. Ve Yağma Koyu'ndaki (Ganimet Koyu(Booty Bay)) bir goblin tüccardan mekanik bir pişirme tenceresi satın alana kadar bu iş gerçekten çok zahmetliydi. Bu tencere bir mucize! Bana sayısız saat kazandırdı... Ta ki bozulana kadar!\n\nTencereyi tamir etmesi için benim adıma o gobline geri götürebilir misin? Adı Krazek.",
     ["Objectives"]="Krazek'in Güveç Tenceresi'ni (Krazek's Crock Pot) goblin Krazek'e ulaştır.",
     ["Progress"]="Merhaba! Bana bir şey mi getirdin?",
     ["Completion"]="Ah anlıyorum, bu bir Krazek'in Güveç Tenceresi (Krazek's Crock Pot)! Ustaca yapılmış bir parça, ama ara sıra yayı kırılabilir ya da dişli fırlatabilir. Bakalım bunun nesi varmış...\n\nAha! Buhar şarj cihazı paslanmış, mafsal contası çatlamış ve fobülatörünün dişleri eksilmiş. Tencerenin bu halde bir şalgamı bile kaynatabilmiş olmasına şaşırdım!\n\nTamir edebilir miyim? Elbette tamir edebilir miyim!\n\nAma bir bedeli var. Oh evet, her zaman bir bedeli vardır...",
@@ -47971,7 +47967,7 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end Supplies to Private Thorsen
     -- Investigate the Camp
-    -- Booty Bay -> Ganimet Koyu (ZoneData.lua).
+    -- Ganimet Koyu(Booty Bay) -> Ganimet Koyu (ZoneData.lua).
     -- Krazek -> Krazek kalmıştır (MobNpcData.lua).
     -- Venture Company -> Macera Şirketi (Venture -> Macera, Company -> Şirket).
     -- Lake Nazferiti -> Nazferiti Gölü (Lake -> Gölü).
@@ -47979,7 +47975,7 @@ QuestTranslator_QuestData = {
     ["201"] = { 
     ["Title"]="Kampı Araştır",
     ["Description"]="Nazferiti Gölü'ndeki (Lake Nazferiti) Venture Company maden kampının yukarısında nehir kıyısına kamp kurmuş bir grup avcıya dair raporlar aldım. Normalde umursamazdım ama inanması güç olsa da Hemet Nesingwary'nin de oradaki avcılardan biri olduğunu duydum.Ne demek istediğimi anlıyorsan, kendisinin bağlantıları kesinlikle çok güçlüdür ve hiçbir zaman işi şansa bırakmamak gerekir.\n\nNeden gidip şu kampa bir göz atmıyorsun, YOUR_NAME? Ne işler çevirdiklerini öğren bakalım.",
-    ["Objectives"]="Avcıların kampını bul ve konumunu Ganimet Koyu'ndaki (Booty Bay) Krazek'e bildir.",
+    ["Objectives"]="Avcıların kampını bul ve konumunu Ganimet Koyu'ndaki (Ganimet Koyu(Booty Bay)) Krazek'e bildir.",
     ["Progress"]="Eeee? Kampın yerini tespit etme konusunda bir şansın yaver gitti mi?",
     ["Completion"]="Hmmm, demek ki bilgilerim her zamanki gibi doğruydu. İlginç. Pekala, bizim operasyonumuza müdahale edecek bir tehdit oluşturduklarını sanmıyorum ama belki de ürettiğimiz o mükemmel ürünlerden bazılarına ihtiyaçları olabilir. Hmmm...",
     ["minlevel"]="0",
@@ -47989,13 +47985,13 @@ QuestTranslator_QuestData = {
     -- Bloodscalp -> Kanlıkafa (Blood -> Kan, Scalp -> Saç derisi/Kafa derisi).
     -- Bloodscalp Ear -> Kanlıkafa Kulağı (Ear -> Kulak).
     -- Kebok -> Kebok kalmıştır (Özel isim / MobNpcData.lua).
-    -- Booty Bay -> Ganimet Koyu (ZoneData.lua).
+    -- Ganimet Koyu(Booty Bay) -> Ganimet Koyu (ZoneData.lua).
     -- Baron Revilgaz -> Baron Revilgaz kalmıştır (Özel isim / MobNpcData.lua).
     -- Goblin Fishing Pole -> Goblin Oltası (Fishing Pole -> Olta).
     ["189"] = {
     ["Title"]="Bloodscalp Kulakları",
     ["Description"]="Lanet troller! Ormandaki ajanlarımızı teker teker öldürüyorlar! Onlarla girilen çatışmalarda şimdiden en iyi muhafızlarımdan birçoğunu kaybettim. Masraflar giderek katlanıyor! Bunu Baron Revilgaz'a nasıl açıklayacağım?\n\nKararlı bir eylem... Düşün, Kebok... Bugün bulunduğun bu makama boş boş oturmak için atanmadın... Buldum! Sen... YOUR_NAME, deyil mi? Bana yardım edeceksin, değil mi? İşin ucunda para var!\n\nAnlaşma şu... Bana on beş Bloodscalp Trolünün (Bloodscalp Trolls) kulağını getir, ben de seni fazlasıyla ödüllendireyim.",
-    ["Objectives"]="15 Bloodscalp Kulağı (Bloodscalp Ear) elde et ve onları Ganimet Koyu'ndaki (Booty Bay) Kebok'e geri getir.",
+    ["Objectives"]="15 Bloodscalp Kulağı (Bloodscalp Ear) elde et ve onları Ganimet Koyu'ndaki (Ganimet Koyu(Booty Bay)) Kebok'e geri getir.",
     ["Progress"]="Başarılı olduğunu umuyorum? Her yerdeler, o troller. Pis pis iblisler.\n\nAh evet, bu bana hatırlattı! Arkadaşlarına da söylemeyi unutma, tamam mı? Çokça yardıma ihtiyacımız olabilir!",
     ["Completion"]="Oh mükemmel, mükemmel. Bu şimdilik biraz olsun yardımcı olacaktır...\n\n<Kâr marjları ve maliyetler hakkında mırıldanarak uzaklaşır...>\n\nNe? Hâlâ burada mısın? Ödül mü? Ah, doğru... Tabii ki, al bakalım şunu... Fazlasıyla yeterli olacaktır.",
     ["minlevel"]="0",
@@ -48003,19 +47999,19 @@ QuestTranslator_QuestData = {
     }, -- end Bloodscalp Ears
     -- Hostile Takeover
     -- Kebok -> Kebok kalmıştır (MobNpcData.lua).
-    -- Booty Bay -> Ganimet Koyu (ZoneData.lua).
+    -- Ganimet Koyu(Booty Bay) -> Ganimet Koyu (ZoneData.lua).
     -- Tumbled Crystal -> İşlenmiş Kristal / Yontulmuş Kristal (Tumbled -> Tamburlanmış, aşındırılarak pürüzsüzleştirilmiş / Yontulmuş).
     -- Gelriz -> Gelriz kalmıştır (MobNpcData.lua).
     -- Revilgaz -> Revilgaz kalmıştır (MobNpcData.lua).
-    -- Venture Co. -> Macera Şti. (Venture Co. / Venture Company -> Macera Şirketi).
+    -- Girişim Şti.(Venture Co.) -> Macera Şti. (Girişim Şti.(Venture Co.) / Venture Company -> Macera Şirketi).
     -- Lake Nazferiti -> Nazferiti Gölü.
     -- Gigglefont -> Kıkırdayanyazı (Giggle -> Kıkırdama, Font -> Yazı tipi/kaynak).
     -- Head Chemist Gigglefont -> Baş Kimyager Kıkırdayanyazı (Head Chemist -> Baş Kimyager).
     -- Gemmed Gloves -> Mücevherli Eldiven (Gemmed -> Mücevherli, Gloves -> Eldiven).
     ["213"] = { 
     ["Title"]="Düşmanca Ele Geçirme",
-    ["Description"]="Bu sefer gerçekten ileri gitti! Gelriz'in, ticaret prensleri tarafından atanan nüfuzlu tüccarları zorbalıkla saf dışı bırakması yetmezmiş gibi, şimdi de en azılı korsanın işine çomak sokmaya çalışıyor!\n\nRevilgaz buna müsaade etmeyecek ve bu sorunu kendi yöntemlerimle çözmemi söyledi.\n\nBenim yöntemim mi? Hırsızlık. Nazferiti Gölü (Lake Nazferiti) yakınlarındaki Macera Şti. (Venture Co.) jeologları, madenlerde buldukları o tuhaf mavi kristallere derinden ilgi duyuyorlar. Bana onların jeologlarından bu taşın örneklerini getir, onları almak için ne yapman gerektiği umurumda bile değil.",
-    ["Objectives"]="8 İşlenmiş Kristal (Tumbled Crystal) ele geçir ve onları Ganimet Koyu'ndaki (Booty Bay) Kebok'e geri getir.",
+    ["Description"]="Bu sefer gerçekten ileri gitti! Gelriz'in, ticaret prensleri tarafından atanan nüfuzlu tüccarları zorbalıkla saf dışı bırakması yetmezmiş gibi, şimdi de en azılı korsanın işine çomak sokmaya çalışıyor!\n\nRevilgaz buna müsaade etmeyecek ve bu sorunu kendi yöntemlerimle çözmemi söyledi.\n\nBenim yöntemim mi? Hırsızlık. Nazferiti Gölü (Lake Nazferiti) yakınlarındaki Macera Şti. (Girişim Şti.(Venture Co.)) jeologları, madenlerde buldukları o tuhaf mavi kristallere derinden ilgi duyuyorlar. Bana onların jeologlarından bu taşın örneklerini getir, onları almak için ne yapman gerektiği umurumda bile değil.",
+    ["Objectives"]="8 İşlenmiş Kristal (Tumbled Crystal) ele geçir ve onları Ganimet Koyu'ndaki (Ganimet Koyu(Booty Bay)) Kebok'e geri getir.",
     ["Progress"]="O taşlara ihtiyacım var, YOUR_NAME. Hangi yolla olursa olsun! Sadece yap, bana ayrıntıları anlatma!\n\nHer şey sonuçtan ibaret, YOUR_NAME, ne fazlası ne azı.",
     ["Completion"]="Büyüleyici. Kristallerin bu süreç kullanılarak yontulmuş olması, onları bir tür yakıt ya da başka bir katalizör olarak kullanmayı planladıklarını gösteriyor. Bundan daha fazlasını bilmiyorum. Örneklerin Baş Kimyager Kıkırdayanyazı'ya (Head Chemist Gigglefont) gönderilmesi gerekecek.",
     ["minlevel"]="0",
@@ -48023,7 +48019,7 @@ QuestTranslator_QuestData = {
     }, -- end Hostile Takeover
     -- Supply and Demand
     -- Drizzlik -> Drizzlik kalmıştır (MobNpcData.lua).
-    -- Booty Bay -> Ganimet Koyu (ZoneData.lua).
+    -- Ganimet Koyu(Booty Bay) -> Ganimet Koyu (ZoneData.lua).
     -- Large River Crocolisk Skin -> Büyük Nehir Timsahı Derisi (Large -> Büyük, River -> Nehir, Crocolisk -> Timsah/Krokolisk, Skin -> Deri).
     -- Stranglethorn -> İstisna uyarınca çevrilmeden aynen bırakılmıştır.
     -- Riddlevox -> Bilmecekutusu (Riddle -> Bilmece, Vox/Box -> Kutu / Kelime oyunu anlamca çevrilmiştir).
@@ -48033,7 +48029,7 @@ QuestTranslator_QuestData = {
     ["575"] = { 
     ["Title"]="Arz ve Talep",
     ["Description"]="\"Güney Denizleri'nin ve eski ile yeni dünyaların en iyi deri işleyicisi.\" Bana böyle derler. Bana! Drizzlik'e! En iyi de... Öhöm. Pekala.\n\nDeri eşyalarım en seçkin, bir uzmanın tercihi olarak uzak ve yakın her yerde bilinir!\n\nMucitler Birliği'nden (Tinkers' Union) Müdür Bilmecekutusu'ndan (Director Riddlevox) en sevdiği Kusursuz serisi çizmelerden bir düzine üretmem için bir sipariş aldım. Aslına bakarsan en çok satan ürünümüzdür.\n\nTemel kalıba başlamak için, kuzey Stranglethorn'daki nehir boyunca yaşayan timsahlardan timsah derisi toplaman gerekecek.",
-    ["Objectives"]="Ganimet Koyu'ndaki (Booty Bay) Drizzlik'e 2 Büyük Nehir Timsahı Derisi (Large River Crocolisk Skin) getir.",
+    ["Objectives"]="Ganimet Koyu'ndaki (Ganimet Koyu(Booty Bay)) Drizzlik'e 2 Büyük Nehir Timsahı Derisi (Large River Crocolisk Skin) getir.",
     ["Progress"]="Ekipmanlarımın hepsi çalışmaya hazır, YOUR_NAME, sadece o derilere ihtiyacım var. Bilmecekutusu'nu bekletmek istemeyiz, orası kesin.\n\nMucitler Birliği'nin baş mucidini memnuniyetsiz bırakmak hiç kimse için iyi bir fikir değildir.",
     ["Completion"]="Bu deriler iş görür. Çizmelerin iç astarını oluşturacakları için kaliteleri o kadar da mühim değil ama yine de rahat olmaları önemli.\n\nEğer biraz fazla sert olurlarsa, yumuşatmak için biraz kaplan kanı kullanırım. Meslek sırrı, bilirsin ya?",
     ["minlevel"]="0",
@@ -48041,14 +48037,14 @@ QuestTranslator_QuestData = {
     }, -- end Supply and Demand
     -- Some Assembly Required
     -- Drizzlik -> Drizzlik kalmıştır (MobNpcData.lua).
-    -- Booty Bay -> Ganimet Koyu (ZoneData.lua).
+    -- Ganimet Koyu(Booty Bay) -> Ganimet Koyu (ZoneData.lua).
     -- Snapjaw Crocolisk Skin -> Kapançene Timsahı Derisi (Snapjaw -> Kapançene / Kapan çeneli, Crocolisk -> Timsah, Skin -> Deri).
     -- Lake Nazferiti -> Nazferiti Gölü.
     -- Excelsior leather boots -> Kusursuz Deri Çizmeler (Excelsior -> Kusursuz).
     ["577"] = { 
     ["Title"]="Biraz Montaj Gerekiyor",
     ["Description"]="Pekala, çizmelerin temel kalıbını çıkardım ve gayet iyi gidiyorlar; ancak getirdiğin deriler iç katmanlar için pek yeterli olmayacak.\n\n\"Şimdi ne yapacağız, Drizzlik?\" Dudaklarındaki sorunun bu olduğuna şüphe yok ve pekala, Drizzlik ile konuştuğun için şanslı sayılmaz mısın? Çünkü şimdi sana ne yapacağımızı söyleyecek!\n\nİç katmanlar asla gerçekten görünmeyecek, bu yüzden çizmeleri doldurmak için Nazferiti Gölü (Lake Nazferiti) civarındaki timsahlardan daha kalın ve daha ucuz olan derilerden toplayacağız.",
-    ["Objectives"]="Ganimet Koyu'ndaki (Booty Bay) Drizzlik'e 5 Kapançene Timsahı Derisi (Snapjaw Crocolisk Skin) getir.",
+    ["Objectives"]="Ganimet Koyu'ndaki (Ganimet Koyu(Booty Bay)) Drizzlik'e 5 Kapançene Timsahı Derisi (Snapjaw Crocolisk Skin) getir.",
     ["Progress"]="Drizzlik'in Kusursuz deri çizmeleri; en ince işçilik, yüzde yüz yüksek kalite tuzlu su timsahı derisinden çizmeler. Daha iyisi yok!\n\nBöyle parıltılı bir tarifi geride bırakamazsın, değil mi?\n\nTabii, belki o deriler yanındaysa durum değişebilir?",
     ["Completion"]="Çizmelerim... Tıpkı sosisler gibidir, YOUR_NAME. Harika görünürler, tadı harikadır. Sana içlerinin en kaliteli malzemelerle ve etlerle dolu olduğunu söylerim, sen de onu yer ve bayılırsın.\n\nSadece bana güvenmen ve içinde gerçekten ne olduğunu çok da detaylı sormaman senin için daha güvenli ve daha keyiflidir.",
     ["minlevel"]="0",
@@ -48072,7 +48068,7 @@ QuestTranslator_QuestData = {
     }, -- end Singing Blue Shards
     -- Venture Company Mining
     -- Crank Fizzlebub -> Çark Cızırtılıbalon (Önceki görevde sabitlediğimiz isim).
-    -- Booty Bay -> Ganimet Koyu (ZoneData.lua).
+    -- Ganimet Koyu(Booty Bay) -> Ganimet Koyu (ZoneData.lua).
     -- Venture Company -> Macera Şirketi (Venture -> Macera, Company -> Şirket).
     -- Singing Blue Crystal -> Şarkı Söyleyen Mavi Kristal (Singing -> Şarkı Söyleyen, Blue -> Mavi, Crystal -> Kristal).
     -- Crystalvein Mine -> Kristaldamarı Madeni (Crystal -> Kristal, Vein -> Damar, Mine -> Maden).
@@ -48082,7 +48078,7 @@ QuestTranslator_QuestData = {
     ["600"] = { 
     ["Title"]="Venture Company (Macera Şirketi) Madenciliği",
     ["Description"]="Macera Şirketi'nin (Venture Company) Stranglethorn boyunca uzanan bir dizi operasyonu var ve bu durum benim gibi çalışkan goblinlerin dürüst yoldan altın kazanmasını engelliyor! Lütfen, bana yardım etmelisin!\n\nMacera Şirketi, kuzeydeki Kristaldamarı Madeni'nin (Crystalvein Mine) yakınlarında maden çıkarıyor. Bazilisklerin çokluğu yüzünden madenin içine giremiyorlar ama yine de çevre tepelerden Şarkı Söyleyen Kristalleri (Singing Crystals) kazıp çıkarmayı başarıyorlar.\n\nKristallerini ellerinden al ve onlara ormanın hakimi olmadıklarını göster.\n\nVe... şey... kanıt olarak o kristalleri bana getir!",
-    ["Objectives"]="Ganimet Koyu'ndaki (Booty Bay) Çark Cızırtılıbalon'a (Crank Fizzlebub) 10 Şarkı Söyleyen Mavi Kristal (Singing Blue Crystal) getir.",
+    ["Objectives"]="Ganimet Koyu'ndaki (Ganimet Koyu(Booty Bay)) Çark Cızırtılıbalon'a (Crank Fizzlebub) 10 Şarkı Söyleyen Mavi Kristal (Singing Blue Crystal) getir.",
     ["Progress"]="O kristalleri topladın mı?? Onlara ihtiyacım var!!\n\nYani... Demek istediğim, şu kötü Macera Şirketi'nin Stranglethorn'da zemin kaybettiğini bilmeye ihtiyacım var. Çünkü bilirsin ya, biz dürüst halkın da geçimini sağlaması gerekiyor!",
     ["Completion"]="Harika! Muhteşem! Bunlar karşılığında koca bir servet koparabilirim!!\n\nŞu Macera Şirketi maden kazmak için kesinlikle yanlış ormanı seçti, değil mi? Buradan çekip gitselerdi hepimiz çok daha iyi durumda olurduk.\n\nTeşekkür ederim, YOUR_NAME. Bugün gerçekten çok iyi bir iş çıkardın.",
     ["minlevel"]="0",
@@ -48092,15 +48088,15 @@ QuestTranslator_QuestData = {
     -- The Haunted Isle
     -- Krazek -> Krazek kalmıştır (MobNpcData.lua).
     -- Baron Revilgaz -> Baron Revilgaz kalmıştır (MobNpcData.lua).
-    -- Booty Bay -> Ganimet Koyu (ZoneData.lua).
+    -- Ganimet Koyu(Booty Bay) -> Ganimet Koyu (ZoneData.lua).
     -- Stranglethorn -> İstisna uyarınca çevrilmeden aynen bırakılmıştır.
     -- Haunted Isle -> Lanetli Ada (Haunted -> Lanetli/Hayaletli, Isle -> Ada).
     -- Water elementals -> Su elementalleri.
     -- Stone of the Tides -> Gelgitlerin Taşı (Stone -> Taş, Tides -> Gelgitler).
     ["616"] = { 
     ["Title"]="Lanetli Ada",
-    ["Description"]="Baron Revilgaz, Ganimet Koyu (Booty Bay) ve Stranglethorn'daki tuhaf ve sıra dışı söylentilere kulak kabartmamı istemişti. Genelde hayalet hikayelerine pek prim vermem ama tavernadaki bazı denizcilerin kıyının açıklarında lanetli bir adadan bahsettiklerini duydum. Söylediklerine göre orada su elementalleri ve çılgın bir goblin hayaleti varmış.\n\nEğer gidip Revilgaz ile konuşacaksan, bu hikayeyi ona aktarabilir misin?",
-    ["Objectives"]="Ganimet Koyu'ndaki (Booty Bay) Baron Revilgaz ile konuş.",
+    ["Description"]="Baron Revilgaz, Ganimet Koyu (Ganimet Koyu(Booty Bay)) ve Stranglethorn'daki tuhaf ve sıra dışı söylentilere kulak kabartmamı istemişti. Genelde hayalet hikayelerine pek prim vermem ama tavernadaki bazı denizcilerin kıyının açıklarında lanetli bir adadan bahsettiklerini duydum. Söylediklerine göre orada su elementalleri ve çılgın bir goblin hayaleti varmış.\n\nEğer gidip Revilgaz ile konuşacaksan, bu hikayeyi ona aktarabilir misin?",
+    ["Objectives"]="Ganimet Koyu'ndaki (Ganimet Koyu(Booty Bay)) Baron Revilgaz ile konuş.",
     ["Progress"]="", -- Görev metninde Progress (İlerleme) bölümü bulunmamaktadır.
     ["Completion"]="İlginç. Bir süre önce, bir zamanlar okuduğum ve şunu öne süren bir kitabı hatırlar gibiyim...\n\nAh, elbette, bir trol efsanesiydi. Eğer Krazek'in bildirdikleri doğruysa, belki de yakında Gelgitlerin Taşı'nı (Stone of the Tides) kadim eser ve yadigar koleksiyonuma ekleyebilirim.",
     ["minlevel"]="0",
@@ -48109,14 +48105,14 @@ QuestTranslator_QuestData = {
 
     -- The Stone of the Tides
     -- Baron Revilgaz -> Baron Revilgaz kalmıştır (MobNpcData.lua).
-    -- Booty Bay -> Ganimet Koyu (ZoneData.lua).
+    -- Ganimet Koyu(Booty Bay) -> Ganimet Koyu (ZoneData.lua).
     -- Stone of the Tides -> Gelgitlerin Taşı (Stone -> Taş, Tides -> Gelgitler).
     -- Stormwind Library -> Fırtınayeli Kütüphanesi (Stormwind -> Fırtınayeli, Library -> Kütüphane).
     -- Gazban -> Gazban kalmıştır (Özel isim / MobNpcData.lua).
     ["578"] = { 
     ["Title"]="Gelgitlerin Taşı",
     ["Description"]="Eğer adada gerçekten de mesken tutmuş bir goblin büyücüsü ve su elementalleri varsa, bu durum Gelgitlerin Taşı'nın (Stone of the Tides) benim olabileceği anlamına gelebilir!\n\nBu lanetli adanın yerini tespit etmeni... orada neler döndüğünü öğrenmeni istiyorum. Oh, ve eğer Gelgitlerin Taşı hakkında daha fazla şey öğrenmek istersen, bu belgeyi Fırtınayeli Kütüphanesi'ne (Stormwind Library) götür; efsaneye ilk rastladığım kitabın bir kopyasını sana bulabilmeleri gerekir.\n\nGazban gerçekten de Taşı keşfetmiş olabilir mi...?",
-    ["Objectives"]="Ganimet Koyu'ndaki (Booty Bay) Baron Revilgaz için lanetli adayı bul.",
+    ["Objectives"]="Ganimet Koyu'ndaki (Ganimet Koyu(Booty Bay)) Baron Revilgaz için lanetli adayı bul.",
     ["Progress"]="Troller gerçekten de inanılmaz büyülü nesnelere sahiptiler, YOUR_NAME. Ve şimdi, belki de geniş koleksiyonuma bir yenisini ekleme fırsatına sahibim. Söylentinin kaynağını bulma konusunda bir şansın yaver gitti mi?",
     ["Completion"]="Demek hikayeler doğruymuş! İnanılmaz!\n\nAncak, eğer onu geri getireceksek Gelgitlerin Taşı'nın lanetini yenmenin bir yolunu bulmamız gerekecek. Lanet meselesi büyü işidir, bize yardım etmesi için şu sihirbazlardan birine ihtiyacımız olacak.",
     ["minlevel"]="0",
@@ -48124,7 +48120,7 @@ QuestTranslator_QuestData = {
     }, -- end The Stone of the Tides
     -- Excelsior
     -- Drizzlik -> Drizzlik kalmıştır (MobNpcData.lua).
-    -- Booty Bay -> Ganimet Koyu (ZoneData.lua).
+    -- Ganimet Koyu(Booty Bay) -> Ganimet Koyu (ZoneData.lua).
     -- Elder Crocolisk Skin -> Yaşlı Timsah Derisi (Elder -> Yaşlı/Kadim, Crocolisk -> Timsah, Skin -> Deri).
     -- elder saltwater crocolisk -> yaşlı tuzlu su timsahı (Saltwater -> Tuzlu su).
     -- Excelsior line -> Kusursuz Serisi (Excelsior -> Kusursuz).
@@ -48134,7 +48130,7 @@ QuestTranslator_QuestData = {
     ["628"] = { 
     ["Title"]="Kusursuz",
     ["Description"]="İç kısım bittiğine göre, geriye kalan tek şey dış katmanı eklemek. Bunun için sadece en iyi yaşlı timsah derilerini kullanırım. Bunlar daha dayanıklıdır ve Drizzlik'in Kusursuz serisini oluşturan tasarımları ve işlemeleri eklemek için tabiri caizse daha iyi bir tuval sunarlar.\n\nYine de o mükemmel deriyi bulmak zordur; planıma uyan tek deri yaşlı bir tuzlu su timsahının derisidir. Yaşlılar sadece diğer tuzlu su timsahlarını korumak için ortaya çıkarlar, bu yüzden birini dışarı çekmek için birkaç tanesini öldürmen gerekebilir.",
-    ["Objectives"]="Ganimet Koyu'ndaki (Booty Bay) Drizzlik'e bir Yaşlı Timsah Derisi (Elder Crocolisk Skin) getir.",
+    ["Objectives"]="Ganimet Koyu'ndaki (Ganimet Koyu(Booty Bay)) Drizzlik'e bir Yaşlı Timsah Derisi (Elder Crocolisk Skin) getir.",
     ["Progress"]="Bir yerde tuzlu su timsahlarının neslinin yavaş yavaş tükendiğini okumuştum... İşim için kötü haber, değil mi?\n\nHepsi bir yana, umarım benim için o yaşlı tuzlu su timsahı derisini getirmişsindir!",
     ["Completion"]="Harika! Yardımın sayesinde bu siparişi tamamlayıp Yeraltı'na (Undermine) gidecek ilk tekneyle Müdür Bilmecekutusu'na göndereceğim. Hem de programın ilerisinde!\n\nTüm bu sıkı çalışman için al bakalım, fazladan birkaç tane üretmiştim, o yüzden bir çift al. Drizzlik'in ikramı olsun.\n\nVe unutma, Drizzlik'in Kusursuz serisinden daha iyi hiçbir çizme yoktur!",
     ["minlevel"]="0",
@@ -48142,7 +48138,7 @@ QuestTranslator_QuestData = {
     }, -- end Excelsior
     -- Water Elementals
     -- Baron Revilgaz -> Baron Revilgaz kalmıştır (MobNpcData.lua).
-    -- Booty Bay -> Ganimet Koyu (ZoneData.lua).
+    -- Ganimet Koyu(Booty Bay) -> Ganimet Koyu (ZoneData.lua).
     -- Gazban -> Gazban kalmıştır (MobNpcData.lua).
     -- Water Elemental Bracers -> Su Elementali Kollukları (Water Elemental -> Su Elementali, Bracers -> Kolluklar/Bileklikler).
     -- Stone of the Tides -> Gelgitlerin Taşı (Stone -> Taş, Tides -> Gelgitler).
@@ -48150,7 +48146,7 @@ QuestTranslator_QuestData = {
     ["601"] = { -- Quest ID varsayılan olarak yerleştirilmiştir.
     ["Title"]="Su Elementalleri",
     ["Description"]="Su elementalleri hiç şüphesiz, Gelgitlerin Taşı'nı (Stone of the Tides) keşfettiği söylenen goblin büyücü Gazban tarafından çağrılmıştı.\n\nBileceğin üzere, Gelgitlerin Taşı taşıyıcısını lanetler ve onun varoluş sınırlarında bir görünüp bir kaybolmasına neden olur...\n\nBelki de bu lanete karşı koymanın bir yolunu bulabiliriz. Dalaran'daki bir büyücüye, su elementallerinin kolluklarından birindeki büyülü kalıntıyı analiz ettirebiliriz. Adaya geri dönüp birkaç örnek ele geçirmene ihtiyacım var.",
-    ["Objectives"]="Ganimet Koyu'ndaki (Booty Bay) Baron Revilgaz için 6 Su Elementali Kolluğu (Water Elemental Bracers) elde et.",
+    ["Objectives"]="Ganimet Koyu'ndaki (Ganimet Koyu(Booty Bay)) Baron Revilgaz için 6 Su Elementali Kolluğu (Water Elemental Bracers) elde et.",
     ["Progress"]="Şansın yaver gitti mi, YOUR_NAME?",
     ["Completion"]="Hm, bu kollukları inceleyip herhangi birinin işe yarayıp yaramayacağını anlayacak göz bende yok; ama eminim en az bir tanesi yardımcı olacaktır. Onları Dalaran'a götür ve bir büyücünün onlara bakmasını sağla.\n\nNe de olsa, sırf o usandırıcı yaşlı büyücülerle laflamak için Ganimet Koyu'ndan öylece ayrılamam.\n\nYeni baron olmak için birilerinin aradan sıyrılmaya çalışacağından endişelendiğimden de değil. Kimse Revilgaz'a karşı gelip de bunu anlatacak kadar hayatta kalamaz.",
     ["minlevel"]="0",
@@ -48160,15 +48156,15 @@ QuestTranslator_QuestData = {
     -- Zanzil the Outcast -> Dışlanmış Zanzil (Outcast -> Dışlanmış/Sürgün edilmiş).
     -- Zanzil -> Zanzil kalmıştır (MobNpcData.lua).
     -- Crank Fizzlebub -> Çark Cızırtılıbalon (Önceki görevlerde sabitlediğimiz goblin ismi).
-    -- Booty Bay -> Ganimet Koyu (ZoneData.lua).
+    -- Ganimet Koyu(Booty Bay) -> Ganimet Koyu (ZoneData.lua).
     -- Zanzil's Mixture -> Zanzil'in Karışımı (Mixture -> Karışım/İksir).
     -- Jubuwai Ruins -> Jubuwai Harabeleri (Trol yerleşkesi / Özel isim).
     -- Aboraz Ruins -> Aboraz Harabeleri (Trol yerleşkesi / Özel isim).
     -- Belt of Corruption -> Yozlaşma Kemeri (Belt -> Kemer, Corruption -> Yozlaşma).
     ["621"] = { 
     ["Title"]="Zanzil'in Sırrı",
-    ["Description"]="Dışlanmış Zanzil, Ganimet Koyu'nun (Booty Bay) kuzeydoğusundaki Jubuwai ve Aboraz Harabeleri'nde (Jubuwai and Aboraz Ruins) takipçileriyle birlikte yaşıyor. Kabilesinden sürgün edilmiş durumda. Neden mi? Şey...\n\nZanzil'in başkalarının zihnini bükme yöntemleri var ve liderleri ondan korkuyor. Takipçilerinin iradesini bastırmak ve vücutlarını güçlendirmek için onların üzerinde orman bitkilerinden oluşan bir karışım kullanıyor.\n\nOnun bu karışımı, başkalarını kontrol etmek isteyenler için çok değerli olacaktır.\n\nBana bu karışımdan örnekler getir, ben de onlar için bir kullanım alanı bulayım.",
-    ["Objectives"]="Ganimet Koyu'ndaki (Booty Bay) Çark Cızırtılıbalon'a 12 adet Zanzil'in Karışımı (Zanzil's Mixture) örneği getir.",
+    ["Description"]="Dışlanmış Zanzil, Ganimet Koyu'nun (Ganimet Koyu(Booty Bay)) kuzeydoğusundaki Jubuwai ve Aboraz Harabeleri'nde (Jubuwai and Aboraz Ruins) takipçileriyle birlikte yaşıyor. Kabilesinden sürgün edilmiş durumda. Neden mi? Şey...\n\nZanzil'in başkalarının zihnini bükme yöntemleri var ve liderleri ondan korkuyor. Takipçilerinin iradesini bastırmak ve vücutlarını güçlendirmek için onların üzerinde orman bitkilerinden oluşan bir karışım kullanıyor.\n\nOnun bu karışımı, başkalarını kontrol etmek isteyenler için çok değerli olacaktır.\n\nBana bu karışımdan örnekler getir, ben de onlar için bir kullanım alanı bulayım.",
+    ["Objectives"]="Ganimet Koyu'ndaki (Ganimet Koyu(Booty Bay)) Çark Cızırtılıbalon'a 12 adet Zanzil'in Karışımı (Zanzil's Mixture) örneği getir.",
     ["Progress"]="Zanzil'in Karışımı örnekleri yanında mı??",
     ["Completion"]="Ah, çok güzel! İşte ödemen.\n\nVe bu da küçük bir ekstra... Gösterdiğin sağduyu ve gizlilik için.",
     ["minlevel"]="0",
@@ -48176,14 +48172,14 @@ QuestTranslator_QuestData = {
     }, -- end Zanzil's Secret
     -- Favor for Krazek
     -- Krazek -> Krazek kalmıştır (MobNpcData.lua).
-    -- Booty Bay -> Ganimet Koyu (ZoneData.lua).
+    -- Ganimet Koyu(Booty Bay) -> Ganimet Koyu (ZoneData.lua).
     -- Lesser Bloodstone Ore -> Küçük Kanşıt Cevheri (Lesser -> Küçük/Düşük, Bloodstone -> Kan taşı / Kanşıt, Ore -> Cevher).
     -- Drywhisker Gorge -> Kuruvelet Kanyonu (Dry -> Kuru, Whisker -> Bıyık/Velet kelime oyunu, Gorge -> Kanyon/Geçit).
     -- Arathi Highlands -> Arathi Tepeleri (Arathi -> Aynen kalmıştır, Highlands -> Tepeleri/Yüksek Toprakları).
     ["627"] = { 
     ["Title"]="Krazek için Bir Lütuf",
     ["Description"]="Uzak kuzeydeki Arathi Tepeleri'nde (Arathi Highlands), Kuruvelet Kanyonu'nda (Drywhisker Gorge) bir dağ mağarası var. O mağarada nadir bir cevher bulunur: Kan taşı. Bu mağaradaki kan taşı en yüksek kalitede değildir, ancak düşük kaliteli kan taşı bile değerlidir... Tabii onu nasıl kullanacağını bilenler için.\n\nBen de biraz istiyorum.\n\nSenin şu güveç tencereni tamir edeceğim, ama ben onun üzerinde çalışırken... bana kan taşı örnekleri getir. Yeterince getirirsen sana bir bonus bile veririm.\n\nOh, ve eğer onu çıkaracak madencilik yeteneğin yoksa... O yeteneğe sahip birini bul!",
-    ["Objectives"]="Ganimet Koyu'ndaki (Booty Bay) Krazek'e 4 yığın Küçük Kanşıt Cevheri (Lesser Bloodstone Ore) getir.",
+    ["Objectives"]="Ganimet Koyu'ndaki (Ganimet Koyu(Booty Bay)) Krazek'e 4 yığın Küçük Kanşıt Cevheri (Lesser Bloodstone Ore) getir.",
     ["Progress"]="Merhaba, YOUR_NAME. Kan taşını getirme konusunda şansın yaver gitti mi?",
     ["Completion"]="Ah, şahane! Benim için büyük bir lütufta bulundun.\n\nİşte ödemen...",
     ["minlevel"]="0",
@@ -48191,14 +48187,14 @@ QuestTranslator_QuestData = {
     }, -- end Favor for Krazek
     -- The Bloodsail Buccaneers
     -- First Mate Crazz -> İkinci Kaptan Crazz (First Mate -> Gemi ikinci kaptanı / süvari muavini, Crazz -> MobNpcData.lua).
-    -- Booty Bay -> Ganimet Koyu (ZoneData.lua).
+    -- Ganimet Koyu(Booty Bay) -> Ganimet Koyu (ZoneData.lua).
     -- Bloodsail Buccaneers -> Kanlıyel Korsanları (Bloodsail -> Kanlıyel, Buccaneers -> Korsanlar/Yağmacılar).
     -- Blackwater Raiders -> Karasu Akıncıları (Blackwater -> Karasu, Raiders -> Akıncılar/Yağmacılar).
     -- Savage Coast -> Vahşi Kıyı (Savage -> Vahşi, Coast -> Kıyı).
     -- Stranglethorn -> İstisna uyarınca çevrilmeden aynen bırakılmıştır.
     ["595"] = { 
     ["Title"]="Kanlıyel Korsanları 1",
-    ["Description"]="Çalışmaya gerçekten çok hevesli görünüyorsun, ahbap. Karayı seven bir YOUR_RACE YOUR_CLASS olarak neden Karasu Akıncıları'na (Blackwater Raiders) yardım teklif ettiğini pek anlamadım ama seni geri çevirecek de değilim.\n\nGemi daha yeni Ganimet Koyu'na (Booty Bay) yanaştı ve söylentilere göre rakiplerimiz olan şu lanet olası, pis Kanlıyel Korsanları (Bloodsail Buccaneers) güney Stranglethorn'un dört bir yanında görülmüş.\n\nBizim çocukların hepsi içki alemi yapmakla ve kız peşinde koşmakla meşgul! Bana lazım olan şey ise bir gözcü.\n\nVahşi Kıyı (Savage Coast) boyunca, Ganimet Koyu'nun hemen kuzeyindeki koyu kontrol et ve ne bulacağına bir bak.",
+    ["Description"]="Çalışmaya gerçekten çok hevesli görünüyorsun, ahbap. Karayı seven bir YOUR_RACE YOUR_CLASS olarak neden Karasu Akıncıları'na (Blackwater Raiders) yardım teklif ettiğini pek anlamadım ama seni geri çevirecek de değilim.\n\nGemi daha yeni Ganimet Koyu'na (Ganimet Koyu(Booty Bay)) yanaştı ve söylentilere göre rakiplerimiz olan şu lanet olası, pis Kanlıyel Korsanları (Bloodsail Buccaneers) güney Stranglethorn'un dört bir yanında görülmüş.\n\nBizim çocukların hepsi içki alemi yapmakla ve kız peşinde koşmakla meşgul! Bana lazım olan şey ise bir gözcü.\n\nVahşi Kıyı (Savage Coast) boyunca, Ganimet Koyu'nun hemen kuzeyindeki koyu kontrol et ve ne bulacağına bir bak.",
     ["Objectives"]="İkinci Kaptan Crazz, Ganimet Koyu'nun kuzeyindeki koyu kontrol etmeni istiyor.",
     ["Progress"]="", -- Görev metninde Progress (İlerleme) bölümü bulunmamaktadır.
     ["Completion"]="Küçük teknenin içinde, aceleyle yazılmış bazı metinlerin bulunduğu bir harita ve birkaç madeni para keşfediyorsun.",
@@ -48207,12 +48203,12 @@ QuestTranslator_QuestData = {
     }, -- end The Bloodsail Buccaneers
     -- The Bloodsail Buccaneers
     -- First Mate Crazz -> İkinci Kaptan Crazz (First Mate -> Gemi ikinci kaptanı / süvari muavini, Crazz -> MobNpcData.lua).
-    -- Booty Bay -> Ganimet Koyu (ZoneData.lua).
+    -- Ganimet Koyu(Booty Bay) -> Ganimet Koyu (ZoneData.lua).
     -- Bloodsail Buccaneers -> Kanlıyel Korsanları (Bloodsail -> Kanlıyel, Buccaneers -> Korsanlar/Yağmacılar).
     ["597"] = { 
     ["Title"]="Kanlıyel Korsanları 2",
-    ["Description"]="Harita, tam olarak durduğun noktaya kırmızı bir \"X\" işareti çizilmiş haldeki Ganimet Koyu'nu (Booty Bay) gösteriyor.\n\nKaralanmış metinde şunlar okunuyor:\n\n\"Sizler bu konumda bir kamp kurup sessiz kalacaksınız. Saldırıya geçmeden önce güneydeki komuta merkezinden gelecek işareti bekleyin. Eğer birisi size yaklaşırsa, onu öldürün.\"",
-    ["Objectives"]="Bulgularını Ganimet Koyu'ndaki (Booty Bay) İkinci Kaptan Crazz'a bildir.",
+    ["Description"]="Harita, tam olarak durduğun noktaya kırmızı bir \"X\" işareti çizilmiş haldeki Ganimet Koyu'nu (Ganimet Koyu(Booty Bay)) gösteriyor.\n\nKaralanmış metinde şunlar okunuyor:\n\n\"Sizler bu konumda bir kamp kurup sessiz kalacaksınız. Saldırıya geçmeden önce güneydeki komuta merkezinden gelecek işareti bekleyin. Eğer birisi size yaklaşırsa, onu öldürün.\"",
+    ["Objectives"]="Bulgularını Ganimet Koyu'ndaki (Ganimet Koyu(Booty Bay)) İkinci Kaptan Crazz'a bildir.",
     ["Progress"]="", -- Görev metninde Progress (İlerleme) bölümü bulunmamaktadır.
     ["Completion"]="Elbette, seni hatırlıyorum, YOUR_CLASS. Gözcülükten döndün demek...",
     ["minlevel"]="0",
@@ -48222,12 +48218,12 @@ QuestTranslator_QuestData = {
     -- Fleet Master Seahorn -> Filo Komutanı Denizboynuzu (Fleet Master -> Filo Komutanı, Seahorn -> Denizboynuzu).
     -- Fleet Master Seahorn -> MobNpcData.lua dosyasında "Seahorn" olarak geçmekte, ünvan ve soyadı birleştirilmiştir.
     -- Bloodsail Buccaneers -> Kanlıyel Korsanları (Bloodsail -> Kanlıyel, Buccaneers -> Korsanlar).
-    -- Booty Bay -> Ganimet Koyu (ZoneData.lua).
+    -- Ganimet Koyu(Booty Bay) -> Ganimet Koyu (ZoneData.lua).
     -- Blackwater Raiders -> Karasu Akıncıları (Blackwater -> Karasu, Raiders -> Akıncılar/Yağmacılar).
     -- Overlook Cliffs -> Manzara Kayalıkları (Overlook -> Manzara/Gözetleme, Cliffs -> Kayalıklar).
     ["599"] = { 
     ["Title"]="Kanlıyel Korsanları 3",
-    ["Description"]="Vay canına! Demek Kanlıyel Korsanları (Bloodsail Buccaneers) Ganimet Koyu'na (Booty Bay) bir tür saldırı planlıyor ha? Bak sen şu alçakların küstahlığına! Ganimet Koyu her zaman Karasu Akıncıları (Blackwater Raiders) tarafından yönetilecek!\n\nBu iş düşündüğümden de büyük. Öğrendiklerini derhal Filo Komutanı Denizboynuzu'na (Fleet Master Seahorn) bildir! O ihtiyar deniz kurdu buralarda bir yerlerdedir...",
+    ["Description"]="Vay canına! Demek Kanlıyel Korsanları (Bloodsail Buccaneers) Ganimet Koyu'na (Ganimet Koyu(Booty Bay)) bir tür saldırı planlıyor ha? Bak sen şu alçakların küstahlığına! Ganimet Koyu her zaman Karasu Akıncıları (Blackwater Raiders) tarafından yönetilecek!\n\nBu iş düşündüğümden de büyük. Öğrendiklerini derhal Filo Komutanı Denizboynuzu'na (Fleet Master Seahorn) bildir! O ihtiyar deniz kurdu buralarda bir yerlerdedir...",
     ["Objectives"]="Planlanan Kanlıyel saldırısını Ganimet Koyu'ndaki Filo Komutanı Denizboynuzu'na bildir.",
     ["Progress"]="", -- Görev metninde Progress (İlerleme) bölümü bulunmamaktadır.
     ["Completion"]="Kanlıyel Korsanları Ganimet Koyu'na mı saldırıyor? Gidip kendilerini Manzara Kayalıkları'ndan (Overlook Cliffs) aşağı atsalar daha iyi ederler. Yine de bu bilgiyi bana getirerek fedai filoma büyük bir hizmette bulundun. Karasu Akıncıları sana teşekkür eder.",
@@ -48236,7 +48232,7 @@ QuestTranslator_QuestData = {
     }, -- end The Bloodsail Buccaneers
     -- The Bloodsail Buccaneers
     -- Fleet Master Seahorn -> Filo Komutanı Denizboynuzu (Fleet Master -> Filo Komutanı, Seahorn -> Denizboynuzu).
-    -- Booty Bay -> Ganimet Koyu (ZoneData.lua).
+    -- Ganimet Koyu(Booty Bay) -> Ganimet Koyu (ZoneData.lua).
     -- Bloodsail Buccaneers -> Kanlıyel Korsanları (Bloodsail -> Kanlıyel, Buccaneers -> Korsanlar).
     -- Bloodsail Swashbuckler -> Kanlıyel Fedaisi (Swashbuckler -> Fedai/Kabadayı).
     -- Bloodsail Charts -> Kanlıyel Haritaları (Charts -> Seyir Haritaları).
@@ -48247,7 +48243,7 @@ QuestTranslator_QuestData = {
     ["604"] = { 
     ["Title"]="Kanlıyel Korsanları 4",
     ["Description"]="Crazz, Karasu Akıncıları'na (Blackwater Raiders) olan bağlılığından övgüyle bahsediyor. Filo için son derece büyük önem taşıyan bir görevde sana güveneceğim.\n\nKanlıyel Korsanları'nın (Bloodsail Buccaneers) Vahşi Kıyı'da (Wild Shore) kurduğu sözde güney komuta merkezine sız. Kampı yağmala. Bana yazılı emirleriyle birlikte haritalarını da getir. O pisliklerin tam olarak ne peşinde olduklarını göreceğiz.",
-    ["Objectives"]="Ganimet Koyu'ndaki (Booty Bay) Filo Komutanı Denizboynuzu, 10 Kanlıyel Fedaisi (Bloodsail Swashbuckler) öldürmeni, Kanlıyel Haritaları'nı (Bloodsail Charts) ve Kanlıyel Emirleri'ni (Bloodsail Orders) geri getirmeni istiyor.",
+    ["Objectives"]="Ganimet Koyu'ndaki (Ganimet Koyu(Booty Bay)) Filo Komutanı Denizboynuzu, 10 Kanlıyel Fedaisi (Bloodsail Swashbuckler) öldürmeni, Kanlıyel Haritaları'nı (Bloodsail Charts) ve Kanlıyel Emirleri'ni (Bloodsail Orders) geri getirmeni istiyor.",
     ["Progress"]="Ahoy, YOUR_NAME. Güneydeki Kanlıyel kampından ne haberler getiriyorsun?",
     ["Completion"]="Mükemmel, YOUR_NAME. Artık planlarını bildiğimize göre gerisi sadece an meselesi.\n\nBir de şu aptalların tam burnun açığına demir attıklarını düşününce....",
     ["minlevel"]="0",
@@ -48255,7 +48251,7 @@ QuestTranslator_QuestData = {
     }, -- end The Bloodsail Buccaneers
     -- The Bloodsail Buccaneers
     -- Fleet-Master Seahorn / Fleet Master Seahorn -> Filo Komutanı Denizboynuzu (Fleet Master -> Filo Komutanı, Seahorn -> Denizboynuzu).
-    -- Booty Bay -> Ganimet Koyu (ZoneData.lua).
+    -- Ganimet Koyu(Booty Bay) -> Ganimet Koyu (ZoneData.lua).
     -- Bloodsail Buccaneers -> Kanlıyel Korsanları (Bloodsail -> Kanlıyel, Buccaneers -> Korsanlar).
     -- Captain Stillwater -> Kaptan Durgunsu (Captain -> Kaptan, Stillwater -> Durgunsu).
     -- Captain Keelhaul -> Kaptan Omurgaçeken (Keelhaul -> Omurga altından çekmek, gemi cezası / anlamca çevrilmiştir).
@@ -48266,7 +48262,7 @@ QuestTranslator_QuestData = {
     ["608"] = { 
     ["Title"]="Kanlıyel Korsanları 5",
     ["Description"]="Firallon'un küstahlığına lanet olsun! Bırakın bize karşı koca bir filoya liderlik etmeyi, Kristal Göl'de (Crystal Lake) küçük bir tekneyi bile yüzdüremez.\n\nKanlıyel Korsanları (Bloodsail Buccaneers) bu dikkatsizliklerinin bedelini ödeyecekler. Artık onların saldırı planını bildiğimize göre, kendilerine neyin çarptığını bile anlamadan karşı saldırıya geçebiliriz.\n\nAma bir tek cesur macera grubunun yapabileceği bir iş için neden tüm filoyu gönderelim ki? YOUR_NAME, en yetenekli yoldaşlarından bazılarını yanına alarak Firallon'un çıkarma yaptığı yere git ve Kanlıyel lider kadrosuna suikast düzenle. Onların filosu çok geçmeden batacaktır...",
-    ["Objectives"]="Ganimet Koyu'ndaki (Booty Bay) Filo Komutanı Denizboynuzu; Kaptan Durgunsu (Captain Stillwater), Kaptan Omurgaçeken (Captain Keelhaul) ve Filo Komutanı Firallon'u (Fleet Master Firallon) öldürmeni istiyor.",
+    ["Objectives"]="Ganimet Koyu'ndaki (Ganimet Koyu(Booty Bay)) Filo Komutanı Denizboynuzu; Kaptan Durgunsu (Captain Stillwater), Kaptan Omurgaçeken (Captain Keelhaul) ve Filo Komutanı Firallon'u (Fleet Master Firallon) öldürmeni istiyor.",
     ["Progress"]="Sorun nedir, YOUR_NAME? Kanlıyel Korsanları harekete geçmeden önce bizim saldırmamız gerekiyor!",
     ["Completion"]="Ah, Karasu Akıncıları (Blackwater Raiders) için ne harika bir gün! Senin şerefine üç kroşa, YOUR_NAME!",
     ["minlevel"]="0",
@@ -48377,14 +48373,14 @@ QuestTranslator_QuestData = {
     }, -- end Breaking the Keystone
     -- Scaring Shaky
     -- "Shaky" Phillipe -> "Korkak" Phillipe ("Shaky" -> Korkak/Tir tir titreyen anlamında Phillipe'in lakabı olarak çevrilmiştir).
-    -- Booty Bay -> Ganimet Koyu (ZoneData.lua).
+    -- Ganimet Koyu(Booty Bay) -> Ganimet Koyu (ZoneData.lua).
     -- Mistvale Giblets -> Sislivadi Sakatatı (Mistvale -> Sislivadi, Giblets -> Sakatat/Sakatatlar).
     -- Elder Mistvale Gorilla -> Yaşlı Sislivadi Gorili (Elder -> Yaşlı, Mistvale -> Sislivadi, Gorilla -> Goril).
     -- Sea Wolf / "Sea Wolf" MacKinley -> "Deniz Kurdu" MacKinley (Sea Wolf -> Deniz Kurdu).
     ["606"] = { 
     ["Title"]="Korkak'ı Korkutmak",
     ["Description"]="Katlanamadığım bir şey varsa, o da kumar borçlarını ödemeyen insanlardır! Ve bana borcu olan bir sürü insan var. Bunları tahsil etmeme yardım edebileceğini düşünüyor musun?\n\nİlk olarak, rıhtımın orada duran \"Korkak\" (Shaky) Phillipe var. Geçen haftaki oyundan sonra bana epey borçlandı ve ben hakkımı istiyorum! Ama onu almak için önce onu korkutmamız gerekecek.\n\nKasabanın dışına çık ve Yaşlı Sislivadi Gorilleri (Elder Mistvale Gorilla) avla. Şöyle güzelinden bir sakatat seçkisi bul, sonra onları Korkak'a götür. Bunların bir hayvana ait olduğunu çaktırma; bırak en kötüsünü düşünsün.",
-    ["Objectives"]="5 Sislivadi Sakatatı'nı (Mistvale Giblets) Ganimet Koyu'ndaki (Booty Bay) \"Korkak\" (Shaky) Phillipe'e götür.",
+    ["Objectives"]="5 Sislivadi Sakatatı'nı (Mistvale Giblets) Ganimet Koyu'ndaki (Ganimet Koyu(Booty Bay)) \"Korkak\" (Shaky) Phillipe'e götür.",
     ["Progress"]="Hey! Bana attığın o bakış hiç hoşuma gitmedi, bayım.",
     ["Completion"]="Ayy! Bunları nereden buldun? Hayır, söyleme bana. Bilmek istemiyorum!\n\nSeni kim gönderdi? Deniz Kurdu (Sea Wolf) mu?",
     ["minlevel"]="0",
@@ -48393,7 +48389,7 @@ QuestTranslator_QuestData = {
 
     -- Stoley's Debt
     -- Steamwheedle Port -> Buharçark Limanı (Steamwheedle -> Buharçark, Port -> Liman) (ZoneData.lua).
-    -- Booty Bay -> Ganimet Koyu (ZoneData.lua).
+    -- Ganimet Koyu(Booty Bay) -> Ganimet Koyu (ZoneData.lua).
     -- Steamwheedle Bilge Rum -> Buharçark Sintine Romu (Bilge -> Sintine, Rum -> Rom).
     -- Tanaris -> Tanaris kalmıştır (ZoneData.lua).
     -- Kalimdor -> Kalimdor kalmıştır.
@@ -48401,7 +48397,7 @@ QuestTranslator_QuestData = {
     -- Stoley -> Stoley kalmıştır (MobNpcData.lua).
     ["2872"] = { 
     ["Title"]="Stoley'nin Borcu",
-    ["Description"]="Eski dostum Stoley bana çok özel bir şişe rom borçlu. Kalimdor'daki Tanaris'te, Buharçark Limanı'nda (Steamwheedle Port) barmenlik yapıyor ve bana oradaki romun Ganimet Koyu'nda (Booty Bay) bulabileceğimiz her şeyden daha sert olduğuna söz vermişti. Kendine o kadar güveniyor ki, eğer o romu dener de onunla aynı fikirde olmazsam bana olan borcunu ikiye katlayacağını söylüyor!\n\nPekala, bence son konuşmamızdaki kadar kendine güvenmiyor ve şimdi bana o romu vermeye korkuyor. Ama ben iddialardan asla geri adım atmam, bu yüzden neden benim yerime onunla konuşmuyorsun...",
+    ["Description"]="Eski dostum Stoley bana çok özel bir şişe rom borçlu. Kalimdor'daki Tanaris'te, Buharçark Limanı'nda (Steamwheedle Port) barmenlik yapıyor ve bana oradaki romun Ganimet Koyu'nda (Ganimet Koyu(Booty Bay)) bulabileceğimiz her şeyden daha sert olduğuna söz vermişti. Kendine o kadar güveniyor ki, eğer o romu dener de onunla aynı fikirde olmazsam bana olan borcunu ikiye katlayacağını söylüyor!\n\nPekala, bence son konuşmamızdaki kadar kendine güvenmiyor ve şimdi bana o romu vermeye korkuyor. Ama ben iddialardan asla geri adım atmam, bu yüzden neden benim yerime onunla konuşmuyorsun...",
     ["Objectives"]="Buharçark Limanı'ndaki (Steamwheedle Port) Stoley ile konuş.",
     ["Progress"]="", -- Görev metninde Progress (İlerleme) bölümü bulunmamaktadır.
     ["Completion"]="Ah, demek MacKinley ile konuşuyordun, öyle mi?\n\nHiç de düşündüğü gibi değil! Ona biraz Buharçark Sintine Romu (Steamwheedle Bilge Rum) vermekten korkmuyorum...\n\nSadece ona verecek hiç romum yok!",
@@ -48428,26 +48424,26 @@ QuestTranslator_QuestData = {
     -- Krazek's Fixed Pot -> Krazek'in Onarılmış Tenceresi (Fixed -> Onarılmış/Tamir edilmiş, Pot -> Tencere/Çömlek).
     -- Krazek's Crock Pot -> Krazek'in Güveç Tenceresi (Crock Pot -> Güveç Tenceresi).
     -- Cap of Harmony -> Uyum Başlığı (Cap -> Başlık, Harmony -> Uyum/Ahenk).
-    -- Booty Bay -> Ganimet Koyu (ZoneData.lua).
+    -- Ganimet Koyu(Booty Bay) -> Ganimet Koyu (ZoneData.lua).
     -- Krazek -> Krazek kalmıştır (MobNpcData.lua).
     ["622"] = { 
     ["Title"]="Onbaşı Kaleb'e Geri Dön",
     ["Description"]="Sen yokken bana getirdiğin tencereyi tamir ettim. Hatta fazladan bir buhar düdüğü bile ekledim, bak hele! Alt kısmında bacak kemiklerini bile kesecek yeni bir doğrayıcı var!\n\nEvet evet, Krazek'in Güveç Tenceresi (Krazek's Crock Pot) aşçıları yüzde yüz memnun edecek cinsten! Sahibinin memnun kalacağından eminim.",
     ["Objectives"]="Krazek'in Onarılmış Tenceresi'ni (Krazek's Fixed Pot) Asi Kampı'ndaki (Rebel Camp) Onbaşı Kaleb'e getir.",
-    ["Progress"]="Merhaba, YOUR_NAME. Ganimet Koyu'na (Booty Bay) ulaşabildin mi? Goblin Krazek tenceremi tamir etti mi??",
-    ["Completion"]="Tamir edilmiş! Bu harika, artık akşam yemeğine başlayabilirim! Çok teşekkürler, YOUR_NAME.\n\nGanimet Koyu'nda (Booty Bay) iyi olduğunu umuyorum. Orası epey tekinsiz bir yer olabiliyor ve... goblinlerin bazen sarhoş denizcileri köle gemilerine sürükleyip kim bilir nereye... kim bilir ne yapmaya götürdüklerine dair söylentiler duydum...",
+    ["Progress"]="Merhaba, YOUR_NAME. Ganimet Koyu'na (Ganimet Koyu(Booty Bay)) ulaşabildin mi? Goblin Krazek tenceremi tamir etti mi??",
+    ["Completion"]="Tamir edilmiş! Bu harika, artık akşam yemeğine başlayabilirim! Çok teşekkürler, YOUR_NAME.\n\nGanimet Koyu'nda (Ganimet Koyu(Booty Bay)) iyi olduğunu umuyorum. Orası epey tekinsiz bir yer olabiliyor ve... goblinlerin bazen sarhoş denizcileri köle gemilerine sürükleyip kim bilir nereye... kim bilir ne yapmaya götürdüklerine dair söylentiler duydum...",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Return to Corporal Kaleb
     -- Up to Snuff
     -- Deeg -> Deeg kalmıştır (Özel goblin ismi).
-    -- Booty Bay -> Ganimet Koyu (ZoneData.lua).
+    -- Ganimet Koyu(Booty Bay) -> Ganimet Koyu (ZoneData.lua).
     -- Snuff -> Enfiye (Tütün tozu/enfiyesi).
     -- Bloodsail Raiders -> Kanlıyel Yağmacıları (Bloodsail -> Kanlıyel/Kanyel, Raiders -> Yağmacılar).
     ["587"] = { 
     ["Title"]="Enfiye Kıvamında",
     ["Description"]="Ah, deniz hayatı. Güzel bir hayat olduğunu söylemeyeceğim ama benim hayatım işte.\n\nLimana yanaştığımda kendime güzel bir şişe sert içki ve kaliteli bir enfiye (snuff) bulmayı severim. Pis alışkanlıklar tabii, ama kötü huyları olmayan bir korsanın ne anlamı kalır ki, değil mi?\n\nPekala, kasabadaki aktarın elindeki tüm enfiyeyi sattığını öğrendiğimde ne kadar kahrolduğumu tahmin edebilirsin. Sevkiyatının o lanet Kanlıyel Yağmacıları (Bloodsail Raiders) tarafından kaçırıldığını söylüyor.\n\nSenin gibi korkusuz bir YOUR_CLASS'in onları bu malları paylaşmaya ikna edebileceğine bahse girerim, ha?",
-    ["Objectives"]="Ganimet Koyu'ndaki (Booty Bay) Deeg, ona 15 adet Enfiye (Snuff) getirmeni istiyor.",
+    ["Objectives"]="Ganimet Koyu'ndaki (Ganimet Koyu(Booty Bay)) Deeg, ona 15 adet Enfiye (Snuff) getirmeni istiyor.",
     ["Progress"]="Malları bulma konusunda bir gelişme var mı, dostum?",
     ["Completion"]="Harika iş, YOUR_NAME! Tam da denize açılmam gereken zamandan hemen önce yetiştin! Sana ne kadar teşekkür etsem azdır, eski dostum.",
     ["minlevel"]="0",
@@ -48826,8 +48822,8 @@ QuestTranslator_QuestData = {
 -- [Deprecated] Night's Exploration
     ["50230"] = {
     ["Title"]="[Deprecated] Night's Exploration",
-    ["Description"]="Come here, adventurer!I see that you are a capable person so I'll teach you something useful since fate brought us together.You could benefit from out here in the jungle!If you bring me a tight rope from Jaquilina there, some oil from the goblins of Booty Bay and a thick club you will find around the camp, then I will let you in on a unique way on how to construct a proper torch in no time that you could use in your travels for either a night's exploration or to safeguard yourself against wild animals.See the ones near our camp? They never go out!",
-    ["Objectives"]="Bring a rope from Jaquilina, oil from Booty Bay and a club from around the camp to Nesingwary's Expedition for S. J. Erlgadin.",
+    ["Description"]="Come here, adventurer!I see that you are a capable person so I'll teach you something useful since fate brought us together.You could benefit from out here in the jungle!If you bring me a tight rope from Jaquilina there, some oil from the goblins of Ganimet Koyu(Booty Bay) and a thick club you will find around the camp, then I will let you in on a unique way on how to construct a proper torch in no time that you could use in your travels for either a night's exploration or to safeguard yourself against wild animals.See the ones near our camp? They never go out!",
+    ["Objectives"]="Bring a rope from Jaquilina, oil from Ganimet Koyu(Booty Bay) and a club from around the camp to Nesingwary's Expedition for S. J. Erlgadin.",
     ["Progress"]="Have you gathered all materials?",
     ["Completion"]="Ah! You brought the materials. Splendid!Watch carefully!",
     ["minlevel"]="0",
@@ -49298,7 +49294,7 @@ QuestTranslator_QuestData = {
     -- Avast Ye, Admiral!
     ["4621"] = {
     ["Title"]="Kahrol, Amiral!",
-    ["Description"]="İyi dinle, deniz kurdu... Ganimet Koyu'nun (Booty Bay) gücü, biz Kanlıyel'lerin (Bloodsail) istediğimiz yere yelken açmamızı ve yağma hakkımız olan şeyleri almamızı engelleyen şeydir. Filo Komutanı Denizboynuzu'nun (Fleet Master Seahorn) boğazına bir bıçak dayasaydın, Ganimet Koyu'nun bir gemisiyle asla karşı karşıya gelmezdik. Baron Revilgaz'ın boğazına bir bıçak dayasaydın, yasalarla asla onların şartlarında yüzleşmezdik.\n\nEğer aramızda fahri bir amiral olacaksan - evet, AMİRAL, söylediğim gibi ikisinin de boğazına bıçağı dayayacaksın. Şimdi git evlat ve bu işleri hallettiğinde bana geri dön.",
+    ["Description"]="İyi dinle, deniz kurdu... Ganimet Koyu'nun (Ganimet Koyu(Booty Bay)) gücü, biz Kanlıyel'lerin (Bloodsail) istediğimiz yere yelken açmamızı ve yağma hakkımız olan şeyleri almamızı engelleyen şeydir. Filo Komutanı Denizboynuzu'nun (Fleet Master Seahorn) boğazına bir bıçak dayasaydın, Ganimet Koyu'nun bir gemisiyle asla karşı karşıya gelmezdik. Baron Revilgaz'ın boğazına bir bıçak dayasaydın, yasalarla asla onların şartlarında yüzleşmezdik.\n\nEğer aramızda fahri bir amiral olacaksan - evet, AMİRAL, söylediğim gibi ikisinin de boğazına bıçağı dayayacaksın. Şimdi git evlat ve bu işleri hallettiğinde bana geri dön.",
     ["Objectives"]="Ganimet Koyu'ndan Filo Komutanı Denizboynuzu ve Baron Revilgaz'ı öldür ve ardından Stranglethorn Vadisi kıyısındaki Crimson Veil gemisinde bulunan Filo Komutanı Firallon'a geri dön.",
     ["Progress"]="Döndün mü lanet olası denizci! Emrettiğimi yaptın mı? Bizi hayal kırıklığına uğratırsan, o tahtadan yürürsün.\n\nArrrrr...",
     ["Completion"]="Kahrol... Amiral YOUR_NAME! Sen korsanların korsanısın, evlat!\n\nBu şapkayı sana vermek kalbimin derinliklerini ısıtıyor. Dünyanın hiçbir yerinde bir benzerini bulamazsın ve sana bakan herkes senin Kanlıyel Donanması'nın (Bloodsail Navy) bir Amiral'i olduğunu görecek!",
@@ -49562,7 +49558,7 @@ QuestTranslator_QuestData = {
 -- Keep An Eye Out
     ["576"] = {
     ["Title"]="Gözünü Dört Aç",
-    ["Description"]="Kahrol! Oradan geçen de kim?\n\nArgh, şu özel büyülü gözüm olmadan bir işe yaramam. Zaten ilk etapta gözlerimi savaşta kaybetmiş olmam yeterince kötü! Ama bir şans eseri Menethil'e yanaştık ve gezgin bir büyücü, tekrar görmemi sağlayan özel bir cam göz büyüledi.\n\nDün gece şehirden çıkarken bazı Kanlıyel Yağmacıları (Bloodsail Buccaneers) tarafından pusuya düşürüldüm. Gözümü aldılar, aldılar! Görünüşe göre o herifler Ganimet Koyu'na (Booty Bay) ulaşmanın yolunu bulmuşlar.\n\nEski bir deniz kurduna gözümü geri alarak yardım eder misin?",
+    ["Description"]="Kahrol! Oradan geçen de kim?\n\nArgh, şu özel büyülü gözüm olmadan bir işe yaramam. Zaten ilk etapta gözlerimi savaşta kaybetmiş olmam yeterince kötü! Ama bir şans eseri Menethil'e yanaştık ve gezgin bir büyücü, tekrar görmemi sağlayan özel bir cam göz büyüledi.\n\nDün gece şehirden çıkarken bazı Kanlıyel Yağmacıları (Bloodsail Buccaneers) tarafından pusuya düşürüldüm. Gözümü aldılar, aldılar! Görünüşe göre o herifler Ganimet Koyu'na (Ganimet Koyu(Booty Bay)) ulaşmanın yolunu bulmuşlar.\n\nEski bir deniz kurduna gözümü geri alarak yardım eder misin?",
     ["Objectives"]="Ganimet Koyu'ndaki Dizzy One-Eye, gözünü Kanlıyel Yağmacıları'ndan geri almanı istiyor.",
     ["Progress"]="Ahoy, evlat! Göremeyebilirim ama seni limanın yarısından koklayabiliyorum.\n\nGözümü geri alabilirsem çok makbule geçer. Kaptan, dürbünümün o pis Kanlıyel Yağmacıları'nın elinde olduğunu öğrendiğinde beni omurga altından çekecek.\n\nGöremeyen bir gözcünün ne faydası olur? Karganın yuvası evim gibiydi... ışıklarım olmadan sintine temizlesem şükrederim.",
     ["Completion"]="Kahrolasıca! Güzel gözümü buldun! Bakalım hala uyuyor mu.\n\nŞavas ho! Vay canına, görebiliyorum!!",
@@ -49726,7 +49722,7 @@ QuestTranslator_QuestData = {
     -- Ansirem's Key
     ["603"] = {
     ["Title"]="Ansirem'in Anahtarı",
-    ["Description"]="Taş'a sahip olan büyücü, gücünü bir odak noktası aracılığıyla yükseltiyor... bir tür sunak. Onu etkisiz hale getirerek bozabilirsin.\n\nTesadüf bu ya, tam olarak doğru şeyi biliyorum: kadim bir hançer, başka bir trol kalıntısı. Sadece bir... küçük sorun var.\n\nBak, hançeri Stranglethorn'da araştırma yaparken buldum ama onu, korsan olmak için Ganimet Koyu'na (Booty Bay) kaçan inatçı kızım Catelyn'e verdim.",
+    ["Description"]="Taş'a sahip olan büyücü, gücünü bir odak noktası aracılığıyla yükseltiyor... bir tür sunak. Onu etkisiz hale getirerek bozabilirsin.\n\nTesadüf bu ya, tam olarak doğru şeyi biliyorum: kadim bir hançer, başka bir trol kalıntısı. Sadece bir... küçük sorun var.\n\nBak, hançeri Stranglethorn'da araştırma yaparken buldum ama onu, korsan olmak için Ganimet Koyu'na (Ganimet Koyu(Booty Bay)) kaçan inatçı kızım Catelyn'e verdim.",
     ["Objectives"]="Ganimet Koyu'ndaki Catelyn ile konuş.",
     ["Progress"]="",
     ["Completion"]="Hançerim mi? Sen ne tür bir komedyensin?\n\nGanimet Koyu'ndaki en iyi bıçak dövüşçüsünden korsan dünyasının alay konusu haline gelmemin hikayesini tekrarlamamı mı istiyorsun!\n\nKanlıyel Yağmacıları'ndan (Bloodsail Buccaneers) biriyle bıçak dövüşünü kaybettim--tam bir pislik sürüsüdürler!--ve o, ganimet olarak bıçağımı aldı.\n\nSadece hakaretler ve keskin bir dille bir bıçak dövüşçüsü olarak geçinebileceğimi sanmıyorum...",
@@ -49880,7 +49876,7 @@ QuestTranslator_QuestData = {
     ["1127"] = {
     ["Title"]="Aptal Bira (Fool's Stout)",
     ["Description"]="Demek biraz Aptal Bira istiyorsun, ha? Yarışlara geri dönmeyi mi düşünüyorsun...?\n\nPekala, bana daha fazla Zanzil karışımı getir, ben de sana daha fazla bira yapayım.",
-    ["Objectives"]="Ganimet Koyu'ndaki (Booty Bay) Crank Fizzlebub'a 12 adet Zanzil Karışımı getir.",
+    ["Objectives"]="Ganimet Koyu'ndaki (Ganimet Koyu(Booty Bay)) Crank Fizzlebub'a 12 adet Zanzil Karışımı getir.",
     ["Progress"]="Zanzil karışımları yanında mı, YOUR_NAME?",
     ["Completion"]="Ah, çok iyi! İşte ödemen.\n\nVe işte fazladan küçük bir şey... takdirin için.",
     ["minlevel"]="0",
@@ -49934,7 +49930,7 @@ QuestTranslator_QuestData = {
 -- Avast Ye, Scallywag
     ["1036"] = {
     ["Title"]="Kahrol, Çapulcu!",
-    ["Description"]="YOUR_NAME... evet, adını duydum. Ganimet Koyu'nun (Booty Bay) dostu olmadığını duydum - tıpkı biz Kanlıyel Korsanları (Bloodsail Buccaneers) gibi. Filo Komutanı Firallon, özel bir görev için tıpkı senin gibi sağlam ve yürekli adamlar arıyor.\n\nEğer ilgileniyorsan, Crimson Veil'e doğru git ve güverte altında onunla konuş. Gemi buradan doğuda, Vahşi Kıyı'nın (Wild Coast) açıklarında, Riptide ve Damsel's Luck'ın yanında demirli.",
+    ["Description"]="YOUR_NAME... evet, adını duydum. Ganimet Koyu'nun (Ganimet Koyu(Booty Bay)) dostu olmadığını duydum - tıpkı biz Kanlıyel Korsanları (Bloodsail Buccaneers) gibi. Filo Komutanı Firallon, özel bir görev için tıpkı senin gibi sağlam ve yürekli adamlar arıyor.\n\nEğer ilgileniyorsan, Crimson Veil'e doğru git ve güverte altında onunla konuş. Gemi buradan doğuda, Vahşi Kıyı'nın (Wild Coast) açıklarında, Riptide ve Damsel's Luck'ın yanında demirli.",
     ["Objectives"]="Stranglethorn Vadisi açıklarındaki Crimson Vale gemisinde Filo Komutanı Firallon ile konuş.",
     ["Progress"]="",
     ["Completion"]="Kahrol, çapulcu. Biraz düzenbazlık yapacak türden biri olduğunu duydum. Pekala, eğer Ganimet Koyu'nun dostu değilsen, Kanlıyel Korsanları'nın arasında özel bir yerin olabilir.\n\nArrrrr...",
@@ -49979,7 +49975,7 @@ QuestTranslator_QuestData = {
     ["613"] = {
     ["Title"]="Maury'nin Ayağını Kırmak",
     ["Description"]="Lanet olsun! O herif Maury, ayağına bir kilit takmış ve açamıyorum! Ganimeti ayağının içinde ve bana borçlu olduğu şey bu!\n\nKilidi açacak anahtarı bulmamız lazım. Maury'nin kuzeydoğudaki höyüklerinde Mosh'Ogg ogreleriyle kumar oynadığı biliniyordu. Ve bana, daha hayattayken, höyüğe son gidişinde çok fazla kazandıktan sonra kovalandığını söylemişti. Belki oradaki Ogrelerde anahtarı vardır.\n\nAma eğer onlardaysa, doğru olanı bulmak için bir sürülerini öldürmen gerekebilir...",
-    ["Objectives"]="Ganimet Koyu'ndaki (Booty Bay) \"Deniz Kurdu\" Mackinley'ye Maury'nin Anahtarı'nı getir.",
+    ["Objectives"]="Ganimet Koyu'ndaki (Ganimet Koyu(Booty Bay)) \"Deniz Kurdu\" Mackinley'ye Maury'nin Anahtarı'nı getir.",
     ["Progress"]="Ahoy, YOUR_NAME! Maury'nin Anahtarı'nı buldun mu?",
     ["Completion"]="Onu buldun! Milyon kere teşekkürler, YOUR_NAME. Bana çok büyük yardımın dokundu!\n\nİşte al - bunu hak ettin!",
     ["minlevel"]="0",
@@ -50087,7 +50083,7 @@ QuestTranslator_QuestData = {
     -- Mok'thardin's Enchantment
     ["571"] = {
     ["Title"]="Mok'thardin'in Büyüsü",
-    ["Description"]="Şimdi senden istediklerimi elde etmek çok zor olacak.\n\nTüm bu tüyleri, pençeleri ve kusursuz dişi yerinde tutmak için büyülü bir bağa ihtiyacım var. Sadece yaşlı bir goril kirişi (gorilla sinew) işe yarayacaktır.\n\nBunu sadece bir Yaşlı Sislivadi Gorili'nde (Elder Mistvale Gorilla) bulabilirsin. Onların Ganimet Koyu'nun (Booty Bay) doğusunda beslendikleri bilinir.\n\nKiriş kusursuz olmalı. Tam olarak ihtiyacım olanı bulman için birkaç tane öldürmen gerekebilir ama avlanmaya kesinlikle değecektir.",
+    ["Description"]="Şimdi senden istediklerimi elde etmek çok zor olacak.\n\nTüm bu tüyleri, pençeleri ve kusursuz dişi yerinde tutmak için büyülü bir bağa ihtiyacım var. Sadece yaşlı bir goril kirişi (gorilla sinew) işe yarayacaktır.\n\nBunu sadece bir Yaşlı Sislivadi Gorili'nde (Elder Mistvale Gorilla) bulabilirsin. Onların Ganimet Koyu'nun (Ganimet Koyu(Booty Bay)) doğusunda beslendikleri bilinir.\n\nKiriş kusursuz olmalı. Tam olarak ihtiyacım olanı bulman için birkaç tane öldürmen gerekebilir ama avlanmaya kesinlikle değecektir.",
     ["Objectives"]="Grom'gol'daki Uzgören Mok'thardin'e Yaşlı Bir Goril Kirişi getir.",
     ["Progress"]="Şans senden yana mıydı, YOUR_NAME? Yaşlı bir goril kirişi elde edebildin mi?",
     ["Completion"]="En ideal kiriş, YOUR_NAME. Çabaların yakında karşılığını verecek.",
@@ -50241,7 +50237,7 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end Hollow Web Silk
     -- Shrillfluke's Early Retirement
-    -- Venture Co. -> Macera Şirketi
+    -- Girişim Şti.(Venture Co.) -> Macera Şirketi
     -- Blackstone Island -> Karakaya Adası
     -- Boss Slickwick -> Patron Slickwick
     -- Slickwick Oil Rig -> Slickwick Petrol Platformu
@@ -50828,7 +50824,7 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end The Path of the Invoker
 
-    -- Rise of the Venture Co.
+    -- Rise of the Girişim Şti.(Venture Co.)
     ["41767"] = {
     ["Title"]="Macera Şirketi'nin Yükselişi",
     ["Description"]="Bize büyük yardımların dokunduğu için sanırım seninle küçük bir sır paylaşabilirim. Geçmişte pek çok goblin Durotar İşçi Birliği'ne katıldı ve pek çoğu hâlâ katılıyor. Undermine'da büyük bir çalkantı yarattı. Otoriter Macera Şirketi'ne karşı tek başına duran genç ve gelecek vaat eden bir işçi sendikası mı? Bütün gazetelerdeydi! Biri diğerinden daha çılgın dedikodular yayılmaya başladı, sonunda patronum bana yeni bir iş verdi: Durotar İşçi Birliği'ne katıl ve gerçekten neler olduğunu gör. Bu kadar çabuk eyleme geçirileceğimi tahmin etmemiştim.\n\nVe şimdi buradayız. Şunu söylemeliyim ki hem İşçi Birliği hem de Horde beklentilerimi aştı. Garip bir topluluksunuz ama güçlü bir topluluksunuz. Fon yönetimiz ve genel ekonominiz felaket ama sonunda başaracaksınız. Nert harika bir varlık, inan bana. Lafı gelmişken, bu raporu ona iletebilir misin? Zavallı adam Sparkwater Limanı'nda onu beklerken bayağı endişeleniyor olmalı. Onu gördüğünde benden iyi bir dürtme ver, anlaştık mı?",
@@ -50837,7 +50833,7 @@ QuestTranslator_QuestData = {
     ["Completion"]="Tanaris'teydin ve Celdi'ye yardım mı ettin? Ne harika, o kadın gerçek bir lütuf! Sparkwater Limanı'nda ilk kez salındığında gözlerim fırlayacaktı. Bilgewater Karteli'nin yüksek düzey bir yöneticisi burada, bizim küçük kasabamızda ha?! Ve bize katılmak mı istiyor?! Casinodaki son denememde tüm hayat birikimimi ikiye katlamış gibi hissettim. Karakaya Adası felaketinden sonra Durotar İşçi Birliği'nin KÂR VE moral açısından acilen bir yükselişe ihtiyacı vardı. Mütevazı olmak gerekirse Tanaris'teki petrol platformu mükemmel bir fikirdi. Dümende Slickwick varken bunun bir başarı olacağını biliyordum.\n\nBuna rağmen Macera Şirketi'nin devam eden sabotaj ve sızmaları beni endişelendiriyor. Sabırlarının tükendiğinden korkuyorum, Razdunk istediğini elde edemediğinde asla sakin kalabilen biri olmadı. Kulaklarını ve gözlerini keskin tut, YOUR_NAME. Gelecek bizim için kolay olmayacak.",
     ["minlevel"]="0",
     ["questlevel"]="0",
-    }, -- end Rise of the Venture Co.
+    }, -- end Rise of the Girişim Şti.(Venture Co.)
 
     -- The Path of the Invoker
     ["8757"] = {
@@ -51180,7 +51176,7 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end Ship Schedules
 
-    -- Venture Co. Hatred
+    -- Girişim Şti.(Venture Co.) Hatred
     ["41765"] = {
     ["Title"]="Macera Şirketi Nefreti",
     ["Description"]="Undermine'da işler kızışıyor evlat. Oraya hiçbir zaman sakin denemezdi ama Macera Şirketi Azeroth'un her yerinde her türlü ticarette fark edilir bir güç kazanmaya başladı. İş uygulamalarında her zaman daha... diyelim ki 'alışılmadık' oldular ama planladıkları şey pek de iç açıcı görünmüyor. Tek yapman gereken sahilden aşağı inip kendin görmek.\n\nGörüyorsun ya, ben de kısa süre önce Durotar İşçi Birliği'ne katıldım; Karakaya Adası'nda yaşananlar ve Kezan'a döndüğümde kâr optimizasyonu konusundaki kusursuz geçmişim göz önüne alındığında, Nert bana tek başıma bir proje vermekte gecikmedi. Tekerleği döndürmeye başladığımızda Macera Şirketi'nin sinsice yaklaşıp yapacağını yapması uzun sürmedi. Bana sorarsan hak edilmiş bir intikam zamanı geldi. Bırakalım kendi ilaçlarının tadına baksınlar, ne dersin?",
@@ -51189,7 +51185,7 @@ QuestTranslator_QuestData = {
     ["Completion"]="Çocuk oyuncağı olmuş olmalı, ha? Göründüğünden daha yetkinsin. Nert, Horde ile ittifak kurmakta haklıydı; en başta pek seçeneği olduğu da söylenemezdi. Artık yemler aradan çekildiğine göre elebaşlarını dumanla dışarı çıkarma vakti.",
     ["minlevel"]="0",
     ["questlevel"]="0",
-    }, -- end Venture Co. Hatred
+    }, -- end Girişim Şti.(Venture Co.) Hatred
     -- A Portable Power Source
     -- Magma Lord Bokk -> Magma Lord Bokk (MobNpcData.lua)
     -- Burning Steppes -> Yangın Bozkırları (ZoneData.lua)
@@ -51391,7 +51387,7 @@ QuestTranslator_QuestData = {
     -- Tran'rek
     -- Tran'rek -> Tran'rek (MobNpcData.lua)[cite: 1].
     -- Krazek -> Krazek (MobNpcData.lua)[cite: 1].
-    -- Booty Bay -> Ganimet Koyu (ZoneData.lua).
+    -- Ganimet Koyu(Booty Bay) -> Ganimet Koyu (ZoneData.lua).
     -- Gadgetzan -> Gadgetzan (ZoneData.lua).
     -- Tanaris -> Tanaris (ZoneData.lua).
     -- Kalimdor -> Kalimdor (ZoneData.lua).
@@ -51407,7 +51403,7 @@ QuestTranslator_QuestData = {
     -- Scarab Shells
     -- Tran'rek -> Tran'rek (MobNpcData.lua)[cite: 1]
     -- Gadgetzan -> Gadgetzan (ZoneData.lua)
-    -- Booty Bay -> Ganimet Koyu (ZoneData.lua)
+    -- Ganimet Koyu(Booty Bay) -> Ganimet Koyu (ZoneData.lua)
     -- Tanaris -> Tanaris (ZoneData.lua)
     -- Zul'Farrak -> Zul'Farrak (ZoneData.lua)
     -- Uncracked Scarab Shell -> Çatlamamış Skarab Kabuğu
@@ -51471,7 +51467,7 @@ QuestTranslator_QuestData = {
 
     -- Find OOX-22/FE!
     -- Oglethorpe Obnoticus -> Oglethorpe Obnoticus (MobNpcData.lua)
-    -- Booty Bay -> Ganimet Körfezi (ZoneData.lua)
+    -- Ganimet Koyu(Booty Bay) -> Ganimet Körfezi (ZoneData.lua)
     -- Feral Scar Vale -> Vahşi Yara Vadisi (Feral -> Vahşi, Scar -> Yara, Vale -> Vadisi)
     ["2766"] = {
     ["Title"]="OOX-22/FE'yi Bul!",
@@ -51780,7 +51776,7 @@ QuestTranslator_QuestData = {
     -- Deep Sea Salvage
     -- First Mate Nilzlix -> İkinci Kaptan Nilzlix (MobNpcData.lua)[cite: 1]
     -- Fleet Master Seahorn -> Filo Komutanı Seahorn (MobNpcData.lua)[cite: 1]
-    -- Booty Bay -> Ganimet Körfezi (ZoneData.lua)
+    -- Ganimet Koyu(Booty Bay) -> Ganimet Körfezi (ZoneData.lua)
     ["662"] = {
     ["Title"]="Derin Deniz Kurtarması",
     ["Description"]="O'Breen gemileri koya soktu. Hazineyi burada bulabileceğimizden emindik. Harbinger güvenli bir şekilde yanaştı ancak Maiden's Folly ve Spirit of Silverpine yaklaşırken sular çekilmeye başladı. Gördüğüm en garip şeydi!\n\nO iki gemi bir şeye karaya oturdu... Resifte bir tür tapınak. O kadar hızlı battılar ki tam bir trajediydi.\n\nAyrılmadan önce Haritaları kadar Seyir Defterlerini de almamız gerekiyor. Bu bilgiyi meraklı gözlere bırakamayız!",
@@ -51794,7 +51790,7 @@ QuestTranslator_QuestData = {
     -- Land Ho!
     -- Captain O'Breen -> Kaptan O'Breen (MobNpcData.lua)[cite: 1]
     -- Faldir's Cove -> Faldir Koyu (ZoneData.lua)
-    -- Booty Bay -> Ganimet Körfezi (ZoneData.lua)
+    -- Ganimet Koyu(Booty Bay) -> Ganimet Körfezi (ZoneData.lua)
     ["663"] = {
     ["Title"]="Kara Göründü!",
     ["Description"]="Lolo küçük bir YOUR_RACE görüyor! Lolo her zaman tetiktedir!\n\nFaldir Koyu'na hoş geldin. Kaptan O'Breen burada sadece birkaç saat kalacağımızı söylemişti. Hazineyi toplayıp Ganimet Körfezi'ne dönmek için yeterli süre.\n\nAma Lolo burada bundan çok daha uzun süre kalacağımızı düşünüyor. Formasyonumuzdaki diğer iki gemiyi kaybettik. Zavallı Spirit of Silverpine ve Maiden's Folly. Şimdi denizin dibinde dinleniyorlar!\n\nEğer burada kalmayı planlıyorsan Lolo Kaptan O'Breen ile konuşmanı önerir.",
@@ -51846,7 +51842,7 @@ QuestTranslator_QuestData = {
 
     -- Death From Below
     -- Shakes O'Breen -> Shakes O'Breen (MobNpcData.lua)[cite: 1]
-    -- Booty Bay -> Ganimet Körfezi (ZoneData.lua)
+    -- Ganimet Koyu(Booty Bay) -> Ganimet Körfezi (ZoneData.lua)
     ["667"] = {
     ["Title"]="Aşağıdan Gelen Ölüm",
     ["Description"]="Bu kötü. Dikenlisırtlar bir saldırı için toplanıyor gibi görünüyor.\n\nNagalar savaştaki acımasızlıklarıyla bilinirler. Ben ölene kadar saldırmaya devam edecekler.\n\nKendi hayatıma mürettebatımınkinden daha fazla değer vermiyorum ama beni savunmaya yardım etmelisin. Mürettebat, benim deniz bilgim olmadan Ganimet Körfezi'ne geri dönmeyi başaramayacak.\n\nNagalar denizden gelecek. Saldırıyı püskürtmek için burada benimle kalmanı istiyorum. Topu işlet ve onları geri püskürt.\n\nHazır mısın, YOUR_NAME?",
@@ -51871,7 +51867,7 @@ QuestTranslator_QuestData = {
 
     -- Sunken Treasure
     -- Fleet Master Seahorn -> Filo Komutanı Seahorn (MobNpcData.lua)[cite: 1]
-    -- Booty Bay -> Ganimet Körfezi (ZoneData.lua)
+    -- Ganimet Koyu(Booty Bay) -> Ganimet Körfezi (ZoneData.lua)
     ["669"] = {
     ["Title"]="Batık Hazine",
     ["Description"]="Filo Komutanı Seahorn buluşumuzu hemen duymak isteyecektir.\n\nAma görebildiğin gibi buradan çıkacak pek bir durumda değiliz. Sadece sular çok alçak olmakla kalmıyor, aynı zamanda huzurunu kaçırdığımız o lanet yaratıklar da hareketlerimizi yakından takip ediyor.\n\nGanimet Körfezi'ndeki Filo Komutanı Seahorn'a hazineyi keşfettiğimizi ve daha fazlasını çıkarmak için çalıştığımız haberini ulaştırabilirsen Karasu Yağmacıları'na büyük hizmetin dokunur. Kanıt olarak bu örneği ona götür.",
@@ -51884,7 +51880,7 @@ QuestTranslator_QuestData = {
 
     -- Sunken Treasure
     -- Shakes O'Breen -> Shakes O'Breen (MobNpcData.lua)[cite: 1]
-    -- Booty Bay -> Ganimet Körfezi (ZoneData.lua)
+    -- Ganimet Koyu(Booty Bay) -> Ganimet Körfezi (ZoneData.lua)
     -- Ratchet -> Ratchet (ZoneData.lua)
     -- Arathi -> Arathi (ZoneData.lua)
     ["670"] = {
@@ -52153,7 +52149,7 @@ QuestTranslator_QuestData = {
 
     -- Rescue OOX-09/HL!
     -- Oglethorpe Obnoticus -> Oglethorpe Obnoticus (MobNpcData.lua)[cite: 1]
-    -- Booty Bay -> Ganimet Körfezi (ZoneData.lua)
+    -- Ganimet Koyu(Booty Bay) -> Ganimet Körfezi (ZoneData.lua)
     -- Overlook Cliff -> Manzara Uçurumu
     ["836"] = {
     ["Title"]="OOX-09/HL'yi Kurtar!",
@@ -52225,7 +52221,7 @@ QuestTranslator_QuestData = {
 
     -- Down at the Docks
     -- Ratchet -> Ratchet (ZoneData.lua)
-    -- Booty Bay -> Ganimet Körfezi (ZoneData.lua)
+    -- Ganimet Koyu(Booty Bay) -> Ganimet Körfezi (ZoneData.lua)
     -- The Barrens -> Çoraklar (ZoneData.lua)
     ["910"] = {
     ["Title"]="Rıhtımda",
@@ -53635,9 +53631,9 @@ QuestTranslator_QuestData = {
 		["questlevel"] = "40"
 	},
 	["2757"] = {
-		["Title"] = "Ya Yağma Körfezi Ya Hiç!",
-		["Description"] = "Dinle çocuk, buralarda dolanarak hiçbir şey öğrenemeyeceksin.NEW_LINEBirini tanıyan bir adam tanıyorum. Yağma Körfezi [Booty Bay]'deki demirci dükkanının etrafında takılır. Ona bu nişanı gösterirsen sana mithril hakkında her şeyi anlatacaktır.NEW_LINEEee ne diyorsun? Bu çocukça şeyleri bezli bebeklere bırak, YOUR_NAME -- yoluna devam etme zamanı geldi.NEW_LINEEğer ilgileniyorsan, adı McGavan. Ona bu ziyneti göster, adanmışlığını tanıyacaktır.",
-		["Objectives"] = "Yağma Körfezi [Booty Bay]'ndeki McGavan ile konuş.",
+		["Title"] = "Ya Ganimet Koyu(Booty Bay) Ya Hiç!",
+		["Description"] = "Dinle çocuk, buralarda dolanarak hiçbir şey öğrenemeyeceksin.NEW_LINEBirini tanıyan bir adam tanıyorum. Ganimet Koyu(Booty Bay) [Ganimet Koyu(Booty Bay)]'deki demirci dükkanının etrafında takılır. Ona bu nişanı gösterirsen sana mithril hakkında her şeyi anlatacaktır.NEW_LINEEee ne diyorsun? Bu çocukça şeyleri bezli bebeklere bırak, YOUR_NAME -- yoluna devam etme zamanı geldi.NEW_LINEEğer ilgileniyorsan, adı McGavan. Ona bu ziyneti göster, adanmışlığını tanıyacaktır.",
+		["Objectives"] = "Ganimet Koyu(Booty Bay) [Ganimet Koyu(Booty Bay)]'ndeki McGavan ile konuş.",
 		["Progress"] = "Senin türün nadir bir soy, dostum. Şu nişanı göreyim.",
 		["Completion"] = "Siyahyapağı'nın sırt kılı adına -- sonunda, Mithril Tarikatı'na layık biri!",
 		["minlevel"] = "40",
@@ -53645,7 +53641,7 @@ QuestTranslator_QuestData = {
 	},
 	["2758"] = {
 		["Title"] = "Demirciliğin Kökenleri",
-		["Description"] = "Yaklaşık senin yaşlarındayken, Galvan adında bir cüce beni kanatlarının altına aldı ve zırh demirciliği yollarında eğitti. Yağma Körfezi [Booty Bay]'ne gitmeden önce, demircilik zanaatında ilerlemek isteyen ve kararlı olan herkesi eğitmem için bana söz verdirdi -- işte buradayım -- bunca yıl sonra.NEW_LINEŞimdi bir şeyler öğrenme zamanın geldi. Bana altı altın pullu kolçak yap, demirciliğin nereden geldiğini öğreneceksin, YOUR_NAME.",
+		["Description"] = "Yaklaşık senin yaşlarındayken, Galvan adında bir cüce beni kanatlarının altına aldı ve zırh demirciliği yollarında eğitti. Ganimet Koyu(Booty Bay) [Ganimet Koyu(Booty Bay)]'ne gitmeden önce, demircilik zanaatında ilerlemek isteyen ve kararlı olan herkesi eğitmem için bana söz verdirdi -- işte buradayım -- bunca yıl sonra.NEW_LINEŞimdi bir şeyler öğrenme zamanın geldi. Bana altı altın pullu kolçak yap, demirciliğin nereden geldiğini öğreneceksin, YOUR_NAME.",
 		["Objectives"] = "Fırtınayeli [Stormwind]'ndeki Çekiç Hank [Hank the Hammer]'e altı Altın Pullu Kolçak [Golden Scale Bracer] getir.",
 		["Progress"] = "Bir sonraki Galvan çırağı sen olabilir misin?",
 		["Completion"] = "Çok iyi, YOUR_NAME! Dinle ve öğren.NEW_LINEDemircilik asla buradan gelmez! <Hank çekicini işaret eder.>NEW_LINEDemircilik asla buradan gelmez! <Hank örsü işaret eder.>NEW_LINEDemircilik sadece buradan gelir! <Hank kalbini işaret eder.>NEW_LINEVe artık demirciliğin kökenini biliyorsun.",
@@ -53654,8 +53650,8 @@ QuestTranslator_QuestData = {
 	},
 	["2759"] = {
 		["Title"] = "Galvan'ın İzinde",
-		["Description"] = "Galvan yıllar önce Yağma Körfezi [Booty Bay]'nden ayrılmış olsa da, tarikatın üyeleri kasabada kalmaya devam ediyor, bir gün Galvan'ın rehberliğine layık başka birini bulmayı umuyorlar.NEW_LINEBu nişanı al ve Yağma Körfezi [Booty Bay]'ndeki McGavan'a sun.NEW_LINEGerçekten o kadar uzağa gidebilirsen, layık olduğunu anlayacaktır. İnancım tam, YOUR_NAME!",
-		["Objectives"] = "Yağma Körfezi [Booty Bay]'ndeki McGavan ile konuş.",
+		["Description"] = "Galvan yıllar önce Ganimet Koyu(Booty Bay) [Ganimet Koyu(Booty Bay)]'nden ayrılmış olsa da, tarikatın üyeleri kasabada kalmaya devam ediyor, bir gün Galvan'ın rehberliğine layık başka birini bulmayı umuyorlar.NEW_LINEBu nişanı al ve Ganimet Koyu(Booty Bay) [Ganimet Koyu(Booty Bay)]'ndeki McGavan'a sun.NEW_LINEGerçekten o kadar uzağa gidebilirsen, layık olduğunu anlayacaktır. İnancım tam, YOUR_NAME!",
+		["Objectives"] = "Ganimet Koyu(Booty Bay) [Ganimet Koyu(Booty Bay)]'ndeki McGavan ile konuş.",
 		["Progress"] = "Senin türün nadir bir soy, dostum. Şu nişanı göreyim.",
 		["Completion"] = "Siyahyapağı'nın sırt kılı adına -- sonunda, Mithril Tarikatı'na layık biri!",
 		["minlevel"] = "40",
@@ -53663,7 +53659,7 @@ QuestTranslator_QuestData = {
 	},
 	["2760"] = {
 		["Title"] = "Mithril Tarikatı",
-		["Description"] = "Acemilerimizin çoğu asla Yağma Körfezi [Booty Bay]'ne ulaşamaz, YOUR_NAME. Nişanın parlaklığı, en kararlı demircilerde bile ganimet arzusunu tetiklemeye yeterlidir. Aptaldırlar, çünkü nişan göreceğin eşya zenginliğine kıyasla devede kulaktır!NEW_LINEKadim Galvan'ı bul ve ona bu iğneyi göster. İkametgahı uzakta, kuzeyde, Zul'Gurub ile Mosh'Ogg ogre höyüğü arasında.",
+		["Description"] = "Acemilerimizin çoğu asla Ganimet Koyu(Booty Bay) [Ganimet Koyu(Booty Bay)]'ne ulaşamaz, YOUR_NAME. Nişanın parlaklığı, en kararlı demircilerde bile ganimet arzusunu tetiklemeye yeterlidir. Aptaldırlar, çünkü nişan göreceğin eşya zenginliğine kıyasla devede kulaktır!NEW_LINEKadim Galvan'ı bul ve ona bu iğneyi göster. İkametgahı uzakta, kuzeyde, Zul'Gurub ile Mosh'Ogg ogre höyüğü arasında.",
 		["Objectives"] = "Stranglethorn Vadisi [Stranglethorn Vale]'ndeki Kadim Galvan [Galvan the Ancient] ile konuş.",
 		["Progress"] = "Selam! Yaklaş; Galvan'a neyin olduğunu göster.",
 		["Completion"] = "Ah, Mithril Tarikatı'nın inisiyasyonuna layık birinin çıkmasından bu yana uzun yıllar geçti. Şimdi başlayacağız!",
@@ -53717,8 +53713,8 @@ QuestTranslator_QuestData = {
 	},
 	["2767"] = {
 		["Title"] = "OOX-22/FE'yi Kurtar!",
-		["Description"] = "Cücenin [gnome] sesi robottan bir kez daha cızırdıyor:NEW_LINE\"Uzun bir kalkış prosedürüne başlayabilmesi için OOX-22/FE'yi açık, güvenli bir yere taşımam gerekiyor. Yerleşik pelerinleme özelliği var ama tekrar çalışır hale getirmek için kendi tarafımda zamana ihtiyacım var. Robotu şu anki konumundan, diyelim ki Unutulmuş Kıyı [Forgotten Coast] boyunca uzanan rıhtıma kadar koru! İşleri çevrimiçi hale getirmek için mükemmel bir yer ve yeterince uzun bir yol olmalı!\"NEW_LINE\"Onu güvenli bir şekilde rıhtıma götür ve ardından gelip Yağma Körfezi [Booty Bay]'nde benimle konuş! Oglethorpe Obnoticus - kapatıyor!\"",
-		["Objectives"] = "OOX-22/FE'ye Unutulmuş Kıyı [Forgotten Coast] boyunca uzanan rıhtıma kadar eşlik et, ardından Yağma Körfezi [Booty Bay]'ndeki Oglethorpe Obnoticus'a rapor ver.",
+		["Description"] = "Cücenin [gnome] sesi robottan bir kez daha cızırdıyor:NEW_LINE\"Uzun bir kalkış prosedürüne başlayabilmesi için OOX-22/FE'yi açık, güvenli bir yere taşımam gerekiyor. Yerleşik pelerinleme özelliği var ama tekrar çalışır hale getirmek için kendi tarafımda zamana ihtiyacım var. Robotu şu anki konumundan, diyelim ki Unutulmuş Kıyı [Forgotten Coast] boyunca uzanan rıhtıma kadar koru! İşleri çevrimiçi hale getirmek için mükemmel bir yer ve yeterince uzun bir yol olmalı!\"NEW_LINE\"Onu güvenli bir şekilde rıhtıma götür ve ardından gelip Ganimet Koyu(Booty Bay) [Ganimet Koyu(Booty Bay)]'nde benimle konuş! Oglethorpe Obnoticus - kapatıyor!\"",
+		["Objectives"] = "OOX-22/FE'ye Unutulmuş Kıyı [Forgotten Coast] boyunca uzanan rıhtıma kadar eşlik et, ardından Ganimet Koyu(Booty Bay) [Ganimet Koyu(Booty Bay)]'ndeki Oglethorpe Obnoticus'a rapor ver.",
 		["Progress"] = "Evet, ben Oglethorpe Obnoticus, hizmetinizde usta mucit! Şimdi, size yardımcı olabileceğim bir şey var mı?",
 		["Completion"] = "Oh, OOX-22/FE'nin büyük kurtarıcısı SENSİN! Yardımın için teşekkürlerimi ifade etmeye nereden başlayacağımı bilemiyorum! Homing robot serimin daha fazla geliştirilmeye ihtiyacı var, ancak kurtarman beni sayısız saatlik ekstra yeniden inşa süresinden ve üretim maliyetlerinde birçok altın parçadan kurtardı!NEW_LINELütfen elimdeki bu eşyalardan istediğini seç. Cömert yardımın için tekrar teşekkürler YOUR_NAME, robotlarım ve ben sana borçluyuz!",
 		["minlevel"] = "40",
@@ -53735,7 +53731,7 @@ QuestTranslator_QuestData = {
 	},
 	["2772"] = {
 		["Title"] = "Dünya Ayaklarının Altında",
-		["Description"] = "Geçen yılki Tüm Vadi Demircilik Şampiyonası'nda izleyen herkes, Venture Şirketi Dökümhanesi [Venture Co. Foundry]'nden korkak bir köpek tarafından bacağımın altımdan süpürüldüğünü gördü. Ancak bilmedikleri şey, devam edebilmemin ve en nihayetinde turnuvayı kazanabilmemin sebebiydi: Doğru, süslü mithril çizmeler!NEW_LINEBu yılki turnuva için süslü mithril pantolon yapmayı öğrenmem gerekecek, zira bir Venture Şirketi [Venture Co.] biçerdöveri de katılıyor! Bana pantolonun yolunu öğret ve çizmelerin yolunu öğren!",
+		["Description"] = "Geçen yılki Tüm Vadi Demircilik Şampiyonası'nda izleyen herkes, Girişim(Venture) Şirketi Dökümhanesi [Girişim Şti.(Venture Co.) Foundry]'nden korkak bir köpek tarafından bacağımın altımdan süpürüldüğünü gördü. Ancak bilmedikleri şey, devam edebilmemin ve en nihayetinde turnuvayı kazanabilmemin sebebiydi: Doğru, süslü mithril çizmeler!NEW_LINEBu yılki turnuva için süslü mithril pantolon yapmayı öğrenmem gerekecek, zira bir Girişim(Venture) Şirketi [Girişim Şti.(Venture Co.)] biçerdöveri de katılıyor! Bana pantolonun yolunu öğret ve çizmelerin yolunu öğren!",
 		["Objectives"] = "Trenton Işıkçekici [Trenton Lighthammer]'ne iki Ağır Mithril Çizme [Heavy Mithril Boots] ve bir Süslü Mithril Pantolon [Ornate Mithril Pants] getir.",
 		["Progress"] = "Eşyaların üretimini tamamladın mı, YOUR_NAME?",
 		["Completion"] = "Dünya ayaklarının altında olacak, YOUR_NAME! Bacaklarına saldırsınlar bakalım, çünkü artık devrilemezsin!",
@@ -55222,7 +55218,7 @@ QuestTranslator_QuestData = {
 
     -- Gnome Engineering
     -- Oglethorpe Obnoticus -> Oglethorpe Obnoticus (MobNpcData.lua)[cite: 1]
-    -- Booty Bay -> Ganimet Körfezi (ZoneData.lua)
+    -- Ganimet Koyu(Booty Bay) -> Ganimet Körfezi (ZoneData.lua)
     -- Gnomeregan -> Gnomeregan (ZoneData.lua)
     ["3635"] = {
     ["Title"]="Cüce Mühendisliği",
@@ -55236,7 +55232,7 @@ QuestTranslator_QuestData = {
 
     -- Gnome Engineering
     -- Oglethorpe Obnoticus -> Oglethorpe Obnoticus (MobNpcData.lua)[cite: 1]
-    -- Booty Bay -> Ganimet Körfezi (ZoneData.lua)
+    -- Ganimet Koyu(Booty Bay) -> Ganimet Körfezi (ZoneData.lua)
     -- Gnomeregan -> Gnomeregan (ZoneData.lua)
     ["3637"] = {
     ["Title"]="Cüce Mühendisliği",
@@ -55305,7 +55301,7 @@ QuestTranslator_QuestData = {
     -- The Pledge of Secrecy
     -- Oglethorpe Obnoticus -> Oglethorpe Obnoticus (MobNpcData.lua)[cite: 1]
     -- Tinkmaster Overspark -> Usta Büyücü Overspark (MobNpcData.lua)[cite: 1]
-    -- Booty Bay -> Ganimet Körfezi (ZoneData.lua)
+    -- Ganimet Koyu(Booty Bay) -> Ganimet Körfezi (ZoneData.lua)
     -- Gnomeregan -> Gnomeregan (ZoneData.lua)
     ["3642"] = {
     ["Title"]="Gizlilik Yemini",
@@ -55319,7 +55315,7 @@ QuestTranslator_QuestData = {
 
     -- Show Your Work
     -- Oglethorpe Obnoticus -> Oglethorpe Obnoticus (MobNpcData.lua)[cite: 1]
-    -- Booty Bay -> Ganimet Körfezi (ZoneData.lua)
+    -- Ganimet Koyu(Booty Bay) -> Ganimet Körfezi (ZoneData.lua)
     ["3643"] = {
     ["Title"]="Eserlerini Göster",
     ["Description"]="Akıl hocan olarak çalışmalarından bazı örnekler istiyorum. Yetenekli bir mühendissin; bundan şüphe yok, YOUR_NAME. Umduğum şey ise gelecekteki çabalarında cüce odaklı teknikleri vurgulamanın yollarını bulmak için çalışmanı analiz etmek. Şunlara ihtiyacım var: altı mithril tüpü, hassas bir dürbün ve iki gelişmiş hedef kuklası.\n\nBu eşyaları bana teslim et, ben de sana kendi Cüce Mühendisi Üyelik Kartı'nı vereyim; tüm cüce mühendislik eğitmenlerine erişim için gereklidir!",
@@ -56500,7 +56496,7 @@ QuestTranslator_QuestData = {
     -- Ribbly -> Ribbly (MobNpcData.lua)[cite: 1]
     -- Baron Revilgaz -> Baron Revilgaz (MobNpcData.lua)[cite: 1]
     -- Yuka Screwspigot -> Yuka Screwspigot (MobNpcData.lua)[cite: 1]
-    -- Booty Bay -> Ganimet Körfezi (ZoneData.lua)
+    -- Ganimet Koyu(Booty Bay) -> Ganimet Körfezi (ZoneData.lua)
     -- Blackrock Depths -> Karakaya Derinlikleri (ZoneData.lua)
     -- Burning Steppes -> Yanardağ Bozkırları (ZoneData.lua)
     ["4136"] = {
@@ -66645,7 +66641,7 @@ QuestTranslator_QuestData = {
     }, -- end Nat's Measuring Tape
 
     -- Could I get a Fishing Flier?
-    -- Booty Bay -> Ganimet Körfezi (ZoneData.lua)
+    -- Ganimet Koyu(Booty Bay) -> Ganimet Körfezi (ZoneData.lua)
     ["8228"] = {
     ["Title"]="Bir Balıkçılık İlanı Alabilir miyim?",
     ["Description"]="",
@@ -66657,7 +66653,7 @@ QuestTranslator_QuestData = {
     }, -- end Could I get a Fishing Flier?
 
     -- Could I get a Fishing Flier?
-    -- Booty Bay -> Ganimet Körfezi (ZoneData.lua)
+    -- Ganimet Koyu(Booty Bay) -> Ganimet Körfezi (ZoneData.lua)
     ["8229"] = {
     ["Title"]="Bir Balıkçılık İlanı Alabilir miyim?",
     ["Description"]="",
@@ -75205,7 +75201,7 @@ QuestTranslator_QuestData = {
 
 ["3578"] = {
     ["Title"] = "Bir Hızlıtoynak Kadar Hızlı",
-    ["Description"] = "Ah, Rah'pawene'im Samantha Hızlıtoynak'ı bekliyordum ve henüz gelmedi! Kafam karıştı...NEW_LINEBana yardım edip onu bulabilir misin? En son konuştuğumuzda yeni yerler görmek ve bir limandan Doğu Krallıkları'nın uzak ormanlarına ve kuzey bölgelerine keyfince seyahat etmek için çok heyecanlıydı, ne yazık ki yakınlarda bildiğim tek liman Ratchet.NEW_LINESamantha'nın feribota binip Booty Bay'e yüzdüğünden çok eminim.NEW_LINEOradan nereye seyahat etmiş olabileceğini bilmiyorum. Belki benim için onu bulabilirsin? Sadece iyi olduğundan emin olmak için...",
+    ["Description"] = "Ah, Rah'pawene'im Samantha Hızlıtoynak'ı bekliyordum ve henüz gelmedi! Kafam karıştı...NEW_LINEBana yardım edip onu bulabilir misin? En son konuştuğumuzda yeni yerler görmek ve bir limandan Doğu Krallıkları'nın uzak ormanlarına ve kuzey bölgelerine keyfince seyahat etmek için çok heyecanlıydı, ne yazık ki yakınlarda bildiğim tek liman Ratchet.NEW_LINESamantha'nın feribota binip Ganimet Koyu(Booty Bay)'e yüzdüğünden çok eminim.NEW_LINEOradan nereye seyahat etmiş olabileceğini bilmiyorum. Belki benim için onu bulabilirsin? Sadece iyi olduğundan emin olmak için...",
     ["Objectives"] = "Samantha Hızlıtoynak'ı bul.",
     ["Progress"] = "Görmek istediğim o kadar çok yer var ki! Yardım edebilir misin?",
     ["Completion"] = "Oh, gezgin mi? Bağışla ama yolculuğumdan o kadar yoruldum ki toynağımı bile kıpırdatamıyorum...NEW_LINEAma görmek istediğim o kadar çok yer var ki! Yardım edebilir misin?",
@@ -75906,7 +75902,7 @@ QuestTranslator_QuestData = {
 ["39977"] = {
     ["Title"] = "İşbirliğinde Birleşmiş",
     ["Description"] = "Buralarda bayağı bir kargaşaya neden oldun. Harika derin bir uykudaydım, tüm havai fişeklerin çok fazla gelip artık bunu görmezden gelemediğimde. İtiraf etmeliyim ki uyandığım şey nefis bir gösteriydi. Herkesin uyum içinde kutladığını görmek bu yaşlı ruha rahatlatıcı bir sıcaklık getirdi. İyi dostum Kaplumbağa Ruhu ile konuştun mu belki? Böyle bir gösteriyi kendisi de görmeyi kesinlikle isterdi.NEW_LINEHatta ben de isterim. Böyle neşeli işbirliği nadirdir ve el üstünde tutulmalıdır! Bana o olağanüstü havai fişeklerden daha fazla ve rahatlamak için biraz bitki çayı getirirsen, iyi şans lütuflarımdan bazılarını seninle paylaşacağım!",
-    ["Objectives"] = "Uyumun Büyük Ruhu için Nordanaar'dan her abartılı havai fişekten üçer tane ve biraz bitki çayı edin. Booty Bay'de bekliyor.",
+    ["Objectives"] = "Uyumun Büyük Ruhu için Nordanaar'dan her abartılı havai fişekten üçer tane ve biraz bitki çayı edin. Ganimet Koyu(Booty Bay)'de bekliyor.",
     ["Progress"] = "Her şeyi edindin mi henüz? Yeteneklerinin bu küçük isteği tamamlamada seni yarı yolda bırakmayacağından eminim.",
     ["Completion"] = "Nefis! Çok aromatik bir koku… Bu çay türünün tek örneği ve özellikle lezzetli olmalı. Ve havai fişeklerin gökyüzünü canlı ışıklarla bir kez daha aydınlatması için sabırsızlanıyorum! YOUR_CLASS, ebedi minnettarlığıma sahipsin. Tüm titiz çalışman için, üzerindeki lütfumu kucakla. Bu anları ve gelecekteki daha pek çoğunu - arkadaşlarınla ve sevdiklerinle, birlikte el üstünde tut!",
     ["minlevel"] = "1",
@@ -77775,7 +77771,7 @@ QuestTranslator_QuestData = {
 
 ["41700"] = {
     ["Title"] = "Altın Deneyimi",
-    ["Description"] = "Dümencimiz Verix, bir oraj fırtına yuvasına doğrudan uçacağımızı fark etmeden bizi bu adanın üzerine yönlendirdi. Onu Undermine'ın gecekondularına lanetlerdim ama suçlanacak biri varsa o da rotayı saptırmasına izin verdiğim için benimdir. İşte tam da bu yüzden hepimizi bu lanetli adadan çıkarmak benim görevim. Pusulam olmadan bu çetin hava şartlarından kaçıp Booty Bay'e dönme şansımız çok az!NEW_LINESümüklü yılan Verix onu yanına aldı, pratik olarak bizi rehin tutuyor. Açıkçası harabelerinde uyuyan sonsuz hazineden geveleyip durduğu için bu adayı biliyor gibi görünüyor. Doğrusunu söylemek gerekirse durumumuz bu kadar vahim olmasaydı ona eşlik ederdim ama mürettebatımın hayatta kalması en büyük önceliktir. Günlüğünde altın dolu bir mahzenden bahsediliyor, git onu bul ve pusulamı bana geri getir!",
+    ["Description"] = "Dümencimiz Verix, bir oraj fırtına yuvasına doğrudan uçacağımızı fark etmeden bizi bu adanın üzerine yönlendirdi. Onu Undermine'ın gecekondularına lanetlerdim ama suçlanacak biri varsa o da rotayı saptırmasına izin verdiğim için benimdir. İşte tam da bu yüzden hepimizi bu lanetli adadan çıkarmak benim görevim. Pusulam olmadan bu çetin hava şartlarından kaçıp Ganimet Koyu(Booty Bay)'e dönme şansımız çok az!NEW_LINESümüklü yılan Verix onu yanına aldı, pratik olarak bizi rehin tutuyor. Açıkçası harabelerinde uyuyan sonsuz hazineden geveleyip durduğu için bu adayı biliyor gibi görünüyor. Doğrusunu söylemek gerekirse durumumuz bu kadar vahim olmasaydı ona eşlik ederdim ama mürettebatımın hayatta kalması en büyük önceliktir. Günlüğünde altın dolu bir mahzenden bahsediliyor, git onu bul ve pusulamı bana geri getir!",
     ["Objectives"] = "Dümenci Verix'i bulun ve Balor'un kuzeyindeki adada Yunie'nin Pusulası'nı kendisine geri götürün.",
     ["Progress"] = "Verix'in açgözlülüğü bana güzel zeplinime mal oldu, suçlarının hesabını vermek zorunda!",
     ["Completion"] = "Pusulam! Bu Verix'in hak ettiğini bulduğu anlamına mı geliyor? Bana sorarsan ona iyi oldu. Söylemeyi sevdiğimiz gibi bir goblinin sefaleti başka bir goblinin servetidir. Pusulam tekrar elimdeyken geriye kalan tek şey Gullwing'i çalışır vaziyete getirmek. Yardımınız için teşekkürler, YOUR_CLASS. Verix'in yağmaladığı madeni paraların bazılarını saklayabilirsiniz. Yardım etmeye devam etmek isterseniz 'hayır' demeyiz.",
@@ -77798,15 +77794,15 @@ QuestTranslator_QuestData = {
     ["Description"] = "Sen bu küçük rahatsızlıkla uğraşırken Rikki rutin keşif turundan döndü. Küçük adamızın hemen kuzeyinden gelen şüpheli faaliyetler fark etti. Su dalgalanmaları ve yükselen dalgalar, okyanus yüzeyinde kendilerini oluşturan türbülanslı girdaplar. En iyi tahminim güçlü büyü kullanan bir makrura, belki de liderleri olduğu yönünde. Tesadüfen benzer bir şey buranın doğusundaki adanın hemen ötesinden görülebiliyordu. Bana paranoyak de ama bunlar murlokların ve makruranın bu alan savaşında büyük oynadıklarının bariz işaretleridir.NEW_LINEHer ne olursa olsun her ikisi de kaçışımız için bir tehlike oluşturuyor. YOUR_NAME, biri onları durdurmazsa bu adadan kaçma şansımız çok az. Küçük balıklarla başa çıkma konusunda yetenekli olduğunu zaten kanıtladın; daha zorlu düşmanlara hazır olduğunu düşünüyor musun?",
     ["Objectives"] = "Gullwing'in kaçışına zemin hazırlamak için makrura ve murlok liderlerini ortadan kaldırın. Ardından Balor'daki Gullwing Enkazı'nda bulunan Penny Plainsteel'e dönün.",
     ["Progress"] = "Davranış biçimleri onlar için burada bir şey olduğunu düşündürüyor ama tanrı aşkına tam olarak ne olabileceğini kavrayamıyorum.",
-    ["Completion"] = "İtiraf etmeliyim ki etkilendim. Diğerleri ve ben kaç uzvunla geri döneceğini ya da cansız bedenini okyanustan çıkarıp çıkarmayacağımızı iddiaya giriyorduk. Sanırım Booty Bay'e döndüğümüzde Rikki'ye biraz altın borcum olacak. Ne olursa olsun senden inanılmaz yetenek sergisi. Yunie bizi geride tutan bir eksik sorunun olmasından rahatsızlık duyacaktır. Dünyada maceraya atılmaktan sıkılırsan Undermine'daki Steamwheedle Karargahı'nın her zaman yetenekli dövüşçülere ihtiyacı vardır. Düşün bunu, tam uyardın!",
+    ["Completion"] = "İtiraf etmeliyim ki etkilendim. Diğerleri ve ben kaç uzvunla geri döneceğini ya da cansız bedenini okyanustan çıkarıp çıkarmayacağımızı iddiaya giriyorduk. Sanırım Ganimet Koyu(Booty Bay)'e döndüğümüzde Rikki'ye biraz altın borcum olacak. Ne olursa olsun senden inanılmaz yetenek sergisi. Yunie bizi geride tutan bir eksik sorunun olmasından rahatsızlık duyacaktır. Dünyada maceraya atılmaktan sıkılırsan Undermine'daki Steamwheedle Karargahı'nın her zaman yetenekli dövüşçülere ihtiyacı vardır. Düşün bunu, tam uyardın!",
     ["minlevel"] = "25",
     ["questlevel"] = "32"
 },
 
 ["41703"] = {
     ["Title"] = "Yedek Parça İçin İyilik",
-    ["Description"] = "Zeplinimiz için tamiratlar tüm hızıyla devam ediyor, elimizdeki derme çatma malzemelerle ne kadar olabiliyorsa tabii. Yine de elimizdekilerle çok uzağa gidebileceğimizden şüpheliyim. Şanssızlık ya da şans de ama küçük adamızın hemen doğusunda bir korsan gemisi var. Buraya ne için geldiklerini bilmiyorum ama korsan olduklarını düşünürsek sadece ganimet olduğunu varsayabilirim. Varlıklarından en iyi şekilde yararlanalım. Onlarınki gibi bir gemi hayatımızı çok daha iyi hale getirmek için kullanabileceğimiz erzak ve ihtiyaçlarla dolu görünüyor. Eşyalarından isteyerek ayrılmayacaklarından emin olsam da tavrın fikirlerini değiştirmeleri için yeterince ikna edici, değil mi?NEW_LINE<Kixqal agresif bir göz kırpmayla seni dürtüyor.>NEW_LINEOnca şey yaparken Booty Bay'e uğrayıp yüklenicimizden yedek bir zeplin motoru isteyebilir misin? Buradan çıkıp mallarını teslim etmemiz kesinlikle onun çıkarınadır. Markel Smythe adı, limandaki belediye binasının yakınında olmalı.",
-    ["Objectives"] = "Balor'un kuzeydoğu adasındaki korsanların erzaklarını hafifletin ve onları Gullwing Enkazı'ndaki Tamirci Kixqal'a getirin. Ayrıca Booty Bay'deki Markel Smythe'den yeni bir Zeplin Motoru getirin.",
+    ["Description"] = "Zeplinimiz için tamiratlar tüm hızıyla devam ediyor, elimizdeki derme çatma malzemelerle ne kadar olabiliyorsa tabii. Yine de elimizdekilerle çok uzağa gidebileceğimizden şüpheliyim. Şanssızlık ya da şans de ama küçük adamızın hemen doğusunda bir korsan gemisi var. Buraya ne için geldiklerini bilmiyorum ama korsan olduklarını düşünürsek sadece ganimet olduğunu varsayabilirim. Varlıklarından en iyi şekilde yararlanalım. Onlarınki gibi bir gemi hayatımızı çok daha iyi hale getirmek için kullanabileceğimiz erzak ve ihtiyaçlarla dolu görünüyor. Eşyalarından isteyerek ayrılmayacaklarından emin olsam da tavrın fikirlerini değiştirmeleri için yeterince ikna edici, değil mi?NEW_LINE<Kixqal agresif bir göz kırpmayla seni dürtüyor.>NEW_LINEOnca şey yaparken Ganimet Koyu(Booty Bay)'e uğrayıp yüklenicimizden yedek bir zeplin motoru isteyebilir misin? Buradan çıkıp mallarını teslim etmemiz kesinlikle onun çıkarınadır. Markel Smythe adı, limandaki belediye binasının yakınında olmalı.",
+    ["Objectives"] = "Balor'un kuzeydoğu adasındaki korsanların erzaklarını hafifletin ve onları Gullwing Enkazı'ndaki Tamirci Kixqal'a getirin. Ayrıca Ganimet Koyu(Booty Bay)'deki Markel Smythe'den yeni bir Zeplin Motoru getirin.",
     ["Progress"] = "Tamiratlar için çok fazla zaman ayıramayız, bu nem hafife alınacak bir şey değil. Zeplinin gövdesinin Stranglethorn'un ortasında kırılmamasını tercih ederim, bu yüzden acele et, olur mu?",
     ["Completion"] = "Şaşırmış durumdayım, değerli malzemelerle dolu koskoca bir hazine sandığı. Bu tek başına Gullwing'in dış çerçevesini yeniden inşa etmek için yeterli olmalı. Çok başarılı olacağını beklemediğimi söylemeliyim. Ama böyle bir çorak adaya isteyerek gelecek kadar çılgın biri için bu bekleniyordu sanırım? Her ne olursa olsun sana büyük bir borcumuz var dostum. Goblin sözü!",
     ["minlevel"] = "24",
@@ -78459,7 +78455,7 @@ QuestTranslator_QuestData = {
 
 ["41844"] = {
     ["Title"]="Ölüler Şikayet Edemez",
-    ["Description"]="Bu adaya zorunlu iniş yaptığımızda kargomuzun çoğunun okyanusun geniş enginliklerine düştüğünü fark ettik. Hâlâ iyi bir kısmını güvenceye almış olsak da, Ganimet Körfezi'ndeki (Booty Bay) alıcılarımızı tatmin etmeye neredeyse yetmiyor. Yunie ve diğerlerinin zeplini tamir etmekle ve devasa kabuklular tarafından yenilmediğimizden emin olmakla elleri dolu. Ben ise bir süre önce Verix'i ararken adayı keşfetmek için altın bir fırsata sahip oldum. Ve bilirsin ya: kayalıkların tepesinde devasa bir kale var. Muhtemelen neyi ima ettiğimi tahmin edebilirsin. Verix kadar çılgın ve intihara meyilli olmasam da, daha önce hiçbir goblin'in görmediği bazı değerli eşyaları kapmak için bu fırsatı kaçırmak istemem.NEW_LINEİşte burada devreye sen giriyorsun. Birkaç arkadaş kap veya hiç yoksa birine ödeme yap ve Balor'un diğer tarafındaki o kalenin içinden alabildiğin kadar değerli eşya kap. Karşılığını verecektir, güven bana!",
+    ["Description"]="Bu adaya zorunlu iniş yaptığımızda kargomuzun çoğunun okyanusun geniş enginliklerine düştüğünü fark ettik. Hâlâ iyi bir kısmını güvenceye almış olsak da, Ganimet Körfezi'ndeki (Ganimet Koyu(Booty Bay)) alıcılarımızı tatmin etmeye neredeyse yetmiyor. Yunie ve diğerlerinin zeplini tamir etmekle ve devasa kabuklular tarafından yenilmediğimizden emin olmakla elleri dolu. Ben ise bir süre önce Verix'i ararken adayı keşfetmek için altın bir fırsata sahip oldum. Ve bilirsin ya: kayalıkların tepesinde devasa bir kale var. Muhtemelen neyi ima ettiğimi tahmin edebilirsin. Verix kadar çılgın ve intihara meyilli olmasam da, daha önce hiçbir goblin'in görmediği bazı değerli eşyaları kapmak için bu fırsatı kaçırmak istemem.NEW_LINEİşte burada devreye sen giriyorsun. Birkaç arkadaş kap veya hiç yoksa birine ödeme yap ve Balor'un diğer tarafındaki o kalenin içinden alabildiğin kadar değerli eşya kap. Karşılığını verecektir, güven bana!",
     ["Objectives"]="Rikki Fizmask, Balor'daki Fırtınaişlemeli Kalıntıları'nı (Stormwrought Ruins) yağmalamanı ve Martıkanat Enkazı'ndaki (Gullwing Wreckage) kendisine geri dönmeni istiyor.",
     ["Progress"]="Bu lanetli yere tek başına gelecek kadar sert—ya da aptal—olduğuna göre, oraya girip zarar görmeden—en azından çoğunlukla—çıkmakta sorun yaşamayacağından eminim.",
     ["Completion"]="Vay canına, ne ganimet ama. Teslim etmemiz gereken şey olmayabilir ama o korsan koyundaki açgözlü pisliklerin o kadar şikayet edeceğinden şüpheliyim. Çok teşekkür ederim YOUR_NAME. Sana büyük borçlandık. Bu zorlukların için bunu alabilirsin, bana her zaman en iyi şansı getirdi - hâlâ burada olmam bunun kanıtıdır.",
