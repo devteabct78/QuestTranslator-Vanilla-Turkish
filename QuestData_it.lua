@@ -7247,16 +7247,15 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end Eczacı Zinge'ye geri dön
 
-    -- Korna Olmalı
     ["865"] = {
-    ["Title"]="Korna Olmalı",
-    ["Description"]="Barrens'in yırtıcı kuşları diğer diyarlardaki yırtıcı kuşlardan daha zekidir. Bence tüm bu zekâları boynuzlarında saklı! Eğer öyleyse, boynuzlarını toz haline getirip \\",
-    ["Objectives"]="Kral Reaperclaw'ın Boynuzunu al.",
-    ["Progress"]="Boynuzları aldın mı, YOUR_NAME ? O şeyler bana bir servet kazandıracak!",
-    ["Completion"]="Harika, almışsın! Şimdi onları öğütüp biraz şarapla karıştırmam gerekiyor ve...",
-    ["minlevel"]="0",
-    ["questlevel"]="0",
-    }, -- end Korna Olmalı
+        ["Title"] = "Raptor Boynuzları",
+        ["Description"] = "Çoraklar'ın raptorları diğer diyarlardaki raptorlardan daha zekidir. Ve bence tüm o zeka boynuzlarında saklanıyor! Eğer öyleyse, boynuzlarını öğütüp toz haline getirebilir ve bunu \"zeka içecekleri\" yapmak için kullanabilirim. Onları bir servet karşılığında satabilirim!!!\n\nVe sen bana yardım edebilirsin. Günpulu tırpanpençelerden sağlam raptor boynuzları bul bana. Çoraklar'ın güneyinde ve Ashenvale Ormanı sınırına yakın kuzey Çoraklar'da dolanırlar.",
+        ["Objectives"] = "Günpulu Tırpanpençelerden 5 Sağlam Raptor Boynuzu topla ve onları Cırcır'daki Mebok Mizzyrix'e getir.",
+        ["Progress"] = "Boynuzları aldın mı, <name>? Bu şeyler bana bir servet kazandıracak!",
+        ["Completion"] = "Harika, onları bulmuşsun! Şimdi tek yapmam gereken onları öğütüp biraz şarapla karıştırmak ve...",
+        ["minlevel"] = "0",
+        ["questlevel"] = "0"
+    },
 
     ["867"] = {
         ["Title"] = "Harpi Yağmacıları",
@@ -7601,16 +7600,15 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end Tutukluluktan Kurtulun
 
-    -- Nefretin Tükettiği
     ["899"] = {
-    ["Title"]="Nefretin Tükettiği",
-    ["Description"]="Karımı öldürdüler. Çiftliğimi yaktılar. O korkunç geceden beri güneşin doğuşundan batışına kadar bu toprakları dolaştım, ufukta o canavarlardan daha fazlasını aradım. O zamandan beri karşılaştığım her domuz adamı öldürdüm, ama kanlarına olan susuzluğum henüz dinmiş değil.NEW_LINESen, YOUR_CLASS - Bana yardım edebilirsin.NEW_LINEÖldür onları. Öldürebildiğin kadar çok öldür. Bana dişlerini getir, ölümlerini birlikte kutlayalım.",
-    ["Objectives"]="30 Quilboar Tusk toplayın.",
-    ["Progress"]="Quilboar bunu ödeyecek, YOUR_NAME. Yemin ederim.",
-    ["Completion"]="YOUR_CLASS Görevimi ciddiye alıyorsunuz ve bunun için size teşekkür ediyorum.NEW_LINEİntikam arzum devam etse de, en azından quilboarların kendilerinin de acı çektiğini görerek gülümseyebiliyorum.",
-    ["minlevel"]="0",
-    ["questlevel"]="0",
-    }, -- end Nefretin Tükettiği
+        ["Title"] = "Nefretle Tüketilmiş",
+        ["Description"] = "Belki belirsizliğin acısını biliyorsundur, belki de bilmiyorsundur, <class>. Ama şunu bil: Her gün güneşin doğuşundan batışına kadar burada dikilip ufku o canavarlardan daha fazlası için gözlüyorum. O zamandan beri karşılaştığım her domuz adamı öldürdüm ama kanlarına olan susuzluğum darmadağın olmuş değil. Belki de kuzeye, Dörtyola'a gitmek yerine Taurajo'ya gitmeliydim.\n\nSen, <class>--bana yardım edebilirsin.\n\nÖldür onları. Öldürebildiğin kadarını öldür. Bana azı dişlerini getir, ölümlerini birlikte kutlayalım.",
+        ["Objectives"] = "Dörtyollar'daki Mankrik'e 60 Çalısırtı Okokuyuz Azı Dişi getir.",
+        ["Progress"] = "Okokuyuzlar bunun bedelini ödeyecek, <name>. Yemin ederim.",
+        ["Completion"] = "<class>, görevimi ciddiye alıyorsun ve bunun için sana teşekkür ederim.\n\nİntikam arzum sürmekle birlikte, en azından okokuyuzların kendilerinin de acıyı tattığını görerek gülümseyebiliyorum.",
+        ["minlevel"] = "0",
+        ["questlevel"] = "0"
+    },
 
     -- Samophlange
     ["900"] = {
@@ -8172,7 +8170,7 @@ QuestTranslator_QuestData = {
     -- Rıhtımda Sorun
     ["959"] = {
     ["Title"]="Rıhtımda Sorun",
-    ["Description"]="Oops!NEW_LINEGördüğünüz gibi küçük bir aksilik oldu! Ganimet Koyu(Booty Bay)'den sabah gelen kargo çok büyüktü. Kocaman diyorum! Hiç bu kadar çok kasa görmemiştim. İşleri hızlandırmaya çalışıyordum, bu yüzden kaldırabileceğimden biraz daha fazlasını boşaltmaya başladım. İşte o zaman her şey yerle bir oldu.NEW_LINENe olduğunu anlayamadan, o baş belası Mad Magglish'in 99 yıllık bir porto şişesiyle kaçtığını gördüm. Onu Wailing Caverns'a kadar kovaladım. Oraya asla giremezdim.NEW_LINEBelki onu bulacak kadar cesursun?",
+    ["Description"]="Oops!NEW_LINEGördüğünüz gibi küçük bir aksilik oldu! Ganimet Koyu(Booty Bay)'den sabah gelen kargo çok büyüktü. Kocaman diyorum! Hiç bu kadar çok kasa görmemiştim. İşleri hızlandırmaya çalışıyordum, bu yüzden kaldırabileceğimden biraz daha fazlasını boşaltmaya başladım. İşte o zaman her şey yerle bir oldu.NEW_LINENe olduğunu anlayamadan, o baş belası Mad Magglish'in 99 yıllık bir porto şişesiyle kaçtığını gördüm. Onu Ağlayan Mağaralar(Wailing Caverns)'a kadar kovaladım. Oraya asla giremezdim.NEW_LINEBelki onu bulacak kadar cesursun?",
     ["Objectives"]="Ratchet'teki Vinç Operatörü Bigglefuzz, Ağlayan Mağaralarda saklanan Mad Magglish'ten 99 Yıllık Liman şişesini almanızı istiyor.",
     ["Progress"]="Deli Magglish 99 yıllık portoyu alıp kaçtığından beri liman müdürü peşimde. Sanırım o şişe, Baron Revilgaz'ın kendisinden başkası tarafından Gazlowe'a hediye olarak tasarlanmıştı.NEW_LINEEğer Mad Magglish'i bulup o portoyu geri alacak kadar cesur ve sabırlıysan, sana güzel bir ödül vereceğim.",
     ["Completion"]="Süper! Ve tam da işimi kaybetmek üzereyken! Gazlowe'un bu hediyeyi hemen almasını sağlayacağım.NEW_LINETeşekkürler, YOUR_NAME. İyi işti, diyorum!",
@@ -8205,7 +8203,7 @@ QuestTranslator_QuestData = {
     -- Serpentbloom
     ["962"] = {
     ["Title"]="Serpentbloom",
-    ["Description"]="Lordaeron'un büyük Yeraltı Şehri'nde bulunan Kraliyet Eczacı Topluluğu beni buraya çok özel bir hizmet için gönderdi, YOUR_NAME. Belki de bana ve karşılığında Karanlık Leydi'ye, Yitik'i ilerletme çabalarımızda yardım etmek istersin.NEW_LINEGeçenlerde Serpentbloom adında nadir bir bitki örneğini inceledim. Daha büyük miktarlarda bu bitkinin büyük bir potansiyele sahip olduğuna inanıyorum.NEW_LINENe yazık ki Serpentbloom sadece Barrens'te bulunan tehlikeli bir mağara sistemi olan Wailing Caverns'un en karanlık girintilerinde bulunabilir.",
+    ["Description"]="Lordaeron'un büyük Yeraltı Şehri'nde bulunan Kraliyet Eczacı Topluluğu beni buraya çok özel bir hizmet için gönderdi, YOUR_NAME. Belki de bana ve karşılığında Karanlık Leydi'ye, Yitik'i ilerletme çabalarımızda yardım etmek istersin.NEW_LINEGeçenlerde Serpentbloom adında nadir bir bitki örneğini inceledim. Daha büyük miktarlarda bu bitkinin büyük bir potansiyele sahip olduğuna inanıyorum.NEW_LINENe yazık ki Serpentbloom sadece Barrens'te bulunan tehlikeli bir mağara sistemi olan Ağlayan Mağaralar(Wailing Caverns)'un en karanlık girintilerinde bulunabilir.",
     ["Objectives"]="Thunder Bluff'taki Eczacı Zamah sizden 10 Serpentbloom toplamanızı istiyor.",
     ["Progress"]="Ağlayan Mağaralar'dan yeterince Serpentbloom toplayıp toplayamayacağını görmek için sabırsızlanıyorum. Emrimi yerine getirmesi için birçok kişi gönderdim ama hiçbiri geri dönmedi.",
     ["Completion"]="Ah, muhteşem örnekler. İyi iş çıkardın, YOUR_NAME.",
@@ -16074,44 +16072,41 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end Üzüm Manifestosu
 
-    -- Wenikee Boltbucket
     ["3921"] = {
-    ["Title"]="Wenikee Boltbucket",
-    ["Description"]="Sanırım bu sefer gerçekten ayağımı koydum - yük taşıyan akkorlardan birini deregülatör dişlisinin tellerine çarpmış olabilirim. Bunu kolayca düzeltebiliriz. Üç genleşmeli piston tahrikleri konusunda bir uzman tanıyorum, eline bir samophlange almak ister. Bozuk samophlange'ı Mor'shan Rampart'ın hemen güneyindeki Wenikee Boltbucket'a götürün, hemen tamir edecektir.NEW_LINEHey, yürümeye gerek yok - bu bana kişisel insan taşıyıcı cihazımı test etmek için mükemmel bir fırsat veriyor!",
-    ["Objectives"]="Kırık ve Hırpalanmış Samophlange'ı Wenikee Boltbucket'a getirin. Doğrudan ona ışınlanmak için Brak ile konuşun.",
-    ["Progress"]="İşimle çok meşgulüm, YOUR_CLASS. Benim için bir şeyiniz yoksa, en iyisi yolunuza devam etmeniz...",
-    ["Completion"]="Oh, bu nedir? Samophlange mı dedin? Samophlange nedir?NEW_LINEAh... ama tuttuğunuzda nasıl hareket ettiğine bakın. Ve içinde karmaşık dişlilerin sesi var. Aman Tanrım! Tamir edip ne yaptığını görmek istiyorum, ya sen?",
-    ["minlevel"]="0",
-    ["questlevel"]="0",
-    }, -- end Wenikee Boltbucket
+        ["Title"] = "Wenikee Cıvatakovası",
+        ["Description"] = "Sanırım o Samoflanç'ı kırmış olabilirim. Bu hiç iyi değil, çünkü Yeraltı Şehri'ndeki meslektaşlarıma ondan çoktan bahsettim ve epey ilgilerini çekti. Onu tamir etmenin bir yolunu bulmalıyız!\n\nKırık samoflanç'ı Çoraklar ile Külvadisi arasındaki Orda karargahı olan Mor'shan Surları'nın hemen güneyindeki Wenikee Cıvatakovası'na götür. Kendisi çok zeki ve meraklıdır. Ona samoflanç'ı gösterirsen, onu tamir etme fırsatının üzerine atlayacağına bahse girerim.",
+        ["Objectives"] = "Kırık Samoflanç'ı Wenikee Cıvatakovası'na getir.",
+        ["Progress"] = "İşimle çok meşgulüm, <class>. Bana getirdiğin bir şey yoksa, yoluna devam etsen iyi olur...",
+        ["Completion"] = "Oh, bu da ne? Bir samoflanç mı diyorsun? Samoflanç da ne??\n\nAh... ama elinde tuttuğunda nasıl hareket ettiğine bir baksana. Ve içinde karmaşık dişlilerin sesi var. Oh tanrım! Onu tamir etmek ve ne işe yaradığını görmek istiyorum, sen de istemiyor musun??",
+        ["minlevel"] = "0",
+        ["questlevel"] = "0"
+    },
 
-    -- Nugget Sümüklüböcekleri
     ["3922"] = {
-    ["Title"]="Nugget Sümüklüböcekleri",
-    ["Description"]="Bu samophlange'ı tamir etmek istiyorum ama bunun için bazı malzemelere ihtiyacım olacak. On yedi nokta beş kalibrelik nugget sümüklüböceklerim bitti ve önümüzdeki iş için onlardan bir demete ihtiyacım olacak.NEW_LINEOnları bulabileceğin en yakın yer yakındaki araştırma istasyonu ve doğudaki Çamur Çayı. Girişim Şirketi bunları genellikle alet kovalarında saklar. Her iki bölgedeki alet kovalarını arayın ve yeterince nugget sümüklüböceği topladığınızda bana geri dönün.",
-    ["Objectives"]="Çamur Feneri etrafındaki kovalardan 10 Nugget Sümüklüböceği toplayın.",
-    ["Progress"]="Nugget sümüklüböceğiniz var mı, YOUR_NAME ? Bu Samophlange'a bakıyordum ve onunla uğraşmak için sabırsızlanıyorum.",
-    ["Completion"]="Harika, onları yakalamışsın! Şimdi işe koyulabilirim.",
-    ["minlevel"]="0",
-    ["questlevel"]="0",
-    }, -- end Nugget Sümüklüböcekleri
+        ["Title"] = "Külçe Mermileri",
+        ["Description"] = "Bu samoflanç'ı tamir etmek istiyorum ancak bunu yapmak için bazı malzemelere ihtiyacım olacak. On yedi nokta beş kalibrelik külçe mermilerim tükendi ve önümdeki iş için bunlardan bir sürü gerekecek.\n\nOnları alabileceğin en yakın yer doğudaki Balçık Bataklığı'dır. Girişim Şirketi onları genellikle alet kovalarında tutar. Balçık Bataklığı'na git ve orada bulduğun alet kovalarının içine bak, ardından yeterince külçe mermisi topladığında bana geri dön.",
+        ["Objectives"] = "Çoraklar'daki Wenikee Cıvatakovası'na 15 Külçe Mermisi getir.",
+        ["Progress"] = "Külçe mermilerini aldın mı, <name>? Gözüm bu Samoflanç'ın üzerindeydi ve onunla kurcalamak için sabırsızlanıyorum.",
+        ["Completion"] = "Harika, onları bulmuşsun! Şimdi işe koyulabilirim...",
+        ["minlevel"] = "0",
+        ["questlevel"] = "0"
+    },
 
-    -- Rilli Greasygob
     ["3923"] = {
-    ["Title"]="Rilli Greasygob",
-    ["Description"]="Bu işe yaramadı. Yapısal bütünlüğünü ölçmek için samophlange üzerine bazı ekstra göstergeler koydum ve bütünlüğü tüm zamanların en düşük seviyesinde okudular. Düzeltmek için birkaç kadran ve belki bir iki kol daha ekleyebilirim ama... Bence bu işleri daha da kötüleştirebilir.NEW_LINESamophlange'ı Rilli Greasygob'a götürmelisin. Eskiden Venture Company için çalışıyordu -- bunu nasıl tamir edeceğini bilen biri varsa, o da Rilli'dir.NEW_LINEOnu Orgrimmar'da, Onur Vadisi'ndeki Nogg'un Makine Dükkânı'nda bulabilirsin.",
-    ["Objectives"]="Kırık ve Hırpalanmış Samophlange'ı Orgrimmar'daki Rilli Greasygob'a getirin.",
-    ["Progress"]="Kafana dikkat et! İşime engel olmasını istemiyorum!",
-    ["Completion"]="Bu da ne? Neden, bu bir samophlange! Bu şeyi nereden buldun? Barrens'taki Girişim(Venture) Şirketi'ni mi karıştırıyordun?NEW_LINEYa çok cesur ya da çok aptal olmalısın.",
-    ["minlevel"]="0",
-    ["questlevel"]="0",
-    }, -- end Rilli Greasygob
+        ["Title"] = "Rilli Yağlıağız",
+        ["Description"] = "Pekala, bu işe yaramadı. Yapısal bütünlüğünü ölçmek için samoflanç'a fazladan birkaç gösterge ekledim ve bütünlüğü tüm zamanların en düşük seviyesinde gösteriyorlar. Tamir etmeyi denemek için birkaç kadran ve belki bir iki kol daha ekleyebilirdim ama... Sanırım bu işleri daha da kötüleştirebilir.\n\nSamoflanç'ı Rilli Yağlıağız'a götürmelisin. Eskiden Girişim Şirketi için çalışırdı -- eğer onu nasıl tamir edeceğini bilen biri varsa, o da Rilli'dir.\n\nOnu Orgrimmar'daki Onur Vadisi'nde bulunan Nogg'un Makine Dükkanı'nda bulabilirsin.",
+        ["Objectives"] = "Kırık ve Hırpalanmış Samoflanç'ı Orgrimmar'daki Rilli Yağlıağız'a getir.",
+        ["Progress"] = "Kafana dikkat et! İşimle arama girmesini istemiyorum!",
+        ["Completion"] = "Bu da ne? Yahu, bu bir samoflanç! Bu şeyi nereden buldun? Çoraklar'daki Girişim Şirketi mülklerini mi kurcalıyordun?\n\nÇok cesur olmalısın ya da çok aptal.",
+        ["minlevel"] = "0",
+        ["questlevel"] = "0"
+    },
 
     -- Samophlange El Kitabı
     ["3924"] = {
     ["Title"]="Samophlange El Kitabı",
     ["Description"]="Sanırım samophlange'ı tamir edebilirim, ama önce kullanım kılavuzuna ihtiyacım olacak. Girişim Şirketi'ndeyken bir rakibim vardı, Patron Copperplug, samophlange'ın sırlarını saklıyor, cihaz hakkındaki küçük bilgileri güvendiği kişilere veriyordu. Ben o güvenilir azınlıktan biri değildim...NEW_LINEPatron Copperplug, Barrens'in kuzeydoğusundaki Boulder Lode Madeni'nde kalırdı. El kitabını ondan alın ve eğer birilerine el kitabından sayfalar verdiyse, onları da almanız gerekecek.",
-    ["Objectives"]="Samophlange El Kitabını Orgrimmar'daki Rilli Greasygob'a getir.",
+    ["Objectives"]="Samophlange El Kitabını Orgrimmar'daki Rilli Yağlıağız'a getir.",
     ["Progress"]="El kitabınız var mı?",
     ["Completion"]="Kılavuzu almışsın! Okumak ve Samophlange'ı nasıl tamir edeceğimi öğrenmek için sabırsızlanıyorum! Ratchet'teki Sputtervalve ile konuştum - yardımınız için teşekkür etmek ve çabalarınızı ödüllendirmek istedi.NEW_LINEBen de sana teşekkür etmek istiyorum ve eğer bu şeyi tamir edebilirsem sana haber vereceğim...",
     ["minlevel"]="0",
@@ -24092,8 +24087,8 @@ QuestTranslator_QuestData = {
 -- Gizemli Silahlar
     ["80312"] = {
     ["Title"]="Gizemli Silahlar",
-    ["Description"]="Ureda sadece layık büyücüleri gönderir! Ureda en kötüsüdür! <İki kafa şaşkın bir ifadeyle birbirine bakar.> Bir büyücü olarak gerçekten neye ihtiyacın olduğunu biliyoruz ve parçaları nereden bulacağımızı da biliyoruz. Bize parçaları ve özü de getir, biz de sana bir silah yapalım, evet! Parçaları nereden mi bulacaksın? Mağarada. Barrens (Çoraktopraklar)! Evet, evet. Wailing Caverns (Ağlayan Mağaralar) diyorlar oraya. Druidlerin ve yılanların olduğu mağaralar! Evet. Bize Aydeğmiş Odun, Yılanın Kristali ve Sürekli Değişen Öz bul. Evet, o özü! Hepsini bize getir, biz de onu layık bir silah yapalım! Evet, minnettar kalacaksın!",
-    ["Objectives"]="Chok'Garok'a Ağlayan Mağaralar'dan (Wailing Caverns) 5 adet Aydeğmiş Odun, bir Yılanın Kristali ve bir Sürekli Değişen Öz getir.",
+    ["Description"]="Ureda sadece layık büyücüleri gönderir! Ureda en kötüsüdür! <İki kafa şaşkın bir ifadeyle birbirine bakar.> Bir büyücü olarak gerçekten neye ihtiyacın olduğunu biliyoruz ve parçaları nereden bulacağımızı da biliyoruz. Bize parçaları ve özü de getir, biz de sana bir silah yapalım, evet! Parçaları nereden mi bulacaksın? Mağarada. Barrens (Çoraktopraklar)! Evet, evet. Ağlayan Mağaralar(Wailing Caverns) (Ağlayan Mağaralar) diyorlar oraya. Druidlerin ve yılanların olduğu mağaralar! Evet. Bize Aydeğmiş Odun, Yılanın Kristali ve Sürekli Değişen Öz bul. Evet, o özü! Hepsini bize getir, biz de onu layık bir silah yapalım! Evet, minnettar kalacaksın!",
+    ["Objectives"]="Chok'Garok'a Ağlayan Mağaralar'dan (Ağlayan Mağaralar(Wailing Caverns)) 5 adet Aydeğmiş Odun, bir Yılanın Kristali ve bir Sürekli Değişen Öz getir.",
     ["Progress"]="Parçalar henüz hazır mı? Evet, evet, parçaları getir!",
     ["Completion"]="Evet, evet! İhtiyacımız olan şey bu! Bununla gizemli (arcane) sanatları dokumak çok kolay olacak! Evet, güçlü büyüler! Şimdi bu silahı al, git, gururlu ve güçlü ol. Evet, evet. Chok'Garok güçlüdür, evet!",
     ["minlevel"]="0",
@@ -24322,7 +24317,7 @@ QuestTranslator_QuestData = {
 -- İçeriden Saldırı
     ["40099"] = {
     ["Title"]="İçeriden Saldırı",
-    ["Description"]="Lanetliler Tarikatı (Cult of the Damned) tarafından tasarlanan vebanın nasıl çalıştığını biliyor musun? Hayır mı? Şey, önemli değil. Bilmen gereken şey, orijinali kadar güçlü olmasa da ona benzer bir şey yaptığım. Bu şişe, onu tüketen canlıların yaşam süresini ciddi şekilde azaltacak bir veba içeriyor. Şimdi, işte burada sen devreye giriyorsun canım. Fısıldayan Orman'ı (Whispering Forest) geçip kuzeye, Garrick'in Çiftliği (Garricks Stead) adındaki bir çiftlik evine gitmeni istiyorum. Orada, bu sıvının bir kısmını insanların erzağına karıştıracaksın. Ve hiç tanık kalmadığından emin ol.",
+    ["Description"]="Lanetliler Tarikatı (Cult of the Damned) tarafından tasarlanan vebanın nasıl çalıştığını biliyor musun? Hayır mı? Şey, önemli değil. Bilmen gereken şey, orijinali kadar güçlü olmasa da ona benzer bir şey yaptığım. Bu şişe, onu tüketen canlıların yaşam süresini ciddi şekilde azaltacak bir veba içeriyor. NEW_LINEŞimdi, işte burada sen devreye giriyorsun canım. Fısıldayan Orman'ı (Whispering Forest) geçip kuzeye, Garrick'in Çiftliği (Garricks Stead) adındaki bir çiftlik evine gitmeni istiyorum. Orada, bu sıvının bir kısmını insanların erzağına karıştıracaksın. Ve hiç tanık kalmadığından emin ol.",
     ["Objectives"]="5 Tahıl Kasasını zehirle ve Düşes Grelda'ya (Duchess Grelda) dönmeden önce Garrick'in Çiftliği'nde 7 Kalıntı Çiftçi ile 10 Kalıntı Milisi katlet.",
     ["Progress"]="Döndün mü bile?",
     ["Completion"]="İnsanların üzerlerine düşeni tam olarak planlandığı gibi yaptıklarına dair haberler aldım. Küçük hediyemizi ana kamplarına götürmüşler. Harika iş çıkardın canım.",
@@ -25128,7 +25123,7 @@ QuestTranslator_QuestData = {
 -- Kabusta Kapana Kısıldı
     ["60124"] = {
     ["Title"]="Kabusta Kapana Kısıldı",
-    ["Description"]="Ishnuallah, YOUR_CLASS. Çoraktopraklar'da (Barrens) bir sorun kaynıyor. Hayır, Güruh (Horde) ya da sentorlar değil, bu Ağlayan Mağaralar (Wailing Caverns) ile ilgili. Çoraktopraklar'ı yemyeşil bir vahaya dönüştürme girişimiydi ama ters tepti. Naralex, Zümrüt Rüya'nın (Emerald Dream) gücünden yararlanmaya çalıştı ama Kabus (Nightmare) ondan önce davranarak onu sonsuz bir uykuya daldırdı; her canavarı ve hatta çömezlerini bile yozlaştırdı! Ağlayan Mağaralar'ı Kuzey Çoraktopraklar'da bulabilirsin. Mağaralarda onun Müridini bul, onu nasıl özgür bırakabileceğini sana söyleyecektir.",
+    ["Description"]="Ishnuallah, YOUR_CLASS. Çoraktopraklar'da (Barrens) bir sorun kaynıyor. Hayır, Güruh (Horde) ya da sentorlar değil, bu Ağlayan Mağaralar (Ağlayan Mağaralar(Wailing Caverns)) ile ilgili. Çoraktopraklar'ı yemyeşil bir vahaya dönüştürme girişimiydi ama ters tepti. Naralex, Zümrüt Rüya'nın (Emerald Dream) gücünden yararlanmaya çalıştı ama Kabus (Nightmare) ondan önce davranarak onu sonsuz bir uykuya daldırdı; her canavarı ve hatta çömezlerini bile yozlaştırdı! Ağlayan Mağaralar'ı Kuzey Çoraktopraklar'da bulabilirsin. Mağaralarda onun Müridini bul, onu nasıl özgür bırakabileceğini sana söyleyecektir.",
     ["Objectives"]="Alanndarian Gecesarkısı (Alanndarian Nightsong), Kuzey Çoraktopraklar'daki Ağlayan Mağaralar'a girmeni ve Naralex'i Kabus'tan kurtarmanı istiyor. Nasıl yapacağını öğrenmek için mağaralardaki Müridini bul. Naralex'i kurtardığında ona geri dön.",
     ["Progress"]="Naralex'i sadece sen ve arkadaşların kurtarabilir, tek umudumuz sizsiniz.",
     ["Completion"]="Haber sen varmadan hemen önce geldi. Gerçekten sana borçluyuz. Al bakalım, senin gibi bir kahramana yakışır bir ödül.",
@@ -27835,7 +27830,7 @@ QuestTranslator_QuestData = {
     ["60131"] = {
     -- Orgrimmar, Durotar, Horde aynen korunmuştur. Sand Shark -> Kum Köpekbalığı.
     ["Title"]="Derin Mavi Deniz",
-    ["Description"]="Selamlar, YOUR_CLASS! Orgrimmar'ın yiyecek arzının büyük bir kısmı doğudaki denizden gelir. Erler (Grunts), balıkçıların ve yengeççilerin akrepler ile raptorların arasından geçmesine eskortluk ederek yardımcı olabilirler ancak şu köpekbalığı meselesi onlara üstün gelmeye başladı. Balıkçılar, kıyıda saygısı artan saldırgan köpekbalıklarının teknelerine saldırdığını bildirdi. Git ve sayısını azalt, yanına arkadaşlarını almayı da unutma. Yiyecek depolarımız tükenmeden önce bizi bu beladan kurtar!",
+    ["Description"]="Selamlar, YOUR_CLASS! NEW_LINEOrgrimmar'ın yiyecek arzının büyük bir kısmı doğudaki denizden gelir. Erler (Grunts), balıkçıların ve yengeççilerin akrepler ile raptorların arasından geçmesine eskortluk ederek yardımcı olabilirler ancak şu köpekbalığı meselesi onlara üstün gelmeye başladı. NEW_LINEBalıkçılar, kıyıda saygısı artan saldırgan köpekbalıklarının teknelerine saldırdığını bildirdi. Git ve sayısını azalt, yanına arkadaşlarını almayı da unutma. Yiyecek depolarımız tükenmeden önce bizi bu beladan kurtar!",
     ["Objectives"]="Durotar'ın doğu kıyısındaki Kum Köpekbalığı'nı (Sand Shark) öldür.",
     ["Progress"]="Deniz kokuyorsun, YOUR_CLASS. Bana canavarın katledildiğini söyle ki balıkçıyı tekrar işinin başına döndürebileyim.",
     ["Completion"]="Sayılarını kontrol altında tutmak önemlidir ancak onları tükenme eşiğine kadar avlamamak gerekir. Bugün Güruh (Horde) için büyük bir hizmette bulundun, YOUR_CLASS. Onurunla git.",
@@ -37490,7 +37485,7 @@ QuestTranslator_QuestData = {
     }, -- end Raiding The Lesser Tribes
 
 -- Rampant Weeds
-    -- Alanndrian kalmıştır. Wailing Caverns = Sızlanan Mağaralar (Wailing Caverns). Maze -> Labirent / Dolambaç, caves -> mağaralar.
+    -- Alanndrian kalmıştır. Ağlayan Mağaralar(Wailing Caverns) = Sızlanan Mağaralar (Ağlayan Mağaralar(Wailing Caverns)). Maze -> Labirent / Dolambaç, caves -> mağaralar.
     -- Barrens -> Çoraklar, Külvadi = Külvadi. Naralex kalmıştır. Kalimdor = Kalimdor.
     -- Rampant growths -> Azgın büyümeler / bitkiler. Stone labyrinth -> Taş labirent. Cenarion Circle -> Cenarion Çemberi (Cenarion Circle).
     -- Samples -> Örnekler. Thundris Windweaver -> Thundris Rüzgardokuyan kalmıştır. Auberdine = Auberdine.
@@ -37498,8 +37493,8 @@ QuestTranslator_QuestData = {
     -- Magic -> Büyü, druidic magic -> druid büyüsü. Druids -> Druidler, volatile growth -> devingen büyüme. Compensation -> Tazminat / Bedel.
     ["41363"] = {
     ["Title"]="Azgın Yabani Otlar",
-    ["Description"]="Öğrencim Alanndrian ile çoktan bir araya gelmiş olabilirsin; Külvadi'in güneyindeki Çoraklar'da (the Barrens) bulunan lanetli bir mağara labirenti olan Sızlanan Mağaralar'dan (Wailing Caverns) dışarı sürünen tehlikeleri araştırmayı  üstlendi. Soylu -ve kesinlikle safça- olsa da, Naralex'in ahmaklığı Kalimdor'un (Kalimdor) dengesine onarılamaz bir zarar verdi; bu durum en belirgin şekilde taş labirentten fışkıran azgın büyümelerde (rampant growths) ayırt edilebiliyor. Bu bitkilerden bazıları kendi başlarına hareket etmeye başladı, bu da Naralex'in istemsiz güçlerinin potansiyelinin bir kanıtıdır. Cenarion Çemberi (Cenarion Circle) ile bir karşı önlem tasarlayabilmem için bu bitkileri incelemek istiyorum. Sızlanan Mağaralar içinde bulabileceğin en vahşi bitkilerden bana yeterince örnek getir, karşılığını fazlasıyla alacaksın.",
-    ["Objectives"]="Auberdine'deki Thundris Windweaver, Sızlanan Mağaralar'daki (Wailing Caverns) Doğal Olmayan Aşırı Büyümelerin (Unnatural Overgrowths) örneklerine ihtiyaç duyuyor.",
+    ["Description"]="Öğrencim Alanndrian ile çoktan bir araya gelmiş olabilirsin; Külvadi'in güneyindeki Çoraklar'da (the Barrens) bulunan lanetli bir mağara labirenti olan Sızlanan Mağaralar'dan (Ağlayan Mağaralar(Wailing Caverns)) dışarı sürünen tehlikeleri araştırmayı  üstlendi. Soylu -ve kesinlikle safça- olsa da, Naralex'in ahmaklığı Kalimdor'un (Kalimdor) dengesine onarılamaz bir zarar verdi; bu durum en belirgin şekilde taş labirentten fışkıran azgın büyümelerde (rampant growths) ayırt edilebiliyor. Bu bitkilerden bazıları kendi başlarına hareket etmeye başladı, bu da Naralex'in istemsiz güçlerinin potansiyelinin bir kanıtıdır. Cenarion Çemberi (Cenarion Circle) ile bir karşı önlem tasarlayabilmem için bu bitkileri incelemek istiyorum. Sızlanan Mağaralar içinde bulabileceğin en vahşi bitkilerden bana yeterince örnek getir, karşılığını fazlasıyla alacaksın.",
+    ["Objectives"]="Auberdine'deki Thundris Windweaver, Sızlanan Mağaralar'daki (Ağlayan Mağaralar(Wailing Caverns)) Doğal Olmayan Aşırı Büyümelerin (Unnatural Overgrowths) örneklerine ihtiyaç duyuyor.",
     ["Progress"]="Dikkatli ol. Bu kabuslar ini (den of nightmares) sadece son derece tehlikeli olmakla kalmıyor, aynı zamanda Horde bölgesindeki (Horde territory) yolculuğun da öyle.",
     ["Completion"]="Merak uyandırıcı. Bu örnekler bana hiç de yabancı olmayan bir büyü yayıyor, ilk bakışta hatta druid büyüsü (druidic magic) yaydıklarını söyleyebilirim. Tabii ki aceleci sonuçlara varmamalıyız. Cenarion Çemberi (Cenarion Circle) içinde daha fazla araştırma yapılması gerekecek. Muhterem druidleri kesinlikle onların bu devingen büyümelerinin (volatile growth) kökenini çözebilir. YOUR_NAME, takdirimi kazandın. Lütfen, zahmetlerin için bir bedel (compensation) olarak bunlardan birini al.",
     ["minlevel"]="0",
@@ -65645,7 +65640,7 @@ QuestTranslator_QuestData = {
     }, -- end More Bat Eyes
 
     -- Your Fortune Awaits You...
-    -- Wailing Caverns -> İnleyen Mağaralar (ZoneData.lua)
+    -- Ağlayan Mağaralar(Wailing Caverns) -> İnleyen Mağaralar (ZoneData.lua)
     -- Crossroads -> Dörtyol (ZoneData.lua)
     -- Barrens -> Barrens (ZoneData.lua)
     ["7944"] = {
