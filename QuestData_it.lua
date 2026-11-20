@@ -7351,16 +7351,15 @@ QuestTranslator_QuestData = {
         ["questlevel"] = "0"
     },
 
-    -- Serena Bloodfeather
-    ["876"] = {
-    ["Title"]="Serena Bloodfeather",
-    ["Description"]="Öldürdüğün harpiler başrahipleri Serena Bloodfeather'dan bahsetti. Horde'a karşı duydukları iğrenç nefrete bakılırsa, derinlerde yatan bir tür kin besliyor olmalı. Serena Bloodfeather'ı avlamaya ve meseleyi sonsuza dek bitirmeye karar veriyorsun.",
-    ["Objectives"]="Serena Bloodfeather'ı öldür ve kellesini al.",
-    ["Progress"]="Ben Serena'nın kafasını görene kadar hiçbir şey alamayacaksın.",
-    ["Completion"]="HA! Aferin, YOUR_NAME! Çok iyi iş çıkardın. Bu görevi yapabileceğinden emin değildim, ama ne kadar acımasız olduğunu kanıtladın. Harpy salgınını bastırmamıza yardım ettiğin için tekrar teşekkürler. İşte ödülün, iyi kullan.",
-    ["minlevel"]="0",
-    ["questlevel"]="0",
-    }, -- end Serena Bloodfeather
+   ["876"] = {
+        ["Title"] = "Serena Kantüy",
+        ["Description"] = "Teğmenler ve alt kademedekilerle o kadar iyi iş çıkardın ki benim için son bir şey daha yapmanı istiyorum.\n\nSerena Kantüy, epey zaman önce Rexxar tarafından katledilen Kantüy adındaki bir harpinin kız kardeşidir. Görünüşe göre Orda kervanlarına yapılan bu saldırılar, kız kardeşinin ölümünün intikamıdır.\n\nOnun boğazını kesip bana kafasını getirmene ihtiyacım var. Onu yola çıkaracağımız bir sonraki kervana yerleştirmek istiyorum... O harpilerin düşünecek bir şeyleri olsun.\n\nSerena'yı Kuru Tepeler'in yukarısındaki cadı ininde bulabilirsin.",
+        ["Objectives"] = "Serena Kantüy'ı katlet ve kafasını Çaprazyollar'daki Darsok Hızlıhançer'e getir.",
+        ["Progress"] = "Serena'nın kafasını görene kadar hiçbir şey alamayacaksın.",
+        ["Completion"] = "HA! Aferin, <name>! Çok iyi iş... Bu görevin üstesinden gelebileceğinden emin değildim ama bayağı gözü kara bir katil olduğunu kanıtladın. Harpi salgınını bastırmamıza yardım ettiğin için sana tekrar teşekkür ederim. İşte ödülün, iyi kullan.",
+        ["minlevel"] = "0",
+        ["questlevel"] = "0"
+    },
 
     -- Durgun Vaha
     ["877"] = {
