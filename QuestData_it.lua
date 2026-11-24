@@ -4660,16 +4660,16 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end Hillsbrad Foothills'e Yolculuk
 
-    -- Grev Zamanı
+    -- Saldırı Zamanı
     ["494"] = {
-    ["Title"]="Grev Zamanı",
-    ["Description"]="Sessiz ol ve dikkatini ver, YOUR_CLASS.NEW_LINEHillsbrad kasabasını araştırmak için bu mevkiye gönderildim. Görevim bir keşif. Tarren Mill'deki Yüksek Yönetici Darthalia'ya derhal haber göndermeniz şart. Deathstalker Lesh olarak aşağıdaki mesajı gönderdiğimi bilmesini sağla:NEW_LINE\\",
-    ["Objectives"]="Deathstalker Lesh'in mesajını Yüksek Yönetici Darthalia'ya iletmek için Tarren Değirmeni'ne gidin.",
+    ["Title"]="Saldırı Zamanı",
+    ["Description"]="Sessiz ol ve dikkatini ver, <class>.NEW_LINEHillsbrad kasabasını gözlemlemek için bu mevziye gönderildim. Görevim bir keşif görevi. Tarren Değirmeni'ndeki Yüksek İnfazcı Darthalia'da hemen haber göndermen hayati önem taşıyor. Ben Ölümavcısı Lesh'in şu mesajı gönderdiğini ona ilet:NEW_LINE\"Batıdan gelen karga çığlığı çağırıyor.\"NEW_LINEDoğuya giden yolu takip et ve tabelalara çok dikkat et. Şimdi acele et! Tarren Değirmeni'ne doğru yola koyul, hem de acilen!",
+    ["Objectives"]="Ölümavcısı Lesh'in mesajını Tarren Değirmeni'ndeki Yüksek İnfazcı Darthalia'ya iletmek için Tarren Değirmeni'ne seyahat edin.",
     ["Progress"]="",
-    ["Completion"]="Kuzgunun batıdan gelen çığlığı çağırıyor mu?NEW_LINEHarika haberler! Hillsbrad saldırı için hazır. Yıkım planımızı şimdi uygulayabiliriz. Varimathras memnun olacak.",
+    ["Completion"]="Batıdan gelen karga çığlığı çağırıyor mu?NEW_LINEHarika haber! Hillsbrad saldırıya hazır. Yıkım planımızı şimdi gerçekleştirebiliriz. Varimathras memnun kalacak.",
     ["minlevel"]="0",
     ["questlevel"]="0",
-    }, -- end Grev Zamanı
+    }, -- end Saldırı Zamanı
 
     -- İrade Tacı
     ["495"] = {
@@ -4740,10 +4740,10 @@ QuestTranslator_QuestData = {
     -- Acı İksiri
     ["502"] = {
     ["Title"]="Acı İksiri",
-    ["Description"]="Dağ eteklerinde taze kan kokusu gibisi yok!NEW_LINEŞimdi biraz ondan biraz bundan karıştıralım ve asıl eğlence başlasın! Bu kanla yarattığım şeye ben Acı İksiri diyorum. Hesaplamalarım doğruysa, bu karışım Leydi Sylvanas için çok güzel bir şeyin başlangıcı olabilir. Ama ihtiyacımız olan şey bir test.NEW_LINEBu iksiri güneybatıdaki Hillsbrad Tarlaları'ndaki kuzey çiftliğine götür. Bakalım Çiftçi Ray'in küçük köpeği Stanley bu \\",
-    ["Objectives"]="Acı İksiri'ni Stanley'e ver.",
-    ["Progress"]="Woof?",
-    ["Completion"]="İksirin bir kısmını eline döküyorsun ve Stanley'nin ağzının önünde tutuyorsun.",
+    ["Description"]="Ah, eteklerdeki taze kan kokusu gibisi yok!NEW_LINEŞimdi buna biraz ondan, biraz da bundan karıştırıp asıl eğlencenin başlamasını sağlayacağız! Bu kanla oluşturduğum şeye ben Acı İksiri demeyi seviyorum. Hesaplamalarım doğruysa bu karışım Leydi Sylvanas için çok güzel bir şeyin başlangıcı olabilir. Ancak ihtiyacımız olan şey bir test.NEW_LINEBu iksiri güneybatıdaki Hillsbrad Tarlaları'ndaki kuzey çiftliğine götür. Çiftçi Ray'in küçük köpeği Stanley'nin bu \"ikramı\" ne kadar seveceğini görelim.",
+    ["Objectives"]="Acı İksiri'ni Stanley'ye içirin.",
+    ["Progress"]="Hav?",
+    ["Completion"]="İksirin bir kısmını elinize döküp Stanley'nin ağzına doğru tutuyorsunuz.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Acı İksiri
@@ -5012,16 +5012,16 @@ QuestTranslator_QuestData = {
     ["questlevel"]="0",
     }, -- end Hafif Dövme Külçeleri
 
-    -- Hillsbrad Savaşı
+    -- Hillsbrad Muharebesi
     ["527"] = {
-    ["Title"]="Hillsbrad Savaşı",
-    ["Description"]="Bana YOUR_CLASS diye hitap ederken hazır olda bekle. .NEW_LINEDoğrudan Sylvanas'ın emri altındayım. Eczacılarımız yeni vebayı geliştirene kadar insan istilasını bastırmakla görevliyiz.NEW_LINEElimizdeki bilgiler bizi Hillsbrad kasabasının saldırıya açık olduğuna inandırıyor. İlk göreviniz gıda tedariklerini ve altyapılarını bozmak olacak.NEW_LINEBatıya git. Hillsbrad Tarlalarının en kuzeyindeki çiftliklere baskın düzenleyin. Toprak sahipleri Çiftçi Ray ve Çiftçi Getz'in de infaz edildiğinden emin olun.",
-    ["Objectives"]="6 Hillsbrad Farmhands, 6 Hillsbrad Farmers, Farmer Ray ve Farmer Getz'i öldürün ve Tarren Mill'deki Darthalia'ya rapor verin.",
-    ["Progress"]="Tarren Değirmeni'nin Yüksek Yöneticisi olarak, Varimathras ve Karanlık Leydi'nin doğrudan emri altında, emirlerime uymakla yükümlüsünüz.NEW_LINEBelki de İttifak'la olan bu savaşı hafife alıyorsun? Eğer öyleyse, hemen şimdi burada kelleni uçurmalıyım. Aksi takdirde, batıya Hillsbrad kasabasına gidin ve emredildiği gibi insanlara karşı savaşın.NEW_LINEDağılabilirsiniz.",
-    ["Completion"]="Rahat, YOUR_CLASS. Savaştan döndüğünü görüyorum. Kaynaklarım bana Hillsbrad cephesinde iyi performans gösterdiğinizi söyledi.",
+    ["Title"]="Hillsbrad Muharebesi",
+    ["Description"]="Benimle konuşurken hazırolda dur, <class>.NEW_LINEDoğrudan Varimathras'ın komutası altındayım. Simyacılarımız yeni veba ilacını geliştirene kadar insan istilasını bastıracağız.NEW_LINEİstihbaratımız Hillsbrad kasabasının saldırıya açık olduğuna inanmamıza yol açıyor. İlk göreviniz onların yiyecek arzını ve altyapısını bozmayı hedefliyor.NEW_LINEBatıya seyahat et. Hillsbrad Tarlaları'nın en kuzeyindeki çiftliklere baskın yap. Mülk sahipleri Çiftçi Ray ve Çiftçi Getz'in de idam edildiğinden emin ol.",
+    ["Objectives"]="6 Hillsbrad Çiftlik İşçisi, 6 Hillsbrad Çiftçisi, Çiftçi Ray ve Çiftçi Getz'i öldürün ve Tarren Değirmeni'ndeki Darthalia'ya rapor verin.",
+    ["Progress"]="Varimathras ve Karanlık Leydi'nin doğrudan komutası altındaki Tarren Değirmeni'nin Yüksek İnfazcısı olarak, emrime uymakla yükümlüsünüz.NEW_LINEBelki de İttifak ile olan bu savaşı hafife alıyorsunuzdur? Eğer durum buysa, tam burada ve şu anda kafanızı kesmeliyim. Aksi takdirde, emredildiği gibi batıya Hillsbrad kasabasına gidin ve insanlara karşı savaşın.NEW_LINERahat.",
+    ["Completion"]="Rahat ol, <class>. Muharebeden döndüğünü görüyorum. Kaynaklarım Hillsbrad cephesinde iyi performans gösterdiğini söylüyor.",
     ["minlevel"]="0",
     ["questlevel"]="0",
-    }, -- end Hillsbrad Savaşı
+    }, -- end Hillsbrad Muharebesi
 
     -- Hillsbrad Savaşı
     ["528"] = {
@@ -22240,8 +22240,8 @@ QuestTranslator_QuestData = {
 -- A Blaze Unending
     ["41753"] = {
     ["Title"]="Bitmeyen Bir Alev",
-    ["Description"]="Dark Lady'nin hırsları çok sayıdadır ve karmaşıktır. İntikam yolunda, bedeli ne olursa olsun elindeki her türlü aracı kullanacaktır. Bu doğrultuda, bir dizi güçlü relic onun dikkatini çekti; entrikaları için etkili olacak relic'ler.Orc'lar kadim büyülerinin sırlarını çok iyi gizliyorlar; bu sırları, ilkel büyülerini daha iyi kullanabilecek olanların gözlerinden saklıyorlar. Bunlardan biri, pyremaster'ları tarafından korunan ve beslenen güçlü bir enerji kaynağı olan Eternal Flame'dir. Dark Lady bu artifact'i arzuluyor ve onun bu isteğini yerine getirecek olan sensin.Uzak güneyde, Khaz Modan'ın cüce bölgesi Wetlands'te, Dragonmaw Retreat adlı sıçan yuvasını bulacaksın. Grim Batol'un lanetli dağının terk edilmiş bir maden tesisi olan bu yer, eski Dragonmaw Clan'ının çılgın kalıntılarına ev sahipliği yapıyor. Onların bu acınası saklanma yerine sız ve flamekeeper'ları tarafından korunan Eternal Flame'i bana getir.",
-    ["Objectives"]="Eternal Flame'i Dragonmaw Retreat'in içinden ele geçirin ve Tarren Mill'deki Shara Blazen'a getirin.",
+    ["Description"]="Dark Lady'nin hırsları çok sayıdadır ve karmaşıktır. İntikam yolunda, bedeli ne olursa olsun elindeki her türlü aracı kullanacaktır. Bu doğrultuda, bir dizi güçlü relic onun dikkatini çekti; entrikaları için etkili olacak relic'ler.NEW_LINEOrc'lar kadim büyülerinin sırlarını çok iyi gizliyorlar; bu sırları, ilkel büyülerini daha iyi kullanabilecek olanların gözlerinden saklıyorlar. Bunlardan biri, pyremaster'ları tarafından korunan ve beslenen güçlü bir enerji kaynağı olan Eternal Flame'dir. Dark Lady bu artifact'i arzuluyor ve onun bu isteğini yerine getirecek olan sensin.NEW_LINEUzak güneyde, Khaz Modan'ın cüce bölgesi Wetlands'te, Ejderhaagzı Sığınağı(Dragonmaw Retreat) adlı sıçan yuvasını bulacaksın. Grim Batol'un lanetli dağının terk edilmiş bir maden tesisi olan bu yer, eski Dragonmaw Clan'ının çılgın kalıntılarına ev sahipliği yapıyor. Onların bu acınası saklanma yerine sız ve flamekeeper'ları tarafından korunan Eternal Flame'i bana getir.",
+    ["Objectives"]="Eternal Flame'i Ejderhaagzı Sığınağı(Dragonmaw Retreat)'nın içinden ele geçirin ve Tarren Mill'deki Shara Blazen'a getirin.",
     ["Progress"]="Bu basit insanlar uğraştıkları gücü kavrayamazlar. Bir kez bizim kontrolümüze geçtiğinde, nihayet tam potansiyeline ulaşabilir.",
     ["Completion"]="Sen sadık ve itaatkar bir kul sun, YOUR_CLASS. Bu bağlılığın için bir ödül seni bekliyor. Bunu al ve yoluna devam et, Dark Lady gereksiz yere oyalanılmasından hoşlanmaz.",
     ["minlevel"]="0",
@@ -27717,10 +27717,10 @@ QuestTranslator_QuestData = {
     ["40282"] = {
     -- "Heritage" ve "Legacy" birbirini takip eden iki görev olup ilki Miras, ikincisi Yadigar olarak aktarılmıştır. Duchess Grelda -> Düşes Grelda.
     ["Title"]="Darlthos Yadigarı",
-    ["Description"]="Tüm bu bilgi, sadece çürümeye terk edilmiş. Sen, dostum, bana değerli bir hediye getirdin. Ama konudan sapıyorum. Muhtemelen sadece o kutuyu nasıl açacağını öğrenmek istiyorsun. Bakalım. <Pierce eşyaların arasından eski bir parşömen çıkarır.> İşte buradasın. Hah, yapması düşündüğümden daha kolaymış. Kutuyu açmak için kanı gerektiğinden bu talimatları Düşes Grelda'ya götürmen gerekecek. Düşes'in şu anda Tirisfal Yaylaları'ndan (Tirisfal Uplands) gelen güney yolu üzerindeki bir malikanede ikamet ettiğini duydum. Sağlıcakla kal ve eğer eski büyülü eşyaları kurtarmak için başka bir tehlikeli yere dalmak istersen, bana haber ver.",
+    ["Description"]="Tüm bu bilgi, sadece çürümeye terk edilmiş. Sen, dostum, bana değerli bir hediye getirdin. Ama konudan sapıyorum. Muhtemelen sadece o kutuyu nasıl açacağını öğrenmek istiyorsun. Bakalım. \n<Pierce eşyaların arasından eski bir parşömen çıkarır.> \nİşte buradasın. Hah, yapması düşündüğümden daha kolaymış. Kutuyu açmak için kanı gerektiğinden bu talimatları Düşes Grelda'ya götürmen gerekecek. Düşes'in şu anda Tirisfal Yaylaları'ndan (Tirisfal Uplands) gelen güney yolu üzerindeki bir malikanede ikamet ettiğini duydum. Sağlıcakla kal ve eğer eski büyülü eşyaları kurtarmak için başka bir tehlikeli yere dalmak istersen, bana haber ver.",
     ["Objectives"]="Parşömeni ve kutuyu Düşes Grelda'ya götür.",
     ["Progress"]="Çabuk konuş.",
-    ["Completion"]="Kocamdan, asil hanemize böylesine önemli bir görevde yardımcı olabilecek yetenekte birini bulduğuna dair bildirimi zaten almıştım. Bu işin üstesinden kesinlikle başarıyla geldin. Ah, demek açmak için benim kanım gerekiyor, hala bir miktar kanım kalmış olması iyi bir şey. Ama bu büyü çetrefilli olacak. Her halükarda, ben ritüeli hazırlarken burada günlerce kalmak isteyeceğinden şüpheliyim. Ödülün konusuna gelirsek: Aile cephaneliğimden yadigarlardan birini seçmene izin vereceğim. Bize sağladığın tüm bu yardımlardan sonra bunu makul bulacağını umuyorum.",
+    ["Completion"]="Kocamdan, asil hanemize böylesine önemli bir görevde yardımcı olabilecek yetenekte birini bulduğuna dair bildirimi zaten almıştım. Bu işin üstesinden kesinlikle başarıyla geldin. Ah, demek açmak için benim kanım gerekiyor, hala bir miktar kanım kalmış olması iyi bir şey. \nAma bu büyü çetrefilli olacak. Her halükarda, ben ritüeli hazırlarken burada günlerce kalmak isteyeceğinden şüpheliyim. Ödülün konusuna gelirsek: Aile cephaneliğimden yadigarlardan birini seçmene izin vereceğim. Bize sağladığın tüm bu yardımlardan sonra bunu makul bulacağını umuyorum.",
     ["minlevel"]="0",
     ["questlevel"]="0",
     }, -- end Darlthos Legacy
