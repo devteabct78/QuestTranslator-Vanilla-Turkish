@@ -1490,5 +1490,9 @@ QuestTranslator_BookData = {
 	["Tainted Scroll"] = {
     	["Title"] = "Lanetli Parşömen",
     	["Text"] = "İçinde bulunduğumuz berbat bir durum, değil mi YOUR_NAME? Aşağılık Prens tarafından lanetlendik. Kendi sevdiklerimiz tarafından dışlandık ve hor görüldük. Güzel Sylvanas sayesinde nihayet kendi irademize kavuştuk ama bu bize ne sağlıyor ki? Farklı bir efendinin kölesi olmak halâ köleliktir, ya da ben öyle diyorum.NEW_LINEPeki ya efendiler biz olsaydık? Evet, ne demek istediğimi biliyorsun, değil mi?NEW_LINETerk Edilmişler'in geri kalanından bile daha kopuğuz Sehhar. Ve bu yüzden daha ayrıntılı konuşmalıyız. Beni Ölümçanı'ndaki kilisede bul."
-	}
+	},
+	["Batskin Letter"] = {
+		["Title"] = "Yarasaderisi Mektup",
+		["Text"] = "\nYOUR_NAME, yeni bir aceminin avcılık sanatına tutku duyduğunu duymak benim için bir zevkti.\n\nHayattayken kendimizi cüceler ya da yüksek elfler kadar büyük nişancılar olarak görmemiş olsak da, yaban hayata duyduğumuz sevgiden gurur duyardık. Hayvanlarla dostluk kurarak onları uzun ve sadık birer yoldaş yapmak, rüzgarın her esintisinde doğanın ritmini ve çağrısını hissetmek, nehrin her iniltisi hayatımıza en büyük neşeyi getiren şeydi.\n\nDoğaya uyum sağlamak en büyük ve en soylu hedeflerimizden biriydi; yine de huzursuz bir ölümden sonra ne geleceğini deneyimledikçe artık doğaya uyum sağlayamıyoruz, görünüşe göre doğanın kendisinin bize uyum sağlaması gerekecek. Benimle mezarlıkta buluş; geçmiş deneyimlerimi, hayatta kalman ve Lich King'e karşı intikamını alman için birkaç püf noktayı sana orada öğreteceğim.\n\nBanshee Kraliçesi için, Terk Edilmişler için."
+	},
 }
